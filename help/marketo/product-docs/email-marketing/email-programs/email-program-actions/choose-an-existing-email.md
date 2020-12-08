@@ -1,0 +1,61 @@
+---
+unique-page-id: 2359451
+description: Choisir un courriel existant - Documents marketing - Documentation du produit
+title: Choisir un courriel existant
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 0%
+
+---
+
+
+# Choisir un courriel existant {#choose-an-existing-email}
+
+>[!NOTE]
+>
+>**Conditions préalables**
+>
+>* [Créer un Programme de messagerie](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Définissez une Audience avec une Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) dynamique ou [définissez une Audience en important une Liste.](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+
+>
+
+
+
+Une fois que vous avez [créé un programme](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) de messagerie et défini votre audience, vous devez décider de l&#39;adresse électronique que vous envoyez. Vous pouvez [créer un courrier électronique pour un programme](create-an-email-for-an-email-program.md) de courrier électronique à partir de zéro ou en sélectionner un qui existe déjà. Voici comment en choisir un qui existe déjà.
+
+1. Accédez à Activités **** marketing.
+
+   ![](assets/login-marketing-activities.png)
+
+1. Recherchez et sélectionnez votre programme de messagerie.
+
+   ![](assets/selectemailprogram.jpg)
+
+1. Sous la mosaïque **Courriel** , sélectionnez celui que vous souhaitez envoyer.
+
+   ` ![](assets/image2014-9-12-11-3a28-3a10.png)
+
+   `
+
+   >[!NOTE]
+   >
+   >Seuls les courriers électroniques locaux peuvent être sélectionnés. Vous devez déplacer un courriel d&#39;un programme à un autre ? [Apprenez ici](move-an-email.md).
+
+   Doux !   ![](assets/image2014-9-12-11-3a28-3a51.png)
+
+Maintenant que nous avons décidé quel courriel envoyer, nous pouvons configurer un test A/B, ou l&#39;ignorer et planifier le programme de courriel.
+
+>[!NOTE]
+>
+>**Articles connexes**
+>
+>* [Ajouter un test A/B](email-test-a-b-test/add-an-a-b-test.md)
+>* [Planification de votre Programme de messagerie](schedule-your-email-program.md)
+
+>
+
+
+
