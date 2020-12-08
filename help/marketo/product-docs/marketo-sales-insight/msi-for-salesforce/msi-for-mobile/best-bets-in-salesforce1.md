@@ -1,0 +1,34 @@
+---
+unique-page-id: 7511959
+description: Meilleurs paris dans Salesforce1 - Docs marketing - Documentation du produit
+title: Meilleurs paris dans Salesforce1
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 0%
+
+---
+
+
+# Meilleurs paris dans Salesforce1 {#best-bets-in-salesforce}
+
+Vos [meilleurs paris](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sont vos pistes et contacts avec la plus grande urgence et le score relatif. Seules les pistes que vous possédez sont visibles dans cette liste et la liste est mise à jour à mesure que les scores changent.
+
+1. Accédez à la zone Marketo dans l’application Salesforce.
+
+   Dans la liste déroulante, vous pouvez choisir &quot;Mes meilleurs paris&quot;, &quot;Ma Liste de contrôle&quot;, &quot;Activité Web&quot;, &quot;Activité Web anonyme&quot; ou &quot;Mon courriel&quot;.
+
+   ![](assets/one-2.png)
+
+>[!NOTE]
+>
+>**Articles connexes**
+>
+>* [Moments intéressants à Salesforce1](interesting-moments-in-salesforce1.md)
+>* [Envoyer un courrier électronique marketing et des actions Campaign et Watchlist dans Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+
+>
+
+
+
