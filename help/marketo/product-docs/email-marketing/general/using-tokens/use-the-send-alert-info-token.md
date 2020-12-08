@@ -1,0 +1,73 @@
+---
+unique-page-id: 2952678
+description: Utiliser le jeton Envoyer les informations d'alerte {{SP_Send_Alert_Info}} - Documents marketing - Documentation du produit
+title: Utiliser le jeton d'informations d'alerte Envoyer
+translation-type: tm+mt
+source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+workflow-type: tm+mt
+source-wordcount: '316'
+ht-degree: 0%
+
+---
+
+
+# Utiliser le jeton d&#39;informations d&#39;alerte Envoyer {#use-the-send-alert-info-token-sp-send-alert-info}
+
+Le `{{SP_Send_Alert_Info}}` jeton est un jeton spécial à utiliser lors de la création d&#39;e-mails d&#39;alerte pour votre équipe commerciale.
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+
+>[!TIP]
+>
+>Ce jeton fonctionne uniquement comme prévu lors de l’envoi du courrier électronique contenant le jeton avec l’étape de flux [Envoyer une alerte](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) . Il ne fonctionnera pas lorsqu&#39;il est utilisé dans une étape de flux Envoyer un courrier électronique.
+
+Exemple d&#39;alerte :   ![](assets/image2014-9-25-15-3a17-3a58.png)
+
+>[!NOTE]
+>
+>Allez ! Les URL des alertes comportent des dates d’expiration. Assurez-vous donc qu’elles disposent d’une cadence prenant en charge ces types de messages. Les dates d’expiration sont [configurées par un administrateur](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+
+Les informations suivantes sont incluses dans le `{{SP_Send_Alert_Info}}`:
+
+* Prénom et nom en tant que lien vers le détail de la personne dans Marketo
+* Un lien vers la personne dans votre CRM
+* Nom de la campagne dans Marketo qui a envoyé l&#39;alerte
+* Heure à laquelle l&#39;alerte a été envoyée
+
+>[!NOTE]
+>
+>Le lien vers la gestion de la relation client n&#39;apparaîtra que si la personne se trouve dans le système de gestion de la relation client (actuellement indisponible avec Dynamics CRM). Le lien est accessible aux utilisateurs de Marketing et non de Marketing.
+
+## Ajouter le jeton SP_Send_Alert_Info à un courrier électronique {#add-the-sp-send-alert-info-token-to-an-email}
+
+1. Sélectionnez le courrier électronique et cliquez sur **Modifier le brouillon**.
+
+   ![](assets/one-3.png)
+
+1. Cliquez avec le doublon sur la zone modifiable à laquelle vous souhaitez ajouter le jeton.
+
+   ![](assets/two-3.png)
+
+1. Placez le curseur à l’endroit où vous souhaitez placer le jeton, puis cliquez sur le bouton **Insérer un jeton** .
+
+   ![](assets/three-3.png)
+
+1. Recherchez et sélectionnez le **`{{SP_Send_Alert_Info}}`** jeton, puis cliquez sur **Insérer**.
+
+   ![](assets/image2014-9-25-15-3a19-3a11.png)
+
+1. Cliquez sur **Enregistrer**.
+
+   ![](assets/image2014-9-25-15-3a19-3a24.png)
+
+>[!NOTE]
+>
+>**Rappel**
+>
+>N&#39;oubliez pas d&#39;approuver votre courriel.
+
+C&#39;est bien ! Ce jeton est très utile et vous devez l&#39;utiliser dans toutes les alertes que vous créez pour votre équipe commerciale.
