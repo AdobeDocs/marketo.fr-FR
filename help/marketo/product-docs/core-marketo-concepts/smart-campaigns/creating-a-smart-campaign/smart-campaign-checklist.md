@@ -1,0 +1,73 @@
+---
+unique-page-id: 1147051
+description: Liste de contrôle Campaign intelligente - Documents marketing - Documentation du produit
+title: Liste de vérification Campaign intelligente
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '299'
+ht-degree: 0%
+
+---
+
+
+# Liste de vérification Campaign intelligente {#smart-campaign-checklist}
+
+Suivez les étapes ci-dessous pour assurer le bon fonctionnement de la campagne intelligente et éviter autant que possible les erreurs.
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+
+1. Rid des erreurs de Liste intelligente
+
+   Dans votre campagne intelligente, cliquez sur Liste **** intelligente. Débarrassez-vous des lignes rouges qui grincent en corrigeant les erreurs.
+
+   ![](assets/image2014-9-22-16-3a9-3a13.png)
+
+   >[!TIP]
+   >
+   >Des lignes rouges ondulantes indiquent des erreurs ou des informations manquantes. Si elle n’est pas corrigée, la campagne n’est pas valide et ne s’exécute pas.
+   >
+   >
+   >Aussi, **gardez les choses simples**. Si vous avez des dizaines ou des centaines de filtres, il est difficile de le maintenir et de le suivre. Le chargement des filtres est également moins rapide.
+
+   >[!NOTE]
+   >
+   >**Rappel**
+   >
+   >
+   >L&#39;utilisation **du membre de la Liste** dynamique peut comporter des erreurs dans cette autre liste. Vérifiez là aussi.
+
+1. Récupérer les erreurs de flux
+1. Dans votre campagne intelligente, cliquez sur **Flux**. Débarrassez-vous de toutes les lignes rouges ondulantes que vous voyez en corrigeant les erreurs.
+
+   ![](assets/image2014-9-22-16-3a10-3a49.png)
+
+   >[!TIP]
+   >
+   >Passez la souris sur la ligne rouge ondulée pour afficher les détails de l’erreur.
+
+1. Onglet Planifier
+1. Dans l’onglet **Planification** , cochez **Smart** **Liste** **Status pour connaître les erreurs de la campagne intelligente qui doivent être corrigées.**
+
+   ![](assets/three.png)
+
+1. Limite des restrictions de personne à vérifier
+1. Dans l&#39;onglet **Calendrier** , assurez-vous que le nombre de personnes qualifiées ne dépasse pas la limite de restriction de personne.
+
+   ![](assets/four.png)
+
+   >[!TIP]
+   >
+   >Si nécessaire, vous pouvez [remplacer les restrictions de personne dans une campagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)dynamique.
+
+>[!NOTE]
+>
+>**Rappel**
+>
+>Si votre campagne dynamique échoue toujours, apprenez à [comprendre les notifications](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) pour comprendre ce qui s’est passé et comment y remédier.
+
+Super boulot ! Conservez cette liste de contrôle à portée de main avant d’exécuter une campagne dynamique.
