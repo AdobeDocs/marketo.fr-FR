@@ -1,8 +1,8 @@
 ---
-source-git-commit: 394be8f9a301fae26dbe3d397623eb2921b8fbf1
+source-git-commit: 0dbdb1f26a4dcf59f351511b072a6385935de86f
 workflow-type: tm+mt
 translation-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ Voici un ensemble de lignes directrices à suivre pour contribuer à ce projet.
 ## Code de conduite
 
 Ce projet respecte le [code de conduite](code-of-conduct.md)de l&#39;Adobe. En y participant, vous devez respecter ce code. Veuillez signaler un comportement inacceptable à[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
+
+## Documentation du Guide du contributeur
+
+Consultez le Guide [](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)des contributeurs.
 
 ## Avez-Vous Une Question ?
 
