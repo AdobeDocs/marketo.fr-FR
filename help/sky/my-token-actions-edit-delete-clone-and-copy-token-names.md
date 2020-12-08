@@ -2,9 +2,9 @@
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: Mes actions de jeton Modifier, Supprimer, Cloner et Copier les noms de jeton
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,6 @@ Dans l’onglet [!UICONTROL Mes jetons] de votre dossier de campagne ou de votre
 
 ## Copier un nom de jeton
 
-Pour copier le nom d’un jeton dans le Presse-papiers (c.-à-d. {{my.Événement Calendar File}}), cliquez avec le bouton droit de la souris sur le jeton et sélectionnez [!UICONTROL **Copier le nom**] du jeton.
+Pour copier le nom d’un jeton dans le Presse-papiers (par exemple `{{my.Event Calendar File}}`), cliquez avec le bouton droit de la souris sur le jeton et sélectionnez **Copier le nom** du jeton.
 
 ![Image sept](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
