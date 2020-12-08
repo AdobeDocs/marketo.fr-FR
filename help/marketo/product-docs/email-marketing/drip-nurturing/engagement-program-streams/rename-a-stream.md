@@ -1,0 +1,31 @@
+---
+unique-page-id: 2359832
+description: Renommer un flux - Documents marketing - Documentation du produit
+title: Renommer un flux
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '60'
+ht-degree: 0%
+
+---
+
+
+# Renommer un flux {#rename-a-stream}
+
+Si vous aimez rester organisé, vous pouvez renommer vos flux. Voici comment le faire.
+
+1. Recherchez et sélectionnez votre programme d’engagement, puis cliquez sur **Flux**.
+
+   ![](assets/cloneasteam-1.jpg)
+
+1. Doublon-cliquez sur le nom du flux actuel.
+
+   ![](assets/image2014-9-15-17-3a4-3a10.png)
+
+1. Saisissez le nouveau **nom** de flux et cliquez sur **Enregistrer**.
+
+   ![](assets/image2014-9-15-17-3a4-3a14.png)
+
+   Et voilà ! Vous savez maintenant comment renommer les flux.
+
