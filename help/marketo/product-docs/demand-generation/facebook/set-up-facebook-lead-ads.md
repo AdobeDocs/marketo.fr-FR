@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: Configurer des publicités Facebook avec pistes - Documents marketing - Documentation du produit
 title: Configurer des annonces de pistes Facebook
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Utilisez des publicités [de piste](https://www.facebook.com/business/a/lead-ads
 
    ![](assets/image2016-11-29-12-3a32-3a54.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Utiliser des Filtres et des déclencheurs d&#39;annonce de piste dans un Campaign dynamique](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [Faire correspondre les champs personnalisés à Marketo](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
