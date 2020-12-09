@@ -2,7 +2,7 @@
 title: utilisation-du-programme-aperçu-onglet
 description: Utilisation de l’onglet Aperçu du Programme
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-L’onglet Aperçu [!UICONTROL du] Programme comporte trois sections : [!UICONTROL **Détails**], [!UICONTROL **planification**] et [!UICONTROL **rapports**]. Voici un bref aperçu de chacun.
+L’onglet Aperçu [!UICONTROL du] Programme comporte trois sections : **[!UICONTROL Détails]**, **[!UICONTROL planification]** et **[!UICONTROL rapports]**. Voici un bref aperçu de chacun.
 
 ## Détails
 
@@ -22,7 +22,7 @@ La page principale de détails affiche des informations générales sur votre pr
 
 ![Image un](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Au bas de la page se trouvent deux sections : [!UICONTROL **Programme des statistiques**] et [!UICONTROL **utilisé par**]. [!UICONTROL **Les statistiques de programme**] vous montrent des mesures clés sur les performances des programmes et l’option [!UICONTROL **Utiliser par**] permet de déterminer facilement où votre programme est utilisé dans Marketo.
+Au bas de la page se trouvent deux sections : **[!UICONTROL Programme des statistiques]** et **[!UICONTROL utilisé par]**. **[!UICONTROL Les statistiques de programme]** vous montrent des mesures clés sur les performances des programmes et l’option **[!UICONTROL Utiliser par]** permet de déterminer facilement où votre programme est utilisé dans Marketo.
 
 ![Image 2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
