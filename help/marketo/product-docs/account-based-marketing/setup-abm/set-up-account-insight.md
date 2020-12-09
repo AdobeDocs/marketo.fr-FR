@@ -3,9 +3,9 @@ unique-page-id: 12979223
 description: Configurer Account Insight - Marketo Docs - Documentation sur les produits
 title: Configurer les informations de compte
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Voici comment configurer Account Insight.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Le score du compte ABM [doit être configuré](http://docs.marketo.com/display/DOCS/Account+Score) en premier.
 
