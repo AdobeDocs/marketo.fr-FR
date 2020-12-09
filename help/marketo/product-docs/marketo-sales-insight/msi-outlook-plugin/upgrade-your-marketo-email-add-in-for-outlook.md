@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: Mettez à niveau votre Ajoute électronique Marketo pour Outlook - Marketo Docs - Documentation du produit
 title: Mettre à niveau votre Ajoute de courriel Marketing to pour Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -154,9 +154,7 @@ Téléchargez le programme d&#39;installation approprié à votre version de Mic
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Envoi et suivi d&#39;un courriel avec l&#39;Ajoute de courriel Marketo pour Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Envoi et suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle de marketing](send-and-track-from-outlook-using-a-marketo-template.md)
