@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: Installation du module externe Marketo Outlook par le service informatique - Docs Marketo - Documentation du produit
 title: Installation du module externe Marketo Outlook par le service informatique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Parfois, les stratégies d’entreprise exigent que l’équipe informatique installe tous les logiciels sur les ordinateurs de ses employés. Dans ces cas, le service informatique effectue souvent cette opération à distance en utilisant son propre logiciel de déploiement. Ce document fournit les lignes de commande que vous utiliseriez comme entrées lors du processus de déploiement pour installer à distance le module Outlook.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Configurez](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) la clé d’entreprise.
 
