@@ -3,9 +3,9 @@ unique-page-id: 2359494
 description: Utiliser le test A/B "Objet" - Docs marketing - Documentation du produit
 title: Utiliser le test A/B "Objet Line"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Vous pouvez facilement tester vos e-mails A/B. L&#39;un des tests les plus courants est le test de la ligne **de** sujet.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Ajouter un test A/B](add-an-a-b-test.md)
 
