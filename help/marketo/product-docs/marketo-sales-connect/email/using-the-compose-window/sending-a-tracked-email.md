@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Envoi d’un courriel suivi - Documents marketing - Documentation du produit
 title: Envoi d’un courriel suivi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Lors de l’envoi d’un courrier électronique avec Marketing Connect, les vues (ouvertures de courrier électronique) et les clics (liens cliqués) font l’objet d’un suivi.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Vous devez avoir une identité vérifiée et un canal de diffusion de courriel configuré avant d’envoyer un courriel suivi.
 >
