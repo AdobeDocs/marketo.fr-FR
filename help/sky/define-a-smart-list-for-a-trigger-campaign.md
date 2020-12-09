@@ -2,7 +2,7 @@
 title: définir-une-liste-intelligente-pour-une-campagne-déclencheur
 description: Définir une Liste intelligente pour un Campaign de déclenchement
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Exécutez une campagne dynamique sur une personne à la fois en fonction des événements actifs en ajoutant des déclencheurs.
 
-1. Choisissez une campagne intelligente, puis cliquez sur Liste [!UICONTROL ****] intelligente.
+1. Choisissez une campagne intelligente, puis cliquez sur Liste **** intelligente.
 
    ![Image un](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ Exécutez une campagne dynamique sur une personne à la fois en fonction des év
    >
    >Une campagne intelligente avec des déclencheurs s’exécute en mode Déclencheur. Il s’exécute sur une personne à la fois en fonction des événements déclenchés et des filtres supplémentaires.
 
-1. Cliquez sur la liste déroulante et choisissez un opérateur (par exemple, [!UICONTROL **est**], [!UICONTROL **n’est pas**], etc.). pour le déclencheur que vous avez choisi.
+1. Cliquez sur la liste déroulante et choisissez un opérateur (par exemple, **[!UICONTROL est]**, **[!UICONTROL n’est pas]**, etc.). pour le déclencheur que vous avez choisi.
 
    ![Image trois](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
