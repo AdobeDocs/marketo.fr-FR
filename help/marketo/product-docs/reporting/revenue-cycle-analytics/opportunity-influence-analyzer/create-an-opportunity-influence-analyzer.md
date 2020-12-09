@@ -3,9 +3,9 @@ unique-page-id: 2360235
 description: Création d’un analyseur d’influence d’opportunité - Documents marketing - Documentation du produit
 title: Création d’un analyseur d’influence d’opportunité
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Utilisez l&#39;analyseur d&#39;influence d&#39;opportunité pour montrer la cont
 >
 >Vous pouvez également regarder une vidéo sur l&#39;analyseur d&#39;influence d&#39;opportunité à l&#39;Université [](https://learn.marketo.com)Marketo. (Ça a l&#39;air un peu différent maintenant, mais il y a encore beaucoup à apprendre !)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Analyseur d’influence d’opportunité pour raconter l’article marketing](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Configuration d’un analyseur d’influence d’opportunité](configure-an-opportunity-influence-analyzer.md)
