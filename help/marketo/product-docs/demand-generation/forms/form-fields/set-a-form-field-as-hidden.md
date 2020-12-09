@@ -3,9 +3,9 @@ unique-page-id: 2359661
 description: Définir un champ de formulaire comme masqué - Documents marketing - Documentation du produit
 title: Définir un champ de formulaire comme masqué
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Les champs de formulaire masqués peuvent capturer en silence des données sans 
 >
 >Raccourci clavier ! Après avoir sélectionné un champ de formulaire, appuyez sur Ctrl+Alt+H pour le masquer.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Définir une valeur de champ de formulaire masqué](set-a-hidden-form-field-value.md)
 
