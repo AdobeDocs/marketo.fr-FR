@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Champs requis pour la synchronisation du marché avec Dynamics - Marketo Docs - Documentation sur les produits
 title: Champs requis pour synchroniser le marketing avec Dynamics
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Voici comment vérifier et ajouter des champs de synchronisation.
 >
 >Veillez à patienter au moins 10 minutes pour qu’une synchronisation s’exécute avant de vérifier que vous avez corrigé le problème.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Configuration des étoiles et des flammes pour les enregistrements de piste/contact](http://docs.marketo.com/x/BICMAg)
 
