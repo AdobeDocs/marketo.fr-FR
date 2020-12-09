@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: Configuration de LinkedIn Lead Gen Forms - Marketo Docs - Documentation du produit
 title: Configurer LinkedIn Lead Gen Forms
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,7 @@ Bien joué ! Les personnes qui envoient des formulaires de génération de piste
 >
 >Vous ne pouvez autoriser qu’un seul compte utilisateur LinkedIn. Si vous souhaitez lier plusieurs comptes professionnels à Marketo, assurez-vous que le compte LinkedIn de l’utilisateur qui est autorisé dispose des autorisations du Gestionnaire de formulaires de génération de pistes sur le compte professionnel dans LinkedIn.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Utiliser des Filtres de formulaire de génération de pistes LinkedIn et des déclencheurs dans un Campaign dynamique](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
 
