@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: Grouper les rapports par courriel par segmentation - Documents marketing - Documentation du produit
 title: Regrouper les rapports par courriel par segment
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Les segments ne sont pas uniquement destinés au contenu dynamique. Vous pouvez également regrouper votre rapport [de performances des](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) courriels par [segmentation](http://docs.marketo.com/display/docs/segmentation+and+snippets).
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Approbation d’une segmentation](approve-a-segmentation.md)
 
