@@ -2,7 +2,7 @@
 title: compréhension-objectif-suivi-et-projections-inscriptions
 description: Comprendre le suivi des objectifs et les inscriptions prévues
 translation-type: tm+mt
-source-git-commit: 1231bc32a3abdf66c10864d6605234763618dbe0
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 0%
@@ -22,11 +22,11 @@ Après avoir [défini des objectifs](/help/sky/setting-event-goals.md)de événe
 
 ## Suivi des objectifs et inscriptions prévues
 
-1. Vous trouverez les détails du suivi des objectifs dans l’onglet [!UICONTROL **Rapports**] de votre programme de événement. Dans cet exemple particulier, il y a 150 membres enregistrés jusqu&#39;à présent contre un objectif de 200 (75 %).
+1. Vous trouverez les détails du suivi des objectifs dans l’onglet **[!UICONTROL Rapports]** de votre programme de événement. Dans cet exemple particulier, il y a 150 membres enregistrés jusqu&#39;à présent contre un objectif de 200 (75 %).
 
    ![Image un](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Vous verrez également vos inscriptions [!UICONTROL **projetées**] . Passez la souris sur l’icône d’informations pour afficher la ventilation de ce nombre par segment de probabilité.
+Vous verrez également vos inscriptions **[!UICONTROL projetées]** . Passez la souris sur l’icône d’informations pour afficher la ventilation de ce nombre par segment de probabilité.
 
 ![Image 2](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -69,7 +69,7 @@ En haut de la page Rapports, vous trouverez des recommandations pilotées par IA
 
 ## prédictions au niveau de la personne
 
-Cliquez sur l&#39;onglet [!UICONTROL **Membres**] pour vue tous les membres de votre programme. Passez la souris sur les [!UICONTROL **barres Probabilité**] d&#39; [!UICONTROL **inscription ou Probabilité de**] participationpour afficher les pourcentages et les catégories exacts. Vous pouvez ensuite agir sur les membres d&#39;une catégorie particulière (par exemple, tous les membres du groupe &quot;Moins susceptibles&quot; d&#39;enregistrer la catégorie) et, plus précisément, les cibles à augmenter éventuellement vos numéros d&#39;inscription.
+Cliquez sur l&#39;onglet **[!UICONTROL Membres]** pour vue tous les membres de votre programme. Passez la souris sur les **[!UICONTROL barres Probabilité]** d&#39; **[!UICONTROL inscription ou Probabilité de]** participationpour afficher les pourcentages et les catégories exacts. Vous pouvez ensuite agir sur les membres d&#39;une catégorie particulière (par exemple, tous les membres du groupe &quot;Moins susceptibles&quot; d&#39;enregistrer la catégorie) et, plus précisément, les cibles à augmenter éventuellement vos numéros d&#39;inscription.
 
 ![Image sept](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
