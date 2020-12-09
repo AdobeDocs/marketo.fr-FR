@@ -3,9 +3,9 @@ unique-page-id: 2359398
 description: Créer un formulaire - Documents marketing - Documentation du produit
 title: Créer un formulaire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Créez et utilisez un formulaire sur un landing page pour générer de nouveaux 
 
 Doux ! Maintenant que le formulaire est créé, allons-y et habillons-le.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Sélectionner un thème de formulaire](select-a-form-theme.md)
 >* [Ajouter un objet FieldSet à un formulaire](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
