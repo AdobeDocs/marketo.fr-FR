@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: Planification des Programmes de courriel avec fuseau horaire Destinataire - Documentation sur le marketing - Documentation du produit
 title: Planification des Programmes de courriel avec fuseau horaire Destinataire
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ En bref, les programmes de messagerie planifiés avec le fuseau horaire Destinat
 >
 >Toute personne qui se désabonne entre le moment où vous début votre envoi de courrier électronique et celui où il est effectivement livré recevra toujours ce message. Nous vous recommandons de modifier votre notification de désabonnement afin de tenir compte du fait que le traitement des désabonnements peut prendre entre 1 et 2 jours ouvrables.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation du fuseau horaire Destinataire](understanding-recipient-time-zone.md)
 >* [Début principal pour les Programmes électroniques](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
