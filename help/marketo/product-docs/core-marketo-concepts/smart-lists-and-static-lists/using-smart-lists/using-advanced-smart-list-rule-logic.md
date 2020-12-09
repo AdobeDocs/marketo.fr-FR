@@ -3,9 +3,9 @@ unique-page-id: 1146901
 description: Utilisation de la logique avancée des règles de Liste intelligente - Documents marketing - Documentation du produit
 title: Utilisation de la logique avancée des règles de Liste intelligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Vous pouvez trouver les personnes exactes dont vous avez besoin en appliquant une logique de règle de liste intelligente à plusieurs filtres dans une liste intelligente. Voici comment.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Rechercher et Ajouter des Filtres à une Liste intelligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 >* [Définir des Filtres de Liste intelligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
