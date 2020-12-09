@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: Personnalisation de la Vue mobile pour votre Landing page de formulaire libre - Documentation sur le marketing - Documentation du produit
 title: Personnalisation de la Vue mobile pour votre Landing page de formulaire libre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Personnalisation de la Vue mobile pour votre Landing page de formulaire libre {#customize-mobile-view-for-your-free-form-landing-page}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Ajouter une Vue mobile pour votre Landing page de formulaire libre](add-a-mobile-view-for-your-free-form-landing-page.md)
 
