@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Ajouter les champs d'objet personnalisé Marketo - Docs Marketo - Documentation du produit
 title: Ajouter les champs d'objet personnalisé Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
    >
    >Si vous créez une structure de type &quot;un à plusieurs&quot;, vous devez ajouter un champ Lien à votre objet personnalisé. Pour une structure de type &quot;plusieurs à plusieurs&quot;, vous n’avez pas besoin d’un champ de lien dans l’objet personnalisé, mais vous devez ajouter deux champs de lien dans l’objet intermédiaire. Pour plus d&#39;informations sur les types d&#39;objets personnalisés, reportez-vous aux sections [Ajouter le marketing aux champs de lien d&#39;objet personnalisé](add-marketo-custom-object-link-fields.md) pour créer les champs de lien et [Comprendre les objets](understanding-marketo-custom-objects.md) personnalisés du marketing.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter les champs de lien d’objet personnalisé Marketo](add-marketo-custom-object-link-fields.md)
 >* [Modifier et supprimer un objet personnalisé marketing](edit-and-delete-a-marketo-custom-object.md)
