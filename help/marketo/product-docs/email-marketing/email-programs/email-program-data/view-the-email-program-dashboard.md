@@ -3,9 +3,9 @@ unique-page-id: 2359469
 description: Vue du Tableau de bord de Programme électronique - Documentation du marketing - Documentation du produit
 title: Vue du Tableau de bord de Programme de courriel
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Si vous n’avez pas ajouté de test A/B *ou* si le test est terminé, les élé
 >
 >Effectuez une expérience en plaçant le curseur sur les widgets de graphique. Vous y trouverez des informations supplémentaires.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Utiliser le Tableau de bord de Programme de courriel - Vue de test A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >* [Utiliser le Tableau de bord de Programme de courriel](use-the-email-program-dashboard.md)
