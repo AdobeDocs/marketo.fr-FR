@@ -3,9 +3,9 @@ unique-page-id: 4719402
 description: Création d’un widget Web Campaign - Documents marketing - Documentation du produit
 title: Créer un widget Web Campaign
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---
@@ -125,9 +125,7 @@ Dans la page Campagnes Web, cliquez sur **Prévisualisation** sur la campagne We
 
 1. Un message de confirmation s’affiche pour confirmer si vous souhaitez supprimer la campagne Web.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Créer une Campaign Web en zone](create-a-new-in-zone-web-campaign.md)
 >* [Créer une Campaign Web de boîte de dialogue](create-a-new-dialog-web-campaign.md)
