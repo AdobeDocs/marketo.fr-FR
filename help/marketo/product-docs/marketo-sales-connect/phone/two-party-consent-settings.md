@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: Paramètres de consentement à deux parties - Documents marketing - Documentation du produit
 title: Paramètres de consentement à deux parties
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Afin d&#39;assurer le respect des lois américaines sur le consentement à deux parties lors de l&#39;enregistrement des appels, en tant qu&#39;administrateur, vous pouvez activer la lecture d&#39;un message préenregistré de votre choix au début de vos appels lorsqu&#39;il est enregistré.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Avant de suivre les étapes ci-dessous, vous devez d&#39;abord [activer l&#39;enregistrement des appels.](http://docs.marketo.com/x/dAC1Ag)
 
