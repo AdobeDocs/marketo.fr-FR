@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Correction des problèmes de synchronisation de la validation de la dynamique - Documents marketing - Documentation du produit
 title: Correction des problèmes de synchronisation de validation de Dynamics
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -111,9 +111,7 @@ Si vous avez un ![—](assets/delete.png) ici, assurez-vous que l&#39;utilisateu
 
 Si vous avez un ![—](assets/delete.png) ici, veillez à affecter l&#39;utilisateur de synchronisation approprié dans le champ Utilisateur de Marketo dans l&#39;étape de configuration par défaut de la configuration de Marketo dans Microsoft Dynamics.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Valider Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
