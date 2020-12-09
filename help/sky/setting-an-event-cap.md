@@ -2,7 +2,7 @@
 title: définition-un-événement-cap
 description: Configuration d’un plafond de événement
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Limitez le nombre de personnes qui peuvent s&#39;inscrire à votre événement a
 
    ![Image un](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. Dans la section Aperçu, recherchez [!UICONTROL Événement Cap] et cliquez sur [!UICONTROL **Non défini**].
+1. Dans la section Aperçu, recherchez [!UICONTROL Événement Cap] et cliquez sur **[!UICONTROL Non défini]**.
 
    ![Image 2](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. Entrez le nombre maximal de personnes que vous souhaitez enregistrer pour votre événement et cliquez sur [!UICONTROL **Suivant**].
+1. Entrez le nombre maximal de personnes que vous souhaitez enregistrer pour votre événement et cliquez sur **[!UICONTROL Suivant]**.
 
    ![Image trois](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
@@ -41,7 +41,7 @@ Limitez le nombre de personnes qui peuvent s&#39;inscrire à votre événement a
 
    ![Image 4](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. Cliquez sur la liste déroulante Page [!UICONTROL **complète d’**] inscription et sélectionnez le landing page qui servira de page complète d’inscription. Lorsque vous avez terminé, cliquez sur [!UICONTROL **Définir et Activer**] .
+1. Cliquez sur la liste déroulante Page **[!UICONTROL complète d’]** inscription et sélectionnez le landing page qui servira de page complète d’inscription. Lorsque vous avez terminé, cliquez sur **[!UICONTROL Définir et Activer]** .
 
    ![Image 5](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
