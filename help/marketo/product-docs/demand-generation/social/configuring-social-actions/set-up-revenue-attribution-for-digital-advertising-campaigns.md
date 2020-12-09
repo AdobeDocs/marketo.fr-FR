@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Configurer l'attribution des recettes pour les campagnes de publicité numérique - Documents marketing - Documentation du produit
 title: Configurer l’attribution des recettes pour les campagnes de publicité numérique
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Après avoir configuré votre premier programme publicitaire dans Marketo, vous 
 
 Avec des programmes distincts, vous pouvez ensuite effectuer le suivi du nombre de conversions à partir de chacun d’eux et afficher vos programmes dans l’analyseur de Programme, l’analyseur d’influence d’opportunité et d’autres fonctionnalités d’analyse de marché.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* Configuration d’une balise de canal avec des valeurs d’état et un programme réussi (Digital Advertising ou Social Paid et PPC, par exemple)
 >* Créer ou modifier un formulaire pour transmettre une chaîne de requête à la personne
