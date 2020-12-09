@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Comparer l'efficacité des Canaux à l'analyseur de Programme - Documentation sur le marketing - Documentation sur les produits
 title: Comparer l'efficacité des Canaux avec l'analyseur de Programme
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Utilisez Programme Analyzer pour comparer les coûts de canal, l&#39;acquisition de membres, le pipeline, les recettes, etc., afin d&#39;identifier vos canaux les plus efficaces et les moins efficaces.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Création d’un analyseur de Programme](create-a-program-analyzer.md)
 
