@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: Comprendre/activer la mise au point du Programme - Documentation du marketing - Documentation du produit
 title: Comprendre/activer la mise au point du Programme
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Le calendrier marketing vous donne une vue visuelle des choses, mais il permet �
 
 Super ! Allez-y et apprenez à interagir avec les entrées.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Créer directement des entrées dans le calendrier marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
 >* [Modifier directement les entrées dans le calendrier marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
