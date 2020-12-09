@@ -3,9 +3,9 @@ unique-page-id: 37355600
 description: Désinstaller MSI de votre instance MS Dynamics - Marketo Docs - Documentation du produit
 title: Désinstaller MSI de votre instance MS Dynamics
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Pour désinstaller MSI de votre instance MS Dynamics, vous devez exécuter les étapes dans Marketo et MS Dynamics.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Désactiver Global MS Dynamics Sync](http://docs.marketo.com/x/TAA6Ag)
 
