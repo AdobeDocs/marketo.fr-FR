@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: Création d’un jeton de script de courrier électronique - Documents marketing - Documentation du produit
 title: Création d’un jeton de script de courrier électronique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ Pour les développeurs avancés, vous pouvez utiliser des scripts [](http://velo
 
 Vous pouvez désormais utiliser ce jeton dans vos courriels. Il exécute le script chaque fois qu’un courrier électronique est envoyé.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter un jeton de script de courrier électronique à votre adresse électronique](add-an-email-script-token-to-your-email.md)
 
