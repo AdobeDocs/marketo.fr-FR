@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: Étape 1 sur 3 - Installation de la solution Marketo (2011 sur site) - Documentation sur le marché - Documentation sur le produit
 title: Étape 1 sur 3 - Installation de la solution Marketo (2011 sur site)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premises et Marketo, vous de
 >
 >Une fois que vous avez synchronisé Marketo sur un service de gestion de la relation client, vous ne pouvez pas effectuer une nouvelle synchronisation sans remplacer l’instance.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Vous devez avoir un déploiement [](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) Internet Facing [(IFD) avec les services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) de fédérationPrincipale Directory 2.0, 2.1 ou 3.0 (ADFS) configurés. **Remarque**: Le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
 >
