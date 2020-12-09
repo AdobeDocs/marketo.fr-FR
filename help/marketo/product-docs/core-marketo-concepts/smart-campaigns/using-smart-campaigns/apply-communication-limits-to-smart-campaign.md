@@ -3,9 +3,9 @@ unique-page-id: 1147064
 description: Appliquer des limites de communication à Smart Campaign - Marketo Docs - Documentation sur les produits
 title: Appliquer des limites de communication à la Campaign intelligente
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Appliquer des limites de communication à la Campaign intelligente {#apply-communication-limits-to-smart-campaign}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Activer les limites de communication](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
 
