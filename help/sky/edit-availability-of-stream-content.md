@@ -2,7 +2,7 @@
 title: edit-disponibilité-of-stream-content
 description: Modifier la disponibilité du contenu du flux
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Vous pouvez définir une période pour que le contenu soit principal dans votre 
 
    ![Image un](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Cliquez sur l’onglet [!UICONTROL **Flux**] de données.
+1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
 
    ![Image 2](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -28,7 +28,7 @@ Vous pouvez définir une période pour que le contenu soit principal dans votre 
 
    ![Image trois](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-3.png)
 
-1. Sélectionnez [!UICONTROL **Modifier la disponibilité**].
+1. Sélectionnez **[!UICONTROL Modifier la disponibilité]**.
 
    ![Image 4](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
@@ -36,7 +36,7 @@ Vous pouvez définir une période pour que le contenu soit principal dans votre 
 
    ![Image 5](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. Cliquez sur [!UICONTROL **Enregistrer**].
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![Image six](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
