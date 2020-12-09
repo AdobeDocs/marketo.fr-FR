@@ -3,9 +3,9 @@ unique-page-id: 11384634
 description: Résumé du contenu prédictif - Documents marketing - Documentation du produit
 title: Résumé du contenu prédictif
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Quelles sont les catégories de contenu les plus attrayantes ? Reportez-vous à 
 >
 >Si vous cliquez sur un lien de catégorie (exemples de l’image ci-dessus) : leadgen, email, etc.,) il ouvre la page de contenu Tous avec la catégorie sur laquelle vous avez cliqué ajoutée au filtre, affichant les analyses de contenu dans cette catégorie.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Utilisation de tout le contenu](http://docs.marketo.com/display/docs/working+with+all+content)
 >* [Utilisation de contenu prédictif](http://docs.marketo.com/display/docs/working+with+predictive+content)
