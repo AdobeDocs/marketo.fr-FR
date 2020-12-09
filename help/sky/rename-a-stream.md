@@ -2,7 +2,7 @@
 title: renommer-a-stream
 description: Renommer un flux
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Si vous aimez rester organisé, vous pouvez renommer vos flux.
 
    ![Image un](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-1.png)
 
-1. Cliquez sur l’onglet [!UICONTROL **Flux**] de données.
+1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
 
    ![Image 2](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-2.png)
 
