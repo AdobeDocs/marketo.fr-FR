@@ -3,9 +3,9 @@ unique-page-id: 10099680
 description: Importer des données d’objet personnalisées - Documents marketing - Documentation du produit
 title: Importer des données d’objet personnalisées
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Il est facile d&#39;importer des données d&#39;objet personnalisées dans votre
 
    Ouais !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Compréhension des objets personnalisés de marketing](understanding-marketo-custom-objects.md)
 
