@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: Définir les critères de gagnant du test A/B - Documents marketing - Documentation du produit
 title: Définition des critères de gagnant de test A/B
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Lorsque vous [ajoutez un test](add-an-a-b-test.md) A/B à votre programme de messagerie, vous devez sélectionner un type de test, [planifier le test](schedule-the-a-b-test.md)A/B, puis définir les critères gagnants. Voici comment décider quel email gagne.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Ajouter un test A/B](add-an-a-b-test.md)
 
