@@ -3,9 +3,9 @@ unique-page-id: 11385940
 description: Modifier le contenu prédictif pour les médias enrichis - Documents marketing - Documentation du produit
 title: Modification du contenu prédictif pour le média enrichi
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Voici comment configurer votre contenu prédictif pour Rich Media.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Le contenu doit être [approuvé pour le contenu](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) prédictif sur la page Tout le contenu.
 
