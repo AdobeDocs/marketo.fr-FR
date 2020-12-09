@@ -3,9 +3,9 @@ unique-page-id: 2359459
 description: Création d’un extrait de code - Documents marketing - Documentation du produit
 title: Création d’un extrait de code
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Les extraits de code peuvent être utilisés comme blocs de contenu dynamiques s
 
 Bon travail ! Simplifiez votre travail en créant des extraits de code pour votre contenu dynamique. Vous pouvez maintenant [ajouter du contenu à votre nouveau fragment](add-content-to-a-snippet.md).
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter du contenu à un extrait de code](add-content-to-a-snippet.md)
 >* [Compréhension du contenu dynamique](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
