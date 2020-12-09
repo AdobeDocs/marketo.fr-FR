@@ -3,9 +3,9 @@ unique-page-id: 11377406
 description: Modifier votre domaine de marque par défaut avec des espaces de travail - Documents marketing - Documentation du produit
 title: Modification de votre domaine de marque par défaut avec des espaces de travail
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 Vous pouvez maintenant [ajouter d’autres domaines](add-an-additional-branding-domain-with-workspaces.md) de marque dont vous avez besoin pour les espaces de travail.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter un domaine de marque supplémentaire avec des espaces de travail](add-an-additional-branding-domain-with-workspaces.md)
 
