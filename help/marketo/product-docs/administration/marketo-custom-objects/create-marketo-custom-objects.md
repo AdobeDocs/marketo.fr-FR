@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Créer des objets personnalisés sur le marché - Documents marketing - Documentation du produit
 title: Créer des objets personnalisés marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -133,9 +133,7 @@ Utilisez un objet intermédiaire pour connecter un objet personnalisé à des pe
 
    L’étape suivante consiste à [ajouter des champs](add-marketo-custom-object-link-fields.md) de lien pour connecter votre objet intermédiaire à une personne/société et à un objet personnalisé.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter les champs d&#39;objet personnalisé Marketo](add-marketo-custom-object-fields.md)
 >* [Ajouter les champs de lien d’objet personnalisé Marketo](add-marketo-custom-object-link-fields.md)
