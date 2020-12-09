@@ -3,9 +3,9 @@ unique-page-id: 2360225
 description: Filtrage des ressources dans un rapport par courriel - Documents marketing - Documentation du produit
 title: Filtrage des ressources dans un rapport par courriel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Concentrez votre rapport Performances [des](../../../../product-docs/email-marke
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Filtrage des ressources dans les rapports par courriel Campaign](filter-assets-in-a-campaign-email-reports.md)
 
