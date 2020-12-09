@@ -3,9 +3,9 @@ unique-page-id: 2360274
 description: Gestion des valeurs de balise - Documents marketing - Documentation du produit
 title: Gestion des valeurs de balise
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Création d’une balise et d’une balise de Programme](create-a-new-program-tag-and-tag-values.md)
 
