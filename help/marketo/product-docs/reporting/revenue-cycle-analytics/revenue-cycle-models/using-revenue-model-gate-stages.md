@@ -3,9 +3,9 @@ unique-page-id: 4718670
 description: Utilisation des étapes de la porte du modèle de recettes - Documents marketing - Documentation du produit
 title: Utilisation des étapes de la porte du modèle de recettes
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Modifiez le nom, la description et le type de l’étape Porte. Vous pouvez éga
 
 Félicitations ! Maintenant vous comprenez le monde merveilleux de Gate Stages.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Utilisation des étapes du stock du modèle de recettes](using-revenue-model-inventory-stages.md)
 >* [Utilisation des étapes de l&#39;accord de niveau de service (SLA) du modèle de recettes](using-revenue-model-sla-stages.md)
