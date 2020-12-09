@@ -3,9 +3,9 @@ unique-page-id: 9437991
 description: Déclencheurs et Filtres pour les campagnes dynamiques mobiles - Documents marketing - Documentation sur les produits
 title: Déclencheurs et Filtres pour les campagnes dynamiques mobiles
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -190,9 +190,7 @@ Notification Push avec appui/appui sur une touche
 
 ![](assets/image2015-8-21-14-3a3-3a50.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter une contrainte à un filtre de Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
 >* [Utiliser les Filtres d&#39;inactivité dans une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
