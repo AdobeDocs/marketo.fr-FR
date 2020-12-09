@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Création d’une Audience personnalisée dans Facebook - Documents marketing - Documentation du produit
 title: Création d’une Audience personnalisée dans Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Création d’une Audience personnalisée dans Facebook {#create-a-custom-audience-in-facebook}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Ajoutez des Audiences personnalisées Facebook en tant que service](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) LaunchPoint dans la section Admin.
 >* [Acceptez les termes](https://www.facebook.com/ads/manage/customaudiences/tos.php) d’Audiences personnalisées de Facebook dans votre compte Facebook.
