@@ -3,9 +3,9 @@ unique-page-id: 2949839
 description: Archivez des personnes dans votre Événement à partir de votre tablette - Docs marketing - Documentation du produit
 title: Intégrer des personnes dans votre Événement à partir de votre tablette
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '866'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ L’application fonctionne de la même manière sur iPad et Android, à l’exce
 >
 >Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* Créez un événement dans Marketo et renseignez-le avec les personnes invitées et enregistrées.
 >* Téléchargement de l&#39;application pour tablette pour [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) ou [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
