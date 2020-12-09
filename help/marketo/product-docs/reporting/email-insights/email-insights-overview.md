@@ -3,9 +3,9 @@ unique-page-id: 10099408
 description: Présentation des statistiques par courriel - Documentation marketing - Documentation du produit
 title: Présentation des informations sur les courriels
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Cliquez sur Mesures pour convertir les couleurs en nombres.
 
 Toutes les dimensions standard du marketing sont incluses, mais vous avez la possibilité d’ajouter jusqu’à 10 dimensions personnalisées. [Les dimensions](custom-dimensions-for-email-insights.md) personnalisées se composent de segments et de balises de programme.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des analyses des statistiques de courriel](email-insights-analytics-overview.md)
 >* [Présentation des informations sur les e-mails envoyés](email-insights-sends-overview.md)
