@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: Utiliser le filtre Valeur de données modifiée dans une Liste dynamique - Documents marketing - Documentation du produit
 title: Utiliser le filtre Valeur de données modifiée dans une Liste dynamique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Les valeurs changent constamment et sont mises à jour dans votre base de données Marketo. Parfois, au lieu de rechercher une valeur spécifique, vous voulez rechercher des personnes qui ont changé de valeur. Voici comment.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
