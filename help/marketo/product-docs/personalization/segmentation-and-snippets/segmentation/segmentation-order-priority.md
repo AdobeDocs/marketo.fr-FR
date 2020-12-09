@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: Priorité de l’ordre de segmentation - Documents marketing - Documentation du produit
 title: Priorité de l’ordre de segmentation
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Il est important de comprendre comment l’ **ordre** définit la priorité pour l’évaluation de votre personnel dans une segmentation.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Création d’une segmentation](create-a-segmentation.md)
 >* [Définir des règles de segment](define-segment-rules.md)
