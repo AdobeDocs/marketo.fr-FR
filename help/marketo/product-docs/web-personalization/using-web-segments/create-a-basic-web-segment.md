@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: Créer un segment Web de base - Documents marketing - Documentation du produit
 title: Créer un segment Web de base
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Créons un segment de base ciblant tous les visiteurs Web des États-Unis et l&#
 
 Vous avez segmenté vos visiteurs des États-Unis, allez de l&#39;avant et ajoutez l&#39;industrie des services financiers.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Segments Web](http://docs.marketo.com/x/9QFI)
 
