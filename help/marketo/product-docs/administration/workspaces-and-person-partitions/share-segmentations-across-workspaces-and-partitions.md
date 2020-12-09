@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: Partager des segments entre les espaces de travail et les partitions - Documents marketing - Documentation sur les produits
 title: Partage de segments entre les espaces de travail et les partitions
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Partage de segments entre les espaces de travail et les partitions {#share-segmentations-across-workspaces-and-partitions}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Cet article s&#39;adresse uniquement aux clients disposant d&#39;espaces de travail et de partitions
 
