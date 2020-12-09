@@ -3,9 +3,9 @@ unique-page-id: 2359612
 description: Modifier la position du libellé du formulaire - Documents marketing - Documentation du produit
 title: Modifier la position de l’étiquette du formulaire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Lors de la [création d’un formulaire](../../../../product-docs/demand-generat
 
 Bien joué ! Voyez à quel point il était facile de modifier les positions d’étiquette sur un formulaire ? OK, voyons ce que nous pouvons faire pour changer la police des libellés de formulaire.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Modification de la famille de polices du formulaire](change-the-form-font-family.md)
 
