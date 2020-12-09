@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Étape 3 sur 3 - Connecter Microsoft Dynamics à Marketo (en ligne) - Docs marketing - Documentation sur le produit
 title: Étape 3 sur 3 - Connecter Microsoft Dynamics avec Marketo (en ligne)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque !
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Étape 1 sur 3 : Installation de la solution Marketo (en ligne)](step-1-of-3-install.md)
    >
