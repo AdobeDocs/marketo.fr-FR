@@ -3,9 +3,9 @@ unique-page-id: 10912178
 description: Configuration du bouton Ignorer et approbation du message - Documents marketing - Documentation du produit
 title: Configuration du bouton Ignorer et approbation du message
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Il y a tant de choix, mais maintenant vous avez un message in-app magnifique, pr
 
 Il est maintenant temps d&#39; [envoyer votre message](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des messages in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Envoyer votre message in-app](http://docs.marketo.com/display/docs/send+your+in-app+message)
