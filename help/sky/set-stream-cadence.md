@@ -2,7 +2,7 @@
 title: set-stream-cadence
 description: Définir la cadence du flux
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -22,11 +22,11 @@ Vous pouvez envoyer le contenu de l’engagement à n’importe quel intervalle.
 
    ![Image un](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. Cliquez sur l’onglet [!UICONTROL **Flux**] , puis sur [!UICONTROL **Définir le cadence**].
+1. Cliquez sur l’onglet **[!UICONTROL Flux]** , puis sur **[!UICONTROL Définir le cadence]**.
 
    ![Image 2](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
-1. Sélectionnez la fréquence à laquelle la cadence doit se répéter. Vous pouvez choisir [!UICONTROL **Hebdomadaire**], [!UICONTROL **Mensuel**] ou [!UICONTROL **Aucun**].
+1. Sélectionnez la fréquence à laquelle la cadence doit se répéter. Vous pouvez choisir **[!UICONTROL Hebdomadaire]**, **[!UICONTROL Mensuel]** ou **[!UICONTROL Aucun]**.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Vous pouvez envoyer le contenu de l’engagement à n’importe quel intervalle.
 
 ## Hebdomadaire
 
-1. Sélectionnez [!UICONTROL **Hebdomadaire**].
+1. Sélectionnez **[!UICONTROL Hebdomadaire]**.
 
    ![Image trois](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-3.png)
 
@@ -52,9 +52,9 @@ Vous pouvez envoyer le contenu de l’engagement à n’importe quel intervalle.
 
    >[!TIP]
    >
-   >Vous pouvez définir votre cadence pour qu’elle s’exécute tous les jours en sélectionnant [!UICONTROL **Répétées : Hebdomadaire**] / [!UICONTROL **Tous les : 1 semaine**] / [!UICONTROL **le :**] tous les jours.
+   >Vous pouvez définir votre cadence pour qu’elle s’exécute tous les jours en sélectionnant **[!UICONTROL Répétées : Hebdomadaire]** / **[!UICONTROL Tous les : 1 semaine]** / **[!UICONTROL le :]** tous les jours.
 
-1. Maintenant, sélectionnez l&#39;Heure. Cochez la case si vous souhaitez utiliser le fuseau horaire [du](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) Destinataire (c.-à-d. diffuser selon les fuseaux horaires locaux), puis cliquez sur [!UICONTROL **Enregistrer**].
+1. Maintenant, sélectionnez l&#39;Heure. Cochez la case si vous souhaitez utiliser le fuseau horaire [du](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) Destinataire (c.-à-d. diffuser selon les fuseaux horaires locaux), puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![Image sept](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-7.png)
 
@@ -74,7 +74,7 @@ C&#39;est tout ! Continuez à lire si vous souhaitez configurer une cadence mens
 
 ## Mensuel
 
-1. Sélectionnez [!UICONTROL **Mensuel**] pour connaître la fréquence de ses répétitions.
+1. Sélectionnez **[!UICONTROL Mensuel]** pour connaître la fréquence de ses répétitions.
 
    ![Image neuf](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-9.png)
 
@@ -94,7 +94,7 @@ C&#39;est tout ! Continuez à lire si vous souhaitez configurer une cadence mens
    >
    >Vous pouvez également choisir le jour de la semaine.
 
-1. Sélectionnez une [!UICONTROL heure] et cliquez sur [!UICONTROL **Enregistrer**].
+1. Sélectionnez une [!UICONTROL heure] et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![Image Treize](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 
