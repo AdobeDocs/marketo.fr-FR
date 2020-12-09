@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Champs personnalisés des membres du programme - Documents marketing - Documentation du produit
 title: Champs personnalisés des membres de programme
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -71,9 +71,7 @@ Vous pouvez exploiter ces données spécifiques à un programme dans des listes 
 * L’importation et l’exportation via [](http://docs.marketo.com/x/egAk)liste et [](http://developers.marketo.com/)API sont prises en charge.
 * Lorsque vous fusionnez deux personnes, les données de champ personnalisé Membre du Programme de l’expérience gagnante sont utilisées. Mais si le gagnant n’en a pas, la valeur du perdant sera utilisée.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Créer un champ personnalisé dans Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
