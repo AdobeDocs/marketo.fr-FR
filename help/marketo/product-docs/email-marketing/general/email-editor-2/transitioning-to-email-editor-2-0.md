@@ -3,9 +3,9 @@ unique-page-id: 11373011
 description: Passage à la version 2.0 de l’éditeur de courrier électronique - Documentation du marketing - Documentation du produit
 title: Transition vers l’éditeur de messagerie 2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ Pour les e-mails v2.0 existants qui utilisaient le modèle (précédemment v1.0)
 
 * Dans quelques **rares** cas, un courrier électronique v1.0 ne peut pas être ouvert dans l’éditeur de courrier électronique 2.0. Si cela se produit, ignorez le brouillon et contactez l’assistance marketing.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation de l’éditeur de courrier électronique 2.0](email-editor-v2-0-overview.md)
 >* [Syntaxe du modèle de courriel](email-template-syntax.md)
