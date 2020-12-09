@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: Historique de connexion des utilisateurs - Documents marketing - Documentation du produit
 title: Historique de connexion des utilisateurs
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 L&#39;historique de connexion de l&#39;utilisateur permet de maintenir la responsabilité et la sécurité en vous montrant exactement qui s&#39;est connecté à votre abonnement, y compris les tentatives de connexion ayant échoué.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Vous devez disposer d&#39;un rôle avec l&#39;autorisation Historique de connexion d&#39;accès activée pour vue de l&#39;historique de connexion d&#39;utilisateur.
 
