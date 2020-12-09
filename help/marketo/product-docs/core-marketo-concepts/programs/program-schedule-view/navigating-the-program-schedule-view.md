@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: Navigation dans la Vue du Planning du programme - Documentation du marketing - Documentation du produit
 title: Navigation dans la Vue de Planning du programme
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ Voici les principes de base pour vous aider à naviguer dans la vue de Planning 
 
 Super ! Maintenant que vous savez comment vue votre programme, apprenons les autres choses cool qu&#39;il peut faire.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Création d’une entrée dans la Vue de Planning du programme](creating-an-entry-in-the-program-schedule-view.md)
 
