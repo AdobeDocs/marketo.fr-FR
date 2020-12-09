@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: Ajouter le code de suivi Munchkin sur votre site Web - Documents marketing - Documentation du produit
 title: Ajouter le code de suivi Munchkin sur votre site Web
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Le code de suivi JavaScript personnalisé de Marketo, appelé Munchkin, suit toutes les personnes qui visitent votre site Web afin que vous puissiez réagir à leurs visites à l’aide de campagnes marketing automatisées. Même les visiteurs anonymes sont suivis avec leurs adresses IP et d&#39;autres informations. ** Sans ce code de suivi, vous ne pourrez pas suivre les visites ou autres activités sur votre site Web !**
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Assurez-vous d’avoir accès à un développeur JavaScript expérimenté. L’assistance technique de Marketo n’est pas configurée pour vous aider à résoudre les problèmes liés à JavaScript personnalisé.
 
