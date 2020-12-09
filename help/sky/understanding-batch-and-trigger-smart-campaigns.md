@@ -2,7 +2,7 @@
 title: compréhension-batch-et-trigger-smart-campaigns
 description: Présentation des campagnes dynamiques par lot et déclencheur
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Les campagnes dynamiques par lot ne comportent que des filtres dans la section d
 
 ![Image un](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Cliquez sur l’onglet [!UICONTROL **Planifier**] pour confirmer que la campagne dynamique est définie sur &quot;Lot&quot;.
+Cliquez sur l’onglet **[!UICONTROL Planifier]** pour confirmer que la campagne dynamique est définie sur &quot;Lot&quot;.
 
 ![Image 2](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -42,7 +42,7 @@ Si une campagne intelligente utilise au moins un déclencheur dans la section li
 
 ![Image trois](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Cliquez sur l’onglet [!UICONTROL **Planifier**] pour confirmer que la campagne dynamique est définie sur &quot;Déclencheur&quot;.
+Cliquez sur l’onglet **[!UICONTROL Planifier]** pour confirmer que la campagne dynamique est définie sur &quot;Déclencheur&quot;.
 
 ![Image 4](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
