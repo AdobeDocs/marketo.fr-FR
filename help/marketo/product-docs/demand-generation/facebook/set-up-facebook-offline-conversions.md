@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Configurer les conversions hors ligne Facebook - Documents marketing - Documentation du produit
 title: Configurer les conversions hors connexion Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 En renvoyant les données de conversion hors ligne à Facebook pour les personnes créées par le biais des publicités de piste, votre équipe publicitaire peut optimiser ses dépenses publicitaires mieux que jamais. Voici comment le configurer.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* Vous devez [configurer des annonces](set-up-facebook-lead-ads.md)de pistes Facebook.
 >* Vous devez disposer d&#39;un modèle approuvé dans le [module de modélisation du cycle de production](http://docs.marketo.com/display/docs/revenue+cycle+models).
