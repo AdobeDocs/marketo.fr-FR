@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: Gestion des rôles et autorisations des utilisateurs - Documents marketing - Documentation du produit
 title: Gestion des rôles et autorisations des utilisateurs
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -115,9 +115,7 @@ Si un rôle devient inutile, vous pouvez le supprimer.
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >En savoir plus sur la création d’utilisateurs supplémentaires et l’attribution de rôles dans [Prise en main de Marketo](../../../getting-started.md).
 
