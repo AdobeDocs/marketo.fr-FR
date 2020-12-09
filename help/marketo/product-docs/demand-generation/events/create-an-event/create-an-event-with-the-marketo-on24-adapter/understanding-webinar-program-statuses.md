@@ -3,9 +3,9 @@ unique-page-id: 10096681
 description: Comprendre l'état des Programmes du webinaire - Documentation du marketing - Documentation du produit
 title: Comprendre l'état des Programmes du webinaire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Voici une brève description des états des programmes associés au canal Webina
 >
 >Pour que Marketo puisse retirer le statut Non Afficher, les gens doivent avoir été enregistrés *sur Marketo*. Nous ne sommes pas en mesure de capturer Aucun affichage provenant du flux de données On24.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des Événements d&#39;adaptateurs Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
