@@ -3,9 +3,9 @@ unique-page-id: 2359801
 description: Utilisation du créateur d’URL - Documents marketing - Documentation du produit
 title: Utilisation du créateur d’URL
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Le créateur d’URL vous aide à créer des URL qui peuvent renseigner les cham
 >
 >Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Découvrez comment créer des champs masqués dans les formulaires et modifier leurs paramètres dans [Définir un champ de formulaire comme masqué](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
