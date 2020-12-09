@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: Approbation d’une segmentation - Documents marketing - Documentation du produit
 title: Approbation d’une segmentation
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Une segmentation doit être approuvée avant de pouvoir être utilisée.
 >
 >Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Création d’une segmentation](create-a-segmentation.md)
 >* [Définir des règles de segment](define-segment-rules.md)
