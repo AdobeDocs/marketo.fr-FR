@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: Alerte au représentant commercial - Documents marketing - Documentation du produit
 title: Alerter le représentant commercial
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 >
 >Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [landing page avec un formulaire](landing-page-with-a-form.md)
 
