@@ -3,9 +3,9 @@ unique-page-id: 7504343
 description: Création d’un segment à l’aide de données personnelles connues - Documents marketing - Documentation du produit
 title: Création d’un segment à l’aide de données de personne connue
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Voici comment créer un segment à l’aide des valeurs Données de personne connue.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Gérer les données personnelles](manage-person-data.md)
 
