@@ -3,9 +3,9 @@ unique-page-id: 2359463
 description: Approbation d'un extrait de code - Documents marketing - Documentation du produit
 title: Approbation d’un extrait de code
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Approbation d’un extrait de code {#approve-a-snippet}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Ajouter du contenu à un extrait de code](add-content-to-a-snippet.md)
 
