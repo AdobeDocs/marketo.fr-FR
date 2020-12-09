@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Présentation des fonctionnalités du Tableau de bord Insights - Documentation sur le marketing - Documentation du produit
 title: Présentation des fonctionnalités du Tableau de bord Insights
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1466'
+source-wordcount: '1465'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 En savoir plus sur les fonctionnalités disponibles dans votre tableau de bord Sales Insights.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Vous devez disposer du dernier package MSI SFDC et de la [configuration](http://docs.marketo.com/x/F4GMAg)la plus récente.
 
