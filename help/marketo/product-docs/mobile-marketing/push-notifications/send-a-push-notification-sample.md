@@ -3,9 +3,9 @@ unique-page-id: 8783141
 description: Envoyer un exemple de notification Push - Documents marketing - Documentation du produit
 title: Envoyer un exemple de notification Push
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Vous pouvez envoyer un exemple pour vérifier que votre notification Push fonctionne correctement !
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Assurez-vous que l’application est installée sur le périphérique vers lequel vous envoyez l’exemple.
 
