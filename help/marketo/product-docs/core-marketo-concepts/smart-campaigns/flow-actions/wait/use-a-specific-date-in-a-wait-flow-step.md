@@ -3,9 +3,9 @@ unique-page-id: 1146976
 description: Utiliser une date spécifique dans une étape de flux d'attente - Documents marketing - Documentation du produit
 title: Utilisation d’une date spécifique dans une étape de flux d’attente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ Vous pouvez utiliser l’étape de flux d’ **attente** pour mettre en pause le
    Spécifiez l’heure (facultatif) et cliquez sur Enregistrer.
    ![](assets/image2014-9-22-11-3a51-3a13.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Utilisation d’une durée dans une étape de flux d’attente](use-a-duration-in-a-wait-flow-step.md)
 >* [Utilisation d’un jeton de date dans une étape de flux d’attente](use-a-date-token-in-a-wait-flow-step.md)
