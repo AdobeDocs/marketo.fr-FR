@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Déchets, gouttes d'eau, nourriture - Docs Marketo - Documentation sur le produit
 title: Déchets, gouttes, culture
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 >
 >Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Configurer et Ajouter une personne](get-set-up-and-add-a-person.md)
 >* [Importer une Liste de personnes](import-a-list-of-people.md)
