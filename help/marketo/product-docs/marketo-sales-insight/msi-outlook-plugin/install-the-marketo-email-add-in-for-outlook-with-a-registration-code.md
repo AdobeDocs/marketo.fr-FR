@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installez l'Ajoute de courriel de Marketo pour Outlook avec un code d'inscription - Docs marketing - Documentation du produit
 title: Installer l'Ajoute de courriel de Marketo pour Outlook avec un code d'inscription
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Si les utilisateurs peuvent accéder aux paramètres d’administration sur leur
 
 Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à votre administrateur Marketing Cloud de vous inviter.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* Vous devez [obtenir une licence](issue-a-marketo-email-add-in-license.md)d’Ajoute électronique de Marketing Cloud.
 
