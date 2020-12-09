@@ -3,9 +3,9 @@ unique-page-id: 10096158
 description: Authentifier la sécurité d'accès mobile - Documents marketing - Documentation du produit
 title: Authentification de la sécurité d'accès mobile
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Pour améliorer la sécurité des utilisateurs mobiles, Marketo fournit deux nou
 
 Pour activer les identifiants, vous devez acquérir les codes et les fournir à votre service informatique afin qu’il puisse configurer une correspondance sécurisée.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Pour activer cette fonctionnalité, contactez l’assistance et demandez &quot;Vespa Secure Mode&quot;.
 
