@@ -3,9 +3,9 @@ unique-page-id: 2951884
 description: Présentation de l'Analyse des opportunités dans l'Explorateur de recettes - Documents marketing - Documentation du produit
 title: Présentation de l'Analyse des opportunités dans l'Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
@@ -149,9 +149,7 @@ L&#39;Analyse des opportunités vous donne accès à toutes les dimensions liée
    | Montant de l&#39;opportunité (ouvert) | Montant total pour les opportunités ouvertes. Si plusieurs pistes sont associées à une opportunité, le montant de l&#39;allocation est basé sur le score de piste. |
    | Montant de l&#39;opportunité (Gagné) | Montant total des opportunités gagnées. Si plusieurs pistes sont associées à une opportunité, le montant de l&#39;allocation est basé sur le score de piste. |
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Créer un rapport Explorateur de recettes](create-a-revenue-explorer-report.md)
 >* [Ajouter des champs à un rapport Explorateur de recettes](adding-fields-to-a-revenue-explorer-report.md)
