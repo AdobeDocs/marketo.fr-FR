@@ -3,9 +3,9 @@ unique-page-id: 3571807
 description: Étape 2 sur 3 - Configurer l'utilisateur de synchronisation du marketing dans Dynamics (local 2011) - Documentation du marketing - Documentation du produit
 title: Étape 2 sur 3 - Configurer un utilisateur de synchronisation marketing dans Dynamics (local 2011)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Excellent travail de réalisation des étapes précédentes, continuons à passer à travers ceci.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Étape 1 sur 3 : Installation de la solution Marketo (2011 sur site)](step-1-of-3-install.md)
 
