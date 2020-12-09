@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: Jetons pour les moments intéressants - Documents marketing - Documentation du produit
 title: Jetons pour les moments intéressants
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Jetons pour les moments intéressants {#tokens-for-interesting-moments}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* Découvrez comment utiliser l’étape [de flux Moment](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)intéressant.
 >* En savoir plus sur [les jetons](http://docs.marketo.com/display/docs/tokens).
