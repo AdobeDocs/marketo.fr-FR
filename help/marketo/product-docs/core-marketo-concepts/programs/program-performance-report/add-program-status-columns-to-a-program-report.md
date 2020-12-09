@@ -3,9 +3,9 @@ unique-page-id: 1147239
 description: Ajouter les colonnes d'état du Programme à un rapport Programme - Documents marketing - Documentation du produit
 title: Ajouter les colonnes d'état du Programme à un rapport Programme
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Ajoutez des statistiques sur l&#39;état du programme à votre rapport [de perfo
 >
 >Si vous ne voyez pas de colonne pour chaque état dans le programme, veillez à [sélectionner les colonnes à afficher](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) dans le rapport.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Filtrage d’un rapport Programme par balise](filter-a-program-report-by-tag.md)
 
