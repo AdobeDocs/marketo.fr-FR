@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: Navigation dans le calendrier marketing - Documents marketing - Documentation du produit
 title: Navigation dans le calendrier marketing
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 La navigation dans le calendrier marketing est facile comme un, deux, trois !
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Assurez-vous que vous disposez d’une licence [Calendrier](issue-revoke-a-marketing-calendar-license.md) marketing ; sinon, la mosaïque Calendrier marketing ne s’affichera pas dans Mon marketing.
 
