@@ -3,9 +3,9 @@ unique-page-id: 1147118
 description: Utilisation des coûts de période dans un Programme - Documents marketing - Documentation du produit
 title: Utilisation des coûts de période dans un Programme
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Le coût [d&#39;une](understanding-period-costs.md) période correspond au monta
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Comprendre les coûts de la période](understanding-period-costs.md)
 >* [Analyses du cycle de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
