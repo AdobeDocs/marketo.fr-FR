@@ -3,9 +3,9 @@ unique-page-id: 2953572
 description: Présentation des Programmes électroniques - Documents marketing - Documentation du produit
 title: Présentation des Programmes de messagerie
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ Utilisez un programme de courriel dans un programme par défaut pour organiser l
 
 Maintenant que vous comprenez les Programmes de courriel, commencez avec l&#39;un des articles connexes ci-dessous !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Créer un Programme de messagerie](create-an-email-program.md)
    >
