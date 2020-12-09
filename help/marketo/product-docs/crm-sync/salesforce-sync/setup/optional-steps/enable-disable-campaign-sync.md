@@ -3,9 +3,9 @@ unique-page-id: 4719289
 description: Activer/désactiver la synchronisation Campaign - Documents marketing - Documentation du produit
 title: Activer/désactiver la synchronisation Campaign
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Cette option permet à Marketing Cloud de synchroniser son adhésion et ses éta
 
 Voilà. Il vous suffit de donner un peu de temps à la synchronisation pour extraire les données de Salesforce et vous pouvez partir.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Synchronisation SFDC : Campaign Sync](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 >* [Définir le nom de piste et les valeurs de Société par défaut](set-default-person-last-name-and-company-name.md)
