@@ -3,9 +3,9 @@ unique-page-id: 2359763
 description: Performances des réseaux sociaux vue - Documentation sur le marketing - Documentation sur les produits
 title: Performances des réseaux sociaux vue
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Reportez-vous aux activités sociales générées par vos applications sociales.
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >Vous pouvez également utiliser des déclencheurs et des filtres pour déterminer qui partage votre contenu et interagit avec vos applications sociales afin d’agir sur ces interactions. Voir [Utilisation de déclencheurs et de Filtres pour les Activités](triggers-and-filters-for-social-activities.md)d’Adobe Social.
 
