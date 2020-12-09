@@ -3,9 +3,9 @@ unique-page-id: 7512457
 description: Envoyer une notification Push mobile - Documents marketing - Documentation du produit
 title: Envoyer une notification Push mobile
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Envoyez une notification Push aux utilisateurs de votre application mobile.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Créer une Campaign intelligente](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Créer une notification Push](create-a-push-notification.md)
