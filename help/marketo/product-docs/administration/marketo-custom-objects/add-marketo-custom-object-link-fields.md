@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Champs de lien d'objet personnalisé Ajouter Marketo - Documents marketing - Documentation du produit
 title: Ajouter les champs de lien d’objet personnalisé Marketo
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Voici comment créer un champ de lien dans un objet personnalisé pour une struc
 
 Voici comment créer un champ de lien dans un objet intermédiaire pour une utilisation dans une structure de type &quot;plusieurs à plusieurs&quot;.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Vous devez avoir déjà créé l’objet intermédiaire et les objets personnalisés vers lesquels vous souhaitez le lier.
 
