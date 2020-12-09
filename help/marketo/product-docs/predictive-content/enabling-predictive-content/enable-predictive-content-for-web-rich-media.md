@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Activer le contenu prédictif pour les médias enrichis en ligne - Documents marketing - Documentation du produit
 title: Activer le contenu prédictif pour les médias enrichis en ligne
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Le contenu prédictif engage vos visiteurs Web avec le contenu le plus pertinent, grâce à l’apprentissage automatique et à l’analyse prédictive. Avec Web Rich Media, vous pouvez améliorer votre contenu avec des descriptions textuelles et des images et incorporer plusieurs recommandations de contenu prédictif sur votre site Web.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Avant d’activer le contenu prédictif, vous devez :
 >
