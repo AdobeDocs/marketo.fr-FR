@@ -3,9 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync -Field Sync - Marketo Docs - Documentation du produit
 title: Microsoft Dynamics Sync -Field Sync
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Vous pouvez [sélectionner les champs à synchroniser](https://docs.marketo.com/
 
 Vous pouvez ajouter des champs à tout moment et vous attendez à ce que les données soient actualisées de Dynamics vers Marketo. Voir [Utilisation de la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) personnalisé pour en savoir plus.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Utiliser la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ personnalisé](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
 
