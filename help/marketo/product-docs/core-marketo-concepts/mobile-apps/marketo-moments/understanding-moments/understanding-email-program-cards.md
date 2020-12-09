@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: Présentation des cartes de Programme par courriel - Documents marketing - Documentation du produit
 title: Présentation des cartes de Programme de messagerie
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -112,9 +112,7 @@ Cliquez avec le bouton droit sur une carte de courriel pour la prévisualisation
 
 Et c&#39;est le scoop pour voir vos campagnes par courriel. Maintenant, vous êtes un pro !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des moments marketing](understanding-marketo-moments.md)
 >* [Présentation des cartes de Événement](understanding-event-cards.md)
