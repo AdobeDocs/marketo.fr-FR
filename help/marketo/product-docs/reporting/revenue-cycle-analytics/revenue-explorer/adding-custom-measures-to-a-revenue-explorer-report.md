@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: Ajouter des mesures personnalisées à un rapport Explorateur de recettes - Documents marketing - Documentation du produit
 title: Ajouter des mesures personnalisées à un rapport Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Il arrive que vous souhaitiez inclure une mesure personnalisée dans un rapport.
 
 Dans l’exemple ci-dessous, vous créez une mesure calculée pour les rebonds à la baisse, qui prend les mesures déjà présentes dans le rapport et utilise les calculs de base pour créer une nouvelle mesure. Vous pouvez également créer d&#39;autres types de mesures.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Vous avez besoin d’au moins une mesure dans votre rapport, mais il n’est pas nécessaire que ce soit l’une des mesures que vous utilisez pour définir votre mesure personnalisée.
 
