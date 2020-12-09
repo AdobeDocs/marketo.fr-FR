@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Présentation des cartes Analytics - Documents marketing - Documentation du produit
 title: Présentation des cartes Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ La carte **Unsubscribes** vous montre un rapport de tendance mois par mois de vo
 
 Maintenant vous savez.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des moments marketing](understanding-marketo-moments.md)
 >* [Présentation des cartes de Événement](understanding-event-cards.md)
