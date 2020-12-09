@@ -3,9 +3,9 @@ unique-page-id: 2950549
 description: Configuration du flux recommandé par Social - Documents marketing - Documentation du produit
 title: Configuration du flux recommandé par Social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -127,9 +127,7 @@ Si vous choisissez , les valeurs des balises OpenGraph de la page (og:title, og:
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >L’étape suivante consiste à [ajouter votre partage](customize-video-share-flow.md) de vidéo ou votre [sondage](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) à un landing page, Facebook ou votre propre site Web.
 
