@@ -3,9 +3,9 @@ unique-page-id: 10100642
 description: Créer un texte de message intégré à l’application - Documents marketing - Documentation du produit
 title: Créer un texte de message intégré à l’application
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ Cliquez sur la zone de texte pour travailler sur votre style de texte et votre c
 
 Tu es dorée. Ensuite, vous devez [configurer votre bouton](set-up-the-in-app-message-button.md)de message in-app.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des messages in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Choisir une mise en page pour votre message intégré](choose-a-layout-for-your-in-app-message.md)
