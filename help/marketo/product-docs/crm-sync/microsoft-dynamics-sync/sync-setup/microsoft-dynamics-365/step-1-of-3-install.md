@@ -3,9 +3,9 @@ unique-page-id: 3571822
 description: Étape 1 sur 3 - Installation de la solution Marketo (en ligne) - Documentation sur le marketing - Documentation sur le produit
 title: Étape 1 sur 3 - Installation de la solution Marketo (en ligne)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 365 et Marketo, vous devez d&#3
 >
 >Une fois que vous avez synchronisé Marketo sur un service de gestion de la relation client, vous ne pouvez pas effectuer une nouvelle synchronisation sans remplacer l’instance.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Téléchargement de la solution de gestion des pistes marketing](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
