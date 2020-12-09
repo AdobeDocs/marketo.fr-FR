@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Activer la barre de recommandation du contenu - Documents marketing - Documentation du produit
 title: Activation de la barre de recommandation de contenu
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Le moteur de recommandation de contenu utilise des analyses prédictives et des algorithmes d’apprentissage automatique pour diffuser du contenu pertinent à chaque visiteur Web. Le moteur de recommandation prédit le contenu le plus performant par visiteur. Le contenu du moteur est surveillé et contrôlé sous la page Recommendations, ce qui vous permet d’optimiser le RSI de votre contenu.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Avant d’activer le contenu prédictif, vous devez :
 >
