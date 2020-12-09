@@ -3,9 +3,9 @@ unique-page-id: 7515069
 description: Présentation des éléments et des variables dans les modèles guidés - Documents marketing - Documentation du produit
 title: Présentation des éléments et des variables dans les modèles guidés
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Il existe trois types de variables : variables de chaîne, variables de couleur 
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Création d’un modèle de Landing page guidé](create-a-guided-landing-page-template.md)
 
