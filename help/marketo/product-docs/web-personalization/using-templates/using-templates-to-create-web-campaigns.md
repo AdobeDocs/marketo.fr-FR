@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: Utilisation de modèles pour créer des campagnes Web - Documents marketing - Documentation sur les produits
 title: Utilisation de modèles pour créer des campagnes Web
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,7 @@ Accélérez et simplifiez votre processus de création de campagnes Web en utili
 
 Bien joué ! Avez-vous vu combien de temps vous avez économisé en utilisant un modèle ?
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Enregistrer une Campaign en tant que modèle](save-your-campaign-as-a-template.md)
 
