@@ -3,9 +3,9 @@ unique-page-id: 2359665
 description: Définir le cadence du flux - Documents marketing - Documentation du produit
 title: Définir la cadence du flux
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ C&#39;est tout ! Continuez à lire si vous souhaitez configurer une cadence mens
 
 Maintenant, vous savez comment mettre en place une cadence de flux !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation du fuseau horaire Destinataire](../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Planification des Programmes d’engagement avec fuseau horaire Destinataire](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
