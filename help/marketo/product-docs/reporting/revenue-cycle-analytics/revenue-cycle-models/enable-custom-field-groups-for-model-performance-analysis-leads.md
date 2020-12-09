@@ -3,9 +3,9 @@ unique-page-id: 3571890
 description: Activer les groupes de champs personnalisés pour l'Analyse des performances du modèle (Pistes) - Documents marketing - Documentation du produit
 title: Activer les groupes de champs personnalisés pour l'Analyse des performances du modèle (Pistes)
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Activer les groupes de champs personnalisés pour l&#39;Analyse des performances du modèle (Pistes) {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Classez les champs standard ou personnalisés en groupes pour le rapports via l’organiseur de champs de Marketo. Pour plus d’informations, voir [Création de groupes de champs personnalisés dans l’organiseur](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)de champs.
 
