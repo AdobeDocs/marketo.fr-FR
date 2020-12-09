@@ -3,9 +3,9 @@ unique-page-id: 2949471
 description: Liste de contrôle de configuration - Documents marketing - Documentation du produit
 title: Liste de contrôle de configuration
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Bienvenue sur le marché ! N&#39;hésitez pas à utiliser la liste de contrôle 
 
 1. Collaborez avec un développeur Web pour ajouter un code de suivi à votre site Web.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Etapes de configuration](../../getting-started/setup-steps.md)
 
