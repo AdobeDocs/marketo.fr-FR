@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: Présentation des campagnes dynamiques - Documents marketing - Documentation du produit
 title: Présentation des campagnes dynamiques
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Enfin, cela contrôle lorsque vous exécutez votre campagne intelligente. Vous p
 
 Il y a énormément de choses que cette campagne intelligente peut faire. Vous y trouverez tout ce qu&#39;il faut sur Marketo, qui est plus simple à comprendre.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Créer une Campaign intelligente](creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
