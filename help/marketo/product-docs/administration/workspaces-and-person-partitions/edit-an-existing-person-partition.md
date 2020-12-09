@@ -3,9 +3,9 @@ unique-page-id: 2360323
 description: Modifier une partition de personne existante - Documents marketing - Documentation du produit
 title: Modifier une partition de personne existante
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Une partition de personne est comme avoir une deuxième (ou une troisième) base
 >
 >**Autorisations d’administrateur requises**
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Créer une partition de personne](create-a-person-partition.md)
 
