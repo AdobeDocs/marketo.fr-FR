@@ -3,9 +3,9 @@ unique-page-id: 8781974
 description: Présentation des cartes de Événement - Documents marketing - Documentation du produit
 title: Présentation des cartes de Événement
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,7 @@ Il y a deux cartes de événement. La carte On-Deck, envoyée quelques heures av
 
 Tu es bon !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des moments marketing](understanding-marketo-moments.md)
 >* [Présentation des cartes de Programme de messagerie](understanding-email-program-cards.md)
