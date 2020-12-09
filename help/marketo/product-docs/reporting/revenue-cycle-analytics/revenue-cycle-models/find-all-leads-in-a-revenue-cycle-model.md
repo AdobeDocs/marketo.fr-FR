@@ -3,9 +3,9 @@ unique-page-id: 2360423
 description: Rechercher toutes les pistes dans un modèle de cycle de revenus - Documents marketing - Documentation sur les produits
 title: Rechercher toutes les pistes dans un modèle de cycle de recettes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 En utilisant des listes intelligentes, vous pouvez facilement trouver tous les membres du modèle de cycle de recettes.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
