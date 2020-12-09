@@ -3,9 +3,9 @@ unique-page-id: 2359781
 description: Création d’une Offre de référence - Documents marketing - Documentation du produit
 title: Créer une Offre de référence
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ S&#39;il y a des problèmes dans l&#39;offre de renvoi, vous serez invité à le
 
 Félicitations ! Vous avez créé votre offre de référence.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >L’étape suivante consiste à [publier votre offre](publish-a-referral-offer.md) de référence sur un landing page, sur votre site Web ou sur Facebook.
 
