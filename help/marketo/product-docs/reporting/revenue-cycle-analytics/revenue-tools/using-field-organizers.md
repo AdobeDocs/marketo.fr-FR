@@ -3,9 +3,9 @@ unique-page-id: 3571892
 description: Utilisation des organisateurs de champ - Documents marketing - Documentation du produit
 title: Utilisation des organisateurs de champs
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,6 @@ Les organisateurs de champs sont utilisés dans l&#39;Analyse des performances d
 
 Créez davantage d’organisateurs de champ de la même manière, si vous en avez besoin. Et vous voilà.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Création de groupes de champs personnalisés à l’aide de l’organiseur de champs](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
