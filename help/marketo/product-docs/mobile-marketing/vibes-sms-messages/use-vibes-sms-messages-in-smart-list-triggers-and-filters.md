@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: Utiliser des messages SMS de vibes dans les déclencheurs et Filtres de Liste intelligente - Docs marketing - Documentation du produit
 title: Utiliser des messages SMS de vidéos dans les déclencheurs et Filtres de Liste intelligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ En revanche, le **filtre** **Member of Vibes Liste **trouve** **toute personne**
 
 Une fois que vous avez configuré des déclencheurs et des filtres Vibes dans votre liste dynamique, vous pouvez [définir le flux](add-a-flow-step-for-sms.md).
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Définir une Liste intelligente pour une Campaign intelligente | Déclencheur](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Rechercher et Ajouter des Filtres à une Liste intelligente](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
