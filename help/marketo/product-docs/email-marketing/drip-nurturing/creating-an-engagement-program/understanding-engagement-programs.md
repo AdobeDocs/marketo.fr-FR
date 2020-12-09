@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: Présentation des Programmes d’engagement - Documents marketing - Documentation du produit
 title: Présentation des Programmes d’engagement
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ Une fois qu&#39;une personne a reçu chaque élément de contenu dans un flux, n
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Personnes ayant extrait du contenu](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
@@ -108,9 +106,7 @@ Une fois qu&#39;une personne a reçu chaque élément de contenu dans un flux, n
 
 Le niveau d’engagement du contenu est un score de 0 à 100 points que Marketing attribuera à votre contenu. Ce nombre est déterminé par une formule sophistiquée qui utilise les éléments suivants : ouverture, clics, désabonnement, réussite de programme et autres facteurs.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation de la note d’engagement](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
 
