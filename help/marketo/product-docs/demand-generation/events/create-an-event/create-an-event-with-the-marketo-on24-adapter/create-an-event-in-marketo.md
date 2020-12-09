@@ -3,9 +3,9 @@ unique-page-id: 10096725
 description: Création d’un Événement dans Marketo - Marketo Docs - Documentation du produit
 title: Création d’un Événement dans Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Lorsque vous créez le événement Marketo, sélectionnez **Webinaire** comme ty
 
 L’étape suivante consiste à [configurer les paramètres du événement et à synchroniser le marketing avec votre webinaire](https://docs.marketo.com/x/IRCa).
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des Événements d&#39;adaptateurs Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
