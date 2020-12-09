@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: Ajouter un domaine de marque supplémentaire avec des espaces de travail - Documents marketing - Documentation du produit
 title: Ajouter un domaine de marque supplémentaire avec des espaces de travail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Si vous disposez d’espaces de travail, vous pouvez ajouter d’autres domaines de marque.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Vous devez d’abord [modifier votre domaine](edit-your-default-branding-domain.md) de marque par défaut.
 >
