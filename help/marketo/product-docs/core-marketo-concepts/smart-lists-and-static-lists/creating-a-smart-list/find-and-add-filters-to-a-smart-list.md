@@ -3,9 +3,9 @@ unique-page-id: 557273
 description: Rechercher et Ajouter des Filtres à une Liste intelligente - Documentation sur le marketing - Documentation sur les produits
 title: Rechercher et Ajouter des Filtres à une Liste intelligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Dans cet exemple, recherchons toutes les personnes en Californie avec un score s
 
 Parfait ! Allons de l&#39;avant et définissons ces filtres.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Création d’une Liste dynamique](create-a-smart-list.md)
 >* [Définir des Filtres de Liste intelligente](define-smart-list-filters.md)
