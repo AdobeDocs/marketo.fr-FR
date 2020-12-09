@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: Gestion et membres de Vue - Docs marketing - Documentation du produit
 title: Gestion et Vue des membres
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -93,9 +93,7 @@ Vous pouvez modifier le statut de vos personnes dans la grille des membres.
 
 Beaucoup de caractéristiques, mais elles sont toutes assez simples. Bon appétit !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Création d’un rapport de performances de Programme](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
 
