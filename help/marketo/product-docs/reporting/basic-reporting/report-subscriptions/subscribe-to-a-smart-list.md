@@ -3,9 +3,9 @@ unique-page-id: 7505310
 description: S’abonner à une Liste dynamique - Documentation sur le marketing - Documentation sur le produit
 title: S’abonner à une Liste dynamique
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -108,9 +108,7 @@ Pour supprimer un abonnement, sélectionnez-le dans l’onglet abonnements, puis
 
 ![](assets/twelve.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Modifier un Abonnement de Liste dynamique](edit-a-smart-list-subscription.md)
 >* [Sécurisation du paramètre d’administration de l’Abonnement](secure-the-subscription-admin-setting.md)
