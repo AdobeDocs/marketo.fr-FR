@@ -3,9 +3,9 @@ unique-page-id: 10096400
 description: Création d’un modèle de courrier électronique - Documents marketing - Documentation du produit
 title: Créer un modèle de courrier électronique
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Si vous avez créé un courrier électronique que vous souhaitez enregistrer en 
 
 Pour personnaliser votre modèle de courrier électronique, consultez l’article ci-dessous.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Syntaxe du modèle de courriel](email-template-syntax.md)
 
