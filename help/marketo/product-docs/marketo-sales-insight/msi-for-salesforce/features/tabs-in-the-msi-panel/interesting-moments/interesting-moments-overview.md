@@ -3,9 +3,9 @@ unique-page-id: 2949720
 description: Présentation des moments intéressants - Documents marketing - Documentation du produit
 title: Présentation des moments intéressants
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Vous pouvez utiliser l&#39;étape intéressante du flux de temps pour donner à 
 
 Vous pouvez également utiliser des jetons dans des moments intéressants pour créer des descriptions dynamiques vraiment utiles.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Utilisation de moments intéressants](using-interesting-moments.md)
 >* [Jetons pour les moments intéressants](tokens-for-interesting-moments.md)
