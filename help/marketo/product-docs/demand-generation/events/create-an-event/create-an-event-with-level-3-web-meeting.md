@@ -3,9 +3,9 @@ unique-page-id: 7512328
 description: Créer un Événement avec une réunion Web de niveau 3 - Documentation sur le marketing - Documentation sur le produit
 title: Créer un Événement avec une réunion Web de niveau 3
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Créer un Événement avec une réunion Web de niveau 3 {#create-an-event-with-level-web-meeting}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Ajouter la réunion Web de niveau 3 en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Créer un Programme de Événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
