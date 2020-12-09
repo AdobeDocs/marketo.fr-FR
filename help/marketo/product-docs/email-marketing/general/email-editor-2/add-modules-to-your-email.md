@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: Ajouter des modules à votre adresse électronique - Documents marketing - Documentation du produit
 title: Ajouter des modules à votre adresse électronique
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Il existe deux façons de déplacer un module.
 
 C&#39;est tout ce qu&#39;il y a à ça.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Syntaxe du modèle de courriel](email-template-syntax.md)
 
