@@ -2,7 +2,7 @@
 title: activate-deactivate-a-trigger-smart-campaign
 description: Activer/désactiver une Campaign dynamique de déclenchement
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -16,7 +16,7 @@ L&#39;activation/désactivation d&#39;une campagne intelligente de déclenchemen
 
 ## Activer une Campaign Trigger
 
-1. Dans votre campagne dynamique, cliquez sur l’onglet [!UICONTROL **Planification**] .
+1. Dans votre campagne dynamique, cliquez sur l’onglet **[!UICONTROL Planification]** .
 
    ![Image un](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ L&#39;activation/désactivation d&#39;une campagne intelligente de déclenchemen
    >
    >Passez en revue la campagne intelligente avant de l’activer.
 
-1. Cliquez sur [!UICONTROL **Activer**].
+1. Cliquez sur **[!UICONTROL Activer]**.
 
    ![Image 2](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,11 +36,11 @@ L&#39;activation/désactivation d&#39;une campagne intelligente de déclenchemen
 
 ## Désactivation d’une Campaign Trigger
 
-1. Dans votre campagne dynamique, cliquez sur l’onglet [!UICONTROL **Planification**] .
+1. Dans votre campagne dynamique, cliquez sur l’onglet **[!UICONTROL Planification]** .
 
    ![Image trois](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. Cliquez sur [!UICONTROL **Désactiver**].
+1. Cliquez sur **[!UICONTROL Désactiver]**.
 
    ![Image 4](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
