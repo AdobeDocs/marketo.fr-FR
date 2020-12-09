@@ -3,9 +3,9 @@ unique-page-id: 12615781
 description: Créer un compte nommé - Documents marketing - Documentation du produit
 title: Créer un compte nommé
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Pour créer manuellement un compte nommé, procédez comme suit.
    >
    >Cliquez directement sur un compte nommé pour afficher son tableau de bord.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter des personnes à un compte nommé](add-people-to-a-named-account.md)
 
