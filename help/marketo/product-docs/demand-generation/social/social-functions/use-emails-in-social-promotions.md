@@ -3,9 +3,9 @@ unique-page-id: 2359793
 description: Utiliser des courriers électroniques dans les promotions sociales - Documents marketing - Documentation du produit
 title: Utiliser des courriers électroniques dans les promotions sociales
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Dans les courriels, utilisez les jetons suivants :
 
 * **Adresse électronique** d’exécution : Utilisez **`{{social.Promo Code}}`** pour envoyer à chaque gagnant un code [de](use-promo-codes-for-offer-fulfillment.md)promotion.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Avant de pouvoir ajouter un courrier électronique à une application sociale, il doit être *opérationnel* et *approuvé*. Voir [Modifier les paramètres d’un courrier électronique](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
