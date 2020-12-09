@@ -2,7 +2,7 @@
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: Mes actions de jeton Modifier, Supprimer, Cloner et Copier les noms de jeton
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ## Modification d’un jeton
 
-Dans l’onglet [!UICONTROL Mes jetons] de votre dossier de campagne ou de votre programme, cliquez sur la [!UICONTROL **valeur**] du jeton à modifier. La fenêtre de l&#39;éditeur s&#39;ouvre alors.
+Dans l’onglet [!UICONTROL Mes jetons] de votre dossier de campagne ou de votre programme, cliquez sur la **[!UICONTROL valeur]** du jeton à modifier. La fenêtre de l&#39;éditeur s&#39;ouvre alors.
 
 ![Image un](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->Les jetons de texte n’ont pas de fenêtre d’éditeur distincte. Cliquez sur la [!UICONTROL **valeur**] pour effectuer des modifications en ligne.
+>Les jetons de texte n’ont pas de fenêtre d’éditeur distincte. Cliquez sur la **[!UICONTROL valeur]** pour effectuer des modifications en ligne.
 
 ![Image 2](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
 ## Suppression d’un jeton
 
-1. Cliquez avec le bouton droit de la souris sur le jeton, puis sélectionnez [!UICONTROL **Supprimer**].
+1. Cliquez avec le bouton droit de la souris sur le jeton, puis sélectionnez **[!UICONTROL Supprimer]**.
 
    ![Image trois](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
-1. Cliquez sur [!UICONTROL **Confirmer**].
+1. Cliquez sur **[!UICONTROL Confirmer]**.
 
    ![Image 4](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-4.png)
 
@@ -40,11 +40,11 @@ Dans l’onglet [!UICONTROL Mes jetons] de votre dossier de campagne ou de votre
 
 ## Cloner un jeton
 
-1. Pour cloner un jeton, cliquez dessus avec le bouton droit et sélectionnez [!UICONTROL **Cloner**].
+1. Pour cloner un jeton, cliquez dessus avec le bouton droit et sélectionnez **[!UICONTROL Cloner]**.
 
    ![Image 5](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-5.png)
 
-1. Entrez un nouveau nom pour votre jeton de clonage, apportez les modifications nécessaires, puis cliquez sur [!UICONTROL **Enregistrer**].
+1. Entrez un nouveau nom pour votre jeton de clonage, apportez les modifications nécessaires, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![Image six](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-6.png)
 
