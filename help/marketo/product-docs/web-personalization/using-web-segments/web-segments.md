@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Segments Web - Documents marketing - Documentation du produit
 title: Segments Web
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '2033'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,7 @@ Dans la page **Segments** , cliquez sur **Créer nouveau** sous le graphique. L�
 
 Définissez des paramètres généraux pour votre segment :
 
-1. &#x200B;
+1. 
 
    * **Nom :**  Nommez votre segment.
    * **Description :**  Fournissez une explication plus détaillée des critères de segmentation.
@@ -110,21 +110,23 @@ Définissez des paramètres généraux pour votre segment :
 >1. Utiliser tous les Filtres (1, 2 et 3...)
 >1. Utiliser n&#39;importe quel Filtres (1, 2 ou 3...)
 >1. Filtres avancés (à l’aide de et / ou d’expressions) >
->    1. &#x200B;>    
->       
->       Les filtres avancés vous permettent de contrôler la condition du segment. Entrez les numéros de filtre séparés par &quot;et&quot; et &quot;ou&quot;.
->        * 1 et 2 et 3
->        * 1 ou 2 ou 3
->
->       Le mélange de &quot;et&quot; et &quot;ou&quot; nécessite des parenthèses pour clarifier l&#39;intention logique. par ex. &quot;1 ou 2 et 3&quot; doit être écrit comme suit :
->       * 1 et (2 ou 3)
->       * (1 et 2) ou 3
->
->       Les parenthèses imbriquées sont acceptées pour une logique plus complexe (ex.
->       * (1 et 2) ou (3 et 4)
->       * 1 et (2 ou (3 et 4))
->
->       Vérifiez votre logique après toute insertion, suppression ou réorganisation.
+   >    1. >    
+   >       
+
+      >Les filtres avancés vous permettent de contrôler la condition du segment. Entrez les numéros de filtre séparés par &quot;et&quot; et &quot;ou&quot;.  >
+      >        * 1 et 2 et 3
+      >        * 1 ou 2 ou 3
+
+      >
+      Le mélange de &quot;et&quot; et &quot;ou&quot; nécessite des parenthèses pour clarifier l&#39;intention logique. par ex. &quot;1 ou 2 et 3&quot; doit être écrit comme suit :  >
+      * 1 et (2 ou 3)
+      * (1 et 2) ou 3
+
+      Les parenthèses imbriquées sont acceptées pour une logique plus complexe (ex.  >
+      * (1 et 2) ou (3 et 4)
+      * 1 et (2 ou (3 et 4))
+
+      Vérifiez votre logique après toute insertion, suppression ou réorganisation.
 
 
 
@@ -340,8 +342,7 @@ Vous ne pouvez pas supprimer un segment associé à une campagne. Vous devez d�
 
 Super ! Maintenant que vous connaissez la section Segments, découvrons les campagnes.
 
->[!NOTE]
-**Articles connexes**
+>[!MORELIKETHIS]
 * [Créer un segment Web de base](create-a-basic-web-segment.md)
 * [Créer une Campaign Web de boîte de dialogue](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 * [Créer une Campaign Web en zone](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
