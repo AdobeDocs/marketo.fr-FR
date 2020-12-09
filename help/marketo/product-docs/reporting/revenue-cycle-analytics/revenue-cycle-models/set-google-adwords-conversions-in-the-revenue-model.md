@@ -3,9 +3,9 @@ unique-page-id: 6095029
 description: Définir les conversions Google AdWords dans le modèle de recettes - Documents marketing - Documentation du produit
 title: Définir les conversions Google AdWords dans le modèle de recettes
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ En savoir plus sur la fonction [d&#39;importation de conversion hors ligne de](h
 
 Vous pouvez créer une conversion hors ligne d’AdWords à partir de Marketo si vous utilisez l’action d’étape.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Ajouter Google AdWords comme service LaunchPoint](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
