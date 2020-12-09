@@ -3,9 +3,9 @@ unique-page-id: 2359791
 description: Définition de l’objectif pour l’Offre de référence - Documents marketing - Documentation du produit
 title: Définition de l’objectif pour l’Offre de renvoi
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Exemples d’objectifs :
 >
 >De nouveaux filtres et déclencheurs sont disponibles dans les campagnes dynamiques pour surveiller l’activité sociale. Voir [Utilisation de déclencheurs et de filtres pour les activités](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)sociales.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >Vous pouvez ensuite [sélectionner les courriers électroniques](send-referral-offer-fulfillment-email.md) d’inscription et d’exécution à envoyer à partir de votre offre de référence.
 
