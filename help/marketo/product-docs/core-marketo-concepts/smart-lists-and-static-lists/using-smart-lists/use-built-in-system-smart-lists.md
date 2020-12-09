@@ -3,9 +3,9 @@ unique-page-id: 557275
 description: Utiliser des Listes dynamiques intégrées/système - Documentation marketing - Documentation du produit
 title: Utiliser des Listes dynamiques intégrées/système
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Voici un résumé des actions des listes intelligentes intégrées :
 >
 >Impossible de supprimer les listes intelligentes du système. A l’exception de la liste Duplicata possibles, ils ne peuvent pas non plus être modifiés.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
