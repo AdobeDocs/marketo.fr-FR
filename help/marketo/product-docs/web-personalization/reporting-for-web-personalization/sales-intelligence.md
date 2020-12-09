@@ -3,9 +3,9 @@ unique-page-id: 10096420
 description: Intelligence commerciale - Documentation marketing - Documentation du produit
 title: Intelligence commerciale
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Dans Paramètres [](/help/marketo/product-docs/web-personalization/getting-start
 >
 >Nous vous recommandons de configurer des responsables de vente avec l&#39;autorisation de vue uniquement dans la personnalisation Web de Marketo. Cela signifie qu’ils peuvent vue toutes les pages, mais pas créer, modifier ou supprimer des fonctionnalités.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Rapports par courriel](email-reports.md)
 
