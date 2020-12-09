@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: Présentation des modèles de recettes - Documents marketing - Documentation du produit
 title: Présentation des modèles de recettes
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ Clarifiez exactement comment une piste passe d&#39;une étape à une autre en ut
 
 Voici quelques liens qui peuvent être utilement pleins d&#39;espoir. (ou, espérons-le, utile - prenez votre choix !)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Créer un modèle de recettes](create-a-new-revenue-model.md)
 >
@@ -105,9 +103,7 @@ Ajouter une étape du chemin de réussite heureux   ![](assets/image2015-6-12-10
 
 Lost est un bon à ajouter, mais remarquez qu&#39;il n&#39;est pas sur le chemin vert. C&#39;est parce que ce n&#39;est pas un &quot;succès&quot;.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Rapport sur votre modèle de recettes](report-on-your-revenue-model.md)
 >
