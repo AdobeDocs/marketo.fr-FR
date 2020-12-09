@@ -3,9 +3,9 @@ unique-page-id: 2949180
 description: Présentation du Tableau de bord d’optimisation du référencement - Recommendations - Docs Marketo - Documentation du produit
 title: Comprendre le Tableau de bord SEO-SEO Recommendations
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Le fait d’avoir un lien vers votre contenu vers des sites fiables peut augment
 
 Tout de suite ! Plongez plus profondément ici.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Zoom avant sur les détails de la page](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
 
