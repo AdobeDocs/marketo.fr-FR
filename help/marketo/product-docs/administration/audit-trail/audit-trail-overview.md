@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Aperçu de la piste d’audit - Documents marketing - Documentation du produit
 title: Aperçu de la piste d’audit
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Vous ne pouvez vue que 30 jours de données dans votre instance. Pour obtenir (j
 >
 >**Inconnu :** Dans le journal d’audit, vous pouvez voir le nom et l’adresse électronique d’un utilisateur répertoriés comme &quot;Inconnu&quot;. Cela se produit lorsque vous modifiez les valeurs de la liste de sélection dans votre gestion de la relation client. Ces valeurs s’affichent dans les landings page et formulaires marketing. Si vous effectuez cette mise à jour du côté CRM, vos landings page référençant le formulaire seront automatiquement rédigés. Dans la piste d’audit, nous allons capturer que le landing page a été rédigé, mais le nom et l’adresse électronique de l’utilisateur s’afficheront comme &quot;Inconnu&quot;, car nous ne sommes pas en mesure de capturer les informations de l’utilisateur du côté CRM.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Activer la piste d&#39;audit](enable-audit-trail.md)
 
