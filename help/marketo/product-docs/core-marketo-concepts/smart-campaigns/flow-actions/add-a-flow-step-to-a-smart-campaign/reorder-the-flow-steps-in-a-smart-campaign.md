@@ -3,9 +3,9 @@ unique-page-id: 1146985
 description: Réorganiser les étapes de flux dans une Campaign intelligente - Documentation du marketing - Documentation du produit
 title: Réorganisation des étapes de flux dans une Campaign dynamique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Les étapes de flux s’exécutent de haut en bas. Voici comment réorganiser les étapes de flux en fonction de vos besoins.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Ajouter une étape de flux à un Campaign dynamique](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
