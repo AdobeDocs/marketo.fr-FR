@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Créer un sondage - Documents marketing - Documentation du produit
 title: Créer un sondage
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partage
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Si vous souhaitez utiliser des images dans votre sondage, ajoutez-les à votre bibliothèque d’images et de fichiers marketing avant de commencer. Ajoutez une image de 60 x 60 pixels pour chaque entrée d’interrogation. Voir [Ajouter des images et des fichiers au marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
