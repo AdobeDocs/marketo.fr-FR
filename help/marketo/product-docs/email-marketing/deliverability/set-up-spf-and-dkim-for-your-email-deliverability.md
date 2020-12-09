@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: Configurez SPF et DKIM pour la délivrabilité de votre courrier électronique - Documents marketing - Documentation du produit
 title: Configuration de SPF et DKIM pour la diffusion de vos e-mails
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Comment configurer DKIM ?
 
 Reportez-vous à [Configuration d&#39;une signature](set-up-a-custom-dkim-signature.md)DKIM personnalisée.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [En savoir plus sur SPF et son fonctionnement](http://www.open-spf.org/Introduction/)
 >* [Outils de délivrabilité des courriers électroniques de MarketingTo](https://www.marketo.com/software/email-marketing/email-deliverability/)
