@@ -3,9 +3,9 @@ unique-page-id: 10096677
 description: Testez votre intégration de Événement ON24 - Docs marketing - Documentation du produit
 title: Testez votre intégration de Événement ON24
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Voici comment les données sont mises à jour après le événement :
 * Marketo récupère toutes les nuits les données des participants sur ON24.
 * Une fois que les données du participant se synchronisent entre Marketo et ON24, Marketo met à jour l’état de l’adhésion en Participation, Participation à la demande ou Pas d’affichage. Dans l’onglet **Résumé** du événement, l’état du événement est mis à jour sur **Événement terminé**.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Exemple d’intégration de Événement ON24](example-on24-event-integration.md)
 >* [Présentation des Événements d&#39;adaptateurs Marketo ON24](understanding-marketo-on24-adapter-events.md)
