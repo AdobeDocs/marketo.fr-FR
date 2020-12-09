@@ -3,9 +3,9 @@ unique-page-id: 2359876
 description: Remplacer une image ou un fichier téléchargé - Documents marketing - Documentation du produit
 title: Remplacement d’une image ou d’un fichier téléchargé
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 Tu l&#39;as fait !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Recherche d’images et de fichiers téléchargés](search-uploaded-images-and-files.md)
 >* [Rechercher l’URL d’une image ou d’un fichier téléchargé](find-the-url-of-an-uploaded-image-or-file.md)
