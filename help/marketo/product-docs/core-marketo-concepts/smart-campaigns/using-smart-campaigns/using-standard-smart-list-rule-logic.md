@@ -3,9 +3,9 @@ unique-page-id: 1147001
 description: Utilisation de la logique de règle de Liste intelligente standard - Documentation sur le marketing - Documentation du produit
 title: Utilisation de la logique de règle de Liste intelligente standard
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ Les déclencheurs sont toujours évalués comme OU, même si le paramètre ci-de
 La liste intelligente ci-dessus, en termes :
 `<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Ainsi, si une personne remplit le formulaire **ou visite** la page, la campagne évalue cette personne en fonction de **tous **ou **n*importe quel **des filtres suivants, selon le paramètre utilisé.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Utilisation de la logique avancée des règles de Liste intelligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
 
