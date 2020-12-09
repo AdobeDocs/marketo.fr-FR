@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: Rapport de performances des courriels - Documents marketing - Documentation du produit
 title: Rapport Performance des courriers électroniques
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ En général, nous essayons d&#39;utiliser le bon sens pour enregistrer ces stat
 >
 >Plusieurs envois de la même campagne à la même personne ne sont comptabilisés qu’une seule fois.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Filtrage des ressources dans les rapports de messagerie Campaign](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [Rapport Performance des liens de courriel](email-link-performance-report.md)
