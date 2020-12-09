@@ -2,7 +2,7 @@
 title: ajouter et supprimer des étiquettes
 description: Ajouter et supprimer des étiquettes
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Vous pouvez attribuer des étiquettes à n’importe quel fichier dans les Activ
 Pour ajouter de nouveaux libellés à un fichier, accédez à la page [!UICONTROL Détails] du fichier sous l’onglet [!UICONTROL Aperçu] .
 <br> 
 
-Sous la section [!UICONTROL Étiquettes] , cliquez sur [!UICONTROL **Ajouter de nouvelles étiquettes**].
+Sous la section [!UICONTROL Étiquettes] , cliquez sur **[!UICONTROL Ajouter de nouvelles étiquettes]**.
 
 ![Image un](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-Si vous ajoutez une étiquette que vous n&#39;avez jamais utilisée auparavant, saisissez le nom de l&#39;étiquette et cliquez sur [!UICONTROL **Créer ____**].
+Si vous ajoutez une étiquette que vous n&#39;avez jamais utilisée auparavant, saisissez le nom de l&#39;étiquette et cliquez sur **[!UICONTROL Créer ____]**.
 
 ![Image 2](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
@@ -37,6 +37,6 @@ Si vous ajoutez une étiquette qui a déjà été créée ailleurs, tapez pour l
 
 ## Supprimer les étiquettes
 
-Vous pouvez supprimer n’importe quelle étiquette en cliquant sur le [!UICONTROL **X**].
+Vous pouvez supprimer n’importe quelle étiquette en cliquant sur le **[!UICONTROL X]**.
 
 ![Image 4](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
