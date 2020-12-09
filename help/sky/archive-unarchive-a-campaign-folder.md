@@ -2,7 +2,7 @@
 title: archive-unarchive-a-campaign-folder
 description: 'Archivage/désarchivage d’un dossier Campaign '
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Convertir en dossier d&#39;archives
 
-Cliquez avec le bouton droit de la souris sur un dossier et sélectionnez [!UICONTROL **Convertir en dossier**] d’archives.
+Cliquez avec le bouton droit de la souris sur un dossier et sélectionnez **[!UICONTROL Convertir en dossier]** d’archives.
 
 ![Image un](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
