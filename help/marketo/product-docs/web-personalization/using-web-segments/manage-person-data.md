@@ -3,9 +3,9 @@ unique-page-id: 7504051
 description: Gérer les données personnelles - Documents marketing - Documentation du produit
 title: Gérer les données personnelles
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ Tirez parti des données personnelles pour la personnalisation Web en sélection
 
 Les champs de piste suivants sont prêts à l’emploi pour les nouveaux comptes de personnalisation Web :
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Création d’un segment à l’aide de données de personne connue](create-a-segment-using-known-person-data.md)
 
