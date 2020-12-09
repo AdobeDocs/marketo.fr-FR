@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Présentation de la connexion commerciale - Documentation marketing - Documentation du produit
 title: Présentation de la connexion commerciale
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,7 @@ Créez une campagne intelligente simple pour donner à vos utilisateurs commerci
 
 Prêt à démarrer ? Pour obtenir des instructions sur la configuration, cliquez sur le lien ci-dessous.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Prise en main de Sales Connect](http://docs.marketo.com/x/coTS)
 
