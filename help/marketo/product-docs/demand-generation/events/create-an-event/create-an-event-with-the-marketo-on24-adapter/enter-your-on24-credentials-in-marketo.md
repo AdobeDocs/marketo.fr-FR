@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: Entrez vos informations d'identification ON24 dans Marketo - Marketo Docs - Documentation sur le produit
 title: Entrez vos informations d'identification ON24 dans Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Vous pouvez modifier vos informations d’identification si votre mot de passe e
 
 L’étape suivante consiste à [créer votre événement de webinaire dans ON24](create-your-webinar-event-in-on24.md).
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des Événements d&#39;adaptateurs Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
