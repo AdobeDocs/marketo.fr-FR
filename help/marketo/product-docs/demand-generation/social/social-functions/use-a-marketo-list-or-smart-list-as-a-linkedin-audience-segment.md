@@ -3,9 +3,9 @@ unique-page-id: 7504180
 description: Utilisation d’une Liste Marketo ou d’une Liste dynamique en tant que segment d’Audience LinkedIn - Marketo Docs - Documentation du produit
 title: Utilisation d’une Liste Marketo ou d’une Liste dynamique en tant que segment d’Audience LinkedIn
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Intégrez les personnes de votre marketing à vos audiences LinkedIn.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Ajouter les Audiences mises en correspondance LinkedIn en tant que service LaunchPoint](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
