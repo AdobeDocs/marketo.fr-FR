@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: Étape 3 sur 3 - Connecter le marketing et la dynamique (local 2013) - Documents marketing - Documentation du produit
 title: Étape 3 sur 3 - Connecter le marketing et la dynamique (local 2013)
 translation-type: tm+mt
-source-git-commit: ce8b67b8549d23ff4ddd1d341632c6c5ff33990d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 D&#39;accord ! Nous avons installé la solution et configuré l&#39;utilisateur de synchronisation. Ensuite, nous devons connecter Marketing et Dynamics.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Étape 1 sur 3 : Installer la solution Marketo dans Dynamics (local 2013)](step-1-of-3-install.md)
 >* [Étape 2 sur 3 : Configurer l&#39;utilisateur de synchronisation pour Marketo (local 2013)](step-2-of-3-configure.md)
