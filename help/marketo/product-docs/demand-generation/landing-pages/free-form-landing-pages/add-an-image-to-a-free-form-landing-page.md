@@ -3,9 +3,9 @@ unique-page-id: 2359703
 description: Ajouter une image à un Landing page de forme libre - Documents marketing - Documentation du produit
 title: Ajouter une image à un Landing page libre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Ajouter une image à un Landing page libre {#add-an-image-to-a-free-form-landing-page}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Ajouter des images et des fichiers au marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
