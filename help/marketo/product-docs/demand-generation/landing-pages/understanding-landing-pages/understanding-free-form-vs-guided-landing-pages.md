@@ -3,9 +3,9 @@ unique-page-id: 7515207
 description: Présentation des Landings page libres ou guidés - Documents marketing - Documentation du produit
 title: Présentation des Landings page libres ou guidés
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ Le modèle que vous choisissez détermine le mode de modification de landing pag
 
 ![](assets/two-1.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Landings page à structure libre](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
 >* [Landings page guidés](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)
