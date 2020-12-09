@@ -3,9 +3,9 @@ unique-page-id: 2359426
 description: Mettre à jour les données personnelles - Documents marketing - Documentation du produit
 title: Mettre à jour les données personnelles
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Configurer et Ajouter une personne](get-set-up-and-add-a-person.md)
 >* [Importer une Liste de personnes](import-a-list-of-people.md)
