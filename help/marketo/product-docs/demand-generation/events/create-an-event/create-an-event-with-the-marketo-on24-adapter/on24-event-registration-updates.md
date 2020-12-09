@@ -3,9 +3,9 @@ unique-page-id: 10096683
 description: Mises à jour de l'inscription sur Événement ON24 - Documents marketing - Documentation du produit
 title: Mises à jour de l'abonnement Événement ON24
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Si une personne n&#39;est pas enregistrée mais est plutôt définie sur l&#39;�
 
 Marketo tire automatiquement les informations de présence vers 23h00 dans le Pacifique chaque nuit. Pour mettre à jour manuellement les informations de présence, cliquez sur **Actualiser à partir du fournisseur** de webinaires sous Actions ****&#x200B;Événement.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des Événements d&#39;adaptateurs Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
