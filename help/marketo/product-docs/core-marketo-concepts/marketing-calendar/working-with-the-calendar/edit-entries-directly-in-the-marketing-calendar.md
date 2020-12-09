@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: Modifier directement les entrées dans le calendrier marketing - Documents marketing - Documentation du produit
 title: Modifier directement les entrées dans le calendrier marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ Vous pouvez rapidement accéder à différentes zones de vos entrées pour les m
 
 C&#39;est tout ! Comme vous pouvez le constater, vous pouvez effectuer de nombreuses tâches directement à partir du calendrier marketing.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Supprimer directement les entrées dans le calendrier marketing](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
 
