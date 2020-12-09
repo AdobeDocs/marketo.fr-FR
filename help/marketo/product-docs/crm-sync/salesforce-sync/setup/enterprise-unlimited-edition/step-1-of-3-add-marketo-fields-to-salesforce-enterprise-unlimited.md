@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: Étape 1 sur 3 - Ajouter les champs du marketing à Salesforce (Enterprise/Unlimited) - Docs du marketing - Documentation du produit
 title: Etape 1 sur 3 - Ajouter les champs du marketing à Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Étape 1 sur 3 : Ajouter les champs du marketing à Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Vous devez avoir accès aux API Salesforce pour synchroniser entre Marketo et Salesforce.
 
