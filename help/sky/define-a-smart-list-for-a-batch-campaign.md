@@ -2,7 +2,7 @@
 title: définir-une-liste-intelligente-pour-une-campagne-par-lot
 description: Définir une Liste dynamique pour un Campaign par lot
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Les listes intelligentes sont le mécanisme utilisé dans tout Marketo pour définir &quot;qui&quot; (quelles personnes) inclure, qu’il s’agisse d’un rapport, d’une liste ou d’une campagne intelligente. Voici comment définir une liste intelligente pour une campagne par lot.
 
-1. Choisissez une campagne intelligente, puis cliquez sur Liste [!UICONTROL ****] intelligente.
+1. Choisissez une campagne intelligente, puis cliquez sur Liste **** intelligente.
 
    ![Image un](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-1.png)
 
@@ -32,7 +32,7 @@ Les listes intelligentes sont le mécanisme utilisé dans tout Marketo pour déf
    >
    >Vous pouvez exécuter une campagne dynamique sur une personne à la fois en fonction des événements en direct en ajoutant des déclencheurs, ce qui place la campagne dynamique en mode Déclencheur.
 
-1. Cliquez sur la liste déroulante et choisissez un opérateur de filtre (par exemple, [!UICONTROL **est**], [!UICONTROL **n’est pas**], etc.) pour le filtre choisi.
+1. Cliquez sur la liste déroulante et choisissez un opérateur de filtre (par exemple, **[!UICONTROL est]**, **[!UICONTROL n’est pas]**, etc.) pour le filtre choisi.
 
    ![Image trois](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 
