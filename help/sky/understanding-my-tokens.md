@@ -2,7 +2,7 @@
 title: compréhension-mes-jetons
 description: Présentation de mes jetons
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Lorsque vous créez un jeton, il peut être référencé par d’autres objets d
 * **[Jeton remplacé :](/help/sky/override-an-inherited-my-token.md)** Le jeton a été hérité, mais une exception a été faite dans ce programme ou dossier.
 * **Jeton hérité :** Le jeton a été créé dans l’arborescence quelque part dans un programme ou un dossier de niveau supérieur.
 
-Vous pouvez trouver ces trois types sous l’onglet [!UICONTROL **Mes jetons**] dans votre dossier de programme ou de campagne.
+Vous pouvez trouver ces trois types sous l’onglet **[!UICONTROL Mes jetons]** dans votre dossier de programme ou de campagne.
 
 ![Image 2](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
