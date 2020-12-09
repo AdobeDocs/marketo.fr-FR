@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: Ajouter à Marketing Campaign - Docs marketing - Documentation du produit
 title: Ajouter à Marketing Campaign
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Ajouter à Marketing Campaign {#add-to-marketing-campaign}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Rendre un Campaign visible pour les utilisateurs commerciaux](http://docs.marketo.com/x/NwDh)
 
