@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: Configuration des paramètres du Événement et synchronisation du marketing avec votre webinaire - Docs marketing - Documentation du produit
 title: Configuration des paramètres du Événement et synchronisation du marketing avec votre webinaire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Lorsque vous configurez un événement associé à un webinaire ON24, le plannin
 
 Vous pouvez passer à l’étape suivante : .
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des Événements d&#39;adaptateur Marketo On24](understanding-marketo-on24-adapter-events.md)
 >* [Créer des campagnes enfants et des ressources locales](create-child-campaigns-and-local-assets.md)
