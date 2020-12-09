@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: Personnalisation d’une présentation - Documents marketing - Documentation du produit
 title: Personnalisation d’une présentation
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Configurez votre présentation du calendrier pour qu’elle reflète les objecti
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Créer des objectifs](create-a-custom-goal.md) personnalisés ou des objectifs de Liste [intelligente](create-a-smart-list-goal.md)
    >
