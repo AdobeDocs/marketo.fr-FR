@@ -3,9 +3,9 @@ unique-page-id: 7504736
 description: Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 1 sur 3 - Marketo Docs - Documentation du produit
 title: Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 1 sur 3
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 2015 On-Premises ou 2016 (Dynam
 >
 >Une fois que vous avez synchronisé Marketo sur un service de gestion de la relation client, vous ne pouvez plus synchroniser un nouveau service de gestion de la relation client sur l’instance de marché existante.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Si vous utilisez Microsoft Dynamics On-Premise, vous devez avoir un déploiement [](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) Internet Facing (IFD) avec les services [de fédération](https://msdn.microsoft.com/en-us/library/bb897402.aspx) Principale Directory 2.0+ (ADFS) configurés. Remarque : Le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
 >
