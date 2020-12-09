@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: Ajouter du contenu à un flux - Documents marketing - Documentation du produit
 title: Ajouter du contenu à un flux
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -116,9 +116,7 @@ Une fois votre programme d’engagement créé, vous devez ajouter du contenu au
 
 Super boulot ! Vous connaissez maintenant différentes manières d’ajouter du contenu à vos flux de programme. Ajoutez autant que nécessaire pour votre culture. Consultez l&#39;article correspondant ci-dessous pour plus de détails.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter un Programme à un flux de Programme d’engagement](adding-a-program-to-an-engagement-program-stream.md)
 
