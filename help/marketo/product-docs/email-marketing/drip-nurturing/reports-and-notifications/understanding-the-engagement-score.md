@@ -3,9 +3,9 @@ unique-page-id: 2359890
 description: Présentation de la note d’engagement - Documents marketing - Documentation du produit
 title: Présentation de la note d’engagement
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Les scores d’engagement sont universels pour tous les clients. Vous pouvez les
 >
 >L’algorithme propriétaire s’applique également au score d’engagement dans les programmes électroniques.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des Programmes d’engagement](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
 
