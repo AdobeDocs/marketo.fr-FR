@@ -3,9 +3,9 @@ unique-page-id: 10095636
 description: Activation de l’option Aucun brouillon pour les extraits de code - Documents marketing - Documentation du produit
 title: Activation de l’option Aucun brouillon pour les extraits de code
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Aucun brouillon est automatiquement activé pour tous les rôles d’administrat
 >
 >Pour désactiver l’option Pas de brouillon, suivez les étapes 1 à 4 ci-dessus, désactivez la case à cocher Pas de brouillon, puis cliquez sur **Enregistrer**.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Approuver un extrait de code sans brouillon](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
 
