@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: Ajouter une application mobile - Documents marketing - Documentation du produit
 title: Ajouter une application mobile
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Les applications sont normalement débuts dans un environnement de sandbox, où 
 
    Sympa ! Maintenant, configurez votre application pour qu’elle fonctionne avec les appareils Android et iOS.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Configuration de Mobile App Android Push Access](configure-mobile-app-android-push-access.md)
 >* [Configuration de Mobile App iOS Push Access](configure-mobile-app-ios-push-access.md)
