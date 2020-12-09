@@ -3,9 +3,9 @@ unique-page-id: 2359902
 description: Définir les paramètres d'emplacement par défaut pour un Abonnement - Documents marketing - Documentation du produit
 title: Définir les paramètres d’emplacement par défaut pour un Abonnement
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Si vous modifiez les paramètres régionaux par défaut de vos utilisateurs, vou
 
    Félicitations ! Vous avez modifié les paramètres d’emplacement de l’abonnement.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Sélectionner votre langue, langue et fuseau horaire](select-your-language-locale-and-time-zone.md)
 
