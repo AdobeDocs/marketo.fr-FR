@@ -2,7 +2,7 @@
 title: disable-or-enable-épuisé-content-notifications
 description: Désactivation ou activation des notifications de contenu expirées
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Lorsque les utilisateurs épuisent tout le contenu d’un flux, [!DNL Marketo] i
 
    ![Image un](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. Cliquez sur l’onglet [!UICONTROL **Configuration**] .
+1. Cliquez sur l’onglet **[!UICONTROL Configuration]** .
 
    ![Image 2](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. Faites défiler l’écran jusqu’à [!UICONTROL Paramètres] et sélectionnez [!UICONTROL **Désactivé**] (ou [!UICONTROL Activé]).
+1. Faites défiler l’écran jusqu’à [!UICONTROL Paramètres] et sélectionnez **[!UICONTROL Désactivé]** (ou [!UICONTROL Activé]).
 
    ![Image trois](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 
