@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Utilisation de moments intéressants - Documents marketing - Documentation du produit
 title: Utilisation de moments intéressants
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Les moments intéressants sont la clé de la communication avec votre équipe commerciale via l&#39;application Marketo Sales Insight.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Ils sont disponibles uniquement pour les clients Marketing Insight et [Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ) .
 
@@ -31,7 +29,7 @@ C&#39;est à vous de décider ! Vous décidez quelles informations sont pertinen
 
 ## Comment créer un moment intéressant ?  {#how-do-i-create-an-interesting-moment}
 
-1. Choisissez une campagne [](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) s [](http://docs.marketo.com/display/docs/smart+campaigns)mart, de préférence une campagne intéressante pour votre équipe commerciale si elle est déclenchée.
+1. Choisissez une campagne [](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)intelligente, de préférence une campagne intéressante pour votre équipe commerciale si elle est déclenchée.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -76,4 +74,3 @@ Une fois que vous avez [installé l&#39;application](../../../../../../product-d
 Après avoir installé ou mis à jour Marketo Sales Insight for Salesforce1, des moments intéressants s&#39;affichent sous les liens associés au prospect.
 
 ![](assets/seven.png)
-
