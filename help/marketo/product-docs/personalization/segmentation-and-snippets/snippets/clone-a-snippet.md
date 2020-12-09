@@ -3,9 +3,9 @@ unique-page-id: 2359514
 description: Clonage d’un extrait de code - Docs marketing - Documentation du produit
 title: Clonage d’un extrait de code
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Cloner un extrait de code pour en créer une copie que vous pouvez modifier en f
 
 Super ! Vous pouvez désormais modifier le fragment de code cloné en fonction de vos besoins.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Modification d’extraits de code avec du contenu dynamique](edit-snippets-with-dynamic-content.md)
 
