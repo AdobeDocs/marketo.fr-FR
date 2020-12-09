@@ -2,7 +2,7 @@
 title: priorité-flux-contenu
 description: Donner la priorité au contenu du flux
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Après avoir ajouté du contenu à votre flux, vous pouvez modifier la priorité
 
    ![Image un](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-1.png)
 
-1. Cliquez sur l’onglet [!UICONTROL **Flux**] de données.
+1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
 
    ![Image 2](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-2.png)
 
