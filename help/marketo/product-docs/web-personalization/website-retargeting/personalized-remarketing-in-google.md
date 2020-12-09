@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Remarketing personnalisé dans Google - Documents marketing - Documentation du produit
 title: Remarketing personnalisé dans Google
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Le remarketing personnalisé vous permet d’interagir de nouveau avec vos utilisateurs à l’aide de données RTP et de la puissance des Google Analytics grâce à la portée du réseau d’affichage Google.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* Effectuez la configuration [Reciblage avec les données](retargeting-with-web-personalization-data.md) de personnalisation Web.
 >* Révision des [remarques avec la documentation d’aide](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) Google Analytics
