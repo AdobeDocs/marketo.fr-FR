@@ -3,9 +3,9 @@ unique-page-id: 10093690
 description: Modifier et supprimer un objet personnalisé de marketing - Documents marketing - Documentation du produit
 title: Modifier et supprimer un objet personnalisé marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ Il est facile de supprimer un objet personnalisé, mais il faut être prudent. L
    >
    >Si l’objet personnalisé est lié à un objet intermédiaire, vous devez d’abord supprimer l’objet intermédiaire.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Approuver un objet personnalisé](approve-a-custom-object.md)
 
