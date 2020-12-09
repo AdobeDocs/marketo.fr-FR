@@ -3,9 +3,9 @@ unique-page-id: 557318
 description: Actualisation d’une Liste ou d’une Liste dynamique - Docs marketing - Documentation du produit
 title: Actualiser une Liste ou une Liste dynamique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Si vous avez exécuté une liste intelligente et que quelques minutes se sont é
 >
 >Parfois, lorsque vous exécutez une liste intelligente et que vous y revenez plus tard, vous verrez le mot &quot;A propos&quot; devant le nombre de personnes dans le coin inférieur droit. Cela indique que le nombre est approximatif : cliquez sur le nombre lui-même pour l’actualiser et obtenir un nombre mis à jour et précis.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Exportation de personnes vers Excel à partir d’une Liste ou d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
 
