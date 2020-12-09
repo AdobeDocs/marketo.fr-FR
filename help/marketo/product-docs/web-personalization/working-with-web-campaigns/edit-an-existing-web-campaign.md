@@ -3,9 +3,9 @@ unique-page-id: 4719408
 description: Modifier une Campaign Web existante - Documents marketing - Documentation du produit
 title: Modifier une Campaign Web existante
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
    >
    >Pour faciliter la recherche de la campagne Web de votre choix, utilisez la fonction [de](filter-web-campaigns.md)filtrage.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Suppression d’une Campaign Web](delete-a-web-campaign.md)
 >* [Lancement/mise en pause d’une](launch-pause-a-web-campaign.md) [Campaign](launch-pause-a-web-campaign.md)
