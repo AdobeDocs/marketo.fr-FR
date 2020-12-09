@@ -3,9 +3,9 @@ unique-page-id: 7504383
 description: Ajouter des champs à un rapport Explorateur de recettes - Documents marketing - Documentation du produit
 title: Ajouter des champs à un rapport Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -48,9 +48,7 @@ Personnalisez les rapports de l’explorateur de recettes en faisant glisser et 
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Suppression d’un champ dans un rapport Explorateur de recettes](deleting-a-field-in-a-revenue-explorer-report.md)
 
