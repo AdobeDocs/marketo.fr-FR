@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: Ajouter un champion de messagerie/Challenger - Marketo Docs - Documentation du produit
 title: Ajouter un champion de messagerie/Challenger
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Il est conseillé de tester tous les courriels que vous utilisez fréquemment po
 Le message électronique que vous testez est considéré comme le champion. Les variantes que vous créez dans un test sont considérées comme des concurrents. Vous déterminez le pourcentage de personnes qui reçoivent le contenu champion ou le contenu challenger. Si vous avez défini plusieurs challengers, ils seront répartis de manière égale entre le groupe challenger.\
 Voici comment commencer.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Création d’un Programme](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Créer un courriel](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
