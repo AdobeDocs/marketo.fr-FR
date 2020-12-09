@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: Rapports de personnes de groupe par segment - Documents marketing - Documentation du produit
 title: Regrouper les rapports des personnes par segment
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Vous pouvez regrouper les rapports [de](http://docs.marketo.com/display/docs/bas
 >
 >Pour en savoir plus sur les segments et sur la façon de les créer et de les gérer, consultez la section [Segmentation](http://docs.marketo.com/display/docs/segmentation+and+snippets) approfondie.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter des colonnes personnalisées à un rapport Personne](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 
