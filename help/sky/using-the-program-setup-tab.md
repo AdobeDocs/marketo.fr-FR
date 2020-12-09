@@ -2,7 +2,7 @@
 title: utilisation-du-programme-onglet-configuration
 description: Utilisation de l’onglet Configuration de Programme
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -30,11 +30,11 @@ Pour modifier votre canal de programme, sélectionnez-en un autre dans la liste 
 
 ## Ajouter des balises
 
-1. Sous la section [!UICONTROL Balises] , cliquez sur la liste déroulante [!UICONTROL **Attribut**] et choisissez un attribut de balise dans les options disponibles.
+1. Sous la section [!UICONTROL Balises] , cliquez sur la liste déroulante **[!UICONTROL Attribut]** et choisissez un attribut de balise dans les options disponibles.
 
    ![Image trois](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Cliquez sur la liste déroulante [!UICONTROL **Valeur**] et choisissez une valeur de balise dans les options disponibles. Cliquez sur [!UICONTROL **Ajouter**].
+1. Cliquez sur la liste déroulante **[!UICONTROL Valeur]** et choisissez une valeur de balise dans les options disponibles. Cliquez sur **[!UICONTROL Ajouter]**.
 
    ![Image 4](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ Pour modifier votre canal de programme, sélectionnez-en un autre dans la liste 
 
 ## Coûts de la période de Ajoute
 
-1. Sous la section Coûts  de la période, sélectionnez un mois, entrez un coût et ajoutez un nom ou une description court. Cliquez sur [!UICONTROL **Ajouter**].
+1. Sous la section Coûts  de la période, sélectionnez un mois, entrez un coût et ajoutez un nom ou une description court. Cliquez sur **[!UICONTROL Ajouter]**.
 
    ![Image six](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
