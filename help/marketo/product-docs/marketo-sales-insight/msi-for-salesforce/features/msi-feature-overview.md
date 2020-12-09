@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Présentation des fonctionnalités MSI - Documentation sur le marketing - Documentation sur les produits
 title: Présentation des fonctionnalités MSI
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Salesforce Classic : Ajoutez à Watchlist, Ajoutez à Marketo Campaign et envoye
 * Configuration MSI : Inclut la configuration de l’onglet Marketo et du panneau MSI Visualforce
 * Réinitialiser les statistiques commerciales de marketing : Inclut la possibilité d&#39;effacer toutes les configurations
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Onglet Configuration des statistiques de ventes du marketing dans Salesforce](http://docs.marketo.com/x/UoCMAg)
 
