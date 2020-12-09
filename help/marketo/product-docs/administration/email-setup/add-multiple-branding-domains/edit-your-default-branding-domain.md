@@ -3,9 +3,9 @@ unique-page-id: 11377392
 description: Modifier votre domaine de marque par défaut - Documents marketing - Documentation du produit
 title: Modifier votre domaine de marque par défaut
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 La modification de votre domaine de marque par défaut constitue la première étape de l’utilisation des domaines de marque.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Assurez-vous d’avoir [configuré un CNAME dans votre DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) avant d’ajouter vos domaines de marque dans Marketo.
 
