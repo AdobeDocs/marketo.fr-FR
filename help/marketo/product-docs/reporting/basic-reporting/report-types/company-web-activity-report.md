@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Rapport sur les Activités Web société - Documents marketing - Documentation du produit
 title: Rapport Activité Web société
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ déterminer les sociétés qui visitent votre site Web ; Vous pouvez choisir d�
 
 Créez un rapport [Activité de page](web-page-activity-report.md) Web pour identifier les personnes qui visitent votre site.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Pour capturer l&#39;activité de votre site Web à Marketo, vous devez d&#39;abord configurer [Munchkin sur votre site](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
