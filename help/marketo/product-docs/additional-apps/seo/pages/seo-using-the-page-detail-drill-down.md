@@ -3,9 +3,9 @@ unique-page-id: 2949186
 description: SEO - Utilisation de la liste déroulante des détails de la page - Documents marketing - Documentation du produit
 title: SEO - Utilisation de la liste déroulante des détails de la page
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Les résultats de l&#39;optimisation de la page vous indiquent les étapes exact
 
 Plutôt sucré, non ? Pour en savoir plus sur les pages ici.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Optimiser des pages spécifiques avec des mots-clés ciblés](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
 
