@@ -3,9 +3,9 @@ unique-page-id: 2360352
 description: Configuration de vos paramètres d’API SOAP - Documents marketing - Documentation du produit
 title: Configuration des paramètres de votre API SOAP
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 >
 >Votre point de terminaison SOAP et votre ID utilisateur seront uniques ; n’envoyez pas la capture d’écran de cet article à votre développeur.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Documentation de l’API SOAP](http://developers.marketo.com/documentation/soap/)
 
