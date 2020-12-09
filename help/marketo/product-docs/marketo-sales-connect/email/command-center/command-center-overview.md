@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: Présentation du centre de commandes - Documents marketing - Documentation du produit
 title: Présentation du centre de commandes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ Par exemple, si vous ajoutez 100 personnes à une campagne dans MSC, vous pouvez
 
 Bonus : Si vous enregistrez votre recherche avancée, elle fonctionnera comme une liste dynamique et ajoutera des courriers électroniques qui répondent aux critères d’engagement une fois que le destinataire aura vue ou cliqué sur votre courriel.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Tâches](http://docs.marketo.com/x/qwDb)
 >* [Aperçu de la recherche avancée](http://docs.marketo.com/x/KQM6Ag)
