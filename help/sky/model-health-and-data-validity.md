@@ -2,7 +2,7 @@
 title: modèle-santé-et-validité-des-données
 description: Santé du modèle et validité des données
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Les performances de vos modèles dépendent de la qualité et de l’exhaustivité des données d’entrée. Voici comment évaluer votre santé modèle.
 
-Accédez à la section [!UICONTROL **Modèles et intégrité**] des données sous Audiences [!UICONTROL ****] prédictives dans la zone [!UICONTROL **Admin**] de Marketo Classic. Vous verrez ici tous vos modèles et leur état.
+Accédez à la section **[!UICONTROL Modèles et intégrité]** des données sous Audiences **** prédictives dans la zone **[!UICONTROL Admin]** de Marketo Classic. Vous verrez ici tous vos modèles et leur état.
 
 ![Image un](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
