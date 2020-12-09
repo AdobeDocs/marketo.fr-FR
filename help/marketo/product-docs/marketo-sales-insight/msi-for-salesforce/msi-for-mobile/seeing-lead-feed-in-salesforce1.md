@@ -3,9 +3,9 @@ unique-page-id: 7512654
 description: Affichage du flux de piste dans Salesforce1 - Documents marketing - Documentation du produit
 title: Affichage du flux de piste dans Salesforce1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Le flux de pistes est une liste à la minute d&#39;événements intéressants r�
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Moments intéressants à Salesforce1](interesting-moments-in-salesforce1.md)
 >* [Envoyer un courrier électronique marketing et des actions Campaign et Watchlist dans Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
