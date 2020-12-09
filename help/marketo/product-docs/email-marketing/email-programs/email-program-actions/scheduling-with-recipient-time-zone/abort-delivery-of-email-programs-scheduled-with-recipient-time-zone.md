@@ -3,9 +3,9 @@ unique-page-id: 13795727
 description: Abandonner la Diffusion des Programmes électroniques planifiés avec le fuseau horaire Destinataire - Documents marketing - Documentation du produit
 title: Abandonner la Diffusion des Programmes de courriel planifiés avec le fuseau horaire Destinataire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Comme les programmes de messagerie planifiés avec le fuseau horaire du Destinat
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation du fuseau horaire Destinataire](understanding-recipient-time-zone.md)
 >* [Planification des Programmes de courriel avec fuseau horaire Destinataire](schedule-email-programs-with-recipient-time-zone.md)
