@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Publier des Landings page sur Facebook - Documents marketing - Documentation du produit
 title: Publication de Landings page sur Facebook
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Vous pouvez publier vos landings page sur Facebook, rencontrer votre audience l�
 >
 >SMB Spark, Standard &amp; Select. Entreprise avec fonction sous licence distincte.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Votre page doit contenir au moins 2 000 &quot;j’aime&quot; avant de pouvoir publier sur Facebook.
 
