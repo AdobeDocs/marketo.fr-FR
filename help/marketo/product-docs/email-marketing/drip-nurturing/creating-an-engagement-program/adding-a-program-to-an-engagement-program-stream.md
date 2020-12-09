@@ -3,9 +3,9 @@ unique-page-id: 10098134
 description: Ajouter un Programme à un flux de Programme d’engagement - Documents marketing - Documentation du produit
 title: Ajouter un Programme à un flux de Programme d’engagement
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Le rapports change avec l’emplacement du courrier électronique. Ainsi, par ex
 >
 >Si vous souhaitez renvoyer quelque chose, il est plus sûr de créer un nouveau programme et une campagne intelligente.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter du contenu à un flux](add-content-to-a-stream.md)
 >* [Présentation des Programmes](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
