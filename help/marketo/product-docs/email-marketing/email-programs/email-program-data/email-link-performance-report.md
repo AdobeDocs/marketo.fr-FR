@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: Rapport de performances des liens de courriel - Documentation marketing - Documentation du produit
 title: Rapport Performance des liens de courriel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Créez un rapport Performances des liens de courriel afin de déterminer les per
 >
 >Si vous souhaitez savoir exactement ce qu&#39;une personne a fait, vous pouvez ouvrir le Journal [des](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) Activités dans la page Détails [de la](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) personne à partir de l&#39;onglet Membres du programme.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Rapport Performance des courriers électroniques](email-performance-report.md)
 >* [Filtrage des ressources dans un rapport par courriel](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
