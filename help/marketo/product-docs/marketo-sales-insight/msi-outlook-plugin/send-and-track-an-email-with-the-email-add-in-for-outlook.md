@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: Envoyer et effectuer le suivi d'un courriel avec l'Ajoute électronique pour Outlook - Documents marketing - Documentation du produit
 title: Envoi et suivi d'un courriel avec l'Ajoute électronique pour Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Vous pouvez envoyer et suivre des courriers électroniques avec Marketo directement depuis Outlook.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Si vous ne l&#39;avez pas encore fait, installez le module complémentaire de messagerie [Marketo pour Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
