@@ -2,7 +2,7 @@
 title: filtres prédictifs
 description: Filtres prédictifs
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Cela filtres l&#39;audience selon qu&#39;ils ont une forte ou une faible probabi
 
 Ces deux filtres vous aident à développer votre audience actuelle en ciblant d&#39;autres pistes semblables à celles d&#39;un autre programme ou d&#39;une Liste dynamique. Les filtres Looksos prennent en compte plus de 50 facteurs, notamment les attributs de piste, l’activité de courriel, l’activité Web et l’engagement.
 
-Cliquez sur [!UICONTROL **Ajouter la contrainte**] pour choisir les critères de réussite des membres des programmes sélectionnés.
+Cliquez sur **[!UICONTROL Ajouter la contrainte]** pour choisir les critères de réussite des membres des programmes sélectionnés.
 
 Cliquez sur l’icône + en regard de la liste déroulante programme pour ajouter facilement plusieurs programmes/listes dynamiques à un filtre.
 
