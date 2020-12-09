@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: Choisir un courriel existant - Documents marketing - Documentation du produit
 title: Choisir un courriel existant
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Choisir un courriel existant {#choose-an-existing-email}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Créer un Programme de messagerie](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Définissez une Audience avec une Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) dynamique ou [définissez une Audience en important une Liste.](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
