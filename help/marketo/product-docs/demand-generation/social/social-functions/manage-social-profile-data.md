@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Gérer les données du Profil Social - Documents marketing - Documentation du produit
 title: Gérer les données de Profil Social
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ Selon les paramètres de confidentialité du réseau et de l’utilisateur, un o
 >
 >Le remplissage de formulaire Social capture l’adresse électronique *uniquement* si la personne l’entre dans le formulaire. Si vous avez besoin de l’adresse électronique, vous devez [en faire un champ obligatoire dans votre formulaire](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >Pour capturer ces informations à partir de formulaires, activez le remplissage [de formulaires](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)sociaux.
 
