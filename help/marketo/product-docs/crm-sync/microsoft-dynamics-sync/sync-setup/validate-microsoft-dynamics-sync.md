@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Valider Microsoft Dynamics Sync - Marketo Docs - Documentation du produit
 title: Valider Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Il est très important d&#39;exécuter l&#39;outil Valider la synchronisation po
    >
    >Actuellement, nous ne prenons pas en charge l&#39;actualisation de sandbox pour Marketing Dynamics Sync. Si vous devez actualiser votre sandbox Dynamics CRM, un nouveau sandbox Marketo sera nécessaire. Pour plus d’informations, contactez votre responsable de succès client.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Correction des problèmes de synchronisation de validation de Dynamics](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
 
