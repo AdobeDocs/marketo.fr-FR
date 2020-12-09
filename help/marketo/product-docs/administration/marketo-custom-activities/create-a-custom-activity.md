@@ -3,9 +3,9 @@ unique-page-id: 10098479
 description: Création d’une Activité personnalisée - Documents marketing - Documentation du produit
 title: Créer une Activité personnalisée
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Pour créer une activité personnalisée, procédez comme suit.
 
    Et c&#39;est tout !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des Activités personnalisées](understanding-custom-activities.md)
 
