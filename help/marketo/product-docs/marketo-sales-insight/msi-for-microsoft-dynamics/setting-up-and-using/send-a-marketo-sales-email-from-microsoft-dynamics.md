@@ -3,9 +3,9 @@ unique-page-id: 2953338
 description: Envoyer un e-mail de vente marketing à partir de Microsoft Dynamics - Marketo Docs - Documentation sur les produits
 title: Envoyer un e-mail commercial marketing à partir de Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Votre équipe commerciale peut envoyer des e-mails et les faire suivre pour les 
 
 Bien joué ! Vous savez maintenant comment envoyer des e-mails suivis par Marketo directement depuis Microsoft Dynamics.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter une piste/un contact à un Campaign marketing à partir de Microsoft Dynamics](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
 
