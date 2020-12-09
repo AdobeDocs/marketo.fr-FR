@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Paramètres de synchronisation Salesforce - Documents marketing - Documentation du produit
 title: Paramètres de synchronisation Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Unlimited de Salesforce ou dans l’édition Professional si vous avez acheté l’intégration via l’API des services Web.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Salesforce et Sales Engage doivent être connectés.
 
@@ -47,9 +45,7 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Unl
 
 Une fois que vous avez activé &quot;Courriel à Salesforce (Cci)&quot;, vous recevrez un Cci de vos courriels de vente et vos courriels seront consignés en tant qu&#39;activités sur les opportunités, les pistes et les contacts.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Salesforce et Sales Engage doivent être connectés.
 
