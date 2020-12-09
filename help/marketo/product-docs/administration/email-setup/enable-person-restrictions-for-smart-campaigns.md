@@ -3,9 +3,9 @@ unique-page-id: 2360243
 description: Activer les restrictions de personne pour les campagnes dynamiques - Documents marketing - Documentation du produit
 title: Activer les restrictions de personne pour les campagnes dynamiques
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Il existe une fonctionnalité dans Marketo qui limite le ***maximum ***nombre de
 
 Bingo ! Vous venez d&#39;allumer l&#39;interrupteur de sécurité. Bonne idée, n&#39;est-ce pas ?
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Remplacer les restrictions de personne dans une Campaign dynamique](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 
