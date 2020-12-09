@@ -3,9 +3,9 @@ unique-page-id: 12983291
 description: Fuseau horaire du Destinataire - Documents marketing - Documentation du produit
 title: Présentation du fuseau horaire Destinataire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Si nous ne parvenons toujours pas à déterminer le fuseau horaire d’une perso
 >
 >Marketo recalcule automatiquement le fuseau horaire d’une personne lorsque l’un des champs d’entrée ci-dessus change.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Planification des Programmes de courriel avec fuseau horaire Destinataire](schedule-email-programs-with-recipient-time-zone.md)
 >* [Début principal pour les Programmes électroniques](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
