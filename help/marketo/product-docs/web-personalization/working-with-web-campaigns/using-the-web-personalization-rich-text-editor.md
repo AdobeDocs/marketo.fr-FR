@@ -3,9 +3,9 @@ unique-page-id: 4719179
 description: Utilisation de l’éditeur de texte enrichi de la personnalisation Web - Documents marketing - Documentation du produit
 title: Utilisation de l’éditeur de texte enrichi de personnalisation Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Les icônes importantes de l’éditeur de texte enrichi sont les suivantes :
 >
 >Les jetons Web utilisent [des données](http://docs.marketo.com/display/DOCS/Manage+Person+Data) de personnes issues de votre base de données Marketo, qui est gérée dans Personnalisation Web sous Paramètres du compte > Base de données. Si le jeton Web est un nouveau champ de base de données qui ne figure pas encore dans Paramètres du compte > Base de données, il sera automatiquement ajouté et peut prendre jusqu’à 24 heures pour s’activer.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Utilisation de l’éditeur de texte enrichi](http://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
 
