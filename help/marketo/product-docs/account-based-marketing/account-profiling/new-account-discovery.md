@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Nouvelle découverte de compte - Documentation marketing - Documentation du produit
 title: Nouvelle découverte de compte
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 La nouvelle découverte de comptes peut vous aider à trouver de nouveaux comptes à cible en utilisant les recommandations basées sur l&#39;IA de votre profil client idéal.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Configurer le profilage de compte](http://docs.marketo.com/x/FgAKAQ)
 
