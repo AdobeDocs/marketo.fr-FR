@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Rechercher et fusionner des personnes Duplicata - Documents marketing - Documentation sur les produits
 title: Rechercher et fusionner des personnes de Duplicata
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Marketo annule automatiquement les duplicata lorsque de nouvelles personnes entr
 >
 >Marketo ne dédupliquera pas automatiquement une synchronisation Salesforce ou Microsoft Dynamics, ni lorsque vous saisirez manuellement des personnes.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >La recherche et la fusion de duplicata impliqueront l&#39;utilisation de listes [intelligentes](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)intégrées/système.
 
