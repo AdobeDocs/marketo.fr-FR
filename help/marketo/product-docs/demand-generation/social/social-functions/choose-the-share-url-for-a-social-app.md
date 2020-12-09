@@ -3,9 +3,9 @@ unique-page-id: 2359811
 description: Sélectionnez l’URL de partage pour une application Social - Documentation marketing - Documentation du produit.
 title: Sélectionnez l’URL de partage pour une application Social.
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Lorsque vous créez une application sociale, vous pouvez choisir l’URL qui ser
    >    * **URL** externe : Landing page non marchand.
 
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter votre politique de confidentialité à une application Social](add-your-privacy-policy-to-a-social-app.md)
 
