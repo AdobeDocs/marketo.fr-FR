@@ -3,9 +3,9 @@ unique-page-id: 5472348
 description: Rendre un modèle de Landing page de formulaire libre existant compatible avec les dispositifs portables - Documents marketing - Documentation du produit
 title: Rendre un modèle de Landing page de formulaire libre existant compatible avec les dispositifs portables
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ Lorsque vous modifiez un landing page et que vous cliquez sur l’onglet mobile,
 
 Super ! Vous pouvez désormais [personnaliser la vue](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) mobile de tous les landings page qui utilisent ce modèle.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Personnalisation de la Vue mobile pour votre Landing page de formulaire libre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 
