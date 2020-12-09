@@ -3,9 +3,9 @@ unique-page-id: 2359759
 description: Bouton Personnaliser l’application sociale - Documentation marketing - Documentation du produit
 title: Personnalisation du bouton de l’application Social
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Lorsque vous créez un bouton [](../../../../product-docs/demand-generation/land
 >
 >Dans une offre de référence, vous pouvez également personnaliser le bouton **Suivi de la progression** . Accédez à Paramètres **de l’** application > **Suivi du style** de progression et suivez les mêmes étapes que ci-dessus.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >Pour un bouton social, [configurez le moment où il s’ouvre](configure-when-social-button-opens.md). Pour une offre de référence, [spécifiez l’objectif](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)de l’offre.
 
