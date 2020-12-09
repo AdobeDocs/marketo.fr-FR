@@ -3,9 +3,9 @@ unique-page-id: 4719297
 description: Activer/désactiver la synchronisation d'objets personnalisés - Documents marketing - Documentation du produit
 title: Activer/désactiver la synchronisation d’objets personnalisés
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    Excellent ! Vous pouvez désormais utiliser les données de cet objet personnalisé dans des campagnes et des listes intelligentes.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter/supprimer un champ d&#39;objet personnalisé en tant que contraintes de Liste/déclenchement intelligent](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
