@@ -3,9 +3,9 @@ unique-page-id: 2359722
 description: Ajouter une vidéo à un Landing page de forme libre - Documents marketing - Documentation du produit
 title: Ajouter une vidéo à un Landing page à structure libre
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Placez des vidéos avec des options de partage sur vos landings page.
 
 Félicitations ! Vous avez ajouté un partage de vidéo à votre landing page libre-forme. Approuvez le landing page et votre partage vidéo est en direct. Vous pouvez également [publier le landing page sur Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer le partage de vidéos sur votre site](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)Web.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >Vous avez terminé, mais vous pouvez modifier les paramètres de votre partage de vidéos si nécessaire. Début avec [personnalisation du flux](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) de partage (quand et où l’invite de partage s’ouvre).
 
