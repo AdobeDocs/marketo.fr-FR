@@ -3,9 +3,9 @@ unique-page-id: 4718648
 description: Présentation de l'analyseur d'influence d'opportunité - Documents marketing - Documentation du produit
 title: Présentation de l'analyseur d'influence d'opportunité
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Si vous souhaitez conserver ce comportement, pensez à dédupliquer vos données
 >
 >Chaque fois que vous concluez une transaction, recherchez-la dans cet analyseur le lendemain. Partagez-la avec le représentant commercial. Ils réaliseront tout le dur travail que vous accomplissez - en plus, vous pouvez demander pourquoi certaines personnes &quot;semblent&quot; influentes mais n&#39;ont pas de rôle à jouer dans la gestion de la relation client.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Analyseur d’influence d’opportunité pour raconter l’article marketing](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Création d’un analyseur d’influence d’opportunité](create-an-opportunity-influence-analyzer.md)
