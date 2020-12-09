@@ -3,9 +3,9 @@ unique-page-id: 1900597
 description: Définissez une Audience en important une Liste - Documents marketing - Documentation du produit
 title: Définition d’une Audience en important une Liste
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Définition d’une Audience en important une Liste {#define-an-audience-by-importing-a-list}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Créer un courriel pour un Programme de courriel](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
