@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: Ajouter une URL de Cible à un Campaign Web - Marketo Docs - Documentation du produit
 title: Ajouter une URL de Cible à un Campaign Web
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,7 @@ Cliquez sur l’icône Plus (![—](assets/image2015-2-18-8-3a40-3a59.png)) pour
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
->[!NOTE]
-**Articles connexes**
+>[!MORELIKETHIS]
 * [Créer une Campaign Web de boîte de dialogue](create-a-new-dialog-web-campaign.md)
 * [Créer une Campaign Web en zone](create-a-new-in-zone-web-campaign.md)
 * [Créer un widget Web Campaign](create-a-new-widget-web-campaign.md)
