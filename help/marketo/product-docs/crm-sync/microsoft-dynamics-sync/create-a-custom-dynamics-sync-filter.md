@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: Créer un filtre Dynamics Sync personnalisé - Documents marketing - Documentation du produit
 title: Créer un filtre Dynamics Sync personnalisé
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketo recherche ce champ lors de la synchronisation automatique en arrière-pl
 >
 >La seule façon de demander à Marketo de sauter un enregistrement consiste à définir explicitement la valeur du champ sur **Non**. Marketo synchronise toujours les enregistrements même si les valeurs de champ sont vides.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Installez la dernière version du module externe Marketo (3.0.0.1 ou version ultérieure). Accédez à Marketo > Admin > Microsoft Dynamics > Télécharger la solution marketing.
 
