@@ -3,9 +3,9 @@ unique-page-id: 2359866
 description: Saisir les images d'une page Web - Documents marketing - Documentation du produit
 title: Saisir les images d'une page Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Pour ajouter des images à partir d’une page Web, copiez l’adresse Web (URL)
 
 Beau travail, maître image !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter des images et des fichiers au marketing](add-images-and-files-to-marketo.md)
 >* [Organiser vos images et fichiers à l’aide de dossiers](organize-your-images-and-files-using-folders.md)
