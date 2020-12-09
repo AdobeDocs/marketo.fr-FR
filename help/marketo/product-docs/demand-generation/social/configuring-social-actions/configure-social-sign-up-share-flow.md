@@ -3,9 +3,9 @@ unique-page-id: 2950530
 description: Configuration du flux d’inscription/de partage sur les réseaux sociaux - Documents marketing - Documentation sur les produits
 title: Configuration du flux d’inscription/de partage sur les réseaux sociaux
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -113,9 +113,7 @@ Si vous choisissez les valeurs des balises de la page (og:title, og:caption et o
 >
 >Si vous téléchargez une image, elle ne s’affichera pas ici tant que vous n’aurez pas fermé et rouvert l’éditeur d’applications sociales.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >Ensuite, vous pouvez cliquer sur **Terminer > Approuver et fermer** et placer votre application sociale sur un landing page. Vous pouvez également configurer la capture [de](configure-person-capture-for-a-social-app.md) personnes ou l’invite [de](configure-re-share-email-and-prompt-for-a-social-app.md)partage à nouveau.
 
