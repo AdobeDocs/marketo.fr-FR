@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: Création d’un analyseur de chemin de réussite - Documents marketing - Documentation du produit
 title: Création d’un analyseur de chemins de réussite
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Obtenez une représentation visuelle de la vitesse et du flux dans votre modèle [de cycle de](http://docs.marketo.com/display/docs/revenue+cycle+analytics)revenu.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Créer un modèle de recettes](create-a-new-revenue-model.md)
 
