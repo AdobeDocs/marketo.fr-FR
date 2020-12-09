@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: Champion/Challenger - Configurer des alertes de rapport - Docs marketing - Documentation du produit
 title: Champion/Challenger - Configurer des alertes de rapport
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo vous enverra des rapports sur la façon dont se déroule le test par courriel. Voici comment le planifier.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Champion/Challenger : Définir des critères de champion](champion-challenger-define-champion-criteria.md)
 
