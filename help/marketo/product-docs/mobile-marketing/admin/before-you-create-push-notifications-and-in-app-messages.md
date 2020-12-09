@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: Avant de créer des notifications Push et des messages in-app - Documents marketing - Documentation du produit
 title: Avant de créer des notifications Push et des messages in-app
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ Pour les messages in-app, le déclencheur d’affichage est défini par défaut 
 
 Après avoir effectué toute la préparation des messages in-app et des notifications Push, il est temps de commencer !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Création d’un message intégré à l’application](http://docs.marketo.com/display/docs/create+an+in-app+message)
    >
