@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Explorez les détails sur les Programmes et les Canaux à l'aide de l'analyseur de Programme - Documentation sur le marketing - Documentation sur les produits
 title: Explorez les détails sur les Programmes et les Canaux à l'aide de l'analyseur de Programmes
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Vous pouvez afficher des statistiques détaillées sur les programmes et les canaux dans Programme Analyzer. Vous pouvez également les ouvrir dans l’Explorateur de cycles de recettes.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Création d’un analyseur de Programme](create-a-program-analyzer.md)
 
