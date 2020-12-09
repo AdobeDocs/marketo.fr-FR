@@ -3,9 +3,9 @@ unique-page-id: 1900563
 description: Créer un fichier de Événement de calendrier (.ics) - Documents marketing - Documentation du produit
 title: Créer un fichier de Événement de calendrier (.ics)
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Un jeton Fichier de calendrier vous permet d’ajouter un lien événement de ca
 
 Mission accomplie ! Assurez-vous de le tester.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Inclure un Événement de calendrier (.ics) dans un courriel](include-a-calendar-event-ics-in-an-email.md)
 >* [Inclure un fichier ICS Événement de calendrier dans un Landing page](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
