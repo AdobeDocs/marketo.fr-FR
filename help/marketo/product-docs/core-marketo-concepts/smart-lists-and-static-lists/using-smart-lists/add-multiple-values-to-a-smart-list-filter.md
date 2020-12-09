@@ -3,9 +3,9 @@ unique-page-id: 2360496
 description: Ajouter plusieurs valeurs à un filtre de Liste dynamique - Documents marketing - Documentation du produit
 title: Ajouter plusieurs valeurs à un filtre de Liste dynamique
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Ajouter plusieurs valeurs à un filtre de Liste dynamique {#add-multiple-values-to-a-smart-list-filter}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Rechercher et Ajouter des Filtres à une Liste intelligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
