@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Modifier un espace de travail - Documents marketing - Documentation du produit
 title: Modification d’un espace de travail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Il arrive que vous deviez apporter des modifications dans un espace de travail. 
    >
    >Vous ne pouvez pas modifier la langue de l&#39;espace de travail.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Créer un espace de travail](create-a-new-workspace.md)
 >* [Présentation des espaces de travail et des partitions de personne](understanding-workspaces-and-person-partitions.md)
