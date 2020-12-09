@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: Ajouter le lieu de travail par Facebook en tant que service LaunchPoint - Marketo Docs - Documentation sur les produits
 title: Ajouter le lieu de travail par Facebook en tant que service LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ L&#39;intégration en milieu de travail comprend deux types de notification :
 >
 >**Autorisations d’administrateur requises**
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Si vous n&#39;avez pas encore activé les notifications sur votre lieu de travail, veuillez [contacter l&#39;assistance](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
 
