@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO - Sélectionner la région/le pays pour votre moteur de recherche - Documents marketing - Documentation du produit
 title: SEO - Sélectionner la région/le pays pour votre moteur de recherche
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Excellent travail. Vous verrez maintenant les classements de mots-clés pour le 
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Comprendre le Tableau de bord : Instantané SEO](understanding-the-seo-dashboard-seo-snapshot.md)
 >* [Comprendre le Tableau de bord : SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
