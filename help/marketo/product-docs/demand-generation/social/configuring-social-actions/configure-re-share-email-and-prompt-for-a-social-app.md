@@ -3,9 +3,9 @@ unique-page-id: 2950559
 description: Configuration d’un message électronique et d’une invite de partage à nouveau pour une application Social - Documents marketing - Documentation du produit
 title: Configuration d’un message électronique et d’une invite de partage à nouveau pour une application Social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Lorsque vous créez une offre [de](../../../../product-docs/demand-generation/so
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >Vous pouvez ensuite configurer le flux de progression du [suivi dans une offre](configure-track-progress-flow-for-a-referral-offer.md)de référence ou cliquer sur **Terminer > Approuver et fermer** pour [publier votre offre](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) de référence ou votre [tirage.](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
 
