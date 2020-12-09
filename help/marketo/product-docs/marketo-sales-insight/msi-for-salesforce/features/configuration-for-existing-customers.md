@@ -3,9 +3,9 @@ unique-page-id: 42762519
 description: Configuration pour les clients existants - Documents marketing - Documentation du produit
 title: Configuration pour les clients existants
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Configurez la configuration suivante afin de commencer à utiliser le nouveau Tableau de bord Insights.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Assurez-vous d&#39;avoir mis à niveau votre package Salesforce vers la dernière version
 
