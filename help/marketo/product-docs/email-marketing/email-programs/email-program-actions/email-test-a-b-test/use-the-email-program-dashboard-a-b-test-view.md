@@ -3,9 +3,9 @@ unique-page-id: 2359549
 description: Utiliser le Tableau de bord de Programme électronique - Vue de test A/B - Documentation sur le marketing - Documentation sur le produit
 title: Utiliser le Tableau de bord de Programme de courriel - Vue de test A/B
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Vous pouvez voir ici la ventilation des clics et des désabonnements par variant
 
 Cool tableau de bord, ne pensez-vous pas ?
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Utiliser le Tableau de bord de Programme de courriel](../../../../../product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 
