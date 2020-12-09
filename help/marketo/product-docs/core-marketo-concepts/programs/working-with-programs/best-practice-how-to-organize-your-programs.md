@@ -28,35 +28,31 @@ Dans les Activités marketing, vous devez utiliser des dossiers pour organiser v
 >**Exemple**
 >
 >* Programmes marketing principaux
-   >
-   >    
-   * Courriers électroniques
-   >    * Événements
-
-      >
-      >        
-      * Événements en direct / Journaux
-      >        * Références commerciales
-      >        * Webinaires
-   >
-   * Bulletins
-   * Infirmière
-   * Contenu Web
-   * formulaires web
-* Formation
-* Opérationnel
-
-   * Cycle de vie
-   * Scores
-   * data Management
-* Sales Insight >
-   * Moments intéressants
-   * Courriers électroniques des ventes
-   * Campagnes demandées par les ventes
-* **Archiver** >
-   * Archiver les Événements >
-      * Archive 2012
-      * Archive 2013
+>
+>    * Courriers électroniques
+>    * Événements
+>
+>        * Événements en direct / Journaux
+>        * Références commerciales
+>        * Webinaires
+>   * Bulletins
+>   * Infirmière
+>   * Contenu Web
+>   * formulaires web
+>* Formation
+>* Opérationnel
+>
+>   * Cycle de vie
+>   * Scores
+>   * data Management
+>* Sales Insight
+>   * Moments intéressants
+>   * Courriers électroniques des ventes
+>   * Campagnes demandées par les ventes
+>* **Archiver**
+>   * Archiver les Événements
+>      * Archive 2012
+>      * Archive 2013
 
 
 
