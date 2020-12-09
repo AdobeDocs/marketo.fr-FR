@@ -3,9 +3,9 @@ unique-page-id: 2359671
 description: Ajouter du texte d’indicateur dans un champ de formulaire - Documents marketing - Documentation du produit
 title: Ajouter un texte de conseil à un champ de formulaire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -54,9 +54,7 @@ Des conseils et [des instructions](add-tooltip-instructions-to-a-form-field.md) 
 
 Regardez ! Allons-y et ajoutons quelques [instructions](add-tooltip-instructions-to-a-form-field.md) maintenant.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter des instructions d’info-bulle à un champ de formulaire](add-tooltip-instructions-to-a-form-field.md)
 
