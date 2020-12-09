@@ -3,9 +3,9 @@ unique-page-id: 4718656
 description: Créer un nouveau modèle de recettes - Documents marketing - Documentation du produit
 title: Créer un modèle de recettes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
 Ça a l&#39;air bien ! Vous venez d&#39;entrer dans le monde merveilleux de la modélisation.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >En savoir plus sur l&#39; [utilisation des étapes](using-revenue-model-inventory-stages.md)du stock du modèle de recettes.
 
