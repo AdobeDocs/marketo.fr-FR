@@ -3,9 +3,9 @@ unique-page-id: 2949966
 description: Ajouter une liste de pays à votre formulaire - Documents marketing - Documentation du produit
 title: Ajouter une liste de pays à votre formulaire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Suivez ces instructions pour convertir le champ pays en liste déroulante avec u
 
 Comme c&#39;était si facile, pourquoi ne pas en faire plus ? Pourquoi ne pas afficher de manière dynamique le champ Etat lorsqu’un utilisateur sélectionne les Etats-Unis comme pays dans la liste ? Consultez l&#39;article correspondant ci-dessous pour savoir comment le faire.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Basculer dynamiquement la visibilité d’un champ de formulaire](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
 
