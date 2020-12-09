@@ -3,9 +3,9 @@ unique-page-id: 11385942
 description: Modifier le contenu prédictif pour la barre de recommandations - Documents marketing - Documentation du produit
 title: Modifier le contenu prédictif pour la barre de recommandations
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Voici comment configurer votre contenu prédictif pour la barre de recommandations.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Le contenu doit être [approuvé pour le contenu](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) prédictif sur la page Tout le contenu.
 
