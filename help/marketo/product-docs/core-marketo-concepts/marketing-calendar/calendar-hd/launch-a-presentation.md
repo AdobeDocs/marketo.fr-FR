@@ -3,9 +3,9 @@ unique-page-id: 7504120
 description: Lancer une présentation - Documents marketing - Documentation du produit
 title: Lancement d’une présentation
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Une fois que vous avez défini les vues et la fréquence de rotation de votre pr
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Créer une présentation](create-a-presentation.md)
 >* [Personnalisation d’une présentation](customize-a-presentation.md)
