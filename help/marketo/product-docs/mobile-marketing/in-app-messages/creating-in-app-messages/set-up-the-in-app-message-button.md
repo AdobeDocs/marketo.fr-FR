@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: Configuration du bouton de message intégré à l’application - Documents marketing - Documentation du produit
 title: Configuration du bouton Message intégré à l’application
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Vous pouvez utiliser la conception de bouton par défaut, la modifier ou téléc
 
 Presque là. Votre dernière étape est de .
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des messages in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Choisir une mise en page pour votre message intégré](choose-a-layout-for-your-in-app-message.md)
