@@ -2,7 +2,7 @@
 title: archive-and-unarchive-stream-content
 description: Archivage et désarchivage du contenu du flux
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous po
 
    ![Image un](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Cliquez sur l’onglet [!UICONTROL **Flux**] de données
+1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données
 
    ![Image 2](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -33,7 +33,7 @@ Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous po
 
    ![Image trois](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-3.png)
 
-1. Sélectionnez [!UICONTROL **Archiver**].
+1. Sélectionnez **[!UICONTROL Archiver]**.
 
    ![Image 4](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-4.png)
 
@@ -45,11 +45,11 @@ C&#39;est tout ! N&#39;oubliez pas, archivez si vous souhaitez conserver l&#39;h
 
    ![Image 5](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Cliquez sur l’onglet [!UICONTROL **Flux**] de données.
+1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
 
    ![Image six](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Cliquez sur l’icône d’engrenage de votre flux, puis sur [!UICONTROL **Afficher le contenu**] archivé.
+1. Cliquez sur l’icône d’engrenage de votre flux, puis sur **[!UICONTROL Afficher le contenu]** archivé.
 
    ![Image sept](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
@@ -57,7 +57,7 @@ C&#39;est tout ! N&#39;oubliez pas, archivez si vous souhaitez conserver l&#39;h
 
    ![Image huit](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-8.png)
 
-1. Sélectionnez [!UICONTROL **Désarchiver**].
+1. Sélectionnez **[!UICONTROL Désarchiver]**.
 
    ![Image neuf](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-9.png)
 
