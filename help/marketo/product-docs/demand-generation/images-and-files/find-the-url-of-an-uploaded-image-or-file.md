@@ -3,9 +3,9 @@ unique-page-id: 2359870
 description: Recherchez l’URL d’une image ou d’un fichier téléchargé - Documents marketing - Documentation du produit.
 title: Rechercher l’URL d’une image ou d’un fichier téléchargé
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Vous recherchez l’adresse Web (URL) d’une image ou d’un fichier que vous a
 
 Donnez-vous une tape sur le dos pour un travail bien fait !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Remplacement d’une image ou d’un fichier téléchargé](replace-an-uploaded-image-or-file.md)
 
