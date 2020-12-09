@@ -2,7 +2,7 @@
 title: archive-par-programme
 description: Archiver un Programme
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 Pour archiver un programme, vous devez le déplacer vers un dossier d’archives distinct.
 
-1. Créez un dossier de campagne en cliquant avec le bouton droit sur le globe des lieux de travail et en sélectionnant [!UICONTROL **Nouveau dossier**] de campagne.
+1. Créez un dossier de campagne en cliquant avec le bouton droit sur le globe des lieux de travail et en sélectionnant **[!UICONTROL Nouveau dossier]** de campagne.
 
    ![Image un](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. Entrez un nom pour votre nouveau dossier, puis ajoutez une description facultative. Cliquez sur [!UICONTROL **Créer**].
+1. Entrez un nom pour votre nouveau dossier, puis ajoutez une description facultative. Cliquez sur **[!UICONTROL Créer]**.
 
    ![Image 2](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
-1. Pour archiver un programme, ajoutez-le d&#39;abord au dossier que vous venez de créer en cliquant avec le bouton droit de la souris dans l&#39;arborescence et en sélectionnant [!UICONTROL **Déplacer**].
+1. Pour archiver un programme, ajoutez-le d&#39;abord au dossier que vous venez de créer en cliquant avec le bouton droit de la souris dans l&#39;arborescence et en sélectionnant **[!UICONTROL Déplacer]**.
 
    ![Image trois](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. Tapez pour rechercher votre nouveau dossier, puis sélectionnez-le dans la liste déroulante. Cliquez sur [!UICONTROL **Déplacer**].
+1. Tapez pour rechercher votre nouveau dossier, puis sélectionnez-le dans la liste déroulante. Cliquez sur **[!UICONTROL Déplacer]**.
 
    ![Image 4](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. Cliquez avec le bouton droit de la souris sur le dossier et sélectionnez [!UICONTROL **Convertir en dossier**] d’archives.
+1. Cliquez avec le bouton droit de la souris sur le dossier et sélectionnez **[!UICONTROL Convertir en dossier]** d’archives.
 
    ![Image 5](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
