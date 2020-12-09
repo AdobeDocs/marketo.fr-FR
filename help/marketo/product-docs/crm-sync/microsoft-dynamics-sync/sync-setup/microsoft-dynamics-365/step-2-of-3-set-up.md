@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: Étape 2 sur 3 - Configurer l'utilisateur Marketo Sync dans Dynamics - Docs Marketo - Documentation sur les produits
 title: Étape 2 sur 3 - Configurer l'utilisateur Marketo Sync dans Dynamics
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Commençons par créer un compte utilisateur.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Étape 1 sur 3 : Installation de la solution Marketo (en ligne)](step-1-of-3-install.md)
 
