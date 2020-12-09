@@ -3,9 +3,9 @@ unique-page-id: 1146966
 description: Vue de personnes qualifiées dans un Campaign intelligent - Marketo Docs - Documentation sur les produits
 title: Vue de personnes qualifiées dans une Campaign intelligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Vue des personnes habilitées à suivre le flux lorsque vous exécutez une campa
 
 Doux ! Vous pouvez utiliser cette liste pour vérifier quelles personnes peuvent suivre le flux avant d’exécuter une campagne dynamique.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Membres de vue Smart Campaign](view-smart-campaign-members.md)
 >* [Vue bloquée dans un Campaign intelligent](view-blocked-people-in-a-smart-campaign.md)
