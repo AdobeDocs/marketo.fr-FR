@@ -3,9 +3,9 @@ unique-page-id: 4719400
 description: Créer un Campaign Web en zone - Documents marketing - Documentation du produit
 title: Créer une Campaign Web en zone
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -119,9 +119,7 @@ Voir [Cloner une Campaign](clone-a-web-campaign.md)Web.
 
 1. Un message de confirmation s’affiche pour confirmer si vous souhaitez supprimer le Campaign.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Créer un widget Web Campaign](create-a-new-widget-web-campaign.md)
 >* [Créer une Campaign Web de boîte de dialogue](create-a-new-dialog-web-campaign.md)
