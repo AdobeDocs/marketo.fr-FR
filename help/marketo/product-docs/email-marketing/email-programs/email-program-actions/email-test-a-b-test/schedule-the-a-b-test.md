@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Planification du test A/B - Documents marketing - Documentation du produit
 title: Planification du test A/B
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Une fois que vous avez ajouté un test A/B à un programme de messagerie et défini les critères gagnants que vous devez planifier au début du test. Voici comment.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Ajouter un test A/B](add-an-a-b-test.md)
 
