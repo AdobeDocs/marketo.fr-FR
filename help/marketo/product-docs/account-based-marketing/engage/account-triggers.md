@@ -3,9 +3,9 @@ unique-page-id: 11380734
 description: Déclencheurs de compte - Documents marketing - Documentation du produit
 title: Déclencheurs de compte
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Prêtez attention aux activités comportementales importantes au niveau du compte et agissez-les sur différents canaux (par exemple, courriel, web, publicités) en utilisant des déclencheurs au niveau du compte.
 
-Sélectionnez votre campagne intelligente et cliquez sur Liste intelligente.
+Sélectionnez votre campagne intelligente et cliquez sur Liste **** intelligente.
 
 ![](assets/one-1.png)
 
@@ -23,13 +23,14 @@ Saisissez &quot;Compte nommé&quot; dans la zone de recherche pour rechercher le
 
 ![](assets/two-1.png)
 
-Faites glisser le déclencheur de votre choix sur la trame. Dans cet exemple, nous utilisons le compte *nommé* Ajouté.
+Faites glisser le déclencheur de votre choix sur la trame. Dans cet exemple, nous utilisons le compte _nommé_ Ajouté.
 
 ![](assets/three-1.png)
 
 Choisissez un qualificatif.
 
-![](assets/four-1.png)\
+![](assets/four-1.png)
+
 Cliquez sur la liste déroulante de comptes nommés...
 
 ![](assets/five-1.png)
@@ -40,13 +41,7 @@ Cliquez sur la liste déroulante de comptes nommés...
 
 C&#39;est tout ! Après avoir terminé le reste de votre campagne dynamique, n’oubliez pas de l’activer.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Filtres de compte](account-filters.md)
-
->
-
-
 
