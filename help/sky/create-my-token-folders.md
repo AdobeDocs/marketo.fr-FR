@@ -2,7 +2,7 @@
 title: créer-mes-dossiers-jetons
 description: Créer mes dossiers de jeton
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Voici comment trier vos jetons en dossiers.
 
    ![Image un](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Entrez un nom pour votre nouveau dossier, puis sélectionnez Jetons [!UICONTROL ****] locaux ou Jetons [!UICONTROL ****] remplacés dans la liste déroulante de destination. Cliquez sur [!UICONTROL **Enregistrer**].
+1. Entrez un nom pour votre nouveau dossier, puis sélectionnez Jetons **** locaux ou Jetons **** remplacés dans la liste déroulante de destination. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![Image 2](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ Voici comment trier vos jetons en dossiers.
 
 >[!TIP]
 >
->Pour renommer un dossier, cliquez dessus avec le bouton droit de la souris et cliquez sur [!UICONTROL **Renommer**].
+>Pour renommer un dossier, cliquez dessus avec le bouton droit de la souris et cliquez sur **[!UICONTROL Renommer]**.
