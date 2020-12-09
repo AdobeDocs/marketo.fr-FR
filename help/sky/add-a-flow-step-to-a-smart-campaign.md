@@ -2,7 +2,7 @@
 title: ajouter-à-un-flux-étape-à-une-campagne-intelligente
 description: Ajouter une étape de flux à un Campaign dynamique
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Les étapes de flux indiquent à Marketing ce que vous souhaitez faire pour un g
 
 ## Ajouter une étape de flux
 
-1. Dans Activités marketing, sélectionnez votre campagne intelligente et cliquez sur [!UICONTROL **Flux**].
+1. Dans Activités marketing, sélectionnez votre campagne intelligente et cliquez sur **[!UICONTROL Flux]**.
 
    ![Image un](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
