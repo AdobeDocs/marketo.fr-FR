@@ -2,7 +2,7 @@
 title: delete-a-stream
 description: Suppression d’un flux
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Si vous devez supprimer un flux de votre programme d’engagement, suivez ces é
 
    ![Image un](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. Cliquez sur l’onglet [!UICONTROL **Flux**] de données.
+1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
 
    ![Image 2](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ Si vous devez supprimer un flux de votre programme d’engagement, suivez ces é
    >La suppression d’un flux entraîne la perte de données historiques pour
    >le contenu de ce flux.
 
-1. Cliquez sur l’icône représentant un engrenage, puis sélectionnez [!UICONTROL **Supprimer**].
+1. Cliquez sur l’icône représentant un engrenage, puis sélectionnez **[!UICONTROL Supprimer]**.
 
    ![Image trois](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
