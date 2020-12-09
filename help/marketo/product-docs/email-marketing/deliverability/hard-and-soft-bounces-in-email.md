@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: Retours nets et doux dans le courrier électronique - Documents marketing - Documentation du produit
 title: Retours nets et doux dans le courrier électronique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Il y a 5 chaînes de personnes dans Marketo qui sont liées à une diffusion de 
 >
 >Lorsqu&#39;une personne est marquée comme non valide **de son** courrier électronique, elle ne peut être réinitialisée que manuellement (ce que nous vous recommandons de ne faire que si vous savez que son courrier électronique est valide) en décochant la case &quot;Adresse électronique non valide&quot; dans l&#39;onglet Informations sur la personne de son enregistrement.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Suivez [ces étapes](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) pour créer un rapport sur les performances des courriels, qui générera des données de rebond.
 
