@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: Fonctionnement du suivi des réponses - Documents marketing - Documentation du produit
 title: Fonctionnement du suivi des réponses
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Le suivi des réponses s’effectue en recherchant un identifiant de message figurant dans chaque courrier électronique que vous envoyez. Chaque courrier électronique contient un identifiant de message unique qui nous permet de disposer du meilleur suivi des réponses.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >**Connexion au serveur de messagerie :** Sales Connect doit être connecté à votre boîte de réception pour que nous sachions quand une nouvelle réponse est arrivée. Vous devez avoir votre compte Sales Connect [connecté à Gmail](http://docs.marketo.com/x/kYMOAQ). Si vous utilisez Outlook, nous devrons intégrer votre serveur [](http://toutapp.com/next#settings/exchange_settings)Exchange.
 
