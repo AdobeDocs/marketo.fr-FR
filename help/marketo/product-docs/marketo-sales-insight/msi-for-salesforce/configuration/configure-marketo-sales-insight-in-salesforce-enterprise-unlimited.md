@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited - Marketo Docs - Documentation sur les produits
 title: Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforce Enterprise/Unlimited Editions. Commençons.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Configurer la synchronisation des champs de marketing dans votre Salesforce Enterprise/Unlimited Edition](http://docs.marketo.com/pages/viewpage.action?pageid=2360372)
 >* [Installation du package Marketing Cloud Sales Insight dans l’AppExchange Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
