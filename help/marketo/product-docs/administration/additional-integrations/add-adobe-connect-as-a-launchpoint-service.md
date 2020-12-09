@@ -3,9 +3,9 @@ unique-page-id: 7512270
 description: Ajouter Adobe Connect en tant que service LaunchPoint - Marketo Docs - Documentation sur les produits
 title: Ajouter Adobe Connect en tant que service LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ Marketo gère votre inscription et votre participation au webinaire Adobe Connec
 
    ![](assets/adobe-connect-service.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >Découvrez comment [créer un événement avec Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
 
