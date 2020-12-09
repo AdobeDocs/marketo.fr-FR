@@ -3,9 +3,9 @@ unique-page-id: 2949178
 description: Présentation du Tableau de bord d'optimisation du référencement - Instantané d'optimisation du référencement - Documentation du marketing - Documentation du produit
 title: Présentation du Tableau de bord d'optimisation du référencement - Instantané d'optimisation du référencement
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ Le graphique Tendances des classements de mots-clés répertorie vos mots-clés 
 
 Facile, non ? Maintenant, jetons un coup d&#39;oeil à la section Recommendations de ce tableau de bord.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Comprendre le Tableau de bord : SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
 
