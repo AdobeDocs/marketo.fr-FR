@@ -2,7 +2,7 @@
 title: use-filtres-to-sort-the-tree
 description: Utiliser des Filtres pour trier l'arborescence
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Pour accéder au panneau de filtrage, cliquez sur l’icône Filtres en haut de 
 
 Vous pouvez utiliser cette fonction pour rechercher des fichiers qui ont été créés ou modifiés au cours d’une période spécifique ; par exemple, la semaine dernière, au cours des trois derniers mois, etc.
 
-Par défaut, Marketo charge tout le contenu des six derniers mois. Pour modifier ce paramètre, sélectionnez une plage dans la liste déroulante [!UICONTROL **Choisir une plage**] de dates. Ces paramètres sont collants et seront également appliqués lors de votre prochaine connexion à Marketing Cloud.
+Par défaut, Marketo charge tout le contenu des six derniers mois. Pour modifier ce paramètre, sélectionnez une plage dans la liste déroulante **[!UICONTROL Choisir une plage]** de dates. Ces paramètres sont collants et seront également appliqués lors de votre prochaine connexion à Marketing Cloud.
 
 ![Image 2](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
