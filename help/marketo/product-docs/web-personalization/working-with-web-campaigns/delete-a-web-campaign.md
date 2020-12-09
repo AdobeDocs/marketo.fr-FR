@@ -3,9 +3,9 @@ unique-page-id: 4719410
 description: Suppression d’une Campaign Web - Documents marketing - Documentation du produit
 title: Suppression d’une Campaign Web
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ ht-degree: 0%
 
 1. Un message de confirmation s’affiche pour confirmer si vous souhaitez supprimer la campagne Web.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Modifier une Campaign Web](edit-an-existing-web-campaign.md)
 >* [Lancement/mise en pause d&#39;une Campaign Web](launch-pause-a-web-campaign.md)
