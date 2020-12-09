@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: Créer une nouvelle Liste de compte - Docs marketing - Documentation du produit
 title: Créer une Liste de compte
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ Le fichier CSV remplace le fichier existant. La liste existante restera principa
 
    ![](assets/delete-notification-hand.jpg)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Création d’un segment à l’aide d’une Liste de compte](create-a-segment-using-an-account-list.md)
 >* [Vue d&#39;une Liste de compte nommée](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
