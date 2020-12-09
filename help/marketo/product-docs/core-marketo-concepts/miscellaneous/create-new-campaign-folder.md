@@ -3,9 +3,9 @@ unique-page-id: 2953207
 description: Créer un dossier de campagne - Documents marketing - Documentation du produit
 title: Créer un dossier de campagne
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Les dossiers Campaign vous aident à conserver un espace de travail bien rangé.
 
    Désormais, lors de la [création d’un nouveau programme](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), vous verrez ce dossier de campagne comme une option.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Création d’un Programme](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Créer une Campaign intelligente](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
