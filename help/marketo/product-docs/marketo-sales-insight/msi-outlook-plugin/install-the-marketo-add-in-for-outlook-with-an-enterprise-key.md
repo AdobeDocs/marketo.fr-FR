@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Installation de l'Ajoute Marketo pour Outlook avec une clé d'entreprise - Docs Marketo - Documentation du produit
 title: Installation de l'Ajoute Marketo pour Outlook avec une clé d'entreprise
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Souvent, les commerciaux n&#39;ont pas de privilèges administratifs sur leurs ordinateurs portables et leurs équipes informatiques sont chargées d&#39;installer tous les logiciels à distance. L&#39;Ajoute de Marketing pour Outlook peut être installée de cette manière à l&#39;aide de votre clé d&#39;entreprise, qui se trouve dans la section Sales Insight de l&#39;administration.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >L’administrateur doit avoir [émis une licence d’Ajoute](issue-a-marketo-email-add-in-license.md)de courriel Marketing Cloud.
 
