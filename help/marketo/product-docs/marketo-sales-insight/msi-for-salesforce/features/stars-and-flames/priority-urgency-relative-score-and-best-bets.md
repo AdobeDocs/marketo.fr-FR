@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: Priorité, urgence, score relatif et meilleurs paris - Documentation du marketing - Documentation du produit
 title: Priorité, urgence, note relative et meilleurs résultats
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Pour calculer le nombre d&#39;étoiles et de flammes, vos pistes et contacts son
 >
 >Le nombre d’Urgences relatives (flammes) et Score relatif (étoiles) sont des entiers dans Marketo. Les valeurs possibles pour chacun d’eux sont comprises entre 0 et 3.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Insight commercial du marketing](http://docs.marketo.com/display/docs/marketo+sales+insight)
 
