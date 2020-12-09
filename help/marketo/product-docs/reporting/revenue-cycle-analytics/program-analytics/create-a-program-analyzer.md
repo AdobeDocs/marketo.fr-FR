@@ -3,9 +3,9 @@ unique-page-id: 2360399
 description: Création d’un analyseur de Programme - Documents marketing - Documentation du produit
 title: Création d’un analyseur de Programme
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Découvrez les programmes et les canaux qui vous donnent le plus d&#39;argent po
 
 ![](assets/november-custom-report.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Comparer l&#39;efficacité des Canaux avec l&#39;analyseur de Programme](compare-channel-effectiveness-with-the-program-analyzer.md)
 >* [Comparer l&#39;efficacité des Programmes avec l&#39;analyseur de Programme](compare-program-effectiveness-with-the-program-analyzer.md)
