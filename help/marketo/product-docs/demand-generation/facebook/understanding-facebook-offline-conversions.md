@@ -3,9 +3,9 @@ unique-page-id: 11383945
 description: Comprendre les conversions hors ligne Facebook - Documents marketing - Documentation du produit
 title: Présentation des conversions hors ligne Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Vous pouvez [configurer des conversions](set-up-facebook-offline-conversions.md)
 1. Faites correspondre les étapes de votre modèle de cycle de revenus aux étapes de conversion hors ligne sur Facebook.
 1. Lorsqu&#39;une piste Facebook est générée à partir d&#39;une publicité de piste Facebook et atteint une étape mappée, Marketo renvoie les données de conversion hors ligne à Facebook plusieurs fois par jour via une API sécurisée et automatisée. Les données s’affichent dans le rapport Gestionnaire d’annonces Facebook.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Configurer les conversions hors connexion Facebook](set-up-facebook-offline-conversions.md)
 
