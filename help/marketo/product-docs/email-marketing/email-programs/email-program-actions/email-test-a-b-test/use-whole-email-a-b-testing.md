@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: Utiliser le test A/B "Entier Email" - Documents marketing - Documentation du produit
 title: Utiliser le test A/B "Courrier électronique complet"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Vous pouvez facilement tester vos e-mails A/B. Un bon test est le test **Entier le courriel** . Voici comment le configurer.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Ajouter un test A/B](add-an-a-b-test.md)
 
