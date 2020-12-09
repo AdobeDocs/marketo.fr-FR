@@ -3,9 +3,9 @@ unique-page-id: 11370892
 description: Testez les publicités Facebook pour une intégration de bureau avec Marketo - Marketo Docs - Documentation du produit
 title: Test des annonces de pistes Facebook pour l'intégration de bureau avec Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Après avoir créé votre annonce de piste, vous devez la tester ! Voici comment le faire sur votre bureau.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Vous devez [configurer l’intégration](set-up-facebook-lead-ads.md)des publicités de piste Facebook.
 
