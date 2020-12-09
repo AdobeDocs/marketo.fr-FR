@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Listes de compte - Documents marketing - Documentation du produit
 title: Listes de compte
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ Outre les listes de compte, vous pouvez également créer des listes de compte d
 
    ![](assets/six.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter un compte nommé existant à une Liste de compte](named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [Informations sur la Liste de compte](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
