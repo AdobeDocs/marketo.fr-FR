@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: Options d'envoi en masse - Documents marketing - Documentation du produit
 title: Options d'envoi en masse
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Utilisation de Select et Send
 
 Par défaut, vous allez modifier tous les destinataires. Mais vous pouvez également sélectionner chaque courriel pour effectuer des modifications personnalisées. Cela peut s’avérer utile pour ajouter une ou plusieurs lignes uniques de personnalisation aux destinataires avec lesquels vous souhaitez adopter une approche plus personnalisée.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Composition de courriels en vrac avec sélection et envoi](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 >* [Envoi de courriers électroniques par courriel de groupe](http://docs.marketo.com/x/KAQ6Ag)
