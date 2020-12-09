@@ -3,9 +3,9 @@ unique-page-id: 3571739
 description: Installation et configuration de Marketo Sales Insight dans Microsoft Dynamics 365 - Marketo Docs - Documentation sur les produits
 title: Installation et configuration de Marketo Sales Insight dans Microsoft Dynamics 365
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketing Sales Insight est un outil fantastique qui permet à votre équipe commerciale de découvrir la richesse des données dont dispose l’équipe marketing. Voici comment installer et configurer.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Effectuez votre intégration [](http://docs.marketo.com/x/E4A2)Marketo-Microsoft.
 >
