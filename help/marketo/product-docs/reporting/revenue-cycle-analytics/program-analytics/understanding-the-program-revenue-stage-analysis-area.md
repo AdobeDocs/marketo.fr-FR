@@ -3,9 +3,9 @@ unique-page-id: 7514009
 description: Présentation de la zone d'Analyse de la phase des recettes du Programme - Documents marketing - Documentation du produit
 title: Présentation de la zone d'Analyse de la phase des recettes du Programme
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -151,8 +151,6 @@ Pour vue des dimensions ou mesures disponibles dans une catégorie, cliquez sur 
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Créer un rapport Explorateur de recettes](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
