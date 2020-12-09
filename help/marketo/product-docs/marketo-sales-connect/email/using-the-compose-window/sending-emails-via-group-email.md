@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: Envoi d'e-mails par courriel de groupe - Documents marketing - Documentation du produit
 title: Envoi de courriers électroniques par courriel de groupe
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ Voici comment envoyer/modifier des courriers électroniques à l’aide de l’o
    >
    >Vous pouvez apporter des modifications en masse au courrier électronique ou au modèle lors de l’envoi d’un courrier électronique de groupe, mais vous ne pouvez pas apporter de modifications uniques à des destinataires spécifiques de la liste.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Options d&#39;envoi en masse](http://docs.marketo.com/x/HwQ6Ag)
 >* [Utilisation d’un modèle dans la fenêtre Composer](http://docs.marketo.com/x/MQQ6Ag)
