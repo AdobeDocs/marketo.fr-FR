@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Émettre une licence d'Ajoute électronique Marketo - Docs Marketo - Documentation du produit
 title: Émettre une licence d'Ajoute électronique de marketing à envoyer
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Quiconque souhaite utiliser l&#39;Ajoute d&#39;Outlook de courriel de marketing 
    >
    >Si vos commerciaux ont un accès administrateur à leur ordinateur, cochez la case et vous avez terminé !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Installation de l&#39;Ajoute Marketo pour Outlook avec une clé d&#39;entreprise](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [Installer l&#39;Ajoute de courriel de Marketo pour Outlook avec un code d&#39;inscription](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
