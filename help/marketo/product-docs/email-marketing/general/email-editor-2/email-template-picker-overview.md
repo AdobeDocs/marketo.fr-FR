@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: Présentation du sélecteur de modèles de courrier électronique - Documents marketing - Documentation du produit
 title: Présentation du sélecteur de modèles de courriel
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Vous pouvez également cliquer avec le bouton droit sur une miniature de modèle
 
 Assez propre !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Syntaxe du modèle de courriel](email-template-syntax.md)
 >* [Créer un courriel](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
