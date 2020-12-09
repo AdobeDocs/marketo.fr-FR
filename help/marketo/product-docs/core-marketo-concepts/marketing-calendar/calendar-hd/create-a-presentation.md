@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: Créer une présentation - Documents marketing - Documentation du produit
 title: Créer une présentation
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Créez une présentation pour projeter les vues et objectifs de votre équipe su
 
    Beau boulot ! Vous êtes maintenant prêt à personnaliser votre présentation.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Personnalisation d’une présentation](customize-a-presentation.md)
 
