@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: Ajouter un extrait de code à un Landing page - Documents marketing - Documentation du produit
 title: Ajouter un extrait de code à un Landing page
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Les extraits de code sont de petits fragments de code HTML qui peuvent suivre les règles et contenir du contenu personnalisé.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Création d’un extrait de code](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
