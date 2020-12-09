@@ -3,9 +3,9 @@ unique-page-id: 2360184
 description: Filtrage d’un rapport d’Activité Campaign - Documents marketing - Documentation du produit
 title: Filtrage d’un rapport d’Activité Campaign
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Concentrez votre [rapport](../../../../product-docs/reporting/basic-reporting/re
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Rapport Performances des courriers électroniques Campaign](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 
