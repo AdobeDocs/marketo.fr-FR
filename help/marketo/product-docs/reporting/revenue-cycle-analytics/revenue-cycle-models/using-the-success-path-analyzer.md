@@ -3,9 +3,9 @@ unique-page-id: 3571886
 description: Utilisation de Success Path Analyzer - Marketo Docs - Documentation du produit
 title: Utilisation de l’analyseur de chemins de réussite
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Utilisez un analyseur de chemins de réussite pour explorer les détails spécifiques qui reflètent à la fois le flux (quantité) et la vitesse (vitesse, en termes de jours) des personnes au cours des étapes de votre modèle [de cycle de](understanding-revenue-models.md)recettes.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Création d’un analyseur de chemins de réussite](create-a-success-path-analyzer.md)
 
