@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: Créer des campagnes enfants et des ressources locales - Documents marketing - Documentation du produit
 title: Créer des campagnes enfants et des ressources locales
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,7 @@ L’étape de flux **Envoyer un courriel** DOIT être la deuxième étape. L’e
 
 L’étape suivante consiste à [tester l’intégration](test-your-on24-event-integration.md)de votre événement ON24.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Présentation des Événements d&#39;adaptateurs Marketo ON24](understanding-marketo-on24-adapter-events.md)
 >* [Exemple d’intégration de Événement ON24](example-on24-event-integration.md)
