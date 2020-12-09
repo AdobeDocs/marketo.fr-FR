@@ -3,9 +3,9 @@ unique-page-id: 7504749
 description: Exportation d'un rapport Explorateur de recettes - Documents marketing - Documentation du produit
 title: Exportation d’un rapport Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,7 @@ Vous pouvez exporter n’importe quel rapport de l’explorateur de recettes et 
 
    Doux ! Envoyez ce fichier et impressionnez vos pairs avec vos compétences en marketing de type ninja.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [S’abonner à un rapport Explorateur de recettes](subscribe-to-a-revenue-explorer-report.md)
 
