@@ -2,7 +2,7 @@
 title: application-communication-limites-à-une-campagne-intelligente
 description: Appliquer des limites de communication à une Campaign intelligente
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -22,11 +22,11 @@ Ce n&#39;est pas une bonne idée d&#39;envoyer un courriel à quelqu&#39;un plus
 >
 >Lorsqu&#39;une personne dépasse les limites de communication définies, Marketo bloque les courriels non opérationnels (les courriels opérationnels sont toujours envoyés).
 
-1. Sélectionnez votre campagne dynamique et cliquez sur l’onglet [!UICONTROL **Planifier**] .
+1. Sélectionnez votre campagne dynamique et cliquez sur l’onglet **[!UICONTROL Planifier]** .
 
    ![Image un](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-1.png)
 
-1. Ouvrez Règles [!UICONTROL de] qualification et cochez la case [!UICONTROL **Bloquer les courriers électroniques**] non opérationnels.
+1. Ouvrez Règles [!UICONTROL de] qualification et cochez la case **[!UICONTROL Bloquer les courriers électroniques]** non opérationnels.
 
    ![Image 2](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-2.png)
 
