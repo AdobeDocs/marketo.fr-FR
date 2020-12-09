@@ -3,9 +3,9 @@ unique-page-id: 557337
 description: Création et modification de Vues pour les Listes et la Liste intelligente - Documentation sur le marketing - Documentation sur les produits
 title: Créer et modifier des Vues pour les Listes et la Liste intelligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ Une liste intelligente affiche un ensemble de colonnes par défaut. Saviez-vous 
 
 Vous seul pouvez voir les vues personnalisées que vous créez dans la liste déroulante des Vues. Dites donc à vos amis qu’ils doivent créer les leurs !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Utiliser des Listes dynamiques intégrées/système](use-built-in-system-smart-lists.md)
 >* [Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
