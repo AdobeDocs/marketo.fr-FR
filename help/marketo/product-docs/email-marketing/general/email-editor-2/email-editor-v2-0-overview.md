@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: Présentation de l’éditeur de courrier électronique v2.0 - Documentation sur le marketing - Documentation du produit
 title: Présentation de l’éditeur de courrier électronique v2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -107,9 +107,7 @@ Beaucoup de nouvelles fonctionnalités ! Amuse-toi bien !
 >
 >Si vous souhaitez approfondir vos connaissances, regardez cette vidéo [](https://nation.marketo.com/videos/1463)utile.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Syntaxe du modèle de courriel](email-template-syntax.md)
 
