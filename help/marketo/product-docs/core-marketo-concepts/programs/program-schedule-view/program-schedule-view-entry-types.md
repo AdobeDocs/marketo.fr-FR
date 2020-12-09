@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: Types d’entrée de Vue de Planning du programme - Documents marketing - Documentation du produit
 title: Types d’entrée de Vue de Planning du programme
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Il existe huit types d&#39;entrée intégrés différents qui seront visibles et
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Créer un type d’entrée personnalisé](create-custom-entry-types.md)
 
