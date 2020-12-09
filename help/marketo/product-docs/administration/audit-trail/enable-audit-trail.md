@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: Activer la piste d’audit - Documents marketing - Documentation du produit
 title: Activer la piste d'audit
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ La piste d’audit est disponible pour tous les clients et est contrôlée par d
 
 ## Affecter un rôle de piste d&#39;audit à un utilisateur {#assign-audit-trail-role-to-a-user}
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >[Créez](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) ou [activez](#Enable) un rôle existant, en lui accordant des autorisations de piste d’audit.
 
