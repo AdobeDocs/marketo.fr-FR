@@ -3,9 +3,9 @@ unique-page-id: 1900565
 description: Inclure un Événement de calendrier (.ics) dans un courrier électronique - Documents marketing - Documentation du produit
 title: Inclure un Événement de calendrier (.ics) dans un courriel
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Un jeton Fichier de calendrier vous permet d’ajouter un lien de événement de calendrier (.ics) à vos courriels de marketing.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >* [Créer un fichier de Événement de calendrier (.ics)](create-a-calendar-event-ics-file.md)
 
