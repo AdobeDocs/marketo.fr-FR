@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: AB Test Your Web Campaign - Marketo Docs - Documentation du produit
 title: AB Test Your Web Campaign
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -77,9 +77,7 @@ Pour tester vos campagnes personnalisées, vous pouvez sélectionner deux campag
 
 
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Créer une Campaign de boîte de dialogue](create-a-new-dialog-web-campaign.md)
 >* [Création d’un RTP dans une zone Campaign](create-a-new-in-zone-web-campaign.md)
