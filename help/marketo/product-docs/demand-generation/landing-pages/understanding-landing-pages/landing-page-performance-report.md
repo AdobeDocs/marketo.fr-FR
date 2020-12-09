@@ -3,9 +3,9 @@ unique-page-id: 2359713
 description: Rapport sur les performances du landing page - Documentation du marketing - Documentation du produit
 title: Rapport sur les performances du landing page
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Voyez combien de personnes ont rempli le `forms` dans votre `landing pages`livre
 >
 >Découvrez d&#39;autres rapports intéressants dans la plongée en profondeur [Basic Rapports](http://docs.marketo.com/display/docs/basic+reporting) .
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Vous pouvez filtrer votre rapport](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) de performances de landing page par ressources locales ou globales.
 
