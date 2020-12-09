@@ -3,9 +3,9 @@ unique-page-id: 2360389
 description: Rendre un Programme sans coût de période disponible dans l'Explorateur et les analyseurs de recettes - Documents marketing - Documentation sur les produits
 title: Rendre un Programme sans coût de période disponible dans l'Explorateur et les analyseurs de recettes
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Certains programmes peuvent avoir besoin d&#39;être inclus même s&#39;ils n&#3
 
 Beau boulot ! Désormais, tout programme utilisant le canal modifié sera inclus dans l&#39;explorateur de recettes et les analyseurs sans qu&#39;il soit nécessaire d&#39;avoir un coût de période.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Remplacement du comportement d’Analytics au niveau du Programme](override-analytics-behavior-at-the-program-level.md)
 
