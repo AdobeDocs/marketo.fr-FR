@@ -3,9 +3,9 @@ unique-page-id: 2359858
 description: Ajouter des images et des fichiers sur Marketo - Docs marketing - Documentation du produit
 title: Ajouter des images et des fichiers au marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ Bien joué !
 
 `<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Organiser vos images et fichiers à l’aide de dossiers](organize-your-images-and-files-using-folders.md)
 
