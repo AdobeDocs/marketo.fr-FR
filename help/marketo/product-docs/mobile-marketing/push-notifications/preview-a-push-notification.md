@@ -3,9 +3,9 @@ unique-page-id: 10092730
 description: Prévisualisation d’une notification Push - Documentation marketing - Documentation du produit
 title: Prévisualisation d’une notification Push
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Sur l&#39;écran Centre de notification, il est situé en haut de l&#39;écran,
 
 Ainsi, avec la prévisualisation de notification Push, vous savez toujours ce que vos clients vont voir !
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Créer une notification Push](create-a-push-notification.md)
 >* [Configuration de la notification Push mobile](configure-mobile-push-notification.md)
