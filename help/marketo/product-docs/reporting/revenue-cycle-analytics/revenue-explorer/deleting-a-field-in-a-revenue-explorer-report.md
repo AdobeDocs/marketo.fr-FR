@@ -3,9 +3,9 @@ unique-page-id: 7504520
 description: Suppression d’un champ dans un rapport de l’Explorateur des recettes - Documents marketing - Documentation du produit
 title: Suppression d’un champ dans un rapport Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Vous pouvez parfois faire glisser un champ incorrect dans le rapport. Voici comm
    >
    >La corbeille est masquée jusqu’à ce que vous débuts faire glisser un champ.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Enregistrement d’un rapport Explorateur de recettes](saving-a-revenue-explorer-report.md)
 
