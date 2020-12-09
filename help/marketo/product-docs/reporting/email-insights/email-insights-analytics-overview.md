@@ -3,9 +3,9 @@ unique-page-id: 10099411
 description: Présentation des analyses des connaissances par courriel - Documentation sur le marketing - Documentation sur le produit
 title: Présentation des analyses des statistiques de courriel
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ You can also specify what you see (left to right): All, Audience, Content, and P
 `  ` ![](assets/guided-bar.png)  
 `
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Présentation des informations sur les e-mails envoyés](email-insights-sends-overview.md)
 
