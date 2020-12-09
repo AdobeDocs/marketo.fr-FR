@@ -3,9 +3,9 @@ unique-page-id: 2951877
 description: Présentation de la zone d'Analyse des opportunités de Programme - Documents marketing - Documentation du produit
 title: Présentation de la zone d'Analyse des opportunités de Programme
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -188,8 +188,6 @@ Alors que les mesures (points bleus) sont calculées et nécessitent une réflex
 
 **Toutes les opportunités qui ont attribué tout type de crédit d&#39;attribution à un Programme. Les opportunités peuvent être influencées par une ou plusieurs pistes et par un ou plusieurs Programmes.*
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Créer un rapport Explorateur de recettes](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
