@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: Ajouter un domaine de marque supplémentaire - Documents marketing - Documentation du produit
 title: Ajouter un domaine de marque supplémentaire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Ajoutez un domaine de marque supplémentaire lorsque vous exécutez plusieurs marques à partir d’une seule instance de marché et que vous souhaitez qu’elles disposent chacune de leurs propres liens de suivi de marque.
 
->[!NOTE]
->
->**Conditions préalables**
+>[!PREREQUISITES]
 >
 >Vous devez [remplacer le lien](edit-your-default-branding-domain.md) de suivi générique par un domaine de marque avant d’ajouter d’autres domaines de marque.
 
