@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: Liste de contrôle de configuration - Documents marketing - Documentation du produit
 title: Liste de contrôle de configuration
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Liste de contrôle de configuration {#setup-checklist}
 
-Bienvenue sur le marché ! N&#39;hésitez pas à utiliser la liste de contrôle suivante comme liste de tâches visuelles pour lancer vos activités. Vous trouverez des détails dans la section Etapes [de](../../getting-started/setup-steps.md)configuration.
+Bienvenue sur le marché ! N&#39;hésitez pas à utiliser la liste de contrôle suivante comme liste de tâches visuelles pour lancer vos activités. Vous trouverez des détails dans la section Etapes [de](/help/marketo/getting-started/setup-steps.md)configuration.
 
 ## Connectez-vous à Marketing Cloud et créez d’autres utilisateurs. {#log-in-to-marketo-and-create-additional-users}
 
@@ -34,7 +34,7 @@ Bienvenue sur le marché ! N&#39;hésitez pas à utiliser la liste de contrôle 
 1. Demandez au service informatique de configurer un enregistrement DNS pour votre CNAME de messagerie
 1. Demander au service informatique de placer sur la liste autorisée le marketing
 1. Configuration de DKIM et SPF dans la zone d’administration
-1. Configuration de MX pour [FromDomain1]
+1. Configuration de MX pour `[FromDomain1]`
 1. Une fois le service informatique terminé avec le CNAME de messagerie, configurez votre CNAME de messagerie dans Marketo.
 
 ## Envoyer une URL pour les modèles de Landing page et de courriel {#submit-a-url-for-landing-page-and-email-templates}
@@ -51,5 +51,4 @@ Bienvenue sur le marché ! N&#39;hésitez pas à utiliser la liste de contrôle 
 
 >[!MORELIKETHIS]
 >
->[Etapes de configuration](../../getting-started/setup-steps.md)
-
+>[Etapes de configuration](/help/marketo/getting-started/setup-steps.md)
