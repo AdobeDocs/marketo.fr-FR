@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossaire du marketing - Docs marketing - Documentation du produit
 title: Glossaire du marketing
 translation-type: tm+mt
-source-git-commit: ca1f8ba28b3e3c096a86fe4c1ba8c96529b97b84
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -482,7 +482,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
   </tr> 
   <tr> 
    <td><strong>Piste</strong></td> 
-   <td>Dans le <strong>Marketo Engage</strong>, le terme "prospect" est le terme précédent (<a href="/help/marketo/getting-started/updates-to-marketo-terminology.md" rel="nofollow">remplacé par <strong>personne</strong></a>) utilisé pour décrire une personne dans votre <strong>base de données</strong> Marketo que vous utilisez dans vos campagnes marketing. Dans votre <strong>gestion de la relation client</strong>, une piste peut représenter un concept différent (c'est-à-dire une personne associée à une <strong>opportunité</strong>), indépendamment de la fonctionnalité de Marketo.</td> 
+   <td>En <strong>Marketo Engage</strong>, le terme "prospect" est le terme précédent (remplacé par <strong>personne</strong>) utilisé pour décrire une personne dans votre <strong>base de données</strong> Marketo que vous utilisez dans vos campagnes marketing. Dans votre <strong>gestion de la relation client</strong>, une piste peut représenter un concept différent (c'est-à-dire une personne associée à une <strong>opportunité</strong>), indépendamment de la fonctionnalité de Marketo.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Base de données de piste</strong></td> 
