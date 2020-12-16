@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Mise en place et Ajoute d'une personne - Documents marketing - Documentation du produit
 title: Configurer et Ajouter une personne
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Il y a quelques choses à faire avant de commencer les missions.
 
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Étape 1 : Connexion à Marketo {#step-log-in-to-marketo}
 
-1. [Connectez-vous à Marketing](http://app.marketo.com) à l’aide des informations d’identification que vous avez reçues par courrier électronique.
+1. [Connectez-vous à Marketing](https://app.marketo.com) à l’aide des informations d’identification que vous avez reçues par courrier électronique.
 
    ![](assets/one.png)
 
@@ -59,7 +53,7 @@ Ajoutez-vous en tant que personne sur Marketo pour pouvoir vous envoyer des e-ma
 
    ![](assets/seven.png)
 
-1. Tapez votre prénom et votre nom, votre adresse électronique et votre nom de société, puis cliquez sur **Créer **pour vous ajouter en tant que personne.
+1. Tapez votre prénom et votre nom, votre adresse électronique et votre nom de société, puis cliquez sur **Créer** pour vous ajouter en tant que personne.
 
    ![](assets/eight.png)
 
@@ -67,7 +61,7 @@ Ajoutez-vous en tant que personne sur Marketo pour pouvoir vous envoyer des e-ma
 
    ![](assets/nine.png)
 
-1. Cliquez sur l&#39;onglet **Personnes **. Vous devriez vous voir dans la base de données.
+1. Cliquez sur l’onglet **Personnes** . Vous devriez vous voir dans la base de données.
 
    ![](assets/ten.png)
 
@@ -77,4 +71,4 @@ Vous êtes prêt à commencer votre première mission !
 
 <br> 
 
-[Mission 1 : Envoi d’un message électronique - Vol ►](send-an-email.md)
+[Mission 1 : Envoi d’un message électronique - Vol ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
