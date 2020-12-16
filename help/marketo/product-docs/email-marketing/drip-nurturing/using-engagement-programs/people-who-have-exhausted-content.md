@@ -3,21 +3,15 @@ unique-page-id: 2359953
 description: Personnes ayant extrait du contenu - Documents marketing - Documentation du produit
 title: Personnes ayant extrait du contenu
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # Personnes ayant extrait du contenu {#people-who-have-exhausted-content}
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a épuisé toutes les possibilités et attend inactif jusqu&#39;à ce que davantage soit ajouté. Vous pouvez trouver des gens &quot;épuisés&quot; de plusieurs manières.
 
