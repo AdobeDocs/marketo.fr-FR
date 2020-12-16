@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Rechercher et fusionner des personnes Duplicata - Documents marketing - Documentation sur les produits
 title: Rechercher et fusionner des personnes de Duplicata
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rechercher et fusionner des personnes de Duplicata {#find-and-merge-duplicate-people}
 
 Marketo annule automatiquement les duplicata lorsque de nouvelles personnes entrent dans le système. Cependant, votre service de gestion de la relation client a peut-être initialement envoyé des duplicata à Marketing Cloud. Voici comment les fusionner.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
