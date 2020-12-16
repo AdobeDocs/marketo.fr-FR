@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: Alerte au représentant commercial - Documents marketing - Documentation du produit
 title: Alerter le représentant commercial
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,9 @@ ht-degree: 0%
 
 Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerciaux, il vous suffit d&#39;envoyer un courriel d&#39;alerte et une campagne par courriel. Voici comment le faire.
 
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [landing page avec un formulaire](landing-page-with-a-form.md)
-
->
-
-
+>[landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## Étape 1 : Créer un courriel d’alerte {#step-create-an-alert-email}
 
@@ -37,7 +27,7 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
    ![](assets/one-5.png)
 
-1. Sélectionnez **Mon Programme** que vous avez créé dans le [Landing page avec un formulaire](landing-page-with-a-form.md) Quick win, puis sous **Nouveau** , cliquez sur **Nouveau fichier local.**
+1. Sélectionnez **Mon Programme** que vous avez créé dans le [Landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) Quick win, puis sous **Nouveau** , cliquez sur **Nouveau fichier local.**
 
    ![](assets/two-6.png)
 
@@ -71,7 +61,7 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} est un jeton spécial pour les messages d&#39;alerte. Voir [Utilisation du jeton](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Envoyer des informations d’alerte pour en savoir plus.
+   >{{SP_Send_Alert_Info}} est un jeton spécial pour les messages d&#39;alerte. Voir [Utilisation du jeton](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Envoyer des informations d’alerte pour en savoir plus.
 
 1. Cliquez sur **Enregistrer**.
 
@@ -87,7 +77,7 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
 ## Étape 2 : Création d’un déclencheur d’alerte Campaign {#step-create-an-alert-trigger-campaign}
 
-1. Sélectionnez **Mon Programme** créé précédemment, puis sous **Nouveau **cliquez sur **Nouveau Campaign** dynamique.
+1. Sélectionnez **Mon Programme** créé précédemment, puis sous **Nouveau** , cliquez sur **Nouveau Campaign** dynamique.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -115,12 +105,11 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
    ![](assets/nineteen-2.png)
 
-1. Accédez à l&#39;onglet **Planification** et cliquez sur le bouton **Activer **bouton.
+1. Accédez à l’onglet **Planification** et cliquez sur le bouton **Activer** .
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
-   >
    >
    >Définissez les règles **de** qualification sur à **chaque fois** (en modifiant la Campaign intelligente) pour permettre à la même personne de déclencher des alertes à plusieurs reprises.
 
@@ -135,9 +124,6 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
-   >
-   >**Rappel**
-   >
    >
    >N&#39;oubliez pas d&#39;approuver les landings page ; ils ne sont pas en direct avant d&#39;être approuvés.
 
@@ -155,4 +141,6 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
 <br> 
 
-[Mission 7 : Personnaliser une](personalize-an-email.md) mission de courriel [9 : Mettre à jour les données de piste ►](update-person-data.md)
+[Mission 7 : Personnaliser un courriel](personalize-an-email.md)
+
+[Mission 9 : Mettre à jour les données de piste ►](update-person-data.md)
