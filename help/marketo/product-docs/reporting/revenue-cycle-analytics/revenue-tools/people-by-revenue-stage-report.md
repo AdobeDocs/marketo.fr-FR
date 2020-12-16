@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: Rapport d’étape Personnes par recettes - Documents marketing - Documentation du produit
 title: Rapport d’étape Personnes par chiffre d’affaires
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rapport d’étape Personnes par chiffre d’affaires {#people-by-revenue-stage-report}
 
 Vous pouvez créer un rapport qui indique à quelle étape du modèle [de cycle de](http://docs.marketo.com/display/docs/revenue+cycle+models) revenu se trouve votre équipe. Le rapport comprend toute étape du modèle spécifié tant qu’il existe un solde personnel pour la période donnée du rapport.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
