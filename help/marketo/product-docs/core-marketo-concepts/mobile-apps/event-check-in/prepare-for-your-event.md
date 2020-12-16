@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: Préparation de votre Événement - Documents marketing - Documentation du produit
 title: Préparation de votre Événement
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Préparation de votre Événement {#prepare-for-your-event}
 
 Il y a plusieurs choses à faire pour se préparer au événement.
-
->[!NOTE]
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 ## Créer un nouveau rôle de marketing {#create-a-new-marketo-role}
 
