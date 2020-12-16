@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: Rapports de personnes de groupe par segment - Documents marketing - Documentation du produit
 title: Regrouper les rapports des personnes par segment
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Regrouper les rapports des personnes par segment {#group-person-reports-by-segment}
 
 Vous pouvez regrouper les rapports [de](http://docs.marketo.com/display/docs/basic+reporting) personnes selon n’importe quel [segment](http://docs.marketo.com/display/docs/basic+reporting) que vous avez [défini dans vos segments](create-a-segmentation.md).
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Accédez à la section Activités **** marketing (ou **Analytics**).
 
