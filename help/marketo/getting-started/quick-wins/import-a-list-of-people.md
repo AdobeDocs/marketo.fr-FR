@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: Importer une Liste de personnes - Documents marketing - Documentation du produit
 title: Importer une Liste de personnes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -15,35 +15,21 @@ ht-degree: 0%
 
 ## Mission : Importer dans votre base de données une feuille de calcul liste des participants à un salon professionnel {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurer et Ajouter une personne](get-set-up-and-add-a-person.md)
+>[Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
->
-
-
-
-`   
-`  Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un fichier de feuille de calcul dans Marketing Cloud.
+Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un fichier de feuille de calcul dans Marketing Cloud.
 
 ## Étape 1 : Téléchargement et modification d’une feuille de calcul {#step-download-and-edit-a-spreadsheet}
 
-1. Pour début, téléchargez notre feuille de calcul pratique (** [tradeshow-attendees.csv](http://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)**) sur votre ordinateur.
+1. Pour début, téléchargez notre feuille de calcul pratique ([**tradeshow-attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) sur votre ordinateur.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >Lors de l’importation d’une date, utilisez le format suivant : **21/09/15** (Mois/Jour/Année).
+   >Lors de l’importation d’une date, utilisez le format suivant : **21/09/20** (Mois/Jour/Année).
 
    >[!NOTE]
    >
@@ -67,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Nommez** le programme &quot;Mon Programme de commerce&quot; et sélectionnez &quot;Événement&quot; pour le type de **Programme.**
+1. **Nommez** le programme &quot;Mon Programme de commerce&quot; et sélectionnez &quot;Événement&quot; pour le type **de** Programme.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -77,9 +63,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->Les programmes de événement se produisent à des dates spécifiques. En savoir plus sur [**les Événements**](http://docs.marketo.com/display/docs/events).
+>Les programmes de événement se produisent à des dates spécifiques. En savoir plus sur [**les Événements**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
 ## Étape 3 : Importer votre feuille de calcul dans Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -115,11 +99,9 @@ ht-degree: 0%
    >
    >En mode d’importation des Listes, le fait de choisir **Ignorer les nouvelles personnes et les mises à jour** signifie que vous n’aurez aucune incidence sur les enregistrements de personne existants ni sur les activités consignées. Utilisez ce mode si vous souhaitez une liste statique rapide et préfiltrée de personnes existantes à utiliser dans vos activités marketing. Si vous sélectionnez ce mode, les options suivantes seront disponibles :
    >
-   >    
-   >    
-   >    * Ignorer la création de nouvelles personnes
-   >    * Ignorer les mises à jour des champs de personne
-   >    * Ignorer la journalisation des activités
+   > * Ignorer la création de nouvelles personnes
+   > * Ignorer les mises à jour des champs de personne
+   > * Ignorer la journalisation des activités
 
 
 1. Faites correspondre vos champs de colonne de Liste à leur champ Marketo respectif, puis cliquez sur **Suivant**.
@@ -128,7 +110,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Les en-têtes de colonne doivent toujours correspondre exactement au champ (sensible à la casse) afin d’obtenir les meilleurs résultats de mappage automatique. Si vous utilisez des champs personnalisés et que vous ne les voyez pas dans la liste déroulante, revenez en arrière et [créez-les](http://docs.marketo.com/display/DOCS/Create+a+Custom+Field+in+Marketo) pour qu’ils deviennent des options.
+   >Les en-têtes de colonne doivent toujours correspondre exactement au champ (sensible à la casse) afin d’obtenir les meilleurs résultats de mappage automatique. Si vous utilisez des champs personnalisés et que vous ne les voyez pas dans la liste déroulante, revenez en arrière et [créez-les](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) pour qu’ils deviennent des options.
 
    >[!NOTE]
    >
@@ -148,9 +130,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->Vous pouvez analyser la réussite de votre programme en suivant l&#39;adhésion au programme. En savoir plus sur [**les Programmes**](http://docs.marketo.com/display/docs/programs).
+>Vous pouvez analyser la réussite de votre programme en suivant l&#39;adhésion au programme. En savoir plus sur [**les Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Fin de la mission {#mission-complete}
 
@@ -158,4 +138,6 @@ Vos participants au salon sont maintenant membres de votre programme Marketo !
 
 <br> 
 
-[Mission 4 : Courriel de la](email-auto-response.md) mission de réponse [automatique 6 : Déchets, gouttes, nourriture ►](drip-drip-nurture.md)
+[Mission 4 : Réponse automatique par courriel](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+
+[Mission 6 : Déchets, gouttes, nourriture ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
