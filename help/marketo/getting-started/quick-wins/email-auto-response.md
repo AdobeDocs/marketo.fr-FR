@@ -3,9 +3,9 @@ unique-page-id: 2359416
 description: Réponse automatique par courriel - Documents marketing - Documentation du produit
 title: Réponse automatique du courriel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## Mission : Envoyer un e-mail de remerciement lorsqu’une personne remplit un formulaire {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurer et Ajouter une personne](get-set-up-and-add-a-person.md)
->* [landing page avec un formulaire](landing-page-with-a-form.md)
-
->
-
+>* [Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
 ## Étape 1 : Créer un courriel {#step-create-an-email}
@@ -48,13 +39,13 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   Un éditeur de courrier électronique s’ouvre dans une nouvelle fenêtre ou un nouvel onglet. Si les fenêtres contextuelles sont bloquées, cliquez sur** Modifier le brouillon** sur la page de résumé des ressources pour accéder au courrier électronique.
+   Un éditeur de courrier électronique s’ouvre dans une nouvelle fenêtre ou un nouvel onglet. Si les fenêtres contextuelles sont bloquées, cliquez sur **Modifier le brouillon** sur la page de résumé des ressources pour accéder au courrier électronique.
 
 1. Entrez un objet, puis cliquez sur la zone modifiable du courrier électronique en maintenant le doublon enfoncé.
 
    ![](assets/five-2.png)
 
-   Un éditeur de texte enrichi s’ouvre au-dessus de l’éditeur de courrier électronique.
+   _Un éditeur de texte enrichi s’ouvre au-dessus de l’éditeur de courrier électronique._
 
 1. Mettez en surbrillance le contenu du courrier électronique existant.
 
@@ -82,39 +73,41 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Accédez à l&#39;onglet **Smart Liste **.
+1. Accédez à l’onglet **Smart Liste** .
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Nous configurons cette campagne pour qu’elle s’exécute chaque fois qu’une personne remplit le formulaire que vous avez créé en [**Landing page avec un formulaire**](landing-page-with-a-form.md).
+   Nous configurons cette campagne pour qu’elle s’exécute chaque fois qu’une personne remplit le formulaire que vous avez créé en [**Landing page avec un formulaire**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
 1. Recherchez et faites glisser le déclencheur **Remplir le formulaire** sur le canevas de gauche.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Sélectionnez **Mon formulaire** dans la liste déroulante. Cliquez sur l&#39;onglet **Flux **.
+1. Sélectionnez **Mon formulaire** dans la liste déroulante. Cliquez sur l’onglet **Flux** .
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Faites glisser l&#39;action **Envoyer un e-mail **flow vers le canevas de gauche.
+1. Faites glisser l’action de flux **Envoyer un courrier électronique** vers le canevas de gauche.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Sélectionnez votre courriel **de réponse** automatique et accédez à l&#39;onglet **Planification **onglet.
+1. Sélectionnez votre courriel **de réponse** automatique et accédez à l&#39;onglet **Planification** .
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
 1. Cliquez sur **Modifier**.
 
    ![](assets/8.png)
-Sélectionnez chaque fois et cliquez sur Enregistrer.
+
+1. Sélectionnez **chaque fois** et cliquez sur **Enregistrer**.
+
    ![](assets/9.png)
 
 1. Cliquez sur **Activer**.
 
    ![](assets/10.png)
 
-1. Cliquez sur **Activer **dans l’écran de confirmation.
+1. Cliquez sur **Activer** dans l’écran de confirmation.
 
    ![](assets/11.png)
 
@@ -124,7 +117,7 @@ Sélectionnez chaque fois et cliquez sur Enregistrer.
 
 ## Étape 3 : Remplir le formulaire {#step-fill-out-the-form}
 
-1. Sélectionnez **Ma page**. Cette opération a été créée dans le [Landing page avec une victoire rapide sur le formulaire](landing-page-with-a-form.md) .
+1. Sélectionnez **Ma page**. Cette opération a été créée dans le [Landing page avec une victoire rapide sur le formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -148,4 +141,6 @@ En quelques minutes, vous devriez voir le courriel de réponse automatique dans 
 
 <br> 
 
-[Mission 3 : Score simple](simple-scoring.md) [Mission 5 : Importer une Liste de pistes ►](import-a-list-of-people.md)
+[Mission 3 : Score simple](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+
+[Mission 5 : Importer une Liste de pistes ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
