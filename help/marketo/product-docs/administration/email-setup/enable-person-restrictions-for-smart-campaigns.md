@@ -3,21 +3,15 @@ unique-page-id: 2360243
 description: Activer les restrictions de personne pour les campagnes dynamiques - Documents marketing - Documentation du produit
 title: Activer les restrictions de personne pour les campagnes dynamiques
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
 
 # Activer les restrictions de personne pour les campagnes dynamiques {#enable-person-restrictions-for-smart-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Il existe une fonctionnalité dans Marketo qui limite le ***maximum ***nombre de personnes pouvant bénéficier d’une campagne intelligente. Cela évite d&#39;envoyer par courrier électronique accidentel l&#39;intégralité de votre base de données.
 
