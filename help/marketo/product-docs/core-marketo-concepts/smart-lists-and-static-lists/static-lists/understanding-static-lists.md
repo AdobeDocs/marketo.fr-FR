@@ -3,21 +3,15 @@ unique-page-id: 2949891
 description: Présentation des Listes statiques - Documentation sur le marketing - Documentation sur les produits
 title: Comprendre les Listes statiques
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
 
 # Comprendre les Listes statiques {#understanding-static-lists}
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Les listes statiques sont l&#39;une des fonctionnalités les plus simples et les plus utiles de Marketo. Il s&#39;agit simplement d&#39;une liste de noms de votre base de données. Vous trouverez de nombreuses raisons de les utiliser.
 
