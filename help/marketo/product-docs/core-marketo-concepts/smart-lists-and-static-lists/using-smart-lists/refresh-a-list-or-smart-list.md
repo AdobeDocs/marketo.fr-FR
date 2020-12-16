@@ -3,21 +3,15 @@ unique-page-id: 557318
 description: Actualisation d’une Liste ou d’une Liste dynamique - Docs marketing - Documentation du produit
 title: Actualiser une Liste ou une Liste dynamique
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 
 # Actualiser une Liste ou une Liste dynamique {#refresh-a-list-or-smart-list}
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Si vous avez exécuté une liste intelligente et que quelques minutes se sont écoulées, les résultats pourraient être différents maintenant - actualisez pour le savoir.
 
