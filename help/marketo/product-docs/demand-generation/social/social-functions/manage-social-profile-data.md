@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Gérer les données du Profil Social - Documents marketing - Documentation du produit
 title: Gérer les données de Profil Social
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Gérer les données de Profil Social {#manage-social-profile-data}
 
 Lorsqu’une personne interagit avec une application [](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)sociale Marketo ou autorise son réseau social à préremplir un formulaire Marketo avec un formulaire [social à remplir](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo capture toutes les données disponibles à partir de son profil social. Vous pouvez vue ces informations sur la page [Détails de la](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)personne ou les ajouter sous la forme d’une colonne dans une vue [personnalisée d’une liste](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)intelligente.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Le remplissage de formulaires sociaux et les applications sociales capturent des ensembles de champs légèrement différents ; voir la section pour chacun des éléments ci-dessous.
 
