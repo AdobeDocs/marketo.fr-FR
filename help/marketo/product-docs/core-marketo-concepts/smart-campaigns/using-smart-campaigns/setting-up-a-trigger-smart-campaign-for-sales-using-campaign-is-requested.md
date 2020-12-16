@@ -3,9 +3,9 @@ unique-page-id: 7514898
 description: Configuration d'une Campaign intelligente Trigger pour les ventes à l'aide de "Campaign is Requested" - Docs marketing - Documentation du produit
 title: Configuration d'une Campaign dynamique de déclenchement pour les ventes à l'aide de "Campaign is Requested"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Configuration d&#39;une Campaign dynamique de déclenchement pour les ventes à l&#39;aide de &quot;Campaign is Requested&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 L&#39;une des caractéristiques les plus cool de Marketo est la possibilité de permettre aux vendeurs de participer à l&#39;effort marketing. Ils sont en première ligne, interagissant avec les gens. Les vendeurs devraient avoir la capacité d&#39;orienter le marketing dans la bonne direction.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
