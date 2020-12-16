@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Utilisation de la page Détails de la personne - Documents marketing - Documentation du produit
 title: Utilisation de la page Détails de la personne
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '532'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Utilisation de la page Détails de la personne {#using-the-person-detail-page}
 
 La page des détails de la personne contient toutes les informations que Marketo connaît sur une personne. Vous pouvez modifier les données directement à partir de cette page.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Page Détails de l’accès à la personne {#getting-to-person-detail-page}
 
