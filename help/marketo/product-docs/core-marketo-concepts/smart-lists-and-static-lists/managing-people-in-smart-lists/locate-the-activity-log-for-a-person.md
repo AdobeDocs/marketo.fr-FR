@@ -3,9 +3,9 @@ unique-page-id: 5472404
 description: Recherchez le journal des Activités d'une personne - Documents marketing - Documentation du produit.
 title: Localisation du journal des Activités d'une personne
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Localisation du journal des Activités d&#39;une personne {#locate-the-activity-log-for-a-person}
 
 Le journal des activités est la source ultime de vérité. Voici l&#39;histoire complète du voyage d&#39;une personne à Marketo.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Accédez à la base de données***.
 
