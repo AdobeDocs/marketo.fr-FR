@@ -3,21 +3,15 @@ unique-page-id: 1147013
 description: Modifier la cadence du Programme d’engagement - Docs marketing - Documentation du produit
 title: Modifier le cadence du Programme d'engagement
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 
 # Modifier le cadence du Programme d&#39;engagement {#change-engagement-program-cadence}
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Présentation
 
