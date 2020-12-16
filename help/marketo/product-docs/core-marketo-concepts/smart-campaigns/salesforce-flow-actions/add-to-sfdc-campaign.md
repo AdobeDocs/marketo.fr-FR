@@ -3,21 +3,15 @@ unique-page-id: 1147034
 description: Ajoute à SFDC Campaign - Marketo Docs - Documentation sur les produits
 title: Ajoute à la norme SFDC Campaign
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
 
 # Ajoute à la norme SFDC Campaign {#add-to-sfdc-campaign}
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
