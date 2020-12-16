@@ -3,21 +3,15 @@ unique-page-id: 1146950
 description: Attendre - Documents marketing - Documentation du produit
 title: Attendre
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # Attendre {#wait}
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 ## Présentation {#overview}
 
