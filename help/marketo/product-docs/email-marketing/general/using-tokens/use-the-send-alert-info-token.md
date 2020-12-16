@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: Utiliser le jeton Envoyer les informations d'alerte {{SP_Send_Alert_Info}} - Documents marketing - Documentation du produit
 title: Utiliser le jeton d'informations d'alerte Envoyer
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Utiliser le jeton d&#39;informations d&#39;alerte Envoyer {#use-the-send-alert-info-token-sp-send-alert-info}
 
 Le `{{SP_Send_Alert_Info}}` jeton est un jeton spécial à utiliser lors de la création d&#39;e-mails d&#39;alerte pour votre équipe commerciale.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!TIP]
 >
