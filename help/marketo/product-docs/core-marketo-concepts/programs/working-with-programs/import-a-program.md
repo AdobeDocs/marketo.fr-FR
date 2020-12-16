@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importer un Programme - Documents marketing - Documentation du produit
 title: Importer un Programme
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '912'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Importer un Programme {#import-a-program}
 
 Un programme peut être importé d&#39;un abonnement de marché à un autre. Par exemple, vous pouvez créer un programme dans un sandbox, puis l’importer dans votre abonnement actif. En outre, vous pouvez importer un programme préconstruit à partir de la bibliothèque de Programmes Marketo.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Importer un Programme {#import-a-program-1}
 
