@@ -3,9 +3,9 @@ unique-page-id: 2359426
 description: Mettre à jour les données personnelles - Documents marketing - Documentation du produit
 title: Mettre à jour les données personnelles
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## Mission : Mettre à jour les coordonnées d’une personne ou d’autres données {#mission-update-a-persons-contact-info-or-other-data}
 
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurer et Ajouter une personne](get-set-up-and-add-a-person.md)
->* [Importer une Liste de personnes](import-a-list-of-people.md)
-
->
-
+>* [Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Importer une Liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 Imaginons que dans votre salon, une personne vous ait donné des coordonnées supplémentaires. Voici comment mettre à jour les données personnelles.
@@ -52,7 +43,7 @@ Imaginons que dans votre salon, une personne vous ait donné des coordonnées su
 
    >[!TIP]
    >
-   >Il existe de nombreuses façons de mettre à jour les données des personnes dans Marketo. Voir [Importation d’une Liste de personnes](import-a-list-of-people.md) et [modification de la valeur](../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)des données.
+   >Il existe de nombreuses façons de mettre à jour les données des personnes dans Marketo. Voir [Importation d’une Liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) et [modification de la valeur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)des données.
 
 ## Mise à jour des données personnelles {#update-the-person-data}
 
@@ -70,4 +61,6 @@ Beau boulot ! Vous avez mis à jour vos données personnelles.
 
 <br> 
 
-[Mission 8 : Alerter la](alert-the-sales-rep.md) mission du représentant [commercial 10 : Rediriger un Landing page ►](redirect-a-landing-page.md)
+[Mission 8 : Alerter le représentant commercial](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+
+[Mission 10 : Rediriger un Landing page ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
