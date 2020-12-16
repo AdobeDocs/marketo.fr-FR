@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: Ajouter les colonnes d'opportunité à un rapport de piste - Documents marketing - Documentation du produit
 title: Ajouter les colonnes d'opportunité à un rapport de piste
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Ajouter les colonnes d&#39;opportunité à un rapport de piste {#add-opportunity-columns-to-a-lead-report}
 
 Pour afficher les statistiques sur les opportunités dans vos rapports [](http://docs.marketo.com/display/docs/basic+reporting)personnels, vous pouvez ajouter des colonnes opportunités.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Accédez à la zone Activités **** marketing.
 
