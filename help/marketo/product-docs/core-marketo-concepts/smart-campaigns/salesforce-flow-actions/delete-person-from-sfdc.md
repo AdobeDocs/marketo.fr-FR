@@ -3,9 +3,9 @@ unique-page-id: 1147031
 description: Supprimer une personne de SFDC - Documents marketing - Documentation du produit
 title: Supprimer une personne de SFDC
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Supprimer une personne de SFDC {#delete-person-from-sfdc}
 
 Si vous devez supprimer un ensemble spécifique de pistes de Salesforce mais les laisser en tant que personnes dans Marketo, vous pouvez utiliser l’action Supprimer une personne de SFDC.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
