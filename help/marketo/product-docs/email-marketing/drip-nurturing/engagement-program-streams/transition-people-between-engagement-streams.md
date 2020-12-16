@@ -3,9 +3,9 @@ unique-page-id: 2359947
 description: Transition des personnes entre les flux d’engagement - Documents marketing - Documentation du produit
 title: Transition des personnes entre les flux d’engagement
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Transition des personnes entre les flux d’engagement {#transition-people-between-engagement-streams}
 
 Les programmes d’engagement peuvent comporter plusieurs flux. Si vous [ajoutez un flux](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), vous voudrez définir un moyen pour les gens de passer d&#39;un flux à un autre. Ce sont les règles de **transition.**
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Accédez à Activités **** marketing.
 
