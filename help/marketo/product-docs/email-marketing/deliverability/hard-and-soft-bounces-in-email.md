@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: Retours nets et doux dans le courrier électronique - Documents marketing - Documentation du produit
 title: Retours nets et doux dans le courrier électronique
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Retours nets et doux dans le courrier électronique {#hard-and-soft-bounces-in-email}
 
 Un retour forcé peut rendre l&#39;adresse électronique d&#39;une personne invalide lorsqu&#39;un serveur de messagerie indique à Marketo que le courrier électronique de la personne ne peut pas être livré. Un rebond en douceur signifie qu&#39;un problème s&#39;est produit lors de la remise du courriel à la personne ; cela se résout automatiquement et peut parfois prendre des jours. Les rebonds durs et doux se composent de [plusieurs catégories](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Classification de rebond {#bounce-classification}
 
