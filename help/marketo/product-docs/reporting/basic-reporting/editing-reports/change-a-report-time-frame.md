@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: Modification de la période d’un rapport - Documents marketing - Documentation du produit
 title: Modification de la période d’un rapport
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Modification de la période d’un rapport {#change-a-report-time-frame}
 
 Modifiez la période couverte par votre rapport afin de vous concentrer sur un moment précis d’activité.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Accédez à la zone Activités **** marketing (ou **Analytics**).
 
