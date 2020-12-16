@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: Scores simples - Documents marketing - Documentation du produit
 title: Score simple
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,10 @@ ht-degree: 0%
 
 # Score simple {#simple-scoring}
 
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
 >* [Configurer et Ajouter une personne](get-set-up-and-add-a-person.md)
 >* [landing page avec un formulaire](landing-page-with-a-form.md)
-
->
-
 
 
 ## Étape 1 : Création d’une Campaign de score {#step-create-a-scoring-campaign}
@@ -68,11 +59,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Si vous avez rempli le [Landing page avec un formulaire](landing-page-with-a-form.md) de victoire rapide, vous devriez avoir le formulaire. Si vous avez utilisé un autre nom pour votre formulaire, sélectionnez-le.
+   >Si vous avez rempli le [Landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) de victoire rapide, vous devriez avoir le formulaire. Si vous avez utilisé un autre nom pour votre formulaire, sélectionnez-le.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Cliquez sur l&#39;onglet **Flux **.
+1. Cliquez sur l’onglet **Flux** .
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
@@ -86,7 +77,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Les campagnes de notation de qualité sont essentielles pour fournir des personnes de qualité aux ventes. Consultez [**le Guide de définition du score**](http://www.marketo.com/definitive-guides/lead-scoring/)de piste.
+   >Les campagnes de notation de qualité sont essentielles pour fournir des personnes de qualité aux ventes. Consultez [**le Guide de définition du score**](https://www.marketo.com/definitive-guides/lead-scoring/)de piste.
 
 1. Cliquez sur l’onglet **Planification** et sur le bouton **Activer** .
 
@@ -102,7 +93,7 @@ ht-degree: 0%
 
 ## Étape 2 : Remplir le formulaire {#step-fill-out-the-form}
 
-1. Sélectionnez le landing page que vous avez créé dans le [Landing page avec un formulaire](landing-page-with-a-form.md) obtenu rapidement.
+1. Sélectionnez le landing page que vous avez créé dans le [Landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) obtenu rapidement.
 
    ![](assets/fourteen-1.png)
 
@@ -110,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. Remplissez le formulaire avec votre prénom, votre nom et votre adresse électronique, puis cliquez sur **Envoyer** .
+1. Renseignez le formulaire avec votre prénom, votre nom et votre adresse électronique, puis cliquez sur **Envoyer**.
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 
@@ -137,4 +128,6 @@ Les détails de votre personne s&#39;ouvriront dans un nouvel onglet ou une nouv
 ![](assets/twenty.png)
 
 **Félicitations !** Vous avez créé une campagne de score.
-[Mission 2 : landing page avec un formulaire](landing-page-with-a-form.md) [Mission 4 : ► Réponse automatique par courriel](email-auto-response.md)
+[Mission 2 : landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+
+[Mission 4 : ► Réponse automatique par courriel](/help/marketo/getting-started/quick-wins/email-auto-response.md)
