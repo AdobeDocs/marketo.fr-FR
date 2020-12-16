@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: Rapports de personnes de groupe par attribut - Documents marketing - Documentation du produit
 title: Rapports des personnes de groupe par attribut
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rapports des personnes de groupe par attribut {#group-person-reports-by-attribute}
 
 Vous pouvez regrouper les rapports [de](http://docs.marketo.com/display/docs/basic+reporting) personne selon n’importe quelle personne ou attribut de société.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Accédez à la zone Activités **** marketing (ou **Analytics**).
 
