@@ -3,21 +3,15 @@ unique-page-id: 7515131
 description: Synchronisation SFDC - Suppression d’une piste/d’un contact - Documents marketing - Documentation du produit
 title: Synchronisation SFDC - Suppression d’une piste/d’un contact
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Synchronisation SFDC : Suppression d&#39;une piste/d&#39;un contact {#sfdc-sync-deleting-a-lead-contact}
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Voici quelques détails :
 
