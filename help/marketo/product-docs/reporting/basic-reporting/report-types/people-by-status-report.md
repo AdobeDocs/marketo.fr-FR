@@ -3,9 +3,9 @@ unique-page-id: 2360012
 description: Rapport Personnes par statut - Documents marketing - Documentation du produit
 title: Rapport Personnes par état
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rapport Personnes par état {#people-by-status-report}
 
 Examinez comment vous déplacez les personnes tout au long du processus en vérifiant combien d&#39;entre elles apparaissent dans chaque valeur de statut *de* personne chaque mois.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. [Créez un rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le type **de** rapport [Personnes par état](report-type-overview.md).
 1. [Définissez la période du rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) et cliquez sur l’onglet **Rapport** .
