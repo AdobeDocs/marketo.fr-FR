@@ -3,9 +3,9 @@ unique-page-id: 2359410
 description: Envoyer un courrier électronique - Documents marketing - Documentation du produit
 title: Envoyer un courriel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,9 @@ ht-degree: 0%
 
 C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail depuis Marketo !
 
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurer et Ajouter une personne](get-set-up-and-add-a-person.md)
-
->
-
-
+>[Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## Créer un Programme de messagerie {#create-an-email-program}
 
@@ -39,7 +29,7 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 
    ![](assets/two-1.png)
 
-1. Saisissez un **Nom **et sélectionnez **Courriel** pour le type de **Programme.**
+1. Saisissez un **nom** et sélectionnez **Courriel** pour le type de **Programme.**
 
    >[!TIP]
    >
@@ -47,11 +37,9 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 
    ![](assets/three.png)
 
-1. Sous **Canal, **sélectionnez Envoyer** par **courriel et cliquez sur** Créer **.** **
+1. Sous **Canal**, sélectionnez Envoyer **par** courriel et cliquez sur **Créer**.
 
-   ** ![](assets/image2015-3-2-16-3a25-3a18.png)
-
-   **
+   ![](assets/image2015-3-2-16-3a25-3a18.png)
 
 ## Définir votre Audience {#define-your-audience}
 
@@ -73,10 +61,7 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >Si votre courriel n&#39;est pas renseigné automatiquement, vous avez peut-être oublié de [configurer et d&#39;Ajouter une piste.](get-set-up-and-add-a-person.md)
+   >Si votre courriel n&#39;est pas renseigné automatiquement, vous avez peut-être oublié de [configurer et d&#39;Ajouter une piste.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
@@ -94,7 +79,7 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. Saisissez un **nom**, sélectionnez un **modèle**, puis cliquez sur** Créer**.
+1. Saisissez un **nom**, sélectionnez un **modèle**, puis cliquez sur **Créer**.
 
    ![](assets/ten-1.png)
 
@@ -106,7 +91,7 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
    >
    >Si vous disposez d’un bloqueur de fenêtres contextuelles, cliquez sur **Modifier le brouillon** pour entrer dans l’éditeur de courrier électronique.
 
-1. Sélectionnez la zone à modifier, cliquez sur l&#39;icône d&#39;engrenage à droite, puis sélectionnez **Modifier ** (vous pouvez également cliquer sur la section modifiable en doublon pour la modifier).
+1. Sélectionnez la zone à modifier, cliquez sur l&#39;icône d&#39;engrenage à droite, puis sélectionnez **Modifier** (vous pouvez également cliquer sur la section modifiable en doublon pour la modifier).
 
    ![](assets/twelve.png)
 
@@ -124,7 +109,7 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 
    >[!TIP]
    >
-   >Souhaitez-vous envoyer un échantillon rapide pour voir à quoi ressemble votre courriel avant de le lancer ? Sélectionnez **Envoyer l’exemple** dans le menu ci-dessus ou cliquez sur Actions **par** courriel, puis [**Envoyer l’exemple**](../../product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
+   >Souhaitez-vous envoyer un échantillon rapide pour voir à quoi ressemble votre courriel avant de le lancer ? Sélectionnez **Envoyer l’exemple** dans le menu ci-dessus ou cliquez sur Actions **par** courriel, puis [**Envoyer l’exemple**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
 
 1. Sélectionnez le Programme de courriel dans l’arborescence de gauche.
 
@@ -140,7 +125,7 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 
    >[!TIP]
    >
-   >Le fuseau horaire par défaut n&#39;est-il pas le vôtre ? Découvrez comment le [mettre à jour ici](https://docs.marketo.com/display/DOCS/Select+Your+Language,+Locale+and+Time+Zone#SelectYourLanguage,LocaleandTimeZone-ChangeUserLanguage,Locale&amp;Timezone).
+   >Le fuseau horaire par défaut n&#39;est-il pas le vôtre ? Découvrez comment le [mettre à jour ici](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
 
 1. Cliquez sur **Approuver le Programme** sous le volet Approbation et vous avez terminé !
 
@@ -150,4 +135,6 @@ Vous devriez recevoir le courriel peu après le jour/heure planifié.
 
 <br> 
 
-[Configurer et Ajouter un](get-set-up-and-add-a-person.md) Landing page de piste [avec un formulaire ►](landing-page-with-a-form.md)
+[et Ajouter une piste](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+
+[landing page avec un formulaire ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
