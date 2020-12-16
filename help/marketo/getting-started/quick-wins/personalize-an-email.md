@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: Personnaliser un courrier électronique - Documents marketing - Documentation du produit
 title: Personnaliser un courriel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,16 @@ ht-degree: 0%
 
 ## Mission : Personnaliser vos courriers électroniques en ajoutant des jetons de données {#mission-make-your-emails-personal-by-adding-data-tokens}
 
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurer et Ajouter une personne](get-set-up-and-add-a-person.md)
->* [Envoyer un courrier électronique](send-an-email.md)
->* [Déchets, gouttes, culture](drip-drip-nurture.md)
+>* [Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Envoyer un courrier électronique](/help/marketo/getting-started/quick-wins/send-an-email.md)
+>* [Déchets, gouttes, culture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
 ## Étape 1 : Sélectionner un courriel à personnaliser {#step-select-an-email-to-personalize}
 
-1. Sélectionnez l&#39;un des messages électroniques d&#39;accueil créés lors de la [précédente victoire](drip-drip-nurture.md) rapide et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez l&#39;un des messages électroniques d&#39;accueil créés lors de la [précédente victoire](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) rapide et cliquez sur **Modifier le brouillon**.
 
    ![](assets/one-4.png)
 
@@ -38,9 +32,7 @@ ht-degree: 0%
    >
    >Cette opération crée une copie du courrier électronique en tant que brouillon. Vous devez approuver le brouillon pour que les modifications soient mises en oeuvre.
 
-   **Modifier le brouillon**
-
-Si vous n&#39;avez pas activé de blocage des fenêtres contextuelles, l&#39;éditeur de messages électroniques s&#39;ouvre dans un nouvel onglet/une nouvelle fenêtre. Sinon, cliquez deux fois.
+Si vous n&#39;avez pas activé de blocage des fenêtres contextuelles, l&#39;éditeur de messages électroniques s&#39;ouvre dans un nouvel onglet/une nouvelle fenêtre. Sinon, cliquez deux fois sur **Modifier le brouillon** .
 
 ## Étape 2 : Faire du vendeur l&#39;expéditeur {#step-make-the-salesperson-the-sender}
 
@@ -108,11 +100,7 @@ Si vous n&#39;avez pas activé de blocage des fenêtres contextuelles, l&#39;éd
 
 >[!TIP]
 >
->Vous avez besoin d&#39;une actualisation rapide de la façon de vous envoyer le courriel ? Voir [Envoyer un message électronique](send-an-email.md).
-
-### Regarder une vidéo {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/iRnqxMyJg6VKyuPeuxmHFb.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>Vous avez besoin d&#39;une actualisation rapide de la façon de vous envoyer le courriel ? Voir [Envoyer un message électronique](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 ### Fin de la mission {#mission-complete}
 
@@ -120,4 +108,6 @@ Félicitations, vous avez personnalisé votre e-mail !
 
 <br> 
 
-[Mission 6 : Déchets, gouttes d&#39;eau,](drip-drip-nurture.md) mission d&#39;éducation [8 : Alerter le représentant légal ►](alert-the-sales-rep.md)
+[Mission 6 : Déchets, gouttes, culture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+
+[Mission 8 : Alerter le représentant légal ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
