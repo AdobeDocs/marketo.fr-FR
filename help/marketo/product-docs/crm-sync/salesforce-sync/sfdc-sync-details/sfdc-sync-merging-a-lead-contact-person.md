@@ -3,21 +3,15 @@ unique-page-id: 7515133
 description: Synchronisation SFDC - Fusionner une piste/un contact/une personne - Documents marketing - Documentation du produit
 title: Synchronisation SFDC - Fusionner une piste/un contact/une personne
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
 
 # Synchronisation SFDC : Fusion d&#39;une piste, d&#39;un contact ou d&#39;une personne {#sfdc-sync-merging-a-lead-contact-person}
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Parfois, il est préférable de simplement liste les règles. Et voici :
 
