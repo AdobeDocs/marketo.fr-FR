@@ -3,9 +3,9 @@ unique-page-id: 2360014
 description: Rapport sur les performances des personnes - Documents marketing - Documentation du produit
 title: Rapport Performance des personnes
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rapport Performance des personnes {#people-performance-report}
 
 Utilisez un rapport sur les performances des personnes pour mesurer la croissance de la base de données au fil du temps. Vous pouvez voir combien de personnes vous avez ajoutées et quand. En savoir plus sur les gens et évaluer vos programmes. Regroupez les résultats par personne ou attribut de société, ou par [segmentation](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. [Créez un rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le type **de** rapport Performance [des](report-type-overview.md)personnes.
 1. [Définissez la période du rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) et cliquez sur l’onglet **Rapport** .
