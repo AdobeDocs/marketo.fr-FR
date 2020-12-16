@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Déchets, gouttes d'eau, nourriture - Docs Marketo - Documentation sur le produit
 title: Déchets, gouttes, culture
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,10 @@ ht-degree: 0%
 
 Vous pouvez facilement créer un système de culture avancé et sophistiqué dans Marketo. Voilà comment !
 
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurer et Ajouter une personne](get-set-up-and-add-a-person.md)
->* [Importer une Liste de personnes](import-a-list-of-people.md)
-
->
-
+>* [Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Importer une Liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 ## Étape 1 : Créer un Programme d’engagement {#step-create-an-engagement-program}
@@ -68,7 +59,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    >[!NOTE]
    >
-   >Vous ne voyez pas l’éditeur de courrier électronique ? Votre navigateur a probablement bloqué la fenêtre. Activez les fenêtres contextuelles [app.marketo.com](http://app.marketo.com) dans votre navigateur et cliquez sur **Modifier le brouillon** dans la barre de menus supérieure.
+   >Vous ne voyez pas l’éditeur de courrier électronique ? Votre navigateur a probablement bloqué la fenêtre. Activez les fenêtres contextuelles [app.marketo.com](https://app.marketo.com) dans votre navigateur et cliquez sur **Modifier le brouillon** dans la barre de menus supérieure.
 
 1. Entrez un objet.
 
@@ -92,9 +83,6 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >N&#39;oubliez pas d&#39;approuver vos courriels ou vous ne pourrez pas les activer plus tard.
 
 1. Créez maintenant un autre courrier électronique en répétant les actions de l’étape 2.
@@ -104,6 +92,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 ## Étape 3 : Ajouter du contenu à votre flux {#step-add-content-to-your-stream}
 
 1. Il est maintenant temps de créer un flux de contenu pour votre programme d’engagement à l’aide des courriels que vous avez créés.
+
 1. Sélectionnez votre programme d’engagement, puis cliquez sur l’onglet **Flux** .
 
    ![](assets/fourteen-2.png)
@@ -114,11 +103,11 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    >[!TIP]
    >
-   >Vous pouvez également utiliser le bouton **Ajouter le contenu** ou l’icône **+ ** du flux.
+   >Vous pouvez également utiliser le bouton **Ajouter le contenu** ou l’icône de flux **+** .
 
 ## Étape 4 : Activer le contenu du flux {#step-activate-stream-content}
 
-1. Activez tout le contenu en même temps en cliquant sur l’icône représentant un engrenage de flux, puis en cliquant sur **Activer tout le contenu** .
+1. Activez tout le contenu en même temps en cliquant sur l’icône représentant un engrenage de flux, puis en cliquant sur **Activer tout le contenu**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -134,7 +123,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    ![](assets/seventeen.png)
 
-1. Modifiez les paramètres en fonction de la planification souhaitée, puis cliquez sur **ENREGISTRER**.
+1. Modifiez les paramètres en fonction de la planification souhaitée, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -167,15 +156,15 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
    ![](assets/twenty-two.png)
 
 1. Mission terminée !
+
 1. Vous devriez recevoir un courriel à l’heure et à la cadence que vous avez indiquées.
 
    >[!NOTE]
    >
-   >**Plongée profonde**
-   >
-   >
-   >En savoir plus sur les Programmes [](http://docs.marketo.com/display/docs/drip+nurturing)d’engagement.
+   >En savoir plus sur les Programmes [](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)d’engagement.
 
 <br> 
 
-[Mission 5 : Importer une Liste de la](import-a-list-of-people.md) mission Leads [7 : Personnaliser un courriel ►](personalize-an-email.md)
+[Mission 5 : Importer une Liste de pistes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+
+[Mission 7 : Personnaliser un courriel ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
