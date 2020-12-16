@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: Nettoyage Campaign de déclencheur automatique - Docs marketing - Documentation du produit
 title: Nettoyage Campaign de déclencheur automatique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Nettoyage Campaign de déclencheur automatique {#automatic-trigger-campaign-cleanup}
 
 Marketo dispose d’un service agréable/gratuit pour désactiver les campagnes dynamiques déclenchées qui ne reçoivent plus d’activité. Cela accélère les performances globales du système et vous fait gagner du temps.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Que se passe-t-il ? {#what-happens}
 
