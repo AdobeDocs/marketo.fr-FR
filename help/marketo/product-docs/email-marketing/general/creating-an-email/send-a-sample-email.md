@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Envoyer un exemple de courrier électronique - Documents marketing - Documentation du produit
 title: Envoyer un exemple de courrier électronique
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Envoyer un exemple de courrier électronique {#send-a-sample-email}
 
 Il est facile et rapide d&#39;envoyer des échantillons d&#39;un courriel. Pour envoyer un message électronique de contenu dynamique, voir [Prévisualisation d’un message électronique avec du contenu](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)dynamique.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
