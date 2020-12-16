@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Mises à jour de la terminologie de Marketo - Documents marketing - Documentation du produit
 title: Mises à jour de la terminologie du marketing
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -150,4 +150,3 @@ Outre le changement de nom, il comprend désormais quatre applications distincte
 >Les mosaïques visibles sur votre écran d’accueil reflètent les modules achetés.
 
 Merci pour votre patience durant cette mise à jour.
-
