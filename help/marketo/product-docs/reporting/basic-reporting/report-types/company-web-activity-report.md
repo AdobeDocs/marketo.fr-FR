@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Rapport sur les Activités Web société - Documents marketing - Documentation du produit
 title: Rapport Activité Web société
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rapport Activité Web société {#company-web-activity-report}
 
 déterminer les sociétés qui visitent votre site Web ; Vous pouvez choisir d’afficher des visiteurs connus ou anonymes, mais pas les deux dans le même rapport.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Créez un rapport [Activité de page](web-page-activity-report.md) Web pour identifier les personnes qui visitent votre site.
 
