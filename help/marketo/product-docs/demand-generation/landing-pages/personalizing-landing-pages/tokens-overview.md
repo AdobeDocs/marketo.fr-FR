@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Présentation des jetons - Documents marketing - Documentation du produit
 title: Présentation des jetons
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Présentation des jetons {#tokens-overview}
 
 Un jeton est une variable qui peut être utilisée dans les étapes de flux de campagne [](http://docs.marketo.com/display/DOCS/Smart+Campaigns) intelligente de Marketo, les [courriels](http://docs.marketo.com/display/DOCS/General), les [landings page](http://docs.marketo.com/display/DOCS/Landing+Pages), les [fragments et les campagnes Web.](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)[](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Présentation des valeurs par défaut {#understanding-default-values}
 
