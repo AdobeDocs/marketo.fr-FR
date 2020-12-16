@@ -3,9 +3,9 @@ unique-page-id: 7516241
 description: Synchronisation SFDC - File d’attente des pistes - Documents marketing - Documentation du produit
 title: Synchronisation SFDC - File d’attente des pistes
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Synchronisation SFDC : File d&#39;attente de piste {#sfdc-sync-lead-queue}
 
 Marketo vous permet d&#39;ajouter des personnes aux files d&#39;attente [de pistes](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) Salesforce pour faciliter la distribution de pistes. Voici les détails.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Comment affecter une personne à une file d&#39;attente dans Marketo ? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
