@@ -3,21 +3,15 @@ unique-page-id: 10098812
 description: Configurer l'attribution des recettes pour les campagnes de publicité numérique - Documents marketing - Documentation du produit
 title: Configurer l’attribution des recettes pour les campagnes de publicité numérique
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
 
 
 # Configurer l’attribution des recettes pour les campagnes de publicité numérique {#set-up-revenue-attribution-for-digital-advertising-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Voici comment configurer l’attribution des recettes pour les canaux et campagnes de publicité numérique. Après l’avoir configuré, vous pouvez attribuer des recettes Première touche et Multipoint aux annonces numériques de la même manière que dans les autres programmes du marché.
 
