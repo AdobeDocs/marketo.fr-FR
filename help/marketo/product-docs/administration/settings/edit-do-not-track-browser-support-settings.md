@@ -3,21 +3,15 @@ unique-page-id: 6095047
 description: Modifier les paramètres de prise en charge du navigateur - Documents marketing - Documentation du produit
 title: Modifier les paramètres de prise en charge du navigateur "Ne pas suivre"
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 
 # Modifier les paramètres de prise en charge du navigateur &quot;Ne pas suivre&quot; {#edit-do-not-track-browser-support-settings}
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 &quot;Ne pas suivre&quot; est une demande de navigateur à ne pas suivre dans des systèmes tels que Marketo. Vous pouvez honorer cette demande en procédant comme suit.
 
