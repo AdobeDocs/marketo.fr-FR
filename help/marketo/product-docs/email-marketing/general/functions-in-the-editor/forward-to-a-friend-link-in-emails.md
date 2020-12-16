@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Transférer vers un lien d'ami dans les courriels - Documents marketing - Documentation du produit
 title: Transférer vers un lien d'ami dans les courriels
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 Ajouter le lien &quot;Transférer à un ami&quot; à vos courriels vous permet de suivre les personnes qui ont reçu un courriel transféré par ce lien et de les ajouter automatiquement en tant que nouvelle personne si elles ne sont pas déjà dans la base de données.
 
 Par exemple, supposons que Keith utilise le lien &quot;Transférer à un ami&quot; pour transférer le courriel à une personne inconnue, Mark. Mark est automatiquement ajouté en tant que nouvelle personne, se voit attribuer son propre cookie, et toute de ses e-mails et activités web est liée à lui. Cependant, si Keith utilise le bouton Avance dans son client de messagerie, Mark reçoit un cookie incorrect en tant que Keith et son activité est enregistrée en tant que Keith.
-
->[!NOTE]
->
->**FYI**
->
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Ajouter le lien vers un modèle de courrier électronique {#add-the-link-to-an-email-template}
 
