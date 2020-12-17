@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Avez-vous déjà un fichier CSV rempli de comptes de cible potentiels ? Importez-les directement dans ABM !
 
-1. Cliquez sur la liste déroulante **Nouveau** et sélectionnez **Importer des comptes** nommés.
+1. Cliquez sur la liste déroulante **New** et sélectionnez **Importer des comptes nommés**.
 
    ![](assets/inaone.png)
 
@@ -25,17 +25,17 @@ Avez-vous déjà un fichier CSV rempli de comptes de cible potentiels ? Importez
 
    >[!TIP]
    >
-   >Dans votre fichier, fournissez [autant d’informations](http://docs.marketo.com/display/DOCS/Named+Account+Overview#NamedAccountOverview-NamedAccountAttributes) que possible. Vous pouvez uniquement ajouter des informations de fimographie ; rien que Marketo calcule (c.-à-d. Pipeline). Pour créer des comptes nommés basés sur des comptes CRM, il vous suffit d’exporter le nom du compte et l’identifiant de gestion de la relation client de votre gestion de la relation client dans un fichier CSV, d’utiliser l’option Nom du compte et de mapper l’identifiant de gestion de la relation client au cours du processus d’importation. Pour lier correctement un compte CRM à un compte nommé, vous devez indiquer le nom exact du compte CRM.
+   >Dans votre fichier, fournissez [autant d&#39;informations](http://docs.marketo.com/display/DOCS/Named+Account+Overview#NamedAccountOverview-NamedAccountAttributes) que possible. Vous pouvez uniquement ajouter des informations de fimographie ; rien que Marketo calcule (c.-à-d. Pipeline). Pour créer des comptes nommés basés sur des comptes CRM, il vous suffit d’exporter le nom du compte et l’identifiant de gestion de la relation client de votre gestion de la relation client dans un fichier CSV, d’utiliser l’option Nom du compte et de mapper l’identifiant de gestion de la relation client au cours du processus d’importation. Pour lier correctement un compte CRM à un compte nommé, vous devez indiquer le nom exact du compte CRM.
 
-1. Choisissez entre deux modes de déduplication : Nom du compte ou nom de domaine. Dans cet exemple, nous allons choisir Compte. Cliquez sur la liste déroulante **Modes** et sélectionnez **Par nom** de compte.
+1. Choisissez entre deux modes de déduplication : Nom du compte ou nom de domaine. Dans cet exemple, nous allons choisir Compte. Cliquez sur la liste déroulante **Modes** et sélectionnez **Par nom de compte**.
 
    ![](assets/inathree.png)
 
    >[!NOTE]
    >
-   >Si vous choisissez **Par mode** de domaine, les champs de compte et de domaine nommés doivent être inclus.
+   >Si vous choisissez **Par mode de domaine**, les champs de compte et de domaine nommés doivent être inclus.
 
-1. Pour choisir à quelle liste de compte votre compte nommé est ajouté, cliquez sur la liste déroulante Liste **de** compte et faites votre sélection.
+1. Pour choisir à quelle liste de compte votre compte nommé est ajouté, cliquez sur la liste déroulante **Liste de compte** et faites votre sélection.
 
    ![](assets/inafour.png)
 
@@ -43,7 +43,7 @@ Avez-vous déjà un fichier CSV rempli de comptes de cible potentiels ? Importez
    >
    >Vous pouvez également créer une toute nouvelle Liste de compte en saisissant simplement son nom dans la liste déroulante.
 
-1. Pour envoyer une notification de l’importation, cliquez sur la liste déroulante **Envoyer une alerte à** et sélectionnez un utilisateur Marketing Cloud. Vous *ne pouvez pas* saisir manuellement une adresse électronique.
+1. Pour envoyer une notification de l’importation, cliquez sur la liste déroulante **Envoyer l’alerte à** et sélectionnez un utilisateur Marketing. Vous *ne pouvez pas* saisir manuellement une adresse électronique.
 
    ![](assets/inafive-2.png)
 
@@ -51,7 +51,7 @@ Avez-vous déjà un fichier CSV rempli de comptes de cible potentiels ? Importez
 
    ![](assets/inasix-2.png)
 
-1. Faites correspondre chaque champ en cliquant sur le doublon dans la liste déroulante Champ **** marketing et en sélectionnant le champ approprié. Lorsque vous avez terminé, cliquez sur **Suivant** .
+1. Faites correspondre chaque champ en cliquant sur le doublon dans la liste déroulante **Champ marketing** et en sélectionnant le champ approprié. Cliquez sur **Suivant** lorsque vous avez terminé.
 
    ![](assets/inaseven.png)
 
