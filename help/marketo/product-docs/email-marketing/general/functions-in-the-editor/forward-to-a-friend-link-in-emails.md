@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Transférer vers un lien d&#39;ami dans les courriels {#forward-to-a-friend-link-in-emails}
+# Transférer à un lien d&#39;ami dans les courriels {#forward-to-a-friend-link-in-emails}
 
 Ajouter le lien &quot;Transférer à un ami&quot; à vos courriels vous permet de suivre les personnes qui ont reçu un courriel transféré par ce lien et de les ajouter automatiquement en tant que nouvelle personne si elles ne sont pas déjà dans la base de données.
 
 Par exemple, supposons que Keith utilise le lien &quot;Transférer à un ami&quot; pour transférer le courriel à une personne inconnue, Mark. Mark est automatiquement ajouté en tant que nouvelle personne, se voit attribuer son propre cookie, et toute de ses e-mails et activités web est liée à lui. Cependant, si Keith utilise le bouton Avance dans son client de messagerie, Mark reçoit un cookie incorrect en tant que Keith et son activité est enregistrée en tant que Keith.
 
-## Ajouter le lien vers un modèle de courrier électronique {#add-the-link-to-an-email-template}
+## Ajouter le lien vers un modèle de courriel {#add-the-link-to-an-email-template}
 
-1. Accédez au **Design Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/one-8.png)
 
@@ -42,9 +42,9 @@ Par exemple, supposons que Keith utilise le lien &quot;Transférer à un ami&quo
 
    >[!CAUTION]
    >
-   >Il est déconseillé d’utiliser la **position de style:relative** dans votre modèle de courrier électronique. Il peut créer des problèmes avec la position et l&#39;affichage de la case &quot;Transférer à l&#39;ami&quot;.
+   >Il est déconseillé d’utiliser le style **position:relative** dans votre modèle de courrier électronique. Il peut créer des problèmes avec la position et l&#39;affichage de la case &quot;Transférer à l&#39;ami&quot;.
 
-1. Cliquez sur **Prévisualisation Brouillon** pour vous assurer que le modèle ressemble à ce que vous souhaitez.
+1. Cliquez sur **Version préliminaire de la Prévisualisation** pour vous assurer que le modèle ressemble à ce que vous souhaitez.
 
    ![](assets/four-5.png)
 
@@ -65,11 +65,11 @@ Vous pouvez également ajouter le lien &quot;Transférer à l&#39;ami&quot; dire
 
    ![](assets/five-4.png)
 
-1. Placez le curseur à l’endroit où vous souhaitez que le lien s’affiche, puis cliquez sur le bouton **Insérer un jeton** .
+1. Placez le curseur à l’endroit où vous souhaitez que le lien s’affiche et cliquez sur le bouton **Insérer un jeton**.
 
    ![](assets/six-2.png)
 
-1. Sélectionnez le **`{{system.forwardToFriendLink}}`** jeton.
+1. Sélectionnez le jeton **`{{system.forwardToFriendLink}}`**.
 
    ![](assets/seven-1.png)
 
@@ -81,11 +81,11 @@ Vous pouvez également ajouter le lien &quot;Transférer à l&#39;ami&quot; dire
 
    ![](assets/seven-1.png)
 
-1. Coupez le **`{{system.forwardToFriendLink}}`** jeton à l’aide des touches Ctrl+X (Windows) ou Cmd+X (Mac). Sélectionnez Transférer à un ami et cliquez sur le bouton **Insérer/Modifier le lien** .
+1. Coupez le jeton **`{{system.forwardToFriendLink}}`** en utilisant Ctrl+X (Windows) ou Cmd+X (Mac). Sélectionnez &quot;Transférer à un ami&quot; et cliquez sur le bouton **Insérer/Modifier le lien**.
 
    ![](assets/eight-1.png)
 
-1. Collez le **`{{system.forwardToFriendLink}}`** jeton dans la zone **URL** en utilisant Ctrl/Cmd+V, puis cliquez sur** Insérer**.
+1. Collez le jeton **`{{system.forwardToFriendLink}}`** dans la zone **URL** en utilisant Ctrl/Cmd+V, puis cliquez sur** Insérer**.
 
    ![](assets/nine.png)
 
@@ -101,7 +101,7 @@ Vous pouvez également ajouter le lien &quot;Transférer à l&#39;ami&quot; dire
 
 Vous pouvez voir qui a transféré et reçu les courriels dans le journal d&#39;Activité de la personne.
 
-1. Allez au **`Database`**.
+1. Accédez au **`Database`**.
 
    ![](assets/db.png)
 
@@ -109,7 +109,7 @@ Vous pouvez voir qui a transféré et reçu les courriels dans le journal d&#39;
 
    ![](assets/fourteen.png)
 
-1. Accédez à l’onglet Journal **des** Activités. Doublon-clic sur **Reçu pour envoyer à un ami le courriel** ou **Envoyé pour envoyer à un ami le courriel** pour afficher les détails.
+1. Accédez à l&#39;onglet **Journal des Activités**. Doublon-clic **Received Forward to Friend Email** or **Sent Forward to Friend Email** pour afficher les détails.
 
    ![](assets/fifteen.png)
 
@@ -131,16 +131,16 @@ Vous pouvez voir qui a transféré et reçu les courriels dans le journal d&#39;
 
    >[!NOTE]
    >
-   >Nous rendrons l&#39;ID **de** personne cliquable et créerons un lien direct vers la personne dans un correctif à venir.
+   >Nous rendrons l&#39;**ID de personne** cliquable et créerons un lien direct vers la personne dans un correctif à venir.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
    >Si l’ami recevant l’avance est une personne inconnue, une nouvelle personne est créée avec &quot;Transférer à l’ami&quot; marqué comme **Source** de la personne.\
-   >Si le courriel est un actif local d’un programme, le programme est marqué comme Programme **d’** acquisition de la personne.
+   >Si le courrier électronique est un actif local d’un programme, le programme est marqué comme **Programme d’acquisition** de la personne.
 
-## Déclencheur ou filtre à l’aide de l’Activité de transfert {#trigger-or-filter-using-forwarding-activity}
+## Déclencher ou filtrer à l’aide de l’Activité de transfert {#trigger-or-filter-using-forwarding-activity}
 
 Il existe six déclencheurs/filtres que vous pouvez utiliser pour déclencher des actions de flux ou filtrer les personnes en envoyant et en recevant une activité &quot;Transférer à l&#39;ami&quot;.
 
@@ -150,4 +150,4 @@ Dans la liste intelligente d’une campagne intelligente, si vous recherchez &qu
 
 ## Tester vers l&#39;ami {#test-forward-to-friend}
 
-Pour tester &quot;Transférer à un ami&quot;, envoyez-vous un courriel contenant le lien &quot;Transférer à un ami&quot;. Assurez-vous de l’envoyer par l’étape de flux **Envoyer un courriel** , *pas* par l’intermédiaire de **Envoyer un courriel** de test.
+Pour tester &quot;Transférer à un ami&quot;, envoyez-vous un courriel contenant le lien &quot;Transférer à un ami&quot;. Assurez-vous de l’envoyer par l’étape de flux **Envoyer un courriel**, *pas* par **Envoyer un courriel de test**.
