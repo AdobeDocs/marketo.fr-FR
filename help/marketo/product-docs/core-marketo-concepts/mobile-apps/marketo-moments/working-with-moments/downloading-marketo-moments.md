@@ -17,13 +17,13 @@ Téléchargez Moments marketing depuis l’App Store ou Google Play et voilà ! 
 
 ## Pour iPhone {#for-iphone}
 
-1. Accédez à l’ [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).\
+1. Accédez à l’[App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).\
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
 1. Recherchez Moments marketing et sélectionnez-le.\
    ![](assets/image2015-7-7-17-3a19-3a7.png)
 
-1. Ensuite, appuyez sur **Ouvrir**.\
+1. Appuyez ensuite sur **Ouvrir**.\
    ![](assets/image2015-7-7-17-3a20-3a51.png)
 
 ## Pour Android {#for-android}
