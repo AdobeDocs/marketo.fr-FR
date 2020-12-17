@@ -23,11 +23,11 @@ Une fois par trimestre, Marketo trouvera des campagnes intelligentes qui sont re
 
 Bien sûr ! Une fois par trimestre, vous recevrez une notification une semaine à l’avance, indiquant chaque campagne que nous prévoyons de désactiver.
 
-1. Accédez à l’onglet **Notifications** .
+1. Accédez à l&#39;onglet **Notifications**.
 
    ![](assets/notifications.png)
 
-1. Cliquez sur **Idle Trigger Campaign Cleanup Scheduled**. Cliquez ensuite sur le **lien **Ces campagnes de déclenchement inactives seront désactivées.** **
+1. Cliquez sur **Déclenchement inactif du nettoyage Campaign planifié**. Cliquez ensuite sur le lien **Ces campagnes déclencheurs d&#39;inactivité seront désactivées **.** **
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
@@ -52,7 +52,7 @@ Le compteur de 6 mois est réinitialisé.
 
 Absolument : une semaine après la notification initiale, nous désactiverons les campagnes répertoriées (moins celles qui ont qualifié au moins une personne ou ont été désactivées/réactivées) et publierons une notification de confirmation.
 
-1. Sélectionnez la **notification **Idle Trigger Campaign Cleanup Scheduled **notification. Cliquez sur le lien **Ces campagnes** de déclenchement inactif.
+1. Sélectionnez la **notification **Idle Trigger Campaign Cleanup Scheduled **notification. Cliquez sur le lien **Ces campagnes de déclenchement inactif**.
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 
