@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Configuration des rapports ABM {#abm-report-setup}
+# Configuration du rapport ABM {#abm-report-setup}
 
 Le rapport Ventes d&#39;ABM est un courriel hebdomadaire personnalisé envoyé à l&#39;équipe du compte.
 
-## Configuration des rapports {#report-setup}
+## Configuration du rapport {#report-setup}
 
 1. Cliquez sur **Admin**.
 
@@ -33,11 +33,11 @@ Le rapport Ventes d&#39;ABM est un courriel hebdomadaire personnalisé envoyé �
 
    ![](assets/four-4.png)
 
-1. Pour déterminer la mise en page de votre courriel, cliquez sur la liste **déroulante Trier par** et effectuez une sélection.
+1. Pour déterminer la mise en page de votre courrier électronique, cliquez sur la liste déroulante **Trier par** et effectuez une sélection.
 
    ![](assets/five-3.png)
 
-1. Cochez la case **Utilisateurs** , puis cliquez sur la liste déroulante et sélectionnez les destinataires du courrier électronique.
+1. Cochez la case **Utilisateurs**, puis cliquez sur la liste déroulante et sélectionnez qui recevoir le courrier électronique.
 
    ![](assets/six-2.png)
 
@@ -53,7 +53,7 @@ Et c&#39;est tout !
 
 ## Comment se désabonner {#how-to-unsubscribe}
 
-Chaque rapport comporte l’option de opt-out. Pour ce faire, il vous suffit de cliquer sur **Désabonner** au bas du courriel.
+Chaque rapport comporte l’option de opt-out. Pour ce faire, il vous suffit de cliquer sur **Désabonner** au bas du courrier électronique.
 
 ![](assets/eight-1.png)
 
@@ -75,7 +75,7 @@ Chaque rapport comporte l’option de opt-out. Pour ce faire, il vous suffit de 
 
    ![](assets/ten.png)
 
-1. Sélectionnez l’utilisateur que vous souhaitez de nouveau recevoir des courriers électroniques, puis cliquez sur **Resubscribe**.
+1. Sélectionnez l’utilisateur que vous souhaitez de nouveau recevoir des courriers électroniques et cliquez sur **Reprendre**.
 
    ![](assets/eleven.png)
 
