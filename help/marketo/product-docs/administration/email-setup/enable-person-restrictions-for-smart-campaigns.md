@@ -23,7 +23,7 @@ Il existe une fonctionnalité dans Marketo qui limite le ***maximum ***nombre de
 >
 >Ceci s’applique uniquement aux campagnes par lots et aux programmes électroniques.
 
-1. Cliquez sur **Admin **puis sur **Smart Campaign**.
+1. Cliquez sur **Admin **puis sur **Campaign dynamique**.
 
    ![](assets/image2014-9-18-15-3a58-3a29.png)
 
@@ -48,7 +48,7 @@ Il existe une fonctionnalité dans Marketo qui limite le ***maximum ***nombre de
    >[!CAUTION]
    >
    >
-   >Cette limite s’applique à toutes les campagnes intelligentes, mais elle peut être remplacée au niveau de la campagne. Découvrez comment [remplacer les restrictions de personne dans une campagne](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)intelligente.
+   >Cette limite s’applique à toutes les campagnes intelligentes, mais elle peut être remplacée au niveau de la campagne. Découvrez comment [remplacer les restrictions de personne dans une campagne dynamique](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 Bingo ! Vous venez d&#39;allumer l&#39;interrupteur de sécurité. Bonne idée, n&#39;est-ce pas ?
 
