@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifier les paramètres de prise en charge du navigateur &quot;Ne pas suivre&quot; {#edit-do-not-track-browser-support-settings}
+# Modifier les paramètres de prise en charge du navigateur {#edit-do-not-track-browser-support-settings}
 
 &quot;Ne pas suivre&quot; est une demande de navigateur à ne pas suivre dans des systèmes tels que Marketo. Vous pouvez honorer cette demande en procédant comme suit.
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Sous Suivi des **personnes**, cliquez sur **Modifier**.
+1. Sous **Suivi des personnes**, cliquez sur **Modifier**.
 
    ![](assets/three-2.png)
 
-1. Sélectionnez **Assistance** et cliquez sur **Enregistrer**.
+1. Sélectionnez **Support** et cliquez sur **Enregistrer**.
 1. ![](assets/four-1.png)
 
    Après avoir enregistré les modifications, vous verrez la mise à jour.
