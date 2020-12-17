@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La page des détails de la personne contient toutes les informations que Marketo connaît sur une personne. Vous pouvez modifier les données directement à partir de cette page.
 
-## Page Détails de l’accès à la personne {#getting-to-person-detail-page}
+## Accès à la page de détails de la personne {#getting-to-person-detail-page}
 
 Il y a beaucoup de façons d&#39;ouvrir des personnes spécifiques. Vous trouverez ci-dessous quelques exemples.
 
@@ -23,10 +23,10 @@ Il y a beaucoup de façons d&#39;ouvrir des personnes spécifiques. Vous trouver
 >
 >**Exemple**
 >
->* La **base de données** vous permet de rechercher dans la section Recherche rapide
+>* A partir de la **base de données**, vous pouvez effectuer une recherche dans la section Recherche rapide
 >* Toute **liste** ou liste intelligente
->* **Onglet Membres** d’un programme
->* **Vue des membres** Campaign dans un Campaign intelligent
+>* **Tabulation** d&#39;un programme
+>* **Vue des** membres Campaign dans un Campaign intelligent
 >* Certains **rapports**
 
 >
@@ -65,7 +65,7 @@ Les informations sur les personnes sont classées dans les onglets suivants :
 | Champ de piste Microsoft | Champs Microsoft intégrés. |
 | Journal des Activités | Toutes les activités liées à la personne. |
 
-## Modification d’un champ {#editing-a-field}
+## Modification d&#39;un champ {#editing-a-field}
 
 De nombreux champs sont modifiables. Pour mettre à jour les informations d’une personne, entrez une nouvelle valeur et cliquez en dehors du champ pour enregistrer.
 
@@ -98,7 +98,7 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 >
 >**Plongée profonde**
 >
->Certains champs *ne sont pas* modifiables :
+>Certains champs sont *non* modifiables :
 >
 >* Informations sur la société
 >* Possibilités de contacts avec la DDC
@@ -107,7 +107,7 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 
 >
 >
-En savoir plus sur les champs [gérés par](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)le système.
+En savoir plus sur [Champs gérés par le système](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
