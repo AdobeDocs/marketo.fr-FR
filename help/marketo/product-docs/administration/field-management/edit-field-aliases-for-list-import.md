@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifier les alias de champ pour l’importation de Liste {#edit-field-aliases-for-list-import}
+# Modifier les alias de champ pour l&#39;importation de Liste {#edit-field-aliases-for-list-import}
 
 Lorsque vous importez une liste avec des en-têtes inconnus, vous pouvez créer des alias de champ pour la faciliter. Vous pouvez également modifier ces alias dans la gestion des sites. Regardez-le.
 
@@ -37,7 +37,7 @@ Lorsque vous importez une liste avec des en-têtes inconnus, vous pouvez créer 
 
 >[!TIP]
 >
->Cliquez sur **Ajouter un autre** et saisissez d’autres alias si nécessaire.
+>Cliquez sur **Ajouter un autre** et saisissez d’autres alias si vous en avez besoin.
 
 Regardez ça ! Désormais, si vous importez une feuille de calcul avec une colonne nommée &quot;DOB&quot;, Marketo la reconnaîtra automatiquement comme &quot;Date de naissance&quot; et importera les données dans le champ approprié.  ![](assets/image2014-9-19-9-3a57-3a20.png)
 
