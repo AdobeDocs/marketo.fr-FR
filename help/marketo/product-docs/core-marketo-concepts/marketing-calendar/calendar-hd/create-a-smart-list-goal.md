@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Les objectifs sont des moyens de suivre les progrès et de motiver votre équipe. Ils peuvent être combinés à des listes intelligentes pour suivre toutes sortes de choses sur le marché. De plus, une fois que vous avez configuré un objectif de liste intelligent, il se met automatiquement à jour toutes les 2 heures lorsqu&#39;il est utilisé dans une présentation.
 
-Tout comme les présentations, les objectifs sont spécifiques à [l’espace](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)de travail.
+Comme pour les présentations, les objectifs sont spécifiques à [l&#39;espace de travail](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Accédez au **calendrier**.
+1. Accédez au **Calendrier**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -33,11 +33,11 @@ Tout comme les présentations, les objectifs sont spécifiques à [l’espace](.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Saisissez un nom pour l’objectif et une Cible **d’** objectif. Cliquez ensuite sur **Créer**.
+1. Saisissez un nom pour l’objectif et une **Cible d’objectif**. Cliquez ensuite sur **Créer**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [Définissez la liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)intelligente. Les possibilités sont infinies !
+1. [Définissez la liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) intelligente. Les possibilités sont infinies !
 
    ![](assets/mql.png)
 
