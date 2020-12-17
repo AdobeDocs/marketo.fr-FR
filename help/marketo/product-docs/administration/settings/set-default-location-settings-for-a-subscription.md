@@ -21,7 +21,7 @@ Cet article décrit comment un administrateur peut vue et modifier les paramètr
 
 ## Définir les paramètres d’emplacement par défaut pour un Abonnement {#set-default-location-settings-for-a-subscription-1}
 
-Lorsqu’un administrateur modifie les paramètres d’emplacement par défaut, les utilisateurs nouvellement créés héritent de ces paramètres. Les utilisateurs peuvent toujours [modifier leur langue, leurs paramètres régionaux et leurs préférences](select-your-language-locale-and-time-zone.md) de fuseau horaire dans leurs comptes individuels.
+Lorsqu’un administrateur modifie les paramètres d’emplacement par défaut, les utilisateurs nouvellement créés héritent de ces paramètres. Les utilisateurs peuvent toujours [modifier leur langue, leurs paramètres régionaux et leurs préférences de fuseau horaire](select-your-language-locale-and-time-zone.md) dans leurs comptes individuels.
 
 1. Sous **Admin**,** **cliquez sur **Emplacement**.
 
@@ -33,11 +33,11 @@ Lorsqu’un administrateur modifie les paramètres d’emplacement par défaut, 
 
    Cet abonnement a été créé en anglais. Supposons que vous étiez à Londres et que vous souhaitiez modifier la langue et le fuseau horaire par défaut. Le paramètre régional détermine la mise en forme des nombres, des dates et des heures.
 
-1. Sélectionnez le **paramètre régional** et remplacez-le par **Anglais** (Royaume-Uni).
+1. Sélectionnez **Locale** et remplacez-le par **Anglais** (Royaume-Uni).
 
    ![](assets/image2014-11-7-11-3a51-3a26.png)
 
-1. Enfin, choisissez le **fuseau horaire** approprié.
+1. Enfin, choisissez le **Fuseau horaire** approprié.
 
    ![](assets/image2014-11-7-14-3a42-3a34.png)
 
@@ -53,7 +53,7 @@ Si vous modifiez les paramètres régionaux par défaut de vos utilisateurs, vou
 
    ![](assets/image2014-11-7-15-3a50-3a33.png)
 
-1. Sélectionnez le format de devise de votre choix, puis cliquez sur **Enregistrer**.
+1. Sélectionnez le format de devise de votre choix et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-11-7-15-3a58-3a21.png)
 
