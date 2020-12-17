@@ -16,18 +16,18 @@ ht-degree: 0%
 
 Vous pouvez rapidement voir les membres d’un programme d’engagement.
 
-1. Sélectionnez votre programme d&#39;engagement, cliquez avec le bouton droit de la souris et sélectionnez Membres **[!UICONTROL de]** Vue.
+1. Sélectionnez votre programme d&#39;engagement, cliquez avec le bouton droit de la souris et sélectionnez **[!UICONTROL Membres de la Vue]**.
 
    ![Image un](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-1.png)
 
 >[!NOTE]
 >
->La valeur de la colonne Contenu  épuisé est mise à jour après chaque diffusion.
+>La valeur de colonne [!UICONTROL Contenu extrait] est mise à jour après chaque diffusion.
 
-1. Cliquez sur l&#39;onglet **[!UICONTROL Membres]** .
+1. Cliquez sur l&#39;onglet **[!UICONTROL Membres]**.
 
    ![Image 2](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-2.png)
 
-1. Cliquez sur la liste déroulante Actions **** des personnes pour exécuter diverses fonctions avec vos membres.
+1. Cliquez sur la liste déroulante **[!UICONTROL Actions des personnes]** pour exécuter diverses fonctions avec vos membres.
 
    ![Image trois](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-3.png)
