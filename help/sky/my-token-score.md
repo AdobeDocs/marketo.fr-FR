@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Voici comment configurer un jeton Score pour l’utiliser dans vos programmes et dossiers de campagne.
 
-1. Dans l’onglet [!UICONTROL Mes jetons] de votre programme ou dossier, faites glisser un jeton **Score** sur le canevas Jetons  locaux.
+1. Dans l&#39;onglet [!UICONTROL Mes jetons] de votre programme ou dossier, faites glisser un jeton **Score** sur le canevas [!UICONTROL Jetons locaux].
 
    ![Image un](/help/sky/assets/my-tokens/my-token-score/my-token-score-1.png)
 
