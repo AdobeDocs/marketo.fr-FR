@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation de la journalisation des Événements électroniques {#understanding-email-event-logging}
+# Présentation de la journalisation du Événement de courriel {#understanding-email-event-logging}
 
 Lors de l’envoi de courriers électroniques, Marketo consigne différents points de données dans les journaux d’activité de la personne. Voici les fondamentaux.
 
@@ -27,5 +27,5 @@ Lors de l’envoi de courriers électroniques, Marketo consigne différents poin
 
 >[!CAUTION]
 >
->Si le même courrier électronique est envoyé à la même personne deux fois à partir de la même campagne, le événement **ouvert** est enregistré une fois au maximum.
+>Si le même courrier électronique est envoyé à la même personne deux fois à partir de la même campagne, le événement **Ouvert** est enregistré une fois au maximum.
 
