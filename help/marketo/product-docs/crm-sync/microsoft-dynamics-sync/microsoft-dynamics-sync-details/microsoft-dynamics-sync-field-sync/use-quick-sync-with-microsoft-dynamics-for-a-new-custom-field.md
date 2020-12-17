@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketing ou ventes souhaite un nouveau champ. Ou peut-être en avez-vous oublié une dans votre sélection de champ initiale. Ou vos besoins ont changé. Dans tous les cas, vous pouvez utiliser la synchronisation rapide pour resynchroniser des champs spécifiques.
 
-Normalement, vous utiliserez la synchronisation rapide pour ajouter un nouveau champ et actualiser les valeurs. Cependant, il peut arriver que vous souhaitiez synchroniser un champ existant. Vous pouvez limiter la synchronisation des champs en fonction d’une plage de dates mise à jour ou créée. Voir Options [de synchronisation](#Advanced_Sync_Options) avancéesci-dessous pour plus d’informations.
+Normalement, vous utiliserez la synchronisation rapide pour ajouter un nouveau champ et actualiser les valeurs. Cependant, il peut arriver que vous souhaitiez synchroniser un champ existant. Vous pouvez limiter la synchronisation des champs en fonction d’une plage de dates mise à jour ou créée. Voir [Options de synchronisation avancées](#Advanced_Sync_Options) ci-dessous pour plus de détails.
 
 Quick Sync peut synchroniser des valeurs nulles. Par exemple, si vous utilisez les valeurs A et B et que vous modifiez une valeur B dans Dynamics en la définissant sur null, la valeur null sera synchronisée avec Marketo.
 
@@ -23,7 +23,7 @@ Quick Sync peut synchroniser des valeurs nulles. Par exemple, si vous utilisez l
 
 Voici comment utiliser la synchronisation rapide pour resynchroniser de nouveaux champs.
 
-1. Dans Marketing, cliquez sur **Admin**.
+1. Dans Marketo, cliquez sur **Admin**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -31,7 +31,7 @@ Voici comment utiliser la synchronisation rapide pour resynchroniser de nouveaux
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. Dans Détails de synchronisation des champs, cliquez sur **Modifier**.
+1. Sur Détails de synchronisation des champs, cliquez sur **Modifier**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
@@ -63,7 +63,7 @@ Que se passe-t-il si vous souhaitez synchroniser un champ existant, mais uniquem
 
    ![](assets/select-field-reselect-hand.png)
 
-1. Cliquez sur Synchronisation **** avancée.
+1. Cliquez sur **Advanced Sync**.
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
@@ -81,7 +81,7 @@ Dans les rares cas où un champ Dynamics et Marketo ne sont pas synchronisés, i
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
-1. Sélectionnez à nouveau le champ, puis cliquez sur **Enregistrer**. C&#39;est tout !
+1. Resélectionnez le champ et cliquez sur **Enregistrer**. C&#39;est tout !
 
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
