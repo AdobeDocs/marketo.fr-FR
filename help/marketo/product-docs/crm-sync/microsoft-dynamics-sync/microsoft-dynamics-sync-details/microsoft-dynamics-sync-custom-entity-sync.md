@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics Sync : Synchronisation des entités personnalisées {#microsoft-dynamics-sync-custom-entity-sync}
+# Microsoft Dynamics Sync : Synchronisation d&#39;entité personnalisée {#microsoft-dynamics-sync-custom-entity-sync}
 
 Si vous devez activer la synchronisation d&#39;entité personnalisée initiale pour rendre les données de Dynamics disponibles dans Marketing, voici comment procéder.
 
@@ -21,7 +21,7 @@ Si vous devez activer la synchronisation d&#39;entité personnalisée initiale p
 
 >[!PREREQUISITES]
 >
->Pour utiliser un objet personnalisé, il doit être associé à un objet [prospect](microsoft-dynamics-sync-lead-sync.md), [contact](microsoft-dynamics-sync-contact-sync.md)ou [](microsoft-dynamics-sync-account-sync.md)compte dans Dynamics.
+>Pour utiliser un objet personnalisé, il doit être associé à un objet [prospect](microsoft-dynamics-sync-lead-sync.md), [contact](microsoft-dynamics-sync-contact-sync.md) ou [compte](microsoft-dynamics-sync-account-sync.md)dans Dynamics.
 
 >[!CAUTION]
 >
@@ -35,13 +35,13 @@ Si vous devez activer la synchronisation d&#39;entité personnalisée initiale p
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Installez une version de Microsoft Dynamics qui prend en charge la synchronisation d&#39;entité personnalisée (après 2_0_0_2). Voir [Versions du module externe Marketo pour Microsoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+1. Installez une version de Microsoft Dynamics qui prend en charge la synchronisation d&#39;entité personnalisée (après 2_0_0_2). Voir [Versions du module externe Marketo pour MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 1. Donnez à l’utilisateur de synchronisation marketing l’accès en lecture à toutes les entités que vous prévoyez de synchroniser.
 1. Sous Gestion de la base de données, cliquez sur le lien** Dynamics Entities Sync**.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Cliquez sur le lien schéma **de** synchronisation pour rétablir la liste des entités personnalisées disponibles.
+1. Cliquez sur le lien **schéma de synchronisation** pour rétablir la liste des entités personnalisées disponibles.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
