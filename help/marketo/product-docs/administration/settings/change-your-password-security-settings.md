@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifier les paramètres de protection par mot de passe {#change-your-password-security-settings}
+# Modifier les paramètres de sécurité de mot de passe {#change-your-password-security-settings}
 
 Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment.
 
@@ -19,15 +19,15 @@ Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment.
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Admin**, cliquez sur Paramètres **de** connexion.
+1. Sous **Admin**, cliquez sur **Paramètres de connexion**.
 
    ![](assets/image2014-9-16-12-3a41-3a40.png)
 
-1. Sous Paramètres **** de sécurité, cliquez sur **Modifier**.
+1. Sous **Paramètres de sécurité**, cliquez sur **Modifier**.
 
    ![](assets/passwordsettings-hand.png)
 
-1. Sélectionnez un **modèle**. Pour les options avancées, cliquez sur la liste déroulante **Avancé** .
+1. Sélectionnez un **modèle**. Pour les options avancées, cliquez sur la liste déroulante **Avancé**.
 
    >[!NOTE]
    >
@@ -40,9 +40,9 @@ Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment.
 
    >[!TIP]
    >
-   >Dans **Personnalisé**, cochez les cases pour indiquer les caractéristiques que les utilisateurs doivent inclure lorsqu’ils créent des mots de passe.
+   >Dans **Personnalisé**, cochez les cases pour indiquer les caractéristiques que les utilisateurs doivent inclure lorsqu&#39;ils créent des mots de passe.
 
-1. Définissez l’ **expiration**.** **Cette fonctionnalité nécessite automatiquement que les utilisateurs réinitialisent leurs mots de passe après un certain temps. Cela inclut également l’utilisateur administrateur.
+1. Définissez l&#39;**expiration**.** **Cette fonctionnalité nécessite automatiquement que les utilisateurs réinitialisent leurs mots de passe après un certain temps. Cela inclut également l’utilisateur administrateur.
 
    >[!CAUTION]
    >
@@ -50,7 +50,7 @@ Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment.
 
    ![](assets/expiration.png)
 
-1. Définissez le délai d’expiration **de la session** inactive. Cela détermine la durée pendant laquelle un utilisateur peut être inactif avant de devoir se reconnecter à Marketo.
+1. Définissez le **délai d’expiration de session inactive**. Cela détermine la durée pendant laquelle un utilisateur peut être inactif avant de devoir se reconnecter à Marketo.
 
    ![](assets/inactivesession.png)
 
