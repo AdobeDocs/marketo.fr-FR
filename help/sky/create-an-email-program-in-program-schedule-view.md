@@ -28,7 +28,7 @@ Vous pouvez créer de nouveaux programmes de messagerie directement dans la vue 
    >
    >Vous pouvez également suivre les étapes similaires pour créer un programme de courriel à partir des vues Jour, Semaine ou Ordre du jour.
 
-1. Entrez un nom pour votre nouvelle campagne dynamique, puis remplacez **[!UICONTROL Type]** par Programme électronique. Vous pouvez également modifier la date **[!UICONTROL du]** Début et décocher la case **[!UICONTROL Ouvrir dans la Vue]** de l&#39;ordre du jour si vous souhaitez rester dans le calendrier après avoir créé l&#39;entrée. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Entrez un nom pour votre nouvelle campagne intelligente, puis remplacez **[!UICONTROL Type]** par [!UICONTROL Programme de courriel]. Vous pouvez également modifier la **[!UICONTROL date du Début]** et décocher **[!UICONTROL Ouvrir dans la Vue de l&#39;ordre du jour]** si vous souhaitez rester dans le calendrier après avoir créé l&#39;entrée. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![Image trois](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ Vous pouvez créer de nouveaux programmes de messagerie directement dans la vue 
 
 >[!NOTE]
 >
->Vous pouvez créer des programmes de messagerie dans la vue de Planning du programme dans [!DNL Marketo Sky], mais la configuration de programme réelle sera dans [!DNL Marketo Classic].
+>Vous pouvez créer des programmes de messagerie dans la vue de Planning du programme dans [!DNL Marketo Sky], mais la configuration de programme réelle se trouvera dans [!DNL Marketo Classic].
