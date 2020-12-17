@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Synchronisation SFDC : File d&#39;attente de piste {#sfdc-sync-lead-queue}
 
-Marketo vous permet d&#39;ajouter des personnes aux files d&#39;attente [de pistes](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) Salesforce pour faciliter la distribution de pistes. Voici les détails.
+Marketo vous permet d&#39;ajouter des personnes à [files d&#39;attente de pistes Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) pour faciliter la distribution de pistes. Voici les détails.
 
 ## Comment affecter une personne à une file d&#39;attente dans Marketo ? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
