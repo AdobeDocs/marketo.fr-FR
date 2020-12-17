@@ -33,7 +33,7 @@ Utilisez Contenu dynamique dans les courriers électroniques pour envoyer les in
 
    ![](assets/1.2.png)
 
-1. Dans cet exemple, nous rendons la ligne de sujet dynamique. Cliquez dans le champ Objet, puis sur le bouton **Rendre dynamique** .
+1. Dans cet exemple, nous rendons la ligne de sujet dynamique. Cliquez dans le champ Objet, puis sur le bouton **Rendre dynamique**.
 
    ![](assets/1.3.png)
 
