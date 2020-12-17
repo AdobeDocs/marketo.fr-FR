@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les listes intelligentes sont le mécanisme utilisé dans tout Marketo pour définir &quot;qui&quot; (quelles personnes) inclure, qu’il s’agisse d’un rapport, d’une liste ou d’une campagne intelligente. Voici comment définir une liste intelligente pour une campagne par lot.
 
-1. Choisissez une campagne intelligente, puis cliquez sur Liste **** intelligente.
+1. Choisissez une campagne intelligente, puis cliquez sur **Liste intelligente**.
 
    ![](assets/campaignchoose-hand.png)
 
@@ -25,14 +25,14 @@ Les listes intelligentes sont le mécanisme utilisé dans tout Marketo pour déf
 
    >[!NOTE]
    >
-   >Une campagne intelligente avec uniquement des filtres s’exécute en mode **batch** . Il trouve dans la base de données les personnes qui remplissent les critères en fonction des filtres et les exécute toutes à la fois dans le flux.
+   >Une campagne intelligente avec uniquement des filtres s’exécute en mode **Batch**. Il trouve dans la base de données les personnes qui remplissent les critères en fonction des filtres et les exécute toutes à la fois dans le flux.
 
    >[!NOTE]
    >
    >**Rappel**
    >
    >
-   >Vous pouvez exécuter une campagne dynamique sur une personne à la fois en fonction des événements actifs en ajoutant des déclencheurs, ce qui place la campagne dynamique en mode **Déclencheur** .
+   >Vous pouvez exécuter une campagne intelligente sur une personne à la fois en fonction des événements en direct en ajoutant des déclencheurs, ce qui place la campagne intelligente en mode **Déclencheur**.
 
 1. Cliquez sur la liste déroulante et choisissez un opérateur de filtre pour le filtre choisi.
 
@@ -48,9 +48,9 @@ Les listes intelligentes sont le mécanisme utilisé dans tout Marketo pour déf
 
    >[!NOTE]
    >
-   >Par défaut, les personnes qui respectent TOUTES les règles de liste intelligente sont qualifiées. Il est possible de le modifier en fonction de vos besoins de campagne. Consultez les règles de Liste [intelligente pour en savoir plus sur la logique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) complexe.
+   >Par défaut, les personnes qui respectent TOUTES les règles de liste intelligente sont qualifiées. Il est possible de le modifier en fonction de vos besoins de campagne. Consultez [Règles de Liste intelligente pour la logique complexe](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) pour en savoir plus.
 
-   Pour se déclencher sur des événements en direct, une personne à la fois, apprenez à [définir une Liste intelligente pour le Campaign intelligent | Déclencheur](define-smart-list-for-smart-campaign-trigger.md).
+   Pour déclencher sur les événements en direct une personne à la fois, apprenez comment [définir une Liste intelligente pour le Campaign intelligent | Déclencheur](define-smart-list-for-smart-campaign-trigger.md).
 
    >[!NOTE]
    >
