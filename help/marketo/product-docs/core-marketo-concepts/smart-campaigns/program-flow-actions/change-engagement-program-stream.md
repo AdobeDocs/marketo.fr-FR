@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Changer le flux de Programme d’engagement {#change-engagement-program-stream}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
-Normalement, vous utiliseriez des règles [de transition de](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) flux pour y parvenir, mais si vous voulez déplacer manuellement des personnes d’un flux à un autre, c’est l’étape de flux à utiliser.
+Normalement, vous utiliseriez [les règles de transition de diffusion en continu](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) pour y parvenir, mais si vous souhaitez déplacer manuellement des personnes d’un flux à un autre, il s’agit de l’étape de flux à utiliser.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
