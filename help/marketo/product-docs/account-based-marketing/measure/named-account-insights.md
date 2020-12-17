@@ -19,13 +19,13 @@ Le Tableau de bord Compte nommé fournit une vue de 360 degrés d’un compte de
 
 ## Tableau de bord {#dashboard}
 
-L&#39;tableau de bord agrégat des informations clés au niveau d&#39;un compte de toutes les personnes d&#39;un compte donné, évitant ainsi de devoir aller à chaque personne pour évaluer leur progression. Vous pouvez approfondir l’analyse de l’activité des courriels à l’aide des statistiques [](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing)par courriel.
+L&#39;tableau de bord agrégat des informations clés au niveau d&#39;un compte de toutes les personnes d&#39;un compte donné, évitant ainsi de devoir aller à chaque personne pour évaluer leur progression. Vous pouvez approfondir l&#39;analyse de l&#39;activité des courriels en utilisant [Email Insights](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing).
 
 >[!NOTE]
 >
 >Les graphiques présentent les statistiques des 90 derniers jours.
 
-**Engagement du compte dans le temps** Cliquez sur la liste déroulante **Vue** sur la droite pour modifier ce par quoi vous vue. Outre la note de compte, vous pouvez effectuer une vue par Recettes totales...
+**Engagement du compte dans le** tempsCliquez sur la liste  **** déroulante de droite pour modifier votre vue. Outre la note de compte, vous pouvez effectuer une vue par Recettes totales...
 
 ![](assets/two-new.png)
 
@@ -52,19 +52,19 @@ L&#39;tableau de bord agrégat des informations clés au niveau d&#39;un compte 
 
 **Moments intéressants**
 
-Disponible pour les utilisateurs de [Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), consultez les moments intéressants cumulés au niveau du compte.
+Disponible pour les utilisateurs de [Marketing Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), consultez les moments intéressants cumulés au niveau du compte.
 
 ![](assets/int-mom.png)
 
 **Principales personnes**
 
-Ces personnes sont calculées en fonction de priorités basées sur la récence ou l’urgence des comptes nommés (comme les [meilleurs paris](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) dans Sales Insight), ou les scores définis par l’utilisateur. **La priorité** est uniquement disponible pour les utilisateurs de Marketing Cloud Sales Insight.
+Ces personnes sont calculées en fonction de priorités basées sur la récence ou l’urgence des personnes de comptes nommés (comme [Meilleurs paris](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) dans Sales Insight), ou Scores définies par l’utilisateur. **La** priorité n’est disponible que pour les utilisateurs de Marketo Sales Insight.
 
 ![](assets/top-ten.png)
 
 **Inclut les enfants**
 
-Cliquez sur **Inclut les enfants** pour afficher et choisir les comptes enfants du compte nommé sélectionné et vue leurs analyses d’agrégat.
+Cliquez sur **Inclut les enfants** pour afficher et choisir les comptes enfants du compte nommé sélectionné et vue les analyses de leurs agrégats.
 
 ![](assets/abm.png)
 
@@ -92,7 +92,7 @@ La mise en correspondance de pistes/comptes utilise une logique floue pour trouv
 
 >[!NOTE]
 >
->Pour ajouter l’une des personnes répertoriées, sélectionnez-les, puis cliquez sur **Ajouter les personnes**.
+>Pour ajouter l’une des personnes répertoriées, sélectionnez-les et cliquez sur **Ajouter les personnes**.
 
 ## Utilisé par {#used-by}
 
@@ -108,11 +108,11 @@ Membres de l&#39;équipe du compte de vue, ajouter/supprimer des membres, et mê
 
 >[!NOTE]
 >
->Cliquez sur la liste déroulante Actions **de l’équipe** de comptes pour ajouter ou supprimer des membres du compte ou affecter un propriétaire de compte.
+>Cliquez sur la liste déroulante **Actions de l&#39;équipe du compte** pour ajouter/supprimer des membres du compte ou affecter un propriétaire de compte.
 
-## Indicateurs ICP {#icp-indicators}
+## Indicateurs du PCI {#icp-indicators}
 
-Vue des indicateurs ICP que vous avez sélectionnés pour l’exportation lorsque vous avez [affiné votre modèle](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning).
+Vue des indicateurs ICP que vous avez sélectionnés pour l&#39;exportation lorsque vous avez [affiné votre modèle](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning).
 
 ![](assets/eight.png)
 
