@@ -27,15 +27,15 @@ Le filtrage est un excellent moyen de réduire rapidement les données.
    >
    >Il existe plusieurs combinaisons de paramètres de recherche. Dans cet exemple, nous recherchons : *Industrie = Banque, Pays = États-Unis, Nombre maximal d&#39;employés = 10000*.
 
-1. Cliquez sur la liste déroulante **Secteur** et sélectionnez **Banque**.
+1. Cliquez sur la liste déroulante **Industrie** et sélectionnez **Banking**.
 
    ![](assets/filter-2.png)
 
-1. Cliquez sur la liste déroulante **Pays** et sélectionnez **Etats**-Unis.
+1. Cliquez sur la liste déroulante **Pays** et sélectionnez **États-Unis**.
 
    ![](assets/filter-3.png)
 
-1. Sous **Employés**, tapez &quot;0&quot; dans le champ **Min** , &quot;10000&quot; dans le champ **Max** , puis cliquez sur **Appliquer.**
+1. Sous **Employees**, saisissez &quot;0&quot; dans le champ **Min**, &quot;1000&quot; dans le champ **Max**, puis cliquez sur **Appliquer**.
 
    ![](assets/four-2.png)
 
@@ -43,5 +43,5 @@ Le filtrage est un excellent moyen de réduire rapidement les données.
 
    >[!NOTE]
    >
-   >Pour ajouter d’autres filtres à partir desquels choisir, cliquez sur Filtre **d’** Ajoute en bas à gauche du formulaire.
+   >Pour ajouter d’autres filtres à partir desquels choisir, cliquez sur **Ajouter le filtre** en bas à gauche du formulaire.
 
