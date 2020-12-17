@@ -43,7 +43,7 @@ La synchronisation entre Marketo et Dynamics est bidirectionnelle pour les piste
 >
 >Les [informations d&#39;identification que vous saisissez dans Marketo pour Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) sont utilisées pour synchroniser les données.
 
-Dynamics sync comporte de nombreuses nuances et fonctionnalités. Consultez les détails dans la section [Détails de](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)Microsoft Dynamics Sync.
+Dynamics sync comporte de nombreuses nuances et fonctionnalités. Consultez les détails dans la section [Détails de Microsoft Dynamics Sync](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details).
 
 >[!CAUTION]
 >
