@@ -19,14 +19,14 @@ Pour les futures campagnes actives planifiées mais non encore exécutées, la c
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
-## Cartes Campaign Intelligentes {#smart-campaign-cards}
+## Cartes Campaign Smart {#smart-campaign-cards}
 
 1. Appuyez sur la carte pour ouvrir la carte de détails.
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
 1. La carte de détails vous donne accès aux informations sur les filtres de Liste intelligente, le flux et le résumé du courrier électronique.
-1. Appuyez sur Liste **** intelligente.
+1. Appuyez sur **Liste intelligente**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -42,7 +42,7 @@ Pour les futures campagnes actives planifiées mais non encore exécutées, la c
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Cliquez sur Résumé **** du courriel.
+1. Cliquez sur **Email Summary**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -66,7 +66,7 @@ C&#39;est une bonne idée de jeter un coup d&#39;oeil à un courriel avant qu&#3
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Appuyez sur [Envoyer un exemple](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) ou un courriel [de](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) Prévisualisation (cliquez sur ces liens pour plus de détails).
+1. Appuyez sur [Envoyer un exemple](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) ou [Courriel de Prévisualisation](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (cliquez sur ces liens pour plus de détails).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -82,7 +82,7 @@ Les cartes des campagnes dynamiques non confirmées sont grisées jusqu’à ce 
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Appuyez sur **Confirmer** pour terminer le travail, ou **Ne vous souciez** jamais si vous avez des doutes.
+1. Appuyez sur **Confirmer** pour terminer le travail, ou **Ne vous souciez jamais** si vous avez des doutes.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -102,7 +102,7 @@ Vous pouvez annuler une exécution de campagne dynamique planifiée confirmée.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Appuyez sur **Annuler l&#39;exécution**. Si vous décidez à la dernière minute de ne pas annuler l’exécution, appuyez sur **Jamais n’importe quoi** et la campagne intelligente s’exécutera comme prévu.
+1. Appuyez sur **Annuler l&#39;exécution**. Si vous décidez à la dernière minute de ne pas annuler l’exécution, appuyez sur **Jamais d’indifférence** et la campagne dynamique s’exécutera comme prévu.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -136,8 +136,8 @@ Comme pour les autres cartes Moments du marketing, vous pouvez appuyer sur les t
 
 >[!NOTE]
 >
->Vous pouvez également appuyer sur l’icône **Partager** d’une carte Campaign dynamique à partager, ainsi que sur les icônes **Terminé** et **Favori** de la carte de détails.
+>Vous pouvez également appuyer sur l’icône **Partager** d’une carte Campaign dynamique à partager, et sur les icônes **Terminé** et **Favori** de la carte de détails.
 
-## Suppression rapide d’une carte Campaign à puce {#quickly-delete-a-smart-campaign-card}
+## Supprimer rapidement une carte Campaign à puce {#quickly-delete-a-smart-campaign-card}
 
 Si vous avez une carte dont vous n&#39;avez plus besoin, peut-être une carte que vous avez utilisée pour le test, vous pouvez vous en débarrasser par un glissement rapide vers la gauche ou la droite.
