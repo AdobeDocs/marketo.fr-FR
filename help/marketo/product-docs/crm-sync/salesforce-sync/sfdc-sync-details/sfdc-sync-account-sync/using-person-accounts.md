@@ -33,11 +33,11 @@ Un compte de personne est synchronisé avec Marketo en tant que société et en 
 
 ## Comment puis-je différencier les comptes professionnels et les comptes personnels ? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Utilisez le filtre Compte **** de personne dans votre liste dynamique pour séparer les comptes de personne des comptes d’entreprise standard.
+Utilisez le filtre **Compte de personne** de votre liste intelligente pour séparer les comptes de personne des comptes d&#39;entreprise standard.
 
 ## Où les informations de mes comptes personnels sont-elles affichées dans les statistiques des ventes de Marketo ? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Les Activités relatives aux comptes des personnes s’affichent dans le panneau **Compte** .
+Les Activités relatives aux comptes personnels sont affichées dans le panneau **Compte**.
 
 >[!NOTE]
 >
@@ -49,4 +49,4 @@ Le marketing dépend du rôle de contact d’opportunité pour déterminer à qu
 
 ## Quel champ de courriel dois-je utiliser pour les comptes de personnes ? {#which-email-field-should-i-use-for-person-accounts}
 
-Il existe deux champs de courrier électronique pour un compte de personne. Utilisez le champ Adresse **de** courriel de vos formulaires (et non l’adresse **de courriel de la** personne) pour vous assurer que la déduplication de Marketing et les autres traitements de courrier électronique fonctionnent correctement.
+Il existe deux champs de courrier électronique pour un compte de personne. Utilisez le champ **Adresse électronique** de vos formulaires (et non **Adresse électronique de la personne**) pour vous assurer que la déduplication de Marketo et les autres traitements de courrier électronique fonctionnent correctement.
