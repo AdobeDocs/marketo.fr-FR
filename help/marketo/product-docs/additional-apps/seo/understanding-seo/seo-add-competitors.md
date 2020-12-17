@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - Concurrents d’Ajoute {#seo-add-competitors}
+# SEO - Concurrents d&#39;Ajoute {#seo-add-competitors}
 
 Les concurrents d&#39;Ajoute vous permettent de suivre leurs performances pour les mêmes mots-clés et liens entrants que ceux que vous avez choisis de surveiller.
 
@@ -19,11 +19,11 @@ Les concurrents d&#39;Ajoute vous permettent de suivre leurs performances pour l
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à la section **Admin** .
+1. Accédez à la section **Admin**.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Cliquez sur l&#39;onglet **Concurrents** .
+1. Cliquez sur l&#39;onglet **Concurrents**.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
@@ -31,7 +31,7 @@ Les concurrents d&#39;Ajoute vous permettent de suivre leurs performances pour l
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Saisissez le **nom** et l’ **URL** de votre concurrent.
+1. Tapez **Nom** et **URL** de votre concurrent.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
