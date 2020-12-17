@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Mettre à jour les données personnelles {#update-person-data}
+# Mettre à jour les données de personne {#update-person-data}
 
-## Mission : Mettre à jour les coordonnées d’une personne ou d’autres données {#mission-update-a-persons-contact-info-or-other-data}
+## Mission : Mettre à jour les coordonnées d&#39;une personne ou d&#39;autres données {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Imaginons que dans votre salon, une personne vous ait donné des coordonnées supplémentaires. Voici comment mettre à jour les données personnelles.
 
-## Rechercher la personne à mettre à jour {#find-the-person-you-need-to-update}
+## Recherchez la personne à mettre à jour {#find-the-person-you-need-to-update}
 
 1. Accédez à votre base de données.
 
@@ -43,9 +43,9 @@ Imaginons que dans votre salon, une personne vous ait donné des coordonnées su
 
    >[!TIP]
    >
-   >Il existe de nombreuses façons de mettre à jour les données des personnes dans Marketo. Voir [Importation d’une Liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) et [modification de la valeur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)des données.
+   >Il existe de nombreuses façons de mettre à jour les données des personnes dans Marketo. Voir [Importer une Liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) et [Modifier la valeur des données](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
-## Mise à jour des données personnelles {#update-the-person-data}
+## Mettre à jour les données personnelles {#update-the-person-data}
 
 1. Saisissez les nouvelles informations que vous avez reçues, puis fermez l’onglet.
 
