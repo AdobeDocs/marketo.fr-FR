@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Création d’un onglet personnalisé pour la page Détails de la personne {#creating-a-custom-tab-for-the-person-detail-page}
+# Création d&#39;un onglet personnalisé pour la page Détails de la personne {#creating-a-custom-tab-for-the-person-detail-page}
 
 Si vous recherchez un ensemble spécifique de champs dans les détails de la personne, pensez à créer une disposition personnalisée pour faciliter les choses.
 
-1. Accédez à **Admin** et cliquez sur Gestion des **** champs.
+1. Accédez à **Admin** et cliquez sur **Gestion des champs**.
 
    ![](assets/image2014-9-16-16-3a41-3a41.png)
 
-1. Cliquez sur l’onglet Concepteur **de mise en page** personnalisée.
+1. Cliquez sur l&#39;onglet **Concepteur de mise en page personnalisée**.
 
    ![](assets/image2014-9-16-16-3a41-3a55.png)
 
