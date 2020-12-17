@@ -24,8 +24,8 @@ Bon événement !
 
 Avant le événement :
 
-* [Créer un nouveau rôle](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) Marketo pour les utilisateurs d’iPad ou d’Android pour le événement
-* [Invitation de nouveaux utilisateurs de tablettes au événement](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) et attribution du nouveau rôle
+* [Créer un nouveau ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) rôle Marketo pour les utilisateurs d’iPad ou d’Android pour le événement
+* [Invitation de nouveaux utilisateurs de tablette à participer à l’](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) événement et attribution du nouveau rôle
 * [Créer un programme de événement de marketing](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 * Spécifier les dates de événement
 * Ajouter des personnes à votre événement
@@ -45,5 +45,5 @@ Au événement :
 
 * Connexion à l’application
 * Rechercher des invités (et créer des personnes)
-* [Enregistrement des clients](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) (rétro-check-ins, modification des enregistrements de personne à l&#39;arrivée)
+* [Archivage des clients](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)  (contre-check-ins, modifier les enregistrements des personnes à l&#39;arrivée)
 * Synchronisation de l’application pour tablette iPad ou Android avec Marketo
