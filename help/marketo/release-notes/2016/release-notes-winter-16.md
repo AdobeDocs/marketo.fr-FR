@@ -17,7 +17,7 @@ Les fonctionnalités suivantes sont incluses dans la version de l’hiver 16. Ve
 
 ## [Filtre anonyme](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Le filtre Est anonyme a été supprimé pour les Listes dynamiques. Pour plus d&#39;informations, consultez le document de FAQ [sur le suivi de Munchkin de la](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) prochaine génération. Cette modification n’affecte pas la personnalisation Web (RTP), qui continue à identifier des visiteurs Web anonymes et connus et à personnaliser le contenu en temps réel pour ces visiteurs.
+Le filtre Est anonyme a été supprimé pour les Listes dynamiques. Consultez le [document de suivi de Munchkin de nouvelle génération ](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) pour plus de détails. Cette modification n’affecte pas la personnalisation Web (RTP), qui continue à identifier des visiteurs Web anonymes et connus et à personnaliser le contenu en temps réel pour ces visiteurs.
 
 ## [Tableau de bord de base de données](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -27,7 +27,7 @@ La base de données des pistes comporte un Tableau de bord de résumé mis à jo
 
 ## [Microsoft Edge Browser](../../product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Nous avons ajouté Microsoft Edge à la [liste des navigateurs](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) pris en charge par Marketo.
+Nous avons ajouté Microsoft Edge à la [liste des navigateurs](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) prise en charge par Marketo.
 
 ## [Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
@@ -49,7 +49,7 @@ Pour utiliser cette fonctionnalité, le programme de courriel doit être planifi
 
 ## [Améliorations du marketing mobile](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Prise en charge de PhoneGap :** Nous offres désormais la prise en charge de PhoneGap pour votre application mobile. [En savoir plus](http://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**Prise en charge de PhoneGap :** nous offres désormais la prise en charge de PhoneGap pour votre application mobile. [En savoir plus](http://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Prise en charge des applications** Sandbox :
 
@@ -61,7 +61,7 @@ Créez, mettez à jour et clonez des programmes via l’API REST. Cela n’inclu
 
 ## [Améliorations de Microsoft Dynamics](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-** Etat [](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)de la synchronisation :** Conservez des onglets sur le débit actuel et l’arriéré du processus de synchronisation. Ventilez-le selon le nombre d’insertions et de mises à jour par objet.
+** [État de la synchronisation](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):** Gardez des onglets sur le débit actuel et l&#39;arriéré du processus de synchronisation. Ventilez-le selon le nombre d’insertions et de mises à jour par objet.
 
 ![](assets/pending-backog-cropped.png)
 
@@ -77,7 +77,7 @@ Vous pouvez désormais créer des relations de type &quot;plusieurs à plusieurs
 
 ## [Publicités Facebook](../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Les publicités](https://www.facebook.com/business/a/lead-ads) de pistes Facebook sont un moyen plus direct pour une entreprise d&#39;exécuter des campagnes de génération de pistes sur Facebook. Les utilisateurs remplissent un formulaire pour exprimer leur intérêt pour un produit ou un service, afin que l’entreprise puisse en assurer le suivi. L&#39;intégration de Marketing Cloud avec les publicités de piste Facebook capture automatiquement les informations fournies par une piste dans le formulaire Publicité de piste. Les actions de suivi et les notifications peuvent alors être automatisées à l’aide du nouveau déclencheur &quot;Remplir les publicités de piste Facebook&quot;.
+[Les pistes Facebook ](https://www.facebook.com/business/a/lead-ads) représentent un moyen plus direct pour une entreprise d&#39;exécuter des campagnes de génération de pistes sur Facebook. Les utilisateurs remplissent un formulaire pour exprimer leur intérêt pour un produit ou un service, afin que l’entreprise puisse en assurer le suivi. L&#39;intégration de Marketing Cloud avec les publicités de piste Facebook capture automatiquement les informations fournies par une piste dans le formulaire Publicité de piste. Les actions de suivi et les notifications peuvent alors être automatisées à l’aide du nouveau déclencheur &quot;Remplir les publicités de piste Facebook&quot;.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
