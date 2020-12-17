@@ -23,17 +23,17 @@ Les espaces de travail peuvent être utilisés pour n’importe quelle raison (p
 >
 >**Plongée profonde**
 >
->En savoir plus sur [les espaces de travail](understanding-workspaces-and-person-partitions.md).
+>En savoir plus sur les [espaces de travail](understanding-workspaces-and-person-partitions.md).
 
 1. Sous Admin, cliquez sur Utilisateurs et rôles.
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. Sous l’onglet **Utilisateurs **, sélectionnez l’utilisateur et cliquez sur **Modifier l’utilisateur**.
+1. Sous l&#39;onglet **Utilisateurs **, sélectionnez l&#39;utilisateur et cliquez sur **Modifier l&#39;utilisateur**.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
-1. Sélectionnez le **rôle et l’espace de travail** auxquels l’utilisateur doit avoir accès.
+1. Sélectionnez le **rôle et l&#39;espace de travail** auxquels l&#39;utilisateur doit avoir accès.
 
    >[!NOTE]
    >
