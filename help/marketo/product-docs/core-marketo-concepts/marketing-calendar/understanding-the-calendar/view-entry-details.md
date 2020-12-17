@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Détails de l’entrée de vue {#view-entry-details}
+# Détails de l&#39;entrée de vue {#view-entry-details}
 
 Lorsque vous vue les détails d’entrée dans le calendrier marketing, vous pouvez voir toutes sortes de trucs sympas à propos d’une entrée.
 
