@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Annuler dans l’éditeur de messagerie {#undo-in-the-email-editor}
+# Annuler dans l’éditeur de courriel {#undo-in-the-email-editor}
 
 1. Pour annuler une modification, cliquez sur la flèche Gauche.
 
