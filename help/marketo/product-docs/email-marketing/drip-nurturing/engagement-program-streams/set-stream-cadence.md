@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Définir la cadence du flux {#set-stream-cadence}
+# Définir la cadence de diffusion {#set-stream-cadence}
 
 Vous pouvez envoyer le contenu de l’engagement à n’importe quel intervalle. Par exemple : une fois par semaine ou tous les trois mardis du mois.
 
 ## Définir la cadence {#set-cadence}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Recherchez et sélectionnez votre programme d’engagement, cliquez sur l’onglet **Flux **, puis sur **Définir le cadence** du flux.
+1. Recherchez et sélectionnez votre programme d’engagement, cliquez sur l’onglet **Flux **, puis sur **Définir le cadence de diffusion**.
 
    ![](assets/selectstreamcadence.jpg)
 
 1. Sélectionnez la fréquence à laquelle la cadence doit se répéter. Vous pouvez choisir** Hebdomadaire** ou **Mensuel**.
 
-## Hebdomadaire {#weekly}
+## {#weekly} hebdomadaire
 
 1. Sélectionnez **Hebdomadaire**.
 
@@ -51,9 +51,9 @@ Vous pouvez envoyer le contenu de l’engagement à n’importe quel intervalle.
 
    >[!TIP]
    >
-   >Vous pouvez définir votre cadence pour qu’elle s’exécute tous les jours en sélectionnant **Répétées : Hebdomadaire** /** Tous : 1 semaine** /** ****Le**: tous les jours.
+   >Vous pouvez définir votre cadence pour qu’elle s’exécute tous les jours en sélectionnant **Répétées : Hebdomadairement** /** Chaque : 1 semaine** /** ****On**: tous les jours.
 
-   Maintenant, sélectionnez l&#39;Heure. Cochez la case si vous souhaitez utiliser le fuseau horaire [du](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)Destinataire (c.-à-d. diffuser selon les fuseaux horaires locaux), puis cliquez sur Enregistrer.
+   Maintenant, sélectionnez l&#39;Heure. Cochez la case si vous souhaitez utiliser [Fuseau horaire du Destinataire](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (c’est-à-dire diffuser selon les fuseaux horaires locaux), puis cliquez sur Enregistrer.
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -70,7 +70,7 @@ Vous pouvez envoyer le contenu de l’engagement à n’importe quel intervalle.
 
 C&#39;est tout ! Continuez à lire si vous souhaitez configurer une cadence mensuelle.
 
-## Mensuel {#monthly}
+## Mois {#monthly}
 
 1. Sélectionnez **Mensuel **pour connaître la fréquence de ses répétitions.
 
@@ -92,7 +92,7 @@ C&#39;est tout ! Continuez à lire si vous souhaitez configurer une cadence mens
    >
    >Vous pouvez également choisir le jour de la semaine.
 
-1. Sélectionnez une **heure** et cliquez sur **Enregistrer**.
+1. Sélectionnez une **Heure** et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
