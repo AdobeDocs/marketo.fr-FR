@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présentation de la note d’engagement {#understanding-the-engagement-score}
 
-Le score d’engagement permet de déterminer facilement l’efficacité du contenu dans votre programme d’engagement. Le score est compris entre 0 et 100. Consultez [le Tableau de bord](the-engagement-dashboard.md) d’engagement pour savoir comment suivre les performances de votre contenu.
+Le score d’engagement permet de déterminer facilement l’efficacité du contenu dans votre programme d’engagement. Le score est compris entre 0 et 100. Consultez [le Tableau de bord d’engagement](the-engagement-dashboard.md) pour savoir comment suivre les performances de votre contenu.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -23,7 +23,7 @@ Le score est basé sur un algorithme propriétaire qui prend en compte le compor
 
 >[!NOTE]
 >
->Lorsque les programmes sont utilisés comme contenu dans les flux, le score d’engagement est basé sur l’appartenance au programme et l’état de réussite, **pas** sur l’interaction par courriel (clics, ouvertures, désabonnements).
+>Lorsque les programmes sont utilisés comme contenu dans les flux, le score d’engagement est basé sur l’appartenance au programme et l’état de réussite, **pas** l’interaction par courriel (clics, ouvertures, désabonnements).
 
 Les scores d’engagement sont universels pour tous les clients. Vous pouvez les comparer pour déterminer qui possède le contenu le plus engageant.
 
