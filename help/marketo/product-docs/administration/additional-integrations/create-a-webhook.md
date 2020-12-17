@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création d’un crochet Web {#create-a-webhook}
+# Créer un crochet Web {#create-a-webhook}
 
 Utilisez des hameçons Web pour tirer parti des services Web tiers pour envoyer des messages texte, développer les données personnelles, etc.
 
@@ -25,7 +25,7 @@ Utilisez des hameçons Web pour tirer parti des services Web tiers pour envoyer 
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
-1. Cliquez sur **Nouveau crochet** Web.
+1. Cliquez sur **New Webhook**.
 
    ![](assets/image2014-9-24-14-3a53-3a9.png)
 
@@ -37,13 +37,13 @@ Utilisez des hameçons Web pour tirer parti des services Web tiers pour envoyer 
    >
    >Cela inclut souvent la saisie de vos informations d’identification de service tiers en tant que paramètre d’URL ou dans le modèle de POST.
 
-   * **URL**: Entrez l’URL que vous utilisez pour POST votre demande au service Web. Pour insérer un jeton, tel que l’adresse électronique de la personne (**`{{lead.Email Address}}`**), dans votre requête, cliquez sur **Insérer un jeton**.
+   * **URL** : Entrez l’URL que vous utilisez pour POST votre demande au service Web. Pour insérer un jeton, tel que l’adresse électronique de la personne (**`{{lead.Email Address}}`**), dans votre requête, cliquez sur **Insérer un jeton**.
 
-   * **Modèle**: Si vous souhaitez transmettre des informations dans le corps du POST, entrez le modèle. Utilisez tout format de données prenant en charge le POST HTTP, y compris XML, JSON ou SOAP. Pour insérer un jeton dans votre modèle, cliquez sur **Insérer un jeton**.
+   * **Modèle** : Si vous souhaitez transmettre des informations dans le corps du POST, entrez le modèle. Utilisez tout format de données prenant en charge le POST HTTP, y compris XML, JSON ou SOAP. Pour insérer un jeton dans votre modèle, cliquez sur **Insérer un jeton**.
 
-   * **Encodage** du jeton de demande : Si les valeurs de jeton comportent des caractères spéciaux (par exemple une esperluette, &quot;&amp;&quot;), indiquez le format de votre requête (**JSON** ou **Form/Url**).
+   * **Encodage** du jeton de demande : Si les valeurs de jeton comportent des caractères spéciaux (par exemple une esperluette, &quot;&amp;&quot;), indiquez le format de votre requête (**** JSONou  **Form/Url**).
 
-   * **Type** de réponse : Sélectionnez le format de la réponse que vous recevez du service (**JSON** ou **XML**).
+   * **Type** de réponse : Sélectionnez le format de la réponse que vous recevez du service (**** JSONou  **XML**).
 
    Cliquez sur Créer.
 
@@ -53,5 +53,5 @@ Utilisez des hameçons Web pour tirer parti des services Web tiers pour envoyer 
 >
 >**Plongée profonde**
 >
->Pour en savoir plus sur les [webhooks](http://developers.marketo.com/documentation/webhooks/) profonde plongée.
+>Pour en savoir plus, consultez les [webhooks](http://developers.marketo.com/documentation/webhooks/) plongée profonde.
 
