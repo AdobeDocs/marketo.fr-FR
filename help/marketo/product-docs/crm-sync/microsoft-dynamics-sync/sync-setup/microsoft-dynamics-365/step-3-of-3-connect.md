@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Étape 3 sur 3 : Connexion de Microsoft Dynamics avec Marketo (en ligne) {#step-of-connect-microsoft-dynamics-with-marketo-online}
+# Étape 3 sur 3 : Connecter Microsoft Dynamics avec Marketo (en ligne) {#step-of-connect-microsoft-dynamics-with-marketo-online}
 
 Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque !
 
@@ -30,7 +30,7 @@ Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque 
 >
 >**Autorisations d’administrateur requises**
 
-## Entrer les informations utilisateur Dynamics Sync {#enter-dynamics-sync-user-information}
+## Entrer les informations utilisateur de Dynamics Sync {#enter-dynamics-sync-user-information}
 
 1. Connectez-vous à Marketing et cliquez sur **Admin**.
 
@@ -44,7 +44,7 @@ Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque 
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. Cliquez sur **Modifier** à l’ **étape 1 : Saisissez des informations d’identification**.
+1. Cliquez sur **Modifier** dans **Étape 1 : Saisissez les informations d’identification**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
@@ -52,7 +52,7 @@ Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque 
    >
    >Assurez-vous que vos informations d’identification sont correctes car nous ne pouvons pas annuler les modifications de schéma suivantes après l’envoi. Si des informations d’identification incorrectes sont enregistrées, vous devrez obtenir un nouvel abonnement Marketo.
 
-1. Saisissez le **nom d’utilisateur**, le **mot de passe** et l’ **URL** Microsoft Dynamics (l’ID de client et la clé secrète client sont facultatifs). Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Saisissez le **nom d’utilisateur**, **mot de passe** et l’URL de Microsoft Dynamics **** (l’ID de client et la clé secrète client sont facultatifs). Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/five-1.png)
 
@@ -62,7 +62,7 @@ Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque 
 
 ## Sélectionner les champs à synchroniser {#select-fields-to-sync}
 
-1. Cliquez sur **Modifier** à l’ **étape 2 : Sélectionnez Champs à synchroniser**.
+1. Cliquez sur **Modifier** dans **Étape 2 : Sélectionnez Champs à synchroniser**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -78,7 +78,7 @@ Si vous avez créé un filtre personnalisé, veillez à entrer et à sélectionn
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Cliquez sur **Modifier** dans Détails de synchronisation des champs.
+1. Cliquez sur **Modifier** sur Détails de synchronisation des champs.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -88,7 +88,7 @@ Si vous avez créé un filtre personnalisé, veillez à entrer et à sélectionn
 
 ## Activer la synchronisation {#enable-sync}
 
-1. Cliquez sur **Modifier** à l’ **étape 3 : Activez Synchroniser**.
+1. Cliquez sur **Modifier** dans **Étape 3 : Activez Sync**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -96,7 +96,7 @@ Si vous avez créé un filtre personnalisé, veillez à entrer et à sélectionn
    >
    >Marketo ne dédupliquera pas automatiquement une synchronisation Microsoft Dynamics ou lorsque vous entrez manuellement des personnes ou des pistes.
 
-1. Lisez tout ce qui se trouve dans la fenêtre contextuelle, entrez votre adresse électronique, puis cliquez sur **Début Sync**.
+1. Lisez tout dans la fenêtre contextuelle, entrez votre adresse électronique, puis cliquez sur **Début Sync**.
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
