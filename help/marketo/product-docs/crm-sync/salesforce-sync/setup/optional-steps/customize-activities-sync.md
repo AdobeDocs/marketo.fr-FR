@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Personnaliser la synchronisation des Activités {#customize-activities-sync}
+# Synchronisation des Activités personnalisée {#customize-activities-sync}
 
-Si vous n&#39;utilisez pas [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), Marketo peut créer des enregistrements d&#39;historique des Activités de Salesforce pour certains événements. Voici comment les activer.
+Si vous n&#39;utilisez pas [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), Marketo peut créer des enregistrements d&#39;historique des Activités Salesforce pour certains événements. Voici comment les activer.
 
 1. Accédez à **Admin. **
 
    ![](assets/admin.png)
 
-1. Cliquez sur **Salesforce**, puis sur **Modifier les options** de synchronisation.
+1. Cliquez sur **Salesforce**, puis sur **Modifier les options de synchronisation**.
 
    ![](assets/two-1.png)
 
-1. Cochez les cases en regard des activités que Marketo doit transmettre à Salesforce, puis cliquez sur **Enregistrer**.
+1. Cochez les cases en regard des activités que vous souhaitez que Marketo envoie à Salesforce, puis cliquez sur **Enregistrer**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Une fois activé, Marketo repoussera trois mois d&#39;activité historique. Selon la quantité de données, *cette opération peut prendre plusieurs jours*. Les mises à jour survenant pendant la transmission des Activités initiales peuvent être retardées jusqu’à la fin de la synchronisation des Activités initiales.
+   >Une fois activé, Marketo repoussera trois mois d&#39;activité historique. Selon la quantité de données, *cette opération peut prendre plusieurs jours.* Les mises à jour survenant pendant la transmission des Activités initiales peuvent être retardées jusqu’à la fin de la synchronisation des Activités initiales.
 
 <table> 
  <colgroup> 
@@ -99,9 +99,9 @@ Si vous n&#39;utilisez pas [Sales Insight](http://docs.marketo.com/display/DOCS/
 >**Rappel**
 >
 >
->&quot;Adresse électronique de vente reçue&quot; **ne signifie pas** remise. L&#39;état remis n&#39;est pas capturé pour les courriers électroniques envoyés via Sales Insight.
+>Le terme &quot;courrier électronique de vente reçu&quot; **ne signifie pas** livraison. L&#39;état remis n&#39;est pas capturé pour les courriers électroniques envoyés via Sales Insight.
 
 >[!TIP]
 >
->Si vous souhaitez obtenir plus d&#39;informations sur le marketing dans Salesforce, consultez notre produit [Marketo Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) .
+>Si vous souhaitez obtenir plus d&#39;informations sur le marketing dans Salesforce, consultez notre [produit Marketing Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
 
