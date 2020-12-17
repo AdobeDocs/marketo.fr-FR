@@ -17,7 +17,7 @@ Si vous avez exécuté une liste intelligente et que quelques minutes se sont é
 
 ## Actualiser les résultats {#refresh-results}
 
-1. Pour mettre à jour les données dans l’onglet **Personnes** d’une liste dynamique, cliquez sur l’icône Actualiser.
+1. Pour mettre à jour les données dans l&#39;onglet **Personnes** d&#39;une liste intelligente, cliquez sur l&#39;icône Actualiser.
 
    ![](assets/refreshbutton.png)
 
