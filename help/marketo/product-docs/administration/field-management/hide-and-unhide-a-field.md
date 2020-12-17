@@ -21,11 +21,11 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo, vous pouvez le
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à **Admin** et cliquez sur Gestion des **** champs.
+1. Accédez à **Admin** et cliquez sur **Gestion des champs**.
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. Recherchez le champ, sélectionnez-le, puis sous Actions **de** champ, cliquez sur **Masquer le champ**.
+1. Recherchez le champ, sélectionnez-le, puis sous **Actions de champ** cliquez sur **Masquer le champ**.
 
    ![](assets/fieldmanagement-hidefield-.png)
 
@@ -44,11 +44,11 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo, vous pouvez le
 
 ## Afficher un champ {#unhide-a-field}
 
-1. Accédez à **Admin** et cliquez sur Gestion des **** champs.
+1. Accédez à **Admin** et cliquez sur **Gestion des champs**.
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. Recherchez et sélectionnez le champ, puis sous Actions **de** champ, cliquez sur **`Unhide Field`**.
+1. Recherchez et sélectionnez le champ, puis sous **Actions de champ** cliquez sur **`Unhide Field`**.
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
