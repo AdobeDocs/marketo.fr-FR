@@ -19,7 +19,7 @@ Créer une Tâche dans Microsoft crée une tâche sous Activités liées à la p
 
 >[!NOTE]
 >
->Cette étape de flux ne fonctionne **que lorsqu’elle est utilisée avec des déclencheurs** et non des filtres dans votre campagne dynamique.
+>Cette étape de flux ne fonctionne **que si elle est utilisée avec des déclencheurs**, et non avec des filtres, dans votre campagne dynamique.
 
 Par défaut, l’étape de flux se présente comme suit :   ![](assets/msd1.png)
 
@@ -35,5 +35,5 @@ Personnalisez tous les champs pour créer la tâche comme vous le souhaitez.   !
 
 >[!TIP]
 >
->Vous pouvez utiliser `{{lead.tokens}}`, `{{company.tokens}}``{{campaign.tokens}}` et `{{system.tokens}}` dans le **sujet** et la **description.** Voir [Jetons pour les étapes](http://docs.marketo.com/x/c4AR) de flux pour plus d’informations.
+>Vous pouvez utiliser `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` et `{{system.tokens}}` dans **Objet** et **Description**. Voir [Jetons pour les étapes de flux](http://docs.marketo.com/x/c4AR) pour plus de détails.
 
