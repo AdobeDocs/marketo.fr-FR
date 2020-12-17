@@ -33,7 +33,7 @@ Si l’application Marketo Événements n’est pas encore installée sur votre 
 
    ![](assets/image2016-4-14-15-3a52-3a19.png)
 
-1. Dans la zone de recherche, saisissez **Marketo** et, dans Suggestions, appuyez sur **Marketo événements**.
+1. Dans la zone de recherche, saisissez **Marketo** et, dans Suggestions, appuyez sur **événements marketing**.
 
    ![](assets/image2016-4-14-16-3a0-3a3.png)
 
@@ -45,13 +45,13 @@ Si l’application Marketo Événements n’est pas encore installée sur votre 
 
 1. Ouvrez votre tablette et appuyez sur l’application** Google Play Store**.
 1. Dans la zone Rechercher, saisissez **Marketo** et appuyez sur **Retour**.
-1. Dans les résultats de la recherche, appuyez sur l’application Événements **** Marketo.
+1. Dans les résultats de la recherche, appuyez sur l’application **Événements marketing**.
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
 1. Suivez les procédures de téléchargement et d’installation de l’application sur votre tablette.
 
-## Confirmation des informations d’identification de connexion pour les utilisateurs d’iPad et de tablettes {#confirm-login-credentials-for-ipad-and-tablet-users}
+## Confirmer les informations d’identification de connexion pour les utilisateurs d’iPad et de tablettes {#confirm-login-credentials-for-ipad-and-tablet-users}
 
 Avant d’affecter des iPad ou des tablettes au personnel du salon, vérifiez que les informations de connexion qu’ils utiliseront fonctionnent correctement et que votre événement s’affiche sur l’écran d’accueil de l’application.
 
@@ -62,9 +62,9 @@ Avant d’affecter des iPad ou des tablettes au personnel du salon, vérifiez qu
 
    >[!NOTE]
    >
-   >Plusieurs minutes peuvent s’écouler depuis la création d’un nouveau événement pour qu’il s’affiche dans l’iPad ou l’application pour tablette. S’il n’apparaît pas, appuyez sur **Déconnexion** sur l’écran d’accueil, patientez quelques minutes, puis reconnectez-vous.
+   >Plusieurs minutes peuvent s’écouler depuis la création d’un nouveau événement pour qu’il s’affiche dans l’iPad ou l’application pour tablette. S’il n’apparaît pas, appuyez sur **Déconnexion** dans l’écran d’accueil, attendez quelques minutes, puis reconnectez-vous.
 
-## Synchronisation de l’application pour remplir le Événement {#sync-the-app-to-populate-the-event}
+## Synchroniser l’application pour renseigner le Événement {#sync-the-app-to-populate-the-event}
 
 Synchronisez pour vous assurer que les personnes que vous avez ajoutées sont là.
 
@@ -79,17 +79,17 @@ Synchronisez pour vous assurer que les personnes que vous avez ajoutées sont l�
 
    ![](assets/screenshot-2016-04-15-14-14-08-sync-button.png)
 
-## Confirmer le fonctionnement des enregistrements {#confirm-check-ins-are-working}
+## Confirmer que les visites fonctionnent {#confirm-check-ins-are-working}
 
 Assurez-vous de vérifier que les enregistrements fonctionnent sur iPad ou tablette avant le événement.
 
-1. Dans l&#39;application, [vérifiez une piste de test dans](check-people-into-your-event-from-your-tablet.md).
+1. Dans l&#39;application, [vérifiez une piste de test dans ](check-people-into-your-event-from-your-tablet.md).
 1. Appuyez sur l’icône **Synchroniser** pour synchroniser l’application.
 1. Dans Marketo, ouvrez votre événement et cliquez sur **Membres**.
 
    ![](assets/image2016-4-15-15-3a32-3a42.png)
 
-1. Confirmez que l’état de la personne est remplacé par **Participé** et que l’option Réussite est cochée.
+1. Vérifiez que l’état de la personne est remplacé par **Attended** et que la réussite est vérifiée.
 
    ![](assets/image2016-4-18-14-3a11-3a36.png)
 
