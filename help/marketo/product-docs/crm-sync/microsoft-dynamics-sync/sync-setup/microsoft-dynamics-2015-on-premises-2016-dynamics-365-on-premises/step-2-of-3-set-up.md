@@ -25,7 +25,7 @@ Excellent travail à la réalisation des étapes précédentes. Continuons à pa
 
 
 
-## Attribuer un rôle utilisateur de synchronisation {#assign-sync-user-role}
+## Affecter le rôle utilisateur de synchronisation {#assign-sync-user-role}
 
 Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’utilisateur de synchronisation du marketing. Vous n’avez pas besoin de l’affecter à d’autres utilisateurs.
 
@@ -41,7 +41,7 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
    ![](assets/assign2.png)
 
-1. Vous verrez ici une liste d&#39;utilisateurs. Sélectionnez l&#39;utilisateur Marketo Sync dédié ou contactez votre administrateur des services [de fédération](https://msdn.microsoft.com/en-us/library/bb897402.aspx)Principale Directory (ADFS) pour créer un utilisateur dédié pour Marketo.
+1. Vous verrez ici une liste d&#39;utilisateurs. Sélectionnez l&#39;utilisateur Marketo Sync dédié ou contactez votre administrateur [Principale Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS) pour créer un utilisateur dédié pour Marketo.
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -55,11 +55,11 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
    >[!TIP]
    >
-   >Si vous ne voyez pas le rôle, revenez à l’ [étape 1 sur 3](step-1-of-3-install.md) et importez la solution.
+   >Si vous ne voyez pas le rôle, revenez à l&#39;[étape 1 de 3](step-1-of-3-install.md) et importez la solution.
 
    >[!NOTE]
    >
-   >Les mises à jour effectuées dans votre gestion de la relation client par l’utilisateur de synchronisation **ne seront pas** synchronisées à nouveau sur Marketing Cloud.
+   >Toutes les mises à jour effectuées dans votre gestion de la relation client par l’utilisateur de synchronisation **ne** seront &lt;a0/> synchronisées de nouveau sur Marketo.
 
 ## Configurer la solution marketing {#configure-marketo-solution}
 
@@ -71,13 +71,13 @@ Presque terminé ! Nous n&#39;avons que quelques derniers éléments de configur
 
    >[!NOTE]
    >
-   >Si la configuration du marketing est manquante, essayez d’actualiser la page. Si le problème persiste, [publiez la solution](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) Marketo ou essayez de vous déconnecter puis de vous reconnecter.
+   >Si la configuration du marketing est manquante, essayez d’actualiser la page. Si le problème persiste, [publiez la solution marketing](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) ou essayez de vous déconnecter puis de vous reconnecter.
 
 1. Cliquez sur **Par défaut**.
 
    ![](assets/configure2.png)
 
-1. Cliquez sur le champ Utilisateur **** marketing et sélectionnez l’utilisateur de synchronisation.
+1. Cliquez sur le champ **Utilisateur du marketing** et sélectionnez l’utilisateur de synchronisation.
 
    ![](assets/configure3.png)
 
@@ -91,8 +91,8 @@ Presque terminé ! Nous n&#39;avons que quelques derniers éléments de configur
 
 ## Avant de passer à l’étape 3 {#before-proceeding-to-step}
 
-* Si vous souhaitez limiter le nombre d’enregistrements synchronisés, [configurez maintenant un filtre](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) de synchronisation personnalisé.
-* Exécutez le processus [Valider Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) . Il vérifie que vos premières configurations ont été effectuées correctement.
+* Si vous souhaitez limiter le nombre d&#39;enregistrements synchronisés, [configurez un filtre de synchronisation personnalisé](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) maintenant.
+* Exécutez le processus [Valider Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Il vérifie que vos premières configurations ont été effectuées correctement.
 * Connectez-vous à l&#39;utilisateur de synchronisation du marketing dans Microsoft Dynamics CRM.
 
 >[!NOTE]
