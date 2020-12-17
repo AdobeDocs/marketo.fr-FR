@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configuration de l’équipe de comptes {#account-team-setup}
+# Configuration de l&#39;équipe de comptes {#account-team-setup}
 
 Une équipe de compte est un groupe de parties prenantes qui travaillent ensemble sur un compte nommé. Pour choisir les rôles de compte CRM à ajouter, procédez comme suit.
 
@@ -31,7 +31,7 @@ Une équipe de compte est un groupe de parties prenantes qui travaillent ensembl
    >
    >Pour Rôle du compte, attribuez-lui un nom et faites-le correspondre au champ de recherche d’utilisateur de votre choix dans votre gestion de la relation client.
 
-1. Saisissez le nom du rôle du compte et sélectionnez le champ **CRM** . Ajoute jusqu&#39;à 10.
+1. Saisissez le nom de votre rôle de compte et sélectionnez le champ **CRM**. Ajoute jusqu&#39;à 10.
 
    ![](assets/four-2.png)
 
