@@ -25,7 +25,7 @@ La piste d’audit est disponible pour tous les clients et est contrôlée par d
 
    ![](assets/one-2.png)
 
-1. Sélectionnez **Utilisateurs et rôles** , puis cliquez sur **Rôles**.
+1. Sélectionnez **Utilisateurs et rôles** et cliquez sur **Rôles**.
 
    ![](assets/two-2.png)
 
@@ -37,7 +37,7 @@ La piste d’audit est disponible pour tous les clients et est contrôlée par d
    >
    >Vous avez également la possibilité de créer un nouveau rôle et de lui accorder l’accès Audit Trail.
 
-1. Développez l’autorisation d’administrateur **** Access. Sélectionnez **Accéder à la piste d&#39;audit** et/ou **Accéder à l&#39;historique** d&#39;identification, en fonction de vos besoins. Cliquez sur **Enregistrer**.
+1. Développez l&#39;autorisation **Access Admin**. Sélectionnez **Chemin d&#39;audit d&#39;accès** et/ou **Historique de connexion d&#39;accès**, en fonction de vos besoins. Cliquez sur **Enregistrer**.
 
    ![](assets/four-1.png)
 
@@ -46,22 +46,22 @@ La piste d’audit est disponible pour tous les clients et est contrôlée par d
    >**Définition**
    >
    >
-   >**Piste d&#39;audit d&#39;accès :** Donne aux utilisateurs l’accès à la piste d’audit des ressources et à la piste d’audit des administrateurs.
+   >**Chemin d’accès à la piste d’audit :** donne aux utilisateurs l’accès à la piste d’audit des ressources et à la piste d’audit des administrateurs.
    >
    >
-   >**Historique de connexion à l&#39;accès :** Donne aux utilisateurs l’accès à l’historique [de connexion](user-login-history.md)des utilisateurs.
+   >**Historique de connexion des accès :** donne aux utilisateurs l’accès à l’historique [ de connexion des ](user-login-history.md)utilisateurs.
 
-## Affecter un rôle de piste d&#39;audit à un utilisateur {#assign-audit-trail-role-to-a-user}
+## Attribuer le rôle de piste d&#39;audit à un utilisateur {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[Créez](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) ou [activez](#Enable) un rôle existant, en lui accordant des autorisations de piste d’audit.
+>[](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) Creator  [](#Enable) active un rôle existant, en lui attribuant les autorisations Audit Trail.
 
 1. Dans **Utilisateurs et rôles**, cliquez sur **Utilisateurs**.
 
    ![](assets/five-1.png)
 
-1. Sélectionnez l’utilisateur auquel vous souhaitez autoriser l’accès à la piste d’audit, puis cliquez sur **Modifier l’utilisateur**.
+1. Sélectionnez l’utilisateur auquel vous souhaitez autoriser l’accès à la piste d’audit et cliquez sur **Modifier l’utilisateur**.
 
    ![](assets/six-1.png)
 
@@ -75,7 +75,7 @@ La piste d’audit est disponible pour tous les clients et est contrôlée par d
 
    >[!CAUTION]
    >
-   >Si les espaces de travail sont activés, cochez la case du rôle, qui sélectionne tous les espaces de travail. La désélection d’un espace de travail individuel masquera la piste d’audit. Cela signifie que vous verrez les données de piste d’audit pour chaque espace de travail. Vous avez la possibilité de masquer les espaces de travail lors du [filtrage](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
+   >Si les espaces de travail sont activés, cochez la case du rôle, qui sélectionne tous les espaces de travail. La désélection d’un espace de travail individuel masquera la piste d’audit. Cela signifie que vous verrez les données de piste d’audit pour chaque espace de travail. Vous avez la possibilité de masquer les espaces de travail lorsque [le filtrage](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail) est activé.
 
 1. Cliquez sur **Enregistrer**.
 
