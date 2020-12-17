@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Exportation d’une Liste statique vers Adobe Experience Cloud {#export-a-static-list-to-adobe-experience-cloud}
+# Exporter une Liste statique vers Adobe Experience Cloud {#export-a-static-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
@@ -30,17 +30,17 @@ ht-degree: 0%
 * Plate-forme de données client en temps réel Adobe
 * Adobe Target
 
-## Exportation d’une Liste {#how-to-export-a-list}
+## Exportation d&#39;une Liste {#how-to-export-a-list}
 
 1. Dans Marketo, recherchez et sélectionnez la liste à exporter.
 
    ![](assets/one.png)
 
-1. Cliquez sur la liste déroulante Actions **de** Liste et sélectionnez **Envoyer à l’Experience Cloud**.
+1. Cliquez sur la liste déroulante **Actions de Liste** et sélectionnez **Envoyer à l’Experience Cloud**.
 
    ![](assets/two-1.png)
 
-1. Cliquez sur la liste déroulante Dossier **** d’Audience Manager et sélectionnez le dossier de destination de votre choix dans l’Experience Cloud.
+1. Cliquez sur la liste déroulante **Dossier d’Audience Manager** et sélectionnez le dossier de destination de votre choix dans l’Experience Cloud.
 
    ![](assets/three-1.png)
 
