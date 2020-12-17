@@ -29,25 +29,25 @@ Aucun brouillon est automatiquement activé pour tous les rôles d’administrat
 
    ![](assets/usersandroles.png)
 
-1. Accédez à l’onglet **Rôles** , sélectionnez un rôle, puis cliquez sur **Modifier le rôle**.
+1. Accédez à l&#39;onglet **Rôles**, sélectionnez un rôle, puis cliquez sur **Modifier le rôle**.
 
    ![](assets/editrole2.png)
 
-1. Développez l’option **Access Design Studio** .
+1. Développez l&#39;option **Access Design Studio**.
 
    ![](assets/expanddesignstudio.png)
 
-1. Développez l’option Extrait de **code** d’accès.
+1. Développez l&#39;option **Extrait d&#39;accès**.
 
    ![](assets/expandsnippet.png)
 
-1. Développez l’autorisation **Approuver l’extrait de code** et cochez la case **Pas de brouillon** . Cliquez ensuite sur **Enregistrer**.
+1. Développez l’autorisation **Approuver l’extrait de code** et cochez la case **No-Draft**. Cliquez ensuite sur **Enregistrer**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
->Pour désactiver l’option Pas de brouillon, suivez les étapes 1 à 4 ci-dessus, désactivez la case à cocher Pas de brouillon, puis cliquez sur **Enregistrer**.
+>Pour désactiver No-Draft, suivez les étapes 1 à 4 ci-dessus, décochez la case No-Draft, puis cliquez sur **Enregistrer**.
 
 >[!MORELIKETHIS]
 >
