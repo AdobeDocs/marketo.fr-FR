@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Disponible uniquement lorsqu&#39;il est intégré à Salesforce.
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Cette étape de flux va insérer des personnes créées par Marketing comme pistes dans votre logiciel de gestion de la relation client Salesforce.
 
