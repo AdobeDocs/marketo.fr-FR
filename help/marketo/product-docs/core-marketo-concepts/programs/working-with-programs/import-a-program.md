@@ -17,7 +17,7 @@ Un programme peut être importé d&#39;un abonnement de marché à un autre. Par
 
 ## Importer un Programme {#import-a-program-1}
 
-1. Accédez à Activités **marketing.**
+1. Accédez à **Activités marketing.**
 
    ![](assets/ma.png)
 
@@ -27,22 +27,22 @@ Un programme peut être importé d&#39;un abonnement de marché à un autre. Par
 
    >[!NOTE]
    >
-   >L’importation de programme n’est disponible que pour les utilisateurs pour lesquels l’autorisation d’importation de Programme est activée. En savoir plus sur la [gestion des rôles utilisateur et des autorisations](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >L’importation de programme n’est disponible que pour les utilisateurs pour lesquels l’autorisation d’importation de Programme est activée. En savoir plus sur [la gestion des rôles utilisateur et des autorisations](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
    >
-   >Pour connecter un compte sandbox à votre abonnement actif, contactez l’assistance [](http://www.marketo.com/services/support/)marketing.
+   >Pour connecter un compte sandbox à votre abonnement actif, contactez le [Support marketing](http://www.marketo.com/services/support/).
 
-1. Sélectionnez un **Abonnement** marketing et un programme à importer. Cliquez sur **Suivant**.
+1. Sélectionnez un Abonnement Marketo **** et un programme à importer. Cliquez sur **Suivant**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
-1. Spécifiez un dossier **** Campaign pour le programme importé. Cliquez sur **Suivant.**
+1. Spécifiez un **dossier Campaign** pour le programme importé. Cliquez sur **Suivant.**
 
    ![](assets/image2014-9-17-12-3a20-3a44.png)
 
    >[!NOTE]
    >
-   >Assurez-vous que** ****Utiliser les règles de conflit** par défaut est sélectionné. Des règles de conflit sont nécessaires lorsque vous importez des programmes dans une instance dont les actifs portent le même nom.
+   >Assurez-vous que** ****Utiliser les règles de conflit par défaut** est sélectionné. Des règles de conflit sont nécessaires lorsque vous importez des programmes dans une instance dont les actifs portent le même nom.
 
 1. Détails de la prévisualisation et **Importer** le programme.
 
@@ -58,7 +58,7 @@ Vous recevrez une confirmation par courrier électronique une fois l&#39;importa
 >
 >Vous devez replanifier des campagnes par lots importées et activer des campagnes de déclenchement. Le système désactive automatiquement les planifications de campagne et déclenche les campagnes dans le programme importé.
 
-## Identification des Programmes prédéveloppés dans la bibliothèque de Programmes de marketing {#identify-pre-built-programs-in-the-marketo-program-library}
+## Identifier les Programmes prédéveloppés dans la bibliothèque de Programmes de marketing {#identify-pre-built-programs-in-the-marketo-program-library}
 
 La bibliothèque de Programmes Marketo contient des programmes pré-créés et testés que vous pouvez importer dans votre abonnement. Les programmes disponibles sont les suivants :
 
@@ -77,13 +77,13 @@ La bibliothèque de Programmes Marketo contient des programmes pré-créés et t
 1. **Synchroniser les nouvelles personnes avec CRM.** Campagne qui synchronise les nouvelles personnes sur votre système de gestion de la relation client. Il attribue un statut à une personne de telle sorte qu&#39;elle soit reconnue comme n&#39;étant pas prête pour les ventes.
 1. **Webinaire avec adaptateur de Événement.** Un ensemble complet de courriels - tels que des invitations et des rappels - plus des landings page avec des formulaires et des campagnes pour déplacer les personnes à travers le programme. Ce programme reçoit des mises à jour sur l&#39;inscription, la présence, etc. provenant de fournisseurs de événements en ligne tels que WebEx.
 1. **Webinaire sans adaptateur de Événement.** Comme ci-dessus, mais avec des processus manuels pour enregistrer l&#39;inscription, la présence, etc.
-1. **Programme** de score des décisions Sirius. Ce programme est conçu pour prendre en charge le modèle standard de notation des décisions Sirius, y compris les règles de notation implicites et explicites et l&#39;affectation de personnes matriquées. Vue [de ce](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)PDF pour plus d’informations.
+1. **Programme** de score des décisions Sirius. Ce programme est conçu pour prendre en charge le modèle standard de notation des décisions Sirius, y compris les règles de notation implicites et explicites et l&#39;affectation de personnes matriquées. Vue [ce PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)pour plus de détails.
 
 >[!CAUTION]
 >
 >Vous devez créer deux champs personnalisés (&quot;Score démographique&quot; et &quot;Score comportemental&quot;) avant d’importer le programme Scoring - Standard &amp; Select Editions.
 
-## Impact sur les actifs externes lors des importations de Programme {#impact-on-external-assets-during-program-imports}
+## Impact sur les actifs externes au cours des importations de Programme {#impact-on-external-assets-during-program-imports}
 
 Les programmes utilisent des ressources externes telles que des modèles de courrier électronique, des modèles de landing page, des images, des formulaires, des jetons et des balises de programme. Vous pouvez configurer la manière dont les modèles de landing page et les balises de programme sont traités et Marketo gère automatiquement le reste.
 
@@ -103,8 +103,8 @@ Les programmes utilisent des ressources externes telles que des modèles de cour
 
 >[!CAUTION]
 >
->Lors de l’importation d’un programme, les landings page/courriers électroniques contenant du contenu [](http://docs.marketo.com/x/yRAt) dynamique sont ignorés.
+>Lors de l’importation d’un programme, les landings page/courriers électroniques contenant [contenu dynamique](http://docs.marketo.com/x/yRAt) sont ignorés.
 
-## Regarder une vidéo {#watch-a-video}
+## Visionnage d’une vidéo {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
