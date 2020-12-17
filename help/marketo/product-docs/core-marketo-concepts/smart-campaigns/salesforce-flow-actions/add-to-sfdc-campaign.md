@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Disponible uniquement lorsqu&#39;il est intégré à Salesforce.
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Cette étape de flux peut être utilisée dans les campagnes marketing ou comme étape de flux unique pour ajouter des personnes en tant que pistes dans une campagne Salesforce. Si le prospect n&#39;existe pas encore dans Salesforce, il est automatiquement synchronisé et ajouté à la campagne avec l&#39;état spécifié.
 
@@ -35,8 +35,8 @@ Cette étape de flux peut être utilisée dans les campagnes marketing ou comme 
    >
    >    
    >    
-   >    1. Assurez-vous que la synchronisation [de campagne est activée](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-   >    1. Vérifiez que votre utilisateur [](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) synchronisé Marketo est un utilisateur [](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) Marketing dans Salesforce.
+   >    1. Assurez-vous que la synchronisation de campagne [est activée](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+   >    1. Vérifiez que votre [utilisateur de synchronisation du marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) est un [utilisateur marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) dans Salesforce.
 
 
    >[!TIP]
@@ -49,5 +49,5 @@ Cette étape de flux peut être utilisée dans les campagnes marketing ou comme 
 
    >[!CAUTION]
    >
-   >Si une personne est déjà membre principal de la campagne Salesforce, elle sera ignorée et son statut NE sera PAS mis à jour. Vous pouvez [modifier leur état dans une campagne](change-status-in-sfdc-campaign.md) SFDC à la place.
+   >Si une personne est déjà membre principal de la campagne Salesforce, elle sera ignorée et son statut NE sera PAS mis à jour. Vous pouvez à la place utiliser [modifier leur état dans une campagne SFDC](change-status-in-sfdc-campaign.md).
 
