@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Comprendre les coûts de la période {#understanding-period-costs}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Les coûts périodiques se rapportent à l&#39;argent que vous dépensez au cours d&#39;un mois donné sur un programme.
 
@@ -23,7 +23,7 @@ Les coûts périodiques se rapportent à l&#39;argent que vous dépensez au cour
 >
 >Si vous dépensez 1 000 $ pour embaucher un illustrateur pour un eBook qui démarre en juillet, le programme eBook coûterait 1 000 $ en juillet.
 >
->Si vous dépensez 200 dollars par mois dans Google Adwords - le programme Google Adwords coûterait 200 dollars **par mois**.
+>Si vous dépensez 200 $ par mois dans Google Adwords, le programme Google Adwords aura un coût de 200 $ **par mois**.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Imaginez un événement, comme un webinaire, qui se déroule en mars. De nouvell
 
    ![](assets/graph1.png)
 
-   ...les contacts ajoutés dans les mois précédant et suivant ne seront *comptés que* vers mars.
+   ...les contacts ajoutés dans les mois précédant et suivant seront *comptés uniquement* vers mars.
 
    ![](assets/graph2.png)
 
@@ -66,7 +66,7 @@ Imaginez un événement, comme un webinaire, qui se déroule en mars. De nouvell
    >**Rappel**
    >
    >
-   >En résumé - les mois sans période définie les coûts remontent &quot;en arrière&quot; à la dernière période définie. S&#39;il n&#39;y a pas de coût pour la période antérieure, les mois seront reportés à la période suivante définie. Si un coût de période n&#39;a pas été défini pour *un mois* , le rapports en RCE ne sera pas disponible pour le programme.
+   >En résumé - les mois sans période définie les coûts remontent &quot;en arrière&quot; à la dernière période définie. S&#39;il n&#39;y a pas de coût pour la période antérieure, les mois seront reportés à la période suivante définie. Si le coût d&#39;une période n&#39;a pas été défini pour *n* mois, le rapports en RCE ne sera pas disponible pour le programme.
 
    >[!NOTE]
    >
