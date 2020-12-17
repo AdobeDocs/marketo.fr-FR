@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Synchronisation SFDC : Fusion d&#39;une piste, d&#39;un contact ou d&#39;une personne {#sfdc-sync-merging-a-lead-contact-person}
+# Synchronisation SFDC : Fusionner une piste, un contact ou une personne {#sfdc-sync-merging-a-lead-contact-person}
 
 Parfois, il est préférable de simplement liste les règles. Et voici :
 
@@ -34,5 +34,5 @@ Parfois, il est préférable de simplement liste les règles. Et voici :
 >
 >**Plongée profonde**
 >
->Explorez en profondeur pour plus d&#39;informations sur la [fusion de personnes dans Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>Explorez en profondeur pour plus d&#39;informations sur [la fusion de personnes dans Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
 
