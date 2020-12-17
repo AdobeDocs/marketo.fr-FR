@@ -27,19 +27,19 @@ Le marketing unifie la gestion des pistes et des ABM dans une seule solution, ce
 
 L&#39;ABM de marketing est constitué de trois composants :
 
-**1) [Cible](http://docs.marketo.com/display/docs/target)**
+**1)  [Cible](http://docs.marketo.com/display/docs/target)**
 
 * Détection de compte
 * Correspondance piste-compte
 * Listes de compte nommées
 
-**2) [Interagir](http://docs.marketo.com/display/docs/engage)**
+**2)  [Interagir](http://docs.marketo.com/display/docs/engage)**
 
 * Personnalisation basée sur un compte
 * Engagement sur plusieurs Canaux
 * Workflows spécifiques au compte
 
-**3) [Mesure](http://docs.marketo.com/display/docs/measure)**
+**3)  [Mesure](http://docs.marketo.com/display/docs/measure)**
 
 * Statistiques au niveau du compte et de la Liste
 * Note sur l’engagement du compte
@@ -47,11 +47,11 @@ L&#39;ABM de marketing est constitué de trois composants :
 
 Marketing basé sur le compte marketing offre également divers outils pour personnaliser l’expérience de compte nommé d’un canal à l’autre.
 
-* Personnalisation des courriels et des Landings page [](http://docs.marketo.com/display/DOCS/Personalization)
-* Personnalisation [Web](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* Personnalisation [des URL](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* Personnalisation [des publicités](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [Remarketing personnalisé](http://docs.marketo.com/display/DOCS/Website+Retargeting)
+* E-mail et Landing page [Personnalisation](http://docs.marketo.com/display/DOCS/Personalization)
+* Web [Personnalisation](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
+* URL [Personnalisation](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
+* Publicité [Personnalisation](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
+* [](http://docs.marketo.com/display/DOCS/Website+Retargeting) PersonnaliséRemarketing
 
 J&#39;y suis ! Comment puis-je commencer ?
 
@@ -59,6 +59,6 @@ Nous pensions que vous ne le demanderiez jamais ! ABM est disponible en tant que
 
 >[!NOTE]
 >
->Les comptes nommés gérés dans l&#39;ABM de Marketo sont accessibles directement à partir de l&#39;ABM Web pour des besoins de personnalisation Web. En savoir plus [ici](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM).
+>Les comptes nommés gérés dans l&#39;ABM de Marketo sont accessibles directement à partir de l&#39;ABM Web pour des besoins de personnalisation Web. Pour en savoir plus [ici](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM).
 
 Bienvenue sur le site de Marketo ABM, et profitez du marketing ciblé !
