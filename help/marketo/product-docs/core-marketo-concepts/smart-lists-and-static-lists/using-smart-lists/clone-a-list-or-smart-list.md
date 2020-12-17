@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Au lieu de créer une liste intelligente à partir de zéro, gagnez du temps en clonant une autre  similaire et en apportant des modifications. Voici comment.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,11 +23,11 @@ Au lieu de créer une liste intelligente à partir de zéro, gagnez du temps en 
 
    ![](assets/smartlist-find.png)
 
-1. Sous Actions **** de Liste, cliquez sur **Cloner la Liste** dynamique.
+1. Sous **Actions de Liste**, cliquez sur **Clone Smart Liste**.
 
    ![](assets/clonesmartlist-hands.png)
 
-1. Saisissez un **nom** , puis cliquez sur **Cloner**.
+1. Saisissez un **nom** et cliquez sur **Clone**.
 
    ![](assets/supersmartlist-clonewindow.png)
 
