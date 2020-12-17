@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Correspondance de piste avec compte {#lead-to-account-matching}
+# Correspondance de compte {#lead-to-account-matching}
 
 La correspondance à droite conduit à des comptes nommés à droite à l’aide de la correspondance de pistes vers comptes de marketing.
 
 >[!NOTE]
 >
->**La mise en correspondance** pistes/comptes est une fonctionnalité intégrée du marketing basé sur les comptes de marketing. Il utilise une logique floue pour faire correspondre automatiquement les pistes aux bons comptes nommés en temps quasi réel. Il peut s’agir de comptes CRM ou de sociétés marketing.
+>**La** correspondance de pistes/comptes est une fonctionnalité intégrée du marketing basé sur les comptes de marketing. Il utilise une logique floue pour faire correspondre automatiquement les pistes aux bons comptes nommés en temps quasi réel. Il peut s’agir de comptes CRM ou de sociétés marketing.
 
 La mise en correspondance de pistes vers comptes du marketing suit un processus en 4 étapes :
 
-**Étape 1 -** Notre processus de correspondance commence par l&#39;utilisation des informations clés sur les enregistrements de piste, comme :
+**Étape 1 -** Notre processus de rapprochement commence par l&#39;utilisation d&#39;informations clés sur les enregistrements de piste, telles que :
 
 * Domaine de courriel (acme.com, par exemple)
 * Nom de société déduit de l&#39;adresse IP
@@ -29,7 +29,7 @@ La mise en correspondance de pistes vers comptes du marketing suit un processus 
 
 **Étape 2 -** Nous normalisons les noms de société que nous trouvons en fonction de divers attributs de piste (par exemple, Acme Inc. et Acme Corp sont automatiquement normalisés en Acme). Cette étape permet de garantir une représentation unique du compte nommé dans Marketo et d&#39;afficher toutes les pistes dans un seul compte nommé.
 
-**Étape 3 -** La partition On a associé des pistes à 2 intervalles : Correspondance forte et Correspondance faible.
+**Étape 3 -** Nous partageons les pistes correspondantes dans 2 compartiments : Correspondance forte et Correspondance faible.
 
 * Les pistes avec correspondance faible s&#39;affichent sur les comptes nommés, qui peuvent ensuite être résolues manuellement.
 
@@ -39,7 +39,7 @@ La mise en correspondance des pistes vers les comptes étant une fonction intég
 
 >[!NOTE]
 >
->Si vous utilisez LeanData dans Salesforce pour effectuer une correspondance de piste vers compte, Marketo dispose d’une intégration qui synchronisera ces correspondances avec votre instance Marketo. Pour activer cette fonctionnalité, contactez le support technique [](https://nation.marketo.com/t5/Support/ct-p/Support)Marketo.
+>Si vous utilisez LeanData dans Salesforce pour effectuer une correspondance de piste vers compte, Marketo dispose d’une intégration qui synchronisera ces correspondances avec votre instance Marketo. Pour activer cette fonction, contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!MORELIKETHIS]
 >
