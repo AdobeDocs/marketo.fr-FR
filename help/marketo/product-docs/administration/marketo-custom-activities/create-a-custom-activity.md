@@ -23,11 +23,11 @@ Pour créer une activité personnalisée, procédez comme suit.
 
    ![](assets/one.png)
 
-1. Dans Gestion des **** bases de données, cliquez sur Activités **** personnalisées.
+1. Dans **Gestion de la base de données**, cliquez sur **Activités personnalisées**.
 
    ![](assets/two.png)
 
-1. Cliquez sur **Nouvelle Activité** personnalisée.
+1. Cliquez sur **Nouvelle Activité personnalisée**.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ Pour créer une activité personnalisée, procédez comme suit.
    >
    >Si vous décidez de modifier le nom de l’API, assurez-vous que ce nom n’entre pas en conflit avec les champs d’autres activités personnalisées.
 
-1. Définissez votre **filtre** et votre **déclencheur** , puis cliquez sur **Suivant**.
+1. Définissez vos **Filtre** et **Déclencheur** et cliquez sur **Suivant**.
 
    ![](assets/five.png)
 
