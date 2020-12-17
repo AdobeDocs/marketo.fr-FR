@@ -23,15 +23,15 @@ Vous pouvez restreindre ou autoriser les utilisateurs à accéder à Marketo en 
 >
 >Les informations de cet article s’appliquent uniquement aux connexions directes sur login.marketo.com. Il n’est pas possible pour le moment d’imposer des restrictions d’IP sur les connexions SSO (Single Sign-On).
 
-1. Sous **Admin**, cliquez sur Paramètres **de** connexion.
+1. Sous **Admin**, cliquez sur **Paramètres de connexion**.
 
    ![](assets/image2014-9-16-12-3a57-3a56.png)
 
-1. Cliquez sur **Modifier les restrictions** IP.
+1. Cliquez sur **Modifier les restrictions IP**.
 
    ![](assets/image2014-9-16-12-3a58-3a13.png)
 
-1. Indiquez si vous souhaitez **Autoriser **ou **Bloquer** des adresses spécifiques, entrez la ou les adresses, puis cliquez sur **Enregistrer**.
+1. Indiquez si vous souhaitez **Autoriser **ou **Bloquer** les adresses spécifiques, entrez la ou les adresses, puis cliquez sur **Enregistrer**.
 
    >[!NOTE]
    >
