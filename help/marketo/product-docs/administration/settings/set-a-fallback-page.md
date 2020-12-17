@@ -23,11 +23,11 @@ Les pages de secours sont la dernière ligne de défense si votre landing page e
 
    ![](assets/image2014-9-10-12-3a7-3a22.png)
 
-1. Sous l’onglet **Landings page** , cliquez sur **Modifier**.
+1. Sous l&#39;onglet **Landings page**, cliquez sur **Modifier**.
 
    ![](assets/image2014-9-10-12-3a7-3a5.png)
 
-1. Saisissez une page **de** secours dans la boîte de dialogue et cliquez sur **Enregistrer**.
+1. Saisissez une **page de secours** dans la boîte de dialogue et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-10-12-3a6-3a2.png)
 
