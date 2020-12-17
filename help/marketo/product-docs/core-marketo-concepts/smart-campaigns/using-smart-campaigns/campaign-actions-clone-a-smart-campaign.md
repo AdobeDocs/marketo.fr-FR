@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Le clonage des campagnes peut vous faire gagner du temps. Il n’est pas nécessaire de tout créer à partir de zéro : le clonage crée une campagne identique avec les mêmes filtres de liste intelligents et les mêmes étapes de flux.
 
-1. Recherchez la campagne à cloner, sélectionnez-la, puis sous Actions **** Campaign, cliquez sur **Clone**.
+1. Recherchez la campagne à cloner, sélectionnez-la, puis sous **Actions Campaign** cliquez sur **Cloner**.
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
-1. Sélectionnez l&#39;option **Cloner à **appropriée. Dans cet exemple, choisissons **Programmes**.
+1. Sélectionnez l&#39;option **Cloner à **appropriée. Dans cet exemple, choisissez **Programmes**.
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
-1. Choisissez un **Programme**. Saisissez un nom **** Campaign, puis cliquez sur **Cloner**.
+1. Choisissez un **Programme**. Saisissez un **nom du Campaign** et cliquez sur **Clone**.
 
    ![](assets/image2014-9-22-13-3a57-3a9.png)
 
