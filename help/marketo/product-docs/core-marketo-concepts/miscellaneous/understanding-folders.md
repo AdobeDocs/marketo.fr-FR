@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Présentation des dossiers {#understanding-folders}
 
-Les dossiers d’un programme peuvent être utilisés pour organiser vos campagnes et ressources intelligentes. Il s’agit de dossiers [de](create-new-campaign-folder.md)campagne différents.
+Les dossiers d’un programme peuvent être utilisés pour organiser vos campagnes et ressources intelligentes. Il s’agit de dossiers de campagne [différents de ](create-new-campaign-folder.md).
 
-## Création d’un dossier {#create-a-folder}
+## Créer un dossier {#create-a-folder}
 
-1. Accédez à la zone Activités **** marketing.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/ma.png)
 
@@ -35,7 +35,7 @@ Super ! Vous disposez maintenant d’un nouveau dossier pour stocker vos ressour
 
 C&#39;est bon de changer d&#39;avis.
 
-1. Cliquez avec le bouton droit de la souris sur le dossier et sélectionnez **Renommer le dossier**.
+1. Cliquez avec le bouton droit sur le dossier et sélectionnez **Renommer le dossier**.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
@@ -45,13 +45,13 @@ C&#39;est bon de changer d&#39;avis.
 
    Et Volia ! Le dossier porte un nouveau nom.
 
-## Suppression d’un dossier {#delete-a-folder}
+## Supprimer un dossier {#delete-a-folder}
 
 >[!NOTE]
 >
 >Assurez-vous que le dossier est vide avant de le supprimer.
 
-1. Cliquez avec le bouton droit de la souris sur le dossier et sélectionnez **Supprimer le dossier**.
+1. Cliquez avec le bouton droit sur le dossier et sélectionnez **Supprimer le dossier**.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
@@ -70,7 +70,7 @@ Lorsque vous archivez un dossier :
 * Les modèles archivés ne sont pas disponibles lors de la création d’un courrier électronique ou d’un landing page dans Design Studio.
 * Impossible d&#39;utiliser les pages archivées dans les groupes de tests de landing page
 
-Fonctionnalités qui **ne changent pas** lors de l’archivage :
+Fonctionnalité qui **ne sera pas** modifiée lors de l’archivage :
 
 * La recherche globale recherche toujours les résultats dans les dossiers archivés
 * Une ressource en cours d’utilisation continuera à fonctionner même après son archivage.
