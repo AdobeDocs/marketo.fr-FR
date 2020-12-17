@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’un Canal de Programme {#delete-a-program-channel}
+# Supprimer un Canal de Programme {#delete-a-program-channel}
 
 Les canaux de programme sont un ensemble d&#39;états ou de pistes de points de contrôle qui doivent être parcourus dans un programme.
 
