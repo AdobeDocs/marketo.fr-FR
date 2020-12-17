@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création d’un service personnalisé à utiliser avec l’API ReST {#create-a-custom-service-for-use-with-rest-api}
+# Créer un service personnalisé à utiliser avec l&#39;API ReST {#create-a-custom-service-for-use-with-rest-api}
 
 Si vous souhaitez effectuer une intégration avec Marketo via l&#39;API ReST, vous souhaiterez créer un service personnalisé. Voici comment.
 
@@ -32,7 +32,7 @@ Si vous souhaitez effectuer une intégration avec Marketo via l&#39;API ReST, vo
 >
 >**Plongée profonde**
 >
->Consultez la documentation destinée aux développeurs pour en savoir plus sur l&#39;API [](http://developers.marketo.com/documentation/rest/)ReST. Nous avons aussi l&#39;API [](http://developers.marketo.com/documentation/soap/) SOAP si c&#39;est ce dont vous avez besoin.
+>Consultez la documentation destinée aux développeurs pour en savoir plus sur l&#39;[API ReST](http://developers.marketo.com/documentation/rest/). Nous avons également l&#39;[API SOAP](http://developers.marketo.com/documentation/soap/) si c&#39;est ce dont vous avez besoin.
 
 >[!NOTE]
 >
@@ -44,11 +44,11 @@ Si vous souhaitez effectuer une intégration avec Marketo via l&#39;API ReST, vo
 
    ![](assets/image2014-9-19-10-3a38-3a15.png)
 
-1. Sous **Nouveau**, cliquez sur **Nouveau service**.
+1. Sous **New**, cliquez sur **New Service**.
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. Saisissez un nom **** d’affichage pour le service. Sélectionnez l’ **API Utilisateur** uniquement [précédemment créée](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Saisissez un **nom d’affichage** pour le service. Sélectionnez **API Uniquement utilisateur** [précédemment créé](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    >[!NOTE]
    >
@@ -64,13 +64,13 @@ Si vous souhaitez effectuer une intégration avec Marketo via l&#39;API ReST, vo
 
    Oh oui ! Le service est maintenant créé, allons de l&#39;avant et obtenons toutes les informations d&#39;identification pour fournir l&#39;accès.
 
-## Informations d’identification pour l’accès aux API {#credentials-for-api-access}
+## Informations d&#39;identification pour l&#39;accès à l&#39;API {#credentials-for-api-access}
 
 1. Accédez à **Admin** et cliquez sur **LaunchPoint**.
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. Cliquez sur Détails **de la** Vue pour le service LaunchPoint personnalisé créé ci-dessus.
+1. Cliquez sur **Détails de la Vue** pour le service LaunchPoint personnalisé créé ci-dessus.
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
@@ -78,7 +78,7 @@ Si vous souhaitez effectuer une intégration avec Marketo via l&#39;API ReST, vo
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. Fournissez l&#39;ID de client***, la clé secrète **du** client, l&#39;utilisateur **** autorisé et le **jeton** à la personne chargée d&#39;établir la connexion.
+1. Fournissez l’ID de client***, **la clé secrète client**, **l’utilisateur autorisé** et **le jeton** à la personne chargée d’établir la connexion.
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
