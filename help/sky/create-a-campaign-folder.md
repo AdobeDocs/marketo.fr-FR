@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Les dossiers Campaign vous aident à conserver un espace de travail bien rangé. Suivez ces étapes simples et vous êtes en route vers la magie de l&#39;automatisation.
 
-1. Cliquez avec le bouton droit sur le globe de l&#39;espace de travail ou sur un dossier existant et sélectionnez **[!UICONTROL Nouveau dossier]** de campagne.
+1. Cliquez avec le bouton droit sur le globe de l&#39;espace de travail ou sur un dossier existant et sélectionnez **[!UICONTROL Nouveau dossier de campagne]**.
 
    ![Image un](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-1.png)
 
