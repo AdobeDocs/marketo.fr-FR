@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Importer des données d’objet personnalisées {#import-custom-object-data}
+# Importer des données d&#39;objet personnalisé {#import-custom-object-data}
 
 Il est facile d&#39;importer des données d&#39;objet personnalisées dans votre base de données. Si vous utilisez des objets personnalisés avec des sociétés, voir [Utilisation d’objets personnalisés avec des Sociétés](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies) pour plus d’informations.
 
-1. Dans Mon marketing, accédez à **Base de données**.
+1. Dans Mon Marketo, accédez à **Base de données**.
 
    ![](assets/db-1.png)
 
-1. Cliquez sur **Nouveau** et sélectionnez **Importer des données** d’objet personnalisées.
+1. Cliquez sur **New** et sélectionnez **Importer les données d’objet personnalisé**.
 
    ![](assets/image2016-4-7-10-6-54.png)
 
@@ -61,7 +61,7 @@ Il est facile d&#39;importer des données d&#39;objet personnalisées dans votre
 
    >[!TIP]
    >
-   >Entrez votre adresse électronique dans le champ **Envoyer l&#39;alerte à :** et Marketo vous enverra un e-mail lorsque votre importation est terminée !
+   >Entrez votre adresse de courriel dans le champ **Envoyer l&#39;alerte à :** et Marketo vous enverra un courriel une fois votre importation terminée !
 
 1. Dans le coin supérieur droit de l’écran, une notification s’affiche pendant l’exécution de l’importation et les résultats finaux une fois l’importation terminée.
 
