@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Optimiser le courrier électronique {#make-an-email-operational}
+# Optimiser un courrier électronique {#make-an-email-operational}
 
 Les courriers électroniques opérationnels ignorent les états Non inscrit et Marketing Suspendu. Ils envoient quoi que ce soit.
 
@@ -29,11 +29,11 @@ Les courriers électroniques opérationnels ignorent les états Non inscrit et M
 >
 >Vous ne devez utiliser que les courriers électroniques opérationnels pour les messages critiques et les répondeurs automatiques. Ils ne sont pas destinés aux courriels marketing.
 
-1. Une fois l’éditeur ouvert, cliquez sur Paramètres **du** courrier électronique.
+1. Une fois l’éditeur ouvert, cliquez sur **Paramètres d’e-mail**.
 
    ![](assets/two-1.png)
 
-1. Cochez la case Courriel **** opérationnel et cliquez sur **Enregistrer**.
+1. Cochez **Courriel opérationnel** et cliquez sur **Enregistrer**.
 
    ![](assets/three.png)
 
