@@ -23,7 +23,7 @@ Testez des courriers électroniques complets les uns par rapport aux autres. Lor
 
 
 
-1. Dans l’éditeur de test par courrier électronique, sélectionnez Courriels **** entiers dans la liste déroulante **Type de test **.
+1. Dans l’éditeur de test par courrier électronique, sélectionnez **Courriers électroniques complets** dans la liste déroulante **Type de test **.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -31,7 +31,7 @@ Testez des courriers électroniques complets les uns par rapport aux autres. Lor
    >
    >Rappelez-vous : Le courriel original est le champion. Les concurrents sont en concurrence.
 
-1. Recherchez et sélectionnez le ou les e-mails **Challengers** , puis cliquez sur **Cloner**.
+1. Recherchez et sélectionnez le **courriel Challengers**, puis cliquez sur **Clone**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -50,7 +50,7 @@ Testez des courriers électroniques complets les uns par rapport aux autres. Lor
    >
    >Dans la distribution illustrée ci-dessus, 15 % de l’audience totale spécifiée dans la liste intelligente reçoit l’un des courriels du concurrent et 85 % du courriel du champion. Les 15 % d’adresses électroniques des concurrents sont également partagés. Lorsque le test est terminé, vous pouvez déclarer manuellement un gagnant. A partir de ce moment, tous les futurs utilisateurs recevront le contenu le plus performant.
 
-   [Plus d&#39;informations que jamais sur la fiabilité](http://en.wikipedia.org/wiki/Confidence_interval)statistique.
+   [Plus d&#39;informations que jamais sur la fiabilité](http://en.wikipedia.org/wiki/Confidence_interval) statistique.
 
 1. Cliquez sur **Suivant**.
 
