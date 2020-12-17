@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Envoyer un exemple de courrier électronique {#send-a-sample-email}
 
-Il est facile et rapide d&#39;envoyer des échantillons d&#39;un courriel. Pour envoyer un message électronique de contenu dynamique, voir [Prévisualisation d’un message électronique avec du contenu](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)dynamique.
+Il est facile et rapide d&#39;envoyer des échantillons d&#39;un courriel. Pour envoyer un courrier électronique de contenu dynamique, voir [Prévisualisation d’un courrier électronique avec contenu dynamique](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
->Vous devez disposer de l’autorisation **Access Database - Run Single Flow Actions** pour envoyer des exemples de courriers électroniques.
+>Vous devez disposer de l&#39;autorisation **Access Database - Run Single Flow Actions** pour envoyer des exemples de courriers électroniques.
 
 ## Envoyer un exemple de courrier électronique {#send-a-sample-email-1}
 
-1. Recherchez et sélectionnez votre adresse électronique. Cliquez sur la liste déroulante Actions **de** courriel et sélectionnez **Envoyer un exemple**.\
+1. Recherchez et sélectionnez votre adresse électronique. Cliquez sur la liste déroulante **Actions de courriel** et sélectionnez **Envoyer l’échantillon**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
@@ -41,15 +41,15 @@ Il est facile et rapide d&#39;envoyer des échantillons d&#39;un courriel. Pour 
 
    >[!TIP]
    >
-   >Si vous souhaitez résoudre les jetons en tant que personne spécifique, choisissez cette personne dans la liste déroulante **** personne à l’étape 2.
+   >Si vous souhaitez résoudre les jetons en tant que personne spécifique, sélectionnez cette personne dans la liste déroulante **personne** de l’étape 2.
 
-## Envoyer un exemple de courrier électronique lors de la modification {#send-a-sample-email-while-editing}
+## Envoyer un exemple de courrier électronique lors de la modification de {#send-a-sample-email-while-editing}
 
-1. Recherchez votre adresse électronique, sélectionnez-la et cliquez sur l’onglet **Modifier le brouillon** .
+1. Recherchez votre adresse électronique, sélectionnez-la et cliquez sur l&#39;onglet **Modifier le brouillon**.
 
    ![](assets/three-281-29.jpg)
 
-1. Cliquez sur Actions **** par courriel, puis sélectionnez **Envoyer un exemple**.
+1. Cliquez sur **Actions de courriel**, sélectionnez **Envoyer l’échantillon**.
 
    ![](assets/four.png)
 
@@ -59,7 +59,7 @@ Il est facile et rapide d&#39;envoyer des échantillons d&#39;un courriel. Pour 
 
    >[!NOTE]
    >
-   >Le champ de déclenchement ne s’applique qu’aux utilisateurs qui utilisent des scripts [de](http://developers.marketo.com/documentation/velocity-script/)courrier électronique.
+   >Le champ de déclenchement ne s’applique qu’aux utilisateurs qui utilisent un script [e-mail](http://developers.marketo.com/documentation/velocity-script/).
 
 ## Envoyer un exemple de courrier électronique en fonction d’un segment {#send-a-sample-email-based-on-a-segment}
 
@@ -67,7 +67,7 @@ Il est facile et rapide d&#39;envoyer des échantillons d&#39;un courriel. Pour 
 >
 >[Appliquez la segmentation à votre courrier électronique](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
 
-1. Recherchez votre adresse électronique, sélectionnez-la et cliquez sur l’onglet **Modifier le brouillon** .
+1. Recherchez votre adresse électronique, sélectionnez-la et cliquez sur l&#39;onglet **Modifier le brouillon**.
 
    ![](assets/three-281-29.jpg)
 
@@ -87,12 +87,12 @@ Il est facile et rapide d&#39;envoyer des échantillons d&#39;un courriel. Pour 
 
    ![](assets/4.png)
 
-1. Cliquez sur **Envoyer l’échantillon** pour recevoir un courriel de test de votre segment en cours d’action.
+1. Cliquez sur **Envoyer l&#39;échantillon** pour recevoir un courriel de test de votre segment en cours d&#39;action.
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >Vous pouvez également envoyer un exemple de courrier électronique en fonction d’un segment en mode d’édition de votre courrier électronique. Cliquez sur la liste déroulante Actions **de** courriel, sélectionnez **Envoyer un exemple**, puis choisissez votre segment.
+   >Vous pouvez également envoyer un exemple de courrier électronique en fonction d’un segment en mode d’édition de votre courrier électronique. Cliquez sur la liste déroulante **Actions de courriel**, sélectionnez **Envoyer l’échantillon**, puis choisissez votre segment.
 
 Il est très important d’échantillonner le contenu avant de lancer une campagne. Mesurez deux fois, coupez une fois !
