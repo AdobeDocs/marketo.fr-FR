@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Création d’une hiérarchie {#create-a-hierarchy}
+# Créer une hiérarchie {#create-a-hierarchy}
 
 Les hiérarchies sont censées être créées dans les CRM. Toutefois, si vous ne disposez pas d’un service de gestion de la relation client, suivez ces étapes pour créer une hiérarchie manuellement.
 
-1. Dans Comptes nommés, cochez la case **Regrouper par hiérarchie** .
+1. Dans Comptes nommés, cochez la case **Regrouper par hiérarchie**.
 
    ![](assets/one.png)
 
@@ -30,13 +30,13 @@ Les hiérarchies sont censées être créées dans les CRM. Toutefois, si vous n
 
    ![](assets/two.png)
 
-1. Cliquez sur la liste déroulante Actions **de compte** nommé et sélectionnez **Lier au compte** nommé.
+1. Cliquez sur la liste déroulante **Actions du compte nommé** et sélectionnez **Lien vers le compte nommé**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Si vous souhaitez annuler la liaison des comptes, suivez les étapes ci-dessus, mais choisissez **Annuler la liaison à partir du compte** nommé.
+   >Si vous souhaitez annuler la liaison des comptes, suivez les étapes ci-dessus, mais choisissez **Annuler la liaison d’un compte nommé**.
 
 1. Sélectionnez un compte nommé parent dans la liste déroulante et cliquez sur **Lien**.
 
