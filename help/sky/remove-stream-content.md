@@ -20,7 +20,7 @@ Vous pouvez supprimer ou archiver un élément de contenu. Contrairement à la s
 
    ![Image un](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Flux]**.
 
    ![Image 2](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
