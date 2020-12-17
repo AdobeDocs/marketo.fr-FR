@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Après avoir ajouté du contenu à votre flux, vous pouvez modifier la priorité. Le contenu est toujours diffusé de haut en bas dans chaque diffusion et aucun contenu n’est envoyé deux fois à la même personne.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre programme d’engagement, puis cliquez sur l’onglet **Flux** .
+1. Sélectionnez votre programme d’engagement et cliquez sur l’onglet **Flux**.
 
    ![](assets/cloneasteam-1.jpg)
 
