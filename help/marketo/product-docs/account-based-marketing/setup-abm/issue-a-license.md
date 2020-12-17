@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Attribution d’une licence {#issue-a-license}
+# Attribuer une licence {#issue-a-license}
 
 Vous devez configurer les utilisateurs avec une licence pour utiliser ABM. Voici comment faire ça.
 
@@ -23,7 +23,7 @@ Vous devez configurer les utilisateurs avec une licence pour utiliser ABM. Voici
 
    ![](assets/one.png)
 
-1. Cliquez sur **Utilisateurs et rôles**. Sélectionnez l’utilisateur auquel attribuer la licence, cliquez sur la liste déroulante Licence **de** publication, puis sélectionnez Marketing **basé sur le** compte.
+1. Cliquez sur **Utilisateurs et rôles**. Sélectionnez l’utilisateur auquel attribuer la licence, cliquez sur la liste déroulante **Délivrer la licence** et sélectionnez **Marketing basé sur le compte**.
 
    ![](assets/two.png)
 
@@ -33,5 +33,5 @@ Vous devez configurer les utilisateurs avec une licence pour utiliser ABM. Voici
 
    >[!NOTE]
    >
-   >Pour supprimer une licence d’utilisateur, suivez l’étape 1, puis ** décochez la case et cliquez sur **Enregistrer**.
+   >Pour supprimer une licence d’utilisateur, suivez l’étape 1, *un* cochez la case et cliquez sur **Enregistrer**.
 
