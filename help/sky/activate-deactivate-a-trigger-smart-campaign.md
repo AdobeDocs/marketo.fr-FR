@@ -16,7 +16,7 @@ L&#39;activation/désactivation d&#39;une campagne intelligente de déclenchemen
 
 ## Activer une Campaign Trigger
 
-1. Dans votre campagne dynamique, cliquez sur l’onglet **[!UICONTROL Planification]** .
+1. Dans votre campagne dynamique, cliquez sur l’onglet **[!UICONTROL Planification]**.
 
    ![Image un](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -36,7 +36,7 @@ L&#39;activation/désactivation d&#39;une campagne intelligente de déclenchemen
 
 ## Désactivation d’une Campaign Trigger
 
-1. Dans votre campagne dynamique, cliquez sur l’onglet **[!UICONTROL Planification]** .
+1. Dans votre campagne dynamique, cliquez sur l’onglet **[!UICONTROL Planification]**.
 
    ![Image trois](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
@@ -46,4 +46,4 @@ L&#39;activation/désactivation d&#39;une campagne intelligente de déclenchemen
 
 >[!NOTE]
 >
->Cela empêchera _de nouvelles_ personnes d’entrer dans le flux, mais les personnes en attente ou toute autre étape de flux continueront à se déplacer dans le flux jusqu’à ce qu’ils aient terminé.
+>Cela empêchera les _nouvelles_ personnes d’entrer dans le flux, mais les personnes en attente ou toute autre étape de flux continueront à se déplacer dans le flux jusqu’à ce qu’elles aient terminé.
