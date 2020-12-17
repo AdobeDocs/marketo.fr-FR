@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les notifications vous permettent de rester informé des événements système survenant dans votre abonnement Marketing. Par exemple, les notifications d’échec de Campaign vous informent sur les erreurs de vos campagnes actives et les notifications de synchronisation de la gestion de la relation client vous signalent les problèmes critiques détectés avec la synchronisation de la gestion de la relation client, tels que des autorisations incorrectes ou la synchronisation en cours de désactivation.
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 1. Les nouvelles notifications s’affichent en haut à droite de Marketo.
 
@@ -25,7 +25,7 @@ Les notifications vous permettent de rester informé des événements système s
 
    ![](assets/image2014-10-10-11-3a55-3a44.png)
 
-## S’abonner aux notifications {#subscribe-to-notifications}
+## S&#39;abonner aux notifications {#subscribe-to-notifications}
 
 Vous pouvez vous abonner à des notifications pour les recevoir dans votre courrier électronique.
 
@@ -43,5 +43,5 @@ Vous pouvez vous abonner à des notifications pour les recevoir dans votre courr
 
 >[!TIP]
 >
->Souhaitez-vous vous désabonner des courriels de notification ? Pas de problème. Il vous suffit de cliquer sur le lien de **désabonnement des notifications** au bas du courrier électronique.
+>Souhaitez-vous vous désabonner des courriels de notification ? Pas de problème. Il vous suffit de cliquer sur le lien **se désabonner des notifications** au bas du courrier électronique.
 
