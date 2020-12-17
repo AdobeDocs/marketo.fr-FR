@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Créer une Campaign intelligente {#create-a-new-smart-campaign}
+# Créer une Campaign dynamique {#create-a-new-smart-campaign}
 
 Les campagnes intelligentes sont l&#39;outil le plus important du marché. Ils peuvent se déclencher sur une seule personne et effectuer des actions, ou rassembler des millions de personnes et exécuter une série d&#39;étapes de flux.
 
@@ -19,13 +19,13 @@ Les campagnes intelligentes sont l&#39;outil le plus important du marché. Ils p
 >
 >**Plongée profonde**
 >
->Les campagnes intelligentes sont super cool. En savoir plus [ici](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Les campagnes intelligentes sont super cool. Pour en savoir plus, [ici](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Choisissez un **Programme**, puis sous **Nouveau** cliquez sur **Nouveau fichier** local.
+1. Choisissez un **Programme**, puis sous **Nouveau** cliquez sur **Nouveau fichier local**.
 
    ![](assets/program-localassethands.png)
 
