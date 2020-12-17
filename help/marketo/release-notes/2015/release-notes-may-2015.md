@@ -29,7 +29,7 @@ Nous publions un nouveau mode de modification de landing page et une nouvelle sy
 
 Avez-vous touché l&#39;envoi avant qu&#39;un programme de messagerie ne soit prêt à sortir ? Appuyez sur les freins avec le nouveau bouton d&#39;abandon du programme de messagerie. Cela arrêtera les programmes de messagerie en vol directement dans leur voie.
 
-## Livrabilité du courriel  {#email-deliverability}
+## Livraison par courriel {#email-deliverability}
 
 Marketo exécute désormais des vérifications SPF et DKIM automatisées hebdomadaires sur vos domaines ajoutés. Pour en savoir plus, consultez vos notifications.
 
