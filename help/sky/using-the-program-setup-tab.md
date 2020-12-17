@@ -30,7 +30,7 @@ Pour modifier votre canal de programme, sélectionnez-en un autre dans la liste 
 
 ## Ajouter des balises
 
-1. Sous la section [!UICONTROL Balises] , cliquez sur la liste déroulante **[!UICONTROL Attribut]** et choisissez un attribut de balise dans les options disponibles.
+1. Sous la section [!UICONTROL Balises], cliquez sur la liste déroulante **[!UICONTROL Attribut]** et choisissez un attribut de balise dans les options disponibles.
 
    ![Image trois](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
@@ -48,7 +48,7 @@ Pour modifier votre canal de programme, sélectionnez-en un autre dans la liste 
 
 ## Coûts de la période de Ajoute
 
-1. Sous la section Coûts  de la période, sélectionnez un mois, entrez un coût et ajoutez un nom ou une description court. Cliquez sur **[!UICONTROL Ajouter]**.
+1. Dans la section [!UICONTROL Coûts de la période], sélectionnez un mois, entrez un coût et ajoutez un nom ou une description court. Cliquez sur **[!UICONTROL Ajouter]**.
 
    ![Image six](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
@@ -58,6 +58,6 @@ Pour modifier votre canal de programme, sélectionnez-en un autre dans la liste 
 
 ## Modifier les paramètres
 
-Sous la section [!UICONTROL Paramètres] , vous pouvez choisir une campagne de gestion de la relation client à synchroniser (si votre abonnement intègre la gestion de la relation client) et/ou modifier le comportement d’analyse de votre programme.
+Dans la section [!UICONTROL Paramètres], vous pouvez choisir une campagne de gestion de la relation client à synchroniser (si votre abonnement dispose d’une intégration de gestion de la relation client) et/ou modifier le comportement d’analyse de votre programme.
 
 ![Image huit](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)
