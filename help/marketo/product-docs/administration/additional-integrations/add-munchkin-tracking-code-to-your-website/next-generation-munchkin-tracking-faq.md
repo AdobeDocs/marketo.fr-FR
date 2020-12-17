@@ -45,8 +45,8 @@ Si vous utilisez déjà ce filtre dans une Liste dynamique (par exemple, dans un
 >
 >**Exemple**
 >
->**Déclencheur**: Page Web Visites, page Web est la page Tarification\
->**Flux**: Changer de note +10 et moment intéressant, **Web**: Page Tarifs affichés
+>**Déclencheur** : Page Web Visites, page Web est la page Tarification\
+>**Flux** : Changer de note +10 et moment intéressant,  **Web** : Page Tarifs affichés
 >
 >Avec Munchkin V2, si une personne anonyme visite la page de tarification, elle n&#39;entre pas immédiatement dans la campagne. Au moment où la personne anonyme sera connue, nous lui lancerons cette campagne. Elle :
 >
