@@ -33,7 +33,7 @@ Les personnes représentent un excellent moyen de segmenter votre audience et vo
    >
    >Le personnage Titre de la tâche est inclus par défaut. Il ne peut pas être modifié ou supprimé.
 
-1. Pour ajouter d’autres personnages, cliquez sur **+Ajouter**.
+1. Pour ajouter d’autres personnages, cliquez sur **+Ajoute**.
 
    ![](assets/four.png)
 
@@ -45,7 +45,7 @@ Les personnes représentent un excellent moyen de segmenter votre audience et vo
    >
    >Seuls les champs personnalisés de type &quot;liste de sélection&quot; de Salesforce synchronisés à votre instance de marché sont disponibles dans la liste déroulante des champs personnels lors de la création d’une personne.
 
-## Vue de vos personnages {#view-your-personas}
+## Vue de vos personnalités {#view-your-personas}
 
 Vue de vos personnalités en visitant un compte nommé spécifique.
 
@@ -53,7 +53,7 @@ Vue de vos personnalités en visitant un compte nommé spécifique.
 
    ![](assets/one-a.png)
 
-1. Cliquez sur l’onglet **Personas** .
+1. Cliquez sur l’onglet **Personnalités**.
 
    ![](assets/two-a.png)
 
