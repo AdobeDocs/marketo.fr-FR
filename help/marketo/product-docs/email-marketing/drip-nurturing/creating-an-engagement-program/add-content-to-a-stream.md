@@ -17,11 +17,11 @@ Une fois votre programme d’engagement créé, vous devez ajouter du contenu au
 
 ## Ajouter un courriel à un flux {#add-an-email-to-a-stream}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux** .
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux**.
 
    ![](assets/streamstab.jpg)
 
@@ -29,11 +29,11 @@ Une fois votre programme d’engagement créé, vous devez ajouter du contenu au
 
 **Bouton Ajouter le contenu**
 
-1. Cliquez sur le bouton **Ajouter le contenu** .
+1. Cliquez sur le bouton **Ajouter le contenu**.
 
    ![](assets/addcontentbutton.jpg)
 
-1. Laissez le **Type** défini sur **Courriel**, puis sélectionnez le courriel à ajouter.
+1. Laissez **Type** défini sur **Courriel**, puis sélectionnez le courriel à ajouter.
 
    ![](assets/image2014-9-15-15-3a44-3a58.png)
 
@@ -43,7 +43,7 @@ Une fois votre programme d’engagement créé, vous devez ajouter du contenu au
 
 **Stream + Icon**
 
-1. Cliquez sur l’icône en forme de flux **+** , laissez **Type** comme **Courriel**, puis sélectionnez le courriel à ajouter.
+1. Cliquez sur l’icône de flux **+**, laissez **Tapez** comme **Courriel**, puis sélectionnez le courriel à ajouter.
 
    ![](assets/image2014-9-15-15-3a45-3a25.png)
 
@@ -55,11 +55,11 @@ Une fois votre programme d’engagement créé, vous devez ajouter du contenu au
 
 ## Ajouter un Programme à un flux {#add-a-program-to-a-stream}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux** .
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux**.
 
    ![](assets/streamstab.jpg)
 
@@ -88,11 +88,11 @@ Une fois votre programme d’engagement créé, vous devez ajouter du contenu au
    >**Rappel**
    >
    >
-   >Pour que cette campagne intelligente fonctionne correctement, le Programme **** membre de l’engagement doit être filtré.
+   >La campagne intelligente doit comporter le filtre **Membre de l’Programme d’engagement** pour que cela fonctionne correctement.
 
 **Stream + Icon**
 
-1. Cliquez sur l’icône **+** de diffusion en continu, puis définissez **Type** sur Programme.
+1. Cliquez sur l’icône de diffusion **+**, puis remplacez **Type** par Programme.
 
    ![](assets/image2014-9-15-15-3a46-3a43.png)
 
