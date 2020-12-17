@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Lorsqu’une personne est membre d’un programme d’engagement, elle reçoit du contenu jusqu’à ce qu’elle ait [épuisé tout le contenu](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content). Vous pouvez utiliser l’étape de flux Cadence [du Programme](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) Changer l’engagement pour empêcher les personnes de recevoir du contenu même si le contenu n’est pas encore épuisé.
+Lorsqu’une personne est membre d’un programme d’engagement, elle reçoit du contenu jusqu’à ce qu’elle ait [épuisé tout le contenu](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content). Vous pouvez utiliser l’étape de flux [Modifier l’cadence du Programme d’engagement](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) pour empêcher les personnes de recevoir du contenu même si le contenu n’est pas encore épuisé.
 
-1. Dans votre campagne intelligente, choisissez la ou les personnes à mettre en pause dans la liste intelligente. Ensuite, dans le flux, recherchez et faites glisser l’action de flux de cadence **[!UICONTROL du Programme d’engagement]** Modifier.
+1. Dans votre campagne intelligente, choisissez la ou les personnes à mettre en pause dans la liste intelligente. Ensuite, dans le flux, recherchez et faites glisser l’action de flux **[!UICONTROL Modifier l’affectation de Programme]**.
 
    ![Image un](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-1.png)
 
@@ -28,7 +28,7 @@ Lorsqu’une personne est membre d’un programme d’engagement, elle reçoit d
 
    ![Image trois](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-3.png)
 
-Vous pouvez redéfinir la personne sur **[!UICONTROL Normal]** si vous souhaitez qu’elle rereçoive du contenu. Ils reprendront là où ils s&#39;étaient arrêtés.
+Vous pouvez rétablir la valeur **[!UICONTROL Normal]** si vous souhaitez qu’ils commencent à recevoir à nouveau du contenu. Ils reprendront là où ils s&#39;étaient arrêtés.
 
 >[!NOTE]
 >
