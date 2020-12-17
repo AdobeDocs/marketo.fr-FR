@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Activer/désactiver la synchronisation d’objets personnalisés {#enable-disable-custom-object-sync}
+# Activer/désactiver la synchronisation d&#39;objets personnalisés {#enable-disable-custom-object-sync}
 
 Les objets personnalisés créés dans votre instance Salesforce peuvent également faire partie de Marketing Cloud. Voici comment le configurer.
 
-## Activer/désactiver la synchronisation d’objets personnalisés {#enable-disable-custom-object-sync-1}
+## Activer/désactiver la synchronisation d&#39;objets personnalisés {#enable-disable-custom-object-sync-1}
 
 >[!NOTE]
 >
@@ -31,11 +31,11 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    ![](assets/two-2.png)
 
-1. S’il s’agit de votre premier objet personnalisé, cliquez sur **Synchroniser le schéma.** Sinon, cliquez sur **Actualiser le Schéma** pour vous assurer que vous disposez de la dernière version.
+1. S’il s’agit de votre premier objet personnalisé, cliquez sur **schéma de synchronisation.** Sinon, cliquez sur  **Actualiser** le schéma pour vous assurer que vous disposez de la dernière version.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. Si votre synchronisation globale est en cours d’exécution, vous devrez la désactiver en cliquant sur **Désactiver la synchronisation globale.**
+1. Si votre synchronisation globale est en cours d&#39;exécution, vous devrez la désactiver en cliquant sur **Désactiver la synchronisation globale.**
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -55,23 +55,23 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Cliquez à nouveau sur **Activer la synchronisation** .
+1. Cliquez de nouveau sur **Activer la synchronisation**.
 
    ** ![](assets/image2014-12-10-10-3a15-3a40.png)
 
    **
 
-1. Revenez à l’onglet **Salesforce** et cliquez sur **Activer la synchronisation**.
+1. Retournez à l&#39;onglet **Salesforce** et cliquez sur **Activer la synchronisation**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
-## Utilisation des objets personnalisés {#using-your-custom-objects}
+## Utilisation de vos objets personnalisés {#using-your-custom-objects}
 
 >[!NOTE]
 >
 >Vous ne pouvez pas utiliser d’objets personnalisés dans des campagnes dynamiques avec des déclencheurs.
 
-1. Dans votre liste intelligente, faites glisser le pointeur de la souris sur le **filtre** Avec opportunité et définissez cette option sur **true**.
+1. Dans votre liste intelligente, faites glisser le curseur **Avec opportunité** et définissez **true**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
