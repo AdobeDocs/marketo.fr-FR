@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Comprendre/activer la mise au point du Programme {#understand-enable-program-focus}
 
-Le calendrier marketing vous donne une vue visuelle des choses, mais il permet également certaines interactions. Vous pouvez [créer](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [modifier](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [supprimer](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)et [confirmer entrées. ](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) Pour interagir avec les entrées, vous devez d’abord vous concentrer sur un programme.
+Le calendrier marketing vous donne une vue visuelle des choses, mais il permet également certaines interactions. Vous pouvez [créer](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [modifier](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [supprimer](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) et [confirmer](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) les entrées. Pour interagir avec les entrées, vous devez d’abord vous concentrer sur un programme.
 
-1. Accédez au **calendrier** **marketing**.
+1. Accédez au **Calendrier** **Marketing**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Sélectionnez une entrée, puis cliquez sur **Afficher la mise au point** du Programme.
+1. Sélectionnez une entrée et cliquez sur **Afficher l&#39;orientation du Programme**.
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
