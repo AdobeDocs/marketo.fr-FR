@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Changer le Programme de réussite {#change-program-success}
+# Réussite du Programme de modification {#change-program-success}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Si un groupe de personnes est accidentellement marqué comme Programme de réussite, vous pouvez utiliser cette étape de flux pour définir la réussite sur true ou false.
 
@@ -29,7 +29,7 @@ Si un groupe de personnes est accidentellement marqué comme Programme de réuss
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Sélectionnez **Réussite** ou** Date de réussite** comme attribut.
+1. Sélectionnez **Succès** ou** Date de réussite** comme attribut.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +37,7 @@ Si un groupe de personnes est accidentellement marqué comme Programme de réuss
    >
    >La définition de la date de réussite sur un élément définit automatiquement la valeur de la réussite sur true. La définition de la valeur Réussite sur true définit automatiquement la date de réussite sur la date actuelle.
 
-1. Définissez la **nouvelle valeur** sur **True** ou **False**.
+1. Définissez **Nouvelle valeur** sur **True** ou **False**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 
