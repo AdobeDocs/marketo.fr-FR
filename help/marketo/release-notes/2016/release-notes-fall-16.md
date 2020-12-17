@@ -53,7 +53,7 @@ Désormais, vous pouvez affecter des équipes de comptes à des comptes nommés 
 
 **API REST**
 
-Cette version vous permet également de gérer des attributs de compte et des scores de compte nommés dans ABM à l’aide de l’API REST de Marketing Cloud. Pour plus d’informations sur les opérations de l’API, consultez le site Web [des développeurs](http://developers.marketo.com/rest-api/lead-database/named-accounts)Marketo.
+Cette version vous permet également de gérer des attributs de compte et des scores de compte nommés dans ABM à l’aide de l’API REST de Marketing Cloud. Pour plus d’informations sur les opérations de l’API, consultez le [site Web des développeurs de marketing](http://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Améliorations de la piste d’audit](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ Les jours où vous deviez vous inquiéter de l&#39;envoi d&#39;e-mails transacti
 
 **Modifier les restrictions Campaign**
 
-Pourquoi définir des restrictions [de](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) campagne si vous ne parvenez pas à les appliquer ? Lorsque vous définissez les paramètres de limite Campaign pour limiter le nombre de personnes dans votre base de données qui peuvent être ciblées avec une seule campagne, vous avez désormais la possibilité de restreindre les utilisateurs qui peuvent remplacer ces paramètres lors de la planification d’une campagne.
+Pourquoi définir des [restrictions de campagne](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) si vous ne parvenez pas à les appliquer ? Lorsque vous définissez les paramètres de limite Campaign pour limiter le nombre de personnes dans votre base de données qui peuvent être ciblées avec une seule campagne, vous avez désormais la possibilité de restreindre les utilisateurs qui peuvent remplacer ces paramètres lors de la planification d’une campagne.
 
 ## [Son pour les notifications Push mobiles](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
