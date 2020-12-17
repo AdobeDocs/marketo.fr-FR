@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation des URL dans mes jetons {#using-urls-in-my-tokens}
+# Utilisation des URL dans Mes jetons {#using-urls-in-my-tokens}
 
 Suivez les étapes ci-dessous pour utiliser Mes jetons pour insérer des URL dans vos courriels.
 
@@ -19,7 +19,7 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons pour insérer des URL dan
 
    ![](assets/one-4.png)
 
-1. Sélectionnez le **texte** Mon jeton, puis faites-le glisser sur la trame.
+1. Sélectionnez le **Texte** Mon jeton, faites-le glisser sur la trame.
 
    ![](assets/two-4.png)
 
@@ -29,7 +29,7 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons pour insérer des URL dan
 
    >[!CAUTION]
    >
-   >Pour vous assurer que les clics sont suivis dans votre courrier électronique, n’entrez **pas** http:// dans la valeur du jeton.
+   >Pour vous assurer que les clics sont suivis dans votre courrier électronique, **ne pas** entrez http:// dans la valeur du jeton.
 
 1. Sélectionnez le courriel dans votre programme.
 
