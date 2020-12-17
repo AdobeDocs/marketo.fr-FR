@@ -22,6 +22,6 @@ Si vous vous demandez ce dont vous avez besoin pour vous connecter et utiliser M
 * Ordinateur ou ordinateur portable exécutant Windows, OS X ou Linux
 * Clavier et souris
 * Moniteur avec une résolution minimale de 1280 x 768
-* Navigateur à jour, voir Navigateurs [](supported-browsers.md) pris en charge pour en savoir plus.
+* Navigateur à jour, voir [Navigateurs pris en charge](supported-browsers.md) pour plus d’informations.
 * Connexion Internet
 
