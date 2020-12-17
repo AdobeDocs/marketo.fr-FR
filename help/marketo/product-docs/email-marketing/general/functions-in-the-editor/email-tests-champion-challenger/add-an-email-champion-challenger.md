@@ -28,9 +28,9 @@ Voici comment commencer.
 
 >[!CAUTION]
 >
->Les courriels Champion/Challenger fonctionnent uniquement avec les campagnes déclencheuses et les flux de programme d&#39;engagement. Pour les envois par lots, utilisez la fonctionnalité [de test](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)A/B du programme de messagerie.
+>Les courriels Champion/Challenger fonctionnent uniquement avec les campagnes déclencheuses et les flux de programme d&#39;engagement. Pour les envois par lots, utilisez le programme de messagerie [fonctionnalité de test A/B](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -43,9 +43,9 @@ Voici comment commencer.
    >**Plongée profonde**
    >
    >
-   >Pour les explosions ponctuelles de courriels, en savoir plus sur les programmes [de](http://docs.marketo.com/display/docs/email+programs)courriels.
+   >Pour les attaques par courrier unique, en savoir plus sur les [programmes de messagerie](http://docs.marketo.com/display/docs/email+programs).
 
-1. Sous Actions **** par courriel, cliquez sur **Nouveau test**.
+1. Sous **Actions de courriel**, cliquez sur **Nouveau test**.
 
    ![](assets/chmapion2.jpg)
 
