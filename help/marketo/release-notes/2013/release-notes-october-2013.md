@@ -13,20 +13,20 @@ ht-degree: 0%
 
 # Notes de mise à jour : Octobre 2013 {#release-notes-october}
 
-Les fonctionnalités suivantes sont incluses dans la version d’octobre 2013. Vérifiez la disponibilité de vos fonctionnalités dans [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Les fonctionnalités suivantes sont incluses dans la version d’octobre 2013. Consultez votre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.com](http://templates.marketo.com) présente des modèles de landing page et de courrier électronique (y compris des modèles de courrier électronique mobile réactif) que vous pouvez télécharger à partir de la bibliothèque de Programmes de Marketing Cloud. Nous allons ajouter des modèles mensuels, vérifier souvent !
+[Templates.marketo.](http://templates.marketo.com) comshowcase des modèles de courrier électronique et de landing page (y compris les modèles de courrier électronique mobile réactif) que vous pouvez télécharger à partir de la bibliothèque de Programmes de Marketo. Nous allons ajouter des modèles mensuels, vérifier souvent !
 
 ## developpeurs.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.com](http://developers.marketo.com) est destiné aux développeurs qui souhaitent créer des intégrations dans Marketo. Vous pouvez référencer différentes options d’intégration, notamment les API JavaScript Munchkin, les exemples de code d’API SOAP, les hameçons Web et les scripts de courrier électronique. Un SDK Java est également disponible sur [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developers.marketo.](http://developers.marketo.com) comis pour les développeurs qui souhaitent créer des intégrations dans Marketo. Vous pouvez référencer différentes options d’intégration, notamment les API JavaScript Munchkin, les exemples de code d’API SOAP, les hameçons Web et les scripts de courrier électronique. Un SDK Java est également disponible sur [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
-## Carte Événement BrightTALK mise à jour {#updated-brighttalk-event-adapter}
+## Mise à jour de l&#39;adaptateur de Événement BrightTALK {#updated-brighttalk-event-adapter}
 
 Synchronisez les champs supplémentaires de BrightTALK avec Marketo, y compris le nom de la Société, le titre de la tâche, le secteur et la taille de la Société.
 
-## Application d&#39;enregistrement pour tablette Android Événement {#android-tablet-event-check-in-app}
+## Application d&#39;archivage pour tablette Android {#android-tablet-event-check-in-app}
 
-Vérifiez les abonnés dans votre événement à l’aide de notre nouvelle application [d’archivage basée sur](../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) Android disponible sur [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).
+Vérifiez les inscrits dans votre événement en utilisant notre nouvelle application [d&#39;archivage Android](../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) disponible sur [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).
