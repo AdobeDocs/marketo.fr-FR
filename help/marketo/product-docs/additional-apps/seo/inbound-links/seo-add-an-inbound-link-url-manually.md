@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez ajouter manuellement des liens entrants. Voici comment :
 
-1. Accédez à la section Liens **** entrants.
+1. Accédez à la section **Liens entrants**.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
@@ -29,7 +29,7 @@ Vous pouvez ajouter manuellement des liens entrants. Voici comment :
 
    >[!TIP]
    >
-   >Saviez-vous que vous pouvez [ajouter votre lien entrant à une liste](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)nouvelle ou existante ? Regardez !
+   >Saviez-vous que vous pouvez [ajouter votre lien entrant à une liste nouvelle ou existante](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ? Regardez !
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
