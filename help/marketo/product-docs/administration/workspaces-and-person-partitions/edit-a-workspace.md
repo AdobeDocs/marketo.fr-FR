@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modification d’un espace de travail {#edit-a-workspace}
+# Modifier un espace de travail {#edit-a-workspace}
 
 Il arrive que vous deviez apporter des modifications dans un espace de travail. C&#39;est facile.
 
@@ -23,7 +23,7 @@ Il arrive que vous deviez apporter des modifications dans un espace de travail. 
 >
 >**Plongée profonde**
 >
->Examinez les espaces de travail avec [Présentation des espaces de travail et des partitions](understanding-workspaces-and-person-partitions.md)personnelles.
+>Examinez les espaces de travail avec [Présentation des espaces de travail et des partitions de personne](understanding-workspaces-and-person-partitions.md).
 
 1. Sous **Admin**, cliquez sur **Espaces de travail et partitions**.
 
@@ -40,13 +40,13 @@ Il arrive que vous deviez apporter des modifications dans un espace de travail. 
    >**Rappel**
    >
    >
-   >Vous pouvez [créer plus de partitions](create-a-person-partition.md) pour personnes si vous en avez besoin.
+   >Vous pouvez [créer plus de partitions](create-a-person-partition.md) si vous en avez besoin.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >La case à cocher **Toutes les partitions** personnelles** **signifie que cet espace de travail peut utiliser toutes les partitions de piste dans le système.
+   >La case à cocher **Toutes les partitions individuelles**** **signifie que cet espace de travail peut utiliser toutes les partitions de tête du système.
 
    >[!NOTE]
    >
