@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifier le cadence du Programme d&#39;engagement {#change-engagement-program-cadence}
+# Modifier la cadence du Programme d&#39;engagement {#change-engagement-program-cadence}
 
 1. Présentation
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Sélectionnez **En pause** comme **nouvelle valeur** pour empêcher la personne de recevoir du contenu.
+1. Sélectionnez **Pause** comme **Nouvelle valeur** pour empêcher la personne de recevoir du contenu.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   Vous pouvez redéfinir la personne sur **Normal** si vous souhaitez qu’elle rereçoive du contenu.
+   Vous pouvez rétablir la valeur **Normal** si vous souhaitez qu’ils commencent à recevoir à nouveau du contenu.
 
