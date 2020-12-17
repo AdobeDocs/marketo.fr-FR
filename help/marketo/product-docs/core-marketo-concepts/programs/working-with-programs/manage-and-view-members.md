@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Gestion et Vue des membres {#manage-and-view-members}
+# Gérer et Vue des membres {#manage-and-view-members}
 
 Vous pouvez gérer et vue vos membres dans vos programmes à l&#39;aide de l&#39;onglet Membres.
 
@@ -19,7 +19,7 @@ Vous pouvez gérer et vue vos membres dans vos programmes à l&#39;aide de l&#39
 >
 >**Plongée profonde**
 >
-> Explorez plus en détail l&#39;appartenance [](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)au programme.
+> Explorez plus en détail [l&#39;adhésion au programme](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Rechercher un membre {#search-for-a-member}
 
@@ -33,7 +33,7 @@ Dans la partie inférieure de la section Membres, utilisez le champ de recherche
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## Exportation de la grille de membres {#export-the-members-grid}
+## Exporter la grille de membres {#export-the-members-grid}
 
 Vous pouvez exporter votre liste membre en cliquant sur l&#39;icône Excel en regard du champ de recherche.
 
@@ -49,13 +49,13 @@ Vous pouvez exporter votre liste membre en cliquant sur l&#39;icône Excel en re
 
    ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## Choisir les colonnes visibles dans la grille {#choose-which-columns-are-visible-in-the-grid}
+## Sélectionnez les colonnes visibles dans la grille {#choose-which-columns-are-visible-in-the-grid}
 
 1. Cliquez sur la liste déroulante **Vue **et sélectionnez **Créer une Vue**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Nommez votre vue personnalisée. Sélectionnez les titres des colonnes. Cliquez sur** Ajouter **et sur** Supprimer **pour déplacer des colonnes et créer une vue.
+1. Nommez votre vue personnalisée. Sélectionnez les titres des colonnes. Cliquez sur** Ajouter **et** Supprimer **pour déplacer des colonnes et créer une vue.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -63,13 +63,13 @@ Vous pouvez exporter votre liste membre en cliquant sur l&#39;icône Excel en re
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Filtrage de la grille de membres  {#filter-the-members-grid}
+## Filtrer la grille de membres {#filter-the-members-grid}
 
 1. Cliquez sur la liste déroulante **Filtre** et sélectionnez une étape de progression à trier.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
-## Gérer le statut de la personne dans la grille Membres {#manage-person-status-in-the-members-grid}
+## Gérer le statut de la personne dans la grille des membres {#manage-person-status-in-the-members-grid}
 
 Vous pouvez modifier le statut de vos personnes dans la grille des membres.
 
