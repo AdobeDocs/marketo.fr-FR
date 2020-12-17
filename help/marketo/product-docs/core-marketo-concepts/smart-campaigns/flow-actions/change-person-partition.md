@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Modifier la partition de personne {#change-person-partition}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
-Si vous utilisez des [espaces de travail et des partitions](http://docs.marketo.com/x/9QMk), vous voudrez créer des campagnes intelligentes pour déplacer les personnes d&#39;une partition à l&#39;autre.
+Si vous utilisez [des espaces de travail et des partitions](http://docs.marketo.com/x/9QMk), vous souhaiterez créer des campagnes intelligentes pour déplacer les personnes d&#39;une partition à une autre.
 
 ![](assets/one-3.png)
 
