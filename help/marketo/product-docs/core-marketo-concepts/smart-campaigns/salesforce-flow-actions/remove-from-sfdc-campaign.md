@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Supprimer de SFDC Campaign {#remove-from-sfdc-campaign}
+# Supprimer du Campaign SFDC {#remove-from-sfdc-campaign}
 
 >[!NOTE]
 >
 >Disponible uniquement lorsqu&#39;il est intégré à Salesforce.
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
-Tout comme vous pouvez [Ajouter à la](add-to-sfdc-campaign.md)campagne SFDC et [modifier l’état dans SFDC Campaign](change-status-in-sfdc-campaign.md), vous pouvez également supprimer des personnes ou des pistes d’une campagne Salesforce.
+Tout comme vous pouvez [Ajouter à SFDC Campaign](add-to-sfdc-campaign.md)et [modifier l’état de SFDC Campaign](change-status-in-sfdc-campaign.md), vous pouvez également supprimer des personnes ou des pistes d’une campagne Salesforce.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
