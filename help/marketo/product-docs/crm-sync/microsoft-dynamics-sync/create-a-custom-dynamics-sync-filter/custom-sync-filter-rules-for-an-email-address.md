@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Pour empêcher la synchronisation d’enregistrements qui n’ont pas d’adresse électronique, suivez ces règles.
 
-* Lorsqu&#39;une piste est créée OU lorsque le champ de l&#39;adresse électronique de la piste est mis à jour, vérifiez si elle a une adresse électronique et, le cas échéant, remplacez Sync par Mkto par **True**. Sinon, passez à **False**
+* Lorsqu&#39;une piste est créée OU lorsque le champ d&#39;adresse électronique de la piste est mis à jour, vérifiez si elle a une adresse électronique et, le cas échéant, remplacez Sync par Mkto par **True**. Sinon, passez à **False**
 
-* Lorsqu’un contact est créé OU lorsque le champ d’adresse électronique du contact est mis à jour, vérifiez si le contact a une adresse électronique et, le cas échéant, remplacez Sync par Mkto par **True** et remplacez Sync par Mkto par **True** sur l’enregistrement Compte. Sinon, passez à **False**
+* Lorsqu’un contact est créé OU lorsque le champ d’adresse électronique du contact est mis à jour, vérifiez si le contact a une adresse électronique et, le cas échéant, remplacez Sync par Mkto par **True** et remplacez Sync par **True** dans l’enregistrement de compte. Sinon, passez à **False**
 
-* Lorsque le champ Nom de la Société du contact (parentcustomerid) est mis à jour, vérifiez si le champ Synchroniser avec Mkto du contact est vrai. Si tel est le cas, remplacez la commande Synchroniser par Mkto sur le compte par **True** également.
-* Lorsque le champ Client potentiel de l&#39;opportunité (ID client) ou Contact (parent contactid) est mis à jour, vérifiez si le champ Synchroniser avec Mkto du compte est vrai ou si le champ Synchroniser avec Mkto du contact est vrai. Si tel est le cas, remplacez Synchroniser par Mkto sur l&#39;opportunité d&#39; **utiliser True** également.
+* Lorsque le champ Nom de la Société du contact (parentcustomerid) est mis à jour, vérifiez si le champ Synchroniser avec Mkto du contact est vrai. Si tel est le cas, remplacez Sync par Mkto sur le compte par **True** également.
+* Lorsque le champ Client potentiel de l&#39;opportunité (ID client) ou Contact (parent contactid) est mis à jour, vérifiez si le champ Synchroniser avec Mkto du compte est vrai ou si le champ Synchroniser avec Mkto du contact est vrai. Si tel est le cas, remplacez Sync par Mkto sur l’opportunité **True** également.
 
