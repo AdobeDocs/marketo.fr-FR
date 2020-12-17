@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Plongée profonde**
 >
->Pour les autres versions, consultez la section plongée approfondie des Notes [de](http://docs.marketo.com/display/docs/release+notes) mise à jour.
+>Pour les autres versions, consultez les [Notes de mise à jour](http://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
 
 ## Refonte du rapport Performances du courriel {#email-performance-report-redesign}
 
@@ -57,15 +57,15 @@ Figure 4. Archivage du événement : Sélectionnez votre Événement !
 
 Figure 5. Vérifiez-les
 
-## URL de confirmation améliorée du webinaire {#enhanced-webinar-confirmation-url}
+## URL de confirmation du webinaire améliorée {#enhanced-webinar-confirmation-url}
 
-Maintenant disponible pour ON24 et Adobe Connect ! Incluez un lien unique dans l’e-mail de confirmation de chaque participant inscrit à l’aide du nouveau `{{member.webinar URL}}` jeton. Les améliorations apportées à Adobe Connect incluent également la possibilité d’activer/de désactiver le courrier électronique d’informations de compte d’Adobe qui comprend l’ID de connexion et le mot de passe de l’utilisateur.
+Maintenant disponible pour ON24 et Adobe Connect ! Incluez un lien unique dans le courrier électronique de confirmation de chaque participant inscrit à l’aide du nouveau jeton `{{member.webinar URL}}`. Les améliorations apportées à Adobe Connect incluent également la possibilité d’activer/de désactiver le courrier électronique d’informations de compte d’Adobe qui comprend l’ID de connexion et le mot de passe de l’utilisateur.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
 Figure 6. Envoyer des personnes à votre webinaire
 
-## Prévisualisation de modèles {#template-preview}
+## Prévisualisation de modèle {#template-preview}
 
 Vous recherchez un modèle spécifique lors de la création de votre courrier électronique ou de votre landing page, mais vous ne savez pas à quoi il ressemble ? Grâce à la nouvelle fonctionnalité de prévisualisation de modèles, vous pouvez vérifier le modèle sélectionné avant d’enregistrer un nouveau fichier !
 
@@ -101,7 +101,7 @@ Synchroniser des comptes, des contacts et des pistes entre Marketo et Microsoft 
 
 Figure 11. Configuration de Microsoft Dynamics
 
-## Améliorations des statistiques commerciales du marketing {#marketo-sales-insight-enhancements}
+## Améliorations apportées à Marketing Sales Insight {#marketo-sales-insight-enhancements}
 
 **Désabonner les options de pied de page**
 
@@ -139,7 +139,7 @@ Recherchez les pages consultées par un prospect anonyme de la vue d&#39;Activit
 
 Figure 15. Voir activité Web anonyme
 
-## Abonnement amélioré aux pistes et aux contacts {#enhanced-lead-and-contact-subscribe}
+## Abonnement amélioré de piste et de contact {#enhanced-lead-and-contact-subscribe}
 
 Suivez un prospect ou contactez-le à tout moment à l&#39;aide du nouveau bouton S&#39;abonner sur la page des détails de l&#39;enregistrement.
 
