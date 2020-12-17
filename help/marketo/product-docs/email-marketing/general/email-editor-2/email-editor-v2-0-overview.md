@@ -17,7 +17,7 @@ Lorsque vous déciderez d&#39;activer l&#39;éditeur de messagerie v2.0, vous re
 
 **Sélecteur de modèles de courrier électronique**
 
-Lorsque vous créez un courriel, vous accédez au sélecteur [de modèles de](email-template-picker-overview.md)courriel.
+Lorsque vous créez un nouveau courrier électronique, vous accédez au [Sélecteur de modèles de courrier électronique](email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ Lorsque vous début de modifier votre courrier électronique, vous remarquerez q
 
 **Modules**
 
-Ces choses sur le côté droit de l&#39;éditeur sont appelées modules. Découvrez comment [ajouter des modules à votre courrier électronique](add-modules-to-your-email.md).
+Ces choses sur le côté droit de l&#39;éditeur sont appelées modules. Découvrez comment [ajouter des modules à votre adresse électronique](add-modules-to-your-email.md).
 
 ![](assets/three-4.png)
 
 **Version du texte**
 
-Le passage de la version HTML à la version texte de votre courrier électronique se fait désormais dans un onglet pratique en bas de l’écran. Découvrez comment [modifier la version textuelle d’un courrier électronique](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Le passage de la version HTML à la version texte de votre courrier électronique se fait désormais dans un onglet pratique en bas de l’écran. Découvrez comment [modifier la version textuelle d&#39;un courrier électronique](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/four-3.png)
 
 **En-tête de courriel**
 
-Vous voulez plus d&#39;espace design ? L&#39;en-tête du courriel peut être masqué une fois que vous avez terminé de le [modifier](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Cliquez simplement sur cette icône ...
+Vous voulez plus d&#39;espace design ? L&#39;en-tête de courriel peut être masqué après avoir [modifié ](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Cliquez simplement sur cette icône ...
 
 ![](assets/five-4.png)
 
@@ -67,13 +67,13 @@ La vue par défaut est Bureau...
 
 ![](assets/preview2.png)
 
-...mais vous pouvez également voir à quoi ressemblera un périphérique mobile. Vous pouvez également prévisualisation la version texte ! Il vous suffit de cliquer sur **Modifier le brouillon** dans l’angle supérieur droit pour reprendre la modification.
+...mais vous pouvez également voir à quoi ressemblera un périphérique mobile. Vous pouvez également prévisualisation la version texte ! Il vous suffit de cliquer sur **Modifier le brouillon** dans l&#39;angle supérieur droit pour reprendre la modification.
 
 [![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
 
 **Actions de courrier électronique**
 
-Sous Actions **** par courriel, vous remarquerez quelques nouvelles fonctionnalités. **Téléchargez une image ou un fichier** et **attrapez des images à partir du Web**. Vous pouvez également enregistrer le courrier électronique en tant que nouveau modèle de courrier électronique. Tout ce que vous avez à faire est de lui donner un nom et une destination.
+Sous **Actions de courriel**, vous remarquerez quelques nouvelles fonctionnalités. **Téléchargez une image ou un fichier** et  **attrapez des images à partir du Web**. Vous pouvez également enregistrer le courrier électronique en tant que nouveau modèle de courrier électronique. Tout ce que vous avez à faire est de lui donner un nom et une destination.
 
 ![](assets/nine-3.png)
 
@@ -83,9 +83,9 @@ Sous Actions **** par courriel, vous remarquerez quelques nouvelles fonctionnali
 
 >[!NOTE]
 >
->** [Grab Images from Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fonctionne comme dans Design Studio.
+>** [Capturer les images du Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fonctionne comme dans Design Studio.
 
-**Désactiver le suivi** ouvert Sous Paramètres **de** courriel, vous pouvez désactiver le suivi ouvert si nécessaire.
+**Désactiver le** suivi ouvertSous Paramètres **de** courriel, vous pouvez désactiver le suivi ouvert si nécessaire.
 
 ![](assets/thirteen-1.png)
 
@@ -105,7 +105,7 @@ Beaucoup de nouvelles fonctionnalités ! Amuse-toi bien !
 >
 >**Plongée profonde**
 >
->Si vous souhaitez approfondir vos connaissances, regardez cette vidéo [](https://nation.marketo.com/videos/1463)utile.
+>Si vous souhaitez approfondir vos connaissances, regardez cette [vidéo ](https://nation.marketo.com/videos/1463) très utile.
 
 >[!MORELIKETHIS]
 >
