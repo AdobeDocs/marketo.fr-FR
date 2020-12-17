@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Parfois, vous voulez supprimer des liens entrants. Voici comment :
 
-1. Accédez à la section Liens **** entrants.
+1. Accédez à la section **Liens entrants**.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
