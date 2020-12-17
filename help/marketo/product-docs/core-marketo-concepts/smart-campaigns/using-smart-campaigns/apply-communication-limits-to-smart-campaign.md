@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Appliquer des limites de communication à la Campaign intelligente {#apply-communication-limits-to-smart-campaign}
+# Appliquer les limites de communication à la Campaign intelligente {#apply-communication-limits-to-smart-campaign}
 
 >[!PREREQUISITES]
 >
@@ -41,6 +41,6 @@ Ce n&#39;est pas une bonne idée d&#39;envoyer des mails à quelqu&#39;un plusie
 
 >[!TIP]
 >
->Pour définir cette valeur par défaut, modifiez les limites [de](../../../../product-docs/administration/email-setup/enable-communication-limits.md) communication dans la section Admin.
+>Pour définir cette valeur par défaut, modifiez vos limites de communication [](../../../../product-docs/administration/email-setup/enable-communication-limits.md) dans la section Admin.
 
 Douce. Maintenant, vous pouvez être sûr que vous n&#39;envoyez pas accidentellement trop de courriels à votre audience.
