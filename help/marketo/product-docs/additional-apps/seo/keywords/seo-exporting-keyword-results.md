@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez exporter les résultats de vos mots-clés pour les partager avec votre équipe ou pour créer un rapport.
 
-1. Accédez à la section **Mots-clés** .
+1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
