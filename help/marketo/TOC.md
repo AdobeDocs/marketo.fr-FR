@@ -38,12 +38,12 @@ ht-degree: 0%
       + [Mettre à jour les données personnelles](getting-started/quick-wins/update-person-data.md)
       + [Redirection d’un Landing page](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatisation d&#39;une alerte pour les Duplicata possibles](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
-   + Héritage d’une instance de marché {#inheriting-a-marketo-instance}
+   + Héritage d&#39;une instance de marché {#inheriting-a-marketo-instance}
       + [À l&#39;aide ! J’ai hérité d’une instance de marché existante](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Éléments à désactiver](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Eléments à examiner : Compétences de base](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Méthodes pour obtenir de l’aide](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-+ Documentation sur les produits {#product-docs}
++ Documentation du produit {#product-docs}
    + Marketing basé sur le compte {#account-based-marketing}
       + Configuration {#setup}
          + [Aperçu marketing basé sur le compte](product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md)
@@ -75,7 +75,7 @@ ht-degree: 0%
       + [Configuration du profilage de compte](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
       + [Classement et réglage des profils de compte](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
       + [Nouvelle découverte de compte](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
-   + Engager {#engage}
+   + Interagir {#engage}
       + [Filtres de compte](product-docs/account-based-marketing/engage/account-filters.md)
       + [Déclencheurs de compte](product-docs/account-based-marketing/engage/account-triggers.md)
    + Mesure {#measure}
@@ -88,7 +88,7 @@ ht-degree: 0%
       + [Utilisation de Personas](product-docs/account-based-marketing/using-personas.md)
    + Autres applications {#additional-apps}
       + SEO {#seo}
-         + Comprendre le référencement {#understanding-seo}
+         + Compréhension de l&#39;optimisation du référencement {#understanding-seo}
             + [Présentation de l&#39;optimisation pour les moteurs de recherche](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
             + [Présentation du Tableau de bord d’optimisation du référencement : SEO Recommendations](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
             + [Présentation du Tableau de bord d’optimisation du référencement : Instantané SEO](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
@@ -178,7 +178,7 @@ ht-degree: 0%
          + [Activer les limites de communication](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Activer les restrictions de personne pour les campagnes dynamiques](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [Supprimer le texte de désabonnement de la section &quot;Admin -> Courriel&quot;](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
-      + Gestion de terrain {#field-management}
+      + Gestion des champs {#field-management}
          + [Bloquer les mises à jour des champs pendant l&#39;importation de Listes à partir de sources non approuvées](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [Bloquer les mises à jour d’un champ](product-docs/administration/field-management/block-updates-to-a-field.md)
          + [Modification du type d’un champ personnalisé de marketing](product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)
@@ -200,7 +200,7 @@ ht-degree: 0%
          + [Créer une Activité personnalisée](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Modifier une Activité personnalisée](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [Publication d’une Activité personnalisée](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
-      + Objets personnalisés marketing {#marketo-custom-objects}
+      + Objets personnalisés du marketing {#marketo-custom-objects}
          + [Compréhension des objets personnalisés de marketing](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Ajouter les champs d&#39;objet personnalisé Marketo](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
          + [Ajouter les champs de lien d’objet personnalisé Marketo](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
@@ -336,14 +336,14 @@ ht-degree: 0%
             + [Supprimer une personne de SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md)
             + [Supprimer de SFDC Campaign](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)
             + [Synchroniser la personne avec SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-         + Données Campaign Smart {#smart-campaign-data}
+         + Données Campaign Intelligentes {#smart-campaign-data}
             + [Exporter les résultats Smart Campaign vers Excel](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)
             + [Filtrer les résultats Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
             + [Vue bloquée dans un Campaign intelligent](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
             + [Vue de personnes qualifiées dans une Campaign intelligente](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
             + [Membres de vue Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
             + [Résultats de la vérification de la vue intelligente](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
-      + Listes intelligentes et Listes statiques {#smart-lists-and-static-lists}
+      + Listes dynamiques et Listes statiques {#smart-lists-and-static-lists}
          + [Présentation des Listes intelligentes](product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)
          + Création d’une Liste intelligente {#creating-a-smart-list}
             + [Bonnes pratiques pour les Listes dynamiques](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.md)
@@ -413,7 +413,7 @@ ht-degree: 0%
             + [Filtrage d&#39;un rapport Programme par coût de période](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
             + [Filtrage d’un rapport Programme par Programme](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
             + [Filtrage d’un rapport Programme par balise](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
-         + vue Planning du programme {#program-schedule-view}
+         + vue de Planning du programme {#program-schedule-view}
             + [Créer des types d’entrée personnalisés](product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)
             + [Création d’une Campaign intelligente par lot dans la Vue de Planning du programme](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md)
             + [Création d&#39;un Programme de courriel dans la Vue de planification](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md)
@@ -458,14 +458,14 @@ ht-degree: 0%
             + [Suppression d’une présentation](product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/delete-a-presentation.md)
             + [Lancement d’une présentation](product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
       + Applications mobiles {#mobile-apps}
-         + Arrivée événement {#event-check-in}
+         + Archivage des événements {#event-check-in}
             + [Aperçu de l&#39;arrivée des événements](product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md)
             + [Intégrer des personnes dans votre Événement à partir de votre tablette](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
             + [Octroi aux utilisateurs de l&#39;accès à l&#39;application d&#39;archivage](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
             + [Préparation de votre Événement](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
             + [Configuration de l’iPad ou de la tablette Android](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
          + Moments du marketing {#marketo-moments}
-            + Comprendre les moments {#understanding-moments}
+            + Présentation des moments {#understanding-moments}
                + [Présentation des moments marketing](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
                + [Présentation des cartes Analytics](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
                + [Présentation des cartes de Programme de messagerie](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
@@ -490,7 +490,7 @@ ht-degree: 0%
             + [Présentation des dossiers](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
             + [Présentation des notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
             + [Types de notification](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-   + CRM Sync {#crm-sync}
+   + Synchronisation CRM {#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
          + [Présentation de Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [Versions des modules externes Marketo pour Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
@@ -501,15 +501,15 @@ ht-degree: 0%
             + [Téléchargement de la solution de gestion des pistes marketing](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
             + [Mettre à niveau la solution Marketo pour Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
             + [Vue de l’URL du service d’organisation](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
-            + Locaux de Microsoft Dynamics 2011 {#microsoft-dynamics-2011-on-premises}
+            + Site local de Microsoft Dynamics 2011 {#microsoft-dynamics-2011-on-premises}
                + [Étape 1 sur 3 : Installation de la solution Marketo (2011 sur site)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
                + [Étape 2 sur 3 : Configurer un utilisateur de synchronisation marketing dans Dynamics (local 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
                + [Étape 3 sur 3 : Connecter Microsoft Dynamics au marché (local 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
-            + Installations Microsoft Dynamics 2013 {#microsoft-dynamics-2013-on-premises}
+            + Site local de Microsoft Dynamics 2013 {#microsoft-dynamics-2013-on-premises}
                + [Étape 1 sur 3 : Installer la solution Marketo dans Dynamics (local 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
                + [Étape 2 sur 3 : Configurer l&#39;utilisateur de synchronisation pour Marketo (local 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
                + [Étape 3 sur 3 : Connect Marketo and Dynamics (2013 sur site)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
-            + Locaux de Microsoft Dynamics 2015/2016 Dynamics 365 On-Premises {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
+            + Site local de Microsoft Dynamics 2015/2016 Dynamics 365 On-Premises {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
                + [Étape 1 sur 3 : Installer la solution Marketo - 2015 sur site / 2016 Dynamics 365 sur site](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Étape 2 sur 3 : Configurer un utilisateur de synchronisation marketing dans Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [Étape 3 sur 3 : Connect Marketo and Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
@@ -544,7 +544,7 @@ ht-degree: 0%
             + [Étape 1 sur 3 : Ajouter les champs du marketing à Salesforce (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
             + [Étape 2 sur 3 : Créer un utilisateur Salesforce pour Marketo (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
             + [Étape 3 sur 3 : Connecter Marketing et Salesforce (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
-         + Professional Edition {#professional-edition}
+         + Édition professionnelle {#professional-edition}
             + [Étape 1 sur 3 : Ajouter les champs du marketing à Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
             + [Étape 2 sur 3 : Créer un utilisateur Salesforce pour Marketo (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
             + [Étape 3 sur 3 : Connect Marketo and Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
@@ -593,7 +593,7 @@ ht-degree: 0%
             + [Modification d’un Canal de Événement](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
             + [Partenaires de Événement LaunchPoint](product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
             + [Présentation des Programmes de Événement](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
-         + Création d’un Événement {#create-an-event}
+         + Créer un Événement {#create-an-event}
             + [Créer un Événement avec Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [Création d’un Événement avec GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Créer un Événement avec une réunion Web de niveau 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
@@ -682,7 +682,7 @@ ht-degree: 0%
             + [Rapport sur les performances du landing page](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
             + [Groupes de tests de landing page](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
             + [Présentation des Landings page libres ou guidés](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-         + Landings page à forme libre {#free-form-landing-pages}
+         + Landings page de forme libre {#free-form-landing-pages}
             + [Ajouter un lien vers une image de Landing page libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
             + [Ajouter un lien vers une image dans un Landing page de forme libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
             + [Ajouter une Vue mobile pour votre Landing page de formulaire libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
@@ -700,7 +700,7 @@ ht-degree: 0%
             + [Ajouter un formulaire à un Landing page guidé](product-docs/demand-generation/landing-pages/guided-landing-pages/add-a-form-to-a-guided-landing-page.md)
             + [Ajouter une image à un Landing page guidé](product-docs/demand-generation/landing-pages/guided-landing-pages/add-an-image-to-a-guided-landing-page.md)
             + [Création d’un Landing page guidé](product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
-         + Actions de landing page {#landing-page-actions}
+         + Actions du landing page {#landing-page-actions}
             + [Approuver plusieurs Landings page à la fois](product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)
             + [Modification de l’URL du Landing page](product-docs/demand-generation/landing-pages/landing-page-actions/change-the-landing-page-url.md)
             + [Clonage d&#39;un groupe de tests de Landing page](product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)
@@ -781,9 +781,9 @@ ht-degree: 0%
                + [Modèle 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modèle 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modèle 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modèle 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modèle 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modèle 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modèle 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modèle 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modèle 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modèle 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modèle 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -879,7 +879,7 @@ ht-degree: 0%
             + [Publication d’un tirage](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Sélectionner les gagnants du Tirage](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + Marketing par courriel {#email-marketing}
-      + Délivrance {#deliverability}
+      + Livraison {#deliverability}
          + [Désabonnement durable](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Pack d&#39;alimentation de la délivrabilité du courriel : Comment importer une liste de semences](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seedlist.md)
          + [Outil de délivrabilité du courrier électronique](product-docs/email-marketing/deliverability/email-deliverability-tool.md)
@@ -889,7 +889,7 @@ ht-degree: 0%
          + [Adresses IP partagées et dédiées](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [Comprendre la désinscription](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [Utiliser vos adresses IP dédiées pour envoyer des courriers électroniques](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
-      + Soins infirmiers {#drip-nurturing}
+      + Soins de santé au sol {#drip-nurturing}
          + Création d’un Programme d’engagement {#creating-an-engagement-program}
             + [Ajouter un flux](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
             + [Ajouter du contenu à un flux](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
@@ -923,8 +923,8 @@ ht-degree: 0%
             + [Modifier la disponibilité du contenu du flux](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
             + [Donner la priorité au contenu du flux](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [Supprimer le contenu du flux](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
-      + Programmes de messagerie {#email-programs}
-         + Création d’un Programme de messagerie {#creating-an-email-program}
+      + Programmes de courriel {#email-programs}
+         + Création d’un Programme de courriel {#creating-an-email-program}
             + [Créer un Programme de messagerie](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
             + [Présentation des Programmes de messagerie](product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)
          + Actions de Programme de courriel {#email-program-actions}
@@ -947,7 +947,7 @@ ht-degree: 0%
             + [Début principal pour les Programmes électroniques](product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
             + [Déplacer un courrier électronique](product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md)
             + [Planification de votre Programme de messagerie](product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-            + Planification avec fuseau horaire Destinataire {#scheduling-with-recipient-time-zone}
+            + Planification avec le fuseau horaire du Destinataire {#scheduling-with-recipient-time-zone}
                + [Abandonner la Diffusion des Programmes de courriel planifiés avec le fuseau horaire Destinataire](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
                + [Planification des Programmes de courriel avec fuseau horaire Destinataire](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
                + [Présentation du fuseau horaire Destinataire](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
@@ -958,7 +958,7 @@ ht-degree: 0%
             + [Utiliser le Tableau de bord de Programme de courriel](product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
             + [Résultats du Programme de courriel de vue](product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)
             + [Vue du Tableau de bord de Programme de courriel](product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md)
-         + Gestion des personnes dans les Programmes électroniques {#managing-people-in-email-programs}
+         + Gestion des personnes dans les Programmes de courriel {#managing-people-in-email-programs}
             + [Définition d’une Audience en important une Liste](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
             + [Définir une Audience avec une Liste dynamique](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
             + [Importer une Liste de caractères non latins](product-docs/email-marketing/email-programs/managing-people-in-email-programs/import-a-non-latin-characters-list.md)
@@ -966,7 +966,7 @@ ht-degree: 0%
          + Présentation de l’éditeur de courrier électronique {#understanding-the-email-editor}
             + [Présentation de la journalisation des Événements électroniques](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [Utilisation de l’éditeur de texte enrichi](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
-         + Création d’un courrier électronique {#creating-an-email}
+         + Création d&#39;un courrier électronique {#creating-an-email}
             + [Approuver un courriel](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [Créer un message électronique Texte uniquement](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
             + [Créer un courriel](product-docs/email-marketing/general/creating-an-email/create-an-email.md)
@@ -1016,12 +1016,12 @@ ht-degree: 0%
             + [Utiliser le jeton d&#39;informations d&#39;alerte Envoyer](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [Utilisation des URL dans mes jetons](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [Courriel CC](product-docs/email-marketing/general/email-cc.md)
-   + Connexion commerciale {#marketo-sales-connect}
+   + Marketing Sales Connect {#marketo-sales-connect}
       + Prise en main {#getting-started}
          + [Présentation de la connexion commerciale](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Prise en main de Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [Vidéos et Tutorials de Début rapide](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
-         + Paramètres de courrier électronique {#email-settings}
+         + Paramètres de courriel {#email-settings}
             + [Identité d&#39;Ajoute](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [Ajouter votre signature électronique](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
             + [Jamais reçu de courrier électronique de vérification](product-docs/marketo-sales-connect/getting-started/email-settings/never-received-a-verification-email.md)
@@ -1054,7 +1054,7 @@ ht-degree: 0%
          + [Utilisation de Tâches dans les campagnes](product-docs/marketo-sales-connect/campaigns/using-tasks-in-campaigns.md)
          + [Vue Campagnes Liste en tant qu&#39;autre utilisateur](product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)
       + CRM {#crm}
-         + Personnalisation Salesforce {#salesforce-customization}
+         + Personnalisation de Salesforce {#salesforce-customization}
             + [Champ Type d’Activité sur les Tâches (SFDC)](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
             + [Ajouter les boutons de connexion commerciale à Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
             + [Créer un rapport d&#39;appel prioritaire Salesforce avec les données de connexion des ventes](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
@@ -1101,7 +1101,7 @@ ht-degree: 0%
             + ajoute héritée .NET {#net-legacy-add-in}
                + [Présentation des Ajoutes .NET](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/net-add-in-overview.md)
                + [Comment désinstaller Sales Connect d&#39;Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
-            + Ajoute Office 365 {#office-365-add-in}
+            + Office 365 Ajoute-in {#office-365-add-in}
                + [Ajouter un courrier électronique à Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Installation de Sales Connect pour Office365 Mac OS, Windows et Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
       + Courriel {#email}
@@ -1111,7 +1111,7 @@ ht-degree: 0%
             + [Affectation de Tâches aux membres de l’équipe](product-docs/marketo-sales-connect/email/command-center/assigning-tasks-to-team-members.md)
             + [Colonnes de courriel et mise en page de la page de courriel](product-docs/marketo-sales-connect/email/command-center/email-columns-and-email-page-layout.md)
             + [Utilisation d’actions rapides pour accélérer votre processus](product-docs/marketo-sales-connect/email/command-center/using-quick-actions-to-speed-up-your-workflow.md)
-         + Questions courantes de suivi {#common-tracking-questions}
+         + Questions de suivi courantes {#common-tracking-questions}
             + [Fonctionnement du suivi des réponses](product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
             + [Configuration du suivi de domaine personnalisé](product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-set-up-custom-domain-tracking.md)
             + [Comment effectuer le suivi de vos pièces jointes](product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md)
@@ -1123,7 +1123,7 @@ ht-degree: 0%
             + [Comment configurer votre serveur SMTP Outlook365 avec Sales Connect](product-docs/marketo-sales-connect/email/email-delivery/how-to-set-up-your-outlook365-smtp-server-with-sales-connect.md)
             + [Configuration d’un serveur SMTP](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
             + [Configuration de votre Canal de Diffusion](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
-         + Envoyer un courriel de vente {#send-a-sales-email}
+         + Envoyer Un Courriel De Vente {#send-a-sales-email}
             + [Ajouter un modèle ou un Campaign](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
             + [Ajouter un courriel à Salesforce à partir de Gmail](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
             + [Ajouter le courrier électronique à Salesforce dans le client de messagerie](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-in-email-client.md)
@@ -1148,7 +1148,7 @@ ht-degree: 0%
             + [Emplacement du Destinataire incorrect](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [Glossaire des icônes de flux en direct](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-icon-glossary.md)
             + [Présentation des flux en direct](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
-         + Désabonnements {#unsubscribes}
+         + Désabonne {#unsubscribes}
             + [Personnaliser le message de désabonnement de lien](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
             + [Vérification de désabonnement du marketing](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
             + [Reprise d&#39;un abonnement](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
@@ -1171,7 +1171,7 @@ ht-degree: 0%
          + [FAQ sur le contenu et les pièces jointes](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect possède-t-il un iPhone ou une application Android ?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [Comment puis-je Placer sur la liste autorisée Sales Connect sur mon serveur ?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
-         + [J&#39;ai été verrouillé de mon compte. Que Puis-Je Faire ?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+         + [J&#39;ai été verrouillé de mon compte. Que dois-je faire ?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect est-il compatible avec Salesforce Lightning ?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Quelles sont les dernières versions du client ?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [Quelles sont les conditions de service de Sales Connect ?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
@@ -1255,22 +1255,22 @@ ht-degree: 0%
          + [Informations et Activités sur la vue et le compte dans Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + MSI pour Microsoft Dynamics {#msi-for-microsoft-dynamics}
          + [Présentation des fonctionnalités](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
-         + Installation {#installing}
+         + Installation de {#installing}
             + [Téléchargement de la solution Marketing Cloud Sales Insight pour Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Installation et configuration de Marketo Sales Insight dans Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
             + [Installation et configuration de Marketo Sales Insight dans Microsoft Dynamics 2013](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
             + [Installation et configuration de Marketo Sales Insight dans Microsoft Dynamics 2015](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
             + [Installation et configuration de Marketo Sales Insight dans Microsoft Dynamics 365](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
             + [Installer et configurer Marketo Sales Insight dans Microsoft Dynamics Online](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
-         + Configuration et utilisation {#setting-up-and-using}
+         + Configuration et utilisation de {#setting-up-and-using}
             + [Ajouter une piste/un contact à un Campaign marketing à partir de Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [Champs requis pour synchroniser le marketing avec Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
             + [Envoyer un e-mail commercial marketing à partir de Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Configuration des étoiles et des flammes pour les enregistrements de piste/contact](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
-         + Désinstallation {#uninstalling}
+         + Désinstallation de {#uninstalling}
             + [Désactiver Global MS Dynamics Sync](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [Désinstaller MSI de votre instance MS Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
-         + Mise à jour {#updating}
+         + Mise à jour de {#updating}
             + [Mise à jour de la solution Marketing Cloud Sales Insight pour Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI pour Salesforce {#msi-for-salesforce}
          + Installation {#installation}
@@ -1295,7 +1295,7 @@ ht-degree: 0%
                + [Présentation des fonctionnalités du Tableau de bord Insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + Prise en charge des langues {#language-support}
                + [Préparer Sales Insight for Multi-Lingual Support dans Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
-            + Onglet Marqueur {#marketo-tab}
+            + Onglet Marketo {#marketo-tab}
                + [Utilisation du flux de piste](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + Onglet Configuration MSI {#msi-configuration-tab}
                + [Activer RSS pour Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
@@ -1376,7 +1376,7 @@ ht-degree: 0%
          + [Le Tableau de bord de messages SMS](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [Utiliser des messages SMS de vidéos dans les déclencheurs et Filtres de Liste intelligente](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + Personnalisation {#personalization}
-      + Segmentation et extraits de code {#segmentation-and-snippets}
+      + Segmentation et extraits {#segmentation-and-snippets}
          + Segmentation {#segmentation}
             + [Approbation d’une segmentation](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
             + [Création d’une segmentation](product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
@@ -1419,7 +1419,7 @@ ht-degree: 0%
          + [Activer le contenu prédictif pour les médias enrichis en ligne](product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
          + [Activer le contenu prédictif dans les courriers électroniques](product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)
          + [Activation de la barre de recommandation de contenu](product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
-      + Utilisation de contenu prédictif {#working-with-predictive-content}
+      + Utilisation du contenu prédictif {#working-with-predictive-content}
          + [Présentation du contenu prédictif](product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)
          + [Modifier le contenu prédictif pour les courriels](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [Modification du contenu prédictif pour le média enrichi](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
@@ -1441,7 +1441,7 @@ ht-degree: 0%
             + [Réorganiser les colonnes du rapport](product-docs/reporting/basic-reporting/editing-reports/reorder-report-columns.md)
             + [Sélectionner les colonnes du rapport](product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
             + [Trier le rapport sur les colonnes](product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
-         + Activité de rapports {#report-activity}
+         + Activité du rapport {#report-activity}
             + [Création d’un rapport sur les performances des personnes avec des colonnes de plateformes mobiles](product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md)
             + [Modification de l’heure d’expiration des URL dans les courriers électroniques des rapports](product-docs/reporting/basic-reporting/report-activity/change-the-expiration-time-for-urls-in-report-emails.md)
             + [Cloner un rapport pour regrouper des rapports](product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
@@ -1457,7 +1457,7 @@ ht-degree: 0%
             + [Courriel des rapports, performances Campaign dans tous les espaces de travail](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [Partage d’un modèle sur plusieurs espaces de travail](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
             + [Suivi des Activités et des personnes anonymes](product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
-         + Abonnements des rapports {#report-subscriptions}
+         + Abonnements de rapports {#report-subscriptions}
             + [Modifier un Abonnement de Liste dynamique](product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
             + [Gérer les Abonnements de rapports](product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)
             + [Sécurisation du paramètre d’administration de l’Abonnement](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
@@ -1472,7 +1472,7 @@ ht-degree: 0%
             + [Aperçu du type de rapport](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
             + [Rapport Activité de page Web](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [Pages Web vues, Rapport Activité de page Web](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
-      + Informations sur les courriels {#email-insights}
+      + Insights par courriel {#email-insights}
          + [Présentation des informations sur les courriels](product-docs/reporting/email-insights/email-insights-overview.md)
          + [Dimensions personnalisées pour les statistiques de courriel](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
          + [Présentation des analyses des statistiques de courriel](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
@@ -1480,7 +1480,7 @@ ht-degree: 0%
          + [Graphiques rapides des statistiques de messagerie](product-docs/reporting/email-insights/email-insights-quick-charts.md)
          + [Présentation des informations sur les e-mails envoyés](product-docs/reporting/email-insights/email-insights-sends-overview.md)
          + [Filtrage dans les statistiques de courriel](product-docs/reporting/email-insights/filtering-in-email-insights.md)
-      + Informations sur les performances {#performance-insights}
+      + Performances Insights {#performance-insights}
          + [Présentation des informations sur les performances](product-docs/reporting/performance-insights/performance-insights-overview.md)
          + [Filtrage dans les statistiques de performances](product-docs/reporting/performance-insights/filtering-in-performance-insights.md)
          + [Présentation des contributions d’Analyses de performances](product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
@@ -1553,7 +1553,7 @@ ht-degree: 0%
             + [Synchroniser les champs personnalisés avec l&#39;Explorateur de recettes](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)
             + [Présentation de l&#39;Analyse des opportunités dans l&#39;Explorateur de recettes](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)
             + [Utilisation de Tableaux de bord dans l&#39;Explorateur de recettes](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/using-dashboards-in-revenue-explorer.md)
-         + Outils Recettes {#revenue-tools}
+         + Outils des recettes {#revenue-tools}
             + [Définir les coûts de la période](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [Activation de la synchronisation des champs personnalisés pour les analyses du cycle de production de recettes](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [Rapport d’étape Personnes par chiffre d’affaires](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
@@ -1563,7 +1563,7 @@ ht-degree: 0%
                + [Exemple d’attribution 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
                + [Exemple d’attribution 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
                + [Exemple d’attribution 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
-            + Organiseurs de champs {#field-organizers}
+            + Organisateurs de champs {#field-organizers}
                + [Utilisation des organisateurs de champs](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
                + [Création de groupes de champs personnalisés à l’aide de l’organiseur de champs](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + Personnalisation Web {#web-personalization}
@@ -1578,7 +1578,7 @@ ht-degree: 0%
          + [Définition de la personnalisation Web sur laquelle ne pas effectuer de suivi](product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)
          + [Paramètres utilisateur](product-docs/web-personalization/getting-started/user-settings.md)
          + [Espaces de travail dans la personnalisation Web](product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)
-      + Implémentation des balises RTP {#rtp-tag-implementation}
+      + Implémentation de balise RTP {#rtp-tag-implementation}
          + [Déploiement du code JavaScript RTP](product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)
          + [Activation ou désactivation de la balise JavaScript RTP](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
          + [Implémentation de RTP sur les Landings page marketing](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
@@ -1587,7 +1587,7 @@ ht-degree: 0%
          + [Implémentation de RTP à l’aide d’Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
          + [Implémentation de RTP à l’aide de Google Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
          + [Implémentation de RTP à l’aide de Tealium Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
-      + Rapports de la personnalisation Web {#reporting-for-web-personalization}
+      + Rapports pour la personnalisation Web {#reporting-for-web-personalization}
          + [Rapports par courriel](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
          + [Activer/désactiver les Abonnements de rapports](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
          + [Exclure les adresses IP spécifiques du suivi](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
@@ -1599,7 +1599,7 @@ ht-degree: 0%
             + [Intégration de RTP avec des Google Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [Intégration de RTP à Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Intégration avec Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
-      + Comprendre la personnalisation Web {#understanding-web-personalization}
+      + Présentation de la personnalisation Web {#understanding-web-personalization}
          + [Présentation de l’analyse de contenu](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [Glossaire de la personnalisation Web](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
          + [Présentation de la personnalisation Web](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
