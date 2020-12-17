@@ -19,7 +19,7 @@ Créez des audiences correspondantes à partir de vos Listes de compte ABM pour 
 >
 >[Ajouter les Audiences mises en correspondance LinkedIn en tant que service LaunchPoint](http://docs.marketo.com/x/I4Fy)
 
-1. Dans ABM, cliquez sur l&#39;onglet Listes **de** compte.
+1. Dans ABM, cliquez sur l&#39;onglet **Listes de compte**.
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ Créez des audiences correspondantes à partir de vos Listes de compte ABM pour 
 
    ![](assets/two.png)
 
-1. Cliquez sur la liste déroulante Actions **** de Liste de compte et sélectionnez **Envoyer par AdBridge**.
+1. Cliquez sur la liste déroulante **Actions de Liste de compte** et sélectionnez **Envoyer via AdBridge**.
 
    ![](assets/three-1.png)
 
@@ -35,11 +35,11 @@ Créez des audiences correspondantes à partir de vos Listes de compte ABM pour 
 
    ![](assets/four-1.png)
 
-1. Cliquez sur la liste déroulante **Audience** . Vous pouvez sélectionner une audience existante ou en créer une nouvelle. Dans cet exemple, nous allons en créer une nouvelle (si vous sélectionnez une audience existante, passez à l’étape 7).
+1. Cliquez sur la liste déroulante **Audience**. Vous pouvez sélectionner une audience existante ou en créer une nouvelle. Dans cet exemple, nous allons en créer une nouvelle (si vous sélectionnez une audience existante, passez à l’étape 7).
 
    ![](assets/five-1.png)
 
-1. Cliquez sur la liste déroulante Compte **** publicitaire et sélectionnez le compte publicitaire cible.
+1. Cliquez sur la liste déroulante **Compte publicitaire** et sélectionnez le compte publicitaire de cible.
 
    ![](assets/six-1.png)
 
