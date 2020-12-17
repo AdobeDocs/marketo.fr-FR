@@ -21,7 +21,7 @@ Afin d&#39;assurer une livraison de premier ordre, nous signons automatiquement 
 
 Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de votre choix. Voici comment.
 
-1. Accédez à la section **Admin** .
+1. Accédez à la section **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -30,11 +30,11 @@ Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de
    >
    >Si vous configurez une signature DKIM personnalisée à l’ancienne manière, elle continuera à fonctionner et devrait s’afficher ici.
 
-1. Cliquez sur **Courriel**, puis sur l’onglet **DKIM** et enfin sur **Ajouter le domaine**.
+1. Cliquez sur **Courriel**, puis sur l&#39;onglet **DKIM** et enfin **Ajouter le domaine**.
 
    ![](assets/image2014-9-18-15-3a39-3a30.png)
 
-1. Entrez le domaine que vous allez utiliser dans les courriers électroniques de Marketo comme adresse de départ et cliquez sur **Ajouter**.
+1. Entrez le domaine que vous utiliserez dans les courriers électroniques de Marketo comme adresse de départ et cliquez sur **Ajouter**.
 
    >[!TIP]
    >
@@ -43,11 +43,11 @@ Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de
 
    ![](assets/image2014-9-18-15-3a40-3a28.png)
 
-1. Envoyez l’enregistrement **** hôte et la valeur **** TXT à votre service informatique. Demandez-leur de créer l’enregistrement pour vous et de s’assurer qu’il se propage à tous les serveurs de noms associés au domaine de départ. La vérification DKIM de Marketo exige que la clé DKIM soit propagée à tous les serveurs de noms associés au domaine signé DKIM.
+1. Envoyez l&#39;**enregistrement hôte** et la **valeur TXT** à votre service informatique. Demandez-leur de créer l’enregistrement pour vous et de s’assurer qu’il se propage à tous les serveurs de noms associés au domaine de départ. La vérification DKIM de Marketo exige que la clé DKIM soit propagée à tous les serveurs de noms associés au domaine signé DKIM.
 
    ![](assets/image2014-9-18-15-3a40-3a44.png)
 
-1. Une fois qu’ils ont confirmé avoir créé l’enregistrement, revenez sur Marketo, sélectionnez votre domaine, puis cliquez sur **Vérifier DNS**.
+1. Une fois qu’ils ont confirmé avoir créé l’enregistrement, revenez à Marketo, sélectionnez votre domaine, puis cliquez sur **Vérifier DNS**.
 
    ![](assets/check.png)
 
