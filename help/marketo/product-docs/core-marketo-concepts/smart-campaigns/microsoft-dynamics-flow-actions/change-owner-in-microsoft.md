@@ -17,7 +17,7 @@ Si des personnes existantes sont déjà affectées à un propriétaire, vous pou
 
 >[!NOTE]
 >
->Cette étape de flux ne fonctionne **que lorsqu’elle est utilisée avec des déclencheurs** et non des filtres dans votre campagne dynamique.
+>Cette étape de flux ne fonctionne **que si elle est utilisée avec des déclencheurs**, et non avec des filtres, dans votre campagne dynamique.
 
 ![](assets/one-1.png)
 
