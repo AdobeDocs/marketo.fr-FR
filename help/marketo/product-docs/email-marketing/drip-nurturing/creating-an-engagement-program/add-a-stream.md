@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Les programmes d’engagement peuvent contenir plusieurs flux. Voici comment en ajouter un nouveau.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez votre programme d’engagement, puis cliquez sur l’onglet **Flux** .
+1. Sélectionnez votre programme d’engagement et cliquez sur l’onglet **Flux**.
 
    ![](assets/streamstablifecycle.jpg)
 
