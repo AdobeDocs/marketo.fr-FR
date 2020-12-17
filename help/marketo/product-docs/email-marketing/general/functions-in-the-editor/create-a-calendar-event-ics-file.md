@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Un jeton Fichier de calendrier vous permet d’ajouter un lien événement de calendrier (.ics) à vos e-mails et landings page marketing.
 
-1. Dans votre programme, accédez à l&#39;onglet **Mes jetons** .
+1. Dans votre programme, accédez à l&#39;onglet **Mes jetons**.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Faites glisser un jeton Fichier **de** calendrier sur le canevas.
+1. Faites glisser un jeton **Fichier de calendrier** sur le canevas.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Saisissez un nom **de** jeton et **Modifier**.
+1. Saisissez un **nom du jeton** et **Modifier**.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
