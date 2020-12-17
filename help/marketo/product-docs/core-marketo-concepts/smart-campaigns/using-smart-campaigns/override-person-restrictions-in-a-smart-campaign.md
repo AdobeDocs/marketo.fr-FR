@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Remplacer les restrictions de personne dans une Campaign dynamique {#override-person-restrictions-in-a-smart-campaign}
 
-Marketo vous permet de définir le nombre maximum* *de personnes pouvant bénéficier d’une campagne intelligente ; cela vous permet d’éviter d’envoyer par courrier électronique l’intégralité de votre base de données. Si vous voulez *remplacer* cette limite, voici comment.
+Marketo vous permet de définir le nombre maximum* *de personnes pouvant bénéficier d’une campagne intelligente ; cela vous permet d’éviter d’envoyer par courrier électronique l’intégralité de votre base de données. Si vous souhaitez *remplacer* cette limite, voici comment procéder.
 
 >[!PREREQUISITES]
 >
->Veillez à [activer les restrictions de personnes pour les campagnes](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) dynamiques dans l’administration de Marketing Cloud.
+>Veillez à [activer les restrictions de personne pour les campagnes intelligentes](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) dans l&#39;administrateur de Marketing Cloud.
 
-1. Dans Activités marketing, accédez à votre campagne** **intelligente et cliquez sur **Planifier**.
+1. Dans Activités marketing, accédez à votre campagne** **intelligente et cliquez sur **Planification**.
 
    ![](assets/one.png)
 
@@ -30,7 +30,7 @@ Marketo vous permet de définir le nombre maximum* *de personnes pouvant bénéf
    >
    >La limite par défaut est celle définie dans Admin.
 
-1. Saisissez une nouvelle limite, puis cliquez sur **Enregistrer.**
+1. Entrez une nouvelle limite, puis cliquez sur **Enregistrer.**
 
    ![](assets/three.png)
 
