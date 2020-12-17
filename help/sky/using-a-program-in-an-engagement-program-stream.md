@@ -17,7 +17,7 @@ ht-degree: 0%
 Il est facile d’ajouter un courriel à un flux dans un programme d’engagement, et ça fonctionne bien. Cependant, si vos besoins commerciaux sont plus complexes, il peut être logique de placer le courriel dans un programme. Par exemple, vous pouvez souhaiter :
 
 * Envoyer un courrier électronique à un sous-groupe de personnes dans le flux
-* Envoyer _différents_ messages électroniques à des sous-groupes dans le flux
+* Envoyer des _messages_ différents aux sous-groupes du flux
 * Inclure des landings page, des formulaires ou d’autres ressources dans le programme d’engagement
 * Activer l’attribution multipoint
 * Ajouter des étapes de flux supplémentaires, telles que les courriers électroniques d’alerte
@@ -30,7 +30,7 @@ Lors de l’utilisation d’un programme imbriqué, la décision d’envoyer un 
 * Si vous êtes membre du programme, vous ne recevrez pas le courriel
 * Si vous n’êtes plus membre mais que vous avez déjà reçu le courriel plus tôt par ce programme, vous ne recevrez pas le courriel.
 
-Lorsque vous utilisez un programme dans un flux, cela n’a pas d’importance si vous avez déjà reçu ce message. Tant que le courrier électronique n’a pas été envoyé avant _dans ce programme_ spécifique, vous pouvez le recevoir à nouveau.
+Lorsque vous utilisez un programme dans un flux, cela n’a pas d’importance si vous avez déjà reçu ce message. Tant que le courrier électronique n&#39;a pas été envoyé avant _dans ce programme spécifique_, vous pouvez le recevoir à nouveau.
 
 Il peut être difficile de mélanger des courriels et des programmes dans un programme d&#39;engagement. Vous pouvez utiliser l&#39;un ou l&#39;autre.
 
@@ -40,7 +40,7 @@ Il peut être difficile de mélanger des courriels et des programmes dans un pro
 
 ## Qu&#39;arrive-t-il aux personnes qui ne répondent pas aux critères de liste intelligente ?
 
-Dans le événement où une personne est filtrée hors de la liste intelligente de la campagne intelligente d’un programme imbriqué, elle ne passe pas à l’élément de contenu suivant pendant la diffusion en cours. Ils passeront à l’élément de contenu suivant dans le flux pour la diffusion _suivante_ .
+Dans le événement où une personne est filtrée hors de la liste intelligente de la campagne intelligente d’un programme imbriqué, elle ne passe pas à l’élément de contenu suivant pendant la diffusion en cours. Ils passeront à l’élément de contenu suivant dans le flux pour la diffusion _suivante_.
 
 ## Que contient un programme imbriqué ?
 
