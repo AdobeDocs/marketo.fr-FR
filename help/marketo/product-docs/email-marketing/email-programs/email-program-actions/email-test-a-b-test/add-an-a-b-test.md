@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Créer un Programme de messagerie](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Définir une Audience avec une Liste](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) dynamique ou en [définissant une Audience en important une Liste](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Définissez une Audience avec une ](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) liste dynamique en  [définissant une Audience en important une Liste](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Choisir un courriel](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) existant ou [créer un courriel pour un Programme de courriel](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+* [Choisir un ](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) courriel existant  [Créer un courriel pour un Programme de courriel](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 >
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Les tests sont un excellent moyen d&#39;optimiser vos courriels pour un meilleur engagement. Voici comment commencer.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -36,7 +36,7 @@ Les tests sont un excellent moyen d&#39;optimiser vos courriels pour un meilleur
 
    ![](assets/selectemailprogram.jpg)
 
-1. Sous la mosaïque **Courrier électronique** , cliquez sur **Ajouter le test** A/B.
+1. Sous la mosaïque **E-mail**, cliquez sur **Ajouter le test A/B**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 
@@ -44,11 +44,11 @@ Les tests sont un excellent moyen d&#39;optimiser vos courriels pour un meilleur
    >
    >Lors de l’ajout d’un test A/B, le courrier électronique sélectionné ne sera plus disponible pour une utilisation dans un autre programme.
 
-1. Une nouvelle fenêtre s&#39;ouvre avec différents types **de** test. Consultez l’un des articles connexes ci-dessous pour continuer.
+1. Une nouvelle fenêtre s&#39;ouvre avec différents **types de test** à choisir. Consultez l’un des articles connexes ci-dessous pour continuer.
 
    >[!CAUTION]
    >
-   >Si votre base de données contient des enregistrements de duplicata, ces enregistrements recevront **à la fois** les e-mails de test et gagnants. Pour éviter cela, veillez à [rechercher et à fusionner des personnes](http://docs.marketo.com/x/G4EI) duplicata dans votre base de données.
+   >Si votre base de données contient des enregistrements de duplicata, ces enregistrements recevront **à la fois** le test et les courriers électroniques gagnants. Pour éviter cela, veillez à [rechercher et à fusionner des personnes de duplicata](http://docs.marketo.com/x/G4EI) dans votre base de données.
 
 >[!NOTE]
 >
