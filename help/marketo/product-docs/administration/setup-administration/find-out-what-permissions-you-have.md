@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Déterminer les autorisations dont vous disposez {#find-out-what-permissions-you-have}
+# Déterminez Les Autorisations Dont Vous Disposez {#find-out-what-permissions-you-have}
 
 Si vous vous demandez quelles autorisations vous avez ou n&#39;avez pas sur Marketo, il y a un moyen facile pour vous de le savoir.
 
@@ -19,7 +19,7 @@ Si vous vous demandez quelles autorisations vous avez ou n&#39;avez pas sur Mark
 
    ![](assets/login-marketing-activities.png)
 
-1. Cliquez sur Accès **complet** pour afficher les autorisations dont vous disposez.
+1. Cliquez sur **Accès complet** pour afficher les autorisations dont vous disposez.
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
