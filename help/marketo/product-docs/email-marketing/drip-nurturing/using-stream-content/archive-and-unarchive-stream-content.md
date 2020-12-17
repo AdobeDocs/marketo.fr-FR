@@ -19,13 +19,13 @@ Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous po
 >
 >L&#39;enlèvement détruit toute l&#39;histoire associée ; l&#39;archivage le préserve.
 
-## Archiver le contenu du flux {#archive-stream-content}
+## Contenu du flux d&#39;archivage {#archive-stream-content}
 
-1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux** .
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Passez la souris sur le courrier électronique à archiver, puis, sous l’icône représentant un engrenage, cliquez sur **Archiver**.
+1. Passez la souris sur le courrier électronique à archiver, puis, sous l’icône d’engrenage, cliquez sur **Archiver**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -41,7 +41,7 @@ Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous po
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Maintenant que vous pouvez voir le contenu archivé, cliquez sur l&#39;icône représentant un engrenage pour le contenu que vous souhaitez désarchiver, puis cliquez sur **Désarchiver**.
+1. Maintenant que vous pouvez voir le contenu archivé, cliquez sur l’icône représentant un engrenage pour le contenu que vous souhaitez désarchiver, puis cliquez sur **Désarchiver**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
