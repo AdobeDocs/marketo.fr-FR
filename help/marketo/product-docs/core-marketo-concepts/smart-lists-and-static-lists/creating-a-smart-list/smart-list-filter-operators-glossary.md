@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Glossaire des opérateurs de filtre de Liste dynamique {#smart-list-filter-operators-glossary}
+# Opérateurs de filtre de Liste dynamique Glossaire {#smart-list-filter-operators-glossary}
 
-Un opérateur fait partie de la liste [](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) intelligente qui vous aide à obtenir des informations spécifiques. Il vous permet de décrire votre filtre ou déclencheur en langage simple. Les opérateurs disponibles sont différents pour chaque type de champ.\
+Un opérateur fait partie de la [liste intelligente](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) qui vous aide à obtenir des informations spécifiques. Il vous permet de décrire votre filtre ou déclencheur en langage simple. Les opérateurs disponibles sont différents pour chaque type de champ.\
 Voici un glossaire décrivant chaque ensemble d&#39;opérateurs.
 
 ## Champs de date {#date-fields}
@@ -51,11 +51,11 @@ Il suffit de taper le numéro et l&#39;unité ensemble et ça marchera !
 
 >[!NOTE]
 >
->Dans le passé, **** inclut le jour (jusqu’à l’heure, pas après) que vous avez créé votre liste intelligente.
+>Dans le passé, **** inclut-il le jour (jusqu&#39;à l&#39;heure, et non après) où vous créez votre liste intelligente.
 
 >[!CAUTION]
 >
->Lorsque vous créez une liste dynamique à l’aide d’un filtre de champ de date (par exemple, Date de naissance, Date de création de la DDC) et que vous utilisez les contraintes **avant** , **avant ou avant** , la liste dynamique inclut également les personnes qui n’ont aucune valeur dans ledit champ de date.
+>Lorsque vous créez une liste dynamique à l’aide d’un filtre de champ de date (par exemple, Date de naissance, Date de création de la DDC) et que vous utilisez les contraintes **avant** ou **le ou avant**, la liste dynamique inclut également les personnes qui n’ont aucune valeur dans ledit champ de date.
 
 Utilisez le diagramme suivant pour comprendre la différence entre les opérateurs de date.
 
@@ -108,7 +108,7 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1">is</td> 
-   <td colspan="1" rowspan="1">Correspondance exacte du nombre ( = 0 renvoie les deux pistes avec 0 <em>et</em> NULL)</td> 
+   <td colspan="1" rowspan="1">Correspondance exacte du nombre ( = 0 renvoie les deux pistes avec 0 <em>et </em> NULL)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">is not</td> 
@@ -136,7 +136,7 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">est vide</td> 
-   <td colspan="1" rowspan="1">Enregistrements sans valeur (NULL) - zéro est un nombre, il <em>n'est pas</em> NULL</td> 
+   <td colspan="1" rowspan="1">Enregistrements sans valeur (NULL) - zéro est un nombre, <em>pas</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">n’est pas vide</td> 
