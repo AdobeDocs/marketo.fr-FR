@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a épuisé toutes les possibilités et attend inactif jusqu&#39;à ce que davantage soit ajouté. Vous pouvez trouver des gens &quot;épuisés&quot; de plusieurs manières.
 
-## Filtre du Programme Membre de l’engagement {#member-of-engagement-program-filter}
+## Filtre du Programme Membre d’engagement {#member-of-engagement-program-filter}
 
-1. Créez une nouvelle liste intelligente, puis recherchez et faites glisser le filtre Programme **** membre de l’engagement.
+1. Créez une nouvelle liste intelligente, puis recherchez et faites glisser le filtre **Membre du Programme d’engagement**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Sous Contrainte **d’Ajoute**, sélectionnez Contenu **** extrait.
+1. Sous **Ajouter la contrainte**, sélectionnez **Contenu extrait**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Définissez le paramètre Contenu **** extrait sur **true**.
+1. Définissez **Exhausted Content** sur **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,15 +37,15 @@ Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a
 
 ## Onglet Membres {#members-tab}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Membres** .
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Membres**.
 
    ![](assets/memberstab.jpg)
 
-1. Notez la colonne intitulée Contenu **** extrait.
+1. Notez la colonne **Contenu extrait**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
