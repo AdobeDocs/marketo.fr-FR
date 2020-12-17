@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Clonage d’un flux {#clone-a-stream}
+# Cloner un flux {#clone-a-stream}
 
 Cloner un flux pour diverses raisons, y compris en testant différents ordres et différentes cadences.
 
-1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux** .
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Cliquez sur l&#39;icône d&#39;engrenage du flux, puis sur **Cloner**.
+1. Cliquez sur l&#39;icône d&#39;engrenage du flux, puis sur **Clone**.
 
    ` ![](assets/image2014-9-15-17-3a0-3a23.png)
 
