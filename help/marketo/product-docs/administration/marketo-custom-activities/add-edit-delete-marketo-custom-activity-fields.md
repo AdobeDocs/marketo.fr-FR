@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Ajouter/modifier/supprimer des champs d&#39;Activité personnalisée du marketing {#add-edit-delete-marketo-custom-activity-fields}
+# Ajouter/modifier/supprimer les champs d&#39;Activité personnalisée du marketing {#add-edit-delete-marketo-custom-activity-fields}
 
 Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activité personnalisé. Voici comment.
 
-## Ajouter un champ d’Activité personnalisé {#add-a-custom-activity-field}
+## Ajouter un champ d&#39;Activité personnalisé {#add-a-custom-activity-field}
 
 1. Dans Activités personnalisées du marketing, cliquez sur **Champs**.
 
@@ -43,7 +43,7 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
    C&#39;est tout ! Votre nouveau champ a été ajouté.
 
-## Modification d’un champ d’Activité personnalisé {#edit-a-custom-activity-field}
+## Modifier un champ d&#39;Activité personnalisé {#edit-a-custom-activity-field}
 
 1. Dans Activités personnalisées du marketing, cliquez sur **Champs**.
 
@@ -53,7 +53,7 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
    ![](assets/seven.png)
 
-1. Sélectionnez le champ à modifier, cliquez sur la liste déroulante Actions **de** champ et sélectionnez **Modifier le champ**.
+1. Sélectionnez le champ à modifier, cliquez sur la liste déroulante **Actions de champ** et sélectionnez **Modifier le champ**.
 
    ![](assets/eight.png)
 
@@ -61,7 +61,7 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
    ![](assets/nine.png)
 
-1. Saisissez le nouveau nom et le nouveau nom de l’API, puis cliquez sur **Enregistrer**.
+1. Saisissez le nouveau nom et le nouveau nom d’API, puis cliquez sur **Enregistrer**.
 
    ![](assets/ten.png)
 
@@ -79,7 +79,7 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
 Votre champ est maintenant modifié !
 
-## Suppression d’un champ d’Activité personnalisé {#delete-a-custom-activity-field}
+## Supprimer un champ d&#39;Activité personnalisé {#delete-a-custom-activity-field}
 
 1. Dans Activités personnalisées du marketing, cliquez sur **Champs**.
 
@@ -89,7 +89,7 @@ Votre champ est maintenant modifié !
 
    ![](assets/twelve.png)
 
-1. Sélectionnez le champ à supprimer, cliquez sur la liste déroulante Actions **de** champ, puis sélectionnez **Supprimer le champ**.
+1. Sélectionnez le champ à supprimer, cliquez sur la liste déroulante **Actions de champ** et sélectionnez **Supprimer le champ**.
 
    ![](assets/thirteen.png)
 
