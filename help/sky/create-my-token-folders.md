@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Voici comment trier vos jetons en dossiers.
 
-1. Dans l’onglet [!UICONTROL Mes jetons] de votre dossier de campagne ou de votre programme, cliquez sur l’icône [!UICONTROL Créer un dossier] en haut à droite.
+1. Dans l&#39;onglet [!UICONTROL Mes jetons] de votre dossier ou programme de campagne, cliquez sur l&#39;icône [!UICONTROL Créer un dossier] en haut à droite.
 
    ![Image un](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Entrez un nom pour votre nouveau dossier, puis sélectionnez Jetons **** locaux ou Jetons **** remplacés dans la liste déroulante de destination. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Entrez un nom pour votre nouveau dossier, puis sélectionnez **[!UICONTROL Jetons locaux]** ou **[!UICONTROL Jetons remplacés]** dans la liste déroulante de destination. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![Image 2](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
