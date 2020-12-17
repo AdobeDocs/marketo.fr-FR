@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Optimisation des moteurs de recherche - Ajouter/supprimer des colonnes de votre Vue de mots-clés {#seo-add-remove-columns-from-your-keywords-view}
+# SEO - Ajouter/Supprimer des colonnes de votre Vue de mots-clés {#seo-add-remove-columns-from-your-keywords-view}
 
 Vous pouvez ajuster votre vue de mots-clés pour afficher les données qui vous intéressent le plus.
 
-1. Accédez à la section **Mots-clés** .
+1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -27,7 +27,7 @@ Vous pouvez ajuster votre vue de mots-clés pour afficher les données qui vous 
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Sélectionnez ou désélectionnez les colonnes à afficher. Cliquez sur **ENREGISTRER**.
+1. Sélectionnez ou désélectionnez les colonnes à afficher. Cliquez sur **SAVE**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
