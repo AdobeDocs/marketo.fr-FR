@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# Ajouter les champs de lien d’objet personnalisé Marketo {#add-marketo-custom-object-link-fields}
+# Champs de lien d&#39;objet personnalisé du marketing d&#39;Ajoute {#add-marketo-custom-object-link-fields}
 
 Lorsque vous créez des objets personnalisés, vous devez fournir des champs de lien pour connecter l’enregistrement d’objet personnalisé à l’enregistrement parent correct.
 
 * Pour une structure personnalisée de type &quot;un à plusieurs&quot;, utilisez le champ de lien de l’objet personnalisé pour la connecter à une personne ou une société.
 * Pour une structure de type &quot;plusieurs à plusieurs&quot;, vous utilisez deux champs de lien, connectés à partir d’un objet intermédiaire créé séparément (qui est également un type d’objet personnalisé). Un lien se connecte aux personnes ou aux sociétés de votre base de données et l’autre à l’objet personnalisé. Dans ce cas, le champ de lien n’est pas situé dans l’objet personnalisé lui-même.
 
-## Création d’un champ de lien pour une structure de type &quot;un à plusieurs&quot; {#create-a-link-field-for-a-one-to-many-structure}
+## Créer un champ de lien pour une structure de type &quot;un à plusieurs&quot; {#create-a-link-field-for-a-one-to-many-structure}
 
 Voici comment créer un champ de lien dans un objet personnalisé pour une structure de type &quot;un à plusieurs&quot;.
 
-1. Cliquez sur **Admin**, puis dans Gestion **de la** base de données, sélectionnez Objets **** personnalisés de marketing à.
+1. Cliquez sur **Admin**, puis dans **Gestion de la base de données**, sélectionnez **Objets personnalisés marketing**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -30,7 +30,7 @@ Voici comment créer un champ de lien dans un objet personnalisé pour une struc
 
    ![](assets/image2016-1-14-15-3a6-3a2.png)
 
-1. Dans l’onglet **Champs** , cliquez sur **Nouveau champ**.
+1. Dans l&#39;onglet **Champs**, cliquez sur **Nouveau champ**.
 
    ![](assets/image2015-9-17-14-3a9-3a19.png)
 
@@ -65,7 +65,7 @@ Voici comment créer un champ de lien dans un objet personnalisé pour une struc
 
    ![](assets/image2015-10-5-13-3a34-3a0.png)
 
-## Création d’un champ de lien pour une structure de type &quot;plusieurs à plusieurs&quot; {#create-a-link-field-for-a-many-to-many-structure}
+## Créer un champ de lien pour une structure de type &quot;plusieurs à plusieurs&quot; {#create-a-link-field-for-a-many-to-many-structure}
 
 Voici comment créer un champ de lien dans un objet intermédiaire pour une utilisation dans une structure de type &quot;plusieurs à plusieurs&quot;.
 
@@ -73,7 +73,7 @@ Voici comment créer un champ de lien dans un objet intermédiaire pour une util
 >
 >Vous devez avoir déjà créé l’objet intermédiaire et les objets personnalisés vers lesquels vous souhaitez le lier.
 
-1. Cliquez sur **Admin**, puis dans Gestion **de la** base de données, sélectionnez Objets **** personnalisés de marketing à.
+1. Cliquez sur **Admin**, puis dans **Gestion de la base de données**, sélectionnez **Objets personnalisés marketing**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -115,7 +115,7 @@ Voici comment créer un champ de lien dans un objet intermédiaire pour une util
 
 1. Créez d’autres champs à utiliser dans votre objet intermédiaire, tels que enrollmentID ou grade.
 
-## Utilisation d’objets personnalisés {#using-custom-objects}
+## Utilisation d&#39;objets personnalisés {#using-custom-objects}
 
 L’étape suivante consiste à utiliser ces objets personnalisés dans les filtres de vos campagnes actives. Avec une relation de type &quot;plusieurs à plusieurs&quot;, vous pouvez sélectionner plusieurs personnes/sociétés et plusieurs objets personnalisés. Dans l’exemple ci-dessous, toute personne de votre base de données qui correspond à ces critères est répertoriée. Le champ coursename provient de l’objet personnalisé course et le grade d’inscription provient de l’objet intermédiaire.
 
