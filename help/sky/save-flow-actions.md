@@ -18,11 +18,11 @@ Les étapes de flux indiquent à Marketing Cloud ce que vous souhaitez faire pou
 
 ## Enregistrement des actions de flux
 
-1. Dans Activités marketing, sélectionnez votre campagne intelligente (ou créez-en une).
+1. Dans [!UICONTROL Activités marketing], sélectionnez votre campagne intelligente (ou créez-en une).
 
    ![Image un](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. Après avoir défini votre liste dynamique, cliquez sur **[!UICONTROL Flux]**.
+1. Après avoir défini votre liste intelligente, cliquez sur **[!UICONTROL Flux]**.
 
    ![Image 2](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
@@ -32,11 +32,11 @@ Les étapes de flux indiquent à Marketing Cloud ce que vous souhaitez faire pou
 
    ![Image 4](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. Lorsque vous avez terminé d’ajouter des filtres/déclencheurs, cliquez sur la liste déroulante Actions **** Smart Campaign et sélectionnez **[!UICONTROL Enregistrer un nouveau flux]**.
+1. Lorsque vous avez terminé d’ajouter des filtres/déclencheurs, cliquez sur la liste déroulante **[!UICONTROL Actions de Campaign intelligente]** et sélectionnez **[!UICONTROL Enregistrer le nouveau flux]**.
 
    ![Image 5](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. Nommez votre flux, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Nommez votre flux et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![Image six](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
@@ -44,7 +44,7 @@ Et vous avez fini. La prochaine fois que vous créerez une campagne dynamique, v
 
 ## Utilisation des actions de flux enregistrées
 
-1. Dans Activités marketing, sélectionnez votre campagne intelligente (ou créez-en une).
+1. Dans [!UICONTROL Activités marketing], sélectionnez votre campagne intelligente (ou créez-en une).
 
    ![Image sept](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
@@ -52,7 +52,7 @@ Et vous avez fini. La prochaine fois que vous créerez une campagne dynamique, v
 
    ![Image huit](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. Cliquez sur la liste déroulante Flux **** enregistrés.
+1. Cliquez sur la liste déroulante **[!UICONTROL Flux enregistrés]**.
 
    ![Image neuf](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
