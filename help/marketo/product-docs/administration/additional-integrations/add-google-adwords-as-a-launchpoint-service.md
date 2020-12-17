@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Ajouter Google AdWords comme service LaunchPoint {#add-google-adwords-as-a-launchpoint-service}
+# Ajouter Google AdWords en tant que service LaunchPoint {#add-google-adwords-as-a-launchpoint-service}
 
-Liez votre compte Google AdWords à Marketo pour télécharger automatiquement les données de conversion hors ligne de Marketo vers Google AdWords. Ensuite, à partir de l’interface utilisateur d’AdWords, vous pourrez identifier facilement les clics qui ont généré des pistes qualifiées, des opportunités et de nouveaux clients (ou les étapes de recettes dont vous souhaitez effectuer le suivi) après avoir [ajouté des colonnes](https://support.google.com/adwords/answer/3073556) personnalisées dans AdWords. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketing Cloud.
+Liez votre compte Google AdWords à Marketo pour télécharger automatiquement les données de conversion hors ligne de Marketo vers Google AdWords. Ensuite, à partir de l’interface utilisateur d’AdWords, vous pourrez identifier facilement les clics qui ont généré des pistes qualifiées, des opportunités et de nouveaux clients (ou les étapes de recettes dont vous souhaitez effectuer le suivi) après avoir [ajouté des colonnes personnalisées](https://support.google.com/adwords/answer/3073556) dans AdWords. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketing Cloud.
 
-En savoir plus sur la fonction [d&#39;importation de conversion hors ligne de](https://support.google.com/adwords/answer/2998031?hl=en)Google.
+En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Google](https://support.google.com/adwords/answer/2998031?hl=en).
 
 >[!NOTE]
 >
@@ -23,9 +23,9 @@ En savoir plus sur la fonction [d&#39;importation de conversion hors ligne de](h
 
 >[!NOTE]
 >
->Vous pouvez également intégrer un service [Google AdWords comme point de lancement à un compte](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)de gestionnaire.
+>Vous pouvez également intégrer un [service Google AdWords comme point de lancement à un compte de gestionnaire](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
 
-1. Accédez à la section **Admin** .
+1. Accédez à la section **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -33,7 +33,7 @@ En savoir plus sur la fonction [d&#39;importation de conversion hors ligne de](h
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Sélectionnez **Nouveau** et **Nouveau service**.
+1. Sélectionnez **New** et **New Service**.
 
    ![](assets/image2015-2-23-14-3a54-3a50.png)
 
@@ -57,15 +57,15 @@ En savoir plus sur la fonction [d&#39;importation de conversion hors ligne de](h
 
    ![](assets/image2015-2-23-16-3a32-3a45.png)
 
-1. L&#39;état s&#39;affiche comme **Réussite**. Sélectionnez **Suivant**.
+1. L’état s’affiche sous la forme **Succès**. Sélectionnez **Suivant**.
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Téléchargez vos conversions hors ligne de Marketo vers Google AdWords **Hebdomadairement **ou **Quotidiennement**.
+1. Téléchargez vos conversions hors ligne de Marketo vers Google AdWords **Hebdomadairement **ou **Quotidien**.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
-1. Conversion d’attributs en **premier clic** ou en **dernier clic**.
+1. Conversion d’attribut en **Premier clic** ou **Dernier clic**.
 
    | Type | Définition |
    |---|---|
@@ -84,7 +84,7 @@ En savoir plus sur la fonction [d&#39;importation de conversion hors ligne de](h
 
    >[!NOTE]
    >
-   >[Le balisage](https://support.google.com/adwords/answer/1752125?hl=en) automatique doit être sélectionné pour que cette fonction fonctionne. La désactivation doit être effectuée dans AdWords.
+   >[Le ](https://support.google.com/adwords/answer/1752125?hl=en) balisage automatique doit être sélectionné pour que cette fonction fonctionne. La désactivation doit être effectuée dans AdWords.
 
    >[!NOTE]
    >
