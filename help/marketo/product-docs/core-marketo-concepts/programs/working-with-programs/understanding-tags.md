@@ -23,7 +23,7 @@ Les types de balises identifient le type d’informations à trier.
 
 >[!TIP]
 >
->Si vous souhaitez créer des balises personnalisées, contactez votre administrateur [](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) marketing.
+>Si vous souhaitez créer des balises personnalisées, contactez votre [administrateur du marketing](http://docs.marketo.com/display/DOCS/Create+Custom+Tags).
 
 >[!NOTE]
 >
