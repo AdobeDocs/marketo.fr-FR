@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Réorganisation des étapes de flux dans une Campaign dynamique {#reorder-the-flow-steps-in-a-smart-campaign}
+# Réorganiser les étapes de flux dans une Campaign dynamique {#reorder-the-flow-steps-in-a-smart-campaign}
 
 Les étapes de flux s’exécutent de haut en bas. Voici comment réorganiser les étapes de flux en fonction de vos besoins.
 
