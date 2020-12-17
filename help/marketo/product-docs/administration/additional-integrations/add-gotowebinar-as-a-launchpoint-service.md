@@ -33,7 +33,7 @@ Marketo gère votre inscription et votre participation au GoToWebinar.
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. Sélectionnez **Nouveau** et **Nouveau service**.
+1. Sélectionnez **New** et **New Service**.
 
    ![](assets/new-service-gotowebinar.png)
 
@@ -41,15 +41,15 @@ Marketo gère votre inscription et votre participation au GoToWebinar.
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. Cliquez ensuite sur **Connexion au** webinaire **** Atteindre.
+1. Cliquez ensuite sur **Connexion** **GoToWebinar**.
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
    >[!NOTE]
    >
-   >Si vous souhaitez synchroniser le nom de la Société et le titre de la tâche depuis votre formulaire Marketo vers GoToWebinar, cochez la case **Activer les champs** supplémentaires.
+   >Si vous souhaitez synchroniser le nom de la Société et le titre de la tâche depuis votre formulaire Marketo vers GoToWebinar, cochez la case **Activer les champs supplémentaires**.
 
-1. Dans la fenêtre contextuelle Se connecter au webinaire, entrez votre adresse électronique et votre mot de passe **GoToWebinar** , puis cliquez sur **Se connecter**.
+1. Dans la fenêtre contextuelle Se connecter à GoToWebinar, saisissez votre **adresse électronique et mot de passe GoToWebinar**, puis cliquez sur **Se connecter**.
 
    ![](assets/image2015-4-22-15-3a52-3a31.png)
 
