@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Champion/Challenger : Définir des critères de champion {#champion-challenger-define-champion-criteria}
+# Champion/Challenger : Définir les critères de champion {#champion-challenger-define-champion-criteria}
 
 Une fois que vous avez configuré votre type de test, vous devez définir les critères de champion. Voici comment.
 
@@ -25,7 +25,7 @@ Une fois que vous avez configuré votre type de test, vous devez définir les cr
 
 ## Critères standard de champion {#standard-champion-criteria}
 
-1. Choisissez l&#39;un des critères **** Champion disponibles.
+1. Choisissez l&#39;un des **critères de champion** disponibles.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,11 +33,11 @@ Une fois que vous avez configuré votre type de test, vous devez définir les cr
    >
    >Nous suivrons cette mesure et vous enverrons un rapport avec les données par courriel.
 
-1. Si vous avez sélectionné l&#39;un des critères **de** champion par défaut, passez à [Champion/Challenger : Configurer les alertes](champion-challenger-configure-report-alerts.md)de rapport !
+1. Si vous avez sélectionné l&#39;un des **critères de champion** par défaut, passez à [Champion/Challenger : Configurer les alertes de rapport ](champion-challenger-configure-report-alerts.md) !
 
 ## Critères de champion personnalisés {#custom-champion-criteria}
 
-1. Si vous souhaitez obtenir des informations plus sophistiquées, sélectionnez Conversion **** personnalisée et cliquez sur **Modifier**.
+1. Si vous souhaitez obtenir des informations détaillées, vous pouvez personnaliser **Conversion personnalisée** et cliquer sur **Modifier**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
