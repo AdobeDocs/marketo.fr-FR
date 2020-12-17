@@ -25,7 +25,7 @@ Marketo fournit plusieurs rôles intégrés, avec différents niveaux d’accès
 
 * **Admin **- toutes les parties de l’application, y compris la section Admin
 * **Utilisateur standard **- toutes les parties de l’application, à l’exception de la section Admin
-* **Utilisateur** marketing - toutes les parties de l’application, à l’exception de la section Admin
+* **Utilisateur**  marketing - toutes les parties de l’application, à l’exception de la section Admin
 * **Concepteur Web **- uniquement le Design Studio
 * **Utilisateur Analytics **- uniquement la section Analytics
 
@@ -33,7 +33,7 @@ Vous ne pouvez pas modifier les rôles d’administrateur et d’utilisateur sta
 
 ## Affecter des rôles à un utilisateur {#assign-roles-to-a-user}
 
-Vous pouvez attribuer des rôles à un utilisateur lorsque vous [créez des utilisateurs pour la première fois](http://docs.marketo.com/display/DOCS/Create%2C+Delete%2C+Edit+and+Change+a+User+Role) ou en [modifiant un utilisateur](managing-marketo-users.md)existant.
+Vous pouvez attribuer des rôles à un utilisateur lorsque vous [créez des utilisateurs pour la première fois](http://docs.marketo.com/display/DOCS/Create%2C+Delete%2C+Edit+and+Change+a+User+Role) ou en [modifiant un utilisateur existant](managing-marketo-users.md).
 
 1. Pour modifier un utilisateur existant, accédez à **Admin** et cliquez sur **Utilisateurs et rôles**.
 
@@ -49,7 +49,7 @@ Vous pouvez attribuer des rôles à un utilisateur lorsque vous [créez des util
 
    >[!NOTE]
    >
-   >Pour en savoir plus sur chaque rôle, voir [Descriptions des autorisations](managing-user-roles-and-permissions/descriptions-of-role-permissions.md)de rôle.
+   >Pour en savoir plus sur chaque rôle, voir [Descriptions des autorisations de rôle](managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
 
 ## Créer un nouveau rôle {#create-a-new-role}
 
@@ -87,7 +87,7 @@ Si vous devez modifier les autorisations associées à un rôle existant, vous p
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. Modifiez le nom **du** rôle et **Description **si nécessaire, puis changez la sélection des **autorisations** associées.
+1. Modifiez **Nom du rôle** et **Description **si nécessaire, puis changez la sélection des **Autorisations** associées.
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
@@ -95,7 +95,7 @@ Si vous devez modifier les autorisations associées à un rôle existant, vous p
    >
    >Les utilisateurs dotés du rôle que vous avez modifié recevront les autorisations modifiées après s’être déconnectés puis reconnectés.
 
-## Suppression d’un rôle {#delete-a-role}
+## Supprimer un rôle {#delete-a-role}
 
 Si un rôle devient inutile, vous pouvez le supprimer.
 
@@ -123,4 +123,4 @@ Si un rôle devient inutile, vous pouvez le supprimer.
 >
 >**Plongée profonde**
 >
->Découvrez d&#39;autres tâches administratives dans la plongée en profondeur [Admin](http://docs.marketo.com/display/docs/administration) .
+>Découvrez d&#39;autres tâches administratives dans la plongée profonde [Admin](http://docs.marketo.com/display/docs/administration).
