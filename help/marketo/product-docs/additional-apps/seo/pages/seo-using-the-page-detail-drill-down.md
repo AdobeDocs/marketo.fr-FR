@@ -29,7 +29,7 @@ Vous pouvez consulter de nombreuses informations sur vos pages à l’aide de l�
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## Section Détails de la page {#page-detail-section}
+## Section des détails de la page {#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
@@ -44,9 +44,9 @@ Vous pouvez consulter de nombreuses informations sur vos pages à l’aide de l�
 | Mentions J’aime sur Facebook | Nombre de fois où ce partage de page a été aimé sur Facebook. |
 | Clics Facebook | Nombre de clics à partir du partage Facebook. |
 
-## Mot(s)-clé(s) pour lequel la page est optimisée  {#keyword-s-that-page-is-optimized-for}
+## Mot-clé pour lequel la page est optimisée {#keyword-s-that-page-is-optimized-for}
 
-C&#39;est là que vous [sélectionnez le mot-clé pour lequel vous essayez d&#39;optimiser votre page](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+C&#39;est à cet emplacement que vous [sélectionnez le mot-clé pour lequel vous essayez d&#39;optimiser votre page](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
