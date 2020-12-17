@@ -31,7 +31,7 @@ Si vous avez besoin d’un nouveau champ personnalisé dans Marketing pour stock
 
    >[!TIP]
    >
-   >Consultez le glossaire des types de champs [personnalisés](custom-field-type-glossary.md).
+   >Consultez le [Glossaire des types de champs personnalisés](custom-field-type-glossary.md).
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
