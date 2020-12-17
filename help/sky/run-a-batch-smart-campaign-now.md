@@ -20,12 +20,12 @@ Une fois la création de votre campagne par lot terminée, vous pouvez choisir d
 
    ![Image un](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-1.png)
 
-1. Accédez à l’onglet **[!UICONTROL Planification]** et cliquez sur **[!UICONTROL Ajouter l’exécution]**.
+1. Accédez à l&#39;onglet **[!UICONTROL Planification]** et cliquez sur **[!UICONTROL Ajouter Exécuter]**.
 
    ![Image 2](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-2.png)
 
-1. Assurez-vous que l’option **[!UICONTROL Exécuter maintenant]** est sélectionnée et cliquez sur **[!UICONTROL Confirmer]**.
+1. Assurez-vous que **[!UICONTROL Exécuter maintenant]** est sélectionné et cliquez sur **[!UICONTROL Confirmer]**.
 
    ![Image trois](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-3.png)
 
-Et c&#39;est tout. Vous pouvez également [planifier des exécutions pour plus tard](https://docs.marketo.com/display/DOCS/Schedule+a+Batch+Smart+Campaign+to+Run+Later) si vous le souhaitez.
+Et c&#39;est tout. Vous pouvez également [planifier des exécutions pour plus tard](https://docs.marketo.com/display/DOCS/Schedule+a+Batch+Smart+Campaign+to+Run+Later) si vous préférez.
