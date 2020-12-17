@@ -5,13 +5,13 @@ title: Création d’une Liste autorisée pour l’accès aux API basées sur l�
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 
-# Création d’une Liste autorisée pour l’accès aux API basées sur l’adresse IP {#create-an-allowlist-for-ip-based-api-access}
+# Création d’une Liste autorisée pour l’accès API basé sur l’adresse IP {#create-an-allowlist-for-ip-based-api-access}
 
 Il arrive que vous souhaitiez autoriser l’accès à l’API uniquement à une adresse IP ou à une plage d’adresses spécifiques. Pour ce faire, vous devez d’abord activer les restrictions, puis spécifier les adresses IP autorisées à utiliser les API.
 
@@ -19,7 +19,7 @@ Il arrive que vous souhaitiez autoriser l’accès à l’API uniquement à une 
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à **Admin** et cliquez sur Services **** Web.
+1. Accédez à **Admin** et cliquez sur **Services Web**.
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
@@ -27,7 +27,7 @@ Il arrive que vous souhaitiez autoriser l’accès à l’API uniquement à une 
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
-1. Cochez la case **Activer les restrictions** IP et entrez les adresses IP à placer sur la liste autorisée.
+1. Cochez la case **Activer les restrictions d&#39;IP** et entrez les adresses IP à placer sur la liste autorisée.
 
    ![](assets/image2016-2-25-9-3a18-3a28.png)
 
@@ -35,7 +35,7 @@ Il arrive que vous souhaitiez autoriser l’accès à l’API uniquement à une 
    >
    >Vous pouvez entrer une adresse IP unique ou une plage d’adresses IP ou utiliser un caractère générique.
 
-1. Cliquez sur **Ajouter** pour ouvrir d’autres champs afin d’entrer d’autres adresses IP.
+1. Cliquez sur **Ajouter** pour ouvrir d&#39;autres champs et entrer d&#39;autres adresses IP.
 
    ![](assets/image2016-2-25-9-3a20-3a47.png)
 
