@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ajouter le code de suivi Munchkin sur votre site Web {#add-munchkin-tracking-code-to-your-website}
+# Ajouter le code de suivi Munchkin à votre site Web {#add-munchkin-tracking-code-to-your-website}
 
 Le code de suivi JavaScript personnalisé de Marketo, appelé Munchkin, suit toutes les personnes qui visitent votre site Web afin que vous puissiez réagir à leurs visites à l’aide de campagnes marketing automatisées. Même les visiteurs anonymes sont suivis avec leurs adresses IP et d&#39;autres informations. ** Sans ce code de suivi, vous ne pourrez pas suivre les visites ou autres activités sur votre site Web !**
 
@@ -23,7 +23,7 @@ Le code de suivi JavaScript personnalisé de Marketo, appelé Munchkin, suit tou
 
 >[!NOTE]
 >
->Les clients Adobe Experience Cloud peuvent également utiliser l’intégration de Marketo dans le lancement d’Adobe pour inclure le script Munchkin dans leurs pages Web. Obtenez l&#39;application [ici](https://www.adobeexchange.com/experiencecloud.details.101054.html).
+>Les clients Adobe Experience Cloud peuvent également utiliser l’intégration de Marketo dans le lancement d’Adobe pour inclure le script Munchkin dans leurs pages Web. Obtenez l’application [ici](https://www.adobeexchange.com/experiencecloud.details.101054.html).
 
 1. Accédez à **Admin** et cliquez sur **Munchkin** dans l’arborescence de gauche.
 
@@ -49,14 +49,14 @@ Le code de suivi JavaScript personnalisé de Marketo, appelé Munchkin, suit tou
    >
    >Placez le code de suivi sur les pages Web dont vous souhaitez effectuer le suivi. Il peut s&#39;agir de chaque page de petits sites, ou uniquement des pages clés des sites qui comportent de nombreuses pages Web générées de manière dynamique, des forums d&#39;utilisateurs, etc.
 
-   Pour un résultat optimal, utilisez le code Munchkin asynchrone et placez-le dans les `<head>` éléments de vos pages. Si vous utilisez le code simple (non recommandé), il se trouve juste avant la `</body>` balise .
+   Pour un résultat optimal, utilisez le code Munchkin asynchrone et placez-le dans les éléments `<head>` de vos pages. Si vous utilisez le code simple (non recommandé), il se trouve juste avant la balise `</body>`.
    ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!TIP]
 >
 >Pour les sites qui enregistrent un trafic élevé (des centaines de milliers de visites par mois, par exemple), nous vous recommandons de ne pas suivre les personnes anonymes. [En savoir plus.](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)
 
-## Ajouter le code de suivi lors de l’utilisation de plusieurs espaces de travail {#add-tracking-code-when-using-multiple-workspaces}
+## Code de suivi des Ajoutes lors de l’utilisation de plusieurs espaces de travail {#add-tracking-code-when-using-multiple-workspaces}
 
 Si vous utilisez des espaces de travail dans votre compte Marketo, vous disposez probablement également de présences Web distinctes qui correspondent à vos espaces de travail. Dans ce cas, vous pouvez utiliser le code JavaScript de suivi Munchkin pour affecter vos personnes anonymes à l&#39;espace de travail et à la partition appropriés.
 
@@ -84,7 +84,7 @@ Si vous utilisez des espaces de travail dans votre compte Marketo, vous disposez
 >
 >N’utilisez pas le code affiché dans cette capture d’écran. Vous devez utiliser le code unique qui s’affiche dans votre compte !
 
-1. Placez le code de suivi sur vos pages Web dans l’ `<head>` élément. Les nouvelles personnes qui visitent cette page seront affectées à cette partition.
+1. Placez le code de suivi sur vos pages Web dans l’élément `<head>`. Les nouvelles personnes qui visitent cette page seront affectées à cette partition.
 
 ![](assets/image2015-8-25-16-3a5-3a20.png)
 
@@ -100,8 +100,8 @@ Si vous utilisez des espaces de travail dans votre compte Marketo, vous disposez
 
 Vous pouvez choisir parmi 3 types de codes de suivi Munchkin. Chacune a un impact différent sur le temps de chargement de la page Web.
 
-1. **Simple**: comporte le moins de lignes de code, mais n’optimise pas le temps de chargement des pages Web. Ce code charge la bibliothèque jQuery chaque fois qu’une page Web est chargée.
-1. **Asynchrone**: réduit le temps de chargement des pages Web.
+1. **Simple** : comporte le moins de lignes de code, mais n’optimise pas le temps de chargement des pages Web. Ce code charge la bibliothèque jQuery chaque fois qu’une page Web est chargée.
+1. **Asynchrone** : réduit le temps de chargement des pages Web.
 1. **jQuery** asynchrone : réduit le temps de chargement des pages Web et améliore également les performances du système. Ce code suppose que vous disposez déjà de jQuery et ne vérifie pas son chargement.
 
 ## Testez si votre code Munchkin fonctionne {#test-if-your-munchkin-code-is-working}
@@ -113,15 +113,15 @@ Pour vérifier que votre code Munchkin fonctionne après l&#39;avoir ajouté :
 
    ![](assets/mainnav-analytics-hand.png)
 
-1. Cliquez sur Activité **de page** Web.
+1. Cliquez sur **Activité de page Web**.
 
    ![](assets/webanalytics.png)
 
-1. Cliquez sur l’onglet **Configuration** , cliquez en doublon sur la source **** d’Activité, puis modifiez-la en Visiteurs **anonymes (y compris les FAI)**.
+1. Cliquez sur l’onglet **Configuration**, cliquez sur **Source de l’Activité** en doublon et modifiez-le en **Visiteurs anonymes (y compris les FAI)**.
 
    ![](assets/analytics-activity-source.png)
 
    ![](assets/activitysource.png)
 
-1. Cliquez sur l’onglet **Rapport** . Si vous ne voyez aucune donnée, patientez quelques minutes, puis cliquez sur l’icône Actualiser en bas.
+1. Cliquez sur l&#39;onglet **Rapport**. Si vous ne voyez aucune donnée, patientez quelques minutes, puis cliquez sur l’icône Actualiser en bas.
 
