@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Voici comment configurer un jeton numérique pour une utilisation dans vos programmes et dossiers de campagne.
 
-1. Dans l’onglet [!UICONTROL Mes jetons] de votre programme ou dossier, faites glisser un jeton **Numéro** sur le canevas Jetons  locaux.
+1. Dans l&#39;onglet [!UICONTROL Mes jetons] de votre programme ou dossier, faites glisser un jeton **Numéro** vers le canevas [!UICONTROL Jetons locaux].
 
    ![Image un](/help/sky/assets/my-tokens/my-token-number/my-token-number-1.png)
 
