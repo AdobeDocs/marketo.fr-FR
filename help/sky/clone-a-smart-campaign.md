@@ -20,7 +20,7 @@ Le clonage des campagnes vous fait gagner du temps. Il n’est pas nécessaire d
 
    ![Image un](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-1.png)
 
-1. Dans la liste déroulante Actions Smart Campaign, sélectionnez **[!UICONTROL Cloner]**.
+1. Dans la liste déroulante Actions Smart Campaign, sélectionnez **[!UICONTROL Clone]**.
 
    ![Image 2](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-2.png)
 
