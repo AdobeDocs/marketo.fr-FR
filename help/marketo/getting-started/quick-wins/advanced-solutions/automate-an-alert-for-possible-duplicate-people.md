@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Automatisation d&#39;une alerte pour les Duplicata possibles {#automate-an-alert-for-possible-duplicate-people}
+# Automatisation d&#39;une alerte pour les personnes Duplicata {#automate-an-alert-for-possible-duplicate-people}
 
 Vous souhaitez qu&#39;une alerte soit créée chaque fois que possible, une personne duplicata ? Voici comment configurer une Campaign Intelligente pour le faire.
 
-1. [Créez une campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)intelligente. Définissez la liste intelligente suivante :
+1. [Créez une campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) intelligente. Définissez la liste intelligente suivante :
 
 * Déclencheur : **Personne créée**
-* Filtre : **Champs du duplicata.** Nom du champ **Nom complet**
+* Filtre : **Champs de Duplicata.** Nom du champ  **Nom complet**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -26,13 +26,13 @@ Vous souhaitez qu&#39;une alerte soit créée chaque fois que possible, une pers
    >
    >Soyez créatifs ! Testez différents champs pour obtenir de meilleurs résultats de filtrage.
 
-1. Dans l’étape de flux, choisissez [Envoyer l’alerte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) comme action de flux.
+1. Dans l’étape de flux, choisissez [Envoyer l’alerte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) action de flux.
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >Utilisation du jeton [](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Envoyer les informations d’alertepour inclure un lien vers la personne dans votre gestion de la relation client.
+   >Utilisation du [jeton d’informations d’alerte](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) pour inclure un lien vers la personne dans votre gestion de la relation client.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Vous souhaitez qu&#39;une alerte soit créée chaque fois que possible, une pers
    >
    >De plus, deux personnes portant le même nom ne signifie pas automatiquement qu&#39;elles sont la même personne.
 
-1. Activez la campagne dans l’onglet **Planification** .
+1. Activez la campagne dans l&#39;onglet **Planification**.
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
