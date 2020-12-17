@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Création d’un Programme {#create-a-program}
+# Créer un Programme {#create-a-program}
 
 Les programmes sont l&#39;un des éléments les plus importants du marché. Vous les utiliserez beaucoup !
 
-1. Accédez à Activités **marketing.**
+1. Accédez à **Activités marketing.**
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez le dossier du nouveau programme. Sélectionnez **Nouveau** et cliquez sur **Nouveau Programme****.**
+1. Sélectionnez le dossier du nouveau programme. Sélectionnez **New** et cliquez sur **Nouveau Programme****.**
 
    ![](assets/leadlifecycle.jpg)
 
-1. Saisissez un **Nom****,** sélectionnez un ** [Canal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** dans la liste déroulante, puis cliquez sur **Créer.**
+1. Saisissez un **nom****,** sélectionnez un ** [Canal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** dans la liste déroulante, puis cliquez sur **Créer.**
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
@@ -31,5 +31,5 @@ Les programmes sont l&#39;un des éléments les plus importants du marché. Vous
 >
 >**Plongée profonde**
 >
->En savoir plus sur [les programmes](http://docs.marketo.com/display/docs/programs).
+>En savoir plus sur [programmes](http://docs.marketo.com/display/docs/programs).
 
