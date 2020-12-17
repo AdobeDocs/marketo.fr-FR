@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Définissez une date et une heure d’expiration pour annuler la publication de landings page, désactiver les campagnes de déclenchement ou arrêter les campagnes par lots récurrentes. Cette fonction est disponible dans la section **[!UICONTROL Expiration]** sous l’onglet **[!UICONTROL Ressources]** .
+Définissez une date et une heure d’expiration pour annuler la publication de landings page, désactiver les campagnes de déclenchement ou arrêter les campagnes par lots récurrentes. Vous pouvez trouver cette fonctionnalité dans la section **[!UICONTROL Expiration]** sous l&#39;onglet **[!UICONTROL Ressources]**.
 
 ![Image un](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
 ## Définir une date d’expiration
 
-1. Vérifiez les fichiers pour lesquels vous souhaitez définir une date d’expiration, puis cliquez sur **[!UICONTROL Définir l’expiration]**.
+1. Vérifiez les ressources pour lesquelles vous souhaitez définir une date d’expiration, puis cliquez sur **[!UICONTROL Définir l’expiration]**.
 
    ![Image 2](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-2.png)
 
