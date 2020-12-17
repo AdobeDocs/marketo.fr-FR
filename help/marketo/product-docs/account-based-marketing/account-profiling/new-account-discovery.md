@@ -21,17 +21,17 @@ La nouvelle découverte de comptes peut vous aider à trouver de nouveaux compte
 
 >[!TIP]
 >
->Il est recommandé d&#39;appuyer sur le bouton **Mettre à jour les comptes** existants avant d&#39;effectuer une nouvelle recherche de compte pour vous assurer que vous consultez les données les plus récentes. Cette mise à jour peut prendre jusqu’à 24 heures.
+>Il est recommandé d&#39;appuyer sur le bouton **Mettre à jour les comptes existants** avant d&#39;effectuer une nouvelle recherche de compte pour vous assurer que vous examinez les données les plus récentes. Cette mise à jour peut prendre jusqu’à 24 heures.
 
 1. Dans Mon marketing, cliquez sur **ABM**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur l’onglet **Profils** de compte.
+1. Cliquez sur l&#39;onglet **Profil de compte**.
 
    ![](assets/two-2.png)
 
-1. Cliquez sur l&#39;onglet **Nouveaux comptes** .
+1. Cliquez sur l&#39;onglet **Nouveaux comptes**.
 
    ![](assets/three-1.png)
 
@@ -49,7 +49,7 @@ La nouvelle découverte de comptes peut vous aider à trouver de nouveaux compte
 
    >[!NOTE]
    >
-   >Si vous ne voyez que quelques comptes, vous avez la possibilité de cliquer sur des comptes individuels et de cliquer sur **Enregistrer les comptes** sélectionnés lorsque vous avez terminé.
+   >Si vous ne voyez que quelques comptes, vous avez la possibilité de cliquer sur des comptes individuels et de cliquer sur **Enregistrer les comptes sélectionnés** lorsque vous avez terminé.
 
 1. Vous pouvez créer votre propre Liste de compte pour votre liste ou l’ajouter à une autre. Dans cet exemple, nous allons en créer un nouveau.
 
@@ -65,7 +65,7 @@ La nouvelle découverte de comptes peut vous aider à trouver de nouveaux compte
 
    >[!NOTE]
    >
-   >Vous ne pouvez enregistrer jusqu’à 5 000 comptes à la fois. Si votre recherche donne 10 000 résultats, vous devrez enregistrer les 5 000 premiers résultats, puis réinitialiser les filtres et enregistrer les 5 000 suivants. La limite **totale** du compte est d&#39;un million.
+   >Vous ne pouvez enregistrer jusqu’à 5 000 comptes à la fois. Si votre recherche donne 10 000 résultats, vous devrez enregistrer les 5 000 premiers résultats, puis réinitialiser les filtres et enregistrer les 5 000 suivants. La limite du compte **total** est d&#39;un million.
 
 1. Cliquez sur **OK**.
 
