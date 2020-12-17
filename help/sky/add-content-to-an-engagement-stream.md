@@ -20,7 +20,7 @@ Une fois votre programme d’engagement créé, vous devez ajouter du contenu au
 
    ![Image un](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Flux]**.
 
    ![Image 2](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
@@ -42,7 +42,7 @@ Une fois votre programme d’engagement créé, vous devez ajouter du contenu au
 
    ![Image 5](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Flux]**.
 
    ![Image six](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
@@ -62,4 +62,4 @@ Une fois votre programme d’engagement créé, vous devez ajouter du contenu au
 
    ![Image dix](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-10.png)
 
-**Rappel**: Pour que cette campagne intelligente fonctionne correctement, le Programme Membre de l’engagement doit être filtré.
+**Rappel** : Pour que cette campagne intelligente fonctionne correctement, le Programme Membre de l’engagement doit être filtré.
