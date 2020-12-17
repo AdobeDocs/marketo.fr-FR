@@ -27,7 +27,7 @@ Si des personnes existantes sont déjà affectées à un propriétaire, vous pou
    >
    >Salesforce n&#39;autorise pas l&#39;affectation de contacts aux files d&#39;attente de piste. Pour un enregistrement qui est un contact de la DDC :
    >
-   >1. Marketo crée une piste de duplicata **uniquement** lorsque le contact est synchronisé avec Salesforce. En d’autres termes, si vous utilisez l’étape de flux **[Synchroniser la personne avec SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** avec `AssignTo=<a lead queue>`, Marketo créera une piste duplicata dans Salesforce et l’affectera à la file d’attente de piste.
+   >1. Marketo crée une piste de duplicata **uniquement** lorsque le contact est synchronisé avec Salesforce. En d’autres termes, si vous utilisez l’étape de flux **[Synchroniser la personne avec SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** avec `AssignTo=<a lead queue>`, Marketo créera une piste de duplicata dans Salesforce et l’affectera à la file d’attente de piste.
       >
       >
    2. Si vous tentez d&#39;utiliser l&#39;étape de flux **Changer de propriétaire** sur un contact, aucun duplicata ne sera créé dans Salesforce.
