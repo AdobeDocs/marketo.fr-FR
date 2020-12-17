@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configuration du partage des Audiences Adobe Experience Cloud {#set-up-adobe-experience-cloud-audience-sharing}
+# Configurer le partage des Audiences Adobe Experience Cloud {#set-up-adobe-experience-cloud-audience-sharing}
 
 Pour partager des données d&#39;audience avec vos applications d&#39;Adobe, vous devez d&#39;abord saisir vos informations d&#39;identification d&#39;entreprise IMS d&#39;Adobe dans Marketo. Voici comment.
 
@@ -19,11 +19,11 @@ Pour partager des données d&#39;audience avec vos applications d&#39;Adobe, vou
 >
 >Un déploiement prêt pour la HIPAA d’une instance Marketo ne peut pas utiliser cette intégration.
 
-1. Dans Marketing, cliquez sur **Admin**.
+1. Dans Marketo, cliquez sur **Admin**.
 
    ![](assets/one-2.png)
 
-1. Sous Intégration, cliquez sur Partage **des Audiences** Experience Cloud.
+1. Sous Intégration, cliquez sur **Partage des Audiences Experience Cloud**.
 
    ![](assets/two-2.png)
 
@@ -31,7 +31,7 @@ Pour partager des données d&#39;audience avec vos applications d&#39;Adobe, vou
 
    ![](assets/three-2.png)
 
-1. Entrez votre ID d&#39;organisation IMS Adobe (apprenez comment trouver cela [ici](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)) et cliquez sur **OK**.
+1. Entrez votre ID d&#39;organisation IMS Adobe (apprenez comment trouver [ici](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)) et cliquez sur **OK**.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,7 @@ Pour partager des données d&#39;audience avec vos applications d&#39;Adobe, vou
    >
    >Pour des raisons de sécurité, vous devez être un administrateur d’entreprise pour l’organisation d’Adobe à laquelle vous souhaitez mapper. Si vous ne l&#39;êtes pas, l&#39;action échouera.
 
-1. Si vous n’êtes *pas* déjà connecté, une fenêtre contextuelle s’affiche dans un nouvel onglet/une nouvelle fenêtre. Connectez-vous à votre organisation d’Adobes (cette action valide l’accès à l’organisation).
+1. Si *vous n&#39;êtes pas* déjà connecté, une fenêtre contextuelle s&#39;affiche dans un nouvel onglet/une nouvelle fenêtre. Connectez-vous à votre organisation d’Adobes (cette action valide l’accès à l’organisation).
 
-   Et c&#39;est tout ! Vous pouvez maintenant commencer à [partager les données](http://docs.marketo.com/x/ogI6Ag)d’audience.
+   Et c&#39;est tout ! Vous pouvez maintenant commencer à [partager les données d&#39;audience](http://docs.marketo.com/x/ogI6Ag).
 
