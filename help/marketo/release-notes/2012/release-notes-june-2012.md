@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Plongée profonde**
 >
->Pour les autres versions, consultez la section plongée approfondie des Notes [de](http://docs.marketo.com/display/docs/release+notes) mise à jour.
+>Pour les autres versions, consultez les [Notes de mise à jour](http://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
 
 ## Améliorations de la gestion des pistes marketing {#marketo-lead-management-enhancements}
 
@@ -37,7 +37,7 @@ Au fur et à mesure que vous continuez à importer et à mapper des champs, Mark
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
-## Page de résumé pour les Listes dynamiques et les Listes statiques {#summary-page-for-smart-lists-and-static-lists}
+## Page de résumé des Listes dynamiques et des Listes statiques {#summary-page-for-smart-lists-and-static-lists}
 
 Vous êtes-vous déjà demandé où vos listes sont utilisées ? Ou qui a créé la liste, ou l&#39;a modifiée pour la dernière fois ? La nouvelle page de résumé disponible sur les Listes dynamiques et les listes statiques vous fournira ces informations importantes.
 
@@ -55,7 +55,7 @@ Nous avons ajouté un nouvel onglet à nos pages de résumé des ressources, app
 
 Exemple : Utilisé par pour les Listes statiques
 
-## Quadrillage de landing page {#landing-page-gridlines}
+## Quadrillage du landing page {#landing-page-gridlines}
 
 L’ajout de quadrillage de landing page facilite considérablement l’alignement du texte, des graphiques et des formulaires sur votre landing page. Activez-la et désactivez-la pour un landing page donné, et ajustez également la largeur entre les lignes !
 
@@ -63,19 +63,19 @@ L’ajout de quadrillage de landing page facilite considérablement l’aligneme
 
 ![](assets/image2014-9-23-10-3a24-3a33.png)
 
-## Pistes bloquées des envois {#leads-blocked-from-mailings}
+## Pistes bloquées à partir de messages {#leads-blocked-from-mailings}
 
 Lors de la planification d&#39;une campagne, vous pouvez cliquer sur le lien pour voir la liste des pistes bloquées de votre publipostage.
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## Étape d&#39;attente - Jeton de piste et Mon jeton {#wait-step-lead-token-and-my-token}
+## Étape d&#39;attente - Jeton de piste et jeton Mon {#wait-step-lead-token-and-my-token}
 
 Dans notre version de mai, nous avons ajouté des options avancées à l’étape de flux d’attente. Ces modifications vous permettent de spécifier un jour ouvré, une date et une heure. Dans cette version, nous avons ajouté la possibilité d’utiliser un jeton lors de l’étape d’attente. Par exemple, vous pouvez utiliser `{{lead.Birthday}}` pour envoyer un courriel le jour de l’anniversaire ou `{{my.Event Date}}` pour envoyer un dernier rappel de webinaire.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## Vue en tant que miniatures dans Design Studio {#view-as-thumbnails-in-design-studio}
+## Vue de miniatures dans Design Studio {#view-as-thumbnails-in-design-studio}
 
 Basculez votre vue d’une liste d’images vers une vue de miniature !
 
@@ -87,7 +87,7 @@ Rappel : Mise à niveau du rapport de performances du courriel en cours !
 
 ## Améliorations des analyses du cycle des recettes marketing {#marketo-revenue-cycle-analytics-enhancements}
 
-### Nouvelles mesures dans l&#39;Analyse des opportunités de Programme  {#new-metrics-in-program-opportunity-analysis}
+### Nouvelles mesures dans l&#39;Analyse d&#39;opportunités de Programme {#new-metrics-in-program-opportunity-analysis}
 
 Vous pouvez maintenant obtenir des informations sur le nombre moyen de touches marketing avant la création ou la fermeture d’opportunités, ainsi que sur la valeur moyenne d’une touche marketing.
 
@@ -101,13 +101,13 @@ La fonction multigraphique vous permet d’afficher plusieurs graphiques dans un
 
 ![](assets/image2014-9-23-10-3a27-3a41.png)
 
-## Type de graphique à grille de chaleur  {#heat-grid-chart-type}
+## Type de graphique à grille thermique {#heat-grid-chart-type}
 
 Les grilles thermiques vous permettent de visualiser les données afin que vous puissiez identifier les schémas des performances marketing. Ce type de visualisation permet de coder en couleur vos résultats afin que vous puissiez vue à une analyse professionnelle complexe dans une visualisation facile à comprendre.
 
 ![](assets/image2014-9-23-10-3a28-3a21.png)
 
-## Type de graphique de dispersion  {#scatter-chart-type}
+## Type de graphique de dispersion {#scatter-chart-type}
 
 Les graphiques de dispersion vous aident à visualiser les données sur plusieurs dimensions dans un même graphique. Ce type de visualisation trace une bulle sur un graphique en fonction des attributs utilisés. Vous pouvez ensuite utiliser une mesure pour coder par couleur la bulle et/ou utiliser une mesure pour spécifier la taille de la bulle.
 
