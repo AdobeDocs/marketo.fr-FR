@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Le Tableau de bord d&#39;engagement {#the-engagement-dashboard}
+# Tableau de bord d’engagement {#the-engagement-dashboard}
 
-Le Tableau de bord d’engagement est le moyen le plus simple de voir comment se comporte le contenu de vos programmes [d’](http://docs.marketo.com/display/docs/drip+nurturing) engagement.
+Le Tableau de bord d’engagement est le moyen le plus simple de déterminer les performances du contenu de vos [programmes d’engagement](http://docs.marketo.com/display/docs/drip+nurturing).
 
 >[!NOTE]
 >
->Le score d’engagement est calculé 72 heures après chaque diffusion. En savoir plus sur le score [](understanding-the-engagement-score.md)d’engagement.
+>Le score d’engagement est calculé 72 heures après chaque diffusion. En savoir plus sur le [score d&#39;engagement](understanding-the-engagement-score.md).
 
 ## Vue du Tableau de bord d’engagement {#view-the-engagement-dashboard}
 
@@ -27,7 +27,7 @@ Sélectionnez votre programme d’engagement et cliquez sur **Vue > Tableau de b
 
 >[!TIP]
 >
->Consultez le rapport [sur les performances du flux d’](engagement-stream-performance-report.md) engagement pour obtenir des statistiques plus détaillées.
+>Consultez le rapport [performances du flux d’engagement](engagement-stream-performance-report.md) pour obtenir des statistiques plus détaillées.
 
 ## Comprendre le widget d&#39;épuisement {#understand-the-exhaustion-widget}
 
@@ -37,7 +37,7 @@ Ce widget vous permet de prévoir quand les pistes auront épuisé tout le conte
 
 >[!NOTE]
 >
->Vous devez accéder à l’onglet Configuration et vous assurer que les notifications de contenu extrait sont **Activées** pour voir le graphique ci-dessus. S&#39;ils sont désactivés, le graphique aura l&#39;air différent.
+>Vous devez accéder à l&#39;onglet Configuration et vous assurer que les notifications de contenu expirées sont **Activées** pour voir le graphique ci-dessus. S&#39;ils sont désactivés, le graphique aura l&#39;air différent.
 
 >[!CAUTION]
 >
@@ -69,11 +69,11 @@ Pour modifier le tri, cliquez sur l’icône d’engrenage, puis sélectionnez l
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*Les plus récents* et les *plus anciens* sont basés sur l’heure de la dernière approbation.
+** Newestand  ** Oldestare basé sur l&#39;heure de la dernière approbation.
 
 >[!NOTE]
 >
 >**Plongée profonde**
 >
->Pour en savoir plus, consultez la section [Création d’un Programme](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) d’engagement .
+>Pour en savoir plus, consultez la section [Création d’un Programme d’engagement](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) plongée en profondeur.
 
