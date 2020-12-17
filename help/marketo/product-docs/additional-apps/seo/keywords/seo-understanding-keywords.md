@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Comprendre les mots-clés {#seo-understanding-keywords}
+# SEO - Présentation des mots-clés {#seo-understanding-keywords}
 
 Les mots-clés constituent la colonne vertébrale de votre stratégie d’optimisation du référencement. Votre objectif est d&#39;être sur la première page, aussi près que possible du numéro 1 pour les mots-clés pertinents pour votre entreprise.
 
-La section Mots-clés vous montrera à quel point votre site réussit à atteindre cet objectif et comment vous pouvez vous empiler jusqu&#39;à [votre concurrence.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+La section Mots-clés vous montrera à quel point votre site réussit à atteindre cet objectif et comment vous pouvez empiler jusqu&#39;à [votre concurrence.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
 
 ## Mots-clés - Vue de résumé {#keywords-summary-view}
 
@@ -35,7 +35,7 @@ La section Mots-clés vous montrera à quel point votre site réussit à atteind
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Classement et tendance</td> 
-   <td colspan="1" rowspan="1"><p>Ordre de classement de votre site pour ce mot-clé. Les flèches montrent comment votre classement de mots-clés est en tendance par rapport à la semaine précédente </p><p><img alt="--" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = rang supérieur</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = rang inférieur</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= classer de même</p></td> 
+   <td colspan="1" rowspan="1"><p>Ordre de classement de votre site pour ce mot-clé. Les flèches montrent comment votre classement de mots-clés est en tendance par rapport à la semaine précédente </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  = rang supérieur</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> = rang inférieur</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">= classer de même</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Niveau de concurrence</td> 
