@@ -21,7 +21,7 @@ Mes jetons sont des variables personnalisées que vous pouvez créer et utiliser
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-Pour accéder à et créer Mes jetons, sélectionnez votre dossier de programme ou de campagne et accédez à l’onglet [!UICONTROL Mes jetons] . Faites glisser n’importe quel jeton sur votre canevas de jetons  locaux.
+Pour accéder à et créer Mes jetons, sélectionnez votre dossier de programme ou de campagne et accédez à l&#39;onglet [!UICONTROL Mes jetons]. Faites glisser n’importe quel jeton sur votre canevas [!UICONTROL Jetons locaux].
 
 ![Image un](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-1.png)
 
@@ -41,11 +41,11 @@ Pour accéder à et créer Mes jetons, sélectionnez votre dossier de programme 
 
 Lorsque vous créez un jeton, il peut être référencé par d’autres objets de l’arborescence. Vous pouvez remplacer les variables globales à des niveaux inférieurs dans l’arborescence. Il existe une structure d&#39;attribution de noms pour l&#39;emplacement où le jeton a été créé afin d&#39;en faciliter la gestion.
 
-* **Jeton local :** Le jeton a été créé directement dans ce programme ou dossier.
-* **[Jeton remplacé :](/help/sky/override-an-inherited-my-token.md)** Le jeton a été hérité, mais une exception a été faite dans ce programme ou dossier.
-* **Jeton hérité :** Le jeton a été créé dans l’arborescence quelque part dans un programme ou un dossier de niveau supérieur.
+* **Jeton local :** le jeton a été créé directement dans ce programme ou dossier.
+* **[Jeton remplacé :](/help/sky/override-an-inherited-my-token.md)** le jeton a été hérité, mais une exception a été faite dans ce programme ou dossier.
+* **Jeton hérité :** le jeton a été créé dans l’arborescence dans un programme ou un dossier de niveau supérieur.
 
-Vous pouvez trouver ces trois types sous l’onglet **[!UICONTROL Mes jetons]** dans votre dossier de programme ou de campagne.
+Vous pouvez trouver ces trois types sous l&#39;onglet **[!UICONTROL Mes jetons]** dans votre dossier de programme ou de campagne.
 
 ![Image 2](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
