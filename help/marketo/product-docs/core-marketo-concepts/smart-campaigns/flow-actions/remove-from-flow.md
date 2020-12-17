@@ -19,9 +19,9 @@ Imaginez que vous disposiez d’un flux de campagne dynamique qui utilise &quot;
 >
 >Cela affecterait normalement les personnes qui se trouvent dans l’étape d’attente d’un flux de campagne.
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
-Vous pouvez supprimer des personnes du flux d’une campagne à l’aide de l’étape de flux **Supprimer du flux** .
+Vous pouvez supprimer des personnes du flux d’une campagne à l’aide de l’étape de flux **Supprimer du flux**.
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
@@ -33,7 +33,7 @@ Recherchez et sélectionnez la campagne dynamique dont vous souhaitez supprimer 
 
 >[!NOTE]
 >
->Vous pouvez choisir une campagne intelligente spécifique ou &quot;cette campagne&quot; dans la liste déroulante **Campaign** pour sélectionner la campagne dans laquelle vous vous trouvez physiquement à l’époque.
+>Vous pouvez choisir une campagne dynamique spécifique ou &quot;cette campagne&quot; dans la liste déroulante **Campaign** pour sélectionner la campagne dans laquelle vous vous trouvez physiquement à l’époque.
 
 >[!NOTE]
 >
