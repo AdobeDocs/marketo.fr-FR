@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cette fonctionnalité est réservée aux personnes qui intègrent Marketo à Microsoft Dynamics.
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Cette étape de flux va insérer des personnes créées par Marketing dans votre Dynamics CRM.
 
