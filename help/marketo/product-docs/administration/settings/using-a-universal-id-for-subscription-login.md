@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation d’un ID universel pour la connexion à un Abonnement {#using-a-universal-id-for-subscription-login}
+# Utilisation d’un ID universel pour la connexion à l’Abonnement {#using-a-universal-id-for-subscription-login}
 
 Un ID universel vous permet d’accéder à plusieurs abonnements du marketing à l’aide d’une seule connexion et de basculer rapidement d’un abonnement à l’autre. Cependant, si vous le souhaitez, vous pouvez utiliser des identifiants de connexion différents pour vos abonnements.
 
@@ -21,11 +21,11 @@ Les paramètres au niveau de l’Abonnement sont respectés pour les utilisateur
 
 ## Configuration d’un ID universel {#setting-up-a-universal-id}
 
-De chaque instance individuelle, l’administrateur de Marketing Cloud doit vous inviter à accéder à chacun de vos abonnements différents avec la même connexion. Marketo ne peut pas fusionner automatiquement vos identifiants de connexion existants. Une fois que vous avez activé l’ID universel, **votre instance de marketing sera indisponible** pendant 30 minutes au maximum. Si vous disposez d’une plus grande base d’utilisateurs, elle peut être un peu plus longue.
+De chaque instance individuelle, l’administrateur de Marketing Cloud doit vous inviter à accéder à chacun de vos abonnements différents avec la même connexion. Marketo ne peut pas fusionner automatiquement vos identifiants de connexion existants. Une fois que vous avez activé l’ID universel, **votre instance de Marketo sera indisponible** pendant 30 minutes au maximum. Si vous disposez d’une plus grande base d’utilisateurs, elle peut être un peu plus longue.
 
 >[!CAUTION]
 >
->Si l’ID unique ou l’ID universel est activé pour un utilisateur, ses rôles et espaces de travail **ne peuvent pas** être modifiés après leur configuration initiale.
+>Si l’ID unique ou l’ID universel est activé pour un utilisateur, ses rôles et espaces de travail peuvent **ne pas** être modifiés après leur configuration initiale.
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ Avec un ID universel pour plusieurs abonnements, vous seul pouvez modifier le mo
 >
 >Marketo demandera aux utilisateurs qui souhaitent utiliser l’ID universel de réinitialiser leur mot de passe si le mot de passe de l’abonnement actuel n’est pas conforme à la stratégie de mot de passe du deuxième abonnement auquel ils sont invités.
 
-## Basculement entre Abonnements {#switching-between-subscriptions}
+## Basculement entre les Abonnements {#switching-between-subscriptions}
 
 A l’aide d’un ID universel, vous pouvez voir l’abonnement dans lequel vous êtes connecté et sélectionner d’autres abonnements auxquels vous avez accès. Dans la plupart des cas, vous pouvez basculer entre eux sans avoir à vous déconnecter puis à vous reconnecter.
 
@@ -63,7 +63,7 @@ Lorsque vous vous déconnectez puis vous reconnectez, Marketo vous connecte auto
 
 Si vous avez plusieurs abonnements, vous pouvez avoir plusieurs profils de communauté. Nous vous recommandons de choisir la connexion qui est liée à votre profil communautaire le plus principal.
 
-## Mobile Platform {#mobile-platform}
+## Plateforme mobile {#mobile-platform}
 
 Les utilisateurs disposant d’un ID universel peuvent consulter leurs données sur les moments marketing et l’application d’enregistrement de événement iPad depuis l’abonnement sur lequel ils se sont connectés pour la dernière fois. Vous ne pouvez pas modifier les abonnements à partir de la plate-forme mobile elle-même.
 
