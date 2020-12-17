@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Prévisualisation d’un courrier électronique {#previewing-an-email}
+# Aperçu d’un courrier électronique {#previewing-an-email}
 
 Cliquez avec le bouton droit sur une carte électronique pour la prévisualisation, avant d&#39;appuyer sur la gâchette.
 
@@ -19,7 +19,7 @@ Cliquez avec le bouton droit sur une carte électronique pour la prévisualisati
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. Appuyez sur Courriel **** de Prévisualisation.
+1. Appuyez sur **Courriel de Prévisualisation**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
