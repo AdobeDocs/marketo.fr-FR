@@ -27,9 +27,9 @@ Dans Marketo, vous avez la possibilité de créer un mappage un-à-un entre un p
 
 ![](assets/image2015-7-8-9-3a43-3a8.png)
 
-Le coût [de la](../../../../product-docs/administration/tags/create-a-program-channel.md) période ** **canal [](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)** et ** dans Marketo est synchronisé avec Salesforce en tant que type **de** campagne et coût réel. **** Cette synchronisation est **un moyen**, de Marketo à Salesforce.
+Le ** [canal](../../../../product-docs/administration/tags/create-a-program-channel.md) **et ** [coût de la période](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)** dans Marketo se synchronise avec Salesforce en tant que **type de campagne** et **coût réel**. Cette synchronisation est **sens unique**, de Marketo à Salesforce.
 
-Les membres **du** programme Marketo et leurs statuts [de](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)progression *** sont synchronisés avec les membres **de la campagne** Salesforce et les statues des membres de la **campagne.** Il s’agit d’une **synchronisation** **bidirectionnelle**, de sorte que toutes les modifications apportées dans Marketo ou Salesforce sont répercutées dans les deux systèmes.
+Les membres du programme **Marketo** et leurs statuts de progression ** [](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)** sont synchronisés avec les **membres de la campagne Salesforce** et **statues des membres de la campagne**. Il s’agit d’une **synchronisation bidirectionnelle** **synchronisée**, de sorte que toutes les modifications apportées dans Marketo ou Salesforce sont répercutées dans les deux systèmes.
 
 >[!NOTE]
 >
@@ -49,22 +49,22 @@ Filtres :
 
 ## Puis-je ajouter des personnes du marketing à ma campagne SFDC ? {#can-i-add-marketo-people-to-my-sfdc-campaign}
 
-Oui, utilisez l’ [Ajoute à l’action](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)de flux de campagne de SFDC. Si cette personne n’existe pas dans Salesforce, Marketo la crée dans Salesforce, puis l’ajoute à la campagne.
+Oui, utilisez l&#39;action de flux de campagne [Ajouter à la FDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md). Si cette personne n’existe pas dans Salesforce, Marketo la crée dans Salesforce, puis l’ajoute à la campagne.
 
 ## Puis-je supprimer des membres de ma campagne SFDC à l’aide de Marketo ? {#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
 
-Oui, utilisez l’action [](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)Supprimer du flux Campaign de SFDC.
+Oui, utilisez l’action de flux de Campaign [Supprimer de SFDC ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md).
 
 ## Puis-je modifier l’état des membres de la campagne à l’aide de Marketing Cloud ? {#can-i-change-campaign-member-status-using-marketo}
 
-Oui, utilisez l’action [de flux Campaign](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)Change Status dans SFDC.
+Oui, utilisez l’action de flux Campaign [Modifier l’état dans SFDC ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md).
 
 ## Pourquoi est-ce que je ne vois aucune de mes campagnes Salesforce ? {#why-cant-i-see-any-of-my-salesforce-campaigns}
 
 Vous pouvez vérifier les éléments suivants :
 
-1. Assurez-vous que la synchronisation [de campagne est activée](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-1. Vérifiez que votre utilisateur [](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) synchronisé Marketo est un utilisateur [](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) Marketing dans Salesforce.
+1. Assurez-vous que la synchronisation de campagne [est activée](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+1. Vérifiez que votre [utilisateur de synchronisation du marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) est un [utilisateur marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) dans Salesforce.
 
 >[!NOTE]
 >
