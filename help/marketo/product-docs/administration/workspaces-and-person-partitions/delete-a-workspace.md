@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’un espace de travail {#delete-a-workspace}
+# Supprimer un espace de travail {#delete-a-workspace}
 
 >[!NOTE]
 >
