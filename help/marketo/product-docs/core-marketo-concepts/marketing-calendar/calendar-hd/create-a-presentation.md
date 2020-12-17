@@ -29,7 +29,7 @@ Créez une présentation pour projeter les vues et objectifs de votre équipe su
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Cliquez sur Actions **** de présentation et sélectionnez **Nouvelle présentation**.
+1. Cliquez sur **Actions de présentation** et sélectionnez **Nouvelle présentation**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
