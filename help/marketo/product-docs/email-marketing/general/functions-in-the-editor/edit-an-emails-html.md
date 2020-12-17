@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modification du code HTML d’un courrier électronique {#edit-an-emails-html}
+# Modifier le code HTML d&#39;un courrier électronique {#edit-an-emails-html}
 
 Il peut être nécessaire de modifier le code HTML sous-jacent d’un courrier électronique. Vous pouvez parfois utiliser un système externe pour concevoir et créer le code de votre messagerie. Dans les deux cas, vous pouvez facilement importer et/ou modifier du code dans l’éditeur de courrier électronique.
 
@@ -33,17 +33,17 @@ Il peut être nécessaire de modifier le code HTML sous-jacent d’un courrier �
    >
    >Change ce que tu veux. Vous pouvez remplacer l’intégralité du code HTML ou effectuer des ajustements mineurs.
 
-1. Cliquez sur la liste déroulante Actions **** de code pour télécharger le code sous la forme d’un fichier .html, d’une page CSS intégrée ou de la validation du code HTML.
+1. Cliquez sur la liste déroulante **Actions de code** pour télécharger le code sous la forme d’un fichier .html, intégrer votre CSS ou valider le code HTML.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >La meilleure pratique pour les courriels est de mettre tous vos styles en ligne. Plusieurs clients de messagerie ne prennent pas en charge les pages CSS dans la `<head>` section.
+   >La meilleure pratique pour les courriels est de mettre tous vos styles en ligne. Plusieurs clients de messagerie ne prennent pas en charge CSS dans la section `<head>`.
 
 ## Rompre un courrier électronique à partir de son modèle {#breaking-an-email-from-its-template}
 
-Ces modifications de code **ne rompent pas** un courrier électronique de son modèle :
+Les modifications de code **suivantes n&#39;ont pas pour effet de couper un courriel de son modèle :**
 
 * Modification du contenu d’un module (y compris l’ajout de nouveaux éléments dans le module)
 * Ajouter un nouveau module au Conteneur
@@ -62,11 +62,11 @@ Les actions que vous pouvez effectuer dans l’éditeur de code **vont** rompre 
 
 Utilisez la fonctionnalité Code de recherche pour rechercher et remplacer efficacement du contenu dans le code HTML de votre courrier électronique.
 
-1. Dans le code de votre courrier électronique, cliquez sur Code **de** recherche.
+1. Dans le code de votre courrier électronique, cliquez sur **Code de recherche**.
 
    ![](assets/five-2.png)
 
-1. Saisissez ce que vous souhaitez rechercher, puis cliquez sur **Rechercher suivant** pour effectuer une recherche vers l’avant ou **Rechercher précédent** pour effectuer une recherche vers l’arrière. Vous avez également la possibilité de **Remplacer** et **Remplacer tout**.
+1. Entrez ce que vous voulez trouver et cliquez sur **Rechercher suivant** pour rechercher vers l&#39;avant ou **Rechercher précédent** pour rechercher vers l&#39;arrière. Vous avez également la possibilité de **Remplacer** et **Remplacer tout**.
 
    ![](assets/six-1.png)
 
@@ -76,6 +76,6 @@ Utilisez la fonctionnalité Code de recherche pour rechercher et remplacer effic
 
    >[!NOTE]
    >
-   >Le code de recherche est également disponible dans l’éditeur [Modèle de](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template)courriel.
+   >Le code de recherche est également disponible dans l’[éditeur de modèles de courriel](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template).
 
 Nous vous recommandons de continuer à modifier vos courriels à l’aide de la fonctionnalité intégrée de Marketo, mais cet éditeur de code offre une certaine souplesse si vous en avez besoin.
