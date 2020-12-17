@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Modifier la valeur des données {#change-data-value}
+# Modifier la valeur de données {#change-data-value}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Vous pouvez utiliser Marketing pour mettre à jour la valeur d’un champ. Pour cela, vous utiliserez l’action **Modifier la valeur des données **flux.
 
@@ -21,7 +21,7 @@ Vous pouvez utiliser Marketing pour mettre à jour la valeur d’un champ. Pour 
 
 >[!NOTE]
 >
->Vous pouvez également empêcher la mise à jour d’un champ. Pour plus d’informations, voir [Bloquer les mises à jour d’un champ](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) .
+>Vous pouvez également empêcher la mise à jour d’un champ. Voir [Bloquer les mises à jour d’un champ](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) pour plus d’informations.
 
 ## Utilisation {#usage}
 
@@ -42,7 +42,7 @@ Vous pouvez utiliser Marketing pour mettre à jour la valeur d’un champ. Pour 
 
    >[!TIP]
    >
-   >Vous pouvez entrer &quot;NULL&quot; (sans guillemets, sans majuscules) dans **Nouvelle valeur** pour effacer le champ. Pour plus d’informations, voir [Effacer les valeurs](change-data-value/clear-field-values.md) de champ.
+   >Vous pouvez entrer &#39;NULL&#39; (sans guillemets, toutes les majuscules) dans **Nouvelle valeur** pour effacer le champ. Voir [Effacer les valeurs de champ](change-data-value/clear-field-values.md) pour plus de détails.
 
    >[!NOTE]
    >
