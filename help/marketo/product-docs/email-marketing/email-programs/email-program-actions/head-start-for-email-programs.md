@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Début principal pour les Programmes électroniques {#head-start-for-email-programs}
+# Début principal pour les Programmes de courriel {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
 >
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 Lorsque vous choisissez une date/heure pour un Programme de courriel, il détermine à quel moment le programme commencera à se traiter. Si vous souhaitez que vos courriers électroniques soient lancés à l’heure sélectionnée, Head Début vous offre cette option en traitant le programme à l’avance.
 
-## Début d&#39;en-tête standard {#standard-head-start}
+## Début principal standard {#standard-head-start}
 
-1. Cliquez sur Activités **** marketing.
+1. Cliquez sur **Activités marketing**.
 
    ![](assets/one-1.png)
 
@@ -37,7 +37,7 @@ Lorsque vous choisissez une date/heure pour un Programme de courriel, il déterm
    >
    >Le Début d’en-tête ne peut pas être utilisé avec les tests A/B.
 
-1. Dans le volet Planifier, planifiez votre courrier électronique, puis cochez la case **Début** d’en-tête.
+1. Dans la mosaïque Planification, planifiez votre adresse électronique, puis sélectionnez la zone **Début d’en-tête**.
 
    ![](assets/three-1.png)
 
@@ -53,9 +53,9 @@ Lorsque vous choisissez une date/heure pour un Programme de courriel, il déterm
 
    Après l’approbation du programme, vous pouvez afficher quatre états différents sur le volet Approbation.
 
-   * **En attente d&#39;exécution :** Une fois le programme approuvé.
-   * **Le traitement a démarré, en attente d&#39;exécution :** Le traitement est en cours.
-   * **Traitement terminé, en attente d’exécution :** Traitement terminé, courrier électronique en attente de lancement planifié.
+   * **En attente d’exécution :** après l’approbation du programme.
+   * **Le traitement a démarré, en attente d’exécution : le** traitement est en cours.
+   * **Traitement terminé, en attente d’exécution :** Traitement terminé, envoi d’un courrier électronique en attente de lancement planifié.
    * **Terminé :** Programme terminé.
 
    >[!TIP]
@@ -66,15 +66,15 @@ Lorsque vous choisissez une date/heure pour un Programme de courriel, il déterm
    >
    >Si vous désapprouvez votre programme de messagerie avec moins de 12 heures avant son exécution planifiée, mais que vous changez d’avis, vous devez choisir une nouvelle date/heure qui est au moins 12 heures en avance par rapport à son approbation.
 
-## Début de tête avec fuseau horaire Destinataire {#head-start-with-recipient-time-zone}
+## Début principal avec fuseau horaire Destinataire {#head-start-with-recipient-time-zone}
 
-Notre fonction de Début-tête actuel exige que le programme soit programmé au moins 12 heures à l&#39;avance. Qu&#39;est-ce que cela signifie pour le fuseau horaire Destinataire ? Rappelez-vous que lorsque le fuseau horaire du Destinataire est principal, nous débuts à exécuter le programme électronique à minuit dans le fuseau horaire le plus proche (UTC +14:00). Ainsi, pour activer **à la fois** le fuseau horaire Début principal et le fuseau horaire Destinataire, les programmes doivent être programmés **au moins 12 heures avant le fuseau horaire le plus tôt (UTC +14:00**).
+Notre fonction de Début-tête actuel exige que le programme soit programmé au moins 12 heures à l&#39;avance. Qu&#39;est-ce que cela signifie pour le fuseau horaire Destinataire ? Rappelez-vous que lorsque le fuseau horaire du Destinataire est principal, nous débuts à exécuter le programme électronique à minuit dans le fuseau horaire le plus proche (UTC +14:00). Ainsi, pour activer **à la fois** Début principal et fuseau horaire Destinataire, les programmes doivent être programmés **au moins 12 heures avant le fuseau horaire le plus ancien (UTC +14:00**).
 
-Cela signifie que si vous êtes en Amérique/Los Angeles et que vous souhaitez activer le fuseau horaire Début et Destinataire, vous devez programmer le programme **34 heures** à l&#39;avance. Comment en sommes-nous arrivés à ce chiffre ?
+Cela signifie que si vous êtes en Amérique/Los Angeles et que vous souhaitez activer à la fois le fuseau horaire Début et Destinataire, vous devez planifier le programme **34 heures** à l&#39;avance. Comment en sommes-nous arrivés à ce chiffre ?
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[En savoir plus](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) sur la planification des programmes de messagerie avec fuseau horaire Destinataire.
+[En savoir ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) plus sur la planification des programmes de messagerie avec fuseau horaire Destinataire.
 
 >[!NOTE]
 >
