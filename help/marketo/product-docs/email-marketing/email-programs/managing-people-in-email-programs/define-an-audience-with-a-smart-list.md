@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Définir une Audience avec une Liste dynamique {#define-an-audience-with-a-smart-list}
 
-Une fois que vous avez [créé un programme](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)de courriel, vous voudrez lui indiquer à qui envoyer le courriel. Pour ce faire, vous pouvez [importer une liste de personnes](define-an-audience-by-importing-a-list.md) ou une liste intelligente. Voici comment y parvenir avec une liste intelligente.
+Une fois que vous avez [créé un programme de courriel](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), vous voudrez lui indiquer à qui envoyer le courriel. Pour ce faire, [importez une liste de personnes](define-an-audience-by-importing-a-list.md) ou utilisez une liste intelligente. Voici comment y parvenir avec une liste intelligente.
 
 >[!PREREQUISITES]
 >
@@ -29,11 +29,11 @@ Une fois que vous avez [créé un programme](../../../../product-docs/email-mark
 >
 >La définition de votre audience ne fonctionnera que si le programme de messagerie n&#39;est pas approuvé.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre programme de messagerie, puis cliquez sur **Modifier la Liste** dynamique sous la mosaïque **Audience** .
+1. Sélectionnez votre programme de messagerie, puis cliquez sur **Modifier la Liste dynamique** sous la mosaïque **Audience**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
@@ -54,13 +54,13 @@ Une fois que vous avez [créé un programme](../../../../product-docs/email-mark
    >**Plongée profonde**
    >
    >
-   >Consultez les listes [intelligentes et les listes](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) statiques pour en savoir plus sur l&#39;utilisation et la définition des filtres.
+   >Consultez [listes intelligentes et listes statiques](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) pour en savoir plus sur l&#39;utilisation et la définition des filtres.
 
 1. Lorsque vous avez terminé d’ajouter et de définir des filtres, revenez à l’onglet programme principal. Vous verrez combien de personnes sont admissibles.
 
    ![](assets/myemailprogram.jpg)
 
-   Excellent travail ! Il est maintenant temps de [choisir un courriel](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) existant ou de [créer un courriel](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) à envoyer à ces personnes.
+   Excellent travail ! Il est maintenant temps de [choisir un courriel existant](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou de [créer un courriel](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) à envoyer à ces personnes.
 
 >[!NOTE]
 >
@@ -76,9 +76,9 @@ Une fois que vous avez [créé un programme](../../../../product-docs/email-mark
 
 >
 >
-Cliquez sur le numéro pour obtenir une liste détaillée des personnes bloquées dans les envois. **Remarque :** Les courriels opérationnels seront toujours envoyés aux personnes marquées non abonnées et le marketing suspendu.
+Cliquez sur le numéro pour obtenir une liste détaillée des personnes bloquées dans les envois. **Veuillez noter que les courriels** opérationnels seront toujours envoyés aux personnes marquées comme non abonnées et le marketing suspendu.
 >
->Utilisez le ![—](assets/image2014-10-23-16-3a32-3a36.png) bouton de la mosaïque d’Audience pour voir combien de personnes recevront le courriel.
+>Utilisez le bouton ![—](assets/image2014-10-23-16-3a32-3a36.png) de la mosaïque d’Audience pour voir combien de personnes recevront le courrier électronique.
 
 >[!NOTE]
 >
