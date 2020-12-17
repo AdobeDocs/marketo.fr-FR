@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Modifier l’étiquette Par défaut De courriel et De {#change-the-default-from-email-and-from-label}
+# Modifier la valeur par défaut du courrier électronique et du libellé {#change-the-default-from-email-and-from-label}
 
-Chaque utilisateur administrateur a la possibilité de modifier les valeurs par défaut pour **From Email** et **From Label** , de sorte que lorsqu’ils créent de nouveaux courriers électroniques, ces valeurs par défaut sont utilisées.
+Chaque utilisateur administrateur peut modifier les valeurs par défaut de **Courriel** et **Libellé** afin que, lorsqu’ils créent de nouveaux courriels, ces valeurs par défaut soient utilisées.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à la section **Admin** .
+1. Accédez à la section **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -27,7 +27,7 @@ Chaque utilisateur administrateur a la possibilité de modifier les valeurs par 
 
    ![](assets/image2014-9-18-16-3a27-3a19.png)
 
-1. Saisissez les valeurs par défaut pour **De l’e-mail** et **De l’étiquette** , puis cliquez sur **Enregistrer les modifications**.
+1. Entrez les valeurs par défaut pour **A partir du courriel** et **A partir du libellé**, puis cliquez sur **Enregistrer les modifications**.
 
    ![](assets/change-default-hands.png)
 
