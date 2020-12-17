@@ -19,7 +19,7 @@ Si vous avez besoin que les données d&#39;entité personnalisées de Dynamics s
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à la section **Admin** .
+1. Accédez à la section **Admin**.
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
@@ -32,7 +32,7 @@ Si vous avez besoin que les données d&#39;entité personnalisées de Dynamics s
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Cliquez sur le lien schéma **de** synchronisation.
+1. Cliquez sur le lien **schéma de synchronisation**.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
@@ -40,7 +40,7 @@ Si vous avez besoin que les données d&#39;entité personnalisées de Dynamics s
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. Sélectionnez les champs que vous souhaitez synchroniser ou utiliser comme [contraintes](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) et/ou déclencheurs dans les listes dynamiques. Lorsque vous avez terminé, cliquez sur **Activer la synchronisation**.
+1. Sélectionnez les champs que vous souhaitez synchroniser ou utiliser en tant que [contraintes](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) et/ou déclencheurs dans les listes dynamiques. Lorsque vous avez terminé, cliquez sur **Activer la synchronisation**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
