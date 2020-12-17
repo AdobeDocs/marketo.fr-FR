@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’un Programme {#delete-a-program}
+# Supprimer un Programme {#delete-a-program}
 
 Vous pouvez archiver un programme, mais parfois vous voulez juste vous en débarrasser de façon permanente. Voici comment.
 
@@ -27,7 +27,7 @@ Vous pouvez archiver un programme, mais parfois vous voulez juste vous en débar
 
 >[!TIP]
 >
->**Les Programmes** d&#39;archivage conservent les données du programme mais mettent le programme hors de votre portée. Sélectionnez cette option, puis cliquez sur **Suivant** pour afficher plus de détails sur l’archivage.
+>**Archivage** des programmes conserve les données du programme mais met le programme hors de votre portée. Sélectionnez cette option, puis cliquez sur **Suivant** pour afficher plus de détails sur l’archivage.
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -43,7 +43,7 @@ Pour résoudre le problème, vous devrez peut-être effectuer une analyse approf
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Cliquez sur **Utilisé** **par** pour savoir où la ressource est utilisée.
+1. Cliquez sur **Utilisé** **Par** pour voir où la ressource est utilisée.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
