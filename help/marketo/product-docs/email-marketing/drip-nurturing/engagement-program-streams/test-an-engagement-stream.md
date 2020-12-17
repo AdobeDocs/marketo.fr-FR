@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les tester un par un.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/one.png)
 
@@ -37,12 +37,12 @@ Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les te
 
    >[!TIP]
    >
-   >Si la personne que vous recherchez n’existe pas, utilisez l’option **Créer une personne** pour en créer une à la volée.
+   >Si la personne que vous recherchez n&#39;existe pas, utilisez l&#39;option **Créer une personne** pour en créer une à la volée.
 
    Cliquez sur Flux initial, sélectionnez le flux à tester, puis cliquez sur Exécuter le flux.
    ![](assets/five-rubiks.png)
 
-1. Après avoir passé en revue les règles [de](transition-people-between-engagement-streams.md) transition que vous avez précédemment définies, cliquez sur l’icône Actualiser.
+1. Après avoir passé en revue les [règles de transition](transition-people-between-engagement-streams.md) précédemment configurées, cliquez sur l’icône Actualiser.
 
    ![](assets/six-rubiks.png)
 
