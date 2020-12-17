@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# Configuration de SPF et DKIM pour la diffusion de vos e-mails {#set-up-spf-and-dkim-for-your-email-deliverability}
+# Configurez SPF et DKIM pour votre délivrabilité de courriel {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-Une méthode rapide pour améliorer vos taux de diffusion de courriel consiste à incorporer **SPF** (Sender Policy Framework) et **DKIM** (Domain Keys Identified Mail) dans vos paramètres DNS. Avec cet ajout à vos entrées DNS, vous informez les destinataires que vous avez autorisé Marketo à envoyer des courriers électroniques en votre nom. Sans cette modification, votre courriel a plus de chances d’être marqué comme indésirable puisque le courriel a été envoyé à partir de votre domaine, mais à partir d’une adresse IP avec un domaine Marketo.
+Une méthode rapide pour améliorer les taux de diffusion de vos courriels consiste à incorporer **SPF** (Sender Policy Framework) et **DKIM** (Domain Keys Identified Mail) dans vos paramètres DNS. Avec cet ajout à vos entrées DNS, vous informez les destinataires que vous avez autorisé Marketo à envoyer des courriers électroniques en votre nom. Sans cette modification, votre courriel a plus de chances d’être marqué comme indésirable puisque le courriel a été envoyé à partir de votre domaine, mais à partir d’une adresse IP avec un domaine Marketo.
 
 >[!CAUTION]
 >
 >Vous aurez besoin de votre administrateur réseau pour apporter cette modification à votre enregistrement DNS.
 
-## Configuration de SPF {#set-up-spf}
+## Configurer SPF {#set-up-spf}
 
 **Si vous n’avez pas d’enregistrement SPF sur votre domaine**
 
-Demandez à votre administrateur réseau d&#39;ajouter la ligne suivante à vos entrées DNS. Remplacez [domaine] par le domaine principal de votre site Web (ex. &quot;société.com&quot;) et [corpIP] avec l’adresse IP de votre serveur de messagerie d’entreprise (ex. &quot;255.255.255.255&quot;). Si vous envoyez des courriers électroniques de plusieurs domaines par l’intermédiaire de Marketing Cloud, vous devez les ajouter à chaque domaine (sur une seule ligne).
-[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all\
+Demandez à votre administrateur réseau d&#39;ajouter la ligne suivante à vos entrées DNS. Remplacez [domaine] par le domaine principal de votre site Web (ex. &quot;société.com&quot;) et [corpIP] avec l&#39;adresse IP de votre serveur de messagerie d&#39;entreprise (ex. &quot;255.255.255.255&quot;). Si vous envoyez des courriers électroniques de plusieurs domaines par l’intermédiaire de Marketing Cloud, vous devez les ajouter à chaque domaine (sur une seule ligne).
+[] domainIN TXT v=spf1 mx ip4:[] corpIPinclude:mktomail.com ~all\
 Si vous possédez un enregistrement SPF sur votre domaine
 
 Si votre entrée DNS contient déjà un enregistrement SPF, ajoutez-y les éléments suivants :
 
 include:mktomail.com
 
-## Configuration de DKIM {#set-up-dkim}
+## Configurer DKIM {#set-up-dkim}
 
 ### Qu&#39;est-ce que DKIM ? Pourquoi dois-je configurer DKIM ? {#what-is-dkim-why-do-i-want-to-set-up-dkim}
 
@@ -45,7 +45,7 @@ Après avoir configuré la clé publique dans votre enregistrement DNS et activ�
 
 Comment configurer DKIM ?
 
-Reportez-vous à [Configuration d&#39;une signature](set-up-a-custom-dkim-signature.md)DKIM personnalisée.
+Reportez-vous à [Configurer une signature DKIM personnalisée](set-up-a-custom-dkim-signature.md).
 
 >[!MORELIKETHIS]
 >
