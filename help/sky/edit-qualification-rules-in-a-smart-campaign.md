@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Les règles de qualification contrôlent le nombre de fois où une personne peut parcourir le flux dans une campagne intelligente. Par défaut, même si une personne déclenche plusieurs fois une campagne intelligente, elle ne sera envoyée qu’une seule fois dans le flux. Voici comment modifier ces paramètres.
 
-1. Sélectionnez la campagne et accédez à l’onglet **[!UICONTROL Planification]** .
+1. Sélectionnez la campagne et accédez à l&#39;onglet **[!UICONTROL Planification]**.
 
    ![Image un](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
@@ -42,4 +42,4 @@ Les règles de qualification contrôlent le nombre de fois où une personne peut
 
 **Rappel**
 
-Par défaut, les limites de communication ne sont pas appliquées aux campagnes actives. Découvrez comment [appliquer des limites de communication à une campagne](https://docs.marketo.com/display/DOCS/Apply+Communication+Limits+to+Smart+Campaign)intelligente.
+Par défaut, les limites de communication ne sont pas appliquées aux campagnes actives. Découvrez comment [appliquer des limites de communication à une campagne intelligente](https://docs.marketo.com/display/DOCS/Apply+Communication+Limits+to+Smart+Campaign).
