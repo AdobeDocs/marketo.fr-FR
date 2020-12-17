@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Étape 2 sur 3 : Configurer un utilisateur de synchronisation marketing dans Dynamics (local 2011) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
+# Étape 2 sur 3 : Configurer un utilisateur de synchronisation de marketing dans Dynamics (local 2011) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
 Excellent travail de réalisation des étapes précédentes, continuons à passer à travers ceci.
 
@@ -23,7 +23,7 @@ Excellent travail de réalisation des étapes précédentes, continuons à passe
 
 
 
-## Attribuer un rôle utilisateur de synchronisation {#assign-sync-user-role}
+## Affecter le rôle utilisateur de synchronisation {#assign-sync-user-role}
 
 Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’utilisateur de synchronisation du marketing. Vous n’avez pas besoin de l’affecter à d’autres utilisateurs.
 
@@ -43,7 +43,7 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 
-1. Vous verrez ici une liste d&#39;utilisateurs. Sélectionnez votre utilisateur dédié à Marketo pour synchroniser ou contactez votre administrateur des services de fédération [Principale Directory (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) pour créer un nouvel utilisateur dédié à Marketo. Cliquez sur **Gérer les rôles**.
+1. Vous verrez ici une liste d&#39;utilisateurs. Sélectionnez votre utilisateur dédié à la synchronisation du marketing ou contactez votre administrateur [AFDS (Principale Directory Federation Services)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) pour créer un utilisateur dédié à Marketo. Cliquez sur **Gérer les rôles**.
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 
@@ -53,11 +53,11 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
    >[!TIP]
    >
-   >Si vous ne voyez pas le rôle, revenez à l’ [étape 1 sur 3](step-1-of-3-install.md) et importez la solution.
+   >Si vous ne voyez pas le rôle, revenez à l&#39;[étape 1 de 3](step-1-of-3-install.md) et importez la solution.
 
    >[!NOTE]
    >
-   >Les mises à jour effectuées dans votre gestion de la relation client par l’utilisateur de synchronisation **ne seront pas** synchronisées à nouveau sur Marketing Cloud.
+   >Toutes les mises à jour effectuées dans votre gestion de la relation client par l’utilisateur de synchronisation **ne** seront &lt;a0/> synchronisées de nouveau sur Marketo.
 
 ## Configurer la solution marketing {#configure-marketo-solution}
 
@@ -69,7 +69,7 @@ Presque terminé ! Nous n&#39;avons que quelques derniers éléments de configur
 
    >[!NOTE]
    >
-   >Si la configuration du marketing est manquante, essayez d’actualiser la page. Si le problème persiste, [publiez à nouveau](step-1-of-3-install.md) la solution Marketing Cloud ou déconnectez-vous puis reconnectez-vous.
+   >Si la configuration du marketing est manquante, essayez d’actualiser la page. Si le problème persiste, [publiez à nouveau la solution Marketo](step-1-of-3-install.md) ou déconnectez-vous et reconnectez-vous.
 
 1. Cliquez sur **Par défaut**.
 
