@@ -19,7 +19,7 @@ Vous devez apporter des modifications à une activité personnalisée que vous a
 
    ![](assets/one-1.png)
 
-1. Dans Gestion des **** bases de données, cliquez sur Activités **** personnalisées.
+1. Dans **Gestion de la base de données**, cliquez sur **Activités personnalisées**.
 
    ![](assets/two-1.png)
 
@@ -27,7 +27,7 @@ Vous devez apporter des modifications à une activité personnalisée que vous a
 
    ![](assets/three-1.png)
 
-1. Cliquez sur Actions **d’Activité** personnalisée et sélectionnez **Modifier l’Activité**.
+1. Cliquez sur **Actions d’Activité personnalisée** et sélectionnez **Modifier l’Activité**.
 
    ![](assets/four-1.png)
 
