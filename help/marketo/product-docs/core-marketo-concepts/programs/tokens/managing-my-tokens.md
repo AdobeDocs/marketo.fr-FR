@@ -17,11 +17,11 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo. Vous pouvez 
 
 >[!TIP]
 >
->Pour en savoir plus sur les jetons déjà disponibles dans Présentation [des](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)jetons.
+>Pour en savoir plus sur les jetons déjà disponibles dans [Présentation des jetons](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
 
 ## Créer un jeton My {#create-a-my-token}
 
-1. Accédez à Activités **marketing.**
+1. Accédez à **Activités marketing.**
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo. Vous pouvez 
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Sélectionnez un type **Mon jeton** . Faites-le glisser sur la trame.
+1. Sélectionnez un type **Mon jeton**. Faites-le glisser sur la trame.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -41,23 +41,23 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo. Vous pouvez 
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
-   Ouais ! Vous avez fait un **Mon Jeton.**
+   Ouais ! Vous avez créé **Mon jeton.**
 
    ![](assets/image2014-9-18-12-3a5-3a15.png)
 
-## Modifier un jeton My Token {#edit-a-my-token}
+## Modifier un jeton My {#edit-a-my-token}
 
-1. Doublon-cliquez sur **Mon jeton** et apportez vos modifications. Cliquez sur **Enregistrer.**
+1. Doublon-cliquez sur le **Mon jeton** et apportez vos modifications. Cliquez sur **Enregistrer.**
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
-## Suppression d’un jeton My Token {#delete-a-my-token}
+## Supprimer un jeton My {#delete-a-my-token}
 
 >[!CAUTION]
 >
 >Lorsque vous supprimez un jeton, veillez à ne pas le référencer dans un fichier. Un espace vide s’affiche à l’endroit où il est référencé s’il est supprimé.
 
-1. Cliquez avec le bouton droit de la souris sur **Mon jeton.** Sélectionnez **Supprimer le jeton.**
+1. Cliquez avec le bouton droit de la souris sur le **Jeton.** Sélectionnez  **Supprimer le jeton.**
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
