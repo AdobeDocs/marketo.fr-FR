@@ -17,11 +17,11 @@ Dites bonjour à votre nouvel ami Marketo, le programme de courriel. Envoyez des
 
 ## Panneau de Contrôle {#control-panel}
 
-Quatre boîtes vous tiennent concentré. **L’Audience** définit le &quot;qui&quot;, le **courriel** fournit le &quot;quoi&quot;, **le calendrier** définit le &quot;quand&quot; et **l’approbation** le rend prêt à partir.
+Quatre boîtes vous tiennent concentré. **** Audiencedéfinit le &quot;qui&quot;,  **** envoie par courriel le &quot;quoi&quot;,  **** Planificateur définit le &quot;quand&quot; et  **** Approbations le rend prêt à partir.
 
 ![](assets/emailprogram.png)
 
-## Tests A/B {#a-b-testing}
+## Test A/B {#a-b-testing}
 
 Les tests A/B vous permettent de prouver quel courriel est le plus performant.
 
@@ -62,7 +62,7 @@ Utilisez un programme de courriel dans un programme par défaut pour organiser l
 
 >[!NOTE]
 >
->Les programmes de messagerie ne peuvent pas être imbriqués dans les programmes [d’](../../../../getting-started/quick-wins/drip-drip-nurture.md)engagement. Ils ne peuvent pas non plus être renvoyés et ne peuvent exécuter qu&#39;un seul test à la fois.
+>Les programmes de messagerie ne peuvent pas être imbriqués dans des programmes d&#39;engagement [](../../../../getting-started/quick-wins/drip-drip-nurture.md). Ils ne peuvent pas non plus être renvoyés et ne peuvent exécuter qu&#39;un seul test à la fois.
 
 ## Paramètres de planification {#schedule-settings}
 
