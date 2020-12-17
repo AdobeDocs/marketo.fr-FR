@@ -19,9 +19,9 @@ Vous pouvez également découvrir comment améliorer l’utilisation de la secti
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## Problèmes d&#39;optimisation des pages principales {#top-page-optimization-issues}
+## Problèmes d&#39;optimisation des pages supérieures {#top-page-optimization-issues}
 
-Cela vous montrera cinq méthodes à fort impact pour optimiser votre site immédiatement en début ! Il vous suffit de cliquer sur l&#39;un des liens pour vue le détail complet de la [page dans le menu déroulant](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
+Cela vous montrera cinq méthodes à fort impact pour optimiser votre site immédiatement en début ! Il vous suffit de cliquer sur l&#39;un des liens pour vue de la [liste détaillée de la page](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
 
 >[!TIP]
 >
