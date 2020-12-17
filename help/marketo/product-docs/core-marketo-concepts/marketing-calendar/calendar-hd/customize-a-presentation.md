@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Personnalisation d’une présentation {#customize-a-presentation}
+# Personnaliser une présentation {#customize-a-presentation}
 
 Configurez votre présentation du calendrier pour qu’elle reflète les objectifs et les activités qui comptent le plus pour votre équipe.
 
@@ -23,7 +23,7 @@ Configurez votre présentation du calendrier pour qu’elle reflète les objecti
 
 >[!PREREQUISITES]
 >
->* [Créer des objectifs](create-a-custom-goal.md) personnalisés ou des objectifs de Liste [intelligente](create-a-smart-list-goal.md)
+>* [Créer des ](create-a-custom-goal.md) objectifs de Liste  [intelligente ou des objectifs personnalisés](create-a-smart-list-goal.md)
    >
    >
 * [Créer une présentation](create-a-presentation.md)
@@ -34,7 +34,7 @@ Configurez votre présentation du calendrier pour qu’elle reflète les objecti
 
 ## Choix des Vues {#choosing-the-views}
 
-Passez en revue les différentes définitions [de](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) filtre que vous choisissez. Extrayez autant de vues que vous le souhaitez et personnalisez la fréquence.
+Effectuez un cycle Presentations à l’aide de différentes [définitions de filtre](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) que vous avez sélectionnées. Extrayez autant de vues que vous le souhaitez et personnalisez la fréquence.
 
 1. Dans l’arborescence de droite, faites glisser les différentes vues que vous souhaitez faire pivoter dans votre présentation.
 
@@ -42,7 +42,7 @@ Passez en revue les différentes définitions [de](../../../../product-docs/core
 
 ## Ajouter un objectif {#add-a-goal}
 
-Presentations est le plus génial lorsqu&#39;il affiche les objectifs de votre équipe. Il vous suffit de faire glisser sur différents objectifs [](create-a-custom-goal.md) personnalisés ou objectifs [de liste](create-a-smart-list-goal.md)intelligente. Vous pouvez en utiliser jusqu&#39;à 10.
+Presentations est le plus génial lorsqu&#39;il affiche les objectifs de votre équipe. Il vous suffit de faire glisser les différents [objectifs personnalisés](create-a-custom-goal.md) ou [objectifs de liste intelligente](create-a-smart-list-goal.md). Vous pouvez en utiliser jusqu&#39;à 10.
 
 1. Dans l&#39;arborescence de droite, faites glisser les différents objectifs à afficher dans votre présentation.
 
@@ -68,7 +68,7 @@ Une fois que vous avez saisi les vues de votre choix dans la présentation, déf
 
 L&#39;affichage du calendrier peut être défini sur une vue de 3 semaines ou mensuelle.
 
-1. Sélectionnez la liste déroulante Affichage **** du calendrier et choisissez entre **3 semaines** ou un **mois**.
+1. Sélectionnez la liste déroulante **Affichage du calendrier** et choisissez entre **3 semaines** ou un **mois**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
@@ -76,9 +76,9 @@ L&#39;affichage du calendrier peut être défini sur une vue de 3 semaines ou me
 
 >[!TIP]
 >
->Définissez une image [d’](add-a-background-image-to-a-presentation.md) arrière-plan pour votre présentation. Nous suggérons des chatons ou des arcs-en-ciel.
+>Définissez une [image d’arrière-plan](add-a-background-image-to-a-presentation.md) pour votre présentation. Nous suggérons des chatons ou des arcs-en-ciel.
 
-## Prévisualisation d&#39;une présentation {#preview-a-presentation}
+## Prévisualisation a Présentation {#preview-a-presentation}
 
 Une fois la présentation configurée, elle est prête à être prévisualisée et lancée.
 
