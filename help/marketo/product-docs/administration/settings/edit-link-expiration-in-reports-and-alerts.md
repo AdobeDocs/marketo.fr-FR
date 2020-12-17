@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifier l’expiration des liens dans les rapports et alertes {#edit-link-expiration-in-reports-and-alerts}
+# Modifier l&#39;expiration des liens dans les rapports et alertes {#edit-link-expiration-in-reports-and-alerts}
 
 Les liens des courriers électroniques de votre abonnement de rapports expirent au bout de trois jours. Pour modifier le délai d’expiration de ces liens, procédez comme suit.
 
@@ -19,11 +19,11 @@ Les liens des courriers électroniques de votre abonnement de rapports expirent 
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Admin**, cliquez sur Paramètres **de** connexion.
+1. Sous **Admin**, cliquez sur **Paramètres de connexion**.
 
    ![](assets/image2014-9-24-11-3a33-3a31.png)
 
-1. Cliquez sur **Modifier l’expiration** de l’URL.
+1. Cliquez sur **Modifier l’expiration de l’URL**.
 
    ![](assets/image2014-9-24-11-3a33-3a43.png)
 
