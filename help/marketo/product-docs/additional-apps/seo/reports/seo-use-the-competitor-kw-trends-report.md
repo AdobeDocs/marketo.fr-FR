@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - Utiliser le rapport de tendances de KW Concurrent {#seo-use-the-competitor-kw-trends-report}
+# SEO - Utiliser le rapport de tendances KW Concurrent {#seo-use-the-competitor-kw-trends-report}
 
 Ce rapport montre comment vous et vos concurrents êtes classés selon les mots-clés au fil du temps.
 
@@ -21,7 +21,7 @@ Ce rapport montre comment vous et vos concurrents êtes classés selon les mots-
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Cliquez sur Tendances **de classement KW** compétitives.
+1. Cliquez sur **Tendances de classement KW compétitives**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
@@ -44,11 +44,11 @@ Ce graphique peut vous montrer quel pourcentage de vos mots-clés sont classés 
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Cliquez sur la liste déroulante **Classement** pour choisir la plage de classement pour laquelle vous souhaitez vue les mots-clés.
+1. Cliquez sur la liste déroulante **Classement** pour sélectionner la plage de classement pour laquelle vous souhaitez vue les mots-clés.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exportation de données  {#exporting-data}
+## Exportation de données {#exporting-data}
 
 >[!TIP]
 >
