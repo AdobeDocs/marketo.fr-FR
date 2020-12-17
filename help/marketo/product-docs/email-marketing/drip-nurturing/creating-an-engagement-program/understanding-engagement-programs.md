@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Présentation des Programmes d’engagement {#understanding-engagement-programs}
+# Présentation des Programmes d&#39;engagement {#understanding-engagement-programs}
 
 Les programmes d’engagement sont conçus pour promouvoir les nouvelles personnes en leur présentant du contenu de manière systématique.
 
 >[!NOTE]
 >
->Il existe une limite de 100 programmes d’engagement **principaux** par abonnement.
+>Il existe une limite de 100 programmes d’engagement **principal** par abonnement.
 
 ## Programme d’engagement {#engagement-program}
 
-Un **engagement pr*****ogramme** est un type de programme qui peut accomplir facilement une tâche complexe.
+Un **engagement pr****ogramme** est un type de programme qui peut accomplir facilement une tâche complexe.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
@@ -42,7 +42,7 @@ Articles connexes :
 
 ## Contenu {#content}
 
-Il existe deux types de **contenu** que vous pouvez ajouter aux flux de programme d’engagement : les courriels et les programmes. Des courriels seront envoyés aux personnes au moment de la distribution.
+Il existe deux types de **contenu** que vous pouvez ajouter aux flux de programme d’engagement : courriels et programmes. Des courriels seront envoyés aux personnes au moment de la distribution.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
@@ -64,7 +64,7 @@ Un **cast** est le événement d’envoi de courriers électroniques à partir d
 
 ## Cadence de diffusion {#stream-cadence}
 
-Vous décidez quand un cast se produit en configurant la cadence **du** flux. C’est ainsi que vous planifiez l’affichage du contenu à intervalles réguliers.
+Vous décidez quand un cast se produit en configurant **la cadence de diffusion**. C’est ainsi que vous planifiez l’affichage du contenu à intervalles réguliers.
 
 ` ![](assets/image2014-9-15-15-3a25-3a27.png)
 
@@ -74,9 +74,9 @@ Article connexe :
 
 * [Définir la cadence du flux](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
-## Cadence {#person-cadence}
+## Cadence de la personne {#person-cadence}
 
-Une cadence **** personnelle est un état qui définit sa capacité à recevoir du contenu d’un programme d’engagement. Vous pouvez utiliser l’étape de flux de cadence **du Programme** Modifier l’engagement pour passer à En pause ou Normal.
+Une **cadence de personne** est un état qui définit sa capacité à recevoir du contenu d&#39;un programme d&#39;engagement. Vous pouvez utiliser l’étape de flux **Modifier l’cadence du Programme d’engagement** pour passer à l’étape En pause ou Normale.
 
 ` ![](assets/image2014-9-15-15-3a25-3a55.png)
 
