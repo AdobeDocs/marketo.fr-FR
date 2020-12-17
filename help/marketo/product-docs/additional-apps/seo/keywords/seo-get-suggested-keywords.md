@@ -17,23 +17,23 @@ L’optimisation du référencement du marketing peut suggérer quels mots-clés
 
 ## Obtenir des suggestions de mots-clés à l&#39;aide d&#39;un mot-clé {#get-keyword-suggestions-using-a-keyword}
 
-1. Accédez à la section **Mots-clés** .
+1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Cliquez sur SUGGESTIONS **** GET.
+1. Cliquez sur **GET SUGGESTIONS**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Saisissez un mot-clé **** clé. Cliquez sur **SUGGÉRER LES MOTS-CLÉS**.
+1. Entrez un **mot-clé**. Cliquez sur **SUGGEST KEYWORDS**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Saviez-vous que vous pouvez [ajouter votre mot-clé à une liste](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) nouvelle ou existante ici ?
+   >Saviez-vous que vous pouvez [ajouter votre mot-clé à une liste nouvelle ou existante](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ici ?
 
-1. Sélectionnez le ou les mots-clés suggérés. Cliquez sur **AJOUTER SÉLECTIONNÉ**.
+1. Sélectionnez le ou les mots-clés suggérés. Cliquez sur **AJOUTER SELECTED**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -43,13 +43,13 @@ L’optimisation du référencement du marketing peut suggérer quels mots-clés
 
    Yeeehaw ! Maintenant que vous savez comment obtenir des suggestions de mots-clés basées sur un mot-clé, essayez d&#39;obtenir des suggestions basées sur une URL.
 
-## Obtenir des suggestions de mots-clés à partir d’une URL  {#get-keyword-suggestions-from-a-url}
+## Obtenir des suggestions de mots-clés à partir d&#39;une URL {#get-keyword-suggestions-from-a-url}
 
-1. Accédez à la section **Mots-clés** .
+1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Cliquez sur SUGGESTIONS **** GET.
+1. Cliquez sur **GET SUGGESTIONS**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
@@ -57,15 +57,15 @@ L’optimisation du référencement du marketing peut suggérer quels mots-clés
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Saisissez une **URL** et cliquez sur **SUGGEST KEYWORDS (SUGGÉRER LES MOTS-CLÉS**).
+1. Saisissez une **URL** et cliquez sur **SUGGEST KEYWORDS**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Saviez-vous que vous pouvez [ajouter votre mot-clé à une liste](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) nouvelle ou existante ici ?
+   >Saviez-vous que vous pouvez [ajouter votre mot-clé à une liste nouvelle ou existante](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ici ?
 
-1. Sélectionnez le ou les mots-clés suggérés. Cliquez sur **AJOUTER SÉLECTIONNÉ**.
+1. Sélectionnez le ou les mots-clés suggérés. Cliquez sur **AJOUTER SELECTED**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
