@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Il existe deux types de campagnes intelligentes : Lot et Déclencheur.
 
-## Campaign Batch Smart {#batch-smart-campaign}
+## Campaign Smart par lot {#batch-smart-campaign}
 
 >[!NOTE]
 >
@@ -27,14 +27,14 @@ Les campagnes dynamiques par lot ne comportent que des filtres dans la section d
 
 ![](assets/batch-filter.png)
 
-Cliquez sur l’onglet **Planifier** pour confirmer que la campagne dynamique est définie sur &quot;Lot&quot;.
+Cliquez sur l&#39;onglet **Planification** pour confirmer que la campagne dynamique est définie sur &quot;Lot&quot;.
 
 ![](assets/batch-c4.png)
 
 **Batch Smart Campaigns**
 
 * Peut être planifié pour des récurrences, telles que quotidiennes, hebdomadaires et mensuelles. Vous pouvez également les faire exécuter une seule fois.
-* Sont visibles sur la vue [de](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)Planning du programme.\
+* Sont visibles sur la [vue de Planning du programme](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md).\
    *Notez que tout élément après une étape &quot;Attendre&quot; dans la campagne intelligente ne sera pas inclus dans la vue.
 
 <br> 
@@ -51,7 +51,7 @@ Si une campagne intelligente utilise au moins un déclencheur dans la section li
 
 ![](assets/trigger.png)
 
-Cliquez sur l’onglet **Planifier** pour confirmer que la campagne dynamique est définie sur &quot;Déclenché&quot;.
+Cliquez sur l&#39;onglet **Planification** pour confirmer que la campagne dynamique est définie sur &quot;Déclenchée&quot;.
 
 ![](assets/trigger2.png)
 
@@ -60,11 +60,11 @@ Cliquez sur l’onglet **Planifier** pour confirmer que la campagne dynamique es
 * Impossible de planifier les répétitions. Ils ne peuvent être définis que sur principal ou inactif.
 * Vous pouvez définir plusieurs déclencheurs. Cependant, si un déclencheur est déclenché, les actions de campagne s&#39;exécuteront.
 
-## Regardez une vidéo sur la création de campagnes par courriel déclenchées. {#watch-a-video-on-creating-triggered-email-campaigns}
+## Regardez une vidéo sur la création de campagnes par courriel déclenchées {#watch-a-video-on-creating-triggered-email-campaigns}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
 >[!TIP]
 >
->Utilisez le journal [des](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) activités pour déterminer les étapes successives de vos campagnes intelligentes. Le journal des activités se trouve dans le dernier onglet de la page des détails d’une personne.
+>Utilisez le [journal des activités](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) pour déterminer ce qui s&#39;est passé pas à pas dans vos campagnes dynamiques. Le journal des activités se trouve dans le dernier onglet de la page des détails d’une personne.
 
