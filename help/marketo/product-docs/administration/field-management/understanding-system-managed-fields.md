@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présentation des champs gérés par le système {#understanding-system-managed-fields}
 
-Vous avez peut-être remarqué que la page [des détails de la](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) personne comporte une série de champs non modifiables créés par Marketo. Ces données proviennent de diverses sources, et il y a d&#39;innombrables valeurs qui pourraient s&#39;afficher.
+Vous avez peut-être remarqué que la [page des détails de la personne](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) comporte une série de champs non modifiables créés par Marketo. Ces données proviennent de diverses sources, et il y a d&#39;innombrables valeurs qui pourraient s&#39;afficher.
 
 ## Types de champ {#field-types}
 
@@ -35,7 +35,7 @@ Vous avez peut-être remarqué que la page [des détails de la](../../../product
 | Zone métropolitaine désignée | La meilleure estimation du marché (basée sur l&#39;IP) de la zone métropolitaine de la personne |
 | Code de zone de téléphone indiqué | La meilleure estimation du marché (basée sur l’adresse IP) de l’indicatif régional de la personne |
 
-## Valeurs possibles pour l’original et le type de source d’enregistrement {#possible-values-for-original-and-registration-source-type}
+## Valeurs possibles pour l&#39;original et le type de source d&#39;enregistrement {#possible-values-for-original-and-registration-source-type}
 
 Voici quelques valeurs possibles et ce qu&#39;elles signifient.
 
