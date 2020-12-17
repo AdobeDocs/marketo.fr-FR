@@ -16,7 +16,7 @@ Les étapes de flux indiquent à Marketing ce que vous souhaitez faire pour un g
 
 ## Ajouter une étape de flux
 
-1. Dans Activités marketing, sélectionnez votre campagne intelligente et cliquez sur **[!UICONTROL Flux]**.
+1. Dans [!UICONTROL Activités marketing], sélectionnez votre campagne intelligente et cliquez sur **[!UICONTROL Flux]**.
 
    ![Image un](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
@@ -26,7 +26,7 @@ Les étapes de flux indiquent à Marketing ce que vous souhaitez faire pour un g
 
 **Plongée profonde**
 
-En savoir plus sur les différentes étapes [de](http://docs.marketo.com/display/DOCS/Flow+Actions)flux.
+En savoir plus sur les différentes [étapes de flux](http://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Cliquez sur la liste déroulante et choisissez une option appropriée.
 
@@ -38,13 +38,13 @@ En savoir plus sur les différentes étapes [de](http://docs.marketo.com/display
 
 **Rappel**
 
-Les étapes de flux sont exécutées dans l’ordre dans lequel elles sont répertoriées. [Réorganisez les étapes](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) de flux pour vous assurer qu’elles se suivent bien.
+Les étapes de flux sont exécutées dans l’ordre dans lequel elles sont répertoriées. [Réorganisez les ](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) étapes de flux pour vous assurer qu’elles se suivent bien.
 
 >[!TIP]
 >
 >Une ligne rouge s’affiche en cas d’entrée non valide. Passez la souris sur la ligne pour voir comment la corriger.
 >
->Veillez à [examiner et valider la campagne](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) dynamique avant de la planifier ou de l’activer.
+>Veillez à [examiner et valider la campagne intelligente](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) avant de la planifier ou de l&#39;activer.
 
 ## Réorganiser les étapes de flux
 
