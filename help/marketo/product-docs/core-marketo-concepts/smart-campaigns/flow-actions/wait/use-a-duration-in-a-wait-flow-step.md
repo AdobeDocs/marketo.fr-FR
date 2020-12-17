@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Utilisation d’une durée dans une étape de flux d’attente {#use-a-duration-in-a-wait-flow-step}
+# Utiliser une durée dans une étape de flux d&#39;attente {#use-a-duration-in-a-wait-flow-step}
 
 Vous pouvez utiliser l’étape de flux d’attente pour interrompre le parcours d’une personne au cours d’une campagne dynamique pendant une certaine durée. Vous pouvez également spécifier des critères pour le jour de la semaine et l’heure de fin.
 
-1. Dans l’onglet **Flux** de campagne dynamique, faites glisser le pointeur de la souris sur l’étape de flux d’ **attente** .
+1. Dans l’onglet de votre campagne dynamique **Flux**, faites glisser la souris sur l’étape de flux **Attendre**.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -43,7 +43,7 @@ Vous pouvez utiliser l’étape de flux d’attente pour interrompre le parcours
    >Une personne déclenche une campagne intelligente le vendredi à 17h. L’étape d’attente est avancée : 48 heures et doit se terminer le lundi-vendredi à 9h.
    >
    >
-   >Il en résulterait que la personne continuerait dans le flux le **lundi à 9h00**. Il s&#39;agit de la première date M-F après 48 heures.
+   >Il en résulterait que la personne continuerait dans le flux le **lundi, 9h**. Il s&#39;agit de la première date M-F après 48 heures.
 
    >[!NOTE]
    >
