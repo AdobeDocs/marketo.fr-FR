@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Optimisation du référencement - Ajouter/supprimer des mots-clés d&#39;une Liste {#seo-add-remove-keywords-from-a-list}
+# SEO - Ajouter/supprimer des mots-clés d&#39;une Liste {#seo-add-remove-keywords-from-a-list}
 
 Vous pouvez garder tous vos mots-clés bien organisés en utilisant des listes. Cela facilitera la recherche de données sur des mots-clés spécifiques sous forme de secteurs.
 
 ## Ajouter à une Liste {#add-to-a-list}
 
-1. Accédez à la section **Mots-clés** .
+1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Passez la souris sur le mot-clé à ajouter à une liste. Cliquez sur **AJOUTER/SUPPRIMER DE LA LISTE**.
+1. Passez la souris sur le mot-clé à ajouter à une liste. Cliquez sur **AJOUTER/SUPPRIMER de la LISTE**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -41,11 +41,11 @@ Woohoo ! Sélectionnez votre liste pour afficher les nouveaux mots-clés.
 
 Vous pouvez également supprimer des mots-clés d&#39;une liste.
 
-1. Accédez à la section **Mots-clés** .
+1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Passez la souris sur le mot-clé à supprimer d’une liste. Cliquez sur **AJOUTER/SUPPRIMER DE LA LISTE**.
+1. Passez la souris sur le mot-clé à supprimer d’une liste. Cliquez sur **AJOUTER/SUPPRIMER de la LISTE**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
