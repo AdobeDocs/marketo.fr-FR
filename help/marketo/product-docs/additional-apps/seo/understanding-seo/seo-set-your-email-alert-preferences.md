@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez personnaliser vos préférences de courriel pour déterminer quand vous serez mis à jour sur vos efforts d’optimisation du référencement.
 
-1. Dans la barre de navigation supérieure, cliquez sur votre nom d’utilisateur. Cliquez sur Préférences **de** courriel.
+1. Dans la barre de navigation supérieure, cliquez sur votre nom d’utilisateur. Cliquez sur **Préférences de courriel**.
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
