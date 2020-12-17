@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Créer un utilisateur API uniquement {#create-an-api-only-user}
+# Créer une API utilisateur uniquement {#create-an-api-only-user}
 
-Si vous souhaitez intégrer Marketo via l’API [](http://developers.marketo.com/documentation/rest/)REST, vous devez créer un utilisateur d’API uniquement. Voici comment.
+Si vous souhaitez intégrer Marketo via l&#39;[API REST](http://developers.marketo.com/documentation/rest/), vous devez créer une API utilisateur uniquement. Voici comment.
 
 >[!PREREQUISITES]
 >
@@ -43,7 +43,7 @@ Si vous souhaitez intégrer Marketo via l’API [](http://developers.marketo.com
    >
    >Ajoutez un motif facultatif ou une date d&#39;expiration d&#39;accès. Les dates d&#39;expiration d&#39;accès sont pratiques pour les employés de courte durée.
 
-1. Sélectionnez le rôle **API uniquement** et cochez la case **API seulement** . Cliquez sur **Suivant**.
+1. Sélectionnez le rôle **API uniquement** et cochez la case **API seulement**. Cliquez sur **Suivant**.
 
    ![](assets/four.png)
 
