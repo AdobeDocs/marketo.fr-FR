@@ -17,11 +17,11 @@ Le canevas de ressources est une représentation visuelle de votre programme. Vo
 
 ## Ajouter des ressources {#adding-assets}
 
-Dans la zone Activités **** marketing, cliquez sur l’onglet **Ressources** . Choisissez l’un des actifs ci-dessous et ajoutez-les à votre programme.
+Dans la zone **Activités marketing**, cliquez sur l&#39;onglet **Ressources**. Choisissez l’un des actifs ci-dessous et ajoutez-les à votre programme.
 
 ![](assets/programassets.png)
 
-## Gérer votre Programme  {#manage-your-program}
+## Gérer votre Programme {#manage-your-program}
 
 Lorsqu’il y a des ressources dans votre programme, elles sont répertoriées ici.
 
