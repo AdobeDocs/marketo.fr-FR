@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Juillet 2013 {#release-notes-july}
 
-Les fonctionnalités suivantes sont incluses dans la version de juillet, qui doit être déployée le vendredi 26 juillet.  Veuillez vérifier la disponibilité de vos fonctionnalités dans [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Les fonctionnalités suivantes sont incluses dans la version de juillet, qui doit être déployée le vendredi 26 juillet.  Veuillez vérifier votre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
 
 Après la publication, n&#39;oubliez pas de consulter l&#39;onglet [Nouvelle version](release-notes-december-2013.md) de la Communauté pour obtenir des articles d&#39;aide détaillés pour chaque fonctionnalité !
 
@@ -29,7 +29,7 @@ Voulez-vous arrêter les pistes d&#39;e-mail ? Il est désormais facile de limit
 
 ![](assets/image2014-9-22-16-3a31-3a13.png)
 
-## Interface utilisateur de Cobalt {#cobalt-user-interface}
+## Cobalt User Interface {#cobalt-user-interface}
 
 Au cours des prochains mois, vous remarquerez que notre nouveau thème se déroulera dans différentes parties de l&#39;application. Aucune fonctionnalité ne sera déplacée ou supprimée.
 
