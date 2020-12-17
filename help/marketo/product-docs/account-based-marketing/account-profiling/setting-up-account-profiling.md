@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Suivez ces étapes pour début à l’aide du profilage de compte.
 
-1. Dans Mon marketing, ouvrez Marketing **basé sur** le compte.
+1. Dans Mon marketing, ouvrez **Marketing basé sur le compte**.
 
    ![](assets/one.png)
 
@@ -27,7 +27,7 @@ Suivez ces étapes pour début à l’aide du profilage de compte.
 
    ![](assets/three.png)
 
-1. Donnez un nom à votre modèle, choisissez qui sera inclus dans les résultats et qui servira de base au Profil client idéal (ICP). Lorsque vous avez terminé, cliquez sur **Créer un modèle** .
+1. Donnez un nom à votre modèle, choisissez qui sera inclus dans les résultats et qui servira de base au Profil client idéal (ICP). Cliquez sur **Créer un modèle** lorsque vous avez terminé.
 
    ![](assets/four.png)
 
@@ -35,7 +35,7 @@ Suivez ces étapes pour début à l’aide du profilage de compte.
 
    ![](assets/five.png)
 
-1. Pour afficher les résultats de votre modèle, cliquez sur **Voir Résultat** du modèle.
+1. Pour afficher les résultats de votre modèle, cliquez sur **Voir Résultat du modèle**.
 
    ![](assets/six.png)
 
@@ -45,5 +45,5 @@ Suivez ces étapes pour début à l’aide du profilage de compte.
 
    >[!TIP]
    >
-   >Maintenant que votre modèle est créé, découvrez comment l’ajuster dans la Présentation [du profilage de](http://docs.marketo.com/x/NIDv)compte.
+   >Maintenant que votre modèle est créé, découvrez comment l&#39;ajuster dans l&#39;[Aperçu du profilage de compte](http://docs.marketo.com/x/NIDv).
 
