@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Présentation des espaces de travail et des partitions de personne {#understanding-workspaces-and-person-partitions}
 
-## Workspaces {#workspaces}
+## Espaces de travail {#workspaces}
 
 >[!CAUTION]
 >
->Les espaces de travail peuvent être complexes à configurer.  Contactez l’assistance [](http://support.marketo.com/) marketingpour savoir s’ils vous conviennent.
+>Les espaces de travail peuvent être complexes à configurer.  Contactez le [Support marketing](http://support.marketo.com/) pour savoir s&#39;ils vous conviennent.
 
 Les espaces de travail sont des zones distinctes du marché qui contiennent des actifs marketing tels que des programmes, des landings page, des courriers électroniques, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque utilisateur a accès à un ou plusieurs espaces de travail.
 
@@ -40,7 +40,7 @@ Dans chaque cas, la séparation est due au fait que les actifs marketing sont co
 >
 >Découvrez comment créer [un nouvel espace de travail](create-a-new-workspace.md).
 
-## Partage entre les espaces de travail {#sharing-across-workspaces}
+## Partage entre espaces de travail {#sharing-across-workspaces}
 
 Voici comment partager des ressources entre différents espaces de travail. Il fonctionne de la même manière pour tout ce que vous souhaitez partager ; cet exemple montre les segmentations.
 
@@ -60,11 +60,11 @@ Voici comment partager des ressources entre différents espaces de travail. Il f
 
    ![](assets/three.png)
 
-1. Cliquez avec le bouton droit de la souris sur le dossier et sélectionnez **Partager le dossier**.
+1. Cliquez avec le bouton droit sur le dossier et sélectionnez **Partager le dossier**.
 
    ![](assets/four.png)
 
-1. Sélectionnez le ou les espaces de travail avec lesquels vous souhaitez partager le dossier, puis cliquez sur **Enregistrer**. La boîte de dialogue Partager le dossier affiche uniquement les espaces de travail autorisés à la vue.
+1. Sélectionnez le ou les espaces de travail avec lesquels partager le dossier, puis cliquez sur **Enregistrer**. La boîte de dialogue Partager le dossier affiche uniquement les espaces de travail autorisés à la vue.
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 
@@ -105,9 +105,9 @@ Pour déplacer des fichiers vers un nouvel espace de travail, placez-les dans un
 
 ## Partitions de personne {#person-partitions}
 
-Les partitions de personne agissent comme des bases de données distinctes. Chaque partition a ses propres personnes qui ne dédupliquent pas ou ne se mélangent pas avec d&#39;autres partitions. Si vous pensez que vous avez un cas d&#39;utilisation commerciale qui peut nécessiter la présence d&#39;enregistrements de duplicata avec la même adresse électronique, veuillez contacter l&#39;assistance [](http://support.marketo.com)marketing.
+Les partitions de personne agissent comme des bases de données distinctes. Chaque partition a ses propres personnes qui ne dédupliquent pas ou ne se mélangent pas avec d&#39;autres partitions. Si vous estimez que vous avez un cas d&#39;utilisation commerciale qui peut nécessiter l&#39;utilisation d&#39;enregistrements de duplicata avec la même adresse électronique, veuillez contacter le [Support marketing](http://support.marketo.com).
 
-Vous pouvez affecter des partitions de personne aux espaces de [travail](create-a-new-workspace.md) dans les configurations suivantes :
+Vous pouvez affecter des partitions de personne à [espaces de travail](create-a-new-workspace.md) dans les configurations suivantes :
 
 * un espace de travail à une partition individuelle (1:1)
 * un espace de travail pour plusieurs partitions (1:x)
@@ -134,5 +134,5 @@ Vous pouvez affecter des partitions de personne aux espaces de [travail](create-
 >
 >**Plongée profonde**
 >
-> Apprenez à [créer une partition](create-a-person-partition.md)de personne.
+> Découvrez comment [créer une partition de personne](create-a-person-partition.md).
 
