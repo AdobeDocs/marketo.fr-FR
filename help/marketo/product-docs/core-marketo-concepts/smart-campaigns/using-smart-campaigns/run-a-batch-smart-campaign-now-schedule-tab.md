@@ -5,7 +5,7 @@ title: Exécuter un Campaign par lots maintenant | Onglet Planification
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Une fois la création de votre campagne par lot terminée, vous pouvez choisir de l’exécuter maintenant ou ultérieurement. Voici comment le faire fonctionner immédiatement.
 
-1. Sélectionnez la campagne dynamique par lot, accédez à l’onglet **Planification** et cliquez sur **Exécuter une fois**.
+1. Sélectionnez la campagne par lot intelligente, accédez à l&#39;onglet **Planification** et cliquez sur **Exécuter une fois**.
 
    ![](assets/runcampaignnow-hands.png)
 
@@ -23,11 +23,11 @@ Une fois la création de votre campagne par lot terminée, vous pouvez choisir d
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
-1. Confirmez en cliquant une fois de plus sur **Exécuter** .
+1. Confirmez en cliquant une fois de plus sur **Exécuter**.
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   Facile, facile ! Vous pouvez également [planifier des exécutions pour plus tard](schedule-a-batch-smart-campaign-to-run-later.md) si vous le souhaitez.
+   Facile, facile ! Vous pouvez également [planifier des exécutions pour plus tard](schedule-a-batch-smart-campaign-to-run-later.md) si vous préférez.
 
    >[!NOTE]
    >
