@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Modifier la phase des recettes {#change-revenue-stage}
+# Modifier l&#39;état des recettes {#change-revenue-stage}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Si vous utilisez le module de modélisation de cycle de revenu et que vous disposez d&#39;un modèle approuvé, vous pouvez décider de déplacer les pistes manuellement d&#39;une étape à l&#39;autre. Cette étape de flux vous aidera.
 
@@ -25,7 +25,7 @@ Si vous utilisez le module de modélisation de cycle de revenu et que vous dispo
 
    ![](assets/image2014-9-22-17-3a5-3a4.png)
 
-1. Sélectionnez la **nouvelle étape** à attribuer et vous avez terminé !
+1. Sélectionnez la **nouvelle étape** que vous souhaitez affecter et vous avez terminé !
 
    ![](assets/image2014-9-22-17-5-8.png)
 
