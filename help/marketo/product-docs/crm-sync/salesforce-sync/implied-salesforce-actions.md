@@ -31,7 +31,7 @@ Ces règles s&#39;appliquent *lorsque la personne n&#39;est pas actuellement dan
   </tr> 
   <tr> 
    <td>Modifier le statut dans SFDC Campaign</td> 
-   <td>Synchroniser la personne avec<br>SFDCAdd avec SFDC Campaign</td> 
+   <td>Synchroniser la personne avec la DDC<br>Ajouter avec la DDC Campaign</td> 
   </tr> 
   <tr> 
    <td>Changer de propriétaire</td> 
@@ -48,8 +48,8 @@ Ces règles s&#39;appliquent *lorsque la personne n&#39;est pas actuellement dan
  </tbody> 
 </table>
 
-Vous pouvez filtrer les enregistrements SFDC dans une Liste dynamique à l’aide du filtre de type **** SFDC avec l’opérateur défini sur &quot;n’est pas vide&quot;. Tous les enregistrements de la DDC ont une valeur dans ce champ.
+Vous pouvez filtrer les enregistrements SFDC dans une Liste dynamique à l’aide du filtre **Type SFDC** avec l’opérateur défini sur &quot;n’est pas vide&quot;. Tous les enregistrements de la DDC ont une valeur dans ce champ.
 
-N&#39;oubliez pas que ces actions automatiques ne se produisent que si le prospect n&#39;est pas actuellement dans [Salesforce.com.](http://Salesforce.com)
+N&#39;oubliez pas que ces actions automatiques ne se produisent que si la piste n&#39;est pas actuellement dans [Salesforce.com](http://Salesforce.com)
 
 La synchronisation Salesforce est cool, non ?
