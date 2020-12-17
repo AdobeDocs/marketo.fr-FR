@@ -35,7 +35,7 @@ Utilisation de la hiérarchie
 >
 >L’interface de Marketo n’affiche que 10 niveaux inférieurs (comptes enfant et petit-enfant du compte parent), mais il n’y a pas de limite au nombre de comptes enfant que vous pouvez créer.
 
-Cible et création de rapports sur des hiérarchies entières en [un seul clic](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
+Cible et création de rapports sur des hiérarchies entières avec [un clic](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
 
 ![](assets/member.png)
 
