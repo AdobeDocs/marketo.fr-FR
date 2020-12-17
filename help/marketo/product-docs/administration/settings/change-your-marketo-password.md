@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Modifiez votre mot de passe Marketo en procédant comme suit.
 
-1. Tout utilisateur de Marketing peut cliquer sur son nom et sur **Mon compte**.
+1. Tout utilisateur de Marketing peut cliquer sur son nom et **Mon compte**.
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
-1. Les administrateurs peuvent également cliquer sur **Admin** , puis **Changer de mot de passe** pour modifier leur mot de passe d’administrateur.
+1. Les administrateurs peuvent également cliquer sur **Admin**, puis sur **Changer de mot de passe** pour modifier leur mot de passe d’administrateur.
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
@@ -31,5 +31,5 @@ Modifiez votre mot de passe Marketo en procédant comme suit.
 
    >[!TIP]
    >
-   >Quel est un bon mot de passe ? Quelque chose de long avec beaucoup de lettres, chiffres et symboles comme &quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Sauf que ce n&#39;est pas celui-là. Soyez créatifs et faites les vôtres.
+   >Quel est un bon mot de passe ? Quelque chose de long avec beaucoup de lettres, de chiffres et de symboles comme &quot; [[courriel protégé]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[courriel protégé]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Sauf que ce n&#39;est pas celui-là. Soyez créatifs et faites les vôtres.
 
