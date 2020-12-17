@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Téléchargement de la solution de gestion des pistes marketing {#download-the-marketo-lead-management-solution}
+# Télécharger la solution de gestion des pistes marketing {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Vous devrez télécharger et installer une solution Marketing dans votre compte 
 
 >[!CAUTION]
 >
->Il est impératif que vous téléchargiez la dernière solution Marketo *avant* d’effectuer une mise à niveau.
+>Il est impératif que vous téléchargiez la dernière solution Marketo *avant* de procéder à une mise à niveau.
 
 >[!NOTE]
 >
 >Actuellement, Marketo ne prend en charge que les certificats SSL compatibles avec Java 7.
 
-1. Accédez à la zone **Admin** .
+1. Accédez à la zone **Admin**.
 
    ![](assets/admin.png)
 
@@ -39,7 +39,7 @@ Vous devrez télécharger et installer une solution Marketing dans votre compte 
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. Sélectionnez **Télécharger la solution** marketing.
+1. Sélectionnez **Télécharger la solution marketing**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
