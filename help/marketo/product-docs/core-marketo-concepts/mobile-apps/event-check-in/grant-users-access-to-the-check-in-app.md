@@ -5,17 +5,17 @@ title: Octroi aux utilisateurs de l'accès à l'application d'archivage
 translation-type: tm+mt
 source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
 
 
-# Octroi aux utilisateurs de l&#39;accès à l&#39;application d&#39;archivage {#grant-users-access-to-the-check-in-app}
+# Accorder aux utilisateurs l&#39;accès à l&#39;application d&#39;archivage {#grant-users-access-to-the-check-in-app}
 
 Marketo a un rôle d&#39;utilisateur spécial pour l&#39;application d&#39;archivage de événements. Voici comment créer un nouveau rôle avec l’autorisation d’utiliser l’application.
 
-## Créer un nouveau rôle d’utilisateur pour Mobile {#create-a-new-user-role-for-mobile}
+## Créer un nouveau rôle d&#39;utilisateur pour Mobile {#create-a-new-user-role-for-mobile}
 
 1. Cliquez sur **Admin**.
 
@@ -25,19 +25,19 @@ Marketo a un rôle d&#39;utilisateur spécial pour l&#39;application d&#39;archi
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Cliquez sur l’onglet **Rôles** , puis sur **Nouveau rôle**.
+1. Cliquez sur l&#39;onglet **Rôles**, puis sur **Nouveau rôle**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Entrez un nom pour le nouveau rôle et une description facultative. Cochez la case Application **mobile** Access, puis cliquez sur **Créer**.
+1. Entrez un nom pour le nouveau rôle et une description facultative. Cochez la case **Accéder à l&#39;application mobile** et cliquez sur **Créer**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
    Le nouveau rôle est prêt à être attribué lorsque vous invitez les utilisateurs à utiliser l’application pour tablette.
 
-## Invitation de nouveaux utilisateurs pour l&#39;application d&#39;arrivée {#invite-new-users-for-the-check-in-app}
+## Invitation de nouveaux utilisateurs pour l&#39;application d&#39;archivage {#invite-new-users-for-the-check-in-app}
 
-1. Cliquez sur l’onglet **Utilisateurs** .
+1. Cliquez sur l&#39;onglet **Utilisateurs**.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
