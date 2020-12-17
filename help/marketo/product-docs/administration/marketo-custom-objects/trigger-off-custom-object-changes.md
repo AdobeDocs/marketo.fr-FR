@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Déclencher les modifications d’objet personnalisé {#trigger-off-custom-object-changes}
+# Déclencher les modifications d&#39;objet personnalisé {#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 >
 >
-Pour activer les déclencheurs de changement d&#39;objet personnalisé, contactez l&#39;assistance [](http://support.marketo.com) marketing.
+Veuillez contacter [Support marketing](http://support.marketo.com) pour activer les déclencheurs de modification d&#39;objet personnalisé.
 
-Dans la liste intelligente d’une campagne dynamique, vous pouvez déclencher une action d’enchaînement lorsqu’un objet personnalisé est ajouté à une personne ou à une société. Vous pouvez également créer une liste dynamique qui utilise une *modification* dans un objet personnalisé comme déclencheur. Par exemple, utilisez-la pour envoyer un courriel lorsqu’un nom de cours est mis à jour.
+Dans la liste intelligente d’une campagne dynamique, vous pouvez déclencher une action d’enchaînement lorsqu’un objet personnalisé est ajouté à une personne ou à une société. Vous pouvez également créer une liste dynamique qui utilise comme déclencheur *change* dans un objet personnalisé. Par exemple, utilisez-la pour envoyer un courriel lorsqu’un nom de cours est mis à jour.
 
 >[!NOTE]
 >
 >Aucune entrée de journal d&#39;activité n&#39;est créée lorsqu&#39;un enregistrement d&#39;objet personnalisé est modifié.
 
-1. Dans Marketo, accédez à Activités **marketing.**
+1. Dans Marketo, accédez à **Activités marketing.**
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 
