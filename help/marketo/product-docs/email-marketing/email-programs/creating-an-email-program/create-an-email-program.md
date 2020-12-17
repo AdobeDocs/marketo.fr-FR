@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Créer un Programme de messagerie {#create-an-email-program}
+# Créer un Programme de courriel {#create-an-email-program}
 
 Utilisez les programmes de messagerie pour envoyer rapidement et facilement un courriel à un groupe de personnes.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/one.png)
 
-1. Sélectionnez le dossier dans lequel vous souhaitez créer le programme, cliquez sur la liste déroulante **Nouveau** , puis sélectionnez **Nouveau Programme**.
+1. Sélectionnez le dossier dans lequel vous souhaitez créer le programme, cliquez sur la liste déroulante **Nouveau**, puis sélectionnez **Nouveau Programme**.
 
    ![](assets/two.png)
 
@@ -29,13 +29,13 @@ Utilisez les programmes de messagerie pour envoyer rapidement et facilement un c
 
    >[!NOTE]
    >
-   >Lorsque vous sélectionnez **Courriel** comme type de Programme, le Canal est automatiquement défini sur Envoyer **par** courriel. Vous pouvez le modifier si vous le souhaitez.
+   >Lorsque vous sélectionnez **E-mail** comme type de Programme, le Canal est automatiquement défini sur **Envoyer par courriel**. Vous pouvez le modifier si vous le souhaitez.
 
    ![](assets/four.png)
 
 Sympa ! Remarquez que le programme est maintenant dans l&#39;arbre et prêt à être utilisé. L&#39;étape suivante sera de définir votre audience. Reportez-vous aux articles connexes au marketing ci-dessous.
 
-## Regarder une vidéo {#watch-a-video}
+## Visionnage d’une vidéo {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
