@@ -47,13 +47,13 @@ La **carte Pistes acquises **vous présente un rapport de tendance mensuelle sur
 
 ## Nouvelles pistes {#new-leads}
 
-La carte **Nouvelles pistes** vous montre un rapport de tendance d&#39;un mois à l&#39;autre du nombre total de nouvelles pistes dans votre instance au cours des six derniers mois.
+La carte **Nouvelles pistes** présente un rapport de tendance mois par mois du nombre total de nouvelles pistes dans votre instance au cours des six derniers mois.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Désabonnements {#unsubscribes}
+## Désabonne {#unsubscribes}
 
-La carte **Unsubscribes** vous montre un rapport de tendance mois par mois de votre taux de désabonnement au cours des six derniers mois.
+La carte **Unsubscribes** présente un rapport de tendance de mois en mois de votre taux de désabonnement au cours des six derniers mois.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
