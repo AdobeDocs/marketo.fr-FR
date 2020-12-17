@@ -17,7 +17,7 @@ Les fonctionnalités suivantes sont incluses dans la version de décembre 2014. 
 
 ## Rapports Sales Insight {#sales-insight-reports}
 
-Le rapport [Performances des courriels](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) Sales Insight vous permet d&#39;afficher les mesures des courriels par courriel et par représentant commercial. Il prend en charge les courriers électroniques envoyés par l&#39;intermédiaire de Salesforce, Microsoft Dynamics, le module Outlook et le module Gmail.
+Le [Rapport de performances des e-mails Sales Insight](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) vous permet d&#39;afficher les mesures des e-mails par courriel et par représentant commercial. Il prend en charge les courriers électroniques envoyés par l&#39;intermédiaire de Salesforce, Microsoft Dynamics, le module Outlook et le module Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ Le rapport [Performances des courriels](../../product-docs/marketo-sales-insight
 
 ## Audiences Facebook personnalisées {#facebook-custom-audiences}
 
-Une fois que l’administrateur de Marketo a ajouté [Facebook via Admin > Point de lancement](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), vous pouvez facilement créer, mettre à jour ou [remplacer une Audience personnalisée Facebook par des pistes provenant d’une liste](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)statique ou intelligente de Marketo. Recherchez la nouvelle icône Facebook au bas de la grille de tête de toute liste statique ou intelligente.
+Une fois que votre administrateur Marketo a ajouté [Facebook via Admin > Point de lancement](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), vous pouvez facilement créer, mettre à jour ou [remplacer une Audience personnalisée Facebook par des pistes provenant d’une liste statique ou intelligente Marketo](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Recherchez la nouvelle icône Facebook au bas de la grille de tête de toute liste statique ou intelligente.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
-## Amélioration du clonage entre les espaces de travail  {#improved-cloning-across-workspaces}
+## Amélioration du clonage entre les espaces de travail {#improved-cloning-across-workspaces}
 
-[Le clonage d&#39;un programme](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) à un autre espace de travail n&#39;a jamais été aussi facile ! Lorsque vous cliquez sur cloner, vous sélectionnez l’espace de travail de destination. Plus de clonage dans un dossier, puis de déplacement du dossier !
+[Le clonage d&#39;un ](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) programme dans un autre espace de travail n&#39;a jamais été aussi facile ! Lorsque vous cliquez sur cloner, vous sélectionnez l’espace de travail de destination. Plus de clonage dans un dossier, puis de déplacement du dossier !
 
 >[!NOTE]
 >
@@ -39,15 +39,15 @@ Une fois que l’administrateur de Marketo a ajouté [Facebook via Admin > Point
 
 ![](assets/image2014-12-5-11-3a7-3a13.png)
 
-## Liste intelligente de référence {#reference-smart-list}
+## Référence - Liste intelligente {#reference-smart-list}
 
-[Les listes dynamiques partagées avec un autre espace de travail peuvent être](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)référencées lors de la création d’une liste ou d’un flux dynamique.
+[Les listes dynamiques partagées avec un autre espace de travail peuvent être ](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)référencées lors de la création d’une liste ou d’un flux dynamique.
 
 ## Améliorations de l&#39;importation des listes {#list-import-improvements}
 
-[Importez des fichiers](../../getting-started/quick-wins/import-a-list-of-people.md) codés en UTF-16, Shift-JIS ou EUC-JP. Nous continuons à prendre en charge les fichiers codés UTF-8.
+[Importez ](../../getting-started/quick-wins/import-a-list-of-people.md) des fichiers codés en UTF-16, Shift-JIS ou EUC-JP. Nous continuons à prendre en charge les fichiers codés UTF-8.
 
-## Suivi des liens dans les scripts de courrier électronique {#link-tracking-in-email-scripting}
+## Suivi des liens dans les scripts de courriel {#link-tracking-in-email-scripting}
 
 Les liens dans les scripts de courrier électronique seront désormais suivis et disponibles dans le rapport Performance des liens de courrier électronique.
 
@@ -55,7 +55,7 @@ Les liens dans les scripts de courrier électronique seront désormais suivis et
 
 Nous avons déployé une nouvelle fonctionnalité de sécurité pour coder automatiquement des jetons HTML, qui sera activée par défaut en mars 2015. En attendant, basculez cette fonctionnalité dans Gestion des champs pour tester le comportement à l’avance. Tous les jetons de piste et de société seront codés lorsqu&#39;ils seront insérés dans des e-mails ou des landings page. Des options seront également disponibles pour les champs individuels.
 
-## Nouveaux appels d’API ReST {#new-rest-api-calls}
+## Nouveaux appels d&#39;API ReST {#new-rest-api-calls}
 
 Trois nouveaux appels pour l&#39;API ReST de piste et d&#39;Activité :
 
@@ -65,7 +65,7 @@ Trois nouveaux appels pour l&#39;API ReST de piste et d&#39;Activité :
 
 ・ Fusionner la piste
 
-Les détails complets seront disponibles après la publication sur [developpeurs.marketo.com](http://developers.marketo.com/)
+Les détails complets seront disponibles après la publication à l’adresse [developpeurs.marketo.com](http://developers.marketo.com/).
 
 ## Améliorations de la compatibilité Javascript de Munchkin {#munchkin-javascript-compatibility-enhancements}
 
@@ -73,7 +73,7 @@ Nous avons apporté plusieurs améliorations mineures à Munchkin pour nous assu
 
 Le déploiement débutera à la mi-décembre et se poursuivra au cours des prochains mois.
 
-## Aspect mis à niveau de l’explorateur de recettes {#revenue-explorer-upgraded-look-and-feel}
+## Revenus Explorer - Représentation et ressenti mis à niveau {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
