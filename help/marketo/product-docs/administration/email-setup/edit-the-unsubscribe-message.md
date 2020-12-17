@@ -36,7 +36,7 @@ Lorsque vous envoyez des courriels marketing (non [opérationnels](../../../prod
    >    * **mkt_unsubscription=1&amp;mkt_tok=##MKT_TOK##**
 
 
-1. Modifiez les versions HTML **** Désabonner et Texte **** Désabonner à votre convenance, puis cliquez sur **Enregistrer les modifications**.
+1. Modifiez les versions **Désabonner HTML** et **Désabonner le texte** à votre convenance et cliquez sur **Enregistrer les modifications**.
 
    ![](assets/image2016-8-26-13-3a40-3a55.png)
 
@@ -51,7 +51,7 @@ Lorsque vous envoyez des courriels marketing (non [opérationnels](../../../prod
 Si vous devez revenir au système par défaut de désabonnement, copiez/collez les éléments suivants :
 
 Désabonner HTML :
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Désabonner le texte :
+`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Texte de désabonnement :
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
 >[!MORELIKETHIS]
