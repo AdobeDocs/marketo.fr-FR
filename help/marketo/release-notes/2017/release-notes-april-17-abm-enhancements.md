@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Notes de mise à jour : Améliorations apportées au module ABM le 17 avril {#release-notes-april-abm-enhancements}
+# Notes de mise à jour : Améliorations d&#39;ABM {#release-notes-april-abm-enhancements} avril 2017
 
 Les fonctionnalités suivantes sont incluses dans la version améliorée d’ABM du 17 avril. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
 
