@@ -17,13 +17,13 @@ Les mots-clés sont des expressions que les visiteurs saisissent dans les moteur
 
 >[!NOTE]
 >
->Si vous avez beaucoup de mots-clés, vous pouvez les [importer avec un fichier](seo-importing-keywords-with-a-csv.md)CSV.
+>Si vous avez beaucoup de mots-clés, vous pouvez [les importer avec un fichier CSV](seo-importing-keywords-with-a-csv.md).
 
-1. Accédez à la section **Mots-clés** .
+1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Saisissez les mots-clés à cible et cliquez sur **ENREGISTRER**.
+1. Saisissez les mots-clés à cible et cliquez sur **SAVE**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
