@@ -19,11 +19,11 @@ Vous souhaitez peut-être savoir à quels champs Salesforce un champ Marketo sp�
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à **Admin** et cliquez sur Gestion des **** champs.
+1. Accédez à **Admin** et cliquez sur **Gestion des champs**.
 
    ![](assets/image2014-9-19-9-3a54-3a26.png)
 
-1. Recherchez le champ qui vous intéresse et cliquez sur le **+** pour développer le mappage.
+1. Recherchez le champ qui vous intéresse et cliquez sur **+** pour développer le mappage.
 
    ![](assets/image2014-9-19-9-3a54-3a34.png)
 
