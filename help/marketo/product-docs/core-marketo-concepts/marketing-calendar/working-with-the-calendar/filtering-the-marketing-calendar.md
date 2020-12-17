@@ -19,11 +19,11 @@ Utilisez les types d&#39;entrée, les balises de programme ou les espaces de tra
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Cliquez sur la liste **déroulante** Type **d’entrée** .
+1. Cliquez sur la liste déroulante **Entrée** **Type**.
 
    >[!NOTE]
    >
-   >Les types d’entrée par défaut sont **E-mail** **Programmes** et **Smart** **Campaigns avec.**********
+   >Les types d’entrée par défaut sont **Courriel** **Programmes** et **Intelligent** **Campagnes** **avec** **E-mail**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ Utilisez les types d&#39;entrée, les balises de programme ou les espaces de tra
 
    >[!TIP]
    >
-   >Pour obtenir la description des types d&#39;entrée standard, extrayez les types [d&#39;entrée de Vue de](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)Planning du programme.
+   >Pour obtenir la description des types d&#39;entrée standard, consultez [Planning du programme Vue Entry Types](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Sélectionnez les balises de programme qui vous intéressent.
 
