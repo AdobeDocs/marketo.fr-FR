@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation du module externe Account Insight {#account-insight-plug-in-overview}
+# Aperçu du module externe Account Insight {#account-insight-plug-in-overview}
 
 Account Insight est un module complémentaire Chrome qui permet de mettre en oeuvre des fonctions ABM exploitables et d&#39;analyser les comptes auprès de vos équipes commerciales, ce qui leur permet d&#39;engager des comptes plus efficacement.
 
@@ -23,7 +23,7 @@ Account Insight est un module complémentaire Chrome qui permet de mettre en oeu
 
 >[!CAUTION]
 >
->Le plug-in Account Insight ne fonctionnera pas dans les abonnements pour lesquels la fonction [SSO uniquement](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (authentification unique) est activée.
+>Le plug-in Account Insight ne fonctionnera pas dans les abonnements où [SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (authentification unique) est activé.
 >
 >Le contexte CRM fonctionne pour Salesforce lors du lancement du module externe à partir d’un compte, d’une piste ou d’un contact. Le contexte CRM ne fonctionne pas pour Dynamics lors du lancement du module externe à partir d&#39;un compte, d&#39;une piste ou d&#39;un contact. Pour les utilisateurs de Dynamics, nous vous recommandons d’utiliser le module externe Account Insight.
 
