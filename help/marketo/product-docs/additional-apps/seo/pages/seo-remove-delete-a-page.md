@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Voulez-vous supprimer une page ? Pas de sueur, voici comment :
 
-1. Accédez à la section **Pages** .
+1. Accédez à la section **Pages**.
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. Dans l’onglet Pages, passez la souris sur la page à supprimer, cliquez sur **DELETE**, puis sur **SUPPRIMER**.
+1. Dans l’onglet des pages, passez la souris sur la page à supprimer, cliquez sur **DELETE**, puis sur **SUPPRIMER**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 
