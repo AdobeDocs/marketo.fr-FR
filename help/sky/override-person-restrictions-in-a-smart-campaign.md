@@ -18,13 +18,13 @@ Marketo vous permet de définir le nombre maximal de personnes pouvant bénéfic
 
 >[!IMPORTANT]
 >
->Veillez à [activer les restrictions de personnes pour les campagnes](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) dynamiques dans [!UICONTROL l’administrateur]de Marketing Cloud.
+>Veillez à [activer les restrictions de personne pour les campagnes intelligentes](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) dans Marketo [!UICONTROL Admin].
 
-1. Recherchez votre campagne intelligente et cliquez sur **[!UICONTROL Planifier]**.
+1. Recherchez votre campagne intelligente et cliquez sur **[!UICONTROL Planification]**.
 
    ![Image un](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. Cliquez sur Règles **[!UICONTROL de]** qualification.
+1. Cliquez sur **[!UICONTROL Règles de qualification]**.
 
    ![Image 2](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
