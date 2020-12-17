@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # SEO - Obtenir des suggestions de liens entrants {#seo-get-inbound-link-suggestions}
 
-Marketo peut vous suggérer les liens entrants qui sont utiles à votre optimisation [](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)hors page.
+Marketo peut suggérer quels liens entrants sont utiles à votre [optimisation hors page](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
-1. Accédez à la section Liens **** entrants.
+1. Accédez à la section **Liens entrants**.
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
-1. Cliquez sur SUGGESTIONS **** GET.
+1. Cliquez sur **GET SUGGESTIONS**.
 
    ![](assets/image2014-9-18-13-3a21-3a8.png)
 
-1. Entrez un mot-clé. Cliquez sur **SUGGÉRER DES LIENS**.
+1. Entrez un mot-clé. Cliquez sur **SUGGEST LINKS**.
 
    ![](assets/image2014-9-18-13-3a21-3a31.png)
 
-1. Sélectionnez les liens. Cliquez sur **AJOUTER SÉLECTIONNÉ**.
+1. Sélectionnez les liens. Cliquez sur **AJOUTER SELECTED**.
 
    ![](assets/image2014-9-18-13-3a21-3a40.png)
 
    >[!TIP]
    >
-   >Saviez-vous que vous pouvez [ajouter votre lien à une liste](seo-add-remove-an-inbound-link-url-from-a-list.md)nouvelle ou existante ? Regardez !
+   >Saviez-vous que vous pouvez [ajouter votre lien à une liste nouvelle ou existante](seo-add-remove-an-inbound-link-url-from-a-list.md) ? Regardez !
 
 1. Super ! Ces liens ajoutés seront désormais suivis.
 
