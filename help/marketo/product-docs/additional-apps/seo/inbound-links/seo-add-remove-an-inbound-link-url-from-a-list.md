@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - Ajouter/supprimer une URL de lien entrant d’une Liste {#seo-add-remove-an-inbound-link-url-from-a-list}
+# SEO - Ajouter/supprimer une URL de lien entrant d&#39;une Liste {#seo-add-remove-an-inbound-link-url-from-a-list}
 
 Vous pouvez organiser les URL des liens entrants vers le contenu de votre coeur.
 
@@ -33,7 +33,7 @@ Vous pouvez organiser les URL des liens entrants vers le contenu de votre coeur.
 >
 >Vous pouvez également créer une nouvelle liste pour votre mot-clé. Il vous suffit de taper votre nom dans Créer une nouvelle liste.
 
-## Suppression d’une URL de lien entrant d’une Liste {#remove-an-inbound-link-url-from-a-list}
+## Supprimer une URL de lien entrant d&#39;une Liste {#remove-an-inbound-link-url-from-a-list}
 
 1. Il peut arriver que vous souhaitiez supprimer une URL de lien d’entrée d’une liste.
 
