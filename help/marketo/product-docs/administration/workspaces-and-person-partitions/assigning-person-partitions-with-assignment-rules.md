@@ -35,7 +35,7 @@ Lors de l’utilisation de partitions de personne, configurez des règles d’af
 
 ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. Sous l&#39;onglet **Partitions de personnes **, cliquez sur Règles **d&#39;** affectation.
+1. Sous l&#39;onglet **Partitions de personnes **, cliquez sur **Règles d&#39;affectation**.
 
    ![](assets/two-6.png)
 
