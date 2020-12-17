@@ -17,8 +17,8 @@ Les fonctionnalités suivantes sont incluses dans la version de juin 2015. Veuil
 
 ## [Rapport d’attribution de courriel](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)  {#attribution-email-report}
 
-Consultez la personnalisation des valeurs et le contenu recommandé fourni à vos activités marketing. [Le rapport](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Courrier électronique d’attribution affiche les pistes directes et assistées attribuées à la personnalisation de RTP et aux campagnes de contenu recommandées. Dans les rapports RTP, Paramètres utilisateur et Envoyer le rapport par courriel, ajoutez le rapport d’attribution par courriel pour recevoir des courriers électroniques mensuels ou trimestriels.
+Consultez la personnalisation des valeurs et le contenu recommandé fourni à vos activités marketing. [Ce ](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) rapport affiche les pistes directes et assistées attribuées à la personnalisation de RTP et aux campagnes de contenu recommandées. Dans les rapports RTP, Paramètres utilisateur et Envoyer le rapport par courriel, ajoutez le rapport d’attribution par courriel pour recevoir des courriers électroniques mensuels ou trimestriels.
 
 ## Vous voulez influencer notre feuille de route ? {#want-to-influence-our-roadmap}
 
-Marqueur de note avec cette carte [de rapport](https://www.surveymonkey.com/s/VG9YCT5)rapide. Nous utilisons votre contribution pour aider à planifier 2016 et au-delà !
+Marketo avec cette [carte de rapport rapide](https://www.surveymonkey.com/s/VG9YCT5). Nous utilisons votre contribution pour aider à planifier 2016 et au-delà !
