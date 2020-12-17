@@ -55,6 +55,6 @@ Après avoir [créé votre script de courrier électronique,](create-an-email-sc
 >
 >**Rappel**
 >
->N&#39;oubliez pas d&#39; [approuver le courriel](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>N&#39;oubliez pas [d&#39;approuver le courriel](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
 C&#39;est tout ! Lorsque ce courrier électronique est envoyé, le script derrière le jeton s’exécute et remplit le contenu.
