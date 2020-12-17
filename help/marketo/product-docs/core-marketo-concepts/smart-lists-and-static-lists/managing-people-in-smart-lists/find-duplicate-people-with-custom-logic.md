@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Rechercher des personnes Duplicata avec une logique personnalisée {#find-duplicate-people-with-custom-logic}
+# Rechercher des Duplicata avec une logique personnalisée {#find-duplicate-people-with-custom-logic}
 
 Marketo dispose d&#39;une liste intelligente système qui recherche les duplicata en faisant correspondre leurs adresses électroniques. Si vous voulez utiliser un autre champ pour trouver des duplicata, voici comment.
 
