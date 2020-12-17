@@ -15,12 +15,12 @@ ht-degree: 0%
 
 Testez vos courriels pour améliorer leur score d’engagement. Il existe deux types de tests de courrier électronique dans Marketo.
 
-## Tests A/B {#a-b-testing}
+## Test A/B {#a-b-testing}
 
-Il s’agit des courriers électroniques uniques utilisant des programmes [de](http://docs.marketo.com/display/docs/email+programs)courriel. Ajoutez les tests [](add-an-a-b-test.md) A/B et un petit groupe obtiendra le test et le reste obtiendra le gagnant.
+Il s’agit de courriers électroniques uniques utilisant [des programmes de courriel](http://docs.marketo.com/display/docs/email+programs). Ajoutez [Test A/B](add-an-a-b-test.md) et un petit groupe obtiendra le test et le reste obtiendra le gagnant.
 
-## Champion de messagerie/Challenger {#email-champion-challenger}
+## Courriel Champion/Challenger {#email-champion-challenger}
 
-Pour les courriers électroniques en cours utilisés pour déclencher des campagnes actives ou des programmes [d’](http://docs.marketo.com/display/docs/drip+nurturing)engagement, vous pouvez ajouter des tests de champion/challenger [par courriel](http://docs.marketo.com/pages/viewpage.action?pageid=2359551) . Cela va introduire des variations à un pourcentage continu de destinataires.
+Pour les courriers électroniques en cours utilisés dans les campagnes déclencheurs dynamiques ou les [programmes d&#39;engagement](http://docs.marketo.com/display/docs/drip+nurturing), vous pouvez ajouter [champion/challenger](http://docs.marketo.com/pages/viewpage.action?pageid=2359551) de &lt;a2/>courriel. Cela va introduire des variations à un pourcentage continu de destinataires.
 
 Bon test !
