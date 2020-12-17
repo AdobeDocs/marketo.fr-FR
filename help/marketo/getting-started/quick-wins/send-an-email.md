@@ -19,17 +19,17 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 >
 >[Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-## Créer un Programme de messagerie {#create-an-email-program}
+## Créer un Programme de courriel {#create-an-email-program}
 
-1. Accédez à la zone Activités **** marketing.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/one-1.png)
 
-1. Sélectionnez votre dossier **Apprentissage** . Cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouveau Programme**.
+1. Sélectionnez votre dossier **Apprentissage**. Cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouveau Programme**.
 
    ![](assets/two-1.png)
 
-1. Saisissez un **nom** et sélectionnez **Courriel** pour le type de **Programme.**
+1. Saisissez un **nom** et sélectionnez **Courriel** pour **Type de Programme.**
 
    >[!TIP]
    >
@@ -37,13 +37,13 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 
    ![](assets/three.png)
 
-1. Sous **Canal**, sélectionnez Envoyer **par** courriel et cliquez sur **Créer**.
+1. Sous **Canal**, sélectionnez **Envoyer par courriel** et cliquez sur **Créer**.
 
    ![](assets/image2015-3-2-16-3a25-3a18.png)
 
-## Définir votre Audience {#define-your-audience}
+## Définissez votre Audience {#define-your-audience}
 
-1. Cliquez sur **Modifier la Liste** dynamique sous la mosaïque Audience.
+1. Cliquez sur **Modifier la Liste dynamique** sous la mosaïque Audience.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 
    >[!TIP]
    >
-   >Utilisez **Search** en haut de la liste de Filtres pour trouver le filtre plus facilement.
+   >Utilisez **Rechercher** en haut de la liste de Filtres pour trouver le filtre plus facilement.
 
 1. Recherchez et sélectionnez votre adresse électronique.
 
@@ -61,7 +61,7 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 
    >[!NOTE]
    >
-   >Si votre courriel n&#39;est pas renseigné automatiquement, vous avez peut-être oublié de [configurer et d&#39;Ajouter une piste.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+   >Si votre adresse électronique n&#39;est pas renseignée automatiquement, vous avez peut-être oublié de [Configurer et Ajouter une piste.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
@@ -89,7 +89,7 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 
    >[!NOTE]
    >
-   >Si vous disposez d’un bloqueur de fenêtres contextuelles, cliquez sur **Modifier le brouillon** pour entrer dans l’éditeur de courrier électronique.
+   >Si vous avez un bloqueur de fenêtres contextuelles, cliquez sur **Modifier le brouillon** pour entrer dans l’éditeur de courrier électronique.
 
 1. Sélectionnez la zone à modifier, cliquez sur l&#39;icône d&#39;engrenage à droite, puis sélectionnez **Modifier** (vous pouvez également cliquer sur la section modifiable en doublon pour la modifier).
 
@@ -103,19 +103,19 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 
    ![](assets/fourteen.png)
 
-1. Cliquez sur la liste déroulante Actions **de** courriel et sélectionnez **Approuver**.
+1. Cliquez sur la liste déroulante **Actions de courriel** et sélectionnez **Approuver**.
 
    ![](assets/fifteen.png)
 
    >[!TIP]
    >
-   >Souhaitez-vous envoyer un échantillon rapide pour voir à quoi ressemble votre courriel avant de le lancer ? Sélectionnez **Envoyer l’exemple** dans le menu ci-dessus ou cliquez sur Actions **par** courriel, puis [**Envoyer l’exemple**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
+   >Souhaitez-vous envoyer un échantillon rapide pour voir à quoi ressemble votre courriel avant de le lancer ? Sélectionnez **Envoyer l’échantillon** dans le menu ci-dessus, ou cliquez sur **Actions de courriel** puis [**Envoyer l’échantillon**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
 
 1. Sélectionnez le Programme de courriel dans l’arborescence de gauche.
 
    ![](assets/sixteen.png)
 
-1. Sous la mosaïque Planification, définissez le jour de lancement du courrier électronique sur **Aujourd’hui.**
+1. Sous la mosaïque Planification, définissez le jour de lancement du courrier électronique sur **Aujourd&#39;hui.**
 
    ![](assets/image2014-9-8-15-3a13-3a11.png)
 
@@ -125,9 +125,9 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail dep
 
    >[!TIP]
    >
-   >Le fuseau horaire par défaut n&#39;est-il pas le vôtre ? Découvrez comment le [mettre à jour ici](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
+   >Le fuseau horaire par défaut n&#39;est-il pas le vôtre ? Découvrez comment [mettre à jour ](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) ici.
 
-1. Cliquez sur **Approuver le Programme** sous le volet Approbation et vous avez terminé !
+1. Cliquez sur **Approuver le Programme** sous la mosaïque Approbation et vous avez terminé !
 
    ![](assets/image2014-9-8-15-3a13-3a34.png)
 
@@ -135,6 +135,6 @@ Vous devriez recevoir le courriel peu après le jour/heure planifié.
 
 <br> 
 
-[et Ajouter une piste](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[ et Ajouter une piste](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 [landing page avec un formulaire ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
