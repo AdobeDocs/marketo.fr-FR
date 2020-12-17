@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Utilisation d’une date spécifique dans une étape de flux d’attente {#use-a-specific-date-in-a-wait-flow-step}
+# Utiliser une date spécifique dans une étape de flux d&#39;attente {#use-a-specific-date-in-a-wait-flow-step}
 
-Vous pouvez utiliser l’étape de flux d’ **attente** pour mettre en pause le parcours d’une personne au cours d’une campagne dynamique jusqu’à une date spécifique.
+Vous pouvez utiliser l’étape de flux **Attendre** pour interrompre le parcours d’une personne au cours d’une campagne dynamique jusqu’à une date spécifique.
 
-1. Dans l’onglet **Flux** de campagne dynamique, faites glisser le pointeur de la souris sur l’étape de flux d’ **attente** .
+1. Dans l’onglet de votre campagne dynamique **Flux**, faites glisser la souris sur l’étape de flux **Attendre**.
 
    ![](assets/image2014-9-22-11-3a50-3a55.png)
 
