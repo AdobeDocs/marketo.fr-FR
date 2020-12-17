@@ -32,7 +32,7 @@ Vous pouvez créer des campagnes dynamiques par lot directement dans le calendri
    >
    >Vous pouvez également suivre les étapes similaires pour créer une campagne par lot intelligente à partir des vues Jour, Semaine ou Ordre du jour.
 
-1. Entrez un nom pour votre nouvelle campagne intelligente, puis remplacez **[!UICONTROL Type]** par [!UICONTROL Smart Campaign]. Vous pouvez également modifier la date **[!UICONTROL du]** Début et décocher la case **[!UICONTROL Ouvrir dans la Vue]** de l&#39;ordre du jour si vous souhaitez rester dans le calendrier après avoir créé l&#39;entrée. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Entrez un nom pour votre nouvelle campagne intelligente, puis remplacez **[!UICONTROL Type]** par [!UICONTROL Campaign dynamique]. Vous pouvez également modifier la **[!UICONTROL date du Début]** et décocher **[!UICONTROL Ouvrir dans la Vue de l&#39;ordre du jour]** si vous souhaitez rester dans le calendrier après avoir créé l&#39;entrée. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![Image trois](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-3.png)
 
