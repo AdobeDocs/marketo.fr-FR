@@ -19,11 +19,11 @@ Ajoutez des champs personnalisés aux comptes, mappez-les à votre gestion de la
 
    ![](assets/admin.png)
 
-1. Cliquez sur Gestion des **** champs, puis sur **Nouveau champ** personnalisé.
+1. Cliquez sur **Gestion des champs**, puis **Nouveau champ personnalisé**.
 
    ![](assets/two-4.png)
 
-1. Cliquez sur la liste déroulante **Objet** et sélectionnez Compte **** nommé.
+1. Cliquez sur la liste déroulante **Objet** et sélectionnez **Compte nommé**.
 
    ![](assets/three-3.png)
 
@@ -35,11 +35,11 @@ Ajoutez des champs personnalisés aux comptes, mappez-les à votre gestion de la
 
    ![](assets/five-3.png)
 
-1. Une fois le champ créé, sélectionnez-le dans l’arborescence de droite. Cliquez sur la liste déroulante Actions **de** champ et sélectionnez **Associer au champ** CRM.
+1. Une fois le champ créé, sélectionnez-le dans l’arborescence de droite. Cliquez sur la liste déroulante **Actions de champ** et sélectionnez **Associer au champ CRM**.
 
    ![](assets/six-2.png)
 
-1. Sélectionnez le champ du compte CRM auquel vous souhaitez mapper, puis cliquez sur **Enregistrer**.
+1. Sélectionnez le champ du compte CRM auquel vous souhaitez mapper et cliquez sur **Enregistrer**.
 
    ![](assets/seven-1.png)
 
