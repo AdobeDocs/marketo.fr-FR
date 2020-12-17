@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Champion/Challenger : Configuration des alertes de rapport {#champion-challenger-configure-report-alerts}
+# Champion/Challenger : Configurer les alertes de rapport {#champion-challenger-configure-report-alerts}
 
 Marketo vous enverra des rapports sur la façon dont se déroule le test par courriel. Voici comment le planifier.
 
@@ -39,7 +39,7 @@ Marketo vous enverra des rapports sur la façon dont se déroule le test par cou
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
-1. Vérifiez que toutes les informations sont correctes, puis cliquez sur **Fermer**.
+1. Vérifiez que toutes les informations sont correctes et cliquez sur **Fermer**.
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
