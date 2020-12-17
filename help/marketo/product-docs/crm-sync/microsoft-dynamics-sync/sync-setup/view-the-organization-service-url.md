@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Vue de l’URL du service d’organisation {#view-the-organization-service-url}
+# Vue de l&#39;URL du service d&#39;organisation {#view-the-organization-service-url}
 
 Marketo a besoin de l&#39;URL du service d&#39;organisation pour se synchroniser avec les instances Dynamics On-Premises. Voici comment le trouver dans Dynamics.
 
-1. Connectez-vous à Dynamics. Cliquez sur l’icône Paramètres et sélectionnez Paramètres **** avancés.
+1. Connectez-vous à Dynamics. Cliquez sur l&#39;icône Paramètres et sélectionnez **Paramètres avancés**.
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ Marketo a besoin de l&#39;URL du service d&#39;organisation pour se synchroniser
 
    ![](assets/two.png)
 
-1. Cliquez sur Ressources **** du développeur.
+1. Cliquez sur **Ressources du développeur**.
 
    ![](assets/three.png)
 
