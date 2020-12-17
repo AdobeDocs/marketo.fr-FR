@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Création d’une balise et d’une balise de Programme {#create-a-new-program-tag-and-tag-values}
+# Créer une balise de Programme et des valeurs de balise {#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-Vous pouvez créer des [balises](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personnalisées pour vos programmes et y affecter des valeurs.
+Vous pouvez créer des [balises](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personnalisées pour vos programmes et affecter des valeurs à la balise.
 
 >[!NOTE]
 >
@@ -31,11 +31,11 @@ Vous pouvez créer des [balises](../../../product-docs/core-marketo-concepts/pro
 
    ![](assets/image2014-9-24-12-3a10-3a32.png)
 
-1. Cliquez sur **Nouveau** et sélectionnez **Nouveau type** de balise.
+1. Cliquez sur **Nouveau** et sélectionnez **Nouveau type de balise**.
 
    ![](assets/image2014-9-24-12-3a12-3a43.png)
 
-1. Saisissez le type **de** balise et une **valeur** de balise. Cliquez ensuite sur **Ajouter un autre**.
+1. Saisissez la balise **Type** et une balise **Valeur**. Cliquez ensuite sur **Ajouter un autre**.
 
    ![](assets/image2014-9-24-12-3a16-3a55.png)
 
@@ -47,7 +47,7 @@ Vous pouvez créer des [balises](../../../product-docs/core-marketo-concepts/pro
    >
    >Vous pouvez sélectionner plusieurs types de programme. Lorsqu’un nouveau programme est créé, ce type de balise est disponible.
 
-1. Cochez la case **Obligatoire** , puis cliquez sur **Créer**.
+1. Cochez **Obligatoire** et cliquez sur **Créer**.
 
    ![](assets/image2014-9-24-12-3a18-3a33.png)
 
