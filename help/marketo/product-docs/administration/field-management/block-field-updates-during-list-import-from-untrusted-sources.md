@@ -19,23 +19,23 @@ Vous pouvez faire plus confiance aux données de certaines listes que d’autres
 >
 >**Autorisations d’administrateur requises**
 
-## Blocage des mises à jour des champs à partir de sources non approuvées {#blocking-field-updates-from-untrusted-sources}
+## Bloquer les mises à jour des champs à partir de sources non approuvées {#blocking-field-updates-from-untrusted-sources}
 
-1. Accédez à **Admin** et cliquez sur Gestion des **** champs.
+1. Accédez à **Admin** et cliquez sur **Gestion des champs**.
 
    ![](assets/image2014-9-19-9-3a38-3a38.png)
 
-1. Recherchez le champ de votre choix, sélectionnez-le, puis sous Actions **de** champ, cliquez sur **Bloquer les mises à jour** de champ.
+1. Recherchez le champ de votre choix, sélectionnez-le, puis sous **Actions de champ**, cliquez sur **Bloquer les mises à jour de champ**.
 
    ![](assets/image2014-9-19-9-3a39-3a40.png)
 
-1. Cochez **Liste Importer une source** non approuvée et cliquez sur **Appliquer**.
+1. Cochez **Liste Importer la source non approuvée** et cliquez sur **Appliquer**.
 
    ![](assets/blockupdates.png)
 
 >[!TIP]
 >
->Vous pouvez protéger les champs de toutes les listes, qu’elles soient approuvées ou non, en cochant également **Liste Importer une source** approuvée.
+>Vous pouvez protéger les champs de toutes les listes, qu&#39;elles soient approuvées ou non, en vérifiant également **Liste Importer la source approuvée**.
 
 Répétez les étapes ci-dessus pour tous les autres champs que vous souhaitez protéger des listes non approuvées.
 
