@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La version d’octobre comprend de nouvelles fonctionnalités plus excitantes ! Les fonctions sociales sont disponibles sous forme de module complémentaire ou de lots sélectionnés.
 
-## Importer Programmes et Programme Exchange {#import-programs-and-program-exchange}
+## Programmes d&#39;importation et échange de Programmes {#import-programs-and-program-exchange}
 
 Un programme peut être importé d&#39;un abonnement de marché à un autre. Par exemple, vous pouvez créer un programme dans un sandbox, puis l’importer dans votre abonnement actif. En outre, vous pouvez importer un programme préconstruit à partir de la bibliothèque de Programmes Marketo.
 
@@ -49,7 +49,7 @@ Découvrez qui a partagé votre contenu et voté dans vos sondages en créant de
 
 Vous pouvez désormais collecter des informations sur vos pistes lorsqu’elles partagent du contenu ou remplissent des formulaires à l’aide de leurs profils sociaux. Cela inclut les comptes Facebook, LinkedIn et Twitter, le nombre d’amis qu’ils ont, et plus encore.
 
-## Abonnements de rapports de l&#39;Explorateur de recettes {#revenue-explorer-report-subscriptions}
+## Abonnements du rapport Explorateur de recettes {#revenue-explorer-report-subscriptions}
 
 Créez des abonnements de rapports et envoyez périodiquement des rapports de l’Explorateur de recettes à vos principaux intervenants, y compris aux utilisateurs non-marketing. Le courriel contient une prévisualisation de votre tableau de données de rapport ou de vos graphiques, ainsi qu’une feuille de calcul Excel contenant toutes les données du rapport.
 
