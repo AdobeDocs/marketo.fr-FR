@@ -19,7 +19,7 @@ Il existe de nombreuses façons d&#39;amener une personne sur le marché. Si vou
 
    ![](assets/db-1.png)
 
-1. Sous **Nouveau**, cliquez sur **Nouvelle personne**.
+1. Sous **New**, cliquez sur **Nouvelle personne**.
 
    ![](assets/two-2.png)
 
