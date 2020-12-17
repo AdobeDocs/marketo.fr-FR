@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Pour insérer des paramètres supplémentaires et spécifiques à une personne dans vos liens, vous pouvez utiliser des jetons. Voici comment.
 
-1. Sélectionnez votre adresse électronique et cliquez sur l’onglet **Modifier le brouillon** .
+1. Sélectionnez votre adresse électronique et cliquez sur l&#39;onglet **Modifier le brouillon**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Pour insérer des paramètres supplémentaires et spécifiques à une personne d
 
    ![](assets/two.png)
 
-1. Recherchez ou écrivez le texte du lien. Mettez-le en surbrillance, puis cliquez sur l’icône **Insérer/Modifier le lien** .
+1. Recherchez ou écrivez le texte du lien. Mettez-le en surbrillance, puis cliquez sur l&#39;icône **Insérer/Modifier le lien**.
 
    ![](assets/three.png)
 
-1. Tapez le ou les jetons de votre choix dans **l’URL** et cliquez sur **Insérer**.
+1. Tapez le ou les jetons de votre choix dans **URL** et cliquez sur **Insérer**.
 
    ![](assets/four.png)
 
