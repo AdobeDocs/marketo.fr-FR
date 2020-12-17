@@ -20,7 +20,7 @@ Le contenu du flux est désactivé par défaut. Activez le contenu pour l’envo
 
    ![Image un](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-1.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Flux]**.
 
    ![Image 2](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-2.png)
 
@@ -38,7 +38,7 @@ Le contenu du flux est désactivé par défaut. Activez le contenu pour l’envo
 
 >[!TIP]
 >
->Vous pouvez également activer tout le contenu d’un flux en cliquant sur l’icône représentant un engrenage en haut de l’écran et en sélectionnant **[!UICONTROL Activer tout]**.
+>Vous pouvez également activer tout le contenu d’un flux en cliquant sur l’icône d’engrenage en haut de l’écran et en sélectionnant **[!UICONTROL Activer tout]**.
 
 ## Désactiver le contenu du flux
 
@@ -46,7 +46,7 @@ Le contenu du flux est désactivé par défaut. Activez le contenu pour l’envo
 
    ![Image 5](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-5.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Flux]**.
 
    ![Image six](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
 
