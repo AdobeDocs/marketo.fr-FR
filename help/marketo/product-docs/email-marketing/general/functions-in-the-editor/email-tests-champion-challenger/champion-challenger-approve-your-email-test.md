@@ -23,11 +23,11 @@ L’étape finale de la configuration de votre test de messagerie pour l’appro
 
 
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Recherchez et cliquez avec le bouton droit de la souris sur le test **de** courriel, puis cliquez sur **Approuver le test**.
+1. Recherchez **Test par courriel** et cliquez avec le bouton droit de la souris, puis cliquez sur **Approuver le test**.
 
    ![](assets/champion3.jpg)
 
@@ -36,11 +36,11 @@ L’étape finale de la configuration de votre test de messagerie pour l’appro
    >**Rappel**
    >
    >
-   >Lors de l’approbation d’un e-mail **** entier** **test, approuvez d’abord l’e-mail du concurrent.
+   >Lors de l’approbation d’un test **e-mail entier*******, approuvez d’abord l’e-mail du concurrent.
 
    >[!NOTE]
    >
-   >Pour envoyer le test en dehors, sélectionnez le message électronique auquel vous avez ajouté le test à l’étape de flux **Envoyer un courrier électronique** de votre campagne de déclenchement. Vous avez également la possibilité d’insérer ce courriel dans un flux d’un programme d’engagement. Les courriels Champion/Challenger ne fonctionneront pas dans les campagnes par lots.
+   >Pour envoyer le test en dehors, sélectionnez le courrier électronique auquel vous avez ajouté le test à l’étape de flux **Envoyer un courrier électronique** de votre campagne de déclenchement. Vous avez également la possibilité d’insérer ce courriel dans un flux d’un programme d’engagement. Les courriels Champion/Challenger ne fonctionneront pas dans les campagnes par lots.
 
    N&#39;était-ce pas facile ? Une fois que vous aurez reçu quelques rapports, vous voudrez déclarer un champion.
 
