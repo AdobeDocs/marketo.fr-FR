@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Vous pouvez rapidement voir les membres d’un programme d’engagement. Voici comment.
 
-1. Dans votre programme d&#39;engagement, cliquez avec le bouton droit de la souris et sélectionnez Membres de la **Vue.**
+1. Dans votre programme d&#39;engagement, cliquez avec le bouton droit de la souris et sélectionnez **Membres de la Vue.**
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >La valeur de la colonne Contenu [](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) épuisé est mise à jour après chaque diffusion.
+   >La valeur de colonne [Contenu extrait](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) est mise à jour après chaque diffusion.
 
 1. Vous pouvez maintenant voir tous les membres de votre programme.
 
