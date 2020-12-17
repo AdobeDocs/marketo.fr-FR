@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Clonage d’une ressource dans un Programme {#clone-an-asset-in-a-program}
+# Clonage d’un actif dans un Programme {#clone-an-asset-in-a-program}
 
-Le clonage d&#39;un programme clones *tout*. Parfois, vous voulez juste cloner un fichier. Voici comment.
+Le clonage d’un programme clones *tout*. Parfois, vous voulez juste cloner un fichier. Voici comment.
 
 >[!NOTE]
 >
->Vous devrez effectuer d&#39;autres étapes pour [cloner un groupe](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)de tests de landing page.
+>Vous devrez effectuer d&#39;autres étapes pour [cloner un groupe de tests de landing page](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
-## Clonage d’une ressource locale {#clone-a-local-asset}
+## Cloner une ressource locale {#clone-a-local-asset}
 
 1. Accédez à **Marketing** **Activités**.
 
@@ -33,7 +33,7 @@ Le clonage d&#39;un programme clones *tout*. Parfois, vous voulez juste cloner u
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Chaque type de fichier présente une boîte de dialogue différente. Il vous suffit de renseigner les informations et de cliquer sur **Cloner.**
+1. Chaque type de fichier présente une boîte de dialogue différente. Renseignez simplement les informations et cliquez sur **Cloner.**
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
