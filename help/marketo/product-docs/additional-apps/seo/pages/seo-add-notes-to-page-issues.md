@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Optimisation du référencement - Remarques sur les problèmes de page Ajoutées {#seo-add-notes-to-page-issues}
+# SEO - Notes d&#39;Ajoute sur les problèmes de page {#seo-add-notes-to-page-issues}
 
 Saviez-vous que vous pouvez ajouter des notes aux problèmes de page comme rappels personnels ou messages d’équipe ?
 
@@ -37,7 +37,7 @@ Saviez-vous que vous pouvez ajouter des notes aux problèmes de page comme rappe
 >
 >Vous pouvez supprimer votre note en cliquant sur le petit x dans le coin supérieur gauche.
 
-## Ajouter des notes dans la liste déroulante des détails de la page {#add-notes-in-page-detail-drill-down}
+## Remarques sur les Ajoutes dans la liste déroulante des détails de la page {#add-notes-in-page-detail-drill-down}
 
 1. Accédez à la section Pages.
 
@@ -47,11 +47,11 @@ Saviez-vous que vous pouvez ajouter des notes aux problèmes de page comme rappe
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Passez la souris sur le problème de page auquel vous souhaitez ajouter une remarque, puis cliquez sur **AJOUTER REMARQUE**.
+1. Passez la souris sur le problème de la page auquel vous souhaitez ajouter une note et cliquez sur **AJOUTER NOTA**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Saisissez votre note. Cliquez sur **ENREGISTRER**.
+1. Saisissez votre note. Cliquez sur **SAVE**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
