@@ -20,13 +20,13 @@ Dans le cadre d’Audiences prédictives, Marketo offre un groupe de filtres bas
 
 ## Probabilité de participation
 
-Ce filtre est utilisé pour réduire efficacement votre audience. Cela vous permet de cible et d’inviter des pistes qui ont une plus grande probabilité d’ **assister** à votre webinaire ou événement. Notez que votre &quot;[!UICONTROL probabilité d&#39;assister au programme]&quot; sera votre programme de événement actuel.
+Ce filtre est utilisé pour réduire efficacement votre audience. Cela vous permet de cible et d’inviter des pistes qui ont une probabilité plus élevée d’**d’assister** à votre webinaire ou votre événement. Veuillez noter que votre &quot;[!UICONTROL probabilité d&#39;assister au programme]&quot; sera votre programme de événement actuel.
 
 ![Image 2](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Probabilité d&#39;enregistrement
 
-Tout comme le filtre [!UICONTROL _Probabilité de participation_], utilisez ce filtre pour restreindre vos pistes d&#39;audience et de cible qui ont une probabilité plus élevée d&#39; **inscription** pour votre webinaire ou votre événement.
+Tout comme le filtre [!UICONTROL _Probabilité d&#39;assister_], utilisez ce filtre pour restreindre vos pistes d&#39;audience et de cible qui ont une probabilité plus élevée d&#39;**inscription** pour votre webinaire ou votre événement.
 
 ![Image trois](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
