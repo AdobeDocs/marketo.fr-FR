@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Méthodes pour obtenir de l’aide {#ways-to-get-help}
+# Méthodes pour obtenir de l&#39;aide {#ways-to-get-help}
 
 ![](assets/life-preserver.jpg)
 
@@ -19,6 +19,6 @@ Vous ne trouvez toujours pas ce dont vous avez besoin ? Ne sais pas ce que vous 
 
 ![—](assets/seo-29.png) Pour obtenir de l&#39;aide technique sur quelque chose qui ne fonctionne pas, contactez le service d&#39;assistance [**clientèle de**](https://nation.marketo.com/t5/Support/ct-p/Support)Marketo.
 
-![—](assets/seo-30.png) Pour vous connecter avec notre équipe de services professionnels, contactez **marketoservices@adobe.com**.
+![—](assets/seo-30.png) Pour communiquer avec notre équipe de services professionnels, contactez  **marketoservices@adobe.com**.
 
-![—](assets/education-science-08.png) Pour développer vos compétences en marketing, visitez [**Marketo University**](https://learn.marketo.com).
+![—](assets/education-science-08.png) Pour développer vos compétences en marketing, visitez  [**Marketo University**](https://learn.marketo.com).
