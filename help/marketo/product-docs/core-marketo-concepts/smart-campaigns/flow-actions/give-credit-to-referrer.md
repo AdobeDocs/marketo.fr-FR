@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# Attribuer du crédit au Parrain {#give-credit-to-referrer}
+# Attribuer le crédit au Parrain {#give-credit-to-referrer}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
-Lors de l’exécution d’une offre [de](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) référence ou d’un [tirage au sort](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez attribuer du crédit au parrain à l’aide de différentes méthodes :
+Lors de l’exécution d’une offre de référence [référente](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou d’un tirage [de ](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez attribuer du crédit au parrain en utilisant différentes méthodes :
 
 * Visites référencées
 * Abonnements référencés
 * **Déclencheur de Liste dynamique**
 * Événement JavaScript personnalisé
 
-Si vous choisissez d’utiliser l’option Déclencheur **de Liste** dynamique pour spécifier un objectif, vous devez utiliser l’étape de flux **Attribuer du crédit** **au Parrain** .   ![](assets/image2014-9-22-15-3a59-3a18.png)
+Si vous choisissez d’utiliser l’option **Déclencheur de Liste intelligente** pour spécifier un objectif, vous devez utiliser l’étape de flux **Attribuer du crédit** **au Parrain**.   ![](assets/image2014-9-22-15-3a59-3a18.png)
 
 ## Utilisation {#usage}
 
@@ -35,6 +35,6 @@ Si vous choisissez d’utiliser l’option Déclencheur **de Liste** dynamique p
    >**Rappel**
    >
    >
-   >Assurez-vous que votre application sociale est configurée pour utiliser le déclencheur de Liste dynamique. Pour plus d’informations, voir [Spécifier l’objectif pour l’Offre](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) de renvoi.
+   >Assurez-vous que votre application sociale est configurée pour utiliser le déclencheur de Liste dynamique. Voir [Définition de l’objectif pour l’Offre de renvoi](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) pour plus d’informations.
 
 Excellent ! Toute personne traitée par cette étape de flux crédite désormais son parrain.
