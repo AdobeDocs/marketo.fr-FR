@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Utilisation des coûts de période dans un Programme {#using-period-costs-in-a-program}
 
-Le coût [d&#39;une](understanding-period-costs.md) période correspond au montant que vous dépensez sur un programme. Il peut s’agir d’un ou de plusieurs mois et est utilisé pour le RSI du rapports.
+Un coût de période [](understanding-period-costs.md) correspond au montant que vous dépensez sur un programme. Il peut s’agir d’un ou de plusieurs mois et est utilisé pour le RSI du rapports.
 
 >[!NOTE]
 >
 >**Plongée profonde**
 >
-> En savoir plus sur les analyses [du cycle](http://docs.marketo.com/display/docs/revenue+cycle+analytics)des recettes.
+> En savoir plus sur [les analyses du cycle des recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
-## Ajouter un coût de période  {#add-a-period-cost}
+## Ajouter un coût de période {#add-a-period-cost}
 
 1. Accédez à l&#39;onglet **Configuration** de votre programme.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Faites glisser et déposez le coût **** de la période dans le canevas.
+1. Faites glisser **Coût de la période** dans le canevas.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
@@ -35,7 +35,7 @@ Le coût [d&#39;une](understanding-period-costs.md) période correspond au monta
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Saisissez un coût **** Période (sans décimales ou virgules). Cliquez sur **Enregistrer**.
+1. Saisissez un **Coût de la période** (sans décimales ou virgules). Cliquez sur **Enregistrer**.
 
    >[!NOTE]
    >
@@ -58,7 +58,7 @@ Le coût [d&#39;une](understanding-period-costs.md) période correspond au monta
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Cliquez avec le bouton droit de la souris sur le coût **de la** période. Sélectionnez **Modifier**.
+1. Cliquez avec le bouton droit sur le **Coût de la période**. Sélectionnez **Modifier**.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
@@ -72,7 +72,7 @@ Le coût [d&#39;une](understanding-period-costs.md) période correspond au monta
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Cliquez avec le bouton droit de la souris sur le coût **de la** période. Sélectionnez **Supprimer**.
+1. Cliquez avec le bouton droit sur le **Coût de la période**. Sélectionnez **Supprimer**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
