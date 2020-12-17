@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Annulation d&#39;une exécution de Campaign par lot périodique planifiée {#cancel-a-scheduled-recurring-batch-campaign-run}
+# Annuler l&#39;exécution d&#39;un lot périodique planifié de Campaign {#cancel-a-scheduled-recurring-batch-campaign-run}
 
 Si vous avez une campagne par lots récurrente que vous ne souhaitez plus, vous pouvez annuler les exécutions futures. Voici comment.
 
-1. Cliquez sur la campagne dynamique, puis sur l’onglet **Planification** .
+1. Cliquez sur la campagne intelligente, puis sur l&#39;onglet **Planification**.
 
    ![](assets/image2014-9-22-16-3a44-3a51.png)
 
-1. Cliquez sur **Planifier** **la répétition**.
+1. Cliquez sur **Planification** **Périodicité**.
 
    ![](assets/image2014-9-22-16-3a44-3a55.png)
 
    >[!TIP]
    >
-   >Vous pouvez annuler une seule exécution en cliquant sur ![: en regard de celle-ci,](assets/image2014-9-22-16-3a45-3a42.png) puis cliquez sur. Découvrez comment [annuler une exécution](cancel-a-scheduled-batch-campaign-run.md)de campagne par lot planifiée.
+   >Vous pouvez annuler une seule exécution en cliquant sur ![—](assets/image2014-9-22-16-3a45-3a42.png) en regard de celle-ci. Découvrez comment [annuler une campagne par lots planifiée](cancel-a-scheduled-batch-campaign-run.md).
 
-1. Définissez Programmer sur **Aucun** , puis **Enregistrer**.
+1. Définissez Planification sur **Aucun**, puis **Enregistrer**.
 
    ![](assets/image2014-9-22-16-3a45-3a56.png)
 
