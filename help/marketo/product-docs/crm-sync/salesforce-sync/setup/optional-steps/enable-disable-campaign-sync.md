@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Activer/désactiver la synchronisation Campaign {#enable-disable-campaign-sync}
+# Activer/désactiver Campaign Sync {#enable-disable-campaign-sync}
 
 >[!NOTE]
 >
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 Cette option permet à Marketing Cloud de synchroniser son adhésion et ses états programmes avec les campagnes Salesforce et vice versa.
 
-1. Accédez à **Admin, **cliquez sur **Salesforce.**
+1. Accédez à **Admin, **click **Salesforce.**
 
    ** ![](assets/image2014-12-9-13-3a36-3a49.png)
 
    **
 
-1. Cliquez sur **Modifier les paramètres** de synchronisation.
+1. Cliquez sur **Modifier les paramètres de synchronisation**.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Cochez **Activer la synchronisation** Campaign Salesforce et cliquez sur **ENREGISTRER**.
+1. Cochez **Activer Salesforce Campaign Sync** et cliquez sur **SAVE**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
