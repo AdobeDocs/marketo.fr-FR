@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Création d’un jeton de script de courrier électronique {#create-an-email-script-token}
+# Créer un jeton de script de courrier électronique {#create-an-email-script-token}
 
-Pour les développeurs avancés, vous pouvez utiliser des scripts [](http://velocity.apache.org/engine/1.7/user-guide.html) Velocity dans vos courriels. Voici comment le faire.
+Pour les développeurs avancés, vous pouvez utiliser [des scripts Velocity](http://velocity.apache.org/engine/1.7/user-guide.html) dans vos courriels. Voici comment le faire.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ Pour les développeurs avancés, vous pouvez utiliser des scripts [](http://velo
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Sous l’onglet **Mes jetons** , faites glisser un jeton de script **de** courrier électronique.
+1. Sous l&#39;onglet **Mes jetons**, faites glisser un jeton **Script de courriel**.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Nommez votre jeton de script de courrier électronique, puis **cliquez pour en modifier** le contenu.
+1. Nommez votre jeton de script de courrier électronique et **cliquez pour modifier** son contenu.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Utilisez l’arborescence à droite pour faire glisser des jetons **Personne, Opportunité** ou Objet **** personnalisé.
+1. Utilisez l&#39;arborescence à droite pour faire glisser les jetons **Personne, Opportunité** ou **Objet personnalisé**.
 
    ![](assets/five-2.png)
 
@@ -57,11 +57,11 @@ Pour les développeurs avancés, vous pouvez utiliser des scripts [](http://velo
    * [Guide de référence Velocity](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Outils Velocity Javadoc](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Une fois le script terminé, cliquez sur **Enregistrer**.
+1. Une fois votre script terminé, cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Cliquez **une nouvelle fois sur Enregistrer** .
+1. Cliquez à nouveau sur **Enregistrer**.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
