@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Avril 2013 {#release-notes-april}
 
-Les fonctionnalités suivantes sont incluses dans la version d’avril. Veuillez vérifier la disponibilité de vos fonctionnalités dans [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Les fonctionnalités suivantes sont incluses dans la version d’avril. Veuillez vérifier votre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
 
 Après la publication, n&#39;oubliez pas de consulter l&#39;onglet [Nouvelle version](release-notes-december-2013.md) de la Communauté pour obtenir des articles détaillés de la base de connaissances pour chaque fonctionnalité !
 
@@ -41,6 +41,6 @@ L’ensemble de la fonction d’Analyse de courriel sera activée par étapes en
 
 Prise en charge des programmes dans l’appel de l’API SOAP, y compris l’accès en lecture seule aux données du programme telles que : Nombre d&#39;adhésions au programme, acquis par, succès, paramètres, canaux, balises, jetons et coûts. Consultez la documentation de l’API SOAP pour en savoir plus.
 
-## Amélioration ON24 {#on-enhancement}
+## ON24 Amélioration {#on-enhancement}
 
 Le titre de la tâche et le nom de la Société seront synchronisés avec ON24 à partir de votre formulaire d&#39;inscription sur le marché.
