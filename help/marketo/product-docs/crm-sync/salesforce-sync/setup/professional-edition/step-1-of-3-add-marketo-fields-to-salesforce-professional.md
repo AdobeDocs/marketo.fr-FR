@@ -29,7 +29,7 @@ Tous ces champs personnalisés sont facultatifs et ne sont pas nécessaires pour
 
 Ajoutez trois champs personnalisés sur les objets prospect et contact dans Salesforce répertoriés ci-dessus. Si vous souhaitez en ajouter d’autres, reportez-vous au tableau des champs disponibles à la fin de cette section.
 
-Effectuez les étapes suivantes pour chacun des trois champs personnalisés à ajouter. Début avec **note**.
+Effectuez les étapes suivantes pour chacun des trois champs personnalisés à ajouter. Début avec **Score**.
 
 1. Connectez-vous à Salesforce et cliquez sur **Configuration.**
 
@@ -112,15 +112,15 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Spécifiez les paramètres d’accès et cliquez sur **Suivant**:
+1. Spécifiez les paramètres d’accès et cliquez sur **Suivant** :
 
-   * Définir tous les rôles sur **Visible **et **Lecture seule**
+   * Définissez tous les rôles sur **Visible **et **Lecture seule**
 
    * Désactivez la case à cocher **Lecture seule** pour le profil de votre utilisateur de synchronisation :
 
-      * Si vous avez un utilisateur avec le profil d&#39;un administrateur ** système comme utilisateur de synchronisation, décochez la case **Lecture seule** pour le profil Administrateur système (comme illustré ci-dessous).
+      * Si vous avez un utilisateur avec le profil d&#39;un *administrateur système* en tant qu&#39;utilisateur synchronisé, désélectionnez la case **Lecture seule** pour le profil Administrateur système (comme illustré ci-dessous).
 
-      * Si vous avez créé un profil ** personnalisé pour l’utilisateur synchronisé, désactivez la case à cocher **Lecture seule** pour ce profil personnalisé.
+      * Si vous avez créé un *profil personnalisé* pour l’utilisateur de synchronisation, désactivez la case **Lecture seule** pour ce profil personnalisé.
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -128,7 +128,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Cliquez sur **Enregistrer et créer** pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur **Enregistrer** avec vous pour terminer les trois.
+1. Cliquez sur **Enregistrer et nouveau** pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur **Enregistrer** après avoir terminé les trois.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
@@ -225,7 +225,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
  </tbody> 
 </table>
 
-## Faire correspondre les champs personnalisés pour les conversions  {#map-custom-fields-for-conversions}
+## Mettre en correspondance les champs personnalisés pour les conversions {#map-custom-fields-for-conversions}
 
 Un champ personnalisé sur l&#39;objet prospect dans Salesforce doit être mappé à un champ de contact sur l&#39;objet contact afin que les données soient reportées lors d&#39;une conversion.
 
@@ -258,7 +258,7 @@ Assez facile, n&#39;est-ce pas ?
 >
 >**Plongée profonde**
 >
->Voici une [vidéo de l&#39;ensemble du processus](https://nation.marketo.com/videos/1475) qui devrait être limpide !
+>Voici une [vidéo de l&#39;ensemble du processus](https://nation.marketo.com/videos/1475) qui devrait le rendre parfaitement clair !
 
 >[!NOTE]
 >
