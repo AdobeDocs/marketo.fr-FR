@@ -35,17 +35,17 @@ Veillez à la cohérence du message et du contenu en empêchant les modification
 
 Faites correspondre les personnes aux noms des sociétés japonaises dans la langue locale.
 
-** Intégration [ABM et LeanData](https://docs.marketo.com/x/pKmt)**
+** [Intégration ABM et LeanData](https://docs.marketo.com/x/pKmt)**
 
 L’intégration de LeanData permet désormais la mise en correspondance de pistes vers comptes dans Marketo. Maintenez l&#39;alignement du marketing et des ventes en associant les mêmes pistes aux comptes dans les systèmes de ventes et de marketing d&#39;enregistrement. Des options plus flexibles permettent aux opérations marketing et commerciales de mieux contrôler les règles de correspondance de piste à compte, afin d&#39;atteindre le niveau de précision souhaité.
 
 ## Améliorations de la personnalisation Web {#web-personalization-enhancements}
 
-** [Campaign Prévisualisation Enhancements](https://docs.marketo.com/x/fQGa)**
+** [Améliorations de la Prévisualisation Campaign](https://docs.marketo.com/x/fQGa)**
 
-Les spécialistes du marketing peuvent désormais s’assurer que leurs campagnes Web s’afficheront correctement sur n’importe quel périphérique *avant* de les lancer. Grâce à ces améliorations, voyez comment vos campagnes Web s’afficheront sur les ordinateurs de bureau, les appareils mobiles et les tablettes. Le nouveau module externe pour Chrome offre également des prévisualisations plus cohérentes et plus précises.
+Les spécialistes du marketing peuvent désormais s’assurer que leurs campagnes Web s’affichent correctement sur n’importe quel périphérique *avant de les lancer.* Grâce à ces améliorations, voyez comment vos campagnes Web s’afficheront sur les ordinateurs de bureau, les appareils mobiles et les tablettes. Le nouveau module externe pour Chrome offre également des prévisualisations plus cohérentes et plus précises.
 
-** [Widget Campaign Enhancements](https://docs.marketo.com/x/KgNI)**
+** [Améliorations apportées au widget Campaign](https://docs.marketo.com/x/KgNI)**
 
 De nouvelles options pour les campagnes de widgets sont désormais disponibles, notamment :
 
@@ -55,7 +55,7 @@ De nouvelles options pour les campagnes de widgets sont désormais disponibles, 
 
 ## Contenu`<sup>AI</sup>` {#contentai}
 
-** [`<sup>AI </sup>`ContentAnalytics et suggestions](https://docs.marketo.com/x/1BPG)**
+** [Contenu`<sup>AI </sup>`Analyses et suggestions](https://docs.marketo.com/x/1BPG)**
 
 Augmentez le retour sur votre marketing de contenu grâce à des analyses plus approfondies et à des suggestions de contenu basées sur l&#39;IA pour augmenter l&#39;engagement.** **Les analyses performantes montrent les performances du contenu recommandé, notamment les vues populaires, de tendance et basées sur les audiences. Vous verrez également des suggestions d’inclusion de contenu supplémentaire.
 
