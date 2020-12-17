@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une valeur conditionnelle à l’aide d’un champ Formule marketing.
 
-1. Accédez à **Admin** et cliquez sur Gestion des **** champs.
+1. Accédez à **Admin** et cliquez sur **Gestion des champs**.
 
    ![](assets/image2014-9-19-9-3a44-3a58.png)
 
-1. Cliquez sur **Nouveau champ** personnalisé.
+1. Cliquez sur **Nouveau champ personnalisé**.
 
    ![](assets/image2014-9-19-9-3a45-3a8.png)
 
@@ -39,7 +39,7 @@ Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une val
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   En savoir plus sur [les jetons pour les étapes](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)de flux.
+   En savoir plus sur les [jetons pour les étapes de flux](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Vous pouvez désormais ajouter le champ de formule en tant que jeton dans un courrier électronique.
 
