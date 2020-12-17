@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Présentation des dates indicatives/confirmées {#understanding-tentative-confirmed-dates}
+# Présentation des dates provisoires/confirmées {#understanding-tentative-confirmed-dates}
 
-Les campagnes dynamiques et les programmes de courriel disposent d’une puissante capacité à être marqués comme **provisoires** ou **confirmés**. Voici comment ils fonctionnent.
+Les campagnes dynamiques et les programmes de messagerie électronique disposent d’une puissante capacité à être marqués comme **Tentative** ou **Confirmé**. Voici comment ils fonctionnent.
 
 ## Tentative {#tentative}
 
@@ -35,13 +35,13 @@ Il s’agit de l’approbation d’un actif. Les entrées doivent donc être ent
 >
 >Pourquoi le chien ? C&#39;est un Golden Retriever. Il récupère vos données.
 
-## Confirmé {#confirmed}
+## {#confirmed} confirmé
 
 Les entrées confirmées seront certainement exécutées. Ils disposent de règles, d’actifs approuvés et d’une date et d’une heure confirmées.
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## Terminé  {#finished}
+## {#finished} terminé
 
 Les entrées terminées ont déjà été exécutées. Ils ne peuvent être que dans le passé (évidemment). Une fois qu&#39;une entrée a été exécutée et est **Terminée**, vous ne pouvez pas la déplacer ou la faire titiller. (Pas de changement de la réalité et de rupture du continuum du temps.)
 
