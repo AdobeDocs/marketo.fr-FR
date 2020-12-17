@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Supprimer une personne {#delete-person}
+# Supprimer la personne {#delete-person}
 
 Il arrive que des gens inappropriés se retrouvent dans votre base de données. L’étape de flux Supprimer la personne peut en supprimer.
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Utilisez l’étape de flux dans une campagne dynamique.
 
