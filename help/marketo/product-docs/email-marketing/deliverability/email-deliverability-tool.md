@@ -21,11 +21,11 @@ L&#39;outil de délivrabilité des e-mails de Marketo fournit une application un
 >
 >Tous les clients ne disposent pas de l&#39;outil de délivrabilité des e-mails. Contactez votre représentant commercial pour plus d&#39;informations.
 
-Pour plus d&#39;informations sur cette fonctionnalité, consultez le PowerPack sur la livrabilité des [courriels sur Marketo.com](https://www.marketo.com/software/email-marketing/email-deliverability/deliverability-packages/).
+Pour plus d&#39;informations sur cette fonctionnalité, consultez le [Pack PowerPack de livrabilité du courriel sur Marketo.com](https://www.marketo.com/software/email-marketing/email-deliverability/deliverability-packages/).
 
 >[!NOTE]
 >
 >**Plongée profonde**
 >
->Pour obtenir des instructions spécifiques, consultez le Guide [de l&#39;](https://250ok.com/guides/marketo/)utilisateur de la délivrabilité du marketing.
+>Pour des instructions spécifiques, consultez le [Guide de l&#39;utilisateur](https://250ok.com/guides/marketo/) de la délivrabilité du marketing.
 
