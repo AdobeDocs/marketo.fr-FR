@@ -19,7 +19,7 @@ Il est très important de ne pas trop communiquer avec votre peuple. La définit
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Admin**, cliquez sur Limites **de** communication.
+1. Sous **Admin**, cliquez sur **Limites de communication**.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
 Cliquez sur Modifier.
@@ -42,13 +42,13 @@ Cliquez sur Modifier.
 
    ![](assets/four.png)
 
-1. Sélectionnez **Bloquer les courriers électroniques** non opérationnels.
+1. Sélectionnez **Bloquer les courriers électroniques non opérationnels**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >En savoir plus sur les courriels [](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) opérationnels.
+   >Pour en savoir plus sur ce que [les courriels opérationnels](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) sont.
 
 1. Cliquez sur **Enregistrer**.
 
@@ -59,7 +59,7 @@ Cliquez sur Modifier.
    >**Exemple**
    >
    >
-   >Les paramètres ci-dessus signifient que les personnes ne recevront pas plus d&#39; **1 courriel par jour** ou plus de **5 dans une période** de sept jours.
+   >Les paramètres ci-dessus signifient que les utilisateurs ne recevront pas plus de **1 courriel par jour** ou plus de **5 au cours d’une période de sept jours**.
 
    >[!NOTE]
    >
