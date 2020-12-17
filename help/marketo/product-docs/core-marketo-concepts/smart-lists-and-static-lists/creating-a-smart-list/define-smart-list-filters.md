@@ -22,19 +22,19 @@ ht-degree: 0%
 
 
 
-Maintenant que vous avez [créé une liste](create-a-smart-list.md) intelligente et [ajouté des filtres](find-and-add-filters-to-a-smart-list.md) , définissons les filtres. Voici comment.
+Maintenant que vous avez [créé une liste intelligente](create-a-smart-list.md) et [ajouté des filtres](find-and-add-filters-to-a-smart-list.md), définissons les filtres. Voici comment.
 
 En suivant notre exemple, définissons ces filtres pour trouver toutes les personnes en Californie avec un score supérieur à 50.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez la liste intelligente et cliquez sur l’onglet Liste **** intelligente.
+1. Sélectionnez la liste intelligente et cliquez sur l&#39;onglet **Liste intelligente**.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Recherchez et sélectionnez **CA** pour le filtre **Etat** .
+1. Recherchez et sélectionnez **CA** pour le filtre **État**.
 
    ![](assets/smartlistdefinefilters.png)
 
@@ -43,9 +43,9 @@ En suivant notre exemple, définissons ces filtres pour trouver toutes les perso
    >**Rappel**
    >
    >
-   >Il se peut que vous stockiez à la fois **la Californie** et **l’AC**. Afin de filtrer les deux valeurs et d&#39;inclure *toutes les personnes de Californie, apprenez comment [ajouter plusieurs valeurs à un filtre](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md)de liste intelligent.
+   >Vous pouvez stocker **California** et **CA**. Afin de filtrer les deux valeurs et d’inclure *tous les *habitants de Californie, apprenez comment [ajouter plusieurs valeurs à un filtre de liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
 
-1. Sélectionnez l’opérateur **supérieur** et saisissez **50**.
+1. Sélectionnez l’opérateur **supérieur à** et saisissez **50**.
 
    ![](assets/smartlistfilter-personscore.png)
 
@@ -55,5 +55,5 @@ En suivant notre exemple, définissons ces filtres pour trouver toutes les perso
 >
 >**Plongée profonde**
 >
->En savoir plus sur les listes [intelligentes et les listes](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)statiques.
+>En savoir plus sur [les listes dynamiques et les listes statiques](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
