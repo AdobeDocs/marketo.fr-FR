@@ -28,34 +28,34 @@ Voici comment créer un nouvel espace de travail.
 >
 >**Plongée profonde**
 >
->Commencez par [comprendre les espaces de travail et les partitions](understanding-workspaces-and-person-partitions.md)personnelles.
+>Commencez par [Comprendre les espaces de travail et les partitions de personne](understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Pour en savoir plus sur les meilleures pratiques de Workspace, veuillez contacter [Marketo Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
+>Pour en savoir plus sur les meilleures pratiques de Workspace, veuillez contacter [Services professionnels du marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
 
 1. Sous **Admin**, cliquez sur **Espaces de travail et partitions**.
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
-1. Cliquez sur **New Workspace**.
+1. Cliquez sur **Nouvel espace de travail**.
 
    ![](assets/two-1.png)
 
-1. Saisissez un** Nom**, puis sélectionnez la ou les **partition(s)** à utiliser. Choisissez une partition **de personne** Principal.
+1. Saisissez un ** Nom**, puis sélectionnez la **partition(s) de personne** à utiliser. Choisissez une **partition de personne Principal**.
 
    >[!NOTE]
    >
    >**Rappel**
    >
    >
-   >Assurez-vous de [créer des partitions](create-a-person-partition.md) personnelles si vous ne l&#39;avez pas déjà fait.
+   >Si vous ne l&#39;avez pas déjà fait, veillez à [créer des partitions de personne](create-a-person-partition.md).
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >La case à cocher **Toutes les partitions** personnelles** **signifie que cet espace de travail peut utiliser toutes les partitions de personnes dans le système.
+   >La case à cocher **Toutes les partitions individuelles**** **signifie que cet espace de travail peut utiliser toutes les partitions de personnes dans le système.
 
    >[!NOTE]
    >
