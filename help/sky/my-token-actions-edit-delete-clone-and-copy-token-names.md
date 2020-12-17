@@ -14,19 +14,19 @@ ht-degree: 0%
 
 ## Modification d’un jeton
 
-Dans l’onglet [!UICONTROL Mes jetons] de votre dossier de campagne ou de votre programme, cliquez sur la **[!UICONTROL valeur]** du jeton à modifier. La fenêtre de l&#39;éditeur s&#39;ouvre alors.
+Dans l&#39;onglet [!UICONTROL Mes jetons] de votre dossier ou programme de campagne, cliquez sur **[!UICONTROL Valeur]** du jeton que vous souhaitez modifier. La fenêtre de l&#39;éditeur s&#39;ouvre alors.
 
 ![Image un](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->Les jetons de texte n’ont pas de fenêtre d’éditeur distincte. Cliquez sur la **[!UICONTROL valeur]** pour effectuer des modifications en ligne.
+>Les jetons de texte n’ont pas de fenêtre d’éditeur distincte. Cliquez sur **[!UICONTROL Valeur]** pour effectuer des modifications en ligne.
 
 ![Image 2](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
 ## Suppression d’un jeton
 
-1. Cliquez avec le bouton droit de la souris sur le jeton, puis sélectionnez **[!UICONTROL Supprimer]**.
+1. Cliquez avec le bouton droit sur le jeton, puis sélectionnez **[!UICONTROL Supprimer]**.
 
    ![Image trois](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
@@ -50,6 +50,6 @@ Dans l’onglet [!UICONTROL Mes jetons] de votre dossier de campagne ou de votre
 
 ## Copier un nom de jeton
 
-Pour copier le nom d’un jeton dans le Presse-papiers (par exemple `{{my.Event Calendar File}}`), cliquez avec le bouton droit de la souris sur le jeton et sélectionnez **Copier le nom** du jeton.
+Pour copier le nom d’un jeton dans le Presse-papiers (c.-à-d. `{{my.Event Calendar File}}`), cliquez avec le bouton droit de la souris sur le jeton et sélectionnez **Copier le nom du jeton**.
 
 ![Image sept](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
