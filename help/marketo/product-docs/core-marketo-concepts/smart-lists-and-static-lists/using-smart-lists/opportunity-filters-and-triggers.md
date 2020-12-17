@@ -27,7 +27,7 @@ Les filtres d&#39;opportunité vous permettent d&#39;analyser vos prospects de S
 * L&#39;opportunité a été supprimée
 * L&#39;opportunité a été mise à jour
 
-Si vous recherchez vos champs Opportunité (personnalisés ou standard), utilisez le filtre **Avec opportunité** ou **Opportunité était`[Added/Removed/Updated]`** filtres ou déclencheur.
+Si vous recherchez vos champs Opportunité (personnalisé ou standard), utilisez le filtre **Avec opportunité** ou **L&#39;opportunité était`[Added/Removed/Updated]`** filtres ou déclencheurs.
 
 **Nombre d’options, Montant total de l’opacité, Recettes totales prévues de l’opacité**
 
@@ -37,19 +37,19 @@ Avec ces filtres, vous pouvez trouver des pistes en fonction du nombre total, du
 
 **L&#39;opportunité a été Ajoutée à l&#39;opportunité, a été supprimée de l&#39;opportunité**
 
-Si vous recherchez des pistes qui ont des opportunités en fonction d&#39;une combinaison de critères, utilisez le filtre **A une opportunité**, **A été Ajouté à une opportunité** ou **A été supprimé de l&#39;opportunité** . Ils vous disent :
+Si vous recherchez des pistes qui ont des opportunités en fonction d&#39;une combinaison de critères, utilisez le filtre **Avec opportunité**, **A été Ajouté à Opportunité** ou **A été supprimé de Opportunité**. Ils vous disent :
 
-* **A une opportunité**: Si cette piste a actuellement une opportunité correspondante
-* **A été Ajouté à Opportunité**: Si cette piste a déjà été ajoutée à une opportunité correspondante
-* **A été supprimé de l&#39;opportunité**: Si cette piste a été supprimée d&#39;une opportunité correspondante
+* **A une opportunité** : Si cette piste a actuellement une opportunité correspondante
+* **A été Ajouté à Opportunité** : Si cette piste a déjà été ajoutée à une opportunité correspondante
+* **A été supprimé de l&#39;opportunité** : Si cette piste a été supprimée d&#39;une opportunité correspondante
 
-Ajoutez les critères de recherche en tant que **Contraintes** sur le filtre. Les contraintes incluent vos champs standard et personnalisés d’opportunité :
+Ajoutez les critères de recherche sous la forme **Contraintes** sur le filtre. Les contraintes incluent vos champs standard et personnalisés d’opportunité :
 
 ![](assets/image2015-6-11-12-3a31-3a0.png)
 
 ![](assets/image2015-6-11-12-3a31-3a46.png)
 
-Supposons, par exemple, que vous souhaitiez trouver des pistes ayant des opportunités ouvertes d’au moins 5 000 $. Faites glisser le curseur dans le filtre **Avec opportunité** et utilisez les contraintes **Est fermé** et **Montant** :
+Supposons, par exemple, que vous souhaitiez trouver des pistes ayant des opportunités ouvertes d’au moins 5 000 $. Faites glisser le filtre **Avec opportunité** et utilisez les contraintes **Est fermé** et **Montant** :
 
 ![](assets/image2015-6-11-12-3a32-3a0.png)
 
@@ -59,13 +59,13 @@ Supposons, par exemple, que vous souhaitiez trouver des pistes ayant des opportu
 
 **L&#39;opportunité a été mise à jour**
 
-Le filtre **Opportunité mise à jour** recherche toute opportunité lorsqu&#39;un champ opportunité spécifique a été mis à jour. Sélectionnez le champ à vérifier avec la liste déroulante Attribut de déclenchement, puis utilisez les contraintes pour restreindre l’ensemble de modifications.
+Le filtre **Opportunité a été mis à jour** recherche toute opportunité lorsqu&#39;un champ opportunité spécifique a été mis à jour. Sélectionnez le champ à vérifier avec la liste déroulante Attribut de déclenchement, puis utilisez les contraintes pour restreindre l’ensemble de modifications.
 
 Par exemple, ce filtre vous montre tous les prospects dont la date de clôture a été modifiée au cours des 30 derniers jours :
 
 ![](assets/image2015-6-11-12-3a33-3a7.png)
 
-## Déclencheurs d&#39;opportunités {#opportunity-triggers}
+## Déclencheurs d&#39;opportunité {#opportunity-triggers}
 
 Les déclencheurs d&#39;opportunité suivants sont disponibles. Ils fonctionnent de la même manière que leurs filtres correspondants (décrits plus haut), sauf qu’ils peuvent déclencher des campagnes correctement lorsque le événement se produit :
 
