@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Définition d’une Audience en important une Liste {#define-an-audience-by-importing-a-list}
+# Définissez une Audience en important une Liste {#define-an-audience-by-importing-a-list}
 
 >[!PREREQUISITES]
 >
 >[Créer un courriel pour un Programme de courriel](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Une fois que vous avez créé un programme de messagerie, vous voudrez lui indiquer à qui envoyer le message. Pour ce faire, vous pouvez [créer une liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dynamique ou importer une liste. Voici comment y parvenir en important une liste.
+Une fois que vous avez créé un programme de messagerie, vous voudrez lui indiquer à qui envoyer le message. Pour ce faire, [créez une liste intelligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ou importez une liste. Voici comment y parvenir en important une liste.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Une fois que vous avez créé un programme de messagerie, vous voudrez lui indiq
 >
 >Tous les champs Date/Heure importés sont traités comme Heure centrale. Si vous avez des champs Date/Heure dans un fuseau horaire différent, vous pouvez utiliser une formule Excel pour le transformer en Heure centrale (Amérique/Chicago).
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -46,7 +46,7 @@ Une fois que vous avez créé un programme de messagerie, vous voudrez lui indiq
    >
    >Marketo se souviendra des mappages pour les prochaines importations !
 
-1. Saisissez un **Nom** pour votre liste, puis cliquez sur **Importer**.
+1. Saisissez un **nom** pour votre liste et cliquez sur **Importer**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -70,7 +70,7 @@ Une fois que vous avez créé un programme de messagerie, vous voudrez lui indiq
 >
 Cliquez sur le numéro pour obtenir une liste détaillée des personnes bloquées dans les envois.
 >
->Utilisez le ![—](assets/image2014-10-23-16-3a32-3a36-1.png) bouton de la mosaïque **Audience** pour déterminer le nombre de personnes qualifiées pour recevoir le courriel en fonction de critères de liste intelligente. Soustrayez le nombre bloqué du nombre de personnes pour obtenir le nombre total de personnes qui recevront le courriel.
+>Utilisez le bouton ![—](assets/image2014-10-23-16-3a32-3a36-1.png) de la mosaïque **Audience** pour déterminer le nombre de personnes qualifiées pour recevoir le courriel en fonction de critères de liste intelligente. Soustrayez le nombre bloqué du nombre de personnes pour obtenir le nombre total de personnes qui recevront le courriel.
 
 >[!TIP]
 >
