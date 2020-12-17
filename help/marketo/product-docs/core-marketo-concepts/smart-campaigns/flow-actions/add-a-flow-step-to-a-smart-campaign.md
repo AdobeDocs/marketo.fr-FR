@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les étapes de flux indiquent à Marketing ce que vous souhaitez faire pour un groupe de personnes qui remplissent les conditions requises. Ce sont vos instructions, et la campagne intelligente fera votre affaire !
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ Tapez pour rechercher une étape de flux, puis faites-la glisser sur la trame. V
 >**Plongée profonde**
 >
 >
->En savoir plus sur les différentes étapes [de](http://docs.marketo.com/display/DOCS/Flow+Actions)flux.
+>En savoir plus sur les différentes [étapes de flux](http://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Cliquez sur la liste déroulante et choisissez une option appropriée.
 
@@ -47,7 +47,7 @@ Tapez pour rechercher une étape de flux, puis faites-la glisser sur la trame. V
    >**Rappel**
    >
    >
-   >Les étapes de flux sont exécutées dans l’ordre dans lequel elles sont répertoriées.  [Réorganisez les étapes](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) de flux pour vous assurer qu’elles se suivent bien.
+   >Les étapes de flux sont exécutées dans l’ordre dans lequel elles sont répertoriées.  [Réorganisez les ](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) étapes de flux pour vous assurer qu’elles se suivent bien.
 
    >[!TIP]
    >
