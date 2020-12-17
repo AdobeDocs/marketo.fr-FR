@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Notes de mise à jour : Janv./fév. 2012 {#release-notes-jan-feb}
+# Notes de mise à jour : Jan/fév 2012 {#release-notes-jan-feb}
 
 Les fonctionnalités suivantes sont incluses dans la version de janvier/février. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 
@@ -19,7 +19,7 @@ Les fonctionnalités suivantes sont incluses dans la version de janvier/février
 >
 >**Plongée profonde**
 >
->Pour les autres versions, consultez la section plongée approfondie des Notes [de](http://docs.marketo.com/display/docs/release+notes) mise à jour.
+>Pour les autres versions, consultez les [Notes de mise à jour](http://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
 
 ## Contenu dynamique avancé {#advanced-dynamic-content}
 
@@ -29,7 +29,7 @@ Grâce à un contenu dynamique avancé, vous pouvez créer des communications et
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## Segmentation  {#segmentation}
+## Segmentation {#segmentation}
 
 *Disponible pour les versions Pro et Enterprise*
 
@@ -53,7 +53,7 @@ Grâce aux URL personnalisées (PURLs), les spécialistes du marketing peuvent d
 
 ![](assets/image2014-9-23-9-3a51-3a11.png)
 
-## Prise en charge de la directive européenne sur la protection de la vie privée {#eu-privacy-directive-support}
+## Prise en charge de la directive UE sur la protection des renseignements personnels {#eu-privacy-directive-support}
 
 Les nouvelles fonctionnalités permettant de respecter les paramètres &quot;Ne pas suivre&quot; du navigateur incluent la possibilité de désactiver le suivi des pistes anonymes ; cela facilite le respect des réglementations européennes plus strictes en matière de suivi de la vie privée.
 
@@ -78,7 +78,7 @@ Le nom De, De l’e-mail, Réponse (NOUVEAU) et Objet sont affichés dans l’é
 * Mozilla Firefox 9.0
 * Google Chrome 16
 * Microsoft Internet Explorer 8 et 9
-* **Remarque**: Nous ne prenons plus en charge Internet Explorer 7
+* **Remarque** : Nous ne prenons plus en charge Internet Explorer 7
 
 ## Gestion des programmes {#program-management}
 
@@ -100,7 +100,7 @@ Comprendre la contribution du marketing aux recettes d&#39;opportunité individu
 
 ![](assets/image2014-9-23-9-3a52-3a30.png)
 
-## Analyse de la phase Recettes programme {#program-revenue-stage-analysis}
+## Analyse d&#39;étape des recettes programme {#program-revenue-stage-analysis}
 
 Obtenir une vue d&#39;ensemble de la vitesse de pointe du programme en comprenant quels programmes ont acquis les mouvements rapides
 
