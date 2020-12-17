@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les fonctionnalités suivantes sont incluses dans la version de l’automne 15. Veuillez vérifier la disponibilité des fonctionnalités de votre édition Marketing.
 
-## S’abonner à une Liste dynamique {#subscribe-to-a-smart-list}
+## S&#39;abonner à une Liste dynamique {#subscribe-to-a-smart-list}
 
 [S’abonner à une Liste dynamique](../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
@@ -29,7 +29,7 @@ Plusieurs abonnements peuvent être créés sur une liste intelligente. Il y a u
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## Objets personnalisés marketing {#marketo-custom-objects}
+## Objets personnalisés du marketing {#marketo-custom-objects}
 
 [Objets personnalisés marketing](http://docs.marketo.com/display/docs/marketo+custom+objects)
 
@@ -42,11 +42,11 @@ Créez facilement des objets personnalisés à partir de l’interface utilisate
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Statistiques marketing pour Google Chrome {#marketo-insights-for-google-chrome}
+## Statistiques du marketing pour Google Chrome {#marketo-insights-for-google-chrome}
 
 [Statistiques marketing pour Google Chrome](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Nous sommes heureux d&#39;annoncer la publication d&#39;une mise à jour de notre extension Google Mail Sales Insight ! Vue-la dans le [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Nous sommes heureux d&#39;annoncer la publication d&#39;une mise à jour de notre extension Google Mail Sales Insight ! Vue-le dans le [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Cette mise à jour comprend de nombreuses nouvelles fonctionnalités :
 
@@ -56,23 +56,23 @@ Cette mise à jour comprend de nombreuses nouvelles fonctionnalités :
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Engagement de Marketo Mobile - Jetons, Envoyer un exemple et Prévisualisation {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Engagement Marketo Mobile - Tokens, Send Sample et Prévisualisation {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Jetons](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Envoyer un exemple](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Prévisualisation](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Personnalisez facilement les notifications Push avec [des jetons](https://docs.marketo.com/pages/viewpage.action?pageId=7512454).
+Personnalisez facilement les notifications Push à l&#39;aide de [jetons](https://docs.marketo.com/pages/viewpage.action?pageId=7512454).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Vous pouvez également [prévisualisation](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) ou envoyer un [exemple](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) de notification Push avant de le déployer sur les clients.
+Vous pouvez également [prévisualisation](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) ou envoyer une [notification Push ](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) avant de la déployer sur les clients.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
 ![](assets/image2015-10-1-13-3a46-3a20.png)
 
-## Campagnes intelligentes en quelques instants {#smart-campaigns-in-moments}
+## Campagnes intelligentes dans les moments {#smart-campaigns-in-moments}
 
 [Campagnes intelligentes en quelques instants](../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
@@ -87,7 +87,7 @@ Les statistiques sur les courriers électroniques envoyés par le biais des camp
 
 ## RTP - Analyse de contenu et Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Analyse](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) de contenu et Recommendations
+[Analyse de contenu ](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) et Recommendations
 
 L’analyse de contenu RTP vous montre les performances de vos ressources de contenu Web à partir de visites Web régulières, ainsi que des visites générées à partir du moteur de recommandation de contenu RTP.
 
@@ -97,8 +97,8 @@ L’analyse de contenu RTP vous montre les performances de vos ressources de con
 
 La page Actifs de RTP est désormais fractionnée en Analyses de contenu et en Recommendations de contenu.
 
-* **Analyse de contenu :** Affiche les vues et les pistes directes de tout le contenu Web découvert et défini, ce qui vous aide à analyser le contenu le plus performant
-* **Recommendations** de contenu : Affiche les impressions et les clics à partir du contenu recommandé de RTP et l&#39;attribution de piste associée. Vous pouvez également modifier et activer les recommandations de contenu de cette page pour la [barre](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) et les recommandations de médias [](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) enrichis.
+* **Analyse de contenu :** affiche les vues et les pistes directes de tout contenu Web découvert et défini, ce qui vous aide à analyser le contenu le plus performant.
+* **Recommendations** de contenu : Affiche les impressions et les clics à partir du contenu recommandé de RTP et l&#39;attribution de piste associée. Vous pouvez également modifier et activer les recommandations de contenu de cette page pour les recommandations [bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) et [média enrichi](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine).
 
 * Toutes les données de piste directe de ces deux pages ont été mises à jour rétrospectivement depuis le début de l&#39;année (1er janvier 2015).
 
@@ -110,7 +110,7 @@ Le clonage d’une campagne RTP rend plus rapide et plus efficace la création d
 
 ![](assets/clone2.png)
 
-## Améliorations de l’éditeur de texte enrichi {#rich-text-editor-improvements}
+## Améliorations apportées à l’éditeur de texte enrichi {#rich-text-editor-improvements}
 
 Nous apportons plusieurs améliorations à l’éditeur de texte enrichi. Après la publication de l&#39;éditeur mis à jour en juillet, nous avons reçu d&#39;excellents commentaires et avons pu apporter ces modifications à cette mise à niveau. Il y a beaucoup d’autres choses à venir au cours des prochains mois. Voici une liste des nouveautés du 4e trimestre :
 
@@ -167,11 +167,11 @@ Ce nouvel outil d’administration exécute une série de vérifications pour v�
 
 ![](assets/image2015-10-1-14-3a3-3a12.png)
 
-## Ajouter les champs à la synchronisation d’objets personnalisés CRM {#add-fields-to-crm-custom-object-sync}
+## Ajouter les champs à la synchronisation d&#39;objets personnalisés CRM {#add-fields-to-crm-custom-object-sync}
 
 Ajoutez facilement de nouveaux champs aux objets personnalisés synchronisés à partir de Salesforce et Dynamics. Vous pouvez désormais ajouter de nouveaux champs à votre synchronisation d’objets personnalisés sans désactiver ni activer l’ensemble de votre objet personnalisé.
 
-## Modifications des fonctions de sécurité {#changes-to-security-features}
+## Modifications des fonctionnalités de sécurité {#changes-to-security-features}
 
 * Les tentatives de mot de passe sont limitées à 5. Après la cinquième tentative, l&#39;utilisateur sera verrouillé.
 * Le délai d’expiration de session inactif peut désormais être configuré pour l’abonnement.
@@ -182,7 +182,7 @@ Ajoutez facilement de nouveaux champs aux objets personnalisés synchronisés à
 
 Nous prenons désormais officiellement en charge le navigateur Microsoft Internet Explorer 11 et supprimons la prise en charge du navigateur Microsoft Internet Explorer 9.
 
-## Prise en charge de l’interface utilisateur de Lightning pour MSI {#lightning-ui-support-for-msi}
+## Prise en charge de l’interface utilisateur Lightning pour MSI {#lightning-ui-support-for-msi}
 
 Le dernier pack MSI sur l’échange d’applications fonctionne avec les versions Lightning et Legacy de l’interface utilisateur de Salesforce.
 
