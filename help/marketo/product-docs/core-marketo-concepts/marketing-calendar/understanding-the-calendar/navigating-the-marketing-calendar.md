@@ -17,9 +17,9 @@ La navigation dans le calendrier marketing est facile comme un, deux, trois !
 
 >[!PREREQUISITES]
 >
->Assurez-vous que vous disposez d’une licence [Calendrier](issue-revoke-a-marketing-calendar-license.md) marketing ; sinon, la mosaïque Calendrier marketing ne s’affichera pas dans Mon marketing.
+>Assurez-vous de disposer d’une licence [Calendrier marketing](issue-revoke-a-marketing-calendar-license.md). Sinon, la mosaïque Calendrier marketing ne s’affichera pas dans Mon marketing.
 
-1. Accédez au calendrier **** marketing.
+1. Accédez au **Calendrier marketing**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -33,17 +33,17 @@ La navigation dans le calendrier marketing est facile comme un, deux, trois !
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## Utiliser la Vue de l&#39;ordre du jour {#use-the-agenda-view}
+## Utiliser la Vue d&#39;ordre du jour {#use-the-agenda-view}
 
 La vue d&#39;ordre du jour affiche toutes vos entrées en tant que liste.
 
-1. Cliquez sur la liste déroulante **** Filtre.
+1. Cliquez sur la liste déroulante **Filtre**.
 
    ` ![](assets/image2014-9-26-10-3a29-3a6.png)
 
    `
 
-1. Sélectionnez la vue **Ordre du jour** .
+1. Sélectionnez la vue **Ordre du jour**.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -51,7 +51,7 @@ La vue d&#39;ordre du jour affiche toutes vos entrées en tant que liste.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## Navigation dans le temps {#navigate-through-time}
+## Naviguer dans le temps {#navigate-through-time}
 
 Sans DeLorean ! Il vous suffit de cliquer sur les boutons de navigation.
 
