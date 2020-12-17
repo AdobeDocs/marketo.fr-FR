@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Réexécution d’une Campaign dynamique dans la Vue de Planning du programme {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# Réexécuter une Campaign dynamique dans la Vue de Planning du programme {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
 Vous pouvez facilement créer de nouvelles exécutions d’une campagne dynamique existante directement à partir de la vue de Planning du programme.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ Vous pouvez facilement créer de nouvelles exécutions d’une campagne dynamiqu
 
    >[!TIP]
    >
-   >Vous pouvez également effectuer cette opération à partir de la mise au point [du](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)programme.
+   >Vous pouvez également effectuer cette opération à partir du [programme cible](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boum ! De la même manière, vous avez planifié une autre exécution pour cette campagne intelligente. Si cette campagne intelligente contenait des étapes d&#39;envoi d&#39;e-mails, vous les verrez aussi !
