@@ -17,9 +17,9 @@ Si vous disposez d’espaces de travail, vous pouvez ajouter d’autres domaines
 
 >[!PREREQUISITES]
 >
->Vous devez d’abord [modifier votre domaine](edit-your-default-branding-domain.md) de marque par défaut.
+>Vous devez d&#39;abord [modifier votre domaine de marque par défaut](edit-your-default-branding-domain.md).
 >
->Vous devez d’abord [remplacer le lien](edit-your-default-branding-domain-with-workspaces.md) de suivi générique par un domaine de marque avant d’ajouter d’autres domaines de marque.
+>Vous devez tout d&#39;abord [remplacer le lien de suivi générique](edit-your-default-branding-domain-with-workspaces.md) par un domaine de marque avant d&#39;ajouter d&#39;autres domaines de marque.
 
 1. Accédez à **Admin **, puis cliquez sur **Courriel**.
 
@@ -37,7 +37,7 @@ Si vous disposez d’espaces de travail, vous pouvez ajouter d’autres domaines
    >
    >Vous pouvez choisir de faire de ce domaine votre domaine Principal pour un ou plusieurs espaces de travail, et tous les e-mails non envoyés existants sont définis sur &quot;Par défaut&quot; et tous les e-mails nouvellement créés seront définis par défaut sur le domaine Principal. Vous pouvez remplacer ce paramètre par courriel.
 
-1. Sélectionnez le nouveau domaine de marque, puis cliquez sur **Enregistrer**.
+1. Sélectionnez le nouveau domaine de marque et cliquez sur **Enregistrer**.
 
    ![](assets/image2016-8-12-10-3a52-3a44.png)
 
