@@ -27,13 +27,13 @@ Les activités personnalisées vous aident à effectuer le suivi d’une activit
 >
 >Les activités personnalisées diffèrent des objets personnalisés. Utilisez des objets personnalisés lorsque la valeur peut changer (c.-à-d. La couleur de la voiture passe du bleu au rouge). Utilisez des activités personnalisées lors du suivi des moments qui se sont produits et leurs détails ne peuvent pas être modifiés (ex. &quot;voiture achetée&quot;).
 
-**Champs** Vous pouvez ajouter des champs [](https://docs.marketo.com/x/Mx6a) supplémentaires que vous souhaitez associer à votre activité. Comme le champ Principal, ils peuvent être utilisés comme critères de filtrage dans une liste intelligente.
+**** ChampsVous pouvez ajouter des champs  [ ](https://docs.marketo.com/x/Mx6a) supplémentaires que vous souhaitez associer à votre activité. Comme le champ Principal, ils peuvent être utilisés comme critères de filtrage dans une liste intelligente.
 
 **Prise en main**
 
 Les activités personnalisées fonctionnent comme les activités standard. Leur configuration est toutefois un processus en deux parties.
 
-Étape 1 : [Création d’une activité](create-a-custom-activity.md) personnalisée dans votre compte Marketo
+Étape 1 : [Créer une activité personnalisée](create-a-custom-activity.md) dans votre compte Marketo
 
 Étape 2 : L’employé de votre organisation qui travaille avec notre API peut alors commencer l’implémentation. Vous trouverez plus d&#39;informations ici : [API d’Activité personnalisée](http://developers.marketo.com/documentation/rest/add-custom-activities/)
 
