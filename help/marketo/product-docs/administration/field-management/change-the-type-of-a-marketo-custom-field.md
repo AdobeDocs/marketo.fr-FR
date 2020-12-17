@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Modification du type d’un champ personnalisé de marketing {#change-the-type-of-a-marketo-custom-field}
+# Modifier le type d&#39;un champ personnalisé de marketing {#change-the-type-of-a-marketo-custom-field}
 
 Voici comment modifier le type de champ d’un champ personnalisé.
 
-1. Accédez à **Admin **et cliquez sur Gestion des **** champs.
+1. Accédez à **Admin **et cliquez sur **Gestion des champs**.
 
    ![](assets/image2014-9-18-13-3a4-3a39.png)
 
@@ -23,7 +23,7 @@ Voici comment modifier le type de champ d’un champ personnalisé.
 
    ![](assets/image2014-9-18-13-3a4-3a48.png)
 
-1. Dans la liste déroulante Actions **** de champ, cliquez sur **Changer de type**.
+1. Dans la liste déroulante **Actions de champ**, cliquez sur **Changer de type**.
 
    ![](assets/image2014-9-18-13-3a4-3a57.png)
 
