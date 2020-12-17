@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Créez un rapport Performances des liens de courriel afin de déterminer les performances des liens de vos courriels.
 
-1. [Créez un rapport dans un programme](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez Performance **des liens de** courriel comme type de rapport.
+1. [Créez un rapport dans un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programme et sélectionnez  **** Performances des liens de courriel comme type de rapport.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -23,7 +23,7 @@ Créez un rapport Performances des liens de courriel afin de déterminer les per
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. Doublon-clic sur la **date d&#39;Activité** sous **Paramètres**.
+1. Doublon-clic sur **Date d&#39;Activité** sous **Paramètres**.
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
@@ -39,7 +39,7 @@ Créez un rapport Performances des liens de courriel afin de déterminer les per
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[Les colonnes disponibles](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) pour un rapport Performance de lien de courriel sont les suivantes :
+[Les colonnes ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) disponibles pour un rapport Performance de lien de courriel sont les suivantes :
 
 <table> 
  <thead> 
@@ -74,7 +74,7 @@ Créez un rapport Performances des liens de courriel afin de déterminer les per
 
 >[!TIP]
 >
->Si vous souhaitez savoir exactement ce qu&#39;une personne a fait, vous pouvez ouvrir le Journal [des](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) Activités dans la page Détails [de la](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) personne à partir de l&#39;onglet Membres du programme.
+>Si vous souhaitez savoir exactement ce qu&#39;une personne a fait, vous pouvez ouvrir le [journal d&#39;Activité](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) dans la page [Détails de la personne](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) à partir de l&#39;onglet Membres du programme.
 
 >[!MORELIKETHIS]
 >
@@ -89,5 +89,5 @@ Créez un rapport Performances des liens de courriel afin de déterminer les per
 >
 >**Plongée profonde**
 >
->En savoir plus sur le Rapports [](http://docs.marketo.com/display/docs/basic+reporting)de base.
+>En savoir plus sur [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
