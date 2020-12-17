@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Classement et réglage des profils de compte {#account-profiling-ranking-and-tuning}
+# Classement et réglage du profil de compte {#account-profiling-ranking-and-tuning}
 
 Le profilage de compte identifie votre Profil client idéal (ICP), classe les sociétés dans votre base de données en fonction du PCI et ajoute des données d&#39;indicateur ICP aux comptes promus en tant que comptes nommés.
 
@@ -21,7 +21,7 @@ Les résultats vous montrent tous vos comptes connus ventilés par note. A est l
 
 ![](assets/results.png)
 
-Bien que cette case soit facultative, nous vous recommandons de la cocher Promouvoir automatiquement, car elle vous fera gagner une tonne de temps. Cependant, si vous souhaitez parcourir chaque compte et les [ajouter manuellement](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts), laissez simplement la case décochée.
+Bien que cette case soit facultative, nous vous recommandons de la cocher Promouvoir automatiquement, car elle vous fera gagner une tonne de temps. Cependant, si vous souhaitez passer en revue chaque compte et [les ajouter manuellement](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts), laissez simplement la case décochée.
 
 <table> 
  <tbody> 
@@ -89,13 +89,13 @@ Cliquez sur la liste déroulante Ajouter un indicateur ICP pour insérer des ind
 
 ![](assets/add-icp.png)
 
-Cochez la case Exporter pour afficher l&#39;indicateur ICP sur la page Détails du compte nommé, ainsi que pour utiliser l&#39;indicateur ICP sélectionné comme contraintes dans les filtres [de compte](http://docs.marketo.com/display/DOCS/Account+Filters)nommé.
+Si vous cochez la case Exporter, vous pouvez afficher l&#39;indicateur ICP sur la page Détails du compte nommé et utiliser l&#39;indicateur ICP sélectionné comme contraintes dans les [filtres de compte nommés](http://docs.marketo.com/display/DOCS/Account+Filters).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Les indicateurs ICP sont inclus en tant que contraintes dans **Membre des Filtres et déclencheurs de compte** nommé.
+>Les indicateurs ICP sont inclus en tant que contraintes dans les Filtres et déclencheurs **Membre du compte nommé**.
 
 La pondération de l&#39;indicateur détermine le niveau d&#39;importance que chaque indicateur reçoit dans votre modèle.
 
@@ -105,7 +105,7 @@ Cliquez sur Actualiser le modèle pour que ces modifications prennent effet.
 
 ![](assets/refresh-button.png)
 
-Lorsque vous avez terminé de régler votre modèle (après l&#39;avoir actualisé), revenez à l&#39;onglet Résultats du modèle et cliquez sur **Enregistrer et appliquer des classements**.
+Lorsque vous avez terminé de régler votre modèle (après l&#39;avoir actualisé), revenez à l&#39;onglet Résultats du modèle et cliquez sur **Enregistrer et appliquer les classements**.
 
 ![](assets/ranks.png)
 
