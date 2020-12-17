@@ -25,7 +25,7 @@ Pour filtrer par liste de compte, cliquez sur la liste déroulante Vue...
 
 ![](assets/three.png)
 
-Pour vue au Tableau de bord [de Liste de](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)compte, cliquez sur le nom de la liste de compte que vous avez sélectionnée...
+Pour vue au [Tableau de bord de Liste de compte](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard), cliquez sur le nom de la liste de compte que vous avez sélectionnée...
 
 ![](assets/four.png)
 
@@ -33,11 +33,11 @@ Pour vue au Tableau de bord [de Liste de](http://docs.marketo.com/display/DOCS/A
 
 ![](assets/five.png)
 
-Si, au lieu d&#39;afficher le Tableau de bord de Liste de compte que vous souhaitez analyser en détail un compte nommé, cliquez sur **Plus de détails** sous son nom...
+Si, au lieu de consulter le Tableau de bord de Liste de compte, vous souhaitez effectuer une analyse approfondie dans un compte nommé, cliquez sur **Plus de détails** sous son nom...
 
 ![](assets/six.png)
 
-...et de vue des informations [du compte](http://docs.marketo.com/display/DOCS/Named+Account+Insights)nommé.
+...et vue les [informations du compte nommé](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
 
 ![](assets/seven.png)
 
