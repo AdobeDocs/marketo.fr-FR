@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Découvrez comment votre programme de messagerie (avec ou sans test A/B) fonctionne avec ce tableau de bord.
 
-## Sélectionnez votre Programme de messagerie {#select-your-email-program}
+## Sélectionnez votre Programme de courriel {#select-your-email-program}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -35,9 +35,9 @@ Si vous avez ajouté un test A/B à votre programme de messagerie et que le test
 
 ![](assets/image2014-9-12-14-3a2-3a25.png)
 
-## Vue de Programme de courriel {#email-program-view}
+## Vue de Programme électronique {#email-program-view}
 
-Si vous n’avez pas ajouté de test A/B *ou* si le test est terminé, les éléments suivants doivent s’afficher :
+Si vous n’avez pas ajouté de test A/B *ou* si le test est terminé, les éléments suivants doivent être affichés :
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
