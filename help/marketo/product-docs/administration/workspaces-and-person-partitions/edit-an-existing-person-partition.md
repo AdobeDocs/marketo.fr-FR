@@ -31,11 +31,11 @@ Une partition de personne est comme avoir une deuxième (ou une troisième) base
 
    ![](assets/image2014-9-17-10-3a51-3a23.png)
 
-1. Sous l&#39;onglet **Partitions** personnelles, sélectionnez la partition de personne à modifier, puis cliquez sur **Modifier la partition** de personne.
+1. Sous l&#39;onglet **Partitions de personne**, sélectionnez la partition de personne à modifier et cliquez sur **Modifier la partition de personne**.
 
    ![](assets/two-5.png)
 
-1. Saisissez le **nom** de la partition de la personne, les **espaces de travail **auxquels ils appartiennent, puis cliquez sur **Enregistrer**.
+1. Saisissez la partition de personne **Nom**, les **espaces de travail **auxquels ils appartiennent, puis cliquez sur **Enregistrer**.
 
    ![](assets/three-5.png)
 
