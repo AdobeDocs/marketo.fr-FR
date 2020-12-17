@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création d’un favori {#creating-a-favorite}
+# Création d&#39;un favori {#creating-a-favorite}
 
 Favoris une carte pour faciliter les références futures.
 
