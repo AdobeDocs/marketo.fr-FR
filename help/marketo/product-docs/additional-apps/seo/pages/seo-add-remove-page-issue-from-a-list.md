@@ -15,16 +15,16 @@ ht-degree: 0%
 
 Vous pouvez organiser vos problèmes de page en listes. Vous pouvez également supprimer des problèmes de page d’une liste.
 
-## Ajouter des problèmes de page à une Liste {#add-page-issues-to-a-list}
+## Ajouter les problèmes de page à une Liste {#add-page-issues-to-a-list}
 
-1. Accédez à la section **Pages** .
+1. Accédez à la section **Pages**.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. Dans l’onglet Pages, cliquez sur **Problèmes**.
+1. Dans l’onglet des pages, cliquez sur **Problèmes**.
 1. ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Passez la souris sur le problème de page à ajouter. Cliquez sur **AJOUTER/SUPPRIMER DE LA LISTE**.
+1. Passez la souris sur le problème de page à ajouter. Cliquez sur **AJOUTER/SUPPRIMER de la LISTE**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -41,7 +41,7 @@ Vous pouvez organiser vos problèmes de page en listes. Vous pouvez également s
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. Dans l’onglet Pages, cliquez sur **Problèmes**.
+1. Dans l’onglet des pages, cliquez sur **Problèmes**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -49,7 +49,7 @@ Vous pouvez organiser vos problèmes de page en listes. Vous pouvez également s
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Passez la souris sur le problème de page à supprimer. Cliquez sur **AJOUTER/SUPPRIMER DE LA LISTE**.
+1. Passez la souris sur le problème de page à supprimer. Cliquez sur **AJOUTER/SUPPRIMER de la LISTE**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
