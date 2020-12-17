@@ -31,7 +31,7 @@ Le mode d’importation de liste est disponible uniquement pour les utilisateurs
 
    ![](assets/image2014-9-17-11-3a51-3a49.png)
 
-1. Sous Access Database, cochez **Advanced Liste Import** , puis cliquez sur **Save**(Enregistrer).
+1. Sous Access Database, cochez **Advanced Liste Import**, puis cliquez sur **Save**.
 
    ![](assets/four-1.png)
 
