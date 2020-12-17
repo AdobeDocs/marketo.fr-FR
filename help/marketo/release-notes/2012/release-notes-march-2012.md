@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**Plongée profonde**
 >
->Pour les autres versions, consultez la section plongée approfondie des Notes [de](http://docs.marketo.com/display/docs/release+notes) mise à jour.
+>Pour les autres versions, consultez les [Notes de mise à jour](http://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
 >
->## Résoudre mes jetons {#resolve-my-tokens}>
+>## Résoudre mes jetons &lt;a0/&quot;{#resolve-my-tokens}
 
 Mes jetons (jetons de Programme) seront résolus lors de la prévisualisation d&#39;un courriel, lors de l&#39;envoi d&#39;un courriel de test et lors de l&#39;envoi d&#39;un courriel local par le biais d&#39;une seule action de flux. Vous n&#39;aurez plus à créer une campagne intelligente dans le programme pour tester vos Mes jetons !
 
-## Basculer entre l’éditeur et l’Aperçu dans les courriers électroniques et les Landings page {#toggle-between-previewer-and-editor-in-emails-and-landing-pages}
+## Basculer entre l’éditeur et l’aperçu dans les courriers électroniques et les Landings page {#toggle-between-previewer-and-editor-in-emails-and-landing-pages}
 
 En un seul clic, vous pouvez facilement faire des allers-retours entre l’éditeur et l’aperçu.
 
