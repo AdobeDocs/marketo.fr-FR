@@ -29,7 +29,7 @@ Les courriels peuvent contenir quatre éléments différents : Texte enrichi, im
 
    ![](assets/three.png)
 
-1. Ajoutez/modifiez votre texte, puis appuyez sur **Enregistrer**.
+1. Ajoutez/modifiez votre texte et appuyez sur **Enregistrer**.
 
    ![](assets/four.png)
 
@@ -38,7 +38,7 @@ Les courriels peuvent contenir quatre éléments différents : Texte enrichi, im
    >**Rappel**
    >
    >
-   >Vous pouvez également ajouter des images, des jetons, des tableaux et d’autres éléments. Voir [Utilisation de l’éditeur](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)de texte enrichi.
+   >Vous pouvez également ajouter des images, des jetons, des tableaux et d’autres éléments. Voir [Utilisation de l’éditeur de texte enrichi](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -50,7 +50,7 @@ Les courriels peuvent contenir quatre éléments différents : Texte enrichi, im
 
    ![](assets/five.png)
 
-1. Cliquez sur l’élément Image à modifier, puis sur l’icône représentant un engrenage et sélectionnez **Modifier**.
+1. Cliquez sur l’élément Image à modifier, puis sur l’icône d’engrenage et sélectionnez **Modifier**.
 
    ![](assets/six.png)
 
@@ -88,9 +88,9 @@ Les courriels peuvent contenir quatre éléments différents : Texte enrichi, im
 
    >[!NOTE]
    >
-   >Si vous remplacez une image, vous devez cocher la case **Remplacer l’image** existante qui s’affiche sous l’URL/nom de l’image.
+   >Si vous remplacez une image, vous devez cocher la case **Remplacer l’image existante** qui s’affiche sous l’URL/le nom de l’image.
 
-   **Design** StudioPour insérer une image à partir de Design Studio, localisez-la simplement...
+   **Design** StudioPour insérer une image de Design Studio, localisez-la simplement...
 
    ![](assets/twelve.png)
 
@@ -99,7 +99,7 @@ Les courriels peuvent contenir quatre éléments différents : Texte enrichi, im
 
 Pour utiliser une URL externe, collez d’abord dans l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du texte de remplacement (facultatif). Appuyez ensuite sur .               ...et l&#39;insérer. Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur .
 
-## Modification de l’élément d’extrait de code {#how-to-edit-the-snippet-element}
+## Modification de l’élément de fragment de code {#how-to-edit-the-snippet-element}
 
 1. Cliquez à l&#39;intérieur du module avec l&#39;élément Extrait de code.
 
@@ -127,7 +127,7 @@ Pour utiliser une URL externe, collez d’abord dans l’URL de l’image. Modif
 
    ![](assets/twenty.png)
 
-1. Collez l’URL de la vidéo sur Vimeo ou YouTube. Cliquez ensuite en dehors de la zone URL pour que la prévisualisation soit chargée. Modifiez les dimensions en fonction de vos besoins, ajoutez Texte de remplacement (facultatif), puis appuyez sur **Insérer**.
+1. Collez l’URL de la vidéo sur Vimeo ou YouTube. Cliquez ensuite en dehors de la zone URL pour que la prévisualisation soit chargée. Modifiez les dimensions en fonction de vos besoins, ajoutez le texte de remplacement (facultatif), puis appuyez sur **Insérer**.
 
    ![](assets/twentyone.png)
 
