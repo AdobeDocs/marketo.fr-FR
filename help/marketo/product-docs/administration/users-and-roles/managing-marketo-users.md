@@ -23,13 +23,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Saisissez l’adresse **de** courriel, le **prénom** et le **nom. **
+1. Entrez **Adresse électronique**, **Prénom** et **Nom. **
 
    ** ![](assets/image2016-5-24-9-3a45-3a30.png)
 
    **
 
-1. Si vous le souhaitez, entrez un motif pour l&#39;invitation et sélectionnez une date d&#39;expiration dans le champ **Access Expires** à l&#39;aide du sélecteur de date.
+1. Si vous le souhaitez, entrez un motif pour l&#39;invitation et sélectionnez une date d&#39;expiration dans le champ **Access Expires** à l&#39;aide du sélecteur de dates.
 
    ![](assets/image2016-6-29-15-3a52-3a18.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >Lorsque la date d’expiration arrive, l’utilisateur reçoit une notification d’expiration et son compte est verrouillé.
 
-1. Sélectionnez le **Rôle **de votre choix et cliquez sur **Suivant**.
+1. Sélectionnez le **rôle **de votre choix et cliquez sur **Suivant**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 Le nouvel utilisateur est désormais répertorié dans l’onglet Utilisateurs et recevra un courrier électronique contenant des instructions sur la façon d’activer son compte.
 
-## Suppression d’utilisateurs {#delete-users}
+## Supprimer des utilisateurs {#delete-users}
 
 1. Accédez à Admin et cliquez sur Utilisateurs et rôles.
 
@@ -101,7 +101,7 @@ L&#39;utilisateur recevra un courrier électronique contenant des instructions d
 >
 >Si l&#39;utilisateur ne voit pas le courrier électronique dans sa boîte de réception, demandez-lui de vérifier son dossier de courrier indésirable.
 
-## Modification des autorisations et modification des informations utilisateur {#change-permissions-and-edit-user-information}
+## Modifier les autorisations et modifier les informations utilisateur {#change-permissions-and-edit-user-information}
 
 1. Accédez à **Admin** et cliquez sur **Utilisateurs et rôles.**
 
