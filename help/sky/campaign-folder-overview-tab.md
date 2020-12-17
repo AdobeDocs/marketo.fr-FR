@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Dossier Campaign : Onglet Aperçu
 
-Il existe deux sections sous l’onglet [!UICONTROL Aperçu] du dossier de campagne : **[!UICONTROL Détails]** et **[!UICONTROL rapports]**.
+Il existe deux sections sous l’onglet Aperçu[!UICONTROL  du dossier de campagne : ]Détails **[!UICONTROL et]** Rapports **[!UICONTROL .]**
 
 ![Image un](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
@@ -28,7 +28,7 @@ Cliquez sur la liste déroulante Actions de dossier dans le coin supérieur droi
 
 [!UICONTROL Nombre de rapports]
 
-Dans la section [!UICONTROL Rapports] , vous trouverez des informations clés sur les différentes campagnes de votre dossier.
+Dans la section [!UICONTROL Rapports], vous trouverez des informations clés sur les différentes campagnes de votre dossier.
 
 ![Image un](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-3.png)
 
