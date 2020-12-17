@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Envoyer un courriel {#send-email}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 L&#39;étape **Envoyer un e-mail **flux peut être utilisée dans le cadre de campagnes ou comme une étape de flux unique pour envoyer des e-mails à vos utilisateurs.
 
