@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Définir un préfixe de champ personnalisé par défaut {#set-a-default-custom-field-prefix}
 
-Votre préfixe Microsoft Dynamics par défaut pour les champs personnalisés doit être **nouveau** pour que les champs propriétaires de Marketo se synchronisent correctement. Voici comment modifier le préfixe par défaut.
+Votre préfixe Microsoft Dynamics par défaut pour les champs personnalisés doit être **new** pour que les champs propriétaires de Marketo se synchronisent correctement. Voici comment modifier le préfixe par défaut.
 
 1. Accédez à Paramètres et sélectionnez **Personnalisations.**
 
@@ -29,7 +29,7 @@ Votre préfixe Microsoft Dynamics par défaut pour les champs personnalisés doi
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. Remplacez le préfixe par le **nouveau**. Cliquez sur **Enregistrer et fermer**.
+1. Remplacez le préfixe par **new**. Cliquez sur **Enregistrer et fermer**.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
