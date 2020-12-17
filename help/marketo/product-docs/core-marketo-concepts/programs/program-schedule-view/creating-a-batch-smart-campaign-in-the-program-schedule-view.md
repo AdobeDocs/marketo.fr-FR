@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Création d’une Campaign intelligente par lot dans la Vue de Planning du programme {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
+# Création d’une Campaign Smart par lot dans la Vue de Planning du programme {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-Vous pouvez créer de nouvelles campagnes intelligentes et [réexécuter des campagnes](rerun-a-smart-campaign-in-the-program-schedule-view.md) existantes dans votre programme à partir de la vue de Planning du programme.
+Vous pouvez créer de nouvelles campagnes intelligentes et [réexécuter des campagnes existantes](rerun-a-smart-campaign-in-the-program-schedule-view.md) dans votre programme à partir de la vue de Planning du programme.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Vous pouvez créer de nouvelles campagnes intelligentes et [réexécuter des cam
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. Choisissez un nom pour votre entrée, qui deviendra votre nouvelle campagne intelligente. Appuyez sur la touche **Entrée/Retour** pour confirmer le nom.
+1. Choisissez un nom pour votre entrée, qui deviendra votre nouvelle campagne intelligente. Appuyez sur la touche **Entrée** pour confirmer le nom.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
@@ -37,7 +37,7 @@ Vous pouvez créer de nouvelles campagnes intelligentes et [réexécuter des cam
 
    ![](assets/four.png)
 
-1. Choisissez vos règles de campagne [](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) intelligente.
+1. Sélectionnez vos règles [campagne intelligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
    ![](assets/changeprogramstatus-hands.png)
 
