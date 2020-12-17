@@ -27,7 +27,7 @@ Vue des personnes qui ont déjà parcouru le flux de campagne intelligent ; c&#3
 >
 >Vous pouvez vue des membres de la campagne n’importe où dans une campagne intelligente.
 
-1. L&#39;onglet Membres **** Campaign affiche les personnes qui ont déjà parcouru le flux de campagne dynamique.
+1. L&#39;onglet **Membres Campaign** affiche les personnes qui ont déjà parcouru le flux de campagne dynamique.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
@@ -40,7 +40,7 @@ Vue des personnes qui ont déjà parcouru le flux de campagne intelligent ; c&#3
    >**Plongée profonde**
    >
    >
-   >En savoir plus sur ce que vous pouvez faire avec [les listes](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >En savoir plus sur ce que vous pouvez faire avec [listes](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
    >[!NOTE]
    >
