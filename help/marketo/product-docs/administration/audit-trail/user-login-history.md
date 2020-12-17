@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Historique de connexion des utilisateurs {#user-login-history}
+# Historique de connexion de l&#39;utilisateur {#user-login-history}
 
 L&#39;historique de connexion de l&#39;utilisateur permet de maintenir la responsabilité et la sécurité en vous montrant exactement qui s&#39;est connecté à votre abonnement, y compris les tentatives de connexion ayant échoué.
 
@@ -29,11 +29,11 @@ L&#39;historique de connexion des utilisateurs identifie les personnes qui se co
 
 Pour vue à l&#39;historique de connexion de l&#39;utilisateur :
 
-1. Cliquez sur l’onglet **Admin** et sous Sécurité, cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur l&#39;onglet **Admin** et sous Sécurité, cliquez sur **Utilisateurs et rôles**.
 
    ![](assets/image2016-7-12-9-3a2-3a31.png)
 
-1. Cliquez sur l&#39;onglet **Historique** de connexion. La liste affiche les connexions les plus récentes.
+1. Cliquez sur l&#39;onglet **Historique de connexion**. La liste affiche les connexions les plus récentes.
 
    ![](assets/login-history-tab.jpg)
 
@@ -49,13 +49,13 @@ Pour vue à l&#39;historique de connexion de l&#39;utilisateur :
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. Sélectionnez des utilisateurs dans la liste déroulante **Utilisateurs** .** **
+1. Sélectionnez des utilisateurs dans la liste déroulante **Utilisateurs**.** **
 
    ** ![](assets/user-dropdown.jpg)
 
    **
 
-1. Cochez la case **Uniquement les connexions ayant échoué** pour afficher uniquement les connexions ayant échoué dans votre recherche.
+1. Cochez la case **Uniquement les connexions ayant échoué** pour n&#39;afficher que les connexions ayant échoué dans votre recherche.
 
    ![](assets/only-failed-logins.jpg)
 
