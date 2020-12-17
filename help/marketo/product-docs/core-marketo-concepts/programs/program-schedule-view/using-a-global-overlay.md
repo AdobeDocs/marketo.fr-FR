@@ -17,7 +17,7 @@ L’incrustation globale dans la vue de Planning du programme vous permet d’af
 
 >[!PREREQUISITES]
 >
->Vous devez disposer d’une licence [de calendrier](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) marketing pour utiliser cette fonction.
+>Vous devez disposer d’une [licence Calendrier marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) pour utiliser cette fonction.
 
 ## Utilisation de l’incrustation globale {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ L’incrustation globale dans la vue de Planning du programme vous permet d’af
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Sélectionnez **Incrustation** dans le coin inférieur droit.
+1. Sélectionnez **Recouvrement** dans le coin inférieur droit.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -37,11 +37,11 @@ L’incrustation globale dans la vue de Planning du programme vous permet d’af
 
    ![](assets/image2014-9-24-10-3a16-3a19.png)
 
-## Utilisation d’un filtre enregistré comme incrustation {#use-a-saved-filter-as-an-overlay}
+## Utiliser un filtre enregistré comme incrustation {#use-a-saved-filter-as-an-overlay}
 
-Si vous avez [enregistré un filtre dans le calendrier](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)marketing, vous pouvez l’utiliser comme incrustation dans la vue de Planning du programme.
+Si vous avez [enregistré un filtre dans le calendrier marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), vous pouvez l’utiliser comme incrustation dans la vue de Planning du programme.
 
-1. Cliquez sur la liste déroulante **Incrustation** et sélectionnez votre définition de filtre.
+1. Cliquez sur la liste déroulante **Recouvrement** et sélectionnez votre définition de filtre.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
