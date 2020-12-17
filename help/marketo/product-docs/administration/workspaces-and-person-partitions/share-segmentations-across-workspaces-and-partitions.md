@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Partage de segments entre les espaces de travail et les partitions {#share-segmentations-across-workspaces-and-partitions}
+# Partager des segments entre les espaces de travail et les partitions {#share-segmentations-across-workspaces-and-partitions}
 
 >[!PREREQUISITES]
 >
@@ -33,7 +33,7 @@ Une fois ces personnages configurés (**et** vous utilisez des espaces de travai
 
 * Chaque abonnement de marketing peut contenir jusqu’à 20 segments &quot;total&quot; sur plusieurs espaces de travail (**pas 20 par espace de travail**).
 * Vous pouvez uniquement partager une segmentation avec les espaces de travail auxquels vous avez accès.
-* Assurez-vous de créer et d&#39;utiliser un espace de travail **par défaut doté d&#39;une visibilité sur toutes les partitions**.
+* Veillez à créer et à utiliser un espace de travail **par défaut qui dispose d&#39;une visibilité sur toutes les partitions**.
 
 * Le traitement de la segmentation s’exécute uniquement sur les personnes de l’espace de travail dans lequel la segmentation est créée.
 
@@ -60,7 +60,7 @@ Une fois ces personnages configurés (**et** vous utilisez des espaces de travai
 
 **
 
-## Partage d’une segmentation {#share-a-segmentation}
+## Partager une segmentation {#share-a-segmentation}
 
 1. Accédez à la base de données.
 
