@@ -23,11 +23,11 @@ Vous pouvez désactiver les notifications électroniques automatiques envoyées 
 
    ![](assets/adminsalesforce.png)
 
-1. Sous Options **de** synchronisation, cliquez sur **Modifier**.
+1. Sous **Options de synchronisation**, cliquez sur **Modifier**.
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Décochez la case **Envoyer une notification par courrier électronique au propriétaire dans Salesforce lors de l&#39;affectation** de piste. Cliquez sur **Enregistrer**.
+1. Décochez la case **Envoyer une notification par courrier électronique au propriétaire dans Salesforce lors de l&#39;affectation de piste**. Cliquez sur **Enregistrer**.
 
    ![](assets/new-screen.png)
 
