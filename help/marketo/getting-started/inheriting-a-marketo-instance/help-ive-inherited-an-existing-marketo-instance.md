@@ -29,4 +29,4 @@ Alors prenez votre boisson préférée et jetez un oeil aux alentours.
 * [Eléments à examiner : Compétences de base](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
 * [Méthodes pour obtenir de l’aide](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 
-Si vous connaissez déjà votre façon de contourner votre instance et que vous êtes à l’aise avec les concepts de base de Marketo, consultez les Docs produit de Marketo ou visitez la communauté en ligne [Marketing Nation](https://nation.marketo.com/) pour découvrir ce que disent les autres utilisateurs de Marketo.
+Si vous connaissez déjà votre façon de contourner votre instance et que vous êtes à l&#39;aise avec les concepts de base de Marketo, consultez les Docs produit de Marketo ou visitez la [communauté en ligne ](https://nation.marketo.com/) Marketing Nation&lt;a1/> pour découvrir ce que disent les autres utilisateurs de Marketo.
