@@ -18,7 +18,7 @@ Si vous avez une campagne par lots récurrente que vous ne souhaitez plus, vous 
 
 ## Annuler la répétition complète
 
-1. Sélectionnez la campagne et accédez à l’onglet **[!UICONTROL Planification]** .
+1. Sélectionnez la campagne et accédez à l&#39;onglet **[!UICONTROL Planification]**.
 
    ![Image un](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
@@ -26,7 +26,7 @@ Si vous avez une campagne par lots récurrente que vous ne souhaitez plus, vous 
 
    ![Image 2](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
-1. Définissez Récurring sur None et cliquez sur **[!UICONTROL Confirm]**.
+1. Définissez Recurring sur None et cliquez sur **[!UICONTROL Confirm]**.
 
    ![Image trois](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-3.png)
 
@@ -36,15 +36,15 @@ Si vous avez une campagne par lots récurrente que vous ne souhaitez plus, vous 
 
 ## Annuler une seule exécution
 
-1. Sélectionnez la campagne et accédez à l’onglet **[!UICONTROL Planification]** .
+1. Sélectionnez la campagne et accédez à l&#39;onglet **[!UICONTROL Planification]**.
 
    ![Image 4](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
-1. Cliquez sur **[!UICONTROL Exécutions]** planifiées.
+1. Cliquez sur **[!UICONTROL Exécutions planifiées]**.
 
    ![Image 5](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-5.png)
 
-1. Recherchez l&#39;exécution unique que vous souhaitez annuler et cliquez sur le **[!UICONTROL X]** à l&#39;extrême droite.
+1. Recherchez l’exécution unique que vous souhaitez annuler et cliquez sur **[!UICONTROL X]** à l’extrémité droite.
 
    ![Image six](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-6.png)
 
