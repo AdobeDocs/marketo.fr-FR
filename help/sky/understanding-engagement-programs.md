@@ -18,7 +18,7 @@ Les programmes d’engagement sont conçus pour promouvoir les nouvelles personn
 
 >[!NOTE]
 >
->Il existe une limite de 100 programmes d’engagement _principaux_ par abonnement.
+>Il existe une limite de 100 programmes d’engagement _principal_ par abonnement.
 
 ## Programme d’engagement
 
