@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Changer de note {#change-score}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Le score des personnes est facile et puissant pour aider votre équipe commerciale à établir des priorités.
 
