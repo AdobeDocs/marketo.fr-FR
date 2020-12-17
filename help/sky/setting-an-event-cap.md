@@ -29,22 +29,22 @@ Limitez le nombre de personnes qui peuvent s&#39;inscrire à votre événement a
 
    ![Image un](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. Dans la section Aperçu, recherchez [!UICONTROL Événement Cap] et cliquez sur **[!UICONTROL Non défini]**.
+1. Dans l’aperçu, recherchez [!UICONTROL Événement Cap] et cliquez sur **[!UICONTROL Non défini]**.
 
    ![Image 2](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. Entrez le nombre maximal de personnes que vous souhaitez enregistrer pour votre événement et cliquez sur **[!UICONTROL Suivant]**.
+1. Entrez le nombre maximal de personnes que vous souhaitez pouvoir enregistrer pour votre événement et cliquez sur **[!UICONTROL Suivant]**.
 
    ![Image trois](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
-1. Cliquez sur la liste déroulante Page  d’inscription et sélectionnez le landing page qui servira de page d’inscription.
+1. Cliquez sur la liste déroulante [!UICONTROL Page d&#39;inscription] et sélectionnez le landing page qui servira de page d&#39;inscription.
 
    ![Image 4](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. Cliquez sur la liste déroulante Page **[!UICONTROL complète d’]** inscription et sélectionnez le landing page qui servira de page complète d’inscription. Lorsque vous avez terminé, cliquez sur **[!UICONTROL Définir et Activer]** .
+1. Cliquez sur la liste déroulante **[!UICONTROL Page complète d&#39;inscription]** et sélectionnez le landing page qui servira de page complète d&#39;inscription. Cliquez sur **[!UICONTROL Définir et activer]** lorsque vous avez terminé.
 
    ![Image 5](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
-   Vous êtes toutes prêtes. Si vous décidez de modifier les détails de la limite de événement, cliquez sur le texte bleu en regard de la limite [!UICONTROL de] Événement et répétez l’étape 3.
+   Vous êtes toutes prêtes. Si vous décidez de modifier les détails de la limite de événement, cliquez sur le texte bleu en regard de [!UICONTROL Événement Cap] et répétez l’étape 3.
 
    ![Image six](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-6.png)
