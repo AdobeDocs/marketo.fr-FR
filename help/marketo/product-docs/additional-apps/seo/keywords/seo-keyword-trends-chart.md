@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # SEO - Graphique des tendances des mots-clés {#seo-keyword-trends-chart}
 
-Il est important de surveiller la façon dont les classements [](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) SERP de vos mots-clés sont en tendance au fil du temps. Consultez ce diagramme sympa pour suivre la progression.
+Il est important de surveiller la façon dont votre mot-clé [Classements SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) se retrouve dans les tendances au fil du temps. Consultez ce diagramme sympa pour suivre la progression.
 
-1. Accédez à la section **Mots-clés** .
+1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +23,7 @@ Il est important de surveiller la façon dont les classements [](../../../../pro
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Vous voyez ? Il affiche votre classement [](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) SERP pour les 30 derniers jours :
+   Vous voyez ? Il affiche votre [classement SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) pour les 30 derniers jours :
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
