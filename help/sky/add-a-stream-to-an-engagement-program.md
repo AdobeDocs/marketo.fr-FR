@@ -18,7 +18,7 @@ Les programmes d’engagement peuvent contenir plusieurs flux.
 
    ![Image un](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-1.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Flux]**.
 
    ![Image 2](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-2.png)
 
