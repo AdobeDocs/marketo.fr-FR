@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtrage dans la piste d’audit {#filtering-in-audit-trail}
+# Filtrage dans la piste d&#39;audit {#filtering-in-audit-trail}
 
 Filtrez par période, type de ressource, utilisateurs, action entreprise, etc.
 
@@ -19,7 +19,7 @@ Filtrez par période, type de ressource, utilisateurs, action entreprise, etc.
 
    ![](assets/one-1.png)
 
-1. Sous **Sécurité**, sélectionnez **Audit Trail**.
+1. Sous **Sécurité**, sélectionnez **Piste d&#39;audit**.
 
    ![](assets/two-1.png)
 
@@ -35,7 +35,7 @@ Filtrez par période, type de ressource, utilisateurs, action entreprise, etc.
 
    ![](assets/four.png)
 
-1. Cliquez sur la liste déroulante Type **de** ressource et sélectionnez **Courriel**.
+1. Cliquez sur la liste déroulante **Type de ressource** et sélectionnez **Courriel**.
 
    ![](assets/five.png)
 
