@@ -11,20 +11,20 @@ ht-degree: 0%
 ---
 
 
-# Choisir un courriel existant {#choose-an-existing-email}
+# Sélectionner un courriel existant {#choose-an-existing-email}
 
 >[!PREREQUISITES]
 >
 >* [Créer un Programme de messagerie](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Définissez une Audience avec une Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) dynamique ou [définissez une Audience en important une Liste.](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Définir une Audience avec une ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) liste dynamique  [Définir une Audience en imitant une Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-Une fois que vous avez [créé un programme](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) de messagerie et défini votre audience, vous devez décider de l&#39;adresse électronique que vous envoyez. Vous pouvez [créer un courrier électronique pour un programme](create-an-email-for-an-email-program.md) de courrier électronique à partir de zéro ou en sélectionner un qui existe déjà. Voici comment en choisir un qui existe déjà.
+Une fois que vous avez [créé un programme de courriel](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) et défini votre audience, vous devez décider de l&#39;adresse électronique que vous envoyez. Vous pouvez [créer un courriel pour un programme de courriel](create-an-email-for-an-email-program.md) à partir de zéro ou en sélectionner un qui existe déjà. Voici comment en choisir un qui existe déjà.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ Une fois que vous avez [créé un programme](../../../../product-docs/email-mark
 
    ![](assets/selectemailprogram.jpg)
 
-1. Sous la mosaïque **Courriel** , sélectionnez celui que vous souhaitez envoyer.
+1. Sous la mosaïque **Courriel**, sélectionnez celui que vous souhaitez envoyer.
 
    ` ![](assets/image2014-9-12-11-3a28-3a10.png)
 
