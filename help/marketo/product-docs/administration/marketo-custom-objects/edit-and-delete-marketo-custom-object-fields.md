@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifier et supprimer des champs d&#39;objet personnalisé du marketing {#edit-and-delete-marketo-custom-object-fields}
+# Modifier et supprimer des champs d&#39;objet personnalisé de marketing {#edit-and-delete-marketo-custom-object-fields}
 
 ## Modifier un champ {#edit-a-field}
 
@@ -21,11 +21,11 @@ Il arrive que vous deviez modifier un champ qui n’est pas encore approuvé.
 
    ![](assets/image2015-10-2-10-3a55-3a1.png)
 
-1. Dans l’onglet Champs, cliquez sur Actions **de** champ et **Modifier le champ**.
+1. Dans l’onglet Champs, cliquez sur **Actions de champ** et **Modifier le champ**.
 
    ![](assets/image2015-10-2-10-3a53-3a26.png)
 
-1. Effectuez les modifications nécessaires et cliquez sur **Enregistrer**.
+1. Effectuez vos modifications et cliquez sur **Enregistrer**.
 
    ![](assets/image2015-10-2-10-3a58-3a56.png)
 
@@ -37,11 +37,11 @@ Il arrive que vous deviez modifier un champ qui n’est pas encore approuvé.
 
    ![](assets/image2015-10-2-11-3a1-3a13.png)
 
-## Suppression d’un champ {#delete-a-field}
+## Supprimer un champ {#delete-a-field}
 
 Lorsque vous n’avez plus besoin d’un champ dans un objet personnalisé, vous pouvez le supprimer.
 
-1. Dans l’onglet Champs, cliquez sur Actions **de** champ et **Supprimer le champ**.
+1. Dans l’onglet Champs, cliquez sur **Actions de champ** et **Supprimer le champ**.
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
