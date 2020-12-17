@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Exportation de personnes vers Excel à partir d’une Liste ou d’une Liste dynamique {#export-people-to-excel-from-a-list-or-smart-list}
+# Exporter des personnes vers Excel à partir d’une Liste ou d’une Liste dynamique {#export-people-to-excel-from-a-list-or-smart-list}
 
 Si vous avez besoin de résultats de liste ou de liste intelligente en dehors de Marketo, vous pouvez facilement les exporter vers Excel. Voici comment.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez la liste ou la liste dynamique à exporter et accédez à l’onglet **Personnes** .
+1. Sélectionnez la liste ou la liste intelligente à exporter et accédez à l&#39;onglet **Personnes**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -27,7 +27,7 @@ Si vous avez besoin de résultats de liste ou de liste intelligente en dehors de
 
    ![](assets/exportpeople.png)
 
-1. Sélectionnez Colonnes **** visibles, puis cliquez sur **Exporter**.
+1. Sélectionnez **Colonnes visibles** et cliquez sur **Exporter**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
@@ -37,7 +37,7 @@ Si vous avez besoin de résultats de liste ou de liste intelligente en dehors de
 
    >[!TIP]
    >
-   >Si vos enregistrements de personne contiennent des caractères étrangers qui ne s’affichent pas correctement lors de l’exportation, essayez de modifier le type de fichier dans la liste déroulante **Format** .
+   >Si vos enregistrements de personne contiennent des caractères étrangers qui ne s’affichent pas correctement lors de l’exportation, essayez de modifier le type de fichier dans la liste déroulante **Format**.
 
 1. L&#39;exportation s&#39;exécutera. Une fois terminé, vous pouvez cliquer sur **Télécharger maintenant** pour saisir le fichier.
 
@@ -45,7 +45,7 @@ Si vous avez besoin de résultats de liste ou de liste intelligente en dehors de
 
    >[!TIP]
    >
-   >Si l’exportation prend du temps, vous pouvez toujours vous déconnecter et y revenir ultérieurement. Le lien **Télécharger maintenant** est accessible en sélectionnant **Afficher l’état** de l’exportation dans le menu Actions **de** Liste et est valide pendant une semaine.
+   >Si l’exportation prend du temps, vous pouvez toujours vous déconnecter et y revenir ultérieurement. Le lien **Télécharger maintenant** est accessible en sélectionnant **Afficher l&#39;état de l&#39;exportation** dans le menu **Actions de Liste** et est valide pendant une semaine.
 
    Une fois que vous avez exporté une liste dynamique vers Excel, Marketo met automatiquement la liste en cache. Vous remarquerez un petit trombone et un pense-bête sur l&#39;icône de la liste intelligente lors de votre prochaine connexion ou actualisation du navigateur.
 
