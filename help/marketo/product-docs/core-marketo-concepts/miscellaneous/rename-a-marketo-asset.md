@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Renommer un actif marketing {#rename-a-marketo-asset}
+# Renommer une ressource marketing {#rename-a-marketo-asset}
 
 Il est facile de renommer les dossiers, les programmes et les ressources locales.
 
