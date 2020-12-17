@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modifier le message &quot;Vue en tant que page Web&quot; {#edit-the-view-as-web-page-message}
 
-Si vous devez modifier le texte &quot; [Vue en tant que page](../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)Web&quot;, voici comment procéder.
+Si vous devez modifier le texte &quot; [Vue as a Webpage](../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;, voici comment procéder.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Si vous devez modifier le texte &quot; [Vue en tant que page](../../../product-d
    >    
    >La deuxième partie ##MKT_TOK## est le cookie commun de cette personne. Il s’assure qu’ils reçoivent un cookie approprié lorsqu’ils cliquent sur le lien.
 
-1. Modifiez la **Vue en tant que page Web HTML** et **Vue en tant que texte de page Web **versions à votre convenance, puis cliquez sur **Enregistrer les modifications**.
+1. Modifiez la **Vue en tant que page Web HTML** et **Vue en tant que texte de page Web **versions à votre convenance et cliquez sur **Enregistrer les modifications**.
 
    ![](assets/image2016-8-26-14-3a40-3a29.png)
 
@@ -57,8 +57,8 @@ Voilà. Envoyer des courriers électroniques de test pour assurer la mise en for
 
 Si vous devez revenir au système par défaut &quot;Vue en tant que page Web&quot;, copiez/collez les éléments suivants :
 
-**Vue en tant que page Web HTML :**
+**Vue en tant que page Web HTML:**
 `<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>` **Vue en tant que texte de page Web :**
 
 Pour vue de ce courrier électronique en tant que page Web, accédez à l’adresse suivante :
-`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` Boum ! Vous avez terminé.
+`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` Boom ! Vous avez terminé.
