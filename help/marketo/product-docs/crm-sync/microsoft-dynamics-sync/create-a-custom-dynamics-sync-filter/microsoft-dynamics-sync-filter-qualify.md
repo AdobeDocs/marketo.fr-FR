@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Pour convertir un prospect en contact dans Microsoft Dynamics, veillez à utiliser ce processus Qualify par défaut. Ensuite, synchronisez-la avec Marketo.
 
-## Le processus de conversion {#the-conversion-process}
+## Processus de conversion {#the-conversion-process}
 
 Voici comment fonctionnent les filtres pendant le processus de conversion.
 
