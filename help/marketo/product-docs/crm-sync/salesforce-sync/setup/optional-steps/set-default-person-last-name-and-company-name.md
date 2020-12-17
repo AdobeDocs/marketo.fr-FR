@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Définir le nom et le nom de la Société de la personne par défaut {#set-default-person-last-name-and-company-name}
+# Définir le nom de la personne par défaut et le nom de la Société {#set-default-person-last-name-and-company-name}
 
 Salesforce requiert (minimum) le nom de famille et le nom de société pour ses Pistes et Contacts. Les enregistrements incomplets ne seront pas synchronisés avec Salesforce. Si vous souhaitez synchroniser des enregistrements partiels, vous devez définir les valeurs par défaut que Marketo doit utiliser avec Salesforce.
 
@@ -19,11 +19,11 @@ Salesforce requiert (minimum) le nom de famille et le nom de société pour ses 
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Cliquez sur **Modifier les options** de synchronisation.
+1. Cliquez sur **Modifier les options de synchronisation**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Saisissez un nom **de personne** par défaut et une **société&#x200B;****** personne par défaut, puis cliquez sur **Enregistrer**.
+1. Saisissez un **nom de personne par défaut** et une **société de personne ****par défaut**, puis cliquez sur **Enregistrer**.
 
    ![](assets/sync-options-hands.png)
 
