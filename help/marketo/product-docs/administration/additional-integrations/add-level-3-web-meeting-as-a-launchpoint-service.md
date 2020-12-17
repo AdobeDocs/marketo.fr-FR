@@ -29,15 +29,15 @@ Marketo gère votre inscription et votre participation à votre réunion Web de 
 
    ![](assets/image2015-4-23-10-3a5-3a12.png)
 
-1. Sélectionnez **Nouveau** , puis **Nouveau** **service**.
+1. Sélectionnez **New**, puis **New** **Service**.
 
    ![](assets/level-3-web-meeting-new-service.png)
 
-1. Saisissez un **nom** **d’affichage**. Sous **Service**, sélectionnez Réunion **Web de** niveau 3.
+1. Saisissez un **Nom** **Nom**. Sous **Service**, sélectionnez **Réunion Web de niveau 3**.
 
    ![](assets/new-service-level-3.png)
 
-1. Saisissez votre **numéro** d&#39; **accès****, votre** code d&#39;accès **et votre code de passe, puis cliquez sur Créer.**********
+1. Entrez votre **Accès** **Numéro**, **Accès** **Code** et **Code de passe**, puis cliquez sur **Créer**.
 
    ![](assets/image2015-4-23-10-3a10-3a26.png)
 
@@ -47,5 +47,5 @@ Marketo gère votre inscription et votre participation à votre réunion Web de 
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [créer un événement avec une réunion](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)Web de niveau 3.
+>Découvrez comment [créer un événement avec une réunion Web de niveau 3](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md).
 
