@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifier les détails dans la piste d’audit {#change-details-in-audit-trail}
+# Détails des modifications dans la piste d&#39;audit {#change-details-in-audit-trail}
 
 Les offres de piste d’audit fournissent une grande quantité d’informations sur qui fait quoi dans votre abonnement Marketo. Voici les détails.
 
@@ -32,7 +32,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   <tr> 
    <td rowspan="15">Programme par défaut<br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Créer</td> 
-   <td>Type de canal "type de canal"<br><br>ou Cloner à partir de "nom du programme"</td> 
+   <td>Type de canal "canal type"<br>ou<br>Cloné à partir de "programme name"</td> 
   </tr> 
   <tr> 
    <td>Renommer</td> 
@@ -101,11 +101,11 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Mise à jour de "De courriel" en "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[protection de courriel]</a>"</td> 
+   <td>Mise à jour de "From Email" en "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>"</td> 
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Mise à jour de "Répondre à" en "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[Protection par courrier électronique]</a>"</td> 
+   <td>Mise à jour de "Répondre à" à "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[protégé par courriel]</a>"</td> 
   </tr> 
   <tr> 
    <td>Modifier</td> 
@@ -145,11 +145,11 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "Design Studio" dans le dossier "nom du dossier" <br>Nom de la ressource clonée "nom"<br><br>ou Cloné sur "Activités marketing" dans le programme "nom du programme" Nom de la ressource<br>clonée "nom"</td> 
+   <td>Cloné sur "Design Studio" dans le dossier "nom du dossier" <br>Nom du fichier cloné "nom"<br>ou<br>Cloné sur "Activités marketing" dans le programme "nom du programme"<br>Nom du fichier cloné "nom"</td> 
   </tr> 
   <tr> 
    <td>Déplacer</td> 
-   <td>Déplacé vers "Design Studio" dans le dossier "nom du dossier"<br><br>ou Déplacé vers "activités marketing" dans le programme "nom du programme"</td> 
+   <td>Déplacé vers "Design Studio" dans le dossier "folder name"<br>ou<br>Déplacé vers "Marketing activités" dans le programme "programme name"</td> 
   </tr> 
   <tr> 
    <td>Approuver</td> 
@@ -161,12 +161,12 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Version préliminaire</td> 
-   <td>Le courrier électronique a été rédigé car le fragment de code "nom du fragment de code" a été<br><br>approuvé ou le courrier électronique a été rédigé car le modèle "nom du modèle" a été approuvé.</td> 
+   <td>Le courrier électronique a été rédigé car le fragment de code "nom du fragment de code" a été approuvé<br>ou<br>Le courrier électronique a été rédigé car le modèle "nom du modèle" a été approuvé.</td> 
   </tr> 
   <tr> 
    <td rowspan="17">Programme de courriel</td> 
    <td>Créer</td> 
-   <td>Type de canal "type de canal"<br><br>ou Cloner à partir de "nom du programme"</td> 
+   <td>Type de canal "canal type"<br>ou<br>Cloné à partir de "programme name"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Renommer</td> 
@@ -255,7 +255,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "nom du dossier" <br> Nom du fichier cloné "nom"</td> 
+   <td>Cloné sur "nom du dossier" <br> Nom de fichier cloné "nom"</td> 
   </tr> 
   <tr> 
    <td>Approuver</td> 
@@ -268,7 +268,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   <tr> 
    <td rowspan="23">Programme d’engagement</td> 
    <td>Créer</td> 
-   <td>Type de canal "type de canal"<br> ou<br> Cloné à partir de "nom de programme"</td> 
+   <td>Type de canal "canal type"<br> ou <br> Cloné à partir de "programme name"</td> 
   </tr> 
   <tr> 
    <td>Renommer</td> 
@@ -300,19 +300,19 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
-   <td>Ajouter le<br>contenuNom de flux "Nom de flux"<br>Tapez "Adresse électronique" ou "Programme"<br>Nom de "courriel" ou "nom de programme"<br>Smart Campaign "nom de campagne intelligent"</td> 
+   <td>Contenu Ajouté<br>Nom de flux<br>Type "Adresse électronique" ou "Programme"<br>Nom "nom de courriel" ou "nom de programme"<br>Smart Campaign "nom de campagne intelligent"</td> 
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
-   <td>Activer<br>contentStream name "stream name" Nom<br>du contenu "email name" ou "programme name"</td> 
+   <td>Activez le contenu <br>Nom du flux "nom du flux"<br>Nom du contenu "nom de courriel" ou "nom du programme".</td> 
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
-   <td>Désactiver<br>contentStream name "stream name"<br>Nom du contenu "email name" ou "programme name"</td> 
+   <td>Désactiver le contenu <br>Nom du flux "nom du flux"<br>Nom du contenu "nom de courriel" ou "nom du programme"</td> 
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
-   <td>Supprimer<br>contentStream name "stream name"<br>Nom du contenu "email name" ou "programme name"</td> 
+   <td>Supprimer le contenu <br>nom du flux "nom du flux"<br>nom du contenu "nom de l’adresse électronique" ou "nom du programme"</td> 
   </tr> 
   <tr> 
    <td>Modifier le jeton de programme</td> 
@@ -361,7 +361,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   <tr> 
    <td rowspan="18">Programme événement</td> 
    <td>Créer</td> 
-   <td>Type de canal "type de canal"<br><br>ou Cloner à partir de "nom du programme"</td> 
+   <td>Type de canal "canal type"<br>ou<br>Cloné à partir de "programme name"</td> 
   </tr> 
   <tr> 
    <td>Renommer</td> 
@@ -373,7 +373,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur l’espace de travail "nom de l’espace de travail" <br>Emplacement "dossier de campagne" ou "programme d’engagement" <br>Nom du programme cloné "nouveau nom"</td> 
+   <td>Cloné sur l'espace de travail "nom de l'espace de travail" <br>Emplacement "dossier de campagne" ou "programme d'engagement" <br>Nom du programme cloné "nouveau nom"</td> 
   </tr> 
   <tr> 
    <td>Modifier le canal</td> 
@@ -479,11 +479,11 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "Design Studio" dans le dossier "nom du dossier" <br>Nom de la ressource clonée "nom"<br><br>ou Cloné sur "Activités marketing" dans le programme "nom du programme" Nom de la ressource<br>clonée "nom"</td> 
+   <td>Cloné sur "Design Studio" dans le dossier "nom du dossier" <br>Nom du fichier cloné "nom"<br>ou<br>Cloné sur "Activités marketing" dans le programme "nom du programme"<br>Nom du fichier cloné "nom"</td> 
   </tr> 
   <tr> 
    <td>Déplacer</td> 
-   <td>Déplacé vers "Design Studio" dans le dossier "nom du dossier"<br><br>ou Déplacé vers "activités marketing" dans le programme "nom du programme"</td> 
+   <td>Déplacé vers "Design Studio" dans le dossier "folder name"<br>ou<br>Déplacé vers "Marketing activités" dans le programme "programme name"</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -509,11 +509,11 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "Design Studio" dans le dossier "nom du dossier" Nom de la ressource<br>clonée "nom" URL de la ressource<br>clonée "www.url.com"<br><br>ou Cloné sur "Activités marketing" dans le programme "nom du programme" Nom de la ressource <br>clonée "nom" URL de la ressource<br>clonée "www.url.com"</td> 
+   <td>Cloné sur "Design Studio" dans le dossier "nom du dossier"<br>Nom de la ressource clonée "nom"<br>URL de la ressource clonée "www.url.com"<br>ou<br>Cloné sur "Activités marketing" dans le programme "nom du programme" <br>Nom de la ressource clonée "nom"<br>URL de la ressource clonée "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Déplacer</td> 
-   <td>Déplacé vers "Design Studio" dans le dossier "nom du dossier"<br> ou<br> Déplacé vers "activités marketing" dans le programme "nom du programme"</td> 
+   <td>Déplacé vers "Design Studio" dans le dossier "folder name"<br> ou <br> Déplacé vers "Marketing activités" dans le programme "programme name"</td> 
   </tr> 
   <tr> 
    <td>Approuver</td> 
@@ -530,7 +530,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   <tr> 
    <td rowspan="8">Modèle de landing page</td> 
    <td>Créer</td> 
-   <td><p><br><br>BlankorCloned de "asset name"</p></td> 
+   <td><p>Vierge<br>ou<br>cloné à partir de "nom de fichier"</p></td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
@@ -546,7 +546,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "nom du dossier" <br>Nom du fichier cloné "nom"</td> 
+   <td>Cloné sur "nom du dossier" <br>Nom de fichier cloné "nom"</td> 
   </tr> 
   <tr> 
    <td>Exporter</td> 
@@ -571,7 +571,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "Base de données des personnes" dans le dossier "nom du dossier" <br>Nom de la ressource clonée "nom"<br><br>ou Cloné sur "Activités marketing" dans le programme "nom du programme" Nom de la ressource<br>clonée "nom"</td> 
+   <td>Cloné sur "Base de données des personnes" dans le dossier "nom du dossier" <br>Nom du fichier cloné "nom"<br>ou<br>Cloné sur "Activités marketing" dans le programme "nom du programme"<br>Nom du fichier cloné "nom"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
@@ -600,7 +600,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Déplacer</td> 
-   <td>Déplacé vers "Programmes" dans le programme "nom du programme"<br><br>ou Déplacé vers "Dossiers" dans le dossier "nom du dossier"</td> 
+   <td>Déplacé vers "Programmes" dans le programme "programme name"<br>ou<br>Déplacé vers "Folders" dans le dossier "folder name"</td> 
   </tr> 
   <tr> 
    <td>Renommer</td> 
@@ -616,7 +616,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "Programmes" dans le programme "nom du programme" <br>Nom de la ressource clonée "nom"<br><br>ou Cloné sur "dossier" dans le dossier "nom du dossier" Nom de la ressource<br>clonée "nom"</td> 
+   <td>Cloné en "Programmes" dans le programme "nom du programme" <br>Nom de la ressource clonée "nom"<br>ou<br>Cloné en "dossier" dans le dossier "nom du dossier"<br>Nom de la ressource clonée "nom"</td> 
   </tr> 
   <tr> 
    <td>Modification de la configuration des smartlist</td> 
@@ -653,7 +653,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "Base de données des personnes" dans le dossier "nom du dossier" <br>Nom de la ressource clonée "nom"<br><br>ou Cloné sur "Activités marketing" dans le programme "nom du programme" Nom de la ressource <br>clonée "nom"</td> 
+   <td>Cloné sur "Base de données des personnes" dans le dossier "nom du dossier" <br>Nom du fichier cloné "nom"<br>ou<br>Cloné sur "Activités marketing" dans le programme "nom du programme" <br>Nom du fichier cloné "nom"</td> 
   </tr> 
   <tr> 
    <td>Modification de la configuration des smartlist</td> 
@@ -662,7 +662,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   <tr> 
    <td rowspan="11">Extrait</td> 
    <td>Créer</td> 
-   <td><p><br><br>BlankorCloned à partir du "nom de l'extrait de code"</p></td> 
+   <td><p>Vierge<br>ou<br>cloné à partir du "nom de fragment de code"</p></td> 
   </tr> 
   <tr> 
    <td>Modifier</td> 
@@ -743,7 +743,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   <tr> 
    <td rowspan="3">Rôle<br><br></td> 
    <td>Créer</td> 
-   <td>Rôle créé avec "nom du rôle" (REMARQUE : si vous avez besoin de détails sur les autorisations ajoutées, veuillez contacter l'assistance) - <br>affiche un instantané des autorisations attribuées au rôle</td> 
+   <td>Rôle créé avec "nom du rôle" (REMARQUE : si vous avez besoin de détails sur les autorisations ajoutées, contactez l'assistance) - <br>affiche un instantané des autorisations attribuées au rôle</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
@@ -751,7 +751,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Rôle Modifié de "nom précédent" en "nouveau nom" (REMARQUE : si vous avez besoin de détails sur les autorisations modifiées, contactez l'assistance) : <br>affiche un instantané des autorisations attribuées au rôle<br></td> 
+   <td>Rôle Modifié de "nom précédent" en "nouveau nom" (REMARQUE : si vous avez besoin de détails sur les autorisations modifiées, contactez l'assistance) - <br>affiche un instantané des autorisations attribuées au rôle<br></td> 
   </tr> 
   <tr> 
    <td>Rapport de liste intelligente</td> 
@@ -761,7 +761,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   <tr> 
    <td rowspan="7">Utilisateur<br><br><br><br></td> 
    <td>Créer (inviter)</td> 
-   <td>Invité par l'utilisateur avec : Adresse électronique, Nom "prénom et nom", Access expire "vide ou avec une date", Utilisateur API "vrai ou faux" - <br>montre un instantané des rôles et espaces de travail attribués à l'utilisateur</td> 
+   <td>Invité par l'utilisateur avec : Adresse électronique, Nom "prénom et nom", Access expire "vide ou avec une date", Utilisateur de l'API "vrai ou faux" - <br>affiche un instantané des rôles et espaces de travail attribués à l'utilisateur</td> 
   </tr> 
   <tr> 
    <td colspan="1">Supprimer</td> 
