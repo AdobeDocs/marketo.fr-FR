@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Localisation du journal des Activités d&#39;une personne {#locate-the-activity-log-for-a-person}
+# Recherchez le journal des Activités d&#39;une personne {#locate-the-activity-log-for-a-person}.
 
 Le journal des activités est la source ultime de vérité. Voici l&#39;histoire complète du voyage d&#39;une personne à Marketo.
 
@@ -23,11 +23,11 @@ Le journal des activités est la source ultime de vérité. Voici l&#39;histoire
 
    ![](assets/two-6.png)
 
-1. Cliquez sur l’onglet **Personnes** . Sélectionnez un numéro d&#39; **ID** de personne.
+1. Cliquez sur l&#39;onglet **Personnes**. Sélectionnez une personne **Id** numéro.
 
    ![](assets/three-5.png)
 
-1. Cliquez sur Journal **des** Activités.
+1. Cliquez sur **Journal des Activités**.
 
    ![](assets/four-3.png)
 
@@ -40,5 +40,5 @@ Le journal des activités est la source ultime de vérité. Voici l&#39;histoire
    >**Articles connexes**
    >
    >
-   >En savoir plus sur le [filtrage de la](filter-activity-types-in-the-activity-log-of-a-person.md)journalisation des activités pour identifier les activités de personnes spécifiques.
+   >Pour en savoir plus sur le [filtrage du journal des activités](filter-activity-types-in-the-activity-log-of-a-person.md)afin d’afficher des activités de personnes spécifiques.
 
