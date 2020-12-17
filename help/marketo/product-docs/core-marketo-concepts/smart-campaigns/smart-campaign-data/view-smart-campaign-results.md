@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Résultats de la vérification de la vue intelligente {#view-smart-campaign-results}
+# Résultats du Campaign Smart vue {#view-smart-campaign-results}
 
 Vous voulez voir une ventilation de tout ce qui s&#39;est passé dans une campagne intelligente ? C&#39;est facile, voilà comment.
 
-1. Dans votre campagne dynamique, cliquez sur **Résultats**.
+1. Dans votre campagne intelligente, cliquez sur **Résultats**.
 
    >[!TIP]
    >
-   >Vous pouvez voir la liste des personnes qui ont été traitées par la campagne intelligente en cliquant sur [Vue Campaign Members](view-smart-campaign-members.md).
+   >Vous pouvez voir la liste des personnes qui ont été traitées par la campagne intelligente en cliquant sur [Membres de la Campaign de Vue](view-smart-campaign-members.md).
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >Vous pouvez également filtrer les résultats en fonction du type d’activité. Découvrez comment [filtrer les résultats](filter-smart-campaign-results.md)de campagne intelligents.
+   >Vous pouvez également filtrer les résultats en fonction du type d’activité. Découvrez comment [filtrer les résultats de campagne intelligente](filter-smart-campaign-results.md).
 
-1. Cliquez sur un **ID** pour vue plus de détails sur cette activité particulière.
+1. Cliquez sur **ID** pour vue plus de détails sur cette activité particulière.
 
    ![](assets/image2014-9-22-11-39-22.jpg)
 
