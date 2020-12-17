@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Création d’un rapport de performances de Programme {#create-a-program-performance-report}
+# Créer un rapport de performances de Programme {#create-a-program-performance-report}
 
 Consultez les statistiques de vos programmes avec ce rapport.
 
-1. [Créez un rapport dans un programme](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le type **de** rapport Performances [](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Programme.
-1. Cliquez sur l’onglet **Rapport** .
+1. [Créez un rapport dans un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programme et sélectionnez le type **de rapport** [Performances du ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Programme.
+1. Cliquez sur l&#39;onglet **Rapport**.
 1. Vous êtes là ! Consultez votre rapport pour voir comment se comportent vos programmes.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Pour trouver les programmes présentant le *coût par réussite* le plus faible, par exemple, [triez votre rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) sur cette colonne et choisissez **Trier Ascendant**.
+>Pour rechercher les programmes dont le coût par réussite est le plus faible **, par exemple, [triez votre rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) sur cette colonne et choisissez **Trier Ascendant**.
 
 Les colonnes d&#39;un rapport Performance de Programme incluent :
 
@@ -58,5 +58,5 @@ Les colonnes d&#39;un rapport Performance de Programme incluent :
 >
 >**Plongée profonde**
 >
->En savoir plus sur le Rapports [](http://docs.marketo.com/display/docs/basic+reporting)de base.
+>En savoir plus sur [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
