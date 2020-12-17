@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Annulation d’une exécution de Campaign par lot planifiée {#cancel-a-scheduled-batch-campaign-run}
+# Annuler l&#39;exécution d&#39;une Campaign par lot planifiée {#cancel-a-scheduled-batch-campaign-run}
 
 Si vous avez planifié une exécution pour l’une de vos campagnes par lots et souhaitez l’annuler, voici comment procéder.
 
