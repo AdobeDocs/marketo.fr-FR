@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marquage terminé {#marking-it-done}
+# Marquer l&#39;opération effectuée {#marking-it-done}
 
 Marquez un programme de messagerie, un événement ou une carte d’analyse comme Terminé pour le supprimer de votre flux. Il y a deux façons de le faire.
 
