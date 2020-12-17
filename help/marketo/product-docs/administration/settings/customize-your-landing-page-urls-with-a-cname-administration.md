@@ -35,9 +35,9 @@ Mettons-nous en place !
 
    C&#39;est la partie avant de l&#39;URL. Exemples :
 
-   * **allez**&#x200B;à .YourCompany.com/NameOfPage.html
-   * **info**.YourCompany.com/NameOfPage.html
-   * **pages**.YourCompany.com/NameOfPage.html
+   * **allez** à .YourCompany.com/NameOfPage.html
+   * **info** .YourCompany.com/NameOfPage.html
+   * **pages** .YourCompany.com/NameOfPage.html
 
    Le seul mot (plus YourCompany.com) est appelé CNAME. Vous en aurez besoin plus tard, alors prenez note.
 
@@ -47,7 +47,7 @@ Mettons-nous en place !
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. Sous l’onglet **Landings page** , copiez la chaîne de compte dans la section Paramètres.
+1. Sous l&#39;onglet **Landings page**, copiez la chaîne de compte dans la section Paramètres.
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
@@ -55,9 +55,9 @@ Mettons-nous en place !
 
 1. Envoyer la demande au service informatique.
 
-1. Demandez à votre personnel informatique de configurer le CNAME suivant (remplacez le mot [CNAME] et la CHAÎNE [] DE COMPTE par le texte de l’étape précédente) :
+1. Demandez à votre personnel informatique de configurer le CNAME suivant (remplacez le mot [CNAME] et [CHAÎNE DE COMPTE] par le texte de l’étape précédente) :
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 1. Effectuez la configuration CNAME.
 
@@ -65,11 +65,11 @@ Mettons-nous en place !
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
-1. Sous la section **Paramètres** , cliquez sur **Modifier**.
+1. Sous la section **Paramètres**, cliquez sur **Modifier**.
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. Entrez votre CNAME dans le nom de **domaine pour les Landings page**, entrez votre page **de** secours, entrez votre **page d&#39;accueil**, puis cliquez sur **Enregistrer.**
+1. Entrez votre CNAME dans **nom de domaine pour les Landings page**, entrez votre **page de secours**, entrez votre **page d&#39;accueil**, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
