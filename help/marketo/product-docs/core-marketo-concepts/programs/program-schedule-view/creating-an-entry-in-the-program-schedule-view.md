@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Création d’une entrée dans la Vue de Planning du programme {#creating-an-entry-in-the-program-schedule-view}
+# Création d&#39;une entrée dans la Vue de Planning du programme {#creating-an-entry-in-the-program-schedule-view}
 
 Vous pouvez créer des entrées à partir de la vue de Planning du programme pour compléter un programme existant.
 
 ## Créer une entrée de base {#create-a-basic-entry}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez votre programme. Cliquez sur la liste déroulante **Vue** . Sélectionnez **Planification**.
+1. Sélectionnez votre programme. Cliquez sur la liste déroulante **Vue**. Sélectionnez **Planification**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -41,7 +41,7 @@ Vous pouvez créer des entrées à partir de la vue de Planning du programme pou
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. Saisissez votre description, puis cliquez sur **Enregistrer**.
+1. Saisissez votre description et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -49,17 +49,17 @@ Vous pouvez créer des entrées à partir de la vue de Planning du programme pou
 
    ![](assets/image2014-9-16-9-3a25-3a51.png)
 
-## Modifier le type d’entrée {#change-entry-type}
+## Modifier le type d&#39;entrée {#change-entry-type}
 
-1. Sélectionnez une entrée de base dans la vue **Agenda** .
+1. Sélectionnez une entrée de base dans la vue **Agenda**.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Sélectionnez la liste déroulante **Type** . Choisissez un nouveau type d’entrée.
+1. Sélectionnez la liste déroulante **Type**. Choisissez un nouveau type d’entrée.
 
    >[!NOTE]
    >
-   >La tâche est une entrée [](create-custom-entry-types.md)personnalisée. Vous pouvez créer des tâches et d’autres entrées personnalisées pour vous aider à effectuer le suivi des points de l’ordre du jour non liés au marketing.
+   >La tâche est une [entrée personnalisée](create-custom-entry-types.md). Vous pouvez créer des tâches et d’autres entrées personnalisées pour vous aider à effectuer le suivi des points de l’ordre du jour non liés au marketing.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,5 @@ Vous pouvez créer des entrées à partir de la vue de Planning du programme pou
 
 >[!NOTE]
 >
-> Vous pouvez également créer une campagne [](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) intelligente ou un programme [de](creating-a-new-email-program-in-the-schedule-view.md) courriel à partir de la vue de planification.
+> Vous pouvez également créer un [programme ](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) ou [courriel ](creating-a-new-email-program-in-the-schedule-view.md) à partir de la vue de planification.
 
