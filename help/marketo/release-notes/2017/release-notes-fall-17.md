@@ -60,11 +60,11 @@ Nous avons publié deux fonctionnalités dans le cadre de notre nouvelle intégr
 
 Marketo ABM se synchronise et affiche désormais des comptes CRM sans contacts. Inclure de nouveaux comptes sans vente ou historique marketing antérieurs et suivre l&#39;avancement en faisant correspondre les prospects suivants aux comptes.
 
-## `<sup>AI </sup>`ContentAnalytics {#contentai-analytics}
+## Contenu`<sup>AI </sup>`Analyses {#contentai-analytics}
 
-** [Nouveau filtre](https://docs.marketo.com/x/1BPG) de Liste de compte ABM **
+** [Nouveau filtre de Liste de compte ABM](https://docs.marketo.com/x/1BPG) **
 
-Vue et comparaison des performances du contenu entre les Listes de compte ABM pour optimiser le contenu existant. Le contenu`<sup>AI</sup>` vous montre :
+Vue et comparaison des performances du contenu entre les Listes de compte ABM pour optimiser le contenu existant. Le contenu `<sup>AI</sup>` vous montre :
 
 * contenu le plus consulté
 * contenu converti en haut
@@ -72,24 +72,24 @@ Vue et comparaison des performances du contenu entre les Listes de compte ABM po
 
 ## Améliorations de la personnalisation Web {#web-personalization-enhancements}
 
-** [Jetons pour les campagnes](https://docs.marketo.com/x/SwJI)Web**
+** [Jetons pour les campagnes Web](https://docs.marketo.com/x/SwJI)**
 
 Les jetons peuvent désormais être utilisés dans des campagnes Web. Tirez parti des jetons pour diffuser des messages et du contenu personnalisés afin d’accroître l’engagement dans vos campagnes Web.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-** Images [Design Studio dans Web Campaign Editor](https://docs.marketo.com/x/SwJI)**
+** [Création d’images Studio dans Web Campaign Editor](https://docs.marketo.com/x/SwJI)**
 
 Gagnez du temps en réutilisant les fichiers créatifs et les images sur plusieurs canaux dans Marketing.
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Intégration  {#integration}
+## Intégration {#integration}
 
-** API [de Prévisualisation de](https://developers.marketo.com/rest-api/assets/emails/)courriel**
+** [API de Prévisualisation de courriel](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Vous pouvez désormais prévisualisation à distance des e-mails en dehors de Marketing Cloud, ce qui simplifie le processus de localisation du contenu des e-mails et réduit les erreurs.
 
-** [Remplacer l’API](https://developers.marketo.com/rest-api/assets/emails/)HTML**
+** [Remplacer l’API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Les développeurs peuvent mettre à jour le contenu HTML des ressources de courrier électronique à distance, ce qui leur permet de travailler dans un système unique pour gérer les ressources.
