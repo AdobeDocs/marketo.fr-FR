@@ -23,7 +23,7 @@ Il existe un moyen simple d’ajouter des données à un champ. Voici comment.
 
 
 
-1. Sous l’onglet **Flux** , faites glisser l’étape de flux **Modifier la valeur** des données.
+1. Sous l’onglet **Flux**, faites glisser l’étape de flux **Modifier la valeur de données**.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
