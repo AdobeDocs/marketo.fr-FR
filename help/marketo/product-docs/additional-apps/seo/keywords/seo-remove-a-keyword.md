@@ -14,7 +14,7 @@ ht-degree: 0%
 # SEO - Supprimer un mot-clé {#seo-remove-a-keyword}
 
 1. Si vous avez un mot-clé pour lequel vous ne souhaitez pas poursuivre l&#39;optimisation, voici comment le supprimer :
-1. Cliquez sur pour accéder à la section **Mots-clés** .
+1. Cliquez pour accéder à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a36-3a6.png)
 
-1. Cliquez à nouveau sur **DELETE** pour confirmer.
+1. Cliquez de nouveau sur **DELETE** pour confirmer.
 
    ![](assets/image2014-9-18-13-3a36-3a11.png)
 
