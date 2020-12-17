@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Ajouter les champs d&#39;objet personnalisé Marketo {#add-marketo-custom-object-fields}
+# Champs d&#39;objet personnalisé Marketo Ajoute {#add-marketo-custom-object-fields}
 
 Après avoir créé un objet personnalisé, vous devez y ajouter des champs pour répondre aux besoins de votre entreprise.
 
-Les champs définissent les informations spécifiques utilisées par un objet personnalisé. Les champs de lien ont un travail spécial, pour connecter des objets personnalisés et sont couverts dans un article [](add-marketo-custom-object-link-fields.md)distinct.
+Les champs définissent les informations spécifiques utilisées par un objet personnalisé. Les champs de lien ont un travail spécial, pour connecter des objets personnalisés, et sont couverts dans un [article distinct](add-marketo-custom-object-link-fields.md).
 
-1. Cliquez sur **Admin**, puis dans Gestion **de la** base de données, sélectionnez Objets **** personnalisés de marketing à.
+1. Cliquez sur **Admin**, puis dans **Gestion de la base de données**, sélectionnez **Objets personnalisés marketing**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -60,7 +60,7 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
    >**Rappel**
    >
    >
-   >Si vous créez une structure de type &quot;un à plusieurs&quot;, vous devez ajouter un champ Lien à votre objet personnalisé. Pour une structure de type &quot;plusieurs à plusieurs&quot;, vous n’avez pas besoin d’un champ de lien dans l’objet personnalisé, mais vous devez ajouter deux champs de lien dans l’objet intermédiaire. Pour plus d&#39;informations sur les types d&#39;objets personnalisés, reportez-vous aux sections [Ajouter le marketing aux champs de lien d&#39;objet personnalisé](add-marketo-custom-object-link-fields.md) pour créer les champs de lien et [Comprendre les objets](understanding-marketo-custom-objects.md) personnalisés du marketing.
+   >Si vous créez une structure de type &quot;un à plusieurs&quot;, vous devez ajouter un champ Lien à votre objet personnalisé. Pour une structure de type &quot;plusieurs à plusieurs&quot;, vous n’avez pas besoin d’un champ de lien dans l’objet personnalisé, mais vous devez ajouter deux champs de lien dans l’objet intermédiaire. Pour plus d&#39;informations sur les types d&#39;objets personnalisés, consultez [Ajouter le marketing aux champs de lien d&#39;objet personnalisé](add-marketo-custom-object-link-fields.md) pour créer les champs de lien et [Comprendre les objets personnalisés du marketing](understanding-marketo-custom-objects.md).
 
 >[!MORELIKETHIS]
 >
