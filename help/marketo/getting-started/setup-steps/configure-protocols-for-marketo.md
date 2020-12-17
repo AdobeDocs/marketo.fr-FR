@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# Configuration de protocoles pour Marketo {#configure-protocols-for-marketo}
+# Configurer des protocoles pour Marketo {#configure-protocols-for-marketo}
 
 Votre groupe marketing utilise Marketing pour créer des landings page de campagne et des courriers électroniques de marque. Pour s&#39;assurer que ces landings page et ces courriels fonctionnent, ils ont besoin d&#39;un peu d&#39;aide de la part de l&#39;informatique. Configurez les protocoles suivants avec les informations que votre groupe marketing aurait dû vous envoyer par courrier électronique.
 
@@ -27,7 +27,7 @@ Cet article doit être partagé avec le service informatique de la société qui
 
 * `*.mktoweb.com`
 
-## Étape 1 : Créer des enregistrements DNS pour les Landings page et les courriers électroniques {#step-create-dns-records-for-landing-pages-and-email}
+## Étape 1 : Créer des enregistrements DNS pour les Landings page et les courriels {#step-create-dns-records-for-landing-pages-and-email}
 
 **Suivi des CNAME de lien**
 
@@ -37,14 +37,14 @@ Votre équipe marketing aurait dû vous envoyer deux demandes d’enregistrement
 
 Ajoutez le CNAME de landing page qu’ils vous ont envoyé à votre enregistrement DNS, de sorte que `[YourLandingPageCNAME]` pointe vers la chaîne de compte unique qui est attribuée à vos landings page de marketing. Connectez-vous au site du serveur d’inscriptions de votre domaine et saisissez le CNAME de landing page et la chaîne de compte. En règle générale, il s’agit de trois champs :
 
-* Alias : Entrer `[YourLandingPageCNAME]` (fourni par marketing)
+* Alias : Saisissez `[YourLandingPageCNAME]` (fourni par marketing)
 * Type : CNAME
-* Pointez sur : Entrer `[MarketoAccountString].mktoweb.com` (fourni par marketing)
+* Pointez sur : Saisissez `[MarketoAccountString].mktoweb.com` (fourni par marketing)
 
 `2` **Ajouter CNAME pour les liens de Tracking email**
 
-Ajoutez le courrier électronique que le marketing CNAME vous a envoyé, de sorte que `[YourEmailCNAME]` pointe vers [MktoTrackingLink], le lien de suivi par défaut attribué par Marketo, au format :\
-`[YourEmailCNAME].[YourDomain].com` DANS CNAME `[MktoTrackingLink]`
+Ajoutez l’e-mail que le marketing CNAME vous a envoyé, de sorte que `[YourEmailCNAME]` pointe vers [MktoTrackingLink], le lien de suivi par défaut attribué par Marketo, au format :\
+`[YourEmailCNAME].[YourDomain].com` DANS CNAME  `[MktoTrackingLink]`
 
 Par exemple :
 
@@ -73,9 +73,9 @@ Certains systèmes antispam utilisent le champ Chemin de retour du courrier éle
 
 >[!NOTE]
 >
->Postini utilise une technologie unique et nécessite de placer sur la liste autorisée les plages d&#39;adresses IP. Voir [Placer sur la liste autorisée avec Postini](https://nation.marketo.com/docs/DOC-1066).
+>Postini utilise une technologie unique et nécessite de placer sur la liste autorisée les plages d&#39;adresses IP. Voir [Liste autorisée avec Postini](https://nation.marketo.com/docs/DOC-1066).
 
-## Étape 3 : Configuration de SPF et DKIM {#step-set-up-spf-and-dkim}
+## Étape 3 : Configurer SPF et DKIM {#step-set-up-spf-and-dkim}
 
 Votre équipe marketing aurait également dû vous envoyer des informations DKIM à ajouter à votre enregistrement de ressource DNS (également répertorié ci-dessous). Suivez les étapes pour configurer avec succès DKIM et SPF, puis informez votre équipe marketing que ceci a été mis à jour.
 
@@ -87,16 +87,16 @@ Votre équipe marketing aurait également dû vous envoyer des informations DKIM
    Si notre entrée DNS contient déjà un enregistrement SPF existant, il suffit d&#39;y ajouter les éléments suivants :\
    inclure : mktomail.com
 
-   Remplacez CompanyDomain par le domaine principal de votre site Web (ex : &quot;`(company.com/)`&quot;) et CorpIP avec l’adresse IP de votre serveur de messagerie d’entreprise (ex. &quot;255.255.255.255&quot;). Si vous souhaitez envoyer des courriers électroniques à partir de plusieurs domaines via Marketo, votre personnel informatique doit ajouter cette ligne pour chaque domaine (sur une seule ligne).
+   Remplacez CompanyDomain par le domaine principal de votre site Web (ex : &quot;`(company.com/)`&quot;) et CorpIP avec l&#39;adresse IP de votre serveur de messagerie d&#39;entreprise (ex. &quot;255.255.255.255&quot;). Si vous souhaitez envoyer des courriers électroniques à partir de plusieurs domaines via Marketo, votre personnel informatique doit ajouter cette ligne pour chaque domaine (sur une seule ligne).
 
 1. Pour DKIM, créez des enregistrements de ressources DNS pour chaque domaine à configurer. Vous trouverez ci-dessous les enregistrements d’hôtes et les valeurs TXT pour chaque domaine pour lequel nous allons signer :
 
-   `[DKIMDomain1]`: L’enregistrement hôte est `[HostRecord1]` défini et la valeur TXT est `[TXTValue1]`définie.
+   `[DKIMDomain1]`: L’enregistrement d’hôte est défini  `[HostRecord1]` et la valeur TXT est  `[TXTValue1]`définie.
 
-   `[DKIMDomain2]`: L’enregistrement hôte est `[HostRecord2]` défini et la valeur TXT est `[TXTValue2]`définie.
+   `[DKIMDomain2]`: L’enregistrement d’hôte est défini  `[HostRecord2]` et la valeur TXT est  `[TXTValue2]`définie.
 
    Copiez l&#39;enregistrement hôte et la valeur TXTValue pour chaque domaine DKIMDomain que vous avez configuré après avoir suivi les [instructions ici](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). N’oubliez pas de vérifier chaque domaine dans Admin > Email > DKIM une fois que votre personnel informatique a terminé cette étape.
 
-## Étape 4 : Configuration des enregistrements MX pour votre domaine {#step-set-up-mx-records-for-your-domain}
+## Étape 4 : Configurer des enregistrements MX pour votre domaine {#step-set-up-mx-records-for-your-domain}
 
 Un enregistrement MX vous permet de recevoir du courrier dans le domaine à partir duquel vous envoyez du courrier électronique pour traiter les réponses et les répondeurs automatiques. Si vous envoyez des données à partir de votre domaine d’entreprise, il est probable que vous ayez déjà configuré cette option. Si ce n’est pas le cas, vous pouvez généralement le configurer pour le mapper à l’enregistrement MX de votre domaine d’entreprise.
