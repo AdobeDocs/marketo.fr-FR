@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utiliser vos adresses IP dédiées pour envoyer des courriers électroniques {#use-your-dedicated-ip-addresses-to-send-emails}
+# Utilisez vos adresses IP dédiées pour envoyer des courriels {#use-your-dedicated-ip-addresses-to-send-emails}
 
 L&#39;envoi à partir d&#39;une ou de plusieurs adresses IP dédiées vous permet de contrôler entièrement votre réputation d&#39;envoi.
 
@@ -36,13 +36,13 @@ Un consultant spécialisé en délivrabilité fournit :
 
 Pour optimiser la délivrabilité à long terme, l’offre des conseillers en délivrabilité a personnalisé des recommandations afin d’augmenter lentement le volume des campagnes par courrier électronique sur votre adresse IP dédiée. Nous appelons cela &quot;augmenter votre IP.&quot; Il début froid, et envoyer du courrier le réchauffe. Les adresses IP froides qui envoient un volume élevé de courriers électroniques voient souvent leur vitesse d&#39;envoi ralentie et sont généralement classées comme spam.
 
-**Important**: En règle générale, maintenez un nombre cohérent de courriers électroniques par mois. Cela permet d&#39;établir un modèle de réputation et de délivrabilité. Une augmentation ou une diminution drastique du volume des courriers électroniques, même sur une adresse IP &quot;chaude&quot;, peut entraîner une visualisation suspecte des courriers électroniques par les fournisseurs de services de messagerie.
+**Important** : En règle générale, maintenez un nombre cohérent de courriers électroniques par mois. Cela permet d&#39;établir un modèle de réputation et de délivrabilité. Une augmentation ou une diminution drastique du volume des courriers électroniques, même sur une adresse IP &quot;chaude&quot;, peut entraîner une visualisation suspecte des courriers électroniques par les fournisseurs de services de messagerie.
 
 >[!TIP]
 >
->Gardez votre base de données propre pour maintenir votre délivrabilité élevée. [L’Adobe exige](http://www.adobe.com/legal/terms/aup.html) que les clients n’envoient des communications marketing qu’aux personnes qui ont choisi ou demandé de recevoir un courrier électronique. Ne pas spammer.
+>Gardez votre base de données propre pour maintenir votre délivrabilité élevée. [L’Adobe ](http://www.adobe.com/legal/terms/aup.html) exige que les clients n’envoient des communications marketing qu’aux personnes qui ont choisi ou demandé de recevoir un courrier électronique. Ne pas spammer.
 
 >[!CAUTION]
 >
->Si vous rencontrez un grand nombre de rebonds ou tout autre problème, contactez le support technique [](http://nation.marketo.com/t5/Support/ct-p/Support)Marketo. Si vous souhaitez obtenir une assistance plus ciblée pour savoir comment gérer une base de données propre et augmenter l’engagement avec votre programme, les conseillers en livrabilité du courriel de Marketo peuvent être sollicités pour un forfait de services personnalisés.
+>Si vous rencontrez un grand nombre de rebonds ou tout autre problème, contactez le [Support marketing](http://nation.marketo.com/t5/Support/ct-p/Support). Si vous souhaitez obtenir une assistance plus ciblée pour savoir comment gérer une base de données propre et augmenter l’engagement avec votre programme, les conseillers en livrabilité du courriel de Marketo peuvent être sollicités pour un forfait de services personnalisés.
 
