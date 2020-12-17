@@ -21,7 +21,7 @@ Lorsqu&#39;une nouvelle solution Microsoft Dynamics est disponible, vous pouvez 
 
 >[!CAUTION]
 >
->Il est impératif que vous téléchargiez la dernière solution Marketo *avant* d’effectuer une mise à niveau.
+>Il est impératif que vous téléchargiez la dernière solution Marketo *avant* de procéder à une mise à niveau.
 
 1. Rendez-vous dans la **zone Admin **zone.
 
@@ -31,7 +31,7 @@ Lorsqu&#39;une nouvelle solution Microsoft Dynamics est disponible, vous pouvez 
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Sélectionnez **Télécharger la solution** marketing.
+1. Sélectionnez **Télécharger la solution marketing**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
