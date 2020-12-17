@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configurer les informations de compte {#set-up-account-insight}
+# Configurer Account Insight {#set-up-account-insight}
 
 Voici comment configurer Account Insight.
 
@@ -23,7 +23,7 @@ Voici comment configurer Account Insight.
 
    ![](assets/admin-1.png)
 
-1. Cliquez sur **ABM** dans l&#39;arborescence, puis sur l&#39;onglet Ventes **** ABM.
+1. Cliquez sur **ABM** dans l&#39;arborescence, puis sur l&#39;onglet **Ventes ABM**.
 
    ![](assets/two-5.png)
 
@@ -37,7 +37,7 @@ Voici comment configurer Account Insight.
 
    >[!NOTE]
    >
-   >Si les paramètres [Note de](http://docs.marketo.com/display/DOCS/Account+Score) compte sont mis à jour à tout moment, la configuration sous Ventes ABM doit être mise à jour par un administrateur pour s&#39;assurer que les scores reflètent fidèlement les préférences de l&#39;utilisateur. L’utilisateur doit se déconnecter et se reconnecter pour connaître les modifications.
+   >Si les paramètres [Note du compte](http://docs.marketo.com/display/DOCS/Account+Score) sont mis à jour à tout moment, la configuration sous Ventes ABM doit être mise à jour par un administrateur pour s&#39;assurer que les scores reflètent fidèlement les préférences de l&#39;utilisateur. L’utilisateur doit se déconnecter et se reconnecter pour connaître les modifications.
 
 1. Cliquez sur **Enregistrer**.
 
