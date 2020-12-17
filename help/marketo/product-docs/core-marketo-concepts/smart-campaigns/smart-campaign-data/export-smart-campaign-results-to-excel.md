@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Exportez les résultats de votre campagne intelligente vers Excel pour les utiliser en dehors de Marketing Cloud.
 
-1. Dans votre campagne intelligente, cliquez sur **Résultats** , puis sur l’icône d’exportation située dans la partie inférieure.
+1. Dans votre campagne intelligente, cliquez sur **Résultats**, puis sur l’icône d’exportation située en bas.
 
    ![](assets/exportexcel-hands.png)
 
