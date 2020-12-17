@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Supprimer/Supprimer un problème de page {#seo-remove-delete-a-page-issue}
+# SEO - Supprimer un problème de page {#seo-remove-delete-a-page-issue}
 
 Tous les problèmes de page ne sont pas utiles pour vous. Voici comment en supprimer un :
 
-1. Accédez à la section **Pages** .
+1. Accédez à la section **Pages**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
