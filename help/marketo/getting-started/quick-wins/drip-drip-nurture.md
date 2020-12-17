@@ -25,15 +25,15 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
 ## Étape 1 : Créer un Programme d’engagement {#step-create-an-engagement-program}
 
-1. Accédez à la zone Activités **** marketing.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/one-3.png)
 
-1. Sélectionnez le dossier **Apprentissage** , cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouveau Programme**.
+1. Sélectionnez le dossier **Apprentissage**, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouveau Programme**.
 
    ![](assets/two-4.png)
 
-1. Saisissez un **nom** et sélectionnez **Engagement** pour le type **de** Programme.
+1. Saisissez un **nom** et sélectionnez **Engagement** pour le **type de Programme**.
 
    ![](assets/three-3.png)
 
@@ -45,7 +45,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
 ## Étape 2 : Créer un courriel {#step-create-an-email}
 
-1. Sélectionnez votre programme d’engagement, puis cliquez sur **Nouveau** et sélectionnez **Nouveau fichier** local.
+1. Sélectionnez votre programme d’engagement, puis cliquez sur **New** et sélectionnez **New Local Asset**.
 
    ![](assets/five-3.png)
 
@@ -59,7 +59,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    >[!NOTE]
    >
-   >Vous ne voyez pas l’éditeur de courrier électronique ? Votre navigateur a probablement bloqué la fenêtre. Activez les fenêtres contextuelles [app.marketo.com](https://app.marketo.com) dans votre navigateur et cliquez sur **Modifier le brouillon** dans la barre de menus supérieure.
+   >Vous ne voyez pas l’éditeur de courrier électronique ? Votre navigateur a probablement bloqué la fenêtre. Activez les fenêtres contextuelles de [app.marketo.com](https://app.marketo.com) dans votre navigateur et cliquez sur **Modifier le brouillon** dans la barre de menus supérieure.
 
 1. Entrez un objet.
 
@@ -77,7 +77,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    ![](assets/eleven-3.png)
 
-1. Sous Actions **** par courrier électronique, cliquez sur **Approuver**.
+1. Sous **Actions de courriel**, cliquez sur **Approuver**.
 
    ![](assets/twelve-2.png)
 
@@ -93,7 +93,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
 1. Il est maintenant temps de créer un flux de contenu pour votre programme d’engagement à l’aide des courriels que vous avez créés.
 
-1. Sélectionnez votre programme d’engagement, puis cliquez sur l’onglet **Flux** .
+1. Sélectionnez votre programme d’engagement, puis cliquez sur l’onglet **Flux**.
 
    ![](assets/fourteen-2.png)
 
@@ -103,11 +103,11 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    >[!TIP]
    >
-   >Vous pouvez également utiliser le bouton **Ajouter le contenu** ou l’icône de flux **+** .
+   >Vous pouvez également utiliser le bouton **Ajouter le contenu** ou l’icône de diffusion **+**.
 
 ## Étape 4 : Activer le contenu du flux {#step-activate-stream-content}
 
-1. Activez tout le contenu en même temps en cliquant sur l’icône représentant un engrenage de flux, puis en cliquant sur **Activer tout le contenu**.
+1. Activez tout le contenu en même temps en cliquant sur l’icône représentant un engrenage de flux, puis cliquez sur **Activer tout le contenu**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -117,9 +117,9 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    Super travail ! Encore une étape et le programme d&#39;engagement est prêt.
 
-## Étape 5 : Définir la cadence du flux {#step-set-the-stream-cadence}
+## Étape 5 : Définir la cadence de diffusion {#step-set-the-stream-cadence}
 
-1. Cliquez sur **Définir la cadence** du flux.
+1. Cliquez sur **Définir le cadence de diffusion**.
 
    ![](assets/seventeen.png)
 
@@ -135,7 +135,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
 ## Étape 6 : Ajouter une personne de test à votre Programme d’engagement {#step-add-a-test-person-to-your-engagement-program}
 
-1. Accédez à la zone **Base de données** .
+1. Accédez à la zone **Base de données**.
 
    ![](assets/nineteen-1.png)
 
@@ -151,7 +151,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    ![](assets/twenty-one.png)
 
-1. Sélectionnez votre **Programme** et votre **diffusion en continu**, puis cliquez sur **Exécuter maintenant**.
+1. Sélectionnez votre **Programme** et **Flux**, puis cliquez sur **Exécuter maintenant**.
 
    ![](assets/twenty-two.png)
 
@@ -161,7 +161,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    >[!NOTE]
    >
-   >En savoir plus sur les Programmes [](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)d’engagement.
+   >En savoir plus sur [Programmes d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
 
 <br> 
 
