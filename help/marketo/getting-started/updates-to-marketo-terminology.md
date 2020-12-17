@@ -71,17 +71,17 @@ Dans certains cas, le mot &quot;plomb&quot; est simplement supprimé.
  </tbody> 
 </table>
 
-Le plomb et la personne **sont la même chose**.
+Le plomb et la personne **sont identiques**.
 
 ## Jetons {#tokens}
 
-Les jetons contenant le mot &quot;plomb&quot; ne **changent** pas. Nous nous excusons pour toute confusion ; toutefois, modifier tous les jetons pour qu&#39;ils correspondent à la nouvelle terminologie briserait un grand nombre de jetons actuellement utilisés. Vous verrez donc toujours des jetons tels que &quot;`{{lead.First Name}}`&quot;. Il n&#39;existe pas de jetons spécifiques à une personne.
+Les jetons contenant le mot plomb **ne changent pas**. Nous nous excusons pour toute confusion ; toutefois, modifier tous les jetons pour qu&#39;ils correspondent à la nouvelle terminologie briserait un grand nombre de jetons actuellement utilisés. Vous verrez donc toujours des jetons tels que &quot;`{{lead.First Name}}`&quot;. Il n&#39;existe pas de jetons spécifiques à une personne.
 
 >[!NOTE]
 >
->Il *existe* un jeton appelé &quot;Notes personnelles&quot;, mais ce jeton était toujours présent. Il est généralement utilisé pour un champ de description dans votre gestion de la relation client, le cas échéant.
+>*il existe* un jeton appelé &quot;Notes de personne&quot;, mais ce jeton était toujours présent. Il est généralement utilisé pour un champ de description dans votre gestion de la relation client, le cas échéant.
 
-## Gestion de terrain {#field-management}
+## Gestion des champs {#field-management}
 
 Les champs qui contenaient le terme Piste ont été remplacés par Personne ou le mot Piste a été supprimé. Le champ &quot;Propriétaire de la piste&quot; constitue toutefois une exception notable. Il est désormais connu sous le nom de &quot;Propriétaire de la vente&quot;.
 
@@ -110,9 +110,9 @@ Les champs qui contenaient le terme Piste ont été remplacés par Personne ou l
 
 >[!NOTE]
 >
->Pour une liste complète des noms de champs concernés, veuillez visiter cet article [](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens)d&#39;assistance.
+>Pour une liste complète des noms de champ concernés, veuillez visiter cet [article d&#39;assistance](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
 
-## La personnalisation en temps réel (RTP) est désormais la personnalisation Web {#real-time-personalization-rtp-is-now-web-personalization}
+## La personnalisation en temps réel est désormais la personnalisation Web {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,11 +139,11 @@ Les champs qui contenaient le terme Piste ont été remplacés par Personne ou l
 
 Outre le changement de nom, il comprend désormais quatre applications distinctes :
 
-| ** Personnalisation [](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)Web** | Dispose de sa propre mosaïque sur l’écran d’accueil |
+| ** [Personnalisation Web](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Dispose de sa propre mosaïque sur l’écran d’accueil |
 |---|---|
-| ** Marketing [Web basé sur](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)le compte** | Accessible via la mosaïque Personnalisation Web |
-| ** [Ciblage](http://docs.marketo.com/display/DOCS/Website+Retargeting)personnalisé** | Accessible via la mosaïque Personnalisation Web |
-| ** Contenu [](http://docs.marketo.com/display/DOCS/Predictive+Content)prédictif** | Dispose de sa propre mosaïque sur l’écran d’accueil |
+| ** [Marketing Web basé sur le compte](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accessible via la mosaïque Personnalisation Web |
+| ** [Reciblage personnalisé](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | Accessible via la mosaïque Personnalisation Web |
+| ** [Contenu prédictif](http://docs.marketo.com/display/DOCS/Predictive+Content)** | Dispose de sa propre mosaïque sur l’écran d’accueil |
 
 >[!NOTE]
 >
