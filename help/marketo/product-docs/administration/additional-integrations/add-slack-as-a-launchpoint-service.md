@@ -24,13 +24,13 @@ L’intégration du Slack comprend deux types de notification :
 
 >[!PREREQUISITES]
 >
->Si vous n&#39;avez pas encore activé les notifications système Slack, [contactez l&#39;assistance](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
+>Si vous n&#39;avez pas encore activé les notifications système Slack, contactez le [support](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
 
-1. Accédez à **LaunchPoint**, puis sous **New** , cliquez sur **New Service**.
+1. Accédez à **LaunchPoint**, puis sous **New** cliquez sur **New Service**.
 
    ![](assets/image2017-11-27-14-3a13-3a18.png)
 
-1. Entrez un nom d&#39;affichage pour votre intégration de Slack. Dans la liste déroulante **Service** , sélectionnez **Slack**. Cliquez sur **Créer**.
+1. Entrez un nom d&#39;affichage pour votre intégration de Slack. Dans la liste déroulante **Service**, sélectionnez **Slack**. Cliquez sur **Créer**.
 
    ![](assets/image2017-11-27-15-3a54-3a11.png)
 
@@ -42,11 +42,11 @@ L’intégration du Slack comprend deux types de notification :
 
    ![](assets/image2017-11-27-15-3a1-3a29.png)
 
-1. Saisissez vos informations d’identification de Slack et cliquez sur **Se connecter**.
+1. Entrez vos informations d’identification de Slack et cliquez sur **Se connecter**.
 
    ![](assets/image2017-11-27-15-3a1-3a3.png)
 
-1. Dans la liste **déroulante Publier vers** , sélectionnez le canal dans lequel vous souhaitez publier les notifications de Marketo. Vérifiez les autorisations demandées, puis cliquez sur **Autoriser**.
+1. Dans la liste déroulante **Publier sur**, sélectionnez le canal dans lequel vous souhaitez que les notifications de Marketo soient publiées. Vérifiez les autorisations demandées, puis cliquez sur **Autoriser**.
 
    ![](assets/image2018-1-9-13-3a21-3a50.png)
 
