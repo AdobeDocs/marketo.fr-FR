@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Prévisualisation d’un courrier électronique avec du contenu dynamique {#preview-an-email-with-dynamic-content}
+# Prévisualisation d’un courriel avec du contenu dynamique {#preview-an-email-with-dynamic-content}
 
 Prévisualisation de votre courrier électronique après l’ajout d’un contenu dynamique afin de le vérifier.
 
-1. Sélectionnez votre adresse électronique, puis cliquez sur **Prévisualisation électronique**.
+1. Sélectionnez votre adresse électronique et cliquez sur **Prévisualisation**.
 
    ![](assets/one-3.png)
 
@@ -32,7 +32,7 @@ Prévisualisation de votre courrier électronique après l’ajout d’un conten
 
 Vous pouvez également prévisualisation du contenu dynamique directement dans l’éditeur de courrier électronique.
 
-1. Sous **Contenu**, cliquez sur l’onglet **Dynamique** .
+1. Sous **Contenu**, cliquez sur l&#39;onglet **Dynamique**.
 
    ![](assets/five-1.png)
 
