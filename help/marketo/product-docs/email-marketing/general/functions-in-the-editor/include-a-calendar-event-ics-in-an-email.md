@@ -27,7 +27,7 @@ Un jeton Fichier de calendrier vous permet d’ajouter un lien de événement de
 
 ![](assets/one-6.png)
 
-1. Sélectionnez le jeton Fichier de calendrier, puis cliquez sur **Insérer**.
+1. Sélectionnez le jeton Fichier de calendrier et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
