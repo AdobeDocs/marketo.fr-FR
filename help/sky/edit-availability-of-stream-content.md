@@ -20,7 +20,7 @@ Vous pouvez définir une période pour que le contenu soit principal dans votre 
 
    ![Image un](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Flux]**.
 
    ![Image 2](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -32,7 +32,7 @@ Vous pouvez définir une période pour que le contenu soit principal dans votre 
 
    ![Image 4](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
-1. Sélectionnez la date [!UICONTROL Principale du] et les dates [!UICONTROL Principales] .
+1. Sélectionnez la date [!UICONTROL Principal du ] et les dates [!UICONTROL Principal jusqu&#39;à ].
 
    ![Image 5](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
@@ -42,7 +42,7 @@ Vous pouvez définir une période pour que le contenu soit principal dans votre 
 
 >[!TIP]
 >
->Vous pouvez laisser [!UICONTROL Principal] vide pour rendre le contenu disponible pour toujours.
+>Vous pouvez laisser [!UICONTROL Principal traversé] vide pour rendre le contenu disponible pour toujours.
 
 Parfait ! Une icône représentant une horloge s’affiche en regard du contenu planifié. Il deviendra principal et inactif selon la planification que vous avez définie.
 
