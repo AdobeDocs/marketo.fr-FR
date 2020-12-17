@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utiliser le choix des Ajoutes dans une étape de flux {#use-add-choice-in-a-flow-step}
+# Utiliser le choix d&#39;Ajoute dans une étape de flux {#use-add-choice-in-a-flow-step}
 
 >[!PREREQUISITES]
 >
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 
 
-**Ajouter le choix** vous permet d’utiliser une étape de flux et de dire &quot;Cela dépend&quot; lorsque vous choisissez les détails.
+**Ajoutez** Choicelets vous utilisez une étape de flux et dites &quot;Ça dépend&quot; lorsque vous choisissez les détails.
 
-1. Sous l’onglet **Flux** de la campagne dynamique, ajoutez une étape de flux, puis cliquez sur **Ajouter le choix**.
+1. Sous l&#39;onglet **Flux** de la campagne dynamique, ajoutez toute étape de flux, puis cliquez sur **Ajouter le choix**.
 
    ![](assets/image2014-9-22-11-3a58-3a20.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Seul le premier choix de correspondance est appliqué à l’étape de flux. Découvrez comment [réorganiser &quot;Choix d’Ajoute&quot; dans une action](reorder-add-choice-in-a-flow-step.md)de flux.
+   >Seul le premier choix de correspondance est appliqué à l’étape de flux. Découvrez comment [réorganiser &quot;Choix d&#39;Ajoute&quot; dans une action de flux](reorder-add-choice-in-a-flow-step.md).
 
    >[!NOTE]
    >
