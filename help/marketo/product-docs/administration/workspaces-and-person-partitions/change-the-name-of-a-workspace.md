@@ -27,17 +27,17 @@ Les utilisateurs peuvent modifier le nom d’un espace de travail. C&#39;est ass
 >
 >**Plongée profonde**
 >
->Commencez par [comprendre les espaces de travail et les partitions](understanding-workspaces-and-person-partitions.md)personnelles.
+>Commencez par [Comprendre les espaces de travail et les partitions de personne](understanding-workspaces-and-person-partitions.md).
 
 1. Sous **Admin**, cliquez sur **Espaces de travail et partitions.**
 
    ![](assets/image2014-9-17-11-3a8-3a28.png)
 
-1. Sélectionnez Espace de travail et cliquez sur **Modifier l’espace de travail**.
+1. Sélectionnez Workspace et cliquez sur **Modifier Workspace**.
 
    ![](assets/two-4.png)
 
-1. Saisissez un nouveau **nom** pour votre espace de travail, puis cliquez sur **Enregistrer.**
+1. Saisissez un nouveau **nom** pour votre espace de travail et cliquez sur **Enregistrer.**
 
    ![](assets/three-4.png)
 
