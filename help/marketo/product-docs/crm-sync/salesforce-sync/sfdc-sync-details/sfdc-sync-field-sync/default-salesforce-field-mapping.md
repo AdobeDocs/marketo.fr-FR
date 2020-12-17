@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mappage des champs Salesforce par défaut {#default-salesforce-field-mapping}
+# Mappage de champ Salesforce par défaut {#default-salesforce-field-mapping}
 
 Lors de la synchronisation initiale de votre compte Marketo avec Salesforce, Marketo crée automatiquement ces associations entre vos champs intégrés Salesforce et Marketo. Marketo synchronise également vos champs personnalisés sur vos pistes, comptes, opportunités et contacts.
 
