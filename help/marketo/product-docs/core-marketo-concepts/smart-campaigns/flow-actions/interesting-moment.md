@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Moment intéressant {#interesting-moment}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
-Si vous avez [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php), vous pouvez utiliser l&#39;étape de flux Moment **** intéressant pour donner à votre équipe commerciale une visibilité sur les choses cool que vos employés font.
+Si vous avez [Marketing Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php), vous pouvez utiliser l&#39;étape de flux **Moment intéressant** pour donner à votre équipe commerciale une visibilité sur les choses cool que vos employés font.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
 ## Utilisation {#usage}
 
-1. Sélectionnez le **type** de moment intéressant à utiliser.
+1. Sélectionnez le moment intéressant **type** à utiliser.
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
-1. Créez une **description** qui explique l&#39;instant intéressant pour votre équipe commerciale.
+1. Créez une **description** qui explique le moment intéressant pour votre équipe commerciale.
 
    ![](assets/image2014-9-22-10-3a49-3a55.png)
 
