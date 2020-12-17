@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’un domaine de marque {#delete-a-branding-domain}
+# Supprimer un domaine de marque {#delete-a-branding-domain}
 
 1. Dans Mon Marketo, cliquez sur **Admin **puis sur le **Courriel **lien.
 
