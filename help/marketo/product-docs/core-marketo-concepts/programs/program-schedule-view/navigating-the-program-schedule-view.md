@@ -17,11 +17,11 @@ Voici les principes de base pour vous aider à naviguer dans la vue de Planning 
 
 ## Rechercher la Vue de planification {#find-the-schedule-view}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre programme. Cliquez sur la liste déroulante **Vue** . Sélectionnez **Planification**.
+1. Sélectionnez votre programme. Cliquez sur la liste déroulante **Vue**. Sélectionnez **Planification**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -49,7 +49,7 @@ Voici les principes de base pour vous aider à naviguer dans la vue de Planning 
 
 ## Changement entre les modes {#changing-between-modes}
 
-1. Cliquez sur **3 semaines** ou **mois** pour modifier les dates visibles sur votre écran.
+1. Cliquez sur **3 semaines** ou **Mois** pour modifier les dates visibles sur votre écran.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
