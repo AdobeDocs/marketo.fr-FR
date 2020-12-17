@@ -17,9 +17,9 @@ Ajoutez un domaine de marque supplémentaire lorsque vous exécutez plusieurs ma
 
 >[!PREREQUISITES]
 >
->Vous devez [remplacer le lien](edit-your-default-branding-domain.md) de suivi générique par un domaine de marque avant d’ajouter d’autres domaines de marque.
+>Vous devez [remplacer le lien de suivi générique](edit-your-default-branding-domain.md) par un domaine de marque avant d’ajouter d’autres domaines de marque.
 
-1. Dans Mon marketing, cliquez sur **Admin **puis sur le lien **Courriel** .
+1. Dans Mon marketing, cliquez sur **Admin **puis sur le lien **Courriel**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -33,7 +33,7 @@ Ajoutez un domaine de marque supplémentaire lorsque vous exécutez plusieurs ma
 
 >[!NOTE]
 >
->Vous pouvez choisir de faire de ce domaine votre Principal domaine, et tous les courriers électroniques non envoyés existants sont définis sur &quot;Par défaut&quot; et tous les nouveaux courriels créés seront définis par défaut sur le domaine Principal. Vous pourrez le [remplacer par courriel](overwrite-primary-domain-for-emails.md).
+>Vous pouvez choisir de faire de ce domaine votre Principal domaine, et tous les courriers électroniques non envoyés existants sont définis sur &quot;Par défaut&quot; et tous les nouveaux courriels créés seront définis par défaut sur le domaine Principal. Vous pourrez [remplacer cette valeur par courriel ](overwrite-primary-domain-for-emails.md).
 
 >[!NOTE]
 >
