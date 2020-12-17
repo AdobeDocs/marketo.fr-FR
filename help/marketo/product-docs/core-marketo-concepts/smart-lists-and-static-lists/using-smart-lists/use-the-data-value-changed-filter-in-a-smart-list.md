@@ -27,11 +27,11 @@ Les valeurs changent constamment et sont mises à jour dans votre base de donné
 
    ![](assets/ma.png)
 
-1. Sélectionnez la liste intelligente et cliquez sur l’onglet Liste **** intelligente.
+1. Sélectionnez la liste intelligente et cliquez sur l&#39;onglet **Liste dynamique**.
 
    ![](assets/two-1.png)
 
-1. Recherchez le filtre Valeur de **données modifiée** et faites-le glisser sur la trame.
+1. Recherchez le filtre **Valeur de données modifiée** et faites-le glisser sur la trame.
 
    ![](assets/three-1.png)
 
@@ -39,7 +39,7 @@ Les valeurs changent constamment et sont mises à jour dans votre base de donné
 
    ![](assets/four.png)
 
-Ce filtre recherche toutes les personnes qui ont changé (toute modification) leur statut. Si vous souhaitez être encore plus fantaisiste, essayez d&#39; [ajouter une contrainte à un filtre](add-a-constraint-to-a-smart-list-filter.md)de liste intelligent.
+Ce filtre recherche toutes les personnes qui ont changé (toute modification) leur statut. Si vous souhaitez être encore plus fantaisiste, essayez [d&#39;ajouter une contrainte à un filtre de liste dynamique](add-a-constraint-to-a-smart-list-filter.md).
 
 >[!NOTE]
 >
