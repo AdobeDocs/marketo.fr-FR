@@ -27,7 +27,7 @@ Vous devez configurer des autorisations pour que vos utilisateurs puissent utili
    >
    >Vous pouvez ajouter des autorisations ABM pour un rôle existant ou en créer un tout nouveau. Cet exemple utilise un nouveau rôle.
 
-1. Cliquez sur **Rôles**, puis sur **Nouveau rôle**.
+1. Cliquez sur **Rôles**, puis **Nouveau rôle**.
 
    ![](assets/three-2.png)
 
@@ -35,7 +35,7 @@ Vous devez configurer des autorisations pour que vos utilisateurs puissent utili
 
    ![](assets/four-1.png)
 
-1. Pour sélectionner *toutes les* autorisations, cochez simplement la case Marketing **basé sur le compte** Access.
+1. Pour sélectionner *toutes les* autorisations, cochez simplement la case **Accès au marketing basé sur le compte**.
 
    ![](assets/five-1.png)
 
@@ -43,10 +43,10 @@ Vous devez configurer des autorisations pour que vos utilisateurs puissent utili
    >
    >Vous avez également la possibilité de sélectionner uniquement certaines des options. Pour ce faire, cochez chaque case individuellement.
 
-1. Cliquez sur le **+** pour ouvrir le menu Access Admin. Cochez la case **Accéder à l&#39;administrateur** ABM.
+1. Cliquez sur **+** pour ouvrir le menu Access Admin. Cochez la case **Accéder à l&#39;administrateur ABM**.
 
    ![](assets/six-1.png)\
-   Votre nouveau rôle ABM est maintenant prêt à être [affecté à un utilisateur](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)!
+   Votre nouveau rôle ABM est maintenant prêt à être [affecté à un utilisateur](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser) !
 
    ![](assets/seven.png)
 
