@@ -19,7 +19,7 @@ Le Tableau de bord de base de données sert d&#39;instantané pour vous aider à
 >
 >Chaque espace de travail possède sa propre base de données.
 
-Pour y accéder, vous pouvez cliquer sur la mosaïque **Base de données** sur votre écran d&#39;accueil...   ![](assets/db-3.png)
+Pour y accéder, vous pouvez cliquer sur la mosaïque **Base de données** sur votre écran d’accueil...   ![](assets/db-3.png)
 
 Ou cliquez sur le logo Marketo et sélectionnez **Base de données**.
 
@@ -31,7 +31,7 @@ Les graphiques indiquent le nombre total de personnes, le nombre de personnes co
 
 >[!TIP]
 >
->Vous souhaitez obtenir des informations plus précises ou plus opportunes sur votre peuple ? Essayez un rapport [sur les performances des](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)personnes.
+>Vous souhaitez obtenir des informations plus précises ou plus opportunes sur votre peuple ? Essayez un [rapport Performance des personnes](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Nombre total de personnes :** Nombre de personnes travaillant tout le temps pour cet espace de travail.  **Personnes commercialisables :** Nombre de personnes travaillant tout le temps pour l’espace de travail, *moins ce qui suit*: les personnes sans adresse électronique, les personnes dont le courrier électronique a rebondi dur, les personnes qui sont placées sur la liste bloquée, les personnes qui se sont désabonnées, les personnes actuellement placées sur Marketing Suspendu.
+**Nombre total de personnes :** nombre de personnes travaillant tout le temps pour cet espace de travail.  **Personnes pouvant faire l’objet d’un marketing : nombre** de personnes travaillant tout le temps pour l’espace de travail,  *moins ce qui suit* : les personnes sans adresse électronique, les personnes dont le courrier électronique a rebondi dur, les personnes qui sont placées sur la liste bloquée, les personnes qui se sont désabonnées, les personnes actuellement placées sur Marketing Suspendu.
 
