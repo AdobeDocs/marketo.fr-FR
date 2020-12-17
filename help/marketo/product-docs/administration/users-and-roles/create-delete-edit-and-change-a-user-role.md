@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Créer, supprimer, modifier et modifier un rôle utilisateur {#create-delete-edit-and-change-a-user-role}
 
-**Les rôles** regroupent plusieurs autorisations. **Les autorisations** vous permettent de faire des choses dans Marketo. Vous attribuez un **rôle** à un utilisateur. Facile comme de la tarte.
+**Regrouper** plusieurs autorisations. **** Permissionsallow vous conseille de faire des trucs sur Marketo. Vous affectez un **rôle** à un utilisateur. Facile comme de la tarte.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a31-3a19.png)
 
-## Suppression d’un rôle {#delete-a-role}
+## Supprimer un rôle {#delete-a-role}
 
 1. Sous Admin,** **cliquez sur **Utilisateurs et rôles**.
 
@@ -87,11 +87,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a35-3a49.png)
 
-1. Sélectionnez l’utilisateur auquel vous souhaitez affecter un rôle différent, puis cliquez sur **Modifier l’utilisateur.**
+1. Sélectionnez l&#39;utilisateur auquel vous souhaitez affecter un rôle différent, puis cliquez sur **Modifier l&#39;utilisateur.**
 
    ![](assets/image2014-9-16-13-36-8.png)
 
-1. Désélectionnez le rôle précédent, sélectionnez-en un nouveau, puis cliquez sur **Enregistrer**.
+1. Désélectionnez le rôle précédent, sélectionnez le nouveau rôle, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-16-13-3a36-3a35.png)
 
