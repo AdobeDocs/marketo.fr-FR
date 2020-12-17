@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation des cartes de Programme de messagerie {#understanding-email-program-cards}
+# Présentation des cartes de Programme de courriel {#understanding-email-program-cards}
 
 Utilisez Moments du marketing pour vue vos Programmes électroniques à partir de votre téléphone ou de votre iPad.
 
@@ -31,7 +31,7 @@ Une fois le courrier électronique envoyé, la carte affiche d’autres informat
 
 ![](assets/image2015-9-25-10-3a5-3a29.png)
 
-## Confirmation d’une carte de messagerie {#confirming-an-email-card}
+## Confirmation d&#39;une carte de courriel {#confirming-an-email-card}
 
 1. Pour confirmer une carte de messagerie non confirmée, appuyez sur le menu à trois points.
 
@@ -41,7 +41,7 @@ Une fois le courrier électronique envoyé, la carte affiche d’autres informat
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Appuyez sur **Confirmer **pour terminer le travail, ou **Ne vous souciez** jamais si vous avez réfléchi.
+1. Appuyez sur **Confirmer **pour terminer le travail, ou **Jamais d&#39;indifférence** si vous aviez des doutes.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -49,17 +49,17 @@ Une fois le courrier électronique envoyé, la carte affiche d’autres informat
    >
    >Maintenant votre carte va se transformer en orange !
 
-## Annulation de l&#39;envoi d&#39;une carte de messagerie {#canceling-an-email-card-send}
+## Annulation de l&#39;envoi d&#39;une carte de courriel {#canceling-an-email-card-send}
 
 1. Si vous décidez de ne pas envoyer votre courriel confirmé, appuyez sur le menu à trois points.
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Appuyez sur **Annuler l’envoi**.
+1. Appuyez sur **Annuler l&#39;envoi**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
-## Replanifier une carte de messagerie {#rescheduling-an-email-card}
+## Replanifier une carte de courriel {#rescheduling-an-email-card}
 
 Vous pouvez replanifier les cartes électroniques confirmées ou non confirmées.
 
@@ -81,7 +81,7 @@ Vous pouvez replanifier les cartes électroniques confirmées ou non confirmées
 
    Tant que vous disposez d&#39;un service sans fil, vous pouvez le replanifier depuis n&#39;importe où !
 
-## Envoi d’un exemple {#sending-a-sample}
+## Envoi d&#39;un exemple {#sending-a-sample}
 
 Vous pouvez partager un exemple de moment de courrier électronique directement avec quelqu’un.
 
@@ -89,19 +89,19 @@ Vous pouvez partager un exemple de moment de courrier électronique directement 
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Appuyez sur **Envoyer un exemple**.
+1. Appuyez sur **Envoyer l’exemple**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Entrez une adresse électronique et cliquez sur **Envoyer un exemple**.
+1. Entrez une adresse électronique et cliquez sur **Envoyer l’exemple**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
-## Prévisualisation d’un courrier électronique {#previewing-an-email}
+## Aperçu d’un courrier électronique {#previewing-an-email}
 
 Cliquez avec le bouton droit sur une carte de courriel pour la prévisualisation.
 
-1. Appuyez sur Courriel **** de Prévisualisation.
+1. Appuyez sur **Courriel de Prévisualisation**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
