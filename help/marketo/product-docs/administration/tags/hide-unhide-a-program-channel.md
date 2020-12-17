@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Vous pouvez [supprimer un canal](delete-a-program-channel.md) de programme s’il n’est utilisé par aucun programme.  Cependant, une fois qu&#39;elle est utilisée, nous devons la garder autour de nous.  Vous pouvez toutefois le masquer si vous n’en avez plus besoin.
+Vous pouvez [supprimer un canal de programme](delete-a-program-channel.md) s&#39;il n&#39;est utilisé par aucun programme.  Cependant, une fois qu&#39;elle est utilisée, nous devons la garder autour de nous.  Vous pouvez toutefois le masquer si vous n’en avez plus besoin.
 
 ## Masquer un Canal de Programme {#hide-a-program-channel}
 
@@ -25,11 +25,11 @@ Vous pouvez [supprimer un canal](delete-a-program-channel.md) de programme s’i
 
    ![](assets/image2014-9-24-15-3a45-3a7.png)
 
-1. Cliquez sur la liste déroulante **Canal** et sélectionnez le **Canal **à masquer.
+1. Cliquez sur la liste déroulante **Canal** et sélectionnez le **Canal **pour masquer.
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
-1. Sous Actions **** de balise, cliquez sur **Masquer**.
+1. Sous **Actions de balise**, cliquez sur **Masquer**.
 
    ![](assets/image2014-9-24-15-3a46-3a22.png)
 
