@@ -22,13 +22,13 @@ ht-degree: 0%
 
 
 
-Supposons que vous souhaitiez trouver tout le monde en Californie, mais que vous stockiez peut-être à la fois **Californie** et **Californie** dans votre base de données. Pour inclure toutes les personnes applicables, vous pouvez utiliser deux filtres **d&#39;état** , mais c&#39;est plus facile avec un.
+Supposons que vous souhaitiez trouver tout le monde en Californie, mais que vous puissiez stocker **California** et **CA** dans votre base de données. Pour inclure toutes les personnes applicables, vous pouvez utiliser deux filtres **Etat**, mais c&#39;est plus facile avec un.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Recherchez et sélectionnez une liste intelligente, puis cliquez sur l’onglet Liste **** intelligente.
+1. Recherchez et sélectionnez une liste intelligente et cliquez sur l&#39;onglet **Liste intelligente**.
 
    ![](assets/smarlist-choosefilters.png)
 
