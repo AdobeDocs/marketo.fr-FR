@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Le score d’engagement permet de déterminer facilement l’efficacité du contenu dans votre programme d’engagement. Le score est compris entre 0 et 100. Consultez [le Tableau de bord](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) d’engagement pour savoir comment suivre les performances de votre contenu.
+Le score d’engagement permet de déterminer facilement l’efficacité du contenu dans votre programme d’engagement. Le score est compris entre 0 et 100. Consultez [le Tableau de bord d’engagement](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) pour savoir comment suivre les performances de votre contenu.
 
 ![Image un](/help/sky/assets/engagement-programs/understanding-the-engagement-score/understanding-the-engagement-score-1.png)
 
