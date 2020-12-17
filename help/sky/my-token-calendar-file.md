@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Un jeton Fichier [!UICONTROL de] calendrier vous permet d’ajouter un lien événement de calendrier (.ics) à vos e-mails et landings page marketing. Voici comment en configurer un pour l’utiliser dans vos programmes et dossiers de campagne.
+Un jeton [!UICONTROL Fichier de calendrier] vous permet d’ajouter un lien de événement de calendrier (.ics) à vos e-mails et landings page marketing. Voici comment en configurer un pour l’utiliser dans vos programmes et dossiers de campagne.
 
-1. Dans l’onglet [!UICONTROL Mes jetons] de votre programme ou dossier, faites glisser un jeton Fichier **[!UICONTROL de]** calendrier sur le canevas Jetons  locaux.
+1. Dans l&#39;onglet [!UICONTROL Mes jetons] de votre programme ou dossier, faites glisser un **[!UICONTROL Jeton de calendrier]** sur le canevas [!UICONTROL Jetons locaux].
 
    ![Image un](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-1.jpg)
 
