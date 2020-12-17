@@ -26,11 +26,11 @@ L&#39;intégration en milieu de travail comprend deux types de notification :
 >
 >Si vous n&#39;avez pas encore activé les notifications sur votre lieu de travail, veuillez [contacter l&#39;assistance](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
 
-1. Accédez à **LaunchPoint**, puis sous **New** , cliquez sur **New Service**.
+1. Accédez à **LaunchPoint**, puis sous **New** cliquez sur **New Service**.
 
    ![](assets/image2017-11-27-14-3a13-3a18-1.png)
 
-1. Entrez un nom d’affichage pour l’intégration de votre lieu de travail. Dans la liste déroulante **Service** , sélectionnez **Milieu de travail par Facebook**. Cliquez sur **Créer**.
+1. Entrez un nom d’affichage pour l’intégration de votre lieu de travail. Dans la liste déroulante **Service**, sélectionnez **Lieu de travail par Facebook**. Cliquez sur **Créer**.
 
    ![](assets/newservice.png)
 
@@ -46,7 +46,7 @@ L&#39;intégration en milieu de travail comprend deux types de notification :
 
    ![](assets/workplacelogin.png)
 
-1. Saisissez vos informations d’identification de lieu de travail et cliquez sur **Connexion**.
+1. Entrez vos informations d’identification de lieu de travail et cliquez sur **Connectez-vous**.
 
    ![](assets/workplacelogininfo.png)
 
