@@ -39,7 +39,7 @@ D&#39;accord ! Nous avons installé la solution et configuré l&#39;utilisateur 
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Cliquez sur **Modifier** à l’ **étape 1 : Saisissez les informations d’identification.**
+1. Cliquez sur **Modifier** dans **Étape 1 : Entrez les informations d&#39;identification.**
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -47,7 +47,7 @@ D&#39;accord ! Nous avons installé la solution et configuré l&#39;utilisateur 
    >
    >Assurez-vous que vos informations d’identification sont correctes car nous ne pouvons pas annuler les modifications de schéma suivantes après l’envoi. Si des informations d’identification incorrectes sont enregistrées, vous devrez obtenir un nouvel abonnement Marketo.
 
-1. Saisissez le **nom d’utilisateur**, le **mot de passe** et l’ **URL** CRM, puis cliquez sur **Enregistrer.**
+1. Saisissez le **nom d’utilisateur**, **mot de passe** et l’URL **CRM**, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2015-4-2-14-3a50-3a7.png)
 
@@ -57,13 +57,13 @@ D&#39;accord ! Nous avons installé la solution et configuré l&#39;utilisateur 
 
    >[!TIP]
    >
-   >Vous ne connaissez pas l&#39;URL ? Nous vous montrerons comment trouver l&#39;URL [du service d&#39;organisation](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) Dynamics ici.
+   >Vous ne connaissez pas l&#39;URL ? Nous vous montrerons comment trouver [Dynamics Organization Service URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) ici.
 
 ## Sélectionner les champs à synchroniser {#select-fields-to-sync}
 
 Maintenant, nous devons sélectionner les champs sur lesquels nous voulons synchroniser.
 
-1. Cliquez sur **Modifier**&#x200B;à l’étape **2 : Sélectionnez Champs à synchroniser.**
+1. Cliquez sur **Modifier** dans **Étape 2 : Sélectionnez les champs à synchroniser.**
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
@@ -79,7 +79,7 @@ Si vous avez créé un filtre personnalisé, veillez à entrer et à sélectionn
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Cliquez sur **Modifier** dans Détails de synchronisation des champs.
+1. Cliquez sur **Modifier** sur Détails de synchronisation des champs.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -89,7 +89,7 @@ Si vous avez créé un filtre personnalisé, veillez à entrer et à sélectionn
 
 ## Activer la synchronisation {#enable-sync}
 
-1. Cliquez sur **Modifier** à l’ **étape 3 : Activez Synchroniser**.
+1. Cliquez sur **Modifier** dans **Étape 3 : Activez Sync**.
 
    ![](assets/image2015-3-16-9-52-2b.png)
 
@@ -97,7 +97,7 @@ Si vous avez créé un filtre personnalisé, veillez à entrer et à sélectionn
    >
    >Marketo ne dédupliquera pas automatiquement une synchronisation Microsoft Dynamics ou lorsque vous entrez manuellement des personnes ou des pistes.
 
-1. Lisez tout ce qui se trouve dans la fenêtre contextuelle, entrez votre adresse électronique, puis cliquez sur **Début Sync**.
+1. Lisez tous les éléments de la fenêtre contextuelle, entrez votre adresse électronique, puis cliquez sur **Début Sync**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
