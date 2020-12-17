@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Le calendrier marketing peut être filtré par des objets dans des espaces de travail spécifiques.
 
-1. Accédez au **calendrier**.
+1. Accédez au **Calendrier**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Dans le panneau de filtrage, sélectionnez la liste déroulante **Workspace** . Choisissez l’espace de travail de votre choix.
+1. Dans le panneau Filtre, sélectionnez la liste déroulante **Espace de travail**. Choisissez l’espace de travail de votre choix.
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
