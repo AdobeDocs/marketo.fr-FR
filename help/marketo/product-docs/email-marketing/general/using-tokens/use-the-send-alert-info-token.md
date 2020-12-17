@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Utiliser le jeton d&#39;informations d&#39;alerte Envoyer {#use-the-send-alert-info-token-sp-send-alert-info}
+# Utiliser le jeton Envoyer les informations d&#39;alerte {#use-the-send-alert-info-token-sp-send-alert-info}
 
-Le `{{SP_Send_Alert_Info}}` jeton est un jeton spécial à utiliser lors de la création d&#39;e-mails d&#39;alerte pour votre équipe commerciale.
+Le jeton `{{SP_Send_Alert_Info}}` est un jeton spécial à utiliser lors de la création d&#39;e-mails d&#39;alerte pour votre équipe commerciale.
 
 >[!TIP]
 >
->Ce jeton fonctionne uniquement comme prévu lors de l’envoi du courrier électronique contenant le jeton avec l’étape de flux [Envoyer une alerte](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) . Il ne fonctionnera pas lorsqu&#39;il est utilisé dans une étape de flux Envoyer un courrier électronique.
+>Ce jeton ne fonctionne que comme prévu lors de l’envoi du courrier électronique contenant le message avec l’étape de flux [Envoyer l’alerte](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Il ne fonctionnera pas lorsqu&#39;il est utilisé dans une étape de flux Envoyer un courrier électronique.
 
 Exemple d&#39;alerte :   ![](assets/image2014-9-25-15-3a17-3a58.png)
 
@@ -25,7 +25,7 @@ Exemple d&#39;alerte :   ![](assets/image2014-9-25-15-3a17-3a58.png)
 >
 >Allez ! Les URL des alertes comportent des dates d’expiration. Assurez-vous donc qu’elles disposent d’une cadence prenant en charge ces types de messages. Les dates d’expiration sont [configurées par un administrateur](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
-Les informations suivantes sont incluses dans le `{{SP_Send_Alert_Info}}`:
+Les informations suivantes font partie du `{{SP_Send_Alert_Info}}` :
 
 * Prénom et nom en tant que lien vers le détail de la personne dans Marketo
 * Un lien vers la personne dans votre CRM
@@ -38,7 +38,7 @@ Les informations suivantes sont incluses dans le `{{SP_Send_Alert_Info}}`:
 
 ## Ajouter le jeton SP_Send_Alert_Info à un courrier électronique {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. Sélectionnez le courrier électronique et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez le courriel et cliquez sur **Modifier le brouillon**.
 
    ![](assets/one-3.png)
 
@@ -46,11 +46,11 @@ Les informations suivantes sont incluses dans le `{{SP_Send_Alert_Info}}`:
 
    ![](assets/two-3.png)
 
-1. Placez le curseur à l’endroit où vous souhaitez placer le jeton, puis cliquez sur le bouton **Insérer un jeton** .
+1. Placez le curseur à l’endroit où vous souhaitez placer le jeton, puis cliquez sur le bouton **Insérer un jeton**.
 
    ![](assets/three-3.png)
 
-1. Recherchez et sélectionnez le **`{{SP_Send_Alert_Info}}`** jeton, puis cliquez sur **Insérer**.
+1. Recherchez et sélectionnez le jeton **`{{SP_Send_Alert_Info}}`**, puis cliquez sur **Insérer**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
