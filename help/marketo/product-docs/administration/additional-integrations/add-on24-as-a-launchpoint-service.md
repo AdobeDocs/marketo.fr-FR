@@ -27,15 +27,15 @@ Marketo gère votre inscription et votre participation aux webinaires ON24.
 
    ![](assets/image2015-4-23-10-3a15-3a50.png)
 
-1. Sélectionnez **Nouveau** , puis **Nouveau** **service**.
+1. Sélectionnez **New**, puis **New** **Service**.
 
    ![](assets/on24-new-service.png)
 
-1. Saisissez un **nom** **d’affichage**. Sous **Service**, sélectionnez **ON24**.
+1. Saisissez un **Nom** **Nom**. Sous **Service**, sélectionnez **ON24**.
 
    ![](assets/new-service-on24.png)
 
-1. Terminez le processus en saisissant votre **clé de** client **et votre** ID de **client** **dans Settings puis cliquez sur Créer.**********
+1. Terminez le processus en saisissant **Client** **Clé** et **Client** **ID** dans **Paramètres**, puis cliquez sur **Créer**.
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
