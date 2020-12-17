@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Saviez-vous que Marketo synchronise votre base de données complète avec Salesforce ? Il se synchronise, puis attend 5 minutes puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la manière dont Marketo traite spécifiquement les contacts Salesforce.
 
-## Direction de la synchronisation {#sync-direction}
+## Direction de synchronisation {#sync-direction}
 
 La synchronisation des contacts est bidirectionnelle. Si vous apportez des modifications à un contact dans Salesforce ou Marketo, vos mises à jour seront répercutées dans les deux systèmes.
 
@@ -33,7 +33,7 @@ Oui, utilisez l’action de flux ** [Convertir une personne](../../../../product
 
 ## Puis-je forcer manuellement la synchronisation d&#39;un contact ? {#can-i-manually-force-a-sync-of-a-contact}
 
-Oui, utilisez l&#39;action ** [Sync Personne to SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) **flow et elle sera synchronisée en temps réel.
+Oui, utilisez l’action ** [Synchroniser la personne avec SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) **flux et elle sera synchronisée en temps réel.
 
 ## Est-ce que chaque champ standard est synchronisé avec Marketo ? {#does-every-single-standard-field-sync-to-marketo}
 
