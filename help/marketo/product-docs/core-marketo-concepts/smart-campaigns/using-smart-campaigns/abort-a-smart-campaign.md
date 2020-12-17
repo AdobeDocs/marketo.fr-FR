@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Abandonner une Campaign intelligente {#abort-a-smart-campaign}
+# Abandonner une Campaign dynamique {#abort-a-smart-campaign}
 
 >[!CAUTION]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Parfois, vous lancez une campagne intelligente et vous réalisez immédiatement que c&#39;était une erreur. Voici comment tirer le frein d&#39;urgence et arrêter la campagne intelligente à mi-parcours.
 
-1. Sous Activités **** marketing, sélectionnez votre campagne dynamique et accédez à l’onglet **Planification** .
+1. Sous **Activités marketing**, sélectionnez votre campagne intelligente et accédez à l&#39;onglet **Planification**.
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
@@ -42,10 +42,10 @@ Parfois, vous lancez une campagne intelligente et vous réalisez immédiatement 
 
    >[!NOTE]
    >
-   >Consultez l’onglet **Résultats** de la campagne intelligente pour savoir quelles actions ont eu lieu avant l’abandon. Vous trouverez également une [notification](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) contenant des informations supplémentaires.
+   >Consultez l&#39;onglet **Résultats** de la campagne intelligente pour connaître les actions qui ont eu lieu avant l&#39;abandon. Vous trouverez également une [notification](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) avec des détails supplémentaires.
 
    >[!TIP]
    >
-   >Voulez-vous supprimer une personne du flux dans une campagne de déclenchement ? Extraire [Supprimer du flux](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >Voulez-vous supprimer une personne du flux dans une campagne de déclenchement ? Consultez [Supprimer du flux](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
 Vérifiez toujours votre travail en doublon, mais ce frein d&#39;urgence peut s&#39;avérer utile à l&#39;avenir.
