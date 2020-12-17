@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Calendrier de publication {#release-schedule}
 
-**Version**: Marketo utilise un calendrier de publication principal trimestriel. Une fois disponibles, chacune des notes de mise à jour sera liée dans le tableau ci-dessous.
+**Version** : Marketo utilise un calendrier de publication principal trimestriel. Une fois disponibles, chacune des notes de mise à jour sera liée dans le tableau ci-dessous.
 
 **Date** de publication : Le déploiement commence généralement le mercredi de la semaine de publication, la majeure partie de la mise à niveau étant effectuée le vendredi soir. Un courrier électronique est envoyé avec des dates spécifiques et des détails de publication. La date indiquée correspond à la mise à jour du vendredi.
 
-**Progrès**:
+**Progrès** :
 
 * Dans le calendrier - Nous prévoyons de publier les fonctionnalités et améliorations trimestrielles à la date indiquée.
 * En cours - Nous développons et documentons le contenu pour la publication à la date indiquée.
