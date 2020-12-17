@@ -23,9 +23,9 @@ ht-degree: 0%
 
 Filtrez les résultats de campagne intelligents pour afficher les activités spécifiques qui vous importent.
 
-## Filtrage par Filtres enregistrés {#filter-by-saved-filters}
+## Filtrer par Filtres enregistrés {#filter-by-saved-filters}
 
-1. Dans l&#39;onglet **Résultats** de campagne dynamique, cliquez sur **Filtre** et sélectionnez un filtre enregistré.
+1. Dans l&#39;onglet **Résultats** de votre campagne intelligente, cliquez sur **Filtre** et sélectionnez un filtre enregistré.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -35,7 +35,7 @@ Filtrez les résultats de campagne intelligents pour afficher les activités sp�
 
 ## Créer un filtre personnalisé {#create-a-custom-filter}
 
-1. Cliquez sur **Filtre** , puis **Personnalisé**.
+1. Cliquez sur **Filtre**, puis sur **Personnalisé**.
 
    ![](assets/filterscustom-hands.png)
 
