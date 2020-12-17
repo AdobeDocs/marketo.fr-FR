@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Vous pouvez conserver des onglets sur le débit actuel et le retard du processus de synchronisation dans les onglets État de synchronisation et Erreurs de synchronisation.
 
-## Onglet État de la synchronisation {#sync-status-tab}
+## Onglet État de synchronisation {#sync-status-tab}
 
 1. Cliquez sur **Admin** et **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Cliquez sur l’onglet État **de la** synchronisation.
+1. Cliquez sur l&#39;onglet **État de synchronisation**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
