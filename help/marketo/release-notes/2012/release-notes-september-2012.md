@@ -33,7 +33,7 @@ Obtenez des informations et réduisez les frictions en permettant aux pistes de 
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Publication de Landings page sur Facebook {#publish-landing-pages-to-facebook}
+## Publier des Landings page sur Facebook {#publish-landing-pages-to-facebook}
 
 Étendez la portée de vos landings page en les publiant directement dans Facebook, avec des applications sociales, des formulaires et la fonctionnalité complète des landings page de Marketo.
 
