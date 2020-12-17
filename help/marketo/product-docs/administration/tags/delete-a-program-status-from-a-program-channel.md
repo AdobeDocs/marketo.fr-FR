@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les états de programme sont les points de contrôle traversant un chemin de programme (canal). Si vous faites un état par erreur ou si vous n&#39;en avez plus besoin, n&#39;hésitez pas à le supprimer.
 
-1. Accédez à la section **Admin** .
+1. Accédez à la section **Admin**.
 
    ![](assets/admin.png)
 
@@ -23,11 +23,11 @@ Les états de programme sont les points de contrôle traversant un chemin de pro
 
    ![](assets/image2014-9-24-15-3a51-3a24.png)
 
-1. Sélectionnez le canal dans lequel vous souhaitez supprimer un état, puis sous Actions **de** balise, cliquez sur **Modifier**.
+1. Sélectionnez le canal dans lequel vous souhaitez supprimer un état, puis sous **Actions de balise**, cliquez sur **Modifier**.
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. Cliquez sur ![:](assets/image2014-9-24-15-3a52-3a39.png) pour supprimer l&#39;état, puis cliquez sur **ENREGISTRER**.
+1. Cliquez sur ![—](assets/image2014-9-24-15-3a52-3a39.png) pour supprimer l&#39;état, puis sur **SAVE**.
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ Les états de programme sont les points de contrôle traversant un chemin de pro
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-Bien joué ! Vous pouvez également [supprimer un canal](delete-a-program-channel.md) entier si nécessaire.
+Bien joué ! Vous pouvez également [supprimer un canal entier](delete-a-program-channel.md) si nécessaire.
