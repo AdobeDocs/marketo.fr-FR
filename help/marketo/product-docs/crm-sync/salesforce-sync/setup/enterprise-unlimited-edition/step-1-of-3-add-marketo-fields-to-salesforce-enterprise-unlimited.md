@@ -112,12 +112,12 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
 1. Spécifiez les paramètres d’accès et cliquez sur Suivant :
 
-   * Définir tous les rôles sur **Visible **et **Lecture seule**
+   * Définissez tous les rôles sur **Visible **et **Lecture seule**
 
    * Désactivez la case à cocher **Lecture seule** pour le profil de votre utilisateur de synchronisation :
 
-      * Si vous avez un utilisateur avec le profil d&#39;un administrateur ** système comme utilisateur de synchronisation, décochez la case **Lecture seule** pour le profil Administrateur système (comme illustré ci-dessous).
-      * Si vous avez créé un profil ** personnalisé pour l’utilisateur synchronisé, désactivez la case à cocher **Lecture seule** pour ce profil personnalisé.
+      * Si vous avez un utilisateur avec le profil d&#39;un *administrateur système* en tant qu&#39;utilisateur synchronisé, désélectionnez la case **Lecture seule** pour le profil Administrateur système (comme illustré ci-dessous).
+      * Si vous avez créé un *profil personnalisé* pour l’utilisateur de synchronisation, désactivez la case **Lecture seule** pour ce profil personnalisé.
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -236,7 +236,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
  </tbody> 
 </table>
 
-## Faire correspondre les champs personnalisés pour les conversions {#map-custom-fields-for-conversions}
+## Mettre en correspondance les champs personnalisés pour les conversions {#map-custom-fields-for-conversions}
 
 Un champ personnalisé sur l&#39;objet prospect dans Salesforce doit être mappé à un champ de contact sur l&#39;objet contact afin que les données soient reportées lors d&#39;une conversion.
 
@@ -248,7 +248,7 @@ Un champ personnalisé sur l&#39;objet prospect dans Salesforce doit être mapp�
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Accédez à la section Champs personnalisés de piste et relations et cliquez sur **Mapper les champs** de piste.
+1. Accédez à la section Champs personnalisés de piste et relations et cliquez sur **Mettre en correspondance les champs de piste**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -269,7 +269,7 @@ Un champ personnalisé sur l&#39;objet prospect dans Salesforce doit être mapp�
 >
 >**Plongée profonde**
 >
->Voici un lien vers une [vidéo de l&#39;ensemble de la procédure](https://nation.marketo.com/videos/1475) qui devrait être limpide !
+>Voici un lien vers une [vidéo de l&#39;ensemble de la procédure](https://nation.marketo.com/videos/1475) qui devrait le rendre clair comme du cristal !
 
 >[!NOTE]
 >
