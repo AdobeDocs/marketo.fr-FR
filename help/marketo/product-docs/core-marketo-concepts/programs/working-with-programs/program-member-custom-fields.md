@@ -17,15 +17,15 @@ Les champs personnalisés des membres de programme vous permettent de collecter 
 
 ## Créer un champ personnalisé de membre de Programme {#create-a-program-member-custom-field}
 
-1. Dans Marketing, cliquez sur **Admin**.
+1. Dans Marketo, cliquez sur **Admin**.
 
    ![](assets/one.png)
 
-1. Cliquez sur Gestion des **champs**.
+1. Cliquez sur **Gestion des champs**.
 
    ![](assets/two.png)
 
-1. Cliquez sur **Nouveau champ** personnalisé.
+1. Cliquez sur **Nouveau champ personnalisé**.
 
    ![](assets/three.png)
 
@@ -43,7 +43,7 @@ Les champs personnalisés des membres de programme vous permettent de collecter 
 
    >[!NOTE]
    >
-   >Les types pris en charge pour les champs personnalisés Membres du Programme sont les suivants : booléen, date, datetime, float, integer, string, URL. [En savoir plus sur les types](http://docs.marketo.com/x/Wwgt)de champ.
+   >Les types pris en charge pour les champs personnalisés Membres du Programme sont les suivants : booléen, date, datetime, float, integer, string, URL. [En savoir plus sur les types](http://docs.marketo.com/x/Wwgt) de champ.
 
 ## Descriptions des objets {#object-descriptions}
 
@@ -56,11 +56,11 @@ Les champs personnalisés des membres de programme vous permettent de collecter 
 
 ## Déclencheurs et Filtres {#triggers-and-filters}
 
-Vous pouvez exploiter ces données spécifiques à un programme dans des listes dynamiques au moyen de [](http://docs.marketo.com/x/PoAR)déclencheurs et/ou de [filtres](http://docs.marketo.com/x/2YAI).
+Vous pouvez exploiter ces données spécifiques à un programme dans les listes dynamiques par l&#39;intermédiaire de [triggers](http://docs.marketo.com/x/PoAR)et/ou [filtres](http://docs.marketo.com/x/2YAI).
 
 ![](assets/six.png)
 
-## Les choses à savoir {#things-to-know}
+## Informations à connaître {#things-to-know}
 
 * Les champs personnalisés Membres du programme sont disponibles uniquement dans les ressources locales. Ils ne sont pas pris en charge dans Design Studio car il n’existe aucun moyen de le lier à un programme spécifique.
 * Vous ne pouvez pas cloner ou déplacer un formulaire (ou un landing page avec un formulaire) qui contient des champs personnalisés Membre de Programme vers Design Studio.
@@ -68,7 +68,7 @@ Vous pouvez exploiter ces données spécifiques à un programme dans des listes 
 * L&#39;objet Membre du Programme peut comporter jusqu&#39;à 20 champs personnalisés. Ces champs sont accessibles à tout programme.
 * Lorsque vous supprimez un membre d&#39;un programme, si le champ personnalisé Membre du Programme contient des données, celles-ci sont supprimées de ce champ.
 * Pour vue des données, cliquez sur l’onglet Membres du programme et créez une vue personnalisée qui inclut ledit ou ces champs.
-* L’importation et l’exportation via [](http://docs.marketo.com/x/egAk)liste et [](http://developers.marketo.com/)API sont prises en charge.
+* L’importation et l’exportation via [liste](http://docs.marketo.com/x/egAk)et [API](http://developers.marketo.com/)sont prises en charge.
 * Lorsque vous fusionnez deux personnes, les données de champ personnalisé Membre du Programme de l’expérience gagnante sont utilisées. Mais si le gagnant n’en a pas, la valeur du perdant sera utilisée.
 
 >[!MORELIKETHIS]
