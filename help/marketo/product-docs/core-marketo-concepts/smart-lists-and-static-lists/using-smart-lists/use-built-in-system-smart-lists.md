@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utiliser des Listes dynamiques intégrées/système {#use-built-in-system-smart-lists}
+# Utiliser les Listes dynamiques intégrées/système {#use-built-in-system-smart-lists}
 
 Marketo possède des listes intelligentes très utiles. Regardons-les !
 
@@ -27,7 +27,7 @@ Marketo possède des listes intelligentes très utiles. Regardons-les !
 
    ![](assets/two.png)
 
-1. Pour voir un exemple : Sélectionnez **Toutes les personnes**, puis cliquez sur l’onglet **Personnes** .
+1. Pour voir un exemple : Sélectionnez **Toutes les personnes**, puis cliquez sur l&#39;onglet **Personnes**.
 
    ![](assets/three.png)
 
