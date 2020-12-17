@@ -23,9 +23,9 @@ Avant de pouvoir synchroniser Microsoft Dynamics 2015 On-Premises ou 2016 (Dynam
 
 >[!PREREQUISITES]
 >
->Si vous utilisez Microsoft Dynamics On-Premise, vous devez avoir un déploiement [](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) Internet Facing (IFD) avec les services [de fédération](https://msdn.microsoft.com/en-us/library/bb897402.aspx) Principale Directory 2.0+ (ADFS) configurés. Remarque : Le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
+>Si vous utilisez Microsoft Dynamics On-Premise, [Déploiement Internet Facing](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) avec [les services de fédération Principale Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) doivent être configurés. Remarque : Le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
 >
->[Téléchargez la solution](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) de gestion des pistes marketing avant de début.
+>[Téléchargez la ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) solution de gestion des pistes marketing avant de début.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 2015 On-Premises ou 2016 (Dynam
 >
 >Vous avez besoin de droits d’administrateur CRM pour effectuer cette synchronisation.
 
-1. Connectez-vous à **Dynamics.** Cliquez sur le menu déroulant **Microsoft Dynamics CRM** et sélectionnez **Paramètres**.
+1. Connectez-vous à **Dynamics.** Cliquez sur le menu déroulant  **Microsoft Dynamics** CRM **et sélectionnez** Paramètres.
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -49,7 +49,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 2015 On-Premises ou 2016 (Dynam
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. Vue les Informations sur la solution et cliquez sur Détails **du package de la solution** Vue.
+1. Vue les informations de solution et cliquez sur **détails du package de la solution de Vue**.
 
    ![](assets/image2015-11-18-11-12-8.png)
 
@@ -57,7 +57,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 2015 On-Premises ou 2016 (Dynam
 
    ![](assets/step6.png)
 
-1. De nouveau sur la page Informations sur la solution, cliquez sur **Suivant**.
+1. De retour sur la page Informations sur la solution, cliquez sur **Suivant**.
 
    ![](assets/image2015-3-19-9-21-50.png)
 
@@ -81,7 +81,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 2015 On-Premises ou 2016 (Dynam
 
    ![](assets/image2015-3-13-9-54-39.png)
 
-1. La gestion des pistes marketing s’affiche désormais sur la page **Toutes les solutions** .
+1. La gestion des pistes marketing s’affiche désormais sur la page **Toutes les solutions**.
 
    ![](assets/image2015-3-19-8-40-38.png)
 
