@@ -13,24 +13,24 @@ ht-degree: 0%
 
 # Notes de mise à jour : Avril 2012 {#release-notes-april}
 
-## Filtres et déclencheurs de segmentation {#segmentation-filters-and-triggers}
+## Filtres de segmentation et déclencheurs {#segmentation-filters-and-triggers}
 
 >[!NOTE]
 >
 >**Plongée profonde**
 >
->Pour les autres versions, consultez la section plongée approfondie des Notes [de](http://docs.marketo.com/display/docs/release+notes) mise à jour.
+>Pour les autres versions, consultez les [Notes de mise à jour](http://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
 
 Cibles-tu le même groupe de pistes de manière cohérente ? Si tel est le cas, utilisez la segmentation dans vos listes intelligentes pour le ciblage des pistes. Avec la segmentation, la base de données de pistes entière est toujours segmentée et peut être réutilisée sur vos programmes pour assurer la cohérence. Les résultats de la segmentation sont extraits rapidement car ils ne nécessitent pas l’exécution de la liste dynamique au moment de la demande.
 
 ![](assets/image2014-9-23-10-3a3-3a57.png)
 
-## Insertion de valeurs externes dans le contenu du courrier électronique et autres étapes de flux, par le biais de fonctionnalités d’API étendues {#insert-external-values-into-email-content-and-other-flow-steps-through-expanded-api-capabilities}
+## Insérez des valeurs externes dans le contenu du courrier électronique et d’autres étapes de flux, par le biais de fonctionnalités d’API étendues {#insert-external-values-into-email-content-and-other-flow-steps-through-expanded-api-capabilities}
 
 * L’API Request Campaign vous permet désormais d’envoyer des valeurs pour My Tokens pour cette exécution particulière de la campagne. Cette API est particulièrement utile pour renseigner le contenu des courriers électroniques via l’API.
 * Les nouvelles API de téléchargement vers la Liste et de planification de Campaign prennent en charge les listes de pistes et de campagnes par lots ci-dessus.
 
-## Courriels de confirmation plus faciles pour GoToWebinar et WebEx (Adobe Connect et ON24 bientôt disponibles !) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
+## Courriels de confirmation plus faciles pour GoToWebinar et WebEx (Adobe Connect et ON24 bientôt disponibles) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
 
 Nous avons simplifié l&#39;URL de confirmation en créant un jeton membre qui affiche l&#39;URL unique de confirmation d&#39;inscription pour chaque piste. Vous n’aurez plus à créer cette URL à l’aide de jetons différents. Actuellement disponible pour les clients GoToWebinar et WebEx, il sera disponible pour Adobe Connect et ON24 dans notre prochaine version.
 
@@ -46,7 +46,7 @@ Remarque : Actuellement, cette fonctionnalité n’est pas prise en charge dans 
 
 ![](assets/image2014-9-23-10-3a4-3a46.png)
 
-## Déplacer du texte dans un courrier électronique {#move-text-in-an-email}
+## Déplacer du texte dans un courriel {#move-text-in-an-email}
 
 Vous pouvez réorganiser les blocs de texte dans un courrier électronique. Dans l’éditeur de texte, sélectionnez un bloc de texte ; lorsque vous cliquez sur l&#39;icône Modifier, vous voyez l&#39;option permettant de déplacer le bloc vers le haut ou vers le bas.
 
