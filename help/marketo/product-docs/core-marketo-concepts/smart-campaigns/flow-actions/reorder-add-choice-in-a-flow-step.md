@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Réorganiser le &quot;choix d&#39;Ajoute&quot; en une étape de flux {#reorder-add-choice-in-a-flow-step}
+# Réorganiser le &quot;choix d&#39;Ajoute&quot; dans une étape de flux {#reorder-add-choice-in-a-flow-step}
 
 Puisque seul le premier choix correspondant s&#39;applique à une personne, l&#39;ordre compte. Si vous souhaitez modifier l’ordre des conditions définies dans une étape de flux, voici comment procéder.
 
@@ -19,7 +19,7 @@ Puisque seul le premier choix correspondant s&#39;applique à une personne, l&#3
 
    ![](assets/one.png)
 
-1. Déplaçons le choix 3 au-dessus du choix 2. Cliquez sur **Choix 3** , puis sur **Déplacer vers le haut**.
+1. Déplaçons le choix 3 au-dessus du choix 2. Cliquez sur **Choix 3**, puis sur **Monter**.
 
    >[!NOTE]
    >
