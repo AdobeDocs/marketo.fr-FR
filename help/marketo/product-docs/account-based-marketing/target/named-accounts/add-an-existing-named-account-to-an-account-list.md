@@ -17,17 +17,17 @@ Il est simple d’Ajouter un compte nommé à une liste de compte.
 
 >[!NOTE]
 >
->Ceci s’applique uniquement aux Listes de compte, **non** aux Listes de compte dynamiques.
+>Ceci s’applique uniquement aux Listes de compte **et non** aux Listes de compte dynamiques.
 
 1. Sélectionnez la ligne du compte nommé auquel vous souhaitez ajouter des éléments.
 
    ![](assets/four-1.png)
 
-1. Cliquez sur la liste déroulante Actions **du compte** nommé et sélectionnez **Ajouter à la Liste** du compte.
+1. Cliquez sur la liste déroulante **Actions du compte nommé** et sélectionnez **Ajouter à la Liste du compte**.
 
    ![](assets/five-1.png)
 
-1. Cliquez sur la liste déroulante Liste **** de compte, sélectionnez la liste de compte de votre choix, puis cliquez sur **Ajouter**.
+1. Cliquez sur la liste déroulante **Liste de compte**, sélectionnez la liste de compte de votre choix, puis cliquez sur **Ajouter**.
 
    ![](assets/six-1.png)
 
