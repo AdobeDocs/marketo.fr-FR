@@ -25,7 +25,7 @@ Voici comment modifier les affectations de partition/espace de travail de la per
 
 >[!CAUTION]
 >
->Les espaces de travail et les partitions de personne peuvent être complexes. Veuillez contacter le support [](http://support.marketo.com/) marketing pour obtenir de l’aide sur leur configuration.
+>Les espaces de travail et les partitions de personne peuvent être complexes. Pour obtenir de l&#39;aide sur leur configuration, veuillez contacter le [support marketing](http://support.marketo.com/).
 
 1. Sous Admin, cliquez sur Espaces de travail et partitions.
 
@@ -43,7 +43,7 @@ Voici comment modifier les affectations de partition/espace de travail de la per
 
    ![](assets/three-3.png)
 
-   Les Principal partitions de personnes sont les partitions par défaut où tous les peuples seront entrés. Utilisez les étapes [de](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) flux ou les règles [d’](assigning-person-partitions-with-assignment-rules.md) affectation pour déplacer les personnes.
+   Les Principal partitions de personnes sont les partitions par défaut où tous les peuples seront entrés. Utilisez [les étapes de flux](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou [les règles d&#39;affectation](assigning-person-partitions-with-assignment-rules.md) pour déplacer les personnes.
 
 1. Cliquez sur **Enregistrer**.
 
@@ -59,5 +59,5 @@ Voici comment modifier les affectations de partition/espace de travail de la per
 >
 >**Plongée profonde**
 >
->[Présentation des espaces de travail et des partitions](understanding-workspaces-and-person-partitions.md)personnelles.
+>[Présentation des espaces de travail et des partitions](understanding-workspaces-and-person-partitions.md) personnelles.
 
