@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SEO - Résultats du filtre de mots-clés {#seo-filter-keyword-results}
+# SEO - Filtrer les résultats des mots-clés {#seo-filter-keyword-results}
 
-Vous pourriez avoir beaucoup de [mots-clés](seo-understanding-keywords.md). Vous pouvez les filtrer de différentes manières :
+Vous pouvez avoir beaucoup de [mots-clés](seo-understanding-keywords.md). Vous pouvez les filtrer de différentes manières :
 
-## Filtrage par liste {#filter-by-list}
+## Filtrer par liste {#filter-by-list}
 
-1. Accédez à la section **Mots-clés** .
+1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -27,7 +27,7 @@ Vous pourriez avoir beaucoup de [mots-clés](seo-understanding-keywords.md). Vou
 
    >[!NOTE]
    >
-   >Si vous ne voyez aucune liste, [vous](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) apprendrez à créer une liste [](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)de mot-clé.
+   >Si vous ne voyez aucune liste, [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [apprenez comment créer une liste de mots-clés](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 Doux ! Vous ne verrez plus que les mots-clés de cette liste.
 
@@ -37,17 +37,17 @@ Doux ! Vous ne verrez plus que les mots-clés de cette liste.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   Les carrés orange définissent vos limites supérieure (gauche) et inférieure (droite). Le filtre fonctionne selon le classement [](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)SERP du mot-clé.
+   Les carrés orange définissent vos limites supérieure (gauche) et inférieure (droite). Le filtre fonctionne sur le [classement SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) du mot-clé.
 
 1. Faites glisser les carrés oranges vers la gauche/la droite pour filtrer les résultats.
 
    ![](assets/image2014-9-18-12-3a0-3a15.png)
 
-## Filtrage par recherche {#filter-by-search}
+## Filtrer par recherche {#filter-by-search}
 
 Vous pouvez également trouver les mots-clés que vous recherchez en utilisant le champ de recherche dans le coin supérieur droit.
 
-1. Accédez à la section **Mots-clés** .
+1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
