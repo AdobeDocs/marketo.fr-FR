@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Exécutez une campagne dynamique sur une personne à la fois en fonction des événements actifs en ajoutant des déclencheurs.
 
-1. Choisissez une campagne intelligente, puis cliquez sur Liste **** intelligente.
+1. Choisissez une campagne intelligente, puis cliquez sur **[!UICONTROL Liste intelligente]**.
 
    ![Image un](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ Exécutez une campagne dynamique sur une personne à la fois en fonction des év
    >
    >Une campagne intelligente avec des déclencheurs s’exécute en mode Déclencheur. Il s’exécute sur une personne à la fois en fonction des événements déclenchés et des filtres supplémentaires.
 
-1. Cliquez sur la liste déroulante et choisissez un opérateur (par exemple, **[!UICONTROL est]**, **[!UICONTROL n’est pas]**, etc.). pour le déclencheur que vous avez choisi.
+1. Cliquez sur la liste déroulante et choisissez un opérateur (ex. **[!UICONTROL is]**, **[!UICONTROL is not]**, etc.) pour le déclencheur que vous avez choisi.
 
    ![Image trois](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
@@ -48,4 +48,4 @@ Exécutez une campagne dynamique sur une personne à la fois en fonction des év
 >
 >Avec plusieurs déclencheurs, une personne traverse le flux si l’UN d’eux est activé.
 >
->Pour exécuter la campagne sur un ensemble de personnes en même temps, apprenez à [définir une Liste intelligente pour une Campaign intelligente | Lot](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
+>Pour exécuter la campagne sur un ensemble de personnes en même temps, apprenez comment [définir une Liste intelligente pour une Campaign intelligente | Lot](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
