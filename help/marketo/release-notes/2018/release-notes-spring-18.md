@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Notes de mise à jour : Printemps 18 {#release-notes-spring}
+# Notes de mise à jour : Printemps &#39;18 {#release-notes-spring}
 
 Les fonctionnalités suivantes sont incluses dans la version du printemps 18. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
 
 Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction. Remarque : Certaines des fonctionnalités incluses dans cette version n’ont pas d’articles associés. Si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
 
-## Mises à jour de Marketing Cloud Sales Engage, Launch et ToutApp {#marketo-sales-engage-launch-and-toutapp-updates}
+## Mises à jour de Marketing Sales Interagir, Lancer et ToutApp {#marketo-sales-engage-launch-and-toutapp-updates}
 
 * [Engagement commercial](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [Lancement](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -45,7 +45,7 @@ Optez pour la version bêta ouverte du Marketo Sky pour accéder à plus de 100 
 * Guides intégrés et aide contextuelle
 * Étiquettes de ressources et vues de calendrier plus flexibles
 
-## Informations sur les performances {#performance-insights}
+## Performances Insights {#performance-insights}
 
 [Informations sur les performances](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
@@ -69,11 +69,11 @@ Partagez facilement vos graphiques rapides avec d’autres utilisateurs d’Anal
 
 Une navigation optimisée et des workflows améliorés vous donnent une visibilité sur les critères de réussite des Programmes et l’accès aux détails des Programmes.
 
-## <sup>ContentAI</sup>  {#contentai}
+## Contenu<sup>AI</sup> {#contentai}
 
 [Définition des objectifs](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Définissez l’objectif de l’algorithme d’optimisation de<sup>ContentAI</sup> pour générer davantage de vues, de clics ou de conversions.
+Définissez l’objectif de l’algorithme d’optimisation Content<sup>AI</sup> pour générer davantage de vues, de clics ou de conversions.
 
 ## Intégration et API {#integration-and-apis}
 
@@ -85,7 +85,7 @@ Envoyez des notifications système et des moments intéressants au lieu de trava
 
 Gérez plus facilement les listes entre Marketo et d’autres systèmes grâce aux nouvelles API bidirectionnelles permettant de créer, lire, mettre à jour et supprimer des listes statiques à distance sans avoir à effectuer d’action dans l’interface utilisateur de Marketo.
 
-## Améliorations de la confidentialité {#privacy-enhancements}
+## Améliorations apportées à la confidentialité {#privacy-enhancements}
 
 [Confidentialité du tracking web](http://developers.marketo.com/javascript-api/lead-tracking/)
 
