@@ -29,9 +29,9 @@ Vous pouvez facilement tester plusieurs lignes d’objet. Lorsque le test est te
 
    >[!NOTE]
    >
-   >Dans le cadre d&#39;un test de sujet, la première ligne de sujet entrée est désignée comme **Champion**. Les sujets suivants sont appelés **Challengers**.
+   >Dans un test de sujet, la première ligne de sujet entrée est désignée comme **Champion**. Les lignes suivantes sont appelées **Challengers**.
 
-1. Entrez la ou les lignes d&#39;objet pour les **Challengers**.
+1. Entrez le(s) sujet(s) pour les **Challengers**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -50,7 +50,7 @@ Vous pouvez facilement tester plusieurs lignes d’objet. Lorsque le test est te
    >
    >Dans la distribution illustrée ci-dessus, 10 % de l&#39;audience totale spécifiée dans la liste intelligente reçoit l&#39;un des courriels avec l&#39;objet challenger et 90 % reçoivent des courriels avec l&#39;objet champion. Les courriels comportant plusieurs objets challenger partagent les 10 % de parts de trafic. Lorsque le test est terminé, vous pouvez déclarer manuellement un gagnant. A partir de ce moment, tous les futurs utilisateurs recevront le contenu le plus performant.
 
-   Pour obtenir une confiance statistique, assurez-vous que le pourcentage choisi inclut suffisamment de personnes, de sorte que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants.  [Plus d&#39;informations que jamais sur la fiabilité](http://en.wikipedia.org/wiki/Confidence_interval)statistique.
+   Pour obtenir une confiance statistique, assurez-vous que le pourcentage choisi inclut suffisamment de personnes, de sorte que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants.  [Plus d&#39;informations que jamais sur la fiabilité](http://en.wikipedia.org/wiki/Confidence_interval) statistique.
 
 1. Cliquez sur **Suivant**.
 
