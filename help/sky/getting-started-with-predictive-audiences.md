@@ -29,8 +29,8 @@ Les performances des modèles AI/ML reposent sur les données de votre abonnemen
 
 Les Audiences prédictives sont automatiquement incluses et activées pour les instances utilisant des offres groupées de tarification Prime ou Ultimate. Pour en savoir plus sur l’accès à cette fonctionnalité, contactez votre responsable de succès client.
 
-1. Une fois la fonction ajoutée à votre instance, accédez à la page Audiences **** prédictives dans la zone **[!UICONTROL Admin]** de [!DNL Marketo Classic].
+1. Une fois la fonction ajoutée à votre instance, accédez à la page **[!UICONTROL Audiences prédictives]** dans la zone **[!UICONTROL Admin]** de [!DNL Marketo Classic].
 
-1. Cochez la case **[!UICONTROL Activer les Audiences]** prédictives pour activer la fonction. Notez que la configuration de tous les processus peut prendre jusqu’à 24 heures.
+1. Cochez **[!UICONTROL Activer les Audiences prédictives]** pour activer la fonction. Notez que la configuration de tous les processus peut prendre jusqu’à 24 heures.
 
    ![Image un](/help/sky/assets/predictive-audiences/getting-started-with-predictive-audiences/getting-started-with-predictive-audiences-1.png)
