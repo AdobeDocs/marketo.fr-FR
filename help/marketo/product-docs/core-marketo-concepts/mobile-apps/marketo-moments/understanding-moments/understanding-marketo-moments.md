@@ -19,7 +19,7 @@ Le pouvoir de Marketo est maintenant entre vos mains, littéralement ! Prévisua
 >
 >**Disponibilité**
 >
->L’autorisation d’accès aux applications mobiles est requise. Contactez votre administrateur Marketing Cloud pour [mettre à jour votre rôle](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>L’autorisation d’accès aux applications mobiles est requise. Contactez votre administrateur marketing pour [mettre à jour votre rôle](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Présentation des moments {#introducing-moments}
 
@@ -49,19 +49,19 @@ Bon, maintenant que nous avons tout perdu, jetons un oeil sur les Moments du Mar
 
 Marketo Moments vous donne trois cartes différentes pour suivre la progression de votre courrier électronique :
 
-**On-Deck** - Ce courriel est sur le point de sortir. C&#39;est votre dernière chance de le prévisualisation, d&#39;envoyer un échantillon ou même de l&#39;annuler si vous le devez.
+**On-Deck**  - Ce courriel est sur le point de sortir. C&#39;est votre dernière chance de le prévisualisation, d&#39;envoyer un échantillon ou même de l&#39;annuler si vous le devez.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**battement** de coeur - Hey - ce courriel est livré maintenant ! Et voici aussi les statistiques. Allez-y et partagez-le.
+**battement**  de coeur - Hey, ce courriel est livré maintenant ! Et voici aussi les statistiques. Allez-y et partagez-le.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Résultats** - Voici comment s&#39;est déroulé le courriel. Une fois l’exécution du courrier électronique terminée, la carte Résultats affiche le score d’engagement et d’autres statistiques.
+**Résultats**  - Voici comment s&#39;est déroulé le courriel. Une fois l’exécution du courrier électronique terminée, la carte Résultats affiche le score d’engagement et d’autres statistiques.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
-## Flux de moments {#moments-stream}
+## Moments Stream {#moments-stream}
 
 Lorsque vous ouvrez l’application pour la première fois ou appuyez sur **Moments** dans le menu, les cartes appropriées s’affichent en premier. Chacun contient des informations sur cette initiative marketing spécifique et ses performances globales.
 
@@ -105,11 +105,11 @@ La section Plus tard présente les activités à venir.
 
    >[!NOTE]
    >
-   >Selon le Livre [Guinness des Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger)du Monde, le plus grand hamburger du monde pesait 2 014 livres.
+   >Selon le [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger), le plus grand hamburger du monde pesait 2 014 lb.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Appuyez sur **Plus tard**.
+1. Appuyez sur **Ultérieurement**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -139,7 +139,7 @@ Les cartes d’instant Analytics vous montrent comment vos courriels et vos év�
 
 ![](assets/image2015-7-6-13-3a26-3a33.png)
 
-## Cartes de série Campaign intelligentes {#smart-campaign-run-cards}
+## Cartes d&#39;exécution Campaign Smart {#smart-campaign-run-cards}
 
 Les cartes de campagne dynamiques représentent une seule exécution d’une campagne. Une nouvelle carte s’affiche chaque fois que la campagne dynamique s’exécute. Appuyez sur pour afficher les filtres de liste intelligents utilisés, le flux de la campagne et chacun des courriers électroniques utilisés dans la campagne.
 
@@ -147,7 +147,7 @@ Les cartes de campagne dynamiques représentent une seule exécution d’une cam
 
 ## Confirmer ou annuler une action {#confirm-or-cancel-an-action}
 
-A chaque étape, vous pouvez confirmer ou annuler une action. Si vous changez d&#39;avis, appuyez sur **Jamais**.
+A chaque étape, vous pouvez confirmer ou annuler une action. Si vous changez d’avis, il vous suffit d’appuyer sur **Never Mind**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -164,7 +164,7 @@ Prêt à en apprendre davantage ?
 
 
 
-## Versions prises en charge  {#supported-versions}
+## Versions prises en charge {#supported-versions}
 
 Marketo Moments prend en charge les versions suivantes du système d’exploitation :
 
