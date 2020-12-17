@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Evitez d’envoyer du contenu Duplicata {#avoid-sending-duplicate-content}
+# Evitez d’envoyer le contenu du Duplicata {#avoid-sending-duplicate-content}
 
 Avez-vous déjà reçu deux fois le même courriel ? Agaçante, n&#39;est-ce pas ?
 
@@ -25,9 +25,9 @@ Une personne reçoit un courrier électronique envoyé par le moteur d’engagem
 |---|---|---|
 | Une campagne dans un programme distinct, autonome et par défaut | Non membre du programme par défaut | Oui |
 | Une campagne dans un programme distinct, autonome et par défaut | Membre du programme par défaut | Non |
-| Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans le **même** programme CEE | Membre du programme par défaut | Non |
-| Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans le **même** programme CEE | Non membre du programme par défaut | Oui |
-| Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans un programme CEE **différent** . | Membre du programme par défaut | Non |
-| Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans un programme CEE **différent** . | Non membre du programme par défaut | Oui |
+| Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans le programme CEE **same** | Membre du programme par défaut | Non |
+| Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans le programme CEE **same** | Non membre du programme par défaut | Oui |
+| Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans un programme CEE **différent** | Membre du programme par défaut | Non |
+| Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans un programme CEE **différent** | Non membre du programme par défaut | Oui |
 | Un programme CEE **différent** utilisant un flux dynamique | Un membre des deux programmes CEE | Non |
 
