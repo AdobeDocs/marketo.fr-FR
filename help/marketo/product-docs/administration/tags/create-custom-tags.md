@@ -19,7 +19,7 @@ Les balises vous aideront à organiser vos programmes tandis que les canaux vous
 >
 >**Plongée profonde**
 >
->Pour plus d&#39;informations, consultez [Présentation des balises](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) .
+>Pour plus d&#39;informations, consultez [Présentation des balises](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Les balises vous aideront à organiser vos programmes tandis que les canaux vous
 
 Pour créer un nouveau type de balise :
 
-1. Accédez à la section **Admin** .
+1. Accédez à la section **Admin**.
 
    ![](assets/image2015-4-23-14-3a37-3a48.png)
 
@@ -41,11 +41,11 @@ Pour créer un nouveau type de balise :
 
    ![](assets/image2015-4-23-14-3a42-3a45.png)
 
-1. Entrez un nom pour le type **de** balise.
+1. Entrez un nom pour le **Type de balise**.
 
    ![](assets/image2015-4-23-14-3a48-3a58.png)
 
-1. Saisissez la **valeur** souhaitée pour le type de balise. Cliquez sur **Ajouter un autre** pour entrer d’autres valeurs de balise.
+1. Entrez la **valeur** de votre choix pour le type de balise. Cliquez sur **Ajouter un autre** pour entrer des valeurs de balise supplémentaires.
 
    ![](assets/image2015-4-22-11-3a30-3a30.png)
 
@@ -55,7 +55,7 @@ Pour créer un nouveau type de balise :
 
    >[!NOTE]
    >
-   >Sélectionnez **Obligatoire pour que tous les programmes** ajoutent cette balise chaque fois qu’un nouveau programme est créé.
+   >Sélectionnez **Obligatoire pour tous les programmes** pour ajouter cette balise chaque fois qu’un nouveau programme est créé.
 
 1. Cliquez sur **Créer** pour enregistrer.
 
