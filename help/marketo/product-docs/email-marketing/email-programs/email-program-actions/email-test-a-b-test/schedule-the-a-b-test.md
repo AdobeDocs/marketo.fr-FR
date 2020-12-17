@@ -31,7 +31,7 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Sélectionnez l’heure d’ **envoi du test** .
+1. Sélectionnez l’**heure d’envoi du test**.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -39,7 +39,7 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
    >
    >Send Test and Send Winner doit être séparé d’au moins 4 heures. Cependant, pour les envois plus volumineux, vous pouvez attendre 24 heures pour avoir suffisamment de temps pour obtenir de bons résultats.
 
-1. Faites la même chose pour **Envoyer le gagnant**. Saisissez les destinataires de notification (facultatif) et cliquez sur **Suivant**.
+1. Faire la même chose pour **Envoyer le gagnant**. Saisissez les destinataires de notification (facultatif) et cliquez sur **Suivant**.
 
    >[!NOTE]
    >
@@ -52,7 +52,7 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
 
    >[!NOTE]
    >
-   >Si vous choisissez de déclarer un gagnant manuellement, vous allez définir la date et l&#39;heure d&#39;envoi **du** rapport au lieu de la date et de l&#39;heure de **fin de la transmission** par la poste.
+   >Si vous choisissez de déclarer un gagnant manuellement, vous allez définir **Date/Heure d&#39;envoi du rapport** au lieu de **Date/Heure de fin d&#39;envoi du courrier**.
 
    Super ! Vous avez terminé, passez en revue le résumé et cliquez sur Fermer.
    ![](assets/image2014-9-12-16-3a1-3a23.png)
