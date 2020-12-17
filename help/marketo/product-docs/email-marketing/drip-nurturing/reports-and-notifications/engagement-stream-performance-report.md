@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Rapport sur les performances du flux d’engagement {#engagement-stream-performance-report}
+# Rapport Performance du flux d’engagement {#engagement-stream-performance-report}
 
 Vous souhaitez connaître les performances de votre contenu d’engagement ? Essayez le rapport de performances du flux d’engagement.
 
 ## Créer le rapport {#create-the-report}
 
-1. Recherchez et sélectionnez votre programme d’engagement, puis sous **Nouveau** , cliquez sur **Nouveau fichier** local.
+1. Recherchez et sélectionnez votre programme d’engagement, puis sous **New** cliquez sur **New Local Asset**.
 
    ![](assets/localassetnutring.jpg)
 
@@ -44,7 +44,7 @@ Vous souhaitez connaître les performances de votre contenu d’engagement ? Ess
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Sous l’onglet **Configuration** , doublon-cliquez sur le filtre Courriel **du Programme d’** engagement.
+1. Sous l&#39;onglet **Configuration**, cliquez sur le filtre **Courriel du Programme d&#39;engagement** en appuyant sur le doublon.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
@@ -54,14 +54,14 @@ Vous souhaitez connaître les performances de votre contenu d’engagement ? Ess
 
 ## Exécuter le rapport {#run-report}
 
-1. Pour exécuter le rapport, il vous suffit de cliquer sur l&#39;onglet **Rapport** .
+1. Pour exécuter le rapport, il vous suffit de cliquer sur l&#39;onglet **Rapport**.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
    >
-   >Bien qu’elle ne soit pas illustrée, la note d’engagement est une colonne de ce rapport. Voir [Présentation de la note](understanding-the-engagement-score.md) d’engagement pour en savoir plus sur ce qu’elle est.
+   >Bien qu’elle ne soit pas illustrée, la note d’engagement est une colonne de ce rapport. Voir [Présentation de la note d’engagement](understanding-the-engagement-score.md) pour plus d’informations sur ce qu’elle est.
 
    Super boulot ! Notez que le rapport est regroupé par programme d’engagement.
 
