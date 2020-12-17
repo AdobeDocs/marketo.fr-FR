@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Les fonctionnalités suivantes sont incluses dans la version d’août 2014. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 
-## Licences du calendrier marketing {#marketing-calendar-licenses}
+## Licences de calendrier marketing {#marketing-calendar-licenses}
 
-Après le 5 septembre 2014, seuls 5 utilisateurs peuvent accéder gratuitement au calendrier marketing. Veillez à [émettre/révoquer une licence](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) de calendrier marketing à l’intention des utilisateurs de votre choix avant cette date pour un accès sans interruption.
+Après le 5 septembre 2014, seuls 5 utilisateurs peuvent accéder gratuitement au calendrier marketing. Veillez à [émettre/révoquer une licence de calendrier marketing](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) à l’intention des utilisateurs de votre choix avant cette date pour un accès sans interruption.
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
-## Nouvelles autorisations d’utilisateur {#new-user-permissions}
+## Nouvelles autorisations d&#39;utilisateur {#new-user-permissions}
 
 Les nouvelles autorisations d’utilisateur suivantes ont été ajoutées :
 
@@ -33,13 +33,13 @@ Les nouvelles autorisations d’utilisateur suivantes ont été ajoutées :
 | Activer le déclencheur Campaign | Contrôler qui peut et ne peut pas activer les campagnes de déclenchement. |
 | Planification de la Campaign par lot | Permet de contrôler qui peut et ne peut pas planifier les exécutions de campagne par lot. |
 
-## Exporter les utilisateurs et les rôles depuis l’administration {#export-users-and-roles-from-admin}
+## Exporter les utilisateurs et les rôles à partir de l’administrateur {#export-users-and-roles-from-admin}
 
-Vous pouvez désormais [exporter une Liste d’utilisateurs et de rôles](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) à partir de Marketing Cloud. Vous pouvez également inclure un horodatage &quot;Dernière connexion&quot; dans l’exportation.
+Vous pouvez désormais [exporter une Liste d’utilisateurs et de rôles](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) à partir de Marketo. Vous pouvez également inclure un horodatage &quot;Dernière connexion&quot; dans l’exportation.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
-## Suppression de Canaux et de balises {#delete-channels-and-tags}
+## Supprimer des Canaux et des balises {#delete-channels-and-tags}
 
 Vous pouvez désormais supprimer tous les canaux et états inutilisés. Comme toujours, vous ne pouvez masquer qu’une seule version actuellement utilisée.
 
