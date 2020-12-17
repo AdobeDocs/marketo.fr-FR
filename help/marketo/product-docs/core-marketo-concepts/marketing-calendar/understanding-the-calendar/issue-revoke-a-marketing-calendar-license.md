@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Pour utiliser vos sièges du calendrier [](http://docs.marketo.com/display/docs/marketing+calendar) marketing, vous devez attribuer des licences aux utilisateurs qui doivent y accéder. Voici comment.
+Pour utiliser vos [sièges du calendrier marketing](http://docs.marketo.com/display/docs/marketing+calendar), vous devez délivrer des licences aux utilisateurs qui ont besoin d’y accéder. Voici comment.
 
-1. Accédez à la section **Admin** .
+1. Accédez à la section **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -27,11 +27,11 @@ Pour utiliser vos sièges du calendrier [](http://docs.marketo.com/display/docs/
 
    ![](assets/2.png)
 
-1. Sélectionnez le ou les utilisateurs et cliquez sur **Émettre une licence.**
+1. Sélectionnez le ou les utilisateurs et cliquez sur **Délivrer une licence.**
 
    >[!TIP]
    >
-   >Utilisez **Ctrl/Cmd+clic** pour sélectionner plusieurs utilisateurs en une seule opération.
+   >Utilisez **Ctrl/Cmd+clic** pour sélectionner plusieurs utilisateurs à la fois.
 
    ![](assets/3.png)
 
@@ -43,7 +43,7 @@ Pour utiliser vos sièges du calendrier [](http://docs.marketo.com/display/docs/
 
    ![](assets/4.png)
 
-   Bien joué ! Vous voyez la coche verte sous **Calendrier**?
+   Bien joué ! Consultez la coche verte sous **Calendrier** ?
 
    ![](assets/5.png)
 
