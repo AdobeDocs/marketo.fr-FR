@@ -19,14 +19,14 @@ Vous avez peut-être remarqué l’option &quot;Utiliser les filtres&quot; lors 
 
 >[!NOTE]
 >
->La modification de la logique des règles de liste intelligente s’applique uniquement aux filtres, **pas** aux déclencheurs.
+>La modification de la logique de règle de liste intelligente s’applique uniquement aux filtres, **et non** déclencheurs.
 
 Les déclencheurs sont toujours évalués comme OU, même si le paramètre ci-dessus est défini sur ALL.  Voici un exemple :
 
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
 La liste intelligente ci-dessus, en termes :
-`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Ainsi, si une personne remplit le formulaire **ou visite** la page, la campagne évalue cette personne en fonction de **tous **ou **n*importe quel **des filtres suivants, selon le paramètre utilisé.
+`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Ainsi, si une personne remplit le formulaire **ou** visite la page, la campagne évalue cette personne en fonction de **tous **ou **n*importe quel **des filtres suivants, selon le paramètre utilisé.
 
 >[!MORELIKETHIS]
 >
