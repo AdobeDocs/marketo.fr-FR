@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Convertir en dossier d&#39;archives
 
-Cliquez avec le bouton droit de la souris sur un dossier et sélectionnez **[!UICONTROL Convertir en dossier]** d’archives.
+Cliquez avec le bouton droit de la souris sur un dossier et sélectionnez **[!UICONTROL Convertir en dossier d’archives]**.
 
 ![Image un](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
