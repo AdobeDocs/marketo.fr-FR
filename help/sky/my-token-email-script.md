@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Pour les développeurs avancés, vous pouvez utiliser des scripts [](http://velocity.apache.org/engine/1.7/user-guide.html) Velocity dans vos courriels en configurant un jeton de script de courrier électronique. Voici comment le faire.
+Pour les développeurs avancés, vous pouvez utiliser [des scripts Velocity](http://velocity.apache.org/engine/1.7/user-guide.html) dans vos courriers électroniques en configurant un jeton de script de courrier électronique. Voici comment le faire.
 
-1. Dans l’onglet [!UICONTROL Mes jetons] de votre programme ou dossier, faites glisser un jeton de script **[!UICONTROL de]** courrier électronique sur le canevas Jetons  locaux.
+1. Dans l&#39;onglet [!UICONTROL Mes jetons] de votre programme ou dossier, faites glisser un **[!UICONTROL Script de courriel]** vers le canevas [!UICONTROL Jetons locaux].
 
    ![Image un](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
@@ -39,6 +39,6 @@ Pour les développeurs avancés, vous pouvez utiliser des scripts [](http://velo
    * [Guide de référence Velocity](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Documentation de VelocityTools 2.0](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Une fois votre script terminé, cliquez sur **[!UICONTROL Enregistrer]**.
+1. Une fois votre script is terminé, cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![Image 4](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-4.png)
