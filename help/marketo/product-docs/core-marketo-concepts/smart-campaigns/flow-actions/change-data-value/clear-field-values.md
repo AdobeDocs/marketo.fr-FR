@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Effacer les valeurs de champ {#clear-field-values}
 
-** [Modifier la valeur](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)des données** est génial, mais comment *supprimer* complètement la valeur ? Bonne question !
+** [Modifier la valeur des données](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** est génial, mais comment *supprimer* complètement la valeur ? Bonne question !
 
-1. Dans l’étape de flux, choisissez le champ à effacer et tapez **NULL **(majuscules) comme **nouvelle valeur**.
+1. Dans l’étape de flux, choisissez le champ à effacer et tapez **NULL **(capitales) comme **Nouvelle valeur**.
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
