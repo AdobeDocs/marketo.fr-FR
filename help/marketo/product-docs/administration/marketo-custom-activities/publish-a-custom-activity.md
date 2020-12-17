@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Publication d’une Activité personnalisée {#publish-a-custom-activity}
+# Publier une Activité personnalisée {#publish-a-custom-activity}
 
 Vous avez votre activité personnalisée exactement comme vous le souhaitez. Maintenant, il est temps de le publier !
 
@@ -19,7 +19,7 @@ Vous avez votre activité personnalisée exactement comme vous le souhaitez. Mai
 
    ![](assets/one-2.png)
 
-1. Dans Gestion des **** bases de données, cliquez sur **Marketo Custom Activités**.
+1. Dans **Gestion de la base de données**, cliquez sur **Marketo Custom Activités**.
 
    ![](assets/two-2.png)
 
@@ -27,7 +27,7 @@ Vous avez votre activité personnalisée exactement comme vous le souhaitez. Mai
 
    ![](assets/three-2.png)
 
-1. Cliquez sur la liste déroulante Actions **d’Activité** personnalisée et sélectionnez **Publier l’Activité**.
+1. Cliquez sur la liste déroulante **Actions d’Activité personnalisée** et sélectionnez **Publier l’Activité**.
 
    ![](assets/four-2.png)
 
