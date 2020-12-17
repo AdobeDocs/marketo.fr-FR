@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation de la logique avancée des règles de Liste intelligente {#using-advanced-smart-list-rule-logic}
+# Utilisation de la logique de règle de Liste intelligente avancée {#using-advanced-smart-list-rule-logic}
 
 Vous pouvez trouver les personnes exactes dont vous avez besoin en appliquant une logique de règle de liste intelligente à plusieurs filtres dans une liste intelligente. Voici comment.
 
@@ -28,21 +28,21 @@ Vous pouvez trouver les personnes exactes dont vous avez besoin en appliquant un
 >
 >La logique de filtre avancée n’est disponible que si votre liste dynamique comporte au moins trois filtres.
 
-## Ajouter la logique à une Liste intelligente {#add-logic-to-a-smart-list}
+## Ajouter la logique à une Liste dynamique {#add-logic-to-a-smart-list}
 
-Par défaut, votre liste intelligente trouvera les personnes qui correspondent à **TOUS les** filtres (filtres 1 *et* 2 *et* 3). Vous pouvez modifier la logique de règle pour rechercher des personnes qui correspondent à **N&#39;IMPORTE QUEL** des filtres définis (filtres 1 *ou* 2 *ou 3), ou utiliser des filtres avancés (filtres 1* *et 2 *ou *3).*
+Par défaut, votre liste intelligente trouvera les personnes qui correspondent aux filtres **ALL** (filtres 1 *et* 2 *et* 3). Vous pouvez modifier la logique de règle pour rechercher des personnes qui correspondent à **ANY** des filtres définis (filtres 1 *ou* 2 *ou* 3), ou utiliser des filtres avancés (filtres 1 *et* 2 *ou *3).
 
-Dans cet exemple, supposons que vous souhaitiez trouver des personnes en Californie *et* avec un score d&#39;au moins 50 points *ou* avec un statut &quot;Sales Qualified&quot; (Ventes qualifiées).
+Dans cet exemple, supposons que vous souhaitiez trouver des personnes en Californie *et* avec un score d&#39;au moins 50 points *ou* avec le statut &quot;Sales Qualified&quot;.
 
-1. Sélectionnez **Utiliser** des **filtres** **avancés** dans la liste déroulante.
+1. Sélectionnez **Utiliser** **filtres** **avancés** dans la liste déroulante.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >L’utilisation de filtres **avancés** réduit la nécessité de créer des listes intelligentes avec le filtre Membre de la Liste intelligente. Cela permet d’optimiser les performances.
+   >L&#39;utilisation de filtres **avancés** réduit la nécessité de créer des listes intelligentes avec le filtre Membre de la Liste intelligente. Cela permet d’optimiser les performances.
 
-1. La zone de texte **filtres** **avancés** affiche &quot;et&quot; comme valeur par défaut entre tous vos filtres.
+1. La zone de texte **Advanced** **filtres** affiche &quot;et&quot; comme valeur par défaut entre tous vos filtres.
 
    ![](assets/two-2.png)
 
@@ -58,7 +58,7 @@ Dans cet exemple, supposons que vous souhaitiez trouver des personnes en Califor
 
    ![](assets/four-1.png)
 
-## Utiliser des parenthèses lors du mélange de &quot;Et&quot; et &quot;Ou&quot; {#use-parentheses-when-mixing-and-and-or}
+## Utiliser des parenthèses lors du mélange de &quot;Et&quot; et &quot;Ou {#use-parentheses-when-mixing-and-and-or}
 
 Le mélange des logiques &quot;et&quot; et &quot;ou&quot; requiert des parenthèses pour clarifier votre intention.
 
