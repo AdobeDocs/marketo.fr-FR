@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Compréhension des objets personnalisés de marketing {#understanding-marketo-custom-objects}
+# Présentation des objets personnalisés de marketing {#understanding-marketo-custom-objects}
 
 Utilisez des objets personnalisés pour effectuer le suivi de mesures spécifiques à votre entreprise.
 
@@ -23,13 +23,13 @@ Utilisez des objets personnalisés pour effectuer le suivi de mesures spécifiqu
 
 Utilisez des objets personnalisés comme filtres et déclencheurs dans vos campagnes dynamiques. Par exemple :
 
-* **Filtre**: Envoyer des e-mails uniquement aux propriétaires d&#39;une marque spécifique de véhicule
-* **Déclencheur**: Envoyez un courrier électronique lorsqu’un objet personnalisé est ajouté à une personne ou une société.
+* **Filtre** : Envoyer des e-mails uniquement aux propriétaires d&#39;une marque spécifique de véhicule
+* **Déclencheur** : Envoyez un courrier électronique lorsqu’un objet personnalisé est ajouté à une personne ou une société.
 
 Vous pouvez configurer des objets personnalisés dans une relation de type &quot;un à plusieurs&quot; ou &quot;plusieurs à plusieurs&quot;. Par exemple :
 
-* **Un à plusieurs**: Une personne possède plusieurs voitures
-* **Plusieurs à plusieurs**: Plusieurs étudiants sont inscrits à plusieurs cours à partir d&#39;un catalogue de cours
+* **Un à plusieurs** : Une personne possède plusieurs voitures
+* **Plusieurs à plusieurs** : Plusieurs étudiants sont inscrits à plusieurs cours à partir d&#39;un catalogue de cours
 
 Une structure de type &quot;un à plusieurs&quot; utilise un seul champ de lien pour connecter l’objet personnalisé à une personne ou une société.
 
@@ -45,7 +45,7 @@ Plusieurs à plusieurs objets personnalisés utilisent deux champs de lien, fais
 
 ## Accès aux objets personnalisés de marketing {#accessing-marketo-custom-objects}
 
-1. Pour créer ou modifier des objets personnalisés de Marketo, cliquez sur **Admin **puis sur le lien **** Objets personnalisés de Marketo.
+1. Pour créer ou modifier des objets personnalisés de Marketo, cliquez sur **Admin **puis sur le lien **Objet personnalisé du marketing** s.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -71,11 +71,11 @@ Après avoir créé la structure d’objets personnalisés, lorsque vous téléc
 
    ![](assets/db.png)
 
-1. Ouvrez votre base de données et cliquez sur l’onglet **Personnes** . Cliquez avec le doublon sur l’enregistrement d’une personne que vous avez associée à un objet personnalisé.
+1. Ouvrez votre base de données et cliquez sur l’onglet **Personnes**. Cliquez avec le doublon sur l’enregistrement d’une personne que vous avez associée à un objet personnalisé.
 
    ![](assets/five.png)
 
-1. Sur la page des détails de la personne, cliquez sur l’onglet Objets **** personnalisés. Sélectionnez l’objet dans la liste déroulante.
+1. Sur la page des détails de la personne, cliquez sur l&#39;onglet **Objets personnalisés**. Sélectionnez l’objet dans la liste déroulante.
 
    ![](assets/six.png)
 
@@ -91,7 +91,7 @@ Si plusieurs personnes dans Marketo sont des enregistrements dans les enregistre
 
 Les objets personnalisés ne peuvent être directement liés qu’à un seul enregistrement. Cela signifie que lorsque votre type d’objet personnalisé est lié par champ de société, vous devez vous assurer que les enregistrements de votre personne sont associés à une société en utilisant la conversion des contacts dans votre gestion de la relation client ou en utilisant le champ externeCompanyId, si vous gérez des sociétés à l’aide des API REST de Marketo. Pour les enregistrements de personne qui ne sont pas explicitement liés à des enregistrements de société, les objets personnalisés liés à l’aide de la société sont liés de manière aléatoire à un enregistrement unique, même si la valeur du champ de société est partagée par de nombreuses personnes.
 
-Voir [Importation de données](import-custom-object-data.md) d’objet personnalisées pour en savoir plus.
+Voir [Importer des données d’objet personnalisé](import-custom-object-data.md) pour plus d’informations.
 
 >[!MORELIKETHIS]
 >
