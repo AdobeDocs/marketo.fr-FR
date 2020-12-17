@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Disponible uniquement lorsqu&#39;il est intégré à Salesforce.
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Cette étape de flux vous permet de modifier l&#39;état des membres de campagne Salesforce des pistes.
 
@@ -27,11 +27,11 @@ Si une piste n&#39;existe pas dans Salesforce ou n&#39;est pas encore membre de 
 
 ## Utilisation {#usage}
 
-1. Recherchez et sélectionnez d&#39;abord le **Campaign** Salesforce dans lequel se trouve l&#39;enregistrement.
+1. Recherchez et sélectionnez d&#39;abord le Salesforce **Campaign** dans lequel se trouve l&#39;enregistrement.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Sélectionnez ensuite le **nouvel** **état** que vous souhaitez définir et vous avez terminé !
+1. Sélectionnez ensuite le **Nouveau** **État** que vous souhaitez définir et vous avez terminé !
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
 
