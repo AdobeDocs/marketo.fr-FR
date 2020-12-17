@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Filtrage d’un rapport Programme par balise {#filter-a-program-report-by-tag}
 
-Concentrez votre [rapport sur les performances](create-a-program-performance-report.md)du programme sur des [balises](http://docs.marketo.com/display/docs/tags)spécifiques.
+Concentrez votre [rapport de performances du programme](create-a-program-performance-report.md)sur des balises [spécifiques ](http://docs.marketo.com/display/docs/tags).
 
 1. Accédez à **Marketing** **Activités** (ou **Analytics**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre rapport Performance **** Programme.
+1. Sélectionnez votre rapport **Performances du Programme**.
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. Cliquez sur l’onglet **Configuration** et faites glisser l’un des filtres **Balises** .
+1. Cliquez sur l&#39;onglet **Configuration** et faites glisser le pointeur sur l&#39;un des filtres **Balises**.
 
    ![](assets/prospects.jpg)
 
@@ -35,7 +35,7 @@ Concentrez votre [rapport sur les performances](create-a-program-performance-rep
 
    ![](assets/prospect2.jpg)
 
-1. Fait ! Cliquez sur l&#39;onglet **Rapport** pour afficher *uniquement* les programmes qui correspondent aux balises sélectionnées dans votre rapport.
+1. Fait ! Cliquez sur l&#39;onglet **Rapport** pour afficher *juste* les programmes qui correspondent aux balises sélectionnées dans votre rapport.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
@@ -53,5 +53,5 @@ Concentrez votre [rapport sur les performances](create-a-program-performance-rep
    >**Plongée profonde**
    >
    >
-   >En savoir plus sur les rapports dans le Rapports [de](http://docs.marketo.com/display/docs/basic+reporting)base.
+   >Découvrez tous les rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
