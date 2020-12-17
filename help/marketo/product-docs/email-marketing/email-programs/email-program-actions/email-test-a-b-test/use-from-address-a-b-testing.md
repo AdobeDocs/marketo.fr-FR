@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utiliser le test A/B &quot;From Address&quot; {#use-from-address-a-b-testing}
 
-Vous pouvez facilement tester vos e-mails A/B. Un test intéressant est le test **De l&#39;adresse** . Voici comment le configurer.
+Vous pouvez facilement tester vos e-mails A/B. Un test intéressant est le test **From Address**. Voici comment le configurer.
 
 >[!PREREQUISITES]
 >
@@ -23,19 +23,19 @@ Vous pouvez facilement tester vos e-mails A/B. Un test intéressant est le test 
 
 
 
-1. Sous la mosaïque **Courrier électronique** , avec votre message électronique sélectionné, cliquez sur **Ajouter le test** A/B.
+1. Sous la mosaïque **E-mail**, avec votre adresse électronique sélectionnée, cliquez sur **Ajouter le test A/B**.
 
    ![](assets/image2014-9-12-15-3a32-3a8.png)
 
-1. Une nouvelle fenêtre s’ouvre, sélectionnez **De l’adresse** pour le type **de** test.
+1. Une nouvelle fenêtre s’ouvre, sélectionnez **Adresse** pour **Type de test**.
 
    ![](assets/image2014-9-12-15-3a32-3a22.png)
 
-1. Si vous disposez d’informations de test précédentes (comme un test d’objet), vous pouvez cliquer en toute sécurité sur **Réinitialiser le test**.
+1. Si vous disposez d’informations de test précédentes (comme un test de sujet), vous pouvez cliquer en toute sécurité sur **Réinitialiser le test**.
 
    ![](assets/image2014-9-12-15-3a32-3a28.png)
 
-1. Entrez la deuxième information **de l&#39;adresse** de départ que vous souhaitez tester.
+1. Entrez la deuxième information **From Address** à tester.
 
    >[!NOTE]
    >
@@ -45,9 +45,9 @@ Vous pouvez facilement tester vos e-mails A/B. Un test intéressant est le test 
 
    >[!TIP]
    >
-   >Vous pouvez cliquer sur le signe **** plus pour ajouter autant d&#39;adresses de départ que vous le souhaitez.
+   >Vous pouvez cliquer sur le **signe plus** pour ajouter autant d&#39;adresses de départ que vous le souhaitez.
 
-1. Utilisez le curseur pour choisir le pourcentage d’audience que vous souhaitez dans votre test A/B, puis cliquez sur **Suivant**.
+1. Utilisez le curseur pour choisir le pourcentage d’audience que vous souhaitez dans votre test A/B et cliquez sur **Suivant**.
 
    ![](assets/image2014-9-12-15-3a33-3a41.png)
 
@@ -57,9 +57,9 @@ Vous pouvez facilement tester vos e-mails A/B. Un test intéressant est le test 
 
    >[!CAUTION]
    >
-   >**Nous vous recommandons d’éviter de définir la taille de l’échantillon à 100%**. Si vous utilisez une liste statique, la définition de la taille de l’échantillon à 100 % envoie le courriel à tous les membres de l’audience et le gagnant n’est envoyé à personne. Si vous utilisez une liste **intelligente** , la définition de la taille de l’échantillon à 100 % envoie le courriel à tous les membres de l’audience *à ce moment-là. *Lorsque le programme de messagerie s’exécute à nouveau à une date ultérieure, toute nouvelle personne remplissant les conditions requises pour la liste intelligente recevra également le courrier électronique puisqu’elle est désormais incluse dans l’audience.
+   >**Nous vous recommandons d’éviter de définir la taille de l’échantillon à 100%**. Si vous utilisez une liste statique, la définition de la taille de l’échantillon à 100 % envoie le courriel à tous les membres de l’audience et le gagnant n’est envoyé à personne. Si vous utilisez une liste **smart**, la définition de la taille de l’échantillon à 100 % envoie le courriel à tous les membres de l’audience *à ce moment. *Lorsque le programme de messagerie s’exécute à nouveau à une date ultérieure, toute nouvelle personne remplissant les conditions requises pour la liste intelligente recevra également le courrier électronique puisqu’elle est désormais incluse dans l’audience.
 
-   OK, nous sommes presque là. Maintenant, nous devons [définir les critères](define-the-a-b-test-winner-criteria.md)de gagnant du test A/B.
+   OK, nous sommes presque là. Nous devons maintenant [définir les critères de gagnant du test A/B](define-the-a-b-test-winner-criteria.md).
 
    >[!NOTE]
    >
