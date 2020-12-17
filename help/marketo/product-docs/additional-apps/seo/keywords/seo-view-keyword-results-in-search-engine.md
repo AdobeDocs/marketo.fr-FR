@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# SEO - Résultats des mots-clés de Vue dans le moteur de recherche {#seo-view-keyword-results-in-search-engine}
+# SEO - Résultats du mot-clé de Vue dans le moteur de recherche {#seo-view-keyword-results-in-search-engine}
 
 Si vous souhaitez voir à quoi ressemble votre contenu dans un moteur de recherche, nous avons ajouté un petit raccourci pratique.
 
-1. Accédez à la section **Mots-clés** .
+1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. Passez la souris sur un mot-clé. Cliquez sur Résultats **** de la vue.
+1. Passez la souris sur un mot-clé. Cliquez sur **Résultats de la vue**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 
