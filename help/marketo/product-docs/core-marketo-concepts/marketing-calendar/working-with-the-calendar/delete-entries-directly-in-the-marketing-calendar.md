@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Supprimer directement les entrées dans le calendrier marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Outre la [création](create-entries-directly-in-the-marketing-calendar.md) et la [modification](edit-entries-directly-in-the-marketing-calendar.md) d’entrées, vous pouvez les supprimer directement dans le calendrier marketing. Voici comment.
+Outre les entrées [création](create-entries-directly-in-the-marketing-calendar.md) et [modification](edit-entries-directly-in-the-marketing-calendar.md), vous pouvez les supprimer directement dans le calendrier marketing. Voici comment.
 
-1. Accédez au **calendrier**.
+1. Accédez au **Calendrier**.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. Sélectionnez l’entrée à supprimer, puis cliquez sur **Afficher la cible d’action** du Programme.
+1. Sélectionnez l’entrée à supprimer, puis cliquez sur **Afficher la cible d’action du Programme**.
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
