@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Créer un dossier de campagne {#create-new-campaign-folder}
+# Créer un nouveau dossier de campagne {#create-new-campaign-folder}
 
 Les dossiers Campaign vous aident à conserver un espace de travail bien rangé. Suivez ces étapes simples et vous êtes en route vers la magie de l&#39;automatisation.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,15 +23,15 @@ Les dossiers Campaign vous aident à conserver un espace de travail bien rangé.
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. Sélectionnez **Nouveau dossier** de campagne.
+1. Sélectionnez **Nouveau dossier de campagne**.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Saisissez un **Nom** pour le dossier de campagne.
+1. Entrez un **nom** pour le dossier de campagne.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Facultatif : Saisissez une **description** et cliquez sur** Créer. **
+1. Facultatif : Saisissez une **Description** et cliquez sur** Créer. **
 
    >[!TIP]
    >
@@ -43,7 +43,7 @@ Les dossiers Campaign vous aident à conserver un espace de travail bien rangé.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Désormais, lors de la [création d’un nouveau programme](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), vous verrez ce dossier de campagne comme une option.
+   Désormais, lorsque [vous créez un nouveau programme](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), vous verrez ce dossier de campagne comme une option.
 
 >[!MORELIKETHIS]
 >
