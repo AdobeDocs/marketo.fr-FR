@@ -21,57 +21,57 @@ En plus des jetons personnels, vous pouvez utiliser des jetons système vraiment
 
 ## system.date {#system-date}
 
-Le `{{system.date}}` jeton affiche la date actuelle au moment de l’exécution de la manière suivante : **8 août 2013**
+Le jeton `{{system.date}}` affiche la date actuelle au moment de l’exécution comme suit : **8 août 2013**
 
 **Fonctionne dans :**
 
-* [Étape de flux Modifier la valeur](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) des données
-* [Étape intéressante du flux de moment](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
-* [Créer une étape de flux de Tâche](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
+* [Modifier l’étape de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valorisation des données
+* [Étape intéressante ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) du flux de temps
+* [Créer une étape ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de flux de tâches
 * Corps d’un courriel ou d’un modèle
 
 ## system.time {#system-time}
 
-Le `{{system.time}}` jeton affiche l’heure actuelle au moment de l’exécution de la manière suivante : **04:34 PM (GMT -07:00)**
+Le jeton `{{system.time}}` affiche l’heure actuelle au moment de l’exécution comme suit : **04:34 PM (GMT -0700)**
 
 **Fonctionne dans :**
 
-* [Étape de flux Modifier la valeur](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) des données
-* [Étape intéressante du flux de moment](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
-* [Créer une étape de flux de Tâche](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
+* [Modifier l’étape de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valorisation des données
+* [Étape intéressante ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) du flux de temps
+* [Créer une étape ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de flux de tâches
 * Corps d’un courriel ou d’un modèle
 
 ## system.dateTime {#system-datetime}
 
-Le `{{system.dateTime}}` jeton affiche la date et l’heure actuelles au moment de l’exécution comme suit : **2013-08-08 16:36:13**
+Le jeton `{{system.dateTime}}` affiche la date et l’heure actuelles au moment de l’exécution comme suit : **2013-08-08 16:36:13**
 
 **Fonctionne dans :**
 
-* [Étape de flux Modifier la valeur](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) des données
-* [Étape intéressante du flux de moment](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
-* [Créer une étape de flux de Tâche](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
+* [Modifier l’étape de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valorisation des données
+* [Étape intéressante ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) du flux de temps
+* [Créer une étape ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de flux de tâches
 * Corps d’un courriel ou d’un modèle
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-Le `{{system.forwardToFriendLink}}` jeton vous permet de contrôler l&#39;emplacement du lien &quot;Transférer à un ami&quot; dans les courriels [](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
+Le jeton `{{system.forwardToFriendLink}}` vous permet de contrôler l&#39;emplacement du [&#39;Transférer à un lien d&#39;ami&#39; dans les courriels](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
 
 **Fonctionne dans :**
 
-* [Ajouter un jeton système en tant que lien dans un courrier électronique](add-a-system-token-as-a-link-in-an-email.md) ou un modèle
+* [Ajouter un jeton système en tant que lien dans un modèle de ](add-a-system-token-as-a-link-in-an-email.md) courrier électronique
 
 ## system.unsubscriptionLink {#system-unsubscribelink}
 
-Le `{{system.unsubscribLink}}` jeton vous permet de contrôler l’emplacement du lien de désabonnement dans un courrier électronique.
+Le jeton `{{system.unsubscribLink}}` vous permet de contrôler l’emplacement du lien de désabonnement dans un courrier électronique.
 
 **Fonctionne dans :**
 
-* [Ajouter un jeton système en tant que lien dans un courrier électronique](add-a-system-token-as-a-link-in-an-email.md) ou un modèle
+* [Ajouter un jeton système en tant que lien dans un modèle de ](add-a-system-token-as-a-link-in-an-email.md) courrier électronique
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
-Le `{{system.viewAsWebpageLink}}` jeton vous permet de contrôler l&#39;emplacement de la Vue en tant que lien Page Web dans un courrier électronique.
+Le jeton `{{system.viewAsWebpageLink}}` permet de contrôler l&#39;emplacement de la Vue en tant que lien Page Web dans un courrier électronique.
 
 **Fonctionne avec :**
 
-* [Ajouter un jeton système en tant que lien dans un courrier électronique](add-a-system-token-as-a-link-in-an-email.md) ou un modèle
+* [Ajouter un jeton système en tant que lien dans un modèle de ](add-a-system-token-as-a-link-in-an-email.md) courrier électronique
