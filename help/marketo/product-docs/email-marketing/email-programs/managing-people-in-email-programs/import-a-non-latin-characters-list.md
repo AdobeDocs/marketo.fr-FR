@@ -27,7 +27,7 @@ En effet, le fichier n’est pas enregistré correctement pour que Marketo recon
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Choisissez **UTF-16 Unicode Text (.txt)** comme option **Format** . Le fichier sera codé de la façon dont Marketo peut les afficher.
+1. Sélectionnez **UTF-16 Unicode Text (.txt)** comme option **Format**. Le fichier sera codé de la façon dont Marketo peut les afficher.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ En effet, le fichier n’est pas enregistré correctement pour que Marketo recon
 
    >[!TIP]
    >
-   >Vous pouvez ouvrir le fichier texte à l’aide du **Bloc-notes** si vous utilisez Windows ou **TextEdit** si vous utilisez un Mac.
+   >Vous pouvez ouvrir le fichier texte à l’aide du Bloc-notes **si vous utilisez Windows ou** TextEdit **si vous utilisez un Mac.**
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ En effet, le fichier n’est pas enregistré correctement pour que Marketo recon
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Sélectionnez **Rechercher et remplacer...** dans le menu **Modifier** .
+1. Sélectionnez **Rechercher et remplacer..** dans le menu **Modifier**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >L’action équivalente pour les utilisateurs de Windows est : **Edition > Remplacer...**
+   >L’action équivalente pour les utilisateurs de Windows est : **Modifier > Remplacer...**
 
-1. Collez l’onglet que vous avez copié à l’étape 4 dans la première zone (à remplacer), puis tapez une virgule dans la seconde zone (remplacer par). Et cliquez sur **Tout**.
+1. Collez l’onglet que vous avez copié à l’étape 4 dans la première zone (à remplacer), puis tapez une virgule dans la seconde zone (remplacer par). Cliquez ensuite sur **Tous**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 
