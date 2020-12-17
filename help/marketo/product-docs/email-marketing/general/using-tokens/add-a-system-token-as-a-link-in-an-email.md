@@ -23,7 +23,7 @@ Les jetons suivants peuvent être utilisés comme liens dans un modèle de courr
 
 >[!NOTE]
 >
->Ces jetons **ne peuvent pas** être cliqués à moins qu’ils ne se trouvent à l’intérieur d’un lien d’ancrage. De plus, ils **ne peuvent pas** être incorporés dans un My Token.
+>Ces jetons **ne sont pas** cliquables, sauf s’ils se trouvent à l’intérieur d’un lien d’ancrage. Ils peuvent également **ne pas** être incorporés dans un jeton My Token.
 
 Voici comment les ajouter à un courriel :
 
@@ -35,7 +35,7 @@ Voici comment les ajouter à un courriel :
 
    ![](assets/two-1.png)
 
-1. Mettez en surbrillance le texte que vous souhaitez convertir en lien contenant le jeton et cliquez sur le bouton **Insérer/Modifier le lien** .
+1. Mettez en surbrillance le texte à convertir en lien qui aura le jeton et cliquez sur le bouton **Insérer/Modifier le lien**.
 
    ![](assets/three-1.png)
 
@@ -55,6 +55,6 @@ Voici comment les ajouter à un courriel :
 >
 >**Rappel**
 >
->N&#39;oubliez pas d&#39; [approuver votre courriel](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) lorsque vous avez terminé.
+>N&#39;oubliez pas [d&#39;approuver votre courriel](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) lorsque vous avez terminé.
 
 Bien joué ! Vous savez maintenant comment ajouter un jeton système en tant que lien dans un courrier électronique.
