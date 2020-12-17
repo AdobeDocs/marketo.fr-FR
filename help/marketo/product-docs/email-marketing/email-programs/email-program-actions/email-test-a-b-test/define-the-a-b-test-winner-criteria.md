@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Définition des critères de gagnant de test A/B {#define-the-a-b-test-winner-criteria}
+# Définir les critères de gagnant du test A/B {#define-the-a-b-test-winner-criteria}
 
-Lorsque vous [ajoutez un test](add-an-a-b-test.md) A/B à votre programme de messagerie, vous devez sélectionner un type de test, [planifier le test](schedule-the-a-b-test.md)A/B, puis définir les critères gagnants. Voici comment décider quel email gagne.
+Lorsque [vous ajoutez un test A/B](add-an-a-b-test.md) à votre programme de messagerie, vous devez sélectionner un type de test, [planifier le test A/B](schedule-the-a-b-test.md), puis définir les critères gagnants. Voici comment décider quel email gagne.
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Lorsque vous [ajoutez un test](add-an-a-b-test.md) A/B à votre programme de mes
 
 ## Critères de gagnant {#winner-criteria}
 
-1. Les options de critères **** gagnants par défaut sont répertoriées en premier.
+1. Les options **Critères de gagnant** par défaut sont répertoriées en premier.
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
@@ -33,11 +33,11 @@ Lorsque vous [ajoutez un test](add-an-a-b-test.md) A/B à votre programme de mes
    |---|---|
    | **Clics** | Par défaut, le suivi des liens dans les courriels est intégré dans ces derniers, ce qui vous permet de savoir qui a cliqué sur un lien, combien de liens au total ont cliqué, etc. |
    | **Cliquez pour ouvrir le %** | Pourcentage de courriers électroniques ouverts et sur lesquels un lien a été cliqué dans le courrier électronique. Cela mesure la pertinence et le contexte d’un courriel en prenant le nombre de clics uniques divisé par le nombre d’ouvertures uniques, puis en le multipliant par 100 pour l’afficher sous forme de pourcentage. |
-   | **Note d’engagement** | Le score [d’](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) engagement vous permet de déterminer l’efficacité de votre contenu. |
+   | **Note d’engagement** | Le [score d&#39;engagement](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) vous aide à déterminer l&#39;efficacité de votre contenu. |
 
    >[!TIP]
    >
-   >Si vous sélectionnez Note d’engagement, le test doit s’exécuter pendant au moins 24 heures. En savoir plus sur la [compréhension de la note](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)d’engagement.
+   >Si vous sélectionnez Note d’engagement, le test doit s’exécuter pendant au moins 24 heures. En savoir plus sur [la compréhension du score d&#39;engagement](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
    Vous pouvez également personnaliser vos critères en sélectionnant Conversion personnalisée et en cliquant sur Modifier.
    ![](assets/image2014-9-12-15-3a51-3a53.png)
@@ -54,7 +54,7 @@ Lorsque vous [ajoutez un test](add-an-a-b-test.md) A/B à votre programme de mes
    >**Plongée profonde**
    >
    >
-   >En savoir plus sur les listes [intelligentes et les listes](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)statiques.
+   >En savoir plus sur [les listes dynamiques et les listes statiques](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
    Définissez le déclencheur.
    ![](assets/image2014-9-12-15-3a53-3a11.png)
@@ -68,7 +68,7 @@ Lorsque vous [ajoutez un test](add-an-a-b-test.md) A/B à votre programme de mes
 
    Super ! Il est maintenant temps de décider comment le gagnant est déterminé.
 
-## Déclarer gagnant {#declare-winner}
+## Déclarer le gagnant {#declare-winner}
 
 1. Choisissez l’une des deux options disponibles.
 
@@ -79,7 +79,7 @@ Lorsque vous [ajoutez un test](add-an-a-b-test.md) A/B à votre programme de mes
    >**Rappel**
    >
    >
-   >Si vous effectuez un test A/B **Date/Heure** , vous pouvez uniquement choisir **Manuel**.
+   >Si vous effectuez un test A/B **Date/Heure**, vous pouvez uniquement choisir **Manuel**.
 
    Une fois le test A/B terminé, Marketo peut envoyer automatiquement le courriel gagnant à l’heure planifiée, ou vous pouvez consulter les résultats et décider de l’envoi du courriel au moment de l’envoi.
 
@@ -89,7 +89,7 @@ Lorsque vous [ajoutez un test](add-an-a-b-test.md) A/B à votre programme de mes
 
    >[!TIP]
    >
-   >Le **guide** de sélection envoie le test et attend que vous déclariez gagnant. Vous recevrez un rapport des résultats.
+   >Si vous choisissez **Manuel**, le test sera envoyé et vous attendrez que vous déclariez gagnant. Vous recevrez un rapport des résultats.
 
    [planification du test A/B](schedule-the-a-b-test.md)
 
