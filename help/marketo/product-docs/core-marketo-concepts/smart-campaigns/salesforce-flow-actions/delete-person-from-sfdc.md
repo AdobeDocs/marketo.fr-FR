@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Supprimer une personne de SFDC {#delete-person-from-sfdc}
+# Supprimer une personne de la collecte de données régionale {#delete-person-from-sfdc}
 
 Si vous devez supprimer un ensemble spécifique de pistes de Salesforce mais les laisser en tant que personnes dans Marketo, vous pouvez utiliser l’action Supprimer une personne de SFDC.
 
@@ -19,11 +19,11 @@ Si vous devez supprimer un ensemble spécifique de pistes de Salesforce mais les
 >
 >Disponible uniquement lorsqu&#39;il est intégré à Salesforce.
 
-1. Dans la base de données, cliquez sur la personne que vous souhaitez supprimer de Salesforce. Cliquez ensuite sur Actions **** personnelles et sélectionnez **Salesforce**.
+1. Dans la base de données, cliquez sur la personne que vous souhaitez supprimer de Salesforce. Cliquez ensuite sur **Actions personnelles** et sélectionnez **Salesforce**.
 
    ![](assets/person-actions-salesforce.png)
 
-1. Sélectionnez **Supprimer une personne dans SFDC**.
+1. Sélectionnez **Supprimer une personne de SFDC**.
 
    ![](assets/delete-person-from-sfdc.png)
 
@@ -35,5 +35,5 @@ Si vous devez supprimer un ensemble spécifique de pistes de Salesforce mais les
 
    >[!CAUTION]
    >
-   >Si vous définissez **Supprimer dans Marketo** sur **true** et supprimez les personnes de Marketo et les pistes de Salesforce, elles sont parties pour toujours. Cela ne peut pas être annulé.
+   >Si vous définissez **Supprimer dans Marketo** sur **true** et supprimez les personnes de Marketo et les pistes de Salesforce, elles sont définitivement disparues. Cela ne peut pas être annulé.
 
