@@ -19,13 +19,13 @@ Les personnes bloquées dans la base de données Marketo sont marquées comme pl
 >
 >Marketo est en train de modifier des termes tels que la Liste bloquée et la Liste autorisée à la Liste bloquée et à la Liste autorisée dans notre produit. Au cours de cette mise à jour, vous verrez peut-être les anciens termes de l’interface utilisateur et les captures d’écran de la documentation, ainsi que les nouveaux termes dans le texte de la documentation. Nous nous excusons pour toute confusion.
 
-1. Dans votre campagne intelligente, cliquez sur **Planifier**. Sous Etat **de la Liste** intelligente, cliquez sur le deuxième lien.
+1. Dans votre campagne intelligente, cliquez sur **Planification**. Sous **Smart Liste Status** cliquez sur le deuxième lien.
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
    >[!NOTE]
    >
-   >Les personnes qui ont atteint leur limite de communication peuvent aussi être bloquées de recevoir des courriels. Découvrez comment [modifier les limites](../../../../product-docs/administration/email-setup/enable-communication-limits.md) de communication dans la section Admin.
+   >Les personnes qui ont atteint leur limite de communication peuvent aussi être bloquées de recevoir des courriels. Découvrez comment [modifier les limites de communication](../../../../product-docs/administration/email-setup/enable-communication-limits.md) dans la section Admin.
 
    L&#39;onglet Personnes bloquées affiche les personnes qui ne reçoivent peut-être pas de courrier.
 
