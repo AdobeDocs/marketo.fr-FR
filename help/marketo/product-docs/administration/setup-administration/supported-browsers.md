@@ -22,4 +22,4 @@ Marketo prend actuellement en charge les navigateurs suivants :
 | [Apple Safari](http://support.apple.com/downloads/#safari) | dernier |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) | dernier |
 
-Pour une meilleure expérience, **gardez votre navigateur à jour**!
+Pour une meilleure expérience, **gardez votre navigateur à jour** !
