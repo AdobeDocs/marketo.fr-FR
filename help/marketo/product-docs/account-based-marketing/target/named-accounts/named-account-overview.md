@@ -61,7 +61,7 @@ Les comptes nommés contiennent les personnes issues des sociétés que vous cib
   </tr> 
   <tr> 
    <td><strong>Code SIC</strong></td> 
-   <td><span><strong></strong>Norme <strong></strong>de <strong></strong>classification industrielle - Code à quatre chiffres pour la classification des industries<br></span></td> 
+   <td><span><strong></strong>Norme  <strong></strong>de  <strong></strong>classification industrielle - Code à quatre chiffres pour la classification des industries<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Recettes</strong></td> 
