@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Si Marketo est une voiture puissante, la campagne intelligente est vraiment le moteur. C&#39;est simple de commencer mais peut faire presque tout ce que vous lui demandez.
 
-La campagne intelligente comporte trois domaines principaux : Onglets [Smart Liste](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flow](http://docs.marketo.com/display/DOCS/Flow+Actions) et [Schedule](using-smart-campaigns/schedule-a-recurring-batch-campaign.md) .
+La campagne intelligente comporte trois domaines principaux : Les onglets [Liste intelligente](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flux](http://docs.marketo.com/display/DOCS/Flow+Actions) et [Planification](using-smart-campaigns/schedule-a-recurring-batch-campaign.md).
 
 ## Liste intelligente {#smart-list}
 
