@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # Présentation du sélecteur de modèles de courriel {#email-template-picker-overview}
 
-Lorsque vous [créez un courrier électronique](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md), vous avez le choix entre plusieurs modèles gratuits. Vous pouvez également créer votre propre modèle et l’enregistrer pour une utilisation ultérieure.
+Lorsque vous [créez un courrier électronique](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md), vous disposez de plusieurs modèles gratuits. Vous pouvez également créer votre propre modèle et l’enregistrer pour une utilisation ultérieure.
 
 ![](assets/starter-templates.png)
 
-**Le nom** sera le nom de l’adresse électronique que vous créez en fonction du modèle et non du modèle lui-même. **La description** s’applique également au courrier électronique et est facultative.
+**Le** nom sera le nom du courrier électronique que vous créez à partir du modèle et non du modèle lui-même. **La** description s’applique également au courrier électronique et est facultative.
 
 ![](assets/two-2.png)
 
-Si votre courrier électronique est essentiel et que vous souhaitez qu’il ne dépasse pas les limites de communication, [rendez-le opérationnel](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) en cochant la case. **L’option Ouvrir dans l’éditeur** est sélectionnée par défaut, ce qui signifie simplement que vous souhaitez début de modifier immédiatement votre nouveau courrier électronique. **Créer** des moyens, créer !
+Si votre courrier électronique est essentiel et que vous souhaitez qu’il ne dépasse pas les limites de communication, [le rendre opérationnel](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) en cochant la case. **L’option Ouvrir dans** l’éditeur est sélectionnée par défaut et signifie simplement que vous souhaitez début de modifier immédiatement votre nouveau courrier électronique. **** Créateurs, créez !
 
 ![](assets/three-2.png)
 
-**Les modèles** de démarrage comprennent une collection de modèles de courrier électronique réactifs prêts à l’emploi. Vous pouvez les utiliser en l&#39;état ou les personnaliser à votre gré.
+**Starter** Templatescomprend une collection de modèles de courrier électronique réactifs prêts à l’emploi. Vous pouvez les utiliser en l&#39;état ou les personnaliser à votre gré.
 
 ![](assets/starter-templates.png)
 
 >[!NOTE]
 >
->Les modèles Starter de Marketo sont proposés gratuitement à tous les clients. Bien qu&#39;ils soient continuellement mis à jour et optimisés pour les principaux clients de messagerie (et les périphériques mobiles), vous devez toujours évaluer s&#39;ils répondent à vos besoins. L&#39;outil [de livrabilité des](http://docs.marketo.com/display/DOCS/Email+Deliverability+Tool) courriels de Marketo peut vous montrer les rendus de modèles sur différents clients de messagerie. Malheureusement, Marketo ne peut pas traiter de demandes de conception en dehors des engagements de service payant.
+>Les modèles Starter de Marketo sont proposés gratuitement à tous les clients. Bien qu&#39;ils soient continuellement mis à jour et optimisés pour les principaux clients de messagerie (et les périphériques mobiles), vous devez toujours évaluer s&#39;ils répondent à vos besoins. L&#39;[outil de délivrabilité des e-mails](http://docs.marketo.com/display/DOCS/Email+Deliverability+Tool) de Marketo peut vous montrer les rendus de modèles sur différents clients de messagerie. Malheureusement, Marketo ne peut pas traiter de demandes de conception en dehors des engagements de service payant.
 
-**Mes modèles** sont composés de tous les modèles que vous avez créés. Vous pouvez également avoir des dossiers.   ![](assets/five-2.png)
+**Mes** modèles sont composés de tous les modèles que vous avez créés. Vous pouvez également avoir des dossiers.   ![](assets/five-2.png)
 
 Tous les dossiers qui apparaissent sous Courriels > Modèles dans votre arborescence de Design Studio seront disponibles dans **Mes modèles**.
 
@@ -51,7 +51,7 @@ L’aperçu vous montre comment le modèle est rendu sur un ordinateur de bureau
 
 ![](assets/nine-1.png)
 
-Si vous aimez ce modèle, choisissez-le en cliquant sur **Sélectionner** dans l’angle inférieur droit. Tu veux continuer à regarder ? Cliquez sur le **X** en haut à droite. Utilisez les flèches gauche et droite pour faire défiler les modèles.
+Si vous aimez ce modèle, sélectionnez-le en cliquant sur **Sélectionner** dans le coin inférieur droit. Tu veux continuer à regarder ? Cliquez sur **X** dans l’angle supérieur droit. Utilisez les flèches gauche et droite pour faire défiler les modèles.
 
 ![](assets/ten-1.png)
 
