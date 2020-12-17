@@ -21,9 +21,9 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premises et Marketo, vous de
 
 >[!PREREQUISITES]
 >
->Vous devez avoir un déploiement [](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) Internet Facing [(IFD) avec les services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) de fédérationPrincipale Directory 2.0, 2.1 ou 3.0 (ADFS) configurés. Remarque : Le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
+>[Déploiement Internet Facing](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) avec [Principale Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 ou 3.0 (ADFS) configuré. Remarque : Le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
 >
->[Téléchargez la solution](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) marketing avant de début.
+>[Téléchargez la ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) solution Marketo avant de début.
 
 >[!NOTE]
 >
@@ -43,11 +43,11 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premises et Marketo, vous de
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. Cliquez sur **Parcourir** et sélectionnez la solution [](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)téléchargée. Cliquez sur **Suivant**.
+1. Cliquez sur **Parcourir** et sélectionnez la [solution téléchargée](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Cliquez sur **Suivant**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. Vue les Informations sur la solution et cliquez sur Détails **du package de la solution** Vue.
+1. Vue les informations de solution et cliquez sur **détails du package de la solution de Vue**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
@@ -55,7 +55,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premises et Marketo, vous de
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. De nouveau sur la page Informations sur la solution, cliquez sur **Suivant**.
+1. De retour sur la page Informations sur la solution, cliquez sur **Suivant**.
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 
@@ -79,7 +79,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premises et Marketo, vous de
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
-1. La gestion des pistes marketing s’affiche désormais sur la page **Toutes les solutions** .
+1. La gestion des pistes marketing s’affiche désormais sur la page **Toutes les solutions**.
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
