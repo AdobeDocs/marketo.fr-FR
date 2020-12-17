@@ -19,27 +19,27 @@ Que se passe-t-il si vous souhaitez envoyer un courrier électronique à un resp
 
    ![](assets/one.png)
 
-1. Cliquez dans le champ **De** (supprimez tout nom existant), puis cliquez sur le bouton **Insérer un jeton** .
+1. Cliquez dans le champ **From** (supprimez tout nom existant), puis cliquez sur le bouton **Insérer un jeton**.
 
    ![](assets/two.png)
 
-1. Début de saisie &quot;`{{lead.Lead Owner`&quot; et de sélection du **`{{lead.Lead Owner First Name}}`** jeton.
+1. Début de saisie &quot;`{{lead.Lead Owner`&quot; et de sélection du jeton **`{{lead.Lead Owner First Name}}`**.
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. Entrez une valeur par défaut au cas où le prospect n&#39;aurait pas encore de propriétaire de prospect et cliquez sur **Insérer**.
+1. Entrez une valeur par défaut au cas où le prospect n&#39;aurait pas encore de propriétaire de piste et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
-1. Cliquez après le premier jeton, ajoutez un espace, puis cliquez sur le bouton **Insérer un jeton** .
+1. Cliquez après le premier jeton, ajoutez un espace, puis cliquez sur le bouton **Insérer un jeton**.
 
    ![](assets/five.png)
 
-1. Début de saisie &quot;`{{lead.Lead Owner`&quot; et de sélection du **`{{lead.Lead Owner Last Name}}`** jeton.
+1. Début de saisie &quot;`{{lead.Lead Owner`&quot; et de sélection du jeton **`{{lead.Lead Owner Last Name}}`**.
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. Entrez une valeur par défaut au cas où le prospect n&#39;aurait pas encore de propriétaire de prospect et cliquez sur **Insérer**.
+1. Entrez une valeur par défaut au cas où le prospect n&#39;aurait pas encore de propriétaire de piste et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -50,15 +50,15 @@ Que se passe-t-il si vous souhaitez envoyer un courrier électronique à un resp
    Cliquez dans le champ De l’e-mail (supprimez toute adresse de messagerie existante), puis cliquez sur le bouton Insérer un jeton.
    ![](assets/eight.png)
 
-1. Début de saisie &quot;`{{lead.Lead Owner`&quot; et de sélection du **`{{lead.Lead Owner Email Address}}`** jeton.
+1. Début de saisie &quot;`{{lead.Lead Owner`&quot; et de sélection du jeton **`{{lead.Lead Owner Email Address}}`**.
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. Entrez une valeur par défaut au cas où le prospect n&#39;aurait pas encore de propriétaire de prospect et cliquez sur **Insérer**.
+1. Entrez une valeur par défaut au cas où le prospect n&#39;aurait pas encore de propriétaire de piste et cliquez sur **Insérer**.
 
    ![](assets/ten.png)
 
-1. Assurez-vous que les champs **Réponse** et **Objet** sont renseignés et que vous avez terminé !
+1. Assurez-vous que les champs **Répondre à** et **Objet** sont renseignés et que vous avez terminé !
 
    ![](assets/eleven.png)
 
