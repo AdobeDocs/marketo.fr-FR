@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Exportation utilisée par les données pour un champ {#export-used-by-data-for-a-field}
+# Exporter les données utilisées pour un champ {#export-used-by-data-for-a-field}
 
 En tant qu’administrateur, vous pouvez exporter des actifs connexes d’un champ afin de déléguer la déliaison à votre équipe.
 
@@ -23,7 +23,7 @@ En tant qu’administrateur, vous pouvez exporter des actifs connexes d’un cha
 
    ![](assets/one.png)
 
-1. Cliquez sur Gestion des **champs**.
+1. Cliquez sur **Gestion des champs**.
 
    ![](assets/two-3.png)
 
@@ -31,7 +31,7 @@ En tant qu’administrateur, vous pouvez exporter des actifs connexes d’un cha
 
    ![](assets/three.png)
 
-1. Cliquez sur la liste déroulante Actions **de** champ et sélectionnez **Exporter utilisée par**.
+1. Cliquez sur la liste déroulante **Actions de champ** et sélectionnez **Exporter utilisée par**.
 
    ![](assets/four.png)
 
