@@ -26,10 +26,10 @@ Dans cet article, vous trouverez des informations sur le comportement attendu as
 * PA est accessible en Marketo Sky et en Marketo Classic. La disponibilité de fonctionnalités spécifiques est la suivante :
    * Filtres prédictifs - [!DNL Sky/Classic]
    * Inscriptions prévues - [!DNL Sky/Classic]
-   * Prédictions de probabilités au niveau des pistes - [!DNL Sky/Classic]
+   * Prédictions de probabilité au niveau de l&#39;affaire - [!DNL Sky/Classic]
    * Objectifs et suivi - [!DNL Sky] uniquement
-   * Informations et recommandations - [!DNL Sky] seulement
-* [L’activation](/help/sky/getting-started-with-predictive-audiences.md) initiale prend **24 à 48 heures** pour que tous les processus se terminent une fois l’AP activée. Toutes les fonctions d’Audiences prédictives et de Filtres prédictifs sont visibles dans l’interface, mais ces fonctions peuvent prendre jusqu’à 24 heures pour commencer à fonctionner.
+   * Statistiques et recommandations - [!DNL Sky] uniquement
+* [L’](/help/sky/getting-started-with-predictive-audiences.md) activation initiale prend **24 à 48** heures pour que tous les processus se terminent après l’activation de l’option PA. Toutes les fonctions d’Audiences prédictives et de Filtres prédictifs sont visibles dans l’interface, mais ces fonctions peuvent prendre jusqu’à 24 heures pour commencer à fonctionner.
 * **Les prédictions ne seront générées que pour les nouvelles campagnes créées après l&#39;activation de la fonction.**
 
 ## Il y a d&#39;autres considérations spécifiques aux filtres prédictifs :
@@ -39,9 +39,9 @@ Dans cet article, vous trouverez des informations sur le comportement attendu as
 * Les filtres prédictifs ne sont pas disponibles pour les campagnes de déclenchement.
 * Pour exécuter une campagne intelligente, les filtres de probabilité doivent être utilisés conjointement avec d’autres filtres réguliers.
 * La fonction Règles enregistrées n’est pas disponible pour les campagnes qui contiennent des filtres prédictifs.
-* Vous pouvez utiliser **jusqu’à 5** filtres prédictifs dans une liste intelligente.
-* Les filtres prédictifs peuvent traiter un **maximum de 1 million de pistes** qualifiées.
-* Vous pouvez avoir **jusqu&#39;à 50 programmes** principaux avec des filtres prédictifs. Un programme principal est un programme qui utilise des filtres prédictifs et qui a été planifié au moins une fois.
+* Vous pouvez utiliser des filtres prédictifs **jusqu’à 5** dans une liste intelligente.
+* Les filtres prédictifs peuvent traiter un **maximum de 1 million de pistes qualifiées**.
+* Vous pouvez avoir **jusqu&#39;à 50 programmes principaux** avec des filtres prédictifs. Un programme principal est un programme qui utilise des filtres prédictifs et qui a été planifié au moins une fois.
 
 ## Quand les inscriptions prévues ne sont-elles pas disponibles ?
 
