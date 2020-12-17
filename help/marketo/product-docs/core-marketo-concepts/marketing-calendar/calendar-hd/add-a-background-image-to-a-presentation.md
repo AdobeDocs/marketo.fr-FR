@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ajouter une image d’arrière-plan à une présentation {#add-a-background-image-to-a-presentation}
+# Ajouter une image d&#39;arrière-plan à une présentation {#add-a-background-image-to-a-presentation}
 
 Personnalisez une présentation en sélectionnant une image d’arrière-plan.
 
@@ -23,7 +23,7 @@ Personnalisez une présentation en sélectionnant une image d’arrière-plan.
 
 
 
-1. Cliquez avec le bouton droit sur une présentation et sélectionnez Configuration **de la** Vue.
+1. Cliquez avec le bouton droit sur une présentation et sélectionnez **Configuration de la Vue**.
 
    >[!NOTE]
    >
@@ -39,11 +39,11 @@ Personnalisez une présentation en sélectionnant une image d’arrière-plan.
 
    >[!TIP]
    >
-   >Pour un aspect plus net, utilisez une image de **1920 x 1080** ou **1280 x 720**.
+   >Pour un aspect plus net, utilisez une image **1920 x 1080** ou **1280 x 720**.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Cliquez sur **Prévisualisation** pour l’extraire.
+1. Cliquez sur **Prévisualisation** pour l&#39;extraire.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
