@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Optimiser les pages spécifiques avec les mots-clés ciblés {#seo-optimize-specific-pages-with-targeted-keywords}
+# SEO - Optimiser des pages spécifiques avec des mots-clés ciblés {#seo-optimize-specific-pages-with-targeted-keywords}
 
 Certains mots-clés fonctionnent très bien avec certaines pages. C&#39;est ainsi que vous associez le mot-clé parfait à sa page parfaite. Cela fournira les données les plus précises et les meilleures recommandations à améliorer.
 
-1. Accédez à la section **Pages** .
+1. Accédez à la section **Pages**.
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)a
 
