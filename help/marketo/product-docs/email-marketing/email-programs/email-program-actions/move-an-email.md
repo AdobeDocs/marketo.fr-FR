@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Déplacer un courrier électronique {#move-an-email}
+# Déplacer un courriel {#move-an-email}
 
 Vous devez déplacer un courriel d&#39;un programme à un autre ? Voici comment.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/one-2.png)
 
-1. Recherchez le courrier électronique à déplacer, cliquez dessus avec le bouton droit et sélectionnez **Déplacer**.
+1. Recherchez le courriel à déplacer, cliquez avec le bouton droit de la souris dessus et sélectionnez **Déplacer**.
 
    ![](assets/leadperformance.jpg)
 
-1. Cliquez sur la liste déroulante **Déplacer vers** et sélectionnez Activités **** marketing.
+1. Cliquez sur la liste déroulante **Déplacer vers** et sélectionnez **Activités marketing**.
 
    ![](assets/three-2.png)
 
@@ -31,7 +31,7 @@ Vous devez déplacer un courriel d&#39;un programme à un autre ? Voici comment.
    >
    >Dans cet exemple, nous déplaçons un courrier électronique vers un autre programme, mais vous pouvez également déplacer un courrier électronique vers un dossier dans Design Studio.
 
-1. Cliquez sur la liste déroulante **Programme** , recherchez et sélectionnez le programme de destination, puis cliquez sur **Déplacer**.
+1. Cliquez sur la liste déroulante **Programme**, recherchez et sélectionnez le programme de destination, puis cliquez sur **Déplacer**.
 
    ![](assets/four-2.png)
 
