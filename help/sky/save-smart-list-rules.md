@@ -18,11 +18,11 @@ Enregistrer des règles de liste intelligentes est un excellent moyen de vous fa
 
 ## Enregistrement des règles de Liste intelligente
 
-1. Dans Activités marketing, sélectionnez votre campagne intelligente (ou créez-en une).
+1. Dans [!UICONTROL Activités marketing], sélectionnez votre campagne intelligente (ou créez-en une).
 
    ![Image un](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. Cliquez sur Liste **** intelligente.
+1. Cliquez sur **[!UICONTROL Liste intelligente]**.
 
    ![Image 2](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -32,7 +32,7 @@ Enregistrer des règles de liste intelligentes est un excellent moyen de vous fa
 
    ![Image 4](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. Lorsque vous avez terminé d’ajouter des filtres/déclencheurs, cliquez sur la liste déroulante Actions **[!UICONTROL de Campaign]** dynamiques et sélectionnez **[!UICONTROL Enregistrer la règle]** de Liste intelligente.
+1. Lorsque vous avez terminé d’ajouter des filtres/déclencheurs, cliquez sur la liste déroulante **[!UICONTROL Actions de Campaign intelligente]** et sélectionnez **[!UICONTROL Enregistrer la règle de Liste dynamique]**.
 
    ![Image 5](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
@@ -44,15 +44,15 @@ Et c&#39;est tout ! La prochaine fois que vous créerez une campagne dynamique, 
 
 ## Utilisation des règles de Liste dynamique enregistrées
 
-1. Dans Activités marketing, sélectionnez votre campagne intelligente (ou créez-en une).
+1. Dans [!UICONTROL Activités marketing], sélectionnez votre campagne intelligente (ou créez-en une).
 
    ![Image sept](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. Cliquez sur Liste **** intelligente.
+1. Cliquez sur **[!UICONTROL Liste intelligente]**.
 
    ![Image huit](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. Cliquez sur la liste déroulante Règle **** enregistrée.
+1. Cliquez sur la liste déroulante **[!UICONTROL Règle enregistrée]**.
 
    ![Image neuf](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
@@ -60,7 +60,7 @@ Et c&#39;est tout ! La prochaine fois que vous créerez une campagne dynamique, 
 
    ![Image dix](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-10.png)
 
-1. Votre liste intelligente est automatiquement renseignée avec le même ensemble de règles. Il vous suffit ensuite de suivre les autres étapes de la campagne intelligente.
+1. Votre liste intelligente est automatiquement renseignée avec le même ensemble de règles. Il vous suffit ensuite de suivre les étapes de la campagne intelligente.
 
    ![Image onze](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-11.png)
 
