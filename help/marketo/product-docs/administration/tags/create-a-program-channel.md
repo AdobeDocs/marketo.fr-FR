@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création d’un Canal de Programme {#create-a-program-channel}
+# Créer un Canal de Programme {#create-a-program-channel}
 
 Un programme est une initiative marketing spécifique. Le canal est destiné à être le mécanisme de diffusion, comme le webinaire, le parrainage ou la publicité en ligne.
 
@@ -23,9 +23,9 @@ Un programme est une initiative marketing spécifique. Le canal est destiné à 
 >
 >**Plongée profonde**
 >
->En savoir plus sur [les programmes](http://docs.marketo.com/display/docs/programs), l’élément le plus important de Marketo.
+>En savoir plus sur [programmes](http://docs.marketo.com/display/docs/programs), l&#39;élément le plus important de Marketo.
 
-1. Sous la section **Admin** , cliquez sur **Balises**.
+1. Sous la section **Admin**, cliquez sur **Balises**.
 
    ![](assets/image2014-9-24-12-3a57-3a27.png)
 
@@ -33,11 +33,11 @@ Un programme est une initiative marketing spécifique. Le canal est destiné à 
    >
    >Pourquoi les balises ? Un canal est une façon de décrire un programme, tout comme les autres balises. Le canal est doté de fonctionnalités spéciales.
 
-1. Cliquez sur le signe **+** en regard du **Canal** pour développer et afficher les canaux existants.
+1. Cliquez sur le signe **+** en regard de **Canal** pour développer et afficher les canaux existants.
 
    ![](assets/image2014-9-24-12-3a58-3a33.png)
 
-1. Sous **Nouveau**, cliquez sur **Nouveau Canal**.
+1. Sous **New**, cliquez sur **Nouveau Canal**.
 
    ![](assets/image2014-9-24-12-3a58-3a53.png)
 
@@ -74,7 +74,7 @@ Un programme est une initiative marketing spécifique. Le canal est destiné à 
 
    >[!NOTE]
    >
-   >Appliquer à quoi ? Il existe plusieurs types de programmes. Faites correspondre le canal au type approprié. En cas de doute, sélectionnez **Par défaut**.
+   >Appliquer à quoi ? Il existe plusieurs types de programmes. Faites correspondre le canal au type approprié. En cas de doute, choisissez **Par défaut**.
 
    >[!NOTE]
    >
@@ -83,15 +83,15 @@ Un programme est une initiative marketing spécifique. Le canal est destiné à 
    Saisissez les deux premiers noms d’état du programme, puis cliquez sur Ajouter l’étape.
    ![](assets/image2014-9-24-15-3a37-3a0.png)
 
-1. Saisissez un autre numéro d’ **état** et d’ **étape** du programme, puis cliquez sur **Ajouter l’étape**.
+1. Entrez un autre programme **État** et **numéro d&#39;étape**, puis cliquez sur **Ajouter l&#39;étape**.
 
    ![](assets/image2014-9-24-15-3a37-3a30.png)
 
    >[!TIP]
    >
-   >Le numéro **Step** est utilisé pour le tri des états de programme. Gardez à l’esprit que les gens ne peuvent pas revenir en arrière dans ces étapes de progression. Ils peuvent uniquement modifier l’état en un état de valeur supérieure ou égale. Utilisez les mêmes valeurs lorsque les états sont destinés à basculer d’un état à l’autre plutôt qu’à une progression.
+   >Le nombre **Step** est utilisé pour le tri des états de programme. Gardez à l’esprit que les gens ne peuvent pas revenir en arrière dans ces étapes de progression. Ils peuvent uniquement modifier l’état en un état de valeur supérieure ou égale. Utilisez les mêmes valeurs lorsque les états sont destinés à basculer d’un état à l’autre plutôt qu’à une progression.
 
-1. Saisissez le dernier **état** du programme et le dernier numéro d’ **étape** .
+1. Saisissez le dernier numéro de programme **Etat** et **Etape**.
 
    ![](assets/image2014-9-24-15-3a39-3a15.png)
 
@@ -99,11 +99,11 @@ Un programme est une initiative marketing spécifique. Le canal est destiné à 
    >
    >Lors de l’utilisation du type &quot;Événement&quot;, le mappage système pour les états Registered, Waitlist et Attended est requis. Ces états ne peuvent donc pas être masqués.
 
-1. Sélectionnez le statut **d&#39;arrivée** **mobile pour** l&#39;enregistrement.
+1. Sélectionnez le **statut d&#39;arrivée mobile** pour **Enregistré**.
 
    ![](assets/image2014-9-24-15-3a39-3a43.png)
 
-1. Sélectionnez l&#39;état **d&#39;arrivée des** dispositifs portables pour les **participants**.
+1. Sélectionnez **Mobile Check-in Status** pour **Attended**.
 
    ![](assets/image2014-9-24-15-3a40-3a21.png)
 
@@ -116,13 +116,13 @@ Un programme est une initiative marketing spécifique. Le canal est destiné à 
    >**Rappel**
    >
    >
-   >Seules les personnes ayant un état **d&#39;arrivée** mobile** **des personnes **enregistrées** et **assistées** seront visibles dans les applications d&#39;arrivée [mobile.](http://docs.marketo.com/display/docs/events)
+   >Seules les personnes disposant d&#39;un **statut d&#39;arrivée mobile**** **de **Enregistré** et **Participé** seront visibles dans les [applications d&#39;arrivée mobile](http://docs.marketo.com/display/docs/events).
 
    >[!TIP]
    >
    >Si une nouvelle personne est créée dans l&#39;application d&#39;enregistrement mobile, elle est définie sur Enregistrée dans le programme de événement. Si une personne est enregistrée dans le événement sur l’application, elle est définie sur Participant dans le programme de événement.
 
-1. Sélectionnez l’état du programme de **réussite** , puis cliquez sur **Créer**.
+1. Sélectionnez l’état du programme **Succès**, puis cliquez sur **Créer**.
 
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
