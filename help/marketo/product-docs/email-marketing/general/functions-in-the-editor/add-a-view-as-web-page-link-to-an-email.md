@@ -23,11 +23,11 @@ Les e-mails ont des capacités limitées (CSS limité et aucun code JavaScript o
 
    ![](assets/one-5.png)
 
-1. Dans l’éditeur de courrier électronique, cliquez sur Paramètres **du** courrier électronique.
+1. Dans l’éditeur de courrier électronique, cliquez sur **Paramètres de courrier électronique**.
 
    ![](assets/two-5.png)
 
-1. Cochez la case **Inclure la Vue en tant que page** Web et cliquez sur **Enregistrer**.
+1. Cochez la case **Inclure la Vue en tant que page Web** et cliquez sur **Enregistrer**.
 
    ![](assets/three-4.png)
 
@@ -39,4 +39,4 @@ Voici un exemple de son aspect :
 >
 >Vous ne verrez pas la Vue comme lien Page Web tant que vous n&#39;avez pas envoyé le courrier électronique. Envoyez-vous un test à la vue.
 
-Pour modifier le texte par défaut, voir [Modification du message](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)&quot;Vue en tant que page Web&quot;.
+Pour modifier le texte par défaut, voir [Modification du message &quot;Vue en tant que page Web&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
