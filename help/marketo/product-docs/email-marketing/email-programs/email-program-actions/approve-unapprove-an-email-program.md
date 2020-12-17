@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# Approuver/désapprouver un Programme de messagerie {#approve-unapprove-an-email-program}
+# Approuver/désapprouver un Programme de courriel {#approve-unapprove-an-email-program}
 
 >[!PREREQUISITES]
 >
 >* [Créer un Programme de messagerie](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Définir une Audience avec une Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) dynamique ou en [définissant une Audience en important une Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Définissez une Audience avec une ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) liste dynamique en  [définissant une Audience en important une Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Choisir un courriel](choose-an-existing-email.md) existant ou [créer un courriel pour un Programme de courriel](create-an-email-for-an-email-program.md)
+* [Choisir un ](choose-an-existing-email.md) courriel existant  [Créer un courriel pour un Programme de courriel](create-an-email-for-an-email-program.md)
    >
    >
 * [Planification de votre Programme de messagerie](schedule-your-email-program.md)
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Maintenant que votre programme est prêt, l&#39;étape finale est de l&#39;approuver. Voici comment procéder :
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -44,7 +44,7 @@ Maintenant que votre programme est prêt, l&#39;étape finale est de l&#39;appro
    >
    >Si vous n&#39;approuvez pas votre programme de messagerie, celui-ci ne sera pas envoyé.
 
-1. Sous la mosaïque **Approbation** , cliquez sur **Approuver le Programme**.
+1. Sous la mosaïque **Approbation**, cliquez sur **Approuver le Programme**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -60,7 +60,7 @@ Maintenant que votre programme est prêt, l&#39;étape finale est de l&#39;appro
 
 Si vous changez d&#39;avis et décidez que vous ne voulez pas qu&#39;il sorte, vous pouvez désapprouver le programme de messagerie.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -68,7 +68,7 @@ Si vous changez d&#39;avis et décidez que vous ne voulez pas qu&#39;il sorte, v
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. Sous la mosaïque **Approbation** , cliquez simplement sur le Programme **** Non approuvé.
+1. Sous la mosaïque **Approbation**, cliquez simplement sur **Programme non approuvé**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 
