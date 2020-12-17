@@ -31,7 +31,7 @@ Dans cet article, vous allez personnaliser les autorisations de champ avec une m
 
 Salesforce Professional définit l&#39;accessibilité au niveau des champs avec les mises en page, contrairement aux Profils de Salesforce Enterprise/Unlimited. Suivez ces étapes pour permettre à l’utilisateur de synchronisation de Marketing de mettre à jour les champs personnalisés.
 
-1. Tapez **des mises en page** dans la barre de recherche Nav sans appuyer sur **Entrée**, puis cliquez sur **Mise en page** sous **Pistes.**
+1. Tapez **dispositions de page** dans la barre de recherche Nav sans appuyer sur **Entrée**, puis cliquez sur **Mise en page** sous **Pistes**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
@@ -43,11 +43,11 @@ Salesforce Professional définit l&#39;accessibilité au niveau des champs avec 
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Saisissez &quot;Marketo&quot; pour le nom **de la** section, puis cliquez sur **OK**.
+1. Saisissez &quot;Marketo&quot; pour **Nom de la section** et cliquez sur **OK**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Cliquez sur le champ Date **d’** acquisition et faites-le glisser dans la section **Marketo** .
+1. Cliquez et faites glisser le champ **Date d’acquisition** dans la section **Marketo**.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -82,11 +82,11 @@ Salesforce Professional définit l&#39;accessibilité au niveau des champs avec 
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Répétez toutes les étapes ci-dessus pour la mise en page **de la page de** contact Salesforce.
+1. Répétez toutes les étapes ci-dessus pour le Salesforce **Mise en page de la page de contact**.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Pensez à cliquer sur **Enregistrer** lorsque vous avez terminé avec la mise en page **de la page de** contact.
+1. Pensez à cliquer sur **Enregistrer** lorsque vous avez terminé avec la **Mise en page de la page de contact**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
@@ -95,7 +95,7 @@ Salesforce Professional définit l&#39;accessibilité au niveau des champs avec 
    >**Rappel**
    >
    >
-   >Assurez-vous que le champ Événement **** toute la journée a été ajouté à la mise en page **de la page du**&#x200B;Événement.
+   >Assurez-vous que le champ **Événement de toute la journée** a été ajouté à la **Mise en page du Événement**.
 
 ## Créer un utilisateur de synchronisation {#create-sync-user}
 
@@ -103,9 +103,9 @@ Marketo requiert des informations d’identification pour accéder à Salesforce
 
 >[!NOTE]
 >
->Si votre entreprise ne dispose pas de licences Salesforce supplémentaires, vous pouvez utiliser un utilisateur **** Marketing existant avec le profil Administrateur **** système.
+>Si votre entreprise ne dispose pas de licences Salesforce supplémentaires, vous pouvez utiliser un **utilisateur marketing** existant avec le profil **Administrateur système**.
 
-1. Saisissez &quot;users&quot; dans la barre de recherche Nav, puis cliquez sur **Users** sous **Manage Users**(Gérer les utilisateurs).
+1. Saisissez &quot;users&quot; dans la barre de recherche Nav, puis cliquez sur **Utilisateurs** sous **Gérer les utilisateurs**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
@@ -113,7 +113,7 @@ Marketo requiert des informations d’identification pour accéder à Salesforce
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Renseignez les champs obligatoires, sélectionnez la licence **utilisateur : Salesforce**, définissez le **Profil : Administrateur** système, vérifiez **Marketing User** et cliquez sur **Enregistrer**.
+1. Renseignez les champs obligatoires, sélectionnez la **Licence utilisateur : Salesforce**, définissez le **Profil : Administrateur système**, cochez **Utilisateur marketing** et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
