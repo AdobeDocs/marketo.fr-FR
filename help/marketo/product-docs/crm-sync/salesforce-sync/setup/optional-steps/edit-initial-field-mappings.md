@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Rappel**
 >
->Cette fonction est accessible uniquement avant la synchronisation initiale avec Salesforce ! Une fois que vous avez appuyé sur le bouton **Synchroniser maintenant** , vous ne pouvez plus effectuer cette opération.
+>Cette fonction est accessible uniquement avant la synchronisation initiale avec Salesforce ! Une fois le bouton **Synchroniser maintenant** enfoncé, cela ne peut plus être fait.
 
 Lors de la synchronisation initiale avec Salesforce, Marketo combine automatiquement des champs personnalisés portant le même nom dans un seul champ du côté Marketo afin de garantir que les données peuvent être échangées avec les objets Lead et Contact dans la gestion de la relation client. Cet article explique comment personnaliser ces mappages.
 
@@ -29,7 +29,7 @@ Lorsque vous voyez un champ dans le dossier Champs non mappés, cela signifie qu
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Ouvrez le dossier Champs **personnalisés** non mappés.
+1. Ouvrez le dossier **Champs personnalisés non mappés**.
 
    ![](assets/two.png)
 
@@ -53,7 +53,7 @@ Si vous avez des champs portant le même nom sur le prospect et l&#39;objet de c
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
-1. Mettez en surbrillance un champ mappé et cliquez sur Mappage **des** sauts pour séparer les champs.
+1. Mettez en surbrillance un champ mappé et cliquez sur **Rompre le mappage** pour séparer les champs.
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
