@@ -14,13 +14,13 @@ ht-degree: 0%
 ---
 
 
-# Documents Marketo Sky {#sky}
+# Docs Marketo Sky {#sky}
 
 + [Accueil](home.md)
 + Prise en main {#getting-started}
    + [Fonctionnalités du Marketo Sky](marketo-sky-features.md)
    + [Comment démarrer](how-to-enable-roles-for-marketo-sky.md)
-+ Programmes événements {#event-programs}
++ Programmes de événement {#event-programs}
    + [Définition d’une limite de Événement](setting-an-event-cap.md)
    + [Définition des objectifs du Événement](setting-event-goals.md)
 + Dossiers Campaign {#campaign-folders}
@@ -53,7 +53,7 @@ ht-degree: 0%
    + [Présentation des Programmes d’engagement](understanding-engagement-programs.md)
    + [Présentation de la note d’engagement](understanding-the-engagement-score.md)
    + [Utilisation d’un Programme dans un flux de Programme d’engagement](using-a-program-in-an-engagement-program-stream.md)
-+ Étiquettes {#labels}
++ Libellés {#labels}
    + [Ajouter et supprimer des étiquettes](add-and-remove-labels.md)
    + [Copier les étiquettes de l’original vers le clone](copy-labels-from-original-to-clone.md)
    + [Copier les étiquettes du parent vers l&#39;enfant](copy-labels-from-parent-to-child.md)
@@ -87,7 +87,7 @@ ht-degree: 0%
    + [Ressources locales : Actions en masse](local-assets-mass-actions.md)
    + [Utilisation de l’onglet Aperçu du Programme](using-the-program-overview-tab.md)
    + [Utilisation de l’onglet Configuration de Programme](using-the-program-setup-tab.md)
-+ vue Planning du programme {#program-schedule-view}
++ vue de Planning du programme {#program-schedule-view}
    + [Créer une entrée de base dans une Vue de Planning du programme](create-a-basic-entry-in-program-schedule-view.md)
    + [Création d’une Campaign intelligente par lot dans la Vue de Planning du programme](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [Création d’un Programme de courriel dans Planning du programme Vue](create-an-email-program-in-program-schedule-view.md)
@@ -115,7 +115,7 @@ ht-degree: 0%
    + [Planification de l’exécution ultérieure d’une Campaign dynamique par lot](schedule-a-batch-smart-campaign-to-run-later.md)
    + [Planification d’une Campaign de lot périodique](schedule-a-recurring-batch-campaign.md)
    + [Présentation des campagnes dynamiques par lot et déclencheur](understanding-batch-and-trigger-smart-campaigns.md)
-+ Listes intelligentes et Listes statiques {#smart-lists-and-static-lists}
++ Listes dynamiques et Listes statiques {#smart-lists-and-static-lists}
    + [Enregistrer les actions de flux](save-flow-actions.md)
    + [Enregistrer les règles de Liste intelligente](save-smart-list-rules.md)
 + Arbre {#tree}
