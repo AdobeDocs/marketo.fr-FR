@@ -20,7 +20,7 @@ Vous pouvez désactiver un programme d’engagement avec le clic d’un interrup
 
    ![Image un](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Configuration]** .
+1. Cliquez sur l&#39;onglet **[!UICONTROL Configuration]**.
 
    ![Image 2](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ Vous pouvez désactiver un programme d’engagement avec le clic d’un interrup
    >
    >Les programmes d’engagement sont ACTIFS par défaut, sauf si vous avez dépassé la limite de votre abonnement.
 
-1. Il y a un bouton [!UICONTROL Programme] à droite. Sélectionnez **[!UICONTROL Activé]** ou **[!UICONTROL Désactivé]**.
+1. Il y a un bouton [!UICONTROL Programme] à droite. Sélectionnez **[!UICONTROL On]** ou **[!UICONTROL Off]**.
 
    ![Image trois](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
