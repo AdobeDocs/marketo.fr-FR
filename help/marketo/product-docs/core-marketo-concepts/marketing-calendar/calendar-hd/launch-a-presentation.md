@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lancement d’une présentation {#launch-a-presentation}
+# Lancer une présentation {#launch-a-presentation}
 
 Une fois que vous avez défini les vues et la fréquence de rotation de votre présentation, il est temps de vous faire exploser !
 
@@ -32,13 +32,13 @@ Une fois que vous avez défini les vues et la fréquence de rotation de votre pr
 
 >[!TIP]
 >
->Veillez à **Prévisualisation une présentation** avant de la lancer.
+>Veillez à **Prévisualisation une présentation** avant de lancer la présentation.
 
 1. Cliquez sur **Lancer**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Cliquez une nouvelle fois sur **Lancer** . Cela vous déconnectera de Marketo afin que la présentation puisse être affichée en toute sécurité.
+1. Cliquez à nouveau sur **Lancer**. Cela vous déconnectera de Marketo afin que la présentation puisse être affichée en toute sécurité.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
