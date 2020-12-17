@@ -23,7 +23,7 @@ L’activation d’une campagne active déclencheur est comme son activation. Vo
    >
    >Passez en revue la campagne intelligente avant de l’activer.
 
-1. Cliquez de **nouveau sur Activer** .
+1. Cliquez de nouveau sur **Activer**.
 
    ![](assets/activatecampaign-hand.png)
 
