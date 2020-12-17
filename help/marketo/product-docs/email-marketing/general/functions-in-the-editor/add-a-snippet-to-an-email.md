@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ajouter un extrait de code à un courriel {#add-a-snippet-to-an-email}
+# Ajouter un extrait de code à un courrier électronique {#add-a-snippet-to-an-email}
 
 Les extraits de code sont des blocs réutilisables de texte enrichi et de graphiques que vous pouvez utiliser dans vos courriels et landings page.
 
@@ -22,7 +22,7 @@ Les extraits de code sont des blocs réutilisables de texte enrichi et de graphi
 
 >[!NOTE]
 >
->Vous ne pouvez pas incorporer d’extraits de code de [syntaxine](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)Marketo par courriel ; cela **ne fonctionnera pas** dans un courriel. Les extraits de code doivent être simplement du contenu du corps (HTML + TEXTE).
+>Vous ne pouvez pas incorporer de [syntaxe de courriel de marketing](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)dans des extraits de code ; **ne fonctionne pas** dans un courrier électronique. Les extraits de code doivent être simplement du contenu du corps (HTML + TEXTE).
 
 1. Recherchez votre adresse électronique, sélectionnez-la et cliquez sur **Modifier le brouillon**.
 
@@ -32,7 +32,7 @@ Les extraits de code sont des blocs réutilisables de texte enrichi et de graphi
 
    ![](assets/two-2.png)
 
-1. Sélectionnez le fragment de code de votre choix, puis cliquez sur **Enregistrer**.
+1. Sélectionnez le fragment de code de votre choix et cliquez sur **Enregistrer**.
 
    ![](assets/three-1.png)
 
@@ -44,6 +44,6 @@ Les extraits de code sont des blocs réutilisables de texte enrichi et de graphi
 
    >[!NOTE]
    >
-   >Chaque fois que vous mettez à jour et approuvez votre extrait de code, les modifications sont répercutées dans le courrier électronique. Le courrier électronique sera rédigé à moins que vous n’approuviez le fragment avec [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Chaque fois que vous mettez à jour et approuvez votre extrait de code, les modifications sont répercutées dans le courrier électronique. Le courrier électronique sera rédigé à moins que vous n’approuviez le fragment de code avec [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
 
 Il s’agit d’un moyen simple et rapide de réutiliser le contenu dynamique.
