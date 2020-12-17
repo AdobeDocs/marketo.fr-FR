@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Optimisation du référencement : Ajouter/supprimer la page de la Liste {#seo-add-remove-page-from-list}
+# SEO - Ajouter/supprimer la page de la Liste {#seo-add-remove-page-from-list}
 
 Vous souhaitez gérer vos pages ? Vous pouvez facilement le faire en créant une liste. Vous pouvez utiliser des listes pour organiser les pages ou filtrer les données dans des tableaux de bord.
 
 ## Ajouter la page à une Liste {#add-page-to-a-list}
 
-1. Accédez à la section **Pages** .
+1. Accédez à la section **Pages**.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Passez la souris sur la page à ajouter à une liste. Cliquez sur **AJOUTER/SUPPRIMER DE LA LISTE**.
+1. Passez la souris sur la page à ajouter à une liste. Cliquez sur **AJOUTER/SUPPRIMER de la LISTE**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -49,7 +49,7 @@ Vous souhaitez gérer vos pages ? Vous pouvez facilement le faire en créant une
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Passez la souris sur la page à supprimer. Cliquez sur **AJOUTER/SUPPRIMER DE LA LISTE**.
+1. Passez la souris sur la page à supprimer. Cliquez sur **AJOUTER/SUPPRIMER de la LISTE**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
