@@ -20,7 +20,7 @@ Lorsque vous êtes prêt, vous pouvez déclarer un champion pour votre test de m
 >* [Champion/Challenger : Approuver votre test de messagerie](champion-challenger-approve-your-email-test.md)
 
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -32,17 +32,17 @@ Lorsque vous êtes prêt, vous pouvez déclarer un champion pour votre test de m
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Définissez la date **de** déclaration.
+1. Définissez la **Date de déclaration**.
 
    >[!NOTE]
    >
-   >Jusqu&#39;à la date **de** déclaration, Marketo continuera à envoyer le(s) vieux(s) champion(s) et challenger(s). Une fois la date et l&#39;heure atteintes, seul le nouveau champion sera envoyé.
+   >Jusqu&#39;à la **Date de déclaration**, Marketo continuera d&#39;envoyer l&#39;ancien champion et challenger. Une fois la date et l&#39;heure atteintes, seul le nouveau champion sera envoyé.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Notez que la date **de** déclaration par défaut est demain, pas aujourd’hui.
+   >Notez que la valeur par défaut **Déclarer la date** est demain et non aujourd’hui.
 
    Sélectionnez une heure et cliquez sur **Enregistrer**.
 
