@@ -24,14 +24,14 @@ Les campagnes dynamiques par lot ne comportent que des filtres dans la section d
 
 ![Image un](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Cliquez sur l’onglet **[!UICONTROL Planifier]** pour confirmer que la campagne dynamique est définie sur &quot;Lot&quot;.
+Cliquez sur l&#39;onglet **[!UICONTROL Planification]** pour confirmer que la campagne dynamique est définie sur &quot;Lot&quot;.
 
 ![Image 2](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Batch Smart Campaigns**
 
 * Peut être planifié pour des récurrences, telles que quotidiennes, hebdomadaires et mensuelles. Vous pouvez également les faire exécuter une seule fois.
-* Sont visibles sur la vue [de](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View)Planning du programme.
+* Sont visibles sur la [vue de Planning du programme](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View).
 * Tout ce qui suit une étape &quot;Attente&quot; dans la campagne intelligente ne sera pas inclus dans la vue.
 
 ## Trigger Smart Campaign
@@ -42,15 +42,15 @@ Si une campagne intelligente utilise au moins un déclencheur dans la section li
 
 ![Image trois](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Cliquez sur l’onglet **[!UICONTROL Planifier]** pour confirmer que la campagne dynamique est définie sur &quot;Déclencheur&quot;.
+Cliquez sur l&#39;onglet **[!UICONTROL Planification]** pour confirmer que la campagne dynamique est définie sur &quot;Déclencheur&quot;.
 
 ![Image 4](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Déclencher des campagnes dynamiques**
 
 * Impossible de planifier les répétitions. Ils ne peuvent être définis que sur principal ou inactif.
-* Vous pouvez définir plusieurs déclencheurs. Cependant, si _un déclencheur quelconque_ est déclenché, les actions de campagne s&#39;exécutent.
+* Vous pouvez définir plusieurs déclencheurs. Cependant, si _un déclencheur_ est déclenché, les actions de campagne s&#39;exécuteront.
 
 >[!TIP]
 >
->Utilisez le journal [des](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) activités pour déterminer les étapes successives de vos campagnes intelligentes. Le journal des activités se trouve dans le dernier onglet de la page des détails d’une personne.
+>Utilisez le [journal des activités](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) pour déterminer ce qui s&#39;est passé pas à pas dans vos campagnes dynamiques. Le journal des activités se trouve dans le dernier onglet de la page des détails d’une personne.
