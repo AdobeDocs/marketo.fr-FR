@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Disponible uniquement lorsqu&#39;il est intégré à Salesforce.
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Utilisez cette étape de flux pour convertir une personne en contact dans Salesforce. Vous pouvez décider à qui attribuer le contact, envoyer une notification au propriétaire et définir un état converti.
 
@@ -25,7 +25,7 @@ Utilisez cette étape de flux pour convertir une personne en contact dans Salesf
 
 ## Utilisation {#usage}
 
-1. Sélectionnez à qui vous voulez **affecter** le contact, le compte et l&#39;opportunité qui en résultent.
+1. Sélectionnez qui **attribuer** le contact, le compte et l&#39;opportunité qui en résultent.
 
    ![](assets/two-2.png)
 
@@ -33,11 +33,11 @@ Utilisez cette étape de flux pour convertir une personne en contact dans Salesf
    >
    >La conversion d’une personne sur le marché se traduira par un nouveau compte et une nouvelle opportunité dans Salesforce. Si vous ne souhaitez pas de comptes de duplicata, utilisez Salesforce pour effectuer une conversion.
 
-1. Choisissez si vous souhaitez qu’une **notification** soit envoyée au propriétaire ou non.
+1. Choisissez si vous souhaitez envoyer une **notification** au propriétaire ou non.
 
    ![](assets/three-2.png)
 
-1. Sélectionnez l’état **** converti.
+1. Sélectionnez l&#39;**état converti**.
 
    ![](assets/four-3.png)
 
