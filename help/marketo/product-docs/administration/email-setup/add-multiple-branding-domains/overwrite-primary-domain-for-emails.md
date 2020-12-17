@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Remplacer le domaine Principal des courriers électroniques {#overwrite-primary-domain-for-emails}
+# Remplacer le domaine Principal pour les courriels {#overwrite-primary-domain-for-emails}
 
 Vous pouvez remplacer le domaine de marque Principal par courriel. Cela changera la marque des liens lors de l’envoi du courrier électronique.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez un courrier électronique et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez un courriel et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2016-8-26-11-3a48-3a7.png)
 
