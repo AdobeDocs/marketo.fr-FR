@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les balises sont des attributs qui décrivent vos programmes et sont utilisés pour regrouper les types de programmes dans le rapports.
 
-## Utilisation d’une balise dans un Programme {#use-a-tag-in-a-program}
+## Utiliser une balise dans un Programme {#use-a-tag-in-a-program}
 
 1. Sélectionnez votre programme. Cliquez sur **Configuration**.
 
@@ -37,9 +37,9 @@ Les balises sont des attributs qui décrivent vos programmes et sont utilisés p
 
    ![](assets/image2014-9-23-15-3a45-3a47.png)
 
-## Modification d’une balise {#edit-a-tag}
+## Modifier une balise {#edit-a-tag}
 
-1. Accédez à l’onglet **Configuration** . Cliquez avec le bouton droit de la souris sur la balise . Sélectionnez **Modifier**.
+1. Accédez à l&#39;onglet **Configuration**. Cliquez avec le bouton droit de la souris sur la balise . Sélectionnez **Modifier**.
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -55,9 +55,9 @@ Les balises sont des attributs qui décrivent vos programmes et sont utilisés p
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## Suppression d’une balise  {#delete-a-tag}
+## Supprimer une balise {#delete-a-tag}
 
-1. Accédez à l’onglet **Configuration** . Cliquez avec le bouton droit de la souris sur la balise et sélectionnez **Supprimer**.
+1. Accédez à l&#39;onglet **Configuration**. Cliquez avec le bouton droit de la souris sur la balise et sélectionnez **Supprimer**.
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
