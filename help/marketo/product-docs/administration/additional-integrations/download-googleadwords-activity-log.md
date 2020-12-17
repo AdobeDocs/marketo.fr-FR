@@ -19,7 +19,7 @@ Des choses arrivent. Il arrive que vous deviez télécharger le journal des acti
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. Recherchez votre service Google AdWords et cliquez sur **Télécharger le journal** des Activités.
+1. Recherchez votre service Google AdWords et cliquez sur **Télécharger le journal des Activités**.
 
    ![](assets/image2015-4-22-17-3a49-3a49.png)
 
