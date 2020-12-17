@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Activation ou désactivation des fonctionnalités du coffre à trésors {#enable-or-disable-treasure-chest-features}
+# Activation ou désactivation des fonctionnalités de la poitrine de trésor {#enable-or-disable-treasure-chest-features}
 
 Le coffre au trésor contient des fonctions expérimentales amusantes qui ne sont pas entièrement prises en charge.
 
@@ -19,7 +19,7 @@ Le coffre au trésor contient des fonctions expérimentales amusantes qui ne son
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Admin **Cliquez sur **Trésor**.
+1. Sous **Admin **cliquez sur **Poitrine de trésor**.
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
@@ -27,7 +27,7 @@ Le coffre au trésor contient des fonctions expérimentales amusantes qui ne son
 
    ![](assets/image2014-9-16-16-3a53-3a42.png)
 
-1. Cochez la case **Activé** pour l’activer ou désactivez-la pour la désactiver, puis cliquez sur **Enregistrer**.
+1. Cochez la case **Activé** pour activer ou désactiver, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-16-16-3a53-3a53.png)
 
