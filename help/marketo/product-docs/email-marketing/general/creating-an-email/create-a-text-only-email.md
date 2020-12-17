@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Créer un message électronique Texte uniquement {#create-a-text-only-email}
+# Créer un courriel texte seulement {#create-a-text-only-email}
 
 Si vous souhaitez envoyer des messages électroniques en format texte uniquement, voici comment créer un message qui sortira sans contenu HTML.
 
 >[!NOTE]
 >
->Comme les ouvertures sont suivies par le destinataire qui télécharge les images du courrier électronique (y compris un pixel de suivi invisible), les ouvertures **ne peuvent pas** être suivies pour les courriers électroniques Texte seulement.
+>Comme les ouvertures sont suivies par le destinataire qui télécharge les images du courrier électronique (y compris un pixel de suivi invisible), les ouvertures ne peuvent pas être suivies pour les courriers électroniques au format texte seulement.****
 
-1. Accédez à la zone Activités **** marketing.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/one-1.png)
 
-1. Sélectionnez votre programme, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouveau fichier** local.
+1. Sélectionnez votre programme, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouveau fichier local**.
 
    ![](assets/two-1.png)
 
@@ -35,23 +35,23 @@ Si vous souhaitez envoyer des messages électroniques en format texte uniquement
 
    ![](assets/four-1.png)
 
-1. Dans l’éditeur de courrier électronique, cliquez sur Paramètres **du** courrier électronique.
+1. Dans l’éditeur de courrier électronique, cliquez sur **Paramètres de courrier électronique**.
 
    ![](assets/five.png)
 
-1. Cochez la case **Texte seulement** et cliquez sur **Enregistrer**.
+1. Cochez **Texte seulement** et cliquez sur **Enregistrer**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >Les liens ne sont pas automatiquement suivis dans les messages électroniques en texte seulement. Découvrez comment [Ajouter des liens suivis à un courriel](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)de texte.
+   >Les liens ne sont pas automatiquement suivis dans les messages électroniques en texte seulement. Voir comment [Ajouter les liens suivis à un courriel de texte](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
    >Vous pouvez également modifier un courrier électronique existant et modifier ce paramètre. N&#39;oubliez pas d&#39;approuver le brouillon.
 
-1. Décochez la case Copier **automatiquement du code HTML** .
+1. Décochez la case **Copier automatiquement du code HTML**.
 
    ![](assets/seven.png)
 
@@ -63,7 +63,7 @@ Si vous souhaitez envoyer des messages électroniques en format texte uniquement
 
    ![](assets/eight.png)
 
-1. Modifiez votre texte, puis cliquez sur **Enregistrer**.
+1. Modifiez votre texte et cliquez sur **Enregistrer**.
 
    ![](assets/nine.png)
 
