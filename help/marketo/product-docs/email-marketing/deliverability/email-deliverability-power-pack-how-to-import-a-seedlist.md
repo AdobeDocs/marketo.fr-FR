@@ -23,15 +23,15 @@ Une liste initiale est une liste de comptes de messagerie de plusieurs fournisse
 
 ## Importer une liste de semences {#import-a-seedlist}
 
-1. Accédez à Outils **de** délivrabilité.
+1. Accédez à **Outils de délivrabilité**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur **Informant** de boîte de réception.
+1. Cliquez sur **Informant de boîte de réception**.
 
    ![](assets/two-1.png)
 
-1. Cliquez sur **Obtenir la liste** de semences.
+1. Cliquez sur **Get Seedlist**.
 
    ![](assets/three-1.png)
 
@@ -43,7 +43,7 @@ Une liste initiale est une liste de comptes de messagerie de plusieurs fournisse
    >
    >Choisissez **Optimiser la Liste** si vous souhaitez que 250ok [optimise votre liste](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) pour vous. Choisissez** Personnaliser la Liste** si vous souhaitez sélectionner les régions de liste de sélection à inclure.
 
-1. Après l’exportation, la liste s’affichera sous la forme d’un fichier .txt dans le dossier des téléchargements de votre navigateur. Récupérez-la et [importez](../../../getting-started/quick-wins/import-a-list-of-people.md) -la dans votre instance de marketing en tant que liste statique.
+1. Après l’exportation, la liste s’affichera sous la forme d’un fichier .txt dans le dossier des téléchargements de votre navigateur. Récupérez-la et [importez](../../../getting-started/quick-wins/import-a-list-of-people.md)-la dans votre instance Marketo en tant que liste statique.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ Une liste initiale est une liste de comptes de messagerie de plusieurs fournisse
 
    >[!CAUTION]
    >
-   >Vous obtenez un nombre limité de ces campagnes Informant de boîte de réception par mois. Pour en savoir plus, consultez les Paramètres **de votre** compte 250ok. Pour en savoir plus, veuillez contacter votre représentant commercial Marketing Cloud.
+   >Vous obtenez un nombre limité de ces campagnes Informant de boîte de réception par mois. Pour en savoir plus, consultez les **Paramètres du compte** 250ok. Pour en savoir plus, veuillez contacter votre représentant commercial Marketing Cloud.
 
 ## Acquisition de nouvelles listes de semences {#acquiring-new-seedlists}
 
