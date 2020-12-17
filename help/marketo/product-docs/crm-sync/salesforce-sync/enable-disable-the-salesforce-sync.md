@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Lorsque vous apportez des modifications importantes à vos paramètres de synchronisation ou de champ, désactivez la synchronisation pendant la configuration. Voici comment procéder :
 
-1. Accédez à la section **Admin** .
+1. Accédez à la section **Admin**.
 
    ** ![](assets/image2014-12-10-13-3a24-3a35.png)
 
