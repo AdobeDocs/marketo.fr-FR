@@ -20,7 +20,7 @@ Si vous devez supprimer un flux de votre programme d’engagement, suivez ces é
 
    ![Image un](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Flux]**.
 
    ![Image 2](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ Si vous devez supprimer un flux de votre programme d’engagement, suivez ces é
    >La suppression d’un flux entraîne la perte de données historiques pour
    >le contenu de ce flux.
 
-1. Cliquez sur l’icône représentant un engrenage, puis sélectionnez **[!UICONTROL Supprimer]**.
+1. Cliquez sur l’icône d’engrenage, puis sélectionnez **[!UICONTROL Supprimer]**.
 
    ![Image trois](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
