@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Optimisation du référencement : Ajouter un site/Supprimer un site {#seo-add-a-site-delete-a-site}
+# SEO - Ajouter un site/Supprimer un site {#seo-add-a-site-delete-a-site}
 
 Pour que Marketing puisse extraire des données (liens entrants et recommandations) pertinentes pour les pages de votre site, vous devez définir l’URL du site ici.
 
@@ -35,11 +35,11 @@ Pour que Marketing puisse extraire des données (liens entrants et recommandatio
 
    ![](assets/two.png)
 
-1. Saisissez le **nom, l’URL** du site Web et cliquez sur **Enregistrer**.
+1. Saisissez le **nom, l’URL du site Web** et cliquez sur **Enregistrer**.
 
    >[!TIP]
    >
-   >Vous pouvez également ajouter une ** **URL **de** blog si vous en avez une.
+   >Vous pouvez également ajouter une ** ****URL du blog** si vous en avez une.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -47,7 +47,7 @@ Pour que Marketing puisse extraire des données (liens entrants et recommandatio
 
    ![](assets/four.png)
 
-## Suppression d’un site {#delete-a-site}
+## Supprimer un site {#delete-a-site}
 
 Si vous effectuez le suivi de plusieurs sites, vous pouvez également supprimer un site que vous ne souhaitez plus optimiser.
 
@@ -67,5 +67,5 @@ Confirmez que vous souhaitez supprimer.
 
    >[!NOTE]
    >
-   >Vous ne pouvez supprimer un site que si vous en avez plusieurs. Si vous n&#39;en avez qu&#39;un, vous pouvez effectuer une réinitialisation en sélectionnant le site et en cliquant sur **Réinitialiser**. La réinitialisation d&#39;un site *supprime toutes les données* du site et recrée le site.
+   >Vous ne pouvez supprimer un site que si vous en avez plusieurs. Si vous n&#39;en avez qu&#39;un, vous pouvez effectuer une réinitialisation en sélectionnant le site et en cliquant sur **Réinitialiser**. La réinitialisation d&#39;un site *supprime toutes les données du site* et recrée le site.
 
