@@ -31,7 +31,7 @@ Il est assez facile d’exporter une liste complète de vos utilisateurs et rôl
 
    >[!TIP]
    >
-   >Pour exporter des rôles, accédez d’abord à l’onglet **Rôles**** **, puis exportez-les.
+   >Pour exporter des rôles, accédez d&#39;abord à l&#39;onglet **Rôles**** **puis exportez-le.
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
