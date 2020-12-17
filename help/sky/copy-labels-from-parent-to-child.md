@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Pour copier des libellés d’un parent vers une ressource enfant, accédez à la page [!UICONTROL Détails] de la ressource sous l’onglet [!UICONTROL Aperçu] .
+Pour copier des libellés d’un parent vers une ressource enfant, accédez à la page [!UICONTROL Détails] de la ressource sous l’onglet [!UICONTROL Aperçu].
 
-Sous la section [!UICONTROL Étiquettes] , cliquez sur **[!UICONTROL Copier les étiquettes du parent]**.
+Sous la section [!UICONTROL Étiquettes], cliquez sur **[!UICONTROL Copier les étiquettes du parent]**.
 
 ![Image un](/help/sky/assets/labels/copy-labels-from-parent-to-child/copy-labels-from-parent-to-child-1.jpg)
 
