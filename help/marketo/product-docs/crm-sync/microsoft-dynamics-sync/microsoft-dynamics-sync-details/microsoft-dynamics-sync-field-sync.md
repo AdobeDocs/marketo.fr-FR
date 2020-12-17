@@ -35,11 +35,11 @@ Oui, vous pouvez [synchroniser le champ](https://docs.marketo.com/pages/viewpage
 
 Quels champs seront synchronisés avec Marketo ?
 
-Vous pouvez [sélectionner les champs à synchroniser](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) lors de la configuration.
+Vous pouvez [sélectionner les champs à synchroniser](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) pendant la configuration.
 
 ## Que se passe-t-il si je dois ajouter un champ personnalisé après la synchronisation de Marketing et de Dynamics ? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-Vous pouvez ajouter des champs à tout moment et vous attendez à ce que les données soient actualisées de Dynamics vers Marketo. Voir [Utilisation de la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) personnalisé pour en savoir plus.
+Vous pouvez ajouter des champs à tout moment et vous attendez à ce que les données soient actualisées de Dynamics vers Marketo. Voir [Utilisation de la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ personnalisé](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) pour plus d&#39;informations.
 
 >[!MORELIKETHIS]
 >
