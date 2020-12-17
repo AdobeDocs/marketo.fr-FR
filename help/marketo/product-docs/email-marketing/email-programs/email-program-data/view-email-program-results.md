@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Tout comme l’onglet Résultats des campagnes intelligentes, vous pouvez afficher les mêmes informations dans les programmes électroniques.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -31,7 +31,7 @@ Tout comme l’onglet Résultats des campagnes intelligentes, vous pouvez affich
 
    ![](assets/controlpanelview.jpg)
 
-1. Sous la mosaïque **Audience** , cliquez sur Résultats **de la** Vue.
+1. Sous la mosaïque **Audience**, cliquez sur **Résultats de la Vue**.
 
    ![](assets/audiencetile.jpg)
 
@@ -43,5 +43,5 @@ Tout comme l’onglet Résultats des campagnes intelligentes, vous pouvez affich
 >
 >**Plongée profonde**
 >
->Vous souhaitez en savoir plus sur les Programmes [de](http://docs.marketo.com/display/docs/email+program+actions)courriel ?
+>Vous souhaitez en savoir plus sur les [Programmes de courriel](http://docs.marketo.com/display/docs/email+program+actions) ?
 
