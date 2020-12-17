@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Notes de mise à jour : Août 2013 {#release-notes-august}
 
-Les fonctionnalités suivantes sont incluses dans la version d’août 2013. Veuillez vérifier la disponibilité de vos fonctionnalités dans [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing-1.php) .
+Les fonctionnalités suivantes sont incluses dans la version d’août 2013. Veuillez vérifier votre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing-1.php) pour connaître la disponibilité des fonctionnalités.
 
-Après la publication, n&#39;oubliez pas de consulter l&#39;onglet [Nouvelle version](release-notes-december-2013.md) de la Communauté pour obtenir des articles détaillés de la Base de connaissances pour chaque nouvelle fonctionnalité !
+Après la publication, n&#39;oubliez pas de consulter l&#39;onglet [Nouvelle version](release-notes-december-2013.md) de la Communauté pour obtenir des articles détaillés de la base de connaissances pour chaque nouvelle fonctionnalité !
 
 Courriers électroniques Texte uniquement
 
-Vous pouvez maintenant envoyer [uniquement la version](../../product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) textuelle d&#39;un courriel. N’oubliez pas que les liens ne seront pas décorés lors de l’utilisation de cette option.
+Vous pouvez désormais envoyer [uniquement la version textuelle](../../product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) d’un courrier électronique. N’oubliez pas que les liens ne seront pas décorés lors de l’utilisation de cette option.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
-## Améliorations du moteur d’engagement des clients {#customer-engagement-engine-enhancements}
+## Améliorations du moteur d’engagement client {#customer-engagement-engine-enhancements}
 
 ### Ignorer le contenu extrait {#ignore-exhausted-content}
 
@@ -33,7 +33,7 @@ Configurez le programme d’engagement pour [ignorer l’épuisement](../../prod
 
 ## Test du flux d’engagement {#engagement-stream-testing}
 
-Utilisez la [nouvelle fonction](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) de test pour simuler une diffusion et tester le contenu récemment ajouté dans un flux en direct.
+Utilisez la [nouvelle fonction de test](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) pour simuler une diffusion et tester le contenu récemment ajouté dans un flux en direct.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -43,7 +43,7 @@ Lorsque vous envoyez un test par courrier électronique, vous pouvez sélectionn
 
 ![](assets/image2014-9-22-16-3a35-3a15.png)
 
-## Jetons système &quot;Vue Email as Web Page&quot; et &quot;Désabonner&quot; {#view-email-as-web-page-and-unsubscribe-system-tokens}
+## &quot;Vue de courriel en tant que page Web&quot; et &quot;Désabonner&quot; jetons système {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
 Utilisez ces [nouveaux jetons](../../product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) pour mieux contrôler leur emplacement dans les courriels.
 
@@ -51,16 +51,16 @@ Utilisez ces [nouveaux jetons](../../product-docs/email-marketing/general/using-
 
 ## Nettoyage Campaign de déclencheur automatique {#automatic-trigger-campaign-cleanup}
 
-Désormais, Marketo vous avertit régulièrement et désactive [automatiquement les campagnes](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) de déclenchement qui ne se sont pas exécutées au cours des six derniers mois.
+Marketo vous avertira régulièrement et [désactivera automatiquement les campagnes de déclenchement](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) qui ne se sont pas exécutées au cours des six derniers mois.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
 ## Amélioration de la gestion financière du marketing {#marketo-financial-management-enhancement}
 
-### Mise à jour des coûts du programme  {#program-cost-update}
+### Mise à jour des coûts du programme {#program-cost-update}
 
 La synchronisation des coûts de programme permet le suivi des coûts de programme sur plusieurs plateformes.
 
-### Interface utilisateur de Cobalt {#cobalt-user-interface}
+### Cobalt User Interface {#cobalt-user-interface}
 
 Nous poursuivons le déploiement de notre nouvelle interface Cobalt. Ce projet rendra tout dans Marketo super rapide ! La mise à niveau se poursuivra jusqu’à la fin de l’année.
