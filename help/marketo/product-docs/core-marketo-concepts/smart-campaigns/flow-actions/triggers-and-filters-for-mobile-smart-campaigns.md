@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez configurer des déclencheurs et des filtres pour une campagne dynamique d’application mobile.
 
-Pour la plupart des activités, il existe un déclencheur, un filtre et un filtre d’inactivité. Utilisez des filtres d’inactivité pour effectuer le suivi d’une action, telle que le fait d’appuyer sur une notification Push, qui *n’a pas* eu lieu.
+Pour la plupart des activités, il existe un déclencheur, un filtre et un filtre d’inactivité. Utilisez les filtres d’inactivité pour effectuer le suivi d’une action, telle que le fait d’appuyer sur une notification Push, qui *n’a pas* eu lieu.
 
 * Application mobile installée/installée
 * Application mobile ouverte/ouverte
@@ -27,7 +27,7 @@ Il n&#39;y a que des filtres pour cette activité :
 
 * Notification Push envoyée - filtre et filtre d’inactivité
 
-Recherchez une application **** mobile dans le panneau de droite pour liste de tous les déclencheurs et filtres d’application mobile.
+Recherchez **application mobile** dans le panneau de droite pour liste de tous les déclencheurs et filtres d’application mobile.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
@@ -57,7 +57,7 @@ Certains déclencheurs et filtres d’offre imposent des contraintes supplément
 
 * Durée de session (secondes) - Durée de session lorsque l’application est en premier plan
 
-* Push est activé - **True** signifie que les notifications Push peuvent être envoyées. **Faux** signifie qu&#39;ils ne peuvent pas ; par exemple, la personne peut avoir choisi de ne pas recevoir de notifications Push
+* Push est activé - **True** signifie que les notifications Push peuvent être envoyées. **Les** Falsémiens ne le peuvent pas ; par exemple, la personne peut avoir choisi de ne pas recevoir de notifications Push
 
 ## Déclencheurs et Filtres {#triggers-and-filters}
 
@@ -69,7 +69,7 @@ Utilisez ce filtre pour identifier toutes les personnes qui ont déjà installé
 >
 >Le filtre trouvera les installations en cours et les anciennes, car Marketo ne suit pas les désinstallations de l’application.
 
-**Contraintes**: Type de périphérique, plate-forme, application mobile, version de l’application mobile, type de périphérique, source d’installation, Activé pour la diffusion Push et Paramètre régional
+**Contraintes** : Type de périphérique, plate-forme, application mobile, version de l’application mobile, type de périphérique, source d’installation, Activé pour la diffusion Push et Paramètre régional
 
 ![](assets/image2015-8-21-13-3a33-3a54.png)
 
@@ -85,7 +85,7 @@ Application mobile installée/installée
 
 * PAS d’application mobile installée - filtre d’inactivité
 
-**Contraintes**: Type de périphérique, plate-forme, version de l’application, langue et source d’installation
+**Contraintes** : Type de périphérique, plate-forme, version de l’application, langue et source d’installation
 
 ![](assets/image2015-8-17-13-3a11-3a3.png)
 
@@ -97,13 +97,13 @@ Application mobile ouverte/ouverte
 
 * PAS d’application mobile ouverte - filtre d’inactivité
 
-**Contraintes**: Type de périphérique et plate-forme
+**Contraintes** : Type de périphérique et plate-forme
 
 ![](assets/image2015-8-17-13-3a13-3a55.png)
 
 Avec/avec Activité d&#39;application mobile
 
-Elles offrent un moyen puissant de suivre l&#39;activité mobile personnalisée. Vous devrez travailler avec votre développeur pour configurer le suivi [pour Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) et [pour iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Elles offrent un moyen puissant de suivre l&#39;activité mobile personnalisée. Vous devez travailler avec votre développeur pour configurer le suivi [pour Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) et [pour iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
 * Avec Activité d’application mobile - trigger
 
@@ -111,7 +111,7 @@ Elles offrent un moyen puissant de suivre l&#39;activité mobile personnalisée.
 
 * ACTIVITÉ d’application mobile NON présente - filtre d’inactivité
 
-**Contraintes**: Type de périphérique et plate-forme, plus cinq autres :
+**Contraintes** : Type de périphérique et plate-forme, plus cinq autres :
 
 * Action - activité mobile personnalisée
 
@@ -160,7 +160,7 @@ Voici à quoi ressemble le filtre dans Marketo :   ![](assets/image2015-8-17-13-
 
 * Session d’application mobile NON présente - filtre d’inactivité
 
-**Contraintes**: Type de périphérique, plate-forme et durée de session (secondes)
+**Contraintes** : Type de périphérique, plate-forme et durée de session (secondes)
 
 ![](assets/image2015-8-17-13-3a18-3a34.png)
 
@@ -172,7 +172,7 @@ Notification Push avec appui/appui sur une touche
 
 * Notification Push NON activée - filtre d’inactivité
 
-**Contraintes**: Type de périphérique, plate-forme, version de l’application mobile, notification Push et version de la plate-forme
+**Contraintes** : Type de périphérique, plate-forme, version de l’application mobile, notification Push et version de la plate-forme
 
 ![](assets/image2015-8-21-14-3a2-3a24.png)
 
@@ -180,13 +180,13 @@ Notification Push avec appui/appui sur une touche
 >
 >Utilisez le filtre d’inactivité Notification Push non activée pour rechercher les personnes qui n’ont pas appuyé sur une notification Push récemment envoyée, afin que vous puissiez effectuer un suivi par courrier électronique.
 
-**Notification** Push envoyée Cette activité n&#39;est disponible qu&#39;en tant que filtre.
+**Notification Push envoyée envoyée envoyéeCette activité n&#39;est disponible qu&#39;en tant que filtre.** 
 
 * Notification Push envoyée - filtre
 
 * Notification Push NON envoyée - filtre d&#39;inactivité
 
-**Contraintes**: Notification Push et application mobile
+**Contraintes** : Notification Push et application mobile
 
 ![](assets/image2015-8-21-14-3a3-3a50.png)
 
