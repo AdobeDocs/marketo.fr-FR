@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Pour archiver un programme, vous devez le déplacer vers un dossier d’archives distinct.
 
-1. Créez un dossier de campagne en cliquant avec le bouton droit sur le globe des lieux de travail et en sélectionnant **[!UICONTROL Nouveau dossier]** de campagne.
+1. Créez un dossier de campagne en cliquant avec le bouton droit sur le globe des lieux de travail et en sélectionnant **[!UICONTROL Nouveau dossier de campagne]**.
 
    ![Image un](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
@@ -30,7 +30,7 @@ Pour archiver un programme, vous devez le déplacer vers un dossier d’archives
 
    ![Image 4](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. Cliquez avec le bouton droit de la souris sur le dossier et sélectionnez **[!UICONTROL Convertir en dossier]** d’archives.
+1. Cliquez avec le bouton droit sur le dossier et sélectionnez **[!UICONTROL Convertir en dossier d’archives]**.
 
    ![Image 5](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
@@ -49,7 +49,7 @@ L&#39;icône de dossier devient une armoire de fichiers, comme illustré ci-dess
 
 >
 >
-Les fonctionnalités suivantes **ne changent pas** lors de l’archivage :
+Les fonctionnalités suivantes ne **pas** changent lors de l’archivage :
 >
 >* La recherche globale recherche toujours les résultats dans les dossiers archivés.
 >* Une ressource en cours d’utilisation continuera à fonctionner même après son archivage.
