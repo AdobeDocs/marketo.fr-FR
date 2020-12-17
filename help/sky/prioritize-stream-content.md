@@ -20,7 +20,7 @@ Après avoir ajouté du contenu à votre flux, vous pouvez modifier la priorité
 
    ![Image un](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-1.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Flux]**.
 
    ![Image 2](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-2.png)
 
