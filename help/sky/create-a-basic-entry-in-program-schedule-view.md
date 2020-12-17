@@ -28,7 +28,7 @@ Vous pouvez créer de nouvelles entrées de base directement à partir de la vue
    >
    >Vous pouvez également suivre les étapes similaires pour créer une entrée de base à partir des vues Jour, Semaine ou Ordre du jour.
 
-1. Entrez un nom pour votre nouvelle entrée de base, puis, si nécessaire, remplacez **[!UICONTROL Type]** par Entrée [!UICONTROL de] base. Vous pouvez également modifier la date **[!UICONTROL de]** Début et de fin et décocher la case **[!UICONTROL Ouvrir dans la Vue]** de l&#39;ordre du jour si vous souhaitez rester dans le calendrier après avoir créé l&#39;entrée. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Entrez un nom pour votre nouvelle entrée de base, puis, si nécessaire, remplacez **[!UICONTROL Type]** par [!UICONTROL Entrée de base]. Vous pouvez également modifier la **[!UICONTROL date de Début et de fin]** et décocher **[!UICONTROL Ouvrir dans la Vue de l&#39;ordre du jour]** si vous souhaitez rester dans le calendrier après avoir créé l&#39;entrée. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![Image trois](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ Vous pouvez créer de nouvelles entrées de base directement à partir de la vue
 
 **Articles connexes**
 
-Vous pouvez également créer une campagne [](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) par lot ou un programme [](/help/sky/create-an-email-program-in-program-schedule-view.md) électronique dynamique à partir de la vue de planification.
+Vous pouvez également créer un [programme de courriel &lt;a0/>batch smart campaign](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) ou [à partir de la vue de planification.](/help/sky/create-an-email-program-in-program-schedule-view.md)
