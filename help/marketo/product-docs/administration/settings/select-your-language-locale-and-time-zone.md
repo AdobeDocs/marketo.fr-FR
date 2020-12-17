@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sélectionner votre langue, langue et fuseau horaire {#select-your-language-locale-and-time-zone}
+# Sélectionnez votre langue, langue et fuseau horaire {#select-your-language-locale-and-time-zone}
 
 L&#39;anglais n&#39;est pas ta première langue ? Ne vous inquiétez pas, nous vous avons couvert. Voici comment changer votre propre langue, vos propres paramètres régionaux et votre propre fuseau horaire.
 
@@ -24,7 +24,7 @@ L&#39;anglais n&#39;est pas ta première langue ? Ne vous inquiétez pas, nous v
 * Portugais
 * Espagnol
 
-## Modification de la langue, des paramètres régionaux et du fuseau horaire de l’utilisateur {#change-user-language-locale-and-time-zone}
+## Modifier la langue de l’utilisateur, les paramètres régionaux et le fuseau horaire {#change-user-language-locale-and-time-zone}
 
 1. Connectez-vous au marketing et sélectionnez Mon compte sous votre nom.
 
