@@ -20,7 +20,7 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 >Nous avons mis en place ce joli petit tutoriel ci-dessous pour vous. Il s&#39;agit d&#39;une bonne pratique, mais cela peut se faire autrement.
 
 1. Préparation de vos données
-1. [Créez un](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)champ personnalisé nommé &quot;Langue préférée&quot;. (Configurez-le dans votre gestion de la relation client si vous souhaitez que ce champ soit synchronisé).
+1. [Créez un ](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)champ personnalisé nommé &quot;Langue préférée&quot;. (Configurez-le dans votre gestion de la relation client si vous souhaitez que ce champ soit synchronisé).
 
    >[!TIP]
    >
@@ -32,11 +32,11 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    **
 
-1. Dans la liste **déroulante Nouveau** , cliquez sur **Nouvelle segmentation**.
+1. Dans la liste déroulante **New**, cliquez sur **Nouvelle segmentation**.
 
    ![](assets/two.png)
 
-1. Nommez la langue **** préférée de la segmentation. Cliquez sur **Ajouter un segment**. Entrez une langue.
+1. Nommez la segmentation **Langue préférée**. Cliquez sur **Ajouter le segment**. Entrez une langue.
 
    ![](assets/image2015-3-9-8-3a33-3a44.png)
 
@@ -52,7 +52,7 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/image2015-3-9-8-3a38-3a17.png)
 
-1. Accédez à l’onglet **Smart Liste** . Entrez la langue **** préférée dans le champ de recherche. Faites glisser et déposez le filtre sur la trame.
+1. Accédez à l&#39;onglet **Liste dynamique**. Entrez **Langue préférée** dans le champ de recherche. Faites glisser et déposez le filtre sur la trame.
 
    ![](assets/six.png)
 
@@ -60,22 +60,22 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/seven.png)
 
-1. Répétez cette opération pour toutes vos langues. Sélectionnez ensuite la liste déroulante Actions **de** segmentation, puis cliquez sur **Approuver**.
+1. Répétez cette opération pour toutes vos langues. Sélectionnez ensuite la liste déroulante **Actions de segmentation** et cliquez sur **Approuver**.
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
 1. Création d’un extrait de code
-1. Accédez au **Design Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/ds.png)
 
-1. Dans la liste déroulante **Nouveau** , cliquez sur **Nouveau fragment de code**.
+1. Dans la liste déroulante **New**, cliquez sur **New Snippet**.
 
    ** ![](assets/ten.png)
 
    **
 
-1. Nommez le fragment de code Message **de** désabonnement. Cliquez sur **Créer**.
+1. Nommez le fragment **Message de désabonnement**. Cliquez sur **Créer**.
 
    ![](assets/image2015-3-9-8-3a40-3a54.png)
 
@@ -83,7 +83,7 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Copiez et collez ce jeton : **`{{system.unsubscribeLink}}`** dans le champ URL **de** lien. Cliquez sur **Insérer**.
+1. Copiez et collez ce jeton : **`{{system.unsubscribeLink}}`** dans le champ **URL du lien**. Cliquez sur **Insérer**.
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
@@ -91,7 +91,7 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/image2015-3-9-8-3a44-3a16.png)
 
-1. Dans la liste déroulante Segmentation, saisissez **Préférée** et sélectionnez Langue **** Préférée. Cliquez sur **Enregistrer**.
+1. Dans la liste déroulante Segmentation, saisissez **Préférée** et sélectionnez **Langue préférée**. Cliquez sur **Enregistrer**.
 
    ![](assets/image2015-3-9-8-3a44-3a32.png)
 
@@ -99,18 +99,18 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Copiez et collez le même jeton : **`{{system.unsubscribeLink}}`** dans le champ URL **de** lien. Cliquez sur **Insérer**.
+1. Copiez et collez le même jeton : **`{{system.unsubscribeLink}}`** dans le champ **URL du lien**. Cliquez sur **Insérer**.
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
-1. Répétez cette opération pour tous vos segments. Revenez ensuite à Design Studio, cliquez sur la liste déroulante Actions **** d’extrait de code, puis cliquez sur **Approuver**.
+1. Répétez cette opération pour tous vos segments. Revenez ensuite à Design Studio, cliquez sur la liste déroulante **Actions d’extrait de code**, puis cliquez sur **Approuver**.
 
    ![](assets/image2015-3-9-8-3a47-3a34.png)
 
    Super. Presque là.
 
 1. Utiliser un extrait de code dans un courrier électronique
-1. Dans l’éditeur de courrier électronique, cliquez sur l’élément modifiable. Cliquez ensuite sur l’icône d’engrenage et sélectionnez **Remplacer par un extrait de code**. Si vous sélectionnez un élément de fragment modifiable, cliquez sur l’icône d’engrenage et sélectionnez **Modifier**.
+1. Dans l’éditeur de courrier électronique, cliquez sur l’élément modifiable. Cliquez ensuite sur l’icône d’engrenage et sélectionnez **Remplacer par un fragment**. Si vous sélectionnez un élément de fragment modifiable, cliquez sur l’icône d’engrenage et sélectionnez **Modifier**.
 
    ![](assets/4.1.png)
 
@@ -122,7 +122,7 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/4.3.png)
 
-1. ...puis l’onglet **Dynamique** .
+1. ...puis l’onglet **Dynamique**.
 
    ![](assets/4.4.png)
 
@@ -165,5 +165,5 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
    >**Plongée profonde**
    >
    >
-   >En savoir plus sur le contenu [](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) dynamique et toutes les choses cool que vous pouvez faire.
+   >En savoir plus sur [le contenu dynamique](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) et toutes les choses intéressantes que vous pouvez faire.
 
