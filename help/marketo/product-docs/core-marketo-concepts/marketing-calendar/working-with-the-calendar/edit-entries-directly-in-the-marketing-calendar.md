@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Une fois en mode de mise au point du programme, vous pouvez rapidement modifier les entrées du calendrier. Voici comment.
 
-## Activer la mise au point du Programme {#enable-program-focus}
+## Activer la cible d&#39;action du Programme {#enable-program-focus}
 
-1. Accédez au **calendrier**.
+1. Accédez au **Calendrier**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Sélectionnez une entrée appartenant au programme sur lequel vous souhaitez vous concentrer, puis cliquez sur **Afficher la mise au point** du Programme.
+1. Sélectionnez une entrée appartenant au programme sur lequel vous souhaitez vous concentrer, puis cliquez sur **Afficher la cible d’action du Programme**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -31,7 +31,7 @@ Une fois en mode de mise au point du programme, vous pouvez rapidement modifier 
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
-## Modifier le nom d’entrée {#edit-entry-name}
+## Modifier le nom d&#39;entrée {#edit-entry-name}
 
 1. Sélectionnez l’entrée que vous souhaitez renommer.
 
@@ -46,7 +46,7 @@ Une fois en mode de mise au point du programme, vous pouvez rapidement modifier 
    >Vous pouvez également modifier la description.
    >
    >
-   >![--](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
 
 ## Convertir le type d’entrée {#convert-entry-type}
 
@@ -56,7 +56,7 @@ Une fois que vous avez rapidement inscrit vos entrées de base, vous pouvez les 
 
    ![](assets/image2014-10-20-13-3a18-3a38.png)
 
-## Modifier les détails d’entrée {#edit-entry-details}
+## Modifier les détails d&#39;entrée {#edit-entry-details}
 
 Vous pouvez rapidement accéder à différentes zones de vos entrées pour les modifier.
 
