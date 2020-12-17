@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez importer une liste de personnes qui deviennent automatiquement membres d’un programme. Voici ce qu&#39;il faut faire.
 
-## Préparation de votre fichier CSV {#prepare-your-csv-file}
+## Préparer votre fichier CSV {#prepare-your-csv-file}
 
 1. Créez un fichier CSV standard dans Excel, comme dans l’exemple ci-dessous.
 
@@ -27,7 +27,7 @@ Vous pouvez importer une liste de personnes qui deviennent automatiquement membr
 
 ## Importer votre fichier CSV dans Marketo {#import-your-csv-into-marketo}
 
-1. Dans votre programme, accédez à la section **Membres** .
+1. Dans votre programme, accédez à la section **Membres**.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
@@ -47,7 +47,7 @@ Vous pouvez importer une liste de personnes qui deviennent automatiquement membr
    >
    >Si vous ne souhaitez pas importer de champs, sélectionnez **IGNORER** dans le menu déroulant Champ marketing.
 
-1. Sélectionnez le statut **** de membre de votre liste.
+1. Sélectionnez **État membre** pour votre liste.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
