@@ -31,7 +31,7 @@ Configurez AEM afin que vous puissiez accéder à, sélectionner et importer AEM
 
    ![](assets/two.png)
 
-1. Dans **Outils**, cliquez sur **Opérations** et sélectionnez Console **** Web.
+1. Dans **Outils**, cliquez sur **Opérations** et sélectionnez **Console Web**.
 
    ![](assets/2a.png)
 
@@ -43,15 +43,15 @@ Configurez AEM afin que vous puissiez accéder à, sélectionner et importer AEM
 
    ![](assets/four.png)
 
-1. Dans la zone de texte Origines **autorisées (Regexp)** , saisissez &quot;https://&quot;.*\.marketo\.com&quot; (sans guillemets) et cliquez sur **Enregistrer**.
+1. Dans la zone de texte **Origines autorisées (Regexp)**, tapez &quot;https://.*\.marketo\.com&quot; (sans guillemets) et cliquez sur **Enregistrer**.
 
    ![](assets/five-psd.png)
 
-1. Dans l’en-tête en haut de la page, cliquez sur Console **** Web et sélectionnez Informations **** système.
+1. Dans l&#39;en-tête en haut de la page, cliquez sur **Console Web** et sélectionnez **Informations système**.
 
    ![](assets/six.png)
 
-1. Sous Informations sur le serveur, cliquez sur le bouton **Redémarrer** .
+1. Sous Informations sur le serveur, cliquez sur le bouton **Redémarrer**.
 
    ![](assets/seven.png)
 
@@ -71,9 +71,9 @@ Configurez AEM afin que vous puissiez accéder à, sélectionner et importer AEM
 
    ![](assets/eleven.png)
 
-1. Saisissez l’URL de votre AEM, puis cliquez sur **OK**.
+1. Saisissez l’URL de votre AEM et cliquez sur **OK**.
 
    ![](assets/twelve.png)
 
-   Vous êtes toutes prêtes ! Vous pouvez maintenant [importer AEM ressources dans Design Studio dans Marketo Sky](http://help.marketo.com/hc/en-us/articles/360036765993).
+   Vous êtes toutes prêtes ! Vous pouvez désormais [importer des actifs AEM dans Design Studio en Marketo Sky](http://help.marketo.com/hc/en-us/articles/360036765993).
 
