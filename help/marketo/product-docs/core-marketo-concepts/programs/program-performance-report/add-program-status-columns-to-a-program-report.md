@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Ajouter les colonnes d&#39;état du Programme à un rapport Programme {#add-program-status-columns-to-a-program-report}
+# Ajouter les colonnes d&#39;état du Programme à un rapport de Programme {#add-program-status-columns-to-a-program-report}
 
-Ajoutez des statistiques sur l&#39;état du programme à votre rapport [de performances](create-a-program-performance-report.md)programme.
+Ajoutez des statistiques sur l&#39;état du programme à votre [rapport de performances du programme](create-a-program-performance-report.md).
 
 1. Accédez à Activités marketing (ou Analytics).
 
@@ -33,7 +33,7 @@ Ajoutez des statistiques sur l&#39;état du programme à votre rapport [de perfo
 
    >[!TIP]
    >
-   >Pour afficher les colonnes d&#39;état du programme, votre rapport doit être filtré par *un seul* canal.
+   >Pour afficher les colonnes d&#39;état du programme, votre rapport doit être filtré par *un seul canal*.
 
 1. Cochez l’option Afficher les colonnes d’état du programme. Cliquez sur Appliquer.
 
@@ -45,7 +45,7 @@ Ajoutez des statistiques sur l&#39;état du programme à votre rapport [de perfo
 
 >[!NOTE]
 >
->Si vous ne voyez pas de colonne pour chaque état dans le programme, veillez à [sélectionner les colonnes à afficher](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) dans le rapport.
+>Si vous ne voyez pas de colonne pour chaque état dans le programme, veillez à ce que [les colonnes soient sélectionnées pour afficher](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) dans le rapport.
 
 >[!MORELIKETHIS]
 >
@@ -59,5 +59,5 @@ Ajoutez des statistiques sur l&#39;état du programme à votre rapport [de perfo
 >
 >**Plongée profonde**
 >
->En savoir plus sur le Rapports [](http://docs.marketo.com/display/docs/basic+reporting)de base.
+>En savoir plus sur [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
