@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ajouter à la Liste {#add-to-list}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Cette étape de flux permet d’ajouter des personnes à des listes.
 
