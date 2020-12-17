@@ -15,10 +15,10 @@ ht-degree: 0%
 
 L’en-tête de courrier électronique dans Marketing est entièrement personnalisable. Il se compose de quatre champs :
 
-* **De** : nom de l&#39;expéditeur tel que vous souhaitez qu&#39;il apparaisse.
-* **Adresse** de l&#39;expéditeur : adresse électronique de l&#39;expéditeur telle que vous la souhaitez.
-* **Réponse à** : adresse électronique à laquelle vous souhaitez envoyer la réponse d&#39;une personne (peut être différente de l&#39;adresse de l&#39;expéditeur)
-* **Objet** - Objet du courriel
+* **De**  : nom de l&#39;expéditeur tel que vous le souhaitez.
+* **De l&#39;adresse**  : adresse électronique de l&#39;expéditeur telle que vous souhaitez qu&#39;elle apparaisse.
+* **Réponse à**  : adresse électronique à laquelle vous souhaitez envoyer la réponse d&#39;une personne (peut être différente de l&#39;adresse de l&#39;expéditeur)
+* **Objet**  - Objet du courriel
 
 Pour modifier ces valeurs, cliquez dans chaque champ et entrez vos informations.
 
@@ -26,7 +26,7 @@ Pour modifier ces valeurs, cliquez dans chaque champ et entrez vos informations.
 
 >[!TIP]
 >
->Pour définir un nom par défaut et un nom de courrier électronique, reportez-vous à la section [Modification du nom par défaut du courrier électronique et du libellé](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)De.
+>Pour définir une valeur par défaut De nom et De courriel, voir [Modifier la valeur par défaut de l’adresse électronique et de l’étiquette ](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
 
 Si vous souhaitez utiliser un jeton, cliquez d’abord dans le champ de votre choix, puis cliquez sur l’icône de jeton.
 
