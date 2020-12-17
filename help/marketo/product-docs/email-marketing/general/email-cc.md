@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Email CC permet aux courriers électroniques spécifiés envoyés par l’intermédiaire de Marketo d’inclure des destinataires CC.
 
-Cette fonction est disponible sur toutes les ressources de courrier électronique de Marketing Cloud, quel que soit le mode d’envoi du courrier électronique (campagne par lot ou de déclenchement). Le destinataire CC recevra une copie exacte de l&#39;e-mail envoyé à la personne choisie pour le marketing. Ainsi, toute activité d’engagement (s’ouvre, clique, etc.) sera connecté au journal des activités de la personne du marketing dans la ligne &quot;À&quot; du courrier électronique. Toutefois, l’activité de diffusion (envoyée, livrée, rebond en dur, etc.) *autre que &quot;soft bounce&quot;* **ne s&#39;enregistrera pas** , puisque Marketo n&#39;est pas en mesure de distinguer les événements de diffusion pour la personne du marché des destinataires CC. Marketo ne contiendra que jusqu&#39;à 100 000 personnes à la fois. Si votre liste intelligente dépasse 100 000 et qu&#39;il est impératif que chaque personne y trouve un CC&#39;d, nous vous recommandons de briser votre liste.
+Cette fonction est disponible sur toutes les ressources de courrier électronique de Marketing Cloud, quel que soit le mode d’envoi du courrier électronique (campagne par lot ou de déclenchement). Le destinataire CC recevra une copie exacte de l&#39;e-mail envoyé à la personne choisie pour le marketing. Ainsi, toute activité d’engagement (s’ouvre, clique, etc.) sera connecté au journal des activités de la personne du marketing dans la ligne &quot;À&quot; du courrier électronique. Toutefois, l’activité de diffusion (envoyée, livrée, rebond en dur, etc.) *autre que &quot;soft bounce&quot;* ne  **** s&#39;enregistrera pas, car Marketo n&#39;est pas en mesure de distinguer les événements de diffusion pour la personne du marché des destinataires CC. Marketo ne contiendra que jusqu&#39;à 100 000 personnes à la fois. Si votre liste intelligente dépasse 100 000 et qu&#39;il est impératif que chaque personne y trouve un CC&#39;d, nous vous recommandons de briser votre liste.
 
 >[!NOTE]
 >
 >Email CC n’a pas été conçu pour être utilisé avec des tests A/B. Vous pouvez l&#39;utiliser de toute façon si vous le souhaitez, mais comme il n&#39;est techniquement pas pris en charge, l&#39;assistance marketing ne serait pas en mesure de vous aider à résoudre les problèmes.
 
-## Configurer Email CC {#set-up-email-cc}
+## Configurer le courrier électronique CC {#set-up-email-cc}
 
 1. Dans Mon marketing, cliquez sur **Admin**.
 
@@ -31,7 +31,7 @@ Cette fonction est disponible sur toutes les ressources de courrier électroniqu
 
    ![](assets/two.png)
 
-1. Cliquez sur **Modifier les paramètres** du courrier électronique.
+1. Cliquez sur **Modifier les paramètres d’e-mail CC**.
 
    ![](assets/three.png)
 
@@ -39,13 +39,13 @@ Cette fonction est disponible sur toutes les ressources de courrier électroniqu
 
    ![](assets/four.png)
 
-## Utilisation de Email CC {#using-email-cc}
+## Utilisation d’Email CC {#using-email-cc}
 
 1. Sélectionnez votre adresse électronique et cliquez sur **Modifier le brouillon**.
 
    ![](assets/five.png)
 
-1. Cliquez sur Paramètres **de** courriel.
+1. Cliquez sur **Paramètres de courriel**.
 
    ![](assets/six.png)
 
@@ -70,15 +70,15 @@ Cette fonction est disponible sur toutes les ressources de courrier électroniqu
    >
    >L&#39;erreur ci-dessus s&#39;affichera également dans la section Paramètres du courrier électronique du brouillon de courrier électronique.
 
-## Après l’envoi {#after-the-send}
+## Après l’envoi de {#after-the-send}
 
 * Si un destinataire CC clique sur un lien suivi dans le courrier électronique, cliquez sur activité (comme toute autre activité d’engagement) est associée au destinataire principal du courrier électronique. De plus, ils peuvent cliquer sur une page avec le code de suivi Web de Marketo (munchkin.js), ce qui les entraîne à recevoir des cookies en tant que destinataire principal.
 
 >[!TIP]
 >
->Vous avez la possibilité de [désactiver certains ou tous les liens](http://docs.marketo.com/x/IwAd) de suivi dans un courrier électronique.
+>Vous avez la possibilité de [désactiver certains ou tous les liens de suivi](http://docs.marketo.com/x/IwAd) dans un courrier électronique.
 
 * Une fois la campagne par courrier électronique exécutée, l’option Envoyer l’activité par courrier électronique inclut une liste de toutes les adresses CC incluses pour chaque destinataire de l’envoi. Si des adresses CC ont été ignorées en raison de la désinscription, elles seront également notées dans l&#39;activité.
 * Les liens et pages de désabonnement fonctionnent normalement dans les courriels CC. Cela permet aux destinataires CC de se désabonner s&#39;ils le souhaitent (en se conformant aux règles anti-spam), et un enregistrement de cette action sera stocké dans la base de données Marketo.
-* Les personnes répertoriées comme désabonnées dans votre base de données Marketo **ne recevront pas** de courrier électronique via CC.
+* Les personnes répertoriées comme désabonnées dans votre base de données Marketo **ne reçoivent** aucun courrier électronique via CC.
 
