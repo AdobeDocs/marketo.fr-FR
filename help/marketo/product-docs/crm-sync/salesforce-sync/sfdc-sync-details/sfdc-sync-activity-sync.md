@@ -21,11 +21,11 @@ Marketo se synchronise sur les Événements et les Tâches associés à un prosp
 
 ## Comment les détails des activités sont-ils synchronisés entre les deux systèmes ? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-La synchronisation est un moyen, de Salesforce à Marketo. Mais vous pouvez créer une tâche dans Salesforce à l’aide de l’étape de flux [Créer une Tâche](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ou [Personnaliser la synchronisation](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) des Activités avec Salesforce.
+La synchronisation est un moyen, de Salesforce à Marketo. Mais vous pouvez créer une tâche dans Salesforce à l’aide de l’étape de flux [Créer une Tâche](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ou [Personnaliser la synchronisation des Activités](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) vers Salesforce.
 
 ## Puis-je créer une tâche à l’aide de Marketo ? {#can-i-create-a-task-using-marketo}
 
-Oui, vous pouvez utiliser l’action [](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)Créer un flux de Tâche.
+Oui, vous pouvez utiliser l&#39;action [Créer un flux de Tâche](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
 
 ## Quels sont les déclencheurs/filtres liés à l&#39;activité ? {#what-are-the-triggers-filters-related-to-activity}
 
