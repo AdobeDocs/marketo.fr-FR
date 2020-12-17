@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Voici comment configurer un jeton de texte à utiliser dans vos programmes et dossiers de campagne.
 
-1. Dans l’onglet [!UICONTROL Mes jetons] de votre programme ou dossier, faites glisser un jeton de **texte** sur le canevas Jetons  locaux.
+1. Dans l&#39;onglet [!UICONTROL Mes jetons] de votre programme ou dossier, faites glisser un jeton **Texte** sur le canevas [!UICONTROL Jetons locaux].
 
    ![Image un](/help/sky/assets/my-tokens/my-token-text/my-token-text-1.png)
 
