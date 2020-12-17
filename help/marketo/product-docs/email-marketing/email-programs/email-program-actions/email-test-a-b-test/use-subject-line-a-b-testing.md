@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utiliser le test A/B &quot;Objet Line&quot; {#use-subject-line-a-b-testing}
 
-Vous pouvez facilement tester vos e-mails A/B. L&#39;un des tests les plus courants est le test de la ligne **de** sujet.
+Vous pouvez facilement tester vos e-mails A/B. L&#39;un des tests les plus courants est le test **Objet Line**.
 
 >[!PREREQUISITES]
 >
@@ -51,7 +51,7 @@ Vous pouvez facilement tester vos e-mails A/B. L&#39;un des tests les plus coura
    >
    >Les différentes variations de sujet prendront même les parties de l&#39;échantillon de test sélectionné.
 
-   Ok, nous sommes presque là. Maintenant, nous devons [définir les critères](define-the-a-b-test-winner-criteria.md)de gagnant du test A/B.
+   Ok, nous sommes presque là. Nous devons maintenant [définir les critères de gagnant du test A/B](define-the-a-b-test-winner-criteria.md).
 
    >[!NOTE]
    >
