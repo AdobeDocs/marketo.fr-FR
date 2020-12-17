@@ -23,11 +23,11 @@ Si vous souhaitez exécuter une seule étape de flux, vous pouvez utiliser une s
 
 
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez une liste ou une liste intelligente comportant des personnes, puis accédez à l’onglet **Personnes** .
+1. Sélectionnez une liste ou une liste intelligente comportant des personnes, puis accédez à l&#39;onglet **Personnes**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -43,7 +43,7 @@ Si vous souhaitez exécuter une seule étape de flux, vous pouvez utiliser une s
    >
    >Si les résultats s’étendent sur plusieurs pages, cliquez sur **Sélectionner tout** pour sélectionner toutes les personnes sur toutes les pages.
 
-1. Sous **Actions** personnelles ****, sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [Changer la valeur](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)des données.
+1. Sous **Personne** **Actions**, sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [Modifier la valeur des données](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
