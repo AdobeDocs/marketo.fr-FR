@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtrage des types d&#39;Activité dans le journal des Activités d&#39;une personne {#filter-activity-types-in-the-activity-log-of-a-person}
+# Filtrer les types d&#39;Activité dans le journal des Activités d&#39;une personne {#filter-activity-types-in-the-activity-log-of-a-person}
 
 Recherchez les activités qui vous importent le plus dans le journal des activités.
 
@@ -19,19 +19,19 @@ Recherchez les activités qui vous importent le plus dans le journal des activit
 >
 >**Plongée profonde**
 >
->En savoir plus sur [le journal](locate-the-activity-log-for-a-person.md)des activités.
+>En savoir plus sur [le journal des activités](locate-the-activity-log-for-a-person.md).
 
-1. Accédez à la page Détails **de la** personne. Cliquez sur l’onglet Journal **des** Activités.
+1. Accédez à la page **Détails sur la personne**. Cliquez sur l&#39;onglet **Journal des Activités**.
 
    ![](assets/one.png)
 
-1. Sélectionnez la liste déroulante **Filtre** .
+1. Sélectionnez la liste déroulante **Filtre**.
 
    ![](assets/two-3.png)
 
 ## Création de Filtres personnalisés {#creating-custom-filters}
 
-1. Cliquez sur la liste déroulante **Filtre** . Sélectionnez **Personnalisé**.
+1. Cliquez sur la liste déroulante **Filtre**. Sélectionnez **Personnalisé**.
 
    ![](assets/three-3.png)
 
@@ -39,7 +39,7 @@ Recherchez les activités qui vous importent le plus dans le journal des activit
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Entrez un nom **de filtre** personnalisé. Cliquez sur **Enregistrer**.
+1. Entrez un **nom de filtre personnalisé**. Cliquez sur **Enregistrer**.
 
    ![](assets/five-1.png)
 
@@ -49,13 +49,13 @@ Recherchez les activités qui vous importent le plus dans le journal des activit
 
 ## Filtres enregistrés de référence {#reference-saved-filters}
 
-Les filtres enregistrés sont accessibles à partir de la liste déroulante **Filtre** .
+Les filtres enregistrés sont accessibles à partir de la liste déroulante **Filtre**.
 
-1. Cliquez sur la liste déroulante **Filtres** . Sélectionnez **Personnalisé**.
+1. Cliquez sur la liste déroulante **Filtres**. Sélectionnez **Personnalisé**.
 
    ![](assets/seven-1.png)
 
-1. Cliquez sur Filtres **** enregistrés. Les filtres enregistrés sont répertoriés ci-dessous.
+1. Cliquez sur **Filtres enregistrés**. Les filtres enregistrés sont répertoriés ci-dessous.
 
    ![](assets/eight.png)
 
