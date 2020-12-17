@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Mai 2013 {#release-notes-may}
 
-Les fonctionnalités suivantes sont incluses dans la version de mai. Veuillez vérifier la disponibilité de votre [Marketo](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php) pour connaître les fonctionnalités disponibles.
+Les fonctionnalités suivantes sont incluses dans la version de mai. Veuillez vérifier votre [Marketo](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
 
 Après la publication, n&#39;oubliez pas de consulter l&#39;onglet [Nouvelle version](release-notes-december-2013.md) de la Communauté pour obtenir des articles détaillés de la base de connaissances pour chaque fonctionnalité !
 
