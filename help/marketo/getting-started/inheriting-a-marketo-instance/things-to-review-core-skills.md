@@ -15,14 +15,14 @@ ht-degree: 0%
 
 Besoin de combler certaines lacunes dans votre savoir-faire en matière d’automatisation marketing ? Si vous avez peu de temps pour vous familiariser avec les compétences de base, voici ce que nous vous recommandons :
 
-![Créer un Programme](assets/office-28.png) de courriel [**Créer un Programme de courriel**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+![Créer un ](assets/office-28.png) [**programme de messagerieCréer un Programme de messagerie**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
-![Annuler un lot planifié Campaign](assets/multimedia-27.png) [**Annuler un lot planifié Campaign**](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
+![Annuler une ](assets/multimedia-27.png) [**campagne par lots planifiéeAnnuler une Campaign par lot planifié**](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
 
-![Modifier le texte dans un courrier électronique](assets/graphic-design-tools-34.png) [**Modifier le texte dans un courrier électronique**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
+![Modifier le texte dans un ](assets/graphic-design-tools-34.png) [**courriel Modifier le texte dans un courriel**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
-![Créer un Programme](assets/seo-57.png) de Événement [**Créer un Programme de Événement**](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+![Créer un nouveau ](assets/seo-57.png) [**programme de ÉvénementCréer un Programme de Événement**](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-![Types](assets/seo-04.png) de rapports Types de [**rapports**](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+![Types de ](assets/seo-04.png) [**rapportsTypes de rapports**](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
 
-![Comment organiser vos Programmes](assets/shopping-09.png) [**Comment organiser vos Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md)
+![Comment organiser vos ](assets/shopping-09.png) [**programmesComment organiser vos Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md)
