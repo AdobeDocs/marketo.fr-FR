@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Il existe plusieurs types de notification.
 
-## Échec de Campaign  {#campaign-failure}
+## Échec de Campaign {#campaign-failure}
 
 Les échecs Campaign vous signalent des erreurs dans vos campagnes actives.
 
-## CRM Sync {#crm-sync}
+## Synchronisation CRM {#crm-sync}
 
 Les notifications de synchronisation CRM vous avertissent des problèmes critiques rencontrés avec la synchronisation CRM, tels que des autorisations incorrectes ou la synchronisation en cours d’arrêt.
 
@@ -47,7 +47,7 @@ Si vous essayez d’envoyer des pistes à Facebook sans accepter les conditions 
 
 Nettoyage Campaign du déclencheur d&#39;inactivité
 
-Désactivez les campagnes dynamiques déclenchées qui n’obtiennent plus d’activité. En savoir plus sur le nettoyage [](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)automatique de la campagne de déclenchement.
+Désactivez les campagnes dynamiques déclenchées qui n’obtiennent plus d’activité. En savoir plus sur le [nettoyage de campagne de déclenchement automatique](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,5 @@ Vous serez averti lorsque vous atteindrez votre quota quotidien. Le quota est r�
 
 >[!NOTE]
 >
->Certains des codes d’erreur que vous pouvez recevoir sont décrits dans notre documentation [](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)destinée aux développeurs.
+>Certains des codes d&#39;erreur que vous pouvez recevoir sont décrits dans notre [Documentation du développeur](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
 
