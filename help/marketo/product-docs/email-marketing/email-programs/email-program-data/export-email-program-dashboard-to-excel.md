@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Exporter le Tableau de bord de Programme de courriel vers Excel {#export-email-program-dashboard-to-excel}
+# Exporter le Tableau de bord de Programme de courriel dans Excel {#export-email-program-dashboard-to-excel}
 
 Une fois que vous avez exécuté un programme de messagerie et que vous avez certaines données dans le tableau de bord, vous pouvez exporter ces données brutes afin d’exceller pour une plus grande analyse. Voici comment.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -40,5 +40,5 @@ Une fois que vous avez exécuté un programme de messagerie et que vous avez cer
 >
 >**Plongée profonde**
 >
->Vous souhaitez en savoir plus sur les Programmes [de](http://docs.marketo.com/display/docs/email+programs)courriel ?
+>Vous souhaitez en savoir plus sur les [Programmes de courriel](http://docs.marketo.com/display/docs/email+programs) ?
 
