@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Utilisation de l’onglet Accueil Programme {#using-the-program-home-tab}
+# Utilisation de l’onglet Accueil du Programme {#using-the-program-home-tab}
 
 L&#39;onglet programme d&#39;accueil vous donne une vue générale de ce qui se passe dans votre programme.
 
 ## Vue de résumé {#summary-view}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,13 +37,13 @@ L&#39;onglet programme d&#39;accueil vous donne une vue générale de ce qui se 
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
-## Utilisé par Vue {#used-by-view}
+## Utilisé par la Vue {#used-by-view}
 
 1. Dans Activités marketing, sélectionnez un programme.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Cliquez sur la liste déroulante **Vue** . Sélectionnez **Utilisé par**.
+1. Cliquez sur la liste déroulante **Vue**. Sélectionnez **Utilisé par**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -51,13 +51,13 @@ L&#39;onglet programme d&#39;accueil vous donne une vue générale de ce qui se 
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
-## Vue d&#39;abonnement {#membership-view}
+## Vue d&#39;adhésion {#membership-view}
 
 1. Dans Activités marketing, sélectionnez un programme.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Cliquez sur la liste déroulante **Vue** . Sélectionnez **Abonnement**.
+1. Cliquez sur la liste déroulante **Vue**. Sélectionnez **Adhésion**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ L&#39;onglet programme d&#39;accueil vous donne une vue générale de ce qui se 
 
    >[!NOTE]
    >
-   >**Historique** signifie toute personne qui a déjà traversé le programme, tandis que **Actuel** n&#39;inclut que les personnes actuellement sur le programme.
+   >**** Historique signifie quiconque a déjà traversé le programme, tandis que  **** Actuellement, il n&#39;inclut que les personnes actuellement sur le programme.
 
    >[!NOTE]
    >
