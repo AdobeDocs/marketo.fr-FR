@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à **Admin** et cliquez sur Services **** Web.
+1. Accédez à **Admin** et cliquez sur **Services Web**.
 
    ![](assets/image2014-9-19-10-3a58-3a11.png)
 
-1. Définissez une clé **de** chiffrement appropriée, cliquez sur **Enregistrer les modifications** et transmettez toutes les informations à votre développeur.
+1. Définissez une **clé de chiffrement** appropriée, cliquez sur **Enregistrer les modifications** et transmettez toutes les informations à votre développeur.
 
    ![](assets/image2014-9-19-11-3a0-3a46.png)
 
