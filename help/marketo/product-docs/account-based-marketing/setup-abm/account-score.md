@@ -28,13 +28,13 @@ Dans le monde complexe des processus d&#39;achat B2B, il est rare qu&#39;une seu
 | **Score d’intérêt du produit du compte** | Les personnes des comptes de cible qui s&#39;intéressent au contenu d&#39;un produit spécifique (par exemple, le téléchargement d&#39;un livre blanc). |
 | **Note d’engagement Web du compte** | Des personnes de comptes de cible visitant le canal Web. Il est possible de créer le même score pour mesurer l’engagement du canal à partir de la messagerie électronique, de la publicité ou d’autres canaux. |
 
-## Configuration de la note de compte {#how-to-configure-account-score}
+## Comment configurer la note du compte {#how-to-configure-account-score}
 
 >[!NOTE]
 >
 >**Explication**
 >
->Pour calculer des scores de compte, vous devez d’abord créer des scores de piste. Marketo ABM : les agrégats dirigent automatiquement les scores vers les scores du compte. À titre d’exemple, nous allons prendre deux des exemples ci-dessus (*Compte *Note d’intérêt *du produit* et Note *d’intérêt Web du compte*).
+>Pour calculer des scores de compte, vous devez d’abord créer des scores de piste. Marketo ABM : les agrégats dirigent automatiquement les scores vers les scores du compte. À titre d’exemple, nous prendrons deux des exemples ci-dessus (*Compte **Score d’intérêt du produit* et *Score d’engagement Web du compte*).
 >
 >Tout d&#39;abord, créez des champs de score de piste qui capturent les détails pertinents de chaque piste d&#39;un compte de cible.\
 >Attribuez ensuite ces scores de piste à leurs scores de compte respectifs :\
@@ -63,7 +63,7 @@ Une fois que vous avez configuré le score de piste, procédez comme suit.
    >
    >Vous pouvez choisir jusqu’à **cinq **champs pour calculer la note du compte.
 
-1. Saisissez le nom de la note du compte, cliquez sur la liste déroulante **Sélectionner une note** de personne et sélectionnez la note correspondante.
+1. Saisissez le nom de la note de compte, cliquez sur la liste déroulante **Sélectionner une note de personne** et sélectionnez la note correspondante.
 
    ![](assets/four.png)
 
