@@ -25,7 +25,7 @@ La seule raison pour laquelle vous devriez supprimer complètement le contenu de
    >
    >Avant la suppression, copiez/collez-le dans un document de texte en tant que sauvegarde.
 
-1. Entrez **<!--This is a comment -->**.
+1. Saisissez **<!--This is a comment -->**.
 
    ![](assets/image2016-8-26-13-3a53-3a15.png)
 
