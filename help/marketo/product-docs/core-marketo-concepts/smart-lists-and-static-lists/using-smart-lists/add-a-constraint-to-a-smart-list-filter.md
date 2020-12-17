@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Lors de la création de listes intelligentes, certains filtres ont des options avancées appelées *contraintes. *Il s&#39;agit de conditions supplémentaires que vous pouvez ajouter aux filtres et déclencheurs pour vous aider à limiter encore davantage votre recherche.
 
-Dans cet exemple, ajoutons quelques contraintes à un filtre ** Valeur de [données modifiée](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** pour rechercher les personnes qui ont subi un changement d’état de MQL en SQL.
+Dans cet exemple, ajoutons quelques contraintes à un filtre ** [Valeur de données modifiée](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** pour rechercher les personnes qui ont subi un changement d&#39;état de MQL à SQL.
 
 >[!PREREQUISITES]
 >
@@ -26,19 +26,19 @@ Dans cet exemple, ajoutons quelques contraintes à un filtre ** Valeur de [donn�
 
 
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/ma-1.png)
 
-1. Sélectionnez la liste intelligente avec un filtre auquel vous allez ajouter une contrainte, puis cliquez sur l&#39;onglet Liste **** intelligente.
+1. Sélectionnez la liste intelligente avec un filtre auquel vous allez ajouter une contrainte, puis cliquez sur l&#39;onglet **Liste dynamique**.
 
    ![](assets/two-3.png)
 
-1. Sous Contrainte **d&#39;Ajoute**, sélectionnez Valeur **** précédente.
+1. Sous **Ajouter la contrainte**, sélectionnez **Valeur précédente**.
 
    ![](assets/three-3.png)
 
-1. Saisissez la valeur **** précédente. Dans cet exemple, nous utilisons MQL.
+1. Saisissez la **Valeur précédente**. Dans cet exemple, nous utilisons MQL.
 
    ![](assets/four-2.png)
 
@@ -46,9 +46,9 @@ Dans cet exemple, ajoutons quelques contraintes à un filtre ** Valeur de [donn�
 
    ![](assets/five.png)
 
-1. Saisissez la **nouvelle valeur**. Dans cet exemple, nous utilisons SQL.
+1. Saisissez la **Nouvelle valeur**. Dans cet exemple, nous utilisons SQL.
 
    ![](assets/six.png)
 
-1. Bien joué ! Cliquez sur l’onglet **Personnes** pour afficher toutes les personnes qui ont eu un **état** de changement de **MQL** à **SQL au cours des 30 derniers jours.**
+1. Bien joué ! Cliquez sur l&#39;onglet **Personnes** pour afficher toutes les personnes qui ont subi une modification **Status** de **MQL** à **SQL** au cours des 30 derniers jours.
 
