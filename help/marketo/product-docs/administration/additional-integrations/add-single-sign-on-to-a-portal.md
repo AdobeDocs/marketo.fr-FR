@@ -25,25 +25,25 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 
 >[!NOTE]
 >
->Êtes-vous un utilisateur Microsoft Azure ? Consultez leur didacticiel [sur l&#39;](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/)intégration.
+>Êtes-vous un utilisateur Microsoft Azure ? Consultez leur [didacticiel d&#39;intégration](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/).
 
 ## Comment envoyer la requête {#how-to-send-the-request}
 
 * Envoyer la demande d’authentification unique, qui est une réponse SAML, à `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
 * En tant qu’URL d’Audience du SP. Utiliser [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
 * Si vous utilisez l&#39;attribut SPNameQualifier, définissez l&#39;élément NameID pour Objet sur [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Si vous fédérez plusieurs abonnements de marketing au même fournisseur d’authentification unique, vous pouvez utiliser des url SP uniques pour chaque sous- de marketing avec le format `http://saml.marketo.com/sp/<munchkin_id>`
+* Si vous fédérez plusieurs abonnements de marketing au même fournisseur d’authentification unique, vous pouvez utiliser des url SP uniques pour chaque sous- de marketing au format `http://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
 >Marketo ne prend en charge que les identifiants initiés par le fournisseur d’identité (également appelés IdP-started), dans lesquels l’utilisateur lance d’abord la page de connexion Idp, s’authentifie, puis accède à Mon marketing.
 
-## Remarques supplémentaires {#additional-notes}
+## Notes supplémentaires {#additional-notes}
 
-* **Temps** de synchronisation : pour un nouvel utilisateur, un délai d’environ 10 minutes s’écoule avant le traitement d’une demande d’authentification unique initiale.
-* **Approvisionnement** des utilisateurs : les utilisateurs sont configurés manuellement par Marketing Cloud.
-* **Autorisation** - Les autorisations d’utilisateur sont conservées dans Marketing Cloud.
-* **Prise en charge** OAuth - Marketo ne prend actuellement pas en charge OAuth.
+* **Temps**  de synchronisation : pour un nouvel utilisateur, un délai d’environ 10 minutes est nécessaire avant le traitement d’une demande d’authentification unique initiale.
+* **Approvisionnement**  des utilisateurs : les utilisateurs sont configurés manuellement par Marketo.
+* **Autorisation**  - Les autorisations d’utilisateur sont conservées dans Marketing Cloud.
+* **Prise en charge**  OAuth - Marketo ne prend actuellement pas en charge OAuth.
 
 >[!NOTE]
 >
@@ -53,27 +53,27 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 
 La fonction SSO est désactivée par défaut. Suivez ces étapes pour activer SAML et le configurer.
 
-1. Accédez à **Admin **et cliquez sur Connexion **** unique.
+1. Accédez à **Admin **et cliquez sur **Connexion unique**.
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >Si vous ne voyez pas de connexion **** unique sous **Admin**, contactez [`[email protected]`](http://mailto:support@marketo.com).
+   >Si **Connexion unique** n&#39;apparaît pas sous **Admin**, contactez [`[email protected]`](http://mailto:support@marketo.com).
 
-1. Sous la section Paramètres **** SAML, cliquez sur **Modifier**.
+1. Sous la section **Paramètres SAML**, cliquez sur **Modifier**.
 
    ![](assets/image2014-9-24-14-3a37-3a3.png)
 
-1. Remplacez la connexion **unique** SAML par **Activé**.
+1. Remplacez **Connexion unique SAML** par **Activé**.
 
    ![](assets/image2014-9-24-14-3a37-3a17.png)
 
-1. Saisissez votre ID **** d’émetteur, votre ID **d’** entité, sélectionnez l’emplacement **de l’ID d’** utilisateur, puis cliquez sur **Parcourir.**
+1. Saisissez votre **ID d’émetteur**, **ID d’entité**, sélectionnez **Emplacement de l’ID d’utilisateur**, puis cliquez sur **Parcourir**.
 
    ![](assets/image2014-9-24-14-3a37-3a32.png)
 
-1. Sélectionnez votre fichier de certificat **du fournisseur** d’identité.
+1. Sélectionnez votre fichier **Certificat du fournisseur d&#39;identité**.
 
    ![](assets/image2014-9-24-14-3a38-3a8.png)
 
@@ -81,21 +81,21 @@ La fonction SSO est désactivée par défaut. Suivez ces étapes pour activer SA
 
    ![](assets/image2014-9-24-14-3a38-3a22.png)
 
-## Mettre à jour les paramètres de la page de redirection {#update-redirect-page-settings}
+## Mettre à jour les paramètres de page de redirection {#update-redirect-page-settings}
 
-1. Sous la section **Redirection des pages** , cliquez sur **Modifier**.
+1. Sous la section **Rediriger les pages**, cliquez sur **Modifier**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Les clients qui utilisent un ID universel avec une authentification unique doivent saisir l’URL de connexion du fournisseur d’identité dans le champ URL **de** connexion.
+   >Les clients qui utilisent un ID universel avec une authentification unique doivent saisir l’URL de connexion du fournisseur d’identité dans le champ **URL de connexion**.
 
-1. Entrez une URL **de** déconnexion. Il s’agit de l’URL à laquelle l’utilisateur doit être redirigé lorsqu’il se déconnecte de Marketing Cloud.
+1. Saisissez une **URL de déconnexion**. Il s’agit de l’URL à laquelle l’utilisateur doit être redirigé lorsqu’il se déconnecte de Marketing Cloud.
 
    ![](assets/eight.png)
 
-1. Saisissez une URL **** d’erreur. Il s’agit de l’URL à laquelle l’utilisateur doit être redirigé en cas d’échec de la connexion à Marketing Cloud. Cliquez sur **Enregistrer**.
+1. Saisissez une **URL d’erreur**. Il s’agit de l’URL à laquelle l’utilisateur doit être redirigé en cas d’échec de la connexion à Marketing Cloud. Cliquez sur **Enregistrer**.
 
    ![](assets/nine.png)
 
