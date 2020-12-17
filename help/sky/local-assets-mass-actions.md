@@ -14,15 +14,15 @@ ht-degree: 0%
 
 <br> 
 
-Vous pouvez effectuer des actions en bloc sur plusieurs fichiers directement à partir de la section **[!UICONTROL Actions]** sous l’onglet **[!UICONTROL Ressources]** . Voici comment trouver les actifs dont vous avez besoin et leur appliquer une action de masse.
+Vous pouvez exécuter des actions en bloc sur plusieurs ressources directement à partir de la section **[!UICONTROL Actions]** sous l&#39;onglet **[!UICONTROL Ressources]**. Voici comment trouver les actifs dont vous avez besoin et leur appliquer une action de masse.
 
 ## Filtrer par type de fichier et/ou condition
 
-Pour trouver des ressources spécifiques sur lesquelles vous souhaitez agir, vous pouvez filtrer par type **[!UICONTROL de]** ressource en choisissant un ou plusieurs types dans la liste déroulante.
+Pour rechercher des ressources spécifiques sur lesquelles vous souhaitez agir, vous pouvez filtrer par **[!UICONTROL type de ressource]** en choisissant un ou plusieurs types dans la liste déroulante.
 
 ![Image un](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-1.png)
 
-De plus, vous pouvez filtrer par condition **[!UICONTROL de]** ressource en choisissant une ou plusieurs conditions dans la liste déroulante. Vous pouvez effectuer cette opération séparément ou en association avec le filtrage de type de fichier.
+De plus, vous pouvez filtrer par **[!UICONTROL condition de ressource]** en choisissant une ou plusieurs conditions dans la liste déroulante. Vous pouvez effectuer cette opération séparément ou en association avec le filtrage de type de fichier.
 
 ![Image 2](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-2.png)
 
@@ -32,7 +32,7 @@ De plus, vous pouvez filtrer par condition **[!UICONTROL de]** ressource en choi
 
 ## Appliquer une action de masse
 
-Sélectionnez un groupe de ressources, puis choisissez une action dans la liste déroulante **[!UICONTROL Sélectionner une action]** . Les actions qui ne peuvent pas être appliquées à _aucune_ des ressources sélectionnées sont automatiquement grisées.
+Sélectionnez un groupe de ressources, puis choisissez une action dans la liste déroulante **[!UICONTROL Sélectionner une action]**. Les actions qui ne peuvent pas être appliquées à _aucune_ des ressources sélectionnées sont automatiquement grisées.
 
 ![Image trois](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-3.png)
 
@@ -46,13 +46,13 @@ Lorsque vous sélectionnez une action de masse, une fenêtre contextuelle de con
 
 ## Notifications d&#39;état
 
-Vous pouvez trouver l&#39;état de vos actions en masse dans le bac Notifications **** récentes.
+Vous pouvez trouver l&#39;état de vos actions en masse dans le bac **[!UICONTROL Notifications récentes]**.
 
 ![Image 5](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-5.png)
 
 ## Échecs d&#39;action de masse
 
-Si l’action que vous avez choisie ne peut pas être appliquée car la ressource nécessite une correction, vous recevrez une notification d’échec partiel (avec un symbole de prudence jaune). Si l’action n’a pas été appliquée à _toutes les_ ressources sélectionnées, la notification comporte un symbole d’avertissement rouge. Pour plus d&#39;informations, cliquez sur **[!UICONTROL Échecs]** de Vue.
+Si l’action que vous avez choisie ne peut pas être appliquée car la ressource nécessite une correction, vous recevrez une notification d’échec partiel (avec un symbole de prudence jaune). Si l&#39;action n&#39;a pas été appliquée à _tous_ des actifs sélectionnés, la notification comporte un symbole de prudence rouge. Cliquez sur **[!UICONTROL Échecs de Vue]** pour plus de détails.
 
 ![Image six](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-6.png)
 
