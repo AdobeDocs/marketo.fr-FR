@@ -12,18 +12,18 @@ ht-degree: 0%
 
 # Ajouter et supprimer des étiquettes
 
-Vous pouvez attribuer des étiquettes à n’importe quel fichier dans les Activités marketing, ce qui vous permet d’organiser et de rechercher des ressources en toute simplicité.
+Vous pouvez attribuer des étiquettes à n’importe quelle ressource dans [!UICONTROL Activités marketing], ce qui vous permet d’organiser et de rechercher des ressources en toute simplicité.
 
 ## Étiquettes des Ajoutes
 
-Pour ajouter de nouveaux libellés à un fichier, accédez à la page [!UICONTROL Détails] du fichier sous l’onglet [!UICONTROL Aperçu] .
+Pour ajouter de nouveaux libellés à une ressource, accédez à la page [!UICONTROL Détails] de la ressource sous l&#39;onglet [!UICONTROL Aperçu].
 <br> 
 
-Sous la section [!UICONTROL Étiquettes] , cliquez sur **[!UICONTROL Ajouter de nouvelles étiquettes]**.
+Sous la section [!UICONTROL Étiquettes], cliquez sur **[!UICONTROL Ajouter de nouvelles étiquettes]**.
 
 ![Image un](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-Si vous ajoutez une étiquette que vous n&#39;avez jamais utilisée auparavant, saisissez le nom de l&#39;étiquette et cliquez sur **[!UICONTROL Créer ____]**.
+Si vous ajoutez une étiquette que vous n&#39;avez jamais utilisée auparavant, saisissez le nom de l&#39;étiquette et cliquez sur **[!UICONTROL Créer ___]**.
 
 ![Image 2](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
@@ -37,6 +37,6 @@ Si vous ajoutez une étiquette qui a déjà été créée ailleurs, tapez pour l
 
 ## Supprimer les étiquettes
 
-Vous pouvez supprimer n’importe quelle étiquette en cliquant sur le **[!UICONTROL X]**.
+Vous pouvez supprimer n’importe quelle étiquette en cliquant sur **[!UICONTROL X]**.
 
 ![Image 4](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
