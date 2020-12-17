@@ -18,7 +18,7 @@ Voici les principes de base pour vous aider à naviguer dans la vue de Planning 
 
 ## Rechercher la Vue de planification
 
-Sélectionnez votre programme dans l&#39;arborescence. Sous l’onglet [!UICONTROL Détails] , cliquez sur [!UICONTROL Planifier].
+Sélectionnez votre programme dans l&#39;arborescence. Sous l&#39;onglet [!UICONTROL Détails], cliquez sur [!UICONTROL Planification].
 
 ![Image un](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-1.png)
 
@@ -34,6 +34,6 @@ L&#39;Agenda vous montre toutes les entrées d&#39;un mois donné.
 
 ## Paramètres de vue
 
-Dans le coin supérieur droit de la vue de Planning du programme, cliquez sur Paramètres [!UICONTROL de] Vue pour filtrer vos entrées par [!UICONTROL indicatif], [!UICONTROL confirmé]et/ou [!UICONTROL terminé.]
+Dans le coin supérieur droit de la vue de Planning du programme, cliquez sur [!UICONTROL Paramètres de Vue] pour filtrer vos entrées par [!UICONTROL Tentative], [!UICONTROL Confirmé] et/ou [!UICONTROL Terminé].
 
 ![Image 4](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-4.png)
