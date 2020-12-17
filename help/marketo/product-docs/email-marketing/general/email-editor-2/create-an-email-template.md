@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Créer un modèle de courrier électronique {#create-an-email-template}
+# Créer un modèle de courriel {#create-an-email-template}
 
 Pour créer un modèle de courrier électronique, procédez comme suit.
 
@@ -19,13 +19,13 @@ Pour créer un modèle de courrier électronique, procédez comme suit.
 >
 >La prise en charge du marketing n’est pas configurée pour aider à résoudre les problèmes liés au code HTML personnalisé. Pour obtenir de l’aide sur HTML, veuillez consulter un développeur Web.
 
-## Créer un modèle de courrier électronique {#create-a-new-email-template}
+## Créer un modèle de courriel {#create-a-new-email-template}
 
 1. Cliquez sur **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Cliquez sur **Nouveau**, puis sélectionnez **Nouveau modèle** de courriel.
+1. Cliquez sur **Nouveau**, puis sélectionnez **Nouveau modèle de courriel**.
 
    ![](assets/ds-two.png)
 
@@ -45,7 +45,7 @@ Pour créer un modèle de courrier électronique, procédez comme suit.
 
 Si vous avez créé un courrier électronique que vous souhaitez enregistrer en tant que modèle pour une utilisation ultérieure, procédez comme suit.
 
-1. Cliquez sur Activités **** marketing.
+1. Cliquez sur **Activités marketing**.
 
    ![](assets/one.png)
 
@@ -53,11 +53,11 @@ Si vous avez créé un courrier électronique que vous souhaitez enregistrer en 
 
    ![](assets/two-1.png)
 
-1. Cliquez sur la liste déroulante Actions **de** courriel et sélectionnez **Enregistrer en tant que modèle**.
+1. Cliquez sur la liste déroulante **Actions de courriel** et sélectionnez **Enregistrer en tant que modèle**.
 
    ![](assets/four-1.png)
 
-1. Cliquez sur la liste déroulante **Dossier** , sélectionnez l’emplacement où doit apparaître le modèle, puis cliquez sur **Enregistrer**.
+1. Cliquez sur la liste déroulante **Dossier**, sélectionnez l’emplacement où le modèle doit être activé, puis cliquez sur **Enregistrer**.
 
    ![](assets/five-1.png)
 
