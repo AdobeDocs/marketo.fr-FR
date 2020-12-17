@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez rapidement et facilement cloner un programme entier et toutes ses ressources au lieu de tout recréer manuellement. Voici comment.
 
-1. Recherchez et sélectionnez le programme à cloner, puis sous Actions **** Programme, cliquez sur **Cloner.**
+1. Recherchez et sélectionnez le programme à cloner, puis sous **Actions du Programme** cliquez sur **Cloner.**
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,7 +23,7 @@ Vous pouvez rapidement et facilement cloner un programme entier et toutes ses re
 
    >[!NOTE]
    >
-   >Les programmes peuvent être clonés dans des [dossiers](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) de [campagne](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) ou des espaces de [travail](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Veillez à partager toutes les ressources dépendantes sous-jacentes (courriels, extraits de code, modèles de landing page, etc.) avec l’espace de travail de destination avant le clonage.
+   >Les programmes peuvent être clonés dans [campaign](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [dossiers](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) ou [espaces de travail](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Veillez à partager toutes les ressources dépendantes sous-jacentes (courriels, extraits de code, modèles de landing page, etc.) avec l’espace de travail de destination avant le clonage.
 
    ![](assets/cloneto.png)
 
@@ -47,7 +47,7 @@ Vous pouvez rapidement et facilement cloner un programme entier et toutes ses re
 
    >[!TIP]
    >
-   >Utilisez cette technique avec [des jetons](http://docs.marketo.com/display/docs/using+tokens) pour accélérer la création de nouveaux programmes.
+   >Utilisez cette technique avec [jetons](http://docs.marketo.com/display/docs/using+tokens) pour accélérer la création de nouveaux programmes.
 
    >[!CAUTION]
    >
