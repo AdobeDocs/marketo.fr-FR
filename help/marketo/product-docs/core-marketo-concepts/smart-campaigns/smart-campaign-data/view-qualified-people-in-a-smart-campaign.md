@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Vue de personnes qualifiées dans une Campaign intelligente {#view-qualified-people-in-a-smart-campaign}
+# Vue des personnes qualifiées dans un Campaign intelligent {#view-qualified-people-in-a-smart-campaign}
 
 Vue des personnes habilitées à suivre le flux lorsque vous exécutez une campagne intelligente.
 
@@ -23,7 +23,7 @@ Vue des personnes habilitées à suivre le flux lorsque vous exécutez une campa
 >
 >Les campagnes intelligentes déclencheuses n’affichent pas les personnes qualifiées, puisqu’elles s’exécutent sur la base de événements en direct.
 
-1. L’onglet Personnes **** qualifiées liste les personnes habilitées à suivre le flux au moment de l’exécution de la campagne.
+1. L&#39;onglet **Personnes qualifiées** liste les personnes habilitées à suivre le flux lors de l&#39;exécution de la campagne.
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,7 +33,7 @@ Vue des personnes habilitées à suivre le flux lorsque vous exécutez une campa
 
    >[!NOTE]
    >
-   >Le nombre de personnes qualifiées dépend également des règles de qualification des campagnes intelligentes. Découvrez comment [modifier les règles](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)de qualification.
+   >Le nombre de personnes qualifiées dépend également des règles de qualification des campagnes intelligentes. Découvrez comment [modifier les règles de qualification](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
 Doux ! Vous pouvez utiliser cette liste pour vérifier quelles personnes peuvent suivre le flux avant d’exécuter une campagne dynamique.
 
