@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Transition des personnes entre les flux d’engagement {#transition-people-between-engagement-streams}
+# Transitions entre les flux d’engagement {#transition-people-between-engagement-streams}
 
-Les programmes d’engagement peuvent comporter plusieurs flux. Si vous [ajoutez un flux](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), vous voudrez définir un moyen pour les gens de passer d&#39;un flux à un autre. Ce sont les règles de **transition.**
+Les programmes d’engagement peuvent comporter plusieurs flux. Si vous [ajoutez un flux](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), vous voudrez définir un moyen pour les personnes de passer d’un flux à un autre. Elles sont appelées **règles de transition.**
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre programme d’engagement à flux multiples et accédez à **Flux**.
+1. Sélectionnez votre programme d’engagement multi-flux et accédez à **Flux**.
 
    ![](assets/multistream.jpg)
 
-1. Cliquez sur Règles **de** Transition pour le flux que vous souhaitez extraire des autres flux, puis sur **Modifier les règles de Transition. **
+1. Cliquez sur **Règles de Transition** pour le flux que vous souhaitez extraire des autres flux, puis cliquez sur **Modifier les règles de Transition. **
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -58,5 +58,5 @@ Les programmes d’engagement peuvent comporter plusieurs flux. Si vous [ajoutez
 
    >[!NOTE]
    >
-   >Les étapes décrites ci-dessus *s’appliquent* également aux personnes [en pause](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program) .
+   >Les étapes décrites ci-dessus *do* s&#39;appliquent également aux personnes [en pause](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program).
 
