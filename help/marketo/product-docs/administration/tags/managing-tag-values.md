@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gestion des valeurs de balise {#managing-tag-values}
 
-[Les balises](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) sont utilisées pour décrire les programmes. Vous pouvez en faire autant que vous le souhaitez, chacun avec des valeurs uniques. Voici comment gérer ces valeurs.
+[Les ](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) balises sont utilisées pour décrire les programmes. Vous pouvez en faire autant que vous le souhaitez, chacun avec des valeurs uniques. Voici comment gérer ces valeurs.
 
 >[!NOTE]
 >
@@ -23,17 +23,17 @@ ht-degree: 0%
 >
 >[Création d’une balise et d’une balise de Programme](create-a-new-program-tag-and-tag-values.md)
 
-## Ajouter les valeurs de balise {#adding-tag-values}
+## Ajouter des valeurs de balise {#adding-tag-values}
 
 1. Sous **Admin**, cliquez sur **Balises**.
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Cliquez sur** Nouveau**, puis sur **Nouvelle valeur** de balise.
+1. Cliquez sur** Nouveau**, puis sur **Nouvelle valeur de balise**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
-1. Sélectionnez le type **de** balise.
+1. Sélectionnez le **type de balise**.
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 Les balises peuvent être utilisées par d’anciens programmes. Vous pouvez les rendre obsolètes pour une utilisation ultérieure en masquant le type de balise.
 
-1. Sélectionnez la ** ****Balise** et sélectionnez la **valeur** à masquer.
+1. Sélectionnez la ** ****balise** et sélectionnez la **valeur** à masquer.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
-1. Sous Actions **** de balise, sélectionnez **Masquer**.
+1. Sous **Actions de balise**, sélectionnez **Masquer**.
 
    ![](assets/image2014-9-24-12-3a29-3a4.png)
 
