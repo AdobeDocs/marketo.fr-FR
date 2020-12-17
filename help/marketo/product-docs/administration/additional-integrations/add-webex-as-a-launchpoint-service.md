@@ -37,19 +37,19 @@ Marketo gère votre inscription et votre participation aux webinaires WebEx.
 
    ![](assets/image2015-4-23-11-3a20-3a43.png)
 
-1. Sélectionnez **Nouveau** , puis **Nouveau service**.
+1. Sélectionnez **Nouveau**, puis **Nouveau service**.
 
    ![](assets/webex-new-service.png)
 
-1. Saisissez un nom **** d’affichage. Sous **Service**, sélectionnez **WebEx**.
+1. Saisissez un **nom d’affichage**. Sous **Service**, sélectionnez **WebEx**.
 
    ![](assets/new-service-webex.png)
 
-1. Entrez votre nom **d’utilisateur** et votre **mot de passe**.
+1. Entrez votre **nom d’utilisateur** et **mot de passe**.
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. Terminez le processus en entrant votre** Nom du site**, puis cliquez sur **Créer**.
+1. Terminez le processus en entrant votre ** Nom du site**, puis cliquez sur **Créer**.
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
