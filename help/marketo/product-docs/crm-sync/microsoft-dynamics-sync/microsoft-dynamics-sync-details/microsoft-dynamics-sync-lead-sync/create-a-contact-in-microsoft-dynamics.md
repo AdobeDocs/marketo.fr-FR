@@ -17,11 +17,11 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Cliquez sur Actions **personnelles** et **Microsoft,** puis sélectionnez **Synchroniser la personne avec Microsoft**.
+1. Cliquez sur **Actions de personne** et **Microsoft,** et sélectionnez **Synchroniser la personne avec Microsoft**.
 
    ![](assets/two.png)
 
-1. Cliquez sur **Synchroniser comme** et sélectionnez **Contact**. Cliquez sur **Exécuter maintenant**.
+1. Cliquez sur **Sync As** et sélectionnez **Contact**. Cliquez sur **Exécuter maintenant**.
 
    ![](assets/three.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. Désormais, vous pouvez sélectionner **Contact** lorsque vous utilisez la contrainte Synchroniser en tant que dans un filtre de campagne dynamique.
+1. Désormais, vous pouvez sélectionner **Contact** lorsque vous utilisez la contrainte Sync As dans un filtre de campagne dynamique.
 
    ![](assets/five.png)
 
