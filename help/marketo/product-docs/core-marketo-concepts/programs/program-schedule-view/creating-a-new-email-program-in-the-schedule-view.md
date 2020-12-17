@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez créer un programme de messagerie à partir de la vue de Planning du programme. Voici comment.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,7 +27,7 @@ Vous pouvez créer un programme de messagerie à partir de la vue de Planning du
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Entrez un nom. Sélectionnez **E-mail** **Programme**.
+1. Entrez un nom. Sélectionnez **Courriel** **Programme**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,9 +35,9 @@ Vous pouvez créer un programme de messagerie à partir de la vue de Planning du
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Configurez votre programme](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) de messagerie et cliquez sur **Approuver le Programme**.
+1. [Configurez votre ](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) programme de messagerie, puis cliquez sur  **Approuver le Programme**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Outre le tableau de bord détaillé, l’utilisation d’un programme [de](http://docs.marketo.com/display/docs/email+programs) courriel au lieu d’une campagne intelligente présente l’avantage de permettre la mise en oeuvre facile d’un test [](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)A/B. Bon appétit !
+   Outre le tableau de bord détaillé, l’avantage de l’utilisation d’un [programme de courriel](http://docs.marketo.com/display/docs/email+programs) au lieu d’une campagne intelligente réside dans la possibilité d’implémenter facilement un test [A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Bon appétit !
 
