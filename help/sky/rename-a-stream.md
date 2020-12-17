@@ -20,7 +20,7 @@ Si vous aimez rester organisé, vous pouvez renommer vos flux.
 
    ![Image un](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-1.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Flux]**.
 
    ![Image 2](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-2.png)
 
