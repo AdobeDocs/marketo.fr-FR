@@ -17,7 +17,7 @@ Azure Principale Directory étend vos répertoires locaux dans le cloud, fournis
 
 ## Enregistrement d’une nouvelle application {#registering-a-new-app}
 
-1. [Connectez-vous](http://manage.windowsazure.com/) au portail de gestion Microsoft Azure à l&#39;aide d&#39;un compte doté d&#39;autorisations d&#39;administrateur. Vous pouvez également accéder au portail Microsoft Azure via le Centre d&#39;administration Office 365 en développant l&#39;élément **Admin** dans le volet de navigation de gauche et en sélectionnant **Azure AD**.
+1. [Connectez-vous ](http://manage.windowsazure.com/) au portail de gestion Microsoft Azure à l&#39;aide d&#39;un compte doté d&#39;autorisations d&#39;administrateur. Vous pouvez également accéder au portail Microsoft Azure via le Centre d&#39;administration Office 365 en développant l&#39;élément **Admin** dans le volet de navigation de gauche et en sélectionnant **Azure AD**.
 
    >[!CAUTION]
    >
@@ -25,16 +25,16 @@ Azure Principale Directory étend vos répertoires locaux dans le cloud, fournis
 
    >[!NOTE]
    >
-   >Si vous n&#39;avez pas de compte Azure, vous pouvez vous [inscrire](https://azure.microsoft.com/en-us/free/) pour un compte Azure. Consultez la documentation de Microsoft ou contactez votre représentant Microsoft pour plus d&#39;informations. Une fois que vous avez créé un compte Azure, vous pouvez enregistrer une ou plusieurs applications en suivant la procédure décrite ci-dessous.
+   >Si vous n&#39;avez pas de compte Azure, vous pouvez [vous inscrire](https://azure.microsoft.com/en-us/free/) pour un compte. Consultez la documentation de Microsoft ou contactez votre représentant Microsoft pour plus d&#39;informations. Une fois que vous avez créé un compte Azure, vous pouvez enregistrer une ou plusieurs applications en suivant la procédure décrite ci-dessous.
    >
    >
    >Si vous avez un compte Azure mais que votre abonnement Office 365 avec Microsoft Dynamics 365 n&#39;est pas disponible dans votre abonnement Azure, suivez [ces instructions](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) pour associer les deux comptes.
 
-1. Recherchez et cliquez sur **Azure Principal Directory** dans le volet de navigation de gauche.
+1. Recherchez **Azure Principale Directory** et cliquez dessus dans le volet de navigation de gauche.
 
    ![](assets/two.png)
 
-1. Sous Gérer, cliquez sur Inscriptions **** d’application.
+1. Sous Gérer, cliquez sur **Inscriptions de l’application**.
 
    ![](assets/three.png)
 
@@ -42,25 +42,25 @@ Azure Principale Directory étend vos répertoires locaux dans le cloud, fournis
 
    ![](assets/four.png)
 
-1. Saisissez un nom pour votre application, choisissez le type de compte approprié, puis saisissez une URL de redirection. Cliquez ensuite sur **S’inscrire** au bas de la page.
+1. Saisissez un nom pour votre application, choisissez le type de compte approprié, puis saisissez une URL de redirection. Cliquez ensuite sur **S’inscrire** en bas de la page.
 
    ![](assets/five.png)
 
-1. Vous devriez maintenant voir votre application dans l’onglet Inscriptions **de l’** application.
+1. Vous devriez maintenant voir votre application dans l&#39;onglet **Inscriptions de l&#39;application**.
 
    ![](assets/six.png)
 
 ## Configuration des autorisations d’application {#configuring-app-permissions}
 
-1. Sous l&#39;onglet Inscriptions **de l&#39;** application dans votre Principale Directory, cliquez sur l&#39;application pour laquelle vous souhaitez configurer les autorisations.
+1. Sous l&#39;onglet **Inscriptions de l&#39;application** de votre Principal Directory, cliquez sur l&#39;application pour laquelle vous souhaitez configurer les autorisations.
 
    ![](assets/seven.png)
 
-1. Sous Gérer, cliquez sur Autorisations **** API.
+1. Sous Gérer, cliquez sur **Autorisations d’API**.
 
    ![](assets/eight.png)
 
-1. Cliquez sur le bouton **Ajouter une autorisation** .
+1. Cliquez sur le bouton **Ajouter une autorisation**.
 
    ![](assets/nine.png)
 
@@ -68,7 +68,7 @@ Azure Principale Directory étend vos répertoires locaux dans le cloud, fournis
 
    ![](assets/ten.png)
 
-1. Cochez la case **Accéder au service de données commun en tant qu’utilisateur de l’organisation***s** , puis cliquez sur **Ajouter les autorisations.**
+1. Cochez la case **Accéder au service de données commun en tant qu&#39;utilisateur de l&#39;organisation****s**, puis cliquez sur **Ajouter les autorisations.**
 
    ![](assets/eleven.png)
 
@@ -76,7 +76,7 @@ Azure Principale Directory étend vos répertoires locaux dans le cloud, fournis
 
    ![](assets/twelve.png)
 
-1. Cliquez sur le bouton **Accorder le consentement** de l’administrateur.
+1. Cliquez sur le bouton **Octroyer le consentement de l’administrateur**.
 
    ![](assets/thirteen.png)
 
