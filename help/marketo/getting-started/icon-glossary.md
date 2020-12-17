@@ -28,7 +28,7 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Dossier</span></td> 
   </tr> 
@@ -56,16 +56,16 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="25" src="assets/share-to.png"> 
+     <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">Le dossier source que vous avez partagé avec un autre espace de travail</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" width="25" src="assets/share-from.png"> 
+     <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Dossier de destination qui a été partagé à partir d’un autre espace de travail <br>(le cadenas indique que les modifications ne peuvent pas être effectuées)</td> 
+   <td colspan="1">Dossier de destination qui a été partagé à partir d'un autre espace de travail <br> (le cadenas indique que les modifications ne peuvent pas être effectuées)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -91,7 +91,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
+     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
    <td colspan="1">Déclencheur</td> 
   </tr> 
@@ -414,7 +414,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" src="assets/hs-icon.png" title="--"> 
+     <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
    <td colspan="1">Programme de courriel planifié avec le Début principal</td> 
   </tr> 
@@ -680,7 +680,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Icônes Design Studio {#design-studio-icons}
+### Icônes de Design Studio {#design-studio-icons}
 
 <table> 
  <tbody> 
