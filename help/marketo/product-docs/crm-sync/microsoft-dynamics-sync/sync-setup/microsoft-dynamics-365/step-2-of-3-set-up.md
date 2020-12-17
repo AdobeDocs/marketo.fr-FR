@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Étape 2 sur 3 : Configurer un utilisateur de synchronisation de marketing dans Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
+# Étape 2 sur 3 : Configurer l&#39;utilisateur de synchronisation Marketo dans Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
 
 Commençons par créer un compte utilisateur.
 
@@ -21,7 +21,7 @@ Commençons par créer un compte utilisateur.
 
 ## Créer un utilisateur {#create-a-new-user}
 
-1. Connexion à Dynamics. Cliquez sur l’icône Paramètres et sélectionnez Paramètres **** avancés.
+1. Connexion à Dynamics. Cliquez sur l&#39;icône Paramètres et sélectionnez **Paramètres avancés**.
 
    ![](assets/one.png)
 
@@ -37,7 +37,7 @@ Commençons par créer un compte utilisateur.
 
    ![](assets/four.png)
 
-1. Cliquez sur **Ajouter et Licence Utilisateurs** dans la nouvelle fenêtre.
+1. Cliquez sur **Ajouter et License Users** dans la nouvelle fenêtre.
 
    ![](assets/five.png)
 
@@ -57,11 +57,11 @@ Commençons par créer un compte utilisateur.
    >
    >Ce nom doit être un utilisateur de synchronisation dédié et non un compte d’utilisateur CRM existant. Il n’est pas nécessaire qu’il s’agisse d’une adresse électronique réelle.
 
-1. Saisissez le courrier électronique pour recevoir les informations d’identification du nouvel utilisateur, puis cliquez sur **Envoyer un courrier électronique et fermez**.
+1. Saisissez le courrier électronique pour recevoir les nouvelles informations d’identification de l’utilisateur, puis cliquez sur **Envoyer un courrier électronique et fermez**.
 
    ![](assets/nine.png)
 
-## Attribuer un rôle utilisateur de synchronisation {#assign-sync-user-role}
+## Affecter le rôle utilisateur de synchronisation {#assign-sync-user-role}
 
 Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’utilisateur de synchronisation du marketing. Vous n’avez pas besoin de l’affecter à d’autres utilisateurs.
 
@@ -87,29 +87,29 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
    >[!NOTE]
    >
-   >Les mises à jour effectuées dans votre gestion de la relation client par l’utilisateur de synchronisation **ne seront pas** synchronisées à nouveau sur Marketing Cloud.
+   >Toutes les mises à jour effectuées dans votre gestion de la relation client par l’utilisateur de synchronisation **ne** seront &lt;a0/> synchronisées de nouveau sur Marketo.
 
 ## Configurer la solution marketing {#configure-marketo-solution}
 
 Presque là ! Il ne nous reste plus qu’à informer Marketing Solution sur le nouvel utilisateur créé.
 
-1. Revenez à la section Paramètres avancés et cliquez sur l’ ![](assets/image2015-5-13-15-3a49-3a19.png)icône en regard de Paramètres, puis sélectionnez **Configuration du marketing**.
+1. Revenez à la section Paramètres avancés et cliquez sur l&#39;icône ![](assets/image2015-5-13-15-3a49-3a19.png)en regard de Paramètres, puis sélectionnez **Configuration du marketing**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Si vous ne voyez pas **la configuration** de Marketo dans le menu Paramètres, actualisez la page. Si cela ne fonctionne pas, essayez de [publier à nouveau la solution](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) Marketo ou de vous déconnecter puis de vous reconnecter.
+   >Si **Configuration du marketing** ne s’affiche pas dans le menu Paramètres, actualisez la page. Si cela ne fonctionne pas, essayez de [publier à nouveau la solution marketing](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) ou de vous déconnecter puis de vous reconnecter.
 
 1. Cliquez sur **Par défaut**.
 
    ![](assets/fifteen.png)
 
-1. Cliquez sur le bouton de recherche dans le champ Utilisateur **** marketing et sélectionnez l’utilisateur de synchronisation que vous avez créé.
+1. Cliquez sur le bouton de recherche du champ **Utilisateur du marketing** et sélectionnez l’utilisateur de synchronisation que vous avez créé.
 
    ![](assets/sixteen.png)
 
-1. Cliquez sur l’ ![](assets/image2015-3-13-15-3a10-3a11.png)icône située dans l’angle inférieur droit pour enregistrer les modifications.
+1. Cliquez sur l&#39;icône ![](assets/image2015-3-13-15-3a10-3a11.png)dans le coin inférieur droit pour enregistrer les modifications.
 
    ![](assets/image2015-3-13-15-3a3-3a3.png)
 
@@ -117,11 +117,11 @@ Presque là ! Il ne nous reste plus qu’à informer Marketing Solution sur le n
 
    ![](assets/seventeen.png)
 
-1. Cliquez sur l’ ![](assets/image2015-5-13-15-3a49-3a19-1.png)icône en regard de Paramètres, puis sélectionnez **Solutions**.
+1. Cliquez sur l&#39;icône ![](assets/image2015-5-13-15-3a49-3a19-1.png)en regard de Paramètres, puis sélectionnez **Solutions**.
 
    ![](assets/eighteen.png)
 
-1. Cliquez sur le bouton **Publier toutes les personnalisations** .
+1. Cliquez sur le bouton **Publier toutes les personnalisations**.
 
    ![](assets/nineteen.png)
 
