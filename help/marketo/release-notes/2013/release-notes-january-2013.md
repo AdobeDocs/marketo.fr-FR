@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Notes de mise à jour : Janvier 2013 {#release-notes-january}
 
-La version de janvier élargit notre offre sociale avec des Offres **de** référence. En outre, les utilisateurs de la gestion des pistes marketing peuvent définir leur fuseau horaire, leur langue et leurs préférences de paramètres régionaux. Veuillez noter que les fonctions marquées d&#39;un * sont disponibles uniquement dans l&#39;édition Select.
+La version de janvier développe notre offre sociale avec **Offres référentes**. En outre, les utilisateurs de la gestion des pistes marketing peuvent définir leur fuseau horaire, leur langue et leurs préférences de paramètres régionaux. Veuillez noter que les fonctions marquées d&#39;un * sont disponibles uniquement dans l&#39;édition Select.
 
 ## Offres de renvoi {#referral-offers}
 
-Une Offre **** de renvoi incite vos dirigeants à diriger leurs amis. Créez des objectifs et des récompenses pour les renvois réussis. Vous pouvez l’utiliser sur des landings page, votre site Web et même Facebook.
+Une **Offre de renvoi** incite vos prospects à diriger leurs amis. Créez des objectifs et des récompenses pour les renvois réussis. Vous pouvez l’utiliser sur des landings page, votre site Web et même Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 
@@ -29,7 +29,7 @@ Vous pouvez modifier le fuseau horaire par défaut de votre compte professionnel
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## Sélectionnez la langue de gestion des pistes marketing {#select-your-marketo-lead-management-language}
+## Sélectionnez votre langue de gestion des pistes marketing {#select-your-marketo-lead-management-language}
 
 Vous pouvez modifier la langue par défaut de votre compte utilisateur Marketing. Même si l’abonnement est défini par défaut en anglais, vous pouvez le remplacer par allemand ou français pour votre propre usage.
 
@@ -51,13 +51,13 @@ Si votre préférence de langue Salesforce est définie sur Français ou Alleman
 
 ![](assets/image2014-9-22-15-3a22-3a31.png)
 
-## Nom d’affichage du champ {#field-display-name}
+## Nom d&#39;affichage du champ {#field-display-name}
 
 Les noms d’affichage des champs peuvent afficher du texte dans différentes langues (par exemple, les caractères à plusieurs octets sont pris en charge).
 
 ![](assets/image2014-9-22-15-3a22-3a56.png)
 
-## Modifier les données du Programme {#change-program-data}
+## Modifier les données de Programme {#change-program-data}
 
 L’étape de flux Modifier les données du Programme vous permet de modifier manuellement l’état de réussite et la date de réussite d’un membre du programme par le biais d’une campagne. Vous pouvez utiliser cette étape de flux pour corriger une erreur ou pour modifier manuellement un membre qui n&#39;a peut-être pas participé au programme comme prévu.
 
