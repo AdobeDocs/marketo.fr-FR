@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Créer des types d’entrée personnalisés {#create-custom-entry-types}
+# Créer des types d&#39;entrée personnalisés {#create-custom-entry-types}
 
 Vous pouvez créer des types d’entrée personnalisés à utiliser dans votre Vue de Planning du programme. Cela vous permettra de suivre tous les points de l&#39;ordre du jour autres que Marketo qui affectent votre programme.
 
@@ -19,11 +19,11 @@ Vous pouvez créer des types d’entrée personnalisés à utiliser dans votre V
 
    ![](assets/admintags.png)
 
-1. Cliquez sur Type **** d’entrée de calendrier.
+1. Cliquez sur **Type d’entrée de calendrier**.
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. Cliquez sur la liste déroulante **Nouveau** et sélectionnez Type **** d’entrée.
+1. Cliquez sur la liste déroulante **Nouveau** et sélectionnez **Type d’entrée**.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,7 +31,7 @@ Vous pouvez créer des types d’entrée personnalisés à utiliser dans votre V
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. Sélectionnez une couleur **** d’entrée.
+1. Sélectionnez une **couleur d’entrée**.
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 
