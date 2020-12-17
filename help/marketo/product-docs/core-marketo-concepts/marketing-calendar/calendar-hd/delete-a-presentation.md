@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’une présentation {#delete-a-presentation}
+# Supprimer une présentation {#delete-a-presentation}
 
 Parfois, on peut avoir trop de bonnes choses. Supprimez les anciennes présentations pour faire de la place pour les nouvelles !
 
