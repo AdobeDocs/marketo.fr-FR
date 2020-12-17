@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Réponse automatique du courriel {#email-auto-response}
+# Réponse automatique par courriel {#email-auto-response}
 
-## Mission : Envoyer un e-mail de remerciement lorsqu’une personne remplit un formulaire {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
+## Mission : Envoyer un e-mail de remerciement lorsqu&#39;une personne remplit un formulaire {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
 >[!PREREQUISITES]
 >
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   Un éditeur de courrier électronique s’ouvre dans une nouvelle fenêtre ou un nouvel onglet. Si les fenêtres contextuelles sont bloquées, cliquez sur **Modifier le brouillon** sur la page de résumé des ressources pour accéder au courrier électronique.
+   Un éditeur de courrier électronique s’ouvre dans une nouvelle fenêtre ou un nouvel onglet. Si les fenêtres contextuelles sont bloquées, cliquez sur **Modifier le brouillon** dans la page de résumé des ressources pour accéder au courrier électronique.
 
 1. Entrez un objet, puis cliquez sur la zone modifiable du courrier électronique en maintenant le doublon enfoncé.
 
@@ -65,25 +65,25 @@ ht-degree: 0%
 
 ## Étape 2 : Créer une Campaign intelligente {#step-create-a-smart-campaign}
 
-1. Cliquez avec le bouton droit sur **Mon Programme** et cliquez sur **Nouvelle Campaign** intelligente.
+1. Cliquez avec le bouton droit de la souris sur **Mon Programme** et cliquez sur **Nouvelle Campaign dynamique**.
 
    ![](assets/image2014-9-24-11-3a56-3a13.png)
 
-1. **Nommez** votre campagne &quot;Campaign de réponse automatique&quot; et cliquez sur **Créer**.
+1. **Attribuez un** nom à la campagne dynamique &quot;Auto Response Campaign&quot; et cliquez sur  **Créer**.
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Accédez à l’onglet **Smart Liste** .
+1. Accédez à l&#39;onglet **Liste dynamique**.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Nous configurons cette campagne pour qu’elle s’exécute chaque fois qu’une personne remplit le formulaire que vous avez créé en [**Landing page avec un formulaire**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+   Nous configurons cette campagne pour qu’elle s’exécute chaque fois qu’une personne remplit le formulaire que vous avez créé dans [**Landing page avec un formulaire**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
-1. Recherchez et faites glisser le déclencheur **Remplir le formulaire** sur le canevas de gauche.
+1. Recherchez et faites glisser le déclencheur **Remplit le formulaire** sur le canevas de gauche.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Sélectionnez **Mon formulaire** dans la liste déroulante. Cliquez sur l’onglet **Flux** .
+1. Sélectionnez **Mon formulaire** dans la liste déroulante. Cliquez sur l&#39;onglet **Flux**.
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Sélectionnez votre courriel **de réponse** automatique et accédez à l&#39;onglet **Planification** .
+1. Sélectionnez votre **courriel de réponse automatique** et accédez à l&#39;onglet **Planification**.
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
@@ -117,17 +117,17 @@ ht-degree: 0%
 
 ## Étape 3 : Remplir le formulaire {#step-fill-out-the-form}
 
-1. Sélectionnez **Ma page**. Cette opération a été créée dans le [Landing page avec une victoire rapide sur le formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
+1. Sélectionnez **Ma page**. Cela a été créé dans le [Landing page avec un Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) gain rapide.
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
-1. Cliquez sur Page **Approuvée** Vue.
+1. Cliquez sur **Vue Page approuvée**.
 
    ![](assets/image2014-9-24-12-3a0-3a18.png)
 
    Votre landing page &quot;Essai gratuit&quot; s’ouvre dans un nouvel onglet.
 
-1. Renseignez le formulaire avec votre prénom, votre nom et votre adresse électronique, puis cliquez sur **Envoyer**.
+1. Remplissez le formulaire avec votre prénom, votre nom et votre adresse électronique, puis cliquez sur **Envoyer**.
 
    ![](assets/image2014-9-24-12-3a0-3a28.png)
 
