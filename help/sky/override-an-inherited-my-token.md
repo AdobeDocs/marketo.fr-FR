@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Voici comment remplacer un jeton hérité dans un programme enfant ou un dossier de campagne.
 
-1. Dans l’onglet [!UICONTROL Mes jetons] , recherchez le jeton à remplacer dans la section Jetons  hérités.
+1. Dans l&#39;onglet [!UICONTROL Mes jetons], recherchez le jeton à remplacer dans la section [!UICONTROL Jetons hérités].
 
    ![Image un](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-1.png)
 
-1. Cliquez sur la **[!UICONTROL valeur]** du jeton et modifiez-la. La modification de la valeur de ce jeton le déplace automatiquement vers la section Jetons  remplacés.
+1. Cliquez sur le jeton **[!UICONTROL Valeur]** et modifiez-le. La modification de la valeur de ce jeton le déplace automatiquement vers la section [!UICONTROL Jetons remplacés].
 
    ![Image 2](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-2.png)
 
