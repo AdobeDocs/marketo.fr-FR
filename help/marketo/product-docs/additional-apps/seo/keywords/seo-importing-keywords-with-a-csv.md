@@ -13,8 +13,8 @@ ht-degree: 0%
 
 # SEO - Importation de mots-clés avec un fichier CSV {#seo-importing-keywords-with-a-csv}
 
-1. Vous pouvez [ajouter des mots-clés](seo-add-keywords.md) manuellement, [obtenir des suggestions](seo-get-suggested-keywords.md) de mots-clés et même importer des mots-clés à partir d’un fichier CSV. Voici comment procéder à l&#39;importation.
-1. Accédez à la section **Mots-clés** .
+1. Vous pouvez [ajouter des mots-clés](seo-add-keywords.md) manuellement, [obtenir des suggestions de mots-clés](seo-get-suggested-keywords.md) et même importer des mots-clés à partir d&#39;un fichier CSV. Voici comment procéder à l&#39;importation.
+1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Cliquez sur **Choisir un fichier**.
+1. Cliquez sur **Sélectionner un fichier**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >Les limites d’importation varient selon votre abonnement. Contactez votre représentant commercial pour plus d&#39;informations.
 
-1. Cliquez sur **IMPORTER**.
+1. Cliquez sur **IMPORT**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
