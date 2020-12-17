@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Utilisation de membres de Liste dans une Liste intelligente {#use-members-of-list-in-a-smart-list}
+# Utiliser des membres de la Liste dans une Liste intelligente {#use-members-of-list-in-a-smart-list}
 
 >[!TIP]
 >
->Vous pouvez ajouter des personnes à une liste à l’aide de l’ [option Importer](../../../../getting-started/quick-wins/import-a-list-of-people.md) ou de l’étape [](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)de flux d’Ajoute à la Liste.
+>Vous pouvez ajouter des personnes à une liste à l’aide de [Importer](../../../../getting-started/quick-wins/import-a-list-of-people.md) ou de l’[Ajouter à l’étape de flux de Liste](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
 Avec ce filtre, vous pouvez extraire des membres d’une autre liste en y faisant référence dans vos règles de liste intelligente. Voici comment.
 
-1. Sélectionnez une liste intelligente et cliquez sur l’onglet Liste **** intelligente.
+1. Sélectionnez une liste intelligente et cliquez sur l&#39;onglet **Liste dynamique**.
 
    ![](assets/smartlist-sltab.png)
 
