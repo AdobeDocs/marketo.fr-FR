@@ -17,11 +17,11 @@ Identifiez et engagez les comptes nommés et les personnes qui les composent en 
 
 ## FILTRES ABM {#abm-filters}
 
-1. Sélectionnez votre campagne intelligente et cliquez sur Liste **** intelligente.
+1. Sélectionnez votre campagne intelligente et cliquez sur **Liste intelligente**.
 
    ![](assets/one.png)
 
-1. Cliquez sur le **+** pour développer le dossier des Filtres **de** compte.
+1. Cliquez sur **+** pour développer le dossier **Filtres de compte**.
 
    ![](assets/two.png)
 
@@ -57,7 +57,7 @@ Pour utiliser ce filtre, cliquez sur la liste déroulante liste de compte...
 
    ![](assets/eight.png)
 
-1. Si vous utilisez le qualificatif &quot;est n’importe quel&quot;, vous pouvez utiliser [des contraintes](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) pour limiter vos résultats de recherche. Ajoutez autant que vous le souhaitez !
+1. Si vous utilisez le qualificateur &quot;est n&#39;importe lequel&quot;, vous pouvez utiliser [contraintes](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) pour limiter les résultats de la recherche. Ajoutez autant que vous le souhaitez !
 
    ![](assets/nine.png)
 
