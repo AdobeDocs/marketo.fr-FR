@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Confirmer directement les entrées dans le calendrier marketing {#confirm-entries-directly-in-the-marketing-calendar}
+# Confirmer les entrées directement dans le calendrier marketing {#confirm-entries-directly-in-the-marketing-calendar}
 
 Des campagnes intelligentes et des programmes électroniques peuvent être créés comme des entrées provisoires et doivent être confirmées pour que quoi que ce soit se produise réellement. Voici comment.
 
-1. Accédez au **calendrier**.
+1. Accédez au **Calendrier**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 
-1. Sélectionnez l’entrée à confirmer, puis cliquez sur **Afficher la mise au point** du Programme.
+1. Sélectionnez l&#39;entrée à confirmer, puis cliquez sur **Afficher l&#39;orientation du Programme**.
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
