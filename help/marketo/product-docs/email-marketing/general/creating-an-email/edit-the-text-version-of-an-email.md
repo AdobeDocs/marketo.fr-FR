@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Modification de la version textuelle d’un courrier électronique {#edit-the-text-version-of-an-email}
+# Modifier la version textuelle d&#39;un courrier électronique {#edit-the-text-version-of-an-email}
 
 Lorsque vous créez un courrier électronique, vous pouvez souhaiter que sa version textuelle soit libellée différemment de la version HTML. Par défaut, Marketo copie automatiquement le contenu textuel de tout élément de texte enrichi contenu dans votre courrier électronique vers la version texte. Voici comment le modifier.
 
 >[!NOTE]
 >
->Il ne s’agit pas d’un article sur la création d’un courrier électronique au format texte uniquement. Pour plus d’informations à ce sujet, voir [Création d’un courrier électronique](create-a-text-only-email.md)texte uniquement.
+>Il ne s’agit pas d’un article sur la création d’un courrier électronique au format texte uniquement. Pour plus d’informations à ce sujet, voir [Création d’un courriel texte seulement](create-a-text-only-email.md).
 
 1. Dans l’éditeur de courrier électronique, cliquez sur l’onglet **Texte** au bas du courrier électronique.
 
