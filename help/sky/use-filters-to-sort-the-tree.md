@@ -24,7 +24,7 @@ Pour accéder au panneau de filtrage, cliquez sur l’icône Filtres en haut de 
 
 Vous pouvez utiliser cette fonction pour rechercher des fichiers qui ont été créés ou modifiés au cours d’une période spécifique ; par exemple, la semaine dernière, au cours des trois derniers mois, etc.
 
-Par défaut, Marketo charge tout le contenu des six derniers mois. Pour modifier ce paramètre, sélectionnez une plage dans la liste déroulante **[!UICONTROL Choisir une plage]** de dates. Ces paramètres sont collants et seront également appliqués lors de votre prochaine connexion à Marketing Cloud.
+Par défaut, Marketo charge tout le contenu des six derniers mois. Pour modifier ce paramètre, sélectionnez une plage dans la liste déroulante **[!UICONTROL Choisir la plage de dates]**. Ces paramètres sont collants et seront également appliqués lors de votre prochaine connexion à Marketing Cloud.
 
 ![Image 2](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
@@ -34,7 +34,7 @@ Entrez une étiquette que vous souhaitez trier et sélectionnez parmi les étiqu
 
 ![Image trois](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-3.png)
 
-Cliquez sur le **X** pour supprimer une étiquette de votre recherche filtrée.
+Cliquez sur **X** pour supprimer une étiquette de votre recherche filtrée.
 
 ![Image 4](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-4.png)
 
