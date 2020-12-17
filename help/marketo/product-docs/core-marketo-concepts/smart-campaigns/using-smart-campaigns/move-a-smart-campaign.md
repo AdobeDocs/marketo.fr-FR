@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Déplacez une campagne intelligente entre différents programmes ou dossiers à l’aide de la fonction glisser-déposer ou de déplacement dans l’arborescence.
 
-## Utiliser glisser-déposer {#use-drag-and-drop}
+## Utiliser la fonction glisser-déposer {#use-drag-and-drop}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -31,7 +31,7 @@ Déplacez une campagne intelligente entre différents programmes ou dossiers à 
    >
    >Les règles de votre campagne intelligente ne changeront pas - elle sera simplement imbriquée dans un autre endroit.
 
-## Utilisation de la fonction de déplacement {#use-the-move-feature}
+## Utiliser la fonction de déplacement {#use-the-move-feature}
 
 Les campagnes intelligentes peuvent également être déplacées à l’aide de la fonction de déplacement de l’arborescence.
 
@@ -39,7 +39,7 @@ Les campagnes intelligentes peuvent également être déplacées à l’aide de 
 
    ![](assets/rockclimbing2.jpg)
 
-1. Choisissez entre accéder à un **Programme** ou à un **dossier**.
+1. Choisissez entre passer à un **Programme** ou à un **dossier**.
 
    ![](assets/image2015-2-25-13-3a34-3a20.png)
 
