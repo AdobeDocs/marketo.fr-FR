@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Champion/Challenger : Ignorer un test de messagerie {#champion-challenger-discard-an-email-test}
+# Champion/Challenger : Ignorer un test de courriel {#champion-challenger-discard-an-email-test}
 
 Si, à un moment ou à un autre, vous décidez de ne pas continuer à exécuter votre test par courrier électronique, vous pouvez l’ignorer. Voici comment.
 
@@ -23,7 +23,7 @@ Si, à un moment ou à un autre, vous décidez de ne pas continuer à exécuter 
 
 
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -37,5 +37,5 @@ Si, à un moment ou à un autre, vous décidez de ne pas continuer à exécuter 
 
    `
 
-   Vous avez fini ! Si vous décidez de reconfigurer un test, allez-y et [ajoutez un champion](add-an-email-champion-challenger.md)de messagerie/challenger.
+   Vous avez fini ! Si vous décidez de reconfigurer un test, allez-y et [ajoutez un champion/challenger ](add-an-email-champion-challenger.md) par courriel.
 
