@@ -17,11 +17,11 @@ Par défaut, le contenu du flux est désactivé. Activez le contenu pour l’env
 
 ## Activer le contenu du flux {#activate-stream-content}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre programme d’engagement, puis cliquez sur l’onglet **Flux** .
+1. Sélectionnez votre programme d’engagement et cliquez sur l’onglet **Flux**.
 
    ![](assets/cloneasteam.jpg)
 
@@ -41,7 +41,7 @@ Par défaut, le contenu du flux est désactivé. Activez le contenu pour l’env
 
 ## Désactiver le contenu du flux {#deactivate-stream-content}
 
-1. Sélectionnez votre programme d’engagement, puis cliquez sur l’onglet **Flux** .
+1. Sélectionnez votre programme d’engagement et cliquez sur l’onglet **Flux**.
 
    ![](assets/cloneasteam.jpg)
 
