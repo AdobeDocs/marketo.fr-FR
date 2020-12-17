@@ -19,7 +19,7 @@ Cloner une présentation pour la réutiliser à différents endroits.
 
    ![](assets/image2015-3-26-12-3a22-3a6.png)
 
-1. Cliquez avec le bouton droit de la souris sur la présentation et sélectionnez **Cloner**.
+1. Cliquez avec le bouton droit sur la présentation et sélectionnez **Cloner**.
 
    ![](assets/image2015-3-26-12-3a22-3a47.png)
 
