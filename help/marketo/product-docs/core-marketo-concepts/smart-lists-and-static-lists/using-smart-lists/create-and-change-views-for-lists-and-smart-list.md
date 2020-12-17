@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Une liste intelligente affiche un ensemble de colonnes par défaut. Saviez-vous que vous pouviez modifier ces colonnes en fonction du contenu de votre coeur ? Voici comment.
 
-## Création d’une Vue {#create-a-view}
+## Créer une Vue {#create-a-view}
 
-1. Accédez à une liste ou une liste intelligente, cliquez sur l’onglet **Personnes** , puis sur **Créer** une **Vue** sous la liste déroulante **Vue.**
+1. Accédez à une liste ou une liste intelligente, cliquez sur l’onglet **Personnes**, puis sur **Créer** **Vue** dans la liste déroulante **Vue**.
 1. ![](assets/smartlist-createview.png)
 
 1. Nommez la vue et recherchez la colonne à ajouter ou à supprimer.
@@ -30,11 +30,11 @@ Une liste intelligente affiche un ensemble de colonnes par défaut. Saviez-vous 
 
 >[!TIP]
 >
->Pour effectuer une recherche rapidement, utilisez la zone **Rechercher** .
+>Pour effectuer une recherche rapide, utilisez la zone **Rechercher**.
 
-## Changer de Vue {#switch-views}
+## Vues de commutation {#switch-views}
 
-1. Cliquez sur la liste déroulante **Vue** , puis sélectionnez la vue de votre choix. Basculez entre les vues selon vos besoins.
+1. Cliquez sur la liste déroulante **Vue**, puis sélectionnez la vue de votre choix. Basculez entre les vues selon vos besoins.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -42,25 +42,25 @@ Une liste intelligente affiche un ensemble de colonnes par défaut. Saviez-vous 
 >
 > Vous devez d’abord créer une deuxième vue, en plus de la vue par défaut, pour changer de vue.
 
-## Modification d’une Vue {#edit-a-view}
+## Modifier une Vue {#edit-a-view}
 
-1. Assurez-vous que la vue à modifier est sélectionnée dans la liste déroulante **Vue** .
+1. Assurez-vous que la vue à modifier est sélectionnée dans la liste déroulante **Vue**.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Cliquez sur l’option **Modifier** .
+1. Cliquez sur l&#39;option **Modifier**.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Effectuez les modifications souhaitées, puis cliquez sur **Enregistrer**.
+1. Effectuez les modifications souhaitées et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
 
 
-## Suppression d’une Vue {#delete-a-view}
+## Supprimer une Vue {#delete-a-view}
 
-1. Sélectionnez l’option **Modifier** pour la vue à supprimer dans la liste déroulante **Vue** .
+1. Sélectionnez l&#39;option **Modifier** pour la vue à supprimer dans la liste déroulante **Vue**.
 
    ![](assets/smartlist-editcustomview.png)
 
