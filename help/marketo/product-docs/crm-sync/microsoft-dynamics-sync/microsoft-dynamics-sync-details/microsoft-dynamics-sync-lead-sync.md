@@ -29,7 +29,7 @@ Bien que cela soit rare, Marketo gagnera pour les gens (pistes) et Dynamics gagn
 
 ## Puis-je créer un prospect dans Dynamics à l&#39;aide de Marketo ? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Oui, utilisez l&#39;action de flux [Synchroniser la personne avec Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) . Cela créera une piste dans Dynamics si elle n&#39;existe pas. Si la piste existe, l&#39;étape de flux n&#39;effectue aucune action.
+Oui, utilisez l&#39;action de flux [Synchroniser la personne avec Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Cela créera une piste dans Dynamics si elle n&#39;existe pas. Si la piste existe, l&#39;étape de flux n&#39;effectue aucune action.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Non, la synchronisation en arrière-plan automatisée est le seul moyen de synch
 
 ## Quels champs seront synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
 
-Vous pouvez [sélectionner les champs à synchroniser](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) lors de la configuration.
+Vous pouvez [sélectionner les champs à synchroniser](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) pendant la configuration.
 
 ## Marketo respectera-t-il les règles de validation Dynamics ? {#will-marketo-respect-the-dynamics-validation-rules}
 
