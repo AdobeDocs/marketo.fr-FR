@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez ajouter des éléments aux listes lorsque vous ajoutez des mots-clés, des pages, des problèmes de page ou des liens entrants. Les listes vous aident à rester organisées et vous permettent de filtrer les rapports pour n’afficher que les données de cette liste. Voici comment les fabriquer :
 
-1. Cliquez sur **AJOUTER DES MOTS-CLÉS**.
+1. Cliquez sur **AJOUTER MOTS-CLÉS**.
 
    >[!NOTE]
    >
@@ -29,9 +29,9 @@ Vous pouvez ajouter des éléments aux listes lorsque vous ajoutez des mots-clé
 
    >[!TIP]
    >
-   >Vous pouvez créer une liste dans la liste déroulante. Entrez un titre, appuyez sur la touche Retour.  ![—](assets/image2014-9-18-13-3a25-3a8.png) >
+   >Vous pouvez créer une liste dans la liste déroulante. Entrez un titre, appuyez sur la touche Retour.  ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
 
-1. Cliquez sur **ENREGISTRER**.
+1. Cliquez sur **SAVE**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
