@@ -19,7 +19,7 @@ Si vous souhaitez supprimer un filtre dans le calendrier marketing, vous êtes a
 
    ![](assets/image2014-9-24-11-3a27-3a32.png)
 
-1. Cliquez sur le **x** rouge.
+1. Cliquez sur le rouge **x**.
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 
