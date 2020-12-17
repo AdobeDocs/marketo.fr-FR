@@ -19,7 +19,7 @@ Pour permettre aux utilisateurs d’accéder à Account Insight, procédez comme
 
    ![](assets/admin-1.png)
 
-1. Cliquez sur **Utilisateurs et rôles** dans l’arborescence. Cliquez ensuite sur l&#39;onglet Utilisateurs **** commerciaux, puis **Inviter un nouvel utilisateur** commercial.
+1. Cliquez sur **Utilisateurs et rôles** dans l’arborescence. Cliquez ensuite sur l&#39;onglet **Utilisateurs commerciaux** et **Inviter un nouvel utilisateur commercial**.
 
    ![](assets/two-6.png)
 
@@ -29,7 +29,7 @@ Pour permettre aux utilisateurs d’accéder à Account Insight, procédez comme
    >
    >Lorsque vous invitez de nouveaux utilisateurs (autres que Marketo) via la liste utilisateur CRM, vous pouvez inviter plusieurs personnes à la fois. L’invitation par courrier électronique est définie sur 1 pour 1.
 
-1. Cliquez sur la liste déroulante Utilisateur **** CRM et sélectionnez l’utilisateur de votre choix.
+1. Cliquez sur la liste déroulante **Utilisateur CRM** et sélectionnez l’utilisateur de votre choix.
 
    ![](assets/three-5.png)
 
@@ -45,7 +45,7 @@ Pour permettre aux utilisateurs d’accéder à Account Insight, procédez comme
 
    ![](assets/five-5.png)
 
-1. Cochez la case **Account Insight** , puis cliquez sur **Next**.
+1. Cochez la case **Account Insight** et cliquez sur **Suivant**.
 
    ![](assets/six-3.png)
 
