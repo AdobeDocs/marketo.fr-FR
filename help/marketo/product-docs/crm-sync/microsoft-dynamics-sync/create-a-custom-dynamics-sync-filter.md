@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous ne souhaitez pas synchroniser tout ce qui se trouve dans votre Dynamics CRM dans Marketo ? Ne vous inquiétez pas ! Marketo vous permet de configurer un filtre de synchronisation et de synchroniser uniquement une partie de vos enregistrements.
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Pour configurer un filtre de synchronisation Dynamics :
 
@@ -37,7 +37,7 @@ Marketo recherche ce champ lors de la synchronisation automatique en arrière-pl
 
 >[!CAUTION]
 >
->La seule façon de demander à Marketo de sauter un enregistrement consiste à définir explicitement la valeur du champ sur **Non**. Marketo synchronise toujours les enregistrements même si les valeurs de champ sont vides.
+>Le seul moyen de demander à Marketo de sauter un enregistrement consiste à définir explicitement la valeur du champ sur **Non**. Marketo synchronise toujours les enregistrements même si les valeurs de champ sont vides.
 
 >[!PREREQUISITES]
 >
@@ -45,7 +45,7 @@ Marketo recherche ce champ lors de la synchronisation automatique en arrière-pl
 
 ## Créer un champ SyncToMkto {#create-synctomkto-field}
 
-1. Connectez-vous à Dynamics CRM. Cliquez sur **Paramètres** , puis sur **Personnalisations**.
+1. Connectez-vous à Dynamics CRM. Cliquez sur **Paramètres**, puis sur **Personnalisations**.
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
@@ -53,21 +53,21 @@ Marketo recherche ce champ lors de la synchronisation automatique en arrière-pl
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
-1. Cliquez ![](assets/image2015-8-10-21-3a44-3a23.png) en regard de **Entités**.
+1. Cliquez sur ![](assets/image2015-8-10-21-3a44-3a23.png) en regard de **Entités**.
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. Cliquez ![](assets/image2015-8-10-21-3a44-3a23.png) en regard de **Plomb **et sélectionnez **Champs**. Cliquez ensuite sur **Nouveau**.
+1. Cliquez sur ![](assets/image2015-8-10-21-3a44-3a23.png) en regard de **Lead **et sélectionnez **Fields**. Cliquez ensuite sur **Nouveau**.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
-1. Saisissez **SyncToMkto** dans le champ Nom **d’** affichage et sélectionnez **Deux options** comme type **de données.** Cliquez ensuite sur **Enregistrer et fermer**.
+1. Saisissez **SyncToMkto** dans le champ **Nom d’affichage** et sélectionnez **Deux options** comme **Type de données**. Cliquez ensuite sur **Enregistrer et fermer**.
 
    ![](assets/image2015-9-8-10-3a25-3a33.png)
 
    >[!NOTE]
    >
-   >Choisissez n’importe quel nom d’affichage pour ce champ, mais le champ Nom doit être exactement **new_synctomkto**. Vous devez utiliser **new** comme préfixe par défaut. Si vous avez modifié la valeur par défaut, allez ici pour [réinitialiser le préfixe par défaut pour les noms](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)de champs personnalisés. Vous pouvez la modifier une fois les nouveaux champs créés.
+   >Choisissez un nom d’affichage pour ce champ, mais le champ Nom doit être exactement **new_synctomkto**. Vous devez utiliser **new** comme préfixe par défaut. Si vous avez modifié la valeur par défaut, passez ici à [réinitialiser le préfixe par défaut pour les noms de champs personnalisés](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). Vous pouvez la modifier une fois les nouveaux champs créés.
 
    >[!NOTE]
    >
@@ -75,7 +75,7 @@ Marketo recherche ce champ lors de la synchronisation automatique en arrière-pl
 
 1. Répétez ce processus et créez le champ **SyncToMkto** pour toutes les autres entités sur lesquelles vous souhaitez limiter la synchronisation, telles que les entités de contact, de compte, d&#39;opportunité et personnalisées.
 
-## Sélectionner le filtre dans le marketing {#select-the-filter-in-marketo}
+## Sélectionnez le filtre dans Marketo {#select-the-filter-in-marketo}
 
 Même si vous avez déjà effectué votre synchronisation initiale, entrez et sélectionnez les champs à synchroniser avec Marketo.
 
@@ -83,7 +83,7 @@ Même si vous avez déjà effectué votre synchronisation initiale, entrez et s�
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Cliquez sur **Modifier** dans Détails de synchronisation des champs.
+1. Cliquez sur **Modifier** sur Détails de synchronisation des champs.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -103,7 +103,7 @@ Vous pouvez toujours affecter manuellement une valeur aux champs SyncToMkto de v
 >
 >Un processus Dynamics fonctionne uniquement sur les nouveaux enregistrements créés à l&#39;avenir, et non sur les données historiques. Utilisez une mise à jour par lot pour passer d&#39;un enregistrement à un autre.
 
-1. Accédez à Dynamics CRM. Cliquez sur **Paramètres** , puis sur **Processus**.
+1. Accédez à Dynamics CRM. Cliquez sur **Paramètres**, puis sur **Processus**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
@@ -111,7 +111,7 @@ Vous pouvez toujours affecter manuellement une valeur aux champs SyncToMkto de v
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Saisissez un nom pour le processus, puis sélectionnez **Workflow** comme catégorie et **Piste** comme entité. Cliquez ensuite sur **OK**.
+1. Saisissez un nom pour le flux de travaux et sélectionnez **Workflow** comme catégorie et **Lead** comme entité. Cliquez ensuite sur **OK**.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
@@ -121,7 +121,7 @@ Vous pouvez toujours affecter manuellement une valeur aux champs SyncToMkto de v
 
    >[!NOTE]
    >
-   >Définissez une action par défaut après avoir cliqué sur **Ajouter l’étape** pour ajouter une condition de vérification. Cela définit les enregistrements que vous ne souhaitez pas synchroniser sur **Non**. Sinon, ils seront synchronisés.
+   >Définissez une action par défaut après avoir cliqué sur **Ajouter l’étape** pour ajouter une condition de vérification. Cela définit les enregistrements que vous ne souhaitez pas synchroniser avec **Non**. Sinon, ils seront synchronisés.
 
 1. Sélectionnez le processus et cliquez sur **Activer**.
 
@@ -129,7 +129,7 @@ Vous pouvez toujours affecter manuellement une valeur aux champs SyncToMkto de v
 
    >[!TIP]
    >
-   >Voir Règles de filtre de synchronisation [personnalisée pour une adresse](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) électronique afin de configurer des règles de synchronisation des enregistrements uniquement pour les personnes avec des adresses électroniques.
+   >Voir [Règles de filtre de synchronisation personnalisée pour une adresse électronique](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) pour configurer des règles afin de synchroniser uniquement les enregistrements des personnes avec des adresses électroniques.
 
 ## Détails du filtre de synchronisation {#sync-filter-details}
 
@@ -141,7 +141,7 @@ Voici quelques détails d’implémentation que nous avons pensé devoir connaî
 
    >[!TIP]
    >
-   >Une opération **Create [StartSync]** est ajoutée au journal marketing lorsque cela se produit.
+   >Une opération **Créer [StartSync]** est ajoutée au journal du marketing lorsque cela se produit.
 
 1. Arrêt d’une opération de synchronisation
 
