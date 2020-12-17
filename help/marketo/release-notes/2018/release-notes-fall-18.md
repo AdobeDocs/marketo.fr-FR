@@ -17,13 +17,13 @@ Les fonctionnalités suivantes sont incluses dans la version de l’automne 18. 
 
 Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction, le cas échéant.
 
-## Améliorations des plates-formes principales {#core-platform-enhancements}
+## Améliorations de la plate-forme de base {#core-platform-enhancements}
 
 **[Personnalisation Web](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
 La personnalisation Web prend désormais en charge plusieurs espaces de travail.
 
-## Engagement commercial {#marketo-sales-engage}
+## Intervention commerciale {#marketo-sales-engage}
 
 * **Prise en charge** de la foudre par la DDC : Les utilisateurs qui migrent vers Lightning ou qui utilisent actuellement Lightning peuvent tirer parti de MSE pour un engagement plus intelligent tout au long du parcours de l’acheteur.
 
@@ -38,7 +38,7 @@ La personnalisation Web prend désormais en charge plusieurs espaces de travail.
 
 ## Marketo Sky {#marketo-sky}
 
-Pour plus de détails et de mises à jour, consultez nos notes [de mise à jour de](https://help.marketo.com)Sky.
+Pour plus de détails et de mises à jour, consultez nos [Notes de mise à jour Sky](https://help.marketo.com).
 
 * **Mises à jour de Design System**
 
@@ -55,8 +55,8 @@ Pour plus de détails et de mises à jour, consultez nos notes [de mise à jour 
 * Page d&#39;accueil de Design Studio : Créez de nouveaux fichiers, faites glisser et déposez des images et des fichiers, puis gérez tous les fichiers existants.
 * Vues de la Liste Design Studio : Les utilisateurs ont désormais la possibilité de vue de modèles de landing page et de modèles de vue électronique au format liste, ce qui permet une navigation rapide et des actions en bloc sur un seul type de ressource.
 * Pages de détails du fichier Design Studio : Gagnez du temps et évitez les maux de tête en visualisant, organisant et exécutant des actions en masse sur toutes les ressources au même endroit.
-* **Programmes par défaut désormais disponibles dans le Marketo Sky**: Marketo Sky prend désormais en charge les programmes par défaut, le style de programme polyvalent qui vous permet de créer n’importe quelle campagne imaginable.
-* **Programmes par courriel - Phase 1**: Vous pouvez désormais vue de programmes de messagerie dans Sky. Jetez un coup d&#39;oeil au nouveau design et [faites-nous savoir ce que vous pensez](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Programmes par défaut désormais disponibles dans le Marketo Sky** : Marketo Sky prend désormais en charge les programmes par défaut, le style de programme polyvalent qui vous permet de créer n’importe quelle campagne imaginable.
+* **Programmes par courriel - Phase 1** : Vous pouvez désormais vue de programmes de messagerie dans Sky. Jetez un coup d&#39;oeil à la nouvelle conception et [faites-nous savoir ce que vous pensez ](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analytics {#analytics}
 
@@ -83,7 +83,7 @@ Pour plus de détails et de mises à jour, consultez nos notes [de mise à jour 
    * Paramètre d&#39;ajustement à l&#39;échelle : Le graphique à barres de tableau de bord principal est plus facile à lire pour aider à comparer les performances des programmes au fil du temps.
    * Icône Alertes : L&#39;icône d&#39;alerte affiche toutes les alertes principales concernant les problèmes de qualité des données et les notifications de configuration.
 
-* **Engagement par Activité Date**: Les utilisateurs peuvent sélectionner les mesures d’engagement de vue par date d’activité ou période de coût.
+* **Engagement par Activité Date** : Les utilisateurs peuvent sélectionner les mesures d’engagement de vue par date d’activité ou période de coûts.
 * **FILTRES** de compte nommé ABM : Filtrez le pipeline et les tableaux de bord de recettes selon des comptes nommés spécifiques.
 
 ## Réseaux publicitaires {#ad-networks}
