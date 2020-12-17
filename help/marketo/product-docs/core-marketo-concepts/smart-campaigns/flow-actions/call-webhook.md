@@ -21,7 +21,7 @@ ht-degree: 0%
 
 
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Les hameçons Web vous permettent d’interagir avec des services tiers. Envoyez/recevez des informations en appelant un webhook dans un flux de campagne dynamique.
 
@@ -35,7 +35,7 @@ Les hameçons Web vous permettent d’interagir avec des services tiers. Envoyez
 
 ## Utilisation {#usage}
 
-Sélectionnez un **crochet** Web dans la liste déroulante.
+Sélectionnez **Webhook** dans la liste déroulante.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
