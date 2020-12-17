@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Référencer une Liste ou une Liste dynamique dans les espaces de travail {#reference-a-list-or-smart-list-across-workspaces}
+# Référencer une Liste ou une Liste dynamique entre les espaces de travail {#reference-a-list-or-smart-list-across-workspaces}
 
 Les listes et les listes intelligentes peuvent être partagées et référencées dans les espaces de travail pour une réutilisation facile à partir de la base de données.
 
 >[!NOTE]
 >
->Les règles de partition des personnes s&#39;appliquent (les listes dynamiques et les listes statiques dans un espace de travail affichent uniquement les personnes qui sont à la fois membres de la liste ** et membres de l&#39;espace de travail actuel).
+>Les règles de partition des personnes s&#39;appliquent (les listes dynamiques et les listes statiques d&#39;un espace de travail affichent uniquement les personnes qui sont toutes deux membres de la liste *et* membres de l&#39;espace de travail actuel).
 
-## Partage d’une Liste ou d’une Liste dynamique  {#share-a-list-or-smart-list}
+## Partager une Liste ou une Liste dynamique {#share-a-list-or-smart-list}
 
 1. Accédez à la **base de données**.
 
@@ -37,7 +37,7 @@ Les listes et les listes intelligentes peuvent être partagées et référencée
 
    ![](assets/three-4.png)
 
-1. Cliquez avec le bouton droit de la souris sur **Nouveau dossier** et sélectionnez **Partager un dossier**.
+1. Cliquez avec le bouton droit de la souris sur **Nouveau dossier** et sélectionnez **Partager le dossier**.
 
    ![](assets/four-3.png)
 
