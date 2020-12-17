@@ -29,5 +29,5 @@ Si vous devez désactiver une ancienne campagne de déclenchement, procédez com
 
 >[!NOTE]
 >
->Cela empêchera *de nouvelles* personnes d’entrer dans le flux, mais les personnes en attente ou toute autre étape de flux continueront à se déplacer dans le flux jusqu’à ce qu’ils aient terminé.
+>Cela empêchera les *nouvelles* personnes d’entrer dans le flux, mais les personnes en attente ou toute autre étape de flux continueront à se déplacer dans le flux jusqu’à ce qu’elles aient terminé.
 
