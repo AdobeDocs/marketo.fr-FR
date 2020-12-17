@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation d’un jeton de date dans une étape de flux d’attente {#use-a-date-token-in-a-wait-flow-step}
+# Utiliser un jeton de date dans une étape de flux d&#39;attente {#use-a-date-token-in-a-wait-flow-step}
 
 Vous pouvez utiliser l’étape de flux d’attente pour interrompre le parcours d’une personne au cours d’une campagne dynamique jusqu’à une date particulière qui utilise un jeton de date. Vous pouvez également modifier la date de fin d’un certain nombre de jours.
 
@@ -19,7 +19,7 @@ Vous pouvez utiliser l’étape de flux d’attente pour interrompre le parcours
 >
 >Cela s’applique uniquement aux campagnes déclencheuses. Vous ne pouvez pas utiliser cette fonction dans les campagnes par lots.
 
-1. Dans l’onglet **Flux** de campagne dynamique, faites glisser le pointeur de la souris sur l’étape de flux d’ **attente** .
+1. Dans l’onglet de votre campagne dynamique **Flux**, faites glisser la souris sur l’étape de flux **Attendre**.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
@@ -27,7 +27,7 @@ Vous pouvez utiliser l’étape de flux d’attente pour interrompre le parcours
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. Dans la liste déroulante **Type** , sélectionnez Jeton **de** date.
+1. Dans la liste déroulante **Type**, sélectionnez **Jeton de date**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -54,7 +54,7 @@ Vous pouvez utiliser l’étape de flux d’attente pour interrompre le parcours
 
    >[!NOTE]
    >
-   >Vous pouvez également spécifier le nombre de jours à l’aide d’un `{{lead.` jeton ou d’un `{{company.` jeton qui représente un champ entier ou un `{{my.` jeton de type numérique.
+   >Vous pouvez également spécifier le nombre de jours à l’aide d’un jeton `{{lead.` ou `{{company.` qui représente un champ entier ou d’un jeton `{{my.` de type nombre.
 
 1. Cliquez sur Enregistrer.
 
