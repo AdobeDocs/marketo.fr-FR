@@ -27,7 +27,7 @@ Lorsque vous [créez ou modifiez un rôle](../../../../product-docs/administrati
 
 ![](assets/createnewrole.png)
 
-## Administration d’accès  {#access-admin}
+## Admin d&#39;accès {#access-admin}
 
 Vue et modification des paramètres dans la section Mon compte de l’administrateur.
 
@@ -35,7 +35,7 @@ Vue et modification des paramètres dans la section Mon compte de l’administra
 * Canaux d&#39;accès : donne aux utilisateurs l&#39;accès uniquement à la modification de la balise de Canal, et non à d&#39;autres balises personnalisées.
 * Limite de communication d’accès : donne aux utilisateurs l’accès pour activer une limite de communication dans Admin
 * Access CRM - Donne aux utilisateurs l&#39;accès à la gestion de la relation client, telle que Salesforce ou Microsoft Dynamics, dans Admin
-* Accès à [Data.com](http://Data.com) : donne aux utilisateurs l’accès à l’action de flux Data.com.
+* Accès [Data.com](http://Data.com) : donne aux utilisateurs l’accès à l’action de flux Data.com
 * Accès à l’administrateur des courriels : permet aux utilisateurs d’accéder à l’administrateur des courriels afin de modifier les paramètres par défaut, tels que l’annulation de l’abonnement et l’identité graphique des domaines.
 * Partenaires de Événement d&#39;accès - Donne aux utilisateurs l&#39;accès à LaunchPoint dans l&#39;administration
 * Gestion des champs d’accès - Donne aux utilisateurs l’accès à la gestion des champs dans l’administration
@@ -59,9 +59,9 @@ Vue et modification des paramètres dans la section Mon compte de l’administra
 * Accéder à des hameçons Web - Fournit aux utilisateurs des hameçons Web dans l’administration, pour définir des détails et des correspondances de réponses
 * Accéder aux espaces de travail et aux partitions : donne aux utilisateurs l’accès à la création, à la modification et à la suppression des espaces de travail et des partitions dans l’administration.
 
-## API d’accès  {#access-api}
+## API d&#39;accès {#access-api}
 
-Donne aux utilisateurs dotés du **rôle** **API uniquement** l’accès aux API individuelles répertoriées ci-dessous.
+Donne aux utilisateurs disposant de l&#39;accès **API uniquement** **Rôle** aux API individuelles répertoriées ci-dessous.
 
 * Approbation des ressources
 * Exécuter Campaign
@@ -94,7 +94,7 @@ Donne aux utilisateurs l’accès aux onglets Analytics, aux statistiques d’e-
 * Supprimer le rapport - La désactivation supprime la possibilité pour l&#39;utilisateur de supprimer des rapports.
 * Exportation des données Analytics - La désactivation supprime la possibilité pour l’utilisateur d’exporter des données Analytics.
 
-## Accéder au calendrier Presentations {#access-calendar-presentations}
+## Presentations du calendrier d&#39;accès {#access-calendar-presentations}
 
 Donne aux utilisateurs l&#39;accès aux présentations Calendrier ? ?- permet l&#39;affichage du bouton Presentations en bas ?
 
@@ -108,7 +108,7 @@ Donne aux utilisateurs l’accès à l’onglet Design Studio et à la vue de l�
 
    * Modifier le courrier électronique : permet aux utilisateurs de modifier, créer et cloner des courriers électroniques.
 
-      * Optimiser le courrier électronique : permet aux utilisateurs de rendre un courrier électronique opérationnel. Voir : [Optimiser le courrier électronique](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Optimiser le courrier électronique : permet aux utilisateurs de rendre un courrier électronique opérationnel. Voir : [Optimiser un courriel](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
    * Approuver le courrier électronique : permet aux utilisateurs d&#39;approuver les courriers électroniques.
    * Supprimer un courrier électronique : permet aux utilisateurs de supprimer des courriers électroniques.
    * Définir un domaine de marque : permet aux utilisateurs de travailler avec des domaines de marque. Voir : [Ajouter plusieurs domaines de marque](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
@@ -172,7 +172,7 @@ Vue de la base de données ainsi que de la vue et modification des listes dynami
 * Importer un objet personnalisé
 * Liste d’importation
 * Fusionner les personnes
-* Exécuter des actions de flux unique : permet aux utilisateurs d&#39;exécuter l&#39;étape de flux **Modifier la valeur** des données sur les personnes de la base de données.
+* Exécuter des actions de flux unique : permet aux utilisateurs d&#39;exécuter l&#39;étape de flux **Modifier la valeur des données** sur les personnes de la base de données.
 
 * Données d&#39;opportunité de vue - Masque les informations d&#39;opportunité sur la page de détails de la personne
 
