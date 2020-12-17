@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’un flux {#delete-a-stream}
+# Supprimer un flux {#delete-a-stream}
 
 Si vous devez supprimer un flux de votre programme d’engagement, suivez ces étapes rapides et simples.
 
@@ -37,5 +37,5 @@ Si vous devez supprimer un flux de votre programme d’engagement, suivez ces é
 
    >[!NOTE]
    >
-   >Si le courant contient des gens, on vous demandera de les [déplacer](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) en premier.
+   >Si le flux contient des personnes, il vous sera demandé de les [déplacer](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) en premier.
 
