@@ -25,7 +25,7 @@ Exécutez une campagne dynamique sur une personne à la fois en fonction des év
 
    >[!NOTE]
    >
-   >Une campagne intelligente avec des déclencheurs s’exécute en mode **Déclencheur** . Il s’exécute sur une personne à la fois en fonction des événements déclenchés et des filtres supplémentaires.
+   >Une campagne intelligente avec des déclencheurs s’exécute en mode **Déclencheur**. Il s’exécute sur une personne à la fois en fonction des événements déclenchés et des filtres supplémentaires.
 
 1. Cliquez sur la liste déroulante et choisissez un opérateur.
 
@@ -45,7 +45,7 @@ Exécutez une campagne dynamique sur une personne à la fois en fonction des év
 
    >[!NOTE]
    >
-   >Avec plusieurs déclencheurs, une personne traverse le flux si **N&#39;IMPORTE QUEL** des déclencheurs est activé.
+   >Avec plusieurs déclencheurs, une personne passe par le flux si **ANY** l&#39;un des déclencheurs est activé.
 
    [Définir une Liste intelligente pour une Campaign intelligente | Lot](define-smart-list-for-smart-campaign-batch.md)
 
