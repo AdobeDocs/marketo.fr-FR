@@ -28,7 +28,7 @@ Le rapport partage :
 
 ![](assets/one-4.png)
 
-## Clé du rapport des ventes {#sales-report-key}
+## Clé de rapport commercial {#sales-report-key}
 
 | **Note de compte** | Tendance hebdomadaire par note de compte (sélectionnée dans la configuration), suivie par note de compte courant |
 |---|---|
