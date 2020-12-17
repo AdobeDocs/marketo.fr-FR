@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Les fonctionnalités suivantes sont incluses dans la version de février 2015. Veuillez vérifier la disponibilité des fonctionnalités de votre édition Marketing. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers des articles détaillés pour chaque fonction. Lancement de tambour...
 
-## Améliorations de l’automatisation du marketing {#marketing-automation-enhancements}
+## Améliorations de l&#39;automatisation du marketing {#marketing-automation-enhancements}
 
-** [Move Smart Campaign](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
+** [Déplacer Campaign Smart](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
 Réjouissez-vous ! Désormais, vous pouvez déplacer des campagnes intelligentes dans et hors des programmes à l’aide de la fonction glisser-déposer ou Déplacer dans l’arborescence.
 
@@ -29,9 +29,9 @@ Pour protéger la confidentialité et l’intégrité des données client et des
 
 et remplacera les protocoles de sécurité actuellement utilisés (SHA-1 et SSL) par des versions plus sécurisées (SHA-2 (ou SHA-256) et TLS) pour les domaines suivants :
 
-`·` [marketo.net](http://marketo.net) (trafic Munchkin chiffré)
+`·` [marketo.net](http://marketo.net)  (trafic Munchkin chiffré)
 
-`·` [marketo.com](http://marketo.com) (applications SaaS principales)
+`·` [marketo.com](http://marketo.com)  (applications SaaS principales)
 
 Cela se produira peu après cette version. Le protocole SHA-1 sera temporairement pris en charge sur le domaine [mktoapi.com](http://mktoapi.com) jusqu&#39;en décembre 2015 pour permettre aux propriétaires de systèmes et d&#39;applications hérités de mettre à jour leurs systèmes avec la compatibilité SHA-2.
 
@@ -41,12 +41,12 @@ Nous supprimons la prise en charge de SSL3. Jusqu&#39;à présent, nous avons ma
 
 ## Améliorations de la personnalisation en temps réel {#real-time-personalization-enhancements}
 
-** URL [de Cible pour les campagnes](../../product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
+** [URL de Cible pour les campagnes](../../product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
 
 Sélectionnez les pages sur lesquelles votre campagne en temps réel doit s&#39;afficher à l&#39;aide de l&#39;option &quot;Ajouter une URL de Cible&quot;. Cette fonctionnalité fonctionne avec tous les types de campagne (Boîte de dialogue, Zone, Widgets), mais elle s’avère particulièrement utile pour les campagnes en zone dans lesquelles une campagne s’affichera dans l’identifiant de zone pour l’URL de cible sélectionnée uniquement. Il prend en charge l’ajout de plusieurs URL à la cible de différentes pages Web.
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-** [Pays et État Ajoutés au ciblage](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)basé sur les comptes**
+** [Pays et État Ajoutés au ciblage basé sur le compte](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)**
 
 Le pays et l’état peuvent désormais être ajoutés à vos Listes de compte nommé. Prospects de compte clés de cible à partir d’emplacements spécifiques.
