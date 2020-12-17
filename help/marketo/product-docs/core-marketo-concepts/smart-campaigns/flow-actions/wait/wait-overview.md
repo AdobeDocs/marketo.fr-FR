@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Attendre {#wait}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
-Mettez une personne en pause dans un flux de campagne dynamique avec l’étape **d’** attente pratique.
+Mettez une personne en pause dans un flux de campagne dynamique à l’aide de l’**étape d’attente** pratique.
 
 ![](assets/wait-overview.png)
 
-Vous pouvez saisir du texte dans un langage naturel tel que &quot;4 heures&quot;. Toutefois, **ne pas** abréger les mots (c&#39;est-à-dire 4 heures). La campagne intelligente continuerait à s’exécuter, mais l’étape d’attente serait ignorée.
+Vous pouvez saisir du texte dans un langage naturel tel que &quot;4 heures&quot;. Toutefois, ne **pas** abréger les mots (c&#39;est-à-dire 4 heures). La campagne intelligente continuerait à s’exécuter, mais l’étape d’attente serait ignorée.
 
 >[!CAUTION]
 >
@@ -27,7 +27,7 @@ Vous pouvez saisir du texte dans un langage naturel tel que &quot;4 heures&quot;
 
 >[!TIP]
 >
->Si vous avez déjà une personne en attente et que vous ne souhaitez pas qu’elle avance après la fin de la période d’attente, insérez [supprimer du flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) juste après l’étape d’attente. Indiquez qui vous souhaitez supprimer les éléments à l’aide de l’option [Ajouter un choix](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) .
+>Si vous avez déjà une personne en attente et que vous ne souhaitez pas qu’elle avance après la fin de la période d’attente, insérez [supprimer du flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) juste après l’étape d’attente. Spécifiez qui vous souhaitez supprimer en utilisant l&#39;option [ajouter choice](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md).
 
 ## Utilisation {#usage}
 
