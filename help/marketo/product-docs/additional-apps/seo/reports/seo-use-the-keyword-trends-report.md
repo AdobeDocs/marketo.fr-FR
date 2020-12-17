@@ -21,7 +21,7 @@ Ce rapport montre comment vous êtes classé selon les mots-clés au fil du temp
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Cliquez sur Tendances **de classement de** mots-clés.
+1. Cliquez sur **Tendances de classement de mots-clés**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -48,7 +48,7 @@ Ce rapport montre comment vous êtes classé selon les mots-clés au fil du temp
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Exportation de données  {#exporting-data}
+## Exportation de données {#exporting-data}
 
 >[!TIP]
 >
