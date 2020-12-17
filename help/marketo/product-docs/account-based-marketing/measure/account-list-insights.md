@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Informations sur la Liste de compte {#account-list-insights}
+# Informations sur les Listes de compte {#account-list-insights}
 
 Le tableau de bord de Liste de compte offre une vue d&#39;informations agrégées provenant de tous les comptes nommés de cette liste.
 
@@ -44,15 +44,15 @@ Pour voir un tableau de bord de Liste de compte, il vous suffit de cliquer sur s
 
 ## Onglet Comptes nommés {#named-accounts-tab}
 
-Cliquez sur l&#39;onglet Comptes **** nommés pour identifier les comptes nommés qui appartiennent à cette liste de comptes.
+Cliquez sur l&#39;onglet **Comptes nommés** pour identifier les comptes nommés qui appartiennent à cette liste de comptes.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->Vous pouvez supprimer un compte nommé dans cet onglet en le sélectionnant et en cliquant sur **Supprimer les comptes** nommés.
+>Vous pouvez supprimer un compte nommé dans cet onglet en le sélectionnant et en cliquant sur **Supprimer les comptes nommés**.
 
-## Utilisé par l’onglet {#used-by-tab}
+## Utilisé par l&#39;onglet {#used-by-tab}
 
 Cliquez sur l’onglet **Utilisé par** pour identifier les actifs référençant cette Liste de compte.
 
