@@ -27,11 +27,11 @@ Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
 
    ![](assets/image2014-9-24-11-3a39-3a6.png)
 
-1. Cochez la case **Activer les URL** personnalisées et cliquez sur **S****ave**.
+1. Cochez la case **Activer les URL personnalisées** et cliquez sur **S****ave**.
 
    ![](assets/image2014-9-24-11-3a39-3a41.png)
 
-Super boulot ! Maintenant que vous avez activé les URL pour votre compte, vous pouvez les [activer pour des landings page](../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)individuels.
+Super boulot ! Maintenant que vous avez activé les URL pour votre compte, vous pouvez [les activer pour des landings page individuels](../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >
