@@ -21,13 +21,13 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 >
 >[landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-## Étape 1 : Créer un courriel d’alerte {#step-create-an-alert-email}
+## Étape 1 : Créer un courriel d&#39;alerte {#step-create-an-alert-email}
 
-1. Accédez à la zone Activités **** marketing.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/one-5.png)
 
-1. Sélectionnez **Mon Programme** que vous avez créé dans le [Landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) Quick win, puis sous **Nouveau** , cliquez sur **Nouveau fichier local.**
+1. Sélectionnez **Mon Programme** que vous avez créé dans le [Landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) gagner rapidement, puis sous **Nouveau** cliquez sur **Nouveau fichier local**.
 
    ![](assets/two-6.png)
 
@@ -35,11 +35,11 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
    ![](assets/three-5.png)
 
-1. **Nommez** le courrier électronique &quot;Mon alerte par courriel&quot;, sélectionnez un modèle et cliquez sur **Créer**.
+1. **** Nommez l’adresse électronique &quot;My Email Alert&quot;, sélectionnez un modèle et cliquez sur  **Créer**.
 
    ![](assets/four-4.png)
 
-1. Saisissez le nom **** de l&#39;équipe commerciale **, le** courriel **, la** réponse à **et lesujet que votre équipe commerciale doit consulter.**
+1. Entrez **Du nom**, **Du courriel**, **Répondre à** et **Objet** que votre équipe commerciale doit voir.
 
    ![](assets/five-5.png)
 
@@ -51,17 +51,17 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
    ![](assets/seven-6.png)
 
-1. Placez le curseur à l’endroit où vous souhaitez insérer les coordonnées de la personne et cliquez sur l’icône **Insérer un jeton** .
+1. Placez le curseur à l’endroit où vous souhaitez insérer les coordonnées de la personne et cliquez sur l’icône **Insérer un jeton**.
 
    ![](assets/eight-4.png)
 
-1. Recherchez et sélectionnez le `{{SP_Send_Alert_Info}}`**jeton** , puis cliquez sur **Insérer**.
+1. Recherchez et sélectionnez le `{{SP_Send_Alert_Info}}` **jeton** et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} est un jeton spécial pour les messages d&#39;alerte. Voir [Utilisation du jeton](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Envoyer des informations d’alerte pour en savoir plus.
+   >{{SP_Send_Alert_Info}} est un jeton spécial pour les messages d&#39;alerte. Voir [Utiliser le jeton d’informations d’alerte ](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) pour en savoir plus.
 
 1. Cliquez sur **Enregistrer**.
 
@@ -71,21 +71,21 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
    ![](assets/eleven-5.png)
 
-1. Sous Actions **** par courriel, cliquez sur **Approuver**.
+1. Sous **Actions de courriel**, cliquez sur **Approuver**.
 
    ![](assets/twelve-4.png)
 
-## Étape 2 : Création d’un déclencheur d’alerte Campaign {#step-create-an-alert-trigger-campaign}
+## Étape 2 : Créer un déclencheur d&#39;alerte Campaign {#step-create-an-alert-trigger-campaign}
 
-1. Sélectionnez **Mon Programme** créé précédemment, puis sous **Nouveau** , cliquez sur **Nouveau Campaign** dynamique.
+1. Sélectionnez **Mon Programme** créé précédemment, puis sous **New** cliquez sur **New Smart Campaign**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **Nommez** la campagne &quot;My Alert Campaign&quot;, puis cliquez sur **Create**.
+1. **** Nommez la campagne &quot;My Alert Campaign&quot; et cliquez sur  **Create**.
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. Sous l’onglet Liste **** intelligente, recherchez et faites glisser le déclencheur **Remplir le formulaire** sur le canevas.
+1. Sous l&#39;onglet **Liste intelligente**, recherchez et faites glisser le déclencheur **Remplit le formulaire** sur la trame.
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -93,25 +93,25 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. Sous l&#39;onglet **Flux** , recherchez et faites glisser l&#39;action de flux **Envoyer une alerte** sur la trame.
+1. Sous l&#39;onglet **Flux**, recherchez et faites glisser l&#39;action de flux **Envoyer l&#39;alerte** vers le canevas.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. Sélectionnez **Mon e-mail** d&#39;alerte créé précédemment et laissez **Envoyer à** en tant que **** vendeur.
+1. Sélectionnez **Mon courriel d&#39;alerte** créé précédemment et laissez **Envoyer à** comme **propriétaire commercial**.
 
    ![](assets/eighteen-1.png)
 
-1. Tapez votre adresse électronique dans le champ **À d’autres adresses électroniques** .
+1. Tapez votre adresse électronique dans le champ **À d’autres adresses électroniques**.
 
    ![](assets/nineteen-2.png)
 
-1. Accédez à l’onglet **Planification** et cliquez sur le bouton **Activer** .
+1. Accédez à l&#39;onglet **Planification** et cliquez sur le bouton **Activer**.
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >Définissez les règles **de** qualification sur à **chaque fois** (en modifiant la Campaign intelligente) pour permettre à la même personne de déclencher des alertes à plusieurs reprises.
+   >Définissez les **Règles de qualification** sur **à chaque fois** (en modifiant la Campaign dynamique) pour permettre à la même personne de déclencher des alertes à plusieurs reprises.
 
 1. Cliquez sur **Activer** dans l’écran de confirmation.
 
@@ -119,7 +119,7 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
 ## Étape 3 : Testez-Le ! {#step-test-it-out}
 
-1. Sélectionnez votre landing page et cliquez sur Page **approuvée** Vue.
+1. Sélectionnez votre landing page et cliquez sur **Vue Page approuvée**.
 
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
@@ -127,7 +127,7 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
    >
    >N&#39;oubliez pas d&#39;approuver les landings page ; ils ne sont pas en direct avant d&#39;être approuvés.
 
-1. Renseignez le formulaire et cliquez sur **Envoyer**.
+1. Remplissez le formulaire et cliquez sur **Envoyer**.
 
    ![](assets/image2014-9-24-13-3a17-3a41.png)
 
@@ -135,7 +135,7 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
    >[!NOTE]
    >
-   >Cliquez sur l’onglet Informations **** personnelles dans Marketing pour afficher les coordonnées.
+   >Cliquez sur l&#39;onglet **Informations sur la personne** dans Marketo pour afficher les informations de contact.
 
 ## Mission terminée ! {#mission-complete}
 
