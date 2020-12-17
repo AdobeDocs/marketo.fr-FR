@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-L’onglet Aperçu [!UICONTROL du] Programme comporte trois sections : **[!UICONTROL Détails]**, **[!UICONTROL planification]** et **[!UICONTROL rapports]**. Voici un bref aperçu de chacun.
+Il existe trois sections sous l&#39;onglet [!UICONTROL Aperçu du Programme] : **[!UICONTROL Détails]**, **[!UICONTROL Annexe]** et **[!UICONTROL Rapports]**. Voici un bref aperçu de chacun.
 
 ## Détails
 
@@ -22,7 +22,7 @@ La page principale de détails affiche des informations générales sur votre pr
 
 ![Image un](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Au bas de la page se trouvent deux sections : **[!UICONTROL Programme des statistiques]** et **[!UICONTROL utilisé par]**. **[!UICONTROL Les statistiques de programme]** vous montrent des mesures clés sur les performances des programmes et l’option **[!UICONTROL Utiliser par]** permet de déterminer facilement où votre programme est utilisé dans Marketo.
+Au bas de la page se trouvent deux sections : **[!UICONTROL Programme Stats]** et **[!UICONTROL Utilisé par]**. **[!UICONTROL Les]** états de programme vous montrent des mesures clés sur les performances des programmes et les  **[!UICONTROL octets]** utilisés vous permettent de déterminer facilement où votre programme est utilisé dans Marketo.
 
 ![Image 2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
@@ -34,10 +34,10 @@ La vue de Planning du programme est une fonctionnalité puissante qui vous perme
 
 **Plongée profonde**
 
-* Découvrez comment [utiliser la vue](/help/sky/navigating-program-schedule-view.md)de Planning du programme.
+* Découvrez comment [utiliser la vue de Planning du programme](/help/sky/navigating-program-schedule-view.md).
 
 ## Rapports
 
-L’onglet [!UICONTROL Rapports] affiche des mesures clés concernant les performances de votre programme, notamment les tendances et les statistiques d’adhésion.
+L&#39;onglet [!UICONTROL Rapports] affiche les mesures clés concernant les performances de votre programme, y compris les tendances et les statistiques d&#39;adhésion.
 
 ![Image 4](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-4.png)
