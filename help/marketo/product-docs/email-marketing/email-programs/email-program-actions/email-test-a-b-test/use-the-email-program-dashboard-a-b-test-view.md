@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utiliser le Tableau de bord de Programme de courriel - Vue de test A/B {#use-the-email-program-dashboard-a-b-test-view}
 
-Découvrez comment se comporte le test [A/B de votre programme](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) électroniqueavec ce tableau de bord.
+Découvrez comment se comporte le [test A/B de votre programme de messagerie ](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) avec ce tableau de bord.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
