@@ -18,7 +18,7 @@ ht-degree: 0%
 >* [Ajouter une étape de flux à un Campaign dynamique](add-a-flow-step-to-a-smart-campaign.md)
 
 
-Un jeton est une variable. Vous l’utilisez dans les [courriels](https://docs.marketo.com/pages/viewpage.action?pageId=557076), les [landings page](https://docs.marketo.com/pages/viewpage.action?pageId=2359689)et les campagnes [](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists) intelligentes pour faciliter votre vie. Vous pouvez utiliser [Mes jetons](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (jetons personnalisés) dans les étapes de flux, les crochets Web, les courriers électroniques et les landings page.  Vous pouvez utiliser des jetons pour inclure du contenu variable dans ces étapes de flux :
+Un jeton est une variable. Vous l’utilisez dans [courriels](https://docs.marketo.com/pages/viewpage.action?pageId=557076), [landings page](https://docs.marketo.com/pages/viewpage.action?pageId=2359689) et [campagnes intelligentes](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists) pour vous faciliter la vie. Vous pouvez utiliser [Mes jetons](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (jetons personnalisés) dans les étapes de flux, les crochets Web, les courriers électroniques et les landings page.  Vous pouvez utiliser des jetons pour inclure du contenu variable dans ces étapes de flux :
 
 * Modifier la valeur des données
 * Moment intéressant
@@ -32,13 +32,13 @@ Un jeton est une variable. Vous l’utilisez dans les [courriels](https://docs.m
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-1. Dans l’étape de flux, saisissez le début `{{` pour obtenir des catégories de jeton. ![](assets/image2014-9-22-14-3a3-3a17.png)>
+1. À l’étape du flux, saisissez `{{` début pour obtenir des catégories de jeton. ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
    >**Plongée profonde**
    >
-   >Consultez la présentation [des](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) jetons pour obtenir une liste de plusieurs jetons disponibles.
+   >Consultez [Présentation des jetons](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) pour obtenir la liste de plusieurs jetons disponibles.
 
 1. Continuez à taper jusqu’à ce que vous trouviez le jeton que vous souhaitez utiliser et cliquez pour le sélectionner.
 
