@@ -25,7 +25,7 @@ Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous po
 
    ![Image un](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données
+1. Cliquez sur l’onglet **[!UICONTROL Flux]**
 
    ![Image 2](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -45,11 +45,11 @@ C&#39;est tout ! N&#39;oubliez pas, archivez si vous souhaitez conserver l&#39;h
 
    ![Image 5](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Flux]** de données.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Flux]**.
 
    ![Image six](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Cliquez sur l’icône d’engrenage de votre flux, puis sur **[!UICONTROL Afficher le contenu]** archivé.
+1. Cliquez sur l’icône d’engrenage de votre flux, puis sur **[!UICONTROL Afficher le contenu archivé]**.
 
    ![Image sept](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
