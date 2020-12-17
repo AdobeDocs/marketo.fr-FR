@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Après avoir [défini des objectifs](/help/sky/setting-event-goals.md)de événement et envoyé des invitations par le biais d’une campagne [](/help/sky/create-a-smart-campaign.md)intelligente, voici comment suivre la progression de votre objectif et comprendre les prédictions de Marketo.
+Après avoir [défini des objectifs de événement](/help/sky/setting-event-goals.md) et envoyé des invitations par le biais d&#39;une [campagne intelligente](/help/sky/create-a-smart-campaign.md), voici comment suivre la progression de votre objectif et comprendre les prédictions de Marketo.
 
 >[!NOTE]
 >
@@ -22,11 +22,11 @@ Après avoir [défini des objectifs](/help/sky/setting-event-goals.md)de événe
 
 ## Suivi des objectifs et inscriptions prévues
 
-1. Vous trouverez les détails du suivi des objectifs dans l’onglet **[!UICONTROL Rapports]** de votre programme de événement. Dans cet exemple particulier, il y a 150 membres enregistrés jusqu&#39;à présent contre un objectif de 200 (75 %).
+1. Vous trouverez les détails du suivi des objectifs dans l&#39;onglet **[!UICONTROL Rapports]** de votre programme de événement. Dans cet exemple particulier, il y a 150 membres enregistrés jusqu&#39;à présent contre un objectif de 200 (75 %).
 
    ![Image un](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Vous verrez également vos inscriptions **[!UICONTROL projetées]** . Passez la souris sur l’icône d’informations pour afficher la ventilation de ce nombre par segment de probabilité.
+Vous verrez également vos inscriptions **[!UICONTROL projetées]**. Passez la souris sur l’icône d’informations pour afficher la ventilation de ce nombre par segment de probabilité.
 
 ![Image 2](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -48,7 +48,7 @@ Tous les membres (inscrits et non encore inscrits) sont classés selon leur prob
 
 ## Programmes similaires
 
-Vous pouvez obtenir des informations sur votre événement actuel en observant comment des programmes similaires se sont comportés dans le passé. Cette section vous montre jusqu&#39;à 5 programmes similaires des 6 derniers mois, avec le nombre/pourcentage de membres _enregistrés_ ou plus.
+Vous pouvez obtenir des informations sur votre événement actuel en observant comment des programmes similaires se sont comportés dans le passé. Cette section vous montre jusqu’à 5 programmes similaires des 6 derniers mois, avec le nombre/pourcentage de membres _enregistrés_ ou plus.
 
 Dans le calcul de programmes similaires, nous incluons les facteurs suivants, entre autres :
 
@@ -69,7 +69,7 @@ En haut de la page Rapports, vous trouverez des recommandations pilotées par IA
 
 ## prédictions au niveau de la personne
 
-Cliquez sur l&#39;onglet **[!UICONTROL Membres]** pour vue tous les membres de votre programme. Passez la souris sur les **[!UICONTROL barres Probabilité]** d&#39; **[!UICONTROL inscription ou Probabilité de]** participationpour afficher les pourcentages et les catégories exacts. Vous pouvez ensuite agir sur les membres d&#39;une catégorie particulière (par exemple, tous les membres du groupe &quot;Moins susceptibles&quot; d&#39;enregistrer la catégorie) et, plus précisément, les cibles à augmenter éventuellement vos numéros d&#39;inscription.
+Cliquez sur l&#39;onglet **[!UICONTROL Membres]** pour vue tous les membres de votre programme. Passez la souris sur les barres **[!UICONTROL Probabilité d&#39;inscription]** ou **[!UICONTROL Probabilité d&#39;assiduité]** pour afficher les pourcentages et les catégories exacts. Vous pouvez ensuite agir sur les membres d&#39;une catégorie particulière (par exemple, tous les membres du groupe &quot;Moins susceptibles&quot; d&#39;enregistrer la catégorie) et, plus précisément, les cibles à augmenter éventuellement vos numéros d&#39;inscription.
 
 ![Image sept](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
@@ -89,7 +89,7 @@ Les valeurs de probabilité sont regroupées en trois segments :
 * Probabilité d&#39;inscription > 25 % à &lt;50 % = Segment probable
 * Probabilité d&#39;inscription &lt; 25 % = segment moins probable
 
-Lorsqu&#39;une personne a la probabilité de s&#39;inscrire, la prédiction tombera dans l&#39;un de ces segments (chaque personne qui est membre d&#39;un programme tombera dans l&#39;un d&#39;eux). Par exemple, si un programme de événement compte 1000 membres sur la base des prévisions de probabilité, ces 1000 seront répartis dans des segments _hautement probables_, _probables_ ou _moins probables_ .
+Lorsqu&#39;une personne a la probabilité de s&#39;inscrire, la prédiction tombera dans l&#39;un de ces segments (chaque personne qui est membre d&#39;un programme tombera dans l&#39;un d&#39;eux). Par exemple, si un programme de événement compte 1 000 membres en fonction des prévisions de probabilité, ces 1 000 sont répartis dans des segments _Très probables_, _Probablement_ ou _Moins probables_.
 
 Par conséquent, les personnes qui entrent dans le segment à haut risque auront plus de chances de s&#39;inscrire au événement.
 
@@ -103,7 +103,7 @@ A : Les meilleures pratiques comportent les éléments suivants :
 
 i. Vous créez un programme, puis un Campaign intelligent utilise des filtres prédictifs avec &quot;plus de X&quot;, ce qui entraînerait un certain nombre de personnes (disons 1000) et vous exécutez la campagne.
 
-ii. Au bout de 24 heures, dans l’onglet [!UICONTROL Rapports] , vous pouvez afficher les inscriptions prévues qui sont calculées en fonction de la probabilité d’enregistrer les valeurs de toutes les personnes actuellement invitées.
+ii. Après 24 heures, dans l&#39;onglet [!UICONTROL Rapports], vous pouvez voir les inscriptions prévues calculées en fonction de la probabilité d&#39;enregistrer les valeurs de toutes les personnes actuellement invitées.
 
 iii. Si les inscriptions prévues sont inférieures à l’objectif, vous devrez inviter plus de personnes. A ce stade, vous pouvez voir les informations qui vous disent quel était le seuil qui a fonctionné dans les programmes précédents.
 
@@ -117,9 +117,9 @@ v. À tout moment, si vous souhaitez comprendre pourquoi un nombre prévu s’af
 
 A : Trois barres, chacune représentant un segment (Hautement Probable, Probable, Moins Probable).
 
-**Ligne en pointillé violet :** Taux moyen de conversion à l’inscription dans ce segment, en fonction des programmes similaires précédents.
+**Ligne pointillée violette : taux** moyen de conversation à l’inscription dans ce segment, en fonction des programmes similaires précédents.
 
-**Barre bleue :** Pourcentage d&#39;inscription de toutes les personnes de ce segment.
+**Barre bleue : pourcentage d’** inscription de toutes les personnes de ce segment.
 
 ![Image neuf](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-9.png)
 
