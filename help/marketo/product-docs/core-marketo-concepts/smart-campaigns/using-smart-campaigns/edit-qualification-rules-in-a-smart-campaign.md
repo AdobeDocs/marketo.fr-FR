@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Modification des règles de qualification dans une Campaign intelligente {#edit-qualification-rules-in-a-smart-campaign}
+# Modifier les règles de qualification dans une Campaign dynamique {#edit-qualification-rules-in-a-smart-campaign}
 
 Les règles de qualification contrôlent le nombre de fois où une personne peut parcourir le flux dans une campagne intelligente. Par défaut, même si une personne déclenche plusieurs fois une campagne intelligente, elle ne sera envoyée qu’une seule fois dans le flux. Voici comment modifier ces paramètres.
 
-1. Dans votre campagne dynamique, cliquez sur l’onglet **Planification** , puis **Modifier les paramètres**.
+1. Dans votre campagne dynamique, cliquez sur l’onglet **Planification**, puis **Modifier les paramètres**.
 
    ![](assets/programeditsettings-hands.png)
 
    >[!TIP]
    >
-   >Vous pouvez également cliquer sur **Modifier** à droite de l’option Paramètres Campaign intelligent.
+   >Vous pouvez également cliquer sur **Modifier** à droite de &quot;Paramètres Smart Campaign&quot;.
 
-1. Choisissez la fréquence d’exécution des campagnes intelligentes par le biais du flux de campagne : **une seule fois**, **à chaque fois** ou **une fois tous les # jours**/**semaines**/mois.****
+1. Choisissez la fréquence d’exécution des campagnes intelligentes par le biais du flux de campagne : **une seule fois**, **à chaque fois** ou **une fois tous les # jours**/**semaines**/**mois**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
@@ -36,7 +36,7 @@ Les règles de qualification contrôlent le nombre de fois où une personne peut
    >**Rappel**
    >
    >
-   >Par défaut, les limites de communication ne sont pas appliquées aux campagnes actives. Découvrez comment [appliquer des limites de communication à une campagne](apply-communication-limits-to-smart-campaign.md)intelligente.
+   >Par défaut, les limites de communication ne sont pas appliquées aux campagnes actives. Découvrez comment [appliquer des limites de communication à une campagne intelligente](apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
