@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vous pouvez supprimer ou archiver un élément de contenu. Contrairement à la suppression du contenu du flux, [l’archivage](archive-and-unarchive-stream-content.md) conserve l’historique associé au contenu. Si vous n&#39;avez pas d&#39;objection à perdre les statistiques historiques d&#39;un certain contenu et à vouloir le supprimer, voici comment le faire.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez votre programme d’engagement, puis cliquez sur l’onglet **Flux** .
+1. Sélectionnez votre programme d’engagement, puis cliquez sur l’onglet **Flux**.
 
    ![](assets/cloneasteam-3.jpg)
 
@@ -29,7 +29,7 @@ Vous pouvez supprimer ou archiver un élément de contenu. Contrairement à la s
 
    >[!CAUTION]
    >
-   >Supprimez le contenu uniquement si vous ne vous souciez pas de l’historique. Si vous souhaitez conserver l’historique, [archivez](archive-and-unarchive-stream-content.md) -le à la place.
+   >Supprimez le contenu uniquement si vous ne vous souciez pas de l’historique. Si vous souhaitez conserver l’historique, [archivez ](archive-and-unarchive-stream-content.md) à la place.
 
    C&#39;est tout ! Vous savez maintenant comment supprimer un élément de contenu.
 
