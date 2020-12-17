@@ -21,11 +21,11 @@ Marketo annule automatiquement les duplicata lorsque de nouvelles personnes entr
 
 >[!PREREQUISITES]
 >
->La recherche et la fusion de duplicata impliqueront l&#39;utilisation de listes [intelligentes](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)intégrées/système.
+>La recherche et la fusion de duplicata impliqueront l&#39;utilisation de [listes intégrées / intelligentes du système](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
 ## Rechercher des Duplicata {#find-duplicates}
 
-1. Accédez à la zone **Base de données** .
+1. Accédez à la zone **Base de données**.
 
    ![](assets/db.png)
 
@@ -33,19 +33,19 @@ Marketo annule automatiquement les duplicata lorsque de nouvelles personnes entr
    >
    >La fusion de personnes dans Marketo peut ne pas fonctionner si vous utilisez un compte de personne Salesforce. Si possible, fusionnez les enregistrements dans Salesforce.
 
-1. Sélectionnez la liste intelligente **Possible** **Duplicata** du système et cliquez sur l’onglet **Personnes** .
+1. Sélectionnez la liste **Possible** **Duplicata** et cliquez sur l&#39;onglet **Personnes**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également [rechercher des personnes Duplicata avec une logique](find-duplicate-people-with-custom-logic.md)personnalisée.
+   >Vous pouvez également [rechercher des personnes Duplicata avec une logique personnalisée](find-duplicate-people-with-custom-logic.md).
 
 ## Fusionner les personnes manuellement {#merge-people-manually}
 
 >[!CAUTION]
 >
->Lors de la fusion de personnes, si la personne perdante a un objet personnalisé Marketo, il **ne sera pas** réassocié à la personne gagnante. Reparent l&#39;objet personnalisé avant d&#39;effectuer la fusion.
+>Lors de la fusion de personnes, si la personne perdante a un objet personnalisé Marketo, **ne sera** pas réassocié à la personne gagnante. Reparent l&#39;objet personnalisé avant d&#39;effectuer la fusion.
 
 Sélectionnez les duplicata en maintenant la touche Ctrl/Cmd enfoncée et en cliquant sur, puis cliquez sur Fusionner les personnes.
 ![](assets/three.png)
@@ -54,7 +54,7 @@ Sélectionnez les duplicata en maintenant la touche Ctrl/Cmd enfoncée et en cli
 >
 >Vous pouvez avoir deux ou plusieurs duplicata pour la même personne - sélectionnez-les tous en même temps.
 
-1. Vous verrez les valeurs entre les enregistrements qui *ne correspondent pas* . Sélectionnez la valeur à conserver pour chaque champ. Lorsque vous avez terminé, cliquez sur **Fusionner** . Si vous ne souhaitez aucune des deux valeurs, vous pouvez cocher **Personnalisé** et saisir la valeur de votre choix.
+1. Vous verrez les valeurs entre les enregistrements qui *ne correspondent pas*. Sélectionnez la valeur à conserver pour chaque champ. Cliquez sur **Fusionner** lorsque vous avez terminé. Si vous ne souhaitez aucune valeur, vous pouvez cocher **Personnalisé** et saisir la valeur de votre choix.
 
    ![](assets/four.png)
 
