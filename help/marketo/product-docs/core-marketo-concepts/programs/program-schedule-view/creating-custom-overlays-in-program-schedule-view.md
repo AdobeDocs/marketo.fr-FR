@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Création d’incrustations personnalisées dans une Vue de Planning du programme {#creating-custom-overlays-in-program-schedule-view}
+# Création d’incrustations personnalisées dans la Vue de Planning du programme {#creating-custom-overlays-in-program-schedule-view}
 
 Vous pouvez créer des incrustations personnalisées pour les entrées de vue correspondant à vos besoins.
 
-1. Cliquez sur la liste déroulante **Agenda** .
+1. Cliquez sur la liste déroulante **Agenda**.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
@@ -27,7 +27,7 @@ Vous pouvez créer des incrustations personnalisées pour les entrées de vue co
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Vous pouvez également filtrer par balises [](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)programme.
+1. Vous pouvez également filtrer par [balises de programme](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
