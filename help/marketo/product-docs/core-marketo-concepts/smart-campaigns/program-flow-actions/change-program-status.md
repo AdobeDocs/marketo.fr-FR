@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Modifier l&#39;état du Programme {#change-program-status}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
-L’état des programmes vous aide à suivre l’évolution des personnes dans un programme ou un événement. Pour plus d’informations, voir [Personnaliser, Créer et Gérer des Canaux](../../../../product-docs/administration/tags/create-a-program-channel.md).
+L’état des programmes vous aide à suivre l’évolution des personnes dans un programme ou un événement. Pour plus d&#39;informations, consultez [Personnaliser, créer et gérer des Canaux](../../../../product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
@@ -23,7 +23,7 @@ L’état des programmes vous aide à suivre l’évolution des personnes dans u
 
 ## Utilisation {#usage}
 
-1. Faites glisser l’étape de flux **Modifier l’état** du Programme.
+1. Faites glisser l’étape de flux **Modifier l’état du Programme**.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
