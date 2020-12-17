@@ -27,21 +27,21 @@ ht-degree: 0%
 
 Dans cet article, vous allez configurer des autorisations d&#39;utilisateur dans le profil Salesforce et créer un compte d&#39;intégration Marketo-Salesforce.
 
-## Création d’un Profil {#create-a-profile}
+## Créer un Profil {#create-a-profile}
 
 1. Cliquez sur **Configuration**.
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Tapez &quot;profils&quot; dans la barre de recherche Nav et cliquez sur le lien **Profils** .
+1. Tapez &quot;profils&quot; dans la barre de recherche Nav et cliquez sur le lien **Profils**.
 
    ![](assets/sfdc-profiles-hands.png)
 
-1. Cliquez sur **Nouveau**.
+1. Cliquez sur **New**.
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Sélectionnez Utilisateur **** standard, nommez le profil &quot;Synchronisation Marketo-Salesforce&quot;, puis cliquez sur **Enregistrer**.
+1. Sélectionnez **Utilisateur standard**, nommez le profil &quot;Synchronisation Marketo-Salesforce&quot; et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -51,7 +51,7 @@ Dans cet article, vous allez configurer des autorisations d&#39;utilisateur dans
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Sous la section Permissions **** administratives, vérifiez que les cases suivantes sont cochées :
+1. Sous la section **Autorisations administratives**, vérifiez que les cases suivantes sont cochées :
 
    * API activée
    * Modifier les modèles HTML
@@ -62,7 +62,7 @@ Dans cet article, vous allez configurer des autorisations d&#39;utilisateur dans
 
    >[!TIP]
    >
-   >Assurez-vous de cocher la case **Mot de passe n’expirant jamais** .
+   >Veillez à cocher la case **Le mot de passe n’expire jamais**.
 
 1. Sous la section Autorisations générales de l’utilisateur, vérifiez que les cases suivantes sont cochées :
 
@@ -98,7 +98,7 @@ Dans cet article, vous allez configurer des autorisations d&#39;utilisateur dans
    >
    >Cette étape permet d’éviter que les champs dont vous n’avez pas besoin ne s’affichent dans Marketo, ce qui réduit l’encombrement et accélère la synchronisation.
 
-1. Dans la page des détails du profil, accédez à la section Sécurité **** au niveau du champ. Cliquez sur **Vue** pour modifier l’accessibilité des objets :
+1. Dans la page des détails du profil, accédez à la section **Sécurité au niveau du champ**. Cliquez sur **Vue** pour modifier l’accessibilité des objets :
 
    * `Lead`
    * `Contact`
@@ -115,7 +115,7 @@ Dans cet article, vous allez configurer des autorisations d&#39;utilisateur dans
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Localisez les champs inutiles, assurez-vous que **Accès en lecture **et** Accès en modification **sont désactivés. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Localisez les champs inutiles, assurez-vous que **Accès en lecture **et** Modifier l&#39;accès **sont désactivés. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    >[!NOTE]
    >
@@ -161,7 +161,7 @@ Dans cet article, vous allez configurer des autorisations d&#39;utilisateur dans
 
    ![](assets/sfdc-new-users.png)
 
-1. Renseignez les champs obligatoires. Sélectionnez ensuite la licence **utilisateur : Salesforce** et le Profil que vous avez créé précédemment. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Renseignez les champs obligatoires. Sélectionnez ensuite la **licence utilisateur : Salesforce** et le Profil que vous avez créé précédemment. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
