@@ -29,7 +29,7 @@ Activez/désactivez les jetons de personne et de société utilisés dans les co
 
    ![](assets/admin.png)
 
-1. Sélectionnez Gestion des **** champs.
+1. Sélectionnez **Gestion des champs**.
 
    ![](assets/two-2.png)
 
@@ -37,7 +37,7 @@ Activez/désactivez les jetons de personne et de société utilisés dans les co
 
    ![](assets/five.png)
 
-1. Cochez la case Jetons d’encodage **HTML dans les courriers électroniques** pour l’activer et désactivez-la pour la désactiver.
+1. Cochez la case **Jetons d&#39;encodage HTML dans les courriers électroniques** pour activer, décochez la case pour désactiver.
 
    ![](assets/six.png)
 
