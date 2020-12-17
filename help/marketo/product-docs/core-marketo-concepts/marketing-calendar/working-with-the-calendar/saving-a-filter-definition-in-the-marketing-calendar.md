@@ -39,7 +39,7 @@ L’enregistrement d’un filtre vous permet de basculer entre les différentes 
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Si vous le souhaitez, vous pouvez [envoyer une copie](sharing-a-filter-definition-in-the-marketing-calendar.md) de la définition à d’autres utilisateurs de Marketing Cloud.
+   Si vous le souhaitez, vous pouvez [envoyer une copie](sharing-a-filter-definition-in-the-marketing-calendar.md) de la définition à d’autres utilisateurs du marché.
 
    >[!NOTE]
    >
