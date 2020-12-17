@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez désactiver un programme d’engagement avec le clic d’un interrupteur. Cela empêchera tout contenu d&#39;être envoyé. Voici comment.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,7 +27,7 @@ Vous pouvez désactiver un programme d’engagement avec le clic d’un interrup
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Doublon-clic sur Etat **du** Programme.
+1. Doublon-clic **Etat du Programme**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
