@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Synchronisation SFDC : Sync objet personnalisé {#sfdc-sync-custom-object-sync}
+# Synchronisation SFDC : Synchronisation d’objets personnalisés {#sfdc-sync-custom-object-sync}
 
 Les objets personnalisés créés dans votre instance Salesforce peuvent également faire partie de Marketing Cloud.  Voici comment le configurer.
 
@@ -21,15 +21,15 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
 >[!PREREQUISITES]
 >
->Pour utiliser un objet personnalisé, il doit être associé à un [prospect](sfdc-sync-lead-sync.md), [](sfdc-sync-contact-sync.md)contactor [](sfdc-sync-account-sync.md)accountobject dans Salesforce.
+>Pour utiliser un objet personnalisé, il doit être associé à un objet [prospect](sfdc-sync-lead-sync.md), [contact](sfdc-sync-contact-sync.md)ou [compte](sfdc-sync-account-sync.md)dans Salesforce.
 
-## Activer l’objet personnalisé  {#enable-custom-object}
+## Activer l&#39;objet personnalisé {#enable-custom-object}
 
-1. Cliquez sur **Admin** et sur le **lien**** de synchronisation des objets Salesforce.**
+1. Cliquez sur **Admin** et sur le lien** Salesforce Objects Sync ****.**
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. S’il s’agit de votre premier objet personnalisé, cliquez sur **Synchroniser le Schéma.**
+1. S’il s’agit de votre premier objet personnalisé, cliquez sur **Schéma de synchronisation.**
 
    ![](assets/rtaimage-2.png)
 
@@ -55,7 +55,7 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Cliquez à nouveau sur **Activer la synchronisation** .
+1. Cliquez de nouveau sur **Activer la synchronisation**.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -74,7 +74,7 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Pour vue à tous vos objets personnalisés Salesforce, cliquez sur **Admin** et sur le *** Salesforce Objects Sync **lien (identique à l’étape 1 ci-dessus).
+1. Pour vue à tous vos objets personnalisés Salesforce, cliquez sur **Admin** et sur le *** Lien de synchronisation des objets Salesforce **(identique à l’étape 1 ci-dessus).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
