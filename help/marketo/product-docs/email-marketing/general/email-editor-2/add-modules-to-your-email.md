@@ -21,7 +21,7 @@ Dans la version 2.0 de l’éditeur de courrier électronique, un module est une
 
    >[!NOTE]
    >
-   >La plupart des modèles de démarrage de marketing contiennent des modules. Vous pouvez également [créer les vôtres](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules).
+   >La plupart des modèles de démarrage de marketing contiennent des modules. Vous pouvez également [créer votre propre ](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules).
 
 1. À l’extrémité droite du courrier électronique, cliquez sur **Modules**.
 
@@ -39,7 +39,7 @@ Dans la version 2.0 de l’éditeur de courrier électronique, un module est une
 
    ![](assets/five-3.png)
 
-## Déplacement d’un module dans un courrier électronique {#moving-a-module-within-an-email}
+## Déplacement d&#39;un module dans un courrier électronique {#moving-a-module-within-an-email}
 
 Il existe deux façons de déplacer un module.
 
@@ -59,7 +59,7 @@ Il existe deux façons de déplacer un module.
 
    ![](assets/nine-2.png)
 
-1. Cliquez sur l’icône d’engrenage, puis sélectionnez **Déplacer vers le haut** ou **Déplacer vers le bas**, selon l’emplacement où vous souhaitez que le module aille.
+1. Cliquez sur l’icône d’engrenage, puis sélectionnez **Déplacer vers le haut** ou **Déplacer vers le bas**, selon l’emplacement où doit se rendre le module.
 
    ![](assets/ten-2.png)
 
