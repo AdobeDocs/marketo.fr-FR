@@ -23,7 +23,7 @@ En règle générale, les nouveaux champs personnalisés de Salesforce sont auto
 
    ![](assets/image2015-6-30-14-3a20-3a6.png)
 
-1. Saisissez **profil** dans la barre de recherche de gauche, puis cliquez sur **Profils** sous **Gérer les utilisateurs**.
+1. Saisissez **profil** dans la barre de recherche de gauche et cliquez sur **Profils** sous **Gérer les utilisateurs**.
 
    ![](assets/image2015-6-30-14-3a20-3a52.png)
 
@@ -31,7 +31,7 @@ En règle générale, les nouveaux champs personnalisés de Salesforce sont auto
 
    ![](assets/image2015-6-30-14-3a23-3a41.png)
 
-1. Sous la section Sécurité **** au niveau du champ, cliquez sur **Vue** en regard de l’objet qui contient le champ.
+1. Sous la section **Sécurité au niveau du champ**, cliquez sur **Vue** en regard de l’objet qui contient le champ.
 
    ![](assets/image2015-6-30-14-3a23-3a59.png)
 
@@ -39,7 +39,7 @@ En règle générale, les nouveaux champs personnalisés de Salesforce sont auto
 
    ![](assets/image2015-6-30-14-3a24-3a28.png)
 
-1. Cochez la case **Visible** pour le champ à ajouter à la synchronisation, puis cliquez sur **Enregistrer**.
+1. Cochez la case **Visible** correspondant au champ que vous souhaitez ajouter à la synchronisation et cliquez sur **Enregistrer**.
 
    ![](assets/image2015-6-30-14-3a24-3a49.png)
 
