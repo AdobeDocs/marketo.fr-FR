@@ -18,17 +18,17 @@ Une fois la création de votre campagne par lot terminée, vous pouvez choisir d
 
 >[!TIP]
 >
->Vous pouvez également [replanifier une campagne par lot dynamique dans la vue](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)de Planning du programme.
+>Vous pouvez également [replanifier une campagne par lot dans la vue de Planning du programme](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View).
 
 1. Sélectionnez la campagne par lot dynamique que vous souhaitez exécuter.
 
    ![Image un](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. Accédez à l’onglet **[!UICONTROL Planification]** et cliquez sur **[!UICONTROL Ajouter l’exécution]**.
+1. Accédez à l&#39;onglet **[!UICONTROL Planification]** et cliquez sur **[!UICONTROL Ajouter Exécuter]**.
 
    ![Image 2](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. Sélectionnez **[!UICONTROL Définir la date et l’heure]** d’exécution, puis cliquez sur l’icône de calendrier et sélectionnez la date d’exécution de la campagne dynamique.
+1. Sélectionnez **[!UICONTROL Définir la date et l&#39;heure d&#39;exécution]**, puis cliquez sur l&#39;icône de calendrier et sélectionnez la date d&#39;exécution de la campagne dynamique.
 
    ![Image trois](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
