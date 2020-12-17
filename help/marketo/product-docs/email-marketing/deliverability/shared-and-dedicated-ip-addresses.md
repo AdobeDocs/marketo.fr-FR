@@ -33,15 +33,15 @@ Comme d&#39;habitude, les deux options comportent des avantages et des inconvén
 
 *Avantages*
 
-**Réputation** - Vous êtes seul propriétaire de votre réputation et de votre délivrabilité.\
-**Surveillance** : la surveillance de votre rapports de délivrabilité vous permet de réagir rapidement aux modifications apportées à vos mesures de diffusion.\
-**Résolution** des problèmes - Il est plus facile de rechercher, de comprendre et de résoudre les problèmes de diffusion.
+**Réputation**  - Vous êtes seul propriétaire de votre réputation et de votre délivrabilité.\
+**Surveillance**  : la surveillance de votre rapports de délivrabilité vous permet de réagir rapidement aux modifications apportées à vos mesures de diffusion.\
+**Résolution**  des problèmes - Il est plus facile de rechercher, de comprendre et de résoudre les problèmes de diffusion.
 
 *Cons*
 
-**Changements** de volume - Les pics de volume peuvent nuire à votre réputation et doivent être gérés.\
-**Processus** d&#39;échauffement IP - La réputation est établie au fil du temps. Certains Prestataires Internet (FAI) réduisent les adresses IP sans historique des volumes, vous devrez donc vous forger une réputation au cours des premières semaines (Marketo peut vous aider à vous guider).\
-**Coût** - Il y a généralement des frais supplémentaires à envoyer depuis une adresse IP dédiée à n&#39;importe quel fournisseur.
+**Changements**  de volume - Les pics de volume peuvent nuire à votre réputation et doivent être gérés.\
+**Processus**  d&#39;échauffement IP - La réputation est établie au fil du temps. Certains Prestataires Internet (FAI) réduisent les adresses IP sans historique des volumes, vous devrez donc vous forger une réputation au cours des premières semaines (Marketo peut vous aider à vous guider).\
+**Coût**  - Il y a généralement des frais supplémentaires à envoyer à partir d&#39;une adresse IP dédiée avec n&#39;importe quel fournisseur.
 
 **Avantages et inconvénients d&#39;une IP partagée**
 
@@ -53,7 +53,7 @@ Comme d&#39;habitude, les deux options comportent des avantages et des inconvén
 
 *Cons*
 
-**Mauvais compagnons** de chambre - Si les personnes avec qui vous partagez votre adresse IP se livrent à de mauvaises pratiques d&#39;envoi, vos campagnes par courriel pourraient en pâtir.\
+**Mauvais compagnons**  de chambrée - Si les personnes que vous partagez votre adresse IP et qui s&#39;adonnent à de mauvaises pratiques d&#39;envoi, vos campagnes par courriel pourraient en pâtir.\
 **Contrôle **- Vous avez beaucoup moins de contrôle sur la réputation de votre expéditeur.\
 **Résolution du problème **- Il peut être souvent plus difficile de résoudre un problème lors de l&#39;envoi à partir d&#39;IP partagées.
 
