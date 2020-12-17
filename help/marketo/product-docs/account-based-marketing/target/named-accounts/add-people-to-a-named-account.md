@@ -25,15 +25,15 @@ Il existe trois façons différentes d&#39;ajouter manuellement des personnes à
 
    ![](assets/two.png)
 
-1. Cliquez sur la personne pour la sélectionner. Cliquez sur la liste déroulante Actions **** personnelles, sur **Marketing** et sélectionnez **Ajouter au compte** nommé.
+1. Cliquez sur la personne pour la sélectionner. Cliquez sur la liste déroulante **Actions de personne**, sur **Marketing** et sélectionnez **Ajouter au compte nommé**.
 
    ![](assets/three.png)
 
-1. Cliquez sur la liste déroulante Compte **** nommé, sélectionnez le compte nommé de votre choix, puis cliquez sur **Exécuter maintenant**.
+1. Cliquez sur la liste déroulante **Compte nommé**, sélectionnez le compte nommé de votre choix, puis cliquez sur **Exécuter maintenant**.
 
    ![](assets/four.png)
 
-## Étape de flux Campaign intelligent {#smart-campaign-flow-step}
+## Étape de flux Campaign dynamique {#smart-campaign-flow-step}
 
 1. Sélectionnez votre Campaign dynamique et cliquez sur **Flux**.
 
@@ -47,15 +47,15 @@ Il existe trois façons différentes d&#39;ajouter manuellement des personnes à
 
    ![](assets/seven.png)
 
-1. Cliquez sur la liste déroulante Compte **** nommé et sélectionnez le compte nommé de votre choix.
+1. Cliquez sur la liste déroulante **Compte nommé** et sélectionnez le compte nommé de votre choix.
 
    ![](assets/eight.png)
 
    C&#39;est tout ! Ensuite, il vous suffit de planifier (ou d’activer) votre campagne intelligente et l’étape de flux début l’ajout de personnes admissibles au compte désigné.
 
-## Importation liste {#list-import}
+## Importation de liste {#list-import}
 
-1. Sélectionnez votre liste, cliquez sur la liste déroulante Actions **** Liste et sélectionnez **Importer la Liste**.
+1. Sélectionnez votre liste, cliquez sur la liste déroulante **Actions de Liste** et sélectionnez **Importer la Liste**.
 
    ![](assets/nine.png)
 
@@ -63,7 +63,7 @@ Il existe trois façons différentes d&#39;ajouter manuellement des personnes à
 
    ![](assets/ten.png)
 
-1. Faites correspondre les champs de votre choix. Assurez-vous que le champ Compte **** nommé est mappé.
+1. Faites correspondre les champs de votre choix. Assurez-vous que le champ **Compte nommé** est mappé.
 
    ![](assets/eleven.png)
 
