@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création d’une Liste statique {#create-a-static-list}
+# Créer une Liste statique {#create-a-static-list}
 
 Les listes statiques sont un groupe de personnes déjà présentes dans votre base de données. Voici comment en créer un.
 
@@ -19,7 +19,7 @@ Les listes statiques sont un groupe de personnes déjà présentes dans votre ba
 
    ![](assets/db.png)
 
-1. Cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouvelle Liste**.
+1. Cliquez sur la liste déroulante **New** et sélectionnez **Nouvelle Liste**.
 
    ![](assets/two.png)
 
