@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Partager un moment {#sharing-a-moment}
+# Partage d&#39;un moment {#sharing-a-moment}
 
 Vous souhaitez mettre à jour votre équipe ? Vous avez le choix entre deux options de partage :
 
@@ -19,7 +19,7 @@ Vous souhaitez mettre à jour votre équipe ? Vous avez le choix entre deux opti
 
    ![](assets/image2015-6-30-15-3a13-3a13.png)
 
-1. Appuyez sur le menu Carte et appuyez sur **Partager** sur l’écran Détails.
+1. Appuyez sur le menu de la carte et appuyez sur **Partager** dans l’écran Détails.
 
    ![](assets/image2015-7-15-9-3a0-3a35.png)
 
@@ -33,7 +33,7 @@ Vous souhaitez mettre à jour votre équipe ? Vous avez le choix entre deux opti
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 
-1. Saisissez l’adresse de votre destinataire, un objet et appuyez sur **Envoyer**.
+1. Entrez l&#39;adresse de votre destinataire, un sujet, et appuyez sur **Envoyer**.
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)
 
