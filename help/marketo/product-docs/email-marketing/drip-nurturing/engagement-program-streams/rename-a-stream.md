@@ -23,7 +23,7 @@ Si vous aimez rester organisé, vous pouvez renommer vos flux. Voici comment le 
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Saisissez le nouveau **nom** de flux et cliquez sur **Enregistrer**.
+1. Saisissez le nouveau flux **Name** et cliquez sur **Save**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 
