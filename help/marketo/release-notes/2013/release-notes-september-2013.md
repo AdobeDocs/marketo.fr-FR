@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Septembre 2013 {#release-notes-september}
 
-Les fonctionnalités suivantes sont incluses dans la version de septembre. Veuillez vérifier la disponibilité de vos fonctionnalités dans [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Les fonctionnalités suivantes sont incluses dans la version de septembre. Veuillez vérifier votre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
 
 Après la publication, n&#39;oubliez pas de consulter l&#39;onglet [Nouvelle version](release-notes-december-2013.md) de la Communauté pour obtenir des articles détaillés de la base de connaissances pour chaque fonctionnalité !
 
@@ -29,7 +29,7 @@ Utilisez les données des objets personnalisés de Marketo ou ajoutez une logiqu
 
 ![](assets/image2014-9-22-17-3a10-3a56.png)
 
-## Modifier le test envoyé pour envoyer un exemple {#change-send-test-to-send-sample}
+## Modifier Envoyer le test pour envoyer l&#39;exemple {#change-send-test-to-send-sample}
 
 Nous avons renommé l&#39;action Envoyer le test pour envoyer l&#39;exemple
 
@@ -45,7 +45,7 @@ Vous pouvez synchroniser le nom de la Société et le titre de la tâche depuis 
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
-## Restreindre la connexion utilisateur à l’authentification unique uniquement {#restrict-user-login-to-sso-only}
+## Restreindre la connexion utilisateur à l’authentification unique {#restrict-user-login-to-sso-only}
 
 Configurez les abonnements de manière à autoriser uniquement les utilisateurs de Marketing Cloud à se connecter via SSO et non via l’écran de connexion normal.
 
@@ -75,6 +75,6 @@ Téléchargez la dernière version de la Gestion des pistes marketing et de l&#3
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 
-## Interface utilisateur de Cobalt {#cobalt-user-interface}
+## Cobalt User Interface {#cobalt-user-interface}
 
 Au cours des prochains mois, un nouveau thème sera mis en oeuvre dans différentes parties de l&#39;application. Ce mois-ci, vous remarquerez peut-être de nouvelles fenêtres modales bleues.
