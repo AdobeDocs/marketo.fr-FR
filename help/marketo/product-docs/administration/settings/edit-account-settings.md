@@ -27,7 +27,7 @@ Vous devez modifier l’adresse électronique, le nom ou le numéro de télépho
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
-1. Sélectionnez **Modifier les paramètres** du compte.
+1. Sélectionnez **Modifier les paramètres du compte**.
 
    ![](assets/image2015-6-23-15-3a21-3a41.png)
 
