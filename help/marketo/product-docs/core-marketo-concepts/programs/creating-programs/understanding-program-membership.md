@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Comprendre l&#39;appartenance à un Programme {#understanding-program-membership}
+# Comprendre l&#39;appartenance au Programme {#understanding-program-membership}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## Comment les gens deviennent membres d&#39;un Programme {#how-people-become-members-of-a-program}
 
-1. Une personne remplit un [formulaire sur un landing page](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) du programme.
+1. Une personne remplit un formulaire [sur un landing page](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) dans le programme.
 
    1. La personne aura automatiquement le premier statut dans la progression.
 
@@ -31,16 +31,16 @@ ht-degree: 0%
 
    1. La personne aura automatiquement le premier statut dans la progression.
 
-1. Vous utilisez l’étape de flux [modifier l’état](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) du programme.
-1. Une personne enregistre ou assiste à un [webinaire synchronisé avec un programme](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)événement.
-1. Une personne est [créée à l’aide de l’application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)d’enregistrement d’iPad Marketo.
-1. Une personne est ajoutée à un Campaign de la DDC, qui est [synchronisé avec le programme](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
+1. Vous utilisez l’étape de flux [modifier l’état du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md).
+1. Une personne inscrit ou assiste à un webinaire [synchronisé avec un programme de événement](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md).
+1. Une personne est [créée à l’aide de l’application d’enregistrement d’iPad Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+1. Une personne est ajoutée à une Campaign de la DDC, qui est [synchronisée au programme](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
 >[!NOTE]
 >
 >Dans le cas d’un programme de messagerie, une personne est ajoutée à l’abonnement uniquement lorsque le courrier électronique est envoyé.
 
-## Etat des programmes {#program-statuses}
+## Etat du programme {#program-statuses}
 
 Les états de programme sont les étapes que les visiteurs franchissent dans un programme (par exemple, Invité, Invité, Invité, Participation, Pas de présentation). Ces étapes sont définies par le [canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
@@ -58,9 +58,9 @@ Le but d&#39;un programme est de créer une interaction significative avec la pe
 >
 >Pour un webinaire, l&#39;enregistrement n&#39;est pas une interaction significative s&#39;ils ne regardent pas vraiment le webinaire. Participer est un succès dans ce cas.
 
-## Programme d’acquisition  {#acquisition-program}
+## Programme d’acquisition {#acquisition-program}
 
-Lorsqu’un nouveau nom entre dans le système en tant que membre de programme, Marketo définit automatiquement ce programme en tant que &quot;acquisition&quot;. Cela crédite l’attribution [](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)Première touche.
+Lorsqu’un nouveau nom entre dans le système en tant que membre de programme, Marketo définit automatiquement ce programme en tant que &quot;acquisition&quot;. Cela crédite l&#39;[attribution Première touche](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >
