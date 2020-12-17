@@ -22,7 +22,7 @@ Marketo vous permet de créer des entrées directement dans votre calendrier mar
 
 Voici comment.
 
-1. Accédez au **calendrier**.
+1. Accédez au **Calendrier**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -39,7 +39,7 @@ Voici comment.
 
    >[!TIP]
    >
-   >Vous pouvez également créer des campagnes **** dynamiques, des Programmes **de** courriel et des entrées **de** base de la même manière.
+   >Vous pouvez également créer des **campagnes dynamiques**, **Programmes de courriel** et **entrées de base** de la même manière.
 
 1. Une fois la modification terminée, fermez le mode de mise au point du programme.
 
