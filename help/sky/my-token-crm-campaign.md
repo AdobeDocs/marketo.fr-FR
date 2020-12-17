@@ -20,7 +20,7 @@ Voici comment configurer un jeton Campaign CRM pour une utilisation dans vos pro
 >
 >Les jetons CRM Campaign My Tokens ne sont disponibles que pour les intégrations Salesforce.
 
-1. Dans l’onglet Mes jetons de votre programme ou dossier, faites glisser un jeton Campaign **** CRM sur le canevas Jetons locaux.
+1. Dans l’onglet Mes jetons de votre programme ou dossier, faites glisser un jeton **[!UICONTROL CRM Campaign]** sur le canevas Jetons locaux.
 
    ![Image un](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
