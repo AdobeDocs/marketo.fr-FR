@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Pour créer manuellement un compte nommé, procédez comme suit.
 
-1. Dans Comptes nommés, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Créer un compte** nommé.
+1. Dans Comptes nommés, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Créer un compte nommé**.
 
    ![](assets/two-1.png)
 
