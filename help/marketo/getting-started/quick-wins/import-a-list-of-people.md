@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Importer une Liste de personnes {#import-a-list-of-people}
 
-## Mission : Importer dans votre base de données une feuille de calcul liste des participants à un salon professionnel {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Mission : Importer une feuille de calcul liste des participants à un salon commercial dans votre base de données {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un fichier de feuille de calcul dans Marketing Cloud.
 
-## Étape 1 : Téléchargement et modification d’une feuille de calcul {#step-download-and-edit-a-spreadsheet}
+## Étape 1 : Télécharger et modifier une feuille de calcul {#step-download-and-edit-a-spreadsheet}
 
-1. Pour début, téléchargez notre feuille de calcul pratique ([**tradeshow-attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) sur votre ordinateur.
+1. Pour début, téléchargez notre feuille de calcul pratique ([**tradeshow-participants.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) sur votre ordinateur.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Lors de l’importation d’une date, utilisez le format suivant : **21/09/20** (Mois/Jour/Année).
+   >Lors de l’importation d’une date, utilisez le format suivant : **21/9/20** (Mois/Jour/Année).
 
    >[!NOTE]
    >
@@ -43,17 +43,17 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
 >
 >Entrez votre véritable adresse de courriel dans le fichier CSV afin de recevoir les messages de soutien que vous enverrez lors de la prochaine mission.
 
-## Étape 2 : Création d’un Programme {#step-create-a-program}
+## Étape 2 : Créer un Programme {#step-create-a-program}
 
-1. Accédez à la zone Activités **** marketing.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/ma-2.png)
 
-1. Sélectionnez votre dossier **Apprentissage** , puis sous **Nouveau** , cliquez sur **Nouveau Programme**.
+1. Sélectionnez votre dossier **Apprentissage**, puis sous **Nouveau** cliquez sur **Nouveau Programme**.
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Nommez** le programme &quot;Mon Programme de commerce&quot; et sélectionnez &quot;Événement&quot; pour le type **de** Programme.
+1. **** Nommez le programme &quot;Mon Programme de commerce&quot; et sélectionnez &quot;Événement&quot; pour le type **de** Programme.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -63,11 +63,11 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
 
 >[!NOTE]
 >
->Les programmes de événement se produisent à des dates spécifiques. En savoir plus sur [**les Événements**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>Les programmes de événement se produisent à des dates spécifiques. En savoir plus sur [**Événements**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
 ## Étape 3 : Importer votre feuille de calcul dans Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. Dans **Mon Programme** de commerce, cliquez sur **Nouveau** et sélectionnez **Nouveau fichier** local.
+1. Dans **Mon Programme de commerce**, cliquez sur **Nouveau** et sélectionnez **Nouvel actif local**.
 
    ![](assets/seven-3.png)
 
@@ -75,11 +75,11 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **Attribuez un nom** à la liste &quot;Participants au salon de commerce&quot; et cliquez sur **Créer**.
+1. **Attribuez un** nom à la liste &quot;Présents du diaporama&quot; et cliquez sur  **Créer**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
-1. Dans la liste des participants **au** salon professionnel, cliquez sur Actions **de** Liste et sélectionnez **Importer la Liste**.
+1. Dans votre liste **Présents du salon commercial**, cliquez sur **Actions de Liste** et sélectionnez **Importer la Liste**.
 
    ![](assets/ten-2.png)
 
@@ -91,13 +91,13 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
    >
    >La taille maximale des fichiers CSV est de 100 Mo.
 
-1. **Accédez** au fichier de feuille de calcul **tradeshow-attendees.csv** sur votre ordinateur et cliquez sur **Suivant**.
+1. **** Accédez au fichier  **tradeshow-attendees.** csvspreadsheet sur votre ordinateur et cliquez sur  **Suivant**.
 
    ![](assets/eleven-2.png)
 
    >[!NOTE]
    >
-   >En mode d’importation des Listes, le fait de choisir **Ignorer les nouvelles personnes et les mises à jour** signifie que vous n’aurez aucune incidence sur les enregistrements de personne existants ni sur les activités consignées. Utilisez ce mode si vous souhaitez une liste statique rapide et préfiltrée de personnes existantes à utiliser dans vos activités marketing. Si vous sélectionnez ce mode, les options suivantes seront disponibles :
+   >En mode d’importation de Liste, le fait de sélectionner **Ignorer les nouvelles personnes et les mises à jour** signifie que vous n’aurez aucun impact sur les enregistrements de personne existants ou n’enregistrerez aucune activité. Utilisez ce mode si vous souhaitez une liste statique rapide et préfiltrée de personnes existantes à utiliser dans vos activités marketing. Si vous sélectionnez ce mode, les options suivantes seront disponibles :
    >
    > * Ignorer la création de nouvelles personnes
    > * Ignorer les mises à jour des champs de personne
@@ -110,13 +110,13 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
 
    >[!TIP]
    >
-   >Les en-têtes de colonne doivent toujours correspondre exactement au champ (sensible à la casse) afin d’obtenir les meilleurs résultats de mappage automatique. Si vous utilisez des champs personnalisés et que vous ne les voyez pas dans la liste déroulante, revenez en arrière et [créez-les](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) pour qu’ils deviennent des options.
+   >Les en-têtes de colonne doivent toujours correspondre exactement au champ (sensible à la casse) afin d’obtenir les meilleurs résultats de mappage automatique. Si vous utilisez des champs personnalisés et que vous ne les voyez pas dans la liste déroulante, revenez en arrière et [créez-les](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) afin qu’elles puissent devenir des options.
 
    >[!NOTE]
    >
    >Si vous ne souhaitez pas importer de champs, sélectionnez **Ignorer** dans le menu déroulant Champ marketing.
 
-1. Sélectionnez **Mon Programme** de commerce pour le Programme **** d’acquisition, puis cliquez sur **Importer**.
+1. Sélectionnez **Mon Programme de commerce** pour le **Programme d&#39;acquisition**, puis cliquez sur **Importer**.
 
    ![](assets/image2014-9-24-12-3a25-3a1.png)
 
@@ -124,13 +124,13 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
 
    ![](assets/image2014-9-24-12-3a25-3a13.png)
 
-1. De retour dans **Mon Programme** de commerce, cliquez sur l&#39;onglet **Membres** . Vous verrez toutes les personnes que vous venez d&#39;importer.
+1. De retour dans **Mon Programme de commerce**, cliquez sur l&#39;onglet **Membres**. Vous verrez toutes les personnes que vous venez d&#39;importer.
 
    ![](assets/fifteen-1.png)
 
 >[!NOTE]
 >
->Vous pouvez analyser la réussite de votre programme en suivant l&#39;adhésion au programme. En savoir plus sur [**les Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>Vous pouvez analyser la réussite de votre programme en suivant l&#39;adhésion au programme. En savoir plus sur [**Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Fin de la mission {#mission-complete}
 
