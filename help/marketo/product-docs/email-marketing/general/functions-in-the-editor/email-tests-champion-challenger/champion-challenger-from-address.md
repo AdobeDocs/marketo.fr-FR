@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Champion/Challenger : Adresse de départ {#champion-challenger-from-address}
+# Champion/Challenger : Adresse {#champion-challenger-from-address}
 
 Vous voulez essayer un autre From Address sans problème ? Voici comment.
 
@@ -23,13 +23,13 @@ Vous voulez essayer un autre From Address sans problème ? Voici comment.
 
 
 
-1. Dans l’éditeur de test par courrier électronique, sélectionnez **De l’adresse** dans la liste déroulante **Type de test **.
+1. Dans l’éditeur de test par courrier électronique, sélectionnez **Adresse** dans la liste déroulante **Type de test **.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >La première adresse de départ est désignée comme **champion**. Les adresses suivantes sont appelées **Challengers**.
+   >La première adresse de départ est désignée comme le **champion**. Les adresses suivantes sont appelées **Challengers**.
 
 1. Saisissez les champs De (à gauche) et De (à droite) pour les challengers.
 
@@ -50,7 +50,7 @@ Vous voulez essayer un autre From Address sans problème ? Voici comment.
    >
    >Dans la distribution illustrée ci-dessus, 15 % de l’audience totale spécifiée dans la liste intelligente reçoit l’un des e-mails avec un challenger From Address et 85 % reçoivent le courriel avec le champion From Address. Les courriels pour plusieurs concurrents provenant des adresses partagent les 15 % de parts. Lorsque le test est terminé, vous pouvez déclarer manuellement un gagnant. A partir de ce moment, tous les futurs utilisateurs recevront le contenu le plus performant.
 
-   Pour obtenir une confiance statistique, veillez à choisir un pourcentage qui inclut suffisamment de personnes pour que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants.  [Plus d&#39;informations que jamais sur la fiabilité](http://en.wikipedia.org/wiki/Confidence_interval)statistique.
+   Pour obtenir une confiance statistique, veillez à choisir un pourcentage qui inclut suffisamment de personnes pour que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants.  [Plus d&#39;informations que jamais sur la fiabilité](http://en.wikipedia.org/wiki/Confidence_interval) statistique.
 
 1. Cliquez sur **Suivant**.
 
