@@ -15,16 +15,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Selon la date d’achat, votre abonnement Marketo peut inclure du contenu prédictif ou du contenu`<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités d’analyse de contenu`<sup>AI</sup>` jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers le contenu`<sup>AI</sup>`Marketo.
+>Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 La fonction Détection de contenu détecte et balise automatiquement votre contenu existant (études de cas, publications de blog, vidéos, communiqués de presse, etc.). de votre site Web et effectue le suivi du nombre de vues sur ces documents.  Le contenu prédictif utilise le contenu découvert, en utilisant des analyses prédictives pour déterminer quel est le contenu le plus performant et recommande le meilleur contenu à la bonne personne.
 
-1. Accédez à Paramètres **** de contenu.
+1. Accédez à **Paramètres de contenu**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Activez **** la détection de contenu.
+1. Remplacez la détection de contenu par **Activé**.
 
    ![](assets/content-discovery-on-hand.png)
 
-La définition de la fonction Détection de contenu sur Activé permet de découvrir automatiquement un contenu PDF ou vidéo lorsqu’un visiteur Web clique sur le fichier ou regarde la vidéo. Cet élément de contenu (URL, nom du contenu et URL de l’image) est ajouté, puis suivi sous la page Tout le contenu. Lors de la découverte automatique d’une vidéo, nous découvrons une vidéo lorsqu’un visiteur Web clique et regarde une vidéo incorporée depuis YouTube, Vimeo ou Wistia. Pour découvrir automatiquement d’autres contenus, vous devez [créer des modèles](create-content-patterns.md)de contenu.
+La définition de la fonction Détection de contenu sur Activé permet de découvrir automatiquement un contenu PDF ou vidéo lorsqu’un visiteur Web clique sur le fichier ou regarde la vidéo. Cet élément de contenu (URL, nom du contenu et URL de l’image) est ajouté, puis suivi sous la page Tout le contenu. Lors de la découverte automatique d’une vidéo, nous découvrons une vidéo lorsqu’un visiteur Web clique et regarde une vidéo incorporée depuis YouTube, Vimeo ou Wistia. Pour découvrir automatiquement d’autres contenus, vous devez [créer des modèles de contenu](create-content-patterns.md).
