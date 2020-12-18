@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modification de la famille de polices du formulaire {#change-the-form-font-family}
+# Modifier la famille de polices de formulaire {#change-the-form-font-family}
 
 Google Fonts sont géniaux, et nous les avons intégrés dans l&#39;éditeur de formulaires. Regardez !
 
@@ -23,19 +23,19 @@ Google Fonts sont géniaux, et nous les avons intégrés dans l&#39;éditeur de 
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Sous **Paramètres** du formulaire **, sélectionnez** Paramètres ****.
+1. Sous **Formulaire** **Paramètres**, sélectionnez **Paramètres**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Sélectionnez la famille **de** polices de votre choix.
+1. Sélectionnez la **famille de polices** voulue.
 
    >[!TIP]
    >
-   >Plusieurs polices [](http://www.google.com/fonts) Google sont disponibles.
+   >Un groupe de [polices Google](http://www.google.com/fonts) peut être utilisé.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
