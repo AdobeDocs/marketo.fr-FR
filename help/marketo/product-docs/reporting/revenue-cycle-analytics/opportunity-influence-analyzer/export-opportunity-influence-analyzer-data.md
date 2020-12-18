@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Exporter les données de l&#39;analyseur d&#39;influence d&#39;opportunité {#export-opportunity-influence-analyzer-data}
 
-Pour recevoir les mises à jour de vos rapports [d&#39;Explorateur](http://docs.marketo.com/display/docs/revenue+cycle+analytics) de recettes et les partager, vous pouvez vous abonner à un rapport existant à toute adresse électronique.
+Pour recevoir les mises à jour de vos rapports [Explorateur du cycle de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics) et les partager, vous pouvez vous abonner à n&#39;importe quelle adresse électronique d&#39;un rapport existant.
 
-1. Accédez à **Analytics** et sélectionnez **New** **>** **New ReportAbonnement.**********
+1. Accédez à **Analytics** et sélectionnez **Nouveau** **** **Nouveau** **Rapport** **Abonnement**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Pour vous abonner à un rapport de base que vous avez créé dans un programme, voir [S’abonner à un rapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) de base.
+   >Pour vous abonner à un rapport de base que vous avez créé dans un programme, voir [S’abonner à un rapport de base](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. Pour Source du rapport, sélectionnez Explorateur des **recettes.**
+1. Pour Source du rapport, sélectionnez **Explorateur de recettes.**
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,11 +45,11 @@ Pour recevoir les mises à jour de vos rapports [d&#39;Explorateur](http://docs.
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [gérer tous vos abonnements](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) de rapports au même endroit.
+>Découvrez comment [gérer tous vos abonnements de rapports](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) en un seul endroit.
 
 >[!NOTE]
 >
 >**Plongée profonde**
 >
->Pour découvrir d&#39;autres choses que vous pouvez faire avec les analyses avancées de Marketo, consultez la plongée en profondeur de l&#39;Explorateur [](http://docs.marketo.com/display/docs/revenue+cycle+analytics) Revenu Cycle.
+>Découvrez d&#39;autres choses que vous pouvez faire avec les analyses avancées de Marketo dans l&#39;[Explorateur de cycles de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
