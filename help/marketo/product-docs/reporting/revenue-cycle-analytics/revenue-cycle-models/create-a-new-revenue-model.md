@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Créer un modèle de recettes {#create-a-new-revenue-model}
+# Créer un nouveau modèle de recettes {#create-a-new-revenue-model}
 
-1. Pour créer un nouveau modèle de cycle de revenus, cliquez sur le bouton **Analytics** dans l’écran d’accueil Mon marketing.
+1. Pour créer un modèle de cycle de revenus, cliquez sur le bouton **Analyses** de l’écran d’accueil Mon marketing.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Dans l’onglet **Analytics** , cliquez sur **Nouveau** et sélectionnez **Nouveau modèle** de cycle de recettes.
+1. Dans l&#39;onglet **Analyses**, cliquez sur **Nouveau** et sélectionnez **Nouveau modèle de cycle de revenus**.
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. Une fenêtre modale **Nouveau modèle** de cycle de revenus s&#39;affiche. Saisissez un nom et cliquez sur **Créer**.
+1. Une fenêtre modale **Nouveau modèle de cycle de revenus** s&#39;affiche. Saisissez un nom et cliquez sur **Créer**.
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
@@ -37,5 +37,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->En savoir plus sur l&#39; [utilisation des étapes](using-revenue-model-inventory-stages.md)du stock du modèle de recettes.
+>En savoir plus sur [l&#39;utilisation des étapes du stock du modèle de recettes](using-revenue-model-inventory-stages.md).
 
