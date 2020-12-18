@@ -21,14 +21,14 @@ Vous pouvez envoyer un exemple pour vérifier que votre notification Push foncti
 
 1. Vous pouvez envoyer un exemple de trois façons :
 
-   Dans l’arborescence de gauche, cliquez avec le bouton droit de la souris sur la ressource de notification Push et cliquez sur **Envoyer un exemple**.
+   Dans l’arborescence de gauche, cliquez avec le bouton droit sur la ressource de notification Push et cliquez sur **Envoyer l’échantillon**.
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Ou, dans le menu Actions de notification Push, cliquez sur **Envoyer l’exemple**.\
+   Ou, dans le menu Actions de notification Push, cliquez sur **Envoyer l’échantillon**.\
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
-   Ou, dans l’éditeur de notifications Push, cliquez sur **Envoyer un exemple**.
+   Ou, dans l’éditeur de notifications Push, cliquez sur **Envoyer l’exemple**.
 
    ![](assets/image2015-7-20-13-3a29-3a3.png)
 
@@ -36,13 +36,13 @@ Vous pouvez envoyer un exemple pour vérifier que votre notification Push foncti
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Ou cliquez sur **Ajouter le périphérique** pour [ajouter un nouveau périphérique](adding-a-new-test-device.md) de test à lequel envoyer l’exemple.
+   Ou cliquez sur **Ajouter le périphérique** à [ajouter un nouveau périphérique de test](adding-a-new-test-device.md) pour envoyer l’exemple à &lt;a2/>.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Vous pouvez connecter votre périphérique à l’application de deux manières.
 
-   Avec la première option, cliquez sur l’URL de **visite avec le bouton du périphérique** , copiez l’URL à partir du champ et envoyez-la par courriel ou par message texte à votre périphérique. Sur le périphérique, appuyez sur l’URL. Lorsque l’état affiche la connexion, cliquez sur **Envoyer**.
+   Avec la première option, cliquez sur le bouton **URL de visite avec périphérique**, copiez l’URL du champ et envoyez-la par courriel ou par message texte à votre périphérique. Sur le périphérique, appuyez sur l’URL. Lorsque l’état affiche la connexion, cliquez sur **Envoyer**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
@@ -52,7 +52,7 @@ Vous pouvez envoyer un exemple pour vérifier que votre notification Push foncti
 
    >[!TIP]
    >
-   >Avez-vous bien ajouté un périphérique de test, mais ne le voyez-vous pas répertorié dans le champ **Envoyer vers** ? Pour résoudre les problèmes, vérifiez les points suivants :
+   >Avez-vous bien ajouté un périphérique de test, mais ne le voyez pas répertorié dans le champ **Envoyer à** ? Pour résoudre les problèmes, vérifiez les points suivants :
    >
    >    
    >    
