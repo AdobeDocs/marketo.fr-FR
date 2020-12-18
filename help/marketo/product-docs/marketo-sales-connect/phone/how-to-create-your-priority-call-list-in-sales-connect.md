@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Comment créer votre Liste d&#39;appels de priorité dans Sales Connect {#how-to-create-your-priority-call-list-in-sales-connect}
+# Comment créer votre Liste d&#39;appel prioritaire dans Sales Connect {#how-to-create-your-priority-call-list-in-sales-connect}
 
 Découvrez comment créer une liste de rapports/d&#39;appels de priorité à l&#39;aide des données d&#39;engagement par courriel ToutApp pour concentrer votre temps sur les personnes ou les opportunités avec dynamisme.
 
-1. Accédez à votre compte dans l’application [](http://toutapp.com/login)Web. Une fois que vous avez terminé les étapes ci-dessous, une &quot;Liste d&#39;appel prioritaire&quot; sera enregistrée dans votre connexion commerciale afin de classer par ordre de priorité vos pistes/comptes les plus chauds, de réengager les pistes/comptes qui sont tombés dans le noir, de capturer les fruits à la traîne, de réduire le temps de connexion entre les touches de votre campagne.
+1. Accédez à votre compte dans l&#39;[application Web](http://toutapp.com/login). Une fois que vous avez terminé les étapes ci-dessous, une &quot;Liste d&#39;appel prioritaire&quot; sera enregistrée dans votre connexion commerciale afin de classer par ordre de priorité vos pistes/comptes les plus chauds, de réengager les pistes/comptes qui sont tombés dans le noir, de capturer les fruits à la traîne, de réduire le temps de connexion entre les touches de votre campagne.
 1. Suivez les étapes ci-après.
 
    * Cliquez sur &quot;Options de Vue&quot;.
