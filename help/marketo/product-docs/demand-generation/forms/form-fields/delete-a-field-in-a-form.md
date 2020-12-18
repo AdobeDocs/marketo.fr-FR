@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’un champ dans un formulaire {#delete-a-field-in-a-form}
+# Supprimer un champ dans un formulaire {#delete-a-field-in-a-form}
 
 S’il existe un champ dont vous n’avez plus besoin sur votre formulaire, il peut être facilement supprimé. Voici comment.
 
@@ -19,11 +19,11 @@ S’il existe un champ dont vous n’avez plus besoin sur votre formulaire, il p
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez le formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez le formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Sélectionnez votre champ et cliquez sur l’icône **Supprimer** .
+1. Sélectionnez votre champ et cliquez sur l&#39;icône **supprimer**.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 Cliquez sur Terminer.
@@ -37,6 +37,6 @@ Cliquez sur Terminer.
 >
 >**Rappel**
 >
->N&#39;oubliez pas d&#39; [approuver le brouillon](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de landing page créé par les modifications du formulaire.
+>N&#39;oubliez pas [d&#39;approuver le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
 A quel point pensez-vous que la suppression d&#39;un champ serait difficile ?
