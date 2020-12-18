@@ -29,7 +29,7 @@ Avez-vous tant de segments que le défilement devient encombrant ? Utilisez des 
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Ou, pour créer une étiquette, cliquez sur **Définir l’étiquette**, entrez le nouveau nom de l’étiquette, puis cliquez sur **Créer**.
+1. Ou, pour créer une étiquette, cliquez sur **Définir l&#39;étiquette**, saisissez le nouveau nom de l&#39;étiquette, puis cliquez sur **Créer**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 
