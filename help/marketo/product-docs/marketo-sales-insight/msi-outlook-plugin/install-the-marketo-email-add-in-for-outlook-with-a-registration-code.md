@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Installer l&#39;Ajoute de courriel de Marketo pour Outlook avec un code d&#39;inscription {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Installer l&#39;Ajoute de courriel Marketo pour Outlook avec un code d&#39;inscription {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Si les utilisateurs peuvent accéder aux paramètres d’administration sur leurs ordinateurs portables, vous pouvez leur envoyer directement un code d’enregistrement.
 
@@ -19,7 +19,7 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
 
 >[!PREREQUISITES]
 >
->* Vous devez [obtenir une licence](issue-a-marketo-email-add-in-license.md)d’Ajoute électronique de Marketing Cloud.
+>* Vous devez être [titulaire d’une licence d’Ajoute électronique de marketing ](issue-a-marketo-email-add-in-license.md).
 
 >
 
@@ -27,7 +27,7 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
 
 ## Télécharger le programme d&#39;installation {#download-installer}
 
-1. Identifier votre version [Microsoft Outlook](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identifiez votre [version de Microsoft Outlook](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c).
 1. Cliquez sur le lien pour télécharger le programme d&#39;installation approprié à votre version de Microsoft Outlook.
 
    >[!NOTE]
@@ -47,7 +47,7 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
    | Outlook pour Mac | Non pris en charge | Non pris en charge |
    | Outlook Web App | Non pris en charge | Non pris en charge |
 
-## Copier votre code d’enregistrement {#copy-your-registration-code}
+## Copier votre code d&#39;inscription {#copy-your-registration-code}
 
 1. Copiez le code d’enregistrement du courrier électronique d’invitation que vous avez reçu.
 
@@ -71,7 +71,7 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Renseignez les champs **Prénom**, **Nom**, Adresse **de** courriel, puis copiez et collez le **code d’enregistrement **du courrier électronique dans le formulaire et cliquez sur **Suivant.**
+1. Renseignez **Prénom**, **Nom**, **Adresse électronique**, puis copiez et collez le **code d&#39;enregistrement **du courrier électronique dans le formulaire et cliquez sur **Suivant**.
 
    ![](assets/enter-your-information-hands.png)
 
