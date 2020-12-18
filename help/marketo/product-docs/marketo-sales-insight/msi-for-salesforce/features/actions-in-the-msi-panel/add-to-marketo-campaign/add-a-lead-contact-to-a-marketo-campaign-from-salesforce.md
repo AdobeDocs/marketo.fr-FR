@@ -19,7 +19,7 @@ Vous pouvez facilement ajouter des pistes ou des contacts à des campagnes marke
 
    ![](assets/image2016-3-22-9-3a18-3a36.png)
 
-1. Sélectionnez la liste des personnes que vous souhaitez vue dans la liste déroulante et cliquez sur **Aller**.
+1. Sélectionnez la liste des personnes à vue dans la liste déroulante et cliquez sur **Aller**.
 
    ![](assets/image2016-3-22-9-3a24-3a6.png)
 
@@ -31,16 +31,16 @@ Vous pouvez facilement ajouter des pistes ou des contacts à des campagnes marke
 
    ![](assets/three.png)
 
-1. Dans l’enregistrement, faites défiler l’écran jusqu’à la zone Statistiques des ventes du marketing, cliquez sur la liste déroulante **Actions** , sélectionnez **Ajouter à Marketo Campaign,** puis cliquez sur **Atteindre.**
+1. Dans l&#39;enregistrement, faites défiler l&#39;écran jusqu&#39;à la zone Statistiques des ventes du marketing, cliquez sur la liste déroulante **Actions**, sélectionnez **Ajouter au marketing Campaign,** et cliquez sur **Atteindre.**
 
    ![](assets/four.png)
 
-1. Cliquez sur la liste déroulante Nom **** Campaign, sélectionnez la campagne Marketo souhaitée, puis cliquez sur **Ajouter à Marketo Campaign**.
+1. Cliquez sur la liste déroulante **Nom du Campaign**, sélectionnez la campagne Marketo souhaitée, puis cliquez sur **Ajouter à Marketo Campaign**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Pour que la campagne s’affiche dans la liste déroulante, utilisez le déclencheur [**** Campaign is Requested](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)(est demandé **), avec** Sales Insightcomme source, lorsque vous configurez la campagne.
+   >Pour que la campagne s’affiche dans la liste déroulante, utilisez le déclencheur [**Campaign is Requested**](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), avec **Sales Insight** comme source, lorsque vous configurez la campagne.
 
 Et c&#39;est tout ! La personne est ajoutée à votre campagne marketing.
