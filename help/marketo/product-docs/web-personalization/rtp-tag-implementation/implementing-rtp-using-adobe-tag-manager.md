@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Implémentation de RTP à l’aide d’Adobe Tag Manager {#implementing-rtp-using-adobe-tag-manager}
+# Implémentation de RTP à l&#39;aide de Adobe Tag Manager {#implementing-rtp-using-adobe-tag-manager}
 
 Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation ci-dessous :
 
 1. Connectez-vous à votre compte RTP.
-1. Accédez à Paramètres du **compte.**
+1. Accédez à **Paramètres du compte.**
 
    Si vous avez déjà reçu votre balise JavaScript de l’assistance - passez à l’étape 4.
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
-1. Sous Domaine, recherchez le domaine approprié et cliquez sur **Générer une balise**.
+1. Sous Domaine, recherchez le domaine approprié et cliquez sur **Générer la balise**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
 1. Connectez-vous à votre compte Gestionnaire dynamique de balises ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
-1. Va au **Tableau de bord.** Cliquez sur la propriété web appropriée.
+1. Accédez au **Tableau de bord.** Cliquez sur la propriété web appropriée.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
@@ -36,7 +36,7 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
 1. Renseignez les champs suivants
 
    1. Nom : **Marketo RTP**
-   1. Conditions (effondrement) : Règle de déclenchement à - **Haut de la page**
+   1. Conditions (effondrement) : Déclencher la règle à - **Haut de la page**
    1. Javascript (effondrement) : cliquez sur **Ajouter un nouveau script**
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
@@ -53,14 +53,14 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
 
    >[!CAUTION]
    >
-   >Assurez-vous de supprimer toutes les balises et de ne laisser que le script lui-même (non `<script type='text/javascript'>` , `</script>` ).
+   >Veillez à supprimer toutes les balises et à ne laisser que le script lui-même (no `<script type='text/javascript'>` , `</script>` ).
 
 1. Cliquez sur **Enregistrer le code** dans l’éditeur de script et **Enregistrer la règle** dans l’éditeur de règles.
 
-1. Dans le panneau Règles, recherchez la règle de chargement de page RTP du marketing et dans la liste déroulante **Actions** , sélectionnez **Activer les règles**.
+1. Dans le panneau Règles, recherchez la règle de chargement de page RTP de Marketo et dans la liste déroulante **Actions** sélectionnez **Activer les règles**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
-1. **Vérifiez** qu’il s’affiche sur toutes les pages, y compris les landings page et sous-domaines.
+1. **** Vérifiez qu’il s’affiche sur toutes les pages, y compris les landings page et sous-domaines.
 
    Vous pouvez le faire en cliquant avec le bouton droit sur les pages de votre site Web. Accédez à **Inspect Element**, cliquez sur **Network, **Search : **RTP**.
