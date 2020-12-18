@@ -17,17 +17,17 @@ ht-degree: 0%
 
 Créez une campagne Web pour personnaliser votre contenu Web en temps réel et fournir le message approprié à l’utilisateur approprié au bon moment.
 
-Une campagne Web est une réaction personnalisée associée à un segment spécifique. Il peut s’agir d’une boîte de dialogue sur votre site Web, d’un remplacement [](create-a-new-in-zone-web-campaign.md)de zone, d’une [fonction de](create-a-new-widget-web-campaign.md)widget ou d’une alerte par courrier électronique.
+Une campagne Web est une réaction personnalisée associée à un segment spécifique. Il peut s’agir d’une boîte de dialogue sur votre site Web, d’un [remplacement de zone](create-a-new-in-zone-web-campaign.md), d’une fonction de widget [](create-a-new-widget-web-campaign.md)ou d’une alerte par courriel.
 
-1. Accédez à Campagnes **** Web.
+1. Accédez à **Campagnes Web**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Sélectionnez **Créer une Campaign** Web.
+1. Sélectionnez **Créer une Campaign Web**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Sélectionnez le type de campagne Web de la **boîte de dialogue** . Créez et ajoutez votre création dans l’éditeur. Cliquez sur **Prévisualisation** pour voir comment la campagne Web va réagir sur votre site.
+1. Sélectionnez le type de campagne Web **Dialog**. Créez et ajoutez votre création dans l’éditeur. Cliquez sur **Prévisualisation** pour savoir comment la campagne Web va réagir sur votre site.
 
    ![](assets/new-3.png)
 
@@ -41,7 +41,7 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Afficher le</strong></td> 
-   <td colspan="1">Permet de <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personnaliser quand et comment</a> votre campagne Web s’affiche.</td> 
+   <td colspan="1">Permet de <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personnaliser quand et comment</a> s’affiche votre campagne Web.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Style de boîte de dialogue</strong></td> 
@@ -119,7 +119,7 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
     <ul> 
      <li>URL : saisissez un exemple d'URL où la campagne s'exécuterait pour afficher un exemple prévisualisation de l'aspect de la campagne.</li> 
      <li>Périphérique - Prévisualisation de l'affichage de votre campagne par périphérique : Bureau, Portrait mobile, Paysage mobile, Portrait tablette, Paysage portrait.<br></li> 
-     <li>Prévisualisation - Cliquez sur <strong>Prévisualisation </strong>pour ouvrir une nouvelle fenêtre de l'exemple d'URL afin de voir comment réagit la campagne. </li> 
+     <li>Prévisualisation - Cliquez sur <strong>Prévisualisation </strong>pour ouvrir une nouvelle fenêtre de l'exemple d'URL afin de voir comment la campagne réagit. </li> 
      <li>Partager - Utilisez le bouton Partager pour envoyer un courriel à un collègue avec un lien afin d'afficher la campagne proxy.</li> 
     </ul></td> 
   </tr> 
@@ -128,31 +128,31 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
 
 >[!TIP]
 >
->Accélérez et simplifiez votre processus de création de campagne en utilisant les modèles [](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) intégrés ou en [enregistrant votre campagne](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) existante comme modèle pour la réutilisation.
+>Accélérez et simplifiez le processus de création de vos campagnes en utilisant [les modèles intégrés](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) ou en [enregistrant votre campagne existante](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) comme modèle à réutiliser.
 
 ## Modifier une Campaign Web {#edit-a-web-campaign}
 
-1. Dans la page **Campagnes** **Web** , cliquez sur **Modifier** dans la campagne Web.
+1. Dans la page **Web** **Campagnes**, cliquez sur **Modifier** dans la campagne Web.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->Pour faciliter la recherche de la campagne Web de votre choix, utilisez la fonction [de](filter-web-campaigns.md)filtrage.
+>Pour faciliter la recherche de la campagne Web de votre choix, utilisez la fonction de filtrage [](filter-web-campaigns.md).
 
-## Prévisualisation d&#39;un Campaign Web {#preview-a-web-campaign}
+## Prévisualisation d’un Campaign Web {#preview-a-web-campaign}
 
-1. Dans la page Campagnes **** Web, cliquez sur **Prévisualisation** sur la campagne Web que vous souhaitez vue.
+1. Dans la page **Campagnes Web**, cliquez sur **Prévisualisation** dans la campagne Web que vous souhaitez vue.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
 ## Cloner une Campaign Web {#clone-a-web-campaign}
 
-Voir [Cloner une Campaign](clone-a-web-campaign.md)Web.
+Voir [Cloner une Campaign Web](clone-a-web-campaign.md).
 
-## Suppression d’une Campaign Web {#delete-a-web-campaign}
+## Supprimer une Campaign Web {#delete-a-web-campaign}
 
-1. Dans la page Campagnes **** Web, cliquez sur **Supprimer **sur la campagne Web que vous souhaitez supprimer.
+1. Dans la page **Campagnes Web**, cliquez sur **Supprimer **sur la campagne Web que vous souhaitez supprimer.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
