@@ -17,7 +17,7 @@ Créez et utilisez un formulaire sur un landing page pour générer de nouveaux 
 
 >[!NOTE]
 >
->Découvrez ce que fait Marketo pour [protéger](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)vos formulaires.
+>Découvrez ce que Marketo fait pour [protéger vos formulaires](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
 1. Accédez à **Marketing** **Activités**.
 
@@ -27,7 +27,7 @@ Créez et utilisez un formulaire sur un landing page pour générer de nouveaux 
 
    ![](assets/programseelct.png)
 
-1. Sous **Nouveau**, cliquez sur **Nouveau** **fichier** local **.**
+1. Sous **New**, cliquez sur **New** **Local** **Asset**.
 
    ![](assets/newlocalasset.png)
 
@@ -35,7 +35,7 @@ Créez et utilisez un formulaire sur un landing page pour générer de nouveaux 
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Saisissez un **nom** de formulaire, puis cliquez sur **Créer**.
+1. Saisissez un formulaire **Nom** et cliquez sur **Créer**.
 
    ![](assets/newformwithhands.png)
 
