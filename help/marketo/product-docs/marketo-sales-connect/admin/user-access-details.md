@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Détails d’accès utilisateur {#user-access-details}
+# Détails d&#39;accès utilisateur {#user-access-details}
 
 À quoi ont accès les administrateurs et les non-administrateurs ?
 
-## Autorisations des utilisateurs administrateurs {#admin-user-permissions}
+## Autorisations d’utilisateur administrateur {#admin-user-permissions}
 
 Les administrateurs peuvent [vue tous les modèles](http://docs.marketo.com/x/OYAXAQ).
 
@@ -25,7 +25,7 @@ Les administrateurs peuvent [vue toutes les campagnes](http://docs.marketo.com/x
 
 ![](assets/campaigns.jpg)
 
-Les administrateurs peuvent [vue toutes les activités](http://docs.marketo.com/x/SYAXAQ)de courriel.
+Les administrateurs peuvent [vue toutes les activités de courriel](http://docs.marketo.com/x/SYAXAQ).
 
 ![](assets/email-activity.png)
 
