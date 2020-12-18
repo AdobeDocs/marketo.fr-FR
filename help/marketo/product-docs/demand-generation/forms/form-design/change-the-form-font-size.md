@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modification de la taille de police du formulaire {#change-the-form-font-size}
+# Modifier la taille de police du formulaire {#change-the-form-font-size}
 
 Marketo vous permet de personnaliser facilement l’apparence de vos formulaires. Vous pouvez modifier la taille de la police. Voici comment.
 
@@ -23,15 +23,15 @@ Marketo vous permet de personnaliser facilement l’apparence de vos formulaires
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Sous **Paramètres** **Du Formulaire**, Sélectionnez **Paramètres**.
+1. Sous **Formulaire** **Paramètres**, sélectionnez **Paramètres**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Sélectionnez la **police** **Taille** de votre choix.
+1. Sélectionnez la **police** **taille** de votre choix.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
