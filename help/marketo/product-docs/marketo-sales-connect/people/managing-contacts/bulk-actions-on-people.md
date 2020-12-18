@@ -19,7 +19,7 @@ La première étape de toutes les actions en masse disponibles consiste à séle
 
 ![](assets/one-3.png)
 
-## Ajouter les personnes à regrouper {#add-people-to-group}
+## Ajouter les personnes au groupe {#add-people-to-group}
 
 Ajoutez plusieurs personnes à un groupe en même temps.
 
@@ -37,7 +37,7 @@ Nous affectons automatiquement une source à chaque contact qui entre dans la ba
 
 ## Autorisation {#authorization}
 
-En conformité avec le [RMMD](http://eugdpr.org/), utilisez l&#39;autorisation pour indiquer comment vous avez reçu l&#39;autorisation de communiquer avec ces personnes-ressources.
+Conformément au [RGPD](http://eugdpr.org/), utilisez l&#39;autorisation pour indiquer comment vous avez reçu l&#39;autorisation de communiquer avec ces contacts.
 
 ![](assets/authorization.png)
 
@@ -49,7 +49,7 @@ Effectuez un désabonnement en masse sur les contacts qui ne souhaitent plus rec
 
 ## Supprimer {#delete}
 
-Supprimer les contacts en bloc. Vous trouverez toutes les étapes à suivre [ici](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
+Supprimer les contacts en bloc. Vous trouverez toutes les étapes [ici](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
 
 ![](assets/delete.png)
 
