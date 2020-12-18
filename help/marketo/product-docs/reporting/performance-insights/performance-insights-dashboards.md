@@ -25,7 +25,7 @@ Le tableau de bord d’engagement vous aide à mesurer l’efficacité de vos pr
 
 Mesure de l&#39;engagement des Audiences
 
-Sélectionnez la mesure **Réussites** pour mesurer l’engagement des audiences dans vos programmes de culture. Le succès est une mesure de l&#39;interaction significative dans Marketo.
+Sélectionnez la mesure **Successes** pour mesurer l’engagement des audiences dans vos programmes de culture. Le succès est une mesure de l&#39;interaction significative dans Marketo.
 
 ![](assets/3-4.png)
 
@@ -39,7 +39,7 @@ Le but d&#39;un programme est de créer une interaction significative avec la pe
 
 Mesurer l&#39;acquisition de nouveaux noms
 
-Choisissez la mesure **Nouveaux noms** pour mesurer l’efficacité de vos nouveaux programmes d’acquisition de noms.
+Sélectionnez la mesure **Noms** pour mesurer l’efficacité de vos nouveaux programmes d’acquisition de noms.
 
 ![](assets/4-3.png)
 
