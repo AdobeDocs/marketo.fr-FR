@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# Test des annonces de pistes Facebook pour l&#39;intégration mobile avec Marketo {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
+# Testez les annonces de pistes Facebook pour l’intégration mobile avec Marketo {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
 
 Après avoir créé votre annonce de piste, vous devez la tester !
 
 >[!PREREQUISITES]
 >
->Vous devez [configurer l’intégration](set-up-facebook-lead-ads.md)des publicités de piste Facebook.
+>Vous devez [configurer l’intégration des publicités de piste Facebook](set-up-facebook-lead-ads.md).
 
 1. Dans l’éditeur d’alimentation Facebook, sélectionnez une campagne, une publicité, puis cliquez sur **Modifier**.
-1. Sous **Liens**, cliquez sur le lien **Vue sur l’application** mobile.
+1. Sous **Liens**, cliquez sur le lien **Vue sur l’application mobile**.
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
@@ -32,7 +32,7 @@ Après avoir créé votre annonce de piste, vous devez la tester !
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
-1. Dans Notifications, appuyez sur **Votre publicité est prête à prévisualisation**.
+1. Dans Notifications, appuyez sur **Votre publicité est prête à être prévisualisation**.
 
    ![](assets/image2016-3-11-8-3a41-3a59.png)
 
@@ -44,7 +44,7 @@ Après avoir créé votre annonce de piste, vous devez la tester !
    >
    >Ce n&#39;est qu&#39;un exemple, qui utilise un appel à l&#39;action En savoir plus. L&#39;appel à l&#39;action de votre unité d&#39;annonce de piste peut être différent.
 
-1. C&#39;est là que la magie se produit ! Une fois votre formulaire envoyé, [créez une liste dynamique dans Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dans le cadre d’un programme ou dans la base de données de pistes qui utilise le filtre Formulaire **de publicité de piste** Facebook remplie. Insérez le nom du formulaire de piste publicitaire du formulaire que vous venez d&#39;envoyer.
+1. C&#39;est là que la magie se produit ! Une fois que vous avez envoyé votre formulaire, [créez une liste dynamique dans Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dans le cadre d’un programme ou dans la base de données de pistes qui utilise le filtre **Formulaire de publicité de piste Facebook remplie**. Insérez le nom du formulaire de piste publicitaire du formulaire que vous venez d&#39;envoyer.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
