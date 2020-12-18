@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Découvrez comment incorporer un formulaire Marketo dans une campagne Web (boîte de dialogue, zone ou widget).
 
-1. Cliquez avec le bouton droit sur un formulaire approuvé. Sélectionnez Code **incorporé**.
+1. Cliquez avec le bouton droit sur un formulaire approuvé. Sélectionnez **Code incorporé**.
 
    ** ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -25,11 +25,11 @@ Découvrez comment incorporer un formulaire Marketo dans une campagne Web (boît
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. Dans Personnalisation Web, accédez à Campagnes **** Web.
+1. Dans Personnalisation Web, accédez à **Campagnes Web**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Cliquez sur **Créer une campagne**.
+1. Cliquez sur **Créer une nouvelle campagne**.
 
    ** ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -50,7 +50,7 @@ Découvrez comment incorporer un formulaire Marketo dans une campagne Web (boît
    >
    >Toute modification des champs du formulaire doit être effectuée dans les Activités marketing de Marketo dans Modifier le brouillon du formulaire.
 
-## Trois manières d’Ajouter une image d’arrière-plan à un formulaire {#three-ways-to-add-a-background-image-to-a-form}
+## Trois façons d’Ajouter une image d’arrière-plan à un formulaire {#three-ways-to-add-a-background-image-to-a-form}
 
 Pour ajouter une image d’arrière-plan à votre formulaire, vous pouvez :
 
@@ -58,7 +58,7 @@ Pour ajouter une image d’arrière-plan à votre formulaire, vous pouvez :
 * Modification des couleurs de la boîte de dialogue ou du widget dans Set Campaign
 * Ajouter le code CSS au script
 
-Pour modifier la page CSS d’un thème de formulaire, reportez-vous à [cet article](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Pour modifier la page CSS d’un thème de formulaire, voir [cet article](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 Pour modifier les couleurs de la boîte de dialogue ou du widget dans Set Campaign :
 
