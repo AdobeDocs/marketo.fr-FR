@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Envoi et suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle de marketing {#send-and-track-from-outlook-using-a-marketo-template}
+# Envoyer et effectuer un suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle de marketing {#send-and-track-from-outlook-using-a-marketo-template}
 
 Si votre équipe marketing vous a mis des modèles à disposition, voici comment vous pouvez les utiliser pour gagner du temps lors de la rédaction de vos courriels.
 
-1. Ouvrez Microsoft Outlook et cliquez sur Message **** marketing.
+1. Ouvrez Microsoft Outlook et cliquez sur **Message marketing**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. Sélectionnez le modèle de votre choix, prévisualisations-le, puis cliquez sur **OK**.
+1. Sélectionnez le modèle de votre choix, prévisualisation-le, puis cliquez sur **OK**.
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
@@ -34,7 +34,7 @@ Si votre équipe marketing vous a mis des modèles à disposition, voici comment
    >
    >Les jetons ne sont pas pris en charge avec le complément. Supprimez tout élément qui pourrait se trouver dans le modèle.
 
-1. Vérifiez la prévisualisation, assurez-vous qu’elle s’affiche correctement, puis cliquez sur **Envoyer**.
+1. Consultez la prévisualisation, assurez-vous qu’elle a l’air correcte, puis cliquez sur **Envoyer**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
