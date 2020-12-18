@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Dans les statistiques par courrier électronique, il existe différentes manières de filtrer vos données.
 
-## Informations sur les courriels {#email-insights}
+## Insights par courriel {#email-insights}
 
 Cliquez sur + pour ajouter des filtres au début. Ajoutez autant que vous le souhaitez.
 
@@ -63,7 +63,7 @@ Faites votre choix parmi des plages de dates prédéfinies courantes, sélection
 
 ## Marketing basé sur le compte {#account-based-marketing}
 
-Si vous utilisez le marketing [basé sur le](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)compte, il existe des filtres spécifiques pour vous.
+Si vous utilisez [Marketing basé sur le compte](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), il existe des filtres spécifiques pour vous.
 
 ![](assets/abm.png)
 
