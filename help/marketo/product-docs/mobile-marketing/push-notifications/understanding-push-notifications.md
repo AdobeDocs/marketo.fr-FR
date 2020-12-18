@@ -23,17 +23,17 @@ L’engagement Marketo mobile vous permet de créer, configurer et envoyer une n
 >
 >Les notifications Push sont un module complémentaire et doivent être activées par un administrateur du marketing avant de début.
 
-## Étape 1 : Administrateur et développeur : configuration initiale {#step-admin-and-developer-perform-initial-setups}
+## Étape 1 : Administrateur et développeur : effectuer les premières configurations {#step-admin-and-developer-perform-initial-setups}
 
-L’administrateur du marketing et le développeur d’applications mobiles travaillent ensemble pour vous configurer. Voir [Avant de créer des notifications Push et des messages](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) in-app pour plus d’informations.
+L’administrateur du marketing et le développeur d’applications mobiles travaillent ensemble pour vous configurer. Voir [Avant de créer des notifications Push et des messages in-app](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) pour plus d’informations.
 
 ## Étape 2 : Créer une notification Push {#step-create-a-push-notification}
 
-[Créez votre messagerie](create-a-push-notification.md) et votre prévisualisation comme elle s’affiche sur les appareils Android et iOS.
+[Créez vos ](create-a-push-notification.md) messages et vos prévisualisations de la façon dont ils s’affichent sur les appareils Android et iOS.
 
 ## Étape 3 : Envoyez ! {#step-send}
 
-[Les notifications Push peuvent être envoyées](send-a-mobile-push-notification.md) à l’aide de campagnes déclencheuses et dynamiques par lot. Plutôt cool, hein ?
+[Les notifications Push peuvent être ](send-a-mobile-push-notification.md) envoyées à l’aide de campagnes déclencheuses et dynamiques par lot. Plutôt cool, hein ?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
