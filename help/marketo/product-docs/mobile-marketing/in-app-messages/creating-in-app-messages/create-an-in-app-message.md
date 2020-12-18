@@ -10,21 +10,21 @@ ht-degree: 0%
 ---
 
 
-# Création d’un message intégré à l’application {#create-an-in-app-message}
+# Créer un message in-app {#create-an-in-app-message}
 
 Plusieurs étapes permettent de créer un message in-app parfait. Début ici, puis suivez les étapes dans l&#39;ordre, dans ces articles.
 
-Après avoir créé votre message in-app, allez [ici](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) pour voir comment l’envoyer.
+Après avoir créé votre message in-app, allez [ici](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) pour savoir comment l’envoyer.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![Image un](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-1.png)
 
-1. Cliquez avec le bouton droit sur un programme et sélectionnez **Nouveau fichier** local.
+1. Cliquez avec le bouton droit sur un programme et sélectionnez **Nouveau fichier local**.
 
    ![Image 2](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-2.png)
 
-1. Sélectionnez Message **** in-app.
+1. Sélectionnez **Message intégré**.
 
    ![Image trois](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-3.png)
 
