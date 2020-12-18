@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Inviter des membres de l’équipe {#invite-team-members}
+# Inviter des membres de l&#39;équipe {#invite-team-members}
 
 Ajouter les membres de l&#39;équipe est rapide et facile !
 
@@ -19,7 +19,7 @@ Ajouter les membres de l&#39;équipe est rapide et facile !
 
    ![](assets/one.png)
 
-1. Sous Paramètres d’administration, sélectionnez Gestion **** d’équipe.
+1. Sous Paramètres d’administration, sélectionnez **Gestion d’équipe**.
 
    ![](assets/two.png)
 
@@ -27,7 +27,7 @@ Ajouter les membres de l&#39;équipe est rapide et facile !
 
    ![](assets/three.png)
 
-1. Entrez les adresses électroniques des personnes que vous souhaitez ajouter, puis cliquez sur **Suivant**.
+1. Entrez les adresses électroniques des personnes que vous souhaitez ajouter et cliquez sur **Suivant**.
 
    ![](assets/four.png)
 
