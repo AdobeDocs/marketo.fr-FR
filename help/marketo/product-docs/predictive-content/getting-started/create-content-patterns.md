@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Création de modèles de contenu {#create-content-patterns}
+# Créer des modèles de contenu {#create-content-patterns}
 
 >[!NOTE]
 >
->Selon la date d’achat, votre abonnement Marketo peut inclure du contenu prédictif ou du contenu`<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités d’analyse de contenu`<sup>AI</sup>` jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers le contenu`<sup>AI</sup>`Marketo.
+>Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
-Lorsque vous définissez des modèles de contenu, le contenu est automatiquement découvert lorsqu’un visiteur Web clique sur la page Web HTML correspondant au modèle de contenu. Il est utilisé pour ajouter des pages HTML (billets de blog, communiqués de presse, articles d&#39;actualité) en tant que parties de contenu à la page Tout le contenu. Lorsque la détection automatique est basée sur des modèles de contenu, elle détecte et suit les pages HTML liées au modèle d’URL défini lorsqu’un visiteur Web vue ou clique sur un lien vers la page. Cet élément de contenu (URL, nom de page et métadonnées, y compris l’URL de l’image et la description) est ajouté à la page Tout le contenu pour préparer le contenu prédictif. Pour découvrir automatiquement d’autres contenus, tels que des fichiers PDF et des vidéos incorporées, vous devez [activer la découverte](enable-content-discovery.md)de contenu.
+Lorsque vous définissez des modèles de contenu, le contenu est automatiquement découvert lorsqu’un visiteur Web clique sur la page Web HTML correspondant au modèle de contenu. Il est utilisé pour ajouter des pages HTML (billets de blog, communiqués de presse, articles d&#39;actualité) en tant que parties de contenu à la page Tout le contenu. Lorsque la détection automatique est basée sur des modèles de contenu, elle détecte et suit les pages HTML liées au modèle d’URL défini lorsqu’un visiteur Web vue ou clique sur un lien vers la page. Cet élément de contenu (URL, nom de page et métadonnées, y compris l’URL de l’image et la description) est ajouté à la page Tout le contenu pour préparer le contenu prédictif. Pour découvrir automatiquement d’autres contenus, tels que des fichiers PDF et des vidéos incorporées, vous devez [activer la détection de contenu](enable-content-discovery.md).
 
-1. Accédez à Paramètres **** de contenu.
+1. Accédez à **Paramètres de contenu**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Cliquez sur Modèles **d’URL**.
+1. Cliquez sur **Modèles d’URL**.
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -37,7 +37,7 @@ Lorsque vous définissez des modèles de contenu, le contenu est automatiquement
 
    >[!NOTE]
    >
-   >Les éléments de la liste déroulante sur la droite reflètent les catégories que vous avez configurées lors de la [création de catégories](set-up-categories.md).
+   >Les éléments de la liste déroulante sur la droite reflètent les catégories que vous avez configurées lorsque vous avez [créé des catégories](set-up-categories.md).
 
 1. Cliquez sur **+ **pour ajouter un autre chemin.
 
@@ -51,14 +51,14 @@ Lorsque vous définissez des modèles de contenu, le contenu est automatiquement
 
 * Vous pouvez utiliser un caractère générique n’importe où dans une expression (exemple : *domain.com/**, *domain.com/*blog**)
 
-* Nous recommandons d’utiliser /* à la fin d’une expression pour continuer la découverte de modèles (Exemple : *domain.com/blog/** découvre toutes les publications du dossier Blog)
-* Les modèles de contenu ne respectent pas la casse (exemple : *domain.com/Blog/** découvre toutes les pages html sur *domain.com/Blog* et *domain.com/blog*)
+* Nous recommandons d’utiliser /* à la fin d’une expression pour continuer la découverte de modèles (Exemple : *domain.com/blog/** détecte toutes les publications du dossier Blog)
+* Les modèles de contenu ne respectent pas la casse (exemple : *domain.com/Blog/** détecte toutes les pages html sur *domain.com/Blog* et *domain.com/blog*)
 
 * Les paramètres d’URL ne sont pas détectés (ce qui évite de découvrir plusieurs éléments avec la même URL de contenu mais des paramètres différents).
 
 ## Exemples {#examples}
 
-Pour *domain.com*:
+Pour *domain.com* :
 
 <table> 
  <tbody> 
@@ -75,7 +75,7 @@ Pour *domain.com*:
    <td><p>Découvre tout le contenu correspondant au modèle domain.com/article/2017/ :</p><p>domain.com/article/2017/5-top-tricks</p></td> 
   </tr> 
   <tr> 
-   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
+   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="—"></td> 
    <td><p>Découvre toute URL contenant le mot "feuille de données :".</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
   </tr> 
   <tr> 
