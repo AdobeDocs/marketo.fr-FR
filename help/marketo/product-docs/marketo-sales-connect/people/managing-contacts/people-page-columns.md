@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Vous avez la possibilité de personnaliser les coordonnées affichées en choisissant les colonnes qui s&#39;affichent.
 
-## Sélection des colonnes {#how-to-select-columns}
+## Comment sélectionner des colonnes {#how-to-select-columns}
 
 1. Dans la page Personnes, cliquez sur l’icône Paramètres de Liste.
 
    ![](assets/one-5.png)
 
-1. Faites défiler la page et sélectionnez les colonnes de votre choix (vous pouvez également cliquer sur **Sélectionner tout** si vous souhaitez que chaque colonne soit sélectionnée). Cliquez sur hors de la liste lorsque vous avez terminé.
+1. Faites défiler la liste et sélectionnez les colonnes de votre choix (vous pouvez également cliquer sur **Sélectionner tout** si vous voulez chaque colonne). Cliquez sur hors de la liste lorsque vous avez terminé.
 
    ![](assets/two-4.png)
 
@@ -63,7 +63,7 @@ Vous avez la possibilité de personnaliser les coordonnées affichées en choisi
   </tr> 
   <tr> 
    <td>Campaign (par défaut)</td> 
-   <td>Campagne commerciale sur laquelle se trouve actuellement la personne</td> 
+   <td>Campagne de vente sur laquelle se trouve actuellement la personne</td> 
   </tr> 
   <tr> 
    <td>Nbre de campagnes</td> 
