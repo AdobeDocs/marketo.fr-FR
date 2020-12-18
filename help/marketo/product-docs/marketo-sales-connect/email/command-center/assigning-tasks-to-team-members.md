@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Affectation de Tâches aux membres de l’équipe {#assigning-tasks-to-team-members}
+# Affectation de Tâches aux membres de l&#39;équipe {#assigning-tasks-to-team-members}
 
 Si vous souhaitez collaborer avec d’autres membres de l’équipe, l’affectation de tâches peut être un excellent moyen de coordonner vos efforts de prospection.
 
@@ -19,7 +19,7 @@ Si vous souhaitez collaborer avec d’autres membres de l’équipe, l’affecta
 >
 >Vous pouvez uniquement affecter des tâches pour des contacts partagés. Vous souhaitez [partager un groupe de contacts](http://docs.marketo.com/x/fwDb) avec les membres de votre équipe avant de collaborer avec des tâches partagées.
 
-1. Cliquez sur le Centre de **commandes**.
+1. Cliquez sur le **Centre de commandes**.
 
    ![](assets/one-1.png)
 
