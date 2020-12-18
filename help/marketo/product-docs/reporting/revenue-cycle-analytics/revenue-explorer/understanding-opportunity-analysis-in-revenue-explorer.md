@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation de l&#39;Analyse des opportunités dans l&#39;Explorateur de recettes {#understanding-opportunity-analysis-in-revenue-explorer}
+# Présentation de l&#39;Analyse d&#39;opportunité dans l&#39;Explorateur de recettes {#understanding-opportunity-analysis-in-revenue-explorer}
 
 L&#39;Analyse des opportunités dans l&#39;Explorateur de recettes vous permet d&#39;examiner vos opportunités à un niveau plus profond. Tracez et découpez les données en fonction d&#39;attributs de piste/société, tels que la source de piste, l&#39;industrie ou la géographie. Analyser la création et la fermeture d&#39;opportunités en fonction du nom, de l&#39;étape ou de la probabilité. Découvrez les contributions marketing au pipeline.
 
@@ -53,7 +53,7 @@ Voici quelques rapports que vous pouvez créer dans la zone Analyse d&#39;opport
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## Dimensions et mesures concernant l&#39;Analyse des opportunités {#opportunity-analysis-dimensions-and-measures}
+## Dimensions et mesures d&#39;Analyse d&#39;opportunité {#opportunity-analysis-dimensions-and-measures}
 
 L&#39;Analyse des opportunités vous donne accès à toutes les dimensions liées aux pistes, à la société et aux opportunités et aux mesures liées aux opportunités. Utilisez ces dimensions et mesures d&#39;analyse d&#39;opportunité pour répondre à des questions spécifiques dans votre rapport.
 
