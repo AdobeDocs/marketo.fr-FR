@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utilisation de modèles pour créer des campagnes Web {#using-templates-to-create-web-campaigns}
 
-Accélérez et simplifiez votre processus de création de campagnes Web en utilisant nos modèles intégrés ou en [enregistrant les vôtres](save-your-campaign-as-a-template.md).
+Accélérez et simplifiez votre processus de création de campagnes Web en utilisant nos modèles intégrés ou en [enregistrant vos propres ](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ Accélérez et simplifiez votre processus de création de campagnes Web en utili
 
    >[!TIP]
    >
-   >Pour les campagnes mobiles, sélectionnez un modèle dans la section **mobile** .
+   >Pour les campagnes mobiles, sélectionnez un modèle dans la section **mobile**.
 
 1. Personnalisez le modèle.
 
