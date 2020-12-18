@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Script de conversion pour Événements personnalisés {#conversion-script-for-custom-events}
+# Script de conversion pour les Événements personnalisés {#conversion-script-for-custom-events}
 
 Vous définissez l’objectif d’exécution lors de la création d’une offre de référence. Si l’action qui compte pour l’objectif est un événement spécifique sur votre propre page Web, vous pouvez utiliser un script de conversion pour appeler notre API JavaScript.
 
-## Récupération du script de conversion {#retrieve-the-conversion-script}
+## Récupérer le script de conversion {#retrieve-the-conversion-script}
 
-1. Dans l’éditeur d’offres de référence, cliquez sur Détails **de l’** Offre, puis sélectionnez Événement **JavaScript** client dans la liste déroulante des objectifs d’exécution.
+1. Dans l’éditeur d’offres de référence, cliquez sur **Détails de l’Offre**, puis sélectionnez **Événement JavaScript client** dans la liste déroulante des objectifs d’exécution.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Copiez le script supérieur dans la zone grise et placez-le sur votre page Web dans les `<body>` balises. Le script inférieur est placé entre les `<header>` balises.
+1. Copiez le script supérieur dans la zone grise et placez-le sur votre page Web dans les balises `<body>`. Le script inférieur est placé dans les balises `<header>`.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -32,17 +32,17 @@ Vous définissez l’objectif d’exécution lors de la création d’une offre 
    >
    >N’oubliez pas de copier et coller les deux scripts s’ils se trouvent sur un site Web autre que celui du marketing.
 
-## Récupération du script de chargeur {#retrieve-the-loader-script}
+## Récupérer le script de chargement {#retrieve-the-loader-script}
 
-1. Sélectionnez l’offre de référence dans l’arborescence, puis cliquez sur Actions **d’Offre de** référence et Code **** incorporé.
+1. Sélectionnez l’offre de référence dans l’arborescence, puis cliquez sur **Actions d’Offre de référence** et **Code incorporé**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Cliquez avec le bouton droit de la souris sur le code **d’** en-tête et insérez-le dans l’en-tête de votre page Web. Faites ensuite la même chose pour le code **** Corps.
+1. Cliquez avec le bouton droit de la souris sur le **Code d’en-tête** et insérez-le dans l’en-tête de votre page Web. Faites ensuite la même chose pour le **code du corps**.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
-## Collage des scripts sur votre page Web {#pasting-the-scripts-onto-your-webpage}
+## Coller les scripts sur votre page Web {#pasting-the-scripts-onto-your-webpage}
 
 Collez les scripts de conversion dans le code HTML pour le corps et l’en-tête. Ensuite, placez les scripts de chargeur dans le code HTML pour le corps et l’en-tête.
 
