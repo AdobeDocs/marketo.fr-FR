@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Émettre une licence d&#39;Ajoute électronique de marketing à envoyer {#issue-a-marketo-email-add-in-license}
+# Émettre une licence d&#39;Ajoute électronique de marketing à {#issue-a-marketo-email-add-in-license}
 
 Quiconque souhaite utiliser l&#39;Ajoute d&#39;Outlook de courriel de marketing doit d&#39;abord se voir attribuer une licence. Il existe deux façons de fournir la licence.
 
@@ -32,7 +32,7 @@ Quiconque souhaite utiliser l&#39;Ajoute d&#39;Outlook de courriel de marketing 
 
 ![](assets/image2015-7-20-17-3a48-3a17.png)
 
-1. Sous l&#39;onglet **Ajoute électronique **, cliquez sur **Émettre une licence**.
+1. Sous l&#39;onglet **Ajoute électronique **, cliquez sur **Licence de publication**.
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 
@@ -46,7 +46,7 @@ Quiconque souhaite utiliser l&#39;Ajoute d&#39;Outlook de courriel de marketing 
 
    >[!NOTE]
    >
-   >Pour installer le module externe à distance, ne cochez pas la case et envoyez à votre équipe informatique votre clé [](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key)Enterprise.
+   >Pour installer le module externe à distance, ne cochez pas la case et envoyez à votre équipe informatique votre [clé d&#39;entreprise](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
    >
    >Si vos commerciaux ont un accès administrateur à leur ordinateur, cochez la case et vous avez terminé !
 
