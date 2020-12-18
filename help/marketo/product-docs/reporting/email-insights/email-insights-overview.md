@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation des informations sur les courriels {#email-insights-overview}
+# Présentation des statistiques par courriel {#email-insights-overview}
 
 Email Insights fournit de puissantes informations à partir des données historiques pour les spécialistes du marketing par courriel. Il se compose de deux sections distinctes mais associées : Analytics et Envois.
 
@@ -23,25 +23,25 @@ Pour accéder aux statistiques par courrier électronique, il vous suffit de cli
 
 ## Analytics {#analytics}
 
-Utilisez [Analytics](email-insights-analytics-overview.md) pour explorer les données de séries chronologiques agrégats pour les mesures de diffusion de courriel et d’engagement.
+Utilisez [Analytics](email-insights-analytics-overview.md) pour explorer les données agrégats de séries chronologiques pour les mesures de diffusion de courriel et d’engagement.
 
 ![](assets/emailanalytics.jpg)
 
 **Filtres **
 
-Utilisé [des filtres](filtering-in-email-insights.md) avancés pour ventiler les résultats par Audience, contenu ou plateforme. Les mêmes filtres s’appliquent à la fois à Analytics et aux Envois.
+Utilisé des [filtres](filtering-in-email-insights.md) avancés pour ventiler les résultats par Audience, contenu ou plateforme. Les mêmes filtres s’appliquent à la fois à Analytics et aux Envois.
 
 ![](assets/filter.png)
 
 **Graphiques rapides**
 
-[Les graphiques](email-insights-quick-charts.md) rapides sont des miniatures que vous créez et enregistrez, ce qui vous permet d’obtenir rapidement une vue des graphiques importants pour vous.
+[Les ](email-insights-quick-charts.md) graphiques rapides sont des miniatures que vous créez et enregistrez, ce qui vous permet d&#39;obtenir rapidement une vue des graphiques importants pour vous.
 
 ![](assets/three.png)
 
-## Envois {#sends}
+## Envoie {#sends}
 
-Dans la page [Envois](email-insights-sends-overview.md) , examinez les caractéristiques des récentes communications par courriel.
+Dans la page [Envoie](email-insights-sends-overview.md), examinez les caractéristiques des communications récentes par courriel.
 
 ![](assets/two.png)
 
@@ -57,7 +57,7 @@ Cliquez sur Mesures pour convertir les couleurs en nombres.
 
 ## Dimensions personnalisées {#custom-dimensions}
 
-Toutes les dimensions standard du marketing sont incluses, mais vous avez la possibilité d’ajouter jusqu’à 10 dimensions personnalisées. [Les dimensions](custom-dimensions-for-email-insights.md) personnalisées se composent de segments et de balises de programme.
+Toutes les dimensions standard du marketing sont incluses, mais vous avez la possibilité d’ajouter jusqu’à 10 dimensions personnalisées. [Les ](custom-dimensions-for-email-insights.md) dimensions personnalisées se composent de segments et de balises de programme.
 
 >[!MORELIKETHIS]
 >
