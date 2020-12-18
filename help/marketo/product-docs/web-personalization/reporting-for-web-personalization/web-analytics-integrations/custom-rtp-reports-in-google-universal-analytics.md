@@ -34,7 +34,7 @@ Cette publication explique comment configurer des rapports personnalisés RTP po
 
 ## Rapport RTP B2B {#rtp-b-b-report}
 
-1. Nommez le rapport **** RTP B2B.
+1. Nommez le rapport **RTP B2B Report**.
 1. Nommer le 1er onglet **Industrie **
 
    1. (Remarque : vous allez **Duplicata cet onglet** et en créer d&#39;autres similaires - étape 5)
@@ -44,7 +44,7 @@ Cette publication explique comment configurer des rapports personnalisés RTP po
 
    **
 
-1. Dans la section Groupes **de** mesures, sélectionnez les mesures pertinentes pour votre activité.
+1. Dans la section **Groupes de mesures**, sélectionnez les mesures pertinentes pour votre activité.
 
    1. Nous vous recommandons ce qui suit :\
       ** ![](assets/image2015-3-22-16-3a16-3a40.png)
@@ -61,7 +61,7 @@ Cette publication explique comment configurer des rapports personnalisés RTP po
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Dans la section **Zoom avant sur les** Dimensions, définissez les dimensions appropriées pour chaque onglet comme ci-dessous.
+1. Dans la section **Zoom sur la Dimension**, définissez les dimensions appropriées pour chaque onglet comme ci-dessous.
 
 <table> 
  <thead> 
@@ -104,14 +104,14 @@ Cette publication explique comment configurer des rapports personnalisés RTP po
 1. Cliquez sur **Enregistrer**.\
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
-## Rapport Engagement RTP {#rtp-engagement-report}
+## Rapport d’engagement RTP {#rtp-engagement-report}
 
-1. Nommez le rapport Engagement **RTP.**
-1. Définir le premier nom d’onglet sur **Tous les engagements**
+1. Nommez le rapport **Rapport Engagement RTP.**
+1. Définissez le premier nom d’onglet sur **Tous les engagements**.
 
    1. (Remarque : vous allez Duplicata cet onglet et en créer d&#39;autres similaires - étape 5)
 
-1. Sélectionnez le type de rapport **Explorer** .\
+1. Sélectionnez le type de rapport **Explorateur**.\
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
 1. Dans la section Groupes de mesures, sélectionnez les mesures pertinentes pour votre activité. Voici une recommandation :\
@@ -127,7 +127,7 @@ Cette publication explique comment configurer des rapports personnalisés RTP po
 
    ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
 
-1. Dans la section **Zoom avant sur les** Dimensions, définissez les dimensions appropriées pour chaque onglet comme suit :
+1. Dans la section **Analyses de Dimension**, définissez les dimensions appropriées pour chaque onglet comme suit :
 
 <table> 
  <thead> 
