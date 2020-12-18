@@ -14,7 +14,7 @@ ht-degree: 0%
 # Créer un modèle {#create-a-new-template}
 
 1. Accédez à l&#39;onglet **Modèles **et cliquez sur **Créer un modèle**.
-1. Choisissez une **Catégorie** et un **nom***** ***pour votre modèle de courrier électronique, puis cliquez sur** Créer ***.*
+1. Choisissez une **Catégorie** et **Nom***** ***pour votre modèle de courrier électronique, puis cliquez sur** Créer ***.*
 1. Dans l’éditeur de modèles, créez une ligne d’objet pour votre courrier électronique et tapez le message de votre choix. Utilisez les outils de modification (police, taille du texte, etc.) pour personnaliser l’aspect.
 1. Cliquez sur **Enregistrer** pour finaliser vos modifications.
 
