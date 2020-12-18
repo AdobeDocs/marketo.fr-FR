@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Vous devrez peut-être enregistrer un rapport par défaut à nouveau en vue ultérieurement. Voici comment vous pouvez faire cela :
 
-1. Accédez à la zone **Analytics** .
+1. Accédez à la zone **Analytics**.
 1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Sélectionnez un type [de](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)rapport.
+1. Sélectionnez un [type de rapport](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
@@ -26,11 +26,11 @@ Vous devrez peut-être enregistrer un rapport par défaut à nouveau en vue ult�
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Enregistrer dans** un emplacement et sélectionnez un **dossier**.
+1. **Enregistrez l’emplacement** d’ensemble et sélectionnez un  **dossier**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Nommez** le rapport et cliquez sur **Enregistrer**.
+1. **Nommez** le rapport et cliquez sur  **Enregistrer**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
@@ -40,5 +40,5 @@ Vous devrez peut-être enregistrer un rapport par défaut à nouveau en vue ult�
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [cloner un rapport pour regrouper des rapports](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>Découvrez comment [cloner un rapport pour regrouper les rapports](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
 
