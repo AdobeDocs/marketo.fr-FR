@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Trier les campagnes Web par dernière ou meilleure performance {#sort-web-campaigns-by-latest-or-top-performing}
+# Trier les campagnes Web par dernière ou meilleure exécution {#sort-web-campaigns-by-latest-or-top-performing}
 
 Vous pouvez trier vos campagnes Web de différentes manières.
 
-1. Accédez à Campagnes **Web.**
+1. Accédez à **Campagnes Web.**
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -26,10 +26,10 @@ Vous pouvez trier vos campagnes Web de différentes manières.
    >**Définition**
    >
    >
-   >**Dernier** : le tri est basé sur la date de création de la campagne. Dernière campagne au sommet.
+   >**Dernier**  : le tri est basé sur la date de création de la campagne. Dernière campagne au sommet.
    >
    >
-   >**Meilleures** **performances** : triera les campagnes en fonction du taux de clics publicitaires. Le clic publicitaire le plus élevé se trouve en haut.
+   >**** **TopPerforming**  : trie les campagnes en fonction du taux de clics publicitaires. Le clic publicitaire le plus élevé se trouve en haut.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 
