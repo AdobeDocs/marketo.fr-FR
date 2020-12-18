@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ajouter du texte lié à un hyperlien {#add-hyperlinked-text}
+# Ajouter le texte hypertexte {#add-hyperlinked-text}
 
 1. Saisissez le texte que vous souhaitez lier en hyperlien (c.-à-d. cliquez ici).
 1. Sélectionnez le texte.
