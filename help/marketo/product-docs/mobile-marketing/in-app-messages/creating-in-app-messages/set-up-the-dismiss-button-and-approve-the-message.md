@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configuration du bouton Ignorer et approbation du message {#set-up-the-dismiss-button-and-approve-the-message}
 
-## Configuration des propriétés du bouton Ignorer  {#configure-dismiss-button-properties}
+## Configurer les propriétés du bouton Ignorer {#configure-dismiss-button-properties}
 
 Le bouton Ignorer comporte de nombreuses options pour vous permettre de le configurer comme vous le souhaitez.
 
@@ -49,7 +49,7 @@ Le bouton Ignorer comporte de nombreuses options pour vous permettre de le confi
 
 Toutes vos sélections pour les graphiques, le texte et les boutons ont été enregistrées automatiquement. Maintenant, vous êtes prêt à terminer le travail.
 
-1. Pour prévisualisation de votre message in-app, cliquez sur la liste déroulante Actions **de** message et sélectionnez **Prévisualisation**.
+1. Pour prévisualisation de votre message in-app, cliquez sur la liste déroulante **Actions de message** et sélectionnez **Prévisualisation**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -71,7 +71,7 @@ Toutes vos sélections pour les graphiques, le texte et les boutons ont été en
 
 Il y a tant de choix, mais maintenant vous avez un message in-app magnifique, prêt à partir !
 
-Il est maintenant temps d&#39; [envoyer votre message](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Il est maintenant temps d&#39;[envoyer votre message](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
 >[!MORELIKETHIS]
 >
