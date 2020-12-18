@@ -31,7 +31,7 @@ La sélection de l’arrière-plan d’un message constitue une étape important
    >
    >Le blanc ordinaire, la valeur par défaut, est généralement gagnant.
 
-1. Si vous souhaitez utiliser un arrière-plan, cliquez sur **Image** , puis sur le lien **Sélectionner une image** .
+1. Si vous souhaitez utiliser un arrière-plan, cliquez sur **Image**, puis sur le lien **Sélectionner une image**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
@@ -65,7 +65,7 @@ La sélection de l’arrière-plan d’un message constitue une étape important
 
    >[!NOTE]
    >
-   >Pour les actions d’appui pour les arrière-plans, vous pouvez configurer différentes actions pour les plateformes Apple et Android. Par exemple, les liens profonds sont gérés différemment pour Apple et Android. Si votre message ne s’adresse qu’à une seule plateforme ou à l’autre, laissez l’autre plate-forme dans le paramètre par défaut ou sélectionnez **Aucun**.
+   >Pour les actions d’appui pour les arrière-plans, vous pouvez configurer différentes actions pour les plateformes Apple et Android. Par exemple, les liens profonds sont gérés différemment pour Apple et Android. Si votre message ne s’adresse qu’à une seule plateforme ou à l’autre, laissez l’autre plateforme dans le paramètre par défaut ou sélectionnez **Aucun**.
 
    [configuration du bouton Ignorer](set-up-the-dismiss-button-and-approve-the-message.md)
 
