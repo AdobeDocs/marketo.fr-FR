@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Publier un courriel dans Sales Insight {#publish-an-email-to-sales-insight}
+# Publier un courriel à Sales Insight {#publish-an-email-to-sales-insight}
 
 Activez le paramètre Publier sur les statistiques des ventes pour mettre un courriel à la disposition de votre équipe commerciale à la fois dans les statistiques des ventes et dans l&#39;Ajoute Outlook et Gmail. Vous pouvez également lui indiquer une date d’expiration.
 
@@ -19,15 +19,15 @@ Activez le paramètre Publier sur les statistiques des ventes pour mettre un cou
 
    ![](assets/one.png)
 
-1. Une fois l’éditeur ouvert, cliquez sur Paramètres **du** courrier électronique.
+1. Une fois l’éditeur ouvert, cliquez sur **Paramètres d’e-mail**.
 
    ![](assets/two.png)
 
-1. Cochez la case **Publier sur les statistiques** de ventes marketing.
+1. Cochez **Publier sur Marketing Sales Insight**.
 
    ![](assets/three.png)
 
-1. Pour définir une date d’expiration (facultative), cochez la case **Définir l’expiration** et choisissez une date.
+1. Pour définir une date d’expiration (facultatif), cochez **Définir l’expiration** et choisissez une date.
 
    ![](assets/four.png)
 
@@ -43,7 +43,7 @@ Beau boulot ! Vous savez maintenant comment rendre les courriers électroniques 
 
 >[!NOTE]
 >
->[Mes jetons](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) ne seront pas résolus lors de l&#39;envoi d&#39;un courrier électronique à partir de Sales Insight sur Microsoft Dynamics ou Salesforce ; seuls les jetons standard sont renseignés (piste, Société, etc.). Les valeurs par défaut des jetons fonctionneront toutefois.
+>[Mon ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) jeton ne sera pas résolu lors de l&#39;envoi d&#39;un courrier électronique à partir de Sales Insight sur Microsoft Dynamics ou Salesforce ; seuls les jetons standard sont renseignés (piste, Société, etc.). Les valeurs par défaut des jetons fonctionneront toutefois.
 
 >[!TIP]
 >
