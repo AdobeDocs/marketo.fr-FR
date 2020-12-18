@@ -17,7 +17,7 @@ Lorsqu’un visiteur Web est connu (avec cookie), les formulaires marketing pré
 
 >[!NOTE]
 >
->**Le préremplissage** du formulaire est activé par défaut. Les paramètres de préremplissage au niveau du landing page et les paramètres de préremplissage au niveau de l’administrateur l’emportent sur le paramètre au niveau du formulaire :
+>**Le préremplissage du formulaire est activé par défaut** . Les paramètres de préremplissage au niveau du landing page et les paramètres de préremplissage au niveau de l’administrateur l’emportent sur le paramètre au niveau du formulaire :
 >
 >Formulaire &lt; Landing page &lt; Admin
 
@@ -25,7 +25,7 @@ Lorsqu’un visiteur Web est connu (avec cookie), les formulaires marketing pré
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ Lorsqu’un visiteur Web est connu (avec cookie), les formulaires marketing pré
    >
    >Le préremplissage de formulaire ne fonctionne pas lors de l’incorporation d’un formulaire sur vos propres pages. Il ne fonctionne que sur les landings page du marché.
 
-1. Sélectionnez l’un des champs et définissez **Form** **Pre**-**fill** sur **Désactivé.**
+1. Sélectionnez l’un des champs et définissez **Form** **Pre**-**fill** sur **Désactivé**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -55,5 +55,5 @@ Beau boulot !
 >
 >**Plongée profonde**
 >
->Vous souhaitez en savoir plus sur [les formulaires](http://docs.marketo.com/display/docs/forms)?
+>Vous souhaitez en savoir plus sur [forms](http://docs.marketo.com/display/docs/forms) ?
 
