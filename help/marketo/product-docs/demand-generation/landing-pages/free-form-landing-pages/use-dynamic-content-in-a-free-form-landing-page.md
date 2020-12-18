@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation de contenu dynamique dans un Landing page à structure libre {#use-dynamic-content-in-a-free-form-landing-page}
+# Utiliser le contenu dynamique dans un Landing page de forme libre {#use-dynamic-content-in-a-free-form-landing-page}
 
 L’utilisation du contenu dynamique dans les Landings page engage votre audience avec des informations ciblées.
 
@@ -27,7 +27,7 @@ L’utilisation du contenu dynamique dans les Landings page engage votre audienc
 
 ## Segmentation des Ajoutes {#add-segmentation}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -53,11 +53,11 @@ L’utilisation du contenu dynamique dans les Landings page engage votre audienc
 
 ## Rendre l’élément dynamique {#make-element-dynamic}
 
-1. Faites glisser les éléments de contenu dynamique de sous **Static** vers **Dynamic.**
+1. Faites glisser les éléments de contenu dynamique de **Static** vers **Dynamic.**
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. Vous pouvez également créer des éléments **statiques** ou **dynamiques** à partir des **paramètres de l’élément.**
+1. Vous pouvez également créer des éléments **Static** ou **Dynamic** à partir de l&#39;élément **Settings.**
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
