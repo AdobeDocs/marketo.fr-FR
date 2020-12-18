@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Créer un rapport d&#39;Analyse d&#39;adhésion Programme qui Liste les pistes {#build-a-program-membership-analysis-report-that-lists-leads}
+# Créez un rapport d&#39;Analyse d&#39;adhésion Programme qui Liste {#build-a-program-membership-analysis-report-that-lists-leads}
 
 Suivez ces étapes pour créer un rapport d&#39;Analyse d&#39;adhésion Programme qui vous montrera tous les noms de membres de programme.
 
@@ -33,7 +33,7 @@ Suivez ces étapes pour créer un rapport d&#39;Analyse d&#39;adhésion Programm
 
    ![](assets/three.png)
 
-1. Recherchez et cliquez sur le point jaune Nom du Programme avec le doublon de la souris.
+1. Recherchez et cliquez sur le point jaune Nom du Programme avec le doublon.
 
    ![](assets/four.png)
 
@@ -49,7 +49,7 @@ Vous voyez comme c&#39;était facile ?
 
 ![](assets/seven.png)
 
-Vous pouvez rapidement ajouter un attribut de piste tel que Nom **** complet pour identifier les membres.
+Vous pouvez rapidement ajouter un attribut de piste tel que **Nom complet** pour identifier les membres.
 
 >[!TIP]
 >
