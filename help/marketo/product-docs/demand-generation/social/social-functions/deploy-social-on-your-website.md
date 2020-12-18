@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Déploiement de Social sur votre site Web {#deploy-social-on-your-website}
+# Déployer Social sur votre site Web {#deploy-social-on-your-website}
 
 Incorporez des applications sociales sur vos pages non marketing.
 
@@ -27,11 +27,11 @@ Vous pouvez déployer des applications sociales sur votre propre site Web afin d
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Sélectionnez **Intégrer** **le code**** **dans Actions de l’application sociale.
+1. Sélectionnez **Incorporer** **Code****** dans Actions de l’application Social.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Copiez le code de l’en-tête de page (`<head>`) et du corps (`<body>`) de votre site.
+1. Copiez le code de l’en-tête de page de votre site (`<head>`) et du corps (`<body>`).
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -43,7 +43,7 @@ Vous pouvez déployer des applications sociales sur votre propre site Web afin d
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Si vous devez définir la taille de l’application sociale sur des dimensions spécifiques sur votre page, ajoutez les options **outerHeight** et **outerWidth** au deuxième fragment de code. Par exemple, vous pouvez ajouter options=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;, comme dans :
+1. Si vous devez définir la taille de l’application sociale sur des dimensions spécifiques de votre page, ajoutez les options **outerHeight** et **outerWidth** au deuxième fragment de code. Par exemple, vous pouvez ajouter options=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;, comme dans :
 
    ![](assets/socialonsite-resizewidget2.png)
 
