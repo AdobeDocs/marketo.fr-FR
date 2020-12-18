@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Prévisualisation d’une notification Push {#preview-a-push-notification}
+# Prévisualisation d&#39;une notification Push {#preview-a-push-notification}
 
 Il est facile de prévisualisation à quoi ressemblera votre notification Push, que ce soit pour Android ou iOS. Il y a quatre façons de le faire.
 
-Dans l’arborescence de navigation, cliquez avec le bouton droit de la souris sur le fichier correspondant à la notification à prévisualisation, puis cliquez sur **Prévisualisation**.
+Dans l’arborescence de navigation, cliquez avec le bouton droit de la souris sur le fichier correspondant à la notification à prévisualisation et cliquez sur **Prévisualisation**.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Dans l’arborescence de navigation, cliquez avec le bouton droit de la souris s
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Ou, sur la page vue de notifications Push, cliquez sur Actions **de notifications** Push, puis sur **Prévisualisation**. Ou cliquez sur **Prévisualisation **à l’extrême droite.** **
+Ou, sur la page vue de notifications Push, cliquez sur **Actions de notifications Push**, puis sur **Prévisualisation**. Ou cliquez sur **Prévisualisation **à l’extrême droite.** **
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Enfin, dans l’éditeur, vous pouvez cliquer sur l’onglet Version préliminaire **de la** Prévisualisation dans l’angle supérieur droit pendant que vous travaillez sur la notification.
+Enfin, dans l’éditeur, vous pouvez cliquer sur l’onglet **Version préliminaire de la Prévisualisation** dans l’angle supérieur droit pendant que vous travaillez sur la notification.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
