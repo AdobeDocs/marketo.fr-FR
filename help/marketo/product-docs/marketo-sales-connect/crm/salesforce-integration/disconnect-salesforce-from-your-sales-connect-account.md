@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Déconnecter Salesforce de votre compte Sales Connect {#disconnect-salesforce-from-your-sales-connect-account}
+# Déconnecter Salesforce de votre compte de connexion commerciale {#disconnect-salesforce-from-your-sales-connect-account}
 
 Il peut arriver que vous deviez déconnecter votre compte Salesforce de votre compte Sales Connect. Voici comment.
 
