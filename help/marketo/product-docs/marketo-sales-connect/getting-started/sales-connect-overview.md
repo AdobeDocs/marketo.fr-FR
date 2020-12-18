@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation de la connexion commerciale {#sales-connect-overview}
+# Aperçu de la connexion commerciale {#sales-connect-overview}
 
 Marketing Sales Connect est une solution d&#39;assistance commerciale à multiples facettes dotée de diverses fonctions, qui vous aide à stimuler l&#39;engagement tout au long du cycle de vente.
 
@@ -23,17 +23,17 @@ Marketing Sales Connect est une solution d&#39;assistance commerciale à multipl
 
 ## Flux en direct {#the-live-feed}
 
-Les commerciaux peuvent vue l&#39;engagement [en temps](http://docs.marketo.com/x/d4TS) réel du contenu marketing et commercial.
+Les représentants commerciaux peuvent [vue &lt;a0/>d&#39;engagement en temps réel](http://docs.marketo.com/x/d4TS) du contenu marketing et commercial.
 
 ![](assets/engagement.jpg)
 
-## Vue des détails sur la personne {#person-detail-view}
+## Vue de détails de la personne {#person-detail-view}
 
-Accédez aux statistiques [des personnes](http://docs.marketo.com/x/e4TS)détaillées.
+Accédez aux [statistiques détaillées des personnes](http://docs.marketo.com/x/e4TS).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## Voir les résultats dans votre journal des Activités marketing {#see-results-in-your-marketo-activity-log}
+## Voir les résultats dans votre journal des Activités de marketing {#see-results-in-your-marketo-activity-log}
 
 Découvrez comment vos prospects s&#39;engagent dans vos efforts de vente.
 
@@ -63,7 +63,7 @@ Découvrez comment vos prospects s&#39;engagent dans vos efforts de vente.
   </tr> 
   <tr> 
    <td colspan="1"><p>Recevoir un appel de vente</p></td> 
-   <td colspan="1"><p>L'prospect a reçu un appel d'un vendeur utilisant le téléphone <a href="http://docs.marketo.com/x/NgDb" rel="nofollow"></a>commercial.</p></td> 
+   <td colspan="1"><p>Le prospect a reçu un appel d'un vendeur utilisant le <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">téléphone commercial</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Ajouter au Campaign de vente</p></td> 
@@ -80,9 +80,9 @@ Découvrez comment vos prospects s&#39;engagent dans vos efforts de vente.
  </tbody> 
 </table>
 
-## Partage de campagnes marketing {#share-marketing-campaigns}
+## Partager les campagnes marketing {#share-marketing-campaigns}
 
-Créez une campagne intelligente simple pour donner à vos utilisateurs commerciaux l’accès aux données [de la campagne](http://docs.marketo.com/x/NwDh)Marketo.
+Créez une campagne intelligente simple pour donner à vos utilisateurs commerciaux l&#39;accès aux [données de campagne marketing](http://docs.marketo.com/x/NwDh).
 
 ![](assets/campaign-is-requested.jpg)
 
