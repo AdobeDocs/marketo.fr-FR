@@ -15,5 +15,5 @@ ht-degree: 0%
 
 Avec la fonction [Campagnes](http://docs.marketo.com/display/TEST/Campaigns) de Sales Connect, la création d&#39;un courriel de suivi est simple.
 
-Dans l’onglet **Configurer** de votre campagne, cochez la case pour créer un message électronique comme suivi, ce qui convertira automatiquement votre message précédent en message électronique suivant dans la campagne.
+Dans l&#39;onglet **Configurer** de votre campagne, cochez la case pour créer un courrier électronique comme suivi, ce qui transfère automatiquement votre message précédent dans le message suivant de la campagne.
 
