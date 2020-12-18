@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez consigner les réponses de vos pistes directement dans Outlook à l&#39;aide de l&#39;Ajoute de courriel de Marketo.
 
-## Depuis l&#39;application Outlook principale {#from-the-main-outlook-application}
+## A partir de l&#39;application Outlook principale {#from-the-main-outlook-application}
 
 1. Sélectionnez le courrier électronique à enregistrer, puis cliquez sur Log with Marketo (Enregistrer avec Marketo).
 
@@ -23,7 +23,7 @@ Vous pouvez consigner les réponses de vos pistes directement dans Outlook à l&
 
 >[!TIP]
 >
->Vous pouvez également cliquer avec le bouton droit de la souris sur un message et cliquer sur **Log With Marketo**(Enregistrer avec le marketing).
+>Vous pouvez également cliquer avec le bouton droit sur un message et cliquer sur **Log With Marketo**.
 
 Vous devriez voir une confirmation.
 
