@@ -19,8 +19,8 @@ Lisez le scénario suivant et essayez de déterminer les nombres qui doivent fig
 * 15 avril | John assiste (webinaire) - Réussite
 * 22 avril | (Opportunité 1) créée pour 3 000 $
 * 24 avril | (Opportunité 2) créée pour 5 000 $
-* 25 avril | John et Michelle sont associés aux **deux** Optys
-* 29 avril | [Opty 1] est terminé
+* 25 avril | John et Michelle sont associés à **Optys**
+* 29 avril | [L&#39;option 1] est terminée
 
 | Nom du programme | (Contenu) | (Webinaire) |
 |---|---|---|
