@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Recherche d’images et de fichiers téléchargés {#search-uploaded-images-and-files}
+# Rechercher les images et les fichiers téléchargés {#search-uploaded-images-and-files}
 
 Dans Marketo, la recherche d&#39;images et de fichiers est un jeu d&#39;enfant.
 
-1. Accédez au **Design Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Cliquez sur **Images et fichiers** pour afficher la liste complète de tous les fichiers téléchargés.
+1. Cliquez sur **Images et fichiers** pour afficher une liste complète de tous les fichiers téléchargés.
 
    ![](assets/image2014-9-16-11-3a44-3a4.png)
 
-1. Dans la zone Recherche **** rapide située au bas de l’écran, saisissez le nom du fichier que vous recherchez, puis cliquez sur **Entrée**.
+1. Dans la zone **Recherche rapide** située au bas de l’écran, tapez le nom du fichier que vous recherchez et cliquez sur **Entrée**.
 
    ![](assets/image2014-9-16-11-3a46-3a32.png)
 
 >[!TIP]
 >
->Pour début d’une nouvelle recherche, cliquez sur le **x** dans la zone **Recherche** rapide **** .
+>Pour début d’une nouvelle recherche, cliquez sur **x** dans la zone **Quick** **Rechercher**.
 
 Levez les pieds - vous en avez fini !
 
