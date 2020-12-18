@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation de la zone d&#39;Analyse d&#39;adhésion des Programmes {#understanding-the-program-membership-analysis-area}
+# Présentation de la zone d&#39;Analyse des membres du Programme {#understanding-the-program-membership-analysis-area}
 
 La zone d&#39;Analyse d&#39;adhésion au Programme vous permet d&#39;analyser l&#39;efficacité de chaque programme ou de voir les résultats résumés par canal pendant une période donnée.
 
@@ -29,13 +29,13 @@ Combien de nouveaux noms chaque programme/canal a-t-il générés par mois ?
 
 ![](assets/three-2.png)
 
-## Dimensions et mesures concernant l&#39;Analyse d&#39;adhésion au programme {#program-membership-analysis-dimensions-and-measures}
+## Dimensions et mesures concernant l&#39;Analyse des membres du programme {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
 >Les points jaunes sont des dimensions et les points bleus sont des mesures.
 
-### abonnement {#membership}
+### Membres {#membership}
 
 | Mesure | Description |
 |---|---|
