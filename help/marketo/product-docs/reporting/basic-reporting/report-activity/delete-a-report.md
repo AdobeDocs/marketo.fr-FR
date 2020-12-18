@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’un rapport {#delete-a-report}
+# Supprimer un rapport {#delete-a-report}
 
 Une fois que vous avez début à [créer des rapports](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), vous pouvez rapidement en obtenir un grand nombre. N&#39;oubliez pas de supprimer les rapports dont vous n&#39;avez plus besoin.
 
@@ -30,5 +30,5 @@ Une fois que vous avez début à [créer des rapports](../../../../product-docs/
    >**Plongée profonde**
    >
    >
-   >Découvrez toutes les autres choses que vous pouvez faire avec les rapports dans la plongée [Basic Rapports](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   >Découvrez toutes les autres activités que vous pouvez effectuer avec les rapports dans la plongée profonde [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
