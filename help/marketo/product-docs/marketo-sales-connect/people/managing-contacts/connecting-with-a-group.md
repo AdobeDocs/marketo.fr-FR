@@ -21,7 +21,7 @@ Découvrez comment envoyer un courriel à un groupe entier ou ajouter un groupe 
 
    ![](assets/one-6.png)
 
-1. Cliquez sur le bouton Actions **du** groupe et sélectionnez Groupe **de** courriels.
+1. Cliquez sur le bouton **Actions de groupe** et sélectionnez **Groupe de courriel**.
 
    ![](assets/two-5.png)
 
@@ -37,7 +37,7 @@ Découvrez comment envoyer un courriel à un groupe entier ou ajouter un groupe 
 
    ![](assets/one-6.png)
 
-1. Cliquez sur le bouton Actions **du** groupe et sélectionnez **Ajouter le groupe à Campaign**.
+1. Cliquez sur le bouton **Actions de groupe** et sélectionnez **Ajouter le groupe à Campaign**.
 
    ![](assets/four-4.png)
 
