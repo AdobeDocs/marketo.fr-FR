@@ -23,13 +23,13 @@ Les courriels de vente placent automatiquement le pied de page de désabonnement
 >
 >**Définition**
 >
->**Les courriels** commerciaux sont ceux envoyés par Sales Insight. (Il n&#39;inclut pas les messages envoyés par le module externe Marketo Outlook.)
+>**Les** courriels de vente sont ceux envoyés par Sales Insight. (Il n&#39;inclut pas les messages envoyés par le module externe Marketo Outlook.)
 
-1. Accédez à la zone **Admin** .
+1. Accédez à la zone **Admin**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur **Sales Insight, **puis **Modifier les paramètres**.
+1. Cliquez sur **Sales Insight, **then **Modifier les paramètres**.
 
    ![](assets/two-1.png)
 
@@ -38,8 +38,8 @@ Les courriels de vente placent automatiquement le pied de page de désabonnement
    ![](assets/three-1.png)
 
    * **Aucun modèle **- Composé manuellement par l&#39;utilisateur commercial.
-   * **Courrier électronique** standard - Courriers électroniques basés sur un modèle.
-   * **Courriel** opérationnel - Courriels qui ignorent les limites de désabonnement, de mise en marché suspendue et de communication (ils envoient quoi que ce soit).
+   * **Courrier électronique**  standard - Courriers électroniques basés sur un modèle.
+   * **Courrier électronique**  opérationnel - Courriels qui ignorent les limites de désabonnement, de suspension de marketing et de communication (ils envoient quoi que ce soit).
 
    Vous avez la possibilité de définir un comportement différent pour chaque type.
 
@@ -48,7 +48,7 @@ Les courriels de vente placent automatiquement le pied de page de désabonnement
    >**Respecter les paramètres de désabonnement : **les prospects désabonnés ne recevront PAS de courrier électronique même si le courrier publié est &quot;opérationnel&quot;
    >
    >
-   >**Ignorer les paramètres de désabonnement :** les pistes désabonnées recevront le courriel
+   >**Ignorer les paramètres de désabonnement : les pistes** désabonnées recevront le courrier électronique
 
    Effectuez les modifications de votre choix, puis cliquez sur Enregistrer.
 
@@ -64,5 +64,5 @@ Oh ! Un peu compliqué, mais assez flexible, non ?
 >
 >**Plongée profonde**
 >
->En savoir plus sur [Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight).
+>En savoir plus sur [Marketing Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight).
 
