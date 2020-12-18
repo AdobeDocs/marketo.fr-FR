@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Activer le remplissage de formulaires sur les réseaux sociaux dans un formulaire {#enable-social-form-fill-on-a-form}
+# Activer le remplissage d’un formulaire Social sur un formulaire {#enable-social-form-fill-on-a-form}
 
 Permettre à vos visiteurs de remplir le formulaire à l’aide de leur réseau social. Vous obtiendrez automatiquement des données supplémentaires et elles seront plus rapides.
 
@@ -25,11 +25,11 @@ Permettre à vos visiteurs de remplir le formulaire à l’aide de leur réseau 
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Sous **Paramètres** **du formulaire** , cliquez sur **Paramètres**.
+1. Sous **Formulaire** **Paramètres** cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -39,7 +39,7 @@ Permettre à vos visiteurs de remplir le formulaire à l’aide de leur réseau 
 
    >[!TIP]
    >
-   >Regardez quelles [données Marketo capturera](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si les utilisateurs utilisent les boutons de réseau social.
+   >Regardez ce que [data Marketo capturera](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si les utilisateurs utilisent les boutons de réseau social.
 
 1. Cliquez sur **Terminer**.
 
