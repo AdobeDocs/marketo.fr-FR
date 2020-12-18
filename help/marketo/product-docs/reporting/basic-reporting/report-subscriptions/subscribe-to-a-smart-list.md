@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# S’abonner à une Liste dynamique {#subscribe-to-a-smart-list}
+# S&#39;abonner à une Liste dynamique {#subscribe-to-a-smart-list}
 
 L&#39;abonnement à des listes intelligentes est un excellent moyen de suivre les personnes, avec des rapports envoyés directement à votre boîte de réception.
 
@@ -34,21 +34,21 @@ Les Abonnements sont spécifiques à l’espace de travail. Par exemple, cette l
 >
 >Vous êtes limité à 100 abonnements et à un maximum de 100 000 personnes par abonnement, entre espaces de travail, par instance de marché. Si la liste intelligente contient plus de 100 000 noms, Marketo exécutera l’abonnement pour les 100 000 premiers noms.
 
-## Création d’un Abonnement de Liste dynamique {#create-a-smart-list-subscription}
+## Créer un Abonnement de Liste dynamique {#create-a-smart-list-subscription}
 
-1. Accédez à la **base de données** ou aux **Activités** marketing.
+1. Accédez à **Base de données** ou **Activités marketing**.
 
    ![](assets/db.png)
 
-1. Sélectionnez la liste intelligente pour laquelle vous souhaitez créer un abonnement. Cliquez sur Actions **de** Liste et sélectionnez** Nouveau Abonnement de Liste dynamique**.
+1. Sélectionnez la liste intelligente pour laquelle vous souhaitez créer un abonnement. Cliquez sur **Actions de Liste** et sélectionnez** New Smart Liste Abonnement**.
 
    ![](assets/three.png)
 
-1. Donnez un **nom**&#x200B;à votre abonnement, puis sélectionnez ou entrez les adresses électroniques des **Destinataires**.
+1. Attribuez à votre abonnement un **nom**, puis sélectionnez ou entrez les adresses électroniques des **Destinataires**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Cliquez sur la liste de **fréquence** et sélectionnez une fréquence.
+1. Cliquez sur la liste **Fréquence** et sélectionnez une fréquence.
 
    ** ![](assets/image2015-9-14-13-3a21-3a21.png)
 
@@ -66,7 +66,7 @@ Les Abonnements sont spécifiques à l’espace de travail. Par exemple, cette l
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Votre nouvel abonnement de liste intelligent s’affiche en haut de la liste dans l’onglet Abonnements. Cliquez sur **Envoyer** si vous souhaitez envoyer maintenant et n’attendez pas la diffusion de messagerie planifiée.
+1. Votre nouvel abonnement de liste intelligent s’affiche en haut de la liste dans l’onglet Abonnements. Cliquez sur **Envoyer** si vous souhaitez envoyer maintenant et n&#39;attendez pas la diffusion de messagerie planifiée.
 
    ![](assets/eight.png)
 
@@ -82,7 +82,7 @@ Les destinataires recevront un courrier électronique avec une option de téléc
 
 >[!NOTE]
 >
->Si le paramètre [Secure Abonnement Admin](secure-the-subscription-admin-setting.md) est défini sur **Oui**, seules les personnes ayant accès à l’instance de Marketo peuvent télécharger le rapport.
+>Si le paramètre [Administration des Abonnements sécurisés](secure-the-subscription-admin-setting.md) est défini sur **Oui**, seules les personnes ayant accès à l&#39;instance de Marketo peuvent télécharger le rapport.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -96,7 +96,7 @@ Si un rapport compte 0 personne, les destinataires recevront toujours un courrie
 
 Le courrier électronique fournit également des informations supplémentaires sur les filtres utilisés pour créer la liste.
 
-## Suppression d’un Abonnement {#delete-a-subscription}
+## Supprimer un Abonnement {#delete-a-subscription}
 
 Pour supprimer un abonnement, sélectionnez-le dans l’onglet abonnements, puis cliquez sur Supprimer l’Abonnement.
 
