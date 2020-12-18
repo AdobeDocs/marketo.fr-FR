@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapports par courriel {#email-reports}
 
-Pour personnaliser le rapport de courrier électronique automatisé reçu par l’utilisateur, voir la section [Paramètres](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)utilisateur.
+Pour personnaliser le rapport de messagerie automatisé que reçoit l’utilisateur, consultez la section [Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Rapports par courriel sur la personnalisation Web {#web-personalization-email-reports}
 
@@ -21,7 +21,7 @@ Des rapports par courriel quotidiens ou hebdomadaires sont envoyés à l’adres
 
 Les rapports suivants sont disponibles :
 
-## Rapport organisations quotidiennes/hebdomadaires {#daily-weekly-organizations-report}
+## Rapport des organisations quotidiennes/hebdomadaires {#daily-weekly-organizations-report}
 
 ![](assets/image2014-12-6-13-3a32-3a8.png)
 
@@ -33,13 +33,13 @@ Le rapport quotidien/hebdomadaire envoie à l’utilisateur un courriel des 50 p
 
 Le rapport Personnes quotidien/hebdomadaire envoie à l’utilisateur un courriel contenant les 100 dernières personnes sur le site Web, selon les critères suivants : adresse électronique de la personne, nom de l’organisation, emplacement, état, date de capture de la personne et segmente la personne à laquelle elle appartient.
 
-## Campagnes en temps réel les plus performantes {#top-performing-real-time-campaigns}
+## Meilleures campagnes en temps réel {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
 Le rapport Campagnes en temps réel les plus performantes envoie à l’utilisateur un courrier électronique contenant les campagnes en temps réel les plus performantes, indiquant le nom de la campagne, les impressions, les clics, le segment sur lequel la campagne a réagi et le taux de conversion de la campagne.
 
-## Rapport Actifs les plus performants {#top-performing-assets-report}
+## Rapport des ressources les plus performantes {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
@@ -51,7 +51,7 @@ Le rapport Actifs les plus performants envoie à l’utilisateur un courrier él
 
 Le rapport Ressources recommandées envoie à l’utilisateur un courrier électronique contenant tout le contenu et le nombre de clics provenant du contenu affiché dans le moteur de recommandation de contenu.
 
-## Rapport récapitulatif {#summary-report}
+## Rapport de synthèse {#summary-report}
 
 ![](assets/six.png)
 
@@ -69,4 +69,4 @@ Le rapport Résumé envoie à l’utilisateur un courriel (mensuel ou trimestrie
 >
 >La personnalisation Web du marketing capture l’adresse électronique du visiteur Web pour tout formulaire renseigné sur le site Web. Il s’agit de la personne qui est utilisée dans le rapport Résumé et qui est affichée dans la page Personnes pour la personnalisation Web.
 
-Pour personnaliser le rapport de courrier électronique automatisé reçu par l’utilisateur, voir la section [Paramètres](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)utilisateur.
+Pour personnaliser le rapport de messagerie automatisé que reçoit l’utilisateur, consultez la section [Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
