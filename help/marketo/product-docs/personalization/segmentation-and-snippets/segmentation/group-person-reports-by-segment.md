@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Regrouper les rapports des personnes par segment {#group-person-reports-by-segment}
+# Rapports de personnes de groupe par segment {#group-person-reports-by-segment}
 
-Vous pouvez regrouper les rapports [de](http://docs.marketo.com/display/docs/basic+reporting) personnes selon n’importe quel [segment](http://docs.marketo.com/display/docs/basic+reporting) que vous avez [défini dans vos segments](create-a-segmentation.md).
+Vous pouvez regrouper vos [rapports de personnes](http://docs.marketo.com/display/docs/basic+reporting) par tout [segment](http://docs.marketo.com/display/docs/basic+reporting) que vous avez [défini dans vos segmentations](create-a-segmentation.md).
 
-1. Accédez à la section Activités **** marketing (ou **Analytics**).
+1. Accédez à la section **Activités marketing** (ou **Analytics**).
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -28,17 +28,17 @@ Vous pouvez regrouper les rapports [de](http://docs.marketo.com/display/docs/bas
    >**Plongée profonde**
    >
    >
-   >Pour en savoir plus sur les rapports de personnes et les autres types de rapports, consultez la section plongée en profondeur du Rapports [de](http://docs.marketo.com/display/docs/basic+reporting) base.
+   >Pour en savoir plus sur les rapports de personnes et les autres types de rapports, consultez la section [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting) plongée en profondeur.
 
-1. Cliquez sur l’onglet **Configuration** , puis cliquez sur l’option **Regrouper les personnes par** doublon.
+1. Cliquez sur l&#39;onglet **Configuration** et doublon-clic **Regrouper les personnes par**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également [regrouper les rapports de votre personne par personne ou attribut](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute)de société.
+   >Vous pouvez également [regrouper vos rapports de personne par personne ou attribut de société](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute).
 
-1. Dans la boîte de dialogue **Regrouper les personnes par** , début de saisie de &quot;Segmentation&quot; dans la zone de texte. Lorsque l’en-tête **Segments** apparaît, sélectionnez-en un dans la liste située sous l’en-tête.
+1. Dans la boîte de dialogue **Regrouper les personnes par**, début de saisie de &quot;Segmentation&quot; dans la zone de texte. Lorsque l&#39;en-tête **Segmentations** apparaît, sélectionnez-en un dans la liste située sous l&#39;en-tête.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
@@ -50,7 +50,7 @@ Vous pouvez regrouper les rapports [de](http://docs.marketo.com/display/docs/bas
 >
 >**Plongée profonde**
 >
->Pour en savoir plus sur les segments et sur la façon de les créer et de les gérer, consultez la section [Segmentation](http://docs.marketo.com/display/docs/segmentation+and+snippets) approfondie.
+>Pour en savoir plus sur les segments et sur la façon de les créer et de les gérer, consultez la section [Segmentation](http://docs.marketo.com/display/docs/segmentation+and+snippets) plongée en profondeur.
 
 >[!MORELIKETHIS]
 >
