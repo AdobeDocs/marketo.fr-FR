@@ -23,7 +23,7 @@ En tant qu’administrateur, vous pouvez vue des campagnes comme n’importe que
 
    ![](assets/one-5.png)
 
-1. Cliquez sur la liste déroulante **Vue sous** et sélectionnez l’utilisateur de votre choix.
+1. Cliquez sur la liste déroulante **Vue As** et sélectionnez l’utilisateur de votre choix.
 
    ![](assets/two-4.png)
 
