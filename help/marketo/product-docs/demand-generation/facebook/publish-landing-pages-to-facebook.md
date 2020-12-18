@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Publication de Landings page sur Facebook {#publish-landing-pages-to-facebook}
+# Publier des Landings page sur Facebook {#publish-landing-pages-to-facebook}
 
 Vous pouvez publier vos landings page sur Facebook, rencontrer votre audience là où ils se trouvent déjà et générer plus de trafic sur vos programmes.
 
@@ -51,13 +51,13 @@ Si vous lancez un nouveau livre, vous pourriez atteindre une partie de votre aud
    >
    >Vous devez utiliser un compte doté des autorisations d’administrateur pour la page Facebook sur laquelle vous souhaitez publier votre landing page Marketo.
 
-1. Sélectionnez la page **** Facebook sur laquelle vous souhaitez publier le landing page et entrez le nom sous lequel votre landing page Marketo doit apparaître.
+1. Sélectionnez la **page Facebook** sur laquelle vous souhaitez publier le landing page et entrez le nom sous lequel votre landing page Marketo doit apparaître.
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >Pour remplacer les landings page Marketo que vous avez précédemment publiés sur Facebook, sélectionnez **Remplacer l’onglet** existant et choisissez l’onglet à remplacer dans la liste déroulante. Notez que cela ne remplacera pas les onglets non liés au marketing.
+   >Pour remplacer les landings page Marketo que vous avez précédemment publiés sur Facebook, sélectionnez **Remplacer l’onglet existant** et choisissez l’onglet à remplacer dans la liste déroulante. Notez que cela ne remplacera pas les onglets non liés au marketing.
 
 1. Les pistes peuvent désormais accéder directement à votre landing page sur votre page Facebook. Il vous suffit de cliquer sur le nom de l’onglet sous l’image de couverture.
 
