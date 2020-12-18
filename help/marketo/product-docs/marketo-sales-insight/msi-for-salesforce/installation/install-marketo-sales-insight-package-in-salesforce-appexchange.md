@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Installation du package Marketing Cloud Sales Insight dans l’AppExchange Salesforce {#install-marketo-sales-insight-package-in-salesforce-appexchange}
+# Installer le progiciel Marketo Sales Insight dans l&#39;AppExchange Salesforce {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 
 Vous devez installer l&#39;application Marketing Sales Insight dans votre abonnement Salesforce avant de pouvoir profiter de tous les avantages offerts par Sales Insight. Voici comment.
 
@@ -23,11 +23,11 @@ Vous devez installer l&#39;application Marketing Sales Insight dans votre abonne
 >
 >Marketo Sales Insight est compatible avec le cryptage de plate-forme Salesforce (Shield).
 
-1. Accédez à la page [AppExchange pour Marketing Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) et cliquez sur **Obtenir maintenant**.
+1. Accédez à la page [AppExchange pour le module Marketing Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) et cliquez sur **Obtenir maintenant**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Connexion au bouton AppExchange** et connectez-vous avec vos identifiants Salesforce.
+1. Cliquez sur **Connectez-vous au bouton AppExchange** et connectez-vous avec vos identifiants Salesforce.
 1. Entrez votre compte Salesforce connecté et cliquez sur **Installer dans Production**.
 
    ![](assets/three.png)
@@ -60,7 +60,7 @@ Vous devez installer l&#39;application Marketing Sales Insight dans votre abonne
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
-1. Vérifiez par doublon que **Déployé** est vérifié pour tous les articles Marketing Sales Insight.
+1. Vérifiez par doublon que **Déployé** est vérifié pour tous les éléments de Marketing Sales Insight.
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
@@ -68,7 +68,7 @@ Vous devez installer l&#39;application Marketing Sales Insight dans votre abonne
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
-1. Dans la section État **du** déploiement, sélectionnez **Déploiement**, puis cliquez sur **Enregistrer**.
+1. Sous **État du déploiement**, sélectionnez **Déployé**, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-24-17-3a24-3a0.png)
 
