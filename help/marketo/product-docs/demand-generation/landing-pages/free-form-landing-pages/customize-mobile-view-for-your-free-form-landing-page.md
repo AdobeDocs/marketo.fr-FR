@@ -31,11 +31,11 @@ La vue mobile de votre landing page libre est principalement automatique, mais v
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Cliquez sur l’onglet **Mobile** .
+1. Cliquez sur l&#39;onglet **Mobile**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
-## Mobile ou Vue de bureau {#mobile-vs-desktop-view}
+## Vue mobile ou bureau {#mobile-vs-desktop-view}
 
 Sous Eléments de page, vous verrez une icône ![](assets/image2015-1-22-18-3a39-3a53.png) (bureau) et une icône ![](assets/image2015-1-22-18-3a40-3a31.png) (mobile). Vous pouvez ainsi afficher/masquer différents éléments de manière dynamique.
 
@@ -86,11 +86,11 @@ Par défaut, tout ce qui se trouve sur la vue de bureau s’affiche sur la vue m
 
 >[!TIP]
 >
->La vue mobile peut également présenter un agencement différent d’éléments de page. Déplacez des éléments sur le landing page de forme libre ou réorganisez les objets répertoriés sous Eléments **de** page en les faisant glisser et déposer.
+>La vue mobile peut également présenter un agencement différent d’éléments de page. Déplacez des éléments sur le landing page de forme libre ou réorganisez les objets répertoriés sous **Éléments de page** à l’aide de la fonction glisser-déposer.
 
 ## Vue prévisualisation Mobile {#preview-mobile-view}
 
-1. Cliquez sur **Version préliminaire** de la Prévisualisation.
+1. Cliquez sur **Version préliminaire de la Prévisualisation**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
@@ -102,7 +102,7 @@ Par défaut, tout ce qui se trouve sur la vue de bureau s’affiche sur la vue m
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Si vous aimez, cliquez sur **Approuver et fermer**.
+1. Si vous l’aimez, cliquez sur **Approuver et fermer**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
