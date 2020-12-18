@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Comment effectuer le suivi de vos pièces jointes {#how-to-track-your-email-attachments}
 
-Les offres de Sales Connect effectuent le suivi de vos pièces jointes (.doc, .ppt, .pdf) afin que vous puissiez déterminer quand elles ont été envoyées `opened/``downloaded`et `see what pages your recipient is looking through`comment. Nous vous permettrons d&#39;utiliser notre fonction de suivi des pièces jointes depuis l&#39;application [](http://toutapp.com/login) web et Gmail (ou Google Apps).
+Les offres de la connexion commerciale effectuent le suivi de vos pièces jointes (.doc, .ppt, .pdf) afin que vous puissiez déterminer quand elles ont été `opened/` `downloaded` et `see what pages your recipient is looking through`. Nous vous permettrons d&#39;utiliser notre fonction de suivi des pièces jointes depuis l&#39;[application Web](http://toutapp.com/login) et Gmail (ou Google Apps).
 
 >[!NOTE]
 >
@@ -21,12 +21,12 @@ Les offres de Sales Connect effectuent le suivi de vos pièces jointes (.doc, .p
 
 ## Comment envoyer votre première pièce jointe pouvant faire l&#39;objet d&#39;un suivi {#how-to-send-your-first-trackable-attachment}
 
-1. Composez un courrier électronique ou modifiez un modèle, puis cliquez sur le bouton **Contenu** .
+1. Composez un courriel ou modifiez un modèle, puis cliquez sur le bouton **Contenu**.
 1. Téléchargez votre pièce jointe et envoyez-la. Nous prenons en charge les fichiers PDF, les documents Word et les présentations Powerpoint.
 1. Sélectionnez **Ajouter au courriel**.
-1. Cliquez sur **Envoyer** et lancez votre flux dynamique. Vous verrez vos destinataires alors qu&#39;ils s&#39;ouvrent et passent en revue vos pièces jointes.* *
+1. Cliquez sur **Envoyer** et lancez votre flux en direct. Vous verrez vos destinataires alors qu&#39;ils s&#39;ouvrent et passent en revue vos pièces jointes.* *
 
    >[!TIP]
    >
-   >Si vous ne souhaitez pas effectuer le suivi d’une pièce jointe, cliquez simplement sur **Joindre les fichiers** et cette pièce jointe ne sera pas suivie.
+   >Si vous ne souhaitez pas suivre une pièce jointe, cliquez simplement sur **Joindre les fichiers** et cette pièce jointe ne sera pas suivie.
 
