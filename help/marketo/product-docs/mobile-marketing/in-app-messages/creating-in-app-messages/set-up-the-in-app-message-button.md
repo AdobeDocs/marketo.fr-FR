@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configuration du bouton Message intégré à l’application {#set-up-the-in-app-message-button}
+# Configuration du bouton Message intégré {#set-up-the-in-app-message-button}
 
 Vous pouvez utiliser la conception de bouton par défaut, la modifier ou télécharger votre propre image de bouton personnalisée.
 
@@ -19,7 +19,7 @@ Vous pouvez utiliser la conception de bouton par défaut, la modifier ou téléc
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Pour modifier la couleur du bouton standard, cliquez sur le bouton **Couleur** .
+1. Pour modifier la couleur du bouton standard, cliquez sur le bouton **Couleur**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -35,7 +35,7 @@ Vous pouvez utiliser la conception de bouton par défaut, la modifier ou téléc
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Sélectionnez l’image, puis cliquez sur **Sélectionner**.
+1. Sélectionnez l’image et cliquez sur **Sélectionner**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -51,7 +51,7 @@ Vous pouvez utiliser la conception de bouton par défaut, la modifier ou téléc
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Choisissez le style de police à mettre en évidence : **Gras**, *Italique* ou Souligné.
+1. Choisissez le style de police à mettre en évidence : **Bold**, *Italic* ou Souligné.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
