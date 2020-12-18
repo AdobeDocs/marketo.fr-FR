@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Si votre activité de suivi ne s&#39;affiche pas, assurez-vous que les champs d&#39;activité personnalisés fournis par Sales Connect sont visibles/modifiables dans Salesforce. Si vous avez installé les champs mais qu’ils ne sont pas renseignés, il se peut que la sécurité au niveau du champ empêche les informations d’être renseignées. Veuillez contacter votre administrateur Salesforce.
 
-En savoir plus sur la sécurité [](http://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) sur le terrain dans Salesforce.
+En savoir plus sur [la sécurité au niveau du champ](http://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) dans Salesforce.
