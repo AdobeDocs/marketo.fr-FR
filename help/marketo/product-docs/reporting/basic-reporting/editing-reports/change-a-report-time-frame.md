@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Modifiez la période couverte par votre rapport afin de vous concentrer sur un moment précis d’activité.
 
-1. Accédez à la zone Activités **** marketing (ou **Analytics**).
+1. Accédez à la zone **Activités marketing** (ou **Analytics**).
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Sélectionnez votre rapport dans l&#39;arborescence de navigation et cliquez sur l&#39;onglet **Configuration** .
+1. Sélectionnez votre rapport dans l&#39;arborescence de navigation et cliquez sur l&#39;onglet **Configuration**.
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
@@ -33,7 +33,7 @@ Modifiez la période couverte par votre rapport afin de vous concentrer sur un m
 
    >[!NOTE]
    >
-   >**Personne créée à** désigne le moment où la personne est devenue connue dans votre base de données.
+   >**Personne créée** Atref au moment où la personne est devenue connue dans votre base de données.
 
 1. Choisissez la période appropriée dans le menu déroulant.
 
@@ -41,7 +41,7 @@ Modifiez la période couverte par votre rapport afin de vous concentrer sur un m
 
    >[!TIP]
    >
-   >Pour définir des dates spécifiques, sélectionnez **Personnalisé** dans le menu déroulant et saisissez les dates dans les champs de calendrier **Du** et **Au** .
+   >Pour définir des dates spécifiques, sélectionnez **Personnalisé** dans le menu déroulant et saisissez les dates dans les champs de calendrier **De** et **À**.
 
    Cliquez sur l&#39;onglet **Rapport** pour afficher votre rapport pour la période sélectionnée.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
@@ -51,12 +51,12 @@ Modifiez la période couverte par votre rapport afin de vous concentrer sur un m
    >**Articles connexes**
    >
    >
-   >Pour limiter votre rapport en fonction d&#39;attributs de personne spécifiques, vous pouvez [filtrer les personnes dans un rapport avec une Liste](filter-people-in-a-report-with-a-smart-list.md)intelligente.
+   >Pour limiter votre rapport en fonction d&#39;attributs de personne spécifiques, vous pouvez [filtrer les personnes dans un rapport avec une Liste intelligente](filter-people-in-a-report-with-a-smart-list.md).
 
    >[!NOTE]
    >
    >**Plongée profonde**
    >
    >
-   >Pour plus d&#39;informations sur l&#39;utilisation des rapports, reportez-vous à la section plongée en profondeur du Rapports [de](http://docs.marketo.com/display/docs/basic+reporting) base.
+   >Pour plus d&#39;informations sur l&#39;utilisation des rapports, consultez la section &lt; a0/>Rapports de base[ plongée en profondeur.](http://docs.marketo.com/display/docs/basic+reporting)
 
