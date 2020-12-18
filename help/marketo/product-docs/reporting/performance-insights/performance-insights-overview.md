@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation des informations sur les performances {#performance-insights-overview}
+# Aperçu des statistiques de performances {#performance-insights-overview}
 
 Les statistiques de performances du marketing vous aident à optimiser votre combinaison de canaux pour une efficacité maximale, ainsi qu&#39;à découvrir les tendances à long terme pour identifier des stratégies gagnantes cohérentes.
 
@@ -29,7 +29,7 @@ Pour accéder à Performance Insights, cliquez sur son icône dans l’écran d�
 
 ## Contribution {#contribution}
 
-Évaluer la [contribution de Marketing aux](http://docs.marketo.com/x/QAvG)recettes en fonction de l’acquisition, de l’influence, de la conversion des clients, voire de la croissance de base installée.
+Évaluer la [contribution de Marketing au chiffre d&#39;affaires](http://docs.marketo.com/x/QAvG)en fonction de l&#39;acquisition, de l&#39;influence, de la conversion des clients, voire de la croissance de base installée.
 
 ![](assets/two.png)
 
@@ -39,19 +39,19 @@ Par défaut, les données affichées reflètent les performances par engagement.
 
 ## Tendance {#trend}
 
-Découvrir les tendances [à](http://docs.marketo.com/x/QgvG) long terme pour repérer des stratégies gagnantes cohérentes.
+Découvrir [les tendances à long terme](http://docs.marketo.com/x/QgvG) pour repérer les stratégies gagnantes cohérentes.
 
 ![](assets/4.png)
 
 ## Paramètres {#settings}
 
-Dans les tableaux de bord Recettes et Pipeline, cliquez sur l’icône [Paramètres](http://docs.marketo.com/x/pIDS) pour définir d’autres paramètres.
+Dans les tableaux de bord Recettes et Pipeline, cliquez sur l&#39;icône [Paramètres](http://docs.marketo.com/x/pIDS) pour définir d&#39;autres paramètres.
 
 ![](assets/5.png)
 
 ## Exporter des données {#export-data}
 
-Vous pouvez exporter les données et les graphiques dans PowerPoint ou Excel. Vous pouvez également les enregistrer sous forme de graphique [](https://docs.marketo.com/x/iRLG)rapide.
+Vous pouvez exporter les données et les graphiques dans PowerPoint ou Excel. Vous pouvez également les enregistrer sous la forme [Graphique rapide](https://docs.marketo.com/x/iRLG).
 
 ![](assets/6.png)
 
