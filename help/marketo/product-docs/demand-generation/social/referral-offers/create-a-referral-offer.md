@@ -21,11 +21,11 @@ Les offres de renvoi incitent les gens à se tourner vers leurs amis. Créez des
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-1. Dans votre programme, sélectionnez **Nouveau** > **Nouveau fichier local.**
+1. Dans votre programme, sélectionnez **New** > **New Local Asset.**
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. Dans la Galerie de ressources **locales,** cliquez sur **Offre de référence.**
+1. Dans la **Galerie locale des ressources,** cliquez sur **Offre de référence.**
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -35,21 +35,21 @@ Les offres de renvoi incitent les gens à se tourner vers leurs amis. Créez des
 
    >[!TIP]
    >
-   >Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir** pour copier tous les paramètres d’une offre de référence existante.
+   >Pour gagner du temps, vous pouvez utiliser l&#39;option **Cloner à partir de** pour copier tous les paramètres d&#39;une offre de référence existante.
 
    L&#39;éditeur d&#39;offres de référence s&#39;ouvre dans une nouvelle fenêtre. Les paramètres par défaut sont tous bons, mais vous devez ajouter un lien vers les règles de votre offre (termes et conditions). Le lien s’affiche dans la partie inférieure des écrans de message de partage. Nous vous montrerons comment procéder à l’étape suivante.
 
-1. Cliquez sur Options **avancées.**
+1. Cliquez sur **Options avancées.**
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. Ajoutez un lien vers les règles de votre offre. Saisissez l’ **URL.**
+1. Ajoutez un lien vers les règles de votre offre. Entrez l&#39;**URL.**
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >Dans cet écran, vous pouvez également ajouter un lien vers la politique de confidentialité. Voir [Ajouter votre politique de confidentialité à une application](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)Social.
+   >Dans cet écran, vous pouvez également ajouter un lien vers la politique de confidentialité. Voir [Ajouter votre politique de confidentialité à une application Social](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. Cliquez sur **Terminer.**
 
@@ -69,7 +69,7 @@ Félicitations ! Vous avez créé votre offre de référence.
 
 >[!MORELIKETHIS]
 >
->L’étape suivante consiste à [publier votre offre](publish-a-referral-offer.md) de référence sur un landing page, sur votre site Web ou sur Facebook.
+>L’étape suivante consiste à [publier votre offre de référence](publish-a-referral-offer.md) sur un landing page, sur votre site Web ou sur Facebook.
 
 >[!NOTE]
 >
