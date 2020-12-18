@@ -23,7 +23,7 @@ Après avoir consulté un rapport, Marketo le stocke dans votre base de données
 
    ![](assets/two.png)
 
-1. Vous pouvez également actualiser le rapport en cliquant sur le menu Actions **du** rapport et en sélectionnant **Actualiser le rapport**.
+1. Vous pouvez également actualiser le rapport en cliquant sur le menu **Actions du rapport** et en sélectionnant **Actualiser le rapport**.
 
    ![](assets/three.png)
 
