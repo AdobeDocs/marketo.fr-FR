@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Explorez les détails sur les Programmes et les Canaux à l&#39;aide de l&#39;analyseur de Programmes {#explore-program-channel-details-with-the-program-analyzer}
+# Explorez les détails des Programmes et des Canaux avec l&#39;analyseur de Programme {#explore-program-channel-details-with-the-program-analyzer}
 
 Vous pouvez afficher des statistiques détaillées sur les programmes et les canaux dans Programme Analyzer. Vous pouvez également les ouvrir dans l’Explorateur de cycles de recettes.
 
@@ -34,13 +34,13 @@ Vous pouvez afficher des statistiques détaillées sur les programmes et les can
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Pour afficher les statistiques spécifiques d&#39;un canal ou d&#39;un programme (en fonction de la **Vue** sélectionnée), cliquez sur la bulle correspondante.
+1. Pour afficher les statistiques spécifiques d&#39;un canal ou d&#39;un programme (selon la **Vue** sélectionnée), cliquez sur la bulle correspondante.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >La plupart des mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multipoint (MT). Il est important de comprendre la [différence entre l’attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT et MT.
+   >La plupart des mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multipoint (MT). Il est important de comprendre la différence [entre l’attribution FT et l’attribution MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Pour comparer tous les programmes d’un seul canal, cliquez sur le nom du canal dans la boîte de dialogue contextuelle.
 
@@ -60,4 +60,4 @@ Vous pouvez afficher des statistiques détaillées sur les programmes et les can
 
    >[!NOTE]
    >
-   >En savoir plus sur les analyses avancées dans [l&#39;Explorateur](http://docs.marketo.com/display/docs/revenue+explorer)de recettes.
+   >En savoir plus sur les analyses avancées dans [Explorateur de recettes](http://docs.marketo.com/display/docs/revenue+explorer).
