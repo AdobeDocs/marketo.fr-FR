@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. Sous Actions **de notification** Push, cliquez sur **Supprimer**.
+1. Sous **Actions de notification Push**, cliquez sur **Supprimer**.
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
