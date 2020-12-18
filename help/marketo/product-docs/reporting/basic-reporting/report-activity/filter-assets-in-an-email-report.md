@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrage des ressources dans un rapport par courriel {#filter-assets-in-an-email-report}
 
-Concentrez votre rapport Performances [des](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) courriels ou Performance [des liens de](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) courriel sur les courriels de vos programmes (&quot;ressources locales&quot;), ceux de Design Studio (&quot;ressources globales&quot;) ou ceux qui ont été archivés.
+Concentrez votre rapport [Performances des courriels](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [Performance des liens de courriel](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sur les courriels de vos programmes (&quot;ressources locales&quot;), sur ceux de Design Studio (&quot;ressources globales&quot;) ou sur ceux qui ont été archivés.
 
-1. Accédez à la zone **Analytics** (ou Activités **** marketing).
+1. Accédez à **Analytics** (ou **Activités marketing**).
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)
 
@@ -23,7 +23,7 @@ Concentrez votre rapport Performances [des](../../../../product-docs/email-marke
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. Cliquez sur l’onglet **Configuration** et faites glisser le pointeur sur un filtre.
+1. Cliquez sur l&#39;onglet **Configuration** et faites glisser le pointeur sur un filtre.
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
@@ -39,7 +39,7 @@ Concentrez votre rapport Performances [des](../../../../product-docs/email-marke
    >
    >Si vous sélectionnez un dossier, votre rapport inclura tout ce qu&#39;il contient au moment de son exécution.
 
-1. Vous avez fini ! Cliquez sur l’onglet **Rapport** pour afficher votre rapport filtré.
+1. Vous avez fini ! Cliquez sur l&#39;onglet **Rapport** pour afficher votre rapport filtré.
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 
@@ -55,5 +55,5 @@ Concentrez votre rapport Performances [des](../../../../product-docs/email-marke
 >
 >**Plongée profonde**
 >
->En savoir plus sur les rapports dans le Rapports [de](http://docs.marketo.com/display/docs/basic+reporting)base.
+>Découvrez tous les rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
