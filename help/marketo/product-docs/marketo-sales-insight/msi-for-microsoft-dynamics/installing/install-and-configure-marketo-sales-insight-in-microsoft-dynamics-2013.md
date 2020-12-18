@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Installation et configuration de Marketo Sales Insight dans Microsoft Dynamics 2013 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# Installer et configurer Marketo Sales Insight dans Microsoft Dynamics 2013 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 Marketing Sales Insight est un outil fantastique pour donner à votre équipe commerciale une &quot;fenêtre&quot; sur la richesse des données dont dispose l&#39;équipe marketing. Voici comment l&#39;installer et le configurer.
 
 >[!PREREQUISITES]
 >
->Effectuez votre intégration [](http://docs.marketo.com/x/EIA2)Marketo-Microsoft.
+>Effectuez votre [intégration Marketo-Microsoft](http://docs.marketo.com/x/EIA2).
 >
->[Téléchargez la solution](http://docs.marketo.com/x/LoJo) appropriée pour votre version de Microsoft Dynamics CRM.
+>[Téléchargez la bonne ](http://docs.marketo.com/x/LoJo) solution pour votre version de Microsoft Dynamics CRM.
 
 ## Importer la solution {#import-solution}
 
 OK, maintenant il est temps d&#39;importer la solution Marketing Sales Insight dans Microsoft Dynamics.
 
-1. Sous **Microsoft Dynamics CRM** , cliquez sur **Paramètres**.
+1. Sous **Microsoft Dynamics CRM**, cliquez sur **Paramètres**.
 
    ![](assets/image2014-12-12-9-3a4-3a56.png)
 
@@ -64,7 +64,7 @@ OK, maintenant il est temps d&#39;importer la solution Marketing Sales Insight d
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 
-1. Assurez-vous de laisser la case cochée et cliquez sur **Importer**.
+1. Veillez à laisser la case cochée et à cliquer sur **Importer**.
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
@@ -76,7 +76,7 @@ OK, maintenant il est temps d&#39;importer la solution Marketing Sales Insight d
 
    ![](assets/image2014-12-12-9-3a6-3a40.png)
 
-## Connexion à Marketing et à Sales Insight {#connect-marketo-and-sales-insight}
+## Connecter Marketing et Sales Insight {#connect-marketo-and-sales-insight}
 
 Lions votre instance Marketo à Sales Insight in Dynamics.
 
@@ -84,15 +84,15 @@ Lions votre instance Marketo à Sales Insight in Dynamics.
 >
 >Droits d’administration requis.
 
-1. Connectez-vous à Marketing et accédez à la section **Admin** .
+1. Connectez-vous à Marketing et accédez à la section **Admin**.
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Sous la section **Sales Insight** , cliquez sur **Modifier la configuration** de l&#39;API.
+1. Sous la section **Sales Insight**, cliquez sur **Modifier la configuration de l&#39;API**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Copiez l’hôte **** marketing, l’URL **** API et l’ID **d’utilisateur** API pour l’utiliser ultérieurement. Saisissez une clé **secrète** API de votre choix et cliquez sur **ENREGISTRER**.
+1. Copiez l’**hôte marketing**, l’**URL de l’API** et l’**ID utilisateur de l’API** pour l’utiliser ultérieurement. Saisissez une **clé secrète API** de votre choix et cliquez sur **SAVE**.
 
    >[!CAUTION]
    >
@@ -102,7 +102,7 @@ Lions votre instance Marketo à Sales Insight in Dynamics.
 
    >[!NOTE]
    >
-   >Les champs suivants doivent être synchronisés avec Marketo pour que le prospect et le contact *pour que Sales Insight fonctionnent* à la fois :
+   >Pour que Sales Insight fonctionne, les champs suivants doivent être synchronisés avec Marketo pour *à la fois prospect et contact* :
    >
    >    
    >    
@@ -118,7 +118,7 @@ Lions votre instance Marketo à Sales Insight in Dynamics.
 
    ![](assets/image2014-12-12-9-3a7-3a25.png)
 
-1. Sous **Paramètres**, cliquez sur Configuration **de l’API** Marketo.
+1. Sous **Paramètres**, cliquez sur **Configuration de l’API de marketing**.
 
    ![](assets/image2014-12-12-9-3a7-3a34.png)
 
@@ -126,7 +126,7 @@ Lions votre instance Marketo à Sales Insight in Dynamics.
 
    ![](assets/image2014-12-12-9-3a8-3a8.png)
 
-1. Saisissez les informations que vous avez reçues de Marketo plus tôt et cliquez sur **Enregistrer**.
+1. Saisissez les informations que vous avez précédemment prises de Marketo et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-12-12-9-3a8-3a17.png)
 
@@ -142,11 +142,11 @@ Enfin, vous pouvez donner aux utilisateurs spécifiques l’accès à Marketing 
 
    ![](assets/image2014-12-12-9-3a8-3a42.png)
 
-1. Sélectionnez le ou les utilisateurs auxquels vous souhaitez donner accès à Sales Insight, puis cliquez sur **Gérer les rôles**.
+1. Sélectionnez le ou les utilisateurs auxquels vous souhaitez donner accès à Sales Insight et cliquez sur **Gérer les rôles**.
 
    ![](assets/image2014-12-12-9-3a9-3a13.png)
 
-1. Sélectionnez le rôle **Marketo Sales Insight** et cliquez sur **OK**.
+1. Sélectionnez le rôle **Analyse commerciale** et cliquez sur **OK**.
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
