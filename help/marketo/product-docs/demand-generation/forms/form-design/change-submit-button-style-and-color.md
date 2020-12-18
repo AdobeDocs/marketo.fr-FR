@@ -19,11 +19,11 @@ Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin de 
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Sélectionnez le bouton **Envoyer** , puis cliquez sur **Modifier** en regard de Style de bouton.
+1. Sélectionnez le bouton **Envoyer** et cliquez sur **Modifier** en regard de Style de bouton.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
