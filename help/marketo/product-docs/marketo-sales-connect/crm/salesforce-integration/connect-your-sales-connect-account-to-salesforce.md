@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Suivez ces étapes simples pour connecter Sales Connect à Salesforce.
 
-## Connexion en tant qu’administrateur {#how-to-connect-as-an-admin}
+## Connexion en tant qu&#39;administrateur {#how-to-connect-as-an-admin}
 
 1. Dans Sales Connect, cliquez sur l&#39;icône représentant un engrenage dans l&#39;angle supérieur droit et sélectionnez **Paramètres**.
 
