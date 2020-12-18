@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Malheureusement, l’ajout de contenu vidéo à un modèle et sa lecture en ligne dans le message envoyé ne sont pas disponibles pour le moment.
 
-Cependant, vous pouvez insérer une image intégrée (GIF inclus) dans vos modèles en cliquant sur le bouton **Insérer une image** . Il est conseillé d’insérer une image fixe de la vidéo prévue, puis de rendre cette image cliquable en la surlignant et en cliquant sur l’icône d’hyperlien pour entrer l’URL de la vidéo.
+Cependant, vous pouvez insérer une image intégrée (GIF inclus) dans vos modèles en cliquant sur le bouton **Insérer une image**. Il est conseillé d’insérer une image fixe de la vidéo prévue, puis de rendre cette image cliquable en la surlignant et en cliquant sur l’icône d’hyperlien pour entrer l’URL de la vidéo.
