@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Créer un widget Web Campaign {#create-a-new-widget-web-campaign}
 
-Une campagne Web est une réaction personnalisée associée à un segment spécifique et peut être une boîte de [dialogue](create-a-new-dialog-web-campaign.md) sur votre site Web, un remplacement [](create-a-new-in-zone-web-campaign.md)de zone, une fonction de widget ou une alerte par courrier électronique. La campagne Web de widgets est un texte ou une bannière qui s’affiche sur le côté vertical de votre page Web et permet de la développer et de la contracter, tout en restant fixe sur la page du site Web tout au long de la visite.
+Une campagne Web est une réaction personnalisée associée à un segment spécifique et peut être une [boîte de dialogue](create-a-new-dialog-web-campaign.md) sur votre site Web, un [remplacement de zone](create-a-new-in-zone-web-campaign.md), une fonction de widget ou une alerte par courrier électronique. La campagne Web de widgets est un texte ou une bannière qui s’affiche sur le côté vertical de votre page Web et permet de la développer et de la contracter, tout en restant fixe sur la page du site Web tout au long de la visite.
 
 ## Créer un widget Web Campaign {#create-a-widget-web-campaign}
 
-1. Accédez à Campagnes **** Web.
+1. Accédez à **Campagnes Web**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Sélectionnez **Créer une Campaign** Web.
+1. Sélectionnez **Créer une Campaign Web**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Sélectionnez le type de campagne **Widget** .
+1. Sélectionnez le type de campagne **Widget**.
 
    ![](assets/3.png)
 
@@ -51,7 +51,7 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
   </tr> 
   <tr> 
    <td colspan="1"><strong>Afficher le</strong></td> 
-   <td colspan="1">Permet de <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personnaliser quand et comment</a> votre campagne Web s’affiche.</td> 
+   <td colspan="1">Permet de <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personnaliser quand et comment</a> s’affiche votre campagne Web.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Animer les entrées/sorties</strong></td> 
@@ -86,7 +86,7 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
    <td colspan="1">Campagnes de prévisualisation avant leur lancement.<br> 
     <ul> 
      <li>URL : saisissez un exemple d'URL où la campagne s'exécuterait pour afficher un exemple prévisualisation de l'aspect de la campagne.</li> 
-     <li>Prévisualisation - Cliquez sur <strong>Prévisualisation </strong>pour ouvrir une nouvelle fenêtre de l'exemple d'URL afin de voir comment réagit la campagne (Ajoutez l'extension <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow"></a> Chrome pour la meilleure expérience de prévisualisation Web Campaign). </li> 
+     <li>Prévisualisation - Cliquez sur <strong>Prévisualisation </strong>pour ouvrir une nouvelle fenêtre de l'exemple d'URL afin de voir comment réagit la campagne (Ajoutez l'<a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">extension Chrome</a> pour la meilleure expérience de prévisualisation Web Campaign.) </li> 
      <li>Partager - Utilisez le bouton Partager pour envoyer un courriel à un collègue avec un lien afin d'afficher la campagne proxy.</li> 
     </ul></td> 
   </tr> 
@@ -95,29 +95,29 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
 
 >[!NOTE]
 >
->**Vous souhaitez tester vos campagnes Web de manière A/B ?** Une ou plusieurs campagnes Web peuvent être testées [A/B pour des résultats](ab-test-your-web-campaign.md)optimaux. Grâce à la fonction d’ajustement automatique, la plate-forme reconnaît automatiquement les campagnes les plus performantes, poursuit les campagnes ayant le plus fort taux de conversion et interrompt les autres campagnes.
+>**Vous souhaitez tester vos campagnes Web de manière A/B ?** Une ou plusieurs campagnes Web peuvent être testées  [A/B pour des résultats](ab-test-your-web-campaign.md) optimaux. Grâce à la fonction d’ajustement automatique, la plate-forme reconnaît automatiquement les campagnes les plus performantes, poursuit les campagnes ayant le plus fort taux de conversion et interrompt les autres campagnes.
 
 ## Modifier une Campaign Web {#edit-a-web-campaign}
 
-Dans la page Campagnes Web, cliquez sur **Modifier** sur le Campaign.
+Dans la page Campagnes Web, cliquez sur **Modifier** dans le Campaign.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
 >[!NOTE]
 >
->Pour faciliter la recherche de la campagne de votre choix, utilisez la fonction [de](filter-web-campaigns.md)filtrage.
+>Pour faciliter la recherche de la campagne souhaitée, utilisez la fonction de filtre [](filter-web-campaigns.md).
 
 ## Cloner une Campaign Web {#clone-a-web-campaign}
 
-Voir [Cloner une Campaign](clone-a-web-campaign.md)Web.
+Voir [Cloner une Campaign Web](clone-a-web-campaign.md).
 
-## Prévisualisation d&#39;un Campaign Web {#preview-a-web-campaign}
+## Prévisualisation d’un Campaign Web {#preview-a-web-campaign}
 
-Dans la page Campagnes Web, cliquez sur **Prévisualisation** sur la campagne Web que vous souhaitez prévisualisation.
+Dans la page Campagnes Web, cliquez sur **Prévisualisation** dans la campagne Web que vous souhaitez prévisualisation.
 
 ![](assets/widget-campaign-preview-hand.png)
 
-## Suppression d’une Campaign Web {#delete-a-web-campaign}
+## Supprimer une Campaign Web {#delete-a-web-campaign}
 
 1. Dans la page Campagnes Web, cliquez sur **Supprimer **sur la campagne Web que vous souhaitez supprimer.
 
