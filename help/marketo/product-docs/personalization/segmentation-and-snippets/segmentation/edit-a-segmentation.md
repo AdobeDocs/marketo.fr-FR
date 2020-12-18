@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Modification d’une segmentation {#edit-a-segmentation}
+# Modifier une segmentation {#edit-a-segmentation}
 
 Il est facile d’apporter des modifications à vos segments existants. Voici le bas vers le bas.
 
-## Création d’un brouillon de segmentation {#create-a-segmentation-draft}
+## Créer un brouillon de segmentation {#create-a-segmentation-draft}
 
 1. Accédez à la **base de données**.
 
    ![](assets/db.png)
 
-1. Dans la segmentation, cliquez sur Actions **de** segmentation, puis **créez un brouillon**.
+1. Dans la segmentation, cliquez sur **Actions de segmentation**, puis sur **Créer un brouillon**.
 
    ![](assets/two.png)
 
@@ -31,7 +31,7 @@ Il est facile d’apporter des modifications à vos segments existants. Voici le
 
 ## Ajouter, modifier ou supprimer des segments {#add-edit-or-delete-segments}
 
-1. Dans la segmentation, cliquez sur Actions **de** segmentation, puis **modifiez les segments**.
+1. Dans votre segmentation, cliquez sur **Actions de segmentation**, puis **Modifier les segments**.
 
    ![](assets/four.png)
 
@@ -49,11 +49,11 @@ Il est facile d’apporter des modifications à vos segments existants. Voici le
 
    >[!CAUTION]
    >
-   >La suppression affecte tout le contenu dynamique associé dans les courriers électroniques, les Landings page et les extraits de code. **Il n&#39;y a pas d&#39;annulation**. Cochez l’onglet **Utilisé par** pour déterminer l’utilisation de ce segment.
+   >La suppression affecte tout le contenu dynamique associé dans les courriers électroniques, les Landings page et les extraits de code. **Il n&#39;y a pas d&#39;annulation**. Consultez l’onglet **Utilisé par** pour savoir quelle est l’utilisation de ce segment.
 
 ## Modifier les règles de segment {#edit-segment-rules}
 
-1. Dans votre **segment** de brouillon, accédez à la Liste **** intelligente. Appliquez des règles similaires à la [définition de règles](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)de segment.
+1. Dans votre brouillon **Segment**, accédez à **Liste dynamique**. Appliquez des règles similaires à [Définition de règles de segment](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
