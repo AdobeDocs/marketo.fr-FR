@@ -17,13 +17,13 @@ Ajoutez une identité lorsque vous avez plusieurs adresses électroniques à par
 
 1. Cliquez sur l’icône Paramètres.
 1. Cliquez sur Paramètres du courrier électronique.
-1. Cliquez sur **Ajouter l’identité**.
+1. Cliquez sur **Ajouter l&#39;identité**.
 
    >[!NOTE]
    >
-   >En savoir plus sur l’ [Ajoute des signatures à vos identités](https://docs.marketo.com/x/6BnG).
+   >En savoir plus sur [l&#39;Ajoute des signatures à vos identités](https://docs.marketo.com/x/6BnG).
 
-1. Entrez vos informations (les champs de nom et de courriel sont obligatoires), puis cliquez sur **Créer** lorsque vous avez terminé.
+1. Entrez vos informations (les champs de courriel et de nom sont obligatoires), cliquez sur **Créer** une fois terminé.
 1. Cliquez sur le lien dans le courrier électronique de vérification que vous recevez.
 
    Lorsque vous envoyez un e-mail** **dans Sales Connect, vous pouvez basculer entre les identités.
