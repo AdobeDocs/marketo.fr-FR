@@ -43,19 +43,19 @@ Pour empêcher les utilisateurs de la gestion de la relation client de modifier 
 
 >[!NOTE]
 >
->La modification de ce paramètre en tant qu’administrateur **n’affectera pas** rétroactivement les modèles existants ; c&#39;est-à-dire qu&#39;il ne les verrouillera pas automatiquement.
+>La modification de ce paramètre en tant qu’administrateur **n’affecte pas** rétroactivement les modèles existants ; c&#39;est-à-dire qu&#39;il ne les verrouillera pas automatiquement.
 
-## Verrouiller le modèle dans l’éditeur de courrier électronique {#lock-template-in-the-email-editor}
+## Verrouiller le modèle dans l’éditeur de courriel {#lock-template-in-the-email-editor}
 
 1. Sélectionnez le courrier électronique à verrouiller, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/5.png)
 
-1. Dans l’éditeur de courrier électronique, cliquez sur Paramètres **du** courrier électronique.
+1. Dans l’éditeur de courrier électronique, cliquez sur **Paramètres de courrier électronique**.
 
    ![](assets/6.png)
 
-1. Cochez la case **Publier sur les statistiques de ventes** marketing si elles ne sont pas encore cochées. Vous pouvez désormais désélectionner **Autoriser l’utilisateur CRM à modifier le courrier électronique** afin de verrouiller le modèle. Cliquez sur **Enregistrer**.
+1. Vérifiez **Publier sur Marketing Sales Insight** si ce n&#39;est pas déjà fait. Vous pouvez désormais désélectionner **Autoriser l’utilisateur CRM à modifier le courrier électronique** afin de verrouiller le modèle. Cliquez sur **Enregistrer**.
 
    ![](assets/7.png)
 
