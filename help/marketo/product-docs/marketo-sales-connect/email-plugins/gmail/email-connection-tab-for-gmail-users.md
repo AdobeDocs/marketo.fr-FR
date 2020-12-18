@@ -19,11 +19,11 @@ Se connecter à Gmail signifie que vous recevrez le suivi des réponses, l&#39;a
 
    ![](assets/one.png)
 
-1. Sous Mon compte, sélectionnez Paramètres **de** courriel.
+1. Sous Mon compte, sélectionnez **Paramètres de courriel**.
 
    ![](assets/two.png)
 
-1. Cliquez sur l’onglet Connexion **** par courriel.
+1. Cliquez sur l&#39;onglet **Connexion par courriel**.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Se connecter à Gmail signifie que vous recevrez le suivi des réponses, l&#39;a
 
    ![](assets/four.png)
 
-1. Sélectionnez **J&#39;utilise Gmail pour envoyer des courriels** et cliquez sur **Suivant**.
+1. Sélectionnez **J’utilise Gmail pour envoyer des e-mails** et cliquez sur **Suivant**.
 
    ![](assets/five.png)
 
@@ -51,5 +51,5 @@ Se connecter à Gmail signifie que vous recevrez le suivi des réponses, l&#39;a
 
    ![](assets/nine.png)
 
-   Vous pouvez utiliser cette connexion pour effectuer le suivi des courriers électroniques et [en tant que canal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)de diffusion.
+   Vous pouvez utiliser cette connexion pour effectuer le suivi des courriers électroniques et [comme canal de diffusion](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
 
