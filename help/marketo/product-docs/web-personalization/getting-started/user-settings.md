@@ -17,7 +17,7 @@ Modifiez les paramètres tels que le fuseau horaire ou les rapports par courriel
 
 ## Profil utilisateur / Mots de passe / Fuseaux horaires {#user-profile-passwords-time-zones}
 
-1. Cliquez sur votre nom et sélectionnez Paramètres **utilisateur.**
+1. Cliquez sur votre nom et sélectionnez **Paramètres utilisateur.**
 
    ![](assets/one.png)
 
@@ -43,15 +43,15 @@ Modifiez les paramètres tels que le fuseau horaire ou les rapports par courriel
    >
    >La sélection de votre région n&#39;affichera que les données et enverra des rapports par courriel relatifs aux organisations et aux personnes de la région définie.
 
-## Sélectionner des rapports de courriel {#select-email-reports}
+## Sélectionner les rapports par courriel {#select-email-reports}
 
-Sélectionnez le rapport [de](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) courriel à associer à votre utilisateur et la fréquence (quotidienne, hebdomadaire ou trimestrielle) d&#39;envoi du rapport.
+Sélectionnez le [rapport par courriel](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) à associer à votre utilisateur et la fréquence (quotidienne, hebdomadaire ou trimestrielle) d&#39;envoi du rapport.
 
 ![](assets/three.png)
 
 >[!NOTE]
 >
->Si vous cliquez sur **Enregistrer** , vous ne quitterez pas les Paramètres utilisateur. Pour quitter, cliquez sur le logo Marketo dans l’angle supérieur gauche et sélectionnez votre destination.
+>Si vous cliquez sur **Enregistrer**, vous ne quitterez pas les Paramètres utilisateur. Pour quitter, cliquez sur le logo Marketo dans l’angle supérieur gauche et sélectionnez votre destination.
 
 >[!MORELIKETHIS]
 >
