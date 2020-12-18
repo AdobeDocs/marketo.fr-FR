@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aperçu du type de rapport {#report-type-overview}
 
-Lorsque vous [créez un rapport dans un programme](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), choisissez le type de rapport souhaité.
+Lorsque vous [créez un rapport dans un programme](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), choisissez le type de rapport que vous souhaitez.
 
 ## Rapports les plus utilisés {#most-used-reports}
 
@@ -47,7 +47,7 @@ Lorsque vous [créez un rapport dans un programme](../../../../product-docs/repo
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapport d’étape Personnes par chiffre d’affaires</a>  </strong></td> 
-   <td>Rapports de base pour votre modèle <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">de</a>recettes. Voir Analyses <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">du cycle des</a> recettes pour en savoir plus sur les rapports.</td> 
+   <td>Rapports de base pour votre <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">modèle de recettes</a>. Voir <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analyses du cycle des recettes</a> pour en savoir plus sur les rapports.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Performances du landing page</a>  </strong></td> 
@@ -55,7 +55,7 @@ Lorsque vous [créez un rapport dans un programme](../../../../product-docs/repo
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Performances du programme</a>  </strong></td> 
-   <td>Mesures de programme de base telles que les membres et la réussite. Voir Analyses <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">du cycle des</a> recettes pour en savoir plus sur les rapports.</td> 
+   <td>Mesures de programme de base telles que les membres et la réussite. Voir <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analyses du cycle des recettes</a> pour en savoir plus sur les rapports.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">Activité Web société</a>  </strong></td> 
@@ -71,7 +71,7 @@ Lorsque vous [créez un rapport dans un programme](../../../../product-docs/repo
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Rapport sur les performances du flux d’engagement</a> </strong></td> 
-   <td><p>Découvrez comment votre programme <a href="http://docs.marketo.com/display/docs/drip+nurturing"></a> d’engagement fonctionne.</p></td> 
+   <td><p>Découvrez comment fonctionne votre <a href="http://docs.marketo.com/display/docs/drip+nurturing">programme d'engagement</a>.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -82,12 +82,12 @@ Pas aussi utile que les types de rapport ci-dessus, mais toujours disponible.
 
 | Rapport | Description |
 |---|---|
-| ** [Campaign Activité](campaign-activity-report.md) ** | Statistiques de traitement Campaign intelligent. |
-| ** Performances [des e-mails](campaign-email-performance-report.md) Campaign ** | Performances des courriers électroniques, regroupées par campagnes dynamiques. |
+| ** [Activité Campaign](campaign-activity-report.md) ** | Statistiques de traitement Campaign intelligent. |
+| ** [Performances du courriel Campaign](campaign-email-performance-report.md) ** | Performances des courriers électroniques, regroupées par campagnes dynamiques. |
 
 >[!NOTE]
 >
 >**Plongée profonde**
 >
->Pour voir toutes les actions possibles avec ces rapports, consultez la plongée en profondeur [Basic Rapports](http://docs.marketo.com/display/docs/basic+reporting) .
+>Pour voir toutes les actions possibles avec ces rapports, consultez la section [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting) plongée en profondeur.
 
