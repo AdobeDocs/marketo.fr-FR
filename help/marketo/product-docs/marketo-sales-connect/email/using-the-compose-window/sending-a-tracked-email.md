@@ -30,7 +30,7 @@ Lors de l’envoi d’un courrier électronique avec Marketing Connect, les vues
 
    ![](assets/one.png)
 
-1. Entrez le nom ou l’adresse électronique d’un destinataire dans le champ **À** .
+1. Entrez le nom ou l’adresse électronique d’un destinataire dans le champ **À**.
 
    ![](assets/two.png)
 
@@ -44,7 +44,7 @@ Lors de l’envoi d’un courrier électronique avec Marketing Connect, les vues
 
    >[!NOTE]
    >
-   >Si une personne qui a été titulaire d’un certificat ou d’un certificat d’enregistrement d’identité ouvre le courrier électronique, celui-ci sera enregistré comme vue dans l’enregistrement de la personne dans le champ **À** .
+   >Si une personne qui a été CC’d ou BCC’d ouvre le courrier électronique, celui-ci est enregistré comme vue sur l’enregistrement de la personne dans le champ **À**.
 
 1. Ajoutez un objet.
 
@@ -52,9 +52,9 @@ Lors de l’envoi d’un courrier électronique avec Marketing Connect, les vues
 
    >[!NOTE]
    >
-   >Un objet et un destinataire sont nécessaires pour envoyer le courriel. Nous enregistrerons **automatiquement votre brouillon** une fois qu&#39;une rubrique et un destinataire auront été ajoutés.
+   >Un objet et un destinataire sont nécessaires pour envoyer le courriel. Nous enregistrerons **automatiquement votre brouillon** une fois qu&#39;une ligne d&#39;objet et un destinataire auront été ajoutés.
 
-1. Composez votre courrier électronique à l’aide de l’éditeur. Cliquez sur **Envoyer** (ou [Planifier](http://docs.marketo.com/x/GAQ6Ag), si vous préférez) une fois terminé.
+1. Composez votre courrier électronique à l’aide de l’éditeur. Cliquez sur **Envoyer** (ou [Programmer](http://docs.marketo.com/x/GAQ6Ag), si vous préférez) une fois terminé.
 
    ![](assets/five.png)
 
