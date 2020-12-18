@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation des Transitions de modèles de recettes {#using-revenue-model-transitions}
+# Utilisation des Transitions de modèle de recettes {#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ Lorsque vous créez votre modèle et que vous sélectionnez et organisez vos ét
 
 ![](assets/one-2.png)
 
-1. Cliquez avec le bouton droit de la souris (vous pouvez également cliquer sur l’une des flèches en doublon) pour commencer, puis sélectionnez **Modifier la Transition**.
+1. Cliquez avec le bouton droit de la souris (vous pouvez également cliquer sur l’une des flèches) pour commencer, puis sélectionnez **Modifier la Transition**.
 
    ![](assets/two-2.png)
 
@@ -42,7 +42,7 @@ Lorsque vous créez votre modèle et que vous sélectionnez et organisez vos ét
 
    ![](assets/five-2.png)
 
-1. Pour revenir à votre modèle, cliquez sur **Modeler**.
+1. Pour revenir au modèle, cliquez sur **Modeler**.
 
    ![](assets/six.png)
 
