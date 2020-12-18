@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sécurisation du paramètre d’administration de l’Abonnement {#secure-the-subscription-admin-setting}
+# Sécuriser le paramètre d&#39;administration de l&#39;Abonnement {#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Un administrateur peut choisir de demander une connexion pour pouvoir vue un rapport.
 
-1. Cliquez sur **Admin**, puis sur Paramètres **de** connexion.
+1. Cliquez sur **Admin**, puis **Paramètres de connexion**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Cliquez sur **Modifier** pour Paramètres des rapports de Liste intelligente.
+1. Cliquez sur **Modifier** pour les paramètres des rapports de Liste intelligente.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
