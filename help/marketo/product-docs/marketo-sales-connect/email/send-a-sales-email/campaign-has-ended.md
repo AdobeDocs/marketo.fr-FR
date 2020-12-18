@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Campaign est terminé {#campaign-has-ended}
+# Campaign s&#39;est terminé {#campaign-has-ended}
 
 Si un message électronique s’affiche dans votre dossier Echec de la Diffusion et indique que la campagne est terminée, cela signifie que ce message particulier a été planifié dans votre campagne.
 
-## Raisons possibles de l&#39;échec {#possible-reasons-it-failed}
+## Raisons possibles de l&#39;échec de l&#39;opération {#possible-reasons-it-failed}
 
 * Le courriel avant de rebondir
 * Un contact a répondu et a mis fin à la campagne
