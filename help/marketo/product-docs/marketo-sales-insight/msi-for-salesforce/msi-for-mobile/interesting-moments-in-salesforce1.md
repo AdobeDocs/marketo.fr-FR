@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Moments intéressants à Salesforce1 {#interesting-moments-in-salesforce}
 
-[L&#39;utilisation de moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) intéressants est la clé de la communication avec votre équipe commerciale via l&#39;application Marketo Sales Insight. Maintenant, avec Marketo Sales Insight for Salesforce1, vous pouvez faire de même avec votre smartphone !
+[L&#39;utilisation de ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) Moments intéressants constitue la clé de la communication avec votre équipe commerciale via l&#39;application Marketing Cloud Sales Insight. Maintenant, avec Marketo Sales Insight for Salesforce1, vous pouvez faire de même avec votre smartphone !
 
 >[!AVAILABILITY]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Cliquez sur l’onglet **Associé** pour afficher Moments intéressants, Activité Web, Courrier électronique et Note.
+1. Cliquez sur l&#39;onglet **Associé** pour afficher Moments intéressants, Activité Web, courriel et note.
 
    ![](assets/two.png)
 
