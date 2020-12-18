@@ -28,7 +28,7 @@ Ce billet explique comment configurer des tableaux de bord RTP dans Google Unive
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. Sélectionnez Canevas **** vierge, ajoutez un nom **de** Tableau de bord, puis cliquez sur **Créer un Tableau de bord**.
+1. Sélectionnez **Canevas vierge**, ajoutez un **nom du Tableau de bord** et cliquez sur **Créer un Tableau de bord**.
 
 1. Cliquez sur **Ajouter le widget** pour créer un widget.\
    ![](assets/image2015-3-22-16-3a46-3a48.png)
@@ -139,7 +139,7 @@ Le tableau de bord se compose de 3 colonnes.
     <ul> 
      <li>Nom : Sessions et objectifs par principaux segments</li> 
      <li>Type : Tableau<br></li> 
-     <li>Affichez les colonnes suivantes : <br>Étiquette de événement | Sessions | Taux de conversion d'objectif</li> 
+     <li>Affichez les colonnes suivantes : <br>Étiquette de Événement | Sessions | Taux de conversion d'objectif</li> 
      <li>Filtre : <br>Afficher uniquement | Catégorie de Événement (contenant) RTP-Segments</li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
    <th> </th> 
@@ -157,7 +157,7 @@ Ce tableau de bord permet aux utilisateurs d’analyser les performances de leur
    * Engagé (impressions et clics sur une campagne personnalisée)
    * Clics sur le moteur de recommandation et le contenu recommandé le plus élevé
 
-Créez un nouveau tableau de bord appelé Tableau de bord **d’engagement** RTP et définissez les widgets suivants :
+Créez un nouveau tableau de bord appelé **Tableau de bord d’engagement RTP** et définissez les widgets suivants :
 
 ![](assets/image2015-3-22-17-3a7-3a19.png)
 
@@ -179,17 +179,17 @@ Créez un nouveau tableau de bord appelé Tableau de bord **d’engagement** RTP
   <tr> 
    <td> 
     <ul> 
-     <li>Nom : <strong>Total DEC (engagement)</strong></li> 
-     <li>Type : <strong>2.1 Mesure </strong></li> 
-     <li>Afficher la mesure suivante : <strong>Nombre total de Événements</strong></li> 
-     <li>Filtres:<br><strong>[afficher uniquement] Catégorie de Événement (contient) : RTP-Campagnes</strong><br><strong>[afficher uniquement] Action de Événement (correspondance exacte) : Impression</strong><strong>[n’affiche pas] Etiquette de Événement (contenant) : #</strong></li> 
+     <li>Nom : <strong>CTA total (engagement)</strong></li> 
+     <li>Type : <strong>Mesure 2.1 </strong></li> 
+     <li>Afficher la mesure suivante : <strong>Événements totaux</strong></li> 
+     <li>Filtres : <br><strong>[afficher uniquement] Catégorie de Événement (contient) : RTP-Campaigns</strong><br><strong>[afficher uniquement] l’action du Événement (correspondance exacte) : Impression</strong><strong>[n’affiche pas] Étiquette de Événement (contenant) : #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
      <li>Nom : <strong>Total CTA (Clics publicitaires)</strong></li> 
-     <li>Type : <strong>2.1 Mesure </strong></li> 
-     <li>Afficher la mesure suivante : <strong>Nombre total de Événements</strong></li> 
-     <li>Filtres:<br><strong>[afficher uniquement] Catégorie de Événement (contient) : RTP-Campagnes</strong><br><strong>[afficher uniquement] Action de Événement (correspondance exacte) : Clics</strong><strong>[ne pas afficher] Étiquette de Événement (contenant) : #</strong></li> 
+     <li>Type : <strong>Mesure 2.1 </strong></li> 
+     <li>Afficher la mesure suivante : <strong>Événements totaux</strong></li> 
+     <li>Filtres : <br><strong>[afficher uniquement] Catégorie de Événement (contient) : RTP-Campaigns</strong><br><strong>[afficher uniquement] l’action du Événement (correspondance exacte) : Cliquez sur </strong><strong>[n'affiche pas] Étiquette de Événement (contenant) : #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
@@ -203,41 +203,41 @@ Créez un nouveau tableau de bord appelé Tableau de bord **d’engagement** RTP
    <td colspan="1"> 
     <ul> 
      <li>Nom : <strong>Moy. Durée de la session (engagement)</strong></li> 
-     <li>Type : <strong>2.1 Mesure </strong></li> 
-     <li>Afficher la mesure suivante : <strong>Moy. Durée de la session</strong></li> 
-     <li>Filtres:<br><strong>[afficher uniquement] Catégorie de Événement (correspondant exactement à) : RTP-Campagnes</strong><br><strong>[afficher uniquement] Action de Événement (correspondance exacte) : impression</strong><strong>[ne pas afficher] Étiquette de Événement (contenant) : #</strong></li> 
+     <li>Type : <strong>Mesure 2.1 </strong></li> 
+     <li>Afficher la mesure suivante : <strong>Moy. Durée de session</strong></li> 
+     <li>Filtres : <br><strong>[afficher uniquement] Catégorie de Événement (correspondant exactement à) : RTP-Campaigns</strong><br><strong>[afficher uniquement] l’action du Événement (correspondance exacte) : impression</strong><strong>[ne pas afficher] Étiquette de Événement (contenant) : #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Nom : <strong>Moy. Durée de la session (clic publicitaire)</strong></li> 
-     <li>Type : <strong>2.1 Mesure </strong></li> 
-     <li>Afficher la mesure suivante : <strong>Moy. Durée de la session</strong></li> 
-     <li>Filtres:<br><strong>[afficher uniquement] Catégorie de Événement (correspondant exactement à) : RTP-Campagnes</strong><br><strong>[afficher uniquement] Action de Événement (correspondance exacte) : clics</strong><strong>[ne pas afficher] Étiquette de Événement (contenant) : #</strong></li> 
+     <li>Type : <strong>Mesure 2.1 </strong></li> 
+     <li>Afficher la mesure suivante : <strong>Moy. Durée de session</strong></li> 
+     <li>Filtres : <br><strong>[afficher uniquement] Catégorie de Événement (correspondant exactement à) : RTP-Campaigns</strong><br><strong>[afficher uniquement] l’action du Événement (correspondance exacte) : clics</strong><strong>[ne pas afficher] Étiquette de Événement (contenant) : #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
-     <li>Nom : <strong>CRE - Contenu le plus recommandé</strong></li> 
+     <li>Nom : <strong>CRE - Principaux contenus recommandés</strong></li> 
      <li>Type : <strong>Tableau</strong><br></li> 
      <li>Affichez les colonnes suivantes : <br><strong>Titre de la page | Pages vues</strong><br></li> 
-     <li>Filtres:<br>Filtre : <strong>[afficher uniquement] Page (contenant) : rcmd</strong></li> 
+     <li>Filtres : <br>Filtre : <strong>[afficher uniquement] Page (contenant) : rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <td> 
     <ul> 
-     <li>Nom : <strong>Pages / Session (engagement)</strong></li> 
-     <li>Type : <strong>2.1 Mesure </strong></li> 
+     <li>Nom : <strong>Pages / Session (Engagement)</strong></li> 
+     <li>Type : <strong>Mesure 2.1 </strong></li> 
      <li>Afficher la mesure suivante : <strong>Pages / Session</strong></li> 
-     <li>Filtres:<br><strong>[afficher uniquement] Catégorie de Événement (correspondant exactement à) : Campagnes RTP</strong></li> 
+     <li>Filtres : <br><strong>[afficher uniquement] Catégorie de Événement (correspondant exactement à) : RTP-Campaigns</strong></li> 
      <li><strong>[afficher uniquement] Action de Événement (correspondance exacte) : impression</strong></li> 
      <li><strong>[ne pas afficher] Étiquette de Événement (contenant) : #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Nom : <strong>Pages / Session (Clics publicitaires)</strong></li> 
-     <li>Type : <strong>2.1 Mesure </strong></li> 
+     <li>Type : <strong>Mesure 2.1 </strong></li> 
      <li>Afficher la mesure suivante : <strong>Pages / Session</strong></li> 
-     <li>Filtres:<br><strong>[afficher uniquement] Catégorie de Événement (correspondant exactement à) : Campagnes RTP</strong></li> 
+     <li>Filtres : <br><strong>[afficher uniquement] Catégorie de Événement (correspondant exactement à) : RTP-Campaigns</strong></li> 
      <li><strong>[afficher uniquement] Action de Événement (correspondance exacte) : clics</strong></li> 
      <li><strong>[ne pas afficher] Étiquette de Événement (contenant) : #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
@@ -248,15 +248,15 @@ Créez un nouveau tableau de bord appelé Tableau de bord **d’engagement** RTP
     <ul> 
      <li>Nom : <strong>Impressions par CTA</strong></li> 
      <li>Type : <strong>Tableau</strong></li> 
-     <li>Affichez les colonnes suivantes : <strong>Étiquette de événement | Total des Événements | Utilisateurs</strong></li> 
-     <li>Filtres:<br><strong>[afficher uniquement] Catégorie de Événement (correspondant exactement à) : RTP-Campagnes</strong><br><strong>[afficher uniquement] Action de Événement (correspondance exacte) : impression</strong><strong>[ne pas afficher] Étiquette de Événement (contenant) : #</strong></li> 
+     <li>Affichez les colonnes suivantes : <strong>Étiquette de Événement | Total des Événements | Utilisateurs</strong></li> 
+     <li>Filtres : <br><strong>[afficher uniquement] Catégorie de Événement (correspondant exactement à) : RTP-Campaigns</strong><br><strong>[afficher uniquement] l’action du Événement (correspondance exacte) : impression</strong><strong>[ne pas afficher] Étiquette de Événement (contenant) : #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Nom : <strong>Clics publicitaires par CTA</strong></li> 
      <li>Type : <strong>Tableau</strong></li> 
-     <li>Affichez les colonnes suivantes : <strong>Étiquette de événement | Total des Événements | Utilisateurs</strong></li> 
-     <li>Filtres:<br><strong>[afficher uniquement] Catégorie de Événement (correspondant exactement à) : RTP-Campagnes</strong><br><strong>[afficher uniquement] Action de Événement (correspondance exacte) : clics</strong></li> 
+     <li>Affichez les colonnes suivantes : <strong>Étiquette de Événement | Total des Événements | Utilisateurs</strong></li> 
+     <li>Filtres : <br><strong>[afficher uniquement] Catégorie de Événement (correspondant exactement à) : RTP-Campaigns</strong><br><strong>[afficher uniquement] l’action du Événement (correspondance exacte) : clics</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 
