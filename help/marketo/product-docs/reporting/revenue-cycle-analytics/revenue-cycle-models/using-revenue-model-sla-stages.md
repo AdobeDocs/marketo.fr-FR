@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation des étapes de l&#39;accord de niveau de service (SLA) du modèle de recettes {#using-revenue-model-sla-stages}
+# Utilisation des étapes SLA du modèle de recettes {#using-revenue-model-sla-stages}
 
 SLA signifie &quot;contrat de niveau de service&quot;. Ces étapes sont utilisées lorsqu&#39;il existe un délai maximal défini dans lequel une piste doit être évaluée ou traitée avant de progresser ou de sortir du processus.
 
@@ -21,11 +21,11 @@ SLA signifie &quot;contrat de niveau de service&quot;. Ces étapes sont utilisé
 
 ## Ajouter une étape SLA {#add-an-sla-stage}
 
-1. Pour ajouter une nouvelle étape SLA de modèle de cycle de revenus, cliquez sur le bouton **Analytics** dans l’écran d’accueil Mon marketing.
+1. Pour ajouter une nouvelle étape SLA de modèle de cycle de revenus, cliquez sur le bouton **Analyses** de l’écran d’accueil Mon marketing.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Dans la section Analytics, sélectionnez votre modèle existant ou [créez-en un nouveau](create-a-new-revenue-model.md).
+1. Dans la section Analytics, sélectionnez votre modèle existant ou [créez-en un nouveau ](create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
@@ -33,17 +33,17 @@ SLA signifie &quot;contrat de niveau de service&quot;. Ces étapes sont utilisé
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Pour ajouter une nouvelle étape SLA, cliquez sur le bouton **SLA** , puis faites glisser la souris et relâchez-la jusqu’à n’importe quel emplacement dans la trame.
+1. Pour ajouter une nouvelle étape SLA, cliquez sur le bouton **SLA**, puis faites glisser la souris et relâchez-la jusqu&#39;à n&#39;importe quel emplacement du canevas.
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Vous pouvez modifier le **nom**, ajouter une **description** et modifier le **type** après avoir ajouté une étape. Vous pouvez également sélectionner le suivi des [Débuts par compte](start-tracking-by-account-in-the-revenue-modeler.md)** pour le moment.
+1. Vous pouvez modifier le **nom**, ajouter une **description** et modifier le **type** après avoir ajouté une étape. Vous pouvez également sélectionner ** [Suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md)** pour le moment.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
 ## Modifier une étape SLA {#edit-an-sla-stage}
 
-Lorsque vous sélectionnez une icône d&#39;étape SLA, vous pouvez modifier le nom, ajouter une description et modifier le type. Vous pouvez également sélectionner Suivi des [Débuts par compte](start-tracking-by-account-in-the-revenue-modeler.md).
+Lorsque vous sélectionnez une icône d&#39;étape SLA, vous pouvez modifier le nom, ajouter une description et modifier le type. Vous pouvez également sélectionner [Suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Cliquez sur une icône d’étape SLA.
 
@@ -57,7 +57,7 @@ Lorsque vous sélectionnez une icône d&#39;étape SLA, vous pouvez modifier le 
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 
-## Suppression d’une étape SLA {#delete-an-sla-stage}
+## Supprimer Une Étape SLA {#delete-an-sla-stage}
 
 1. Vous pouvez supprimer une étape SLA en cliquant avec le bouton droit de la souris ou en contrôlant la sélection d&#39;une icône de l&#39;étape SLA.
 
