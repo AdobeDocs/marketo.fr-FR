@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# Insertion de champs dynamiques {#how-to-insert-dynamic-fields}
+# Comment insérer des champs dynamiques {#how-to-insert-dynamic-fields}
 
 Nous vous permettons de personnaliser vos modèles de courrier électronique avec des attributs prédéfinis tels que `{{first_name}}` ou `{{company}}`. Ces champs vous permettent d’envoyer plusieurs contacts par courrier électronique et de les renseigner automatiquement sans avoir à les entrer séparément pour chaque contact.
 
 >[!TIP]
 >
->Les champs &quot;prénom&quot; et &quot;société&quot; sont les champs `only fields that will look to both Sales Connect and Salesforce.` Cela signifie que si un contact n&#39;existe pas dans l&#39;application [](http://toutapp.com/login)Web, nous recherchons dans Salesforce si nous pouvons trouver un enregistrement de contact/piste avec une adresse électronique correspondante. Nous utilisons ensuite les informations de ce dossier pour remplir le champ.
+>Les champs &quot;prénom&quot; et &quot;société&quot; sont les champs `only fields that will look to both Sales Connect and Salesforce.` Ce qui signifie que si un contact n&#39;existe pas dans l&#39;application [Web ](http://toutapp.com/login), nous recherchons dans Salesforce si nous pouvons trouver un enregistrement de contact/prospect avec une adresse électronique correspondante. Nous utilisons ensuite les informations de ce dossier pour remplir le champ.
 
 ## Insérer un champ dynamique dans un modèle {#insert-a-dynamic-field-into-a-template}
 
-1. Dans **Modèles et campagnes**, recherchez le modèle à modifier, puis cliquez sur **Modifier le modèle**.
-1. Cliquez sur **Tout champ** dynamique.
+1. Dans **Modèles et campagnes**, recherchez le modèle à modifier et cliquez sur **Modifier le modèle**.
+1. Cliquez sur **Tout champs dynamiques**.
 
    >[!NOTE]
    >
