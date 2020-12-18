@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Conformité aux règles de la connexion commerciale et du RGPD {#sales-connect-and-gdpr-compliance}
+# Conformité à la norme Sales Connect et GDPR {#sales-connect-and-gdpr-compliance}
 
 Le Règlement général sur la protection des données (RGPD) est une législation européenne en matière d&#39;Union qui est entrée en vigueur le 25 mai 2018.
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Son objectif est de renforcer les droits des personnes concernées au sein de l&#39;Union européenne (UE) et de l&#39;Espace économique européen (EEE) en ce qui concerne l&#39;utilisation et la protection de leurs données à caractère personnel. &quot;Données personnelles&quot; désigne toute information relative à une personne physique identifiée ou identifiable.
 
@@ -43,7 +43,7 @@ Les spécialistes du marketing doivent examiner les pratiques passées, actuelle
 
 Nous fournissons des informations complètes sur le consentement et la responsabilité au sein de la plate-forme Marketo dans notre livre électronique, [GDPR et The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). Dans cet article, cependant, nous nous concentrerons spécifiquement sur les nouvelles fonctionnalités de Marketo Sales Connect qui aideront votre entreprise à se conformer aux règles du RGMD.
 
-## Conformité aux RDCM dans Marketing Connect Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
+## Conformité aux RGD dans Marketing Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
 Marketo Sales Connect est une application puissante, qui fait partie de la plate-forme d’engagement marketing, qui fournit un workflow et une vue uniques pour les ventes et le marketing afin de stimuler collectivement le pipeline plus rapidement grâce à l’engagement collaboratif. De nouvelles fonctionnalités de Marketing Connect Sales Connect ont été créées spécifiquement en tenant compte de la conformité aux RGMD. Nous présenterons les trois fonctions et expliquerons comment elles, lorsqu’elles seront utilisées correctement, aideront votre organisation à respecter les RGMD.
 
@@ -118,7 +118,7 @@ Après avoir sélectionné le type de source correct pour vos contacts sélectio
 
 ![](assets/12.png)
 
-## Exportation des données de contact à partir de Marketing Connect Sales {#exporting-contact-data-from-marketo-sales-connect}
+## Exportation des données de contact à partir de Marketing Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
 
 Vous pouvez exporter des informations de contact à partir de la Vue Détails de la personne. L’exportation télécharge un fichier .CSV avec les colonnes suivantes :
 
@@ -172,17 +172,17 @@ Pour exporter les coordonnées, cliquez sur les trois points verticaux de l’en
 >
 >Le RGPD nécessite également la possibilité de supprimer des contacts de l’interface utilisateur, mais Marketing Connect possède déjà cette fonctionnalité.
 
-## Désabonnements {#unsubscribes}
+## Désabonne {#unsubscribes}
 
 Un domaine souvent mal compris du RGMD concerne les contacts qui se désabonnent de la base de données de l’organisation. Afin de respecter les nouvelles règles relatives à la protection des données des personnes qui choisissent de se désabonner, les fonctionnalités suivantes ont été incluses dans Marketing Cloud Sales Connect :
 
-**Liens de désabonnement :** Les liens de désabonnement seront automatiquement ajoutés à tous les courriers électroniques envoyés à partir de l&#39;application Web Sales Connect afin de garantir que les contacts disposent d&#39;un moyen accessible de s&#39;exclure.\
-**Désabonner la synchronisation :** Les utilisateurs peuvent synchroniser les désabonnements à et à leur gestion de la relation client (Salesforce) pour s’assurer que les exclusions sont à jour.\
-**Historique de désabonnement :** Les utilisateurs peuvent consulter l’historique des exclusions et des inclusions dans la Vue Détails sur la personne.\
-**Désabonner la suppression :** Pour réactiver un contact désabonné, l’utilisateur doit disposer de privilèges d’administrateur et prouver qu’il a donné son consentement à les contacter.
+**Liens de désabonnement : les liens de** désabonnement seront automatiquement ajoutés à tous les courriers électroniques envoyés à partir de l&#39;application Web Sales Connect afin de s&#39;assurer que les contacts disposent d&#39;un moyen accessible de désabonnement.\
+**Désabonner la synchronisation :** les utilisateurs peuvent synchroniser les désabonnements à et à leur gestion de la relation client (Salesforce) pour s’assurer que les exclusions sont à jour.\
+**Historique de désabonnement :** les utilisateurs peuvent consulter l’historique des exclusions et des inscriptions dans la Vue Détails sur la personne.\
+**Désabonner la suppression :** Pour réactiver un contact désabonné dans, l&#39;utilisateur doit disposer de privilèges d&#39;administrateur et prouver qu&#39;il a donné son nouveau consentement à les contacter.
 
 ## Mises à jour futures {#future-updates}
 
-En tant que défenseur enthousiaste du pouvoir et de la centricité de l&#39;économie de l&#39;engagement sur le plan client, Marketo comprend l&#39;importance de mettre la vie privée et la protection des données entre les mains de la personne concernée. Comme pour d&#39;autres lois sur la protection des données, la conformité aux RGD requiert l&#39;engagement de Marketo et de nos clients. Cet article est destiné à vous aider à utiliser Marketing de manière appropriée pour soutenir la conformité aux RGD de votre organisation.
+En tant que défenseur enthousiaste du pouvoir et de la centricité de l&#39;économie de l&#39;engagement sur le plan de la clientèle, Marketo comprend l&#39;importance de mettre la vie privée et la protection des données entre les mains de la personne concernée. Comme pour d&#39;autres lois sur la protection des données, la conformité aux RGD requiert l&#39;engagement de Marketo et de nos clients. Cet article est destiné à vous aider à utiliser Marketing de manière appropriée pour soutenir la conformité aux RGD de votre organisation.
 
-Nous continuerons de suivre de près les directives pertinentes sur les RMR émises par les organismes de réglementation et les lois connexes. Les mises à jour seront publiées sur notre Centre de gestion de la confidentialité à [trust.marketo.com](http://trust.marketo.com).
+Nous continuerons de suivre de près les directives pertinentes sur les RMR émises par les organismes de réglementation et les lois connexes. Les mises à jour seront publiées dans notre Centre de gestion de la confidentialité à [trust.marketo.com](http://trust.marketo.com).
