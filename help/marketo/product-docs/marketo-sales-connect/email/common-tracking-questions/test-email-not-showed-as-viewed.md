@@ -19,7 +19,7 @@ La raison ? Sales Connect est intelligent, et nos principaux utilisateurs ne nou
 
 Voici comment arriver au seul endroit où nous montrerons l&#39;auto-suivi.
 
-1. Accédez au Centre de [commandes](http://toutapp.com/next#emails/command_center).
+1. Accédez au [Centre de commandes](http://toutapp.com/next#emails/command_center).
 1. Recherchez le courrier électronique que vous avez envoyé dans le dossier Envoyé et sélectionnez-le.
-1. Cliquez sur le bouton **Détails** . Vous devriez voir vos propres vues s&#39;y montrer.
+1. Cliquez sur le bouton **Détails**. Vous devriez voir vos propres vues s&#39;y montrer.
 
