@@ -5,8 +5,8 @@ title: Activer les URL personnalisées pour votre compte
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Cochez la case **Activer les URL** personnalisées et cliquez sur **Enregistrer**.
+1. Cochez la case **Activer les URL personnalisées** et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
