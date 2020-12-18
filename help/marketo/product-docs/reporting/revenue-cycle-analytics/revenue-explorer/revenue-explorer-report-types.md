@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Types de rapports de l’Explorateur de recettes {#revenue-explorer-report-types}
+# Types de rapports de l&#39;Explorateur de recettes {#revenue-explorer-report-types}
 
 Voici les types de rapports que vous rencontrerez si vous utilisez l’analyse du cycle des recettes.
 
