@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation de la désinscription {#unsubscribe-overview}
+# Désabonner l&#39;aperçu {#unsubscribe-overview}
 
 Il devient de plus en plus important pour les entreprises de se conformer aux lois sur la confidentialité des messages électroniques. Pour vous aider, nous avons apporté quelques améliorations à notre expérience de désabonnement.
 
