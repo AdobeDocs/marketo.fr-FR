@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Définition des besoins en partage sur les réseaux sociaux {#set-social-share-requirement}
+# Définition de la condition de partage sur les réseaux sociaux {#set-social-share-requirement}
 
-Lorsque vous [créez une offre](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)de référence, vous pouvez demander à des personnes de partager l’offre pour s’inscrire ou la rendre facultative.
+Lorsque vous [créez une offre de référence](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez demander à des personnes de partager l&#39;offre pour s&#39;inscrire ou la rendre facultative.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/ma-1.png)
 
@@ -23,7 +23,7 @@ Lorsque vous [créez une offre](../../../../product-docs/demand-generation/socia
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. Dans l’éditeur d’offres de référence, accédez aux Paramètres **de l’** application, puis aux Étapes **de flux d’** inscription.
+1. Dans l’éditeur d’offres de référence, accédez à **Paramètres de l’application**, puis **Procédure de flux d’inscription**.
 
    ![](assets/three.png)
 
@@ -31,10 +31,10 @@ Lorsque vous [créez une offre](../../../../product-docs/demand-generation/socia
 
    ![](assets/four.png)
 
-   * **Capture de la personne > Partager**: Une personne peut ignorer le partage et simplement s&#39;inscrire.
+   * **Capture de la personne > Partager** : Une personne peut ignorer le partage et simplement s&#39;inscrire.
    * **Partager > Capture** de personne : La personne doit partager pour s&#39;inscrire.
 
-1. Pour chaque option, voir la prévisualisation dans la fenêtre **Vue et modification** .
+1. Pour chaque option, voir la prévisualisation dans la fenêtre **Vue et modification**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
 
