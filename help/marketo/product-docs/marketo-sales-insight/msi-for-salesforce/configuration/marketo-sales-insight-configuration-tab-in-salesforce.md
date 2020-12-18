@@ -53,7 +53,7 @@ Les configurations sont applicables à tous les utilisateurs MSI et ne sont pas 
 * L’Activité (moment intéressant, Activité Web, courriel) est définie sur 1 000 par défaut. Par défaut, les campagnes et Événements par courriel sont définis sur 200
 * Si vous constatez des problèmes de délai d’expiration sur votre organisation, vous pouvez réduire la limite
 
-## Réinitialiser les statistiques commerciales de marketing {#reset-marketo-sales-insight}
+## Réinitialiser l&#39;aperçu commercial de Marketo {#reset-marketo-sales-insight}
 
 Si vous le faites, toutes vos configurations seront effacées dans SFDC et elles ne peuvent pas être restaurées. Vous devrez tout reconfigurer.
 
