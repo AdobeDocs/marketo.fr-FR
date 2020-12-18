@@ -19,4 +19,4 @@ Si nous avons trouvé un mauvais endroit pour vos destinataires, voici trois pos
 
 -Si votre courriel a été transféré ou ouvert par une personne du champ CC ou CC, nous essayons d&#39;afficher précisément l&#39;emplacement de ces personnes.
 
-Dans l&#39;ensemble, nous allons déterminer les emplacements aussi précisément que possible en fonction du suivi IP, mais malheureusement `isn't an exact science`.
+Dans l&#39;ensemble, nous allons déterminer les emplacements aussi précisément que possible en fonction du suivi IP, mais malheureusement il est `isn't an exact science`.
