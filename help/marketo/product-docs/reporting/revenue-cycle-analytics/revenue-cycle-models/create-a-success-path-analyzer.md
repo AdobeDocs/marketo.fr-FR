@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Création d’un analyseur de chemins de réussite {#create-a-success-path-analyzer}
+# Créer un analyseur de chemin de réussite {#create-a-success-path-analyzer}
 
-Obtenez une représentation visuelle de la vitesse et du flux dans votre modèle [de cycle de](http://docs.marketo.com/display/docs/revenue+cycle+analytics)revenu.
+Obtenez une représentation visuelle de la vitesse et du flux dans votre [Modèle de cycle de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
 >[!PREREQUISITES]
 >
@@ -29,7 +29,7 @@ Obtenez une représentation visuelle de la vitesse et du flux dans votre modèle
 
    >[!NOTE]
    >
-   >Si vous recevez un avertissement indiquant qu’aucune donnée n’a été trouvée dans la période spécifiée, cliquez simplement sur **Fermer** pour modifier la période. Si vous n&#39;êtes pas invité à modifier votre période, accédez à **Configuration** et cliquez sur le doublon *******Période**.
+   >Si vous recevez un avertissement indiquant qu’aucune donnée n’a été trouvée dans la période spécifiée, cliquez simplement sur **Fermer** pour modifier la période. Si vous n’êtes pas invité à le faire, mais que vous souhaitez modifier votre période, accédez à **Configuration** et cliquez sur le doublon** ****Période**.
 
 1. Si vous n’aviez aucune donnée ou que vous modifiez votre période, sélectionnez-en une dans la liste déroulante et cliquez sur Enregistrer.
 
@@ -37,7 +37,7 @@ Obtenez une représentation visuelle de la vitesse et du flux dans votre modèle
 
    >[!TIP]
    >
-   >Pour sélectionner une plage spécifique, sélectionnez **Personnalisé** et utilisez les champs **De** et **À** .
+   >Pour sélectionner une plage spécifique, sélectionnez **Personnalisé** et utilisez les champs **De** et **À**.
 
 1. Si vous avez plusieurs modèles de cycle de recettes, sélectionnez celui que vous souhaitez dans l&#39;onglet Configuration.
 
@@ -55,7 +55,7 @@ Maintenant, vous pouvez explorer le mouvement de chaque étape à la suivante !
 
 >[!TIP]
 >
->Voulez-vous enregistrer votre rapport ? Cliquez sur la liste déroulante Actions **** Analyzer et sélectionnez **Enregistrer sous**.
+>Voulez-vous enregistrer votre rapport ? Cliquez sur la liste déroulante **Actions Analyzer** et sélectionnez **Enregistrer sous**.
 
 >[!NOTE]
 >
