@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Favori d’un modèle {#favorite-a-template}
+# Favori d&#39;un modèle {#favorite-a-template}
 
 Vous pouvez ajouter des modèles de n’importe quelle catégorie à votre liste Favoris. Cela génère automatiquement une nouvelle catégorie en haut de votre liste afin que vous puissiez accéder rapidement aux modèles que vous utilisez le plus souvent.
 
