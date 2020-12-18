@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Filtrage des ressources dans les rapports par courriel Campaign {#filter-assets-in-a-campaign-email-reports}
+# Filtrage des ressources dans des rapports de messagerie Campaign {#filter-assets-in-a-campaign-email-reports}
 
-Concentrez votre rapport Performance [de courriel](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) Campaign sur des campagnes [](http://docs.marketo.com/display/docs/smart+campaigns) intelligentes spécifiques dans vos programmes (ressources locales) ou sur celles qui ont été archivées.
+Concentrez votre rapport [Performances des courriels de Campaign](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) sur des [campagnes dynamiques](http://docs.marketo.com/display/docs/smart+campaigns) spécifiques dans vos programmes (&quot;ressources locales&quot;) ou sur celles qui ont été archivées.
 
-1. Accédez à la zone **Analytics **(ou Activités **** marketing).
+1. Accédez à la zone **Analytics **(ou **Activités marketing**).
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -23,11 +23,11 @@ Concentrez votre rapport Performance [de courriel](../../../../product-docs/repo
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Cliquez sur l’onglet **Configuration** et faites glisser le pointeur sur un filtre.
+1. Cliquez sur l&#39;onglet **Configuration** et faites glisser le pointeur sur un filtre.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **Campagnes**: Principales campagnes intelligentes dans votre compte Marketo.
+   * **Campagnes** : Principales campagnes intelligentes dans votre compte Marketo.
    * **Campagnes** archivées : Campagnes intelligentes inactives et à la retraite.
 
 1. Sélectionnez les dossiers et les campagnes dynamiques spécifiques à inclure dans votre rapport.
@@ -38,7 +38,7 @@ Concentrez votre rapport Performance [de courriel](../../../../product-docs/repo
    >
    >Si vous sélectionnez un dossier, votre rapport inclura tout ce qu&#39;il contient au moment de son exécution.
 
-1. Vous avez fini ! Cliquez sur l’onglet **Rapport** pour afficher votre rapport filtré.
+1. Vous avez fini ! Cliquez sur l&#39;onglet **Rapport** pour afficher votre rapport filtré.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
@@ -57,5 +57,5 @@ Concentrez votre rapport Performance [de courriel](../../../../product-docs/repo
    >**Plongée profonde**
    >
    >
-   >En savoir plus sur les rapports dans le Rapports [de](http://docs.marketo.com/display/docs/basic+reporting)base.
+   >Découvrez tous les rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
