@@ -23,7 +23,7 @@ Le rapport Résumé est une vue mensuelle de toutes les campagnes et des perform
 >
 >Conversion assistée : Visiteur Web qui remplit n’importe quel formulaire du site Web et laisse son adresse électronique. Lors d’une précédente visite (au cours des 6 derniers mois), il a cliqué sur une campagne personnalisée ou sur un fichier de contenu recommandé.
 
-Dans Personnalisation Web,** **accédez au rapport **** Analytics **et** Résumé.   ![](assets/image2016-4-6-10-3a15-3a58.png)
+Dans Personnalisation Web,** **accédez à **Analyses** et **Rapport de synthèse**.   ![](assets/image2016-4-6-10-3a15-3a58.png)
 
 Sélectionnez** Mois** et cliquez sur **Afficher le rapport**.
 
@@ -31,23 +31,23 @@ Sélectionnez** Mois** et cliquez sur **Afficher le rapport**.
 
 La première partie du rapport porte sur les campagnes de personnalisation Web personnalisée et s’affiche :
 
-* **Clics** - tous les clics sur les campagnes de personnalisation Web
+* **Clics**  : tous les clics sur les campagnes de personnalisation Web
 * **Conversions directes **- tous les visiteurs qui ont cliqué sur une campagne de personnalisation Web au cours de la visite et rempli un formulaire
-* **Taux de conversion** direct : pourcentage de visiteurs qui sont devenus une piste directe après avoir cliqué sur une campagne de personnalisation Web. Lignes directes divisées par des clics
-* **Conversions** assistées : tous les visiteurs qui ont rempli un formulaire et cliqué sur une campagne de personnalisation Web lors d’une précédente visite (au cours des 6 derniers mois)
-* **Conseils** : conseils pour optimiser les performances de vos campagnes de personnalisation Web
-* **Principales campagnes** : les campagnes les plus performantes au cours de la période sélectionnée, classées par nombre de clics
+* **Taux de conversion**  direct : pourcentage de visiteurs qui sont devenus une piste directe après avoir cliqué sur une campagne de personnalisation Web. Lignes directes divisées par des clics
+* **Conversions**  assistées : tous les visiteurs qui ont rempli un formulaire et cliqué sur une campagne de personnalisation Web lors d’une précédente visite (au cours des 6 derniers mois)
+* **Conseils**  : conseils pour optimiser les performances de vos campagnes de personnalisation Web
+* **Principales campagnes**  : les campagnes les plus performantes au cours de la période sélectionnée, classées par nombre de clics
 
 ![](assets/3.png)
 
 La deuxième partie du rapport porte sur le moteur de recommandation Contenu recommandé de la personnalisation Web. Il affiche :
 
-* **Clics** - tous les clics sur le contenu recommandé de la personnalisation Web
+* **Clics**  : tous les clics sur la personnalisation Web le contenu recommandé
 * **Conversions directes **- tous les visiteurs qui ont cliqué sur le contenu recommandé au cours de leur visite et rempli un formulaire
-* **Taux de conversion** direct : pourcentage de visiteurs qui sont devenus une piste directe après avoir cliqué sur le contenu recommandé. Lignes directes divisées par des clics
+* **Taux de conversion**  direct : pourcentage de visiteurs qui sont devenus une piste directe après avoir cliqué sur le contenu recommandé. Lignes directes divisées par des clics
 * **Conversions assistées ** - tous les visiteurs qui ont rempli un formulaire et cliqué sur le contenu recommandé lors d’une précédente visite (au cours des 6 derniers mois)
-* **Conseils** - Conseils pour optimiser l’utilisation du moteur de recommandation de contenu
-* **Recommendations** haut de gamme : le contenu recommandé le plus performant au cours de la période sélectionnée, trié par nombre de clics
+* **Conseils**  : conseils pour optimiser l&#39;utilisation du moteur de recommandation de contenu
+* **Recommendations**  supérieure : le contenu recommandé le plus performant au cours de la période sélectionnée, trié par nombre de clics
 
 >[!NOTE]
 >
