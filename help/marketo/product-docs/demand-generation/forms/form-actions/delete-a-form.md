@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’un formulaire {#delete-a-form}
+# Supprimer un formulaire {#delete-a-form}
 
 Si vous disposez d’un formulaire dont vous n’avez pas besoin et qui n’est pas utilisé, vous pouvez le supprimer. Voici comment.
 
@@ -23,7 +23,7 @@ Si vous disposez d’un formulaire dont vous n’avez pas besoin et qui n’est 
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Sous **Actions** de formulaire **, cliquez sur** Supprimer **** **le formulaire.**
+1. Sous **Formulaire** **Actions**, cliquez sur **Supprimer** **Formulaire**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -44,5 +44,5 @@ Si vous disposez d’un formulaire dont vous n’avez pas besoin et qui n’est 
 
 >[!CAUTION]
 >
->Si vous supprimez un formulaire utilisé par votre site Web public, aucun avertissement ne s’affiche et le formulaire est rompu. Envisagez plutôt [de l&#39;archiver](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) .
+>Si vous supprimez un formulaire utilisé par votre site Web public, aucun avertissement ne s’affiche et le formulaire est rompu. Envisagez plutôt [de l&#39;archiver](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
 
