@@ -21,13 +21,13 @@ Suivez les étapes ci-dessous pour configurer MPI.
 
    ![](assets/admin.png)
 
-1. Cliquez sur **Recettes Cycle Analytics**.
+1. Cliquez sur **Analyses du cycle de recettes**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Si vous n’avez pas d’autorité de certification, vous devez sélectionner Analyse **** Programme pour l’étape 2.
+   >Si vous n’avez pas d’autorité de certification régionale, vous devez sélectionner **Analyse de Programme** pour l’étape 2.
 
 1. Sous Attribution, cliquez sur **Modifier**.
 
@@ -59,7 +59,7 @@ Suivez les étapes ci-dessous pour configurer MPI.
 
 Mettez à jour les coûts du programme pendant au moins 12 mois. Vous pouvez effectuer cette opération manuellement ou à l’aide de l’API de programme. Dans cet exemple, nous le faisons manuellement.
 
-1. Cliquez sur Activités **** marketing.
+1. Cliquez sur **Activités marketing**.
 
    ![](assets/ma.png)
 
@@ -67,11 +67,11 @@ Mettez à jour les coûts du programme pendant au moins 12 mois. Vous pouvez eff
 
    ![](assets/select-program.png)
 
-1. Cliquez sur l’onglet **Configuration** .
+1. Cliquez sur l&#39;onglet **Configuration**.
 
    ![](assets/setup-tab.png)
 
-1. Faites glisser le coût **** de la période sur le canevas.
+1. Faites glisser **Coût de la période** sur le canevas.
 
    ![](assets/period-cost.png)
 
@@ -93,7 +93,7 @@ Ensuite, passez en revue le comportement des analyses pour indiquer si un canal 
 
    ![](assets/tags.png)
 
-1. Cliquez sur le **+** pour développer la liste de Canal.
+1. Cliquez sur **+** pour développer la liste de Canal.
 
    ![](assets/channel.png)
 
@@ -101,7 +101,7 @@ Ensuite, passez en revue le comportement des analyses pour indiquer si un canal 
 
    ![](assets/channel-click.png)
 
-1. Cliquez sur la liste déroulante Comportement **** Analytics et sélectionnez le comportement de votre choix.
+1. Cliquez sur la liste déroulante **Comportement Analytics** et sélectionnez le comportement souhaité.
 
    ![](assets/edit-channel.png)
 
