@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation de l’onglet Contenu {#understanding-the-content-tab}
+# Présentation de l&#39;onglet Contenu {#understanding-the-content-tab}
 
 L’onglet Contenu traite de l’engagement de votre équipe par courrier électronique lors de l’utilisation d’un modèle. Nous créons automatiquement trois mesures que nous estimons importantes.
 
