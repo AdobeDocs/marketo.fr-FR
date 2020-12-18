@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Modifier une Campaign Web existante {#edit-an-existing-web-campaign}
 
-1. Accédez à Campagnes **** Web.
+1. Accédez à **Campagnes Web**.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. Dans la page Campagnes **** Web, cliquez sur **Modifier **sur la campagne à modifier.
+1. Sur la page **Campagnes Web**, cliquez sur **Modifier **sur la campagne à modifier.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne Web de votre choix, utilisez la fonction [de](filter-web-campaigns.md)filtrage.
+   >Pour faciliter la recherche de la campagne Web de votre choix, utilisez la fonction de filtrage [](filter-web-campaigns.md).
 
 >[!MORELIKETHIS]
 >
 >* [Suppression d’une Campaign Web](delete-a-web-campaign.md)
->* [Lancement/mise en pause d’une](launch-pause-a-web-campaign.md) [Campaign](launch-pause-a-web-campaign.md)
+>* [Lancer/Suspendre ](launch-pause-a-web-campaign.md) [une campagne](launch-pause-a-web-campaign.md)
 
 >
 
