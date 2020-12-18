@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Désapprobation d’un titre pour un contenu prédictif {#unapprove-a-title-for-predictive-content}
+# Désapprouver un titre pour le contenu prédictif {#unapprove-a-title-for-predictive-content}
 
 >[!NOTE]
 >
->Selon la date d’achat, votre abonnement Marketo peut inclure du contenu prédictif ou du contenu`<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités d’analyse de contenu`<sup>AI</sup>` jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers le contenu`<sup>AI</sup>`Marketo.
+>Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 Vous pouvez désapprouver tout titre pour le contenu prédictif sur votre page Tout le contenu ou dans la fenêtre contextuelle Modifier le contenu.
 
@@ -25,11 +25,11 @@ Vous pouvez désapprouver tout titre pour le contenu prédictif sur votre page T
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Cliquez sur la liste déroulante Actions **de** contenu et sélectionnez **Désapprouver pour le contenu** prédictif.
+1. Cliquez sur la liste déroulante **Actions de contenu** et sélectionnez **Désapprouver pour le contenu prédictif**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
-## Menu contextuel Modifier le contenu {#edit-content-pop-up}
+## Modifier la fenêtre contextuelle de contenu {#edit-content-pop-up}
 
 Vous pouvez désapprouver un titre lorsque vous le modifiez.
 
@@ -37,7 +37,7 @@ Vous pouvez désapprouver un titre lorsque vous le modifiez.
 
    ![](assets/click-icon-hand.png)
 
-1. Décochez la case **Approuver pour le contenu** prédictif et cliquez sur **Enregistrer**.
+1. Décochez la case **Approuver pour le contenu prédictif** et cliquez sur **Enregistrer**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
