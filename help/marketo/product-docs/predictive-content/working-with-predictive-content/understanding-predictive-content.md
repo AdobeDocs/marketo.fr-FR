@@ -15,26 +15,26 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Selon la date d’achat, votre abonnement Marketo peut inclure du contenu prédictif ou du contenu`<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités d’analyse de contenu`<sup>AI</sup>` jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers le contenu`<sup>AI</sup>`Marketo.
+>Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
-Après avoir [approuvé un titre pour le contenu](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)prédictif, vous y travaillez ici. La page Contenu prédictif affiche tous les titres que vous avez approuvés pour le contenu prédictif.
+Après avoir [approuvé un titre pour le contenu prédictif](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), vous y travaillez ici. La page Contenu prédictif affiche tous les titres que vous avez approuvés pour le contenu prédictif.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
 Les champs de page incluent :
 
-* **Image et titre**: Nom de l’élément de contenu et de l’image sélectionnée
-* **Activé par la source**: Indique si le titre est approuvé pour les médias enrichis, le courrier électronique ou la barre de recommandations.
-* **Catégories**: Créé par vous et utilisé pour regrouper vos résultats prévisionnels pour le Web ou le courrier électronique
-* **Clics**: Nombre total de clics sur le contenu recommandé (y compris toutes les sources)
-* **taux de conversion**: Pourcentage calculé par conversions directes divisé par les clics. Passez la souris pour afficher d’autres données (voir ci-dessous).
+* **Image et titre** : Nom de l’élément de contenu et de l’image sélectionnée
+* **Activé par la source** : Indique si le titre est approuvé pour les médias enrichis, le courrier électronique ou la barre de recommandations.
+* **Catégories** : Créé par vous et utilisé pour regrouper vos résultats prévisionnels pour le Web ou le courrier électronique
+* **Clics** : Nombre total de clics sur le contenu recommandé (y compris toutes les sources)
+* **taux de conversion** : Pourcentage calculé par conversions directes divisé par les clics. Passez la souris pour afficher d’autres données (voir ci-dessous).
 * **Conversion** assistée : Visiteurs ayant cliqué sur le contenu recommandé lors d’une visite précédente et rempli un formulaire ultérieurement
 
 ## Filtrage du contenu {#filtering-content}
 
 **Catégorie**
 
-Vous pouvez filtrer le contenu selon les catégories que vous avez créées. Cliquez sur l’icône de filtre et, sous **Catégorie**, sélectionnez une ou plusieurs catégories de contenu.
+Vous pouvez filtrer le contenu selon les catégories que vous avez créées. Cliquez sur l’icône de filtre et sous **Catégorie**, sélectionnez une ou plusieurs catégories de contenu.
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
@@ -70,11 +70,11 @@ Passez la souris sur la barre de la colonne Taux de conversion sur le taux de co
 >
 >**Définitions**
 >
->**taux de conversion**: Pourcentage calculé par conversions directes divisé par les clics
+>**taux de conversion** : Pourcentage calculé par conversions directes divisé par les clics
 >
 >**Conversion** directe : Visiteurs ayant cliqué sur le contenu recommandé et rempli un formulaire au cours de la même visite
 >
->**En cliquant sur**: Nombre total de clics sur le contenu recommandé (y compris les trois sources)
+>**En cliquant sur** : Nombre total de clics sur le contenu recommandé (y compris les trois sources)
 
 >[!MORELIKETHIS]
 >
