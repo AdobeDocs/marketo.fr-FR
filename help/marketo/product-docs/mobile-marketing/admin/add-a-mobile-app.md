@@ -35,7 +35,7 @@ Les applications sont normalement débuts dans un environnement de sandbox, où 
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Entrez un nom. Dans la liste déroulante **Type** , sélectionnez le type d’environnement que vous utilisez (Sandbox ou Production). Cliquez sur **Enregistrer**.
+1. Entrez un nom. Dans la liste déroulante **Type**, sélectionnez le type d’environnement utilisé : Sandbox ou Production. Cliquez sur **Enregistrer**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
