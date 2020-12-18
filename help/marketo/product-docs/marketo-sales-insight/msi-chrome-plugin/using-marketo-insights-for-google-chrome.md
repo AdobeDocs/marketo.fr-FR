@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation de Marketing Cloud Insights pour Google Chrome {#using-marketo-insights-for-google-chrome}
+# Utilisation des statistiques de marketing pour Google Chrome {#using-marketo-insights-for-google-chrome}
 
 Envoyez et effectuez le suivi de tout courrier électronique Google avec Marketo Insights pour Google Chrome.
 
@@ -23,7 +23,7 @@ Envoyez et effectuez le suivi de tout courrier électronique Google avec Marketo
 
 
 
-## Envoyer un courriel avec les statistiques de marketing {#send-an-email-with-marketo-insights}
+## Envoyer un e-mail avec Marketo Insights {#send-an-email-with-marketo-insights}
 
 1. Dans la fenêtre Composer, cliquez sur l’icône Marqueur.
 
@@ -41,11 +41,11 @@ Envoyez et effectuez le suivi de tout courrier électronique Google avec Marketo
    >
    >Si vous le souhaitez, cliquez sur la flèche de doublon pour passer à une vue en plein écran.
 
-1. Si vous souhaitez préremplir votre courrier électronique avec un modèle Marketo publié, cliquez sur **Plus d’options** et sélectionnez **Charger le modèle Marketo.**
+1. Si vous souhaitez préremplir votre courrier électronique avec un modèle Marketo publié, cliquez sur **Autres options** et sélectionnez **Charger le modèle Marketo.**
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Sélectionnez un modèle **** Disponible et cliquez sur **Ok.**
+1. Sélectionnez un **modèle disponible** et cliquez sur **Ok.**
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -55,7 +55,7 @@ Envoyez et effectuez le suivi de tout courrier électronique Google avec Marketo
 
    >[!NOTE]
    >
-   >Le suivi des messages s’effectue uniquement lorsque le bouton **Envoyer** est violet.
+   >Les messages sont suivis uniquement lorsque le bouton **Envoyer** est violet.
 
 1. Le courrier électronique s’affichera bientôt dans votre aperçu des ventes de Marketing Cloud et tous les ouvertures et clics seront suivis.
 
@@ -65,7 +65,7 @@ Envoyez et effectuez le suivi de tout courrier électronique Google avec Marketo
 
 Vous pouvez consigner les réponses et les anciennes activités dans l&#39;historique des activités d&#39;un prospect.
 
-1. Dans le volet de prévisualisation de Google Mail, cliquez sur **Log with Marketo (Journal avec Marketo**).
+1. Dans le volet de prévisualisation de Google Mail, cliquez sur **Log with Marketo**.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
