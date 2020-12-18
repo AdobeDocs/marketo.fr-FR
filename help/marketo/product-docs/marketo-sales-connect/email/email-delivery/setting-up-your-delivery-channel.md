@@ -17,21 +17,21 @@ Lorsque vous début à utiliser Marketing Sales Connect, vous devez configurer u
 
 >[!NOTE]
 >
->Outre la configuration de votre serveur SMTP, votre identité de [courriel doit être vérifiée](http://docs.marketo.com/x/ewPh) avant de pouvoir envoyer des courriers électroniques.
+>Outre la configuration de votre serveur SMTP, votre [identité de courriel doit être vérifiée](http://docs.marketo.com/x/ewPh) avant de pouvoir envoyer des courriers électroniques.
 
 Vous pouvez choisir d&#39;envoyer des e-mails à l&#39;aide d&#39;un serveur SMTP personnalisé, d&#39;un serveur SMTP d&#39;équipe ou de Gmail en tant que canal de diffusion. Passons en revue chaque option.
 
 ## SMTP personnalisé {#custom-smtp}
 
-1. Connectez-vous à l’application [](http://toutapp.com/login)Web, cliquez sur l’icône en forme d’engrenage en haut à droite et choisissez **Paramètres**.
+1. Connectez-vous à l’[application Web](http://toutapp.com/login), cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
 
    ![](assets/one.png)
 
-1. Sous Mon compte, cliquez sur Paramètres **de** courriel.
+1. Sous Mon compte, cliquez sur **Paramètres de courriel**.
 
    ![](assets/two.png)
 
-1. Sélectionnez Serveur **** SMTP.
+1. Sélectionnez **Serveur SMTP**.
 
    ![](assets/three.png)
 
@@ -47,7 +47,7 @@ Vous pouvez choisir d&#39;envoyer des e-mails à l&#39;aide d&#39;un serveur SMT
 
    ![](assets/five.png)
 
-1. Recherchez l’identité électronique pour laquelle vous souhaitez choisir un canal de diffusion et cliquez sur **Choisir le Canal** de Diffusion.
+1. Recherchez l’identité électronique pour laquelle vous souhaitez choisir un canal de diffusion et cliquez sur **Choisir le Canal de Diffusion**.
 
    ![](assets/six.png)
 
@@ -71,11 +71,11 @@ Vous pouvez choisir d&#39;envoyer des e-mails à l&#39;aide d&#39;un serveur SMT
 >
 >**Autorisations d’administrateur requises**
 
-1. Connectez-vous à l’application [](http://toutapp.com/login)Web, cliquez sur l’icône en forme d’engrenage en haut à droite et choisissez **Paramètres**.
+1. Connectez-vous à l’[application Web](http://toutapp.com/login), cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
 
    ![](assets/nine.png)
 
-1. Sous Paramètres d’administration, cliquez sur Serveur **SMTP d’**&#x200B;équipe.
+1. Sous Paramètres d’administration, cliquez sur **Team SMTP Server**.
 
    ![](assets/ten.png)
 
@@ -91,15 +91,15 @@ Vous pouvez choisir d&#39;envoyer des e-mails à l&#39;aide d&#39;un serveur SMT
 
 ## Gmail {#gmail}
 
-1. Connectez-vous à l’application [](http://toutapp.com/login)Web, cliquez sur l’icône en forme d’engrenage en haut à droite et choisissez **Paramètres**.
+1. Connectez-vous à l’[application Web](http://toutapp.com/login), cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
 
    ![](assets/twelve.png)
 
-1. Sous Mon compte, cliquez sur Paramètres **de** courriel.
+1. Sous Mon compte, cliquez sur **Paramètres de courriel**.
 
    ![](assets/thirteen.png)
 
-1. Cliquez sur **Envoyer la synchronisation** par courriel.
+1. Cliquez sur **Synchronisation des e-mails**.
 
    ![](assets/fourteen.png)
 
@@ -116,7 +116,7 @@ Vous pouvez choisir d&#39;envoyer des e-mails à l&#39;aide d&#39;un serveur SMT
    >
    >S&#39;il s&#39;agit de votre seul canal de diffusion, il est automatiquement affecté à toutes vos identités de messagerie, et vous avez terminé ici. Si Gmail n&#39;est pas votre seul canal de diffusion, veuillez continuer à l&#39;étape 7.
 
-1. Cliquez sur **Adresse et Signature**.
+1. Cliquez sur **Adresse et signature**.
 
    ![](assets/seventeen.png)
 
