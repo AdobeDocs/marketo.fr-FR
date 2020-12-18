@@ -30,17 +30,17 @@ Cliquez [ici](http://docs.marketo.com/x/JITS) pour obtenir un guide détaillé s
    >Si vous utilisez le module externe Gmail ou Outlook, vous devez accéder à l&#39;application Web pour envoyer un courriel de groupe.
 
 1. Sélectionnez le groupe à envoyer par courriel.
-1. Cliquez sur le bouton Groupe **de** courriels.
+1. Cliquez sur le bouton **Groupe de courriel**.
 1. Sélectionnez un modèle de courrier électronique.
 
    >[!TIP]
    >
-   >Chaque membre du groupe recevra le même courrier électronique. Assurez-vous donc que le modèle comprend des champs [](http://docs.marketo.com/x/QITS) dynamiques afin de personnaliser chaque message de destinataire.
+   >Chaque membre du groupe recevra le même courrier électronique. Assurez-vous donc que le modèle contient [des champs dynamiques](http://docs.marketo.com/x/QITS) afin de personnaliser chaque message du destinataire.
 
 1. Cliquez sur **Prévisualisation** pour revoir le courrier électronique avant de l’envoyer.
 1. Lorsque le courrier électronique est prêt, cliquez sur **Envoyer**.
 
-Maintenant, ouvrez votre flux [](http://toutapp.com/next#live) en direct de Sales Connect et regardez votre début destinataire entrer en contact avec votre courriel.
+Maintenant, ouvrez votre contact commercial [Flux en direct](http://toutapp.com/next#live) et regardez votre début destinataire entrer en contact avec votre courrier électronique.
 
 >[!NOTE]
 >
