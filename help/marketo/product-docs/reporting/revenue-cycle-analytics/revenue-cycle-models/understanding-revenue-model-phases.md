@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les phases sont un moyen de grouper plusieurs étapes. Parfois, plusieurs étapes d&#39;un modèle reflètent une phase d&#39;un entonnoir.
 
-![--](assets/image2015-6-12-16-3a56-3a40.png)
+![—](assets/image2015-6-12-16-3a56-3a40.png)
 
 ## Définir les phases du modèle {#define-the-phases-of-the-model}
 
