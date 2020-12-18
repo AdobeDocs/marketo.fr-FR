@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Envoyez votre message maintenant ou planifiez-le pour plus tard.
 
-1. Pour planifier un message in-app, sélectionnez **Définir la date** future et choisissez une date de début dans le calendrier déroulant.
+1. Pour planifier un message in-app, sélectionnez **Définir la date future** et choisissez une date de début dans le calendrier déroulant.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -31,4 +31,4 @@ Envoyez votre message maintenant ou planifiez-le pour plus tard.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Facile ! Dernier point, mais non le moindre, c&#39;est l&#39;étape [Approbation](approve-your-in-app-message.md) .
+Facile ! La dernière étape, mais non la moindre, est l’étape [Approbation](approve-your-in-app-message.md).
