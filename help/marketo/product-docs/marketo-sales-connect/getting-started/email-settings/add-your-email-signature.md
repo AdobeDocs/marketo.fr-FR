@@ -19,11 +19,11 @@ Nous voulons que le courrier électronique de Sales Connect soit une expérience
 
    ![](assets/add-your-email-signature-1.png)
 
-1. Sous Mon compte, sélectionnez Paramètres **de** courriel.
+1. Sous Mon compte, sélectionnez **Paramètres de courriel**.
 
    ![](assets/add-your-email-signature-2.png)
 
-1. Cliquez sur **Adresse et Signature** et sélectionnez l’identité de courriel pour laquelle vous souhaitez créer une signature.
+1. Cliquez sur **Adresse et signature** et sélectionnez l’identité de courriel pour laquelle vous souhaitez créer une signature.
 
    ![](assets/add-your-email-signature-3.png)
 
@@ -31,7 +31,7 @@ Nous voulons que le courrier électronique de Sales Connect soit une expérience
 
    ![](assets/add-your-email-signature-4.png)
 
-1. Saisissez le texte (ou les images) de votre choix, puis cliquez sur **Enregistrer**.
+1. Entrez le texte (ou les images) de votre choix et cliquez sur **Enregistrer**.
 
    ![](assets/add-your-email-signature-5.png)
 
