@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous souhaitez modifier les paramètres régionaux de votre utilisateur afin de n’afficher que les données de votre région spécifique ?
 
-1. Accédez à Paramètres **** utilisateur.
+1. Accédez à **Paramètres utilisateur**.
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
