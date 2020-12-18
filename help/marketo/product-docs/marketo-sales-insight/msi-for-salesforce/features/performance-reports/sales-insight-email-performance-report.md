@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Rapport Performance des courriers électroniques de Sales Insight {#sales-insight-email-performance-report}
+# Rapport sur les performances des courriels de Sales Insight {#sales-insight-email-performance-report}
 
 Vue des performances des courriers électroniques envoyés par l&#39;intermédiaire de Salesforce, Microsoft Dynamics ou d&#39;un module externe Gmail ou Outlook.
 
@@ -21,15 +21,15 @@ Vue des performances des courriers électroniques envoyés par l&#39;intermédia
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Cliquez sur **Sales Insight Email Performance**.
+1. Cliquez sur **Performances du courriel de Sales Insight**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Cliquez sur l’onglet **Configuration** et choisissez les valeurs souhaitées.
+1. Cliquez sur l&#39;onglet **Configuration** et choisissez les valeurs souhaitées.
 
    ![](assets/three.png)
 
-1. Cliquez sur l’onglet **Rapport** .
+1. Cliquez sur l&#39;onglet **Rapport**.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -43,15 +43,15 @@ Vue des performances des courriers électroniques envoyés par l&#39;intermédia
 >
 >Cliquez sur le nom d’un courrier électronique pour l’ouvrir dans l’outil de prévisualisation du courrier électronique.
 
-## Regrouper par représentant commercial {#group-by-sales-rep}
+## Groupe par représentant commercial {#group-by-sales-rep}
 
 Vous pouvez vue ce rapport groupé par représentant commercial en modifiant vos paramètres.
 
-1. Cliquez sur **Configuration**. Doublon-clic sur **Courriel**.
+1. Cliquez sur **Configuration**. Doublon-clic **Courriel**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Sélectionnez Regrouper les courriers électroniques par représentant **** commercial.
+1. Sélectionnez Regrouper les e-mails par **représentant commercial**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
@@ -59,7 +59,7 @@ Vous pouvez vue ce rapport groupé par représentant commercial en modifiant vos
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Cliquez sur l’onglet **Rapport** .
+1. Cliquez sur l&#39;onglet **Rapport**.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
