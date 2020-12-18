@@ -38,7 +38,7 @@ Avec l&#39;étape de flux appropriée ajoutée à la campagne d&#39;enregistreme
 
 Créez l’invitation, la confirmation, le suivi et les e-mails de remerciement à l’aide de Marketing Cloud.
 
-## Courrier électronique de confirmation de marketing et jeton d’URL {#marketo-confirmation-email-and-url-token}
+## Courrier électronique de confirmation du marketing et jeton d’URL {#marketo-confirmation-email-and-url-token}
 
 Utilisez Marketing pour envoyer le courriel de confirmation de votre événement. Lorsqu’une personne s’enregistre, elle reçoit une URL unique à utiliser pour entrer dans le événement.
 
@@ -48,13 +48,13 @@ Utilisez Marketing pour envoyer le courriel de confirmation de votre événement
 >
 >Pour renseigner votre message de confirmation avec cette URL unique, utilisez le jeton suivant dans votre message électronique : `{{member.webinar url}}`. Lorsque vous envoyez l’URL de confirmation, ce jeton correspond automatiquement à l’URL de confirmation unique de la personne.
 >
->Définissez le type de votre message de confirmation sur **Operational** pour vous assurer que les personnes qui s&#39;inscrivent reçoivent leurs informations de confirmation, même si elles ne s&#39;abonnent pas.
+>Définissez le type de votre courriel de confirmation sur **Operational** pour vous assurer que les personnes qui s&#39;inscrivent reçoivent leurs informations de confirmation, même si elles ne sont pas abonnées.
 
 >[!TIP]
 >
->Vous pouvez configurer ON24 pour envoyer des messages de confirmation, de rappel ou de suivi. Pour plus d&#39;informations, consultez le site [d&#39;aide](http://webcastelitehelp.on24.com) ON24.
+>Vous pouvez configurer ON24 pour envoyer des messages de confirmation, de rappel ou de suivi. Pour plus d&#39;informations, consultez le [site d&#39;aide ON24](http://webcastelitehelp.on24.com).
 
-## Conditions requises pour l&#39;enregistrement des enfants Campaign {#registration-child-campaign-requirements}
+## Conditions requises pour l&#39;inscription des Campaign enfants {#registration-child-campaign-requirements}
 
 Les événements contiennent une ou plusieurs campagnes enfants qui fonctionnent toutes ensemble pour déplacer les personnes à travers les états de programme et vous permettent de suivre les performances de votre événement.
 
@@ -62,12 +62,12 @@ Les campagnes enfants sont, par exemple, une campagne d’invitation, une campag
 
 >[!CAUTION]
 >
->Pour que l&#39;adaptateur puisse faire son travail, vous DEVEZ créer une campagne d&#39;enregistrement. Cette campagne doit être déclenchée par la personne qui remplit un formulaire et la première étape doit changer le statut de programme de la personne en **état d’enregistrement**. La campagne envoie ensuite un message de confirmation. Consultez le reste de cet article pour plus de détails.
+>Pour que l&#39;adaptateur puisse faire son travail, vous DEVEZ créer une campagne d&#39;enregistrement. Cette campagne doit être déclenchée par la personne qui remplit un formulaire et la première étape doit modifier l’état de programme de la personne en **Enregistrée**. La campagne envoie ensuite un message de confirmation. Consultez le reste de cet article pour plus de détails.
 
 **Inscription/Confirmation (Trigger Campaign)**
 
 * Liste intelligente
-* Déclencheur basé sur le **remplissage du formulaire**. Veillez à inclure le landing page sur lequel se trouve le formulaire en utilisant la contrainte **d’** Ajoute, en particulier si le même formulaire est utilisé sur plusieurs landings page.
+* Déclencheur basé sur **Remplit le formulaire**. Veillez à inclure le landing page sur lequel réside le formulaire en utilisant **Ajoute Constraint**, en particulier si le même formulaire est utilisé sur plusieurs landings page.
 
 >[!CAUTION]
 >
@@ -81,23 +81,23 @@ Les campagnes enfants sont, par exemple, une campagne d’invitation, une campag
 
 **Flux**
 
-* **Modifier l&#39;état** du Programme - Définir sur Webinaire -> Inscrit.
+* **Modifier l&#39;état**  du Programme - Définir sur Webinaire -> Inscrit.
 
 Cette étape de flux est requise en tant que PREMIÈRE ÉTAPE de flux lors de la configuration de votre campagne enfant. Lorsqu’un état de programme d’une personne devient Enregistré, Marketo envoie les informations d’enregistrement à ON24. Aucun autre statut ne poussera la personne vers le bas.
 
-* **Envoyer un courriel** - Confirmation par courriel. Définissez ce courrier électronique sur **Operational** pour que les personnes qui se sont abonnées et qui se sont inscrites le reçoivent toujours.
+* **Envoyer un courriel**  - Confirmation par courriel. Définissez ce courrier électronique sur **Opérationnel** de sorte que les personnes qui se sont abonnées et qui se sont inscrites le reçoivent toujours.
 
-L’étape de flux **Envoyer un courriel** DOIT être la deuxième étape. L’e-mail de confirmation contient le `{{member.webinar url}}`, qui est renseigné par les informations renvoyées à Marketo à partir de ON24.
+L’étape de flux **Envoyer un courrier électronique** DOIT être la deuxième étape. Le courrier électronique de confirmation contient le `{{member.webinar url}}`, qui est renseigné par les informations renvoyées à Marketo à partir de ON24.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->L’ordre de ces étapes de flux est important en raison de l’ordre dans lequel les actions sont exécutées dans Marketing. L’étape **Modifier l’état** du Programme envoie la personne à ON24 pour qu’elle s’enregistre et une URL unique est générée. Après cela, vous pouvez envoyer le courrier électronique de confirmation contenant cette URL unique à l’aide du `{{member.webinar URL}}` jeton.
+>L’ordre de ces étapes de flux est important en raison de l’ordre dans lequel les actions sont exécutées dans Marketing. L&#39;étape **Modifier l&#39;état du Programme** envoie la personne à ON24 pour qu&#39;elle s&#39;enregistre et une URL unique est générée. Après cela, vous pouvez envoyer le courrier électronique de confirmation contenant cette URL unique à l’aide du jeton `{{member.webinar URL}}`.
 >
 >Si la personne est renvoyée avec une erreur d’enregistrement, elle ne recevra pas la confirmation par courrier électronique.
 
-L’étape suivante consiste à [tester l’intégration](test-your-on24-event-integration.md)de votre événement ON24.
+L’étape suivante consiste à [tester l’intégration de votre événement ON24](test-your-on24-event-integration.md).
 
 >[!MORELIKETHIS]
 >
