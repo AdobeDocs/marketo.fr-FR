@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sélectionnez votre message intégré {#select-your-in-app-message}
+# Sélectionnez votre message in-app {#select-your-in-app-message}
 
 C&#39;est ici que vous sélectionnez le message que vous avez créé pour l&#39;utiliser dans le programme.
 
