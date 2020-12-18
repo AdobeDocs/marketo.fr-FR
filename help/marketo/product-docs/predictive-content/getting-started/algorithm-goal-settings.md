@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Paramètres de l’objectif d’algorithme {#algorithm-goal-settings}
+# Paramètres de l&#39;objectif de l&#39;algorithme {#algorithm-goal-settings}
 
 Les paramètres d’objectif de l’algorithme vous permettent de définir l’objectif final de l’algorithme d’intelligence artificielle de contenu prédictif pour l’aligner sur vos objectifs commerciaux.
 
-1. Dans Contenu prédictif, cliquez sur le nom de votre connexion et sélectionnez Paramètres **de** contenu.
+1. Dans Contenu prédictif, cliquez sur le nom de votre connexion et sélectionnez **Paramètres de contenu**.
 
    ![](assets/1.png)
 
