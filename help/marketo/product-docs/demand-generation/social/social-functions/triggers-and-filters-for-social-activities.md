@@ -21,11 +21,11 @@ Les applications sociales de Marketo disposent de leurs propres déclencheurs et
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-1. Pour utiliser des *déclencheurs* de réseaux sociaux, sélectionnez votre campagne intelligente et cliquez sur l’onglet Liste **** intelligente. Sur la droite, cliquez sur le signe + pour développer **Déclencheurs**, puis **Social**.
+1. Pour utiliser les déclencheurs *sociaux*, sélectionnez votre campagne intelligente et cliquez sur l&#39;onglet **Liste dynamique**. Sur la droite, cliquez sur le + pour développer **Déclencheurs**, puis **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Pour utiliser des *filtres* sociaux, cliquez sur le **+** pour développer les **Filtres**.
+1. Pour utiliser les *filtres* sociaux, cliquez sur **+** pour développer les **Filtres**.
 
    ![](assets/two-282-29.png)
 
