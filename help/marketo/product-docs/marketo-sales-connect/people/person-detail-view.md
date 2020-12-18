@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Vue des détails sur la personne {#person-detail-view}
+# Vue de détails de la personne {#person-detail-view}
 
 La vue de détails des personnes fournit un profil détaillé de chaque personne dans votre compte SMC.
 
 ## Accès {#how-to-access}
 
-1. Pour accéder à la vue des détails de la personne, cliquez sur l’onglet **Personnes** .
+1. Pour accéder à la vue des détails de la personne, cliquez sur l’onglet **Personnes**.
 
    ![](assets/people-tab.png)
 
