@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présence locale du téléphone de vente {#sales-phone-local-presence}
 
-Si vous souhaitez avoir l’air d’appeler à partir du même indicatif régional, il vous suffit de cocher la case Présence **** locale avant d’effectuer l’appel.
+Si vous souhaitez avoir l’air d’appeler à partir du même indicatif régional, il vous suffit de cocher la case **Présence locale** avant d’effectuer l’appel.
 
 ## FAQ sur la présence locale {#local-presence-faq}
 
