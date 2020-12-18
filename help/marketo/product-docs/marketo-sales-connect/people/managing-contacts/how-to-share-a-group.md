@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le partage d&#39;un groupe de pistes ou de contacts avec votre équipe est très simple dans Sales Connect.
 
-1. Accédez à l’onglet **Personnes** .
+1. Accédez à l&#39;onglet **Personnes**.
 
    ![](assets/one-1.png)
 
