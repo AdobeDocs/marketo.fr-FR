@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation d’une Liste Marketo ou d’une Liste dynamique en tant que segment d’Audience LinkedIn {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
+# Utilisez une Liste Marketo ou une Liste dynamique comme segment d’Audience LinkedIn {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
 Intégrez les personnes de votre marketing à vos audiences LinkedIn.
 
@@ -31,11 +31,11 @@ Intégrez les personnes de votre marketing à vos audiences LinkedIn.
 
    ![](assets/two.png)
 
-1. Cliquez sur l’onglet **Personnes** .
+1. Cliquez sur l&#39;onglet **Personnes**.
 
    ![](assets/three-1.png)
 
-1. Cliquez sur l’icône ** Envoyer par le biais d’un pont publicitaire ** ![,](assets/image2015-4-20-18-3a18-3a41.png) au bas de la liste.
+1. Cliquez sur l’icône ** Envoyer par le biais d’un pont publicitaire **icône ![—](assets/image2015-4-20-18-3a18-3a41.png) située au bas de la liste.
 
    ![](assets/four-1.png)
 
@@ -47,7 +47,7 @@ Intégrez les personnes de votre marketing à vos audiences LinkedIn.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Sélectionnez une Audience **** LinkedIn.
+1. Sélectionnez une **Audience LinkedIn**.
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Intégrez les personnes de votre marketing à vos audiences LinkedIn.
    >
    >LinkedIn a abandonné les API utilisées pour le type Push &quot;Effacer l&#39;audience et ajouter des pistes&quot; en mars 2018. Cette option n’est plus disponible depuis la version du 1er trimestre 2018 de Marketo.
 
-1. Sélectionnez un type **** Push. Cliquez sur **Mettre à jour**.
+1. Sélectionnez un **type Push**. Cliquez sur **Mettre à jour**.
 
    ![](assets/7.png)
 
