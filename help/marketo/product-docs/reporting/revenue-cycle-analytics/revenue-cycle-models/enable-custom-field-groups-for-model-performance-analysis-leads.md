@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Activer les groupes de champs personnalisés pour l&#39;Analyse des performances du modèle (Pistes) {#enable-custom-field-groups-for-model-performance-analysis-leads}
+# Activer les groupes de champs personnalisés pour l&#39;Analyse des performances du modèle {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
 >[!PREREQUISITES]
 >
->Classez les champs standard ou personnalisés en groupes pour le rapports via l’organiseur de champs de Marketo. Pour plus d’informations, voir [Création de groupes de champs personnalisés dans l’organiseur](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)de champs.
+>Classez les champs standard ou personnalisés en groupes pour le rapports via l’organiseur de champs de Marketo. Pour plus d&#39;informations, reportez-vous à la section [Création de groupes de champs personnalisés via l&#39;organiseur de champs](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
 
 <table> 
  <tbody> 
@@ -35,7 +35,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Que se passe-t-il lorsque vous activez un groupe de champs personnalisé associé à un champ de personne ou de société personnalisé ?</strong></p></td> 
    <td colspan="1" rowspan="1"><p>Le groupe de champs personnalisés est activé pour le rapports dans la zone Analyse de performances du modèle (Pistes)</p></td> 
-   <td colspan="1" rowspan="1"><p>Le champ personnalisé lui-même est activé pour le rapports dans les zones Analyse de piste, Analyse de Campaign et Analyse d'opportunités.</p><p><strong>REMARQUE :</strong> Les groupes de champs personnalisés ne sont PAS pris en charge dans ces zones d’analyse. Les associations de groupes ne s’affichent donc pas dans l’Explorateur de cycles de recettes (<em>uniquement</em> le champ personnalisé).</p></td> 
+   <td colspan="1" rowspan="1"><p>Le champ personnalisé lui-même est activé pour le rapports dans les zones Analyse de piste, Analyse de Campaign et Analyse d'opportunités.</p><p><strong>REMARQUE : les groupes de champs </strong> personnalisés ne sont PAS pris en charge dans ces zones d'analyse. Les associations de groupes ne s'affichent donc pas dans l'Explorateur de cycles de recettes (<em></em> uniquement le champ personnalisé).</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -46,7 +46,7 @@ Pour activer un groupe de champs personnalisé pour le rapports dans la zone Ana
 
    ![](assets/one-1.png)
 
-1. Cliquez sur **Recettes Cycle Analytics**.
+1. Cliquez sur **Analyses du cycle de recettes**.
 
    ![](assets/two-1.png)
 
