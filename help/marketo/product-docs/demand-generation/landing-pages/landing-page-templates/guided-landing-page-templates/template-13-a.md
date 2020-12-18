@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9437783
 description: Modèle 13-A - Documents marketing - Documentation du produit
-title: Modèle 13-A
+title: Modèle 13-C
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
