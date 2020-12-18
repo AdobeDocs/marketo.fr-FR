@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# E-mail sélectionné et groupe de courriers électroniques {#email-selected-and-email-group}
+# E-mail sélectionné et groupe de courriel {#email-selected-and-email-group}
 
 Une fois qu’un groupe est créé et que des contacts sont ajoutés, deux options s’offrent à vous lors de l’envoi d’un courriel de groupe ciblé.
 
 ## Courriel sélectionné {#email-selected}
 
-En utilisant l’option Courriel sélectionnée, vous pouvez `select specific recipients in the group` contacter. Cette méthode `allows you to edit each email before they get sent out`aussi.
+En utilisant l&#39;option e-mail sélectionnée, vous pouvez `select specific recipients in the group` contacter. Cette méthode est également `allows you to edit each email before they get sent out`.
 
 >[!NOTE]
 >
 >Cette méthode est recommandée si vous souhaitez envoyer un courriel d’environ 15 destinataires ou moins et que vous souhaitez modifier chaque courriel.
 
-Vous pouvez `add specific content` indiquer un intérêt pour chaque destinataire avant que le courrier électronique du groupe ne soit envoyé.
+Vous pouvez `add specific content` correspondant à chaque destinataire avant que le courrier électronique du groupe ne soit envoyé.
 
 ## Envoyer le groupe entier par courriel {#email-entire-group}
 
@@ -33,4 +33,4 @@ Nous vous offrons également la possibilité d&#39;envoyer un courriel à tous l
 >
 >Cette méthode est recommandée lorsque vous effectuez des envois de groupe plus volumineux.
 
-Dans le groupe, sélectionnez Groupe **de** courriels. Ça le sera `pull in everyone in the group for you to email`.  Vous pouvez ici utiliser un modèle désigné et sélectionner une prévisualisation pour avoir un aperçu de l&#39;aspect du courrier électronique avant son envoi. Une fois que tout a l&#39;air bien, cliquez simplement envoyer !
+Dans le groupe, sélectionnez **Groupe de courriel**. `pull in everyone in the group for you to email`.  Vous pouvez ici utiliser un modèle désigné et sélectionner une prévisualisation pour avoir un aperçu de l&#39;aspect du courrier électronique avant son envoi. Une fois que tout a l&#39;air bien, cliquez simplement envoyer !
