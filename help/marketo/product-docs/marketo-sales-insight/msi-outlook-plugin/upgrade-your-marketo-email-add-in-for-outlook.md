@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mettre à niveau votre Ajoute de courriel Marketing to pour Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
+# Mettre à niveau votre Ajoute électronique Marketo pour Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Lorsqu&#39;une nouvelle version de l&#39;Ajoute de courriel de marketing pour Outlook est disponible, suivez ces instructions pour effectuer la mise à niveau.
 
@@ -130,7 +130,7 @@ Téléchargez le programme d&#39;installation approprié à votre version de Mic
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. Vous remarquerez que toutes vos informations sont préremplies. Il vous suffit de cliquer sur **Suivant**.
+1. Vous remarquerez que toutes vos informations sont préremplies. Cliquez simplement sur **Suivant**.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
