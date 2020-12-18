@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Publication d’un sondage {#publish-a-poll}
+# Publier un sondage {#publish-a-poll}
 
-Après avoir [créé un sondage](create-a-poll.md), vous pouvez le publier sur vos landings page Marketo, sur Facebook et sur votre site Web.
+Après avoir [créé un sondage](create-a-poll.md), vous pouvez le publier sur vos landings page de marketing, sur Facebook et sur votre site Web.
 
 1. Accédez à votre landing page et ouvrez-le pour le modifier.
 
    ![](assets/image2014-9-19-10-3a45-3a23.png)
 
-1. Faites glisser le pointeur de la souris sur **Sondage** depuis la palette située à droite.
+1. Faites glisser le pointeur de la souris sur **Sondage** depuis la palette de droite.
 
    ![](assets/image2014-9-19-10-3a45-3a50.png)
 
