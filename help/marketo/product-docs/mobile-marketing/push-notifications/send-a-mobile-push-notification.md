@@ -24,11 +24,11 @@ Envoyez une notification Push aux utilisateurs de votre application mobile.
 
 
 
-1. Accédez à la zone Activités **** marketing.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Sélectionnez votre campagne intelligente et cliquez sur Liste **** intelligente.
+1. Sélectionnez votre campagne intelligente et cliquez sur **Liste intelligente**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
@@ -36,7 +36,7 @@ Envoyez une notification Push aux utilisateurs de votre application mobile.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Sélectionnez une notification Push. Cliquez sur **Planifier**
+1. Sélectionnez une notification Push. Cliquez sur **Planification**
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -44,11 +44,11 @@ Envoyez une notification Push aux utilisateurs de votre application mobile.
    >
    >La notification Push doit être approuvée avant d’apparaître dans la liste déroulante.
 
-1. Cliquez sur **Exécuter une fois.**
+1. Cliquez sur **Exécuter une fois**
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Choisissez une date et une heure. Cliquez sur **ENREGISTRER.**
+1. Choisissez une date et une heure. Cliquez sur **SAVE.**
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
