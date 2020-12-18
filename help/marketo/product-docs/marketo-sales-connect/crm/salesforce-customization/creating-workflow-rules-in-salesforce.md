@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création de règles de processus dans Salesforce {#creating-workflow-rules-in-salesforce}
+# Création de règles de flux de travail dans Salesforce {#creating-workflow-rules-in-salesforce}
 
 Lors de l&#39;utilisation de Marketing Sales Insight (MSI) et de Marketing Sales Connect (MSC) en parallèle, la fonction MSI Best Bets (Meilleurs paris) dans Salesforce ne sera pas mise à jour. Toutes les autres fonctions MSI fonctionnent comme d’habitude (affichage de moments intéressants dans l’iFrame, envoi d’e-mails, ajout à des campagnes, etc.). Cet article offre une solution pour que les meilleurs paris fonctionnent à nouveau.
 
@@ -33,26 +33,26 @@ Vous trouverez ci-dessous les noms recommandés des règles de flux de travail e
  <tbody> 
   <tr> 
    <td>Mettre à jour le champ de description du moment intéressant</td> 
-   <td><p>Copier de : Dernier<br>DescCopy d'engagement marketing vers : Dernier moment intéressant Desc</p></td> 
+   <td><p>Copier de : Dernier engagement marketing Desc<br>Copier vers : Dernier moment intéressant Desc</p></td> 
   </tr> 
   <tr> 
    <td>Mettre à jour le champ Type de moment intéressant</td> 
-   <td><p>Copier de : Dernier engagement marketing<br>TypeCopy à : Dernier type de moment intéressant</p></td> 
+   <td><p>Copier de : Dernier type d’engagement marketing<br>Copier vers : Dernier type de moment intéressant</p></td> 
   </tr> 
   <tr> 
    <td>Mettre à jour le champ Source du moment intéressant</td> 
-   <td><p>Copier de : Dernier<br>SourceCopy d'engagement marketing vers : Dernière source intéressante</p></td> 
+   <td><p>Copier de : Dernière source de l'engagement marketing<br>Copier vers : Dernière source intéressante</p></td> 
   </tr> 
   <tr> 
    <td>Mettre à jour le champ Date du moment intéressant</td> 
-   <td><p>Copier de : Dernier engagement marketing<br>DateCopy à : Date du dernier moment intéressant</p></td> 
+   <td><p>Copier de : Dernière date d’engagement du marketing<br>Copier vers : Date du dernier moment intéressant</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Instructions {#instructions}
 
-1. Après avoir cliqué sur **Configuration**, recherchez **Workflow** et sélectionnez Règles **de** Workflow.
+1. Après avoir cliqué sur **Configuration**, recherchez **Workflow** et sélectionnez **Règles de flux de travail**.
 
    ![](assets/one-1.png)
 
@@ -64,11 +64,11 @@ Vous trouverez ci-dessous les noms recommandés des règles de flux de travail e
 
    ![](assets/three-1.png)
 
-1. Saisissez &quot;Mettre à jour le champ Description du moment intéressant&quot; comme nom de la règle. Sélectionnez le bouton radio **créé et chaque fois qu’il est modifié**. Dans la liste déroulante Critères de règle, la **formule de sélection est évaluée sur true**. Recherchez et sélectionnez la fonction ISCHANGED. Ensuite, mettez en surbrillance la valeur de champ par défaut et cliquez sur **Insérer un champ**.
+1. Saisissez &quot;Mettre à jour le champ Description du moment intéressant&quot; comme nom de la règle. Sélectionnez le bouton radio **créé et chaque fois qu’il est modifié**. Dans la liste déroulante Critères de règle, sélectionnez **la formule renvoie true**. Recherchez et sélectionnez la fonction ISCHANGED. Ensuite, mettez en surbrillance la valeur de champ par défaut et cliquez sur **Insérer un champ**.
 
    ![](assets/four-1.png)
 
-1. Dans la fenêtre contextuelle Insérer un champ, choisissez Desc **Dernier engagement marketing et cliquez sur** Insérer ****.
+1. Dans la fenêtre contextuelle Insérer un champ, choisissez **Dernier engagement marketing Desc** et cliquez sur **Insérer**.
 
    ![](assets/five-1.png)
 
@@ -76,19 +76,19 @@ Vous trouverez ci-dessous les noms recommandés des règles de flux de travail e
 
    ![](assets/6.png)
 
-1. Dans la liste déroulante Ajouter l’action de flux de travail, sélectionnez **Nouvelle mise à jour** des champs.
+1. Dans la liste déroulante Ajouter l’action de flux de travail, sélectionnez **Nouvelle mise à jour de champ**.
 
    ![](assets/seven.png)
 
-1. Dans le champ Name, saisissez &quot;Update intéressante Moment Desc Field&quot; (Nom unique généré automatiquement). Dans la liste déroulante Champ à mettre à jour, sélectionnez **Dernier moment intéressant**. Sélectionnez le bouton radio **Utiliser une formule pour définir une nouvelle valeur** , puis cliquez sur **Afficher l&#39;éditeur** de formule.
+1. Dans le champ Name, saisissez &quot;Update intéressante Moment Desc Field&quot; (Nom unique généré automatiquement). Dans la liste déroulante Champ à mettre à jour, choisissez **Dernier moment intéressant Desc**. Sélectionnez le bouton radio **Utiliser une formule pour définir une nouvelle valeur**, puis cliquez sur **Afficher l&#39;éditeur de formule**.
 
    ![](assets/eight.png)
 
-1. Cliquez sur le bouton **Insérer un champ** .
+1. Cliquez sur le bouton **Insérer un champ**.
 
    ![](assets/9a.png)
 
-1. Sélectionnez Desc **** Dernier engagement marketing, puis cliquez sur **Insérer**. Dans la page suivante, cliquez sur **Enregistrer**.
+1. Sélectionnez **Dernier engagement marketing**, puis cliquez sur **Insérer**. Sur la page suivante, cliquez sur **Enregistrer**.
 
    ![](assets/nine.png)
 
