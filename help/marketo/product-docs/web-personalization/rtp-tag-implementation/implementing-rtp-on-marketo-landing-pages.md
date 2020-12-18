@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation ci-dessous :
 
-1. Rendez-vous au **Design Studio.** Ouvrez l&#39;élément à modifier. Sélectionner des actions **** de modèle, sélectionner **Modifier le brouillon**
+1. Accédez à **Design Studio.** Ouvrez l&#39;élément à modifier. Sélectionnez **Actions de modèle**, sélectionnez **Modifier le brouillon**.
 
    ![](assets/image2015-4-26-18-3a27-3a4.png)
 
-1. Effectuez les modifications de modèle dans l’onglet Source **** HTML.
+1. Effectuez les modifications de modèle dans l&#39;onglet **Source HTML**.
 
    ![](assets/image2015-4-26-18-3a28-3a17.png)
 
@@ -29,21 +29,21 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
 
    ![](assets/image2014-11-30-15-3a19-3a21-2.png)
 
-1. Sous Domaine, recherchez le domaine approprié et cliquez sur **Générer une balise**.
+1. Sous Domaine, recherchez le domaine approprié et cliquez sur **Générer la balise**.
 
    ![](assets/image2015-4-26-18-3a27-3a35.png)
 
    ![](assets/image2014-11-30-15-3a20-3a17-2.png)
 
-1. Copiez la balise JavaScript RTP et collez-la dans tous vos modèles de landing page entre les **`<head> </head>`** balises.
+1. Copiez la balise JavaScript RTP et collez-la dans tous vos modèles de landing page entre les balises **`<head> </head>`**.
 1. Cliquez sur **Enregistrer** et **Fermer** la fenêtre.
-1. De retour dans **Design Studio**, approuvez le landing page des actions **de** modèle, cliquez sur **Approuver**.\
+1. De retour dans **Design Studio**, approuvez le landing page à partir de **Actions de modèle**, cliquez sur **Approuver**.\
    ![](assets/image2015-4-26-18-3a28-3a30.png)
 
-1. Enfin, vous devrez **réapprouver** tout landing page utilisant ce modèle pour que les modifications apportées au modèle soient prises en compte. Vous pouvez les réapprouver tous en même temps à partir de la section Landings page principaux.
+1. Enfin, vous devrez **réapprouver** les landings page qui utilisent ce modèle pour que les modifications apportées au modèle prennent effet. Vous pouvez les réapprouver tous en même temps à partir de la section Landings page principaux.
 
    ![](assets/image2015-4-26-18-3a28-3a49.png)
 
-1. Vérifiez qu’il s’affiche sur tous les `pages including` landings page et sous-domaines.
+1. Vérifiez qu’il s’affiche sur tous les landings page et sous-domaines `pages including`.
 
-   Pour ce faire, cliquez avec le bouton droit de la souris sur votre `website’s` page. Accédez à la source de la page de **Vue.** Recherchez **RTP** pour localiser la balise.
+   Pour ce faire, cliquez avec le bouton droit de la souris sur votre `website’s` page. Accédez à **Source de la page de Vue.** Recherchez  **** RTP pour localiser la balise.
