@@ -21,11 +21,11 @@ Permettre à vos visiteurs de remplir le formulaire à l’aide de leur réseau 
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier le formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -39,7 +39,7 @@ Permettre à vos visiteurs de remplir le formulaire à l’aide de leur réseau 
 
    >[!TIP]
    >
-   >Regardez quelles [données Marketo capturera](manage-social-profile-data.md) si les utilisateurs utilisent les boutons de réseau social.
+   >Regardez ce que [data Marketo capturera](manage-social-profile-data.md) si les utilisateurs utilisent les boutons de réseau social.
 
 1. Cliquez sur **Terminer**.
 
