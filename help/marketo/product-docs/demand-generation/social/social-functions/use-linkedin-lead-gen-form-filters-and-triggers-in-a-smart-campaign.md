@@ -19,7 +19,7 @@ Lorsque vous avez activé LinkedIn Lead Gen Forms, vous pouvez les utiliser comm
 >
 >Lorsque les utilisateurs envoient leurs informations dans un formulaire de génération de pistes LinkedIn, ces informations sont immédiatement transmises à Marketo, ce qui rend le formulaire disponible dans la liste déroulante Nom du formulaire de génération de pistes. Les noms de formulaire ne seront pas visibles tant qu’au moins une personne n’aura pas envoyé le formulaire.
 
-1. Utilisez le déclencheur **Remplir le formulaire** de génération de pistes LinkedIn pour agir immédiatement ou le filtre de formulaire **de génération de pistes LinkedIn** renseigné pour les campagnes par lots planifiées ou le filtrage de liste dynamique standard.
+1. Utilisez le déclencheur **Remplit le formulaire de génération de pistes LinkedIn** pour agir immédiatement ou le filtre **Rempli le formulaire de génération de pistes LinkedIn** pour les campagnes par lots planifiées ou le filtrage de liste dynamique standard.
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 
