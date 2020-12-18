@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Publication d’un tirage {#publish-a-sweepstakes}
+# Publier un tirage {#publish-a-sweepstakes}
 
-Après avoir [créé un tirage](create-sweepstakes.md), vous pouvez le publier sur vos landings page de marketing, sur votre site Web et sur votre Facebook.
+Une fois que vous avez [créé un tirage](create-sweepstakes.md), vous pouvez le publier sur vos landings page Marketo, sur votre site Web et sur votre Facebook.
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ Après avoir [créé un tirage](create-sweepstakes.md), vous pouvez le publier s
    >
    >Vous devez approuver votre tirage pour le rendre disponible ici.
 
-   [publier le landing page sur Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [placer le tirage sur votre site Web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [publier le landing page sur ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebook placer le tirage sur votre site Web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
    >[!TIP]
    >
@@ -54,6 +54,6 @@ Après avoir [créé un tirage](create-sweepstakes.md), vous pouvez le publier s
 
    >[!NOTE]
    >
-   >Une fois que les gens ont début à s&#39;inscrire, n&#39;oubliez pas de revenir à l&#39;application pour [sélectionner les gagnants](select-sweepstakes-winners.md)du tirage !
+   >Une fois que les utilisateurs ont début à s&#39;inscrire, n&#39;oubliez pas de revenir à l&#39;application pour [sélectionner les gagnants du tirage](select-sweepstakes-winners.md) !
 
 Félicitations ! Approuvez le landing page et votre tirage est en direct. Vous pouvez également ou .
