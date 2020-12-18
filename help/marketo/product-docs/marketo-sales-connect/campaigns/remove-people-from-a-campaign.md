@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression de personnes d’une Campaign {#remove-people-from-a-campaign}
+# Supprimer des personnes d&#39;une Campaign {#remove-people-from-a-campaign}
 
 Vous pouvez mettre automatiquement fin à une Campaign lorsqu’un destinataire répond. Et vous pouvez choisir que le Campaign soit marqué comme un &#39;succès&#39; pour ce destinataire.
 
@@ -19,9 +19,9 @@ Pour configurer ce paramètre, après avoir créé votre campagne, cochez simple
 
 En outre, vous pouvez supprimer des personnes de la campagne elle-même, supprimer des personnes d’une campagne dans la page Personnes et supprimer un groupe entier de personnes. Examinons les trois méthodes ci-dessous.
 
-## Suppression d’une personne directement d’une Campaign {#remove-a-person-directly-from-a-campaign}
+## Supprimer une personne directement d&#39;une Campaign {#remove-a-person-directly-from-a-campaign}
 
-1. Dans Sales Connect, cliquez sur l&#39;onglet **Campagnes** .
+1. Dans Sales Connect, cliquez sur l&#39;onglet **Campagnes**.
 
    ![](assets/one.png)
 
@@ -33,17 +33,17 @@ En outre, vous pouvez supprimer des personnes de la campagne elle-même, supprim
 
    ![](assets/three.png)
 
-1. Recherchez la personne à supprimer, puis cliquez sur **Supprimer**.
+1. Recherchez la personne à supprimer et cliquez sur **Supprimer**.
 
    ![](assets/four.png)
 
-1. (ÉTAPE FACULTATIVE) Vous pouvez également supprimer plusieurs personnes à la fois en cochant les cases en regard de leur nom et en cliquant sur le bouton **Supprimer** en haut de l’écran.
+1. (ÉTAPE FACULTATIVE) Vous pouvez également supprimer plusieurs personnes à la fois en cochant les cases en regard de leur nom et en cliquant sur le bouton **Supprimer** en haut.
 
    ![](assets/five.png)
 
-## Suppression d’une personne d’une page Campaign dans la page Personnes {#remove-a-person-from-a-campaign-within-the-people-page}
+## Supprimer une personne d&#39;une Campaign dans la page Personnes {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. Dans Sales Connect, cliquez sur l&#39;onglet **People** (Personnes).
+1. Dans Sales Connect, cliquez sur l&#39;onglet **Personnes**.
 
    ![](assets/one-a.png)
 
@@ -51,13 +51,13 @@ En outre, vous pouvez supprimer des personnes de la campagne elle-même, supprim
 
    ![](assets/two-a.png)
 
-1. Le panneau Vue des détails personnels s’ouvre à droite. Cliquez sur l’onglet **Historique** suivi du bouton **Supprimer** .
+1. Le panneau Vue des détails personnels s’ouvre à droite. Cliquez sur l&#39;onglet **Historique** suivi du bouton **Supprimer**.
 
    ![](assets/three-a.png)
 
-## Suppression d’un groupe de personnes d’une Campaign {#remove-a-group-of-people-from-a-campaign}
+## Supprimer un groupe de personnes d&#39;un Campaign {#remove-a-group-of-people-from-a-campaign}
 
-1. Dans Sales Connect, cliquez sur l&#39;onglet **People** (Personnes).
+1. Dans Sales Connect, cliquez sur l&#39;onglet **Personnes**.
 
    ![](assets/one-b.png)
 
