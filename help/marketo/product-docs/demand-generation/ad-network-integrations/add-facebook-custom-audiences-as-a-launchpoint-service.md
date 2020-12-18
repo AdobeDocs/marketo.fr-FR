@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Cette intégration vous permet d’envoyer des données d’audience des listes statiques et dynamiques de Marketo à Facebook pour les utiliser comme Audiences personnalisées dans les campagnes publicitaires Facebook. Voici comment le configurer.
 
-1. Accédez à **l’administrateur** du marketing.
+1. Accédez à Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
@@ -27,7 +27,7 @@ Cette intégration vous permet d’envoyer des données d’audience des listes 
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Saisissez un nom **** d’affichage pour votre service et sélectionnez le service d’Audiences **personnalisées** Facebook dans la liste déroulante **Service** .
+1. Saisissez un **nom d’affichage** pour votre service et sélectionnez le service **Audiences personnalisées Facebook** dans la liste déroulante **Service**.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
@@ -35,7 +35,7 @@ Cette intégration vous permet d’envoyer des données d’audience des listes 
 
    >[!CAUTION]
    >
-   >Pour que Marketing puisse envoyer des audiences sur plusieurs comptes Ad Manager, l’utilisateur Facebook que vous autorisez dans les étapes suivantes doit avoir accès à *tous* ces comptes.
+   >Pour que Marketing puisse envoyer des audiences sur plusieurs comptes Ad Manager, l’utilisateur Facebook que vous autorisez dans les étapes suivantes doit avoir accès à *tous* de ces comptes.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
@@ -45,7 +45,7 @@ Cette intégration vous permet d’envoyer des données d’audience des listes 
 
    >[!NOTE]
    >
-   >Vous *devez* utiliser un compte Facebook Business Manager pour que l’intégration des Audiences personnalisées fonctionne. Pour savoir comment configurer un compte Business Manager, consultez l’aide [de](https://www.facebook.com/business/help/1710077379203657)Facebook.
+   >Vous *devez* utiliser un compte Facebook Business Manager pour que l’intégration des Audiences personnalisées fonctionne. Pour savoir comment configurer un compte Business Manager, consultez l&#39;[Aide de Facebook](https://www.facebook.com/business/help/1710077379203657).
 
 1. Si vous y êtes invité, cliquez sur **OK **pour accepter l’installation de l’application Marketo dans Facebook.
 
@@ -55,7 +55,7 @@ Cette intégration vous permet d’envoyer des données d’audience des listes 
 
    >[!NOTE]
    >
-   >**La Correspondance de base** utilise uniquement les adresses électroniques.**La Correspondance** avancée utilise sept champs supplémentaires, ce qui augmente le taux de correspondance, pour plus de conversion. Cependant, si la politique de confidentialité de votre société n’autorise pas le partage de champs supplémentaires ou si vos données ne les incluent pas, sélectionnez Correspondance de base.
+   >**La Correspondance de base** utilise uniquement les adresses électroniques.**Les** correspondances avancées utilisent sept champs supplémentaires, ce qui augmente le taux de correspondance, pour davantage de conversions. Cependant, si la politique de confidentialité de votre société n’autorise pas le partage de champs supplémentaires ou si vos données ne les incluent pas, sélectionnez Correspondance de base.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,7 +63,7 @@ Cette intégration vous permet d’envoyer des données d’audience des listes 
 
    >[!CAUTION]
    >
-   >Oh, avant de partir, veillez à [accepter les termes](https://www.facebook.com/ads/manage/customaudiences/tos.php) d&#39;Audiences personnalisées de Facebook dans votre compte Facebook ! Sans cela, les mises à jour des audiences échoueront.
+   >Oh, avant de partir, veillez à [Accepter les termes d&#39;Audiences personnalisées de Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte Facebook ! Sans cela, les mises à jour des audiences échoueront.
 
 >[!MORELIKETHIS]
 >
