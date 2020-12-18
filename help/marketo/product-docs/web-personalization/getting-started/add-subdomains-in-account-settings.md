@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Ajouter des sous-domaines dans les paramètres du compte {#add-subdomains-in-account-settings}
+# Ajouter des sous-domaines dans les paramètres de compte {#add-subdomains-in-account-settings}
 
 Voici comment ajouter des sous-domaines à vos Principaux domaines dans Paramètres du compte. Cela vous permettra de gérer les sous-domaines liés au script JavaScript RTP spécifique de votre Principal domaine. Il est recommandé de déployer la balise Javascript sur tous les sous-domaines ajoutés.
 
-1. Dans Personnalisation Web, accédez à Paramètres **du** compte.
+1. Dans Personnalisation Web, accédez à **Paramètres du compte**.
 
    ![](assets/image2014-12-1-23-3-12.png)
 
@@ -27,7 +27,7 @@ Voici comment ajouter des sous-domaines à vos Principaux domaines dans Paramèt
 
    ![](assets/add.png)
 
-1. Entrez l’URL du sous-domaine. Cliquez sur **Ajouter** ou **Supprimer** pour gérer votre liste de sous-domaines, puis sur **OK** lorsque vous avez terminé.
+1. Entrez l’URL du sous-domaine. Cliquez sur **Ajouter** ou **Supprimer** pour gérer votre liste de sous-domaines, puis cliquez sur **OK** lorsque vous avez terminé.
 
    ![](assets/newsubdomain.png)
 
@@ -37,5 +37,5 @@ Voici comment ajouter des sous-domaines à vos Principaux domaines dans Paramèt
 
    >[!NOTE]
    >
-   >Si vous souhaitez ajouter des domaines *Principaux* à votre compte, contactez l’assistance [](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133)marketing.
+   >Si vous souhaitez ajouter des domaines *Principal* à votre compte, contactez le [Support marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
 
