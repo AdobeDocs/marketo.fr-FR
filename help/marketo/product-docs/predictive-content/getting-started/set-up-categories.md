@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Selon la date d’achat, votre abonnement Marketo peut inclure du contenu prédictif ou du contenu`<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités d’analyse de contenu`<sup>AI</sup>` jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers le contenu`<sup>AI</sup>`Marketo.
+>Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 Créez des catégories dans Contenu prédictif pour regrouper vos résultats prédictifs sur le Web ou par courriel. Par exemple, vous pouvez travailler uniquement avec des blogs ou avec du contenu dans une langue particulière. Il vous permet également de rechercher et de filtrer la vue de vos pages.  Les catégories s’affichent dans les pages Tout le contenu et Contenu prédictif pour faciliter les références.
 
@@ -29,11 +29,11 @@ Lorsque vous ajoutez du contenu, vous pouvez le marquer avec des catégories sé
 
 ![](assets/add-new-content-dropdown-hand.png)
 
-## Création de balises de Catégorie {#create-category-tags}
+## Créer des balises de Catégorie {#create-category-tags}
 
 Voici comment créer des balises de catégorie.
 
-1. Accédez à Paramètres **** de contenu.
+1. Accédez à **Paramètres de contenu**.
 
    ![](assets/settings-dropdown-hand-1.png)
 
@@ -45,7 +45,7 @@ Voici comment créer des balises de catégorie.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. Vous pouvez supprimer une balise de catégorie en cliquant sur le **x** en regard de celle-ci.
+1. Vous pouvez supprimer une balise de catégorie en cliquant sur **x** en regard de celle-ci.
 
    ![](assets/remove-category-tag-updated.png)
 
