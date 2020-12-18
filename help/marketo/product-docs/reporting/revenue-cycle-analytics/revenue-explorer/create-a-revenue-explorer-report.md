@@ -25,7 +25,7 @@ Le rapport Explorateur de recettes vous permet de suivre le RSI de vos initiativ
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Cliquez sur **Créer nouveau** , puis sélectionnez **Rapport**.
+1. Cliquez sur **Créer nouveau**, puis sélectionnez **Rapport**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
