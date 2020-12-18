@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Création d’un extrait de code {#create-a-snippet}
+# Créer un extrait de code {#create-a-snippet}
 
-Les extraits de code peuvent être utilisés comme blocs de contenu dynamiques sur les **courriels** et les **landings page.**
+Les extraits de code peuvent être utilisés comme blocs de contenu dynamiques sur les **landings page** et **e-mails.**
 
-1. Rendez-vous au **Design Studio.**
+1. Accédez à **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Cliquez sur **Nouveau **puis sur **Nouveau fragment de code**.
+1. Cliquez sur **Nouveau **puis sur **Nouvel extrait de code**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. Saisissez les détails requis et cliquez sur **Créer**.
+1. Saisissez les informations requises et cliquez sur **Créer**.
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Bon travail ! Simplifiez votre travail en créant des extraits de code pour votre contenu dynamique. Vous pouvez maintenant [ajouter du contenu à votre nouveau fragment](add-content-to-a-snippet.md).
+Bon travail ! Simplifiez votre travail en créant des extraits de code pour votre contenu dynamique. Vous pouvez maintenant aller de l&#39;avant et [ajouter du contenu à votre nouveau fragment](add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
