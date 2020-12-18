@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Dans l&#39;onglet Equipe, nous mettons en évidence trois mesures importantes.
 
-## Courriers électroniques envoyés avec un modèle {#emails-sent-with-template}
+## Courriers électroniques envoyés avec le modèle {#emails-sent-with-template}
 
 Parmi les courriers électroniques envoyés, combien d&#39;entre eux ont utilisé un modèle.
 
-## Temps d’engagement maximal {#peak-time-of-engagement}
+## Temps d&#39;engagement maximal {#peak-time-of-engagement}
 
 Sur l’ensemble du panorama, nous gonflons le pic d’engagement qui indique l’heure à laquelle votre équipe reçoit le plus d’activité (vues, clics, réponses). Votre équipe peut planifier des courriers électroniques ou planifier leur envoi de façon stratégique à cette date.
 
-## Accords clôturés {#deals-closed}
+## Affaires clôturées {#deals-closed}
 
 Ce chiffre est basé sur le volume des ventes et le nombre d&#39;affaires qui ont été conclues au cours du mois en cours.
 
