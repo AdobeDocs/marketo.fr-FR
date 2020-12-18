@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Création d’un rapport sur les performances des personnes avec des colonnes de plateformes mobiles {#build-a-people-performance-report-with-mobile-platform-columns}
+# Créer un rapport sur les performances des personnes avec des colonnes de plateformes mobiles {#build-a-people-performance-report-with-mobile-platform-columns}
 
 Pour créer un rapport sur les performances des personnes avec des colonnes de plateformes mobiles (iOS/Android), procédez comme suit.
 
-## Création de Listes mobiles dynamiques {#create-mobile-smart-lists}
+## Créer des Listes mobiles dynamiques {#create-mobile-smart-lists}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/ma.png)
 
@@ -25,15 +25,15 @@ Pour créer un rapport sur les performances des personnes avec des colonnes de p
 
    ![](assets/two-1.png)
 
-1. Sous **Nouveau**, sélectionnez **Nouveau fichier** local.
+1. Sous **New**, sélectionnez **New Local Asset**.
 
    ![](assets/three-1.png)
 
-1. Cliquez sur Liste **** intelligente.
+1. Cliquez sur **Liste intelligente**.
 
    ![](assets/four-1.png)
 
-1. Saisissez un nom, puis cliquez sur **Créer**.
+1. Saisissez un nom et cliquez sur **Créer**.
 
    ![](assets/five-1.png)
 
@@ -63,13 +63,13 @@ Pour créer un rapport sur les performances des personnes avec des colonnes de p
 
    Créez maintenant une seconde liste intelligente pour la plate-forme &quot;Android&quot;. Une fois cela fait, passez à la section suivante.
 
-## Création d’un rapport sur les performances des personnes {#create-a-people-performance-report}
+## Créer un rapport sur les performances des personnes {#create-a-people-performance-report}
 
-1. Sous Activités marketing, sélectionnez le programme qui héberge vos listes dynamiques **iOS** et **Android** .
+1. Sous Activités marketing, sélectionnez le programme qui héberge vos **listes dynamiques &lt;a0/>iOS** et **Android**.
 
    ![](assets/ten.png)
 
-1. Sous **Nouveau**, sélectionnez **Nouveau fichier** local.
+1. Sous **New**, sélectionnez **New Local Asset**.
 
    ![](assets/eleven.png)
 
@@ -77,7 +77,7 @@ Pour créer un rapport sur les performances des personnes avec des colonnes de p
 
    ![](assets/twelve.png)
 
-1. Définissez le type sur Performance **des** personnes.
+1. Définissez le type sur **Performance des personnes**.
 
    ![](assets/thirteen.png)
 
@@ -89,7 +89,7 @@ Pour créer un rapport sur les performances des personnes avec des colonnes de p
 
 ## Ajouter les Listes dynamiques mobiles en tant que colonnes {#add-mobile-smart-lists-as-columns}
 
-1. Dans le rapport que vous venez de créer, cliquez sur **Configuration**, puis faites glisser des colonnes **** personnalisées dans le canevas.
+1. Dans le rapport que vous venez de créer, cliquez sur **Configuration**, puis faites glisser **Colonnes personnalisées** dans le canevas.
 
    ![](assets/fifteen.png)
 
@@ -97,7 +97,7 @@ Pour créer un rapport sur les performances des personnes avec des colonnes de p
    >
    >Par défaut, le rapport Performance des personnes examine les 7 derniers jours. Vous pouvez modifier la période en cliquant sur celle-ci par doublon.
 
-1. Recherchez et sélectionnez les listes dynamiques que vous avez créées précédemment, puis cliquez sur **Appliquer**.
+1. Recherchez et sélectionnez les listes dynamiques que vous avez créées précédemment et cliquez sur **Appliquer**.
 
    ![](assets/sixteen.png)
 
