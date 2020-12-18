@@ -23,15 +23,15 @@ Vous pouvez planifier la campagne Web en fonction de l’heure du visiteur Web o
 >
 >La planification des dates de début et d’arrêt est idéale pour un événement planifié, tel qu’un webinaire, qui s’exécute pendant une période spécifique. Les répétitions sont parfaites pour une offre spéciale qui ne fonctionne que chaque semaine un jour donné.
 
-1. Accédez à Campagnes **** Web.
+1. Accédez à **Campagnes Web**.
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne de votre choix, utilisez la fonction [de](filter-web-campaigns.md)filtrage.
+   >Pour faciliter la recherche de la campagne souhaitée, utilisez la fonction de filtre [](filter-web-campaigns.md).
 
-1. Ouvrez le menu État de Campaign et sélectionnez **Planifier**.
+1. Ouvrez le menu État du Campaign et sélectionnez **Planification**.
 
    ![](assets/image2016-8-18-16-3a41-3a45.png)
 
@@ -51,11 +51,11 @@ Vous pouvez planifier la campagne Web en fonction de l’heure du visiteur Web o
    >
    >Vous pouvez sélectionner la date et l’heure dans le menu déroulant et le calendrier ou les saisir manuellement. Les horaires sont à 12 heures du matin et du soir.
 
-1. Par défaut, la campagne s’exécute tous les jours entre le début et la date de fin. Si vous souhaitez exécuter la campagne uniquement sur des jours spécifiques ou à des moments spécifiques, utilisez les paramètres **Répéter** . Sélectionnez le jour, le début et l’heure de fin pour afficher la campagne. Utilisez le signe plus + pour ajouter des jours supplémentaires.
+1. Par défaut, la campagne s’exécute tous les jours entre le début et la date de fin. Si vous souhaitez exécuter la campagne uniquement sur des jours spécifiques ou à des moments spécifiques, utilisez les paramètres **Répéter**. Sélectionnez le jour, le début et l’heure de fin pour afficher la campagne. Utilisez le signe plus + pour ajouter des jours supplémentaires.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Cliquez sur **Planifier**.
+1. Cliquez sur **Planification**.
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
@@ -65,5 +65,5 @@ Vous pouvez planifier la campagne Web en fonction de l’heure du visiteur Web o
 
    >[!NOTE]
    >
-   >L’état de la campagne reste **Planifié** , même si la campagne s’exécute pendant les heures planifiées sélectionnées. Lorsqu’une date de fin planifiée est passée, l’état de la campagne devient **En pause**.
+   >L’état de la campagne reste **Planifiée** même si la campagne s’exécute pendant les heures planifiées sélectionnées. Lorsqu’une date de fin planifiée est passée, l’état de la campagne devient **En pause**.
 
