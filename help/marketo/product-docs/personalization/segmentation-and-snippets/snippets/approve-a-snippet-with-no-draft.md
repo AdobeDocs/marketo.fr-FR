@@ -21,14 +21,14 @@ Aucun brouillon est déclenché chaque fois qu&#39;un extrait de code est approu
 
    ![](assets/go-to-design-studio.png)
 
-1. Sélectionnez un extrait de code et dans la liste déroulante Actions **** d’extrait de code, choisissez **Approuver**.
+1. Sélectionnez un extrait de code et dans la liste déroulante **Actions de fragment de code**, choisissez **Approuver**.
 
    ![](assets/approve-snippet.png)
 
-1. Sélectionnez une option dans la boîte de dialogue Approuver l’extrait de code, puis cliquez sur **Approuver**:
+1. Sélectionnez une option dans la boîte de dialogue Approuver l’extrait de code, puis cliquez sur **Approuver** :
 
-   * **Mettre à jour tout**: Cette option ne crée pas de brouillons des ressources approuvées à l’aide du fragment de code. Toutes les ressources obtiennent les mises à jour et conservent leur état antérieur. Un module de progression s’affiche en haut à droite de l’écran ; il peut être fermé à tout moment. Pour le restaurer, cliquez avec le bouton droit de la souris sur le nom du fragment de code et sélectionnez Afficher l’état d’approbation.
-   * **Créer des brouillons**: Cette option crée des brouillons des ressources approuvées à l’aide du fragment de code. Sélectionnez cette option si les modifications apportées aux fragments de code doivent être examinées en premier. Tous les brouillons doivent être approuvés manuellement.
+   * **Mettre à jour tout** : Cette option ne crée pas de brouillons des ressources approuvées à l’aide du fragment de code. Toutes les ressources obtiennent les mises à jour et conservent leur état antérieur. Un module de progression s’affiche en haut à droite de l’écran ; il peut être fermé à tout moment. Pour le restaurer, cliquez avec le bouton droit de la souris sur le nom du fragment de code et sélectionnez Afficher l’état d’approbation.
+   * **Créer des brouillons** : Cette option crée des brouillons des ressources approuvées à l’aide du fragment de code. Sélectionnez cette option si les modifications apportées aux fragments de code doivent être examinées en premier. Tous les brouillons doivent être approuvés manuellement.
 
    ![](assets/snippet-dialog-box.png)
 
@@ -38,7 +38,7 @@ Aucun brouillon est déclenché chaque fois qu&#39;un extrait de code est approu
 
 >[!CAUTION]
 >
->Cette fonctionnalité est conçue pour gagner du temps avec le processus d’approbation des fragments de code. Cependant, il y a quelques limites à connaître. Veuillez consulter [ce document](https://nation.marketo.com/docs/DOC-4415) pour plus de détails. Le document contient également des informations sur la gestion des erreurs et le dépannage.
+>Cette fonctionnalité est conçue pour gagner du temps avec le processus d’approbation des fragments de code. Cependant, il y a quelques limites à connaître. Pour plus de détails, voir [ce document](https://nation.marketo.com/docs/DOC-4415). Le document contient également des informations sur la gestion des erreurs et le dépannage.
 
 >[!MORELIKETHIS]
 >
