@@ -20,31 +20,31 @@ Utilisez Programme Analyzer pour comparer les coûts de canal, l&#39;acquisition
 >* [Création d’un analyseur de Programme](create-a-program-analyzer.md)
 
 
-1. Cliquez sur **Analytics** dans **Mon marketing.**
+1. Cliquez sur **Analyses** dans **Mon Marketo.**
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Sélectionnez votre analyseur de **Programmes.**
+1. Sélectionnez votre **Analyseur de Programme.**
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Modifiez la Vue en Par **** Canal ****.
+1. Remplacez la Vue par **Par** **Canal**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. Utilisez la liste déroulante Axe **** X pour choisir une mesure pour l’axe horizontal. Début avec le coût **du** Programme.
+1. Utilisez la liste déroulante **Axe X** pour choisir une mesure pour l’axe horizontal. Début avec **coût du Programme**.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Utilisez la liste déroulante Axe Y pour choisir une mesure pour l’axe vertical. Ici, nous allons aller avec **(FT) Pipeline créé**.
+1. Utilisez la liste déroulante Axe Y pour choisir une mesure pour l’axe vertical. Ici, nous allons passer au **(FT) Pipeline créé**.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >La plupart des mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multipoint (MT). Il est important de comprendre la [différence entre l’attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT et MT.
+   >La plupart des mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multipoint (MT). Il est important de comprendre la différence [entre l’attribution FT et l’attribution MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Utilisez la liste déroulante Axe **** Y pour choisir **(MT) Pipeline Created**.
+1. Utilisez la liste déroulante **Axe Y** pour choisir le pipeline **(MT) créé**.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
@@ -52,7 +52,7 @@ Utilisez Programme Analyzer pour comparer les coûts de canal, l&#39;acquisition
 
    Ajoutons maintenant deux dimensions supplémentaires !
 
-1. Utilisez la liste déroulante Taille **de la** bulle pour sélectionner une mesure supplémentaire, telle que **Nouveaux noms**.
+1. Utilisez la liste déroulante **Taille de la bulle** pour sélectionner une mesure supplémentaire, telle que **Noms**.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -60,9 +60,9 @@ Utilisez Programme Analyzer pour comparer les coûts de canal, l&#39;acquisition
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   Nous voyons que le canal Webinaire se rétrécit, comme mesuré par **Nouveaux noms**. Nous pouvons en conclure que, bien qu&#39;elle compte de nombreux membres, elle est moins efficace pour générer de nouvelles pistes que le canal du commerce.
+   Nous constatons que le canal Webinaire se réduit, comme mesuré par **Nouveaux noms**. Nous pouvons en conclure que, bien qu&#39;elle compte de nombreux membres, elle est moins efficace pour générer de nouvelles pistes que le canal du commerce.
 
-1. Enfin, utilisez la liste déroulante Couleur pour ajouter la quatrième dimension. Sélectionnez **(FT) Recettes** **gagnées**.
+1. Enfin, utilisez la liste déroulante Couleur pour ajouter la quatrième dimension. Sélectionnez **(FT) Recettes** **Gagnées**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -72,7 +72,7 @@ Utilisez Programme Analyzer pour comparer les coûts de canal, l&#39;acquisition
 
    D&#39;après les couleurs, nous apprenons que le canal de commerce, la bulle la plus verte, a influencé les plus grosses recettes gagnées, comme mesuré par l&#39;attribution Première touche.
 
-1. Maintenant, si nous changeons la mesure Couleur en Recettes gagnées ****(MT), nous constatons que le canal de publicité en ligne, désormais le plus vert, a influencé plus de recettes au fil du temps que les canaux Webinaire et Tradeshow.
+1. Maintenant, si nous changeons la mesure Couleur en **(MT) Recettes gagnées**, nous voyons que le canal de publicité en ligne, désormais le plus vert, a influencé plus de recettes au fil du temps que les canaux Webinaire et Tradeshow.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
@@ -95,4 +95,4 @@ Dans notre exemple, nous constatons que le canal Tradeshow est à la fois le plu
 
 >[!NOTE]
 >
->En savoir plus sur les analyses avancées dans l’explorateur [](http://docs.marketo.com/display/docs/revenue+cycle+analytics)Recettes Cycle.
+>En savoir plus sur les analyses avancées dans [l&#39;Explorateur de cycles de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
