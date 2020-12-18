@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Partage d’un modèle sur plusieurs espaces de travail {#share-a-model-across-workspaces}
+# Partage d&#39;un modèle dans les espaces de travail {#share-a-model-across-workspaces}
 
 Marketo vous permet de partager un ou plusieurs modèles entre différents espaces de travail. Voici comment.
 
-1. Accédez à la section **Analytics** .
+1. Accédez à la section **Analyses**.
 
    ![](assets/analytics.png)
 
@@ -27,7 +27,7 @@ Marketo vous permet de partager un ou plusieurs modèles entre différents espac
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Faites glisser le ou les modèles que vous souhaitez partager dans le dossier **** Partager.
+1. Faites glisser le ou les modèles que vous souhaitez partager dans le dossier **Partager**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
@@ -44,4 +44,4 @@ Marketo vous permet de partager un ou plusieurs modèles entre différents espac
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-C&#39;est si facile ! Maintenant, les gens d&#39;autres espaces de travail peuvent passer à travers le modèle partagé. Vous pouvez exécuter l&#39;affectation de personnes dans cet espace de travail, voir [Lancement du modèle](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) de cycle de revenus pour plus d&#39;informations.
+C&#39;est si facile ! Maintenant, les gens d&#39;autres espaces de travail peuvent passer à travers le modèle partagé. Vous pouvez exécuter l&#39;affectation de personne dans cet espace de travail, voir [Lancement du modèle de cycle de revenus](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) pour plus d&#39;informations.
