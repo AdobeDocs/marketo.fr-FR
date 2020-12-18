@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Utilisation d’actions rapides pour accélérer votre processus {#using-quick-actions-to-speed-up-your-workflow}
+# Utilisation d’actions rapides pour accélérer votre flux de travail {#using-quick-actions-to-speed-up-your-workflow}
 
 Il existe deux types de colonnes d&#39;action rapide dans la grille de courriel. Actions par courrier électronique, qui vous permettent d’agir sur le courrier électronique, et Actions de suivi, qui vous permettent d’agir sur l’engagement en quelques clics rapides.
 
-## Actions de courrier électronique {#email-actions}
+## Actions de courriel {#email-actions}
 
 Les actions rapides de courrier électronique sont dynamiques et mises à jour en fonction des actions les plus pertinentes pour l’état du courrier électronique que vous consultez. Au maximum deux actions rapides de courrier électronique sont visibles pour chaque état de courrier électronique. Vous pouvez voir les actions rapides de messagerie qui seront disponibles pour chaque état ci-dessous.
 
@@ -39,7 +39,7 @@ Les actions rapides de courrier électronique sont dynamiques et mises à jour e
   </tr> 
   <tr> 
    <td>Supprimer</td> 
-   <td><p>Supprime le courrier électronique.<br><strong>Remarque :</strong> Les courriers électroniques envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
+   <td><p>Supprime le courrier électronique.<br><strong>Remarque : les </strong> courriers électroniques envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -58,7 +58,7 @@ Les actions rapides de courrier électronique sont dynamiques et mises à jour e
   </tr> 
   <tr> 
    <td>Supprimer</td> 
-   <td><p>Supprime le courrier électronique.<br><strong>Remarque :</strong> Les courriers électroniques envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
+   <td><p>Supprime le courrier électronique.<br><strong>Remarque : les </strong> courriers électroniques envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -77,7 +77,7 @@ Les actions rapides de courrier électronique sont dynamiques et mises à jour e
   </tr> 
   <tr> 
    <td>Supprimer</td> 
-   <td><p>Supprime le courrier électronique.<br><strong>Remarque :</strong> Les courriers électroniques envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
+   <td><p>Supprime le courrier électronique.<br><strong>Remarque : les </strong> courriers électroniques envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
   </tr> 
  </tbody> 
 </table>
