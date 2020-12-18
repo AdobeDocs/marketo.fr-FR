@@ -17,4 +17,4 @@ Les champs dynamiques sont notre forme de publipostage.
 
 Nous vous permettons de personnaliser vos modèles de courrier électronique avec des attributs prédéfinis tels que `{{my_name}}` ou `{{my_title}}`. Ces champs vous permettent de vous référencer rapidement dans vos modèles de courrier électronique.
 
-Pour ajouter un champ dynamique d’auto-référence à un modèle, il vous suffit de sélectionner celui que vous souhaitez utiliser à partir du bouton Champs **dynamiques** MSE dans l’éditeur de modèles.
+Pour ajouter un champ dynamique d’auto-référence à un modèle, il vous suffit de sélectionner celui que vous souhaitez utiliser à partir du bouton **Champs dynamiques MSE** de l’éditeur de modèles.
