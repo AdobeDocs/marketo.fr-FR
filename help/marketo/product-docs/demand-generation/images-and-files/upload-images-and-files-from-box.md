@@ -19,11 +19,11 @@ Vous pouvez télécharger des fichiers depuis Box pour les utiliser sur des land
 
    ![](assets/designstudio-3.png)
 
-1. Accédez à** Images et fichiers**. Cliquez sur Actions **de** fichier et sélectionnez **Saisir des images à partir du Web**.
+1. Accédez à** Images et fichiers**. Cliquez sur **Actions de fichier** et sélectionnez **Capturer les images à partir du Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. Cliquez sur **Zone**.
+1. Cliquez sur **Case**.
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
