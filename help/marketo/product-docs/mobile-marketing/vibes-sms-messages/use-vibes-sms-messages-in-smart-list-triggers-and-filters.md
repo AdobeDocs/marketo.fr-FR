@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Utiliser des messages SMS de vidéos dans les déclencheurs et Filtres de Liste intelligente {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Après avoir [créé un message](create-a-vibes-sms-message.md)SMS Vibes, vous utiliserez des déclencheurs et des filtres de liste intelligents au sein d’une campagne intelligente pour en tirer parti. Voici comment.
+Après avoir [créé un message SMS Vibes](create-a-vibes-sms-message.md), vous souhaiterez utiliser des déclencheurs et des filtres de liste intelligents dans une campagne intelligente pour en tirer les avantages. Voici comment.
 
-1. Dans Mon marketing, cliquez sur Activités **** marketing.
+1. Dans Mon marketing, cliquez sur **Activités marketing**.
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
-1. Choisissez une campagne intelligente dans laquelle vous souhaitez utiliser votre fichier SMS. Faites glisser le pointeur sur un déclencheur, tel que le formulaire **** Remplit.
+1. Choisissez une campagne intelligente dans laquelle vous souhaitez utiliser votre fichier SMS. Faites glisser le pointeur sur un déclencheur, par exemple le bouton populaire **Remplit le formulaire**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
@@ -35,7 +35,7 @@ Le déclencheur Rebonds de message SMS déclenche un flux, tel que l&#39;envoi d
 
 ![](assets/sms-message-bounces-real.jpg)
 
-Le déclencheur de la Liste **S’abonner à** des vidéos déclenche un flux lorsqu’une personne s’abonne.
+Le déclencheur **S&#39;abonne à la Liste Vibes** déclenche un flux lorsqu&#39;une personne s&#39;abonne.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
@@ -45,19 +45,19 @@ Le déclencheur** Clics sur le lien dans le message SMS** lance un flux lorsqu&#
 
 ## FILTRES SMS {#sms-filters}
 
-Vous pouvez également utiliser des filtres Vibes dans des listes dynamiques. Le filtre de Liste **** Abonné à Vibes permet de rechercher toute personne qui s’est *jamais* abonnée à Vibes. Cela inclut à la fois les personnes désabonnées et supprimées, même si les personnes supprimées sont omises du flux. Ce filtre convient mieux au rapports.
+Vous pouvez également utiliser des filtres Vibes dans des listes dynamiques. Le filtre **Abonné à la Liste Vibes** recherche toute personne ayant *jamais* abonné à Vibes. Cela inclut à la fois les personnes désabonnées et supprimées, même si les personnes supprimées sont omises du flux. Ce filtre convient mieux au rapports.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-En revanche, le **filtre** **Member of Vibes Liste **trouve** **toute personne** ***actuellement abonnée à Vibes et convient le mieux à une utilisation dans des campagnes ou des listes intelligentes.*
+En revanche, le **Membre de la Liste Vibes **filter** **trouve** **n&#39;importe qui** ***actuellement* abonné à Vibes et est le plus adapté pour une utilisation dans des campagnes ou des listes intelligentes.
 
 ![](assets/image001.png)
 
 >[!NOTE]
 >
->Par défaut, tous les filtres SMS incluent la contrainte **Date d&#39;Activité** .
+>Tous les filtres SMS incluent par défaut la contrainte **Date d&#39;Activité**.
 
-Une fois que vous avez configuré des déclencheurs et des filtres Vibes dans votre liste dynamique, vous pouvez [définir le flux](add-a-flow-step-for-sms.md).
+Après avoir configuré des déclencheurs et des filtres de vidéos dans votre liste dynamique, vous pouvez [définir le flux](add-a-flow-step-for-sms.md).
 
 >[!MORELIKETHIS]
 >
