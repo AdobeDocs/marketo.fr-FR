@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Introduction {#introduction}
 
-Pour les nouveaux clients de Marketo, la personnalisation en temps réel est divisée en quatre applications, accessibles à l’aide de ces deux mosaïques : Personnalisation Web et contenu`<sup>AI</sup>`.
+Pour les nouveaux clients de Marketo, la personnalisation en temps réel est divisée en quatre applications, accessibles à l’aide de ces deux mosaïques : Personnalisation Web et contenu `<sup>AI</sup>`.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
@@ -27,7 +27,7 @@ Les clients existants continuent d’accéder aux applications via la mosaïque 
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Lorsque vous cliquez sur le volet Personnalisation Web, la page de Tableau de bord s’affiche. Cliquez sur la mosaïque Contenu`<sup>AI</sup>` et accédez directement à la page Recommendations de contenu.
+Lorsque vous cliquez sur le volet Personnalisation Web, la page de Tableau de bord s’affiche. Cliquez sur la mosaïque Contenu `<sup>AI</sup>` et accédez directement à la page Recommendations de contenu.
 
 Les quatre applications sont les suivantes :
 
@@ -36,13 +36,13 @@ Les quatre applications sont les suivantes :
 * Reciblage du site Web
 * Contenu`<sup>AI</sup>`
 
-La **mosaïque de personnalisation Web** est votre point d’accès pour** la **création de campagnes Web personnalisées.** **Marketing Web basé sur le compte et reciblage Web. Vous pouvez ajouter du contenu sur la page Analyse de contenu.
+La mosaïque de personnalisation Web** **est votre point d’accès pour** **créer des campagnes Web personnalisées.** **Marketing Web basé sur le compte et reciblage Web. Vous pouvez ajouter du contenu sur la page Analyse de contenu.
 
-**Le marketing** Web basé sur le compte fonctionne avec la personnalisation Web et propose des fonctions de comptes nommés. La page Comptes nommés fournit des informations graphiques sur les clients existants, le total des engagements et les tendances organisationnelles, ainsi qu’une liste des comptes. Vous pouvez également y créer de nouveaux comptes nommés.
+**Le** marketing Web basé sur le compte fonctionne avec la personnalisation Web et comprend les comptes nommés. La page Comptes nommés fournit des informations graphiques sur les clients existants, le total des engagements et les tendances organisationnelles, ainsi qu’une liste des comptes. Vous pouvez également y créer de nouveaux comptes nommés.
 
-**Le reciblage** de site Web vous permet de relancer les audiences segmentées. Vous pouvez définir des segments, mais pas utiliser de comptes nommés dans le filtre.
+**Site Web** Retargetingvous donne le pouvoir de recommercialiser des audiences segmentées. Vous pouvez définir des segments, mais pas utiliser de comptes nommés dans le filtre.
 
-**Le contenu`<sup>AI</sup>`** est l’endroit où donner des recommandations sur le contenu. Vous pouvez facilement ajouter du contenu à la page Recommendations de contenu.
+**`<sup>AI</sup>`** Contient l’emplacement où donner des recommandations de contenu. Vous pouvez facilement ajouter du contenu à la page Recommendations de contenu.
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ Le panneau de droite de la page Organisations offre les fonctionnalités et info
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Icône</strong>de feuille de calcul : Située en haut à droite du panneau, l’icône télécharge le tableau Organisations au format CSV en vue d’une utilisation hors ligne.</p><p><strong>Définir l'alerte</strong>par courriel : Envoie un courrier électronique à l'utilisateur connecté chaque fois que l'organisation sélectionnée visite le site Web.</p><p><strong>Pistes</strong>: Ouvre la table des prospects pour l'organisation sélectionnée</p><p><strong>Partager</strong>: Ouvre une fenêtre contextuelle permettant d’envoyer un courriel et de partager les détails de l’organisation qui a visité la page Web.</p><p><strong>Icône</strong>d'emplacement : Affiche le pays et la ville de l'organisation sélectionnée</p><p><strong>Liens</strong>: Jigsaw, Whois, Linkedin, Google, Twitter ouvrent une nouvelle fenêtre contenant des informations supplémentaires sur la page Web correspondante, ce qui vous permet de mieux comprendre l’organisation sélectionnée.</p><p><strong>Rechercher</strong>: Affiche le mot-clé utilisé si le visiteur est arrivé par l'intermédiaire d'un moteur de recherche.</p><p><strong>Parrains</strong>: Affiche le lien URL de la page qui a renvoyé le trafic vers votre site.</p><p><strong>Visiteur</strong>: Affiche le nombre de visites, le nombre de pages consultées par l’organisation sélectionnée et leur adresse électronique (s’ils ont rempli un formulaire d’envoi), ainsi que l’heure et la date de la dernière visite.</p><p><strong>Clickstream</strong>: Affiche un tableau de l’activité utilisateur et du chemin d’accès à l’URL sur le site et de la durée de visite de chaque page.</p></td> 
+   <td><p><strong>Icône</strong> de feuille de calcul : Située en haut à droite du panneau, l’icône télécharge le tableau Organisations au format CSV en vue d’une utilisation hors ligne.</p><p><strong>Définir l'alerte</strong> par courriel : Envoie un courrier électronique à l'utilisateur connecté chaque fois que l'organisation sélectionnée visite le site Web.</p><p><strong>Pistes</strong> : Ouvre la table des prospects pour l'organisation sélectionnée</p><p><strong>Partager</strong> : Ouvre une fenêtre contextuelle permettant d’envoyer un courriel et de partager les détails de l’organisation qui a visité la page Web.</p><p><strong>Icône</strong> d'emplacement : Affiche le pays et la ville de l'organisation sélectionnée</p><p><strong>Liens</strong> : Jigsaw, Whois, Linkedin, Google, Twitter ouvrent une nouvelle fenêtre contenant des informations supplémentaires sur la page Web correspondante, ce qui vous permet de mieux comprendre l’organisation sélectionnée.</p><p><strong>Rechercher</strong> : Affiche le mot-clé utilisé si le visiteur est arrivé par l'intermédiaire d'un moteur de recherche.</p><p><strong>Parrains</strong> : Affiche le lien URL de la page qui a renvoyé le trafic vers votre site.</p><p><strong>Visiteur</strong> : Affiche le nombre de visites, le nombre de pages consultées par l’organisation sélectionnée et leur adresse électronique (s’ils ont rempli un formulaire d’envoi), ainsi que l’heure et la date de la dernière visite.</p><p><strong>Clickstream</strong> : Affiche un tableau de l’activité utilisateur et du chemin d’accès à l’URL sur le site et de la durée de visite de chaque page.</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
