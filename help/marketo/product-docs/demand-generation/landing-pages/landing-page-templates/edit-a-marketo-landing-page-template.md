@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modification d’un modèle de Landing page marketing {#edit-a-marketo-landing-page-template}
+# Modifier un modèle de Landing page marketing {#edit-a-marketo-landing-page-template}
 
 Vous pouvez modifier n’importe quel modèle de landing page dans Marketing.
 
