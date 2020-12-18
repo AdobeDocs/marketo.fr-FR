@@ -23,11 +23,11 @@ C’est ici que vous choisissez et personnalisez vos images de messages in-app.
 
    >[!TIP]
    >
-   >Quelle est la différence entre les modèles ? Voir [Choisir une mise en page pour votre message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) intégré avant de commencer.
+   >Quelle est la différence entre les modèles ? Voir [Choisir une mise en page pour votre message intégré](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) avant de commencer.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Cliquez sur l’onglet **Style** , puis sur la zone d’image du modèle.
+1. Cliquez sur l&#39;onglet **Style** et cliquez sur la zone d&#39;image du modèle.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
@@ -43,7 +43,7 @@ C’est ici que vous choisissez et personnalisez vos images de messages in-app.
    >
    >La taille de l’image est limitée à 1 440 x 2 560 px et 5 Mo.
 
-1. Changez d&#39;avis et souhaitez utiliser une image différente ? Pas de problème. Cliquez sur le **X** en regard du nom de fichier de l’image.
+1. Changez d&#39;avis et souhaitez utiliser une image différente ? Pas de problème. Cliquez sur **X** en regard du nom de fichier de l’image.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
@@ -67,7 +67,7 @@ C’est ici que vous choisissez et personnalisez vos images de messages in-app.
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. Sélectionnez une marge (activée ou désactivée). **On** est le paramètre par défaut.
+1. Sélectionnez une marge (activée ou désactivée). **** Onis est le paramètre par défaut.
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -85,9 +85,9 @@ C’est ici que vous choisissez et personnalisez vos images de messages in-app.
 
    >[!NOTE]
    >
-   >Pour les actions d’appui sur les images, les boutons ou les arrière-plans, vous pouvez configurer différentes actions pour les plateformes Apple et Android. Par exemple, les liens profonds sont gérés différemment pour Apple et Android. Si votre message ne s’adresse qu’à une seule plateforme ou à l’autre, laissez l’autre plate-forme dans le paramètre par défaut ou sélectionnez **Aucun**.
+   >Pour les actions d’appui sur les images, les boutons ou les arrière-plans, vous pouvez configurer différentes actions pour les plateformes Apple et Android. Par exemple, les liens profonds sont gérés différemment pour Apple et Android. Si votre message ne s’adresse qu’à une seule plateforme ou à l’autre, laissez l’autre plateforme dans le paramètre par défaut ou sélectionnez **Aucun**.
 
-Super travail ! Il est maintenant temps de [créer le texte de votre message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)in-app.
+Super travail ! Il est maintenant temps de [créer le texte de votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
 >[!MORELIKETHIS]
 >
