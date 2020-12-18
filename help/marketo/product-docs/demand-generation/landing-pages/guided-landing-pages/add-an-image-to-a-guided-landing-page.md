@@ -31,7 +31,7 @@ Contrairement aux landings page à structure libre, les landings page guidés co
 
    >[!NOTE]
    >
-   >Le redimensionnement de l’image dépend du modèle. En savoir plus sur les modèles [de Landing page](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)guidé.
+   >Le redimensionnement de l’image dépend du modèle. En savoir plus sur [Modèles de Landing page guidé](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
