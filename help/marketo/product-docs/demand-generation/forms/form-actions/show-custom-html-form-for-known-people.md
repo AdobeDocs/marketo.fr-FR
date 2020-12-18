@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Afficher un formulaire HTML personnalisé pour les personnes connues {#show-custom-html-form-for-known-people}
+# Afficher le formulaire HTML personnalisé pour les personnes connues {#show-custom-html-form-for-known-people}
 
 Si un visiteur fait l&#39;objet d&#39;un cookie (personne connue qui a fourni une adresse électronique dans le passé), pourquoi se soucier du formulaire ? Donnez-leur juste le bouton de téléchargement. Voici comment.
 
@@ -19,19 +19,19 @@ Si un visiteur fait l&#39;objet d&#39;un cookie (personne connue qui a fourni un
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Sous **Activités** **marketing**, sélectionnez votre formulaire, puis cliquez sur **Modifier** **le formulaire.**
+1. Sous **Marketing** **Activités**, sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Sous **Paramètres** du formulaire **, cliquez sur** Paramètres ****.
+1. Sous **Formulaire** **Paramètres**, cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Définissez Si **Connu** **Visiteur, Afficher**: au **code HTML** **personnalisé**.
+1. Définissez Si **Connu** **Visiteur, Afficher** : **Personnalisé** **HTML**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Cliquez sur le ![—](assets/image2014-9-25-14-3a1-3a26.png) pour modifier le **code HTML** **personnalisé** qui sera présenté aux personnes connues.
+1. Cliquez sur ![—](assets/image2014-9-25-14-3a1-3a26.png) pour modifier le **fichier** **HTML** qui sera présenté aux personnes connues.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -45,8 +45,8 @@ Si un visiteur fait l&#39;objet d&#39;un cookie (personne connue qui a fourni un
    |---|---|
    | `{{lead.FirstName}}` | Le prénom de la personne s&#39;affichera. |
    | `{{lead.LastName}}` | Le nom de famille de la personne s&#39;affichera alors. |
-   | `{{form.Button:default=Download}}` | Le bouton du formulaire s’affiche alors. Remplacez la zone située après le bouton `=` pour modifier le texte du bouton. |
-   | `{{form.NotYou:default=Not you?}}` | Ceci affiche un lien au cas où la personne serait une autre. Remplacez la zone située après le `=` pour modifier le texte du lien. |
+   | `{{form.Button:default=Download}}` | Le bouton du formulaire s’affiche alors. Remplacez la zone située après `=` pour modifier le texte du bouton. |
+   | `{{form.NotYou:default=Not you?}}` | Ceci affiche un lien au cas où la personne serait une autre. Remplacez la zone située après `=` pour modifier le texte du lien. |
 
    >[!CAUTION]
    >
@@ -69,7 +69,7 @@ Si un visiteur fait l&#39;objet d&#39;un cookie (personne connue qui a fourni un
    >**Rappel**
    >
    >
-   >Pensez à [approuver le brouillon](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de landing page créé par les modifications apportées au formulaire.
+   >N&#39;oubliez pas d&#39;[approuver le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
