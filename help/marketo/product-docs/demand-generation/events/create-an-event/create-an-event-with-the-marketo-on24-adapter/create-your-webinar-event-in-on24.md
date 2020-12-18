@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création de votre Événement de webinaire dans ON24 {#create-your-webinar-event-in-on}
+# Créez votre Événement Webinaire dans ON24 {#create-your-webinar-event-in-on}
 
 Après avoir créé votre webinaire dans ON24, vous pouvez créer un événement Marketo et l’associer au webinaire ON24. Cela permet aux systèmes de partager les informations d&#39;inscription et de présence. Notez l’URL et d’autres informations à utiliser dans votre courrier électronique de confirmation et votre fichier ICS.
 
