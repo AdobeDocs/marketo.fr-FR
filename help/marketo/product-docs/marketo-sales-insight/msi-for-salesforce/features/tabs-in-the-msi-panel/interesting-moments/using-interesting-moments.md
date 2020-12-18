@@ -17,7 +17,7 @@ Les moments intéressants sont la clé de la communication avec votre équipe co
 
 >[!AVAILABILITY]
 >
->Ils sont disponibles uniquement pour les clients Marketing Insight et [Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ) .
+>Ils sont disponibles uniquement pour les clients Marketing Sales Insight et [Marketing Sales Connect](http://docs.marketo.com/x/fgTLAQ).
 
 ## Quel moment intéressant ?  {#what-is-an-interesting-moment}
 
@@ -29,19 +29,19 @@ C&#39;est à vous de décider ! Vous décidez quelles informations sont pertinen
 
 ## Comment créer un moment intéressant ?  {#how-do-i-create-an-interesting-moment}
 
-1. Choisissez une campagne [](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)intelligente, de préférence une campagne intéressante pour votre équipe commerciale si elle est déclenchée.
+1. Choisissez une [campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), de préférence une campagne intéressante pour votre équipe commerciale si elle est déclenchée.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Faites glisser le curseur sur l’étape de flux Moments **** intéressants.
+1. Faites glisser le curseur sur l’étape de flux **Moments intéressants**.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. Sélectionnez un **type** (Adresse électronique, Jalon ou Web).
+1. Sélectionnez un **type** (Courriel, Jalon ou Web).
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Ecrivez un message à votre équipe commerciale dans le champ **Description** pour expliquer pourquoi cette action est importante.
+1. Ecrivez un message à votre équipe commerciale dans le champ **Description** qui explique pourquoi cette action est importante.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -51,7 +51,7 @@ C&#39;est à vous de décider ! Vous décidez quelles informations sont pertinen
 
 ## Comment cela peut-il devenir encore plus intéressant ?  {#how-can-this-get-even-more-interesting}
 
-Jetons ! Ajoutez-les dans le champ de description pour fournir à votre équipe commerciale des informations plus spécifiques, telles que l&#39;objet du courrier électronique que le prospect a ouvert ou qui l&#39;a envoyé. Consultez le glossaire [Tokens for intéressante Moments](tokens-for-interesting-moments.md) (Jetons pour momentsintéressants) pour savoir quels jetons sont disponibles.
+Jetons ! Ajoutez-les dans le champ de description pour fournir à votre équipe commerciale des informations plus spécifiques, telles que l&#39;objet du courrier électronique que le prospect a ouvert ou qui l&#39;a envoyé. Consultez le glossaire [Tokens for intéressante Moments](tokens-for-interesting-moments.md) pour savoir quels jetons peuvent être utilisés.
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ Jetons ! Ajoutez-les dans le champ de description pour fournir à votre équipe 
 
 ## A quoi ressemble un moment intéressant sur le marché ?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Les moments intéressants s’affichent dans le journal [des activités d’une](../../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)piste.
+Les moments intéressants s&#39;afficheront dans un [journal d&#39;activité du prospect](../../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
 ## À quoi ressemble un moment intéressant dans Salesforce ?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Une fois que vous avez [installé l&#39;application](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)Marketing Cloud Sales Insight, des moments intéressants s&#39;affichent sur les pages de piste, de contact, de compte ou d&#39;opportunité. Elles apparaissent également dans le tableau de bord Sales Insight du flux de piste, des meilleurs résultats et de la Liste de contrôle.
+Une fois que vous avez [installé l&#39;application Analyses de ventes marketing](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), des moments intéressants s&#39;affichent sur les pages de piste, de contact, de compte ou d&#39;opportunité. Elles apparaissent également dans le tableau de bord Sales Insight du flux de piste, des meilleurs résultats et de la Liste de contrôle.
 
 ![](assets/six.png)
 
