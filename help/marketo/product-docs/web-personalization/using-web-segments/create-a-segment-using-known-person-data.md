@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création d’un segment à l’aide de données de personne connue {#create-a-segment-using-known-person-data}
+# Créer un segment à l’aide de données de personne connue {#create-a-segment-using-known-person-data}
 
 Voici comment créer un segment à l’aide des valeurs Données de personne connue.
 
