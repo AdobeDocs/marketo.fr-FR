@@ -17,7 +17,7 @@ En savoir plus sur les fonctionnalités disponibles dans votre tableau de bord S
 
 >[!PREREQUISITES]
 >
->Vous devez disposer du dernier package MSI SFDC et de la [configuration](http://docs.marketo.com/x/F4GMAg)la plus récente.
+>Vous devez disposer du dernier package MSI SFDC et de [configuration](http://docs.marketo.com/x/F4GMAg).
 
 ![](assets/one.png)
 
@@ -156,7 +156,7 @@ Onglet événement :
 * La barre de résumé hebdomadaire affiche les moments intéressants, le courriel et l&#39;Activité Web pour cette semaine. Chaque icône est cliquable et peut être utilisée comme filtres pour afficher une activité spécifique
 * Vue par défaut : C&#39;est une liste d&#39;activités de la vue actuelle
 
-**Campagnes par courriel et Événements** à venir Onglet Campagnes par courriel :
+**Campagnes par courriel et** événements à venir Onglet Campagnes par courriel :
 
 * Inclut des campagnes qui font partie de programmes de messagerie ou de programmes par défaut planifiés au cours des 90 prochains jours.
 * Non spécifique au contact/prospect (c’est-à-dire que la liste de campagnes est une liste générique de toutes les campagnes par courrier électronique planifiées dans l’instance Marketo). La liste de campagnes de tous les panneaux de prospect, contact, compte et opportunité sera la même
