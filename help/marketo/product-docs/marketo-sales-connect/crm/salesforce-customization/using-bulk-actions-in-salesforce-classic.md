@@ -23,13 +23,13 @@ Découvrez comment effectuer des actions en masse, comme ajouter des pistes à u
 >
 >Avant de suivre les étapes décrites, vérifiez que vous êtes connecté à votre compte Marketing Connect.
 
-## Courrier électronique en masse {#bulk-email}
+## Courriel en bloc {#bulk-email}
 
-1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes** , puis sur le bouton **Aller** .
+1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes**, puis sur le bouton **Aller**.
 
    ![](assets/one-5.png)
 
-1. Choisissez les pistes de votre choix et cliquez sur le bouton **Courriel avec MSC (Classic)** .
+1. Choisissez les pistes souhaitées et cliquez sur le bouton **Courriel avec MSC (Classic)**.
 
    ![](assets/two-5.png)
 
@@ -45,11 +45,11 @@ Découvrez comment effectuer des actions en masse, comme ajouter des pistes à u
 
 ## Ajouter à Campaign {#add-to-campaign}
 
-1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes** , puis sur le bouton **Aller** .
+1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes**, puis sur le bouton **Aller**.
 
    ![](assets/four-3.png)
 
-1. Choisissez les pistes souhaitées et cliquez sur le bouton **Ajouter au Campaign MSC (Classic)** .
+1. Choisissez les pistes souhaitées et cliquez sur le bouton **Ajouter au Campaign MSC (Classic)**.
 
    ![](assets/five-3.png)
 
@@ -57,17 +57,17 @@ Découvrez comment effectuer des actions en masse, comme ajouter des pistes à u
 
    ![](assets/six.png)
 
-## Poussez à la connexion commerciale {#push-to-marketo-sales-connect}
+## Poussez à Marketing Sales Connect {#push-to-marketo-sales-connect}
 
-1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes** , puis sur le bouton **Aller** .
+1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes**, puis sur le bouton **Aller**.
 
    ![](assets/seven-1.png)
 
-1. Choisissez les pistes de votre choix et cliquez sur le bouton **Push to MSC (Classic)** .
+1. Choisissez les pistes de votre choix et cliquez sur le bouton **Push to MSC (Classic)**.
 
    ![](assets/eight-1.png)
 
-1. Un nouvel onglet appelé &quot;Salesforce Bridge&quot; s&#39;ouvre. Cliquez sur le bouton **Passez au groupe →** .
+1. Un nouvel onglet appelé &quot;Salesforce Bridge&quot; s&#39;ouvre. Cliquez sur le bouton **Accéder au groupe →**.
 
    ![](assets/nine-1.png)
 
