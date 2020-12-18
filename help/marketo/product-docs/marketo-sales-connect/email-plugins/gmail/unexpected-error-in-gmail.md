@@ -19,5 +19,5 @@ Si vous recevez une &quot;Erreur Inattendue&quot; dans Gmail en essayant d&#39;e
 1. Cliquez sur **Déconnecter de Gmail**.
 1. Après la déconnexion, cliquez sur **Se connecter à Google**.
 
-   Une fois que vous êtes reconnecté, retournez à Gmail et actualisez votre page et réessayez d&#39;envoyer votre courriel. Si cela ne fonctionne toujours pas, veuillez [soumettre un ticket](http://nation.marketo.com/community/support_solutions) à notre équipe de support technique.
+   Une fois que vous êtes reconnecté, retournez à Gmail et actualisez votre page et réessayez d&#39;envoyer votre courriel. Si cela ne fonctionne toujours pas, veuillez [soumettre un ticket](http://nation.marketo.com/community/support_solutions) à notre équipe d&#39;assistance.
 
