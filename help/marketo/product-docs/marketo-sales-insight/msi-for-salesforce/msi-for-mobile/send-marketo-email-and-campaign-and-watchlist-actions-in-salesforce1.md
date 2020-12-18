@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Envoyer un courrier électronique marketing et des actions Campaign et Watchlist dans Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Envoyer un courrier électronique marketing et des actions Campaign et Watchlist à Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Accédez à la zone Détails de piste dans Salesforce1 et cliquez sur l&#39;onglet **Associé** .
+1. Accédez à la zone Détails de piste de Salesforce1 et cliquez sur l&#39;onglet **Associé**.
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Quelles sont les campagnes intelligentes qui s&#39;affichent ? Ceux qui contiennent &quot;Campaign is Requested&quot; se déclenchent. Découvrez comment configurer une campagne [déclenchée à l’aide de l’option &quot;Campaign is Requested](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot; (est demandé).
+   >Quelles sont les campagnes intelligentes qui s&#39;affichent ? Ceux qui contiennent &quot;Campaign is Requested&quot; se déclenchent. Découvrez comment configurer une campagne déclenchée [à l&#39;aide de &quot;Campaign is Requested](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Cool, maintenant vos vendeurs peuvent participer activement à l&#39;effort marketing.
 
