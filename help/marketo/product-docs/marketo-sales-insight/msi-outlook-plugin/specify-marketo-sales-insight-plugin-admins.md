@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Spécification des administrateurs des modules externes Marketing to Sales Insight {#specify-marketo-sales-insight-plugin-admins}
+# Spécifier les administrateurs des modules externes Marketing to Sales Insight {#specify-marketo-sales-insight-plugin-admins}
 
 Vous pouvez spécifier les contacts que vous souhaitez voir apparaître dans l&#39;avis que vous envoyez aux utilisateurs lorsque vous les invitez à configurer MSI dans Outlook.
 
-1. Dans Mon marketing, cliquez sur **Admin** puis **Sales Insight.**
+1. Dans Mon marketing, cliquez sur **Admin** puis sur **Sales Insight.**
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Cliquez sur l’onglet Ajoute **de** courriel.
+1. Cliquez sur l&#39;onglet **Ajoute électronique**.
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Cliquez sur **Spécifier le contact** du module externe.
+1. Cliquez sur **Spécifier le contact du module externe**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
