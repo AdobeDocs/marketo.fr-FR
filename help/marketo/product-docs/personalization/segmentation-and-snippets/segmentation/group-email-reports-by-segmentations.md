@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Regrouper les rapports par courriel par segment {#group-email-reports-by-segmentations}
 
-Les segments ne sont pas uniquement destinés au contenu dynamique. Vous pouvez également regrouper votre rapport [de performances des](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) courriels par [segmentation](http://docs.marketo.com/display/docs/segmentation+and+snippets).
+Les segments ne sont pas uniquement destinés au contenu dynamique. Vous pouvez également grouper votre [rapport de performances du courriel](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) par [segmentations](http://docs.marketo.com/display/docs/segmentation+and+snippets).
 
 >[!PREREQUISITES]
 >
@@ -23,15 +23,15 @@ Les segments ne sont pas uniquement destinés au contenu dynamique. Vous pouvez 
 
 
 
-1. Accédez à la zone Activités **** marketing (ou **Analytics**).
+1. Accédez à la zone **Activités marketing** (ou **Analytics**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Sélectionnez votre rapport Performances **des** courriels.
+1. Sélectionnez votre rapport **Performances du courriel**.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Cliquez sur l’onglet **Configuration** et faites glisser le pointeur de la souris sur **Regrouper par segment**.
+1. Cliquez sur l&#39;onglet **Configuration** et faites glisser **Regrouper par segments**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
@@ -39,11 +39,11 @@ Les segments ne sont pas uniquement destinés au contenu dynamique. Vous pouvez 
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. C&#39;est tout ! Cliquez sur l’onglet **Rapport** . Si vous utilisez une segmentation, votre rapport affiche une ligne pour chaque segment.
+1. C&#39;est tout ! Cliquez sur l&#39;onglet **Rapport**. Si vous utilisez une segmentation, votre rapport affiche une ligne pour chaque segment.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. Si vous utilisez deux segments, il affiche une ligne pour chaque *combinaison* de segments.
+1. Si vous utilisez deux segments, une ligne s’affiche pour chaque *combinaison* de segments.
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
