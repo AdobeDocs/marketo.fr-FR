@@ -45,7 +45,7 @@ Vous pouvez modifier ces colonnes directement dans l’onglet Abonnements, qui s
    >
    >Les colonnes situées sous Colonnes marketing sont les colonnes du rapport et non celles utilisées dans l&#39;onglet Rapport Abonnements.
 
-1. Cliquez sur la colonne Date **de** fin pour modifier la date de fin. Sélectionnez **Jamais** ou **Date**. Pour une date, entrez-la ou choisissez-la dans le calendrier. Cliquez sur **Approuver**.
+1. Cliquez sur la colonne **Date de fin** pour modifier la date de fin. Sélectionnez **Jamais** ou **Date**. Pour une date, entrez-la ou choisissez-la dans le calendrier. Cliquez sur **Approuver**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
