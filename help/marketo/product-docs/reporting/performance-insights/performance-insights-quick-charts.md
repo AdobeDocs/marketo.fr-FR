@@ -17,13 +17,13 @@ Les graphiques rapides sont des miniatures que vous personnalisez et enregistrez
 
 ## Créer un graphique rapide {#create-a-new-quick-chart}
 
-Les graphiques rapides dérivent des données que vous spécifiez. Dans cet exemple, nous allons choisir : **nouvelles opportunités (première touche), type d&#39;opportunité = nouvelle entreprise, année en cours à jour**.
+Les graphiques rapides dérivent des données que vous spécifiez. Dans cet exemple, nous allons choisir : **nouvelles opportunités (première touche), type d&#39;opportunité = nouvelle entreprise, année en cours**.
 
-1. Cliquez sur le filtre de date et choisissez Année **en cours (JJ)**.
+1. Cliquez sur le filtre de date et choisissez **Année en cours (YTD)**.
 
    ![](assets/1-2.png)
 
-1. Cliquez sur le **+** et sélectionnez vos critères.
+1. Cliquez sur **+** et sélectionnez vos critères.
 
    ![](assets/2-2.png)
 
@@ -31,7 +31,7 @@ Les graphiques rapides dérivent des données que vous spécifiez. Dans cet exem
 
    ![](assets/3-3.png)
 
-1. Cliquez sur l’icône Exporter et sélectionnez **Enregistrer en tant que graphique** rapide.
+1. Cliquez sur l’icône Exporter et sélectionnez **Enregistrer sous forme de graphique rapide**.
 
    ![](assets/4-2.png)
 
@@ -47,21 +47,21 @@ Votre diagramme rapide est maintenant avec les autres.
 >
 >Vous pouvez avoir jusqu’à 20 graphiques rapides. Ils peuvent être supprimés et remplacés.
 
-## Vue de graphiques rapides existants {#view-existing-quick-charts}
+## Vue Graphiques rapides existants {#view-existing-quick-charts}
 
-1. Pour vue de vos graphiques rapides existants, il vous suffit de cliquer sur l&#39;icône Graphiques **** rapides.
+1. Pour vue de vos graphiques rapides existants, il vous suffit de cliquer sur l&#39;icône **Graphiques rapides**.
 
    ![](assets/7-1.png)
 
-## Suppression d’un graphique rapide {#delete-a-quick-chart}
+## Supprimer un graphique rapide {#delete-a-quick-chart}
 
 Si vous devez supprimer un graphique rapide, suivez ces étapes simples.
 
-1. Cliquez sur l&#39;icône Graphiques **** rapides.
+1. Cliquez sur l&#39;icône **Graphiques rapides**.
 
    ![](assets/8-1.png)
 
-1. Passez la souris sur le graphique souhaité, mais ne cliquez pas dessus. Au survol, un X apparaît. Cliquez sur le **X**.
+1. Passez la souris sur le graphique souhaité, mais ne cliquez pas dessus. Au survol, un X apparaît. Cliquez sur **X**.
 
    ![](assets/9-2.png)
 
