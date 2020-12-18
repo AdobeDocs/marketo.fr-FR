@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Modification de la page CSS d’un thème de formulaire {#edit-the-css-of-a-form-theme}
+# Modifier la page CSS d’un thème de formulaire {#edit-the-css-of-a-form-theme}
 
-Vous avez quelques [thèmes préconstruits que vous pouvez choisir parmi](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)ceux-ci. Mais si vous aimez modifier le CSS, vous pouvez apporter les modifications de votre choix. Voici comment.
+Vous disposez de quelques thèmes [préconstruits que vous pouvez choisir parmi ](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mais si vous aimez modifier le CSS, vous pouvez apporter les modifications de votre choix. Voici comment.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Vous avez quelques [thèmes préconstruits que vous pouvez choisir parmi](../../
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Accédez à **Paramètres** **du formulaire**.
+1. Accédez à **Formulaire** **Paramètres**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -35,7 +35,7 @@ Vous avez quelques [thèmes préconstruits que vous pouvez choisir parmi](../../
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. Sous l’icône d’engrenage, cliquez sur **Vue Thème CSS**.
+1. Sous l’icône d’engrenage, cliquez sur **Thème de Vue CSS**.
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
@@ -47,7 +47,7 @@ Vous avez quelques [thèmes préconstruits que vous pouvez choisir parmi](../../
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Sous l’icône en forme d’engrenage, cliquez sur **Modifier** **personnalisé** **CSS**.
+1. Sous l’icône d’engrenage, cliquez sur **Modifier** **Personnalisé** **CSS**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -59,7 +59,7 @@ Vous avez quelques [thèmes préconstruits que vous pouvez choisir parmi](../../
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Pour afficher votre formulaire personnalisé, cliquez sur **Prévisualisation** **Brouillon**.
+1. Pour afficher votre formulaire personnalisé, cliquez sur **Prévisualisation** **Version préliminaire**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 
