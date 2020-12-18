@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Après avoir approuvé le modèle, vous ne pouvez plus supprimer les étapes lors de la modification d’un brouillon. Vous pouvez à la place fusionner cette scène avec une autre.
 
-1. Cliquez sur Accueil **du** marketing et sélectionnez **Analytics**.
+1. Cliquez sur **Accueil du marketing** et sélectionnez **Analyses**.
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
