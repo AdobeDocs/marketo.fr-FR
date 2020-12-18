@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Un tableau de bord est une combinaison de rapports de l&#39;Explorateur de recettes pour obtenir un aperçu rapide de vos pistes, campagnes, opportunités et/ou modèles.
 
-## Création d’un Tableau de bord {#creating-a-new-dashboard}
+## Création d&#39;un nouveau Tableau de bord {#creating-a-new-dashboard}
 
-1. Cliquez sur Explorateur **** de recettes.
+1. Cliquez sur **Explorateur de recettes**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Créer**, puis sur **Tableau de bord**.
+1. Cliquez sur **Créer**, puis **Tableau de bord**.
 
    ![](assets/two.png)
 
@@ -31,17 +31,17 @@ Un tableau de bord est une combinaison de rapports de l&#39;Explorateur de recet
 
    >[!NOTE]
    >
-   >Vous pouvez personnaliser davantage l’aspect de votre tableau de bord en cliquant sur **Thèmes** et en choisissant votre favori.
+   >Vous pouvez personnaliser davantage l’apparence de votre tableau de bord en cliquant sur **Thèmes** et en choisissant votre favori.
 
-1. Dans la première section de votre tableau de bord, cliquez sur l’icône **Insérer** et sélectionnez **Fichier**.
+1. Dans la première section de votre tableau de bord, cliquez sur l&#39;icône **Insérer** et sélectionnez **Fichier**.
 
    ![](assets/four.png)
 
-1. Doublon-clic sur **Explorateur** de recettes.
+1. Doublon-clic **Explorateur de recettes**.
 
    ![](assets/five.png)
 
-1. Doublon-clic sur **Tous les rapports et Tableaux de bord**.
+1. Doublon-clic **Tous les rapports et Tableaux de bord**.
 
    ![](assets/six.png)
 
@@ -49,7 +49,7 @@ Un tableau de bord est une combinaison de rapports de l&#39;Explorateur de recet
 
    ![](assets/seven.png)
 
-1. Choisissez votre rapport, puis cliquez sur **Sélectionner**.
+1. Choisissez votre rapport et cliquez sur **Sélectionner**.
 
    ![](assets/eight.png)
 
@@ -65,13 +65,13 @@ Un tableau de bord est une combinaison de rapports de l&#39;Explorateur de recet
 
    ![](assets/eleven.png)
 
-## Modification d’un Tableau de bord {#editing-a-dashboard}
+## Modification d&#39;un Tableau de bord {#editing-a-dashboard}
 
-1. Cliquez sur Explorateur **** de recettes.
+1. Cliquez sur **Explorateur de recettes**.
 
    ![](assets/one.png)
 
-1. Doublon-cliquez sur le dossier Explorateur **de** recettes. Accédez à l&#39;emplacement de votre tableau de bord.
+1. Doublon-cliquez sur le dossier **Explorateur de recettes**. Accédez à l&#39;emplacement de votre tableau de bord.
 
    ![](assets/thirteen.png)
 
@@ -79,13 +79,13 @@ Un tableau de bord est une combinaison de rapports de l&#39;Explorateur de recet
 
    ![](assets/fourteen.png)
 
-## Suppression d’un Tableau de bord {#deleting-a-dashboard}
+## Suppression d&#39;un Tableau de bord {#deleting-a-dashboard}
 
-1. Cliquez sur Explorateur **** de recettes.
+1. Cliquez sur **Explorateur de recettes**.
 
    ![](assets/one.png)
 
-1. Doublon-cliquez sur le dossier Explorateur **de** recettes. Accédez à l&#39;emplacement de votre tableau de bord.
+1. Doublon-cliquez sur le dossier **Explorateur de recettes**. Accédez à l&#39;emplacement de votre tableau de bord.
 
    ![](assets/thirteen.png)
 
