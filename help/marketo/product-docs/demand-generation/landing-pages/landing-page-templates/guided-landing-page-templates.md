@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modèles de Landing page guidé {#guided-landing-page-templates}
 
-Parcourez notre collection d’exemples de modèles, à utiliser avec l’éditeur [de Landing page](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)guidé. Chaque modèle est entièrement réactif et basé sur la structure du Bootstrap.
+Parcourez notre collection d’exemples de modèles, à utiliser avec l’[éditeur de Landings page guidé](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Chaque modèle est entièrement réactif et basé sur la structure du Bootstrap.
 
 >[!NOTE]
 >
@@ -24,10 +24,10 @@ Pour importer un modèle dans Marketo :
 1. Cliquez sur le nom du modèle pour une vue plus grande.
 1. Téléchargez le modèle choisi.
 1. Dans Marketo, accédez à **Design Studio.**
-1. Cliquez sur **Landings page** dans l’arborescence de gauche, puis sélectionnez **Modèles.**
+1. Cliquez sur **Landings page** dans l&#39;arborescence de gauche, puis sélectionnez **Modèles.**
 
 1. Dans la barre de menus, cliquez sur **Modèle d&#39;import.**
-1. Choisissez le fichier téléchargé, saisissez un nom de modèle, puis cliquez sur **Importer** (assurez-vous de sélectionner un nom descriptif et d’indiquer que le mode de modification est **Guided**).
+1. Choisissez le fichier téléchargé, saisissez un nom de modèle, puis cliquez sur **Importer** (veillez à sélectionner un nom descriptif et à indiquer que le mode de modification est **Guided**).
 
 |  |  |  |
 |---|---|---|
@@ -75,7 +75,7 @@ Pour importer un modèle dans Marketo :
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
 | [Modèle 12-F](guided-landing-page-templates/template-12-f.md) | [Modèle 13-C](guided-landing-page-templates/template-13-a.md) | [Modèle 13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [Modèle 13-C](guided-landing-page-templates/template-13-c.md) | [Modèle 13-D](guided-landing-page-templates/template-13-d.md) | [Modèle 13-E](guided-landing-page-templates/template-13-e.md) |
+| [Modèle 13-A](guided-landing-page-templates/template-13-c.md) | [Modèle 13-D](guided-landing-page-templates/template-13-d.md) | [Modèle 13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
 | [Modèle 14-A](guided-landing-page-templates/template-14-a.md) | [Modèle 14-B](guided-landing-page-templates/template-14-b.md) | [Modèle 14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
