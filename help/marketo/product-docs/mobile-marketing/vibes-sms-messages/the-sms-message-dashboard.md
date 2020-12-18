@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Le Tableau de bord de messages SMS {#the-sms-message-dashboard}
+# Tableau de bord de message SMS {#the-sms-message-dashboard}
 
 Le Tableau de bord Message SMS affiche des informations utiles sur votre message SMS.
 
 ![](assets/converted-dashboard-image.png)
 
-Le graphique Progression **** SMS affiche le total envoyé et le total livré. Les montants se trouvent à droite et si vous passez la souris sur une barre, le pourcentage s’affiche.
+Le graphique **Progression SMS** affiche le total envoyé et le total livré. Les montants se trouvent à droite et si vous passez la souris sur une barre, le pourcentage s’affiche.
 
 ![](assets/sms-progression-hand-border.png)
 
@@ -25,7 +25,7 @@ Le graphique **Résumé** affiche le taux de rebonds calculé sous forme de pour
 
 ![](assets/hover-over-summary-hands-thin-border.png)
 
-Le graphique **Activité au fil du temps** vous permet de sélectionner Total des envois ou Total des livraisons. Sélectionnez une plage appropriée dans le sélecteur de plage de dates.
+Le graphique **Activité dans le temps** vous permet de sélectionner Total envoyé ou Total distribué. Sélectionnez une plage appropriée dans le sélecteur de plage de dates.
 
 ![](assets/activity-over-time-hands.png)
 
