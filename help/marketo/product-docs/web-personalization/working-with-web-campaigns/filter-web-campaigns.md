@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Après avoir créé des centaines de campagnes de personnalisation Web, il est vraiment utile de pouvoir utiliser des filtres pour ne vue que ceux qui vous intéressent.
 
-1. Accédez à Campagnes **Web.**
+1. Accédez à **Campagnes Web.**
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Sur la page Campagnes Web, cliquez sur **Filtrer**.
+1. Sur la page Campagnes Web, cliquez sur **Filtre**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Cochez la case relative à l’état et/ou au type de campagne à filtrer, par exemple, **En pause** ou **Boîte de dialogue**. Cliquez sur **Appliquer**.
+1. Cochez la case correspondant à l’état et/ou au type de campagne à filtrer, par exemple **Boîte de dialogue en pause** ou ****. Cliquez sur **Appliquer**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
