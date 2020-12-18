@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Selon la date d’achat, votre abonnement Marketo peut inclure du contenu prédictif ou du contenu`<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités d’analyse de contenu`<sup>AI</sup>` jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers le contenu`<sup>AI</sup>`Marketo.
+>Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 Vous pouvez facilement ajouter du contenu manuellement à la page Tout le contenu.
 
@@ -35,9 +35,9 @@ Vous pouvez facilement ajouter du contenu manuellement à la page Tout le conten
 
    ![](assets/all-content-add-hand.png)
 
-1. Le nouveau titre s’affiche désormais sur la page **Tout le contenu** . Notez qu’il n’est pas encore approuvé pour le contenu prédictif.
+1. Le nouveau titre apparaît désormais sur la page **Tout le contenu**. Notez qu’il n’est pas encore approuvé pour le contenu prédictif.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Voici comment l’ajouter au contenu [](http://docs.marketo.com/x/Vbet)prédictif.
+1. Voici comment l’ajouter à [Contenu prédictif](http://docs.marketo.com/x/Vbet).
 
