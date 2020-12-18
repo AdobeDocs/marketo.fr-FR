@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Graphiques rapides des statistiques de messagerie {#email-insights-quick-charts}
+# Graphiques rapides des statistiques par courriel {#email-insights-quick-charts}
 
 Les graphiques rapides sont des miniatures que vous personnalisez et enregistrez, ce qui vous permet d’obtenir une vue rapide des graphiques que vous utilisez le plus souvent.
 
@@ -39,7 +39,7 @@ Dans cet exemple, nous choisirons le tarif libre pour les trois premières semai
 
    ![](assets/5.png)
 
-1. Sur le côté droit du graphique, cliquez sur l’icône d’exportation et sélectionnez **Enregistrer en tant que graphique** rapide.
+1. Sur le côté droit du graphique, cliquez sur l’icône d’exportation et sélectionnez **Enregistrer sous forme de graphique rapide**.
 
    ![](assets/six.png)
 
@@ -61,15 +61,15 @@ Dans cet exemple, nous choisirons le tarif libre pour les trois premières semai
    >
    >Pour déplacer un graphique rapide, il vous suffit de cliquer et de le faire glisser à l&#39;emplacement souhaité.
 
-## Suppression d’un graphique rapide {#delete-a-quick-chart}
+## Supprimer un graphique rapide {#delete-a-quick-chart}
 
 Voulez-vous supprimer l&#39;un de vos graphiques rapides ? C&#39;est facile !
 
-1. Cliquez sur l&#39;icône Graphiques **** rapides.
+1. Cliquez sur l&#39;icône **Graphiques rapides**.
 
    ![](assets/nine.png)
 
-1. Passez la souris sur le graphique souhaité, mais ne cliquez pas dessus. Au survol, un X apparaît. Cliquez sur le **X**.
+1. Passez la souris sur le graphique souhaité, mais ne cliquez pas dessus. Au survol, un X apparaît. Cliquez sur **X**.
 
    ![](assets/ten.png)
 
