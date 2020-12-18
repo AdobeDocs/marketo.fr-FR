@@ -17,5 +17,5 @@ ht-degree: 0%
 1. Entrez l&#39;adresse électronique du destinataire.
 1. Entrez l&#39;objet du courrier électronique.
 1. Sélectionnez un modèle de courrier électronique ou écrivez un nouveau message.
-1. Une fois votre adresse électronique prête à être envoyée, cliquez sur le bouton **Envoyer et se connecter** . Cliquez sur ce bouton au lieu du bouton d’envoi normal `will ensure your email is sent with tracking applied`. Sales Connect surveille le moment où votre adresse électronique est ouverte et le moment où un utilisateur clique sur un lien.
+1. Lorsque votre adresse électronique est prête à être envoyée, cliquez sur le bouton **Envoyer et se connecter**. Cliquez sur ce bouton au lieu du bouton d’envoi normal `will ensure your email is sent with tracking applied`. Sales Connect surveille le moment où votre adresse électronique est ouverte et le moment où un utilisateur clique sur un lien.
 
