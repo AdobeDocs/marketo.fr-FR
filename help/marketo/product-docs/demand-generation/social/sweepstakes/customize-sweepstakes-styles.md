@@ -25,11 +25,11 @@ Lorsque vous [créez un tirage](create-sweepstakes.md), vous pouvez personnalise
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez le tirage, puis cliquez sur **Modifier** le **brouillon**.
+1. Sélectionnez le tirage, puis cliquez sur **Modifier** **Brouillon**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. Dans l’éditeur Tirage, accédez à **App** **Settings** **>** **Appearance.**
+1. Dans l’éditeur Tirage, accédez à **App** **Settings** **** **Apparence**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -40,13 +40,13 @@ Lorsque vous [créez un tirage](create-sweepstakes.md), vous pouvez personnalise
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Exemple de CSS pour le bouton ****Entrée :
+   Exemple de CSS pour **Bouton Entrer** :
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>` Exemple d’image pour le bouton ****Entrée :
    `<pre>background:url(http://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >Si vous utilisez une image avec du texte dessus, n&#39;oubliez pas de supprimer le texte du champ **Saisir** **Bouton **sous Texte ci-dessus.
+   >Si vous utilisez une image avec du texte dessus, n&#39;oubliez pas de supprimer le texte du champ **Entrée** **Bouton **sous Texte ci-dessus.
 
 1. A chaque modification, le résultat s’affiche dans la prévisualisation Vue et modification.
 
@@ -64,5 +64,5 @@ Lorsque vous [créez un tirage](create-sweepstakes.md), vous pouvez personnalise
    >**Articles connexes**
    >
    >
-   >L’étape suivante consiste à ajouter des courriers électroniques d’ [inscription et d’exécution à vos tirages](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >L&#39;étape suivante consiste à ajouter des [courriels d&#39;inscription et d&#39;exécution à vos tirages](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
