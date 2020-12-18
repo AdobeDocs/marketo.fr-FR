@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création d’un analyseur d’influence d’opportunité {#create-an-opportunity-influence-analyzer}
+# Créer un analyseur d&#39;influence d&#39;opportunité {#create-an-opportunity-influence-analyzer}
 
 Utilisez l&#39;analyseur d&#39;influence d&#39;opportunité pour montrer la contribution du marketing à une opération importante. Voyez vos succès programmes et événements, ainsi que des moments intéressants, dans la vie d&#39;une opportunité.
 
@@ -25,11 +25,11 @@ Utilisez l&#39;analyseur d&#39;influence d&#39;opportunité pour montrer la cont
 
    ![](assets/analytics.png)
 
-1. Cliquez sur Analyseur **d’influence** d’opportunité.
+1. Cliquez sur **Analyseur d’influence d’opportunité**.
 
    ![](assets/two.png)
 
-1. Sélectionnez le compte dans le panneau **Paramètres** .
+1. Sélectionnez le compte dans le panneau **Paramètres**.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
@@ -41,7 +41,7 @@ Utilisez l&#39;analyseur d&#39;influence d&#39;opportunité pour montrer la cont
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. Définissez la période. Cliquez sur l’onglet **Configuration** , puis cliquez sur **Période** en doublon.
+1. Définissez la période. Cliquez sur l&#39;onglet **Configuration** et cliquez sur **Période** en doublon.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
@@ -60,7 +60,7 @@ Utilisez l&#39;analyseur d&#39;influence d&#39;opportunité pour montrer la cont
 
 >[!TIP]
 >
->Vous pouvez également regarder une vidéo sur l&#39;analyseur d&#39;influence d&#39;opportunité à l&#39;Université [](https://learn.marketo.com)Marketo. (Ça a l&#39;air un peu différent maintenant, mais il y a encore beaucoup à apprendre !)
+>Vous pouvez également regarder une vidéo sur l&#39;analyseur d&#39;influence d&#39;opportunité dans [Marketo University](https://learn.marketo.com). (Ça a l&#39;air un peu différent maintenant, mais il y a encore beaucoup à apprendre !)
 
 >[!MORELIKETHIS]
 >
@@ -75,5 +75,5 @@ Utilisez l&#39;analyseur d&#39;influence d&#39;opportunité pour montrer la cont
 >
 >**Plongée profonde**
 >
->Pour les autres analyseurs, voir Rapports [de](http://docs.marketo.com/display/docs/basic+reporting)base.
+>Pour les autres analyseurs, voir [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
