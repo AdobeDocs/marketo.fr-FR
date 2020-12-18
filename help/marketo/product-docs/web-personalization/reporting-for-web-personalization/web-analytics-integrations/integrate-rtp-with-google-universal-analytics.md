@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Intégration de RTP à Google Universal Analytics {#integrate-rtp-with-google-universal-analytics}
+# Intégration de RTP avec Google Universal Analytics {#integrate-rtp-with-google-universal-analytics}
 
 ## Intro {#intro}
 
@@ -39,14 +39,14 @@ Google Universal Analytics avec les données de RTP vous permet de mieux compren
 
 
 
-## Configuration de Dimensions personnalisées dans GUA {#set-up-custom-dimensions-in-gua}
+## Configurer des Dimensions personnalisées dans GUA {#set-up-custom-dimensions-in-gua}
 
 1. En Google Analytics,
 
-   1. Aller à **Admin**
+   1. Accédez à **Admin**
    1. Sélectionnez le **compte.**
    1. Sélectionnez la **propriété.**
-   1. Sélectionnez **Définitions personnalisées **et Dimensions **personnalisées.**
+   1. Sélectionnez **Définitions personnalisées **et **Dimensions personnalisées.**
 
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
@@ -54,7 +54,7 @@ Google Universal Analytics avec les données de RTP vous permet de mieux compren
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. Ajoutez les Dimensions **personnalisées suivantes :**
+1. Ajoutez les **Dimensions personnalisées suivantes :**
 
 <table> 
  <tbody> 
@@ -66,31 +66,31 @@ Google Universal Analytics avec les données de RTP vous permet de mieux compren
   <tr> 
    <td><p><strong>RTP-Organisation</strong></p></td> 
    <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">obj</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Industrie</strong></p></td> 
    <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">obj</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Catégorie RTP</strong></p></td> 
    <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">obj</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Group</strong></p></td> 
    <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">obj</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->**Les noms** de Dimension personnalisés doivent être exactement tels que définis dans le tableau ci-dessus (sinon les tableaux de bord RTP personnalisés et les rapports dans GUA ne s&#39;afficheront pas correctement)
+>**Les** noms de Dimension personnalisés doivent être exactement comme définis dans le tableau ci-dessus (sinon les tableaux de bord RTP personnalisés et les rapports dans GUA ne s’afficheront pas correctement)
 
-1. Ajoutez le **nom. **Sélectionnez l’étendue en tant que **session.** Cliquez sur **Créer.**
+1. Ajoutez le **nom. **Sélectionnez l’étendue comme **Session.** Cliquez sur  **Créer.**
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -100,16 +100,16 @@ Votre liste de Dimension personnalisée doit ressembler à ceci.
 
 Une fois que vous avez activé les Dimensions personnalisées dans GUA, accédez à la plate-forme RTP pour activer ces dimensions dans RTP.
 
-## Activation de l&#39;intégration GUA dans votre compte RTP {#activate-the-gua-integration-in-your-rtp-account}
+## Activez l&#39;intégration GUA dans votre compte RTP {#activate-the-gua-integration-in-your-rtp-account}
 
-1. Dans la plate-forme RTP, accédez à Paramètres du **compte.**
+1. Dans la plate-forme RTP, accédez à **Paramètres du compte.**
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Sous Paramètres **du** compte, cliquez sur **Domaine.**
+1. Sous **Paramètres du compte**, cliquez sur **Domaine.**
 1. Sous **Analytics, **cliquez sur **Google Universal Analytics**.
 1. Activez **** les Dimensions et Événements personnalisés appropriés pour ajouter ces données de RTP à Google Universal Analytics.
-1. Saisissez le numéro **** Index de la dimension alignée sur le numéro d&#39;index dans GUA.
+1. Saisissez le **numéro d&#39;index** de la dimension alignée sur le numéro d&#39;index dans GUA.
 1. Cliquez sur **Enregistrer**.
 
 ![](assets/image2014-11-29-11-31-23-version-2.png)
@@ -122,7 +122,7 @@ Une fois que vous avez activé les Dimensions personnalisées dans GUA, accédez
 
 ## Supprimer les anciens Tableaux de bord en Google Analytics {#remove-old-dashboards-in-google-analytics}
 
-1. En Google Analytics. Va au **Rapports.**
+1. En Google Analytics. Accédez au **Rapports.**
 1. Cliquez sur **Tableaux de bord.**
 1. Sélectionnez un **Tableau de bord **(RTP B2B ou RTP Performance).
 1. Cliquez sur **Supprimer le Tableau de bord**.
