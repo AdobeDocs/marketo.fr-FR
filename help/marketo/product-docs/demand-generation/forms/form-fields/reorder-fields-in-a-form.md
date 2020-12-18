@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Réorganiser les champs d’un formulaire {#reorder-fields-in-a-form}
+# Réorganiser les champs dans un formulaire {#reorder-fields-in-a-form}
 
 Il est facile de réorganiser les champs d’un formulaire marketing. Voici comment.
 
@@ -19,7 +19,7 @@ Il est facile de réorganiser les champs d’un formulaire marketing. Voici comm
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/editform.png)
 
@@ -37,5 +37,5 @@ Super boulot ! Tu es en train de rocher cette chose.
 >
 >**Plongée profonde**
 >
->Vous souhaitez en savoir plus sur [les formulaires](http://docs.marketo.com/display/docs/forms)?
+>Vous souhaitez en savoir plus sur [forms](http://docs.marketo.com/display/docs/forms) ?
 
