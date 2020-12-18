@@ -19,19 +19,19 @@ ht-degree: 0%
 
 Si les utilisateurs de Marketing veulent vue leur flux de piste non seulement dans Salesforce, mais aussi dans un flux RSS, un administrateur de Marketing doit l’activer en premier. C&#39;est facile.
 
-1. Dans Mon marketing, cliquez sur **Admin** , puis sur **Sales Insight**.
+1. Dans Mon marketing, cliquez sur **Admin**, puis sur **Sales Insight**.
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. Sous Paramètres, cliquez sur **Modifier**. Notez que le flux RSS s’affiche comme **Désactivé**.
+1. Sous Paramètres, cliquez sur **Modifier**. Notez que le flux RSS s’affiche sous la forme **Désactivé**.
 
    ![](assets/rss-settings-tab.png)
 
-   Dans la boîte de dialogue Modifier les paramètres, cochez la case du flux **** RSS, puis cliquez sur **Enregistrer**.
+   Dans la boîte de dialogue Modifier les paramètres, cochez la case **flux RSS** et cliquez sur **Enregistrer**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   Le flux RSS s’affiche désormais comme **Activé**.
+   Le flux RSS s&#39;affiche désormais sous la forme **Activé**.
 
    ![](assets/rss-final-box.png)
 
