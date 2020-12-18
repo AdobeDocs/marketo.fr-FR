@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création d’un rapport d’Analyse par courriel qui Liste les pistes {#build-an-email-analysis-report-that-lists-leads}
+# Créez un rapport d&#39;Analyse par courriel que les Listes dirigent {#build-an-email-analysis-report-that-lists-leads}
 
 >[!NOTE]
 >
