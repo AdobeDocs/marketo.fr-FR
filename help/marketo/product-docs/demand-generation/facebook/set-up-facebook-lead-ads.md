@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurer des annonces de pistes Facebook {#set-up-facebook-lead-ads}
 
-Utilisez des publicités [de piste](https://www.facebook.com/business/a/lead-ads) Facebook pour lancer des campagnes publicitaires dans Facebook et générer des pistes pour Marketo.
+Utilisez [Publicités de piste Facebook](https://www.facebook.com/business/a/lead-ads) pour exécuter des campagnes publicitaires dans Facebook et générer des pistes pour Marketo.
 
 >[!NOTE]
 >
@@ -25,15 +25,15 @@ Utilisez des publicités [de piste](https://www.facebook.com/business/a/lead-ads
 >
 >Pour ajouter des pistes publicitaires Facebook à votre instance, contactez votre responsable de succès client.
 
-1. Accédez à **l’administrateur** du marketing.
+1. Accédez à Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Accédez à **LaunchPoint**, cliquez sur **New,** puis sélectionnez **New Service**.
+1. Accédez à **LaunchPoint**, cliquez sur **New,** et sélectionnez **New Service**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Saisissez un nom **** d’affichage pour votre service, sélectionnez le service Publicités **de piste** Facebook dans la liste déroulante, puis cliquez sur **Créer**.
+1. Saisissez un **nom d’affichage** pour votre service, sélectionnez le service **Publicités de piste Facebook** dans la liste déroulante, puis cliquez sur **Créer**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
@@ -45,11 +45,11 @@ Utilisez des publicités [de piste](https://www.facebook.com/business/a/lead-ads
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Une fois connecté à Facebook, revenez sur Marketo et cliquez sur **Autoriser**.
+1. Après vous être connecté à Facebook, retournez à Marketo et cliquez sur **Autoriser**.
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Si vous y êtes invité, cliquez sur **OK** pour accepter l’installation de l’application Marketo dans Facebook.
+1. Si vous y êtes invité, cliquez sur **Ok** pour accepter l’installation de l’application Marketo dans Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -69,7 +69,7 @@ Utilisez des publicités [de piste](https://www.facebook.com/business/a/lead-ads
 
    >[!TIP]
    >
-   >En modifiant les mappages, vous pouvez personnaliser l&#39;emplacement de stockage des données des publicités de piste dans Marketing Cloud. Vous pouvez également [extraire des données des questions](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)personnalisées des publicités de piste.
+   >En modifiant les mappages, vous pouvez personnaliser l&#39;emplacement de stockage des données des publicités de piste dans Marketing Cloud. Vous pouvez également [extraire des données des questions personnalisées des publicités de piste](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
