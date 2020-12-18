@@ -17,8 +17,8 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
 
 >[!PREREQUISITES]
 >
->* Vous devez [configurer des annonces](set-up-facebook-lead-ads.md)de pistes Facebook.
->* Vous devez disposer d&#39;un modèle approuvé dans le [module de modélisation du cycle de production](http://docs.marketo.com/display/docs/revenue+cycle+models).
+>* Vous devez [configurer des publicités de piste Facebook](set-up-facebook-lead-ads.md).
+>* Vous devez disposer d&#39;un modèle approuvé dans [Revenus Cycle Modeler](http://docs.marketo.com/display/docs/revenue+cycle+models).
 
 >
 
@@ -26,7 +26,7 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
 
 ## Configuration de l’administrateur {#admin-configuration}
 
-1. Accédez à **l’administrateur** du marketing.
+1. Accédez à Marketo **Admin**.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
@@ -34,15 +34,15 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
 
    >[!NOTE]
    >
-   >Si vous n&#39;avez pas fait cela, allez-y et [Configurez des publicités](set-up-facebook-lead-ads.md)Facebook, puis revenez ici.
+   >Si vous n&#39;avez pas fait cela, allez-y et [Configurez les publicités Facebook ](set-up-facebook-lead-ads.md), puis revenez ici.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Si vous le souhaitez, modifiez le nom **** d’affichage afin d’inclure les conversions hors ligne. Cliquez sur **Suivant**.
+1. Si vous le souhaitez, modifiez le **nom d’affichage** pour inclure les conversions hors ligne. Cliquez sur **Suivant**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Cochez la case **Activer les conversions** hors ligne, puis cliquez sur **Suivant**.
+1. Cochez **Activer les conversions hors ligne** et cliquez sur **Suivant**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
@@ -58,7 +58,7 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## Configuration du module de modélisation de Revenu Cycle {#revenue-cycle-modeler-configuration}
+## Configuration du module de modélisation de cycle de production {#revenue-cycle-modeler-configuration}
 
 1. Accédez à **Analytics**.
 
@@ -86,7 +86,7 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
    >    * Vues de contenu
 
 
-1. Sélectionnez l’étape à mapper, puis, dans la liste déroulante Conversion **** Facebook, sélectionnez l’Événement Facebook auquel vous souhaitez mapper. Répétez cette étape pour mapper toutes les étapes de votre RCM aux étapes de conversion hors ligne sur Facebook.
+1. Sélectionnez l’étape à mapper, puis, dans la liste déroulante **Conversion Facebook**, sélectionnez le Événement Facebook vers lequel vous souhaitez mapper. Répétez cette étape pour mapper toutes les étapes de votre RCM aux étapes de conversion hors ligne sur Facebook.
 
    ![](assets/1-1.png)
 
