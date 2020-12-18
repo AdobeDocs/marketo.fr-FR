@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Prévention des Vues personnelles {#preventing-self-views}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 L’obtention de faux positifs sur le suivi des vues peut entraîner des incohérences de rapports. Cela se produit souvent lorsque les utilisateurs du SMC invoquent accidentellement le pixel de suivi à partir de leur client de messagerie (nous appelons cela une vue automatique). Vous trouverez ci-dessous quelques conseils sur la réduction et même l&#39;élimination des vues autonomes.
 
@@ -37,15 +37,15 @@ Le suivi des vues s’effectue en téléchargeant un petit pixel d’image invis
 
    ![](assets/win-2.png)
 
-1. Dans la boîte de dialogue Options Outlook, cliquez sur Centre de **gestion de la confidentialité**.
+1. Dans la boîte de dialogue Options Outlook, cliquez sur **Centre de gestion de la confidentialité**.
 
    ![](assets/win-3.png)
 
-1. Sous Centre de gestion de la confidentialité Microsoft Outlook, cliquez sur Paramètres **du Centre de** gestion de la confidentialité.
+1. Sous Centre de gestion de la confidentialité Microsoft Outlook, cliquez sur **Paramètres du Centre de gestion de la confidentialité**.
 
    ![](assets/win-4.png)
 
-1. Cliquez sur Téléchargement automatique dans le menu de gauche, puis cochez la case **Ne pas télécharger automatiquement les images dans les courriels HTML ou les éléments** RSS.
+1. Cliquez sur Téléchargement automatique dans le menu de gauche, puis cochez la case **Ne pas télécharger automatiquement les images dans les courriels HTML ou les éléments RSS**.
 
    ![](assets/win-5.png)
 
@@ -65,11 +65,11 @@ Le suivi des vues s’effectue en téléchargeant un petit pixel d’image invis
 
    ![](assets/mac-1.png)
 
-1. Sous Courriel, choisissez **Lecture**.
+1. Sous Courriel, sélectionnez **Lecture**.
 
    ![](assets/mac-2.png)
 
-1. Sous Sécurité, cliquez sur le bouton radio **Jamais** .
+1. Sous Sécurité, cliquez sur le bouton radio **Jamais**.
 
    ![](assets/mac-3.png)
 
