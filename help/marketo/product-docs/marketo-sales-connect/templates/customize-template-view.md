@@ -15,5 +15,5 @@ ht-degree: 0%
 
 Dans la liste déroulante **Vue **vous pouvez choisir de voir : tous les modèles, vos modèles, les modèles partagés ou les modèles inutilisés (modèles qui n’ont pas été utilisés au cours des 90 derniers jours).
 
-De plus, vous pouvez ajouter ou supprimer des colonnes dans votre vue de modèle en cliquant sur l’icône de paramètres située à droite de la **Vue.**
+De plus, vous pouvez ajouter/supprimer des colonnes dans votre vue de modèles en cliquant sur l&#39;icône de paramètres située à droite de **Vue.**
 
