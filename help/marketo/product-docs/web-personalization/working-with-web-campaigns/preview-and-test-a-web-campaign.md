@@ -5,7 +5,7 @@ title: Prévisualisation et test d'un Campaign Web
 translation-type: tm+mt
 source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Cet article vous montre différentes manières de prévisualisation d’une camp
 
 ## Prévisualisation d&#39;un Campaign Web sur la page de création {#preview-a-web-campaign-on-the-creation-page}
 
-1. Accédez à **Web** **Campaigns**.
+1. Accédez à **Web** **Campagnes**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
@@ -35,9 +35,9 @@ Cet article vous montre différentes manières de prévisualisation d’une camp
 
    >[!NOTE]
    >
-   >Vous avez également la possibilité d’installer un module externe de navigateur ( [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) pour bénéficier d’un aperçu optimal de votre campagne. Consultez la section ci-dessous.
+   >Vous avez également la possibilité d’installer un module externe de navigateur ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) pour une meilleure expérience de prévisualisation de votre campagne. Consultez la section ci-dessous.
 
-## Prévisualisation d&#39;un Campaign Web sur la page de création à l&#39;aide du module externe de navigateur {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
+## Prévisualisation d’un Campaign Web sur la page de création à l’aide du module externe de navigateur {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. Suivez les étapes 1 et 2 du `section above`.
 1. Cliquez sur le lien vers le module externe du navigateur (dans ce cas, nous utilisons Chrome).
@@ -48,11 +48,11 @@ Cet article vous montre différentes manières de prévisualisation d’une camp
 
    ![](assets/five.png)
 
-1. Cliquez sur **Ajouter l’extension**.
+1. Cliquez sur **Ajouter l&#39;extension**.
 
    ![](assets/six.png)
 
-1. Retournez à Marketo. Ajoutez l’URL de la page, puis cliquez sur **Prévisualisation**.
+1. Retournez à Marketo. Ajoutez l’URL de la page et cliquez sur **Prévisualisation**.
 
    ![](assets/seven.png)
 
@@ -62,7 +62,7 @@ Cet article vous montre différentes manières de prévisualisation d’une camp
 
 ## Prévisualisation d&#39;un Campaign Web sur la page Campagnes Web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Lorsque vous consultez la liste de vos campagnes Web, il vous suffit de choisir une campagne et de cliquer sur l’icône **Prévisualisation** .
+1. Lorsque vous consultez la liste de vos campagnes Web, il vous suffit de choisir une campagne et de cliquer sur l&#39;icône **Prévisualisation**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
