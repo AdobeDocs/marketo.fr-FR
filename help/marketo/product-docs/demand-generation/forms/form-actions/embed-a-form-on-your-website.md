@@ -23,20 +23,20 @@ Marketo vous permet d&#39;incorporer nos formulaires sur votre propre site Web. 
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. Sous **Actions** de formulaire **, cliquez sur** Intégrer **** **le code.**
+1. Sous **Formulaire** **Actions**, cliquez sur **Incorporer** **Code**.
 
    >[!NOTE]
    >
    >**Rappel**
    >
    >
-   >Le formulaire doit être approuvé pour que l’élément de **code** **incorporé** soit visible/utilisable.
+   >Le formulaire doit être approuvé pour l&#39;élément **Incorporer** **Code** pour être visible/utilisable.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >** [Formulaire prérempli](../../../../product-docs/administration/settings/edit-landing-page-settings.md)** ne fonctionne pas lors de l’utilisation du code incorporé de formulaire sur vos propres pages ** ou d’un landing page Marketo. Le préremplissage de formulaire est destiné uniquement à fonctionner lorsque le formulaire est utilisé dans un landing page Marketo via l’option Insérer un élément.
+   >** [La préremplissage de formulaire](../../../../product-docs/administration/settings/edit-landing-page-settings.md)** ne fonctionne pas lors de l’utilisation du code incorporé de formulaire sur vos propres pages *ou* un landing page Marketo. Le préremplissage de formulaire est destiné uniquement à fonctionner lorsque le formulaire est utilisé dans un landing page Marketo via l’option Insérer un élément.
 
 1. Sélectionnez/Copiez le code incorporé, puis cliquez sur **Fermer**.
 
@@ -50,6 +50,6 @@ Maintenant, donnez simplement le code incorporé à votre développeur Web et de
 
 >[!NOTE]
 >
->Si votre développeur souhaite personnaliser l’apparence ou accéder aux fonctions avancées de l’API, affichez-lui la page [](http://developers.marketo.com/documentation/websites/forms-2-0/)Forms 2.0 Developers.
+>Si votre développeur souhaite personnaliser l’apparence ou accéder aux fonctions avancées de l’API, affichez-lui la [page des développeurs Forms 2.0](http://developers.marketo.com/documentation/websites/forms-2-0/).
 
-Super boulot ! Voulez-vous que le code [incorporé comporte du code](use-a-form-in-a-lightbox.md)de boîte lumineuse ? C&#39;est aussi facile !
+Super boulot ! Souhaitez-vous que le code [incorporé inclut le code de boîte lumineuse](use-a-form-in-a-lightbox.md) ? C&#39;est aussi facile !
