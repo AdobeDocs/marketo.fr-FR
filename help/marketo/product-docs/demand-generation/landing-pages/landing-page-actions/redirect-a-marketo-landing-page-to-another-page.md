@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Rediriger un Landing page marketing vers une autre page {#redirect-a-marketo-landing-page-to-another-page}
+# Rediriger le Landing page du marketing vers une autre page {#redirect-a-marketo-landing-page-to-another-page}
 
 Si vous mettez à jour l’URL d’une page et souhaitez que l’ancienne URL fonctionne toujours, essayez une redirection ! La mettre en place est facile.
 
@@ -19,15 +19,15 @@ Si vous mettez à jour l’URL d’une page et souhaitez que l’ancienne URL fo
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Admin**, cliquez sur **Pages d’entrée** ****.
+1. Sous **Admin**, cliquez sur **Entrée** **Pages**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. Sous l’onglet **Règles** , cliquez sur **Nouveau** , puis sur **Nouvelle** **redirection Règle.******
+1. Sous l&#39;onglet **Règles**, cliquez sur **New**, puis **New** **Redirection** **Règle**.
 
    ![](assets/two-1.png)
 
-1. Cliquez sur la **première** liste déroulante **URL** **d’origine** et sélectionnez votre [CNAME de marketing.](customize-your-landing-page-urls-with-a-cname.md)
+1. Cliquez sur la liste déroulante **first** **Original** **URL** et sélectionnez votre Marketo [CNAME](customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
@@ -36,9 +36,9 @@ Si vous mettez à jour l’URL d’une page et souhaitez que l’ancienne URL fo
    >**Rappel**
    >
    >
-   >N’oubliez pas que vous ne pouvez rediriger que les URL qui début avec votre [CNAME](customize-your-landing-page-urls-with-a-cname.md)de marketing.
+   >N’oubliez pas que vous ne pouvez rediriger que les URL qui début avec votre Marketo [CNAME](customize-your-landing-page-urls-with-a-cname.md).
 
-1. Sélectionnez le landing page à rediriger dans le **deuxième champ URL** d’origine.
+1. Sélectionnez le landing page à rediriger dans le champ **seconde URL d’origine**.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -46,7 +46,7 @@ Si vous mettez à jour l’URL d’une page et souhaitez que l’ancienne URL fo
    >
    >Vous pouvez entrer n’importe quel chemin d’URL, même si la page ou le répertoire n’existe pas.
 
-1. Cliquez sur la liste déroulante **Rediriger** **l’URL** et sélectionnez la page vers laquelle vous souhaitez rediriger les visiteurs.
+1. Cliquez sur la liste déroulante **Redirection** **URL** et sélectionnez la page vers laquelle vous souhaitez rediriger les visiteurs.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
@@ -56,7 +56,7 @@ Si vous mettez à jour l’URL d’une page et souhaitez que l’ancienne URL fo
 
    >[!TIP]
    >
-   >Pour rediriger vers une page Web en dehors de Marketo, cliquez sur **Utiliser un Landing page** autre que Marketo.
+   >Pour rediriger vers une page Web en dehors de Marketo, cliquez sur **Utiliser un Landing page autre que Marketo**.
 
    >[!NOTE]
    >
