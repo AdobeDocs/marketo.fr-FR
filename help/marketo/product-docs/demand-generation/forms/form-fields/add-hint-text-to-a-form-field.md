@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# Ajouter un texte de conseil à un champ de formulaire {#add-hint-text-to-a-form-field}
+# Ajouter le texte de conseil à un champ de formulaire {#add-hint-text-to-a-form-field}
 
-Des conseils et [des instructions](add-tooltip-instructions-to-a-form-field.md) aident les gens à remplir des formulaires. Voici comment ajouter un indice.
+Les conseils et [instructions](add-tooltip-instructions-to-a-form-field.md) aident les personnes à remplir des formulaires. Voici comment ajouter un indice.
 
 >[!NOTE]
 >
 >**Définition**
 >
->Les **astuces** de formulaire sont du texte à l’intérieur du champ qui disparaît lorsque le visiteur commence à saisir du texte dans le champ.
+>Le formulaire **Astuces** est le texte à l’intérieur du champ qui disparaît lorsque le visiteur commence à saisir du texte dans le champ.
 >
->Les **instructions** de formulaire sont de petites info-bulles qui s’affichent lorsque le visiteur passe la souris sur le champ.
+>Les instructions **Form** sont de petites info-bulles qui s&#39;affichent lorsque le visiteur passe la souris sur le champ.
 
 1. Accédez à **Marketing** **Activités**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Sélectionnez le champ et saisissez votre **** texte **d’indication**.
+1. Sélectionnez le champ et entrez votre **indice** **texte**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
@@ -48,11 +48,11 @@ Des conseils et [des instructions](add-tooltip-instructions-to-a-form-field.md) 
    >**Rappel**
    >
    >
-   >N&#39;oubliez pas d&#39; [approuver le brouillon](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de landing page créé par les modifications du formulaire.
+   >N&#39;oubliez pas [d&#39;approuver le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Regardez ! Allons-y et ajoutons quelques [instructions](add-tooltip-instructions-to-a-form-field.md) maintenant.
+Regardez ! Allons de l&#39;avant et ajoutons quelques [instructions](add-tooltip-instructions-to-a-form-field.md) maintenant.
 
 >[!MORELIKETHIS]
 >
