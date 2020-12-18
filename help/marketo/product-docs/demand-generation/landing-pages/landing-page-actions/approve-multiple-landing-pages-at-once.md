@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Ne cliquez pas sur le nom réel du landing page, ce sont des liens et vous conduiront à la page elle-même.
 
-1. Une fois vos landings page sélectionnés, accédez à Actions **** Landing page et cliquez sur **Approuver.**
+1. Une fois vos landings page sélectionnés, accédez à **Actions du Landing page** et cliquez sur **Approuver.**
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
