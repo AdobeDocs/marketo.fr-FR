@@ -20,14 +20,14 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
    1. Si vous avez déjà reçu votre balise JavaScript de l’assistance - passez à l’étape 3.\
       ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. Sous Domaine, recherchez le domaine approprié et cliquez sur **Générer une balise**.
+1. Sous Domaine, recherchez le domaine approprié et cliquez sur **Générer la balise**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
 1. Copiez la balise JavaScript RTP.
 1. Connectez-vous à votre compte WordPress en tant qu’utilisateur administrateur.
 
-   1. Sous **Aspect**, accédez à **Custom JavaScript**.
+   1. Sous **Apparence**, accédez à **JavaScript personnalisé**.
    1. Collez la balise Javascript RTP juste après le code existant.
 
       ![](assets/image2014-12-3-17-3a51-3a46.png)
