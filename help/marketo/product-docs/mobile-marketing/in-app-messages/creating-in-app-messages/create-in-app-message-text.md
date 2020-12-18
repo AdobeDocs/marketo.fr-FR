@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Créer un texte de message intégré à l’application {#create-in-app-message-text}
+# Créer un texte de message in-app {#create-in-app-message-text}
 
 Cliquez sur la zone de texte pour travailler sur votre style de texte et votre contenu.
 
@@ -31,7 +31,7 @@ Cliquez sur la zone de texte pour travailler sur votre style de texte et votre c
    >
    >Une taille de texte trop importante peut pousser le contenu au-delà des trois lignes de texte visibles au maximum.
 
-1. Choisissez un style de type facultatif pour mettre l’accent : **Gras**, *Italique* ou Souligné.
+1. Choisissez un style de type facultatif pour mettre l’accent : **Bold**, *Italic* ou Souligné.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -77,7 +77,7 @@ Cliquez sur la zone de texte pour travailler sur votre style de texte et votre c
 
    Les modifications apportées aux jetons utilisés dans un programme de messages in-app approuvé ne seront pas prises en compte dans le message in-app tant que le programme n’est pas suspendu, puis repris.
 
-Tu es dorée. Ensuite, vous devez [configurer votre bouton](set-up-the-in-app-message-button.md)de message in-app.
+Tu es dorée. Ensuite, vous devez [configurer votre bouton de message in-app](set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
