@@ -35,11 +35,11 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
-1. Cliquez sur **Modifier la configuration** de l’API.
+1. Cliquez sur **Modifier la configuration de l&#39;API**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2.png)
 
-1. Saisissez une clé secrète API de votre choix, puis cliquez sur **Enregistrer**. N’utilisez PAS d’esperluette (&amp;) dans votre clé secrète API.
+1. Saisissez une clé secrète d’API de votre choix et cliquez sur **Enregistrer**. N’utilisez PAS d’esperluette (&amp;) dans votre clé secrète API.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-3.png)
 
@@ -61,11 +61,11 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6.png)
 
-1. Recherchez &quot;site distant&quot; et sélectionnez Paramètres **du site** distant.
+1. Recherchez &quot;site distant&quot; et sélectionnez **Paramètres du site distant**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7.png)
 
-1. Cliquez sur **Nouveau site** distant.
+1. Cliquez sur **Nouveau site distant**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
@@ -73,15 +73,15 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
-1. Cliquez à nouveau sur **Nouveau site** distant.
+1. Cliquez à nouveau sur **Nouveau site distant**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
 1. Saisissez le nom du site distant (il peut s’agir de &quot;MarketoRestAPI&quot;). Saisissez l’URL du site distant, qui correspond à l’URL de votre API depuis le panneau de configuration de l’API REST de Marketo. Cliquez sur **Enregistrer**. Vous avez maintenant créé des paramètres de site distant pour l’API REST.
 
-## Configurer Marketing Cloud Sales Insight {#set-up-marketo-sales-insight}
+## Configurer le rapport commercial {#set-up-marketo-sales-insight}
 
-1. Connectez-vous à votre instance de marketing et cliquez sur **Admin**.
+1. Connectez-vous à votre instance Marketo et cliquez sur **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -89,11 +89,11 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    ![](assets/image2015-5-22-15-3a12-3a33.png)
 
-1. Cliquez sur **Modifier la configuration** de l’API.
+1. Cliquez sur **Modifier la configuration de l&#39;API**.
 
    ![](assets/image2015-5-22-15-3a15-3a0.png)
 
-1. Saisissez une clé **secrète** API et cliquez sur **Enregistrer**.
+1. Saisissez une **clé secrète API** et cliquez sur **Enregistrer**.
 
    >[!CAUTION]
    >
@@ -109,29 +109,29 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. Recherchez &quot;site distant&quot; et cliquez sur Paramètres **du site** distant sous Contrôles **de** sécurité.
+1. Recherchez &quot;site distant&quot; et cliquez sur **Paramètres du site distant** sous **Contrôles de sécurité**.
 
    ![](assets/image2014-9-24-17-3a25-3a52.png)
 
-1. Cliquez sur **Nouveau site** distant.
+1. Cliquez sur **Nouveau site distant**.
 
    ![](assets/image2014-9-24-17-3a26-3a6.png)
 
-1. Saisissez le nom **du site** distant et l’URL **du site** distant, puis cliquez sur **Enregistrer**.
+1. Saisissez **Nom du site distant** et **URL du site distant**, puis cliquez sur **Enregistrer**.
 
    ![](assets/remote-site.png)
 
    >[!NOTE]
    >
-   >Vous choisissez votre nom **de site** distant (l’API de marketing est utilisée ici). L’URL **du site** distant se trouve dans le champ Hôte marketing de la boîte de dialogue Modifier la configuration de l’API de l’étape 4.
+   >Vous choisissez votre **nom du site distant** (MarketoAPI est utilisé ici). L&#39;**URL du site distant** se trouve dans le champ Hôte de marketing de la boîte de dialogue Modifier la configuration de l&#39;API de l&#39;étape 4.
 
-## Personnalisation des mises en page {#customize-page-layouts}
+## Personnaliser les mises en page {#customize-page-layouts}
 
 1. Cliquez sur **Configuration**.
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. Recherchez &quot;mise en page&quot; et sélectionnez la **mise en page** sous **Pistes**.
+1. Recherchez &quot;mise en page&quot; et sélectionnez **Mise en page** sous **Pistes**.
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
@@ -139,7 +139,7 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. Saisissez &quot;Insight commercial du marketing&quot; comme nom **de la** section. Sélectionnez **1 colonne** et cliquez sur **OK**.
+1. Saisissez &quot;Marketo Sales Insight&quot; comme **Nom de la section**. Sélectionnez **1-Column** et cliquez sur **OK**.
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
@@ -151,11 +151,11 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
    >
    >Le nom de cette zone change en fonction du type d’objet. Par exemple, si vous modifiez la mise en page des contacts, il indique Contact.
 
-1. Cliquez sur le doublon sur le bloc **de piste** que vous venez d&#39;ajouter.
+1. Doublon-cliquez sur le bloc **Piste** que vous venez d&#39;ajouter.
 
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
-1. Modifiez la hauteur à **450** pixels et cliquez sur **OK**.
+1. Modifiez la hauteur en **450** pixels et cliquez sur **OK**.
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
 
@@ -163,7 +163,7 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
    >
    >Nous vous recommandons une hauteur de 410 pixels pour les objets Comptes et Opportunités.
 
-1. Cliquez sur **Champs **à gauche. Ensuite, recherchez et faites glisser l’étiquette **Engagement** dans la mise en page **Marketo Sales Insight** .
+1. Cliquez sur **Champs **à gauche. Recherchez ensuite le libellé **Engagement** et faites-le glisser dans la mise en page **Marketing Sales Insight**.
 
    ![](assets/image2015-5-22-16-3a32-3a46.png)
 
@@ -195,14 +195,14 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
  </tbody> 
 </table>
 
-1. Lorsque vous avez terminé, cliquez sur **Enregistrer** .
+1. Cliquez sur **Enregistrer** une fois terminé.
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
 1. Répétez ce processus pour ajouter des sections de page Visualforce et des champs Sales Insight pour **Contact**, **Compte** et **Opportunité**.
-1. Répétez les étapes 5 à 7 pour ajouter des sections de page Visualforce pour Contact, Compte et Opportunité. Répétez ensuite les étapes 8 à 10 pour ajouter les champs Sales Insight pour **Contact**. Veillez à enregistrer après toute modification.
+1. Répétez les étapes 5 à 7 pour ajouter des sections de page Visualforce pour Contact, Compte et Opportunité. Ensuite, répétez les étapes 8 à 10 pour ajouter les champs Sales Insight pour **Contact**. Veillez à enregistrer après toute modification.
 
-## Faire correspondre les champs d’une personne personnalisée {#map-custom-person-fields}
+## Mettre en correspondance les champs de personne personnalisée {#map-custom-person-fields}
 
 Les champs de personne à personne doivent être mappés aux champs de contact Salesforce pour s’assurer que la conversion fonctionne correctement. Voici comment.
 
@@ -214,7 +214,7 @@ Les champs de personne à personne doivent être mappés aux champs de contact S
 
    ![](assets/image2015-6-1-9-3a54-3a50.png)
 
-1. Cliquez sur **Mapper les champs** de piste.
+1. Cliquez sur **Faire correspondre les champs de piste**.
 
    ** ![](assets/image2015-6-1-9-3a58-3a48.png)
 
@@ -269,19 +269,19 @@ Les champs de personne à personne doivent être mappés aux champs de contact S
 
 1. Cliquez sur **Enregistrer **lorsque vous avez terminé.
 
-## Configuration de Marketing Cloud Sales Insight {#marketo-sales-insight-config}
+## Config des statistiques commerciales de marketing {#marketo-sales-insight-config}
 
-1. Cliquez sur **+ **puis sélectionnez **Marketo Sales Insight Config**.
+1. Cliquez sur **+ **et sélectionnez **Config des statistiques commerciales marketing**.
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. Cochez la case **Activer l’API** de marketing. Renseignez ensuite les informations de configuration de l’ [API dans l’administrateur](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight)de Marketing Cloud. Cliquez sur **Enregistrer les modifications **lorsque vous avez terminé.
+1. Cochez **Activer l’API de marketing**. Renseignez ensuite les informations de configuration de l’API [dans l’élément Administration de marketing](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight). Cliquez sur **Enregistrer les modifications **lorsque vous avez terminé.
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
    >
-   >Si le test de diagnostic a échoué, vous devrez peut-être [ajouter d’autres champs à votre mise en page](http://nation.marketo.com/docs/DOC-1115).
+   >Si le test de diagnostic a échoué, vous devrez peut-être [ajouter d&#39;autres champs à votre mise en page](http://nation.marketo.com/docs/DOC-1115).
 
 Et c&#39;est tout ! Vous devriez être en mesure d&#39;afficher les champs de statistiques de ventes de Marketo pour les pistes, contacts, comptes et opportunités.
 
@@ -291,10 +291,10 @@ Et c&#39;est tout ! Vous devriez être en mesure d&#39;afficher les champs de st
 >
 >Pour les comptes, Sales Insight inclura tous les e-mails, mais uniquement les derniers moments intéressants, l&#39;activité Web et les changements de notes.
 
-## Accéder à Marketo Sales Insight {#access-marketo-sales-insight}
+## Accéder à Marketing Sales Insight {#access-marketo-sales-insight}
 
-1. Dans Salesforce, cliquez sur le **+** à la fin de la barre d’onglets et cliquez sur Configuration **des statistiques de ventes** marketing.
-1. Cochez la case **Activer l’API** de marketing.
+1. Dans Salesforce, cliquez sur le **+** à la fin de la barre d’onglets et cliquez sur **Config des statistiques commerciales du marketing**.
+1. Cochez la case **Activer l’API de marketing**.
 1. Copiez les informations d’identification du panneau API Soap de la page d’administration de Sales Insight de Marketo et collez-les dans la section API Soap de la page de configuration de Sales Insight de Salesforce.
 1. Copiez les informations d’identification du panneau API REST de la page d’administration de Sales Insight de Marketo et collez-les dans la section API REST de la page de configuration de Sales Insight de Salesforce.
 
