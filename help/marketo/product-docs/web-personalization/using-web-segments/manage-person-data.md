@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Tirez parti des données personnelles pour la personnalisation Web en sélectionnant les champs de personne à utiliser dans votre segmentation.
 
-1. Accédez à Paramètres **du** compte.\
+1. Accédez à **Paramètres du compte**.\
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
 1. Accédez à **Base de données**.\
    ![](assets/account-settings-dropdown-database.jpg)
 
-## Ajouter un champ Personne {#adding-a-new-person-field}
+## Ajouter un champ Nouvelle personne {#adding-a-new-person-field}
 
 1. Sélectionnez **Champ à ajouter** dans la liste déroulante pour ajouter un champ de données de personne à la liste.
 
