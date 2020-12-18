@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ajouter une image à un Landing page libre {#add-an-image-to-a-free-form-landing-page}
+# Ajouter une image à un Landing page de forme libre {#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 
 
-1. Sélectionnez votre landing page de formulaire libre et cliquez sur **Modifier** **le brouillon**.
+1. Sélectionnez votre landing page de formulaire libre et cliquez sur **Modifier** **Version préliminaire**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Dans l’éditeur, faites glisser le curseur sur l’élément **Image** .
+1. Dans l’éditeur, faites glisser l’élément **Image**.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
