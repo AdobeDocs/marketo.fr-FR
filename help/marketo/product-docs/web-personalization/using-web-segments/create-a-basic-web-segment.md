@@ -31,7 +31,7 @@ Créons un segment de base ciblant tous les visiteurs Web des États-Unis et l&#
 
    ![](assets/location-drag-hand.jpg)
 
-1. Sélectionnez un pays à ajouter dans la liste déroulante. Sélectionnez les États **Unis**.
+1. Sélectionnez un pays à ajouter dans la liste déroulante. Sélectionnez **États-Unis**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -49,7 +49,7 @@ Créons un segment de base ciblant tous les visiteurs Web des États-Unis et l&#
 
    Vous avez maintenant configuré un segment de base pour toutes les prospects visitant votre site Web en provenance des États-Unis et de l’industrie financière.
 
-1. Cliquez sur** Enregistrer **pour enregistrer le segment ou sur **Enregistrer et définir Campaign** pour accéder à la page Campagnes.
+1. Cliquez sur** Enregistrer **pour enregistrer le segment ou **Enregistrer et définir Campaign** pour accéder à la page Campagnes.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
