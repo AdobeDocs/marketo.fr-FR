@@ -23,13 +23,13 @@ Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partage
 
 >[!PREREQUISITES]
 >
->Si vous souhaitez utiliser des images dans votre sondage, ajoutez-les à votre bibliothèque d’images et de fichiers marketing avant de commencer. Ajoutez une image de 60 x 60 pixels pour chaque entrée d’interrogation. Voir [Ajouter des images et des fichiers au marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Si vous souhaitez utiliser des images dans votre sondage, ajoutez-les à votre bibliothèque d’images et de fichiers marketing avant de commencer. Ajoutez une image de 60 x 60 pixels pour chaque entrée d’interrogation. Voir [Ajouter des images et des fichiers sur Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Dans votre programme, sélectionnez **Nouveau** > **Nouveau fichier local.**
+1. Dans votre programme, sélectionnez **New** > **New Local Asset.**
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Dans la Galerie de ressources **locales,** cliquez sur **Sondage.**
+1. Dans la **Galerie locale des ressources,** cliquez sur **Sondage.**
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -39,7 +39,7 @@ Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partage
 
    >[!TIP]
    >
-   >Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir** pour copier tous les paramètres d’un partage de vidéo existant.
+   >Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir de** pour copier tous les paramètres d’un partage de vidéo existant.
 
 1. Faites un gros titre à votre sondage (habituellement une brève question).
 
@@ -57,7 +57,7 @@ Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partage
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Sélectionnez l’image dont vous avez besoin, puis cliquez sur **Sélectionner.**
+1. Sélectionnez l&#39;image dont vous avez besoin, puis cliquez sur **Sélectionner.**
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
@@ -73,7 +73,7 @@ L’éditeur de sondage s’ouvre dans une nouvelle fenêtre. Les paramètres pa
 
 >[!TIP]
 >
->Pour modifier l’un des paramètres par défaut de votre sondage, cliquez sur **Précédent**. Pour enregistrer votre travail pour plus tard sans approbation, cliquez sur **Fermer**.
+>Pour modifier l’une des valeurs par défaut de votre sondage, cliquez sur **Précédent**. Pour enregistrer votre travail pour plus tard sans approbation, cliquez sur **Fermer**.
 
 S’il y a des problèmes dans le sondage, vous serez invité à les résoudre avant que le sondage ne soit approuvé. Félicitations ! Vous avez créé votre sondage.
 
@@ -81,5 +81,5 @@ S’il y a des problèmes dans le sondage, vous serez invité à les résoudre a
 >
 >**Articles connexes**
 >
->L’étape suivante consiste à [publier votre sondage](publish-a-poll.md), mais vous pouvez modifier les paramètres de votre sondage si nécessaire. Début avec [personnalisation des paramètres](customize-poll-settings.md)du sondage.
+>L’étape suivante consiste à [publier votre sondage](publish-a-poll.md), mais vous pouvez modifier les paramètres de votre sondage si nécessaire. Début avec [personnalisation des paramètres du sondage](customize-poll-settings.md).
 
