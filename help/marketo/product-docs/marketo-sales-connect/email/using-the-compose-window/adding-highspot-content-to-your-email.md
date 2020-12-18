@@ -23,7 +23,7 @@ Si vous êtes un client Highspot, vous pouvez facilement insérer du contenu Hig
 
    ![](assets/two-5.png)
 
-1. Cliquez sur l’emplacement du message électronique dans lequel vous souhaitez insérer le contenu des zones sensibles. Cliquez sur la liste déroulante des flèches (en regard de l’icône de pièce jointe) et sélectionnez **Haut**.
+1. Cliquez sur l’emplacement du message électronique dans lequel vous souhaitez insérer le contenu des zones sensibles. Cliquez sur la liste déroulante des flèches (en regard de l’icône de pièce jointe) et sélectionnez **Haut-lieu**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ Si vous êtes un client Highspot, vous pouvez facilement insérer du contenu Hig
 
    ![](assets/four-5.png)
 
-1. Sélectionnez le contenu de votre choix, puis cliquez sur le bouton **Ajouter le contenu** .
+1. Sélectionnez le contenu de votre choix et cliquez sur le bouton **Ajouter le contenu**.
 
    ![](assets/five-3.png)
 
