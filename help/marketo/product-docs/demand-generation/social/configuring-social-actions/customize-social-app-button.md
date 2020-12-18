@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Personnalisation du bouton de l’application Social {#customize-social-app-button}
+# Personnaliser le bouton de l’application Social {#customize-social-app-button}
 
-Lorsque vous créez un bouton [](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) social ou une offre [de](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)référence, vous pouvez personnaliser l’aspect des boutons.
+Lorsque vous créez un [bouton social](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) ou une [offre de référence](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez personnaliser l’aspect des boutons.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,7 +23,7 @@ Lorsque vous créez un bouton [](../../../../product-docs/demand-generation/land
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. Dans l’éditeur d’applications sociales, accédez à Paramètres **de l’** application > Style **de** bouton (ou Style d’inscription **** pour les offres de référence).
+1. Dans l’éditeur d’applications sociales, accédez à **Paramètres de l’application** > **Style de bouton** (ou **Style d’inscription,** pour les offres de référence).
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
@@ -37,7 +37,7 @@ Lorsque vous créez un bouton [](../../../../product-docs/demand-generation/land
 
    >[!NOTE]
    >
-   >Pour les offres de référence, sélectionnez vos réseaux sous **2. Flux d’inscription > Réseaux** sociaux.
+   >Pour les offres de référence, sélectionnez vos réseaux sous **2. Flux d’inscription > Réseaux sociaux**.
 
 1. Choisissez un type de bouton.
 
@@ -45,21 +45,21 @@ Lorsque vous créez un bouton [](../../../../product-docs/demand-generation/land
 
    >[!TIP]
    >
-   >Si vous avez choisi **Télécharger des images sous Style** de bouton ci-dessus, les sections suivantes vous permettent de télécharger des images de bouton au lieu de modifier le texte.
+   >Si vous avez choisi **Télécharger les images sous Style de bouton** ci-dessus, les sections suivantes vous permettent de télécharger des images de bouton au lieu de modifier le texte.
 
 1. Modifiez les libellés du bouton, avant et après avoir cliqué.
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. A mesure que vous effectuez chaque choix, passez en revue le résultat dans la fenêtre **Vue et modification** .
+1. Lorsque vous faites chaque choix, passez en revue le résultat dans la fenêtre **Vue et modification**.
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->Dans une offre de référence, vous pouvez également personnaliser le bouton **Suivi de la progression** . Accédez à Paramètres **de l’** application > **Suivi du style** de progression et suivez les mêmes étapes que ci-dessus.
+>Dans une offre de référence, vous pouvez également personnaliser le bouton **Suivi de la progression**. Accédez à **Paramètres de l’application** > **Suivi du style de progression** et suivez les mêmes étapes que ci-dessus.
 
 >[!MORELIKETHIS]
 >
->Pour un bouton social, [configurez le moment où il s’ouvre](configure-when-social-button-opens.md). Pour une offre de référence, [spécifiez l’objectif](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)de l’offre.
+>Pour un bouton social, [configurez quand il s’ouvre](configure-when-social-button-opens.md). Pour une offre de référence, [spécifiez l&#39;objectif d&#39;offre](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
 
