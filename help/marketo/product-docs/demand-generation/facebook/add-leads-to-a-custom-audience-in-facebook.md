@@ -18,7 +18,7 @@ Avez-vous déjà une audience personnalisée dans Facebook et souhaitez-vous y a
 >[!PREREQUISITES]
 >
 >* [Création d’une Audience personnalisée dans Facebook](create-a-custom-audience-in-facebook.md)
->* [Acceptez les termes](https://www.facebook.com/ads/manage/customaudiences/tos.php) d’audiences personnalisées de Facebook dans votre compte Facebook.
+>* [Acceptez les audiences personnalisées de Facebook ](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte Facebook.
 
 >
 
@@ -28,7 +28,7 @@ Avez-vous déjà une audience personnalisée dans Facebook et souhaitez-vous y a
 
    ![](assets/one.png)
 
-1. Sélectionnez l&#39;onglet **Pistes** , puis cliquez sur l&#39;icône **Envoyer via Ad Bridge **située dans la partie inférieure.
+1. Sélectionnez l&#39;onglet **Pistes**, puis cliquez sur l&#39;icône **Envoyer via Ad Bridge **située dans la partie inférieure.
 
    ![](assets/two-1.png)
 
@@ -36,14 +36,14 @@ Avez-vous déjà une audience personnalisée dans Facebook et souhaitez-vous y a
 
    ![](assets/three.png)
 
-1. Cliquez sur la liste déroulante **Audience** , sélectionnez l&#39;audience à laquelle vous souhaitez ajouter les pistes, puis cliquez sur **Mettre à jour**.
+1. Cliquez sur la liste déroulante **Audience**, sélectionnez l&#39;audience à laquelle vous voulez ajouter les pistes, puis cliquez sur **Mettre à jour**.
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**L&#39;Ajoute conduit à l&#39;audience :** seules les audiences Facebook avec un sous-type personnalisé seront disponibles.\
-   >**Supprimer les pistes de l&#39;audience**: supprime les pistes de votre liste statique ou intelligente d’une audience Facebook.
+   >**L’Ajoute conduit à l’audience :** seules les audiences Facebook avec un sous-type personnalisé seront disponibles.\
+   >**Supprimer les pistes de l&#39;audience** : supprime les pistes de votre liste statique ou intelligente d’une audience Facebook.
 
 1. Une fois l’état terminé, il est mis à jour.
 
