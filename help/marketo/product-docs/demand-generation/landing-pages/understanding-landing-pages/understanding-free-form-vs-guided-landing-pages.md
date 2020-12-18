@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présentation des Landings page libres ou guidés {#understanding-free-form-vs-guided-landing-pages}
 
-Le modèle que vous choisissez détermine le mode de modification de landing page dans lequel vous allez travailler. Il existe deux chemins possibles : [forme](http://docs.marketo.com/display/docs/free-form+landing+pages) libre et [guidée](http://docs.marketo.com/display/docs/guided+landing+pages). Vous trouverez ci-dessous un bref résumé des différences importantes.
+Le modèle que vous choisissez détermine le mode de modification de landing page dans lequel vous allez travailler. Il existe deux chemins possibles : [formulaire libre](http://docs.marketo.com/display/docs/free-form+landing+pages) et [guidé](http://docs.marketo.com/display/docs/guided+landing+pages). Vous trouverez ci-dessous un bref résumé des différences importantes.
 
 ## Pages de forme libre {#free-form-pages}
 
