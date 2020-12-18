@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création d’un analyseur de Programme {#create-a-program-analyzer}
+# Créer un analyseur de Programme {#create-a-program-analyzer}
 
 Découvrez les programmes et les canaux qui vous donnent le plus d&#39;argent pour votre marketing. Utilisez l&#39;analyseur de programme pour analyser et comparer chaque coût et chaque retour en détail, par programme ou par canal.
 
@@ -19,11 +19,11 @@ Découvrez les programmes et les canaux qui vous donnent le plus d&#39;argent po
 >
 >**Rappel**
 >
->Pour obtenir de bonnes données auprès d’un analyseur de programme, assurez-vous que vos contacts CRM ont un rôle dans les opportunités et que vos programmes Marketo sont entièrement configurés, avec les coûts [de](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)période, les états de programme et la réussite définis.
+>Pour obtenir de bonnes données d&#39;un analyseur de programme, assurez-vous que vos contacts CRM ont un rôle dans les opportunités et que vos programmes Marketo sont entièrement configurés, avec [les coûts de période](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), les états de programme et la réussite définis.
 
 >[!TIP]
 >
->Pour que les programmes sans coût apparaissent dans l&#39;analyseur de programme, [définissez le coût](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) de la période sur 0 €.
+>Pour que les programmes sans coût apparaissent dans l&#39;analyseur de programme, [définissez leur coût de période](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) sur 0 dollar.
 
 1. Cliquez sur la mosaïque Analytics.
 
@@ -51,7 +51,7 @@ Découvrez les programmes et les canaux qui vous donnent le plus d&#39;argent po
 
    >[!TIP]
    >
-   >Pour sélectionner une plage spécifique, sélectionnez **Personnalisé** et utilisez les champs **De** et **À** .
+   >Pour sélectionner une plage spécifique, sélectionnez **Personnalisé** et utilisez les champs **De** et **À**.
 
 1. Si vous souhaitez enregistrer votre nouvel analyseur personnalisé, dans la liste déroulante Actions Analyzer, sélectionnez Enregistrer sous.
 
@@ -75,8 +75,8 @@ Découvrez les programmes et les canaux qui vous donnent le plus d&#39;argent po
 
 >[!NOTE]
 >
->La plupart des mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multipoint (MT). Il est important de comprendre la [différence entre l’attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT et MT.
+>La plupart des mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multipoint (MT). Il est important de comprendre la différence [entre l’attribution FT et l’attribution MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!NOTE]
 >
->Pour en savoir plus, consultez l&#39;Explorateur [](http://docs.marketo.com/display/docs/basic+reporting) de Rapports [de base et de cycle de](http://docs.marketo.com/display/docs/revenue+cycle+analytics)recettes.
+>Pour en savoir plus, consultez [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting) et [Explorateur du cycle de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
