@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Téléchargement de la solution Marketing Cloud Sales Insight pour Microsoft Dynamics {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Téléchargez la solution Marketing to Sales Insight pour Microsoft Dynamics {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Vous devrez télécharger et installer une solution Marketing pour Sales Insight dans votre compte Microsoft Dynamics pour lancer la synchronisation.
 
-1. Accédez à la zone **Admin** .
+1. Accédez à la zone **Admin**.
 
    ![](assets/mainnavhand.png)
 
@@ -31,7 +31,7 @@ Vous devrez télécharger et installer une solution Marketing pour Sales Insight
 
    ![](assets/image2016-5-3.png)
 
-1. Sélectionnez **Télécharger la solution** marketing.
+1. Sélectionnez **Télécharger la solution marketing**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
