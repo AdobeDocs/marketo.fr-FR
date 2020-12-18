@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Choisir une mise en page pour votre message intégré {#choose-a-layout-for-your-in-app-message}
+# Choisissez une mise en page pour votre message intégré {#choose-a-layout-for-your-in-app-message}
 
 Marketo fournit six mises en page pour la création de messages in-app.
 
@@ -58,7 +58,7 @@ La troisième mise en page plein écran est identique à la seconde, à l’exce
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Maintenant que vous connaissez les modèles, il est temps d’en choisir un lorsque vous [créez vos images](add-in-app-message-images.md)de message in-app.
+Maintenant que vous connaissez les modèles, il est temps d&#39;en choisir un lorsque vous [créez vos images de message in-app](add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >
