@@ -28,21 +28,21 @@ Le contenu prédictif engage vos visiteurs Web avec le contenu le plus pertinent
 
 Une fois que vous avez préparé le titre, la description et l’image du contenu pour les médias enrichis, vous pouvez activer des éléments de contenu individuels ou multiples.
 
-1. Pour activer un titre individuel, cliquez sur un titre pour ouvrir l’éditeur. Cliquez sur Média enrichis, puis cochez la case **Activé pour le contenu prédictif dans le média** enrichis et cliquez sur **Enregistrer**.
+1. Pour activer un titre individuel, cliquez sur un titre pour ouvrir l’éditeur. Cliquez sur Média enrichi, puis cochez la case **Activé pour le contenu prédictif dans le média enrichi** et cliquez sur **Enregistrer**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Pour plusieurs éléments de contenu, dans la page Contenu **** prédictif, cochez les cases en regard du ou des titres.
+1. Pour plusieurs éléments de contenu, sur la page **Contenu prédictif**, cochez les cases en regard du ou des titres.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Cliquez sur la liste déroulante Actions **de** contenu et sélectionnez **Activer pour le contenu multimédia** Web enrichi.
+1. Cliquez sur la liste déroulante **Actions de contenu** et sélectionnez **Activer pour les médias enrichis Web**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
-## Personnaliser le code JavaScript et l’incorporer dans votre site Web  {#customize-the-javascript-code-and-embed-it-into-your-website}
+## Personnalisez le code JavaScript et incorporez-le dans votre site Web {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Reportez-vous à la documentation du modèle de recommandation Rich Media [sur le site des développeurs de Marketing Cloud.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Cela explique comment personnaliser le modèle pour votre site Web.
+Reportez-vous à la documentation relative au modèle de recommandation Rich Media [sur le site des développeurs de marchés.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Cela explique comment personnaliser le modèle pour votre site Web.
 
 Collez le code JavaScript sur votre site Web à l’emplacement où vous souhaitez que le modèle s’affiche.
 
