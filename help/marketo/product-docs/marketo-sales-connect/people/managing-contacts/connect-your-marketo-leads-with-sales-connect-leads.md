@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Connecter vos pistes marketing avec les pistes de connexion commerciale {#connect-your-marketo-leads-with-sales-connect-leads}
+# Connectez vos pistes marketing avec les pistes de connexion commerciale {#connect-your-marketo-leads-with-sales-connect-leads}
 
 Afin de synchroniser vos données avec Marketo avec le plus de précision possible, MSC exige que l&#39;enregistrement de la personne comporte un ID de Marketo enregistré. Afin de synchroniser l&#39;identifiant du marché dans MSC, vous pouvez cliquer sur le chevron en regard d&#39;un moment intéressant. Lorsqu’un moment intéressant apparaît dans le flux en direct, cliquez sur la flèche de liste déroulante et l’enregistrement de la personne sera ajouté à la base de données MSC avec l’ID de marketing.
 
