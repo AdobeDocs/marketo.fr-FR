@@ -29,9 +29,9 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. Cliquez sur **Installer des personnalisations**.
+1. Cliquez sur **Installer les personnalisations**.
 
    ![](assets/three-3.png)
 
-   Ensuite, passez simplement aux étapes de l&#39;installation de la personnalisation comme vous le feriez sur un compte Salesforce ordinaire. Pour plus d’informations, passez à la marque d’une minute de [cette vidéo](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) .
+   Ensuite, passez simplement aux étapes de l&#39;installation de la personnalisation comme vous le feriez sur un compte Salesforce ordinaire. Pour plus d’informations, passez à la marque d’une minute de [cette vidéo](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce).
 
