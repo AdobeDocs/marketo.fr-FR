@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Les champs dynamiques ne fonctionnent que lorsque vous utilisez un modèle. Les e-mails ponctuels que vous écrivez ne les rempliront pas.
 
-## Eléments à vérifier {#what-to-check}
+## Que vérifier {#what-to-check}
 
-Il existe trois types de champs dynamiques dans Sales Connect : Simple, Personnalisé et Salesforce. Basic et Custom cherchent tous deux à extraire des informations de l’application [](http://toutapp.com/login)Web. Si les informations n’existent pas dans l’application Web, les champs sont vides. Les champs Salesforce récupèrent les informations de [Salesforce.com](http://salesforce.com).
+Il existe trois types de champs dynamiques dans Sales Connect : Simple, Personnalisé et Salesforce. Basic et Custom cherchent tous deux à extraire des informations de l&#39;[application Web](http://toutapp.com/login). Si les informations n’existent pas dans l’application Web, les champs sont vides. Les champs Salesforce extraient les informations de [Salesforce.com](http://salesforce.com).
 
 `**Troubleshooting Salesforce Fields**`
 
@@ -31,7 +31,7 @@ Tout champs de base : par ex. `{{company}}`
 
 Tout champ personnalisé : par ex. `{{custom_field_favorite_movie}}`
 
-* Dans `he corresponding field needs to be saved for your contact` la page [](http://toutapp.com/next#relationships) Personnes pour que notre champ dynamique soit référencé. Par exemple, si vous envoyez un courriel à Mary et que vous utilisez le `{{company}}` champ, mais que son dossier de contact ne liste pas de société, nous ne pourrons pas le remplir.
+* T `he corresponding field needs to be saved for your contact` dans la [page Personnes](http://toutapp.com/next#relationships) pour le champ dynamique à référencer. Par exemple, si vous envoyez un courrier électronique à Mary et que vous utilisez le champ `{{company}}`, mais que son enregistrement de contact ne liste pas de société, nous ne pourrons pas le remplir.
 
 ## Pourquoi Mon Courrier Électronique A-T-Il Été Envoyé Sans Remplir Tous Les Champs Dynamiques ? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
@@ -49,5 +49,5 @@ Sales Connect empêchera l&#39;envoi de vos courriers électroniques si nous ne 
 
 >[!NOTE]
 >
->Le `{{first_name}}` champ recherche des informations dans Sales Connect et Salesforce. Tous les autres champs de cette liste sont uniquement à la recherche dans Sales Connect pour renseigner le champ.
+>Le champ `{{first_name}}` recherche les informations dans Sales Connect et Salesforce. Tous les autres champs de cette liste sont uniquement à la recherche dans Sales Connect pour renseigner le champ.
 
