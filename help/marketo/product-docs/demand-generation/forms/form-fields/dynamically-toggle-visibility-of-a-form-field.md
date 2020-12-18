@@ -21,23 +21,23 @@ ht-degree: 0%
 
 
 
-L’une des fonctionnalités les plus intéressantes des formulaires Marketo est que vous pouvez masquer/afficher dynamiquement des champs ou des jeux de [champs](add-a-fieldset-to-a-form.md)de formulaire.
+L’une des fonctionnalités les plus intéressantes des formulaires Marketo est que vous pouvez masquer/afficher dynamiquement les champs de formulaire ou [les jeux de champs](add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
 >**Exemple**
 >
->Dans cet exemple, masquons le champ **Etat** à moins que le **Pays** ne soit sélectionné comme &quot;Etats-Unis&quot;.
+>Dans cet exemple, masquons le champ **Etat** à moins que **Pays** ne soit sélectionné comme &quot;Etats-Unis&quot;.
 
 1. Accédez à **Marketing** **Activités**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/editform-1.png)
 
-1. Sélectionnez le champ à masquer/afficher dynamiquement et cliquez sur le lien correspondant aux **règles** de **visibilité**.
+1. Sélectionnez le champ à masquer/afficher dynamiquement et cliquez sur le lien **Visibilité** **Règles**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -75,5 +75,5 @@ Et c&#39;est tout ! Désormais, lorsque des personnes remplissent ce formulaire 
 >
 >**Plongée profonde**
 >
->Vous souhaitez en savoir plus sur [les formulaires](http://docs.marketo.com/display/docs/forms)?
+>Vous souhaitez en savoir plus sur [forms](http://docs.marketo.com/display/docs/forms) ?
 
