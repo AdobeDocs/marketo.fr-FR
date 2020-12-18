@@ -24,23 +24,23 @@ Récompensez vos clients avec des coupons et des codes de remise à l&#39;aide d
 
 
 
-## Configuration de la Diffusion d’exécution {#set-up-fulfillment-delivery}
+## Configurer la Diffusion d&#39;exécution {#set-up-fulfillment-delivery}
 
 1. Sélectionnez l’offre de référence. Cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. Sous Paramètres **de l’** application, sélectionnez **Détails de l’Offre.**
+1. Sous **Paramètres de l&#39;application**, sélectionnez **Détails de l&#39;Offre.**
 
    ** ![](assets/image2015-4-23-12-3a53-3a16.png)
 
    **
 
-1. Sélectionnez un courriel **d&#39;** inscription.
+1. Sélectionnez un **courriel d&#39;inscription**.
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. Sélectionnez un courriel **d’** exécution.
+1. Sélectionnez un **courriel d&#39;exécution**.
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
@@ -49,23 +49,23 @@ Récompensez vos clients avec des coupons et des codes de remise à l&#39;aide d
    >**Plongée profonde**
    >
    >
-   >En savoir plus sur [l’utilisation des courriers électroniques dans les promotions](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)sociales.
+   >En savoir plus sur [l’utilisation des courriers électroniques dans les promotions sociales](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
-1. Cliquez sur la liste déroulante Diffusion **** d’exécution et sélectionnez **auto sur l’objectif**.
+1. Cliquez sur la liste déroulante **Diffusion d’exécution** et sélectionnez **auto sur l’objectif**.
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   Le message sélectionné dans le courrier électronique **d’** exécution est automatiquement envoyé aux personnes qui atteignent l’objectif.
+   Le message sélectionné dans **Courriel d’exécution** sera automatiquement envoyé aux personnes qui atteignent l’objectif.
 
 ## Envoi manuel {#manual-send}
 
 Vous pouvez envoyer manuellement un courrier électronique d’exécution à une personne une fois qu’elle a atteint l’objectif.
 
-1. Sélectionnez l’offre de référence et cliquez sur l’onglet **Participants** .
+1. Sélectionnez l’offre de référence et cliquez sur l’onglet **Participants**.
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. Cliquez sur l&#39;option **Filtrer par **et sélectionnez **Objectif**.
+1. Cliquez sur l’option **Filtrer par **et sélectionnez **Objectif**.
 
    >[!NOTE]
    >
@@ -77,7 +77,7 @@ Vous pouvez envoyer manuellement un courrier électronique d’exécution à une
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. Cliquez avec le bouton droit de la souris et sélectionnez **Envoyer un courriel** d’exécution.
+1. Cliquez avec le bouton droit de la souris et sélectionnez **Envoyer un courriel d’exécution**.
 
    ![](assets/2015-04-20-15-54-13.png)
 
