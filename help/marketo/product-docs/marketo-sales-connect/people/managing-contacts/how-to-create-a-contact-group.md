@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Comment créer un groupe de contacts {#how-to-create-a-contact-group}
+# Comment créer un groupe de contact {#how-to-create-a-contact-group}
 
 Sales Connect vous permet de créer des groupes de contacts afin que vous puissiez envoyer des messages personnalisés à plusieurs destinataires.
 
-Pour créer un groupe, il vous suffit de sélectionner **N***Nouveau groupe**.
+Pour créer un groupe, il vous suffit de sélectionner **N***nouveau groupe**.
 
 Vous pouvez y ajouter des contacts [manuellement](http://docs.marketo.com/x/IYTS) ou [via CSV](http://docs.marketo.com/x/VADb).
 
