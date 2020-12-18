@@ -27,7 +27,7 @@ Souhaitez-vous faire d’une image de votre landing page un lien vers une autre 
 
    ![](assets/click-on-image.png)
 
-1. Développez la feuille **** de propriétés.
+1. Développez la **feuille de propriétés**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
@@ -35,7 +35,7 @@ Souhaitez-vous faire d’une image de votre landing page un lien vers une autre 
 
    ![](assets/add-link.png)
 
-   Félicitations ! Vous avez maintenant correctement ajouté un lien vers une image sur votre landing page. Vous pouvez maintenant [prévisualisation la page](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) pour la voir en action.
+   Félicitations ! Vous avez maintenant correctement ajouté un lien vers une image sur votre landing page. Vous pouvez maintenant [prévisualisation la page](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) pour l&#39;afficher en action.
 
 >[!TIP]
 >
