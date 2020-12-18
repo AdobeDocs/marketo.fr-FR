@@ -25,25 +25,25 @@ Un bouton social encourage les utilisateurs à partager votre contenu avec leurs
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Faites glisser le curseur sur le bouton **** Social depuis les éléments de droite.
+1. Faites glisser le curseur sur le **bouton Social** à partir des éléments de droite.
 
    ![](assets/image2014-9-17-10-3a35-3a6.png)
 
-1. Sélectionnez Boutons **sociaux (avec Analytics)**.
+1. Sélectionnez **Boutons sociaux (avec Analytics)**.
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Une fois votre landing page principal, consultez l’activité générée par votre bouton **** Social (avec Analytics) sur le Tableau de bord [](view-social-performance.md)Social.
+   Une fois votre landing page principal, consultez l’activité générée par votre **Bouton social** (avec Analytics) sur le [Tableau de bord social](view-social-performance.md).
 
-   Si vous ajoutez plutôt un bouton **J’aime/Recommander (Lite)** , consultez le nombre de partages dans le rapport [de performances du](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)landing page.
+   Si vous ajoutez un bouton **J’aime/Recommander (Lite)** à la place, consultez le nombre de partages dans le rapport [performances du landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
 1. Sélectionnez **Créer** dans la liste déroulante.
 
    >[!NOTE]
    >
-   >Vous pouvez également créer un bouton social dans un programme en sélectionnant **Nouveau > Nouveau fichier** local.
+   >Vous pouvez également créer un bouton social dans un programme en sélectionnant **Nouveau > Nouvel actif local**.
 
-1. Nommez votre bouton social, sélectionnez **Aucun** dans **Cloner** **de**, puis cliquez sur **Insérer.**
+1. Nommez votre bouton social, sélectionnez **Aucun** dans **Clone** **From**, puis cliquez sur **Insérer**.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
@@ -51,8 +51,8 @@ Félicitations ! Vous avez ajouté un bouton social à votre landing page. Veill
 
 >[!TIP]
 >
->Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir** pour copier tous les paramètres d’un bouton social existant.
+>Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir de** pour copier tous les paramètres d’un bouton social existant.
 
 >[!MORELIKETHIS]
 >
->Vous avez terminé, mais vous pouvez modifier les paramètres de votre bouton social si nécessaire. Début avec [personnalisation du style](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) de bouton et [modification des messages](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) de partage qu’il présente.
+>Vous avez terminé, mais vous pouvez modifier les paramètres de votre bouton social si nécessaire. Début avec [personnalisation du style de bouton](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) et [modification des messages de partage](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) qu’il présente.
