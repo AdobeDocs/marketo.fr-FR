@@ -41,7 +41,7 @@ Vous pouvez contrôler la visibilité de vos programmes en définissant le compo
 
 >[!NOTE]
 >
->En savoir plus sur la définition du comportement des analyses [ici](http://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
+>Pour en savoir plus sur la définition du comportement des analyses, [ici](http://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
 
 ## J’exécute une campagne multi-canal pour le lancement d’un nouveau produit. Comment puis-je vue les performances de cette campagne sur tous les différents canaux au même endroit ? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,11 +59,11 @@ Il se peut également que vous manquiez des opportunités en raison du manque de
 
 1. Par défaut : le comportement par défaut est que le programme est inclus dans MPI uniquement s&#39;il y a au moins un coût de période, même si un coût nul est affecté.
 1. Inclusif : cette option garantit que le programme est disponible dans MPI, que vous ayez inclus ou non un coût de période.
-1. [Opérationnel](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms) : cette option a pour effet que le programme ne s’affiche pas dans MPI.
+1. [Opérationnel](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  : cette option a pour effet que le programme ne s’affiche pas dans MPI.
 
 >[!NOTE]
 >
->Le coût de la période **doit** être configuré pour le rapports Réussite et Noms dans le tableau de bord d’engagement. Ce tableau de bord utilise les données de coût de période pour les réussites des agrégats et les nouveaux noms. Si le coût de la période n’est pas configuré, le tableau de bord d’engagement ne génère pas de rapports corrects, quels que soient les paramètres de comportement d’Analytics ci-dessus.
+>Le coût de la période **a** à configurer pour le rapports Réussite et Noms dans le tableau de bord Engagement. Ce tableau de bord utilise les données de coût de période pour les réussites des agrégats et les nouveaux noms. Si le coût de la période n’est pas configuré, le tableau de bord d’engagement ne génère pas de rapports corrects, quels que soient les paramètres de comportement d’Analytics ci-dessus.
 
 ## Pourquoi manque-t-il certaines opportunités dans MPI ? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +82,7 @@ Les champs personnalisés, le type d&#39;opportunité et les Filtres ABM sont to
 
 ## Je souhaite utiliser un champ Opportunité Salesforce personnalisé pour le rapports des recettes au lieu du champ Montant opportunité Salesforce standard. Est-ce que MPI me permettra de faire ça ? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Oui. [L&#39;assistance](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) marketing peut faire correspondre le champ Montant de l&#39;opportunité du marketing à un champ Opportunité Salesforce personnalisé tant que le type de champ est devise. Puisque MPI pointe vers le champ Montant de l&#39;opportunité marketing, MPI peut utiliser les données du champ Salesforce personnalisé mappé.
+Oui. [La ](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) prise en charge du marketing peut faire correspondre le champ Montant de l&#39;opportunité du marketing à un champ Opportunité Salesforce personnalisé tant que le type de champ est Devise. Puisque MPI pointe vers le champ Montant de l&#39;opportunité marketing, MPI peut utiliser les données du champ Salesforce personnalisé mappé.
 
 >[!NOTE]
 >
@@ -104,7 +104,7 @@ Oui. MPI s&#39;intègre à [Marketo ABM](http://docs.marketo.com/display/DOCS/Ac
 
 ## L’attribution est-elle instantanément disponible lorsque j’achète MPI ? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Les fonctionnalités d’attribution du marketing sont disponibles pour nos clients lorsqu’ils achètent des MPI. Toutefois, une configuration [](http://docs.marketo.com/x/mRPG) adéquate est nécessaire pour s’assurer que les opportunités et les données de programme se déplacent correctement dans les MPI.
+Les fonctionnalités d’attribution du marketing sont disponibles pour nos clients lorsqu’ils achètent des MPI. Cependant, [une configuration ](http://docs.marketo.com/x/mRPG) appropriée est requise pour s&#39;assurer que les opportunités et les données de programme se déplacent correctement dans MPI.
 
 ## Que dois-je faire pour configurer l’attribution ? {#what-do-i-have-to-do-to-set-up-attribution}
 
