@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ajouter d’autres CNAME de Landing page {#add-additional-landing-page-cnames}
+# Ajouter des CNAME de Landing page supplémentaires {#add-additional-landing-page-cnames}
 
 Vous pouvez ajouter des CNAME de landing page pour permettre à différentes URL de pointer vers vos landings page de marketing. Suivez les étapes ci-dessous pour gérer plusieurs domaines.
 
@@ -21,7 +21,7 @@ Vous pouvez ajouter des CNAME de landing page pour permettre à différentes URL
 
 >[!TIP]
 >
->**Même domaine de niveau supérieur - Bon ! Les cookies sont partagés.go**.mycompany.com > **info**.mycompany.**comDifférents domaines de niveau supérieur - Mauvais ! Les cookies ne sont pas partagés.**
+>**Même domaine de niveau supérieur - Bon ! Les cookies sont shared.go**.mycompany.com > **info**.mycompany.com **Domaines de niveau supérieur différents - Mauvais ! Les cookies ne sont pas partagés.**
 >allez-y.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
@@ -34,7 +34,7 @@ Vous pouvez ajouter des CNAME de landing page pour permettre à différentes URL
 
    ![](assets/image2014-9-16-15-3a19-3a54.png)
 
-1. Copiez la chaîne **de** compte dans la section **Paramètres** .
+1. Copiez la **Chaîne du compte** de la section **Paramètres**.
 
    ![](assets/image2014-9-16-15-3a20-3a2.png)
 
@@ -42,21 +42,21 @@ Vous pouvez ajouter des CNAME de landing page pour permettre à différentes URL
 
 ## Envoyer la demande au service informatique {#send-request-to-it}
 
-1. Demandez à votre service informatique de configurer le CNAME suivant : (Remplacez le mot [CNAME] par le CNAME de votre choix et la CHAÎNE DE [] COMPTE par le texte de l’étape précédente.)
+1. Demandez à votre service informatique de configurer le CNAME suivant : (Remplacez le mot [CNAME] par le CNAME de votre choix et [CHAÎNE DE COMPTE] par le texte de l’étape précédente.)
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 ## Ajouter un nouveau CNAME {#add-a-new-cname}
 
-1. Une fois que votre service informatique a créé le CNAME, accédez à **Admin** , puis cliquez sur **Landings page**.
+1. Une fois que votre service informatique a créé le CNAME, accédez à **Admin**, puis cliquez sur **Landings page**.
 
    ![](assets/image2014-9-16-15-3a20-3a20.png)
 
-1. Cliquez sur **Nouveau** , puis sélectionnez **Nouvel alias** de domaine.
+1. Cliquez sur **Nouveau**, puis sélectionnez **Nouvel alias de domaine**.
 
    ![](assets/image2014-9-16-15-3a20-3a28.png)
 
-1. Entrez votre alias de **domaine.** La page **** par défaut s’affiche si le visiteur ne place pas d’URL. Indiquez où ils doivent se rendre dans ce cas.
+1. Entrez votre **alias de domaine.** La  **page** par défaut s’affiche si le visiteur ne place pas d’URL. Indiquez où ils doivent se rendre dans ce cas.
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ Vous pouvez ajouter des CNAME de landing page pour permettre à différentes URL
 
    ![](assets/image2014-9-16-15-3a20-3a36.png)
 
-1. Saisissez votre page **** par défaut, puis cliquez sur **Créer**.
+1. Saisissez votre **Page par défaut** et cliquez sur **Créer**.
 
    ![](assets/image2014-9-16-15-3a20-3a43.png)
 
