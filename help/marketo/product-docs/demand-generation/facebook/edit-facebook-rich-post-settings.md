@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modifier les paramètres de publication enrichie Facebook {#edit-facebook-rich-post-settings}
 
-Personnalisez les publications lorsque des personnes vous [partagent](http://docs.marketo.com/display/docs/social) sur Facebook.
+Personnalisez les publications lorsque des personnes [vous partagent](http://docs.marketo.com/display/docs/social) sur Facebook.
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Personnalisez les publications lorsque des personnes vous [partagent](http://doc
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-Les applications [sociales Marketing](http://docs.marketo.com/display/docs/social) permettent à vos prospects de partager vos landings page avec leurs connexions sur les réseaux sociaux tels que Facebook, Twitter, etc. Les balises Facebook OpenGraph (balises OG) vous permettent de spécifier les informations de votre landing page qui sont incluses dans les publications Facebook.
+Les [applications sociales](http://docs.marketo.com/display/docs/social) du marketing permettent à vos prospects de partager vos landings page avec leurs connexions sur les réseaux sociaux tels que Facebook, Twitter, etc. Les balises Facebook OpenGraph (balises OG) vous permettent de spécifier les informations de votre landing page qui sont incluses dans les publications Facebook.
 
 ## Sélectionner les options de publication enrichie {#select-rich-post-options}
 
 Vous pouvez spécifier les types d’informations de page à utiliser dans les publications enrichies Facebook générées par des partages à partir de votre landing page.
 
-1. Sélectionnez Message **** Facebook dans l’éditeur pour votre vidéo **YouTube** ou bouton social.
+1. Sélectionnez **Message Facebook** dans l’éditeur pour votre **vidéo ou bouton social YouTube**.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -37,7 +37,7 @@ Vous pouvez spécifier les types d’informations de page à utiliser dans les p
 
       ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Ajouter le contenu dynamique : Votre application sociale peut utiliser vos landings page `<TITLE>`, `<CAPTION>`et `<DESCRIPTION>` balises pour renseigner votre publication enrichie.
+   * Ajouter le contenu dynamique : Votre application sociale peut utiliser les balises `<TITLE>`, `<CAPTION>` et `<DESCRIPTION>` de votre landing page pour renseigner votre publication enrichie.
 
       ![](assets/image2014-9-22-16-3a48-3a9.png)
    >[!NOTE]
@@ -54,13 +54,13 @@ Vous pouvez spécifier les types d’informations de page à utiliser dans les p
 
 Pour contrôler les éléments de page qui seront inclus dans les partages Facebook de votre landing page, vous pouvez ajouter des balises Facebook OG (Open Graph) pour le titre, la légende et la description de votre landing page.
 
-1. Ouvrez le landing page contenant votre vidéo **** YouTube ou votre bouton social.
+1. Ouvrez le landing page qui contient votre **vidéo YouTube** ou votre bouton social.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   Le Concepteur **de** Landings page s’ouvre dans une nouvelle fenêtre.
+   Le **Landing page Designer** s’ouvre dans une nouvelle fenêtre.
 
-1. Sélectionnez Actions **** Landing page > **Modifier les métadonnées de page****.**
+1. Sélectionnez **Actions de Landing page** > **Modifier les métadonnées de page*****.**
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
