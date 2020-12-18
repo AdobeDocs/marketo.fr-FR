@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configuration de la notification Push mobile {#configure-mobile-push-notification}
+# Configurer la notification Push mobile {#configure-mobile-push-notification}
 
 1. Accédez à la zone Activités marketing.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Entrez le texte du message ou sélectionnez l’icône de jeton pour ajouter des jetons. Sélectionnez ensuite une action **** Appuyez sur.
+1. Entrez le texte du message ou sélectionnez l’icône de jeton pour ajouter des jetons. Sélectionnez ensuite **Appuyez sur Action**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -53,15 +53,15 @@ ht-degree: 0%
    >Il existe trois types d’actions d’appui** :**
    >
    >
-   >**Lancer l&#39;application** : **cette application** ouvre la page d&#39;accueil de votre application lorsque la notification est activée. **Personnalisé** utilise un lien profond pour ouvrir d’autres zones de votre application ou de toute autre application à laquelle vous disposez du lien (voir les URI [de lien](#Deeplink) profond ci-dessous pour plus d’informations).
+   >**Lancement de l’application**  :  **cette** option déclenche la page d&#39;accueil de votre application lorsque la notification est activée. **** Personnaliser utilise un lien profond pour ouvrir d’autres zones de votre application ou toute autre application à laquelle vous avez le lien (voir  [Deep Link ](#Deeplink) URIsci ci-dessous pour plus d’informations).
    >
    >
-   >**landing page** : vous conduit à un landing page Marketo spécifié.
+   >**landing page**  - vous conduit à un landing page Marketo spécifié.
    >
    >
-   >**URL** externe : vous conduit à un landing page non-marketing.
+   >**URL**  externe : vous conduit à un landing page non-marketing.
 
-   Pour insérer un lien profond pour une action de contact personnalisée, cliquez sur Personnalisé et saisissez l’URI [de lien](#Deeplink) profond dans le champ.
+   Pour insérer un lien profond pour une action d’accès tactile personnalisée, cliquez sur Personnalisé et saisissez l’[URI de lien profond](#Deeplink) dans le champ.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
