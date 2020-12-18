@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# Partenaires de Événement LaunchPoint {#launchpoint-event-partners}
+# Partenaires du Événement LaunchPoint {#launchpoint-event-partners}
 
 Connectez Marketo à un partenaire de Événement LaunchPoint pour automatiser vos événements en ligne. Lorsque vous les connectez, vous pouvez :
 
