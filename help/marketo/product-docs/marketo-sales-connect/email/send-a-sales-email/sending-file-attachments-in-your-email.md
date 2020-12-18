@@ -21,4 +21,4 @@ En règle générale, tout fichier de plus de 20 Mo est trop volumineux pour êt
 >
 >Lorsque vous utilisez Tout comme canal de diffusion de messagerie, nous vous recommandons d&#39;utiliser des fichiers de 19 Mo ou moins lors de l&#39;envoi de courriels.
 
-Si vous devez absolument envoyer un fichier volumineux, essayez de le zipper en premier ou de le télécharger en tant que pièce jointe [](http://docs.marketo.com/x/3oPS) pouvant faire l’objet d’un suivi dans l’application [](http://toutapp.com/login)Web.
+Si vous devez absolument envoyer un fichier volumineux, essayez de le zipper en premier ou de le télécharger en tant que [pièce jointe pouvant faire l’objet d’un suivi](http://docs.marketo.com/x/3oPS) dans l’[application Web](http://toutapp.com/login).
