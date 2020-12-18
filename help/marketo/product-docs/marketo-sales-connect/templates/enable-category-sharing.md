@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Par défaut, votre équipe ne sera pas en mesure de partager du contenu sur l’ensemble de votre abonnement. Vous pouvez désactiver cette fonction à tout moment et limiter les équipes (ou simplement les administrateurs d’équipe) au contenu dans des catégories spécifiques. Cela n’ajoute pas ou ne supprime pas l’accès aux vues à ces catégories de modèles, mais la possibilité de partager du nouveau contenu dans une catégorie.
 
-Vous pouvez activer/désactiver le partage de catégories à partir des Paramètres **** d’administration.
+Vous pouvez activer/désactiver le partage de catégories à partir de **Paramètres d’administration**.
