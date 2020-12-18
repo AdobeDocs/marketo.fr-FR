@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Comment importer des contacts à partir de Salesforce {#how-to-import-contacts-from-salesforce}
+# Comment importer des contacts de Salesforce {#how-to-import-contacts-from-salesforce}
 
 Notre bouton &quot;Push to Sales Connect&quot; vous permet de prendre une liste de vos Pistes/Contacts dans Salesforce et de les placer dans un groupe dans Sales Connect. Vous pouvez ensuite envoyer rapidement un courriel de groupe personnalisable avec le suivi de Sales Connect en pièce jointe.
 
 1. Dans une liste Leads de Salesforce, sélectionnez les personnes que vous souhaitez intégrer à Sales Engage.
 1. Sélectionnez **Push to MSC**.
 1. Une nouvelle fenêtre s&#39;affiche pour vérifier les pistes que vous souhaitez placer sur le dessus.
-1. Sélectionnez **Continuer vers le groupe**. Sales Connect ajoutera ce groupe intitulé &quot;SFDC-......*&#39;* à la page Personnes de l&#39;application [](http://toutapp.com/)Web.
-1. Sélectionnez **Envoyer le groupe** entier par courriel pour envoyer ce groupe de contacts à un groupe par courriel.
+1. Sélectionnez **Passez au groupe**. Sales Connect ajoutera ce groupe intitulé &quot;SFDC-......*&#39;* à la page Personnes de l&#39;application [ ](http://toutapp.com/)Web.
+1. Sélectionnez **Envoyer par courriel le groupe entier** pour envoyer ce groupe de contacts par courriel.
 
