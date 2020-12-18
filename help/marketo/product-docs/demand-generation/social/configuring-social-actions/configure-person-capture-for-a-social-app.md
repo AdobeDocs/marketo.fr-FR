@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Configuration de la capture de personne pour une application Social {#configure-person-capture-for-a-social-app}
+# Configurer la capture de personne pour une application Social {#configure-person-capture-for-a-social-app}
 
-Lorsque vous créez une offre [de](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) référence ou un tirage au [sort](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez configurer les informations que vous demandez et celles dont vous avez besoin de la part des personnes pour participer.
+Lorsque vous créez une [offre de référence](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou un tirage [vous pouvez configurer les informations que vous demandez et celles dont vous avez besoin de la part des personnes pour participer.](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
 
 >[!NOTE]
 >
 >Les personnes sont invitées à fournir ces informations uniquement si elles ne l’ont pas déjà fait.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/ma-2.png)
 
@@ -27,7 +27,7 @@ Lorsque vous créez une offre [de](../../../../product-docs/demand-generation/so
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. Dans l’éditeur d’applications sociales, accédez à Flux **d’** abonnement > Capture **de la personne.**
+1. Dans l’éditeur d’applications sociales, accédez à **Flux d’inscription** > **Capture de personne.**
 
    ![](assets/three-1.png)
 
@@ -37,12 +37,12 @@ Lorsque vous créez une offre [de](../../../../product-docs/demand-generation/so
 
    Inclure les options marketing :
 
-   * **opt-out**: La personne est abonnée par défaut.
-   * **opt-in**: Une personne peut choisir de s&#39;abonner.
+   * **opt-out** : La personne est abonnée par défaut.
+   * **opt-in** : Une personne peut choisir de s&#39;abonner.
 
    >[!NOTE]
    >
-   >Dans les deux cas, les participants recevront toujours les courriels [** opérationnels](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) de votre offre.
+   >Dans les deux cas, les participants recevront toujours les [*courriels* opérationnels](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) de votre offre.
 
 1. Dans la fenêtre Vue et modification, cliquez sur **Afficher les modifications** et modifiez les messages dans l&#39;invite de partage.
 
@@ -50,5 +50,5 @@ Lorsque vous créez une offre [de](../../../../product-docs/demand-generation/so
 
 >[!MORELIKETHIS]
 >
->Vous pouvez maintenant [configurer le flux](configure-social-sign-up-share-flow.md) d’inscription sur les réseaux sociaux et modifier les messages de partage qui seront publiés sur chaque réseau social.
+>Vous pouvez maintenant [configurer le flux d’inscription sociale](configure-social-sign-up-share-flow.md) et modifier les messages de partage qui seront publiés sur chaque réseau social.
 
