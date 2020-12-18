@@ -23,7 +23,7 @@ Vérifiez la configuration Push pour vous assurer que tout est bien synchronisé
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Sélectionnez Applications **** mobiles.
+1. Sélectionnez **Applications mobiles**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -37,7 +37,7 @@ Vérifiez la configuration Push pour vous assurer que tout est bien synchronisé
 
    Vérifiez que les plateformes de votre choix ont été lues et vérifiées, puis cliquez sur FERMER.
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   Tout est prêt ! Vous pouvez désormais début envoyer des notifications Push ![(sourire)](assets/smile.svg)
+   ![](assets/image2015-4-22-18-3a52-3a38.png)   Tout est prêt ! Vous pouvez désormais début envoyer des notifications Push ![(smile)](assets/smile.svg)
 
 >[!NOTE]
 >
