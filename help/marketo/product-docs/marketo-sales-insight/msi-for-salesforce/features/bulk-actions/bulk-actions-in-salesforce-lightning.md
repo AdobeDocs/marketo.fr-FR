@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Actions en masse dans l&#39;éclair Salesforce {#bulk-actions-in-salesforce-lightning}
+# Actions en masse dans Salesforce Lightning {#bulk-actions-in-salesforce-lightning}
 
 Voici comment configurer des actions en masse dans Salesforce Lightning.
 
@@ -19,11 +19,11 @@ Voici comment configurer des actions en masse dans Salesforce Lightning.
 
    ![](assets/one.png)
 
-1. Cliquez sur l’onglet Gestionnaire **** d’objets.
+1. Cliquez sur l&#39;onglet **Gestionnaire d&#39;objets**.
 
    ![](assets/two.png)
 
-1. Recherchez et sélectionnez l&#39;étiquette **Piste** .
+1. Recherchez et sélectionnez l&#39;étiquette **Piste**.
 
    ![](assets/three-2.png)
 
@@ -35,7 +35,7 @@ Voici comment configurer des actions en masse dans Salesforce Lightning.
 
    ![](assets/five.png)
 
-1. Sous Boutons personnalisés, recherchez et sélectionnez **Ajouter à Marketo Campaign (éclair)** et **Envoyer un courriel Marketo (éclair)**. Cliquez sur le bouton **Ajouter** .
+1. Sous Boutons personnalisés, recherchez et sélectionnez **Ajouter à Marketo Campaign (lightning)** et **Envoyer un courriel Marketo (lightning)**. Cliquez sur le bouton **Ajouter**.
 
    ![](assets/six.png)
 
