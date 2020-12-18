@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >L&#39;engagement commercial a récemment été renommé Marketo Sales Connect. Nous sommes en train de mettre à jour toutes les vidéos, mais certaines peuvent encore montrer l&#39;ancien nom.
 
-## Activation des statistiques marketing {#enabling-marketing-insights}
+## Activation de Marketing Insights {#enabling-marketing-insights}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
