@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation des contributions d’Analyses de performances {#performance-insights-contribution-overview}
+# Aperçu des contributions d’Analyses de performances {#performance-insights-contribution-overview}
 
 Dans Analyses de performances du marketing, la vue de contributions s’affiche par défaut.
 
@@ -23,7 +23,7 @@ Sélectionnez la mesure de vue des performances. Dans cet exemple, nous allons e
 
 >[!NOTE]
 >
->Apprenez-en plus sur les [Première touche et les Touches](http://docs.marketo.com/display/DOCS/Understanding+Attribution)multiples.
+>Découvrez [Première touche et Touche multiple](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Choisissez la période pour laquelle vous souhaitez afficher les mesures. Dans cet exemple, nous examinons l’année en cours (année à jour).   ![](assets/3-1.png)
 
@@ -43,7 +43,7 @@ Le graphique à barres affiche les performances des programmes sur tous les cana
 
 >[!TIP]
 >
->Si vous souhaitez que les barres du graphique s&#39;agrandissent au fur et à mesure que vous faites défiler les groupes, cochez la case **Ajuster** l&#39;axe Y.
+>Si vous souhaitez que les barres du graphique s’agrandissent au fur et à mesure que vous faites défiler les groupes, cochez la case **Ajuster l’axe Y à**.
 
 Placez le pointeur de la souris sur une barre pour afficher d’autres détails.   ![](assets/seven.png)
 
