@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Rendre un champ de formulaire obligatoire {#make-a-form-field-required}
+# Rendre le champ de formulaire obligatoire {#make-a-form-field-required}
 
-Lors de l’ [ajout de champs à un formulaire](add-a-field-to-a-form.md) , vous souhaiterez peut-être en rendre certains obligatoires pour la personne qui les remplit. Voici comment.
+Lorsque [vous ajoutez des champs à un formulaire](add-a-field-to-a-form.md), vous souhaitez peut-être en faire certains requis pour la personne qui les remplit. Voici comment.
 
 1. Accédez à **Marketing** **Activités**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/editform-2.png)
 
@@ -39,6 +39,6 @@ Lors de l’ [ajout de champs à un formulaire](add-a-field-to-a-form.md) , vous
 >
 >**Rappel**
 >
->N&#39;oubliez pas d&#39; [approuver tous les landings page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) sur lesquels ce formulaire se trouve pour que les modifications soient mises en oeuvre.
+>N&#39;oubliez pas [d&#39;approuver tous les landings page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) ce formulaire est activé pour que les modifications soient mises en oeuvre.
 
-Devez-vous [réorganiser les champs que vous avez ajoutés à votre formulaire](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+Devez-vous [réorganiser les champs que vous avez ajoutés à votre formulaire](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md) ?
