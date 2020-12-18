@@ -27,7 +27,7 @@ Les extraits de code sont de petits fragments de code HTML qui peuvent suivre le
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. Dans l’éditeur de landings page, faites glisser le curseur sur l’élément **Extrait de code** .
+1. Dans l’éditeur de landing page, faites glisser l’élément **Extrait de code**.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
