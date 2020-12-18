@@ -17,7 +17,7 @@ Lorsque vous créez une offre de référence ou un tirage, vous pouvez envoyer u
 
 ## Télécharger les codes promotionnels {#upload-promo-codes}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -25,11 +25,11 @@ Lorsque vous créez une offre de référence ou un tirage, vous pouvez envoyer u
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. Dans l’éditeur d’offres de référence, accédez aux Paramètres **de l’** application, puis aux Détails de l’ **Offre.**
+1. Dans l’éditeur d’offres de référence, accédez à **Paramètres de l’application**, puis **Détails de l’Offre.**
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
-1. Sous Courriers électroniques, sélectionnez **Utiliser des codes promotionnels** et sous Télécharger des codes, cliquez sur **Parcourir** pour sélectionner le fichier de codes promotionnels dans votre système.
+1. Sous Courriers électroniques, sélectionnez **Utiliser les codes promotionnels** et sous Codes de téléchargement, cliquez sur **Parcourir** pour sélectionner le fichier de codes promotionnels dans votre système.
 
    ![](assets/image2015-4-22-12-3a52-3a43.png)
 
@@ -52,16 +52,16 @@ Une fois que les participants ont début de recevoir votre récompense d&#39;off
 
 >[!NOTE]
 >
->Seuls les utilisateurs de Marketo disposant de l&#39;autorisation *Access Awards* ont accès à ces informations. Voir [Gestion des rôles utilisateur et des autorisations](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Seuls les utilisateurs du marketing disposant de l&#39;autorisation *Access Awards* ont accès à ces informations. Voir [Gestion des rôles et des autorisations des utilisateurs](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez votre offre de référence ou votre tirage, puis cliquez sur l’onglet **Participants** .
+1. Sélectionnez votre offre de référence ou votre tirage, puis cliquez sur l&#39;onglet **Participants**.
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. Vous devriez voir ici quelques entrées. Cliquez sur le numéro de la colonne Codes **de** promotion pour afficher les codes de promotion qui ont été envoyés à ce participant et quand.
+1. Vous devriez voir ici quelques entrées. Cliquez sur le numéro de la colonne **Codes promotionnels** pour afficher les codes promotionnels qui ont été envoyés à ce participant et quand.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)
