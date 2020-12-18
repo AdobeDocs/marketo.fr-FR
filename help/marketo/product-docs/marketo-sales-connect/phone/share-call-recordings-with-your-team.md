@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Sales Phone vous permet d&#39;enregistrer et d&#39;enregistrer vos enregistrements d&#39;appels. Si vous souhaitez partager un enregistrement d’appel avec un autre membre de votre équipe, vous pouvez copier le lien à deux endroits.
 
-## Copier le lien d’enregistrement à partir des détails de la personne dans l’Application web {#copy-recording-link-from-the-person-details-in-the-web-application}
+## Copier le lien d&#39;enregistrement à partir des détails de la personne dans l&#39;Application web {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. Accédez à l’application [](http://toutapp.com/login)Web.
+1. Accédez à l&#39;[application Web](http://toutapp.com/login).
 1. Ouvrez les détails de la personne.
 1. Recherchez l&#39;Activité d&#39;appel sous la liste d&#39;activité.
 1. Cliquez avec le bouton droit sur l&#39;enregistrement de l&#39;appel et copiez l&#39;URL du lien.
