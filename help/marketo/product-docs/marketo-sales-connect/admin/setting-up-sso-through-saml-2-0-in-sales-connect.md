@@ -19,9 +19,9 @@ Nous prenons en charge l’authentification unique par le biais de la spécifica
 >
 >**Rappel**
 >
->Ceci s&#39;applique uniquement aux clients **Marketing Connect** . Si vous ne disposez pas de Sales Connect mais souhaitez en savoir plus, contactez votre responsable de succès client.
+>Ceci s&#39;applique uniquement aux clients **Marketing Sales Connect**. Si vous ne disposez pas de Sales Connect mais souhaitez en savoir plus, contactez votre responsable de succès client.
 
-## Conditions requises {#requirements}
+## Exigences {#requirements}
 
 * compte SSO
 * Abonnement de connexion commerciale
@@ -31,8 +31,8 @@ Nous prenons en charge l’authentification unique par le biais de la spécifica
 
 Le fichier metadata.xml de l’instance SSO de votre équipe doit contenir l’URL de l’émetteur, le point de terminaison de la validation et une clé publique.
 
-Nous aurons également besoin de l’emplacement d’authentification unique pour que votre compte d’authentification unique de société soit un domaine unique. Par exemple, nous aimons `require a unique subdomain` toutapp.pingidentity.com ou tout autre élément similaire. Sans ce type d&#39;identifiant unique, nous ne pourrons pas configurer SAML à partir du tableau de bord.
+Nous aurons également besoin de l’emplacement d’authentification unique pour que votre compte d’authentification unique de société soit un domaine unique. Par exemple, nous aimons `require a unique subdomain` &quot;toutapp.pingidentity.com&quot; ou tout autre élément similaire. Sans ce type d&#39;identifiant unique, nous ne pourrons pas configurer SAML à partir du tableau de bord.
 
-One Login et Okta ne fournissent pas toujours des identifiants uniques lors de l’attribution d’une URL. Si vous utilisez Okta ou One Login, cela signifie que nous ne pourrons pas configurer une connexion à partir du bouton tableau de bord. Nous pourrons toujours le configurer à partir du bouton Connexion unique sur l’application [](http://toutapp.com/login)Web.
+One Login et Okta ne fournissent pas toujours des identifiants uniques lors de l’attribution d’une URL. Si vous utilisez Okta ou One Login, cela signifie que nous ne pourrons pas configurer une connexion à partir du bouton tableau de bord. Nous serons toujours en mesure de le configurer à partir du bouton Connexion unique sur l&#39;application [Web ](http://toutapp.com/login).
 
 Une fois que nous aurons ces informations, nous travaillerons avec notre équipe d&#39;ingénieurs pour les mettre en place pour votre abonnement.
