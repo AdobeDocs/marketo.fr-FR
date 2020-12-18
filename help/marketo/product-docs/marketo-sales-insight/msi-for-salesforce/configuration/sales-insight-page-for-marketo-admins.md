@@ -5,7 +5,7 @@ title: Page d'informations commerciales pour les administrateurs du marketing
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Les administrateurs du marketing disposent de certains privilèges dans Sales Insight. Apprenez ce qu&#39;ils sont ci-dessous.
 
-## Configuration de l’API Soap {#soap-api-configuration}
+## Configuration de l&#39;API Soap {#soap-api-configuration}
 
 Ces informations d’identification sont utilisées pour connecter votre compte Salesforce à votre instance Marketo afin d’utiliser MSI dans Salesforce.
 
 ![](assets/one-1.png)
 
-## Configuration de l’API REST {#rest-api-configuration}
+## Configuration de l&#39;API REST {#rest-api-configuration}
 
 Ces informations d’identification sont utilisées pour connecter votre compte Salesforce à votre instance Marketo, afin d’utiliser le Tableau de bord MSI Insights dans Salesforce.
 
@@ -61,7 +61,7 @@ Par défaut, le module Marketing Sales Insight utilise le champ Score de piste p
 
    >[!TIP]
    >
-   >Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment les [créer](http://docs.marketo.com/x/3wMk).
+   >Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment [les créer](http://docs.marketo.com/x/3wMk).
 
    >[!NOTE]
    >
