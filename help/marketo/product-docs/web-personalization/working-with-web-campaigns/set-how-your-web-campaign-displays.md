@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Définir comment s&#39;affiche votre Campaign Web {#set-how-your-web-campaign-displays}
+# Définir l&#39;affichage de votre Campaign Web {#set-how-your-web-campaign-displays}
 
 Il existe plusieurs méthodes à utiliser pour déterminer quand s’affiche votre campagne Web.
 
@@ -25,7 +25,7 @@ Sélectionné par défaut, ce choix affiche simplement la campagne au chargement
 
 Indiquez une temporisation (en secondes au total) de réaction des campagnes Web sur votre site Web.
 
-1. Cliquez sur la liste **déroulante Afficher sur** et sélectionnez **Retard**.
+1. Cliquez sur la liste déroulante **Afficher le** et sélectionnez **Délai**.
 
    ![](assets/d1.png)
 
@@ -35,11 +35,11 @@ Indiquez une temporisation (en secondes au total) de réaction des campagnes Web
 
 ## Défilement {#scroll}
 
-1. Cliquez sur la liste **déroulante Afficher** et sélectionnez **Défilement**.
+1. Cliquez sur la liste déroulante **Afficher sur** et sélectionnez **Défilement**.
 
    ![](assets/s1.png)
 
-1. Cliquez sur la liste déroulante **Quand** et sélectionnez le moment où votre campagne Web doit s’afficher.
+1. Cliquez sur la liste déroulante **Quand** et sélectionnez quand afficher votre campagne Web.
 
    ![](assets/s2.png)
 
@@ -64,7 +64,7 @@ Indiquez une temporisation (en secondes au total) de réaction des campagnes Web
 
 Le mode de sortie affiche la campagne Web lorsque le curseur de la souris quitte le navigateur.
 
-1. Cliquez sur la liste **déroulante Afficher** et sélectionnez Mode **de** sortie.
+1. Cliquez sur la liste déroulante **Afficher le** et sélectionnez **Mode de sortie**.
 
    ![](assets/ei1.png)
 
@@ -74,5 +74,5 @@ Le mode de sortie affiche la campagne Web lorsque le curseur de la souris quitte
 
 >[!TIP]
 >
->Vous voulez voir comment vos effets choisis se présenteront à l&#39;avance ? Regardez-les via une Prévisualisation [](preview-and-test-a-web-campaign.md)Web Campaign.
+>Vous voulez voir comment vos effets choisis se présenteront à l&#39;avance ? Consultez-les via une [Prévisualisation Web Campaign](preview-and-test-a-web-campaign.md).
 
