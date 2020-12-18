@@ -23,7 +23,7 @@ Une Lightbox est une technique qui permet d’ouvrir un formulaire devant votre 
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Sous **Actions** de formulaire **, cliquez sur** Intégrer **** **le code.**
+1. Sous **Formulaire** **Actions**, cliquez sur **Incorporer** **Code**.
 
    >[!NOTE]
    >
