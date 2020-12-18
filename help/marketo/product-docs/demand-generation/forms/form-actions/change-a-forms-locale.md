@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modification des paramètres régionaux d’un formulaire {#change-a-forms-locale}
+# Modifier le paramètre régional d’un formulaire {#change-a-forms-locale}
 
 Lorsque vous traitez de formulaires internationaux, vous souhaitez afficher les dates/heures dans les formats appropriés. Marketo le fera automatiquement pour vous, tout ce que vous avez à faire est de définir les paramètres régionaux du formulaire et nous nous occupons du reste.
 
@@ -19,15 +19,15 @@ Lorsque vous traitez de formulaires internationaux, vous souhaitez afficher les 
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Sous **Paramètres** **du formulaire**, cliquez sur **Paramètres**.
+1. Sous **Formulaire** **Paramètres**, cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Sélectionnez le **paramètre régional** de votre choix.
+1. Sélectionnez la **langue** de votre choix.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
@@ -48,7 +48,7 @@ Lorsque vous traitez de formulaires internationaux, vous souhaitez afficher les 
    >**Rappel**
    >
    >
-   >Pensez à [approuver le brouillon](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de landing page créé par les modifications apportées au formulaire.
+   >N&#39;oubliez pas d&#39;[approuver le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
 1. 
 1. C&#39;est ça ! Les utilisateurs peuvent voir la date et l’heure affichées dans les paramètres régionaux appropriés.
