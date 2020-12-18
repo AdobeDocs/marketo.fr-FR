@@ -17,18 +17,18 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Par défaut, le module Marketing Sales Insight utilise le champ **Lead Score** pour calculer les étoiles et les flammes. Mais si vous voulez choisir un autre champ, voici comment :
+Par défaut, Marketing Sales Insight utilise le champ **Score de piste** pour calculer les étoiles et les flammes. Mais si vous voulez choisir un autre champ, voici comment :
 
 >[!TIP]
 >
->Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment les [](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)créer.
+>Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment les [créer](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!NOTE]
 >
 >**Définition**
 >
 >* **Stars : **Les étoiles représentent le score de piste total comparé aux autres pistes.
->* **Flammes**: Les flammes représentent l&#39;urgence - à quel point le score d&#39;un prospect a changé récemment.
+>* **Flammes** : Les flammes représentent l&#39;urgence - à quel point le score d&#39;un prospect a changé récemment.
 
 >
 
@@ -38,7 +38,7 @@ Par défaut, le module Marketing Sales Insight utilise le champ **Lead Score** p
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Sous Paramètres **de score de** piste, cliquez sur **Modifier**.
+1. Sous **Paramètres de score de piste**, cliquez sur **Modifier**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
