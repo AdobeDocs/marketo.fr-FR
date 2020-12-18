@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez parfois faire glisser un champ incorrect dans le rapport. Voici comment le supprimer :
 
-1. Faites glisser le champ à supprimer vers l&#39;icône de **corbeille** située dans l&#39;angle inférieur droit du rapport.
+1. Faites glisser le champ à supprimer vers l&#39;icône **corbeille** située dans la partie inférieure droite du rapport.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
