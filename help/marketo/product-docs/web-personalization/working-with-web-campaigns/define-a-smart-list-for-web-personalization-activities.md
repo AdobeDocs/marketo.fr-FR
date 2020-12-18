@@ -17,7 +17,7 @@ Vous pouvez utiliser des activités de personnalisation Web dans des filtres et 
 
 Utilisez un déclencheur pour envoyer un message électronique ou une alerte, ou pour modifier une valeur ou un score en fonction des visiteurs qui ont cliqué sur un appel à l’action Personnalisation Web et qui l’ont engagé. Vous pouvez également filtrer et vue les pistes qui ont cliqué sur un appel à l&#39;action Personnalisation Web.
 
-1. Dans votre campagne dynamique, cliquez sur l’onglet Liste **** intelligente.
+1. Dans votre campagne dynamique, cliquez sur l’onglet **Liste dynamique**.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
