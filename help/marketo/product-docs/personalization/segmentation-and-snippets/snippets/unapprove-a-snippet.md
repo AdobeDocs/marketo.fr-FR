@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Un extrait de code non approuvé ne peut pas être utilisé dans des courriers électroniques ou des landings page.
 
-1. Rendez-vous au **Design Studio.**
+1. Accédez à **Design Studio.**
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Accédez à votre extrait de code et assurez-vous qu’il n’est pas **utilisé par** les ressources.
+1. Accédez à votre extrait de code et assurez-vous qu’il n’est pas **utilisé par** des ressources.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
    Si votre extrait de code est utilisé par d’autres ressources, supprimez ces associations avant de continuer.
 
-1. Dans Actions **** d&#39;extrait de code, cliquez sur **Désapprouver**.
+1. Dans **Snippet Actions**, cliquez sur **Désapprouver**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
