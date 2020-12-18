@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Approbation d’un extrait de code {#approve-a-snippet}
+# Approuver un extrait de code {#approve-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Un extrait de code doit être approuvé avant son utilisation.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Cliquez sur votre **extrait de code** puis sous **Actions** de fragment de code, cliquez sur **Approuver**.
+1. Cliquez sur votre **extrait de code** puis sous **Actions de fragment** cliquez sur **Approuver**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
