@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Configuration d’un message électronique et d’une invite de partage à nouveau pour une application Social {#configure-re-share-email-and-prompt-for-a-social-app}
+# Configuration du message électronique et de l’invite de partage à nouveau pour une application Social {#configure-re-share-email-and-prompt-for-a-social-app}
 
-Lorsque vous créez une offre [de](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) référence ou un [tirage](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez inviter les participants à partager votre offre avec d’autres amis dans le cadre du processus d’inscription et fournir le texte par défaut du message de partage.
+Lorsque vous créez une [offre de référence](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou un tirage [vous pouvez inviter les participants à partager votre offre avec d’autres amis dans le cadre du processus d’inscription et fournir le texte par défaut du message de partage.](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
 
 >[!NOTE]
 >
->Dans une offre de référence, vous pouvez également [faire du partage de l’offre une exigence](../../../../product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) pour vous inscrire.
+>Dans une offre de référence, vous pouvez également [faire du partage de l&#39;offre une exigence](../../../../product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) pour vous inscrire.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,7 +27,7 @@ Lorsque vous créez une offre [de](../../../../product-docs/demand-generation/so
 
    ![](assets/image2014-9-22-11-3a6-3a56.png)
 
-1. Dans l’éditeur d’offres de référence, accédez à Flux **d’** inscription > **Invite de repartage.**
+1. Dans l’éditeur d’offres de référence, accédez à **Flux d’inscription** > **Invite de réaffectation.**
 
    ![](assets/image2014-9-22-11-3a7-3a9.png)
 
@@ -37,11 +37,11 @@ Lorsque vous créez une offre [de](../../../../product-docs/demand-generation/so
    >
    >Le courrier électronique inclut automatiquement l’URL de partage unique de votre participant.
 
-1. Dans la fenêtre **Vue** et **modification** , cliquez sur **Afficher les modifications** et modifiez l’invitation à partager ainsi que les instructions de suivi de l’avancement.
+1. Dans la fenêtre **Vue** &amp; **Modifier**, cliquez sur **Afficher les modifications** et modifiez l&#39;invitation à partager ainsi que les instructions de suivi de l&#39;avancement.
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
 >[!MORELIKETHIS]
 >
->Vous pouvez ensuite configurer le flux de progression du [suivi dans une offre](configure-track-progress-flow-for-a-referral-offer.md)de référence ou cliquer sur **Terminer > Approuver et fermer** pour [publier votre offre](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) de référence ou votre [tirage.](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
+>Vous pouvez ensuite configurer le [suivi de l&#39;avancement dans une offre de référence](configure-track-progress-flow-for-a-referral-offer.md), ou cliquer sur **Terminer > Approuver et fermer** pour [publier votre offre de référence](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) ou [tirage](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
 
