@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Filtrage d’un rapport d’Activité Campaign {#filter-a-campaign-activity-report}
 
-Concentrez votre [rapport](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)Campaign Activité sur des campagnes [](http://docs.marketo.com/display/docs/smart+campaigns)intelligentes spécifiques.
+Concentrez votre [rapport d’Activité Campaign](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)sur des [campagnes dynamiques spécifiques](http://docs.marketo.com/display/docs/smart+campaigns).
 
-1. Accédez à Activités **** marketing (ou **Analytics**) et sélectionnez votre rapport d’activité de campagne.
+1. Accédez à **Activités marketing** (ou **Analytics**) et sélectionnez votre rapport d’activité de campagne.
 
    ![](assets/image2014-9-16-16-3a13-3a56.png)
 
-1. Cliquez sur l’onglet **Configuration** , puis sur **Campagnes en appuyant sur le doublon.**
+1. Cliquez sur l&#39;onglet **Configuration** et doublon-clic **Campagnes.**
 
    ![](assets/image2014-9-16-16-3a14-3a1.png)
 
@@ -31,7 +31,7 @@ Concentrez votre [rapport](../../../../product-docs/reporting/basic-reporting/re
    >
    >Si vous sélectionnez un dossier, votre rapport inclura tout ce qu&#39;il contient au moment de son exécution.
 
-1. Vous avez fini ! Cliquez sur l&#39;onglet **Rapport** pour afficher *uniquement* les campagnes dynamiques sélectionnées dans votre rapport.
+1. Vous avez fini ! Cliquez sur l&#39;onglet **Rapport** pour afficher *juste* les campagnes dynamiques sélectionnées dans votre rapport.
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
@@ -47,5 +47,5 @@ Concentrez votre [rapport](../../../../product-docs/reporting/basic-reporting/re
 >
 >**Plongée profonde**
 >
->En savoir plus sur les rapports dans le Rapports [de](http://docs.marketo.com/display/docs/basic+reporting)base.
+>Découvrez tous les rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
