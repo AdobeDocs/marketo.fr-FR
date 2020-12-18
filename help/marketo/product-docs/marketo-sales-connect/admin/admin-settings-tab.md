@@ -15,9 +15,9 @@ ht-degree: 0%
 
 L&#39;onglet Paramètres d&#39;administration permet à l&#39;administrateur de n&#39;importe quel compte d&#39;afficher les paramètres de son équipe (en ce qui concerne les limites du plan), ainsi que de contrôler en masse la manière dont les courriels de son équipe sont consignés dans Salesforce.
 
-Si vous cochez la case **Remplacer tous les paramètres de synchronisation Salesforce pour mon équipe** , vous verrez l&#39;option permettant soit d&#39;autoriser uniquement la journalisation via BCC, soit uniquement via API.
+Si vous cochez la case **Remplacer tous les paramètres de synchronisation Salesforce pour mon équipe**, vous verrez l&#39;option permettant soit d&#39;autoriser uniquement la journalisation via BCC, soit uniquement via l&#39;API.
 
-Si vous choisissez la journalisation **des** API, tous les paramètres sélectionnés pour Opportunités, Pistes, Contacts `will be set for the entire team after you click **Save Changes**.`
+Si vous choisissez **journalisation de l&#39;API**, tous les paramètres sélectionnés pour Opportunités, Pistes, Contacts `will be set for the entire team after you click **Save Changes**.`
 
 De là, vous pourrez également activer en masse les opportunités et la synchronisation des Tâches dans toute l&#39;équipe.
 
