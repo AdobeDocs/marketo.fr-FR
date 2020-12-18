@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Modification d’un Canal de Événement {#edit-an-event-channel}
+# Modifier un Canal de Événement {#edit-an-event-channel}
 
-Vous pouvez modifier le type de canal à partir de l’onglet **Résumé** du événement ou de son onglet **Configuration** .
+Vous pouvez modifier le type de canal à partir de l&#39;onglet **Résumé** du événement ou de son onglet **Configuration**.
 
 >[!NOTE]
 >
@@ -25,15 +25,15 @@ Vous pouvez modifier le type de canal à partir de l’onglet **Résumé** du é
 
 ## Dans l’onglet Résumé {#from-the-summary-tab}
 
-1. Dans Activités **** marketing, sélectionnez votre événement dans l’arborescence.
+1. Dans **Activités marketing**, sélectionnez votre événement dans l&#39;arborescence.
 
    ![](assets/eventprogramseelct.png)
 
-1. Accédez à la vue de **résumé** .
+1. Accédez à la vue **Résumé**.
 
    ![](assets/eventprogramsummary.png)
 
-1. Sous la catégorie **Paramètres** , sélectionnez le **Canal** actif affiché sous forme d’hyperlien.
+1. Sous la catégorie **Paramètres**, sélectionnez le **Canal actuel** affiché comme hyperlien.
 
    ![](assets/channeltypeevent.png)
 
@@ -53,7 +53,7 @@ Un nouveau type de canal peut également être affecté à partir de l’onglet 
 
    ![](assets/eventprogramseelct.png)
 
-1. Accédez à l&#39;onglet **Configuration** . Doublon-clic sur le **Canal** actif.
+1. Accédez à l&#39;onglet **Configuration**. Doublon-cliquez sur le **Canal actuel**.
 
    ![](assets/setuptabchangechannel.png)
 
