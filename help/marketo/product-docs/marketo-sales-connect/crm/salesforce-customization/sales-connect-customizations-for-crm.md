@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personnalisations de Sales Connect pour CRM {#sales-connect-customizations-for-crm}
 
-Les champs et les boutons ci-dessous sont créés par l’API de métadonnées dans Salesforce CRM. Une fois les champs créés, les administrateurs doivent configurer les mises en page dans leur gestion de la relation client pour les exposer. Les instructions sont disponibles [ici](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
+Les champs et les boutons ci-dessous sont créés par l’API de métadonnées dans Salesforce CRM. Une fois les champs créés, les administrateurs doivent configurer les mises en page dans leur gestion de la relation client pour les exposer. Vous trouverez les instructions [ici](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Les champs et les boutons ci-dessous sont créés par l’API de métadonnées d
 
    ![](assets/two.png)
 
-1. Cliquez sur **Marketo Sales Connect Customizations (Personnalisations** de la connexion commerciale).
+1. Cliquez sur **Personnalisations de Marketing Connect**.
 
    ![](assets/three.png)
 
@@ -41,9 +41,9 @@ Les champs et les boutons ci-dessous sont créés par l’API de métadonnées d
 
    ![](assets/five.png)
 
-## Champs d’Activité personnalisés {#custom-activity-fields}
+## Champs d&#39;Activité personnalisés {#custom-activity-fields}
 
-Marketo détecte la création des nouveaux champs, puis effectue un renvoi unique des données, un remappage et une synchronisation continue des valeurs dans les **nouveaux** champs uniquement. Les anciens champs ne seront pas mis à jour.
+Marketo détecte la création des nouveaux champs, puis effectue un renvoi unique des données, un remappage et une synchronisation continue des valeurs dans les champs **new** uniquement. Les anciens champs ne seront pas mis à jour.
 
 | **Nom du champ** | **Description** |
 |---|---|
@@ -125,14 +125,14 @@ Marketo détecte la création des nouveaux champs, puis effectue un renvoi uniqu
 | Pousser vers MSE | Poussez le contact de Salesforce vers MSE. |
 | Appel avec MSE | Effectuez des appels de vente à partir de Salesforce. |
 
-## Boutons d’action en bloc {#bulk-action-buttons}
+## Boutons d&#39;action en bloc {#bulk-action-buttons}
 
 | **Nom du bouton** | **Description** |
 |---|---|
 | Ajouter à MSE Campaign | Ajoutez aux campagnes MSE de Salesforce. |
 | Pousser vers MSE | Poussez le contact de Salesforce vers MSE. |
 
-## Guides de l’utilisateur {#user-guides}
+## Guides de l&#39;utilisateur {#user-guides}
 
 [Rapports personnalisés MSE dans Salesforce](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
@@ -142,5 +142,6 @@ Marketo détecte la création des nouveaux champs, puis effectue un renvoi uniqu
 
 ## Vidéos connexes {#related-videos}
 
-**Comment installer des personnalisations dans Salesforce**`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** Avantages de l&#39;utilisation des personnalisations dans Salesforce**
+**Comment installer des personnalisations dans Salesforce**
+`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** Avantages de l&#39;utilisation de personnalisations dans Salesforce** 
 `<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
