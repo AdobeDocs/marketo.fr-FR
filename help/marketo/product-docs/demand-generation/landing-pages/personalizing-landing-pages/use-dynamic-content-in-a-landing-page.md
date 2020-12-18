@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation du contenu dynamique dans un Landing page {#use-dynamic-content-in-a-landing-page}
+# Utiliser le contenu dynamique dans un Landing page {#use-dynamic-content-in-a-landing-page}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ L&#39;utilisation de contenu dynamique dans les landings page permet d&#39;impli
 
 ## Segmentation des Ajoutes {#add-segmentation}
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -57,7 +57,7 @@ L&#39;utilisation de contenu dynamique dans les landings page permet d&#39;impli
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. Vous pouvez également créer des éléments statiques ou dynamiques à partir des **Paramètres** de l’élément.
+1. Vous pouvez également créer des éléments statiques ou dynamiques à partir de l’élément **Paramètres**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
