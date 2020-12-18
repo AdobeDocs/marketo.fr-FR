@@ -61,11 +61,11 @@ Non, les formulaires que nous avons supprimés de cette fonctionnalité sont tou
 
 Non, nous ne supprimerons que le bouton LinkedIn de votre formulaire. Chaque fois que le remplissage d’un formulaire Social est appliqué à un formulaire, un conteneur créé au-dessus de celui-ci contient les boutons Remplir le formulaire Social. Avant le 28 avril 2016, si LinkedIn était la seule option, l&#39;apparence du conteneur ressemblait à cette image :
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Après le 28 avril 2016, il reste désormais un conteneur vide en haut d’un formulaire pour lequel le remplissage de formulaires LinkedIn Social a été supprimé :
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >
