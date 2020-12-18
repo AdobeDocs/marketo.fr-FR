@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Présentation des Ajoutes .NET {#net-add-in-overview}
+# Aperçu de l&#39;Ajoute .NET {#net-add-in-overview}
 
 >[!NOTE]
 >
->C&#39;est notre ancien complément. Si vous l&#39;avez déjà installé, il continuera à fonctionner jusqu&#39;en 2020. Si vous êtes un nouvel utilisateur, veuillez installer notre nouveau complément [](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)Office 365.
+>C&#39;est notre ancien complément. Si vous l&#39;avez déjà installé, il continuera à fonctionner jusqu&#39;en 2020. Si vous êtes un nouvel utilisateur, veuillez installer notre nouveau [complément Office 365](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-## Ajout d’un élément de contenu {#attaching-a-piece-of-content}
+## Ajout d&#39;une partie de contenu {#attaching-a-piece-of-content}
 
 Ajoutez le contenu pouvant faire l’objet d’un suivi en cliquant sur le bouton **Contenu** et en téléchargeant un fichier.
 
@@ -25,16 +25,16 @@ Tout contenu précédemment téléchargé s’affiche pour que vous puissiez le 
 
 ## Fonctionnalité du calendrier {#calendar-functionality}
 
-Faites savoir à vos destinataires quand vous êtes disponible en appuyant sur le bouton **Calendrier** .
+Faites savoir à vos destinataires quand vous êtes disponible en appuyant sur le bouton **Calendrier**.
 
 Ceci extrait votre calendrier Outlook et vous permet d&#39;ajouter des dates et heures spécifiques que vous êtes libre et d&#39;ajouter les informations à votre courriel.
 
-## Extraction d’un modèle {#pulling-in-a-template}
+## Extraction dans un modèle {#pulling-in-a-template}
 
-Extrayez un modèle Tout préfabriqué vers le message Outlook en appuyant sur le bouton **Modèles** .
+Extrayez un modèle Tout prédéfini dans le message Outlook en appuyant sur le bouton **Modèles**.
 
-Nous faisons `sync with all of your personal templates and any shared templates` partie de l&#39;équipe. Nous insérons automatiquement le dernier modèle utilisé et le modèle le plus souvent utilisé pour un accès facile.
+Nous `sync with all of your personal templates and any shared templates` faisons partie de l&#39;équipe. Nous insérons automatiquement le dernier modèle utilisé et le modèle le plus souvent utilisé pour un accès facile.
 
-## Le bouton Tout It {#the-tout-it-button}
+## Bouton Tout It {#the-tout-it-button}
 
-Une fois que votre courriel personnalisé est rempli et prêt à l&#39;emploi, assurez-vous d&#39;appuyer sur le bouton **Tout It** pour obtenir le suivi. Une boîte s’affiche avec la mention &quot;accrochez-vous, nous ajoutons la magie du suivi&quot;.
+Une fois que votre e-mail personnalisé est rempli et prêt à l&#39;emploi, veillez à toujours cliquer sur le bouton **Tout It** pour obtenir le suivi. Une boîte s’affiche avec la mention &quot;accrochez-vous, nous ajoutons la magie du suivi&quot;.
