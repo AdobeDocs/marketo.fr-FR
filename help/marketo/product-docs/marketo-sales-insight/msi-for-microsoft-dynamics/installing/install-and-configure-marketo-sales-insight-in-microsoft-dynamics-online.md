@@ -17,15 +17,15 @@ Marketing Sales Insight est un outil fantastique qui permet à votre équipe com
 
 >[!PREREQUISITES]
 >
->Effectuez votre intégration [](http://docs.marketo.com/x/E4A2)Marketo-Microsoft.
+>Effectuez votre [intégration Marketo-Microsoft](http://docs.marketo.com/x/E4A2).
 >
->[Téléchargez la solution](http://docs.marketo.com/x/LoJo) appropriée pour votre version de Microsoft Dynamics CRM.
+>[Téléchargez la bonne ](http://docs.marketo.com/x/LoJo) solution pour votre version de Microsoft Dynamics CRM.
 
 ## Importer la solution {#import-solution}
 
 >[!NOTE]
 >
->Si vous utilisez l’interface unifiée, avant l’étape 1 ci-dessous, cliquez sur l’icône Paramètres dans le coin supérieur droit et sélectionnez Paramètres **** avancés.
+>Si vous utilisez l’interface unifiée, avant l’étape 1 ci-dessous, cliquez sur l’icône Paramètres dans le coin supérieur droit et sélectionnez **Paramètres avancés**.
 
 1. Sous Microsoft Dynamics CRM, cliquez sur **Paramètres**.
 
@@ -63,7 +63,7 @@ Marketing Sales Insight est un outil fantastique qui permet à votre équipe com
 
    ![](assets/image2014-12-12-9-3a6-3a10-1.png)
 
-1. Assurez-vous de laisser la case cochée et cliquez sur **Importer**.
+1. Veillez à laisser la case cochée et à cliquer sur **Importer**.
 
    ![](assets/image2014-12-12-9-3a6-3a19-1.png)
 
@@ -75,13 +75,13 @@ Marketing Sales Insight est un outil fantastique qui permet à votre équipe com
 
    ![](assets/eleven.png)
 
-1. Cliquez sur **Publier la personnalisation**.
+1. Cliquez sur **Personnalisation de la publication**.
 
    >[!NOTE]
    >
    >Veillez à activer la synchronisation MS Dynamics globale.
 
-## Connexion à Marketing et à Sales Insight {#connect-marketo-and-sales-insight}
+## Connecter Marketing et Sales Insight {#connect-marketo-and-sales-insight}
 
 Lions votre instance Marketo à Sales Insight in Dynamics. Voici comment :
 
@@ -93,11 +93,11 @@ Lions votre instance Marketo à Sales Insight in Dynamics. Voici comment :
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
-1. Sous la section Sales Insight, cliquez sur **Modifier la configuration** de l&#39;API.
+1. Sous la section Sales Insight, cliquez sur **Modifier la configuration de l&#39;API**.
 
    ![](assets/image2014-12-12-9-3a7-3a0-1.png)
 
-1. Copiez l’hôte **** marketing, l’URL **** API et l’ID **d’utilisateur** API pour l’utiliser ultérieurement. Saisissez une clé secrète API de votre choix et cliquez sur **Enregistrer**.
+1. Copiez l’**hôte marketing**, l’**URL de l’API** et l’**ID utilisateur de l’API** pour l’utiliser ultérieurement. Saisissez une clé secrète d&#39;API de votre choix et cliquez sur **Enregistrer**.
 
    >[!CAUTION]
    >
@@ -107,7 +107,7 @@ Lions votre instance Marketo à Sales Insight in Dynamics. Voici comment :
 
    >[!NOTE]
    >
-   >Les champs suivants doivent être synchronisés avec Marketo pour que le prospect et le contact *pour que Sales Insight fonctionnent* à la fois :
+   >Pour que Sales Insight fonctionne, les champs suivants doivent être synchronisés avec Marketo pour *à la fois prospect et contact* :
    >
    >    
    >    
@@ -123,7 +123,7 @@ Lions votre instance Marketo à Sales Insight in Dynamics. Voici comment :
 
    ![](assets/image2014-12-12-9-3a7-3a25-1.png)
 
-1. Sous **Paramètres**, cliquez sur Configuration **de l’API** Marketo.
+1. Sous **Paramètres**, cliquez sur **Configuration de l’API de marketing**.
 
    ![](assets/image2014-12-12-9-3a7-3a34-1.png)
 
@@ -131,13 +131,13 @@ Lions votre instance Marketo à Sales Insight in Dynamics. Voici comment :
 
    ![](assets/image2014-12-12-9-3a8-3a8-1.png)
 
-1. Saisissez les informations que vous avez reçues de Marketo plus tôt et cliquez sur **Enregistrer**.
+1. Saisissez les informations que vous avez précédemment prises de Marketo et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-12-12-9-3a8-3a17-1.png)
 
 ## Activer la synchronisation {#enable-sync}
 
-1. Dans Marketing, cliquez sur **Admin**.
+1. Dans Marketo, cliquez sur **Admin**.
 
    ![](assets/enable-one.png)
 
@@ -153,7 +153,7 @@ Lions votre instance Marketo à Sales Insight in Dynamics. Voici comment :
 
    ![](assets/enable-four.png)
 
-1. Cela permet de sélectionner *automatiquement* les champs MSI précédemment désactivés (Urgence, Score relatif et Priorité). Il vous suffit de cliquer sur **Enregistrer** pour début des données de synchronisation.
+1. *sélectionne automatiquement* les champs MSI précédemment désactivés (Urgence, Score relatif et Priorité). Il vous suffit de cliquer sur **Enregistrer** pour début des données de synchronisation.
 
    ![](assets/enable-five.png)
 
@@ -177,7 +177,7 @@ Enfin, vous devez donner aux utilisateurs spécifiques l&#39;accès à l&#39;uti
 
    ![](assets/image2015-4-29-14-3a59-3a31-1.png)
 
-1. Sélectionnez le rôle Sales Insight du marketing et cliquez sur **OK**.
+1. Sélectionnez le rôle d&#39;aperçu commercial du marketing et cliquez sur **OK**.
 
    ![](assets/image2014-12-12-9-3a9-3a22-1.png)
 
