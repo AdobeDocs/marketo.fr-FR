@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation des flux en direct {#live-feed-overview}
+# Présentation du flux en direct {#live-feed-overview}
 
 Le flux en direct est une fenêtre flottante qui peut être lancée à partir de l’application Web ou du module externe Gmail et offre un aperçu en temps réel de l’engagement de la prospect.
 
@@ -75,28 +75,28 @@ Affichez les meilleures personnes (classées du plus haut au plus bas) classées
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Quelqu'un a affiché votre e-mail</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Un utilisateur a cliqué sur un lien dans votre courrier électronique.</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Quelqu'un a répondu à votre courriel</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td colspan="1">Toute notification répertoriée sous Moments intéressants, y compris Courrier électronique, Web et jalons</td> 
   </tr> 
