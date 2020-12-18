@@ -19,11 +19,11 @@ Par défaut, les rapports Marketo sont limités à un maximum de 5 000 lignes, m
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Sélectionnez votre rapport dans l&#39;arborescence de navigation et cliquez sur l&#39;onglet **Configuration** .
+1. Sélectionnez votre rapport dans l&#39;arborescence de navigation et cliquez sur l&#39;onglet **Configuration**.
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   Doublon-cliquez sur **Exporter lignes disponibles**.
+   Doublon-clic **Exporter lignes disponibles**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -46,7 +46,7 @@ Par défaut, les rapports Marketo sont limités à un maximum de 5 000 lignes, m
    >**Articles connexes**
    >
    >
-   >Vous pouvez maintenant [exporter votre rapport](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) avec la nouvelle limite.
+   >Vous pouvez désormais [exporter votre rapport](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) avec la nouvelle limite.
 
-   Pour plus d&#39;informations sur la configuration de vos rapports, consultez la section [Basic Rapports](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   Découvrez d&#39;autres façons de configurer vos rapports dans l&#39;exploration approfondie [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
