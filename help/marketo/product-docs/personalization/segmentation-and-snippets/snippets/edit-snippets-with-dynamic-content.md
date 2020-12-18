@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modification d’extraits de code avec du contenu dynamique {#edit-snippets-with-dynamic-content}
+# Modifier des extraits de code avec du contenu dynamique {#edit-snippets-with-dynamic-content}
 
 >[!PREREQUISITES]
 >
@@ -26,11 +26,11 @@ Utilisez la segmentation dans les extraits de code pour gérer facilement le con
 
 ## Segmentation des Ajoutes {#add-segmentation}
 
-1. Accédez au **Design Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Cliquez sur votre **Extrait de code **puis **Modifier le brouillon**.
+1. Cliquez sur votre **extrait de code **et **Modifier le brouillon**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
