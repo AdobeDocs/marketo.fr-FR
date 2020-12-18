@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtrage dans les statistiques de performances {#filtering-in-performance-insights}
+# Filtrage dans Performance Insights {#filtering-in-performance-insights}
 
 Filtrez facilement les données pour obtenir des informations spécifiques à la requête.
 
@@ -21,7 +21,7 @@ Cliquez sur + pour ajouter des filtres au début.
 
 >[!NOTE]
 >
->Actuellement, les attributs personnalisés ne sont disponibles dans les filtres que pour les clients pour lesquels la [RCA](http://docs.marketo.com/x/lwIk) est activée.
+>Actuellement, les attributs personnalisés ne sont disponibles dans les filtres que pour les clients pour lesquels [RCA](http://docs.marketo.com/x/lwIk) est activé.
 
 Le fait de cliquer sur une catégorie révèle plusieurs sous-catégories.
 
@@ -57,7 +57,7 @@ Vous pouvez supprimer un filtre à tout moment en cliquant sur le X en regard de
   </tr> 
   <tr> 
    <td colspan="1"><strong>Attributs personnalisés</strong></td> 
-   <td colspan="1"><p>Ceux-ci sont déterminés par vous. Tous les champs <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">que vous activez</a> pour l’analyse d’opportunités peuvent être filtrés dans Performance Insights.</p></td> 
+   <td colspan="1"><p>Ceux-ci sont déterminés par vous. Tous les champs <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">que vous activez</a> pour l'analyse d'opportunité peuvent être filtrés dans Performance Insights.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Période d'investissement</strong></p></td> 
