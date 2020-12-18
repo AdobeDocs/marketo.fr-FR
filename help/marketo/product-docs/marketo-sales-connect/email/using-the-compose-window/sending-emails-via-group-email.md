@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Envoi de courriers électroniques par courriel de groupe {#sending-emails-via-group-email}
+# Envoi d&#39;e-mails par courriel de groupe {#sending-emails-via-group-email}
 
 Voici comment envoyer/modifier des courriers électroniques à l’aide de l’option Courriel de groupe.
 
-## Envoi d’un courriel de groupe {#sending-a-group-email}
+## Envoi d&#39;un courriel de groupe {#sending-a-group-email}
 
-1. Cliquez sur l’onglet **Personnes** .
+1. Cliquez sur l&#39;onglet **Personnes**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ Voici comment envoyer/modifier des courriers électroniques à l’aide de l’o
 
    ![](assets/two-3.png)
 
-1. Cliquez sur le bouton Actions de groupe et sélectionnez Groupe **de** messagerie.
+1. Cliquez sur le bouton Actions de groupe et sélectionnez **Groupe de courriel**.
 
    ![](assets/three-3.png)
 
@@ -35,7 +35,7 @@ Voici comment envoyer/modifier des courriers électroniques à l’aide de l’o
 
 ## Modification d&#39;un courriel de groupe {#editing-a-group-email}
 
-1. Créez un courriel de groupe à l’aide des [étapes 1 à 3 ci-dessus](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Créez un courrier électronique de groupe à l’aide des [étapes 1 à 3 ci-dessus](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
 1. Choisissez un modèle ou complétez votre adresse électronique.
 
    ![](assets/edit-two.png)
@@ -48,7 +48,7 @@ Voici comment envoyer/modifier des courriers électroniques à l’aide de l’o
 
    ![](assets/edit-four.png)
 
-1. Cliquez sur Champs **dynamiques de** Prévisualisation et vue de la prévisualisation sur la droite.
+1. Cliquez sur **Prévisualisation des champs dynamiques** et vue la prévisualisation sur la droite.
 
    ![](assets/edit-five.png)
 
