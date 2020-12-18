@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Activer l’enregistrement des appels {#enable-call-recording}
+# Activer l&#39;enregistrement des appels {#enable-call-recording}
 
 En tant qu&#39;administrateur, vous pouvez activer l&#39;enregistrement des appels pour vos appels Sales Connect. L&#39;enregistrement des appels de votre équipe peut être un excellent moyen d&#39;orienter vos commerciaux vers les meilleures pratiques d&#39;appel.
 
@@ -23,11 +23,11 @@ En tant qu&#39;administrateur, vous pouvez activer l&#39;enregistrement des appe
 
    ![](assets/two.png)
 
-1. Faites défiler l&#39;écran jusqu&#39;à Paramètres de téléphone de Sales Connect et sélectionnez la bascule **Activer l&#39;enregistrement** des appels.
+1. Faites défiler l&#39;écran jusqu&#39;à Paramètres de téléphone de Sales Connect et sélectionnez l&#39;option **Activer l&#39;enregistrement des appels**.
 
    ![](assets/three.png)
 
-1. Si vous souhaitez donner à vos vendeurs la possibilité d&#39;activer ou de désactiver l&#39;enregistrement des appels pour eux-mêmes, cliquez sur** Enregistrement facultatif pour tous les membres de l&#39;équipe. **Si vous souhaitez que tous les appels soient enregistrés automatiquement, cliquez sur** Enregistrer tous les appels.**
+1. Si vous souhaitez donner à vos vendeurs la possibilité d&#39;activer ou de désactiver l&#39;enregistrement des appels pour eux-mêmes, cliquez sur** Enregistrement facultatif pour tous les membres de l&#39;équipe. **Si vous souhaitez que tous les appels soient enregistrés automatiquement,** cliquez sur Enregistrer tous les appels.**
 
    ![](assets/four.png)
 
