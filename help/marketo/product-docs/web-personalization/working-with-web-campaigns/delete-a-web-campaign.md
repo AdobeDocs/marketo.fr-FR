@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’une Campaign Web {#delete-a-web-campaign}
+# Supprimer une Campaign Web {#delete-a-web-campaign}
 
-1. Accédez à Campagnes **** Web.
+1. Accédez à **Campagnes Web**.
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne Web de votre choix, utilisez la fonction [de](filter-web-campaigns.md)filtrage.
+   >Pour faciliter la recherche de la campagne Web de votre choix, utilisez la fonction de filtrage [](filter-web-campaigns.md).
 
 1. Sur la page Campagnes Web, cliquez sur **Supprimer **dans la campagne à supprimer.
 
