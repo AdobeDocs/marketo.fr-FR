@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les modèles de cycle de recettes portent le marketing au niveau suivant. Ils modélisent toutes les étapes de l&#39;entonnoir de recettes, depuis le moment où vous interagissez pour la première fois avec une piste jusqu&#39;à ce que la piste soit un client gagné.
 
-## Modèle mental (comment penser à cette chose) {#mental-model-how-to-think-about-this-thing}
+## Modèle mental (Comment penser à cette chose) {#mental-model-how-to-think-about-this-thing}
 
 Le Modeler est comme une série de seaux avec de l&#39;eau dedans. Il y a des trous dans le fond des seaux.
 
@@ -31,15 +31,15 @@ Le modeleur mesure tous la quantité de pistes dans le compartiment à tout mome
 
 Les modèles s’adressent généralement aux clients qui maîtrisent les campagnes et les programmes intelligents et souhaitent passer à un niveau supérieur d’analyse.
 
-## Commencer avec un nouveau modèle {#starting-with-a-new-model}
+## Commencer par un nouveau modèle {#starting-with-a-new-model}
 
 Par défaut, un nouveau modèle vous début avec six étapes de recettes. Ce modèle est en fait parfait tout seul, mais il peut être profondément personnalisé.
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Remarquez qu&#39;ils sont tous sur un fond vert. Il s’agit du chemin **de** réussite. En savoir plus sur le chemin de réussite [ici](understanding-revenue-model-success-path.md).
+Remarquez qu&#39;ils sont tous sur un fond vert. Il s’agit du **chemin de réussite**. Vous pouvez en savoir plus sur le chemin de réussite [ici](understanding-revenue-model-success-path.md).
 
-**Les étapes** sont les jalons d&#39;une progression vers leurs objectifs.
+**Les** étapes sont les jalons d&#39;une progression vers leurs objectifs.
 
 **Les Transitions **sont présentées sous forme de flèches et elles contrôlent comment les pistes se déplacent entre les étapes.
 
@@ -53,13 +53,13 @@ Chaque société est différente. Vous pouvez ajouter des éléments au modèle 
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
-## Phase de stock {#inventory-stage}
+## Phase d&#39;inventaire {#inventory-stage}
 
 Ça ressemble à une boîte et c&#39;est la phase la plus basique. Analytics suivra les flux entrants, sortants et équilibres de cette étape.
 
 ## Phase SLA {#sla-stage}
 
-Il s&#39;agit d&#39;un raccourci pour l&#39;étape de l&#39;accord **de niveau de** service. L&#39;intention ici est que certaines étapes que vous voudrez imposer une limite de temps.
+Il s&#39;agit d&#39;une courte phase d&#39;**accord de niveau de service**. L&#39;intention ici est que certaines étapes que vous voudrez imposer une limite de temps.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Une étape Porte est conçue pour les situations où vous souhaitez filtrer les 
 >
 >**Exemple**
 >
->Une porte d&#39;entrée peut être utilisée pour les pistes qui font partie d&#39;une liste **de compte** nommée afin de séparer cela du processus normal.
+>Une porte d&#39;entrée peut être utilisée pour les pistes qui font partie d&#39;une **liste de compte nommée** afin de séparer cela du processus normal.
 
 ## Transitions {#transitions}
 
