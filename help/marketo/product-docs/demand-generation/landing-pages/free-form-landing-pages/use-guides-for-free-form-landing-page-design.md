@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Utilisation de guides pour la conception de Landings page à structure libre {#use-guides-for-free-form-landing-page-design}
+# Utiliser des guides pour la conception de Landings page à structure libre {#use-guides-for-free-form-landing-page-design}
 
 Lors de la conception d’un landing page de forme libre, vous pouvez utiliser des guides pour vous aider à aligner les composants.
 
 >[!NOTE]
 >
->Les guides sont disponibles uniquement dans l’éditeur de landing page de **formulaires****gratuits** .
+>Les guides sont disponibles uniquement dans l’éditeur de landing page **Gratuit**-**form**.
 
 1. Sélectionnez un **Landing page** et cliquez sur **Modifier le brouillon**.
 
