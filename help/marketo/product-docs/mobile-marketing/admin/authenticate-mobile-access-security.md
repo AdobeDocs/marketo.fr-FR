@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Authentification de la sécurité d&#39;accès mobile {#authenticate-mobile-access-security}
+# Authentifier la sécurité d&#39;accès mobile {#authenticate-mobile-access-security}
 
 Pour améliorer la sécurité des utilisateurs mobiles, Marketo fournit deux nouveaux identifiants : la clé d&#39;accès et la clé secrète d&#39;accès. Elles permettent de s’assurer que les utilisateurs qui se connectent à votre application sont bien ceux qu’ils semblent être.
 
@@ -21,7 +21,7 @@ Pour activer les identifiants, vous devez acquérir les codes et les fournir à 
 >
 >Pour activer cette fonctionnalité, contactez l’assistance et demandez &quot;Vespa Secure Mode&quot;.
 
-1. Dans Marketo, sélectionnez **Admin **et cliquez sur Applications et périphériques **** mobiles.
+1. Dans Marketo, sélectionnez **Admin **et cliquez sur **Applications et périphériques mobiles**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -29,7 +29,7 @@ Pour activer les identifiants, vous devez acquérir les codes et les fournir à 
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Faites défiler l&#39;écran vers le bas et dans la section Sécurité d&#39;accès, cliquez sur **Modifier**.
+1. Faites défiler la liste vers le bas et dans la section Sécurité d&#39;accès, cliquez sur **Modifier**.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
