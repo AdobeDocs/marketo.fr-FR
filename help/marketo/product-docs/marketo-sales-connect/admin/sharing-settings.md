@@ -21,17 +21,17 @@ Lorsque votre compte Sales Connect est créé pour la première fois, les param�
 
 Lorsque les paramètres de partage sont activés, seuls les administrateurs peuvent partager dans les catégories, sauf si des privilèges de partage sont fournis à une équipe ou à tout le monde. Les paramètres de partage étant désactivés, il n’y a aucune restriction et tous les utilisateurs peuvent partager dans n’importe quelle catégorie de modèle.
 
-## Configuration des paramètres de partage {#configure-your-sharing-settings}
+## Configurer vos paramètres de partage {#configure-your-sharing-settings}
 
-1. Dans l’application [](http://toutapp.com/login)Web, accédez à la page Paramètres.
+1. Dans l’[application Web](http://toutapp.com/login), accédez à la page Paramètres.
 
    ![](assets/one-2.png)
 
-1. Sous Paramètres d’administration, sélectionnez Accès **** au partage.
+1. Sous Paramètres d’administration, sélectionnez **Accès au partage**.
 
    ![](assets/two-2.png)
 
-1. Assurez-vous que les paramètres **de** partage sont activés. Cela signifie que, par défaut, seuls les administrateurs pourront partager des modèles dans vos catégories de modèles.
+1. Vérifiez que **les paramètres de partage** sont activés. Cela signifie que, par défaut, seuls les administrateurs pourront partager des modèles dans vos catégories de modèles.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Lorsque les paramètres de partage sont activés, seuls les administrateurs peuv
 
    ![](assets/four-2.png)
 
-1. Cliquez sur **Ajouter des équipes pour l’accès**.
+1. Cliquez sur **Ajouter les équipes pour l&#39;accès**.
 
    ![](assets/five-2.png)
 
