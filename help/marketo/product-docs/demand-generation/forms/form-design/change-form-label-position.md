@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Modifier la position de l’étiquette du formulaire {#change-form-label-position}
+# Modifier la position de l&#39;étiquette du formulaire {#change-form-label-position}
 
-Lors de la [création d’un formulaire](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md), vous pouvez très facilement changer le positionnement des libellés de champ de formulaire. Voici comment.
+Lorsque [vous créez un formulaire](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md), vous pouvez très facilement changer le positionnement des libellés de champ de formulaire. Voici comment.
 
 1. Accédez à **Marketing** **Activités**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
@@ -27,7 +27,7 @@ Lors de la [création d’un formulaire](../../../../product-docs/demand-generat
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Sélectionnez l’ **étiquette** **Position** que vous souhaitez.
+1. Sélectionnez le **libellé** **Position** que vous souhaitez.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
