@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Supprimer l’application mobile {#delete-mobile-app}
+# Supprimer l&#39;application mobile {#delete-mobile-app}
 
 1. Cliquez sur Admin.
 
