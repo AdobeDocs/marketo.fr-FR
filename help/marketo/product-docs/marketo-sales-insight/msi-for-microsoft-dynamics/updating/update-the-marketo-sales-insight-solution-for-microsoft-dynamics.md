@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mise à jour de la solution Marketing Cloud Sales Insight pour Microsoft Dynamics {#update-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Mise à jour de la solution Marketo Sales Insight pour Microsoft Dynamics {#update-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 Lorsqu&#39;une nouvelle solution Microsoft Dynamics est publiée pour Sales Insight, vous pouvez télécharger la mise à jour depuis la zone Admin de votre compte.
 
@@ -19,7 +19,7 @@ Lorsqu&#39;une nouvelle solution Microsoft Dynamics est publiée pour Sales Insi
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à la zone **Admin** .
+1. Accédez à la zone **Admin**.
 
    ![](assets/mainnavhand.png)
 
@@ -27,7 +27,7 @@ Lorsqu&#39;une nouvelle solution Microsoft Dynamics est publiée pour Sales Insi
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Sélectionnez **Télécharger la solution** marketing.
+1. Sélectionnez **Télécharger la solution marketing**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
