@@ -31,7 +31,7 @@ Lorsque vous avez activé la synchronisation de désabonnement (étape 3 ci-dess
 
 Les utilisateurs peuvent décider s&#39;ils souhaitent synchroniser leurs désabonnements avec le champ de Opt-out de courriel standard avec lequel Marketo peut également synchroniser, ou s&#39;ils peuvent synchroniser avec le champ de Opt-out ventes de Marketo afin que les désabonnements des ventes et les désabonnements marketing puissent être différenciés.
 
-1. Accédez à l’application [](http://toutapp.com/login)Web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Accédez à l&#39;[application Web](http://toutapp.com/login), cliquez sur l&#39;icône d&#39;engrenage et sélectionnez **Paramètres**.
 
    ![](assets/one-1.png)
 
@@ -49,7 +49,7 @@ Les utilisateurs peuvent décider s&#39;ils souhaitent synchroniser leurs désab
 
    | **Champ Synchroniser avec Salesforce Opt-out** | Sélectionné par défaut, met uniquement à jour le champ Opt-out Salesforce. |
    |---|---|
-   | **Champ Synchroniser avec le Opt-out des ventes du marketing** | Si vous souhaitez séparer les ventes et les désabonnements du marketing, sélectionnez cette option pour mettre à jour le champ de Opt-out [Marketo Sales supplémentaire.](#msoo) |
+   | **Champ Synchroniser avec le Opt-out des ventes du marketing** | Si vous souhaitez séparer les ventes et les désabonnements marketing, sélectionnez cette option pour mettre à jour le champ [Opt-out ventes marketing.](#msoo) |
 
 ## Installation du champ Opt-out dans la mise en page {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -69,7 +69,7 @@ Le Opt-out de courriel est un champ standard de Salesforce qui peut être instal
 
    ![](assets/seven-1.png)
 
-1. Sélectionnez **Mises en page**.
+1. Sélectionnez **Mise en page**.
 
    ![](assets/eight-1.png)
 
@@ -89,7 +89,7 @@ Le Opt-out de courriel est un champ standard de Salesforce qui peut être instal
 
    ![](assets/twelve.png)
 
-## Opt-out ventes du marketing {#marketo-sales-opt-out}
+## Opt-out des ventes du marketing {#marketo-sales-opt-out}
 
 Le champ  Ventes du marketing est un champ personnalisé qui est disponible pour les utilisateurs qui ont installé les personnalisations de Marketing to Sales Connect.
 
