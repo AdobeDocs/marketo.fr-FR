@@ -31,7 +31,7 @@ Composez un nouveau courrier électronique ou utilisez un modèle existant.
 
 >[!TIP]
 >
->Découvrez les détails de vos options [d&#39;](http://docs.marketo.com/x/7QDb)envoi.
+>Découvrez les détails de vos [options d&#39;envoi](http://docs.marketo.com/x/7QDb).
 
 ## Appel {#call}
 
