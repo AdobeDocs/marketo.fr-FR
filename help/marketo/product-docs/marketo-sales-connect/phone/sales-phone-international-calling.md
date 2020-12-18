@@ -11,7 +11,7 @@ ht-degree: 8%
 ---
 
 
-# Appel international Téléphone commercial {#sales-phone-international-calling}
+# Téléphone commercial international Appel {#sales-phone-international-calling}
 
 Le téléphone de vente facilite la communication internationale. Pour les clients qui appellent depuis les États-Unis, le téléphone de vente peut être utilisé pour les appels sortants vers les pays internationaux. Pour les clients en dehors des États-Unis, nous prenons en charge les appels en provenance de pays internationaux.
 
@@ -33,7 +33,7 @@ Le téléphone de vente facilite la communication internationale. Pour les clien
   </tr> 
   <tr> 
    <td colspan="1">Autriche</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 436 9989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -41,7 +41,7 @@ Le téléphone de vente facilite la communication internationale. Pour les clien
   </tr> 
   <tr> 
    <td><p>Brésil</p></td> 
-   <td>5511, 5521, 5527, 5531, 5541, 5551, 5561, 5562, 5581, 5585</td> 
+   <td>5511, 5521, 5527, 5531, 5541, 5551, 5561, 5562, 5561, 5581, 5585</td> 
   </tr> 
   <tr> 
    <td>Chypre </td> 
@@ -61,15 +61,15 @@ Le téléphone de vente facilite la communication internationale. Pour les clien
   </tr> 
   <tr> 
    <td>Grèce </td> 
-   <td>30, 3021</td> 
+   <td>30 3021</td> 
   </tr> 
   <tr> 
    <td>Hongrie</td> 
-   <td>36, 361</td> 
+   <td>36 361</td> 
   </tr> 
   <tr> 
    <td colspan="1">Irlande </td> 
-   <td colspan="1">353, 3531</td> 
+   <td colspan="1">353 3531</td> 
   </tr> 
   <tr> 
    <td>Israël</td> 
@@ -113,7 +113,7 @@ Le téléphone de vente facilite la communication internationale. Pour les clien
   </tr> 
   <tr> 
    <td colspan="1">Pologne </td> 
-   <td colspan="1">48, 4832</td> 
+   <td colspan="1">48 4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">Portugal </td> 
@@ -137,7 +137,7 @@ Le téléphone de vente facilite la communication internationale. Pour les clien
   </tr> 
   <tr> 
    <td>États-Unis</td> 
-   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>
