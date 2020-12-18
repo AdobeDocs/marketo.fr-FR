@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation de la zone d&#39;Analyse des coûts du Programme {#understanding-the-program-cost-analysis-area}
+# Description de la zone d&#39;Analyse des coûts de Programme {#understanding-the-program-cost-analysis-area}
 
 La zone Programme d&#39;Analyse des coûts vous permet d&#39;analyser l&#39;efficacité de chaque programme ou de voir les résultats résumés par canal pendant une période donnée.
 
@@ -33,7 +33,7 @@ Combien ai-je dépensé par programme par mois ?
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimensions et mesures concernant l&#39;Analyse des coûts programmes {#program-cost-analysis-dimensions-and-measures}
+## Dimensions et mesures concernant les coûts programmes {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Combien ai-je dépensé par programme par mois ?
 | Coût par réussite (nouveaux noms) | Coût moyen par piste acquis par le programme ET succès de la progression du programme |
 | Coût du programme | Coût total de la période du programme |
 
-## abonnement {#membership}
+## Membres {#membership}
 
 <table> 
  <tbody> 
