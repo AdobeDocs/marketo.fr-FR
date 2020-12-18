@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Selon la date d’achat, votre abonnement Marketo peut inclure du contenu prédictif ou du contenu`<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités d’analyse de contenu`<sup>AI</sup>` jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers le contenu`<sup>AI</sup>`Marketo.
+>Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 Voici comment configurer votre contenu prédictif pour les courriels.
 
 >[!PREREQUISITES]
 >
->Le contenu doit être [approuvé pour le contenu](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) prédictif sur la page Tout le contenu.
+>Le contenu doit être [approuvé pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) sur la page Tout le contenu.
 
 1. Dans la page Contenu prédictif, cliquez sur un titre pour ouvrir l’éditeur.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. La page de modification s’ouvre. **Le courrier électronique** s’affiche par défaut.
+1. La page de modification s’ouvre. **Le** courrier électronique s’affiche par défaut.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -47,7 +47,7 @@ Voici comment configurer votre contenu prédictif pour les courriels.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
-1. Insérez l’URL de l’image, puis cliquez sur **Ajouter**.
+1. Insérez l’URL de l’image et cliquez sur **Ajouter**.
 
    ![](assets/five.png)
 
@@ -60,7 +60,7 @@ Voici comment configurer votre contenu prédictif pour les courriels.
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Si vous le souhaitez, cliquez sur le champ **Catégories** et ajoutez des catégories au contenu. Les options proviennent des [catégories que vous avez déjà configurées](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Si vous le souhaitez, cliquez sur le champ **Catégories** et ajoutez des catégories au contenu. Les options proviennent des catégories [que vous avez déjà configurées](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
@@ -74,4 +74,4 @@ Voici comment configurer votre contenu prédictif pour les courriels.
 
    >[!NOTE]
    >
-   >Dans la version 2.0 de l’éditeur de courriel de marketing, vous pouvez également [vue les modèles](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) de mise en page que vous utilisez lorsque vous activez le contenu.
+   >Dans la version 2.0 de l’éditeur de courriel de marketing, vous pouvez également [vue des modèles de mise en page](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) que vous utilisez lorsque vous activez le contenu.
