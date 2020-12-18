@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# Suivi de début par compte dans le module de modélisation des recettes {#start-tracking-by-account-in-the-revenue-modeler}
+# Suivi des débuts par compte dans le module de modélisation des recettes {#start-tracking-by-account-in-the-revenue-modeler}
 
 Grâce au module de modélisation des phases des recettes et à l&#39;explorateur de recettes, vous obtenez des informations sur les performances de vos pistes et comptes à mesure qu&#39;ils progressent dans votre modèle.
 
 >[!NOTE]
 >
->Assurez-vous que votre modèle approuvé comporte des étapes sur le chemin de réussite avec la vérification du suivi des **Débuts par compte** .
+>Assurez-vous que votre modèle approuvé comporte des étapes sur le chemin de réussite avec **suivi de Début par compte** coché
 
-1. Une fois le temps passé pour collecter des données utiles, sélectionnez **Recettes Explorer** sous **Mon marketing d’accueil**.
+1. Une fois le temps passé pour collecter des données utiles, sélectionnez **Explorateur de recettes** sous **Ma page d’accueil du marketing**.
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Pour créer un rapport, cliquez sur **Fichier** et sélectionnez **Nouveau rapport**,**puis** Rapport.
+1. Pour créer un rapport, cliquez sur **Fichier** et sélectionnez **Nouveau** puis **Rapport**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
-1. Sélectionnez Analyse de performances du **modèle (Sociétés)** comme zone d&#39;analyse et cliquez sur **OK**.
+1. Sélectionnez **Analyse de performances du modèle (Sociétés)** comme zone d&#39;analyse et cliquez sur **OK**.
 
    ![](assets/image2015-4-29-16-3a41-3a47.png)
 
-1. Nous vous recommandons de faire glisser les champs **Etape**, **Mois** et Solde de **fin** pour vous montrer la progression des sociétés dans votre modèle par mois. Utilisez des filtres pour sélectionner les mois que vous souhaitez.
+1. Nous vous recommandons de faire glisser les champs **Étape**, **Mois** et **Solde de fin** pour vous montrer la progression des sociétés dans votre modèle par mois. Utilisez des filtres pour sélectionner les mois que vous souhaitez.
 
    ![](assets/image2015-4-29-17-3a16-3a1.png)
 
-1. Lorsque vous avez terminé de configurer votre rapport, cliquez avec le bouton droit sur **Est une Société** de suivi et sélectionnez **Filtre**. Nous utiliserons cette méthode pour limiter le rapport aux seules étapes où le **suivi par compte** est sélectionné.
+1. Lorsque vous avez terminé de configurer votre rapport, cliquez avec le bouton droit sur **Est une Société de suivi** et sélectionnez **Filtre**. Nous utiliserons cette option pour limiter le rapport aux étapes où **Suivi par compte** est sélectionné.
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
