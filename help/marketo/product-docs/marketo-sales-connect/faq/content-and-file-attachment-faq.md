@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Quelle est la différence entre le contenu et une pièce jointe ? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-Une pièce jointe **de** fichier est semblable à une pièce jointe que vous utiliseriez dans votre client de messagerie classique.
+Une pièce jointe **fichier** est semblable à une pièce jointe que vous utiliseriez dans votre client de messagerie classique.
 
-**Le contenu** est ce que nous utilisons pour décrire n’importe quel fichier (PPT, PDF, document Word, etc.) que vous souhaitez être suivi par Sales Connect.
+**** Contient ce que nous utilisons pour décrire les fichiers (PPT, PDF, Word, etc.) que vous souhaitez être suivi par Sales Connect.
 
 Après avoir cliqué sur ce bouton, vous pouvez choisir un fichier déjà téléchargé ou télécharger un nouveau fichier à suivre. Nous insérons ensuite un lien dans le courriel ou le modèle que vous utilisez.
 
