@@ -20,5 +20,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Si l’erreur &quot;Erreur - supprimer les balises style/java/html&quot; s’affiche, cela signifie que vous disposez d’un style que nous ne prenons pas en charge. Vous devez rechercher le style de mot dans le code source et supprimer tout de `<style>` à `</style>`.
+>Si l’erreur &quot;Erreur - supprimer les balises style/java/html&quot; s’affiche, cela signifie que vous disposez d’un style que nous ne prenons pas en charge. Recherchez le style de mot dans le code source et supprimez tout de `<style>` à `</style>`.
 
