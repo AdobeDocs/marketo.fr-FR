@@ -21,11 +21,11 @@ Tous les prospects et comptes connus résident initialement à l&#39;étape du s
 
 ## Ajouter Une Phase De Stock {#add-an-inventory-stage}
 
-1. Pour ajouter une nouvelle étape d’inventaire des modèles de cycle de revenus, cliquez sur le bouton **Analytics** dans l’écran d’accueil **Mon marketing** .
+1. Pour ajouter une nouvelle étape d’inventaire des modèles de cycle de revenus, cliquez sur le bouton **Analyses** dans l’écran d’accueil **Mon marché**.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Dans la section **Analytics** , sélectionnez votre modèle existant ou [créez-en un nouveau](create-a-new-revenue-model.md).
+1. Dans la section **Analytics**, sélectionnez votre modèle existant ou [créez-en un nouveau](create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -33,17 +33,17 @@ Tous les prospects et comptes connus résident initialement à l&#39;étape du s
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Pour ajouter une nouvelle étape de stock, cliquez sur le bouton **Inventaire** , puis faites glisser la souris et relâchez-la à n&#39;importe quel emplacement dans la trame.
+1. Pour ajouter une nouvelle étape d&#39;inventaire, cliquez sur le bouton **Inventaire**, puis faites glisser le curseur et relâchez-le à n&#39;importe quel emplacement du canevas.
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Vous pouvez modifier le nom, ajouter une description et modifier le type après avoir ajouté une étape. Vous pouvez également sélectionner le suivi des [Débuts par compte](start-tracking-by-account-in-the-revenue-modeler.md)** pour le moment.
+1. Vous pouvez modifier le nom, ajouter une description et modifier le type après avoir ajouté une étape. Vous pouvez également sélectionner ** [Suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md)** pour le moment.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Modifier une étape de stock {#edit-an-inventory-stage}
 
-Lorsque vous sélectionnez une icône Inventaire, vous pouvez modifier le **Nom**, ajouter une **Description** ou modifier le **Type**. Vous pouvez également sélectionner Suivi des [Débuts par compte](start-tracking-by-account-in-the-revenue-modeler.md).
+Lorsque vous sélectionnez une icône Inventaire, vous pouvez modifier le **Nom**, ajouter une **Description** ou ajuster le **Type**. Vous pouvez également sélectionner [Suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Cliquez sur une icône Inventaire.
 
@@ -57,13 +57,13 @@ Lorsque vous sélectionnez une icône Inventaire, vous pouvez modifier le **Nom*
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
-## Supprimer Une Phase De Stock {#delete-an-inventory-stage}
+## Supprimer Une Phase De Stock &lt;A0/>{#delete-an-inventory-stage}
 
 1. Vous pouvez supprimer une étape de stock en cliquant avec le bouton droit ou en contrôlant la sélection d&#39;une icône d&#39;étape de stock.
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. Vous pouvez également supprimer une étape en cliquant dessus, puis dans la liste déroulante Actions **** d’étape, sélectionnez **Supprimer**.
+1. Vous pouvez également supprimer une étape en cliquant dessus, puis dans la liste déroulante **Actions de l’étape**, sélectionnez **Supprimer**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
