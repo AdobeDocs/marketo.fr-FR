@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Connexion et Gestion des utilisateurs {#login-and-user-management}
+# Connexion et gestion des utilisateurs {#login-and-user-management}
 
-## Créer un rôle d’utilisateur de personnalisation Web {#create-a-web-personalization-user-role}
+## Créer un rôle utilisateur de personnalisation Web {#create-a-web-personalization-user-role}
 
-1. Accédez à la section **Admin** , puis cliquez sur **Utilisateurs et rôles**.
+1. Accédez à la section **Admin**, puis cliquez sur **Utilisateurs et rôles**.
 
    ![](assets/image2015-4-28-19-3a50-3a49.png)
 
@@ -31,19 +31,19 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Saisissez un nom de rôle et sélectionnez Autorisations. Cliquez sur **Créer** (ce rôle doit [s’appliquer à tous les espaces de travail](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Saisissez un nom de rôle et sélectionnez Autorisations. Cliquez sur **Créer** (ce rôle doit [s&#39;appliquer à tous les espaces de travail](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Pour autoriser les utilisateurs à accéder à tous les éléments du ciblage et de la personnalisation, veillez à cocher *toutes les* cases à cocher.
+   >Pour autoriser les utilisateurs à accéder à tous les éléments du ciblage et de la personnalisation, veillez à cocher *toutes* les cases.
 
-## Personnalisation Web et autorisations d’utilisateur de contenu prédictif {#web-personalization-and-predictive-content-user-permissions}
+## Personnalisation Web et autorisations d&#39;utilisateur de contenu prédictif {#web-personalization-and-predictive-content-user-permissions}
 
-**Ciblage et personnalisation**: L’utilisateur dispose uniquement d’autorisations de vue, si cette autorisation est uniquement sélectionnée.
+**Ciblage et personnalisation** : L’utilisateur dispose uniquement d’autorisations de vue, si cette autorisation est uniquement sélectionnée.
 
-**Admin Personnalisation Web + Prédictif**: L’utilisateur a accès uniquement aux paramètres du compte et aux paramètres de contenu pour l’application Personnalisation Web et Contenu prédictif. Les utilisateurs peuvent vue des pages dans l’application mais ne disposent pas des autorisations de création, de modification, de suppression et de lancement.
+**Admin Personnalisation Web + Prédictif** : L’utilisateur a accès uniquement aux paramètres du compte et aux paramètres de contenu pour l’application Personnalisation Web et Contenu prédictif. Les utilisateurs peuvent vue des pages dans l’application mais ne disposent pas des autorisations de création, de modification, de suppression et de lancement.
 
 **Editeur** de contenu prédictif : L’utilisateur dispose de l’accès de l’éditeur à l’application de contenu prédictif. L&#39;autorisation permet de créer, modifier, supprimer des éléments de contenu. Il ne permet pas d’activer le contenu pour une utilisation prédictive sur le Web ou par courrier électronique.
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 **Lanceur** Web Campaign : L’utilisateur a accès à toutes les fonctionnalités de l’application de personnalisation Web, à l’exception des paramètres de compte et de contenu. Cette autorisation permet de créer, modifier, supprimer et lancer des campagnes Web.
 
-## Affecter un rôle WP à l&#39;utilisateur {#assign-wp-role-to-user}
+## Affecter le rôle WP à l&#39;utilisateur {#assign-wp-role-to-user}
 
 1. Accédez à **Utilisateurs**.
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. Les utilisateurs nouvellement activés verront la mosaïque Personnalisation **** Web dans Mon marketing lors de leur prochaine connexion.
+1. Les utilisateurs nouvellement activés verront la mosaïque **Personnalisation Web** dans Mon marketing la prochaine fois qu’ils se connecteront.
 
    ![](assets/eight.png)
