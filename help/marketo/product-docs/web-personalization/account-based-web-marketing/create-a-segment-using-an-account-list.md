@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création d’un segment à l’aide d’une Liste de compte {#create-a-segment-using-an-account-list}
+# Créer un segment à l’aide d’une Liste de compte {#create-a-segment-using-an-account-list}
 
 Voici comment créer un segment à l’aide d’une Liste de compte.
 
@@ -31,7 +31,7 @@ Voici comment créer un segment à l’aide d’une Liste de compte.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Entrez le nom du segment. Faites glisser et déposez des Listes **de** compte depuis la section **Firmographics** .
+1. Entrez le nom du segment. Faites glisser **Listes de compte** depuis la section **Firmographics**.
 
    ![](assets/set-segment-hands.jpg)
 
