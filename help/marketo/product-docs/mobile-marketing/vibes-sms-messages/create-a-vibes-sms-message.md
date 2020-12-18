@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Créer un message SMS de vibes {#create-a-vibes-sms-message}
+# Créer un message SMS Vibes {#create-a-vibes-sms-message}
 
 Voici comment créer un message SMS Vibes.
 
@@ -19,15 +19,15 @@ Voici comment créer un message SMS Vibes.
 
    ![](assets/mobile-right-click-hand.jpg)
 
-1. Cliquez sur **Nouveau fichier** local.
+1. Cliquez sur **Nouveau fichier local**.
 
    ![](assets/new-local-asset-hand.jpg)
 
    >[!TIP]
    >
-   >Vous pouvez également cliquer sur la liste déroulante **Nouveau** .
+   >Vous pouvez également cliquer sur la liste déroulante **New**.
 
-1. Cliquez sur Message **** SMS.
+1. Cliquez sur **Message SMS**.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
@@ -67,7 +67,7 @@ Voici comment créer un message SMS Vibes.
    >
    >Les deux liens de suivi sont sélectionnés par défaut.
 
-1. Si vous souhaitez utiliser une URL externe à la place, cliquez sur le bouton URL **** externe et saisissez l’URL dans le champ URL. Cliquez sur **Insérer**.
+1. Si vous souhaitez utiliser une URL externe à la place, cliquez sur le bouton **URL externe** et saisissez l’URL dans le champ URL. Cliquez sur **Insérer**.
 
    ![](assets/insert-link-url-hands.jpg)
 
