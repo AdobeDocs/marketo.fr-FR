@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Clonage d’un rapport {#clone-a-report}
+# Cloner un rapport {#clone-a-report}
 
 Créez un duplicata de votre rapport pour le personnaliser davantage sans modifier l&#39;original.
 
-1. Accédez à la zone Activités **** marketing (ou **Analytics**).
+1. Accédez à **Activités marketing** (ou **Analytics**).
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Sélectionnez votre rapport. Sélectionnez Actions de **rapport > Cloner un rapport**.
+1. Sélectionnez votre rapport. Sélectionnez **Actions de rapport > Cloner un rapport**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -42,5 +42,5 @@ Créez un duplicata de votre rapport pour le personnaliser davantage sans modifi
    >    * [Filtrage des personnes dans un rapport avec une Liste intelligente](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
 
 
-   Faites beaucoup plus pour personnaliser votre rapport ! Voir Rapports [](http://docs.marketo.com/display/docs/basic+reporting)de base.
+   Faites beaucoup plus pour personnaliser votre rapport ! Voir [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
