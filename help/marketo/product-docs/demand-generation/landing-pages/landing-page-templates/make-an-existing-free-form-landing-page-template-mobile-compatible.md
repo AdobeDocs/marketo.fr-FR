@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Rendre un modèle de Landing page de formulaire libre existant compatible avec les dispositifs portables {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Compatibilité d’un modèle de Landing page de formulaire libre existant {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 >[!NOTE]
 >
->Les modèles de landings page créés avant la [version de](../../../../release-notes/2015/release-notes-january-2015.md)janvier 2015 doivent être mis à niveau pour être compatibles avec les dispositifs portables.
+>Les modèles de landings page créés avant la [version de janvier 2015](../../../../release-notes/2015/release-notes-january-2015.md)doivent être mis à niveau pour être compatibles avec les dispositifs portables.
 
 Vous pouvez effectuer cette opération à deux endroits : l’éditeur de modèle et l’éditeur de Landing page.
 
 ## Mise à niveau à partir de l’éditeur de modèles {#upgrade-from-the-template-editor}
 
-1. Accédez au **Design Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
@@ -29,7 +29,7 @@ Vous pouvez effectuer cette opération à deux endroits : l’éditeur de modèl
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Sélectionnez un modèle pour lequel la valeur Compatible **** Mobile est **Non**.
+1. Sélectionnez un modèle où **Mobile Compatible** est **Non**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
@@ -67,11 +67,11 @@ Si un problème se produit, un message d’erreur s’affiche, cliquez sur répa
 
 Si vous apportez des modifications au modèle, cliquez sur Actions de modèle et sélectionnez Valider la compatibilité mobile.
 
-## Mise à niveau d’un modèle à partir de l’éditeur de Landings page à structure libre {#upgrading-a-template-from-the-free-form-landing-page-editor}
+## Mise à niveau d’un modèle à partir de l’éditeur de Landing page de forme libre {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
 Lorsque vous modifiez un landing page et que vous cliquez sur l’onglet mobile, vous constaterez parfois que le modèle n’a pas été mis à niveau. Peur non ! Vous pouvez le mettre à niveau juste ici.
 
-1. Cliquez sur l’onglet **Mobile** .
+1. Cliquez sur l&#39;onglet **Mobile**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
@@ -83,7 +83,7 @@ Lorsque vous modifiez un landing page et que vous cliquez sur l’onglet mobile,
    >
    >L&#39;activation de la version mobile d&#39;un modèle crée des brouillons de tous les landings page qui l&#39;utilisent.
 
-Super ! Vous pouvez désormais [personnaliser la vue](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) mobile de tous les landings page qui utilisent ce modèle.
+Super ! Vous pouvez désormais [personnaliser la vue mobile](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de tous les landings page qui utilisent ce modèle.
 
 >[!MORELIKETHIS]
 >
