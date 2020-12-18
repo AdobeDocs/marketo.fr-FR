@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Enregistrement d’un rapport Explorateur de recettes {#saving-a-revenue-explorer-report}
+# Enregistrement d&#39;un rapport Explorateur de recettes {#saving-a-revenue-explorer-report}
 
 Les rapports de l&#39;Explorateur de recettes peuvent être enregistrés dans le fichier de votre choix.
 
@@ -23,7 +23,7 @@ Les rapports de l&#39;Explorateur de recettes peuvent être enregistrés dans le
    >
    >Les modifications que vous apportez à votre rapport ne sont pas enregistrées automatiquement. Alors faites en sorte d&#39;épargner souvent !
 
-1. Donnez un nom descriptif à votre rapport, sélectionnez un emplacement, puis cliquez sur **Enregistrer**!
+1. Donnez un nom descriptif à votre rapport, sélectionnez un emplacement et cliquez sur **Enregistrer** !
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
