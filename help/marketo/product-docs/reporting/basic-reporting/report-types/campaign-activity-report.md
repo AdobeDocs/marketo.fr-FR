@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Rapport Activité Campaign {#campaign-activity-report}
+# Rapport d’Activité Campaign {#campaign-activity-report}
 
-Découvrez les performances de vos campagnes [](http://docs.marketo.com/display/docs/smart+campaigns) intelligentes.
+Découvrez les performances de vos [campagnes dynamiques](http://docs.marketo.com/display/docs/smart+campaigns).
 
-1. [Créez un rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le type **de** rapport [Activité](report-type-overview.md)Campaign.
-1. [Définissez la période du rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) et cliquez sur l’onglet **Rapport** .
+1. [Créez un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport et sélectionnez le type **de rapport** [Campaign ](report-type-overview.md)Activity.
+1. [Définissez la période de votre ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapport et cliquez sur l&#39;onglet  **** Rapport.
 1. Super ! Explorez votre rapport pour identifier les campagnes les plus efficaces, regroupées par type de campagne.
 
    ` ![](assets/image2014-9-16-16-3a8-3a45.png)
@@ -25,15 +25,15 @@ Découvrez les performances de vos campagnes [](http://docs.marketo.com/display/
 
    >[!TIP]
    >
-   >Pour rechercher les campagnes qui ont traité le plus de personnes, par exemple, [triez votre](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)rapport sur le *total des personnes traitées* et choisissez **Trier Descendant**.
+   >Pour rechercher les campagnes qui ont traité le plus de personnes, par exemple, [triez votre rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)sur *Total des personnes traitées* et choisissez **Trier Descendant**.
 
-   Cliquez sur le nom d’une campagne dynamique pour l’ouvrir.  [Les colonnes que vous pouvez sélectionner](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) pour un rapport d’Activité Campaign sont les suivantes :
+   Cliquez sur le nom d’une campagne dynamique pour l’ouvrir.  [Les colonnes que vous pouvez ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) sélectionner pour un rapport d’Activité Campaign sont les suivantes :
 
    | Colonne | Description |
    |---|---|
    | Nombre d&#39;exécutions par lot | Nombre de fois où la campagne a été exécutée. |
    | Nombre total de personnes traitées | Nombre de personnes qui ont traversé le flux de la campagne. |
-   | Personnes en attente | Si une campagne est toujours en cours d’exécution, nombre de personnes qui restent à l’étape *Attente* . |
+   | Personnes en attente | Si une campagne est toujours en cours d’exécution, nombre de personnes qui restent à l’étape *Attendre*. |
    | Supprimé du flux | Nombre de personnes qui ont été supprimées de la campagne. |
    | Dernière Activité | Dernière fois qu’une personne a été traitée par la campagne. |
 
@@ -41,10 +41,10 @@ Découvrez les performances de vos campagnes [](http://docs.marketo.com/display/
 
    | Type | Description |
    |---|---|
-   | Lot | Campagnes par lots dans l’onglet Activités **** marketing. |
-   | Exécuter l’action | Les actions des personnes sont exécutées à partir de la **base de données**. |
-   | Déclenché (Principal) | Campagnes déclenchées en cours dans l’onglet Activités **** marketing. |
-   | Déclenché (Inactif) | Campagnes déclenchées inactives dans l’onglet Activités **** marketing. |
+   | Lot | Batch campaigns dans l&#39;onglet **Activités marketing**. |
+   | Exécuter l’action | Les actions de personne s&#39;exécutent à partir de la **base de données**. |
+   | Déclenché (Principal) | Campagnes déclenchées en cours dans l&#39;onglet **Activités marketing**. |
+   | Déclenché (Inactif) | Inactif a déclenché des campagnes dans l&#39;onglet **Activités marketing**. |
 
    >[!NOTE]
    >
@@ -55,5 +55,5 @@ Découvrez les performances de vos campagnes [](http://docs.marketo.com/display/
    >    * [Filtrage d’un rapport d’Activité Campaign](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
 
 
-   Voir d’autres rapports dans Rapports [](http://docs.marketo.com/display/docs/basic+reporting)de base.
+   Voir d&#39;autres rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
