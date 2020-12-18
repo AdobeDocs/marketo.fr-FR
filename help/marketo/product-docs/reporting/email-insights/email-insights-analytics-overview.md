@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Présentation des analyses des statistiques de courriel {#email-insights-analytics-overview}
+# Présentation des analyses des statistiques par courriel {#email-insights-analytics-overview}
 
 Dans Analytics, explorez les données d’agrégat pour la diffusion et l’engagement des courriels. Utilisez le graphique à gauche pour explorer les données, les informations à droite pour une expérience plus guidée.
 
 ![](assets/emailanalytics-1.jpg)
 
-[Le filtrage](filtering-in-email-insights.md) permet d’analyser en détail des mesures spécifiques.
+[Le ](filtering-in-email-insights.md) filtrage est disponible pour vous aider à affiner l’analyse de mesures spécifiques.
 
 ![](assets/filter-field.png)
 
@@ -50,7 +50,7 @@ Le graphique affiche vos critères filtrés. Pour masquer un de vos filtres, il 
 ` ![](assets/chart2.png)  
 `
 
-Si vous créez un graphique que vous souhaitez réutiliser, faites-le un graphique [](email-insights-quick-charts.md)rapide.
+Si vous créez un graphique que vous souhaitez réutiliser, définissez-le comme [graphique rapide](email-insights-quick-charts.md).
 
 ` ![](assets/quick-chart.png)  
 `
