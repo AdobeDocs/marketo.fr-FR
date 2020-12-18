@@ -31,15 +31,15 @@ Suivez et associez les coûts de prise en charge des pistes et d&#39;acquisition
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. Faites glisser et déposez le coût **** de la période sur le canevas et la boîte de dialogue **Nouveau coût** s&#39;affiche.
+1. Faites glisser **Coût de la période** vers le canevas et la boîte de dialogue **Nouveau coût** s&#39;affiche.
 
    ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. Entrez le mois **** Programme que vous souhaitez associer au coût défini.
+1. Entrez le **mois du Programme** que vous souhaitez associer au coût défini.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Saisissez un coût **** Période sous la forme d&#39;un nombre entier sans décimales ou virgules (limite maximale : 999999999)
+1. Saisissez un **Coût de la période** comme nombre entier sans décimales ou virgules (limite maximale : 999999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
@@ -47,13 +47,13 @@ Suivez et associez les coûts de prise en charge des pistes et d&#39;acquisition
    >
    >Devise (par exemple USD, EUR, etc.) est un paramètre global géré par un administrateur marketing.
 
-1. Saisissez une **note** descriptive (facultative) et cliquez sur **Enregistrer**.
+1. Saisissez une description **Note** (facultatif) et cliquez sur **Enregistrer**.
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
 ## Modifier un coût de période {#edit-a-period-cost}
 
-1. Cliquez avec le bouton droit de la souris sur Coût de la période et sélectionnez **Modifier **dans le menu contextuel pour ouvrir la boîte de dialogue **Modifier le coût** .
+1. Cliquez avec le bouton droit de la souris sur Coût de la période et sélectionnez **Modifier **dans le menu contextuel pour ouvrir la boîte de dialogue **Modifier le coût**.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
