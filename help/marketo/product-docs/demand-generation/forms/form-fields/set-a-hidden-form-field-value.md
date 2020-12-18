@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Définir une valeur de champ de formulaire masqué {#set-a-hidden-form-field-value}
+# Définir la valeur de champ de formulaire masqué {#set-a-hidden-form-field-value}
 
 Les champs masqués sont généralement renseignés de manière dynamique. Ils ne sont pas présentés à la personne qui remplit le formulaire. Voici comment définir la valeur.
 
@@ -21,7 +21,7 @@ Les champs masqués sont généralement renseignés de manière dynamique. Ils n
 
 ## Sélectionner le champ {#select-the-field}
 
-1. Dans votre formulaire, sélectionnez le champ masqué et cliquez sur **Modifier** pour **Remplir automatiquement**.
+1. Dans votre formulaire, sélectionnez le champ masqué et cliquez sur **Modifier** pour **Remplissage automatique**.
 
    ![](assets/autofill.png)
 
@@ -33,17 +33,17 @@ En sélectionnant Utiliser la valeur par défaut, vous pouvez coder en dur une v
 
 ## Paramètre d’URL {#url-parameter}
 
-Si vous souhaitez capturer des paramètres d’URL (chaînes de Requête) à partir de la page sur laquelle se trouve la personne lors du remplissage du formulaire, vous pouvez utiliser les **paramètres** d’ **URL** pour renseigner votre champ masqué.
+Si vous souhaitez capturer des paramètres d’URL (chaînes de Requête) à partir de la page sur laquelle se trouve la personne lors du remplissage du formulaire, vous pouvez utiliser **URL** **Paramètres** pour renseigner votre champ masqué.
 
 >[!NOTE]
 >
->Les paramètres sont plutôt techniques, n&#39;est-ce pas ? Une fois qu&#39;on les trouve, ils sont puissants. Cette page [Wikipédia sur Requête Strings](http://en.wikipedia.org/wiki/Query_string) est quelque peu utile.
+>Les paramètres sont plutôt techniques, n&#39;est-ce pas ? Une fois qu&#39;on les trouve, ils sont puissants. Cette [page de Wikipédia sur Chaînes de Requête](http://en.wikipedia.org/wiki/Query_string) est quelque peu utile.
 
-1. Sélectionnez Paramètre **** d’URL pour le type **** Get Value.
+1. Sélectionnez **Paramètre d’URL** pour **Type de valeur Get**.
 
    ![](assets/image2014-9-15-13-3a6-3a48.png)
 
-1. Saisissez le nom **du** paramètre, puis cliquez sur **Enregistrer**.
+1. Saisissez le **nom du paramètre** et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-15-13-3a7-3a35.png)
 
@@ -53,9 +53,9 @@ Si vous souhaitez capturer des paramètres d’URL (chaînes de Requête) à par
 
 ## Valeur du cookie {#cookie-value}
 
-Si vous stockez des données dans des cookies, vous pouvez utiliser **la** valeur **du cookie** pour récupérer les données lorsque le formulaire est envoyé.
+Si vous stockez des données dans des cookies, vous pouvez utiliser **Cookie** **Valeur** pour récupérer les données lorsque le formulaire est envoyé.
 
-1. Sélectionnez **Cookie** **Value** pour **Get** **Value From.******
+1. Sélectionnez **Cookie** **Valeur** pour **Get** **Valeur** **From**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,19 +69,19 @@ Si vous stockez des données dans des cookies, vous pouvez utiliser **la** valeu
 
 ## Paramètre de parrain {#referrer-parameter}
 
-Si vous souhaitez capturer des données à partir de la page d’où provient le visiteur avant de remplir le formulaire, vous pouvez utiliser le **paramètre de** Parrain ****.
+Si vous souhaitez capturer des données à partir de la page d’où provient le visiteur avant de remplir le formulaire, vous pouvez utiliser **Parrain** **Paramètre**.
 
-1. Définissez **Get** **Value** **From** to **Parrain Parameter.******
+1. Définissez **Get** **Valeur** **De** à **Parrain** **Paramètre**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
-1. Saisissez le nom **du** paramètre que vous souhaitez extraire de l’URL du parrain et cliquez sur **Enregistrer**.
+1. Saisissez le **nom du paramètre** que vous souhaitez extraire de l’URL du parrain et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-15-13-3a9-3a56.png)
 
    >[!TIP]
    >
-   >Vous pouvez saisir une **valeur** par défaut **** au cas où le paramètre de parrain serait introuvable.
+   >Vous pouvez entrer une **valeur par défaut** **Valeur** au cas où le paramètre de parrain serait introuvable.
 
 1. Cliquez sur **Terminer**.
 
@@ -91,4 +91,4 @@ Si vous souhaitez capturer des données à partir de la page d’où provient le
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
 
-Doux ! Vous vous en sortez plutôt bien. Il y a plus à apprendre sur les [formulaires](http://docs.marketo.com/display/docs/forms).
+Doux ! Vous vous en sortez plutôt bien. Il y a plus à découvrir sur [les formulaires](http://docs.marketo.com/display/docs/forms).
