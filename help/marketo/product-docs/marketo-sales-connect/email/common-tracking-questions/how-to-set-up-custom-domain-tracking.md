@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Nous vous offrons la possibilité de configurer le suivi personnalisé des domaines pour vos liens. Ainsi, lorsqu’un utilisateur survole un lien, il lit &quot;go.votreentreprise.com&quot; au lieu de &quot;go.toutapp.com&quot;.
 
-Pour ce faire, votre administrateur informatique doit suivre les étapes répertoriées dans la page [](http://toutapp.com/custom_tracking_domain)Paramètres.
+Pour ce faire, votre administrateur informatique doit suivre les étapes répertoriées dans la [page de paramètres](http://toutapp.com/custom_tracking_domain).
 
 Une fois cette configuration effectuée, nous placerons sur la liste autorisée tout lien que vous avez dans votre courriel à apparaître comme &quot;go.votreentreprise.com&quot;.
