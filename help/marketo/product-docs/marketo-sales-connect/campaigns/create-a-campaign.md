@@ -17,14 +17,14 @@ Les campagnes sont une série d’étapes à plusieurs canaux, notamment : e-mai
 
 Avec les campagnes, vous pouvez :
 
-* **Organiser**: Rationalisez toutes vos activités de diffusion en un seul endroit pour une exécution efficace.
+* **Organiser** : Rationalisez toutes vos activités de diffusion en un seul endroit pour une exécution efficace.
 
-* **Échelle**: Planifiez tous vos efforts de sensibilisation afin que vous puissiez accroître vos efforts, minimiser le travail manuel et personnaliser autant que vous le souhaitez.
-* **Mesure**: Assurez le suivi de la réussite de tous vos courriels et tâches au même endroit tout en les enregistrant automatiquement dans Salesforce. En sachant ce qui résonne et conduit à des résultats, vous pouvez constamment tester et améliorer vos résultats.
+* **Échelle** : Planifiez tous vos efforts de sensibilisation afin que vous puissiez accroître vos efforts, minimiser le travail manuel et personnaliser autant que vous le souhaitez.
+* **Mesure** : Assurez le suivi de la réussite de tous vos courriels et tâches au même endroit tout en les enregistrant automatiquement dans Salesforce. En sachant ce qui résonne et conduit à des résultats, vous pouvez constamment tester et améliorer vos résultats.
 
 Alors, comment mettre en place un Campaign ?
 
-1. Cliquez sur l’onglet **Campagnes** .
+1. Cliquez sur l&#39;onglet **Campagnes**.
 
    ![](assets/one-1.png)
 
@@ -56,7 +56,7 @@ Alors, comment mettre en place un Campaign ?
    >
    >Les &quot;jours&quot; ne sont pas le nombre de jours entre les actions, mais le jour dans la séquence. Par exemple, si votre campagne durera 7 jours, la saisie de &quot;3&quot; signifie que l’action sera exécutée le jour 3 sur 7, **et non **3 jours plus tard.
 
-1. Veillez à personnaliser les options de planification et de réponse, comme sauter les week-ends (ce qui est génial) en consultant l&#39;onglet **** Paramètres de votre Campaign.
+1. Veillez à personnaliser les options de planification et de réponse, comme sauter les week-ends (ce qui est génial) en visitant l&#39;onglet **Paramètres** de votre Campaign.
 
    ![](assets/seven.png)
 
