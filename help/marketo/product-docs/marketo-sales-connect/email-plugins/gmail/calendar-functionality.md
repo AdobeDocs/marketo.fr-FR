@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Fonctionnalité du calendrier {#calendar-functionality}
 
-Faites savoir à vos destinataires quand vous êtes disponible en appuyant sur le bouton **Calendrier** . Il extrait votre calendrier Google et vous permet d&#39;ajouter des dates et heures spécifiques que vous êtes libre, et le destinataire peut répondre avec une heure qui fonctionne pour eux.
+Faites savoir à vos destinataires quand vous êtes disponible en appuyant sur le bouton **Calendrier**. Il extrait votre calendrier Google et vous permet d&#39;ajouter des dates et heures spécifiques que vous êtes libre, et le destinataire peut répondre avec une heure qui fonctionne pour eux.
