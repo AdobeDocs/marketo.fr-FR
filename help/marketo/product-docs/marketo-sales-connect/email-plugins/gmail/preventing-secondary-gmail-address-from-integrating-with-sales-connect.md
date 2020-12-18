@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Prévention de l&#39;intégration de l&#39;adresse Gmail Secondaire à Sales Connect {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
+# Empêcher l&#39;adresse Gmail Secondaire de s&#39;intégrer à Sales Connect {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 
-## Intégration de Gmail rompue (pourquoi mes e-mails personnels Gmail sont-ils envoyés ?) {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}
+## Intégration de Gmail rompue (pourquoi mes e-mails personnels Gmail sont-ils envoyés) {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}
 
 La raison la plus courante d&#39;une connexion Gmail interrompue est une intégration accidentelle avec le compte personnel d&#39;un utilisateur. Cela peut se produire lorsqu’un utilisateur clique sur &quot;Se connecter&quot; ou lorsqu’il tente d’envoyer un courriel à partir de son compte personnel. Cela peut être très tentant car l&#39;option existe lors de l&#39;accès à votre compte Gmail dans la même instance de Chrome que votre courrier électronique de travail.
 
@@ -25,18 +25,18 @@ Se connecter en tant qu’autre utilisateur Chrome (recommandé)
 
 Cliquez sur [ce lien](http://support.google.com/chrome/answer/2364824?hl=en) pour savoir comment créer un autre Profil Chrome.
 
-**Avantages**: La connexion en tant qu’autre utilisateur ouvre une nouvelle instance de Chrome. Cette instance est une toute nouvelle fenêtre de Chrome, et aucune de vos anciennes extensions n’existera dans celle-ci. Il conserve également les cookies afin que vous n&#39;ayez pas à vous connecter à votre Gmail à chaque fois.
+**Avantages** : La connexion en tant qu’autre utilisateur ouvre une nouvelle instance de Chrome. Cette instance est une toute nouvelle fenêtre de Chrome, et aucune de vos anciennes extensions n’existera dans celle-ci. Il conserve également les cookies afin que vous n&#39;ayez pas à vous connecter à votre Gmail à chaque fois.
 
-**Contre**: Deux fenêtres de Chrome doivent être ouvertes.
+**Contre** : Deux fenêtres de Chrome doivent être ouvertes.
 
 Utiliser un autre navigateur
 
-**Avantages :** L&#39;utilisation d&#39;un autre navigateur Internet (IE ou Firefox) qui n&#39;a pas installé l&#39;extension empêchera cela.
+**Avantages :** L&#39;utilisation d&#39;un autre navigateur Internet (IE ou Firefox) qui ne dispose pas de l&#39;extension empêchera cela.
 
-**Contre**: L’utilisation de plusieurs navigateurs peut être gênante.
+**Contre** : L’utilisation de plusieurs navigateurs peut être gênante.
 
 Utiliser une fenêtre Incognito
 
-**Avantages :** Une fenêtre incognito est comme ouvrir une version nue de Chrome. En d&#39;autres termes, aucune de vos extensions n&#39;est installée et Sales Connect n&#39;est pas là pour se connecter.
+**Avantages :** Une fenêtre incognito est semblable à l’ouverture d’une version nue de Chrome. En d&#39;autres termes, aucune de vos extensions n&#39;est installée et Sales Connect n&#39;est pas là pour se connecter.
 
-**Contre**: Vous devrez vous connecter à Gmail chaque fois que vous début votre journée, et encore si vous fermez accidentellement la fenêtre.
+**Contre** : Vous devrez vous connecter à Gmail chaque fois que vous début votre journée, et encore si vous fermez accidentellement la fenêtre.
