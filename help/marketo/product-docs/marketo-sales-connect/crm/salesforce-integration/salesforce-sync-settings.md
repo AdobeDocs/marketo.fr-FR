@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Paramètres de synchronisation Salesforce {#salesforce-sync-settings}
 
-## Journalisation de l&#39;Activité de courriel à Salesforce via l&#39;API {#logging-email-activity-to-salesforce-via-api}
+## Journalisation de l&#39;Activité de courrier électronique à Salesforce via l&#39;API {#logging-email-activity-to-salesforce-via-api}
 
 Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Unlimited de Salesforce ou dans l’édition Professional si vous avez acheté l’intégration via l’API des services Web.
 
@@ -21,7 +21,7 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Unl
 >
 >Salesforce et Sales Engage doivent être connectés.
 
-1. Dans Interagir avec les ventes, cliquez sur l&#39;icône d&#39;engrenage dans l&#39;angle supérieur droit et sélectionnez **Paramètres**.
+1. Dans la section Interagir avec les ventes, cliquez sur l&#39;icône d&#39;engrenage en haut à droite et sélectionnez **Paramètres**.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Unl
 
    ![](assets/two-2.png)
 
-1. Cliquez sur l’onglet Paramètres **de** synchronisation.
+1. Cliquez sur l&#39;onglet **Paramètres de synchronisation**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Unl
 
    ![](assets/four-1.png)
 
-1. Cliquez sur l&#39;onglet API **** Salesforce. Cette carte vous permet de définir votre préférence pour la consignation des informations dans Salesforce. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Cliquez sur l&#39;onglet **API Salesforce**. Cette carte vous permet de définir votre préférence pour la consignation des informations dans Salesforce. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/five.png)
 
@@ -51,7 +51,7 @@ Une fois que vous avez activé &quot;Courriel à Salesforce (Cci)&quot;, vous re
 
 **Pour enregistrer vos e-mails dans Salesforce par courrier électronique (BCC)**
 
-1. Dans Interagir avec les ventes, cliquez sur l&#39;icône d&#39;engrenage dans l&#39;angle supérieur droit et sélectionnez **Paramètres**.
+1. Dans la section Interagir avec les ventes, cliquez sur l&#39;icône d&#39;engrenage en haut à droite et sélectionnez **Paramètres**.
 
    ![](assets/one-3.png)
 
@@ -59,11 +59,11 @@ Une fois que vous avez activé &quot;Courriel à Salesforce (Cci)&quot;, vous re
 
    ![](assets/two-3.png)
 
-1. Cliquez sur l’onglet Paramètres **de** synchronisation.
+1. Cliquez sur l&#39;onglet **Paramètres de synchronisation**.
 
    ![](assets/three-1.png)
 
-1. Cliquez sur l’onglet **Courriel à Salesforce (BCC)** et sur **Activer**.
+1. Cliquez sur l&#39;onglet **Courriel à Salesforce (BCC)** et sur **Activer**.
 
    ![](assets/six-2.png)
 
@@ -87,13 +87,13 @@ Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètr
 >Vous aurez besoin des privilèges d’administrateur pour configurer cette configuration.
 
 1. Cliquez sur **Configuration *.* **
-1. Cliquez sur Administration **des *courriels.* **
+1. Cliquez sur **Administration de messagerie *.* **
 1. Cliquez sur **Courriel à Salesforce *.* **
 1. Cliquez sur **Modifier**.
 1. Cochez la case en regard de &quot;Principal*&quot;.*
-1. Cliquez sur **Enregistrer *.* **
+1. Cliquez sur **Enregistrer *.* **.
 
-## Synchroniser les Tâches d&#39;engagement/rappels des ventes avec les Tâches Salesforce {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
+## Synchroniser les Tâches d&#39;engagement des ventes/rappels aux Tâches Salesforce {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
 1. Cliquez sur l’icône d’engrenage dans l’angle supérieur droit et sélectionnez **Paramètres**.
 
@@ -103,7 +103,7 @@ Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètr
 
    ![](assets/two-2.png)
 
-1. Cliquez sur l’onglet Paramètres **de** synchronisation.
+1. Cliquez sur l&#39;onglet **Paramètres de synchronisation**.
 
    ![](assets/three-1.png)
 
