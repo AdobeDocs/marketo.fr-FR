@@ -19,13 +19,13 @@ La vérification de désabonnement de Marketo utilise la connexion de votre équ
 >
 >**Autorisations d’administrateur requises**
 
-## Activation {#turning-it-on}
+## Activation de {#turning-it-on}
 
-1. Dans l’application Web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans l’application Web, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/one-2.png)
 
-1. Sous Paramètres d’administration, cliquez sur **Désabonnements**.
+1. Sous Paramètres d’administration, cliquez sur **Désabonne**.
 
    ![](assets/two-3.png)
 
@@ -37,7 +37,7 @@ La vérification de désabonnement de Marketo utilise la connexion de votre équ
 
    ![](assets/four-2.png)
 
-## Les choses à savoir {#things-to-know}
+## Informations à connaître {#things-to-know}
 
 La vérification de désabonnement de Marketo...
 
