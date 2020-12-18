@@ -17,15 +17,15 @@ Une URL de Cible se trouve sous la page Définir Campaign et définit l’URL sp
 
 ## Ajouter une URL de Cible pour les campagnes Web de boîtes de dialogue ou de widgets {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. Accédez à Campagnes **** Web.
+1. Accédez à **Campagnes Web**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Sélectionnez **Créer une Campaign** Web.
+1. Sélectionnez **Créer une Campaign Web**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Ajoutez un nom **** Campaign. Sélectionnez un segment **de** Cible. Ajouter l’URL **de** Cible.
+1. Ajoutez un **nom Campaign**. Sélectionnez un **segment de Cible**. Ajoutez **URL de Cible**.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -62,17 +62,17 @@ Cliquez sur l’icône Plus (![—](assets/image2015-2-18-8-3a40-3a59.png)) pour
 * L’URL est sensible à la casse
 
 
-## Ajouter une URL de Cible pour les campagnes Web dans la zone {#adding-a-target-url-for-in-zone-web-campaigns}
+## Ajouter une URL de Cible pour les campagnes Web en zone {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Accédez à **Web** **Campaigns**.
+1. Accédez à **Web** **Campagnes**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Sélectionnez **Créer une Campaign** Web.
+1. Sélectionnez **Créer une Campaign Web**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Ajoutez un ** Nom de Campaign***. Sélectionnez un segment **de** Cible. Ajouter l’URL **de** Cible.
+1. Ajoutez un ** Nom de Campaign***. Sélectionnez un **segment de Cible**. Ajoutez **URL de Cible**.
 
    >[!NOTE]
    L’URL de la cible avec les zones d’entrée doit définir une ou plusieurs URL spécifiques. Dans les cas d’utilisation avancée, les campagnes Web In Zone peuvent utiliser des caractères génériques à la fin du chemin d’accès à l’URL. Exemple : [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
