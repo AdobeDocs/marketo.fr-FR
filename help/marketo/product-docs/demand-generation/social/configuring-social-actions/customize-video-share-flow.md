@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Personnalisation du flux de partage vidéo {#customize-video-share-flow}
+# Personnalisation du flux de partage de vidéos {#customize-video-share-flow}
 
-Lorsque vous [créez un partage](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)de vidéo, vous pouvez personnaliser quand et où l’invite de partage s’affiche.
+Lorsque vous [créez un partage de vidéo](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), vous pouvez personnaliser quand et où l’invite de partage s’affiche.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Lorsque vous [créez un partage](../../../../product-docs/demand-generation/land
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. Dans l’éditeur de partage de vidéos, accédez à Paramètres **de l’** application > Options **avancées.**
+1. Dans l’éditeur de partage de vidéos, accédez à **Paramètres de l’application** > **Options avancées.**
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,5 +33,5 @@ Lorsque vous [créez un partage](../../../../product-docs/demand-generation/land
 
 >[!MORELIKETHIS]
 >
->L’étape suivante consiste à [configurer ce qui se produit après le partage](configure-after-share-prompts.md)de vidéos.
+>L’étape suivante consiste à [configurer ce qui se passe après le partage de vidéos](configure-after-share-prompts.md).
 
