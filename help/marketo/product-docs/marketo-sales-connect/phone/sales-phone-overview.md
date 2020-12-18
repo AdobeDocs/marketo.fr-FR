@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation du téléphone de vente {#sales-phone-overview}
+# Aperçu des ventes par téléphone {#sales-phone-overview}
 
 ## Pourquoi vendre un téléphone ? {#why-sales-phone}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 ## Comment puis-je être rapidement configuré avec Sales Phone ? {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**Numéro de téléphone :** Il vous suffit de le saisir une seule fois. Sales Connect mémorisera votre numéro pour tous les appels futurs.
+**Numéro de téléphone :** vous n&#39;aurez besoin de le saisir qu&#39;une seule fois. Sales Connect mémorisera votre numéro pour tous les appels futurs.
 
-**Présence locale :** Vous n&#39;aurez qu&#39;à vérifier &quot;utiliser la présence locale&quot; et enregistrer l&#39;appel pour votre premier appel. Sales Connect mémorisera vos paramètres pour tous les appels futurs.
+**Présence locale :** vous n&#39;aurez qu&#39;à vérifier &quot;utiliser la présence locale&quot; et enregistrer l&#39;appel pour votre premier appel. Sales Connect mémorisera vos paramètres pour tous les appels futurs.
 
 Si vous souhaitez que Sales Connect crée automatiquement une activité d&#39;appel dans Salesforce, extrayez [cet article](http://docs.marketo.com/x/joLS).
 
@@ -37,6 +37,6 @@ Dans le Centre de commandes, vous pouvez utiliser votre &quot;liste d&#39;appel&
 
 Une fois que vous avez appelé ou passé un appel, Sales Connect récupérera votre numéro de téléphone de prospect/contact auprès de Salesforce. Si aucun numéro n&#39;est répertorié dans Salesforce, Sales Connect insère le numéro de téléphone dans l&#39;enregistrement du compte.
 
-Pour les équipes utilisant d&#39;autres CRMS, Sales Connect récupérera le numéro de téléphone du numéro figurant dans l&#39;enregistrement de Sales Connect. Ces données peuvent être facilement disponibles par le biais d’un téléchargement [](http://docs.marketo.com/x/HIPS)CSV.
+Pour les équipes utilisant d&#39;autres CRMS, Sales Connect récupérera le numéro de téléphone du numéro figurant dans l&#39;enregistrement de Sales Connect. Ces données peuvent être facilement disponibles via un [transfert CSV](http://docs.marketo.com/x/HIPS).
 
-Cliquez sur le grand bouton vert **Call** . Votre téléphone va alors début à sonner. Prenez votre téléphone et Sales Connect appellera automatiquement le prospect/contact.
+Cliquez sur le grand bouton vert **Appeler**. Votre téléphone va alors début à sonner. Prenez votre téléphone et Sales Connect appellera automatiquement le prospect/contact.
