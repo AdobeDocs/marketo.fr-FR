@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Création d’un modèle de Landing page guidé {#create-a-guided-landing-page-template}
+# Créer un modèle de Landing page guidé {#create-a-guided-landing-page-template}
 
 >[!NOTE]
 >
->**Deep Dive :** Fatigué de la lecture ? [Regardez cette vidéo](https://youtu.be/3O7e4GdZKsM) cool avec des instructions détaillées.
+>**Deep Dive :** Fatigué de lire ? [Regardez cette ](https://youtu.be/3O7e4GdZKsM) vidéo sympa avec des instructions détaillées.
 
 Les modèles de landing page guidé ont une syntaxe spéciale. Utilisez cette syntaxe pour spécifier ce qui est personnalisable et où le contenu finira sur chaque landing page généré à partir de votre modèle. Seules les régions ou variables que vous spécifiez comme modifiables seront disponibles pour la personnalisation dans l’éditeur de landing page &quot;Guided&quot;.
 
@@ -34,12 +34,12 @@ Les éléments sont déclarés en ajoutant un élément DOM normal au modèle, p
 
 ## Texte {#text}
 
-Si vous définissez une zone de texte enrichi, les utilisateurs pourront modifier son contenu [à l’aide de l’éditeur](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)de texte enrichi de Marketing Cloud.
+Si vous définissez une région sous la forme de texte enrichi, les utilisateurs peuvent modifier son contenu [à l’aide de l’éditeur de texte enrichi de Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Attributs requis :\
-**classe**: &quot;mktoText&quot;\
-**id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
-**mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
+**classe** : &quot;mktoText&quot;\
+**id** : Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
+**mktoName**  : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
 
 Facultatif :\
 Le contenu d’un élément avec la classe mktoText (s’il est fourni) sera utilisé comme valeur par défaut pour la région modifiable.
@@ -50,7 +50,7 @@ Exemple :
 
 ### Image {#image}
 
-Vous disposez de deux options pour définir des éléments d’image modifiables. Vous pouvez utiliser soit un `<div>`, qui spécifie un conteneur dans lequel l’image sera insérée, soit une `<img>` balise.
+Vous disposez de deux options pour définir des éléments d’image modifiables. Vous pouvez utiliser soit une balise `<div>`, qui spécifie un conteneur dans lequel l&#39;image sera insérée, soit une balise `<img>`.
 
 ## Option 1 - Utiliser une <div> {#option-use-a-div}
 
@@ -61,13 +61,13 @@ id: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quo
 mktoName : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
 
 Facultatif :\
-mktoImgClass: Chaîne. La valeur ici sera ajoutée à l&#39;attribut de classe de l&#39; `<img>` élément dans la balise div.
+mktoImgClass: Chaîne. La valeur ici sera ajoutée à l&#39;attribut de classe de l&#39;élément `<img>` dans la balise div.
 
 Exemple :
 
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
 
-## Option 2 - Utiliser une `<img>` {#option-use-a-img}
+## Option 2 - Utiliser un `<img>` {#option-use-a-img}
 
 Attributs requis :\
 class : &quot;mktoImg&quot;\
@@ -83,23 +83,23 @@ Exemple :
 
 >[!NOTE]
 >
->Lors de l’utilisation de la `<img>` version, le code HTML rendu contient un wrapper div généré autour de la `<img>` balise . Il sera défini sur class.&quot;mktoImg.mktoGen&quot; et sera display:inline-block.
+>Lors de l’utilisation de la version `<img>`, le code HTML rendu contient un wrapper div généré autour de la balise `<img>`. Il sera défini sur class.&quot;mktoImg.mktoGen&quot; et sera display:inline-block.
 
 ## Formulaire {#form}
 
 Exemple : attributs obligatoires :\
-**classe**: &quot;mktoForm&quot;\
-**id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
-**mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
+**classe** : &quot;mktoForm&quot;\
+**id** : Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
+**mktoName**  : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
 
 `<pre data-theme="Confluence"><div class="mktoForm" id="exampleForm" mktoName="Example Form"></div></pre>`
 
 ## Extrait {#snippet}
 
 Attributs requis :\
-**classe**: &quot;mktoSnippet&quot;\
-**id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
-**mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
+**classe** : &quot;mktoSnippet&quot;\
+**id** : Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
+**mktoName**  : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
 
 Exemple :
 
@@ -108,9 +108,9 @@ Exemple :
 ## Bouton Partager {#share-button}
 
 Attributs requis :\
-**classe**: &quot;mktoShareButton&quot;\
-**id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
-**mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
+**classe** : &quot;mktoShareButton&quot;\
+**id** : Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
+**mktoName**  : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
 
 Exemple :
 
@@ -123,8 +123,9 @@ Exemple :
 >Lors de l’utilisation de l’élément vidéo dans un landing page, Marketo ne prend en charge que les vidéos de YouTube. Si vous utilisez un autre service, nous vous recommandons d’utiliser une zone de texte enrichi et de coller le code intégré de la vidéo.
 
 Attributs requis :
-**classe**: &quot;mktoVideo&quot;**id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.
-**mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
+**class**: &quot;mktoVideo&quot;
+**id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.
+**mktoName**  : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
 
 Exemple :
 
@@ -133,9 +134,9 @@ Exemple :
 ## Sondage {#poll}
 
 Attributs requis :\
-**classe**: &quot;mktoPoll&quot;\
-**id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
-**mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
+**classe** : &quot;mktoPoll&quot;\
+**id** : Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
+**mktoName**  : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
 
 Exemple :
 
@@ -144,9 +145,9 @@ Exemple :
 ## Référent {#referral}
 
 Attributs requis :\
-**classe**: &quot;mktoReferral&quot;\
-**id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
-**mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
+**classe** : &quot;mktoReferral&quot;\
+**id** : Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
+**mktoName**  : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
 
 Exemple :
 
@@ -155,9 +156,9 @@ Exemple :
 ## Tirage {#sweepstakes}
 
 Attributs requis :\
-**classe**: &quot;mktoSweepstakes&quot;\
-**id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
-**mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
+**classe** : &quot;mktoSweepstakes&quot;\
+**id** : Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
+**mktoName**  : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
 
 Exemple :
 
@@ -173,18 +174,18 @@ Exemple :
 
 **Déclaration :**
 
-Les variables sont déclarées en tant que balises meta dans l’ `<head>` élément du modèle. Trois types de variables sont disponibles pour l’utilisation : Chaîne, Couleur et Valeur booléenne.
+Les variables sont déclarées en tant que balises meta dans l’élément `<head>` du modèle. Trois types de variables sont disponibles pour l’utilisation : Chaîne, Couleur et Valeur booléenne.
 
 ## Chaîne {#string}
 
 Attributs requis :\
-**classe** : &quot;mktoString&quot;,\
-**id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
-**mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
+**classe**  : &quot;mktoString&quot;,\
+**id** : Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
+**mktoName**  : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
 
 Facultatif :\
-**par défaut**: Valeur de chaîne pour l’attribut. Vide si aucun n&#39;a été fourni.\
-**allowHtml**: &quot;true&quot; ou &quot;false&quot;. Contrôle si la valeur doit être imprimée sans avoir d’échappement HTML. La valeur par défaut est &quot;false&quot; si elle est désactivée.
+**par défaut** : Valeur de chaîne pour l’attribut. Vide si aucun n&#39;a été fourni.\
+**allowHtml** : &quot;true&quot; ou &quot;false&quot;. Contrôle si la valeur doit être imprimée sans avoir d’échappement HTML. La valeur par défaut est &quot;false&quot; si elle est désactivée.
 
 Exemple de base :
 
@@ -197,12 +198,12 @@ Exemple avec tous les attributs :
 ## Couleur {#color}
 
 Attributs requis :\
-**classe** : &quot;mktoColor&quot;,\
-**id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
-**mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
+**classe**  : &quot;mktoColor&quot;,\
+**id** : Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
+**mktoName**  : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
 
 Facultatif :\
-**par défaut**: Code couleur de caractère HEX à 7 chiffres. Par exemple : &quot;#336699&quot;
+**par défaut** : Code couleur de caractère HEX à 7 chiffres. Par exemple : &quot;#336699&quot;
 
 Exemple de base :
 
@@ -212,19 +213,19 @@ Exemple avec tous les attributs :
 
 `<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
 
-## Boolean {#boolean}
+## Booléen {#boolean}
 
 Attributs requis :\
-**classe** : &quot;mktoBoolean&quot;,\
-**id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
-**mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
+**classe**  : &quot;mktoBoolean&quot;,\
+**id** : Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Aucun espace autorisé. Doit être unique.\
+**mktoName**  : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom descriptif.
 
 Facultatif :\
-**par défaut**: Chaîne booléenne. &quot;true&quot; ou &quot;false&quot; contrôlent si la valeur se début en position Activé ou Désactivé. &quot;false&quot; si non fourni.\
-**false_value**: Chaîne. Valeur à insérer pour la variable lorsqu’elle est en position OFF. &quot;false&quot; si non fourni.\
-**true_value**: Chaîne. Valeur à insérer pour la variable lorsqu’elle se trouve en position ON. &quot;true&quot; si non fourni.\
-**false_value_name**: Chaîne. Nom d’affichage à afficher dans l’éditeur de landings page lorsque la valeur est en position OFF. &quot;OFF&quot; s’il n’est pas fourni.\
-**true_value_name**: Chaîne. Nom d’affichage à afficher dans l’éditeur de landings page lorsque la valeur est en position ON. &quot;ON&quot; s’il n’est pas fourni.
+**par défaut** : Chaîne booléenne. &quot;true&quot; ou &quot;false&quot; contrôlent si la valeur se début en position Activé ou Désactivé. &quot;false&quot; si non fourni.\
+**false_value** : Chaîne. Valeur à insérer pour la variable lorsqu’elle est en position OFF. &quot;false&quot; si non fourni.\
+**true_value** : Chaîne. Valeur à insérer pour la variable lorsqu’elle se trouve en position ON. &quot;true&quot; si non fourni.\
+**false_value_name** : Chaîne. Nom d’affichage à afficher dans l’éditeur de landings page lorsque la valeur est en position OFF. &quot;OFF&quot; s’il n’est pas fourni.\
+**true_value_name** : Chaîne. Nom d’affichage à afficher dans l’éditeur de landings page lorsque la valeur est en position ON. &quot;ON&quot; s’il n’est pas fourni.
 
 Exemple de base :
 
