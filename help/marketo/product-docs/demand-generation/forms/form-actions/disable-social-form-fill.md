@@ -21,7 +21,7 @@ Il arrive que vous ne souhaitiez plus que les visiteurs du site envoient des for
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-10.png)
 
