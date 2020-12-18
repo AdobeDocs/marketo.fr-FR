@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Composition de courriels en vrac avec sélection et envoi {#composing-bulk-emails-with-select-and-send}
+# Composante de courriers électroniques en bloc avec sélection et envoi {#composing-bulk-emails-with-select-and-send}
 
 Voici comment envoyer/modifier des messages électroniques à l’aide de l’option Sélectionner et envoyer.
 
@@ -29,23 +29,23 @@ Voici comment envoyer/modifier des messages électroniques à l’aide de l’op
    >
    >Vous pouvez sélectionner jusqu’à 200 personnes lors de l’utilisation des options Sélectionner et Envoyer.
 
-1. Cliquez sur le bouton **Envoyer la sélection** par courriel.
+1. Cliquez sur le bouton **E-mail sélectionné**.
 
    ![](assets/three-2.png)
 
-1. Entrez un objet, sélectionnez un modèle (ou composez le courriel à partir de zéro) et envoyez/ [](http://docs.marketo.com/x/GAQ6Ag)planifiez le courriel.
+1. Entrez un objet, sélectionnez un modèle (ou composez le courriel de zéro) et envoyez/ [planifiez](http://docs.marketo.com/x/GAQ6Ag)le courriel.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Si vous avez sélectionné un modèle et souhaitez vérifier que tous les champs dynamiques sont correctement renseignés avant l’envoi, cliquez sur **Prévisualisation des champs** dynamiques. Assurez-vous que tous les destinataires de la barre latérale en bloc sont sélectionnés pour la prévisualisation de tous les courriers électroniques. Si vous sélectionnez un courriel et cliquez sur Champs **dynamiques de** Prévisualisation, seul ce courriel sera prévisualisé.
+   >Si vous avez sélectionné un modèle et souhaitez vérifier que tous les champs dynamiques sont renseignés correctement avant l’envoi, cliquez sur **Prévisualisation Champs dynamiques**. Assurez-vous que tous les destinataires de la barre latérale en bloc sont sélectionnés pour la prévisualisation de tous les courriers électroniques. Si vous sélectionnez un courriel et cliquez sur **Champs dynamiques de Prévisualisation**, seul ce courriel sera prévisualisé.
 
 ## Modification des courriels {#editing-emails}
 
 **Modifications en masse**
 
-1. Suivez les étapes 1 à 3 de la section [](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)Envoi de courriels.
+1. Suivez les étapes 1 à 3 de la section [Envoi de courriels](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Voici comment envoyer/modifier des messages électroniques à l’aide de l’op
    >
    >Vous pouvez cliquer sur un destinataire de messagerie spécifique pour afficher les modifications propagées à ce courriel.
 
-1. Cliquez sur **Envoyer** (ou [Planifier](http://docs.marketo.com/x/GAQ6Ag)) pour envoyer à tous les destinataires les mises à jour par courriel en masse que vous avez effectuées.
+1. Cliquez sur **Envoyer** (ou [Programmer](http://docs.marketo.com/x/GAQ6Ag)) pour envoyer à tous les destinataires les mises à jour par courrier électronique en masse que vous avez effectuées.
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +67,7 @@ Voici comment envoyer/modifier des messages électroniques à l’aide de l’op
 
 Effectuer des mises à jour en masse avant de personnaliser chaque courrier électronique, car effectuer une mise à jour en masse remplace les modifications apportées à chaque courrier électronique dans la barre latérale de composition en bloc.
 
-1. Suivez les étapes 1 à 4 de la section [Envoi de courriels.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. Suivez les étapes 1 à 4 de la section [Envoi d&#39;e-mails.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 
    >[!NOTE]
    >
@@ -89,7 +89,7 @@ Effectuer des mises à jour en masse avant de personnaliser chaque courrier éle
    >
    >Vous pouvez cliquer sur d’autres destinataires pour voir que les modifications que vous avez apportées au destinataire précédemment sélectionné ne s’affichent pas.
 
-1. Cliquez sur **Envoyer** (ou [Planifier](http://docs.marketo.com/x/GAQ6Ag)) pour envoyer à tous les destinataires les mises à jour par courriel en masse que vous avez effectuées.
+1. Cliquez sur **Envoyer** (ou [Programmer](http://docs.marketo.com/x/GAQ6Ag)) pour envoyer à tous les destinataires les mises à jour par courrier électronique en masse que vous avez effectuées.
 
    ![](assets/each-four.png)
 
