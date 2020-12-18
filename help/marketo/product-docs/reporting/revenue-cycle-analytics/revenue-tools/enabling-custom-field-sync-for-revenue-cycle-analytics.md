@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Activation de la synchronisation des champs personnalisés pour les analyses du cycle de production de recettes {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# Activation de la synchronisation des champs personnalisés pour l&#39;analyse du cycle des recettes {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 Les étapes suivantes vous permettent d’utiliser des champs personnalisés dans les rapports RCA.
 
@@ -19,11 +19,11 @@ Les étapes suivantes vous permettent d’utiliser des champs personnalisés dan
 
    ![](assets/one.png)
 
-1. Cliquez sur Analyses **du cycle de** recettes, puis sur Synchronisation **des champs** personnalisés.
+1. Cliquez sur **Analyses du cycle de recettes**, puis **Synchronisation des champs personnalisés**.
 
    ![](assets/two.png)
 
-1. Sélectionnez votre nom **de** champ, puis cliquez sur **Modifier l’option** de synchronisation.
+1. Sélectionnez votre **nom du champ**, puis cliquez sur **Modifier l’option de synchronisation**.
 
    ![](assets/three.png)
 
