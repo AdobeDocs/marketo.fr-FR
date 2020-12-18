@@ -19,7 +19,7 @@ Suivez ces instructions pour convertir le champ pays en liste déroulante avec u
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/editform-1.png)
 
@@ -31,11 +31,11 @@ Suivez ces instructions pour convertir le champ pays en liste déroulante avec u
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Le champ **Pays** étant sélectionné, remplacez le **champ** **Type** par **Sélectionner.**
+1. Avec le champ **Pays** sélectionné, remplacez **Champ** **Type** par **Sélectionner**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Modifiez** les **valeurs** pour ajouter la liste des pays dans laquelle les utilisateurs peuvent choisir.
+1. **** Modifiez les  **** valeurs pour ajouter la liste des pays dans lesquels les utilisateurs peuvent choisir.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
