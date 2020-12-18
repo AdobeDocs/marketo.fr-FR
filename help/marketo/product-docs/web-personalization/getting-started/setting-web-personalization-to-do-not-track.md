@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Définition de la personnalisation Web sur laquelle ne pas effectuer de suivi {#setting-web-personalization-to-do-not-track}
+# Définition de la personnalisation Web pour ne pas suivre {#setting-web-personalization-to-do-not-track}
 
 Les visiteurs Web peuvent définir leur navigateur pour empêcher le suivi par n’importe quel site Web, en choisissant &quot;Ne pas suivre&quot; (DNT). Ceci empêche le suivi pour ce navigateur et ce périphérique en particulier.
 
 Dans Personnalisation Web et Contenu prédictif, un spécialiste du marketing peut définir une bascule pour indiquer s’il convient de prendre en charge ou d’ignorer le paramètre Ne pas suivre (DNT) du navigateur. La bascule des comptes est désactivée par défaut, ce qui signifie que le DNT n’est pas respecté par l’application.
 
-## Activation ou désactivation de la permutation {#enable-or-disable-the-toggle}
+## Activation ou désactivation de l&#39;activation/désactivation de l&#39;option Basculer {#enable-or-disable-the-toggle}
 
-1. Accédez à Paramètres **du** compte.
+1. Accédez à **Paramètres du compte**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Dans Configuration du domaine et du domaine, sélectionnez **Activé** pour activer la bascule Honor DNT.
+1. Dans Configuration du domaine et du domaine, sélectionnez **On** pour activer la bascule Honor DNT.
 
    ![](assets/two-1.png)
 
@@ -33,5 +33,5 @@ Dans Personnalisation Web et Contenu prédictif, un spécialiste du marketing pe
    >
    >La définition de la bascule sur Activé peut affecter la valeur et les fonctionnalités du marketing dans des zones spécifiques.
 
-1. Pour désactiver la bascule Honor DNT et ignorer le paramètre Do No Track (DNT) du navigateur, sélectionnez **Off** (Désactivé) sous Honor DNT (Honor DNT).
+1. Pour désactiver la bascule Honor DNT et ignorer le paramètre Do No Track (DNT) du navigateur, sélectionnez **Désactivé** sous Honor DNT.
 
