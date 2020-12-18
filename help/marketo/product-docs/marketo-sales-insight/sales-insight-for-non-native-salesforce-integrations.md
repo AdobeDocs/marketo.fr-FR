@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Insight commercial pour les intégrations Salesforce non natives {#sales-insight-for-non-native-salesforce-integrations}
+# Sales Insight for Non Native Salesforce Integrations {#sales-insight-for-non-native-salesforce-integrations}
 
 Si votre compte Marketing est connecté à Salesforce par le biais d’une intégration personnalisée ou non native, utilisez ce document pour configurer Sales Insight.
 
@@ -20,7 +20,7 @@ Si votre compte Marketing est connecté à Salesforce par le biais d’une inté
 >* Contactez votre responsable de succès client pour activer la fonction &quot;MSI non natif&quot; pour votre instance de marketing.
 >* Un compte Salesforce avec la configuration du package MSI.
 >* API REST de marketing [correctement configurée](http://developers.marketo.com/rest-api/). Les API CRUD exposées seront la base de la synchronisation non native.
->* Lisez [ce billet](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) de blog afin de comprendre l&#39;objet et les relations.
+>* Lisez [ce billet de blog](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) afin de comprendre l&#39;objet et les relations.
 >* Configurez les objets Salesforce pour qu’ils affichent l’identifiant unique global non sensible à la casse de 18 caractères plutôt que l’identifiant unique global sensible à la casse de 15 caractères.
 
 >
@@ -31,7 +31,7 @@ Si votre compte Marketing est connecté à Salesforce par le biais d’une inté
 >
 >La configuration de l’API REST dans le panneau d’administration MSI de Marketo ne peut pas être utilisée pour la synchronisation non native.
 
-## La synchronisation non native réussie pour MSI nécessite les éléments suivants {#successful-non-native-sync-for-msi-requires-the-following}
+## La synchronisation non native réussie pour MSI requiert les éléments suivants {#successful-non-native-sync-for-msi-requires-the-following}
 
 1. Synchronisez l&#39;utilisateur commercial Salesforce sur Marketo.
 
@@ -58,7 +58,7 @@ Si votre compte Marketing est connecté à Salesforce par le biais d’une inté
 </table>
 
 Documentation de l’API pour le vendeur : [https://developers.marketo.com/rest-api/lead-database/sales-persons/](http://developers.marketo.com/rest-api/lead-database/sales-persons/)\
-Documentation de l’API pour la synchronisation du Sales Person : [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/# !/Sales_Persons/syncSalesPersonsUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST)
+Documentation de l’API pour la synchronisation du Sales Person : [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST)
 
 1. Synchronisez les comptes Salesforce avec Marketo.
 
@@ -127,7 +127,7 @@ Documentation de l’API pour les Sociétés : [https://developers.marketo.com/r
 </table>
 
 Documentation de l’API pour les pistes : [`https://developers.marketo.com/rest-api/lead-database/leads/`](http://developers.marketo.com/rest-api/lead-database/leads/)\
-Documentation de l&#39;API pour la synchronisation des pistes :  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/# !/Leads/syncLeadUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
+Documentation de l&#39;API pour la synchronisation des pistes :  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
 
 1. Synchroniser les opportunités de Salesforce sur le marketing.
 
@@ -168,7 +168,7 @@ Documentation de l&#39;API pour l&#39;opportunité : [`https://developers.market
 
 1. Synchroniser les rôles de contact Salesforce avec Marketo.
 
-   Les rôles de contact Salesforce pour une opportunité Salesforce peuvent ensuite être synchronisés via le rôle Opportunité marketing. L&#39;enregistrement Rôle d&#39;opportunité requiert les champs *externalOpportunityId*, *role* et *leadId* .
+   Les rôles de contact Salesforce pour une opportunité Salesforce peuvent ensuite être synchronisés via le rôle Opportunité marketing. L&#39;enregistrement Rôle d&#39;opportunité requiert les champs *externalOpportunityId*, *role* et *leadId*.
 
 <table> 
  <colgroup> 
@@ -207,7 +207,7 @@ Documentation de l&#39;API pour l&#39;opportunité : [`https://developers.market
 
    Une fois que vos objets Salesforce sont correctement synchronisés sur Marketo, vous pouvez profiter des fonctionnalités MSI. Les champs MSI Dernier moment/Score intéressant seront exposés dans l’API REST pour les pistes. Ces champs sont calculés par MSI et sont en lecture seule.
 
-   Les champs Dernier moment/Score intéressant d&#39;une piste marketing devront être régulièrement synchronisés avec Salesforce à l&#39;aide du point de terminaison de piste de l&#39;API REST. Requête de ce point de terminaison pour une piste marketing à l&#39;aide de la variable *externalPersonId* en tant que filterType et transmission du GUID de piste Salesforce en tant que filterValue.
+   Les champs Dernier moment/Score intéressant d&#39;une piste marketing devront être régulièrement synchronisés avec Salesforce à l&#39;aide du point de terminaison de piste de l&#39;API REST. Requête de ce point de terminaison pour une piste marketing à l&#39;aide de *externalPersonId* en tant que filterType et en transmettant le GUID de piste Salesforce en tant que filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -228,7 +228,7 @@ Documentation de l&#39;API pour l&#39;opportunité : [`https://developers.market
   </tr> 
   <tr> 
    <td>msiLastInterestingMomentType</td> 
-   <td>Libellé : Last intéressant Moment<br>TypeName : Last_Intéesting_Moment_Type__c</td> 
+   <td>Libellé : Dernier moment intéressant Type<br>Nom : Last_Intéesting_Moment_Type__c</td> 
    <td>Type du dernier moment intéressant pour la piste</td> 
   </tr> 
   <tr> 
@@ -264,7 +264,7 @@ Documentation de l&#39;API pour l&#39;opportunité : [`https://developers.market
  </tbody> 
 </table>
 
-Documentation de l’API REST de piste :  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/# !/Leads/getLeadByIdUsingGET](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
+Documentation de l’API REST de piste :  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
 Une bonne utilisation des champs externes est essentielle pour une synchronisation non native réussie. Si les données de certaines vues ne s’affichent pas, il est probable qu’un certain champ n’ait pas été correctement synchronisé. Par exemple, si les activités d&#39;un prospect et les moments intéressants ne s&#39;affichent pas lors de la recherche dans le widget MSI sous son compte, il est probable que la société du prospect ou le compte n&#39;a pas été correctement synchronisé. L&#39;exécution d&#39;une demande de GET pour ce prospect lors de la spécification des champs externes vous aidera à vérifier si le prospect a été correctement synchronisé. En outre, le courrier électronique de la personne chargée des ventes externes dans Marketo doit correspondre à celui de cet utilisateur dans Salesforce. Les données peuvent ne pas s&#39;afficher dans l&#39;onglet Marketo de Salesforce si les courriels ne correspondent pas.
 
