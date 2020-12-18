@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création de groupes de champs personnalisés à l’aide de l’organiseur de champs {#create-custom-field-groups-using-the-field-organizer}
+# Créer des groupes de champs personnalisés à l’aide de l’organiseur de champs {#create-custom-field-groups-using-the-field-organizer}
 
 Avant de pouvoir activer des groupes de champs personnalisés pour le rapports dans la zone Analyse de performances du modèle de l&#39;Explorateur de cycles de recettes, vous devez classer les champs standard ou personnalisés en groupes pour le rapports via l&#39;organiseur de champs de la gestion des pistes de marketing. Cela ne s&#39;applique qu&#39;aux attributs de piste et de société.
 Lorsque vous sélectionnez un champ standard ou personnalisé dans la liste déroulante Champ de la boîte de dialogue Nouvelle organiseur de champs, le système mappe le type de données Gestion des pistes marketing associé au champ que vous souhaitez regrouper avec l&#39;un des trois éditeurs disponibles dans l&#39;organiseur de champs : chaîne, entier ou date.
@@ -36,11 +36,11 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
 ## Créer un groupe de champs personnalisé - Éditeur de chaînes {#create-custom-field-group-string-editor}
 
-1. Cliquez sur **Base de données** de pistes.
+1. Cliquez sur **Base de données de pistes**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Nouveau**, puis sélectionnez **Nouveau Gestionnaire de champs**.
+1. Cliquez sur **New**, puis sélectionnez **New Field Organizer**.
 
    ![](assets/two.png)
 
@@ -60,7 +60,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/five.png)
 
-1. Par défaut, toutes les valeurs de données sont placées dans le sous-groupe &quot;Autre&quot;. Pour classer les valeurs de données par catégorie, cliquez sur **Ajouter un groupe** pour créer un sous-groupe et lui donner un nom.
+1. Par défaut, toutes les valeurs de données sont placées dans le sous-groupe &quot;Autre&quot;. Pour classer les valeurs de données par catégorie, cliquez sur **Ajouter le groupe** pour créer un sous-groupe et lui donner un nom.
 
    >[!NOTE]
    >
@@ -90,13 +90,13 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
    >
    >Une fois les groupes définis, vous pouvez activer le groupe de champs personnalisé pour le rapports dans l&#39;Analyse des performances du modèle (Pistes) via l&#39;onglet Analyses du cycle de recettes de la gestion des pistes de marketing.
 
-## Créer un groupe de champs personnalisé - Editeur d’entiers {#create-custom-field-group-integer-editor}
+## Créer un groupe de champs personnalisé - Éditeur entier {#create-custom-field-group-integer-editor}
 
-1. Cliquez sur **Base de données** de pistes.
+1. Cliquez sur **Base de données de pistes**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Nouveau**, puis sélectionnez **Nouveau Gestionnaire de champs**.
+1. Cliquez sur **New**, puis sélectionnez **New Field Organizer**.
 
    ![](assets/two.png)
 
@@ -118,7 +118,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    L’éditeur d’entiers vous permet de créer plusieurs sous-groupes pour définir chaque sous-groupe par taille. Dans cet exemple, trois groupes seront créés pour les petites, moyennes et entreprises.
 
-1. Pour ajouter votre premier groupe, saisissez un nom dans le champ Nom **du** groupe (par exemple : Petit) et saisissez une valeur maximale dans le champ **Groupe de plage** (par exemple : 200000). Cliquez sur **Ajouter un groupe**.
+1. Pour ajouter votre premier groupe, saisissez un nom dans le champ **Nom du groupe** (par exemple : Petit) et saisissez une valeur maximale dans le champ **Groupe Plage** (exemple : 200000). Cliquez sur **Ajouter le groupe**.
 
    ![](assets/twelve.png)
 
@@ -144,13 +144,13 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
    >
    >Une fois les groupes définis, vous pouvez activer le groupe de champs personnalisé pour le rapports dans l&#39;Analyse des performances du modèle (Pistes) via l&#39;onglet Analyses du cycle de recettes de la gestion des pistes de marketing.
 
-## Créer un groupe de champs personnalisé - Editeur de date {#create-custom-field-group-date-editor}
+## Créer un groupe de champs personnalisé - Editeur de dates {#create-custom-field-group-date-editor}
 
-1. Cliquez sur **Base de données** de pistes.
+1. Cliquez sur **Base de données de pistes**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Nouveau**, puis sélectionnez **Nouveau Gestionnaire de champs**.
+1. Cliquez sur **New**, puis sélectionnez **New Field Organizer**.
 
    ![](assets/two.png)
 
@@ -172,7 +172,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    L’éditeur de dates vous permet de créer plusieurs sous-groupes et de définir chaque sous-groupe par date. Dans cet exemple, trois groupes seront créés : Pistes du premier trimestre, Pistes du deuxième trimestre et Pistes du quinzième trimestre et Pistes du troisième trimestre.
 
-1. Pour ajouter votre premier groupe, saisissez un nom dans le champ Nom **du** groupe (par exemple : Q1-15 Pistes) et saisissez une date dans le champ de date qui représente la date à laquelle la piste a été acquise au plus tard (exemple : 31/03/2015 pour le dernier jour du 1er trimestre 2015). Cliquez sur **Ajouter un groupe**.
+1. Pour ajouter votre premier groupe, saisissez un nom dans le champ **Nom du groupe** (par exemple : Q1-15 Pistes) et saisissez une date dans le champ de date qui représente la date à laquelle la piste a été acquise au plus tard (exemple : 31/03/2015 pour le dernier jour du 1er trimestre 2015). Cliquez sur **Ajouter le groupe**.
 
    ![](assets/sixteen.png)
 
