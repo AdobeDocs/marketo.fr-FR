@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Une fois que vous avez installé le package Enterprise dans Salesforce, vous pouvez installer les champs de événement Sales Connect dans votre section d&#39;historique des activités. Les champs de événement de connexion commerciale incluent des informations telles que des vues, des clics et des campagnes. Cela vous permet d&#39;avoir des informations sur vos courriels directement importés dans Salesforce.
 
-Assurez-vous de faire équipe avec votre administrateur Salesforce lors de l’exécution de ces étapes. Dans cet exemple, nous allons installer les champs sur la mise en page **des** pistes. Vous pouvez également installer les champs sur les mises en page des pages Contact, Compte et Opportunité. N&#39;oubliez pas que lorsque vous enregistrez des e-mails dans Comptes et opportunités, vous avez besoin du contact que vous envoyez par courriel associé à un rôle de contact.
+Assurez-vous de faire équipe avec votre administrateur Salesforce lors de l’exécution de ces étapes. Dans cet exemple, nous allons installer les champs sur la **Mise en page des pistes**. Vous pouvez également installer les champs sur les mises en page des pages Contact, Compte et Opportunité. N&#39;oubliez pas que lorsque vous enregistrez des e-mails dans Comptes et opportunités, vous avez besoin du contact que vous envoyez par courriel associé à un rôle de contact.
 
 1. Cliquez sur **Configuration**.
 1. Cliquez sur **Personnaliser**.
