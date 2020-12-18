@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modification d’une étiquette de champ dans un formulaire {#edit-a-field-label-in-a-form}
+# Modifier une étiquette de champ dans un formulaire {#edit-a-field-label-in-a-form}
 
 Vous pouvez changer l’étiquette d’un formulaire en n’importe quoi - vous pouvez même utiliser une image ou l’effacer complètement ! Voici comment le faire.
 
@@ -19,7 +19,7 @@ Vous pouvez changer l’étiquette d’un formulaire en n’importe quoi - vous 
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
@@ -29,7 +29,7 @@ Vous pouvez changer l’étiquette d’un formulaire en n’importe quoi - vous 
 
    >[!TIP]
    >
-   >Si vous souhaitez être chic, cliquez sur le ![](assets/image2014-9-15-17-3a27-3a7.png) >
+   >Si vous souhaitez être chic, vous pouvez cliquer sur le bouton   ![](assets/image2014-9-15-17-3a27-3a7.png)   >
    >
    > . Cela vous permettra d&#39;ouvrir un éditeur de texte enrichi et d&#39;aller en ville avec des images, des liens, et plus encore !
 
@@ -45,7 +45,7 @@ Vous pouvez changer l’étiquette d’un formulaire en n’importe quoi - vous 
 >
 >**Rappel**
 >
->N&#39;oubliez pas d&#39; [approuver le brouillon](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de landing page créé par les modifications du formulaire.
+>N&#39;oubliez pas [d&#39;approuver le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
 Voilà ! Petit à petit, vous devenez un champion de concepteur de formulaires.
 
