@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nous suivons les ouvertures des courriels en plaçant une image invisible dans les courriels que vous envoyez.
 
-Si quelqu&#39;un répond à votre courriel mais que Sales Connect indique qu&#39;il n&#39;a pas été consulté, il y a des chances que le destinataire l&#39;ait fait. `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
+Si quelqu&#39;un répond à votre courriel mais que Sales Connect indique qu&#39;il n&#39;a pas été consulté, il y a des chances que le destinataire l&#39;ait `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
 
 Quelques conseils pour obtenir de meilleures statistiques de suivi sur vos courriels :
 
