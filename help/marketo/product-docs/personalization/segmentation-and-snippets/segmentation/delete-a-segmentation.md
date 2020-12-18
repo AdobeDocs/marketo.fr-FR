@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’une segmentation {#delete-a-segmentation}
+# Supprimer une segmentation {#delete-a-segmentation}
 
 Vous pouvez supprimer une segmentation en procédant comme suit.
 
@@ -25,7 +25,7 @@ Vous pouvez supprimer une segmentation en procédant comme suit.
 
    Si votre segmentation est utilisée par d’autres ressources, supprimez toutes ces associations avant de continuer.
 
-1. Supprimez toutes les associations, puis, dans Actions **de** segmentation, cliquez sur **Désapprouver**.
+1. Supprimez toutes les associations, puis dans **Actions de segmentation** cliquez sur **Désapprouver**.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
