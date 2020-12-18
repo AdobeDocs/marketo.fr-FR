@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Créer une Liste de compte {#create-a-new-account-list}
+# Créer une nouvelle Liste de compte {#create-a-new-account-list}
 
 Créez et téléchargez une liste de noms d’organisation et de domaine pour cible de ces comptes clés avec des campagnes personnalisées.
 
 >[!NOTE]
 >
->Cet article s&#39;applique uniquement aux clients Web ABM hérités. Si vous avez acquis Web ABM après septembre 2016, suivez plutôt les étapes de [cet article](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) .
+>Cet article s&#39;applique uniquement aux clients Web ABM hérités. Si vous avez acquis Web ABM après septembre 2016, suivez plutôt les étapes décrites dans [cet article](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList).
 
-## Créer une Liste de compte {#create-a-new-account-list-1}
+## Créer une nouvelle Liste de compte {#create-a-new-account-list-1}
 
-1. Accédez à Listes **** de compte.
+1. Accédez à **Listes de compte**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Sélectionnez **Créer nouveau**.
+1. Sélectionnez **Créer**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Sélectionnez **Parcourir** et téléchargez votre fichier CSV (assurez-vous que le fichier CSV répond aux critères). Ajoutez un **nom** et une **description**. Cliquez sur **Enregistrer**.
+1. Sélectionnez **Parcourir** et téléchargez votre fichier CSV (assurez-vous que le fichier CSV répond aux critères). Ajoutez **Nom** et **Description**. Cliquez sur **Enregistrer**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -71,7 +71,7 @@ Créez et téléchargez une liste de noms d’organisation et de domaine pour ci
 
 ## Modifier une Liste de compte {#edit-an-account-list}
 
-Sur la page Listes **du** compte, cliquez sur l’icône **Modifier **sur la liste.
+Sur la page **Listes de compte**, cliquez sur l&#39;icône **Modifier **sur la liste.
 
 ![](assets/create-new-account-list-edit.jpg)
 
@@ -81,7 +81,7 @@ Sélectionnez **Parcourir** et téléchargez votre nouveau fichier CSV. Ce fichi
 
 Le fichier CSV remplace le fichier existant. La liste existante restera principale jusqu&#39;à ce que le traitement du nouveau fichier soit terminé.
 
-## Suppression d’une Liste de compte nommée {#delete-a-named-account-list}
+## Supprimer une Liste de compte nommée {#delete-a-named-account-list}
 
 1. Sur la page **Listes de compte **, cliquez sur l&#39;icône **Supprimer **de la liste à supprimer.
 
