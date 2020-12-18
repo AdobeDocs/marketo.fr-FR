@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Disponibilité**
 >
->Le reciblage de site Web relève désormais du volet Personnalisation Web. Si vous avez acheté uniquement le ciblage, ce volet s’affiche et vous accédez au produit Personnalisation Web avec **uniquement** les fonctions de ciblage activées. Vous avez ainsi accès aux paramètres du compte, à la page de reciblage, aux segments et aux pages de suivi supplémentaires.
+>Le reciblage de site Web relève désormais du volet Personnalisation Web. Si vous avez acheté uniquement le ciblage, cette mosaïque s’affiche et accédez au produit Personnalisation Web avec **uniquement** les fonctionnalités de ciblage activées. Vous avez ainsi accès aux paramètres du compte, à la page de reciblage, aux segments et aux pages de suivi supplémentaires.
 
 Cibles de remarketing qui ont déjà visité votre site par le passé avec des publicités affichées en fonction de leur identité et de ce qu’elles ont fait. Le reciblage personnalisé cible des audiences spécifiques avec des publicités pertinentes basées sur l’industrie, les comptes nommés et les données sur les personnes connues.
 
@@ -75,11 +75,11 @@ La personnalisation Web envoie les données suivantes aux plateformes de remarke
 
    ![](assets/two.png)
 
-1. Activez la configuration pour Facebook. Cliquez et développez l’accordéon Facebook, cliquez sur **On **pour envoyer le Événement et les données correspondants à l’Audience Manager Facebook. Cliquez sur **Enregistrer**.
+1. Activez la configuration pour Facebook. Cliquez et développez l’accordéon Facebook, cliquez sur **Sur **pour envoyer le Événement et les données correspondants à l’Audience Manager Facebook. Cliquez sur **Enregistrer**.
 
    >[!NOTE]
    >
-   >Pour que cette fonctionnalité fonctionne, vous devez avoir installé [Facebook Custom Audience](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Pixelelset sur votre site Web.
+   >Pour que cette fonctionnalité fonctionne, vous devez avoir [Facebook Custom Audience Pixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)installé votre site Web.
 
    ![](assets/three.png)
 
@@ -91,7 +91,7 @@ Une Audience segmentée vous permet de sélectionner un segment existant comme a
 >
 >Il n’est pas nécessaire de créer une Audience segmentée pour l’industrie ou d’autres données qui ont déjà été envoyées dans la configuration de domaine. Il est préférable d’utiliser des Audiences segmentées pour les segments basés sur des données de personne connue.
 
-1. Cliquez sur **Créer une Audience** segmentée.
+1. Cliquez sur **Créer une Audience segmentée**.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -99,7 +99,7 @@ Une Audience segmentée vous permet de sélectionner un segment existant comme a
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Cliquez sur **ENREGISTRER**.
+1. Cliquez sur **SAVE**.
 
    Vous avez maintenant terminé la configuration du reciblage dans la personnalisation Web, vous connectez à vos plateformes de reciblage et créez vos audiences en fonction de ces données et configurez vos campagnes publicitaires de reciblage.
 
