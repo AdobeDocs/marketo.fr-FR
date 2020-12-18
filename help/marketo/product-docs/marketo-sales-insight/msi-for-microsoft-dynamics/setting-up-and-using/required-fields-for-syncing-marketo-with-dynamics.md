@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Champs requis pour synchroniser le marketing avec Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-Ces champs *doivent* être synchronisés avec Marketo pour que le prospect et le contact pour Sales Insight fonctionnent :
+Ces champs *doivent* être synchronisés avec Marketo pour que le prospect et le contact pour que Sales Insight fonctionnent :
 
 * Priorité
 * Urgence
 * Note relative
 
-Si l’un de ces champs est manquant, un message d’erreur s’affiche dans Marketo avec le nom des champs manquants. Pour corriger ce problème, archivez votre instance afin de vous assurer que les champs sont synchronisés à la fois pour la **piste** et le **contact**. Sinon, ajoutez-les.
+Si l’un de ces champs est manquant, un message d’erreur s’affiche dans Marketo avec le nom des champs manquants. Pour corriger ce problème, archivez votre instance pour vous assurer que les champs sont synchronisés pour **Lead** et **Contact**. Sinon, ajoutez-les.
 
 Voici comment vérifier et ajouter des champs de synchronisation.
 
