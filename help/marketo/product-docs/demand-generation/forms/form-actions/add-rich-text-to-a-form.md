@@ -19,15 +19,15 @@ Utilisez le texte enrichi d’un formulaire pour ajouter des instructions ou d�
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Cliquez sur le signe **+** .
+1. Cliquez sur le signe **+**.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Sélectionnez Texte **** enrichi.
+1. Sélectionnez **Texte enrichi**.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -59,6 +59,6 @@ Utilisez le texte enrichi d’un formulaire pour ajouter des instructions ou d�
 >
 >**Plongée profonde**
 >
->En savoir plus sur [les formulaires](http://docs.marketo.com/display/docs/forms).
+>En savoir plus sur les [formulaires](http://docs.marketo.com/display/docs/forms).
 
-Saviez-vous que vous pouvez également [ajouter des règles](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) de visibilité à un bloc de texte enrichi ?
+Saviez-vous que vous pouvez également [ajouter des règles de visibilité](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) à un bloc de texte enrichi ?
