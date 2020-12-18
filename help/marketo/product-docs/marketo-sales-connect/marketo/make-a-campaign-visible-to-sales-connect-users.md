@@ -5,7 +5,7 @@ title: Rendre un Campaign visible pour les utilisateurs de Sales Connect
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Vo
 
    ![](assets/one.png)
 
-1. Cliquez sur l’onglet Liste **** intelligente.
+1. Cliquez sur l&#39;onglet **Liste intelligente**.
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Vo
 
    ![](assets/three.png)
 
-1. Pour la source, sélectionnez &quot;est&quot; API **du service** Web.
+1. Pour la source, sélectionnez &quot;is&quot; **API de service Web**.
 
    ![](assets/4.png)
 
-1. Cliquez sur l’onglet **Flux** .
+1. Cliquez sur l&#39;onglet **Flux**.
 
    ![](assets/five.png)
 
@@ -47,7 +47,7 @@ Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Vo
 
    ![](assets/eight.png)
 
-1. Cliquez sur l’onglet **Planification** et **activez** la campagne.
+1. Cliquez sur l&#39;onglet **Planification** et **Activer** la campagne.
 
    ![](assets/nine.png)
 
