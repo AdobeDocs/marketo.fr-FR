@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Clonage d’un analyseur de Programme {#clone-a-program-analyzer}
+# Cloner un analyseur de Programme {#clone-a-program-analyzer}
 
 Après avoir enregistré un analyseur, il est facile de le cloner pour en créer un nouveau. Ensuite, entrez et modifiez la nouvelle version si elle a besoin de modifications.
 
@@ -19,7 +19,7 @@ Après avoir enregistré un analyseur, il est facile de le cloner pour en créer
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Cliquez sur la mosaïque Analyseur **de** Programme.
+1. Cliquez sur la mosaïque **Analyseur de Programme**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
@@ -27,11 +27,11 @@ Après avoir enregistré un analyseur, il est facile de le cloner pour en créer
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Sélectionnez l’emplacement de l’analyseur cloné dans les listes déroulantes **Cloner vers** et **Dossier** .
+1. Sélectionnez l’emplacement de l’analyseur cloné dans les listes déroulantes **Cloner à** et **Dossier**.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
-1. Nommez l’analyseur cloné, puis cliquez sur **Cloner**.
+1. Nommez l’analyseur cloné et cliquez sur **Cloner**.
 
    ![](assets/image2016-10-31-16-3a15-3a15.png)
 
