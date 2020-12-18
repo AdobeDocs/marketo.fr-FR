@@ -23,11 +23,11 @@ Parcourez un rapport sur les performances des personnes pour afficher d’autres
 
    ![](assets/two.png)
 
-1. Cliquez sur **Zoom avant**.
+1. Cliquez sur **Liste déroulante**.
 
    ![](assets/three.png)
 
-1. Dans la fenêtre **déroulante** , sélectionnez l’attribut vers lequel vous souhaitez approfondir l’analyse. Cliquez ensuite sur** Drill-Down**.
+1. Dans la fenêtre contextuelle **Zoom déroulant**, sélectionnez l’attribut à atteindre. Cliquez ensuite sur** Drill-Down**.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Parcourez un rapport sur les performances des personnes pour afficher d’autres
 
    ![](assets/five.png)
 
-1. Pour enregistrer vos résultats (facultatif), cliquez sur l’icône **Exporter** située en bas à gauche.
+1. Pour enregistrer vos résultats (facultatif), cliquez sur l&#39;icône **Exporter** située dans le coin inférieur gauche.
 
    ![](assets/six.png)
 
