@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrage d’un rapport de performances de Landing page {#filter-a-landing-page-performance-report}
 
-Concentrez votre rapport [sur les performances des](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) landings page sur les landings page de vos programmes (ressources locales), ceux de Design Studio (ressources globales) ou ceux qui ont été archivés.
+Concentrez votre [rapport de performances de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) sur les landings page de vos programmes (ressources locales), sur ceux de Design Studio (ressources globales) ou sur ceux qui ont été archivés.
 
-1. Accédez à **Analytics** (ou Activités **** marketing).
+1. Accédez à **Analytics** (ou **Activités marketing**).
 
    ![](assets/analyticstile.png)
 
@@ -23,13 +23,13 @@ Concentrez votre rapport [sur les performances des](../../../../product-docs/dem
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. Cliquez sur l’onglet **Configuration** et faites glisser un filtre.
+1. Cliquez sur l&#39;onglet **Configuration** et faites glisser un filtre.
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Landings page Design Studio :** Ressources globales, gérées dans Design Studio.
-   * **Landings page des Activités marketing :** Actifs locaux dans les programmes de l’onglet Activités marketing.
-   * **Landings page archivés :** Landings page inactifs et retraités.
+   * **Landings page Design Studio : ressources** globales, gérées dans Design Studio.
+   * **Landings page des Activités marketing : ressources** locales dans les programmes sur l’onglet Activités marketing.
+   * **Landings page archivés :** inactifs, landings page retraités.
 
 1. Choisissez les dossiers et les landings page spécifiques à inclure dans votre rapport.
 
@@ -39,7 +39,7 @@ Concentrez votre rapport [sur les performances des](../../../../product-docs/dem
    >
    >Si vous sélectionnez un dossier, votre rapport inclura tout ce qu&#39;il contient au moment de son exécution.
 
-1. Vous avez fini ! Cliquez sur l’onglet **Rapport** pour afficher votre rapport filtré.
+1. Vous avez fini ! Cliquez sur l&#39;onglet **Rapport** pour afficher votre rapport filtré.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
 
@@ -47,5 +47,5 @@ Concentrez votre rapport [sur les performances des](../../../../product-docs/dem
 >
 >**Plongée profonde**
 >
->Découvrez tous les rapports dans le rapports [de](http://docs.marketo.com/display/docs/basic+reporting)base.
+>Découvrez tous les rapports dans le [rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
