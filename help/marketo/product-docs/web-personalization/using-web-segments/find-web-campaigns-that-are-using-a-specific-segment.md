@@ -18,15 +18,15 @@ Vous recherchez des campagnes Web qui utilisent un segment spécifique ?
 1. Accédez à **Segments**.\
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Recherchez un **segment**. Sélectionnez le nom **du** segment. Dans le panneau de droite, cliquez sur Campagnes **** associées pour vue des campagnes associées à ce segment spécifique.\
+1. Recherchez un **segment**. Sélectionnez **Nom du segment**. Dans le panneau de droite, cliquez sur **Campagnes associées** pour vue les campagnes associées à ce segment spécifique.\
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. Vue des **campagnes** associées au segment sélectionné.\
+1. Vue des **Campagnes** associées au segment sélectionné.\
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 
 >[!NOTE]
 >
 >**Plongée profonde**
 >
->En savoir plus sur [les segments](web-segments.md) et comment [créer un segment](create-a-basic-web-segment.md)de base.
+>En savoir plus sur les [segments](web-segments.md) et comment [créer un segment de base](create-a-basic-web-segment.md).
 
