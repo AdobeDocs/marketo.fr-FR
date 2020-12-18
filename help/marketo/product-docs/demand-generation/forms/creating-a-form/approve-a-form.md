@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Approbation d’un formulaire {#approve-a-form}
+# Approuver un formulaire {#approve-a-form}
 
 Pour ajouter un formulaire à l’un de vos landings page, il doit être approuvé. Voici comment le faire.
 
-## Approbation d’un formulaire {#approve-a-form-1}
+## Approuver un formulaire {#approve-a-form-1}
 
 Voici comment approuver un formulaire existant prêt à l&#39;emploi.
 
@@ -27,7 +27,7 @@ Voici comment approuver un formulaire existant prêt à l&#39;emploi.
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. Sous Actions **de** formulaire, cliquez sur **Approuver**.
+1. Sous **Actions de formulaire**, cliquez sur **Approuver**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -41,7 +41,7 @@ Voici comment approuver un formulaire existant prêt à l&#39;emploi.
    >
    >Les modifications effectuées après l’approbation peuvent prendre jusqu’à quatre minutes pour être mises à jour sur les formulaires incorporés.
 
-## Approuver un formulaire à partir de l’éditeur {#approve-a-form-from-the-editor}
+## Approuver un formulaire de l’éditeur {#approve-a-form-from-the-editor}
 
 Si vous apportez des modifications à un formulaire, vous pouvez approuver la page directement à partir de l’éditeur.
 
