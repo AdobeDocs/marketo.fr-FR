@@ -18,5 +18,5 @@ Pour ajouter une image ou un fichier GIF à votre courrier électronique, procé
 1. Ouvrez l’éditeur de modèles et cliquez sur l’icône d’image dans la barre d’outils.
 1. Faites glisser et déposez ou téléchargez votre image.
 1. Cliquez avec le doublon sur l’image pour la modifier ou ajouter un hyperlien.
-1. Lorsque vous avez terminé, cliquez sur **Mettre à jour** .
+1. Cliquez sur **Mettre à jour** lorsque vous avez terminé.
 
