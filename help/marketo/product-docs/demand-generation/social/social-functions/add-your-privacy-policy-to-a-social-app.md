@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Ajouter votre politique de confidentialité à une application Social {#add-your-privacy-policy-to-a-social-app}
 
-Lorsque vous créez une application [](http://docs.marketo.com/display/docs/social)sociale, vous pouvez ajouter un lien vers la politique de confidentialité de votre société.
+Lorsque vous créez une [application sociale](http://docs.marketo.com/display/docs/social), vous pouvez ajouter un lien vers la politique de confidentialité de votre société.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,7 +23,7 @@ Lorsque vous créez une application [](http://docs.marketo.com/display/docs/soci
 
    ![](assets/image2014-9-22-10-3a50-3a22.png)
 
-1. Dans l’éditeur d’applications sociales, accédez à Paramètres **de l’** application > Options **** avancées**.**
+1. Dans l’éditeur d’applications sociales, accédez à **Paramètres de l’application** > **Options avancées****.**
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
@@ -33,10 +33,10 @@ Lorsque vous créez une application [](http://docs.marketo.com/display/docs/soci
 
    >[!NOTE]
    >
-   >Dans cet écran, vous pouvez également ajouter un lien vers les règles (termes et conditions) de votre offre. Voir [Création d’une Offre](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)de référence.
+   >Dans cet écran, vous pouvez également ajouter un lien vers les règles (termes et conditions) de votre offre. Voir [Création d’une Offre de référence](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
 1. Le lien de la politique de confidentialité (et le lien des règles) s’affiche dans la partie inférieure des écrans de message de partage. Par exemple :
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-Ensuite, vous pouvez [configurer l’inscription sur les réseaux sociaux et le flux](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) de partage de votre application.
+Ensuite, vous pouvez [configurer l’inscription sociale et le flux de partage](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) de votre application.
