@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Pourquoi certains de mes contacts ne sont-ils pas envoyés à Sales Connect ? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-Si aucun contact n&#39;a été transféré, il est possible que vous ayez une connexion Salesforce non valide. Accédez à vos paramètres [](http://toutapp.com/next#settings/crm/salesforce/configure) Salesforce et déconnectez-vous, puis reconnectez-vous. Donnez-lui environ 20 minutes pour la réinitialiser complètement. S&#39;il reste zéro après cela, veuillez [soumettre un dossier](http://nation.marketo.com/community/support_solutions) à l&#39;assistance.
+Si aucun contact n&#39;a été transféré, il est possible que vous ayez une connexion Salesforce non valide. Accédez à vos [paramètres Salesforce](http://toutapp.com/next#settings/crm/salesforce/configure) et déconnectez-vous, puis reconnectez-vous. Donnez-lui environ 20 minutes pour la réinitialiser complètement. S&#39;il est toujours nul après cela, veuillez [soumettre un cas](http://nation.marketo.com/community/support_solutions) à l&#39;assistance.
