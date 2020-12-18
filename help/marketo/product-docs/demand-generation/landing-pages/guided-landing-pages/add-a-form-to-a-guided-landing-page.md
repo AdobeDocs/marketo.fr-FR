@@ -23,7 +23,7 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
 
 
 
-1. Accédez à la zone Activités **** marketing.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/one.png)
 
@@ -35,7 +35,7 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
    >
    >Les éléments disponibles dans les landings page guidés sont définis par le modèle. Si vous ne voyez pas de formulaire dans le panneau d’éléments, sélectionnez un nouveau modèle ou contactez votre créateur de modèles.
 
-1. Cliquez avec le doublon sur le **formulaire** dans le panneau d’éléments.
+1. Cliquez avec le doublon sur le **Formulaire** dans le panneau d’élément.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -61,4 +61,4 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Fermez l&#39;éditeur de landing page et [approuvez le brouillon](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)du landing page.
+Fermez maintenant l&#39;éditeur de landing page et [approuvez le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
