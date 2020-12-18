@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Mise à niveau de votre pack MSI {#upgrading-your-msi-package}
+# Mise à niveau de votre package MSI {#upgrading-your-msi-package}
 
-1. Accédez à [cette page dans l’échange](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)d’applications.
+1. Accédez à [cette page dans appexchange](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 1. Connectez-vous à votre instance Salesforce (celle connectée à votre instance Marketo, peut être un sandbox ou une production) à partir du coin supérieur droit de la page à partir de l’étape 1. Vous devez disposer des droits d’administrateur pour installer/mettre à niveau un package géré dans Salesforce.
-1. Cliquez sur le bouton **Obtenir maintenant** . Vous serez invité à choisir l’emplacement d’installation. Vous aurez la possibilité de procéder à la mise à niveau car vous disposez déjà d’une version précédente de MSI. Choisissez une option en fonction du compte auquel vous vous êtes connecté lors de la première étape.
+1. Cliquez sur le bouton **Obtenir maintenant**. Vous serez invité à choisir l’emplacement d’installation. Vous aurez la possibilité de procéder à la mise à niveau car vous disposez déjà d’une version précédente de MSI. Choisissez une option en fonction du compte auquel vous vous êtes connecté lors de la première étape.
 
    >[!TIP]
    >
