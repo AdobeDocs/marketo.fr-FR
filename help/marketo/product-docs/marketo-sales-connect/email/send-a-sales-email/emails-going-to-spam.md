@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Courriers électroniques pointant vers les messages indésirables {#emails-going-to-spam}
+# Courriers électroniques pointant vers le courrier indésirable {#emails-going-to-spam}
 
 Nous travaillons très dur pour nous assurer que nos taux de livraison restent élevés. Néanmoins, certains comportements d’utilisateur peuvent faire acheminer des courriers électroniques vers le dossier Spam.
 
