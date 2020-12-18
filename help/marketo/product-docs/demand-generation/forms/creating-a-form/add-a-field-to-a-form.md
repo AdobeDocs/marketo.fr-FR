@@ -19,11 +19,11 @@ Une fois que vous avez [créé votre formulaire](create-a-form.md) et [sélectio
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/editform-1.png)
 
-1. Cliquez sur le signe **+** .
+1. Cliquez sur le signe **+**.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -49,4 +49,4 @@ Une fois que vous avez [créé votre formulaire](create-a-form.md) et [sélectio
 >
 >Veillez à approuver les brouillons de landing page créés en raison des modifications apportées au formulaire.
 
-Pas mal du tout. Continuez votre bon travail ! Que diriez-vous d’apprendre à [créer un champ de formulaire requis](make-a-form-field-required.md) ensuite ?
+Pas mal du tout. Continuez votre bon travail ! Que diriez-vous d&#39;apprendre à [créer un champ de formulaire requis](make-a-form-field-required.md) ensuite ?
