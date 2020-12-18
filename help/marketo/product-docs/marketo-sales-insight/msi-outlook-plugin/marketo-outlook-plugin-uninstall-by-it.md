@@ -41,4 +41,4 @@ Pour spécifier l’emplacement des fichiers journaux, vous pouvez spécifier le
 >
 >La désinstallation du module externe à distance entraîne la fermeture forcée d&#39;Outlook sur l&#39;ordinateur de l&#39;utilisateur.
 
-Veuillez consulter la liste complète des commutateurs [de](https://support.microsoft.com/en-us/kb/227091) Microsoft si vous souhaitez essayer différents niveaux de journalisation ou niveaux d&#39;interface utilisateur.
+Veuillez consulter [la liste complète des commutateurs](https://support.microsoft.com/en-us/kb/227091) de Microsoft si vous souhaitez essayer différents niveaux de journalisation ou niveaux d&#39;interface utilisateur.
