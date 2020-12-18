@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modification de l’heure d’expiration des URL dans les courriers électroniques des rapports {#change-the-expiration-time-for-urls-in-report-emails}
+# Modifier l’heure d’expiration des URL dans les courriers électroniques des rapports {#change-the-expiration-time-for-urls-in-report-emails}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Les liens des courriers électroniques de votre abonnement de rapports expirent au bout de trois jours. Pour modifier le délai d’expiration de ces liens, procédez comme suit.
 
-1. Sous **Admin**, cliquez sur Paramètres **de** connexion.
+1. Sous **Admin**, cliquez sur **Paramètres de connexion**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
