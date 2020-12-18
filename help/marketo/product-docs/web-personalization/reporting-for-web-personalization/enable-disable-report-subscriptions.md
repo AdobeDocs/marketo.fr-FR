@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La personnalisation Web comporte plusieurs rapports utiles qui sont envoyés par courriel. Voici comment s&#39;y abonner.
 
-1. Connectez-vous à la personnalisation Web. Sous votre nom de connexion, cliquez sur Paramètres **** utilisateur.
+1. Connectez-vous à la personnalisation Web. Sous votre nom de connexion, cliquez sur **Paramètres utilisateur**.
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
