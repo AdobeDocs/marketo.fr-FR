@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Il est facile de voir comment se comportent vos notifications Push.
 
-1. Accédez à la zone Activités **** marketing.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -33,7 +33,7 @@ Il est facile de voir comment se comportent vos notifications Push.
 
    >[!NOTE]
    >
-   >La mesure **Envoyé** peut refléter plus d’envois que le nombre exact de personnes à qui la notification Push a été envoyée. C&#39;est parce qu&#39;il est calculé en fonction du *nombre d&#39;appareils* qui peuvent recevoir votre message push. Par exemple, si une seule personne possède trois dispositifs, le tableau de bord en enregistre trois, pas un.
+   >La mesure **Envoyé** peut refléter plus d&#39;envois que le nombre exact de personnes auxquelles la notification Push a été envoyée. En effet, il est calculé en fonction du *nombre de périphériques* pouvant recevoir votre notification Push. Par exemple, si une seule personne possède trois dispositifs, le tableau de bord en enregistre trois, pas un.
 
    >[!NOTE]
    >
