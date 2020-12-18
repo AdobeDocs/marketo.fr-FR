@@ -43,7 +43,7 @@ Vos meilleurs paris sont vos pistes et contacts avec la plus grande urgence et l
 
 >[!NOTE]
 >
->Si vos meilleurs paris ne correspondent pas aux meilleurs pistes et contacts que vous détenez, contactez un membre de votre société qui a accès à Marketing pour connaître les mises à jour de vos règles [de](../../../../../getting-started/quick-wins/simple-scoring.md)score.
+>Si vos meilleurs paris ne correspondent pas aux meilleures pistes et contacts que vous détenez, contactez un membre de votre société qui a accès à Marketing pour savoir comment mettre à jour vos [règles de score](../../../../../getting-started/quick-wins/simple-scoring.md).
 
 ### Calcul de l’urgence et de la note relative
 
