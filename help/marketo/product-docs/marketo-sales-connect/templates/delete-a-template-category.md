@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’une Catégorie de modèle {#delete-a-template-category}
+# Supprimer une Catégorie de modèle {#delete-a-template-category}
 
 1. Cliquez sur l’icône de menu en regard d’une catégorie, puis sur **Supprimer**.
 1. Cliquez sur **Supprimer **pour confirmer.
