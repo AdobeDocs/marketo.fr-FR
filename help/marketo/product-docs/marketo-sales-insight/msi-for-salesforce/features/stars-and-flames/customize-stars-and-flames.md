@@ -29,25 +29,25 @@ Marketo Sales Insight utilise des étoiles et des flammes pour classer les piste
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Sous la section Paramètres **de score de** piste, cliquez sur **Modifier**.
+1. Sous la section **Paramètres de score de piste**, cliquez sur **Modifier**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. Sélectionnez la méthode **** de score de votre choix.
+1. Sélectionnez la **méthode de score** de votre choix.
 
    >[!NOTE]
    >
    >**Définition**
    >
    >
-   >**Dynamique** - Valeur en pourcentage dérivée des données [](priority-urgency-relative-score-and-best-bets.md)relatives. C&#39;est génial. Cette méthode est recommandée.
+   >**Dynamique**  - Valeur en pourcentage dérivée des données [ ](priority-urgency-relative-score-and-best-bets.md)relatives. C&#39;est génial. Cette méthode est recommandée.
    >
    >
-   >**Statique** - Vous permet de définir des scores exacts - plus de pourcentages, plus de sauces secrètes.
+   >**Statique**  - Permet de définir des numéros de score exacts - plus de pourcentages, plus de sauces secrètes.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. Modifiez les crochets de pourcentage selon vos préférences et **enregistrez**.
+1. Modifiez les crochets de pourcentage selon vos préférences et **Enregistrez**.
 
    >[!TIP]
    >
