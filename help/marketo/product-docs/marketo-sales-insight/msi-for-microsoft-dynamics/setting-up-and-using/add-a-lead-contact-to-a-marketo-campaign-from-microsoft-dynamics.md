@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez ajouter rapidement et facilement des pistes/contacts à des campagnes dynamiques Marketing Cloud directement depuis Microsoft Dynamics. Voici comment.
 
-1. Dans Dynamics, accédez à la zone **Sales** .
+1. Dans Dynamics, accédez à la zone **Sales**.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -31,12 +31,12 @@ Vous pouvez ajouter rapidement et facilement des pistes/contacts à des campagne
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
-1. Sélectionnez la campagne marketing à laquelle vous souhaitez ajouter les pistes ou contacts et cliquez sur **Ajouter**.
+1. Sélectionnez la campagne marketing à laquelle vous souhaitez ajouter les pistes ou contacts, puis cliquez sur **Ajouter**.
 
    ![](assets/image2014-10-20-12-3a10-3a42.png)
 
    >[!NOTE]
    >
-   >Pour que la campagne s’affiche dans la liste déroulante, utilisez le déclencheur [**** Campaign is Requested](http://docs.marketo.com/pages/viewpage.action?pageId=7514898)(est demandé), avec Sales Insight comme source, lorsque vous configurez la campagne.
+   >Pour que la campagne s’affiche dans la liste déroulante, utilisez le déclencheur [**Campaign is Requested**](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), avec Sales Insight comme source, lorsque vous configurez la campagne.
 
 Et c&#39;est tout le monde ! Vous disposez maintenant de la puissance des campagnes intelligentes de Marketo dans vos mains directement à partir de Dynamics.
