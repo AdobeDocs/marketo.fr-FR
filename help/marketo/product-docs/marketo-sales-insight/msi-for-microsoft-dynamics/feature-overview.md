@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les fonctionnalités suivantes sont disponibles dans la nouvelle solution MSI MSD.
 
-## Panneau Aperçu commercial dans la mise en page des pistes  {#marketo-sales-insight-panel-in-lead-layout}
+## Panneau Aperçu commercial dans la mise en page des pistes {#marketo-sales-insight-panel-in-lead-layout}
 
 * Stars &amp; Flames
 * Moment intéressant
@@ -23,24 +23,24 @@ Les fonctionnalités suivantes sont disponibles dans la nouvelle solution MSI MS
 * Score
 * Courriel (ouvrir et cliquer)
 
-## Champs personnalisés de Marketing-to Sales Insight dans la mise en page des pistes  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## Champs personnalisés de Marketing Sales Insight dans la disposition des pistes {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * Note de piste
 * Note relative
 * Priorité
 * Urgence
 
-## Bouton d&#39;appel à l&#39;action d&#39;Insight commercial dans la mise en page des pistes  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## Bouton d&#39;appel à l&#39;action d&#39;Insight commercial dans la mise en page des pistes {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Ajouter à Marketo Campaign
 * Envoyer un courriel marketing
 
-## Bouton d&#39;action en bloc de Marketing to Sales Insight dans la vue de liste de piste  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## Bouton d&#39;action en bloc de Marketo Sales Insight dans la vue de liste de piste {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * Ajouter à Marketo Campaign
 * Envoyer un courriel marketing
 
-## Panneau Aperçu commercial dans la mise en page Contact  {#marketo-sales-insight-panel-in-contact-layout}
+## Panneau Aperçu commercial dans la mise en page Contact {#marketo-sales-insight-panel-in-contact-layout}
 
 * Stars &amp; Flames
 * Moment intéressant
@@ -48,24 +48,24 @@ Les fonctionnalités suivantes sont disponibles dans la nouvelle solution MSI MS
 * Score
 * Courriel (ouvrir et cliquer)
 
-## Champs personnalisés de Marketing-to Sales Insight dans la disposition Contact  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## Champs personnalisés de Marketing to Sales Insight dans la disposition Contact {#marketo-sales-insight-custom-fields-in-contact-layout}
 
 * Note de piste
 * Note relative
 * Priorité
 * Urgence
 
-## Bouton d’appel à l’action d’Insight commercial dans la mise en page Contact  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## Bouton d&#39;appel à l&#39;action d&#39;Insight commercial dans la mise en page Contact {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * Ajouter à Marketo Campaign
 * Envoyer un courriel marketing
 
-## Bouton d&#39;action en bloc de Marketing to Sales Insight dans la vue de listes de contact  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## Bouton d&#39;action en bloc de Marketing Cloud Sales Insight dans la vue de la liste de contact {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * Ajouter à Marketo Campaign
 * Envoyer un courriel marketing
 
-## Page Meilleurs paris marketing  {#marketo-best-bets-page}
+## Page Meilleurs paris marketing {#marketo-best-bets-page}
 
 * Priorité (étoiles et flammes)
 * Nom (Hyperlié à la page de piste/contact)
