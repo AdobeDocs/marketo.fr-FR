@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation de la zone d&#39;Analyse du courrier électronique {#understanding-the-email-analysis-area}
+# Présentation de la zone d&#39;Analyse de courriel {#understanding-the-email-analysis-area}
 
 La zone d’Analyse des courriels est axée sur les mesures des courriels. Cet article présente tous les rapports disponibles.
 
@@ -19,21 +19,21 @@ La zone d’Analyse des courriels est axée sur les mesures des courriels. Cet a
 >
 >**Disponibilité**
 >
->Cette option est disponible pour les utilisateurs disposant de l’édition Select ou du module complémentaire [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) . Contactez votre représentant commercial pour plus de détails.
+>Cette option est disponible pour les utilisateurs disposant de l’édition Select ou du module complémentaire [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Contactez votre représentant commercial pour plus de détails.
 
-## Grille de chaleur des Activités de clic électronique {#email-click-activity-heat-grid}
+## Grille de chaleur d&#39;Activité de clic électronique {#email-click-activity-heat-grid}
 
 Ce rapport vous montre le jour de la semaine et l&#39;heure à laquelle vos prospects cliquent sur les courriels. Plus la zone est verte, plus le nombre de clics est élevé dans ce jour et cette heure spécifiques. Le filtre actuel inclut tous les courriers électroniques envoyés au cours des 7 derniers jours. Le temps est compté au CST.
 
 ![](assets/image2015-5-6-17-3a17-3a34.png)
 
-## Répartition du temps par courriel cliqué {#email-clicked-time-distribution}
+## Distribution de temps après clic par courriel {#email-clicked-time-distribution}
 
 Ce rapport présente le pourcentage du nombre total de clics par courriel pour chaque heure de la journée. Le filtre actuel inclut tous les courriers électroniques envoyés au cours des 7 derniers jours. Le temps est compté au CST.
 
 ![](assets/image2015-5-6-17-3a20-3a55.png)
 
-## Décalage du taux de clics par courriel {#email-click-rate-decay}
+## Baisse du taux de clics par courriel {#email-click-rate-decay}
 
 Ce rapport présente le pourcentage de clics par courriel effectués le même jour que l’envoi d’un courriel et les jours suivants. Le filtre actuel inclut tous les courriers électroniques envoyés il y a 7 jours.
 
@@ -45,13 +45,13 @@ Ce rapport vous montre le jour de la semaine et l&#39;heure d&#39;ouverture des 
 
 ![](assets/image2015-5-6-17-3a30-3a35.png)
 
-## Décadrage de taux ouvert {#open-rate-decay}
+## Décalage de taux ouvert {#open-rate-decay}
 
 Ce rapport indique le pourcentage du nombre total d’ouvertures de courrier électronique survenues le jour même de l’envoi d’un courrier électronique et les jours suivants. Le filtre actuel inclut tous les courriers électroniques envoyés il y a 7 jours.
 
 ![](assets/image2015-5-6-17-3a37-3a25.png)
 
-## Distribution de temps ouvert {#open-time-distribution}
+## Répartition des heures ouvertes {#open-time-distribution}
 
 Ce rapport montre le pourcentage du nombre total d&#39;ouvertures de courrier électronique pour chaque heure de la journée. Le filtre actuel inclut tous les courriers électroniques envoyés au cours des 7 derniers jours. Le temps est compté au CST.
 
