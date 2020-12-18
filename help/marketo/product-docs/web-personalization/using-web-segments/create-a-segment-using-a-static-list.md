@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Création d’un segment à l’aide d’une Liste statique {#create-a-segment-using-a-static-list}
 
-Segmentez les visiteurs Web connus lorsqu’ils visitent votre site Web en fonction de leur présence ou non dans l’une de vos listes [](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists)statiques MarketingTo.
+Segmentez les visiteurs Web connus lorsqu’ils visitent votre site Web selon s’ils se trouvent ou non dans l’une de vos [listes statiques ](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists) du marketing.
 
 1. Accédez à **Segments**.
 
@@ -31,15 +31,15 @@ Segmentez les visiteurs Web connus lorsqu’ils visitent votre site Web en fonct
 
    ![](assets/four-2.png)
 
-1. Cliquez sur la liste déroulante pour sélectionner **est** ou **n’est pas** (selon ce que vous voulez) et entrez le nom de votre liste statique.
+1. Cliquez sur la liste déroulante pour sélectionner **is** ou **is not** (selon ce que vous voulez), et entrez le nom de votre liste statique.
 
    ![](assets/five-2.png)
 
-1. Pour ajouter plusieurs listes, vous devez créer une nouvelle ligne pour chacune d’elles en cliquant sur le **+**. Si vous ne souhaitez qu’une seule liste, passez à l’ [étape 8](#eight).
+1. Pour ajouter plusieurs listes, vous devez créer une nouvelle ligne pour chacune d’elles en cliquant sur **+**. Si vous ne souhaitez qu’une seule liste, passez à [Étape 8](#eight).
 
    ![](assets/six-1.png)
 
-1. Pour plusieurs listes (ou plusieurs listes &quot;n’est pas&quot;), répétez les étapes que vous avez apprises à l’ [étape 5](#five).
+1. Pour plusieurs listes (ou plusieurs listes &quot;n’est pas&quot;), répétez les étapes que vous avez apprises à l’[étape 5](#five).
 
    ![](assets/seven-2.png)
 
