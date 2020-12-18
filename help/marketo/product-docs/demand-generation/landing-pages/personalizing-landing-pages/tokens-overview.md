@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présentation des jetons {#tokens-overview}
 
-Un jeton est une variable qui peut être utilisée dans les étapes de flux de campagne [](http://docs.marketo.com/display/DOCS/Smart+Campaigns) intelligente de Marketo, les [courriels](http://docs.marketo.com/display/DOCS/General), les [landings page](http://docs.marketo.com/display/DOCS/Landing+Pages), les [fragments et les campagnes Web.](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)[](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)
+Un jeton est une variable qui peut être utilisée dans les étapes de flux de campagne [ intelligente de Marketo, ](http://docs.marketo.com/display/DOCS/Smart+Campaigns)e-mails[, ](http://docs.marketo.com/display/DOCS/General)landings page[, ](http://docs.marketo.com/display/DOCS/Landing+Pages)extraits[ et ](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)campagnes Web[.](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)
 
 ## Présentation des valeurs par défaut {#understanding-default-values}
 
@@ -87,7 +87,7 @@ Dans cet exemple, le courrier électronique indique &quot;Salutations (prénom)&
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* Les champs de personne personnalisés fonctionnent également si vous utilisez leur nom d’affichage, par exemple : `{{lead.Custom Field Name}}`
+* Les champs de personne personnalisés fonctionnent également si vous utilisez leur nom d’affichage, par exemple `{{lead.Custom Field Name}}`
 
 ## Jetons de société {#company-tokens}
 
@@ -122,7 +122,7 @@ Dans cet exemple, le courrier électronique indique &quot;Salutations (prénom)&
 
 >[!NOTE]
 >
->Pour en savoir plus sur ces jetons, consultez le glossaire [des jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)système.
+>Pour en savoir plus sur ces jetons, consultez le [glossaire des jetons système](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ Dans cet exemple, le courrier électronique indique &quot;Salutations (prénom)&
 
 >[!NOTE]
 >
->Pour en savoir plus sur les [jetons, vous pouvez découvrir des moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) intéressants en fonction des déclencheurs utilisés dans une campagne dynamique.
+>Pour plus d&#39;informations sur les jetons [pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) en fonction des déclencheurs utilisés dans une campagne dynamique,
 
 ## Jetons de programme {#program-tokens}
 
@@ -165,10 +165,10 @@ Mes jetons sont définis dans un programme et commencent par `{{my.` suivi du no
 
 ## Jeton de membre {#member-token}
 
-Les jetons de membre sont utilisés pour insérer des valeurs uniques provenant de partenaires de services intégrés. Les jetons de membre sont couramment utilisés pour les URL uniques des participants au webinaire. Chaque personne dispose d’une URL unique pour accéder au webinaire qui peut être inséré à l’aide d’un `{{member.webinar url}}` jeton. Le `{{member.webinar url}}` jeton résout automatiquement l’URL de confirmation unique générée par le prestataire.
+Les jetons de membre sont utilisés pour insérer des valeurs uniques provenant de partenaires de services intégrés. Les jetons de membre sont couramment utilisés pour les URL uniques des participants au webinaire. Chaque personne dispose d’une URL unique pour accéder au webinaire qui peut être insérée à l’aide d’un jeton `{{member.webinar url}}`. Le jeton `{{member.webinar url}}` résout automatiquement l’URL de confirmation unique de la personne générée par le prestataire.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->Le `{{member.webinar url}}` jeton n’est renseigné que si la campagne dynamique qui envoie le courriel est une ressource enfant du Programme de Événement.
+>Le jeton `{{member.webinar url}}` ne sera renseigné que si la campagne dynamique qui envoie le courriel est un actif enfant du Programme de Événement.
