@@ -14,8 +14,8 @@ ht-degree: 0%
 # Comment personnaliser le résultat de l&#39;appel dans le téléphone de vente {#how-to-customize-the-call-outcome-in-sales-phone}
 
 1. Accédez à la page Configuration de Salesforce.
-1. Cliquez sur **Personnaliser**, **Activités** et sélectionnez Champs **de** Tâche.
-1. Cliquez dans le champ **Objet** .
+1. Cliquez sur **Personnaliser**, **Activités**, puis sélectionnez **Champs de Tâche**.
+1. Cliquez dans le champ **Objet**.
 1. A partir de là, vous pouvez ajouter/supprimer/réorganiser toutes les options.
 1. Vous verrez ensuite cette liste personnalisée dans Sales Connect lors de l&#39;exécution d&#39;un appel.
 
