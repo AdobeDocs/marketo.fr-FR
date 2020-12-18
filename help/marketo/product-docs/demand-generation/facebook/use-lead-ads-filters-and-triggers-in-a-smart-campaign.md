@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Lorsque vous avez activé les annonces de pistes Facebook, vous pouvez les utiliser dans vos campagnes dynamiques pour identifier la réussite des programmes. Lorsque les utilisateurs envoient leurs informations dans une unité d&#39;annonce de piste Facebook, les informations sont immédiatement transmises au marketing.
 
-1. Utilisez le filtre ou le déclencheur **Remplit le formulaire** Publicités de piste.
+1. Utilisez le filtre ou le déclencheur **Remplit le formulaire de publicité de piste**.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 
