@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Clonage d’un extrait de code {#clone-a-snippet}
+# Cloner un extrait de code {#clone-a-snippet}
 
 Cloner un extrait de code pour en créer une copie que vous pouvez modifier en fonction de vos besoins.
 
-1. Rendez-vous au **Design Studio.**
+1. Accédez à **Design Studio.**
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
@@ -23,7 +23,7 @@ Cloner un extrait de code pour en créer une copie que vous pouvez modifier en f
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. Entrez les détails de l&#39;extrait de code et cliquez sur **Cloner**.
+1. Saisissez les détails du fragment de code et cliquez sur **Clone**.
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 
