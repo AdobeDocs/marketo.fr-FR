@@ -23,7 +23,7 @@ Suivez ces étapes simples pour planifier un courriel.
 
    ![](assets/one-1.png)
 
-1. Lorsque vous avez terminé de composer votre courrier électronique, cliquez sur **Planifier** en bas à droite.
+1. Lorsque vous avez terminé de rédiger votre courrier électronique, cliquez sur **Planifier** en bas à droite.
 
    ![](assets/two-1.png)
 
