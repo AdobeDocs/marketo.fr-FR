@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’un groupe {#delete-a-group}
+# Supprimer un groupe {#delete-a-group}
 
 1. Entrez dans le groupe à supprimer, puis cliquez sur **Actions**.
 1. Sélectionnez **Supprimer le groupe** dans la liste déroulante.
