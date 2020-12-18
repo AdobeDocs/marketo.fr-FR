@@ -23,11 +23,11 @@ Vous pouvez envoyer des SMS aux personnes de vos listes Vibes et utiliser l&#39;
 >
 >Vous avez besoin à la fois des autorisations d’administrateur de Marketing Cloud et d’un compte Vibes principal pour terminer cette configuration. Les informations d’identification demandées à l’étape 4 ci-dessous sont celles de votre compte Vibes.
 
-1. Dans Mon marketing, cliquez sur **Admin** , puis sur **LaunchPoint**.
+1. Dans Mon marketing, cliquez sur **Admin**, puis sur **LaunchPoint**.
 
    ![](assets/image2016-7-27-9-3a31-3a17.png)
 
-1. Cliquez sur **Nouveau** et **Nouveau service**.
+1. Cliquez sur **New** et **New Service**.
 
    ![](assets/image2016-7-27-9-3a34-3a25.png)
 
