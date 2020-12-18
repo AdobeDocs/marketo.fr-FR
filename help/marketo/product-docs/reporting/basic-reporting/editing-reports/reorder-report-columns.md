@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vous pouvez modifier l&#39;ordre des colonnes d&#39;un rapport.
 
-1. Accédez à la zone Activités **** marketing (ou **Analytics**).
+1. Accédez à la zone **Activités marketing** (ou **Analytics**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Sélectionnez votre rapport dans l&#39;arborescence de navigation, puis cliquez sur l&#39;onglet **Rapport** .
+1. Sélectionnez votre rapport dans l&#39;arborescence de navigation, puis cliquez sur l&#39;onglet **Rapport**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -47,5 +47,5 @@ Vous pouvez modifier l&#39;ordre des colonnes d&#39;un rapport.
    >**Plongée profonde**
    >
    >
-   >Découvrez toute la puissance de l&#39;utilisation des rapports dans le Rapports [de](http://docs.marketo.com/display/docs/basic+reporting)base.
+   >Découvrez toute la puissance de l&#39;utilisation des rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
