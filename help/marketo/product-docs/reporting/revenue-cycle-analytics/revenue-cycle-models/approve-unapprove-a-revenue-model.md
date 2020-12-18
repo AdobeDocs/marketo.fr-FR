@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Approbation/désapprobation d&#39;un modèle de recettes {#approve-unapprove-a-revenue-model}
+# Approuver/désapprouver un modèle de recettes {#approve-unapprove-a-revenue-model}
 
 Vous ne pouvez avoir qu&#39;un seul modèle approuvé à un moment donné.
 
 >[!CAUTION]
 >
->[Les étapes individuelles doivent être approuvées](approving-stages-and-assigning-leads-to-a-revenue-model.md) et les personnes ajoutées avant d’approuver un modèle entier.
+>[Les étapes individuelles doivent être ](approving-stages-and-assigning-leads-to-a-revenue-model.md) approuvées et des personnes ajoutées avant d’approuver un modèle entier.
 
 ## Approuver {#approve}
 
-1. Accédez à la zone **Analytics** .
+1. Accédez à la zone **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,7 +29,7 @@ Vous ne pouvez avoir qu&#39;un seul modèle approuvé à un moment donné.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Dans le menu Actions **du** modèle, choisissez **Approuver le modèle**.
+1. Dans le menu **Actions du modèle**, choisissez **Approuver le modèle**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
@@ -45,7 +45,7 @@ Votre modèle est maintenant en ligne !
 >
 >Si vous n&#39;approuvez pas votre modèle, toutes vos personnes sont supprimées du modèle, et leur historique dans le modèle est supprimé !
 
-1. Accédez à la zone **Analytics** .
+1. Accédez à la zone **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ Votre modèle est maintenant en ligne !
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Cliquez sur le menu Actions **du** modèle et choisissez **Désapprouver le modèle**.
+1. Cliquez sur le menu **Actions du modèle** et choisissez **Désapprouver le modèle**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. Dans la boîte de dialogue qui s&#39;affiche, cliquez sur **Désapprouver le modèle**.
+1. Dans la boîte de dialogue qui s’affiche, cliquez sur **Annuler l’approbation du modèle**.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 
