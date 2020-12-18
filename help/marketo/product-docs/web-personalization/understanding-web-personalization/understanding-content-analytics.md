@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation de l’analyse de contenu {#understanding-content-analytics}
+# Présentation de l&#39;analyse de contenu {#understanding-content-analytics}
 
 La page Analyse de contenu affiche le contenu existant que vous avez découvert (études de cas, publications de blog, vidéos, communiqués de presse, etc.) sur votre site Web. Il affiche également les performances de votre contenu et des personnes générées lorsque les visiteurs interagissent avec eux.
 
@@ -48,7 +48,7 @@ Le tableau Analytics fournit les détails suivants :
    <td colspan="1" rowspan="1">Nom de la ressource de contenu numérique. Cliquez sur <strong>Titre</strong> pour ouvrir l’URL de contenu dans un nouvel onglet.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Icône </strong><strong>de recommandation</strong></p><p><strong><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Icône  </strong><strong>de recommandation</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">Indique si l’élément de contenu a été ajouté pour <a href="#">Content Recommendations</a>.</td> 
   </tr> 
   <tr> 
@@ -60,11 +60,11 @@ Le tableau Analytics fournit les détails suivants :
    <td colspan="1" rowspan="1">Visiteurs Web qui ont affiché le contenu et rempli un formulaire au cours de la même visite</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Icône Analytics</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Icône Analytics</strong></p><p><strong><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">Obtenir davantage d'analyses sur l'élément de contenu</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Supprimer l'icône</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
+   <td colspan="1"><p><strong>Supprimer l'icône</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
    <td colspan="1">Supprime le contenu d’Analytics de contenu</td> 
   </tr> 
  </tbody> 
@@ -84,15 +84,15 @@ Les analyses de contenu supplémentaires incluent :
 
 **Analytics**
 
-* **Vues**: Vues de cet élément de contenu pour la période sélectionnée
+* **Vues** : Vues de cet élément de contenu pour la période sélectionnée
 * **Conversions** directes : Visiteurs Web qui ont affiché le contenu et rempli un formulaire au cours de la même visite.
 * **taux de conversion**** :** taux de conversion en pourcentage calculé par les conversions directes divisées par les clics
 
 **Tendances**
 
-* Graphique **Tendances** montrant les 30 derniers jours de vues de l’élément de contenu spécifique. Passez la souris sur le graphique linéaire pour afficher le nombre de vues de contenu d’un jour spécifique.
+* Graphique **Tendances** présentant les 30 derniers jours de vues de l&#39;élément de contenu spécifique. Passez la souris sur le graphique linéaire pour afficher le nombre de vues de contenu d’un jour spécifique.
 
-## Supprimer du contenu {#delete-content}
+## Supprimer le contenu {#delete-content}
 
 ![](assets/six.png)
 
