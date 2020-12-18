@@ -38,7 +38,7 @@ Utilisez Programme Analyzer pour identifier vos programmes les plus et les moins
 
    >[!TIP]
    >
-   >Pour filtrer rapidement les programmes sur un seul canal, sélectionnez **Vue > Par Canal**, cliquez sur la bulle correspondant à ce canal, puis cliquez sur le nom du canal dans la boîte de dialogue contextuelle.
+   >Pour filtrer rapidement les programmes sur un seul canal, sélectionnez **Vue > Par Canal**, cliquez sur la bulle de ce canal, puis cliquez sur le nom du canal dans la boîte de dialogue contextuelle.
 
 1. Utilisez la liste déroulante Axe X pour choisir une mesure pour l’axe horizontal. Nous allons début avec le coût du Programme.
 
@@ -54,7 +54,7 @@ Utilisez Programme Analyzer pour identifier vos programmes les plus et les moins
 
    >[!TIP]
    >
-   >Vous pouvez également essayer d&#39;améliorer votre vue en passant d&#39;une échelle linéaire à une échelle logarithmique, ou vice versa. Utilisez le menu **Échelle** en haut de l&#39;écran.
+   >Vous pouvez également essayer d&#39;améliorer votre vue en passant d&#39;une échelle linéaire à une échelle logarithmique, ou vice versa. Utilisez le menu **Échelle** en haut.
 
 1. Explorez le graphique qui en résulte.
 
@@ -68,13 +68,13 @@ Utilisez Programme Analyzer pour identifier vos programmes les plus et les moins
 
    >[!NOTE]
    >
-   >La plupart des mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multipoint (MT). Il est important de comprendre la [différence entre l’attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT et MT.
+   >La plupart des mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multipoint (MT). Il est important de comprendre la différence [entre l’attribution FT et l’attribution MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Regardez la taille des bulles changer dans votre graphique.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   En ajoutant **(FT) Revenu gagné**, nous voyons rapidement que, bien que l&#39;Expo Origami ait acquis beaucoup de nouveaux noms, elle produit relativement peu de recettes. De plus, nous constatons que le programme Paper Fest 12 prend moins de noms, mais de meilleurs noms, car il influence plus de recettes gagnées (plus grande bulle).
+   En ajoutant **(FT) Recettes gagnées**, nous constatons rapidement que, bien que l&#39;Expo Origami ait acquis beaucoup de nouveaux noms, elle produit relativement peu de recettes. De plus, nous constatons que le programme Paper Fest 12 prend moins de noms, mais de meilleurs noms, car il influence plus de recettes gagnées (plus grande bulle).
 
 1. Utilisez la liste déroulante Couleur pour ajouter une quatrième mesure. Nous allons examiner les recettes d&#39;investissement (FT).
 
@@ -88,7 +88,7 @@ Nous constatons que le programme Paper Fest 12 n&#39;influence pas seulement plu
 
 >[!TIP]
 >
->Vous pouvez rapidement comparer les programmes d’un canal à ceux d’un autre. Il vous suffit d&#39;utiliser le filtre **de** Canal en haut de la fenêtre pour ajouter d&#39;autres canaux.
+>Vous pouvez rapidement comparer les programmes d’un canal à ceux d’un autre. Il vous suffit d&#39;utiliser le **filtre de Canal** en haut de la fenêtre pour ajouter d&#39;autres canaux.
 
 >[!NOTE]
 >
@@ -100,4 +100,4 @@ Nous constatons que le programme Paper Fest 12 n&#39;influence pas seulement plu
 
 >[!NOTE]
 >
->En savoir plus sur les analyses avancées dans l’explorateur [](http://docs.marketo.com/display/docs/revenue+cycle+analytics)Recettes Cycle.
+>En savoir plus sur les analyses avancées dans [l&#39;Explorateur de cycles de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
