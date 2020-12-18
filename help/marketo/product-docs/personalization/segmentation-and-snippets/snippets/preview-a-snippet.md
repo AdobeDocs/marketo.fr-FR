@@ -23,11 +23,11 @@ ht-degree: 0%
 
 Les extraits de code sont des blocs de contenu dynamique qui changent en fonction des règles de segmentation.
 
-1. Rendez-vous au **Design Studio.**
+1. Accédez à **Design Studio.**
 
    ![](assets/designstudio-3.png)
 
-1. Cliquez sur votre extrait de code, puis sur **Prévisualisation**.
+1. Cliquez sur votre extrait de code, puis **Prévisualisation**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
