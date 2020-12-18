@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Suivez ces étapes simples pour désactiver votre synchronisation MS Dynamics.
 
-1. Dans Marketing, cliquez sur **Admin**.
+1. Dans Marketo, cliquez sur **Admin**.
 
    ![](assets/one.png)
 
@@ -29,5 +29,5 @@ Suivez ces étapes simples pour désactiver votre synchronisation MS Dynamics.
 
    >[!NOTE]
    >
-   >Si le bouton Désactiver la synchronisation ne s’affiche pas dans votre instance, contactez l’assistance [](http://nation.marketo.com/community/support_solutions)marketing.
+   >Si vous ne voyez pas de bouton Désactiver la synchronisation dans votre instance, contactez le [Support marketing](http://nation.marketo.com/community/support_solutions).
 
