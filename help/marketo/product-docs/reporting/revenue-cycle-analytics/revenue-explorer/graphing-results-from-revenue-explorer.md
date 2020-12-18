@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Graphique Des Résultats À Partir De L&#39;Explorateur Des Recettes {#graphing-results-from-revenue-explorer}
+# Graphique des résultats à partir de l&#39;explorateur de recettes {#graphing-results-from-revenue-explorer}
 
 Par défaut, les rapports dans l’Explorateur de recettes s’affichent sous la forme d’un tableau. Vous avez également la possibilité d’afficher les résultats sous forme de graphique dans divers formats.
 
-1. Cliquez sur la flèche dans le menu déroulant **Vue en tant que** de votre rapport. Différentes options de graphique s’affichent.
+1. Cliquez sur la flèche dans le menu déroulant **Vue As** de votre rapport. Différentes options de graphique s’affichent.
 
    ![](assets/one-1.png)
 
 ## Exemples de graphiques {#graph-examples}
 
-**Colonne**: Chaque ligne et colonne du tableau s’affiche sous la forme d’une colonne verticale.
+**Colonne** : Chaque ligne et colonne du tableau s’affiche sous la forme d’une colonne verticale.
 
 ![](assets/column.png)
 
@@ -33,7 +33,7 @@ Par défaut, les rapports dans l’Explorateur de recettes s’affichent sous la
 
 ![](assets/100-stacked-column.png)
 
-**Ligne**: Chaque colonne est affichée sous la forme d’une ligne et chaque ligne sous la forme d’un point de données sur la ligne.
+**Ligne** : Chaque colonne est affichée sous la forme d’une ligne et chaque ligne sous la forme d’un point de données sur la ligne.
 
 ![](assets/line.png)
 
@@ -41,7 +41,7 @@ Par défaut, les rapports dans l’Explorateur de recettes s’affichent sous la
 
 ![](assets/column-line-combo.png)
 
-**Barre**: Chaque ligne et colonne du tableau s’affiche sous la forme d’une barre horizontale.
+**Barre** : Chaque ligne et colonne du tableau s’affiche sous la forme d’une barre horizontale.
 
 ![](assets/bar.png)
 
@@ -53,19 +53,19 @@ Par défaut, les rapports dans l’Explorateur de recettes s’affichent sous la
 
 ![](assets/100-stacked-bar.png)
 
-**Zone**: Les données s’affichent comme une barre empilée, mais sont renseignées.
+**Zone** : Les données s’affichent comme une barre empilée, mais sont renseignées.
 
 ![](assets/area.png)
 
-**Diagramme**: Chaque colonne est présentée sous forme de graphique circulaire, chaque ligne sous forme de tranche.
+**Diagramme** : Chaque colonne est présentée sous forme de graphique circulaire, chaque ligne sous forme de tranche.
 
 ![](assets/pie.png)
 
-**Sunburst**: Graphique radial qui représente les attributs en tranches.
+**Sunburst** : Graphique radial qui représente les attributs en tranches.
 
 ![](assets/sunburst.png)
 
-**Diagramme**: Bulles basées sur les attributs utilisés. Utilisez des mesures pour coder la bulle par couleur et/ou déterminer sa taille.
+**Diagramme** : Bulles basées sur les attributs utilisés. Utilisez des mesures pour coder la bulle par couleur et/ou déterminer sa taille.
 
 ![](assets/scatter.png)
 
