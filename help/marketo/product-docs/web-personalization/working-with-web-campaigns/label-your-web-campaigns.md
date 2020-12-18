@@ -23,7 +23,7 @@ Avez-vous tant de campagnes que le défilement devient encombrant ? Utilisez des
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne de votre choix, utilisez la fonction [de](filter-web-campaigns.md)filtrage.
+   >Pour faciliter la recherche de la campagne souhaitée, utilisez la fonction de filtre [](filter-web-campaigns.md).
 
 1. Sélectionnez les campagnes à baliser avec une étiquette.
 
@@ -51,7 +51,7 @@ Cool ! Vous savez maintenant comment créer des étiquettes et les affecter à d
 
 >[!MORELIKETHIS]
 >
->* [L](create-a-new-in-zone-web-campaign.md) [Attribuer un segment](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [Étiquetage ](create-a-new-in-zone-web-campaign.md) [d’un segment](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 >
 
