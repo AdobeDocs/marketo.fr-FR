@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Vos messages électroniques s’affichent-ils dans la Diffusion Échec avec une erreur &quot;Échec de l’authentification&quot; ? Cela signifie que nous n’avons pas pu authentifier la connexion à votre serveur SMTP. Il est probable que votre mot de passe a changé récemment et que vous devez authentifier vos nouvelles informations d’identification.
 
-1. Accédez à vos Paramètres [](http://toutapp.com/next#settings/email-servers/smtp/configure) SMTP où vous devriez voir le même message d’erreur &quot;Authentification non réussie&quot;.
-1. Mettez à jour vos informations d’identification et cliquez sur **Authentifier et Enregistrer**.
+1. Accédez à [Paramètres SMTP](http://toutapp.com/next#settings/email-servers/smtp/configure) où vous devriez voir le même message d’erreur &quot;Authentification non réussie&quot;.
+1. Mettez à jour vos informations d’identification et cliquez sur **Authentifier et enregistrer**.
 1. Accédez à vos Diffusions en échec et essayez de renvoyer ces messages électroniques.
 
-Si vous continuez à rencontrer des problèmes, veuillez [soumettre un dossier](http://nation.marketo.com/community/support_solutions) d&#39;assistance.
+Si vous continuez à rencontrer des problèmes, veuillez [soumettre un dossier](http://nation.marketo.com/community/support_solutions) pour l&#39;assistance.
