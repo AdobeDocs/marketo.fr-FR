@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation des Événements d&#39;adaptateur Marketo On24 {#understanding-marketo-on-adapter-events}
+# Présentation des Événements d&#39;adaptateurs Marketo On24 {#understanding-marketo-on-adapter-events}
 
 Si votre webinaire ON24 n’est pas connecté à Marketo, vous devez prendre en compte les informations des participants qui se trouvent déjà dans Marketo et les entrer dans ON24. Après le webinaire, vous devez prendre les informations de présence qui se trouvent déjà dans ON24 et les saisir à nouveau dans Marketo.
 
@@ -23,7 +23,7 @@ Le graphique ci-dessous illustre le processus d’intégration.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Prêt à commencer ? Début avec [Créer un Événement avec l&#39;adaptateur](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)ON24.
+Prêt à commencer ? Début avec [Créer un Événement avec l&#39;adaptateur ON24](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
 
 >[!MORELIKETHIS]
 >
