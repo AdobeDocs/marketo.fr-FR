@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Les étoiles et flammes des enregistrements de piste/contact dépendent : Champs Score de piste, Score relatif, Urgence et Priorité. Ces champs sont disponibles par défaut après l’installation et la configuration de la solution MSI. Si vous n&#39;avez pas de Stars and Flames, une configuration/personnalisation antérieure aurait pu les faire disparaître. Suivez les étapes ci-dessous pour les ajouter.
 
-1. Dans Microsoft Dynamics, cliquez sur la liste déroulante Ventes et sélectionnez **Paramètres**. Cliquez sur **Personnalisations**, puis **Personnaliser le système**.
+1. Dans Microsoft Dynamics, cliquez sur la liste déroulante Ventes et sélectionnez **Paramètres**. Cliquez sur **Personnalisations**, puis sur **Personnaliser le système**.
 1. Dans le panneau de gauche, cliquez sur **Entités**.
-1. Recherchez et cliquez sur **Piste**, puis **Forms**, puis sélectionnez le formulaire à modifier.
+1. Recherchez **Piste**, puis **Forms**, puis sélectionnez le formulaire à modifier.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. Cliquez sur **Marketo Sales Insight** dans le panneau de gauche. Dans le panneau de droite, cliquez sur la liste déroulante Filtre et sélectionnez Champs **** personnalisés.
+1. Cliquez sur **Marketing Sales Insight** dans le panneau de gauche. Dans le panneau de droite, cliquez sur la liste déroulante Filtre et sélectionnez **Champs personnalisés**.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
