@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo comporte des exemples de modélisation des recettes pour vous aider à vous inspirer. Cloner ces modélisateurs et en faire les vôtres. Voici comment procéder :
 
-1. Accédez à la zone **Analytics** .
+1. Accédez à la zone **Analytics**.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Sélectionnez **Reportez-vous au dossier **Revenue Cycle Modeler **et cliquez sur Exemples **de** marketing.
+1. Sélectionnez **Reportez-vous au dossier **Revenue Cycle Modeler **et cliquez sur **Exemples de marketing**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
