@@ -17,7 +17,7 @@ Sur la page Envois, examinez les caractéristiques des communications électroni
 
 ![](assets/one.png)
 
-Utilisez [le filtrage](filtering-in-email-insights.md) pour spécifier les courriers électroniques à afficher.
+Utilisez [filtrage](filtering-in-email-insights.md) pour spécifier les courriers électroniques à afficher.
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ Sur le côté droit de la page, vous trouverez plusieurs informations concernant
 
 ![](assets/two-1.png)
 
-**Type** indique le type de fichier utilisé.\
-**Le numéro de destinataire** correspond au nombre de personnes qui ont reçu le courrier électronique.\
-**Les mesures** de diffusion vous donnent une vue rapide du nombre de courriers électroniques envoyés, en attente ou ayant rebondi.\
-**Les mesures** d’engagement vous donnent une vue rapide du nombre de destinataires qui ont ouvert, cliqué et se sont désabonnés à partir d’un courrier électronique.\
-**La note** correspond à la note [](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)d’engagement de votre courriel.
+**** Type indique le type d’actif utilisé.\
+**Le** numéro de destinataire correspond au nombre de personnes qui ont reçu le courrier électronique.\
+**Diffusion** Metricsvous donne une vue rapide du nombre de courriers électroniques qui ont été remis, qui sont en attente ou qui ont rebondi.\
+**Les** mesures d’engagement vous donnent une vue rapide du nombre de destinataires qui ont ouvert, cliqué et se sont désabonnés à partir d’un courrier électronique.\
+**** Score d’ [ ](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)engagement de votre messagerie électronique.
 
 Par défaut, vos courriels sont triés selon la plus récente, mais vous pouvez les trier selon n’importe quelle mesure disponible.
 
