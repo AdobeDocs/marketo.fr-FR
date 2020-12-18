@@ -23,15 +23,15 @@ Avant de publier, vous pouvez afficher le formulaire dans cet aperçu rapide et 
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Sous **Actions** de formulaire **, cliquez sur** Prévisualisation ****.
+1. Sous **Formulaire** **Actions**, cliquez sur **Prévisualisation**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. L’éditeur de formulaires s’ouvre en mode **prévisualisation** .
+1. L’éditeur de formulaire s’ouvre en mode **prévisualisation**.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Cliquez sur **Modifier** le **brouillon** pour revenir au mode **de modification** .
+1. Cliquez sur **Modifier** **Brouillon** pour revenir au mode **modifier**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
@@ -40,7 +40,7 @@ Avant de publier, vous pouvez afficher le formulaire dans cet aperçu rapide et 
    >**Plongée profonde**
    >
    >
-   >En savoir plus sur [les formulaires](http://docs.marketo.com/display/docs/forms).
+   >En savoir plus sur les [formulaires](http://docs.marketo.com/display/docs/forms).
 
 1. Retournez facilement en cliquant sur **Prévisualisation** **Brouillon**.
 
