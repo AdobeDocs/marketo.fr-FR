@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Ajouter des instructions d’info-bulle à un champ de formulaire {#add-tooltip-instructions-to-a-form-field}
 
-[Les conseils](add-hint-text-to-a-form-field.md) et les instructions aident les gens à remplir des formulaires. Voici comment ajouter des instructions d’info-bulle.
+[Les ](add-hint-text-to-a-form-field.md) notes et les instructions aident les gens à remplir des formulaires. Voici comment ajouter des instructions d’info-bulle.
 
 >[!NOTE]
 >
 >**Définition**
 >
->Les **conseils** de formulaire sont du texte qui se trouve à l’intérieur du champ et qui disparaît lorsque le visiteur commence à saisir du texte dans le champ.
+>Le formulaire **Astuces** est le texte qui se trouve à l’intérieur du champ et qui disparaît lorsque le visiteur commence à saisir du texte dans le champ.
 >
->Les **instructions** de formulaire sont de petites info-bulles qui s’affichent lorsque le visiteur passe la souris sur le champ.
+>Les instructions **Form** sont de petites info-bulles qui apparaissent lorsque le visiteur passe le pointeur de la souris sur le champ.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Sélectionnez votre champ et saisissez **des instructions**.
+1. Sélectionnez votre champ et saisissez **Instructions**.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**Rappel**
    >
    >
-   >N&#39;oubliez pas d&#39; [approuver le brouillon](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de landing page créé par les modifications du formulaire.
+   >N&#39;oubliez pas [d&#39;approuver le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
@@ -58,5 +58,5 @@ Un travail formidable ! L’info-bulle s’affiche lorsqu’un visiteur passe la
 >
 >**Plongée profonde**
 >
->Il y a tellement de choses que vous pouvez faire avec les [formulaires](http://docs.marketo.com/display/docs/forms).
+>Il y a tellement de choses que vous pouvez faire avec [forms](http://docs.marketo.com/display/docs/forms).
 
