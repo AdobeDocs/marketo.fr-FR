@@ -19,7 +19,7 @@ Il est très facile d&#39;envoyer un e-mail Marketing à plusieurs personnes à 
 
    ![](assets/image2015-6-1-14-3a40-3a35.png)
 
-1. Cliquez sur **Aller** à la vue de toutes les pistes ouvertes.
+1. Cliquez sur **Aller** pour vue toutes les pistes ouvertes.
 
    ![](assets/image2015-6-1-14-3a41-3a42.png)
 
@@ -33,7 +33,7 @@ Il est très facile d&#39;envoyer un e-mail Marketing à plusieurs personnes à 
 
    >[!TIP]
    >
-   >Ne vois pas le bouton ? Assurez-vous d’avoir [ajouté les boutons marketing à la vue](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)de liste.
+   >Ne vois pas le bouton ? Vérifiez que vous avez [ajouté les boutons Marketo à la vue de liste](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
 
 1. Allez-y et composez votre email. Cliquez sur **Envoyer avec le marqueur **une fois terminé.
 
@@ -41,7 +41,7 @@ Il est très facile d&#39;envoyer un e-mail Marketing à plusieurs personnes à 
 
    >[!TIP]
    >
-   >Vous pouvez [publier des e-mails dans Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) et choisir parmi ces e-mails.
+   >Vous pouvez [publier un e-mail à Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) et choisir parmi ces e-mails.
 
    >[!NOTE]
    >
