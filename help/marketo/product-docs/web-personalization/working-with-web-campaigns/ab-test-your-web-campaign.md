@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# AB Test Your Web Campaign {#ab-test-your-web-campaign}
+# AB Testez votre Campaign Web {#ab-test-your-web-campaign}
 
 Les tests sont un excellent moyen d’optimiser vos campagnes Web pour un meilleur engagement. Voici comment commencer.
 
-Pour tester vos campagnes personnalisées, vous pouvez sélectionner deux campagnes ou plus, les associer au même groupe Test **** fractionné et sélectionner l’option Réglage **** automatique pour poursuivre automatiquement la campagne la plus performante.
+Pour tester vos campagnes personnalisées, vous pouvez sélectionner deux campagnes ou plus, les associer au même **groupe de test fractionné** et sélectionner **Réglage automatique** pour poursuivre automatiquement la campagne la plus performante.
 
 >[!TIP]
 >
@@ -29,7 +29,7 @@ Pour tester vos campagnes personnalisées, vous pouvez sélectionner deux campag
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne de votre choix, utilisez la fonction [de](filter-web-campaigns.md)filtrage.
+   >Pour faciliter la recherche de la campagne souhaitée, utilisez la fonction de filtre [](filter-web-campaigns.md).
 
 1. Sélectionnez la première campagne à tester pour le test A/B. Cliquez sur **Modifier**.
 
@@ -39,15 +39,15 @@ Pour tester vos campagnes personnalisées, vous pouvez sélectionner deux campag
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Saisissez le nom **du groupe de tests** fractionné, puis cliquez sur **Créer.** Sélectionnez **Réglage automatique.**
+1. Saisissez le **nom du groupe de test fractionné**, puis cliquez sur **Créer.****SélectionnerRéglage automatique.**
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Enregistrer **ou** lancer **la campagne.
+1. **Enregistrez **ou** Lancement **la campagne.
 
    >[!TIP]
    >
-   >La sélection de l’ **ajustement automatique** permet à la plate-forme de personnalisation Web de reconnaître automatiquement la campagne de test fractionné la plus performante et de poursuivre avec la campagne ayant le plus fort taux de conversion tout en mettant les autres en pause.
+   >La sélection de **Réglage automatique** permet à la plate-forme de personnalisation Web de reconnaître automatiquement la campagne de test fractionné la plus performante et de poursuivre la campagne avec le plus fort taux de conversion tout en mettant les autres en pause.
 
 1. Répétez le processus ci-dessus avec la seconde campagne.
 1. Sélectionnez la deuxième campagne à tester A/B. Cliquez sur **Modifier**.
@@ -56,13 +56,13 @@ Pour tester vos campagnes personnalisées, vous pouvez sélectionner deux campag
 
    **
 
-1. Dans la page **Définir Campaign** , sélectionnez Tests **de test** de **test** S****plit et choisissez legroupedans la liste déroulante. Sélectionnez** Réglage automatique**.
+1. Dans la page **Définir Campaign**, sélectionnez **S****test de pliage** et choisissez **Groupe** dans la liste déroulante. Sélectionnez** Réglage automatique**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
 1. **Enregistrer **ou **Lancer **la campagne.
 1. Répétez ce processus pour une troisième ou quatrième campagne à tester.
-1. Dans les **campagnes** **Web** , vous pouvez voir les campagnes de test fractionnées signalées par l’icône A/B.
+1. Dans **Web** **Campagnes**, vous pouvez voir les campagnes de test fractionnées signalées par l&#39;icône A/B.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
