@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Liste de modèle de vue en tant qu’autre utilisateur {#view-template-list-as-a-another-user}
+# Liste de modèle de vue en tant qu&#39;autre utilisateur {#view-template-list-as-a-another-user}
 
 En tant qu’administrateur, vous pouvez vue des modèles comme n’importe quel utilisateur.
 
@@ -23,7 +23,7 @@ En tant qu’administrateur, vous pouvez vue des modèles comme n’importe quel
 
    ![](assets/one.png)
 
-1. Cliquez sur la liste déroulante **Vue sous** et sélectionnez l’utilisateur de votre choix.
+1. Cliquez sur la liste déroulante **Vue As** et sélectionnez l’utilisateur de votre choix.
 
    ![](assets/two.png)
 
