@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Création de contacts {#creating-contacts}
 
-1. Dans la page Personnes, cliquez sur le bouton Actions **du** groupe et sélectionnez **Créer un contact**.
+1. Dans la page Personnes, cliquez sur le bouton **Actions de groupe** et sélectionnez **Créer un contact**.
 
    ![](assets/one-2.png)
 
-1. Entrez le prénom/nom et l&#39;adresse électronique, ainsi que toute autre information que vous souhaitez. Cliquez sur **Créer** une fois terminé ou **Créer et Ajouter nouveau** pour ajouter d&#39;autres contacts.
+1. Entrez le prénom/nom et l&#39;adresse électronique, ainsi que toute autre information que vous souhaitez. Cliquez sur **Créer** une fois terminé, ou **Créer et Ajouter nouveau** pour ajouter d&#39;autres contacts.
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >Souhaitez-vous ajouter plusieurs contacts à la fois ? [Cliquez ici](http://docs.marketo.com/x/VADb) pour savoir comment importer des contacts au format CSV.
+   >Souhaitez-vous ajouter plusieurs contacts à la fois ? [Cliquez ](http://docs.marketo.com/x/VADb) ici pour savoir comment importer des contacts au format CSV.
 
 ## Suppression de contacts {#deleting-contacts}
 
