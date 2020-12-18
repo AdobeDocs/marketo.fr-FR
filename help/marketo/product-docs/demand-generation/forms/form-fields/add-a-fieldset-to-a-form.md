@@ -19,7 +19,7 @@ Les jeux de champs sont cool. Ils regroupent plusieurs champs. Vous pouvez contr
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -31,7 +31,7 @@ Les jeux de champs sont cool. Ils regroupent plusieurs champs. Vous pouvez contr
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. Faites glisser les champs de votre choix dans l’ensemble de **champs**.
+1. Faites glisser les champs de votre choix dans le **jeu de champs**.
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
@@ -43,5 +43,5 @@ Voilà !
 
 >[!TIP]
 >
->Vous pouvez masquer/afficher dynamiquement l’ensemble du jeu de champs en fonction d’un autre champ. Découvrez les règles [de](dynamically-toggle-visibility-of-a-form-field.md)visibilité.
+>Vous pouvez masquer/afficher dynamiquement l’ensemble du jeu de champs en fonction d’un autre champ. Découvrez [les règles de visibilité](dynamically-toggle-visibility-of-a-form-field.md).
 
