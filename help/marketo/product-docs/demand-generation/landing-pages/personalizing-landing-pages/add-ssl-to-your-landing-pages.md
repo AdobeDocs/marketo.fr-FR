@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Le chiffrement SSL (Secure Socket Layer) vous permet de sécuriser tous vos landings page pour une instance de Marketo.
 
-Lorsque vous remplissez un formulaire Web ou que vous visitez un landing page hébergé par Marketo, les informations sont par défaut envoyées via un protocole non sécurisé (HTTP). Conformément à la politique de votre société, vous pouvez souhaiter sécuriser les informations envoyées à Marketo par le biais du protocole HTTPS. Par exemple, lorsque vous visitez `http://info.mydomain.com/` le site, il est maintenant `https://info.mydomain.com/`ouvert.
+Lorsque vous remplissez un formulaire Web ou que vous visitez un landing page hébergé par Marketo, les informations sont par défaut envoyées via un protocole non sécurisé (HTTP). Conformément à la politique de votre société, vous pouvez souhaiter sécuriser les informations envoyées à Marketo par le biais du protocole HTTPS. Par exemple, lorsque vous visitez `http://info.mydomain.com/`, il sera désormais `https://info.mydomain.com/`.
 
 Par défaut, Marketo effectue le suivi de &quot;Page Web visitée&quot; et &quot;Cliquez sur le lien sur la page Web&quot; par rapport au protocole HTTP non sécurisé. Si vous souhaitez que vos liens de suivi soient sécurisés avec leur propre certificat, vous devez disposer de Marketing pour créer un serveur distinct non partagé pour l’activer. Pour sécuriser tous les aspects de l&#39;interaction d&#39;un contact avec vous, il faut généralement sécuriser les landings page et les liens de suivi.
 
-Pour consulter les questions fréquentes sur l’ajout de SSL à vos landings page, reportez-vous à [cet article](http://nation.marketo.com/docs/DOC-5612).
+Pour obtenir des FAQ sur l’ajout de SSL à vos landings page, consultez [cet article](http://nation.marketo.com/docs/DOC-5612).
 
 Si vous souhaitez utiliser SSL pour vos landings page de marketing, contactez votre représentant commercial Marketo.
