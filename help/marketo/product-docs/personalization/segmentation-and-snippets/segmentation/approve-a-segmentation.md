@@ -28,13 +28,13 @@ Une segmentation doit être approuvée avant de pouvoir être utilisée.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. Dans la segmentation, cliquez sur Actions **de** segmentation, puis **Approuvez**.
+1. Dans la segmentation, cliquez sur **Actions de segmentation**, puis sur **Approuver**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
    >[!NOTE]
    >
-   >Le statut passe à Approbation avec une roue à rotation ( ![](assets/image2014-9-15-15-3a31-3a43.png)) pendant que l&#39;approbation est en cours.
+   >L&#39;état passe à Approbation avec une roue tournante ( ![](assets/image2014-9-15-15-3a31-3a43.png)) pendant que l&#39;approbation est en cours.
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ Une segmentation doit être approuvée avant de pouvoir être utilisée.
    >
    >Le nombre de personnes dans chaque segment est indiqué entre crochets en regard du nom du segment.
 
-1. L’onglet **Personnes** du **segment** affiche désormais la liste finale des personnes pour le segment.
+1. L&#39;onglet **Personnes** du **Segment** affiche désormais la liste finale des personnes pour le segment.
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 
@@ -55,7 +55,7 @@ Une segmentation doit être approuvée avant de pouvoir être utilisée.
 >
 >Le nombre total de segments que vous pouvez créer dans une segmentation dépend du nombre et du type de filtres utilisés, ainsi que de la complexité de la logique de vos segments. Bien que vous puissiez créer jusqu’à 100 segments à l’aide de champs standard, l’utilisation d’autres types de filtres peut accroître la complexité et votre segmentation peut ne pas être approuvée. Voici quelques exemples : champs personnalisés, membre de la liste, champs de propriétaire de piste et étapes de recettes.
 >
->Si vous recevez un message d’erreur lors de l’approbation et que vous avez besoin d’aide pour réduire la complexité de votre segmentation, veuillez contacter l’assistance [](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)marketing.
+>Si vous recevez un message d’erreur lors de l’approbation et que vous avez besoin d’aide pour réduire la complexité de votre segmentation, contactez le [Support marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
 
 >[!NOTE]
 >
