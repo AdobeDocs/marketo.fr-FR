@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Moments intéressants au SMC {#interesting-moments-in-msc}
+# Moments intéressants dans MSC {#interesting-moments-in-msc}
 
 Les moments intéressants sont la clé de la communication avec votre équipe commerciale via Marketing Connect.
 
@@ -19,7 +19,7 @@ Les moments intéressants sont la clé de la communication avec votre équipe co
 >
 >**Disponibilité**
 >
->Elles sont disponibles uniquement pour les clients [Marketing Insight](http://docs.marketo.com/x/2Akt) et Marketing Sales Connect.
+>Ils sont accessibles uniquement aux clients [Marketing Sales Insight](http://docs.marketo.com/x/2Akt) et Marketing Sales Connect.
 
 ## Quel moment intéressant ?  {#what-is-an-interesting-moment}
 
@@ -31,19 +31,19 @@ C&#39;est à vous de décider ! Vous décidez quelles informations sont pertinen
 
 ## Comment créer un moment intéressant ? {#how-do-i-create-an-interesting-moment}
 
-1. Choisissez une campagne [](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) s [](http://docs.marketo.com/display/docs/smart+campaigns)mart, de préférence une campagne intéressante pour votre équipe commerciale si elle est déclenchée.
+1. Choisissez une campagne [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [mart](http://docs.marketo.com/display/docs/smart+campaigns), de préférence une campagne intéressante pour votre équipe commerciale si elle est déclenchée.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Faites glisser le curseur sur l’étape de flux Moments **** intéressants.
+1. Faites glisser le curseur sur l’étape de flux **Moments intéressants**.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. Sélectionnez un **type** (Adresse électronique, Jalon ou Web).
+1. Sélectionnez un **type** (Courriel, Jalon ou Web).
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Ecrivez un message à votre équipe commerciale dans le champ **Description** pour expliquer pourquoi cette action est importante.
+1. Ecrivez un message à votre équipe commerciale dans le champ **Description** qui explique pourquoi cette action est importante.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -53,7 +53,7 @@ C&#39;est à vous de décider ! Vous décidez quelles informations sont pertinen
 
 ## A quoi ressemble un moment intéressant sur le marché ?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Les moments intéressants s’affichent dans le journal [des activités d’une](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)piste.
+Les moments intéressants s&#39;afficheront dans un [journal d&#39;activité du prospect](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
