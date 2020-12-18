@@ -26,5 +26,5 @@ Installez facilement l&#39;appel avec Marketing Sales Connect, l&#39;e-mail comm
 
    >[!NOTE]
    >
-   >Vous pouvez répéter ces étapes pour les installer dans la mise en page Contact. Veillez à choisir **Contacts** pour l’étape 3.
+   >Vous pouvez répéter ces étapes pour les installer dans la mise en page Contact. Veillez à sélectionner **Contacts** pour l’étape 3.
 
