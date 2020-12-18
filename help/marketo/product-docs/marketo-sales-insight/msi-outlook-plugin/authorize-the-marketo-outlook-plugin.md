@@ -23,7 +23,7 @@ Pour utiliser le plug-in MSI Marketo dans Outlook, vous devez l&#39;autoriser.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Lorsque la boîte de dialogue Autoriser le module externe de marketing s’affiche, cliquez sur Code **de** demande.
+1. Lorsque la boîte de dialogue Autoriser le module externe de marketing s’affiche, cliquez sur **Code de demande**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
@@ -31,7 +31,7 @@ Pour utiliser le plug-in MSI Marketo dans Outlook, vous devez l&#39;autoriser.
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. Si l&#39;adresse électronique de votre compte Outlook par défaut est récupérée, vous recevrez une clé d&#39;enregistrement. Saisissez-la dans la fenêtre contextuelle, puis cliquez sur **Envoyer**.
+1. Si l&#39;adresse électronique de votre compte Outlook par défaut est récupérée, vous recevrez une clé d&#39;enregistrement. Saisissez-la dans la fenêtre contextuelle et cliquez sur **Envoyer**.
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 
