@@ -19,7 +19,7 @@ Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à **l’administrateur** du marketing.
+1. Accédez à Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
@@ -27,7 +27,7 @@ Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Saisissez un nom **** d’affichage pour votre service, sélectionnez le service **LinkedIn Lead Gen **dans la liste déroulante, puis cliquez sur **Suivant**.
+1. Saisissez un **nom d’affichage** pour votre service, sélectionnez le service **LinkedIn Lead Gen **dans la liste déroulante, puis cliquez sur **Suivant**.
 
    ![](assets/linkedin-lead-gen.png)
 
@@ -67,13 +67,13 @@ Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans
 
    >[!CAUTION]
    >
-   >Marketo prend en charge le mappage de deux champs LinkedIn sur un seul champ Marketo, **mais uniquement lorsque** les deux champs LinkedIn ne se trouvent pas sur le même formulaire. Si vous mappez deux champs du même formulaire LinkedIn à un seul champ Marketo, il se peut que les utilisateurs n’entrent pas dans votre base de données Marketo.
+   >Marketo prend en charge le mappage de deux champs LinkedIn sur un seul champ Marketo, **mais uniquement lorsque** les deux champs LinkedIn ne sont pas sur le même formulaire. Si vous mappez deux champs du même formulaire LinkedIn à un seul champ Marketo, il se peut que les utilisateurs n’entrent pas dans votre base de données Marketo.
 
    ![](assets/linkedin-lead-gen-mapping.png)
 
    >[!NOTE]
    >
-   >Seuls les champs LinkedIn qui ont déjà été enregistrés dans un modèle [de](https://www.linkedin.com/help/lms/answer/79634) formulaire dans LinkedIn Campaign Manager s’affichent en tant que champs LinkedIn qui peuvent être mappés aux champs Marketo.
+   >Seuls les champs LinkedIn qui ont déjà été enregistrés dans un [modèle de formulaire](https://www.linkedin.com/help/lms/answer/79634) dans LinkedIn Campaign Manager s’affichent en tant que champs LinkedIn qui peuvent être mappés aux champs Marketo.
 
    ![](assets/linkedin-installed-services.png)
 
