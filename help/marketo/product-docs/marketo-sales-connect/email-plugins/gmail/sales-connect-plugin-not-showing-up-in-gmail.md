@@ -21,10 +21,10 @@ D&#39;après notre expérience, voici quelques éléments à essayer si votre ba
 
 - Cela peut être évident, mais essayez de quitter votre navigateur et d&#39;ouvrir une fenêtre entièrement nouvelle.
 
-- Rendez-vous à l’application [](http://toutapp.com/login) Web et assurez-vous que vous êtes connecté à celle-ci.
+- Rendez-vous à l&#39;[application Web](http://toutapp.com/login) et assurez-vous que vous êtes connecté.
 
 - Assurez-vous que les cookies sont activés. Si vous utilisez Chrome, accédez à Paramètres > Afficher les paramètres avancés > Paramètres de contenu > Décochez la case Bloquer les cookies tiers et les données du site.
 
 - Essayez de vous déconnecter puis de reconnecter l&#39;extension de navigateur de Sales Connect.
 
-Si aucun des conseils ci-dessus n&#39;a aidé, veuillez [soumettre un dossier](http://nation.marketo.com/community/support_solutions) à l&#39;assistance.
+Si aucun des conseils ci-dessus n&#39;a été utile, veuillez [soumettre un dossier](http://nation.marketo.com/community/support_solutions) à l&#39;assistance.
