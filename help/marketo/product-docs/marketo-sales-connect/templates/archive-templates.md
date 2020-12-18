@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Archiver les modèles {#archive-templates}
+# Modèles d&#39;archivage {#archive-templates}
 
 Archivez le contenu pour nettoyer votre compte de contenu commercial sans perdre de données de modèle.
 
-Cochez la case en regard d’un modèle, puis cliquez sur **Archiver**.
+Cochez la case en regard d’un modèle et cliquez sur **Archiver**.
 
 >[!NOTE]
 >
