@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Options d&#39;envoi en masse {#bulk-sending-options}
+# Options d&#39;envoi en bloc {#bulk-sending-options}
 
-L&#39;envoi de courriers électroniques en bloc est un excellent moyen d&#39;accélérer votre engagement prospect. Sales Connect offres deux façons d&#39;envoyer des e-mails en masse : **Regrouper les courriers électroniques** et **sélectionner et envoyer**. Les courriers électroniques de groupe constituent un excellent moyen d’envoyer rapidement des centaines de courriers électroniques à un groupe ciblé. L’utilisation de Select et Send implique des limites de courrier électronique plus basses, mais elle offre davantage d’opportunités de personnalisation pour l’utilisateur.
+L&#39;envoi de courriers électroniques en bloc est un excellent moyen d&#39;accélérer votre engagement prospect. Sales Connect offres deux façons d&#39;envoyer des e-mails en masse : **Regrouper les e-mails** et **Sélectionner et envoyer**. Les courriers électroniques de groupe constituent un excellent moyen d’envoyer rapidement des centaines de courriers électroniques à un groupe ciblé. L’utilisation de Select et Send implique des limites de courrier électronique plus basses, mais elle offre davantage d’opportunités de personnalisation pour l’utilisateur.
 
 E-mail de groupe ou sélection et envoi
 
@@ -28,25 +28,25 @@ E-mail de groupe ou sélection et envoi
  </colgroup> 
  <tbody> 
   <tr> 
-   <th><p><span>Type d’envoi</span><span></span> </p></th> 
-   <th><p><span>Nombre maximal de </span><span></span><span>courriers électroniques</span> </p></th> 
-   <th><p><span>Lancé </span><span>par</span></p></th> 
-   <th><p><span>Courriels de </span><span>modification en masse</span> </p></th> 
-   <th><p><span>Modifier</span><span> chaque courriel </span><span>de manière unique</span> </p></th> 
-   <th><p><span>Prise en charge des modèles et des champs </span><span>dynamiques</span> </p></th> 
+   <th><p><span></span><span> SendType</span> </p></th> 
+   <th><p><span>Nombre maximal de  </span><span></span><span>courriers électroniques</span> </p></th> 
+   <th><p><span>Lancé  </span><span>par</span></p></th> 
+   <th><p><span>Courriels de  </span><span>modification en masse</span> </p></th> 
+   <th><p><span></span><span> Modifier chaque courriel  </span><span>de manière unique</span> </p></th> 
+   <th><p><span>Prise en charge des modèles et des champs  </span><span>dynamiques</span> </p></th> 
   </tr> 
   <tr> 
    <td><p><span>Courriel du groupe</span> </p></td> 
-   <td><p><span>1,000</span> </p></td> 
-   <td><p><span>Sélectionnez un groupe et cliquez sur</span><span> le bouton </span><span></span><span>"Actions du groupe" ou tapez le nom du groupe dans le champ À. </span> </p></td> 
+   <td><p><span>1 000</span> </p></td> 
+   <td><p><span>Sélectionnez un groupe et </span><span> cliquez sur le bouton </span><span> </span><span>"Actions du groupe" ou tapez le nom du groupe dans le champ A.  </span> </p></td> 
    <td><p><span>Oui</span> </p></td> 
    <td><p><span>Non</span> </p></td> 
    <td><p><span>Oui</span> </p></td> 
   </tr> 
   <tr> 
-   <td><p><span>Sélectionner </span><span>et </span><span>envoyer</span> </p></td> 
+   <td><p><span>Sélectionner  </span><span>et  </span><span>envoyer</span> </p></td> 
    <td><p><span>200</span> </p></td> 
-   <td><p><span>Sélectionnez des personnes dans la grille et cliquez sur le bouton "Envoyer la sélection par courriel" dans la barre</span><span>d'actions,</span><span>ou entrez des destinataires dans la </span><span>barre latérale</span><span>des messages électroniques en masse.</span></p></td> 
+   <td><p><span>Sélectionnez des personnes dans la grille et cliquez sur le bouton "Envoyer la sélection par courriel" dans la barre</span><span> d'actions, </span><span>ou entrez des destinataires dans la  </span><span>barre latérale</span><span> des messages électroniques en masse.</span></p></td> 
    <td><p><span>Oui</span> </p></td> 
    <td><p><span>Oui</span> </p></td> 
    <td><p><span>Oui</span> </p></td> 
