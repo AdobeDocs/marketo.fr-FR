@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’un modèle {#delete-a-template}
+# Supprimer un modèle {#delete-a-template}
 
 Pour supprimer un modèle, procédez comme suit.
 
@@ -20,6 +20,6 @@ Pour supprimer un modèle, procédez comme suit.
 >La suppression d’un modèle supprime également TOUS les rapports de suivi et analyses qui y sont associés.
 
 1. Sélectionnez le modèle à supprimer.
-1. Cliquez sur le menu déroulant dans le coin supérieur droit, puis cliquez sur **Supprimer**.
+1. Cliquez sur la liste déroulante de menu en haut à droite, puis cliquez sur **Supprimer**.
 1. Cliquez sur **Supprimer** pour confirmer.
 
