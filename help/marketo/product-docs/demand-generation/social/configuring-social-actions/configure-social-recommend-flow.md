@@ -19,9 +19,9 @@ Lorsque vous créez une application sociale, vous pouvez configurer les choix de
 
 >[!NOTE]
 >
->Il s’agit d’un processus très similaire à la [configuration du flux](configure-social-sign-up-share-flow.md)d’inscription/partage sur les réseaux sociaux, mais il s’agit des liens de partage *sous* l’application sociale.
+>Il s’agit d’un processus très similaire à [la configuration du flux d’inscription/partage sur les réseaux sociaux](configure-social-sign-up-share-flow.md), mais il s’agit des liens de partage *sous* l’application sociale.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -29,7 +29,7 @@ Lorsque vous créez une application sociale, vous pouvez configurer les choix de
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. Dans l’éditeur d’applications sociales, accédez à Flux **** recommandé > Réseaux **** sociaux**.**
+1. Dans l’éditeur d’applications sociales, accédez à **Flux recommandé** > **Réseaux sociaux****.**
 
    ![](assets/recommendedflow.png)
 
@@ -53,19 +53,19 @@ Lorsque vous créez une application sociale, vous pouvez configurer les choix de
 
    >[!TIP]
    >
-   >Pour plus d’informations, voir [Modification des paramètres](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)de publication enrichie Facebook.
+   >Pour plus d’informations, voir [Modifier les paramètres de publication enrichie Facebook](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >L’URL [de](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) partage est automatiquement ajoutée à tous les messages de partage.
+   >L&#39;[URL de partage](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) est automatiquement ajouté à tous les messages de partage.
 
-1. Si vous avez choisi **Ajouter le** contenu **statique** ci-dessus, modifiez le titre, la légende et la description, puis téléchargez une image personnalisée (à partir de vos images et fichiers marketing).
+1. Si vous avez choisi **Ajouter le contenu statique** **contenu** ci-dessus, modifiez le titre, la légende et la description, puis téléchargez une image personnalisée (à partir de vos images et fichiers marketing).
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
-   Voir [Ajouter des images et des fichiers au marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Voir [Ajouter des images et des fichiers sur Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
@@ -93,11 +93,11 @@ Si vous choisissez , les valeurs des balises OpenGraph de la page (og:title, og:
 
    ![](assets/image2014-9-22-12-3a3-3a21.png)
 
-   Si vous choisissez **Ajouter le contenu dynamique** , les valeurs des balises de pages (titre et description) et la miniature sont automatiquement ajoutées aux publications LinkedIn. Voir l’étape suivante.
+   Si vous choisissez **Ajouter le contenu dynamique**, les valeurs des balises de pages (titre et description) et la miniature sont automatiquement ajoutées aux publications LinkedIn. Voir l’étape suivante.
 
-   Si vous choisissez **Ajouter le contenu statique** , saisissez le titre, la légende et la description, puis téléchargez une image. Consultez les deux étapes suivantes.
+   Si vous choisissez **Ajouter le contenu statique**, saisissez le titre, la légende et la description, puis téléchargez une image. Consultez les deux étapes suivantes.
 
-1. Dans la fenêtre **Vue** et **modification** , cliquez sur **Afficher les modifications** et modifiez l’invite de partage et le message qui apparaîtront dans les publications LinkedIn.
+1. Dans la fenêtre **Vue** &amp; **Modifier**, cliquez sur **Afficher les modifications** et modifiez l’invite de partage et le message qui apparaîtront dans les publications LinkedIn.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -105,11 +105,11 @@ Si vous choisissez , les valeurs des balises OpenGraph de la page (og:title, og:
    >
    >Utilisez {html_title} dans votre texte de publication pour afficher automatiquement le titre de la page.
 
-1. Si vous avez choisi **Ajouter le contenu statique** ci-dessus, modifiez le titre et la description, puis téléchargez une image personnalisée (à partir de vos images et fichiers **** marketing).
+1. Si vous avez choisi **Ajouter le contenu statique** ci-dessus, modifiez le titre et la description, puis téléchargez une image personnalisée (de votre Mark **e**&#x200B;à Images et fichiers).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
-   Voir [Ajouter des images et des fichiers au marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Voir [Ajouter des images et des fichiers sur Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
@@ -117,17 +117,17 @@ Si vous choisissez , les valeurs des balises OpenGraph de la page (og:title, og:
 
 1. Cliquez sur **Suivant**.
 
-## Configuration du message de confirmation {#configure-the-confirmation-message}
+## Configurer le message de confirmation {#configure-the-confirmation-message}
 
 1. Modifiez le texte de la confirmation du partage.
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. Cliquez sur **Terminer** > **Approuver** et **fermer****.**
+1. Cliquez sur **Terminer** > **Approuver** et **Fermer****.**
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
 >[!MORELIKETHIS]
 >
->L’étape suivante consiste à [ajouter votre partage](customize-video-share-flow.md) de vidéo ou votre [sondage](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) à un landing page, Facebook ou votre propre site Web.
+>L’étape suivante consiste à [ajouter votre partage de vidéo](customize-video-share-flow.md) ou [sondage](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) à un landing page, à Facebook ou à votre propre site Web.
 
