@@ -27,7 +27,7 @@ Lors de l’automatisation d’une campagne, vous ne souhaitez probablement pas 
 
    ![](assets/three-2.png)
 
-1. Cochez la case **Ignorer les week-ends** .
+1. Cochez la case **Ignorer les week-ends**.
 
    ![](assets/four-2.png)
 
