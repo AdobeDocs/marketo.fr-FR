@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Gérer les données de Profil Social {#manage-social-profile-data}
+# Gérer les données du Profil social {#manage-social-profile-data}
 
-Lorsqu’une personne interagit avec une application [](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)sociale Marketo ou autorise son réseau social à préremplir un formulaire Marketo avec un formulaire [social à remplir](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo capture toutes les données disponibles à partir de son profil social. Vous pouvez vue ces informations sur la page [Détails de la](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)personne ou les ajouter sous la forme d’une colonne dans une vue [personnalisée d’une liste](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)intelligente.
+Lorsqu’un utilisateur interagit avec une [application sociale](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) de Marketo ou autorise son réseau social à préremplir un formulaire Marketo avec [remplissage de formulaire social](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo capture toutes les données disponibles à partir de son profil social. Vous pouvez vue ces informations sur la [page Détails sur la personne](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page) ou les ajouter sous forme de colonne dans une [vue personnalisée d&#39;une liste intelligente](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List).
 
 Le remplissage de formulaires sociaux et les applications sociales capturent des ensembles de champs légèrement différents ; voir la section pour chacun des éléments ci-dessous.
 
@@ -52,13 +52,13 @@ Selon les paramètres de confidentialité du réseau et de l’utilisateur, un o
 * Sexe
 * Portée sociale (nombre d’amis)
 
-### Capturé via le remplissage de formulaires sur les réseaux sociaux {#captured-via-social-form-fill}
+### Capturé via le remplissage du formulaire de réseau social {#captured-via-social-form-fill}
 
 Selon les paramètres de confidentialité du réseau et de l’utilisateur, un ou plusieurs de ces champs sont récupérés :
 
 >[!CAUTION]
 >
->Les données capturées par le remplissage de formulaires sur les réseaux sociaux remplacent les champs correspondants, sauf si vous [bloquez les mises à jour de ces champs au niveau](../../../../product-docs/administration/field-management/block-updates-to-a-field.md)du formulaire.
+>Les données capturées par le remplissage de formulaires sociaux remplacent les champs correspondants, sauf si vous [bloquez les mises à jour de ces champs au niveau du formulaire](../../../../product-docs/administration/field-management/block-updates-to-a-field.md).
 
 ## Sur Twitter : {#from-twitter-1}
 
@@ -81,11 +81,11 @@ Selon les paramètres de confidentialité du réseau et de l’utilisateur, un o
 
 >[!MORELIKETHIS]
 >
->Pour capturer ces informations à partir de formulaires, activez le remplissage [de formulaires](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)sociaux.
+>Pour capturer ces informations à partir de formulaires, activez [remplissage de formulaire social](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
 
 >[!NOTE]
 >
 >**Plongée profonde**
 >
->En savoir plus sur l&#39;utilisation des formulaires dans la plongée en profondeur [Forms](http://docs.marketo.com/display/docs/forms) .
+>Pour en savoir plus sur l’utilisation des formulaires dans la plongée profonde [Forms](http://docs.marketo.com/display/docs/forms).
 
