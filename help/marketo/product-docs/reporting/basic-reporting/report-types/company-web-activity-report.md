@@ -11,28 +11,28 @@ ht-degree: 0%
 ---
 
 
-# Rapport Activité Web société {#company-web-activity-report}
+# Rapport société d&#39;Activité Web {#company-web-activity-report}
 
 déterminer les sociétés qui visitent votre site Web ; Vous pouvez choisir d’afficher des visiteurs connus ou anonymes, mais pas les deux dans le même rapport.
 
-Créez un rapport [Activité de page](web-page-activity-report.md) Web pour identifier les personnes qui visitent votre site.
+Créez un rapport [Activité de page Web](web-page-activity-report.md) pour identifier les personnes qui visitent votre site.
 
 >[!PREREQUISITES]
 >
 >Pour capturer l&#39;activité de votre site Web à Marketo, vous devez d&#39;abord configurer [Munchkin sur votre site](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Créez un rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le type [de](report-type-overview.md)rapport Activité Web Société.
-1. Choisissez d’ [afficher les personnes](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) connues ou anonymes dans le rapport.
-1. [Définissez la période du rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) et cliquez sur l’onglet **Rapport** .
+1. [Créez un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport et sélectionnez le type  [ de ](report-type-overview.md)rapport Activité Web Société.
+1. Choisissez [afficher les personnes connues ou anonymes](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) dans le rapport.
+1. [Définissez la période de votre ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapport et cliquez sur l&#39;onglet  **** Rapport.
 1. C&#39;est tout ! Consultez votre rapport pour identifier les sociétés qui visitent votre site.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >Pour trouver les sociétés qui visitent le plus votre site, [triez votre rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) dans la colonne Vues *de* page et choisissez **Trier Descendant**.
+   >Pour trouver les sociétés qui visitent le plus votre site, [triez votre rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) dans la colonne *Vues de page* et choisissez **Trier Descendant**.
 
-   [Les colonnes que vous pouvez sélectionner](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) pour un rapport d&#39;Activité Web Société sont les suivantes :
+   [Les colonnes que vous pouvez ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) sélectionner pour un rapport d&#39;Activité Web de Société sont les suivantes :
 
 <table> 
  <thead> 
@@ -44,11 +44,11 @@ Créez un rapport [Activité de page](web-page-activity-report.md) Web pour iden
  <tbody> 
   <tr> 
    <td>Société</td> 
-   <td>La société des visiteurs.<br> <strong>Les noms en caractères gras</strong> sont confirmés comme étant le nom de la société par au moins une personne.</td> 
+   <td>La société des visiteurs.<br> <strong>Les noms en </strong> caractères gras sont confirmés comme étant le nom de la société par au moins une personne.</td> 
   </tr> 
   <tr> 
    <td>Société ou fournisseur de services Internet</td> 
-   <td>Société, telle qu’elle est déduite de l’adresse IP des visiteurs. <br> <strong>Les noms en caractères gras</strong> indiquent qu'il s'agit de la société et non du fournisseur de services Internet. </td> 
+   <td>Société, telle qu’elle est déduite de l’adresse IP des visiteurs. <br> <strong>Les noms en </strong> gras indiquent qu'il s'agit de la société, pas du FAI. </td> 
   </tr> 
   <tr> 
    <td>Vues de page</td> 
@@ -80,4 +80,4 @@ Créez un rapport [Activité de page](web-page-activity-report.md) Web pour iden
 >
 >**Plongée profonde**
 >
->Découvrez d&#39;autres rapports intéressants dans la plongée en profondeur [Basic Rapports](http://docs.marketo.com/display/docs/basic+reporting) .
+>Découvrez d&#39;autres rapports intéressants dans la plongée profonde [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
