@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Priorité de l’ordre de segmentation {#segmentation-order-priority}
 
-Il est important de comprendre comment l’ **ordre** définit la priorité pour l’évaluation de votre personnel dans une segmentation.
+Il est important de comprendre comment **order** définit la priorité pour l&#39;évaluation de votre personnel dans une segmentation.
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ Il est important de comprendre comment l’ **ordre** définit la priorité pour
 
    ![](assets/image2017-3-29-8-3a9-3a33.png)
 
-1. Sélectionnez votre **segmentation**. Dans Actions **** de segmentation, cliquez sur **Modifier les segments**.
+1. Sélectionnez votre **Segmentation**. Dans **Actions de segmentation**, cliquez sur **Modifier les segments**.
 
    ![](assets/image2014-9-16-10-3a11-3a55.png)
 
@@ -49,5 +49,5 @@ Il est important de comprendre comment l’ **ordre** définit la priorité pour
 
 
 
-Cool, hein ? Vous pouvez utiliser des segments pour le contenu dynamique, le [rapports](http://docs.marketo.com/display/docs/basic+reporting) et même dans les listes [](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)dynamiques.
+Cool, hein ? Vous pouvez utiliser des segments pour le contenu dynamique, [rapports](http://docs.marketo.com/display/docs/basic+reporting) et même dans [les listes dynamiques](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
