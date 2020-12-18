@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Vérifier votre adresse électronique {#verify-your-email}
+# Vérifiez votre adresse électronique {#verify-your-email}
 
 Si votre identité de courriel n&#39;est pas vérifiée, suivez les étapes ci-dessous.
 
@@ -19,11 +19,11 @@ Si votre identité de courriel n&#39;est pas vérifiée, suivez les étapes ci-d
 
    ![](assets/verify-your-email-1.png)
 
-1. Sous Mon compte, cliquez sur Paramètres **de** courriel.
+1. Sous Mon compte, cliquez sur **Paramètres de courriel**.
 
    ![](assets/verify-your-email-2.png)
 
-1. Sous Adresse et signature, recherchez l’identité électronique à vérifier, puis cliquez sur **Renvoyer la vérification du courrier électronique**. Un nouveau courrier électronique de vérification sera envoyé.
+1. Sous Adresse et signature, recherchez l’identité de courriel à vérifier, puis cliquez sur **Renvoyer le message de vérification**. Un nouveau courrier électronique de vérification sera envoyé.
 
    ![](assets/verify-your-email-3.png)
 
