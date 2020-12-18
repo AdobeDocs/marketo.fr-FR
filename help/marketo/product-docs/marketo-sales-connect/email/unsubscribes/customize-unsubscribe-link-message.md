@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Personnaliser le message de désabonnement de lien {#customize-unsubscribe-link-message}
+# Personnaliser le message de lien de désabonnement {#customize-unsubscribe-link-message}
 
 Nous avons toujours permis aux équipes de personnaliser leur message de désabonnement de lien, mais les administrateurs peuvent désormais définir le message de désabonnement de lien pour l&#39;ensemble de leur équipe afin d&#39;assurer une messagerie cohérente.
 
@@ -19,13 +19,13 @@ Nous avons toujours permis aux équipes de personnaliser leur message de désabo
 >
 >Vous ne pouvez pas utiliser un lien de désabonnement tiers avec Sales Connect, car ces informations ne seront pas récupérées dans notre base de données.
 
-## Personnaliser les messages pour vous-même {#customize-messaging-for-yourself}
+## Personnaliser la messagerie pour vous-même {#customize-messaging-for-yourself}
 
-1. Connectez-vous à l’application [](http://toutapp.com/login)Web, cliquez sur l’icône en forme d’engrenage en haut à droite et choisissez **Paramètres**.
+1. Connectez-vous à l’[application Web](http://toutapp.com/login), cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
 
    ![](assets/one.png)
 
-1. Sous Mon compte, sélectionnez **Désabonnement**.
+1. Sous Mon compte, sélectionnez **Désabonnements**.
 
    ![](assets/two-1.png)
 
@@ -45,13 +45,13 @@ Nous avons toujours permis aux équipes de personnaliser leur message de désabo
 
    ![](assets/five.png)
 
-## Définir la messagerie de désabonnement pour votre équipe {#set-unsubscribe-messaging-for-your-team}
+## Définir le message de désabonnement de votre équipe {#set-unsubscribe-messaging-for-your-team}
 
-1. Connectez-vous à l’application [](http://toutapp.com/login)Web, cliquez sur l’icône en forme d’engrenage en haut à droite et choisissez **Paramètres**.
+1. Connectez-vous à l’[application Web](http://toutapp.com/login), cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
 
    ![](assets/six.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Désabonnement**.
+1. Sous Paramètres d’administration, sélectionnez **Désabonne**.
 
    ![](assets/eight.png)
 
@@ -59,7 +59,7 @@ Nous avons toujours permis aux équipes de personnaliser leur message de désabo
 
    ![](assets/seven.png)
 
-1. Sélectionnez **Je suis en train de définir le message par défaut de mon équipe** pour que le message s’applique à tous les utilisateurs.
+1. Sélectionnez **Je suis en train de définir le message par défaut pour mon équipe** pour que le message s&#39;applique à tous les utilisateurs.
 
    ![](assets/eleven.png)
 
