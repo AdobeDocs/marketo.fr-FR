@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Publication d’une Offre de référence {#publish-a-referral-offer}
+# Publier une Offre de référence {#publish-a-referral-offer}
 
-Après avoir [créé une offre](create-a-referral-offer.md)de référence, vous pouvez la publier sur vos landings page Marketo, sur Facebook et sur votre site Web.
+Après avoir [créé une offre de référence](create-a-referral-offer.md), vous pouvez la publier sur vos landings page Marketo, sur Facebook et sur votre site Web.
 
 1. Accédez à votre landing page et ouvrez-le pour le modifier.
 
    ![](assets/image2014-9-19-11-3a15-3a30.png)
 
-1. Faites glisser le pointeur de la souris sur l’Offre **** de référence depuis la palette de droite.
+1. Faites glisser **Offre de renvoi** depuis la palette de droite.
 
    ![](assets/image2014-9-19-11-3a15-3a42.png)
 
