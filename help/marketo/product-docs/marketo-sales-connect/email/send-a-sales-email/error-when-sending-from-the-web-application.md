@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Erreur lors de l&#39;envoi à partir de l&#39;Application web {#error-when-sending-from-the-web-application}
 
-En règle générale, lorsqu’une erreur est générée à partir de l’application [](http://toutapp.com/login)Web, elle est due à un problème de mise en forme de votre courrier électronique, ou aux champs dynamiques. Assurez-vous que tout est correctement renseigné dans la fenêtre de composition, puis réessayez d’envoyer.
+En règle générale, lorsqu’une erreur est générée à partir de l’[application Web](http://toutapp.com/login), cela est dû à un problème de mise en forme de votre courrier électronique ou aux champs dynamiques. Assurez-vous que tout est correctement renseigné dans la fenêtre de composition, puis réessayez d’envoyer.
