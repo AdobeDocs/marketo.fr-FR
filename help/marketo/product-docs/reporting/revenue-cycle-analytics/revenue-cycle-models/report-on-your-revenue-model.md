@@ -23,11 +23,11 @@ Pour chaque modèle de cycle de recettes, vous pouvez générer un rapport sur l
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Cliquez sur **Pistes par étape** de recettes.
+1. Cliquez sur **Pistes par stade des recettes**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Cliquez sur l&#39;onglet **Configuration** , puis sous la section Filtre, doublon-cliquez sur Modèle **de cycle de** recettes.
+1. Cliquez sur l&#39;onglet **Configuration**, puis sous la section Filtre, cliquez sur le doublon **Modèle du cycle de recettes**.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
