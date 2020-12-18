@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Modification du contenu prédictif pour le média enrichi {#edit-predictive-content-for-rich-media}
+# Modifier le contenu prédictif pour le média enrichi {#edit-predictive-content-for-rich-media}
 
 >[!NOTE]
 >
->En fonction de la date d’achat, votre abonnement Marketo peut inclure du contenu prédictif ou<sup>ContentAI</sup>. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités<sup>ContentAI</sup> Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers Marketo<sup>ContentAI</sup>.
+>Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu <sup>AI</sup>. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités d’analyse Content<sup>AI</sup> jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers Marketo Content<sup>AI</sup>.
 
 Voici comment configurer votre contenu prédictif pour Rich Media.
 
 >[!PREREQUISITES]
 >
->Le contenu doit être [approuvé pour le contenu](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) prédictif sur la page Tout le contenu.
+>Le contenu doit être [approuvé pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) sur la page Tout le contenu.
 
-1. Sur la page Contenu **** prédictif, cliquez sur un titre pour ouvrir l’éditeur.
+1. Sur la page **Contenu prédictif**, cliquez sur un titre pour ouvrir l’éditeur.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Cliquez sur Média **** enrichi.
+1. Cliquez sur **Média enrichi**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -35,11 +35,11 @@ Voici comment configurer votre contenu prédictif pour Rich Media.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. Saisissez une **description**.
+1. Tapez **Description**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Cliquez sur la zone **Catégories** pour sélectionner/ajouter des [catégories que vous avez déjà configurées](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facultatif).
+1. Cliquez sur la zone **Catégories** pour sélectionner/ajouter [catégories que vous avez déjà configurées](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facultatif).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
