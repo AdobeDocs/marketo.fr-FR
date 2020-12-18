@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’un extrait de code {#delete-a-snippet}
+# Supprimer un extrait de code {#delete-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 Supprimez un fragment dont vous n&#39;avez plus besoin.
 
-1. Rendez-vous au **Design Studio.**
+1. Accédez à **Design Studio.**
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Accédez à votre extrait de code, puis sous Actions **de** fragment de code, cliquez sur **Supprimer**.
+1. Accédez à votre extrait de code, puis sous **Snippet Actions** cliquez sur **Supprimer**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
