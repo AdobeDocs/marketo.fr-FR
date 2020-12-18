@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création d’un modèle de Landing page à structure libre {#create-a-free-form-landing-page-template}
+# Créer un modèle de Landing page de forme libre {#create-a-free-form-landing-page-template}
 
 Les landings page libres requièrent moins de connaissances techniques que leurs homologues guidés. Pour créer un modèle pour les landings page futurs, procédez comme décrit ci-dessous.
 
@@ -19,11 +19,11 @@ Les landings page libres requièrent moins de connaissances techniques que leurs
 
    ![](assets/one.png)
 
-1. Cliquez sur **Nouveau**, puis sélectionnez **Nouveau modèle** de Landing page.
+1. Cliquez sur **Nouveau**, puis sélectionnez **Nouveau modèle de Landing page**.
 
    ![](assets/two.png)
 
-1. Sélectionnez votre dossier, puis attribuez un nom à votre modèle. Comme le mode de modification par défaut est Free-form, une fois votre modèle nommé, cliquez sur **Créer**.
+1. Sélectionnez votre dossier, puis attribuez un nom à votre modèle. Le mode de modification par défaut est Free-form. Après avoir nommé votre modèle, cliquez sur **Créer**.
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ Les landings page libres requièrent moins de connaissances techniques que leurs
    >
    >La prise en charge du marketing n’est pas configurée pour aider à résoudre les problèmes liés au code HTML personnalisé. Pour obtenir de l’aide sur HTML, veuillez consulter un développeur Web.
 
-1. Une fois les modifications effectuées, cliquez sur Actions **** de modèle, puis sélectionnez **Approuver et fermer**.
+1. Une fois les modifications effectuées, cliquez sur **Actions du modèle**, puis sélectionnez **Approuver et fermer**.
 
    ![](assets/five.png)
 
@@ -43,8 +43,8 @@ Les landings page libres requièrent moins de connaissances techniques que leurs
 
    >[!NOTE]
    >
-   >Sélectionnez **Désactiver le suivi** Munchkin si vous souhaitez empêcher les formulaires de s’insérer automatiquement dans le formulaire ou si vous ne souhaitez pas suivre le comportement Web sur une page spécifique.\
-   >Sélectionnez **Valider la compatibilité** mobile pour vous assurer que votre code est compatible avec les périphériques mobiles.
+   >Sélectionnez **Désactiver le suivi Munchkin** si vous souhaitez empêcher les formulaires de se pré-remplir ou si vous ne souhaitez pas suivre le comportement Web sur une page spécifique.\
+   >Sélectionnez **Valider la compatibilité mobile** pour vous assurer que votre code est compatible avec les périphériques mobiles.
 
    >[!NOTE]
    >
