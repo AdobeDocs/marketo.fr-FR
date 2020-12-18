@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Créer un rapport d&#39;appel prioritaire Salesforce avec les données de connexion des ventes {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# Créer un rapport d&#39;appel prioritaire Salesforce avec les données de connexion client {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 Découvrez comment créer une liste de rapports/d&#39;appels de Salesforce à l&#39;aide des données d&#39;engagement par courriel de Sales Connect pour vous concentrer sur les personnes ou les opportunités avec un élan.
 
