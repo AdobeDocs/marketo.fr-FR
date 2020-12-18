@@ -17,11 +17,11 @@ En utilisant la recherche avancée pour les prospects de cible qui ont consulté
 
 ## Accès à la recherche avancée {#how-to-access-advanced-search}
 
-1. Cliquez sur Centre de **commandes**.
+1. Cliquez sur **Centre de commandes**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Courriers électroniques**.
+1. Cliquez sur **Courriels**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ En utilisant la recherche avancée pour les prospects de cible qui ont consulté
 
    ![](assets/three.png)
 
-1. Cliquez sur Recherche **** avancée.
+1. Cliquez sur **Recherche avancée**.
 
    ![](assets/four.png)
 
