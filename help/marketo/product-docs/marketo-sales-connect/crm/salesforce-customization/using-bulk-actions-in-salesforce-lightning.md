@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation d’actions en masse dans l’éclair Salesforce {#using-bulk-actions-in-salesforce-lightning}
+# Utilisation d’actions en bloc dans Salesforce Lightning {#using-bulk-actions-in-salesforce-lightning}
 
 Découvrez comment effectuer des actions en masse, comme ajouter des pistes à une campagne, envoyer un courriel en masse ou pousser des pistes de Salesforce à Sales Connect.
 
@@ -23,9 +23,9 @@ Découvrez comment effectuer des actions en masse, comme ajouter des pistes à u
 >
 >Avant de suivre les étapes ci-dessous, vérifiez que vous êtes connecté à votre compte Marketing Cloud Sales Connect.
 
-## Courrier électronique en masse {#bulk-email}
+## Courriel en bloc {#bulk-email}
 
-1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes** , puis choisissez la liste des pistes souhaitées.
+1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes**, puis choisissez la liste des pistes souhaitées.
 
    ![](assets/one-6.png)
 
@@ -48,11 +48,11 @@ Découvrez comment effectuer des actions en masse, comme ajouter des pistes à u
 
 ## Ajouter à Campaign {#add-to-campaign}
 
-1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes** , puis choisissez la liste des pistes souhaitées.
+1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes**, puis choisissez la liste des pistes souhaitées.
 
    ![](assets/four-4.png)
 
-1. Cliquez sur la liste déroulante des flèches (à l’extrême droite de l’écran) et sélectionnez **Ajouter au Campaign** MSC.
+1. Cliquez sur la liste déroulante des flèches (à l’extrême droite de l’écran) et sélectionnez **Ajouter au MSC Campaign**.
 
    ![](assets/five-4.png)
 
@@ -60,17 +60,17 @@ Découvrez comment effectuer des actions en masse, comme ajouter des pistes à u
 
    ![](assets/six-1.png)
 
-## Poussez à la connexion commerciale {#push-to-marketo-sales-connect}
+## Poussez à Marketing Sales Connect {#push-to-marketo-sales-connect}
 
-1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes** , puis choisissez la liste des pistes souhaitées.
+1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes**, puis choisissez la liste des pistes souhaitées.
 
    ![](assets/seven-2.png)
 
-1. Cliquez sur la liste déroulante des flèches (à l’extrême droite de l’écran) et sélectionnez **Push to MSC**(Push to MSC).
+1. Cliquez sur la liste déroulante des flèches (à l’extrême droite de l’écran) et sélectionnez **Push to MSC**.
 
    ![](assets/eight-2.png)
 
-1. Un nouvel onglet appelé &quot;Salesforce Bridge&quot; s&#39;ouvre. Cliquez sur le bouton **Passez au groupe →** .
+1. Un nouvel onglet appelé &quot;Salesforce Bridge&quot; s&#39;ouvre. Cliquez sur le bouton **Accéder au groupe →**.
 
    ![](assets/nine-2.png)
 
