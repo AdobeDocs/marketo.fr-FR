@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configurer l’attribution des recettes pour les campagnes de publicité numérique {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# Configurer l&#39;attribution des recettes pour les campagnes de publicité numérique {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 Voici comment configurer l’attribution des recettes pour les canaux et campagnes de publicité numérique. Après l’avoir configuré, vous pouvez attribuer des recettes Première touche et Multipoint aux annonces numériques de la même manière que dans les autres programmes du marché.
 
@@ -33,7 +33,7 @@ Avec des programmes distincts, vous pouvez ensuite effectuer le suivi du nombre 
 
 Contrairement à certains programmes (tels que le courriel) qui peuvent s’exécuter périodiquement pendant une période donnée, les programmes par défaut sont toujours activés.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -41,7 +41,7 @@ Contrairement à certains programmes (tels que le courriel) qui peuvent s’exé
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Si vous avez déjà un programme en place, vous pouvez le [cloner](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Si un programme est déjà en place, vous pouvez [le cloner](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -60,7 +60,7 @@ Contrairement à certains programmes (tels que le courriel) qui peuvent s’exé
    >Vous pouvez créer une méthodologie de chaîne de requête qui inclut toutes les variables à mesurer. Marketo utilise ces variables pour ajouter des personnes à vos différents programmes.
    >
    >
-   >Par exemple, vous pouvez utiliser le Canal type_Canal__Asset__Region. Cela pourrait ressembler à ceci : SP_FB_NewGuide_US. **Remarque**: les abréviations économisent de l’espace.
+   >Par exemple, vous pouvez utiliser le Canal type_Canal__Asset__Region. Cela pourrait ressembler à ceci : SP_FB_NewGuide_US. **Remarque** : les abréviations économisent de l’espace.
    >
    >
    >Ou, configurez-le en tant que Canal_Adsource_AssetName_Region_UniqueIdNumber. Cela pourrait ressembler à ceci : Social-Paid_Facebook_NewGuide_NA_123.
@@ -73,19 +73,19 @@ Contrairement à certains programmes (tels que le courriel) qui peuvent s’exé
 
    >[!NOTE]
    >
-   >La chaîne de requête utilisée dans les deux déclencheurs et le filtre Nom **capturé du** Programme vous est propre. Les chaînes de requête affichées ici sont par exemple uniquement. Si vous avez cloné le champ, remplacez simplement ces champs.
+   >La chaîne de requête utilisée dans les deux déclencheurs et le filtre **Programme qui a capturé le nom** vous est propre. Les chaînes de requête affichées ici sont par exemple uniquement. Si vous avez cloné le champ, remplacez simplement ces champs.
 
-1. Créez une étape de flux pour modifier l’attribut en Programme **d’** acquisition et définissez la nouvelle valeur sur la valeur que vous avez définie pour les campagnes sociales payantes.
+1. Créez une étape de flux pour remplacer l’attribut par **Programme d’acquisition** et définissez la nouvelle valeur sur la valeur que vous avez définie pour les campagnes sociales payantes.
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
 1. Planifiez et activez la campagne.
 
-## Créer une Campaign intelligente pour un état/un Programme réussi {#create-a-smart-campaign-for-status-program-success}
+## Créer une Campaign intelligente pour le statut/le Programme {#create-a-smart-campaign-for-status-program-success}
 
 Vous avez besoin d’une seconde campagne intelligente pour modifier l’état des personnes, afin qu’elles puissent réussir sur le Programme et être incluses dans les calculs d’attribution des recettes.
 
-1. Dans le déclencheur **Remplit le formulaire** , saisissez le nom du programme dans la chaîne de requête. Si vous clonez le programme, remplacez simplement l’ancien nom de chaîne de requête par le nouveau.
+1. Dans le déclencheur **Remplit le formulaire**, entrez le nom du programme dans la chaîne de requête. Si vous clonez le programme, remplacez simplement l’ancien nom de chaîne de requête par le nouveau.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -120,10 +120,10 @@ Après avoir configuré le programme et les campagnes, créez la nouvelle public
    >
    >    
    >    
-   >    * **source** est la source de la personne utilisée comme identifiant de canal
-   >    * **commentaire** est l&#39;identifiant unique créé pour chaque programme
-   >    * **camp** est la campagne dans Facebook, LinkedIn ou Google
-   >    * **kk** est le mot-clé ou le nom de fichier à capturer
+   >    * **** source est la source personnelle utilisée comme identifiant de canal.
+   >    * **** commente l&#39;identifiant unique créé pour chaque programme
+   >    * **** campagne est la campagne dans Facebook, LinkedIn ou Google
+   >    * **** kkis le mot-clé ou le nom de fichier à capturer
 
    >    
    >    
