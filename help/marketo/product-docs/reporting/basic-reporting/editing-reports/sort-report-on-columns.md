@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Utilisez les colonnes pour trier les données de votre rapport et rendre les chiffres les plus importants faciles à trouver.
 
-1. Accédez à **Analytics** (ou Activités **** marketing).
+1. Accédez à **Analytics** (ou **Activités marketing**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre rapport dans l&#39;arborescence de navigation, puis cliquez sur l&#39;onglet **Rapport** .
+1. Sélectionnez votre rapport dans l&#39;arborescence de navigation, puis cliquez sur l&#39;onglet **Rapport**.
 
    ![](assets/reports2.jpg)
 
@@ -45,5 +45,5 @@ Utilisez les colonnes pour trier les données de votre rapport et rendre les chi
    >**Plongée profonde**
    >
    >
-   >Découvrez toute la puissance de l&#39;utilisation des rapports dans le Rapports [de](http://docs.marketo.com/display/docs/basic+reporting)base.
+   >Découvrez toute la puissance de l&#39;utilisation des rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
