@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092902
-description: Modèle 19-E - Documents marketing - Documentation du produit
+description: Modèle 19-A - Documents marketing - Documentation du produit
 title: Modèle 19-E
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
