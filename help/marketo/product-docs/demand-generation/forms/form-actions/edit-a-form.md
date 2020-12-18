@@ -19,7 +19,7 @@ Si vous souhaitez apporter des modifications à un formulaire existant, voici co
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/editform.png)
 
@@ -27,5 +27,5 @@ Si vous souhaitez apporter des modifications à un formulaire existant, voici co
 >
 >**Plongée profonde**
 >
->Pour en savoir plus sur la modification et la personnalisation des [formulaires](http://docs.marketo.com/display/docs/forms) , voir ici.
+>Pour en savoir plus sur la modification et la personnalisation des [formulaires](http://docs.marketo.com/display/docs/forms) ici.
 
