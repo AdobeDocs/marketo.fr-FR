@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# Configurer le profilage progressif du formulaire {#configure-form-progressive-profiling}
+# Configurer le profilage progressif de formulaire {#configure-form-progressive-profiling}
 
 Les formes courtes sont bonnes ! Lorsque quelqu’un revient à un formulaire, vous pouvez présenter de nouveaux champs et remplir progressivement le profil du visiteur. Voici comment.
 
 >[!NOTE]
 >
->Pour que cette fonction fonctionne correctement, assurez-vous que l’option Préremplissage du formulaire est activée pour les champs visibles et [désactivée](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) pour les champs masqués.
+>Pour que cette fonction fonctionne correctement, assurez-vous que le préremplissage du formulaire est activé pour les champs visibles et [désactivé](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) pour les champs masqués.
 
 1. Accédez à **Marketing** **Activités**.
 
    ![](assets/ma-1.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Sous **Paramètres** **du formulaire**, cliquez sur **Paramètres**.
+1. Sous **Formulaire** **Paramètres**, cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Définissez le **profilage** **progressif** sur **Activé**.
+1. Définissez **Progressive** **Profilage** sur **Activé**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. D&#39;accord, maintenant on le configure. Accédez à **Field** **Details**(Détails du champ).
+1. D&#39;accord, maintenant on le configure. Accédez à **Field** **Details**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 Faites glisser et déposez tous les champs qui font partie du jeu de profils progressif.
@@ -47,9 +47,9 @@ Faites glisser et déposez tous les champs qui font partie du jeu de profils pro
 
    >[!NOTE]
    >
-   >Les champs situés à l’extérieur de la zone **Profilement** progressif **** s’affichent toujours dans le formulaire, même s’ils sont remplis.
+   >Les champs situés à l’extérieur de la zone **Profilé** **Profilage** s’affichent toujours dans le formulaire, même s’ils sont remplis.
 
-1. Sélectionnez la zone **Profilage** progressif **** .
+1. Sélectionnez la zone **Profilement progressif** **Profilage**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -57,7 +57,7 @@ Faites glisser et déposez tous les champs qui font partie du jeu de profils pro
    >
    >Soyez prudent lorsque vous utilisez les champs requis dans le profilage progressif. Ces champs peuvent toujours rester vides si le visiteur entre une nouvelle adresse électronique (qui créerait une nouvelle personne) après avoir envoyé des données pour les autres champs, car elles seraient supprimées sur le dernier formulaire.
 
-1. Désormais, choisissez le nombre de champs vierges que vous souhaitez que les utilisateurs voient à partir de la zone **Profilage** **progressif** à un moment donné.
+1. Désormais, choisissez le nombre de champs vierges que vous souhaitez voir dans la zone **Progressif** **Profilement** à un moment donné.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
@@ -66,7 +66,7 @@ Faites glisser et déposez tous les champs qui font partie du jeu de profils pro
    >**Exemple**
    >
    >
-   >Si vous choisissez **Nombre** **de** champs **vierges** **sur 1, le visiteur verra ce qui suit la première fois qu’il verra ce formulaire :**
+   >Si vous sélectionnez **Nombre** **de** **Vierge** **Champs** comme 1, le visiteur voit ce qui suit pour la première fois :
    >
    >    
    >    
