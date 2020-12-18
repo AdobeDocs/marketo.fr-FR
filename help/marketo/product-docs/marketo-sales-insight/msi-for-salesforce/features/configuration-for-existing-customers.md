@@ -22,7 +22,7 @@ Configurez la configuration suivante afin de commencer à utiliser le nouveau Ta
 ## Configurer Sales Insight dans Marketo {#configure-sales-insight-in-marketo}
 
 1. Ouvrez un nouvel onglet dans votre navigateur pour obtenir les informations d’identification des statistiques de ventes du marketing à partir de votre compte Marketo.
-1. Accédez à la zone **Admin** .
+1. Accédez à la zone **Admin**.
 
    ![](assets/configure-1.png)
 
@@ -42,11 +42,11 @@ Configurez la configuration suivante afin de commencer à utiliser le nouveau Ta
 
    ![](assets/sfdc-1.png)
 
-1. Recherchez et sélectionnez Paramètres **du site** distant.
+1. Recherchez et sélectionnez **Paramètres du site distant**.
 
    ![](assets/sfdc-2.png)
 
-1. Cliquez sur **Nouveau site** distant.
+1. Cliquez sur **Nouveau site distant**.
 
    ![](assets/sfdc-3.png)
 
@@ -60,7 +60,7 @@ Configurez la configuration suivante afin de commencer à utiliser le nouveau Ta
 
    Vous avez maintenant créé un paramètre de site distant pour l’API REST.
 
-## Accéder à Marketo Sales Insight {#access-marketo-sales-insight}
+## Accéder à Marketing Sales Insight {#access-marketo-sales-insight}
 
 1. Copiez les informations d’identification du panneau API REST dans la page d’administration de Sales Insight de Marketo. Collez-les dans la section API REST de la page de configuration de Sales Insight de Salesforce.
 1. Entrez la clé secrète de l&#39;API.
