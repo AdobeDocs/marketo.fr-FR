@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation d’un modèle dans la fenêtre Composer {#using-a-template-in-the-compose-window}
+# Utilisation d&#39;un modèle dans la fenêtre Composer {#using-a-template-in-the-compose-window}
 
 ## Recherche et utilisation de modèles {#finding-and-using-templates}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## Epinglage de Catégories de modèle dans la fenêtre Composer {#pinning-template-categories-in-the-compose-window}
 
-Utilisez **jusqu’à cinq** catégories de modèles spécifiques pour accéder rapidement à vos modèles les plus utilisés.
+Favoris **jusqu’à cinq** catégories de modèle spécifiques pour accéder rapidement à vos modèles les plus utilisés.
 
 1. Créez votre brouillon de courrier électronique (il existe plusieurs façons de procéder, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
 
@@ -55,7 +55,7 @@ Utilisez **jusqu’à cinq** catégories de modèles spécifiques pour accéder 
 
    ![](assets/pinning-three.png)
 
-1. Cliquez sur **Enregistrer les modifications** une fois terminé (facultatif) : répétez l’étape 3 pour en ajouter d’autres).
+1. Cliquez sur **Enregistrer les modifications** une fois terminé (facultatif). répétez l’étape 3 pour en ajouter d’autres).
 
    ![](assets/pinning-four.png)
 
@@ -67,7 +67,7 @@ Utilisez **jusqu’à cinq** catégories de modèles spécifiques pour accéder 
 
    >[!NOTE]
    >
-   >**Par défaut, les Favoris** y figurent. Il contient les modèles de courrier électronique favoris, pas les catégories.
+   >**** Favoris par défaut. Il contient les modèles de courrier électronique favoris, pas les catégories.
 
    >[!NOTE]
    >
