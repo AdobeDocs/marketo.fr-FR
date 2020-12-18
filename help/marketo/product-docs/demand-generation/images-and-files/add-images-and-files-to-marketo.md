@@ -19,7 +19,7 @@ Il est facile d’ajouter plusieurs images et fichiers simultanément.
 
    ![](assets/designstudio.png)
 
-1. Sous **Nouveau**, cliquez sur** Télécharger l’image** **ou sur** **Fichier**.
+1. Sous **New**, cliquez sur** Upload Image** **ou** **Fichier**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -35,7 +35,7 @@ Il est facile d’ajouter plusieurs images et fichiers simultanément.
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. Développez le champ Détails **du** fichier pour vérifier que vous avez sélectionné les images appropriées, puis cliquez sur **Télécharger**.
+1. Développez **Détails du fichier** pour vérifier que vous avez sélectionné les images appropriées, puis cliquez sur **Télécharger**.
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
@@ -63,7 +63,7 @@ Bien joué !
 >
 >Bien que Marketo accepte tous les types de fichier pour le téléchargement, seuls les principaux types d’image (JPG, PNG, GIF, etc.) fonctionnera dans notre éditeur de messagerie.
 
-## Regarder une vidéo {#watch-a-video}
+## Visionnage d’une vidéo {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
