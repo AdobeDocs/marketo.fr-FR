@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Vérifier le nombre de votes dans le sondage {#review-votes-cast-in-poll}
+# Examiner les votes exprimés dans le sondage {#review-votes-cast-in-poll}
 
 Qui a voté pour quoi dans votre sondage ? Voyons voir.
 
-1. Dans Activités **** marketing, sélectionnez le sondage, puis cliquez sur l’onglet **Participants** .
+1. Dans **Activités marketing**, sélectionnez le sondage, puis cliquez sur l’onglet **Participants**.
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Cliquez sur le nombre dans la colonne **Votes** .
+1. Cliquez sur le numéro dans la colonne **Votes**.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
@@ -32,5 +32,5 @@ Qui a voté pour quoi dans votre sondage ? Voyons voir.
    >**Articles connexes**
    >
    >
-   >En savoir plus sur la portée sociale et l’impact de vos applications dans les performances [des réseaux sociaux de](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md)Vue.
+   >En savoir plus sur la portée sociale et l’impact de vos applications dans [Vue Social Performance](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
