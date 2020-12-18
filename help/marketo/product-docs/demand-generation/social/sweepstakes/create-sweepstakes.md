@@ -21,7 +21,7 @@ Un tirage donne aux gens la possibilité de gagner un prix en échange d&#39;avo
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-1. Dans votre programme, sélectionnez **Nouveau > Nouveau fichier** local.
+1. Dans votre programme, sélectionnez **Nouveau > Nouvel actif local**.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
@@ -35,7 +35,7 @@ Un tirage donne aux gens la possibilité de gagner un prix en échange d&#39;avo
 
    >[!TIP]
    >
-   >Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir** pour copier tous les paramètres d’un tirage existant.
+   >Pour gagner du temps, vous pouvez utiliser l&#39;option **Cloner à partir de** pour copier tous les paramètres d&#39;un tirage existant.
 
 1. Cliquez sur **Tirage** **Détails**.
 
@@ -49,7 +49,7 @@ Un tirage donne aux gens la possibilité de gagner un prix en échange d&#39;avo
    >
    >Pour les dessins quotidiens et hebdomadaires, les heures de début et de fin sont fixées respectivement à 12h et 23h59. Pour un dessin unique, vous pouvez choisir vos propres débuts et heures de fin.
 
-1. Cliquez sur **Options** **avancées**.
+1. Cliquez sur **Options avancées** **Options**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -61,13 +61,13 @@ Un tirage donne aux gens la possibilité de gagner un prix en échange d&#39;avo
 
    >[!NOTE]
    >
-   >Dans cet écran, vous pouvez également ajouter un lien vers la politique de confidentialité. Voir [Ajouter votre politique de confidentialité à une application](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)Social.
+   >Dans cet écran, vous pouvez également ajouter un lien vers la politique de confidentialité. Voir [Ajouter votre politique de confidentialité à une application Social](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. Cliquez sur **Terminer**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. Cliquez sur **Approuver** **et** Fermer ****.
+1. Cliquez sur **Approuver** **et** **Fermer**.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
@@ -81,6 +81,6 @@ Un tirage donne aux gens la possibilité de gagner un prix en échange d&#39;avo
    >
    >**Articles connexes**
    >
-   >L’étape suivante consiste à [publier votre tirage](publish-a-sweepstakes.md), mais vous pouvez modifier l’apparence et les paramètres de votre tirage. Début avec [personnalisation des styles](customize-sweepstakes-styles.md)de tirage.
+   >L&#39;étape suivante consiste à [publier votre tirage](publish-a-sweepstakes.md), mais vous pouvez modifier l&#39;apparence et les paramètres de votre tirage. Début avec [personnalisation des styles de tirage](customize-sweepstakes-styles.md).
 
 L’éditeur de tirage s’ouvre dans une nouvelle fenêtre. Les paramètres par défaut sont tous bons, mais vous devez tout de même configurer quelques détails. Nous vous montrerons comment procéder dans les prochaines étapes.                    S&#39;il y a des problèmes dans le tirage, vous serez invité à les résoudre avant que le tirage ne soit approuvé.
