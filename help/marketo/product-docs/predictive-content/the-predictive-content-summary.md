@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Selon la date d’achat, votre abonnement Marketo peut inclure du contenu prédictif ou du contenu`<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités d’analyse de contenu`<sup>AI</sup>` jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers le contenu`<sup>AI</sup>`Marketo.
+>Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 Le résumé du contenu prédictif affiche en un coup d’oeil les informations dont vous avez besoin sur votre contenu prédictif, avec des tableaux, des graphiques et des chiffres actuels.
 
@@ -37,7 +37,7 @@ Consultez votre taux de conversion en comparant le nombre total de clics et de p
 
 ![](assets/predictive-engagement-actual.png)
 
-## Tendance du contenu par Vue  {#content-trend-by-views}
+## Tendance du contenu par Vue {#content-trend-by-views}
 
 Comparez comment vos vues de tout le contenu correspondent à votre contenu prédictif.
 
