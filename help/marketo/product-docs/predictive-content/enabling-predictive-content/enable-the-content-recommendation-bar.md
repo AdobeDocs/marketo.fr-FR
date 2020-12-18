@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Activation de la barre de recommandation de contenu {#enable-the-content-recommendation-bar}
+# Activer la barre de recommandation de contenu {#enable-the-content-recommendation-bar}
 
 Le moteur de recommandation de contenu utilise des analyses prédictives et des algorithmes d’apprentissage automatique pour diffuser du contenu pertinent à chaque visiteur Web. Le moteur de recommandation prédit le contenu le plus performant par visiteur. Le contenu du moteur est surveillé et contrôlé sous la page Recommendations, ce qui vous permet d’optimiser le RSI de votre contenu.
 
@@ -23,9 +23,9 @@ Le moteur de recommandation de contenu utilise des analyses prédictives et des 
 >* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
-## Activation et personnalisation de la barre de recommandation de contenu {#enable-and-customize-the-content-recommendation-bar}
+## Activer et personnaliser la barre de recommandation de contenu {#enable-and-customize-the-content-recommendation-bar}
 
-1. Accédez à Paramètres **** de contenu.
+1. Accédez à **Paramètres de contenu**.
 
    ![](assets/settings-dropdown-hand.png)
 
@@ -33,7 +33,7 @@ Le moteur de recommandation de contenu utilise des analyses prédictives et des 
 
    ![](assets/content-settings-bar-hand.png)
 
-1. Pour activer la barre de recommandation pour une URL, il vous suffit de cliquer sur **Activé** , puis **Enregistrer**.
+1. Pour activer la barre de recommandation pour une URL, il vous suffit de cliquer sur **On**, puis sur **Save**.
 
    ![](assets/bar-enable.png)
 
@@ -53,9 +53,9 @@ Le moteur de recommandation de contenu utilise des analyses prédictives et des 
    * Ce champ est sensible à la casse
 
 
-## Considérations relatives à la barre des recommandations {#recommendation-bar-considerations}
+## Considérations sur la barre de recommandation {#recommendation-bar-considerations}
 
-* Pour que le moteur de recommandation fonctionne, vous devez disposer d’au moins un élément de contenu pour que la barre de recommandations soit définie sur **Activé** sur la page Recommendations. Si aucun contenu n’est activé et que la barre est définie sur **Activé**, l’effet Flèche s’affiche en bas à droite de la page Web, mais aucun contenu recommandé n’apparaît.
+* Pour que le moteur de recommandation fonctionne, il faut au moins une partie de contenu pour que la barre de recommandations soit définie sur **On** sur la page Recommendations. Si aucun contenu n’est activé et que la barre est définie sur **On**, l’effet Flèche s’affiche dans le coin inférieur droit de la page Web, mais aucun contenu recommandé ne s’affiche.
 
 * Plus le contenu s’exécute dans le moteur de recommandation, mieux l’algorithme peut le tester et savoir quel contenu fonctionne le mieux. Nous vous recommandons de commencer par 10 à 20 éléments de contenu en cours d&#39;exécution et principal et de continuer à en ajouter de nouveaux.
 * L’élément de contenu que vous activez pour la recommandation doit inclure la balise JavaScript RTP. Cela permet à l’algorithme de suivre et d’optimiser le contenu recommandé.
