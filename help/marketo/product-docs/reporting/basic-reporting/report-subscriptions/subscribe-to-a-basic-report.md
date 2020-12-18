@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # S’abonner à un rapport de base {#subscribe-to-a-basic-report}
 
-Pour recevoir les mises à jour automatiques d&#39;un rapport [de](http://docs.marketo.com/display/docs/basic+reporting)base ou pour les partager, vous pouvez vous abonner à un rapport existant à n&#39;importe quelle adresse électronique.
+Pour recevoir les mises à jour automatiques d&#39;un [rapport de base](http://docs.marketo.com/display/docs/basic+reporting), ou pour les partager, vous pouvez vous abonner à un rapport existant à toute adresse électronique.
 
 >[!NOTE]
 >
->Pour les abonnements de rapports de l&#39;Explorateur [](http://docs.marketo.com/display/docs/revenue+cycle+analytics) Recettes, voir [S&#39;abonner à un rapport](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)de l&#39;Explorateur de recettes.
+>Pour [abonnements de rapports Explorateur de cycles de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics), voir [S’abonner à un rapport Explorateur de recettes](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Rendez-vous dans la **zone Activités marketing **.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Sélectionnez votre rapport dans l&#39;arborescence de navigation et cliquez sur l&#39;onglet **Abonnements** .
+1. Sélectionnez votre rapport dans l&#39;arborescence de navigation et cliquez sur l&#39;onglet **Abonnements**.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également vous abonner aux rapports à partir de l’onglet **Analytics** .
+   >Vous pouvez également vous abonner aux rapports à partir de l’onglet **Analytics**.
 
-1. Cliquez sur **Nouveau Abonnement** de rapport.
+1. Cliquez sur **Nouvel Abonnement de rapports**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -52,12 +52,12 @@ Pour recevoir les mises à jour automatiques d&#39;un rapport [de](http://docs.m
    >**Articles connexes**
    >
    >
-   >Découvrez comment [gérer tous vos abonnements](manage-report-subscriptions.md) de rapports au même endroit.
+   >Découvrez comment [gérer tous vos abonnements de rapports](manage-report-subscriptions.md) en un seul endroit.
 
    >[!NOTE]
    >
    >**Plongée profonde**
    >
    >
-   >Découvrez ce que vous pouvez faire d&#39;autre avec les rapports dans la plongée [Basic Rapports](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   >Découvrez ce que vous pouvez faire d&#39;autre avec les rapports dans la plongée profonde [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
