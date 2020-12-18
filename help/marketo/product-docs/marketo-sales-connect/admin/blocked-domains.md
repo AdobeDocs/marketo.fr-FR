@@ -19,7 +19,7 @@ Aidez votre équipe commerciale à réussir en les empêchant d&#39;envoyer par 
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans l’application Web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans l’application Web, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/one-3.png)
 
@@ -33,5 +33,5 @@ Aidez votre équipe commerciale à réussir en les empêchant d&#39;envoyer par 
 
    >[!NOTE]
    >
-   >Les courriers électroniques faisant partie d’un envoi de courrier électronique [de](http://docs.marketo.com/x/KAQ6Ag) groupe qui échoue en raison de leur envoi à un domaine de courrier électronique bloqué échouent en silence et ne s’affichent pas dans le dossier de courrier électronique en échec.
+   >Les courriers électroniques qui font partie d’un [envoi de groupe ](http://docs.marketo.com/x/KAQ6Ag) qui échoue en raison de l’envoi à un domaine de courriel bloqué échouent en silence et n’apparaissent pas dans le dossier de courrier électronique en échec.
 
