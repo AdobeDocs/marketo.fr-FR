@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Présentation des conversions hors ligne Facebook {#understanding-facebook-offline-conversions}
+# Présentation des conversions hors connexion Facebook {#understanding-facebook-offline-conversions}
 
 Les campagnes Publicités de pistes Facebook génèrent des pistes et les envoient sur le marché pour les utiliser dans les campagnes marketing. Cependant, sans visibilité sur les conversions hors ligne, l’annonceur Facebook ne peut pas savoir quelles publicités sont les plus efficaces. Voici un exemple.
 
@@ -40,9 +40,9 @@ Cela signifie que la publicité 1, bien que générant moins de pistes, avait un
 >
 >Sans conversions hors ligne, l’annonceur investirait probablement davantage d’argent dans la publicité 3. Avec les données de conversion hors ligne, l’annonceur investira plus probablement dans la publicité 1.
 
-Vous pouvez [configurer des conversions](set-up-facebook-offline-conversions.md) hors ligne Facebook pour envoyer les performances des publicités hors ligne à Facebook.
+Vous pouvez [configurer les conversions hors ligne de Facebook](set-up-facebook-offline-conversions.md) pour envoyer les performances des publicités hors ligne à Facebook.
 
-1. Assurez-vous que votre intégration [LaunchPoint](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) Facebook est à jour.
+1. Assurez-vous que votre [intégration de LaunchPoint Facebook](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) est à jour.
 1. Faites correspondre les étapes de votre modèle de cycle de revenus aux étapes de conversion hors ligne sur Facebook.
 1. Lorsqu&#39;une piste Facebook est générée à partir d&#39;une publicité de piste Facebook et atteint une étape mappée, Marketo renvoie les données de conversion hors ligne à Facebook plusieurs fois par jour via une API sécurisée et automatisée. Les données s’affichent dans le rapport Gestionnaire d’annonces Facebook.
 
