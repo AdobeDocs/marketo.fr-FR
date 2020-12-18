@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Chemin de réussite {#success-path}
 
-Dans le modèle, le chemin vert, c&#39;est-à-dire le chemin **de** réussite, est le chemin optimal de la transition linéaire d&#39;un prospect à une entreprise fermée/gagnée.
+Dans le modèle, le chemin vert appelé **Chemin de réussite** est le chemin optimal de la transition linéaire d&#39;une piste à une entreprise fermée/gagnée.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 Exemple : étapes sur un chemin de réussite :
 
@@ -31,7 +31,7 @@ Exemple : étapes sur un chemin de réussite :
 
 >[!TIP]
 >
->Le vert est pour l&#39;argent. Tout sur le chemin du vert est sur le chemin du succès ! C’est pourquoi il n’y a que des flèches vertes dans l’analyseur [de chemins de](using-the-success-path-analyzer.md)réussite.
+>Le vert est pour l&#39;argent. Tout sur le chemin du vert est sur le chemin du succès ! C&#39;est pourquoi il n&#39;y a que des flèches vertes dans l&#39;[analyseur de chemins de réussite](using-the-success-path-analyzer.md).
 
 ## Détours {#detours}
 
