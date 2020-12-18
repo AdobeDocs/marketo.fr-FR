@@ -14,7 +14,7 @@ ht-degree: 0%
 # Personnaliser vos URL de Landing page avec un CNAME {#customize-your-landing-page-urls-with-a-cname}
 
 Même si Marketo héberge vos landings page, l’URL peut être totalement personnalisée. A quoi ressemble un CNAME :
-`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` Il devrait se présenter ainsi :
+`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` L&#39;apparence qu&#39;il devrait avoir :
 `<pre data-theme="Confluence"> http://go.YourCompany.com/UnsubscribePage.html</pre>`
 
 ## Choisir un CNAME {#choose-a-cname}
@@ -37,7 +37,7 @@ Le seul mot (plus [YourCompany.com](http://YourCompany.com)) est appelé CNAME. 
    >
    >**Autorisations d’administrateur requises**
 
-1. Sous l’onglet **Pages d’entrée****, copiez la** chaîne du **compte** **depuis la section Paramètres.******
+1. Sous l&#39;onglet **Pages d&#39;entrée** **Pages**, copiez **Compte** **Chaîne** dans la section **Paramètres**.
 
    ![](assets/image2014-9-18-16-3a44-3a12.png)
 
@@ -45,21 +45,21 @@ Le seul mot (plus [YourCompany.com](http://YourCompany.com)) est appelé CNAME. 
 
 ## Envoyer la demande au service informatique {#send-request-to-it}
 
-Demandez à votre personnel informatique de configurer le CNAME suivant : (Remplacez le mot [CNAME] et CHAÎNE [] DE COMPTE par le texte de l’étape précédente.)
+Demandez à votre personnel informatique de configurer le CNAME suivant : (Remplacez le mot [CNAME] et [CHAÎNE DE COMPTE] par le texte de l’étape précédente.)
 
-[CNAME]. [YourCompany.com](http://yourcompany.com/) > [ACCOUNT STRING]. [mktoweb.com](http://mktoweb.com/)
+[CNAME]. [YourCompany.com](http://yourcompany.com/) >  [ACCOUNT STRING]. [mktoweb.com](http://mktoweb.com/)
 
 ## Configuration CNAME complète {#complete-cname-setup}
 
-1. Une fois que votre service informatique a créé le CNAME, accédez à **Admin** et cliquez sur **Pages d’entrée** ****.
+1. Une fois que votre service informatique a créé le CNAME, accédez à **Admin** et cliquez sur **Entrée** **Pages**.
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
-1. Sous la section **Paramètres** , cliquez sur **Modifier**.
+1. Sous la section **Paramètres**, cliquez sur **Modifier**.
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. Entrez votre CNAME dans le **nom** de **domaine** **pour** **Landing Pages, entrez votre  de , entrez votre  de page d&#39;accueil et cliquez sur Enregistrer.**********************
+1. Entrez votre CNAME dans **domaine** **nom** **pour** **Page d&#39;entrée** **Pages**, entrez votre **reprise** **page** entrez votre **page d&#39;accueil** et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
