@@ -15,6 +15,8 @@ ht-degree: 0%
 
 Vous trouverez ci-dessous des détails sur les mises à jour apportées à vos personnalisations de Marketing Connect pour Salesforce.
 
-**Champs d’Activité de la version 1**, Champs de contact, Champs de piste, Champs de compte, Champs d’opportunité, Boutons, [ces champs](http://docs.marketo.com/x/wQDh)de marketing.
+**Champs d’Activité de la version 1**
+, Champs de contact, Champs de piste, Champs de compte, Champs d’opportunité, Boutons,  [ces champs](http://docs.marketo.com/x/wQDh) de marketing.
 
-**Les champs d’Activité de la version 1.1**, les champs de contact, les champs de piste, les champs de compte, les champs d’opportunité, les boutons, les champs de marché sont désormais disponibles en mise en page pour l’éclair Salesforce.
+**Les champs d’Activité de la version 1.1**
+, les champs de contact, les champs de piste, les champs de compte, les champs d’opportunité, les boutons, les champs de marché sont désormais disponibles en mise en page pour l’éclair Salesforce.
