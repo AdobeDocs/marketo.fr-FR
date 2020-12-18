@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # Gmail n&#39;insère pas la signature Sales Connect {#gmail-not-pulling-in-sales-connect-signature}
 
-Nous utilisons votre signature Gmail dans Gmail, au lieu d&#39;insérer votre signature [](http://toutapp.com/next#settings)Sales Connect.
+Nous utilisons votre signature Gmail dans Gmail, au lieu d&#39;insérer votre signature [Sales Connect](http://toutapp.com/next#settings).
 
-Vous pouvez modifier votre signature sur Gmail [ici](http://mail.google.com/mail/u/0/#settings/general).
+Vous pouvez modifier votre signature dans Gmail [ici](http://mail.google.com/mail/u/0/#settings/general).
