@@ -19,15 +19,15 @@ Nous avons fait un tas de bons thèmes pour vos formulaires. Lequel préfères-t
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/editform.png)
 
-1. Accédez à **Paramètres** **du formulaire**.
+1. Accédez à **Formulaire** **Paramètres**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Basculez entre les deux pour choisir le **thème** du **formulaire** de votre choix.
+1. Basculez entre deux points pour choisir le **Formulaire** **Thème** de votre choix.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -43,7 +43,7 @@ Nous avons fait un tas de bons thèmes pour vos formulaires. Lequel préfères-t
 
    >[!TIP]
    >
-   >Vous pouvez également [modifier la page CSS de votre thème](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)de formulaire.
+   >Vous pouvez également [modifier la page CSS de votre thème de formulaire](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 1. Cliquez sur **Suivant** pour configurer d’autres options de formulaire ou sur **Terminer** si vous souhaitez uniquement modifier le thème du formulaire.
 
