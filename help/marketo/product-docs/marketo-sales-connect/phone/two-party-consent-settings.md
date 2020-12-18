@@ -17,7 +17,7 @@ Afin d&#39;assurer le respect des lois américaines sur le consentement à deux 
 
 >[!PREREQUISITES]
 >
->Avant de suivre les étapes ci-dessous, vous devez d&#39;abord [activer l&#39;enregistrement des appels.](http://docs.marketo.com/x/dAC1Ag)
+>Avant de suivre les étapes ci-dessous, vous devez tout d&#39;abord [activer l&#39;enregistrement des appels.](http://docs.marketo.com/x/dAC1Ag)
 
 1. Cliquez sur l’icône Paramètres et sélectionnez **Paramètres**.
 
@@ -27,11 +27,11 @@ Afin d&#39;assurer le respect des lois américaines sur le consentement à deux 
 
    ![](assets/two-1.png)
 
-1. Faites défiler l&#39;écran jusqu&#39;à Paramètres de téléphone de Sales Connect et cliquez sur **Gérer l&#39;avis** d&#39;enregistrement.
+1. Faites défiler l&#39;écran jusqu&#39;à Paramètres de téléphone de Sales Connect et cliquez sur **Gérer l&#39;avis d&#39;enregistrement**.
 
    ![](assets/three-1.png)
 
-1. Cliquez sur **Importer l’enregistrement**.
+1. Cliquez sur **Importer l&#39;enregistrement**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ Afin d&#39;assurer le respect des lois américaines sur le consentement à deux 
 
    ![](assets/five.png)
 
-1. Une fois le transfert terminé, sélectionnez les données (trois points) dans le gestionnaire de fichiers et cliquez sur **Sélectionner comme avis** de consentement. Cliquez sur **OK** lorsque vous avez terminé.
+1. Une fois le transfert terminé, sélectionnez les données (trois points) dans le gestionnaire de fichiers et cliquez sur **Sélectionner comme avis de consentement**. Cliquez sur **OK** lorsque vous avez terminé.
 
    ![](assets/six.png)
 
