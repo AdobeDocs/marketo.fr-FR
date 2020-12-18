@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Présentation de la zone d&#39;Analyse des opportunités de Programme {#understanding-the-program-opportunity-analysis-area}
+# Présentation de la zone d&#39;Analyse d&#39;opportunités de Programme {#understanding-the-program-opportunity-analysis-area}
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 La zone Analyse d&#39;opportunités de Programme vous permet d&#39;analyser l&#39;efficacité de chaque Programme ou de voir les résultats résumés par Canal de Programme.
 
@@ -35,7 +35,7 @@ Quelles opportunités un Programme donné a-t-il influencé ?
 
 ![](assets/four-1.png)
 
-## Mesures d&#39;attribution des Analyses d&#39;opportunité programme (points bleus) {#program-opportunity-analysis-attribution-measures-blue-dots}
+## Mesures d&#39;attribution des Analyses d&#39;opportunité de programme (points bleus) {#program-opportunity-analysis-attribution-measures-blue-dots}
 
 Les mesures que vous pouvez utiliser en analyse sont généralement des nombres et sont représentées par des points bleus. Les Dimensions sont des attributs qui donnent différentes vues des mesures et sont représentés par des points jaunes.
 
@@ -120,7 +120,7 @@ Vous trouverez ci-dessous un scénario qui décrit comment les unités d&#39;opp
 
 Marketo accorde le crédit de manière appropriée sans avoir à comptabiliser les opportunités sur le doublon entre les Programmes. Ainsi, dans ce cas, chaque Programme reçoit 0,5 unité d&#39;opportunité. En d&#39;autres termes, chaque Programme reçoit la moitié du crédit pour l&#39;opportunité générée. En outre, la moitié des recettes associées à l&#39;opportunité est affectée à chaque Programme.
 
-## Mesures diverses liées aux Programmes {#miscellaneous-program-related-measures}
+## Mesures diverses liées au Programme {#miscellaneous-program-related-measures}
 
 Les autres mesures disponibles reflètent la performance globale du Programme.
 
@@ -169,15 +169,15 @@ Alors que les mesures (points bleus) sont calculées et nécessitent une réflex
   </tr> 
   <tr> 
    <td>Attributs d'opportunité</td> 
-   <td><p>Opportunité<br>ferméeNom de l'opportunité*<br>Propriétaire de l'opportunité<br>Nom de l'opportunité<br>StageOpportunité Type</p></td> 
+   <td><p>Opportunité fermée<br>Nom de l'opportunité*<br>Nom du propriétaire de l'opportunité<br>Étape de l'opportunité<br>Type d'opportunité</p></td> 
   </tr> 
   <tr> 
    <td>Période d'opportunité</td> 
-   <td><p>Opportunité fermée Année/Trimestre/<br>MoisOpportunité créée Année/Trimestre/Mois</p></td> 
+   <td><p>Opportunité fermée Année/Trimestre/Mois<br>Opportunité créée Année/Trimestre/Mois</p></td> 
   </tr> 
   <tr> 
    <td>Attributs de programme</td> 
-   <td><p>Nom du programme<br>Canal programme</p></td> 
+   <td><p>Canal de programme<br>nom du Programme</p></td> 
   </tr> 
   <tr> 
    <td>Période de coût programme</td> 
