@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Comment Sales Connect gère le déclassement des e-mails {#how-sales-connect-handles-email-de-duping}
 
-Lorsque vous [téléchargez un fichier CSV](http://docs.marketo.com/x/VADb) dans Sales Connect, nous fusionnons tous les contacts similaires dans le fichier CSV avant l&#39;importation.
+Lorsque vous téléchargez [un fichier CSV](http://docs.marketo.com/x/VADb) dans Sales Connect, nous fusionnons tous les contacts similaires dans le CSV avant que l&#39;importation ne se produise.
 
 Nous le faisons en fonction de l&#39;adresse électronique de type &quot;courriel&quot;. Donc, s&#39;il y a deux adresses électroniques identiques, nous les fusionnons en un seul contact.
 
