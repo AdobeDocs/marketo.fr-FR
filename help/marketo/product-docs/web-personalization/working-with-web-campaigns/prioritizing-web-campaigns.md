@@ -34,7 +34,7 @@ Une campagne Dans la zone et une campagne (widget ou boîte de dialogue) peuvent
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne Web de votre choix, utilisez la fonction [de](filter-web-campaigns.md)filtrage.
+   >Pour faciliter la recherche de la campagne Web de votre choix, utilisez la fonction de filtrage [](filter-web-campaigns.md).
 
 1. Dans la page Modifier Campaign, définissez la note de priorité (9999 = Priorité la plus élevée 1 = Priorité la plus faible).
 
