@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Sélectionnez l’URL de partage pour une application Social. {#choose-the-share-url-for-a-social-app}
+# Sélectionnez l’URL de partage pour une application sociale {#choose-the-share-url-for-a-social-app}
 
 Lorsque vous créez une application sociale, vous pouvez choisir l’URL qui sera partagée dans les publications des participants.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,7 +23,7 @@ Lorsque vous créez une application sociale, vous pouvez choisir l’URL qui ser
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. Dans l’éditeur d’applications sociales, accédez aux Paramètres **de l’** application, puis aux Options **** avancées.
+1. Dans l’éditeur d’applications sociales, accédez à **Paramètres de l’application**, puis à **Options avancées**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
@@ -41,7 +41,7 @@ Lorsque vous créez une application sociale, vous pouvez choisir l’URL qui ser
    >    
    >    
    >    * **Page** référente : Page contenant l’application.
-   >    * **Autre Landing page**: Un landing page Marketo différent de celui de la liste déroulante.
+   >    * **Autre Landing page** : Un landing page Marketo différent de celui de la liste déroulante.
    >    * **URL** externe : Landing page non marchand.
 
 
