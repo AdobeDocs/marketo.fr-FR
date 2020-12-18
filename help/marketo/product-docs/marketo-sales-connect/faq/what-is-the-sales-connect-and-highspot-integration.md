@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sales Connect prend en charge l&#39;intégration avec [Highspot](https://www.highspot.com/), un système de gestion de contenu. Les clients Sales Connect qui sont également des clients Highspot peuvent accéder à leur contenu Highspot depuis l&#39;application Web.
 
-## Conditions requises {#requirements}
+## Exigences {#requirements}
 
 Vous aurez besoin des éléments suivants pour utiliser l&#39;intégration de Sales Connect avec Highspot :
 
@@ -29,11 +29,11 @@ En plus de travailler dans Sales Connect dans un navigateur, l&#39;intégration 
 >
 >L&#39;extension Gmail de Sales Connect ne prend actuellement pas en charge l&#39;intégration de Highspot
 
-## Activation de l&#39;intégration des points de vente et des points de contact {#enabling-the-sales-connect-and-highspot-integration}
+## Activation de l&#39;intégration Sales Connect et Highspot {#enabling-the-sales-connect-and-highspot-integration}
 
-Si vous souhaitez activer l’intégration des points chauds pour votre équipe, contactez le support technique [](http://support.marketo.com)Marketo.
+Si vous souhaitez activer l’intégration Highspot pour votre équipe, contactez le [Support marketing](http://support.marketo.com).
 
-## Utilisation de l’intégration {#how-to-use-the-integration}
+## Utilisation de l&#39;intégration {#how-to-use-the-integration}
 
 Une fois activé, voici comment accéder à votre contenu Highspot dans Sales Connect.
 
