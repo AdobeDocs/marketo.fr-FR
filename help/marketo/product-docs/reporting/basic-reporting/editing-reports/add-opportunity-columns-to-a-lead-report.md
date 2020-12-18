@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Ajouter les colonnes d&#39;opportunité à un rapport de piste {#add-opportunity-columns-to-a-lead-report}
 
-Pour afficher les statistiques sur les opportunités dans vos rapports [](http://docs.marketo.com/display/docs/basic+reporting)personnels, vous pouvez ajouter des colonnes opportunités.
+Pour afficher les statistiques sur les opportunités dans vos rapports [personne](http://docs.marketo.com/display/docs/basic+reporting), vous pouvez ajouter des colonnes opportunités.
 
-1. Accédez à la zone Activités **** marketing.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre rapport dans l&#39;arborescence de navigation et cliquez sur l&#39;onglet **Configuration** .
+1. Sélectionnez votre rapport dans l&#39;arborescence de navigation et cliquez sur l&#39;onglet **Configuration**.
 
    ![](assets/two.png)
 
-1. Doublon-cliquez sur Colonnes **** d&#39;opportunité.
+1. Doublon-clic **Colonnes d&#39;opportunité**.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Pour afficher les statistiques sur les opportunités dans vos rapports [](http:/
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Cliquez sur l&#39;onglet **Rapport** pour afficher votre rapport avec les mesures d&#39;opportunité.
+1. Cliquez sur l&#39;onglet **Rapport** pour afficher votre rapport avec des mesures d&#39;opportunité.
 
    ![](assets/five.png)
 
@@ -51,8 +51,8 @@ Pour afficher les statistiques sur les opportunités dans vos rapports [](http:/
 
    | Colonne | Description |
    |---|---|
-   | Aucune opportunité | Nombre de personnes qui *ne sont pas* un contact d&#39;opportunité Principal. |
-   | Jours sans opportunité | Âge moyen, en jours, des personnes qui *ne sont pas* un contact Principal. |
+   | Aucune opportunité | Nombre de personnes *qui ne sont pas* un contact Principal. |
+   | Jours sans opportunité | Âge moyen, en jours, des personnes *qui ne sont pas* un contact Principal. |
    | A une opportunité | Nombre de personnes qui sont un contact d&#39;opportunité Principal. |
    | A un % d&#39;opportunité | Pourcentage de personnes qui sont un contact Principal. |
    | Jours jusqu&#39;à l&#39;opportunité | Nombre moyen de jours pour la conversion d&#39;une personne à un contact d&#39;opportunité Principal. |
@@ -78,5 +78,5 @@ Pour afficher les statistiques sur les opportunités dans vos rapports [](http:/
    >**Plongée profonde**
    >
    >
-   >Découvrez ce que vous pouvez faire d&#39;autre avec les rapports dans la plongée [Basic Rapports](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   >Découvrez ce que vous pouvez faire d&#39;autre avec les rapports dans la plongée profonde [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
