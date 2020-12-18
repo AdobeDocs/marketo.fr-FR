@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le flux de pistes est une liste à la minute d&#39;événements intéressants réalisés par vos pistes.
 
-1. Rendez-vous dans la zone **Marketo** de Salesforce1.
+1. Accédez à la zone **Marketo** de Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ Le flux de pistes est une liste à la minute d&#39;événements intéressants r�
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Appuyez sur Flux de **piste**.
+1. Appuyez sur **Flux de piste**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
