@@ -21,11 +21,11 @@ Vous pouvez exclure des adresses IP individuelles et tout ou partie d’une plag
 >
 >Cette procédure peut prendre jusqu’à cinq minutes.
 
-1. Connectez-vous à la personnalisation Web et sous votre connexion, cliquez sur Paramètres **du** compte.
+1. Connectez-vous à la personnalisation Web et sous votre connexion, cliquez sur **Paramètres du compte**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Faites défiler l’écran jusqu’à la zone d’exclusion **** IP. Si vous excluez les adresses IP pour la première fois, cliquez dans le champ vide **Exclure les adresses** IP.
+1. Faites défiler l&#39;écran jusqu&#39;à la zone **IP exclude**. Si vous excluez les adresses IP pour la première fois, cliquez dans le champ **Exclure les adresses IP** vide.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
