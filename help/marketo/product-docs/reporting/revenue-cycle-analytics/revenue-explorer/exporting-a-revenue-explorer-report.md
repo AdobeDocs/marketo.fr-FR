@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Exportation d’un rapport Explorateur de recettes {#exporting-a-revenue-explorer-report}
+# Exportation d&#39;un rapport Explorateur de recettes {#exporting-a-revenue-explorer-report}
 
 Vous pouvez exporter n’importe quel rapport de l’explorateur de recettes et le partager avec n’importe qui.
 
-1. Cliquez sur l’icône Engrenage, sélectionnez **Exporter** et sélectionnez un format de fichier.
+1. Cliquez sur l&#39;icône Porteur, sélectionnez **Exporter** et sélectionnez un format de fichier.
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -30,7 +30,7 @@ Vous pouvez exporter n’importe quel rapport de l’explorateur de recettes et 
    >    * CSV
 
 
-1. Sélectionnez le format **de** page et l’ **orientation** de votre choix, puis cliquez sur **Exporter**.
+1. Sélectionnez les **Format de page** et **Orientation** de votre choix, puis cliquez sur **Exporter**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
