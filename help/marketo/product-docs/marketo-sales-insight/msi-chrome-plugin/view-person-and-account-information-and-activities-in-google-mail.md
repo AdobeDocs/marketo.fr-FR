@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Informations et Activités sur la vue et le compte dans Google Mail {#view-person-and-account-information-and-activities-in-google-mail}
+# Vue Personne et compte Informations et Activités dans Google Mail {#view-person-and-account-information-and-activities-in-google-mail}
 
 ## Activités de vue dans Google Mail {#view-activities-in-google-mail}
 
