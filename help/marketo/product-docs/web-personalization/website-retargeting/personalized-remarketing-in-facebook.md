@@ -17,8 +17,8 @@ Le remarketing personnalisé vous permet d’interagir de nouveau avec vos utili
 
 >[!PREREQUISITES]
 >
->* Effectuez la configuration [du reciblage avec les données](retargeting-with-web-personalization-data.md) de personnalisation Web.
->* Consultez la documentation de [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook sur les [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)audiences personnalisées et les remarketing.
+>* Effectuez la configuration de [Reciblage avec les données de personnalisation Web](retargeting-with-web-personalization-data.md).
+>* Consultez la documentation [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook sur les Audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)et les remarketing.
 
 >
 
@@ -26,16 +26,16 @@ Le remarketing personnalisé vous permet d’interagir de nouveau avec vos utili
 
 ## Création d’une Audience dans Facebook {#creating-an-audience-in-facebook}
 
-1. Dans Facebook, accédez à l’onglet [de votre](https://www.facebook.com/ads/audience_manager) Audience dans le Gestionnaire de publicités.
+1. Dans Facebook, accédez à votre [onglet Audience](https://www.facebook.com/ads/audience_manager) dans le Gestionnaire de publicités.
 1. Cliquez sur **Outils** et sélectionnez **Audiences**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur **Créer une Audience** personnalisée.
+1. Cliquez sur **Créer une Audience personnalisée**.
 
    ![](assets/two-1.png)
 
-1. Sélectionnez Trafic **** du site Web.
+1. Sélectionnez **Trafic du site Web**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
@@ -51,7 +51,7 @@ Le remarketing personnalisé vous permet d’interagir de nouveau avec vos utili
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Pour cet exemple, sélectionnez Industrie pour contenir **Education**. Saisissez **Education**, puis modifiez **Dans le dernier** pour qu’il soit de 180 jours. Entrez le nom de l&#39;Audience : **Industrie** de l&#39;éducation. Cliquez sur **Créer une Audience**.
+1. Pour cet exemple, sélectionnez Industrie pour contenir **Education**. Saisissez **Education** et modifiez **Dans le dernier** pour qu&#39;il soit de 180 jours. Entrez le nom de l&#39;Audience : **Industrie de l&#39;éducation**. Cliquez sur **Créer une Audience**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -106,13 +106,13 @@ Le remarketing personnalisé vous permet d’interagir de nouveau avec vos utili
 
 ## Cible de votre Audience avec une publicité {#target-your-audience-with-an-ad}
 
-Pour plus d’informations, voir la documentation [de](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)Facebook.
+Pour plus d&#39;informations, consultez la [documentation de Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
-1. Accédez à Gestionnaire de publicités, cliquez sur **Créer une publicité**.
+1. Accédez au gestionnaire des publicités, cliquez sur **Créer une publicité**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Sélectionnez **Envoyer des personnes sur votre site Web** comme objectif de votre campagne.
+1. Sélectionnez **Envoyer des personnes à votre site Web** comme objectif de votre campagne.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
