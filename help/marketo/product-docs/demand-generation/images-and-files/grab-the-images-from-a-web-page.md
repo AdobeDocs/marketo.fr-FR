@@ -19,11 +19,11 @@ Pour ajouter des images à partir d’une page Web, copiez l’adresse Web (URL)
 
    ![](assets/designstudio-2.png)
 
-1. Cliquez sur **Nouveau** et **Saisir des images du Web**.
+1. Cliquez sur **New** et **Saisir des images à partir du Web**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Sélectionnez le dossier **Images et fichiers** , collez l’adresse Web (URL) dans la zone de texte URL, puis cliquez sur **Suivant.**
+1. Sélectionnez le dossier **Images et fichiers**, collez l’adresse Web (URL) dans la zone de texte de l’URL, puis cliquez sur **Suivant.**
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -39,7 +39,7 @@ Pour ajouter des images à partir d’une page Web, copiez l’adresse Web (URL)
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. Vous pouvez afficher toutes les images disponibles dans **Images et Fichiers**.
+1. Vous pouvez afficher toutes les images disponibles dans **Images et fichiers**.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
