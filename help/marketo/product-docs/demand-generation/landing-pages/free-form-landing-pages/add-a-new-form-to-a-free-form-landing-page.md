@@ -28,11 +28,11 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Recherchez votre landing page et cliquez sur **Modifier** **le brouillon**.
+1. Recherchez votre landing page et cliquez sur **Modifier** **Brouillon**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Faites glisser et déposez l’élément **Form** sur la page.
+1. Faites glisser l’élément **Form** sur la page.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -42,7 +42,7 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
 
 1. Vous disposez de trois options pour choisir votre page de suivi :
 
-   * **landing page** - pour choisir un landing page Marketo
+   * **landing page**  - pour choisir un landing page Marketo
    * **External**** URL** - pour sélectionner l&#39;URL que vous souhaitez
 
    * **Formulaire**** défini** - pour utiliser les paramètres définis au niveau du formulaire
@@ -59,4 +59,4 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
 
    Bien joué !
 
-Fermez l&#39;éditeur de landing page et [approuvez le brouillon](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)du landing page.
+Fermez simplement l’éditeur de landing page et [approuvez le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
