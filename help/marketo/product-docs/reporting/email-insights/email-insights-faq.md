@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# FAQ sur les statistiques d&#39;e-mail {#email-insights-faq}
+# FAQ sur les connaissances par courriel {#email-insights-faq}
 
 ## Existe-t-il des différences entre les mesures de ratio avec les statistiques d’e-mail et d’autres rapports de messagerie de Marketo ? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
