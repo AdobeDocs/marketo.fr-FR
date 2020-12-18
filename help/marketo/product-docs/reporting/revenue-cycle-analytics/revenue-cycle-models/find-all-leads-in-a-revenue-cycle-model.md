@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Rechercher toutes les pistes dans un modèle de cycle de recettes {#find-all-leads-in-a-revenue-cycle-model}
+# Rechercher toutes les pistes dans un modèle de cycle de revenus {#find-all-leads-in-a-revenue-cycle-model}
 
 En utilisant des listes intelligentes, vous pouvez facilement trouver tous les membres du modèle de cycle de recettes.
 
@@ -19,11 +19,11 @@ En utilisant des listes intelligentes, vous pouvez facilement trouver tous les m
 >
 >[Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Une fois la liste intelligente sélectionnée, cliquez sur l&#39;onglet Liste **** intelligente.
+1. Une fois la liste intelligente sélectionnée, cliquez sur l&#39;onglet **Liste intelligente**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Recherchez le filtre **Membre du modèle** de revenu et faites-le glisser dans la trame.
+1. Recherchez le filtre **Membre du modèle de revenu** et faites-le glisser dans le canevas.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
@@ -37,17 +37,17 @@ En utilisant des listes intelligentes, vous pouvez facilement trouver tous les m
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Sélectionnez une **scène.**
+1. Sélectionnez une étape ****.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Accédez à l&#39;onglet **Pistes** pour vue des résultats.
+1. Accédez à l&#39;onglet **Pistes** pour vue les résultats.
 
    ![](assets/2.png)
 
    >[!TIP]
    >
-   >Vous n&#39;avez pas besoin des deux filtres, il vous suffit de choisir celui dont vous avez besoin. Nous vous montrons tous les deux d&#39;être minutieux. ![(sourire)](assets/smile.svg) >
+   >Vous n&#39;avez pas besoin des deux filtres, il vous suffit de choisir celui dont vous avez besoin. Nous vous montrons tous les deux d&#39;être minutieux. ![(sourire)](assets/smile.svg)   >
 
    >[!CAUTION]
    >
