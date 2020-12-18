@@ -19,7 +19,7 @@ Utilisez l’analyse de contenu pour mieux comprendre votre contenu existant, d�
 >
 >L’onglet Analyses et les fonctionnalités d’analyse de contenu sont disponibles exclusivement avec le contenu prédictif Marketing.
 
-## Présentation {#overview}
+## Aperçu {#overview}
 
 Dans la page Résumé, cliquez sur Analytics.
 
@@ -61,7 +61,7 @@ Affiche le contenu présentant le plus fort taux de conversion par taux de conve
 >
 >**Définition**
 >
->**taux de conversion**: Pourcentage calculé par conversions directes divisé par les clics.
+>**taux de conversion** : Pourcentage calculé par conversions directes divisé par les clics.
 
 ## Contenu de tendance {#trending-content}
 
