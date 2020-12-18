@@ -114,7 +114,7 @@ Vous pouvez configurer n&#39;importe quelle colonne disponible pour qu&#39;elle 
  </tbody> 
 </table>
 
-## Paramètres de mise en page de page de courriel {#email-page-layout-settings}
+## Paramètres de mise en page de la page de courriel {#email-page-layout-settings}
 
 Vous pouvez configurer votre mise en page en procédant comme suit.
 
@@ -122,7 +122,7 @@ Vous pouvez configurer votre mise en page en procédant comme suit.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Sélectionnez la section **Courriers électroniques** .
+1. Sélectionnez la section **Courriers électroniques**.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
