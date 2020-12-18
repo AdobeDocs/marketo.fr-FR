@@ -17,7 +17,7 @@ Il existe deux manières de redimensionner à la fois la largeur de l’étiquet
 
 ## Faites glisser et déposez la largeur {#drag-and-drop-the-width}
 
-1. Dans l’éditeur [de](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)formulaires, sélectionnez le champ à redimensionner.
+1. Dans l’[éditeur de formulaire](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md), sélectionnez le champ à redimensionner.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
@@ -25,7 +25,7 @@ Il existe deux manières de redimensionner à la fois la largeur de l’étiquet
 
    ![](assets/image2014-9-15-15-3a24-3a14.png)
 
-## Saisissez manuellement la largeur {#enter-the-width-manually}
+## Saisissez la largeur manuellement {#enter-the-width-manually}
 
 1. Sélectionnez le champ à redimensionner.
 
