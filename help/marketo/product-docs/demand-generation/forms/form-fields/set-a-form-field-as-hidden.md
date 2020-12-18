@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Définir un champ de formulaire comme masqué {#set-a-form-field-as-hidden}
+# Définir le champ de formulaire comme masqué {#set-a-form-field-as-hidden}
 
 Les champs de formulaire masqués peuvent capturer en silence des données sans l’intervention de l’visiteur. Voici comment ça marche.
 
@@ -19,11 +19,11 @@ Les champs de formulaire masqués peuvent capturer en silence des données sans 
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Sélectionnez le champ et définissez le **champ** **Type** sur **Masqué.**
+1. Sélectionnez le champ et définissez **Field** **Type** sur **Masqué.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
