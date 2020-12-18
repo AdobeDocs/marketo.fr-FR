@@ -13,5 +13,5 @@ ht-degree: 0%
 
 # Autres administrateurs {#additional-admins}
 
-Pour modifier ou supprimer un membre de l’équipe, passez à la page Paramètres et cliquez sur Gestion **d’**équipe* *dans le panneau de navigation de gauche.
+Pour modifier ou supprimer un membre de l’équipe, passez à la page Paramètres et cliquez sur **Gestion d’équipe*** *dans le panneau de navigation de gauche.
 En tant qu’administrateur d’un compte, vous pouvez gérer qui fait partie de votre équipe.
