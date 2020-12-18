@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Vue de campagnes Web à partir d&#39;une étiquette spécifique {#view-web-campaigns-from-a-specific-label}
+# Campagnes Web de vue à partir d&#39;une étiquette spécifique {#view-web-campaigns-from-a-specific-label}
 
 Vous souhaitez vue et filtrer vos campagnes selon une étiquette spécifique ?
 
 ## Filtrage par étiquettes existantes {#filter-by-existing-labels}
 
-1. Accédez à **Web** **Campaigns**.
+1. Accédez à **Web** **Campagnes**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
