@@ -19,7 +19,7 @@ Il est important d’avoir des contacts dans la page Personnes, car c’est à p
 
    ![](assets/one.png)
 
-1. Cliquez sur Actions **** de groupe et sélectionnez **Importer CSV**.
+1. Cliquez sur **Actions de groupe** et sélectionnez **Importer CSV**.
 
    ![](assets/two.png)
 
@@ -37,7 +37,7 @@ Il est important d’avoir des contacts dans la page Personnes, car c’est à p
 
    ![](assets/four.png)
 
-1. Faites correspondre les colonnes de votre fichier CSV à leurs champs respectifs dans Sales Connect. Lorsque vous avez terminé, cliquez sur **Suivant** .
+1. Faites correspondre les colonnes de votre fichier CSV à leurs champs respectifs dans Sales Connect. Cliquez sur **Suivant** lorsque vous avez terminé.
 
    ![](assets/five.png)
 
