@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ajouter du code HTML personnalisé à un Landing page de forme libre {#adding-custom-html-to-a-free-form-landing-page}
+# Ajouter du code HTML personnalisé à un Landing page de formulaire libre {#adding-custom-html-to-a-free-form-landing-page}
 
 Vous pouvez ajouter des scripts personnalisés, CSS ou d’autres éléments HTML aux landings page.
 
@@ -23,11 +23,11 @@ Vous pouvez ajouter des scripts personnalisés, CSS ou d’autres éléments HTM
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. Dans l’éditeur de landing page, faites glisser l’élément **HTML** .
+1. Dans l’éditeur de landing page, faites glisser l’élément **HTML**.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Saisissez votre code HTML personnalisé et cliquez sur **Enregistrer.**
+1. Entrez votre code HTML personnalisé et cliquez sur **Enregistrer.**
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
