@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le centre de commentaires est une vue unique et unifiée qui vous aide à trouver votre prochaine étape, tout en vous assurant que rien ne tombe dans les fissures.
 
-## Gérer les courriers électroniques {#manage-emails}
+## Gérer les courriels {#manage-emails}
 
 La section Courriel du Centre de commandes vous permet de gérer toutes vos activités de messagerie. Pensez à cela comme à votre boîte d&#39;envoi de courrier électronique pour consulter les courriers électroniques envoyés par Sales Connect. Gérez vos e-mails planifiés, déterminez qui a consulté vos e-mails, vérifiez s’il y a eu des problèmes avec la remise de vos e-mails, etc.
 
@@ -53,7 +53,7 @@ La section Courriel vous donne une vue de vos e-mails et simplifie leur organisa
   <tr> 
    <td title="Couleur de fond : Gris"><br></td> 
    <td title="Couleur de fond : Gris">Version préliminaire</td> 
-   <td title="Couleur de fond : Gris"><p>Courriers électroniques enregistrés en tant que brouillon.<br><strong>Remarque :</strong> Seuls les messages électroniques uniques peuvent être enregistrés en tant que brouillons. Les e-mails en masse (Sélectionner et Envoyer des e-mails et des e-mails de groupe) ne seront pas enregistrés en tant que brouillons.</p></td> 
+   <td title="Couleur de fond : Gris"><p>Courriers électroniques enregistrés en tant que brouillon.<br><strong>Remarque : </strong> Seuls les messages électroniques uniques peuvent être enregistrés en tant que brouillons. Les e-mails en masse (Sélectionner et Envoyer des e-mails et des e-mails de groupe) ne seront pas enregistrés en tant que brouillons.</p></td> 
   </tr> 
   <tr> 
    <td title="Couleur de fond : Gris"><br></td> 
@@ -68,12 +68,12 @@ La section Courriel vous donne une vue de vos e-mails et simplifie leur organisa
   <tr> 
    <td title="Couleur de fond : Bleu"><br></td> 
    <td title="Couleur de fond : Bleu">Bascule</td> 
-   <td title="Couleur de fond : Bleu"><p>Courriers électroniques rejetés par le serveur de messagerie destinataire. <br><strong>Remarque :</strong> Ceci n'est détecté que si vous êtes un utilisateur hérité de ToutApp et que vous avez accès aux serveurs MSC en tant que canal de diffusion.</p></td> 
+   <td title="Couleur de fond : Bleu"><p>Courriers électroniques rejetés par le serveur de messagerie destinataire. <br><strong>Remarque : </strong> Ceci n’est détecté que si vous êtes un utilisateur ToutApp hérité et que vous avez accès aux serveurs MSC en tant que canal de diffusion.</p></td> 
   </tr> 
   <tr> 
    <td title="Couleur de fond : Bleu"><br></td> 
    <td title="Couleur de fond : Bleu">Indésirable</td> 
-   <td title="Couleur de fond : Bleu"><p>Les courriers électroniques qui ont été marqués manuellement comme indésirable par le destinataire.<br><strong>Remarque :</strong> Ceci n'est détecté que si vous êtes un utilisateur hérité de ToutApp et que vous avez accès aux serveurs MSC en tant que canal de diffusion.</p></td> 
+   <td title="Couleur de fond : Bleu"><p>Les courriers électroniques qui ont été marqués manuellement comme indésirable par le destinataire.<br><strong>Remarque : </strong> Ceci n’est détecté que si vous êtes un utilisateur ToutApp hérité et que vous avez accès aux serveurs MSC en tant que canal de diffusion.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -84,7 +84,7 @@ La section tâche est votre guichet unique pour gérer et exécuter des tâches.
 
 ![](assets/command-center-overview-2.png)
 
-## Suivi avec les prospects actives {#follow-up-with-engaged-prospects}
+## Suivi des prospects engagées {#follow-up-with-engaged-prospects}
 
 Une fois que vous avez commencé à interagir avec vos prospects par le biais de la fenêtre de composition ou des campagnes, vous pouvez début à cible à nouveau les prospects les plus impliquées en utilisant la fonctionnalité de recherche avancée.
 
