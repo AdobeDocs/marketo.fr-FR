@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Découvrez comment utiliser l’étape [de flux Moment](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)intéressant.
->* En savoir plus sur [les jetons](http://docs.marketo.com/display/docs/tokens).
+>* Découvrez comment utiliser l’[étape de flux Moment intéressant](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>* En savoir plus sur les [jetons](http://docs.marketo.com/display/docs/tokens).
 
 >
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## Jetons disponibles {#available-tokens}
 
-Consultez la présentation [des](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) jetons pour voir tous les jetons que vous pouvez mettre dans un moment intéressant.
+Consultez [Présentation des jetons](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) pour voir tous les jetons que vous pouvez mettre à un moment intéressant.
 
 ## Jetons de déclenchement {#trigger-tokens}
 
@@ -236,9 +236,9 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
 
 >[!NOTE]
 >
->S&#39;il n&#39;a pas de chèque ![(coche)](assets/check.svg) alors il retournerait une chaîne vide (rien) dans le moment intéressant.
+>S&#39;il n&#39;a pas de vérification ![(tick)](assets/check.svg) alors il retournerait une chaîne vide (rien) dans le moment intéressant.
 
-*La page **Web** Visites de déclenchement comporte quelques jetons supplémentaires :
+*Le déclencheur **Visites Page Web** comporte quelques jetons supplémentaires :
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
