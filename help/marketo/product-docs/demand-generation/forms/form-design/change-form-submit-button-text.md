@@ -19,7 +19,7 @@ Vous pouvez rapidement et facilement changer un bouton de formulaire de &quot;En
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier** le **formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
