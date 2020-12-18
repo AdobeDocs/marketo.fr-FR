@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Connectez votre compte Marketo aux Audiences LinkedIn mises en correspondance pour utiliser une liste statique ou une liste intelligente Marketo comme segment d’audience LinkedIn.
 
-1. Accédez à la section **Admin** .
+1. Accédez à la section **Admin**.
 
    ![](assets/admin.png)
 
@@ -27,11 +27,11 @@ Connectez votre compte Marketo aux Audiences LinkedIn mises en correspondance po
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Sélectionnez **Nouveau** et **Nouveau service**.
+1. Sélectionnez **New** et **New Service**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Saisissez un nom **d’affichage** et choisissez **LinkedIn Matched Audiences**. Cliquez sur **Créer**.
+1. Saisissez un **nom d’affichage** et choisissez **Audiences mises en correspondance LinkedIn**. Cliquez sur **Créer**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -41,7 +41,7 @@ Connectez votre compte Marketo aux Audiences LinkedIn mises en correspondance po
 
    >[!CAUTION]
    >
-   >Pour que Marketo envoie des audiences sur plusieurs comptes d’annonces LinkedIn, l’utilisateur LinkedIn que vous autorisez dans les étapes suivantes doit avoir accès à *tous* ces comptes d’annonces dans leur Campaign Manager.
+   >Pour que Marketo envoie des audiences sur plusieurs comptes d’annonces LinkedIn, l’utilisateur LinkedIn que vous autorisez dans les étapes suivantes doit avoir accès à *tous* de ces comptes d’annonces dans leur Campaign Manager.
 
 1. LinkedIn s’ouvre dans un nouvel onglet. A partir de là, connectez-vous à votre compte LinkedIn.
 
