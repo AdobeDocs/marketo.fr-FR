@@ -126,7 +126,7 @@ Salesforce Lightning : Ajoutez à Watchlist, Ajoutez à Marketo Campaign et Envo
 
 Salesforce Classic : Ajoutez à Watchlist, Ajoutez à Marketo Campaign et envoyez le marketing par courriel pour les boutons d’action en masse dans Lead et Contact liste vue.
 
-## Onglet Marqueur {#marketo-tab}
+## Onglet Marketo {#marketo-tab}
 
 * Meilleurs paris
 
@@ -162,7 +162,7 @@ Salesforce Classic : Ajoutez à Watchlist, Ajoutez à Marketo Campaign et envoye
    * Option d’abonnement pour recevoir une notification par courrier électronique pour ce type de événement
    * Icône de priorité élevée pour montrer que cette personne est mieux placée
 
-## Onglet de configuration de Marketing Cloud Sales Insight {#marketo-sales-insight-configuration-tab}
+## Onglet Configuration de Marketing Sales Insight {#marketo-sales-insight-configuration-tab}
 
 * Paramètres opérationnels : Inclut les informations d’identification de l’API Soap &amp; Rest nécessaires pour configurer MSI dans SFDC
 * Configuration MSI : Inclut la configuration de l’onglet Marketo et du panneau MSI Visualforce
