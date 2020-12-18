@@ -21,8 +21,8 @@ Dans l’exemple ci-dessous, vous créez une mesure calculée pour les rebonds �
 >
 >Vous avez besoin d’au moins une mesure dans votre rapport, mais il n’est pas nécessaire que ce soit l’une des mesures que vous utilisez pour définir votre mesure personnalisée.
 
-1. Placez le pointeur sur les champs dont vous avez besoin pour votre rapport. Pour plus d&#39;informations, consultez [Ajouter des champs à un rapport](adding-fields-to-a-revenue-explorer-report.md) de l&#39;Explorateur de recettes.
-1. Cliquez avec le bouton droit sur une mesure existante (cellule bleue), cliquez sur Mesure **définie par l’** utilisateur et sélectionnez Mesure **** calculée.
+1. Placez le pointeur sur les champs dont vous avez besoin pour votre rapport. Voir [Ajouter des champs à un rapport Explorateur de recettes](adding-fields-to-a-revenue-explorer-report.md) pour plus de détails.
+1. Cliquez avec le bouton droit sur une mesure existante (cellule bleue), cliquez sur **Mesure définie par l’utilisateur** et sélectionnez **Mesure calculée**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
