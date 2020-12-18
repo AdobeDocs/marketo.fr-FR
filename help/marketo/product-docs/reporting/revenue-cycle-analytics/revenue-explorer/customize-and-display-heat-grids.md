@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Une grille thermique représente visuellement vos données dans une grille colorée afin que vous puissiez identifier plus facilement et plus rapidement les bons et les mauvais modèles.
 
-1. Dans votre rapport, cliquez sur l’icône de graphique, puis sur **Chauffer la grille**.
+1. Dans votre rapport, cliquez sur l’icône de graphique, puis **Chauffage de la grille**.
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. Pour apporter des modifications à votre grille **thermique**, accédez à la **zone **Properties **area.
+1. Pour apporter des modifications à votre **grille thermique**, accédez à la zone **Properties **area.
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   Super ! Vous avez maintenant votre grille **thermique**!
+   Super ! Vous avez maintenant votre grille de chaleur **** !
 
