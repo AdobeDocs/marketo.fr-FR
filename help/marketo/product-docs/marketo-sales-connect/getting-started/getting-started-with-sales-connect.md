@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Prise en main de Sales Connect {#getting-started-with-sales-connect}
 
-Si vous préférez regarder ces étapes plutôt que de les lire, passez directement aux instructions [vidéo ci-dessous](#video).
+Si vous préférez regarder ces étapes plutôt que de les lire, passez directement aux [Instructions vidéo ci-dessous](#video).
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Si vous préférez regarder ces étapes plutôt que de les lire, passez directem
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre responsable de succès client.
 
-## Ce que vous devez faire pour commencer {#what-you-need-to-get-started}
+## Ce dont vous avez besoin pour commencer {#what-you-need-to-get-started}
 
 * Abonnement du marketing
 * Abonnement de connexion commerciale
 * Abonnement Salesforce (avec les appels d’API et les classes Apex activés)
 
-## Qui devez-vous commencer ? {#who-you-need-to-get-started}
+## Qui commencer {#who-you-need-to-get-started}
 
 * Utilisateur administrateur du marketing
 * Utilisateur administrateur de Sales Connect
@@ -57,15 +57,15 @@ Pour connecter votre compte Sales Connect à votre compte Salesforce, en tant qu
 >
 >L&#39;instance de Salesforce à laquelle vous vous connectez doit être la même instance que celle qui est (ou sera) connectée à Marketo.
 
-## Obtention d&#39;informations d&#39;identification avant la connexion des ventes à Marketing Cloud {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Obtention d&#39;informations d&#39;identification avant la connexion des ventes à Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 Vous devrez obtenir un jeu d’informations d’identification à partir de Marketing Cloud. Ces informations d&#39;identification seront utilisées ultérieurement par l&#39;administrateur de Sales Connect pour connecter Marketing à Sales Connect.
 
-1. Dans Marketing, cliquez sur **Admin**.
+1. Dans Marketo, cliquez sur **Admin**.
 
    ![](assets/one.png)
 
-1. Dans l&#39;arborescence, cliquez sur **Sales Connect**.
+1. Dans l&#39;arborescence, cliquez sur **Connexion commerciale**.
 
    ![](assets/two.png)
 
@@ -87,15 +87,15 @@ Vous devrez obtenir un jeu d’informations d’identification à partir de Mark
 
    ![](assets/eight.png)
 
-1. Saisissez les informations d’identification Marketo fournies par l’administrateur Marketo et cliquez sur **Connect**.
+1. Saisissez les informations d’identification de Marketo fournies par l’administrateur de Marketo et cliquez sur **Se connecter**.
 
    ![](assets/credentials.png)
 
 ## Invitation/Configuration d’utilisateurs {#invite-provision-users}
 
-Si des utilisateurs existent déjà sur votre compte (précédemment de ToutApp), ils s&#39;afficheront dans l&#39;onglet Accès **** équipe de la section Marketo de Sales Connect.
+Si des utilisateurs existent déjà sur votre compte (précédemment de ToutApp), ils s’afficheront dans l’onglet **Accès de l’équipe** de la section Marketo de Sales Connect.
 
-Vous pouvez configurer votre équipe en tant qu&#39;utilisateur Marketing Connect Sales Connect à partir de cette page. Si vous n&#39;avez jamais utilisé ToutApp ou n&#39;avez pas encore invité d&#39;utilisateurs, suivez les étapes de [cet article](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
+Vous pouvez configurer votre équipe en tant qu&#39;utilisateur Marketing Connect Sales Connect à partir de cette page. Si vous n&#39;avez jamais utilisé ToutApp ou n&#39;avez pas encore invité d&#39;utilisateurs, suivez les étapes décrites dans [cet article](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
 
 >[!CAUTION]
 >
@@ -119,11 +119,11 @@ Vous pouvez configurer votre équipe en tant qu&#39;utilisateur Marketing Connec
 
    >[!NOTE]
    >
-   >Si vous souhaitez ajouter de nouveaux utilisateurs, accédez à la section Gestion d’équipe des Paramètres d’administration et cliquez sur le bouton **Inviter des utilisateurs** .
+   >Si vous souhaitez ajouter de nouveaux utilisateurs, accédez à la section Gestion d’équipe des Paramètres d’administration et cliquez sur le bouton **Inviter des utilisateurs**.
 
 Vous pouvez ajouter d’autres utilisateurs à la page Gestion d’équipe et suivre les étapes ci-dessus pour les connecter.
 
-## Tester Sales Connect dans votre sandbox {#test-sales-connect-in-your-sandbox}
+## Testez Sales Connect dans votre sandbox {#test-sales-connect-in-your-sandbox}
 
 Pour les équipes qui souhaitent tester Marketing Connect Sales Connect avec leur sandbox Marketo, un compte Sales Connect supplémentaire peut être mis en service sur demande. Il s’agit uniquement pour les clients qui ont acheté un sandbox Marketo, ou pour ceux qui l’ont dans le cadre de leur offre groupée Marketo. Si vous souhaitez acquérir un sandbox, contactez votre gestionnaire de compte Marketo.
 
