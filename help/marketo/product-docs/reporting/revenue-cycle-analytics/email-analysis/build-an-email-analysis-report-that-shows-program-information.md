@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Création d’un rapport d’Analyse par courriel qui affiche des informations sur le Programme {#build-an-email-analysis-report-that-shows-program-information}
+# Créez un rapport d&#39;Analyse par courriel qui affiche les informations sur le Programme {#build-an-email-analysis-report-that-shows-program-information}
 
 Pour créer un rapport d’Analyse par courriel qui affiche les informations par programme canal, procédez comme suit.
 
@@ -21,7 +21,7 @@ Pour créer un rapport d’Analyse par courriel qui affiche les informations par
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-1. Lancez **l&#39;Explorateur** de recettes.
+1. Lancez **Explorateur de recettes**.
 
    ![](assets/image2014-9-17-19-3a42-3a26.png)
 
@@ -33,7 +33,7 @@ Pour créer un rapport d’Analyse par courriel qui affiche les informations par
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Recherchez le point jaune **Envoyé (Semaine)** et cliquez dessus avec le bouton droit de la souris. Cliquez sur **Filtre**.
+1. Recherchez le point jaune **Envoyé (Semaine)** et cliquez dessus avec le bouton droit. Cliquez sur **Filtre**.
 
    >[!NOTE]
    >
@@ -41,7 +41,7 @@ Pour créer un rapport d’Analyse par courriel qui affiche les informations par
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Cochez la case Semaine **** actuelle envoyée et cliquez sur **OK**.
+1. Cochez **Semaine en cours** et cliquez sur **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
@@ -49,11 +49,11 @@ Pour créer un rapport d’Analyse par courriel qui affiche les informations par
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Recherchez et doublon cliquez sur le point jaune Nom **de** courriel.
+1. Recherchez et cliquez sur le point jaune **Nom du courriel** et cliquez sur le doublon.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Recherchez et doublon cliquez sur les points **Envoyé**, **Ouvert** et **cliqué** bleu.
+1. Recherchez et cliquez sur le doublon **Envoyé**, **Ouvert** et **En cliquant sur** points bleus.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
@@ -66,5 +66,5 @@ Pour créer un rapport d’Analyse par courriel qui affiche les informations par
    >**Plongée profonde**
    >
    >
-   >Vous souhaitez en savoir plus sur l&#39;Explorateur [](http://docs.marketo.com/display/docs/revenue+cycle+analytics)Revenu Cycle ?
+   >Vous souhaitez en savoir plus sur [l&#39;Explorateur du cycle de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics) ?
 
