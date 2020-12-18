@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation de Filtres de segment dans une Liste dynamique {#use-segment-filters-in-a-smart-list}
+# Utiliser des Filtres de segment dans une Liste dynamique {#use-segment-filters-in-a-smart-list}
 
 >[!PREREQUISITES]
 >
