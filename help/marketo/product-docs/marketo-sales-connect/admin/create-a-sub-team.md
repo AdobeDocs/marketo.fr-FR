@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. Sous Paramètres d’administration, sélectionnez Gestion **** d’équipe.
+1. Sous Paramètres d’administration, sélectionnez **Gestion d’équipe**.
 
    ![](assets/two-1.png)
 
-1. En regard de Toutes les équipes, cliquez sur le **+**.
+1. En regard de Toutes les équipes, cliquez sur **+**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Ajouter des personnes à votre sous-équipe {#add-people-to-your-sub-team}
 
-1. Toujours dans Gestion d’équipe, sélectionnez le groupe **Tout le monde** .
+1. Toujours dans Gestion d&#39;équipe, sélectionnez le groupe **Tout le monde**.
 
    ![](assets/five-1.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Lorsque vous avez terminé, cliquez sur **Ajouter aux équipes** .
+1. Cliquez sur **Ajouter aux équipes** lorsque vous avez terminé.
 
    ![](assets/nine.png)
 
