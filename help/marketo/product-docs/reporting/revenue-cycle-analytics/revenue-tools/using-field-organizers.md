@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilisation des organisateurs de champs {#using-field-organizers}
+# Utilisation des organisateurs de champ {#using-field-organizers}
 
 Les organisateurs de champs vous aident à spécifier certains champs parmi toutes les valeurs possibles. Par exemple, vous pouvez créer des regroupements significatifs, tels que Côte Ouest et Côte Est, pour le champ Territoire. Cela permet aux rapports de s’exécuter plus rapidement.
 
@@ -29,7 +29,7 @@ Les organisateurs de champs sont utilisés dans l&#39;Analyse des performances d
 
    ![](assets/db.png)
 
-1. Sous **Nouveau**, sélectionnez **Nouveau Gestionnaire de champs**.
+1. Sous **New**, sélectionnez **New Field Organizer**.
 
    ![](assets/two-1.png)
 
@@ -41,7 +41,7 @@ Les organisateurs de champs sont utilisés dans l&#39;Analyse des performances d
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Nommez le groupe et saisissez les données appropriées (cela dépendra du type de données du champ sélectionné). Cliquez sur **Ajouter un groupe**.
+1. Nommez le groupe et saisissez les données appropriées (cela dépendra du type de données du champ sélectionné). Cliquez sur **Ajouter le groupe**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 
