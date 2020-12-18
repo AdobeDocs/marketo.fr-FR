@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sélectionner les gagnants du Tirage {#select-sweepstakes-winners}
 
-Lorsque vous [publiez un tirage](publish-a-sweepstakes.md), vous devez sélectionner les gagnants pour chaque dessin. Dans ce cas, votre courrier électronique [d’](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) exécution leur est automatiquement envoyé.
+Lorsque vous [publiez un tirage](publish-a-sweepstakes.md), vous devez sélectionner les gagnants pour chaque dessin. Dans ce cas, votre [courriel d’exécution](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) leur est automatiquement envoyé.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Lorsque vous [publiez un tirage](publish-a-sweepstakes.md), vous devez sélectio
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ Lorsque vous [publiez un tirage](publish-a-sweepstakes.md), vous devez sélectio
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Cliquez sur **Choisir** **les gagnants**.
+1. Cliquez sur **Choisir** **Gagnants**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
@@ -37,15 +37,15 @@ Lorsque vous [publiez un tirage](publish-a-sweepstakes.md), vous devez sélectio
    >
    >Pour voir une liste de personnes qui se sont inscrites pour votre tirage, cliquez sur l&#39;onglet **Participants **onglet.
 
-1. Choisissez le nombre de gagnants, sélectionnez **Je suis prêt à choisir**, puis cliquez sur **Suivant**.
+1. Choisissez le nombre de gagnants, sélectionnez **Je suis prêt à sélectionner**, puis cliquez sur **Suivant**.
 
    ![](assets/image2014-9-25-17-3a49-3a2.png)
 
    >[!NOTE]
    >
-   >Si vous choisissez 0 gagnant pour un dessin particulier, ces informations ne s’affichent pas dans l’onglet **Gagnants** .
+   >Si vous choisissez 0 gagnant pour un dessin particulier, ces informations ne s’affichent pas sur l’onglet **Gagnants**.
 
-1. Cliquez sur **Finalize** pour envoyer le courriel [d’](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) exécution aux gagnants répertoriés.
+1. Cliquez sur **Finalize** pour envoyer le [courriel d&#39;exécution](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) aux gagnants répertoriés.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
