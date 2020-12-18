@@ -19,8 +19,8 @@ Tout ce que vous avez à faire est de choisir quand vous souhaitez que vos courr
 
 Si vous n&#39;avez pas planifié votre première étape ou si vous avez besoin de choisir une heure &quot;Envoyer à&quot;, vous serez invité à choisir quand votre Campaign doit être envoyé, chaque fois que vous ajoutez une personne ou un groupe.
 
-Ouvrez l’Ajoute à Campaign modal, en ajoutant des individus, un groupe ou des personnes sélectionnées, puis cliquez sur **Suivant**.
+Ouvrez l’Ajoute à Campaign modal, soit en ajoutant des individus, un groupe ou des personnes sélectionnées, puis cliquez sur **Suivant**.
 
-Une fois que vous avez cliqué sur **Suivant**, vous pouvez prévisualisation le premier courrier électronique.
+Après avoir cliqué sur **Suivant**, vous pouvez prévisualisation le premier courrier électronique.
 
 Après avoir cliqué sur **Suivant **à nouveau, vous serez amené à une option pour le moment où vous souhaitez que votre campagne sorte. Vous pouvez l’avoir en début maintenant ou programmer une heure pour que la campagne commence ultérieurement.
