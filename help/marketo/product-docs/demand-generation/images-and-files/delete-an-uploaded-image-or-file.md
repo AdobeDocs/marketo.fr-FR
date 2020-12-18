@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Suppression d’une image ou d’un fichier téléchargé {#delete-an-uploaded-image-or-file}
+# Supprimer une image ou un fichier téléchargé {#delete-an-uploaded-image-or-file}
 
 1. Accédez au **Design** **Studio**.
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Les images et les fichiers supprimés sont complètement supprimés de Marketo et ne peuvent pas être récupérés.  Ils ne seront plus affichés sur les landings page ou les courriels où ils étaient utilisés.
 
-1. Vous serez renvoyé à la page **Images** et **Fichiers** , où vous verrez que votre fichier a été supprimé.
+1. Vous serez renvoyé à la page **Images** et **Fichiers**, où vous verrez que votre fichier a été supprimé.
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 
