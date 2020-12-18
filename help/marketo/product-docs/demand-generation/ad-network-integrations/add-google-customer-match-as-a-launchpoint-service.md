@@ -31,7 +31,7 @@ Avec cette intégration, vous pouvez envoyer une audience Marketo à Google pour
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Saisissez un **nom d’affichage **et sélectionnez** Correspondance client Google **dans la liste déroulante **Service** . Cliquez sur **Créer**.
+1. Saisissez un **nom d’affichage **et sélectionnez** Google Customer Match **dans la liste déroulante **Service**. Cliquez sur **Créer**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Avec cette intégration, vous pouvez envoyer une audience Marketo à Google pour
 
    >[!CAUTION]
    >
-   >Pour que Marketing puisse envoyer des audiences sur plusieurs comptes AdWords, l’utilisateur Google que vous autorisez dans les étapes suivantes doit avoir accès à *tous* ces comptes.
+   >Pour que Marketo envoie des audiences sur plusieurs comptes AdWords, l’utilisateur Google que vous autorisez dans les étapes suivantes doit avoir accès à *tous* de ces comptes.
 
    ![](assets/chooseaccount.png)
 
