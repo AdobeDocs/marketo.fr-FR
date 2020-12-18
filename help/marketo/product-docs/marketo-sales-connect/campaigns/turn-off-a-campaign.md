@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Désactivation d’une Campaign {#turn-off-a-campaign}
+# Désactiver un Campaign {#turn-off-a-campaign}
 
 Besoin de mettre automatiquement fin à une Campaign quand un destinataire répond ? Voici comment.
 
@@ -19,13 +19,13 @@ Besoin de mettre automatiquement fin à une Campaign quand un destinataire répo
 >
 >Ceci est uniquement disponible pour les clients intégrés à [Gmail ou Exchange](https://toutapp.com/next#settings/email-tracking) et dont le suivi des réponses est activé.
 
-## Désactivation d’une Campaign pour une personne {#turn-off-a-campaign-for-one-person}
+## Désactiver un Campaign pour une personne {#turn-off-a-campaign-for-one-person}
 
-Après avoir créé votre campagne, accédez simplement à l’onglet **Paramètres** et choisissez le comportement de la campagne si quelqu’un répond.
+Après avoir créé votre campagne, accédez simplement à l&#39;onglet **Paramètres** et choisissez comment vous souhaitez que la campagne se comporte si quelqu&#39;un répond.
 
 Les deux options mettront fin à la campagne et le destinataire ne recevra plus de courriels de votre part.
 
-## Désactivation d’une Campaign pour plusieurs personnes {#turn-off-a-campaign-for-multiple-people}
+## Désactiver une Campaign pour plusieurs personnes {#turn-off-a-campaign-for-multiple-people}
 
 Dans le dossier que vous avez envoyé, sélectionnez des contacts pour les supprimer de la campagne avec le filtre défini sur &quot;Tous&quot; afin de capturer toute personne ayant reçu une campagne.
 
