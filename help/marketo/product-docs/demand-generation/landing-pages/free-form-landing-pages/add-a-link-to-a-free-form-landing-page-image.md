@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ajouter un lien vers une image de Landing page libre {#add-a-link-to-a-free-form-landing-page-image}
+# Ajouter un lien vers une image de Landing page de forme libre {#add-a-link-to-a-free-form-landing-page-image}
 
 >[!PREREQUISITES]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >Ceci s’applique uniquement aux landings page à structure libre.
 
-1. Sélectionnez l’image que vous avez ajoutée à votre landing page et développez la feuille de **propriétés.**
+1. Sélectionnez l&#39;image que vous avez ajoutée à votre landing page et développez la **fenêtre de propriétés.**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Tapez votre lien mailto dans l&#39;URL du **lien.**
+1. Tapez votre lien mailto dans l&#39;**URL du lien.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
