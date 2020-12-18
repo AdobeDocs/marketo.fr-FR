@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Remplacement du comportement d’Analytics au niveau du Programme {#override-analytics-behavior-at-the-program-level}
 
-Vous pouvez définir le comportement des [analyses au niveau administrateur sur les canaux](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) , mais vous pouvez également le remplacer au niveau programme. Voici comment procéder :
+Vous pouvez définir le comportement [des analyses au niveau de l’administrateur sur canaux](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), mais vous pouvez également le remplacer au niveau du programme. Voici comment procéder :
 
 1. Accédez à la zone Activités marketing.
 
@@ -33,13 +33,13 @@ Vous pouvez définir le comportement des [analyses au niveau administrateur sur 
    >
    >**Définition**
    >
-   >* **Inclusif** - Cette option garantit que le programme est disponible pour le rapports dans les analyseurs et explorateurs de recettes, que vous ayez inclus ou non un coût de période.
-   >* **Opérationnel** : cette option a pour effet que le programme ne s&#39;affiche ni dans l&#39;explorateur de recettes ni dans les analyseurs.
+   >* **Inclusif**  : cette option garantit que le programme est disponible pour le rapports dans les analyseurs et explorateurs de recettes, que vous ayez inclus ou non un coût de période.
+   >* **Opérationnel**  : cette option a pour effet que le programme ne s&#39;affiche ni dans l&#39;explorateur de recettes ni dans les analyseurs.
 
 
    >[!NOTE]
    >
-   >Le comportement par défaut (si ce paramètre n’est pas appliqué) est que le programme est inclus dans Analytics **UNIQUEMENT s’il y a au moins un coût** de période, même un coûtégal à zéro dollar affecté.
+   >Le comportement par défaut (si ce paramètre n’est pas appliqué) est que le programme est inclus dans Analytics **UNIQUEMENT s’il y a au moins un coût de période**, même un coût nul affecté.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
