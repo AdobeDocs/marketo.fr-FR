@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Supprimer du contenu {#delete-content}
+# Supprimer le contenu {#delete-content}
 
 >[!NOTE]
 >
->Selon la date d’achat, votre abonnement Marketo peut inclure du contenu prédictif ou du contenu`<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités d’analyse de contenu`<sup>AI</sup>` jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers le contenu`<sup>AI</sup>`Marketo.
+>Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 Quand vous n&#39;avez plus besoin d&#39;un élément de contenu, il est facile de vous en débarrasser.
 
@@ -23,7 +23,7 @@ Quand vous n&#39;avez plus besoin d&#39;un élément de contenu, il est facile d
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. Cliquez sur la liste déroulante Actions **** de contenu et sélectionnez **Supprimer du contenu**.
+1. Cliquez sur la liste déroulante **Actions de contenu** et sélectionnez **Supprimer le contenu**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 
