@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ajouter une pièce jointe ou du contenu pouvant faire l&#39;objet d&#39;un suivi à votre adresse électronique {#add-an-attachment-or-trackable-content-to-your-email}
+# Ajouter une pièce jointe ou un contenu pouvant faire l&#39;objet d&#39;un suivi à votre adresse électronique {#add-an-attachment-or-trackable-content-to-your-email}
 
 Lors de l&#39;envoi d&#39;un courrier électronique via Sales Connect, vous avez la possibilité d&#39;ajouter un fichier en tant que pièce jointe ou de faire d&#39;un fichier un lien téléchargeable (et pouvant faire l&#39;objet d&#39;un suivi).
 
@@ -35,7 +35,7 @@ Lors de l&#39;envoi d&#39;un courrier électronique via Sales Connect, vous avez
 
    >[!NOTE]
    >
-   >Si vous devez télécharger un fichier, cliquez sur le bouton **Télécharger du contenu** dans l’angle supérieur droit de la fenêtre.
+   >Si vous devez télécharger un fichier, cliquez sur le bouton **Télécharger le contenu** dans l’angle supérieur droit de la fenêtre.
 
    ![](assets/attach-five.png)
 
@@ -55,13 +55,13 @@ La pièce jointe apparaît au bas de votre courrier électronique.
 
    ![](assets/three-4.png)
 
-1. Sélectionnez le contenu à ajouter, cliquez sur le curseur **Contenu suivi** , puis cliquez sur **Insérer**.
+1. Sélectionnez le contenu à ajouter, cliquez sur le curseur **Contenu suivi**, puis cliquez sur **Insérer**.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >Si vous devez télécharger un fichier, cliquez sur le bouton **Télécharger du contenu** dans l’angle supérieur droit de la fenêtre.
+   >Si vous devez télécharger un fichier, cliquez sur le bouton **Télécharger le contenu** dans l’angle supérieur droit de la fenêtre.
 
    Le contenu s’affiche sous la forme d’un lien dans votre courrier électronique. Le destinataire peut cliquer sur le lien pour télécharger le contenu.
 
