@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Définition d’une Liste dynamique pour les Activités de contenu prédictif {#define-a-smart-list-for-predictive-content-activities}
+# Définir une Liste intelligente pour les Activités de contenu prédictif {#define-a-smart-list-for-predictive-content-activities}
 
 >[!NOTE]
 >
->Selon la date d’achat, votre abonnement Marketo peut inclure du contenu prédictif ou du contenu`<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités d’analyse de contenu`<sup>AI</sup>` jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers le contenu`<sup>AI</sup>`Marketo.
+>Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
-Vous pouvez utiliser des activités de contenu prédictif dans les déclencheurs et les filtres lorsque vous définissez une liste intelligente dans une campagne dynamique. Vous pouvez déclencher une action pour toute personne qui clique sur du contenu prédictif via le modèle [de média](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)enrichi, la barre [de recommandation du](enabling-predictive-content/enable-the-content-recommendation-bar.md)contenu ou dans un courrier électronique.
+Vous pouvez utiliser des activités de contenu prédictif dans les déclencheurs et les filtres lorsque vous définissez une liste intelligente dans une campagne dynamique. Vous pouvez déclencher une action pour toute personne qui clique sur du contenu prédictif via le [modèle de média enrichi](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), la [barre de recommandation du contenu](enabling-predictive-content/enable-the-content-recommendation-bar.md) ou dans un courrier électronique.
 
-1. Dans votre campagne dynamique, accédez à l’onglet Liste **** intelligente.
+1. Dans votre campagne intelligente, accédez à l&#39;onglet **Liste intelligente**.
 
    ![](assets/smart-list-1.png)
 
@@ -28,7 +28,7 @@ Vous pouvez utiliser des activités de contenu prédictif dans les déclencheurs
    >**Plongée profonde**
    >
    >
-   >Les listes intelligentes peuvent faire des choses incroyables. Apprenez-en plus dans la plongée [en liste](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)intelligente.
+   >Les listes intelligentes peuvent faire des choses incroyables. Pour en savoir plus sur la plongée en [liste intelligente](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Recherchez le déclencheur, puis faites-le glisser sur la trame.
 
@@ -46,7 +46,7 @@ Vous pouvez utiliser des activités de contenu prédictif dans les déclencheurs
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Ajoutez la contrainte **Type** .
+1. Ajoutez la contrainte **Type**.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -54,7 +54,7 @@ Vous pouvez utiliser des activités de contenu prédictif dans les déclencheurs
 
    ![](assets/pc-add-constraint.png)
 
-1. Si vous utilisez la source de courriel pour votre contenu prédictif, ajoutez le **lien Clics dans le déclencheur **trigger. Sélectionnez votre adresse électronique et ajoutez la contrainte **Est prédictif** , définie comme **true**.
+1. Si vous utilisez la source de courriel pour votre contenu prédictif, ajoutez le **lien Clics dans le déclencheur **trigger. Sélectionnez votre adresse électronique et ajoutez la contrainte **Is Predictive**, définie comme **true**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
