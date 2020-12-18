@@ -23,15 +23,15 @@ Saviez-vous que vous pouvez personnaliser le formulaire pour envoyer des message
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Sélectionnez votre formulaire, puis cliquez sur **Modifier le formulaire.**
+1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire.**
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. Sous Paramètres de **formulaire,** cliquez sur **Paramètres**.
+1. Sous **Paramètres du formulaire,** cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. Sélectionnez la **langue** **d’erreur** dont vous avez besoin.
+1. Sélectionnez la **Erreur** **langue** dont vous avez besoin.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
@@ -52,7 +52,7 @@ Saviez-vous que vous pouvez personnaliser le formulaire pour envoyer des message
    >**Rappel**
    >
    >
-   >N’oubliez pas d’ [approuver le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+   >N&#39;oubliez pas d&#39;[approuver le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
