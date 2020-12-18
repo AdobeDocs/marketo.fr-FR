@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Prévisualisation d’un Landing page {#preview-a-landing-page}
+# Prévisualisation d&#39;un Landing page {#preview-a-landing-page}
 
 Vous voulez probablement voir à quoi ressemble votre landing page avant de le faire vivre.
 
-## Prévisualisation d’un Landing page {#preview-a-landing-page-1}
+## Prévisualisation d&#39;un Landing page {#preview-a-landing-page-1}
 
 1. Sélectionnez un landing page et cliquez sur **Prévisualisation** **Page**.
 
@@ -29,19 +29,19 @@ Vous voulez probablement voir à quoi ressemble votre landing page avant de le f
 
    ![](assets/image2014-9-17-10-3a9-3a49.png)
 
-## Prévisualisation d&#39;un Landing page {#preview-a-landing-page-draft}
+## Prévisualisation d&#39;un projet de Landing page {#preview-a-landing-page-draft}
 
-1. Cliquez avec le bouton droit sur un landing page approuvé qui comporte une version préliminaire et cliquez sur **Prévisualisation** **Brouillon**.
+1. Cliquez avec le bouton droit sur un landing page approuvé qui contient une version préliminaire et cliquez sur **Prévisualisation** **Version préliminaire**.
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
-## Prévisualisation d’un brouillon de Landing page lors de la modification {#preview-a-landing-page-draft-while-editing}
+## Prévisualisation d&#39;un brouillon de Landing page lors de la modification de {#preview-a-landing-page-draft-while-editing}
 
-1. Sélectionnez un landing page et cliquez sur **Modifier** **le brouillon**.
+1. Sélectionnez un landing page et cliquez sur **Modifier** **Brouillon**.
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. A tout moment au cours de votre travail dans l’éditeur de landing page, vous pouvez cliquer sur **Prévisualisation préliminaire.**
+1. À tout moment de votre travail dans l&#39;éditeur de landing page, vous pouvez cliquer sur **Prévisualisation préliminaire.**
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 
