@@ -82,7 +82,7 @@ Vous pouvez également obtenir des mises à jour de flux de piste par flux RSS. 
 
 >[!NOTE]
 >
->Votre administrateur Marketo de société doit [activer les flux](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) RSS pour que cela fonctionne.
+>Votre administrateur Marketo de société doit [activer les flux RSS](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) pour que cela fonctionne.
 
 Pour obtenir des mises à jour RSS, vous aurez besoin de deux choses : le lien RSS et un lecteur de flux RSS. Vous pouvez obtenir le lien RSS en cliquant sur l&#39;icône RSS dans le flux de piste :   ![](assets/three.png)
 
