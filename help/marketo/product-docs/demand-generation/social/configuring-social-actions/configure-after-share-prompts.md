@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Configuration des invites après le partage {#configure-after-share-prompts}
+# Configurer les invites après le partage {#configure-after-share-prompts}
 
 Dans les applications de bouton social, de partage de vidéos et de sondage, vous pouvez choisir ce qui se passe lorsqu’une personne partage votre contenu sur son réseau social.
 
-1. Accédez à Activités **** marketing.
+1. Accédez à **Activités marketing**.
 
    ![](assets/ma.png)
 
@@ -23,22 +23,22 @@ Dans les applications de bouton social, de partage de vidéos et de sondage, vou
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Dans l’éditeur d’applications sociales, accédez à Paramètres **de l’** application** **puis à Options **** avancées.
+1. Dans l’éditeur d’applications sociales, accédez à **Paramètres de l’application*********, puis à **Options avancées**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
-1. Dans **Après le partage**, sélectionnez le comportement souhaité.
+1. Pour **Après le partage**, sélectionnez le comportement souhaité.
 
    ![](assets/image2015-4-21-12-3a18-3a32.png)
 
-   * **Message de confirmation :** Une fois la personne partagée, affichez une confirmation.
-   * **Capture de courrier électronique :** Une fois que la personne a partagé, demandez son adresse électronique.
+   * **Message de confirmation :** Une fois que la personne a partagé, affichez une confirmation.
+   * **Capture de l’e-mail :** une fois que la personne a partagé, demandez son adresse e-mail.
 
    >[!NOTE]
    >
-   >Si vous sélectionnez Capture **de** courrier électronique, la requête n’est affichée que si la personne n’a pas déjà fourni ses informations.
+   >Si vous sélectionnez **Capture de courrier électronique**, la demande n’est affichée que si la personne n’a pas déjà fourni ses informations.
 
-1. Si vous sélectionnez Message de **confirmation :** Accédez à **Partager le flux** , puis à Message **de** confirmation.
+1. Si vous choisissez **Message de confirmation :** Accédez à **Partager le flux**, puis **Message de confirmation**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
@@ -46,7 +46,7 @@ Dans les applications de bouton social, de partage de vidéos et de sondage, vou
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Si vous choisissez Capture **de** courriel (au lieu de la confirmation) : Accédez à Flux **de** partage, puis à Capture **** par courriel.
+1. Si vous avez choisi **Capture du courriel** (au lieu de la confirmation) : Accédez à **Flux de partage**, puis **Capture de courrier électronique**.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 
