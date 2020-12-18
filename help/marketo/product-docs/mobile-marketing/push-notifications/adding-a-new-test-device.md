@@ -19,10 +19,10 @@ Il est facile d’ajouter un nouveau périphérique de test auquel envoyer des n
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur **Admin **puis sur le lien Applications **** mobiles.\
+1. Cliquez sur **Admin **puis sur le lien **Applications mobiles**.\
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Cliquez sur l&#39;onglet Périphériques **de** test et **Nouveau périphérique** de test.
+1. Cliquez sur l&#39;onglet **Périphériques de test** et **Nouveau périphérique de test**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
