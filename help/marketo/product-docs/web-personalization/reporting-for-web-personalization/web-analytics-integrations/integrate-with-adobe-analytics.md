@@ -51,21 +51,21 @@ Vue des impressions et conversions de campagne RTP sous Liens personnalisés dan
 
 Ce rapport sur les liens personnalisés montre les impressions et les conversions des campagnes sous le format de dénomination suivant :
 
-* Impression ISegment : [Nom]de segment RTP, ICamcampaign : [Nom Campaign RTP]
-* Segment de conversion : [Nom]de segment RTP, ICamcampaign : [Nom Campaign RTP]
+* Impression ISegment : [Nom du segment RTP], ICamcampaign : [RTP Campaign Name]
+* Segment de conversion : [Nom du segment RTP], ICamcampaign : [RTP Campaign Name]
 
 ![](assets/custom-links-report.png)
 
-## Configuration en Adobe Analytics {#set-up-in-adobe-analytics}
+## Configurer en Adobe Analytics {#set-up-in-adobe-analytics}
 
 L’intégration utilise l’API JavaScript que Adobe Analytics offre. Les variables de conversion personnalisées (eVar), les événements personnalisés (événement) et les variables de trafic sont utilisés dans l’intégration. Tous doivent être activés à partir d’un administrateur AA. Vous devez définir les variables de conversion, les événements personnalisés et les variables de trafic dans AAou vous ne pourrez pas afficher les données dans la suite même si vous les avez activées dans RTP.
 
 Pour configurer ces variables dans AA, procédez comme suit :
 
-1. Accédez aux outils **** d’administration dans votre compte AA.
-1. Sélectionnez la suite **de** rapports à utiliser avec l’intégration.
-1. Sous **Modifier les paramètres,** accédez à **Conversion** et sélectionnez ** Variables [de](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)conversion**.\
-   Sélectionnez le numéro de la variable [de](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) conversion (nous vous recommandons de le faire) :
+1. Accédez à **Outils d’administration** dans votre compte AA.
+1. Sélectionnez la **Report Suite** à utiliser avec l&#39;intégration.
+1. Sous **Modifier les paramètres,** accédez à **Conversion** et sélectionnez ** [Variables de conversion](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
+   Sélectionnez le nombre [Variable de conversion](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (nous vous recommandons de le faire) :
 
    1. 
 
@@ -78,11 +78,11 @@ Pour configurer ces variables dans AA, procédez comme suit :
 
       1. Modifier l&#39;état en * Activé*
 
-         1. Remplacez Nom par **Secteur** et **Organisation**. (Voici comment il apparaîtra dans la suite de rapports.)
+         1. Remplacez le nom par **Industrie** et **Organisation**. (Voici comment il apparaîtra dans la suite de rapports.)
 
-         1. Modifiez le champ Expire après en **Visite.**
+         1. Remplacez le champ Expire après par **Visite.**
 
-1. Sous **Modifier les paramètres, **accédez à** Conversion **et sélectionnez ** [Événements](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)** de réussite.
+1. Sous **Modifier les paramètres **accédez à** Conversion **et sélectionnez ** [Événements de réussite](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
 1. Sélectionnez le numéro de Événement des Événements de réussite personnalisés (nous vous recommandons de le faire) :
 
@@ -93,11 +93,11 @@ Pour configurer ces variables dans AA, procédez comme suit :
       >
       >Si ces # sont pris, sélectionnez un autre nombre disponible. Alignez ce numéro avec le numéro d&#39;emplacement dans Paramètres du compte RTP.
 
-   1. Modifiez les noms des deux événements en Campagnes **** RTP et Segments **** RTP. Il s’agit du nom qui apparaîtra dans la suite de rapports.
+   1. Modifiez les noms des deux événements en **Campagnes RTP** et **Segments RTP**. Il s’agit du nom qui apparaîtra dans la suite de rapports.
 
-1. Sélectionnez le champ Type* *à **Compteur (sans sous-relations).**
+1. Sélectionnez le champ Type* *à **Compteur (sans sous-relations)**
 
-1. Sous **Modifier les paramètres** , accédez à ** [Trafic](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **et sélectionnez ** Variables [de](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)** trafic.
+1. Sous **Modifier les paramètres**, accédez à ** [Trafic](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **et sélectionnez ** [Variables de trafic](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Sélectionnez la propriété # de la variable de trafic (nous vous recommandons) :
 
@@ -111,21 +111,21 @@ Pour configurer ces variables dans AA, procédez comme suit :
          >Si ces # sont pris, sélectionnez un autre nombre disponible. Aligner ce nombre avec le numéro d&#39;emplacement dans Paramètres du compte RTP)
 
       1. Modifiez les 4 noms de propriétés. Il s’agit du nom qui apparaîtra dans la suite de rapports.
-   1. Sélectionner le champ activé à **activer**
-   1. Sélectionner le champ Rapports Chemin à **activer**
+   1. Sélectionnez le champ Activé pour **Activé**
+   1. Sélectionnez le champ Rapports Chemin sur **Activé**
 
 
-## Configuration dans la personnalisation en temps réel de Marketo {#set-up-in-marketo-real-time-personalization-rtp}
+## Configurer dans la personnalisation en temps réel du marketing (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
-1. Dans la plate-forme RTP, accédez à Paramètres **du** compte.
+1. Dans la plate-forme RTP, accédez à **Paramètres du compte**.
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Sous Paramètres **du** compte, cliquez sur **Domaine**.
+1. Sous **Paramètres du compte**, cliquez sur **Domaine**.
 1. Sous **Analytics, cliquez sur** **Adobe Analytics**.
 1. Activez **l&#39;option **les variables Conversion, Personnalisé et Trafic bascule.
-1. Affectez les numéros **** d&#39;emplacement des variables de conversion, de Événement et de trafic pour qu&#39;ils correspondent aux numéros d&#39;emplacement créés dans AA.
-1. Cliquez sur **ENREGISTRER**.
+1. Affecter les variables de conversion, de Événement et de trafic **numéros d&#39;emplacement** pour qu&#39;elles correspondent aux numéros d&#39;emplacement créés dans AA
+1. Cliquez sur **SAVE**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -183,35 +183,35 @@ Voici quelques exemples de rapports et de tableaux de bord personnalisés dans A
 
 **Création du Tableau de bord RTP**
 
-Créez un [nouveau tableau de bord](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), appelé Tableau de bord **** RTP. Ce tableau de bord vous aidera à comprendre la ventilation de vos visiteurs en fonction des secteurs verticaux et des segments RTP.
+Créez un [nouveau tableau de bord](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), appelé **Tableau de bord RTP**. Ce tableau de bord vous aidera à comprendre la ventilation de vos visiteurs en fonction des secteurs verticaux et des segments RTP.
 
-1. Cliquez sur **Tableau de bord,** cliquez sur** Ajouter Tableau de bord**
+1. Cliquez sur **Tableau de bord,** clic** Tableau de bord d&#39;Ajoute**
 
-1. Nommer le Tableau de bord **RTP du Tableau de bord**
-1. Sélectionner la taille **du** tableau de bord 3 x 2, 2 x 2
-1. Créez le [petit rapport](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) et ajoutez du [contenu au tableau de bord.](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. Nommez le Tableau de bord **Tableau de bord RTP**.
+1. Sélectionnez la **taille du tableau de bord** 3 x 2, 2 x 2
+1. Créez le mini-rapport [](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) et ajoutez le [contenu au tableau de bord](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
 
 Ajouter le petit rapport Industries au Tableau de bord
 
-1. Accédez à Conversions **** personnalisées, cliquez sur **Secteur**
+1. Accédez à **Conversions personnalisées**, cliquez sur **Industrie**
 
-1. Configuration d&#39;un graphique en **secteurs**
-1. Cliquez sur le **Tableau de bord**, ajoutez le **petit rapport.**
+1. Configurer Graphique à **Diagramme circulaire**
+1. Cliquez sur **Tableau de bord**, ajoutez **petit rapport**.
 
-1. Nommer les **principales industries du rapport**
-1. Placer dans le Tableau de bord **RTP Tableau de bord**
-1. Créer **nouveau**.
+1. Nommez le rapport **Principales industries**
+1. Placer dans le Tableau de bord **Tableau de bord RTP**
+1. Créer **Nouveau**.
 
 Ajouter le petit rapport Segments au Tableau de bord
 
-1. Accédez à **Mesures du site, **Cliquez sur Événements **personnalisés, Segments.**
+1. Accédez à **Mesures du site, **Cliquez sur **Événements personnalisés, Segments**
 
-1. Configuration d’un graphique sur une barre **verticale**
-1. Cliquez sur le **Tableau de bord**, ajoutez le **petit rapport.**
+1. Configurer Graphique à **Barre verticale**
+1. Cliquez sur **Tableau de bord**, ajoutez **petit rapport**.
 
-1. Nommer les **principaux segments du rapport**
-1. Placer dans le Tableau de bord **RTP Tableau de bord**
-1. Créer **nouveau.**
+1. Nommez le rapport **Principaux segments**.
+1. Placer dans le Tableau de bord **Tableau de bord RTP**
+1. Créer **Nouveau.**
 
 Vos petits rapports s’afficheront dans le tableau de bord.
 
