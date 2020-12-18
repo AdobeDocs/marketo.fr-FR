@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Engagement de modèle {#template-engagement}
+# Engagement du modèle {#template-engagement}
 
 Suivez les étapes ci-dessous pour vue de votre engagement de modèle.
 
@@ -21,11 +21,11 @@ Suivez les étapes ci-dessous pour vue de votre engagement de modèle.
 
    En dessous, votre vue est divisée en trois sections :
 
-   **Arme** secrète - Un modèle `not yet shared` à l&#39;échelle de l&#39;équipe qui reçoit des tonnes d&#39;engagement
+   **Arme**  secrète - Un modèle  `not yet shared` au sein de l&#39;équipe qui reçoit des tonnes d&#39;engagement
 
-   **Engagement** le plus élevé - Un modèle `already shared` au sein de l&#39;équipe qui le tue dans l&#39;engagement
+   **Engagement**  le plus élevé - Un modèle  `already shared` au sein de l&#39;équipe qui le tue dans l&#39;engagement
 
-   **Engagement** le plus faible - Un modèle qui nécessite un réajustement de son taux d’engagement (ce modèle `can either be shared or unshared` dans l’ensemble de l’équipe)
+   **Engagement**  le plus faible - Un modèle qui nécessite un réajustement de son taux d&#39;engagement (ce modèle  `can either be shared or unshared` à l&#39;échelle de l&#39;équipe)
 
    A partir de là, faites défiler la page vers le bas et affichez tous les modèles créés dans toute votre équipe en fonction de leur taux de vue au cours de la période sélectionnée. Au niveau d’un modèle individuel, vous pouvez voir : qui l’a créée, qu’elle soit partagée ou non, nombre de courriers électroniques qu’elle a utilisés avec elle et données de suivi (vues, clics, réponses).
 
