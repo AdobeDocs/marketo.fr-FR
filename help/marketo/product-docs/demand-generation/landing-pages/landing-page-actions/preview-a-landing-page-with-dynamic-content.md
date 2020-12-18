@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Prévisualisation d’un Landing page avec du contenu dynamique {#preview-a-landing-page-with-dynamic-content}
+# Prévisualisation d’un Landing page avec contenu dynamique {#preview-a-landing-page-with-dynamic-content}
 
 Prévisualisation votre landing page après l’ajout d’un contenu dynamique afin de vous assurer que tout ressemble à ce qu’il devrait.
 
@@ -24,7 +24,7 @@ Prévisualisation votre landing page après l’ajout d’un contenu dynamique a
 
 
 
-1. Sélectionnez un landing page et cliquez sur Page de **Prévisualisation.**
+1. Sélectionnez un landing page et cliquez sur **Page de Prévisualisation.**
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
