@@ -41,7 +41,7 @@ Vous devez approuver l’envoi avant que le message in-app ne s’affiche.
 
    Vous pouvez suspendre ou arrêter un principal programme, mais il y a une grande différence entre ces deux options.
 
-1. Cliquez sur **Suspendre le Programme** si vous devez arrêter le programme pendant un certain temps mais le reprendre ultérieurement. Il passe à l&#39;état **En pause** .
+1. Cliquez sur **Suspendre le Programme** si vous devez arrêter le programme pendant un certain temps mais le reprendre ultérieurement. Il passe à l’état **En pause**.
 
    ![](assets/image2016-5-12-13-3a50-3a26.png)
 
@@ -49,7 +49,7 @@ Vous devez approuver l’envoi avant que le message in-app ne s’affiche.
    >
    >Les raisons de la suspension peuvent être simplement de l&#39;arrêter pendant un certain temps, ou si vous souhaitez modifier le message ou ajuster la planification. Cependant, vous ne pouvez pas changer de message, mais seulement modifier le message existant.
 
-1. Si vous souhaitez que le programme suspendu continue à s’exécuter, cliquez sur **Reprendre** le **Programme**.
+1. Pour que le programme suspendu continue à s’exécuter, cliquez sur **Reprendre** **Programme**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -65,9 +65,9 @@ Vous devez approuver l’envoi avant que le message in-app ne s’affiche.
 
    >[!NOTE]
    >
-   >Lorsque vous arrêtez un programme, celui-ci ne s’exécute plus et ne peut plus être repris. Si vous voulez le réexécuter, vous devrez le reconstruire. Alors, assurez-vous d&#39;avoir fini avec un programme avant de cliquer sur **Arrêter le Programme**!
+   >Lorsque vous arrêtez un programme, celui-ci ne s’exécute plus et ne peut plus être repris. Si vous voulez le réexécuter, vous devrez le reconstruire. Assurez-vous donc que vous avez terminé avec un programme avant de cliquer sur **Arrêter le Programme** !
 
-## Tableau de bord intégré à l’application {#in-app-dashboard}
+## Tableau de bord intégré {#in-app-dashboard}
 
 Une fois votre programme exécuté, vous pouvez surveiller ses performances avec le Tableau de bord intégré, qui s’affiche automatiquement après avoir approuvé le programme. Pour revenir au programme, cliquez sur le lien en haut à droite et sélectionnez **Panneau de Contrôle**.
 
