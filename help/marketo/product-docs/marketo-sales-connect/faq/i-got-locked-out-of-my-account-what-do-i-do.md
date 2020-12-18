@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # J&#39;ai été verrouillé de mon compte. Que Puis-Je Faire ? {#i-got-locked-out-of-my-account-what-do-i-do}
 
-Si vous avez dépassé le nombre de tentatives de connexion, vous serez verrouillé hors de votre compte. Veuillez contacter le [](http://nation.marketo.com/community/support_solutions)service d&#39;assistance pour obtenir de l&#39;aide pour le déverrouiller.
+Si vous avez dépassé le nombre de tentatives de connexion, vous serez verrouillé hors de votre compte. Veuillez contacter [Support](http://nation.marketo.com/community/support_solutions)pour obtenir de l&#39;aide pour le déverrouiller.
