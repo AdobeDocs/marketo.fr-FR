@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Création d’une Audience personnalisée dans Facebook {#create-a-custom-audience-in-facebook}
+# Créer une Audience personnalisée dans Facebook {#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [Ajoutez des Audiences personnalisées Facebook en tant que service](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) LaunchPoint dans la section Admin.
->* [Acceptez les termes](https://www.facebook.com/ads/manage/customaudiences/tos.php) d’Audiences personnalisées de Facebook dans votre compte Facebook.
+>* [Ajoutez les Audiences personnalisées Facebook en tant que ](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) service LaunchPoint dans la section Admin.
+>* [Acceptez les termes d’Audiences personnalisées de Facebook ](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte Facebook.
 
 >
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->En savoir plus sur les audiences [personnalisées dans Facebook](https://www.facebook.com/help/341425252616329).
+>En savoir plus sur les [audiences personnalisées dans Facebook](https://www.facebook.com/help/341425252616329).
 
 1. Recherchez et sélectionnez la liste dynamique ou statique contenant les pistes à partir desquelles vous souhaitez créer l&#39;audience.
 
    ![](assets/1.png)
 
-1. Sélectionnez l&#39;onglet **Pistes** , puis cliquez sur l&#39;icône **Envoyer via Ad Bridge **située dans la partie inférieure.
+1. Sélectionnez l&#39;onglet **Pistes**, puis cliquez sur l&#39;icône **Envoyer via Ad Bridge **située dans la partie inférieure.
 
    ![](assets/222.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. Saisissez un nom **d’** Audience. Cliquez sur **Mettre à jour**.
+1. Saisissez un **nom de l&#39;Audience**. Cliquez sur **Mettre à jour**.
 
    ![](assets/five.png)
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Voulez-vous permuter une nouvelle audience avec une autre qui est actuellement associée à une visionneuse ou un groupe d’annonces ? Cochez la case **Remplacer une audience** existante. Cela **ne supprimera pas** l&#39;audience en cours de remplacement.
+   >Voulez-vous permuter une nouvelle audience avec une autre qui est actuellement associée à une visionneuse ou un groupe d’annonces ? Cochez la case **Remplacer une audience existante**. Ainsi, **ne supprimera pas** l&#39;audience en cours de remplacement.
 
 1. Une fois l’opération terminée, la boîte de dialogue d’état est mise à jour.
 
    ![](assets/six.png)
 
-   Et c&#39;est tout ! Dans Facebook, vous verrez la nouvelle audience dans Gestionnaire de **publicités > Audiences**.
+   Et c&#39;est tout ! Dans Facebook, vous verrez la nouvelle audience dans **Gestionnaire d’annonces > Audiences**.
 
    ![](assets/image2014-12-10-11-3a38-3a32.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Consultez le parcours de formation [Facebook des clients](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi)de Marketing Cloud. Il couvre tout ce que vous devez savoir, de la création d’une page Facebook au ciblage de vos publicités Facebook en utilisant les intégrations de réseaux publicitaires de Marketo.
+   >Consultez le [parcours d’apprentissage Facebook pour les clients de Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Il couvre tout ce que vous devez savoir, de la création d’une page Facebook au ciblage de vos publicités Facebook en utilisant les intégrations de réseaux publicitaires de Marketo.
 
    >[!NOTE]
    >
