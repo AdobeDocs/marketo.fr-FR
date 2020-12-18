@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Courriel des rapports, performances Campaign dans tous les espaces de travail {#report-email-campaign-performance-across-workspaces}
+# Courriel du rapport, performances Campaign dans tous les espaces de travail {#report-email-campaign-performance-across-workspaces}
 
-Activez le Rapports global pour inclure les données de tous vos espaces de [travail](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) Marketo dans vos rapports Performances [des](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)courriels, Performances [des liens de](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)courriel et Activité [Campaign.](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+Activez le Rapports global pour inclure dans vos rapports [Performances du courriel](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Performances du lien de courriel](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) et [Activité de Campaign](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) les données provenant de tous vos espaces de travail de [marketing.](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
-1. Accédez à la zone **Analytics** (ou Activités **** marketing).
+1. Accédez à **Analytics** (ou **Activités marketing**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,7 +23,7 @@ Activez le Rapports global pour inclure les données de tous vos espaces de [tra
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Cliquez sur l’onglet **Configuration** et cliquez sur Rapports **** global en maintenant la touche doublon enfoncée.
+1. Cliquez sur l&#39;onglet **Configuration** et cliquez sur **Rapports global** en doublon.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
@@ -31,7 +31,7 @@ Activez le Rapports global pour inclure les données de tous vos espaces de [tra
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. C&#39;est tout ! Cliquez sur l’onglet **Rapport** pour afficher les données de tous vos espaces de travail.
+1. C&#39;est tout ! Cliquez sur l&#39;onglet **Rapport** pour afficher les données de tous vos espaces de travail.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
@@ -49,5 +49,5 @@ Activez le Rapports global pour inclure les données de tous vos espaces de [tra
    >**Plongée profonde**
    >
    >
-   >En savoir plus sur les rapports dans le Rapports [](http://docs.marketo.com/display/docs/basic+reporting) de base.
+   >Découvrez tous les rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
