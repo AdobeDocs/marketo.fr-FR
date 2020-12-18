@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Comprendre les intégrations des réseaux publicitaires {#understanding-ad-network-integrations}
+# Présentation des intégrations des réseaux publicitaires {#understanding-ad-network-integrations}
 
 ![](assets/hith-golden-gate-144833144-e.jpeg)
 
@@ -36,7 +36,7 @@ Les fonctionnalités sont les suivantes :
 
    * Par exemple, une personne recherche, voit et clique sur une publicité, puis remplit un formulaire en ligne. Après cela, il reçoit une démonstration hors ligne et devient une opportunité CRM. C&#39;est là que l&#39;annonceur le cible.
 
-* Reciblage des visiteurs de site Web, à l’aide de la personnalisation [](http://docs.marketo.com/display/docs/web+personalization)Web, pour les ramener à votre site Web
+* Reciblage des visiteurs de site Web, à l’aide de [la personnalisation Web](http://docs.marketo.com/display/docs/web+personalization), pour les ramener à votre site Web
 
    * Personnaliser par segment ou verticale
 
@@ -52,11 +52,11 @@ Vous pouvez utiliser les intégrations pour :
 
 |  | Données d’Audience | Ingestion de piste | Conversion hors ligne |
 |---|---|---|---|
-| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
-| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
-| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |
+| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
+| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
+| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
 
-## Regarder une vidéo {#watch-a-video}
+## Visionnage d’une vidéo {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
