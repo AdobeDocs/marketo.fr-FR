@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Vous aurez besoin d’un **certificat** et d’un **mot de passe** de la part de votre développeur d’applications mobiles. Le développeur les reçoit en se connectant au centre des membres Apple Developer, en configurant et en téléchargeant un certificat de notification Push pour votre application, puis en exportant le contenu. Le développeur définit le mot de passe lors de l’exportation. **IMPORTANT**: Le certificat doit être approprié pour le type d&#39;environnement que vous utilisez — Sandbox ou Production. Vérifiez ce point avec votre administrateur marketing ou votre développeur d’applications mobiles.
+   >Vous aurez besoin d&#39;un **certificat** et **mot de passe** de la part du développeur de vos applications mobiles. Le développeur les reçoit en se connectant au centre des membres Apple Developer, en configurant et en téléchargeant un certificat de notification Push pour votre application, puis en exportant le contenu. Le développeur définit le mot de passe lors de l’exportation. **IMPORTANT** : Le certificat doit être approprié pour le type d&#39;environnement que vous utilisez — Sandbox ou Production. Vérifiez ce point avec votre administrateur marketing ou votre développeur d’applications mobiles.
 
 1. Sélectionnez votre certificat, saisissez votre mot de passe, puis cliquez sur Enregistrer.
 
