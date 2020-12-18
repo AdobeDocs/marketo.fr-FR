@@ -19,9 +19,9 @@ Une étape à la porte sert de vérification de qualification.
 >
 >C&#39;est une bonne idée de créer un modèle pratique dans un programme graphique ou de présentation et de le confirmer avec vos collègues.
 
-## Ajouter Une Étape De Porte {#add-a-gate-stage}
+## Ajouter une étape de porte {#add-a-gate-stage}
 
-1. Accédez à la zone **Analytics** .
+1. Accédez à la zone **Analytics**.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
@@ -29,11 +29,11 @@ Une étape à la porte sert de vérification de qualification.
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Cliquez sur **Modifier** le **brouillon**.
+1. Cliquez sur **Modifier** **Brouillon**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Cliquez sur le bouton **Porte** , puis faites glisser et déposez n’importe où dans la trame.
+1. Cliquez sur le bouton **Porte**, puis faites glisser et déposez n’importe où dans la trame.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
@@ -41,19 +41,19 @@ Une étape à la porte sert de vérification de qualification.
 
    >[!NOTE]
    >
-   >Sélectionnez [Suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md) pour le moment afin d’obtenir des informations sur les performances de vos comptes au fur et à mesure qu’ils progressent dans votre modèle.
+   >Sélectionnez [Suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md) pour obtenir des informations sur les performances de vos comptes à mesure qu&#39;ils progressent dans votre modèle.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
 >[!NOTE]
 >
->La scène de la porte divise les pistes en fonction des critères que vous saisissez dans les règles de transition ; **il ne tient pas de piste**. Une transition par défaut est requise afin que les pistes qui ne sont pas choisies par les autres transitions finissent par passer par la valeur par défaut.
+>La scène de la porte divise les pistes en fonction des critères que vous saisissez dans les règles de transition ; **il ne contient pas de pistes**. Une transition par défaut est requise afin que les pistes qui ne sont pas choisies par les autres transitions finissent par passer par la valeur par défaut.
 
 ## Modifier une étape de porte {#edit-a-gate-stage}
 
-Modifiez le nom, la description et le type de l’étape Porte. Vous pouvez également opter pour le suivi des [Débuts par compte](start-tracking-by-account-in-the-revenue-modeler.md).
+Modifiez le nom, la description et le type de l’étape Porte. Vous pouvez également opter pour [suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Cliquez sur une icône **d’étape Porte** .
+1. Cliquez sur une icône **Porte** d’étape.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
@@ -71,7 +71,7 @@ Modifiez le nom, la description et le type de l’étape Porte. Vous pouvez éga
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. Vous pouvez également supprimer une étape de la porte en cliquant dessus, puis dans la liste déroulante Actions **de la** scène, en sélectionnant **Supprimer**.
+1. Vous pouvez également supprimer une étape de Porte en cliquant dessus, puis dans la liste déroulante **Actions de l’étape**, en sélectionnant **Supprimer**.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
@@ -85,7 +85,7 @@ Félicitations ! Maintenant vous comprenez le monde merveilleux de Gate Stages.
 >
 >* [Utilisation des étapes du stock du modèle de recettes](using-revenue-model-inventory-stages.md)
 >* [Utilisation des étapes de l&#39;accord de niveau de service (SLA) du modèle de recettes](using-revenue-model-sla-stages.md)
->* [Créer un modèle](create-a-new-revenue-model.md)de recettes.
+>* [Créer un modèle](create-a-new-revenue-model.md) de recettes.
 
 >
 
