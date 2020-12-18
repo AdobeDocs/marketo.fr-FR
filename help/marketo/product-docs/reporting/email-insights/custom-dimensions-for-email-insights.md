@@ -31,7 +31,7 @@ Toutes les dimensions standard du marketing sont incluses, mais vous avez la pos
 
    ![](assets/cd2.png)
 
-1. Cliquez sur le **+** en regard de la dimension **** Ajoute.
+1. Cliquez sur **+** en regard de **Ajouter la dimension**.
 
    ![](assets/cd3.png)
 
@@ -41,8 +41,8 @@ Toutes les dimensions standard du marketing sont incluses, mais vous avez la pos
 
    >[!NOTE]
    >
-   >**Par Audience**: Affiche toutes les segments approuvés (depuis la base de données).
+   >**Par Audience** : Affiche toutes les segments approuvés (depuis la base de données).
    >
    >
-   >**Par contenu**: Affiche toutes les balises de Programme
+   >**Par contenu** : Affiche toutes les balises de Programme
 
