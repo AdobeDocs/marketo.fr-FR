@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Rappel**
 >
->Clients existants, veuillez [mettre à niveau votre pack](http://docs.marketo.com/x/_gU6Ag) MSI avant de continuer !
+>Clients existants, [Mettez à niveau votre package MSI](http://docs.marketo.com/x/_gU6Ag) avant de continuer !
 
 >[!PREREQUISITES]
 >
@@ -43,7 +43,7 @@ Si vous possédez Salesforce Professional :
 >Marketo Sales Insight in Salesforce1 inclut : Meilleurs paris, Flux de pistes, Moments intéressants et Ajoute à Marketing Campaign.
 
 1. Activation de l’application mobile Salesforce1
-1. Cliquez sur **Configuration** , puis sur Administration **** mobile.
+1. Cliquez sur **Configuration**, puis sur **Administration mobile**.
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
@@ -51,11 +51,11 @@ Si vous possédez Salesforce Professional :
 
    ![](assets/image2015-4-21-15-3a30-3a51.png)
 
-1. Cliquez sur Paramètres **** Salesforce1.
+1. Cliquez sur **Paramètres Salesforce1**.
 
    ![](assets/image2015-4-21-15-3a32-3a21.png)
 
-1. Cliquez sur **Activer l&#39;application** de navigateur mobile Salesforce1.
+1. Cliquez sur **Activer l&#39;application de navigateur mobile Salesforce1**.
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
@@ -63,11 +63,11 @@ Si vous possédez Salesforce Professional :
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
-1. Sélectionnez Administration **** mobile.
+1. Sélectionnez **Administration mobile**.
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
-1. Cliquez sur **Gérer le menu** de navigation mobile.
+1. Cliquez sur **Gérer le menu de navigation mobile**.
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
@@ -96,7 +96,7 @@ Si vous possédez Salesforce Professional :
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. Sous Paramètres **** d’onglet, sélectionnez le *premier* **marketing**.
+1. Sous **Paramètres d&#39;onglet**, sélectionnez *first* **Marketo**.
 
    ** ![](assets/image2015-5-5-13-3a55-3a36.png)
 
@@ -121,7 +121,7 @@ Si vous possédez Salesforce Professional :
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. Sélectionnez **Marketo** et **Ajouter **it aux onglets sélectionnés.
+1. Sélectionnez **Marketo** et **Ajouter **il aux onglets sélectionnés.
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
@@ -134,7 +134,7 @@ Si vous possédez Salesforce Professional :
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
-1. Cliquez sur **Configuration**, tapez **Mise en page**, puis cliquez sur Mise en page **de** page sous Pistes.
+1. Cliquez sur **Configuration**, tapez **Mise en page**, puis cliquez sur **Mise en page** sous Pistes.
 
    >[!NOTE]
    >
@@ -146,15 +146,15 @@ Si vous possédez Salesforce Professional :
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. Cliquez sur **Pages Visualforce **puis faites glisser** Lead Mobile **vers la section Cartes mobiles.
+1. Cliquez sur **Visualforce Pages **puis faites glisser** Lead Mobile **vers la section Cartes mobiles.
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
-1. Modifiez la Hauteur en 66, puis cliquez sur **OK**.
+1. Remplacez la Hauteur par 66, puis cliquez sur **OK**.
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. Cliquez sur **Champs** et faites glisser **Ajouter à Marketo Campaign **vers les** statistiques des ventes du marketing **section.
+1. Cliquez sur **Champs** et faites glisser **Ajouter sur Campaign **Marketo** Marketing Sales Insight **section.
 
    ![](assets/configure-step-6.png)
 
