@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# Test des annonces de pistes Facebook pour l&#39;intégration de bureau avec Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
+# Testez les publicités Facebook pour l’intégration de bureau avec Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
 Après avoir créé votre annonce de piste, vous devez la tester ! Voici comment le faire sur votre bureau.
 
 >[!PREREQUISITES]
 >
->Vous devez [configurer l’intégration](set-up-facebook-lead-ads.md)des publicités de piste Facebook.
+>Vous devez [configurer l’intégration des publicités de piste Facebook](set-up-facebook-lead-ads.md).
 
 1. Dans l’éditeur d’alimentation Facebook, sélectionnez une campagne, une publicité, puis cliquez sur **Modifier**.
-1. Sous **Liens**, cliquez sur la **Vue du lien Flux** d’informations.
+1. Sous **Liens**, cliquez sur le lien **Vue dans le fil d’actualité**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -40,7 +40,7 @@ Après avoir créé votre annonce de piste, vous devez la tester ! Voici comment
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. C&#39;est là que la magie se produit ! Une fois votre formulaire envoyé, [créez une liste dynamique dans Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dans le cadre d’un programme ou dans la base de données qui utilise le filtre Formulaire d’annonce de piste Facebook remplie. Insérez le nom du formulaire de piste publicitaire du formulaire que vous venez d&#39;envoyer.
+1. C&#39;est là que la magie se produit ! Une fois que vous avez envoyé votre formulaire, [créez une liste dynamique dans Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dans le cadre d’un programme ou dans la base de données qui utilise le filtre Formulaire d’annonce de piste Facebook remplie. Insérez le nom du formulaire de piste publicitaire du formulaire que vous venez d&#39;envoyer.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
