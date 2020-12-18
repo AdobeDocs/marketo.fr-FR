@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Préparer Sales Insight for Multi-Lingual Support dans Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
+# Préparer Sales Insight for Multi-Lingual Support in Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Toute autre langue prend par défaut l’anglais.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Sous** Mes renseignements personnels**, cliquez sur Informations **** personnelles.
+1. Sous** Mes informations personnelles**, cliquez sur **Informations personnelles**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
@@ -44,7 +44,7 @@ Toute autre langue prend par défaut l’anglais.
 
    ![](assets/image2015-7-6-16-3a5-3a38.png)
 
-1. Sélectionnez une langue, puis cliquez sur **Enregistrer**.
+1. Sélectionnez une langue et cliquez sur **Enregistrer**.
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
@@ -56,7 +56,7 @@ Toute autre langue prend par défaut l’anglais.
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Allez sur le marché. Localisez les détails [de la configuration **de votre** API Marketing Insight Sales Insight](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) .
+1. Allez sur le marché. Recherchez les [détails &lt;a0/>de la configuration de l&#39;API **Marketing Sales Insight &lt;a1/>** ](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) .
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
@@ -64,7 +64,7 @@ Toute autre langue prend par défaut l’anglais.
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
-## Remplacer Salesforce par Anglais {#change-salesforce-back-to-english}
+## Remplacer Salesforce par l&#39;anglais {#change-salesforce-back-to-english}
 
 Lorsque vous avez fini de personnaliser votre organisation Salesforce, voici comment renvoyer votre configuration personnelle en anglais.
 
@@ -76,7 +76,7 @@ Lorsque vous avez fini de personnaliser votre organisation Salesforce, voici com
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Cliquez sur Informations **** personnelles sous **Mes informations** personnelles.
+1. Cliquez sur **Informations personnelles** sous **Mes informations personnelles**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
@@ -84,7 +84,7 @@ Lorsque vous avez fini de personnaliser votre organisation Salesforce, voici com
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
-1. Sélectionnez **Anglais** dans la liste déroulante Langue, puis cliquez sur **Enregistrer**.
+1. Sélectionnez **Anglais** dans la liste déroulante Langage et cliquez sur **Enregistrer**.
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 
