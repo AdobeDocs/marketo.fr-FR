@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Créer une Campaign Web en zone {#create-a-new-in-zone-web-campaign}
 
-Une campagne Web est une réaction personnalisée associée à un segment spécifique et peut être une boîte de [dialogue](create-a-new-dialog-web-campaign.md) sur votre site Web, un remplacement de zone, une fonction [de](create-a-new-widget-web-campaign.md) widget ou une alerte par courrier électronique. Une campagne Web In Zone remplace un élément de votre site Web basé sur l’identifiant de zone par du contenu ou des bannières graphiques.
+Une campagne Web est une réaction personnalisée associée à un segment spécifique et peut être une [boîte de dialogue](create-a-new-dialog-web-campaign.md) sur votre site Web, un remplacement de zone, une fonction de widget [](create-a-new-widget-web-campaign.md) ou une alerte par courrier électronique. Une campagne Web In Zone remplace un élément de votre site Web basé sur l’identifiant de zone par du contenu ou des bannières graphiques.
 
 ## Créer une Campaign Web en zone {#create-an-in-zone-web-campaign}
 
-1. Accédez à Campagnes **** Web.
+1. Accédez à **Campagnes Web**.
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. Sélectionnez **Créer une Campaign Web.**
+1. Sélectionnez **Créer une nouvelle Campaign Web.**
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Sélectionnez le type de campagne **Dans la zone** . Personnalisez et ajoutez un ID **de zone.** Définissez la campagne sur **Attractif** et ajoutez votre élément créatif dans l’éditeur. Ajoutez l’URL de la page à la prévisualisation et cliquez sur **Prévisualisation** pour voir comment la campagne va réagir sur votre site.
+1. Sélectionnez le type de campagne **Dans Zone**. Personnalisez et ajoutez un ID de zone **Zone.** Définissez la campagne sur  **** Attractif et ajoutez votre élément créatif dans l’éditeur. Ajoutez l’URL de la page à la prévisualisation et cliquez sur **Prévisualisation** pour savoir comment la campagne va réagir sur votre site.
 
    ![](assets/new-3-1.png)
 
@@ -40,7 +40,7 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
    >Un identifiant de zone correspond à l’emplacement de votre campagne Web &quot;Dans la zone&quot; sur le site. Pour trouver un &quot;identifiant de zone&quot;, il vous suffit d&#39;aller sur votre site Web sélectionner la zone que vous souhaitez remplacer par une campagne Web et de cliquer avec le bouton droit de la souris. Dans Chrome, l’option est &quot;Inspect Element&quot;, et dans d’autres navigateurs, elle peut varier.
    >
    >
-   >Ensuite, vous souhaitez trouver l&#39;&quot;id&quot; associé à cette section du site Web, qui est mise en évidence car vous inspectez cet élément. Par exemple, si vous cliquez avec le bouton droit de la souris dans Chrome, le texte mis en surbrillance indique `<div id="featured-slider">` que &quot;curseur en vedette&quot; est ce que vous devez taper dans la section &quot;identifiant de zone&quot;. En règle générale, &quot;div id&quot; est utilisé, mais tout ID peut également être utilisé, tel que h1 id, p id, etc.
+   >Ensuite, vous souhaitez trouver l&#39;&quot;id&quot; associé à cette section du site Web, qui est mise en évidence car vous inspectez cet élément. Par exemple, si vous cliquez avec le bouton droit de la souris dans Chrome, le texte en surbrillance indique `<div id="featured-slider">` alors &quot;featured-slider&quot; est ce que vous devez taper dans la section &quot;zone id&quot;. En règle générale, &quot;div id&quot; est utilisé, mais tout ID peut également être utilisé, tel que h1 id, p id, etc.
 
 <table> 
  <thead> 
@@ -68,7 +68,7 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
   </tr> 
   <tr> 
    <td colspan="1"><strong> Editeur de texte enrichi  </strong></td> 
-   <td colspan="1">L’éditeur de texte enrichi permet le formatage de texte, la liaison et l’insertion d’images. <a href="using-the-web-personalization-rich-text-editor.md">En savoir plus ici</a> .</td> 
+   <td colspan="1">L’éditeur de texte enrichi permet le formatage de texte, la liaison et l’insertion d’images. <a href="using-the-web-personalization-rich-text-editor.md">Lire plus ici</a> .</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong> Prévisualisation sur site   </strong></td> 
@@ -76,7 +76,7 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
     <ul> 
      <li> URL : saisissez un exemple d'URL où la campagne s'exécuterait pour afficher un exemple prévisualisation de l'aspect de la campagne.</li> 
      <li>Périphérique - Prévisualisation de l'affichage de votre campagne par périphérique : Bureau, Portrait mobile, Paysage mobile, Portrait tablette, Paysage portrait.</li> 
-     <li> Prévisualisation - Cliquez sur <strong>Prévisualisation</strong> pour ouvrir une nouvelle fenêtre de l'exemple d'URL afin de voir comment réagit la campagne.</li> 
+     <li> Prévisualisation - Cliquez sur <strong>Prévisualisation</strong> pour ouvrir une nouvelle fenêtre de l'exemple d'URL afin de voir comment la campagne réagit.</li> 
      <li> Partager - Utilisez le bouton Partager pour envoyer un courriel à un collègue avec un lien afin d'afficher la campagne proxy.</li> 
     </ul></td> 
   </tr> 
@@ -85,23 +85,23 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
 
 >[!TIP]
 >
->Accélérez et simplifiez votre processus de création de campagne en utilisant les modèles [](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) intégrés ou en [enregistrant votre campagne](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) existante comme modèle pour la réutilisation.
+>Accélérez et simplifiez le processus de création de vos campagnes en utilisant [les modèles intégrés](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) ou en [enregistrant votre campagne existante](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) comme modèle à réutiliser.
 
 >[!NOTE]
 >
->**Souhaitez-vous tester A/B vos campagnes Web ?** Une ou plusieurs campagnes Web peuvent être testées [A/B pour des résultats](ab-test-your-web-campaign.md)optimaux. Grâce à la fonction d’ajustement automatique, la plate-forme reconnaît automatiquement les campagnes les plus performantes, poursuit les campagnes ayant le plus fort taux de conversion et interrompt les autres campagnes.
+>**Souhaitez-vous tester A/B vos campagnes Web ?** Une ou plusieurs campagnes Web peuvent être testées  [A/B pour des résultats](ab-test-your-web-campaign.md) optimaux. Grâce à la fonction d’ajustement automatique, la plate-forme reconnaît automatiquement les campagnes les plus performantes, poursuit les campagnes ayant le plus fort taux de conversion et interrompt les autres campagnes.
 
 ## Modifier une Campaign Web {#edit-a-web-campaign}
 
-Dans la page Campagnes **** Web, cliquez sur **Modifier** dans le Campaign.
+Dans la page **Campagnes Web**, cliquez sur **Modifier** dans le Campaign.
 
 ![](assets/in-zone-web-campaign-edit.png)
 
 >[!NOTE]
 >
->Pour faciliter la recherche de la campagne de votre choix, utilisez la fonction [de](filter-web-campaigns.md)filtrage.
+>Pour faciliter la recherche de la campagne souhaitée, utilisez la fonction de filtre [](filter-web-campaigns.md).
 
-## Prévisualisation d&#39;un Campaign Web {#preview-a-web-campaign}
+## Prévisualisation d’un Campaign Web {#preview-a-web-campaign}
 
 1. Dans la page Campagnes Web, cliquez sur **Prévisualisation **sur la campagne Web que vous souhaitez vue.
 
@@ -109,9 +109,9 @@ Dans la page Campagnes **** Web, cliquez sur **Modifier** dans le Campaign.
 
 ## Cloner une Campaign Web {#clone-a-web-campaign}
 
-Voir [Cloner une Campaign](clone-a-web-campaign.md)Web.
+Voir [Cloner une Campaign Web](clone-a-web-campaign.md).
 
-## Suppression d’une Campaign Web {#delete-a-web-campaign}
+## Supprimer une Campaign Web {#delete-a-web-campaign}
 
 1. Dans la page Campagnes Web, cliquez sur **Supprimer **sur la Campaign que vous souhaitez supprimer.
 
