@@ -17,11 +17,11 @@ Découvrez comment gérer vos groupes dans Sales Connect.
 
 ## Créer un groupe {#create-a-group}
 
-1. Dans la page Personnes, cliquez sur le signe **** plus en regard de Groupes.
+1. Dans la page Personnes, cliquez sur le signe **plus** en regard de Groupes.
 
    ![](assets/one-4.png)
 
-1. Nommez votre groupe, puis cliquez sur **Créer**.
+1. Nommez votre groupe et cliquez sur **Créer**.
 
    ![](assets/two-3.png)
 
@@ -33,7 +33,7 @@ Découvrez comment gérer vos groupes dans Sales Connect.
 
    ![](assets/three-3.png)
 
-1. Cliquez sur Actions **** de groupe et sélectionnez **Créer un contact**.
+1. Cliquez sur **Actions de groupe** et sélectionnez **Créer un contact**.
 
    ![](assets/four-3.png)
 
@@ -71,7 +71,7 @@ Découvrez comment gérer vos groupes dans Sales Connect.
 
    Vous possédez toujours le groupe, mais il apparaîtra désormais sous Groupes d’équipes.
 
-## Annulation du partage d’un groupe {#unshare-a-group}
+## Annulation du partage d&#39;un groupe {#unshare-a-group}
 
 1. Dans la page Personnes, recherchez et sélectionnez le groupe que vous souhaitez annuler le partage.
 
@@ -101,7 +101,7 @@ Découvrez comment gérer vos groupes dans Sales Connect.
 
    ![](assets/fourteen.png)
 
-## Suppression d’un groupe {#delete-a-group}
+## Supprimer un groupe {#delete-a-group}
 
 1. Dans la page Personnes, recherchez et sélectionnez le groupe à supprimer.
 
