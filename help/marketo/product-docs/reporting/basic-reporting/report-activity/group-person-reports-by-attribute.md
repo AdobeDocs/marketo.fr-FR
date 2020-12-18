@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Rapports des personnes de groupe par attribut {#group-person-reports-by-attribute}
+# Rapports des personnes du groupe par attribut {#group-person-reports-by-attribute}
 
-Vous pouvez regrouper les rapports [de](http://docs.marketo.com/display/docs/basic+reporting) personne selon n’importe quelle personne ou attribut de société.
+Vous pouvez regrouper vos [rapports de personne](http://docs.marketo.com/display/docs/basic+reporting) par tout attribut de personne ou de société.
 
-1. Accédez à la zone Activités **** marketing (ou **Analytics**).
+1. Accédez à la zone **Activités marketing** (ou **Analytics**).
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. Sélectionnez le rapport de votre personne dans l&#39;arborescence de navigation et cliquez sur l&#39;onglet **Configuration** .
+1. Sélectionnez le rapport de votre personne dans l’arborescence de navigation et cliquez sur l’onglet **Configuration**.
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. Doublon-clic sur **Regrouper les personnes par**.
+1. Doublon-clic **Regrouper les personnes par**.
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également [regrouper les rapports de vos personnes par segment](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+   >Vous pouvez également [regrouper vos rapports de personne par segment](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
    Dans la boîte de dialogue Regrouper les personnes par, sélectionnez l’attribut de personne ou de société à utiliser pour le regroupement.
 
@@ -37,7 +37,7 @@ Vous pouvez regrouper les rapports [de](http://docs.marketo.com/display/docs/bas
 
    >[!TIP]
    >
-   >Si vous choisissez un attribut doté d’une valeur numérique, telle que *Créé à* ou Recettes ** annuelles, sélectionnez les mesures dans la liste déroulante **Unités** située à droite.
+   >Si vous choisissez un attribut doté d’une valeur numérique, par exemple *Créé à* ou *Recettes annuelles*, sélectionnez les mesures dans la liste déroulante **Unités** à droite.
 
    C&#39;est tout ! Cliquez sur l&#39;onglet Rapport pour afficher le rapport regroupé en conséquence.
 
@@ -48,7 +48,7 @@ Vous pouvez regrouper les rapports [de](http://docs.marketo.com/display/docs/bas
    >**Plongée profonde**
    >
    >
-   >Pour en savoir plus sur les rapports de personnes et les autres types de rapports, consultez la section Détail des [rapports de](http://docs.marketo.com/display/docs/basic+reporting)base.
+   >Pour en savoir plus sur les rapports de personnes et les autres types de rapports, consultez la section [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting)plongée en profondeur.
 
    >[!NOTE]
    >
