@@ -27,11 +27,11 @@ La connexion à Outlook signifie que vous recevrez le suivi des réponses, l&#39
 
    ![](assets/one.png)
 
-1. Sous Mon compte, sélectionnez Paramètres **de** courriel.
+1. Sous Mon compte, sélectionnez **Paramètres de courriel**.
 
    ![](assets/two.png)
 
-1. Cliquez sur l’onglet Connexion **** par courriel.
+1. Cliquez sur l&#39;onglet **Connexion par courriel**.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ La connexion à Outlook signifie que vous recevrez le suivi des réponses, l&#39
 
    ![](assets/four.png)
 
-1. Sélectionnez **J&#39;utilise Outlook pour envoyer des courriers électroniques** et cliquez sur **Suivant**.
+1. Sélectionnez **J&#39;utilise Outlook pour envoyer des courriels** et cliquez sur **Suivant**.
 
    ![](assets/five-a.png)
 
@@ -55,7 +55,7 @@ La connexion à Outlook signifie que vous recevrez le suivi des réponses, l&#39
 
    ![](assets/seven-a.png)
 
-1. Si vous n&#39;êtes pas connecté à Outlook, entrez vos informations de connexion et cliquez sur **Suivant**. Si tel est le cas, sélectionnez le compte auquel vous souhaitez vous connecter et cliquez sur **Suivant**. Dans cet exemple, nous sommes déjà connectés.
+1. Si vous n&#39;êtes pas connecté à Outlook, entrez vos informations de connexion et cliquez sur **Suivant**. Si tel est le cas, choisissez le compte auquel vous souhaitez vous connecter et cliquez sur **Suivant**. Dans cet exemple, nous sommes déjà connectés.
 
    ![](assets/eight-a.png)
 
@@ -63,13 +63,13 @@ La connexion à Outlook signifie que vous recevrez le suivi des réponses, l&#39
 
    ![](assets/nine-a.png)
 
-   Vous pouvez utiliser cette connexion pour effectuer le suivi des courriers électroniques et [en tant que canal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)de diffusion.
+   Vous pouvez utiliser cette connexion pour effectuer le suivi des courriers électroniques et [comme canal de diffusion](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
 
    >[!NOTE]
    >
    >Lorsque vous utilisez Outlook comme canal de diffusion, vous ne pouvez pas envoyer plus de 300 e-mails en masse à la fois.
 
-## Connexion à Exchange sur site {#connecting-to-exchange-on-premise}
+## Connexion à Exchange On-Premise {#connecting-to-exchange-on-premise}
 
 La connexion à Exchange On-Premise signifie que vous recevrez le suivi des réponses, l&#39;accès au canal de la diffusion Outlook, la possibilité de planifier des courriers électroniques dans Outlook et d&#39;envoyer la conformité.
 
@@ -77,11 +77,11 @@ La connexion à Exchange On-Premise signifie que vous recevrez le suivi des rép
 
    ![](assets/one.png)
 
-1. Sous Mon compte, sélectionnez Paramètres **de** courriel.
+1. Sous Mon compte, sélectionnez **Paramètres de courriel**.
 
    ![](assets/two.png)
 
-1. Cliquez sur l’onglet Connexion **** par courriel.
+1. Cliquez sur l&#39;onglet **Connexion par courriel**.
 
    ![](assets/three.png)
 
@@ -89,7 +89,7 @@ La connexion à Exchange On-Premise signifie que vous recevrez le suivi des rép
 
    ![](assets/four.png)
 
-1. Sélectionnez **J&#39;utilise Outlook pour envoyer des courriers électroniques** et cliquez sur **Suivant**.
+1. Sélectionnez **J&#39;utilise Outlook pour envoyer des courriels** et cliquez sur **Suivant**.
 
    ![](assets/five-a.png)
 
