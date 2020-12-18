@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Vous pouvez ajouter à votre vue Salesforce des boutons et des onglets personnalisés Marketing Insight Sales pour un accès facile. Intéressé ? Voici comment.
 
-## Ajouter l’onglet Marketo  {#adding-the-marketo-tab}
+## Ajouter l&#39;onglet Marketo {#adding-the-marketo-tab}
 
 1. Cliquez sur** + **et sur **Personnaliser mes onglets**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
-1. Sélectionnez Marketo dans la liste de gauche. Cliquez ensuite sur **Ajouter** pour l’ajouter aux onglets **** sélectionnés.
+1. Sélectionnez Marketo dans la liste de gauche. Cliquez ensuite sur **Ajouter** pour l&#39;ajouter aux **onglets sélectionnés**.
 
    >[!TIP]
    >
@@ -39,7 +39,7 @@ Vous pouvez ajouter des boutons Marketo à vos mises en page Salesforce. Voici u
 
 ![](assets/image2015-5-26-17-3a7-3a18.png)
 
-1. Cliquez sur **Configuration**. Recherchez &quot;mise en page de la recherche&quot; et cliquez sur **Rechercher dans les mises en page** sous **Pistes**.
+1. Cliquez sur **Configuration**. Recherchez &quot;mise en page de la recherche&quot; et cliquez sur **Rechercher les mises en page** sous **Pistes**.
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
@@ -47,7 +47,7 @@ Vous pouvez ajouter des boutons Marketo à vos mises en page Salesforce. Voici u
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
-1. Ajoutez **Ajouter à Marketo Campaign**, **Envoyer un e-mail** Marketo et **Ajouter à surveiller les boutons de Liste** sur les boutons **sélectionnés et Enregistrer.******
+1. Ajoutez **Ajouter à Marketo Campaign**, **Envoyer le courriel du marketing** et **Ajouter à surveiller la Liste** aux boutons **Boutons sélectionnés** et **Enregistrer**.
 
    ![](assets/image2015-5-26-16-3a59-3a34.png)
 
