@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Ajouter des colonnes personnalisées à un rapport Personne {#add-custom-columns-to-a-person-report}
 
-Vous pouvez filtrer davantage les mesures dans les rapports [](http://docs.marketo.com/display/docs/basic+reporting) personnels en utilisant vos listes [](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) intelligentes comme colonnes personnalisées.
+Vous pouvez filtrer davantage les mesures dans vos rapports [personne](http://docs.marketo.com/display/docs/basic+reporting) en utilisant vos [listes dynamiques](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) comme colonnes personnalisées.
 
-1. Accédez à la zone Activités **** marketing (ou **Analytics**).
+1. Accédez à la zone **Activités marketing** (ou **Analytics**).
 
    ![](assets/ma-1.png)
 
-1. Sélectionnez votre rapport et cliquez sur l&#39;onglet **Configuration** .
+1. Sélectionnez votre rapport et cliquez sur l&#39;onglet **Configuration**.
 
    ![](assets/two-1.png)
 
-1. Faites glisser le curseur sur Colonnes **** personnalisées.
+1. Faites glisser le pointeur de la souris sur **Colonnes personnalisées**.
 
    ![](assets/three-1.png)
 
@@ -36,7 +36,7 @@ Vous pouvez filtrer davantage les mesures dans les rapports [](http://docs.marke
    >**Plongée profonde**
    >
    >
-   >Découvrez comment créer et configurer des listes intelligentes dans la plongée en profondeur [Smart Listes et Static Listes](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) .
+   >Découvrez comment créer et configurer des listes intelligentes dans la plongée profonde [Smart Listes and Static Listes](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
 1. Tu l&#39;as fait ! Cliquez sur l&#39;onglet **Rapport** pour afficher votre rapport avec les nouvelles colonnes.
 
@@ -47,12 +47,12 @@ Vous pouvez filtrer davantage les mesures dans les rapports [](http://docs.marke
    >**Articles connexes**
    >
    >
-   >Vous pouvez également [Ajouter des colonnes d&#39;opportunité à un rapport](add-opportunity-columns-to-a-lead-report.md)de piste.
+   >Vous pouvez également [Ajouter des colonnes d&#39;opportunité à un rapport de piste](add-opportunity-columns-to-a-lead-report.md).
 
    >[!NOTE]
    >
    >**Plongée profonde**
    >
    >
-   >Découvrez-en plus sur les nombreuses choses que vous pouvez faire avec les rapports dans la plongée [Basic Rapports](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   >Découvrez plus en détail les nombreuses choses que vous pouvez faire avec les rapports dans la plongée profonde [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
 
