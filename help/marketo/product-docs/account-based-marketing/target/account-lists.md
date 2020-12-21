@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Listes de compte - Documents marketing - Documentation du produit
 title: Listes de compte
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Outre les listes de compte, vous pouvez également créer des listes de compte d
 
 >[!NOTE]
 >
->Les listes de compte créées dans le marketing basé sur les comptes de Marketing Cloud sont automatiquement disponibles lors de la création de listes intelligentes et de campagnes Web dans [Personnalisation Web](http://docs.marketo.com/display/DOCS/RTP+Segments).
+>Les listes de compte créées dans le marketing basé sur les comptes de Marketing Cloud sont automatiquement disponibles lors de la création de listes intelligentes et de campagnes Web dans [Personnalisation Web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Créer une nouvelle Liste de compte {#create-a-new-account-list}
 
@@ -33,7 +33,7 @@ Outre les listes de compte, vous pouvez également créer des listes de compte d
 
    ![](assets/three-0.png)
 
-1. Après avoir créé votre liste de comptes, commencez [à y ajouter des comptes nommés](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List) !
+1. Après avoir créé votre liste de comptes, commencez [à y ajouter des comptes nommés](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md) !
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Outre les listes de compte, vous pouvez également créer des listes de compte d
 
 >[!NOTE]
 >
->Ces étapes s’appliquent uniquement aux listes de compte. *Les listes de compte* dynamique utilisent le nom de leurs Vues de compte CRM associées.
+>Ces étapes s’appliquent uniquement aux listes de compte. _Les listes de compte_ dynamique utilisent le nom de leurs Vues de compte CRM associées.
 
 1. Sélectionnez le compte à renommer, cliquez sur la liste déroulante **Actions de Liste de compte** et sélectionnez **Renommer la Liste de compte**.
 
@@ -91,10 +91,6 @@ Outre les listes de compte, vous pouvez également créer des listes de compte d
 
 >[!MORELIKETHIS]
 >
->* [Ajouter un compte nommé existant à une Liste de compte](named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [Informations sur la Liste de compte](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
-
->
-
-
+>* [Ajouter un compte nommé existant à une Liste de compte](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Informations sur la Liste de compte](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md)
 
