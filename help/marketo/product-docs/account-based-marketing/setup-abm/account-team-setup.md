@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: Configuration de l’équipe de compte - Documentation marketing - Documentation du produit
 title: Configuration de l’équipe de comptes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,6 @@ Une équipe de compte est un groupe de parties prenantes qui travaillent ensembl
 
    >[!NOTE]
    >
-   >**Explication**
+   >Lorsque plusieurs comptes CRM avec différents propriétaires de compte sont fusionnés dans un compte nommé, Marketo sélectionne un &quot;propriétaire de compte&quot; et ajoute d’autres propriétaires de compte en tant que &quot;co-propriétaires de compte&quot;.
    >
-   >    
-   >    
-   >    * Lorsque plusieurs comptes CRM avec différents propriétaires de compte sont fusionnés dans un compte nommé, Marketo sélectionne un &quot;propriétaire de compte&quot; et ajoute d’autres propriétaires de compte en tant que &quot;co-propriétaires de compte&quot;.
-   >    * Si un champ &quot;Rôle&quot; de gestion de la relation client est ultérieurement renommé ou supprimé, Marketo ABM arrête la synchronisation des valeurs mises à jour jusqu&#39;à ce que l&#39;utilisateur mette manuellement à jour la configuration dans ABM.
-
-
+   >Si un champ &quot;Rôle&quot; de gestion de la relation client est ultérieurement renommé ou supprimé, Marketo ABM arrête la synchronisation des valeurs mises à jour jusqu&#39;à ce que l&#39;utilisateur mette manuellement à jour la configuration dans ABM.
