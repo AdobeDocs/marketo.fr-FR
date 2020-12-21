@@ -3,7 +3,7 @@ unique-page-id: 17727818
 description: Utilisation de Personas - Documents marketing - Documentation du produit
 title: Utilisation de Personas
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -70,4 +70,3 @@ Vue de vos personnalités en visitant un compte nommé spécifique.
 1. Utilisez des filtres personnels dans une liste intelligente pour commercialiser un groupe spécifique de personnes.
 
 ![](assets/one-b.png)
-
