@@ -3,9 +3,9 @@ unique-page-id: 12979223
 description: Configurer Account Insight - Marketo Docs - Documentation sur les produits
 title: Configurer les informations de compte
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Voici comment configurer Account Insight.
 
 >[!PREREQUISITES]
 >
->Le score du compte ABM [doit être configuré](http://docs.marketo.com/display/DOCS/Account+Score) en premier.
+>Le score du compte ABM [doit être configuré](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md) en premier.
 
 1. Cliquez sur **Admin**.
 
@@ -37,9 +37,8 @@ Voici comment configurer Account Insight.
 
    >[!NOTE]
    >
-   >Si les paramètres [Note du compte](http://docs.marketo.com/display/DOCS/Account+Score) sont mis à jour à tout moment, la configuration sous Ventes ABM doit être mise à jour par un administrateur pour s&#39;assurer que les scores reflètent fidèlement les préférences de l&#39;utilisateur. L’utilisateur doit se déconnecter et se reconnecter pour connaître les modifications.
+   >Si les paramètres [Note du compte](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md) sont mis à jour à tout moment, la configuration sous Ventes ABM doit être mise à jour par un administrateur pour s&#39;assurer que les scores reflètent fidèlement les préférences de l&#39;utilisateur. L’utilisateur doit se déconnecter et se reconnecter pour connaître les modifications.
 
 1. Cliquez sur **Enregistrer**.
 
    ![](assets/five-4.png)
-
