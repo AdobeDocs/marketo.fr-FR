@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: Guide du marketing
 user-guide-description: Documentation du produit marketing
 translation-type: tm+mt
-source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
+source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -68,7 +68,7 @@ ht-degree: 0%
             + [Filtrage dans les comptes nommés](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
             + [Suppression d’un compte nommé](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
             + [Hiérarchies ABM](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [Création d’une hiérarchie](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
+            + [Création d’une hiérarchie](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
          + [Listes de compte](product-docs/account-based-marketing/target/account-lists.md)
          + [Création d’une Audience mise en correspondance sur LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
       + Interagir {#engage}
