@@ -3,9 +3,9 @@ unique-page-id: 11380789
 description: Dimension de compte nommée dans RCA - Documents marketing - Documentation du produit
 title: Dimension de compte nommée dans RCA
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Créez des rapports basés sur les recettes à l’aide de la dimension Compte n
 
 >[!NOTE]
 >
->**Définition**
->
->**Dimensions **- attributs (représentés par des points jaunes) qui donnent différentes vues des mesures.
+>**Dimensions**  - attributs (représentés par des points jaunes) qui donnent différentes vues des mesures.
 
 ![](assets/one-2.png)
 
@@ -35,8 +33,6 @@ Les rapports suivants ont accès à la dimension Compte nommé :
 * Analyse d&#39;adhésion programme
 
 >[!NOTE]
->
->**Exemple**
 >
 >Vous trouverez ci-dessous quelques exemples d’ABM de Marketo dans les analyses du cycle des recettes.
 
@@ -55,12 +51,3 @@ Efficacité et impact des programmes sur les résultats
 Couverture des pistes de qualité et de l&#39;engagement dans des comptes nommés
 
 ![](assets/five-2.png)
-
->[!MORELIKETHIS]
->
->* [Analyses du cycle de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
-
->
-
-
-
