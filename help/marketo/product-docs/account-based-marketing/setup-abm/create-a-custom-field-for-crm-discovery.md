@@ -3,7 +3,7 @@ unique-page-id: 12978647
 description: Créer un champ personnalisé pour la découverte CRM - Documents marketing - Documentation du produit
 title: Créer un champ personnalisé pour la découverte CRM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -46,4 +46,3 @@ Ajoutez des champs personnalisés aux comptes, mappez-les à votre gestion de la
    Une fois synchronisé, votre nouveau champ s’affiche à l’extrémité droite de votre grille de gestion de la relation client de Discover.
 
    ![](assets/eight.png)
-
