@@ -3,7 +3,7 @@ unique-page-id: 12615804
 description: Filtrage dans les comptes nommés - Documents marketing - Documentation du produit
 title: Filtrage dans les comptes nommés
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Le filtrage est un excellent moyen de réduire rapidement les données.
 
    >[!NOTE]
    >
-   >Il existe plusieurs combinaisons de paramètres de recherche. Dans cet exemple, nous recherchons : *Industrie = Banque, Pays = États-Unis, Nombre maximal d&#39;employés = 10000*.
+   >Il existe plusieurs combinaisons de paramètres de recherche. Dans cet exemple, nous recherchons : _Industrie = Banque, Pays = États-Unis, Nombre maximal d&#39;employés = 10000_.
 
 1. Cliquez sur la liste déroulante **Industrie** et sélectionnez **Banking**.
 
@@ -44,4 +44,3 @@ Le filtrage est un excellent moyen de réduire rapidement les données.
    >[!NOTE]
    >
    >Pour ajouter d’autres filtres à partir desquels choisir, cliquez sur **Ajouter le filtre** en bas à gauche du formulaire.
-
