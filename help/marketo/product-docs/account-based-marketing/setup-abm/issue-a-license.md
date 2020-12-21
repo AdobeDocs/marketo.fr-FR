@@ -3,9 +3,9 @@ unique-page-id: 11380771
 description: Délivrer une licence - Documents marketing - Documentation du produit
 title: Attribution d’une licence
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,4 @@ Vous devez configurer les utilisateurs avec une licence pour utiliser ABM. Voici
 
    >[!NOTE]
    >
-   >Pour supprimer une licence d’utilisateur, suivez l’étape 1, *un* cochez la case et cliquez sur **Enregistrer**.
-
+   >Pour supprimer une licence d’utilisateur, suivez l’étape 1, puis décochez la case et cliquez sur **Enregistrer**.
