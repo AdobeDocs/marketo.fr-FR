@@ -3,9 +3,9 @@ unique-page-id: 11380785
 description: Statistiques du compte nommé - Documentation du marketing - Documentation du produit
 title: Statistiques du compte nommé
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Le Tableau de bord Compte nommé fournit une vue de 360 degrés d’un compte de
 
 ## Tableau de bord {#dashboard}
 
-L&#39;tableau de bord agrégat des informations clés au niveau d&#39;un compte de toutes les personnes d&#39;un compte donné, évitant ainsi de devoir aller à chaque personne pour évaluer leur progression. Vous pouvez approfondir l&#39;analyse de l&#39;activité des courriels en utilisant [Email Insights](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing).
+L&#39;tableau de bord agrégat des informations clés au niveau d&#39;un compte de toutes les personnes d&#39;un compte donné, évitant ainsi de devoir aller à chaque personne pour évaluer leur progression. Vous pouvez approfondir l&#39;analyse de l&#39;activité des courriels en utilisant [Email Insights](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
@@ -52,13 +52,13 @@ L&#39;tableau de bord agrégat des informations clés au niveau d&#39;un compte 
 
 **Moments intéressants**
 
-Disponible pour les utilisateurs de [Marketing Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), consultez les moments intéressants cumulés au niveau du compte.
+Disponible pour les utilisateurs de Marketing Sales Insight, vous pouvez découvrir les moments intéressants cumulés au niveau du compte.
 
 ![](assets/int-mom.png)
 
 **Principales personnes**
 
-Ces personnes sont calculées en fonction de priorités basées sur la récence ou l’urgence des personnes de comptes nommés (comme [Meilleurs paris](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) dans Sales Insight), ou Scores définies par l’utilisateur. **La** priorité n’est disponible que pour les utilisateurs de Marketo Sales Insight.
+Ces personnes sont calculées en fonction de priorités basées sur la récence ou l’urgence des personnes de comptes nommés (comme [Meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight), ou Scores définies par l’utilisateur. **La** priorité n’est disponible que pour les utilisateurs de Marketo Sales Insight.
 
 ![](assets/top-ten.png)
 
@@ -112,7 +112,6 @@ Membres de l&#39;équipe du compte de vue, ajouter/supprimer des membres, et mê
 
 ## Indicateurs du PCI {#icp-indicators}
 
-Vue des indicateurs ICP que vous avez sélectionnés pour l&#39;exportation lorsque vous avez [affiné votre modèle](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning).
+Vue des indicateurs ICP que vous avez sélectionnés pour l&#39;exportation lorsque vous avez [affiné votre modèle](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)
-
