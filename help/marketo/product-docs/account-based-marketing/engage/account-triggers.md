@@ -3,7 +3,7 @@ unique-page-id: 11380734
 description: Déclencheurs de compte - Documents marketing - Documentation du produit
 title: Déclencheurs de compte
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -43,5 +43,4 @@ C&#39;est tout ! Après avoir terminé le reste de votre campagne dynamique, n�
 
 >[!MORELIKETHIS]
 >
->* [Filtres de compte](account-filters.md)
-
+>[Filtres de compte](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md)
