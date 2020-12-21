@@ -3,9 +3,9 @@ unique-page-id: 11380778
 description: Permissions - Documents marketing - Documentation du produit
 title: Autorisations
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Vous devez configurer des autorisations pour que vos utilisateurs puissent utili
 
    ![](assets/four-1.png)
 
-1. Pour sélectionner *toutes les* autorisations, cochez simplement la case **Accès au marketing basé sur le compte**.
+1. Pour sélectionner _toutes les_ autorisations, cochez simplement la case **Accès au marketing basé sur le compte**.
 
    ![](assets/five-1.png)
 
@@ -45,8 +45,8 @@ Vous devez configurer des autorisations pour que vos utilisateurs puissent utili
 
 1. Cliquez sur **+** pour ouvrir le menu Access Admin. Cochez la case **Accéder à l&#39;administrateur ABM**.
 
-   ![](assets/six-1.png)\
-   Votre nouveau rôle ABM est maintenant prêt à être [affecté à un utilisateur](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser) !
+   ![](assets/six-1.png)
+
+   Votre nouveau rôle ABM est maintenant prêt à être [affecté à un utilisateur](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user) !
 
    ![](assets/seven.png)
-
