@@ -3,9 +3,9 @@ unique-page-id: 11380774
 description: Note de compte - Documentation sur le marketing - Documentation du produit
 title: Note de compte
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ Dans le monde complexe des processus d&#39;achat B2B, il est rare qu&#39;une seu
 
 >[!NOTE]
 >
->**Explication**
->
->Pour calculer des scores de compte, vous devez d’abord créer des scores de piste. Marketo ABM : les agrégats dirigent automatiquement les scores vers les scores du compte. À titre d’exemple, nous prendrons deux des exemples ci-dessus (*Compte **Score d’intérêt du produit* et *Score d’engagement Web du compte*).
+>Pour calculer des scores de compte, vous devez d’abord créer des scores de piste. Marketo ABM : les agrégats dirigent automatiquement les scores vers les scores du compte. À titre d’exemple, nous allons prendre deux des exemples ci-dessus (_Note d’intérêt du produit du compte_ et _Note d’engagement Web du compte_).
 >
 >Tout d&#39;abord, créez des champs de score de piste qui capturent les détails pertinents de chaque piste d&#39;un compte de cible.\
 >Attribuez ensuite ces scores de piste à leurs scores de compte respectifs :\
@@ -61,17 +59,16 @@ Une fois que vous avez configuré le score de piste, procédez comme suit.
 
    >[!NOTE]
    >
-   >Vous pouvez choisir jusqu’à **cinq **champs pour calculer la note du compte.
+   >Vous pouvez sélectionner jusqu’à **cinq champs** pour calculer la note du compte.
 
 1. Saisissez le nom de la note de compte, cliquez sur la liste déroulante **Sélectionner une note de personne** et sélectionnez la note correspondante.
 
    ![](assets/four.png)
 
-1. Cliquez sur **+Ajouter **pour ajouter d&#39;autres scores.
+1. Cliquez sur **+Ajouter** pour ajouter d’autres scores.
 
    ![](assets/five.png)
 
 1. Ajoutez tous les scores souhaités. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/six.png)
-
