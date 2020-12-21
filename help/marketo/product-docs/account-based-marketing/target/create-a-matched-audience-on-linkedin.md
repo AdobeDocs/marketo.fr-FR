@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: Création d’une Audience mise en correspondance sur LinkedIn - Marketo Docs - Documentation du produit
 title: Création d’une Audience mise en correspondance sur LinkedIn
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Créez des audiences correspondantes à partir de vos Listes de compte ABM pour 
 
 >[!PREREQUISITES]
 >
->[Ajouter les Audiences mises en correspondance LinkedIn en tant que service LaunchPoint](http://docs.marketo.com/x/I4Fy)
+>[Ajouter les Audiences mises en correspondance LinkedIn en tant que service LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. Dans ABM, cliquez sur l&#39;onglet **Listes de compte**.
 
@@ -49,13 +49,6 @@ Créez des audiences correspondantes à partir de vos Listes de compte ABM pour 
 
    Et c&#39;est tout. Votre audience a été transmise à LinkedIn.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->* [Utilisation d’une Liste Marketo ou d’une Liste dynamique en tant que segment d’Audience LinkedIn](http://docs.marketo.com/x/NIFy)
-
->
-
-
-
+>[Utilisation d’une Liste Marketo ou d’une Liste dynamique en tant que segment d’Audience LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
