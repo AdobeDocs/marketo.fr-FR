@@ -3,7 +3,7 @@ unique-page-id: 12615802
 description: Supprimer un compte nommé - Documents marketing - Documentation du produit
 title: Suppression d’un compte nommé
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Suivez ces étapes rapides pour supprimer un compte nommé.
    >[!NOTE]
    >
    >Les comptes qui ont été synchronisés avec votre gestion de la relation client ne peuvent pas être supprimés dans ABM. Si l’option de suppression n’est pas disponible ou si vous recevez un message &quot;Ces comptes ne peuvent pas être supprimés car un ou plusieurs comptes CRM sont sélectionnés&quot;, ils doivent être supprimés directement dans la gestion de la relation client.
-
