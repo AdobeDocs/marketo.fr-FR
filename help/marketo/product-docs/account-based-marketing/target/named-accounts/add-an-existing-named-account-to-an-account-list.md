@@ -3,7 +3,7 @@ unique-page-id: 12615798
 description: Ajouter un compte nommé existant à une Liste de compte - Documents marketing - Documentation du produit
 title: Ajouter un compte nommé existant à une Liste de compte
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -35,9 +35,4 @@ Il est simple d’Ajouter un compte nommé à une liste de compte.
 
 >[!MORELIKETHIS]
 >
->* [Créer un compte nommé](create-a-named-account.md)
-
->
-
-
-
+>[Créer un compte nommé](/help/marketo/product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
