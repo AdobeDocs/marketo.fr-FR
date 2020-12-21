@@ -3,7 +3,7 @@ unique-page-id: 11384438
 description: Configuration des rapports ABM - Documents marketing - Documentation du produit
 title: Configuration des rapports ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -78,4 +78,3 @@ Chaque rapport comporte l’option de opt-out. Pour ce faire, il vous suffit de 
 1. Sélectionnez l’utilisateur que vous souhaitez de nouveau recevoir des courriers électroniques et cliquez sur **Reprendre**.
 
    ![](assets/eleven.png)
-
