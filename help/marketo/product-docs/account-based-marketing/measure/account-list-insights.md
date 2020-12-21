@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: Informations sur la Liste de compte - Documentation sur le marketing - Documentation sur le produit
 title: Informations sur la Liste de compte
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -57,4 +57,3 @@ Cliquez sur l&#39;onglet **Comptes nommés** pour identifier les comptes nommés
 Cliquez sur l’onglet **Utilisé par** pour identifier les actifs référençant cette Liste de compte.
 
 ![](assets/four-2.png)
-
