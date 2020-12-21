@@ -3,7 +3,7 @@ unique-page-id: 11381156
 description: Correspondance de compte - Documents marketing - Documentation du produit
 title: Correspondance de piste avec compte
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -25,7 +25,7 @@ La mise en correspondance de pistes vers comptes du marketing suit un processus 
 
 * Domaine de courriel (acme.com, par exemple)
 * Nom de société déduit de l&#39;adresse IP
-* Nom de la société : il peut s&#39;agir du nom du compte CRM ou de l&#39;attribut du nom de la société de piste, par exemple, provenant du remplissage du formulaire.
+* Nom de la société : il peut s&#39;agir du nom du compte CRM ou de l&#39;attribut du nom de la société de piste (par exemple, provenant du remplissage du formulaire)
 
 **Étape 2 -** Nous normalisons les noms de société que nous trouvons en fonction de divers attributs de piste (par exemple, Acme Inc. et Acme Corp sont automatiquement normalisés en Acme). Cette étape permet de garantir une représentation unique du compte nommé dans Marketo et d&#39;afficher toutes les pistes dans un seul compte nommé.
 
@@ -33,9 +33,9 @@ La mise en correspondance de pistes vers comptes du marketing suit un processus 
 
 * Les pistes avec correspondance faible s&#39;affichent sur les comptes nommés, qui peuvent ensuite être résolues manuellement.
 
-**Étape 4 -** Nous présentons une liste de sociétés proposées avec des correspondances fortes et faibles. Lorsqu&#39;un compte nommé est créé en fonction de l&#39;une des sociétés proposées, nous créons des règles de correspondance pour associer automatiquement de nouvelles pistes (par exemple, une piste remplie dans un formulaire) vers les comptes nommés de droite. Ainsi, vous pouvez vous inquiéter moins de la correspondance des pistes que de l&#39;obtention de recettes !
+**Étape 4 -** Nous présentons une liste de sociétés proposées avec des correspondances fortes et faibles. Lorsqu&#39;un compte nommé est créé en fonction de l&#39;une des sociétés proposées, nous créons des règles de correspondance pour associer automatiquement de nouvelles pistes (par exemple, des pistes renseignées dans un formulaire) vers les comptes nommés de droite. Ainsi, vous pouvez vous inquiéter moins de la correspondance des pistes que de l&#39;obtention de recettes !
 
-La mise en correspondance des pistes vers les comptes étant une fonction intégrée du marketing basé sur les comptes marketing, la mise en correspondance des pistes vers les comptes se produit en temps quasi réel (par exemple, au moment où une piste remplit un formulaire marketing, nous associons cette piste au bon compte nommé). Ce événement peut être utilisé pour déclencher des alertes et avertir les propriétaires des comptes des nouvelles pistes provenant de leurs comptes nommés.
+La mise en correspondance des pistes vers les comptes étant une fonction intégrée du marketing basé sur les comptes de marketing, la mise en correspondance des pistes vers les comptes se produit en temps quasi réel (par exemple, dès qu&#39;une piste remplit un formulaire de marketing, nous associons cette piste au bon compte nommé). Ce événement peut être utilisé pour déclencher des alertes et avertir les propriétaires des comptes des nouvelles pistes provenant de leurs comptes nommés.
 
 >[!NOTE]
 >
@@ -43,5 +43,4 @@ La mise en correspondance des pistes vers les comptes étant une fonction intég
 
 >[!MORELIKETHIS]
 >
->* [Discover Comptes](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-
+>[Discover Comptes](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
