@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: Présentation du module externe Account Insight - Documentation sur le marketing - Documentation du produit
 title: Présentation du module externe Account Insight
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,13 @@ ht-degree: 0%
 
 Account Insight est un module complémentaire Chrome qui permet de mettre en oeuvre des fonctions ABM exploitables et d&#39;analyser les comptes auprès de vos équipes commerciales, ce qui leur permet d&#39;engager des comptes plus efficacement.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Account Insight est inclus pour tous les clients qui ont à la fois ABM et Marketo Sales Insight. Pour les clients qui ne disposent que d’ABM, Account Insight est disponible en tant que module complémentaire acheté. Chaque client est limité à 250 sièges Account Insight. Veuillez contacter votre représentant commercial pour plus de détails. Il n&#39;est pas disponible pour les clients qui ne disposent pas d&#39;ABM.
 
 >[!CAUTION]
 >
->Le plug-in Account Insight ne fonctionnera pas dans les abonnements où [SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (authentification unique) est activé.
+>Le plug-in Account Insight ne fonctionnera pas dans les abonnements où [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (authentification unique) est activé.
 >
 >Le contexte CRM fonctionne pour Salesforce lors du lancement du module externe à partir d’un compte, d’une piste ou d’un contact. Le contexte CRM ne fonctionne pas pour Dynamics lors du lancement du module externe à partir d&#39;un compte, d&#39;une piste ou d&#39;un contact. Pour les utilisateurs de Dynamics, nous vous recommandons d’utiliser le module externe Account Insight.
 
@@ -71,7 +69,8 @@ Le flux d’activité montre les activités récentes, remontant à sept jours.
 
 ![](assets/af1.png)
 
-Cliquez sur la liste déroulante **Filtre** pour filtrer selon différents types d’activité.\
+Cliquez sur la liste déroulante **Filtre** pour filtrer selon différents types d’activité.
+
 ![](assets/af2.png)
 
 Plusieurs éléments peuvent être cliqués. Cliquez sur le compte nommé pour en afficher les détails. Cliquez sur le nom de l’utilisateur pour afficher son activité. Cliquez sur Plus d&#39;Activités pour voir, eh bien, plus d&#39;activités.
@@ -82,9 +81,4 @@ Plutôt cool !
 
 >[!MORELIKETHIS]
 >
->* [Configurer les informations de compte](set-up-account-insight.md)
-
->
-
-
-
+>[Configurer les informations de compte](/help/marketo/product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
