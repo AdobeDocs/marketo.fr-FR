@@ -3,9 +3,9 @@ unique-page-id: 17432598
 description: Configuration du profilage de compte - Documents marketing - Documentation du produit
 title: Configuration du profilage de compte
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,5 +45,4 @@ Suivez ces étapes pour début à l’aide du profilage de compte.
 
    >[!TIP]
    >
-   >Maintenant que votre modèle est créé, découvrez comment l&#39;ajuster dans l&#39;[Aperçu du profilage de compte](http://docs.marketo.com/x/NIDv).
-
+   >Maintenant que votre modèle est créé, [apprenez à le régler](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md).
