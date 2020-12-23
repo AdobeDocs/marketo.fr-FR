@@ -3,9 +3,9 @@ unique-page-id: 2949208
 description: SEO - Filtrer les résultats des mots-clés - Documents marketing - Documentation du produit
 title: SEO - Résultats du filtre de mots-clés
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Filtrer les résultats des mots-clés {#seo-filter-keyword-results}
 
-Vous pouvez avoir beaucoup de [mots-clés](seo-understanding-keywords.md). Vous pouvez les filtrer de différentes manières :
+Vous pouvez avoir beaucoup de [mots-clés](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Vous pouvez les filtrer de différentes manières :
 
 ## Filtrer par liste {#filter-by-list}
 
@@ -27,7 +27,7 @@ Vous pouvez avoir beaucoup de [mots-clés](seo-understanding-keywords.md). Vous 
 
    >[!NOTE]
    >
-   >Si vous ne voyez aucune liste, [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [apprenez comment créer une liste de mots-clés](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >Si vous ne voyez aucune liste, [apprenez comment créer une liste de mots-clés](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 Doux ! Vous ne verrez plus que les mots-clés de cette liste.
 
@@ -37,7 +37,7 @@ Doux ! Vous ne verrez plus que les mots-clés de cette liste.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   Les carrés orange définissent vos limites supérieure (gauche) et inférieure (droite). Le filtre fonctionne sur le [classement SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) du mot-clé.
+   Les carrés orange définissent vos limites supérieure (gauche) et inférieure (droite). Le filtre fonctionne sur le [classement SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) du mot-clé.
 
 1. Faites glisser les carrés oranges vers la gauche/la droite pour filtrer les résultats.
 
@@ -54,6 +54,3 @@ Vous pouvez également trouver les mots-clés que vous recherchez en utilisant l
 1. Entrez votre mot-clé dans le champ de recherche.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)
-
-   Félicitations ! Vous êtes maintenant un mot-clé filtrant le samouraï guerrier !
-
