@@ -3,9 +3,9 @@ unique-page-id: 2949253
 description: SEO - Supprimer/Supprimer une URL de lien entrant - Documents marketing - Documentation du produit
 title: SEO - Supprimer une URL de lien entrant
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,9 @@ Parfois, vous voulez supprimer des liens entrants. Voici comment :
 1. Passez la souris sur l’URL du lien entrant que vous souhaitez supprimer.
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
-Cliquez sur SUPPRIMER.
+
+1. Cliquez sur **Supprimer**.
+
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 
-   Levez-vous ! Vous avez maintenant supprimé ce lien entrant.
-
+Vous avez maintenant supprimé ce lien entrant.
