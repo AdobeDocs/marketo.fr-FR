@@ -3,9 +3,9 @@ unique-page-id: 2949204
 description: SEO - Mots-clés d'Ajoute - Docs marketing - Documentation du produit
 title: SEO - Mots-clés d'Ajoute
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Les mots-clés sont des expressions que les visiteurs saisissent dans les moteur
 
 >[!NOTE]
 >
->Si vous avez beaucoup de mots-clés, vous pouvez [les importer avec un fichier CSV](seo-importing-keywords-with-a-csv.md).
+>Si vous avez beaucoup de mots-clés, vous pouvez [les importer avec un fichier CSV](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
 
 1. Accédez à la section **Mots-clés**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Saisissez les mots-clés à cible et cliquez sur **SAVE**.
+1. Saisissez les mots-clés à cible et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
@@ -33,13 +33,8 @@ Les mots-clés sont des expressions que les visiteurs saisissent dans les moteur
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Présentation des mots-clés (Vue de résumé)](seo-understanding-keywords.md)
-
+   >[Présentation des mots-clés (Vue de résumé)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
 Bon travail ! Vous devriez maintenant voir vos nouveaux ajouts à la liste de mots-clés.
