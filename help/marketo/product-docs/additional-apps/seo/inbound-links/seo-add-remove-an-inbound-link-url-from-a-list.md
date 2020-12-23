@@ -3,9 +3,9 @@ unique-page-id: 2949251
 description: SEO - Ajouter/supprimer une URL de lien d'entrée d'une Liste - Documents marketing - Documentation du produit
 title: SEO - Ajouter/supprimer une URL de lien entrant d’une Liste
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Vous pouvez organiser les URL des liens entrants vers le contenu de votre coeur.
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Passez la souris sur l’URL du lien entrant que vous souhaitez classer par catégorie. Cliquez sur Ajouter/Supprimer de la liste.
+1. Passez la souris sur l’URL du lien entrant que vous souhaitez classer par catégorie. Cliquez sur **Ajouter/Supprimer de la Liste**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -35,15 +35,17 @@ Vous pouvez organiser les URL des liens entrants vers le contenu de votre coeur.
 
 ## Supprimer une URL de lien entrant d&#39;une Liste {#remove-an-inbound-link-url-from-a-list}
 
-1. Il peut arriver que vous souhaitiez supprimer une URL de lien d’entrée d’une liste.
+Il peut arriver que vous souhaitiez supprimer une URL de lien d’entrée d’une liste.
+
+1. Cliquez sur **Liens entrants**.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Cliquez sur Filtrer par liste dans la liste déroulante. Cliquez sur la liste à nettoyer.
+1. Cliquez sur la liste déroulante **Filtrer par liste**. Cliquez sur la liste à nettoyer.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Passez la souris sur l’URL du lien entrant que vous souhaitez supprimer. Cliquez sur Ajouter/Supprimer de la liste.
+1. Passez la souris sur l’URL du lien entrant que vous souhaitez supprimer. Cliquez sur **Ajouter/Supprimer de la Liste**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 
