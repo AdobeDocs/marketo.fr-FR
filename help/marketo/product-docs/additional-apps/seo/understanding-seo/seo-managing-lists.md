@@ -3,7 +3,7 @@ unique-page-id: 2949232
 description: SEO - Gestion des Listes - Docs marketing - Documentation du produit
 title: SEO - Gestion des Listes
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez ajouter des éléments aux listes lorsque vous ajoutez des mots-clés, des pages, des problèmes de page ou des liens entrants. Les listes vous aident à rester organisées et vous permettent de filtrer les rapports pour n’afficher que les données de cette liste. Voici comment les fabriquer :
 
-1. Cliquez sur **AJOUTER MOTS-CLÉS**.
+1. Cliquez sur **Ajouter les mots-clés**.
 
    >[!NOTE]
    >
@@ -29,11 +29,10 @@ Vous pouvez ajouter des éléments aux listes lorsque vous ajoutez des mots-clé
 
    >[!TIP]
    >
-   >Vous pouvez créer une liste dans la liste déroulante. Entrez un titre, appuyez sur la touche Retour.  ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
+   >Vous pouvez créer une liste dans la liste déroulante. Entrez un titre, appuyez sur la touche Retour.
 
-1. Cliquez sur **SAVE**.
+1. Cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
    Heureuse organisation !
-
