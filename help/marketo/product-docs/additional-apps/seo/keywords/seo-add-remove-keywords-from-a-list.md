@@ -3,9 +3,9 @@ unique-page-id: 2949678
 description: Optimisation du référencement - Ajouter/supprimer des mots-clés d'une Liste - Docs marketing - Documentation du produit
 title: Optimisation du référencement - Ajouter/supprimer des mots-clés d'une Liste
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Vous pouvez garder tous vos mots-clés bien organisés en utilisant des listes. 
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Passez la souris sur le mot-clé à ajouter à une liste. Cliquez sur **AJOUTER/SUPPRIMER de la LISTE**.
+1. Passez la souris sur le mot-clé à ajouter à une liste. Cliquez sur **Ajouter/Supprimer de la liste**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -35,7 +35,7 @@ Vous pouvez garder tous vos mots-clés bien organisés en utilisant des listes. 
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
-Woohoo ! Sélectionnez votre liste pour afficher les nouveaux mots-clés.
+Ouah ! Sélectionnez votre liste pour afficher les nouveaux mots-clés.
 
 ## Supprimer le mot-clé de la Liste {#remove-keyword-from-list}
 
@@ -45,7 +45,7 @@ Vous pouvez également supprimer des mots-clés d&#39;une liste.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Passez la souris sur le mot-clé à supprimer d’une liste. Cliquez sur **AJOUTER/SUPPRIMER de la LISTE**.
+1. Passez la souris sur le mot-clé à supprimer d’une liste. Cliquez sur **Ajouter/Supprimer de la liste**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -53,15 +53,12 @@ Vous pouvez également supprimer des mots-clés d&#39;une liste.
 
    >[!NOTE]
    >
-   >Toutes les listes auxquelles le mot-clé appartient actuellement auront une coche. Une fois retirée de la liste, la vérification disparaît. Magique !
+   >Toutes les listes auxquelles le mot-clé appartient actuellement auront une coche. Une fois retirée de la liste, la vérification disparaît.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
    Parfait, le mot-clé ne figure plus sur cette liste. Actualisez votre page pour mettre à jour l’affichage.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >    
-   >* [Présentation des mots-clés (Vue de résumé)](seo-understanding-keywords.md)
-
+   >[Présentation des mots-clés (Vue de résumé)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
