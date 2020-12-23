@@ -3,7 +3,7 @@ unique-page-id: 2949182
 description: SEO - Présentation des mots-clés - Documents marketing - Documentation du produit
 title: SEO - Comprendre les mots-clés
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les mots-clés constituent la colonne vertébrale de votre stratégie d’optimisation du référencement. Votre objectif est d&#39;être sur la première page, aussi près que possible du numéro 1 pour les mots-clés pertinents pour votre entreprise.
 
-La section Mots-clés vous montrera à quel point votre site réussit à atteindre cet objectif et comment vous pouvez empiler jusqu&#39;à [votre concurrence.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+La section Mots-clés vous montrera à quel point votre site réussit à atteindre cet objectif et comment vous pouvez empiler jusqu&#39;à [votre concurrence](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## Mots-clés - Vue de résumé {#keywords-summary-view}
 
@@ -62,10 +62,6 @@ Super ! Maintenant que vous connaissez la section des mots-clés, découvrons le
 
 >[!MORELIKETHIS]
 >
->* [Compréhension des pages](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [Présentation des liens entrants](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-
->
-
-
+>* [Compréhension des pages](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [Présentation des liens entrants](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
