@@ -3,7 +3,7 @@ unique-page-id: 2949180
 description: Présentation du Tableau de bord d’optimisation du référencement - Recommendations - Docs Marketo - Documentation du produit
 title: Comprendre le Tableau de bord SEO-SEO Recommendations
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Vous pouvez également découvrir comment améliorer l’utilisation de la secti
 
 ## Problèmes d&#39;optimisation des pages supérieures {#top-page-optimization-issues}
 
-Cela vous montrera cinq méthodes à fort impact pour optimiser votre site immédiatement en début ! Il vous suffit de cliquer sur l&#39;un des liens pour vue de la [liste détaillée de la page](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
+Cela vous montrera cinq méthodes à fort impact pour optimiser votre site immédiatement en début ! Il vous suffit de cliquer sur l&#39;un des liens pour vue de la [liste détaillée de la page](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
 
 >[!TIP]
 >
@@ -43,5 +43,4 @@ Tout de suite ! Plongez plus profondément ici.
 
 >[!MORELIKETHIS]
 >
->* [Zoom avant sur les détails de la page](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-
+>[Zoom avant sur les détails de la page](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
