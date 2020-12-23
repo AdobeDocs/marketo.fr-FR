@@ -3,9 +3,9 @@ unique-page-id: 2949192
 description: SEO - Concurrents d'Ajoute - Docs marketing - Documentation du produit
 title: SEO - Concurrents d’Ajoute
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Les concurrents d&#39;Ajoute vous permettent de suivre leurs performances pour l
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Cliquez sur **AJOUTER le CONCURRENT**.
+1. Cliquez sur **Ajouter le Concurrent**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
@@ -41,13 +41,8 @@ Les concurrents d&#39;Ajoute vous permettent de suivre leurs performances pour l
 
    Félicitations ! Vous êtes un pas de plus vers l&#39;écrasement total.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Mots-clés de Ajoute](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-   >    * [Présentation des mots-clés (Vue de Concurrent)](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
+   >* [Mots-clés de Ajoute](/help/marketo//product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+   >* [Présentation des mots-clés (Vue de Concurrent)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
