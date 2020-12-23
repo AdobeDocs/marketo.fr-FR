@@ -3,9 +3,9 @@ unique-page-id: 2949216
 description: SEO - Pages Ajoutées - Documents marketing - Documentation du produit
 title: Optimisation du référencement - Pages Ajoutées
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -19,20 +19,20 @@ Vous avez des pages ! L’optimisation du référencement du marketing analysera
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Cliquez sur **AJOUTER les PAGES**.
+1. Cliquez sur **Ajouter des pages**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Entrez les URL à ajouter. Cliquez sur **AJOUTER**.
+1. Entrez les URL à ajouter. Cliquez sur **Ajouter**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
    >[!TIP]
    >
-   >Saviez-vous que vous pouvez [ajouter votre page à une liste nouvelle ou existante](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ? Regardez !
+   >Saviez-vous que vous pouvez [ajouter votre page à une liste nouvelle ou existante](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ? Regardez !
 
    Le chargement de vos données de page peut prendre un certain temps. Attendez le message d’alerte vert et actualisez votre page pour mettre à jour l’affichage.
+
    ![](assets/image2014-9-18-12-3a57-3a10.png)
 
-   Facile citron vert ! Vous pouvez maintenant effectuer le suivi des performances de cette page dans la recherche.
-
+   Vous pouvez maintenant effectuer le suivi des performances de cette page dans la recherche.
