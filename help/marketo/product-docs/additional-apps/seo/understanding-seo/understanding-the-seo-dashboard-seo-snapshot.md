@@ -3,7 +3,7 @@ unique-page-id: 2949178
 description: Présentation du Tableau de bord d'optimisation du référencement - Instantané d'optimisation du référencement - Documentation du marketing - Documentation du produit
 title: Présentation du Tableau de bord d'optimisation du référencement - Instantané d'optimisation du référencement
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Utilisez le tableau de bord pour obtenir une vue de haut niveau sur la façon dont le classement des mots-clés est en tendance et sur la façon dont votre site est optimisé pour l’optimisation du référencement.
 
-Pour savoir sur quoi vous concentrer pour améliorer vos efforts d’optimisation du référencement, utilisez la section [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) de ce tableau de bord.
+Pour savoir sur quoi vous concentrer pour améliorer vos efforts d’optimisation du référencement, utilisez la section [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) de ce tableau de bord.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## Résumé du classement des mots-clés {#keyword-rank-summary}
 
-Cette section vous montre comment votre site est classé pour les [mots-clés que vous ciblez](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Cette section vous montre comment votre site est classé pour les [mots-clés que vous ciblez](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ Cette section vous montre comment votre site est classé pour les [mots-clés qu
 
 >[!TIP]
 >
->Vous pouvez également vue comment se comporte [une liste spécifique](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de mots-clés. Cliquez sur la liste déroulante et sélectionnez celle qui vous intéresse.
+>Vous pouvez également vue comment se comporte [une liste spécifique](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de mots-clés. Cliquez sur la liste déroulante et sélectionnez celle qui vous intéresse.
 
 Continue ! Continuons à avancer.
 
@@ -63,9 +63,4 @@ Facile, non ? Maintenant, jetons un coup d&#39;oeil à la section Recommendation
 
 >[!MORELIKETHIS]
 >
->* [Comprendre le Tableau de bord : SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
-
+>[Comprendre le Tableau de bord : SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
