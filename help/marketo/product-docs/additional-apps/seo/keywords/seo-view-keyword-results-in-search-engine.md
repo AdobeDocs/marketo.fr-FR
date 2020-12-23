@@ -3,7 +3,7 @@ unique-page-id: 2949238
 description: SEO - Résultats des mots-clés de Vue dans le moteur de recherche - Docs marketing - Documentation du produit
 title: SEO - Résultats des mots-clés de Vue dans le moteur de recherche
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Si vous souhaitez voir à quoi ressemble votre contenu dans un moteur de recherc
 1. Super ! Vous devriez maintenant voir les résultats de la recherche de votre mot-clé dans une nouvelle fenêtre.
 
    ![](assets/image2014-9-18-13-3a34-3a24.png)
-
