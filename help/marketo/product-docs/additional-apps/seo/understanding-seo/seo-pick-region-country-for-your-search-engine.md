@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO - Sélectionner la région/le pays pour votre moteur de recherche - Documents marketing - Documentation du produit
 title: SEO - Sélectionner la région/le pays pour votre moteur de recherche
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Les administrateurs d’optimisation du référencement peuvent sélectionner la
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à la section Admin.
+1. Accédez à la section **Admin**.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Cliquez sur l&#39;onglet Moteurs de recherche.
+1. Cliquez sur l&#39;onglet **Moteurs de recherche**.
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. Sélectionnez le pays/la ville pour lequel vous souhaitez optimiser et cliquez sur ENREGISTRER.
+1. Sélectionnez le pays/la ville pour lequel vous souhaitez effectuer l’optimisation et cliquez sur **Enregistrer**.
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ Excellent travail. Vous verrez maintenant les classements de mots-clés pour le 
 
 >[!MORELIKETHIS]
 >
->* [Comprendre le Tableau de bord : Instantané SEO](understanding-the-seo-dashboard-seo-snapshot.md)
->* [Comprendre le Tableau de bord : SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
+>* [Comprendre le Tableau de bord : Instantané SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
+>* [Comprendre le Tableau de bord : SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
 
