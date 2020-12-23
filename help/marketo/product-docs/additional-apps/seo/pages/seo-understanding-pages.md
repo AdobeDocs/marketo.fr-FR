@@ -3,9 +3,9 @@ unique-page-id: 2949184
 description: SEO - Comprendre les pages - Documents marketing - Documentation du produit
 title: SEO - Comprendre les pages
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 La note d’optimisation de la page est un classement global de l’optimisation de votre page pour la recherche, sur une échelle de 1 à 100. Elle est basée sur des dizaines de bonnes pratiques d’optimisation du référencement.
 
-* ~ 00 - 35 = Non optimisé
-* ~ 35 - 70 = Sur la bonne voie
-* ~ 70 - 100 = Faire grand !
+* 0 - 35 = Non optimisé
+* 35 - 70 = Sur la bonne voie
+* 70 - 100 = Faire grand !
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ L&#39;onglet Pages vous montre comment les pages individuelles de votre site son
 | Titre | Titre et URL de toutes les pages de votre domaine. Vérifiez votre domaine. |
 | Note d’optimisation | La sauce secrète utilisée pour vous montrer à quel point votre page est optimisée pour la recherche sur une échelle de 1 à 100. |
 | Liens | Nombre de domaines différents avec au moins 1 lien d’entrée vers votre site. |
-| Mots-clés de cible | Mots-clés pour lesquels vous décidez d&#39;optimiser chaque page. [Cela nécessite votre participation](seo-using-the-page-detail-drill-down.md). |
+| Mots-clés de cible | Mots-clés pour lesquels vous décidez d&#39;optimiser chaque page. [Cela nécessite votre participation](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
 ## Onglet Problèmes {#issues-tab}
 
@@ -53,7 +53,4 @@ L&#39;onglet Problèmes identifie les améliorations que vous pouvez apporter po
 | Catégorie | Type de problème signalé. |
 | Statut | La tâche est-elle terminée ou est-elle toujours ouverte ? Une fois que vous et votre webmestre avez corrigé le problème sur votre site, l’état doit être résolu (vérification verte). |
 
-C&#39;est stupéfiant, maintenant que vous connaissez les bases des pages, consultez l&#39;article Détail de la page pour découvrir d&#39;autres choses intéressantes que vous pouvez faire.
-
-* [Utilisation de la liste déroulante des détails de la page](seo-using-the-page-detail-drill-down.md)
-
+C&#39;est stupéfiant, maintenant que vous connaissez les bases des pages, consultez l&#39;[article Détail de la page](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) pour en savoir plus sur les choses que vous pouvez faire.
