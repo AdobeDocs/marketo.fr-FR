@@ -3,7 +3,7 @@ unique-page-id: 2949212
 description: SEO - Optimiser des pages spécifiques avec des mots-clés ciblés - Documents marketing - Documentation du produit
 title: Optimiser les pages spécifiques avec les mots-clés ciblés
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Certains mots-clés fonctionnent très bien avec certaines pages. C&#39;est ains
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Sélectionnez le mot-clé pour lequel vous essayez d&#39;optimiser votre page. Cliquez sur **METTRE À JOUR**.
+1. Sélectionnez le mot-clé pour lequel vous essayez d&#39;optimiser votre page. Cliquez sur **Mettre à jour**.
 
    >[!TIP]
    >
@@ -32,4 +32,3 @@ Certains mots-clés fonctionnent très bien avec certaines pages. C&#39;est ains
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
    Tout de suite ! Effectuez cette opération pour autant de pages et de mots-clés que possible.
-
