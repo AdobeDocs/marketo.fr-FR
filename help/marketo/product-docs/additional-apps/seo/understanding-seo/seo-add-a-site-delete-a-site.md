@@ -3,9 +3,9 @@ unique-page-id: 2949194
 description: SEO - Ajouter un site/Supprimer un site - Docs marketing - Documentation du produit
 title: 'Optimisation du référencement : Ajouter un site/Supprimer un site'
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Pour que Marketing puisse extraire des données (liens entrants et recommandations) pertinentes pour les pages de votre site, vous devez définir l’URL du site ici.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
@@ -39,7 +37,7 @@ Pour que Marketing puisse extraire des données (liens entrants et recommandatio
 
    >[!TIP]
    >
-   >Vous pouvez également ajouter une ** ****URL du blog** si vous en avez une.
+   >Vous pouvez également ajouter une **URL de blog** si vous en avez une.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -62,10 +60,11 @@ Si vous effectuez le suivi de plusieurs sites, vous pouvez également supprimer 
 1. Cliquez sur **Supprimer**.
 
    ![](assets/seven.png)
-Confirmez que vous souhaitez supprimer.
+
+1. Confirmez que vous souhaitez **Supprimer**.
+
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >Vous ne pouvez supprimer un site que si vous en avez plusieurs. Si vous n&#39;en avez qu&#39;un, vous pouvez effectuer une réinitialisation en sélectionnant le site et en cliquant sur **Réinitialiser**. La réinitialisation d&#39;un site *supprime toutes les données du site* et recrée le site.
-
+   >Vous ne pouvez supprimer un site que si vous en avez plusieurs. Si vous n&#39;en avez qu&#39;un, vous pouvez effectuer une réinitialisation en sélectionnant le site et en cliquant sur **Réinitialiser**. La réinitialisation d&#39;un site _supprime toutes les données du site_ et recrée le site.
