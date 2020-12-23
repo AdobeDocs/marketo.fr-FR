@@ -3,9 +3,9 @@ unique-page-id: 2949266
 description: Optimisation du référencement - Ajouter/supprimer un problème de page d'une Liste - Documents marketing - Documentation du produit
 title: 'Optimisation du référencement : Ajouter/supprimer un problème de page d''une Liste'
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,16 @@ Vous pouvez organiser vos problèmes de page en listes. Vous pouvez également s
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. Dans l’onglet des pages, cliquez sur **Problèmes**.
-1. ![](assets/image2014-9-18-14-3a3-3a18.png)
+1. Dans l’onglet Pages, cliquez sur **Problèmes**.
 
-1. Passez la souris sur le problème de page à ajouter. Cliquez sur **AJOUTER/SUPPRIMER de la LISTE**.
+   ![](assets/image2014-9-18-14-3a3-3a18.png)
+
+1. Passez la souris sur le problème de page à ajouter. Cliquez sur **Ajouter/Supprimer de la Liste**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
    Cliquez sur la liste à laquelle vous souhaitez ajouter votre problème de page.
+
    ![](assets/image2014-9-18-14-3a3-3a44.png)
 
    >[!TIP]
@@ -49,7 +51,7 @@ Vous pouvez organiser vos problèmes de page en listes. Vous pouvez également s
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Passez la souris sur le problème de page à supprimer. Cliquez sur **AJOUTER/SUPPRIMER de la LISTE**.
+1. Passez la souris sur le problème de page à supprimer. Cliquez sur **Ajouter/Supprimer de la Liste**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
