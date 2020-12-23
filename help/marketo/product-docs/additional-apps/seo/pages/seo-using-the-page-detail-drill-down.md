@@ -3,7 +3,7 @@ unique-page-id: 2949186
 description: SEO - Utilisation de la liste déroulante des détails de la page - Documents marketing - Documentation du produit
 title: SEO - Utilisation de la liste déroulante des détails de la page
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Vous pouvez consulter de nombreuses informations sur vos pages à l’aide de l�
 
 ## Mot-clé pour lequel la page est optimisée {#keyword-s-that-page-is-optimized-for}
 
-C&#39;est à cet emplacement que vous [sélectionnez le mot-clé pour lequel vous essayez d&#39;optimiser votre page](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+C&#39;est à cet emplacement que vous [sélectionnez le mot-clé pour lequel vous essayez d&#39;optimiser votre page](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
@@ -64,9 +64,4 @@ Plutôt sucré, non ? Pour en savoir plus sur les pages ici.
 
 >[!MORELIKETHIS]
 >
->* [Optimiser des pages spécifiques avec des mots-clés ciblés](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-
->
-
-
-
+>[Optimiser des pages spécifiques avec des mots-clés ciblés](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
