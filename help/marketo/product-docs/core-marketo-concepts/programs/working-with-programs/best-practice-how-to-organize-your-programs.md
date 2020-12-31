@@ -3,7 +3,7 @@ unique-page-id: 6848705
 description: Meilleure pratique - Comment organiser vos Programmes - Docs marketing - Documentation sur les produits
 title: Meilleure pratique - Comment organiser vos Programmes
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 0%
@@ -28,36 +28,28 @@ Dans les Activités marketing, vous devez utiliser des dossiers pour organiser v
 >**Exemple**
 >
 >* Programmes marketing principaux
->
->    * Courriers électroniques
->    * Événements
->
->        * Événements en direct / Journaux
->        * Références commerciales
->        * Webinaires
->   * Bulletins
->   * Infirmière
->   * Contenu Web
->   * formulaires web
+   >   * Courriers électroniques
+   >   * Événements
+      >      * Événements en direct / Journaux
+      >      * Références commerciales
+      >      * Webinaires
+   >   * Bulletins
+   >   * Infirmière
+   >   * Contenu Web
+   >   * formulaires web
 >* Formation
 >* Opérationnel
->
->   * Cycle de vie
->   * Scores
->   * data Management
->* Sales Insight
->   * Moments intéressants
->   * Courriers électroniques des ventes
->   * Campagnes demandées par les ventes
+   >   * Cycle de vie
+   >   * Scores
+   >   * data Management
+>* Insight commercial
+   >   * Moments intéressants
+   >   * Courriers électroniques des ventes
+   >   * Campagnes demandées par les ventes
 >* **Archiver**
->   * Archiver les Événements
->      * Archive 2012
->      * Archive 2013
-
-
-
-
-
+   >   * Événements d&#39;archivage
+      >      * Archive 2012
+      >      * Archive 2013
 
 
 Chacun de ces éléments mentionnés dans l&#39;exemple est un dossier. Notez comment ils portent un nom unique. Vous pouvez avoir des noms de duplicata (plus simples) de dossiers INSIDE programmes, mais pas à la racine de l&#39;arborescence.
