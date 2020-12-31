@@ -108,27 +108,23 @@ Définissez des paramètres généraux pour votre segment :
 >1. Utiliser tous les Filtres (1, 2 et 3...)
 >1. Utiliser n&#39;importe quel Filtres (1, 2 ou 3...)
 >1. Filtres avancés (utilisation et / ou expressions)
-
-   >
-   >    
-   Les filtres avancés vous permettent de contrôler la condition du segment. Entrez les numéros de filtre séparés par &quot;et&quot; et &quot;ou&quot;.
-   >
-   >    
-   * 1 et 2 et 3
-   >    * 1 ou 2 ou 3
-
-   >
-   Le mélange de &quot;et&quot; et &quot;ou&quot; nécessite des parenthèses pour clarifier l&#39;intention logique. par ex. &quot;1 ou 2 et 3&quot; doit être écrit comme suit :
-
-   * 1 et (2 ou 3)
-   * (1 et 2) ou 3
-
-   Les parenthèses imbriquées sont acceptées pour une logique plus complexe (ex.
-
-   * (1 et 2) ou (3 et 4)
-   * 1 et (2 ou (3 et 4))
-
-   Vérifiez votre logique après toute insertion, suppression ou réorganisation.
+>
+>    Les filtres avancés vous permettent de contrôler la condition du segment. Entrez les numéros de filtre séparés par &quot;et&quot; et &quot;ou&quot;.
+>
+>    * 1 et 2 et 3
+>    * 1 ou 2 ou 3
+>
+>    Le mélange de &quot;et&quot; et &quot;ou&quot; nécessite des parenthèses pour clarifier l&#39;intention logique. par ex. &quot;1 ou 2 et 3&quot; doit être écrit comme suit :
+>
+>    * 1 et (2 ou 3)
+>    * (1 et 2) ou 3
+>
+>    Les parenthèses imbriquées sont acceptées pour une logique plus complexe (ex.
+>
+>    * (1 et 2) ou (3 et 4)
+>    * 1 et (2 ou (3 et 4))
+>
+>    Vérifiez votre logique après toute insertion, suppression ou réorganisation.
 
 
 
