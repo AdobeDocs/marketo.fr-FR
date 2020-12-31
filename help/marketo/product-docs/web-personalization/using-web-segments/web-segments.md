@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Segments Web - Documents marketing - Documentation du produit
 title: Segments Web
 translation-type: tm+mt
-source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
+source-git-commit: f1fb2de271660904b8504e929f1428831e7188c1
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2024'
 ht-degree: 0%
 
 ---
@@ -101,38 +101,32 @@ Définissez des paramètres généraux pour votre segment :
 
 >[!TIP]
 >
->**Logique des règles de segment**
+>**Segmentregellogik**
 >
->Il existe trois options de filtre :
+>Es gibt drei Filteroptionen :
 >
->1. Utiliser tous les Filtres (1, 2 et 3...)
->1. Utiliser n&#39;importe quel Filtres (1, 2 ou 3...)
->1. Filtres avancés (utilisation et / ou expressions)
+>1. Alle Filter verwenden (1, 2 und 3...)
+>1. Alle Filter verwenden (1 oder 2 oder 3...)
+>1. Erweiterte Filter (mit und/order Ausdrücken)
 
    >
    >    
-   Les filtres avancés vous permettent de contrôler la condition du segment. Entrez les numéros de filtre séparés par &quot;et&quot; et &quot;ou&quot;.
-   >
-   >    
-   * 1 et 2 et 3
-   >    * 1 ou 2 ou 3
+   Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternumber getrent durch &quot;und&quot; und &quot;oder&quot; ein.
 
-   >
-   Le mélange de &quot;et&quot; et &quot;ou&quot; nécessite des parenthèses pour clarifier l&#39;intention logique. par ex. &quot;1 ou 2 et 3&quot; doit être écrit comme suit :
+   * 1 und 2 und 3
+   * 1 ordre 2 ordre 3
 
-   * 1 et (2 ou 3)
-   * (1 et 2) ou 3
+   Das Mischen von &quot;et &quot;und&quot; ou &quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wig folgt geschrieben sein :
 
-   Les parenthèses imbriquées sont acceptées pour une logique plus complexe (ex.
+   * 1 und (2 oder 3)
+   * (1 und 2) de l&#39;ordre 3
 
-   * (1 et 2) ou (3 et 4)
-   * 1 et (2 ou (3 et 4))
+   Verschachtelte Klammern werden für eine kompliziertere Logik, z.
 
-   Vérifiez votre logique après toute insertion, suppression ou réorganisation.
+   * (1 und 2) order (3 und 4)
+   * 1 und 2 oder 3 und 4)
 
-
-
-
+   Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
 
 
 Faites glisser les attributs de segment de la colonne de droite vers l’éditeur de segments sur le côté gauche :
@@ -157,8 +151,7 @@ Une fois le pays ajouté, vous pouvez également spécifier l’état, la ville 
 * **Villes**  - Entrez la ou les villes que vous souhaitez inclure. Utilisez un point-virgule entre les villes.
 
 >[!TIP]
->
->**Quelles conditions de segment dois-je choisir ? &quot;AND&quot; ou &quot;OR&quot; ?** OU fonctionne comme une option supplémentaire dans chaque champ. Les prospects ne doivent satisfaire qu&#39;un seul critère parmi les critères multiples sélectionnés dans chaque champ pour être admissibles au segment. (Par exemple, les prospects peuvent provenir des États-Unis, *ou* de l&#39;industrie de la défense). ET fonctionne comme un paramètre obligatoire supplémentaire qui doit être satisfait pour ce segment. (Par exemple, les prospects doivent provenir à la fois des États-Unis et de l&#39;industrie de la défense). Dans chaque profil de segmentation, chaque champ distinct peut fonctionner comme les deux, soit comme &quot;ET&quot;, soit comme &quot;OU&quot;, selon la condition de segment sélectionnée.
+**Quelles conditions de segment dois-je choisir ? &quot;AND&quot; ou &quot;OR&quot; ?** OU fonctionne comme une option supplémentaire dans chaque champ. Les prospects ne doivent satisfaire qu&#39;un seul critère parmi les critères multiples sélectionnés dans chaque champ pour être admissibles au segment. (Par exemple, les prospects peuvent provenir des États-Unis, *ou* de l&#39;industrie de la défense). ET fonctionne comme un paramètre obligatoire supplémentaire qui doit être satisfait pour ce segment. (Par exemple, les prospects doivent provenir à la fois des États-Unis et de l&#39;industrie de la défense). Dans chaque profil de segmentation, chaque champ distinct peut fonctionner comme les deux, soit comme &quot;ET&quot;, soit comme &quot;OU&quot;, selon la condition de segment sélectionnée.
 
 **** IndustriesSous la section  **Segmentation des** Profils, cochez la case en regard de  **Secteur**.
 
@@ -195,8 +188,7 @@ Sélectionnez une [Liste de compte nommée](../../../product-docs/web-personaliz
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
->
->Le numéro entre crochets en regard du nom de la Liste de compte nommé est utilisé comme référence d’index pour la liste de personnalisation Web [API de lecture](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+Le numéro entre crochets en regard du nom de la Liste de compte nommé est utilisé comme référence d’index pour la liste de personnalisation Web [API de lecture](http://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Exclure un fournisseur de services Internet**
 
@@ -215,10 +207,8 @@ Sélectionnez Base de données et sélectionnez un champ de données de personne
 Vous pouvez ajouter ou supprimer des champs de données de personne dans Paramètres du compte > Base de données.
 
 >[!TIP]
->
->Créez vos critères de segment en fonction de tous les champs de données de personne provenant de personnes du marché du travail, telles que le titre de la tâche ; Score ; Rôle ; etc...
->
->Par ex. &quot;Titre du travail = CMO&quot; et &quot;Note inférieure ou égale à 50&quot;
+Créez vos critères de segment en fonction de tous les champs de données de personne provenant de personnes du marché du travail, telles que le titre de la tâche ; Score ; Rôle ; etc...
+Par ex. &quot;Titre du travail = CMO&quot; et &quot;Note inférieure ou égale à 50&quot;
 
 **Marketo Email** CampaignSegmentez et personnalisez les campagnes par renvoi électronique depuis un visiteur qui clique sur un courriel Marketo et arrive sur le site. Segmenter par nom de Programme ou nom de Campaign du marketing et poursuivre la conversation entre le courriel et le Web. Sélectionnez + pour ajouter des champs dans la liste déroulante.
 
@@ -299,8 +289,7 @@ Ajoutez la valeur de Événement à cible. Par exemple, à partir de sources de 
 Appel de l’API de personnalisation Web [pour en savoir plus ici.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
->
->**Utilisation de caractères génériques :** lorsque vous souhaitez inclure un terme de recherche ou une URL qui contient quelque chose à l’intérieur, c’est-à-dire. &quot;[google.com](http://google.com)&quot; ou &quot;produit à terme de recherche&quot;, nous appelons cela un caractère générique et il devrait être saisi d&#39;un astérisque - ce petit type* - à chaque extrémité. Par conséquent, tout ce qui vient de [google.com](http://google.com) doit être saisi comme * [google.com](http://google.com)*
+**Utilisation de caractères génériques :** lorsque vous souhaitez inclure un terme de recherche ou une URL qui contient quelque chose à l’intérieur, c’est-à-dire. &quot;[google.com](http://google.com)&quot; ou &quot;produit à terme de recherche&quot;, nous appelons cela un caractère générique et il devrait être saisi d&#39;un astérisque - ce petit type* - à chaque extrémité. Par conséquent, tout ce qui vient de [google.com](http://google.com) doit être saisi comme * [google.com](http://google.com)*
 
 ## Modifier les segments {#edit-segments}
 
