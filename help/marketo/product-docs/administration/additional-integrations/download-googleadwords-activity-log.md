@@ -3,7 +3,7 @@ unique-page-id: 7512607
 description: Télécharger le journal des Activités de Google Adwords - Marketo Docs - Documentation du produit
 title: Télécharger le journal des Activités de Google Adwords
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -24,4 +24,3 @@ Des choses arrivent. Il arrive que vous deviez télécharger le journal des acti
    ![](assets/image2015-4-22-17-3a49-3a49.png)
 
 1. Un fichier .zip sera téléchargé sur votre ordinateur.
-
