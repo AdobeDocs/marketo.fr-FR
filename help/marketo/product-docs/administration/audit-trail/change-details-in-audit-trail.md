@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: Détails des modifications dans la piste d’audit - Documents marketing - Documentation du produit
 title: Modifier les détails dans la piste d’audit
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '1901'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -101,11 +101,11 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Mise à jour de "From Email" en "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>"</td> 
+   <td>Mise à jour de "From Email" en "newemail@name.com"</td> 
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Mise à jour de "Répondre à" à "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[protégé par courriel]</a>"</td> 
+   <td>Mise à jour de "Répondre à" en "newreplytoemail@name.com"</td> 
   </tr> 
   <tr> 
    <td>Modifier</td> 
@@ -801,9 +801,5 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
 
 >[!MORELIKETHIS]
 >
->* [Filtrage dans la piste d’audit](filtering-in-audit-trail.md)
-
->
-
-
+>[Filtrage dans la piste d’audit](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
 
