@@ -3,7 +3,7 @@ unique-page-id: 10098433
 description: Création d’une Liste autorisée pour l’accès à l’API basée sur l’adresse IP - Documents marketing - Documentation du produit
 title: Création d’une Liste autorisée pour l’accès aux API basées sur l’adresse IP
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Il arrive que vous souhaitiez autoriser l’accès à l’API uniquement à une 
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. Dans la zone Restrictions IP, cliquez sur **Modifier, **ou sur** Modifier les restrictions IP **dans l’angle supérieur gauche.
+1. Dans la zone Restrictions IP, cliquez sur **Modifier,** ou sur **Modifier les restrictions IP** dans l’angle supérieur gauche.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
@@ -42,4 +42,3 @@ Il arrive que vous souhaitiez autoriser l’accès à l’API uniquement à une 
 1. Cliquez sur **Enregistrer**.
 
    ![](assets/image2016-2-25-9-3a28-3a21.png)
-
