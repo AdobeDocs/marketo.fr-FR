@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: Ajouter la connexion unique à un portail - Documents marketing - Documentation du produit
 title: Ajouter la connexion unique à un portail
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,13 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 
 La fonction SSO est désactivée par défaut. Suivez ces étapes pour activer SAML et le configurer.
 
-1. Accédez à **Admin **et cliquez sur **Connexion unique**.
+1. Accédez à **Admin** et cliquez sur **Connexion unique**.
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >Si **Connexion unique** n&#39;apparaît pas sous **Admin**, contactez [`[email protected]`](http://mailto:support@marketo.com).
+   >Si **Connexion unique** n&#39;apparaît pas sous **Admin**, contactez [[Support marketing]](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Sous la section **Paramètres SAML**, cliquez sur **Modifier**.
 
@@ -102,4 +102,3 @@ La fonction SSO est désactivée par défaut. Suivez ces étapes pour activer SA
    >[!NOTE]
    >
    >Ces deux pages doivent être accessibles au public.
-
