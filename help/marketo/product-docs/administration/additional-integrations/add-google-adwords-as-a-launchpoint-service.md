@@ -3,9 +3,9 @@ unique-page-id: 6095008
 description: Ajouter Google AdWords en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter Google AdWords comme service LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Go
 
 >[!NOTE]
 >
->Vous pouvez également intégrer un [service Google AdWords comme point de lancement à un compte de gestionnaire](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
+>Vous pouvez également intégrer un [service Google AdWords comme point de lancement à un compte de gestionnaire](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
 
 1. Accédez à la section **Admin**.
 
@@ -61,7 +61,7 @@ En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Go
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Téléchargez vos conversions hors ligne de Marketo vers Google AdWords **Hebdomadairement **ou **Quotidien**.
+1. Transférez vos conversions hors ligne de Marketo vers Google AdWords **Hebdomadairement** ou **Quotidien**.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -86,13 +86,8 @@ En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Go
    >
    >[Le ](https://support.google.com/adwords/answer/1752125?hl=en) balisage automatique doit être sélectionné pour que cette fonction fonctionne. La désactivation doit être effectuée dans AdWords.
 
-   >[!NOTE]
-   >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Définir les conversions Google AdWords dans le modèle de recettes](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-
-
 Super ! Consultez maintenant l’article associé ci-dessous pour savoir comment mapper les conversions hors ligne AdWords dans votre modèle de recettes.
+
+>[!MORELIKETHIS]
+>
+>[Définir les conversions Google AdWords dans le modèle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
