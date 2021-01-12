@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: Activer la piste d’audit - Documents marketing - Documentation du produit
 title: Activer la piste d'audit
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -45,17 +45,15 @@ La piste d’audit est disponible pour tous les clients et est contrôlée par d
    >
    >**Définition**
    >
-   >
    >**Chemin d’accès à la piste d’audit :** donne aux utilisateurs l’accès à la piste d’audit des ressources et à la piste d’audit des administrateurs.
    >
-   >
-   >**Historique de connexion des accès :** donne aux utilisateurs l’accès à l’historique [ de connexion des ](user-login-history.md)utilisateurs.
+   >**Historique de connexion des accès :** donne aux utilisateurs l’accès à l’historique [ de connexion des ](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)utilisateurs.
 
 ## Attribuer le rôle de piste d&#39;audit à un utilisateur {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) Creator  [](#Enable) active un rôle existant, en lui attribuant les autorisations Audit Trail.
+>[](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) Creator  [](#enable-audit-trail) active un rôle existant, en lui attribuant les autorisations Audit Trail.
 
 1. Dans **Utilisateurs et rôles**, cliquez sur **Utilisateurs**.
 
@@ -75,9 +73,8 @@ La piste d’audit est disponible pour tous les clients et est contrôlée par d
 
    >[!CAUTION]
    >
-   >Si les espaces de travail sont activés, cochez la case du rôle, qui sélectionne tous les espaces de travail. La désélection d’un espace de travail individuel masquera la piste d’audit. Cela signifie que vous verrez les données de piste d’audit pour chaque espace de travail. Vous avez la possibilité de masquer les espaces de travail lorsque [le filtrage](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail) est activé.
+   >Si les espaces de travail sont activés, cochez la case du rôle, qui sélectionne tous les espaces de travail. La désélection d’un espace de travail individuel masquera la piste d’audit. Cela signifie que vous verrez les données de piste d’audit pour chaque espace de travail. Vous avez la possibilité de masquer les espaces de travail lorsque [le filtrage](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) est activé.
 
 1. Cliquez sur **Enregistrer**.
 
    ![](assets/eight-1.png)
-
