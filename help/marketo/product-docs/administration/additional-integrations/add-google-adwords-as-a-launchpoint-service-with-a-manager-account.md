@@ -3,9 +3,9 @@ unique-page-id: 7504893
 description: Ajouter Google AdWords en tant que service de point de lancement avec un compte de gestionnaire - Docs marketing - Documentation du produit
 title: Ajouter Google AdWords en tant que service de point de lancement avec un compte de gestionnaire
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Go
 
 >[!NOTE]
 >
->Vous pouvez également intégrer un [compte Google AdWords autonome en tant que service Launchpoint](add-google-adwords-as-a-launchpoint-service.md).
+>Vous pouvez également intégrer un [compte Google AdWords autonome en tant que service Launchpoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md).
 
 1. Accédez à la section **Admin**.
 
@@ -63,7 +63,7 @@ En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Go
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Téléchargez vos conversions hors ligne de Marketo vers Google AdWords **Hebdomadairement **ou **Quotidien**.
+1. Transférez vos conversions hors ligne de Marketo vers Google AdWords **Hebdomadairement** ou **Quotidien**.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
@@ -88,14 +88,8 @@ En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Go
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
-   Yippee ! Consultez maintenant l’article associé ci-dessous pour savoir comment mapper les conversions hors ligne d’AdWords dans votre modèle de recettes.
+   Consultez maintenant l’article associé ci-dessous pour savoir comment mapper les conversions hors ligne d’AdWords dans votre modèle de recettes.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Définir les conversions Google AdWords dans le modèle Recettes avec un compte de gestionnaire](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-
-
+   >[Définir les conversions Google AdWords dans le modèle Recettes avec un compte de gestionnaire](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
