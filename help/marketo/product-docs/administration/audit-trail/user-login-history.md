@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: Historique de connexion des utilisateurs - Documents marketing - Documentation du produit
 title: Historique de connexion des utilisateurs
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,9 @@ Pour vue à l&#39;historique de connexion de l&#39;utilisateur :
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. Sélectionnez des utilisateurs dans la liste déroulante **Utilisateurs**.** **
+1. Sélectionnez les utilisateurs dans la liste déroulante **Utilisateurs**.
 
-   ** ![](assets/user-dropdown.jpg)
-
-   **
+   ![](assets/user-dropdown.jpg)
 
 1. Cochez la case **Uniquement les connexions ayant échoué** pour n&#39;afficher que les connexions ayant échoué dans votre recherche.
 
@@ -69,10 +67,4 @@ Pour vue à l&#39;historique de connexion de l&#39;utilisateur :
 
    >[!NOTE]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Aperçu de la piste d’audit](audit-trail-overview.md)
-
-
+   >[Aperçu de la piste d’audit](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
