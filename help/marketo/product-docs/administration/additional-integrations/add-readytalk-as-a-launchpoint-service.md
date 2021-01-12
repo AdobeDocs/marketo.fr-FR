@@ -3,9 +3,9 @@ unique-page-id: 7512278
 description: Ajouter ReadyTalk en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter ReadyTalk en tant que service LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,21 @@ Marketo gère votre inscription et votre participation aux webinaires ReadyTalk.
 
 >[!NOTE]
 >
->**Rappel**
->
 >Un abonnement existant aux droits ReadyTalk et d&#39;administration est nécessaire pour cette étape. Ayez à portée de main les paramètres suivants : Numéro d&#39;accès, Code d&#39;accès et Code de passe.
 
 1. Accédez à **Admin** et cliquez sur **ReadyTalk**.
 
    ![](assets/image2015-4-23-10-3a50-3a23.png)
 
-1. Sélectionnez **New**, puis **New** **Service**.
+1. Sélectionnez **Nouveau**, puis **Nouveau service**.
 
    ![](assets/readytalk-new-service.png)
 
-1. Saisissez un **Nom** **Nom**. Sous **Service**, sélectionnez** ReadyTalk**.
+1. Saisissez un **nom d’affichage**. Sous **Service**, sélectionnez **ReadyTalk**.
 
    ![](assets/new-service-readytalk.png)
 
-1. Entrez votre **numéro d&#39;accès** et **code d&#39;accès** ****.
+1. Entrez votre **numéro d&#39;accès** et **code d&#39;accès**.
 
    ![](assets/image2015-4-24-18-3a53-3a2.png)
 
@@ -45,11 +43,10 @@ Marketo gère votre inscription et votre participation aux webinaires ReadyTalk.
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 
-1. Phénoménal ! Votre compte **ReadyTalk** est désormais synchronisé avec Marketo.
+Votre compte **ReadyTalk** est désormais synchronisé avec Marketo.
 
-   ![](assets/readytalk.png)
+![](assets/readytalk.png)
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [créer un événement avec ReadyTalk](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
-
+>Découvrez comment [créer un événement avec ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
