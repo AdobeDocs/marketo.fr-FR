@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: FAQ sur le suivi de Munchkin de nouvelle génération - Docs marketing - Documentation du produit
 title: FAQ sur le suivi de Munchkin de nouvelle génération
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,9 @@ Si vous utilisez déjà ce filtre dans une Liste dynamique (par exemple, dans un
 
 >[!NOTE]
 >
->**Exemple**
->
 >**Déclencheur** : Page Web Visites, page Web est la page Tarification\
->**Flux** : Changer de note +10 et moment intéressant,  **Web** : Page Tarifs affichés
+>**Flux** : Changer de note +10 et moment intéressant
+>**Web** : Page Tarifs affichés
 >
 >Avec Munchkin V2, si une personne anonyme visite la page de tarification, elle n&#39;entre pas immédiatement dans la campagne. Au moment où la personne anonyme sera connue, nous lui lancerons cette campagne. Elle :
 >
@@ -60,9 +59,6 @@ Si vous utilisez déjà ce filtre dans une Liste dynamique (par exemple, dans un
    >
    >
 * Ayez une activité &quot;Nouvelle personne&quot; enregistrée, telle qu’elle est actuellement
-
->
-
 
 
 ## Qu’advient-il de mes Listes dynamiques qui disposent déjà du filtre &quot;Est-ce anonyme&quot; ? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -98,4 +94,4 @@ Consultez ces liens :
 
 ## J&#39;ai plus de questions ! Comment puis-je leur faire répondre ? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Veuillez contacter la [communauté](https://nation.marketo.com/welcome). Vous pouvez également envoyer un courriel à [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) Ils seront heureux de répondre à vos questions.
+Veuillez contacter la [communauté](https://nation.marketo.com/welcome). Vous pouvez également contacter le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support). Ils seront heureux de répondre à vos questions.
