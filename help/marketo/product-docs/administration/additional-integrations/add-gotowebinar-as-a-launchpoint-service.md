@@ -3,9 +3,9 @@ unique-page-id: 7512289
 description: Ajouter GoToWebinar en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter GoToWebinar en tant que service LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Marketo gère votre inscription et votre participation au GoToWebinar.
 
 >[!NOTE]
 >
->**Rappel**
->
 >Un abonnement existant pour GoToWebinar et des droits d&#39;administration sont nécessaires pour cette étape. Ayez à portée de main le courriel et le mot de passe que vous utilisez pour vous connecter à GoToWebinar.
 
 >[!NOTE]
@@ -37,11 +35,11 @@ Marketo gère votre inscription et votre participation au GoToWebinar.
 
    ![](assets/new-service-gotowebinar.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**GoToWebinar**.
+1. Saisissez un **nom d’affichage**. Sous **Service**, sélectionnez **GoToWebinar**.
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. Cliquez ensuite sur **Connexion** **GoToWebinar**.
+1. Cliquez ensuite sur **Connexion à GoToWebinar**.
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
@@ -67,5 +65,4 @@ Marketo gère votre inscription et votre participation au GoToWebinar.
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [créer un événement avec GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
-
+>Découvrez comment [créer un événement avec GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
