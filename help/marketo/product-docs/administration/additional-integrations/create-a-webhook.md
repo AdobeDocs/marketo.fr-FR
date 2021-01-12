@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: Création d’un crochet Web - Documents marketing - Documentation du produit
 title: Création d’un crochet Web
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 Utilisez des hameçons Web pour tirer parti des services Web tiers pour envoyer des messages texte, développer les données personnelles, etc.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-1. Accédez à **Admin **et cliquez sur **Webhooks**.
+1. Accédez à **Admin** et cliquez sur **Webhooks**.
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
@@ -51,7 +49,4 @@ Utilisez des hameçons Web pour tirer parti des services Web tiers pour envoyer 
 
 >[!NOTE]
 >
->**Plongée profonde**
->
 >Pour en savoir plus, consultez les [webhooks](http://developers.marketo.com/documentation/webhooks/) plongée profonde.
-
