@@ -3,9 +3,9 @@ unique-page-id: 7512270
 description: Ajouter Adobe Connect en tant que service LaunchPoint - Marketo Docs - Documentation sur les produits
 title: Ajouter Adobe Connect en tant que service LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -20,8 +20,6 @@ Marketo gère votre inscription et votre participation au webinaire Adobe Connec
 >**Autorisations d’administrateur requises**
 
 >[!NOTE]
->
->**Rappel**
 >
 >Un abonnement existant aux droits d&#39;Adobe Connect et d&#39;administration est nécessaire pour cette étape. Ayez à portée de main les paramètres suivants : nom d’utilisateur, mot de passe, mot de passe du participant et URL du dossier de la réunion.
 
@@ -45,11 +43,9 @@ Marketo gère votre inscription et votre participation au webinaire Adobe Connec
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. Terminez le processus en saisissant votre **URL du dossier de réunion** et **Participant** **Mot de passe**,** **puis cliquez sur** Créer.**
+1. Terminez le processus en entrant votre **URL du dossier de réunion** et **mot de passe du participant**, puis cliquez sur **Créer**.
 
-   ** ![](assets/image2015-4-22-11-3a55-3a36.png)
-
-   **
+   ![](assets/image2015-4-22-11-3a55-3a36.png)
 
    >[!TIP]
    >
@@ -57,16 +53,12 @@ Marketo gère votre inscription et votre participation au webinaire Adobe Connec
 
    >[!NOTE]
    >
-   >**Exemple**
-   >
-   >
-   >Une fois connecté à votre compte Adobe Connect, sélectionnez l’onglet **Séminaires**. Sans accéder à un séminaire spécifique, copiez l&#39;URL de la barre de navigation dans le **paramètre** URL du dossier de la réunion **.**
+   >Une fois connecté à votre compte Adobe Connect, sélectionnez l’onglet **Séminaires**. Sans accéder à un séminaire spécifique, copiez l’URL de la barre de navigation dans le paramètre **URL du dossier de réunion**.
 
-1. Phénoménal ! Votre **service Adobe Connect** est désormais synchronisé avec Marketo.
+Votre service Adobe Connect est désormais synchronisé avec Marketo !
 
-   ![](assets/adobe-connect-service.png)
+![](assets/adobe-connect-service.png)
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [créer un événement avec Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
-
+>Découvrez comment [créer un événement avec Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
