@@ -3,9 +3,9 @@ unique-page-id: 2359898
 description: Découvrez Les Autorisations Dont Vous Disposez - Documents Marketo - Documentation Sur Les Produits
 title: Déterminer les autorisations dont vous disposez
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si vous vous demandez quelles autorisations vous avez ou n&#39;avez pas sur Marketo, il y a un moyen facile pour vous de le savoir.
 
-1. Accédez à** Activités marketing**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,9 +23,8 @@ Si vous vous demandez quelles autorisations vous avez ou n&#39;avez pas sur Mark
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
-1. Vous verrez les autorisations de la sorte.
+Vous verrez les autorisations répertoriées.
 
 ![](assets/image2014-9-8-17-3a45-3a23.png)
 
 Si vous avez besoin de l’une des autorisations activées pour vous, contactez votre administrateur Marketing Cloud.
-
