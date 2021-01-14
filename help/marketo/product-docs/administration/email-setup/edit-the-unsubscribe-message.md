@@ -3,7 +3,7 @@ unique-page-id: 2360251
 description: Modifier le message de désabonnement - Documents marketing - Documentation du produit
 title: Modifier le message de désabonnement
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Lorsque vous envoyez des courriels marketing (non [opérationnels](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), le texte de désabonnement et les liens sont ajoutés au bas de la page. Vous pouvez modifier les valeurs par défaut. Voici comment.
+Lorsque vous envoyez des courriels marketing (non-[opérationnels](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), le texte de désabonnement et les liens sont ajoutés au bas de la page. Vous pouvez modifier les valeurs par défaut. Voici comment.
 
 ## Modifier le message de désabonnement {#edit-the-unsubscribe-message-1}
 
@@ -27,24 +27,21 @@ Lorsque vous envoyez des courriels marketing (non [opérationnels](../../../prod
 
    >[!CAUTION]
    >
-   >
    >Les variables suivantes sont essentielles. Ne les supprimez pas !
    >
-   >    
-   >    
-   >    * **%mkt_opt_out_prefix%**
-   >    * **mkt_unsubscription=1&amp;mkt_tok=##MKT_TOK##**
+   >* **%mkt_opt_out_prefix%**
+   >* **mkt_unsubscription=1&amp;mkt_tok=##MKT_TOK##**
 
 
 1. Modifiez les versions **Désabonner HTML** et **Désabonner le texte** à votre convenance et cliquez sur **Enregistrer les modifications**.
 
    ![](assets/image2016-8-26-13-3a40-3a55.png)
 
-   Voilà. **Assurez-vous de tester !** Vous ne souhaitez pas que vos courriels marketing aient rompu les liens de désabonnement.
+   Voilà. _Assurez-vous de tester !_ Vous ne souhaitez pas que vos courriels marketing aient rompu les liens de désabonnement.
 
 >[!TIP]
 >
->Vous pouvez personnaliser la position du code HTML de désabonnement dans votre courrier électronique à l’aide de [jetons](../../../product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>Vous pouvez personnaliser la position du code HTML de désabonnement dans votre courrier électronique à l’aide de [jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
 ## Texte de désabonnement par défaut {#default-unsubscribe-text}
 
@@ -56,9 +53,4 @@ Désabonner HTML :
 
 >[!MORELIKETHIS]
 >
->* [Modifier le message &quot;Vue en tant que page Web&quot;](edit-the-view-as-web-page-message.md)
-
->
-
-
-
+>[Modifier le message &quot;Vue en tant que page Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
