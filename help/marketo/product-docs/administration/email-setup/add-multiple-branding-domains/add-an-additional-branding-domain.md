@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: Ajouter un domaine de marque supplémentaire - Documents marketing - Documentation du produit
 title: Ajouter un domaine de marque supplémentaire
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Ajoutez un domaine de marque supplémentaire lorsque vous exécutez plusieurs ma
 
 >[!PREREQUISITES]
 >
->Vous devez [remplacer le lien de suivi générique](edit-your-default-branding-domain.md) par un domaine de marque avant d’ajouter d’autres domaines de marque.
+>Vous devez [remplacer le lien de suivi générique](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) par un domaine de marque avant d’ajouter d’autres domaines de marque.
 
-1. Dans Mon marketing, cliquez sur **Admin **puis sur le lien **Courriel**.
+1. Dans Mon marketing, cliquez sur **Admin**, puis sur le lien **E-mail**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. Cliquez sur **Ajouter **pour ajouter un domaine de marque supplémentaire.
+1. Cliquez sur **Ajouter** pour ajouter un domaine de marque supplémentaire.
 
    ![](assets/two.png)
 
@@ -33,15 +33,8 @@ Ajoutez un domaine de marque supplémentaire lorsque vous exécutez plusieurs ma
 
 >[!NOTE]
 >
->Vous pouvez choisir de faire de ce domaine votre Principal domaine, et tous les courriers électroniques non envoyés existants sont définis sur &quot;Par défaut&quot; et tous les nouveaux courriels créés seront définis par défaut sur le domaine Principal. Vous pourrez [remplacer cette valeur par courriel ](overwrite-primary-domain-for-emails.md).
+>Vous pouvez choisir de faire de ce domaine votre Principal domaine, et tous les courriers électroniques non envoyés existants sont définis sur &quot;Par défaut&quot; et tous les nouveaux courriels créés seront définis par défaut sur le domaine Principal. Vous pourrez [remplacer cette valeur par courriel ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->* [Modifier votre domaine de marque par défaut](edit-your-default-branding-domain.md)
-
->
-
-
-
+>[Modifier votre domaine de marque par défaut](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
