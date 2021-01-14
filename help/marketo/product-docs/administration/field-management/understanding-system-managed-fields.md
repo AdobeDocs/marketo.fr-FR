@@ -3,7 +3,7 @@ unique-page-id: 5472615
 description: Présentation des champs gérés par le système - Documents marketing - Documentation du produit
 title: Présentation des champs gérés par le système
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présentation des champs gérés par le système {#understanding-system-managed-fields}
 
-Vous avez peut-être remarqué que la [page des détails de la personne](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) comporte une série de champs non modifiables créés par Marketo. Ces données proviennent de diverses sources, et il y a d&#39;innombrables valeurs qui pourraient s&#39;afficher.
+Vous avez peut-être remarqué que la [page des détails de la personne](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) comporte une série de champs non modifiables créés par Marketo. Ces données proviennent de diverses sources, et il y a d&#39;innombrables valeurs qui pourraient s&#39;afficher.
 
 ## Types de champ {#field-types}
 
@@ -67,4 +67,3 @@ Voici quelques valeurs possibles et ce qu&#39;elles signifient.
 | API Munchkin | Est devenu une personne grâce à l&#39;API Munchkin de Marketo |
 | Application Social | Devenir une personne par le biais d’un widget social |
 | Partenaire événement | Devenir une personne par le biais d’un service de webinaire lié |
-
