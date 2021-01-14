@@ -3,7 +3,7 @@ unique-page-id: 10093192
 description: Créer des objets personnalisés sur le marché - Documents marketing - Documentation du produit
 title: Créer des objets personnalisés marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '710'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Utilisez des objets personnalisés dans Marketing pour effectuer le suivi de mes
 
 >[!NOTE]
 >
->Vous pouvez configurer des objets personnalisés pour qu’ils fonctionnent sur la base d’un-à-plusieurs ou de plusieurs-à-plusieurs. Vous créez l’objet initial de la même manière, mais les étapes sont différentes lorsque vous débuts ajouter des champs à l’objet. Voir [Présentation des objets personnalisés du marketing](understanding-marketo-custom-objects.md) pour plus d’informations.
+>Vous pouvez configurer des objets personnalisés pour qu’ils fonctionnent sur la base d’un-à-plusieurs ou de plusieurs-à-plusieurs. Vous créez l’objet initial de la même manière, mais les étapes sont différentes lorsque vous débuts ajouter des champs à l’objet. Voir [Présentation des objets personnalisés du marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) pour plus d’informations.
 
 >[!NOTE]
 >
@@ -29,9 +29,7 @@ Cet exemple montre un objet personnalisé Car, à utiliser dans une structure de
 
 1. Cliquez sur **Admin**, puis dans **Gestion de la base de données** sélectionnez **Objets personnalisés marketing**.
 
-   ** ![](assets/image2016-1-18-13-3a12-3a19.png)
-
-   **
+   ![](assets/image2016-1-18-13-3a12-3a19.png)
 
 1. Cliquez sur **Nouvel objet personnalisé**.
 
@@ -49,7 +47,7 @@ Cet exemple montre un objet personnalisé Car, à utiliser dans une structure de
    >
    >Vous pouvez modifier ces champs lorsque vous les créez, mais après les avoir enregistrés, vous pouvez uniquement modifier le champ Nom du pluriel et le curseur **Afficher dans les détails de piste**.
 
-1. Appuyez sur le **Afficher dans le détail des pistes **curseur pour afficher **Afficher** si vous souhaitez vue des données d&#39;objet personnalisé sur la page Base de données des pistes. Cliquez sur **Enregistrer**.
+1. Appuyez sur le curseur **Afficher dans les détails de piste** pour afficher **Afficher** si vous souhaitez vue des données d&#39;objet personnalisé sur la page Base de données de piste. Cliquez sur **Enregistrer**.
 
    ![](assets/image2015-9-15-16-3a32-3a2.png)
 
@@ -57,11 +55,11 @@ Cet exemple montre un objet personnalisé Car, à utiliser dans une structure de
 
    ![](assets/image2015-9-15-16-3a38-3a22.png)
 
-   L’étape suivante consiste à ajouter des champs à [créer votre objet personnalisé](add-marketo-custom-object-fields.md).
+   L’étape suivante consiste à ajouter des champs à [créer votre objet personnalisé](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
    >[!NOTE]
    >
-   >Vous ne pouvez renseigner les objets personnalisés de marketing que par le biais d’une importation de liste ou de l’[API](http://developers.marketo.com/documentation/rest/).
+   >Vous ne pouvez renseigner les objets personnalisés de marketing que par le biais d’une importation de liste ou de l’[API](https://developers.marketo.com/documentation/rest/).
 
 ## Créer un objet personnalisé pour une structure de type &quot;plusieurs à plusieurs&quot; {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -87,7 +85,7 @@ Cet exemple montre un objet personnalisé de cours, que vous utiliserez pour cr�
    >
    >Vous pouvez modifier ces champs lorsque vous les créez, mais après les avoir enregistrés, vous pouvez uniquement modifier le champ Nom du pluriel et le curseur **Afficher dans les détails de piste**.
 
-1. Appuyez sur le **Afficher dans les détails de la piste **pour afficher Afficher si vous souhaitez vue des données d&#39;objet personnalisées sur la page Base de données de pistes. Cliquez sur **Enregistrer**.
+1. Appuyez sur le curseur **Afficher dans les détails de piste** pour afficher **Afficher** si vous souhaitez vue des données d&#39;objet personnalisé sur la page Base de données de piste. Cliquez sur **Enregistrer**.
 
    ![](assets/image2016-1-14-13-3a42-3a56.png)
 
@@ -97,7 +95,7 @@ Cet exemple montre un objet personnalisé de cours, que vous utiliserez pour cr�
 
    >[!NOTE]
    >
-   >Vous ne pouvez renseigner les objets personnalisés de marketing que par le biais d’une importation de liste ou de l’[API](http://developers.marketo.com/documentation/rest/).
+   >Vous ne pouvez renseigner les objets personnalisés de marketing que par le biais d’une importation de liste ou de l’[API](https://developers.marketo.com/documentation/rest/).
 
 L&#39;étape suivante consiste à créer votre objet intermédiaire (voir ci-dessous). Mais avant cela, vous devez créer un champ avec lequel créer un lien.
 
@@ -125,21 +123,17 @@ Utilisez un objet intermédiaire pour connecter un objet personnalisé à des pe
    >
    >Vous pouvez modifier ces champs lorsque vous les créez, mais une fois enregistrés, vous pouvez uniquement modifier le champ Nom du pluriel et le curseur Afficher dans les détails de piste.
 
-1. Appuyez sur le curseur **Afficher dans les détails de piste** pour afficher Afficher si vous souhaitez vue des données d&#39;objet personnalisé sur la page Base de données de piste. Cliquez sur **Enregistrer**.
+1. Appuyez sur le curseur **Afficher dans les détails de piste** pour afficher **Afficher** si vous souhaitez vue des données d&#39;objet personnalisé sur la page Base de données de piste. Cliquez sur **Enregistrer**.
 
    ![](assets/image2016-1-14-14-3a12-3a49.png)
 
 1. Les informations sur les objets personnalisés affichent le contenu que vous avez saisi. Notez qu’il est à l’état Brouillon.
 
-   L’étape suivante consiste à [ajouter des champs de lien](add-marketo-custom-object-link-fields.md) pour connecter votre objet intermédiaire à une personne/société et à un objet personnalisé.
+   L’étape suivante consiste à [ajouter des champs de lien](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) pour connecter votre objet intermédiaire à une personne/société et à un objet personnalisé.
 
 >[!MORELIKETHIS]
 >
->* [Ajouter les champs d&#39;objet personnalisé Marketo](add-marketo-custom-object-fields.md)
->* [Ajouter les champs de lien d’objet personnalisé Marketo](add-marketo-custom-object-link-fields.md)
->* [Compréhension des objets personnalisés de marketing](understanding-marketo-custom-objects.md)
-
->
-
-
+>* [Ajouter les champs d&#39;objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Ajouter les champs de lien d’objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Compréhension des objets personnalisés de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
