@@ -3,9 +3,9 @@ unique-page-id: 4720461
 description: Jetons d’encodage HTML dans les courriels - Documents marketing - Documentation du produit
 title: Jetons d’encodage HTML dans les courriers électroniques
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Activez/désactivez les jetons de personne et de société utilisés dans les co
 
 >[!NOTE]
 >
->**Définition**
->
->Le codage convertit les caractères en versions de code HTML afin d’éviter toute confusion lors de leur transmission (c.-à-d. &quot;&amp;&quot; est remplacé par &quot;&amp;&quot;). Pour plus de détails, veuillez consulter votre développeur Web.
+>Le codage convertit les caractères en versions de code HTML afin d’éviter toute confusion lors de leur transmission (c.-à-d. &quot;&amp;&quot; est remplacé par `&amp;`). Pour plus de détails, veuillez consulter votre développeur Web.
 
 1. Accédez à **Admin**.
 
@@ -42,4 +40,3 @@ Activez/désactivez les jetons de personne et de société utilisés dans les co
    ![](assets/six.png)
 
    Et c&#39;est tout ! Vous pouvez le faire pour autant de champs individuels que vous le souhaitez.
-
