@@ -3,9 +3,9 @@ unique-page-id: 2360339
 description: Supprimer un champ personnalisé dans Marketo - Docs marketing - Documentation du produit
 title: Suppression d’un champ personnalisé dans Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,10 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Vous pouvez vous débarrasser d’un champ que vous avez créé dans le passé si vous n’en avez plus besoin. Malheureusement, vous ne pouvez pas supprimer de champs dans Marketo, mais vous *pouvez* les masquer dans l&#39;interface utilisateur.
+Vous pouvez vous débarrasser d’un champ que vous avez créé dans le passé si vous n’en avez plus besoin. Malheureusement, vous ne pouvez pas supprimer de champs dans Marketo, mais vous _pouvez_ les masquer dans l&#39;interface utilisateur.
 
-1. Dans **Admin**, accédez à **Gestion des champs **et sélectionnez votre champ. Sous **Actions de champ**, cliquez sur **Masquer le champ**.
+1. Dans **Admin**, accédez à **Gestion des champs** et sélectionnez votre champ. Dans la liste déroulante Actions de champ, cliquez sur **Masquer le champ**.
 
    ![](assets/image2014-9-19-9-3a49-3a10.png)
 
-   Pour obtenir des instructions détaillées, voir [masquer et afficher un champ](hide-and-unhide-a-field.md).
-
+   Pour obtenir des instructions détaillées, voir [masquer et afficher un champ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md).
