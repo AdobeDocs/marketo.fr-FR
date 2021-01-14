@@ -3,7 +3,7 @@ unique-page-id: 2360247
 description: Modifier la valeur par défaut du courrier électronique et du libellé - Documents marketing - Documentation du produit
 title: Modifier l’étiquette Par défaut De courriel et De
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
