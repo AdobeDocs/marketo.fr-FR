@@ -3,9 +3,9 @@ unique-page-id: 10095453
 description: Modifier et supprimer des champs d'objet personnalisé du marketing - Documents marketing - Documentation du produit
 title: Modifier et supprimer des champs d'objet personnalisé du marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -49,14 +49,10 @@ Lorsque vous n’avez plus besoin d’un champ dans un objet personnalisé, vous
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
-1. C&#39;est parti !
+   C&#39;est parti !
 
    ![](assets/image2015-10-2-11-3a15-3a48.png)
 
    >[!NOTE]
    >
-   >**Articles connexes**
-   >
-   >
-   >[Ajouter les champs d&#39;objet personnalisé Marketo](add-marketo-custom-object-fields.md)
-
+   >[Ajouter les champs d&#39;objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
