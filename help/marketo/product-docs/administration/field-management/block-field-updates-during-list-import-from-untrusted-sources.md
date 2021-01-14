@@ -3,7 +3,7 @@ unique-page-id: 2360335
 description: Bloquer les mises à jour des champs pendant l'importation de Listes à partir de sources non approuvées - Documents marketing - Documentation du produit
 title: Bloquer les mises à jour des champs pendant l'importation de Listes à partir de sources non approuvées
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -41,10 +41,10 @@ Répétez les étapes ci-dessus pour tous les autres champs que vous souhaitez p
 
 ## Exécution d&#39;une importation de Liste non approuvée {#running-an-untrusted-list-import}
 
-1. Lors de l&#39;exécution de l&#39;importation de votre liste, veillez à sélectionner **Non approuvé **si vous souhaitez que tous les champs configurés à l&#39;étape précédente soient sûrs.
+1. Lors de l’exécution de l’importation de votre liste, veillez à sélectionner **Non approuvé** si vous souhaitez que tous les champs configurés à l’étape précédente soient sûrs.
 
    ![](assets/importpersondetails.jpg)
 
-Pour obtenir des instructions détaillées sur l’importation de listes, voir [Importation d’une Liste de personnes](../../../getting-started/quick-wins/import-a-list-of-people.md).
+Pour obtenir des instructions détaillées sur l’importation de listes, voir [Importation d’une Liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
 Bon travail ! Vous savez maintenant comment protéger les champs clés des listes non approuvées.
