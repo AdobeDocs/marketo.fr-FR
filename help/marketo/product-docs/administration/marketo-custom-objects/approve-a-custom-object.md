@@ -3,7 +3,7 @@ unique-page-id: 10094188
 description: Approuver un objet personnalisé - Documents marketing - Documentation du produit
 title: Approuver un objet personnalisé
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -33,16 +33,13 @@ Vous avez créé un nouvel objet personnalisé. Voici comment l&#39;approuver.
 
    >[!NOTE]
    >
-   >Un objet personnalisé utilisé dans une structure *de type &quot;un à plusieurs&quot;* doit comporter au moins un champ de déduplication, un champ de lien, un nom d’objet lié et un nom de champ lié à approuver.
+   >Un objet personnalisé utilisé dans une structure _de type &quot;un à plusieurs&quot;_ doit comporter au moins un champ de déduplication, un champ de lien, un nom d’objet lié et un nom de champ lié à approuver.
    >
+   >Un objet personnalisé utilisé dans une structure _plusieurs à plusieurs_ **n&#39;a pas besoin** d&#39;un champ de lien, d&#39;un nom d&#39;objet lié ou d&#39;un nom de champ lié lorsque vous l&#39;approuvez (car il réside dans l&#39;objet intermédiaire).
    >
-   >Un objet personnalisé utilisé dans une structure *plusieurs à plusieurs* **n&#39;a pas besoin** d&#39;un champ de lien, d&#39;un nom d&#39;objet lié ou d&#39;un nom de champ lié lorsque vous l&#39;approuvez (car il réside dans l&#39;objet intermédiaire).
+   >Un objet personnalisé utilisé en tant qu&#39;objet _intermédiaire_ nécessite un champ de lien, un nom d&#39;objet lié et un nom de champ lié, mais **ne nécessite pas** un champ de déduplication.
    >
-   >
-   >Un objet personnalisé utilisé en tant qu&#39;objet *intermédiaire* nécessite un champ de lien, un nom d&#39;objet lié et un nom de champ lié, mais **ne nécessite pas** un champ de déduplication.
-   >
-   >
-   >Voir [Présentation des objets personnalisés du marketing](understanding-marketo-custom-objects.md) pour plus d’informations.
+   >Voir [Présentation des objets personnalisés du marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) pour plus d’informations.
 
 C&#39;est tout ! Désormais, vous pouvez sélectionner votre objet personnalisé dans les contraintes de vos filtres et déclencheurs à utiliser dans vos campagnes.
 
@@ -61,4 +58,3 @@ Après avoir modifié un objet personnalisé approuvé, vous devez approuver le 
 1. Une prévisualisation affiche les éléments qui ont été modifiés dans le brouillon. Cliquez sur **Approuver**.
 
    ![](assets/six-1.png)
-
