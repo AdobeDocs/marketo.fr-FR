@@ -3,7 +3,7 @@ unique-page-id: 11378051
 description: Remplacer le domaine Principal des courriels - Documents marketing - Documentation du produit
 title: Remplacer le domaine Principal des courriers électroniques
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Vous pouvez remplacer le domaine de marque Principal par courriel. Cela changera
    >[!NOTE]
    >
    >Tous les utilisateurs ne sont pas autorisés à définir le domaine de marque par courriel. Contactez votre administrateur si vous ne voyez pas la liste déroulante Domaines de marque.
-
