@@ -3,7 +3,7 @@ unique-page-id: 10093690
 description: Modifier et supprimer un objet personnalisé de marketing - Documents marketing - Documentation du produit
 title: Modifier et supprimer un objet personnalisé marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Utilisez le menu Actions d’objet personnalisé pour modifier ou supprimer un o
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. Veillez à approuver [l’objet modifié](approve-a-custom-object.md).
+1. Veillez à approuver [l’objet modifié](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
 ## Supprimer un objet personnalisé {#delete-a-custom-object}
 
@@ -81,5 +81,4 @@ Il est facile de supprimer un objet personnalisé, mais il faut être prudent. L
 
 >[!MORELIKETHIS]
 >
->[Approuver un objet personnalisé](approve-a-custom-object.md)
-
+>[Approuver un objet personnalisé](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
