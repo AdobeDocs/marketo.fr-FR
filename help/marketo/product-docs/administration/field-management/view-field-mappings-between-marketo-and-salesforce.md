@@ -3,7 +3,7 @@ unique-page-id: 2360344
 description: Correspondances des champs de vue entre Marketo et Salesforce - Docs Marketo - Documentation sur les produits
 title: Correspondances des champs de vue entre Marketo et Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
