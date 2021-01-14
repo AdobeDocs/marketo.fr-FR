@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: Ajouter un domaine de marque supplémentaire avec des espaces de travail - Documents marketing - Documentation du produit
 title: Ajouter un domaine de marque supplémentaire avec des espaces de travail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Si vous disposez d’espaces de travail, vous pouvez ajouter d’autres domaines
 
 >[!PREREQUISITES]
 >
->Vous devez d&#39;abord [modifier votre domaine de marque par défaut](edit-your-default-branding-domain.md).
+>Vous devez d&#39;abord [modifier votre domaine de marque par défaut](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md).
 >
->Vous devez tout d&#39;abord [remplacer le lien de suivi générique](edit-your-default-branding-domain-with-workspaces.md) par un domaine de marque avant d&#39;ajouter d&#39;autres domaines de marque.
+>Vous devez tout d&#39;abord [remplacer le lien de suivi générique](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) par un domaine de marque avant d&#39;ajouter d&#39;autres domaines de marque.
 
-1. Accédez à **Admin **, puis cliquez sur **Courriel**.
+1. Accédez à **Admin** et cliquez sur **Courriel**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. Cliquez sur **Ajouter **pour ajouter un domaine de marque supplémentaire.
+1. Cliquez sur **Ajouter** pour ajouter un domaine de marque supplémentaire.
 
    ![](assets/branding-domains-add-workspaces.png)
 
@@ -40,4 +40,3 @@ Si vous disposez d’espaces de travail, vous pouvez ajouter d’autres domaines
 1. Sélectionnez le nouveau domaine de marque et cliquez sur **Enregistrer**.
 
    ![](assets/image2016-8-12-10-3a52-3a44.png)
-
