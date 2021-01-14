@@ -3,7 +3,7 @@ unique-page-id: 45417092
 description: Exportation utilisée par les données pour un champ - Documents marketing - Documentation du produit
 title: Exportation utilisée par les données pour un champ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -42,4 +42,3 @@ En tant qu’administrateur, vous pouvez exporter des actifs connexes d’un cha
    >[!TIP]
    >
    >Chaque ressource associée est un lien sur lequel vous pouvez cliquer et qui s’ouvre dans Marketing Cloud.
-
