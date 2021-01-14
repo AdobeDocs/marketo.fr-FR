@@ -3,9 +3,9 @@ unique-page-id: 6848782
 description: Rendre votre message de désabonnement dynamique pour les langues - Documents marketing - Documentation du produit
 title: Rendre votre message de désabonnement dynamique pour les langues
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,19 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 >
 >Nous avons mis en place ce joli petit tutoriel ci-dessous pour vous. Il s&#39;agit d&#39;une bonne pratique, mais cela peut se faire autrement.
 
-1. Préparation de vos données
-1. [Créez un ](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)champ personnalisé nommé &quot;Langue préférée&quot;. (Configurez-le dans votre gestion de la relation client si vous souhaitez que ce champ soit synchronisé).
+## Préparer vos données {#prepare-your-data}
+
+1. [Créez un ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) champ personnalisé nommé &quot;Langue préférée&quot;. (Configurez-le dans votre gestion de la relation client si vous souhaitez que ce champ soit synchronisé).
 
    >[!TIP]
    >
-   >Dans le futur, utilisez ce champ lorsque vous [créez un formulaire](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) pour capturer les préférences de langue.
+   >Dans le futur, utilisez ce champ lorsque vous [créez un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) pour capturer les préférences de langue.
 
-1. Créer une segmentation
+## Créer une segmentation {#create-segmentation}
+
 1. Accédez à la **base de données**.
-** ![](assets/db.png)
 
-   **
+   ![](assets/db.png)
 
 1. Dans la liste déroulante **New**, cliquez sur **Nouvelle segmentation**.
 
@@ -64,16 +65,15 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
-1. Création d’un extrait de code
+## Créer un extrait de code {#create-a-snippet}
+
 1. Accédez à **Design Studio**.
 
    ![](assets/ds.png)
 
 1. Dans la liste déroulante **New**, cliquez sur **New Snippet**.
 
-   ** ![](assets/ten.png)
-
-   **
+   ![](assets/ten.png)
 
 1. Nommez le fragment **Message de désabonnement**. Cliquez sur **Créer**.
 
@@ -83,7 +83,7 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Copiez et collez ce jeton : **`{{system.unsubscribeLink}}`** dans le champ **URL du lien**. Cliquez sur **Insérer**.
+1. Copiez et collez ce jeton : `{{system.unsubscribeLink}}` dans le champ **URL du lien**. Cliquez sur **Insérer**.
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
@@ -99,7 +99,7 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Copiez et collez le même jeton : **`{{system.unsubscribeLink}}`** dans le champ **URL du lien**. Cliquez sur **Insérer**.
+1. Copiez et collez le même jeton : `{{system.unsubscribeLink}}` dans le champ **URL du lien**. Cliquez sur **Insérer**.
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
@@ -109,7 +109,8 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    Super. Presque là.
 
-1. Utiliser un extrait de code dans un courrier électronique
+## Utiliser un extrait de code dans un courrier électronique {#use-snippet-in-an-email}
+
 1. Dans l’éditeur de courrier électronique, cliquez sur l’élément modifiable. Cliquez ensuite sur l’icône d’engrenage et sélectionnez **Remplacer par un fragment**. Si vous sélectionnez un élément de fragment modifiable, cliquez sur l’icône d’engrenage et sélectionnez **Modifier**.
 
    ![](assets/4.1.png)
@@ -134,27 +135,27 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
    >
    >Bien sûr, vous pouvez également modifier le reste de votre courrier électronique pour une langue dynamique. Pendant que vous y êtes, effectuez la même technique sur la page de désabonnement.
 
-1. Personnalisation de votre page de désabonnement avec du contenu dynamique
+## Personnalisation de votre page de désabonnement avec du contenu dynamique {#customizing-your-unsubscribe-page-with-dynamic-content}
 
-   Si vous souhaitez que vos utilisateurs consultent une page de désabonnement dans la langue de leur choix, vous pouvez utiliser du contenu dynamique sur le landing page et la page de confirmation.
+Si vous souhaitez que vos utilisateurs consultent une page de désabonnement dans la langue de leur choix, vous pouvez utiliser du contenu dynamique sur le landing page et la page de confirmation.
 
-   Accédez à Design Studio.
+1. Accédez à Design Studio.
 
    ![](assets/ds.png)
 
-   Tapez Désabonner dans le champ de recherche. Vous devriez trouver vos pages de désabonnement.
+1. Tapez _Désabonner_ dans le champ de recherche. Vous devriez trouver vos pages de désabonnement.
 
    ![](assets/image2015-3-9-8-3a51-3a53.png)
 
-   Cliquez sur Modifier le brouillon.
+1. Cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2015-3-9-8-3a52-3a23.png)
 
-   Sélectionnez Segmenter par.
+1. Sélectionnez **Segmenter par**.
 
    ![](assets/image2015-3-9-8-3a52-3a57.png)
 
-   Recherchez le segment Langue préférée. Cliquez sur Enregistrer.
+1. Recherchez le segment Langue préférée. Cliquez sur **Enregistrer**.
 
    ![](assets/image2015-3-9-8-3a53-3a54.png)
 
@@ -162,8 +163,4 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    >[!NOTE]
    >
-   >**Plongée profonde**
-   >
-   >
-   >En savoir plus sur [le contenu dynamique](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) et toutes les choses intéressantes que vous pouvez faire.
-
+   >En savoir plus sur [le contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) et toutes les choses intéressantes que vous pouvez faire.
