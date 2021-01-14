@@ -3,7 +3,7 @@ unique-page-id: 10100275
 description: Ajouter/modifier/supprimer des champs d'Activité personnalisée du marketing vers les documents marketing - Documentation du produit
 title: Ajouter/modifier/supprimer des champs d'Activité personnalisée du marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
    >[!TIP]
    >
-   >Vous ne savez pas trop quoi sélectionner ? Nous vous avons couvert ! Tous les types de données disponibles sont définis dans [cet article](../../../product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Vous ne savez pas trop quoi sélectionner ? Nous vous avons couvert ! Tous les types de données disponibles sont définis dans [cet article](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Attribuez un nom au champ. Le nom de l’API est renseigné automatiquement. Lorsque vous avez terminé, cliquez sur **Enregistrer**.
 
@@ -94,4 +94,3 @@ Votre champ est maintenant modifié !
    ![](assets/thirteen.png)
 
    C&#39;est si facile !
-
