@@ -3,9 +3,9 @@ unique-page-id: 2360331
 description: Modifier le type d'un champ personnalisé de marketing - Documents marketing - Documentation du produit
 title: Modification du type d’un champ personnalisé de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Voici comment modifier le type de champ d’un champ personnalisé.
 
-1. Accédez à **Admin **et cliquez sur **Gestion des champs**.
+1. Accédez à **Admin** et cliquez sur **Gestion des champs**.
 
    ![](assets/image2014-9-18-13-3a4-3a39.png)
 
@@ -35,7 +35,7 @@ Voici comment modifier le type de champ d’un champ personnalisé.
 
    ![](assets/image2015-4-22-9-3a39-3a3.png)
 
-1. Lisez l&#39;avertissement, puis cliquez sur **Modifier **pour confirmer.
+1. Lisez l’avertissement, puis cliquez sur **Modifier** pour confirmer.
 
    ![](assets/image2014-9-18-13-3a5-3a23.png)
 
@@ -43,13 +43,6 @@ Voici comment modifier le type de champ d’un champ personnalisé.
    >
    >Le message d’avertissement qui s’affiche varie en fonction du type de champ que vous changez de/vers.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Créer un champ personnalisé dans Marketo](create-a-custom-field-in-marketo.md)
-
-
-Votre champ personnalisé est désormais d’un type différent. Hourra !
+   >[Créer un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
