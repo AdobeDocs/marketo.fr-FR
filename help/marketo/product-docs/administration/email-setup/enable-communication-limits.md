@@ -3,9 +3,9 @@ unique-page-id: 2360222
 description: Activer les limites de communication - Documents marketing - Documentation du produit
 title: Activer les limites de communication
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,12 @@ Il est très important de ne pas trop communiquer avec votre peuple. La définit
 1. Sous **Admin**, cliquez sur **Limites de communication**.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
-Cliquez sur Modifier.
+
+1. Cliquez sur **Modifier**.
+
    ![](assets/image2014-9-18-15-3a53-3a47.png)
 
    >[!NOTE]
-   >
    >
    >Par jour est basé sur le jour calendaire dans le fuseau horaire de l&#39;abonnement (minuit-minuit).
 
@@ -48,7 +49,7 @@ Cliquez sur Modifier.
 
    >[!NOTE]
    >
-   >Pour en savoir plus sur ce que [les courriels opérationnels](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) sont.
+   >Pour en savoir plus sur ce que [les courriels opérationnels](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) sont.
 
 1. Cliquez sur **Enregistrer**.
 
@@ -58,15 +59,12 @@ Cliquez sur Modifier.
    >
    >**Exemple**
    >
-   >
    >Les paramètres ci-dessus signifient que les utilisateurs ne recevront pas plus de **1 courriel par jour** ou plus de **5 au cours d’une période de sept jours**.
 
    >[!NOTE]
-   >
    >
    >Les limites de communication s’appliquent automatiquement à tous les programmes de messagerie et d’engagement.
 
 >[!MORELIKETHIS]
 >
->[Appliquer des limites de communication à la Campaign intelligente](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-
+>[Appliquer des limites de communication à la Campaign intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
