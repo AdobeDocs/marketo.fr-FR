@@ -3,7 +3,7 @@ unique-page-id: 2360337
 description: Création et utilisation d’un champ de chaîne concaténée (formule) - Documents marketing - Documentation du produit
 title: Créer et utiliser un champ de chaîne concaténée (formule)
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une val
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   En savoir plus sur les [jetons pour les étapes de flux](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   En savoir plus sur les [jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Vous pouvez désormais ajouter le champ de formule en tant que jeton dans un courrier électronique.
 
@@ -50,4 +50,3 @@ Bon travail ! Maintenant vous avez un champ intelligent qui sait quelle formule 
 >[!NOTE]
 >
 >Les champs de formule peuvent être utilisés dans des colonnes de landings page, de courriers électroniques et de listes dynamiques ; ils ne sont pas exportés. Les courriers électroniques contenant des champs de formule ne peuvent pas être envoyés par le biais de campagnes par lots.
-
