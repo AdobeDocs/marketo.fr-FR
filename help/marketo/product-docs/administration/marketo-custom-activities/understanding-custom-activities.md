@@ -3,9 +3,9 @@ unique-page-id: 10100266
 description: Présentation des Activités personnalisées - Documentation sur le marketing - Documentation sur les produits
 title: Présentation des Activités personnalisées
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -27,14 +27,14 @@ Les activités personnalisées vous aident à effectuer le suivi d’une activit
 >
 >Les activités personnalisées diffèrent des objets personnalisés. Utilisez des objets personnalisés lorsque la valeur peut changer (c.-à-d. La couleur de la voiture passe du bleu au rouge). Utilisez des activités personnalisées lors du suivi des moments qui se sont produits et leurs détails ne peuvent pas être modifiés (ex. &quot;voiture achetée&quot;).
 
-**** ChampsVous pouvez ajouter des champs  [ ](https://docs.marketo.com/x/Mx6a) supplémentaires que vous souhaitez associer à votre activité. Comme le champ Principal, ils peuvent être utilisés comme critères de filtrage dans une liste intelligente.
+**** ChampsVous pouvez ajouter des champs  [ ](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) supplémentaires que vous souhaitez associer à votre activité. Comme le champ Principal, ils peuvent être utilisés comme critères de filtrage dans une liste intelligente.
 
 **Prise en main**
 
 Les activités personnalisées fonctionnent comme les activités standard. Leur configuration est toutefois un processus en deux parties.
 
-Étape 1 : [Créer une activité personnalisée](create-a-custom-activity.md) dans votre compte Marketo
+Étape 1 : [Créer une activité personnalisée](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) dans votre compte Marketo
 
-Étape 2 : L’employé de votre organisation qui travaille avec notre API peut alors commencer l’implémentation. Vous trouverez plus d&#39;informations ici : [API d’Activité personnalisée](http://developers.marketo.com/documentation/rest/add-custom-activities/)
+Étape 2 : L’employé de votre organisation qui travaille avec notre API peut alors commencer l’implémentation. Vous trouverez plus d&#39;informations ici : [API d’Activité personnalisée](https://developers.marketo.com/documentation/rest/add-custom-activities/)
 
 Amuse-toi bien !
