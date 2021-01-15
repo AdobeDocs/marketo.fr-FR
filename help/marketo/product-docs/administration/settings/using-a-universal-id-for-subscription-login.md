@@ -3,7 +3,7 @@ unique-page-id: 10100311
 description: Utilisation d’un ID universel pour la connexion à l’Abonnement - Documents marketing - Documentation du produit
 title: Utilisation d’un ID universel pour la connexion à un Abonnement
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -66,4 +66,3 @@ Si vous avez plusieurs abonnements, vous pouvez avoir plusieurs profils de commu
 ## Plateforme mobile {#mobile-platform}
 
 Les utilisateurs disposant d’un ID universel peuvent consulter leurs données sur les moments marketing et l’application d’enregistrement de événement iPad depuis l’abonnement sur lequel ils se sont connectés pour la dernière fois. Vous ne pouvez pas modifier les abonnements à partir de la plate-forme mobile elle-même.
-
