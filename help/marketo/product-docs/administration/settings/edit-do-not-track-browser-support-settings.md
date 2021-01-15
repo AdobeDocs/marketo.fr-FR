@@ -3,9 +3,9 @@ unique-page-id: 6095047
 description: Modifier les paramètres de prise en charge du navigateur - Documents marketing - Documentation du produit
 title: Modifier les paramètres de prise en charge du navigateur "Ne pas suivre"
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >Par défaut, l’option &quot;Ne pas effectuer de suivi&quot; est définie sur Ignorer. Par conséquent, si c’est ce que vous souhaitez, vous n’aurez pas à effectuer de suivi.
 
-1. Cliquez sur** Admin**.
+1. Cliquez sur **Admin**.
 
    ![](assets/one.png)
 
@@ -36,7 +36,8 @@ ht-degree: 0%
    ![](assets/three-2.png)
 
 1. Sélectionnez **Support** et cliquez sur **Enregistrer**.
-1. ![](assets/four-1.png)
+
+   ![](assets/four-1.png)
 
    Après avoir enregistré les modifications, vous verrez la mise à jour.
 
@@ -49,4 +50,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >Pour en savoir plus sur &quot;Ne pas suivre&quot; et sur son fonctionnement, veuillez visiter [cette page](https://en.wikipedia.org/wiki/Do_Not_Track).
-
