@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: Suppression d’un Canal de Programme - Documents marketing - Documentation du produit
 title: Suppression d’un Canal de Programme
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Les canaux de programme sont un ensemble d&#39;états ou de pistes de points de 
 
 Si vous en faites un par accident ou si vous n&#39;en avez plus besoin, vous pouvez le supprimer.
 
-1. Accédez à la section** Admin**.
+1. Accédez à la section **Admin**.
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
@@ -33,13 +33,4 @@ Si vous en faites un par accident ou si vous n&#39;en avez plus besoin, vous pou
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-Bam ! Vous pouvez également [supprimer des états spécifiques des canaux](delete-a-program-status-from-a-program-channel.md).
-
->[!MORELIKETHIS]
->
->* [Supprimer un état de Programme d&#39;un Canal de Programme](delete-a-program-status-from-a-program-channel.md)
-
->
-
-
-
+Bam ! Vous pouvez également [supprimer des états spécifiques des canaux](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
