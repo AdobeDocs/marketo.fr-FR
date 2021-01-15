@@ -3,7 +3,7 @@ unique-page-id: 2360211
 description: Activer l'autorisation d'importation avancée de Liste sur un rôle - Documents marketing - Documentation du produit
 title: Activer l'autorisation d'importation avancée de Liste sur un rôle
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Le mode d’importation de liste est disponible uniquement pour les utilisateurs
 
    ![](assets/image2014-9-17-11-3a50-3a38.png)
 
-1. Sous l&#39;onglet **Rôles **, sélectionnez le rôle à modifier, puis cliquez sur **Modifier le rôle**.
+1. Sous l&#39;onglet **Rôles**, sélectionnez le rôle à modifier et cliquez sur **Modifier le rôle**.
 
    ![](assets/image2014-9-17-11-3a51-3a49.png)
 
