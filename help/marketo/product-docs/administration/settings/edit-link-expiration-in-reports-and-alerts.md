@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: Modifier l’expiration des liens dans les rapports et alertes - Documents marketing - Documentation du produit
 title: Modifier l’expiration des liens dans les rapports et alertes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,4 @@ Cool, vous avez modifié les paramètres d&#39;expiration des liens de courriel.
 
 >[!NOTE]
 >
->**Rappel**
->
 >N’oubliez pas que ces règles ne s’appliquent qu’aux liens des rapports et alertes, et non aux courriels marketing.
-
