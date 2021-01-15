@@ -3,9 +3,9 @@ unique-page-id: 2360315
 description: Créer une partition de personne - Documents marketing - Documentation du produit
 title: Créer une partition de personne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ Créez une nouvelle partition de personnes en suivant ces étapes.
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->Commencez par [Comprendre les espaces de travail et les partitions de personne](understanding-workspaces-and-person-partitions.md).
+>Commencez par [Comprendre les espaces de travail et les partitions de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!CAUTION]
 >
->Les partitions personnelles peuvent être complexes. Pour obtenir de l&#39;aide sur leur configuration, contactez le [support marketing](http://support.marketo.com/).
+>Les partitions personnelles peuvent être complexes. Contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support) pour obtenir de l&#39;aide sur leur configuration.
 
-1. Sous Admin, sélectionnez Espaces de travail et partitions.
+1. Sous Admin, sélectionnez **Espaces de travail et partitions**.
 
 ![](assets/image2014-9-17-11-3a32-3a12.png)
 
@@ -37,7 +35,7 @@ Créez une nouvelle partition de personnes en suivant ces étapes.
 
    ![](assets/two-2.png)
 
-1. Nommez votre partition, choisissez **Espace(s) de travail** où elle apparaîtra, puis cliquez sur **Créer.**
+1. Nommez votre partition, choisissez **Espace(s) de travail** où elle apparaîtra, puis cliquez sur **Créer**.
 
    ![](assets/three-2.png)
 
@@ -46,4 +44,3 @@ Créez une nouvelle partition de personnes en suivant ces étapes.
    ![](assets/four-2.png)
 
    Voilà ! Vous savez maintenant comment créer une partition de personne.
-
