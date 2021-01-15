@@ -3,9 +3,9 @@ unique-page-id: 2950660
 description: Créer des balises personnalisées - Documents marketing - Documentation du produit
 title: Créer des balises personnalisées
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Les balises vous aideront à organiser vos programmes tandis que les canaux vous
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->Pour plus d&#39;informations, consultez [Présentation des balises](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
+>Pour plus d&#39;informations, consultez [Présentation des balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
 
 >[!NOTE]
 >
