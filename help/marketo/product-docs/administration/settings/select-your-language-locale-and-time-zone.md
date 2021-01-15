@@ -3,9 +3,9 @@ unique-page-id: 2359904
 description: Sélectionnez votre langue, langue et fuseau horaire - Documents marketing - Documentation du produit
 title: Sélectionner votre langue, langue et fuseau horaire
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ L&#39;anglais n&#39;est pas ta première langue ? Ne vous inquiétez pas, nous v
 
 ## Modifier la langue de l’utilisateur, les paramètres régionaux et le fuseau horaire {#change-user-language-locale-and-time-zone}
 
-1. Connectez-vous au marketing et sélectionnez Mon compte sous votre nom.
+1. Connectez-vous à Marketing et sous votre nom sélectionnez **Mon compte**.
 
    ![](assets/myaccount.png)
 
-1. Sous Mon compte, cliquez sur Modifier les paramètres d’emplacement.
+1. Sous Mon compte, cliquez sur **Modifier les paramètres d’emplacement**.
 
    ![](assets/image2014-9-9-11-3a9-3a47.png)
 
-1. Modifiez votre langue.
+1. Modifiez votre **langue**.
 
    ![](assets/image2014-9-9-11-3a10-3a4.png)
 
@@ -42,15 +42,15 @@ L&#39;anglais n&#39;est pas ta première langue ? Ne vous inquiétez pas, nous v
    >
    >Vous avez également la possibilité de modifier uniquement votre langue en cliquant sur la liste déroulante des langues en haut de la page de connexion.
 
-1. Modifiez votre langue.
+1. Modifiez votre **paramètre régional**.
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-1. Modifiez votre fuseau horaire.
+1. Modifiez votre **fuseau horaire**.
 
    ![](assets/image2014-9-9-11-3a10-3a56.png)
 
-1. Cliquez sur Enregistrer.
+1. Cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-9-11-3a11-3a18.png)
 
