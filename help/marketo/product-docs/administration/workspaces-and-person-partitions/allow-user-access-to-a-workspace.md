@@ -3,9 +3,9 @@ unique-page-id: 2360325
 description: Autoriser l’utilisateur à accéder à un espace de travail - Documents marketing - Documentation du produit
 title: Autoriser l’accès utilisateur à un espace de travail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ Les espaces de travail peuvent être utilisés pour n’importe quelle raison (p
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->En savoir plus sur les [espaces de travail](understanding-workspaces-and-person-partitions.md).
+>En savoir plus sur les [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Sous Admin, cliquez sur Utilisateurs et rôles.
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. Sous l&#39;onglet **Utilisateurs **, sélectionnez l&#39;utilisateur et cliquez sur **Modifier l&#39;utilisateur**.
+1. Sous l&#39;onglet **Utilisateurs**, sélectionnez l&#39;utilisateur et cliquez sur **Modifier l&#39;utilisateur**.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
@@ -45,5 +43,4 @@ Les espaces de travail peuvent être utilisés pour n’importe quelle raison (p
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-   Super ! Désormais, lorsqu’ils se connectent, ils voient tous les espaces de travail auxquels vous leur avez donné accès.
-
+Super ! Désormais, lorsqu’ils se connectent, ils voient tous les espaces de travail auxquels vous leur avez donné accès.
