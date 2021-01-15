@@ -3,7 +3,7 @@ unique-page-id: 2360307
 description: Activation ou désactivation des fonctionnalités du coffre à trésors - Documents marketing - Documentation du produit
 title: Activation ou désactivation des fonctionnalités du coffre à trésors
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Le coffre au trésor contient des fonctions expérimentales amusantes qui ne son
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Admin **cliquez sur **Poitrine de trésor**.
+1. Sous **Admin** cliquez sur **Poitrine de trésor**.
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
@@ -33,6 +33,4 @@ Le coffre au trésor contient des fonctions expérimentales amusantes qui ne son
 
    >[!TIP]
    >
-   >
    >Vous devrez peut-être vous déconnecter puis vous reconnecter à Marketo pour que les modifications prennent effet.
-
