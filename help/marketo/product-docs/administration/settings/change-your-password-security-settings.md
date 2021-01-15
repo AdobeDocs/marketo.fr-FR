@@ -3,9 +3,9 @@ unique-page-id: 2360185
 description: Modifier vos paramètres de protection par mot de passe - Documents marketing - Documentation du produit
 title: Modifier les paramètres de protection par mot de passe
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,6 @@ Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment.
 
    >[!NOTE]
    >
-   >**Définition**
-   >
-   >
    >Un modèle n&#39;est qu&#39;une configuration prédéfinie. Le standard est bon. La haute sécurité est la plus forte. Personnalisé vous permet de créer les vôtres.
 
    ![](assets/passwordstrength.png)
@@ -42,11 +39,11 @@ Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment.
    >
    >Dans **Personnalisé**, cochez les cases pour indiquer les caractéristiques que les utilisateurs doivent inclure lorsqu&#39;ils créent des mots de passe.
 
-1. Définissez l&#39;**expiration**.** **Cette fonctionnalité nécessite automatiquement que les utilisateurs réinitialisent leurs mots de passe après un certain temps. Cela inclut également l’utilisateur administrateur.
+1. Définissez l&#39;**expiration**. Cette fonctionnalité nécessite que les utilisateurs réinitialisent automatiquement leurs mots de passe après un certain temps. Cela inclut également l’utilisateur administrateur.
 
    >[!CAUTION]
    >
-   >Les utilisateurs existants ne seront pas informés des modifications. Définissez d&#39;abord **Expiration **sur 30 jours pour vous assurer que tout le monde a mis à jour les nouveaux paramètres, puis redéfinissez cette date sur votre cadence d&#39;origine.
+   >Les utilisateurs existants ne seront pas informés des modifications. Définissez d’abord **Expiration** sur 30 jours pour vous assurer que tout le monde a mis à jour les nouveaux paramètres, puis revenez à votre cadence d’origine.
 
    ![](assets/expiration.png)
 
@@ -55,4 +52,3 @@ Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment.
    ![](assets/inactivesession.png)
 
    La sécurité est une affaire sérieuse. Nous t&#39;avons récupéré.
-
