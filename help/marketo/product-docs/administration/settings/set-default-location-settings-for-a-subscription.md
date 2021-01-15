@@ -3,7 +3,7 @@ unique-page-id: 2359902
 description: Définir les paramètres d'emplacement par défaut pour un Abonnement - Documents marketing - Documentation du produit
 title: Définir les paramètres d’emplacement par défaut pour un Abonnement
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,9 +21,9 @@ Cet article décrit comment un administrateur peut vue et modifier les paramètr
 
 ## Définir les paramètres d’emplacement par défaut pour un Abonnement {#set-default-location-settings-for-a-subscription-1}
 
-Lorsqu’un administrateur modifie les paramètres d’emplacement par défaut, les utilisateurs nouvellement créés héritent de ces paramètres. Les utilisateurs peuvent toujours [modifier leur langue, leurs paramètres régionaux et leurs préférences de fuseau horaire](select-your-language-locale-and-time-zone.md) dans leurs comptes individuels.
+Lorsqu’un administrateur modifie les paramètres d’emplacement par défaut, les utilisateurs nouvellement créés héritent de ces paramètres. Les utilisateurs peuvent toujours [modifier leur langue, leurs paramètres régionaux et leurs préférences de fuseau horaire](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) dans leurs comptes individuels.
 
-1. Sous **Admin**,** **cliquez sur **Emplacement**.
+1. Sous **Admin**, cliquez sur **Emplacement**.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
@@ -43,7 +43,7 @@ Lorsqu’un administrateur modifie les paramètres d’emplacement par défaut, 
 
    >[!NOTE]
    >
-   >Marketo Sales Insight for [Salesforce.com](http://salesforce.com/) prend en charge le français, l’allemand, le japonais, le portugais et l’espagnol.
+   >Marketo Sales Insight for [Salesforce.com](https://salesforce.com/) prend en charge le français, l’allemand, le japonais, le portugais et l’espagnol.
 
 ## Définir les paramètres de devise par défaut pour un Abonnement {#set-the-default-currency-settings-for-a-subscription}
 
@@ -61,9 +61,5 @@ Si vous modifiez les paramètres régionaux par défaut de vos utilisateurs, vou
 
 >[!MORELIKETHIS]
 >
->* [Sélectionner votre langue, langue et fuseau horaire](select-your-language-locale-and-time-zone.md)
-
->
-
-
+>* [Sélectionner votre langue, langue et fuseau horaire](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
 
