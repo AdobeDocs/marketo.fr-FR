@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Présentation des espaces de travail et des partitions de personne - Documents marketing - Documentation du produit
 title: Présentation des espaces de travail et des partitions de personne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Les espaces de travail peuvent être complexes à configurer.  Contactez le [Support marketing](http://support.marketo.com/) pour savoir s&#39;ils vous conviennent.
+>Les espaces de travail peuvent être complexes à configurer. Contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils vous conviennent.
 
 Les espaces de travail sont des zones distinctes du marché qui contiennent des actifs marketing tels que des programmes, des landings page, des courriers électroniques, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque utilisateur a accès à un ou plusieurs espaces de travail.
 
@@ -36,9 +36,7 @@ Dans chaque cas, la séparation est due au fait que les actifs marketing sont co
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->Découvrez comment créer [un nouvel espace de travail](create-a-new-workspace.md).
+>Découvrez comment créer [un nouvel espace de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Partage entre espaces de travail {#sharing-across-workspaces}
 
@@ -78,8 +76,8 @@ Vous pouvez partager ces éléments dans les espaces de travail.
 * Modèles de landing page
 * Modèles
 * Campagnes dynamiques
-* [Listes intelligentes](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [Segments](share-segmentations-across-workspaces-and-partitions.md)
+* [Listes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* [Segments](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * Extraits de code
 
 ## Clonage entre les espaces de travail {#cloning-across-workspaces}
@@ -105,7 +103,7 @@ Pour déplacer des fichiers vers un nouvel espace de travail, placez-les dans un
 
 ## Partitions de personne {#person-partitions}
 
-Les partitions de personne agissent comme des bases de données distinctes. Chaque partition a ses propres personnes qui ne dédupliquent pas ou ne se mélangent pas avec d&#39;autres partitions. Si vous estimez que vous avez un cas d&#39;utilisation commerciale qui peut nécessiter l&#39;utilisation d&#39;enregistrements de duplicata avec la même adresse électronique, veuillez contacter le [Support marketing](http://support.marketo.com).
+Les partitions de personne agissent comme des bases de données distinctes. Chaque partition a ses propres personnes qui ne dédupliquent pas ou ne se mélangent pas avec d&#39;autres partitions. Si vous estimez que vous avez un cas d&#39;utilisation commerciale qui peut nécessiter l&#39;utilisation d&#39;enregistrements de duplicata avec la même adresse électronique, veuillez contacter le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Vous pouvez affecter des partitions de personne à [espaces de travail](create-a-new-workspace.md) dans les configurations suivantes :
 
@@ -115,15 +113,10 @@ Vous pouvez affecter des partitions de personne à [espaces de travail](create-a
 
 >[!NOTE]
 >
->**Exemple**
->
 >Raisons pour lesquelles vous utiliseriez une partition de personne :
 >
 >* Vos espaces de travail ont non seulement des ressources différentes, mais ils ne partagent pas non plus de personnes.
 >* Vous voulez des duplicata pour d&#39;autres raisons commerciales
-
->
-
 
 
 >[!CAUTION]
@@ -132,7 +125,4 @@ Vous pouvez affecter des partitions de personne à [espaces de travail](create-a
 
 >[!NOTE]
 >
->**Plongée profonde**
->
-> Découvrez comment [créer une partition de personne](create-a-person-partition.md).
-
+>Découvrez comment [créer une partition de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
