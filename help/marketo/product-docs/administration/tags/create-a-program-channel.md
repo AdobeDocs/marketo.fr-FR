@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: Création d’un Canal de Programme - Documents marketing - Documentation du produit
 title: Création d’un Canal de Programme
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Un programme est une initiative marketing spécifique. Le canal est destiné à 
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->En savoir plus sur [programmes](http://docs.marketo.com/display/docs/programs), l&#39;élément le plus important de Marketo.
+>En savoir plus sur [programmes](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), l&#39;élément le plus important de Marketo.
 
 1. Sous la section **Admin**, cliquez sur **Balises**.
 
@@ -45,27 +43,20 @@ Un programme est une initiative marketing spécifique. Le canal est destiné à 
    >
    >**Exemple**
    >
-   >
    >Canal : Panneau
    >
-   >    
-   >    
-   >    * Appliquer à : Par défaut
-   >    * Progression : Membre, engagé (en cas de doute, cela fonctionne bien)
-   >    * Succès : Engagé
+   >* Appliquer à : Par défaut
+   >* Progression : Membre, engagé (en cas de doute, cela fonctionne bien)
+   >* Succès : Engagé
 
-   >    
-   >    
+   >
    >Canal : Parti
    >
-   >    
-   >    
-   >    * Appliquer à : Événement
-   >    * Progression : Invité, enregistré, sans affichage et assisté
-   >    * Succès : Participant
+   >* Appliquer à : Événement
+   >* Progression : Invité, enregistré, sans affichage et assisté
+   >* Succès : Participant
 
-   >    
-   >    
+   >
    >Consultez les Progressions des canaux existants pour savoir comment les utiliser.
 
 1. Prenons l&#39;exemple du canal du Parti. Nommez votre nouveau **Canal** et sélectionnez le type de programme auquel il s’appliquera.
@@ -113,10 +104,7 @@ Un programme est une initiative marketing spécifique. Le canal est destiné à 
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >Seules les personnes disposant d&#39;un **statut d&#39;arrivée mobile**** **de **Enregistré** et **Participé** seront visibles dans les [applications d&#39;arrivée mobile](http://docs.marketo.com/display/docs/events).
+   >Seules les personnes disposant d&#39;un **statut d&#39;arrivée mobile** de **Enregistré** et **Participé** seront visibles dans les [applications d&#39;arrivée mobile](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
@@ -127,4 +115,3 @@ Un programme est une initiative marketing spécifique. Le canal est destiné à 
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
    Bien joué ! Lorsque vous créez un nouveau programme de ce type, ce nouveau canal sera l&#39;un des choix possibles.
-
