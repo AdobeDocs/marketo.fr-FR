@@ -3,7 +3,7 @@ unique-page-id: 2360305
 description: Création d'un onglet personnalisé pour la page Détails de la personne - Documents marketing - Documentation du produit
 title: Création d’un onglet personnalisé pour la page Détails de la personne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -35,10 +35,10 @@ Si vous recherchez un ensemble spécifique de champs dans les détails de la per
    >
    >Vous avez deux colonnes à utiliser.
 
-   Si vous décidez de supprimer un champ, cliquez avec le bouton droit de la souris sur le champ à supprimer, puis cliquez sur Supprimer.
+   Si vous décidez de supprimer un champ, cliquez avec le bouton droit de la souris sur le champ à supprimer, puis cliquez sur **Supprimer**.
+
    ![](assets/image2014-9-16-16-3a43-3a56.png)
 
    Un travail formidable ! Désormais, lorsque vous chargez les détails d’une personne, vous pouvez utiliser votre mise en page personnalisée pour accéder aux informations qui vous importent.
 
    ![](assets/six-1.png)
-
