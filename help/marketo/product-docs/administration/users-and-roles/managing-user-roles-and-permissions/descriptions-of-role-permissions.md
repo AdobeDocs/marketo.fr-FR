@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Descriptions des autorisations de rôle - Documents marketing - Documentation du produit
 title: Descriptions des autorisations de rôle
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '1154'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Informations supplémentaires sur les autorisations :
 
 ## Autorisations disponibles {#available-permissions}
 
-Lorsque vous [créez ou modifiez un rôle](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), vous pouvez sélectionner les autorisations suivantes pour autoriser ce rôle en cochant les cases appropriées.
+Lorsque vous [créez ou modifiez un rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), vous pouvez sélectionner les autorisations suivantes pour autoriser ce rôle en cochant les cases appropriées.
 
 ![](assets/createnewrole.png)
 
@@ -35,7 +35,7 @@ Vue et modification des paramètres dans la section Mon compte de l’administra
 * Canaux d&#39;accès : donne aux utilisateurs l&#39;accès uniquement à la modification de la balise de Canal, et non à d&#39;autres balises personnalisées.
 * Limite de communication d’accès : donne aux utilisateurs l’accès pour activer une limite de communication dans Admin
 * Access CRM - Donne aux utilisateurs l&#39;accès à la gestion de la relation client, telle que Salesforce ou Microsoft Dynamics, dans Admin
-* Accès [Data.com](http://Data.com) : donne aux utilisateurs l’accès à l’action de flux Data.com
+* Accès [Data.com](https://Data.com) : donne aux utilisateurs l’accès à l’action de flux Data.com
 * Accès à l’administrateur des courriels : permet aux utilisateurs d’accéder à l’administrateur des courriels afin de modifier les paramètres par défaut, tels que l’annulation de l’abonnement et l’identité graphique des domaines.
 * Partenaires de Événement d&#39;accès - Donne aux utilisateurs l&#39;accès à LaunchPoint dans l&#39;administration
 * Gestion des champs d’accès - Donne aux utilisateurs l’accès à la gestion des champs dans l’administration
@@ -105,14 +105,12 @@ Donne aux utilisateurs l&#39;accès aux présentations Calendrier ? ?- permet l&
 Donne aux utilisateurs l’accès à l’onglet Design Studio et à la vue de l’arborescence, mais pas aux détails.
 
 * Courriel d&#39;accès
-
    * Modifier le courrier électronique : permet aux utilisateurs de modifier, créer et cloner des courriers électroniques.
+      * Optimiser le courrier électronique : permet aux utilisateurs de rendre un courrier électronique opérationnel. Voir : [Optimiser un courriel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * Optimiser le courrier électronique : permet aux utilisateurs de rendre un courrier électronique opérationnel. Voir : [Optimiser un courriel](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
-   * Approuver le courrier électronique : permet aux utilisateurs d&#39;approuver les courriers électroniques.
-   * Supprimer un courrier électronique : permet aux utilisateurs de supprimer des courriers électroniques.
-   * Définir un domaine de marque : permet aux utilisateurs de travailler avec des domaines de marque. Voir : [Ajouter plusieurs domaines de marque](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
-
+      * Approuver le courrier électronique : permet aux utilisateurs d&#39;approuver les courriers électroniques.
+      * Supprimer un courrier électronique : permet aux utilisateurs de supprimer des courriers électroniques.
+      * Définir un domaine de marque : permet aux utilisateurs de travailler avec des domaines de marque. Voir : [Ajouter un domaine de marque supplémentaire](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Accéder au modèle de courrier électronique
 
@@ -220,5 +218,3 @@ Administration de Workspace
 
 * Accès administrateur pour un espace de travail spécifique (uniquement si les espaces de travail sont activés)
 * Déplacement de fichiers entre les espaces de travail (uniquement si les espaces de travail sont activés)
-
-Accès à l&#39;application mobile
