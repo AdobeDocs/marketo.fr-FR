@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Modifier un espace de travail - Documents marketing - Documentation du produit
 title: Modification d’un espace de travail
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Il arrive que vous deviez apporter des modifications dans un espace de travail. 
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->Examinez les espaces de travail avec [Présentation des espaces de travail et des partitions de personne](understanding-workspaces-and-person-partitions.md).
+>Examinez les espaces de travail avec [Présentation des espaces de travail et des partitions de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Sous **Admin**, cliquez sur **Espaces de travail et partitions**.
 
@@ -37,25 +35,19 @@ Il arrive que vous deviez apporter des modifications dans un espace de travail. 
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >Vous pouvez [créer plus de partitions](create-a-person-partition.md) si vous en avez besoin.
+   >Vous pouvez [créer plus de partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) si vous en avez besoin.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >La case à cocher **Toutes les partitions individuelles**** **signifie que cet espace de travail peut utiliser toutes les partitions de tête du système.
+   >La case à cocher **Toutes les partitions individuelles** signifie que cet espace de travail peut utiliser toutes les partitions de tête dans le système.
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >La partition** Principale personne** agit comme partition par défaut et c&#39;est là que toutes les personnes seront affectées.
+   >La partition **Principale personne** agit comme partition par défaut et c&#39;est là que toutes les personnes seront affectées.
 
-   Si vous avez activé plusieurs domaines de marque, vous pouvez passer à un autre domaine de marque Principale. Cliquez sur Enregistrer.
+   Si vous avez activé plusieurs domaines de marque, vous pouvez passer à un autre domaine de marque Principale. Cliquez sur **Enregistrer**.
 
    ![](assets/four-6.png)
 
@@ -65,10 +57,6 @@ Il arrive que vous deviez apporter des modifications dans un espace de travail. 
 
 >[!MORELIKETHIS]
 >
->* [Créer un espace de travail](create-a-new-workspace.md)
->* [Présentation des espaces de travail et des partitions de personne](understanding-workspaces-and-person-partitions.md)
-
->
-
-
+>* [Créer un espace de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>* [Présentation des espaces de travail et des partitions de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
 
