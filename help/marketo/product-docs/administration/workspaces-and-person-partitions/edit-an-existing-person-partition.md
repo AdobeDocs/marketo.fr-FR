@@ -3,7 +3,7 @@ unique-page-id: 2360323
 description: Modifier une partition de personne existante - Documents marketing - Documentation du produit
 title: Modifier une partition de personne existante
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,11 +21,7 @@ Une partition de personne est comme avoir une deuxième (ou une troisième) base
 
 >[!PREREQUISITES]
 >
->* [Créer une partition de personne](create-a-person-partition.md)
-
->
-
-
+>[Créer une partition de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 1. Sous **Admin**, cliquez sur **Espaces de travail et partitions**.
 
@@ -35,7 +31,7 @@ Une partition de personne est comme avoir une deuxième (ou une troisième) base
 
    ![](assets/two-5.png)
 
-1. Saisissez la partition de personne **Nom**, les **espaces de travail **auxquels ils appartiennent, puis cliquez sur **Enregistrer**.
+1. Saisissez la partition de personne **Nom**, les **espaces de travail** auxquels ils appartiennent, puis cliquez sur **Enregistrer**.
 
    ![](assets/three-5.png)
 
@@ -43,9 +39,8 @@ Une partition de personne est comme avoir une deuxième (ou une troisième) base
 
    ![](assets/four-4.png)
 
-   C&#39;est tout. Il semble qu&#39;une fonction aussi puissante devrait être complexe, mais ce n&#39;est pas le cas.
+C&#39;est tout. Il semble qu&#39;une fonction aussi puissante devrait être complexe, mais ce n&#39;est pas le cas.
 
-   >[!CAUTION]
-   >
-   >Mesurez deux fois, coupez une fois. Vous ne souhaitez pas affecter une partition à un espace de travail incorrect.
-
+>[!CAUTION]
+>
+>Mesurez deux fois, coupez une fois. Vous ne souhaitez pas affecter une partition à un espace de travail incorrect.
