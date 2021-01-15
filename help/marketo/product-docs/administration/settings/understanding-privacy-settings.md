@@ -3,9 +3,9 @@ unique-page-id: 10617187
 description: Présentation des paramètres de confidentialité - Documents marketing - Documentation du produit
 title: Présentation des paramètres de confidentialité
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Ces méthodes peuvent affecter la valeur et les fonctionnalités du marketing da
 
 Les visiteurs Web peuvent définir leur navigateur pour empêcher le suivi par n’importe quel site Web en choisissant &quot;Ne pas suivre&quot; (DNT). Ceci empêche le suivi pour ce navigateur et ce périphérique en particulier. Consultez les paramètres de confidentialité du navigateur pour en savoir plus.
 
-Dans Munchkin, un spécialiste du marketing peut [décider de prendre en charge ou d’ignorer le paramètre DNT du navigateur](edit-do-not-track-browser-support-settings.md).
+Dans Munchkin, un spécialiste du marketing peut [décider de prendre en charge ou d’ignorer le paramètre DNT du navigateur](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
 
 Dans la personnalisation Web, un spécialiste du marketing peut décider de [prendre en charge ou d’ignorer le paramètre DNT du navigateur](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
@@ -76,5 +76,4 @@ Les marketeurs peuvent préserver la confidentialité en suivant les utilisateur
 
 * Pour la personnalisation Web (RTP), ajoutez ceci au javascript :
 
-anonymize IP : avant d&#39;appeler rtp(&#39;send&#39;,&#39;vue&#39;); add rtp(&#39;set&#39;, &#39;settings&#39;, {&#39;anonymizeIP&#39; : true});
-
+`anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`
