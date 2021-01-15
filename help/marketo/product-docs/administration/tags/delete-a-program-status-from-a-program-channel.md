@@ -3,9 +3,9 @@ unique-page-id: 2360278
 description: Supprimer un état de Programme d'un Canal de Programme - Documents marketing - Documentation du produit
 title: Supprimer un état de Programme d'un Canal de Programme
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Les états de programme sont les points de contrôle traversant un chemin de pro
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. Cliquez sur ![—](assets/image2014-9-24-15-3a52-3a39.png) pour supprimer l&#39;état, puis sur **SAVE**.
+1. Cliquez sur ![Icône X](assets/image2014-9-24-15-3a52-3a39.png) pour supprimer l’état, puis sur **Enregistrer**.
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ Les états de programme sont les points de contrôle traversant un chemin de pro
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-Bien joué ! Vous pouvez également [supprimer un canal entier](delete-a-program-channel.md) si nécessaire.
+Bien joué ! Vous pouvez également [supprimer un canal entier](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) si nécessaire.
