@@ -3,9 +3,9 @@ unique-page-id: 1146933
 description: Exécuter un Campaign par lots maintenant | Onglet Planification - Documents marketing - Documentation du produit
 title: Exécuter un Campaign par lots maintenant | Onglet Planification
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Une fois la création de votre campagne par lot terminée, vous pouvez choisir d
 
    ![](assets/runcampaignnow-hands.png)
 
-1. Assurez-vous que **Exécuter maintenant **est sélectionné et cliquez sur **Exécuter**.
+1. Assurez-vous que **Exécuter maintenant** est sélectionné et cliquez sur **Exécuter**.
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
@@ -27,15 +27,10 @@ Une fois la création de votre campagne par lot terminée, vous pouvez choisir d
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   Facile, facile ! Vous pouvez également [planifier des exécutions pour plus tard](schedule-a-batch-smart-campaign-to-run-later.md) si vous préférez.
+   Facile, facile ! Vous pouvez également [planifier des exécutions pour plus tard](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md) si vous préférez.
 
    >[!NOTE]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Planification de l’exécution ultérieure d’une Campaign dynamique par lot](schedule-a-batch-smart-campaign-to-run-later.md)
-   >    * [Planification d’une Campaign de lot périodique](schedule-a-recurring-batch-campaign.md)
-
+   >* [Planification de l’exécution ultérieure d’une Campaign dynamique par lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
+   >* [Planification d’une Campaign de lot périodique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
 
