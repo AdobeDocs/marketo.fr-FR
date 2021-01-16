@@ -3,9 +3,9 @@ unique-page-id: 1146940
 description: Définir une Liste intelligente pour une Campaign intelligente | Lot - Docs marketing - Documentation du produit
 title: Définir une Liste intelligente pour une Campaign intelligente | Lot
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,6 @@ Les listes intelligentes sont le mécanisme utilisé dans tout Marketo pour déf
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >Vous pouvez exécuter une campagne intelligente sur une personne à la fois en fonction des événements en direct en ajoutant des déclencheurs, ce qui place la campagne intelligente en mode **Déclencheur**.
 
 1. Cliquez sur la liste déroulante et choisissez un opérateur de filtre pour le filtre choisi.
@@ -48,17 +45,12 @@ Les listes intelligentes sont le mécanisme utilisé dans tout Marketo pour déf
 
    >[!NOTE]
    >
-   >Par défaut, les personnes qui respectent TOUTES les règles de liste intelligente sont qualifiées. Il est possible de le modifier en fonction de vos besoins de campagne. Consultez [Règles de Liste intelligente pour la logique complexe](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) pour en savoir plus.
+   >Par défaut, les personnes qui respectent TOUTES les règles de liste intelligente sont qualifiées. Il est possible de le modifier en fonction de vos besoins de campagne. Consultez [Règles de Liste intelligente pour la logique complexe](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) pour en savoir plus.
 
-   Pour déclencher sur les événements en direct une personne à la fois, apprenez comment [définir une Liste intelligente pour le Campaign intelligent | Déclencheur](define-smart-list-for-smart-campaign-trigger.md).
+   Pour déclencher sur les événements en direct une personne à la fois, apprenez comment [définir une Liste intelligente pour le Campaign intelligent | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Définir une Liste intelligente pour une Campaign intelligente | Déclencheur](define-smart-list-for-smart-campaign-trigger.md)
-   >    * [Ajouter une étape de flux à un Campaign dynamique](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
+   >* [Définir une Liste intelligente pour une Campaign intelligente | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+   >* [Ajouter une étape de flux à un Campaign dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
