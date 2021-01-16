@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: Envoyer une alerte - Documents marketing - Documentation du produit
 title: Envoyer une alerte
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Marketo peut envoyer une alerte par courriel contenant des informations personne
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
    >Votre alerte par courrier électronique doit contenir toutes les informations d’en-tête et être à l’état **Approuvé**.
 
 1. Vous pouvez cliquer sur l’icône de prévisualisation pour vous assurer que vous avez sélectionné le courriel approprié.
@@ -36,8 +34,6 @@ Marketo peut envoyer une alerte par courriel contenant des informations personne
    ![](assets/three-1.png)
 
    >[!NOTE]
-   >
-   >**Rappel**
    >
    >Veillez à utiliser le jeton **Envoyer les informations d’alerte** dans votre courrier électronique.
 
@@ -57,5 +53,4 @@ C&#39;est tout ! Vous savez maintenant comment utiliser l’étape de flux **Env
 
 >[!MORELIKETHIS]
 >
->[Créer un courriel](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
+>[Créer un courriel](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
