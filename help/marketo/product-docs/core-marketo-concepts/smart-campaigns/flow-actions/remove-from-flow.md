@@ -3,9 +3,9 @@ unique-page-id: 1147084
 description: Supprimer du flux - Documents marketing - Documentation du produit
 title: Supprimer du flux
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,4 @@ Recherchez et sélectionnez la campagne dynamique dont vous souhaitez supprimer 
 
 >[!NOTE]
 >
->**Rappel**
->
 >Cette fonctionnalité est destinée à être utilisée dans les étapes de flux d’une campagne intelligente.
-
