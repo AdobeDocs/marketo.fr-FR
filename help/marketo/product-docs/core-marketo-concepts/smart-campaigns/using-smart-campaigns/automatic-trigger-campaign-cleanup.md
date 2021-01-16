@@ -3,7 +3,7 @@ unique-page-id: 1147074
 description: Nettoyage Campaign de déclencheur automatique - Docs marketing - Documentation du produit
 title: Nettoyage Campaign de déclencheur automatique
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Bien sûr ! Une fois par trimestre, vous recevrez une notification une semaine �
 
    ![](assets/notifications.png)
 
-1. Cliquez sur **Déclenchement inactif du nettoyage Campaign planifié**. Cliquez ensuite sur le lien **Ces campagnes déclencheurs d&#39;inactivité seront désactivées **.** **
+1. Cliquez sur **Déclenchement inactif du nettoyage Campaign planifié**. Cliquez ensuite sur le lien **Ces campagnes de déclenchement inactif seront désactivées**.
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
@@ -52,11 +52,10 @@ Le compteur de 6 mois est réinitialisé.
 
 Absolument : une semaine après la notification initiale, nous désactiverons les campagnes répertoriées (moins celles qui ont qualifié au moins une personne ou ont été désactivées/réactivées) et publierons une notification de confirmation.
 
-1. Sélectionnez la **notification **Idle Trigger Campaign Cleanup Scheduled **notification. Cliquez sur le lien **Ces campagnes de déclenchement inactif**.
+1. Sélectionnez la **notification de nettoyage de Campaign Idle Trigger Scheduled**. Cliquez sur le lien **Ces campagnes de déclenchement inactif**.
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 
 1. Une liste de campagnes désactivées s’affiche.
 
    ![](assets/image2015-4-27-20-3a58-3a38.png)
-
