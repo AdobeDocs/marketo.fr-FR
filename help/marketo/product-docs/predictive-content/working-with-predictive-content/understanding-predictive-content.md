@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: Présentation du contenu prédictif - Documents marketing - Documentation du produit
 title: Présentation du contenu prédictif
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
-Après avoir [approuvé un titre pour le contenu prédictif](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), vous y travaillez ici. La page Contenu prédictif affiche tous les titres que vous avez approuvés pour le contenu prédictif.
+Après avoir [approuvé un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), vous y travaillez ici. La page Contenu prédictif affiche tous les titres que vous avez approuvés pour le contenu prédictif.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
