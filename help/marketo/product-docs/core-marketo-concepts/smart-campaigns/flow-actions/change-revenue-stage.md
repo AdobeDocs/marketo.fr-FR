@@ -3,7 +3,7 @@ unique-page-id: 1147080
 description: Modifier l’étape des recettes - Documents marketing - Documentation du produit
 title: Modifier la phase des recettes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -32,4 +32,3 @@ Si vous utilisez le module de modélisation de cycle de revenu et que vous dispo
    >[!CAUTION]
    >
    >L’entrepôt de données surveille de près le moment où les pistes passent d’une étape à l’autre. Cela peut créer des données incorrectes si elles sont utilisées de manière incorrecte.
-
