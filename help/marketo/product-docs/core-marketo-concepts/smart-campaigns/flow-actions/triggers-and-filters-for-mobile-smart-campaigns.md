@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: Déclencheurs et Filtres pour les campagnes dynamiques mobiles - Documents marketing - Documentation sur les produits
 title: Déclencheurs et Filtres pour les campagnes dynamiques mobiles
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -103,7 +103,7 @@ Application mobile ouverte/ouverte
 
 Avec/avec Activité d&#39;application mobile
 
-Elles offrent un moyen puissant de suivre l&#39;activité mobile personnalisée. Vous devez travailler avec votre développeur pour configurer le suivi [pour Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) et [pour iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Elles offrent un moyen puissant de suivre l&#39;activité mobile personnalisée. Vous devez travailler avec votre développeur pour configurer le suivi [pour Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) et [pour iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
 * Avec Activité d’application mobile - trigger
 
@@ -132,12 +132,14 @@ Les contraintes Action vous permettent d’utiliser le déclencheur et les filtr
 >Sous le type d&#39;action *Shopping*, voici une action très spécifique, avec les autres contraintes qui la définissent :
 >
 >* Achat d&#39;une chemise
->  * C&#39;était rouge.
->  * Ça a coûté 30 dollars.
->  * Il a fallu 20 secondes pour acheter
+   >   * C&#39;était rouge.
+   >   * Ça a coûté 30 dollars.
+   >   * Il a fallu 20 secondes pour acheter
 
 
-Voici à quoi ressemble le filtre dans Marketo :   ![](assets/image2015-8-17-13-3a16-3a12.png)
+Voici à quoi ressemble le filtre dans Marketo :
+
+![](assets/image2015-8-17-13-3a16-3a12.png)
 
 >[!NOTE]
 >
@@ -192,6 +194,6 @@ Notification Push avec appui/appui sur une touche
 
 >[!MORELIKETHIS]
 >
->* [Ajouter une contrainte à un filtre de Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Utiliser les Filtres d&#39;inactivité dans une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Ajouter une contrainte à un filtre de Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [Utiliser les Filtres d&#39;inactivité dans une Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
