@@ -3,7 +3,7 @@ unique-page-id: 2949192
 description: SEO - Concurrents d'Ajoute - Docs marketing - Documentation du produit
 title: SEO - Concurrents d’Ajoute
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -43,6 +43,6 @@ Les concurrents d&#39;Ajoute vous permettent de suivre leurs performances pour l
 
    >[!MORELIKETHIS]
    >
-   >* [Mots-clés de Ajoute](/help/marketo//product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+   >* [Mots-clés de Ajoute](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
    >* [Présentation des mots-clés (Vue de Concurrent)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
