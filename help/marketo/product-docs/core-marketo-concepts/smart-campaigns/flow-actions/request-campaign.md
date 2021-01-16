@@ -3,7 +3,7 @@ unique-page-id: 2951703
 description: Request Campaign - Marketo Docs - Documentation sur les produits
 title: Demande de Campaign
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Vous pouvez placer des personnes dans une campagne spécifique en utilisant l’
 
 >[!NOTE]
 >
->La campagne dans laquelle vous placez la personne doit être principale et avoir le déclencheur ** [Campaign est demandé](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
+>La campagne dans laquelle vous placez la personne doit être principale et avoir le déclencheur **[Campaign est demandé](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
 
 1. Dans la **base de données**, recherchez et sélectionnez la personne ou les personnes souhaitées.
 
@@ -44,4 +44,3 @@ Vous pouvez placer des personnes dans une campagne spécifique en utilisant l’
 >[!TIP]
 >
 >Utilisez le déclencheur ou le filtre **Campaign is Requested** pour trouver les personnes affectées par cette étape de flux.
-
