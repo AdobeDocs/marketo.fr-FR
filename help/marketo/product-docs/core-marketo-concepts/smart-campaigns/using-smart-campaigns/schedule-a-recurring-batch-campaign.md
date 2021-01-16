@@ -3,7 +3,7 @@ unique-page-id: 1146972
 description: Planification d’un lot périodique Campaign - Docs marketing - Documentation du produit
 title: Planification d’une Campaign de lot périodique
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 La périodicité vous permet d’exécuter régulièrement une campagne par lot dynamique. Par exemple : une fois par semaine, le lundi à 12h00.
 
-1. Sélectionnez la campagne, accédez à l’onglet Planifier, puis cliquez sur Planifier la répétition.
+1. Sélectionnez la campagne, accédez à l’onglet Planifier, puis cliquez sur **Planifier la répétition**.
 
    ![](assets/recurrencehands-sendemail.png)
 
-1. Cliquez sur la liste déroulante Planifier et sélectionnez Hebdomadaire.
+1. Cliquez sur la liste déroulante Planifier et sélectionnez **Hebdomadaire**.
 
    ![](assets/image2014-9-22-11-3a41-3a42.png)
 
@@ -31,7 +31,7 @@ La périodicité vous permet d’exécuter régulièrement une campagne par lot 
 
    ![](assets/image2014-9-22-11-3a41-3a49.png)
 
-1. Quittez l’option Répéter tous les 1, sélectionnez Lundi, puis cliquez sur Enregistrer.
+1. Laissez l’option Répéter tous les 1, sélectionnez Lundi et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-22-11-3a41-3a53.png)
 
