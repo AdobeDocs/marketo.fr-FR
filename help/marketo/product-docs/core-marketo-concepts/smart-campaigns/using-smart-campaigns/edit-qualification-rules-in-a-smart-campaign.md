@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: Modifier les règles de qualification dans une Campaign intelligente - Docs marketing - Documentation du produit
 title: Modification des règles de qualification dans une Campaign intelligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -33,18 +33,10 @@ Les règles de qualification contrôlent le nombre de fois où une personne peut
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >Par défaut, les limites de communication ne sont pas appliquées aux campagnes actives. Découvrez comment [appliquer des limites de communication à une campagne intelligente](apply-communication-limits-to-smart-campaign.md).
+   >Par défaut, les limites de communication ne sont pas appliquées aux campagnes actives. Découvrez comment [appliquer des limites de communication à une campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Appliquer des limites de communication aux campagnes dynamiques](apply-communication-limits-to-smart-campaign.md)
-
+   >[Appliquer des limites de communication aux campagnes dynamiques](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
 Mission accomplie ! Vous savez maintenant comment contrôler les règles de qualification dans une campagne intelligente.
