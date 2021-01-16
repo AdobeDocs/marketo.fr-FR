@@ -3,9 +3,9 @@ unique-page-id: 1146989
 description: Actions Campaign - Cloner un Campaign intelligent - Docs marketing - Documentation du produit
 title: Actions Campaign - Cloner un Campaign intelligent
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Le clonage des campagnes peut vous faire gagner du temps. Il n’est pas nécess
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
-1. Sélectionnez l&#39;option **Cloner à **appropriée. Dans cet exemple, choisissez **Programmes**.
+1. Sélectionnez l’option **Cloner vers** appropriée. Dans cet exemple, choisissez **Programmes**.
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
@@ -27,5 +27,4 @@ Le clonage des campagnes peut vous faire gagner du temps. Il n’est pas nécess
 
    ![](assets/image2014-9-22-13-3a57-3a9.png)
 
-   Et c&#39;est fait ! Ne travaillez pas dur, travaillez intelligemment.
-
+Et c&#39;est fait !
