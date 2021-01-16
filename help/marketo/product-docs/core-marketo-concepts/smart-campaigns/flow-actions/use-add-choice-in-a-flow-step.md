@@ -3,9 +3,9 @@ unique-page-id: 1146980
 description: Utiliser le choix d'Ajoute dans une étape de flux - Documents marketing - Documentation du produit
 title: Utiliser le choix des Ajoutes dans une étape de flux
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Ajouter une étape de flux à un Campaign dynamique](add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>[Ajouter une étape de flux à un Campaign dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 **Ajoutez** Choicelets vous utilisez une étape de flux et dites &quot;Ça dépend&quot; lorsque vous choisissez les détails.
 
@@ -53,15 +49,10 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Seul le premier choix de correspondance est appliqué à l’étape de flux. Découvrez comment [réorganiser &quot;Choix d&#39;Ajoute&quot; dans une action de flux](reorder-add-choice-in-a-flow-step.md).
+   >Seul le premier choix de correspondance est appliqué à l’étape de flux. Découvrez comment [réorganiser &quot;Choix d&#39;Ajoute&quot; dans une action de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md).
 
-   >[!NOTE]
+   Super ! Vous pouvez désormais créer une seule campagne dynamique avec des choix d’étape de flux au lieu de créer plusieurs campagnes dynamiques pour chaque choix.
+
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Réorganiser le &quot;choix d&#39;Ajoute&quot; en une étape de flux](reorder-add-choice-in-a-flow-step.md)
-
-
-Super ! Vous pouvez désormais créer une seule campagne dynamique avec des choix d’étape de flux au lieu de créer plusieurs campagnes dynamiques pour chaque choix.
+   >[Réorganiser le choix des Ajoutes à une étape de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
