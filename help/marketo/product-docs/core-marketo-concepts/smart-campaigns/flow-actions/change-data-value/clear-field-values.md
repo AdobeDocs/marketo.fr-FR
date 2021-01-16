@@ -3,9 +3,9 @@ unique-page-id: 1147324
 description: Effacer les valeurs des champs - Documents marketing - Documentation du produit
 title: Effacer les valeurs de champ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Effacer les valeurs de champ {#clear-field-values}
 
-** [Modifier la valeur des données](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** est génial, mais comment *supprimer* complètement la valeur ? Bonne question !
+[Modifier la ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valeur des données est une bonne chose, mais comment  __ supprimer complètement la valeur ? Bonne question !
 
-1. Dans l’étape de flux, choisissez le champ à effacer et tapez **NULL **(capitales) comme **Nouvelle valeur**.
+1. Dans l’étape de flux, choisissez le champ à effacer et tapez **NULL** (toutes capitales) comme **Nouvelle valeur**.
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
@@ -26,7 +26,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >Si vous laissez la nouvelle valeur vide ou si vous entrez simplement un ESPACE, le champ n’est pas vraiment vide. Vous devez entrer NULL. En outre, n’oubliez pas que les étapes de flux ne peuvent pas être annulées après l’exécution.
-
-   ![(sourire)](assets/smile.svg)
-
-Au fait, cette petite technique est sur l&#39;examen de certification Marketo. Ne leur dites pas que nous l&#39;avons dit !
