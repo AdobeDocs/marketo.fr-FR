@@ -3,9 +3,9 @@ unique-page-id: 1146931
 description: Création d’une Campaign intelligente - Docs marketing - Documentation du produit
 title: Créer une Campaign intelligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Les campagnes intelligentes sont l&#39;outil le plus important du marché. Ils p
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->Les campagnes intelligentes sont super cool. Pour en savoir plus, [ici](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Les campagnes intelligentes sont super cool. Pour en savoir plus, [ici](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Accédez à **Activités marketing**.
 
@@ -43,13 +41,8 @@ Les campagnes intelligentes sont l&#39;outil le plus important du marché. Ils p
 
    Cool ! Ensuite, découvrez comment définir les personnes à exécuter dans la campagne intelligente avec une liste intelligente.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Définir une Liste intelligente pour une Campaign intelligente | Lot](define-smart-list-for-smart-campaign-batch.md)
-   >    * [Définir une Liste intelligente pour une Campaign intelligente | Déclencheur](define-smart-list-for-smart-campaign-trigger.md)
-
+   >* [Définir une Liste intelligente pour une Campaign intelligente | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Définir une Liste intelligente pour une Campaign intelligente | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 
