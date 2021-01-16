@@ -3,9 +3,9 @@ unique-page-id: 1146970
 description: Planification de l'exécution d'une Campaign intelligente par lot plus tard - Documentation du marketing - Documentation du produit
 title: Planification de l’exécution ultérieure d’une Campaign dynamique par lot
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Si vous souhaitez définir une campagne par lot intelligente pour qu’elle s’
 
 >[!TIP]
 >
->Vous pouvez également [replanifier une campagne par lot dans la vue de Planning du programme](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
+>Vous pouvez également [replanifier une campagne par lot dans la vue de Planning du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
 
 1. Sélectionnez la campagne par lot dynamique à exécuter, accédez à l&#39;onglet **Planification**, puis cliquez sur **Exécuter une fois**.
 
@@ -41,10 +41,4 @@ Si vous souhaitez définir une campagne par lot intelligente pour qu’elle s’
 
    >[!NOTE]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Planification d’une Campaign de lot périodique](schedule-a-recurring-batch-campaign.md)
-
-
+   >[Planification d’une Campaign de lot périodique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
