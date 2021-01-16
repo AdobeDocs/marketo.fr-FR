@@ -3,9 +3,9 @@ unique-page-id: 1147023
 description: Appeler Webhook - Documentation sur le marketing - Documentation du produit
 title: Appeler Webhook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Création d’un crochet Web](../../../../product-docs/administration/additional-integrations/create-a-webhook.md)
-
->
-
-
+>[Création d’un crochet Web](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
 ## Aperçu {#overview}
 
@@ -29,9 +25,7 @@ Les hameçons Web vous permettent d’interagir avec des services tiers. Envoyez
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->Découvrez les nombreuses choses fascinantes que [Webhooks](http://developers.marketo.com/documentation/webhooks/) peut faire pour vous.
+>Découvrez les nombreuses choses fascinantes que [Webhooks](https://developers.marketo.com/documentation/webhooks/) peut faire pour vous.
 
 ## Utilisation {#usage}
 
@@ -41,13 +35,6 @@ Sélectionnez **Webhook** dans la liste déroulante.
 
 C&#39;est tout ! Votre hook Web sera désormais appelé chaque fois que des personnes entrent dans le flux de campagne dynamique.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->* [Utilisation de Webhook dans une Campaign intelligente](use-a-webhook-in-a-smart-campaign.md)
-
->
-
-
-
+>[Utilisation de Webhook dans une Campaign intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
