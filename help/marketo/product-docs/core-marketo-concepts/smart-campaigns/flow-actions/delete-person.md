@@ -3,7 +3,7 @@ unique-page-id: 1147082
 description: Supprimer une personne - Documents marketing - Documentation du produit
 title: Supprimer une personne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -38,4 +38,3 @@ Vous pouvez supprimer du marketing et non de votre gestion de la relation client
 >[!NOTE]
 >
 >Le retrait de la personne de votre CRM **ne fonctionne qu&#39;avec Salesforce**. Si vous supprimez une personne de Marketo et choisissez de la conserver dans Salesforce, elle sera recréée dans Marketo si son enregistrement Salesforce est mis à jour.
-
