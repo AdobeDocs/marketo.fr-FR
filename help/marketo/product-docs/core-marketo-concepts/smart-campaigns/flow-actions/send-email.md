@@ -3,9 +3,9 @@ unique-page-id: 1146948
 description: Envoyer un courrier électronique - Documents marketing - Documentation du produit
 title: Envoyer un courriel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Aperçu {#overview}
 
-L&#39;étape **Envoyer un e-mail **flux peut être utilisée dans le cadre de campagnes ou comme une étape de flux unique pour envoyer des e-mails à vos utilisateurs.
+L’étape de flux **Envoyer un courriel** peut être utilisée dans le cadre de campagnes ou comme une étape de flux unique pour envoyer des courriers électroniques à vos utilisateurs.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 
@@ -29,14 +29,10 @@ Vous pouvez prévisualisation le courrier électronique sélectionné à partir 
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >Votre adresse électronique doit être approuvée si vous souhaitez la sélectionner dans l’étape de flux.
 
 1. Cliquez sur l&#39;icône de la prévisualisation pour afficher le courriel actuellement sélectionné.
 
    ![](assets/image2014-9-22-10-3a8-3a22.png)
 
-   Un nouvel onglet/une nouvelle fenêtre s&#39;ouvre, où vous pouvez voir le courriel.
-
+Un nouvel onglet/une nouvelle fenêtre s&#39;ouvre, où vous pouvez voir le courriel.
