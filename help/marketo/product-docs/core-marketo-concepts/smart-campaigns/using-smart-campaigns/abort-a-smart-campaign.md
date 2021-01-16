@@ -3,9 +3,9 @@ unique-page-id: 1147053
 description: Abort d’une Campaign intelligente - Documentation du marketing - Documentation du produit
 title: Abandonner une Campaign intelligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Parfois, vous lancez une campagne intelligente et vous réalisez immédiatement 
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. Cliquez sur la liste déroulante** Actions Campaign**. Sélectionnez **Abandonner Campaign**.
+1. Cliquez sur la liste déroulante **Actions Campaign**. Sélectionnez **Abandonner Campaign**.
 
    ![](assets/image2014-9-22-16-19-48.png)
 
@@ -33,19 +33,16 @@ Parfois, vous lancez une campagne intelligente et vous réalisez immédiatement 
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >L&#39;avortement n&#39;annule pas les étapes déjà terminées, il en empêche tout simplement d&#39;autres. (Exemple : Les courriers électroniques ne peuvent pas être non remis.)
 
    ![](assets/image2014-9-22-16-3a20-3a0.png)
 
    >[!NOTE]
    >
-   >Consultez l&#39;onglet **Résultats** de la campagne intelligente pour connaître les actions qui ont eu lieu avant l&#39;abandon. Vous trouverez également une [notification](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) avec des détails supplémentaires.
+   >Consultez l&#39;onglet **Résultats** de la campagne intelligente pour connaître les actions qui ont eu lieu avant l&#39;abandon. Vous trouverez également une [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) avec des détails supplémentaires.
 
    >[!TIP]
    >
-   >Voulez-vous supprimer une personne du flux dans une campagne de déclenchement ? Consultez [Supprimer du flux](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >Voulez-vous supprimer une personne du flux dans une campagne de déclenchement ? Consultez [Supprimer du flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
 Vérifiez toujours votre travail en doublon, mais ce frein d&#39;urgence peut s&#39;avérer utile à l&#39;avenir.
