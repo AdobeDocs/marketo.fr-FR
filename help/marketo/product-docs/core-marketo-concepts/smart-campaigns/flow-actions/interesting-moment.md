@@ -3,9 +3,9 @@ unique-page-id: 1146956
 description: Moment intéressant - Documents marketing - Documentation du produit
 title: Moment intéressant
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Aperçu {#overview}
 
-Si vous avez [Marketing Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php), vous pouvez utiliser l&#39;étape de flux **Moment intéressant** pour donner à votre équipe commerciale une visibilité sur les choses cool que vos employés font.
+Si vous disposez de Marketing Sales Insight, vous pouvez utiliser l&#39;étape de flux **Moment intéressant** pour donner à votre équipe commerciale une visibilité sur les choses cool que vos employés font.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
@@ -33,16 +33,10 @@ Si vous avez [Marketing Sales Insight](http://docs.marketo.com/display/docs/asse
    >
    >**Moins c&#39;est plus**. Travaillez avec votre équipe commerciale pour vous assurer que les moments intéressants sont vraiment intéressants.
 
-   [jetons dans des moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+Vous pouvez également utiliser des jetons [dans des moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) pour créer des descriptions dynamiques vraiment utiles.
 
-   >[!NOTE]
-   >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Utilisation de moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
-   >    * [Jetons pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>[!MORELIKETHIS]
+>
+>* [Utilisation de moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [Jetons pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
-
-Vous pouvez également utiliser pour créer des descriptions dynamiques très utiles.
