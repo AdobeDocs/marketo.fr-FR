@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Présentation des campagnes dynamiques par lot et déclencheur - Documentation sur le marketing - Documentation sur les produits
 title: Présentation des campagnes dynamiques par lot et déclencheur
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,7 @@ Cliquez sur l&#39;onglet **Planification** pour confirmer que la campagne dynami
 **Batch Smart Campaigns**
 
 * Peut être planifié pour des récurrences, telles que quotidiennes, hebdomadaires et mensuelles. Vous pouvez également les faire exécuter une seule fois.
-* Sont visibles sur la [vue de Planning du programme](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md).\
-   *Notez que tout élément après une étape &quot;Attendre&quot; dans la campagne intelligente ne sera pas inclus dans la vue.
+* Sont visibles sur la [vue de Planning du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Tout ce qui suit une étape &quot;Attente&quot; dans la campagne intelligente ne sera pas inclus dans la vue.
 
 <br> 
 
@@ -60,11 +59,6 @@ Cliquez sur l&#39;onglet **Planification** pour confirmer que la campagne dynami
 * Impossible de planifier les répétitions. Ils ne peuvent être définis que sur principal ou inactif.
 * Vous pouvez définir plusieurs déclencheurs. Cependant, si un déclencheur est déclenché, les actions de campagne s&#39;exécuteront.
 
-## Regardez une vidéo sur la création de campagnes par courriel déclenchées {#watch-a-video-on-creating-triggered-email-campaigns}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!TIP]
 >
->Utilisez le [journal des activités](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) pour déterminer ce qui s&#39;est passé pas à pas dans vos campagnes dynamiques. Le journal des activités se trouve dans le dernier onglet de la page des détails d’une personne.
-
+>Utilisez le [journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) pour déterminer ce qui s&#39;est passé pas à pas dans vos campagnes dynamiques. Le journal des activités se trouve dans le dernier onglet de la page des détails d’une personne.
