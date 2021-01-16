@@ -3,9 +3,9 @@ unique-page-id: 1146987
 description: Suppression d’une étape de flux - Documents marketing - Documentation du produit
 title: Suppression d’une étape de flux
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->La suppression des étapes de flux, *en particulier les étapes d&#39;attente* des principales campagnes intelligentes, peut avoir des résultats inattendus. **Lisez cet article attentivement.**
+>La suppression des étapes de flux, _en particulier les étapes d&#39;attente_ des principales campagnes intelligentes, peut avoir des résultats inattendus. **Lisez cet article attentivement.**
 
 D&#39;abord, faisons les bases. Voici comment supprimer une étape de flux indésirable d’une campagne intelligente. 1. Dans le flux de campagne dynamique, cliquez sur l’icône X pour supprimer une étape de flux.
 
@@ -40,7 +40,7 @@ D&#39;abord, faisons les bases. Voici comment supprimer une étape de flux indé
    1. **Jamais ne courut.** Effectuez toutes les modifications souhaitées. Cela n&#39;affectera personne tant que vous n&#39;aurez pas lancé cette campagne.
    1. **Est une campagne intelligente récurrente.** Les changements affecteront les futurs exécutions, et non les précédentes.
    1. **Déjà exécuté sans attendre les étapes.** Aucune personne ne sera affectée car la campagne est en sommeil après son exécution.
-   1. **Est en cours d&#39;exécution en ce moment.** Les modifications peuvent provoquer un comportement inattendu en fonction du timing et des détails de la suppression. Nous vous recommandons vivement de NE PAS modifier une campagne par lot qui s’exécute activement. Pour les cas d’urgence, apprenez comment [abandonner une campagne dynamique ](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   1. **Est en cours d&#39;exécution en ce moment.** Les modifications peuvent provoquer un comportement inattendu en fonction du timing et des détails de la suppression. Nous vous recommandons vivement de NE PAS modifier une campagne par lot qui s’exécute activement. Pour les cas d’urgence, apprenez comment [abandonner une campagne dynamique ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
    1. **Déjà exécuté avec des étapes d’attente.** Plusieurs détails sur celui-ci.\
       Lorsqu&#39;une personne entre dans une étape d&#39;attente, elle fait une croix sur la durée et à quelle ÉTAPE DE NOMBRE revenir. Voir l’exemple ci-dessous.
@@ -54,13 +54,10 @@ D&#39;abord, faisons les bases. Voici comment supprimer une étape de flux indé
    >
    >**Exemple**
    >
-   >    
-   >    
    >1. Une campagne intelligente comporte 3 étapes.
-   >
-   >   * ÉTAPE 1. Envoyer le courrier électronique n° 1
-   >   * ÉTAPE 2. Attendez 1 semaine
-   >   * ÉTAPE 3. Envoyer le courrier électronique n° 2
+      >    * ÉTAPE 1. Envoyer le courrier électronique n° 1
+      >    * ÉTAPE 2. Attendez 1 semaine
+      >    * ÉTAPE 3. Envoyer le courrier électronique n° 2
    >
    >1. Les personnes qui ont cliqué sur **Étape 2** attendront 1 semaine avant de passer à **Étape 3**.
    >1. Vous supprimez **l’étape 2** pendant la semaine.
@@ -71,4 +68,4 @@ D&#39;abord, faisons les bases. Voici comment supprimer une étape de flux indé
 
 Apporter des modifications à un Campaign Principal
 
-Comprenez cette fonction et vous maîtriserez les campagnes intelligentes. Ouah !
+Comprenez cette fonction et vous maîtriserez les campagnes intelligentes.
