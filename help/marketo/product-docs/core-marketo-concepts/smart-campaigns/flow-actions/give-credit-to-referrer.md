@@ -3,9 +3,9 @@ unique-page-id: 1147040
 description: Attribuer du crédit au Parrain - Docs marketing - Documentation du produit
 title: Attribuer du crédit au Parrain
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,16 @@ ht-degree: 0%
 
 ## Aperçu {#overview}
 
-Lors de l’exécution d’une offre de référence [référente](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou d’un tirage [de ](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez attribuer du crédit au parrain en utilisant différentes méthodes :
+Lors de l’exécution d’une offre de référence [référente](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou d’un tirage [de ](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez attribuer du crédit au parrain en utilisant différentes méthodes :
 
 * Visites référencées
 * Abonnements référencés
 * **Déclencheur de Liste dynamique**
 * Événement JavaScript personnalisé
 
-Si vous choisissez d’utiliser l’option **Déclencheur de Liste intelligente** pour spécifier un objectif, vous devez utiliser l’étape de flux **Attribuer du crédit** **au Parrain**.   ![](assets/image2014-9-22-15-3a59-3a18.png)
+Si vous choisissez d’utiliser l’option **Déclencheur de Liste dynamique** pour spécifier un objectif, vous devez utiliser l’étape de flux **Attribuer du crédit au Parrain**.
+
+![](assets/image2014-9-22-15-3a59-3a18.png)
 
 ## Utilisation {#usage}
 
@@ -32,9 +34,6 @@ Si vous choisissez d’utiliser l’option **Déclencheur de Liste intelligente*
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >Assurez-vous que votre application sociale est configurée pour utiliser le déclencheur de Liste dynamique. Voir [Définition de l’objectif pour l’Offre de renvoi](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) pour plus d’informations.
+   >Assurez-vous que votre application sociale est configurée pour utiliser le déclencheur de Liste dynamique. Voir [Définition de l’objectif pour l’Offre de renvoi](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) pour plus d’informations.
 
 Excellent ! Toute personne traitée par cette étape de flux crédite désormais son parrain.
