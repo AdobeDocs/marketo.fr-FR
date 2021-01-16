@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: Actions Campaign - Suppression d’un Campaign dynamique - Docs marketing - Documentation du produit
 title: Actions Campaign - Suppression d’un Campaign dynamique
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Si vous avez une ancienne campagne intelligente dont vous n’avez plus besoin, 
 
    >[!TIP]
    >
-   >Pour annuler le traitement d’une principale campagne dynamique sans la supprimer complètement, apprenez comment [abandonner une campagne intelligente](abort-a-smart-campaign.md).
+   >Pour annuler le traitement d’une principale campagne dynamique sans la supprimer complètement, apprenez comment [abandonner une campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
@@ -38,5 +38,3 @@ Si vous avez une ancienne campagne intelligente dont vous n’avez plus besoin, 
    >[!CAUTION]
    >
    >**NOT** supprimez une principale campagne intelligente avec des personnes dans les étapes de flux. Il est probable que la campagne s’exécute toujours.
-
-Sympa !
