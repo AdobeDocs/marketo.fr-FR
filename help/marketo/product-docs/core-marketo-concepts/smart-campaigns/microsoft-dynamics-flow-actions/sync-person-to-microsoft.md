@@ -3,7 +3,7 @@ unique-page-id: 7514027
 description: Synchroniser une personne avec Microsoft - Documents marketing - Documentation du produit
 title: Synchroniser la personne avec Microsoft
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Vous pouvez définir un utilisateur Dynamics comme propriétaire de personne.
 >[!NOTE]
 >
 >Lors de l&#39;utilisation de l&#39;action de flux &quot;Synchroniser la personne avec Microsoft&quot; (dans une campagne de déclenchement uniquement), le prospect/contact est créé en temps réel dans Dynamics.
-
