@@ -3,7 +3,7 @@ unique-page-id: 1147029
 description: Modifier l’état dans SFDC Campaign - Documents marketing - Documentation du produit
 title: Modifier le statut dans SFDC Campaign
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -31,7 +31,6 @@ Si une piste n&#39;existe pas dans Salesforce ou n&#39;est pas encore membre de 
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Sélectionnez ensuite le **Nouveau** **État** que vous souhaitez définir et vous avez terminé !
+1. Sélectionnez ensuite le **nouvel état** que vous souhaitez définir et vous avez terminé !
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
-
