@@ -3,7 +3,7 @@ unique-page-id: 557337
 description: Création et modification de Vues pour les Listes et la Liste intelligente - Documentation sur le marketing - Documentation sur les produits
 title: Créer et modifier des Vues pour les Listes et la Liste intelligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -18,13 +18,14 @@ Une liste intelligente affiche un ensemble de colonnes par défaut. Saviez-vous 
 ## Créer une Vue {#create-a-view}
 
 1. Accédez à une liste ou une liste intelligente, cliquez sur l’onglet **Personnes**, puis sur **Créer** **Vue** dans la liste déroulante **Vue**.
-1. ![](assets/smartlist-createview.png)
+
+   ![](assets/smartlist-createview.png)
 
 1. Nommez la vue et recherchez la colonne à ajouter ou à supprimer.
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-   Ajoutez/supprimez les colonnes de votre choix, puis cliquez sur Créer.
+1. Ajoutez/supprimez les colonnes de votre choix, puis cliquez sur **Créer**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
@@ -56,8 +57,6 @@ Une liste intelligente affiche un ensemble de colonnes par défaut. Saviez-vous 
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-
-
 ## Supprimer une Vue {#delete-a-view}
 
 1. Sélectionnez l&#39;option **Modifier** pour la vue à supprimer dans la liste déroulante **Vue**.
@@ -72,10 +71,6 @@ Vous seul pouvez voir les vues personnalisées que vous créez dans la liste dé
 
 >[!MORELIKETHIS]
 >
->* [Utiliser des Listes dynamiques intégrées/système](use-built-in-system-smart-lists.md)
->* [Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>* [Utiliser des Listes dynamiques intégrées/système](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [Création d’une Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
