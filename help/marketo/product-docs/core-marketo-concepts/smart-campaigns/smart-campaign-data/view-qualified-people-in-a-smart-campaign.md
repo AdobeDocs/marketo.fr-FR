@@ -3,7 +3,7 @@ unique-page-id: 1146966
 description: Vue de personnes qualifiées dans un Campaign intelligent - Marketo Docs - Documentation sur les produits
 title: Vue de personnes qualifiées dans une Campaign intelligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -33,17 +33,13 @@ Vue des personnes habilitées à suivre le flux lorsque vous exécutez une campa
 
    >[!NOTE]
    >
-   >Le nombre de personnes qualifiées dépend également des règles de qualification des campagnes intelligentes. Découvrez comment [modifier les règles de qualification](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
+   >Le nombre de personnes qualifiées dépend également des règles de qualification des campagnes intelligentes. Découvrez comment [modifier les règles de qualification](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
 Doux ! Vous pouvez utiliser cette liste pour vérifier quelles personnes peuvent suivre le flux avant d’exécuter une campagne dynamique.
 
 >[!MORELIKETHIS]
 >
->* [Membres de vue Smart Campaign](view-smart-campaign-members.md)
->* [Vue bloquée dans un Campaign intelligent](view-blocked-people-in-a-smart-campaign.md)
->* [Ajouter une étape de flux à un Campaign dynamique](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>* [Membres de vue Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+>* [Vue bloquée dans un Campaign intelligent](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+>* [Ajouter une étape de flux à un Campaign dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
