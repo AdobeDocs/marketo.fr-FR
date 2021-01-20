@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: Utiliser le filtre Valeur de données modifiée dans une Liste dynamique - Documents marketing - Documentation du produit
 title: Utiliser le filtre Valeur de données modifiée dans une Liste dynamique
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,9 @@ Les valeurs changent constamment et sont mises à jour dans votre base de donné
 
 >[!PREREQUISITES]
 >
->* [Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Création d’une Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Rendez-vous dans la **zone Activités marketing **.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/ma.png)
 
@@ -39,15 +35,4 @@ Les valeurs changent constamment et sont mises à jour dans votre base de donné
 
    ![](assets/four.png)
 
-Ce filtre recherche toutes les personnes qui ont changé (toute modification) leur statut. Si vous souhaitez être encore plus fantaisiste, essayez [d&#39;ajouter une contrainte à un filtre de liste dynamique](add-a-constraint-to-a-smart-list-filter.md).
-
->[!NOTE]
->
->**Articles connexes**
->
->* [Ajouter une contrainte à un filtre de Liste dynamique](add-a-constraint-to-a-smart-list-filter.md)
-
->
-
-
-
+Ce filtre recherche toutes les personnes qui ont changé (toute modification) leur statut. Si vous souhaitez être encore plus fantaisiste, essayez [d&#39;ajouter une contrainte à un filtre de liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).
