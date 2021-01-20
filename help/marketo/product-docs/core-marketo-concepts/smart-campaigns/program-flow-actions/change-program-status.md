@@ -3,7 +3,7 @@ unique-page-id: 1147007
 description: Modifier l’état du Programme - Documents marketing - Documentation du produit
 title: Modifier l'état du Programme
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Aperçu {#overview}
 
-L’état des programmes vous aide à suivre l’évolution des personnes dans un programme ou un événement. Pour plus d&#39;informations, consultez [Personnaliser, créer et gérer des Canaux](../../../../product-docs/administration/tags/create-a-program-channel.md).
+L’état des programmes vous aide à suivre l’évolution des personnes dans un programme ou un événement. Pour plus d&#39;informations, consultez [Personnaliser, créer et gérer des Canaux](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
