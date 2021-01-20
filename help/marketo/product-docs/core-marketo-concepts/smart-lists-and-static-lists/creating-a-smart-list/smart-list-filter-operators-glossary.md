@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: Opérateurs de filtre de Liste dynamique Glossaire - Documents marketing - Documentation du produit
 title: Glossaire des opérateurs de filtre de Liste dynamique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # Opérateurs de filtre de Liste dynamique Glossaire {#smart-list-filter-operators-glossary}
 
-Un opérateur fait partie de la [liste intelligente](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) qui vous aide à obtenir des informations spécifiques. Il vous permet de décrire votre filtre ou déclencheur en langage simple. Les opérateurs disponibles sont différents pour chaque type de champ.\
+Un opérateur fait partie de la liste intelligente qui vous aide à obtenir des informations spécifiques. Il vous permet de décrire votre filtre ou déclencheur en langage simple. Les opérateurs disponibles sont différents pour chaque type de champ.
+
 Voici un glossaire décrivant chaque ensemble d&#39;opérateurs.
 
 ## Champs de date {#date-fields}
@@ -51,7 +52,7 @@ Il suffit de taper le numéro et l&#39;unité ensemble et ça marchera !
 
 >[!NOTE]
 >
->Dans le passé, **** inclut-il le jour (jusqu&#39;à l&#39;heure, et non après) où vous créez votre liste intelligente.
+>&quot;Dans le passé&quot; **fait** inclure le jour (jusqu&#39;à l&#39;heure, pas après) que vous avez créé votre liste intelligente.
 
 >[!CAUTION]
 >
@@ -102,7 +103,7 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">Opérateur</th> 
-   <th colspan="1" rowspan="1"><p>Description</p></th> 
+   <th colspan="1" rowspan="1">Description</th> 
   </tr> 
  </thead> 
  <tbody> 
