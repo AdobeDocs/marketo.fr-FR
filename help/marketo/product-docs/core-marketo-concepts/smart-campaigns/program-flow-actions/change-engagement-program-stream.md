@@ -3,9 +3,9 @@ unique-page-id: 1147015
 description: Changer le flux de Programme d’engagement - Docs marketing - Documentation du produit
 title: Changer le flux de Programme d’engagement
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Aperçu {#overview}
 
-Normalement, vous utiliseriez [les règles de transition de diffusion en continu](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) pour y parvenir, mais si vous souhaitez déplacer manuellement des personnes d’un flux à un autre, il s’agit de l’étape de flux à utiliser.
+Normalement, vous utiliseriez [les règles de transition de diffusion en continu](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) pour y parvenir, mais si vous souhaitez déplacer manuellement des personnes d’un flux à un autre, il s’agit de l’étape de flux à utiliser.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
@@ -29,9 +29,8 @@ Normalement, vous utiliseriez [les règles de transition de diffusion en continu
 
    ![](assets/image2014-9-22-14-3a52-3a50.png)
 
-1. Sélectionnez ensuite le flux auquel vous souhaitez ajouter des personnes.
+1. Sélectionnez le flux auquel vous souhaitez ajouter des personnes.
 
    ![](assets/image2014-9-22-14-3a52-3a59.png)
 
-   Et c&#39;est tout !
-
+Et c&#39;est tout !
