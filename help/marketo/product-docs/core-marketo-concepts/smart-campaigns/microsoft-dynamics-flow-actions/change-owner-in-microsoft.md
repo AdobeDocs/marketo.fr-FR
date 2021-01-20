@@ -3,7 +3,7 @@ unique-page-id: 37356426
 description: Modifier le propriétaire dans Microsoft - Documents marketing - Documentation du produit
 title: Modifier le propriétaire dans Microsoft
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Si des personnes existantes sont déjà affectées à un propriétaire, vous pou
    >[!NOTE]
    >
    >Si l&#39;enregistrement n&#39;existe pas encore dans votre compte Dynamics, nous allons le synchroniser, puis l&#39;affecter à l&#39;utilisateur sélectionné.
-
