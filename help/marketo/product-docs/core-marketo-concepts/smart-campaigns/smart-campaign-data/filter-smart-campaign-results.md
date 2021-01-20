@@ -3,7 +3,7 @@ unique-page-id: 1147068
 description: Filtrage des résultats Smart Campaign - Documents marketing - Documentation du produit
 title: Filtrer les résultats Smart Campaign
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Résultats de la vérification de la vue intelligente](view-smart-campaign-results.md)
-
->
-
-
+>[Résultats de la vérification de la vue intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
 Filtrez les résultats de campagne intelligents pour afficher les activités spécifiques qui vous importent.
 
@@ -51,9 +47,8 @@ Filtrez les résultats de campagne intelligents pour afficher les activités sp�
 
    ![](assets/saveasfilter-hands.png)
 
-1. Le filtre personnalisé sera appliqué à vos résultats et est désormais disponible dans la liste déroulante. (Vous devrez peut-être actualiser la page pour l’afficher dans la liste déroulante.)
+1. Le filtre personnalisé sera appliqué à vos résultats et est désormais disponible dans la liste déroulante (vous devrez peut-être actualiser la page pour l’afficher dans la liste déroulante.)
 
    ![](assets/customfilter-hands.png)
 
    N&#39;est-ce pas cool ? Votre filtre personnalisé peut désormais être utilisé dans tous les journaux d’activités.
-
