@@ -3,7 +3,7 @@ unique-page-id: 557275
 description: Utiliser des Listes dynamiques intégrées/système - Documentation marketing - Documentation du produit
 title: Utiliser des Listes dynamiques intégrées/système
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Marketo possède des listes intelligentes très utiles. Regardons-les !
 >
 >Marketo est en train de modifier des termes tels que la Liste bloquée et la Liste autorisée à la Liste bloquée et à la Liste autorisée dans notre produit. Au cours de cette mise à jour, vous verrez peut-être les anciens termes de l’interface utilisateur et les captures d’écran de la documentation, ainsi que les nouveaux termes dans le texte de la documentation. Nous nous excusons pour toute confusion.
 
-1. Accédez à la base de données***.
+1. Accédez à la **base de données**.
 
    ![](assets/db.png)
 
@@ -35,16 +35,16 @@ Marketo possède des listes intelligentes très utiles. Regardons-les !
    >
    >Il n’est pas nécessaire d’appliquer les filtres des listes intelligentes du système à chaque liste/campagne intelligente. Leur contenu est automatiquement reconnu.
 
-   | Nom de la liste | Description |
-   |---|---|
-   | Toutes les personnes | Toutes les personnes de votre base de données Marketo |
-   | Personnes désabonnées | Ces personnes ne peuvent recevoir que des courriels opérationnels ; c&#39;est habituellement la personne elle-même qui contrôle la situation. |
-   | Marketing suspendu | Ces personnes ne peuvent recevoir que des courriels opérationnels ; c&#39;est habituellement vous, le spécialiste du marketing, qui le contrôlez. |
-   | Liste bloquée | Ces personnes ne recevront aucun courriel. |
-   | Adresses électroniques reportées | Personnes avec une adresse électronique non livrable ou qui rejettent votre adresse électronique. |
-   | Duplicata possibles | Personnes qui peuvent être dupliquées dans la base de données Marketo. |
-
 Voici un résumé des actions des listes intelligentes intégrées :
+
+| Nom de la liste | Description |
+|---|---|
+| Toutes les personnes | Toutes les personnes de votre base de données Marketo |
+| Personnes désabonnées | Ces personnes ne peuvent recevoir que des courriels opérationnels ; c&#39;est habituellement la personne elle-même qui contrôle la situation. |
+| Marketing suspendu | Ces personnes ne peuvent recevoir que des courriels opérationnels ; c&#39;est habituellement vous, le spécialiste du marketing, qui le contrôlez. |
+| Liste bloquée | Ces personnes ne recevront aucun courriel. |
+| Adresses électroniques reportées | Personnes avec une adresse électronique non livrable ou qui rejettent votre adresse électronique. |
+| Duplicata possibles | Personnes qui peuvent être dupliquées dans la base de données Marketo. |
 
 >[!NOTE]
 >
@@ -52,9 +52,4 @@ Voici un résumé des actions des listes intelligentes intégrées :
 
 >[!MORELIKETHIS]
 >
->* [Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
-
+>[Création d’une Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
