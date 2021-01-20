@@ -3,7 +3,7 @@ unique-page-id: 1147070
 description: Exporter les résultats Smart Campaign vers Excel - Documents marketing - Documentation du produit
 title: Exporter les résultats Smart Campaign vers Excel
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -24,4 +24,3 @@ Exportez les résultats de votre campagne intelligente vers Excel pour les utili
    >[!NOTE]
    >
    >L’exportation est limitée à 20 000 lignes. Le fichier Excel est enregistré dans le dossier de téléchargements par défaut de votre navigateur.
-
