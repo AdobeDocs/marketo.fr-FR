@@ -3,9 +3,9 @@ unique-page-id: 7511477
 description: Utiliser les Filtres d'inactivité dans une Liste dynamique - Documentation du marketing - Documentation du produit
 title: Utiliser les Filtres d'inactivité dans une Liste dynamique
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,3 @@ Saviez-vous que vous pouvez rechercher des personnes dans une Liste intelligente
 1. Sélectionnez l&#39;opérateur **est n&#39;importe quel opérateur**. Il y aura ainsi toutes les personnes qui n&#39;ont visité aucune page au cours des 30 derniers jours.
 
    ![](assets/mysmartlist-people.jpg)
-
-   N&#39;était-ce pas facile ?
-
