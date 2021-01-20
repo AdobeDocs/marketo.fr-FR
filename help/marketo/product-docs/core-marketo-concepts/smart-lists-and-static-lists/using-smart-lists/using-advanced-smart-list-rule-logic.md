@@ -3,7 +3,7 @@ unique-page-id: 1146901
 description: Utilisation de la logique avancée des règles de Liste intelligente - Documents marketing - Documentation du produit
 title: Utilisation de la logique avancée des règles de Liste intelligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,11 +17,8 @@ Vous pouvez trouver les personnes exactes dont vous avez besoin en appliquant un
 
 >[!PREREQUISITES]
 >
->* [Rechercher et Ajouter des Filtres à une Liste intelligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Définir des Filtres de Liste intelligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
->
-
+>* [Rechercher et Ajouter des Filtres à une Liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [Définir des Filtres de Liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 
 >[!NOTE]
@@ -30,11 +27,11 @@ Vous pouvez trouver les personnes exactes dont vous avez besoin en appliquant un
 
 ## Ajouter la logique à une Liste dynamique {#add-logic-to-a-smart-list}
 
-Par défaut, votre liste intelligente trouvera les personnes qui correspondent aux filtres **ALL** (filtres 1 *et* 2 *et* 3). Vous pouvez modifier la logique de règle pour rechercher des personnes qui correspondent à **ANY** des filtres définis (filtres 1 *ou* 2 *ou* 3), ou utiliser des filtres avancés (filtres 1 *et* 2 *ou *3).
+Par défaut, votre liste intelligente trouvera les personnes qui correspondent aux filtres **ALL** (filtres 1 _et_ 2 _et_ 3). Vous pouvez modifier la logique de règle pour rechercher des personnes qui correspondent à **ANY** des filtres définis (filtres 1 _ou_ 2 _ou_ 3), ou utiliser des filtres avancés (filtres 1 _et_ 2 _ou_ 3).
 
-Dans cet exemple, supposons que vous souhaitiez trouver des personnes en Californie *et* avec un score d&#39;au moins 50 points *ou* avec le statut &quot;Sales Qualified&quot;.
+Dans cet exemple, supposons que vous souhaitiez trouver des personnes en Californie _et_ avec un score d&#39;au moins 50 points _ou_ avec le statut &quot;Sales Qualified&quot;.
 
-1. Sélectionnez **Utiliser** **filtres** **avancés** dans la liste déroulante.
+1. Sélectionnez **Utiliser des filtres avancés** dans la liste déroulante.
 
    ![](assets/one.png)
 
@@ -42,7 +39,7 @@ Dans cet exemple, supposons que vous souhaitiez trouver des personnes en Califor
    >
    >L&#39;utilisation de filtres **avancés** réduit la nécessité de créer des listes intelligentes avec le filtre Membre de la Liste intelligente. Cela permet d’optimiser les performances.
 
-1. La zone de texte **Advanced** **filtres** affiche &quot;et&quot; comme valeur par défaut entre tous vos filtres.
+1. La zone de texte **filtres avancés** affiche &quot;et&quot; comme valeur par défaut entre tous vos filtres.
 
    ![](assets/two-2.png)
 
@@ -73,4 +70,3 @@ Selon votre intention, vous devrez peut-être ajouter des parenthèses imbriqué
 >[!TIP]
 >
 >Si vous entrez une règle non valide, une ligne rouge s&#39;affichera sous la règle. Faites défiler le texte pour afficher le message d’erreur associé.
-
