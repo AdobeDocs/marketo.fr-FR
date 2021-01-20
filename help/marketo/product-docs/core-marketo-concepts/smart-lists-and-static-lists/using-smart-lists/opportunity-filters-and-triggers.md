@@ -3,7 +3,7 @@ unique-page-id: 8159286
 description: Filtres d'opportunité et déclencheurs - Docs marketing - Documentation du produit
 title: Filtres d'opportunité et déclencheurs
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -80,4 +80,3 @@ Par exemple, vous pouvez utiliser cette Liste dynamique pour déclencher une pis
 Pour déclencher vos champs personnalisés d&#39;opportunité, utilisez le déclencheur **Opportunité mise à jour** et sélectionnez le champ dans la liste déroulante :
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
-
