@@ -3,7 +3,7 @@ unique-page-id: 1147034
 description: Ajoute à SFDC Campaign - Marketo Docs - Documentation sur les produits
 title: Ajoute à la norme SFDC Campaign
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -33,15 +33,13 @@ Cette étape de flux peut être utilisée dans les campagnes marketing ou comme 
    >
    >Si vous ne voyez pas de campagne Salesforce dans la liste Campaign :
    >
-   >    
-   >    
-   >    1. Assurez-vous que la synchronisation de campagne [est activée](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-   >    1. Vérifiez que votre [utilisateur de synchronisation du marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) est un [utilisateur marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) dans Salesforce.
+   >  1. Assurez-vous que la synchronisation de campagne [est activée](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+   >  1. Vérifiez que votre [utilisateur de synchronisation du marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) est un [utilisateur marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) dans Salesforce.
 
 
    >[!TIP]
    >
-   >Vous pouvez utiliser la campagne Salesforce [Mes jetons](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) pour faciliter le clonage des programmes.
+   >Vous pouvez utiliser la campagne Salesforce [Mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) pour faciliter le clonage des programmes.
 
 1. Sélectionnez l&#39;état de membre de campagne Salesforce que vous souhaitez affecter aux pistes lorsqu&#39;elles sont ajoutées.
 
@@ -49,5 +47,4 @@ Cette étape de flux peut être utilisée dans les campagnes marketing ou comme 
 
    >[!CAUTION]
    >
-   >Si une personne est déjà membre principal de la campagne Salesforce, elle sera ignorée et son statut NE sera PAS mis à jour. Vous pouvez à la place utiliser [modifier leur état dans une campagne SFDC](change-status-in-sfdc-campaign.md).
-
+   >Si une personne est déjà membre principal de la campagne Salesforce, elle sera ignorée et son statut NE sera PAS mis à jour. Vous pouvez à la place utiliser [modifier leur état dans une campagne SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md).
