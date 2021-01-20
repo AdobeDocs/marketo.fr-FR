@@ -3,7 +3,7 @@ unique-page-id: 4720377
 description: Référencer une Liste ou une Liste dynamique entre les espaces de travail - Documents marketing - Documentation du produit
 title: Référencer une Liste ou une Liste dynamique dans les espaces de travail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Les listes et les listes intelligentes peuvent être partagées et référencée
 
    ![](assets/four-3.png)
 
-1. Choisissez un **Espace de travail **à partager avec. Sélectionnez **Enregistrer**.
+1. Choisissez un **espace de travail** avec lequel partager. Sélectionnez **Enregistrer**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -50,4 +50,3 @@ Les listes et les listes intelligentes peuvent être partagées et référencée
    >[!NOTE]
    >
    >Dans les Activités marketing, vous ne pouvez partager que les dossiers de niveau supérieur. Dans la base de données, vous pouvez partager des dossiers de niveau supérieur et un niveau inférieur.
-
