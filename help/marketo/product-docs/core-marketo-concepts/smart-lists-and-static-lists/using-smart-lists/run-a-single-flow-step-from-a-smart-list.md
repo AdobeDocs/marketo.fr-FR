@@ -3,7 +3,7 @@ unique-page-id: 557322
 description: Exécution d’une étape de flux unique à partir d’une Liste dynamique - Documents marketing - Documentation du produit
 title: Exécution d’une étape de flux unique à partir d’une Liste dynamique
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Si vous souhaitez exécuter une seule étape de flux, vous pouvez utiliser une s
 
 >[!PREREQUISITES]
 >
->* [Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Création d’une Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Accédez à **Activités marketing**.
 
@@ -35,7 +31,7 @@ Si vous souhaitez exécuter une seule étape de flux, vous pouvez utiliser une s
    >
    >Les listes statiques et les listes intelligentes disposent de cette fonctionnalité.
 
-1. Cliquez sur **Sélectionner tout**. Vous pouvez également utiliser** Ctrl/Cmd** et cliquer pour sélectionner quelques enregistrements manuellement.
+1. Cliquez sur **Sélectionner tout**. Vous pouvez également utiliser **Ctrl/Cmd** et cliquer pour sélectionner quelques enregistrements manuellement.
 
    ![](assets/smartlist-selectallhand.png)
 
@@ -43,7 +39,7 @@ Si vous souhaitez exécuter une seule étape de flux, vous pouvez utiliser une s
    >
    >Si les résultats s’étendent sur plusieurs pages, cliquez sur **Sélectionner tout** pour sélectionner toutes les personnes sur toutes les pages.
 
-1. Sous **Personne** **Actions**, sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [Modifier la valeur des données](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. Sous **Personne** **Actions**, sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [Modifier la valeur des données](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
