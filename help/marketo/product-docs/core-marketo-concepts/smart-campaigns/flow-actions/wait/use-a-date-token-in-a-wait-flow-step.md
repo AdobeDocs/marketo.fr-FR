@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: Utiliser un jeton de date dans une étape de flux d'attente - Documents marketing - Documentation du produit
 title: Utilisation d’un jeton de date dans une étape de flux d’attente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utiliser un jeton de date dans une étape de flux d&#39;attente {#use-a-date-token-in-a-wait-flow-step}
 
-Vous pouvez utiliser l’étape de flux d’attente pour interrompre le parcours d’une personne au cours d’une campagne dynamique jusqu’à une date particulière qui utilise un jeton de date. Vous pouvez également modifier la date de fin d’un certain nombre de jours.
+Vous pouvez utiliser l’étape de flux d’attente pour mettre en pause le parcours d’une personne au cours d’une campagne dynamique jusqu’à une date particulière qui utilise un jeton de date. Vous pouvez également modifier la date de fin d’un certain nombre de jours.
 
 >[!NOTE]
 >
@@ -56,15 +56,12 @@ Vous pouvez utiliser l’étape de flux d’attente pour interrompre le parcours
    >
    >Vous pouvez également spécifier le nombre de jours à l’aide d’un jeton `{{lead.` ou `{{company.` qui représente un champ entier ou d’un jeton `{{my.` de type nombre.
 
-1. Cliquez sur Enregistrer.
+1. Cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >* [Utilisation d’une durée dans une étape de flux d’attente](use-a-duration-in-a-wait-flow-step.md)
-   >* [Utilisation d’une date spécifique dans une étape de flux d’attente](use-a-specific-date-in-a-wait-flow-step.md)
-
+   >* [Utilisation d’une durée dans une étape de flux d’attente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+   >* [Utilisation d’une date spécifique dans une étape de flux d’attente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
 
