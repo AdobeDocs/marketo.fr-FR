@@ -3,7 +3,7 @@ unique-page-id: 557318
 description: Actualisation d’une Liste ou d’une Liste dynamique - Docs marketing - Documentation du produit
 title: Actualiser une Liste ou une Liste dynamique
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -31,9 +31,4 @@ Si vous avez exécuté une liste intelligente et que quelques minutes se sont é
 
 >[!MORELIKETHIS]
 >
->* [Exportation de personnes vers Excel à partir d’une Liste ou d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
-
->
-
-
-
+>[Exportation de personnes vers Excel à partir d’une Liste ou d’une Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
