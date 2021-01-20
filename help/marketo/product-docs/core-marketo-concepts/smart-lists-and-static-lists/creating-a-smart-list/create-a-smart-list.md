@@ -3,9 +3,9 @@ unique-page-id: 557154
 description: Création d’une Liste intelligente - Documentation sur le marketing - Documentation sur le produit
 title: Création d’une Liste dynamique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,8 @@ Les listes intelligentes vous permettent de trouver des groupes spécifiques de 
    ![](assets/login-marketing-activities.png)
 
 1. Sélectionnez le programme dans lequel vous souhaitez créer la liste dynamique.
-1. ![Il s&#39;agit d&#39;un test](assets/image2014-8-11-10-3a17-3a8.png)
+
+   ![](assets/image2014-8-11-10-3a17-3a8.png)
 
 1. Sous **New**, cliquez sur **New Local Asset**.
 
@@ -34,13 +35,8 @@ Les listes intelligentes vous permettent de trouver des groupes spécifiques de 
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
-   >[!NOTE]
-   >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Rechercher et Ajouter des Filtres à une Liste intelligente](find-and-add-filters-to-a-smart-list.md)
+   Ta-da, super boulot ! Maintenant ajoutons et définissons quelques filtres.
 
-
-Ta-da, super boulot ! Maintenant ajoutons et définissons quelques filtres.
+   >[!MORELIKETHIS]
+   >
+   >[Rechercher et Ajouter des Filtres à une Liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
