@@ -3,7 +3,7 @@ unique-page-id: 1147036
 description: Supprimer de SFDC Campaign - Docs marketing - Documentation du produit
 title: Supprimer de SFDC Campaign
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Aperçu {#overview}
 
-Tout comme vous pouvez [Ajouter à SFDC Campaign](add-to-sfdc-campaign.md)et [modifier l’état de SFDC Campaign](change-status-in-sfdc-campaign.md), vous pouvez également supprimer des personnes ou des pistes d’une campagne Salesforce.
+Tout comme vous pouvez [Ajouter à SFDC Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md) et [modifier l’état de SFDC Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md), vous pouvez également supprimer des personnes ou des pistes d’une campagne Salesforce.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
