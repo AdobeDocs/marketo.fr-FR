@@ -3,7 +3,7 @@ unique-page-id: 1147009
 description: Réussite du Programme des modifications - Documents marketing - Documentation du produit
 title: Changer le Programme de réussite
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Si un groupe de personnes est accidentellement marqué comme Programme de réuss
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Sélectionnez **Succès** ou** Date de réussite** comme attribut.
+1. Sélectionnez **Succès** ou **Date de réussite** comme attribut.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
