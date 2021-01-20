@@ -3,7 +3,7 @@ unique-page-id: 1147027
 description: Synchroniser une personne avec SFDC - Documents marketing - Documentation du produit
 title: Synchroniser la personne avec SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Cette étape de flux va insérer des personnes créées par Marketing comme pist
    >[!CAUTION]
    >
    >Salesforce n&#39;autorise pas l&#39;affectation de &quot;contacts&quot; aux files d&#39;attente de piste. Dans ce cas, Marketo créera un duplicata &quot;Lead&quot; dans Salesforce.
-
