@@ -3,7 +3,7 @@ unique-page-id: 1147148
 description: Suppression d’un Programme - Documents marketing - Documentation du produit
 title: Suppression d’un Programme
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Vous pouvez archiver un programme, mais parfois vous voulez juste vous en débar
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Cliquez sur Actions de Programme. Cliquez sur Supprimer.
+1. Cliquez sur **Actions de Programme**. Cliquez sur **Supprimer**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Sélectionnez l’option Supprimer tout. Vérifiez les effets secondaires de la suppression du programme, puis cliquez sur Supprimer pour confirmer.
+1. Sélectionnez l’option Supprimer tout. Examinez les effets secondaires de la suppression du programme, puis cliquez sur **Supprimer** pour confirmer.
 
 >[!TIP]
 >
@@ -43,9 +43,8 @@ Pour résoudre le problème, vous devrez peut-être effectuer une analyse approf
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Cliquez sur **Utilisé** **Par** pour voir où la ressource est utilisée.
+1. Cliquez sur **Utilisé par** pour voir où la ressource est utilisée.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
    Une fois que vous connaissez l’emplacement d’utilisation de votre ressource, accédez-y et désactivez/supprimez-la. Essayez ensuite de supprimer à nouveau votre programme.
-
