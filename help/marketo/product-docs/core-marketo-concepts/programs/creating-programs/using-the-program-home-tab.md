@@ -3,9 +3,9 @@ unique-page-id: 1147126
 description: Utilisation de l'onglet Accueil Programme - Documents marketing - Documentation du produit
 title: Utilisation de l’onglet Accueil Programme
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ L&#39;onglet programme d&#39;accueil vous donne une vue générale de ce qui se 
    >
    >Il s’agit de votre vue par défaut. Il fournit des informations sur vos paramètres, votre planification, vos résultats et l&#39;état du Programme des membres.
 
-   Cliquez sur les éléments soulignés pour apporter des modifications ou vue à d’autres informations.
+1. Cliquez sur les éléments soulignés pour apporter des modifications ou vue à d’autres informations.
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-   Cliquez sur Exporter au bas du résumé pour télécharger le rapport.
+1. Cliquez sur **Exporter** au bas du résumé pour télécharger le rapport.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -69,12 +69,6 @@ L&#39;onglet programme d&#39;accueil vous donne une vue générale de ce qui se 
    >
    >**** Historique signifie quiconque a déjà traversé le programme, tandis que  **** Actuellement, il n&#39;inclut que les personnes actuellement sur le programme.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Comprendre l&#39;appartenance à un Programme](understanding-program-membership.md)
-
-
+   >[Comprendre l&#39;appartenance à un Programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
