@@ -3,7 +3,7 @@ unique-page-id: 557329
 description: Exportation de personnes vers Excel à partir d’une Liste ou d’une Liste dynamique - Documents marketing - Documentation du produit
 title: Exportation de personnes vers Excel à partir d’une Liste ou d’une Liste dynamique
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Si vous avez besoin de résultats de liste ou de liste intelligente en dehors de
    >[!TIP]
    >
    >Vous pouvez annuler la mise en cache de la liste en appuyant simplement sur le bouton d’actualisation de la liste.
-
