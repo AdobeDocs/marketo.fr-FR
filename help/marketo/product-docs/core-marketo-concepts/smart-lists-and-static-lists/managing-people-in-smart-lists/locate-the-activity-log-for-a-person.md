@@ -3,9 +3,9 @@ unique-page-id: 5472404
 description: Recherchez le journal des Activités d'une personne - Documents marketing - Documentation du produit.
 title: Localisation du journal des Activités d'une personne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Recherchez le journal des Activités d&#39;une personne {#locate-the-activity-log-for-a-person}.
 
-Le journal des activités est la source ultime de vérité. Voici l&#39;histoire complète du voyage d&#39;une personne à Marketo.
+Le journal des activités est la source ultime de vérité. Voici l&#39;histoire complète du parcours d&#39;une personne sur le marché du travail.
 
-1. Accédez à la base de données***.
+1. Accédez à la **base de données**.
 
    ![](assets/db-2.png)
 
@@ -35,10 +35,6 @@ Le journal des activités est la source ultime de vérité. Voici l&#39;histoire
 
    ![](assets/five-2.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >
-   >Pour en savoir plus sur le [filtrage du journal des activités](filter-activity-types-in-the-activity-log-of-a-person.md)afin d’afficher des activités de personnes spécifiques.
-
+   >Pour en savoir plus sur le [filtrage du journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)afin d’afficher des activités de personnes spécifiques.
