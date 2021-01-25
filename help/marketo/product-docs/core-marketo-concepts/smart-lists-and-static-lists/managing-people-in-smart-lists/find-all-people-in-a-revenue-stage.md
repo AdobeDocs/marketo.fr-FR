@@ -3,7 +3,7 @@ unique-page-id: 557331
 description: Rechercher toutes les personnes en phase de recettes - Documents marketing - Documentation du produit
 title: Rechercher toutes les personnes dans une phase de recettes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Création d’une Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 ## Rechercher tous les membres d&#39;une étape de recettes spécifique {#find-all-members-of-a-specific-revenue-stage}
 
-1. Dans une liste intelligente, cliquez sur l&#39;onglet **Liste dynamique **, recherchez le filtre **Etat des recettes**, puis faites-le glisser dans la trame.
+1. Dans une liste intelligente, cliquez sur l&#39;onglet **Liste dynamique**, recherchez le filtre **Etat des recettes**, puis faites-le glisser dans la trame.
 
    ![](assets/draginrevenuefilter.png)
 
@@ -44,4 +40,3 @@ Maintenant que vous savez quelles personnes sont à quel stade du chiffre d&#39;
    ![](assets/six.png)
 
    A partir de là, vous pouvez choisir quels membres sont affectés par l&#39;aspect de l&#39;étape de flux. Amusant !
-
