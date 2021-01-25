@@ -3,9 +3,9 @@ unique-page-id: 2952402
 description: Filtrer les types d'Activité dans le journal des Activités d'une personne - Documents marketing - Documentation du produit
 title: Filtrage des types d'Activité dans le journal des Activités d'une personne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Recherchez les activités qui vous importent le plus dans le journal des activit
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->En savoir plus sur [le journal des activités](locate-the-activity-log-for-a-person.md).
+>En savoir plus sur [le journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
 
 1. Accédez à la page **Détails sur la personne**. Cliquez sur l&#39;onglet **Journal des Activités**.
 
@@ -58,4 +56,3 @@ Les filtres enregistrés sont accessibles à partir de la liste déroulante **Fi
 1. Cliquez sur **Filtres enregistrés**. Les filtres enregistrés sont répertoriés ci-dessous.
 
    ![](assets/eight.png)
-
