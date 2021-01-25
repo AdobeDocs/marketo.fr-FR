@@ -3,9 +3,9 @@ unique-page-id: 7504676
 description: Comprendre les coûts de la période - Documents marketing - Documentation du produit
 title: Comprendre les coûts de la période
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,9 @@ Les coûts périodiques se rapportent à l&#39;argent que vous dépensez au cour
 
 >[!NOTE]
 >
->**Plongée profonde**
+>[Présentation des Programmes](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Présentation des Programmes](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
->
->[Comprendre l&#39;appartenance à un Programme](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Comprendre l&#39;appartenance à un Programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Méthode de calcul des coûts de la période {#how-period-costs-are-calculated}
 
@@ -63,18 +61,10 @@ Imaginez un événement, comme un webinaire, qui se déroule en mars. De nouvell
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >En résumé - les mois sans période définie les coûts remontent &quot;en arrière&quot; à la dernière période définie. S&#39;il n&#39;y a pas de coût pour la période antérieure, les mois seront reportés à la période suivante définie. Si le coût d&#39;une période n&#39;a pas été défini pour *n* mois, le rapports en RCE ne sera pas disponible pour le programme.
+   >En résumé - les mois sans période définie les coûts remontent &quot;en arrière&quot; à la dernière période définie. S&#39;il n&#39;y a pas de coût pour la période antérieure, les mois seront reportés à la période suivante définie. Si le coût d&#39;une période n&#39;a pas été défini pour _n_ mois, le rapports en RCE ne sera pas disponible pour le programme.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Utilisation des coûts de période dans un Programme](using-period-costs-in-a-program.md)
-   >    * [Filtrage d&#39;un rapport Programme par coût de période](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
+   >* [Utilisation des coûts de période dans un Programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [Filtrage d&#39;un rapport Programme par coût de période](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
