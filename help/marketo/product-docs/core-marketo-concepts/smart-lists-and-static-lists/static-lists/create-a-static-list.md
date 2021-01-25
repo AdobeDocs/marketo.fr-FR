@@ -3,9 +3,9 @@ unique-page-id: 11387513
 description: Création d’une Liste statique - Documents marketing - Documentation du produit
 title: Création d’une Liste statique
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ Les listes statiques sont un groupe de personnes déjà présentes dans votre ba
 
    ![](assets/three.png)
 
-   Vous avez maintenant une liste vide prête à être remplie. Découvrez comment ajouter des personnes [ici](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList).
+   Vous avez maintenant une liste vide prête à être remplie. Découvrez comment ajouter des personnes [ici](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list).
 
    >[!NOTE]
    >
    >Vous pouvez ajouter une personne à votre liste autant de fois que vous le souhaitez, mais elle n’apparaîtra qu’une seule fois. Les personnes restent dans la liste jusqu’à ce que vous les supprimiez.
-
