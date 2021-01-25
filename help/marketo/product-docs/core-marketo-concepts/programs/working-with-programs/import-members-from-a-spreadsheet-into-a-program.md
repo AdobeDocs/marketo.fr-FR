@@ -3,7 +3,7 @@ unique-page-id: 1147120
 description: Importer des membres à partir d'une feuille de calcul dans un Programme - Documents marketing - Documentation du produit
 title: Importer des membres à partir d'une feuille de calcul dans un Programme
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Vous pouvez importer une liste de personnes qui deviennent automatiquement membr
 
    >[!CAUTION]
    >
-   >Lors de l’importation d’une date dans un champ de date, utilisez le format suivant : 23/09/13 (Mois/Jour/Année).
+   >Lors de l’importation d’une date dans un champ de date, utilisez le format suivant : 29/09/13 (Mois/Jour/Année).
 
 ## Importer votre fichier CSV dans Marketo {#import-your-csv-into-marketo}
 
@@ -65,9 +65,4 @@ Vous pouvez importer une liste de personnes qui deviennent automatiquement membr
 
 >[!MORELIKETHIS]
 >
->* [Gestion et Vue des membres](manage-and-view-members.md)
-
->
-
-
-
+>[Gestion et Vue des membres](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
