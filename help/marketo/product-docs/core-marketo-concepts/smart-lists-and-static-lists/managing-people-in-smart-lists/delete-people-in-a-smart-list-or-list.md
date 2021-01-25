@@ -3,7 +3,7 @@ unique-page-id: 1146897
 description: Supprimer des personnes dans une Liste ou une Liste intelligente - Documentation du marketing - Documentation du produit
 title: Suppression de personnes dans une Liste ou une Liste intelligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Vous pouvez supprimer rapidement et facilement certaines/toutes les personnes qu
 
 >[!PREREQUISITES]
 >
->* [Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Création d’une Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/ma-1.png)
 
@@ -35,19 +31,19 @@ Vous pouvez supprimer rapidement et facilement certaines/toutes les personnes qu
    >
    >Lorsque vous supprimez une personne, vous ne la supprimez pas seulement de la liste, elle sera complètement supprimée de la base de données.
 
-1. Cliquez sur **Sélectionner** **Tous**. Vous pouvez également sélectionner quelques enregistrements manuellement en utilisant Ctrl/Cmd et en cliquant sur.
+1. Cliquez sur **Sélectionner tout**. Vous pouvez également sélectionner quelques enregistrements manuellement en utilisant Ctrl/Cmd et en cliquant sur.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Si les résultats s’étendent sur plusieurs pages, cliquez sur **Sélectionner** **Tout** pour sélectionner toutes les personnes sur toutes les pages.
+   >Si les résultats s’étendent sur plusieurs pages, cliquez sur **Sélectionner tout** pour sélectionner toutes les personnes sur toutes les pages.
 
-1. Pour supprimer complètement les personnes de Marketo, cliquez sur **Supprimer** **Personne**.
+1. Pour supprimer complètement les personnes de Marketo, cliquez sur **Supprimer la personne**.
 
    ![](assets/four-1.png)
 
-1. Définissez **Remove** **from** **CRM** sur **true** si vous souhaitez supprimer également les enregistrements de votre CRM.
+1. Définissez **Supprimer de CRM** sur **true** si vous souhaitez supprimer également les enregistrements de votre CRM.
 
    ![](assets/five.png)
 
@@ -59,7 +55,7 @@ Vous pouvez supprimer rapidement et facilement certaines/toutes les personnes qu
    >
    >Si votre Marketo n’est pas lié à votre CRM, l’option est grisée comme dans la capture d’écran.
 
-1. Cliquez sur **Exécuter** **Maintenant**.
+1. Cliquez sur **Exécuter maintenant**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
@@ -72,4 +68,3 @@ Vous pouvez supprimer rapidement et facilement certaines/toutes les personnes qu
    >Pour vue les résultats de la suppression en masse, cliquez sur **Résultats de la Vue** dans la fenêtre contextuelle Action de flux unique située dans le coin supérieur droit de l’écran. Les heures de suppression peuvent varier considérablement en fonction de plusieurs facteurs.
 
    C&#39;est une bonne fonctionnalité, il faut être très prudent quand on l&#39;utilise !
-
