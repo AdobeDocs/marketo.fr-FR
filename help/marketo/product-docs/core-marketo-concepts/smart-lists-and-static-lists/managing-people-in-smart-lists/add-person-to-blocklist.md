@@ -3,7 +3,7 @@ unique-page-id: 9438139
 description: Ajouter la personne à Placer sur la liste bloquée - Documentation sur le marketing - Documentation sur le produit
 title: Ajouter une personne à Placer sur la liste bloquée
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Ajouter des personnes à votre Liste bloquée les empêche de recevoir votre cor
 >
 >Marketo est en train de modifier des termes tels que la Liste bloquée et la Liste autorisée à la Liste bloquée et à la Liste autorisée dans notre produit. Au cours de cette mise à jour, vous verrez peut-être les anciens termes de l’interface utilisateur et les captures d’écran de la documentation, ainsi que les nouveaux termes dans le texte de la documentation. Nous nous excusons pour toute confusion.
 
-1. [Créez un nouveau ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) programme par défaut et nommez-le  **à Placer sur la liste bloquée**.
+1. [Créez un nouveau ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) programme par défaut et nommez-le  **à Placer sur la liste bloquée**.
+
 1. Cliquez sur **New** et sélectionnez **New Local Asset**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
@@ -72,5 +73,4 @@ Ajouter des personnes à votre Liste bloquée les empêche de recevoir votre cor
 
    >[!TIP]
    >
-   >Créez une [campagne active ](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) à l&#39;aide de **Changer la valeur des données** avec **Bloc répertorié est true** pour toutes les personnes qui, dans le futur, auront des attributs pouvant être placés sur la liste bloquée.
-
+   >Créez une [campagne active ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) à l&#39;aide de **Changer la valeur des données** avec **Bloc répertorié est true** pour toutes les personnes qui, dans le futur, auront des attributs pouvant être placés sur la liste bloquée.
