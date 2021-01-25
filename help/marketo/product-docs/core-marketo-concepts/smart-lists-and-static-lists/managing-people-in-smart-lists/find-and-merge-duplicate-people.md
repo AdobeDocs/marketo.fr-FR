@@ -3,7 +3,7 @@ unique-page-id: 557339
 description: Rechercher et fusionner des personnes Duplicata - Documents marketing - Documentation sur les produits
 title: Rechercher et fusionner des personnes de Duplicata
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Marketo annule automatiquement les duplicata lorsque de nouvelles personnes entr
 
 >[!PREREQUISITES]
 >
->La recherche et la fusion de duplicata impliqueront l&#39;utilisation de [listes intégrées / intelligentes du système](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>La recherche et la fusion de duplicata impliqueront l&#39;utilisation de [listes intégrées / intelligentes du système](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
 ## Rechercher des Duplicata {#find-duplicates}
 
@@ -33,13 +33,13 @@ Marketo annule automatiquement les duplicata lorsque de nouvelles personnes entr
    >
    >La fusion de personnes dans Marketo peut ne pas fonctionner si vous utilisez un compte de personne Salesforce. Si possible, fusionnez les enregistrements dans Salesforce.
 
-1. Sélectionnez la liste **Possible** **Duplicata** et cliquez sur l&#39;onglet **Personnes**.
+1. Sélectionnez la liste intelligente système **Duplicata possibles** et cliquez sur l&#39;onglet **Personnes**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également [rechercher des personnes Duplicata avec une logique personnalisée](find-duplicate-people-with-custom-logic.md).
+   >Vous pouvez également [rechercher des personnes Duplicata avec une logique personnalisée](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
 
 ## Fusionner les personnes manuellement {#merge-people-manually}
 
@@ -47,14 +47,15 @@ Marketo annule automatiquement les duplicata lorsque de nouvelles personnes entr
 >
 >Lors de la fusion de personnes, si la personne perdante a un objet personnalisé Marketo, **ne sera** pas réassocié à la personne gagnante. Reparent l&#39;objet personnalisé avant d&#39;effectuer la fusion.
 
-Sélectionnez les duplicata en maintenant la touche Ctrl/Cmd enfoncée et en cliquant sur, puis cliquez sur Fusionner les personnes.
-![](assets/three.png)
+1. Sélectionnez les duplicata en maintenant la touche Ctrl/Cmd enfoncée et en cliquant sur **Fusionner les personnes**.
 
->[!TIP]
->
->Vous pouvez avoir deux ou plusieurs duplicata pour la même personne - sélectionnez-les tous en même temps.
+   ![](assets/three.png)
 
-1. Vous verrez les valeurs entre les enregistrements qui *ne correspondent pas*. Sélectionnez la valeur à conserver pour chaque champ. Cliquez sur **Fusionner** lorsque vous avez terminé. Si vous ne souhaitez aucune valeur, vous pouvez cocher **Personnalisé** et saisir la valeur de votre choix.
+   >[!TIP]
+   >
+   >Vous pouvez avoir deux ou plusieurs duplicata pour la même personne - sélectionnez-les tous en même temps.
+
+1. Vous verrez les valeurs entre les enregistrements qui _ne correspondent pas_. Sélectionnez la valeur à conserver pour chaque champ. Cliquez sur **Fusionner** lorsque vous avez terminé. Si vous ne souhaitez aucune valeur, vous pouvez cocher **Personnalisé** et saisir la valeur de votre choix.
 
    ![](assets/four.png)
 
@@ -70,13 +71,13 @@ Sélectionnez les duplicata en maintenant la touche Ctrl/Cmd enfoncée et en cli
 
 Si vous avez intégré Salesforce, vous trouverez quelques remarques sur l&#39;effet de Fusionner les pistes dans Salesforce.
 
-    * Lorsque vous fusionnez uniquement des Pistes ou des Contacts, ils fusionnent selon les règles Salesforce normales.
-    * Lors de la fusion des Pistes et Contacts, toutes les Pistes sont converties en Contacts avant la fusion selon les règles Salesforce normales.
+* Lorsque vous fusionnez uniquement des pistes ou des contacts, ils fusionnent selon les règles Salesforce normales.
+* Lors de la fusion des Pistes et des Contacts, toutes les Pistes sont converties en Contacts avant la fusion selon les règles Salesforce normales.
 
 Pour connaître le comportement de Salesforce lors de la fusion de pistes ou de contacts, consultez les documents Salesforce suivants :
 
-    * [Fusionner les pistes de Duplicata](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-    * [Fusionner les contacts de Duplicata](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [Fusionner les pistes de Duplicata](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
+* [Fusionner des contacts de Duplicata](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
 
 ## Fusion en masse {#bulk-merging}
 
