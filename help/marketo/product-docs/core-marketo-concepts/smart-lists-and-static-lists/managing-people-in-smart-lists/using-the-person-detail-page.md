@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Utilisation de la page Détails de la personne - Documents marketing - Documentation du produit
 title: Utilisation de la page Détails de la personne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,15 @@ La page des détails de la personne contient toutes les informations que Marketo
 
 ## Accès à la page de détails de la personne {#getting-to-person-detail-page}
 
-Il y a beaucoup de façons d&#39;ouvrir des personnes spécifiques. Vous trouverez ci-dessous quelques exemples.
+Il y a beaucoup de façons d&#39;ouvrir des personnes spécifiques. Voici quelques exemples :
 
->[!NOTE]
->
->**Exemple**
->
->* A partir de la **base de données**, vous pouvez effectuer une recherche dans la section Recherche rapide
->* Toute **liste** ou liste intelligente
->* **Tabulation** d&#39;un programme
->* **Vue des** membres Campaign dans un Campaign intelligent
->* Certains **rapports**
+* A partir de la **base de données**, vous pouvez effectuer une recherche dans la section Recherche rapide
+* Toute **liste** ou liste intelligente
+* **Tabulation** d&#39;un programme
+* **Vue des** membres Campaign dans un Campaign intelligent
+* Certains **rapports**
 
->
-
-
+   <br> 
 
 1. Doublon-clic sur une personne ou simple-clic sur l&#39;identifiant à gauche.
 
@@ -96,9 +90,7 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->Certains champs sont *non* modifiables :
+>Certains champs sont _non_ modifiables :
 >
 >* Informations sur la société
 >* Possibilités de contacts avec la DDC
@@ -107,13 +99,8 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 
 >
 >
-En savoir plus sur [Champs gérés par le système](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
+En savoir plus sur [Champs gérés par le système](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
->* [Création d’un onglet personnalisé pour la page Détails de la personne](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-
->
-
-
-
+>[Création d’un onglet personnalisé pour la page Détails de la personne](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
