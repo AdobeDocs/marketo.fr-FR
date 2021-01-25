@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importer un Programme - Documents marketing - Documentation du produit
 title: Importer un Programme
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -21,16 +21,15 @@ Un programme peut être importé d&#39;un abonnement de marché à un autre. Par
 
    ![](assets/ma.png)
 
-1. Cliquez sur **Nouvelle **liste déroulante. Sélectionnez **Importer le Programme**.
+1. Cliquez sur la liste déroulante **Nouveau**. Sélectionnez **Importer le Programme**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >L’importation de programme n’est disponible que pour les utilisateurs pour lesquels l’autorisation d’importation de Programme est activée. En savoir plus sur [la gestion des rôles utilisateur et des autorisations](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >L’importation de programme n’est disponible que pour les utilisateurs pour lesquels l’autorisation d’importation de Programme est activée. En savoir plus sur [la gestion des rôles utilisateur et des autorisations](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >
-   >Pour connecter un compte sandbox à votre abonnement actif, contactez le [Support marketing](http://www.marketo.com/services/support/).
+   >Pour connecter un compte sandbox à votre abonnement actif, contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Sélectionnez un Abonnement Marketo **** et un programme à importer. Cliquez sur **Suivant**.
 
@@ -42,7 +41,7 @@ Un programme peut être importé d&#39;un abonnement de marché à un autre. Par
 
    >[!NOTE]
    >
-   >Assurez-vous que** ****Utiliser les règles de conflit par défaut** est sélectionné. Des règles de conflit sont nécessaires lorsque vous importez des programmes dans une instance dont les actifs portent le même nom.
+   >Vérifiez que **Utiliser les règles de conflit par défaut** est sélectionné. Des règles de conflit sont nécessaires lorsque vous importez des programmes dans une instance dont les actifs portent le même nom.
 
 1. Détails de la prévisualisation et **Importer** le programme.
 
@@ -77,7 +76,7 @@ La bibliothèque de Programmes Marketo contient des programmes pré-créés et t
 1. **Synchroniser les nouvelles personnes avec CRM.** Campagne qui synchronise les nouvelles personnes sur votre système de gestion de la relation client. Il attribue un statut à une personne de telle sorte qu&#39;elle soit reconnue comme n&#39;étant pas prête pour les ventes.
 1. **Webinaire avec adaptateur de Événement.** Un ensemble complet de courriels - tels que des invitations et des rappels - plus des landings page avec des formulaires et des campagnes pour déplacer les personnes à travers le programme. Ce programme reçoit des mises à jour sur l&#39;inscription, la présence, etc. provenant de fournisseurs de événements en ligne tels que WebEx.
 1. **Webinaire sans adaptateur de Événement.** Comme ci-dessus, mais avec des processus manuels pour enregistrer l&#39;inscription, la présence, etc.
-1. **Programme** de score des décisions Sirius. Ce programme est conçu pour prendre en charge le modèle standard de notation des décisions Sirius, y compris les règles de notation implicites et explicites et l&#39;affectation de personnes matriquées. Vue [ce PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)pour plus de détails.
+1. **Programme** de score des décisions Sirius. Ce programme est conçu pour prendre en charge le modèle standard de notation des décisions Sirius, y compris les règles de notation implicites et explicites et l&#39;affectation de personnes matriquées.
 
 >[!CAUTION]
 >
@@ -87,24 +86,20 @@ La bibliothèque de Programmes Marketo contient des programmes pré-créés et t
 
 Les programmes utilisent des ressources externes telles que des modèles de courrier électronique, des modèles de landing page, des images, des formulaires, des jetons et des balises de programme. Vous pouvez configurer la manière dont les modèles de landing page et les balises de programme sont traités et Marketo gère automatiquement le reste.
 
-**Modèles de courrier électronique : **Les modèles de courrier électronique sont automatiquement importés et créés, sauf s’il en existe un portant le même nom.
+**Modèles de courrier électronique : les modèles de** courrier électronique sont automatiquement importés et créés, sauf s’il en existe un portant le même nom.
 
-**Modèles de Landing page : **Les modèles de Landing page sont importés dans le studio de création. Vous pouvez utiliser des règles de conflit pour configurer le comportement lorsqu’un modèle portant le même nom existe. La règle par défaut permet d’ajouter un nombre à un modèle de landing page s’il en existe un portant le même nom. Par exemple, un modèle de landing page nommé Modèle standard 1 est créé s’il en existe un nommé Modèle standard.
+**Modèles de landing page : les modèles de** Landing page sont importés dans le studio de création. Vous pouvez utiliser des règles de conflit pour configurer le comportement lorsqu’un modèle portant le même nom existe. La règle par défaut permet d’ajouter un nombre à un modèle de landing page s’il en existe un portant le même nom. Par exemple, un modèle de landing page nommé Modèle standard 1 est créé s’il en existe un nommé Modèle standard.
 
-**Images : **Les images utilisées par les landings page sont importées dans le studio de création, sauf si elles portent le même nom.
+**Images :** Les images utilisées par les landings page sont importées dans le studio de création, sauf si elles portent le même nom.
 
-**Jetons : **Les jetons qui résident en dehors d’un programme seront convertis en jetons locaux pendant le processus d’importation.
-
->[!CAUTION]
->
->Les types d’image que mes jetons ne sont pas pris en charge pour les importations de programme. Si un programme avec un type d&#39;image mes jetons est importé, **no **tokens va passer.
-
-**Balises de Programme : **Vous pouvez utiliser des règles de conflit pour contrôler le traitement des balises de programme qui n’existent pas dans le compte de destination. L’utilisation de la règle par défaut crée les balises de programme ou vous pouvez choisir d’ignorer les balises.  **Forms : **Les formulaires externes seront automatiquement importés dans le studio de création, sauf s’il en existe un portant le même nom.
+**Jetons :** les jetons qui résident en dehors d’un programme sont convertis en jetons locaux pendant le processus d’importation.
 
 >[!CAUTION]
 >
->Lors de l’importation d’un programme, les landings page/courriers électroniques contenant [contenu dynamique](http://docs.marketo.com/x/yRAt) sont ignorés.
+>Les types d’image que mes jetons ne sont pas pris en charge pour les importations de programme. Si un programme dont le type d’image est my tokens est importé, les jetons **no** seront envoyés.
 
-## Visionnage d’une vidéo {#watch-a-video}
+**Balises de programme :** vous pouvez utiliser des règles de conflit pour contrôler le traitement des balises de programme qui n’existent pas dans le compte de destination. L’utilisation de la règle par défaut crée les balises de programme ou vous pouvez choisir d’ignorer les balises. **Forms : les formulaires** externes seront automatiquement importés dans le studio de création, sauf s’il en existe un portant le même nom.
 
-`<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>[!CAUTION]
+>
+>Lors de l’importation d’un programme, les landings page/courriers électroniques contenant [contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) sont ignorés.
