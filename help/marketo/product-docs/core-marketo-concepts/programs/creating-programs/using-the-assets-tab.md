@@ -3,9 +3,9 @@ unique-page-id: 1147124
 description: Utilisation de l’onglet Ressources - Documents marketing - Documentation du produit
 title: Utilisation de l’onglet Ressources
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ Vous pouvez cliquer avec le bouton droit sur l’en-tête si vous souhaitez inte
 >
 >Faites glisser et déposez pour réorganiser les colonnes de ressources.
 
-Les ressources qui ne sont pas locales à votre programme se présenteront comme suit :  ![](assets/image2014-9-18-16-3a30-3a33.png)
+Les ressources qui ne sont pas locales à votre programme se présenteront comme suit :
+
+![](assets/image2014-9-18-16-3a30-3a33.png)
 
 L&#39;onglet des ressources est un petit tableau de bord idéal pour tout ce qui se trouve à l&#39;intérieur et est référencé dans le programme.
