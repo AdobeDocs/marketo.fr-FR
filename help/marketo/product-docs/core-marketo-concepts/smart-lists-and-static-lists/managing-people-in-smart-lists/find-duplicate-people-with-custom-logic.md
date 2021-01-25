@@ -3,7 +3,7 @@ unique-page-id: 2952636
 description: Rechercher des personnes Duplicata ayant une logique personnalisée - Documentation marketing - Documentation du produit
 title: Rechercher des personnes Duplicata avec une logique personnalisée
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -17,21 +17,17 @@ Marketo dispose d&#39;une liste intelligente système qui recherche les duplicat
 
 >[!PREREQUISITES]
 >
->* [Création d’une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Création d’une Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Accédez à la zone Activités marketing.
+1. Accédez à la zone **Activités marketing**.
 
 ![](assets/ma-2.png)
 
-1. Sélectionnez votre liste intelligente, cliquez sur l&#39;onglet Liste intelligente.
+1. Sélectionnez votre liste intelligente, cliquez sur l&#39;onglet **Liste intelligente**.
 
    ![](assets/two-4.png)
 
-1. Recherchez et faites glisser le filtre Champs de Duplicata dans la trame.
+1. Recherchez et faites glisser le filtre **Champs de Duplicata** sur la trame.
 
    ![](assets/three-4.png)
 
@@ -45,4 +41,3 @@ Marketo dispose d&#39;une liste intelligente système qui recherche les duplicat
    ![](assets/four-2.png)
 
    Fait ! Exécutez la liste intelligente pour rechercher les personnes ayant la même valeur dans le champ précédemment sélectionné.
-
