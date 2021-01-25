@@ -3,9 +3,9 @@ unique-page-id: 6848705
 description: Meilleure pratique - Comment organiser vos Programmes - Docs marketing - Documentation sur les produits
 title: Meilleure pratique - Comment organiser vos Programmes
 translation-type: tm+mt
-source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Chacun de ces éléments mentionnés dans l&#39;exemple est un dossier. Notez co
 
 >[!TIP]
 >
->Le dossier &quot;Archiver&quot; est un type de dossier spécial conçu pour supprimer des éléments de certaines listes ainsi que du rapports. Cela permettra à votre système de s&#39;exécuter plus rapidement. En savoir plus [sur les dossiers](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>Le dossier &quot;Archiver&quot; est un type de dossier spécial conçu pour supprimer des éléments de certaines listes ainsi que du rapports. Cela permettra à votre système de s&#39;exécuter plus rapidement. En savoir plus [sur les dossiers](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
 
 Vous pouvez certainement ajouter d&#39;autres dossiers à votre convenance. Gardez simplement à l’esprit que les générations futures de spécialistes du marketing dans votre société seront à l’écoute de vos décisions concernant la manière de nommer/d’organiser les éléments.
 
@@ -76,15 +76,12 @@ Le nommage est essentiel, car les fonctionnalités de Marketo utilisent toutes u
 >1. Newsletter NL 2015-06
 >1. Webinaire WBN 2015-12-01
 
->
 
-
-
-Les noms de programme doivent être uniques dans votre abonnement, même dans différents [espaces de travail](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Pour les ressources locales à l’intérieur des programmes, la règle est de **conserver le nom simple**. Il vous suffit de nommer une invitation &quot;Invitation&quot;, par opposition à &quot;Invitation du webinaire de juin 2015&quot;. Dans la mesure où ils se trouvent dans un programme, le programme parent fait automatiquement partie du nom lorsqu’il le choisit ailleurs. En d’autres termes, les actifs locaux ne doivent être uniques qu’à l’intérieur du programme. Vous pouvez avoir des centaines de ressources appelées &quot;Inviter&quot;, chacune dans un programme différent et cela ne vous fera pas de mal.
+Les noms de programme doivent être uniques dans votre abonnement, même dans différents [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Pour les ressources locales à l’intérieur des programmes, la règle est de **conserver le nom simple**. Il vous suffit de nommer une invitation &quot;Invitation&quot;, par opposition à &quot;Invitation du webinaire de juin 2015&quot;. Dans la mesure où ils se trouvent dans un programme, le programme parent fait automatiquement partie du nom lorsqu’il le choisit ailleurs. En d’autres termes, les actifs locaux ne doivent être uniques qu’à l’intérieur du programme. Vous pouvez avoir des centaines de ressources appelées &quot;Inviter&quot;, chacune dans un programme différent et cela ne vous fera pas de mal.
 
 ## Jetons {#tokens}
 
-Les jetons utilisent des dossiers et des programmes pour définir les variables à utiliser par les landings page, les courriels et d’autres ressources. Découvrez [tout sur les jetons](http://docs.marketo.com/display/docs/tokens).
+Les jetons utilisent des dossiers et des programmes pour définir les variables à utiliser par les landings page, les courriels et d’autres ressources.
 
 L’organisation mentionnée ci-dessus vous permet de placer des jetons dans le dossier de Événement afin qu’il se retrouve en cascade dans tous les événements.
 
@@ -102,7 +99,7 @@ Un Événement comporte généralement de nombreuses pièces mobiles, notamment 
 
 ## Programmes d’engagement {#engagement-programs}
 
-Découvrez [tout sur les programmes d&#39;engagement](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Le meilleur moyen d’organiser votre programme d’engagement consiste à utiliser des dossiers. Créez un dossier pour chaque flux, puis placez les programmes ou courriers électroniques dans ce dossier. Insérez un dossier d’archives dans chaque flux lorsque le contenu devient obsolète et que vous souhaitez le supprimer.
+Découvrez [tout sur les programmes d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Le meilleur moyen d’organiser votre programme d’engagement consiste à utiliser des dossiers. Créez un dossier pour chaque flux, puis placez les programmes ou courriers électroniques dans ce dossier. Insérez un dossier d’archives dans chaque flux lorsque le contenu devient obsolète et que vous souhaitez le supprimer.
 
 ## Programmes opérationnels {#operational-programs}
 
@@ -110,7 +107,7 @@ Elles sont utilisées à des fins de nettoyage des données. Disposez de dossier
 
 ## Imbrication de Programmes électroniques {#nesting-email-programs}
 
-Les Programmes électroniques sont conçus pour être votre outil de diffusion de messages. Vous pouvez les placer dans des Événements ou d&#39;autres programmes pour des promotions, des invitations et des rappels. Ils sont dotés d&#39;un tableau de bord sympa et d&#39;autres fonctions de test A/B. De plus, ils sont facilement manipulables dans la [vue de Planning du programme](http://docs.marketo.com/display/docs/program+schedule+view).
+Les Programmes électroniques sont conçus pour être votre outil de diffusion de messages. Vous pouvez les placer dans des Événements ou d&#39;autres programmes pour des promotions, des invitations et des rappels. Ils sont dotés d&#39;un tableau de bord sympa et d&#39;autres fonctions de test A/B. De plus, ils sont facilement manipulables dans la vue de Planning du programme.
 
 Vous pouvez également créer un programme de messagerie en tant que programme autonome. Les programmes de messagerie ne sont pas autorisés dans les autres programmes de messagerie. Ce serait fou !
 
@@ -126,4 +123,4 @@ Certaines personnes font même abstraction de la majeure partie du texte des cou
 
 ## Résumé {#summary}
 
-Comme vous pouvez le voir, il y a beaucoup de pouvoir dans Marketo. Nous avons traité des concepts de base ici, mais considérons certains [services supplémentaires de Marketo Experts](http://www.marketo.com/services/) pour affiner et vous préparer au succès.
+Comme vous pouvez le voir, il y a beaucoup de pouvoir dans Marketo. Nous avons traité des concepts de base ici, mais considérons certains [services supplémentaires de Marketo Experts](https://www.marketo.com/services/) pour affiner et vous préparer au succès.
