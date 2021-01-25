@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: Gestion et membres de Vue - Docs marketing - Documentation du produit
 title: Gestion et Vue des membres
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Vous pouvez gérer et vue vos membres dans vos programmes à l&#39;aide de l&#39
 
 >[!NOTE]
 >
->**Plongée profonde**
->
-> Explorez plus en détail [l&#39;adhésion au programme](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Explorez plus en détail [l&#39;adhésion au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Rechercher un membre {#search-for-a-member}
 
@@ -41,21 +39,21 @@ Vous pouvez exporter votre liste membre en cliquant sur l&#39;icône Excel en re
 
 ## Gérer les colonnes dans la grille Membres {#manage-columns-in-the-members-grid}
 
-* Faites glisser et déposez des colonnes pour modifier leur ordre. Les deux flèches bleues indiquent où va la colonne.
+Faites glisser et déposez des colonnes pour modifier leur ordre. Les deux flèches bleues indiquent où va la colonne.
 
-   ![](assets/image2014-10-1-16-3a25-3a30.png)
+![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* Cliquez avec le bouton droit sur l’en-tête de colonne pour trier par ordre alphabétique, croissant ou décroissant.
+Cliquez avec le bouton droit sur l’en-tête de colonne pour trier par ordre alphabétique, croissant ou décroissant.
 
-   ![](assets/image2014-10-1-17-3a3-3a28.png)
+![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## Sélectionnez les colonnes visibles dans la grille {#choose-which-columns-are-visible-in-the-grid}
 
-1. Cliquez sur la liste déroulante **Vue **et sélectionnez **Créer une Vue**.
+1. Cliquez sur la liste déroulante **Vue** et sélectionnez **Créer une Vue**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Nommez votre vue personnalisée. Sélectionnez les titres des colonnes. Cliquez sur** Ajouter **et** Supprimer **pour déplacer des colonnes et créer une vue.
+1. Nommez votre vue personnalisée. Sélectionnez les titres des colonnes. Cliquez sur **Ajouter** et **Supprimer** pour déplacer les colonnes et créer une vue.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -89,9 +87,4 @@ Beaucoup de caractéristiques, mais elles sont toutes assez simples. Bon appéti
 
 >[!MORELIKETHIS]
 >
->* [Création d’un rapport de performances de Programme](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-
->
-
-
-
+>[Création d’un rapport de performances de Programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
