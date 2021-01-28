@@ -3,7 +3,7 @@ unique-page-id: 7504120
 description: Lancer une présentation - Documents marketing - Documentation du produit
 title: Lancement d’une présentation
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,11 +23,8 @@ Une fois que vous avez défini les vues et la fréquence de rotation de votre pr
 
 >[!PREREQUISITES]
 >
->* [Créer une présentation](create-a-presentation.md)
->* [Personnalisation d’une présentation](customize-a-presentation.md)
-
->
-
+>* [Créer une présentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [Personnalisation d’une présentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 
 >[!TIP]
@@ -44,5 +41,4 @@ Une fois que vous avez défini les vues et la fréquence de rotation de votre pr
 
    >[!TIP]
    >
-   >Votre présentation sera lancée dans un nouvel onglet. Si nécessaire, déplacez l’onglet vers un moniteur ou un téléviseur externe pour l’affichage et cliquez sur **Plein écran** (ou appuyez sur **F11 **sur votre clavier si vous utilisez Internet Explorer).
-
+   >Votre présentation sera lancée dans un nouvel onglet. Si nécessaire, déplacez l’onglet vers un moniteur ou un téléviseur externe pour l’affichage et cliquez sur **Plein écran** (ou appuyez sur **F11** sur votre clavier si vous utilisez Internet Explorer).
