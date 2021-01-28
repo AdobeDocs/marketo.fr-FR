@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Présentation des cartes Analytics - Documents marketing - Documentation du produit
 title: Présentation des cartes Analytics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Au début de chaque mois, le module Moments du marketing fournit trois cartes de
 
 ## Analytics Cards {#analytics-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` Lorsque vous appuyez sur une carte Analytics, vous pouvez effectuer les opérations suivantes :
+Lorsque vous appuyez sur une carte Analytics, vous pouvez effectuer les opérations suivantes :
 
-* [En faire un favori](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Marquer comme terminé](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Partager](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [En faire un favori](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Marquer comme terminé](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Partager](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Appuyez sur une carte Analytics pour afficher :
 
@@ -37,7 +37,7 @@ Dans cet exemple, rouge indique que la valeur a diminué au cours de la période
 
 ## Pistes acquises {#acquired-leads}
 
-La **carte Pistes acquises **vous présente un rapport de tendance mensuelle sur le nombre de nouvelles pistes.
+La carte **Pistes acquises** présente un rapport de tendance mensuelle du nombre de nouvelles pistes.
 
 >[!NOTE]
 >
@@ -61,12 +61,7 @@ Maintenant vous savez.
 
 >[!MORELIKETHIS]
 >
->* [Présentation des moments marketing](understanding-marketo-moments.md)
->* [Présentation des cartes de Événement](understanding-event-cards.md)
->* [Présentation des cartes de Programme de messagerie](understanding-email-program-cards.md)
+>* [Présentation des moments marketing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Présentation des cartes de Événement](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Présentation des cartes de Programme de messagerie](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
->
-
-
-
-Fait amusant : Le premier courriel jamais envoyé a été envoyé par Ray Tomlinson à lui-même en 1971.
