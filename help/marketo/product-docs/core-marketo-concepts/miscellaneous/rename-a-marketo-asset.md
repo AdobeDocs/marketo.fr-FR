@@ -3,7 +3,7 @@ unique-page-id: 2952484
 description: Renommer un actif marketing - Documents marketing - Documentation du produit
 title: Renommer un actif marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -26,4 +26,3 @@ Il est facile de renommer les dossiers, les programmes et les ressources locales
    >[!NOTE]
    >
    >Vous ne pouvez pas renommer les fichiers et les images qui ont été téléchargés, ni une ressource qui est actuellement référencée dans une Liste dynamique ou une Campaign dynamique (en filtres, déclencheurs, étapes de flux, etc.).
-
