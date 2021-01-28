@@ -3,7 +3,7 @@ unique-page-id: 2953331
 description: Réexécution d’une Campaign dynamique dans la Vue de Planning du programme - Docs marketing - Documentation du produit
 title: Réexécution d’une Campaign dynamique dans la Vue de Planning du programme
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Vous pouvez facilement créer de nouvelles exécutions d’une campagne dynamiqu
 
    >[!TIP]
    >
-   >Vous pouvez également effectuer cette opération à partir du [programme cible](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >Vous pouvez également effectuer cette opération à partir du [programme cible](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boum ! De la même manière, vous avez planifié une autre exécution pour cette campagne intelligente. Si cette campagne intelligente contenait des étapes d&#39;envoi d&#39;e-mails, vous les verrez aussi !
