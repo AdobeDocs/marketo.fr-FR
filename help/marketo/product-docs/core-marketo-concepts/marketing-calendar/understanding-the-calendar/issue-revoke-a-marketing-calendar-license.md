@@ -3,9 +3,9 @@ unique-page-id: 1147255
 description: Publication/Révocation d’une licence de calendrier marketing - Documents marketing - Documentation du produit
 title: Publication/Révocation d’une licence de calendrier marketing
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Pour utiliser vos [sièges du calendrier marketing](http://docs.marketo.com/display/docs/marketing+calendar), vous devez délivrer des licences aux utilisateurs qui ont besoin d’y accéder. Voici comment.
+Pour utiliser vos [sièges du calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md), vous devez délivrer des licences aux utilisateurs qui ont besoin d’y accéder. Voici comment.
 
 1. Accédez à la section **Admin**.
 
@@ -43,7 +43,7 @@ Pour utiliser vos [sièges du calendrier marketing](http://docs.marketo.com/disp
 
    ![](assets/4.png)
 
-   Bien joué ! Consultez la coche verte sous **Calendrier** ?
+   Bien joué ! Reportez-vous à la coche verte sous Calendrier ?
 
    ![](assets/5.png)
 
