@@ -3,7 +3,7 @@ unique-page-id: 1147136
 description: Modification des entrées dans la Vue de Planning du programme - Documents marketing - Documentation du produit
 title: Modification des entrées dans la Vue de Planning du programme
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Vous faites du rock ! Maintenant, la date de votre inscription a été déplacé
 >[!NOTE]
 >
 > Les entrées de campagne intelligente et de programme électronique qui ont déjà été exécutées ne peuvent pas être déplacées par le passé.
-
