@@ -3,7 +3,7 @@ unique-page-id: 1147102
 description: Création d’une entrée dans la Vue de Planning du programme - Documentation sur le marketing - Documentation du produit
 title: Création d’une entrée dans la Vue de Planning du programme
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Vous pouvez créer des entrées à partir de la vue de Planning du programme pou
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Nommez l’entrée. Appuyez sur **Entrée **pour confirmer le nom.
+1. Nommez l’entrée. Appuyez sur **Entrée** pour confirmer le nom.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -59,7 +59,7 @@ Vous pouvez créer des entrées à partir de la vue de Planning du programme pou
 
    >[!NOTE]
    >
-   >La tâche est une [entrée personnalisée](create-custom-entry-types.md). Vous pouvez créer des tâches et d’autres entrées personnalisées pour vous aider à effectuer le suivi des points de l’ordre du jour non liés au marketing.
+   >La tâche est une [entrée personnalisée](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Vous pouvez créer des tâches et d’autres entrées personnalisées pour vous aider à effectuer le suivi des points de l’ordre du jour non liés au marketing.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,4 @@ Vous pouvez créer des entrées à partir de la vue de Planning du programme pou
 
 >[!NOTE]
 >
-> Vous pouvez également créer un [programme ](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) ou [courriel ](creating-a-new-email-program-in-the-schedule-view.md) à partir de la vue de planification.
-
+> Vous pouvez également créer un [programme ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) ou [courriel ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) à partir de la vue de planification.
