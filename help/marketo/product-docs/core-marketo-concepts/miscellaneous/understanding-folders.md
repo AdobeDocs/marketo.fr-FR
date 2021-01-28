@@ -3,7 +3,7 @@ unique-page-id: 4720779
 description: Présentation des dossiers - Documents marketing - Documentation du produit
 title: Présentation des dossiers
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présentation des dossiers {#understanding-folders}
 
-Les dossiers d’un programme peuvent être utilisés pour organiser vos campagnes et ressources intelligentes. Il s’agit de dossiers de campagne [différents de ](create-new-campaign-folder.md).
+Les dossiers d’un programme peuvent être utilisés pour organiser vos campagnes et ressources intelligentes. Il s’agit de dossiers de campagne [différents de ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Créer un dossier {#create-a-folder}
 
@@ -76,4 +76,3 @@ Fonctionnalité qui **ne sera pas** modifiée lors de l’archivage :
 * Une ressource en cours d’utilisation continuera à fonctionner même après son archivage.
 * Vous pouvez utiliser un filtre pour sélectionner des fichiers archivés à utiliser dans les rapports.
 * Les fichiers archivés ne sont pas désactivés. Ils doivent également être désactivés si vous souhaitez qu’ils cessent de fonctionner.
-
