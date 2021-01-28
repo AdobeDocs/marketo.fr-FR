@@ -3,9 +3,9 @@ unique-page-id: 1147235
 description: Filtrage d’un rapport Programme par balise - Docs marketing - Documentation du produit
 title: Filtrage d’un rapport Programme par balise
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrage d’un rapport Programme par balise {#filter-a-program-report-by-tag}
 
-Concentrez votre [rapport de performances du programme](create-a-program-performance-report.md)sur des balises [spécifiques ](http://docs.marketo.com/display/docs/tags).
+Concentrez votre [rapport de performances du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) sur des balises [spécifiques ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
 
 1. Accédez à **Marketing** **Activités** (ou **Analytics**).
 
@@ -35,23 +35,10 @@ Concentrez votre [rapport de performances du programme](create-a-program-perform
 
    ![](assets/prospect2.jpg)
 
-1. Fait ! Cliquez sur l&#39;onglet **Rapport** pour afficher *juste* les programmes qui correspondent aux balises sélectionnées dans votre rapport.
+1. Fait ! Cliquez sur l&#39;onglet **Rapport** pour afficher _juste_ les programmes qui correspondent aux balises sélectionnées dans votre rapport.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
    >[!NOTE]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Filtrage d&#39;un rapport Programme par coût de période](filter-a-program-report-by-period-cost.md)
-
-
-   >[!NOTE]
-   >
-   >**Plongée profonde**
-   >
-   >
-   >Découvrez tous les rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtrage d&#39;un rapport Programme par coût de période](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
