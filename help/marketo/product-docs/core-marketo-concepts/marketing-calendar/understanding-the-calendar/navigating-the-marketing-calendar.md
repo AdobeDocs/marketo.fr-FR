@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: Navigation dans le calendrier marketing - Documents marketing - Documentation du produit
 title: Navigation dans le calendrier marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La navigation dans le calendrier marketing est facile comme un, deux, trois !
 
 >[!PREREQUISITES]
 >
->Assurez-vous de disposer d’une licence [Calendrier marketing](issue-revoke-a-marketing-calendar-license.md). Sinon, la mosaïque Calendrier marketing ne s’affichera pas dans Mon marketing.
+>Assurez-vous de disposer d’une licence [Calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md). Sinon, la mosaïque Calendrier marketing ne s’affichera pas dans Mon marketing.
 
 1. Accédez au **Calendrier marketing**.
 
@@ -39,9 +39,7 @@ La vue d&#39;ordre du jour affiche toutes vos entrées en tant que liste.
 
 1. Cliquez sur la liste déroulante **Filtre**.
 
-   ` ![](assets/image2014-9-26-10-3a29-3a6.png)
-
-   `
+   ![](assets/image2014-9-26-10-3a29-3a6.png)
 
 1. Sélectionnez la vue **Ordre du jour**.
 
@@ -67,9 +65,6 @@ Vous pouvez également utiliser ces raccourcis clavier.
 
 Super ! Ce sont les bases. Vous pouvez également personnaliser votre vue à l’aide de filtres.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->* [Filtrage du calendrier marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
-
+>[Filtrage du calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
