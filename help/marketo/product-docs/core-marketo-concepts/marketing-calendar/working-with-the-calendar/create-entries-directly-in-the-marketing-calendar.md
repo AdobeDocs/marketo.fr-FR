@@ -3,7 +3,7 @@ unique-page-id: 2953348
 description: Créer directement des entrées dans le calendrier marketing - Documents marketing - Documentation du produit
 title: Créer directement des entrées dans le calendrier marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -26,7 +26,8 @@ Voici comment.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-   Sélectionnez une entrée précédente et cliquez sur Afficher la mise au point du Programme.
+1. Sélectionnez une entrée précédente et cliquez sur **Afficher la cible d’action du Programme**.
+
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
 1. Une fois en mode de mise au point du programme, sélectionnez le jour de votre choix pour ajouter une entrée.
@@ -47,9 +48,4 @@ Voici comment.
 
 >[!MORELIKETHIS]
 >
->* [Modifier directement les entrées dans le calendrier marketing](edit-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[Modifier directement les entrées dans le calendrier marketing](edit-entries-directly-in-the-marketing-calendar.md)
