@@ -3,9 +3,9 @@ unique-page-id: 1147294
 description: Filtrage du calendrier marketing - Documents marketing - Documentation du produit
 title: Filtrage du calendrier marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Utilisez les types d&#39;entrée, les balises de programme ou les espaces de tra
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Cliquez sur la liste déroulante **Entrée** **Type**.
+1. Cliquez sur la liste déroulante **Type d’entrée**.
 
    >[!NOTE]
    >
@@ -33,7 +33,7 @@ Utilisez les types d&#39;entrée, les balises de programme ou les espaces de tra
 
    >[!TIP]
    >
-   >Pour obtenir la description des types d&#39;entrée standard, consultez [Planning du programme Vue Entry Types](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
+   >Pour obtenir la description des types d&#39;entrée standard, consultez [Planning du programme Vue Entry Types](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Sélectionnez les balises de programme qui vous intéressent.
 
@@ -47,10 +47,4 @@ Utilisez les types d&#39;entrée, les balises de programme ou les espaces de tra
 
    >[!NOTE]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Enregistrement d’une définition de filtre dans le calendrier marketing](saving-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[Enregistrement d’une définition de filtre dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
