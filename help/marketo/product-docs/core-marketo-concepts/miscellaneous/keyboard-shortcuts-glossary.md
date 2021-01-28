@@ -3,7 +3,7 @@ unique-page-id: 1147318
 description: Glossaire des raccourcis clavier - Documents marketing - Documentation du produit
 title: Glossaire des raccourcis clavier
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
 | ESC | Fermer la fenêtre contextuelle |
 | Retour/Entrée | Fenêtre contextuelle Envoyer |
 | Ctrl + Alt/Opt + H | Masquer/afficher un champ dans l’éditeur de formulaires |
-
