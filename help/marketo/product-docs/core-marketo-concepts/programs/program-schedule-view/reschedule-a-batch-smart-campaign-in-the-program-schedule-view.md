@@ -3,7 +3,7 @@ unique-page-id: 7514985
 description: Replanifier une Campaign Smart par lot dans la Vue Planning du programme - Docs marketing - Documentation du produit
 title: Replanifier une Campaign Smart par lot dans la Vue de Planning du programme
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -19,7 +19,9 @@ Souhaitez-vous replanifier une exécution de campagne par lot intelligente ? Fai
 
    ![](assets/image2015-5-19-12-3a8-3a28.png)
 
-1. Faites glisser et déposez jusqu’à la nouvelle date d’exécution de la campagne. ![](assets/image2015-5-19-12-3a12-3a1.png)
+1. Faites glisser et déposez jusqu’à la nouvelle date d’exécution de la campagne.
+
+![](assets/image2015-5-19-12-3a12-3a1.png)
 
 1. Super ! La campagne intelligente a été replanifiée. L’heure peut également être modifiée à partir de la liste déroulante **Date** dans les détails de l’entrée.
 
@@ -27,5 +29,4 @@ Souhaitez-vous replanifier une exécution de campagne par lot intelligente ? Fai
 
 >[!MORELIKETHIS]
 >
->[Replanifier un Programme entier à partir de la Vue de planification](rescheduling-an-entire-program-from-the-schedule-view.md)
-
+>[Replanifier un Programme entier à partir de la Vue de planification](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)
