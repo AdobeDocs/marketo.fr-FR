@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: Types d’entrée de Vue de Planning du programme - Documents marketing - Documentation du produit
 title: Types d’entrée de Vue de Planning du programme
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Types d&#39;entrée de Vue de Planning du programme {#program-schedule-view-entry-types}
 
-Il existe huit types d&#39;entrée intégrés différents qui seront visibles et disponibles pour utilisation dans votre vue de Planning du programme. Vous pouvez également [créer des types d&#39;entrée personnalisés](create-custom-entry-types.md) dans la section Admin.
+Il existe huit types d&#39;entrée intégrés différents qui seront visibles et disponibles pour utilisation dans votre vue de Planning du programme. Vous pouvez également [créer des types d&#39;entrée personnalisés](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) dans la section Admin.
 
 <table> 
  <thead> 
@@ -57,12 +57,3 @@ Il existe huit types d&#39;entrée intégrés différents qui seront visibles et
   </tr> 
  </tbody> 
 </table>
-
->[!MORELIKETHIS]
->
->* [Créer un type d’entrée personnalisé](create-custom-entry-types.md)
-
->
-
-
-
