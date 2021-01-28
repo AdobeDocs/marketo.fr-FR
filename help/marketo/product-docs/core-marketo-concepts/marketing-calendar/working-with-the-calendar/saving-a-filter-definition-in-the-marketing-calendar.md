@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: Enregistrement d’une définition de filtre dans le calendrier marketing - Documents marketing - Documentation du produit
 title: Enregistrement d’une définition de filtre dans le calendrier marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ L’enregistrement d’un filtre vous permet de basculer entre les différentes 
 
 >[!PREREQUISITES]
 >
->* [Filtrage du calendrier marketing](filtering-the-marketing-calendar.md)
-
->
-
-
+>[Filtrage du calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
 
 1. Définissez le filtre.
 
@@ -39,14 +35,8 @@ L’enregistrement d’un filtre vous permet de basculer entre les différentes 
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Si vous le souhaitez, vous pouvez [envoyer une copie](sharing-a-filter-definition-in-the-marketing-calendar.md) de la définition à d’autres utilisateurs du marché.
+   Si vous le souhaitez, vous pouvez [envoyer une copie](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md) de la définition à d’autres utilisateurs du marché.
 
    >[!NOTE]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Partage d’une définition de filtre dans le calendrier marketing](sharing-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[Partage d’une définition de filtre dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
