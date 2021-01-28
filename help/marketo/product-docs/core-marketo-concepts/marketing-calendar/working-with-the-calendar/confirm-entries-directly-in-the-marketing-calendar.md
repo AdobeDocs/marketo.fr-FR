@@ -3,7 +3,7 @@ unique-page-id: 2953362
 description: Confirmer les entrées directement dans le calendrier marketing - Documents marketing - Documentation du produit
 title: Confirmer directement les entrées dans le calendrier marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Des campagnes intelligentes et des programmes électroniques peuvent être cré�
    La confirmation exécute une série de processus de validation et si tout extrait, l&#39;entrée sera confirmée.
 
    ![](assets/image2014-10-20-13-3a22-3a36.png)
-
