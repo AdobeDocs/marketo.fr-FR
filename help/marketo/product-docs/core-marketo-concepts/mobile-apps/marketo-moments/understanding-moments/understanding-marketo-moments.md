@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Présentation des moments marketing - Docs marketing - Documentation du produit
 title: Présentation des moments marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ Le pouvoir de Marketo est maintenant entre vos mains, littéralement ! Prévisua
 >
 >**Disponibilité**
 >
->L’autorisation d’accès aux applications mobiles est requise. Contactez votre administrateur marketing pour [mettre à jour votre rôle](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
-## Présentation des moments {#introducing-moments}
-
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
+>L’autorisation d’accès aux applications mobiles est requise. Contactez votre administrateur marketing pour [mettre à jour votre rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Flux {#streams}
 
@@ -35,13 +31,11 @@ Voici les différents courants dans Moments.
 >
 >**Définition**
 >
->Moments - Tout ce qui vient de courir, ou qui est sur le point de courir va ici.
->
->Favoris - Tout ce que vous faites comme favori entre ici.
->
->Plus tard - Tout ce qui se passe plus tard que ce moment va dans ici.
->
->Terminé - Tout ce qui a fini de courir ou que vous avez marqué comme terminé va ici.
+>* Moments : Tout ce qui vient juste de courir, ou qui est sur le point de courir va ici.
+>* Favoris : Tout ce que vous faites d&#39;un favori entre ici.
+>* Plus tard : Tout ce qui se passe plus tard que ce moment est ici.
+>* Terminé : Tout ce qui a fini de courir ou que vous avez marqué comme terminé va ici.
+
 
 Bon, maintenant que nous avons tout perdu, jetons un oeil sur les Moments du Marketo sur un téléphone !
 
@@ -53,7 +47,7 @@ Marketo Moments vous donne trois cartes différentes pour suivre la progression 
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**battement**  de coeur - Hey, ce courriel est livré maintenant ! Et voici aussi les statistiques. Allez-y et partagez-le.
+**Heart beat** - Hey - ce courriel est livré maintenant ! Et voici aussi les statistiques. Allez-y et partagez-le.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
@@ -93,19 +87,12 @@ Super ! Maintenant, vous pouvez faire en sorte que quelque chose arrive en appuy
 >* Envoyer un exemple (courriel uniquement) : Utilisez-le pour permettre à d&#39;autres de vérifier l&#39;aspect de vos courriels avant de les envoyer.
 >* Courriel de la prévisualisation (courriel uniquement) : C&#39;est toujours une bonne idée de vérifier vos e-mails à l&#39;avance.
 
->
-
-
 
 ## Moments ultérieurs {#later-moments}
 
 La section Plus tard présente les activités à venir.
 
 1. Début en appuyant sur le menu du hamburger.
-
-   >[!NOTE]
-   >
-   >Selon le [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger), le plus grand hamburger du monde pesait 2 014 lb.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -151,23 +138,19 @@ A chaque étape, vous pouvez confirmer ou annuler une action. Si vous changez d�
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-Prêt à en apprendre davantage ?
-
->[!MORELIKETHIS]
->
->* [Présentation des cartes de Programme de messagerie](understanding-email-program-cards.md)
->* [Présentation des cartes de Événement](understanding-event-cards.md)
->* [Présentation des cartes Analytics](understanding-analytics-cards.md)
->* [Présentation des cartes Campaign Smart](understanding-smart-campaign-cards.md)
-
->
-
-
-
 ## Versions prises en charge {#supported-versions}
 
 Marketo Moments prend en charge les versions suivantes du système d’exploitation :
 
 * Apple iOS 8.0 et versions ultérieures.
 * Android version 4.1 et ultérieure (essentiellement Jellybean et up).
+
+Prêt à en apprendre davantage ?
+
+>[!MORELIKETHIS]
+>
+>* [Présentation des cartes de Programme de messagerie](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Présentation des cartes de Événement](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Présentation des cartes Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Présentation des cartes Campaign Smart](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
