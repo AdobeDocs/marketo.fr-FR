@@ -3,7 +3,7 @@ unique-page-id: 2953207
 description: Créer un dossier de campagne - Documents marketing - Documentation du produit
 title: Créer un dossier de campagne
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Les dossiers Campaign vous aident à conserver un espace de travail bien rangé.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Facultatif : Saisissez une **Description** et cliquez sur** Créer. **
+1. Facultatif : Saisissez une **Description** et cliquez sur **Créer**.
 
    >[!TIP]
    >
@@ -43,14 +43,10 @@ Les dossiers Campaign vous aident à conserver un espace de travail bien rangé.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Désormais, lorsque [vous créez un nouveau programme](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), vous verrez ce dossier de campagne comme une option.
+   Désormais, lorsque [vous créez un nouveau programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), vous verrez ce dossier de campagne comme une option.
 
 >[!MORELIKETHIS]
 >
->* [Création d’un Programme](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Créer une Campaign intelligente](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>* [Création d’un Programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Créer une Campaign intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
