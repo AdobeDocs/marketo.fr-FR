@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: Personnalisation d’une présentation - Documents marketing - Documentation du produit
 title: Personnalisation d’une présentation
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -23,18 +23,15 @@ Configurez votre présentation du calendrier pour qu’elle reflète les objecti
 
 >[!PREREQUISITES]
 >
->* [Créer des ](create-a-custom-goal.md) objectifs de Liste  [intelligente ou des objectifs personnalisés](create-a-smart-list-goal.md)
+>* [Créer des ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) objectifs de Liste  [intelligente ou des objectifs personnalisés](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
    >
    >
-* [Créer une présentation](create-a-presentation.md)
-
->
-
+* [Créer une présentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 
 ## Choix des Vues {#choosing-the-views}
 
-Effectuez un cycle Presentations à l’aide de différentes [définitions de filtre](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) que vous avez sélectionnées. Extrayez autant de vues que vous le souhaitez et personnalisez la fréquence.
+Effectuez un cycle Presentations à l’aide de différentes [définitions de filtre](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) que vous avez sélectionnées. Extrayez autant de vues que vous le souhaitez et personnalisez la fréquence.
 
 1. Dans l’arborescence de droite, faites glisser les différentes vues que vous souhaitez faire pivoter dans votre présentation.
 
@@ -42,7 +39,7 @@ Effectuez un cycle Presentations à l’aide de différentes [définitions de fi
 
 ## Ajouter un objectif {#add-a-goal}
 
-Presentations est le plus génial lorsqu&#39;il affiche les objectifs de votre équipe. Il vous suffit de faire glisser les différents [objectifs personnalisés](create-a-custom-goal.md) ou [objectifs de liste intelligente](create-a-smart-list-goal.md). Vous pouvez en utiliser jusqu&#39;à 10.
+Presentations est le plus génial lorsqu&#39;il affiche les objectifs de votre équipe. Il vous suffit de faire glisser les différents [objectifs personnalisés](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) ou [objectifs de liste intelligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). Vous pouvez en utiliser jusqu&#39;à 10.
 
 1. Dans l&#39;arborescence de droite, faites glisser les différents objectifs à afficher dans votre présentation.
 
@@ -52,7 +49,7 @@ Presentations est le plus génial lorsqu&#39;il affiche les objectifs de votre �
 
 Une fois que vous avez saisi les vues de votre choix dans la présentation, définissez la fréquence de rotation entre les différentes vues.
 
-1. Cliquez sur** 5 minutes** (il s’agit de la cadence par défaut).
+1. Cliquez sur **5 minutes** (il s’agit de la cadence par défaut).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
@@ -76,7 +73,7 @@ L&#39;affichage du calendrier peut être défini sur une vue de 3 semaines ou me
 
 >[!TIP]
 >
->Définissez une [image d’arrière-plan](add-a-background-image-to-a-presentation.md) pour votre présentation. Nous suggérons des chatons ou des arcs-en-ciel.
+>Définissez une [image d’arrière-plan](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md) pour votre présentation. Nous suggérons des chatons ou des arcs-en-ciel.
 
 ## Prévisualisation a Présentation {#preview-a-presentation}
 
@@ -92,14 +89,8 @@ Une fois la présentation configurée, elle est prête à être prévisualisée 
 
    N&#39;aimez pas ce que vous voyez ? Retournez en arrière et utilisez différentes définitions de filtre pour créer la vue que vous aimez.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->* [Ajouter une image d’arrière-plan à une présentation](add-a-background-image-to-a-presentation.md)
->* [Lancement d’une présentation](launch-a-presentation.md)
-
->
-
-
+>* [Ajouter une image d’arrière-plan à une présentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
+>* [Lancement d’une présentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
 
