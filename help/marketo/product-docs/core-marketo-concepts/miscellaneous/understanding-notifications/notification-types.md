@@ -3,7 +3,7 @@ unique-page-id: 2953243
 description: Types de notification - Documents marketing - Documentation du produit
 title: Types de notification
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Si vous essayez d’envoyer des pistes à Facebook sans accepter les conditions 
 
 Nettoyage Campaign du déclencheur d&#39;inactivité
 
-Désactivez les campagnes dynamiques déclenchées qui n’obtiennent plus d’activité. En savoir plus sur le [nettoyage de campagne de déclenchement automatique](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Désactivez les campagnes dynamiques déclenchées qui n’obtiennent plus d’activité. En savoir plus sur le [nettoyage de campagne de déclenchement automatique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,4 @@ Vous serez averti lorsque vous atteindrez votre quota quotidien. Le quota est r�
 
 >[!NOTE]
 >
->Certains des codes d&#39;erreur que vous pouvez recevoir sont décrits dans notre [Documentation du développeur](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
-
+>Certains des codes d&#39;erreur que vous pouvez recevoir sont décrits dans notre [Documentation du développeur](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
