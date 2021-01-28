@@ -3,7 +3,7 @@ unique-page-id: 8783561
 description: Envoi d'un exemple - Documents marketing - Documentation du produit
 title: Envoi d’un exemple
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -31,7 +31,8 @@ Vous pouvez partager un exemple de moment de courrier électronique directement 
 
 ## Méthode rapide {#the-quick-way}
 
-1. Appuyez sur l&#39;icône d&#39;avion en papier dans l&#39;écran Prévisualisation de courriel pour envoyer un échantillon directement à partir de la prévisualisation.\
+1. Appuyez sur l&#39;icône d&#39;avion en papier dans l&#39;écran Prévisualisation de courriel pour envoyer un échantillon directement à partir de la prévisualisation.
+
    ![](assets/image2015-9-25-10-3a28-3a47.png)
 
 Mission accomplie !
