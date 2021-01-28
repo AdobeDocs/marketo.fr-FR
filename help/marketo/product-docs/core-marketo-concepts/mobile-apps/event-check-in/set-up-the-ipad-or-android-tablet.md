@@ -3,7 +3,7 @@ unique-page-id: 10099363
 description: Configuration de l’iPad ou de la tablette Android - Documentation sur le marketing - Documentation du produit
 title: Configuration de l’iPad ou de la tablette Android
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Si l’application Marketo Événements n’est pas encore installée sur votre 
 
 Si l’application Marketo Événements n’est pas encore installée sur votre tablette Android, voici comment l’obtenir.
 
-1. Ouvrez votre tablette et appuyez sur l’application** Google Play Store**.
+1. Ouvrez votre tablette et appuyez sur l’application **Google Play Store**.
 1. Dans la zone Rechercher, saisissez **Marketo** et appuyez sur **Retour**.
 1. Dans les résultats de la recherche, appuyez sur l’application **Événements marketing**.
 
@@ -69,7 +69,7 @@ Avant d’affecter des iPad ou des tablettes au personnel du salon, vérifiez qu
 Synchronisez pour vous assurer que les personnes que vous avez ajoutées sont là.
 
 1. Ouvrez votre événement dans l’application iPad ou Android.
-1. Cherche les gens. Si vous ne les voyez pas, appuyez sur **Synchroniser **pour synchroniser l’application et recharger la liste des Événements.
+1. Cherche les gens. Si vous ne les voyez pas, appuyez sur **Synchroniser** pour synchroniser l’application et recharger la liste des Événements.
 
    **iPad**
 
@@ -83,7 +83,7 @@ Synchronisez pour vous assurer que les personnes que vous avez ajoutées sont l�
 
 Assurez-vous de vérifier que les enregistrements fonctionnent sur iPad ou tablette avant le événement.
 
-1. Dans l&#39;application, [vérifiez une piste de test dans ](check-people-into-your-event-from-your-tablet.md).
+1. Dans l&#39;application, [vérifiez une piste de test dans ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Appuyez sur l’icône **Synchroniser** pour synchroniser l’application.
 1. Dans Marketo, ouvrez votre événement et cliquez sur **Membres**.
 
@@ -96,4 +96,3 @@ Assurez-vous de vérifier que les enregistrements fonctionnent sur iPad ou table
    >[!TIP]
    >
    >Utilisez-vous comme personne à tester.
-
