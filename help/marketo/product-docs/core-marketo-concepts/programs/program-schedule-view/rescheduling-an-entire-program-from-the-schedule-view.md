@@ -3,9 +3,9 @@ unique-page-id: 1147138
 description: Replanifier un Programme entier à partir de la Vue de planification - Documents marketing - Documentation du produit
 title: Replanifier un Programme entier à partir de la Vue de planification
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Lorsque vous clonez un programme ou un événement avec des dates, il est probab
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Sélectionnez la liste déroulante Action de Événement. Choisissez Replanifier les entrées.
+1. Sélectionnez la liste déroulante Action de Événement. Sélectionnez **Replanifier les entrées**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,11 +31,11 @@ Lorsque vous clonez un programme ou un événement avec des dates, il est probab
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Cliquez sur Replanifier.
+1. Cliquez sur **Replanifier**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 
-1. Ouah ! Nos récupérateurs de données désapprouveront, replanifieront et réapprouveront alors toutes vos ressources avec les dates correctes !
+1. Nos récupérateurs de données désapprouveront, replanifieront et réapprouveront alors toutes vos ressources avec les dates correctes !
 
    ![](assets/image2014-9-23-15-3a19-3a1.png)
 
@@ -43,5 +43,6 @@ Lorsque vous clonez un programme ou un événement avec des dates, il est probab
 >
 >Les ressources déjà exécutées ne se déplaceront pas.
 
-C&#39;est fou ! Tout est maintenant replanifié. Ajustez les dates spécifiques si nécessaire.    ![](assets/image2014-9-23-15-3a19-3a58.png)
+Tout est maintenant replanifié. Ajustez les dates spécifiques si nécessaire.
 
+![](assets/image2014-9-23-15-3a19-3a58.png)
