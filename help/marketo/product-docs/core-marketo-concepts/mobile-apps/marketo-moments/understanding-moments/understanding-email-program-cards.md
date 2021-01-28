@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: Présentation des cartes de Programme par courriel - Documents marketing - Documentation du produit
 title: Présentation des cartes de Programme de messagerie
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Utilisez Moments du marketing pour vue vos Programmes électroniques à partir d
 
 ## Cartes de Programme par courriel {#email-program-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` Lorsque vous appuyez sur une carte de Programme de messagerie, vous pouvez :
+Lorsque vous appuyez sur une carte de Programme de messagerie, vous pouvez :
 
-* [Créer un courriel comme favori](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Marquage d’un courrier électronique comme effectué](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Partage d’une carte de moment de courrier électronique](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Créer un courriel comme favori](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Marquage d’un courrier électronique comme effectué](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Partage d’une carte de moment de courrier électronique](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Sur une carte de programme électronique pour un courrier électronique qui n’est pas encore envoyé, vous trouverez des informations sur l’état et l’audience de ce programme électronique.
 
@@ -41,7 +41,7 @@ Une fois le courrier électronique envoyé, la carte affiche d’autres informat
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Appuyez sur **Confirmer **pour terminer le travail, ou **Jamais d&#39;indifférence** si vous aviez des doutes.
+1. Appuyez sur **Confirmer** pour terminer le travail, ou **Ne vous souciez jamais** si vous avez des doutes.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -105,7 +105,8 @@ Cliquez avec le bouton droit sur une carte de courriel pour la prévisualisation
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   De cette façon, vous savez que votre courriel est parfait avant de tirer sur la gâchette !\
+   De cette façon, vous savez que votre courriel est parfait avant de tirer sur la gâchette !
+
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
    Excellent !
@@ -114,12 +115,7 @@ Et c&#39;est le scoop pour voir vos campagnes par courriel. Maintenant, vous êt
 
 >[!MORELIKETHIS]
 >
->* [Présentation des moments marketing](understanding-marketo-moments.md)
->* [Présentation des cartes de Événement](understanding-event-cards.md)
->* [Présentation des cartes Analytics](understanding-analytics-cards.md)
->* [Programmes de messagerie](http://docs.marketo.com/display/docs/email+programs)
-
->
-
-
+>* [Présentation des moments marketing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Présentation des cartes de Événement](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Présentation des cartes Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
