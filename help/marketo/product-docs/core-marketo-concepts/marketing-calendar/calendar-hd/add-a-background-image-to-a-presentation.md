@@ -3,7 +3,7 @@ unique-page-id: 7504437
 description: Ajouter une image d’arrière-plan à une présentation - Documentation sur le marketing - Documentation sur le produit
 title: Ajouter une image d’arrière-plan à une présentation
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Personnalisez une présentation en sélectionnant une image d’arrière-plan.
 
 >[!PREREQUISITES]
 >
->* [Créer une présentation](create-a-presentation.md)
-
->
-
-
+>[Créer une présentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 1. Cliquez avec le bouton droit sur une présentation et sélectionnez **Configuration de la Vue**.
 
@@ -31,7 +27,7 @@ Personnalisez une présentation en sélectionnant une image d’arrière-plan.
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. Faites glisser et déposez **Image d’arrière-plan **depuis l’arborescence de droite vers la trame.
+1. Faites glisser **Image d’arrière-plan** de l’arborescence de droite vers le canevas.
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -48,4 +44,3 @@ Personnalisez une présentation en sélectionnant une image d’arrière-plan.
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
    Et c&#39;est tout !
-
