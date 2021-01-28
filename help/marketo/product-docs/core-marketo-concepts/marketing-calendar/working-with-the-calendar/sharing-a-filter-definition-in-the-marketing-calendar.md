@@ -3,7 +3,7 @@ unique-page-id: 1147304
 description: Partage d’une définition de filtre dans le calendrier marketing - Documents marketing - Documentation du produit
 title: Partage d’une définition de filtre dans le calendrier marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -17,11 +17,8 @@ Les filtres peuvent être partagés entre différents utilisateurs.
 
 >[!PREREQUISITES]
 >
->* [Création d’un filtre dans le calendrier marketing](filtering-the-marketing-calendar.md)
->* [Enregistrement d’une définition de filtre dans le calendrier marketing](saving-a-filter-definition-in-the-marketing-calendar.md)
-
->
-
+>* [Création d’un filtre dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>* [Enregistrement d’une définition de filtre dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
 
 
 >[!NOTE]
@@ -43,4 +40,3 @@ Les filtres peuvent être partagés entre différents utilisateurs.
    >[!NOTE]
    >
    >Les autorisations d’utilisateur affecteront la visibilité.
-
