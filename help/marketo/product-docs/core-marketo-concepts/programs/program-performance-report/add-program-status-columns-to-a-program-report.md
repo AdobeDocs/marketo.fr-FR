@@ -3,9 +3,9 @@ unique-page-id: 1147239
 description: Ajouter les colonnes d'état du Programme à un rapport Programme - Documents marketing - Documentation du produit
 title: Ajouter les colonnes d'état du Programme à un rapport Programme
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ajouter les colonnes d&#39;état du Programme à un rapport de Programme {#add-program-status-columns-to-a-program-report}
 
-Ajoutez des statistiques sur l&#39;état du programme à votre [rapport de performances du programme](create-a-program-performance-report.md).
+Ajoutez des statistiques sur l&#39;état du programme à votre [rapport de performances du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
 
 1. Accédez à Activités marketing (ou Analytics).
 
@@ -23,7 +23,7 @@ Ajoutez des statistiques sur l&#39;état du programme à votre [rapport de perfo
 
    ![](assets/emailperformance.jpg)
 
-1. Cliquez sur l’onglet Configuration et faites glisser la souris sur la balise Canal.
+1. Cliquez sur l&#39;onglet **Configuration** et faites glisser la souris sur la balise de Canal.
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -33,9 +33,9 @@ Ajoutez des statistiques sur l&#39;état du programme à votre [rapport de perfo
 
    >[!TIP]
    >
-   >Pour afficher les colonnes d&#39;état du programme, votre rapport doit être filtré par *un seul canal*.
+   >Pour afficher les colonnes d&#39;état du programme, votre rapport doit être filtré par _un seul canal_.
 
-1. Cochez l’option Afficher les colonnes d’état du programme. Cliquez sur Appliquer.
+1. Cochez l’option Afficher les colonnes d’état du programme. Cliquez sur **Appliquer**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
@@ -45,19 +45,8 @@ Ajoutez des statistiques sur l&#39;état du programme à votre [rapport de perfo
 
 >[!NOTE]
 >
->Si vous ne voyez pas de colonne pour chaque état dans le programme, veillez à ce que [les colonnes soient sélectionnées pour afficher](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) dans le rapport.
+>Si vous ne voyez pas de colonne pour chaque état dans le programme, veillez à ce que [les colonnes soient sélectionnées pour afficher](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) dans le rapport.
 
 >[!MORELIKETHIS]
 >
->* [Filtrage d’un rapport Programme par balise](filter-a-program-report-by-tag.md)
-
->
-
-
-
->[!NOTE]
->
->**Plongée profonde**
->
->En savoir plus sur [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
-
+>[Filtrage d’un rapport Programme par balise](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
