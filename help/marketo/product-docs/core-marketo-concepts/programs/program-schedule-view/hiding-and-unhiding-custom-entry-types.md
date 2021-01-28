@@ -3,7 +3,7 @@ unique-page-id: 1147247
 description: Masquage et affichage des types d’entrée personnalisés - Documents marketing - Documentation du produit
 title: Masquage et affichage des types d’entrée personnalisés
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Les types d’entrée personnalisés peuvent être masqués dans la section Admi
 
 ## Masquer un type d&#39;entrée personnalisé {#hide-a-custom-entry-type}
 
-1. Accédez à la section **Admin** et cliquez sur **Calendrier** **Entrée** **Types**.
+1. Accédez à la section **Admin** et cliquez sur **Entrée de calendrier** **Types**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
@@ -38,4 +38,3 @@ Si vous voulez afficher un type d&#39;entrée personnalisé, c&#39;est aussi fac
    Ta-da ! Votre type d&#39;entrée personnalisée n&#39;est plus masqué.
 
    ![](assets/image2014-9-24-10-3a12-3a19.png)
-
