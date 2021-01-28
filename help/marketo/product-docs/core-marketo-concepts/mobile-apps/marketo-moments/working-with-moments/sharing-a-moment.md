@@ -3,7 +3,7 @@ unique-page-id: 8783559
 description: Partage d'un moment - Documents marketing - Documentation du produit
 title: Partager un moment
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -38,4 +38,3 @@ Vous souhaitez mettre à jour votre équipe ? Vous avez le choix entre deux opti
    ![](assets/image2015-7-14-16-3a18-3a16.png)
 
    Super boulot !
-
