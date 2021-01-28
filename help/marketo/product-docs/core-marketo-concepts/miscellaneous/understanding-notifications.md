@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: Présentation des notifications - Documents marketing - Documentation du produit
 title: Présentation des notifications
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Vous pouvez vous abonner à des notifications pour les recevoir dans votre courr
 
 1. Sélectionnez le type de notification et saisissez la ou les adresses électroniques auxquelles vous souhaitez envoyer les notifications.
 
-![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/image2014-10-10-13-3a0-3a37.png)
 
 >[!NOTE]
 >
@@ -44,4 +44,3 @@ Vous pouvez vous abonner à des notifications pour les recevoir dans votre courr
 >[!TIP]
 >
 >Souhaitez-vous vous désabonner des courriels de notification ? Pas de problème. Il vous suffit de cliquer sur le lien **se désabonner des notifications** au bas du courrier électronique.
-
