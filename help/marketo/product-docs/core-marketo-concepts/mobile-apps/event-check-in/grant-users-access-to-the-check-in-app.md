@@ -3,7 +3,7 @@ unique-page-id: 7516639
 description: Octroi aux utilisateurs de l'accès à l'application d'archivage - Documents marketing - Documentation du produit
 title: Octroi aux utilisateurs de l'accès à l'application d'archivage
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Marketo a un rôle d&#39;utilisateur spécial pour l&#39;application d&#39;archi
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Cliquez sur** Inviter un nouvel utilisateur**.
+1. Cliquez sur **Inviter un nouvel utilisateur**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
