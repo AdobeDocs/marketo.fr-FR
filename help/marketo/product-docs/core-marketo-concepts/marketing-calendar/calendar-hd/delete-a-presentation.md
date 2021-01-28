@@ -3,7 +3,7 @@ unique-page-id: 7504060
 description: Supprimer une présentation - Documents marketing - Documentation du produit
 title: Suppression d’une présentation
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Parfois, on peut avoir trop de bonnes choses. Supprimez les anciennes présentat
    ![](assets/image2015-3-20-16-3a21-3a10.png)
 
    Poof ! Loin de vue, loin d&#39;esprit.
-
