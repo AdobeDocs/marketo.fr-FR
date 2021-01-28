@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: Supprimer directement les entrées dans le calendrier marketing - Documents marketing - Documentation du produit
 title: Supprimer directement les entrées dans le calendrier marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Supprimer directement les entrées dans le calendrier marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Outre les entrées [création](create-entries-directly-in-the-marketing-calendar.md) et [modification](edit-entries-directly-in-the-marketing-calendar.md), vous pouvez les supprimer directement dans le calendrier marketing. Voici comment.
+Outre les entrées [création](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) et [modification](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), vous pouvez les supprimer directement dans le calendrier marketing. Voici comment.
 
 1. Accédez au **Calendrier**.
 
@@ -23,7 +23,7 @@ Outre les entrées [création](create-entries-directly-in-the-marketing-calendar
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
-1. Cliquez sur l’icône de la corbeille.
+1. Cliquez sur l’icône de corbeille.
 
    ![](assets/image2014-10-20-13-3a20-3a42.png)
 
@@ -31,9 +31,4 @@ Selon l’entrée, vous devrez peut-être confirmer la suppression. Mais c&#39;e
 
 >[!MORELIKETHIS]
 >
->* [Confirmer directement les entrées dans le calendrier marketing](confirm-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[Confirmer directement les entrées dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
