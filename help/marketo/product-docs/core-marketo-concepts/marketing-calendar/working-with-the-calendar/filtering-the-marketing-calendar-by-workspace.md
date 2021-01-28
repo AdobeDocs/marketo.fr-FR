@@ -3,9 +3,9 @@ unique-page-id: 1147306
 description: Filtrage du calendrier marketing par espace de travail - Documents marketing - Documentation du produit
 title: Filtrage du calendrier marketing par espace de travail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,4 @@ Le calendrier marketing peut être filtré par des objets dans des espaces de tr
 
    >[!NOTE]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Enregistrement d’une définition de filtre dans le calendrier marketing](saving-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[Enregistrement d’une définition de filtre dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
