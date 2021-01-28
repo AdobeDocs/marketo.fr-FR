@@ -3,7 +3,7 @@ unique-page-id: 2949839
 description: Archivez des personnes dans votre Événement à partir de votre tablette - Docs marketing - Documentation du produit
 title: Intégrer des personnes dans votre Événement à partir de votre tablette
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -22,13 +22,11 @@ L’application fonctionne de la même manière sur iPad et Android, à l’exce
 >* Créez un événement dans Marketo et renseignez-le avec les personnes invitées et enregistrées.
 >* Téléchargez l’application pour tablette pour [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) ou [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
->
-
-
 
 ## Enregistrement des clients inscrits {#check-in-registered-guests}
 
 1. Appuyez sur l’icône de l’application sur votre tablette iPad ou Android.
+
 1. Appuyez sur **Connexion** pour lancer l’application de Événement Marketo.
 
    ![](assets/1.jpg)
@@ -57,7 +55,9 @@ L’application fonctionne de la même manière sur iPad et Android, à l’exce
    >
    >Le processus est le même sur iPad et Android, mais les écrans diffèrent et les éléments peuvent se trouver à des emplacements différents. Cet article présente l’interface de l’iPad. Comparez l’écran Android de cette section à titre de référence.
 
-   **iPad** ![](assets/image2016-4-15-11-3a55-3a11.png)
+   **iPad**
+
+   ![](assets/image2016-4-15-11-3a55-3a11.png)
 
    **Android**
 
@@ -111,7 +111,7 @@ La nouvelle personne est enregistrée comme archivée dans votre événement et 
 
 ## Inverser un enregistrement {#reverse-a-check-in}
 
-Si vous avez archivé une personne par erreur, *avant de synchroniser Marketo*, vous pouvez annuler l’état Participant.
+Si vous avez archivé une personne par erreur, _avant de synchroniser Marketo_, vous pouvez annuler l’état Participant.
 
 1. Appuyez sur le nom dans la liste et, dans l’enregistrement de personne, appuyez sur **Annuler**.
 
@@ -146,6 +146,7 @@ L’application Marketo Événements fonctionne indépendamment jusqu’à ce qu
 >Une fois la synchronisation effectuée, vous ne pouvez pas annuler l&#39;enregistrement à partir de l&#39;application.
 
 1. Sur votre tablette, ouvrez l’application et accédez à votre événement.
+
 1. Appuyez sur **Sync**.
 
    Votre événement est mis à jour avec les nouveaux arrivants dans la base de données Marketo. Le compteur rouge sur le bouton Synchroniser s&#39;efface, jusqu&#39;à ce que vous entriez quelqu&#39;un d&#39;autre.
@@ -170,4 +171,3 @@ Si l&#39;accès à Internet vous préoccupe, vous pouvez vous connecter à l&#39
 >[!NOTE]
 >
 >L’application vous déconnecte automatiquement après huit heures d’inactivité.
-
