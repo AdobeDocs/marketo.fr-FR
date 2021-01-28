@@ -3,7 +3,7 @@ unique-page-id: 7504128
 description: Créer un objectif de Liste intelligente - Documentation marketing - Documentation du produit
 title: Créer un objectif de Liste intelligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les objectifs sont des moyens de suivre les progrès et de motiver votre équipe. Ils peuvent être combinés à des listes intelligentes pour suivre toutes sortes de choses sur le marché. De plus, une fois que vous avez configuré un objectif de liste intelligent, il se met automatiquement à jour toutes les 2 heures lorsqu&#39;il est utilisé dans une présentation.
 
-Comme pour les présentations, les objectifs sont spécifiques à [l&#39;espace de travail](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Comme pour les présentations, les objectifs sont spécifiques à [l&#39;espace de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Accédez au **Calendrier**.
 
@@ -25,7 +25,7 @@ Comme pour les présentations, les objectifs sont spécifiques à [l&#39;espace 
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Sélectionnez l&#39;onglet** Objectifs**.
+1. Sélectionnez l&#39;onglet **Objectifs**.
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
@@ -37,7 +37,7 @@ Comme pour les présentations, les objectifs sont spécifiques à [l&#39;espace 
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [Définissez la liste](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) intelligente. Les possibilités sont infinies !
+1. [Définissez la liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) intelligente. Les possibilités sont infinies !
 
    ![](assets/mql.png)
 
@@ -48,4 +48,3 @@ Comme pour les présentations, les objectifs sont spécifiques à [l&#39;espace 
    Regardez ça ! Votre objectif de liste intelligente a été créé.
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)
-
