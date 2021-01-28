@@ -3,9 +3,9 @@ unique-page-id: 30081815
 description: Configuration de l’intégration Adobe Experience Manager - Documents marketing - Documentation du produit
 title: Configuration de l’intégration Adobe Experience Manager
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Configurez AEM afin que vous puissiez accéder à, sélectionner et importer AEM
 
    ![](assets/four.png)
 
-1. Dans la zone de texte **Origines autorisées (Regexp)**, tapez &quot;https://.*\.marketo\.com&quot; (sans guillemets) et cliquez sur **Enregistrer**.
+1. Dans la zone de texte **Origines autorisées (Regexp)**, saisissez `https://.*\.marketo\.com` et cliquez sur **Enregistrer**.
 
    ![](assets/five-psd.png)
 
@@ -75,5 +75,4 @@ Configurez AEM afin que vous puissiez accéder à, sélectionner et importer AEM
 
    ![](assets/twelve.png)
 
-   Vous êtes toutes prêtes ! Vous pouvez désormais [importer des actifs AEM dans Design Studio en Marketo Sky](http://help.marketo.com/hc/en-us/articles/360036765993).
-
+   Vous êtes toutes prêtes ! Vous pouvez désormais [importer des actifs AEM dans Design Studio en Marketo Sky](https://help.marketo.com/hc/en-us/articles/360036765993).
