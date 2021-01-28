@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: Navigation dans la Vue du Planning du programme - Documentation du marketing - Documentation du produit
 title: Navigation dans la Vue de Planning du programme
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Voici les principes de base pour vous aider à naviguer dans la vue de Planning 
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Groovy. Maintenant, vous allez voir la vue horaire de votre programme.
+   Maintenant, vous allez voir la vue horaire de votre programme.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -33,7 +33,8 @@ Voici les principes de base pour vous aider à naviguer dans la vue de Planning 
 >
 >La vue du Planning du programme est collante. Une fois que vous l&#39;avez défini, tous les programmes sont définis par défaut sur la vue de planification.
 
-1. Basculement entre les entrées
+## Basculement entre les entrées {#switching-between-entries}
+
 1. Dans les détails de l&#39;entrée, cliquez sur les flèches pour passer à l&#39;entrée planifiée suivante.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
@@ -42,7 +43,8 @@ Voici les principes de base pour vous aider à naviguer dans la vue de Planning 
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
-1. Menu contextuel vue
+## Menu contextuel de la vue {#view-context-menu}
+
 1. Cliquez avec le bouton droit sur un programme pour apporter des modifications au Programme, à la Liste intelligente, à la configuration, à mes jetons ou aux membres.
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
@@ -63,9 +65,4 @@ Super ! Maintenant que vous savez comment vue votre programme, apprenons les aut
 
 >[!MORELIKETHIS]
 >
->* [Création d’une entrée dans la Vue de Planning du programme](creating-an-entry-in-the-program-schedule-view.md)
-
->
-
-
-
+>[Création d’une entrée dans la Vue de Planning du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
