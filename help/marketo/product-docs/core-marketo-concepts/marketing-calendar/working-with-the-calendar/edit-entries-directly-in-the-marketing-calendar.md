@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: Modifier directement les entrées dans le calendrier marketing - Documents marketing - Documentation du produit
 title: Modifier directement les entrées dans le calendrier marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -45,8 +45,7 @@ Une fois en mode de mise au point du programme, vous pouvez rapidement modifier 
    >
    >Vous pouvez également modifier la description.
    >
-   >
-   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![](assets/image2014-10-20-13-3a16-3a56.png)
 
 ## Convertir le type d’entrée {#convert-entry-type}
 
@@ -68,9 +67,4 @@ C&#39;est tout ! Comme vous pouvez le constater, vous pouvez effectuer de nombre
 
 >[!MORELIKETHIS]
 >
->* [Supprimer directement les entrées dans le calendrier marketing](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
-
->
-
-
-
+>[Supprimer directement les entrées dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
