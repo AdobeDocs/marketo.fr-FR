@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Valider Microsoft Dynamics Sync - Marketo Docs - Documentation du produit
 title: Valider Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Si l&#39;authentification multifacteur (MFA) est activée pour Dynamics Sync, vous devez la désactiver pour que Dynamics se synchronise correctement avec Marketo. Pour de plus amples informations, veuillez contacter [Support marketing](http://nation.marketo.com/community/support_solutions).
+>Si l&#39;authentification multifacteur (MFA) est activée pour Dynamics Sync, vous devez la désactiver pour que Dynamics se synchronise correctement avec Marketo. Pour de plus amples informations, veuillez contacter [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 ## Exécuter la validation de la synchronisation dans Marketo {#run-validate-sync-in-marketo}
 
@@ -45,7 +45,7 @@ Il est très important d&#39;exécuter l&#39;outil Valider la synchronisation po
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Si vous voyez un ![—](assets/delete.png), cette étape présente un problème. Voir [Correction des problèmes de synchronisation de validation de Dynamics](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) pour identifier et résoudre le problème. Ensuite, réexécutez les étapes de validation de synchronisation jusqu’à ce que le résultat ressemble à l’image ci-dessus.
+1. Si vous voyez un ![—](assets/delete.png), cette étape présente un problème. Voir [Correction des problèmes de synchronisation de validation de Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) pour identifier et résoudre le problème. Ensuite, réexécutez les étapes de validation de synchronisation jusqu’à ce que le résultat ressemble à l’image ci-dessus.
 
    >[!CAUTION]
    >
@@ -53,5 +53,4 @@ Il est très important d&#39;exécuter l&#39;outil Valider la synchronisation po
 
 >[!MORELIKETHIS]
 >
->[Correction des problèmes de synchronisation de validation de Dynamics](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
-
+>[Correction des problèmes de synchronisation de validation de Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
