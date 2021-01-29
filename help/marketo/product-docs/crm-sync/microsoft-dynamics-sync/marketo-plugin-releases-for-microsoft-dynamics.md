@@ -3,10 +3,10 @@ unique-page-id: 10099389
 description: Versions des modules externes Marketo pour Microsoft Dynamics - Marketo Docs - Documentation sur les produits
 title: Versions des modules externes Marketo pour Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez la dernière version des modules externes pour Marketo. Régulièrement, Marketo met à jour ces plug-ins afin que vous puissiez revenir au même endroit pour télécharger la nouvelle version.
 
-[Téléchargez le dernier ](sync-setup/download-the-marketo-lead-management-solution.md) module externe correspondant à votre version de Dynamics.
+[Téléchargez le dernier ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) module externe correspondant à votre version de Dynamics.
 
 ![](assets/lead-management-solution.png)
 
@@ -102,5 +102,4 @@ Le tableau ci-dessous présente les dernières versions.
 
 >[!MORELIKETHIS]
 >
->* [Téléchargement de la solution de gestion des pistes marketing](sync-setup/download-the-marketo-lead-management-solution.md)
-
+>[Téléchargement de la solution de gestion des pistes marketing](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
