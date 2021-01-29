@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Notes de mise à jour - Hiver 19 - Documentation sur le marketing - Documentation sur le produit
 title: Notes de mise à jour - Hiver 19
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue 
 
 >[!NOTE]
 >
->Microsoft encourage tous les clients en ligne à effectuer la mise à niveau vers la dernière version de Microsoft Dynamics. Si vous intégrez votre instance Marketo avec Dynamics Online, vous devrez [mettre à niveau vers la dernière version de la solution Marketo](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md) avant le **31 janvier 2019** pour vous assurer que votre intégration continuera à fonctionner.
+>Microsoft encourage tous les clients en ligne à effectuer la mise à niveau vers la dernière version de Microsoft Dynamics. Si vous intégrez votre instance Marketo avec Dynamics Online, vous devrez [mettre à niveau vers la dernière version de la solution Marketo](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) avant le **31 janvier 2019** pour vous assurer que votre intégration continuera à fonctionner.
 
 >[!NOTE]
 >
