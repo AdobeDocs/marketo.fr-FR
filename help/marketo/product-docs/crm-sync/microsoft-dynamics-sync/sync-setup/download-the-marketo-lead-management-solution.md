@@ -3,9 +3,9 @@ unique-page-id: 6848922
 description: Télécharger la solution de gestion des pistes marketing - Documentation marketing - Documentation du produit
 title: Téléchargement de la solution de gestion des pistes marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Vous devrez télécharger et installer une solution Marketing dans votre compte 
 
 >[!CAUTION]
 >
->Il est impératif que vous téléchargiez la dernière solution Marketo *avant* de procéder à une mise à niveau.
+>Il est impératif que vous téléchargiez la dernière solution Marketo _avant_ de procéder à une mise à niveau.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Vous devrez télécharger et installer une solution Marketing dans votre compte 
 
 1. Accédez à la zone **Admin**.
 
-   ![](assets/admin.png)
+   ![](assets/admin-1.png)
 
 1. Cliquez sur **CRM**.
 
@@ -45,7 +45,6 @@ Vous devrez télécharger et installer une solution Marketing dans votre compte 
 
 1. Sélectionnez la solution appropriée pour votre version de Microsoft Dynamics.
 
-   ![](assets/msd-online.png)
+   ![](assets/msd-online-1.png)
 
    Super ! Un fichier zip de la solution sera désormais téléchargé sur votre périphérique.
-
