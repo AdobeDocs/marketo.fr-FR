@@ -3,9 +3,9 @@ unique-page-id: 7504739
 description: Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 2 sur 3 - Marketo Docs - Documentation du produit
 title: Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 2 sur 3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
 >[!NOTE]
 >
->Ceci s’applique à Marketo version 4.0.0.14 et ultérieure. Pour les versions antérieures, tous les utilisateurs doivent avoir le rôle utilisateur de synchronisation. Pour mettre à niveau votre Marketo, voir [Mise à niveau de la solution Marketo pour Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Ceci s’applique à Marketo version 4.0.0.14 et ultérieure. Pour les versions antérieures, tous les utilisateurs doivent avoir le rôle utilisateur de synchronisation. Pour mettre à niveau votre Marketo, voir [Mise à niveau de la solution Marketo pour Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Sous **Paramètres**, cliquez sur **Sécurité**.
 
@@ -59,7 +59,7 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
    >[!NOTE]
    >
-   >Toutes les mises à jour effectuées dans votre gestion de la relation client par l’utilisateur de synchronisation **ne** seront &lt;a0/> synchronisées de nouveau sur Marketo.
+   >Toutes les mises à jour effectuées dans votre gestion de la relation client par l’utilisateur de synchronisation **ne** seront  synchronisées de nouveau sur Marketo.
 
 ## Configurer la solution marketing {#configure-marketo-solution}
 
