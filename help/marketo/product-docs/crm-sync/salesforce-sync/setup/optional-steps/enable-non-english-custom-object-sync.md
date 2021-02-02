@@ -3,7 +3,7 @@ unique-page-id: 4719302
 description: Activer la synchronisation d'objets personnalisés en d'autres langues que l'anglais - Documents marketing - Documentation du produit
 title: Activer la synchronisation d’objets personnalisés en anglais non
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -61,7 +61,4 @@ Si votre utilisateur de synchronisation Marketo utilise une autre langue que l�
 
 >[!NOTE]
 >
->**Rappel**
->
 >N&#39;oubliez pas d&#39;actualiser le Schéma une dernière fois pour retirer les objets dans votre langue.
-
