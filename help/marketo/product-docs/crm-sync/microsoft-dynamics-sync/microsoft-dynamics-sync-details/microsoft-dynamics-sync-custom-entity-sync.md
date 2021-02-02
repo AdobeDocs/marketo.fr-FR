@@ -3,7 +3,7 @@ unique-page-id: 3571846
 description: Microsoft Dynamics Sync - Synchronisation des entités personnalisées - Documents marketing - Documentation du produit
 title: Microsoft Dynamics Sync -Synchronisation d'entité personnalisée
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Si vous devez activer la synchronisation d&#39;entité personnalisée initiale p
 
 >[!PREREQUISITES]
 >
->Pour utiliser un objet personnalisé, il doit être associé à un objet [prospect](microsoft-dynamics-sync-lead-sync.md), [contact](microsoft-dynamics-sync-contact-sync.md) ou [compte](microsoft-dynamics-sync-account-sync.md)dans Dynamics.
+>Pour utiliser un objet personnalisé, il doit être associé à un objet [prospect](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md), [contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md) ou [compte](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)dans Dynamics.
 
 >[!CAUTION]
 >
@@ -35,9 +35,11 @@ Si vous devez activer la synchronisation d&#39;entité personnalisée initiale p
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Installez une version de Microsoft Dynamics qui prend en charge la synchronisation d&#39;entité personnalisée (après 2_0_0_2). Voir [Versions du module externe Marketo pour MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+1. Installez une version de Microsoft Dynamics qui prend en charge la synchronisation d&#39;entité personnalisée (après 2_0_0_2). Voir [Versions du module externe Marketo pour MIcrosoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+
 1. Donnez à l’utilisateur de synchronisation marketing l’accès en lecture à toutes les entités que vous prévoyez de synchroniser.
-1. Sous Gestion de la base de données, cliquez sur le lien** Dynamics Entities Sync**.
+
+1. Sous Gestion de la base de données, cliquez sur le lien **Dynamics Entities Sync**.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -45,7 +47,7 @@ Si vous devez activer la synchronisation d&#39;entité personnalisée initiale p
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Une fois la liste synchronisée, sélectionnez les champs à synchroniser et ceux à utiliser comme [contraintes](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) et/ou déclencheurs dans les listes dynamiques. Lorsque vous avez terminé, cliquez sur **Activer la synchronisation**.
+1. Une fois la liste synchronisée, sélectionnez les champs à synchroniser et ceux à utiliser comme [contraintes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) et/ou déclencheurs dans les listes dynamiques. Lorsque vous avez terminé, cliquez sur **Activer la synchronisation**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
@@ -59,6 +61,6 @@ Si vous devez activer la synchronisation d&#39;entité personnalisée initiale p
 
    >[!NOTE]
    >
-   >Les noms d&#39;entité peuvent comporter au maximum** 33 caractères**.
+   >Les noms d’entité peuvent comporter au maximum **33 caractères**.
 
 Tu es bon !
