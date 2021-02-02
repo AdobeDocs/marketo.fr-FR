@@ -3,9 +3,9 @@ unique-page-id: 3571809
 description: Étape 3 sur 3 - Connecter Microsoft Dynamics à Marketo (2011 sur site) - Docs marketing - Documentation du produit
 title: Étape 3 sur 3 - Connecter Microsoft Dynamics au marché (local 2011)
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ D&#39;accord ! Nous avons installé la solution et configuré l&#39;utilisateur 
 
 >[!PREREQUISITES]
 >
->* [Étape 1 sur 3 : Installation de la solution Marketo (2011 sur site)](step-1-of-3-install.md)
->* [Étape 2 sur 3 : Configurer un utilisateur de synchronisation marketing dans Dynamics (local 2011)](step-2-of-3-set-up.md)
+>* [Étape 1 sur 3 : Installation de la solution Marketo (2011 sur site)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>* [Étape 2 sur 3 : Configurer un utilisateur de synchronisation marketing dans Dynamics (local 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -53,11 +53,11 @@ D&#39;accord ! Nous avons installé la solution et configuré l&#39;utilisateur 
 
    >[!NOTE]
    >
-   >Le nom d’utilisateur dans Marketo doit correspondre au nom d’utilisateur de l’utilisateur synchronisé dans CRM. Le format peut être [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#a0d5d3c5d2e0c4cfcdc1c9ce8ec3cfcd) ou DOMAINE\utilisateur.
+   >Le nom d’utilisateur dans Marketo doit correspondre au nom d’utilisateur de l’utilisateur synchronisé dans CRM. Le format peut être user@domain.com ou DOMAINE\utilisateur.
 
    >[!TIP]
    >
-   >Vous ne connaissez pas l&#39;URL ? Nous vous montrerons comment trouver [Dynamics Organization Service URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) ici.
+   >Vous ne connaissez pas l&#39;URL ? Nous vous montrerons comment trouver [Dynamics Organization Service URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) ici.
 
 ## Sélectionner les champs à synchroniser {#select-fields-to-sync}
 
