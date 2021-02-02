@@ -3,7 +3,7 @@ unique-page-id: 2953384
 description: Activer la synchronisation pour une entité personnalisée - Documents marketing - Documentation du produit
 title: Activer la synchronisation pour une entité personnalisée
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -26,9 +26,10 @@ Si vous avez besoin que les données d&#39;entité personnalisées de Dynamics s
 1. Sélectionnez **Microsoft Dynamics** et cliquez sur **Désactiver la synchronisation**.
 
    Vous devez désactiver temporairement la synchronisation globale pour activer ou désactiver une entité personnalisée.
+
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Sous Gestion de la base de données, cliquez sur le lien** Dynamics Entities Sync**.
+1. Sous Gestion de la base de données, cliquez sur le lien **Dynamics Entities Sync**.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -40,7 +41,7 @@ Si vous avez besoin que les données d&#39;entité personnalisées de Dynamics s
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. Sélectionnez les champs que vous souhaitez synchroniser ou utiliser en tant que [contraintes](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) et/ou déclencheurs dans les listes dynamiques. Lorsque vous avez terminé, cliquez sur **Activer la synchronisation**.
+1. Sélectionnez les champs que vous souhaitez synchroniser ou utiliser en tant que [contraintes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) et/ou déclencheurs dans les listes dynamiques. Lorsque vous avez terminé, cliquez sur **Activer la synchronisation**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
