@@ -3,7 +3,7 @@ unique-page-id: 13795802
 description: Désactiver les notifications par courrier électronique pour le propriétaire de piste - Documents marketing - Documentation du produit
 title: Désactiver les notifications par courrier électronique pour le propriétaire de piste
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Vous pouvez désactiver les notifications électroniques automatiques envoyées 
 1. Décochez la case **Envoyer une notification par courrier électronique au propriétaire dans Salesforce lors de l&#39;affectation de piste**. Cliquez sur **Enregistrer**.
 
    ![](assets/new-screen.png)
-
