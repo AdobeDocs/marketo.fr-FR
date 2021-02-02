@@ -3,7 +3,7 @@ unique-page-id: 10092969
 description: Filtre Microsoft Dynamics Sync -Fusion - Documents marketing - Documentation du produit
 title: Filtre Microsoft Dynamics Sync -Fusion
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -25,4 +25,3 @@ C&#39;est quand un enregistrement est vrai et qu&#39;un autre est faux que ça d
 | False | False | L’enregistrement gagnant continue à **ne pas** synchroniser avec Marketo. |
 | False | True | L&#39;enregistrement gagnant sera synchronisé avec Marketo |
 | True | False | L&#39;enregistrement gagnant ne sera pas synchronisé avec Marketo |
-
