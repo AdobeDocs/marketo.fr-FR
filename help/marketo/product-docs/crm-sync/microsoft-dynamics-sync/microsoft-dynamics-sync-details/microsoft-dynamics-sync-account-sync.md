@@ -3,9 +3,9 @@ unique-page-id: 3571836
 description: Microsoft Dynamics Sync - Synchronisation des comptes - Documents marketing - Documentation du produit
 title: Microsoft Dynamics Sync -Synchronisation des comptes
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Non. Marketo ne peut pas créer de comptes dans Dynamics.
 
 ## Quels champs seront synchronisés avec Marketo ? {#which-fields-will-sync-to-marketo}
 
-Vous pouvez [sélectionner les champs à synchroniser](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) pendant la configuration. Mais Marketo synchronise uniquement les champs auxquels votre utilisateur Dynamics sync a accès.
+Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) pendant la configuration. Mais Marketo synchronise uniquement les champs auxquels votre utilisateur Dynamics sync a accès.
 
 ## Est-ce qu&#39;une modification d&#39;un champ de compte dans Dynamics génère un journal d&#39;Activité des valeurs de données de modification pour chaque contact ?  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 
