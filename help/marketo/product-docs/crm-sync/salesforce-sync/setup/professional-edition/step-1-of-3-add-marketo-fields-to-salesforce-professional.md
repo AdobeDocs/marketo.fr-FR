@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: Étape 1 sur 3 - Ajouter les champs du marketing à Salesforce (Professional) - Docs du marketing - Documentation du produit
 title: Etape 1 sur 3 - Ajouter les champs du marketing à Salesforce (Professional)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
 1. Connectez-vous à Salesforce et cliquez sur **Configuration.**
 
-   ** ![](assets/image2016-5-23-13-3a15-3a21.png)
-
-   **
+   ![](assets/image2016-5-23-13-3a15-3a21.png)
 
 1. Dans le menu Créer à gauche, cliquez sur **Personnaliser** et sélectionnez **Pistes**. Cliquez sur **Champs**.
 
@@ -114,13 +112,13 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
 1. Spécifiez les paramètres d’accès et cliquez sur **Suivant** :
 
-   * Définissez tous les rôles sur **Visible **et **Lecture seule**
+   * Définissez tous les rôles sur **Visible** et **Lecture seule**.
 
    * Désactivez la case à cocher **Lecture seule** pour le profil de votre utilisateur de synchronisation :
 
-      * Si vous avez un utilisateur avec le profil d&#39;un *administrateur système* en tant qu&#39;utilisateur synchronisé, désélectionnez la case **Lecture seule** pour le profil Administrateur système (comme illustré ci-dessous).
+      * Si vous avez un utilisateur avec le profil d&#39;un _administrateur système_ en tant qu&#39;utilisateur synchronisé, désélectionnez la case **Lecture seule** pour le profil Administrateur système (comme illustré ci-dessous).
 
-      * Si vous avez créé un *profil personnalisé* pour l’utilisateur de synchronisation, désactivez la case **Lecture seule** pour ce profil personnalisé.
+      * Si vous avez créé un _profil personnalisé_ pour l’utilisateur de synchronisation, désactivez la case **Lecture seule** pour ce profil personnalisé.
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -132,7 +130,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Dans le menu Créer à gauche, cliquez sur **Personnaliser **et sélectionnez **Contacts**. Cliquez sur **Champs**.
+1. Dans le menu Créer à gauche, cliquez sur **Personnaliser** et sélectionnez **Contacts**. Cliquez sur **Champs**.
 1. Exécutez les étapes 3 à 10 pour les champs Note, Date d’acquisition et Programme d’acquisition sur l’objet contact, comme pour l’objet prospect.
 1. Vous pouvez éventuellement utiliser la procédure ci-dessus pour tout autre champ personnalisé de ce tableau.
 
@@ -256,17 +254,8 @@ Assez facile, n&#39;est-ce pas ?
 
 >[!NOTE]
 >
->**Plongée profonde**
->
 >Voici une [vidéo de l&#39;ensemble du processus](https://nation.marketo.com/videos/1475) qui devrait le rendre parfaitement clair !
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->* [Étape 2 sur 3 : Créer un utilisateur Salesforce pour Marketo (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-
->
-
-
-
+>[Étape 2 sur 3 : Créer un utilisateur Salesforce pour Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
