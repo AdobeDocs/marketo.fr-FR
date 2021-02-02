@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: Présentation de la synchronisation Salesforce - Documents marketing - Documentation du produit
 title: Présentation de la synchronisation Salesforce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -29,28 +29,17 @@ La synchronisation entre Salesforce et Marketo est bidirectionnelle uniquement p
 
 ## Qu’est-ce qui est synchronisé entre Marketo et Salesforce ? {#what-is-synced-between-marketo-and-salesforce}
 
-* [Pistes](sfdc-sync-details/sfdc-sync-lead-sync.md)
-* [Contacts](sfdc-sync-details/sfdc-sync-contact-sync.md)
-* [Comptes](sfdc-sync-details/sfdc-sync-account-sync.md)
-* [Utilisateurs](sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-* [Opportunités](sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-* [Campagnes Salesforce](sfdc-sync-details/sfdc-sync-campaign-sync.md)
-* [Objets personnalisés](sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-* [Activité](sfdc-sync-details/sfdc-sync-activity-sync.md)
+* [Pistes](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+* [Contacts](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+* [Comptes](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+* [Utilisateurs](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+* [Opportunités](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+* [Campagnes Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+* [Objets personnalisés](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+* [Activité](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
 
 >[!NOTE]
 >
->Les [informations d&#39;identification que vous saisissez dans Marketo pour Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
+>Les [informations d&#39;identification que vous saisissez dans Marketo pour Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
 
-La synchronisation Salesforce comporte de nombreuses nuances et fonctionnalités. Consultez les détails dans la section [Détails de la synchronisation SFDC](http://docs.marketo.com/display/docs/sfdc+sync+details).
-
->[!MORELIKETHIS]
->
->* [Configuration de la synchronisation Salesforce](http://docs.marketo.com/display/docs/setup)
->* [Détails de la synchronisation SFDC](http://docs.marketo.com/display/docs/sfdc+sync+details)
-
->
-
-
-
-La synchronisation de Marketo avec Salesforce est la plus puissante du monde. C&#39;est comme de la magie - un changement est fait et l&#39;autre système est bientôt à jour.
+La synchronisation de Marketo avec Salesforce est la plus puissante du monde. On se sent magique. un changement est apporté et l&#39;autre système est bientôt à jour.
