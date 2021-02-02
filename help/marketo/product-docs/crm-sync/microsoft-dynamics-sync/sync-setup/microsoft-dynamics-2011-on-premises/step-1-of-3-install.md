@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: Étape 1 sur 3 - Installation de la solution Marketo (2011 sur site) - Documentation sur le marché - Documentation sur le produit
 title: Étape 1 sur 3 - Installation de la solution Marketo (2011 sur site)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premises et Marketo, vous de
 
 >[!PREREQUISITES]
 >
->[Déploiement Internet Facing](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) avec [Principale Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 ou 3.0 (ADFS) configuré. **Remarque** : Le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
+>[Déploiement Internet Facing](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) avec [Principale Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 ou 3.0 (ADFS) configuré. **Remarque** : Le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
 >
->[Téléchargez la ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) solution de gestion des pistes marketing avant de début.
+>[Téléchargez la ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) solution de gestion des pistes marketing avant de début.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premises et Marketo, vous de
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Cliquez sur **Parcourir**. Sélectionnez la solution de gestion des pistes marketing que vous avez [téléchargée](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Cliquez sur **Suivant**.
+1. Cliquez sur **Parcourir**. Sélectionnez la solution de gestion des pistes marketing que vous avez [téléchargée](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Cliquez sur **Suivant**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -93,8 +93,6 @@ N&#39;était-ce pas un mauvais droit ? Allez, je continuerai à vous faire trave
 >
 >La désactivation de l’un des processus de messagerie du SDK de Marketo entraîne une panne de l’installation !
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->[Étape 2 sur 3 : Configurer un utilisateur de synchronisation marketing dans Dynamics (local 2011)](step-2-of-3-set-up.md)
+>[Étape 2 sur 3 : Configurer un utilisateur de synchronisation marketing dans Dynamics (local 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
