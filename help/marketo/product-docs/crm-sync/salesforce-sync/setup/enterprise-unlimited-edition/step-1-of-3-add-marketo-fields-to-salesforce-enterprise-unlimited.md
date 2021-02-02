@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: Étape 1 sur 3 - Ajouter les champs du marketing à Salesforce (Enterprise/Unlimited) - Docs du marketing - Documentation du produit
 title: Etape 1 sur 3 - Ajouter les champs du marketing à Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ Ajoutez trois champs personnalisés sur les objets prospect et contact dans Sale
 
 Effectuez les étapes suivantes pour chacun des trois champs personnalisés à ajouter. Début avec note.
 
-1. Connectez-vous à Salesforce et cliquez sur Configuration.
+1. Connectez-vous à Salesforce et cliquez sur **Configuration**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Dans le menu Créer à gauche, cliquez sur Personnaliser, puis sélectionnez Pistes. Cliquez sur Champs.
+1. Dans le menu Créer à gauche, cliquez sur **Personnaliser** et sélectionnez **Pistes**. Cliquez sur **Champs**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Cliquez sur Nouveau dans la section Champs et relations personnalisés au bas de la page.
+1. Cliquez sur **Nouveau** dans la section Champs personnalisés et relations au bas de la page.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -47,7 +47,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Cliquez sur Suivant.
+1. Cliquez sur **Suivant**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -106,18 +106,18 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 >
 >Les champs de texte et de nombre nécessitent une longueur, mais pas les champs Date/Heure. Une description est facultative.
 
-1. Cliquez sur Suivant.
+1. Cliquez sur **Suivant**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Spécifiez les paramètres d’accès et cliquez sur Suivant :
+1. Spécifiez les paramètres d’accès et cliquez sur **Suivant** :
 
-   * Définissez tous les rôles sur **Visible **et **Lecture seule**
+   * Définissez tous les rôles sur **Visible** et **Lecture seule**.
 
    * Désactivez la case à cocher **Lecture seule** pour le profil de votre utilisateur de synchronisation :
 
-      * Si vous avez un utilisateur avec le profil d&#39;un *administrateur système* en tant qu&#39;utilisateur synchronisé, désélectionnez la case **Lecture seule** pour le profil Administrateur système (comme illustré ci-dessous).
-      * Si vous avez créé un *profil personnalisé* pour l’utilisateur de synchronisation, désactivez la case **Lecture seule** pour ce profil personnalisé.
+      * Si vous avez un utilisateur avec le profil d&#39;un _administrateur système_ en tant qu&#39;utilisateur synchronisé, désélectionnez la case **Lecture seule** pour le profil Administrateur système (comme illustré ci-dessous).
+      * Si vous avez créé un _profil personnalisé_ pour l’utilisateur de synchronisation, désactivez la case **Lecture seule** pour ce profil personnalisé.
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Cliquez sur Enregistrer et créer pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur Enregistrer avec vous pour terminer les trois.
+1. Cliquez sur **Enregistrer et nouveau** pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur **Enregistrer** après avoir terminé les trois.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Dans le menu Créer à gauche, cliquez sur Personnaliser et sélectionnez Contacts. Cliquez sur Champs.
+1. Dans le menu Créer à gauche, cliquez sur **Personnaliser** et sélectionnez Contacts. Cliquez sur Champs.
 1. Exécutez les étapes 3 à 10 pour les champs Note, Date d’acquisition et Programme d’acquisition sur l’objet contact, comme pour l’objet prospect.
 1. Vous pouvez éventuellement utiliser la procédure ci-dessus pour tout autre champ personnalisé de ce tableau.
 
@@ -261,23 +261,15 @@ Un champ personnalisé sur l&#39;objet prospect dans Salesforce doit être mapp�
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Répétez les étapes ci-dessus pour tous les autres champs que vous avez créés.
+
 1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    Assez facile, n&#39;est-ce pas ?
 
 >[!NOTE]
 >
->**Plongée profonde**
->
 >Voici un lien vers une [vidéo de l&#39;ensemble de la procédure](https://nation.marketo.com/videos/1475) qui devrait le rendre clair comme du cristal !
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->* [Étape 2 sur 3 : Créer un utilisateur Salesforce pour Marketo (Enterprise/Unlimited)](step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-
->
-
-
-
+>[Étape 2 sur 3 : Créer un utilisateur Salesforce pour Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
