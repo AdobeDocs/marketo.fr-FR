@@ -3,9 +3,9 @@ unique-page-id: 3571844
 description: Microsoft Dynamics Sync - Synchronisation des opportunités - Documents marketing - Documentation du produit
 title: Microsoft Dynamics Sync - Synchronisation des opportunités
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,5 @@ Non, vous devez créer l&#39;opportunité dans Dynamics et elle sera automatique
 
 ## Quels champs seront synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
 
-Vous pouvez [sélectionner les champs à synchroniser](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) pendant la configuration.
+Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) pendant la configuration.
+
