@@ -3,9 +3,9 @@ unique-page-id: 3571848
 description: Microsoft Dynamics Sync -Sync - Synchronisation des pistes - Documents marketing - Documentation du produit
 title: Microsoft Dynamics Sync - Sync piste
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ La synchronisation est bidirectionnelle. Si vous apportez des modifications à u
 
 >[!NOTE]
 >
->Les suppressions ne sont pas toujours synchronisées automatiquement dans les deux directions. Voir [Suppression d&#39;une piste ou d&#39;un contact](http://docs.marketo.com/x/agO1Ag).
+>Les suppressions ne sont pas toujours synchronisées automatiquement dans les deux directions. Voir [Suppression d&#39;une piste ou d&#39;un contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md).
 
 ## Que se passe-t-il si des modifications sont apportées au même champ dans les deux systèmes en même temps ? (Collision de données) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -29,7 +29,7 @@ Bien que cela soit rare, Marketo gagnera pour les gens (pistes) et Dynamics gagn
 
 ## Puis-je créer un prospect dans Dynamics à l&#39;aide de Marketo ? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Oui, utilisez l&#39;action de flux [Synchroniser la personne avec Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Cela créera une piste dans Dynamics si elle n&#39;existe pas. Si la piste existe, l&#39;étape de flux n&#39;effectue aucune action.
+Oui, utilisez l&#39;action de flux [Synchroniser la personne avec Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Cela créera une piste dans Dynamics si elle n&#39;existe pas. Si la piste existe, l&#39;étape de flux n&#39;effectue aucune action.
 
 >[!NOTE]
 >
@@ -37,13 +37,12 @@ Oui, utilisez l&#39;action de flux [Synchroniser la personne avec Microsoft](../
 
 ## Puis-je forcer manuellement la synchronisation d&#39;une personne de Marketo vers une piste dans Dynamics ? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-Non, la synchronisation en arrière-plan automatisée est le seul moyen de synchroniser les mises à jour entre Marketing et Dynamics. L&#39;action de flux [Synchroniser la personne avec Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) ne forcera pas la synchronisation du prospect.
+Non, la synchronisation en arrière-plan automatisée est le seul moyen de synchroniser les mises à jour entre Marketing et Dynamics. L&#39;action de flux [Synchroniser la personne avec Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) ne forcera pas la synchronisation du prospect.
 
 ## Quels champs seront synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
 
-Vous pouvez [sélectionner les champs à synchroniser](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) pendant la configuration.
+Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) pendant la configuration.
 
 ## Marketo respectera-t-il les règles de validation Dynamics ? {#will-marketo-respect-the-dynamics-validation-rules}
 
 Oui. La synchronisation échoue si le format des données est incorrect ou si les informations de champ requises sont manquantes. Marketo consigne le résultat dans le journal des Activités de la personne si cela se produit.
-
