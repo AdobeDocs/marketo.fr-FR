@@ -3,7 +3,7 @@ unique-page-id: 4719297
 description: Activer/désactiver la synchronisation d'objets personnalisés - Documents marketing - Documentation du produit
 title: Activer/désactiver la synchronisation d’objets personnalisés
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,11 +23,9 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
 1. Cliquez sur **Admin**.
 
-   ** ![](assets/one.png)
+   ![](assets/one.png)
 
-   **
-
-1. Dans le menu Gestion de la base de données, cliquez sur **Salesforce** **Objets synchronisés**.
+1. Dans le menu Gestion de la base de données, cliquez sur **Salesforce Objects Sync**.
 
    ![](assets/two-2.png)
 
@@ -57,9 +55,7 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
 1. Cliquez de nouveau sur **Activer la synchronisation**.
 
-   ** ![](assets/image2014-12-10-10-3a15-3a40.png)
-
-   **
+   ![](assets/image2014-12-10-10-3a15-3a40.png)
 
 1. Retournez à l&#39;onglet **Salesforce** et cliquez sur **Activer la synchronisation**.
 
@@ -83,9 +79,4 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
 >[!MORELIKETHIS]
 >
->* [Ajouter/supprimer un champ d&#39;objet personnalisé en tant que contraintes de Liste/déclenchement intelligent](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-
->
-
-
-
+>[Ajouter/supprimer un champ d&#39;objet personnalisé en tant que contraintes de Liste/déclenchement intelligent](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
