@@ -3,9 +3,9 @@ unique-page-id: 4719300
 description: Ajouter/supprimer un champ d'objet personnalisé en tant que contraintes de Liste/déclenchement intelligent - Documents marketing - Documentation du produit
 title: Ajouter/supprimer un champ d'objet personnalisé en tant que contraintes de Liste/déclenchement intelligent
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -61,18 +61,10 @@ Marketo offre un contrôle de grain fin sur la synchronisation d’objets person
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >N&#39;oubliez pas de réactiver votre synchronisation globale !
 
 Waouh ! Désormais, vos listes intelligentes et vos campagnes intelligentes ont encore plus de puissance.
 
 >[!MORELIKETHIS]
 >
->* [Activer/désactiver la synchronisation d’objets personnalisés](enable-disable-custom-object-sync.md)
-
->
-
-
-
+>[Activer/désactiver la synchronisation d’objets personnalisés](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
