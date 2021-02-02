@@ -3,9 +3,9 @@ unique-page-id: 12983390
 description: Enregistrer une application avec Azure pour acquérir votre ID client/ID d'application - Documents marketing - Documentation du produit
 title: Enregistrer une application avec Azure pour acquérir votre ID client/ID d'application
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Azure Principale Directory étend vos répertoires locaux dans le cloud, fournis
 
    ![](assets/three.png)
 
-1. Cliquez sur **Nouvel enregistrement **en haut de la page.
+1. Cliquez sur **Nouvelle inscription** en haut de la page.
 
    ![](assets/four.png)
 
