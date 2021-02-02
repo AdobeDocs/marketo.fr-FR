@@ -3,7 +3,7 @@ unique-page-id: 10094647
 description: Définir un préfixe de champ personnalisé par défaut - Documents marketing - Documentation du produit
 title: Définir un préfixe de champ personnalisé par défaut
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -17,9 +17,7 @@ Votre préfixe Microsoft Dynamics par défaut pour les champs personnalisés doi
 
 1. Accédez à Paramètres et sélectionnez **Personnalisations.**
 
-   ** ![](assets/image2015-10-9-11-3a18-3a8.png)
-
-   **
+   ![](assets/image2015-10-9-11-3a18-3a8.png)
 
 1. Cliquez sur **Editeurs**.
 
@@ -42,4 +40,3 @@ Votre préfixe Microsoft Dynamics par défaut pour les champs personnalisés doi
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 
 1. Créez maintenant vos champs personnalisés. Une fois que vous les avez terminées, redéfinissez le préfixe sur le préfixe d’origine.
-
