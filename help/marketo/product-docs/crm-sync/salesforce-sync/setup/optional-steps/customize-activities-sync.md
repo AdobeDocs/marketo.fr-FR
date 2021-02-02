@@ -3,9 +3,9 @@ unique-page-id: 4719294
 description: Synchronisation des Activités personnalisées - Documentation marketing - Documentation du produit
 title: Personnaliser la synchronisation des Activités
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Synchronisation des Activités personnalisée {#customize-activities-sync}
 
-Si vous n&#39;utilisez pas [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), Marketo peut créer des enregistrements d&#39;historique des Activités Salesforce pour certains événements. Voici comment les activer.
+Si vous n&#39;utilisez pas Marketing Insight Sales Insight, Marketo peut créer des enregistrements d&#39;historique des Activités de Salesforce pour certains événements. Voici comment les activer.
 
-1. Accédez à **Admin. **
+1. Accédez à **Admin**.
 
    ![](assets/admin.png)
 
@@ -29,7 +29,7 @@ Si vous n&#39;utilisez pas [Sales Insight](http://docs.marketo.com/display/DOCS/
 
    >[!NOTE]
    >
-   >Une fois activé, Marketo repoussera trois mois d&#39;activité historique. Selon la quantité de données, *cette opération peut prendre plusieurs jours.* Les mises à jour survenant pendant la transmission des Activités initiales peuvent être retardées jusqu’à la fin de la synchronisation des Activités initiales.
+   >Une fois activé, Marketo repoussera trois mois d&#39;activité historique. Selon la quantité de données, _cette opération peut prendre plusieurs jours._ Les mises à jour survenant pendant la transmission des Activités initiales peuvent être retardées jusqu’à la fin de la synchronisation des Activités initiales.
 
 <table> 
  <colgroup> 
@@ -96,12 +96,8 @@ Si vous n&#39;utilisez pas [Sales Insight](http://docs.marketo.com/display/DOCS/
 
 >[!NOTE]
 >
->**Rappel**
->
->
 >Le terme &quot;courrier électronique de vente reçu&quot; **ne signifie pas** livraison. L&#39;état remis n&#39;est pas capturé pour les courriers électroniques envoyés via Sales Insight.
 
 >[!TIP]
 >
->Si vous souhaitez obtenir plus d&#39;informations sur le marketing dans Salesforce, consultez notre [produit Marketing Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
-
+>Si vous souhaitez obtenir plus d&#39;informations sur le marketing dans Salesforce, consultez notre [produit Marketing Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
