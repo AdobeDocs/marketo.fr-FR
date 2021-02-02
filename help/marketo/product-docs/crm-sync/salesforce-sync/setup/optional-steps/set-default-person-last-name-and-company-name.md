@@ -3,7 +3,7 @@ unique-page-id: 4719291
 description: Définir le nom de la personne par défaut et le nom de la Société - Documents marketing - Documentation du produit
 title: Définir le nom et le nom de la Société de la personne par défaut
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Salesforce requiert (minimum) le nom de famille et le nom de société pour ses 
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Saisissez un **nom de personne par défaut** et une **société de personne ****par défaut**, puis cliquez sur **Enregistrer**.
+1. Saisissez un **nom de personne par défaut** et une **société de personne par défaut**, puis cliquez sur **Enregistrer**.
 
    ![](assets/sync-options-hands.png)
 
