@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: Étape 2 sur 3 - Configurer l'utilisateur Marketo Sync dans Dynamics - Docs Marketo - Documentation sur les produits
 title: Étape 2 sur 3 - Configurer l'utilisateur Marketo Sync dans Dynamics
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Commençons par créer un compte utilisateur.
 
 >[!PREREQUISITES]
 >
->[Étape 1 sur 3 : Installation de la solution Marketo (en ligne)](step-1-of-3-install.md)
+>[Étape 1 sur 3 : Installation de la solution Marketo (en ligne)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
 
 ## Créer un utilisateur {#create-a-new-user}
 
@@ -25,7 +25,7 @@ Commençons par créer un compte utilisateur.
 
    ![](assets/one.png)
 
-1. Cliquez sur** Paramètres** et sélectionnez **Sécurité**.
+1. Cliquez sur **Paramètres** et sélectionnez **Sécurité**.
 
    ![](assets/two.png)
 
@@ -67,7 +67,7 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
 >[!NOTE]
 >
->Ceci s’applique à Marketo version 4.0.0.14 et ultérieure. Pour les versions antérieures, tous les utilisateurs doivent avoir le rôle utilisateur de synchronisation. Pour mettre à niveau Marketo, voir [Mise à niveau de la solution Marketo pour Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Ceci s’applique à Marketo version 4.0.0.14 et ultérieure. Pour les versions antérieures, tous les utilisateurs doivent avoir le rôle utilisateur de synchronisation. Pour mettre à niveau Marketo, voir [Mise à niveau de la solution Marketo pour Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Revenez à l’onglet Utilisateurs activés et actualisez la liste des utilisateurs.
 
@@ -93,13 +93,13 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
 Presque là ! Il ne nous reste plus qu’à informer Marketing Solution sur le nouvel utilisateur créé.
 
-1. Revenez à la section Paramètres avancés et cliquez sur l&#39;icône ![](assets/image2015-5-13-15-3a49-3a19.png)en regard de Paramètres, puis sélectionnez **Configuration du marketing**.
+1. Revenez à la section Paramètres avancés et cliquez sur l&#39;icône ![](assets/image2015-5-13-15-3a49-3a19.png) en regard de Paramètres, puis sélectionnez **Configuration du marketing**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Si **Configuration du marketing** ne s’affiche pas dans le menu Paramètres, actualisez la page. Si cela ne fonctionne pas, essayez de [publier à nouveau la solution marketing](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) ou de vous déconnecter puis de vous reconnecter.
+   >Si **Configuration du marketing** ne s’affiche pas dans le menu Paramètres, actualisez la page. Si cela ne fonctionne pas, essayez de [publier à nouveau la solution marketing](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) ou de vous déconnecter puis de vous reconnecter.
 
 1. Cliquez sur **Par défaut**.
 
@@ -109,7 +109,7 @@ Presque là ! Il ne nous reste plus qu’à informer Marketing Solution sur le n
 
    ![](assets/sixteen.png)
 
-1. Cliquez sur l&#39;icône ![](assets/image2015-3-13-15-3a10-3a11.png)dans le coin inférieur droit pour enregistrer les modifications.
+1. Cliquez sur l&#39;icône ![](assets/image2015-3-13-15-3a10-3a11.png) dans le coin inférieur droit pour enregistrer les modifications.
 
    ![](assets/image2015-3-13-15-3a3-3a3.png)
 
@@ -117,7 +117,7 @@ Presque là ! Il ne nous reste plus qu’à informer Marketing Solution sur le n
 
    ![](assets/seventeen.png)
 
-1. Cliquez sur l&#39;icône ![](assets/image2015-5-13-15-3a49-3a19-1.png)en regard de Paramètres, puis sélectionnez **Solutions**.
+1. Cliquez sur l&#39;icône ![](assets/image2015-5-13-15-3a49-3a19-1.png) en regard de Paramètres, puis sélectionnez **Solutions**.
 
    ![](assets/eighteen.png)
 
@@ -127,13 +127,10 @@ Presque là ! Il ne nous reste plus qu’à informer Marketing Solution sur le n
 
 ## Avant de passer à l’étape 3 {#before-proceeding-to-step}
 
-    * Si vous souhaitez limiter le nombre d&#39;enregistrements synchronisés, [configurez un filtre de synchronisation personnalisé](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) maintenant.
-    * Exécutez le processus [Valider Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Il vérifie que vos premières configurations ont été effectuées correctement.
+    * Si vous souhaitez limiter le nombre d&#39;enregistrements synchronisés, [configurez un filtre de synchronisation personnalisé](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) maintenant.
+    * Exécutez le processus [Valider Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Il vérifie que vos premières configurations ont été effectuées correctement.
     * Connectez-vous à l&#39;utilisateur de synchronisation du marketing dans Microsoft Dynamics CRM.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->
->[Étape 3 sur 3 : Connexion de Microsoft Dynamics avec Marketo (en ligne)](step-3-of-3-connect.md)
+>[Étape 3 sur 3 : Connexion de Microsoft Dynamics avec Marketo (en ligne)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
