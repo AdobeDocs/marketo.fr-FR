@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: Étape 2 sur 3 - Créer un utilisateur Salesforce pour Marketo (Professional) - Docs marketing - Documentation sur le produit
 title: Etape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Professional)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Étape 1 sur 3 : Ajouter les champs du marketing à Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-
->
-
-
+>[Étape 1 sur 3 : Ajouter les champs du marketing à Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
 Dans cet article, vous allez personnaliser les autorisations de champ avec une mise en page Salesforce et créer un utilisateur de synchronisation Marketo-Salesforce.
 
@@ -92,9 +88,6 @@ Salesforce Professional définit l&#39;accessibilité au niveau des champs avec 
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >Assurez-vous que le champ **Événement de toute la journée** a été ajouté à la **Mise en page du Événement**.
 
 ## Créer un utilisateur de synchronisation {#create-sync-user}
@@ -123,13 +116,6 @@ Marketo requiert des informations d’identification pour accéder à Salesforce
 
 Excellent ! Vous disposez maintenant d’un compte que Marketo peut utiliser pour se connecter à Salesforce. Faisons-le.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->* [Étape 3 sur 3 : Connect Marketo and Salesforce (Professional)](step-3-of-3-connect-marketo-and-salesforce-professional.md)
-
->
-
-
-
+>[Étape 3 sur 3 : Connect Marketo and Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
