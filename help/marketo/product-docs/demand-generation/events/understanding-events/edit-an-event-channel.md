@@ -3,9 +3,9 @@ unique-page-id: 2949857
 description: Modification d’un Canal de Événement - Documents marketing - Documentation du produit
 title: Modification d’un Canal de Événement
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Vous pouvez modifier le type de canal à partir de l&#39;onglet **Résumé** du 
 
 >[!NOTE]
 >
->Un programme est une initiative marketing spécifique. Le **canal** est destiné à être le mécanisme de diffusion, tel que Webinaire, Tradeshow ou Annonce en ligne. Vous pouvez voir différentes options de canal dans votre liste déroulante, selon ce qui est disponible dans votre propre instance. Vous pouvez également [créer votre propre canal.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>Un programme est une initiative marketing spécifique. Le **canal** est destiné à être le mécanisme de diffusion, tel que Webinaire, Tradeshow ou Annonce en ligne. Vous pouvez voir différentes options de canal dans votre liste déroulante, selon ce qui est disponible dans votre propre instance. Vous pouvez également [créer votre propre canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 ## Dans l’onglet Résumé {#from-the-summary-tab}
 
@@ -61,7 +61,7 @@ Un nouveau type de canal peut également être affecté à partir de l’onglet 
 
    ![](assets/tradeshowchange.png)
 
-1. Cliquez sur **Enregistrer.**
+1. Cliquez sur **Enregistrer**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
