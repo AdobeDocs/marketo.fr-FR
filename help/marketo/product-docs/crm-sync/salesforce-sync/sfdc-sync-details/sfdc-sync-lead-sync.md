@@ -3,7 +3,7 @@ unique-page-id: 2953455
 description: Synchronisation SFDC - Synchronisation des pistes - Documents marketing - Documentation du produit
 title: Synchronisation SFDC - Synchronisation des pistes
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Le marché gagne. Il est rare que ce genre de collision de données se produise.
 
 ## Puis-je créer un prospect dans Salesforce en utilisant Marketo ? {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-Oui, utilisez l’action de flux [Synchroniser la personne avec SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md). Cela créera un prospect dans Salesforce si le prospect n&#39;existe pas.
+Oui, utilisez l’action de flux [Synchroniser la personne avec SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md). Cela créera un prospect dans Salesforce si le prospect n&#39;existe pas.
 
 ## Puis-je forcer manuellement la synchronisation d&#39;une personne dans Marketo vers une piste dans Salesforce ? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-Oui, utilisez l’action de flux [Synchroniser la personne avec SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) et elle sera synchronisée en temps réel.
+Oui, utilisez l’action de flux [Synchroniser la personne avec SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) et elle sera synchronisée en temps réel.
 
 ## Est-ce que chaque champ standard est synchronisé avec Marketo ? {#does-every-single-standard-field-sync-to-marketo}
 
