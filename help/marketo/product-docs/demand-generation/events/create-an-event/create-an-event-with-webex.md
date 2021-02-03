@@ -3,9 +3,9 @@ unique-page-id: 2949863
 description: Création d’un Événement avec WebEx - Marketo Docs - Documentation du produit
 title: Création d’un Événement avec WebEx
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '927'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [Ajouter WebEx en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Créer un Programme de Événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Définir les [actions de flux](http://docs.marketo.com/display/DOCS/Flow+Actions)appropriées pour suivre l&#39;engagement
+>* Définir les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)appropriées pour suivre l&#39;engagement
 
 
-Commencez par créer un Événement Webex dans le Centre de Événement WebEx. Marketo utilise uniquement des paramètres et des champs spécifiques pour votre intégration, ce que nous allons examiner sous peu. Les autres champs que vous pouvez configurer pour WebEx sont expliqués dans le [Guide de l&#39;utilisateur de WebEx Événement Center](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+Commencez par créer un Événement Webex dans le Centre de Événement WebEx. Marketo utilise uniquement des paramètres et des champs spécifiques pour votre intégration, ce que nous allons examiner sous peu. Les autres champs que vous pouvez configurer pour WebEx sont expliqués dans le [Guide de l&#39;utilisateur de WebEx Événement Center](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
 ## Informations de base {#basic-information}
 
@@ -140,7 +140,7 @@ Doux ! Votre événement WebEx est désormais synchronisé avec votre événemen
 
 ## Affichage de la planification {#viewing-the-schedule}
 
-Dans la [vue de Planning du programme](http://docs.marketo.com/display/docs/program+schedule+view), cliquez sur l&#39;entrée de calendrier de votre événement. Vous pouvez voir la planification sur le côté droit de l&#39;écran !
+Dans la vue de Planning du programme, cliquez sur l’entrée de calendrier correspondant à votre événement. Vous pouvez voir la planification sur le côté droit de l&#39;écran !
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 
