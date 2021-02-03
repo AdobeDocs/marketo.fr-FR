@@ -3,7 +3,7 @@ unique-page-id: 2953459
 description: Synchronisation SFDC - Synchronisation des comptes - Documents marketing - Documentation du produit
 title: Synchronisation SFDC - Synchronisation des comptes
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Non. Un compte peut avoir plusieurs contacts, un contact ne peut avoir qu&#39;un
 
 ## Puis-je créer des comptes à partir de Marketo ? {#can-i-create-accounts-from-marketo}
 
-Surtout, non. Cependant, si vous utilisez l&#39;étape de flux [Convertir une personne](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) sur une personne, cela créera un nouveau contact, un nouveau compte et une nouvelle opportunité.
+Surtout, non. Cependant, si vous utilisez l&#39;étape de flux [Convertir une personne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) sur une personne, cela créera un nouveau contact, un nouveau compte et une nouvelle opportunité.
 
 >[!CAUTION]
 >
