@@ -3,7 +3,7 @@ unique-page-id: 2359620
 description: Modifier le style et la couleur du bouton d’envoi - Documents marketing - Documentation du produit
 title: Modifier le style et la couleur du bouton Envoyer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin de quelque chose de plus sophistiqué, n’hésitez pas à choisir parmi un large éventail de styles de bouton prêts à l’emploi.
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
@@ -62,4 +62,3 @@ Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin de 
    >[!NOTE]
    >
    >Comme de nombreux éléments graphiques, le bouton peut avoir un aspect différent selon le navigateur utilisé.
-
