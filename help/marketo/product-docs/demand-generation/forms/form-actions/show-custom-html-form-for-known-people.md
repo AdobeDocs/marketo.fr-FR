@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: Afficher un formulaire HTML personnalisé pour les personnes connues - Documents marketing - Documentation du produit
 title: Afficher un formulaire HTML personnalisé pour les personnes connues
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Si un visiteur fait l&#39;objet d&#39;un cookie (personne connue qui a fourni une adresse électronique dans le passé), pourquoi se soucier du formulaire ? Donnez-leur juste le bouton de téléchargement. Voici comment.
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Sous **Marketing** **Activités**, sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
+1. Sous **Activités marketing**, sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Sous **Formulaire** **Paramètres**, cliquez sur **Paramètres**.
+1. Sous **Paramètres du formulaire**, cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Définissez Si **Connu** **Visiteur, Afficher** : **Personnalisé** **HTML**.
+1. Définissez Si **Visiteur connu, Afficher** : à **HTML personnalisé**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Cliquez sur ![—](assets/image2014-9-25-14-3a1-3a26.png) pour modifier le **fichier** **HTML** qui sera présenté aux personnes connues.
+1. Cliquez sur ![—](assets/image2014-9-25-14-3a1-3a26.png) pour modifier le **code HTML personnalisé** qui sera présenté aux personnes connues.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -66,15 +66,12 @@ Si un visiteur fait l&#39;objet d&#39;un cookie (personne connue qui a fourni un
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >N&#39;oubliez pas d&#39;[approuver le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+   >N&#39;oubliez pas d&#39;[approuver le brouillon de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+
+   Un morceau de gâteau ! Voyez ce qu&#39;une personne verrait s&#39;elle revenait sur le même formulaire :
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
    >[!TIP]
    >
    >Vous pouvez diriger le clic sur le bouton vers la ressource en définissant la page de suivi de formulaire sur l’URL du fichier.
-
-Un morceau de gâteau ! Voyez ce qu&#39;une personne verrait s&#39;elle revenait sur le même formulaire :
