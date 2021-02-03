@@ -3,9 +3,9 @@ unique-page-id: 2359608
 description: Modification de la famille de polices du formulaire - Documents marketing - Documentation du produit
 title: Modification de la famille de polices du formulaire
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Google Fonts sont géniaux, et nous les avons intégrés dans l&#39;éditeur de 
 >
 >Ce paramètre a un impact sur l’étiquette du formulaire, le texte de saisie et tout texte enrichi.
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Sous **Formulaire** **Paramètres**, sélectionnez **Paramètres**.
+1. Sous **Paramètres du formulaire**, sélectionnez **Paramètres**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
@@ -35,7 +35,7 @@ Google Fonts sont géniaux, et nous les avons intégrés dans l&#39;éditeur de 
 
    >[!TIP]
    >
-   >Un groupe de [polices Google](http://www.google.com/fonts) peut être utilisé.
+   >Un groupe de [polices Google](https://www.google.com/fonts) peut être utilisé.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -53,9 +53,6 @@ Google Fonts sont géniaux, et nous les avons intégrés dans l&#39;éditeur de 
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >N’oubliez pas d’approuver le brouillon de landing page créé par les modifications du formulaire.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
@@ -64,9 +61,4 @@ Voyez à quel point il était facile de modifier la famille de polices sur un fo
 
 >[!MORELIKETHIS]
 >
->* [Modification de la taille de police du formulaire](change-the-form-font-size.md)
-
->
-
-
-
+>[Modification de la taille de police du formulaire](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
