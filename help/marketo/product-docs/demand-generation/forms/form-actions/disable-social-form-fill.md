@@ -3,9 +3,9 @@ unique-page-id: 10098242
 description: Désactiver le remplissage du formulaire Social - Documents marketing - Documentation du produit
 title: Désactiver le remplissage du formulaire Social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Il arrive que vous ne souhaitiez plus que les visiteurs du site envoient des formulaires à l’aide d’un profil social. Voici comment la désactiver.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité.
 
@@ -25,7 +23,7 @@ Il arrive que vous ne souhaitiez plus que les visiteurs du site envoient des for
 
    ![](assets/login-marketing-activities-10.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier ****Formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -46,4 +44,3 @@ Il arrive que vous ne souhaitiez plus que les visiteurs du site envoient des for
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
    C&#39;est tout ce que tu as besoin de faire.
-
