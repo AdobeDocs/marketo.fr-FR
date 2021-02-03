@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: Définir une valeur de champ de formulaire masqué - Documents marketing - Documentation du produit
 title: Définir une valeur de champ de formulaire masqué
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Les champs masqués sont généralement renseignés de manière dynamique. Ils n
 
 >[!PREREQUISITES]
 >
->[Définir un champ de formulaire comme masqué](set-a-form-field-as-hidden.md)
+>[Définir un champ de formulaire comme masqué](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## Sélectionner le champ {#select-the-field}
 
@@ -33,11 +33,11 @@ En sélectionnant Utiliser la valeur par défaut, vous pouvez coder en dur une v
 
 ## Paramètre d’URL {#url-parameter}
 
-Si vous souhaitez capturer des paramètres d’URL (chaînes de Requête) à partir de la page sur laquelle se trouve la personne lors du remplissage du formulaire, vous pouvez utiliser **URL** **Paramètres** pour renseigner votre champ masqué.
+Si vous souhaitez capturer des paramètres d’URL (chaînes de Requête) à partir de la page sur laquelle se trouve la personne lors du remplissage du formulaire, vous pouvez utiliser **Paramètres d’URL** pour renseigner votre champ masqué.
 
 >[!NOTE]
 >
->Les paramètres sont plutôt techniques, n&#39;est-ce pas ? Une fois qu&#39;on les trouve, ils sont puissants. Cette [page de Wikipédia sur Chaînes de Requête](http://en.wikipedia.org/wiki/Query_string) est quelque peu utile.
+>Les paramètres sont plutôt techniques, n&#39;est-ce pas ? Une fois qu&#39;on les trouve, ils sont puissants. Cette [page de Wikipédia sur Chaînes de Requête](https://en.wikipedia.org/wiki/Query_string) est quelque peu utile.
 
 1. Sélectionnez **Paramètre d’URL** pour **Type de valeur Get**.
 
@@ -53,9 +53,9 @@ Si vous souhaitez capturer des paramètres d’URL (chaînes de Requête) à par
 
 ## Valeur du cookie {#cookie-value}
 
-Si vous stockez des données dans des cookies, vous pouvez utiliser **Cookie** **Valeur** pour récupérer les données lorsque le formulaire est envoyé.
+Si vous stockez des données dans des cookies, vous pouvez utiliser **Valeur du cookie** pour récupérer les données lorsque le formulaire est envoyé.
 
-1. Sélectionnez **Cookie** **Valeur** pour **Get** **Valeur** **From**.
+1. Sélectionnez **Valeur du cookie** pour **Obtenir la valeur de**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,9 +69,9 @@ Si vous stockez des données dans des cookies, vous pouvez utiliser **Cookie** *
 
 ## Paramètre de parrain {#referrer-parameter}
 
-Si vous souhaitez capturer des données à partir de la page d’où provient le visiteur avant de remplir le formulaire, vous pouvez utiliser **Parrain** **Paramètre**.
+Si vous souhaitez capturer des données à partir de la page d’où provient le visiteur avant de remplir le formulaire, vous pouvez utiliser **Paramètre de Parrain**.
 
-1. Définissez **Get** **Valeur** **De** à **Parrain** **Paramètre**.
+1. Définissez **Get Value From** sur **Paramètre de Parrain**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
@@ -81,7 +81,7 @@ Si vous souhaitez capturer des données à partir de la page d’où provient le
 
    >[!TIP]
    >
-   >Vous pouvez entrer une **valeur par défaut** **Valeur** au cas où le paramètre de parrain serait introuvable.
+   >Vous pouvez entrer une **valeur par défaut** au cas où le paramètre de parrain serait introuvable.
 
 1. Cliquez sur **Terminer**.
 
@@ -90,5 +90,3 @@ Si vous souhaitez capturer des données à partir de la page d’où provient le
 1. Cliquez sur **Approuver et fermer**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
-
-Doux ! Vous vous en sortez plutôt bien. Il y a plus à découvrir sur [les formulaires](http://docs.marketo.com/display/docs/forms).
