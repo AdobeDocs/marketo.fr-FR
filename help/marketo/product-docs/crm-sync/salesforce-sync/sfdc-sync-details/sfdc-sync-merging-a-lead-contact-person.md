@@ -3,9 +3,9 @@ unique-page-id: 7515133
 description: Synchronisation SFDC - Fusionner une piste/un contact/une personne - Documents marketing - Documentation du produit
 title: Synchronisation SFDC - Fusionner une piste/un contact/une personne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,6 @@ Parfois, il est préférable de simplement liste les règles. Et voici :
 
 >[!NOTE]
 >
->**Exemple**
->
 >Fusion de 3 pistes (personnes) avec des scores de 10 chacune, donnera un résultat de 1 piste (personne) avec un score de 30.
 
 * Les valeurs de champ conflictuelles proviennent de l&#39;&quot;enregistrement gagnant&quot;. (Enregistrer = le prospect ou le contact résultant)
@@ -32,7 +30,4 @@ Parfois, il est préférable de simplement liste les règles. Et voici :
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->Explorez en profondeur pour plus d&#39;informations sur [la fusion de personnes dans Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
-
+>Explorez en profondeur pour plus d&#39;informations sur [la fusion de personnes dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
