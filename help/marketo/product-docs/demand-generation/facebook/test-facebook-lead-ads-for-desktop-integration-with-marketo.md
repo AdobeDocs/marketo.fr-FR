@@ -3,9 +3,9 @@ unique-page-id: 11370892
 description: Testez les publicités Facebook pour une intégration de bureau avec Marketo - Marketo Docs - Documentation du produit
 title: Test des annonces de pistes Facebook pour l'intégration de bureau avec Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,10 @@ Après avoir créé votre annonce de piste, vous devez la tester ! Voici comment
 
 >[!PREREQUISITES]
 >
->Vous devez [configurer l’intégration des publicités de piste Facebook](set-up-facebook-lead-ads.md).
+>Vous devez [configurer l’intégration des publicités de piste Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. Dans l’éditeur d’alimentation Facebook, sélectionnez une campagne, une publicité, puis cliquez sur **Modifier**.
+
 1. Sous **Liens**, cliquez sur le lien **Vue dans le fil d’actualité**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
@@ -40,7 +41,7 @@ Après avoir créé votre annonce de piste, vous devez la tester ! Voici comment
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. C&#39;est là que la magie se produit ! Une fois que vous avez envoyé votre formulaire, [créez une liste dynamique dans Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dans le cadre d’un programme ou dans la base de données qui utilise le filtre Formulaire d’annonce de piste Facebook remplie. Insérez le nom du formulaire de piste publicitaire du formulaire que vous venez d&#39;envoyer.
+1. C&#39;est là que la magie se produit ! Une fois que vous avez envoyé votre formulaire, [créez une liste dynamique dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dans le cadre d’un programme ou dans la base de données qui utilise le filtre Formulaire d’annonce de piste Facebook remplie. Insérez le nom du formulaire de piste publicitaire du formulaire que vous venez d&#39;envoyer.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
@@ -50,13 +51,6 @@ Après avoir créé votre annonce de piste, vous devez la tester ! Voici comment
 
    Est-ce cool ou quoi ?
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->* [Configurer des annonces de pistes Facebook](set-up-facebook-lead-ads.md)
-
->
-
-
-
+>[Configurer des annonces de pistes Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
