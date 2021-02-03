@@ -3,9 +3,9 @@ unique-page-id: 2359873
 description: Supprimer une image ou un fichier téléchargé - Documents marketing - Documentation du produit
 title: Suppression d’une image ou d’un fichier téléchargé
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
    ![](assets/designstudio-5.png)
 
-1. Sélectionnez **Images** et **Fichiers** dans le menu de gauche, puis cliquez sur en regard du nom du fichier à supprimer.
+1. Sélectionnez **Images et fichiers** dans le menu de gauche, puis cliquez sur en regard du nom du fichier à supprimer.
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Cliquez sur **Fichier** **Actions** et **Supprimer**.
+1. Cliquez sur la liste déroulante **Actions de fichier** et sélectionnez **Supprimer**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
-1. Vérifiez que vous avez sélectionné le fichier approprié et cliquez sur **DELETE**.
+1. Vérifiez que vous avez sélectionné le fichier approprié et cliquez sur **Supprimer**.
 
    ![](assets/image2014-9-16-11-3a18-3a30.png)
 
@@ -41,11 +41,7 @@ Bien joué !
 
 >[!MORELIKETHIS]
 >
->* [Remplacement d’une image ou d’un fichier téléchargé](replace-an-uploaded-image-or-file.md)
->* [Recherche d’images et de fichiers téléchargés](search-uploaded-images-and-files.md)
->* [Rechercher l’URL d’une image ou d’un fichier téléchargé](find-the-url-of-an-uploaded-image-or-file.md)
-
->
-
-
+>* [Remplacement d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>* [Recherche d’images et de fichiers téléchargés](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>* [Rechercher l’URL d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 
