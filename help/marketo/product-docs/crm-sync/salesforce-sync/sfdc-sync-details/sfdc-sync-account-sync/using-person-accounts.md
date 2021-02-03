@@ -3,7 +3,7 @@ unique-page-id: 4719316
 description: Utilisation de comptes personnels - Documents marketing - Documentation du produit
 title: Utilisation de comptes personnels
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Les Activités relatives aux comptes personnels sont affichées dans le panneau 
 
 >[!NOTE]
 >
->Les **Ajoutes à Marketo Campaign et **Envoyer un courriel **options ne sont pas actuellement disponibles pour les comptes de personnes.
+>Les options **Ajouter à Marketo Campaign** et **Envoyer un courriel** de Marketo Sales Insight ne sont actuellement pas disponibles pour les comptes de personnes.
 
 ## Comment associer des opportunités à un compte de personne ? {#how-do-i-associate-opportunities-to-a-person-account}
 
