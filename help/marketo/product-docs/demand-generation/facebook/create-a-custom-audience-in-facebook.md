@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Création d’une Audience personnalisée dans Facebook - Documents marketing - Documentation du produit
 title: Création d’une Audience personnalisée dans Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Ajoutez les Audiences personnalisées Facebook en tant que ](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) service LaunchPoint dans la section Admin.
+>* [Ajoutez les Audiences personnalisées Facebook en tant que ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) service LaunchPoint dans la section Admin.
 >* [Acceptez les termes d’Audiences personnalisées de Facebook ](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte Facebook.
 
 >
@@ -30,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/1.png)
 
-1. Sélectionnez l&#39;onglet **Pistes**, puis cliquez sur l&#39;icône **Envoyer via Ad Bridge **située dans la partie inférieure.
+1. Sélectionnez l&#39;onglet **Pistes**, puis cliquez sur l&#39;icône **Envoyer via Ad Bridge** située dans la partie inférieure.
 
    ![](assets/222.png)
 
-1. Sélectionnez **Facebook **et cliquez sur **Suivant**.
+1. Sélectionnez **Facebook** et cliquez sur **Suivant**.
 
    ![](assets/two.png)
 
@@ -72,10 +72,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Ajouter conduit à une Audience personnalisée dans Facebook](add-leads-to-a-custom-audience-in-facebook.md)
-
-
+   >[Ajouter conduit à une Audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
