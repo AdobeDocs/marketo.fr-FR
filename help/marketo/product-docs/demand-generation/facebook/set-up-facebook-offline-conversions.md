@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Configurer les conversions hors ligne Facebook - Documents marketing - Documentation du produit
 title: Configurer les conversions hors connexion Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
 
 >[!PREREQUISITES]
 >
->* Vous devez [configurer des publicités de piste Facebook](set-up-facebook-lead-ads.md).
->* Vous devez disposer d&#39;un modèle approuvé dans [Revenus Cycle Modeler](http://docs.marketo.com/display/docs/revenue+cycle+models).
-
->
-
+>* Vous devez [configurer des publicités de piste Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* Vous devez disposer d&#39;un modèle approuvé dans [Revenus Cycle Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 
 ## Configuration de l’administrateur {#admin-configuration}
@@ -34,7 +31,7 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
 
    >[!NOTE]
    >
-   >Si vous n&#39;avez pas fait cela, allez-y et [Configurez les publicités Facebook ](set-up-facebook-lead-ads.md), puis revenez ici.
+   >Si vous n&#39;avez pas fait cela, allez-y et [Configurez les publicités Facebook ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), puis revenez ici.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -72,18 +69,16 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
    >
    >Actuellement, 10 événements Facebook vous permettent de mettre en correspondance des étapes du cycle de recettes avec :
    >
-   >    
-   >    
-   >    * Ajoutes des informations de paiement
-   >    * Ajoutes au panier
-   >    * Ajoutes à la Liste des souhaits
-   >    * Inscriptions terminées
-   >    * Passages en caisse commencés
-   >    * Personne
-   >    * Autre
-   >    * Achat
-   >    * Recherches
-   >    * Vues de contenu
+   >* Ajoutes des informations de paiement
+   >* Ajoutes au panier
+   >* Ajoutes à la Liste des souhaits
+   >* Inscriptions terminées
+   >* Passages en caisse commencés
+   >* Personne
+   >* Autre
+   >* Achat
+   >* Recherches
+   >* Vues de contenu
 
 
 1. Sélectionnez l’étape à mapper, puis, dans la liste déroulante **Conversion Facebook**, sélectionnez le Événement Facebook vers lequel vous souhaitez mapper. Répétez cette étape pour mapper toutes les étapes de votre RCM aux étapes de conversion hors ligne sur Facebook.
@@ -108,13 +103,6 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
    >
    >Les données de conversion hors ligne sont envoyées de Marketo à Facebook plusieurs fois par jour.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->* [Présentation des conversions hors ligne Facebook](understanding-facebook-offline-conversions.md)
-
->
-
-
-
+>[Présentation des conversions hors ligne Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
