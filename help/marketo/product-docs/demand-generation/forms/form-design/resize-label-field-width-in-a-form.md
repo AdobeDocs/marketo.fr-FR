@@ -3,7 +3,7 @@ unique-page-id: 2359604
 description: Redimensionner l’étiquette/la largeur de champ dans un formulaire - Documents marketing - Documentation du produit
 title: Redimensionner l’étiquette/la largeur de champ dans un formulaire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Il existe deux manières de redimensionner à la fois la largeur de l’étiquet
 
 ## Faites glisser et déposez la largeur {#drag-and-drop-the-width}
 
-1. Dans l’[éditeur de formulaire](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md), sélectionnez le champ à redimensionner.
+1. Dans l’[éditeur de formulaire](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), sélectionnez le champ à redimensionner.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
