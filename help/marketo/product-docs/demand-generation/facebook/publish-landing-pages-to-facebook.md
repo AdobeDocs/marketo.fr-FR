@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Publier des Landings page sur Facebook - Documents marketing - Documentation du produit
 title: Publication de Landings page sur Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Vous pouvez publier vos landings page sur Facebook, rencontrer votre audience là où ils se trouvent déjà et générer plus de trafic sur vos programmes.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >SMB Spark, Standard &amp; Select. Entreprise avec fonction sous licence distincte.
 
@@ -65,8 +63,4 @@ Si vous lancez un nouveau livre, vous pourriez atteindre une partie de votre aud
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >Pour retirer le landing page de Facebook, désapprouvez-le dans Marketing et, lorsque vous y êtes invité, sélectionnez l’option de suppression de l’onglet Facebook.
-
