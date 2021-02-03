@@ -3,9 +3,9 @@ unique-page-id: 2359614
 description: Définir des valeurs dans une radio ou un champ sélectionné dans un formulaire - Documents marketing - Documentation du produit
 title: Définir des valeurs dans une radio ou un champ sélectionné dans un formulaire
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Définir des valeurs dans une radio ou un champ sélectionné dans un formulaire {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Une fois que vous avez [défini un type de champ](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) comme bouton radio ou comme type de sélection, vous voudrez définir les valeurs que l&#39;utilisateur peut sélectionner. Voici comment.
+Une fois que vous avez [défini un type de champ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) comme bouton radio ou comme type de sélection, vous voudrez définir les valeurs que l&#39;utilisateur peut sélectionner. Voici comment.
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -39,9 +39,7 @@ Une fois que vous avez [défini un type de champ](../../../../product-docs/admin
    >
    >**Définition**
    >
-   >
    >**Valeur d’affichage :** ce qui est présenté au visiteur.
-   >
    >
    >**Valeur stockée :** ce qui est enregistré dans Marketo.
 
@@ -65,4 +63,4 @@ Une fois que vous avez [défini un type de champ](../../../../product-docs/admin
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-Super travail ! Vous vous en sortez vraiment bien. En savoir plus sur les [formulaires](http://docs.marketo.com/display/docs/forms).
+Super travail ! Vous vous en sortez vraiment bien.
