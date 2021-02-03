@@ -3,7 +3,7 @@ unique-page-id: 10095239
 description: Utiliser des Filtres et des déclencheurs d'annonce de piste dans un Campaign intelligent - Docs marketing - Documentation du produit
 title: Utiliser des Filtres et des déclencheurs d'annonce de piste dans un Campaign dynamique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -22,4 +22,3 @@ Lorsque vous avez activé les annonces de pistes Facebook, vous pouvez les utili
 1. Ajouter des contraintes pour la personnaliser.
 
    ![](assets/image2016-8-5-11-3a19-3a27.png)
-
