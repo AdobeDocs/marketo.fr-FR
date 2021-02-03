@@ -3,7 +3,7 @@ unique-page-id: 4719308
 description: Ajouter un champ Salesforce existant à la synchronisation du marché - Docs marketing - Documentation du produit
 title: Ajouter un champ Salesforce existant à la synchronisation du marché
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -48,4 +48,3 @@ En règle générale, les nouveaux champs personnalisés de Salesforce sont auto
    >[!NOTE]
    >
    > Si le champ contient déjà des valeurs dans Salesforce, celles-ci ne sont pas synchronisées avec Marketo avant la prochaine mise à jour de l&#39;enregistrement.
-
