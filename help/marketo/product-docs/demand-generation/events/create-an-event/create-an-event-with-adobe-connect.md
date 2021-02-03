@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: Création d’un Événement avec Adobe Connect - Marketo Docs - Documentation du produit
 title: Créer un Événement avec Adobe Connect
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -71,8 +71,8 @@ Tout d&#39;abord, assurez-vous d&#39;avoir créé votre réunion ou séminaire �
 
    >[!MORELIKETHIS]
    >
-   > * [Ajouter Adobe Connect en tant que service LaunchPoint](../../../../product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [Modification d’un Canal de Événement](../../../../product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   > * [Ajouter Adobe Connect en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   > * [Modification d’un Canal de Événement](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
 
 
 Les personnes qui s’abonnent à votre webinaire seront repoussées vers votre fournisseur de webinaires via l’étape de flux Modifier l’état du Programme lorsque le nouvel état est défini sur &quot;Inscrit&quot;. Aucun autre statut ne poussera la personne vers le bas. Veillez également à passer à l’étape 1 du flux d’état du Programme de modification et à l’étape 2 du flux d’envoi de courrier électronique.
