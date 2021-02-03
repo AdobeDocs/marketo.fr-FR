@@ -3,7 +3,7 @@ unique-page-id: 12980661
 description: Ajouter la correspondance client Google comme un service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter la correspondance client Google en tant que service LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -27,11 +27,11 @@ Avec cette intégration, vous pouvez envoyer une audience Marketo à Google pour
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Sélectionnez **Nouveau** puis** Nouveau service**.
+1. Sélectionnez **Nouveau** puis **Nouveau service**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Saisissez un **nom d’affichage **et sélectionnez** Google Customer Match **dans la liste déroulante **Service**. Cliquez sur **Créer**.
+1. Saisissez un **nom d’affichage** et sélectionnez **Correspondance client Google** dans la liste déroulante **Service**. Cliquez sur **Créer**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Avec cette intégration, vous pouvez envoyer une audience Marketo à Google pour
 
    >[!CAUTION]
    >
-   >Pour que Marketo envoie des audiences sur plusieurs comptes AdWords, l’utilisateur Google que vous autorisez dans les étapes suivantes doit avoir accès à *tous* de ces comptes.
+   >Pour que Marketo envoie des audiences sur plusieurs comptes AdWords, l’utilisateur Google que vous autorisez dans les étapes suivantes doit avoir accès à _tous_ de ces comptes.
 
    ![](assets/chooseaccount.png)
 
@@ -56,4 +56,3 @@ Avec cette intégration, vous pouvez envoyer une audience Marketo à Google pour
    ![](assets/authorizesuccess.png)
 
    Super ! Les Audiences Google Matched sont désormais répertoriées comme un service LaunchPoint dans l’onglet Installed Services.
-
