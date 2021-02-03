@@ -3,9 +3,9 @@ unique-page-id: 7512328
 description: Créer un Événement avec une réunion Web de niveau 3 - Documentation sur le marketing - Documentation sur le produit
 title: Créer un Événement avec une réunion Web de niveau 3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ ht-degree: 0%
 >
 >* [Ajouter la réunion Web de niveau 3 en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Créer un Programme de Événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Définir les [actions de flux](https://docs.marketo.com/x/k8Kt)appropriées pour suivre l&#39;engagement
-
->
+>* Définir les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)appropriées pour suivre l&#39;engagement
 
 
-
-Commencez par créer votre webinaire dans le niveau 3. Si vous avez besoin d&#39;aide, consultez la [bibliothèque de ressources de niveau 3](http://www.level3.com/en/resource-library/). Vous trouverez que c&#39;est très similaire à BrightTalk.  Marketo utilise un petit sous-ensemble de champs de niveau 3 :
+Commencez par créer votre webinaire dans le niveau 3. Si vous avez besoin d&#39;aide, consultez la [bibliothèque de ressources de niveau 3](https://www.level3.com/en/resource-library/). Vous trouverez que c&#39;est très similaire à BrightTalk.  Marketo utilise un petit sous-ensemble de champs de niveau 3 :
 
 * **Nom**  : nom de la diffusion Web.
 * **Début Date**  - début de la diffusion sur le Web.
@@ -55,6 +52,6 @@ Commencez par créer votre webinaire dans le niveau 3. Si vous avez besoin d&#39
 
 ## Affichage de la planification {#viewing-the-schedule}
 
-Dans la [vue de Planning du programme](http://docs.marketo.com/display/docs/program+schedule+view), cliquez sur l&#39;entrée de calendrier de votre événement. Vous pouvez voir la planification sur le côté droit de l&#39;écran !
+Dans la vue de Planning du programme, cliquez sur l’entrée de calendrier correspondant à votre événement. Vous pouvez voir la planification sur le côté droit de l&#39;écran !
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)
