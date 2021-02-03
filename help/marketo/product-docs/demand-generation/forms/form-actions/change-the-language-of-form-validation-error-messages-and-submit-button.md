@@ -3,9 +3,9 @@ unique-page-id: 2359654
 description: Modification de la langue des messages de validation/d’erreur du formulaire et du bouton Envoyer - Documents marketing - Documentation du produit
 title: Modification de la langue des messages de validation/d’erreur du formulaire et du bouton Envoyer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ Saviez-vous que vous pouvez personnaliser le formulaire pour envoyer des message
 >
 >Cela modifie également la langue du bouton d’envoi.
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire.**
+1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. Sous **Paramètres du formulaire,** cliquez sur **Paramètres**.
+1. Sous **Paramètres du formulaire**, cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. Sélectionnez la **Erreur** **langue** dont vous avez besoin.
+1. Sélectionnez la **langue d’erreur** dont vous avez besoin.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
@@ -49,10 +49,7 @@ Saviez-vous que vous pouvez personnaliser le formulaire pour envoyer des message
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >N&#39;oubliez pas d&#39;[approuver le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+   >N&#39;oubliez pas d&#39;[approuver le brouillon de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
