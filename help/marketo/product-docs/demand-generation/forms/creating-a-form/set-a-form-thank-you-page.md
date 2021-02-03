@@ -3,9 +3,9 @@ unique-page-id: 2359573
 description: Définir une page de remerciement de formulaire - Documents marketing - Documentation du produit
 title: Définir une page de remerciement pour un formulaire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Que se passe-t-il lorsque quelqu’un remplit un formulaire ? Où sont-ils trans
 
 ## Modifier le formulaire {#edit-form}
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -25,17 +25,17 @@ Que se passe-t-il lorsque quelqu’un remplit un formulaire ? Où sont-ils trans
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Sous **Formulaire** **Paramètres** cliquez sur **Paramètres**.
+1. Sous **Paramètres du formulaire**, cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Faites défiler l&#39;écran jusqu&#39;à la section **Merci** **Vous** **Page**.
+1. Faites défiler l&#39;écran jusqu&#39;à la section **Page de remerciement**.
 
 ## Rester sur la page {#stay-on-page}
 
 L’option Rester sur la page permet de conserver le visiteur sur la même page lorsque le formulaire a été envoyé.
 
-1. Sélectionnez **Séjour** **On** **Page** pour **Suivre** **Haut** **Avec**.
+1. Sélectionnez **Rester sur la page** pour **Effectuer un suivi avec**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ L’option Rester sur la page permet de conserver le visiteur sur la même page 
 
 Le paramètre URL externe vous permet de définir toute URL comme page de suivi. Une fois que l’utilisateur a envoyé le formulaire, il est redirigé vers l’URL spécifiée.
 
-1. Sélectionnez **External** **URL** pour **Suivre** **Haut** **Avec**.
+1. Sélectionnez **URL externe** pour **Effectuer un suivi avec**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -71,7 +71,7 @@ Vous pouvez sélectionner n’importe quel landing page Marketo approuvé comme 
 
 Vous pouvez ajouter plusieurs options et intégrer des choix afin d’afficher différents suivis de personnes en fonction de leurs réponses.
 
-1. Cliquez sur **Ajouter** **Choix**.
+1. Cliquez sur **Ajouter le choix**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ Vous pouvez ajouter plusieurs options et intégrer des choix afin d’afficher d
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Sélectionnez la page appropriée pour le type **Suivre** **Haut** **Avec**.
+1. Sélectionnez la page appropriée pour le type **Suivi avec**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -100,9 +100,6 @@ Vous pouvez ajouter plusieurs options et intégrer des choix afin d’afficher d
    ![](assets/image2014-9-15-17-3a39-3a3.png)
 
    >[!NOTE]
-   >
-   >**Rappel**
-   >
    >
    >Vous devez avoir créé/approuvé ces landings page à l’avance.
 
@@ -114,7 +111,7 @@ Vous pouvez ajouter plusieurs options et intégrer des choix afin d’afficher d
    >
    >Vous pouvez ajouter plusieurs options. Cependant, si vous en ajoutez trop, cela peut affecter la vitesse de chargement du formulaire. N’ajoutez donc que ce dont vous avez besoin.
 
-1. Parcourez et configurez **Choice** **2**.
+1. Parcourez et configurez **Choice 2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -143,3 +140,4 @@ Vous pouvez ajouter plusieurs options et intégrer des choix afin d’afficher d
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
 Super boulot !
+
