@@ -3,9 +3,9 @@ unique-page-id: 2359618
 description: Ajouter du texte enrichi dans un formulaire - Documents marketing - Documentation du produit
 title: Ajouter du texte enrichi dans un formulaire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Utilisez le texte enrichi d’un formulaire pour ajouter des instructions ou d’autres informations entre les champs. Regardez-le.
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -55,10 +55,6 @@ Utilisez le texte enrichi d’un formulaire pour ajouter des instructions ou d�
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 
->[!NOTE]
+>[!TIP]
 >
->**Plongée profonde**
->
->En savoir plus sur les [formulaires](http://docs.marketo.com/display/docs/forms).
-
-Saviez-vous que vous pouvez également [ajouter des règles de visibilité](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) à un bloc de texte enrichi ?
+>Saviez-vous que vous pouvez également [ajouter des règles de visibilité](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) à un bloc de texte enrichi ?
