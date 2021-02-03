@@ -3,9 +3,9 @@ unique-page-id: 11376700
 description: Ajouter conduit à une Audience personnalisée dans Facebook - Documents marketing - Documentation du produit
 title: Ajouter conduit à une Audience personnalisée dans Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Avez-vous déjà une audience personnalisée dans Facebook et souhaitez-vous y a
 
 >[!PREREQUISITES]
 >
->* [Création d’une Audience personnalisée dans Facebook](create-a-custom-audience-in-facebook.md)
+>* [Création d’une Audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >* [Acceptez les audiences personnalisées de Facebook ](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte Facebook.
 
 >
@@ -28,11 +28,11 @@ Avez-vous déjà une audience personnalisée dans Facebook et souhaitez-vous y a
 
    ![](assets/one.png)
 
-1. Sélectionnez l&#39;onglet **Pistes**, puis cliquez sur l&#39;icône **Envoyer via Ad Bridge **située dans la partie inférieure.
+1. Sélectionnez l&#39;onglet **Pistes**, puis cliquez sur l&#39;icône **Envoyer via Ad Bridge** située dans la partie inférieure.
 
    ![](assets/two-1.png)
 
-1. Sélectionnez **Facebook **et cliquez sur **Suivant**.
+1. Sélectionnez **Facebook** et cliquez sur **Suivant**.
 
    ![](assets/three.png)
 
@@ -42,7 +42,7 @@ Avez-vous déjà une audience personnalisée dans Facebook et souhaitez-vous y a
 
    >[!NOTE]
    >
-   >**L’Ajoute conduit à l’audience :** seules les audiences Facebook avec un sous-type personnalisé seront disponibles.\
+   >**L&#39;Ajoute conduit à l&#39;audience** : seules les audiences Facebook avec un sous-type personnalisé seront disponibles.\
    >**Supprimer les pistes de l&#39;audience** : supprime les pistes de votre liste statique ou intelligente d’une audience Facebook.
 
 1. Une fois l’état terminé, il est mis à jour.
@@ -53,10 +53,4 @@ Avez-vous déjà une audience personnalisée dans Facebook et souhaitez-vous y a
 
    >[!NOTE]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Création d’une Audience personnalisée dans Facebook](create-a-custom-audience-in-facebook.md)
-
-
+   >[Création d’une Audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
