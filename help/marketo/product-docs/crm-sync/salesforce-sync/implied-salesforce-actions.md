@@ -3,9 +3,9 @@ unique-page-id: 4719304
 description: Actions Salesforce appliquées - Documents marketing - Documentation du produit
 title: Actions Salesforce appliquées
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Lorsqu&#39;une étape de flux spécifique à Salesforce s&#39;exécute, des étapes supplémentaires sont parfois exécutées automatiquement. Voici les règles, donc vous savez :
 
-Ces règles s&#39;appliquent *lorsque la personne n&#39;est pas actuellement dans [Salesforce.com](http://Salesforce.com)* en tant que contact ou responsable.
+Ces règles s&#39;appliquent _lorsque la personne n&#39;est pas actuellement dans [Salesforce.com](http://Salesforce.com)_ en tant que contact ou responsable.
 
 <table> 
  <thead> 
@@ -50,6 +50,4 @@ Ces règles s&#39;appliquent *lorsque la personne n&#39;est pas actuellement dan
 
 Vous pouvez filtrer les enregistrements SFDC dans une Liste dynamique à l’aide du filtre **Type SFDC** avec l’opérateur défini sur &quot;n’est pas vide&quot;. Tous les enregistrements de la DDC ont une valeur dans ce champ.
 
-N&#39;oubliez pas que ces actions automatiques ne se produisent que si la piste n&#39;est pas actuellement dans [Salesforce.com](http://Salesforce.com)
-
-La synchronisation Salesforce est cool, non ?
+N&#39;oubliez pas que ces actions automatiques ne se produisent que si la piste n&#39;est pas actuellement dans [Salesforce.com](https://salesforce.com)
