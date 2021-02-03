@@ -3,7 +3,7 @@ unique-page-id: 4719312
 description: Ajouter/supprimer des valeurs de liste d'achat - Documents marketing - Documentation du produit
 title: Ajouter/supprimer des valeurs de liste de sélection
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Vous trouverez ci-dessous quelques informations sur l’ajout et la suppression 
 
 ## Ajouter les valeurs de liste de sélection {#adding-picklist-values}
 
-1. Si une valeur supplémentaire est ajoutée dans Salesforce à un type de champ de liste de sélection, vous recevrez une [notification](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identifiant les formulaires concernés.
+1. Si une valeur supplémentaire est ajoutée dans Salesforce à un type de champ de liste de sélection, vous recevrez une [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identifiant les formulaires concernés.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Accédez à l’éditeur de formulaire et [ajoutez la valeur supplémentaire ](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) à votre liste de suggestions.
+1. Accédez à l’éditeur de formulaire et [ajoutez la valeur supplémentaire ](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) à votre liste de suggestions.
 
 ## Supprimer les valeurs de liste d&#39;achat {#remove-picklist-values}
 
