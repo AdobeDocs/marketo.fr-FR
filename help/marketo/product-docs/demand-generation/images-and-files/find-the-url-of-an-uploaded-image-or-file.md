@@ -3,7 +3,7 @@ unique-page-id: 2359870
 description: Recherchez l’URL d’une image ou d’un fichier téléchargé - Documents marketing - Documentation du produit.
 title: Rechercher l’URL d’une image ou d’un fichier téléchargé
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Vous recherchez l’adresse Web (URL) d’une image ou d’un fichier que vous a
 
    ![](assets/designstudio-4.png)
 
-1. Cliquez sur **Images** **et** **Fichiers** dans le menu de gauche, puis sélectionnez le fichier pour lequel vous souhaitez obtenir l’URL.
+1. Cliquez sur **Images et fichiers** dans le menu de gauche, puis sélectionnez le fichier pour lequel vous souhaitez obtenir l’URL.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
@@ -31,9 +31,4 @@ Donnez-vous une tape sur le dos pour un travail bien fait !
 
 >[!MORELIKETHIS]
 >
->* [Remplacement d’une image ou d’un fichier téléchargé](replace-an-uploaded-image-or-file.md)
-
->
-
-
-
+>[Remplacement d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
