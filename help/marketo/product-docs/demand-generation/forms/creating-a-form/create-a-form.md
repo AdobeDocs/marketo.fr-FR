@@ -3,7 +3,7 @@ unique-page-id: 2359398
 description: Créer un formulaire - Documents marketing - Documentation du produit
 title: Créer un formulaire
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Créez et utilisez un formulaire sur un landing page pour générer de nouveaux 
 
 >[!NOTE]
 >
->Découvrez ce que Marketo fait pour [protéger vos formulaires](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Découvrez ce que Marketo fait pour [protéger vos formulaires](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -47,10 +47,6 @@ Doux ! Maintenant que le formulaire est créé, allons-y et habillons-le.
 
 >[!MORELIKETHIS]
 >
->* [Sélectionner un thème de formulaire](select-a-form-theme.md)
->* [Ajouter un objet FieldSet à un formulaire](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-
->
-
-
+>* [Sélectionner un thème de formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [Ajouter un objet FieldSet à un formulaire](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
 
