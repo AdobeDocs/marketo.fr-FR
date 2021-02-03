@@ -3,9 +3,9 @@ unique-page-id: 4719306
 description: Masquer un champ Salesforce de la synchronisation du marché - Docs marketing - Documentation du produit
 title: Masquer un champ Salesforce de la synchronisation du marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -49,12 +49,6 @@ Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez 
 
    C&#39;est tout ! Vous ne verrez plus ce champ dans Marketo une fois la synchronisation suivante terminée.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Masquer et afficher un champ](../../../../../product-docs/administration/field-management/hide-and-unhide-a-field.md)
-
-
+   >[Masquer et afficher un champ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
