@@ -3,7 +3,7 @@ unique-page-id: 7504163
 description: Ajouter les Audiences mises en correspondance LinkedIn en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter les Audiences mises en correspondance LinkedIn en tant que service LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -61,9 +61,4 @@ Connectez votre compte Marketo aux Audiences LinkedIn mises en correspondance po
 
 >[!MORELIKETHIS]
 >
->* [Utilisation d’une Liste Marketo ou d’une Liste dynamique en tant que segment d’Audience LinkedIn](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-
->
-
-
-
+>[Utilisation d’une Liste Marketo ou d’une Liste dynamique en tant que segment d’Audience LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
