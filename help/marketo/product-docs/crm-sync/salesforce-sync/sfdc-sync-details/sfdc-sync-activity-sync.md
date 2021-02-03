@@ -3,7 +3,7 @@ unique-page-id: 2953473
 description: Synchronisation SFDC - Synchronisation des Activités - Documentation sur le marketing - Documentation du produit
 title: Synchronisation SFDC -Synchronisation des Activités
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -21,11 +21,11 @@ Marketo se synchronise sur les Événements et les Tâches associés à un prosp
 
 ## Comment les détails des activités sont-ils synchronisés entre les deux systèmes ? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-La synchronisation est un moyen, de Salesforce à Marketo. Mais vous pouvez créer une tâche dans Salesforce à l’aide de l’étape de flux [Créer une Tâche](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ou [Personnaliser la synchronisation des Activités](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) vers Salesforce.
+La synchronisation est un moyen, de Salesforce à Marketo. Mais vous pouvez créer une tâche dans Salesforce à l’aide de l’étape de flux [Créer une Tâche](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ou [Personnaliser la synchronisation des Activités](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) vers Salesforce.
 
 ## Puis-je créer une tâche à l’aide de Marketo ? {#can-i-create-a-task-using-marketo}
 
-Oui, vous pouvez utiliser l&#39;action [Créer un flux de Tâche](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
+Oui, vous pouvez utiliser l&#39;action [Créer un flux de Tâche](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
 
 ## Quels sont les déclencheurs/filtres liés à l&#39;activité ? {#what-are-the-triggers-filters-related-to-activity}
 
@@ -41,5 +41,4 @@ Filtres
 
 >[!TIP]
 >
->Vous n&#39;êtes pas sûr de ce libellé &quot;Pas Activité&quot; ? Le &quot;non&quot; fait référence à un filtre d’inactivité. Pour en savoir plus, cliquez ici : [Utiliser les Filtres d&#39;inactivité dans une Liste dynamique](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
-
+>Vous n&#39;êtes pas sûr de ce libellé &quot;Pas Activité&quot; ? Le &quot;non&quot; fait référence à un filtre d’inactivité. Pour en savoir plus, cliquez ici : [Utiliser les Filtres d&#39;inactivité dans une Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
