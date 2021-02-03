@@ -3,9 +3,9 @@ unique-page-id: 2359637
 description: Supprimer un formulaire - Documents marketing - Documentation du produit
 title: Suppression d’un formulaire
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si vous disposez d’un formulaire dont vous n’avez pas besoin et qui n’est pas utilisé, vous pouvez le supprimer. Voici comment.
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,14 +23,11 @@ Si vous disposez d’un formulaire dont vous n’avez pas besoin et qui n’est 
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Sous **Formulaire** **Actions**, cliquez sur **Supprimer** **Formulaire**.
+1. Sous **Actions de formulaire**, cliquez sur **Supprimer le formulaire**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
    >[!NOTE]
-   >
-   >**Rappel**
-   >
    >
    >N’oubliez pas de supprimer le formulaire de tous les landings page qui l’utilisent. Confirmez également que le formulaire n’est pas utilisé sur un site Web public.
 
@@ -44,5 +41,4 @@ Si vous disposez d’un formulaire dont vous n’avez pas besoin et qui n’est 
 
 >[!CAUTION]
 >
->Si vous supprimez un formulaire utilisé par votre site Web public, aucun avertissement ne s’affiche et le formulaire est rompu. Envisagez plutôt [de l&#39;archiver](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
-
+>Si vous supprimez un formulaire utilisé par votre site Web public, aucun avertissement ne s’affiche et le formulaire est rompu. Envisagez plutôt [de l&#39;archiver](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
