@@ -3,7 +3,7 @@ unique-page-id: 2359594
 description: Ajouter un objet FieldSet à un formulaire - Marketo Docs - Documentation du produit
 title: Ajouter un objet FieldSet à un formulaire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Les jeux de champs sont cool. Ils regroupent plusieurs champs. Vous pouvez contrôler un bloc entier à la fois !
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -43,5 +43,4 @@ Voilà !
 
 >[!TIP]
 >
->Vous pouvez masquer/afficher dynamiquement l’ensemble du jeu de champs en fonction d’un autre champ. Découvrez [les règles de visibilité](dynamically-toggle-visibility-of-a-form-field.md).
-
+>Vous pouvez masquer/afficher dynamiquement l’ensemble du jeu de champs en fonction d’un autre champ. Découvrez [les règles de visibilité](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
