@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: Approuver un formulaire - Documents marketing - Documentation du produit
 title: Approbation d’un formulaire
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Pour ajouter un formulaire à l’un de vos landings page, il doit être approuv
 
 Voici comment approuver un formulaire existant prêt à l&#39;emploi.
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +35,7 @@ Voici comment approuver un formulaire existant prêt à l&#39;emploi.
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Il est approuvé et prêt à être [ajouté à un landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Il est approuvé et prêt à être [ajouté à un landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
@@ -47,10 +47,7 @@ Si vous apportez des modifications à un formulaire, vous pouvez approuver la pa
 
 >[!PREREQUISITES]
 >
->* [Modifier un formulaire](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
-
->
-
+>* [Modifier un formulaire](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
 
 1. Cliquez sur **Terminer**.
@@ -63,8 +60,6 @@ Si vous apportez des modifications à un formulaire, vous pouvez approuver la pa
 
 >[!NOTE]
 >
->**Rappel**
->
->N’oubliez pas que si vous modifiez le formulaire après son approbation, vous devez [approuver le landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) pour voir les modifications.
+>N’oubliez pas que si vous modifiez le formulaire après son approbation, vous devez [approuver le landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) pour voir les modifications.
 
 C&#39;est tout ! Aussi facile que possible.
