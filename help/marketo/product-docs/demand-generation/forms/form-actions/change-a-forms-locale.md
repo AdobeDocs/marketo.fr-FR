@@ -3,9 +3,9 @@ unique-page-id: 2359657
 description: Modification des paramètres régionaux d’un formulaire - Documents marketing - Documentation du produit
 title: Modification des paramètres régionaux d’un formulaire
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Lorsque vous traitez de formulaires internationaux, vous souhaitez afficher les dates/heures dans les formats appropriés. Marketo le fera automatiquement pour vous, tout ce que vous avez à faire est de définir les paramètres régionaux du formulaire et nous nous occupons du reste.
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Sous **Formulaire** **Paramètres**, cliquez sur **Paramètres**.
+1. Sous **Paramètres du formulaire**, cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
@@ -35,7 +35,7 @@ Lorsque vous traitez de formulaires internationaux, vous souhaitez afficher les 
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Cliquez sur **Approuver et fermer **pour appliquer et enregistrer les modifications.
+1. Cliquez sur **Approuver et fermer** pour appliquer et enregistrer les modifications.
 
    >[!NOTE]
    >
@@ -45,13 +45,8 @@ Lorsque vous traitez de formulaires internationaux, vous souhaitez afficher les 
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >N&#39;oubliez pas d&#39;[approuver le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+   >N&#39;oubliez pas d&#39;[approuver le brouillon de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
-1. 
-1. C&#39;est ça ! Les utilisateurs peuvent voir la date et l’heure affichées dans les paramètres régionaux appropriés.
+   C&#39;est ça ! Les utilisateurs peuvent voir la date et l’heure affichées dans les paramètres régionaux appropriés.
 
    ![](assets/image2014-9-15-12-3a53-3a59.png)
-
