@@ -3,9 +3,9 @@ unique-page-id: 2950555
 description: Modifier les paramètres de publication enrichis Facebook - Documents marketing - Documentation du produit
 title: Modifier les paramètres de publication enrichie Facebook
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,13 @@ ht-degree: 0%
 
 # Modifier les paramètres de publication enrichie Facebook {#edit-facebook-rich-post-settings}
 
-Personnalisez les publications lorsque des personnes [vous partagent](http://docs.marketo.com/display/docs/social) sur Facebook.
+Personnalisez les publications lorsque des personnes vous partagent sur Facebook.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-Les [applications sociales](http://docs.marketo.com/display/docs/social) du marketing permettent à vos prospects de partager vos landings page avec leurs connexions sur les réseaux sociaux tels que Facebook, Twitter, etc. Les balises Facebook OpenGraph (balises OG) vous permettent de spécifier les informations de votre landing page qui sont incluses dans les publications Facebook.
+Les [applications sociales](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) du marketing permettent à vos prospects de partager vos landings page avec leurs connexions sur les réseaux sociaux tels que Facebook, Twitter, etc. Les balises Facebook OpenGraph (balises OG) vous permettent de spécifier les informations de votre landing page qui sont incluses dans les publications Facebook.
 
 ## Sélectionner les options de publication enrichie {#select-rich-post-options}
 
@@ -35,20 +33,19 @@ Vous pouvez spécifier les types d’informations de page à utiliser dans les p
 
    * Ajouter le contenu statique : Sélectionnez cette option pour saisir manuellement le titre, la légende et la description.
 
-      ![](assets/image2014-9-22-16-3a48-3a0.png)
+   ![](assets/image2014-9-22-16-3a48-3a0.png)
 
    * Ajouter le contenu dynamique : Votre application sociale peut utiliser les balises `<TITLE>`, `<CAPTION>` et `<DESCRIPTION>` de votre landing page pour renseigner votre publication enrichie.
 
-      ![](assets/image2014-9-22-16-3a48-3a9.png)
+   ![](assets/image2014-9-22-16-3a48-3a9.png)
+
    >[!NOTE]
    >
-   >Elles doivent déjà exister dans la source de la page, mais pour un meilleur contrôle, vous pouvez [ajouter des balises OG Facebook spécifiques à votre landing page](edit-facebook-rich-post-settings.md).
+   >Elles doivent déjà exister dans la source de la page, mais pour un meilleur contrôle, vous pouvez ajouter des balises OG Facebook spécifiques à votre landing page.
 
    * N’ajoutez pas de contenu enrichi : Limite les publications Facebook de votre landing page au message principal et au lien principal.
 
-      ![](assets/image2014-9-22-16-3a48-3a18.png)
-
-
+   ![](assets/image2014-9-22-16-3a48-3a18.png)
 
 ## Ajouter les balises OG Facebook à un Landing page {#add-facebook-og-tags-to-a-landing-page}
 
@@ -60,7 +57,7 @@ Pour contrôler les éléments de page qui seront inclus dans les partages Faceb
 
    Le **Landing page Designer** s’ouvre dans une nouvelle fenêtre.
 
-1. Sélectionnez **Actions de Landing page** > **Modifier les métadonnées de page*****.**
+1. Sélectionnez **Actions de Landing page** > **Modifier les métadonnées de page**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
