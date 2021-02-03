@@ -3,9 +3,9 @@ unique-page-id: 2359641
 description: Incorporer un formulaire sur votre site Web - Documents marketing - Documentation sur les produits
 title: Incorporer un formulaire sur votre site Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo vous permet d&#39;incorporer nos formulaires sur votre propre site Web. Voici comment accéder au code incorporé.
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,20 +23,17 @@ Marketo vous permet d&#39;incorporer nos formulaires sur votre propre site Web. 
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. Sous **Formulaire** **Actions**, cliquez sur **Incorporer** **Code**.
+1. Sous **Actions de formulaire**, cliquez sur **Code incorporé**.
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >Le formulaire doit être approuvé pour l&#39;élément **Incorporer** **Code** pour être visible/utilisable.
+   >Le formulaire doit être approuvé pour que l&#39;élément **Code incorporé** soit visible/utilisable.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >** [La préremplissage de formulaire](../../../../product-docs/administration/settings/edit-landing-page-settings.md)** ne fonctionne pas lors de l’utilisation du code incorporé de formulaire sur vos propres pages *ou* un landing page Marketo. Le préremplissage de formulaire est destiné uniquement à fonctionner lorsque le formulaire est utilisé dans un landing page Marketo via l’option Insérer un élément.
+   >**[Le](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** préremplissage de formulaire ne fonctionne pas lors de l’utilisation du code incorporé de formulaire sur vos propres pages  __ ou landing page Marketing Cloud. Le préremplissage de formulaire est destiné uniquement à fonctionner lorsque le formulaire est utilisé dans un landing page Marketo via l’option Insérer un élément.
 
 1. Sélectionnez/Copiez le code incorporé, puis cliquez sur **Fermer**.
 
@@ -50,6 +47,6 @@ Maintenant, donnez simplement le code incorporé à votre développeur Web et de
 
 >[!NOTE]
 >
->Si votre développeur souhaite personnaliser l’apparence ou accéder aux fonctions avancées de l’API, affichez-lui la [page des développeurs Forms 2.0](http://developers.marketo.com/documentation/websites/forms-2-0/).
+>Si votre développeur souhaite personnaliser l’apparence ou accéder aux fonctions avancées de l’API, affichez-lui la [page des développeurs Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/).
 
-Super boulot ! Souhaitez-vous que le code [incorporé inclut le code de boîte lumineuse](use-a-form-in-a-lightbox.md) ? C&#39;est aussi facile !
+Super boulot ! Souhaitez-vous que le code [incorporé inclut le code de boîte lumineuse](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md) ? C&#39;est aussi facile !
