@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Configurer des publicités Facebook avec pistes - Documents marketing - Documentation du produit
 title: Configurer des annonces de pistes Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -19,9 +19,7 @@ Utilisez [Publicités de piste Facebook](https://www.facebook.com/business/a/lea
 >
 >**Autorisations d’administrateur requises**
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Pour ajouter des pistes publicitaires Facebook à votre instance, contactez votre responsable de succès client.
 
@@ -37,7 +35,7 @@ Utilisez [Publicités de piste Facebook](https://www.facebook.com/business/a/lea
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Ouvrez un nouvel onglet dans le même navigateur et accédez à [www.facebook.com.](http://www.facebook.com.) Connectez-vous à Facebook à l’aide du compte que vous souhaitez utiliser pour l’intégration.
+1. Ouvrez un nouvel onglet dans le même navigateur et accédez à [facebook.com](http://www.facebook.com). Connectez-vous à Facebook à l’aide du compte que vous souhaitez utiliser pour l’intégration.
 
    >[!NOTE]
    >
@@ -49,7 +47,7 @@ Utilisez [Publicités de piste Facebook](https://www.facebook.com/business/a/lea
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Si vous y êtes invité, cliquez sur **Ok** pour accepter l’installation de l’application Marketo dans Facebook.
+1. Si vous y êtes invité, cliquez sur **OK** pour accepter l’installation de l’application Marketo dans Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -69,7 +67,7 @@ Utilisez [Publicités de piste Facebook](https://www.facebook.com/business/a/lea
 
    >[!TIP]
    >
-   >En modifiant les mappages, vous pouvez personnaliser l&#39;emplacement de stockage des données des publicités de piste dans Marketing Cloud. Vous pouvez également [extraire des données des questions personnalisées des publicités de piste](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >En modifiant les mappages, vous pouvez personnaliser l&#39;emplacement de stockage des données des publicités de piste dans Marketing Cloud. Vous pouvez également [extraire des données des questions personnalisées des publicités de piste](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
@@ -83,10 +81,6 @@ Utilisez [Publicités de piste Facebook](https://www.facebook.com/business/a/lea
 
 >[!MORELIKETHIS]
 >
->* [Utiliser des Filtres et des déclencheurs d&#39;annonce de piste dans un Campaign dynamique](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [Faire correspondre les champs personnalisés à Marketo](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-
->
-
-
+>* [Utiliser des Filtres et des déclencheurs d&#39;annonce de piste dans un Campaign dynamique](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [Faire correspondre les champs personnalisés à Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
