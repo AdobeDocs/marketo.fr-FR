@@ -3,9 +3,9 @@ unique-page-id: 2949870
 description: Création d’un Événement avec ReadyTalk - Marketo Docs - Documentation du produit
 title: Créer un Événement avec ReadyTalk
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [Ajouter ReadyTalk en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [Créer un Programme de Événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Définir les [actions de flux](http://docs.marketo.com/display/DOCS/Flow+Actions)appropriées pour suivre l&#39;engagement
+>* Définir les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)appropriées pour suivre l&#39;engagement
 
 
-Configurez d&#39;abord votre événement dans le centre de conférences ReadyTalk. Si vous avez besoin d&#39;aide, consultez le [Centre de ressources ReadyTalk.](https://www.readytalk.com/resources/readytalk)  Lors du choix du type d&#39;inscription, sélectionnez  **pré-inscription avant la réunion**. Si vous sélectionnez *vous inscrire au moment de la réunion*, Marketo **ne saisira pas** un statut enregistré pour votre peuple et n&#39;enregistrera qu&#39;un statut de personne de Participé *après* la conclusion du webinaire.
+Configurez d&#39;abord votre événement dans le centre de conférences ReadyTalk. Si vous avez besoin d&#39;aide, consultez le [Centre de ressources ReadyTalk](https://www.readytalk.com/resources/readytalk). Lors du choix du type d&#39;inscription, sélectionnez **pré-inscription avant la réunion**. Si vous sélectionnez _vous inscrire au moment de la réunion_, Marketo **ne saisira pas** un statut enregistré pour votre peuple et n&#39;enregistrera qu&#39;un statut de personne de Participé _après_ la conclusion du webinaire.
 
 Ne cochez pas **m&#39;avertir de nouvelles inscriptions par courrier électronique**.
 
@@ -78,7 +78,7 @@ Vous êtes maintenant prêt à lier votre événement au marketing.
 
 ## Affichage de la planification {#viewing-the-schedule}
 
-Dans la [vue de Planning du programme](http://docs.marketo.com/display/docs/program+schedule+view), cliquez sur l&#39;entrée de calendrier de votre événement. Vous pouvez voir la planification sur le côté droit de l&#39;écran !
+Dans la vue de Planning du programme, cliquez sur l’entrée de calendrier correspondant à votre événement. Vous pouvez voir la planification sur le côté droit de l&#39;écran !
 
 ![](assets/image2015-5-18-12-9-58.png)
 
