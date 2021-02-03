@@ -3,7 +3,7 @@ unique-page-id: 4719310
 description: Activation/désactivation de la synchronisation Salesforce - Documents marketing - Documentation du produit
 title: Activer/désactiver la synchronisation Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -17,9 +17,7 @@ Lorsque vous apportez des modifications importantes à vos paramètres de synchr
 
 1. Accédez à la section **Admin**.
 
-   ** ![](assets/image2014-12-10-13-3a24-3a35.png)
-
-   **
+   ![](assets/image2014-12-10-13-3a24-3a35.png)
 
 1. Sous **Salesforce**, cliquez sur **Désactiver la synchronisation**.
 
@@ -30,4 +28,3 @@ Lorsque vous apportez des modifications importantes à vos paramètres de synchr
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 
 1. Effectuez les modifications et réactivez la synchronisation. C&#39;est le même bouton.
-
