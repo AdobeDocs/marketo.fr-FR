@@ -3,7 +3,7 @@ unique-page-id: 10098238
 description: FAQ sur le remplissage de formulaires LinkedIn Social - Documents marketing - Documentation du produit
 title: FAQ sur le remplissage de formulaires LinkedIn Social
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 0%
@@ -17,7 +17,7 @@ La stratégie d’API révisée de LinkedIn nous obligeait à supprimer le rempl
 
 ## Informations importantes à connaître {#important-things-to-know}
 
-* Les boutons de remplissage de formulaires LinkedIn Social ne sont plus une option à ajouter au marketing à compter du 28 avril 2016.
+* Les boutons Remplir le formulaire LinkedIn Social n’étaient plus une option à ajouter au marketing le 28 avril 2016.
 
 * Nous avons supprimé le bouton Remplir le formulaire LinkedIn Social de tous les formulaires pour lesquels il était activé.
 
