@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: Configuration des paramètres du Événement et synchronisation du marketing avec votre webinaire - Docs marketing - Documentation du produit
 title: Configuration des paramètres du Événement et synchronisation du marketing avec votre webinaire
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -53,16 +53,8 @@ Lorsque vous configurez un événement associé à un webinaire ON24, le plannin
    >
    >Si vous mettez à jour des informations de événement dans ON24, vous devez cliquer sur **Actualiser à partir du fournisseur de webinaires** dans le menu Actions du Événement pour voir les nouvelles données renseignées.
 
-   [création de campagnes enfants et de ressources locales](create-child-campaigns-and-local-assets.md)
-
-Vous pouvez passer à l’étape suivante : .
+Vous pouvez passer à l’étape suivante : [création de campagnes enfants et de ressources locales](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
 
 >[!MORELIKETHIS]
 >
->* [Présentation des Événements d&#39;adaptateur Marketo On24](understanding-marketo-on24-adapter-events.md)
->* [Créer des campagnes enfants et des ressources locales](create-child-campaigns-and-local-assets.md)
-
->
-
-
-
+>[Présentation des Événements d&#39;adaptateur Marketo On24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
