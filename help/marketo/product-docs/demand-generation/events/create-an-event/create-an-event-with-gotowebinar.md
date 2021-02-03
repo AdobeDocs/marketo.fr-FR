@@ -3,9 +3,9 @@ unique-page-id: 2949874
 description: Création d’un Événement avec GotoWebinar - Docs marketing - Documentation sur le produit
 title: Création d’un Événement avec GotoWebinar
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [Ajouter GoToWebinar comme service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Créer un Programme de Événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Définir les [actions de flux](http://docs.marketo.com/display/DOCS/Flow+Actions)appropriées pour suivre l&#39;engagement
+>* Définir les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)appropriées pour suivre l&#39;engagement
 
 
 Commencez par créer votre webinaire dans GoToWebinar. Certains paramètres de création de votre GoToWebinar sont utilisés par Marketo et d&#39;autres ne sont utilisés que par GoToWebinar.
 
-Après avoir créé un événement Marketo et associé le GoToWebinar à celui-ci, les systèmes pourront partager les informations d&#39;inscription et de présence. Pour obtenir de l&#39;aide sur la création d&#39;un GoToWebinar, consultez le [Guide de l&#39;utilisateur GoToWebinar](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf).
+Après avoir créé un événement Marketo et associé le GoToWebinar à celui-ci, les systèmes pourront partager les informations d&#39;inscription et de présence.
 
 Vous trouverez ci-dessous une liste des paramètres utilisés par Marketo.
 
@@ -36,7 +36,7 @@ Vous trouverez ci-dessous une liste des paramètres utilisés par Marketo.
 
 ## Date et heure {#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`adaptateur. Si vous apportez des modifications à ces informations, vous devez cliquer sur le lien &quot;**Actualiser à partir du fournisseur de webinaire**&quot; sous **Actions du Événement**, afin que Marketo puisse voir les modifications.
+Entrez les informations suivantes pour votre webinaire et il sera extrait dans Marketo via l&#39;adaptateur. Si vous apportez des modifications à ces informations, vous devez cliquer sur le lien &quot;**Actualiser à partir du fournisseur de webinaire**&quot; sous **Actions du Événement**, afin que Marketo puisse voir les modifications.
 
 **Date**  du début - entrez votre date de début. Ceci sera visible dans Marketing Cloud.
 
@@ -56,7 +56,7 @@ Vous trouverez ci-dessous une liste des paramètres utilisés par Marketo.
 
 >[!TIP]
 >
->D&#39;autres champs que vous allez configurer dans GoToWebinar n&#39;affecteront PAS l&#39;intégration. Consultez le [Guide de l&#39;utilisateur GoToWebinar](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) pour plus d&#39;informations sur ces champs, car ils ne seront pas traités dans cet article. Si vous avez besoin d&#39;une aide supplémentaire de GoToWebinar, consultez leur [site d&#39;aide](http://support.logmeininc.com/gotowebinar).
+>Si vous avez besoin d&#39;une aide supplémentaire de GoToWebinar, consultez leur [site d&#39;aide](https://support.logmeininc.com/gotowebinar).
 
 Maintenant, passons à Marketo !
 
@@ -68,7 +68,7 @@ Maintenant, passons à Marketo !
    >
    >Le type de canal du événement sélectionné doit être **webinar**.
 
-1. Sélectionnez **GoToWebinar** dans la Liste **Événement** **Partenaire**.
+1. Sélectionnez **GoToWebinar** dans la Liste **Partenaire de Événement**.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -112,7 +112,7 @@ Les personnes qui s’abonnent à votre webinaire seront repoussées vers votre 
 
 ## Affichage de la planification {#viewing-the-schedule}
 
-Dans la [vue de Planning du programme](http://docs.marketo.com/display/docs/program+schedule+view), cliquez sur l&#39;entrée de calendrier de votre événement. Vous pouvez voir la planification sur le côté droit de l’écran.
+Dans la vue de Planning du programme, cliquez sur l’entrée de calendrier correspondant à votre événement. Vous pouvez voir la planification sur le côté droit de l’écran.
 
 >[!NOTE]
 >
