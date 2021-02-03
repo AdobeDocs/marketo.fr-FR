@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: Ajouter des Audiences personnalisées Facebook en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter des Audiences personnalisées Facebook en tant que service LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Cette intégration vous permet d’envoyer des données d’audience des listes 
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Ouvrez un nouvel onglet dans le même navigateur et accédez à [www.facebook.com.](http://www.facebook.com./) Connectez-vous à Facebook à l’aide du compte que vous souhaitez utiliser pour l’intégration.
+1. Ouvrez un nouvel onglet dans le même navigateur et accédez à [facebook.com](http://www.facebook.com/). Connectez-vous à Facebook à l’aide du compte que vous souhaitez utiliser pour l’intégration.
 
    >[!CAUTION]
    >
@@ -45,9 +45,9 @@ Cette intégration vous permet d’envoyer des données d’audience des listes 
 
    >[!NOTE]
    >
-   >Vous *devez* utiliser un compte Facebook Business Manager pour que l’intégration des Audiences personnalisées fonctionne. Pour savoir comment configurer un compte Business Manager, consultez l&#39;[Aide de Facebook](https://www.facebook.com/business/help/1710077379203657).
+   >Vous _devez_ utiliser un compte Facebook Business Manager pour que l’intégration des Audiences personnalisées fonctionne. Pour savoir comment configurer un compte Business Manager, consultez l&#39;[Aide de Facebook](https://www.facebook.com/business/help/1710077379203657).
 
-1. Si vous y êtes invité, cliquez sur **OK **pour accepter l’installation de l’application Marketo dans Facebook.
+1. Si vous y êtes invité, cliquez sur **OK** pour accepter l’installation de l’application Marketo dans Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -55,7 +55,7 @@ Cette intégration vous permet d’envoyer des données d’audience des listes 
 
    >[!NOTE]
    >
-   >**La Correspondance de base** utilise uniquement les adresses électroniques.**Les** correspondances avancées utilisent sept champs supplémentaires, ce qui augmente le taux de correspondance, pour davantage de conversions. Cependant, si la politique de confidentialité de votre société n’autorise pas le partage de champs supplémentaires ou si vos données ne les incluent pas, sélectionnez Correspondance de base.
+   >**Les** correspondances de base utilisent uniquement les adresses électroniques. **Les** correspondances avancées utilisent sept champs supplémentaires, ce qui augmente le taux de correspondance, pour davantage de conversions. Cependant, si la politique de confidentialité de votre société n’autorise pas le partage de champs supplémentaires ou si vos données ne les incluent pas, sélectionnez Correspondance de base.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -67,12 +67,8 @@ Cette intégration vous permet d’envoyer des données d’audience des listes 
 
 >[!MORELIKETHIS]
 >
->* [Création d’une Audience personnalisée dans Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Création d’une Audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
    >
-* [Configurer des annonces de pistes Facebook](../../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-
->
-
-
+* [Configurer des annonces de pistes Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
