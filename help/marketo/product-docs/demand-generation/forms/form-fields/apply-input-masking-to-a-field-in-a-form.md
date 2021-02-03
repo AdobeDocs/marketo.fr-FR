@@ -3,7 +3,7 @@ unique-page-id: 2359667
 description: Appliquer le masquage d’entrée à un champ d’un formulaire - Documents marketing - Documentation du produit
 title: Application d’un masquage d’entrée à un champ d’un formulaire
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Vous pouvez limiter les entrées de votre visiteur à l’aide d’un masque d’entrée. Par exemple, vous pouvez souhaiter que les visiteurs saisissent uniquement des numéros de téléphone dans un format spécifique.
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Sélectionnez votre champ et assurez-vous que le **champ** **Type** est défini sur **Texte**.
+1. Sélectionnez votre champ et assurez-vous que le **type de champ** est défini sur **Texte**.
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ Vous pouvez limiter les entrées de votre visiteur à l’aide d’un masque d�
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Cliquez sur le lien **Masque** **Entrée**.
+1. Cliquez sur le lien **Entrée de masque**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
