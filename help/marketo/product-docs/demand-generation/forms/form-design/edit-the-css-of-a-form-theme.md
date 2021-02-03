@@ -3,7 +3,7 @@ unique-page-id: 2359679
 description: Modification de la page CSS d’un thème de formulaire - Documents marketing - Documentation du produit
 title: Modification de la page CSS d’un thème de formulaire
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Modifier la page CSS d’un thème de formulaire {#edit-the-css-of-a-form-theme}
 
-Vous disposez de quelques thèmes [préconstruits que vous pouvez choisir parmi ](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mais si vous aimez modifier le CSS, vous pouvez apporter les modifications de votre choix. Voici comment.
+Vous disposez de quelques thèmes [préconstruits que vous pouvez choisir parmi ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mais si vous aimez modifier le CSS, vous pouvez apporter les modifications de votre choix. Voici comment.
 
 >[!NOTE]
 >
 >Assurez-vous de connaître CSS si vous souhaitez l’essayer, car l’assistance marketing n’est pas configurée pour faciliter le codage personnalisé. En outre, les modifications apportées s’appliqueront uniquement au formulaire que vous êtes en train de modifier.
 
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier** **Formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Accédez à **Formulaire** **Paramètres**.
+1. Accédez à **Paramètres de formulaire**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -47,7 +47,7 @@ Vous disposez de quelques thèmes [préconstruits que vous pouvez choisir parmi 
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Sous l’icône d’engrenage, cliquez sur **Modifier** **Personnalisé** **CSS**.
+1. Sous l’icône d’engrenage, cliquez sur **Modifier le CSS personnalisé**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -59,7 +59,7 @@ Vous disposez de quelques thèmes [préconstruits que vous pouvez choisir parmi 
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Pour afficher votre formulaire personnalisé, cliquez sur **Prévisualisation** **Version préliminaire**.
+1. Pour afficher votre formulaire personnalisé, cliquez sur **Version préliminaire de la Prévisualisation**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 
