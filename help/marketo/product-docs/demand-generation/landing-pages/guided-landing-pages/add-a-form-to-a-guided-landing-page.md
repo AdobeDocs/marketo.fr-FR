@@ -3,7 +3,7 @@ unique-page-id: 7515107
 description: Ajouter un formulaire à un Landing page guidé - Documents marketing - Documentation du produit
 title: Ajouter un formulaire à un Landing page guidé
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
 
 >[!PREREQUISITES]
 >
->* [Création d’un Landing page guidé](create-a-guided-landing-page.md)
-
->
-
-
+>[Création d’un Landing page guidé](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 1. Accédez à la zone **Activités marketing**.
 
@@ -61,4 +57,4 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Fermez maintenant l&#39;éditeur de landing page et [approuvez le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Fermez maintenant l&#39;éditeur de landing page et [approuvez le brouillon de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
