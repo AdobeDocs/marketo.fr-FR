@@ -3,7 +3,7 @@ unique-page-id: 2359862
 description: Recherche d’images et de fichiers téléchargés - Documents marketing - Documentation du produit
 title: Recherche d’images et de fichiers téléchargés
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -29,16 +29,12 @@ Dans Marketo, la recherche d&#39;images et de fichiers est un jeu d&#39;enfant.
 
 >[!TIP]
 >
->Pour début d’une nouvelle recherche, cliquez sur **x** dans la zone **Quick** **Rechercher**.
+>Pour début d’une nouvelle recherche, cliquez sur **x** dans la zone **Recherche rapide**.
 
-Levez les pieds - vous en avez fini !
+Levez les pieds, c&#39;est fini !
 
 >[!MORELIKETHIS]
 >
->* [Remplacement d’une image ou d’un fichier téléchargé](replace-an-uploaded-image-or-file.md)
->* [Organiser vos images et fichiers à l’aide de dossiers](organize-your-images-and-files-using-folders.md)
-
->
-
-
+>* [Remplacement d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>* [Organiser vos images et fichiers à l’aide de dossiers](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 
