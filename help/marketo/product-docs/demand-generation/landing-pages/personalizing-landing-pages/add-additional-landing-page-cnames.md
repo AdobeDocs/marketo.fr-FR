@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: Ajouter d’autres CNAME de Landing page - Documents marketing - Documentation sur les produits
 title: Ajouter d’autres CNAME de Landing page
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ Vous pouvez ajouter des CNAME de landing page pour permettre à différentes URL
 
 >[!TIP]
 >
->**Même domaine de niveau supérieur - Bon ! Les cookies sont shared.go**.mycompany.com > **info**.mycompany.com **Domaines de niveau supérieur différents - Mauvais ! Les cookies ne sont pas partagés.**
->allez-y.**mycompany**.com > go.**mynewcompany**.com
+>**Même domaine de niveau supérieur - Bon ! Les cookies sont partagés**.<br/> **go**.mycompany.com >  **info**.mycompany.com
+>
+>**Domaines de niveau supérieur différents - Mauvais ! Les cookies sont _non_ partagés**.<br/> allez-y.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >
