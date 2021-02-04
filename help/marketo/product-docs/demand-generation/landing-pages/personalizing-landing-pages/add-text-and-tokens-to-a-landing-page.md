@@ -3,9 +3,9 @@ unique-page-id: 2359530
 description: Ajouter du texte et des jetons à un Landing page - Documents marketing - Documentation du produit
 title: Ajouter le texte et les jetons à un Landing page
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Les jetons sont des bits dynamiques de texte qui peuvent personnaliser votre lan
    >
    >Le concepteur de landing page s’ouvre dans une nouvelle fenêtre.
 
-1. Doublon cliquez sur la zone de texte enrichi à laquelle vous souhaitez ajouter le jeton.
+1. Cliquez avec le doublon sur la zone de texte enrichi à laquelle vous souhaitez ajouter le jeton.
 
    ![](assets/image2015-5-21-12-3a30-3a5.png)
 
@@ -74,4 +74,3 @@ Les jetons sont des bits dynamiques de texte qui peuvent personnaliser votre lan
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
    Mission terminée ! Vous avez maintenant un jeton sur votre landing page.
-
