@@ -3,9 +3,9 @@ unique-page-id: 2359742
 description: Filtrage d’un rapport sur les performances d’un Landing page - Documents marketing - Documentation du produit
 title: Filtrage d’un rapport de performances de Landing page
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrage d’un rapport de performances de Landing page {#filter-a-landing-page-performance-report}
 
-Concentrez votre [rapport de performances de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) sur les landings page de vos programmes (ressources locales), sur ceux de Design Studio (ressources globales) ou sur ceux qui ont été archivés.
+Concentrez votre [rapport de performances de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) sur les landings page de vos programmes (ressources locales), sur ceux de Design Studio (ressources globales) ou sur ceux qui ont été archivés.
 
 1. Accédez à **Analytics** (ou **Activités marketing**).
 
@@ -42,10 +42,3 @@ Concentrez votre [rapport de performances de landing page](../../../../product-d
 1. Vous avez fini ! Cliquez sur l&#39;onglet **Rapport** pour afficher votre rapport filtré.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
-
->[!NOTE]
->
->**Plongée profonde**
->
->Découvrez tous les rapports dans le [rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
-
