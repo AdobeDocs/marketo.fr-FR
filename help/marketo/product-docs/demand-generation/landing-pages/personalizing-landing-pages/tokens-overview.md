@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Présentation des jetons - Documents marketing - Documentation du produit
 title: Présentation des jetons
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présentation des jetons {#tokens-overview}
 
-Un jeton est une variable qui peut être utilisée dans les étapes de flux de campagne [ intelligente de Marketo, ](http://docs.marketo.com/display/DOCS/Smart+Campaigns)e-mails[, ](http://docs.marketo.com/display/DOCS/General)landings page[, ](http://docs.marketo.com/display/DOCS/Landing+Pages)extraits[ et ](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)campagnes Web[.](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)
+Un jeton est une variable qui peut être utilisée dans les étapes de flux de campagne intelligente de Marketing Cloud, les courriels, les landings page, les fragments de code et les campagnes Web.
 
 ## Présentation des valeurs par défaut {#understanding-default-values}
 
@@ -154,9 +154,7 @@ Dans cet exemple, le courrier électronique indique &quot;Salutations (prénom)&
 ## Jetons de programme {#program-tokens}
 
 * `{{program.Name}}`
-
 * `{{program.Description}}`
-
 * `{{program.id}}`
 
 ## Mes jetons {#my-tokens}
