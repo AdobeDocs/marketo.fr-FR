@@ -3,9 +3,9 @@ unique-page-id: 2359710
 description: Approbation, désapprobation ou suppression d’un Landing page - Documents marketing - Documentation du produit
 title: Approbation, désapprobation ou suppression d’un Landing page
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Les landings page sont en mode brouillon jusqu’à ce que vous les approuviez. 
 
    >[!TIP]
    >
-   >Vous pouvez [approuver plusieurs pages à la fois](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) pour faciliter votre vie.
+   >Vous pouvez [approuver plusieurs pages à la fois](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) pour faciliter votre vie.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -31,12 +31,10 @@ Les landings page sont en mode brouillon jusqu’à ce que vous les approuviez. 
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >Une fois approuvée, l’icône de votre landing page comporte une coche verte.
 
-1. Désapprobation d’un Landing page
+## Désapprouver un Landing page {#unapprove-a-landing-page}
+
 1. Sélectionnez un landing page, accédez à **Actions du Landing page** et cliquez sur **Désapprouver**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
@@ -47,7 +45,7 @@ Les landings page sont en mode brouillon jusqu’à ce que vous les approuviez. 
 
 >[!NOTE]
 >
->Votre landing page non approuvé n’est plus publié sur le Web et ne générera aucune activité supplémentaire. Les visiteurs aux landings page non approuvés et à leurs onglets Facebook verront la [page de secours](../../../../product-docs/administration/settings/set-a-fallback-page.md).
+>Votre landing page non approuvé n’est plus publié sur le Web et ne générera aucune activité supplémentaire. Les visiteurs aux landings page non approuvés et à leurs onglets Facebook verront la [page de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Supprimer un Landing page {#delete-a-landing-page}
 
