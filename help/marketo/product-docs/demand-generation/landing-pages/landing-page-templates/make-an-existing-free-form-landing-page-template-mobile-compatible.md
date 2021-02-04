@@ -3,19 +3,15 @@ unique-page-id: 5472348
 description: Rendre un modèle de Landing page de formulaire libre existant compatible avec les dispositifs portables - Documents marketing - Documentation du produit
 title: Rendre un modèle de Landing page de formulaire libre existant compatible avec les dispositifs portables
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
 
 # Compatibilité d’un modèle de Landing page de formulaire libre existant {#make-an-existing-free-form-landing-page-template-mobile-compatible}
-
->[!NOTE]
->
->Les modèles de landings page créés avant la [version de janvier 2015](../../../../release-notes/2015/release-notes-january-2015.md)doivent être mis à niveau pour être compatibles avec les dispositifs portables.
 
 Vous pouvez effectuer cette opération à deux endroits : l’éditeur de modèle et l’éditeur de Landing page.
 
@@ -57,7 +53,9 @@ Vous pouvez effectuer cette opération à deux endroits : l’éditeur de modèl
 
 De bonnes questions ! Votre modèle doit comporter les balises suivantes :
 
-`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  Si tout semble bien, vous verrez ce message.
+`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
+
+Si tout semble bien, vous verrez ce message.
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
@@ -83,13 +81,4 @@ Lorsque vous modifiez un landing page et que vous cliquez sur l’onglet mobile,
    >
    >L&#39;activation de la version mobile d&#39;un modèle crée des brouillons de tous les landings page qui l&#39;utilisent.
 
-Super ! Vous pouvez désormais [personnaliser la vue mobile](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de tous les landings page qui utilisent ce modèle.
-
->[!MORELIKETHIS]
->
->* [Personnalisation de la Vue mobile pour votre Landing page de formulaire libre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
+Super ! Vous pouvez désormais [personnaliser la vue mobile](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de tous les landings page qui utilisent ce modèle.
