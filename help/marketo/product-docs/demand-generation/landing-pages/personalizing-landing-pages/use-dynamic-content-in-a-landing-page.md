@@ -3,9 +3,9 @@ unique-page-id: 2359532
 description: Utiliser le contenu dynamique dans un Landing page - Documents marketing - Documentation du produit
 title: Utilisation du contenu dynamique dans un Landing page
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Création d’une segmentation](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Création d’un Landing page de formulaire libre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Ajouter un nouveau formulaire à un Landing page de formulaire libre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
->
-
+>* [Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Création d’un Landing page de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Ajouter un nouveau formulaire à un Landing page de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
 L&#39;utilisation de contenu dynamique dans les landings page permet d&#39;impliquer les personnes avec des informations ciblées.
@@ -81,14 +78,8 @@ L&#39;utilisation de contenu dynamique dans les landings page permet d&#39;impli
 
 Voila ! Vous pouvez désormais envoyer du contenu ciblé.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->* [Prévisualisation d’un Landing page avec du contenu dynamique](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Utilisation de contenu dynamique dans un courrier électronique](../../../../product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-
->
-
-
+>* [Prévisualisation d’un Landing page avec du contenu dynamique](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Utilisation de contenu dynamique dans un courrier électronique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 
