@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: Personnalisation de la Vue mobile pour votre Landing page de formulaire libre - Documentation sur le marketing - Documentation du produit
 title: Personnalisation de la Vue mobile pour votre Landing page de formulaire libre
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Ajouter une Vue mobile pour votre Landing page de formulaire libre](add-a-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
+>[Ajouter une Vue mobile pour votre Landing page de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 La vue mobile de votre landing page libre est principalement automatique, mais vous pouvez la personnaliser. Voici comment.
 
@@ -49,11 +45,12 @@ Par défaut, tout ce qui se trouve sur la vue de bureau s’affiche sur la vue m
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Informations importantes à connaître :  {#important-things-to-know}
+## Informations importantes à connaître : {#important-things-to-know}
 
 * Les images atteignent la largeur de votre périphérique mobile. Si vous souhaitez des images plus petites, extrayez l’élément de texte enrichi et ajoutez-y votre image.
 * N’utilisez que les formulaires Forms 2.0. Ils sont réactifs et s&#39;ajustent automatiquement.
-* Un seul élément de modèle est modifiable, BODY#bodyid (Mobile). Vous pouvez l’utiliser pour modifier la couleur d’arrière-plan.\
+* Un seul élément de modèle est modifiable, BODY#bodyid (Mobile). Vous pouvez l’utiliser pour modifier la couleur d’arrière-plan.
+
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## Masquer un élément de la Vue mobile {#hide-an-element-from-the-mobile-view}
@@ -112,13 +109,6 @@ Par défaut, tout ce qui se trouve sur la vue de bureau s’affiche sur la vue m
 
 Amuse-toi bien !
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->* [Rendre un modèle de Landing page de formulaire libre existant compatible avec les dispositifs portables](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
-
->
-
-
-
+>[Rendre un modèle de Landing page de formulaire libre existant compatible avec les dispositifs portables](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
