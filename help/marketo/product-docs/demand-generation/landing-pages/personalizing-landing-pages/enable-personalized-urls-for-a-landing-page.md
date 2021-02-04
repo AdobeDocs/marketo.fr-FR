@@ -3,7 +3,7 @@ unique-page-id: 2359803
 description: Activer les URL personnalisées pour un Landing page - Documentation marketing - Documentation du produit
 title: Activation des URL personnalisées pour un Landing page
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
 
 >[!PREREQUISITES]
 >
->* [Activer les URL personnalisées pour votre compte](enable-personalized-urls-for-your-account.md)
-
->
-
-
+>[Activer les URL personnalisées pour votre compte](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
 1. Sélectionnez un landing page et cliquez sur les paramètres **URL personnalisée**.
 
