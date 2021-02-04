@@ -3,7 +3,7 @@ unique-page-id: 2949904
 description: Groupes de tests de landing page - Documents marketing - Documentation du produit
 title: Groupes de tests de landing page
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Marketo effectue le suivi du nombre de vues de page et de remplissage de formula
 
 >[!PREREQUISITES]
 >
->[Créez au moins deux landings page](../../../../getting-started/quick-wins/landing-page-with-a-form.md), de préférence avec un formulaire.
+>[Créez au moins deux landings page](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), de préférence avec un formulaire.
 
 1. Dans Design Studio, cliquez sur **New**. Dans la liste déroulante, sélectionnez **Nouveau groupe de test**.
 
@@ -27,10 +27,8 @@ Marketo effectue le suivi du nombre de vues de page et de remplissage de formula
    >
    >Les autres méthodes pour créer un groupe de test sont les suivantes :
    >
-   >    
-   >    
-   >    * Cliquez avec le bouton droit sur un landing page de l&#39;arborescence et sélectionnez **Convertir en groupe de test**.
-   >    * Créez un groupe de test de Landing page dans un programme en choisissant **Groupe de test AB** dans le menu **Nouvel actif local**.
+   >* Cliquez avec le bouton droit sur un landing page de l&#39;arborescence et sélectionnez **Convertir en groupe de test**.
+   >* Créez un groupe de test de Landing page dans un programme en choisissant **Groupe de test AB** dans le menu **Nouvel actif local**.
 
 
 1. Entrez un nom et une description facultative. Sélectionnez les Landings page à tester, puis cliquez sur **Créer**.
@@ -56,4 +54,3 @@ Marketo effectue le suivi du nombre de vues de page et de remplissage de formula
    >[!TIP]
    >
    >Si vous souhaitez supprimer le groupe de test, il vous suffit de cliquer sur **Actions du groupe de test** et de sélectionner **Supprimer le groupe de test**.
-
