@@ -3,9 +3,9 @@ unique-page-id: 10097969
 description: Création d’un modèle de Landing page à structure libre - Documents marketing - Documentation du produit
 title: Création d’un modèle de Landing page à structure libre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -46,14 +46,9 @@ Les landings page libres requièrent moins de connaissances techniques que leurs
    >Sélectionnez **Désactiver le suivi Munchkin** si vous souhaitez empêcher les formulaires de se pré-remplir ou si vous ne souhaitez pas suivre le comportement Web sur une page spécifique.\
    >Sélectionnez **Valider la compatibilité mobile** pour vous assurer que votre code est compatible avec les périphériques mobiles.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >    * [Création d’un Landing page de formulaire libre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >    * [Création d’un modèle de Landing page guidé](create-a-guided-landing-page-template.md)
-   >    * [Présentation des Landings page libres ou guidés](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-
+   >* [Création d’un Landing page de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [Création d’un modèle de Landing page guidé](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [Présentation des Landings page libres ou guidés](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
 
