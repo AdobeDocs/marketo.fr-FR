@@ -3,7 +3,7 @@ unique-page-id: 7515616
 description: Modèles de Landing page guidé - Documents marketing - Documentation du produit
 title: Modèles de Landing page guidé
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modèles de Landing page guidé {#guided-landing-page-templates}
 
-Parcourez notre collection d’exemples de modèles, à utiliser avec l’[éditeur de Landings page guidé](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Chaque modèle est entièrement réactif et basé sur la structure du Bootstrap.
+Parcourez notre collection d’exemples de modèles, à utiliser avec l’[éditeur de Landings page guidé](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Chaque modèle est entièrement réactif et basé sur la structure du Bootstrap.
 
 >[!NOTE]
 >
