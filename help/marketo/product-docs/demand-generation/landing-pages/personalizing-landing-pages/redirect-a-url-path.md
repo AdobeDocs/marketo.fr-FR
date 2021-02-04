@@ -3,9 +3,9 @@ unique-page-id: 2359826
 description: Redirection d’un chemin d’URL - Documents marketing - Documentation du produit
 title: Redirection d’un chemin d’URL
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Marketo facilite la redirection d’un chemin d’URL vers n’importe quelle pa
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Admin,** cliquez sur **Landings page**.
+1. Sous **Admin**, cliquez sur **Landings page**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Cliquez sur l&#39;onglet **Règles**, puis sur **Nouveau **et **Nouvelle règle de redirection**.
+1. Cliquez sur l&#39;onglet **Règles**, puis sur **Nouveau** et **Nouvelle règle de redirection**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
@@ -33,10 +33,7 @@ Marketo facilite la redirection d’un chemin d’URL vers n’importe quelle pa
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >N’oubliez pas que vous ne pouvez rediriger que les URL qui début avec votre Marketo [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >N’oubliez pas que vous ne pouvez rediriger que les URL qui début avec votre Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
 1. Tapez le chemin d&#39;URL (ou la page spécifique) que vous souhaitez rediriger dans le deuxième champ **URL d&#39;origine** situé à droite.
 
@@ -46,15 +43,10 @@ Marketo facilite la redirection d’un chemin d’URL vers n’importe quelle pa
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   Vous pouvez également [utiliser les landings page Marketo](https://docs.marketo.com/x/vAEk) comme destination.
+   Vous pouvez également [utiliser les landings page Marketo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) comme destination.
 
-Félicitations !  Vous avez correctement redirigé le chemin d’accès à votre URL.
+Félicitations ! Vous avez correctement redirigé le chemin d’accès à votre URL.
 
 >[!MORELIKETHIS]
 >
->* [Rediriger un Landing page marketing vers une autre page](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-
->
-
-
-
+>[Rediriger un Landing page marketing vers une autre page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
