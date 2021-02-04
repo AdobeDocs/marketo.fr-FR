@@ -3,7 +3,7 @@ unique-page-id: 2359701
 description: Création d’un Landing page de forme libre - Documents marketing - Documentation du produit
 title: Création d’un Landing page de formulaire libre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Les landings page à structure libre peuvent être créés en tant que ressource
 
 >[!NOTE]
 >
->Les modes de landing page sont définis par leur modèle. [En savoir ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) plus sur les modèles de landing page libre et guidé.
+>Les modes de landing page sont définis par leur modèle. [En savoir ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) plus sur les modèles de landing page libre et guidé.
 
 ## Création d’un Landing page de forme libre dans un Programme {#create-a-free-form-landing-page-in-a-program}
 
@@ -55,11 +55,11 @@ Les landings page à structure libre peuvent être créés en tant que ressource
 
 ## Création d’un Landing page de formulaire libre dans Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Accédez au **Design** **Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Cliquez sur **Nouveau**, puis **Nouveau Landing page.**
+1. Cliquez sur **Nouveau**, puis **Nouveau Landing page**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -74,4 +74,3 @@ Les landings page à structure libre peuvent être créés en tant que ressource
 >[!TIP]
 >
 >Décochez la case &quot;Ouvrir l’éditeur de landing page pour la nouvelle page&quot; si vous ne souhaitez pas que l’éditeur s’ouvre immédiatement après avoir cliqué sur **Créer**.
-
