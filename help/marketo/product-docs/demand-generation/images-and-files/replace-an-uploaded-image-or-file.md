@@ -3,7 +3,7 @@ unique-page-id: 2359876
 description: Remplacer une image ou un fichier téléchargé - Documents marketing - Documentation du produit
 title: Remplacement d’une image ou d’un fichier téléchargé
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Remplacer une image ou un fichier téléchargé {#replace-an-uploaded-image-or-file}
 
-1. Accédez au **Design** **Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/designstudio-6.png)
 
-1. Cliquez sur **Images** **et** **Fichiers**, puis sélectionnez le fichier à remplacer.
+1. Cliquez sur **Images et fichiers**, puis sélectionnez le fichier à remplacer.
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
    >[!TIP]
    >
-   >Vous pouvez également [rechercher des images ou des fichiers téléchargés](search-uploaded-images-and-files.md).
+   >Vous pouvez également [rechercher des images ou des fichiers téléchargés](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
 
 1. Cliquez sur **Actions de fichier** et sélectionnez **Remplacer l’image ou le fichier**.
 
@@ -49,10 +49,6 @@ Tu l&#39;as fait !
 
 >[!MORELIKETHIS]
 >
->* [Recherche d’images et de fichiers téléchargés](search-uploaded-images-and-files.md)
->* [Rechercher l’URL d’une image ou d’un fichier téléchargé](find-the-url-of-an-uploaded-image-or-file.md)
-
->
-
-
+>* [Recherche d’images et de fichiers téléchargés](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>* [Rechercher l’URL d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 
