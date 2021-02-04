@@ -3,9 +3,9 @@ unique-page-id: 5472314
 description: Ajouter un lien vers une image dans un Landing page de forme libre - Documents marketing - Documentation du produit
 title: Ajouter un lien vers une image dans un Landing page de forme libre
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Souhaitez-vous faire d’une image de votre landing page un lien vers une autre 
 
 >[!PREREQUISITES]
 >
->* [Ajouter une image à un Landing page libre](add-an-image-to-a-free-form-landing-page.md)
-
->
-
-
+>[Ajouter une image à un Landing page libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 1. Cliquez sur l’image à laquelle vous souhaitez ajouter un lien.
 
@@ -31,23 +27,12 @@ Souhaitez-vous faire d’une image de votre landing page un lien vers une autre 
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Copiez ou tapez le lien dans la **linkUrl **zone.
+1. Copiez ou tapez le lien dans la zone **linkUrl**.
 
    ![](assets/add-link.png)
 
-   Félicitations ! Vous avez maintenant correctement ajouté un lien vers une image sur votre landing page. Vous pouvez maintenant [prévisualisation la page](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) pour l&#39;afficher en action.
+   Félicitations ! Vous avez maintenant correctement ajouté un lien vers une image sur votre landing page. Vous pouvez maintenant [prévisualisation la page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) pour l&#39;afficher en action.
 
 >[!TIP]
 >
 >Toujours tester vos pages !
-
->[!NOTE]
->
->**Articles connexes**
->
->* [Prévisualisation d’un Landing page](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
-
->
-
-
-
