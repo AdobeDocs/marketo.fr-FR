@@ -3,7 +3,7 @@ unique-page-id: 2359868
 description: Télécharger des images et des fichiers à partir de la case - Documents marketing - Documentation du produit
 title: Télécharger des images et des fichiers à partir de la zone
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vous pouvez télécharger des fichiers depuis Box pour les utiliser sur des landings page et des courriers électroniques.
 
-1. Accédez à **Design** **Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Accédez à** Images et fichiers**. Cliquez sur **Actions de fichier** et sélectionnez **Capturer les images à partir du Web**.
+1. Accédez à **Images et fichiers**. Cliquez sur **Actions de fichier** et sélectionnez **Capturer les images à partir du Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
