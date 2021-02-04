@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: Ajouter un extrait de code à un Landing page - Documents marketing - Documentation du produit
 title: Ajouter un extrait de code à un Landing page
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Les extraits de code sont de petits fragments de code HTML qui peuvent suivre le
 
 >[!PREREQUISITES]
 >
->* [Création d’un extrait de code](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
->
-
-
+>[Création d’un extrait de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 1. Sélectionnez votre landing page et cliquez sur **Modifier le brouillon**.
 
@@ -41,6 +37,6 @@ Les extraits de code sont de petits fragments de code HTML qui peuvent suivre le
 
    >[!NOTE]
    >
-   >Si vous souhaitez ajouter un extrait de code à un Landing page guidé, reportez-vous à [cet article](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template).
+   >Si vous souhaitez ajouter un extrait de code à un Landing page guidé, reportez-vous à [cet article](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 Super boulot ! Maintenant, vous savez comment ajouter des fragments à vos landings page.
