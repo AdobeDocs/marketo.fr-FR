@@ -3,7 +3,7 @@ unique-page-id: 2953038
 description: Clonage d'un groupe de tests de Landing page - Docs marketing - Documentation du produit
 title: Clonage d'un groupe de tests de Landing page
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Depuis Design Studio, vous pouvez trouver et duplicata un groupe de tests de lan
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
-1. Lorsque vous avez terminé, cliquez sur **Créer.**
+1. Lorsque vous avez terminé, cliquez sur **Créer**.
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
@@ -44,4 +44,3 @@ Depuis Design Studio, vous pouvez trouver et duplicata un groupe de tests de lan
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
    Le groupe effectue désormais un suivi actif des visites et des remplissages de formulaires afin que vous puissiez déterminer le landing page le plus performant.
-
