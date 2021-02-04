@@ -3,7 +3,7 @@ unique-page-id: 2359828
 description: Ajouter SSL à vos Landings page - Documents marketing - Documentation du produit
 title: Ajouter SSL à vos Landings page
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -19,6 +19,6 @@ Lorsque vous remplissez un formulaire Web ou que vous visitez un landing page h�
 
 Par défaut, Marketo effectue le suivi de &quot;Page Web visitée&quot; et &quot;Cliquez sur le lien sur la page Web&quot; par rapport au protocole HTTP non sécurisé. Si vous souhaitez que vos liens de suivi soient sécurisés avec leur propre certificat, vous devez disposer de Marketing pour créer un serveur distinct non partagé pour l’activer. Pour sécuriser tous les aspects de l&#39;interaction d&#39;un contact avec vous, il faut généralement sécuriser les landings page et les liens de suivi.
 
-Pour obtenir des FAQ sur l’ajout de SSL à vos landings page, consultez [cet article](http://nation.marketo.com/docs/DOC-5612).
+Pour obtenir des FAQ sur l’ajout de SSL à vos landings page, consultez [cet article](https://nation.marketo.com/docs/DOC-5612).
 
 Si vous souhaitez utiliser SSL pour vos landings page de marketing, contactez votre représentant commercial Marketo.
