@@ -3,7 +3,7 @@ unique-page-id: 2359705
 description: Ajouter un nouveau formulaire à un Landing page de formulaire libre - Documents marketing - Documentation du produit
 title: Ajouter un nouveau formulaire à un Landing page de formulaire libre
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -17,18 +17,15 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
 
 >[!PREREQUISITES]
 >
->* [Créer un formulaire](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [Création d’un Landing page de formulaire libre](create-a-free-form-landing-page.md)
-
->
+>* [Créer un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+>* [Création d’un Landing page de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
 
-
-1. Accédez à **Marketing** **Activités**.
+1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Recherchez votre landing page et cliquez sur **Modifier** **Brouillon**.
+1. Recherchez votre landing page et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
@@ -43,13 +40,12 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
 1. Vous disposez de trois options pour choisir votre page de suivi :
 
    * **landing page**  - pour choisir un landing page Marketo
-   * **External**** URL** - pour sélectionner l&#39;URL que vous souhaitez
+   * **URL**  externe : pour sélectionner l’URL de votre choix
+   * **Définition**  de formulaire : pour utiliser les paramètres définis au niveau du formulaire
 
-   * **Formulaire**** défini** - pour utiliser les paramètres définis au niveau du formulaire
    >[!NOTE]
    >
    >**Définition**
-   >
    >
    >La page de suivi est la page que les utilisateurs verront après avoir envoyé le formulaire.
 
@@ -59,4 +55,4 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
 
    Bien joué !
 
-Fermez simplement l’éditeur de landing page et [approuvez le brouillon de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Fermez simplement l’éditeur de landing page et [approuvez le brouillon de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
