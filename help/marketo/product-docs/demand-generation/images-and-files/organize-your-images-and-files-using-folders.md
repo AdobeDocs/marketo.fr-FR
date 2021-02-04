@@ -3,7 +3,7 @@ unique-page-id: 2359880
 description: Organiser vos images et fichiers à l’aide de dossiers - Documents marketing - Documentation du produit
 title: Organiser vos images et fichiers à l’aide de dossiers
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 La création de dossiers vous permet de déplacer des images et des fichiers, de voir uniquement l’ensemble d’images de votre choix et de télécharger directement vers un dossier spécifique.
 
-1. Accédez au **Design** **Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/designstudio-7.png)
 
-1. Cliquez avec le bouton droit sur ** Images et fichiers** dans le menu de gauche, puis sélectionnez **Nouveau dossier**.
+1. Cliquez avec le bouton droit sur **Images et fichiers** dans le menu de gauche, puis sélectionnez **Nouveau dossier**.
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -35,9 +35,4 @@ Cinq ! Vous êtes tous prêts pour l&#39;utopie de dossier.
 
 >[!MORELIKETHIS]
 >
->* [Recherche d’images et de fichiers téléchargés](search-uploaded-images-and-files.md)
-
->
-
-
-
+>[Recherche d’images et de fichiers téléchargés](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
