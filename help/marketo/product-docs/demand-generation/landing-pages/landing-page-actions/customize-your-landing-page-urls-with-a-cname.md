@@ -3,9 +3,9 @@ unique-page-id: 2359746
 description: Personnaliser vos URL de Landing page avec un CNAME - Docs marketing - Documentation du produit
 title: Personnaliser vos URL de Landing page avec un CNAME
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -14,22 +14,26 @@ ht-degree: 0%
 # Personnaliser vos URL de Landing page avec un CNAME {#customize-your-landing-page-urls-with-a-cname}
 
 Même si Marketo héberge vos landings page, l’URL peut être totalement personnalisée. A quoi ressemble un CNAME :
-`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` L&#39;apparence qu&#39;il devrait avoir :
-`<pre data-theme="Confluence"> http://go.YourCompany.com/UnsubscribePage.html</pre>`
+
+`http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
+
+Il devrait se présenter ainsi :
+
+`http://go.YourCompany.com/UnsubscribePage.html`
 
 ## Choisir un CNAME {#choose-a-cname}
 
 Choisissez un mot à insérer au début de l’URL de vos landings page. Ce n&#39;est qu&#39;un mot et devrait être relativement court. Exemples :
 
-* allez-y. [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
-* info. [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
-* pages. [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
+* go.YourCompany.com/NameOfPage.html
+* info.YourCompany.com/NameOfPage.html
+* pages.YourCompany.com/NameOfPage.html
 
-Le seul mot (plus [YourCompany.com](http://YourCompany.com)) est appelé CNAME. Vous en aurez besoin plus tard, alors prenez note.
+Le seul mot (plus YourCompany.com) est appelé CNAME. Vous en aurez besoin plus tard, alors prenez note.
 
 ## Rechercher votre chaîne de compte {#find-your-account-string}
 
-1. Accédez à la zone **Admin** et cliquez sur **Landings page.**
+1. Accédez à la zone **Admin** et cliquez sur **Landings page**.
 
    ![](assets/image2014-9-18-16-3a2-3a45.png)
 
@@ -47,11 +51,11 @@ Le seul mot (plus [YourCompany.com](http://YourCompany.com)) est appelé CNAME. 
 
 Demandez à votre personnel informatique de configurer le CNAME suivant : (Remplacez le mot [CNAME] et [CHAÎNE DE COMPTE] par le texte de l’étape précédente.)
 
-[CNAME]. [YourCompany.com](http://yourcompany.com/) >  [ACCOUNT STRING]. [mktoweb.com](http://mktoweb.com/)
+[CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 ## Configuration CNAME complète {#complete-cname-setup}
 
-1. Une fois que votre service informatique a créé le CNAME, accédez à **Admin** et cliquez sur **Entrée** **Pages**.
+1. Une fois que votre service informatique a créé le CNAME, accédez à **Admin** et cliquez sur **Landings page**.
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
@@ -59,7 +63,7 @@ Demandez à votre personnel informatique de configurer le CNAME suivant : (Rempl
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. Entrez votre CNAME dans **domaine** **nom** **pour** **Page d&#39;entrée** **Pages**, entrez votre **reprise** **page** entrez votre **page d&#39;accueil** et cliquez sur **Enregistrer**.
+1. Entrez votre CNAME dans **nom de domaine pour les Landings page**, entrez votre **page de secours**, entrez votre **page d&#39;accueil** et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
