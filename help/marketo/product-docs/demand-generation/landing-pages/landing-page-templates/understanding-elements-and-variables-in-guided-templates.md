@@ -3,7 +3,7 @@ unique-page-id: 7515069
 description: Présentation des éléments et des variables dans les modèles guidés - Documents marketing - Documentation du produit
 title: Présentation des éléments et des variables dans les modèles guidés
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Lorsque vous modifiez un landing page guidé, les éléments s’affichent s’i
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Tirage Marketo
 * ![—Extrait ](assets/image2015-5-20-12-3a47-3a45.png)d&#39;extrait de code Marketo
 
-Variables
+## Variables {#variables}
 
 Les variables sont des attributs de type jeton qui peuvent être personnalisés à partir de l’éditeur de landing page guidé, comme illustré ci-dessous.
 
@@ -60,5 +60,4 @@ Il existe trois types de variables : variables de chaîne, variables de couleur 
 
 >[!MORELIKETHIS]
 >
->[Création d’un modèle de Landing page guidé](create-a-guided-landing-page-template.md)
-
+>[Création d’un modèle de Landing page guidé](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
