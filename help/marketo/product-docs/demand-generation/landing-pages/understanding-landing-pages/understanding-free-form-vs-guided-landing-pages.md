@@ -3,9 +3,9 @@ unique-page-id: 7515207
 description: Présentation des Landings page libres ou guidés - Documents marketing - Documentation du produit
 title: Présentation des Landings page libres ou guidés
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présentation des Landings page libres ou guidés {#understanding-free-form-vs-guided-landing-pages}
 
-Le modèle que vous choisissez détermine le mode de modification de landing page dans lequel vous allez travailler. Il existe deux chemins possibles : [formulaire libre](http://docs.marketo.com/display/docs/free-form+landing+pages) et [guidé](http://docs.marketo.com/display/docs/guided+landing+pages). Vous trouverez ci-dessous un bref résumé des différences importantes.
+Le modèle que vous choisissez détermine le mode de modification de landing page dans lequel vous allez travailler. Il existe deux chemins possibles : [formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) et [guidé](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Vous trouverez ci-dessous un bref résumé des différences importantes.
 
 ## Pages de forme libre {#free-form-pages}
 
@@ -33,13 +33,3 @@ Le modèle que vous choisissez détermine le mode de modification de landing pag
 * Il est préférable de l’utiliser si vous avez codé ou acheté des modèles réactifs ou si vous souhaitez modifier un modèle Marketo préconstruit.
 
 ![](assets/two-1.png)
-
->[!MORELIKETHIS]
->
->* [Landings page à structure libre](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
->* [Landings page guidés](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)
-
->
-
-
-
