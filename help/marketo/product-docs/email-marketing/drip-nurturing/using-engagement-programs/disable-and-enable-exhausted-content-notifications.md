@@ -3,7 +3,7 @@ unique-page-id: 2359877
 description: Désactiver et activer les notifications de contenu expirées - Documents marketing - Documentation du produit
 title: Désactivation et activation des notifications de contenu extrait
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -27,9 +27,8 @@ Lorsque les utilisateurs épuisent tout le contenu d’un flux, Marketo peut vou
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Sélectionnez **Désactivé **(ou **Activé**) et cliquez sur **Enregistrer**.
+1. Sélectionnez **Désactivé** (ou **Activé**) et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
    Super ! Si vous activez les notifications, vous verrez quelque chose dans le flux lui-même et recevrez une notification par courrier électronique.
-
