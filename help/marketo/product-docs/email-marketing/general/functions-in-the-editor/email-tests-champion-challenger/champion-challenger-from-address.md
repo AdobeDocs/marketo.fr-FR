@@ -3,9 +3,9 @@ unique-page-id: 2359559
 description: Champion/Challenger - Adresse - Docs marketing - Documentation du produit
 title: Champion/Challenger - Adresse de départ
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ Vous voulez essayer un autre From Address sans problème ? Voici comment.
 
    Progrès ! Continuons.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
