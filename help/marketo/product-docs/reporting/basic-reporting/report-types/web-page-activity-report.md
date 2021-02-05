@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: Rapport d'Activité de page Web - Documents marketing - Documentation du produit
 title: Rapport Activité de page Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,8 @@ Vous pouvez choisir d’afficher des personnes connues ou anonymes, mais pas les
 >
 >Faites plaisir à vos commerciaux ! [Filtrez le ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)rapport pour leur territoire et  [abonnez-le](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) !
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
 >
 >* [Pages Web vues, Rapport Activité de page Web](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [Affichage de personnes ou de Visiteurs anonymes dans les rapports Web](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
