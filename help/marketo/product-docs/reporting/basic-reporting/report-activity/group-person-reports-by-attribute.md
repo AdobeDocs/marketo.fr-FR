@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: Rapports de personnes de groupe par attribut - Documents marketing - Documentation du produit
 title: Rapports des personnes de groupe par attribut
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,8 @@ Vous pouvez regrouper vos [rapports de personne](http://docs.marketo.com/display
    >
    >Pour en savoir plus sur les rapports de personnes et les autres types de rapports, consultez la section [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting)plongée en profondeur.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
