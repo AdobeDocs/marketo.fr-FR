@@ -3,7 +3,7 @@ unique-page-id: 12976776
 description: Utiliser des Filtres et des déclencheurs de formulaires de génération de pistes LinkedIn dans un Campaign intelligent - Marketo Docs - Documentation du produit
 title: Utiliser des Filtres de formulaire de génération de pistes LinkedIn et des déclencheurs dans un Campaign dynamique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -26,4 +26,3 @@ Lorsque vous avez activé LinkedIn Lead Gen Forms, vous pouvez les utiliser comm
 1. Ajoutez des contraintes pour limiter davantage vos résultats.
 
    ![](assets/lead-gen-constraints.png)
-
