@@ -3,9 +3,9 @@ unique-page-id: 8783963
 description: Modèle 8-B - Documents marketing - Documentation du produit
 title: Modèle 8-B
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modèle 8-B {#template-b}
 
-Cliquez avec le bouton droit pour [Télécharger le modèle 8-B](http://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&amp;modificationdate=1482174993000&amp;api=v2).
+[Télécharger le modèle 8-B](https://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&amp;modificationdate=1482174993000&amp;api=v2)
 
 ![](assets/image2015-7-29-13-3a56-3a13.png)
 
@@ -27,6 +27,6 @@ Ce modèle comprend le contenu suivant :
 * Cinq sections de contenu (facultatif)
 * Pied de page (facultatif)
 
-Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :
+**Cliquez ci-dessous pour télécharger ce modèle :**
 
-[Template8-B.html](http://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&amp;modificationdate=1482174993000&amp;api=v2)
+[Template8-B.html](https://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&amp;modificationdate=1482174993000&amp;api=v2)
