@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo Sandbox - Marketo Docs - Documentation du produit
 title: Marketo Sandbox
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Un sandbox Marketo est une instance supplémentaire utilisée à des fins de test avant l’implémentation dans l’environnement de production.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre responsable de succès client.
 
