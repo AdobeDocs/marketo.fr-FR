@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Définir les champs de score à utiliser pour les étoiles et les flammes dans Sales Insight - Marketo Docs - Documentation sur le produit
 title: Définir les champs de score à utiliser pour les étoiles et les flammes dans Sales Insight
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,8 @@ Par défaut, Marketing Sales Insight utilise le champ **Score de piste** pour ca
    >
    >Il faudra un certain temps pour calculer à nouveau les statistiques des ventes. Vous pourrez vérifier votre CRM ultérieurement pour voir les étoiles et les flammes.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >
    >[Priorité, urgence, note relative et meilleurs résultats](priority-urgency-relative-score-and-best-bets.md)
