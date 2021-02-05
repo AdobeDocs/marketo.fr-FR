@@ -3,9 +3,9 @@ unique-page-id: 2359805
 description: Sélectionner les gagnants du tirage - Documents marketing - Documentation du produit
 title: Sélectionner les gagnants du Tirage
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # Sélectionner les gagnants du Tirage {#select-sweepstakes-winners}
 
-Lorsque vous [publiez un tirage](publish-a-sweepstakes.md), vous devez sélectionner les gagnants pour chaque dessin. Dans ce cas, votre [courriel d’exécution](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) leur est automatiquement envoyé.
+Lorsque vous [publiez un tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), vous devez sélectionner les gagnants pour chaque dessin. Dans ce cas, votre [courriel d’exécution](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) leur est automatiquement envoyé.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
@@ -29,13 +27,13 @@ Lorsque vous [publiez un tirage](publish-a-sweepstakes.md), vous devez sélectio
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Cliquez sur **Choisir** **Gagnants**.
+1. Cliquez sur **Choisir les gagnants**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
    >[!TIP]
    >
-   >Pour voir une liste de personnes qui se sont inscrites pour votre tirage, cliquez sur l&#39;onglet **Participants **onglet.
+   >Pour voir une liste de personnes qui se sont inscrites pour votre tirage, cliquez sur l&#39;onglet **Participants**.
 
 1. Choisissez le nombre de gagnants, sélectionnez **Je suis prêt à sélectionner**, puis cliquez sur **Suivant**.
 
@@ -45,7 +43,7 @@ Lorsque vous [publiez un tirage](publish-a-sweepstakes.md), vous devez sélectio
    >
    >Si vous choisissez 0 gagnant pour un dessin particulier, ces informations ne s’affichent pas sur l’onglet **Gagnants**.
 
-1. Cliquez sur **Finalize** pour envoyer le [courriel d&#39;exécution](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) aux gagnants répertoriés.
+1. Cliquez sur **Finalize** pour envoyer le [courriel d&#39;exécution](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) aux gagnants répertoriés.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
