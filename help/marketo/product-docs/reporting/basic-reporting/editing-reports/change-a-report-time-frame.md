@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: Modification de la période d’un rapport - Documents marketing - Documentation du produit
 title: Modification de la période d’un rapport
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ Modifiez la période couverte par votre rapport afin de vous concentrer sur un m
    Cliquez sur l&#39;onglet **Rapport** pour afficher votre rapport pour la période sélectionnée.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >
    >Pour limiter votre rapport en fonction d&#39;attributs de personne spécifiques, vous pouvez [filtrer les personnes dans un rapport avec une Liste intelligente](filter-people-in-a-report-with-a-smart-list.md).
@@ -58,5 +57,5 @@ Modifiez la période couverte par votre rapport afin de vous concentrer sur un m
    >**Plongée profonde**
    >
    >
-   >Pour plus d&#39;informations sur l&#39;utilisation des rapports, consultez la section &lt; a0/>Rapports de base[ plongée en profondeur.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Pour plus d&#39;informations sur l&#39;utilisation des rapports, consultez la section &lt; a0/>Rapports de base](http://docs.marketo.com/display/docs/basic+reporting) plongée en profondeur.[
 
