@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: Créer une présentation - Documents marketing - Documentation du produit
 title: Créer une présentation
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Créez une présentation pour projeter les vues et objectifs de votre équipe sur un téléviseur haute définition. Presentations est spécifique à Workspace.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
