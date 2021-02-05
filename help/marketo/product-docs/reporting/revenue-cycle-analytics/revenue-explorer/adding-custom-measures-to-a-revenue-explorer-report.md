@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: Ajouter des mesures personnalisées à un rapport Explorateur de recettes - Documents marketing - Documentation du produit
 title: Ajouter des mesures personnalisées à un rapport Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ Dans l’exemple ci-dessous, vous créez une mesure calculée pour les rebonds �
 
    ![](assets/image2016-1-26-11-3a29-3a16.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
