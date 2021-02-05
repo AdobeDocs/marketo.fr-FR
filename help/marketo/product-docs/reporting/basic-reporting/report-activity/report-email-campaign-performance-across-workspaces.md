@@ -3,9 +3,9 @@ unique-page-id: 2360055
 description: Courriel des rapports, performances Campaign dans tous les espaces de travail - Documents marketing - Documentation du produit
 title: Courriel des rapports, performances Campaign dans tous les espaces de travail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,8 @@ Activez le Rapports global pour inclure dans vos rapports [Performances du courr
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
