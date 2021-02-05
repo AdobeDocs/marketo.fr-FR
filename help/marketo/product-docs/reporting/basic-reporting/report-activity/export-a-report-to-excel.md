@@ -3,9 +3,9 @@ unique-page-id: 2360020
 description: Exporter un rapport vers Excel - Documents marketing - Documentation du produit
 title: Exportation d’un rapport vers Excel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,8 @@ Vous pouvez exporter n’importe quel rapport dans un fichier Excel pour utilise
 
    C&#39;est tout ! Votre navigateur vous invite à enregistrer le fichier Excel sur votre système.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >
    >Si le fichier téléchargé est trop volumineux, vous pouvez [modifier la taille du rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
