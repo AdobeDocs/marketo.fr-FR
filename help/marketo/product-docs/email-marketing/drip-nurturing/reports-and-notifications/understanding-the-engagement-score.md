@@ -3,7 +3,7 @@ unique-page-id: 2359890
 description: Présentation de la note d’engagement - Documents marketing - Documentation du produit
 title: Présentation de la note d’engagement
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présentation de la note d’engagement {#understanding-the-engagement-score}
 
-Le score d’engagement permet de déterminer facilement l’efficacité du contenu dans votre programme d’engagement. Le score est compris entre 0 et 100. Consultez [le Tableau de bord d’engagement](the-engagement-dashboard.md) pour savoir comment suivre les performances de votre contenu.
+Le score d’engagement permet de déterminer facilement l’efficacité du contenu dans votre programme d’engagement. Le score est compris entre 0 et 100. Consultez [le Tableau de bord d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) pour savoir comment suivre les performances de votre contenu.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -33,9 +33,4 @@ Les scores d’engagement sont universels pour tous les clients. Vous pouvez les
 
 >[!MORELIKETHIS]
 >
->* [Présentation des Programmes d’engagement](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
-
->
-
-
-
+>[Présentation des Programmes d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
