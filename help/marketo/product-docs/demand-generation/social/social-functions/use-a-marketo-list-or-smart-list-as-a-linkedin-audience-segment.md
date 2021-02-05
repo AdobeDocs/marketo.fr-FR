@@ -3,7 +3,7 @@ unique-page-id: 7504180
 description: Utilisation d’une Liste Marketo ou d’une Liste dynamique en tant que segment d’Audience LinkedIn - Marketo Docs - Documentation du produit
 title: Utilisation d’une Liste Marketo ou d’une Liste dynamique en tant que segment d’Audience LinkedIn
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Intégrez les personnes de votre marketing à vos audiences LinkedIn.
 
 >[!PREREQUISITES]
 >
->* [Ajouter les Audiences mises en correspondance LinkedIn en tant que service LaunchPoint](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[Ajouter les Audiences mises en correspondance LinkedIn en tant que service LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
->
-
-
-
-1. Accédez à la base de données***.
+1. Accédez à la **base de données**.
 
    ![](assets/db.png)
 
@@ -35,7 +31,7 @@ Intégrez les personnes de votre marketing à vos audiences LinkedIn.
 
    ![](assets/three-1.png)
 
-1. Cliquez sur l’icône ** Envoyer par le biais d’un pont publicitaire **icône ![—](assets/image2015-4-20-18-3a18-3a41.png) située au bas de la liste.
+1. Cliquez sur l&#39;icône **Envoyer via Ad Bridge** ![—](assets/image2015-4-20-18-3a18-3a41.png) au bas de la liste.
 
    ![](assets/four-1.png)
 
@@ -43,7 +39,7 @@ Intégrez les personnes de votre marketing à vos audiences LinkedIn.
    >
    >Lors de l’utilisation d’intégrations de réseau publicitaire pour envoyer une audience à LinkedIn, Marketo envoie uniquement l’adresse électronique sur.
 
-1. Sélectionnez** LinkedIn** et cliquez sur **Suivant**.
+1. Sélectionnez **LinkedIn** et cliquez sur **Suivant**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
@@ -67,6 +63,4 @@ Intégrez les personnes de votre marketing à vos audiences LinkedIn.
    >
    >Veuillez prévoir 15 minutes pour la synchronisation.
 
-   [Centre d’aide des solutions marketing de LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)
-
-Cinq ! Vos données seront désormais associées aux audiences de LinkedIn. Pour plus d’informations sur le transfert de listes vers LinkedIn pour le ciblage de compte et de contacts, consultez la rubrique .
+Cinq ! Vos données seront désormais associées aux audiences de LinkedIn. Pour plus d’informations sur le transfert de listes vers LinkedIn pour le ciblage de compte et de contacts, consultez le centre d’aide [Solutions marketing de LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
