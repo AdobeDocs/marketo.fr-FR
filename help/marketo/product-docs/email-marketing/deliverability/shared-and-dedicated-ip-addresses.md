@@ -3,7 +3,7 @@ unique-page-id: 10912085
 description: Adresses IP partagées et dédiées - Documents marketing - Documentation du produit
 title: Adresses IP partagées et dédiées
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
@@ -31,13 +31,13 @@ Comme d&#39;habitude, les deux options comportent des avantages et des inconvén
 
 **Avantages et inconvénients d’une IP dédiée**
 
-*Avantages*
+_Avantages_
 
 **Réputation**  - Vous êtes seul propriétaire de votre réputation et de votre délivrabilité.\
 **Surveillance**  : la surveillance de votre rapports de délivrabilité vous permet de réagir rapidement aux modifications apportées à vos mesures de diffusion.\
 **Résolution**  des problèmes - Il est plus facile de rechercher, de comprendre et de résoudre les problèmes de diffusion.
 
-*Cons*
+_Cons_
 
 **Changements**  de volume - Les pics de volume peuvent nuire à votre réputation et doivent être gérés.\
 **Processus**  d&#39;échauffement IP - La réputation est établie au fil du temps. Certains Prestataires Internet (FAI) réduisent les adresses IP sans historique des volumes, vous devrez donc vous forger une réputation au cours des premières semaines (Marketo peut vous aider à vous guider).\
@@ -45,17 +45,17 @@ Comme d&#39;habitude, les deux options comportent des avantages et des inconvén
 
 **Avantages et inconvénients d&#39;une IP partagée**
 
-*Avantages*
+_Avantages_
 
-**Bons colocataires **- Si les personnes que vous partagez votre adresse IP suivent les meilleures pratiques d&#39;envoi, vous en bénéficierez.\
-**Fréquence d&#39;envoi **- Il n&#39;y a pas de fréquence d&#39;envoi minimale nécessaire pour être admissible à une adresse IP partagée, contrairement aux adresses IP dédiées.\
-**Coût **- Il n&#39;y a jamais de frais supplémentaires à envoyer à partir d&#39;une adresse IP partagée.
+**Bon compagnon**  de chambrée - Si les personnes que vous partagez votre adresse IP suivent les meilleures pratiques d&#39;envoi, vous en tirerez avantage.\
+**Fréquence**  d&#39;envoi - Il n&#39;y a pas de fréquence d&#39;envoi minimale nécessaire pour être admissible à une adresse IP partagée, contrairement aux adresses IP dédiées.\
+**Coût**  - Il n&#39;y a jamais de frais supplémentaires à envoyer à partir d&#39;une adresse IP partagée.
 
-*Cons*
+_Cons_
 
 **Mauvais compagnons**  de chambrée - Si les personnes que vous partagez votre adresse IP et qui s&#39;adonnent à de mauvaises pratiques d&#39;envoi, vos campagnes par courriel pourraient en pâtir.\
-**Contrôle **- Vous avez beaucoup moins de contrôle sur la réputation de votre expéditeur.\
-**Résolution du problème **- Il peut être souvent plus difficile de résoudre un problème lors de l&#39;envoi à partir d&#39;IP partagées.
+**Contrôle**  - Vous avez beaucoup moins de contrôle sur votre réputation d&#39;expéditeur.\
+**Résolution**  des problèmes - Il peut être souvent plus difficile de résoudre un problème lors de l&#39;envoi à partir d&#39;IP partagées.
 
 >[!NOTE]
 >
