@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: Installation du module externe Marketo Outlook par le service informatique - Docs Marketo - Documentation du produit
 title: Installation du module externe Marketo Outlook par le service informatique
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Pour spécifier l’emplacement des fichiers journaux, vous pouvez spécifier le
 
 Veuillez consulter [la liste complète des commutateurs](https://support.microsoft.com/en-us/kb/227091) de Microsoft si vous souhaitez essayer différents niveaux de journalisation ou niveaux d&#39;interface utilisateur.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Désinstallation du module externe Marketo Outlook par le service informatique](marketo-outlook-plugin-uninstall-by-it.md)
 
