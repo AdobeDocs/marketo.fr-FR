@@ -3,9 +3,9 @@ unique-page-id: 14352634
 description: Ajouter une pièce jointe - Documents marketing - Documentation du produit
 title: Ajouter une pièce jointe
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Ajouter une pièce jointe {#add-an-attachment}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Vous pouvez Ajouter des pièces jointes si vous utilisez Marketing Connect Sales Connect. Il n’est pas disponible dans l’éditeur de messagerie standard de Marketo.
 
