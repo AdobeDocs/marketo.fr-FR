@@ -3,9 +3,9 @@ unique-page-id: 37355602
 description: Installer et configurer Marketo Sales Insight dans Microsoft Dynamics Online - Marketo Docs - Documentation sur les produits
 title: Installer et configurer Marketo Sales Insight dans Microsoft Dynamics Online
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -185,9 +185,7 @@ Enfin, vous devez donner aux utilisateurs spécifiques l&#39;accès à l&#39;uti
 
    ![](assets/image2015-4-29-15-3a2-3a27-1.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >[Configuration des étoiles et des flammes pour les enregistrements de piste/contact](http://docs.marketo.com/x/BICMAg)
 
