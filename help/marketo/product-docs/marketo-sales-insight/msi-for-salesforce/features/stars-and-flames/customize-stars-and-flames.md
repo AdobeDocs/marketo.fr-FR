@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Personnaliser les étoiles et les flammes - Docs marketing - Documentation du produit
 title: Personnaliser les étoiles et les flammes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo Sales Insight utilise des étoiles et des flammes pour classer les pistes par ordre de priorité. Marketo décide automatiquement qui obtient 1-2-3 étoiles/flammes. Vous pouvez toutefois modifier la formule. Voici comment :
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
