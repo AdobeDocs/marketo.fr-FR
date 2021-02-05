@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Présentation des moments marketing - Docs marketing - Documentation du produit
 title: Présentation des moments marketing
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Le pouvoir de Marketo est maintenant entre vos mains, littéralement ! Prévisualisation et replanification des e-mails directement depuis votre téléphone ou votre iPad.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >L’autorisation d’accès aux applications mobiles est requise. Contactez votre administrateur marketing pour [mettre à jour votre rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
