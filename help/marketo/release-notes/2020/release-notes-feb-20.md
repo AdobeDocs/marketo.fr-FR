@@ -3,9 +3,9 @@ unique-page-id: 37355826
 description: Notes de mise à jour - Février 20 - Documentation sur le marketing - Documentation sur le produit
 title: Notes de mise à jour - Fév '20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Les fonctionnalités suivantes sont incluses dans la version du 20 février. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Les fonctions signalées par une étoile ( ![(star)](assets/star-yellow.svg)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
 
