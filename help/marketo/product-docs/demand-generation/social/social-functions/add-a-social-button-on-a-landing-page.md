@@ -3,9 +3,9 @@ unique-page-id: 2359757
 description: Ajouter un bouton Social sur un Landing page - Documents marketing - Documentation du produit
 title: Ajouter un bouton Social sur un Landing page
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Un bouton social encourage les utilisateurs à partager votre contenu avec leurs amis. Déposez-le sur les landings page, Facebook et votre site Web.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
@@ -33,21 +31,21 @@ Un bouton social encourage les utilisateurs à partager votre contenu avec leurs
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Une fois votre landing page principal, consultez l’activité générée par votre **Bouton social** (avec Analytics) sur le [Tableau de bord social](view-social-performance.md).
+   Une fois votre landing page principal, consultez l’activité générée par votre **Bouton social** (avec Analytics) sur le [Tableau de bord social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
-   Si vous ajoutez un bouton **J’aime/Recommander (Lite)** à la place, consultez le nombre de partages dans le rapport [performances du landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
+   Si vous ajoutez un bouton **J’aime/Recommander (Lite)** à la place, consultez le nombre de partages dans le rapport [performances du landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
 1. Sélectionnez **Créer** dans la liste déroulante.
 
    >[!NOTE]
    >
-   >Vous pouvez également créer un bouton social dans un programme en sélectionnant **Nouveau > Nouvel actif local**.
+   >Vous pouvez également créer un bouton social dans un programme en sélectionnant **New** > **New Local Asset**.
 
 1. Nommez votre bouton social, sélectionnez **Aucun** dans **Clone** **From**, puis cliquez sur **Insérer**.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
-Félicitations ! Vous avez ajouté un bouton social à votre landing page. Veillez à approuver le landing page. Vous pouvez également [publier le landing page sur Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer le bouton social sur votre site Web](deploy-social-on-your-website.md).
+Félicitations ! Vous avez ajouté un bouton social à votre landing page. Veillez à approuver le landing page. Vous pouvez également [publier le landing page sur Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer le bouton social sur votre site Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
@@ -55,4 +53,5 @@ Félicitations ! Vous avez ajouté un bouton social à votre landing page. Veill
 
 >[!MORELIKETHIS]
 >
->Vous avez terminé, mais vous pouvez modifier les paramètres de votre bouton social si nécessaire. Début avec [personnalisation du style de bouton](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) et [modification des messages de partage](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) qu’il présente.
+>Vous avez terminé, mais vous pouvez modifier les paramètres de votre bouton social si nécessaire. Début avec [personnalisation du style de bouton](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) et [modification des messages de partage](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) qu’il présente.
+
