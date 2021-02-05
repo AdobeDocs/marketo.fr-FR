@@ -3,7 +3,7 @@ unique-page-id: 2950573
 description: Configuration du flux de progression du suivi pour une Offre de référence - Documents marketing - Documentation du produit
 title: Configurer le flux de progression du suivi pour une Offre de référence
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurer le flux de progression du suivi pour une Offre de référence {#configure-track-progress-flow-for-a-referral-offer}
 
-Lorsque vous [créez une offre de référence](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez configurer les invites qui montrent aux participants leur progression vers la récompense.
+Lorsque vous [créez une offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez configurer les invites qui montrent aux participants leur progression vers la récompense.
 
 1. Accédez à **Activités marketing**.
 
@@ -27,7 +27,7 @@ Lorsque vous [créez une offre de référence](../../../../product-docs/demand-g
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. Dans la fenêtre **Vue** **&amp;** **Modifier**, modifiez l’invite qui demande aux participants de se connecter au même réseau social qu’avant pour s’inscrire à votre offre.
+1. Dans la fenêtre **Vue et modification**, modifiez l’invite qui demande aux participants de se connecter au même réseau social qu’avant pour s’inscrire à votre offre.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -49,5 +49,4 @@ Lorsque vous [créez une offre de référence](../../../../product-docs/demand-g
 
 >[!MORELIKETHIS]
 >
->Cliquez ensuite sur **Terminer > Approuver et fermer** et [publier votre offre de référence](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
-
+>Cliquez ensuite sur **Terminer** > **Approuver et fermer** et [publier votre offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
