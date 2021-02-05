@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: Ajouter du contenu à un flux - Documents marketing - Documentation du produit
 title: Ajouter du contenu à un flux
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,6 @@ Une fois votre programme d’engagement créé, vous devez ajouter du contenu au
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >La campagne intelligente doit comporter le filtre **Membre de l’Programme d’engagement** pour que cela fonctionne correctement.
 
 **Stream + Icon**
@@ -118,9 +115,4 @@ Super boulot ! Vous connaissez maintenant différentes manières d’ajouter du 
 
 >[!MORELIKETHIS]
 >
->* [Ajouter un Programme à un flux de Programme d’engagement](adding-a-program-to-an-engagement-program-stream.md)
-
->
-
-
-
+>[Ajouter un Programme à un flux de Programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
