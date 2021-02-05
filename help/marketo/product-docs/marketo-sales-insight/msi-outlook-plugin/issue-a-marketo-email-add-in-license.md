@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Émettre une licence d'Ajoute électronique Marketo - Docs Marketo - Documentation du produit
 title: Émettre une licence d'Ajoute électronique de marketing à envoyer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,8 @@ Quiconque souhaite utiliser l&#39;Ajoute d&#39;Outlook de courriel de marketing 
 * **[Installation](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)** de clé d&#39;entreprise : Utilisez cette méthode lorsque les commerciaux n&#39;ont pas de droits d&#39;administrateur sur leurs ordinateurs portables d&#39;entreprise et ne peuvent pas installer de modules externes, de logiciels, etc. à ce sujet. Dans ce cas, l’administrateur du marketing délivre des licences à une liste d’utilisateurs autorisés. Ensuite, l’équipe informatique déploie le module externe à distance sur tous les ordinateurs des utilisateurs autorisés à l’aide de la clé d’entreprise. L’utilisateur du module externe l’autorise ensuite.
 * **[Installation](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)** du code d&#39;enregistrement : Utilisez cette méthode lorsque les commerciaux disposent de droits d&#39;administration sur leur ordinateur portable d&#39;entreprise et peuvent installer des modules externes, des logiciels, etc. à ce sujet. Pour ce processus, l’administrateur de Marketing Cloud délivre des licences à une liste d’utilisateurs autorisés et leur envoie des courriers électroniques d’enregistrement directement avec des liens de téléchargement. Le représentant commercial reçoit un courrier électronique contenant un lien de téléchargement de module externe et une URL d’enregistrement unique.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
