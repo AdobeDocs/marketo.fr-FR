@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: Choisir un courriel existant - Documents marketing - Documentation du produit
 title: Choisir un courriel existant
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Une fois que vous avez [créé un programme de courriel](../../../../product-doc
 
 Maintenant que nous avons décidé quel courriel envoyer, nous pouvons configurer un test A/B, ou l&#39;ignorer et planifier le programme de courriel.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter un test A/B](email-test-a-b-test/add-an-a-b-test.md)
 >* [Planification de votre Programme de messagerie](schedule-your-email-program.md)
