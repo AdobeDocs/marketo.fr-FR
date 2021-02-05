@@ -3,9 +3,9 @@ unique-page-id: 2360181
 description: Suivi des Activités et des personnes anonymes - Documentation sur le marketing - Documentation sur les produits
 title: Suivi des Activités et des personnes anonymes
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,8 @@ Lors de la première visite d’un Marketo [landing page](../../../../product-do
    >
    >Lorsque des enregistrements anonymes sont fusionnés dans un enregistrement de personne nouveau ou existant, les valeurs de champ personnalisé **ne sont** pas transférées.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
