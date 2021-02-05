@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installez l'Ajoute de courriel de Marketo pour Outlook avec un code d'inscription - Docs marketing - Documentation du produit
 title: Installer l'Ajoute de courriel de Marketo pour Outlook avec un code d'inscription
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
 
 En savoir plus sur l’utilisation des actions Message marketing et Log With Marketo.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Envoi et suivi d&#39;un courriel avec l&#39;Ajoute de courriel Marketo pour Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Envoi et suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle de marketing](send-and-track-from-outlook-using-a-marketo-template.md)
