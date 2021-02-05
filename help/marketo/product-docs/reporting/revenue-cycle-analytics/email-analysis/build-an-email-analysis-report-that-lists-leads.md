@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: Créez un rapport d'Analyse par courriel qui Liste les pistes - Documents marketing - Documentation sur les produits
 title: Création d’un rapport d’Analyse par courriel qui Liste les pistes
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Créez un rapport d&#39;Analyse par courriel que les Listes dirigent {#build-an-email-analysis-report-that-lists-leads}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
