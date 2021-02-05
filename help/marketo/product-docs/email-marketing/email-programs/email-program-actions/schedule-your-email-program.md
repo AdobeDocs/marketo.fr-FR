@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: Planification de votre Programme de messagerie - Documents marketing - Documentation du produit
 title: Planification de votre Programme de messagerie
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Une fois votre programme de messagerie créé, votre audience définie et votre 
 
    C&#39;était facile ? Il ne reste plus qu&#39;à [approuver un programme de courriel](approve-unapprove-an-email-program.md) et vous êtes bien placé pour y aller.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Planification des Programmes de courriel avec fuseau horaire Destinataire](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Début principal pour les Programmes électroniques](head-start-for-email-programs.md)
