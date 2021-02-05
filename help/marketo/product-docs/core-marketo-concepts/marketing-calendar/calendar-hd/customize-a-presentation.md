@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: Personnalisation d’une présentation - Documents marketing - Documentation du produit
 title: Personnalisation d’une présentation
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Configurez votre présentation du calendrier pour qu’elle reflète les objectifs et les activités qui comptent le plus pour votre équipe.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
