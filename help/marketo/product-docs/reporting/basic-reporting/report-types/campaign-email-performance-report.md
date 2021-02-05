@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: Rapport sur les performances des courriels Campaign - Documents marketing - Documentation du produit
 title: Rapport Performances des courriers électroniques Campaign
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ Pour afficher les statistiques de performances de votre messagerie regroupées p
    >
    >En général, nous essayons d&#39;utiliser le bon sens pour enregistrer ces statistiques. Par exemple, si quelqu’un a cliqué sur un lien dans un courriel, il l’a manifestement ouvert en premier. Pour connaître les règles spécifiques que nous suivons, consultez le [Rapport Performance du courriel](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
