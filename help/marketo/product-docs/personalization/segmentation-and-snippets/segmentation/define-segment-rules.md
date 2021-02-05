@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Définir des règles de segment - Documents marketing - Documentation du produit
 title: Définir des règles de segment
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Bon travail ! Ces segments seront utiles dans beaucoup d&#39;endroits du marché
 >
 >L’écran Personnes (brouillon) affiche toutes les personnes qui remplissent les conditions requises pour devenir membre et qui ne sont pas toujours la liste finale des personnes. Approuvez votre segment pour afficher la liste finale.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Approbation d’une segmentation](approve-a-segmentation.md)
 
