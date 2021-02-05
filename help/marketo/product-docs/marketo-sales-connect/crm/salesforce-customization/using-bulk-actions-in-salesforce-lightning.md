@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Utilisation d’actions en masse dans Salesforce Lightning - Marketo Docs - Documentation sur les produits
 title: Utilisation d’actions en masse dans l’éclair Salesforce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ Découvrez comment effectuer des actions en masse, comme ajouter des pistes à u
 >
 >Vous pouvez également suivre les mêmes étapes pour utiliser des actions en bloc dans la Vue de Liste de contacts.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Envoi de courriers électroniques par courriel de groupe](http://docs.marketo.com/x/KAQ6Ag)
 >* [Composition de courriels en vrac avec sélection et envoi](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
