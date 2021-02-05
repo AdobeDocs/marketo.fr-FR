@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: Champion/Challenger - Définir les critères de champion - Docs marketing - Documentation du produit
 title: Champion/Challenger - Définir les critères de champion
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ Une fois que vous avez configuré votre type de test, vous devez définir les cr
 
    Super ! Il est maintenant temps de planifier le rapport.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
