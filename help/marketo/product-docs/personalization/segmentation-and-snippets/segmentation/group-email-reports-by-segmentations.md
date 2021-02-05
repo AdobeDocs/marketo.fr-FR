@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: Grouper les rapports par courriel par segmentation - Documents marketing - Documentation du produit
 title: Regrouper les rapports par courriel par segment
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Les segments ne sont pas uniquement destinés au contenu dynamique. Vous pouvez 
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Filtrage des ressources dans un rapport par courriel](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
