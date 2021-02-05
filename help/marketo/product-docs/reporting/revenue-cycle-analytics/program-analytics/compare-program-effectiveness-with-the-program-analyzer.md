@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Comparer l'efficacité des Programmes à l'analyseur de Programme - Documentation sur le marketing - Documentation sur les produits
 title: Comparer l'efficacité des Programmes avec l'analyseur de Programme
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -90,9 +90,7 @@ Nous constatons que le programme Paper Fest 12 n&#39;influence pas seulement plu
 >
 >Vous pouvez rapidement comparer les programmes d’un canal à ceux d’un autre. Il vous suffit d&#39;utiliser le **filtre de Canal** en haut de la fenêtre pour ajouter d&#39;autres canaux.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Explorez les détails sur les Programmes et les Canaux à l&#39;aide de l&#39;analyseur de Programmes](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Comparer l&#39;efficacité des Canaux avec l&#39;analyseur de Programme](compare-channel-effectiveness-with-the-program-analyzer.md)
