@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Configurer l'attribution des recettes pour les campagnes de publicité numérique - Documents marketing - Documentation du produit
 title: Configurer l’attribution des recettes pour les campagnes de publicité numérique
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Avec des programmes distincts, vous pouvez ensuite effectuer le suivi du nombre 
 >* Créer ou modifier un formulaire pour transmettre une chaîne de requête à la personne
 >* Assurez-vous d’avoir accès à certaines fonctionnalités d’analyse du cycle des recettes pour générer des rapports sur vos canaux publicitaires et campagnes.
 
->
-
-
 
 ## Créer un Programme par défaut {#create-a-default-program}
 
@@ -41,7 +38,7 @@ Contrairement à certains programmes (tels que le courriel) qui peuvent s’exé
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Si un programme est déjà en place, vous pouvez [le cloner](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Si un programme est déjà en place, vous pouvez [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -53,15 +50,11 @@ Contrairement à certains programmes (tels que le courriel) qui peuvent s’exé
    >
    >**Exemple**
    >
-   >
    >Une chaîne de requête transmise par l’URL permet à Marketing Cloud de savoir sur quelle campagne publicitaire un visiteur a cliqué lorsqu’il est devenu une personne dans Marketing Cloud.
-   >
    >
    >Vous pouvez créer une méthodologie de chaîne de requête qui inclut toutes les variables à mesurer. Marketo utilise ces variables pour ajouter des personnes à vos différents programmes.
    >
-   >
    >Par exemple, vous pouvez utiliser le Canal type_Canal__Asset__Region. Cela pourrait ressembler à ceci : SP_FB_NewGuide_US. **Remarque** : les abréviations économisent de l’espace.
-   >
    >
    >Ou, configurez-le en tant que Canal_Adsource_AssetName_Region_UniqueIdNumber. Cela pourrait ressembler à ceci : Social-Paid_Facebook_NewGuide_NA_123.
 
@@ -95,7 +88,7 @@ Vous avez besoin d’une seconde campagne intelligente pour modifier l’état d
 
    >[!NOTE]
    >
-   >L&#39;exemple ci-dessus montre **Converted, **mais cela dépend de votre état/valeur de réussite.
+   >L’exemple ci-dessus montre **Converted**, mais cela dépend de votre état/valeur de réussite.
 
 1. Planifiez et activez la campagne.
 
@@ -112,21 +105,16 @@ Après avoir configuré le programme et les campagnes, créez la nouvelle public
    >
    >**Exemple**
    >
-   >
    >Voici comment ajouter toutes les informations que vous avez configurées dans une URL réelle. Les éléments sont séparés par une esperluette (&amp;) :
    >
+   >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >[www.marketo.com ?**source**=Social-Paid&amp;**comment**=Social-Paid_Facebook_NewGuide_NA&amp;**camp**=abc&amp;**kk=**xyz](http://www.marketo.com?source=Social-Paid&amp;comment=Social-Paid_Facebook_NewGUide_NA&amp;camp=abc&amp;kk+xyz)
-   >
-   >    
-   >    
-   >    * **** source est la source personnelle utilisée comme identifiant de canal.
-   >    * **** commente l&#39;identifiant unique créé pour chaque programme
-   >    * **** campagne est la campagne dans Facebook, LinkedIn ou Google
-   >    * **** kkis le mot-clé ou le nom de fichier à capturer
+   >* **** source est la source personnelle utilisée comme identifiant de canal.
+   >* **** commente l&#39;identifiant unique créé pour chaque programme
+   >* **** campagne est la campagne dans Facebook, LinkedIn ou Google
+   >* **** kkis le mot-clé ou le nom de fichier à capturer
 
-   >    
-   >    
+   >
    >**Ces quatre termes doivent être en minuscules et l’URL ne peut contenir aucun espace pour que ces informations soient capturées.**
 
 ## Bonnes pratiques {#best-practices}
