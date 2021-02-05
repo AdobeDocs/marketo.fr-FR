@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: Champion/Challenger - Configurer des alertes de rapport - Docs marketing - Documentation du produit
 title: Champion/Challenger - Configurer des alertes de rapport
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,8 @@ Marketo vous enverra des rapports sur la façon dont se déroule le test par cou
 
    Le rapport comprendra des détails utiles, tels que : type de test, critères de réussite, nombre d’ouvertures de courrier électronique, etc. Il y aura également un lien direct vers le test lui-même, vous permettant de déclarer le gagnant ! C&#39;est cool.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
