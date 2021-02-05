@@ -3,7 +3,7 @@ unique-page-id: 2359953
 description: Personnes ayant extrait du contenu - Documents marketing - Documentation du produit
 title: Personnes ayant extrait du contenu
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -60,4 +60,3 @@ Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a
    >[!NOTE]
    >
    >Ce numéro sera mis à jour immédiatement après chaque diffusion.
-
