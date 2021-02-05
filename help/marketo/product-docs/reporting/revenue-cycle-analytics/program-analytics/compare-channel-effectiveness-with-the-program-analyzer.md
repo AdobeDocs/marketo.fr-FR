@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Comparer l'efficacité des Canaux à l'analyseur de Programme - Documentation sur le marketing - Documentation sur les produits
 title: Comparer l'efficacité des Canaux avec l'analyseur de Programme
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ Dans notre exemple, nous constatons que le canal Tradeshow est à la fois le plu
 >
 >Les exemples de ces étapes mesurent l&#39;efficacité en fonction du pipeline créé. Utilisez la liste déroulante Axe Y pour sélectionner d’autres méthodes de mesure de l’efficacité du canal, telles que Nouveaux noms, Membres, Coût par réussite, etc.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Explorez les détails sur les Programmes et les Canaux à l&#39;aide de l&#39;analyseur de Programmes](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Comparer l&#39;efficacité des Programmes avec l&#39;analyseur de Programme](compare-program-effectiveness-with-the-program-analyzer.md)
