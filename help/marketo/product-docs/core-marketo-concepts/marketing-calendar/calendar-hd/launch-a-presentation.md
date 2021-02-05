@@ -3,9 +3,9 @@ unique-page-id: 7504120
 description: Lancer une présentation - Documents marketing - Documentation du produit
 title: Lancement d’une présentation
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Une fois que vous avez défini les vues et la fréquence de rotation de votre présentation, il est temps de vous faire exploser !
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
