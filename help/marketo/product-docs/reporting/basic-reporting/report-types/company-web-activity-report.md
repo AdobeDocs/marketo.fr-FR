@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Rapport sur les Activités Web société - Documents marketing - Documentation du produit
 title: Rapport Activité Web société
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Créez un rapport [Activité de page Web](web-page-activity-report.md) pour iden
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Affichage de personnes ou de Visiteurs anonymes dans les rapports Web](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
