@@ -3,9 +3,9 @@ unique-page-id: 2360405
 description: Créez un rapport d'Analyse d'adhésion Programme qui Liste les pistes - Docs marketing - Documentation sur les produits
 title: Créer un rapport d'Analyse d'adhésion Programme qui Liste les pistes
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Suivez ces étapes pour créer un rapport d&#39;Analyse d&#39;adhésion Programme qui vous montrera tous les noms de membres de programme.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
@@ -33,7 +32,7 @@ Suivez ces étapes pour créer un rapport d&#39;Analyse d&#39;adhésion Programm
 
    ![](assets/three.png)
 
-1. Recherchez et cliquez sur le point jaune Nom du Programme avec le doublon.
+1. Recherchez et cliquez sur le point jaune Nom du Programme avec le doublon de la souris.
 
    ![](assets/four.png)
 
