@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Activer la barre de recommandation du contenu - Documents marketing - Documentation du produit
 title: Activation de la barre de recommandation de contenu
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,6 @@ Le moteur de recommandation de contenu utilise des analyses prédictives et des 
 * Plus le contenu s’exécute dans le moteur de recommandation, mieux l’algorithme peut le tester et savoir quel contenu fonctionne le mieux. Nous vous recommandons de commencer par 10 à 20 éléments de contenu en cours d&#39;exécution et principal et de continuer à en ajouter de nouveaux.
 * L’élément de contenu que vous activez pour la recommandation doit inclure la balise JavaScript RTP. Cela permet à l’algorithme de suivre et d’optimiser le contenu recommandé.
 
->[!NOTE]
-**Articles connexes**
+>[!MORELIKETHIS]
 * [Activer le contenu prédictif pour les médias enrichis en ligne](enable-predictive-content-for-web-rich-media.md)
 
