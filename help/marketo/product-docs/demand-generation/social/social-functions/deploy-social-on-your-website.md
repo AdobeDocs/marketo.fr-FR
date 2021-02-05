@@ -3,9 +3,9 @@ unique-page-id: 2950524
 description: Déployer Social sur votre site Web - Documents marketing - Documentation du produit
 title: Déploiement de Social sur votre site Web
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Incorporez des applications sociales sur vos pages non marketing.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Contactez votre représentant commercial pour plus de détails.
 
@@ -27,7 +25,7 @@ Vous pouvez déployer des applications sociales sur votre propre site Web afin d
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Sélectionnez **Incorporer** **Code****** dans Actions de l’application Social.
+1. Sélectionnez **Intégrer le code** dans Actions de l’application Social.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,19 +41,15 @@ Vous pouvez déployer des applications sociales sur votre propre site Web afin d
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Si vous devez définir la taille de l’application sociale sur des dimensions spécifiques de votre page, ajoutez les options **outerHeight** et **outerWidth** au deuxième fragment de code. Par exemple, vous pouvez ajouter options=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;, comme dans :
+1. Si vous devez définir la taille de l’application sociale sur des dimensions spécifiques de votre page, ajoutez les options **outerHeight** et **outerWidth** au deuxième fragment de code. Par exemple, vous pouvez ajouter `options='{"outerHeight":400, "outerWidth":600}'`, comme dans :
 
    ![](assets/socialonsite-resizewidget2.png)
 
    Votre application sociale Marketo ajoute désormais du contenu et de l’interactivité à votre site Web, invitant les fans, les visiteurs et les clients existants à faire passer le message à votre sujet. Dans le même temps, il ajoute les données de leur profil à votre base de données et suit les mesures d’influence sociale.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >    
-   >    
-   >* [Personnalisation du bouton de l’application Social](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [Définition des besoins en partage sur les réseaux sociaux](set-social-share-requirement.md)
-   >* [Publication de Landings page sur Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Personnalisation du bouton de l’application Social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [Définition des besoins en partage sur les réseaux sociaux](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [Publication de Landings page sur Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
 
