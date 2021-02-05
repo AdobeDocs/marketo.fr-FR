@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: Définir une Audience avec une Liste intelligente - Docs marketing - Documentation du produit
 title: Définir une Audience avec une Liste dynamique
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Cliquez sur le numéro pour obtenir une liste détaillée des personnes bloquée
 >
 >Utilisez le bouton ![—](assets/image2014-10-23-16-3a32-3a36.png) de la mosaïque d’Audience pour voir combien de personnes recevront le courrier électronique.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Choisir un courriel existant](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [Créer un courriel pour un Programme de courriel](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
