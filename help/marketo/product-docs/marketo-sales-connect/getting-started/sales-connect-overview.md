@@ -1,11 +1,11 @@
 ---
 unique-page-id: 13796464
-description: Présentation de la connexion commerciale - Documentation marketing - Documentation du produit
+description: Présentation de la connexion commerciale - Documents marketing - Documentation du produit
 title: Présentation de la connexion commerciale
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,14 @@ ht-degree: 0%
 
 Marketing Sales Connect est une solution d&#39;assistance commerciale à multiples facettes dotée de diverses fonctions, qui vous aide à stimuler l&#39;engagement tout au long du cycle de vente.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre responsable de succès client.
 
 ## Flux en direct {#the-live-feed}
 
-Les représentants commerciaux peuvent [vue &lt;a0/>d&#39;engagement en temps réel](http://docs.marketo.com/x/d4TS) du contenu marketing et commercial.
+Les représentants commerciaux peuvent [vue d&#39;engagement en temps réel](http://docs.marketo.com/x/d4TS) du contenu marketing et commercial.
 
 ![](assets/engagement.jpg)
 
