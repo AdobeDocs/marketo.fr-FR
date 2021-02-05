@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: Tableau de bord d’engagement - Documents marketing - Documentation du produit
 title: Le Tableau de bord d'engagement
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Tableau de bord d’engagement {#the-engagement-dashboard}
 
-Le Tableau de bord d’engagement est le moyen le plus simple de déterminer les performances du contenu de vos [programmes d’engagement](http://docs.marketo.com/display/docs/drip+nurturing).
+Le Tableau de bord d’engagement est le moyen le plus simple de déterminer les performances du contenu de votre programme d’engagement.
 
 >[!NOTE]
 >
->Le score d’engagement est calculé 72 heures après chaque diffusion. En savoir plus sur le [score d&#39;engagement](understanding-the-engagement-score.md).
+>Le score d’engagement est calculé 72 heures après chaque diffusion. En savoir plus sur le [score d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Vue du Tableau de bord d’engagement {#view-the-engagement-dashboard}
 
-Sélectionnez votre programme d’engagement et cliquez sur **Vue > Tableau de bord**.
+Sélectionnez votre programme d’engagement et cliquez sur **Vue** > **Tableau de bord**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Consultez le rapport [performances du flux d’engagement](engagement-stream-performance-report.md) pour obtenir des statistiques plus détaillées.
+>Consultez le rapport [performances du flux d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) pour obtenir des statistiques plus détaillées.
 
 ## Comprendre le widget d&#39;épuisement {#understand-the-exhaustion-widget}
 
@@ -47,9 +47,7 @@ Ce widget vous permet de prévoir quand les pistes auront épuisé tout le conte
 
 Indique le score d’engagement moyen au fil du temps et l’impact des modifications de contenu.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Cette fonctionnalité est disponible en tant que module complémentaire pour les clients qui utilisent l’Explorateur de cycle de revenu de Marketing. Pour plus d’informations, contactez votre responsable de succès client.
 
@@ -69,11 +67,8 @@ Pour modifier le tri, cliquez sur l’icône d’engrenage, puis sélectionnez l
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-** Newestand  ** Oldestare basé sur l&#39;heure de la dernière approbation.
+__ Newestand  __ Oldestare basé sur l&#39;heure de la dernière approbation.
 
 >[!NOTE]
 >
->**Plongée profonde**
->
->Pour en savoir plus, consultez la section [Création d’un Programme d’engagement](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) plongée en profondeur.
-
+>Pour en savoir plus, consultez la section [Création d’un Programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) plongée en profondeur.
