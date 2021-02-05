@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: Planification d’un courrier électronique - Documents marketing - Documentation du produit
 title: Planification d’un courrier électronique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,8 @@ Suivez ces étapes simples pour planifier un courriel.
    >
    >Les messages électroniques planifiés peuvent être affichés/modifiés dans la section Dossiers planifiés du Centre de commandes.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >
    >[Présentation du centre de commandes](http://docs.marketo.com/x/kgDb)
