@@ -3,9 +3,9 @@ unique-page-id: 2359447
 description: Créer une segmentation - Documents marketing - Documentation du produit
 title: Création d’une segmentation
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ La segmentation vous permet de regrouper des personnes en profils distincts pour
    >
    >Vous devez définir des règles de segmentation avant de pouvoir utiliser votre segmentation.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
