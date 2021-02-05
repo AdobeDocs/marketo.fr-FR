@@ -3,7 +3,7 @@ unique-page-id: 2359819
 description: Utiliser des codes promotionnels pour l'exécution des Offres - Documents marketing - Documentation du produit
 title: Utiliser des codes promotionnels pour l'exécution des Offres
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Lorsque vous créez une offre de référence ou un tirage, vous pouvez envoyer u
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. Dans l’éditeur d’offres de référence, accédez à **Paramètres de l’application**, puis **Détails de l’Offre.**
+1. Dans l’éditeur d’offres de référence, accédez à **Paramètres de l’application**, puis **Détails de l’Offre**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
@@ -39,7 +39,6 @@ Lorsque vous créez une offre de référence ou un tirage, vous pouvez envoyer u
 
    >[!CAUTION]
    >
-   >
    >Tout espace blanc dans le fichier de codes promotionnels est traité comme faisant partie du code de cette ligne. Veillez à éviter les espaces à la fin de chaque ligne.
 
 1. Une fois le transfert terminé, le nombre total de codes téléchargés s’affiche.
@@ -52,7 +51,7 @@ Une fois que les participants ont début de recevoir votre récompense d&#39;off
 
 >[!NOTE]
 >
->Seuls les utilisateurs du marketing disposant de l&#39;autorisation *Access Awards* ont accès à ces informations. Voir [Gestion des rôles et des autorisations des utilisateurs](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Seuls les utilisateurs du marketing disposant de l&#39;autorisation _Access Awards_ ont accès à ces informations. Voir [Gestion des rôles et des autorisations des utilisateurs](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Accédez à **Activités marketing**.
 
