@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: Envoyer un courriel d'exécution d'Offre de référence - Documents marketing - Documentation du produit
 title: Envoyer un courriel d'exécution d'Offre de référence
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Récompensez vos clients avec des coupons et des codes de remise à l&#39;aide d
 
 >[!PREREQUISITES]
 >
->* [Utiliser des courriers électroniques dans les promotions sociales](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [Créer une Offre de référence](create-a-referral-offer.md)
-
->
-
+>* [Utiliser des courriers électroniques dans les promotions sociales](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [Créer une Offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 
 ## Configurer la Diffusion d&#39;exécution {#set-up-fulfillment-delivery}
@@ -30,11 +27,9 @@ Récompensez vos clients avec des coupons et des codes de remise à l&#39;aide d
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. Sous **Paramètres de l&#39;application**, sélectionnez **Détails de l&#39;Offre.**
+1. Sous **Paramètres de l’application**, sélectionnez **Détails de l’Offre**.
 
-   ** ![](assets/image2015-4-23-12-3a53-3a16.png)
-
-   **
+   ![](assets/image2015-4-23-12-3a53-3a16.png)
 
 1. Sélectionnez un **courriel d&#39;inscription**.
 
@@ -46,10 +41,7 @@ Récompensez vos clients avec des coupons et des codes de remise à l&#39;aide d
 
    >[!NOTE]
    >
-   >**Plongée profonde**
-   >
-   >
-   >En savoir plus sur [l’utilisation des courriers électroniques dans les promotions sociales](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >En savoir plus sur [l’utilisation des courriers électroniques dans les promotions sociales](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
 1. Cliquez sur la liste déroulante **Diffusion d’exécution** et sélectionnez **auto sur l’objectif**.
 
@@ -65,7 +57,7 @@ Vous pouvez envoyer manuellement un courrier électronique d’exécution à une
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. Cliquez sur l’option **Filtrer par **et sélectionnez **Objectif**.
+1. Cliquez sur l&#39;option **Filtrer par** et sélectionnez **Objectif**.
 
    >[!NOTE]
    >
