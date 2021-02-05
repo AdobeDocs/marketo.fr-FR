@@ -3,7 +3,7 @@ unique-page-id: 2359821
 description: Définition des exigences de partage sur les réseaux sociaux - Documents marketing - Documentation sur les produits
 title: Définition des besoins en partage sur les réseaux sociaux
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Définition de la condition de partage sur les réseaux sociaux {#set-social-share-requirement}
 
-Lorsque vous [créez une offre de référence](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez demander à des personnes de partager l&#39;offre pour s&#39;inscrire ou la rendre facultative.
+Lorsque vous [créez une offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez demander à des personnes de partager l&#39;offre pour s&#39;inscrire ou la rendre facultative.
 
 1. Accédez à **Activités marketing**.
 
@@ -31,10 +31,9 @@ Lorsque vous [créez une offre de référence](../../../../product-docs/demand-g
 
    ![](assets/four.png)
 
-   * **Capture de la personne > Partager** : Une personne peut ignorer le partage et simplement s&#39;inscrire.
-   * **Partager > Capture** de personne : La personne doit partager pour s&#39;inscrire.
+   * **Capture**  de la personne>  **Partager** : Une personne peut ignorer le partage et simplement s&#39;inscrire.
+   * **Share** >  **Person Capture** : La personne doit partager pour s&#39;inscrire.
 
 1. Pour chaque option, voir la prévisualisation dans la fenêtre **Vue et modification**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
-
