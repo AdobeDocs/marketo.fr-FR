@@ -3,7 +3,7 @@ unique-page-id: 2359910
 description: Modifier la disponibilité du contenu du flux - Documents marketing - Documentation du produit
 title: Modifier la disponibilité du contenu du flux
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Vous pouvez définir une période pour que le contenu soit principal dans votre 
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Sélectionnez la date **Principal de**, puis la **Principale **date et cliquez sur **Enregistrer**.
+1. Sélectionnez la date **Principal du**, puis la date **Principale du** et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
@@ -31,5 +31,6 @@ Vous pouvez définir une période pour que le contenu soit principal dans votre 
    >
    >Vous pouvez laisser **Principal traversé** vide pour rendre le contenu disponible pour toujours.
 
-   Parfait ! L’icône représentant une horloge s’affiche en regard du contenu planifié. Il deviendra principal et inactif selon la planification que vous avez définie.   ![](assets/image2014-9-15-17-3a36-3a4.png)
+   Parfait ! L’icône représentant une horloge s’affiche en regard du contenu planifié. Il deviendra principal et inactif selon la planification que vous avez définie.
 
+   ![](assets/image2014-9-15-17-3a36-3a4.png)
