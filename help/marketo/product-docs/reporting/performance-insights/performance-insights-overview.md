@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: Présentation des statistiques de performances - Documents marketing - Documentation du produit
 title: Présentation des informations sur les performances
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Les statistiques de performances du marketing vous aident à optimiser votre combinaison de canaux pour une efficacité maximale, ainsi qu&#39;à découvrir les tendances à long terme pour identifier des stratégies gagnantes cohérentes.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients ne disposent pas de la fonction Performance Insights. Pour plus d’informations, contactez votre responsable de succès client.
 
