@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: Début principal pour les Programmes électroniques - Documents marketing - Documentation du produit
 title: Début principal pour les Programmes électroniques
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Cela signifie que si vous êtes en Amérique/Los Angeles et que vous souhaitez a
 
 [En savoir ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) plus sur la planification des programmes de messagerie avec fuseau horaire Destinataire.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Planification de votre Programme de messagerie](schedule-your-email-program.md)
 >* [Planification des Programmes de courriel avec fuseau horaire Destinataire](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
