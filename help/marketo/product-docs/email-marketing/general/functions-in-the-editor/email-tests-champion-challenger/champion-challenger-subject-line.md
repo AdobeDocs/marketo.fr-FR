@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: Champion/Challenger -Objet Line - Marketo Docs - Documentation du produit
 title: Champion/Challenger - Objet Line
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ Vous pouvez facilement tester plusieurs lignes d’objet. Lorsque le test est te
 
    Progrès ! Continuons.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >
    >[Champion/Challenger : Définir des critères de champion](champion-challenger-define-champion-criteria.md)
