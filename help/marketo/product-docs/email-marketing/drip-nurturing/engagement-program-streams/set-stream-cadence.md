@@ -3,7 +3,7 @@ unique-page-id: 2359665
 description: Définir le cadence du flux - Documents marketing - Documentation du produit
 title: Définir la cadence du flux
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -21,11 +21,11 @@ Vous pouvez envoyer le contenu de l’engagement à n’importe quel intervalle.
 
    ![](assets/login-marketing-activities.png)
 
-1. Recherchez et sélectionnez votre programme d’engagement, cliquez sur l’onglet **Flux **, puis sur **Définir le cadence de diffusion**.
+1. Recherchez et sélectionnez votre programme d’engagement, cliquez sur l’onglet **Flux**, puis sur **Définir le cadence de diffusion**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Sélectionnez la fréquence à laquelle la cadence doit se répéter. Vous pouvez choisir** Hebdomadaire** ou **Mensuel**.
+1. Sélectionnez la fréquence à laquelle la cadence doit se répéter. Vous pouvez choisir **Hebdomadaire** ou **Mensuel**.
 
 ## {#weekly} hebdomadaire
 
@@ -35,7 +35,7 @@ Vous pouvez envoyer le contenu de l’engagement à n’importe quel intervalle.
 
    >[!NOTE]
    >
-   >Si vous sélectionnez **Aucun **vous fermez le flux.
+   >Si vous sélectionnez **Aucun**, le flux s’arrête.
 
 1. Choisissez la date de la première distribution.
 
@@ -51,9 +51,10 @@ Vous pouvez envoyer le contenu de l’engagement à n’importe quel intervalle.
 
    >[!TIP]
    >
-   >Vous pouvez définir votre cadence pour qu’elle s’exécute tous les jours en sélectionnant **Répétées : Hebdomadairement** /** Chaque : 1 semaine** /** ****On**: tous les jours.
+   >Vous pouvez définir votre cadence pour qu’elle s’exécute tous les jours en sélectionnant **Répétées : Hebdomadairement** / **Toutes les : 1 Semaine** / **On** : tous les jours.
 
-   Maintenant, sélectionnez l&#39;Heure. Cochez la case si vous souhaitez utiliser [Fuseau horaire du Destinataire](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (c’est-à-dire diffuser selon les fuseaux horaires locaux), puis cliquez sur Enregistrer.
+   Maintenant, sélectionnez l&#39;Heure. Cochez la case si vous souhaitez utiliser [Fuseau horaire du Destinataire](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(c’est-à-dire diffuser selon les fuseaux horaires locaux), puis cliquez sur **Enregistrer**.
+
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -72,7 +73,7 @@ C&#39;est tout ! Continuez à lire si vous souhaitez configurer une cadence mens
 
 ## Mois {#monthly}
 
-1. Sélectionnez **Mensuel **pour connaître la fréquence de ses répétitions.
+1. Sélectionnez **Mensuel** pour connaître la fréquence à laquelle il se répète.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -108,10 +109,6 @@ Maintenant, vous savez comment mettre en place une cadence de flux !
 
 >[!MORELIKETHIS]
 >
->* [Présentation du fuseau horaire Destinataire](../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Planification des Programmes d’engagement avec fuseau horaire Destinataire](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-
->
-
-
+>* [Présentation du fuseau horaire Destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Planification des Programmes d’engagement avec fuseau horaire Destinataire](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
