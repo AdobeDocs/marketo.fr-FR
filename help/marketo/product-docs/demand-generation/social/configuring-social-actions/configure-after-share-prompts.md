@@ -3,7 +3,7 @@ unique-page-id: 2359813
 description: Configuration des invites après le partage - Documents marketing - Documentation du produit
 title: Configuration des invites après le partage
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Dans les applications de bouton social, de partage de vidéos et de sondage, vou
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Dans l’éditeur d’applications sociales, accédez à **Paramètres de l’application*********, puis à **Options avancées**.
+1. Dans l’éditeur d’applications sociales, accédez à **Paramètres de l’application**, puis à **Options avancées**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -57,4 +57,3 @@ Dans les applications de bouton social, de partage de vidéos et de sondage, vou
 1. Modifiez l’adresse électronique de la demande et l’invite marketing (si vous l’avez incluse).
 
    ![](assets/image2015-4-21-12-3a52-3a49.png)
-
