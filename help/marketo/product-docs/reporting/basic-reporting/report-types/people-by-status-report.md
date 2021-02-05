@@ -3,9 +3,9 @@ unique-page-id: 2360012
 description: Rapport Personnes par statut - Documents marketing - Documentation du produit
 title: Rapport Personnes par état
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ Examinez comment vous déplacez les personnes tout au long du processus en véri
    >
    >Cliquez sur le signe plus (+) pour développer chaque mois et afficher les chiffres spécifiques pour chaque état de personne.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >
    >[Utilisez une liste intelligente pour filtrer votre ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) rapport sur des personnes spécifiques.
