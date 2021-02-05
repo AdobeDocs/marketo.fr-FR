@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Page d'informations sur les ventes pour les administrateurs du marketing - Documents marketing - Documentation du produit
 title: Page d'informations commerciales pour les administrateurs du marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,8 @@ Par défaut, le module Marketing Sales Insight utilise le champ Score de piste p
    >
    >Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment [les créer](http://docs.marketo.com/x/3wMk).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >
    >[Etoiles et flammes](http://docs.marketo.com/x/qgU6Ag)
