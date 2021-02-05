@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: Ajouter une application mobile - Documents marketing - Documentation du produit
 title: Ajouter une application mobile
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,8 @@ Envoyez des notifications Push à votre base de clients en connectant votre appl
 
 Les applications sont normalement débuts dans un environnement de sandbox, où le développement et les tests initiaux sont effectués. Les développeurs utilisent ensuite un environnement de production pour créer l’application finale qui sera utilisée par les clients. Vous devez sélectionner le certificat de notification approprié lors de l’ajout d’une application mobile (voir l’étape 4 ci-dessous).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
