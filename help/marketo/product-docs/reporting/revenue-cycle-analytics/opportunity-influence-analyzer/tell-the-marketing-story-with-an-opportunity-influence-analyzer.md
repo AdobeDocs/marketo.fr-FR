@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Racontez l’article marketing à l’aide d’un analyseur d’influence d’opportunité - Documentation sur le marketing - Documentation du produit
 title: Analyseur d’influence d’opportunité pour raconter l’article marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,8 @@ Utilisez un analyseur d&#39;influence d&#39;opportunité pour illustrer le rôle
 
    Cliquez sur d&#39;autres points oranges le long de la chronologie pour suivre l&#39;histoire des événements, programmes et moments intéressants qui ont contribué à créer et à fermer l&#39;opportunité.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >
    >    
