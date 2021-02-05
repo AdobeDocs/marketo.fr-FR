@@ -3,9 +3,9 @@ unique-page-id: 2359799
 description: Publication d’un tirage au sort - Documents marketing - Documentation du produit
 title: Publication d’un tirage
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,13 @@ ht-degree: 0%
 
 # Publier un tirage {#publish-a-sweepstakes}
 
-Une fois que vous avez [créé un tirage](create-sweepstakes.md), vous pouvez le publier sur vos landings page Marketo, sur votre site Web et sur votre Facebook.
+Une fois que vous avez [créé un tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez le publier sur vos landings page Marketo, sur votre site Web et sur votre Facebook.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
 >[!NOTE]
->
->**Rappel**
 >
 >Avant de publier votre offre, vérifiez qu’elle est conforme à toutes les lois, règles et réglementations applicables.
 
@@ -41,12 +37,9 @@ Une fois que vous avez [créé un tirage](create-sweepstakes.md), vous pouvez le
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >Vous devez approuver votre tirage pour le rendre disponible ici.
 
-   [publier le landing page sur ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebook placer le tirage sur votre site Web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   Félicitations ! Approuvez le landing page et votre tirage est en direct. Vous pouvez également [publier le landing page sur Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer le tirage sur votre site Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >
@@ -54,6 +47,4 @@ Une fois que vous avez [créé un tirage](create-sweepstakes.md), vous pouvez le
 
    >[!NOTE]
    >
-   >Une fois que les utilisateurs ont début à s&#39;inscrire, n&#39;oubliez pas de revenir à l&#39;application pour [sélectionner les gagnants du tirage](select-sweepstakes-winners.md) !
-
-Félicitations ! Approuvez le landing page et votre tirage est en direct. Vous pouvez également ou .
+   >Une fois que les utilisateurs ont début à s&#39;inscrire, n&#39;oubliez pas de revenir à l&#39;application pour [sélectionner les gagnants du tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md) !
