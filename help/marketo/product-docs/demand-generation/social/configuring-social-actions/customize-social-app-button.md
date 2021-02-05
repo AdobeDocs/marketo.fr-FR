@@ -3,7 +3,7 @@ unique-page-id: 2359759
 description: Bouton Personnaliser l’application sociale - Documentation marketing - Documentation du produit
 title: Personnalisation du bouton de l’application Social
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Personnaliser le bouton de l’application Social {#customize-social-app-button}
 
-Lorsque vous créez un [bouton social](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) ou une [offre de référence](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez personnaliser l’aspect des boutons.
+Lorsque vous créez un [bouton social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) ou une [offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez personnaliser l’aspect des boutons.
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez l’application, puis cliquez sur **Modifier le brouillon.**
+1. Sélectionnez l’application, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
@@ -61,5 +61,4 @@ Lorsque vous créez un [bouton social](../../../../product-docs/demand-generatio
 
 >[!MORELIKETHIS]
 >
->Pour un bouton social, [configurez quand il s’ouvre](configure-when-social-button-opens.md). Pour une offre de référence, [spécifiez l&#39;objectif d&#39;offre](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
-
+>Pour un bouton social, [configurez quand il s’ouvre](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Pour une offre de référence, [spécifiez l&#39;objectif d&#39;offre](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
