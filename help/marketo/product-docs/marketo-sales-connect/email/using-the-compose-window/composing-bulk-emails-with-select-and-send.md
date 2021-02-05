@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: Composition d'e-mails en masse avec sélection et envoi - Documents marketing - Documentation du produit
 title: Composition de courriels en vrac avec sélection et envoi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -93,9 +93,8 @@ Effectuer des mises à jour en masse avant de personnaliser chaque courrier éle
 
    ![](assets/each-four.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
