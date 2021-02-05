@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: Notes de mise à jour - Hiver 18 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Hiver 18
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Ces améliorations seront mises en oeuvre en 2018.
 
 ## [Informations sur les performances du marketing](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Performance Insights est un produit complémentaire. Veuillez contacter votre responsable de succès client ou votre responsable de compte pour obtenir un devis.
 
