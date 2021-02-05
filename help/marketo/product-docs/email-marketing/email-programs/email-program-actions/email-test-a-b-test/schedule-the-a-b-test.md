@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Planification du test A/B - Documents marketing - Documentation du produit
 title: Planification du test A/B
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,8 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
 
    En supposant que vous ayez déjà défini votre audience et choisi un courriel, la seule étape qui reste est d&#39;approuver le programme.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
