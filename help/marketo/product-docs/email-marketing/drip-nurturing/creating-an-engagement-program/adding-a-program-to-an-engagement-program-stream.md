@@ -3,7 +3,7 @@ unique-page-id: 10098134
 description: Ajouter un Programme à un flux de Programme d’engagement - Documents marketing - Documentation du produit
 title: Ajouter un Programme à un flux de Programme d’engagement
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -57,10 +57,6 @@ Le rapports change avec l’emplacement du courrier électronique. Ainsi, par ex
 
 >[!MORELIKETHIS]
 >
->* [Ajouter du contenu à un flux](add-content-to-a-stream.md)
->* [Présentation des Programmes](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
-
->
-
-
+>* [Ajouter du contenu à un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Présentation des Programmes](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 
