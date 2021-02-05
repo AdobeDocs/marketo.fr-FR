@@ -3,9 +3,9 @@ unique-page-id: 2359930
 description: Archivage et désarchivage du contenu du flux - Documentation sur le marketing - Documentation sur le produit
 title: Archivage et désarchivage du contenu du flux
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Archivage et désarchivage du contenu du flux {#archive-and-unarchive-stream-content}
 
-Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous pouvez le [supprimer](remove-stream-content.md) ou l’archiver. Voici comment archiver du contenu.
+Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous pouvez le [supprimer](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) ou l’archiver. Voici comment archiver du contenu.
 
 >[!TIP]
 >
@@ -33,11 +33,11 @@ Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous po
 
 ## Désarchiver le contenu du flux {#unarchive-stream-content}
 
-1. Sélectionnez votre programme d’engagement et accédez à l’onglet Flux.
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux**.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Cliquez sur l&#39;icône d&#39;engrenage de votre flux, puis sur Afficher le contenu archivé.
+1. Cliquez sur l’icône d’engrenage de votre flux, puis sur **Afficher le contenu archivé**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
@@ -46,4 +46,3 @@ Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous po
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
    Parfait ! Ce contenu peut désormais être hiérarchisé et activé.
-
