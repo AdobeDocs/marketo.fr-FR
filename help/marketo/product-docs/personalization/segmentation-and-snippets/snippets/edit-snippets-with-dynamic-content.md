@@ -3,9 +3,9 @@ unique-page-id: 2359466
 description: Modifier des extraits de code avec du contenu dynamique - Documents marketing - Documentation du produit
 title: Modification d’extraits de code avec du contenu dynamique
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ Utilisez la segmentation dans les extraits de code pour gérer facilement le con
 
 N&#39;était-ce pas si simple ? Vous êtes maintenant prêt à utiliser ces fragments de code sur les courriels et les Landings page.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Ajouter un extrait de code à un courriel](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [Ajouter un extrait de code à un Landing page](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
