@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Reciblage avec les données de personnalisation Web - Documentation marketing - Documentation du produit
 title: Reciblage avec les données de personnalisation Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Reciblage avec les données de personnalisation Web {#retargeting-with-web-personalization-data}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Le reciblage de site Web relève désormais du volet Personnalisation Web. Si vous avez acheté uniquement le ciblage, cette mosaïque s’affiche et accédez au produit Personnalisation Web avec **uniquement** les fonctionnalités de ciblage activées. Vous avez ainsi accès aux paramètres du compte, à la page de reciblage, aux segments et aux pages de suivi supplémentaires.
 
