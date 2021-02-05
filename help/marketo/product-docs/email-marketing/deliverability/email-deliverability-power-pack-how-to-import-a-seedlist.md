@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Livraison par courriel - Comment importer une liste de semences - Documentation sur le marketing - Documentation sur le produit
 title: Pack PowerPack de délivrabilité du courriel - Comment importer une liste de semences
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Une liste initiale est une liste de comptes de messagerie de plusieurs fournisseurs de boîtes aux lettres, y compris Google Apps, Hotmail, Yahoo!, etc., qui sont utilisés pour approcher le taux de délivrabilité de la boîte de réception par rapport au dossier de spam. Voici comment placer cette liste dans votre instance de marché.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
@@ -41,9 +39,9 @@ Une liste initiale est une liste de comptes de messagerie de plusieurs fournisse
 
    >[!NOTE]
    >
-   >Choisissez **Optimiser la Liste** si vous souhaitez que 250ok [optimise votre liste](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) pour vous. Choisissez** Personnaliser la Liste** si vous souhaitez sélectionner les régions de liste de sélection à inclure.
+   >Choisissez **Optimiser la Liste** si vous souhaitez que 250ok [optimise votre liste](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) pour vous. Sélectionnez **Personnaliser la Liste** si vous souhaitez sélectionner les régions de la liste de sélection à inclure.
 
-1. Après l’exportation, la liste s’affichera sous la forme d’un fichier .txt dans le dossier des téléchargements de votre navigateur. Récupérez-la et [importez](../../../getting-started/quick-wins/import-a-list-of-people.md)-la dans votre instance Marketo en tant que liste statique.
+1. Après l’exportation, la liste s’affichera sous la forme d’un fichier .txt dans le dossier des téléchargements de votre navigateur. Récupérez-la et [importez](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)-la dans votre instance Marketo en tant que liste statique.
 
    ![](assets/five.png)
 
