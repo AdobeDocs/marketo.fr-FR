@@ -3,7 +3,7 @@ unique-page-id: 10096409
 description: Evitez d’envoyer du contenu Duplicata - Docs marketing - Documentation du produit
 title: Evitez d’envoyer du contenu Duplicata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Une personne reçoit un courrier électronique envoyé par le moteur d’engagem
 | Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans un programme CEE **différent** | Membre du programme par défaut | Non |
 | Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans un programme CEE **différent** | Non membre du programme par défaut | Oui |
 | Un programme CEE **différent** utilisant un flux dynamique | Un membre des deux programmes CEE | Non |
-
