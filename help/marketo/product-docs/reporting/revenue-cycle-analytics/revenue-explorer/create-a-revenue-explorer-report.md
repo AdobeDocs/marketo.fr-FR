@@ -3,9 +3,9 @@ unique-page-id: 7504047
 description: Créer un rapport Explorateur de recettes - Documents marketing - Documentation sur les produits
 title: Créer un rapport Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Le rapport Explorateur de recettes vous permet de suivre le RSI de vos initiatives marketing.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
