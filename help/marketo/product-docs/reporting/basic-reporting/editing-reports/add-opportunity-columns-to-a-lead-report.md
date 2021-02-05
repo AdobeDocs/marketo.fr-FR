@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: Ajouter les colonnes d'opportunité à un rapport de piste - Documents marketing - Documentation du produit
 title: Ajouter les colonnes d'opportunité à un rapport de piste
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,8 @@ Pour afficher les statistiques sur les opportunités dans vos rapports [personne
    | Jours avant fermeture | Nombre moyen de jours pour fermer les opportunités. |
    | Jours de vente | Durée moyenne du cycle de vente (jours jusqu&#39;à l&#39;opportunité + jours avant la fermeture). |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >
    >Découvrez comment [gérer la taille de votre rapport](configure-report-size.md).
