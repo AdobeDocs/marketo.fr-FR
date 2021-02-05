@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Gérer les données du Profil Social - Documents marketing - Documentation du produit
 title: Gérer les données de Profil Social
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Gérer les données du Profil social {#manage-social-profile-data}
 
-Lorsqu’un utilisateur interagit avec une [application sociale](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) de Marketo ou autorise son réseau social à préremplir un formulaire Marketo avec [remplissage de formulaire social](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo capture toutes les données disponibles à partir de son profil social. Vous pouvez vue ces informations sur la [page Détails sur la personne](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page) ou les ajouter sous forme de colonne dans une [vue personnalisée d&#39;une liste intelligente](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List).
+Lorsqu’un utilisateur interagit avec une [application sociale](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) de Marketo ou autorise son réseau social à préremplir un formulaire Marketo avec [remplissage de formulaire social](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo capture toutes les données disponibles à partir de son profil social. Vous pouvez vue ces informations sur la [page Détails sur la personne](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) ou les ajouter sous forme de colonne dans une [vue personnalisée d&#39;une liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
 Le remplissage de formulaires sociaux et les applications sociales capturent des ensembles de champs légèrement différents ; voir la section pour chacun des éléments ci-dessous.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
@@ -58,7 +56,7 @@ Selon les paramètres de confidentialité du réseau et de l’utilisateur, un o
 
 >[!CAUTION]
 >
->Les données capturées par le remplissage de formulaires sociaux remplacent les champs correspondants, sauf si vous [bloquez les mises à jour de ces champs au niveau du formulaire](../../../../product-docs/administration/field-management/block-updates-to-a-field.md).
+>Les données capturées par le remplissage de formulaires sociaux remplacent les champs correspondants, sauf si vous [bloquez les mises à jour de ces champs au niveau du formulaire](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
 ## Sur Twitter : {#from-twitter-1}
 
@@ -77,15 +75,8 @@ Selon les paramètres de confidentialité du réseau et de l’utilisateur, un o
 
 >[!NOTE]
 >
->Le remplissage de formulaire Social capture l’adresse électronique *uniquement* si la personne l’entre dans le formulaire. Si vous avez besoin de l’adresse électronique, vous devez [en faire un champ obligatoire dans votre formulaire](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>Le remplissage de formulaire Social capture l’adresse électronique _uniquement_ si la personne l’entre dans le formulaire. Si vous avez besoin de l’adresse électronique, vous devez [en faire un champ obligatoire dans votre formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
 >[!MORELIKETHIS]
 >
->Pour capturer ces informations à partir de formulaires, activez [remplissage de formulaire social](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
-
->[!NOTE]
->
->**Plongée profonde**
->
->Pour en savoir plus sur l’utilisation des formulaires dans la plongée profonde [Forms](http://docs.marketo.com/display/docs/forms).
-
+>Pour capturer ces informations à partir de formulaires, activez [remplissage de formulaire social](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
