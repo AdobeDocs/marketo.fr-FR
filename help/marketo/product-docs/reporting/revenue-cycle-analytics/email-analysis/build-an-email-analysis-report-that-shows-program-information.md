@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Créez un rapport d'Analyse par courriel qui affiche des informations sur le Programme - Documents marketing - Documentation sur le produit
 title: Création d’un rapport d’Analyse par courriel qui affiche des informations sur le Programme
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Pour créer un rapport d’Analyse par courriel qui affiche les informations par programme canal, procédez comme suit.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
