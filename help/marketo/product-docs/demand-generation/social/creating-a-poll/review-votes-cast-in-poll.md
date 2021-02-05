@@ -3,9 +3,9 @@ unique-page-id: 2359777
 description: Vérifier les votes exprimés dans le sondage - Documents marketing - Documentation du produit
 title: Vérifier le nombre de votes dans le sondage
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,6 @@ Qui a voté pour quoi dans votre sondage ? Voyons voir.
 
    ![](assets/image2015-5-12-14-3a37-3a24.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >
-   >En savoir plus sur la portée sociale et l’impact de vos applications dans [Vue Social Performance](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
-
+   >En savoir plus sur la portée sociale et l’impact de vos applications dans [Vue Social Performance](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
