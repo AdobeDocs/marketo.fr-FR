@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: Rapport Activité Campaign - Documents marketing - Documentation du produit
 title: Rapport Activité Campaign
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ Découvrez les performances de vos [campagnes dynamiques](http://docs.marketo.co
    | Déclenché (Principal) | Campagnes déclenchées en cours dans l&#39;onglet **Activités marketing**. |
    | Déclenché (Inactif) | Inactif a déclenché des campagnes dans l&#39;onglet **Activités marketing**. |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
