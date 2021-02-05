@@ -3,9 +3,9 @@ unique-page-id: 2359837
 description: Déclencheurs et Filtres pour les Activités sociales - Documentation sur le marketing - Documentation du produit
 title: Déclencheurs et Filtres pour les Activités sociales
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,15 @@ ht-degree: 0%
 
 Les applications sociales de Marketo disposent de leurs propres déclencheurs et filtres spéciaux.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-1. Pour utiliser les déclencheurs *sociaux*, sélectionnez votre campagne intelligente et cliquez sur l&#39;onglet **Liste dynamique**. Sur la droite, cliquez sur le + pour développer **Déclencheurs**, puis **Social**.
+1. Pour utiliser les déclencheurs _sociaux_, sélectionnez votre campagne intelligente et cliquez sur l&#39;onglet **Liste dynamique**. Sur la droite, cliquez sur le + pour développer **Déclencheurs**, puis **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Pour utiliser les *filtres* sociaux, cliquez sur **+** pour développer les **Filtres**.
+1. Pour utiliser les _filtres_ sociaux, cliquez sur **+** pour développer les **Filtres**.
 
    ![](assets/two-282-29.png)
 
@@ -44,9 +42,6 @@ Les applications sociales de Marketo disposent de leurs propres déclencheurs et
    | Votes au scrutin |  | ![(coche)](assets/check.svg) |  |  |  |
    | Gagnante des tirages |  |  |  |  | ![(coche)](assets/check.svg) |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
-   >
-   >* [Performances des réseaux sociaux vue](view-social-performance.md)
-
+   >[Performances des réseaux sociaux vue](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
