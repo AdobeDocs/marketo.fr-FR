@@ -3,9 +3,9 @@ unique-page-id: 2360008
 description: Affichage de personnes ou de Visiteurs anonymes dans les rapports Web - Documents marketing - Documentation du produit
 title: Affichage de personnes ou de Visiteurs anonymes dans les rapports Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >[Ajouter le code de suivi Munchkin sur votre site Web](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-Dans les rapports [Activité de page Web](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) et [Société Activité Web](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md), vous pouvez voir [des &lt;a4/>personnes ou des visiteurs anonymes](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) qui visitent votre site. Les visiteurs anonymes ont déduit des données, comme la zone métropolitaine.  Voici comment déterminer si le rapport affiche des pistes connues ou des visiteurs anonymes.
+Dans les rapports [Activité de page Web](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) et [Société Activité Web](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md), vous pouvez voir [des personnes ou des visiteurs anonymes](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) qui visitent votre site. Les visiteurs anonymes ont déduit des données, comme la zone métropolitaine.  Voici comment déterminer si le rapport affiche des pistes connues ou des visiteurs anonymes.
 
 1. Dans votre rapport Activité de page Web, cliquez sur **Configuration**.
 
@@ -39,9 +39,7 @@ Dans les rapports [Activité de page Web](../../../../product-docs/reporting/bas
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Suivi des Activités et des personnes anonymes](tracking-anonymous-activity-and-people.md)
 
