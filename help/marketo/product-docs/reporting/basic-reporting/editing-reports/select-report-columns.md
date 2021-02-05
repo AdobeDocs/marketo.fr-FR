@@ -3,9 +3,9 @@ unique-page-id: 2359994
 description: Sélectionner les colonnes du rapport - Documents marketing - Documentation du produit
 title: Sélectionner les colonnes du rapport
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ Vous pouvez choisir les colonnes qui sont incluses ou non dans votre rapport.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
