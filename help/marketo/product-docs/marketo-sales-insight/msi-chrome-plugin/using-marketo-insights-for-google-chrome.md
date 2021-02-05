@@ -3,9 +3,9 @@ unique-page-id: 7512944
 description: Utilisation de Marketo Insights pour Google Chrome - Marketo Docs - Documentation du produit
 title: Utilisation de Marketing Cloud Insights pour Google Chrome
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,8 @@ Vous pouvez consigner les réponses et les anciennes activités dans l&#39;histo
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
