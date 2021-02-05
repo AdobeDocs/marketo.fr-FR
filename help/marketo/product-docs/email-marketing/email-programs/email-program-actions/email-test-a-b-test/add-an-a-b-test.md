@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: Ajouter un test A/B - Documents marketing - Documentation du produit
 title: Ajouter un test A/B
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Les tests sont un excellent moyen d&#39;optimiser vos courriels pour un meilleur
    >
    >Si votre base de données contient des enregistrements de duplicata, ces enregistrements recevront **à la fois** le test et les courriers électroniques gagnants. Pour éviter cela, veillez à [rechercher et à fusionner des personnes de duplicata](http://docs.marketo.com/x/G4EI) dans votre base de données.
 
->[!NOTE]
->
->**Articles connexes**
+>[!MORELIKETHIS]
 >
 >* [Utiliser le test A/B &quot;Objet Line&quot;](use-subject-line-a-b-testing.md)
 >* [Utiliser le test A/B &quot;Courrier électronique complet&quot;](use-whole-email-a-b-testing.md)
