@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Prise en main de Sales Connect - Marketo Docs - Documentation sur les produits
 title: Prise en main de Sales Connect
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Si vous préférez regarder ces étapes plutôt que de les lire, passez directement aux [Instructions vidéo ci-dessous](#video).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre responsable de succès client.
 
