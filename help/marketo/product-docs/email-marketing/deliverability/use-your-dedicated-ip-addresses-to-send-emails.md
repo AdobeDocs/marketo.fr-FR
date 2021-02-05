@@ -3,9 +3,9 @@ unique-page-id: 1900587
 description: Utilisez vos adresses IP dédiées pour envoyer des courriers électroniques - Documents marketing - Documentation du produit
 title: Utiliser vos adresses IP dédiées pour envoyer des courriers électroniques
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 L&#39;envoi à partir d&#39;une ou de plusieurs adresses IP dédiées vous permet de contrôler entièrement votre réputation d&#39;envoi.
 
->[!NOTE]
->
->**Disponibilité**
+>[!AVAILABILITY]
 >
 >Une adresse IP dédiée est un produit complémentaire. Tout le monde ne pourra pas ajouter une IP dédiée à son programme. Vous devez envoyer plus de 100 000 courriels par mois et disposer d’une cadence de campagne stable pour gérer une adresse IP dédiée. Contactez votre CSM pour plus d’informations sur la façon d’ajouter une adresse IP dédiée à votre programme Marketing Cloud.
 >
->Si vous envoyez moins de 100 000 courriels par mois et/ou si vous avez des volumes de campagne variables et/ou si vous êtes un expéditeur saisonnier, vous ne pourrez pas conserver une adresse IP dédiée. Marketo conserve un pool partagé d’adresses IP approuvées distinct pour les clients qui respectent les meilleures pratiques strictes. Si vous le souhaitez, veuillez remplir [ce questionnaire](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) pour demander à l’Programme IP approuvé de Marketo.
+>Si vous envoyez moins de 100 000 courriels par mois et/ou si vous avez des volumes de campagne variables et/ou si vous êtes un expéditeur saisonnier, vous ne pourrez pas conserver une adresse IP dédiée. Marketo conserve un pool partagé d’adresses IP approuvées distinct pour les clients qui respectent les meilleures pratiques strictes. Si vous le souhaitez, veuillez remplir [ce questionnaire](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) pour demander à l’Programme IP approuvé de Marketo.
 
 Tous les comptes Marketo sont débuts sur une adresse IP partagée, ce qui vous permet d’début immédiat de l’envoi. Si vous ajoutez une adresse IP dédiée, vous collaborerez avec les consultants en délivrabilité pour planifier l&#39;approvisionnement de l&#39;adresse IP.
 
@@ -40,9 +38,8 @@ Pour optimiser la délivrabilité à long terme, l’offre des conseillers en d�
 
 >[!TIP]
 >
->Gardez votre base de données propre pour maintenir votre délivrabilité élevée. [L’Adobe ](http://www.adobe.com/legal/terms/aup.html) exige que les clients n’envoient des communications marketing qu’aux personnes qui ont choisi ou demandé de recevoir un courrier électronique. Ne pas spammer.
+>Gardez votre base de données propre pour maintenir votre délivrabilité élevée. [L’Adobe ](https://www.adobe.com/legal/terms/aup.html) exige que les clients n’envoient des communications marketing qu’aux personnes qui ont choisi ou demandé de recevoir un courrier électronique. Ne pas spammer.
 
 >[!CAUTION]
 >
->Si vous rencontrez un grand nombre de rebonds ou tout autre problème, contactez le [Support marketing](http://nation.marketo.com/t5/Support/ct-p/Support). Si vous souhaitez obtenir une assistance plus ciblée pour savoir comment gérer une base de données propre et augmenter l’engagement avec votre programme, les conseillers en livrabilité du courriel de Marketo peuvent être sollicités pour un forfait de services personnalisés.
-
+>Si vous rencontrez un grand nombre de rebonds ou tout autre problème, contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support). Si vous souhaitez obtenir une assistance plus ciblée pour savoir comment gérer une base de données propre et augmenter l’engagement avec votre programme, les conseillers en livrabilité du courriel de Marketo peuvent être sollicités pour un forfait de services personnalisés.
