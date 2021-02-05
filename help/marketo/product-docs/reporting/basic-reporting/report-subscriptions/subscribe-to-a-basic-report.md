@@ -3,9 +3,9 @@ unique-page-id: 2359987
 description: S’abonner à un rapport de base - Documents marketing - Documentation du produit
 title: S’abonner à un rapport de base
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,8 @@ Pour recevoir les mises à jour automatiques d&#39;un [rapport de base](http://d
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >
    >Découvrez comment [gérer tous vos abonnements de rapports](manage-report-subscriptions.md) en un seul endroit.
