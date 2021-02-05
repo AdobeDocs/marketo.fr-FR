@@ -3,9 +3,9 @@ unique-page-id: 2360219
 description: Configurer une signature DKIM personnalisée - Documents marketing - Documentation du produit
 title: Configurer une signature DKIM personnalisée
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de
 
    >[!NOTE]
    >
-   >
    >Si vous configurez une signature DKIM personnalisée à l’ancienne manière, elle continuera à fonctionner et devrait s’afficher ici.
 
 1. Cliquez sur **Courriel**, puis sur l&#39;onglet **DKIM** et enfin **Ajouter le domaine**.
@@ -37,7 +36,6 @@ Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de
 1. Entrez le domaine que vous utiliserez dans les courriers électroniques de Marketo comme adresse de départ et cliquez sur **Ajouter**.
 
    >[!TIP]
-   >
    >
    >Si vous utilisez un autre domaine dans votre adresse de départ, nous utiliserons la signature DKIM partagée par Marketing Cloud.
 
@@ -53,14 +51,10 @@ Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
    >Si la confirmation échoue et que votre service informatique a créé l&#39;enregistrement correctement, il peut s&#39;agir d&#39;une propagation DNS. Réessayez plus tard.
 
    >[!CAUTION]
    >
-   >
    >La modification/suppression de l&#39;enregistrement DNS correspondant entraînera une délivrabilité endommagée. Veillez à supprimer l’entrée dans Marketo avant d’effectuer des modifications DNS.
 
    Cela vous aidera à livrer votre courrier électronique. Vous devriez obtenir la validation que l&#39;enregistrement est là et correct.
-
