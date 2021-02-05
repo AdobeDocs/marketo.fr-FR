@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: Ajouter des colonnes personnalisées à un rapport Personne - Documents marketing - Documentation du produit
 title: Ajouter des colonnes personnalisées à un rapport Personne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,8 @@ Vous pouvez filtrer davantage les mesures dans vos rapports [personne](http://do
 
    ![](assets/five-1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >
    >Vous pouvez également [Ajouter des colonnes d&#39;opportunité à un rapport de piste](add-opportunity-columns-to-a-lead-report.md).
