@@ -3,7 +3,7 @@ unique-page-id: 2359839
 description: Test d’un flux d’engagement - Documents marketing - Documentation du produit
 title: Test d’un flux d’engagement
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les te
 
    ![](assets/two.png)
 
-1. Cliquez sur** Actions de Programme** et sélectionnez **Test Stream**.
+1. Cliquez sur **Actions de Programme** et sélectionnez **Test Stream**.
 
    ![](assets/three.png)
 
-1. Sélectionnez votre personne dans la liste déroulante **Personne à tester **. Rappelez-vous, le contenu va effectivement sortir, alors gardez cela à l&#39;esprit quand vous choisissez.
+1. Sélectionnez votre personne dans la liste déroulante **Tester la personne**. Rappelez-vous, le contenu va effectivement sortir, alors gardez cela à l&#39;esprit quand vous choisissez.
 
    ![](assets/four-rubix.png)
 
@@ -42,7 +42,7 @@ Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les te
    Cliquez sur Flux initial, sélectionnez le flux à tester, puis cliquez sur Exécuter le flux.
    ![](assets/five-rubiks.png)
 
-1. Après avoir passé en revue les [règles de transition](transition-people-between-engagement-streams.md) précédemment configurées, cliquez sur l’icône Actualiser.
+1. Après avoir passé en revue les [règles de transition](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) précédemment configurées, cliquez sur l’icône Actualiser.
 
    ![](assets/six-rubiks.png)
 
@@ -54,5 +54,4 @@ Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les te
 
    >[!NOTE]
    >
-   >Aucun autre contenu ne sera envoyé à moins que vous ne cliquiez sur **Exécuter **à nouveau.
-
+   >Aucun autre contenu ne sera envoyé à moins que vous ne cliquiez sur **Exécuter à nouveau**.
