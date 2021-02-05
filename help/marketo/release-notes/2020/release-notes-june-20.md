@@ -3,9 +3,9 @@ unique-page-id: 37357276
 description: Notes de mise à jour - 20 juin - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - Juin 20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '1091'
+source-wordcount: '1090'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Les fonctionnalités suivantes sont incluses dans la version du 20 juin. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Les fonctions signalées par une étoile ( ![(star)](assets/star-yellow.svg)) peuvent être des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
 
@@ -60,11 +59,11 @@ Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et
 
 **
 
-* **Intégration** des Programmes Marketo Engage : Récupérez les données de programme directement du Marketo Engage pour créer des points de contact le long du parcours d’attribution dans Bizible afin de créditer de manière appropriée les programmes d’engagement et d’e-mail. Amélioration de notre intégration Marketo Engage.
-* **Intégration`<sup>BETA</sup>`** des Activités Marketo Engage : Intégrer directement les données d’activité des Marketo Engage dans la bibliothèque afin de créer des points de contact tout au long du parcours du client et de tous les modèles d’attribution. Par exemple, les changements de score de piste, les moments intéressants, les clics par courriel ou toute activité personnalisée. Amélioration de notre intégration Marketo Engage.
+* **Intégration** des Programmes Marketo Engage : Récupérez les données de programme directement du Marketo Engage pour créer des points de contact le long du parcours d’attribution dans Bizible afin de créditer correctement les programmes d’engagement et d’e-mail. Amélioration de notre intégration Marketo Engage.
+* **Intégration`<sup>BETA</sup>`** des Activités Marketo Engage : Placez les données d’activité Marketo Engage directement dans la bibliothèque prête à l’emploi pour créer des points de contact sur le parcours client et tous les modèles d’attribution. Par exemple, les changements de score de piste, les moments intéressants, les clics par courriel ou toute activité personnalisée. Amélioration de notre intégration Marketo Engage.
 * **Intégration`<sup>BETA</sup>`** des attributs du client B2B lisible : Il s&#39;agit d&#39;une intégration Adobe Experience Cloud avec Adobe Analytics qui vous permet d&#39;apporter directement des données lisibles à Adobe Analytics pour une analyse plus approfondie. Par exemple, le trafic du site basé sur le compte et l’analyse du contenu par nom de société, les attributs de compte, les opportunités de gestion de la relation client et les personnes à forte valeur ajoutée, comme défini par les recettes attribuées et l’étape de l’entonnoir.
 * **Filtres et améliorations de Discover visibles :** analysez vos données avec des filtres de canal, de sous-canal, de campagne et de segment d’un tableau de bord à l’autre. Améliorez la visibilité des données grâce à des attributs plus détaillés. Il s’agit d’une amélioration pour nos panoramas Discover.
-* **Synchronisation des Activités pour Microsoft Dynamics** : Attribuez les interactions de vente en apportant les activités Microsoft Dynamics CRM au parcours de contact et en suivant les événements tels que les appels, les rendez-vous ou les tâches associés à vos prospects ou contacts. Amélioration de notre intégration Microsoft Dynamics CRM.
+* **Synchronisation des Activités pour Microsoft Dynamics** : Attribuez les interactions de vente en apportant les activités Microsoft Dynamics CRM au parcours de points de contact et en suivant les événements tels que les appels, les rendez-vous ou les tâches associés à vos prospects ou contacts. Amélioration de notre intégration Microsoft Dynamics CRM.
 
 **Sales Insight ![(star)](assets/star-yellow.svg)
 
