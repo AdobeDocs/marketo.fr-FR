@@ -3,9 +3,9 @@ unique-page-id: 10097873
 description: Définir une Liste dynamique pour les Activités de contenu prédictif - Documents marketing - Documentation du produit
 title: Définition d’une Liste dynamique pour les Activités de contenu prédictif
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -72,9 +72,8 @@ Vous pouvez utiliser des activités de contenu prédictif dans les déclencheurs
 
    [définir une liste intelligente pour une campagne par lot](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
