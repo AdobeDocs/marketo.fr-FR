@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: Utiliser le test A/B "Entier Email" - Documents marketing - Documentation du produit
 title: Utiliser le test A/B "Courrier électronique complet"
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,8 @@ Vous pouvez facilement tester vos e-mails A/B. Le test **Entier le courriel** co
 
    Ok, nous sommes presque là. Nous devons maintenant [définir les critères de gagnant du test A/B](define-the-a-b-test-winner-criteria.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
