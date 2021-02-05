@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Installation de l'Ajoute Marketo pour Outlook avec une clé d'entreprise - Docs Marketo - Documentation du produit
 title: Installation de l'Ajoute Marketo pour Outlook avec une clé d'entreprise
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Souvent, les commerciaux n&#39;ont pas de privilèges administratifs sur leurs o
 
    C&#39;est tout ! Ensuite, le représentant commercial va passer par le [processus d&#39;enregistrement](authorize-the-marketo-outlook-plugin.md). Vous pouvez leur envoyer un lien vers les instructions (voir **Articles liés au marketing**).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
