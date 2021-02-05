@@ -3,9 +3,9 @@ unique-page-id: 2359793
 description: Utiliser des courriers électroniques dans les promotions sociales - Documents marketing - Documentation du produit
 title: Utiliser des courriers électroniques dans les promotions sociales
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Utiliser des courriers électroniques dans les promotions sociales {#use-emails-in-social-promotions}
 
-Lorsque vous créez une [offre de renvoi](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou un tirage [, vous pouvez inclure des courriers électroniques à envoyer lorsque la personne s&#39;inscrit, puis à nouveau lorsque la personne a gagné la récompense.](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
+Lorsque vous créez une [offre de renvoi](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou un tirage [, vous pouvez inclure des courriers électroniques à envoyer lorsque la personne s&#39;inscrit, puis à nouveau lorsque la personne a gagné la récompense.](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
 
 >[!TIP]
 >
->Pour créer un courrier électronique, voir [Envoyer un message électronique ](../../../../getting-started/quick-wins/send-an-email.md).
+>Pour créer un courrier électronique, voir [Envoyer un message électronique ](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 Dans les courriels, utilisez les jetons suivants :
 
 * **Courriel** d&#39;inscription : Utilisez  **`{{social.Share Url}}`** pour envoyer à chaque participant un lien de partage personnalisé.
 
-* **Adresse électronique** d’exécution : Utilisez  **`{{social.Promo Code}}`** pour envoyer à chaque gagnant un code [ de ](use-promo-codes-for-offer-fulfillment.md)promotion.
+* **Adresse électronique** d’exécution : Utilisez  **`{{social.Promo Code}}`** pour envoyer à chaque gagnant un code [ de ](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)promotion.
 
 >[!PREREQUISITES]
 >
->Avant de pouvoir ajouter un courrier électronique à une application sociale, il doit être *opérationnel* et *approuvé*. Voir [Modifier les paramètres pour un courrier électronique](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>Avant de pouvoir ajouter un courrier électronique à une application sociale, il doit être _opérationnel_ et _approuvé_. Voir [Modifier les paramètres pour un courrier électronique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Accédez à **Activités marketing**.
 
@@ -59,22 +59,19 @@ Dans les courriels, utilisez les jetons suivants :
 
 >[!NOTE]
 >
->Lors d’un tirage, le courrier électronique d’exécution est toujours envoyé automatiquement lorsque vous [sélectionnez le gagnant](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
+>Lors d’un tirage, le courrier électronique d’exécution est toujours envoyé automatiquement lorsque vous [sélectionnez le gagnant](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
 
 >[!NOTE]
 >
 >**Définition**
 >
 >* **auto sur objectif** : Le courrier électronique d’exécution est envoyé automatiquement lorsque chaque participant atteint l’objectif.
->* **envoi** manuel : Une fois que les personnes ont début d’atteindre l’objectif, retournez à votre offre de référence pour  [envoyer manuellement le courrier électronique](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) d’exécution.
+>* **envoi** manuel : Une fois que les personnes ont début d’atteindre l’objectif, retournez à votre offre de référence pour  [envoyer manuellement le courrier électronique](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) d’exécution.
 
 >
 
 
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articles connexes**
->
->Vous pouvez ensuite [choisir l’URL de partage](choose-the-share-url-for-a-social-app.md) ou, dans votre offre de référence, [télécharger les codes promotionnels](use-promo-codes-for-offer-fulfillment.md) que vous enverrez.
-
+>Vous pouvez ensuite [choisir l’URL de partage](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) ou, dans votre offre de référence, [télécharger les codes promotionnels](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) que vous enverrez.
