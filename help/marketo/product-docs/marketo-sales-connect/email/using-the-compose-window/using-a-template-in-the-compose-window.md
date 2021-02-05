@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: Utilisation d'un modèle dans la fenêtre Composer - Documents marketing - Documentation du produit
 title: Utilisation d’un modèle dans la fenêtre Composer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,8 @@ Favoris **jusqu’à cinq** catégories de modèle spécifiques pour accéder ra
    >
    >**** Favoris par défaut. Il contient les modèles de courrier électronique favoris, pas les catégories.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articles connexes**
    >
    >    
    >    
