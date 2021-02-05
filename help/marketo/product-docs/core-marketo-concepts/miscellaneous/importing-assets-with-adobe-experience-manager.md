@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Importation de fichiers avec Adobe Experience Manager - Documents marketing - Documentation du produit
 title: Importation de fichiers avec Adobe Experience Manager
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Le Sélecteur de ressources permet aux clients de Marketing d’accéder à des fichiers, de les sélectionner et de les importer AEM dans Design Studio de Marketo. **Les autorisations d’administrateur sont requises**.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilité**
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre responsable de succès client.
 
