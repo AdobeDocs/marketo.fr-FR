@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: Utiliser les tests A/B "Date/Heure" - Documents marketing - Documentation du produit
 title: Utiliser les tests A/B "Date/Heure"
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # Utiliser le test A/B &quot;Date/Heure&quot; {#use-date-time-a-b-testing}
 
-Vous pouvez facilement tester vos e-mails A/B. Un test est le **test Date/Heure **test. Ceci permet de tester l’heure ou le jour de la semaine où envoyer les courriers électroniques. Voici comment le configurer.
+Vous pouvez facilement tester vos e-mails A/B. Un test est le test **Date/Heure**. Ceci permet de tester l’heure ou le jour de la semaine où envoyer les courriers électroniques. Voici comment le configurer.
 
 >[!PREREQUISITES]
 >
->* [Ajouter un test A/B](add-an-a-b-test.md)
-
->
-
+>[Ajouter un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 
 1. Sous la mosaïque **E-mail**, cliquez sur **Ajouter le test A/B**.
@@ -57,16 +54,6 @@ Vous pouvez facilement tester vos e-mails A/B. Un test est le **test Date/Heure 
 
    >[!CAUTION]
    >
-   >**Nous vous recommandons d’éviter de définir la taille de l’échantillon à 100%**. Si vous utilisez une liste statique, la définition de la taille de l’échantillon à 100 % envoie le courriel à tous les membres de l’audience et le gagnant n’est envoyé à personne. Si vous utilisez une liste **smart**, la définition de la taille de l’échantillon à 100 % envoie le courriel à tous les membres de l’audience *à ce moment. *Lorsque le programme de messagerie s’exécute à nouveau à une date ultérieure, toute nouvelle personne remplissant les conditions requises pour la liste intelligente recevra également le courrier électronique puisqu’elle est désormais incluse dans l’audience.
+   >**Nous vous recommandons d’éviter de définir la taille de l’échantillon à 100%**. Si vous utilisez une liste statique, la définition de la taille de l’échantillon à 100 % envoie le courriel à tous les membres de l’audience et le gagnant n’est envoyé à personne. Si vous utilisez une liste **smart**, la définition de la taille de l’échantillon à 100 % envoie le courrier électronique à tous les utilisateurs de l’audience _à ce moment_. Lorsque le programme de messagerie s’exécute à nouveau à une date ultérieure, toute nouvelle personne remplissant les conditions requises pour bénéficier de la liste intelligente recevra également le courrier électronique puisqu’elle est désormais incluse dans l’audience.
 
-   [définir les critères de gagnant du test A/B](define-the-a-b-test-winner-criteria.md)
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Définition des critères de gagnant de test A/B](define-the-a-b-test-winner-criteria.md)
-
-
-Ok, nous sommes à un pas de plus. Maintenant nous devons le faire.
+   Ok, nous sommes à un pas de plus. Nous devons maintenant [définir les critères de gagnant du test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).
