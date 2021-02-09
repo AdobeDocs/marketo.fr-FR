@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: Planification des Programmes de courriel avec fuseau horaire Destinataire - Documentation sur le marketing - Documentation du produit
 title: Planification des Programmes de courriel avec fuseau horaire Destinataire
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -37,15 +37,12 @@ Vous disposez ainsi de deux options :
 >* **Effectuez le lendemain dans le fuseau horaire** du destinataire : si l&#39;e-mail doit sortir le mardi à 9 h 00, les personnes qualifiées qui vivent dans des fuseaux horaires dont l&#39;heure est déjà passée recevront l&#39;e-mail le  ** mercredi à 9 h 00.
    >
    >
-* **Diffusez à l’aide de l’heure** par défaut du programme : si le courrier électronique doit sortir le mardi à 9 h 00, les personnes qualifiées qui vivent dans des fuseaux horaires dont l’heure planifiée est déjà passée recevront le courrier électronique  *en fonction des paramètres* de fuseau horaire de votre abonnement. Par conséquent, si vos paramètres de fuseau horaire [s](../../../../../product-docs/administration/settings/select-your-language-locale-and-time-zone.md) [d&#39;abonnement ](../../../../../product-docs/administration/settings/set-default-location-settings-for-a-subscription.md) sont définis sur PDT America/Los Angeles, ces destinataires recevront toujours l&#39;e-mail le mardi à 9h00 HAP (quelle que soit l&#39;heure de leur fuseau horaire).
-
->
-
+* **Diffusez à l’aide de l’heure** par défaut du programme : si le courrier électronique doit sortir le mardi à 9 h 00, les personnes qualifiées qui vivent dans des fuseaux horaires dont l’heure planifiée est déjà passée recevront le courrier électronique  _en fonction des paramètres_ de fuseau horaire de votre abonnement. Ainsi, si vos [paramètres de fuseau horaire de l&#39;abonnement](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) sont définis sur PDT America/Los Angeles, ces destinataires recevront toujours le courriel mardi à 9 h (quelle que soit l&#39;heure de leur fuseau horaire).
 
 
 >[!NOTE]
 >
->[Découvrez ](https://docs.marketo.com/display/DOCS/Understanding+Recipient+Time+Zone#UnderstandingRecipientTimeZone-CalculatingTimeZone) comment Marketo calcule les fuseaux horaires pour les destinataires.
+>[Découvrez ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) comment Marketo calcule les fuseaux horaires pour les destinataires.
 
 Examinons ce scénario plus en détail. Supposons que vous soyez à San Francisco et que vous planifiez un courriel à 7h00 pour un **9h00** envoi. Dans votre liste intelligente, il y a des personnes des régions suivantes :
 
@@ -68,15 +65,15 @@ Une fois votre programme approuvé, il début en cours d’exécution dans les 1
 
 >[!NOTE]
 >
->Bien que le programme début le *processus* d&#39;envoi de courriers électroniques dans 15 minutes, les courriers électroniques ne seront pas *remis* à ce moment-là. Les destinataires recevront toujours des courriels en fonction des **paramètres de fuseau horaire** que vous choisissez.
+>Bien que le programme début le _processus_ d&#39;envoi de courriers électroniques dans 15 minutes, les courriers électroniques ne seront pas _remis_ à ce moment-là. Les destinataires recevront toujours des courriels en fonction des **paramètres de fuseau horaire** que vous choisissez.
 
 ## Scénario 2 : Plus de 25 heures {#scenario-more-than-hours}
 
 Dans ce second scénario, vous approuvez un programme de messagerie avec **fuseau horaire du Destinataire** activé et un délai de livraison planifié supérieur à 25 heures dans le futur. Dans ce cas, le programme s’exécute à l’heure planifiée dans le fuseau horaire **le plus ancien** du monde (UTC + 14:00). Il peut y avoir des personnes qui remplissent les conditions requises pour votre liste intelligente dans chaque fuseau horaire à travers le monde. Par conséquent, en commençant par le fuseau horaire le plus ancien, nous pouvons livrer le courriel à la date et à l&#39;heure prévues à tous les destinataires de leur fuseau horaire respectif.
 
-Début
+**Début**
 
-Parlons maintenant du fonctionnement de [Head Début](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) avec **Destinataire Time Fuseau**. Notre fonction de Début-tête actuel exige que le programme soit programmé au moins 12 heures à l&#39;avance. Qu&#39;est-ce que cela signifie pour le fuseau horaire Destinataire ? Rappelez-vous que lorsque le fuseau horaire du Destinataire est activé, nous débuts d’exécuter le programme de messagerie à l’heure planifiée dans le fuseau horaire le plus ancien (UTC +14:00). Par conséquent, pour activer **à la fois** Début principal et fuseau horaire du Destinataire, les programmes de courriel doivent être programmés **au moins 12 heures avant l&#39;heure planifiée en UTC +14:00.**
+Parlons maintenant du fonctionnement de [Head Début](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) avec **Destinataire Time Fuseau**. Notre fonction de Début-tête actuel exige que le programme soit programmé au moins 12 heures à l&#39;avance. Qu&#39;est-ce que cela signifie pour le fuseau horaire Destinataire ? Rappelez-vous que lorsque le fuseau horaire du Destinataire est activé, nous débuts d’exécuter le programme de messagerie à l’heure planifiée dans le fuseau horaire le plus ancien (UTC +14:00). Par conséquent, pour activer **à la fois** Début principal et fuseau horaire du Destinataire, les programmes de courriel doivent être programmés **au moins 12 heures avant l&#39;heure planifiée en UTC +14:00.**
 
 Cela signifie que si vous êtes en Amérique/Los Angeles et que vous souhaitez activer à la fois le fuseau horaire Début et Destinataire, vous devez planifier le programme **34 heures** à l&#39;avance. Comment en sommes-nous arrivés à ce chiffre ?
 
@@ -86,8 +83,8 @@ Cela signifie que si vous êtes en Amérique/Los Angeles et que vous souhaitez a
 
 En bref, les programmes de messagerie planifiés avec le fuseau horaire Destinataire doivent s’début à l’heure planifiée dans le fuseau horaire le plus ancien (c’est-à-dire, où il atteint minuit en premier) afin de prendre en compte chaque fuseau horaire. Donc, si vous planifiez un programme de courriel...
 
-* **avec une diffusion  *dans* 25 heures**, le programme début fonctionne dans un délai de 15 minutes. Les destinataires qui ont déjà dépassé l’heure planifiée recevront le courrier électronique en fonction des paramètres de fuseau horaire que vous avez choisis.
-* **avec une diffusion  ** *supérieure* à 25 heures dans le futur**, le programme début s&#39;exécute à l&#39;heure planifiée dans le fuseau horaire le plus ancien (UTC +14:00).
+* **avec une diffusion  _dans_ 25 heures**, le programme début fonctionne dans un délai de 15 minutes. Les destinataires qui ont déjà dépassé l’heure planifiée recevront le courrier électronique en fonction des paramètres de fuseau horaire que vous avez choisis.
+* **avec une diffusion de  _plus_  de 25 heures à l&#39;avenir**, le programme début s&#39;exécute à l&#39;heure planifiée dans le fuseau horaire le plus ancien (UTC +14:00).
 * **avec Début** principal, le programme début traite 12 heures avant l&#39;heure planifiée dans le fuseau horaire le plus ancien (UTC +14:00).
 
 >[!CAUTION]
@@ -96,11 +93,7 @@ En bref, les programmes de messagerie planifiés avec le fuseau horaire Destinat
 
 >[!MORELIKETHIS]
 >
->* [Présentation du fuseau horaire Destinataire](understanding-recipient-time-zone.md)
->* [Début principal pour les Programmes électroniques](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
->* [Abandonner la Diffusion des Programmes de courriel planifiés avec le fuseau horaire Destinataire](abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
-
->
-
-
+>* [Présentation du fuseau horaire Destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Début principal pour les Programmes électroniques](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [Abandonner la Diffusion des Programmes de courriel planifiés avec le fuseau horaire Destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
 
