@@ -3,9 +3,9 @@ unique-page-id: 1900593
 description: Création d’un courrier électronique pour un Programme électronique - Documents marketing - Documentation du produit
 title: Créer un courriel pour un Programme de courriel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,8 @@ ht-degree: 0%
 >* [Créer un Programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Définir une Audience avec une ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) liste dynamique  [Définir une Audience en imitant une Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
->
 
-
-
-Une fois que vous avez créé votre programme de messagerie et défini votre audience, vous voudrez choisir le courriel que vous envoyez. Vous pouvez [choisir un e-mail existant](choose-an-existing-email.md) ou en créer un à partir de rien. Voici comment créer un nouveau courriel.
+Une fois que vous avez créé votre programme de messagerie et défini votre audience, vous voudrez choisir le courriel que vous envoyez. Vous pouvez [choisir un e-mail existant](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou en créer un à partir de rien. Voici comment créer un nouveau courriel.
 
 1. Accédez à **Activités marketing**.
 
@@ -48,10 +45,4 @@ Une fois que vous avez créé votre programme de messagerie et défini votre aud
 
    ![](assets/five.png)
 
-Super ! Maintenant que nous avons créé un courriel à envoyer, [ajoutons un test A/B](email-test-a-b-test/add-an-a-b-test.md) ou passez directement à [la planification de votre programme de courriel](schedule-your-email-program.md).
-
->[!MORELIKETHIS]
->
->* [Ajouter un test A/B](email-test-a-b-test/add-an-a-b-test.md)
->* [Planification de votre Programme de messagerie](schedule-your-email-program.md)
-
+Super ! Maintenant que nous avons créé un courriel à envoyer, [ajoutons un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) ou passez directement à [la planification de votre programme de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
