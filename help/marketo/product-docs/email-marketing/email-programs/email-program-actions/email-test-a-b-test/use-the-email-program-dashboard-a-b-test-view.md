@@ -3,9 +3,9 @@ unique-page-id: 2359549
 description: Utiliser le Tableau de bord de Programme électronique - Vue de test A/B - Documentation sur le marketing - Documentation sur le produit
 title: Utiliser le Tableau de bord de Programme de courriel - Vue de test A/B
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utiliser le Tableau de bord de Programme de courriel - Vue de test A/B {#use-the-email-program-dashboard-a-b-test-view}
 
-Découvrez comment se comporte le [test A/B de votre programme de messagerie ](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) avec ce tableau de bord.
+Découvrez comment se comporte le [test A/B de votre programme de messagerie ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) avec ce tableau de bord.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -45,9 +45,4 @@ Cool tableau de bord, ne pensez-vous pas ?
 
 >[!MORELIKETHIS]
 >
->* [Utiliser le Tableau de bord de Programme de courriel](../../../../../product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
-
->
-
-
-
+>[Utiliser le Tableau de bord de Programme de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
