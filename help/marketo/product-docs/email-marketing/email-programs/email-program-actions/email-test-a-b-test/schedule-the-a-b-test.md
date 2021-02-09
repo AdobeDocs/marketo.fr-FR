@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Planification du test A/B - Documents marketing - Documentation du produit
 title: Planification du test A/B
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
 
 >[!PREREQUISITES]
 >
->* [Ajouter un test A/B](add-an-a-b-test.md)
-
->
-
-
+>[Ajouter un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >Pour les tests Date/Heure, il vous suffit de définir la date de réception du résumé des résultats du test.
 
-1. Sélectionnez la date Envoyer le test.
+1. Sélectionnez la date **Envoyer le test**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -43,9 +39,6 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >Seul le groupe de test recevra les variantes de test.
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
@@ -55,6 +48,7 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
    >Si vous choisissez de déclarer un gagnant manuellement, vous allez définir **Date/Heure d&#39;envoi du rapport** au lieu de **Date/Heure de fin d&#39;envoi du courrier**.
 
    Super ! Vous avez terminé, passez en revue le résumé et cliquez sur Fermer.
+
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
    Vous remarquerez que la mosaïque **Planification** est maintenant mise à jour.
@@ -69,9 +63,4 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Approuver/désapprouver un Programme de messagerie](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-
-
+   >[Approuver/désapprouver un Programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
