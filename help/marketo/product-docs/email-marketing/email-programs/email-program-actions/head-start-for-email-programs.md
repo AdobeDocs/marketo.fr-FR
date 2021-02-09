@@ -3,7 +3,7 @@ unique-page-id: 10097202
 description: Début principal pour les Programmes électroniques - Documents marketing - Documentation du produit
 title: Début principal pour les Programmes électroniques
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Créer un Programme de messagerie](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[Créer un Programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 Lorsque vous choisissez une date/heure pour un Programme de courriel, il détermine à quel moment le programme commencera à se traiter. Si vous souhaitez que vos courriers électroniques soient lancés à l’heure sélectionnée, Head Début vous offre cette option en traitant le programme à l’avance.
 
@@ -74,15 +70,11 @@ Cela signifie que si vous êtes en Amérique/Los Angeles et que vous souhaitez a
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[En savoir ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) plus sur la planification des programmes de messagerie avec fuseau horaire Destinataire.
+[En savoir ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) plus sur la planification des programmes de messagerie avec fuseau horaire Destinataire.
 
 >[!MORELIKETHIS]
 >
->* [Planification de votre Programme de messagerie](schedule-your-email-program.md)
->* [Planification des Programmes de courriel avec fuseau horaire Destinataire](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Présentation du fuseau horaire Destinataire](scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-
->
-
-
+>* [Planification de votre Programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Planification des Programmes de courriel avec fuseau horaire Destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Présentation du fuseau horaire Destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
