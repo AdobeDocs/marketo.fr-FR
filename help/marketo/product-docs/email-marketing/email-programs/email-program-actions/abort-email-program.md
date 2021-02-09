@@ -3,7 +3,7 @@ unique-page-id: 7504840
 description: Abandonner le Programme de courriel - Documents marketing - Documentation du produit
 title: Abandonner le Programme de courriel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Oups ! Appuie sur les freins ! Ce programme de messagerie ne doit pas sortir.
 >
 >Cet article est destiné à vous aider à éviter que les courriels ne sortent avant leur envoi. Il n&#39;y a aucun moyen de rappeler les courriels envoyés.
 
-1. Dans un programme électronique, cliquez sur **Abandonner le Programme.**
+1. Dans un programme électronique, cliquez sur **Abandonner le Programme**.
 
    ![](assets/dashboardleads.jpg)
 
-1. Cliquez sur **Abandonner **pour une confirmation complète.
+1. Cliquez sur **Abandonner** pour obtenir une confirmation complète.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 
