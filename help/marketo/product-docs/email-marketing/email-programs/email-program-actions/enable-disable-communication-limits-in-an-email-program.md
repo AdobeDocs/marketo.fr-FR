@@ -3,9 +3,9 @@ unique-page-id: 2359596
 description: Activer/désactiver les limites de communication dans un Programme de courriel - Documents marketing - Documentation du produit
 title: Activer/désactiver les limites de communication dans un Programme de courriel
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Activer/désactiver les limites de communication dans un Programme de courriel {#enable-disable-communication-limits-in-an-email-program}
 
-Lors de l’exécution d’un programme de messagerie, vous pouvez choisir d’ignorer ou de respecter la limite de communication au niveau administrateur [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md) [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Voici comment le faire.
+Lors de l’exécution d’un programme de messagerie, vous pouvez choisir d’ignorer ou de respecter les [limites de communication au niveau administrateur](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Voici comment le faire.
 
 >[!NOTE]
 >
->**Définition**
->
->Les limites de communication sont [définies dans la section Admin](../../../../product-docs/administration/email-setup/enable-communication-limits.md) et vous aident à éviter d’envoyer une personne trop de courriers électroniques.
+>Les limites de communication sont [définies dans la section Admin](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) et vous aident à éviter d’envoyer une personne trop de courriers électroniques.
 
 1. Accédez à **Activités marketing**.
 
@@ -38,4 +36,3 @@ Lors de l’exécution d’un programme de messagerie, vous pouvez choisir d’i
    ![](assets/ifaperson.jpg)
 
    Si vous laissez **Bloquer les courriers électroniques non opérationnels** cochés, vous n&#39;aurez pas à envoyer le courrier électronique à quiconque a reçu plus de courriers électroniques que ce que vos paramètres d&#39;administration autorisent.
-
