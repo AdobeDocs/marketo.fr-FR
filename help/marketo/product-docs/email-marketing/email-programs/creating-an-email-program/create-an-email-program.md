@@ -3,9 +3,9 @@ unique-page-id: 1900591
 description: Création d’un Programme de courriel - Documents marketing - Documentation du produit
 title: Créer un Programme de messagerie
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,8 @@ Utilisez les programmes de messagerie pour envoyer rapidement et facilement un c
 
 Sympa ! Remarquez que le programme est maintenant dans l&#39;arbre et prêt à être utilisé. L&#39;étape suivante sera de définir votre audience. Reportez-vous aux articles connexes au marketing ci-dessous.
 
-## Visionnage d’une vidéo {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!MORELIKETHIS]
 >
->* [Définir une Audience avec une Liste dynamique](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Définition d’une Audience en important une Liste](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
->
-
-
+>* [Définir une Audience avec une Liste dynamique](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Définition d’une Audience en important une Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
