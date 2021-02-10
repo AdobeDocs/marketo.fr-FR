@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: Création d’un jeton de script de courrier électronique - Documents marketing - Documentation du produit
 title: Création d’un jeton de script de courrier électronique
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Créer un jeton de script de courrier électronique {#create-an-email-script-token}
 
-Pour les développeurs avancés, vous pouvez utiliser [des scripts Velocity](http://velocity.apache.org/engine/1.7/user-guide.html) dans vos courriels. Voici comment le faire.
+Pour les développeurs avancés, vous pouvez utiliser [des scripts Velocity](https://velocity.apache.org/engine/1.7/user-guide.html) dans vos courriels. Voici comment le faire.
 
 1. Accédez à **Activités marketing**.
 
@@ -45,17 +45,14 @@ Pour les développeurs avancés, vous pouvez utiliser [des scripts Velocity](htt
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >Si vous tapez des jetons en forme libre, veillez à vérifier/activer tous les jetons correspondants dans l&#39;arborescence ou ils seront traités comme du texte brut et ne fonctionneront pas.
 
 1. Écrivez votre script dans Velocity. Voici quelques ressources utiles :
 
-   * [Documentation sur les scripts de courrier électronique destinée aux développeurs du marketing](http://developers.marketo.com/email-scripting/)
-   * [Guide de l&#39;utilisateur Velocity](http://velocity.apache.org/engine/devel/user-guide.html)
-   * [Guide de référence Velocity](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Outils Velocity Javadoc](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [Documentation sur les scripts de courrier électronique destinée aux développeurs du marketing](https://developers.marketo.com/email-scripting/)
+   * [Guide de l&#39;utilisateur Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [Guide de référence Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Outils Velocity Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. Une fois votre script terminé, cliquez sur **Enregistrer**.
 
@@ -69,9 +66,4 @@ Vous pouvez désormais utiliser ce jeton dans vos courriels. Il exécute le scri
 
 >[!MORELIKETHIS]
 >
->* [Ajouter un jeton de script de courrier électronique à votre adresse électronique](add-an-email-script-token-to-your-email.md)
-
->
-
-
-
+>[Ajouter un jeton de script de courrier électronique à votre adresse électronique](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
