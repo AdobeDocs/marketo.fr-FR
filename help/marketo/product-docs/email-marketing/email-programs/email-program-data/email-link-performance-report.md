@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: Rapport de performances des liens de courriel - Documentation marketing - Documentation du produit
 title: Rapport Performance des liens de courriel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Créez un rapport Performances des liens de courriel afin de déterminer les performances des liens de vos courriels.
 
-1. [Créez un rapport dans un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programme et sélectionnez  **** Performances des liens de courriel comme type de rapport.
+1. [Créez un rapport dans un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programme et sélectionnez  **** Performances des liens de courriel comme type de rapport.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -27,7 +27,7 @@ Créez un rapport Performances des liens de courriel afin de déterminer les per
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Définissez une période appropriée pour votre rapport. Cliquez sur **Enregistrer. **
+1. Définissez une période appropriée pour votre rapport. Cliquez sur **Enregistrer**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
@@ -39,7 +39,7 @@ Créez un rapport Performances des liens de courriel afin de déterminer les per
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[Les colonnes ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) disponibles pour un rapport Performance de lien de courriel sont les suivantes :
+[Les colonnes ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) disponibles pour un rapport Performance de lien de courriel sont les suivantes :
 
 <table> 
  <thead> 
@@ -74,20 +74,10 @@ Créez un rapport Performances des liens de courriel afin de déterminer les per
 
 >[!TIP]
 >
->Si vous souhaitez savoir exactement ce qu&#39;une personne a fait, vous pouvez ouvrir le [journal d&#39;Activité](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) dans la page [Détails de la personne](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) à partir de l&#39;onglet Membres du programme.
+>Si vous souhaitez savoir exactement ce qu&#39;une personne a fait, vous pouvez ouvrir le [journal d&#39;Activité](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) dans la page [Détails de la personne](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) à partir de l&#39;onglet Membres du programme.
 
 >[!MORELIKETHIS]
 >
->* [Rapport Performance des courriers électroniques](email-performance-report.md)
->* [Filtrage des ressources dans un rapport par courriel](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
->[!NOTE]
->
->**Plongée profonde**
->
->En savoir plus sur [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+>* [Rapport Performance des courriers électroniques](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [Filtrage des ressources dans un rapport par courriel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
