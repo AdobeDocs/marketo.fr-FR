@@ -3,7 +3,7 @@ unique-page-id: 1900548
 description: Prévisualisation d’un courrier électronique avec contenu dynamique - Documentation marketing - Documentation du produit
 title: Prévisualisation d’un courrier électronique avec du contenu dynamique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Prévisualisation de votre courrier électronique après l’ajout d’un conten
 
    ![](assets/one-3.png)
 
-   Cliquez sur la liste déroulante Vue par et sélectionnez le type de contenu dynamique à prévisualisation.
+1. Cliquez sur la liste déroulante Vue par et sélectionnez le type de contenu dynamique à prévisualisation.
+
    ![](assets/two-3.png)
 
 1. Une nouvelle liste déroulante s’affiche. Cliquez dessus et choisissez le contenu spécifique.
