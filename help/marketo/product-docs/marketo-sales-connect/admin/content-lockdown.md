@@ -3,7 +3,7 @@ unique-page-id: 37355755
 description: Verrouillage du contenu - Documents marketing - Documentation du produit
 title: Verrouillage du contenu
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -27,7 +27,6 @@ En activant le verrouillage du contenu, empêchez les utilisateurs non-administr
 
    ![](assets/two-4.png)
 
-1. Faites défiler l’écran jusqu’à la section Verrouillage du contenu. L&#39;activation de l&#39;un ou l&#39;autre curseur *désactive* la capacité des membres de votre équipe à créer/modifier des modèles et/ou des campagnes.
+1. Faites défiler l’écran jusqu’à la section Verrouillage du contenu. L&#39;activation de l&#39;un ou l&#39;autre curseur _désactive_ la capacité des membres de votre équipe à créer/modifier des modèles et/ou des campagnes.
 
    ![](assets/three-4.png)
-
