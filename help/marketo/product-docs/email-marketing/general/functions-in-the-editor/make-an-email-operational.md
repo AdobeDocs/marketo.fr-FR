@@ -3,9 +3,9 @@ unique-page-id: 1147354
 description: Optimiser un courrier électronique - Documents marketing - Documentation du produit
 title: Optimiser le courrier électronique
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,11 @@ Les courriers électroniques opérationnels ignorent les états Non inscrit et M
 >
 >Les courriels opérationnels ne sont pas soumis à des limites de communication.
 
-1. Recherchez votre adresse électronique, sélectionnez-la et cliquez sur Modifier le brouillon.
+1. Recherchez votre adresse électronique, sélectionnez-la et cliquez sur **Modifier le brouillon**.
 
 ![](assets/one-1.png)
 
 >[!NOTE]
->
->**Rappel**
 >
 >Vous ne devez utiliser que les courriers électroniques opérationnels pour les messages critiques et les répondeurs automatiques. Ils ne sont pas destinés aux courriels marketing.
 
@@ -41,4 +39,4 @@ Les courriers électroniques opérationnels ignorent les états Non inscrit et M
 >
 >Les courriels opérationnels n&#39;étaient pas conçus pour fonctionner avec les programmes d&#39;engagement. Ainsi, un programme d’engagement ignore l’état opérationnel d’un courriel. Gardez cela à l&#39;esprit quand vous travaillez avec eux.
 
-N&#39;oubliez pas d&#39;approuver ce courriel pour que les modifications prennent effet. Découvrez comment [approuver un courriel](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+N&#39;oubliez pas d&#39;approuver ce courriel pour que les modifications prennent effet. Découvrez comment [approuver un courriel](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
