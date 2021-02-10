@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: Utiliser le Tableau de bord de Programme électronique - Documents marketing - Documentation du produit
 title: Utiliser le Tableau de bord de Programme de courriel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Utiliser le Tableau de bord de Programme de courriel {#use-the-email-program-dashboard}
 
-Découvrez comment vos [programmes de messagerie ](http://docs.marketo.com/display/docs/email+programs) se comportent avec cette vue de tableau de bord.
+Découvrez comment vos programmes de messagerie se comportent avec cette vue de tableau de bord.
 
 >[!NOTE]
 >
->Si votre programme comporte un test A/B, extrayez le [Tableau de bord de Programme électronique - Vue de test A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Si votre programme comporte un test A/B, extrayez le [Tableau de bord de Programme électronique - Vue de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +47,7 @@ Ce graphique présente le nombre de courriers électroniques ouverts/sur lesquel
 
 ## Résumé - Engagement {#summary-engagement}
 
-Ceci vous montre le score d&#39;engagement global [](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Ceci vous montre le score d&#39;engagement global [](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -65,7 +65,7 @@ Le reste des données affiche les valeurs Ouvrir, Clics, Taux de clics/d’ouver
 >
 >**Définition**
 >
->**Ouvre **sont comptabilisés lorsque le destinataire électronique télécharge les images du courrier électronique, ce qui inclut un pixel de suivi inséré par le marketing. Si le destinataire vue le courrier électronique mais choisit de ne pas télécharger ses images, cela ne sera pas comptabilisé comme une ouverture. Si les images se chargent dans le volet prévisualisation de l’destinataire, cela sera généralement comptabilisé comme une ouverture, mais cela variera en fonction du client de messagerie.
+>**** Opensare est comptabilisé lorsque le destinataire de messagerie télécharge les images du courrier électronique, ce qui inclut un pixel de suivi inséré par le marketing. Si le destinataire vue le courrier électronique mais choisit de ne pas télécharger ses images, cela ne sera pas comptabilisé comme une ouverture. Si les images se chargent dans le volet prévisualisation de l’destinataire, cela sera généralement comptabilisé comme une ouverture, mais cela variera en fonction du client de messagerie.
 >
 >**Cliquez pour** ouvrir mesure le pourcentage de courriers électroniques ouverts et sur lesquels un lien a été cliqué dans le courrier électronique. Nous prenons le nombre de clics uniques divisé par le nombre d&#39;ouvertures uniques, puis multiplions par 100 pour l&#39;afficher sous forme de pourcentage.
 
@@ -77,9 +77,4 @@ Pour afficher les données les plus récentes, il vous suffit de cliquer sur l�
 
 >[!MORELIKETHIS]
 >
->* [Utiliser le Tableau de bord de Programme de courriel - Vue de test A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
-
->
-
-
-
+>[Utiliser le Tableau de bord de Programme de courriel - Vue de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
