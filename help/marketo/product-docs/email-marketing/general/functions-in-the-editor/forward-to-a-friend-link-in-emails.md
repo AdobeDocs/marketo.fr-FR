@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Transférer vers un lien d'ami dans les courriels - Documents marketing - Documentation du produit
 title: Transférer vers un lien d'ami dans les courriels
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,10 @@ Par exemple, supposons que Keith utilise le lien &quot;Transférer à un ami&quo
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
    >Pensez à approuver le modèle de brouillon pour appliquer les modifications.
 
    Désormais, tous les courriels qui utilisent ce modèle auront le lien &quot;Transférer vers un ami&quot;. Lorsque le destinataire de messagerie clique dessus, il est dirigé vers une version Web du courrier électronique à l’aide de la case &quot;Transférer à un ami&quot; :
+
    ![](assets/f2afbox.png)
 
 ## Ajouter le lien vers un courriel individuel {#add-the-link-to-an-individual-email}
@@ -85,7 +84,7 @@ Vous pouvez également ajouter le lien &quot;Transférer à l&#39;ami&quot; dire
 
    ![](assets/eight-1.png)
 
-1. Collez le jeton **`{{system.forwardToFriendLink}}`** dans la zone **URL** en utilisant Ctrl/Cmd+V, puis cliquez sur** Insérer**.
+1. Collez le jeton **`{{system.forwardToFriendLink}}`** dans la zone **URL** à l’aide de Ctrl/Cmd+V, puis cliquez sur **Insérer**.
 
    ![](assets/nine.png)
 
@@ -117,15 +116,13 @@ Vous pouvez voir qui a transféré et reçu les courriels dans le journal d&#39;
    >
    >**Définition**
    >
-   >
    >Dans le cas d’un courrier électronique envoyé à un ami, l’ID de personne est la personne qui a envoyé le courrier électronique.
-   >
    >
    >Dans le cas d’un courriel envoyé à un ami, l’ID de personne est la personne qui a reçu le courriel.
 
    ![](assets/sixteen.png)
 
-1. Pour vue d’une personne par identifiant, copiez et collez l’identifiant de personne*** à la fin de l’URL (le début de cette URL dépend de votre instance de marché) :
+1. Pour vue d’une personne par identifiant, copiez et collez l’**identifiant de personne** à la fin de l’URL (le début de cette URL dépend de votre instance de marché) :
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
@@ -137,7 +134,7 @@ Vous pouvez voir qui a transféré et reçu les courriels dans le journal d&#39;
 
    >[!NOTE]
    >
-   >Si l’ami recevant l’avance est une personne inconnue, une nouvelle personne est créée avec &quot;Transférer à l’ami&quot; marqué comme **Source** de la personne.\
+   >Si l’ami recevant l’avance est une personne inconnue, une nouvelle personne est créée avec &quot;Transférer à l’ami&quot; marqué comme **Source** de la personne.
    >Si le courrier électronique est un actif local d’un programme, le programme est marqué comme **Programme d’acquisition** de la personne.
 
 ## Déclencher ou filtrer à l’aide de l’Activité de transfert {#trigger-or-filter-using-forwarding-activity}
