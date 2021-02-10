@@ -3,9 +3,9 @@ unique-page-id: 1900573
 description: Ajouter un jeton système en tant que lien dans un courrier électronique - Documents marketing - Documentation du produit
 title: Ajouter un jeton système en tant que lien dans un courrier électronique
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ Voici comment les ajouter à un courriel :
 
 >[!NOTE]
 >
->**Rappel**
->
->N&#39;oubliez pas [d&#39;approuver votre courriel](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) lorsque vous avez terminé.
+>N&#39;oubliez pas [d&#39;approuver votre courriel](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) lorsque vous avez terminé.
 
 Bien joué ! Vous savez maintenant comment ajouter un jeton système en tant que lien dans un courrier électronique.
