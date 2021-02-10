@@ -3,7 +3,7 @@ unique-page-id: 1900556
 description: Créer un message électronique texte uniquement - Documents marketing - Documentation du produit
 title: Créer un message électronique Texte uniquement
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Si vous souhaitez envoyer des messages électroniques en format texte uniquement
 
    >[!CAUTION]
    >
-   >Les liens ne sont pas automatiquement suivis dans les messages électroniques en texte seulement. Voir comment [Ajouter les liens suivis à un courriel de texte](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Les liens ne sont pas automatiquement suivis dans les messages électroniques en texte seulement. Voir comment [Ajouter les liens suivis à un courriel de texte](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
