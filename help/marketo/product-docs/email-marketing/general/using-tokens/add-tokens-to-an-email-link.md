@@ -3,7 +3,7 @@ unique-page-id: 1147360
 description: Ajouter des jetons à un lien de courriel - Documents marketing - Documentation du produit
 title: Ajouter des jetons à un lien de courriel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -39,9 +39,4 @@ Pour insérer des paramètres supplémentaires et spécifiques à une personne d
 
 >[!MORELIKETHIS]
 >
->* [Utilisation des URL dans mes jetons](using-urls-in-my-tokens.md)
-
->
-
-
-
+>[Utilisation des URL dans mes jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
