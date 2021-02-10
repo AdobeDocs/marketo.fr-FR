@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: Désactiver le suivi d'un lien de courriel - Documents marketing - Documentation du produit
 title: Désactiver le suivi d’un lien de courriel
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Il arrive que vous ne souhaitiez pas activer l’**URL de suivi du marketing** sur un lien d’un courrier électronique. Cela s’avère utile lorsque la page de destination ne prend pas en charge les paramètres d’URL et peut entraîner la rupture d’un lien.
 
-1. Sélectionnez votre adresse électronique et cliquez sur **Modifier** **Version préliminaire**.
+1. Sélectionnez votre adresse électronique et cliquez sur **Modifier le brouillon**.
 
    ![](assets/one-7.png)
 
