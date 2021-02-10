@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: Rapport de performances des courriels - Documents marketing - Documentation du produit
 title: Rapport Performance des courriers électroniques
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Pour déterminer les performances de vos courriels avec des statistiques telles que la diffusion, l’ouverture, les clics, etc., créez un rapport sur les performances des courriels.
 
-1. [Créez un rapport dans un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programme et sélectionnez le type **de rapport de** [ ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)performances par courriel.
-1. [Modifiez le ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) délai du rapport, puis cliquez sur l&#39;onglet  **** Rapport.
+1. [Créez un rapport dans un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programme et sélectionnez le type **de rapport de** [ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)performances par courriel.
+1. [Modifiez le ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) délai du rapport, puis cliquez sur l&#39;onglet  **** Rapport.
 1. Vous êtes là ! Examinez maintenant le rapport pour voir comment vos courriels se sont comportés.
 
    >[!NOTE]
@@ -31,10 +31,9 @@ Pour déterminer les performances de vos courriels avec des statistiques telles 
 
    >[!NOTE]
    >
-   >
-   >Un rapport sur les performances des courriels comprend des activités pour toutes les personnes, y compris celles qui ont été supprimées depuis l’envoi du courrier électronique. Parfois, vous voulez voir des activités uniquement pour les principaux. Dans ce cas, vous devez filtrer les personnes supprimées de votre rapport. Utilisez l&#39;onglet **Liste intelligente** pour [créer une liste intelligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) pour le rapport. Si vous ne filtrez aucun champ spécifique, définissez le filtre Adresse électronique sur : **n&#39;est pas vide**.
+   >Un rapport sur les performances des courriels comprend des activités pour toutes les personnes, y compris celles qui ont été supprimées depuis l’envoi du courrier électronique. Parfois, vous voulez voir des activités uniquement pour les principaux. Dans ce cas, vous devez filtrer les personnes supprimées de votre rapport. Utilisez l&#39;onglet **Liste intelligente** pour [créer une liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) pour le rapport. Si vous ne filtrez aucun champ spécifique, définissez le filtre Adresse électronique sur : **n&#39;est pas vide**.
 
-   [Sélectionnez les ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) colonnes du rapport pour un rapport Performance de courriel :
+   [Sélectionnez les ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) colonnes du rapport pour un rapport Performance de courriel :
 
    | Colonne | Description |
    |---|---|
@@ -50,13 +49,13 @@ Pour déterminer les performances de vos courriels avec des statistiques telles 
 
 En général, nous essayons d&#39;utiliser le bon sens pour enregistrer ces statistiques. Par exemple, si une personne a cliqué sur un lien dans un courriel, elle a manifestement ouvert le courriel en premier. Nous suivons les règles spécifiques suivantes pour le rapport Performance de courriel :
 
-* **Article 1** : Chaque enregistrement d’activité par courrier électronique est défini sur l’un des éléments suivants, et sur un seul :  *Livré*,  *Différé*, Rebond *modéré ou* En attente **.
+* **Article 1** : Chaque enregistrement d’activité par courrier électronique est défini sur l’un des éléments suivants, et sur un seul :  _Livré_,  _Différé_, Rebond _modéré ou_ En attente __.
 
 * **Article 2** : Si l’enregistrement de courrier électronique affiche  *Ouvert*, il est comptabilisé comme  *Livré*.
 
-* **Article 3** : Si l’enregistrement de courrier électronique indique que l’utilisateur a  *cliqué sur la* boîte aux lettres  *désabonné*, il est comptabilisé comme  ** Livré et  *Ouvert*.
+* **Article 3** : Si l’enregistrement de courrier électronique indique que l’utilisateur a  _cliqué sur la_ boîte aux lettres  _désabonné_, il est comptabilisé comme  __ Livré et  _Ouvert_.
 
-* **Article 4** : Si le courrier électronique est  *ouvert*, les rebonds sont ignorés. Si le courrier électronique n’a pas été ouvert, *Rebond net* a la priorité sur *Rebond léger* et *Livré*.
+* **Article 4** : Si le courrier électronique est  _ouvert_, les rebonds sont ignorés. Si le courrier électronique n’a pas été ouvert, _Rebond net_ a la priorité sur _Rebond léger_ et _Livré_.
 
 >[!NOTE]
 >
@@ -64,16 +63,6 @@ En général, nous essayons d&#39;utiliser le bon sens pour enregistrer ces stat
 
 >[!MORELIKETHIS]
 >
->* [Filtrage des ressources dans les rapports de messagerie Campaign](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [Rapport Performance des liens de courriel](email-link-performance-report.md)
-
->
-
-
-
->[!NOTE]
->
->**Plongée profonde**
->
->En savoir plus sur [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+>* [Filtrage des ressources dans les rapports de messagerie Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [Rapport Performance des liens de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 
