@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: Définir une Audience avec une Liste intelligente - Docs marketing - Documentation du produit
 title: Définir une Audience avec une Liste dynamique
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,13 @@ ht-degree: 0%
 
 # Définir une Audience avec une Liste dynamique {#define-an-audience-with-a-smart-list}
 
-Une fois que vous avez [créé un programme de courriel](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), vous voudrez lui indiquer à qui envoyer le courriel. Pour ce faire, [importez une liste de personnes](define-an-audience-by-importing-a-list.md) ou utilisez une liste intelligente. Voici comment y parvenir avec une liste intelligente.
+Une fois que vous avez [créé un programme de courriel](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), vous voudrez lui indiquer à qui envoyer le courriel. Pour ce faire, [importez une liste de personnes](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) ou utilisez une liste intelligente. Voici comment y parvenir avec une liste intelligente.
 
 >[!PREREQUISITES]
 >
->* [Créer un Programme de messagerie](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[Créer un Programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 >[!NOTE]
->
->**Rappel**
 >
 >La définition de votre audience ne fonctionnera que si le programme de messagerie n&#39;est pas approuvé.
 
@@ -49,18 +43,11 @@ Une fois que vous avez [créé un programme de courriel](../../../../product-doc
 
    ![](assets/image2014-9-12-11-3a1-3a14.png)
 
-   >[!NOTE]
-   >
-   >**Plongée profonde**
-   >
-   >
-   >Consultez [listes intelligentes et listes statiques](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) pour en savoir plus sur l&#39;utilisation et la définition des filtres.
-
 1. Lorsque vous avez terminé d’ajouter et de définir des filtres, revenez à l’onglet programme principal. Vous verrez combien de personnes sont admissibles.
 
    ![](assets/myemailprogram.jpg)
 
-   Excellent travail ! Il est maintenant temps de [choisir un courriel existant](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou de [créer un courriel](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) à envoyer à ces personnes.
+   Excellent travail ! Il est maintenant temps de [choisir un courriel existant](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou [créer un courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) à envoyer à ces personnes.
 
 >[!NOTE]
 >
@@ -82,10 +69,6 @@ Cliquez sur le numéro pour obtenir une liste détaillée des personnes bloquée
 
 >[!MORELIKETHIS]
 >
->* [Choisir un courriel existant](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Créer un courriel pour un Programme de courriel](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [Choisir un courriel existant](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [Créer un courriel pour un Programme de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
