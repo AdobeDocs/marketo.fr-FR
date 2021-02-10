@@ -3,7 +3,7 @@ unique-page-id: 1900565
 description: Inclure un Événement de calendrier (.ics) dans un courrier électronique - Documents marketing - Documentation du produit
 title: Inclure un Événement de calendrier (.ics) dans un courriel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Un jeton Fichier de calendrier vous permet d’ajouter un lien de événement de
 
 >[!PREREQUISITES]
 >
->* [Créer un fichier de Événement de calendrier (.ics)](create-a-calendar-event-ics-file.md)
-
->
-
-
+>[Créer un fichier de Événement de calendrier (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 1. Lors de la modification du courrier électronique de votre programme, cliquez à l’endroit où vous souhaitez placer le jeton, puis cliquez sur le bouton Insérer un jeton.
 
@@ -31,7 +27,7 @@ Un jeton Fichier de calendrier vous permet d’ajouter un lien de événement de
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-   Cliquez sur Enregistrer.
+1. Cliquez sur **Enregistrer**.
 
    ![](assets/three-5.png)
 
