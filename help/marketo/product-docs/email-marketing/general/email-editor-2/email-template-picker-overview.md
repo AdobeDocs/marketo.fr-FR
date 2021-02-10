@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: Présentation du sélecteur de modèles de courrier électronique - Documents marketing - Documentation du produit
 title: Présentation du sélecteur de modèles de courriel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présentation du sélecteur de modèles de courriel {#email-template-picker-overview}
 
-Lorsque vous [créez un courrier électronique](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md), vous disposez de plusieurs modèles gratuits. Vous pouvez également créer votre propre modèle et l’enregistrer pour une utilisation ultérieure.
+Lorsque vous [créez un courrier électronique](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), vous disposez de plusieurs modèles gratuits. Vous pouvez également créer votre propre modèle et l’enregistrer pour une utilisation ultérieure.
 
 ![](assets/starter-templates.png)
 
@@ -21,7 +21,7 @@ Lorsque vous [créez un courrier électronique](../../../../product-docs/email-m
 
 ![](assets/two-2.png)
 
-Si votre courrier électronique est essentiel et que vous souhaitez qu’il ne dépasse pas les limites de communication, [le rendre opérationnel](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) en cochant la case. **L’option Ouvrir dans** l’éditeur est sélectionnée par défaut et signifie simplement que vous souhaitez début de modifier immédiatement votre nouveau courrier électronique. **** Créateurs, créez !
+Si votre courrier électronique est essentiel et que vous souhaitez qu’il ne dépasse pas les limites de communication, [le rendre opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) en cochant la case. **L’option Ouvrir dans** l’éditeur est sélectionnée par défaut et signifie simplement que vous souhaitez début de modifier immédiatement votre nouveau courrier électronique. **** Créateurs, créez !
 
 ![](assets/three-2.png)
 
@@ -31,9 +31,11 @@ Si votre courrier électronique est essentiel et que vous souhaitez qu’il ne d
 
 >[!NOTE]
 >
->Les modèles Starter de Marketo sont proposés gratuitement à tous les clients. Bien qu&#39;ils soient continuellement mis à jour et optimisés pour les principaux clients de messagerie (et les périphériques mobiles), vous devez toujours évaluer s&#39;ils répondent à vos besoins. L&#39;[outil de délivrabilité des e-mails](http://docs.marketo.com/display/DOCS/Email+Deliverability+Tool) de Marketo peut vous montrer les rendus de modèles sur différents clients de messagerie. Malheureusement, Marketo ne peut pas traiter de demandes de conception en dehors des engagements de service payant.
+>Les modèles Starter de Marketo sont proposés gratuitement à tous les clients. Bien qu&#39;ils soient continuellement mis à jour et optimisés pour les principaux clients de messagerie (et les périphériques mobiles), vous devez toujours évaluer s&#39;ils répondent à vos besoins. L&#39;[outil de délivrabilité des e-mails](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md) de Marketo peut vous montrer les rendus de modèles sur différents clients de messagerie. Malheureusement, Marketo ne peut pas traiter de demandes de conception en dehors des engagements de service payant.
 
-**Mes** modèles sont composés de tous les modèles que vous avez créés. Vous pouvez également avoir des dossiers.   ![](assets/five-2.png)
+**Mes** modèles sont composés de tous les modèles que vous avez créés. Vous pouvez également avoir des dossiers.
+
+![](assets/five-2.png)
 
 Tous les dossiers qui apparaissent sous Courriels > Modèles dans votre arborescence de Design Studio seront disponibles dans **Mes modèles**.
 
@@ -67,10 +69,6 @@ Assez propre !
 
 >[!MORELIKETHIS]
 >
->* [Syntaxe du modèle de courriel](email-template-syntax.md)
->* [Créer un courriel](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
->
-
-
+>* [Syntaxe du modèle de courriel](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [Créer un courriel](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
