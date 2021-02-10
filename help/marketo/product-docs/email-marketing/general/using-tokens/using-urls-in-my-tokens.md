@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: Utilisation des URL dans Mes jetons - Documents marketing - Documentation du produit
 title: Utilisation des URL dans mes jetons
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons pour insérer des URL dan
    ![](assets/twelve.png)
 
    Et vous avez fini ! Votre URL sera renseignée après l’envoi et, si vous placez http:// devant le jeton, il produira un lien pouvant faire l’objet d’un suivi.
-
