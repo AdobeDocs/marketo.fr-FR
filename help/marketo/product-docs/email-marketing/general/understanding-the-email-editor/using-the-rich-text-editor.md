@@ -3,7 +3,7 @@ unique-page-id: 2953419
 description: Utilisation de l’éditeur de texte enrichi - Documents marketing - Documentation du produit
 title: Utilisation de l’éditeur de texte enrichi
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
@@ -17,7 +17,7 @@ L’Editeur de texte enrichi (RTE) s’affiche dans tout le marché et est dispo
 
 ## Paramètres de l’éditeur {#editor-settings}
 
-Le paramètre d’élément de bloc racine définit les balises qui encapsulent votre contenu. Par défaut, l’élément de bloc racine de courrier électronique utilise <p> balises. Vous avez la possibilité de changer cela en suivant les étapes ci-dessous.
+Le paramètre d’élément de bloc racine définit les balises qui encapsulent votre contenu. Par défaut, l’élément de bloc racine de courrier électronique utilise des balises `<p>`. Vous avez la possibilité de changer cela en suivant les étapes ci-dessous.
 
 >[!TIP]
 >
@@ -35,11 +35,11 @@ Le paramètre d’élément de bloc racine définit les balises qui encapsulent 
 
    ![](assets/three.png)
 
-1. Dans la liste déroulante **Éditeur de courriel / extrait de code**, sélectionnez <div> ou Aucun et cliquez sur **Enregistrer**. <div> est utilisée dans cet exemple.
+1. Dans la liste déroulante **Editeur de courriel/extrait de code**, sélectionnez `<div>` ou Aucun, puis cliquez sur **Enregistrer**. `<div>` est utilisée dans cet exemple.
 
    ![](assets/four.png)
 
-   Si vous avez <div class="&ldquo;mktEditable&rdquo;"></div> dans un modèle de courrier électronique, le comportement de la source HTML suivante s’affiche lorsque vous ouvrez la section et que vous tapez &quot;Texte ici&quot; dans l’éditeur :
+   Si un modèle de courrier électronique contient `<div class=“mktEditable”></div>`, le comportement de la source HTML suivante s’affiche lorsque vous ouvrez la section et que vous tapez &quot;Texte ici&quot; dans l’éditeur :
 
 <table> 
  <tbody> 
@@ -62,7 +62,7 @@ Le paramètre d’élément de bloc racine définit les balises qui encapsulent 
 
 >[!NOTE]
 >
->L&#39;élément de bloc racine est toujours <p> pour les jetons de programme en texte enrichi.
+>L’élément de bloc racine est toujours `<p>` pour les jetons de programme de texte enrichi.
 
 ## Fonctionnalités {#features}
 
@@ -109,7 +109,7 @@ Voici les fonctionnalités que vous trouverez dans un RTE.
 
 ## landings page {#landing-pages}
 
-Le paramètre d’élément de bloc racine définit les balises qui encapsulent votre contenu. Par défaut, l’élément de bloc racine du landing page utilise <div> balises. Vous avez la possibilité de changer cela en suivant les étapes ci-dessous.
+Le paramètre d’élément de bloc racine définit les balises qui encapsulent votre contenu. Par défaut, l’élément de bloc racine du landing page utilise des balises `<div>`. Vous avez la possibilité de changer cela en suivant les étapes ci-dessous.
 
 >[!TIP]
 >
@@ -127,9 +127,8 @@ Le paramètre d’élément de bloc racine définit les balises qui encapsulent 
 
    ![](assets/three.png)
 
-1. Dans la liste déroulante **Éditeur de Landing page**, sélectionnez <p> ou Aucun et cliquez sur **Enregistrer**. <p> est utilisée dans cet exemple.
+1. Dans la liste déroulante **Editeur de Landing page**, sélectionnez `<p>` ou Aucun et cliquez sur **Enregistrer**. `<p>` est utilisée dans cet exemple.
 
    ![](assets/five.png)
 
    Et c&#39;est tout !
-
