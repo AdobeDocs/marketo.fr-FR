@@ -3,7 +3,7 @@ unique-page-id: 1900560
 description: Ajouter une Vue en tant que lien de page Web à un courrier électronique - Documents marketing - Documentation du produit
 title: Ajouter une Vue en tant que lien de page Web à un courriel
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -39,4 +39,4 @@ Voici un exemple de son aspect :
 >
 >Vous ne verrez pas la Vue comme lien Page Web tant que vous n&#39;avez pas envoyé le courrier électronique. Envoyez-vous un test à la vue.
 
-Pour modifier le texte par défaut, voir [Modification du message &quot;Vue en tant que page Web&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Pour modifier le texte par défaut, voir [Modification du message &quot;Vue en tant que page Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
