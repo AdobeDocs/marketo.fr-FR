@@ -3,7 +3,7 @@ unique-page-id: 1900597
 description: Définissez une Audience en important une Liste - Documents marketing - Documentation du produit
 title: Définition d’une Audience en important une Liste
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Créer un courriel pour un Programme de courriel](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[Créer un courriel pour un Programme de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Une fois que vous avez créé un programme de messagerie, vous voudrez lui indiquer à qui envoyer le message. Pour ce faire, [créez une liste intelligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ou importez une liste. Voici comment y parvenir en important une liste.
+Une fois que vous avez créé un programme de messagerie, vous voudrez lui indiquer à qui envoyer le message. Pour ce faire, [créez une liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ou importez une liste. Voici comment y parvenir en important une liste.
 
 >[!NOTE]
 >
@@ -29,17 +29,20 @@ Une fois que vous avez créé un programme de messagerie, vous voudrez lui indiq
 
    ![](assets/login-marketing-activities-1.png)
 
-   Sélectionnez votre programme de messagerie, puis cliquez sur Importer la Liste sous le volet Audience.
+1. Sélectionnez votre programme de messagerie, puis cliquez sur Importer la Liste sous le volet Audience.
+
    ![](assets/importlist.png)
 
-1. La fenêtre d&#39;importation de liste s&#39;ouvre, cliquez sur **Parcourir** et sélectionnez le fichier à importer. Une fois que vous avez sélectionné votre liste de personnes, cliquez sur Suivant.
-1. ![](assets/importlist1.png)
+1. La fenêtre d&#39;importation de liste s&#39;ouvre, cliquez sur **Parcourir** et sélectionnez le fichier à importer. Une fois que vous avez sélectionné votre liste de personnes, cliquez sur **Suivant**.
+
+   ![](assets/importlist1.png)
 
    >[!CAUTION]
    >
    >Assurez-vous que la liste est codée en UTF-8, UTF-16, Shift-JIS ou EUC-JP et qu’elle ne dépasse pas 50 Mo de taille de fichier.
 
-   Vérifiez que les champs de votre fichier sont correctement mappés et cliquez sur Suivant.
+1. Vérifiez que les champs de votre fichier sont correctement mappés et cliquez sur **Suivant**.
+
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
@@ -80,10 +83,6 @@ Fantastique ! Il est maintenant temps de choisir un courriel existant ou de cré
 
 >[!MORELIKETHIS]
 >
->* [Choisir un courriel existant](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Créer un courriel pour un Programme de courriel](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [Choisir un courriel existant](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [Créer un courriel pour un Programme de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
