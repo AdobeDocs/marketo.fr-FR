@@ -3,7 +3,7 @@ unique-page-id: 2359584
 description: Champion/Challenger - Déclarez un champion - Docs marketing - Documentation du produit
 title: Champion/Challenger - Déclarez un champion
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -17,8 +17,7 @@ Lorsque vous êtes prêt, vous pouvez déclarer un champion pour votre test de m
 
 >[!MORELIKETHIS]
 >
->* [Champion/Challenger : Approuver votre test de messagerie](champion-challenger-approve-your-email-test.md)
-
+>[Champion/Challenger : Approuver votre test de messagerie](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. Accédez à **Activités marketing**.
 
@@ -44,7 +43,7 @@ Lorsque vous êtes prêt, vous pouvez déclarer un champion pour votre test de m
    >
    >Notez que la valeur par défaut **Déclarer la date** est demain et non aujourd’hui.
 
-   Sélectionnez une heure et cliquez sur **Enregistrer**.
+1. Sélectionnez une heure et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
