@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: Présentation de l’éditeur de courrier électronique v2.0 - Documentation sur le marketing - Documentation du produit
 title: Présentation de l’éditeur de courrier électronique v2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Lorsque vous déciderez d&#39;activer l&#39;éditeur de messagerie v2.0, vous re
 
 **Sélecteur de modèles de courrier électronique**
 
-Lorsque vous créez un nouveau courrier électronique, vous accédez au [Sélecteur de modèles de courrier électronique](email-template-picker-overview.md).
+Lorsque vous créez un nouveau courrier électronique, vous accédez au [Sélecteur de modèles de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ Lorsque vous début de modifier votre courrier électronique, vous remarquerez q
 
 **Modules**
 
-Ces choses sur le côté droit de l&#39;éditeur sont appelées modules. Découvrez comment [ajouter des modules à votre adresse électronique](add-modules-to-your-email.md).
+Ces choses sur le côté droit de l&#39;éditeur sont appelées modules. Découvrez comment [ajouter des modules à votre adresse électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/three-4.png)
 
 **Version du texte**
 
-Le passage de la version HTML à la version texte de votre courrier électronique se fait désormais dans un onglet pratique en bas de l’écran. Découvrez comment [modifier la version textuelle d&#39;un courrier électronique](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Le passage de la version HTML à la version texte de votre courrier électronique se fait désormais dans un onglet pratique en bas de l’écran. Découvrez comment [modifier la version textuelle d&#39;un courrier électronique](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/four-3.png)
 
 **En-tête de courriel**
 
-Vous voulez plus d&#39;espace design ? L&#39;en-tête de courriel peut être masqué après avoir [modifié ](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Cliquez simplement sur cette icône ...
+Vous voulez plus d&#39;espace design ? L&#39;en-tête de courriel peut être masqué après avoir [modifié ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Cliquez simplement sur cette icône ...
 
 ![](assets/five-4.png)
 
@@ -69,7 +69,7 @@ La vue par défaut est Bureau...
 
 ...mais vous pouvez également voir à quoi ressemblera un périphérique mobile. Vous pouvez également prévisualisation la version texte ! Il vous suffit de cliquer sur **Modifier le brouillon** dans l&#39;angle supérieur droit pour reprendre la modification.
 
-[![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+![](assets/preview3.png)
 
 **Actions de courrier électronique**
 
@@ -83,7 +83,7 @@ Sous **Actions de courriel**, vous remarquerez quelques nouvelles fonctionnalit�
 
 >[!NOTE]
 >
->** [Capturer les images du Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fonctionne comme dans Design Studio.
+>**[Prenez des images de](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Webworks comme dans Design Studio.
 
 **Désactiver le** suivi ouvertSous Paramètres **de** courriel, vous pouvez désactiver le suivi ouvert si nécessaire.
 
@@ -103,15 +103,8 @@ Beaucoup de nouvelles fonctionnalités ! Amuse-toi bien !
 
 >[!NOTE]
 >
->**Plongée profonde**
->
 >Si vous souhaitez approfondir vos connaissances, regardez cette [vidéo ](https://nation.marketo.com/videos/1463) très utile.
 
 >[!MORELIKETHIS]
 >
->* [Syntaxe du modèle de courriel](email-template-syntax.md)
-
->
-
-
-
+>[Syntaxe du modèle de courriel](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
