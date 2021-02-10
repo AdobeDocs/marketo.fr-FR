@@ -3,9 +3,9 @@ unique-page-id: 18317338
 description: Domaines bloqués - Documents marketing - Documentation du produit
 title: Domaines bloqués
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Aidez votre équipe commerciale à réussir en les empêchant d&#39;envoyer par 
 
    ![](assets/one-3.png)
 
-1. Sous Paramètres d’administration, cliquez sur **Général.**
+1. Sous Paramètres d’administration, cliquez sur **Général**.
 
    ![](assets/two-3.png)
 
@@ -33,5 +33,4 @@ Aidez votre équipe commerciale à réussir en les empêchant d&#39;envoyer par 
 
    >[!NOTE]
    >
-   >Les courriers électroniques qui font partie d’un [envoi de groupe ](http://docs.marketo.com/x/KAQ6Ag) qui échoue en raison de l’envoi à un domaine de courriel bloqué échouent en silence et n’apparaissent pas dans le dossier de courrier électronique en échec.
-
+   >Les courriers électroniques qui font partie d’un [envoi de groupe ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) qui échoue en raison de l’envoi à un domaine de courriel bloqué échouent en silence et n’apparaissent pas dans le dossier de courrier électronique en échec.
