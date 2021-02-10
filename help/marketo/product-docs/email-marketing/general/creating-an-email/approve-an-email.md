@@ -3,7 +3,7 @@ unique-page-id: 1147342
 description: Approuver un courrier électronique - Documents marketing - Documentation du produit
 title: Approuver un courriel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -19,8 +19,7 @@ Début des courriers électroniques en état de brouillon. Ils ne sont général
 
 1. Recherchez et sélectionnez votre courriel, cliquez sur la liste déroulante **Actions de courriel** et sélectionnez **Approuver**.
 
-   ` ![](assets/one.png)  
-`
+   ![](assets/one.png)
 
 ## Approuver directement dans l&#39;arborescence {#approve-it-directly-in-the-tree}
 
