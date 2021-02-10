@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: Utiliser le jeton Envoyer les informations d'alerte {{SP_Send_Alert_Info}} - Documents marketing - Documentation du produit
 title: Utiliser le jeton d'informations d'alerte Envoyer
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,15 @@ Le jeton `{{SP_Send_Alert_Info}}` est un jeton spécial à utiliser lors de la c
 
 >[!TIP]
 >
->Ce jeton ne fonctionne que comme prévu lors de l’envoi du courrier électronique contenant le message avec l’étape de flux [Envoyer l’alerte](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Il ne fonctionnera pas lorsqu&#39;il est utilisé dans une étape de flux Envoyer un courrier électronique.
+>Ce jeton ne fonctionne que comme prévu lors de l’envoi du courrier électronique contenant le message avec l’étape de flux [Envoyer l’alerte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Il ne fonctionnera pas lorsqu&#39;il est utilisé dans une étape de flux Envoyer un courrier électronique.
 
-Exemple d&#39;alerte :   ![](assets/image2014-9-25-15-3a17-3a58.png)
+Exemple d&#39;alerte :
+
+![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->Allez ! Les URL des alertes comportent des dates d’expiration. Assurez-vous donc qu’elles disposent d’une cadence prenant en charge ces types de messages. Les dates d’expiration sont [configurées par un administrateur](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Allez ! Les URL des alertes comportent des dates d’expiration. Assurez-vous donc qu’elles disposent d’une cadence prenant en charge ces types de messages. Les dates d’expiration sont [configurées par un administrateur](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
 Les informations suivantes font partie du `{{SP_Send_Alert_Info}}` :
 
@@ -59,8 +61,6 @@ Les informations suivantes font partie du `{{SP_Send_Alert_Info}}` :
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 
 >[!NOTE]
->
->**Rappel**
 >
 >N&#39;oubliez pas d&#39;approuver votre courriel.
 
