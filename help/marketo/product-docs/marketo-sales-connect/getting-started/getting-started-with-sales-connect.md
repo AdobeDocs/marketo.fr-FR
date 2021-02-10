@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Prise en main de Sales Connect - Marketo Docs - Documentation sur les produits
 title: Prise en main de Sales Connect
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 Si vous préférez regarder ces étapes plutôt que de les lire, passez directement aux [Instructions vidéo ci-dessous](#video).
 
 >[!AVAILABILITY]
->
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre responsable de succès client.
 
@@ -129,7 +128,3 @@ Pour les équipes qui souhaitent tester Marketing Connect Sales Connect avec leu
 >[!NOTE]
 >
 >Vous ne pouvez pas configurer un compte Sales Connect avec le même ID d&#39;adresse électronique pour plusieurs instances. En d&#39;autres termes, si vous souhaitez disposer d&#39;un compte Sales Connect supplémentaire à tester avec votre instance Marketo Sandbox, vous devez utiliser un ID de courrier électronique différent dans chacun des comptes.
-
-## Instructions vidéo {#video-instructions}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
