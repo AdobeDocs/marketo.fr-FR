@@ -3,7 +3,7 @@ unique-page-id: 11373011
 description: Passage à la version 2.0 de l’éditeur de courrier électronique - Documentation du marketing - Documentation du produit
 title: Transition vers l’éditeur de messagerie 2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Passage à l’éditeur de courrier électronique 2.0 {#transitioning-to-email-editor}
 
-À compter de la [version du 19 juin](../../../../release-notes/2016/release-notes-spring-16.md), tous les abonnements de Marketo ont été convertis en Éditeur de courriel 2.0. [En savoir plus](https://nation.marketo.com/docs/DOC-7038) sur la dépréciation de l&#39;Éditeur de courriel 1.0.
+À compter de la [version du 19 juin](/help/marketo/release-notes/2016/release-notes-spring-16.md), tous les abonnements de Marketo ont été convertis en Éditeur de courriel 2.0. [En savoir plus](https://nation.marketo.com/docs/DOC-7038) sur la dépréciation de l&#39;Éditeur de courriel 1.0.
 
 Les courriers électroniques et les modèles de courrier électronique de votre abonnement doivent avoir un numéro de version. La version se trouve dans la page de résumé du fichier.
 
@@ -27,13 +27,13 @@ Par défaut, tous vos e-mails et modèles de courrier électronique existants se
 Si votre abonnement contient des courriers électroniques de la version 1.0 avant le passage à la version 2.0 de l’éditeur de messagerie, vous constaterez le comportement suivant en fonction de l’état actuel de la ressource :
 
 **Approuvé**  - Cliquez sur &quot;Modifier le brouillon&quot; pour créer un brouillon v2.0 du courrier électronique approuvé. Si vous approuvez ensuite le brouillon v2.0, l’état approuvé du courrier électronique devient v2.0 et il n’est pas possible de revenir à la version 1.0.\
-**Version préliminaire**  - Le fait de cliquer sur &quot;Modifier le brouillon&quot; marquera automatiquement ce brouillon comme v2.0. À ce stade, il ne sera pas possible de supprimer et de revenir à la version 1.0 car il n&#39;existe pas de version approuvée de la ressource.\
+**Version préliminaire**  - Le fait de cliquer sur &quot;Modifier le brouillon&quot; marquera automatiquement ce brouillon comme v2.0. À ce stade, il ne sera pas possible de supprimer et de revenir à la version 1.0 car il n&#39;existe pas de version approuvée de la ressource.
 **Approuvé avec brouillon**  - Le fait de cliquer sur &quot;Modifier le brouillon&quot; marquera alors automatiquement ce brouillon comme v2.0. De ce fait, il n&#39;y a aucun moyen de rétablir le brouillon à v1.0.
 
 Si votre abonnement dispose de modèles de courrier électronique v1.0 avant de passer à la version 2.0 de l’Editeur de messagerie, vous allez connaître le comportement suivant :
 
-**Approuvé**  - Cliquez sur &quot;Modifier le brouillon&quot; pour créer un brouillon v2.0 du modèle de courrier électronique existant.\
-**Version préliminaire**  - Le fait de cliquer sur &quot;Modifier le brouillon&quot; marquera automatiquement ce brouillon comme v2.0. À ce stade, il ne sera pas possible de supprimer et de revenir à la version 1.0 car il n’existe pas de version approuvée de la ressource.\
+**Approuvé**  - Cliquez sur &quot;Modifier le brouillon&quot; pour créer un brouillon v2.0 du modèle de courrier électronique existant.
+**Version préliminaire**  - Le fait de cliquer sur &quot;Modifier le brouillon&quot; marquera automatiquement ce brouillon comme v2.0. À ce stade, il ne sera pas possible de supprimer et de revenir à la version 1.0 car il n’existe pas de version approuvée de la ressource.
 **Approuvé avec brouillon**  - Le fait de cliquer sur &quot;Modifier le brouillon&quot; marquera automatiquement ce brouillon comme v2.0. De ce fait, il n&#39;y a aucun moyen de rétablir le brouillon à v1.0.
 
 Si vous approuvez un modèle de courrier électronique qui était précédemment v1.0 (dans l’un des états ci-dessus), le comportement suivant s’affiche :
@@ -62,10 +62,6 @@ Pour les e-mails v2.0 existants qui utilisaient le modèle (précédemment v1.0)
 
 >[!MORELIKETHIS]
 >
->* [Présentation de l’éditeur de courrier électronique 2.0](email-editor-v2-0-overview.md)
->* [Syntaxe du modèle de courriel](email-template-syntax.md)
-
->
-
-
+>* [Présentation de l’éditeur de courrier électronique 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [Syntaxe du modèle de courriel](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 
