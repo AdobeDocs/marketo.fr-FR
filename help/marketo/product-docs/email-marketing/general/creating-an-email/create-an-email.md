@@ -3,7 +3,7 @@ unique-page-id: 10912163
 description: Création d’un courrier électronique - Documents marketing - Documentation du produit
 title: Créer un courriel
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -67,4 +67,4 @@ Votre e-mail est maintenant créé, alors modifiez-le !
 
 >[!MORELIKETHIS]
 >
->[Modifier votre en-tête de courriel](edit-your-email-header.md)
+>[Modifier votre en-tête de courriel](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
