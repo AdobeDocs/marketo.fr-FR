@@ -3,7 +3,7 @@ unique-page-id: 2359587
 description: Champion/Challenger - Ignorer un test par courriel - Docs marketing - Documentation du produit
 title: Champion/Challenger - Ignorer un test de courriel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Si, à un moment ou à un autre, vous décidez de ne pas continuer à exécuter 
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger : Approuver votre test de messagerie](champion-challenger-approve-your-email-test.md)
-
->
-
-
+>[Champion/Challenger : Approuver votre test de messagerie](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. Accédez à **Activités marketing**.
 
@@ -33,9 +29,6 @@ Si, à un moment ou à un autre, vous décidez de ne pas continuer à exécuter 
 
 1. Cliquez sur **Supprimer** pour confirmer.
 
-   ` ![](assets/image2014-9-15-14-3a17-3a11.png)
+   ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   `
-
-   Vous avez fini ! Si vous décidez de reconfigurer un test, allez-y et [ajoutez un champion/challenger ](add-an-email-champion-challenger.md) par courriel.
-
+   Vous avez fini ! Si vous décidez de reconfigurer un test, allez-y et [ajoutez un champion/challenger ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) par courriel.
