@@ -3,9 +3,9 @@ unique-page-id: 14352623
 description: Détails de l’accès utilisateur - Documents marketing - Documentation du produit
 title: Détails d’accès utilisateur
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## Autorisations d’utilisateur administrateur {#admin-user-permissions}
 
-Les administrateurs peuvent [vue tous les modèles](http://docs.marketo.com/x/OYAXAQ).
+Les administrateurs peuvent [vue tous les modèles](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
 
 ![](assets/templates.jpg)
 
-Les administrateurs peuvent [vue toutes les campagnes](http://docs.marketo.com/x/N4AXAQ).
+Les administrateurs peuvent [vue toutes les campagnes](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
-Les administrateurs peuvent [vue toutes les activités de courriel](http://docs.marketo.com/x/SYAXAQ).
+Les administrateurs peuvent vue toutes les activités de courriel.
 
 ![](assets/email-activity.png)
 
@@ -70,4 +70,3 @@ Les administrateurs peuvent arrêter les campagnes pour le compte des utilisateu
    * Les utilisateurs peuvent partager des modèles dans les catégories que leurs administrateurs leur permettent de
    * Lorsqu’un utilisateur est supprimé d’une équipe, ses modèles ne sont pas partagés avec cette équipe.
    * Lorsqu’un utilisateur est supprimé d’une équipe, ses modèles transfèrent la propriété à l’administrateur du Principal qui l’a supprimé.
-
