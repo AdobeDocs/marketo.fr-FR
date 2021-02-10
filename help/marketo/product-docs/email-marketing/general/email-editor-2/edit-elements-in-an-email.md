@@ -3,9 +3,9 @@ unique-page-id: 1900558
 description: Modifier les éléments dans un courrier électronique - Documents marketing - Documentation du produit
 title: Modifier les éléments dans un courrier électronique
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,7 @@ Les courriels peuvent contenir quatre éléments différents : Texte enrichi, im
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >Vous pouvez également ajouter des images, des jetons, des tableaux et d’autres éléments. Voir [Utilisation de l’éditeur de texte enrichi](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Vous pouvez également ajouter des images, des jetons, des tableaux et d’autres éléments. Voir [Utilisation de l’éditeur de texte enrichi](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -70,7 +67,9 @@ Les courriels peuvent contenir quatre éléments différents : Texte enrichi, im
    >
    >Si vous souhaitez utiliser un jeton Marketo, utilisez cette option. Gardez à l’esprit que lorsque vous utilisez un jeton, l’image apparaît rompue dans l’éditeur, mais s’affiche en mode Prévisualisation et dans le message Envoyer l’exemple.
 
-   **Permutation** ![](assets/eight.png)
+   Pour utiliser une URL externe, collez d’abord dans l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du texte de remplacement (facultatif). Appuyez ensuite sur **Permuter**.
+
+   ![](assets/eight.png)
 
    **Poste**
 
@@ -90,14 +89,15 @@ Les courriels peuvent contenir quatre éléments différents : Texte enrichi, im
    >
    >Si vous remplacez une image, vous devez cocher la case **Remplacer l’image existante** qui s’affiche sous l’URL/le nom de l’image.
 
-   **Design** StudioPour insérer une image de Design Studio, localisez-la simplement...
+   **Design Studio**
+
+   Pour insérer une image à partir de Design Studio, localisez-la simplement...
 
    ![](assets/twelve.png)
 
-   **Permutation**
-   ![](assets/thirteen.png)
+   ...et l&#39;insérer. Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur **Permuter**.
 
-Pour utiliser une URL externe, collez d’abord dans l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du texte de remplacement (facultatif). Appuyez ensuite sur .               ...et l&#39;insérer. Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur .
+   ![](assets/thirteen.png)
 
 ## Modification de l’élément de fragment de code {#how-to-edit-the-snippet-element}
 
