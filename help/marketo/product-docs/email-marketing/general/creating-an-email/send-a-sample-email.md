@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Envoyer un exemple de courrier électronique - Documents marketing - Documentation du produit
 title: Envoyer un exemple de courrier électronique
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Envoyer un exemple de courrier électronique {#send-a-sample-email}
 
-Il est facile et rapide d&#39;envoyer des échantillons d&#39;un courriel. Pour envoyer un courrier électronique de contenu dynamique, voir [Prévisualisation d’un courrier électronique avec contenu dynamique](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+Il est facile et rapide d&#39;envoyer des échantillons d&#39;un courriel. Pour envoyer un courrier électronique de contenu dynamique, voir [Prévisualisation d’un courrier électronique avec contenu dynamique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
@@ -33,9 +33,6 @@ Il est facile et rapide d&#39;envoyer des échantillons d&#39;un courriel. Pour 
    ![](assets/two.png)
 
    >[!NOTE]
-   >
-   >**Rappel**
-   >
    >
    >Pour entrer plusieurs adresses électroniques, séparez-les par des virgules.
 
@@ -59,13 +56,13 @@ Il est facile et rapide d&#39;envoyer des échantillons d&#39;un courriel. Pour 
 
    >[!NOTE]
    >
-   >Le champ de déclenchement ne s’applique qu’aux utilisateurs qui utilisent un script [e-mail](http://developers.marketo.com/documentation/velocity-script/).
+   >Le champ de déclenchement ne s’applique qu’aux utilisateurs qui utilisent un script [e-mail](https://developers.marketo.com/documentation/velocity-script/).
 
 ## Envoyer un exemple de courrier électronique en fonction d’un segment {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Appliquez la segmentation à votre courrier électronique](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
+>[Appliquez la segmentation à votre courrier électronique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
 1. Recherchez votre adresse électronique, sélectionnez-la et cliquez sur l&#39;onglet **Modifier le brouillon**.
 
