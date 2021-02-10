@@ -3,9 +3,9 @@ unique-page-id: 1900554
 description: Modification d’un courrier électronique HTML - Documents marketing - Documentation du produit
 title: Modification du code HTML d’un courrier électronique
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,6 @@ Utilisez la fonctionnalité Code de recherche pour rechercher et remplacer effic
 
    >[!NOTE]
    >
-   >Le code de recherche est également disponible dans l’[éditeur de modèles de courriel](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template).
+   >Le code de recherche est également disponible dans l’[éditeur de modèles de courriel](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
 
 Nous vous recommandons de continuer à modifier vos courriels à l’aide de la fonctionnalité intégrée de Marketo, mais cet éditeur de code offre une certaine souplesse si vous en avez besoin.
