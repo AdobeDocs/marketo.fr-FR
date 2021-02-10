@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger -Objet Line - Marketo Docs - Documentation du produit
 title: Champion/Challenger - Objet Line
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Vous pouvez facilement tester plusieurs lignes d’objet. Lorsque le test est te
 
 >[!PREREQUISITES]
 >
->* [Ajouter un champion de messagerie/Challenger](add-an-email-champion-challenger.md)
+>[Ajouter un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. Dans l’éditeur de test par courrier électronique, sélectionnez **Objet** dans la liste déroulante **Type de test **.
+1. Dans l’éditeur de test par courrier électronique, sélectionnez **Objet** dans la liste déroulante **Type de test**.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
@@ -47,10 +43,9 @@ Vous pouvez facilement tester plusieurs lignes d’objet. Lorsque le test est te
    >
    >**Exemple**
    >
-   >
    >Dans la distribution illustrée ci-dessus, 10 % de l&#39;audience totale spécifiée dans la liste intelligente reçoit l&#39;un des courriels avec l&#39;objet challenger et 90 % reçoivent des courriels avec l&#39;objet champion. Les courriels comportant plusieurs objets challenger partagent les 10 % de parts de trafic. Lorsque le test est terminé, vous pouvez déclarer manuellement un gagnant. A partir de ce moment, tous les futurs utilisateurs recevront le contenu le plus performant.
 
-   Pour obtenir une confiance statistique, assurez-vous que le pourcentage choisi inclut suffisamment de personnes, de sorte que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants.  [Plus d&#39;informations que jamais sur la fiabilité](http://en.wikipedia.org/wiki/Confidence_interval) statistique.
+   Pour obtenir une confiance statistique, assurez-vous que le pourcentage choisi inclut suffisamment de personnes, de sorte que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants. [Plus d&#39;informations que jamais sur la fiabilité](http://en.wikipedia.org/wiki/Confidence_interval) statistique.
 
 1. Cliquez sur **Suivant**.
 
@@ -60,7 +55,4 @@ Vous pouvez facilement tester plusieurs lignes d’objet. Lorsque le test est te
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Champion/Challenger : Définir des critères de champion](champion-challenger-define-champion-criteria.md)
-
+   >[Champion/Challenger : Définir des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
