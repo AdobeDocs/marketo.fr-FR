@@ -3,9 +3,9 @@ unique-page-id: 14352404
 description: Onglet Paramètres d’administration - Documents marketing - Documentation du produit
 title: Onglet Paramètres d’administration
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ L&#39;onglet Paramètres d&#39;administration permet à l&#39;administrateur de 
 
 Si vous cochez la case **Remplacer tous les paramètres de synchronisation Salesforce pour mon équipe**, vous verrez l&#39;option permettant soit d&#39;autoriser uniquement la journalisation via BCC, soit uniquement via l&#39;API.
 
-Si vous choisissez **journalisation de l&#39;API**, tous les paramètres sélectionnés pour Opportunités, Pistes, Contacts `will be set for the entire team after you click **Save Changes**.`
+Si vous choisissez **journalisation de l&#39;API**, tous les paramètres sélectionnés pour Opportunités, Pistes, Contacts seront définis pour l&#39;ensemble de l&#39;équipe après avoir cliqué sur **Enregistrer les modifications**.
 
 De là, vous pourrez également activer en masse les opportunités et la synchronisation des Tâches dans toute l&#39;équipe.
 
@@ -25,12 +25,14 @@ De là, vous pourrez également activer en masse les opportunités et la synchro
 >
 >L&#39;activation en masse de ces paramètres utilise un grand nombre d&#39;appels d&#39;API dans les paramètres Salesforce de votre équipe.
 
-1 - Activer &quot;Configurer les paramètres de mon équipe&quot;
+1. Activez l’option &quot;Configurer les paramètres de mon équipe&quot;.
 
-2 - Activer les paramètres de synchronisation à l’échelle de l’équipe
+1. Activez les paramètres de synchronisation à l’échelle de l’équipe.
 
-3 - Configurez la manière dont vous souhaitez que votre activité électronique et votre dernière activité MSE soient consignées dans SFDC.
+1. Configurez la manière dont vous souhaitez que votre activité de messagerie électronique et votre dernière activité MSE soient enregistrées dans SFDC.
 
-4 - L&#39;option &quot;Synchroniser les Tâches de connexion commerciale&quot; est facultative.
+1. L&#39;option &quot;Synchroniser les Tâches de connexion commerciale&quot; est facultative.
 
-(note : MSE vous permet de sauter des tâches alors que SFDC ne le fait pas - vous devez donc décider comment SFDC gère cette tâche ignorée)
+>[!NOTE]
+>
+>MSC vous permet de sauter des tâches alors que SFDC ne le fait pas - vous devez donc décider comment SFDC gère cette tâche ignorée.
