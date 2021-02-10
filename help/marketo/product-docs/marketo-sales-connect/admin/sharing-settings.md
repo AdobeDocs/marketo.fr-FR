@@ -3,7 +3,7 @@ unique-page-id: 14746143
 description: Paramètres de partage - Documents marketing - Documentation du produit
 title: Paramètres de partage
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Lorsque les paramètres de partage sont activés, seuls les administrateurs peuv
 
 ## Configurer vos paramètres de partage {#configure-your-sharing-settings}
 
-1. Dans l’[application Web](http://toutapp.com/login), accédez à la page Paramètres.
+1. Dans l’[application Web](https://toutapp.com/login), accédez à la page Paramètres.
 
    ![](assets/one-2.png)
 
@@ -58,4 +58,3 @@ Lorsque les paramètres de partage sont activés, seuls les administrateurs peuv
 1. Maintenant que votre équipe a été ajoutée, vous pouvez choisir d&#39;autoriser uniquement les administrateurs d&#39;équipe à partager ou tous les utilisateurs de cette équipe. Dans cet exemple, nous avons donné à tous les utilisateurs de l&#39;équipe DTS l&#39;accès de partage.
 
    ![](assets/eight-1.png)
-
