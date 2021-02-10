@@ -3,7 +3,7 @@ unique-page-id: 2950617
 description: Utilisation de contenu dynamique dans un courrier électronique - Documents marketing - Documentation du produit
 title: Utilisation de contenu dynamique dans un courrier électronique
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Création d’une segmentation](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
-
->
-
-
+>[Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Utilisez Contenu dynamique dans les courriers électroniques pour envoyer les informations ciblées de pistes.
 
@@ -39,9 +35,9 @@ Utilisez Contenu dynamique dans les courriers électroniques pour envoyer les in
 
    >[!NOTE]
    >
-   >Vous pouvez également créer un élément dans la dynamique du courrier électronique. Pour ce faire, sélectionnez la zone, cliquez sur l’icône d’engrenage, puis sélectionnez **Rendre dynamique** (ou [Remplacer par un extrait de code](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), selon ce que vous faites).
+   >Vous pouvez également créer un élément dans la dynamique du courrier électronique. Pour ce faire, sélectionnez la zone, cliquez sur l’icône d’engrenage, puis sélectionnez **Rendre dynamique** (ou [Remplacer par un extrait de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), selon ce que vous faites).
 
-   Saisissez le nom de la segmentation, sélectionnez-le, puis cliquez sur Enregistrer.
+1. Saisissez le nom de la segmentation, sélectionnez-le, puis cliquez sur **Enregistrer**.
 
    ![](assets/1.4.png)
 
@@ -75,10 +71,6 @@ Doux ! Vous pouvez désormais envoyer des courriers électroniques flexibles à 
 
 >[!MORELIKETHIS]
 >
->* [Prévisualisation d’un courrier électronique avec du contenu dynamique](preview-an-email-with-dynamic-content.md)
->* [Utilisation du contenu dynamique dans un Landing page](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
-
->
-
-
+>* [Prévisualisation d’un courrier électronique avec du contenu dynamique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [Utilisation du contenu dynamique dans un Landing page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
 
