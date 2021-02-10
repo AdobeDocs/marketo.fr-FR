@@ -3,7 +3,7 @@ unique-page-id: 1147344
 description: Glossaire des jetons système - Documents marketing - Documentation du produit
 title: Glossaire des jetons système
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -25,9 +25,9 @@ Le jeton `{{system.date}}` affiche la date actuelle au moment de l’exécution 
 
 **Fonctionne dans :**
 
-* [Modifier l’étape de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valorisation des données
-* [Étape intéressante ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) du flux de temps
-* [Créer une étape ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de flux de tâches
+* [Modifier l’étape de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valorisation des données
+* [Étape intéressante ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) du flux de temps
+* [Créer une étape ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de flux de tâches
 * Corps d’un courriel ou d’un modèle
 
 ## system.time {#system-time}
@@ -36,9 +36,9 @@ Le jeton `{{system.time}}` affiche l’heure actuelle au moment de l’exécutio
 
 **Fonctionne dans :**
 
-* [Modifier l’étape de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valorisation des données
-* [Étape intéressante ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) du flux de temps
-* [Créer une étape ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de flux de tâches
+* [Modifier l’étape de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valorisation des données
+* [Étape intéressante ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) du flux de temps
+* [Créer une étape ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de flux de tâches
 * Corps d’un courriel ou d’un modèle
 
 ## system.dateTime {#system-datetime}
@@ -47,18 +47,18 @@ Le jeton `{{system.dateTime}}` affiche la date et l’heure actuelles au moment 
 
 **Fonctionne dans :**
 
-* [Modifier l’étape de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valorisation des données
-* [Étape intéressante ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) du flux de temps
-* [Créer une étape ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de flux de tâches
+* [Modifier l’étape de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valorisation des données
+* [Étape intéressante ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) du flux de temps
+* [Créer une étape ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de flux de tâches
 * Corps d’un courriel ou d’un modèle
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-Le jeton `{{system.forwardToFriendLink}}` vous permet de contrôler l&#39;emplacement du [&#39;Transférer à un lien d&#39;ami&#39; dans les courriels](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
+Le jeton `{{system.forwardToFriendLink}}` vous permet de contrôler l&#39;emplacement du [&#39;Transférer à un lien d&#39;ami&#39; dans les courriels](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
 
 **Fonctionne dans :**
 
-* [Ajouter un jeton système en tant que lien dans un modèle de ](add-a-system-token-as-a-link-in-an-email.md) courrier électronique
+* [Ajouter un jeton système en tant que lien dans un modèle de ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) courrier électronique
 
 ## system.unsubscriptionLink {#system-unsubscribelink}
 
@@ -66,7 +66,7 @@ Le jeton `{{system.unsubscribLink}}` vous permet de contrôler l’emplacement d
 
 **Fonctionne dans :**
 
-* [Ajouter un jeton système en tant que lien dans un modèle de ](add-a-system-token-as-a-link-in-an-email.md) courrier électronique
+* [Ajouter un jeton système en tant que lien dans un modèle de ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) courrier électronique
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
@@ -74,4 +74,4 @@ Le jeton `{{system.viewAsWebpageLink}}` permet de contrôler l&#39;emplacement d
 
 **Fonctionne avec :**
 
-* [Ajouter un jeton système en tant que lien dans un modèle de ](add-a-system-token-as-a-link-in-an-email.md) courrier électronique
+* [Ajouter un jeton système en tant que lien dans un modèle de ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) courrier électronique
