@@ -3,7 +3,7 @@ unique-page-id: 1147340
 description: Envoyer des e-mails à partir du responsable - Documents marketing - Documentation du produit
 title: Envoyer des courriers électroniques à partir du propriétaire de piste
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -47,7 +47,8 @@ Que se passe-t-il si vous souhaitez envoyer un courrier électronique à un resp
    >
    >Veillez à ajouter un espace entre les jetons de prénom et de nom.
 
-   Cliquez dans le champ De l’e-mail (supprimez toute adresse de messagerie existante), puis cliquez sur le bouton Insérer un jeton.
+1. Cliquez dans le champ De l’e-mail (supprimez toute adresse de messagerie existante), puis cliquez sur le bouton Insérer un jeton.
+
    ![](assets/eight.png)
 
 1. Début de saisie &quot;`{{lead.Lead Owner`&quot; et de sélection du jeton **`{{lead.Lead Owner Email Address}}`**.
@@ -61,4 +62,3 @@ Que se passe-t-il si vous souhaitez envoyer un courrier électronique à un resp
 1. Assurez-vous que les champs **Répondre à** et **Objet** sont renseignés et que vous avez terminé !
 
    ![](assets/eleven.png)
-
