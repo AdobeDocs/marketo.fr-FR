@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger - Approbation de votre test de messagerie électronique - Docs marketing - Documentation du produit
 title: Champion/Challenger - Approuver votre test de messagerie
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ L’étape finale de la configuration de votre test de messagerie pour l’appro
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger : Configuration des alertes de rapport](champion-challenger-configure-report-alerts.md)
-
->
-
-
+>[Champion/Challenger : Configuration des alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
 1. Accédez à **Activités marketing**.
 
@@ -33,10 +29,7 @@ L’étape finale de la configuration de votre test de messagerie pour l’appro
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >Lors de l’approbation d’un test **e-mail entier*******, approuvez d’abord l’e-mail du concurrent.
+   >Lors de l’approbation d’un test **E-mail entier**, approuvez d’abord l’e-mail du concurrent.
 
    >[!NOTE]
    >
@@ -46,10 +39,6 @@ L’étape finale de la configuration de votre test de messagerie pour l’appro
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger : Déclarer un champion](champion-challenger-declare-a-champion.md)
-   >    * [Champion/Challenger : Ignorer un test de messagerie](champion-challenger-discard-an-email-test.md)
-
+   >* [Champion/Challenger : Déclarer un champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [Champion/Challenger : Ignorer un test de messagerie](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
 
