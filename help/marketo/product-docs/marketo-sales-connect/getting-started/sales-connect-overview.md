@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Présentation de la connexion commerciale - Documents marketing - Documentation du produit
 title: Présentation de la connexion commerciale
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Marketing Sales Connect est une solution d&#39;assistance commerciale à multipl
 
 >[!AVAILABILITY]
 >
->
 >Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre responsable de succès client.
 
 ## Flux en direct {#the-live-feed}
 
-Les représentants commerciaux peuvent [vue d&#39;engagement en temps réel](http://docs.marketo.com/x/d4TS) du contenu marketing et commercial.
+Les représentants commerciaux peuvent [vue d&#39;engagement en temps réel](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) du contenu marketing et commercial.
 
 ![](assets/engagement.jpg)
 
 ## Vue de détails de la personne {#person-detail-view}
 
-Accédez aux [statistiques détaillées des personnes](http://docs.marketo.com/x/e4TS).
+Accédez aux [statistiques détaillées des personnes](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -62,7 +61,7 @@ Découvrez comment vos prospects s&#39;engagent dans vos efforts de vente.
   </tr> 
   <tr> 
    <td colspan="1"><p>Recevoir un appel de vente</p></td> 
-   <td colspan="1"><p>Le prospect a reçu un appel d'un vendeur utilisant le <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">téléphone commercial</a>.</p></td> 
+   <td colspan="1"><p>Le prospect a reçu un appel d'un vendeur utilisant le <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">téléphone commercial</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Ajouter au Campaign de vente</p></td> 
@@ -81,7 +80,7 @@ Découvrez comment vos prospects s&#39;engagent dans vos efforts de vente.
 
 ## Partager les campagnes marketing {#share-marketing-campaigns}
 
-Créez une campagne intelligente simple pour donner à vos utilisateurs commerciaux l&#39;accès aux [données de campagne marketing](http://docs.marketo.com/x/NwDh).
+Créez une campagne intelligente simple pour donner à vos utilisateurs commerciaux l&#39;accès aux [données de campagne marketing](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
@@ -89,9 +88,4 @@ Prêt à démarrer ? Pour obtenir des instructions sur la configuration, cliquez
 
 >[!MORELIKETHIS]
 >
->* [Prise en main de Sales Connect](http://docs.marketo.com/x/coTS)
-
->
-
-
-
+>[Prise en main de Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
