@@ -3,9 +3,9 @@ unique-page-id: 11371040
 description: Syntaxe du modèle de courrier électronique - Documents marketing - Documentation du produit
 title: Syntaxe du modèle de courriel
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2395'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Les éléments sont des zones de contenu que vous définissez comme modifiables 
 
 ## Texte enrichi {#rich-text}
 
-Si vous définissez une région sous la forme de texte enrichi, les utilisateurs peuvent modifier son contenu [à l’aide de l’éditeur de texte enrichi de Marketo](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Il existe deux manières de définir un élément Texte enrichi dans un modèle de courrier électronique : mktEditable et mktoText. N’oubliez pas qu’un élément de texte enrichi peut toujours être converti en extrait de code à partir de l’éditeur de courrier électronique.
+Si vous définissez une région sous la forme de texte enrichi, les utilisateurs peuvent modifier son contenu [à l’aide de l’éditeur de texte enrichi de Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Il existe deux manières de définir un élément Texte enrichi dans un modèle de courrier électronique : mktEditable et mktoText. N’oubliez pas qu’un élément de texte enrichi peut toujours être converti en extrait de code à partir de l’éditeur de courrier électronique.
 
 ### Option 1 - mktEditable {#option-mkteditable}
 
@@ -81,7 +81,7 @@ Exemple :
 
 Vous disposez de deux options pour définir des éléments d’image modifiables. Vous pouvez utiliser soit une balise `<div>`, qui spécifie un conteneur dans lequel `<img>` sera inséré, soit une balise `<img>`. Si vous souhaitez que l’utilisateur final sélectionne simplement une image qui renverra l’URL de l’image (par opposition au modèle DOM), reportez-vous aux &quot;variables d’image&quot; dans la section ci-dessous. Les deux options suivantes vont insérer un élément HTML `<img>`.
 
-### Option 1 - Utiliser un \&lt;div\> {#option-use-a-div}
+### Option 1 - Utiliser un `<div>` {#option-use-a-div}
 
 Attributs requis
 
@@ -128,7 +128,7 @@ Exemple :
 
 ## Extraits de code {#snippets}
 
-Si vous définissez une région sous la forme d’un extrait de code, les utilisateurs finaux seront en mesure de choisir l’extrait de code [approuvé](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)qu’ils souhaitent insérer dans cette région. Bien que les éléments de texte enrichi puissent être convertis en extraits de code à partir de l’éditeur de messagerie, lorsque vous définissez une région spécifique en extrait de code, il ne peut pas être converti en texte enrichi. Vous pouvez spécifier une région d&#39;extrait de code à l&#39;aide d&#39;un `<div>` avec class=&quot;mktoSnippet&quot;
+Si vous définissez une région sous la forme d’un extrait de code, les utilisateurs finaux seront en mesure de choisir l’extrait de code [approuvé](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)qu’ils souhaitent insérer dans cette région. Bien que les éléments de texte enrichi puissent être convertis en extraits de code à partir de l’éditeur de messagerie, lorsque vous définissez une région spécifique en extrait de code, il ne peut pas être converti en texte enrichi. Vous pouvez spécifier une région d&#39;extrait de code à l&#39;aide d&#39;un `<div>` avec class=&quot;mktoSnippet&quot;
 
 Attributs requis
 
@@ -351,8 +351,6 @@ Attributs facultatifs
 * **mktoAddByDefault :** Détermine si ce module sera dans le canevas d’un nouveau courrier électronique qui utilise ce modèle lors de sa création. La valeur par défaut est true (si mktoActive a la valeur false, cette valeur est ignorée).
 
 >[!NOTE]
->
->**Rappel**
 >
 >Les valeurs de classe contenant la syntaxe Marketo (c.-à-d. mktoModule, mktoContainer, mktoText) sont sensibles à la casse. Les noms d’attribut personnalisés (c.-à-d. mktoimgwidth, mktoname) ne le sont pas.
 
