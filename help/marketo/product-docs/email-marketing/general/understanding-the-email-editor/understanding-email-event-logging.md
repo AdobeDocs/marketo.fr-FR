@@ -3,7 +3,7 @@ unique-page-id: 1147356
 description: Présentation de la journalisation des Événements électroniques - Documents marketing - Documentation du produit
 title: Présentation de la journalisation des Événements électroniques
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Lors de l’envoi de courriers électroniques, Marketo consigne différents poin
 >[!CAUTION]
 >
 >Si le même courrier électronique est envoyé à la même personne deux fois à partir de la même campagne, le événement **Ouvert** est enregistré une fois au maximum.
-
