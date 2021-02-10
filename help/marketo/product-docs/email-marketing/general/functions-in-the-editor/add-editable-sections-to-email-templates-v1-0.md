@@ -3,7 +3,7 @@ unique-page-id: 1900585
 description: Ajouter des sections modifiables aux modèles de courrier électronique v1.0 - Documents marketing - Documentation du produit
 title: Ajouter des sections modifiables aux modèles de courrier électronique v1.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -18,6 +18,7 @@ Si vous créez un modèle dans la version 1.0 de l’éditeur de modèles de cou
 >[!NOTE]
 >
 >**Exemple**
+>
 >`<pre> <div class="mktEditable" id="UNIQUE_ID">This part is editable</div></pre>`
 
 Règles :
