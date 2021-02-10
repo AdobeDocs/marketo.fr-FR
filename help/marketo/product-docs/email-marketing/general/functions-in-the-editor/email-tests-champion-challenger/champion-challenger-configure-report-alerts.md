@@ -3,7 +3,7 @@ unique-page-id: 2359567
 description: Champion/Challenger - Configurer des alertes de rapport - Docs marketing - Documentation du produit
 title: Champion/Challenger - Configurer des alertes de rapport
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Marketo vous enverra des rapports sur la façon dont se déroule le test par cou
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger : Définir des critères de champion](champion-challenger-define-champion-criteria.md)
-
->
-
-
+>[Champion/Challenger : Définir des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. Planifions l&#39;envoi du rapport une fois par semaine le vendredi à 9 heures.
 
@@ -47,9 +43,4 @@ Marketo vous enverra des rapports sur la façon dont se déroule le test par cou
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger : Approuver votre test de messagerie](champion-challenger-approve-your-email-test.md)
-
-
+   >[Champion/Challenger : Approuver votre test de messagerie](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
