@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: Ajouter des modules à votre adresse électronique - Documents marketing - Documentation du produit
 title: Ajouter des modules à votre adresse électronique
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Dans la version 2.0 de l’éditeur de courrier électronique, un module est une
 
    >[!NOTE]
    >
-   >La plupart des modèles de démarrage de marketing contiennent des modules. Vous pouvez également [créer votre propre ](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules).
+   >La plupart des modèles de démarrage de marketing contiennent des modules. Vous pouvez également [créer votre propre ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
 1. À l’extrémité droite du courrier électronique, cliquez sur **Modules**.
 
@@ -67,5 +67,4 @@ C&#39;est tout ce qu&#39;il y a à ça.
 
 >[!MORELIKETHIS]
 >
->[Syntaxe du modèle de courriel](email-template-syntax.md)
-
+>[Syntaxe du modèle de courriel](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
