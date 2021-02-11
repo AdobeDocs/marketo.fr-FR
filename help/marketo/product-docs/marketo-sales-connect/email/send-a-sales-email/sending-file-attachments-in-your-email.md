@@ -3,9 +3,9 @@ unique-page-id: 14352523
 description: Envoi de pièces jointes dans votre courrier électronique - Documents marketing - Documentation du produit
 title: Envoi de pièces jointes dans votre courrier électronique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ En règle générale, tout fichier de plus de 20 Mo est trop volumineux pour êt
 >
 >Lorsque vous utilisez Tout comme canal de diffusion de messagerie, nous vous recommandons d&#39;utiliser des fichiers de 19 Mo ou moins lors de l&#39;envoi de courriels.
 
-Si vous devez absolument envoyer un fichier volumineux, essayez de le zipper en premier ou de le télécharger en tant que [pièce jointe pouvant faire l’objet d’un suivi](http://docs.marketo.com/x/3oPS) dans l’[application Web](http://toutapp.com/login).
+Si vous devez absolument envoyer un fichier volumineux, essayez de le zipper en premier ou de le télécharger en tant que [pièce jointe pouvant faire l’objet d’un suivi](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md) dans l’[application Web](https://toutapp.com/login).
