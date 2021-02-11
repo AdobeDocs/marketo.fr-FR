@@ -3,9 +3,9 @@ unique-page-id: 14352457
 description: Présentation des Ajoutes .NET - Documentation sur le marketing - Documentation sur le produit
 title: Présentation des Ajoutes .NET
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->C&#39;est notre ancien complément. Si vous l&#39;avez déjà installé, il continuera à fonctionner jusqu&#39;en 2020. Si vous êtes un nouvel utilisateur, veuillez installer notre nouveau [complément Office 365](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+>C&#39;est notre ancien complément. Si vous l&#39;avez déjà installé, il continuera à fonctionner jusqu&#39;en 2020. Si vous êtes un nouvel utilisateur, veuillez installer notre nouveau [complément Office 365](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
 ## Ajout d&#39;une partie de contenu {#attaching-a-piece-of-content}
 
@@ -33,7 +33,7 @@ Ceci extrait votre calendrier Outlook et vous permet d&#39;ajouter des dates et 
 
 Extrayez un modèle Tout prédéfini dans le message Outlook en appuyant sur le bouton **Modèles**.
 
-Nous `sync with all of your personal templates and any shared templates` faisons partie de l&#39;équipe. Nous insérons automatiquement le dernier modèle utilisé et le modèle le plus souvent utilisé pour un accès facile.
+Nous synchronisons avec tous vos modèles personnels et tous les modèles partagés de l&#39;équipe. Nous insérons automatiquement le dernier modèle utilisé et le modèle le plus souvent utilisé pour un accès facile.
 
 ## Bouton Tout It {#the-tout-it-button}
 
