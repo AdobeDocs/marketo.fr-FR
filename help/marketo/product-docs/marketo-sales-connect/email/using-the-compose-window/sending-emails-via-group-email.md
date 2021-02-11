@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: Envoi d'e-mails par courriel de groupe - Documents marketing - Documentation du produit
 title: Envoi de courriers électroniques par courriel de groupe
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,8 @@ Voici comment envoyer/modifier des courriers électroniques à l’aide de l’o
 
 ## Modification d&#39;un courriel de groupe {#editing-a-group-email}
 
-1. Créez un courrier électronique de groupe à l’aide des [étapes 1 à 3 ci-dessus](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Créez un courrier électronique de groupe à l’aide des [étapes 1 à 3 ci-dessus](#sending-a-group-email).
+
 1. Choisissez un modèle ou complétez votre adresse électronique.
 
    ![](assets/edit-two.png)
@@ -58,11 +59,6 @@ Voici comment envoyer/modifier des courriers électroniques à l’aide de l’o
 
 >[!MORELIKETHIS]
 >
->* [Options d&#39;envoi en masse](http://docs.marketo.com/x/HwQ6Ag)
->* [Utilisation d’un modèle dans la fenêtre Composer](http://docs.marketo.com/x/MQQ6Ag)
->* [Champs dynamiques](http://docs.marketo.com/x/wwDb)
-
->
-
-
+>* [Options d&#39;envoi en masse](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [Utilisation d’un modèle dans la fenêtre Composer](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
