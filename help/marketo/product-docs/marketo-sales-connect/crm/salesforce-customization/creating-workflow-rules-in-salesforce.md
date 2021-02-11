@@ -3,7 +3,7 @@ unique-page-id: 14745823
 description: Création de règles de flux de travail dans Salesforce - Documents marketing - Documentation du produit
 title: Création de règles de processus dans Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -101,4 +101,3 @@ Vous trouverez ci-dessous les noms recommandés des règles de flux de travail e
    ![](assets/thirteen.png)
 
    Après la dernière étape, vous pouvez choisir de cloner la règle de flux de travail pour les autres champs répertoriés dans la section Prise en main : Desc, Type, Source, Date. Une fois que vous avez terminé les quatre règles de flux de travail dans l&#39;objet Contact, répétez la même chose pour l&#39;objet Lead.
-
