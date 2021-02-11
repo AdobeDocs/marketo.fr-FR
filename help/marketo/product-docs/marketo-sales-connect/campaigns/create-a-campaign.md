@@ -3,9 +3,9 @@ unique-page-id: 14352618
 description: Création d’un Campaign - Documents marketing - Documentation du produit
 title: Créer un Campaign
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Alors, comment mettre en place un Campaign ?
 
    >[!NOTE]
    >
-   >Créez une nouvelle catégorie en cliquant sur le ** +** en regard de **Catégories**.
+   >Créez une nouvelle catégorie en cliquant sur **+** en regard de **Catégories**.
 
 1. La catégorie que vous avez choisie sera sélectionnée. Si vous changez d’avis, cliquez sur la liste déroulante et sélectionnez-en une autre. Lorsque vous avez terminé, cliquez sur **Continuer**.
 
@@ -44,7 +44,7 @@ Alors, comment mettre en place un Campaign ?
 
    ![](assets/four-1.png)
 
-1. Choisissez entre : Courriel, Appel, InMail ou Tâche personnalisée. Dans cet exemple, nous choisissons [Courriel](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
+1. Choisissez entre : Courriel, Appel, InMail ou Tâche personnalisée. Dans cet exemple, nous choisissons [Courriel](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
 
    ![](assets/five-1.png)
 
@@ -54,11 +54,10 @@ Alors, comment mettre en place un Campaign ?
 
    >[!NOTE]
    >
-   >Les &quot;jours&quot; ne sont pas le nombre de jours entre les actions, mais le jour dans la séquence. Par exemple, si votre campagne durera 7 jours, la saisie de &quot;3&quot; signifie que l’action sera exécutée le jour 3 sur 7, **et non **3 jours plus tard.
+   >Les &quot;jours&quot; ne sont pas le nombre de jours entre les actions, mais le jour dans la séquence. Par exemple, si votre campagne durera 7 jours, la saisie de &quot;3&quot; signifie que l’action sera exécutée le jour 3 sur 7, **pas** 3 jours plus tard.
 
 1. Veillez à personnaliser les options de planification et de réponse, comme sauter les week-ends (ce qui est génial) en visitant l&#39;onglet **Paramètres** de votre Campaign.
 
    ![](assets/seven.png)
 
    Maintenant il est temps d&#39;début d&#39;Ajouter des gens à votre Campaign !
-
