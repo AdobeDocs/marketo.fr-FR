@@ -3,7 +3,7 @@ unique-page-id: 18317367
 description: Vue Campagnes Liste en tant qu'autre utilisateur - Documentation marketing - Documentation du produit
 title: Vue Campagnes Liste en tant qu'autre utilisateur
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -34,4 +34,3 @@ En tant qu’administrateur, vous pouvez vue des campagnes comme n’importe que
    >[!NOTE]
    >
    >Vous pouvez également utiliser des filtres ou la fonction de recherche avec la Vue De la vue ce qui vous intéresse le plus.
-
