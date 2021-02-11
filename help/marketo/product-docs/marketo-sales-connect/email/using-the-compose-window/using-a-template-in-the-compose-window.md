@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: Utilisation d'un modèle dans la fenêtre Composer - Documents marketing - Documentation du produit
 title: Utilisation d’un modèle dans la fenêtre Composer
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,4 @@ Favoris **jusqu’à cinq** catégories de modèle spécifiques pour accéder ra
    >
    >**** Favoris par défaut. Il contient les modèles de courrier électronique favoris, pas les catégories.
 
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Champs dynamiques](http://docs.marketo.com/x/wwDb)
-   >    * [Utilisation de modèles](http://docs.marketo.com/display/DOCS/Templates)
-
-
-La catégorie sélectionnée est maintenant épinglée.
+   La catégorie sélectionnée est maintenant épinglée.
