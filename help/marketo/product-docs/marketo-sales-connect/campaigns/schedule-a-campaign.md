@@ -3,7 +3,7 @@ unique-page-id: 14352612
 description: Planification d’un Campaign - Documents marketing - Documentation du produit
 title: Planification d’une Campaign
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Ouvrez l’Ajoute à Campaign modal, soit en ajoutant des individus, un groupe o
 
 Après avoir cliqué sur **Suivant**, vous pouvez prévisualisation le premier courrier électronique.
 
-Après avoir cliqué sur **Suivant **à nouveau, vous serez amené à une option pour le moment où vous souhaitez que votre campagne sorte. Vous pouvez l’avoir en début maintenant ou programmer une heure pour que la campagne commence ultérieurement.
+Après avoir cliqué de nouveau sur **Suivant**, vous serez redirigé vers une option pour savoir quand votre campagne doit sortir. Vous pouvez l’avoir en début maintenant ou programmer une heure pour que la campagne commence ultérieurement.
