@@ -3,7 +3,7 @@ unique-page-id: 14352484
 description: Comment corriger "Nous n'avons pas pu authentifier votre demande" lors de la connexion à Salesforce - Marketo Docs - Documentation du produit
 title: Comment corriger "Impossible d'authentifier votre requête" lors de la connexion à Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -31,4 +31,3 @@ Si vous recevez le message d&#39;erreur &quot;Nous n&#39;avons pas pu authentifi
 1. Sélectionnez **Gérer les applications**.
 1. Sélectionnez **Utilisation OAuth des applications connectées**.
 1. Assurez-vous que Sales Connect affiche &quot;Bloc&quot; en regard de celui-ci. Si &quot;Débloquer&quot; s&#39;affiche, cliquez sur le bouton pour débloquer l&#39;accès de Sales Connect à Salesforce.
-
