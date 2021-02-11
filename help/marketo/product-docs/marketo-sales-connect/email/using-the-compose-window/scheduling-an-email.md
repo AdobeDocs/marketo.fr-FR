@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: Planification d’un courrier électronique - Documents marketing - Documentation du produit
 title: Planification d’un courrier électronique
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,4 @@ Suivez ces étapes simples pour planifier un courriel.
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Présentation du centre de commandes](http://docs.marketo.com/x/kgDb)
-
+   >[Présentation du centre de commandes](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
