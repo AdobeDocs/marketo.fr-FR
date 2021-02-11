@@ -3,7 +3,7 @@ unique-page-id: 13796471
 description: Présentation des flux en direct - Documents marketing - Documentation du produit
 title: Présentation des flux en direct
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -33,9 +33,6 @@ Les personnes marquées d’une ligne bleue représentent l’engagement envers 
 >
 >* Si votre destinataire était connecté au réseau sans fil pour une société qui a son siège informatique dans une autre ville ou un autre pays, nous consignerions cet emplacement au lieu du paramètre régional actuel du destinataire.
 >* Si votre courrier électronique a été transféré ou ouvert par une personne dans le champ CC/BCC, nous essayons d&#39;afficher précisément l&#39;emplacement de ces personnes.
-
->
-
 
 
 ## Onglet tâches {#tasks-tab}
@@ -106,4 +103,3 @@ Affichez les meilleures personnes (classées du plus haut au plus bas) classées
 >[!NOTE]
 >
 >Si vous constatez qu’une personne a vue à plusieurs reprises votre courrier électronique dans votre flux en direct, elle aurait pu le transférer à d’autres destinataires. Cela est probablement le cas si vous remarquez que le début d’emplacement change pour ces vues.
-
