@@ -3,9 +3,9 @@ unique-page-id: 37356329
 description: Aperçu de la recherche avancée - Documentation sur le marketing - Documentation du produit
 title: Aperçu de la recherche avancée
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,9 @@ Filtrez par destinataire/expéditeur de courriel dans la section Qui.
 
 ![](assets/who.png)
 
-| **Vue en tant que** | Vous pouvez filtrer selon un expéditeur spécifique dans votre instance de connexion commerciale (cette option est disponible pour les administrateurs uniquement). |
+| Liste déroulante | Description |
 |---|---|
+| **Vue en tant que** | Vous pouvez filtrer selon un expéditeur spécifique dans votre instance de connexion commerciale (cette option est disponible pour les administrateurs uniquement). |
 | **Par groupe** | Filtrez les courriers électroniques selon un groupe spécifique de destinataires. |
 | **Par personne** | Filtrer selon un destinataire spécifique. |
 
@@ -82,8 +83,9 @@ Filtres par votre activité de courriel envoyée. Vous pouvez choisir vues/aucun
 
 Filtres par tous les courriers électroniques en attente.
 
-| **Programmé** | Courriers électroniques planifiés à partir de la fenêtre de composition (Salesforce ou l’application Web), de modules externes de messagerie ou d’une campagne. |
+| Statut | Description |
 |---|---|
+| **Programmé** | Courriers électroniques planifiés à partir de la fenêtre de composition (Salesforce ou l’application Web), de modules externes de messagerie ou d’une campagne. |
 | **Versions préliminaires** | Courriers électroniques actuellement en état de brouillon. Pour être enregistré en tant que brouillon, les courriers électroniques doivent comporter un objet et un destinataire. |
 | **En cours** | Courriers électroniques en cours d’envoi. Les courriels ne doivent pas rester dans cet état pendant plus de quelques secondes. |
 
@@ -93,8 +95,9 @@ Filtres par tous les courriers électroniques en attente.
 
 Filtres par courriers électroniques qui n’ont jamais été remis.
 
-| **Échec** | Lorsqu&#39;un courrier électronique ne parvient pas à être envoyé à partir de Sales Connect (les raisons courantes sont les suivantes : e-mails envoyés à des contacts désabonnés/bloqués, ou en cas de problème lors de l’remplissage des champs dynamiques). |
+| Statut | Description |
 |---|---|
+| **Échec** | Lorsqu&#39;un courrier électronique ne parvient pas à être envoyé à partir de Sales Connect (les raisons courantes sont les suivantes : e-mails envoyés à des contacts désabonnés/bloqués, ou en cas de problème lors de l’remplissage des champs dynamiques). |
 | **Bascule** | Un courrier électronique est signalé comme rebondi lorsqu’il est rejeté par le serveur de destinataires. Seuls les courriers électroniques envoyés via les serveurs Sales Connect s&#39;affichent ici. |
 | **Indésirable** | Lorsque le courrier électronique a été signalé comme indésirable (terme courant pour &quot;courrier électronique non sollicité&quot;) par le destinataire. Seuls les courriers électroniques envoyés via les serveurs Sales Connect s&#39;affichent ici. |
 
@@ -113,4 +116,3 @@ Voici comment créer une recherche enregistrée.
    Vos recherches enregistrées se trouveront dans la barre latérale à gauche.
 
    ![](assets/advanced-search-overview-15.png)
-
