@@ -3,9 +3,9 @@ unique-page-id: 14352416
 description: Présentation de la page Analytics - Documents marketing - Documentation du produit
 title: Présentation de la page Analytics
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ La page d’analyse est mise à jour toutes les dix minutes.
 
 ## Que signifient les chiffres ? {#what-do-the-numbers-mean}
 
-Les nombres dans `radials` calculent le nombre total de événements sur tous les courriers électroniques envoyés. Donc si un `single same email is viewed five times, it will add five views`à ce nombre. La même idée s’applique aux clics et réponses comptabilisés dans le cercle.
+Les nombres compris dans les radiales calculent le nombre total de événements sur tous les courriers électroniques envoyés. Ainsi, si un même courriel est affiché cinq fois, il ajoute cinq vues à ce nombre. La même idée s’applique aux clics et réponses comptabilisés dans le cercle.
 
-Toutes nos statistiques conservées dans `table` seront calculées en examinant les vues, les clics et les réponses uniques à vos courriels. Si `one email is viewed five times, we will count that as one view.` C&#39;est pourquoi vous pouvez voir une grande différence dans les nombres des tables par rapport aux nombres dans le radial.
+Toutes nos statistiques conservées dans le tableau seront calculées en examinant les vues, les clics et les réponses uniques à vos courriels. Si un e-mail est affiché cinq fois, nous compterons cela comme une vue. C&#39;est pourquoi vous pouvez voir une grande différence dans les nombres dans les tableaux par rapport aux nombres dans le radial.
 
 ## Onglets Analytics {#analytic-tabs}
 
@@ -45,6 +45,6 @@ Vous pouvez voir ici les statistiques et les classements de toute votre équipe.
 
 L’onglet Contenu contient des statistiques sur les modèles, le contenu et les liens. Vous pouvez filtrer par tout le monde ou par équipes créées par vos administrateurs.
 
-Si vous voyez du texte bleu sous la colonne d’objet, cela signifie que le modèle est `shared`. Vous pouvez cliquer sur le texte en bleu pour l’amener à ce modèle. Vue son utilisation en cliquant sur **Analyses de modèle**.
+Si vous voyez du texte bleu sous la colonne Objet, cela signifie que le modèle est partagé. Vous pouvez cliquer sur le texte en bleu pour l’amener à ce modèle. Vue son utilisation en cliquant sur **Analyses de modèle**.
 
 Les &quot;clics sur le contenu&quot; sont comptabilisés lorsqu’un destinataire clique sur un lien de votre courrier électronique.
