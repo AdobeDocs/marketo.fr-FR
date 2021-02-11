@@ -3,9 +3,9 @@ unique-page-id: 37357306
 description: Utilisation d’actions rapides pour accélérer votre flux de travail - Documents marketing - Documentation du produit
 title: Utilisation d’actions rapides pour accélérer votre processus
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ Les actions rapides de courrier électronique sont dynamiques et mises à jour e
 
 **Livré**
 
-| Archiver | Ajoute le courrier électronique au dossier archivé et arrête toutes les vues de désactivation et de suivi des clics pour ce courrier électronique. |
+| Statut | Description |
 |---|---|
+| Archiver | Ajoute le courrier électronique au dossier archivé et arrête toutes les vues de désactivation et de suivi des clics pour ce courrier électronique. |
 | Réussite | Marquera le courrier électronique comme ayant été correctement signalé dans les analyses de modèles. |
 
 **Archivé**
@@ -84,13 +85,11 @@ Les actions rapides de courrier électronique sont dynamiques et mises à jour e
 
 **Actions de suivi**
 
-** ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
+![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-**
-
-| Envoyer un courriel de suivi | Ouvre la fenêtre de composition avec le corps du courrier électronique intégré sélectionné annexé et prêt à être envoyé au destinataire. |
+| Fonction | Description |
 |---|---|
+| Envoyer un courriel de suivi | Ouvre la fenêtre de composition avec le corps du courrier électronique intégré sélectionné annexé et prêt à être envoyé au destinataire. |
 | Effectuer un appel | Ouvre le téléphone de vente pour appeler le destinataire de messagerie. |
 | Envoyer InMail | Redirige vers LinkedIn pour envoyer à la personne un message InMail. |
 | Créer une Tâche | Ouvre la fenêtre contextuelle de création de tâche pour créer une tâche de rappel. |
-
