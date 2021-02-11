@@ -3,9 +3,9 @@ unique-page-id: 14352451
 description: Comment désinstaller Sales Connect d'Outlook - Marketo Docs - Documentation du produit
 title: Comment désinstaller Sales Connect d'Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->L’Ajoute .Net n’est plus prise en charge depuis le 19 mai 2019. [Cliquez ](http://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) ici pour en savoir plus.
+>La prise en charge de l&#39;Ajoute .Net a été interrompue le 19 mai 2019. [Cliquez ](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) ici pour en savoir plus.
 
 1. Cliquez sur le menu **Début**.
-1. Recherchez **ToutApp** dans la liste de Programmes.
-1. Cliquez dessus et choisissez **Annuler l&#39;inscription**.
-1. Accédez au Panneau de Contrôle.
-1. Appuyez sur &quot;Ajouter/Supprimer un Programme&quot;.
-1. Sélectionnez ToutApp dans la liste et choisissez **Supprimer**.
 
+1. Recherchez **ToutApp** dans la liste de Programmes.
+
+1. Cliquez dessus et choisissez **Annuler l&#39;inscription**.
+
+1. Accédez au Panneau de Contrôle.
+
+1. Appuyez sur &quot;Ajouter/Supprimer un Programme&quot;.
+
+1. Sélectionnez ToutApp dans la liste et choisissez **Supprimer**.
