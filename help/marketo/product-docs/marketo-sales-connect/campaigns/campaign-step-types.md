@@ -3,9 +3,9 @@ unique-page-id: 14746690
 description: Types d’étapes Campaign - Documents marketing - Documentation sur les produits
 title: Types d’étape Campaign
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Composez un nouveau courrier électronique ou utilisez un modèle existant.
 
 >[!TIP]
 >
->Découvrez les détails de vos [options d&#39;envoi](http://docs.marketo.com/x/7QDb).
+>Découvrez les détails de vos [options d&#39;envoi](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Appel {#call}
 
@@ -50,4 +50,3 @@ Suivre plusieurs canaux est un excellent moyen de se connecter aux pistes. Avec 
 Utilisez des tâches personnalisées lorsque les options ci-dessus ne sont pas applicables. Par exemple, vous pouvez inviter un collègue à effectuer un suivi avec une piste par courrier électronique.
 
 ![](assets/custom.png)
-
