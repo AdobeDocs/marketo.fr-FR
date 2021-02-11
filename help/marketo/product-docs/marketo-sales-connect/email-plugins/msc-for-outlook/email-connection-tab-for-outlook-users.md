@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Onglet Connexion par courriel pour les utilisateurs d'Outlook - Documents marketing - Documentation du produit
 title: Onglet Connexion par courriel pour les utilisateurs d'Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ La connexion à Outlook signifie que vous recevrez le suivi des réponses, l&#39
 
    ![](assets/nine-a.png)
 
-   Vous pouvez utiliser cette connexion pour effectuer le suivi des courriers électroniques et [comme canal de diffusion](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
+   Vous pouvez utiliser cette connexion pour effectuer le suivi des courriers électroniques et aussi comme canal de diffusion.
 
    >[!NOTE]
    >
@@ -97,8 +97,9 @@ La connexion à Exchange On-Premise signifie que vous recevrez le suivi des rép
 
    ![](assets/six-b.png)
 
-   | **Outlook Online** | Aussi appelé Office Online |
+   | Version | Description |
    |---|---|
+   | **Outlook Online** | Aussi appelé Office Online |
    | **Exchange sur site** | Inclut Exchange 2013 et 2016 |
 
 1. Saisissez vos informations d’identification et cliquez sur **Se connecter**.
@@ -109,10 +110,8 @@ La connexion à Exchange On-Premise signifie que vous recevrez le suivi des rép
    >
    >Si vous désactivez la découverte automatique dans la liste déroulante Version d&#39;Exchange, vous devrez demander à votre service informatique l&#39;URL d&#39;Exchange.
 
-   [comme canal de diffusion](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)
+   Vous pouvez utiliser cette connexion pour effectuer le suivi des courriers électroniques et aussi comme canal de diffusion.
 
    >[!NOTE]
    >
    >Lorsque vous utilisez Outlook comme canal de diffusion, vous ne pouvez pas envoyer plus de 300 e-mails en masse à la fois.
-
-Vous pouvez utiliser cette connexion pour effectuer le suivi des courriels et également .
