@@ -3,9 +3,9 @@ unique-page-id: 14352476
 description: Champ de type d’Activité sur les Tâches (SFDC) - Documents marketing - Documentation du produit
 title: Champ Type d’Activité sur les Tâches (SFDC)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Avec l&#39;aide de Sales Connect, vous pouvez enregistrer vos e-mails et appels 
 * Connexion à Salesforce
 * Aucune valeur Type par défaut sélectionnée dans la liste de sélection Type de Tâche
 * Les appels, réponses et courriers électroniques doivent tous exister sous la liste de sélection Type de Tâche (les questions de mise en majuscule sont importantes).
-* Aucune action `Workflows` ou `Triggers` sur la valeur du champ Type
+* Aucun Workflows ou déclencheur n&#39;ayant pris d&#39;action sur la valeur du champ Type
 
 ## Configuration {#setup}
 
 Vérifiez d’abord que les valeurs de liste de sélection sont correctes. Vous aurez besoin de l&#39;aide de votre administrateur Salesforce pour apporter des modifications à votre liste de sélection.
 
-1. Accédez à [Salesforce.com](http://Salesforce.com) et cliquez sur Configuration dans le coin supérieur droit.
+1. Accédez à [Salesforce.com](https://salesforce.com) et cliquez sur Configuration dans le coin supérieur droit.
 1. Cliquez sur Personnaliser.
 1. Cliquez sur Activités.
 1. Cliquez sur Champs de Tâche.
