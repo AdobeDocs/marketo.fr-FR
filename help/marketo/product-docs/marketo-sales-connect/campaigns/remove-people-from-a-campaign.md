@@ -3,7 +3,7 @@ unique-page-id: 14352608
 description: Suppression de personnes d’un Campaign - Documents marketing - Documentation du produit
 title: Suppression de personnes d’une Campaign
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -72,4 +72,3 @@ En outre, vous pouvez supprimer des personnes de la campagne elle-même, supprim
 1. Cliquez sur **Actions** et choisissez **Supprimer la sélection de Campaign**.
 
    ![](assets/four-b.png)
-
