@@ -3,7 +3,7 @@ unique-page-id: 18317340
 description: Vérification de désabonnement du marketing - Documentation du marketing - Documentation du produit
 title: Vérification de désabonnement du marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -45,4 +45,3 @@ La vérification de désabonnement de Marketo...
 * Nécessite l&#39;établissement d&#39;une connexion Marketo
 * Est un paramètre global
 * Bloque les courriers électroniques envoyés à partir de l’application Web, des clients de messagerie et de Salesforce.
-
