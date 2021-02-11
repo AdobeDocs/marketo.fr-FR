@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Connexion des ventes à votre sandbox Salesforce - Docs marketing - Documentation sur les produits
 title: Comment connecter les ventes à votre sandbox Salesforce
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Votre compte Sales Connect ne peut pas être déjà connecté à Salesforce lors de l&#39;établissement d&#39;une connexion au sandbox. Si tel est le cas, [veillez à vous déconnecter](http://docs.marketo.com/x/FoDq) avant de suivre les étapes décrites dans cet article.
+>Votre compte Sales Connect ne peut pas être déjà connecté à Salesforce lors de l&#39;établissement d&#39;une connexion au sandbox. Si tel est le cas, [veillez à vous déconnecter](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) avant de suivre les étapes décrites dans cet article.
 
 1. Dans Sales Connect, cliquez sur l&#39;icône représentant un engrenage dans l&#39;angle supérieur droit et sélectionnez **Paramètres**.
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Comment installer des personnalisations dans votre sandbox Salesforce](http://docs.marketo.com/x/EIDq)
-
+>[Comment installer des personnalisations dans votre sandbox Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
