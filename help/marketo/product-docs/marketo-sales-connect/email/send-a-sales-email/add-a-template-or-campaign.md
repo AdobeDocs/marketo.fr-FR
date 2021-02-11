@@ -3,7 +3,7 @@ unique-page-id: 14352589
 description: Ajouter un modèle ou Campaign - Marketo Docs - Documentation du produit
 title: Ajouter un modèle ou un Campaign
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -19,4 +19,4 @@ Pour ajouter un modèle, cliquez sur **Modèle** et sélectionnez le modèle à 
 
 Si vous ajoutez une campagne, cliquez sur l&#39;onglet **Campaign** à la place.
 
-Si vous venez d’ajouter ou de modifier votre message dans l’[application Web](http://toutapp.com/login), veillez à cliquer sur le bouton **Actualiser** pour vous assurer que vous tirez parti de la version la plus récente.
+Si vous venez d’ajouter ou de modifier votre message dans l’[application Web](https://toutapp.com/login), veillez à cliquer sur le bouton **Actualiser** pour vous assurer que vous tirez parti de la version la plus récente.
