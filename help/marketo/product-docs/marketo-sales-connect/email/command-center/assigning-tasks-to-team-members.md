@@ -3,9 +3,9 @@ unique-page-id: 45417460
 description: Affectation de Tâches à des membres de l’équipe - Documents marketing - Documentation du produit
 title: Affectation de Tâches aux membres de l’équipe
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Si vous souhaitez collaborer avec d’autres membres de l’équipe, l’affecta
 
 >[!NOTE]
 >
->Vous pouvez uniquement affecter des tâches pour des contacts partagés. Vous souhaitez [partager un groupe de contacts](http://docs.marketo.com/x/fwDb) avec les membres de votre équipe avant de collaborer avec des tâches partagées.
+>Vous pouvez uniquement affecter des tâches pour des contacts partagés. Vous souhaitez [partager un groupe de contacts](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md) avec les membres de votre équipe avant de collaborer avec des tâches partagées.
 
 1. Cliquez sur le **Centre de commandes**.
 
@@ -57,5 +57,4 @@ Si vous souhaitez collaborer avec d’autres membres de l’équipe, l’affecta
 
 >[!MORELIKETHIS]
 >
->[Comment partager un groupe](http://docs.marketo.com/x/fwDb)
-
+>[Comment partager un groupe](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
