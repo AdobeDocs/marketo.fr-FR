@@ -3,7 +3,7 @@ unique-page-id: 14352472
 description: Modifier l'accessibilité des champs de Salesforce - Docs marketing - Documentation du produit
 title: Modifier l'accessibilité des champs de Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Si vous ne voyez pas le journal des activités par courriel à Salesforce, cela 
 * Consultez votre administrateur Salesforce pour vous assurer que ces paramètres de sécurité ne perturbent pas Sales Connect.
 
 * Si vous êtes un administrateur Salesforce, vous pouvez voir votre accessibilité des champs sous l&#39;onglet Contrôles de sécurité. Les principaux champs avec lesquels Sales Connect interagira sont les suivants : Compte, Contacts, Opportunité, Piste et Tâche.
-
