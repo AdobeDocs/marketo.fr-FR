@@ -3,9 +3,9 @@ unique-page-id: 14352609
 description: Désactivation d’un Campaign - Docs marketing - Documentation du produit
 title: Désactivation d’une Campaign
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Besoin de mettre automatiquement fin à une Campaign quand un destinataire répo
 
 >[!NOTE]
 >
->Ceci est uniquement disponible pour les clients intégrés à [Gmail ou Exchange](https://toutapp.com/next#settings/email-tracking) et dont le suivi des réponses est activé.
+>Ceci est uniquement disponible pour les clients intégrés à Gmail ou Exchange et dont le suivi des réponses est activé.
 
 ## Désactiver un Campaign pour une personne {#turn-off-a-campaign-for-one-person}
 
