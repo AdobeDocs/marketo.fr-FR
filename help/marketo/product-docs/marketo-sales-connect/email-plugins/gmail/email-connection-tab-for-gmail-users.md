@@ -3,9 +3,9 @@ unique-page-id: 17728401
 description: Onglet Connexion par courriel pour les utilisateurs de Gmail - Documents marketing - Documentation du produit
 title: Onglet Connexion par courriel pour les utilisateurs de Gmail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -51,5 +51,4 @@ Se connecter à Gmail signifie que vous recevrez le suivi des réponses, l&#39;a
 
    ![](assets/nine.png)
 
-   Vous pouvez utiliser cette connexion pour effectuer le suivi des courriers électroniques et [comme canal de diffusion](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
-
+   Vous pouvez utiliser cette connexion pour effectuer le suivi des courriers électroniques et aussi comme canal de diffusion.
