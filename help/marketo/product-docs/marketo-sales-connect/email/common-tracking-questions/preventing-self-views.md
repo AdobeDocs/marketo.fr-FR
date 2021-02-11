@@ -3,7 +3,7 @@ unique-page-id: 14352540
 description: Prévention des auto-Vues - Docs marketing - Documentation du produit
 title: Prévention des Vues personnelles
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Le suivi des vues s’effectue en téléchargeant un petit pixel d’image invis
 1. Sous Sécurité, cliquez sur le bouton radio **Jamais**.
 
    ![](assets/mac-3.png)
-
