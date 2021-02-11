@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: Options d'envoi en masse - Documents marketing - Documentation du produit
 title: Options d'envoi en masse
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 L&#39;envoi de courriers électroniques en bloc est un excellent moyen d&#39;accélérer votre engagement prospect. Sales Connect offres deux façons d&#39;envoyer des e-mails en masse : **Regrouper les e-mails** et **Sélectionner et envoyer**. Les courriers électroniques de groupe constituent un excellent moyen d’envoyer rapidement des centaines de courriers électroniques à un groupe ciblé. L’utilisation de Select et Send implique des limites de courrier électronique plus basses, mais elle offre davantage d’opportunités de personnalisation pour l’utilisateur.
 
-E-mail de groupe ou sélection et envoi
+**E-mail de groupe ou sélection et envoi**
 
 <table> 
  <colgroup> 
@@ -54,20 +54,16 @@ E-mail de groupe ou sélection et envoi
  </tbody> 
 </table>
 
-Utilisation de la messagerie de groupe
+**Utilisation de la messagerie de groupe**
 
 Vous pouvez prévisualisation chaque courrier électronique dans la liste pour vérifier si les champs dynamiques sont correctement renseignés et modifier en bloc le modèle à envoyer. Vous ne pouvez toutefois pas apporter de modifications uniques par utilisateur.
 
-Utilisation de Select et Send
+**Utilisation de Select et Send**
 
 Par défaut, vous allez modifier tous les destinataires. Mais vous pouvez également sélectionner chaque courriel pour effectuer des modifications personnalisées. Cela peut s’avérer utile pour ajouter une ou plusieurs lignes uniques de personnalisation aux destinataires avec lesquels vous souhaitez adopter une approche plus personnalisée.
 
 >[!MORELIKETHIS]
 >
->* [Composition de courriels en vrac avec sélection et envoi](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
->* [Envoi de courriers électroniques par courriel de groupe](http://docs.marketo.com/x/KAQ6Ag)
-
->
-
-
+>* [Composition de courriels en vrac avec sélection et envoi](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Envoi de courriers électroniques par courriel de groupe](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 
