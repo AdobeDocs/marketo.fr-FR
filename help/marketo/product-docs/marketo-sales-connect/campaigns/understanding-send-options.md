@@ -3,7 +3,7 @@ unique-page-id: 14352621
 description: Présentation des options d'envoi - Documents marketing - Documentation du produit
 title: Présentation des options d'envoi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 0%
@@ -59,4 +59,3 @@ Créer une tâche ; Je vais envoyer ce courriel moi-même
 Envoyer ce courriel au courriel précédent
 
 * Cette option d&#39;envoi sera un &quot;suivi&quot; de votre précédent courriel et ajoutera le corps du courriel précédent au bas de ce courriel.
-
