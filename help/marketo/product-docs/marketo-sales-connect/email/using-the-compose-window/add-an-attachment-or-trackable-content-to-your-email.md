@@ -3,7 +3,7 @@ unique-page-id: 37356587
 description: Ajouter une pièce jointe ou du contenu pouvant faire l'objet d'un suivi à votre adresse électronique - Documents marketing - Documentation du produit
 title: Ajouter une pièce jointe ou du contenu pouvant faire l'objet d'un suivi à votre adresse électronique
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -70,4 +70,3 @@ La pièce jointe apparaît au bas de votre courrier électronique.
    >[!NOTE]
    >
    >Les utilisateurs seront avertis dans le flux en direct lorsque des personnes visualisent leur contenu suivi. Les utilisateurs peuvent également voir le contenu le plus performant dans la section de contenu de la page Analytics.
-
