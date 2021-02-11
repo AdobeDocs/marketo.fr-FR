@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: Composition d'e-mails en masse avec sélection et envoi - Documents marketing - Documentation du produit
 title: Composition de courriels en vrac avec sélection et envoi
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Voici comment envoyer/modifier des messages électroniques à l’aide de l’op
 
    ![](assets/three-2.png)
 
-1. Entrez un objet, sélectionnez un modèle (ou composez le courriel de zéro) et envoyez/ [planifiez](http://docs.marketo.com/x/GAQ6Ag)le courriel.
+1. Entrez un objet, sélectionnez un modèle (ou composez le courriel de zéro) et envoyez/[planifier](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) le courriel.
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ Voici comment envoyer/modifier des messages électroniques à l’aide de l’op
 
 **Modifications en masse**
 
-1. Suivez les étapes 1 à 3 de la section [Envoi de courriels](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
+1. Suivez les étapes 1 à 3 de la section [Envoi de courriels](#sending-emails).
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Voici comment envoyer/modifier des messages électroniques à l’aide de l’op
    >
    >Vous pouvez cliquer sur un destinataire de messagerie spécifique pour afficher les modifications propagées à ce courriel.
 
-1. Cliquez sur **Envoyer** (ou [Programmer](http://docs.marketo.com/x/GAQ6Ag)) pour envoyer à tous les destinataires les mises à jour par courrier électronique en masse que vous avez effectuées.
+1. Cliquez sur **Envoyer** (ou [Programmer](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) pour envoyer à tous les destinataires les mises à jour par courrier électronique en masse que vous avez effectuées.
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +67,7 @@ Voici comment envoyer/modifier des messages électroniques à l’aide de l’op
 
 Effectuer des mises à jour en masse avant de personnaliser chaque courrier électronique, car effectuer une mise à jour en masse remplace les modifications apportées à chaque courrier électronique dans la barre latérale de composition en bloc.
 
-1. Suivez les étapes 1 à 4 de la section [Envoi d&#39;e-mails.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. Suivez les étapes 1 à 4 de la section [Envoi de courriels](#sending-emails).
 
    >[!NOTE]
    >
@@ -89,17 +89,13 @@ Effectuer des mises à jour en masse avant de personnaliser chaque courrier éle
    >
    >Vous pouvez cliquer sur d’autres destinataires pour voir que les modifications que vous avez apportées au destinataire précédemment sélectionné ne s’affichent pas.
 
-1. Cliquez sur **Envoyer** (ou [Programmer](http://docs.marketo.com/x/GAQ6Ag)) pour envoyer à tous les destinataires les mises à jour par courrier électronique en masse que vous avez effectuées.
+1. Cliquez sur **Envoyer** (ou [Programmer](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) pour envoyer à tous les destinataires les mises à jour par courrier électronique en masse que vous avez effectuées.
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Options d&#39;envoi en masse](http://docs.marketo.com/x/HwQ6Ag)
-   >    * [Utilisation d’un modèle dans la fenêtre Composer](http://docs.marketo.com/x/MQQ6Ag)
-   >    * [Champs dynamiques](http://docs.marketo.com/x/wwDb)
-
+   >* [Options d&#39;envoi en masse](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+   >* [Utilisation d’un modèle dans la fenêtre Composer](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [Champs dynamiques](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
 
