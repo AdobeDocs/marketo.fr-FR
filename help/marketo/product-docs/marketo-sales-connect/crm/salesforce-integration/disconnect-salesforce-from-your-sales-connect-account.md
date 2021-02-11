@@ -3,7 +3,7 @@ unique-page-id: 15368214
 description: Déconnecter Salesforce de votre compte de connexion aux ventes - Docs marketing - Documentation sur les produits
 title: Déconnecter Salesforce de votre compte Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Il peut arriver que vous deviez déconnecter votre compte Salesforce de votre co
 1. Dans l’onglet Connexions et personnalisations, cliquez sur **Déconnecter**.
 
    ![](assets/3333.png)
-
