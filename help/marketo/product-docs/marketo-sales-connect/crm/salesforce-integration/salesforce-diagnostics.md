@@ -3,9 +3,9 @@ unique-page-id: 14745730
 description: Diagnostics Salesforce - Docs marketing - Documentation du produit
 title: Diagnostics Salesforce
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1427'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 **Catégorie:** Autre\
 **Message :** impossible de référencer une piste convertie\
 **Qu&#39;est-ce qui se passe :** Nous essayons de nous connecter à une piste convertie lors de la dernière journalisation des Activités pour les contacts et les pistes. J&#39;en ai aussi vu quelques-uns pour des pas.\
-**Étapes de dépannage :** Veuillez en informer l’équipe [ d’](http://nation.marketo.com/community/support_solutions)assistance.
+**Étapes de dépannage :** Veuillez en informer l’équipe [ d’](https://nation.marketo.com/t5/Support/ct-p/Support)assistance.
 
 <br> 
 
@@ -65,7 +65,7 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 **Erreur :** EXPIRED_ACCESS 
 **Catégorie:** Message 
 **d&#39;authentification:** Invalid_grant: jeton d’accès/d’actualisation expiré 
-**Ce qui se passe :** le jeton d’accès ou d’actualisation a expiré. Les jetons expirent en fonction des paramètres de session [définis dans Salesforce](http://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**Ce qui se passe :** le jeton d’accès ou d’actualisation a expiré. Les jetons expirent en fonction des paramètres de session [définis dans Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Procédure de dépannage :** vous devrez vous réauthentifier. Déconnectez la connexion Salesforce et reconnectez-la.
 
 <br> 
@@ -129,9 +129,9 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 <br> 
 
 **Erreur :** INSUFFICIENT_ACCESS_OR_READONLY\
-**Catégorie :** Accès/Validation** ** 
-**Message : droits d&#39;accès** insuffisants sur l&#39;ID d&#39;objet** ** 
-**Ce qui se passe :La journalisation des Activités** les plus récentes ne peut pas modifier l&#39;enregistrement spécifique car l&#39;utilisateur n&#39;a pas accès en écriture.\
+**Catégorie :** Accès/
+**Message de validation : droits d’accès** insuffisants sur l’ID d’objet 
+**Ce qui se passe :** La consignation des Activités les plus récentes ne peut pas modifier l’enregistrement spécifique car l’utilisateur n’a pas l’accès en écriture.\
 **Procédure de dépannage :** accordez à l’utilisateur l’accès dans Salesforce OU désactivez la journalisation de l’Activité la plus récente pour cet objet pour cet utilisateur.
 
 **Erreur :** INVALID_FIELD\
@@ -142,7 +142,7 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** INVALID_FIELD_FOR_INSERT_UPDATE\
 **Catégorie:** Accès/Validation\
-**Message :** Impossible de créer/mettre à jour les champs : ToutApp__Tout_Last_Replied__c. Veuillez vérifier les paramètres de sécurité de ce champ.\
+**Message :** Impossible de créer/mettre à jour les champs : ToutApp__Tout_Last_Replied__c. Veuillez vérifier les paramètres de sécurité de ce champ.
 **Qu’est-ce qui se passe :** les utilisateurs n’ont pas accès en écriture aux champs personnalisés Tout nécessaires pour effectuer la transaction de consignation des Activités les plus récentes. L&#39;équipe a peut-être installé le package mais n&#39;a pas activé les champs appropriés pour les utilisateurs.\
 **Procédure de dépannage : l’administrateur** Salesforce doit accorder l’accès aux champs personnalisés OU désactiver la journalisation des Activités les plus récentes.
 
@@ -154,8 +154,8 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** INVALID_TYPE\
 **Catégorie:** Accès/Validation\
-**Message :** CreatedDate, (SELECT Id FROM Tâches) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sLe type d&#39;objet &quot;Lead&quot; n&#39;est pas pris en charge. Si vous tentez d&#39;utiliser un objet personnalisé, veillez à ajouter le signe &quot;__c&quot; après le nom de l&#39;entité. Veuillez référencer votre fichier WSDL ou l&#39;appel de description pour connaître les noms appropriés.\
-**Qu&#39;est-ce qui se passe :** Nous essayons de requête un type d&#39;objet de Salesforce auquel l&#39;utilisateur n&#39;a pas accès. Cela est probablement lié au fait que l&#39;utilisateur n&#39;a pas le droit d&#39;accès à l&#39;objet de piste.\
+**Message :** CreatedDate, (SELECT Id FROM Tâches) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sLe type d&#39;objet &quot;Lead&quot; n&#39;est pas pris en charge. Si vous tentez d&#39;utiliser un objet personnalisé, veillez à ajouter le signe &quot;__c&quot; après le nom de l&#39;entité. Veuillez référencer votre fichier WSDL ou l&#39;appel de description pour connaître les noms appropriés.
+**Ce qui se passe :** Nous essayons de requête un type d&#39;objet de Salesforce auquel l&#39;utilisateur n&#39;a pas accès. Cela est probablement lié au fait que l&#39;utilisateur n&#39;a pas le droit d&#39;accès à l&#39;objet de piste.\
 **Procédure de dépannage :** accordez l&#39;accès en lecture et en mise à jour à l&#39;objet Lead dans Salesforce ou désactivez la journalisation des courriers électroniques et la journalisation des Activités les plus récentes pour créer des enregistrements de piste.
 
 **Erreur :** REQUÊTE_TIMEOUT\
@@ -179,7 +179,7 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** REQUIRED_FIELD_MISSING\
 **Catégorie:** Accès/Validation\
-**Message : champs** obligatoires manquants :  [Amount_Committed_Private_Capital__c]\
+**Message : champs** obligatoires manquants :  `[Amount_Committed_Private_Capital__c]`
 **Ce qui se passe :** cela se produit généralement pour la journalisation des Activités les plus récentes. Les champs personnalisés ont été configurés pour être obligatoires, mais leurs valeurs sont vides. Cela peut se produire si l’enregistrement a été créé avec une valeur vide du champ personnalisé, puis s’il a été rendu obligatoire. La nécessité est appliquée lorsque nous tentons de mettre à jour l’enregistrement, même si nous ne touchons pas au champ personnalisé.\
 **Procédure de dépannage : mettez à jour** manuellement les valeurs des champs manquants. Vous pouvez ensuite réessayer le message à partir de ToutApp.
 
@@ -191,8 +191,8 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** TXN_SECURITY_NO_ACCESS\
 **Catégorie:** Accès/Validation\
-**Message :** L&#39;opération que vous avez demandée n&#39;est pas autorisée en raison d&#39;une stratégie de sécurité dans votre organisation. Contactez votre administrateur.\
-**Qu’est-ce qui se passe :** Une restriction de sécurité a été définie - voir  `https://developer.salesforce.com/forums/?id="record` ID&quot;\
+**Message :** L&#39;opération que vous avez demandée n&#39;est pas autorisée en raison d&#39;une stratégie de sécurité dans votre organisation. Contactez votre administrateur.<br/>
+**Qu&#39;est-ce qui se passe :** Une restriction de sécurité a été définie - voir https://developer.salesforce.com/forums/?id=&quot;enregistrement ID&quot;\
 **Étapes de dépannage :** contactez votre administrateur Salesforce et voyez quelle pourrait être la restriction spécifique.
 
 **Erreur :** UNABLE_TO_LOCK_ROW\
@@ -201,7 +201,7 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 **Qu’est-ce qui se passe : il est** probable qu’un déclencheur provoque plusieurs tentatives d’accès au même enregistrement, peut-être dans le cas d’un courriel de groupe.\
 **Procédure de dépannage : la logique** de nouvelle tentative doit gérer cette tâche. Si cela ne fonctionne toujours pas, demandez à votre administrateur Salesforce de résoudre les problèmes liés à un trigger.
 
-**Erreur :** UNKNOWN_EXCEPTION\
+**Erreur :** UNKNOWN_EXCEPTION 
 **Catégorie:** Autre\
 **Message :** Une exception inconnue s&#39;est produite\
 **Qu’est-ce qui se passe : exception** non gérée dans Salesforce.\
