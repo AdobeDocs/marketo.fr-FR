@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: Ajouter à Marketing Campaign - Docs marketing - Documentation du produit
 title: Ajouter à Marketing Campaign
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Rendre un Campaign visible pour les utilisateurs commerciaux](http://docs.marketo.com/x/NwDh)
+>[Rendre un Campaign visible pour les utilisateurs commerciaux](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## Ajouter des individus à un Campaign {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Pour ajouter une personne à un Campaign Marketing à partir de Sales Connect, Sales Connect doit avoir son identifiant de piste Marketo. [Découvrez comment capturer les identifiants de marketing ici](http://docs.marketo.com/x/CQXLAQ).
+>Pour ajouter une personne à un Campaign Marketing à partir de Sales Connect, Sales Connect doit avoir son identifiant de piste Marketo. [Découvrez comment capturer les identifiants de marketing ici](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. Cliquez sur l&#39;onglet **Personnes**.
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Pour ajouter une personne à un Campaign Marketing à partir de Sales Connect, Sales Connect doit avoir son identifiant de piste Marketo. [Découvrez comment capturer les identifiants de marketing ici](http://docs.marketo.com/x/CQXLAQ).
+   >Pour ajouter une personne à un Campaign Marketing à partir de Sales Connect, Sales Connect doit avoir son identifiant de piste Marketo. [Découvrez comment capturer les identifiants de marketing ici](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. Cliquez sur la liste déroulante Espaces de travail et choisissez l’espace de travail contenant la campagne à laquelle vous souhaitez ajouter le groupe.
 
@@ -104,4 +104,3 @@ ht-degree: 0%
 1. Les contacts qualifiés s&#39;affichent. Cliquez sur **Début** pour les ajouter.
 
    ![](assets/nine.png)
-
