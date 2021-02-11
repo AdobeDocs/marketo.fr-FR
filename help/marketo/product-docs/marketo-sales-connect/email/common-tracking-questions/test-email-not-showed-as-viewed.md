@@ -3,9 +3,9 @@ unique-page-id: 14352538
 description: Message électronique de test non affiché - Documents marketing - Documentation du produit
 title: Test du courrier électronique non affiché comme affiché
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,8 @@ La raison ? Sales Connect est intelligent, et nos principaux utilisateurs ne nou
 
 Voici comment arriver au seul endroit où nous montrerons l&#39;auto-suivi.
 
-1. Accédez au [Centre de commandes](http://toutapp.com/next#emails/command_center).
-1. Recherchez le courrier électronique que vous avez envoyé dans le dossier Envoyé et sélectionnez-le.
-1. Cliquez sur le bouton **Détails**. Vous devriez voir vos propres vues s&#39;y montrer.
+1. Accédez au [Centre de commandes](https://toutapp.com/).
 
+1. Recherchez le courrier électronique que vous avez envoyé dans le dossier Envoyé et sélectionnez-le.
+
+1. Cliquez sur le bouton **Détails**. Vous devriez voir vos propres vues s&#39;y montrer.
