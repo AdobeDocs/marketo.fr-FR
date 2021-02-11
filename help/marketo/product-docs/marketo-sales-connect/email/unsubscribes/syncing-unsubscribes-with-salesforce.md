@@ -3,9 +3,9 @@ unique-page-id: 14746188
 description: Synchronisation des désabonnements avec Salesforce - Marketo Docs - Documentation du produit
 title: Synchronisation des désabonnements avec Salesforce
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Lorsque vous avez activé la synchronisation de désabonnement (étape 3 ci-dess
 
 Les utilisateurs peuvent décider s&#39;ils souhaitent synchroniser leurs désabonnements avec le champ de Opt-out de courriel standard avec lequel Marketo peut également synchroniser, ou s&#39;ils peuvent synchroniser avec le champ de Opt-out ventes de Marketo afin que les désabonnements des ventes et les désabonnements marketing puissent être différenciés.
 
-1. Accédez à l&#39;[application Web](http://toutapp.com/login), cliquez sur l&#39;icône d&#39;engrenage et sélectionnez **Paramètres**.
+1. Accédez à l&#39;[application Web](https://toutapp.com/login), cliquez sur l&#39;icône d&#39;engrenage et sélectionnez **Paramètres**.
 
    ![](assets/one-1.png)
 
@@ -47,8 +47,9 @@ Les utilisateurs peuvent décider s&#39;ils souhaitent synchroniser leurs désab
 
    ![](assets/4.png)
 
-   | **Champ Synchroniser avec Salesforce Opt-out** | Sélectionné par défaut, met uniquement à jour le champ Opt-out Salesforce. |
+   | Champ | Description |
    |---|---|
+   | **Champ Synchroniser avec Salesforce Opt-out** | Sélectionné par défaut, met uniquement à jour le champ Opt-out Salesforce. |
    | **Champ Synchroniser avec le Opt-out des ventes du marketing** | Si vous souhaitez séparer les ventes et les désabonnements marketing, sélectionnez cette option pour mettre à jour le champ [Opt-out ventes marketing.](#msoo) |
 
 ## Installation du champ Opt-out dans la mise en page {#installing-the-opt-out-field-in-the-page-layout}
@@ -57,7 +58,7 @@ Les utilisateurs peuvent décider s&#39;ils souhaitent synchroniser leurs désab
 
 Le Opt-out de courriel est un champ standard de Salesforce qui peut être installé à partir de Salesforce. Vous devez être un administrateur Salesforce pour l’installer.
 
-1. Accédez à [Salesforce.com](http://Salesforce.com) et connectez-vous.
+1. Accédez à [Salesforce.com](https://salesforce.com) et connectez-vous.
 
    ![](assets/five-1.png)
 
