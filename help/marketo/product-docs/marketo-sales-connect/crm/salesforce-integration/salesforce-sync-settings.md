@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Paramètres de synchronisation Salesforce - Documents marketing - Documentation du produit
 title: Paramètres de synchronisation Salesforce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -86,12 +86,12 @@ Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètr
 >
 >Vous aurez besoin des privilèges d’administrateur pour configurer cette configuration.
 
-1. Cliquez sur **Configuration *.* **
-1. Cliquez sur **Administration de messagerie *.* **
-1. Cliquez sur **Courriel à Salesforce *.* **
+1. Cliquez sur **Configuration**.
+1. Cliquez sur **Administration de messagerie**.
+1. Cliquez sur **Courriel à Salesforce**.
 1. Cliquez sur **Modifier**.
-1. Cochez la case en regard de &quot;Principal*&quot;.*
-1. Cliquez sur **Enregistrer *.* **.
+1. Cochez la case en regard de &quot;Principal&quot;.
+1. Cliquez sur **Enregistrer**.
 
 ## Synchroniser les Tâches d&#39;engagement des ventes/rappels aux Tâches Salesforce {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
@@ -114,4 +114,3 @@ Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètr
 1. Choisissez l&#39;option de votre choix (&quot;Ne pas synchroniser avec les tâches Salesforce&quot; est sélectionné par défaut).
 
    ![](assets/eight.png)
-
