@@ -3,7 +3,7 @@ unique-page-id: 14352475
 description: Installer les champs du Événement de connexion aux ventes dans l'historique des Activités - Documents marketing - Documentation du produit
 title: Installer les champs du Événement de connexion commerciale dans l'historique des Activités
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -35,4 +35,3 @@ Assurez-vous de faire équipe avec votre administrateur Salesforce lors de l’e
 1. Cliquez sur **Enregistrer**.
 
    Vos utilisateurs peuvent maintenant consulter des informations et mises à jour précieuses sur leurs courriels dans Salesforce !
-
