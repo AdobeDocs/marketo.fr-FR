@@ -3,9 +3,9 @@ unique-page-id: 14352480
 description: Journalisation des réponses (SFDC) - Documents marketing - Documentation du produit
 title: Journalisation des réponses (SFDC)
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -18,14 +18,13 @@ Sales Connect vous permet de consigner automatiquement les réponses de vos pros
 ## Exigences {#requirements}
 
 * doit consigner les courriers électroniques par le biais de la journalisation des API.
-* Doit être en mesure de [suivre une réponse](http://docs.marketo.com/x/BYPS)
+* Doit être en mesure de [suivre une réponse](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
 * Doit être connecté à Salesforce
-* Salesforce [appels d&#39;API](http://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) doit être disponible
+* Salesforce [appels d&#39;API](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) doit être disponible
 
 ## Activer la journalisation des réponses {#enable-reply-logging}
 
-1. Pour activer la journalisation des réponses, vous pouvez accéder à votre [page Paramètres Salesforce](http://docs.marketo.com/pages/assets/external-link.jspa). Une fois que la journalisation de l&#39;API est désactivée, vous voyez l&#39;option de vérifier *Log Réponses.\
-   *
+1. Pour activer la journalisation des réponses, vous pouvez passer à la page des paramètres de Salesforce. Une fois la journalisation de l&#39;API désactivée, vous pouvez vérifier _Log Réponses_.
 
    >[!NOTE]
    >
@@ -35,7 +34,7 @@ Sales Connect vous permet de consigner automatiquement les réponses de vos pros
 
 Il est important d&#39;obtenir des données significatives à partir de vos rapports Salesforce. La possibilité de renseigner le champ Type sous la forme &quot;Répondre&quot; vous permet d&#39;obtenir ces données dans vos rapports. Associez-vous à votre `Salesforce admin` pour obtenir cette configuration.
 
-1. Accédez à **Configuration **> **Personnaliser **> **Activités **> **Champs de Tâche**.
+1. Accédez à **Configuration** > **Personnaliser** > **Activités** > **Champs de Tâche**.
 1. Cliquez sur **Type**.
 1. Sous Valeurs de liste de sélection de type de Tâche, cliquez sur **Nouveau**.
 1. Tapez &quot;Répondre&quot; dans la zone vide. Assurez-vous de mettre la valeur &quot;R&quot; en majuscule et cliquez sur **Enregistrer**.
@@ -43,4 +42,3 @@ Il est important d&#39;obtenir des données significatives à partir de vos rapp
    >[!NOTE]
    >
    >Il n’est pas nécessaire de sélectionner une valeur par défaut dans la liste de sélection Type. Sales Connect verra que ce type d&#39;Activité est disponible dans votre instance Salesforce et renseignera le champ tâche de vos activités entrantes en conséquence.
-
