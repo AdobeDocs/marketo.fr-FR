@@ -3,7 +3,7 @@ unique-page-id: 37357302
 description: Colonnes d’e-mail et mise en page de la page d’e-mail - Documents marketing - Documentation du produit
 title: Colonnes de courriel et mise en page de la page de courriel
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 0%
@@ -131,4 +131,3 @@ Vous pouvez configurer votre mise en page en procédant comme suit.
    ![](assets/email-columns-and-email-grid-layout-3.png)
 
 1. Il vous suffit de cliquer en dehors de la configuration lorsque vous avez terminé.
-
