@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Envoi d’un courriel suivi - Documents marketing - Documentation du produit
 title: Envoi d’un courriel suivi
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,8 @@ Lors de l’envoi d’un courrier électronique avec Marketing Connect, les vues
 >
 >Vous devez avoir une identité vérifiée et un canal de diffusion de courriel configuré avant d’envoyer un courriel suivi.
 >
->* [Vérifier votre adresse électronique](http://docs.marketo.com/x/ewPh)
->* Configurer un Canal de Diffusion pour [Outlook](http://docs.marketo.com/x/Z4AOAQ) ou [Gmail](http://docs.marketo.com/x/kYMOAQ)
-
->
-
+>* [Vérifier votre adresse électronique](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* Configurer un Canal de Diffusion pour [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) ou [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
 
 
 1. Créez votre brouillon de courrier électronique (il existe plusieurs façons de procéder, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
@@ -54,17 +51,12 @@ Lors de l’envoi d’un courrier électronique avec Marketing Connect, les vues
    >
    >Un objet et un destinataire sont nécessaires pour envoyer le courriel. Nous enregistrerons **automatiquement votre brouillon** une fois qu&#39;une ligne d&#39;objet et un destinataire auront été ajoutés.
 
-1. Composez votre courrier électronique à l’aide de l’éditeur. Cliquez sur **Envoyer** (ou [Programmer](http://docs.marketo.com/x/GAQ6Ag), si vous préférez) une fois terminé.
+1. Composez votre courrier électronique à l’aide de l’éditeur. Cliquez sur **Envoyer** (ou [Programmer](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), si vous préférez) une fois terminé.
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Planification d’un courrier électronique](http://docs.marketo.com/x/GAQ6Ag)
-   >    * [Champs dynamiques](http://docs.marketo.com/x/wwDb)
-   >    * [Utilisation de modèles](http://docs.marketo.com/display/DOCS/Templates)
-
+   >* [Planification d’un courrier électronique](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [Modèles](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
 
