@@ -3,9 +3,9 @@ unique-page-id: 14746186
 description: Personnaliser le message de désabonnement du lien - Documentation marketing - Documentation du produit
 title: Personnaliser le message de désabonnement de lien
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Nous avons toujours permis aux équipes de personnaliser leur message de désabo
 
 ## Personnaliser la messagerie pour vous-même {#customize-messaging-for-yourself}
 
-1. Connectez-vous à l’[application Web](http://toutapp.com/login), cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
+1. Connectez-vous à l’[application Web](https://toutapp.com/login), cliquez sur l’icône en forme d’engrenage en haut à droite et choisissez **Paramètres**.
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ Nous avons toujours permis aux équipes de personnaliser leur message de désabo
 
 ## Définir le message de désabonnement de votre équipe {#set-unsubscribe-messaging-for-your-team}
 
-1. Connectez-vous à l’[application Web](http://toutapp.com/login), cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
+1. Connectez-vous à l’[application Web](https://toutapp.com/login), cliquez sur l’icône en forme d’engrenage en haut à droite et choisissez **Paramètres**.
 
    ![](assets/six.png)
 
@@ -62,4 +62,3 @@ Nous avons toujours permis aux équipes de personnaliser leur message de désabo
 1. Sélectionnez **Je suis en train de définir le message par défaut pour mon équipe** pour que le message s&#39;applique à tous les utilisateurs.
 
    ![](assets/eleven.png)
-
