@@ -3,7 +3,7 @@ unique-page-id: 14352586
 description: Courriers électroniques pointant vers le spam - Documents marketing - Documentation du produit
 title: Courriers électroniques pointant vers les messages indésirables
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -18,6 +18,7 @@ Nous travaillons très dur pour nous assurer que nos taux de livraison restent �
 Voici ce que nous recommandons :
 
 1. Conservez vos courriels courts et informels, collez vos modèles comme un courriel que vous avez déjà écrit.
-1. Assurez-vous d’avoir une signature électronique complète avec une adresse physique.
-1. Utilisez Google ou Outlook pour envoyer vos courriels ou configurez un SMTP pour diffuser des messages par l&#39;intermédiaire de vos propres serveurs.
 
+1. Assurez-vous d’avoir une signature électronique complète avec une adresse physique.
+
+1. Utilisez Google ou Outlook pour envoyer vos courriels ou configurez un SMTP pour diffuser des messages par l&#39;intermédiaire de vos propres serveurs.
