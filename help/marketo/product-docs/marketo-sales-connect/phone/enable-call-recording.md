@@ -3,9 +3,9 @@ unique-page-id: 45416564
 description: Activer l’enregistrement des appels - Documentation marketing - Documentation du produit
 title: Activer l’enregistrement des appels
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ En tant qu&#39;administrateur, vous pouvez activer l&#39;enregistrement des appe
 
    ![](assets/three.png)
 
-1. Si vous souhaitez donner à vos vendeurs la possibilité d&#39;activer ou de désactiver l&#39;enregistrement des appels pour eux-mêmes, cliquez sur** Enregistrement facultatif pour tous les membres de l&#39;équipe. **Si vous souhaitez que tous les appels soient enregistrés automatiquement,** cliquez sur Enregistrer tous les appels.**
+1. Si vous souhaitez donner à vos vendeurs la possibilité d&#39;activer ou de désactiver l&#39;enregistrement des appels pour eux-mêmes, cliquez sur **Enregistrement facultatif pour tous les membres de l&#39;équipe**. Si vous souhaitez que tous les appels soient enregistrés automatiquement, cliquez sur **Enregistrer tous les appels**.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[Paramètres de consentement à deux parties](http://docs.marketo.com/x/dgC1Ag)
-
+>[Paramètres de consentement à deux parties](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
