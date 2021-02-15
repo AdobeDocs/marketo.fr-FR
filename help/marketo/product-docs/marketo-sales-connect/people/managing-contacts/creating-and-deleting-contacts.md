@@ -3,9 +3,9 @@ unique-page-id: 14352516
 description: Création et suppression de contacts - Documents marketing - Documentation du produit
 title: Création et suppression de contacts
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Souhaitez-vous ajouter plusieurs contacts à la fois ? [Cliquez ](http://docs.marketo.com/x/VADb) ici pour savoir comment importer des contacts au format CSV.
+   >Souhaitez-vous ajouter plusieurs contacts à la fois ? [Cliquez ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) ici pour savoir comment importer des contacts au format CSV.
 
 ## Suppression de contacts {#deleting-contacts}
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >Pour supprimer plusieurs contacts, il vous suffit de sélectionner plusieurs personnes. Les étapes restantes seraient les mêmes.
 
-1. Cliquez sur le point (trois points verticaux) et sélectionnez Supprimer.
+1. Cliquez sur le point (trois points verticaux) et sélectionnez **Supprimer**.
 
    ![](assets/four-2.png)
 
-1. Cliquez sur Supprimer le contact pour confirmer.
+1. Cliquez sur **Supprimer le contact** pour confirmer.
 
    ![](assets/five-2.png)
