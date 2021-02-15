@@ -3,9 +3,9 @@ unique-page-id: 2953373
 description: Configuration de la désinscription des pieds de page dans Marketo Sales Insight - Marketo Docs - Documentation sur les produits
 title: Configuration de la désinscription des pieds de page dans Marketing Cloud Sales Insight
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ Les courriels de vente placent automatiquement le pied de page de désabonnement
 >
 >**Définition**
 >
->**Les** courriels de vente sont ceux envoyés par Sales Insight. (Il n&#39;inclut pas les messages envoyés par le module externe Marketo Outlook.)
+>**Les** courriels de vente sont ceux envoyés par Sales Insight (ils ne comprennent pas ceux envoyés par le module externe Marketo Outlook).
 
 1. Accédez à la zone **Admin**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur **Sales Insight, **then **Modifier les paramètres**.
+1. Cliquez sur **Sales Insight**, puis **Modifier les paramètres**.
 
    ![](assets/two-1.png)
 
@@ -37,7 +37,7 @@ Les courriels de vente placent automatiquement le pied de page de désabonnement
 
    ![](assets/three-1.png)
 
-   * **Aucun modèle **- Composé manuellement par l&#39;utilisateur commercial.
+   * **Aucun modèle**  - Composé manuellement par l&#39;utilisateur commercial.
    * **Courrier électronique**  standard - Courriers électroniques basés sur un modèle.
    * **Courrier électronique**  opérationnel - Courriels qui ignorent les limites de désabonnement, de suspension de marketing et de communication (ils envoient quoi que ce soit).
 
@@ -45,12 +45,11 @@ Les courriels de vente placent automatiquement le pied de page de désabonnement
 
    >[!CAUTION]
    >
-   >**Respecter les paramètres de désabonnement : **les prospects désabonnés ne recevront PAS de courrier électronique même si le courrier publié est &quot;opérationnel&quot;
+   >**Respecter les paramètres** de désabonnement : les prospects désabonnés ne recevront PAS de courrier électronique même si le courrier publié est &quot;opérationnel&quot;
    >
-   >
-   >**Ignorer les paramètres de désabonnement : les pistes** désabonnées recevront le courrier électronique
+   >**Ignorer les paramètres** de désabonnement : les pistes désabonnées recevront le courriel
 
-   Effectuez les modifications de votre choix, puis cliquez sur Enregistrer.
+1. Effectuez les modifications souhaitées, puis cliquez sur **Enregistrer**.
 
    >[!TIP]
    >
@@ -59,10 +58,3 @@ Les courriels de vente placent automatiquement le pied de page de désabonnement
    ![](assets/four-1.png)
 
 Oh ! Un peu compliqué, mais assez flexible, non ?
-
->[!NOTE]
->
->**Plongée profonde**
->
->En savoir plus sur [Marketing Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight).
-
