@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Notes de mise à jour - Hiver 17 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Hiver 17
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -27,7 +27,7 @@ La Correspondance de base utilise uniquement les adresses électroniques, mais l
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API d’importation d’objet personnalisé](http://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [API d’importation d’objet personnalisé](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 Cette API fournit une interface plus rapide pour synchroniser les objets personnalisés dans Marketing. Vous pouvez importer des fichiers de feuille de calcul CSV, TSV ou SSV dans Marketo en tant qu’objets personnalisés.
 
@@ -37,7 +37,7 @@ Exportez tous vos détails et analyses Web Campaign au format CSV. Vous pouvez e
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Localisation](http://docs.marketo.com/display/docs/web+personalization) {#localization}
+## [Localisation](https://docs.marketo.com/display/docs/web+personalization) {#localization}
 
 Les applications Personnalisation Web, Contenu prédictif et Statistiques par courriel sont désormais disponibles en allemand, en espagnol et en japonais. Vous [sélectionnez votre langue et vos paramètres régionaux](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) pour vue votre contenu dans ces langues.
 
@@ -71,7 +71,7 @@ Filtrez l’analyse du contenu prédictif pour des sources spécifiques — Cour
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Editeur de contenu prédictif](http://docs.marketo.com/display/docs/edit+predictive+content)**
+**[Editeur de contenu prédictif](https://docs.marketo.com/display/docs/edit+predictive+content)**
 
 Il existe une expérience de modification et une mise en page améliorées qui divisent la préparation du contenu par source — Courriel, Médias enrichis ou Barre de recommandations.
 
@@ -81,7 +81,7 @@ Il existe une expérience de modification et une mise en page améliorées qui d
 
 L’URL de l’image et les métadonnées sont désormais utilisées dans le processus de détection automatique du contenu.
 
-## [Améliorations du SDK](http://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [Améliorations du SDK](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 Les développeurs disposent désormais d’un contrôle supplémentaire sur la diffusion des notifications Push avec l’ajout d’un nouvel appel d’API SDK qui permet aux développeurs de supprimer les jetons Push.
 
