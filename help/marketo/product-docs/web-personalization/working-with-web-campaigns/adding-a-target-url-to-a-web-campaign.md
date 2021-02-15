@@ -3,7 +3,7 @@ unique-page-id: 6094879
 description: Ajouter une URL de Cible à un Campaign Web - Marketo Docs - Documentation du produit
 title: Ajouter une URL de Cible à un Campaign Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Cliquez sur l’icône Plus (![—](assets/image2015-2-18-8-3a40-3a59.png)) pour
 >
 >
 >* Les campagnes Web de boîtes de dialogue et de widgets peuvent utiliser les options N’importe quelle page et Caractère générique (*).
-* Dans les cas d’utilisation avancée, les campagnes Web In Zone peuvent utiliser des caractères génériques à la fin du chemin d’accès à l’URL. Exemple : [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+* Dans les cas d’utilisation avancée, les campagnes Web In Zone peuvent utiliser des caractères génériques à la fin du chemin d’accès à l’URL. Exemple : [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * L’URL est sensible à la casse
 
 
@@ -75,7 +75,7 @@ Cliquez sur l’icône Plus (![—](assets/image2015-2-18-8-3a40-3a59.png)) pour
 1. Ajoutez un ** Nom de Campaign***. Sélectionnez un **segment de Cible**. Ajoutez **URL de Cible**.
 
    >[!NOTE]
-   L’URL de la cible avec les zones d’entrée doit définir une ou plusieurs URL spécifiques. Dans les cas d’utilisation avancée, les campagnes Web In Zone peuvent utiliser des caractères génériques à la fin du chemin d’accès à l’URL. Exemple : [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+   L’URL de la cible avec les zones d’entrée doit définir une ou plusieurs URL spécifiques. Dans les cas d’utilisation avancée, les campagnes Web In Zone peuvent utiliser des caractères génériques à la fin du chemin d’accès à l’URL. Exemple : [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
