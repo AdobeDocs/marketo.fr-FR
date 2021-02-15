@@ -3,7 +3,7 @@ unique-page-id: 13796466
 description: Prise en main de Sales Connect - Marketo Docs - Documentation sur les produits
 title: Prise en main de Sales Connect
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Si vous préférez regarder ces étapes plutôt que de les lire, passez directem
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre responsable de succès client.
 
-## Ce dont vous avez besoin pour commencer {#what-you-need-to-get-started}
+## Ce que vous devez démarrer {#what-you-need-to-get-started}
 
 * Abonnement du marketing
 * Abonnement de connexion commerciale
@@ -49,7 +49,7 @@ Vous pouvez également :
 
 ## Connecter votre compte de connexion commerciale à Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Pour connecter votre compte Sales Connect à votre compte Salesforce, en tant qu&#39;administrateur ou non, suivez les étapes décrites dans [cet article](http://docs.marketo.com/x/JwDb).
+Pour connecter votre compte Sales Connect à votre compte Salesforce, en tant qu&#39;administrateur ou non, suivez les étapes décrites dans [cet article](https://docs.marketo.com/x/JwDb).
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ Vous devrez obtenir un jeu d’informations d’identification à partir de Mark
 
 Si des utilisateurs existent déjà sur votre compte (précédemment de ToutApp), ils s’afficheront dans l’onglet **Accès de l’équipe** de la section Marketo de Sales Connect.
 
-Vous pouvez configurer votre équipe en tant qu&#39;utilisateur Marketing Connect Sales Connect à partir de cette page. Si vous n&#39;avez jamais utilisé ToutApp ou n&#39;avez pas encore invité d&#39;utilisateurs, suivez les étapes décrites dans [cet article](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
+Vous pouvez configurer votre équipe en tant qu&#39;utilisateur Marketing Connect Sales Connect à partir de cette page. Si vous n&#39;avez jamais utilisé ToutApp ou n&#39;avez pas encore invité d&#39;utilisateurs, suivez les étapes décrites dans [cet article](https://docs.marketo.com/display/TOUT/Invite+Team+Members).
 
 >[!CAUTION]
 >
