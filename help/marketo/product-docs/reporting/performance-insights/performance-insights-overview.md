@@ -3,7 +3,7 @@ unique-page-id: 12979006
 description: Présentation des statistiques de performances - Documents marketing - Documentation du produit
 title: Présentation des informations sur les performances
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Pour accéder à Performance Insights, cliquez sur son icône dans l’écran d�
 
 ## Contribution {#contribution}
 
-Évaluer la [contribution de Marketing au chiffre d&#39;affaires](http://docs.marketo.com/x/QAvG)en fonction de l&#39;acquisition, de l&#39;influence, de la conversion des clients, voire de la croissance de base installée.
+Évaluer la [contribution de Marketing au chiffre d&#39;affaires](https://docs.marketo.com/x/QAvG)en fonction de l&#39;acquisition, de l&#39;influence, de la conversion des clients, voire de la croissance de base installée.
 
 ![](assets/two.png)
 
@@ -38,13 +38,13 @@ Par défaut, les données affichées reflètent les performances par engagement.
 
 ## Tendance {#trend}
 
-Découvrir [les tendances à long terme](http://docs.marketo.com/x/QgvG) pour repérer les stratégies gagnantes cohérentes.
+Découvrir [les tendances à long terme](https://docs.marketo.com/x/QgvG) pour repérer les stratégies gagnantes cohérentes.
 
 ![](assets/4.png)
 
 ## Paramètres {#settings}
 
-Dans les tableaux de bord Recettes et Pipeline, cliquez sur l&#39;icône [Paramètres](http://docs.marketo.com/x/pIDS) pour définir d&#39;autres paramètres.
+Dans les tableaux de bord Recettes et Pipeline, cliquez sur l&#39;icône [Paramètres](https://docs.marketo.com/x/pIDS) pour définir d&#39;autres paramètres.
 
 ![](assets/5.png)
 
