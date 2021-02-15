@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: Étape 2 sur 3 - Configurer l'utilisateur de synchronisation pour Marketo (2013 sur site) - Documentation sur le marketing - Documentation du produit
 title: Étape 2 sur 3 - Configurer l'utilisateur de synchronisation pour Marketo (local 2013)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. Vous verrez ici une liste d&#39;utilisateurs. Sélectionnez votre utilisateur dédié à la synchronisation du marketing ou contactez votre [administrateur des services de fédération Principale Directory (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [pour créer un utilisateur dédié à Marketo.](http://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
+1. Vous verrez ici une liste d&#39;utilisateurs. Sélectionnez votre utilisateur dédié à la synchronisation du marketing ou contactez votre [administrateur des services de fédération Principale Directory (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [pour créer un utilisateur dédié à Marketo.](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
