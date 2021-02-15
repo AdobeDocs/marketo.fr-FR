@@ -3,7 +3,7 @@ unique-page-id: 2360352
 description: Configuration de vos paramètres d’API SOAP - Documents marketing - Documentation du produit
 title: Configuration des paramètres de votre API SOAP
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Nous vous suggérons d’utiliser l’API REST. En savoir plus sur [developpeurs.marketo.com](http://developers.marketo.com/documentation/rest/).
+>Nous vous suggérons d’utiliser l’API REST. En savoir plus sur [developpeurs.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 >[!NOTE]
 >
@@ -35,4 +35,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Documentation de l’API SOAP](http://developers.marketo.com/documentation/soap/)
+>[Documentation de l’API SOAP](https://developers.marketo.com/documentation/soap/)
