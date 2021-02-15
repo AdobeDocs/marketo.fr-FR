@@ -3,7 +3,7 @@ unique-page-id: 2359447
 description: Créer une segmentation - Documents marketing - Documentation du produit
 title: Création d’une segmentation
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -44,7 +44,7 @@ La segmentation vous permet de regrouper des personnes en profils distincts pour
    >Le nombre total de segments que vous pouvez créer dans une segmentation dépend du nombre et du type de filtres utilisés, ainsi que de la complexité de la logique de vos segments. Bien que vous puissiez créer jusqu’à 100 segments à l’aide de champs standard, l’utilisation d’autres types de filtres peut accroître la complexité et votre segmentation peut ne pas être approuvée. Voici quelques exemples : champs personnalisés, membre de la liste, champs de propriétaire de piste et étapes de recettes.
    >
    >
-   >Si vous recevez un message d’erreur lors de l’approbation et que vous avez besoin d’aide pour réduire la complexité de votre segmentation, contactez le [Support marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#e794929797889593a78a86958c829388c984888a).
+   >Si vous recevez un message d’erreur lors de l’approbation et que vous avez besoin d’aide pour réduire la complexité de votre segmentation, contactez le [Support marketing](https://docs.marketo.com/cdn-cgi/l/email-protection#e794929797889593a78a86958c829388c984888a).
 
 1. Faites glisser et déposez les segments pour modifier leur ordre. Une fois terminé, cliquez sur **Créer**.
 
