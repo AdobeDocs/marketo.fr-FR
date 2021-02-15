@@ -3,9 +3,9 @@ unique-page-id: 14352438
 description: Présentation des téléphones des ventes - Documents marketing - Documentation du produit
 title: Présentation du téléphone de vente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Comment puis-je être rapidement configuré avec Sales Phone ? {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**Numéro de téléphone :** vous n&#39;aurez besoin de le saisir qu&#39;une seule fois. Sales Connect mémorisera votre numéro pour tous les appels futurs.
+**Numéro de téléphone :** Vous n&#39;aurez besoin de le saisir qu&#39;une seule fois. Sales Connect mémorisera votre numéro pour tous les appels futurs.
 
 **Présence locale :** vous n&#39;aurez qu&#39;à vérifier &quot;utiliser la présence locale&quot; et enregistrer l&#39;appel pour votre premier appel. Sales Connect mémorisera vos paramètres pour tous les appels futurs.
 
-Si vous souhaitez que Sales Connect crée automatiquement une activité d&#39;appel dans Salesforce, extrayez [cet article](http://docs.marketo.com/x/joLS).
+Si vous souhaitez que Sales Connect crée automatiquement une activité d&#39;appel dans Salesforce, extrayez [cet article](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
 
 ## Comment faire un appel avec le téléphone de vente ? {#how-do-i-make-a-call-with-sales-phone}
 
@@ -37,6 +37,6 @@ Dans le Centre de commandes, vous pouvez utiliser votre &quot;liste d&#39;appel&
 
 Une fois que vous avez appelé ou passé un appel, Sales Connect récupérera votre numéro de téléphone de prospect/contact auprès de Salesforce. Si aucun numéro n&#39;est répertorié dans Salesforce, Sales Connect insère le numéro de téléphone dans l&#39;enregistrement du compte.
 
-Pour les équipes utilisant d&#39;autres CRMS, Sales Connect récupérera le numéro de téléphone du numéro figurant dans l&#39;enregistrement de Sales Connect. Ces données peuvent être facilement disponibles via un [transfert CSV](http://docs.marketo.com/x/HIPS).
+Pour les équipes utilisant d&#39;autres CRMS, Sales Connect récupérera le numéro de téléphone du numéro figurant dans l&#39;enregistrement de Sales Connect. Ces données peuvent être facilement disponibles via un [transfert CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 Cliquez sur le grand bouton vert **Appeler**. Votre téléphone va alors début à sonner. Prenez votre téléphone et Sales Connect appellera automatiquement le prospect/contact.
