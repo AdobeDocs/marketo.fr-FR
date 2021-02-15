@@ -3,7 +3,7 @@ unique-page-id: 4720758
 description: Notes de mise à jour - Janvier 2015 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Janvier 2015
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Trois nouveaux appels pour l&#39;API ReST de piste et d&#39;Activité :
 * Obtenir des pistes par identifiant de Programme
 * Obtenir les pistes supprimées
 
-Il existe également une nouvelle option pour l&#39;option &quot;Piste de synchronisation&quot;, qui permet d&#39;écrire la modification de piste de manière asynchrone pour un appel d&#39;API plus rapide. Les détails complets seront disponibles après la publication à l’adresse [developpeurs.marketo.com](http://developers.marketo.com).
+Il existe également une nouvelle option pour l&#39;option &quot;Piste de synchronisation&quot;, qui permet d&#39;écrire la modification de piste de manière asynchrone pour un appel d&#39;API plus rapide. Les détails complets seront disponibles après la publication à l’adresse [developpeurs.marketo.com](https://developers.marketo.com).
 
 **Prise en charge des objets personnalisés de script de messagerie**
 
@@ -59,13 +59,13 @@ Les améliorations apportées au module Comptes nommés amélioreront les taux d
 
 Options de balise RTP mises à jour
 
-[Les ](http://docs.marketo.com/display/docs/rtp+tag+implementation) options RTP Tagoptions sous Paramètres du compte ont été mises à jour pour inclure :
+[Les ](https://docs.marketo.com/display/docs/rtp+tag+implementation) options RTP Tagoptions sous Paramètres du compte ont été mises à jour pour inclure :
 
 1. CDN et asynchrone (balise recommandée)
 1. CDN et synchrone (haute vitesse)
 1. Balise asynchrone sans CDN
 1. Balise synchrone sans CDN
 
-Pour de meilleures performances, il est recommandé de placer la balise en haut de l’en-tête dans votre page Web après `<head>`. Toutes les balises permettent l&#39;utilisation de l&#39;[API RTP](http://developers.marketo.com/documentation/websites/rtp-js-api/). Pour plus d’informations sur la façon de déployer la balise RTP, voir [ici](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Pour de meilleures performances, il est recommandé de placer la balise en haut de l’en-tête dans votre page Web après `<head>`. Toutes les balises permettent l&#39;utilisation de l&#39;[API RTP](https://developers.marketo.com/documentation/websites/rtp-js-api/). Pour plus d’informations sur la façon de déployer la balise RTP, voir [ici](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
