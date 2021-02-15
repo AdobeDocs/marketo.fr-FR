@@ -3,7 +3,7 @@ unique-page-id: 2951040
 description: Notes de mise à jour - Juillet 2014 - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - juillet 2014
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Outre le calendrier marketing avec lequel vous gérez vos événements et vos pr
 
 ## Opérations de liste dans l&#39;API ReST {#list-operations-in-the-rest-api}
 
-Nous avons ajouté les appels ci-dessous relatifs aux opérations de liste dans ReST. Voir [developpeurs.marketo.com](http://developers.marketo.com/documentation/rest/) pour obtenir la documentation complète.
+Nous avons ajouté les appels ci-dessous relatifs aux opérations de liste dans ReST. Voir [developpeurs.marketo.com](https://developers.marketo.com/documentation/rest/) pour obtenir la documentation complète.
 
 * Obtenir la Liste par identifiant
 * Obtenir plusieurs Listes
@@ -78,7 +78,7 @@ La page Campaign d’ensemble RTP [comprend désormais des modèles prêts à l�
 
 ## RTP : Améliorations de l’API JavaScript {#rtp-javascript-api-enhancements}
 
-Nouvel appel d&#39;API RTP pour obtenir des données de visiteur en temps réel telles que l&#39;organisation, l&#39;industrie, l&#39;emplacement et la correspondance de code segment. En outre, le fait de pointer sur un nom de segment dans la page Segments affiche une info-bulle indiquant le code segment. Consultez notre [site des développeurs](http://developers.marketo.com/documentation/websites/rtp-js-api/) pour obtenir une documentation complète.
+Nouvel appel d&#39;API RTP pour obtenir des données de visiteur en temps réel telles que l&#39;organisation, l&#39;industrie, l&#39;emplacement et la correspondance de code segment. En outre, le fait de pointer sur un nom de segment dans la page Segments affiche une info-bulle indiquant le code segment. Consultez notre [site des développeurs](https://developers.marketo.com/documentation/websites/rtp-js-api/) pour obtenir une documentation complète.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
