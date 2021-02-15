@@ -3,7 +3,7 @@ unique-page-id: 14352477
 description: Connexion aux ventes - Documents marketing - Documentation sur les produits
 title: Connexion client
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Notre bouton Push to Tout prendra une liste de vos pistes/contacts dans Salesfor
 
    >[!NOTE]
    >
-   >Sales Connect ajoutera ce groupe intitulé &quot;SFDC-..&quot;. à la page Relations de l&#39;[application Web](http://toutapp.com/login).
+   >Sales Connect ajoutera ce groupe intitulé &quot;SFDC-..&quot;. à la page Relations de l&#39;[application Web](https://toutapp.com/login).
 
 1. Sélectionnez **E-mail Groupe entier** pour envoyer le courriel de ce groupe.
