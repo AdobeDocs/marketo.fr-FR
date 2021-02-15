@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited - Marketo Docs - Documentation sur les produits
 title: Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '920'
+source-wordcount: '906'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
 >[!PREREQUISITES]
 >
->* [Configurer la synchronisation des champs de marketing dans votre Salesforce Enterprise/Unlimited Edition](http://docs.marketo.com/pages/viewpage.action?pageid=2360372)
->* [Installation du package Marketing Cloud Sales Insight dans l’AppExchange Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
->
-
+>* [Configurer la synchronisation des champs de marketing dans votre Salesforce Enterprise/Unlimited Edition](https://docs.marketo.com/pages/viewpage.action?pageid=2360372)
+>* [Installation du package Marketing Cloud Sales Insight dans l’AppExchange Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 
 >[!NOTE]
@@ -31,6 +28,7 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 ## Configurer Sales Insight dans Marketo {#configure-sales-insight-in-marketo}
 
 1. Ouvrez une nouvelle fenêtre de navigateur pour obtenir les informations d’identification de Marketing Cloud Sales Insight à partir de votre compte Marketo.
+
 1. Accédez à la zone Admin et sélectionnez **Sales Insight**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
@@ -85,7 +83,7 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    ![](assets/login-admin.png)
 
-1. Cliquez sur** Sales Insight**.
+1. Cliquez sur **Sales Insight**.
 
    ![](assets/image2015-5-22-15-3a12-3a33.png)
 
@@ -135,7 +133,7 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. Cliquez sur **Pages Visualforce **à gauche. Faites glisser **Section** vers la mise en page sous la section Liens personnalisés.
+1. Cliquez sur **Visualforce Pages** sur la gauche. Faites glisser **Section** vers la mise en page sous la section Liens personnalisés.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -163,7 +161,7 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
    >
    >Nous vous recommandons une hauteur de 410 pixels pour les objets Comptes et Opportunités.
 
-1. Cliquez sur **Champs **à gauche. Recherchez ensuite le libellé **Engagement** et faites-le glisser dans la mise en page **Marketing Sales Insight**.
+1. Cliquez sur **Champs** à gauche. Recherchez ensuite le libellé **Engagement** et faites-le glisser dans la mise en page **Marketing Sales Insight**.
 
    ![](assets/image2015-5-22-16-3a32-3a46.png)
 
@@ -200,6 +198,7 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
 1. Répétez ce processus pour ajouter des sections de page Visualforce et des champs Sales Insight pour **Contact**, **Compte** et **Opportunité**.
+
 1. Répétez les étapes 5 à 7 pour ajouter des sections de page Visualforce pour Contact, Compte et Opportunité. Ensuite, répétez les étapes 8 à 10 pour ajouter les champs Sales Insight pour **Contact**. Veillez à enregistrer après toute modification.
 
 ## Mettre en correspondance les champs de personne personnalisée {#map-custom-person-fields}
@@ -216,15 +215,13 @@ Les champs de personne à personne doivent être mappés aux champs de contact S
 
 1. Cliquez sur **Faire correspondre les champs de piste**.
 
-   ** ![](assets/image2015-6-1-9-3a58-3a48.png)
-
-   **
+   ![](assets/image2015-6-1-9-3a58-3a48.png)
 
 1. Cliquez sur la liste déroulante à droite pour **Engagement**.
 
    ![](assets/image2015-6-1-10-3a9-3a53.png)
 
-1. Sélectionnez **Contact.Engagement **dans la liste.
+1. Sélectionnez **Contact.Engagement** dans la liste.
 
    ![](assets/image2015-6-1-10-3a12-3a11.png)
 
@@ -267,21 +264,21 @@ Les champs de personne à personne doivent être mappés aux champs de contact S
  </tbody> 
 </table>
 
-1. Cliquez sur **Enregistrer **lorsque vous avez terminé.
+1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
 ## Config des statistiques commerciales de marketing {#marketo-sales-insight-config}
 
-1. Cliquez sur **+ **et sélectionnez **Config des statistiques commerciales marketing**.
+1. Cliquez sur **+**, puis sélectionnez **Config des statistiques commerciales du marketing**.
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. Cochez **Activer l’API de marketing**. Renseignez ensuite les informations de configuration de l’API [dans l’élément Administration de marketing](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight). Cliquez sur **Enregistrer les modifications **lorsque vous avez terminé.
+1. Cochez **Activer l’API de marketing**. Renseignez ensuite les informations de configuration de l’API [dans l’élément Administration de marketing](#set-up-marketo-sales-insight). Cliquez sur **Enregistrer les modifications** lorsque vous avez terminé.
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
    >
-   >Si le test de diagnostic a échoué, vous devrez peut-être [ajouter d&#39;autres champs à votre mise en page](http://nation.marketo.com/docs/DOC-1115).
+   >Si le test de diagnostic a échoué, vous devrez peut-être [ajouter d&#39;autres champs à votre mise en page](https://nation.marketo.com/docs/DOC-1115).
 
 Et c&#39;est tout ! Vous devriez être en mesure d&#39;afficher les champs de statistiques de ventes de Marketo pour les pistes, contacts, comptes et opportunités.
 
@@ -294,18 +291,17 @@ Et c&#39;est tout ! Vous devriez être en mesure d&#39;afficher les champs de st
 ## Accéder à Marketing Sales Insight {#access-marketo-sales-insight}
 
 1. Dans Salesforce, cliquez sur le **+** à la fin de la barre d’onglets et cliquez sur **Config des statistiques commerciales du marketing**.
+
 1. Cochez la case **Activer l’API de marketing**.
+
 1. Copiez les informations d’identification du panneau API Soap de la page d’administration de Sales Insight de Marketo et collez-les dans la section API Soap de la page de configuration de Sales Insight de Salesforce.
+
 1. Copiez les informations d’identification du panneau API REST de la page d’administration de Sales Insight de Marketo et collez-les dans la section API REST de la page de configuration de Sales Insight de Salesforce.
 
    ![](assets/access-msi.png)
 
 >[!MORELIKETHIS]
 >
->* [Priorité, urgence, note relative et meilleurs résultats](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Ajouter l&#39;onglet et les boutons d&#39;aperçu commercial du marketing à Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
-
->
-
-
+>* [Priorité, urgence, note relative et meilleurs résultats](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+>* [Ajouter l&#39;onglet et les boutons d&#39;aperçu commercial du marketing à Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
 
