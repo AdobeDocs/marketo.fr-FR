@@ -3,7 +3,7 @@ unique-page-id: 2951052
 description: Notes de mise à jour - Décembre 2013 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - décembre 2013
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Notes de mise à jour : Décembre 2013 {#release-notes-december}
 
-Les fonctionnalités suivantes sont incluses dans la version de décembre. Veuillez vérifier votre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
+Les fonctionnalités suivantes sont incluses dans la version de décembre. Veuillez vérifier votre [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
 
 Après la publication, n&#39;oubliez pas de consulter l&#39;onglet Nouvelle version de la Communauté pour obtenir des articles détaillés de la base de connaissances pour chaque fonctionnalité !
 
 ## Jolies photos d&#39;arrière-plan {#sweet-background-photos}
 
-Nous avons commencé à exprimer notre créativité dans l&#39;application. Chaque trimestre, un nouvel artiste sera présenté. Pour nous aider, nous avons sélectionné [Trey Ratcliff](http://stuckincustoms.smugmug.com/).
+Nous avons commencé à exprimer notre créativité dans l&#39;application. Chaque trimestre, un nouvel artiste sera présenté. Pour nous aider, nous avons sélectionné [Trey Ratcliff](https://stuckincustoms.smugmug.com/).
 
 ## Programme de courriel {#email-program}
 
