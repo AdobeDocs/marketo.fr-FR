@@ -3,7 +3,7 @@ unique-page-id: 14352436
 description: Présence locale du téléphone de vente - Docs marketing - Documentation du produit
 title: Présence locale du téléphone de vente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Non, la présence locale ne fonctionne que pour les appels sortants. L’appelan
 
 Nous avons offre toutes les fonctionnalités Sales Phone pour les appels uniquement aux États-Unis.
 
-**Le numéro de présence local est-il toujours le même lorsque j&#39;appelle un indicatif régional ? **
+**Le numéro de présence local est-il toujours le même lorsque j&#39;appelle un indicatif régional ?**
 
 Le numéro sera probablement toujours le même lorsque vous appelez dans un indicatif régional.
 
