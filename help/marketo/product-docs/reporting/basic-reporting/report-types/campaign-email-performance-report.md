@@ -3,7 +3,7 @@ unique-page-id: 2360188
 description: Rapport sur les performances des courriels Campaign - Documents marketing - Documentation du produit
 title: Rapport Performances des courriers électroniques Campaign
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapport Performances du courriel Campaign {#campaign-email-performance-report}
 
-Pour afficher les statistiques de performances de votre messagerie regroupées par [campagne intelligente](http://docs.marketo.com/display/docs/smart+campaigns), exécutez un rapport Campaign Email Performance.
+Pour afficher les statistiques de performances de votre messagerie regroupées par [campagne intelligente](https://docs.marketo.com/display/docs/smart+campaigns), exécutez un rapport Campaign Email Performance.
 
 1. [Créez un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport et sélectionnez le type **de** [rapport Performances du courriel ](report-type-overview.md)Campaign.
 1. [Définissez la période de votre ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapport et cliquez sur l&#39;onglet  **** Rapport.
@@ -53,5 +53,5 @@ Pour afficher les statistiques de performances de votre messagerie regroupées p
    >**Plongée profonde**
    >
    >
-   >En savoir plus sur [Rapports de base.](http://docs.marketo.com/display/docs/basic+reporting)
+   >En savoir plus sur [Rapports de base.](https://docs.marketo.com/display/docs/basic+reporting)
 
