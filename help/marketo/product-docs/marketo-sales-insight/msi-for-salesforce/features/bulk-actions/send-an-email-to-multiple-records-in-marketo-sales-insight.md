@@ -3,7 +3,7 @@ unique-page-id: 5472672
 description: Envoyer un courrier électronique à plusieurs enregistrements dans Marketo Sales Insight - Marketo Docs - Documentation sur les produits
 title: Envoyer un courrier électronique à plusieurs enregistrements dans Marketing Cloud Sales Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -33,17 +33,16 @@ Il est très facile d&#39;envoyer un e-mail Marketing à plusieurs personnes à 
 
    >[!TIP]
    >
-   >Ne vois pas le bouton ? Vérifiez que vous avez [ajouté les boutons Marketo à la vue de liste](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
+   >Ne vois pas le bouton ? Vérifiez que vous avez [ajouté les boutons Marketo à la vue de liste](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
 
-1. Allez-y et composez votre email. Cliquez sur **Envoyer avec le marqueur **une fois terminé.
+1. Allez-y et composez votre email. Cliquez sur **Envoyer avec Marketo** une fois terminé.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Vous pouvez [publier un e-mail à Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) et choisir parmi ces e-mails.
+   >Vous pouvez [publier un e-mail à Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) et choisir parmi ces e-mails.
 
    >[!NOTE]
    >
    >Vous pouvez envoyer jusqu’à 200 courriels Marketo à la fois.
-
