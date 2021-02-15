@@ -3,7 +3,7 @@ unique-page-id: 7513771
 description: Connexion et gestion des utilisateurs - Documents marketing - Documentation du produit
 title: Connexion et Gestion des utilisateurs
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Saisissez un nom de rôle et sélectionnez Autorisations. Cliquez sur **Créer** (ce rôle doit [s&#39;appliquer à tous les espaces de travail](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Saisissez un nom de rôle et sélectionnez Autorisations. Cliquez sur **Créer** (ce rôle doit [s&#39;appliquer à tous les espaces de travail](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
 
    ![](assets/four.png)
 
