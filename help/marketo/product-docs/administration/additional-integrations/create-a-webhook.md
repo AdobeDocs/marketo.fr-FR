@@ -3,7 +3,7 @@ unique-page-id: 2360360
 description: Création d’un crochet Web - Documents marketing - Documentation du produit
 title: Création d’un crochet Web
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -49,4 +49,4 @@ Utilisez des hameçons Web pour tirer parti des services Web tiers pour envoyer 
 
 >[!NOTE]
 >
->Pour en savoir plus, consultez les [webhooks](http://developers.marketo.com/documentation/webhooks/) plongée profonde.
+>Pour en savoir plus, consultez les [webhooks](https://developers.marketo.com/documentation/webhooks/) plongée profonde.
