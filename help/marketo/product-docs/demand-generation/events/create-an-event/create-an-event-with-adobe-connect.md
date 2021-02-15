@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: Création d’un Événement avec Adobe Connect - Marketo Docs - Documentation du produit
 title: Créer un Événement avec Adobe Connect
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -21,7 +21,7 @@ La synchronisation avec Adobe Connect vous permet de gérer votre inscription et
 >* [Créer un Programme de Événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-Tout d&#39;abord, assurez-vous d&#39;avoir créé votre réunion ou séminaire à Adobe Connect. Si vous avez besoin d&#39;aide, consultez le [Guide de l&#39;utilisateur Adobe Connect](http://help.adobe.com/en_US/connect/9.0/using/index.html). Les réunions et séminaires que vous créez en Adobe Connect doivent être créés dans le dossier que vous avez spécifié lorsque vous avez saisi vos informations d’identification dans Marketing Cloud. Après avoir créé votre réunion ou séminaire, prenez note de toute information logistique pertinente (telle que le numéro de téléphone) à utiliser dans votre courriel de confirmation et votre fichier ICS.
+Tout d&#39;abord, assurez-vous d&#39;avoir créé votre réunion ou séminaire à Adobe Connect. Si vous avez besoin d&#39;aide, consultez le [Guide de l&#39;utilisateur Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html). Les réunions et séminaires que vous créez en Adobe Connect doivent être créés dans le dossier que vous avez spécifié lorsque vous avez saisi vos informations d’identification dans Marketing Cloud. Après avoir créé votre réunion ou séminaire, prenez note de toute information logistique pertinente (telle que le numéro de téléphone) à utiliser dans votre courriel de confirmation et votre fichier ICS.
 
 >[!NOTE]
 >
