@@ -3,7 +3,7 @@ unique-page-id: 18874822
 description: Notes de mise à jour - 19 juin - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - 19 juin
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Les fonctionnalités suivantes ont été publiées le 14 juin 2019.
 
 >[!CAUTION]
 >
->A compter du 18 juin 2019, la version 1.0 du courriel n’est plus disponible. Vous pouvez en savoir plus sur Email 2.0 et la désapprobation de Email 1.0 [ici](http://nation.marketo.com/docs/DOC-7038).
+>A compter du 18 juin 2019, la version 1.0 du courriel n’est plus disponible. Vous pouvez en savoir plus sur Email 2.0 et la désapprobation de Email 1.0 [ici](https://nation.marketo.com/docs/DOC-7038).
 
 ## Marketing basé sur le compte {#account-based-marketing}
 
@@ -66,7 +66,7 @@ Connexion commerciale
 ## Bizible par Marketo {#bizible-by-marketo}
 
 * **Prise en charge de plusieurs devises pour Dynamics** : Bizible s&#39;adapte désormais aux tables de devises Microsoft Dynamics, ce qui vous permet de basculer facilement entre les devises d&#39;entreprise et les devises locales. (Remarque : Le soutien à la DDC a été rendu public au 1er trimestre 2019.)
-* **Intégration** de la dérive : Comprenez comment les conversations de Drift ont un impact sur le parcours de votre client. Bizible extrait également les adresses électroniques des conversations pour créer une piste ou connecter le point de contact à une piste existante.
+* **Intégration** de la dérive : Comprendre l’impact des conversations sur le parcours de votre client. Bizible extrait également les adresses électroniques des conversations pour créer une piste ou connecter le point de contact à une piste existante.
 * **Localisation** : Bizible est désormais disponible dans toutes les langues prises en charge par le marché (anglais, japonais, allemand, espagnol, français et portugais).
 
 ***Webinaire*** sur les versions des produits Regardez l&#39;enregistrement de notre webinaire sur les innovations des versions du 19 juin  [ici](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
