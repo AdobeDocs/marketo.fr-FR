@@ -3,7 +3,7 @@ unique-page-id: 2951054
 description: Notes de mise à jour - Octobre 2013 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Octobre 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Notes de mise à jour : Octobre 2013 {#release-notes-october}
 
-Les fonctionnalités suivantes sont incluses dans la version d’octobre 2013. Consultez votre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
+Les fonctionnalités suivantes sont incluses dans la version d’octobre 2013. Consultez votre [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.](http://templates.marketo.com) comshowcase des modèles de courrier électronique et de landing page (y compris les modèles de courrier électronique mobile réactif) que vous pouvez télécharger à partir de la bibliothèque de Programmes de Marketo. Nous allons ajouter des modèles mensuels, vérifier souvent !
+[Templates.marketo.](https://templates.marketo.com) comshowcase des modèles de courrier électronique et de landing page (y compris les modèles de courrier électronique mobile réactif) que vous pouvez télécharger à partir de la bibliothèque de Programmes de Marketo. Nous allons ajouter des modèles mensuels, vérifier souvent !
 
 ## developpeurs.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.](http://developers.marketo.com) comis pour les développeurs qui souhaitent créer des intégrations dans Marketo. Vous pouvez référencer différentes options d’intégration, notamment les API JavaScript Munchkin, les exemples de code d’API SOAP, les hameçons Web et les scripts de courrier électronique. Un SDK Java est également disponible sur [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developers.marketo.](https://developers.marketo.com) comis pour les développeurs qui souhaitent créer des intégrations dans Marketo. Vous pouvez référencer différentes options d’intégration, notamment les API JavaScript Munchkin, les exemples de code d’API SOAP, les hameçons Web et les scripts de courrier électronique. Un SDK Java est également disponible sur [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Mise à jour de l&#39;adaptateur de Événement BrightTALK {#updated-brighttalk-event-adapter}
 
