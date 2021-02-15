@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Champs requis pour la synchronisation du marché avec Dynamics - Marketo Docs - Documentation sur les produits
 title: Champs requis pour synchroniser le marketing avec Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Si l’un de ces champs est manquant, un message d’erreur s’affiche dans Mar
 
 Voici comment vérifier et ajouter des champs de synchronisation.
 
-1. Accédez à Admin et cliquez sur Microsoft Dynamics.
+1. Accédez à Admin et cliquez sur **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Cliquez sur Modifier dans Détails de synchronisation des champs.
+1. Cliquez sur **Modifier** sur Détails de synchronisation des champs.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +47,7 @@ Voici comment vérifier et ajouter des champs de synchronisation.
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. Cliquez sur Enregistrer.
+1. Cliquez sur **Enregistrer**.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 
@@ -57,5 +57,4 @@ Voici comment vérifier et ajouter des champs de synchronisation.
 
 >[!MORELIKETHIS]
 >
->[Configuration des étoiles et des flammes pour les enregistrements de piste/contact](http://docs.marketo.com/x/BICMAg)
-
+>[Configuration des étoiles et des flammes pour les enregistrements de piste/contact](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
