@@ -3,9 +3,9 @@ unique-page-id: 30082174
 description: Moments intéressants dans MSC - Marketo Docs - Documentation du produit
 title: Moments intéressants au SMC
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ Les moments intéressants sont la clé de la communication avec votre équipe co
 
 >[!AVAILABILITY]
 >
->
->Ils sont accessibles uniquement aux clients [Marketing Sales Insight](http://docs.marketo.com/x/2Akt) et Marketing Sales Connect.
+>Ils sont accessibles uniquement aux clients [Marketing Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) et Marketing Sales Connect.
 
-## Quel moment intéressant ?  {#what-is-an-interesting-moment}
+## Quel moment intéressant ? {#what-is-an-interesting-moment}
 
 C&#39;est à vous de décider ! Vous décidez quelles informations sont pertinentes pour votre équipe commerciale. Votre équipe commerciale peut vouloir savoir quand un prospect :
 
@@ -30,7 +29,7 @@ C&#39;est à vous de décider ! Vous décidez quelles informations sont pertinen
 
 ## Comment créer un moment intéressant ? {#how-do-i-create-an-interesting-moment}
 
-1. Choisissez une campagne [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [mart](http://docs.marketo.com/display/docs/smart+campaigns), de préférence une campagne intéressante pour votre équipe commerciale si elle est déclenchée.
+1. Choisissez une [campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), de préférence une campagne intéressante pour votre équipe commerciale si elle est déclenchée.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -52,7 +51,7 @@ C&#39;est à vous de décider ! Vous décidez quelles informations sont pertinen
 
 ## A quoi ressemble un moment intéressant sur le marché ?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Les moments intéressants s&#39;afficheront dans un [journal d&#39;activité du prospect](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Les moments intéressants s&#39;afficheront dans un [journal d&#39;activité du prospect](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
@@ -61,4 +60,3 @@ Les moments intéressants s&#39;afficheront dans un [journal d&#39;activité du 
 Les moments intéressants s’afficheront en temps réel dans le flux dynamique d’un utilisateur. Nous utilisons l&#39;identifiant de propriétaire principal de Salesforce pour montrer aux utilisateurs les moments intéressants de pistes pertinentes dont ils sont propriétaires. Les utilisateurs peuvent rapidement suivre les pistes par courriel, téléphone ou campagne de vente en cliquant sur la liste déroulante en regard du nom de la piste.
 
 ![](assets/engagement.jpg)
-
