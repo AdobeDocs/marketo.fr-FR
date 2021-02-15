@@ -3,7 +3,7 @@ unique-page-id: 7511815
 description: Notes de mise à jour - Avril 2015 - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - avril 2015
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -29,9 +29,9 @@ En outre, l’organisation des rapports privés par rapport aux rapports partag�
 
 ## Engagement marketing pour mobile {#marketo-mobile-engagement}
 
-[Engagement marketing sur mobile](http://docs.marketo.com/display/docs/mobile+marketing)
+[Engagement marketing sur mobile](https://docs.marketo.com/display/docs/mobile+marketing)
 
-Grâce à [l’engagement marketing sur mobile](http://docs.marketo.com/display/docs/mobile+marketing), il est facile de fournir des expériences mobiles attrayantes. Créez des campagnes hautement personnalisées qui offrent un contenu attrayant sans jamais avoir à faire appel à une équipe de développement d’applications. Les nouveaux filtres et déclencheurs vous permettent d’écouter et de répondre sur le canal mobile au moyen de notifications Push.
+Grâce à [l’engagement marketing sur mobile](https://docs.marketo.com/display/docs/mobile+marketing), il est facile de fournir des expériences mobiles attrayantes. Créez des campagnes hautement personnalisées qui offrent un contenu attrayant sans jamais avoir à faire appel à une équipe de développement d’applications. Les nouveaux filtres et déclencheurs vous permettent d’écouter et de répondre sur le canal mobile au moyen de notifications Push.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -51,8 +51,8 @@ Vos fonctions commerciales favorites - flux de pistes, meilleurs paris, moments 
 
 ## RTP - Analyses marketing basées sur le compte {#rtp-account-based-marketing-analytics}
 
-RTP - [Analyses marketing basées sur le compte](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+RTP - [Analyses marketing basées sur le compte](https://docs.marketo.com/pages/viewpage.action?pageid=7511515)
 
-Bénéficiez d&#39;une visibilité instantanée des [performances de vos principales listes de compte nommé](http://docs.marketo.com/pages/viewpage.action?pageid=7511515) en fonction de chaque étape du cycle d&#39;achat, avec le nouveau graphique de performances pour vos listes de compte nommé. Le graphique montre l&#39;étape de la visite de l&#39;organisation clé, en partant de la sensibilisation jusqu&#39;à l&#39;action, en fonction du nombre de visites et du statut du visiteur.
+Bénéficiez d&#39;une visibilité instantanée des [performances de vos principales listes de compte nommé](https://docs.marketo.com/pages/viewpage.action?pageid=7511515) en fonction de chaque étape du cycle d&#39;achat, avec le nouveau graphique de performances pour vos listes de compte nommé. Le graphique montre l&#39;étape de la visite de l&#39;organisation clé, en partant de la sensibilisation jusqu&#39;à l&#39;action, en fonction du nombre de visites et du statut du visiteur.
 
 ![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
