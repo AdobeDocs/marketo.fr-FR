@@ -3,7 +3,7 @@ unique-page-id: 14352503
 description: Modèles partagés - Documents marketing - Documentation du produit
 title: Modèles partagés
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -19,9 +19,8 @@ Si vous utilisez l’un de nos comptes d’équipe, tous vos modèles restent pr
 
 ## Comment rechercher des modèles partagés {#how-to-find-shared-templates}
 
-Les modèles qui ont été partagés avec vous s&#39;affichent sous l&#39;en-tête **Modèles d&#39;équipe **situé à gauche de la page Modèles.
+Les modèles qui ont été partagés avec vous s’affichent sous l’en-tête **Modèles d’équipe** sur le côté gauche de la page Modèles.
 
 >[!NOTE]
 >
 >Les équipes ne sont disponibles que pour les utilisateurs Premium.
-
