@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossaire du marketing - Docs marketing - Documentation du produit
 title: Glossaire du marketing
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -297,7 +297,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">Contenu dynamique</a></strong></td> 
-   <td colspan="1">Contenu (images, extraits de code, texte, etc.) qui renseigne un <strong>landing page &lt;a0/&gt;e-mail</strong> ou <strong></strong> en fonction des critères que vous avez spécifiés, ce qui vous permet de personnaliser l’expérience pour le lecteur. </td> 
+   <td colspan="1">Contenu (images, extraits de code, texte, etc.) qui renseigne un <strong>landing page e-mail</strong> ou <strong></strong> en fonction des critères que vous avez spécifiés, vous permettant de personnaliser l’expérience pour le lecteur. </td> 
   </tr> 
  </tbody> 
 </table>
@@ -323,7 +323,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
     <div> 
      <p><a href="/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md" rel="nofollow"><strong> Programme de courriel</strong></a></p> 
     </div></td> 
-   <td colspan="1">Type de programme dans Marketo. Les programmes de messagerie sont utilisés pour les envois de messagerie ponctuels. Vous pouvez utiliser <strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">les tests A/B</a></strong> ainsi que suivre les résultats de vos courriels.<br></td> 
+   <td colspan="1">Type de programme dans Marketo. Les programmes de courrier électronique sont utilisés pour les envois uniques par courrier électronique. Vous pouvez utiliser <strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">les tests A/B</a></strong> ainsi que suivre les résultats de vos courriels.<br></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#email-suspended" rel="nofollow"><strong>Courrier électronique suspendu</strong></a></td> 
@@ -446,7 +446,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
  </tbody> 
 </table>
 
-## I {#k}
+## K {#k}
 
 <table> 
  <colgroup> 
@@ -456,7 +456,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Personne connue</strong></a></td> 
-   <td><p>Toute donnée de personne figurant dans la <strong>base de données du marché</strong> est considérée comme une donnée de personne connue. Il existe plusieurs méthodes pour entrer dans votre base de données, notamment : Synchronisation CRM, remplissage d’un formulaire, importation/saisie manuelle de listes, programmation (API REST/intégrations de partenaires), etc. Les visiteurs Web sont initialement <strong>cookie</strong> (et sont anonymes) via le suivi Web <strong>Munchkin</strong> de Marketo et sont ensuite mappés à l'enregistrement de personne connu correspondant lorsque l'action d'identification se produit (par exemple, en cliquant sur un lien suivi dans un courrier électronique Marketo, en remplissant un formulaire avec leur adresse électronique ou en étant mappés manuellement par le biais de l'association API de piste dans <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> et <a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociateLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Toute donnée de personne figurant dans la <strong>base de données du marché</strong> est considérée comme une donnée de personne connue. Il existe plusieurs méthodes pour entrer dans votre base de données, notamment : Synchronisation CRM, remplissage d’un formulaire, importation/saisie manuelle de listes, programmation (API REST/intégrations de partenaires), etc. Les visiteurs Web sont initialement <strong>cookie</strong> (et sont anonymes) via le suivi Web <strong>Munchkin</strong> de Marketo et sont ensuite mappés à l'enregistrement de personne connu correspondant lorsque l'action d'identification se produit (par exemple, en cliquant sur un lien suivi dans un courrier électronique Marketo, en remplissant un formulaire avec leur adresse électronique ou en étant mappés manuellement par le biais de l'association API de piste dans <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> et <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociateLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -555,7 +555,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
    <td>Egalement appelé MSD. L’un des deux marqueurs de gestion de la relation client a une intégration native avec (voir <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="http://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
    <td>Code de suivi JavaScript personnalisé de Marketo. Il suit toutes les personnes qui visitent votre site Web. Cela inclut les visiteurs anonymes (ainsi que leurs adresses IP et autres informations). </td> 
   </tr> 
   <tr> 
@@ -759,7 +759,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
    <td colspan="1"><p>Mécanisme d’authentification qui identifie les serveurs de messagerie autorisés à envoyer du courrier pour un domaine spécifique.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="http://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Campaign intelligente</strong></a></td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Campaign intelligente</strong></a></td> 
    <td colspan="1">L'un des outils les plus importants du marché. Ils effectuent les actions que vous désignez en fonction des critères que vous définissez. (voir aussi <strong><a href="#b">Batch Campaign</a></strong> et <strong><a href="#t">Trigger Campaign</a></strong>)</td> 
   </tr> 
   <tr> 
