@@ -3,7 +3,7 @@ unique-page-id: 2360012
 description: Rapport Personnes par statut - Documents marketing - Documentation du produit
 title: Rapport Personnes par état
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -38,5 +38,5 @@ Examinez comment vous déplacez les personnes tout au long du processus en véri
    >**Plongée profonde**
    >
    >
-   >Découvrez comment ajouter des colonnes et plus dans la plongée profonde [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   >Découvrez comment ajouter des colonnes et plus dans la plongée profonde [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
