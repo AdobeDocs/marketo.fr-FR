@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Etapes de configuration - Documents marketing - Documentation du produit
 title: Etapes de configuration
 translation-type: tm+mt
-source-git-commit: 0a4050545c5c956001c9c299cfbcf59e9cffd39c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2143'
 ht-degree: 0%
@@ -330,7 +330,7 @@ Envoyez le courriel au service informatique. Nous comprenons qu&#39;il peut s&#3
    >
    >Ces modèles personnalisés ne sont disponibles que pour les clients Launch Pack.
 
-   Accédez au formulaire [Conception de modèles de marketing et création](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Renseignez les informations de votre société.
+   Accédez au formulaire [Conception de modèles de marketing et création](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Renseignez les informations de votre société.
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 
