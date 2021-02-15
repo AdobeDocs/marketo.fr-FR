@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Page d'informations sur les ventes pour les administrateurs du marketing - Documents marketing - Documentation du produit
 title: Page d'informations commerciales pour les administrateurs du marketing
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Vous pouvez choisir de supprimer les informations d’identification de l’API 
 
 ## Paramètres de note personnelle {#person-score-settings}
 
-| **Etoiles :** | Les étoiles représentent le score de piste total par rapport aux autres pistes. |
-|---|---|
-| **Flammes :** | Les flammes représentent l&#39;urgence - à quel point le score d&#39;un prospect a changé récemment. |
+* **Etoiles** : Les étoiles représentent le score de piste total par rapport aux autres pistes.
+* **Flammes** : Les flammes représentent l&#39;urgence - à quel point le score d&#39;un prospect a changé récemment.
 
 Par défaut, le module Marketing Sales Insight utilise le champ Score de piste pour calculer les étoiles et les flammes. Mais si vous voulez choisir un autre champ, voici comment :
 
@@ -61,19 +60,17 @@ Par défaut, le module Marketing Sales Insight utilise le champ Score de piste p
 
    >[!TIP]
    >
-   >Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment [les créer](http://docs.marketo.com/x/3wMk).
+   >Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment [les créer](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Etoiles et flammes](http://docs.marketo.com/x/qgU6Ag)
+   >[Etoiles et flammes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Paramètres {#settings}
 
 ![](assets/nine.png)
 
-**Paramètres de désabonnement : **
+**Paramètres de désabonnement :**
 
 Vous pouvez choisir parmi les paramètres de désabonnement suivants pour Aucun modèle, Courriers électroniques standard et E-mails opérationnels.
 
@@ -82,10 +79,10 @@ Vous pouvez choisir parmi les paramètres de désabonnement suivants pour Aucun 
 * Respecter les paramètres de désabonnement lorsque plus de 5 destinataires
 * Ignorer les paramètres de désabonnement
 
-**Permettre de verrouiller les modèles : **
+**Permet de verrouiller des modèles :**
 
 Lorsqu&#39;ils sont activés, les utilisateurs MSI ne pourront pas modifier les modèles lors de l&#39;envoi de courriers électroniques à partir de Salesforce.
 
 **Activer le flux RSS :**
 
-Une fois activé, les utilisateurs MSI peuvent vue leur flux de piste dans un flux RSS (en plus du flux de piste dans Salesforce)**.**
+Une fois activé, les utilisateurs MSI peuvent vue leur flux de piste dans un flux RSS (en plus du flux de piste dans Salesforce).
