@@ -3,7 +3,7 @@ unique-page-id: 7514956
 description: Activer le contenu prédictif pour les médias enrichis en ligne - Documents marketing - Documentation du produit
 title: Activer le contenu prédictif pour les médias enrichis en ligne
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Le contenu prédictif engage vos visiteurs Web avec le contenu le plus pertinent
 >
 >Avant d’activer le contenu prédictif, vous devez :
 >
->* [Préparation du contenu prédictif](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Préparation du contenu prédictif](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 >
@@ -42,7 +42,7 @@ Une fois que vous avez préparé le titre, la description et l’image du conten
 
 ## Personnalisez le code JavaScript et incorporez-le dans votre site Web {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Reportez-vous à la documentation relative au modèle de recommandation Rich Media [sur le site des développeurs de marchés.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Cela explique comment personnaliser le modèle pour votre site Web.
+Reportez-vous à la documentation relative au modèle de recommandation Rich Media [sur le site des développeurs de marchés.](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Cela explique comment personnaliser le modèle pour votre site Web.
 
 Collez le code JavaScript sur votre site Web à l’emplacement où vous souhaitez que le modèle s’affiche.
 
@@ -62,5 +62,5 @@ Voici un exemple du modèle de recommandation Rich Media2 :
 >[!MORELIKETHIS]
 >
 >* [Activation de la barre de recommandation de contenu](enable-the-content-recommendation-bar.md)
->* [Activer le contenu prédictif dans les courriers électroniques](http://docs.marketo.com/x/vLit)
+>* [Activer le contenu prédictif dans les courriers électroniques](https://docs.marketo.com/x/vLit)
 
