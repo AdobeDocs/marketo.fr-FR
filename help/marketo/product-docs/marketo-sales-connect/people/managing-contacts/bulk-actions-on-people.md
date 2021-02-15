@@ -3,9 +3,9 @@ unique-page-id: 30081230
 description: Actions en masse sur les personnes - Documents marketing - Documentation du produit
 title: Actions en masse sur les personnes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Nous affectons automatiquement une source à chaque contact qui entre dans la ba
 
 ## Autorisation {#authorization}
 
-Conformément au [RGPD](http://eugdpr.org/), utilisez l&#39;autorisation pour indiquer comment vous avez reçu l&#39;autorisation de communiquer avec ces contacts.
+Conformément au [RGPD](https://eugdpr.org/), utilisez l&#39;autorisation pour indiquer comment vous avez reçu l&#39;autorisation de communiquer avec ces contacts.
 
 ![](assets/authorization.png)
 
@@ -49,7 +49,6 @@ Effectuez un désabonnement en masse sur les contacts qui ne souhaitent plus rec
 
 ## Supprimer {#delete}
 
-Supprimer les contacts en bloc. Vous trouverez toutes les étapes [ici](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
+Supprimer les contacts en bloc. Vous trouverez toutes les étapes [ici](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)
-
