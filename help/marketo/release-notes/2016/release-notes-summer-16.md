@@ -3,7 +3,7 @@ unique-page-id: 11380218
 description: Notes de mise à jour - Été 16 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Été 16
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les fonctionnalités suivantes sont incluses dans la version de Summer &#39;16. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing. Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction.
 
-## [Marketing basé sur le compte](http://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## [Marketing basé sur le compte](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
 Le marketing basé sur les comptes de marketing fournit tous les éléments essentiels dans une seule plate-forme unifiée :
 
@@ -29,7 +29,7 @@ Le marketing basé sur les comptes de marketing fournit tous les éléments esse
 >
 >ABM est disponible en tant que module complémentaire de votre abonnement de marketing. Veuillez donc contacter votre représentant commercial pour qu&#39;il le mette en oeuvre.
 
-## [Piste d&#39;audit](http://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
+## [Piste d&#39;audit](https://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
 
 La piste d’audit fournit un historique complet des modifications apportées à votre abonnement Marketing. Il créera des responsabilités parmi les utilisateurs et les administrateurs, aidera à identifier la cause d&#39;un comportement inattendu, et assurera la sécurité de savoir qui fait quoi et quand. Ces renseignements seront disponibles à tout moment et pourront être utilisés pour répondre à des questions telles que :
 
@@ -39,7 +39,7 @@ La piste d’audit fournit un historique complet des modifications apportées à
 
 ![](assets/audit-trail.png)
 
-## [Intégration du point de lancement SMS Marketo-Vibes](http://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
+## [Intégration du point de lancement SMS Marketo-Vibes](https://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
 
 Créez facilement des messages SMS directement dans Marketo. Personnalisez et cible votre message à l&#39;aide de vos données marketing riches et surveillez facilement ses performances à l&#39;aide du tableau de bord de messages SMS.
 
@@ -72,7 +72,7 @@ Utilisez la nouvelle fonctionnalité de recherche pour rechercher et remplacer e
 
 Les jetons peuvent désormais être utilisés dans la zone &quot;URL externe&quot; de l’expérience d’insertion d’image ! Si vous avez spécifié des images avec `{{my.tokens}}`, vous pouvez maintenant référencer ces jetons dans l’éditeur de messagerie 2.0. Notez que l’image apparaîtra toujours rompue dans le canevas de l’éditeur de messagerie 2.0. Mais vous verrez qu’ils sont rendus dans Prévisualisation et Envoyer un exemple avant d’envoyer votre courriel.
 
-## [Plusieurs domaines de marque](http://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
+## [Plusieurs domaines de marque](https://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
 
 L&#39;époque où les liens de tracking email ne pouvaient être marqués qu&#39;avec un seul domaine de marque est révolue. Vous pouvez maintenant ajouter plusieurs domaines de marque pour inspirer la confiance des consommateurs, créer une apparence plus rationnelle pour vous concentrer sur la marque, améliorer la délivrabilité des courriels et choisir, par courriel, le domaine de marque à utiliser pour les liens de suivi de chaque courrier électronique.
 
@@ -100,11 +100,11 @@ Indiquez une temporisation de réaction des campagnes Web sur votre site Web.
 
 Analyses de contenu de vue et données de recommandations hors ligne.
 
-## [Prise en charge des API pour l’éditeur de courrier électronique 2.0](http://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [Prise en charge des API pour l’éditeur de courrier électronique 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 Les API d’actifs préexistantes, auparavant uniquement compatibles avec les modèles et courriers électroniques v1.0, sont désormais activées pour les ressources de courrier électronique v2.0.
 
-## [Site des développeurs de marketing](http://developers.marketo.com/) {#marketo-developers-site}
+## [Site des développeurs de marketing](https://developers.marketo.com/) {#marketo-developers-site}
 
 Nouveau et amélioré !
 
