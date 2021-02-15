@@ -3,7 +3,7 @@ unique-page-id: 4719304
 description: Actions Salesforce appliquées - Documents marketing - Documentation du produit
 title: Actions Salesforce appliquées
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Lorsqu&#39;une étape de flux spécifique à Salesforce s&#39;exécute, des étapes supplémentaires sont parfois exécutées automatiquement. Voici les règles, donc vous savez :
 
-Ces règles s&#39;appliquent _lorsque la personne n&#39;est pas actuellement dans [Salesforce.com](http://Salesforce.com)_ en tant que contact ou responsable.
+Ces règles s&#39;appliquent _lorsque la personne n&#39;est pas actuellement dans [Salesforce.com](https://Salesforce.com)_ en tant que contact ou responsable.
 
 <table> 
  <thead> 
