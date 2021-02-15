@@ -3,7 +3,7 @@ unique-page-id: 2360002
 description: Configurer la taille du rapport - Documents marketing - Documentation du produit
 title: Configurer la taille du rapport
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -47,5 +47,5 @@ Par défaut, les rapports Marketo sont limités à un maximum de 5 000 lignes, m
    >
    >Vous pouvez désormais [exporter votre rapport](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) avec la nouvelle limite.
 
-   Découvrez d&#39;autres façons de configurer vos rapports dans l&#39;exploration approfondie [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   Découvrez d&#39;autres façons de configurer vos rapports dans l&#39;exploration approfondie [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
