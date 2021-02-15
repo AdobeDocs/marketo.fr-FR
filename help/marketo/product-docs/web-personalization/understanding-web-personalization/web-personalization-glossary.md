@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Glossaire de la personnalisation Web - Documents marketing - Documentation du produit
 title: Glossaire de la personnalisation Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Quelques aperçus du monde et de la langue de la personnalisation Web de Marketo
 
 Vous pouvez utiliser un caractère générique de trois manières différentes dans la personnalisation Web.
 
-Faire correspondre tous les visiteurs des URL de page se terminant par le prix (par exemple, [www.marketo.com/pricing):](http://www.marketo.com/pricing):)
+Faire correspondre tous les visiteurs des URL de page se terminant par le prix (par exemple, [www.marketo.com/pricing):](https://www.marketo.com/pricing):)
 
 ![](assets/wildcard-example-1.png)
 
