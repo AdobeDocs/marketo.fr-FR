@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger -Objet Line - Marketo Docs - Documentation du produit
 title: Champion/Challenger - Objet Line
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Vous pouvez facilement tester plusieurs lignes d’objet. Lorsque le test est te
    >
    >Dans la distribution illustrée ci-dessus, 10 % de l&#39;audience totale spécifiée dans la liste intelligente reçoit l&#39;un des courriels avec l&#39;objet challenger et 90 % reçoivent des courriels avec l&#39;objet champion. Les courriels comportant plusieurs objets challenger partagent les 10 % de parts de trafic. Lorsque le test est terminé, vous pouvez déclarer manuellement un gagnant. A partir de ce moment, tous les futurs utilisateurs recevront le contenu le plus performant.
 
-   Pour obtenir une confiance statistique, assurez-vous que le pourcentage choisi inclut suffisamment de personnes, de sorte que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants. [Plus d&#39;informations que jamais sur la fiabilité](http://en.wikipedia.org/wiki/Confidence_interval) statistique.
+   Pour obtenir une confiance statistique, assurez-vous que le pourcentage choisi inclut suffisamment de personnes, de sorte que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants. [Plus d&#39;informations que jamais sur la fiabilité](https://en.wikipedia.org/wiki/Confidence_interval) statistique.
 
 1. Cliquez sur **Suivant**.
 
