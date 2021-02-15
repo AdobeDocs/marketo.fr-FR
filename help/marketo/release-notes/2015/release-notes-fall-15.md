@@ -3,7 +3,7 @@ unique-page-id: 10094114
 description: Notes de mise à jour - Automne 2015 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Automne 2015
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1026'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Plusieurs abonnements peuvent être créés sur une liste intelligente. Il y a u
 
 ## Objets personnalisés du marketing {#marketo-custom-objects}
 
-[Objets personnalisés marketing](http://docs.marketo.com/display/docs/marketo+custom+objects)
+[Objets personnalisés marketing](https://docs.marketo.com/display/docs/marketo+custom+objects)
 
 Créez facilement des objets personnalisés à partir de l’interface utilisateur d’administration. Actuellement, nous prenons en charge la possibilité de créer un objet personnalisé 1:N dans Marketo et de le connecter à une piste ou une société.
 
@@ -121,7 +121,7 @@ Nous apportons plusieurs améliorations à l’éditeur de texte enrichi. Après
    ```
 
    ```
-   <v:fill type="tile" src="<a href="http://i.imgur.com/YJOX1PC.png" rel="nofollow">http://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
    ```
 
    ```
