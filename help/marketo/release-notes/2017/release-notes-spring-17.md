@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Notes de mise à jour - Printemps 2017 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Printemps 2017
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -27,7 +27,7 @@ L&#39;intégration de Marketo à LinkedIn Lead Gen Forms capture automatiquement
 
 ## [Expiration du modèle MSI](https://docs.marketo.com/x/VgIt) {#expire-msi-template}
 
-Les jours de nettoyage des modèles obsolètes dans Sales Insight sont révolus. Définissez une date d’expiration lorsque vous publiez votre courriel et nous nous occuperons de la dépublier pour vous lorsque la date d’expiration sera écoulée.
+Les jours de nettoyage des modèles obsolètes dans Sales Insight sont révolus. Définissez une date d’expiration lorsque vous publierez votre courriel et nous nous occuperons de la dépublier pour vous lorsque la date d’expiration sera écoulée.
 
 >[!NOTE]
 >
@@ -45,11 +45,11 @@ Transférez facilement de grandes quantités de données sur les personnes et le
 
 L’ABM de marketing vous permet désormais de créer jusqu’à 10 champs personnalisés sur vos comptes nommés. Vous pouvez associer ces champs personnalisés aux champs de votre objet de compte CRM et l’ABM Marketing synchronisera les données, ce qui vous permettra d’étendre vos comptes nommés ABM et de stimuler votre marketing.
 
-** [Score percentile sur les comptes nommés ABM](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+** [Score percentile sur les comptes nommés ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 Les scores du compte nommé peuvent varier considérablement. Le marketing ABM calcule désormais automatiquement un centile pour chacun de vos scores, de sorte que vous pouvez voir d’un seul coup d’oeil où chaque compte nommé est classé parmi vos autres comptes nommés.
 
-** [API de Liste de compte ABM](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [API de Liste de compte ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Profitez des intégrations de partenaires ABM riches et robustes avec une prise en charge améliorée des API pour les Listes de compte nommé.
 
