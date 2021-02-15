@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Notes de mise à jour - Hiver 19 - Documentation sur le marketing - Documentation sur le produit
 title: Notes de mise à jour - Hiver 19
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -40,11 +40,11 @@ Inclure jusqu’à cinq adresses CC par destinataire dans les courriers électro
 * **Prise en charge de domaines de marque multiple pour l’API des ressources :** l’approbation et le clonage des ressources produisent les mêmes résultats dans l’API et l’interface utilisateur.
 * **Prise en charge de CC par courrier électronique pour l’API** de ressources : Les utilisateurs clonant, approuvant et traitant les courriers électroniques via l’API conservent la parité avec les paramètres de l’interface utilisateur.
 
-** [Munchkin v155 (Beta)](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+** [Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Mode** API uniquement : Les utilisateurs peuvent désormais déterminer quand et comment effectuer le suivi des membres de leur base de données en permettant aux applications Web d’une seule page d’appeler explicitement lorsqu’elles souhaitent enregistrer une visite de page Web au lieu de compter sur le suivi automatique de Marketo.
 * **Gestion** des exclusions : Gérez facilement les exclusions en faisant correspondre le domaine du cookie d’exclusion au domaine du cookie de suivi Munchkin.
-* **Paramètre** de décideur au niveau du domaine : Domaines à deux lettres (c.-à-d. &quot;  [site web.io](http://website.io)&quot;) sera automatiquement suivi dans Marketo sans configuration supplémentaire requise.
+* **Paramètre** de décideur au niveau du domaine : Domaines à deux lettres (c.-à-d. &quot;  [site web.io](https://website.io)&quot;) sera automatiquement suivi dans Marketo sans configuration supplémentaire requise.
 
 ## Intervention commerciale {#marketo-sales-engage}
 
@@ -58,7 +58,7 @@ Inclure jusqu’à cinq adresses CC par destinataire dans les courriers électro
    * *Les équipes des* restaurants d’administration de Salesforce ont configuré leur synchronisation SFDC plus rapidement et plus facilement que jamais.
 
 * **Module externe OWA pour Windows** : Avec un seul module complémentaire, tous les clients Windows Office365 seront pris en charge dans Sales Engage, ce qui leur permettra d&#39;utiliser Live Feed dans Outlook. Le nouveau module externe sera disponible dans le Microsoft Store.
-* **Activités Pusher** : Synchroniser les ventes Interagir avec la plate-forme principale du marché pour exploiter les informations marketing en temps réel.
+* **Activités Pusher** : Synchroniser les ventes Interagir avec la plate-forme principale de marketing pour exploiter les informations marketing en temps réel.
 
 ## Marketo Sky {#marketo-sky}
 
@@ -103,10 +103,10 @@ Pour mieux gérer les domaines et sous-domaines, les utilisateurs peuvent désor
 
 **Mise à jour du kit de développement logiciel MME (SDK) pour Android**
 
-Nous avons mis à jour notre SDK pour Android vers un cadre plus moderne, stable et évolutif qui offre davantage de flexibilité et de nouvelles fonctionnalités d&#39;ingénierie. Les développeurs d’applications Android peuvent désormais utiliser directement [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) de Google avec ce nouveau SDK.
+Nous avons mis à jour notre SDK pour Android vers un cadre plus moderne, stable et évolutif qui offre davantage de flexibilité et de nouvelles fonctionnalités d&#39;ingénierie. Les développeurs d’applications Android peuvent désormais utiliser directement [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) de Google avec ce nouveau SDK.
 
-* [Instructions pour le développeur](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [FAQ destinée aux développeurs](http://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [Instructions pour le développeur](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [FAQ destinée aux développeurs](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
