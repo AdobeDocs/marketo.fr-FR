@@ -3,7 +3,7 @@ unique-page-id: 12979858
 description: FAQ sur les statistiques de performances - Documents marketing - Documentation sur les produits
 title: FAQ sur les statistiques de performances
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1404'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Vous pouvez contrôler la visibilité de vos programmes en définissant le compo
 
 >[!NOTE]
 >
->Pour en savoir plus sur la définition du comportement des analyses, [ici](http://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
+>Pour en savoir plus sur la définition du comportement des analyses, [ici](https://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
 
 ## J’exécute une campagne multi-canal pour le lancement d’un nouveau produit. Comment puis-je vue les performances de cette campagne sur tous les différents canaux au même endroit ? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,7 +59,7 @@ Il se peut également que vous manquiez des opportunités en raison du manque de
 
 1. Par défaut : le comportement par défaut est que le programme est inclus dans MPI uniquement s&#39;il y a au moins un coût de période, même si un coût nul est affecté.
 1. Inclusif : cette option garantit que le programme est disponible dans MPI, que vous ayez inclus ou non un coût de période.
-1. [Opérationnel](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  : cette option a pour effet que le programme ne s’affiche pas dans MPI.
+1. [Opérationnel](https://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  : cette option a pour effet que le programme ne s’affiche pas dans MPI.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ Les champs personnalisés, le type d&#39;opportunité et les Filtres ABM sont to
 
 ## Je souhaite utiliser un champ Opportunité Salesforce personnalisé pour le rapports des recettes au lieu du champ Montant opportunité Salesforce standard. Est-ce que MPI me permettra de faire ça ? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Oui. [La ](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) prise en charge du marketing peut faire correspondre le champ Montant de l&#39;opportunité du marketing à un champ Opportunité Salesforce personnalisé tant que le type de champ est Devise. Puisque MPI pointe vers le champ Montant de l&#39;opportunité marketing, MPI peut utiliser les données du champ Salesforce personnalisé mappé.
+Oui. [La ](https://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) prise en charge du marketing peut faire correspondre le champ Montant opportunité du marketing à un champ Opportunité Salesforce personnalisée tant que le type de champ est devise. Puisque MPI pointe vers le champ Montant de l&#39;opportunité marketing, MPI peut utiliser les données du champ Salesforce personnalisé mappé.
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ MPI est conçu pour vous permettre de mesurer les performances du programme du h
 
 ## Puis-je mesurer le succès des stratégies basées sur les comptes dans MPI ? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Oui. MPI s&#39;intègre à [Marketo ABM](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) pour extraire en toute transparence les listes de compte ABM dans MPI. Vous pouvez utiliser le filtre Liste de compte ABM pour choisir la liste ABM de votre choix pour filtrer les données selon.
+Oui. MPI s&#39;intègre à [Marketo ABM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) pour extraire en toute transparence les listes de compte ABM dans MPI. Vous pouvez utiliser le filtre Liste de compte ABM pour choisir la liste ABM de votre choix pour filtrer les données selon.
 
 ## L’attribution est-elle instantanément disponible lorsque j’achète MPI ? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Les fonctionnalités d’attribution du marketing sont disponibles pour nos clients lorsqu’ils achètent des MPI. Cependant, [une configuration ](http://docs.marketo.com/x/mRPG) appropriée est requise pour s&#39;assurer que les opportunités et les données de programme se déplacent correctement dans MPI.
+Les fonctionnalités d’attribution du marketing sont disponibles pour nos clients lorsqu’ils achètent des MPI. Cependant, [une configuration ](https://docs.marketo.com/x/mRPG) appropriée est requise pour s&#39;assurer que les opportunités et les données de programme se déplacent correctement dans MPI.
 
 ## Que dois-je faire pour configurer l’attribution ? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ Les fonctionnalités d’attribution du marketing sont disponibles pour nos clie
 
 >[!TIP]
 >
->Toutes les étapes de configuration requises sont détaillées dans [cet article](http://docs.marketo.com/x/mRPG).
+>Toutes les étapes de configuration requises sont détaillées dans [cet article](https://docs.marketo.com/x/mRPG).
 
 ## Quelle est la différence entre MPI et l’analyseur de Programme ? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 
