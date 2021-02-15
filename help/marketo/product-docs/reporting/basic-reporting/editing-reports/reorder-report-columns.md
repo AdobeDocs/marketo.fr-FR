@@ -3,7 +3,7 @@ unique-page-id: 2359999
 description: Réorganiser les colonnes du rapport - Documents marketing - Documentation du produit
 title: Réorganiser les colonnes du rapport
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -46,5 +46,5 @@ Vous pouvez modifier l&#39;ordre des colonnes d&#39;un rapport.
    >**Plongée profonde**
    >
    >
-   >Découvrez toute la puissance de l&#39;utilisation des rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   >Découvrez toute la puissance de l&#39;utilisation des rapports dans [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
