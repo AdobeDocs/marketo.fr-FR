@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Notes de mise à jour - Printemps 2019 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Printemps 2019
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Les fonctionnalités suivantes ont été publiées le 15 mars 2019.
 
 * **Liste d&#39;attente :** nouveau statut de programme/événement pour l&#39;inscription d&#39;un membre lorsque vous souhaitez le  [mettre en ](../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) attente jusqu&#39;à ce qu&#39;un poste vacant s&#39;ouvre. Ceci s’applique aux canaux associés aux programmes de Événement dans Marketo Classic, ainsi qu’aux Événements et Événements associés aux programmes Webinaires en Marketo Sky. Par défaut, la liste blanche a la même valeur d’étape que la liste enregistrée.
 * ** [Limite de communication personnalisée](../../product-docs/administration/email-setup/enable-communication-limits.md)** : Les administrateurs peuvent désormais définir des limites de communication quotidiennes ou hebdomadaires personnalisées.
-* ** [API de ressources Campaign dynamiques](http://developers.marketo.com/rest-api/assets/campaigns/)** : Enrichissez vos analyses en dehors de Marketo avec la récupération des enregistrements de campagne intelligents par date et identifiant mis à jour.
+* ** [API de ressources Campaign dynamiques](https://developers.marketo.com/rest-api/assets/campaigns/)** : Enrichissez vos analyses en dehors de Marketo avec la récupération des enregistrements de campagne intelligents par date et identifiant mis à jour.
 * **Liens de suivi HTTPS pour les courriels :** Pour les clients qui ont acheté &quot;Domaines sécurisés pour les liens de suivi&quot;, les liens de suivi de marque peuvent désormais être affichés dans vos courriels sous forme HTTPS.
 * **Mises à jour** de la délivrabilité des courriels Powerpack : Capacité d’indiquer et de commenter des résultats de test spécifiques, de partager les résultats avec les parties prenantes par le biais d’une URL et de suivre les modifications afin de voir l’évolution d’un courrier électronique lorsque les parties prenantes modifient le contenu.
 
