@@ -3,7 +3,7 @@ unique-page-id: 10094576
 description: Désabonnement durable - Documents marketing - Documentation du produit
 title: Désabonnement durable
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Tout comme un désabonnement provoquait le désabonnement de toutes les personne
 
 ## Journal des Activités {#activity-log}
 
-Les définitions des modifications de valeur de données pour _updateLeadEmailStatus_ et _resetLeadEmailStatus_ se trouvent dans [cet article de la communauté](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
+Les définitions des modifications de valeur de données pour _updateLeadEmailStatus_ et _resetLeadEmailStatus_ se trouvent dans [cet article de la communauté](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
