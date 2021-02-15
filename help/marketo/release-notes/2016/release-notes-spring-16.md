@@ -3,7 +3,7 @@ unique-page-id: 11370952
 description: Notes de mise à jour - Printemps 2016 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Printemps 2016
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les fonctionnalités suivantes sont incluses dans la version du printemps 16. Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction.
 
-## [Informations sur les courriels](http://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [Informations sur les courriels](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
 
 Email Insights est une toute nouvelle expérience historique d&#39;analyse des e-mails d&#39;agrégat de données — repensée de bout en bout pour des performances d&#39;éclair rapides dans le cadre du projet Orion. Il présente une toute nouvelle interface utilisateur optimisée pour répondre aux besoins et au flux de travail des spécialistes du marketing par courriel.
 
@@ -53,11 +53,11 @@ Les jours où vous devez tout réapprouver chaque fois qu&#39;un fragment est mi
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Activités personnalisées](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
+## [Activités personnalisées](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
-Les administrateurs du marketing peuvent désormais définir et gérer leurs types d’activités personnalisées par le biais du modeleur de définition d’Activité personnalisée de marketing. Tout comme le Modeleur d’objet personnalisé Marketo (et conjointement avec lui), les administrateurs peuvent maintenant étendre le modèle de données en fonction de leurs besoins commerciaux exacts. Vous trouverez des informations détaillées sur l&#39;utilisation de cette fonctionnalité sur le [site de documentation du marketing](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
+Les administrateurs du marketing peuvent désormais définir et gérer leurs types d’activités personnalisées par le biais du modélisateur de définitions d’Activité personnalisée de marketing. Tout comme le Modeleur d’objet personnalisé Marketo (et conjointement avec lui), les administrateurs peuvent maintenant étendre le modèle de données en fonction de leurs besoins commerciaux exacts. Vous trouverez des informations détaillées sur l&#39;utilisation de cette fonctionnalité sur le [site de documentation du marketing](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
 
-## [API de landing page, de modèle de Landing page et de formulaire](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## [API de landing page, de modèle de Landing page et de formulaire](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Les API REST de Marketo prennent désormais en charge le contrôle des landings page, modèles de landing page et formulaires de Marketo. Les utilisateurs peuvent désormais créer, mettre à jour du contenu, approuver et supprimer ces ressources directement via l’API REST de Marketing Cloud.
 
