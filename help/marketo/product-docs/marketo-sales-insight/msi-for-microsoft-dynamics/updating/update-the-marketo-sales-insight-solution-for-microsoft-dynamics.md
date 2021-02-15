@@ -3,7 +3,7 @@ unique-page-id: 6849099
 description: Mise à jour de la solution Marketo Sales Insight pour Microsoft Dynamics - Marketo Docs - Documentation sur les produits
 title: Mise à jour de la solution Marketing Cloud Sales Insight pour Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Lorsqu&#39;une nouvelle solution Microsoft Dynamics est publiée pour Sales Insi
    ![](assets/image2015-3-16-16-3a29-3a32.png)
 
    Super ! Un fichier zip de la solution sera désormais téléchargé sur votre périphérique.
-
