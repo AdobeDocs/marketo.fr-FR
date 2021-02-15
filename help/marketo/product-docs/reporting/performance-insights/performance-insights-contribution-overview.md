@@ -3,7 +3,7 @@ unique-page-id: 12979008
 description: Aperçu des contributions d’Analyses de performances - Documents marketing - Documentation du produit
 title: Présentation des contributions d’Analyses de performances
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sélectionnez la mesure de vue des performances. Dans cet exemple, nous allons e
 
 >[!NOTE]
 >
->Découvrez [Première touche et Touche multiple](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Découvrez [Première touche et Touche multiple](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Choisissez la période pour laquelle vous souhaitez afficher les mesures. Dans cet exemple, nous examinons l’année en cours (année à jour).   ![](assets/3-1.png)
 
