@@ -3,7 +3,7 @@ unique-page-id: 2949285
 description: Connectez-vous au courrier entrant à partir de vos pistes dans Marketo - Marketo Docs - Documentation du produit
 title: Enregistrer le courrier entrant provenant de vos pistes dans Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -43,10 +43,6 @@ Consignez les réponses de votre prospect pour les ajouter à leur historique da
 
 >[!MORELIKETHIS]
 >
->* [Envoi et suivi d&#39;un courriel avec l&#39;Ajoute de courriel Marketo pour Outlook](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Envoi et suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle de marketing](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Envoi et suivi d&#39;un courriel avec l&#39;Ajoute de courriel Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Envoi et suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle de marketing](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
