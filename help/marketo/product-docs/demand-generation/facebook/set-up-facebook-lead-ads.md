@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Configurer des publicités Facebook avec pistes - Documents marketing - Documentation du produit
 title: Configurer des annonces de pistes Facebook
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Utilisez [Publicités de piste Facebook](https://www.facebook.com/business/a/lea
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Ouvrez un nouvel onglet dans le même navigateur et accédez à [facebook.com](http://www.facebook.com). Connectez-vous à Facebook à l’aide du compte que vous souhaitez utiliser pour l’intégration.
+1. Ouvrez un nouvel onglet dans le même navigateur et accédez à [facebook.com](https://www.facebook.com). Connectez-vous à Facebook à l’aide du compte que vous souhaitez utiliser pour l’intégration.
 
    >[!NOTE]
    >
