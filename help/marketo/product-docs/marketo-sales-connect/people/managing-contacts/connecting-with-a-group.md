@@ -3,9 +3,9 @@ unique-page-id: 30081318
 description: Connexion à un groupe - Documents marketing - Documentation du produit
 title: Connexion à un groupe
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Découvrez comment envoyer un courriel à un groupe entier ou ajouter un groupe 
 
    >[!NOTE]
    >
-   >Vous pouvez voir une option à ajouter à un Campaign marketing. [C&#39;est un autre article](http://docs.marketo.com/x/CwDh).
+   >Vous pouvez voir une option à ajouter à un Campaign marketing. [C&#39;est un autre article](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md).
 
 1. Sélectionnez une campagne (vous pouvez sélectionner une catégorie pour restreindre vos résultats) et cliquez sur **Suivant**.
 
@@ -60,4 +60,3 @@ Découvrez comment envoyer un courriel à un groupe entier ou ajouter un groupe 
 1. Planifiez la campagne et cliquez sur **Début**.
 
    ![](assets/nine-1.png)
-
