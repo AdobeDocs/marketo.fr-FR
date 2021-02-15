@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: Intégration à Adobe Analytics - Docs marketing - Documentation sur les produits
 title: Intégration avec Adobe Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Analysez vos analyses Web du point de vue B2B en affichant les données de campagne de personnalisation en temps réel de votre entreprise, industrie et marketing dans votre compte Adobe Analytics.
 
-Ce document permet l’intégration entre la personnalisation en temps réel du marketing (RTP) et l’Adobe Adobe Analytics. Les données de RTP vous permettent de détecter et d&#39;analyser les tendances de tous les segments et organisations du secteur qui visitent votre site et de mesurer l&#39;efficacité de vos campagnes RTP, en fournissant les informations et l&#39;analyse pour obtenir des résultats optimaux.
+Ce document permet l’intégration entre la personnalisation en temps réel de Marketo et l’Adobe Adobe Analytics. Les données de RTP vous permettent de détecter et d&#39;analyser les tendances de tous les segments et organisations du secteur qui visitent votre site et de mesurer l&#39;efficacité de vos campagnes RTP, en fournissant les informations et l&#39;analyse pour obtenir des résultats optimaux.
 
 Pour ce faire, vous pouvez consulter des mesures telles que le nombre de nouveaux visiteurs par rapport au nombre de  de retour dans chaque segment, analyser les taux de clics sur les campagnes et découvrir les secteurs, les segments personnalisés et les campagnes en temps réel qui ont généré le plus de pistes de conversion. Tirez parti de cette capacité pour tirer le meilleur parti de votre compte RTP.
 
@@ -64,8 +64,8 @@ Pour configurer ces variables dans AA, procédez comme suit :
 
 1. Accédez à **Outils d’administration** dans votre compte AA.
 1. Sélectionnez la **Report Suite** à utiliser avec l&#39;intégration.
-1. Sous **Modifier les paramètres,** accédez à **Conversion** et sélectionnez ** [Variables de conversion](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Sélectionnez le nombre [Variable de conversion](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (nous vous recommandons de le faire) :
+1. Sous **Modifier les paramètres,** accédez à **Conversion** et sélectionnez ** [Variables de conversion](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
+   Sélectionnez le nombre [Variable de conversion](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (nous vous recommandons de le faire) :
 
    1. 
 
@@ -82,7 +82,7 @@ Pour configurer ces variables dans AA, procédez comme suit :
 
          1. Remplacez le champ Expire après par **Visite.**
 
-1. Sous **Modifier les paramètres **accédez à** Conversion **et sélectionnez ** [Événements de réussite](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. Sous **Modifier les paramètres **accédez à** Conversion **et sélectionnez ** [Événements de réussite](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
 1. Sélectionnez le numéro de Événement des Événements de réussite personnalisés (nous vous recommandons de le faire) :
 
@@ -97,7 +97,7 @@ Pour configurer ces variables dans AA, procédez comme suit :
 
 1. Sélectionnez le champ Type* *à **Compteur (sans sous-relations)**
 
-1. Sous **Modifier les paramètres**, accédez à ** [Trafic](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **et sélectionnez ** [Variables de trafic](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Sous **Modifier les paramètres**, accédez à ** [Trafic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **et sélectionnez ** [Variables de trafic](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Sélectionnez la propriété # de la variable de trafic (nous vous recommandons) :
 
@@ -183,13 +183,13 @@ Voici quelques exemples de rapports et de tableaux de bord personnalisés dans A
 
 **Création du Tableau de bord RTP**
 
-Créez un [nouveau tableau de bord](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), appelé **Tableau de bord RTP**. Ce tableau de bord vous aidera à comprendre la ventilation de vos visiteurs en fonction des secteurs verticaux et des segments RTP.
+Créez un [nouveau tableau de bord](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), appelé **Tableau de bord RTP**. Ce tableau de bord vous aidera à comprendre la ventilation de vos visiteurs en fonction des secteurs verticaux et des segments RTP.
 
 1. Cliquez sur **Tableau de bord,** clic** Tableau de bord d&#39;Ajoute**
 
 1. Nommez le Tableau de bord **Tableau de bord RTP**.
 1. Sélectionnez la **taille du tableau de bord** 3 x 2, 2 x 2
-1. Créez le mini-rapport [](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) et ajoutez le [contenu au tableau de bord](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
+1. Créez le mini-rapport [](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) et ajoutez le [contenu au tableau de bord](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
 
 Ajouter le petit rapport Industries au Tableau de bord
 
