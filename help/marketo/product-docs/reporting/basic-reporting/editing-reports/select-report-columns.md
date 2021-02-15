@@ -3,7 +3,7 @@ unique-page-id: 2359994
 description: Sélectionner les colonnes du rapport - Documents marketing - Documentation du produit
 title: Sélectionner les colonnes du rapport
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -35,5 +35,5 @@ Vous pouvez choisir les colonnes qui sont incluses ou non dans votre rapport.
    >    * [Trier le rapport sur les colonnes](sort-report-on-columns.md)
 
 
-   Faites plus avec les rapports ! Voir [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   Faites plus avec les rapports ! Voir [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
