@@ -3,7 +3,7 @@ unique-page-id: 14746432
 description: Synchroniser les champs personnalisés avec les statistiques de performances - Documents marketing - Documentation du produit
 title: Synchroniser les champs personnalisés avec les statistiques de performances
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Les tableaux de bord Recettes MPI et Pipeline peuvent filtrer sur des champs Mar
 
 >[!NOTE]
 >
->Cet article s’adresse uniquement aux utilisateurs qui n’ont **pas** [RCA](http://docs.marketo.com/x/lwIk). Si vous disposez d’un RCA, suivez les étapes décrites dans [cet article](http://docs.marketo.com/x/FQQk).
+>Cet article s’adresse uniquement aux utilisateurs qui n’ont **pas** [RCA](https://docs.marketo.com/x/lwIk). Si vous disposez d’un RCA, suivez les étapes décrites dans [cet article](https://docs.marketo.com/x/FQQk).
 
 1. Accédez à la section **Admin**.
 
