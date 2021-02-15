@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Segments Web - Documents marketing - Documentation du produit
 title: Segments Web
 translation-type: tm+mt
-source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -108,23 +108,27 @@ Définissez des paramètres généraux pour votre segment :
 >1. Utiliser tous les Filtres (1, 2 et 3...)
 >1. Utiliser n&#39;importe quel Filtres (1, 2 ou 3...)
 >1. Filtres avancés (utilisation et / ou expressions)
->
->    Les filtres avancés vous permettent de contrôler la condition du segment. Entrez les numéros de filtre séparés par &quot;et&quot; et &quot;ou&quot;.
->
->    * 1 et 2 et 3
->    * 1 ou 2 ou 3
->
->    Le mélange de &quot;et&quot; et &quot;ou&quot; nécessite des parenthèses pour clarifier l&#39;intention logique. par ex. &quot;1 ou 2 et 3&quot; doit être écrit comme suit :
->
->    * 1 et (2 ou 3)
->    * (1 et 2) ou 3
->
->    Les parenthèses imbriquées sont acceptées pour une logique plus complexe (ex.
->
->    * (1 et 2) ou (3 et 4)
->    * 1 et (2 ou (3 et 4))
->
->    Vérifiez votre logique après toute insertion, suppression ou réorganisation.
+
+   >
+   >    
+   Les filtres avancés vous permettent de contrôler la condition du segment. Entrez les numéros de filtre séparés par &quot;et&quot; et &quot;ou&quot;.
+   >
+   >    
+   * 1 et 2 et 3
+   >    * 1 ou 2 ou 3
+
+   >
+   Le mélange de &quot;et&quot; et &quot;ou&quot; nécessite des parenthèses pour clarifier l&#39;intention logique. par ex. &quot;1 ou 2 et 3&quot; doit être écrit comme suit :
+
+   * 1 et (2 ou 3)
+   * (1 et 2) ou 3
+
+   Les parenthèses imbriquées sont acceptées pour une logique plus complexe (ex.
+
+   * (1 et 2) ou (3 et 4)
+   * 1 et (2 ou (3 et 4))
+
+   Vérifiez votre logique après toute insertion, suppression ou réorganisation.
 
 
 
@@ -192,7 +196,7 @@ Sélectionnez une [Liste de compte nommée](../../../product-docs/web-personaliz
 
 >[!NOTE]
 >
->Le numéro entre crochets en regard du nom de la Liste de compte nommé est utilisé comme référence d’index pour la liste de personnalisation Web [API de lecture](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+>Le numéro entre crochets en regard du nom de la Liste de compte nommé est utilisé comme référence d’index pour la liste de personnalisation Web [API de lecture](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Exclure un fournisseur de services Internet**
 
@@ -292,11 +296,11 @@ Ajoutez la valeur de Événement à cible. Par exemple, à partir de sources de 
 
 **API de contexte utilisateur**
 
-Appel de l’API de personnalisation Web [pour en savoir plus ici.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Appel de l’API de personnalisation Web [pour en savoir plus ici.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**Utilisation de caractères génériques :** lorsque vous souhaitez inclure un terme de recherche ou une URL qui contient quelque chose à l’intérieur, c’est-à-dire. &quot;[google.com](http://google.com)&quot; ou &quot;produit à terme de recherche&quot;, nous appelons cela un caractère générique et il devrait être saisi d&#39;un astérisque - ce petit type* - à chaque extrémité. Par conséquent, tout ce qui vient de [google.com](http://google.com) doit être saisi comme * [google.com](http://google.com)*
+>**Utilisation de caractères génériques :** lorsque vous souhaitez inclure un terme de recherche ou une URL qui contient quelque chose à l’intérieur, c’est-à-dire. &quot;[google.com](https://google.com)&quot; ou &quot;produit à terme de recherche&quot;, nous appelons cela un caractère générique et il devrait être saisi d&#39;un astérisque - ce petit type* - à chaque extrémité. Par conséquent, tout ce qui vient de [google.com](https://google.com) doit être saisi comme * [google.com](https://google.com)*
 
 ## Modifier les segments {#edit-segments}
 
