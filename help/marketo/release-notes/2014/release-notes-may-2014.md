@@ -3,7 +3,7 @@ unique-page-id: 2951044
 description: Notes de mise à jour - Mai 2014 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mai 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Maintenant tout le monde a de multiples programmes, flux et limites de communica
 >
 >**Exemple**
 >
->[[[http://www.marketo.com](http://www.marketo.com)]]
+>[[[https://www.marketo.com](https://www.marketo.com)]]
 
 Par défaut, aucun lien ne sera suivi dans la version texte des courriels. Ajoutez cette nouvelle syntaxe pour indiquer à quel moment un lien doit être converti en lien de suivi. Le comportement des liens HTML est inchangé.  Pour ajouter des liens suivis à vos courriels :
 
@@ -53,7 +53,7 @@ Pour ajouter des liens non suivis à vos courriels :
 
 ![](assets/image2014-9-22-12-3a1-3a34.png)
 
-## Balisage de lien dans les exemples d’e-mails {#link-markup-in-sample-emails}
+## Balisage de lien dans des exemples d’e-mails {#link-markup-in-sample-emails}
 
 Voyez comment vos liens se comporteront dans les courriels à l&#39;avance. Les exemples de courriels affichent désormais les liens exactement comme ils apparaîtront à vos pistes. Prévisualisation des liens qui ont été convertis en liens de suivi, ce qui vous permet de mieux comprendre comment le message apparaîtra réellement aux destinataires.
 
@@ -85,5 +85,5 @@ Revenus Cycle Modeler et Success Path Analyzer sont désormais inclus dans MA St
 
 >[!NOTE]
 >
->Consulter les [Notes de mise à jour de Marketo précédentes](http://docs.marketo.com/display/docs/release+notes)
+>Consulter les [Notes de mise à jour de Marketo précédentes](https://docs.marketo.com/display/docs/release+notes)
 
