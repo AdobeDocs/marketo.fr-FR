@@ -3,7 +3,7 @@ unique-page-id: 2951124
 description: Notes de mise à jour - Jan/Fév 2012 - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - Jan/Fév 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Les fonctionnalités suivantes sont incluses dans la version de janvier/février
 >
 >**Plongée profonde**
 >
->Pour les autres versions, consultez les [Notes de mise à jour](http://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
+>Pour les autres versions, consultez les [Notes de mise à jour](https://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
 
 ## Contenu dynamique avancé {#advanced-dynamic-content}
 
