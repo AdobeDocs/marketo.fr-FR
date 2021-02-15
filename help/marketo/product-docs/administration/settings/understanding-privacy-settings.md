@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Présentation des paramètres de confidentialité - Documents marketing - Documentation du produit
 title: Présentation des paramètres de confidentialité
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Ces méthodes peuvent affecter la valeur et les fonctionnalités du marketing da
 
 ## Paramètres du navigateur pour Ne pas effectuer le suivi {#browser-settings-for-do-not-track}
 
-Les visiteurs Web peuvent définir leur navigateur pour empêcher le suivi par n’importe quel site Web en choisissant &quot;Ne pas suivre&quot; (DNT). Ceci empêche le suivi pour ce navigateur et ce périphérique en particulier. Consultez les paramètres de confidentialité du navigateur pour en savoir plus.
+Les visiteurs Web peuvent définir leur navigateur pour empêcher le suivi par n’importe quel site Web en choisissant &quot;Ne pas suivre&quot; (DNT). Ceci empêche le suivi de ce navigateur et de ce périphérique particuliers. Consultez les paramètres de confidentialité du navigateur pour en savoir plus.
 
 Dans Munchkin, un spécialiste du marketing peut [décider de prendre en charge ou d’ignorer le paramètre DNT du navigateur](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
 
@@ -72,7 +72,7 @@ Les marketeurs peuvent préserver la confidentialité en suivant les utilisateur
 
    >[!NOTE]
    >
-   >L&#39;utilisation de ce paramètre nécessite l&#39;activation de Munchkin V2. Pour l&#39;activer pour votre abonnement, contactez le [Support marketing](http://nation.marketo.com/community/support_solutions).
+   >L&#39;utilisation de ce paramètre nécessite l&#39;activation de Munchkin V2. Pour l&#39;activer pour votre abonnement, contactez le [Support marketing](https://nation.marketo.com/community/support_solutions).
 
 * Pour la personnalisation Web (RTP), ajoutez ceci au javascript :
 
