@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: Utilisation des URL dans Mes jetons - Documents marketing - Documentation du produit
 title: Utilisation des URL dans mes jetons
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,13 +23,13 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons pour insérer des URL dan
 
    ![](assets/two-4.png)
 
-1. Attribuez un nom unique au jeton, saisissez une URL (sans le http://) et cliquez sur **Enregistrer**.
+1. Attribuez un nom unique au jeton, saisissez une URL (sans le https://) et cliquez sur **Enregistrer**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Pour vous assurer que les clics sont suivis dans votre courrier électronique, **ne pas** entrez http:// dans la valeur du jeton.
+   >Pour vous assurer que les clics sont suivis dans votre courrier électronique, **ne pas** entrez https:// dans la valeur du jeton.
 
 1. Sélectionnez le courriel dans votre programme.
 
@@ -43,7 +43,7 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons pour insérer des URL dan
 
    ![](assets/six-1.png)
 
-1. N&#39;importe où dans votre courrier électronique, tapez &quot;http://&quot; (sans laisser d&#39;espace après) et cliquez sur l&#39;icône Insérer un jeton.
+1. N&#39;importe où dans votre courrier électronique, tapez &quot;https://&quot; (sans laisser d&#39;espace après) et cliquez sur l&#39;icône Insérer un jeton.
 
    ![](assets/seven.png)
 
@@ -55,7 +55,7 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons pour insérer des URL dan
 
    ![](assets/eight.png)
 
-1. Mettez en surbrillance http:// et jeton, puis appuyez sur Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) pour couper le texte.
+1. Mettez en surbrillance https:// et jeton, puis appuyez sur Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) pour couper le texte.
 
    ![](assets/nine.png)
 
@@ -71,4 +71,4 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons pour insérer des URL dan
 
    ![](assets/twelve.png)
 
-   Et vous avez fini ! Votre URL sera renseignée après l’envoi et, si vous placez http:// devant le jeton, il produira un lien pouvant faire l’objet d’un suivi.
+   Et vous avez fini ! Votre URL sera renseignée après l’envoi et, si vous placez https:// devant le jeton, il produira un lien pouvant faire l’objet d’un suivi.
