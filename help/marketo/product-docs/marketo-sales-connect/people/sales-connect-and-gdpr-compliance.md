@@ -3,7 +3,7 @@ unique-page-id: 14745825
 description: Conformité à la norme Sales Connect et GDPR - Marketo Docs - Documentation sur les produits
 title: Conformité aux règles de la connexion commerciale et du RGPD
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1387'
 ht-degree: 0%
@@ -38,10 +38,11 @@ Le RGD s&#39;applique à toute organisation à l&#39;intérieur ou à l&#39;ext�
 
 Les marketeurs cherchent à créer des expériences client qui se sentent personnelles et humaines, fondées sur la confiance et livrées avec soin. Bien que le RGPD n’utilise pas ces termes, les objectifs sont les mêmes : respecter les droits des clients et gagner leur confiance. Pour établir et maintenir cette confiance, les spécialistes du marketing doivent être conscients de la manière, du moment et des raisons pour lesquels leurs clients souhaitent s’engager. Il est essentiel que les préférences des clients soient respectées, non seulement en tant qu&#39;exigence légale, mais en tant que fondement des pratiques d&#39;engagement axées sur les clients.
 
-La manière dont les spécialistes du marketing répondent à ces attentes plus élevées en matière de collecte, d&#39;utilisation et de sécurité des données à caractère personnel qui sont régulièrement utilisées dans le cadre de leur travail est essentielle, et Marketo peut aider à répondre à ces attentes.\
+La manière dont les spécialistes du marketing répondent à ces attentes plus élevées en matière de collecte, d&#39;utilisation et de sécurité des données à caractère personnel qui sont régulièrement utilisées dans le cadre de leur travail est essentielle, et Marketo peut aider à répondre à ces attentes.
+
 Les spécialistes du marketing doivent examiner les pratiques passées, actuelles et futures sous deux aspects clés du RGMD. Le premier est le consentement de la personne à traiter ses données personnelles, et le second est la responsabilité, c&#39;est-à-dire la capacité de démontrer comment les principes du RMPD sont respectés.
 
-Nous fournissons des informations complètes sur le consentement et la responsabilité au sein de la plate-forme Marketo dans notre livre électronique, [GDPR et The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). Dans cet article, cependant, nous nous concentrerons spécifiquement sur les nouvelles fonctionnalités de Marketo Sales Connect qui aideront votre entreprise à se conformer aux règles du RGMD.
+Nous fournissons des informations complètes sur le consentement et la responsabilité au sein de la plate-forme Marketo dans notre livre électronique, [GDPR et The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). Dans cet article, cependant, nous nous concentrerons spécifiquement sur les nouvelles fonctionnalités de Marketo Sales Connect qui aideront votre entreprise à se conformer aux règles du RGMD.
 
 ## Conformité aux RGD dans Marketing Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -94,7 +95,8 @@ Si vous choisissez &quot;Consentement&quot; comme type d’autorisation, deux ch
 ![](assets/6.png)
 
 Si &quot;Autre&quot; est sélectionné pour le type d&#39;autorisation ou le type de source, vous pouvez saisir du texte pour décrire le type de source.
-** ![](assets/7.png)
+
+![](assets/7.png)
 
 Actions en masse** Marketo Sales Connect permet également de mettre à jour en bloc les types d&#39;autorisation et de source d&#39;un contact, ce qui permet de gagner un temps précieux dans le processus de conformité.
 
@@ -166,7 +168,9 @@ Vous pouvez exporter des informations de contact à partir de la Vue Détails de
 >
 >Cela ne peut se faire qu&#39;un contact à la fois. Il n&#39;existe actuellement aucune fonctionnalité permettant l&#39;exportation en masse de contacts.
 
-Pour exporter les coordonnées, cliquez sur les trois points verticaux de l’en-tête de Vue Détails de la personne et sélectionnez **Exporter**. Le fichier .CSV est automatiquement téléchargé.   ![](assets/thirteen.png)
+Pour exporter les coordonnées, cliquez sur les trois points verticaux de l’en-tête de Vue Détails de la personne et sélectionnez **Exporter**. Le fichier .CSV est automatiquement téléchargé.
+
+![](assets/thirteen.png)
 
 >[!NOTE]
 >
@@ -183,6 +187,6 @@ Un domaine souvent mal compris du RGMD concerne les contacts qui se désabonnent
 
 ## Mises à jour futures {#future-updates}
 
-En tant que défenseur enthousiaste du pouvoir et de la centricité de l&#39;économie de l&#39;engagement sur le plan de la clientèle, Marketo comprend l&#39;importance de mettre la vie privée et la protection des données entre les mains de la personne concernée. Comme pour d&#39;autres lois sur la protection des données, la conformité aux RGD requiert l&#39;engagement de Marketo et de nos clients. Cet article est destiné à vous aider à utiliser Marketing de manière appropriée pour soutenir la conformité aux RGD de votre organisation.
+En tant que défenseur enthousiaste du pouvoir et de la centricité de l&#39;économie de l&#39;engagement sur le plan client, Marketo comprend l&#39;importance de mettre la vie privée et la protection des données entre les mains de la personne concernée. Comme pour d&#39;autres lois sur la protection des données, la conformité aux RGD requiert l&#39;engagement de Marketo et de nos clients. Cet article est destiné à vous aider à utiliser Marketing de manière appropriée pour soutenir la conformité aux RGD de votre organisation.
 
-Nous continuerons de suivre de près les directives pertinentes sur les RMR émises par les organismes de réglementation et les lois connexes. Les mises à jour seront publiées dans notre Centre de gestion de la confidentialité à [trust.marketo.com](http://trust.marketo.com).
+Nous continuerons de suivre de près les directives pertinentes sur les RMR émises par les organismes de réglementation et les lois connexes. Les mises à jour seront publiées dans notre Centre de gestion de la confidentialité à [trust.marketo.com](https://trust.marketo.com).
