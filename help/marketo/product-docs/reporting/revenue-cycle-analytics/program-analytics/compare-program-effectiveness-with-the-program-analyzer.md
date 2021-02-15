@@ -3,7 +3,7 @@ unique-page-id: 2360403
 description: Comparer l'efficacité des Programmes à l'analyseur de Programme - Documentation sur le marketing - Documentation sur les produits
 title: Comparer l'efficacité des Programmes avec l'analyseur de Programme
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -98,4 +98,4 @@ Nous constatons que le programme Paper Fest 12 n&#39;influence pas seulement plu
 
 >[!NOTE]
 >
->En savoir plus sur les analyses avancées dans [l&#39;Explorateur de cycles de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>En savoir plus sur les analyses avancées dans [l&#39;Explorateur de cycles de recettes](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
