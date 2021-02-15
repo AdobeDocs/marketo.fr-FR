@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Présentation des fonctionnalités du Tableau de bord Insights - Documentation sur le marketing - Documentation du produit
 title: Présentation des fonctionnalités du Tableau de bord Insights
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1460'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ En savoir plus sur les fonctionnalités disponibles dans votre tableau de bord S
 
 >[!PREREQUISITES]
 >
->Vous devez disposer du dernier package MSI SFDC et de [configuration](http://docs.marketo.com/x/F4GMAg).
+>Vous devez disposer du dernier package MSI SFDC et de [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -172,4 +172,3 @@ Onglet événement :
 * La sélection de tous les événements affichera la liste des événements programmés dans les 90 prochains jours.
 * La carte de détails de l&#39;Activité de cette section comporte l&#39;option prévisualisation
 * Le filtre inclut &quot;Rechercher&quot;, &quot;Afficher uniquement les événements invités&quot; et &quot;Période&quot;.
-
