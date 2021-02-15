@@ -3,7 +3,7 @@ unique-page-id: 11382815
 description: Installation du module externe Marketo Outlook par le service informatique - Docs Marketo - Documentation du produit
 title: Installation du module externe Marketo Outlook par le service informatique
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Parfois, les stratégies d’entreprise exigent que l’équipe informatique ins
 
 >[!PREREQUISITES]
 >
->[Définissez ](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) la clé d’entreprise.
+>[Définissez ](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) la clé d’entreprise.
 
 Exécutez la ligne de commande suivante en tant que &quot;système&quot; ou compte utilisateur administratif avec le commutateur /i à installer.  `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
