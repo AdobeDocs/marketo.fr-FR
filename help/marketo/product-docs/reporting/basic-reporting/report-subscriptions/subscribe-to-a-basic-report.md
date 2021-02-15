@@ -3,7 +3,7 @@ unique-page-id: 2359987
 description: S’abonner à un rapport de base - Documents marketing - Documentation du produit
 title: S’abonner à un rapport de base
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # S’abonner à un rapport de base {#subscribe-to-a-basic-report}
 
-Pour recevoir les mises à jour automatiques d&#39;un [rapport de base](http://docs.marketo.com/display/docs/basic+reporting), ou pour les partager, vous pouvez vous abonner à un rapport existant à toute adresse électronique.
+Pour recevoir les mises à jour automatiques d&#39;un [rapport de base](https://docs.marketo.com/display/docs/basic+reporting), ou pour les partager, vous pouvez vous abonner à un rapport existant à toute adresse électronique.
 
 >[!NOTE]
 >
->Pour [abonnements de rapports Explorateur de cycles de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics), voir [S’abonner à un rapport Explorateur de recettes](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Pour [abonnements de rapports Explorateur de cycles de recettes](https://docs.marketo.com/display/docs/revenue+cycle+analytics), voir [S’abonner à un rapport Explorateur de recettes](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Rendez-vous dans la **zone Activités marketing **.
 
@@ -58,5 +58,5 @@ Pour recevoir les mises à jour automatiques d&#39;un [rapport de base](http://d
    >**Plongée profonde**
    >
    >
-   >Découvrez ce que vous pouvez faire d&#39;autre avec les rapports dans la plongée profonde [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   >Découvrez ce que vous pouvez faire d&#39;autre avec les rapports dans la plongée profonde [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
