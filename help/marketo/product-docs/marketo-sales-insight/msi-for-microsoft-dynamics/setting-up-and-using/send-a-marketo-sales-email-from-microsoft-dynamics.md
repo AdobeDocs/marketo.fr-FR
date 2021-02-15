@@ -3,7 +3,7 @@ unique-page-id: 2953338
 description: Envoyer un e-mail de vente marketing à partir de Microsoft Dynamics - Marketo Docs - Documentation sur les produits
 title: Envoyer un e-mail commercial marketing à partir de Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Votre équipe commerciale peut envoyer des e-mails et les faire suivre pour les 
 
    >[!TIP]
    >
-   >Vous pouvez [publier des e-mails sous forme de modèles](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) pour que votre équipe commerciale les utilise.
+   >Vous pouvez [publier des e-mails sous forme de modèles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) pour que votre équipe commerciale les utilise.
 
 1. Ajoutez un sujet, rédigez votre courriel et cliquez sur **Envoyer un courriel**. (Sélectionnez un modèle si vous en avez besoin.)
 
@@ -45,9 +45,4 @@ Bien joué ! Vous savez maintenant comment envoyer des e-mails suivis par Market
 
 >[!MORELIKETHIS]
 >
->* [Ajouter une piste/un contact à un Campaign marketing à partir de Microsoft Dynamics](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
-
->
-
-
-
+>[Ajouter une piste/un contact à un Campaign marketing à partir de Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
