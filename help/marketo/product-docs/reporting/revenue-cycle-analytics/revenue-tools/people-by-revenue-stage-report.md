@@ -3,7 +3,7 @@ unique-page-id: 2360418
 description: Rapport d’étape Personnes par recettes - Documents marketing - Documentation du produit
 title: Rapport d’étape Personnes par chiffre d’affaires
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapport d&#39;étape Personnes par chiffre d&#39;affaires {#people-by-revenue-stage-report}
 
-Vous pouvez créer un rapport qui indique à quelle étape se trouve votre [modèle de cycle de revenu](http://docs.marketo.com/display/docs/revenue+cycle+models) vos visiteurs. Le rapport comprend toute étape du modèle spécifié tant qu’il existe un solde personnel pour la période donnée du rapport.
+Vous pouvez créer un rapport qui indique à quelle étape se trouve votre [modèle de cycle de revenu](https://docs.marketo.com/display/docs/revenue+cycle+models) vos visiteurs. Le rapport comprend toute étape du modèle spécifié tant qu’il existe un solde personnel pour la période donnée du rapport.
 
 >[!AVAILABILITY]
 >
@@ -49,5 +49,5 @@ Vous pouvez créer un rapport qui indique à quelle étape se trouve votre [mod�
    >**Plongée profonde**
    >
    >
-   >Découvrez comment ajouter des colonnes et plus dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   >Découvrez comment ajouter des colonnes et plus dans [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
