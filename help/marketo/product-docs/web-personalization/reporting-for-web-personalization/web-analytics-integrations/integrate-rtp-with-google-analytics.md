@@ -3,7 +3,7 @@ unique-page-id: 2949158
 description: Intégration de RTP avec des Google Analytics - Docs marketing - Documentation du produit
 title: Intégration de RTP avec des Google Analytics
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -66,7 +66,7 @@ Mesurez vos campagnes RTP et corrélez-les à la moyenne globale de votre site. 
 
 ## Configuration de RTP avec des Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Ajoutez le courrier électronique [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b), en tant qu’utilisateur de lecture et d’analyse dans votre compte GA. Pour plus de détails, voir [ici](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Ajoutez le courrier électronique [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b), en tant qu’utilisateur de lecture et d’analyse dans votre compte GA. Pour plus de détails, voir [ici](https://support.google.com/analytics/answer/2884495?hl=en).
 1. Dans votre compte RTP. Accédez à **Paramètres du compte**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
