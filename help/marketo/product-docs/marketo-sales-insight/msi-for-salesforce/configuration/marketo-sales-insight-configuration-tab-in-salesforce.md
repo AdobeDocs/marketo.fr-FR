@@ -3,7 +3,7 @@ unique-page-id: 42762322
 description: Onglet de configuration des statistiques marketing de vente dans Salesforce - Docs marketing - Documentation du produit
 title: Onglet de configuration des statistiques de ventes du marketing dans Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Vous devez configurer cette configuration pour pouvoir début à l’aide de Sal
 * MSI utilise à la fois Soap et Rest API
 * La page Sales Insight de votre compte Marketo comporte deux panneaux correspondants avec les informations d’identification Soap et Rest API que vous pouvez copier et coller ici.
 * Les API Soap et Rest comportent des expirations de délai différentes que vous pouvez définir en fonction des besoins de votre entreprise. La durée maximale autorisée est de 120 secondes.
-* Désactivation du Tableau de bord Insights : Vous pouvez supprimer les informations d’identification de l’API Rest et utiliser uniquement l’API Soap. Cela désactivera l’onglet Tableau de bord Insights de tous les panneaux MSI de la force visuelle.
+* Désactivation du Tableau de bord Insights : Vous pouvez supprimer les informations d’identification de l’API Rest et utiliser uniquement l’API Soap. Ce faisant, l’onglet Tableau de bord Insights sera désactivé dans tous les panneaux MSI de l’interface MSI de la force visuelle.
 
 ## Configuration MSI {#msi-configuration}
 
@@ -58,4 +58,3 @@ Les configurations sont applicables à tous les utilisateurs MSI et ne sont pas 
 Si vous le faites, toutes vos configurations seront effacées dans SFDC et elles ne peuvent pas être restaurées. Vous devrez tout reconfigurer.
 
 ![](assets/three.png)
-
