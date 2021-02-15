@@ -3,7 +3,7 @@ unique-page-id: 4720257
 description: Ajouter des Audiences personnalisées Facebook en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter des Audiences personnalisées Facebook en tant que service LaunchPoint
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Cette intégration vous permet d’envoyer des données d’audience des listes 
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Ouvrez un nouvel onglet dans le même navigateur et accédez à [facebook.com](http://www.facebook.com/). Connectez-vous à Facebook à l’aide du compte que vous souhaitez utiliser pour l’intégration.
+1. Ouvrez un nouvel onglet dans le même navigateur et accédez à [facebook.com](https://www.facebook.com/). Connectez-vous à Facebook à l’aide du compte que vous souhaitez utiliser pour l’intégration.
 
    >[!CAUTION]
    >
