@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Notes de mise à jour - Automne 16 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Automne 16
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les fonctionnalités suivantes sont incluses dans la version de l’automne 16. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing. Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction.
 
-## [Contenu prédictif dans le courrier électronique](http://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## [Contenu prédictif dans le courrier électronique](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
 
 Notre application de contenu prédictif offre aux utilisateurs une nouvelle expérience pour le suivi, la gestion et la recommandation de votre contenu par l’intermédiaire de nos algorithmes d’apprentissage automatique et de prédiction sur le Web et les canaux électroniques.
 
@@ -45,7 +45,7 @@ Un ID universel vous permet d’accéder à plusieurs abonnements du marketing �
 >
 >Contactez l’assistance marketing pour activer cette fonctionnalité.
 
-## [Améliorations marketing basées sur le compte marketing](http://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## [Améliorations marketing basées sur le compte marketing](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
 
 Désormais, vous pouvez affecter des équipes de comptes à des comptes nommés dans ABM (Account Based Marketing), par exemple, le propriétaire du compte, le représentant du développement commercial, le représentant du développement commercial et le responsable de la réussite client. Vous pouvez également créer des listes de compte spécifiques au propriétaire du compte et envoyer des rapports ABM hebdomadaires personnalisés à l&#39;équipe du compte.
 
@@ -53,7 +53,7 @@ Désormais, vous pouvez affecter des équipes de comptes à des comptes nommés 
 
 **API REST**
 
-Cette version vous permet également de gérer des attributs de compte et des scores de compte nommés dans ABM à l’aide de l’API REST de Marketing Cloud. Pour plus d’informations sur les opérations de l’API, consultez le [site Web des développeurs de marketing](http://developers.marketo.com/rest-api/lead-database/named-accounts).
+Cette version vous permet également de gérer des attributs de compte et des scores de compte nommés dans ABM à l’aide de l’API REST de Marketing Cloud. Pour plus d’informations sur les opérations de l’API, consultez le [site Web des développeurs de marketing](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Améliorations de la piste d’audit](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ Les jours où vous deviez vous inquiéter de l&#39;envoi d&#39;e-mails transacti
 
 **Modifier les restrictions Campaign**
 
-Pourquoi définir des [restrictions de campagne](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) si vous ne parvenez pas à les appliquer ? Lorsque vous définissez les paramètres de limite Campaign pour limiter le nombre de personnes dans votre base de données qui peuvent être ciblées avec une seule campagne, vous avez désormais la possibilité de restreindre les utilisateurs qui peuvent remplacer ces paramètres lors de la planification d’une campagne.
+Pourquoi définir des [restrictions de campagne](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) si vous ne parvenez pas à les appliquer ? Lorsque vous définissez les paramètres de limite Campaign pour limiter le nombre de personnes dans votre base de données qui peuvent être ciblées avec une seule campagne, vous avez désormais la possibilité de restreindre les utilisateurs qui peuvent remplacer ces paramètres lors de la planification d’une campagne.
 
 ## [Son pour les notifications Push mobiles](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -88,11 +88,11 @@ Ajoutez une plus grande richesse à votre notification Push iOS en activant le s
 
 Market Sales Insight est maintenant compatible avec le cryptage des boucliers de Salesforce. Tous les clients Sales Insight doivent effectuer la mise à niveau vers ce dernier package géré (version 1.4359.2), qui est [disponible sur Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [API Comptes nommés](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [API Comptes nommés](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 Avec cette version, les utilisateurs de la gestion dynamique des balises peuvent gérer des comptes nommés via l’API Comptes nommés. Les utilisateurs peuvent créer, mettre à jour et supprimer des comptes nommés, ainsi que lire et mettre à jour des scores de compte nommé ABM.
 
-## [Prise en charge de l’API de l’éditeur de courrier électronique v2.0](http://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [Prise en charge de l’API de l’éditeur de courrier électronique v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Gérez les variables et les modules pour les courriers électroniques au format v2.0 à l’aide de l’API REST de Marketo.
 
