@@ -3,7 +3,7 @@ unique-page-id: 2360225
 description: Filtrage des ressources dans un rapport par courriel - Documents marketing - Documentation du produit
 title: Filtrage des ressources dans un rapport par courriel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -55,5 +55,5 @@ Concentrez votre rapport [Performances des courriels](../../../../product-docs/e
 >
 >**Plongée profonde**
 >
->Découvrez tous les rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+>Découvrez tous les rapports dans [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
