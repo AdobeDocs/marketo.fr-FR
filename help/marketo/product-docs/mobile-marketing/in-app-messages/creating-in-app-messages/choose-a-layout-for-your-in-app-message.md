@@ -3,7 +3,7 @@ unique-page-id: 10100434
 description: Choisissez une mise en page pour votre message in-app - Documents marketing - Documentation du produit
 title: Choisir une mise en page pour votre message intégré
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -62,7 +62,7 @@ Maintenant que vous connaissez les modèles, il est temps d&#39;en choisir un lo
 
 >[!MORELIKETHIS]
 >
->* [Création d’un message intégré à l’application](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Création d’un message intégré à l’application](https://docs.marketo.com/display/docs/create+an+in-app+message)
 >* [Présentation des messages in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 
 >
