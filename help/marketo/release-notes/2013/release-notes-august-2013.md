@@ -3,7 +3,7 @@ unique-page-id: 2951058
 description: Notes de mise à jour - août 2013 - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - août 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Août 2013 {#release-notes-august}
 
-Les fonctionnalités suivantes sont incluses dans la version d’août 2013. Veuillez vérifier votre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing-1.php) pour connaître la disponibilité des fonctionnalités.
+Les fonctionnalités suivantes sont incluses dans la version d’août 2013. Veuillez vérifier votre [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing-1.php) pour connaître la disponibilité des fonctionnalités.
 
 Après la publication, n&#39;oubliez pas de consulter l&#39;onglet [Nouvelle version](release-notes-december-2013.md) de la Communauté pour obtenir des articles détaillés de la base de connaissances pour chaque nouvelle fonctionnalité !
 
