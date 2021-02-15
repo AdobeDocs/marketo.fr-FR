@@ -3,7 +3,7 @@ unique-page-id: 8783189
 description: Notes de mise à jour - Juillet 2015 - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - juillet 2015
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Au déjeuner, mais vous devez replanifier un courriel ? L’application Marketo 
 ## Mise à jour de l’éditeur de texte enrichi {#rich-text-editor-update}
 
 Editeur de texte mis à jour avec une apparence moderne, notamment une mise en forme simplifiée du texte, la modification d’images, l’insertion de liens et l’édition HTML. L’éditeur HTML présente désormais une validation minimale, ce qui permet de réduire les modifications de code.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Cette mise à jour sera automatiquement déployée quelques jours après la publication de juillet. Ensuite, vous pourrez basculer entre les versions Nouveau et Hérité de l’éditeur à partir de **Admin > Courriel > Modifier les paramètres de l’éditeur**. Si vous remarquez des problèmes avec la nouvelle version de l&#39;éditeur de texte, nous voulons savoir ! Veuillez envoyer une brève description à [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Cette mise à jour sera automatiquement déployée quelques jours après la publication de juillet. Ensuite, vous pourrez basculer entre les versions Nouveau et Hérité de l’éditeur à partir de **Admin > Courriel > Modifier les paramètres de l’éditeur**. Si vous remarquez des problèmes avec la nouvelle version de l&#39;éditeur de texte, nous voulons savoir ! Veuillez envoyer une brève description à [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -50,7 +50,7 @@ Avez-vous configuré plusieurs campagnes RTP personnalisées et remarqué que ce
 
 **Accès aux objets de société via l’API** REST : L’API REST permet désormais d’accéder à l’objet de Société Marketo (alias Compte). Cela signifie que vous pouvez lire, mettre à jour et supprimer des objets de société que vous avez créés dans Marketing et associer des pistes à de telles sociétés à l&#39;aide de l&#39;API de piste mise à jour.
 
-Découvrez [plus](http://developers.marketo.com/documentation/company-api/) dans notre guide de référence pour l&#39;API de Société.
+Découvrez [plus](https://developers.marketo.com/documentation/company-api/) dans notre guide de référence pour l&#39;API de Société.
 
 ## Accéder à la délivrabilité du courriel {#access-email-deliverability}
 
