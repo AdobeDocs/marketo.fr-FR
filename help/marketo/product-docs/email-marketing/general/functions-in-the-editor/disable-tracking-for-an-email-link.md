@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: Désactiver le suivi d'un lien de courriel - Documents marketing - Documentation du produit
 title: Désactiver le suivi d’un lien de courriel
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Il arrive que vous ne souhaitiez pas activer l’**URL de suivi du marketing** s
 
    >[!TIP]
    >
-   >Si vous ne cochez que **Inclure mkt_tok**, le lien sera toujours suivi, mais après la redirection, l’URL de destination n’inclura pas le paramètre de chaîne de requête mkt_tok. Ce paramètre est utilisé par les Landings page Marketo et Munchkin pour assurer un suivi correct des activités de personne (comme lorsqu&#39;une personne se désabonne d&#39;un courrier électronique). Evitez d’utiliser cette fonctionnalité à moins que vous ne voyiez un comportement bizarre sur votre site Web en raison de la présence du paramètre.
+   >Si vous ne cochez que **Inclure mkt_tok**, le lien sera toujours suivi, mais après la redirection, l’URL de destination n’inclura pas le paramètre de chaîne de requête mkt_tok. Ce paramètre est utilisé par les Landings page Marketo et Munchkin pour assurer un suivi correct des activités de personne (comme lorsqu&#39;une personne se désabonne d&#39;un courrier électronique). Evitez d’utiliser cette fonctionnalité, sauf si vous constatez un comportement bizarre sur votre site Web en raison de la présence du paramètre.
 
 1. Cliquez sur **Enregistrer**.
 
@@ -46,7 +46,7 @@ Il arrive que vous ne souhaitiez pas activer l’**URL de suivi du marketing** s
    >[!TIP]
    >
    >Voulez-vous désactiver le suivi des clics pour un lien dans un **modèle** de courriel ? Utilisez ce format :
-   >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`\
+   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >Si vous avez besoin d’aide pour implémenter cette méthode, contactez votre développeur Web.
 
 Sympa ! Vous avez maintenant désactivé le suivi pour un lien.
