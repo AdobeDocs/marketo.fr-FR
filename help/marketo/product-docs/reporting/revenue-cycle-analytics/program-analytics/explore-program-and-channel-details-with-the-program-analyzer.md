@@ -3,7 +3,7 @@ unique-page-id: 2360437
 description: Explorez les détails sur les Programmes et les Canaux à l'aide de l'analyseur de Programme - Documentation sur le marketing - Documentation sur les produits
 title: Explorez les détails sur les Programmes et les Canaux à l'aide de l'analyseur de Programmes
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -59,4 +59,4 @@ Vous pouvez afficher des statistiques détaillées sur les programmes et les can
 
    >[!NOTE]
    >
-   >En savoir plus sur les analyses avancées dans [Explorateur de recettes](http://docs.marketo.com/display/docs/revenue+explorer).
+   >En savoir plus sur les analyses avancées dans [Explorateur de recettes](https://docs.marketo.com/display/docs/revenue+explorer).
