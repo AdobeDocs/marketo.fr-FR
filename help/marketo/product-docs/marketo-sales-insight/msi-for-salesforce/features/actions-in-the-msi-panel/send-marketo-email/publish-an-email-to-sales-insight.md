@@ -3,7 +3,7 @@ unique-page-id: 2949718
 description: Publier un courriel dans Sales Insight - Marketo Docs - Documentation sur les produits
 title: Publier un courriel dans Sales Insight
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -43,9 +43,8 @@ Beau boulot ! Vous savez maintenant comment rendre les courriers électroniques 
 
 >[!NOTE]
 >
->[Mon ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) jeton ne sera pas résolu lors de l&#39;envoi d&#39;un courrier électronique à partir de Sales Insight sur Microsoft Dynamics ou Salesforce ; seuls les jetons standard sont renseignés (piste, Société, etc.). Les valeurs par défaut des jetons fonctionneront toutefois.
+>[Mon ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) jeton ne sera pas résolu lors de l&#39;envoi d&#39;un courrier électronique à partir de Sales Insight sur Microsoft Dynamics ou Salesforce ; seuls les jetons standard sont renseignés (piste, Société, etc.). Les valeurs par défaut des jetons fonctionneront toutefois.
 
 >[!TIP]
 >
->N&#39;oubliez pas d&#39;approuver ce courriel pour que les modifications prennent effet. Découvrez comment [approuver un courriel](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
-
+>N&#39;oubliez pas d&#39;approuver ce courriel pour que les modifications prennent effet. Découvrez comment [approuver un courriel](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
