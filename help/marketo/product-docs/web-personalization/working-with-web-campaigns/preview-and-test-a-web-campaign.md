@@ -3,7 +3,7 @@ unique-page-id: 10092925
 description: Prévisualisation et test d'un Campaign Web - Docs marketing - Documentation du produit
 title: Prévisualisation et test d'un Campaign Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Cet article vous montre différentes manières de prévisualisation d’une camp
 
    >[!NOTE]
    >
-   >Vous avez également la possibilité d’installer un module externe de navigateur ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) pour une meilleure expérience de prévisualisation de votre campagne. Consultez la section ci-dessous.
+   >Vous avez également la possibilité d’installer un module externe de navigateur ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) pour une meilleure expérience de prévisualisation de votre campagne. Consultez la section ci-dessous.
 
 ## Prévisualisation d’un Campaign Web sur la page de création à l’aide du module externe de navigateur {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -92,7 +92,7 @@ Créez un segment sandbox et une campagne.
 1. Terminez la création de la campagne et cliquez sur **Lancer**.\
    ![](assets/click-launch.jpg)
 
-1. Accédez à votre site Web, ajoutez le paramètre d’URL &quot;?sandbox=1&quot; à la fin de l’URL. Exemple : [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. Accédez à votre site Web, ajoutez le paramètre d’URL &quot;?sandbox=1&quot; à la fin de l’URL. Exemple : [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
 1. Consultez les réactions à la campagne sur votre site Web.
 
 >[!NOTE]
