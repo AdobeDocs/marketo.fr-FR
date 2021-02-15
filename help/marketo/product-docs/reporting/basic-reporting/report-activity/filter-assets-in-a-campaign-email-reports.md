@@ -3,7 +3,7 @@ unique-page-id: 2360227
 description: Filtrage des ressources dans des rapports par courriel Campaign - Documents marketing - Documentation sur les produits
 title: Filtrage des ressources dans les rapports par courriel Campaign
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrage des ressources dans des rapports de messagerie Campaign {#filter-assets-in-a-campaign-email-reports}
 
-Concentrez votre rapport [Performances des courriels de Campaign](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) sur des [campagnes dynamiques](http://docs.marketo.com/display/docs/smart+campaigns) spécifiques dans vos programmes (&quot;ressources locales&quot;) ou sur celles qui ont été archivées.
+Concentrez votre rapport [Performances des courriels de Campaign](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) sur des [campagnes dynamiques](https://docs.marketo.com/display/docs/smart+campaigns) spécifiques dans vos programmes (&quot;ressources locales&quot;) ou sur celles qui ont été archivées.
 
 1. Accédez à la zone **Analytics **(ou **Activités marketing**).
 
@@ -56,5 +56,5 @@ Concentrez votre rapport [Performances des courriels de Campaign](../../../../pr
    >**Plongée profonde**
    >
    >
-   >Découvrez tous les rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   >Découvrez tous les rapports dans [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
