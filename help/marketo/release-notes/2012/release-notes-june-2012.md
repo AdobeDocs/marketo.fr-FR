@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2951114
-description: Notes de mise à jour - Juin 2012 - Documentation sur le marketing - Documentation du produit
+description: Notes de mise à jour - Juin 2012 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Juin 2012
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Plongée profonde**
 >
->Pour les autres versions, consultez les [Notes de mise à jour](http://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
+>Pour les autres versions, consultez les [Notes de mise à jour](https://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
 
 ## Améliorations de la gestion des pistes marketing {#marketo-lead-management-enhancements}
 
@@ -81,7 +81,7 @@ Basculez votre vue d’une liste d’images vers une vue de miniature !
 
 ![](assets/image2014-9-23-10-3a26-3a13.png)
 
-Remarque : A compter de cette version, le tri précédent sur les grilles de listes dynamiques ne s’appliquera pas à la prochaine liste intelligente que vous vue. Par exemple, si vous triez une liste intelligente par nom de Société, nous ne trierons pas automatiquement la prochaine liste intelligente vue par ce même champ.
+Remarque : A compter de cette version, le tri précédent sur les grilles de liste intelligentes ne s’appliquera pas à la prochaine liste intelligente que vous vue. Par exemple, si vous triez une liste intelligente par nom de Société, nous ne trierons pas automatiquement la prochaine liste intelligente vue par ce même champ.
 
 Rappel : Mise à niveau du rapport de performances du courriel en cours !
 
