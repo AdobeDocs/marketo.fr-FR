@@ -3,7 +3,7 @@ unique-page-id: 30081321
 description: Types de groupe - Documents marketing - Documentation sur les produits
 title: Types de groupe
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -45,4 +45,3 @@ Découvrez les différents types de groupes dans Sales Connect.
   </tr> 
  </tbody> 
 </table>
-
