@@ -3,7 +3,7 @@ unique-page-id: 2951122
 description: Notes de mise à jour - Mars 2012 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mars 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Plongée profonde**
 >
->Pour les autres versions, consultez les [Notes de mise à jour](http://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
+>Pour les autres versions, consultez les [Notes de mise à jour](https://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
 >
 >## Résoudre mes jetons &lt;a0/&quot;{#resolve-my-tokens}
 
