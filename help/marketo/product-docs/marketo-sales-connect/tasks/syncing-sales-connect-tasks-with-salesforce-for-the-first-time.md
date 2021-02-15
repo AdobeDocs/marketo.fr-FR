@@ -3,7 +3,7 @@ unique-page-id: 14352541
 description: Synchronisation des Tâches Sales Connect avec Salesforce pour la première fois - Marketo Docs - Documentation sur les produits
 title: Synchronisation des Tâches Sales Connect avec Salesforce pour la première fois
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Voici ce qui se passe lorsque vous synchronisez les tâches Sales Connect et SFD
 
 - Dès que vous cliquez sur Enregistrer lors de la synchronisation des tâches, elles commencent à se synchroniser. Cela prendra un certain temps au départ.
 
-- Les rappels qui ont été mis à jour ou créés dans `last 24 hours` seront extraits de la DDC vers Sales Connect. La synchronisation est basée sur `due date` et toutes ces tâches seront synchronisées sur l&#39;arrière-plan, mais dans le Centre de commandes, vous ne verrez que les tâches qui doivent être envoyées aujourd&#39;hui et demain.
+- Les rappels mis à jour ou créés au cours des dernières 24 heures seront extraits de la DDC vers Sales Connect. La synchronisation est basée sur la date d&#39;échéance et toutes ces tâches seront synchronisées sur l&#39;arrière-plan, mais dans le Centre de commandes, vous ne verrez que les tâches d&#39;aujourd&#39;hui et de demain.
 
 - Si la synchronisation a été activée précédemment et que vous supprimez des tâches dans la collecte de données régionale, tout ce qui a été supprimé au cours des 15 derniers jours sera supprimé du Centre de commandes.
 
@@ -27,5 +27,4 @@ Voici ce qui se passe lorsque vous synchronisez les tâches Sales Connect et SFD
 
 Après la synchronisation initiale, toutes les tâches que vous créez, modifiez, terminez ou supprimez dans Sales Connect seront synchronisées avec votre liste de tâches dans Salesforce. Et tout élément créé, modifié, terminé ou supprimé dans Salesforce mettra à jour votre liste de tâches dans Sales Connect.
 
-Pour activer cette synchronisation, il vous suffit de cocher la case de synchronisation dans votre [page Paramètres](http://toutapp.com/next#settings/crm/salesforce/configure) de l&#39;application Web.
-
+Pour activer cette synchronisation, il vous suffit de cocher la case de synchronisation dans votre [page Paramètres](https://toutapp.com/login) de l&#39;application Web.
