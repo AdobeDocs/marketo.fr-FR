@@ -3,7 +3,7 @@ unique-page-id: 10095554
 description: Incorporer un formulaire dans un Campaign Web - Docs marketing - Documentation du produit
 title: Incorporer un formulaire dans une Campaign Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -87,8 +87,8 @@ Pour ajouter du code CSS au script :
 >[!MORELIKETHIS]
 >
 >* [Modification de la page CSS d’un thème de formulaire](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
->* [Afficher le message de remerciement sans Landing page de suivi](http://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](http://developers.marketo.com/documentation/websites/forms-2-0/)
+>* [Afficher le message de remerciement sans Landing page de suivi](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
+>* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
 
 >
 
