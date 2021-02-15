@@ -3,7 +3,7 @@ unique-page-id: 11371040
 description: Syntaxe du modèle de courrier électronique - Documents marketing - Documentation du produit
 title: Syntaxe du modèle de courriel
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2395'
 ht-degree: 0%
@@ -106,7 +106,7 @@ Valeur par défaut (facultative)
 
 Exemple :
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
 
 ### Option 2 - Utiliser un \&lt;img\> {#option-use-an-img}
 
@@ -162,7 +162,7 @@ Exemple :
 
 ## Variables {#variables}
 
-Les variables sont semblables à des jetons. Vous devez d&#39;abord les définir dans la section `<head>` de votre modèle de courrier électronique à l&#39;aide de balises `<meta>`, puis les utiliser autant de fois que vous le souhaitez dans votre modèle. Etant donné qu’ils sont définis dans le modèle, l’utilisateur final peut modifier leurs valeurs en fonction de leurs règles. Notez que vous pouvez définir une variable comme étant locale ou globale dans la portée. Si vous utilisez une variable dans un &quot;module&quot; (voir ci-dessous) et qu’un utilisateur final duplicata ce module, les variables locales auront des valeurs indépendantes, tandis que les variables globales s’appliqueront aux deux modules.
+Les variables sont semblables à des jetons. Vous les définissez d’abord dans la section `<head>` de votre modèle de courrier électronique à l’aide de balises `<meta>`, puis vous les utilisez autant de fois que vous le souhaitez dans tout votre modèle. Etant donné qu’ils sont définis dans le modèle, l’utilisateur final peut modifier leurs valeurs en fonction de leurs règles. Notez que vous pouvez définir une variable comme étant locale ou globale dans la portée. Si vous utilisez une variable dans un &quot;module&quot; (voir ci-dessous) et qu’un utilisateur final duplicata ce module, les variables locales auront des valeurs indépendantes, tandis que les variables globales s’appliqueront aux deux modules.
 
 ## Chaîne {#string}
 
@@ -322,7 +322,7 @@ Attributs facultatifs
 
 Exemple de déclaration :
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="http://www.company.com/image.jpg"></pre>`
+`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
 
 Exemple d’utilisation :
 
