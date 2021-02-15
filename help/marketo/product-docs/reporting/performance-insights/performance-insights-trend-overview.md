@@ -3,7 +3,7 @@ unique-page-id: 12979010
 description: Aperçu des tendances d’Analyses de performances - Documents marketing - Documentation du produit
 title: Aperçu des tendances des statistiques de performances
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Cliquez sur l&#39;onglet **Tendance** pour accéder à cette vue.
 
 ![](assets/2-1.png)
 
-Sélectionnez la mesure de vue des performances. Dans cet exemple, nous allons examiner les opportunités gagnées par [Première touche](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Sélectionnez la mesure de vue des performances. Dans cet exemple, nous allons examiner les opportunités gagnées par [Première touche](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 ![](assets/3-2.png)
 
