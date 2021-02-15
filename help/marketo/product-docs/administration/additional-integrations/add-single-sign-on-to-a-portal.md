@@ -3,7 +3,7 @@ unique-page-id: 2360356
 description: Ajouter la connexion unique à un portail - Documents marketing - Documentation du produit
 title: Ajouter la connexion unique à un portail
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
@@ -30,9 +30,9 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 ## Comment envoyer la requête {#how-to-send-the-request}
 
 * Envoyer la demande d’authentification unique, qui est une réponse SAML, à `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* En tant qu’URL d’Audience du SP. Utiliser [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Si vous utilisez l&#39;attribut SPNameQualifier, définissez l&#39;élément NameID pour Objet sur [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Si vous fédérez plusieurs abonnements de marketing au même fournisseur d’authentification unique, vous pouvez utiliser des url SP uniques pour chaque sous- de marketing au format `http://saml.marketo.com/sp/<munchkin_id>`
+* En tant qu’URL d’Audience du SP. Utiliser [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* Si vous utilisez l&#39;attribut SPNameQualifier, définissez l&#39;élément NameID pour Objet sur [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* Si vous fédérez plusieurs abonnements de marketing au même fournisseur d’authentification unique, vous pouvez utiliser des url SP uniques pour chaque sous- de marketing au format `https://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
