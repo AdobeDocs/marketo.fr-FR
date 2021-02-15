@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: Paramètres de consentement à deux parties - Documents marketing - Documentation du produit
 title: Paramètres de consentement à deux parties
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Afin d&#39;assurer le respect des lois américaines sur le consentement à deux 
 
 >[!PREREQUISITES]
 >
->Avant de suivre les étapes ci-dessous, vous devez tout d&#39;abord [activer l&#39;enregistrement des appels.](http://docs.marketo.com/x/dAC1Ag)
+>Avant de suivre les étapes ci-dessous, vous devez d&#39;abord [activer l&#39;enregistrement des appels](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Cliquez sur l’icône Paramètres et sélectionnez **Paramètres**.
 
@@ -50,4 +50,3 @@ Afin d&#39;assurer le respect des lois américaines sur le consentement à deux 
 1. Cliquez sur la bascule pour activer la lecture du message sélectionné au début des appels enregistrés.
 
    ![](assets/seven.png)
-
