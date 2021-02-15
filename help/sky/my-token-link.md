@@ -2,7 +2,7 @@
 title: my-token-link
 description: Mon lien de jeton
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Voici comment configurer un jeton de lien à utiliser dans vos programmes et dos
 
    >[!NOTE]
    >
-   >Si l’option Inclure mkt_tok est cochée, Marketo affiche une prévisualisation de liens du domaine de suivi de marque (par exemple, http://mkto-sjqe3355.com/mn/...). Si vous désactivez cette case à cocher, le lien est modifié. Si vous désactivez le suivi des liens pour les courriels ou les landings page, >l’URL sera raccourcie à sa longueur de base (par exemple, www.examplepage.com).
+   >Si l’option Inclure mkt_tok est cochée, Marketo affiche une prévisualisation de liens du domaine de suivi de marque (par exemple, https://mkto-sjqe3355.com/mn/...). Si vous désactivez cette case à cocher, le lien est modifié. Si vous désactivez le suivi des liens pour les courriels ou les landings page, >l’URL sera raccourcie à sa longueur de base (par exemple, www.examplepage.com).
 
 1. Si vous le souhaitez, sous [!UICONTROL Advanced], vous pouvez personnaliser votre lien à l’aide de CSS. Cliquez sur **[!UICONTROL Enregistrer]**.
 
