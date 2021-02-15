@@ -3,7 +3,7 @@ unique-page-id: 2951097
 description: Notes de mise à jour - Mai 2013 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mai 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Mai 2013 {#release-notes-may}
 
-Les fonctionnalités suivantes sont incluses dans la version de mai. Veuillez vérifier votre [Marketo](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
+Les fonctionnalités suivantes sont incluses dans la version de mai. Veuillez vérifier votre [Marketo](https://docs.marketo.com/display/docs/assets/pricing.php) [Edition](https://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
 
 Après la publication, n&#39;oubliez pas de consulter l&#39;onglet [Nouvelle version](release-notes-december-2013.md) de la Communauté pour obtenir des articles détaillés de la base de connaissances pour chaque fonctionnalité !
 
