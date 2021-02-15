@@ -3,7 +3,7 @@ unique-page-id: 2360057
 description: Rapport Activité Campaign - Documents marketing - Documentation du produit
 title: Rapport Activité Campaign
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapport d’Activité Campaign {#campaign-activity-report}
 
-Découvrez les performances de vos [campagnes dynamiques](http://docs.marketo.com/display/docs/smart+campaigns).
+Découvrez les performances de vos [campagnes dynamiques](https://docs.marketo.com/display/docs/smart+campaigns).
 
 1. [Créez un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport et sélectionnez le type **de rapport** [Campaign ](report-type-overview.md)Activity.
 1. [Définissez la période de votre ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapport et cliquez sur l&#39;onglet  **** Rapport.
@@ -54,5 +54,5 @@ Découvrez les performances de vos [campagnes dynamiques](http://docs.marketo.co
    >    * [Filtrage d’un rapport d’Activité Campaign](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
 
 
-   Voir d&#39;autres rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   Voir d&#39;autres rapports dans [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
