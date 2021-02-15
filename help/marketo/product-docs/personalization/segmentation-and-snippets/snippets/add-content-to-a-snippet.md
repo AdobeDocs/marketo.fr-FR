@@ -3,7 +3,7 @@ unique-page-id: 2359496
 description: Ajouter du contenu à un extrait de code - Documents marketing - Documentation du produit
 title: Ajouter du contenu à un extrait de code
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Vous pouvez ajouter trois types de contenu à un extrait de code.
 
    >[!NOTE]
    >
-   >Vous pouvez ajouter vos propres images ou fichiers à Marketing Cloud. En savoir plus sur [les images et les fichiers](http://docs.marketo.com/display/docs/images+and+files).
+   >Vous pouvez ajouter vos propres images ou fichiers à Marketing Cloud. En savoir plus sur [les images et les fichiers](https://docs.marketo.com/display/docs/images+and+files).
 
 1. Sélectionnez l&#39;**image** à utiliser, puis cliquez sur **Insérer**.
 
