@@ -3,7 +3,7 @@ unique-page-id: 2360394
 description: Exporter les données de l'analyseur d'influence des opportunités - Documents marketing - Documentation du produit
 title: Exporter les données de l'analyseur d'influence d'opportunité
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Exporter les données de l&#39;analyseur d&#39;influence d&#39;opportunité {#export-opportunity-influence-analyzer-data}
 
-Pour recevoir les mises à jour de vos rapports [Explorateur du cycle de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics) et les partager, vous pouvez vous abonner à n&#39;importe quelle adresse électronique d&#39;un rapport existant.
+Pour recevoir les mises à jour de vos rapports [Explorateur du cycle de recettes](https://docs.marketo.com/display/docs/revenue+cycle+analytics) et les partager, vous pouvez vous abonner à n&#39;importe quelle adresse électronique d&#39;un rapport existant.
 
 1. Accédez à **Analytics** et sélectionnez **Nouveau** **** **Nouveau** **Rapport** **Abonnement**.
 
@@ -51,5 +51,5 @@ Pour recevoir les mises à jour de vos rapports [Explorateur du cycle de recette
 >
 >**Plongée profonde**
 >
->Découvrez d&#39;autres choses que vous pouvez faire avec les analyses avancées de Marketo dans l&#39;[Explorateur de cycles de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Découvrez d&#39;autres choses que vous pouvez faire avec les analyses avancées de Marketo dans l&#39;[Explorateur de cycles de recettes](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
