@@ -3,7 +3,7 @@ unique-page-id: 10097199
 description: Notes de mise à jour - Hiver 16 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Hiver 16
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -49,13 +49,13 @@ Pour utiliser cette fonctionnalité, le programme de courriel doit être planifi
 
 ## [Améliorations du marketing mobile](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Prise en charge de PhoneGap :** nous offres désormais la prise en charge de PhoneGap pour votre application mobile. [En savoir plus](http://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**Prise en charge de PhoneGap :** nous offres désormais la prise en charge de PhoneGap pour votre application mobile. [En savoir plus](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Prise en charge des applications** Sandbox :
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [API programme](http://developers.marketo.com/documentation/programs/) {#program-api}
+## [API programme](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 Créez, mettez à jour et clonez des programmes via l’API REST. Cela n’inclut pas la création ou la mise à jour de listes intelligentes et de campagnes intelligentes au sein d’un programme.
 
