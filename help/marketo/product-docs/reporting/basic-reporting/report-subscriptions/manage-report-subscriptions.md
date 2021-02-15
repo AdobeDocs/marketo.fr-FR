@@ -3,7 +3,7 @@ unique-page-id: 2359991
 description: Gérer les Abonnements de rapports - Documents marketing - Documentation sur les produits
 title: Gérer les Abonnements de rapports
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Configurez et supprimez des abonnements de rapports.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Cette page affiche les abonnements de tous les rapports de votre compte, regroupés par [type de rapport](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Cela inclut les [abonnements aux rapports de base](subscribe-to-a-basic-report.md) et aux rapports [Explorateur du cycle de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   Cette page affiche les abonnements de tous les rapports de votre compte, regroupés par [type de rapport](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Cela inclut les [abonnements aux rapports de base](subscribe-to-a-basic-report.md) et aux rapports [Explorateur du cycle de recettes](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
    >[!TIP]
    >
@@ -73,5 +73,5 @@ Configurez et supprimez des abonnements de rapports.
    >    * [S’abonner à un rapport Explorateur de recettes](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
 
-   Pour en savoir plus, consultez les plongées profondes [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting) et [Recettes Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   Pour en savoir plus, consultez les plongées profondes [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting) et [Recettes Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
