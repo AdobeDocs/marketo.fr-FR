@@ -3,7 +3,7 @@ unique-page-id: 2951101
 description: Notes de mise à jour - Mars 2013 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mars 2013
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Mars 2013 {#release-notes-march}
 
-Les fonctionnalités suivantes sont incluses dans la version de mars. Veuillez vérifier votre [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
+Les fonctionnalités suivantes sont incluses dans la version de mars. Veuillez vérifier votre [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
 
 Après la publication, n&#39;oubliez pas de consulter l&#39;onglet [Nouvelle version](release-notes-december-2013.md) de la Communauté pour obtenir des articles détaillés de la base de connaissances pour chaque fonctionnalité !
 
