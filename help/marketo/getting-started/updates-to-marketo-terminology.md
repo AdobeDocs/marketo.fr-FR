@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Mises à jour de la terminologie de Marketo - Documents marketing - Documentation du produit
 title: Mises à jour de la terminologie du marketing
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -139,11 +139,11 @@ Les champs qui contenaient le terme Piste ont été remplacés par Personne ou l
 
 Outre le changement de nom, il comprend désormais quatre applications distinctes :
 
-| ** [Personnalisation Web](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Dispose de sa propre mosaïque sur l’écran d’accueil |
+| ** [Personnalisation Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Dispose de sa propre mosaïque sur l’écran d’accueil |
 |---|---|
-| ** [Marketing Web basé sur le compte](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accessible via la mosaïque Personnalisation Web |
-| ** [Reciblage personnalisé](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | Accessible via la mosaïque Personnalisation Web |
-| ** [Contenu prédictif](http://docs.marketo.com/display/DOCS/Predictive+Content)** | Dispose de sa propre mosaïque sur l’écran d’accueil |
+| ** [Marketing Web basé sur le compte](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accessible via la mosaïque Personnalisation Web |
+| ** [Reciblage personnalisé](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Accessible via la mosaïque Personnalisation Web |
+| ** [Contenu prédictif](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Dispose de sa propre mosaïque sur l’écran d’accueil |
 
 >[!NOTE]
 >
