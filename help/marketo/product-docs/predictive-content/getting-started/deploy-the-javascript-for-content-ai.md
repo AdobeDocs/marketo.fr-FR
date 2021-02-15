@@ -3,7 +3,7 @@ unique-page-id: 11385053
 description: Déploiement de JavaScript pour Content-AI - Documentation sur le marketing - Documentation du produit
 title: Déploiement de JavaScript pour Content-AI
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Pour utiliser le contenu prédictif, vous devez générer et configurer votre RT
 
    >[!NOTE]
    >
-   >Copiez la balise JavaScript de personnalisation Web et collez-la en tant que premier script dans l’en-tête de vos pages, entre les balises `<head> </head>`. Voir les [instructions d&#39;implémentation plus détaillées ici](http://docs.marketo.com/display/docs/rtp+tag+implementation) [.](http://pages2.marketo.com/rtp-implementation.html)
+   >Copiez la balise JavaScript de personnalisation Web et collez-la en tant que premier script dans l’en-tête de vos pages, entre les balises `<head> </head>`. Voir les [instructions d&#39;implémentation plus détaillées ici](https://docs.marketo.com/display/docs/rtp+tag+implementation) [.](https://pages2.marketo.com/rtp-implementation.html)
 
 1. Vérifiez que la balise s’affiche sur toutes les pages, y compris les landings page et sous-domaines. Pour vérifier cette valeur, cliquez avec le bouton droit de la souris sur votre `website’s` page. Accédez à **Vue Page Source** dans un navigateur Web. Rechercher : &quot;RTP&quot;.
 1. Vérifiez que la bascule Balise est définie sur **ON**.
