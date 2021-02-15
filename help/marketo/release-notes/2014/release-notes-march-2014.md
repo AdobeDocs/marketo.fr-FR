@@ -3,7 +3,7 @@ unique-page-id: 2951046
 description: Notes de mise à jour - Mars 2014 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mars 2014
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -57,6 +57,6 @@ Sélectionnez Votre [Langue de l’application marketing](/help/marketo/product-
 
 ## Blog des développeurs de marketing {#marketo-developer-blog}
 
-Le [blog des développeurs du marché](http://developers.marketo.com/blog/) est dédié aux développeurs Web et ingénieurs logiciels qui prennent en charge les besoins en évolution rapide du spécialiste du marketing moderne. Vous pouvez vous abonner à des annonces sur les nouvelles options d’intégration, les mises à jour de la version de l’API et à une nouvelle série d’articles pratiques qui incluent des exemples de code et des bonnes pratiques d’intégration à la plate-forme Marketo.
+Le [blog des développeurs du marché](https://developers.marketo.com/blog/) est dédié aux développeurs Web et ingénieurs logiciels qui prennent en charge les besoins en évolution rapide du spécialiste du marketing moderne. Vous pouvez vous abonner à des annonces sur les nouvelles options d’intégration, les mises à jour de la version de l’API et à une nouvelle série d’articles pratiques qui incluent des exemples de code et des bonnes pratiques d’intégration à la plate-forme Marketo.
 
-Le [premier article](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) de cette série vous explique comment récupérer efficacement des informations sur les personnes (clients/contacts/pistes) stockées dans Marketo à l&#39;aide de l&#39;API.
+Le [premier article](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) de cette série vous explique comment récupérer efficacement des informations sur les personnes (clients/contacts/pistes) stockées dans Marketo à l&#39;aide de l&#39;API.
