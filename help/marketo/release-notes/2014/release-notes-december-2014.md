@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: Notes de mise à jour - Décembre 2014 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - décembre 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Trois nouveaux appels pour l&#39;API ReST de piste et d&#39;Activité :
 
 ・ Fusionner la piste
 
-Les détails complets seront disponibles après la publication à l’adresse [developpeurs.marketo.com](http://developers.marketo.com/).
+Les détails complets seront disponibles après la publication à l’adresse [developpeurs.marketo.com](https://developers.marketo.com/).
 
 ## Améliorations de la compatibilité Javascript de Munchkin {#munchkin-javascript-compatibility-enhancements}
 
