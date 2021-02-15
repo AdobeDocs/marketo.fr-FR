@@ -3,7 +3,7 @@ unique-page-id: 42762519
 description: Configuration pour les clients existants - Documents marketing - Documentation du produit
 title: Configuration pour les clients existants
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -22,6 +22,7 @@ Configurez la configuration suivante afin de commencer à utiliser le nouveau Ta
 ## Configurer Sales Insight dans Marketo {#configure-sales-insight-in-marketo}
 
 1. Ouvrez un nouvel onglet dans votre navigateur pour obtenir les informations d’identification des statistiques de ventes du marketing à partir de votre compte Marketo.
+
 1. Accédez à la zone **Admin**.
 
    ![](assets/configure-1.png)
@@ -63,7 +64,7 @@ Configurez la configuration suivante afin de commencer à utiliser le nouveau Ta
 ## Accéder à Marketing Sales Insight {#access-marketo-sales-insight}
 
 1. Copiez les informations d’identification du panneau API REST dans la page d’administration de Sales Insight de Marketo. Collez-les dans la section API REST de la page de configuration de Sales Insight de Salesforce.
+
 1. Entrez la clé secrète de l&#39;API.
 
    ![](assets/config.png)
-
