@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: Modifier les paramètres du Landing page - Documents marketing - Documentation du produit
 title: Modifier les paramètres du Landing page
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Vous pouvez modifier le nom de domaine et la page de secours, activer ou désact
 
    | Terme | Définition |
    |---|---|
-   | Nom de domaine pour les landings page | Voici votre CNAME. Un CNAME est la première partie de l’URL que vous donnez aux personnes pour les landings page. Par exemple, dans `http://go.yourCompany.com`, le mot &quot;go&quot; est le CNAME. Vous pouvez en avoir plusieurs, mais la plupart des gens n&#39;utilisent que celle-ci. |
+   | Nom de domaine pour les landings page | Voici votre CNAME. Un CNAME est la première partie de l’URL que vous donnez aux personnes pour les landings page. Par exemple, dans `https://go.yourCompany.com`, le mot &quot;go&quot; est le CNAME. Vous pouvez en avoir plusieurs, mais la plupart des gens n&#39;utilisent que celle-ci. |
    | Page de secours | C&#39;est là qu&#39;il faut aller si le landing page n&#39;existe pas ou est en panne. En savoir plus sur [les pages de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Page d&#39;accueil | Entrez l’URL de votre site d’entreprise. |
 
