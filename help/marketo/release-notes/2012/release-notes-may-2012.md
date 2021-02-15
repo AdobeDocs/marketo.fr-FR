@@ -3,7 +3,7 @@ unique-page-id: 2951117
 description: Notes de mise à jour - Mai 2012 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mai 2012
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Plongée profonde**
 >
->Pour les autres versions, consultez les [Notes de mise à jour](http://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
+>Pour les autres versions, consultez les [Notes de mise à jour](https://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
 
 ## Refonte du rapport Performances du courriel {#email-performance-report-redesign}
 
@@ -125,7 +125,7 @@ Fournissez à vos représentants commerciaux des informations sur les activités
 
 ## Champ personnalisé pour le statut de contact {#custom-field-for-contact-status}
 
-Vous pouvez maintenant mapper un champ personnalisé dans Salesforce pour remplir le champ Statut des contacts dans Mes meilleurs paris, Meilleurs paris de mon équipe et vues personnalisées.
+Vous pouvez maintenant mapper un champ personnalisé dans Salesforce pour remplir le champ État des contacts dans Mes meilleurs paris, Meilleurs paris et vues personnalisées de Mon équipe.
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
