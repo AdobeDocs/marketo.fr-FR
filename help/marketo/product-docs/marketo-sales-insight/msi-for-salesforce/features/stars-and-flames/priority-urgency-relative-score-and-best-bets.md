@@ -3,7 +3,7 @@ unique-page-id: 2950396
 description: Priorité, urgence, score relatif et meilleurs paris - Documentation du marketing - Documentation du produit
 title: Priorité, urgence, note relative et meilleurs résultats
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -57,5 +57,5 @@ Pour calculer le nombre d&#39;étoiles et de flammes, vos pistes et contacts son
 
 >[!MORELIKETHIS]
 >
->* [Insight commercial du marketing](http://docs.marketo.com/display/docs/marketo+sales+insight)
+>* [Insight commercial du marketing](https://docs.marketo.com/display/docs/marketo+sales+insight)
 
