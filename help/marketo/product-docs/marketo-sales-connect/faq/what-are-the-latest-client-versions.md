@@ -3,7 +3,7 @@ unique-page-id: 14352422
 description: Quelles sont les dernières versions du client ? - Documents marketing - Documentation du produit
 title: Quelles sont les dernières versions du client ?
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 5%
@@ -43,4 +43,3 @@ Vous trouverez ci-dessous les dernières versions pour tous les clients de Sales
 >[!NOTE]
 >
 >Actuellement, nous ne sommes pas optimisés pour les navigateurs autres que Chrome. C&#39;est quelque chose que notre équipe produit est consciente et espère aborder à l&#39;avenir.
-
