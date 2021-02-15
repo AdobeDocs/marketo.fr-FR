@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Présentation des fonctionnalités MSI - Documentation sur le marketing - Documentation sur les produits
 title: Présentation des fonctionnalités MSI
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Le panneau MSI Visualforce comprend les fonctionnalités suivantes :
 
 * Onglets
 
-   * [Tableau de bord d’informations](http://docs.marketo.com/x/EoGMAg)
+   * [Tableau de bord d’informations](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * Moment intéressant
    * Activité Web
    * Courriel
@@ -170,7 +170,7 @@ Salesforce Classic : Ajoutez à Watchlist, Ajoutez à Marketo Campaign et envoye
 
 >[!MORELIKETHIS]
 >
->[Onglet Configuration des statistiques de ventes du marketing dans Salesforce](http://docs.marketo.com/x/UoCMAg)
+>[Onglet Configuration des statistiques de ventes du marketing dans Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Rapports sur les performances de Sales Insight {#sales-insight-performance-reports}
 
