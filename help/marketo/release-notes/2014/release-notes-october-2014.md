@@ -3,7 +3,7 @@ unique-page-id: 2953334
 description: Notes de mise à jour - Octobre 2014 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Octobre 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Utilisez l&#39;API pour extraire de nouvelles activités ou modifications de pis
 * Obtenir les types d&#39;Activité
 * Obtenir le jeton de pagination
 
-Des détails complets seront disponibles après la publication à l’adresse [developpeurs.marketo.com](http://developers.marketo.com/documentation/rest/).
+Des détails complets seront disponibles après la publication à l’adresse [developpeurs.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 ## MSI - Envoyer un courriel marketing pour Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,5 +70,5 @@ Utilisez un nouvel appel qui suit l&#39;historique des visites passées des visi
 * Produits intéressés par
 * Quelles campagnes RTP ont-elles vues ?
 
-Visitez [developpeurs.marketo.com](http://developers.marketo.com/documentation/websites/rtp-js-api/) pour plus de détails.
+Visitez [developpeurs.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) pour plus de détails.
 
