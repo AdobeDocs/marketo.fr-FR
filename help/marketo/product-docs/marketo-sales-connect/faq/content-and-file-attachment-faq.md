@@ -3,7 +3,7 @@ unique-page-id: 14746661
 description: FAQ sur le contenu et les pièces jointes - Documents marketing - Documentation du produit
 title: FAQ sur le contenu et les pièces jointes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Tout utilisateur ayant la possibilité de créer des modèles peut télécharger
 Les utilisateurs peuvent créer leurs propres modèles et ils peuvent être organisés par l’équipe. Pour ce faire, créez une équipe via la page Gestion d’équipe. Ensuite, lorsque votre équipe va partager des modèles, des livres de lecture ou des groupes, elle pourra les partager avec ces groupes uniquement, par opposition à l’abonnement entier des utilisateurs.
 
 Le contenu peut être partagé dans l’ensemble de l’organisation.
-
