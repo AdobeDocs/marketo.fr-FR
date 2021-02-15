@@ -3,7 +3,7 @@ unique-page-id: 14745959
 description: Notes de mise à jour - Printemps 2018 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Printemps 2018
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue 
 >
 >Sales Engage est un produit complémentaire. Veuillez contacter votre responsable de succès client ou votre responsable de compte pour obtenir un devis.
 
-Augmentez le portefeuille et les recettes en permettant aux ventes d&#39;exploiter les informations, le contenu, les livres de lecture et les analyses pour convertir davantage de vos pistes en opportunités de vente. Sales Engage offre une plate-forme unifiée de vente et de marketing pour l&#39;engagement tout au long du parcours des clients et permet une meilleure coordination grâce à une vue partagée de points de contact clients.
+Augmentez le portefeuille et les recettes en permettant aux ventes d&#39;exploiter les informations, le contenu, les livres de lecture et les analyses pour convertir davantage de vos pistes en opportunités de vente. Sales Engage offre une plate-forme unifiée de vente et de marketing pour l&#39;engagement sur le parcours client et permet une meilleure coordination grâce à une vue partagée de points de contact client.
 
 **ToutApp**
 
@@ -81,12 +81,12 @@ Définissez l’objectif de l’algorithme d’optimisation Content<sup>AI</sup>
 
 Envoyez des notifications système et des moments intéressants au lieu de travail Facebook.
 
-[API de Liste statique](http://developers.marketo.com/rest-api/assets/static-lists/)
+[API de Liste statique](https://developers.marketo.com/rest-api/assets/static-lists/)
 
 Gérez plus facilement les listes entre Marketo et d’autres systèmes grâce aux nouvelles API bidirectionnelles permettant de créer, lire, mettre à jour et supprimer des listes statiques à distance sans avoir à effectuer d’action dans l’interface utilisateur de Marketo.
 
 ## Améliorations apportées à la confidentialité {#privacy-enhancements}
 
-[Confidentialité du tracking web](http://developers.marketo.com/javascript-api/lead-tracking/)
+[Confidentialité du tracking web](https://developers.marketo.com/javascript-api/lead-tracking/)
 
 Le suivi amélioré de Munchkin respecte les réglementations locales et internationales en matière de confidentialité en anonymisant les adresses IP des visiteurs Web et en leur permettant de s&#39;exclure définitivement du suivi Web.
