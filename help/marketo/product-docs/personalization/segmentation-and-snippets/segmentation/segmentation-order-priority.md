@@ -3,7 +3,7 @@ unique-page-id: 2359500
 description: Priorité de l’ordre de segmentation - Documents marketing - Documentation du produit
 title: Priorité de l’ordre de segmentation
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -49,5 +49,5 @@ Il est important de comprendre comment **order** définit la priorité pour l&#3
 
 
 
-Cool, hein ? Vous pouvez utiliser des segments pour le contenu dynamique, [rapports](http://docs.marketo.com/display/docs/basic+reporting) et même dans [les listes dynamiques](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+Cool, hein ? Vous pouvez utiliser des segments pour le contenu dynamique, [rapports](https://docs.marketo.com/display/docs/basic+reporting) et même dans [les listes dynamiques](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
