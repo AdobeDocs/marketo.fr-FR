@@ -3,7 +3,7 @@ unique-page-id: 2360030
 description: Supprimer un rapport - Documents marketing - Documentation du produit
 title: Suppression d’un rapport
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -30,5 +30,5 @@ Une fois que vous avez début à [créer des rapports](../../../../product-docs/
    >**Plongée profonde**
    >
    >
-   >Découvrez toutes les autres activités que vous pouvez effectuer avec les rapports dans la plongée profonde [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   >Découvrez toutes les autres activités que vous pouvez effectuer avec les rapports dans la plongée profonde [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
