@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: Présentation du contenu prédictif - Documents marketing - Documentation du produit
 title: Présentation du contenu prédictif
 translation-type: tm+mt
-source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Le filtrage des analyses de contenu activées vous permet de voir les performanc
 
 ## Données de la table de vues pour le contenu prédictif {#view-table-data-for-predictive-content}
 
-Dans le tableau, vous pouvez vue quelles sources sont activées pour le contenu prédictif, de gauche à droite : Barre de recommandations, courrier électronique et média enrichi. Les sources activées sont affichées en vert. Vous les activez lorsque vous [modifiez le contenu](http://docs.marketo.com/display/docs/edit+predictive+content).
+Dans le tableau, vous pouvez vue quelles sources sont activées pour le contenu prédictif, de gauche à droite : Barre de recommandations, courrier électronique et média enrichi. Les sources activées sont affichées en vert. Vous les activez lorsque vous [modifiez le contenu](https://docs.marketo.com/display/docs/edit+predictive+content).
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -78,6 +78,6 @@ Passez la souris sur la barre de la colonne Taux de conversion sur le taux de co
 
 >[!MORELIKETHIS]
 >
->* [Contenu prédictif](http://docs.marketo.com/display/docs/predictive+content)
->* [Modifier le contenu prédictif](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Contenu prédictif](https://docs.marketo.com/display/docs/predictive+content)
+>* [Modifier le contenu prédictif](https://docs.marketo.com/display/docs/edit+predictive+content)
 
