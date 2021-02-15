@@ -3,7 +3,7 @@ unique-page-id: 2360201
 description: Ajouter des colonnes personnalisées à un rapport Personne - Documents marketing - Documentation du produit
 title: Ajouter des colonnes personnalisées à un rapport Personne
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ajouter des colonnes personnalisées à un rapport Personne {#add-custom-columns-to-a-person-report}
 
-Vous pouvez filtrer davantage les mesures dans vos rapports [personne](http://docs.marketo.com/display/docs/basic+reporting) en utilisant vos [listes dynamiques](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) comme colonnes personnalisées.
+Vous pouvez filtrer davantage les mesures dans vos rapports [personne](https://docs.marketo.com/display/docs/basic+reporting) en utilisant vos [listes dynamiques](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) comme colonnes personnalisées.
 
 1. Accédez à la zone **Activités marketing** (ou **Analytics**).
 
@@ -36,7 +36,7 @@ Vous pouvez filtrer davantage les mesures dans vos rapports [personne](http://do
    >**Plongée profonde**
    >
    >
-   >Découvrez comment créer et configurer des listes intelligentes dans la plongée profonde [Smart Listes and Static Listes](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Découvrez comment créer et configurer des listes intelligentes dans la plongée profonde [Smart Listes and Static Listes](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
 1. Tu l&#39;as fait ! Cliquez sur l&#39;onglet **Rapport** pour afficher votre rapport avec les nouvelles colonnes.
 
@@ -53,5 +53,5 @@ Vous pouvez filtrer davantage les mesures dans vos rapports [personne](http://do
    >**Plongée profonde**
    >
    >
-   >Découvrez plus en détail les nombreuses choses que vous pouvez faire avec les rapports dans la plongée profonde [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   >Découvrez plus en détail les nombreuses choses que vous pouvez faire avec les rapports dans la plongée profonde [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
