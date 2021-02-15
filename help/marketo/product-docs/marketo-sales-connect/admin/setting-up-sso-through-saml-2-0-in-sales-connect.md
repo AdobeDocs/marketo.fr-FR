@@ -3,7 +3,7 @@ unique-page-id: 14352405
 description: Configuration de l'authentification unique via SAML 2.0 dans Sales Connect - Marketo Docs - Documentation sur les produits
 title: Configuration de l'authentification unique via SAML 2.0 dans Sales Connect
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,6 +31,6 @@ Le fichier metadata.xml de l’instance SSO de votre équipe doit contenir l’U
 
 Nous aurons également besoin de l’emplacement d’authentification unique pour que votre compte d’authentification unique de société soit un domaine unique. Par exemple, nous avons besoin d’un sous-domaine unique tel que `toutapp.pingidentity.com` ou similaire. Sans ce type d&#39;identifiant unique, nous ne pourrons pas configurer SAML à partir du tableau de bord.
 
-One Login et Okta ne fournissent pas toujours des identifiants uniques lors de l’attribution d’une URL. Si vous utilisez Okta ou One Login, cela signifie que nous ne pourrons pas configurer une connexion à partir du bouton tableau de bord. Nous serons toujours en mesure de le configurer à partir du bouton Connexion unique sur l&#39;application [Web ](http://toutapp.com/login).
+One Login et Okta ne fournissent pas toujours des identifiants uniques lors de l’attribution d’une URL. Si vous utilisez Okta ou One Login, cela signifie que nous ne pourrons pas configurer une connexion à partir du bouton tableau de bord. Nous serons toujours en mesure de le configurer à partir du bouton Connexion unique sur l&#39;application [Web ](https://toutapp.com/login).
 
 Une fois que nous aurons ces informations, nous travaillerons avec notre équipe d&#39;ingénieurs pour les mettre en place pour votre abonnement.
