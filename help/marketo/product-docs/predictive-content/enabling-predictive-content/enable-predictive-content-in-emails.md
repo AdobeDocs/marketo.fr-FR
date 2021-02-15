@@ -3,7 +3,7 @@ unique-page-id: 11385020
 description: Activer le contenu prédictif dans les courriels - Documents marketing - Documentation du produit
 title: Activer le contenu prédictif dans les courriers électroniques
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -81,7 +81,7 @@ Une fois votre e-mail approuvé, il sera équipé de Contenu Prédictif et prêt
 
 ## Ajouter du contenu prédictif lorsque vous n’utilisez pas l’éditeur Email 2.0 {#adding-predictive-content-when-not-using-the-email-editor}
 
-Si vous n’utilisez pas de modèle [E-mail 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md), l’ajout de contenu prédictif à votre adresse électronique peut se faire simplement en balisant une image dans votre modèle en tant qu’élément d’image modifiable de Marketing Cloud.
+Si vous n’utilisez pas de modèle [E-mail 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md), l’ajout de contenu prédictif à votre adresse électronique peut se faire simplement en balisant une image dans votre modèle en tant qu’élément d’image modifiable du marketing.
 
 Découvrez la syntaxe [spécifique au marketing ici](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements).
 
@@ -90,7 +90,7 @@ Voici un exemple de ce à quoi devrait ressembler le code (il s&#39;agit seuleme
 **Exemple**
 
 ```example
-<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com">  
+<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com">  
 <a><img style="border:10px solid red;"></a>  
 </div>
 ```
