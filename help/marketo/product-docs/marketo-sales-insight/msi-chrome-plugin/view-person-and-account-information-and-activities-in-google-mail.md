@@ -3,7 +3,7 @@ unique-page-id: 10095358
 description: Vue Personne et compte Informations et Activités dans Google Mail - Docs Marketo - Documentation sur le produit
 title: Informations et Activités sur la vue et le compte dans Google Mail
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -49,5 +49,4 @@ Cliquez sur l’icône Marqueur pour ouvrir le volet.
 
 >[!MORELIKETHIS]
 >
->[Utilisation de Marketing Cloud Insights pour Google Chrome](using-marketo-insights-for-google-chrome.md)
-
+>[Utilisation de Marketing Cloud Insights pour Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
