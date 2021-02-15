@@ -3,7 +3,7 @@ unique-page-id: 37357043
 description: Présentation des fonctionnalités - Documents marketing - Documentation du produit
 title: Présentation des fonctionnalités
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -73,4 +73,3 @@ Les fonctionnalités suivantes sont disponibles dans la nouvelle solution MSI MS
 * Moment intéressant
 * Statut
 * Flux de piste - Inclut la possibilité de s&#39;abonner à la messagerie instantanée
-
