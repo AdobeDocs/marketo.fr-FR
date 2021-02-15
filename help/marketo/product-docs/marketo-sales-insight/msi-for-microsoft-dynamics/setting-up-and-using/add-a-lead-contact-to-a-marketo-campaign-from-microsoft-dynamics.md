@@ -3,9 +3,9 @@ unique-page-id: 2953342
 description: Ajouter une piste/un contact à un Campaign marketing à partir de Microsoft Dynamics - Marketo Docs - Documentation sur les produits
 title: Ajouter une piste/un contact à un Campaign marketing à partir de Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Vous pouvez ajouter rapidement et facilement des pistes/contacts à des campagne
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Cliquez sur** ...** et sélectionnez **Ajouter à Marketo Campaign**.
+1. Cliquez sur **...** et sélectionnez **Ajouter à Marketo Campaign**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +37,6 @@ Vous pouvez ajouter rapidement et facilement des pistes/contacts à des campagne
 
    >[!NOTE]
    >
-   >Pour que la campagne s’affiche dans la liste déroulante, utilisez le déclencheur [**Campaign is Requested**](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), avec Sales Insight comme source, lorsque vous configurez la campagne.
+   >Pour que la campagne s’affiche dans la liste déroulante, utilisez le déclencheur [**Campaign is Requested**](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), avec Sales Insight comme source, lorsque vous configurez la campagne.
 
 Et c&#39;est tout le monde ! Vous disposez maintenant de la puissance des campagnes intelligentes de Marketo dans vos mains directement à partir de Dynamics.
