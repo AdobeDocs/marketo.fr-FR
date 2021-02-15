@@ -3,7 +3,7 @@ unique-page-id: 4720108
 description: Activer la barre de recommandation du contenu - Documents marketing - Documentation du produit
 title: Activation de la barre de recommandation de contenu
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Le moteur de recommandation de contenu utilise des analyses prédictives et des 
 >
 >Avant d’activer le contenu prédictif, vous devez :
 >
->* [Préparation du contenu prédictif](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Préparation du contenu prédictif](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -46,7 +46,7 @@ Le moteur de recommandation de contenu utilise des analyses prédictives et des 
    >**Inclure / Exclure l’URL d’affichage**
    >
    >    * L’URL d’affichage doit être le chemin d’accès du domaine.
-   >    * N’incluez pas http:// ou https://.
+   >    * N’incluez pas https:// ou https://.
    >    * Utiliser * pour les caractères génériques
    * Utiliser un point-virgule comme séparateur
    * Exemple : /contact_us*; *action=déconnexion*
