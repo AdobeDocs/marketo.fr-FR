@@ -3,7 +3,7 @@ unique-page-id: 2360014
 description: Rapport sur les performances des personnes - Documents marketing - Documentation du produit
 title: Rapport Performance des personnes
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -41,12 +41,12 @@ Vous pouvez :
 
 >[!TIP]
 >
->N&#39;oubliez pas que les rapports sont faciles à [créer](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configurer](http://docs.marketo.com/display/docs/basic+reporting) et [supprimer](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Allez-y et jouez avec les nombreuses façons de les manipuler, pour découvrir les meilleures façons de se concentrer sur les données clés.
+>N&#39;oubliez pas que les rapports sont faciles à [créer](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configurer](https://docs.marketo.com/display/docs/basic+reporting) et [supprimer](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Allez-y et jouez avec les nombreuses façons de les manipuler, pour découvrir les meilleures façons de se concentrer sur les données clés.
 
 >[!NOTE]
 >
 >**Plongée profonde**
 >
 >
->Pour en savoir plus sur la plongée profonde [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+>Pour en savoir plus sur la plongée profonde [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
