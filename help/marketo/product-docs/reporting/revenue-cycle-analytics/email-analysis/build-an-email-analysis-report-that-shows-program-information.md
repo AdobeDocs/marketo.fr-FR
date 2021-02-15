@@ -3,7 +3,7 @@ unique-page-id: 2360409
 description: Créez un rapport d'Analyse par courriel qui affiche des informations sur le Programme - Documents marketing - Documentation sur le produit
 title: Création d’un rapport d’Analyse par courriel qui affiche des informations sur le Programme
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -65,5 +65,5 @@ Pour créer un rapport d’Analyse par courriel qui affiche les informations par
    >**Plongée profonde**
    >
    >
-   >Vous souhaitez en savoir plus sur [l&#39;Explorateur du cycle de recettes](http://docs.marketo.com/display/docs/revenue+cycle+analytics) ?
+   >Vous souhaitez en savoir plus sur [l&#39;Explorateur du cycle de recettes](https://docs.marketo.com/display/docs/revenue+cycle+analytics) ?
 
