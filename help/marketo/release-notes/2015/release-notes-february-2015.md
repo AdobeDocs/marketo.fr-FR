@@ -3,7 +3,7 @@ unique-page-id: 6094890
 description: Notes de mise à jour - Février 2015 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Février 2015
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Les fonctionnalités suivantes sont incluses dans la version de février 2015. V
 
 Réjouissez-vous ! Désormais, vous pouvez déplacer des campagnes intelligentes dans et hors des programmes à l’aide de la fonction glisser-déposer ou Déplacer dans l’arborescence.
 
-** [Dynamics 2015 (Online)](http://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- pris en charge !
+** [Dynamics 2015 (Online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- pris en charge !
 
 **Modifications des certificats HTTPS**
 
@@ -29,11 +29,11 @@ Pour protéger la confidentialité et l’intégrité des données client et des
 
 et remplacera les protocoles de sécurité actuellement utilisés (SHA-1 et SSL) par des versions plus sécurisées (SHA-2 (ou SHA-256) et TLS) pour les domaines suivants :
 
-`·` [marketo.net](http://marketo.net)  (trafic Munchkin chiffré)
+`·` [marketo.net](https://marketo.net)  (trafic Munchkin chiffré)
 
-`·` [marketo.com](http://marketo.com)  (applications SaaS principales)
+`·` [marketo.com](https://marketo.com)  (applications SaaS principales)
 
-Cela se produira peu après cette version. Le protocole SHA-1 sera temporairement pris en charge sur le domaine [mktoapi.com](http://mktoapi.com) jusqu&#39;en décembre 2015 pour permettre aux propriétaires de systèmes et d&#39;applications hérités de mettre à jour leurs systèmes avec la compatibilité SHA-2.
+Cela se produira peu après cette version. Le protocole SHA-1 sera temporairement pris en charge sur le domaine [mktoapi.com](https://mktoapi.com) jusqu&#39;en décembre 2015 pour permettre aux propriétaires de systèmes et d&#39;applications hérités de mettre à jour leurs systèmes avec la compatibilité SHA-2.
 
 **Munchkin sécurisé**
 
