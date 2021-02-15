@@ -3,7 +3,7 @@ unique-page-id: 7516419
 description: Ajouter l'onglet et les boutons d'aperçu des ventes du marketing à Salesforce - Docs marketing - Documentation du produit
 title: Ajouter l'onglet et les boutons d'aperçu commercial du marketing à Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Vous pouvez ajouter à votre vue Salesforce des boutons et des onglets personnal
 
 ## Ajouter l&#39;onglet Marketo {#adding-the-marketo-tab}
 
-1. Cliquez sur** + **et sur **Personnaliser mes onglets**.
+1. Cliquez sur **+** et sur **Personnaliser mes onglets**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
@@ -43,7 +43,7 @@ Vous pouvez ajouter des boutons Marketo à vos mises en page Salesforce. Voici u
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. Cliquez sur **Modifier** dans la ligne **Leads Liste Vue **row.
+1. Cliquez sur **Modifier** dans la ligne **Leads Liste Vue**.
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
