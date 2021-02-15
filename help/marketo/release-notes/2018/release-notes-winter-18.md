@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Notes de mise à jour - Hiver 18 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Hiver 18
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Le contenu recommandé via les algorithmes optimisés Content`<sup>AI </sup>`de 
 
 ## Intégration {#integration}
 
-** [Activer/désactiver l’API Campaign](http://developers.marketo.com/rest-api/assets/campaigns/)**
+** [Activer/désactiver l’API Campaign](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 Cette nouvelle API vous permet d&#39;activer et de désactiver à distance les campagnes de déclenchement, de sorte que vous puissiez désormais créer des modèles de programme entièrement automatisés. Créez un modèle de programme une seule fois, puis automatisez le clonage, les mises à jour des éléments marketing collatéraux et maintenant l’activation/la planification des campagnes intelligentes.
 
@@ -94,7 +94,7 @@ Cette nouvelle API vous permet d&#39;activer et de désactiver à distance les c
 
 **Désabonner la mise à jour**
 
-À compter du 1er mars 2018, tous les courriels envoyés par [ToutApp.com](http://ToutApp.com) (et en utilisant le bouton &quot;Envoyer un courriel avec tout&quot; dans Salesforce) auront un lien de désabonnement annexé en bas.
+À compter du 1er mars 2018, tous les courriels envoyés par [ToutApp.com](https://ToutApp.com) (et en utilisant le bouton &quot;Envoyer un courriel avec tout&quot; dans Salesforce) auront un lien de désabonnement annexé en bas.
 
 **Mise à jour du flux en direct**
 
