@@ -3,7 +3,7 @@ unique-page-id: 2360016
 description: Filtrage des personnes dans un rapport avec une Liste intelligente - Documentation du marketing - Documentation du produit
 title: Filtrage des personnes dans un rapport avec une Liste intelligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Vous pouvez utiliser des listes intelligentes avec les types de rapports suivant
 
 * [Performances des personnes](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [Personnes par statut](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Personnes par étape de recettes](http://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
+* [Personnes par étape de recettes](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
 * [Performances des courriers électroniques](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Performances du lien de courriel](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Performances du flux d’engagement](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
@@ -55,5 +55,5 @@ Vous pouvez utiliser des listes intelligentes avec les types de rapports suivant
    >**Plongée profonde**
    >
    >
-   >Pour plus d&#39;informations sur l&#39;utilisation des rapports, consultez la section &lt; a0/>Rapports de base[ plongée en profondeur.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Pour plus d&#39;informations sur l&#39;utilisation des rapports, consultez la section &lt; a0/>Rapports de base](https://docs.marketo.com/display/docs/basic+reporting) plongée en profondeur.[
 
