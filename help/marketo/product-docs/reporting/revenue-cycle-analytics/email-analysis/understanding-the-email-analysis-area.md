@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: Présentation de la zone d'Analyse des courriels - Documents marketing - Documentation du produit
 title: Présentation de la zone d'Analyse du courrier électronique
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -18,7 +18,7 @@ La zone d’Analyse des courriels est axée sur les mesures des courriels. Cet a
 >[!AVAILABILITY]
 >
 >
->Cette option est disponible pour les utilisateurs disposant de l’édition Select ou du module complémentaire [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Contactez votre représentant commercial pour plus de détails.
+>Cette option est disponible pour les utilisateurs disposant de l’édition Select ou du module complémentaire [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Contactez votre représentant commercial pour plus de détails.
 
 ## Grille de chaleur d&#39;Activité de clic électronique {#email-click-activity-heat-grid}
 
