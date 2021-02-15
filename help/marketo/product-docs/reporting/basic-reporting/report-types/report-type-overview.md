@@ -3,7 +3,7 @@ unique-page-id: 2359965
 description: Présentation du type de rapport - Documents marketing - Documentation du produit
 title: Aperçu du type de rapport
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Lorsque vous [créez un rapport dans un programme](../../../../product-docs/repo
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapport d’étape Personnes par chiffre d’affaires</a>  </strong></td> 
-   <td>Rapports de base pour votre <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">modèle de recettes</a>. Voir <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analyses du cycle des recettes</a> pour en savoir plus sur les rapports.</td> 
+   <td>Rapports de base pour votre <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">modèle de recettes</a>. Voir <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Analyses du cycle des recettes</a> pour en savoir plus sur les rapports.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Performances du landing page</a>  </strong></td> 
@@ -55,7 +55,7 @@ Lorsque vous [créez un rapport dans un programme](../../../../product-docs/repo
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Performances du programme</a>  </strong></td> 
-   <td>Mesures de programme de base telles que les membres et la réussite. Voir <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analyses du cycle des recettes</a> pour en savoir plus sur les rapports.</td> 
+   <td>Mesures de programme de base telles que les membres et la réussite. Voir <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Analyses du cycle des recettes</a> pour en savoir plus sur les rapports.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">Activité Web société</a>  </strong></td> 
@@ -71,7 +71,7 @@ Lorsque vous [créez un rapport dans un programme](../../../../product-docs/repo
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Rapport sur les performances du flux d’engagement</a> </strong></td> 
-   <td><p>Découvrez comment fonctionne votre <a href="http://docs.marketo.com/display/docs/drip+nurturing">programme d'engagement</a>.</p></td> 
+   <td><p>Découvrez comment fonctionne votre <a href="https://docs.marketo.com/display/docs/drip+nurturing">programme d'engagement</a>.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -89,5 +89,5 @@ Pas aussi utile que les types de rapport ci-dessus, mais toujours disponible.
 >
 >**Plongée profonde**
 >
->Pour voir toutes les actions possibles avec ces rapports, consultez la section [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting) plongée en profondeur.
+>Pour voir toutes les actions possibles avec ces rapports, consultez la section [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting) plongée en profondeur.
 
