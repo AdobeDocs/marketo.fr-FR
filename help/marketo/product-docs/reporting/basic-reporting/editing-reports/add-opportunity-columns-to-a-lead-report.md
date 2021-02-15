@@ -3,7 +3,7 @@ unique-page-id: 2360018
 description: Ajouter les colonnes d'opportunité à un rapport de piste - Documents marketing - Documentation du produit
 title: Ajouter les colonnes d'opportunité à un rapport de piste
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ajouter les colonnes d&#39;opportunité à un rapport de piste {#add-opportunity-columns-to-a-lead-report}
 
-Pour afficher les statistiques sur les opportunités dans vos rapports [personne](http://docs.marketo.com/display/docs/basic+reporting), vous pouvez ajouter des colonnes opportunités.
+Pour afficher les statistiques sur les opportunités dans vos rapports [personne](https://docs.marketo.com/display/docs/basic+reporting), vous pouvez ajouter des colonnes opportunités.
 
 1. Accédez à la zone **Activités marketing**.
 
@@ -77,5 +77,5 @@ Pour afficher les statistiques sur les opportunités dans vos rapports [personne
    >**Plongée profonde**
    >
    >
-   >Découvrez ce que vous pouvez faire d&#39;autre avec les rapports dans la plongée profonde [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   >Découvrez ce que vous pouvez faire d&#39;autre avec les rapports dans la plongée profonde [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
