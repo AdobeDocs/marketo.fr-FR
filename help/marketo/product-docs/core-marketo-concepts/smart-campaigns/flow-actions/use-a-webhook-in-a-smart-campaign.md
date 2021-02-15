@@ -3,7 +3,7 @@ unique-page-id: 1147025
 description: Utilisation d’un crochet Web dans un Campaign intelligent - Docs marketing - Documentation du produit
 title: Utilisation de Webhook dans une Campaign intelligente
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utiliser Webhook dans une Campaign intelligente {#use-a-webhook-in-a-smart-campaign}
 
-Pour utiliser un [webhook](http://developers.marketo.com/documentation/webhooks/), ajoutez-le à une [campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) en tant qu’action de flux.
+Pour utiliser un [webhook](https://developers.marketo.com/documentation/webhooks/), ajoutez-le à une [campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) en tant qu’action de flux.
 
 >[!AVAILABILITY]
 >
