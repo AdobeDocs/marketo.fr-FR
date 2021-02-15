@@ -3,7 +3,7 @@ unique-page-id: 2360181
 description: Suivi des Activités et des personnes anonymes - Documentation sur le marketing - Documentation sur les produits
 title: Suivi des Activités et des personnes anonymes
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -28,8 +28,8 @@ Lors de la première visite d’un Marketo [landing page](../../../../product-do
    Une activité anonyme est fusionnée en une personne nouvelle ou existante lorsqu’une personne :
 
    * Cliquez sur un lien [dans un courrier électronique Marketo](../../../../product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Remplit un formulaire Marketo [a1/>.](http://docs.marketo.com/display/docs/forms)
-   * Utilise l&#39;API [REST de Marketo](http://developers.marketo.com/rest-api/lead-database/leads/) ou [Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) (pour les développeurs) pour associer une activité anonyme à un enregistrement connu.
+   * Remplit un formulaire Marketo [a1/>.](https://docs.marketo.com/display/docs/forms)
+   * Utilise l&#39;API [REST de Marketo](https://developers.marketo.com/rest-api/lead-database/leads/) ou [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) (pour les développeurs) pour associer une activité anonyme à un enregistrement connu.
 
    Un nom de la base de données peut être lié à de nombreux cookies, car les visiteurs utilisent souvent différents périphériques et navigateurs pour visiter votre site.
 
@@ -50,5 +50,5 @@ Lors de la première visite d’un Marketo [landing page](../../../../product-do
    >**Plongée profonde**
    >
    >
-   >En savoir plus sur [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   >En savoir plus sur [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
