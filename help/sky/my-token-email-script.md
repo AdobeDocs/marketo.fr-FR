@@ -2,7 +2,7 @@
 title: my-token-email-script
 description: Script de courrier électronique Mon jeton
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Pour les développeurs avancés, vous pouvez utiliser [des scripts Velocity](http://velocity.apache.org/engine/1.7/user-guide.html) dans vos courriers électroniques en configurant un jeton de script de courrier électronique. Voici comment le faire.
+Pour les développeurs avancés, vous pouvez utiliser [des scripts Velocity](https://velocity.apache.org/engine/1.7/user-guide.html) dans vos courriers électroniques en configurant un jeton de script de courrier électronique. Voici comment le faire.
 
 1. Dans l&#39;onglet [!UICONTROL Mes jetons] de votre programme ou dossier, faites glisser un **[!UICONTROL Script de courriel]** vers le canevas [!UICONTROL Jetons locaux].
 
@@ -34,10 +34,10 @@ Pour les développeurs avancés, vous pouvez utiliser [des scripts Velocity](htt
 
 1. Écrivez votre script dans Velocity. Voici quelques ressources utiles pour vous aider :
 
-   * [Documentation sur les scripts de courrier électronique destinée aux développeurs du marketing](http://developers.marketo.com/email-scripting/)
-   * [Guide de l&#39;utilisateur Velocity](http://velocity.apache.org/engine/devel/user-guide.html)
-   * [Guide de référence Velocity](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Documentation de VelocityTools 2.0](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [Documentation sur les scripts de courrier électronique destinée aux développeurs du marketing](https://developers.marketo.com/email-scripting/)
+   * [Guide de l&#39;utilisateur Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [Guide de référence Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Documentation de VelocityTools 2.0](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. Une fois votre script is terminé, cliquez sur **[!UICONTROL Enregistrer]**.
 
