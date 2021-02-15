@@ -3,7 +3,7 @@ unique-page-id: 14352407
 description: Présentation du Canal de diffusion - Documentation du marketing - Documentation du produit
 title: Présentation du Canal de diffusion
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -47,4 +47,4 @@ Dans l’application Web, votre identité s’affiche au fur et à mesure que vo
 
 ## Serveur SMTP personnalisé {#custom-smtp-server}
 
-Payer pour votre propre serveur ? Utiliser un environnement Microsoft Exchange ? C&#39;est une option pour vous. Consultez [ces instructions](http://docs.marketo.com/x/zYTS) sur la configuration. Comme les serveurs Gmail, puisque Sales Connect ne gère pas directement votre serveur, nous n&#39;enregistrons pas les événements de messagerie rebondis dans l&#39;application Web.
+Payer pour votre propre serveur ? Utiliser un environnement Microsoft Exchange ? C&#39;est une option pour vous. Consultez [ces instructions](https://docs.marketo.com/x/zYTS) sur la configuration. Comme les serveurs Gmail, puisque Sales Connect ne gère pas directement votre serveur, nous n&#39;enregistrons pas les événements de messagerie rebondis dans l&#39;application Web.
