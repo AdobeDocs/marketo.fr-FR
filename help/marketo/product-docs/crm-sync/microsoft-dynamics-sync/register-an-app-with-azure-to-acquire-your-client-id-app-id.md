@@ -3,7 +3,7 @@ unique-page-id: 12983390
 description: Enregistrer une application avec Azure pour acquérir votre ID client/ID d'application - Documents marketing - Documentation du produit
 title: Enregistrer une application avec Azure pour acquérir votre ID client/ID d'application
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Azure Principale Directory étend vos répertoires locaux dans le cloud, fournis
 
 ## Enregistrement d’une nouvelle application {#registering-a-new-app}
 
-1. [Connectez-vous ](http://manage.windowsazure.com/) au portail de gestion Microsoft Azure à l&#39;aide d&#39;un compte doté d&#39;autorisations d&#39;administrateur. Vous pouvez également accéder au portail Microsoft Azure via le Centre d&#39;administration Office 365 en développant l&#39;élément **Admin** dans le volet de navigation de gauche et en sélectionnant **Azure AD**.
+1. [Connectez-vous ](https://manage.windowsazure.com/) au portail de gestion Microsoft Azure à l&#39;aide d&#39;un compte doté d&#39;autorisations d&#39;administrateur. Vous pouvez également accéder au portail Microsoft Azure via le Centre d&#39;administration Office 365 en développant l&#39;élément **Admin** dans le volet de navigation de gauche et en sélectionnant **Azure AD**.
 
    >[!CAUTION]
    >
