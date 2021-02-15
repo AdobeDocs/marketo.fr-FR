@@ -3,7 +3,7 @@ unique-page-id: 7512454
 description: Configurer la notification Push mobile - Documents marketing - Documentation du produit
 title: Configuration de la notification Push mobile
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -99,7 +99,7 @@ Un URI de lien profond est constitué de trois parties : nom, chemin et identifi
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-Cela dit, la structure des liens profonds de votre application peut être différente de l’exemple ci-dessus. Votre développeur dispose de nombreuses options pour définir les URI des liens profonds. Demandez donc à votre développeur de vous envoyer les URI (liens) pour les pages que vous souhaitez utiliser. Ceci garantit que les URI que vous saisissez dans les messages push pointent vers les bons emplacements. Votre développeur peut [trouver plus d&#39;informations ici](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
+Cela dit, la structure des liens profonds de votre application peut être différente de l’exemple ci-dessus. Votre développeur dispose de nombreuses options pour définir les URI des liens profonds. Demandez donc à votre développeur de vous envoyer les URI (liens) pour les pages que vous souhaitez utiliser. Ceci garantit que les URI que vous saisissez dans les messages push pointent vers les bons emplacements. Votre développeur peut [trouver plus d&#39;informations ici](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
 
 >[!MORELIKETHIS]
 >
