@@ -3,7 +3,7 @@ unique-page-id: 2951042
 description: Notes de mise à jour - Juin 2014 - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - Juin 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Lorsque vous envoyez un courriel de test à partir de Sales Insight, les jetons 
 
 ## API Lead ReST {#lead-rest-api}
 
-Créez, lisez et mettez à jour des pistes par programmation grâce à notre nouvelle API ReST. Pour commencer avec ReST, vous devez [créer un service personnalisé](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) dans Marketo. Rendez-vous ensuite sur le [site des développeurs](http://developers.marketo.com/documentation/rest/) pour plus d&#39;informations sur l&#39;utilisation de cette API.
+Créez, lisez et mettez à jour des pistes par programmation grâce à notre nouvelle API ReST. Pour commencer avec ReST, vous devez [créer un service personnalisé](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) dans Marketo. Rendez-vous ensuite sur le [site des développeurs](https://developers.marketo.com/documentation/rest/) pour plus d&#39;informations sur l&#39;utilisation de cette API.
 
 ## Mise à jour de la page Campagnes de personnalisation en temps réel du marketing {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
