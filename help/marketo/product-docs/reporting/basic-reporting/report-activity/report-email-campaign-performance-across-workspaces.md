@@ -3,7 +3,7 @@ unique-page-id: 2360055
 description: Courriel des rapports, performances Campaign dans tous les espaces de travail - Documents marketing - Documentation du produit
 title: Courriel des rapports, performances Campaign dans tous les espaces de travail
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -48,5 +48,5 @@ Activez le Rapports global pour inclure dans vos rapports [Performances du courr
    >**Plongée profonde**
    >
    >
-   >Découvrez tous les rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   >Découvrez tous les rapports dans [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
