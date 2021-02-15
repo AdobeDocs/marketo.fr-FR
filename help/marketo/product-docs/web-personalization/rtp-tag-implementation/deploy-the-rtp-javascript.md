@@ -3,7 +3,7 @@ unique-page-id: 4719332
 description: Déploiement du code JavaScript RTP - Docs marketing - Documentation du produit
 title: Déploiement du code JavaScript RTP
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -45,5 +45,5 @@ Pour générer et configurer votre balise RTP, suivez les instructions d’insta
 
 >[!MORELIKETHIS]
 >
->* [Implémentation des balises RTP](http://docs.marketo.com/display/docs/rtp+tag+implementation)
+>* [Implémentation des balises RTP](https://docs.marketo.com/display/docs/rtp+tag+implementation)
 
