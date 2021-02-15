@@ -3,7 +3,7 @@ unique-page-id: 15695874
 description: Connectez BrightTALK à Marketo - Marketo Docs - Documentation du produit
 title: Connecter BrightTALK à Marketo
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Découvrez comment connecter votre canal BrightTALK à votre instance Marketo. P
 
 ## Étapes de BrightTALK {#steps-in-brighttalk}
 
-1. Connectez-vous à [business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login) et cliquez sur **Se connecter maintenant**.
+1. Connectez-vous à [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login) et cliquez sur **Se connecter maintenant**.
 1. Sous Connecteur marketing avancé, cliquez sur **Connexion**.
 1. Vous accédez à l’écran d’identification pour demander : ID de client, clé secrète client, URL du service d’identité et URL du service de repos. Pour obtenir ces informations, connectez-vous à Marketo.
 
@@ -77,4 +77,4 @@ Découvrez comment connecter votre canal BrightTALK à votre instance Marketo. P
 
 1. Revenez à l&#39;écran de configuration du connecteur BrightTALK à l&#39;étape 3, puis saisissez les informations d&#39;identification que vous avez enregistrées à partir des étapes 12 et 14.
 
-   Une fois les informations d’identification authentifiées, vous avez officiellement connecté BrightTALK à Marketo. L&#39;étape suivante consiste à déterminer [quels champs de données vous souhaitez synchroniser](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
+   Une fois les informations d’identification authentifiées, vous avez officiellement connecté BrightTALK à Marketo. L&#39;étape suivante consiste à déterminer [quels champs de données vous souhaitez synchroniser](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
