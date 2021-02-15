@@ -3,9 +3,9 @@ unique-page-id: 6095037
 description: Notes de mise à jour - Mars 2015 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mars 2015
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Les fonctionnalités suivantes sont incluses dans la version de mars 2015. Veuil
 
 ## Calendrier HD {#calendar-hd}
 
-[Affichez les ](http://docs.marketo.com/display/docs/calendar+hd) activités marketing de votre équipe avec le nouveau mode de présentation du calendrier. Ils sont parfaits pour les téléviseurs ou les moniteurs géants dans tout le bureau ! Définissez et affichez des objectifs en fonction d’une liste intelligente ou de mesures personnalisées.
+[Affichez les ](https://docs.marketo.com/display/docs/calendar+hd) activités marketing de votre équipe avec le nouveau mode de présentation du calendrier. Ils sont parfaits pour les téléviseurs ou les moniteurs géants dans tout le bureau ! Définissez et affichez des objectifs en fonction d’une liste intelligente ou de mesures personnalisées.
 
 >[!NOTE]
 >
@@ -33,13 +33,13 @@ Liez votre [compte Google AdWords à Marketo](../../product-docs/administration/
 
 ## Reconception de l&#39;Explorateur de recettes {#revenue-explorer-redesign}
 
-[Revenu ](http://docs.marketo.com/display/docs/revenue+explorer) Explorera a une nouvelle apparence, ainsi que le nouveau type de graphique Sunburst ! Nous allons le déployer au cours des deux premières semaines d&#39;avril.
+[Revenu ](https://docs.marketo.com/display/docs/revenue+explorer) Explorera a une nouvelle apparence, ainsi que le nouveau type de graphique Sunburst ! Nous allons le déployer au cours des deux premières semaines d&#39;avril.
 
 ## Nouvelles API REST de ressources {#new-asset-rest-apis}
 
-[Nouvelles API REST d’actifs](http://developers.marketo.com/)
+[Nouvelles API REST d’actifs](https://developers.marketo.com/)
 
-Nous avons désormais pris en charge la création et la modification de courriels, de modèles, de mes jetons, de mes fichiers et de mes fragments [via l&#39;API](http://developers.marketo.com/documentation/asset-api) !
+Nous avons désormais pris en charge la création et la modification de courriels, de modèles, de mes jetons, de mes fichiers et de mes fragments [via l&#39;API](https://developers.marketo.com/documentation/asset-api) !
 
 ## Microsoft Dynamics 2015 Sur site {#microsoft-dynamics-on-premise}
 
