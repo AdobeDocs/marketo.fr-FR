@@ -3,7 +3,7 @@ unique-page-id: 2359996
 description: Trier le rapport sur les colonnes - Documents marketing - Documentation du produit
 title: Trier le rapport sur les colonnes
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -44,5 +44,5 @@ Utilisez les colonnes pour trier les données de votre rapport et rendre les chi
    >**Plongée profonde**
    >
    >
-   >Découvrez toute la puissance de l&#39;utilisation des rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+   >Découvrez toute la puissance de l&#39;utilisation des rapports dans [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
