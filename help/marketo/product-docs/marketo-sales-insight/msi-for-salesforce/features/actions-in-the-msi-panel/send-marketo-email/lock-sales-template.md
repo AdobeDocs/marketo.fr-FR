@@ -3,7 +3,7 @@ unique-page-id: 12981050
 description: Verrouiller le modèle de ventes - Documents marketing - Documentation du produit
 title: Verrouiller le modèle de vente
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -62,4 +62,3 @@ Pour empêcher les utilisateurs de la gestion de la relation client de modifier 
    >[!NOTE]
    >
    >Par défaut, cette case est cochée et les utilisateurs de CRM sont autorisés à modifier les courriers électroniques.
-
