@@ -3,7 +3,7 @@ unique-page-id: 2360184
 description: Filtrage d’un rapport d’Activité Campaign - Documents marketing - Documentation du produit
 title: Filtrage d’un rapport d’Activité Campaign
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrage d’un rapport d’Activité Campaign {#filter-a-campaign-activity-report}
 
-Concentrez votre [rapport d’Activité Campaign](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)sur des [campagnes dynamiques spécifiques](http://docs.marketo.com/display/docs/smart+campaigns).
+Concentrez votre [rapport d’Activité Campaign](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)sur des [campagnes dynamiques spécifiques](https://docs.marketo.com/display/docs/smart+campaigns).
 
 1. Accédez à **Activités marketing** (ou **Analytics**) et sélectionnez votre rapport d’activité de campagne.
 
@@ -47,5 +47,5 @@ Concentrez votre [rapport d’Activité Campaign](../../../../product-docs/repor
 >
 >**Plongée profonde**
 >
->Découvrez tous les rapports dans [Rapports de base](http://docs.marketo.com/display/docs/basic+reporting).
+>Découvrez tous les rapports dans [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
 
