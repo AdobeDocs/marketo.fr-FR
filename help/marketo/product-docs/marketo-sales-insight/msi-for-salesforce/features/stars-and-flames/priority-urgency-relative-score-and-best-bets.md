@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: Priorité, urgence, score relatif et meilleurs paris - Documentation du marketing - Documentation du produit
 title: Priorité, urgence, note relative et meilleurs résultats
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Vos meilleurs paris sont vos pistes et contacts avec la plus grande urgence et l
 
 >[!NOTE]
 >
->Si vos meilleurs paris ne correspondent pas aux meilleures pistes et contacts que vous détenez, contactez un membre de votre société qui a accès à Marketing pour savoir comment mettre à jour vos [règles de score](../../../../../getting-started/quick-wins/simple-scoring.md).
+>Si vos meilleurs paris ne correspondent pas aux meilleures pistes et contacts que vous détenez, contactez un membre de votre société qui a accès à Marketing pour savoir comment mettre à jour vos [règles de score](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Calcul de l’urgence et de la note relative
 
@@ -54,8 +54,3 @@ Pour calculer le nombre d&#39;étoiles et de flammes, vos pistes et contacts son
 >[!NOTE]
 >
 >Le nombre d’Urgences relatives (flammes) et Score relatif (étoiles) sont des entiers dans Marketo. Les valeurs possibles pour chacun d’eux sont comprises entre 0 et 3.
-
->[!MORELIKETHIS]
->
->* [Insight commercial du marketing](https://docs.marketo.com/display/docs/marketo+sales+insight)
-
