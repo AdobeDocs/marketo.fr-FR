@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: Envoyer et effectuer le suivi à partir d'Outlook à l'aide d'un modèle de marketing - Documents marketing - Documentation du produit
 title: Envoi et suivi à partir d'Outlook à l'aide d'un modèle de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,6 @@ Si votre équipe marketing vous a mis des modèles à disposition, voici comment
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >Les jetons ne sont pas pris en charge avec le complément. Supprimez tout élément qui pourrait se trouver dans le modèle.
 
 1. Consultez la prévisualisation, assurez-vous qu’elle a l’air correcte, puis cliquez sur **Envoyer**.
@@ -42,9 +39,4 @@ Si votre équipe marketing vous a mis des modèles à disposition, voici comment
 
 >[!MORELIKETHIS]
 >
->* [Enregistrer le courrier entrant provenant de vos pistes dans Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Enregistrer le courrier entrant provenant de vos pistes dans Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
