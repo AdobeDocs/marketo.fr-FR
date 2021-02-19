@@ -3,7 +3,7 @@ unique-page-id: 7512654
 description: Affichage du flux de piste dans Salesforce1 - Documents marketing - Documentation du produit
 title: Affichage du flux de piste dans Salesforce1
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -33,11 +33,7 @@ Le flux de pistes est une liste à la minute d&#39;événements intéressants r�
 
 >[!MORELIKETHIS]
 >
->* [Moments intéressants à Salesforce1](interesting-moments-in-salesforce1.md)
->* [Envoyer un courrier électronique marketing et des actions Campaign et Watchlist dans Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Meilleurs paris dans Salesforce1](best-bets-in-salesforce1.md)
-
->
-
-
+>* [Moments intéressants à Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Envoyer un courrier électronique marketing et des actions Campaign et Watchlist dans Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Meilleurs paris dans Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 
