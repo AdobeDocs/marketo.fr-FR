@@ -3,7 +3,7 @@ unique-page-id: 11377005
 description: Activer RSS pour Sales Insight - Marketo Docs - Documentation sur les produits
 title: Activer RSS pour Sales Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Si les utilisateurs de Marketing veulent vue leur flux de piste non seulement da
 
    ![](assets/rss-settings-tab.png)
 
-   Dans la boîte de dialogue Modifier les paramètres, cochez la case **flux RSS** et cliquez sur **Enregistrer**.
+1. Dans la boîte de dialogue Modifier les paramètres, cochez la case **flux RSS** et cliquez sur **Enregistrer**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
@@ -36,4 +36,3 @@ Si les utilisateurs de Marketing veulent vue leur flux de piste non seulement da
    ![](assets/rss-final-box.png)
 
    Un morceau de gâteau !
-
