@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: Jetons pour les moments intéressants - Documents marketing - Documentation du produit
 title: Jetons pour les moments intéressants
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Découvrez comment utiliser l’[étape de flux Moment intéressant](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
->* En savoir plus sur les [jetons](https://docs.marketo.com/display/docs/tokens).
-
->
-
-
+>Découvrez comment utiliser l’[étape de flux Moment intéressant](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Jetons disponibles {#available-tokens}
 
-Consultez [Présentation des jetons](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) pour voir tous les jetons que vous pouvez mettre à un moment intéressant.
+Consultez [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) pour voir tous les jetons que vous pouvez mettre à un moment intéressant.
 
 ## Jetons de déclenchement {#trigger-tokens}
 
@@ -249,4 +244,3 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
 >Testez toujours vos moments intéressants pour vous assurer qu&#39;ils rendent la façon dont vous voulez.
 >
 >Assurez-vous également que c&#39;est intéressant pour le vendeur, pas seulement pour vous. ![(évier)](assets/wink.svg)>
-
