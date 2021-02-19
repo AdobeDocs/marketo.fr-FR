@@ -3,7 +3,7 @@ unique-page-id: 4720314
 description: Rapport sur les performances des courriels de Sales Insight - Documents marketing - Documentation sur les produits
 title: Rapport Performance des courriers électroniques de Sales Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -64,4 +64,3 @@ Vous pouvez vue ce rapport groupé par représentant commercial en modifiant vos
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
    Plutôt cool, hein ? Vous pouvez maintenant voir les performances des courriels regroupés par représentant commercial.
-
