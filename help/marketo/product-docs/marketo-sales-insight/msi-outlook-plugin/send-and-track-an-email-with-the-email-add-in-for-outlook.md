@@ -3,7 +3,7 @@ unique-page-id: 2949716
 description: Envoyer et effectuer le suivi d'un courriel avec l'Ajoute électronique pour Outlook - Documents marketing - Documentation du produit
 title: Envoi et suivi d'un courriel avec l'Ajoute électronique pour Outlook
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Vous pouvez envoyer et suivre des courriers électroniques avec Marketo directem
 
 >[!PREREQUISITES]
 >
->Si vous ne l&#39;avez pas encore fait, installez le module complémentaire [Marketo par courrier électronique pour Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Si vous ne l&#39;avez pas encore fait, installez le module complémentaire [Marketo par courrier électronique pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 1. Ouvrez Microsoft Outlook et créez un nouveau courrier électronique.
 
@@ -37,7 +37,7 @@ Vous pouvez envoyer et suivre des courriers électroniques avec Marketo directem
 
    >[!TIP]
    >
-   >Si vous souhaitez utiliser un modèle Marketo, voir [Envoyer et effectuer le suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle](send-and-track-from-outlook-using-a-marketo-template.md).
+   >Si vous souhaitez utiliser un modèle Marketo, voir [Envoyer et effectuer le suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Regardez la prévisualisation et cliquez sur **Envoyer**.
 
@@ -55,9 +55,4 @@ C&#39;est si facile ! Bien que ce courrier électronique ait été envoyé par O
 
 >[!MORELIKETHIS]
 >
->* [Enregistrer le courrier entrant provenant de vos pistes dans Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Enregistrer le courrier entrant provenant de vos pistes dans Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
