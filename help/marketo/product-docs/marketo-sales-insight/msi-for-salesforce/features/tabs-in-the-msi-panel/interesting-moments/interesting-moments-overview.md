@@ -3,7 +3,7 @@ unique-page-id: 2949720
 description: Présentation des moments intéressants - Documents marketing - Documentation du produit
 title: Présentation des moments intéressants
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -33,10 +33,6 @@ Vous pouvez également utiliser des jetons dans des moments intéressants pour c
 
 >[!MORELIKETHIS]
 >
->* [Utilisation de moments intéressants](using-interesting-moments.md)
->* [Jetons pour les moments intéressants](tokens-for-interesting-moments.md)
-
->
-
-
+>* [Utilisation de moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [Jetons pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
