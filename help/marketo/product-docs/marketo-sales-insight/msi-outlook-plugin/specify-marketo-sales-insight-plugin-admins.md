@@ -3,7 +3,7 @@ unique-page-id: 11377552
 description: Spécifier les administrateurs des modules externes de Marketing Cloud Sales Insight - Documents marketing - Documentation du produit
 title: Spécification des administrateurs des modules externes Marketing to Sales Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez spécifier les contacts que vous souhaitez voir apparaître dans l&#39;avis que vous envoyez aux utilisateurs lorsque vous les invitez à configurer MSI dans Outlook.
 
-1. Dans Mon marketing, cliquez sur **Admin** puis sur **Sales Insight.**
+1. Dans Mon marketing, cliquez sur **Admin**, puis sur **Sales Insight**.
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
@@ -40,4 +40,3 @@ Vous pouvez spécifier les contacts que vous souhaitez voir apparaître dans l&#
    ![](assets/image2016-8-25-11-3a33-3a33.png)
 
    Parfait !
-
