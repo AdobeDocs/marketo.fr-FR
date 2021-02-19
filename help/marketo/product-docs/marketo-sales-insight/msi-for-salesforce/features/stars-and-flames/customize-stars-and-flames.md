@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Personnaliser les étoiles et les flammes - Docs marketing - Documentation du produit
 title: Personnaliser les étoiles et les flammes
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,13 @@ Marketo Sales Insight utilise des étoiles et des flammes pour classer les piste
 
 >[!AVAILABILITY]
 >
->
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous Admin, cliquez sur Sales Insight.
+1. Sous Admin, cliquez sur **Sales Insight**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
@@ -38,9 +37,7 @@ Marketo Sales Insight utilise des étoiles et des flammes pour classer les piste
    >
    >**Définition**
    >
-   >
-   >**Dynamique**  - Valeur en pourcentage dérivée des données [ ](priority-urgency-relative-score-and-best-bets.md)relatives. C&#39;est génial. Cette méthode est recommandée.
-   >
+   >**Dynamique**  - Valeur en pourcentage dérivée des données [ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)relatives. C&#39;est génial. Cette méthode est recommandée.
    >
    >**Statique**  - Permet de définir des numéros de score exacts - plus de pourcentages, plus de sauces secrètes.
 
@@ -50,14 +47,11 @@ Marketo Sales Insight utilise des étoiles et des flammes pour classer les piste
 
    >[!TIP]
    >
-   >
    >Modifiez simplement le pourcentage de départ, Marketo calculera le pourcentage de fin pour vous !
 
    ![](assets/image2014-9-16-13-3a38-3a49.png)
 
 >[!NOTE]
->
->**Rappel**
 >
 >Une fois les changements effectués, le processus de recalcul des étoiles et des flammes prendra un certain temps. La patience est une vertu.
 
