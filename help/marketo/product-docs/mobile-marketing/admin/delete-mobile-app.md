@@ -3,9 +3,9 @@ unique-page-id: 7512442
 description: Supprimer une application mobile - Documents marketing - Documentation du produit
 title: Supprimer l’application mobile
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Supprimer l&#39;application mobile {#delete-mobile-app}
 
-1. Cliquez sur Admin.
+1. Cliquez sur **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Sélectionnez Applications mobiles.
+1. Sélectionnez **Applications mobiles**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. Cliquez sur Actions de l’application mobile et sélectionnez Supprimer l’application.
+1. Cliquez sur **Actions d’application mobile** et sélectionnez **Supprimer l’application**.
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 
-1. Confirmez en cliquant sur DELETE.
+1. Confirmez en cliquant sur **Supprimer**.
 
    ![](assets/image2015-4-22-17-3a23-3a18.png)
 
