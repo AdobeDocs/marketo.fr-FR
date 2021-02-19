@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Définir les champs de score à utiliser pour les étoiles et les flammes dans Sales Insight - Marketo Docs - Documentation sur le produit
 title: Définir les champs de score à utiliser pour les étoiles et les flammes dans Sales Insight
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Par défaut, Marketing Sales Insight utilise le champ **Score de piste** pour ca
 
 >[!TIP]
 >
->Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment les [créer](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+>Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment les [créer](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!NOTE]
 >
 >**Définition**
 >
->* **Stars : **Les étoiles représentent le score de piste total comparé aux autres pistes.
+>* **Etoiles** : Les étoiles représentent le score de piste total comparé aux autres pistes.
 >* **Flammes** : Les flammes représentent l&#39;urgence - à quel point le score d&#39;un prospect a changé récemment.
 
 >
@@ -50,7 +50,8 @@ Par défaut, Marketing Sales Insight utilise le champ **Score de piste** pour ca
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-   Cliquez sur Enregistrer.
+1. Cliquez sur **Enregistrer**.
+
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
@@ -59,7 +60,4 @@ Par défaut, Marketing Sales Insight utilise le champ **Score de piste** pour ca
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Priorité, urgence, note relative et meilleurs résultats](priority-urgency-relative-score-and-best-bets.md)
-
+   >[Priorité, urgence, note relative et meilleurs résultats](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
