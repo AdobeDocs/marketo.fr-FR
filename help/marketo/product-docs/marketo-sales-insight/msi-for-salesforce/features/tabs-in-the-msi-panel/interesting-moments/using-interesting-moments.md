@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Utilisation de moments intéressants - Documents marketing - Documentation du produit
 title: Utilisation de moments intéressants
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Les moments intéressants sont la clé de la communication avec votre équipe co
 
 >[!AVAILABILITY]
 >
->Ils sont disponibles uniquement pour les clients Marketing Sales Insight et [Marketing Sales Connect](https://docs.marketo.com/x/fgTLAQ).
+>Ils sont disponibles uniquement pour les clients Marketing Sales Insight et [Marketing Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md).
 
-## Quel moment intéressant ?  {#what-is-an-interesting-moment}
+## Quel moment intéressant ? {#what-is-an-interesting-moment}
 
 C&#39;est à vous de décider ! Vous décidez quelles informations sont pertinentes pour votre équipe commerciale. Votre équipe commerciale peut vouloir savoir quand un prospect :
 
@@ -51,7 +51,7 @@ C&#39;est à vous de décider ! Vous décidez quelles informations sont pertinen
 
 ## Comment cela peut-il devenir encore plus intéressant ?  {#how-can-this-get-even-more-interesting}
 
-Jetons ! Ajoutez-les dans le champ de description pour fournir à votre équipe commerciale des informations plus spécifiques, telles que l&#39;objet du courrier électronique que le prospect a ouvert ou qui l&#39;a envoyé. Consultez le glossaire [Tokens for intéressante Moments](tokens-for-interesting-moments.md) pour savoir quels jetons peuvent être utilisés.
+Jetons ! Ajoutez-les dans le champ de description pour fournir à votre équipe commerciale des informations plus spécifiques, telles que l&#39;objet du courrier électronique que le prospect a ouvert ou qui l&#39;a envoyé. Consultez le glossaire [Tokens for intéressante Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) pour savoir quels jetons peuvent être utilisés.
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ Jetons ! Ajoutez-les dans le champ de description pour fournir à votre équipe 
 
 ## A quoi ressemble un moment intéressant sur le marché ?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Les moments intéressants s&#39;afficheront dans un [journal d&#39;activité du prospect](../../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Les moments intéressants s&#39;afficheront dans un [journal d&#39;activité du prospect](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
 ## À quoi ressemble un moment intéressant dans Salesforce ?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Une fois que vous avez [installé l&#39;application Analyses de ventes marketing](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), des moments intéressants s&#39;affichent sur les pages de piste, de contact, de compte ou d&#39;opportunité. Elles apparaissent également dans le tableau de bord Sales Insight du flux de piste, des meilleurs résultats et de la Liste de contrôle.
+Une fois que vous avez [installé l&#39;application Analyses de ventes marketing](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), des moments intéressants s&#39;affichent sur les pages de piste, de contact, de compte ou d&#39;opportunité. Elles apparaissent également dans le tableau de bord Sales Insight du flux de piste, des meilleurs résultats et de la Liste de contrôle.
 
 ![](assets/six.png)
 
