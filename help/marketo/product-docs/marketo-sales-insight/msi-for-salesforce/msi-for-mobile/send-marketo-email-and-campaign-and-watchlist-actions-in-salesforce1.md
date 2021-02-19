@@ -3,7 +3,7 @@ unique-page-id: 7511931
 description: Envoyer un courrier électronique et des actions Campaign et Watchlist à Marketo dans Salesforce1 - Marketo Docs - Documentation du produit
 title: Envoyer un courrier électronique marketing et des actions Campaign et Watchlist dans Salesforce1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Quelles sont les campagnes intelligentes qui s&#39;affichent ? Ceux qui contiennent &quot;Campaign is Requested&quot; se déclenchent. Découvrez comment configurer une campagne déclenchée [à l&#39;aide de &quot;Campaign is Requested](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Quelles sont les campagnes intelligentes qui s&#39;affichent ? Ceux qui contiennent &quot;Campaign is Requested&quot; se déclenchent. Découvrez comment configurer une campagne déclenchée [à l&#39;aide de &quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Cool, maintenant vos vendeurs peuvent participer activement à l&#39;effort marketing.
 
@@ -39,4 +39,3 @@ Cool, maintenant vos vendeurs peuvent participer activement à l&#39;effort mark
 >
 >
 Soyez créatifs ! Qu&#39;est-ce que le vendeur aimerait automatiser ? Demandez-leur et branchez-le !
-
