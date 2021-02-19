@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: Avant de créer des notifications Push et des messages in-app - Documents marketing - Documentation du produit
 title: Avant de créer des notifications Push et des messages in-app
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,21 @@ ht-degree: 0%
 
 La création de notifications Push et de messages in-app n’est pas difficile, mais vous devez disposer de tous les éléments nécessaires pour pouvoir début. L’administrateur du marketing et le développeur d’applications mobiles doivent suivre les étapes ci-dessous pour préparer les intégrations nécessaires.
 
-1. Tout d’abord, l’administrateur marketing [ajoute une application mobile](add-a-mobile-app.md)
-1. L’administrateur du marketing envoie alors [un fragment de code au développeur](send-sdk-code-to-a-developer.md)
+1. Tout d’abord, l’administrateur marketing [ajoute une application mobile](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md).
+
+1. L’administrateur du marketing envoie alors [un fragment de code au développeur](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
+
 1. Le développeur télécharge le SDK et inclut un extrait de code et d’autres méthodes pour [Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) ou [iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/).
+
 1. Par défaut, les messages in-app sont déclenchés à l’ouverture de votre application. Si vous souhaitez déclencher des messages pour d’autres événements, par exemple lorsqu’une page spécifique est consultée ou qu’un bouton spécifique est appuyé, le développeur doit ajouter des événements personnalisés au code (voir [Événements personnalisés pour les messages in-app](#CustomEvents) ci-dessous).
+
 1. Le développeur [génère la clé d&#39;API du serveur et le numéro de projet pour Android](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) ou [la certification et le mot de passe pour iOS](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/) et l&#39;envoie à l&#39;administrateur du marketing.
-1. L’administrateur du marketing configure l’accès aux notifications Push [avec la clé d’API du serveur (Android)](configure-mobile-app-android-push-access.md) ou [avec le certificat (iOS)](configure-mobile-app-ios-push-access.md).
+
+1. L’administrateur du marketing configure l’accès aux notifications Push [avec la clé d’API du serveur (Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) ou [avec le certificat (iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
 
 >[!TIP]
 >
->Il est facile pour un administrateur de marketing de vérifier si votre configuration Push est vérifiée. Allez [ici](verify-push-configuration.md).
+>Il est facile pour un administrateur de marketing de vérifier si votre configuration Push est vérifiée. Allez [ici](/help/marketo/product-docs/mobile-marketing/admin/verify-push-configuration.md).
 
 ## Événements personnalisés pour les messages in-app {#custom-events-for-in-app-messages}
 
@@ -34,12 +39,8 @@ Après avoir effectué toute la préparation des messages in-app et des notifica
 
 >[!MORELIKETHIS]
 >
->* [Création d’un message intégré à l’application](https://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Création d’un message intégré à l’application](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
    >
    >
-* [Créer une notification Push](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
-
->
-
-
+* [Créer une notification Push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
