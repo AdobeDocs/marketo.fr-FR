@@ -3,7 +3,7 @@ unique-page-id: 11378845
 description: Ajouter des vidéos en tant que service LaunchPoint - Marketo Docs - Documentation sur les produits
 title: Ajouter des vidéos en tant que service LaunchPoint
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Vous pouvez envoyer des SMS aux personnes de vos listes Vibes et utiliser l&#39;
    Le nouveau service SMS s&#39;affiche désormais dans la liste Services installés.
 
    ![](assets/image2016-7-27-9-3a45-3a1.png)
-
