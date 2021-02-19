@@ -3,9 +3,9 @@ unique-page-id: 7512448
 description: Envoi du code du SDK à un développeur - Documents marketing - Documentation du produit
 title: Envoyer le code du SDK à un développeur
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Parfois, un administrateur doit envoyer du code SDK à un développeur.
 
 Voici comment vous le faites.
 
-1. Cliquez sur Admin.
+1. Cliquez sur **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Sélectionnez Applications mobiles.
+1. Sélectionnez **Applications mobiles**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -42,9 +42,8 @@ Voici comment vous le faites.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. Entrez une adresse électronique et cliquez sur **ENVOYER**.
+1. Entrez une adresse électronique et cliquez sur **Envoyer**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
    Le code du SDK sera désormais envoyé à votre développeur.
-
