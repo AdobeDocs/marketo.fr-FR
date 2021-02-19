@@ -3,7 +3,7 @@ unique-page-id: 11377640
 description: Autoriser le module externe Marketo Outlook - Documentation du marketing - Documentation du produit
 title: Autoriser le module externe Marketo Outlook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Pour utiliser le plug-in MSI Marketo dans Outlook, vous devez l&#39;autoriser.
 1. Si l&#39;adresse de courriel n&#39;est pas autorisée, vous recevrez ce courriel moins heureux. Contactez votre administrateur marketing pour résoudre le problème.
 
    ![](assets/image2016-8-24-16-3a25-3a27.png)
-
