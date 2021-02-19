@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: Installation du module externe Marketo Outlook par le service informatique - Docs Marketo - Documentation du produit
 title: Installation du module externe Marketo Outlook par le service informatique
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,36 @@ Parfois, les stratégies d’entreprise exigent que l’équipe informatique ins
 
 >[!PREREQUISITES]
 >
->[Définissez ](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) la clé d’entreprise.
+>[Définissez ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) la clé d’entreprise.
 
-Exécutez la ligne de commande suivante en tant que &quot;système&quot; ou compte utilisateur administratif avec le commutateur /i à installer.  `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
+Exécutez la ligne de commande suivante en tant que &quot;système&quot; ou compte utilisateur administratif avec le commutateur /i à installer.
+
+`<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >
 >**Exemple**
+>
 >`<pre>msiexec.exe /i MarketoAddInSetup64.msi /qn REG=ABC9-123y-WXYZ-4321</pre>`
 
-Pour le dépannage, vous pouvez activer la journalisation pour créer un fichier journal de sortie.  `<pre>msiexec.exe /i [File Name] /qn /L*v MarketoAddin.log REG=[Enterprise Key]</pre>`
+Pour le dépannage, vous pouvez activer la journalisation pour créer un fichier journal de sortie.
+
+`<pre>msiexec.exe /i [File Name] /qn /L*v MarketoAddin.log REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >
 >**Exemple**
+>
 >`<pre>msiexec.exe /i MarketoAddInSetup64.msi /qn /L*v MarketoAddin.log REG=ABC9-123y-WXYZ-4321</pre>`
 
-Pour spécifier l’emplacement des fichiers journaux, vous pouvez spécifier le chemin d’accès au fichier dans la ligne de commande.  `<pre>msiexec.exe /i [File Name] /qn /L*v [File Path]MarketoAddin.log REG=[Enterprise Key]</pre>`
+Pour spécifier l’emplacement des fichiers journaux, vous pouvez spécifier le chemin d’accès au fichier dans la ligne de commande.
+
+`<pre>msiexec.exe /i [File Name] /qn /L*v [File Path]MarketoAddin.log REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >
 >**Exemple**
+>
 >`<pre>msiexec.exe /i MarketoAddInSetup64.msi /qn /L*v C:\temp\MarketoAddin.log REG=ABC9-123y-WXYZ-4321</pre>`
 
 >[!CAUTION]
@@ -48,5 +57,4 @@ Veuillez consulter [la liste complète des commutateurs](https://support.microso
 
 >[!MORELIKETHIS]
 >
->[Désinstallation du module externe Marketo Outlook par le service informatique](marketo-outlook-plugin-uninstall-by-it.md)
-
+>[Désinstallation du module externe Marketo Outlook par le service informatique](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
