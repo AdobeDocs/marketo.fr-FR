@@ -3,7 +3,7 @@ unique-page-id: 2949279
 description: Mettez à niveau votre Ajoute électronique Marketo pour Outlook - Marketo Docs - Documentation du produit
 title: Mettre à niveau votre Ajoute de courriel Marketing to pour Outlook
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -119,7 +119,8 @@ Téléchargez le programme d&#39;installation approprié à votre version de Mic
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-   Cliquez sur Suivant.
+1. Cliquez sur **Suivant**.
+
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
@@ -138,7 +139,7 @@ Téléchargez le programme d&#39;installation approprié à votre version de Mic
    >
    >Si l’installation échoue, demandez à votre service informatique de veiller à ce que le trafic HTTPS ne soit pas bloqué. Le programme d’installation nécessite l’ouverture du trafic HTTPS.
 
-   Cliquez sur Suivant pour effectuer l’installation à l’emplacement par défaut.
+1. Cliquez sur **Suivant** pour installer à l’emplacement par défaut.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -156,10 +157,6 @@ Téléchargez le programme d&#39;installation approprié à votre version de Mic
 
 >[!MORELIKETHIS]
 >
->* [Envoi et suivi d&#39;un courriel avec l&#39;Ajoute de courriel Marketo pour Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Envoi et suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle de marketing](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Envoi et suivi d&#39;un courriel avec l&#39;Ajoute de courriel Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Envoi et suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle de marketing](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
