@@ -3,9 +3,9 @@ unique-page-id: 2359518
 description: Supprimer un extrait de code - Documents marketing - Documentation du produit
 title: Suppression d’un extrait de code
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Désapprouver un extrait de code](unapprove-a-snippet.md)
-
->
-
-
+>[Désapprouver un extrait de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
 
 Supprimez un fragment dont vous n&#39;avez plus besoin.
 
-1. Accédez à **Design Studio.**
+1. Accédez à **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
@@ -31,14 +27,11 @@ Supprimez un fragment dont vous n&#39;avez plus besoin.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. Cliquez sur **Supprimer **pour confirmer ou simplement **Annuler**.
+1. Cliquez sur **Supprimer** pour confirmer ou simplement **Annuler**.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 
    >[!NOTE]
-   >
-   >**Rappel**
-   >
    >
    >Vous pouvez uniquement supprimer un fragment de code non approuvé et non utilisé par des ressources.
 
