@@ -3,7 +3,7 @@ unique-page-id: 10100642
 description: Créer un texte de message intégré à l’application - Documents marketing - Documentation du produit
 title: Créer un texte de message intégré à l’application
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Cliquez sur la zone de texte pour travailler sur votre style de texte et votre c
    >
    >Une taille de texte trop importante peut pousser le contenu au-delà des trois lignes de texte visibles au maximum.
 
-1. Choisissez un style de type facultatif pour mettre l’accent : **Bold**, *Italic* ou Souligné.
+1. Choisissez un style de type facultatif pour mettre l’accent : **Bold**, _Italic_ ou Souligné.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -77,14 +77,10 @@ Cliquez sur la zone de texte pour travailler sur votre style de texte et votre c
 
    Les modifications apportées aux jetons utilisés dans un programme de messages in-app approuvé ne seront pas prises en compte dans le message in-app tant que le programme n’est pas suspendu, puis repris.
 
-Tu es dorée. Ensuite, vous devez [configurer votre bouton de message in-app](set-up-the-in-app-message-button.md).
+Tu es dorée. Ensuite, vous devez [configurer votre bouton de message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
->* [Présentation des messages in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Choisir une mise en page pour votre message intégré](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [Présentation des messages in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Choisir une mise en page pour votre message intégré](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
