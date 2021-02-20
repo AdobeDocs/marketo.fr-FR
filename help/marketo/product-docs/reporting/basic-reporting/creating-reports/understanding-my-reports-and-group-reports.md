@@ -3,7 +3,7 @@ unique-page-id: 7511725
 description: Présentation de mes rapports et rapports de groupe - Documents marketing - Documentation du produit
 title: Présentation de mes rapports et rapports de groupe
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présentation de mes rapports et des rapports de groupe {#understanding-my-reports-and-group-reports}
 
-Vous pouvez créer des **Mes rapports **et des **Rapports de groupe **à partir de la [Page d’accueil d’Analytics](navigating-the-analytics-home-page.md).
+Vous pouvez créer **Mes rapports** et **Rapports de groupe** à partir de la [Page d’accueil d’Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
 
 **Mes** rapports ne sont visibles que pour vous.
 
@@ -21,16 +21,12 @@ Vous pouvez créer des **Mes rapports **et des **Rapports de groupe **à partir 
 
 >[!NOTE]
 >
->Chaque espace de travail comporte un ensemble de **Mes rapports **et **Rapports du groupe**.
+>Chaque espace de travail comporte un ensemble de **rapports Mes** et **rapports Groupe**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
 >[!MORELIKETHIS]
 >
->* [Enregistrer un rapport](save-a-report.md)
->* [Cloner un rapport pour regrouper des rapports](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
-
->
-
-
+>* [Enregistrer un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
+>* [Cloner un rapport pour regrouper des rapports](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
 
