@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: Priorité de l’ordre de segmentation - Documents marketing - Documentation du produit
 title: Priorité de l’ordre de segmentation
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,8 @@ Il est important de comprendre comment **order** définit la priorité pour l&#3
 
 >[!PREREQUISITES]
 >
->* [Création d’une segmentation](create-a-segmentation.md)
->* [Définir des règles de segment](define-segment-rules.md)
-
->
-
-
+>[Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[Définir des règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 1. Accédez à la **base de données**.
 
@@ -37,6 +33,7 @@ Il est important de comprendre comment **order** définit la priorité pour l&#3
    >Vous pouvez uniquement modifier un brouillon de votre segmentation.
 
    Cet écran vous permet de vérifier ou de modifier l’ordre de vos segments.
+
    ![](assets/image2014-9-16-10-3a12-3a3.png)
 
 >[!NOTE]
@@ -45,9 +42,5 @@ Il est important de comprendre comment **order** définit la priorité pour l&#3
 >* Lorsqu&#39;une personne est admissible pour deux segments, elle n&#39;appartient qu&#39;au premier de la liste.
 >* Si une personne ne remplit pas les conditions requises pour un segment, elle devient membre du segment par défaut.
 
->
 
-
-
-Cool, hein ? Vous pouvez utiliser des segments pour le contenu dynamique, [rapports](https://docs.marketo.com/display/docs/basic+reporting) et même dans [les listes dynamiques](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
+Cool, hein ? Vous pouvez utiliser des segments pour le contenu, le rapports et même dans les listes dynamiques.
