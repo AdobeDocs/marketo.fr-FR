@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: Utiliser des messages SMS de vibes dans les déclencheurs et Filtres de Liste intelligente - Docs marketing - Documentation du produit
 title: Utiliser des messages SMS de vidéos dans les déclencheurs et Filtres de Liste intelligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utiliser des messages SMS de vidéos dans les déclencheurs et Filtres de Liste intelligente {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Après avoir [créé un message SMS Vibes](create-a-vibes-sms-message.md), vous souhaiterez utiliser des déclencheurs et des filtres de liste intelligents dans une campagne intelligente pour en tirer les avantages. Voici comment.
+Après avoir [créé un message SMS Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md), vous souhaiterez utiliser des déclencheurs et des filtres de liste intelligents dans une campagne intelligente pour en tirer les avantages. Voici comment.
 
 1. Dans Mon marketing, cliquez sur **Activités marketing**.
 
@@ -29,7 +29,7 @@ D&#39;autres déclencheurs SMS sont disponibles. Les déclencheurs SMS s’affic
 
 ![](assets/new-sms-search2.png)
 
-Voici quelques exemples.
+En voici quelques exemples :
 
 Le déclencheur Rebonds de message SMS déclenche un flux, tel que l&#39;envoi d&#39;un courriel, lorsqu&#39;un message SMS rebondit.
 
@@ -39,7 +39,7 @@ Le déclencheur **S&#39;abonne à la Liste Vibes** déclenche un flux lorsqu&#39
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-Le déclencheur** Clics sur le lien dans le message SMS** lance un flux lorsqu&#39;une personne clique sur un lien dans le message SMS.
+Le déclencheur **Lien de clics dans Message SMS** lance un flux lorsqu&#39;une personne clique sur un lien dans le message SMS.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
@@ -49,7 +49,7 @@ Vous pouvez également utiliser des filtres Vibes dans des listes dynamiques. Le
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-En revanche, le **Membre de la Liste Vibes **filter** **trouve** **n&#39;importe qui** ***actuellement* abonné à Vibes et est le plus adapté pour une utilisation dans des campagnes ou des listes intelligentes.
+En revanche, le filtre **Membre de la Liste Vibes** détecte _toute personne_ actuellement abonnée à Vibes et convient le mieux à une utilisation dans des campagnes ou des listes intelligentes.
 
 ![](assets/image001.png)
 
@@ -57,15 +57,10 @@ En revanche, le **Membre de la Liste Vibes **filter** **trouve** **n&#39;importe
 >
 >Tous les filtres SMS incluent par défaut la contrainte **Date d&#39;Activité**.
 
-Après avoir configuré des déclencheurs et des filtres de vidéos dans votre liste dynamique, vous pouvez [définir le flux](add-a-flow-step-for-sms.md).
+Après avoir configuré des déclencheurs et des filtres de vidéos dans votre liste dynamique, vous pouvez [définir le flux](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 
 >[!MORELIKETHIS]
 >
->* [Définir une Liste intelligente pour une Campaign intelligente | Déclencheur](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Rechercher et Ajouter des Filtres à une Liste intelligente](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Ajouter une étape de flux pour SMS](add-a-flow-step-for-sms.md)
-
->
-
-
+>* [Définir une Liste intelligente pour une Campaign intelligente | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Rechercher et Ajouter des Filtres à une Liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
