@@ -3,7 +3,7 @@ unique-page-id: 8783141
 description: Envoyer un exemple de notification Push - Documents marketing - Documentation du produit
 title: Envoyer un exemple de notification Push
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -25,7 +25,8 @@ Vous pouvez envoyer un exemple pour vérifier que votre notification Push foncti
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Ou, dans le menu Actions de notification Push, cliquez sur **Envoyer l’échantillon**.\
+   Ou, dans le menu Actions de notification Push, cliquez sur **Envoyer l’échantillon**.
+
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
    Ou, dans l’éditeur de notifications Push, cliquez sur **Envoyer l’exemple**.
@@ -36,7 +37,7 @@ Vous pouvez envoyer un exemple pour vérifier que votre notification Push foncti
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Ou cliquez sur **Ajouter le périphérique** à [ajouter un nouveau périphérique de test](adding-a-new-test-device.md) pour envoyer l’exemple à &lt;a2/>.
+   Ou cliquez sur **Ajouter le périphérique** à [ajouter un nouveau périphérique de test](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) pour envoyer l’exemple à .
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
@@ -46,7 +47,7 @@ Vous pouvez envoyer un exemple pour vérifier que votre notification Push foncti
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Ou, avec la deuxième option, cliquez sur le **Scan QR code with device **button et analysez le code QR avec votre périphérique. Lorsque l’état affiche la connexion, cliquez sur **Envoyer**.
+   Ou, avec la deuxième option, cliquez sur le bouton **Analyser le code QR avec le périphérique** et analysez le code QR avec votre périphérique. Lorsque l’état affiche la connexion, cliquez sur **Envoyer**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
@@ -54,19 +55,9 @@ Vous pouvez envoyer un exemple pour vérifier que votre notification Push foncti
    >
    >Avez-vous bien ajouté un périphérique de test, mais ne le voyez pas répertorié dans le champ **Envoyer à** ? Pour résoudre les problèmes, vérifiez les points suivants :
    >
-   >    
-   >    
-   >    * Les notifications Push sont activées pour l’application associée à la notification Push.
-      >    
-      >    
+   >* Les notifications Push sont activées pour l’application associée à la notification Push.
       >
-      >    
-      >    
-      >    
-
-
-
-
+      >
    * La notification Push est configurée pour la plate-forme de votre périphérique de test. Par exemple, si vous venez d’ajouter un iPhone comme périphérique de test, assurez-vous que la notification Push est activée pour iOS.
 
 
