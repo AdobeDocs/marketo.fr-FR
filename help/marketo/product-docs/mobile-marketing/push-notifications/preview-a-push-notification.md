@@ -3,7 +3,7 @@ unique-page-id: 10092730
 description: Prévisualisation d’une notification Push - Documentation marketing - Documentation du produit
 title: Prévisualisation d’une notification Push
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Il est facile de prévisualisation à quoi ressemblera votre notification Push, que ce soit pour Android ou iOS. Il y a quatre façons de le faire.
 
-Dans l’arborescence de navigation, cliquez avec le bouton droit de la souris sur le fichier correspondant à la notification à prévisualisation et cliquez sur **Prévisualisation**.
+Dans l’arborescence de navigation, cliquez avec le bouton droit sur le fichier correspondant à la notification à prévisualisation et cliquez sur **Prévisualisation**.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Dans l’arborescence de navigation, cliquez avec le bouton droit de la souris s
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Ou, sur la page vue de notifications Push, cliquez sur **Actions de notifications Push**, puis sur **Prévisualisation**. Ou cliquez sur **Prévisualisation **à l’extrême droite.** **
+Ou, sur la page vue de notifications Push, cliquez sur **Actions de notifications Push**, puis sur **Prévisualisation**. Ou cliquez sur **Prévisualisation** à l’extrémité droite.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
@@ -67,10 +67,6 @@ Ainsi, avec la prévisualisation de notification Push, vous savez toujours ce qu
 
 >[!MORELIKETHIS]
 >
->* [Créer une notification Push](create-a-push-notification.md)
->* [Configuration de la notification Push mobile](configure-mobile-push-notification.md)
-
->
-
-
+>* [Créer une notification Push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [Configuration de la notification Push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 
