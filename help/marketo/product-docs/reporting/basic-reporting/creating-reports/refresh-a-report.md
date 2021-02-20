@@ -3,7 +3,7 @@ unique-page-id: 5472328
 description: Actualiser un rapport - Documents marketing - Documentation du produit
 title: Actualiser un rapport
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Après avoir consulté un rapport, Marketo le stocke dans votre base de données
    ![](assets/three.png)
 
    Voilà !
-
