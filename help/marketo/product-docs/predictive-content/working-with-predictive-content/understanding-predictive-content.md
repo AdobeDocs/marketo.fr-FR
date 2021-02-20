@@ -3,19 +3,15 @@ unique-page-id: 11384665
 description: Présentation du contenu prédictif - Documents marketing - Documentation du produit
 title: Présentation du contenu prédictif
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
 
 # Présentation du contenu prédictif {#understanding-predictive-content}
-
->[!NOTE]
->
->Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 Après avoir [approuvé un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), vous y travaillez ici. La page Contenu prédictif affiche tous les titres que vous avez approuvés pour le contenu prédictif.
 
@@ -58,7 +54,7 @@ Le filtrage des analyses de contenu activées vous permet de voir les performanc
 
 ## Données de la table de vues pour le contenu prédictif {#view-table-data-for-predictive-content}
 
-Dans le tableau, vous pouvez vue quelles sources sont activées pour le contenu prédictif, de gauche à droite : Barre de recommandations, courrier électronique et média enrichi. Les sources activées sont affichées en vert. Vous les activez lorsque vous [modifiez le contenu](https://docs.marketo.com/display/docs/edit+predictive+content).
+Dans le tableau, vous pouvez vue quelles sources sont activées pour le contenu prédictif, de gauche à droite : Barre de recommandations, courrier électronique et média enrichi. Les sources activées sont affichées en vert. Vous les activez lorsque vous modifiez le contenu.
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -75,9 +71,3 @@ Passez la souris sur la barre de la colonne Taux de conversion sur le taux de co
 >**Conversion** directe : Visiteurs ayant cliqué sur le contenu recommandé et rempli un formulaire au cours de la même visite
 >
 >**En cliquant sur** : Nombre total de clics sur le contenu recommandé (y compris les trois sources)
-
->[!MORELIKETHIS]
->
->* [Contenu prédictif](https://docs.marketo.com/display/docs/predictive+content)
->* [Modifier le contenu prédictif](https://docs.marketo.com/display/docs/edit+predictive+content)
-
