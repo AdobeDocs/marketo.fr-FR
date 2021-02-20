@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: Présentation de tout le contenu - Documents marketing - Documentation du produit
 title: Comprendre tout le contenu
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # Présentation de tout le contenu {#understanding-all-content}
 
->[!NOTE]
->
->Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
+La page Tout le contenu affiche tout le contenu qui a été découvert ou ajouté manuellement.
 
-La page Tout le contenu affiche tout le contenu qui a été découvert ou ajouté manuellement.   ![](assets/image2017-10-3-9-3a4-3a56.png)
+![](assets/image2017-10-3-9-3a4-3a56.png)
 
 Les champs de la page sont les suivants :
 
@@ -52,12 +50,8 @@ Filtrez le contenu en sélectionnant une ou plusieurs catégories. Ensuite, conf
 
 >[!MORELIKETHIS]
 >
->* [Ajouter un nouveau contenu](add-new-content.md)
->* [Supprimer du contenu](delete-content.md)
->* [Approbation d’un titre pour le contenu prédictif](approve-a-title-for-predictive-content.md)
->* [Désapprobation d’un titre pour un contenu prédictif](unapprove-a-title-for-predictive-content.md)
-
->
-
-
+>* [Ajouter un nouveau contenu](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [Supprimer du contenu](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Désapprobation d’un titre pour un contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
 
