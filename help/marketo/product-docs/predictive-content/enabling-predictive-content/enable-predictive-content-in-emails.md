@@ -3,9 +3,9 @@ unique-page-id: 11385020
 description: Activer le contenu prédictif dans les courriels - Documents marketing - Documentation du produit
 title: Activer le contenu prédictif dans les courriers électroniques
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,15 @@ Créez une ou plusieurs images prédictives dans votre message électronique, en
 
 >[!PREREQUISITES]
 >
->Avant d’activer le contenu prédictif. vous devez :
+>Avant d’activer le contenu prédictif, vous devez :
 >
->* [Préparation du contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+>* **Préparation du contenu prédictif**
+   >
+   >   
+   * [Modifier le contenu prédictif pour les ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) emails
+   >   * [Modifier le contenu prédictif pour le ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) média enrichi
+   >   * [Modifier le contenu prédictif pour la barre de recommandations](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -37,7 +43,7 @@ Créez une ou plusieurs images prédictives dans votre message électronique, en
 
    ![](assets/two.png)
 
-1. Cliquez sur l’image à rendre prédictive. Lorsque l’icône représentant un engrenage apparaît, cliquez dessus et sélectionnez **Activer le contenu`AI`** (Content`AI` est l’ancien nom de Contenu prédictif).
+1. Cliquez sur l’image à rendre prédictive. Lorsque l’icône d’engrenage apparaît, cliquez dessus et sélectionnez **Activer ContentAI** (ContentAI est l’ancien nom de Contenu prédictif).
 
    ![](assets/three.png)
 
