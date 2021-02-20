@@ -3,9 +3,9 @@ unique-page-id: 2359496
 description: Ajouter du contenu à un extrait de code - Documents marketing - Documentation du produit
 title: Ajouter du contenu à un extrait de code
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Création d’un extrait de code](create-a-snippet.md)
+>[Création d’un extrait de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 Vous pouvez ajouter des jetons, des images, des fichiers ou du texte enrichi à un extrait de code.
 
@@ -23,7 +23,7 @@ Vous pouvez ajouter des jetons, des images, des fichiers ou du texte enrichi à 
 >
 >Vous ne pouvez pas incorporer de [syntaxe d’e-mail marketing](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) dans les fragments ; **ne fonctionne pas** dans un courrier électronique. Les extraits de code doivent être simplement du contenu du corps (HTML + TEXTE).
 
-1. Accédez à **Design Studio.**
+1. Accédez à **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
@@ -51,7 +51,7 @@ Vous pouvez ajouter trois types de contenu à un extrait de code.
 
    >[!NOTE]
    >
-   >Vous pouvez ajouter vos propres images ou fichiers à Marketing Cloud. En savoir plus sur [les images et les fichiers](https://docs.marketo.com/display/docs/images+and+files).
+   >Vous pouvez ajouter vos propres images ou fichiers à Marketing Cloud. En savoir plus sur [les images et les fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
 1. Sélectionnez l&#39;**image** à utiliser, puis cliquez sur **Insérer**.
 
@@ -87,6 +87,6 @@ Cool ! Vous pouvez désormais créer divers contenus pour votre extrait de code.
 
 >[!MORELIKETHIS]
 >
->* [Prévisualisation d’un extrait de code](preview-a-snippet.md)
->* [Approbation d’un extrait de code](approve-a-snippet.md)
+>* [Prévisualisation d’un extrait de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [Approbation d’un extrait de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
 
