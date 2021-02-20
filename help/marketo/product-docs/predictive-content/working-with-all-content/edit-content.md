@@ -3,7 +3,7 @@ unique-page-id: 11384653
 description: Modifier le contenu - Documents marketing - Documentation du produit
 title: Modifier le contenu
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Vous pouvez apporter des modifications aux listes de la page Tout le contenu.
 1. Cochez la case **Approuver pour le contenu prédictif** pour approuver ou décochez la case pour désapprouver. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/edit-content-4.png)
-
