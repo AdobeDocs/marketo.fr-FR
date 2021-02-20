@@ -3,9 +3,9 @@ unique-page-id: 2359963
 description: Créer un rapport dans un Programme - Documents marketing - Documentation du produit
 title: Création d’un rapport dans un Programme
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 0%
 Exécutez un rapport pour analyser les personnes, vos programmes, landings page, courriels et ressources sociales.
 
 1. Accédez à **Activités marketing**.
-1. ![](assets/login-marketing-activities.png)
+
+   ![](assets/login-marketing-activities.png)
 
 1. Sélectionnez un programme.
 
@@ -26,7 +27,7 @@ Exécutez un rapport pour analyser les personnes, vos programmes, landings page,
    >
    >Vous pouvez également créer des rapports à partir de l’onglet **Analytics**.
 
-   Cliquez avec le bouton droit sur le programme et sélectionnez Nouveau fichier local.
+1. Cliquez avec le bouton droit sur le programme et sélectionnez **Nouveau fichier local**.
 
    ![](assets/programrightclick-asset.png)
 
@@ -40,9 +41,9 @@ Exécutez un rapport pour analyser les personnes, vos programmes, landings page,
 
    >[!TIP]
    >
-   >Voir [`Report Type Overview`](https://docs.marketo.com/display/DOCS/Report+Type+Overview) pour une brève description de chacun.
+   >Voir [Présentation du type de rapport](https://docs.marketo.com/display/DOCS/Report+Type+Overview) pour une brève description de chacun.
 
-   Nommez votre rapport.
+1. Nommez votre rapport.
 
    ![](assets/namereport.png)
 
@@ -50,7 +51,7 @@ Exécutez un rapport pour analyser les personnes, vos programmes, landings page,
    >
    >Pour faciliter la navigation dans les rapports ultérieurement, ajoutez une référence au type de rapport dans le nom.
 
-   Définissez la période du rapport. Voir [Modification de la période d’un rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) pour plus d’informations.
+1. Définissez la période du rapport. Voir [Modification de la période d’un rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) pour plus d’informations.
 
 1. Cliquez sur l&#39;onglet **Rapport** pour afficher vos statistiques.
 
@@ -58,21 +59,12 @@ Exécutez un rapport pour analyser les personnes, vos programmes, landings page,
 
    >[!NOTE]
    >
-   >**Plongée profonde**
-   >
-   >
-   >Par défaut, les rapports couvrent l’ensemble des activités de votre compte, d’un programme à l’autre. Pour découvrir les nombreuses méthodes de filtrage de votre rapport, consultez la plongée profonde [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
+   >Par défaut, les rapports couvrent l’ensemble des activités de votre compte, d’un programme à l’autre.
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
-   >Vous pouvez rapidement obtenir de nombreux rapports. N&#39;oubliez pas de [supprimer un rapport](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) dont vous n&#39;avez plus besoin.
+   >Vous pouvez rapidement obtenir de nombreux rapports. N&#39;oubliez pas de [supprimer un rapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) dont vous n&#39;avez plus besoin.
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Vous pouvez [modifier une période de rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [vous abonner à un rapport de base](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exporter un rapport vers Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrer les personnes dans un rapport avec une liste intelligente](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) et [plus](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Vous pouvez [modifier la période d’un rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [vous abonner à un rapport de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exporter un rapport vers Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrer les personnes dans un rapport avec une liste intelligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), etc.
