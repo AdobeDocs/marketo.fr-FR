@@ -3,9 +3,9 @@ unique-page-id: 14745750
 description: Paramètres d’objectif d’algorithme - Documents marketing - Documentation du produit
 title: Paramètres de l’objectif d’algorithme
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ Les paramètres d’objectif de l’algorithme vous permettent de définir l’o
 
    ![](assets/three-new.png)
 
-   | **`Clicks`** | Affichez le contenu le plus susceptible de faire cliquer sur celui-ci |
+   | **Clics** | Affichez le contenu le plus susceptible de faire cliquer sur celui-ci |
    |---|---|
-   | **`Conversions`** | Afficher le contenu de manière à ce que la personne qui consulte le contenu envoie un formulaire |
+   | **Conversions** | Afficher le contenu de manière à ce que la personne qui consulte le contenu envoie un formulaire |
 
 1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/four.png)
-
