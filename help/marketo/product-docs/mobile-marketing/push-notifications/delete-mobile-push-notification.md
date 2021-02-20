@@ -3,7 +3,7 @@ unique-page-id: 7512463
 description: Supprimer la notification Push mobile - Documents marketing - Documentation du produit
 title: Supprimer la notification Push mobile
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Supprimer la notification Push mobile {#delete-mobile-push-notification}
 
-1. Accédez à la zone Activités marketing.
+1. Accédez à la zone **Activités marketing**.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -25,11 +25,10 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-   Confirmez en cliquant sur DELETE.
+1. Confirmez en cliquant sur **Supprimer**.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 
    >[!NOTE]
    >
    >Si la notification Push mobile est utilisée par d&#39;autres ressources, vous ne serez pas autorisé à la supprimer. Vous devez aller le retirer des ressources.
-
