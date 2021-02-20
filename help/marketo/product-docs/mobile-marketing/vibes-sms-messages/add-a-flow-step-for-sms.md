@@ -3,7 +3,7 @@ unique-page-id: 11379045
 description: Ajouter une étape de flux pour SMS - Documents marketing - Documentation du produit
 title: Ajouter une étape de flux pour SMS
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -26,11 +26,8 @@ Marketo comprend trois étapes de flux que vous pouvez utiliser dans vos campagn
 >* Le marketing déduplique par numéro de téléphone. Ainsi, si plusieurs personnes ont le même numéro de téléphone, une seule personne recevra le message.
 >* Le marketing n’est pas envoyé aux personnes qui sont placées sur la liste bloquée ou dont le marketing est suspendu.
 
->
 
-
-
-Pour des informations générales sur la configuration des étapes de flux, voir [Ajouter une étape de flux à une Campaign dynamique](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+Pour des informations générales sur la configuration des étapes de flux, voir [Ajouter une étape de flux à une Campaign dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 
 Voici les bases de l&#39;utilisation des SMS.
 
@@ -50,6 +47,4 @@ Voici les bases de l&#39;utilisation des SMS.
    >
    >Le sélecteur de Liste Vibes agit comme un filtre supplémentaire vers l&#39;audience déjà identifiée dans la liste intelligente pour cible uniquement les pistes qui appartiennent à cette liste Vibes.
    >
-   >
    >Les flux **S’abonner à la Liste Vibes** et **Se désabonner de la Liste Vibes** ont des exigences différentes. Pour **S’abonner**, vous devez sélectionner la liste Vibes et la campagne d’acquisition Vibes. Pour **Se désabonner**, seule la liste Vibes est requise.
-
