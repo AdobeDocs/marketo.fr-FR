@@ -3,7 +3,7 @@ unique-page-id: 2359516
 description: Désapprobation d’un extrait de code - Documents marketing - Documentation du produit
 title: Désapprouver un extrait de code
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Un extrait de code non approuvé ne peut pas être utilisé dans des courriers électroniques ou des landings page.
 
-1. Accédez à **Design Studio.**
+1. Accédez à **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
@@ -30,4 +30,3 @@ Un extrait de code non approuvé ne peut pas être utilisé dans des courriers �
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
 C&#39;est tout ! Votre extrait de code est maintenant en état de brouillon pour que vous puissiez le modifier ou le supprimer.
-
