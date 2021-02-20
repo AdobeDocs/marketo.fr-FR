@@ -3,7 +3,7 @@ unique-page-id: 2359459
 description: Création d’un extrait de code - Documents marketing - Documentation du produit
 title: Création d’un extrait de code
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Créer un extrait de code {#create-a-snippet}
 
-Les extraits de code peuvent être utilisés comme blocs de contenu dynamiques sur les **landings page** et **e-mails.**
+Les extraits de code peuvent être utilisés comme blocs de contenu dynamique sur les **landings page** et ****.
 
 1. Accédez à **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Cliquez sur **Nouveau **puis sur **Nouvel extrait de code**.
+1. Cliquez sur **New**, puis sur **New Snippet**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
@@ -27,14 +27,10 @@ Les extraits de code peuvent être utilisés comme blocs de contenu dynamiques s
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Bon travail ! Simplifiez votre travail en créant des extraits de code pour votre contenu dynamique. Vous pouvez maintenant aller de l&#39;avant et [ajouter du contenu à votre nouveau fragment](add-content-to-a-snippet.md).
+Bon travail ! Simplifiez votre travail en créant des extraits de code pour votre contenu dynamique. Vous pouvez maintenant aller de l&#39;avant et [ajouter du contenu à votre nouveau fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
->* [Ajouter du contenu à un extrait de code](add-content-to-a-snippet.md)
->* [Compréhension du contenu dynamique](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
-
->
-
-
+>* [Ajouter du contenu à un extrait de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>* [Compréhension du contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
 
