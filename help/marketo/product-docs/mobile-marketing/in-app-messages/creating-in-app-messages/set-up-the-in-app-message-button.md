@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: Configuration du bouton de message intégré à l’application - Documents marketing - Documentation du produit
 title: Configuration du bouton Message intégré à l’application
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Vous pouvez utiliser la conception de bouton par défaut, la modifier ou téléc
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Choisissez le style de police à mettre en évidence : **Bold**, *Italic* ou Souligné.
+1. Choisissez le style de police à mettre en évidence : **Bold**, _Italic_ ou Souligné.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -63,27 +63,18 @@ Vous pouvez utiliser la conception de bouton par défaut, la modifier ou téléc
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
-   Cliquez sur la liste déroulante de chaque plate-forme et sélectionnez une action de clic.
+1. Cliquez sur la liste déroulante de chaque plate-forme et sélectionnez une action de clic.
 
    ![](assets/image2016-5-6-16-3a49-3a40.png)
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >Le bouton comporte toujours une action de clic, de sorte que la case à cocher Action de clic est automatiquement cochée, avec le message par défaut &quot;Message d’annulation&quot;.
 
-   [configurer l’arrière-plan de votre message in-app et le bouton d’annulation](set-up-the-in-app-message-background.md)
-
-Presque là. Votre dernière étape est de .
+Presque là. Votre dernière étape consiste à [configurer l’arrière-plan de votre message in-app et à ignorer le bouton](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
->* [Présentation des messages in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Choisir une mise en page pour votre message intégré](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [Présentation des messages in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Choisir une mise en page pour votre message intégré](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
