@@ -3,7 +3,7 @@ unique-page-id: 7511980
 description: Enregistrer un rapport - Documents marketing - Documentation du produit
 title: Enregistrer un rapport
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -16,13 +16,14 @@ ht-degree: 0%
 Vous devrez peut-être enregistrer un rapport par défaut à nouveau en vue ultérieurement. Voici comment vous pouvez faire cela :
 
 1. Accédez à la zone **Analytics**.
-1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Sélectionnez un [type de rapport](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+   ![](assets/image2015-4-30-11-3a50-3a5.png)
+
+1. Sélectionnez un [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. Cliquez sur **Actions du rapport **et sélectionnez **Enregistrer sous**.
+1. Cliquez sur **Actions du rapport** et sélectionnez **Enregistrer sous**.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
@@ -40,5 +41,4 @@ Vous devrez peut-être enregistrer un rapport par défaut à nouveau en vue ult�
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [cloner un rapport pour regrouper les rapports](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
-
+>Découvrez comment [cloner un rapport pour regrouper les rapports](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
