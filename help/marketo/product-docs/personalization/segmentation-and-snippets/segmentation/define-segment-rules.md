@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Définir des règles de segment - Documents marketing - Documentation du produit
 title: Définir des règles de segment
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ La définition de règles de segmentation vous permet de classer vos personnes e
 
 >[!PREREQUISITES]
 >
->[Création d’une segmentation](create-a-segmentation.md)
+>[Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 1. Accédez à la **base de données.**
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. Cliquez sur la **Segmentation **de l&#39;arborescence, puis cliquez sur un **Segment** particulier.
+1. Cliquez sur **Segmentation** dans l&#39;arborescence, puis cliquez sur un **Segment** particulier.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
@@ -33,7 +33,7 @@ La définition de règles de segmentation vous permet de classer vos personnes e
 
    >[!CAUTION]
    >
-   >Actuellement, les segments ne prennent pas en charge les opérateurs *Dans le passé* et *Dans la période *dans les filtres. En effet, les segments ne recherchent les mises à jour que lorsqu’une valeur de modification est enregistrée. Ces valeurs sont *non* enregistrées pour les éléments qui changent automatiquement, tels que les champs de formule et les dates. En outre, les opérateurs de dates avec des plages de dates relatives ne sont pas pris en charge car ils sont calculés au moment de l’approbation de la segmentation et non au moment de l’activité Modifier la valeur des données.
+   >Les segments ne prennent actuellement pas en charge les opérateurs _Dans le passé_ et _Dans la période_ sur les filtres. En effet, les segments ne recherchent les mises à jour que lorsqu’une valeur de modification est enregistrée. Ces valeurs sont _non_ enregistrées pour les éléments qui changent automatiquement, tels que les champs de formule et les dates. En outre, les opérateurs de dates avec des plages de dates relatives ne sont pas pris en charge car ils sont calculés au moment de l’approbation de la segmentation et non au moment de l’activité Modifier la valeur des données.
 
    >[!NOTE]
    >
@@ -45,12 +45,9 @@ La définition de règles de segmentation vous permet de classer vos personnes e
 
    >[!NOTE]
    >
-   >**Plongée profonde**
-   >
-   >
-   >Les Listes intelligentes sont géniales. Découvrez tout ce que vous pouvez faire avec [Listes dynamiques et Listes statiques](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Les Listes intelligentes sont géniales. [En savoir plus sur eux](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md).
 
-1. Cliquez sur l&#39;onglet **Personnes (brouillon)** pour vue les personnes qui peuvent être admissibles pour être membres de ce segment.
+1. Cliquez sur l&#39;onglet **Personnes (brouillon)** pour vue les personnes qui peuvent être qualifiées pour être membres de ce segment.
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
@@ -62,7 +59,6 @@ La définition de règles de segmentation vous permet de classer vos personnes e
    >
    >Le nombre total de segments que vous pouvez créer dans une segmentation dépend du nombre et du type de filtres utilisés, ainsi que de la complexité de la logique de vos segments. Bien que vous puissiez créer jusqu’à 100 segments à l’aide de champs standard, l’utilisation d’autres types de filtres peut accroître la complexité et votre segmentation peut ne pas être approuvée. Voici quelques exemples : champs personnalisés, membre de la liste, champs de propriétaire de piste et étapes de recettes.
    >
-   >
    >Si vous recevez un message d’erreur lors de l’approbation et que vous avez besoin d’aide pour réduire la complexité de votre segmentation, contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Consultez le tableau de bord pour obtenir un aperçu rapide de vos segments dans un graphique circulaire, ainsi que les règles appliquées.
@@ -73,19 +69,12 @@ Bon travail ! Ces segments seront utiles dans beaucoup d&#39;endroits du marché
 
 >[!NOTE]
 >
->Une personne peut être admissible pour différents segments, mais appartient en fin de compte à un seul segment qui dépend de l&#39;ordre de priorité [des segments](segmentation-order-priority.md).
+>Une personne peut être admissible pour différents segments, mais appartient en fin de compte à un seul segment qui dépend de l&#39;ordre de priorité [des segments](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
 
 >[!NOTE]
->
->**Rappel**
 >
 >L’écran Personnes (brouillon) affiche toutes les personnes qui remplissent les conditions requises pour devenir membre et qui ne sont pas toujours la liste finale des personnes. Approuvez votre segment pour afficher la liste finale.
 
 >[!MORELIKETHIS]
 >
->* [Approbation d’une segmentation](approve-a-segmentation.md)
-
->
-
-
-
+>[Approbation d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
