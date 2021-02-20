@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: Modifier une segmentation - Documents marketing - Documentation du produit
 title: Modification d’une segmentation
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Il est facile d’apporter des modifications à vos segments existants. Voici le
 
    ![](assets/two.png)
 
-1. Le **Statut **change pour Approuvé avec brouillon. Un **dossier Brouillon **est créé dans votre segmentation.
+1. Le **statut** passe à Approuvé avec brouillon. Un dossier **Draft** est créé dans votre segmentation.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ Il est facile d’apporter des modifications à vos segments existants. Voici le
    >
    >Vous pouvez uniquement modifier les segments d’un brouillon et non la segmentation approuvée.
 
-1. **Ajoutez Segment**, **Modifier **existant (renommer ou modifier l’ordre) ou **Supprimer **tout segment.
+1. **Ajoutez Segment**,  **** Modifiez existant (renommez ou modifiez l’ordre) ou  **** supprimez des segments.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -53,7 +53,7 @@ Il est facile d’apporter des modifications à vos segments existants. Voici le
 
 ## Modifier les règles de segment {#edit-segment-rules}
 
-1. Dans votre brouillon **Segment**, accédez à **Liste dynamique**. Appliquez des règles similaires à [Définition de règles de segment](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
+1. Dans votre brouillon **Segment**, accédez à **Liste dynamique**. Appliquez des règles similaires à [Définition de règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -63,18 +63,10 @@ Il est facile d’apporter des modifications à vos segments existants. Voici le
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >N’oubliez pas d’approuver votre brouillon de segmentation.
 
 N’hésitez pas à tester les segmentations qui ne sont pas utilisées dans le contenu dynamique.
 
 >[!MORELIKETHIS]
 >
->* [Suppression d’une segmentation](delete-a-segmentation.md)
-
->
-
-
-
+>[Suppression d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
