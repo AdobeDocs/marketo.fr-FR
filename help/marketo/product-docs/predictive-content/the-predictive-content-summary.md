@@ -3,19 +3,15 @@ unique-page-id: 11384634
 description: Résumé du contenu prédictif - Documents marketing - Documentation du produit
 title: Résumé du contenu prédictif
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 
 # Résumé du contenu prédictif {#the-predictive-content-summary}
-
->[!NOTE]
->
->Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 Le résumé du contenu prédictif affiche en un coup d’oeil les informations dont vous avez besoin sur votre contenu prédictif, avec des tableaux, des graphiques et des chiffres actuels.
 
@@ -52,13 +48,3 @@ Quelles sont les catégories de contenu les plus attrayantes ? Reportez-vous à 
 >[!NOTE]
 >
 >Si vous cliquez sur un lien de catégorie (exemples de l’image ci-dessus) : leadgen, email, etc.,) il ouvre la page de contenu Tous avec la catégorie sur laquelle vous avez cliqué ajoutée au filtre, affichant les analyses de contenu dans cette catégorie.
-
->[!MORELIKETHIS]
->
->* [Utilisation de tout le contenu](https://docs.marketo.com/display/docs/working+with+all+content)
->* [Utilisation de contenu prédictif](https://docs.marketo.com/display/docs/working+with+predictive+content)
-
->
-
-
-
