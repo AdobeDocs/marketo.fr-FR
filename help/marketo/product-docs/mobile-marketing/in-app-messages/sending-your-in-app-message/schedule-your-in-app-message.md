@@ -3,7 +3,7 @@ unique-page-id: 11370503
 description: Planification de votre message in-app - Documents marketing - Documentation du produit
 title: Planification de votre message in-app
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -31,4 +31,4 @@ Envoyez votre message maintenant ou planifiez-le pour plus tard.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Facile ! La dernière étape, mais non la moindre, est l’étape [Approbation](approve-your-in-app-message.md).
+Facile ! La dernière étape, mais non la moindre, est l’étape [Approbation](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).
