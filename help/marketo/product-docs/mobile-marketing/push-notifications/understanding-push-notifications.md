@@ -3,7 +3,7 @@ unique-page-id: 7511518
 description: Présentation des notifications Push - Documents marketing - Documentation du produit
 title: Présentation des notifications Push
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,15 +25,15 @@ L’engagement Marketo mobile vous permet de créer, configurer et envoyer une n
 
 ## Étape 1 : Administrateur et développeur : effectuer les premières configurations {#step-admin-and-developer-perform-initial-setups}
 
-L’administrateur du marketing et le développeur d’applications mobiles travaillent ensemble pour vous configurer. Voir [Avant de créer des notifications Push et des messages in-app](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) pour plus d’informations.
+L’administrateur du marketing et le développeur d’applications mobiles travaillent ensemble pour vous configurer. Voir [Avant de créer des notifications Push et des messages in-app](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) pour plus d’informations.
 
 ## Étape 2 : Créer une notification Push {#step-create-a-push-notification}
 
-[Créez vos ](create-a-push-notification.md) messages et vos prévisualisations de la façon dont ils s’affichent sur les appareils Android et iOS.
+[Créez vos ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) messages et vos prévisualisations de la façon dont ils s’affichent sur les appareils Android et iOS.
 
 ## Étape 3 : Envoyez ! {#step-send}
 
-[Les notifications Push peuvent être ](send-a-mobile-push-notification.md) envoyées à l’aide de campagnes déclencheuses et dynamiques par lot. Plutôt cool, hein ?
+[Les notifications Push peuvent être ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) envoyées à l’aide de campagnes déclencheuses et dynamiques par lot. Plutôt cool, hein ?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
