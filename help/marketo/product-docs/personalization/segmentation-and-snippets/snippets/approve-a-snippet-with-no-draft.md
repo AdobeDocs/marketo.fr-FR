@@ -3,7 +3,7 @@ unique-page-id: 10095644
 description: Approuver un extrait de code sans brouillon - Documents marketing - Documentation du produit
 title: Approuver un extrait de code sans brouillon
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -42,5 +42,4 @@ Aucun brouillon est déclenché chaque fois qu&#39;un extrait de code est approu
 
 >[!MORELIKETHIS]
 >
->[Activation de l’option Aucun brouillon pour les extraits de code](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
-
+>[Activation de l’option Aucun brouillon pour les extraits de code](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
