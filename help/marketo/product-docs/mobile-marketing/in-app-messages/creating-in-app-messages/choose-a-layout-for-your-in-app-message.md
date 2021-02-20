@@ -3,9 +3,9 @@ unique-page-id: 10100434
 description: Choisissez une mise en page pour votre message in-app - Documents marketing - Documentation du produit
 title: Choisir une mise en page pour votre message intégré
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
@@ -58,14 +58,8 @@ La troisième mise en page plein écran est identique à la seconde, à l’exce
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Maintenant que vous connaissez les modèles, il est temps d&#39;en choisir un lorsque vous [créez vos images de message in-app](add-in-app-message-images.md).
+Maintenant que vous connaissez les modèles, il est temps d&#39;en choisir un lorsque vous [créez vos images de message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >
->* [Création d’un message intégré à l’application](https://docs.marketo.com/display/docs/create+an+in-app+message)
->* [Présentation des messages in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-
->
-
-
-
+>[Présentation des messages in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
