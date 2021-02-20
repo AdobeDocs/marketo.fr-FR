@@ -3,19 +3,15 @@ unique-page-id: 11385938
 description: Modifier le contenu prédictif pour les courriels - Documents marketing - Documentation du produit
 title: Modifier le contenu prédictif pour les courriels
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 
 # Modifier le contenu prédictif pour les courriels {#edit-predictive-content-for-emails}
-
->[!NOTE]
->
->Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 Voici comment configurer votre contenu prédictif pour les courriels.
 
