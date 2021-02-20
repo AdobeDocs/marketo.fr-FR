@@ -3,9 +3,9 @@ unique-page-id: 10912178
 description: Configuration du bouton Ignorer et approbation du message - Documents marketing - Documentation du produit
 title: Configuration du bouton Ignorer et approbation du message
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -71,15 +71,10 @@ Toutes vos sélections pour les graphiques, le texte et les boutons ont été en
 
 Il y a tant de choix, mais maintenant vous avez un message in-app magnifique, prêt à partir !
 
-Il est maintenant temps d&#39;[envoyer votre message](https://docs.marketo.com/display/docs/send+your+in-app+message).
+Il est maintenant temps d&#39;[envoyer votre message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >
->* [Présentation des messages in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Envoyer votre message in-app](https://docs.marketo.com/display/docs/send+your+in-app+message)
->* [Choisir une mise en page pour votre message intégré](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [Présentation des messages in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Choisir une mise en page pour votre message intégré](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
