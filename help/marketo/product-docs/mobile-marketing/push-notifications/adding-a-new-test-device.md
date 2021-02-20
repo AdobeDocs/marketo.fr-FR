@@ -3,7 +3,7 @@ unique-page-id: 8783146
 description: Ajouter un nouveau périphérique de test - Documents marketing - Documentation du produit
 title: Ajouter un nouveau périphérique de test
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Il est facile d’ajouter un nouveau périphérique de test auquel envoyer des n
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur **Admin **puis sur le lien **Applications mobiles**.\
+1. Cliquez sur **Admin**, puis sur le lien **Applications mobiles**.
+
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
 1. Cliquez sur l&#39;onglet **Périphériques de test** et **Nouveau périphérique de test**.
@@ -51,4 +52,3 @@ Il est facile d’ajouter un nouveau périphérique de test auquel envoyer des n
 1. Le statut est mis à jour pour afficher le périphérique. Félicitations !
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)
-
