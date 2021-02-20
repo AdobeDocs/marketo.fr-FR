@@ -3,9 +3,9 @@ unique-page-id: 2359510
 description: Suppression d’une segmentation - Documents marketing - Documentation du produit
 title: Suppression d’une segmentation
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Vous pouvez supprimer une segmentation en procédant comme suit.
    >
    >Vous pouvez supprimer des associations en supprimant ou en créant des alternatives pour les ressources qui utilisent la segmentation.
 
-   Une fois la segmentation désapprouvée, cliquez sur Actions de segmentation et supprimez la segmentation.
+1. Une fois non approuvé, cliquez sur **Actions de segmentation** et supprimez la segmentation.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 
