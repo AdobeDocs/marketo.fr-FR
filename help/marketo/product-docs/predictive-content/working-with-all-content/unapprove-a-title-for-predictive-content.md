@@ -3,19 +3,15 @@ unique-page-id: 11384663
 description: Désapprobation d’un titre pour le contenu prédictif - Documents marketing - Documentation du produit
 title: Désapprobation d’un titre pour un contenu prédictif
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 
 # Désapprouver un titre pour le contenu prédictif {#unapprove-a-title-for-predictive-content}
-
->[!NOTE]
->
->Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 Vous pouvez désapprouver tout titre pour le contenu prédictif sur votre page Tout le contenu ou dans la fenêtre contextuelle Modifier le contenu.
 
@@ -44,4 +40,3 @@ Vous pouvez désapprouver un titre lorsque vous le modifiez.
 Quelle que soit la méthode que vous utilisez, l’icône d’approbation n’apparaît plus sur la page Tout le contenu et le titre disparaît de la page Contenu prédictif.
 
 ![](assets/unapprove-content-no-icon.png)
-
