@@ -3,19 +3,15 @@ unique-page-id: 11385940
 description: Modifier le contenu prédictif pour les médias enrichis - Documents marketing - Documentation du produit
 title: Modification du contenu prédictif pour le média enrichi
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 
 # Modifier le contenu prédictif pour le média enrichi {#edit-predictive-content-for-rich-media}
-
->[!NOTE]
->
->Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu <sup>AI</sup>. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités d’analyse Content<sup>AI</sup> jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketing Cloud pour effectuer la mise à niveau vers Marketo Content<sup>AI</sup>.
 
 Voici comment configurer votre contenu prédictif pour Rich Media.
 
