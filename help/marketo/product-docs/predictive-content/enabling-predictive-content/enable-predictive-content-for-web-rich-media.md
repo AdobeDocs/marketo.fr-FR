@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Activer le contenu prédictif pour les médias enrichis en ligne - Documents marketing - Documentation du produit
 title: Activer le contenu prédictif pour les médias enrichis en ligne
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,14 @@ Le contenu prédictif engage vos visiteurs Web avec le contenu le plus pertinent
 >
 >Avant d’activer le contenu prédictif, vous devez :
 >
->* [Préparation du contenu prédictif](https://docs.marketo.com/display/docs/edit+predictive+content)
->* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
+>* **Préparation du contenu prédictif**
+   >
+   >   
+   * [Modifier le contenu prédictif pour les ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) emails
+   >   * [Modifier le contenu prédictif pour le ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) média enrichi
+   >   * [Modifier le contenu prédictif pour la barre de recommandations](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
-
+>* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
 Une fois que vous avez préparé le titre, la description et l’image du contenu pour les médias enrichis, vous pouvez activer des éléments de contenu individuels ou multiples.
@@ -58,9 +61,3 @@ Voici un exemple du modèle de recommandation pour les médias enrichis1 :
 Voici un exemple du modèle de recommandation Rich Media2 :
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
-
->[!MORELIKETHIS]
->
->* [Activation de la barre de recommandation de contenu](enable-the-content-recommendation-bar.md)
->* [Activer le contenu prédictif dans les courriers électroniques](https://docs.marketo.com/x/vLit)
-
