@@ -3,7 +3,7 @@ unique-page-id: 10096523
 description: Vue du Tableau de bord de notification Push - Documents marketing - Documentation du produit
 title: Vue du Tableau de bord de notification Push
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -33,14 +33,10 @@ Il est facile de voir comment se comportent vos notifications Push.
 
    >[!NOTE]
    >
-   >La mesure **Envoyé** peut refléter plus d&#39;envois que le nombre exact de personnes auxquelles la notification Push a été envoyée. En effet, il est calculé en fonction du *nombre de périphériques* pouvant recevoir votre notification Push. Par exemple, si une seule personne possède trois dispositifs, le tableau de bord en enregistre trois, pas un.
+   >La mesure _Envoyé_ peut refléter plus d&#39;envois que le nombre exact de personnes auxquelles la notification Push a été envoyée. En effet, il est calculé en fonction du *nombre de périphériques* pouvant recevoir votre notification Push. Par exemple, si une seule personne possède trois dispositifs, le tableau de bord en enregistre trois, pas un.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Présentation des notifications Push](understanding-push-notifications.md)
-   >    * [Envoyer une notification Push mobile](send-a-mobile-push-notification.md)
-
+   >* [Présentation des notifications Push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [Envoyer une notification Push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
 
