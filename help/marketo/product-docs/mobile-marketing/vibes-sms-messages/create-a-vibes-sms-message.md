@@ -3,7 +3,7 @@ unique-page-id: 11378869
 description: Création d’un message SMS Vibes - Documents marketing - Documentation du produit
 title: Créer un message SMS de vibes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Voici comment créer un message SMS Vibes.
 
-1. Accédez à Activités marketing et cliquez avec le bouton droit sur un programme.
+1. Accédez à **Activités marketing** et cliquez avec le bouton droit sur un programme.
 
    ![](assets/mobile-right-click-hand.jpg)
 
