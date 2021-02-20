@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: Configurer la notification Push mobile - Documents marketing - Documentation du produit
 title: Configuration de la notification Push mobile
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurer la notification Push mobile {#configure-mobile-push-notification}
 
-1. Accédez à la zone Activités marketing.
+1. Accédez à la zone **Activités marketing**.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-   Si votre message Push s’applique à une seule plate-forme (par exemple, pour les iPhones), vous pouvez exclure l’autre en déplaçant son sélecteur sur Désactivé.
+1. Si votre message Push s’applique à une seule plate-forme (par exemple, pour les iPhones), vous pouvez exclure l’autre en déplaçant son sélecteur sur Désactivé.
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-   Cliquez sur SUIVANT.
+1. Cliquez sur **Suivant**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
@@ -47,25 +47,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Définition**
-   >
-   >
-   >Il existe trois types d’actions d’appui** :**
-   >
+   >Il existe trois types d’actions d’appui :
    >
    >**Lancement de l’application**  :  **cette** option déclenche la page d&#39;accueil de votre application lorsque la notification est activée. **** Personnaliser utilise un lien profond pour ouvrir d’autres zones de votre application ou toute autre application à laquelle vous avez le lien (voir  [Deep Link ](#Deeplink) URIsci ci-dessous pour plus d’informations).
    >
-   >
    >**landing page**  - vous conduit à un landing page Marketo spécifié.
-   >
    >
    >**URL**  externe : vous conduit à un landing page non-marketing.
 
-   Pour insérer un lien profond pour une action d’accès tactile personnalisée, cliquez sur Personnalisé et saisissez l’[URI de lien profond](#Deeplink) dans le champ.
+1. Pour insérer un lien profond pour une action d’accès tactile personnalisée, cliquez sur Personnalisé et saisissez l’[URI de lien profond](#Deeplink) dans le champ.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-   Pour insérer des jetons, sélectionnez un jeton, entrez une valeur par défaut, puis cliquez sur Insérer.
+1. Pour insérer des jetons, sélectionnez un jeton, entrez une valeur par défaut, puis cliquez sur Insérer.
 
    >[!NOTE]
    >
@@ -77,15 +71,15 @@ ht-degree: 0%
    >
    >Les messages et les actions de clic seront identiques sur les deux plates-formes.
 
-   Pour iOS uniquement, cochez la case pour indiquer à l’application de lire un son lorsque le message arrive. Android lit automatiquement le son.
+1. Pour iOS uniquement, cochez la case pour indiquer à l’application de lire un son lorsque le message arrive. Android lit automatiquement le son.
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-   Prévisualisation l’autre plateforme et cliquez sur FINISH.
+1. Prévisualisation l’autre plate-forme et cliquez sur **Terminer**.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Cliquez sur **APPROUVER ET FERMER**.
+1. Cliquez sur **Approuver et fermer**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -103,9 +97,4 @@ Cela dit, la structure des liens profonds de votre application peut être diffé
 
 >[!MORELIKETHIS]
 >
->* [Envoyer une notification Push mobile](send-a-mobile-push-notification.md)
-
->
-
-
-
+>[Envoyer une notification Push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
