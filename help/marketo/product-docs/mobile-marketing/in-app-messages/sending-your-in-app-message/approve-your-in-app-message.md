@@ -3,7 +3,7 @@ unique-page-id: 10617440
 description: Approuver votre message in-app - Documents marketing - Documentation du produit
 title: Approuver votre message in-app
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Vous devez approuver l’envoi avant que le message in-app ne s’affiche.
    >
    >Les raisons de la suspension peuvent être simplement de l&#39;arrêter pendant un certain temps, ou si vous souhaitez modifier le message ou ajuster la planification. Cependant, vous ne pouvez pas changer de message, mais seulement modifier le message existant.
 
-1. Pour que le programme suspendu continue à s’exécuter, cliquez sur **Reprendre** **Programme**.
+1. Pour que le programme suspendu continue à s’exécuter, cliquez sur **Reprendre le Programme**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -59,9 +59,7 @@ Vous devez approuver l’envoi avant que le message in-app ne s’affiche.
 
 1. Si vous êtes sûr de vouloir arrêter le programme, cliquez sur **Arrêter**.
 
-   ** ![](assets/image2016-5-24-13-3a31-3a22.png)
-
-   **
+   ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
@@ -72,4 +70,3 @@ Vous devez approuver l’envoi avant que le message in-app ne s’affiche.
 Une fois votre programme exécuté, vous pouvez surveiller ses performances avec le Tableau de bord intégré, qui s’affiche automatiquement après avoir approuvé le programme. Pour revenir au programme, cliquez sur le lien en haut à droite et sélectionnez **Panneau de Contrôle**.
 
 C&#39;est tout, les gars !
-
