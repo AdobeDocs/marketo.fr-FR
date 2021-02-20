@@ -3,19 +3,15 @@ unique-page-id: 11385057
 description: Configurer des Catégories - Documents marketing - Documentation du produit
 title: Configurer des Catégories
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 
 # Configurer des Catégories {#set-up-categories}
-
->[!NOTE]
->
->Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 Créez des catégories dans Contenu prédictif pour regrouper vos résultats prédictifs sur le Web ou par courriel. Par exemple, vous pouvez travailler uniquement avec des blogs ou avec du contenu dans une langue particulière. Il vous permet également de rechercher et de filtrer la vue de vos pages.  Les catégories s’affichent dans les pages Tout le contenu et Contenu prédictif pour faciliter les références.
 
@@ -54,4 +50,3 @@ Voici comment créer des balises de catégorie.
    ![](assets/save-new.png)
 
    Assez simple.
-
