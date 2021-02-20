@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Activer la barre de recommandation du contenu - Documents marketing - Documentation du produit
 title: Activation de la barre de recommandation de contenu
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ Le moteur de recommandation de contenu utilise des analyses prédictives et des 
 >
 >Avant d’activer le contenu prédictif, vous devez :
 >
->* [Préparation du contenu prédictif](https://docs.marketo.com/display/docs/edit+predictive+content)
+>* **Préparation du contenu prédictif**
+   >
+   >   
+   * [Modifier le contenu prédictif pour les ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) emails
+   >   * [Modifier le contenu prédictif pour le ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) média enrichi
+   >   * [Modifier le contenu prédictif pour la barre de recommandations](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -45,9 +51,9 @@ Le moteur de recommandation de contenu utilise des analyses prédictives et des 
    >
    >**Inclure / Exclure l’URL d’affichage**
    >
-   >    * L’URL d’affichage doit être le chemin d’accès du domaine.
-   >    * N’incluez pas https:// ou https://.
-   >    * Utiliser * pour les caractères génériques
+   >* L’URL d’affichage doit être le chemin d’accès du domaine.
+   >* N’incluez pas https:// ou https://.
+   >* Utiliser * pour les caractères génériques
    * Utiliser un point-virgule comme séparateur
    * Exemple : /contact_us*; *action=déconnexion*
    * Ce champ est sensible à la casse
@@ -61,5 +67,4 @@ Le moteur de recommandation de contenu utilise des analyses prédictives et des 
 * L’élément de contenu que vous activez pour la recommandation doit inclure la balise JavaScript RTP. Cela permet à l’algorithme de suivre et d’optimiser le contenu recommandé.
 
 >[!MORELIKETHIS]
-* [Activer le contenu prédictif pour les médias enrichis en ligne](enable-predictive-content-for-web-rich-media.md)
-
+[Activer le contenu prédictif pour les médias enrichis en ligne](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
