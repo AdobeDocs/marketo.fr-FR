@@ -3,9 +3,9 @@ unique-page-id: 12981204
 description: Présentation des analyses de contenu prédictif - Documentation marketing - Documentation du produit
 title: Présentation des analyses de contenu prédictif
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Utilisez l’analyse de contenu pour mieux comprendre votre contenu existant, d�
 
 ## Aperçu {#overview}
 
-Dans la page Résumé, cliquez sur Analytics.
+Sur la page Résumé, cliquez sur **Analyses**.
 
 ![](assets/one.png)
 
@@ -81,8 +81,6 @@ Passez la souris sur une image dans Contenu proposé pour afficher les options d
 
 >[!NOTE]
 >
->**Explication**
->
 >Vous voyez ces icônes en bas ? De gauche à droite, ils sont : Contenu de la vue, Exporter au format CSV, Approuver le contenu.
 
 ## Contenu {#content}
@@ -96,4 +94,3 @@ Recherchez l’élément de contenu souhaité et cliquez dessus pour afficher d�
 >[!NOTE]
 >
 >Le contenu similaire est basé sur l’élément de contenu sélectionné et est calculé par un algorithme de règles d’association. Les résultats représentent des éléments de contenu sur lesquels les visiteurs cliqueront le plus probablement, en fonction de l’élément sélectionné et du comportement passé du visiteur. Il ne prend pas en compte le filtre ou la plage de dates.
-
