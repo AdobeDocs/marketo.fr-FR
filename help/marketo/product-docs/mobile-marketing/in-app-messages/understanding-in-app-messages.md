@@ -3,9 +3,9 @@ unique-page-id: 10100397
 description: Présentation des messages intégrés - Documents marketing - Documentation du produit
 title: Présentation des messages in-app
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Utilisez les messages intégrés pour communiquer directement avec vos clients l
 
 >[!NOTE]
 >
->Exemple 1 : La promotion &quot;Vente d’été&quot; s’affiche à l’ouverture de l’application.
+>**Exemple 1** : La promotion &quot;Vente d’été&quot; s’affiche à l’ouverture de l’application.
 >
->Exemple 2 : Lorsque vous regardez une vidéo médicale, planifiez une visite chez le médecin, et cela déclenche un coupon de 40 $.
+>**Exemple 2** : Lorsque vous regardez une vidéo médicale, planifiez une visite chez le médecin, et cela déclenche un coupon de 40 $.
 
 Avant de pouvoir créer et envoyer des messages in-app pour votre application mobile, vous aurez besoin de votre administrateur Marketing Cloud et de votre développeur d’applications mobiles pour effectuer certaines configurations.  Le processus de production de messages in-app comprend trois étapes :
 
@@ -33,18 +33,10 @@ L’administrateur du marketing et le développeur d’applications mobiles trav
 
 ## Étape 2 : Créer un message in-app {#step-create-an-in-app-message}
 
-Vous [créez un message in-app](https://docs.marketo.com/display/docs/create+an+in-app+message) à l’aide de l’éditeur en ligne.
+Vous [créez un message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) à l’aide de l’éditeur en ligne.
 
 ## Étape 3 : Envoyez ! {#step-send}
 
-Vous créez un programme pour [envoyer le message](https://docs.marketo.com/display/docs/send+your+in-app+message).
+Vous créez un programme pour [envoyer le message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 Vous êtes en route.
-
->[!MORELIKETHIS]
->
->* [Création d’un message intégré à l’application](https://docs.marketo.com/display/docs/create+an+in-app+message)
-   >
-   >
-* [Envoyer votre message in-app](https://docs.marketo.com/display/docs/send+your+in-app+message)
-
