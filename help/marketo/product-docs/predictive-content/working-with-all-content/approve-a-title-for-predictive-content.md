@@ -3,19 +3,15 @@ unique-page-id: 11384661
 description: Approbation d’un titre pour le contenu prédictif - Documents marketing - Documentation du produit
 title: Approbation d’un titre pour le contenu prédictif
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Approuver un titre pour le contenu prédictif {#approve-a-title-for-predictive-content}
-
->[!NOTE]
->
->Selon la date d’achat, votre abonnement Marketo peut inclure soit du contenu prédictif ou du contenu `<sup>AI</sup>`. Pour les utilisateurs de contenu prédictif, Marketo active les fonctionnalités Content`<sup>AI</sup>` Analytics jusqu’au 30 avril 2018. Pour conserver ces fonctionnalités au-delà de cette date, contactez votre responsable de succès client Marketo pour effectuer la mise à niveau vers Marketo Content`<sup>AI</sup>`.
 
 Vous pouvez ajouter n’importe quel titre de votre page Tout le contenu au contenu prédictif en l’approuvant sur la page Tout le contenu ou dans la fenêtre contextuelle Modifier le contenu.
 
@@ -48,4 +44,3 @@ Quelle que soit votre utilisation, l’icône Approuver pour le contenu prédict
 Vous pouvez maintenant voir le titre affiché sur la page Contenu prédictif.
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)
-
