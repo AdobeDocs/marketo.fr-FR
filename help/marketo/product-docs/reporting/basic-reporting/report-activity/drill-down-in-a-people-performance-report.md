@@ -3,7 +3,7 @@ unique-page-id: 2360035
 description: Analyser un rapport sur les performances des personnes - Documentation sur le marketing - Documentation sur les produits
 title: Recherche dans un rapport sur les performances des personnes
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Parcourez un rapport sur les performances des personnes pour afficher d’autres
 
    ![](assets/three.png)
 
-1. Dans la fenêtre contextuelle **Zoom déroulant**, sélectionnez l’attribut à atteindre. Cliquez ensuite sur** Drill-Down**.
+1. Dans la fenêtre contextuelle **Zoom déroulant**, sélectionnez l’attribut à atteindre. Cliquez ensuite sur **Zoom arrière**.
 
    ![](assets/four.png)
 
@@ -42,4 +42,3 @@ Parcourez un rapport sur les performances des personnes pour afficher d’autres
 1. Pour enregistrer vos résultats (facultatif), cliquez sur l&#39;icône **Exporter** située dans le coin inférieur gauche.
 
    ![](assets/six.png)
-
