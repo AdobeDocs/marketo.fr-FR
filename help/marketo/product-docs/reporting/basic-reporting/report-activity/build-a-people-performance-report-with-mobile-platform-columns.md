@@ -3,7 +3,7 @@ unique-page-id: 2951220
 description: Création d'un rapport sur les performances des personnes avec les colonnes des plateformes mobiles - Documents marketing - Documentation sur les produits
 title: Création d’un rapport sur les performances des personnes avec des colonnes de plateformes mobiles
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Pour créer un rapport sur les performances des personnes avec des colonnes de p
 
 ## Créer un rapport sur les performances des personnes {#create-a-people-performance-report}
 
-1. Sous Activités marketing, sélectionnez le programme qui héberge vos **listes dynamiques &lt;a0/>iOS** et **Android**.
+1. Sous Activités marketing, sélectionnez le programme qui héberge vos **listes dynamiques iOS** et **Android**.
 
    ![](assets/ten.png)
 
@@ -106,4 +106,3 @@ Pour créer un rapport sur les performances des personnes avec des colonnes de p
    ![](assets/seventeen.png)
 
    Plutôt cool, non ? Bien joué !
-
