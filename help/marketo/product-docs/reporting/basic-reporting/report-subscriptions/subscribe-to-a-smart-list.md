@@ -3,7 +3,7 @@ unique-page-id: 7505310
 description: S’abonner à une Liste dynamique - Documentation sur le marketing - Documentation sur le produit
 title: S’abonner à une Liste dynamique
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Les Abonnements sont spécifiques à l’espace de travail. Par exemple, cette l
 
    ![](assets/db.png)
 
-1. Sélectionnez la liste intelligente pour laquelle vous souhaitez créer un abonnement. Cliquez sur **Actions de Liste** et sélectionnez** New Smart Liste Abonnement**.
+1. Sélectionnez la liste intelligente pour laquelle vous souhaitez créer un abonnement. Cliquez sur **Actions de Liste** et sélectionnez **Nouvel Abonnement de Liste dynamique**.
 
    ![](assets/three.png)
 
@@ -50,11 +50,9 @@ Les Abonnements sont spécifiques à l’espace de travail. Par exemple, cette l
 
 1. Cliquez sur la liste **Fréquence** et sélectionnez une fréquence.
 
-   ** ![](assets/image2015-9-14-13-3a21-3a21.png)
+   ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-   **
-
-1. Définissez la **Diffusion de fin **date. Vous pouvez sélectionner **Jamais** ou une date calendaire.
+1. Définissez la date **Diffusion de fin**. Vous pouvez sélectionner **Jamais** ou une date calendaire.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
@@ -82,7 +80,7 @@ Les destinataires recevront un courrier électronique avec une option de téléc
 
 >[!NOTE]
 >
->Si le paramètre [Administration des Abonnements sécurisés](secure-the-subscription-admin-setting.md) est défini sur **Oui**, seules les personnes ayant accès à l&#39;instance de Marketo peuvent télécharger le rapport.
+>Si le paramètre [Administration des Abonnements sécurisés](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) est défini sur **Oui**, seules les personnes ayant accès à l&#39;instance de Marketo peuvent télécharger le rapport.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -104,10 +102,6 @@ Pour supprimer un abonnement, sélectionnez-le dans l’onglet abonnements, puis
 
 >[!MORELIKETHIS]
 >
->* [Modifier un Abonnement de Liste dynamique](edit-a-smart-list-subscription.md)
->* [Sécurisation du paramètre d’administration de l’Abonnement](secure-the-subscription-admin-setting.md)
-
->
-
-
+>* [Modifier un Abonnement de Liste dynamique](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [Sécurisation du paramètre d’administration de l’Abonnement](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
 
