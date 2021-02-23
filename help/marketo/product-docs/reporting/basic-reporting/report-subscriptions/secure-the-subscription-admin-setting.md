@@ -3,7 +3,7 @@ unique-page-id: 10095347
 description: Sécurisation du paramètre d’administration de l’Abonnement - Documents marketing - Documentation du produit
 title: Sécurisation du paramètre d’administration de l’Abonnement
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Un administrateur peut choisir de demander une connexion pour pouvoir vue un rap
    >[!CAUTION]
    >
    >Lorsqu’une connexion est requise pour télécharger des rapports, si vous n’avez pas accès à Marketing Cloud, vous ne recevrez pas d’e-mails de rapport de liste dynamique. Cela s&#39;applique aux abonnements existants et futurs.
-
