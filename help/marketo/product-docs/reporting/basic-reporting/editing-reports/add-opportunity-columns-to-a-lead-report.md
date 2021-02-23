@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: Ajouter les colonnes d'opportunité à un rapport de piste - Documents marketing - Documentation du produit
 title: Ajouter les colonnes d'opportunité à un rapport de piste
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ajouter les colonnes d&#39;opportunité à un rapport de piste {#add-opportunity-columns-to-a-lead-report}
 
-Pour afficher les statistiques sur les opportunités dans vos rapports [personne](https://docs.marketo.com/display/docs/basic+reporting), vous pouvez ajouter des colonnes opportunités.
+Pour afficher les statistiques sur les opportunités dans vos rapports de personne, vous pouvez ajouter des colonnes d&#39;opportunités.
 
 1. Accédez à la zone **Activités marketing**.
 
@@ -39,7 +39,7 @@ Pour afficher les statistiques sur les opportunités dans vos rapports [personne
    >
    >Faites défiler vers la droite pour afficher d’autres colonnes.
 
-1. Pour [ajouter ou supprimer des colonnes du rapport](select-report-columns.md), cliquez sur un en-tête de colonne et sélectionnez **Colonnes**.
+1. Pour [ajouter ou supprimer des colonnes du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), cliquez sur un en-tête de colonne et sélectionnez **Colonnes**.
 
    ![](assets/six.png)
 
@@ -68,14 +68,4 @@ Pour afficher les statistiques sur les opportunités dans vos rapports [personne
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Découvrez comment [gérer la taille de votre rapport](configure-report-size.md).
-
-   >[!NOTE]
-   >
-   >**Plongée profonde**
-   >
-   >
-   >Découvrez ce que vous pouvez faire d&#39;autre avec les rapports dans la plongée profonde [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Découvrez comment [gérer la taille de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
