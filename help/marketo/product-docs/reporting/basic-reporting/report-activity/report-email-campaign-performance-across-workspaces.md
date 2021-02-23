@@ -3,9 +3,9 @@ unique-page-id: 2360055
 description: Courriel des rapports, performances Campaign dans tous les espaces de travail - Documents marketing - Documentation du produit
 title: Courriel des rapports, performances Campaign dans tous les espaces de travail
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Courriel du rapport, performances Campaign dans tous les espaces de travail {#report-email-campaign-performance-across-workspaces}
 
-Activez le Rapports global pour inclure dans vos rapports [Performances du courriel](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Performances du lien de courriel](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) et [Activité de Campaign](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) les données provenant de tous vos espaces de travail de [marketing.](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+Activez le Rapports global pour inclure dans vos rapports [Performances du courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Performances du lien de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) et [Activité de Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) les données provenant de tous vos espaces de travail de [marketing.](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 1. Accédez à **Analytics** (ou **Activités marketing**).
 
@@ -37,16 +37,4 @@ Activez le Rapports global pour inclure dans vos rapports [Performances du courr
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filtrage des ressources dans un rapport par courriel](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**Plongée profonde**
-   >
-   >
-   >Découvrez tous les rapports dans [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtrage des ressources dans un rapport par courriel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
