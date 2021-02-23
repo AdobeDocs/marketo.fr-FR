@@ -3,9 +3,9 @@ unique-page-id: 2360028
 description: Cloner un rapport - Documents marketing - Documentation du produit
 title: Clonage d’un rapport
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Créez un duplicata de votre rapport pour le personnaliser davantage sans modifi
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Sélectionnez votre rapport. Sélectionnez **Actions de rapport > Cloner un rapport**.
+1. Sélectionnez votre rapport. Sélectionnez **Actions du rapport** > **Cloner un rapport**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -35,11 +35,4 @@ Créez un duplicata de votre rapport pour le personnaliser davantage sans modifi
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filtrage des personnes dans un rapport avec une Liste intelligente](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
-
-
-   Faites beaucoup plus pour personnaliser votre rapport ! Voir [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtrage des personnes dans un rapport avec une Liste intelligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
