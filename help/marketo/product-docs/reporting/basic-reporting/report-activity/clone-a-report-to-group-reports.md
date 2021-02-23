@@ -3,9 +3,9 @@ unique-page-id: 7512105
 description: Cloner un rapport pour regrouper des rapports - Documents marketing - Documentation sur les produits
 title: Cloner un rapport pour regrouper des rapports
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,19 @@ ht-degree: 0%
 
 Tout rapport dans **Mes rapports **est visible uniquement pour vous. Et si vous vouliez rendre le rapport accessible à tous les autres ? Voici comment vous pouvez faire cela :
 
-1. Dans la zone **Analytics **, cliquez sur le [rapport enregistré](../../../../product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) de votre choix.
-1. ![](assets/image2015-4-21-11-3a25-3a54.png)
+1. Dans la zone **Analyses**, cliquez sur le [rapport enregistré](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) de votre choix.
+
+   ![](assets/image2015-4-21-11-3a25-3a54.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également cloner un rapport enregistré sur les rapports **Groupe **en faisant glisser le rapport dans le dossier.
+   >Vous pouvez également cloner un rapport enregistré dans **Rapports de groupe** en le faisant glisser dans le dossier.
 
-1. Cliquez sur **Actions du rapport **et sélectionnez **Cloner le rapport**.
+1. Cliquez sur **Actions du rapport** et sélectionnez **Cloner le rapport**.
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. **Cloner** Toa  **Analytics (Groupe)** et sélectionner un  **dossier**.
+1. Cliquez sur la liste déroulante **Cloner à** et sélectionnez votre groupe. Sélectionnez le **dossier**.
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
@@ -34,7 +35,6 @@ Tout rapport dans **Mes rapports **est visible uniquement pour vous. Et si vous 
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
-   Cool ! Votre rapport s&#39;affiche désormais dans les **rapports Groupe.**
+   Cool ! Votre rapport s’affiche désormais dans les **rapports Groupe**.
 
    ![](assets/image2015-4-21-11-3a37-3a25.png)
-
