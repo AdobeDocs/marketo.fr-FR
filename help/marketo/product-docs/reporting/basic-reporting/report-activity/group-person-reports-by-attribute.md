@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: Rapports de personnes de groupe par attribut - Documents marketing - Documentation du produit
 title: Rapports des personnes de groupe par attribut
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapports des personnes du groupe par attribut {#group-person-reports-by-attribute}
 
-Vous pouvez regrouper vos [rapports de personne](https://docs.marketo.com/display/docs/basic+reporting) par tout attribut de personne ou de société.
+Vous pouvez regrouper les rapports de votre personne selon n’importe quelle personne ou attribut de société.
 
 1. Accédez à la zone **Activités marketing** (ou **Analytics**).
 
@@ -29,7 +29,7 @@ Vous pouvez regrouper vos [rapports de personne](https://docs.marketo.com/displa
 
    >[!NOTE]
    >
-   >Vous pouvez également [regrouper vos rapports de personne par segment](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+   >Vous pouvez également [regrouper vos rapports de personne par segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
    Dans la boîte de dialogue Regrouper les personnes par, sélectionnez l’attribut de personne ou de société à utiliser pour le regroupement.
 
@@ -37,24 +37,12 @@ Vous pouvez regrouper vos [rapports de personne](https://docs.marketo.com/displa
 
    >[!TIP]
    >
-   >Si vous choisissez un attribut doté d’une valeur numérique, par exemple *Créé à* ou *Recettes annuelles*, sélectionnez les mesures dans la liste déroulante **Unités** à droite.
+   >Si vous choisissez un attribut doté d’une valeur numérique, par exemple _Créé à_ ou _Recettes annuelles_, sélectionnez les mesures dans la liste déroulante **Unités** à droite.
 
    C&#39;est tout ! Cliquez sur l&#39;onglet Rapport pour afficher le rapport regroupé en conséquence.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 
-   >[!NOTE]
-   >
-   >**Plongée profonde**
-   >
-   >
-   >Pour en savoir plus sur les rapports de personnes et les autres types de rapports, consultez la section [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting)plongée en profondeur.
-
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Ajouter des colonnes personnalisées à un rapport Personne](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
-
-
+   >[Ajouter des colonnes personnalisées à un rapport Personne](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
