@@ -3,9 +3,9 @@ unique-page-id: 2360205
 description: Partage d'un modèle sur plusieurs espaces de travail - Documents marketing - Documentation du produit
 title: Partage d’un modèle sur plusieurs espaces de travail
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,10 @@ Marketo vous permet de partager un ou plusieurs modèles entre différents espac
 
    >[!NOTE]
    >
-   >
    >Le partage d’un modèle avec un autre espace de travail permet à ces utilisateurs d’exécuter des rapports basés sur le modèle.
 
 1. Sélectionnez les espaces de travail avec lesquels partager le dossier, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-C&#39;est si facile ! Maintenant, les gens d&#39;autres espaces de travail peuvent passer à travers le modèle partagé. Vous pouvez exécuter l&#39;affectation de personne dans cet espace de travail, voir [Lancement du modèle de cycle de revenus](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) pour plus d&#39;informations.
+C&#39;est si facile ! Maintenant, les gens d&#39;autres espaces de travail peuvent passer à travers le modèle partagé.
