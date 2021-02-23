@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: Rapport sur les performances des courriels Campaign - Documents marketing - Documentation du produit
 title: Rapport Performances des courriers électroniques Campaign
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,12 @@ ht-degree: 0%
 
 # Rapport Performances du courriel Campaign {#campaign-email-performance-report}
 
-Pour afficher les statistiques de performances de votre messagerie regroupées par [campagne intelligente](https://docs.marketo.com/display/docs/smart+campaigns), exécutez un rapport Campaign Email Performance.
+Pour afficher les statistiques de performances de votre messagerie regroupées par [campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), exécutez un rapport Campaign Email Performance.
 
-1. [Créez un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport et sélectionnez le type **de** [rapport Performances du courriel ](report-type-overview.md)Campaign.
-1. [Définissez la période de votre ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapport et cliquez sur l&#39;onglet  **** Rapport.
+1. [Créez un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport et sélectionnez le type **de** [rapport Performances du courriel ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Campaign.
+
+1. [Définissez la période de votre ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapport et cliquez sur l&#39;onglet  **** Rapport.
+
 1. Désormais, explorez le rapport pour connaître les performances de chaque courriel de vos campagnes.
 
    ![](assets/image2014-9-16-16-3a19-3a59.png)
@@ -25,7 +27,7 @@ Pour afficher les statistiques de performances de votre messagerie regroupées p
    >
    >Cliquez sur le nom d’un courrier électronique pour l’ouvrir dans l’outil de prévisualisation du courrier électronique.
 
-   [Les colonnes que vous pouvez ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)sélectionner pour un rapport Performances des courriels Campaign sont les suivantes :
+   [Les colonnes que vous pouvez ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)sélectionner pour un rapport Performances des courriels Campaign sont les suivantes :
 
    | Colonne | Description |
    |---|---|
@@ -37,21 +39,10 @@ Pour afficher les statistiques de performances de votre messagerie regroupées p
 
    >[!NOTE]
    >
-   >En général, nous essayons d&#39;utiliser le bon sens pour enregistrer ces statistiques. Par exemple, si quelqu’un a cliqué sur un lien dans un courriel, il l’a manifestement ouvert en premier. Pour connaître les règles spécifiques que nous suivons, consultez le [Rapport Performance du courriel](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+   >En général, nous essayons d&#39;utiliser le bon sens pour enregistrer ces statistiques. Par exemple, si quelqu’un a cliqué sur un lien dans un courriel, il l’a manifestement ouvert en premier. Pour connaître les règles spécifiques que nous suivons, consultez le [Rapport Performance du courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filtrage des ressources dans un rapport de messagerie Campaign](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-   >    * [Rapport Performance des courriers électroniques](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-
-
-   >[!NOTE]
-   >
-   >**Plongée profonde**
-   >
-   >
-   >En savoir plus sur [Rapports de base.](https://docs.marketo.com/display/docs/basic+reporting)
+   >* [Filtrage des ressources dans un rapport de messagerie Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+   >* [Rapport Performance des courriers électroniques](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 
