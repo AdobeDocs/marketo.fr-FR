@@ -3,9 +3,9 @@ unique-page-id: 2359991
 description: Gérer les Abonnements de rapports - Documents marketing - Documentation sur les produits
 title: Gérer les Abonnements de rapports
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Configurez et supprimez des abonnements de rapports.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Cette page affiche les abonnements de tous les rapports de votre compte, regroupés par [type de rapport](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Cela inclut les [abonnements aux rapports de base](subscribe-to-a-basic-report.md) et aux rapports [Explorateur du cycle de recettes](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   Cette page affiche les abonnements de tous les rapports de votre compte, regroupés par [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Cela inclut [abonnements aux rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) et aux rapports de l&#39;Explorateur du cycle de recettes.
 
    >[!TIP]
    >
@@ -39,11 +39,8 @@ Configurez et supprimez des abonnements de rapports.
 
    >[!TIP]
    >
-   >
-   >    
-   >    
-   >    * Utilisez des virgules entre les adresses électroniques.
-   >    * Pour enregistrer vos modifications, cliquez dans une zone *située à l&#39;extérieur* de la liste abonnements.
+   >* Utilisez des virgules entre les adresses électroniques.
+   >* Pour enregistrer vos modifications, cliquez dans une zone _située à l&#39;extérieur_ de la liste abonnements.
 
 
    Vous pouvez également :
@@ -53,8 +50,6 @@ Configurez et supprimez des abonnements de rapports.
    * Cliquez et modifiez le champ **Résumé** pour modifier le nombre de lignes de prévisualisation qui apparaissent dans le courrier électronique.
    * Décochez la case **Excel** pour envoyer des résumés de rapports sans la pièce jointe de la feuille de calcul.
    * Cliquez sur le bouton **Envoyer** pour envoyer immédiatement le rapport par courriel.
-
-
 
 1. Pour supprimer complètement un abonnement, sélectionnez la ligne et cliquez sur **Supprimer l&#39;Abonnement**.
 
@@ -66,12 +61,6 @@ Configurez et supprimez des abonnements de rapports.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [S’abonner à un rapport de base](subscribe-to-a-basic-report.md)
-   >    * [S’abonner à un rapport Explorateur de recettes](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-
-
-   Pour en savoir plus, consultez les plongées profondes [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting) et [Recettes Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   >* [S’abonner à un rapport de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [S’abonner à un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
