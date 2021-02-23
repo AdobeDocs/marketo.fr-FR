@@ -3,9 +3,9 @@ unique-page-id: 2360225
 description: Filtrage des ressources dans un rapport par courriel - Documents marketing - Documentation du produit
 title: Filtrage des ressources dans un rapport par courriel
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrage des ressources dans un rapport par courriel {#filter-assets-in-an-email-report}
 
-Concentrez votre rapport [Performances des courriels](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [Performance des liens de courriel](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sur les courriels de vos programmes (&quot;ressources locales&quot;), sur ceux de Design Studio (&quot;ressources globales&quot;) ou sur ceux qui ont été archivés.
+Concentrez votre rapport [Performances des courriels](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [Performance des liens de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sur les courriels de vos programmes (&quot;ressources locales&quot;), sur ceux de Design Studio (&quot;ressources globales&quot;) ou sur ceux qui ont été archivés.
 
 1. Accédez à **Analytics** (ou **Activités marketing**).
 
@@ -45,15 +45,4 @@ Concentrez votre rapport [Performances des courriels](../../../../product-docs/e
 
 >[!MORELIKETHIS]
 >
->* [Filtrage des ressources dans les rapports par courriel Campaign](filter-assets-in-a-campaign-email-reports.md)
-
->
-
-
-
->[!NOTE]
->
->**Plongée profonde**
->
->Découvrez tous les rapports dans [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
-
+>[Filtrage des ressources dans les rapports par courriel Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
