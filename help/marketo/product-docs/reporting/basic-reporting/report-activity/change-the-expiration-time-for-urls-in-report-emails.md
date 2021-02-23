@@ -3,9 +3,9 @@ unique-page-id: 2360032
 description: Modification de l’heure d’expiration des URL dans les messages électroniques des rapports - Documents marketing - Documentation du produit
 title: Modification de l’heure d’expiration des URL dans les courriers électroniques des rapports
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Les liens des courriers électroniques de votre abonnement de rapports expirent 
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Cliquez sur le **Modifier l’expiration de l’URL **bouton.
+1. Cliquez sur le bouton **Modifier l’expiration de l’URL**.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
@@ -35,8 +35,4 @@ Les liens des courriers électroniques de votre abonnement de rapports expirent 
 
    >[!NOTE]
    >
-   >**Rappel**
-   >
-   >
    >N’oubliez pas que ces règles ne s’appliquent qu’aux liens des rapports et alertes, et non aux courriels marketing.
-
