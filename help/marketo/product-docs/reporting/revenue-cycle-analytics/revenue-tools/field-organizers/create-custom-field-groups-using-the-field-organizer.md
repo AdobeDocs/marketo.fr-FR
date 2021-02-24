@@ -3,7 +3,7 @@ unique-page-id: 10094404
 description: Création de groupes de champs personnalisés à l’aide de l’organiseur de champs - Documents marketing - Documentation du produit
 title: Création de groupes de champs personnalisés à l’aide de l’organiseur de champs
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 0%
@@ -180,8 +180,8 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
    >
    >Vous pouvez ajouter jusqu’à dix sous-groupes pour classer les valeurs de données par catégorie. Chaque entrée de plage de groupes s&#39;appuie sur l&#39;entrée précédente. Si vous laissez la dernière entrée Plage de groupes vide pour le dernier sous-groupe personnalisé que vous créez, aucune valeur de date de fin n’est définie.
 
+   L’exemple ci-dessous montre une entrée pour le 1er trimestre 2015 menant au 3e trimestre.
+
    ![](assets/16.5.png)
 
    Et c&#39;est tout ! Bon travail.
-
-L’exemple ci-dessous montre une entrée pour le 1er trimestre 2015 menant au 3e trimestre.
