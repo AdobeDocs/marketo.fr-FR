@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: Présentation des modèles de recettes - Documents marketing - Documentation du produit
 title: Présentation des modèles de recettes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ Par défaut, un nouveau modèle vous début avec six étapes de recettes. Ce mod
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Remarquez qu&#39;ils sont tous sur un fond vert. Il s’agit du **chemin de réussite**. Vous pouvez en savoir plus sur le chemin de réussite [ici](understanding-revenue-model-success-path.md).
+Remarquez qu&#39;ils sont tous sur un fond vert. Il s’agit du **chemin de réussite**. Vous pouvez en savoir plus sur le chemin de réussite [ici](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
 **Les** étapes sont les jalons d&#39;une progression vers leurs objectifs.
 
-**Les Transitions **sont présentées sous forme de flèches et elles contrôlent comment les pistes se déplacent entre les étapes.
+**Les** transitions sont présentées sous la forme de flèches et elles contrôlent comment les pistes se déplacent entre les étapes.
 
 >[!NOTE]
 >
@@ -85,27 +85,30 @@ Clarifiez exactement comment une piste passe d&#39;une étape à une autre en ut
 >
 >**Exemple**
 >
->Une transition peut être définie par un prospect **remplissant un formulaire. **
+>Une transition peut être définie par une piste remplissant un formulaire.
 
-Voici quelques liens qui peuvent être utilement pleins d&#39;espoir. (ou, espérons-le, utile - prenez votre choix !)
+Ajouter une étape du chemin de réussite heureux
 
->[!MORELIKETHIS]
->
->[Créer un modèle de recettes](create-a-new-revenue-model.md)
->
->[Utilisation des étapes du stock du modèle de recettes](using-revenue-model-inventory-stages.md)
->
->[Utilisation des étapes de la porte du modèle de recettes](using-revenue-model-gate-stages.md)
->
->[Utilisation des étapes de l&#39;accord de niveau de service (SLA) du modèle de recettes](using-revenue-model-sla-stages.md)
-
-Ajouter une étape du chemin de réussite heureux   ![](assets/image2015-6-12-10-3a10-3a26.png)
+![](assets/image2015-6-12-10-3a10-3a26.png)
 
 Lost est un bon à ajouter, mais remarquez qu&#39;il n&#39;est pas sur le chemin vert. C&#39;est parce que ce n&#39;est pas un &quot;succès&quot;.
 
 >[!MORELIKETHIS]
 >
->[Rapport sur votre modèle de recettes](report-on-your-revenue-model.md)
->
->[Approbation/désapprobation d&#39;un modèle de recettes](approve-unapprove-a-revenue-model.md)
+>* [Créer un modèle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+   >
+   >
+* [Utilisation des étapes du stock du modèle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+   >
+   >
+* [Utilisation des étapes de la porte du modèle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+   >
+   >
+* [Utilisation des étapes de l&#39;accord de niveau de service (SLA) du modèle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+   >
+   >
+* [Rapport sur votre modèle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+   >
+   >
+* [Approbation/désapprobation d&#39;un modèle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 
