@@ -3,7 +3,7 @@ unique-page-id: 4718636
 description: Présentation de la zone d'Analyse des coûts du Programme - Documents marketing - Documentation du produit
 title: Présentation de la zone d'Analyse des coûts du Programme
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Combien ai-je dépensé par programme par mois ?
    <th>Description</th> 
   </tr> 
   <tr> 
-   <td><p>% de nouveaux noms</p></td> 
+   <td>% de nouveaux noms</td> 
    <td>Pourcentage de pistes qui ont été acquises par un programme</td> 
   </tr> 
   <tr> 
@@ -104,4 +104,3 @@ Combien ai-je dépensé par programme par mois ?
 | % de réussite (Total) | Pourcentage de pistes qui ont réussi à progresser d&#39;un programme |
 | Succès (nouveaux noms) | Nombre total de nouveaux noms qui ont réussi à progresser d&#39;un programme |
 | Succès (total) | Nombre total de pistes qui ont réussi à progresser d&#39;un programme |
-
