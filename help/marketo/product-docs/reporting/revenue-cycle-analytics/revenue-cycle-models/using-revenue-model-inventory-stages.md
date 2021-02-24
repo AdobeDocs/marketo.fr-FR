@@ -3,7 +3,7 @@ unique-page-id: 4718666
 description: Utilisation des étapes du stock du modèle de recettes - Documents marketing - Documentation du produit
 title: Utilisation des étapes du stock du modèle de recettes
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Tous les prospects et comptes connus résident initialement à l&#39;étape du s
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Dans la section **Analytics**, sélectionnez votre modèle existant ou [créez-en un nouveau](create-a-new-revenue-model.md).
+1. Dans la section **Analytics**, sélectionnez votre modèle existant ou [créez-en un nouveau](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -37,13 +37,13 @@ Tous les prospects et comptes connus résident initialement à l&#39;étape du s
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Vous pouvez modifier le nom, ajouter une description et modifier le type après avoir ajouté une étape. Vous pouvez également sélectionner ** [Suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md)** pour le moment.
+1. Vous pouvez modifier le nom, ajouter une description et modifier le type après avoir ajouté une étape. Vous pouvez également sélectionner **[Suivi de Début par compte](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** pour le moment.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Modifier une étape de stock {#edit-an-inventory-stage}
 
-Lorsque vous sélectionnez une icône Inventaire, vous pouvez modifier le **Nom**, ajouter une **Description** ou ajuster le **Type**. Vous pouvez également sélectionner [Suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md).
+Lorsque vous sélectionnez une icône Inventaire, vous pouvez modifier le **Nom**, ajouter une **Description** ou ajuster le **Type**. Vous pouvez également sélectionner [Suivi de Début par compte](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Cliquez sur une icône Inventaire.
 
