@@ -3,7 +3,7 @@ unique-page-id: 10094959
 description: Utilisation de Tableaux de bord dans l'Explorateur de recettes - Documents marketing - Documentation du produit
 title: Utilisation de Tableaux de bord dans l'Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Un tableau de bord est une combinaison de rapports de l&#39;Explorateur de recet
 
    ![](assets/nine.png)
 
-1. Pour renommer une section, cliquez dessus pour la sélectionner, tapez le nom de votre choix sous Titre, puis cliquez sur** Appliquer**. Répétez cette opération pour chaque section.
+1. Pour renommer une section, cliquez dessus pour la sélectionner, tapez le nom de votre choix sous Titre, puis cliquez sur **Appliquer**. Répétez cette opération pour chaque section.
 
    ![](assets/ten.png)
 
@@ -92,4 +92,3 @@ Un tableau de bord est une combinaison de rapports de l&#39;Explorateur de recet
 1. Sélectionnez le tableau de bord à supprimer, puis cliquez sur **Déplacer vers la corbeille**.
 
    ![](assets/fifteen.png)
-
