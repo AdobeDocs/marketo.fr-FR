@@ -3,7 +3,7 @@ unique-page-id: 2953144
 description: Présentation avancée du Rapports de Programme - Documentation sur le marketing - Documentation sur le produit
 title: Présentation avancée des Rapports de Programme
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -27,13 +27,13 @@ Les zones d&#39;Analyse contiennent des ensembles de données et des mesures dif
 
 ## Zones d&#39;Analyse de programme {#program-analysis-areas}
 
-* ** [Analyse des coûts du Programme](understanding-the-program-cost-analysis-area.md) **- Consultez le RSI de tous vos programmes.
+* **[Analyse](understanding-the-program-cost-analysis-area.md)**  des coûts du programme - Consultez le RSI de tous vos programmes.
 
-* ** [Analyse d&#39;adhésion au Programme](understanding-the-program-membership-analysis-area.md) **- Voir les résultats par canal, participation, critères de réussite, etc.
+* **[Analyse](understanding-the-program-membership-analysis-area.md)**  d&#39;adhésion au programme - Voir les résultats par canal, participation, critères de réussite, etc.
 
-* ** [Analyse des opportunités de Programme](understanding-the-program-opportunity-analysis-area.md) **- Opportunités générées en fonction de la distribution, de leurs recettes et de leur retour sur investissement.
+* **[Analyse](understanding-the-program-opportunity-analysis-area.md)**  des opportunités de programme : opportunités générées en fonction de la distribution, de leurs recettes et de leur retour sur investissement.
 
-* ** [Programme des recettes Analyse d&#39;étape](understanding-the-program-revenue-stage-analysis-area.md) **- Nouveaux noms ayant atteint des étapes de réussite particulières dans votre modèle de cycle de recettes.
+* **[Analyse](understanding-the-program-revenue-stage-analysis-area.md)**  d&#39;étape des recettes du programme : nouveaux noms ayant atteint des étapes de réussite particulières dans votre modèle de cycle de recettes.
 
 ## Analyseurs de programme {#program-analyzers}
 
