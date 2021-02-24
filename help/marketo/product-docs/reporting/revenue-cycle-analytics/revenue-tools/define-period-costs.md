@@ -3,7 +3,7 @@ unique-page-id: 2953444
 description: Définir les coûts de la période - Documents marketing - Documentation du produit
 title: Définir les coûts de la période
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Suivez et associez les coûts de prise en charge des pistes et d&#39;acquisition
 
 ## Modifier un coût de période {#edit-a-period-cost}
 
-1. Cliquez avec le bouton droit de la souris sur Coût de la période et sélectionnez **Modifier **dans le menu contextuel pour ouvrir la boîte de dialogue **Modifier le coût**.
+1. Cliquez avec le bouton droit de la souris sur Coût de la période et sélectionnez **Modifier** dans le menu contextuel pour ouvrir la boîte de dialogue **Modifier le coût**.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -63,11 +63,10 @@ Suivez et associez les coûts de prise en charge des pistes et d&#39;acquisition
 
 ## Supprimer un coût de période {#delete-a-period-cost}
 
-1. Cliquez avec le bouton droit sur le coût de la période que vous souhaitez supprimer et sélectionnez **Supprimer **dans le menu contextuel pour afficher l&#39;invite **Supprimer le coût **.
+1. Cliquez avec le bouton droit sur le coût de la période que vous souhaitez supprimer et sélectionnez **Supprimer** dans le menu contextuel pour afficher l&#39;invite **Supprimer le coût**.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
 1. Cliquez sur **Supprimer** pour supprimer définitivement le coût de la période ou sur **Annuler** pour revenir en arrière.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
-
