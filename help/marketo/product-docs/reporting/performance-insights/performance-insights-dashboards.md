@@ -3,9 +3,9 @@ unique-page-id: 13795534
 description: Tableaux de bord Performance Insights - Docs marketing - Documentation sur les produits
 title: Tableaux de bord Performance Insights
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,6 @@ Le but d&#39;un programme est de créer une interaction significative avec la pe
 
 >[!NOTE]
 >
->**Exemple**
->
 >Dans un programme de webinaire, il peut y avoir plusieurs états, tels que : Invité, enregistré et assisté. Invité ou Inscrit ne sont pas des interactions significatives parce que les gens ne regardent pas vraiment le webinaire. Participé est considéré comme un succès dans ce cas.
 
 Mesurer l&#39;acquisition de nouveaux noms
@@ -49,7 +47,7 @@ Sélectionnez la mesure **Noms** pour mesurer l’efficacité de vos nouveaux pr
 
 ## Pipeline {#pipeline}
 
-Le tableau de bord de pipeline présente les performances des canaux par mesures Première touche et multipoint.
+Le tableau de bord de pipeline présente les performances des canaux par les mesures Première touche et multipoint.
 
 ![](assets/five-1.png)
 
@@ -108,4 +106,3 @@ Le tableau de bord des recettes affiche les performances des canaux par mesures 
   </tr> 
  </tbody> 
 </table>
-
