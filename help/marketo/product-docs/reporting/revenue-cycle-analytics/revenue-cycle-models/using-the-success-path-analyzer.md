@@ -3,7 +3,7 @@ unique-page-id: 3571886
 description: Utilisation de Success Path Analyzer - Marketo Docs - Documentation du produit
 title: Utilisation de l’analyseur de chemins de réussite
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Utilisation de l’analyseur de chemins de réussite {#using-the-success-path-analyzer}
 
-Utilisez un analyseur de chemins de réussite pour explorer les détails spécifiques qui reflètent à la fois le flux (quantité) et la vitesse (vitesse, en termes de jours) des personnes au cours des étapes de votre [modèle de cycle de recettes](understanding-revenue-models.md).
+Utilisez un analyseur de chemins de réussite pour explorer les détails spécifiques qui reflètent à la fois le flux (quantité) et la vitesse (vitesse, en termes de jours) des personnes au cours des étapes de votre [modèle de cycle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
->[Création d’un analyseur de chemins de réussite](create-a-success-path-analyzer.md)
+>[Création d’un analyseur de chemins de réussite](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. Accédez à **Analytics** et sélectionnez votre **Analyseur de chemin de réussite**.
 
@@ -55,7 +55,7 @@ Utilisez un analyseur de chemins de réussite pour explorer les détails spécif
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Pour les étapes avec des contrats de niveau de service (contrats de niveau de service), cliquez sur **Actions du graphique** >** Afficher les contrats de niveau de service dus** pour montrer à chaque personne qui a manqué une cible de niveau de service dans le délai spécifié.
+1. Pour les étapes avec des contrats de niveau de service (contrats de niveau de service), cliquez sur **Actions du graphique** > **Afficher l&#39;échéance des contrats de niveau de service** pour montrer à chaque personne qui a manqué une cible de niveau de service dans le délai spécifié.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -65,7 +65,7 @@ Utilisez un analyseur de chemins de réussite pour explorer les détails spécif
 
    Les personnes indiquées en orange peuvent *ou ne pas* être encore dans l’étape SLA.
 
-1. Cliquez sur **Actions de graphique** >** Afficher l&#39;échéance du contrat de niveau de service (SLA)** pour afficher toutes les personnes dont les cibles d&#39;accord de niveau de service (SLA) ont expiré et qui se trouvent encore à l&#39;étape du contrat de niveau de service (SLA) à la fin de la période spécifiée.
+1. Cliquez sur **Actions de graphique** > **Afficher l&#39;échéance de l&#39;accord de niveau de service** pour afficher toutes les personnes dont les cibles d&#39;accord de niveau de service ont expiré et qui se trouvent encore à l&#39;étape de l&#39;accord de niveau de service à la fin de la période spécifiée.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Utilisez un analyseur de chemins de réussite pour explorer les détails spécif
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Pour imprimer le graphique, cliquez sur** ****Actions du graphique** > **Imprimer le graphique**.
+1. Pour imprimer le graphique, cliquez sur **Actions du graphique** > **Imprimer le graphique**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
