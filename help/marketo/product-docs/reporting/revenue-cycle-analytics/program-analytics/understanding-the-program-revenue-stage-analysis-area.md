@@ -3,7 +3,7 @@ unique-page-id: 7514009
 description: Présentation de la zone d'Analyse de la phase des recettes du Programme - Documents marketing - Documentation du produit
 title: Présentation de la zone d'Analyse de la phase des recettes du Programme
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cette zone d&#39;analyse vous permet d&#39;analyser l&#39;efficacité de chaque programme ou de voir les résultats résumés par canal. Il fournit des informations sur le nombre de nouveaux noms générés qui ont atteint des étapes de cheminement de réussite particulières dans votre modèle de cycle de recettes.
 
-**Voici quelques exemples de questions professionnelles auxquelles vous pouvez répondre en utilisant cette zone d&#39;analyse :**
+**Voici quelques exemples de questions professionnelles auxquelles vous pouvez répondre à l’aide de cette zone d’analyse :**
 
 Combien de nouveaux noms d&#39;un programme donné ont déjà atteint un stade spécifique de mon modèle ?
 
@@ -153,4 +153,4 @@ Pour vue des dimensions ou mesures disponibles dans une catégorie, cliquez sur 
 
 >[!MORELIKETHIS]
 >
->[Créer un rapport Explorateur de recettes](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Créer un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
