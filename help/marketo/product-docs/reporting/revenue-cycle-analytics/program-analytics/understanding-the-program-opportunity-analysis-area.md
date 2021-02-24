@@ -3,7 +3,7 @@ unique-page-id: 2951877
 description: Présentation de la zone d'Analyse des opportunités de Programme - Documents marketing - Documentation du produit
 title: Présentation de la zone d'Analyse des opportunités de Programme
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 La zone Analyse d&#39;opportunités de Programme vous permet d&#39;analyser l&#39;efficacité de chaque Programme ou de voir les résultats résumés par Canal de Programme.
 
-**Voici quelques exemples de questions professionnelles auxquelles vous pouvez répondre en utilisant cette zone d&#39;analyse :**
+**Voici quelques exemples de questions professionnelles auxquelles vous pouvez répondre à l’aide de cette zone d’analyse :**
 
 Combien d&#39;opportunités ont été associées à un Programme donné et combien d&#39;entre elles ont-elles été gagnées ?
 
@@ -67,11 +67,11 @@ Comme dans le cas de l&#39;acquisition, la valeur de la contribution aux ventes 
   </tr> 
   <tr> 
    <td>Coût des opportunités</td> 
-   <td><p>Partie du coût du programme qui a influé sur l'opportunité. Le coût peut être fractionné si plusieurs pistes sont impliquées.</p></td> 
+   <td>Partie du coût du programme qui a influé sur l'opportunité. Le coût peut être fractionné si plusieurs pistes sont impliquées.</td> 
   </tr> 
   <tr> 
    <td>Opportunités créées</td> 
-   <td><p>Partie du crédit que le programme a reçu pour avoir influencé la création de l'opportunité. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</p></td> 
+   <td>Partie du crédit que le programme a reçu pour avoir influencé la création de l'opportunité. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</td> 
   </tr> 
   <tr> 
    <td>Opportunités gagnées</td> 
@@ -79,28 +79,28 @@ Comme dans le cas de l&#39;acquisition, la valeur de la contribution aux ventes 
   </tr> 
   <tr> 
    <td>Pipeline créé</td> 
-   <td><p>Partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création de l'opportunité. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</p></td> 
+   <td>Partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création de l'opportunité. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</td> 
   </tr> 
   <tr> 
    <td>Pipeline créé - Toujours ouvert</td> 
    <td>Partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création de l'opportunité actuellement ouverte. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</td> 
   </tr> 
   <tr> 
-   <td><p>Recettes attendues</p></td> 
+   <td>Recettes attendues</td> 
    <td>Partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création de l'opportunité. Recettes prévues est la probabilité d’opportunité multipliée par la valeur d’opportunité. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</td> 
   </tr> 
   <tr> 
-   <td><p>Recettes des investissements</p></td> 
-   <td><p>Il s'agit du ratio de la part du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé les possibilités gagnées et le coût du programme.</p></td> 
+   <td>Recettes des investissements</td> 
+   <td>Il s'agit du ratio de la part du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé les possibilités gagnées et le coût du programme.</td> 
   </tr> 
   <tr> 
    <td>Recettes gagnées</td> 
-   <td><p>La part du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé l'opportunité remportée. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</p></td> 
+   <td>La part du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé l'opportunité remportée. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</td> 
   </tr> 
  </tbody> 
 </table>
 
-** (FT) = Attribution Première touche, utilisée pour les mesures d&#39;acquisition de plomb ; (MT) = Attribution tactile multiple, utilisée pour les mesures de la réussite des pistes*
+_* (FT) = Attribution Première touche, utilisée pour les mesures d&#39;acquisition de plomb ; (MT) = Attribution tactile multiple, utilisée pour les mesures de la réussite des pistes_
 
 Vous trouverez ci-dessous un scénario qui décrit comment les unités d&#39;opportunité sont calculées lorsqu&#39;il y a deux Programmes qui ont généré des pistes, mais ces dernières ont conduit à une opportunité à partir du même compte.
 
@@ -165,19 +165,19 @@ Alors que les mesures (points bleus) sont calculées et nécessitent une réflex
  <tbody> 
   <tr> 
    <th>Catégorie</th> 
-   <th><p>Afficher le libellé</p></th> 
+   <th>Afficher le libellé</th> 
   </tr> 
   <tr> 
    <td>Attributs d'opportunité</td> 
-   <td><p>Opportunité fermée<br>Nom de l'opportunité*<br>Nom du propriétaire de l'opportunité<br>Étape de l'opportunité<br>Type d'opportunité</p></td> 
+   <td>Opportunité fermée<br>Nom de l'opportunité*<br>Nom du propriétaire de l'opportunité<br>Étape de l'opportunité<br>Type d'opportunité</td> 
   </tr> 
   <tr> 
    <td>Période d'opportunité</td> 
-   <td><p>Opportunité fermée Année/Trimestre/Mois<br>Opportunité créée Année/Trimestre/Mois</p></td> 
+   <td>Opportunité fermée Année/Trimestre/Mois<br>Opportunité créée Année/Trimestre/Mois</td> 
   </tr> 
   <tr> 
    <td>Attributs de programme</td> 
-   <td><p>Canal de programme<br>nom du Programme</p></td> 
+   <td>Canal de programme<br>nom du Programme</td> 
   </tr> 
   <tr> 
    <td>Période de coût programme</td> 
@@ -190,4 +190,4 @@ Alors que les mesures (points bleus) sont calculées et nécessitent une réflex
 
 >[!MORELIKETHIS]
 >
->[Créer un rapport Explorateur de recettes](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Créer un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
