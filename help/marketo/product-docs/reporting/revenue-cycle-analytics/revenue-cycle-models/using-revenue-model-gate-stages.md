@@ -3,7 +3,7 @@ unique-page-id: 4718670
 description: Utilisation des étapes de la porte du modèle de recettes - Documents marketing - Documentation du produit
 title: Utilisation des étapes de la porte du modèle de recettes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Une étape à la porte sert de vérification de qualification.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Sélectionnez un modèle existant ou [créez-en un nouveau](create-a-new-revenue-model.md).
+1. Sélectionnez un modèle existant ou [créez-en un nouveau](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Cliquez sur **Modifier** **Brouillon**.
+1. Cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,11 +37,11 @@ Une étape à la porte sert de vérification de qualification.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Modifiez le **Nom **et sélectionnez un **Type**.
+1. Modifiez le **nom** et sélectionnez un **type**.
 
    >[!NOTE]
    >
-   >Sélectionnez [Suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md) pour obtenir des informations sur les performances de vos comptes à mesure qu&#39;ils progressent dans votre modèle.
+   >Sélectionnez [Suivi de Début par compte](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) pour obtenir des informations sur les performances de vos comptes à mesure qu&#39;ils progressent dans votre modèle.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -51,7 +51,7 @@ Une étape à la porte sert de vérification de qualification.
 
 ## Modifier une étape de porte {#edit-a-gate-stage}
 
-Modifiez le nom, la description et le type de l’étape Porte. Vous pouvez également opter pour [suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md).
+Modifiez le nom, la description et le type de l’étape Porte. Vous pouvez également opter pour [suivi de Début par compte](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Cliquez sur une icône **Porte** d’étape.
 
@@ -83,11 +83,7 @@ Félicitations ! Maintenant vous comprenez le monde merveilleux de Gate Stages.
 
 >[!MORELIKETHIS]
 >
->* [Utilisation des étapes du stock du modèle de recettes](using-revenue-model-inventory-stages.md)
->* [Utilisation des étapes de l&#39;accord de niveau de service (SLA) du modèle de recettes](using-revenue-model-sla-stages.md)
->* [Créer un modèle](create-a-new-revenue-model.md) de recettes.
-
->
-
-
+>* [Utilisation des étapes du stock du modèle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Utilisation des étapes de l&#39;accord de niveau de service (SLA) du modèle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Créer un modèle](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md) de recettes.
 
