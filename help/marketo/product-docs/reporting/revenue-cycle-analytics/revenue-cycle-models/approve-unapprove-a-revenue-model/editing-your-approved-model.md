@@ -3,7 +3,7 @@ unique-page-id: 5472402
 description: Modification de votre modèle approuvé - Documents marketing - Documentation du produit
 title: Modification de votre modèle approuvé
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Choisissez la nouvelle étape pour les pistes actuellement dans celle sélectionnée ou sélectionnez **Aucune **pour supprimer les pistes de votre modèle. Lorsque vous avez terminé, cliquez sur **Fusionner**.
+1. Choisissez la nouvelle étape pour les pistes actuellement dans celle sélectionnée ou sélectionnez **Aucune** pour supprimer les pistes de votre modèle. Lorsque vous avez terminé, cliquez sur **Fusionner**.
 
    ![](assets/three.png)
 
@@ -59,5 +59,4 @@ Vous ne pouvez avoir qu&#39;un seul modèle approuvé à la fois. Si vous souhai
 
 >[!MORELIKETHIS]
 >
->[Créer un modèle de recettes](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-
+>[Créer un modèle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
