@@ -3,9 +3,9 @@ unique-page-id: 12979010
 description: Aperçu des tendances d’Analyses de performances - Documents marketing - Documentation du produit
 title: Aperçu des tendances des statistiques de performances
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Cliquez sur l&#39;onglet **Tendance** pour accéder à cette vue.
 
 ![](assets/2-1.png)
 
-Sélectionnez la mesure de vue des performances. Dans cet exemple, nous allons examiner les opportunités gagnées par [Première touche](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Sélectionnez la mesure de vue des performances. Dans cet exemple, nous allons examiner les opportunités gagnées par [Première touche](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
@@ -54,4 +54,3 @@ Développez un canal pour voir ses dix premiers programmes, avec les autres prog
 >[!NOTE]
 >
 >Si vous cochez la case en regard d’un canal, activez/désactivez-la dans le graphique en anneau.
-
