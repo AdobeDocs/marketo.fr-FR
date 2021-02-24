@@ -3,7 +3,7 @@ unique-page-id: 13795492
 description: Paramètres des statistiques de performances - Documents marketing - Documentation du produit
 title: Paramètres des statistiques de performances
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -25,17 +25,35 @@ Découvrez les différentes options Paramètres dans MPI.
 
 **Tableau de bord d’engagement - Contribution et tendance**
 
-| **Période de coût** | Lorsque vous cochez cette case, Performance Insights agrégat tous les nouveaux noms et réussites au mois défini comme période de coûts. |
-|---|---|
-| **Activité** | Lorsque vous cochez cette case, Performance Insights agrégat tous les nouveaux noms, réussites et adhésions par date d&#39;activité, quelle que soit la période de coût du programme. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Période de coût</strong></td> 
+   <td>Lorsque vous cochez cette case, Performance Insights agrégat tous les nouveaux noms et réussites au mois défini comme période de coûts.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Activité</strong></td> 
+   <td>Lorsque vous cochez cette case, Performance Insights agrégat tous les nouveaux noms, réussites et adhésions par date d'activité, quelle que soit la période de coût du programme.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Configuration de la période précédente {#previous-period-configuration}
 
 **Engagement, pipeline, Tableaux de bord de recettes - Contribution uniquement**
 
-| **Période du calendrier** | Définissez la période précédente sur : mois, trimestre ou année calendaire précédent. |
-|---|---|
-| **Période** | Définissez la période précédente sur le même mois ou trimestre de l’année précédente. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Période du calendrier</strong></td> 
+   <td>Définissez la période précédente sur : mois, trimestre ou année calendaire précédent.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Période</strong></td> 
+   <td>Définissez la période précédente sur le même mois ou trimestre de l’année précédente.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Opportunités influencées par le marketing {#marketing-influenced-opportunities}
 
@@ -54,7 +72,7 @@ Découvrez les différentes options Paramètres dans MPI.
  </tbody> 
 </table>
 
-Tableau de bord des recettes - Contribution et tendance
+**Tableau de bord des recettes - Contribution et tendance**
 
 <table> 
  <tbody> 
@@ -73,7 +91,15 @@ Tableau de bord des recettes - Contribution et tendance
 
 **Tableaux de bord des pipelines et des recettes - Contribution et tendance**
 
-| **Basé sur la période d&#39;investissement** | Le coût de placement est calculé simplement comme la somme des coûts de programme mensuels définis par le filtre de la période de placement. |
-|---|---|
-| **Basé sur l’attribution du Programme** | Le coût attribué est basé sur une partie du coût du programme déterminée par les pistes ou les contacts qui ont été acquis, ou qui ont réussi, dans le programme et qui ont finalement abouti à une opportunité gagnée. |
-
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Basé sur la période d'investissement</strong></td> 
+   <td>Le coût de placement est calculé simplement comme la somme des coûts de programme mensuels définis par le filtre de la période de placement.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Basé sur l’attribution du Programme</strong></td> 
+   <td>Le coût attribué est basé sur une partie du coût du programme déterminée par les pistes ou les contacts qui ont été acquis, ou qui ont réussi, dans le programme et qui ont finalement abouti à une opportunité gagnée.</td> 
+  </tr> 
+ </tbody> 
+</table>
