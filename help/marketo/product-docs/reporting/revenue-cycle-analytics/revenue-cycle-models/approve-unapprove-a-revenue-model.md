@@ -3,7 +3,7 @@ unique-page-id: 4718687
 description: Approbation/désapprobation d'un modèle de recettes - Documents marketing - Documentation du produit
 title: Approbation/désapprobation d'un modèle de recettes
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Vous ne pouvez avoir qu&#39;un seul modèle approuvé à un moment donné.
 
 >[!CAUTION]
 >
->[Les étapes individuelles doivent être ](approving-stages-and-assigning-leads-to-a-revenue-model.md) approuvées et des personnes ajoutées avant d’approuver un modèle entier.
+>[Les étapes individuelles doivent être ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) approuvées et des personnes ajoutées avant d’approuver un modèle entier.
 
 ## Approuver {#approve}
 
@@ -66,4 +66,3 @@ Félicitations ! Votre modèle n&#39;est désormais pas approuvé.
 >[!CAUTION]
 >
 >La désapprobation d’un modèle supprime toutes vos personnes du modèle et supprime leur historique dans le modèle de la base de données.
-
