@@ -3,7 +3,7 @@ unique-page-id: 6095029
 description: Définir les conversions Google AdWords dans le modèle de recettes - Documents marketing - Documentation du produit
 title: Définir les conversions Google AdWords dans le modèle de recettes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Liez votre compte Google AdWords à Marketo pour télécharger automatiquement l
 
 >[!NOTE]
 >
->Il s’agit d’une intégration Push de Marketo vers Google AdWords. Les données de conversion s’affichent *uniquement* dans votre portail Google AdWords,** pas dans l’interface utilisateur de Marketing. **
+>Il s’agit d’une intégration Push de Marketo vers Google AdWords. Les données de conversion s’affichent _uniquement_ dans votre portail Google AdWords, _pas dans l’interface utilisateur de Marketo_.
 
-En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Google](https://support.google.com/adwords/answer/2998031?hl=en).  Faites correspondre les conversions hors ligne d’AdWords à une ou plusieurs étapes d’un modèle de recettes. Il existe trois méthodes pour effectuer la cartographie :
+En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Google](https://support.google.com/adwords/answer/2998031?hl=en). Faites correspondre les conversions hors ligne d’AdWords à une ou plusieurs étapes d’un modèle de recettes. Il existe trois méthodes pour effectuer la cartographie :
 
 * Conversion d’AdWords
 * Action d’état
@@ -29,11 +29,7 @@ Vous pouvez créer une conversion hors ligne d’AdWords à partir de Marketo si
 
 >[!PREREQUISITES]
 >
->* [Ajouter Google AdWords comme service LaunchPoint](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-
->
-
-
+>[Ajouter Google AdWords comme service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## Utiliser la conversion AdWords {#use-adwords-conversion}
 
