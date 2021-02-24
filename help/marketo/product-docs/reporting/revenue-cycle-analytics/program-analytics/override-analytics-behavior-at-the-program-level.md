@@ -3,9 +3,9 @@ unique-page-id: 2360421
 description: Remplacement du comportement d’Analytics au niveau du Programme - Documents marketing - Documentation du produit
 title: Remplacement du comportement d’Analytics au niveau du Programme
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Remplacement du comportement d’Analytics au niveau du Programme {#override-analytics-behavior-at-the-program-level}
 
-Vous pouvez définir le comportement [des analyses au niveau de l’administrateur sur canaux](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), mais vous pouvez également le remplacer au niveau du programme. Voici comment procéder :
+Vous pouvez définir le comportement [des analyses au niveau de l’administrateur sur canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), mais vous pouvez également le remplacer au niveau du programme. Voici comment procéder :
 
-1. Accédez à la zone Activités marketing.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ Vous pouvez définir le comportement [des analyses au niveau de l’administrate
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Sous l’onglet Configuration, faites glisser le comportement Analytics dans la trame.
+1. Sous l’onglet **Configuration**, faites glisser le comportement Analytics dans la trame.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -43,7 +43,7 @@ Vous pouvez définir le comportement [des analyses au niveau de l’administrate
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Cliquez sur ENREGISTRER.
+1. Cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
@@ -51,7 +51,4 @@ Bien joué ! Vous savez maintenant comment remplacer le comportement des analyse
 
 >[!NOTE]
 >
->**Rappel**
->
 >Les modifications prendront effet le lendemain et seront soit rendues disponibles, soit extraites des explorateurs et analyseurs de recettes.
-
