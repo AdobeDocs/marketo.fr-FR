@@ -3,7 +3,7 @@ unique-page-id: 12980873
 description: Graphiques rapides Performance Insights - Documents marketing - Documentation sur les produits
 title: Graphiques rapides Performance Insights
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Les graphiques rapides dérivent des données que vous spécifiez. Dans cet exem
 
    ![](assets/3-3.png)
 
-1. Cliquez sur l’icône Exporter et sélectionnez **Enregistrer sous forme de graphique rapide**.
+1. Cliquez sur l&#39;icône Exporter et sélectionnez **Enregistrer sous forme de graphique rapide**.
 
    ![](assets/4-2.png)
 
@@ -68,4 +68,3 @@ Si vous devez supprimer un graphique rapide, suivez ces étapes simples.
 1. Cliquez sur **Supprimer**.
 
    ![](assets/10-1.png)
-
