@@ -3,7 +3,7 @@ unique-page-id: 4718677
 description: Clonage d'un modèle de recettes d'exemple de marché - Documentation de marché - Documentation du produit
 title: Clonage d'un modèle de recettes d'exemple de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Marketo comporte des exemples de modélisation des recettes pour vous aider à v
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Sélectionnez **Reportez-vous au dossier **Revenue Cycle Modeler **et cliquez sur **Exemples de marketing**.
+1. Sélectionnez le dossier **Revenue Cycle Modeler**, puis cliquez sur **Exemples de marketing**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -27,12 +27,12 @@ Marketo comporte des exemples de modélisation des recettes pour vous aider à v
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-   Dans Actions du modèle, sélectionnez Cloner le modèle.
+1. Dans la section Actions du modèle, sélectionnez **Cloner le modèle**.
+
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Saisissez un **Nom **et cliquez sur **CLONE**.
+1. Saisissez un **nom** et cliquez sur **Clone**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 
    Si seulement générer des revenus était si facile !
-
