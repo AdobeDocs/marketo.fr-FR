@@ -3,9 +3,9 @@ unique-page-id: 4718668
 description: Utilisation des étapes de l'accord de niveau de service du modèle de recettes - Documents marketing - Documentation du produit
 title: Utilisation des étapes de l'accord de niveau de service (SLA) du modèle de recettes
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ SLA signifie &quot;contrat de niveau de service&quot;. Ces étapes sont utilisé
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Dans la section Analytics, sélectionnez votre modèle existant ou [créez-en un nouveau ](create-a-new-revenue-model.md).
+1. Dans la section Analytics, sélectionnez votre modèle existant ou [créez-en un nouveau ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
@@ -37,13 +37,13 @@ SLA signifie &quot;contrat de niveau de service&quot;. Ces étapes sont utilisé
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Vous pouvez modifier le **nom**, ajouter une **description** et modifier le **type** après avoir ajouté une étape. Vous pouvez également sélectionner ** [Suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md)** pour le moment.
+1. Vous pouvez modifier le **nom**, ajouter une **description** et ajuster le **type** après avoir ajouté une étape. Vous pouvez également sélectionner **[Suivi de Début par compte](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** pour le moment.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
 ## Modifier une étape SLA {#edit-an-sla-stage}
 
-Lorsque vous sélectionnez une icône d&#39;étape SLA, vous pouvez modifier le nom, ajouter une description et modifier le type. Vous pouvez également sélectionner [Suivi de Début par compte](start-tracking-by-account-in-the-revenue-modeler.md).
+Lorsque vous sélectionnez une icône d&#39;étape SLA, vous pouvez modifier le nom, ajouter une description et modifier le type. Vous pouvez également sélectionner [Suivi de Début par compte](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Cliquez sur une icône d’étape SLA.
 
@@ -59,11 +59,10 @@ Lorsque vous sélectionnez une icône d&#39;étape SLA, vous pouvez modifier le 
 
 ## Supprimer Une Étape SLA {#delete-an-sla-stage}
 
-1. Vous pouvez supprimer une étape SLA en cliquant avec le bouton droit de la souris ou en contrôlant la sélection d&#39;une icône de l&#39;étape SLA.
+1. Vous pouvez supprimer une étape SLA en cliquant avec le bouton droit de la souris ou en cliquant avec le bouton droit de la souris sur l&#39;icône d&#39;étape SLA.
 
    ![](assets/image2015-4-27-16-3a2-3a47.png)
 
 1. Vous pouvez également supprimer une étape en cliquant dessus, puis dans la liste déroulante Actions d’étape, sélectionnez Supprimer.
 
    ![](assets/image2015-4-27-17-3a20-3a41.png)
-
