@@ -3,7 +3,7 @@ unique-page-id: 4718648
 description: Présentation de l'analyseur d'influence d'opportunité - Documents marketing - Documentation du produit
 title: Présentation de l'analyseur d'influence d'opportunité
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -19,7 +19,7 @@ L’analyseur d’influence d’opportunité vous permet de voir l’ensemble de
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**Remarquez les chèques verts.** Ils indiquent le succès programme de l&#39;un des noms cochés à droite. La zone verte indique le début et la fin de l&#39;opportunité.
+**Remarquez les chèques** verts. Ils indiquent le succès programme de l&#39;un des noms cochés à droite. La zone verte indique le début et la fin de l&#39;opportunité.
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ Si vous souhaitez conserver ce comportement, pensez à dédupliquer vos données
 
 >[!MORELIKETHIS]
 >
->* [Analyseur d’influence d’opportunité pour raconter l’article marketing](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Création d’un analyseur d’influence d’opportunité](create-an-opportunity-influence-analyzer.md)
-
->
-
-
+>* [Analyseur d’influence d’opportunité pour raconter l’article marketing](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Création d’un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
