@@ -3,7 +3,7 @@ unique-page-id: 4718681
 description: Suivi de début par compte dans le module de modélisation des recettes - Documents marketing - Documentation sur les produits
 title: Suivi de début par compte dans le module de modélisation des recettes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Grâce au module de modélisation des phases des recettes et à l&#39;explorateu
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Pour créer un rapport, cliquez sur **Fichier** et sélectionnez **Nouveau** puis **Rapport**.
+1. Pour créer un rapport, cliquez sur **Fichier** et sélectionnez **Nouveau**, puis **Rapport**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
@@ -39,9 +39,8 @@ Grâce au module de modélisation des phases des recettes et à l&#39;explorateu
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
-1. Dans la boîte de dialogue qui s’affiche, sélectionnez Oui, puis cliquez sur la flèche pointant vers la droite au milieu. Ceci ne filtrera que les étapes pour lesquelles l’option &quot;Suivi par compte&quot; est activée. Cliquez sur **OK** lorsque vous avez terminé.
+1. Dans la boîte de dialogue qui s&#39;affiche, sélectionnez Oui, puis cliquez sur la flèche pointant vers la droite au milieu. Ceci ne filtrera que les étapes pour lesquelles l’option &quot;Suivi par compte&quot; est activée. Cliquez sur **OK** lorsque vous avez terminé.
 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
 1. Votre rapport doit maintenant afficher uniquement les étapes suivies par compte. Veillez à enregistrer votre rapport pour pouvoir l&#39;utiliser ultérieurement. Vous pouvez désormais utiliser cette mesure comme une autre mesure du succès de vos efforts marketing.
-
