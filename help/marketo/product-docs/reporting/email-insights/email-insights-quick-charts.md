@@ -3,7 +3,7 @@ unique-page-id: 10099415
 description: Graphiques rapides des statistiques par courriel - Documents marketing - Documentation du produit
 title: Graphiques rapides des statistiques de messagerie
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -78,4 +78,3 @@ Voulez-vous supprimer l&#39;un de vos graphiques rapides ? C&#39;est facile !
    ![](assets/eleven.png)
 
    Votre graphique rapide est maintenant supprimé. Je t&#39;ai dit que c&#39;était facile.
-
