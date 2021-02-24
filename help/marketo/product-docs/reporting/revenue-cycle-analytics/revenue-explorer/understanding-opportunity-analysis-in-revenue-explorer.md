@@ -3,7 +3,7 @@ unique-page-id: 2951884
 description: Présentation de l'Analyse des opportunités dans l'Explorateur de recettes - Documents marketing - Documentation du produit
 title: Présentation de l'Analyse des opportunités dans l'Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 0%
@@ -25,13 +25,15 @@ Voici quelques rapports que vous pouvez créer dans la zone Analyse d&#39;opport
 
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
-1. Influence marketing sur les opportunités clôturées et gagnées
-1. Ce rapport montre le montant des recettes acquises et influencées par le marketing, par nombre et par montant.
+1. Impact marketing sur les opportunités Fermé et Gagné.
+
+   Ce rapport montre le montant des recettes acquises et influencées par le marketing, par nombre et par montant.
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
 1. Opportunité clôturée par source de piste
-1. Ce rapport ventile toutes les opportunités fermées par source de piste et vous donne un aperçu clair des sources qui fonctionnent et celles qui ne fonctionnent pas.
+
+   Ce rapport ventile toutes les opportunités fermées par source de piste et vous donne un aperçu clair des sources qui fonctionnent et celles qui ne fonctionnent pas.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
@@ -151,11 +153,7 @@ L&#39;Analyse des opportunités vous donne accès à toutes les dimensions liée
 
 >[!MORELIKETHIS]
 >
->* [Créer un rapport Explorateur de recettes](create-a-revenue-explorer-report.md)
->* [Ajouter des champs à un rapport Explorateur de recettes](adding-fields-to-a-revenue-explorer-report.md)
->* [S’abonner à un rapport Explorateur de recettes](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
+>* [Créer un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Ajouter des champs à un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [S’abonner à un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
