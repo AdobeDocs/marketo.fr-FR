@@ -3,7 +3,7 @@ unique-page-id: 7514126
 description: Exemple d’attribution 1 - Documents marketing - Documentation du produit
 title: Exemple d’attribution 1
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Essayez tous les exemples et vous serez un pro d&#39;attribution !
 
 >[!MORELIKETHIS]
 >
->* [Exemple d’attribution 2](attribution-example-2.md)
->* [Exemple d’attribution 3](attribution-example-3.md)
->* [Exemple d’attribution 4](attribution-example-4.md)
+>* [Exemple d’attribution 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Exemple d’attribution 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Exemple d’attribution 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
