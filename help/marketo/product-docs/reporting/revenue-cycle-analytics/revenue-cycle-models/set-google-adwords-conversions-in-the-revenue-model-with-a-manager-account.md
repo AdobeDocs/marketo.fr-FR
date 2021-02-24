@@ -3,7 +3,7 @@ unique-page-id: 7504923
 description: Définir les conversions Google AdWords dans le modèle de recettes avec un compte de gestionnaire - Documents marketing - Documentation du produit
 title: Définir les conversions Google AdWords dans le modèle Recettes avec un compte de gestionnaire
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
@@ -24,11 +24,7 @@ Vous pouvez mapper des conversions hors ligne AdWords à une ou plusieurs étape
 
 >[!PREREQUISITES]
 >
->* [Ajouter Google AdWords en tant que service de point de lancement avec un compte de gestionnaire](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
-
->
-
-
+>[Ajouter Google AdWords en tant que service de point de lancement avec un compte de gestionnaire](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
 ## Utiliser l&#39;action d&#39;état {#use-stage-action}
 
@@ -76,9 +72,7 @@ Conseil professionnel ! Une nouvelle conversion hors ligne d’AdWords peut êtr
 
 1. Sélectionnez **Nouvelle conversion**.
 
-   ** ![](assets/image2015-3-27-17-3a23-3a13.png)
-
-   **
+   ![](assets/image2015-3-27-17-3a23-3a13.png)
 
 1. Saisissez un **nom de conversion**. Cliquez sur **Enregistrer**.
 
