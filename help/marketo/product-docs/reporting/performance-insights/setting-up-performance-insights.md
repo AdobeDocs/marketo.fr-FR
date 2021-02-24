@@ -3,7 +3,7 @@ unique-page-id: 12981145
 description: Configuration des statistiques de performances - Documentation sur le marketing - Documentation sur le produit
 title: Configuration des statistiques de performances
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -45,14 +45,12 @@ Suivez les étapes ci-dessous pour configurer MPI.
    >
    >Assurez-vous que les champs appropriés sont renseignés pour toutes les opportunités :
    >
-   >    
-   >    
-   >    * Montant de l&#39;opportunité
-   >    * Est fermé
-   >    * Est gagné
-   >    * Date de création (peut ne pas être définie dans votre cas)
-   >    * Date de fermeture (cette option peut ne pas être définie dans votre cas)
-   >    * Type d&#39;opportunité
+   >* Montant de l&#39;opportunité
+   >* Est fermé
+   >* Est gagné
+   >* Date de création (peut ne pas être définie dans votre cas)
+   >* Date de fermeture (cette date peut ne pas être définie dans votre cas)
+   >* Type d&#39;opportunité
 
 
 ## Configuration du programme {#program-setup}
@@ -121,4 +119,3 @@ Ensuite, passez en revue le comportement des analyses pour indiquer si un canal 
 >[!NOTE]
 >
 >Les changements effectués ne sont pas instantanés. Une période d&#39;une nuit est nécessaire avant que les modifications ne prennent effet.
-
