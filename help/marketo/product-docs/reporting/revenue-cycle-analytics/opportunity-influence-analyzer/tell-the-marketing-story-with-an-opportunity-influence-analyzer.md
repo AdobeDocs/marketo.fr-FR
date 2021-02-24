@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Racontez l’article marketing à l’aide d’un analyseur d’influence d’opportunité - Documentation sur le marketing - Documentation du produit
 title: Analyseur d’influence d’opportunité pour raconter l’article marketing
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Utilisez un analyseur d&#39;influence d&#39;opportunité pour illustrer le rôle
 
 >[!PREREQUISITES]
 >
->* [Création d’un analyseur d’influence d’opportunité](create-an-opportunity-influence-analyzer.md)
-
->
-
-
+>[Création d’un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
 1. Accédez à **Analytics** et sélectionnez **Analyseur d’influence d’opportunité**.
 
@@ -29,20 +25,20 @@ Utilisez un analyseur d&#39;influence d&#39;opportunité pour illustrer le rôle
 
    L&#39;analyseur d&#39;influence sur les opportunités est une représentation visuelle des interactions et des succès programmes et événements impliqués dans cette opportunité. Explorons le graphique :
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Les** points orange représentent des  [moments ](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) intéressants dans l&#39;opportunité (emails ouverts, visites de cabines de commerce, téléchargements de livres blancs, etc.). Les points plus grands indiquent davantage d’interactions.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Les** points orange représentent des  [moments ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) intéressants dans l&#39;opportunité (emails ouverts, visites de cabines de commerce, téléchargements de livres blancs, etc.). Les points plus grands indiquent davantage d’interactions.
 
-   * ` ![—](assets/image2014-10-3-13-3a44-3a9.png)
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Les icônes de** Binder indiquent les succès programmes.
 
-      **Les icônes de liaison** indiquent [programme](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) réussites.
-
-   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Les icônes de calendrier** indiquent [événement](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) réussites.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Les icônes de** calendrier indiquent les réussites événements.
 
    * **Période** d&#39;opportunité. La zone verte représente l&#39;opportunité elle-même, de la création d&#39;opportunités à la fermeture d&#39;opportunités (gagnées ou perdues).
+
    * **Cycle** de vie des opportunités. Les zones grises avant et après la période d&#39;opportunité verte montrent les interactions qui ont conduit et suivi cette opportunité.
 
    Le panneau **Paramètres** liste les personnes du compte :
 
    * Le **nombre entre parenthèses** correspond au nombre d&#39;interactions avec ce contact.
+
    * ![—](assets/image2014-10-3-13-3a45-3a9.png)La  **étoile** jaune indique le contact Principal.
 
 
@@ -66,23 +62,4 @@ Utilisez un analyseur d&#39;influence d&#39;opportunité pour illustrer le rôle
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >    
-   >    
-   >    * [Configuration d’un analyseur d’influence d’opportunité](configure-an-opportunity-influence-analyzer.md)
-      >    
-      >    
-      >
-      >
-      >    
-      >    
-      >    
-
-
-
-
-
-   * [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting)
-
-
+   >[Configuration d’un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
