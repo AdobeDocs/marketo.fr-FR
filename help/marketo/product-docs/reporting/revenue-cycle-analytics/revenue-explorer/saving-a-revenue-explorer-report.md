@@ -3,7 +3,7 @@ unique-page-id: 7504725
 description: Enregistrement d'un rapport Explorateur de recettes - Documents marketing - Documentation du produit
 title: Enregistrement d’un rapport Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les rapports de l&#39;Explorateur de recettes peuvent être enregistrés dans le fichier de votre choix.
 
-1. Cliquez sur l&#39;icône **Enregistrer **.
+1. Cliquez sur l&#39;icône Enregistrer.
 
    ![](assets/image2015-3-25-17-3a8-3a49.png)
 
@@ -33,9 +33,4 @@ Les rapports de l&#39;Explorateur de recettes peuvent être enregistrés dans le
 
 >[!MORELIKETHIS]
 >
->* [S’abonner à un rapport Explorateur de recettes](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[S’abonner à un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
