@@ -3,7 +3,7 @@ unique-page-id: 7504047
 description: Créer un rapport Explorateur de recettes - Documents marketing - Documentation sur les produits
 title: Créer un rapport Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,10 +17,9 @@ Le rapport Explorateur de recettes vous permet de suivre le RSI de vos initiativ
 
 >[!AVAILABILITY]
 >
->
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-1. Accédez à la **zone Explorateur des recettes **zone.
+1. Accédez à la zone **Explorateur de recettes**.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
@@ -38,10 +37,5 @@ Le rapport Explorateur de recettes vous permet de suivre le RSI de vos initiativ
 
 >[!MORELIKETHIS]
 >
->* [Ajouter des champs à un rapport Explorateur de recettes](adding-fields-to-a-revenue-explorer-report.md)
->* [Ajouter des mesures personnalisées à un rapport Explorateur de recettes](adding-custom-measures-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[Ajouter des champs à un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>[Ajouter des mesures personnalisées à un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
