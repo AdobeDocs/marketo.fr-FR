@@ -3,7 +3,7 @@ unique-page-id: 11375276
 description: Dimensions personnalisées pour les statistiques par courriel - Documentation sur le marketing - Documentation sur les produits
 title: Dimensions personnalisées pour les statistiques de courriel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Toutes les dimensions standard du marketing sont incluses, mais vous avez la pos
 
 >[!CAUTION]
 >
->Les dimensions personnalisées **NE PEUVENT PAS** être supprimées ou remplacées. Choisissez donc soigneusement vos 10 dimensions.
+>Les dimensions personnalisées **ne peuvent pas** être supprimées ou remplacées. Choisissez donc soigneusement vos 10 dimensions.
 
 1. Dans les statistiques par courriel, cliquez sur l’icône d’engrenage dans l’angle supérieur droit de la page.
 
@@ -43,6 +43,4 @@ Toutes les dimensions standard du marketing sont incluses, mais vous avez la pos
    >
    >**Par Audience** : Affiche toutes les segments approuvés (depuis la base de données).
    >
-   >
    >**Par contenu** : Affiche toutes les balises de Programme
-
