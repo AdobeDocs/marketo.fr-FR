@@ -3,9 +3,9 @@ unique-page-id: 14746432
 description: Synchroniser les champs personnalisés avec les statistiques de performances - Documents marketing - Documentation du produit
 title: Synchroniser les champs personnalisés avec les statistiques de performances
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Les tableaux de bord Recettes MPI et Pipeline peuvent filtrer sur des champs Mar
 
 >[!NOTE]
 >
->Cet article s’adresse uniquement aux utilisateurs qui n’ont **pas** [RCA](https://docs.marketo.com/x/lwIk). Si vous disposez d’un RCA, suivez les étapes décrites dans [cet article](https://docs.marketo.com/x/FQQk).
+>Cet article s’adresse uniquement aux utilisateurs qui ne possèdent **pas** Revenu Cycle Analytics. Si vous disposez d’un RCA, suivez les étapes décrites dans [cet article](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md).
 
 1. Accédez à la section **Admin**.
 
@@ -50,4 +50,3 @@ Les tableaux de bord Recettes MPI et Pipeline peuvent filtrer sur des champs Mar
    >[!NOTE]
    >
    >Une fois activés, les champs seront disponibles dans MPI le lendemain.
-
