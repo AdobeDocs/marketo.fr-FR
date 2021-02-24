@@ -3,7 +3,7 @@ unique-page-id: 4718675
 description: Modification du nom d’une étape - Documents marketing - Documentation du produit
 title: Modification du nom d’une scène
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -27,8 +27,8 @@ Changez d&#39;avis ? Pas un problème. Il est facile de renommer une étape dans
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-   Cliquez sur Fermer.
+1. Cliquez sur **Fermer**.
+
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Vous voyez ? Facile ! Pensez à [approuver votre modèle](approve-unapprove-a-revenue-model.md).
-
+   Vous voyez ? Facile ! Pensez à [approuver votre modèle](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).
