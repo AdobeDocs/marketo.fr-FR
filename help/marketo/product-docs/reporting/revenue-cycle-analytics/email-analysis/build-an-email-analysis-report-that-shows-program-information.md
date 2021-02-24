@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Créez un rapport d'Analyse par courriel qui affiche des informations sur le Programme - Documents marketing - Documentation sur le produit
 title: Création d’un rapport d’Analyse par courriel qui affiche des informations sur le Programme
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,6 @@ Pour créer un rapport d’Analyse par courriel qui affiche les informations par
 
 >[!AVAILABILITY]
 >
->
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
 1. Lancez **Explorateur de recettes**.
@@ -28,7 +27,7 @@ Pour créer un rapport d’Analyse par courriel qui affiche les informations par
 
    ![](assets/image2014-9-17-19-3a42-3a32.png)
 
-1. Sélectionnez la zone** Analyse de courriel** et cliquez sur **OK**.
+1. Sélectionnez **Analyse électronique** et cliquez sur **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
@@ -44,7 +43,7 @@ Pour créer un rapport d’Analyse par courriel qui affiche les informations par
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Recherchez et doublon cliquez sur le point jaune** Programme Canal**.
+1. Recherchez et doublon cliquez sur le **Canal de Programme** point jaune.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
@@ -59,11 +58,3 @@ Pour créer un rapport d’Analyse par courriel qui affiche les informations par
    Super boulot ! Vous devriez avoir un rapport qui ressemble à ceci :
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)
-
-   >[!NOTE]
-   >
-   >**Plongée profonde**
-   >
-   >
-   >Vous souhaitez en savoir plus sur [l&#39;Explorateur du cycle de recettes](https://docs.marketo.com/display/docs/revenue+cycle+analytics) ?
-
