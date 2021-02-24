@@ -3,7 +3,7 @@ unique-page-id: 10097747
 description: Ajouter des mesures personnalisées à un rapport Explorateur de recettes - Documents marketing - Documentation du produit
 title: Ajouter des mesures personnalisées à un rapport Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,7 +21,8 @@ Dans l’exemple ci-dessous, vous créez une mesure calculée pour les rebonds �
 >
 >Vous avez besoin d’au moins une mesure dans votre rapport, mais il n’est pas nécessaire que ce soit l’une des mesures que vous utilisez pour définir votre mesure personnalisée.
 
-1. Placez le pointeur sur les champs dont vous avez besoin pour votre rapport. Voir [Ajouter des champs à un rapport Explorateur de recettes](adding-fields-to-a-revenue-explorer-report.md) pour plus de détails.
+1. Placez le pointeur sur les champs dont vous avez besoin pour votre rapport. Voir [Ajouter des champs à un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) pour plus de détails.
+
 1. Cliquez avec le bouton droit sur une mesure existante (cellule bleue), cliquez sur **Mesure définie par l’utilisateur** et sélectionnez **Mesure calculée**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
@@ -48,9 +49,4 @@ Dans l’exemple ci-dessous, vous créez une mesure calculée pour les rebonds �
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Ajouter des champs à un rapport Explorateur de recettes](adding-fields-to-a-revenue-explorer-report.md)
-
-
+   >[Ajouter des champs à un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
