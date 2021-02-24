@@ -3,7 +3,7 @@ unique-page-id: 4718640
 description: Présentation de la zone d'Analyse d'adhésion au Programme - Documentation sur le marketing - Documentation sur le produit
 title: Présentation de la zone d'Analyse d'adhésion des Programmes
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -68,4 +68,3 @@ Combien de nouveaux noms chaque programme/canal a-t-il générés par mois ?
 | % de réussite (Total) | Pourcentage de pistes qui ont réussi à progresser d&#39;un programme |
 | Succès (nouveaux noms) | Nombre total de nouveaux noms qui ont réussi à progresser d&#39;un programme |
 | Succès (total) | Nombre total de pistes qui ont réussi à progresser d&#39;un programme |
-
