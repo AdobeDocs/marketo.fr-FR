@@ -3,7 +3,7 @@ unique-page-id: 7504520
 description: Suppression d’un champ dans un rapport de l’Explorateur des recettes - Documents marketing - Documentation du produit
 title: Suppression d’un champ dans un rapport Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -25,9 +25,4 @@ Vous pouvez parfois faire glisser un champ incorrect dans le rapport. Voici comm
 
 >[!MORELIKETHIS]
 >
->* [Enregistrement d’un rapport Explorateur de recettes](saving-a-revenue-explorer-report.md)
-
->
-
-
-
+>[Enregistrement d’un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
