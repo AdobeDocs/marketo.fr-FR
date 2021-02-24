@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Comparer l'efficacité des Canaux à l'analyseur de Programme - Documentation sur le marketing - Documentation sur les produits
 title: Comparer l'efficacité des Canaux avec l'analyseur de Programme
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Utilisez Programme Analyzer pour comparer les coûts de canal, l&#39;acquisition
 
 >[!PREREQUISITES]
 >
->* [Création d’un analyseur de Programme](create-a-program-analyzer.md)
+>[Création d’un analyseur de Programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. Cliquez sur **Analyses** dans **Mon Marketo.**
+1. Cliquez sur **Analytics** dans **Mon Marketo**.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Sélectionnez votre **Analyseur de Programme.**
+1. Sélectionnez votre **Analyseur de Programme**.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Remplacez la Vue par **Par** **Canal**.
+1. Remplacez la Vue par **Par Canal**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
@@ -62,7 +61,7 @@ Utilisez Programme Analyzer pour comparer les coûts de canal, l&#39;acquisition
 
    Nous constatons que le canal Webinaire se réduit, comme mesuré par **Nouveaux noms**. Nous pouvons en conclure que, bien qu&#39;elle compte de nombreux membres, elle est moins efficace pour générer de nouvelles pistes que le canal du commerce.
 
-1. Enfin, utilisez la liste déroulante Couleur pour ajouter la quatrième dimension. Sélectionnez **(FT) Recettes** **Gagnées**.
+1. Enfin, utilisez la liste déroulante Couleur pour ajouter la quatrième dimension. Sélectionnez **(FT) Recettes gagnées**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -84,13 +83,6 @@ Dans notre exemple, nous constatons que le canal Tradeshow est à la fois le plu
 
 >[!MORELIKETHIS]
 >
->* [Explorez les détails sur les Programmes et les Canaux à l&#39;aide de l&#39;analyseur de Programmes](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Comparer l&#39;efficacité des Programmes avec l&#39;analyseur de Programme](compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Explorez les détails sur les Programmes et les Canaux à l&#39;aide de l&#39;analyseur de Programmes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Comparer l&#39;efficacité des Programmes avec l&#39;analyseur de Programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 
->
-
-
-
->[!NOTE]
->
->En savoir plus sur les analyses avancées dans [l&#39;Explorateur de cycles de recettes](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
