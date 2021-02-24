@@ -3,7 +3,7 @@ unique-page-id: 2360341
 description: Synchroniser les champs personnalisés avec l'Explorateur de recettes - Documents marketing - Documentation du produit
 title: Synchroniser les champs personnalisés avec l'Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -48,4 +48,3 @@ Pour générer des rapports sur les champs de marketing personnalisés, les anal
    >Une fois activées, les données seront disponibles dans l’analyse du cycle des recettes le lendemain.
 
    Beau boulot ! Vous savez maintenant comment ajouter des champs personnalisés à RCA.
-
