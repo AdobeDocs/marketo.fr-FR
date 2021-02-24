@@ -3,9 +3,9 @@ unique-page-id: 2360235
 description: Création d’un analyseur d’influence d’opportunité - Documents marketing - Documentation du produit
 title: Création d’un analyseur d’influence d’opportunité
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ ht-degree: 0%
 Utilisez l&#39;analyseur d&#39;influence d&#39;opportunité pour montrer la contribution du marketing à une opération importante. Voyez vos succès programmes et événements, ainsi que des moments intéressants, dans la vie d&#39;une opportunité.
 
 >[!NOTE]
->
->**Rappel**
 >
 >Pour obtenir de bons renseignements auprès d&#39;un analyseur d&#39;influence d&#39;opportunité, veillez à ce que vos contacts soient liés aux opportunités de votre CRM.
 
@@ -64,16 +62,6 @@ Utilisez l&#39;analyseur d&#39;influence d&#39;opportunité pour montrer la cont
 
 >[!MORELIKETHIS]
 >
->* [Analyseur d’influence d’opportunité pour raconter l’article marketing](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Configuration d’un analyseur d’influence d’opportunité](configure-an-opportunity-influence-analyzer.md)
-
->
-
-
-
->[!NOTE]
->
->**Plongée profonde**
->
->Pour les autres analyseurs, voir [Rapports de base](https://docs.marketo.com/display/docs/basic+reporting).
+>* [Analyseur d’influence d’opportunité pour raconter l’article marketing](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Configuration d’un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
 
