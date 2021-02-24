@@ -3,7 +3,7 @@ unique-page-id: 10099798
 description: Filtrage dans les statistiques par courriel - Documents marketing - Documentation du produit
 title: Filtrage dans les statistiques de courriel
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -63,7 +63,6 @@ Faites votre choix parmi des plages de dates prédéfinies courantes, sélection
 
 ## Marketing basé sur le compte {#account-based-marketing}
 
-Si vous utilisez [Marketing basé sur le compte](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), il existe des filtres spécifiques pour vous.
+Si vous utilisez [Cible Account Management](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), il existe des filtres spécifiques pour vous.
 
 ![](assets/abm.png)
-
