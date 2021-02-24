@@ -3,9 +3,9 @@ unique-page-id: 12979008
 description: Aperçu des contributions d’Analyses de performances - Documents marketing - Documentation du produit
 title: Présentation des contributions d’Analyses de performances
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,19 @@ Sélectionnez la mesure de vue des performances. Dans cet exemple, nous allons e
 
 >[!NOTE]
 >
->Découvrez [Première touche et Touche multiple](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Découvrez [Première touche et Touche multiple](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-Choisissez la période pour laquelle vous souhaitez afficher les mesures. Dans cet exemple, nous examinons l’année en cours (année à jour).   ![](assets/3-1.png)
+Choisissez la période pour laquelle vous souhaitez afficher les mesures. Dans cet exemple, nous examinons l’année en cours (année à jour).
+
+![](assets/3-1.png)
 
 >[!NOTE]
 >
 >Nous avons temporairement supprimé la sélection &quot;Année précédente&quot;. Vous avez toujours la possibilité d’afficher l’ensemble des données de performances de l’année précédente à l’aide de la sélection Plage personnalisée.
 
-Les mesures sont présentées sous la forme de deux graphiques : beignet et bar.   ![](assets/four.png)
+Les mesures sont présentées sous la forme de deux graphiques : beignet et bar.
+
+![](assets/four.png)
 
 Le graphique en anneau présente les dix premiers canaux de la mesure sélectionnée.
 
@@ -45,7 +49,9 @@ Le graphique à barres affiche les performances des programmes sur tous les cana
 >
 >Si vous souhaitez que les barres du graphique s’agrandissent au fur et à mesure que vous faites défiler les groupes, cochez la case **Ajuster l’axe Y à**.
 
-Placez le pointeur de la souris sur une barre pour afficher d’autres détails.   ![](assets/seven.png)
+Placez le pointeur de la souris sur une barre pour afficher d’autres détails.
+
+![](assets/seven.png)
 
 Sélectionnez un ou plusieurs canaux dans le graphique en anneau et tous les programmes associés à ces canaux apparaissent dans le graphique à barres à droite. Cliquez de nouveau sur le ou les canaux pour les désélectionner.
 
@@ -69,4 +75,3 @@ Développez un canal pour voir ses dix premiers programmes, avec les autres prog
 >[!NOTE]
 >
 >Cliquez sur la case en regard d’un canal pour l’activer/la désactiver dans le graphique en anneau ci-dessus.
-
