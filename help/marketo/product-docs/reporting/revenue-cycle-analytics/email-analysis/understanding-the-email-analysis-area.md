@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: Présentation de la zone d'Analyse des courriels - Documents marketing - Documentation du produit
 title: Présentation de la zone d'Analyse du courrier électronique
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 La zone d’Analyse des courriels est axée sur les mesures des courriels. Cet article présente tous les rapports disponibles.
 
 >[!AVAILABILITY]
->
 >
 >Cette option est disponible pour les utilisateurs disposant de l’édition Select ou du module complémentaire [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Contactez votre représentant commercial pour plus de détails.
 
@@ -61,4 +60,3 @@ Ce rapport montre le pourcentage du nombre total d&#39;ouvertures de courrier é
 Ce rapport indique le jour de la semaine et l&#39;heure de la journée où vous envoyez vos courriels. Plus la boîte est verte, plus les courriels sont envoyés le jour et l&#39;heure. Le filtre actuel inclut tous les courriers électroniques envoyés au cours des 7 derniers jours. Le temps est compté au CST.
 
 ![](assets/seven.png)
-
