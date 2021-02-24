@@ -3,9 +3,9 @@ unique-page-id: 2360397
 description: S'abonner à un rapport de l'Explorateur des recettes - Documents marketing - Documentation sur les produits
 title: S’abonner à un rapport Explorateur de recettes
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # S&#39;abonner à un rapport Explorateur de recettes {#subscribe-to-a-revenue-explorer-report}
 
-Pour recevoir les mises à jour de vos rapports [Explorateur du cycle de recettes](https://docs.marketo.com/display/docs/revenue+cycle+analytics) et les partager, vous pouvez vous abonner à n&#39;importe quelle adresse électronique d&#39;un rapport existant.
+Pour recevoir les mises à jour des rapports de l&#39;Explorateur de Revenu Cycle et les partager, vous pouvez vous abonner à un rapport existant à toute adresse électronique.
 
-1. Accédez à **Analytics** et sélectionnez **Nouveau > Nouvel Abonnement de rapports.**
+1. Accédez à **Analytics** et sélectionnez **Nouveau** > **Nouvel Abonnement de rapport**.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Pour vous abonner à un rapport de base que vous avez créé dans un programme, voir [S&#39;abonner à un rapport de base.](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >Pour vous abonner à un rapport de base que vous avez créé dans un programme, voir [S&#39;abonner à un rapport de base.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. Pour **Source du rapport**, sélectionnez** Explorateur des recettes**.
+1. Pour **Source du rapport**, sélectionnez **Explorateur de recettes**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -45,11 +45,4 @@ Pour recevoir les mises à jour de vos rapports [Explorateur du cycle de recette
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [gérer tous vos abonnements de rapports](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) en un seul endroit.
-
->[!NOTE]
->
->**Plongée profonde**
->
->Découvrez d&#39;autres choses que vous pouvez faire avec les analyses avancées de Marketo dans l&#39;[Explorateur de cycles de recettes](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
-
+>Découvrez comment [gérer tous vos abonnements de rapports](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) en un seul endroit.
