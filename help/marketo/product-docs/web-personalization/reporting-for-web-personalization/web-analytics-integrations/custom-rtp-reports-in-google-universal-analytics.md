@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Rapports RTP personnalisés dans Google Universal Analytics - Docs marketing - Documentation sur les produits
 title: Rapports RTP personnalisés dans Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Intégration de RTP à Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Intégration de RTP à Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-Cette publication explique comment configurer des rapports personnalisés RTP pour Google Universal Analytics (GUA).  Les données envoyées de RTP à GUA peuvent être configurées sous la forme de deux rapports personnalisés distincts appelés :
+Cet article explique comment configurer des rapports personnalisés RTP pour Google Universal Analytics (GUA).  Les données envoyées de RTP à GUA peuvent être configurées sous la forme de deux rapports personnalisés distincts appelés :
 
 * RTP B2B
 * Engagement RTP
@@ -25,31 +25,32 @@ Cette publication explique comment configurer des rapports personnalisés RTP po
 ## Configuration d’un rapport personnalisé {#setting-up-a-custom-report}
 
 1. Connectez-vous aux Google Analytics.
-1. Cliquez sur **Personnalisation **dans le menu supérieur.
-1. Cliquez sur **+Nouveau rapport personnalisé.**
 
-** ![](assets/image2015-3-22-16-3a10-3a48.png)
+1. Cliquez sur **Personnalisation** dans le menu supérieur.
 
-**
+1. Cliquez sur **+Nouveau rapport personnalisé**.
+
+![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## Rapport RTP B2B {#rtp-b-b-report}
 
 1. Nommez le rapport **RTP B2B Report**.
-1. Nommer le 1er onglet **Industrie **
 
-   1. (Remarque : vous allez **Duplicata cet onglet** et en créer d&#39;autres similaires - étape 5)
+1. Nommez le 1er onglet **Industrie**.
 
-1. Sélectionnez le type de rapport** Explorer**.\
-   ** ![](assets/image2015-3-22-16-3a15-3a25.png)
+>[!NOTE]
+>
+>Vous allez **Duplicata cet onglet** et en créer d&#39;autres similaires - étape 5)
 
-   **
+1. Sélectionnez le type de rapport **Explorateur**.
+
+   ![](assets/image2015-3-22-16-3a15-3a25.png)
 
 1. Dans la section **Groupes de mesures**, sélectionnez les mesures pertinentes pour votre activité.
 
-   1. Nous vous recommandons ce qui suit :\
-      ** ![](assets/image2015-3-22-16-3a16-3a40.png)
+   a. Nous vous recommandons ce qui suit :
 
-      **
+   ![](assets/image2015-3-22-16-3a16-3a40.png)
 
 1. Duplicata cet onglet 4 fois et nommez-le :
 
@@ -72,7 +73,7 @@ Cette publication explique comment configurer des rapports personnalisés RTP po
     </div></th> 
    <th> 
     <div>
-      Zoom sur les Dimensions 
+      Zoom sur les Dimensions
     </div></th> 
   </tr> 
  </thead> 
@@ -100,21 +101,28 @@ Cette publication explique comment configurer des rapports personnalisés RTP po
  </tbody> 
 </table>
 
-1. Ne définissez aucun filtres et ne configurez pas ce rapport pour qu’il soit disponible pour **Toutes les données du site Web ** (ou modifiez-le s’il est pertinent pour un compte Analytics spécifique).
-1. Cliquez sur **Enregistrer**.\
+1. Ne définissez aucun filtres et ne configurez pas ce rapport pour qu&#39;il soit disponible pour **Toutes les données du site Web** (ou modifiez-le s&#39;il est pertinent pour un compte Analytics spécifique).
+
+1. Cliquez sur **Enregistrer**.
+
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## Rapport d’engagement RTP {#rtp-engagement-report}
 
-1. Nommez le rapport **Rapport Engagement RTP.**
+1. Nommez le rapport **Rapport Engagement RTP**.
+
 1. Définissez le premier nom d’onglet sur **Tous les engagements**.
 
-   1. (Remarque : vous allez Duplicata cet onglet et en créer d&#39;autres similaires - étape 5)
+>[!NOTE]
+>
+>Vous allez Duplicata cet onglet et en créer d&#39;autres similaires - étape 5)
 
-1. Sélectionnez le type de rapport **Explorateur**.\
+1. Sélectionnez le type de rapport **Explorateur**.
+
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Dans la section Groupes de mesures, sélectionnez les mesures pertinentes pour votre activité. Voici une recommandation :\
+1. Dans la section Groupes de mesures, sélectionnez les mesures pertinentes pour votre activité. Voici une recommandation :
+
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. Duplicata cet onglet 4 fois et nommez-le :
@@ -125,7 +133,7 @@ Cette publication explique comment configurer des rapports personnalisés RTP po
    1. **Engagement par Catégorie**
    1. **Engagement par ABM**
 
-   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
+   ![](assets/image2015-3-22-16-3a26-3a21.png)
 
 1. Dans la section **Analyses de Dimension**, définissez les dimensions appropriées pour chaque onglet comme suit :
 
@@ -167,7 +175,6 @@ Cette publication explique comment configurer des rapports personnalisés RTP po
 </table>
 
 1. Définissez les filtres suivants :
-1. 
 
 <table> 
  <thead> 
@@ -212,7 +219,7 @@ Cette publication explique comment configurer des rapports personnalisés RTP po
  </tbody> 
 </table>
 
-1. Définir ce rapport comme disponible pour **Toutes les données du site Web **(ou le modifier si nécessaire)
+1. Définissez ce rapport pour qu&#39;il soit disponible pour **Toutes les données du site Web** (ou modifiez-le si nécessaire).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
@@ -222,7 +229,6 @@ Cette publication explique comment configurer des rapports personnalisés RTP po
 
 >[!MORELIKETHIS]
 >
->[Intégration de RTP à Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Intégration de RTP à Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
->[Tableaux de bord RTP personnalisés dans Google Universal Analytics](custom-rtp-dashboards-in-google-universal-analytics.md)
-
+>[Tableaux de bord RTP personnalisés dans Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
