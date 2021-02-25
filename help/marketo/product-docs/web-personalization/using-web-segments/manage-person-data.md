@@ -3,7 +3,7 @@ unique-page-id: 7504051
 description: Gérer les données personnelles - Documents marketing - Documentation du produit
 title: Gérer les données personnelles
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -15,10 +15,12 @@ ht-degree: 0%
 
 Tirez parti des données personnelles pour la personnalisation Web en sélectionnant les champs de personne à utiliser dans votre segmentation.
 
-1. Accédez à **Paramètres du compte**.\
+1. Accédez à **Paramètres du compte**.
+
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Accédez à **Base de données**.\
+1. Accédez à **Base de données**.
+
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Ajouter un champ Nouvelle personne {#adding-a-new-person-field}
@@ -29,11 +31,7 @@ Tirez parti des données personnelles pour la personnalisation Web en sélection
 
    >[!NOTE]
    >
-   >
-   >    
-   >    
-   >    * Un nouveau champ est ajouté dans un état en attente et peut prendre jusqu’à 24 heures pour être activé.
-
+   >Un nouveau champ est ajouté dans un état en attente et peut prendre jusqu’à 24 heures pour être activé.
 
 ## Suppression d’un champ de personne {#deleting-a-person-field}
 
@@ -45,13 +43,11 @@ Tirez parti des données personnelles pour la personnalisation Web en sélection
    >
    >**Gestion des champs de données personnelles**
    >
-   >    
-   >    
-   >    * Seuls les champs de données de personne peuvent être inclus
-   >    * Vous pouvez ajouter jusqu’à 30 champs de données de personne
-   >    * L’activation de l’Ajoute de nouveaux champs peut prendre jusqu’à 24 heures.
-   >    * La longueur maximale des types de chaîne est de 255 caractères
-   >    * Les champs masqués seront automatiquement supprimés
+   >* Seuls les champs de données de personne peuvent être inclus
+   >* Vous pouvez ajouter jusqu’à 30 champs de données de personne
+   >* L’activation de l’Ajoute de nouveaux champs peut prendre jusqu’à 24 heures.
+   >* La longueur maximale des types de chaîne est de 255 caractères
+   >* Les champs masqués seront automatiquement supprimés
 
 
 <table> 
@@ -108,9 +104,4 @@ Les champs de piste suivants sont prêts à l’emploi pour les nouveaux comptes
 
 >[!MORELIKETHIS]
 >
->* [Création d’un segment à l’aide de données de personne connue](create-a-segment-using-known-person-data.md)
-
->
-
-
-
+>[Création d’un segment à l’aide de données de personne connue](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
