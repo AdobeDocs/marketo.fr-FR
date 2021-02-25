@@ -3,9 +3,9 @@ unique-page-id: 13795536
 description: Création d’un segment à l’aide d’une Liste statique - Documents marketing - Documentation du produit
 title: Création d’un segment à l’aide d’une Liste statique
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Création d’un segment à l’aide d’une Liste statique {#create-a-segment-using-a-static-list}
 
-Segmentez les visiteurs Web connus lorsqu’ils visitent votre site Web selon s’ils se trouvent ou non dans l’une de vos [listes statiques ](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists) du marketing.
+Segmentez les visiteurs Web connus lorsqu’ils visitent votre site Web selon s’ils se trouvent ou non dans l’une de vos [listes statiques ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) du marketing.
 
 1. Accédez à **Segments**.
 
@@ -27,7 +27,7 @@ Segmentez les visiteurs Web connus lorsqu’ils visitent votre site Web selon s�
 
    ![](assets/three.png)
 
-1. Dans la zone Pistes connues, faites glisser **Listes statiques **sur la trame.
+1. Dans Pistes connues, faites glisser **Listes statiques** vers le canevas.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ Segmentez les visiteurs Web connus lorsqu’ils visitent votre site Web selon s�
    >
    >La liste déroulante et/ou est juste cela. Cliquez dessus pour sélectionner **et**, **ou**, ou **et/ou**.
 
-1. Cliquez sur **Enregistrer** pour enregistrer le segment ou **Enregistrer et définir Campaign **pour enregistrer et accéder à la page Campagnes.
+1. Cliquez sur **Enregistrer** pour enregistrer le segment ou sur **Enregistrer et définir Campaign** pour enregistrer et accéder à la page Campagnes.
 
    ![](assets/eight-1.png)
-
