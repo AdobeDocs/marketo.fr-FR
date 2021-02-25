@@ -3,9 +3,9 @@ unique-page-id: 2949158
 description: Intégration de RTP avec des Google Analytics - Docs marketing - Documentation du produit
 title: Intégration de RTP avec des Google Analytics
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '608'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Découvrez comment intégrer la [personnalisation Web à Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+Découvrez comment intégrer la [personnalisation Web à Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## Introduction {#introduction}
 
@@ -66,19 +66,23 @@ Mesurez vos campagnes RTP et corrélez-les à la moyenne globale de votre site. 
 
 ## Configuration de RTP avec des Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Ajoutez le courrier électronique [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b), en tant qu’utilisateur de lecture et d’analyse dans votre compte GA. Pour plus de détails, voir [ici](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Ajoutez le courrier électronique rtp.ga2@gmail.com en tant qu’utilisateur de lecture et d’analyse à votre compte GA. Pour plus de détails, voir [ici](https://support.google.com/analytics/answer/2884495?hl=en).
+
 1. Dans votre compte RTP. Accédez à **Paramètres du compte**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Sous **Paramètres du compte**, **Domaine** et **Analyses**
-1. Cliquez sur** Google Analytics.**
+1. Sous **Paramètres du compte**, **Domaine** et **Analytics**.
+
+1. Cliquez sur **Google Analytics**.
+
 1. Activez les **variables personnalisées** et **Événements** appropriés pour ajouter ces données de RTP aux Google Analytics.
+
 1. Entrez le **nombre d&#39;emplacements** pour envoyer des données de variable personnalisée (la valeur par défaut est 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-Cliquez sur **SAVE**.
+1. Cliquez sur **Enregistrer**.
 
 >[!NOTE]
 >
