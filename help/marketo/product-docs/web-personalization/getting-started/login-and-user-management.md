@@ -3,9 +3,9 @@ unique-page-id: 7513771
 description: Connexion et gestion des utilisateurs - Documents marketing - Documentation du produit
 title: Connexion et Gestion des utilisateurs
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Saisissez un nom de rôle et sélectionnez Autorisations. Cliquez sur **Créer** (ce rôle doit [s&#39;appliquer à tous les espaces de travail](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Saisissez un nom de rôle et sélectionnez Autorisations. Cliquez sur **Créer** (ce rôle doit [s&#39;appliquer à tous les espaces de travail](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Pour autoriser les utilisateurs à accéder à tous les éléments du ciblage et de la personnalisation, veillez à cocher *toutes* les cases.
+   >Pour autoriser les utilisateurs à accéder à tous les éléments du ciblage et de la personnalisation, veillez à cocher _toutes_ les cases.
 
 ## Personnalisation Web et autorisations d&#39;utilisateur de contenu prédictif {#web-personalization-and-predictive-content-user-permissions}
 
