@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: Créer un segment Web de base - Documents marketing - Documentation du produit
 title: Créer un segment Web de base
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Créons un segment de base ciblant tous les visiteurs Web des États-Unis et l&#
 
    ![](assets/segment-name.png)
 
-1. Faites glisser **Emplacement **depuis le menu de droite et déposez-le dans l’éditeur de segments.
+1. Faites glisser **Emplacement** depuis le menu de droite et déposez-le dans l’éditeur de segments.
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,17 +39,17 @@ Créons un segment de base ciblant tous les visiteurs Web des États-Unis et l&#
    >
    >Le nombre de villes est limité à 300 par segment.
 
-1. Faites glisser **Industries **depuis le menu de droite et déposez-le dans l’éditeur de segments.
+1. Faites glisser **Industries** dans le menu de droite et déposez-le dans l’éditeur de segments.
 
    ![](assets/industries-hand.jpg)
 
-1. Sélectionnez Industries à ajouter dans la liste déroulante. Sélectionnez **Services financiers ****Industrie**.
+1. Sélectionnez Industries à ajouter dans la liste déroulante. Sélectionnez **Secteur des services financiers**.
 
    ![](assets/segment-industries.png)
 
    Vous avez maintenant configuré un segment de base pour toutes les prospects visitant votre site Web en provenance des États-Unis et de l’industrie financière.
 
-1. Cliquez sur** Enregistrer **pour enregistrer le segment ou **Enregistrer et définir Campaign** pour accéder à la page Campagnes.
+1. Cliquez sur **Enregistrer** pour enregistrer le segment ou **Enregistrer et définir Campaign** pour accéder à la page Campagnes.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
@@ -57,9 +57,4 @@ Vous avez segmenté vos visiteurs des États-Unis, allez de l&#39;avant et ajout
 
 >[!MORELIKETHIS]
 >
->* [Segments Web](https://docs.marketo.com/x/9QFI)
-
->
-
-
-
+>[Segments Web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
