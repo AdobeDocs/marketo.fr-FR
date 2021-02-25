@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: Utilisation de modèles pour créer des campagnes Web - Documents marketing - Documentation sur les produits
 title: Utilisation de modèles pour créer des campagnes Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Accélérez et simplifiez votre processus de création de campagnes Web en utili
 >
 >Les modèles sont optimisés pour tous les périphériques et les expériences de navigation sur les ordinateurs de bureau et les appareils mobiles.
 
-1. Accédez à Campagnes Web.
+1. Accédez à **Campagnes Web**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Cliquez sur Créer une Campaign Web.
+1. Cliquez sur **Créer une Campaign Web**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,15 +35,13 @@ Accélérez et simplifiez votre processus de création de campagnes Web en utili
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Cliquez sur Modèles.
+1. Cliquez sur **Modèles**.
 
    ![](assets/templates.png)
 
 1. Sélectionnez la zone appropriée pour votre campagne pour afficher et sélectionner un modèle qui fonctionne pour vous.
 
    >[!NOTE]
-   >
-   >**Rappel**
    >
    >Il y a des modèles sympas à choisir, et nous en ajouterons d&#39;autres à l&#39;avenir.
 
@@ -57,7 +55,7 @@ Accélérez et simplifiez votre processus de création de campagnes Web en utili
 
    ![](assets/customize-template.jpg)
 
-1. Cliquez sur Enregistrer.
+1. Cliquez sur **Enregistrer**.
 
    ![](assets/click-save-hand.jpg)
 
@@ -65,9 +63,4 @@ Bien joué ! Avez-vous vu combien de temps vous avez économisé en utilisant un
 
 >[!MORELIKETHIS]
 >
->* [Enregistrer une Campaign en tant que modèle](save-your-campaign-as-a-template.md)
-
->
-
-
-
+>[Enregistrer une Campaign en tant que modèle](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
