@@ -3,7 +3,7 @@ unique-page-id: 4719340
 description: Exclure les adresses IP spécifiques du suivi - Documents marketing - Documentation du produit
 title: Exclure les adresses IP spécifiques du suivi
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Vous pouvez exclure des adresses IP individuelles et tout ou partie d’une plag
    ![](assets/exclude-ips-after.png)
 
    As-tu vu à quel point c&#39;était facile ? Vous pouvez désormais exclure toutes les données des adresses IP ajoutées, individuellement ou par plage.
-
