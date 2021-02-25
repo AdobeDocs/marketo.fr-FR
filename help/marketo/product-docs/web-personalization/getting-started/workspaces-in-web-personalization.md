@@ -3,7 +3,7 @@ unique-page-id: 17727499
 description: Espaces de travail dans la personnalisation Web - Documents marketing - Documentation du produit
 title: Espaces de travail dans la personnalisation Web
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -35,5 +35,4 @@ Pour passer d’un espace de travail à l’autre dans la personnalisation Web, 
 
 >[!NOTE]
 >
->Les utilisateurs ne pourront afficher que les campagnes Web et les segments associés aux espaces de travail auxquels ils ont accès. Voici comment [donner à un utilisateur l&#39;accès à un ou plusieurs espaces de travail](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
-
+>Les utilisateurs ne pourront afficher que les campagnes Web et les segments associés aux espaces de travail auxquels ils ont accès. Voici comment [donner à un utilisateur l&#39;accès à un ou plusieurs espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
