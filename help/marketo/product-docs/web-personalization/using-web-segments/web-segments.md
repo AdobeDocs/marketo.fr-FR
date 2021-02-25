@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Segments Web - Documents marketing - Documentation du produit
 title: Segments Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Dans la personnalisation Web, un visiteur peut correspondre à plusieurs segment
  </tbody> 
 </table>
 
-Voir [comment créer et vue des étiquettes de segments](label-your-segment.md)
+Voir [comment créer et vue des étiquettes de segments](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 **Segments - Panneau de droite**
 
@@ -108,23 +108,32 @@ Définissez des paramètres généraux pour votre segment :
 >1. Utiliser tous les Filtres (1, 2 et 3...)
 >1. Utiliser n&#39;importe quel Filtres (1, 2 ou 3...)
 >1. Filtres avancés (utilisation et / ou expressions)
->
->    Les filtres avancés vous permettent de contrôler la condition du segment. Entrez les numéros de filtre séparés par &quot;et&quot; et &quot;ou&quot;.
->
->    * 1 et 2 et 3
->    * 1 ou 2 ou 3
->
->    Le mélange de &quot;et&quot; et &quot;ou&quot; nécessite des parenthèses pour clarifier l&#39;intention logique. par ex. &quot;1 ou 2 et 3&quot; doit être écrit comme suit :
->
->    * 1 et (2 ou 3)
->    * (1 et 2) ou 3
->
->    Les parenthèses imbriquées sont acceptées pour une logique plus complexe (ex.
->
->    * (1 et 2) ou (3 et 4)
->    * 1 et (2 ou (3 et 4))
->
->    Vérifiez votre logique après toute insertion, suppression ou réorganisation.
+
+   >
+   >    
+   Les filtres avancés vous permettent de contrôler la condition du segment. Entrez les numéros de filtre séparés par &quot;et&quot; et &quot;ou&quot;.
+   >
+   >    
+   * 1 et 2 et 3
+   >    * 1 ou 2 ou 3
+
+   >
+   >    Le mélange de &quot;et&quot; et &quot;ou&quot; nécessite des parenthèses pour clarifier l&#39;intention logique. par ex. &quot;1 ou 2 et 3&quot; doit être écrit comme suit :
+   >
+   >    
+   * 1 et (2 ou 3)
+   >    * (1 et 2) ou 3
+
+   >
+   >    Les parenthèses imbriquées sont acceptées pour une logique plus complexe (ex.
+   >
+   >    
+   * (1 et 2) ou (3 et 4)
+   >    * 1 et (2 ou (3 et 4))
+
+   >
+   >    Vérifiez votre logique après toute insertion, suppression ou réorganisation.
+
 
 Faites glisser les attributs de segment de la colonne de droite vers l’éditeur de segments sur le côté gauche :
 
@@ -170,18 +179,18 @@ Sous la section **Segmentation de Profil**, cochez la case en regard de **Groupe
    * Entreprise - Inclut les entreprises comptant plus de 1 000 employés et dont les recettes dépassent 250 millions de dollars
    * PME - Inclut uniquement les petites et moyennes entreprises dans ce segment
 
-**Comptes nommés**
+**-Comptes nommés-**
 
 **Organisations**
 
 * **Provient de ces sociétés (noms spécifiques)**
 
    * Sélectionnez société à cible dans la liste déroulante Sélectionner la société à ajouter.
-   * Vous pouvez saisir le nom exact de l&#39;organisation que vous souhaitez cible. *Il est *toujours *recommandé d&#39;utiliser des Listes de compte nommé au lieu de saisir les noms manuellement pour de meilleures correspondances (voir ci-dessous).*
+   * Vous pouvez saisir le nom exact de l&#39;organisation que vous souhaitez cible. *Il est _toujours_ recommandé d&#39;utiliser des Listes de compte nommé au lieu de saisir les noms manuellement pour obtenir de meilleures correspondances (voir ci-dessous).
 
 **Liste de compte nommée**
 
-Sélectionnez une [Liste de compte nommée](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) pour segmenter les comptes ciblés clés.
+Sélectionnez une [Liste de compte nommée](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) pour segmenter les comptes ciblés clés.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
@@ -199,7 +208,7 @@ Exclut les Prestataires Internet (FAI) du segment.
 
 La personnalisation Web s’intègre à votre base de données de marketing, ce qui vous permet de segmenter et de personnaliser les campagnes en fonction d’attributs et de données de personnes connues.
 
-Sélectionnez Base de données et sélectionnez un champ de données de personne dans la liste déroulante. Sélectionnez le   **+** pour ajouter des champs à partir de la liste déroulante.
+Sélectionnez Base de données et sélectionnez un champ de données de personne dans la liste déroulante. Sélectionnez **+** pour ajouter des champs dans la liste déroulante.
 
 ![](assets/seven.png)
 
@@ -262,7 +271,7 @@ Faites glisser et déposez le SE Mobile dans l’éditeur de segments.
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Type de visiteur**
+* **Type de visiteur**<br />
 
    **Système d’exploitation**  mobile : dans la liste déroulante, sélectionnez un ou plusieurs systèmes d’exploitation mobiles répertoriés. Le système d’exploitation mobile sélectionné s’affiche ci-dessous.
 
@@ -319,8 +328,8 @@ Vous ne pouvez pas supprimer un segment associé à une campagne. Vous devez d�
 Super ! Maintenant que vous connaissez la section Segments, découvrons les campagnes.
 
 >[!MORELIKETHIS]
-* [Créer un segment Web de base](create-a-basic-web-segment.md)
-* [Créer une Campaign Web de boîte de dialogue](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Créer une Campaign Web en zone](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Créer un widget Web Campaign](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Créer un segment Web de base](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Créer une Campaign Web de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Créer une Campaign Web en zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Créer un widget Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
