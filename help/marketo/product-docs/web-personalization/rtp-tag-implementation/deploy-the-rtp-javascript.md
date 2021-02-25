@@ -3,9 +3,9 @@ unique-page-id: 4719332
 description: Déploiement du code JavaScript RTP - Docs marketing - Documentation du produit
 title: Déploiement du code JavaScript RTP
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Pour générer et configurer votre balise RTP, suivez les instructions d’insta
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Dans **Domain** et **Domain Configuration**, recherchez le domaine approprié et cliquez sur **Générer la balise.**
+1. Dans **Domain** et **Domain Configuration**, recherchez le domaine approprié et cliquez sur **Générer la balise**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -42,8 +42,3 @@ Pour générer et configurer votre balise RTP, suivez les instructions d’insta
    Vous êtes maintenant configuré avec la balise RTP et prêt à début [en créant des segments](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) et des campagnes en temps réel !
 
 1. Vérifiez que la balise se trouve sur toutes les pages.
-
->[!MORELIKETHIS]
->
->* [Implémentation des balises RTP](https://docs.marketo.com/display/docs/rtp+tag+implementation)
-
