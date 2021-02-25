@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Reciblage avec les données de personnalisation Web - Documentation marketing - Documentation du produit
 title: Reciblage avec les données de personnalisation Web
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,14 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >Le reciblage de site Web relève désormais du volet Personnalisation Web. Si vous avez acheté uniquement le ciblage, cette mosaïque s’affiche et accédez au produit Personnalisation Web avec **uniquement** les fonctionnalités de ciblage activées. Vous avez ainsi accès aux paramètres du compte, à la page de reciblage, aux segments et aux pages de suivi supplémentaires.
 
 Cibles de remarketing qui ont déjà visité votre site par le passé avec des publicités affichées en fonction de leur identité et de ce qu’elles ont fait. Le reciblage personnalisé cible des audiences spécifiques avec des publicités pertinentes basées sur l’industrie, les comptes nommés et les données sur les personnes connues.
 
 La personnalisation Web ajoute actuellement des données aux plateformes de remarketing suivantes :
 
-* [Google](personalized-remarketing-in-google.md)
-* [Facebook](personalized-remarketing-in-facebook.md)
+* [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+* [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
 La personnalisation Web envoie les données suivantes aux plateformes de remarketing pour créer des audiences et exécuter des campagnes publicitaires de remarketing :
 
@@ -69,12 +68,11 @@ La personnalisation Web envoie les données suivantes aux plateformes de remarke
    >
    >La balise de ciblage Google doit être implémentée sur votre site Web.
    >
-   >
    >Si vous avez déjà configuré votre intégration à la personnalisation Web et aux Google Analytics, vous n’avez pas besoin de modifier cette partie car il s’agit de la même configuration sous Paramètres du compte.
 
    ![](assets/two.png)
 
-1. Activez la configuration pour Facebook. Cliquez et développez l’accordéon Facebook, cliquez sur **Sur **pour envoyer le Événement et les données correspondants à l’Audience Manager Facebook. Cliquez sur **Enregistrer**.
+1. Activez la configuration pour Facebook. Cliquez et développez l’accordéon Facebook, cliquez sur **On** pour envoyer le Événement et les données correspondants à l’Audience Manager Facebook. Cliquez sur **Enregistrer**.
 
    >[!NOTE]
    >
@@ -98,12 +96,6 @@ Une Audience segmentée vous permet de sélectionner un segment existant comme a
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Cliquez sur **SAVE**.
+1. Cliquez sur **Enregistrer**.
 
    Vous avez maintenant terminé la configuration du reciblage dans la personnalisation Web, vous connectez à vos plateformes de reciblage et créez vos audiences en fonction de ces données et configurez vos campagnes publicitaires de reciblage.
-
->[!MORELIKETHIS]
->
->* [Remarketing personnalisé dans Google](personalized-remarketing-in-google.md)
->* [Remarketing personnalisé dans Facebook](personalized-remarketing-in-facebook.md)
-
