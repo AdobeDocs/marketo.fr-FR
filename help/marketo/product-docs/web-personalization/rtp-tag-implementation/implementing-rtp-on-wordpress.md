@@ -3,9 +3,9 @@ unique-page-id: 4720149
 description: Implémentation de RTP sur Wordpress - Marketo Docs - Documentation du produit
 title: Implémentation de RTP sur Wordpress
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,10 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
 1. Dans la liste des fichiers de modèle à droite de l’éditeur de texte, recherchez **header.php** et ouvrez-le.
-1. Accédez à **Paramètres du compte.**
 
-   Si vous avez déjà reçu votre balise JavaScript de l’assistance - passez à l’étape 5.
+1. Accédez à **Paramètres du compte**.
+
+   a. Si vous avez déjà reçu votre balise JavaScript de l’assistance - passez à l’étape 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
@@ -34,11 +35,12 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
 
 1. Copiez la balise JavaScript RTP et collez-la dans vos modèles de site Web.
 
-   Assurez-vous qu’il s’agit du premier script dans l’en-tête de la page, entre les balises **`<head> </head>`**.
+   a. Assurez-vous qu’il s’agit du premier script dans l’en-tête de la page, entre les balises **`<head> </head>`**.
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
 1. Cliquez sur **Mettre à jour le fichier** pour le fichier header.php.
-1. Vérifiez qu’il s’affiche sur tous les landings page et sous-domaines `pages including`.
 
-   Pour ce faire, cliquez avec le bouton droit de la souris sur votre `website’s` page. Accédez à **Source de la page de Vue.** Recherchez  **** RTP pour localiser la balise.
+1. Vérifiez qu’il s’affiche sur toutes les pages, y compris les landings page et sous-domaines.
+
+   a. Pour ce faire, cliquez avec le bouton droit de la souris sur la page de votre site Web. Accédez à **Source de la page de Vue.** Recherchez  **** RTP pour localiser la balise.
