@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: Intégration à Adobe Analytics - Docs marketing - Documentation sur les produits
 title: Intégration avec Adobe Analytics
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,40 +64,40 @@ Pour configurer ces variables dans AA, procédez comme suit :
 
 1. Accédez à **Outils d’administration** dans votre compte AA.
 1. Sélectionnez la **Report Suite** à utiliser avec l&#39;intégration.
-1. Sous **Modifier les paramètres,** accédez à **Conversion** et sélectionnez ** [Variables de conversion](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
+1. Sous **Modifier les paramètres**, accédez à **Conversion** et sélectionnez **[Variables de conversion](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
    Sélectionnez le nombre [Variable de conversion](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (nous vous recommandons de le faire) :
 
-   1. 
+   1. eVar n° 20 pour les conversions personnalisées du secteur
+   1. eVar n° 21 pour les conversions personnalisées d&#39;organisation
 
-      1. eVar n° 20 pour les conversions personnalisées du secteur
-      1. eVar n° 21 pour les conversions personnalisées d&#39;organisation
+   >[!NOTE]
+   >
+   >Si ces # sont pris, sélectionnez un autre nombre disponible. Alignez ce numéro avec le numéro d&#39;emplacement dans Paramètres du compte RTP.
 
-         >[!NOTE]
-         >
-         >Si ces # sont pris, sélectionnez un autre nombre disponible. Alignez ce numéro avec le numéro d&#39;emplacement dans Paramètres du compte RTP.
+   1. Remplacez le statut par _Activé_.
 
-      1. Modifier l&#39;état en * Activé*
+      1. Remplacez le nom par **Industrie** et **Organisation**. (Voici comment il apparaîtra dans la suite de rapports.)
 
-         1. Remplacez le nom par **Industrie** et **Organisation**. (Voici comment il apparaîtra dans la suite de rapports.)
+      1. Remplacez le champ Expire après par **Visite**.
 
-         1. Remplacez le champ Expire après par **Visite.**
 
-1. Sous **Modifier les paramètres **accédez à** Conversion **et sélectionnez ** [Événements de réussite](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. Sous **Modifier les paramètres**, accédez à **Conversion** et sélectionnez **[Événements de réussite](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
-1. Sélectionnez le numéro de Événement des Événements de réussite personnalisés (nous vous recommandons de le faire) :
+   1. Sélectionnez le numéro de Événement des Événements de réussite personnalisés (nous vous recommandons de le faire) :
 
-   1. événement20 pour les campagnes RTP
-   1. événement21 pour les segments RTP
+      1. événement20 pour les campagnes RTP
+      1. événement21 pour les segments RTP
 
       >[!NOTE]
       >
       >Si ces # sont pris, sélectionnez un autre nombre disponible. Alignez ce numéro avec le numéro d&#39;emplacement dans Paramètres du compte RTP.
 
-   1. Modifiez les noms des deux événements en **Campagnes RTP** et **Segments RTP**. Il s’agit du nom qui apparaîtra dans la suite de rapports.
+      1. Modifiez les noms des deux événements en **Campagnes RTP** et **Segments RTP**. Il s’agit du nom qui apparaîtra dans la suite de rapports.
+   1. Sélectionnez le champ Type à **Compteur (sans sous-relations)**
 
-1. Sélectionnez le champ Type* *à **Compteur (sans sous-relations)**
 
-1. Sous **Modifier les paramètres**, accédez à ** [Trafic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **et sélectionnez ** [Variables de trafic](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+
+1. Sous **Modifier les paramètres**, accédez à **[Trafic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** et sélectionnez **[Variables de trafic](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Sélectionnez la propriété # de la variable de trafic (nous vous recommandons) :
 
@@ -106,13 +106,16 @@ Pour configurer ces variables dans AA, procédez comme suit :
       1. Propriété n° 25 - Nom : Organisation Campaign
       1. Propriété n° 26 - Nom : Industrie Campaign RTP
 
-         >[!NOTE]
-         >
-         >Si ces # sont pris, sélectionnez un autre nombre disponible. Aligner ce nombre avec le numéro d&#39;emplacement dans Paramètres du compte RTP)
+      >[!NOTE]
+      >
+      >Si ces # sont pris, sélectionnez un autre nombre disponible. Aligner ce nombre avec le numéro d&#39;emplacement dans Paramètres du compte RTP)
 
       1. Modifiez les 4 noms de propriétés. Il s’agit du nom qui apparaîtra dans la suite de rapports.
-   1. Sélectionnez le champ Activé pour **Activé**
-   1. Sélectionnez le champ Rapports Chemin sur **Activé**
+   1. Sélectionnez le champ Activé à **Activé**.
+
+   1. Sélectionnez le champ Rapports Chemin sur **Activé**.
+
+
 
 
 ## Configurer dans la personnalisation en temps réel du marketing (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
@@ -123,9 +126,9 @@ Pour configurer ces variables dans AA, procédez comme suit :
 
 1. Sous **Paramètres du compte**, cliquez sur **Domaine**.
 1. Sous **Analytics, cliquez sur** **Adobe Analytics**.
-1. Activez **l&#39;option **les variables Conversion, Personnalisé et Trafic bascule.
+1. Activez **l&#39;option** bascule la variable Conversion, Custom et Traffic.
 1. Affecter les variables de conversion, de Événement et de trafic **numéros d&#39;emplacement** pour qu&#39;elles correspondent aux numéros d&#39;emplacement créés dans AA
-1. Cliquez sur **SAVE**.
+1. Cliquez sur **Enregistrer**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -169,13 +172,11 @@ Voici quelques exemples de rapports et de tableaux de bord personnalisés dans A
 * Pages vues par organisation
 * Performances du canal marketing en fonction de l’organisation, du secteur, des segments
 
-**Exemples de rapports**
+**-Exemples de rapports-**
 
 **Rapport Principales industries**
 
-** ![](assets/top-industries-report.png)
-
-**
+![](assets/top-industries-report.png)
 
 **Rapport Organisations**
 
@@ -185,39 +186,47 @@ Voici quelques exemples de rapports et de tableaux de bord personnalisés dans A
 
 Créez un [nouveau tableau de bord](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), appelé **Tableau de bord RTP**. Ce tableau de bord vous aidera à comprendre la ventilation de vos visiteurs en fonction des secteurs verticaux et des segments RTP.
 
-1. Cliquez sur **Tableau de bord,** clic** Tableau de bord d&#39;Ajoute**
+1. Cliquez sur **Tableau de bord,** cliquez sur **Ajouter Tableau de bord**.
 
 1. Nommez le Tableau de bord **Tableau de bord RTP**.
-1. Sélectionnez la **taille du tableau de bord** 3 x 2, 2 x 2
+
+1. Sélectionnez la **taille du tableau de bord** 3 x 2, 2 x 2.
+
 1. Créez le mini-rapport [](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) et ajoutez le [contenu au tableau de bord](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
 
 Ajouter le petit rapport Industries au Tableau de bord
 
-1. Accédez à **Conversions personnalisées**, cliquez sur **Industrie**
+1. Accédez à **Conversions personnalisées**, cliquez sur **Industrie**.
 
-1. Configurer Graphique à **Diagramme circulaire**
+1. Configurez Graphique en **Graphique circulaire**.
+
 1. Cliquez sur **Tableau de bord**, ajoutez **petit rapport**.
 
-1. Nommez le rapport **Principales industries**
-1. Placer dans le Tableau de bord **Tableau de bord RTP**
+1. Nommez le rapport **Principales industries**.
+
+1. Placer dans le Tableau de bord **Tableau de bord RTP**.
+
 1. Créer **Nouveau**.
 
 Ajouter le petit rapport Segments au Tableau de bord
 
-1. Accédez à **Mesures du site, **Cliquez sur **Événements personnalisés, Segments**
+1. Accédez à **Mesures du site**. Cliquez sur **Événements personnalisés**, **Segments**.
 
-1. Configurer Graphique à **Barre verticale**
+1. Configurez Graph sur **Barre verticale**.
+
 1. Cliquez sur **Tableau de bord**, ajoutez **petit rapport**.
 
 1. Nommez le rapport **Principaux segments**.
-1. Placer dans le Tableau de bord **Tableau de bord RTP**
-1. Créer **Nouveau.**
+
+1. Placer dans le Tableau de bord **Tableau de bord RTP**.
+
+1. Créer **Nouveau**.
 
 Vos petits rapports s’afficheront dans le tableau de bord.
 
 ## Impressions de vue et clics (conversions) dans Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. Cliquez sur Liens personnalisés.
+1. Cliquez sur **Liens personnalisés**.
 
    ![](assets/sitecatalyst1-1.png)
 
@@ -227,4 +236,3 @@ Vos petits rapports s’afficheront dans le tableau de bord.
 1. Recherchez Conversion en segment de vue et noms Campaign représentant le nombre de clics pour la campagne.
 
    ![](assets/sitecatalyst2.png)
-
