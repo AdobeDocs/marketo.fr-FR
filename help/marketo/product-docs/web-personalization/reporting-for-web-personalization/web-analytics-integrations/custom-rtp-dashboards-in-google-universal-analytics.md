@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Tableaux de bord RTP personnalisés dans Google Universal Analytics - Docs marketing - Documentation sur les produits
 title: Tableaux de bord RTP personnalisés dans Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Intégration de RTP à Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Intégration de RTP à Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-Ce billet explique comment configurer des tableaux de bord RTP dans Google Universal Analytics (GUA).  Les données envoyées de RTP à GUA peuvent être configurées sous la forme de deux tableaux de bord personnalisés distincts appelés :
+Ce billet explique comment configurer des tableaux de bord RTP dans Google Universal Analytics (GUA). Les données envoyées de RTP à GUA peuvent être configurées sous la forme de deux tableaux de bord personnalisés distincts appelés :
 
 * RTP B2B
 * Engagement RTP
 
 ## Configuration d’un Tableau de bord personnalisé {#setting-up-a-custom-dashboard}
 
-1. Connectez-vous aux Google Analytics. Cliquez sur **Rapports **dans le menu supérieur. Cliquez sur **Tableaux de bord **et **+Nouveau Tableau de bord personnalisé.**
+1. Connectez-vous aux Google Analytics. Cliquez sur **Rapports** dans le menu supérieur. Cliquez sur **Tableaux de bord** et **+Nouveau Tableau de bord personnalisé**.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
 1. Sélectionnez **Canevas vierge**, ajoutez un **nom du Tableau de bord** et cliquez sur **Créer un Tableau de bord**.
 
-1. Cliquez sur **Ajouter le widget** pour créer un widget.\
+1. Cliquez sur **Ajouter le widget** pour créer un widget.
+
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## Tableau de bord RTP B2B {#rtp-b-b-dashboard}
@@ -45,7 +46,7 @@ Le tableau de bord se compose de 3 colonnes.
 * Segmentation
 * Zoom avant sur les microrégraphies
 
-1. Créez un nouveau tableau de bord appelé **RTP B2B Tableau de bord **et définissez les widgets suivants :
+1. Créez un nouveau tableau de bord appelé **Tableau de bord B2B RTP** et définissez les widgets suivants :
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -54,7 +55,7 @@ Le tableau de bord se compose de 3 colonnes.
   <tr> 
    <th> 
     <div>
-      Colonne 1 - Sources de trafic 
+      Colonne 1 - Sources de trafic
     </div></th> 
    <th> 
     <div> <strong>Colonne 2 - Segmentation</strong> 
@@ -151,11 +152,9 @@ Le tableau de bord se compose de 3 colonnes.
 
 Ce tableau de bord permet aux utilisateurs d’analyser les performances de leurs campagnes RTP et les engagements de leurs moteurs de recommandation. Il fournit une comparaison de la moyenne. durée de la session et pages par session entre :
 
-* 
-
-   * Non engagé
-   * Engagé (impressions et clics sur une campagne personnalisée)
-   * Clics sur le moteur de recommandation et le contenu recommandé le plus élevé
+* Non engagé
+* Engagé (impressions et clics sur une campagne personnalisée)
+* Clics sur le moteur de recommandation et le contenu recommandé le plus élevé
 
 Créez un nouveau tableau de bord appelé **Tableau de bord d’engagement RTP** et définissez les widgets suivants :
 
@@ -265,7 +264,6 @@ Créez un nouveau tableau de bord appelé **Tableau de bord d’engagement RTP**
 
 >[!MORELIKETHIS]
 >
->[Intégration de RTP à Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Intégration de RTP à Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[Rapports RTP personnalisés dans Google Universal Analytics](custom-rtp-reports-in-google-universal-analytics.md)
-
+>[Rapports RTP personnalisés dans Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
