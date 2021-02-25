@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: Créer une nouvelle Liste de compte - Docs marketing - Documentation du produit
 title: Créer une Liste de compte
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ Créez et téléchargez une liste de noms d’organisation et de domaine pour ci
    >
    >**Quel est le format du fichier CSV ?**
    >
-   >
    >Assurez-vous que le fichier CSV du compte nommé respecte les exigences suivantes :
    >
    >* Enregistré au format CSV
@@ -50,8 +49,6 @@ Créez et téléchargez une liste de noms d’organisation et de domaine pour ci
 
    >[!NOTE]
    >
-   >**Exemple**
-   >
    >**Exemple de fichier CSV**
    >
    >* Ligne 1 Colonne A Valeur = Organisation
@@ -62,16 +59,16 @@ Créez et téléchargez une liste de noms d’organisation et de domaine pour ci
    >* Le pays et l’état sont des valeurs facultatives.
 
       >
-      >  
-   * Pour le nom du pays, utilisez le nom complet du pays ou le code d’abréviation. Par ex. États-Unis ou États-Unis.
-   >  * Pour un État des États-Unis, utilisez le code d’abréviation à deux lettres, c’est-à-dire CA. Seuls les États américains sont reconnus.
+      >   
+      * Pour le nom du pays, utilisez le nom complet du pays ou le code d’abréviation. Par ex. États-Unis ou États-Unis.
+      >   * Pour un État des États-Unis, utilisez le code d’abréviation à deux lettres, c’est-à-dire CA. Seuls les États américains sont reconnus.
 
-   >    
+   >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
 ## Modifier une Liste de compte {#edit-an-account-list}
 
-Sur la page **Listes de compte**, cliquez sur l&#39;icône **Modifier **sur la liste.
+Sur la page **Listes de compte**, cliquez sur l&#39;icône **Modifier** de la liste.
 
 ![](assets/create-new-account-list-edit.jpg)
 
@@ -83,7 +80,7 @@ Le fichier CSV remplace le fichier existant. La liste existante restera principa
 
 ## Supprimer une Liste de compte nommée {#delete-a-named-account-list}
 
-1. Sur la page **Listes de compte **, cliquez sur l&#39;icône **Supprimer **de la liste à supprimer.
+1. Sur la page **Listes de compte**, cliquez sur l&#39;icône Supprimer de la liste à supprimer.
 
    ![](assets/create-new-account-list-delete.jpg)
 
@@ -93,6 +90,4 @@ Le fichier CSV remplace le fichier existant. La liste existante restera principa
 
 >[!MORELIKETHIS]
 >
->* [Création d’un segment à l’aide d’une Liste de compte](create-a-segment-using-an-account-list.md)
->* [Vue d&#39;une Liste de compte nommée](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
-
+>[Création d’un segment à l’aide d’une Liste de compte](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
