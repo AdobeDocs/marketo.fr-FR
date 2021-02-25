@@ -3,7 +3,7 @@ unique-page-id: 10097163
 description: Activation ou désactivation de la balise JavaScript RTP - Documents marketing - Documentation du produit
 title: Activation ou désactivation de la balise JavaScript RTP
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -34,4 +34,3 @@ La balise JavaScript RTP contrôle si la personnalisation Web suit ou non l’ac
 1. Pour activer la balise RTP, dans Configuration du domaine et du domaine, sous Balise, sélectionnez la bascule **On**.
 
    Facile.
-
