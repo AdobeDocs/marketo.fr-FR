@@ -3,9 +3,9 @@ unique-page-id: 4720218
 description: Implémentation de RTP à l’aide d’Adobe Tag Manager - Docs marketing - Documentation du produit
 title: Implémentation de RTP à l’aide d’Adobe Tag Manager
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,10 @@ ht-degree: 0%
 Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation ci-dessous :
 
 1. Connectez-vous à votre compte RTP.
-1. Accédez à **Paramètres du compte.**
 
-   Si vous avez déjà reçu votre balise JavaScript de l’assistance - passez à l’étape 4.
+1. Accédez à **Paramètres du compte**.
+
+   a. Si vous avez déjà reçu votre balise JavaScript de l’assistance - passez à l’étape 4.
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
@@ -27,11 +28,12 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
 1. Connectez-vous à votre compte Gestionnaire dynamique de balises ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
+
 1. Accédez au **Tableau de bord.** Cliquez sur la propriété web appropriée.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Accédez à **Règles,** cliquez sur **Créer une règle.**
+1. Accédez à **Règles**, cliquez sur **Créer une règle**.
 
 1. Renseignez les champs suivants
 
@@ -42,6 +44,7 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
 1. Appelez la nouvelle balise : **Balise Marketo RTP**
+
 1. Supprimez le code suivant de la balise RTP
 
    * `<script type='text/javascript'>`
@@ -63,4 +66,4 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
 
 1. **** Vérifiez qu’il s’affiche sur toutes les pages, y compris les landings page et sous-domaines.
 
-   Vous pouvez le faire en cliquant avec le bouton droit sur les pages de votre site Web. Accédez à **Inspect Element**, cliquez sur **Network, **Search : **RTP**.
+   Vous pouvez le faire en cliquant avec le bouton droit sur les pages de votre site Web. Accédez à **Inspect Element**, cliquez sur **Réseau**, Rechercher : **RTP**.
