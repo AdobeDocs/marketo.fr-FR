@@ -3,7 +3,7 @@ unique-page-id: 10093159
 description: Présentation des analyses de contenu - Documents marketing - Documentation du produit
 title: Présentation de l’analyse de contenu
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -100,6 +100,6 @@ Dans la page Analyse de contenu, cliquez sur l’icône de suppression du conten
 
 >[!MORELIKETHIS]
 >
->* [Activation de la barre de recommandation de contenu](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [Activer le contenu prédictif pour les médias enrichis en ligne](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [Activation de la barre de recommandation de contenu](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [Activer le contenu prédictif pour les médias enrichis en ligne](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
