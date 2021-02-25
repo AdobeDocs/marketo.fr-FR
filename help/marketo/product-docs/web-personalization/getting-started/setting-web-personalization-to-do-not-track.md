@@ -3,7 +3,7 @@ unique-page-id: 11382593
 description: Définition de la personnalisation Web sur Ne pas suivre - Documentation sur le marketing - Documentation sur le produit
 title: Définition de la personnalisation Web sur laquelle ne pas effectuer de suivi
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Dans Personnalisation Web et Contenu prédictif, un spécialiste du marketing pe
    >La définition de la bascule sur Activé peut affecter la valeur et les fonctionnalités du marketing dans des zones spécifiques.
 
 1. Pour désactiver la bascule Honor DNT et ignorer le paramètre Do No Track (DNT) du navigateur, sélectionnez **Désactivé** sous Honor DNT.
-
