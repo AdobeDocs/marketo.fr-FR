@@ -3,9 +3,9 @@ unique-page-id: 4720145
 description: Implémentation de la procédure RTP à l’aide du gestionnaire de balises Google - Marketo Docs - Documentation du produit
 title: Implémentation de RTP à l’aide de Google Tag Manager
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Implémentation de RTP à l’aide de Google Tag Manager {#implementing-rtp-using-google-tag-manager}
 
-Pour mettre en oeuvre votre RTP `tag please`, suivez les instructions d&#39;installation ci-dessous.
+Pour mettre en oeuvre votre balise RTP, suivez les instructions d&#39;installation ci-dessous.
 
 1. Connectez-vous à votre compte Google Tag Manager.
 
@@ -21,25 +21,22 @@ Pour mettre en oeuvre votre RTP `tag please`, suivez les instructions d&#39;inst
 
 1. Connectez-vous à votre compte RTP**.**
 
-1. Accédez à Paramètres du compte**.**
+1. Accédez à **Paramètres du compte**.
 
-   1. Si vous avez déjà reçu votre balise JavaScript de l’assistance, passez à l’étape 6.
+   a. Si vous avez déjà reçu votre balise JavaScript de l’assistance, passez à l’étape 6.
 
-      ![](assets/image2014-11-30-15-3a19-3a21.png)
+   ![](assets/image2014-11-30-15-3a19-3a21.png)
 
 1. Sous Domaine, recherchez le domaine approprié et cliquez sur **Générer la balise**.
 
-   ** ![](assets/image2014-11-30-15-3a20-3a17.png)
-
-   **
+   ![](assets/image2014-11-30-15-3a20-3a17.png)
 
 1. Copiez la balise JavaScript RTP et collez-la dans la nouvelle **balise HTML personnalisée** que vous avez créée (étape 1).
 
 1. Cliquez sur **+Ajouter la règle à déclencher la balise**. Sélectionnez **Toutes les pages**.
 
-1. Cliquez sur **Enregistrer **et [publier la nouvelle version](https://support.google.com/tagmanager/answer/2699097?hl=en).
+1. Cliquez sur **Enregistrer** et [publier la nouvelle version](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
-1. Vérifiez qu’il s’affiche sur tous les landings page et sous-domaines `pages, including`.
+1. Vérifiez qu’il s’affiche sur toutes les pages, y compris les landings page et sous-domaines.
 
-   1. Pour ce faire, cliquez avec le bouton droit de la souris sur votre `website’s` page. Accédez à l’élément **Inspect. **Recherchez **RTP **pour localiser la balise.
-
+   a. Pour ce faire, cliquez avec le bouton droit de la souris sur la page de votre site Web. Accédez à **Inspect Element**, recherchez **RTP** pour localiser la balise.
