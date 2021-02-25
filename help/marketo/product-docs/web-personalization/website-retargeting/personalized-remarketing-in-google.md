@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Remarketing personnalisé dans Google - Documents marketing - Documentation du produit
 title: Remarketing personnalisé dans Google
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Le remarketing personnalisé vous permet d’interagir de nouveau avec vos utili
 
 >[!PREREQUISITES]
 >
->* Effectuez la configuration [Reciblage avec les données de personnalisation Web](retargeting-with-web-personalization-data.md).
->* Consultez la documentation [Remarques concernant l’aide Google Analytics](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645).
-
->
-
+>* Effectuez la configuration [Reciblage avec les données de personnalisation Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md).
+>* Consultez [Remarketing with Google Analytics Help](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) documentation.
 
 
 ## Création d&#39;une Audience de remarketing dans Google {#creating-a-remarketing-audience-in-google}
@@ -34,8 +31,7 @@ Le remarketing personnalisé vous permet d’interagir de nouveau avec vos utili
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
-1. **Configuration** des liens : Lien vers votre compte Google Adwords
-1. **Définir une Audience** : Cliquez sur  **Créer**.
+1. **Configuration** des liens : Lien vers votre compte Google Adwords. **Définir une Audience** : Cliquez sur  **Créer**.
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
@@ -59,9 +55,6 @@ Dans Google Universal Analytics :
 >* Catégorie événement : RTP-Segment, RTP-Campaign RTP-Remarketing
 >* Étiquette de événement : Nom du segment, nom de la Campaign, nom de l’Audience segmentée
 
->
-
-
 
 **Exemple d’Audience de remarketing à partir des données d’Audience segmentées RTP**
 
@@ -77,7 +70,7 @@ Dans Google Universal Analytics :
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
 1. Cliquez sur **Séquences**.
-1. Sélectionnez** RTP-Industry**.
+1. Sélectionnez **RTP-Industry**.
 1. Entrez **Nom de l&#39;industrie** (p. ex. Services financiers, Education...).
 1. Cliquez sur **Appliquer**.
 1. Entrez un **nom de l&#39;Audience**. Cliquez sur **Enregistrer**.
@@ -105,6 +98,6 @@ Dans Google Universal Analytics :
 
 >[!MORELIKETHIS]
 >
->* [Reciblage avec les données de personnalisation Web](retargeting-with-web-personalization-data.md)
->* [Remarketing personnalisé dans Facebook](personalized-remarketing-in-facebook.md)
+>* [Reciblage avec les données de personnalisation Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Remarketing personnalisé dans Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
