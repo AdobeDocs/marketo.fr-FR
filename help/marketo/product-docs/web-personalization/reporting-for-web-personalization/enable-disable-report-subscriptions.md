@@ -3,7 +3,7 @@ unique-page-id: 2949162
 description: Activer/désactiver les Abonnements de rapports - Documents marketing - Documentation du produit
 title: Activer/désactiver les Abonnements de rapports
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -24,4 +24,3 @@ La personnalisation Web comporte plusieurs rapports utiles qui sont envoyés par
    ![](assets/email-settings.png)
 
    C&#39;est tout ! Pour vous désabonner du rapport, désélectionnez simplement et cliquez sur **Enregistrer**.
-
