@@ -3,7 +3,7 @@ unique-page-id: 4719336
 description: Paramètres utilisateur - Documents marketing - Documentation du produit
 title: Paramètres utilisateur
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Modifiez les paramètres tels que le fuseau horaire ou les rapports par courriel
 
 ## Profil utilisateur / Mots de passe / Fuseaux horaires {#user-profile-passwords-time-zones}
 
-1. Cliquez sur votre nom et sélectionnez **Paramètres utilisateur.**
+1. Cliquez sur votre nom et sélectionnez **Paramètres utilisateur**.
 
    ![](assets/one.png)
 
@@ -27,15 +27,13 @@ Modifiez les paramètres tels que le fuseau horaire ou les rapports par courriel
 
    Sur la page Paramètres utilisateur, vous pouvez effectuer les opérations suivantes :
 
-   * 
-
-      * Modifier votre adresse électronique
-      * Ajouter des informations personnelles (prénom et nom, numéro de mobile et fuseau horaire)
-      * Sélectionnez le nombre de lignes à exporter lors de l’exportation de tableaux dans la plateforme. Voir champ : &quot;Nombre maximal de lignes dans l&#39;exportation Excel (limité à 10 000)&quot;
-      * Sélectionnez vos notifications mobiles pour une nouvelle personne ou une liste de surveillance associée à l&#39;application mobile.
-      * Modifiez les paramètres de la région personnelle en cliquant sur **Modifier les régions**.
-      * Modifier votre mot de passe
-      * Sélectionnez les paramètres de notification des rapports par courriel pour les rapports par courriel sur les organisations, les personnes, Campaign et les performances des ressources.
+   * Modifier votre adresse électronique
+   * Ajouter des informations personnelles (prénom et nom, numéro de mobile et fuseau horaire)
+   * Sélectionnez le nombre de lignes à exporter lors de l’exportation de tableaux dans la plateforme. Voir champ : &quot;Nombre maximal de lignes dans l&#39;exportation Excel (limité à 10 000)&quot;
+   * Sélectionnez vos notifications mobiles pour une nouvelle personne ou une liste de surveillance associée à l&#39;application mobile.
+   * Modifiez les paramètres de la région personnelle en cliquant sur **Modifier les régions**.
+   * Modifier votre mot de passe
+   * Sélectionnez les paramètres de notification des rapports par courriel pour les rapports par courriel sur les organisations, les personnes, Campaign et les performances des ressources.
 
    Cliquez sur **Enregistrer** après avoir apporté des modifications.
 
@@ -45,7 +43,7 @@ Modifiez les paramètres tels que le fuseau horaire ou les rapports par courriel
 
 ## Sélectionner les rapports par courriel {#select-email-reports}
 
-Sélectionnez le [rapport par courriel](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) à associer à votre utilisateur et la fréquence (quotidienne, hebdomadaire ou trimestrielle) d&#39;envoi du rapport.
+Sélectionnez le [rapport par courriel](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) à associer à votre utilisateur et la fréquence (quotidienne, hebdomadaire ou trimestrielle) d&#39;envoi du rapport.
 
 ![](assets/three.png)
 
@@ -55,9 +53,4 @@ Sélectionnez le [rapport par courriel](../../../product-docs/web-personalizatio
 
 >[!MORELIKETHIS]
 >
->* [Modifier les régions](edit-regions.md)
-
->
-
-
-
+>[Modifier les régions](/help/marketo/product-docs/web-personalization/getting-started/edit-regions.md)
