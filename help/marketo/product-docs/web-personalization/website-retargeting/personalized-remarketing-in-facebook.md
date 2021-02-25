@@ -3,7 +3,7 @@ unique-page-id: 4720917
 description: Remarketing personnalisé dans Facebook - Docs marketing - Documentation du produit
 title: Remarketing personnalisé dans Facebook
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -17,16 +17,14 @@ Le remarketing personnalisé vous permet d’interagir de nouveau avec vos utili
 
 >[!PREREQUISITES]
 >
->* Effectuez la configuration de [Reciblage avec les données de personnalisation Web](retargeting-with-web-personalization-data.md).
->* Consultez la documentation [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook sur les Audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)et les remarketing.
-
->
-
+>* Effectuez la configuration de [Reciblage avec les données de personnalisation Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md).
+>* Consultez la documentation [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook sur les Audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) et les commentaires.
 
 
 ## Création d’une Audience dans Facebook {#creating-an-audience-in-facebook}
 
 1. Dans Facebook, accédez à votre [onglet Audience](https://www.facebook.com/ads/audience_manager) dans le Gestionnaire de publicités.
+
 1. Cliquez sur **Outils** et sélectionnez **Audiences**.
 
    ![](assets/one-1.png)
@@ -39,7 +37,7 @@ Le remarketing personnalisé vous permet d’interagir de nouveau avec vos utili
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Dans la liste de trafic du site Web, sélectionnez** Combinaison personnalisée**.
+1. Dans la liste de trafic du site Web, sélectionnez **Combinaison personnalisée**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -47,7 +45,7 @@ Le remarketing personnalisé vous permet d’interagir de nouveau avec vos utili
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. Dans la liste de Événement, sélectionnez **RTP Remarketing **et sélectionnez un paramètre.
+1. Dans la liste de Événement, sélectionnez **RTP Remarketing** et sélectionnez un paramètre.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
@@ -132,10 +130,6 @@ Pour plus d&#39;informations, consultez la [documentation de Facebook](https://d
 
 >[!MORELIKETHIS]
 >
->* [Reciblage avec les données de personnalisation Web](retargeting-with-web-personalization-data.md)
->* [Remarketing personnalisé dans Google](personalized-remarketing-in-google.md)
-
->
-
-
+>* [Reciblage avec les données de personnalisation Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Remarketing personnalisé dans Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 
