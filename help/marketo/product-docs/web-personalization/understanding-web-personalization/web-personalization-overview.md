@@ -3,7 +3,7 @@ unique-page-id: 3571900
 description: Présentation de la personnalisation Web - Documents marketing - Documentation du produit
 title: Présentation de la personnalisation Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -15,34 +15,34 @@ ht-degree: 0%
 
 ## Introduction {#introduction}
 
-Pour les nouveaux clients de Marketo, la personnalisation en temps réel est divisée en quatre applications, accessibles à l’aide de ces deux mosaïques : Personnalisation Web et contenu `<sup>AI</sup>`.
+Pour les nouveaux clients de Marketo, la personnalisation en temps réel est divisée en quatre applications, accessibles à l’aide de ces deux mosaïques : Personnalisation Web et ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->La personnalisation Web et le contenu`<sup>AI</sup>` sont disponibles dans toutes les langues prises en charge par le marché (anglais, français, allemand, japonais, portugais, espagnol).
+>La personnalisation Web et ContentAI sont disponibles dans toutes les langues prises en charge par le marché (anglais, français, allemand, japonais, portugais, espagnol).
 
 Les clients existants continuent d’accéder aux applications via la mosaïque Personnalisation en temps réel jusqu’à leur renouvellement, auquel moment ils utiliseront la connexion ci-dessus.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Lorsque vous cliquez sur le volet Personnalisation Web, la page de Tableau de bord s’affiche. Cliquez sur la mosaïque Contenu `<sup>AI</sup>` et accédez directement à la page Recommendations de contenu.
+Lorsque vous cliquez sur le volet Personnalisation Web, la page de Tableau de bord s’affiche. Cliquez sur la mosaïque ContentAI et accédez directement à la page Recommendations de contenu.
 
 Les quatre applications sont les suivantes :
 
 * Personnalisation Web
 * Marketing Web basé sur le compte
 * Reciblage du site Web
-* Contenu`<sup>AI</sup>`
+* ContentAI
 
-La mosaïque de personnalisation Web** **est votre point d’accès pour** **créer des campagnes Web personnalisées.** **Marketing Web basé sur le compte et reciblage Web. Vous pouvez ajouter du contenu sur la page Analyse de contenu.
+La mosaïque **Personnalisation Web** est votre point d’accès pour la création de campagnes Web personnalisées. Marketing Web basé sur le compte et reciblage Web. Vous pouvez ajouter du contenu sur la page Analyse de contenu.
 
 **Le** marketing Web basé sur le compte fonctionne avec la personnalisation Web et comprend les comptes nommés. La page Comptes nommés fournit des informations graphiques sur les clients existants, le total des engagements et les tendances organisationnelles, ainsi qu’une liste des comptes. Vous pouvez également y créer de nouveaux comptes nommés.
 
 **Site Web** Retargetingvous donne le pouvoir de recommercialiser des audiences segmentées. Vous pouvez définir des segments, mais pas utiliser de comptes nommés dans le filtre.
 
-**`<sup>AI</sup>`** Contient l’emplacement où donner des recommandations de contenu. Vous pouvez facilement ajouter du contenu à la page Recommendations de contenu.
+**** ContentAIest l’emplacement où donner des recommandations de contenu. Vous pouvez facilement ajouter du contenu à la page Recommendations de contenu.
 
 >[!NOTE]
 >
@@ -61,9 +61,6 @@ L’onglet Organisations affiche tous les détails (nom, emplacement, activité 
 >* Le plus Principal : les organisations les plus principales du tableau, en fonction du nombre de vues de page
 >* Dernière heure : les organisations les plus récentes du tableau (par défaut)
 >* Pour obtenir des informations précieuses, filtrez en fonction des plus principaux
-
->
-
 
 
 **Organisations - Panneau de droite**
@@ -172,4 +169,3 @@ La page Temps réel est divisée en 6 tableaux informatifs des détails du visit
   </tr> 
  </tbody> 
 </table>
-
