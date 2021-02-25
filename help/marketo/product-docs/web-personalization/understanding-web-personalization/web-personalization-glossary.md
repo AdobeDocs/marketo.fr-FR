@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Glossaire de la personnalisation Web - Documents marketing - Documentation du produit
 title: Glossaire de la personnalisation Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Quelques aperçus du monde et de la langue de la personnalisation Web de Marketo
 | **ISP** | Prestataire Internet |
 | **Visiteur connu** | Visiteur Web qui a rempli un formulaire et laissé ses détails (adresse électronique) sur votre site Web ou cliqué sur un lien dans un courrier électronique de Marketing Cloud. |
 | **Liste de compte** | Liste des noms de compte/organisation clés. Connue également sous le nom de liste de marketing basée sur le compte (ABM). |
-| **Segments** | Ensemble de visiteurs qui répondent aux critères spécifiés définis dans la page [&quot;Définir un segment&quot;](../../../product-docs/web-personalization/using-web-segments/web-segments.md). |
+| **Segments** | Ensemble de visiteurs qui répondent aux critères spécifiés définis dans la page [&quot;Définir un segment&quot;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
 | **Tests fractionnés** | Testez deux variantes ou plus pour mesurer la différence de résultats. L&#39;objectif est d&#39;identifier les modifications apportées aux pages Web qui augmentent ou optimisent les résultats d&#39;intérêt. |
 | **Caractère générique** | Caractère générique (* est utilisé) utilisé avant ou après une chaîne pour remplacer tout autre caractère ou caractère d’une chaîne. Consultez les exemples ci-dessous. |
 
@@ -42,4 +42,3 @@ Faire correspondre tous les visiteurs sur les URL de page qui début avec https:
 Faire correspondre tous les visiteurs des URL de page qui incluent le mot &quot;sauvegarde&quot; (par exemple, [https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
 
 ![](assets/wildcard-example-3.png)
-
