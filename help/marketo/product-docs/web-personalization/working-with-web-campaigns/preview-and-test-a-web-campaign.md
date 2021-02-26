@@ -3,9 +3,9 @@ unique-page-id: 10092925
 description: Prévisualisation et test d'un Campaign Web - Docs marketing - Documentation du produit
 title: Prévisualisation et test d'un Campaign Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Cet article vous montre différentes manières de prévisualisation d’une camp
 
 ## Prévisualisation d&#39;un Campaign Web sur la page de création {#preview-a-web-campaign-on-the-creation-page}
 
-1. Accédez à **Web** **Campagnes**.
+1. Accédez à **Campagnes Web**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Cliquez sur** Créer une nouvelle Campaign Web**** ** ou sur l&#39;icône pour modifier une campagne existante.
+1. Cliquez sur **Créer une Campaign Web** ou sur l&#39;icône pour modifier une campagne existante.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -35,11 +35,12 @@ Cet article vous montre différentes manières de prévisualisation d’une camp
 
    >[!NOTE]
    >
-   >Vous avez également la possibilité d’installer un module externe de navigateur ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) pour une meilleure expérience de prévisualisation de votre campagne. Consultez la section ci-dessous.
+   >Vous avez également la possibilité d’installer un module externe de navigateur ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) pour une meilleure expérience de prévisualisation de votre campagne. Consultez la section ci-dessous.
 
 ## Prévisualisation d’un Campaign Web sur la page de création à l’aide du module externe de navigateur {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
-1. Suivez les étapes 1 et 2 du `section above`.
+1. Suivez les étapes 1 et 2 de la section ci-dessus.
+
 1. Cliquez sur le lien vers le module externe du navigateur (dans ce cas, nous utilisons Chrome).
 
    ![](assets/4-1.png)
@@ -81,7 +82,8 @@ Créez un segment sandbox et une campagne.
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Nommez le segment.
-1. Sous Comportement, faites glisser Inclure des pages sur la trame. Ajoutez la valeur *sandbox=1*. Cliquez sur Enregistrer et définir Campaign.
+
+1. Sous Comportement, faites glisser Inclure des pages sur la trame. Ajoutez la valeur *sandbox=1*. Cliquez sur **Enregistrer et définir Campaign**.
 
    ![](assets/segment.png)
 
@@ -89,10 +91,12 @@ Créez un segment sandbox et une campagne.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Terminez la création de la campagne et cliquez sur **Lancer**.\
+1. Terminez la création de la campagne et cliquez sur **Lancer**.
+
    ![](assets/click-launch.jpg)
 
-1. Accédez à votre site Web, ajoutez le paramètre d’URL &quot;?sandbox=1&quot; à la fin de l’URL. Exemple : [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
+1. Accédez à votre site Web, ajoutez le paramètre d’URL &quot;?sandbox=1&quot; à la fin de l’URL. Exemple : `www.marketo.com?sandbox=1`.
+
 1. Consultez les réactions à la campagne sur votre site Web.
 
 >[!NOTE]
@@ -101,5 +105,4 @@ Créez un segment sandbox et une campagne.
 
 >[!NOTE]
 >
->Impossible de prévisualiser les campagnes de redirection. Le seul moyen de les tester est d’utiliser un segment de sandbox (qui cible par pages spécifiques - *sandbox=redirect*)
-
+>Impossible de prévisualiser les campagnes de redirection. Le seul moyen de les tester est d’utiliser un segment de sandbox (qui cible par pages spécifiques - *sandbox=redirect*).
