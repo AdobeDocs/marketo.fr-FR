@@ -3,9 +3,9 @@ unique-page-id: 17727823
 description: Notes de mise à jour - Hiver 19 - Documentation sur le marketing - Documentation sur le produit
 title: Notes de mise à jour - Hiver 19
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue 
 
 >[!NOTE]
 >
->Microsoft encourage tous les clients en ligne à effectuer la mise à niveau vers la dernière version de Microsoft Dynamics. Si vous intégrez votre instance Marketo avec Dynamics Online, vous devrez [mettre à niveau vers la dernière version de la solution Marketo](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) avant le **31 janvier 2019** pour vous assurer que votre intégration continuera à fonctionner.
+>Microsoft encourage tous les clients en ligne à effectuer la mise à niveau vers la dernière version de Microsoft Dynamics. Si vous intégrez votre instance Marketo avec Dynamics Online, vous devrez [mettre à niveau vers la dernière version de la solution Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) avant le **31 janvier 2019** pour vous assurer que votre intégration continuera à fonctionner.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue 
 
 ## Améliorations de la plate-forme de base {#core-platform-enhancements}
 
-** [Courrier électronique CC pour les courriels marketing](../../product-docs/email-marketing/general/email-cc.md)**
+**[Courrier électronique CC pour les courriers électroniques de marketing](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
 Inclure jusqu’à cinq adresses CC par destinataire dans les courriers électroniques envoyés via Marketo.
 
@@ -40,7 +40,7 @@ Inclure jusqu’à cinq adresses CC par destinataire dans les courriers électro
 * **Prise en charge de domaines de marque multiple pour l’API des ressources :** l’approbation et le clonage des ressources produisent les mêmes résultats dans l’API et l’interface utilisateur.
 * **Prise en charge de CC par courrier électronique pour l’API** de ressources : Les utilisateurs clonant, approuvant et traitant les courriers électroniques via l’API conservent la parité avec les paramètres de l’interface utilisateur.
 
-** [Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155 (bêta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Mode** API uniquement : Les utilisateurs peuvent désormais déterminer quand et comment effectuer le suivi des membres de leur base de données en permettant aux applications Web d’une seule page d’appeler explicitement lorsqu’elles souhaitent enregistrer une visite de page Web au lieu de compter sur le suivi automatique de Marketo.
 * **Gestion** des exclusions : Gérez facilement les exclusions en faisant correspondre le domaine du cookie d’exclusion au domaine du cookie de suivi Munchkin.
@@ -54,8 +54,8 @@ Inclure jusqu’à cinq adresses CC par destinataire dans les courriers électro
 * **Service** de messagerie : Bénéficiez d&#39;une meilleure délivrabilité et d&#39;un suivi des réponses amélioré, de la fonctionnalité de courriel planifié et de la fonctionnalité de courriel en masse en vous connectant à Microsoft Outlook (via Office365 ou On-Prem via l&#39;onglet Connexion par courriel).
 * **Nouveaux paramètres** d’administration : Deux pages d&#39;administration ont été ajoutées pour optimiser votre instance d&#39;engagement commercial
 
-   * *Team* Management prend en charge un processus transparent de configuration de compte en permettant aux administrateurs de modifier des abonnements et des équipes.
-   * *Les équipes des* restaurants d’administration de Salesforce ont configuré leur synchronisation SFDC plus rapidement et plus facilement que jamais.
+   * _Team_ Management prend en charge un processus transparent de configuration de compte en permettant aux administrateurs de modifier des abonnements et des équipes.
+   * _Les équipes des_ restaurants d’administration de Salesforce ont configuré leur synchronisation SFDC plus rapidement et plus facilement que jamais.
 
 * **Module externe OWA pour Windows** : Avec un seul module complémentaire, tous les clients Windows Office365 seront pris en charge dans Sales Engage, ce qui leur permettra d&#39;utiliser Live Feed dans Outlook. Le nouveau module externe sera disponible dans le Microsoft Store.
 * **Activités Pusher** : Synchroniser les ventes Interagir avec la plate-forme principale de marketing pour exploiter les informations marketing en temps réel.
@@ -64,7 +64,7 @@ Inclure jusqu’à cinq adresses CC par destinataire dans les courriers électro
 
 >[!NOTE]
 >
->Les versions des Marketo Sky se produisent à une cadence plus fréquente. Les fonctionnalités et améliorations suivantes devraient être publiées à la fin du 4e trimestre/début du 1er trimestre. Pour plus de détails et de mises à jour, consultez notre [documentation Sky](https://help.marketo.com/hc/en-us/articles/360012858573).
+>Les versions des Marketo Sky se produisent à une cadence plus fréquente. Les fonctionnalités et améliorations suivantes devraient être publiées à la fin du 4e trimestre/début du 1er trimestre. Pour plus de détails et de mises à jour, consultez notre [documentation Sky](https://help.marketo.com/).
 
 * **Expérience** par défaut facultative : Les utilisateurs du marketing peuvent définir le Marketo Sky comme expérience par défaut s’ils ont reçu un accès d’un administrateur.
 
@@ -81,7 +81,7 @@ Inclure jusqu’à cinq adresses CC par destinataire dans les courriers électro
 
 ## Marketing basé sur le compte {#account-based-marketing}
 
-** [Segmentation et filtrage basés sur la personnalité ABM](../../product-docs/account-based-marketing/using-personas.md)**
+**[Segmentation et filtrage basés sur la personnalité ABM](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
 
 Personnalisez vos campagnes ABM pour des personnes spécifiques dans des comptes nommés. La fonction Personnalité ABM crée un titre de tâche par défaut basé sur la segmentation des pistes et permet de configurer d’autres segments de personne.
 
