@@ -3,7 +3,7 @@ unique-page-id: 2949154
 description: Nommer vos campagnes Web - Documents marketing - Documentation du produit
 title: Étiqueter vos campagnes Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Avez-vous tant de campagnes que le défilement devient encombrant ? Utilisez des
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne souhaitée, utilisez la fonction de filtre [](filter-web-campaigns.md).
+   >Pour faciliter la recherche de la campagne souhaitée, utilisez la fonction de filtre [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Sélectionnez les campagnes à baliser avec une étiquette.
 
@@ -31,11 +31,11 @@ Avez-vous tant de campagnes que le défilement devient encombrant ? Utilisez des
 
 1. Saisissez le nom de l’étiquette de votre choix, puis cliquez sur Créer nouveau.
 
->[!TIP]
->
->Si le libellé existe déjà, sélectionnez-le et ne créez pas de nouveau.
+   >[!TIP]
+   >
+   >Si le libellé existe déjà, sélectionnez-le et ne créez pas de nouveau.
 
-![](assets/web-campaigns-set-label.jpg)
+   ![](assets/web-campaigns-set-label.jpg)
 
 Cool ! Vous savez maintenant comment créer des étiquettes et les affecter à des campagnes.
 
@@ -51,9 +51,4 @@ Cool ! Vous savez maintenant comment créer des étiquettes et les affecter à d
 
 >[!MORELIKETHIS]
 >
->* [Étiquetage ](create-a-new-in-zone-web-campaign.md) [d’un segment](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
-
+>[Étiqueter un segment](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
