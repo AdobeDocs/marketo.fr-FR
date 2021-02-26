@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Notes de mise à jour - Printemps 2018 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Printemps 2018
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Augmentez le portefeuille et les recettes en permettant aux ventes d&#39;exploit
 
 ## Marketo Sky Ouvrir la version bêta {#marketo-sky-open-beta}
 
-[Marketo Sky Ouvrir la version bêta](https://help.marketo.com/hc/en-us)
+[Marketo Sky Ouvrir la version bêta](https://help.marketo.com/)
 
 Optez pour la version bêta ouverte du Marketo Sky pour accéder à plus de 100 nouvelles fonctionnalités d&#39;optimisation de la productivité, notamment :
 
@@ -69,11 +69,11 @@ Partagez facilement vos graphiques rapides avec d’autres utilisateurs d’Anal
 
 Une navigation optimisée et des workflows améliorés vous donnent une visibilité sur les critères de réussite des Programmes et l’accès aux détails des Programmes.
 
-## Contenu<sup>AI</sup> {#contentai}
+## ContentAI {#contentai}
 
 [Définition des objectifs](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Définissez l’objectif de l’algorithme d’optimisation Content<sup>AI</sup> pour générer davantage de vues, de clics ou de conversions.
+Définissez l’objectif de l’algorithme d’optimisation ContentAI pour générer davantage de vues, de clics ou de conversions.
 
 ## Intégration et API {#integration-and-apis}
 
