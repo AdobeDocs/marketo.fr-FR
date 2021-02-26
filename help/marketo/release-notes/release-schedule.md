@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Calendrier de publication - Documents marketing - Documentation du produit
 title: Calendrier de publication
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -38,40 +38,24 @@ Les dates de publication peuvent être modifiées.
    <th width="250px">Progression</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-jan-20.md">20 janvier</a></td> 
-   <td colspan="1">17 janvier 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">21 janvier</td> 
+   <td colspan="1">15 janvier 2021</td> 
+   <td colspan="1">Expédié</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-feb-20.md">20 février</a></td> 
-   <td colspan="1">21 février 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">21 mai</td> 
+   <td colspan="1">7 mai 2021</td> 
+   <td colspan="1">En cours</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-june-20.md">20 juin</a></td> 
-   <td colspan="1">5 juin 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">21 août</td> 
+   <td colspan="1">13 août 2021</td> 
+   <td colspan="1">Sur la planification</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-july-20.md">Juillet 20</a></td> 
-   <td colspan="1">31 juillet 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Octobre 20</td> 
-   <td colspan="1">16 octobre 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">Octobre 21</td> 
+   <td colspan="1">15 octobre 2021</td> 
+   <td colspan="1">Sur la planification</td> 
   </tr> 
  </tbody> 
 </table>
-
