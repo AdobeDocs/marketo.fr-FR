@@ -3,7 +3,7 @@ unique-page-id: 8782266
 description: Attribution d'une priorité aux campagnes Web - Documents marketing - Documentation du produit
 title: Attribution de la priorité aux campagnes Web
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Attribuez une priorité à vos campagnes Web lorsque plusieurs campagnes Web se 
 >Un chevauchement de campagne Web se produit lorsque :
 >
 >* Deux widgets et/ou plusieurs campagnes de dialogue réagissent simultanément sur la même page
->* Deux zones dans les zones avec le même ID de zone réagissent simultanément sur la même page Web
+>* Deux ou plusieurs zones dans les zones avec le même ID de zone réagissent simultanément sur la même page Web
 
 >
 >
@@ -34,7 +34,7 @@ Une campagne Dans la zone et une campagne (widget ou boîte de dialogue) peuvent
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne Web de votre choix, utilisez la fonction de filtrage [](filter-web-campaigns.md).
+   >Pour faciliter la recherche de la campagne Web de votre choix, utilisez la fonction de filtrage [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Dans la page Modifier Campaign, définissez la note de priorité (9999 = Priorité la plus élevée 1 = Priorité la plus faible).
 
