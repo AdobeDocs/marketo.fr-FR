@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Incorporer un formulaire dans un Campaign Web - Docs marketing - Documentation du produit
 title: Incorporer un formulaire dans une Campaign Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Découvrez comment incorporer un formulaire Marketo dans une campagne Web (boît
 
 1. Cliquez avec le bouton droit sur un formulaire approuvé. Sélectionnez **Code incorporé**.
 
-   ** ![](assets/image2015-12-16-10-3a58-3a39.png)
-
-   **
+   ![](assets/image2015-12-16-10-3a58-3a39.png)
 
 1. Copiez le code.
 
@@ -31,9 +29,7 @@ Découvrez comment incorporer un formulaire Marketo dans une campagne Web (boît
 
 1. Cliquez sur **Créer une nouvelle campagne**.
 
-   ** ![](assets/create-new-web-campaign-hand-1.jpg)
-
-   **
+   ![](assets/create-new-web-campaign-hand-1.jpg)
 
 1. Dans l’éditeur de texte enrichi, cliquez sur l’icône HTML.
 
@@ -44,6 +40,7 @@ Découvrez comment incorporer un formulaire Marketo dans une campagne Web (boît
    ![](assets/six-1.png)
 
 1. Le formulaire ne s’affiche pas dans la vue d’éditeur, mais vous pouvez le prévisualisation pour voir comment il s’affichera dans une campagne.
+
 1. Cliquez sur **Lancer** pour début de la campagne.
 
    >[!NOTE]
@@ -58,7 +55,7 @@ Pour ajouter une image d’arrière-plan à votre formulaire, vous pouvez :
 * Modification des couleurs de la boîte de dialogue ou du widget dans Set Campaign
 * Ajouter le code CSS au script
 
-Pour modifier la page CSS d’un thème de formulaire, voir [cet article](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Pour modifier la page CSS d’un thème de formulaire, voir [cet article](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 Pour modifier les couleurs de la boîte de dialogue ou du widget dans Set Campaign :
 
@@ -86,11 +83,7 @@ Pour ajouter du code CSS au script :
 
 >[!MORELIKETHIS]
 >
->* [Modification de la page CSS d’un thème de formulaire](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
+>* [Modification de la page CSS d’un thème de formulaire](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Afficher le message de remerciement sans Landing page de suivi](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
-
->
-
-
 
