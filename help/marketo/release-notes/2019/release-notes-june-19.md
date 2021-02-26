@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: Notes de mise à jour - 19 juin - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - 19 juin
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 Les fonctionnalités suivantes sont incluses dans la version du 19 juin. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
 
-***Versions trimestrielles***
+**_Versions trimestrielles_**
 
 Les fonctionnalités suivantes ont été publiées le 14 juin 2019.
 
 ## Services principaux du marketing {#marketo-core-services}
 
 * **Somme** de contrôle du fichier d&#39;extraction en bloc : Vérifiez qu’un fichier complet a été récupéré en comparant votre hachage de fichier à la chaîne de somme de contrôle de vos tâches d’extraction terminées.
-* **La migration automatisée de Email 1.0 vers Email 2.0:** Email 2.0 est entièrement compatible avec les e-mails et modèles Email 1.0. Profitez des nouvelles fonctionnalités, telles que la possibilité de regrouper des éléments de contenu (images, texte, etc.) dans des modules, définissez des variables telles que Chaîne, Couleur, Image, etc. dans les modèles et exploitez des modèles de démarrage entièrement réactifs. Comprend également un sélecteur de modèles de courrier électronique visuel.
+* **Migration automatisée de Email 1.0 vers Email 2.0** : Email 2.0 est entièrement compatible avec les e-mails et les modèles Email 1.0. Profitez des nouvelles fonctionnalités, telles que la possibilité de regrouper des éléments de contenu (images, texte, etc.) dans des modules, définissez des variables telles que Chaîne, Couleur, Image, etc. dans les modèles et exploitez des modèles de démarrage entièrement réactifs. Comprend également un sélecteur de modèles de courrier électronique visuel.
 
 >[!CAUTION]
 >
@@ -30,11 +30,11 @@ Les fonctionnalités suivantes ont été publiées le 14 juin 2019.
 
 ## Marketing basé sur le compte {#account-based-marketing}
 
-* **Correspondance`<sup>BETA</sup>`**  de compte LinkedIn : Une nouvelle fonctionnalité ABM est désormais disponible en version bêta, ce qui vous permet d&#39;envoyer des listes de comptes d&#39;espaces blancs et connus directement de Marketo vers LinkedIn. Cette fonctionnalité est automatiquement incluse pour tous les clients ABM de Marketo.
+* **Correspondance de compte LinkedIn (BETA)**  : Une nouvelle fonctionnalité ABM est désormais disponible en version bêta, ce qui vous permet d&#39;envoyer des listes de comptes d&#39;espaces blancs et connus directement de Marketo vers LinkedIn. Cette fonctionnalité est automatiquement incluse pour tous les clients ABM de Marketo.
 
 <br> 
 
-***Libération au cours du trimestre***
+**_Libération au cours du trimestre_**
 
 Les fonctionnalités suivantes devraient être publiées tout au long du deuxième trimestre civil et au début du troisième trimestre de 2019.
 
@@ -47,13 +47,13 @@ Les fonctionnalités suivantes devraient être publiées tout au long du deuxiè
 
 * **Liens** de navigation complets : Nous avons activé la navigation pour toutes les applications autorisées, telles que Hootsuite, Calendar, etc.
 * **Vues** de Liste d’e-mail, de Landing page, d’extrait de code, de formulaire, d’image et de fichier : Vue, recherche et actions de masse sur l’une de vos ressources dans Design Studio.
-* **Page** Détails de l&#39;image, du fichier et de l&#39;extrait de code : Obtenez des détails rapides sur vos fichiers à l’aide de métadonnées telles que  *créées sur/* octets et d’actions telles que la  ** suppression et l’ *approbation*.
+* **Page** Détails de l&#39;image, du fichier et de l&#39;extrait de code : Obtenez des détails rapides sur vos fichiers à l’aide de métadonnées telles que  _créées sur/_ octets et d’actions telles que la  __ suppression et l’ _approbation_.
 * **Widget** Publications de blog communautaire : Accédez aux publications récentes de la communauté sur Mon marché.
 * **Widget** Bientôt disponible à expiration : Ajoutez le widget &quot;Expiration bientôt&quot; sur votre tableau de bord Mon marketing pour savoir quelles campagnes et quels landings page seront définis pour expirer le prochain.
 * **Autres cartes** de Liste intelligentes : Segmentez et cible de manière appropriée avec des cartes de liste intelligentes supplémentaires, notamment l’étape de flux &quot;Créer une Tâche&quot;, les règles de liste intelligente CRM, etc.
 * **Page** des détails du champion de courriel/Challenger : Voir les données telles que les critères gagnants, créées à, etc. de vos tests de champion/challenger de messagerie électronique.
 
-Connexion commerciale
+## Marketing Sales Connect {#marketo-sales-connect}
 
 * **Actions en bloc dans la personnalisation** Salesforce : Optimisez la productivité en envoyant des courriers électroniques et en ajoutant des contacts aux campagnes en bloc grâce à la personnalisation de Salesforce.
 * **Sélectionner, glisser et déposer** : Organisez facilement votre instance Sales Connect avec la possibilité de faire glisser des modèles vers des catégories intuitives.
