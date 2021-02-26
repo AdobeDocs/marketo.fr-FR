@@ -3,7 +3,7 @@ unique-page-id: 15695939
 description: Notes de mise à jour - Automne 18 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Automne 18
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
@@ -25,7 +25,7 @@ La personnalisation Web prend désormais en charge plusieurs espaces de travail.
 
 ## Intervention commerciale {#marketo-sales-engage}
 
-* **Prise en charge** de la foudre par la DDC : Les utilisateurs qui migrent vers Lightning ou qui utilisent actuellement Lightning peuvent tirer parti de MSE pour un engagement plus intelligent tout au long du parcours de l’acheteur.
+* **Prise en charge** de la foudre par la DDC : Les utilisateurs qui migrent vers Lightning ou qui utilisent actuellement Lightning peuvent tirer parti de MSE pour un engagement plus intelligent sur l’ensemble du parcours d’achat.
 
 * **Prise en charge étendue : Microsoft Office**
 
@@ -74,7 +74,7 @@ Pour plus de détails et de mises à jour, consultez nos [Notes de mise à jour 
 
    * Les clients peuvent désormais se connecter à l’application Web invisible à l’aide du fournisseur d’identité et des informations d’identification de leur société, ce qui est conforme aux exigences de sécurité de l’entreprise.
 
-**[Améliorations des performances du marketing](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Améliorations des performances du marketing](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Améliorations de la convivialité**
 
@@ -88,7 +88,7 @@ Pour plus de détails et de mises à jour, consultez nos [Notes de mise à jour 
 
 ## Réseaux publicitaires {#ad-networks}
 
-**[Actualiser le jeton](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[Actualiser le jeton](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
 Nous avons mis en oeuvre un jeton actualisé dans nos solutions de reciblage et de formulaire de génération de pistes LinkedIn qui prolonge le délai d&#39;accès à un an avant que la réauthentification ne soit nécessaire.
 
