@@ -3,7 +3,7 @@ unique-page-id: 10097100
 description: Planification d’une Campaign Web - Documents marketing - Documentation du produit
 title: Planification d’une Campaign Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Vous pouvez planifier la campagne Web en fonction de l’heure du visiteur Web o
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne souhaitée, utilisez la fonction de filtre [](filter-web-campaigns.md).
+   >Pour faciliter la recherche de la campagne souhaitée, utilisez la fonction de filtre [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Ouvrez le menu État du Campaign et sélectionnez **Planification**.
 
@@ -59,11 +59,10 @@ Vous pouvez planifier la campagne Web en fonction de l’heure du visiteur Web o
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. L’état de la campagne sur la page Campagnes devient **Programmé **et l’icône horloge/calendrier s’affiche. Cliquez sur cette icône pour modifier la planification de la campagne.
+1. L’état de la campagne sur la page Campagnes passe à **Planifiée** et l’icône horloge/calendrier s’affiche. Cliquez sur cette icône pour modifier la planification de la campagne.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
    >L’état de la campagne reste **Planifiée** même si la campagne s’exécute pendant les heures planifiées sélectionnées. Lorsqu’une date de fin planifiée est passée, l’état de la campagne devient **En pause**.
-
