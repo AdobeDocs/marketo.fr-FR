@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: Ajouter une URL de Cible à un Campaign Web - Marketo Docs - Documentation du produit
 title: Ajouter une URL de Cible à un Campaign Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ Cliquez sur l’icône Plus (![—](assets/image2015-2-18-8-3a40-3a59.png)) pour
 
 >[!NOTE]
 >
->
 >* Les campagnes Web de boîtes de dialogue et de widgets peuvent utiliser les options N’importe quelle page et Caractère générique (*).
 * Dans les cas d’utilisation avancée, les campagnes Web In Zone peuvent utiliser des caractères génériques à la fin du chemin d’accès à l’URL. Exemple : [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * L’URL est sensible à la casse
@@ -72,7 +71,7 @@ Cliquez sur l’icône Plus (![—](assets/image2015-2-18-8-3a40-3a59.png)) pour
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Ajoutez un ** Nom de Campaign***. Sélectionnez un **segment de Cible**. Ajoutez **URL de Cible**.
+1. Ajoutez un **nom Campaign**. Sélectionnez un **segment de Cible**. Ajoutez **URL de Cible**.
 
    >[!NOTE]
    L’URL de la cible avec les zones d’entrée doit définir une ou plusieurs URL spécifiques. Dans les cas d’utilisation avancée, les campagnes Web In Zone peuvent utiliser des caractères génériques à la fin du chemin d’accès à l’URL. Exemple : [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
@@ -80,7 +79,7 @@ Cliquez sur l’icône Plus (![—](assets/image2015-2-18-8-3a40-3a59.png)) pour
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
-* [Créer une Campaign Web de boîte de dialogue](create-a-new-dialog-web-campaign.md)
-* [Créer une Campaign Web en zone](create-a-new-in-zone-web-campaign.md)
-* [Créer un widget Web Campaign](create-a-new-widget-web-campaign.md)
+* [Créer une Campaign de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Création d’un RTP dans une zone Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Création d’un Campaign de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
