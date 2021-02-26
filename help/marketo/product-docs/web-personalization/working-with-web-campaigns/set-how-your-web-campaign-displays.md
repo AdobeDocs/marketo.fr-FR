@@ -3,7 +3,7 @@ unique-page-id: 12978906
 description: Définir l'affichage de votre Campaign Web - Documents marketing - Documentation du produit
 title: Définir comment s'affiche votre Campaign Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -74,5 +74,4 @@ Le mode de sortie affiche la campagne Web lorsque le curseur de la souris quitte
 
 >[!TIP]
 >
->Vous voulez voir comment vos effets choisis se présenteront à l&#39;avance ? Consultez-les via une [Prévisualisation Web Campaign](preview-and-test-a-web-campaign.md).
-
+>Vous voulez voir comment vos effets choisis se présenteront à l&#39;avance ? Consultez-les via une [Prévisualisation Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
