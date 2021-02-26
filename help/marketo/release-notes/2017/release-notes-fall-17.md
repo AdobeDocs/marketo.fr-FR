@@ -3,9 +3,9 @@ unique-page-id: 12983280
 description: Notes de mise à jour - Automne 17 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Automne 17
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '597'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Profitez d&#39;une synchronisation plus riche et plus rapide entre Marketo et Sa
 
 Améliorations récentes de l’infrastructure L’offre a augmenté le temps de fonctionnement et la stabilité dans les outils d’analyse et de rapports de marketing, ce qui vous permet de créer des rapports ad hoc plus rapidement.
 
-## [Fuseau horaire destinataire](https://docs.marketo.com/x/_xvG) {#recipient-time-zone}
+## [Fuseau horaire destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
 
 Grâce à cette nouvelle fonctionnalité, vous pouvez désormais conserver et diffuser des messages électroniques en fonction des fuseaux horaires locaux. Les programmes de messagerie et d’engagement peuvent être configurés pour être distribués dans les fuseaux horaires des destinataires, ce qui évite de créer plusieurs programmes. Envoyez-les une seule fois et Marketo conservera automatiquement le courriel jusqu’à l’heure locale appropriée. Effacez les mesures de courriel, observez les pratiques locales et gagnez du temps en utilisant un seul programme globalement.
 
@@ -39,15 +39,15 @@ Grâce à cette nouvelle fonctionnalité, vous pouvez désormais conserver et di
 >
 >Si vous ne parvenez pas encore à activer le fuseau horaire Destinataire sur vos programmes de messagerie et d’engagement, ne paniquez pas ! Nous activons progressivement cette fonctionnalité pour tous les clients.
 
-## [Examiner les exemples de courrier électronique par segment](https://docs.marketo.com/x/2IER) {#review-sample-emails-by-segment}
+## [Examiner les exemples de courrier électronique par segment](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
 Marketo propose une nouvelle option pour sélectionner un segment lors de l’envoi d’exemples de messages électroniques à réviser. Il n&#39;est plus nécessaire de déterminer manuellement le segment auquel appartient une piste, ce qui facilite l&#39;envoi de courriers électroniques contenant du contenu dynamique vers différents segments.
 
-## [Questions personnalisées LinkedIn Lead Gen](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-custom-questions}
+## [Questions personnalisées LinkedIn Lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
 Personnalisez vos formulaires LinkedIn Lead Gen pour collecter des attributs de piste personnalisés. Vous pouvez désormais poser jusqu’à trois questions personnalisées par formulaire, choisir entre une saisie de texte sur une ligne ou des questions à choix multiples, puis revenir aux champs de piste Marketo.
 
-## [Intégration Slack](../../product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## [Intégration Slack](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
 
 Nous avons publié deux fonctionnalités dans le cadre de notre nouvelle intégration Slack :
 
@@ -56,15 +56,15 @@ Nous avons publié deux fonctionnalités dans le cadre de notre nouvelle intégr
 
 ## Améliorations d&#39;ABM {#abm-enhancements}
 
-** [Afficher les comptes sans contacts](https://docs.marketo.com/x/fKCt)**
+**[Afficher les comptes sans contacts](https://docs.marketo.com/x/fKCt)**
 
 Marketo ABM se synchronise et affiche désormais des comptes CRM sans contacts. Inclure de nouveaux comptes sans vente ou historique marketing antérieurs et suivre l&#39;avancement en faisant correspondre les prospects suivants aux comptes.
 
-## Contenu`<sup>AI </sup>`Analyses {#contentai-analytics}
+## ContentAI Analytics {#contentai-analytics}
 
-** [Nouveau filtre de Liste de compte ABM](https://docs.marketo.com/x/1BPG) **
+**[Nouveau filtre de Liste de compte ABM](https://docs.marketo.com/x/1BPG)**
 
-Vue et comparaison des performances du contenu entre les Listes de compte ABM pour optimiser le contenu existant. Le contenu `<sup>AI</sup>` vous montre :
+Vue et comparaison des performances du contenu entre les Listes de compte ABM pour optimiser le contenu existant. ContentAI vous montre :
 
 * contenu le plus consulté
 * contenu converti en haut
@@ -72,13 +72,13 @@ Vue et comparaison des performances du contenu entre les Listes de compte ABM po
 
 ## Améliorations de la personnalisation Web {#web-personalization-enhancements}
 
-** [Jetons pour les campagnes Web](https://docs.marketo.com/x/SwJI)**
+**[Jetons pour les campagnes Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Les jetons peuvent désormais être utilisés dans des campagnes Web. Tirez parti des jetons pour diffuser des messages et du contenu personnalisés afin d’accroître l’engagement dans vos campagnes Web.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-** [Création d’images Studio dans Web Campaign Editor](https://docs.marketo.com/x/SwJI)**
+**[Création d’images Studio dans Web Campaign Editor](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Gagnez du temps en réutilisant les fichiers créatifs et les images sur plusieurs canaux dans Marketing.
 
@@ -86,10 +86,10 @@ Gagnez du temps en réutilisant les fichiers créatifs et les images sur plusieu
 
 ## Intégration {#integration}
 
-** [API de Prévisualisation de courriel](https://developers.marketo.com/rest-api/assets/emails/)**
+**[API de Prévisualisation de courriel](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Vous pouvez désormais prévisualisation à distance des e-mails en dehors de Marketing Cloud, ce qui simplifie le processus de localisation du contenu des e-mails et réduit les erreurs.
 
-** [Remplacer l’API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
+**[Replace HTML API](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Les développeurs peuvent mettre à jour le contenu HTML des ressources de courrier électronique à distance, ce qui leur permet de travailler dans un système unique pour gérer les ressources.
