@@ -3,7 +3,7 @@ unique-page-id: 37355826
 description: Notes de mise à jour - Février 20 - Documentation sur le marketing - Documentation sur le produit
 title: Notes de mise à jour - Fév '20
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -17,29 +17,27 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 février. Vé
 
 >[!AVAILABILITY]
 >
->
 >Les fonctions signalées par une étoile ( ![(star)](assets/star-yellow.svg)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
 
-****** Versions trimestriellesLes fonctionnalités suivantes ont été publiées le 21  **février 2020**.
+**__** Versions trimestriellesLes fonctionnalités suivantes ont été publiées le 21  **février 2020**.
 
 ## Marketo Engage principal {#core-marketo-engage}
 
 * **Action** de flux Microsoft Dynamics &quot;Change Owner in Microsoft&quot; : Conserver le contrôle de vos données Microsoft Dynamics CRM avec la possibilité de modifier un responsable/contact directement du Marketo Engage. Il s’agit d’une amélioration de notre fonctionnalité d’intégration CRM native.
-* **API de gestion des utilisateurs : **Automatisez la gestion des utilisateurs et des rôles grâce à des systèmes de gestion des identités et des organisations externes. Il s&#39;agit d&#39;une amélioration de notre fonctionnalité Appels d&#39;API.
-* **API de Schéma d’objets personnalisés : **Gérez et provisionnez automatiquement des schémas d’objets personnalisés dans les instances du Marketo Engage afin de conserver la cohérence des modèles de données entre vos outils de vente et marketing. Grâce à cette API, vous pouvez définir et tester des objets personnalisés dans un sandbox ou un centre d’excellence et fournir autant d’instances que nécessaire. Il s’agit d’une amélioration de la fonctionnalité Appels d’API. Veuillez contacter votre représentant Marketo Engage pour savoir comment accéder à cette amélioration.
+* **API** User Management : Automatisez la gestion des utilisateurs et des rôles par le biais de systèmes de gestion des identités et des organisations externes. Il s&#39;agit d&#39;une amélioration de notre fonctionnalité Appels d&#39;API.
+* **API** de Schéma d&#39;objet personnalisé : Gérez et provisionnez automatiquement des schémas d’objets personnalisés entre instances dans le Marketo Engage afin de conserver la cohérence des modèles de données entre vos outils de vente et marketing. Grâce à cette API, vous pouvez définir et tester des objets personnalisés dans un sandbox ou un centre d’excellence et fournir autant d’instances que nécessaire. Il s’agit d’une amélioration de la fonctionnalité Appels d’API. Veuillez contacter votre représentant Marketo Engage pour savoir comment accéder à cette amélioration.
 * **API** de règles de redirection de landing page : Automatisez la gestion des règles de redirection de landing page. Il s&#39;agit d&#39;une amélioration de notre fonctionnalité Appels d&#39;API.
 * **Mise en cache** du descripteur de formulaire : Nous réduisons le temps de chargement des formulaires incorporés et améliorons la stabilité générale des applications en mettant en cache les formulaires sous forme de ressources. Veuillez noter que les approbations apportées aux formulaires incorporés peuvent prendre jusqu&#39;à quatre minutes pour réfléchir sur le Web. Il s’agit d’une amélioration de nos capacités de Landings page et de Forms.
 
 <br> 
 
-**
-
-***Libération au cours du trimestre***
+**_Libération au cours du trimestre_**
 
 Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et seront publiées au cours des prochains mois.
-**Bizible ![(star)](assets/star-yellow.svg)
 
-**
+## {#bizible}
+
+![(étoile)](assets/star-yellow.svg)
 
 * **Segmentation** basée sur un compte : Analyser l&#39;attribution au niveau du compte en ayant la possibilité de créer des segments et des filtres pour les panoramas Discover en fonction des attributs du compte. Utilisez ces segments pour analyser en détail les performances marketing basées sur votre compte.
 * **Enregistrement des Filtres** : Enregistrez des filtres spécifiques à chaque tableau de bord, propres à chaque utilisateur, afin d’analyser vos tableaux de bord de manière rapide et cohérente.
@@ -61,4 +59,4 @@ Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et
 * **Paramètre** de l&#39;API de ressource &quot;_method&quot; : Après septembre 2020, les points de terminaison de l’API Asset n’accepteront plus &quot;_method&quot; pour transmettre les paramètres de Requête dans un corps de POST afin de contourner les limitations de longueur d’URI. Pour répondre aux demandes qui nécessitaient ce paramètre, la limite d’URI pour les API d’actifs sera augmentée de 6KiB à 65KiB, de sorte que les URI de demande longue puissent être envoyés.
 * **Dépréciation** de la prise en charge d&#39;Internet Explorer : À compter de notre version du 31 juillet 2020, l’interface utilisateur du Marketo Engage ne sera plus prise en charge dans Internet Explorer.
 
-***Webinaire*** [sur la version du produitRejoignez ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) le 3 mars à 11h00 PT / 14h00 ET pour un webinaire en direct hébergé par notre équipe produit et découvrez les fonctionnalités de cette version.
+**_Webinaire_** [sur la version du produitRejoignez ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) le 3 mars à 11h00 PT / 14h00 ET pour un webinaire en direct hébergé par notre équipe produit et découvrez les fonctionnalités de cette version.
