@@ -3,7 +3,7 @@ unique-page-id: 2951111
 description: Notes de mise à jour - Septembre 2012 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - septembre 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -60,4 +60,3 @@ Nous avons ajouté de nouveaux critères de filtrage à l&#39;appel de l&#39;API
 * Plages de dates
 * Noms des Listes statiques
 * Tableaux des clés de piste
-
