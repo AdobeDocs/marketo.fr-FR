@@ -3,9 +3,9 @@ unique-page-id: 2951122
 description: Notes de mise à jour - Mars 2012 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mars 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Mars 2012 {#release-notes-march}
 
->[!NOTE]
->
->**Plongée profonde**
->
->Pour les autres versions, consultez les [Notes de mise à jour](https://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
->
->## Résoudre mes jetons &lt;a0/&quot;{#resolve-my-tokens}
+## Résoudre mes jetons {#resolve-my-tokens}
 
 Mes jetons (jetons de Programme) seront résolus lors de la prévisualisation d&#39;un courriel, lors de l&#39;envoi d&#39;un courriel de test et lors de l&#39;envoi d&#39;un courriel local par le biais d&#39;une seule action de flux. Vous n&#39;aurez plus à créer une campagne intelligente dans le programme pour tester vos Mes jetons !
 
