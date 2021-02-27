@@ -3,7 +3,7 @@ unique-page-id: 12977326
 description: Notes de mise à jour - Améliorations d’ABM du 17 avril - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - Améliorations apportées au module ABM le 17 avril
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Vous pouvez maintenant ajouter des champs personnalisés aux comptes, les mapper
 Vous pouvez désormais facilement filtrer vos comptes nommés en fonction d’une Liste de compte.
 
 ![](assets/named-account-filters.png)
-
