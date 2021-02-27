@@ -3,21 +3,15 @@ unique-page-id: 2951117
 description: Notes de mise à jour - Mai 2012 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mai 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
 
 # Notes de mise à jour : Mai 2012 {#release-notes-may}
-
->[!NOTE]
->
->**Plongée profonde**
->
->Pour les autres versions, consultez les [Notes de mise à jour](https://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
 
 ## Refonte du rapport Performances du courriel {#email-performance-report-redesign}
 
@@ -47,7 +41,9 @@ Simplifiez votre processus d&#39;enregistrement des événements grâce à notre
 
 Requiert iOS 5.1 ou version ultérieure ; iPad uniquement.
 
-![](assets/image2014-9-23-10-3a14-3a46.png)Figure 3. Page d&#39;accueil d&#39;arrivée événement
+![](assets/image2014-9-23-10-3a14-3a46.png)
+
+Figure 3. Page d&#39;accueil d&#39;arrivée événement
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
@@ -142,4 +138,3 @@ Figure 15. Voir activité Web anonyme
 ## Abonnement amélioré de piste et de contact {#enhanced-lead-and-contact-subscribe}
 
 Suivez un prospect ou contactez-le à tout moment à l&#39;aide du nouveau bouton S&#39;abonner sur la page des détails de l&#39;enregistrement.
-
