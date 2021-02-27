@@ -3,9 +3,9 @@ unique-page-id: 4720758
 description: Notes de mise à jour - Janvier 2015 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Janvier 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ Les fonctionnalités suivantes sont incluses dans la version de janvier 2015. Ve
 
 ## Mises à jour de l’automatisation marketing {#marketing-automation-updates}
 
-**Nouvelles photos de Rick DeCosta !**
-
-Rick est un client de Marketo de SmartBear et possède une [collection incroyable de photos](https://www.flickr.com/photos/rickdecosta). Regardez-les !
-
-## Landings page compatibles avec les dispositifs portables {#mobile-friendly-landing-pages}
+**Landings page compatibles avec les dispositifs portables**
 
 Vous pouvez désormais [créer des vues mobiles pour les landings page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) à partir de l&#39;éditeur de landings page. Diffusez efficacement votre message, quel que soit le périphérique, et augmentez l’engagement en adaptant votre contenu pour une consommation facile en déplacement. Cette fonctionnalité sera progressivement introduite au cours de la semaine qui suit la publication.
 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
+[-Vidéo de présentation par Landing page](https://youtu.be/aPQHlG2X6c0)
 
-**Nouveaux appels d’API ReST**
+**Nouveaux appels d’API REST**
 
 Trois nouveaux appels pour l&#39;API ReST de piste et d&#39;Activité :
 
@@ -57,9 +53,9 @@ Les améliorations apportées au module Comptes nommés amélioreront les taux d
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-Options de balise RTP mises à jour
+**Options de balise RTP mises à jour**
 
-[Les ](https://docs.marketo.com/display/docs/rtp+tag+implementation) options RTP Tagoptions sous Paramètres du compte ont été mises à jour pour inclure :
+Les options de balise RTP sous Paramètres du compte ont été mises à jour pour inclure :
 
 1. CDN et asynchrone (balise recommandée)
 1. CDN et synchrone (haute vitesse)
