@@ -3,9 +3,9 @@ unique-page-id: 2951093
 description: Notes de mise à jour - Juillet 2013 - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - juillet 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Juillet 2013 {#release-notes-july}
 
-Les fonctionnalités suivantes sont incluses dans la version de juillet, qui doit être déployée le vendredi 26 juillet.  Veuillez vérifier votre [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
-
-Après la publication, n&#39;oubliez pas de consulter l&#39;onglet [Nouvelle version](release-notes-december-2013.md) de la Communauté pour obtenir des articles d&#39;aide détaillés pour chaque fonctionnalité !
+Les fonctionnalités suivantes sont incluses dans la version de juillet, qui doit être déployée le vendredi 26 juillet.
 
 ## Widget de contenu extrait sur le Tableau de bord {#exhausted-content-widget-on-the-dashboard}
 
@@ -44,4 +42,3 @@ Vue et tri de la grille de membres par date d&#39;ajout de la piste.
 ## Modifications de la vérification orthographique dans l’éditeur WYSIWYG {#changes-to-spell-check-in-wysiwyg-editor}
 
 Le service utilisé par l&#39;éditeur WYSIWYG pour la vérification orthographique a été interrompu. Nous avons retiré le bouton Vérifier l&#39;orthographe de l&#39;éditeur jusqu&#39;à ce que nous trouvions un remplaçant.
-
