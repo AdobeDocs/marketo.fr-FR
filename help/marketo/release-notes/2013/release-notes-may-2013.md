@@ -3,9 +3,9 @@ unique-page-id: 2951097
 description: Notes de mise à jour - Mai 2013 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mai 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Mai 2013 {#release-notes-may}
 
-Les fonctionnalités suivantes sont incluses dans la version de mai. Veuillez vérifier votre [Marketo](https://docs.marketo.com/display/docs/assets/pricing.php) [Edition](https://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
-
-Après la publication, n&#39;oubliez pas de consulter l&#39;onglet [Nouvelle version](release-notes-december-2013.md) de la Communauté pour obtenir des articles détaillés de la base de connaissances pour chaque fonctionnalité !
+Les fonctionnalités suivantes sont incluses dans la version de mai.
 
 ## Fichiers de calendrier pour les Landings page {#calendar-files-for-landing-pages}
 
@@ -40,4 +38,3 @@ Trouvez les actions de flux plus rapidement grâce à l&#39;arborescence d&#39;a
 Modifier l’état de progression est maintenant Modifier l’état de Programme. Changer les données du Programme est maintenant Changer le Programme de réussite
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
-
