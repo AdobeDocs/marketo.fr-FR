@@ -3,7 +3,7 @@ unique-page-id: 2950212
 description: Notes de mise à jour - août 2014 - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - août 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Les fonctionnalités suivantes sont incluses dans la version d’août 2014. Vé
 
 ## Licences de calendrier marketing {#marketing-calendar-licenses}
 
-Après le 5 septembre 2014, seuls 5 utilisateurs peuvent accéder gratuitement au calendrier marketing. Veillez à [émettre/révoquer une licence de calendrier marketing](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) à l’intention des utilisateurs de votre choix avant cette date pour un accès sans interruption.
+Après le 5 septembre 2014, seuls 5 utilisateurs peuvent accéder gratuitement au calendrier marketing. Veillez à [émettre/révoquer une licence de calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) à l’intention des utilisateurs de votre choix avant cette date pour un accès sans interruption.
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -35,7 +35,7 @@ Les nouvelles autorisations d’utilisateur suivantes ont été ajoutées :
 
 ## Exporter les utilisateurs et les rôles à partir de l’administrateur {#export-users-and-roles-from-admin}
 
-Vous pouvez désormais [exporter une Liste d’utilisateurs et de rôles](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) à partir de Marketo. Vous pouvez également inclure un horodatage &quot;Dernière connexion&quot; dans l’exportation.
+Vous pouvez désormais [exporter une Liste d’utilisateurs et de rôles](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) à partir de Marketo. Vous pouvez également inclure un horodatage &quot;Dernière connexion&quot; dans l’exportation.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -96,4 +96,3 @@ Les administrateurs peuvent désormais verrouiller les utilisateurs en raison de
 Vous pouvez désormais exclure des adresses IP spécifiques de tous les rapports et de tous les suivis dans la personnalisation en temps réel.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)
-
