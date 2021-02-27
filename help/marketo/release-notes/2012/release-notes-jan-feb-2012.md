@@ -3,9 +3,9 @@ unique-page-id: 2951124
 description: Notes de mise à jour - Jan/Fév 2012 - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - Jan/Fév 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Les fonctionnalités suivantes sont incluses dans la version de janvier/février. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 
->[!NOTE]
->
->**Plongée profonde**
->
->Pour les autres versions, consultez les [Notes de mise à jour](https://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
-
 ## Contenu dynamique avancé {#advanced-dynamic-content}
 
-*Disponible pour les versions Pro et Enterprise*
+_Disponible pour les versions Pro et Enterprise_
 
 Grâce à un contenu dynamique avancé, vous pouvez créer des communications et des landings page électroniques attrayants pertinents pour votre audience sans avoir à créer plusieurs ressources pour le même message. Les prévisualiseurs mis à niveau vous permettent de vue chaque version unique dans un seul écran.
 
@@ -31,7 +25,7 @@ Grâce à un contenu dynamique avancé, vous pouvez créer des communications et
 
 ## Segmentation {#segmentation}
 
-*Disponible pour les versions Pro et Enterprise*
+_Disponible pour les versions Pro et Enterprise_
 
 La segmentation est un groupe de segments, qui sont un groupe ciblé d’individus à qui vous vendez. Les segments sont définis par des règles pilotées par des critères de filtrage semblables à des listes actives. Vos segments peuvent être basés sur des données démographiques, telles que le titre de la tâche ou le secteur d’activité, ou sur des comportements tels que les pages Web visitées ou les liens sur lesquels l’utilisateur a cliqué.
 
@@ -39,7 +33,7 @@ La segmentation est un groupe de segments, qui sont un groupe ciblé d’individ
 
 ## Extraits de code {#snippets}
 
-*Disponible pour les versions Pro et Enterprise*
+_Disponible pour les versions Pro et Enterprise_
 
 Stocker du contenu enrichi qui peut être utilisé maintes et maintes fois pour créer des courriers électroniques et des landings page statiques ou dynamiques.
 
@@ -47,7 +41,7 @@ Stocker du contenu enrichi qui peut être utilisé maintes et maintes fois pour 
 
 ## URL {#purls}
 
-*Disponible pour les versions Pro et Enterprise*
+_Disponible pour les versions Pro et Enterprise_
 
 Grâce aux URL personnalisées (PURLs), les spécialistes du marketing peuvent désormais créer des URL spécifiques aux contacts, afin de renforcer la personnalisation, la mesurabilité et l’effet élévateur des réponses dans les programmes marketing multipoint pour les campagnes par courrier électronique et par courrier électronique.
 
@@ -105,4 +99,3 @@ Comprendre la contribution du marketing aux recettes d&#39;opportunité individu
 Obtenir une vue d&#39;ensemble de la vitesse de pointe du programme en comprenant quels programmes ont acquis les mouvements rapides
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
-
