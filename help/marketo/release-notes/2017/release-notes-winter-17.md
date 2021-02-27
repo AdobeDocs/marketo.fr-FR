@@ -3,15 +3,15 @@ unique-page-id: 12255606
 description: Notes de mise à jour - Hiver 17 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Hiver 17
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
 
-# Notes de mise à jour : Hiver 17 {#release-notes-winter}
+# Notes de mise à jour : Hiver 16 {#release-notes-winter}
 
 Les fonctionnalités suivantes sont incluses dans la version de l’hiver 17. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
 
@@ -37,7 +37,7 @@ Exportez tous vos détails et analyses Web Campaign au format CSV. Vous pouvez e
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Localisation](https://docs.marketo.com/display/docs/web+personalization) {#localization}
+## Localisation {#localization}
 
 Les applications Personnalisation Web, Contenu prédictif et Statistiques par courriel sont désormais disponibles en allemand, en espagnol et en japonais. Vous [sélectionnez votre langue et vos paramètres régionaux](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) pour vue votre contenu dans ces langues.
 
@@ -71,7 +71,7 @@ Filtrez l’analyse du contenu prédictif pour des sources spécifiques — Cour
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Editeur de contenu prédictif](https://docs.marketo.com/display/docs/edit+predictive+content)**
+**Editeur de contenu prédictif**
 
 Il existe une expérience de modification et une mise en page améliorées qui divisent la préparation du contenu par source — Courriel, Médias enrichis ou Barre de recommandations.
 
