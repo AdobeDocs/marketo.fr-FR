@@ -3,7 +3,7 @@ unique-page-id: 2951103
 description: Notes de mise à jour - Février 2013 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Février 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Les onglets Facebook publiés à partir de Marketo détectent les périphérique
 
 ## Bientôt disponible : Prise en charge de plusieurs modèles {#coming-soon-support-for-multiple-models}
 
-Nous jetons les bases pour soutenir plusieurs modèles de cycle des recettes, l’idée numéro 1 a été votée pour RCA dans la Communauté, dans une prochaine version. Dans cette version, vous remarquerez certaines modifications, notamment [filtres de Liste intelligente et choix d’Ajoute dans les étapes de flux](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) pour prendre en charge la sélection d’un modèle et d’une étape. Nous déplaçons également les champs État des recettes de piste et Modèle de cycle des recettes de piste de l&#39;onglet Grille des pistes de Liste intelligente.
+Nous jetons les bases pour soutenir plusieurs modèles de cycle des recettes, l’idée numéro 1 a été votée pour RCA dans la Communauté, dans une prochaine version. Dans cette version, vous remarquerez certaines modifications, notamment [filtres de Liste intelligente et choix d’Ajoute dans les étapes de flux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) pour prendre en charge la sélection d’un modèle et d’une étape. Nous déplaçons également les champs État des recettes de piste et Modèle de cycle des recettes de piste de l&#39;onglet Grille des pistes de Liste intelligente.
