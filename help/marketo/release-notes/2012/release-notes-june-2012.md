@@ -3,21 +3,15 @@ unique-page-id: 2951114
 description: Notes de mise à jour - Juin 2012 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Juin 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
 
 # Notes de mise à jour : Juin 2012 {#release-notes-june}
-
->[!NOTE]
->
->**Plongée profonde**
->
->Pour les autres versions, consultez les [Notes de mise à jour](https://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
 
 ## Améliorations de la gestion des pistes marketing {#marketo-lead-management-enhancements}
 
