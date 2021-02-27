@@ -3,9 +3,9 @@ unique-page-id: 2951044
 description: Notes de mise à jour - Mai 2014 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mai 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Les fonctionnalités suivantes sont incluses dans la version de mai 2014. Veuill
 
 ## Supprimer l&#39;espace de travail {#delete-workspace}
 
-Vous pouvez désormais [supprimer un espace de travail inutilisé](../../product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Veillez à déplacer tous les actifs dans un autre espace de travail avant de tenter de supprimer l’espace de travail.
+Vous pouvez désormais [supprimer un espace de travail inutilisé](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Veillez à déplacer tous les actifs dans un autre espace de travail avant de tenter de supprimer l’espace de travail.
 
 ## Planifier la première diffusion {#schedule-first-cast}
 
-Dans les programmes d’engagement, vous pouvez planifier la date du [premier casting à s’exécuter](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Par exemple, spécifiez la cadence à toutes les 2 semaines et sélectionnez la date de la première diffusion.
+Dans les programmes d’engagement, vous pouvez planifier la date du [premier casting à s’exécuter](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Par exemple, spécifiez la cadence à toutes les 2 semaines et sélectionnez la date de la première diffusion.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -33,13 +33,13 @@ Maintenant tout le monde a de multiples programmes, flux et limites de communica
 
 ## Suivi des liens dans les courriers électroniques texte {#link-tracking-in-text-emails}
 
-[Ajoutez des ](../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) crochets de doublon autour des URL dans la version textuelle de vos courriels pour indiquer quand les liens doivent être convertis en liens de suivi marketing redirigés.
+[Ajoutez des ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) crochets de doublon autour des URL dans la version textuelle de vos courriels pour indiquer quand les liens doivent être convertis en liens de suivi marketing redirigés.
 
 >[!NOTE]
 >
 >**Exemple**
 >
->[[[https://www.marketo.com](https://www.marketo.com)]]
+>`[[https://www.marketo.com]]`
 
 Par défaut, aucun lien ne sera suivi dans la version texte des courriels. Ajoutez cette nouvelle syntaxe pour indiquer à quel moment un lien doit être converti en lien de suivi. Le comportement des liens HTML est inchangé.  Pour ajouter des liens suivis à vos courriels :
 
@@ -59,7 +59,7 @@ Voyez comment vos liens se comporteront dans les courriels à l&#39;avance. Les 
 
 ## Abandonner Campaign {#abort-campaign}
 
-Ne paniquez pas ! Si vous constatez une erreur, utilisez le nouveau bouton [abandonner la campagne](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) pour arrêter immédiatement les campagnes dans leurs suivis. Vous recevrez une notification indiquant le nombre de pistes en attente à chaque étape du flux lorsque la campagne a été arrêtée.
+Ne paniquez pas ! Si vous constatez une erreur, utilisez le nouveau bouton [abandonner la campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) pour arrêter immédiatement les campagnes dans leurs suivis. Vous recevrez une notification indiquant le nombre de pistes en attente à chaque étape du flux lorsque la campagne a été arrêtée.
 
 ## Sales Insight en japonais, portugais et espagnol {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -69,11 +69,11 @@ Téléchargez la dernière version de Sales Insight à partir d&#39;AppExchange 
 
 ## Programme Statut et calendrier de réussite dans l&#39;Analyse d&#39;adhésion au Programme {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Vue le nombre de membres [présents dans chaque état de Programme](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) et le moment où ils ont changé pour chaque état, y compris la date à laquelle ils ont atteint le succès Programme.
+Vue le nombre de membres [présents dans chaque état de Programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) et le moment où ils ont changé pour chaque état, y compris la date à laquelle ils ont atteint le succès Programme.
 
 ## Courriers électroniques de test A/B dans l’Analyse de courriel {#a-b-test-emails-in-email-analysis}
 
-Faites rapport sur chacune de vos [variantes d’e-mail de test A/B](../../product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) dans l’Analyse de courriel.
+Faites rapport sur chacune de vos [variantes d’e-mail de test A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) dans l’Analyse de courriel.
 
 ## Modifications des packages Analytics {#analytics-packaging-changes}
 
@@ -81,9 +81,4 @@ Revenus Cycle Modeler et Success Path Analyzer sont désormais inclus dans MA St
 
 ## Informations sur la plateforme mobile {#mobile-platform-info}
 
-[Segmenter et ](../../product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) déclencher les pistes qui s&#39;ouvrent et cliquer sur des courriers électroniques à partir de leurs appareils mobiles.
-
->[!NOTE]
->
->Consulter les [Notes de mise à jour de Marketo précédentes](https://docs.marketo.com/display/docs/release+notes)
-
+[Segmenter et ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) déclencher les pistes qui s&#39;ouvrent et cliquer sur des courriers électroniques à partir de leurs appareils mobiles.
