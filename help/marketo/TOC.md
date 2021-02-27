@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guide du marketing
 user-guide-description: Documentation du produit marketing
 translation-type: tm+mt
-source-git-commit: 6b15e601b1c6e424d10f702f35233b499660611f
+source-git-commit: 8bde41ab77661487bc220c3c4ec52c9be3b09fd0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '7833'
 ht-degree: 0%
 
 ---
@@ -716,6 +716,7 @@ ht-degree: 0%
             + [Modification d’un modèle de Landing page marketing](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
             + [Rendre un modèle de Landing page de formulaire libre existant compatible avec les dispositifs portables](product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
             + [Présentation des éléments et des variables dans les modèles guidés](product-docs/demand-generation/landing-pages/landing-page-templates/understanding-elements-and-variables-in-guided-templates.md)
+            + [Liste de modèle de Landing page guidé](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md)
             + Modèles de Landing page guidé {#guided-landing-page-templates}
                + [Modèle 1-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-a.md)
                + [Modèle 1-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-b.md)
