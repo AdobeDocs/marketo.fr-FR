@@ -3,7 +3,7 @@ unique-page-id: 2951107
 description: Notes de mise à jour - Décembre 2012 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - décembre 2012
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -70,7 +70,6 @@ Ajoutez des champs d&#39;opportunité personnalisés pour enrichir vos rapports 
 
 Vous êtes-vous déjà demandé quelles campagnes utilisent une action de flux spécifique, telle que Changer de note ou Demander Campaign ? Ou où un certain filtre est utilisé ? Le nouvel Inspecteur Campaign (disponible à partir du coffre au trésor) vous permet d&#39;identifier ces campagnes, ainsi que les campagnes et campagnes principales avec des erreurs.
 
-Accédez à **Admin** > **Treasure Chest** pour activer l&#39;** Inspecteur Campaign***.
+Accédez à **Admin** > **Pot de trésor** pour activer l&#39;**Inspecteur Campaign**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
-
