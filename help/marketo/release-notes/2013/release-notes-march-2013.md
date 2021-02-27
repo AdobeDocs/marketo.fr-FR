@@ -3,9 +3,9 @@ unique-page-id: 2951101
 description: Notes de mise à jour - Mars 2013 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mars 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Notes de mise à jour : Mars 2013 {#release-notes-march}
 
-Les fonctionnalités suivantes sont incluses dans la version de mars. Veuillez vérifier votre [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) pour connaître la disponibilité des fonctionnalités.
-
-Après la publication, n&#39;oubliez pas de consulter l&#39;onglet [Nouvelle version](release-notes-december-2013.md) de la Communauté pour obtenir des articles détaillés de la base de connaissances pour chaque fonctionnalité !
+Les fonctionnalités suivantes sont incluses dans la version de mars.
 
 ## Fichiers du calendrier du marketing {#marketo-calendar-files}
 
-Créez un fichier de calendrier sous la forme **Mon jeton** à utiliser dans vos messages de confirmation et de rappel de événement. Ce fichier de calendrier intégré (ex. fichier .ics) affiche tous les jetons, y compris Mes jetons et le jeton `{{member.webinar URL}}`.
+Créez un fichier de calendrier sous la forme **Mon jeton** à utiliser dans vos messages de confirmation et de rappel de événement. Ce fichier de calendrier intégré (par exemple, fichier .ics) va générer tous les jetons, y compris Mes jetons et le jeton `{{member.webinar URL}}`.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
