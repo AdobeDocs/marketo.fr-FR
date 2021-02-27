@@ -3,9 +3,9 @@ unique-page-id: 7514821
 description: Notes de mise à jour - Mai 2015 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Mai 2015
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Les fonctionnalités suivantes sont incluses dans la version de mai 2015. Veuill
 
 ## Landings page entièrement réactifs
 
-[Landings page entièrement réactifs](../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+[Landings page entièrement réactifs](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 Nous publions un nouveau mode de modification de landing page et une nouvelle syntaxe de modèle. Contrairement à notre éditeur de landing page &quot;libre-forme&quot;, le nouvel éditeur de landing page &quot;guidé&quot; offre une expérience de modification structurée pour des landings page entièrement réactifs.
 
@@ -25,7 +25,7 @@ Nous publions un nouveau mode de modification de landing page et une nouvelle sy
 
 ## Abandonner le Programme de courriel
 
-[Abandonner le Programme de courriel](../../product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
+[Abandonner le Programme de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
 Avez-vous touché l&#39;envoi avant qu&#39;un programme de messagerie ne soit prêt à sortir ? Appuyez sur les freins avec le nouveau bouton d&#39;abandon du programme de messagerie. Cela arrêtera les programmes de messagerie en vol directement dans leur voie.
 
@@ -39,15 +39,12 @@ Depuis cette version, les commentaires HTML valides sont désormais autorisés e
 
 ## RTP : Editeur de segment par glisser-déposer {#rtp-drag-and-drop-segment-editor}
 
-RTP : [Editeur de segment par glisser-déposer](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
+RTP : [Editeur de segment par glisser-déposer](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Faites glisser et déposez vos critères dans le créateur de segments, définissez la valeur et vous êtes sur le point de créer un segment en temps réel.
 
 ## RTP : Recommendations de contenu prédictif {#rtp-predictive-content-recommendations}
 
-[Recommendations de contenu prédictif](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)
+[Recommendations de contenu prédictif](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
 Utilisez les algorithmes d’apprentissage automatique et d’analyse prédictive de RTP pour recommander le contenu approprié à la bonne prospect. Améliorez visuellement vos ressources de contenu avec des images et des descriptions textuelles et recommander plusieurs ressources de contenu.
-
-![](https://lh6.googleusercontent.com/yZhSkWzW3BES9hSTUirKxM5BENG6c1kuYoclQaSY49UZpjF0s4llnshW4DV-vp4myucgOH9IJ3SqyNdy-nc38Xgy-43IY3QblAS1jY5N8GcP4xgTD1Nbp7ibfZV4yc4PM6AHqt4)
-
