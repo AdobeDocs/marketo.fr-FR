@@ -3,7 +3,7 @@ unique-page-id: 2951105
 description: Notes de mise à jour - Janvier 2013 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Janvier 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -62,4 +62,3 @@ Les noms d’affichage des champs peuvent afficher du texte dans différentes la
 L’étape de flux Modifier les données du Programme vous permet de modifier manuellement l’état de réussite et la date de réussite d’un membre du programme par le biais d’une campagne. Vous pouvez utiliser cette étape de flux pour corriger une erreur ou pour modifier manuellement un membre qui n&#39;a peut-être pas participé au programme comme prévu.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
-
