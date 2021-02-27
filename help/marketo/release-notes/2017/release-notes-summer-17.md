@@ -3,9 +3,9 @@ unique-page-id: 12980993
 description: Notes de mise à jour - Été 17 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Été 17
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Les fonctionnalités suivantes sont incluses dans la version de Summer &#39;17. 
 
 Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction. Remarque : Certaines des fonctionnalités incluses dans cette version n’ont pas d’articles associés. Si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
 
-## [Autres étapes de conversion hors ligne Facebook](https://docs.marketo.com/x/kbSt) {#additional-facebook-offline-conversion-stages}
+## [Autres étapes de conversion hors ligne Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-Choisissez jusqu’à 7 étapes de conversion hors ligne supplémentaires à mapper à vos étapes de cycle de vie Marketo (au-delà des 3 disponibles aujourd’hui). Optimisez vos dépenses publicitaires Facebook en fonction des conversions sur l&#39;ensemble du parcours de vos clients afin d&#39;obtenir un meilleur retour sur investissement.
+Choisissez jusqu’à 7 étapes de conversion hors ligne supplémentaires à mapper à vos étapes de cycle de vie Marketo (au-delà des 3 disponibles aujourd’hui). Optimisez vos dépenses publicitaires Facebook en fonction des conversions sur l’ensemble de votre parcours client afin d’obtenir un meilleur retour sur investissement.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [Verrouiller le modèle Sales Insight](https://docs.marketo.com/x/OhPG) {#lock-sales-insight-template}
+## [Verrouiller le modèle Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
 
 Veillez à la cohérence du message et du contenu en empêchant les modifications apportées à vos modèles de vente. Cela aide à normaliser les modèles et à maintenir les communications professionnelles.
 
@@ -35,17 +35,17 @@ Veillez à la cohérence du message et du contenu en empêchant les modification
 
 Faites correspondre les personnes aux noms des sociétés japonaises dans la langue locale.
 
-** [Intégration ABM et LeanData](https://docs.marketo.com/x/pKmt)**
+**[Intégration d&#39;ABM et de LeanData](https://docs.marketo.com/x/pKmt)**
 
 L’intégration de LeanData permet désormais la mise en correspondance de pistes vers comptes dans Marketo. Maintenez l&#39;alignement du marketing et des ventes en associant les mêmes pistes aux comptes dans les systèmes de ventes et de marketing d&#39;enregistrement. Des options plus flexibles permettent aux opérations marketing et commerciales de mieux contrôler les règles de correspondance de piste à compte, afin d&#39;atteindre le niveau de précision souhaité.
 
 ## Améliorations de la personnalisation Web {#web-personalization-enhancements}
 
-** [Améliorations de la Prévisualisation Campaign](https://docs.marketo.com/x/fQGa)**
+**[Améliorations apportées à la Prévisualisation Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
 Les spécialistes du marketing peuvent désormais s’assurer que leurs campagnes Web s’affichent correctement sur n’importe quel périphérique *avant de les lancer.* Grâce à ces améliorations, voyez comment vos campagnes Web s’afficheront sur les ordinateurs de bureau, les appareils mobiles et les tablettes. Le nouveau module externe pour Chrome offre également des prévisualisations plus cohérentes et plus précises.
 
-** [Améliorations apportées au widget Campaign](https://docs.marketo.com/x/KgNI)**
+**[Améliorations apportées au widget Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
 De nouvelles options pour les campagnes de widgets sont désormais disponibles, notamment :
 
@@ -53,11 +53,11 @@ De nouvelles options pour les campagnes de widgets sont désormais disponibles, 
 * Affichage des campagnes (toute position autour de l’écran)
 * Modifier la flèche agrandie/réduite en flèche pour tout texte CTA
 
-## Contenu`<sup>AI</sup>` {#contentai}
+## ContentAI {#contentai}
 
-** [Contenu`<sup>AI </sup>`Analyses et suggestions](https://docs.marketo.com/x/1BPG)**
+**[Analyses et suggestions de ContentAI](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
 
-Augmentez le retour sur votre marketing de contenu grâce à des analyses plus approfondies et à des suggestions de contenu basées sur l&#39;IA pour augmenter l&#39;engagement.** **Les analyses performantes montrent les performances du contenu recommandé, notamment les vues populaires, de tendance et basées sur les audiences. Vous verrez également des suggestions d’inclusion de contenu supplémentaire.
+Augmentez le retour sur votre marketing de contenu grâce à des analyses plus approfondies et à des suggestions de contenu basées sur l&#39;IA pour augmenter l&#39;engagement. Les analyses puissantes montrent les performances du contenu recommandé, notamment les vues populaires, de tendance et basées sur les audiences. Vous verrez également des suggestions d’inclusion de contenu supplémentaire.
 
 ## Analytics {#analytics}
 
@@ -65,6 +65,6 @@ Augmentez le retour sur votre marketing de contenu grâce à des analyses plus a
 
 Tirez encore plus parti de votre expérience des connaissances de courriel avec de nouvelles méthodes de préparation et de partage des données. Vous pouvez maintenant télécharger les résultats de vos statistiques de messagerie dans Microsoft Excel et PowerPoint pour utiliser les données en dehors de Marketo.
 
-## [Prise en charge de la configuration des identités fédérées](https://docs.marketo.com/x/XhzG) {#federated-identity-configuration-support}
+## Prise en charge de la configuration des identités fédérées {#federated-identity-configuration-support}
 
 Conservez l&#39;authentification (Principale Directory) derrière votre pare-feu sur site tout en continuant à utiliser Microsoft Dynamics CRM dans le cloud.
