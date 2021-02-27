@@ -3,9 +3,9 @@ unique-page-id: 2951119
 description: Notes de mise à jour - Avril 2012 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - avril 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Notes de mise à jour : Avril 2012 {#release-notes-april}
 
 ## Filtres de segmentation et déclencheurs {#segmentation-filters-and-triggers}
-
->[!NOTE]
->
->**Plongée profonde**
->
->Pour les autres versions, consultez les [Notes de mise à jour](https://docs.marketo.com/display/docs/release+notes) plongée en profondeur.
 
 Cibles-tu le même groupe de pistes de manière cohérente ? Si tel est le cas, utilisez la segmentation dans vos listes intelligentes pour le ciblage des pistes. Avec la segmentation, la base de données de pistes entière est toujours segmentée et peut être réutilisée sur vos programmes pour assurer la cohérence. Les résultats de la segmentation sont extraits rapidement car ils ne nécessitent pas l’exécution de la liste dynamique au moment de la demande.
 
@@ -63,4 +57,3 @@ Si vous ne synchronisez pas votre abonnement avec Salesforce, vous remarquerez q
 Permet aux utilisateurs de définir un ordre pour leurs règles de transition.
 
 ![](assets/image2014-9-23-10-3a5-3a17.png)
-
