@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Utilisation de la page Détails de la personne - Documents marketing - Documentation du produit
 title: Utilisation de la page Détails de la personne
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -59,6 +59,10 @@ Les informations sur les personnes sont classées dans les onglets suivants :
 | Champ de piste Microsoft | Champs Microsoft intégrés. |
 | Journal des Activités | Toutes les activités liées à la personne. |
 
+>[!NOTE]
+>
+>Vous pouvez également voir les informations d&#39;opportunité [insérées via l&#39;API](http://developers.marketo.com/rest-api/lead-database/opportunities/) pour les instances qui ne sont pas synchronisées avec une gestion de la relation client.
+
 ## Modification d&#39;un champ {#editing-a-field}
 
 De nombreux champs sont modifiables. Pour mettre à jour les informations d’une personne, entrez une nouvelle valeur et cliquez en dehors du champ pour enregistrer.
@@ -92,10 +96,10 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 >
 >Certains champs sont _non_ modifiables :
 >
+>* Journal des Activités
 >* Informations sur la société
 >* Possibilités de contacts avec la DDC
 >* Certains champs spécifiques au marketing, tels que Date de création et Type de source d’origine.
->* Journal des Activités
 
 >
 >
