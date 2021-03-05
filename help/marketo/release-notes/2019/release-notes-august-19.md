@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: Notes de mise à jour - 19 août - Documents marketing - Documentation du produit
 title: Notes de mise à jour - 19 août
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,6 @@ Les fonctionnalités suivantes sont disponibles sur un cycle non trimestriel et 
 
 **Connexion** ![ commerciale (étoile)](assets/star-yellow.svg)
 
-* **Intégration** : La procédure pas à pas facilite et rend l’intégration plus efficace en guidant les nouveaux utilisateurs tout au long de la configuration de l’instance.
 * **Amélioration de la mise en page des pages des personnes :** gérez vos personnes et vos groupes grâce aux importations de listes et aux actions en masse dans la nouvelle mise en page des pages des personnes.
 
 >[!AVAILABILITY]
