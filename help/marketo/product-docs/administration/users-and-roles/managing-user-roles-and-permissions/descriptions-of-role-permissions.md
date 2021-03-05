@@ -3,7 +3,7 @@ unique-page-id: 6848747
 description: Descriptions des autorisations de rôle - Documents marketing - Documentation du produit
 title: Descriptions des autorisations de rôle
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Donne aux utilisateurs disposant de l&#39;accès **API uniquement** **Rôle** au
 * Opportunité de lecture-écriture
 * Personne vendeuse en lecture-écriture
 
-Accès à Analytics
+## Accès à Analytics {#access-analytics}
 
 Donne aux utilisateurs l’accès aux onglets Analytics, aux statistiques d’e-mail, aux rapports et aux trois éléments ci-dessous, sauf s’ils sont désactivés.
 
@@ -96,7 +96,7 @@ Donne aux utilisateurs l’accès aux onglets Analytics, aux statistiques d’e-
 
 ## Presentations du calendrier d&#39;accès {#access-calendar-presentations}
 
-Donne aux utilisateurs l&#39;accès aux présentations Calendrier ? ?- permet l&#39;affichage du bouton Presentations en bas ?
+Donne aux utilisateurs l&#39;accès aux présentations Calendrier - permet l&#39;affichage du bouton Presentations en bas.
 
 * Modifier le calendrier Presentations : permet aux utilisateurs de modifier des présentations dans le calendrier
 
@@ -165,7 +165,7 @@ Vue de la base de données ainsi que de la vue et modification des listes dynami
 * Importation avancée de Liste
 * Supprimer une personne
 * Supprimer la Liste
-* Modifier la personne - Empêche la modification manuelle et l&#39;exécution d&#39;étapes de flux simples ; vous pouvez toujours modifier des personnes en exécutant des campagnes contre elles.
+* Modifier une personne - Empêche la modification manuelle et l&#39;exécution d&#39;étapes de flux simples ; vous pouvez toujours modifier des personnes en exécutant des campagnes contre elles.
 * Exporter une personne - Exporter des feuilles de calcul à partir de vos listes de base de données
 * Importer un objet personnalisé
 * Liste d’importation
