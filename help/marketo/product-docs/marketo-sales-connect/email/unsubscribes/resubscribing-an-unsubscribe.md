@@ -3,9 +3,9 @@ unique-page-id: 14746177
 description: Reprise d'un abonnement - Marketo Docs - Documentation du produit
 title: Reprise d'un abonnement
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,7 @@ Parfois, les gens veulent revenir à la réception des courriels. Voici comment 
 1. Sélectionnez la raison pour laquelle la personne est de nouveau sélectionnée pour recevoir des courriels, puis cliquez sur **Supprimer la désinscription**.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>Si la synchronisation de désabonnement est activée, vous devez décocher la case opt-out sur l&#39;enregistrement dans Salesforce également, sinon la synchronisation de nuit désabonnera de nouveau la personne dans Sales Connect, car elle détectera que la personne est désabonnée dans Salesforce. Si l&#39;un ou l&#39;autre des enregistrements est opt-out/désabonné, la synchronisation marquera l&#39;enregistrement lié comme tel.
