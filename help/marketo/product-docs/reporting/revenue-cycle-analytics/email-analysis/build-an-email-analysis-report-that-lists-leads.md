@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: Créez un rapport d'Analyse par courriel qui Liste les pistes - Documents marketing - Documentation sur les produits
 title: Création d’un rapport d’Analyse par courriel qui Liste les pistes
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -17,48 +17,46 @@ ht-degree: 0%
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
 
-Pour créer un rapport d&#39;Analyse de courriel qui vous montrera chaque piste qui a été envoyée à un courriel spécifique, ce rapport inclura également les statistiques de clic et d&#39;ouverture. 1. Lancez l’explorateur de recettes.
+Pour créer un rapport d&#39;Analyse de courriel qui vous montrera chaque piste qui a été envoyée à un courriel spécifique, ce rapport inclura également les statistiques de clic et d&#39;ouverture.
 
-![](assets/image2014-9-17-19-3a12-3a54.png)
+1. Lancez **Explorateur de recettes**.
 
-1. Cliquez sur **Nouveau rapport**.
+   ![](assets/report-that-lists-leads-1.png)
 
-   ![](assets/image2014-9-17-19-3a13-3a1.png)
+1. Cliquez sur **Créer**, puis sur **Rapport**.
 
-1. Sélectionnez la zone E-mail Analyse et cliquez sur **OK**.
+   ![](assets/report-that-lists-leads-2.png)
 
-   ![](assets/image2014-9-17-19-3a14-3a0.png)
+1. Sélectionnez Analyse de courriel et cliquez sur **OK**.
+
+   ![](assets/report-that-lists-leads-3.png)
 
 1. Recherchez le point jaune Nom du courriel, cliquez dessus avec le bouton droit et sélectionnez **Filtre**.
 
-   ![](assets/image2014-9-17-19-3a14-3a6.png)
+   ![](assets/report-that-lists-leads-4.png)
 
 1. Doublon-cliquez sur le courriel de votre choix dans la liste et cliquez sur **OK**.
 
-   ![](assets/image2014-9-17-19-3a14-3a11.png)
+   ![](assets/report-that-lists-leads-5.png)
 
-1. Faites glisser le point jaune Nom du courriel sur Colonnes.
+1. Faites glisser le **nom du courriel** point jaune sur **Colonnes**.
 
-   ![](assets/image2014-9-17-19-3a15-3a0.png)
+   ![](assets/report-that-lists-leads-6.png)
 
    >[!TIP]
    >
    >Il y a de nombreux attributs de piste/société que vous pouvez ajouter sous forme de colonnes, regardez-les !
 
-1. Recherchez le point jaune Nom complet et faites-le glisser sur Lignes.
+1. Recherchez le point jaune **Nom complet** et faites-le glisser sur **Lignes**.
 
-   ![](assets/image2014-9-17-19-3a15-3a32.png)
+   ![](assets/report-that-lists-leads-7.png)
 
-1. Ajoutez maintenant les mesures qui vous intéressent en cliquant sur leur doublon.
+1. Ajoutez maintenant les **Mesures** qui vous intéressent en cliquant sur les doublons.
 
-   ![](assets/image2014-9-17-19-3a15-3a47.png)
+   ![](assets/report-that-lists-leads-8.png)
 
 >[!NOTE]
 >
 >L’actualisation de ce rapport peut prendre un certain temps en fonction de la quantité de données que vous disposez.
-
-Maintenant que vous avez terminé, votre rapport devrait ressembler à ceci :
-
-![](assets/image2014-9-17-19-3a16-3a39.png)
 
 Mission terminée !
