@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: Notes de mise à jour - 19 juin - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - 19 juin
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ Les fonctionnalités suivantes devraient être publiées tout au long du deuxiè
 ## Marketing Sales Connect {#marketo-sales-connect}
 
 * **Actions en bloc dans la personnalisation** Salesforce : Optimisez la productivité en envoyant des courriers électroniques et en ajoutant des contacts aux campagnes en bloc grâce à la personnalisation de Salesforce.
-* **Sélectionner, glisser et déposer** : Organisez facilement votre instance Sales Connect avec la possibilité de faire glisser des modèles vers des catégories intuitives.
 * **Paramètres - Page Salesforce pour les administrateurs et les non-administrateurs** : Gérez votre instance Sales Connect avec une vue claire de l&#39;instance Salesforce connectée à Sales Connect ainsi que les mises à jour My Email to Salesforce. Les paramètres de synchronisation améliorés pour les administrateurs, les non-administrateurs et l’équipe de synchronisation seront disponibles dans les mois à venir.
 * **Paramètres - Page** d&#39;intégration : Un guichet unique pour toutes vos intégrations, pour que vous puissiez tirer le meilleur parti de notre écosystème ouvert.
 * **Paramètres - Page** Profil : Vue et mise à jour des détails de votre compte, changement de votre mot de passe et vérification de l’état de l’implémentation de votre instance sur cette nouvelle page de profil.
