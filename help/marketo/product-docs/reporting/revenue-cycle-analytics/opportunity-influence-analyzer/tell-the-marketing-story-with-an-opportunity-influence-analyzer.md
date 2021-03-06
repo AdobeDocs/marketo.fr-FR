@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: Racontez l’article marketing à l’aide d’un analyseur d’influence d’opportunité - Documentation sur le marketing - Documentation du produit
 title: Analyseur d’influence d’opportunité pour raconter l’article marketing
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Utilisez un analyseur d&#39;influence d&#39;opportunité pour illustrer le rôle
 
    L&#39;analyseur d&#39;influence sur les opportunités est une représentation visuelle des interactions et des succès programmes et événements impliqués dans cette opportunité. Explorons le graphique :
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Les** points orange représentent des  [moments ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) intéressants dans l&#39;opportunité (emails ouverts, visites de cabines de commerce, téléchargements de livres blancs, etc.). Les points plus grands indiquent davantage d’interactions.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Les** points orange représentent des moments intéressants dans l&#39;opportunité (emails ouverts, visites de cabines de commerce, téléchargements de livres blancs, etc.). Les points plus grands indiquent davantage d’interactions.
 
    * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Les icônes de** Binder indiquent les succès programmes.
 
