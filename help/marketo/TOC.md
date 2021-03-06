@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guide du marketing
 user-guide-description: Documentation du produit marketing
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
-source-wordcount: '7857'
+source-wordcount: '7875'
 ht-degree: 0%
 
 ---
@@ -187,6 +187,7 @@ ht-degree: 0%
          + [Glossaire du type de champ personnalisé](product-docs/administration/field-management/custom-field-type-glossary.md)
          + [Suppression d’un champ personnalisé dans Marketo](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
          + [Modifier les alias de champ pour l’importation de Liste](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
+         + [Exporter toutes les métadonnées d’objet](product-docs/administration/field-management/export-all-object-metadata.md)
          + [Exportation d’une Liste de tous les noms de champs de l’API de marketing](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [Exportation utilisée par les données pour un champ](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Masquer et afficher un champ](product-docs/administration/field-management/hide-and-unhide-a-field.md)
@@ -246,6 +247,7 @@ ht-degree: 0%
          + [Exportation d’une Liste d’utilisateurs et de rôles](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gestion des utilisateurs du marketing](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gestion des rôles et autorisations des utilisateurs](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
+         + [Exporter les rôles et autorisations](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descriptions des autorisations de rôle](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
          + [Activation de l’option Aucun brouillon pour les extraits de code](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
       + Espaces de travail et partitions de personne {#workspaces-and-person-partitions}
@@ -434,6 +436,7 @@ ht-degree: 0%
          + Jetons {#tokens}
             + [Gestion de mes jetons](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
             + [Présentation de mes jetons dans un Programme](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+            + [Jetons de champ personnalisés de membre de programme](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
       + Calendrier marketing {#marketing-calendar}
          + Présentation du calendrier {#understanding-the-calendar}
             + [Publication/Révocation d’une licence de calendrier marketing](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
@@ -789,7 +792,7 @@ ht-degree: 0%
                + [Modèle 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Modèle 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modèle 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modèle 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modèle 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modèle 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modèle 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modèle 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1027,6 +1030,7 @@ ht-degree: 0%
          + [Présentation de la connexion commerciale](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Prise en main de Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [Vidéos et Tutorials de Début rapide](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
+         + [Modifier votre mot de passe de connexion commerciale](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + Paramètres de courriel {#email-settings}
             + [Identité d&#39;Ajoute](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [Ajouter votre signature électronique](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
