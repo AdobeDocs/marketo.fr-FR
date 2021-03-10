@@ -3,9 +3,9 @@ unique-page-id: 2360337
 description: Création et utilisation d’un champ de chaîne concaténée (formule) - Documents marketing - Documentation du produit
 title: Créer et utiliser un champ de chaîne concaténée (formule)
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -39,14 +39,16 @@ Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une val
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   En savoir plus sur les [jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >[!TIP]
+   >
+   >En savoir plus sur les [jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Vous pouvez désormais ajouter le champ de formule en tant que jeton dans un courrier électronique.
 
    ![](assets/seven.png)
 
-Bon travail ! Maintenant vous avez un champ intelligent qui sait quelle formule de salutation inclure en fonction du sexe. Amusez-vous avec ça et devenez créatif.
-
 >[!NOTE]
 >
->Les champs de formule peuvent être utilisés dans des colonnes de landings page, de courriers électroniques et de listes dynamiques ; ils ne sont pas exportés. Les courriers électroniques contenant des champs de formule ne peuvent pas être envoyés par le biais de campagnes par lots.
+>Les champs de formule peuvent être utilisés dans des colonnes de landings page, de courriers électroniques et de listes dynamiques (ils ne sont pas exportés). Les courriers électroniques contenant des champs de formule peuvent **ne pas** être envoyés à l’aide d’une campagne par lot. Utilisez un [jeton de script de courrier électronique](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) dans ce scénario.
+
+Bon travail ! Maintenant vous avez un champ intelligent qui sait quelle formule de salutation inclure en fonction du sexe. Amusez-vous avec ça et devenez créatif.
