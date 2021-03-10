@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Ajouter les champs d'objet personnalisé Marketo - Docs Marketo - Documentation du produit
 title: Ajouter les champs d'objet personnalisé Marketo
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
 
    >[!TIP]
    >
-   >Lorsque vous créez un champ de déduplication, vous pouvez l’utiliser pour supprimer des champs de duplicata dans votre base de données.
+   >Les champs de déduplication peuvent être utilisés pour récupérer, mettre à jour ou supprimer des objets personnalisés. Chaque définition d’objet personnalisé doit contenir au moins un (et pas plus de trois) champs dédupliqués.
 
 1. Ajoutez les autres champs dont vous avez besoin.
 
@@ -63,6 +63,6 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
 >
 >* [Ajouter les champs de lien d’objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [Modifier et supprimer un objet personnalisé marketing](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Compréhension des objets personnalisés de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [Modifier et supprimer des champs d&#39;objet personnalisé du marketing](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Compréhension des objets personnalisés de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
