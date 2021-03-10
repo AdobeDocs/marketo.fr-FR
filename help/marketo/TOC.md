@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guide du marketing
 user-guide-description: Documentation du produit marketing
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '7875'
+source-wordcount: '7885'
 ht-degree: 0%
 
 ---
@@ -491,7 +491,8 @@ ht-degree: 0%
             + [Glossaire des raccourcis clavier](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
             + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
             + [Renommer un actif marketing](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [Configuration du partage des Audiences Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+            + [Configuration du partage des Audiences Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
+            + [Synchroniser une Audience à partir de Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
             + [Présentation des dossiers](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
             + [Présentation des notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
             + [Types de notification](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
@@ -792,7 +793,7 @@ ht-degree: 0%
                + [Modèle 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Modèle 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modèle 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modèle 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modèle 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modèle 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modèle 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modèle 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1028,7 +1029,8 @@ ht-degree: 0%
    + Marketing Sales Connect {#marketo-sales-connect}
       + Prise en main {#getting-started}
          + [Présentation de la connexion commerciale](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Prise en main de Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Prise en main de Sales Connect](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
+         + [Ma page de Profil](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [Vidéos et Tutorials de Début rapide](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Modifier votre mot de passe de connexion commerciale](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + Paramètres de courriel {#email-settings}
