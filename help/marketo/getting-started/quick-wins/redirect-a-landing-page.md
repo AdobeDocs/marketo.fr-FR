@@ -3,9 +3,9 @@ unique-page-id: 2359428
 description: Rediriger un Landing page - Marketo Docs - Documentation du produit
 title: Redirection d’un Landing page
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,6 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 >* [landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 >* [Personnalisation de l’URL de votre Landing page avec un CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
