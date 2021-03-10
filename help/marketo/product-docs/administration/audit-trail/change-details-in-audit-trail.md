@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: Détails des modifications dans la piste d’audit - Documents marketing - Documentation du produit
 title: Modifier les détails dans la piste d’audit
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '1913'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <th colspan="1">Modifier les détails</th> 
   </tr> 
   <tr> 
-   <td rowspan="15">Programme par défaut<br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="15"><strong>Programme par défaut</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Créer</td> 
    <td>Type de canal "canal type"<br>ou<br>Cloné à partir de "programme name"</td> 
   </tr> 
@@ -91,7 +91,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td rowspan="18">Courriel<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>Courriel</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Créer</td> 
    <td>Créé à l’aide du modèle "nom du modèle" <br>ou <br>cloné à partir de "nom du fichier"</td> 
   </tr> 
@@ -132,16 +132,20 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>Les modifications ont rompu le courrier électronique du modèle "template_name" (REMARQUE : ceci se produit aujourd’hui si vous modifiez directement le code)</td> 
   </tr> 
   <tr> 
+   <td>Modifier</td> 
+   <td>Nouvelle description "nouvelle description" Ancienne description "ancienne description"</td> 
+  </tr> 
+  <tr> 
+   <td>Modifier</td> 
+   <td>Modifier le module <module name><attribute> à "value"</td> 
+  </tr> 
+  <tr> 
    <td>Supprimer</td> 
    <td>S/O</td> 
   </tr> 
   <tr> 
    <td>Renommer</td> 
    <td>Nouveau nom "nouveau nom", prénom "nom précédent"</td> 
-  </tr> 
-  <tr> 
-   <td>Modifier</td> 
-   <td>Nouvelle description "nouvelle description" Ancienne description "ancienne description"</td> 
   </tr> 
   <tr> 
    <td>Cloner</td> 
@@ -163,7 +167,6 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>Version préliminaire</td> 
    <td>Le courrier électronique a été rédigé car le fragment de code "nom du fragment de code" a été approuvé<br>ou<br>Le courrier électronique a été rédigé car le modèle "nom du modèle" a été approuvé.</td> 
   </tr> 
-  <tr> 
    <td rowspan="17">Programme de courriel</td> 
    <td>Créer</td> 
    <td>Type de canal "canal type"<br>ou<br>Cloné à partir de "programme name"</td> 
@@ -506,6 +509,14 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   <tr> 
    <td>Modifier</td> 
    <td>Nouvelle description "nouvelle description" Précédente "précédente description"</td> 
+  </tr> 
+  <tr> 
+   <td>Modifier</td> 
+   <td>"Image" Ajoutée, "Image" supprimée, composant Image modifié</td> 
+  </tr> 
+  <tr> 
+   <td>Modifier</td> 
+   <td>"Texte enrichi" Ajouté, "Texte enrichi" supprimé, Composant Texte enrichi modifié</td> 
   </tr> 
   <tr> 
    <td>Cloner</td> 
