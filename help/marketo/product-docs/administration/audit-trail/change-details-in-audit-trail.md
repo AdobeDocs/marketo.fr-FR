@@ -137,7 +137,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Modifier le module <module name><attribute> à "value"</td> 
+   <td>Modifier le module <code>"<module name>" <attribute></code> à "value"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
