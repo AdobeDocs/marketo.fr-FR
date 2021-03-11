@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: Ajouter la connexion unique à un portail - Documents marketing - Documentation du produit
 title: Ajouter la connexion unique à un portail
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,8 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 ## Comment envoyer la requête {#how-to-send-the-request}
 
 * Envoyer la demande d’authentification unique, qui est une réponse SAML, à `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* En tant qu’URL d’Audience du SP. Utiliser [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
-* Si vous utilisez l&#39;attribut SPNameQualifier, définissez l&#39;élément NameID pour Objet sur [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* En tant qu’URL d’Audience du SP. Utiliser `https://saml.marketo.com/sp`
+* Si vous utilisez l&#39;attribut SPNameQualifier, définissez l&#39;élément NameID pour Objet sur `https://saml.marketo.com/sp`
 * Si vous fédérez plusieurs abonnements de marketing au même fournisseur d’authentification unique, vous pouvez utiliser des url SP uniques pour chaque sous- de marketing au format `https://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
@@ -44,6 +44,8 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 * **Approvisionnement**  des utilisateurs : les utilisateurs sont configurés manuellement par Marketo.
 * **Autorisation**  - Les autorisations d’utilisateur sont conservées dans Marketing Cloud.
 * **Prise en charge**  OAuth - Marketo ne prend actuellement pas en charge OAuth.
+* **Propagation**  automatique de l’utilisateur - Également appelé &quot;Provisioning juste à temps&quot;, c’est-à-dire lorsque la première connexion SAML d’un utilisateur est capable de créer l’utilisateur dans l’application Web à laquelle il accède (par exemple, Marketo) et qu’aucune action d’administration manuelle n’est requise. Ceci n’est pas pris en charge par Marketo pour le moment.
+* **Chiffrement**  - Marketo ne prend actuellement pas en charge le chiffrement.
 
 >[!NOTE]
 >
@@ -59,7 +61,7 @@ La fonction SSO est désactivée par défaut. Suivez ces étapes pour activer SA
 
    >[!NOTE]
    >
-   >Si **Connexion unique** n&#39;apparaît pas sous **Admin**, contactez [[Support marketing]](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Si **Connexion unique** n&#39;apparaît pas sous **Admin**, contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Sous la section **Paramètres SAML**, cliquez sur **Modifier**.
 
@@ -102,3 +104,10 @@ La fonction SSO est désactivée par défaut. Suivez ces étapes pour activer SA
    >[!NOTE]
    >
    >Ces deux pages doivent être accessibles au public.
+
+>[!MORELIKETHIS]
+>
+>* [Utilisation d’un ID universel pour la connexion à un Abonnement](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+>* [Restreindre la connexion utilisateur à SSO uniquement](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Invitation d’utilisateurs de Marketing Cloud à deux instances avec un ID universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+
