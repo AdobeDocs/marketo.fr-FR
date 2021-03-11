@@ -3,9 +3,9 @@ unique-page-id: 10100311
 description: Utilisation d’un ID universel pour la connexion à l’Abonnement - Documents marketing - Documentation du produit
 title: Utilisation d’un ID universel pour la connexion à un Abonnement
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,10 @@ Si vous avez plusieurs abonnements, vous pouvez avoir plusieurs profils de commu
 ## Plateforme mobile {#mobile-platform}
 
 Les utilisateurs disposant d’un ID universel peuvent consulter leurs données sur les moments marketing et l’application d’enregistrement de événement iPad depuis l’abonnement sur lequel ils se sont connectés pour la dernière fois. Vous ne pouvez pas modifier les abonnements à partir de la plate-forme mobile elle-même.
+
+>[!MORELIKETHIS]
+>
+>* [Ajouter la connexion unique à un portail](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+>* [Restreindre la connexion utilisateur à SSO uniquement](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Invitation d’utilisateurs de Marketing Cloud à deux instances avec un ID universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+
