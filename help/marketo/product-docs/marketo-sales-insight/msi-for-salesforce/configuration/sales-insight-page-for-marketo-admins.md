@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Page d'informations sur les ventes pour les administrateurs du marketing - Documents marketing - Documentation du produit
 title: Page d'informations commerciales pour les administrateurs du marketing
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -85,4 +85,14 @@ Lorsqu&#39;ils sont activés, les utilisateurs MSI ne pourront pas modifier les 
 
 **Activer le flux RSS :**
 
-Une fois activé, les utilisateurs MSI peuvent vue leur flux de piste dans un flux RSS (en plus du flux de piste dans Salesforce).
+Une fois activé, les utilisateurs MSI peuvent vue leur flux de piste dans un flux RSS (en plus du flux de piste dans Salesforce). Le flux RSS ne peut fonctionner que si la fonction &quot;Token Expiration&quot; est désactivée.
+
+**Expiration du jeton :**
+
+L’expiration du jeton est contrôlée dans le Gestionnaire de fonctionnalités. Pour l’activer/désactiver, contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support). Lorsque cette option est activée, tous les jetons Marketo expirent dans les 10 minutes. Lorsque cette option est désactivée, les jetons Marketo n’expirent pas.
+
+Les jetons générés avant l&#39;activation de l&#39;expiration des jetons n&#39;auront pas de délai d&#39;expiration pour la validation. Ils n&#39;expireront donc pas même si la fonction est actuellement activée.
+
+Les jetons générés après l&#39;activation de l&#39;expiration des jetons auront un délai d&#39;expiration de 10 minutes. Ils expireront donc dans 10 minutes, même après la désactivation de la fonction.
+
+Le comportement du jeton dépend du moment où il a été généré (lorsque la fonction d&#39;expiration du jeton a été activée/désactivée, plutôt que de son état actuel).
