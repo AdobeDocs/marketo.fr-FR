@@ -3,7 +3,7 @@ unique-page-id: 2360331
 description: Modifier le type d'un champ personnalisé de marketing - Documents marketing - Documentation du produit
 title: Modification du type d’un champ personnalisé de marketing
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Voici comment modifier le type de champ d’un champ personnalisé.
    >
    >Les champs de note et de formule ne peuvent pas être modifiés.
 
-   ![](assets/image2015-4-22-9-3a39-3a3.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
 1. Lisez l’avertissement, puis cliquez sur **Modifier** pour confirmer.
 
