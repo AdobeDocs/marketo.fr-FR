@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guide du marketing
 user-guide-description: Documentation du produit marketing
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '7885'
+source-wordcount: '7889'
 ht-degree: 0%
 
 ---
@@ -524,6 +524,7 @@ ht-degree: 0%
                + [Étape 2 sur 3 : Configurer un utilisateur de synchronisation de marketing dans Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
                + [Étape 3 sur 3 : Connexion de Microsoft Dynamics avec Marketo (en ligne)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
          + Détails de Microsoft Dynamics Sync {#microsoft-dynamics-sync-details}
+            + [Mappage de champ dynamique par défaut](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync : Synchronisation du compte](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
             + [Microsoft Dynamics Sync : Synchronisation des contacts](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
             + [Microsoft Dynamics Sync : Synchronisation des entités personnalisées](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
