@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: Notes de mise à jour - Juillet 20 - Documentation sur le marketing - Documentation du produit
 title: Notes de mise à jour - Juillet 20
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,11 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 juillet. Vér
 Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et seront publiées au cours des prochains mois.
 
 * **Service** Forms : Nous introduisons une validation plus poussée de la syntaxe des champs de formulaire et la possibilité de bloquer les modèles de robots courants grâce aux nouvelles fonctionnalités de domaines sécurisés pour les Landings page. Le blocage des modèles de robots peut réduire les envois de formulaires de spam et améliorer la qualité de votre base de données.
+
+>[!NOTE]
+>
+>Le déploiement complet de la validation améliorée de la syntaxe des champs de formulaire a été reporté après notre version de janvier 2021.
+
 * **Augmentation de la taille de l’URI de l’API de ressources** : La limite de taille de l&#39;URI (Uniforme Resource Identifier) est augmentée de 8 Ko à 65 Ko avant la suppression du paramètre &quot;_method&quot;. Lorsque vous effectuez de longues chaînes de requête, cette augmentation de taille limite permet aux données de passer plus facilement. La suppression du paramètre &quot;_method&quot; fait partie d&#39;une mise à niveau de sécurité à venir.
 
 ## Sales Insight {#sales-insight}
