@@ -3,9 +3,9 @@ unique-page-id: 2952636
 description: Rechercher des personnes Duplicata ayant une logique personnalisée - Documentation marketing - Documentation du produit
 title: Rechercher des personnes Duplicata avec une logique personnalisée
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ Marketo dispose d&#39;une liste intelligente système qui recherche les duplicat
    * Nom complet
    * Nom
    * Mis à jour à
+
+   >[!NOTE]
+   >
+   >Tous les champs, à l’exception de l’adresse électronique, sont sensibles à la casse. Ainsi, l’utilisation de &quot;john doe&quot; dans le champ Nom complet _ne renvoie pas_ les résultats pour John Doe.
 
    ![](assets/four-2.png)
 
