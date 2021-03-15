@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Notes de mise à jour - Hiver 17 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Hiver 17
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Notes de mise à jour : Hiver 16 {#release-notes-winter}
+# Notes de mise à jour : Hiver 17 {#release-notes-winter}
 
 Les fonctionnalités suivantes sont incluses dans la version de l’hiver 17. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
 
@@ -45,7 +45,7 @@ Les applications Personnalisation Web, Contenu prédictif et Statistiques par co
 
 ## Améliorations marketing basées sur le compte {#account-based-marketing-enhancements}
 
-**[Importer des comptes nommés](/help/marketo/product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)**
+**[Importer des comptes nommés](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 Avec l’option d’importation de compte nommé, créez ou mettez à jour plusieurs enregistrements à la fois par le biais d’un transfert CSV.
 
