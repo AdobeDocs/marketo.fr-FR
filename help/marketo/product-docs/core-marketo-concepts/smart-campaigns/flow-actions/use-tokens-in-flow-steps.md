@@ -3,9 +3,9 @@ unique-page-id: 1146995
 description: Utiliser des jetons dans les étapes de flux - Documents marketing - Documentation du produit
 title: Utiliser des jetons dans les étapes de flux
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Ajouter une étape de flux à un Campaign dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
+>[Ajouter une étape de flux à un Campaign dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 Un jeton est une variable. Vous l’utilisez dans les courriels, les landings page et les campagnes intelligentes pour faciliter votre vie. Vous pouvez utiliser [Mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (jetons personnalisés) dans les étapes de flux, les crochets Web, les courriers électroniques et les landings page. Vous pouvez utiliser des jetons pour inclure du contenu variable dans ces étapes de flux :
 
 * Modifier la valeur des données
+* Modifier les données des membres du Programme
 * Moment intéressant
 * Etapes Campaign de Salesforce (ajouter, supprimer, modifier l’état)
 * Créer une Tâche
@@ -43,6 +43,10 @@ Un jeton est une variable. Vous l’utilisez dans les courriels, les landings pa
    >[!TIP]
    >
    >Plusieurs jetons peuvent être utilisés dans les étapes de flux Moment intéressant, Création de Tâche et Envoyer une alerte.
+
+   >[!NOTE]
+   >
+   >Les jetons de champ personnalisés de membre de programme peuvent être utilisés dans : Créez des Tâches, créez des Tâches dans Microsoft, des moments intéressants, des actions Modifier le flux de valeurs de données et des hameçons Web.
 
    Cool ! Les données sont extraites du jeton lors de l’exécution de la campagne dynamique.
 
