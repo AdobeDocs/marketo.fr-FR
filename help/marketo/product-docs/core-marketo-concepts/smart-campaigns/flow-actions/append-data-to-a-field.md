@@ -3,9 +3,9 @@ unique-page-id: 1147042
 description: Ajouter des données à un champ - Documents marketing - Documentation du produit
 title: Ajouter des données à un champ
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Il existe un moyen simple d’ajouter des données à un champ. Voici comment.
 >[!PREREQUISITES]
 >
 >[Créer un Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+
+>[!NOTE]
+>
+>Les étapes ci-dessous s&#39;appliquent également à [Modifier les données des membres du Programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
 
 1. Sous l’onglet **Flux**, faites glisser l’étape de flux **Modifier la valeur de données**.
 
