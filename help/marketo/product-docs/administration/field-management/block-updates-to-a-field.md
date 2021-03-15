@@ -3,9 +3,9 @@ unique-page-id: 2360291
 description: Bloquer les mises à jour d’un champ - Documents marketing - Documentation du produit
 title: Bloquer les mises à jour d’un champ
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,10 @@ Le blocage des mises à jour d’un champ vous permet d’écrire une seule fois
 1. Recherchez le champ, sélectionnez-le, puis sous **Actions de champ**, cliquez sur **Bloquer les mises à jour de champ**.
 
    ![](assets/two-1.png)
+
+   >[!NOTE]
+   >
+   >Vous pouvez également bloquer les mises à jour des [champs personnalisés des membres du Programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md).
 
 1. Sélectionnez les **Sources d&#39;entrée** que vous souhaitez bloquer et cliquez sur **Appliquer**.
 
