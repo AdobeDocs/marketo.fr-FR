@@ -3,9 +3,9 @@ unique-page-id: 1147110
 description: Cloner un Programme - Docs marketing - Documentation du produit
 title: Cloner un Programme
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 0%
 
 # Cloner un Programme {#clone-a-program}
 
-Vous pouvez rapidement et facilement cloner un programme entier et toutes ses ressources au lieu de tout recréer manuellement. Voici comment.
+Cloner rapidement et facilement un programme entier et toutes ses ressources au lieu de tout reconstruire manuellement.
 
-1. Recherchez et sélectionnez le programme à cloner, puis sous **Actions du Programme** cliquez sur **Cloner.**
+>[!PREREQUISITES]
+>
+>Avant de vous plonger, découvrez [les meilleures pratiques pour éviter la corruption dans les ressources clonées](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
+
+1. Recherchez et sélectionnez le programme à cloner, puis sous **Actions du Programme** cliquez sur **Cloner**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
