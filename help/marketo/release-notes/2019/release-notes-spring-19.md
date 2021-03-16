@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Notes de mise à jour - Printemps 2019 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Printemps 2019
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Les fonctionnalités suivantes ont été publiées le 15 mars 2019.
 
 Marketing basé sur le compte
 
-**[](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** AccountAINdésormais disponible en général. AccountAI utilise l&#39;intelligence artificielle pour révéler les comptes que vous devez cible pour votre stratégie ABM.
+**[](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** AccountAINdésormais disponible en général. AccountAI utilise l&#39;intelligence artificielle pour révéler les comptes que vous devez cible pour votre stratégie ABM.
 
 <br> 
 
