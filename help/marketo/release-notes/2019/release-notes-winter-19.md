@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Notes de mise à jour - Hiver 19 - Documentation sur le marketing - Documentation sur le produit
 title: Notes de mise à jour - Hiver 19
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -81,7 +81,7 @@ Inclure jusqu’à cinq adresses CC par destinataire dans les courriers électro
 
 ## Marketing basé sur le compte {#account-based-marketing}
 
-**[Segmentation et filtrage basés sur la personnalité ABM](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
+**[Segmentation et filtrage basés sur la personnalité ABM](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
 Personnalisez vos campagnes ABM pour des personnes spécifiques dans des comptes nommés. La fonction Personnalité ABM crée un titre de tâche par défaut basé sur la segmentation des pistes et permet de configurer d’autres segments de personne.
 
