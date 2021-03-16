@@ -3,7 +3,7 @@ unique-page-id: 4720236
 description: Création d’un segment à l’aide d’une Liste de compte - Documents marketing - Documentation du produit
 title: Création d’un segment à l’aide d’une Liste de compte
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Voici comment créer un segment à l’aide d’une Liste de compte.
 
 >[!PREREQUISITES]
 >
->[Créer une Liste de compte](/help/marketo/product-docs/account-based-marketing/target/account-lists.md)
+>[Créer une Liste de compte](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 1. Accédez à **Segments**.
 
