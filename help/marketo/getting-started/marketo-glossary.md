@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossaire du marketing - Docs marketing - Documentation du produit
 title: Glossaire du marketing
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
    <td colspan="1">Ce terme peut avoir des significations différentes : <br> - L’instance de votre Marketo peut elle-même être appelée votre compte Marketo.<br>-Dans  <strong>ABM</strong>, un  <strong>compte </strong> nommé est un compte que l'utilisateur a déterminé être un compte de cible qu'il souhaite rechercher.<br>-Dans ABM, un compte CRM est un compte mappé à partir de votre  <strong>CRM</strong>  lié (compte dans  <strong>Salesforce</strong>,  <strong>MS </strong> Dynamicsor  <strong>API).</strong><br>-Dans votre gestion de la relation client, les comptes sont l'entreprise/la société à laquelle les prospects et les contacts sont associés.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md" rel="nofollow">Marketing</a>  basé sur un compte (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">Marketing</a>  basé sur un compte (ABM)</strong></td> 
    <td colspan="1">Fonction complémentaire qui vous permet de cible et d’engager des comptes clés de manière hautement coordonnée.</td> 
   </tr> 
   <tr> 
@@ -48,7 +48,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
    <td colspan="1">(anciennement AccountAI) Dans <strong>ABM</strong>, en utilisant votre Profil client idéal (ICP), les sociétés existantes dans votre base de données seront classées et les classements seront ajoutés sous forme de scores sur vos comptes.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md" rel="nofollow">Note de compte</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Note de compte</a></strong></td> 
    <td colspan="1">Dans <strong>ABM</strong>, il s’agit d’un score attribué à un compte pour vous aider à déterminer son niveau d’engagement.</td> 
   </tr> 
   <tr> 
@@ -297,7 +297,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">Contenu dynamique</a></strong></td> 
-   <td colspan="1">Contenu (images, extraits de code, texte, etc.) qui renseigne un <strong>landing page e-mail</strong> ou <strong></strong> en fonction des critères que vous avez spécifiés, vous permettant de personnaliser l’expérience pour le lecteur. </td> 
+   <td colspan="1">Contenu (images, extraits de code, texte, etc.) qui renseigne un <strong>landing page e-mail</strong> ou <strong></strong> en fonction des critères que vous avez spécifiés, ce qui vous permet de personnaliser l’expérience pour le lecteur. </td> 
   </tr> 
  </tbody> 
 </table>
@@ -446,7 +446,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
  </tbody> 
 </table>
 
-## K {#k}
+## I {#k}
 
 <table> 
  <colgroup> 
@@ -651,7 +651,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
    <td colspan="1">Les partitions de personne agissent comme des <strong>bases de données</strong> distinctes. Chaque partition a ses propres personnes qui ne dédupliquent pas ou ne se mélangent pas avec d'autres partitions.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/account-based-marketing/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
    <td colspan="1">Dans le <strong>marketing basé sur le compte</strong> de Marketo, les personnages sont un sous-ensemble d’une audience, ce qui permet un ciblage plus spécifique.</td> 
   </tr> 
   <tr> 
