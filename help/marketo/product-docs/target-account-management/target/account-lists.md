@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: Listes de compte - Documents marketing - Documentation du produit
 title: Listes de compte
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Outre les listes de compte, vous pouvez également créer des listes de compte d
 
 >[!NOTE]
 >
->Les listes de compte créées dans le marketing basé sur les comptes de Marketing Cloud sont automatiquement disponibles lors de la création de listes intelligentes et de campagnes Web dans [Personnalisation Web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>Les listes de compte créées dans la gestion de compte de Cible de marketing sont automatiquement disponibles lors de la création de listes intelligentes et de campagnes Web dans [Personnalisation Web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Créer une nouvelle Liste de compte {#create-a-new-account-list}
 
