@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: Configuration de l’équipe de compte - Documentation marketing - Documentation du produit
 title: Configuration de l’équipe de comptes
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Une équipe de compte est un groupe de parties prenantes qui travaillent ensembl
 
    ![](assets/one-3.png)
 
-1. Cliquez sur **ABM**.
+1. Cliquez sur **Gestion du compte de Cible**.
 
-   ![](assets/two-3.png)
+   ![](assets/account-team-setup-2.png)
 
 1. Sous Membres de l’équipe du compte, cliquez sur **Modifier**.
 
@@ -45,10 +45,12 @@ Une équipe de compte est un groupe de parties prenantes qui travaillent ensembl
 
    >[!CAUTION]
    >
-   >Si vous effectuez une mise à jour, il peut s&#39;écouler un certain temps avant que les modifications ne soient répercutées dans ABM.
+   >Si vous effectuez une mise à jour, il peut s’écouler un certain temps avant que les modifications ne soient répercutées dans TAM.
 
    >[!NOTE]
    >
-   >Lorsque plusieurs comptes CRM avec différents propriétaires de compte sont fusionnés dans un compte nommé, Marketo sélectionne un &quot;propriétaire de compte&quot; et ajoute d’autres propriétaires de compte en tant que &quot;co-propriétaires de compte&quot;.
-   >
-   >Si un champ &quot;Rôle&quot; de gestion de la relation client est ultérieurement renommé ou supprimé, Marketo ABM arrête la synchronisation des valeurs mises à jour jusqu&#39;à ce que l&#39;utilisateur mette manuellement à jour la configuration dans ABM.
+   >* Lorsque plusieurs comptes CRM avec différents propriétaires de compte sont fusionnés dans un compte nommé, Marketo sélectionne un &quot;propriétaire de compte&quot; et ajoute d’autres propriétaires de compte en tant que &quot;co-propriétaires de compte&quot;.
+      >
+      >
+   * Si un champ &quot;Rôle&quot; de gestion de la relation client est ultérieurement renommé ou supprimé, Marketo TAM arrête la synchronisation des valeurs mises à jour jusqu’à ce que l’utilisateur mette manuellement à jour la configuration dans TAM.
+
