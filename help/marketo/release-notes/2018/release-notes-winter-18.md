@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Notes de mise à jour - Hiver 18 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Hiver 18
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Découvrez comment vos campagnes et vos canaux affectent les résultats de l’e
 
 ## Améliorations marketing basées sur le compte {#account-based-marketing-enhancements}
 
-**[Hiérarchies ABM](/help/marketo/product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)**
+**[Hiérarchies ABM](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
 Pour les clients ABM avec Salesforce ou Microsoft Dynamics, ABM hérite désormais automatiquement (et affiche) les relations parent-enfant établies dans la gestion de la relation client. Vous pourrez utiliser ces relations à la fois dans le rapports cumulé et dans l’exécution de la campagne.
 
