@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Nouvelle découverte de compte - Documentation marketing - Documentation du produit
 title: Nouvelle découverte de compte
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ La nouvelle découverte de comptes peut vous aider à trouver de nouveaux compte
 >
 >Il est recommandé d&#39;appuyer sur le bouton **Mettre à jour les comptes existants** avant d&#39;effectuer une nouvelle recherche de compte pour vous assurer que vous examinez les données les plus récentes. Cette mise à jour peut prendre jusqu’à 24 heures.
 
-1. Dans Mon marketing, cliquez sur **ABM**.
+1. Dans Mon marketing, cliquez sur **Gestion du compte de Cible**.
 
-   ![](assets/one-1.png)
+   ![](assets/new-account-discovery-1.png)
 
 1. Cliquez sur l&#39;onglet **Profil de compte**.
 
@@ -37,7 +37,7 @@ La nouvelle découverte de comptes peut vous aider à trouver de nouveaux compte
 
    >[!NOTE]
    >
-   >Les nouveaux comptes présentent une liste de comptes qui ne sont pas encore les vôtres dans ABM. Il s’agit de comptes qui ont le potentiel d’être nouveaux pour vous en fonction des filtres que vous sélectionnez.
+   >Les nouveaux comptes affichent une liste de comptes qui ne sont pas encore les vôtres dans TAM. Il s’agit de comptes qui ont le potentiel d’être nouveaux pour vous en fonction des filtres que vous sélectionnez.
 
 1. Sélectionnez tous les filtres applicables (cette partie est hautement personnalisable, ce qui suit n&#39;est qu&#39;un exemple pour illustrer le filtrage).
 
