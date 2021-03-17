@@ -3,7 +3,7 @@ unique-page-id: 26837421
 description: Création d’une Audience mise en correspondance sur LinkedIn - Marketo Docs - Documentation du produit
 title: Création d’une Audience mise en correspondance sur LinkedIn
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Création d’une Audience mise en correspondance sur LinkedIn {#create-a-matched-audience-on-linkedin}
 
-Créez des audiences correspondantes à partir de vos Listes de compte ABM pour le ciblage publicitaire LinkedIn.
+Créez des audiences correspondantes à partir de vos Listes de compte TAM pour le ciblage publicitaire LinkedIn.
 
 >[!PREREQUISITES]
 >
 >[Ajouter les Audiences mises en correspondance LinkedIn en tant que service LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. Dans ABM, cliquez sur l&#39;onglet **Listes de compte**.
+1. Dans TAM, cliquez sur l’onglet **Listes de compte**.
 
    ![](assets/one-1.png)
 
