@@ -3,7 +3,7 @@ unique-page-id: 11378816
 description: Ajouter des personnes à un compte nommé - Documents marketing - Documentation du produit
 title: Ajouter des personnes à un compte nommé
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ajouter des personnes à un compte nommé {#add-people-to-a-named-account}
 
-Il existe trois façons différentes d&#39;ajouter manuellement des personnes à un compte nommé dans ABM.
+Il existe trois façons différentes d’ajouter manuellement des personnes à un compte nommé dans TAM.
 
 ## Action de flux unique {#single-flow-action}
 
