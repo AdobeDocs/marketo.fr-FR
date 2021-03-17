@@ -3,7 +3,7 @@ unique-page-id: 11381917
 description: Présentation du marketing basé sur le compte - Documentation du marketing - Documentation du produit
 title: Aperçu marketing basé sur le compte
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Marketing basé sur le compte marketing offre également divers outils pour pers
 
 J&#39;y suis ! Comment puis-je commencer ?
 
-Nous pensions que vous ne le demanderiez jamais ! ABM est disponible en tant que module complémentaire de votre abonnement de marketing. Contactez votre représentant commercial pour le mettre en oeuvre. Une fois que vous l&#39;avez, regardez cet article : [Prise en main d&#39;ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-abm.md).
+Nous pensions que vous ne le demanderiez jamais ! ABM est disponible en tant que module complémentaire de votre abonnement de marketing. Contactez votre représentant commercial pour le mettre en oeuvre. Une fois que vous l&#39;avez, regardez cet article : [Prise en main d&#39;ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >
