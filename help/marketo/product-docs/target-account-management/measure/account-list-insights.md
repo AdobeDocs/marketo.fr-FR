@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: Informations sur la Liste de compte - Documentation sur le marketing - Documentation sur le produit
 title: Informations sur la Liste de compte
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Le tableau de bord de Liste de compte offre une vue d&#39;informations agrégée
 
 >[!NOTE]
 >
->Marketo ABM détermine automatiquement les principaux comptes nommés dans une liste de compte en fonction des scores d’engagement générés par le pipeline ou le compte.
+>Marketo TAM détermine automatiquement les principaux comptes nommés dans une liste de compte en fonction des scores d’engagement générés par le pipeline ou le compte.
 
 ## Tableau de bord de Liste de compte {#account-list-dashboard}
 
