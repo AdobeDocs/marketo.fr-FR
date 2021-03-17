@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: Envoyer une Liste à Adobe Experience Cloud - Marketo Docs - Documentation du produit
 title: Envoyer une Liste à Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -30,31 +30,77 @@ ht-degree: 0%
 * Plate-forme de données client en temps réel Adobe
 * Adobe Target
 
-## Exportation d&#39;une Liste {#how-to-export-a-list}
+## Comment envoyer une Liste statique {#how-to-send-a-static-list}
+
+Une liste statique est juste ça, statique. Aucune modification ne sera apportée à la liste dans Adobe Experience Cloud, sauf si vous les apportez manuellement.
 
 1. Dans Marketo, recherchez et sélectionnez la liste à exporter.
 
-   ![](assets/one.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
 1. Cliquez sur la liste déroulante **Actions de Liste** et sélectionnez **Envoyer à l’Experience Cloud**.
 
-   ![](assets/two-1.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
 1. Cliquez sur la liste déroulante **Dossier d’Audience Manager** et sélectionnez le dossier de destination de votre choix dans l’Experience Cloud.
 
-   ![](assets/three-1.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
 1. Choisissez de créer une audience ou de remplacer une autre (dans cet exemple, nous en créons une nouvelle). Saisissez le nouveau nom de l’audience et cliquez sur **Envoyer**.
 
-   ![](assets/four.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
 1. Cliquez sur **OK**.
 
-   ![](assets/five.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
    >[!NOTE]
    >
    >Il peut falloir jusqu&#39;à 6-8 heures pour que l&#39;audience puisse être pleinement inscrite à l&#39;Adobe.
+
+## Comment envoyer une Liste synchronisée {#how-to-send-a-synced-list}
+
+La synchronisation d’une liste signifie que chaque fois que vous mettez à jour une liste dans Marketo, cette modification est automatiquement synchronisée avec son audience dans Adobe Experience Cloud.
+
+1. Dans Marketo, recherchez et sélectionnez la liste à synchroniser.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
+
+1. Cliquez sur la liste déroulante **Actions de Liste** et sélectionnez **Envoyer à l’Experience Cloud**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
+
+1. Cliquez sur la liste déroulante **Dossier de bibliothèque d’Audiences** et sélectionnez le dossier de destination de votre choix dans l’Experience Cloud.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
+
+1. Choisissez de créer une audience ou de remplacer une autre (dans cet exemple, nous en créons une nouvelle). Saisissez le nouveau nom de l&#39;audience, cochez la case **Conserver l&#39;appartenance à l&#39;Audience dans Sync**, puis cliquez sur **Envoyer**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
+
+1. Cliquez sur **OK**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
+
+## Comment arrêter une synchronisation de Liste {#how-to-stop-a-list-sync}
+
+Vous pouvez à tout moment empêcher votre liste de se synchroniser.
+
+1. Dans Marketo, recherchez et sélectionnez la liste à arrêter la synchronisation.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
+
+1. Cliquez sur la liste déroulante **Actions de Liste** et sélectionnez **Arrêter la synchronisation des Listes**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-12.png)
+
+1. Sélectionnez la ou les audiences à ne plus synchroniser et cliquez sur **Arrêter**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-13.png)
+
+1. Cliquez sur **Arrêter** pour confirmer.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-14.png)
 
 ## Éléments à noter {#things-to-note}
 
@@ -80,4 +126,8 @@ Sous le capot, l’intégration des audiences fonctionne en synchronisant les co
 
 Lorsque la synchronisation des cookies est activée pour votre Abonnement Marketo, le fichier munchkin.js de Marketo tente de capturer et de stocker les ECID d’Adobe pour l’organisation IMS d’Adobe que vous avez spécifiée lors de la configuration de l’intégration et de faire correspondre ces ECID à l’identifiant de cookie Marketo correspondant. Cela permet aux profils utilisateurs anonymes de Marketo de s’enrichir avec des ECID d’Adobe.
 
-Une autre étape est nécessaire pour associer le profil d’utilisateur anonyme à un Profil de piste, qui est identifié à l’aide d’un courrier électronique en texte brut. Voici la description exacte de ce fonctionnement : [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+Une autre étape est nécessaire pour associer le profil d’utilisateur anonyme à un Profil de piste, qui est identifié à l’aide d’un courrier électronique en texte brut. La façon exacte dont cela fonctionne est [décrite ici](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+
+**Quelles informations sont partagées ?**
+
+Cette intégration ne partage que les informations d&#39;adhésion à la liste entre le marché et l&#39;Adobe (par exemple, la connaissance que le prospect X est membre de la Liste Y). Aucun autre attribut de piste n&#39;est partagé à l&#39;Adobe via cette intégration.
