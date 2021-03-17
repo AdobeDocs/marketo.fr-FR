@@ -3,7 +3,7 @@ unique-page-id: 12979282
 description: Présentation du module externe Account Insight - Documentation sur le marketing - Documentation du produit
 title: Présentation du module externe Account Insight
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Aperçu du module externe Account Insight {#account-insight-plug-in-overview}
 
-Account Insight est un module complémentaire Chrome qui permet de mettre en oeuvre des fonctions ABM exploitables et d&#39;analyser les comptes auprès de vos équipes commerciales, ce qui leur permet d&#39;engager des comptes plus efficacement.
+Account Insight est un module externe Chrome qui permet de mettre à la disposition de vos équipes commerciales des informations de gestion de compte et de gestion des actifs, ce qui leur permet d&#39;engager des comptes plus efficacement.
 
 >[!AVAILABILITY]
 >
->Account Insight est inclus pour tous les clients qui ont à la fois ABM et Marketo Sales Insight. Pour les clients qui ne disposent que d’ABM, Account Insight est disponible en tant que module complémentaire acheté. Chaque client est limité à 250 sièges Account Insight. Veuillez contacter votre représentant commercial pour plus de détails. Il n&#39;est pas disponible pour les clients qui ne disposent pas d&#39;ABM.
+>Account Insight est inclus pour tous les clients qui ont à la fois TAM et Marketo Sales Insight. Pour les clients qui ne disposent que de la gestion des actifs numériques (TAM), Account Insight est disponible en tant que module complémentaire acheté. Chaque client est limité à 250 sièges Account Insight. Veuillez contacter votre représentant commercial pour plus de détails. Il n’est pas disponible pour les clients qui n’ont pas de TAM.
 
 >[!CAUTION]
 >
