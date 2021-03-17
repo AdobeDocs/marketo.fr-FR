@@ -3,7 +3,7 @@ unique-page-id: 11380789
 description: Dimension de compte nommée dans RCA - Documents marketing - Documentation du produit
 title: Dimension de compte nommée dans RCA
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Dimension de compte nommée dans RCA {#named-account-dimension-in-rca}
 
-Créez des rapports basés sur les recettes à l’aide de la dimension Compte nommé spécifique à l’ABM dans l’analyse du cycle des recettes.
+Créez des rapports basés sur les recettes à l’aide de la dimension Compte nommé spécifique au module TAM dans l’analyse du cycle des recettes.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Les rapports suivants ont accès à la dimension Compte nommé :
 
 >[!NOTE]
 >
->Vous trouverez ci-dessous quelques exemples d’ABM de Marketo dans les analyses du cycle des recettes.
+>Vous trouverez ci-dessous quelques exemples de la gestion des actifs numériques de marketing dans les analyses du cycle de production des recettes.
 
 Accélération du pipeline dans les comptes nommés
 
