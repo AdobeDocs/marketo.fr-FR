@@ -3,10 +3,10 @@ unique-page-id: 10099389
 description: Versions des modules externes Marketo pour Microsoft Dynamics - Marketo Docs - Documentation sur les produits
 title: Versions des modules externes Marketo pour Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '401'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,15 @@ Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez
 
 ![](assets/lead-management-solution.png)
 
-Le tableau ci-dessous présente les dernières versions.
+## Mise à jour de votre solution Dynamics {#updating-your-dynamics-solution}
+
+1. Importez la dernière version de la solution sur la version existante de Dynamics CRM (ex : si votre Dynamics CRM a la version 1.4 et que la dernière version est 1.5, vous importez _sur_ la version 1.4).
+
+1. La fenêtre contextuelle suivante s’affiche. Sélectionnez **Mettre à jour** et **Conserver les personnalisations**, puis cliquez sur **Importer**.
+
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
+
+## Versions les plus récentes {#latest-versions}
 
 >[!NOTE]
 >
@@ -31,6 +39,11 @@ Le tableau ci-dessous présente les dernières versions.
    <th colspan="1">Version</th> 
    <th colspan="1">Date de publication</th> 
    <th>Notes</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">16/10/20</td> 
+   <td colspan="1">Prise en charge Ajoutée de Campaign Sync avec MS Dynamics.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
@@ -73,7 +86,7 @@ Le tableau ci-dessous présente les dernières versions.
    <td colspan="1">Correctif : Lorsque le filtre de synchronisation du prospect était défini sur NON et que l'opportunité et le contact n'avaient pas de filtre de synchronisation, le journal de création n'était pas généré pour le contact et l'opportunité lorsque le prospect était qualifié.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.16</td> 
+   <td colspan="1">2.0.0.16</td> 
    <td colspan="1">29/03/16</td> 
    <td>Correctif : Un Événement d'affectation était consigné lorsque le filtre de synchronisation était désactivé.</td> 
   </tr> 
