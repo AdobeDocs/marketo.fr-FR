@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: Création d’un message SMS Vibes - Documents marketing - Documentation du produit
 title: Créer un message SMS de vibes
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 0%
 # Créer un message SMS Vibes {#create-a-vibes-sms-message}
 
 Voici comment créer un message SMS Vibes.
+
+>[!AVAILABILITY]
+>
+>Cette fonction est disponible en tant que module complémentaire pour votre compte Marketo Engage. Pour qu&#39;il soit correctement approvisionné, il doit l&#39;acheter par Adobe. Pour plus d&#39;informations, contactez votre responsable de succès client Adobe.
+
+>[!NOTE]
+>
+>La messagerie SMS n&#39;est pas compatible avec HIPAA.
 
 1. Accédez à **Activités marketing** et cliquez avec le bouton droit sur un programme.
 
