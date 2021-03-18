@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: Étape 2 sur 3 - Configurer l'utilisateur de synchronisation du marketing dans Dynamics (local 2011) - Documentation du marketing - Documentation du produit
 title: Étape 2 sur 3 - Configurer un utilisateur de synchronisation marketing dans Dynamics (local 2011)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
 >[!NOTE]
 >
->Ceci s’applique au module externe Marketo version 4.0.0.14 et ultérieure. Pour les versions antérieures, tous les utilisateurs doivent avoir le rôle utilisateur de synchronisation. Pour mettre à niveau Marketo, voir [Mise à niveau de la solution Marketo pour Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Ceci s’applique au module externe Marketo version 4.0.0.14 et ultérieure. Pour les versions antérieures, tous les utilisateurs doivent avoir le rôle utilisateur de synchronisation. Pour mettre à niveau Marketo, voir [Mise à niveau de la solution Marketo pour Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Dans le menu inférieur gauche, sélectionnez **Paramètres**.
 
