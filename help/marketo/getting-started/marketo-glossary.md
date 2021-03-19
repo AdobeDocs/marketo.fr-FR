@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossaire du marketing - Docs marketing - Documentation du produit
 title: Glossaire du marketing
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
    <td colspan="1">Ce terme peut avoir des significations différentes : <br> - L’instance de votre Marketo peut elle-même être appelée votre compte Marketo.<br>-Dans  <strong>ABM</strong>, un  <strong>compte </strong> nommé est un compte que l'utilisateur a déterminé être un compte de cible qu'il souhaite rechercher.<br>-Dans ABM, un compte CRM est un compte mappé à partir de votre  <strong>CRM</strong>  lié (compte dans  <strong>Salesforce</strong>,  <strong>MS </strong> Dynamicsor  <strong>API).</strong><br>-Dans votre gestion de la relation client, les comptes sont l'entreprise/la société à laquelle les prospects et les contacts sont associés.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">Marketing</a>  basé sur un compte (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Marketing</a>  basé sur un compte (ABM)</strong></td> 
    <td colspan="1">Fonction complémentaire qui vous permet de cible et d’engager des comptes clés de manière hautement coordonnée.</td> 
   </tr> 
   <tr> 
@@ -431,7 +431,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
  </tbody> 
 </table>
 
-## I {#i}
+## K {#i}
 
 <table> 
  <colgroup> 
@@ -446,7 +446,7 @@ Vous trouverez ci-dessous des définitions pour la plupart des termes que vous p
  </tbody> 
 </table>
 
-## I {#k}
+## K {#k}
 
 <table> 
  <colgroup> 
