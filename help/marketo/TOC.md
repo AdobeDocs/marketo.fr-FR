@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guide du marketing
 user-guide-description: Documentation du produit marketing
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
-source-wordcount: '7967'
+source-wordcount: '7971'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 0%
 + Documentation du produit {#product-docs}
    + Gestion des comptes de cible {#target-account-management}
       + Configuration {#setup}
-         + [Aperçu marketing basé sur le compte](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [Présentation de la gestion de compte cible](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Prise en main de TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [Attribution d’une licence](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [Autorisations](product-docs/target-account-management/setup-tam/permissions.md)
@@ -801,7 +801,7 @@ ht-degree: 0%
                + [Modèle 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modèle 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modèle 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modèle 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modèle 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modèle 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Modèle 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modèle 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1322,6 +1322,7 @@ ht-degree: 0%
             + Prise en charge des langues {#language-support}
                + [Préparer Sales Insight for Multi-Lingual Support dans Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Onglet Marketo {#marketo-tab}
+               + [Meilleurs paris](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [Utilisation du flux de piste](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + Onglet Configuration MSI {#msi-configuration-tab}
                + [Activer RSS pour Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
@@ -1332,6 +1333,7 @@ ht-degree: 0%
                + [Priorité, urgence, note relative et meilleurs résultats](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
                + [Définir les champs de score à utiliser pour les étoiles et les flammes dans Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + Onglets du panneau MSI {#tabs-in-the-msi-panel}
+               + [Onglet Courriel](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + Moments intéressants {#interesting-moments}
                   + [Présentation des moments intéressants](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
                   + [Jetons pour les moments intéressants](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
@@ -1594,7 +1596,7 @@ ht-degree: 0%
                + [Création de groupes de champs personnalisés à l’aide de l’organiseur de champs](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + Personnalisation Web {#web-personalization}
       + Marketing Web basé sur le compte {#account-based-web-marketing}
-         + [Marketing Web basé sur le compte avec ABM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)
+         + [Marketing Web basé sur le compte avec gestion des actifs numériques](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Créer une Liste de compte](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [Création d’un segment à l’aide d’une Liste de compte](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
       + Prise en main {#getting-started}
