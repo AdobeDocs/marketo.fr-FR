@@ -3,7 +3,7 @@ unique-page-id: 37356893
 description: Présentation des fonctionnalités MSI - Documentation sur le marketing - Documentation sur les produits
 title: Présentation des fonctionnalités MSI
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
 workflow-type: tm+mt
 source-wordcount: '908'
 ht-degree: 0%
@@ -97,9 +97,14 @@ Champs :
 
 * Sales Insight - Ouvre la page de liste complète des contacts
 
+Actions :
+
+* Ajouter à Marketo Campaign
+* Envoyer un courriel marketing
+* Ajouter/Supprimer de la Liste de surveillance
+
 Les fonctionnalités suivantes **ne sont pas disponibles** dans la page Disposition du compte :
 
-* Actions : Ajouter à Marketo Campaign, Envoyer un courriel à Marketo, Ajouter/Supprimer de la Liste de contrôle
 * Stars &amp; Flames
 
 ## Mise en page des opportunités {#opportunity-layout}
@@ -115,9 +120,14 @@ Champs :
 * Sales Insight - Ouvre la page de liste complète des contacts
 * Analyse des opportunités marketing - Ouvre l&#39;analyseur d&#39;influence des opportunités dans Marketo
 
+Actions :
+
+* Ajouter à Marketo Campaign
+* Envoyer un courriel marketing
+* Ajouter/Supprimer de la Liste de surveillance
+
 Les fonctionnalités suivantes **ne sont pas disponibles** dans la page Mise en page des opportunités :
 
-* Actions : Ajouter à Marketo Campaign, Envoyer un courriel à Marketo, Ajouter/Supprimer de la Liste de contrôle
 * Stars &amp; Flames
 
 ## Vue de Liste de piste et de contact (actions en masse) {#lead-and-contact-list-view-bulk-actions}
