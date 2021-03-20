@@ -3,7 +3,7 @@ unique-page-id: 14352482
 description: Fonctionnement du suivi des réponses - Documents marketing - Documentation du produit
 title: Fonctionnement du suivi des réponses
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Le suivi des réponses s’effectue en recherchant un identifiant de message fig
 
 >[!PREREQUISITES]
 >
->**Connexion avec le serveur de messagerie :** Sales Connect doit être connecté à votre boîte de réception pour que nous sachions quand une nouvelle réponse est arrivée. Vous devez disposer de votre compte Sales Connect [connecté à Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md). Si vous utilisez Outlook, nous devrons intégrer votre [serveur d&#39;échange](https://toutapp.com/next#settings/exchange_settings).
+>**Connexion avec le serveur de messagerie :** Sales Connect doit être connecté à votre boîte de réception pour que nous sachions quand une nouvelle réponse est arrivée. Vous devez disposer de votre compte Sales Connect [connecté à Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Si vous utilisez Outlook, nous devrons intégrer votre [serveur d&#39;échange](https://toutapp.com/next#settings/exchange_settings).
 
 Si Sales Connect ne peut pas suivre la réponse de votre prospect à votre courriel, il ne pourra pas arrêter une campagne en fonction de la détection des réponses ou consigner cette réponse à Salesforce.  Qu&#39;est-ce qu&#39;on veut dire que toute adresse électronique peut répondre ?
 
