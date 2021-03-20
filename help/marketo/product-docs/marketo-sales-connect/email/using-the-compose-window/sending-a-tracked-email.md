@@ -3,7 +3,7 @@ unique-page-id: 37356565
 description: Envoi d’un courriel suivi - Documents marketing - Documentation du produit
 title: Envoi d’un courriel suivi
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Lors de l’envoi d’un courrier électronique avec Marketing Connect, les vues
 >Vous devez avoir une identité vérifiée et un canal de diffusion de courriel configuré avant d’envoyer un courriel suivi.
 >
 >* [Vérifier votre adresse électronique](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* Configurer un Canal de Diffusion pour [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) ou [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
+>* Configurer un Canal de Diffusion pour [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) ou [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
 
 1. Créez votre brouillon de courrier électronique (il existe plusieurs façons de procéder, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
