@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: Sales Insight for Non Native Salesforce Integrations - Marketo Docs - Documentation sur les produits
 title: Insight commercial pour les intégrations Salesforce non natives
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1277'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Si votre compte Marketing est connecté à Salesforce par le biais d’une inté
 
 >[!PREREQUISITES]
 >
->* Contactez votre responsable de succès client pour activer la fonction &quot;MSI non natif&quot; pour votre instance de marketing.
->* Un compte Salesforce avec la configuration du package MSI.
+>* L’indicateur de fonctionnalité &quot;MSI non natif&quot; est activé pour votre instance de Marketo avant que vous ne début la configuration de MSI (dans le cas contraire, contactez votre responsable de succès client).
+>* Un compte Salesforce avec [Package MSI configuré](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
 >* API REST de marketing [correctement configurée](https://developers.marketo.com/rest-api/). Les API CRUD exposées seront la base de la synchronisation non native.
 >* Lisez [ce billet de blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) afin de comprendre l&#39;objet et les relations.
 >* Configurez les objets Salesforce pour qu’ils affichent l’identifiant unique global non sensible à la casse de 18 caractères plutôt que l’identifiant unique global sensible à la casse de 15 caractères.
