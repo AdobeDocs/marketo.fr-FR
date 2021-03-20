@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: Étape 1 sur 3 - Ajouter les champs du marketing à Salesforce (Enterprise/Unlimited) - Docs du marketing - Documentation du produit
 title: Etape 1 sur 3 - Ajouter les champs du marketing à Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '731'
 ht-degree: 0%
 
 ---
@@ -265,10 +265,6 @@ Un champ personnalisé sur l&#39;objet prospect dans Salesforce doit être mapp�
 1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    Assez facile, n&#39;est-ce pas ?
-
->[!NOTE]
->
->Voici un lien vers une [vidéo de l&#39;ensemble de la procédure](https://nation.marketo.com/videos/1475) qui devrait le rendre clair comme du cristal !
 
 >[!MORELIKETHIS]
 >
