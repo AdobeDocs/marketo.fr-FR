@@ -3,7 +3,7 @@ unique-page-id: 37355534
 description: Notes de mise à jour - Janvier 2020 - Documents marketing - Documentation du produit
 title: Notes de mise à jour - Janvier 2020
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -19,7 +19,9 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 janvier. Vér
 >
 >Les fonctions signalées par une étoile ( ![(star)](assets/star-yellow.svg)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
 
-**__** Versions trimestriellesLes fonctionnalités suivantes seront publiées le 17  **janvier 2020**.
+**_Versions trimestrielles_**
+
+Les fonctionnalités suivantes seront publiées le **17 janvier 2020**.
 
 ## Application d&#39;Adobe Marketo Engage de base {#core-marketo-engage-adobe-application}
 
