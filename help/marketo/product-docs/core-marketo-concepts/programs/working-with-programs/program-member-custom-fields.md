@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Champs personnalisés des membres du programme - Documents marketing - Documentation du produit
 title: Champs personnalisés des membres de programme
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,11 @@ ht-degree: 0%
 
 # Champs personnalisés des membres de programme {#program-member-custom-fields}
 
-Les champs personnalisés des membres de programme vous permettent de collecter des données spécifiques à chaque programme pour chaque membre. Ils peuvent être utilisés dans : Formulaires marketing, filtres et déclencheurs de Listes dynamiques et actions de flux Smart Campaign. Les données peuvent être consultées dans l’onglet Membres du programme.
+Les champs personnalisés Membres du programme vous permettent de collecter des données spécifiques au programme pour chaque membre. Ils peuvent être utilisés dans : Formulaires marketing, filtres et déclencheurs de Listes dynamiques et actions de flux Smart Campaign. Les données peuvent être consultées dans l’onglet Membres du programme.
+
+>[!NOTE]
+>
+>Pour le moment, les champs personnalisés Membres du programme n&#39;ont pas d&#39;intégration avec les champs Membres Campaign de Salesforce.
 
 ## Créer un champ personnalisé de membre de Programme {#create-a-program-member-custom-field}
 
@@ -64,11 +68,10 @@ Vous pouvez exploiter ces données spécifiques à un programme dans les listes 
 
 * Les champs personnalisés Membres du programme sont disponibles uniquement dans les ressources locales. Ils ne sont pas pris en charge dans Design Studio car il n’existe aucun moyen de le lier à un programme spécifique.
 * Vous ne pouvez pas cloner ou déplacer un formulaire (ou un landing page avec un formulaire) qui contient des champs personnalisés Membre de Programme vers Design Studio.
-* Les champs personnalisés Membres du programme ne peuvent pas être utilisés comme jetons.
 * L&#39;objet Membre du Programme peut comporter jusqu&#39;à 20 champs personnalisés. Ces champs sont accessibles à tout programme.
 * Lorsque vous supprimez un membre d&#39;un programme, si le champ personnalisé Membre du Programme contient des données, celles-ci sont supprimées de ce champ.
 * Pour vue des données, cliquez sur l’onglet Membres du programme et créez une vue personnalisée qui inclut ledit ou ces champs.
-* L’importation et l’exportation via [liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)et [API](https://developers.marketo.com/) sont prises en charge.
+* L’importation et l’exportation via [liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) et [API](https://developers.marketo.com/) sont prises en charge.
 * Lorsque vous fusionnez deux personnes, les données de champ personnalisé Membre du Programme de l’expérience gagnante sont utilisées. Mais si le gagnant n’en a pas, la valeur du perdant sera utilisée.
 
 >[!MORELIKETHIS]
