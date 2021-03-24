@@ -3,9 +3,9 @@ unique-page-id: 37357050
 description: Mise à niveau de votre pack MSI - Documents marketing - Documentation du produit
 title: Mise à niveau de votre pack MSI
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,7 @@ ht-degree: 0%
 1. Vous pouvez mettre à niveau le package en choisissant &quot;Installer pour les administrateurs uniquement&quot; (et fournir un accès MSI à des profils spécifiques ultérieurement), &quot;Installer pour tous les utilisateurs&quot; ou &quot;Installer pour des Profils spécifiques&quot;. Dans cet exemple, nous choisissons Admins Only. Une fois votre sélection effectuée, cliquez sur **Mettre à niveau**.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>Il est recommandé de mettre à jour le package pour les administrateurs uniquement, puis de [permettre l&#39;accès à des utilisateurs spécifiques](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md) en fonction du nombre de sièges MSI achetés. Vous pouvez également créer un profil Salesforce spécifique pour les utilisateurs MSI et installer ou mettre à niveau le pack pour ces utilisateurs uniquement.
