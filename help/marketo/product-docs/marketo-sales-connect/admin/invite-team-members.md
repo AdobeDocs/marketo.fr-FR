@@ -3,9 +3,9 @@ unique-page-id: 14352402
 description: Inviter des membres de l’équipe - Documentation marketing - Documentation du produit
 title: Inviter des membres de l’équipe
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Ajouter les membres de l&#39;équipe est rapide et facile !
 
    ![](assets/one.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Gestion d’équipe**.
+1. Sous Paramètres d’administration, sélectionnez **Gestion utilisateur**.
 
-   ![](assets/two.png)
+   ![](assets/invite-team-members-2.png)
 
-1. Cliquez sur **Inviter un nouvel utilisateur**.
+1. Cliquez sur **Inviter des utilisateurs**.
 
-   ![](assets/three.png)
+   ![](assets/invite-team-members-3.png)
 
 1. Entrez les adresses électroniques des personnes que vous souhaitez ajouter et cliquez sur **Suivant**.
 
