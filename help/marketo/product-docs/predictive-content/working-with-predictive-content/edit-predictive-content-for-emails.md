@@ -3,9 +3,9 @@ unique-page-id: 11385938
 description: Modifier le contenu prédictif pour les courriels - Documents marketing - Documentation du produit
 title: Modifier le contenu prédictif pour les courriels
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,10 @@ Voici comment configurer votre contenu prédictif pour les courriels.
 1. Pour ajouter ou modifier l’URL de l’image, cliquez sur **Modifier l’image**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
+
+   >[!CAUTION]
+   >
+   >Pour garantir une qualité optimale, votre image doit mesurer 400 x 400 pixels ou moins.
 
 1. Insérez l’URL de l’image et cliquez sur **Ajouter**.
 
