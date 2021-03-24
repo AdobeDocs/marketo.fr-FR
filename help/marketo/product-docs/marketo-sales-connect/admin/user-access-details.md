@@ -3,7 +3,7 @@ unique-page-id: 14352623
 description: Détails de l’accès utilisateur - Documents marketing - Documentation du produit
 title: Détails d’accès utilisateur
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Les administrateurs peuvent [vue toutes les campagnes](/help/marketo/product-doc
 
 Les administrateurs peuvent vue toutes les activités de courriel.
 
-![](assets/email-activity.png)
+![](assets/user-access-details-3.png)
 
 Les administrateurs peuvent voir toutes les personnes participant à une campagne en cours.
 
