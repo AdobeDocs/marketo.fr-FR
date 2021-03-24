@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Onglet de configuration des statistiques marketing de vente dans Salesforce - Docs marketing - Documentation du produit
 title: Onglet de configuration des statistiques de ventes du marketing dans Salesforce
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ Les configurations sont applicables à tous les utilisateurs MSI et ne sont pas 
 
 * Événements à venir : Possibilité d’afficher les événements invités, tous les événements aux utilisateurs ou de masquer complètement cet onglet
 * Campagnes à venir : Possibilité d’afficher toutes les campagnes par courriel ou de masquer complètement cet onglet
+* Charger les campagnes et Événements à venir : Possibilité de réduire le nombre d&#39;appels d&#39;API REST effectués par les utilisateurs en plaçant l&#39;onglet événements et campagnes derrière un bouton &quot;Charger les éléments à venir&quot; à la demande
 * Paramètres d’onglet : les 5 onglets seront disponibles par défaut. Les 5 onglets seront disponibles par défaut. Vous pouvez choisir l&#39;ordre des onglets dans le panneau Sales Insight. La même commande s&#39;applique à toutes les mises en page (piste, contact, compte, opportunité).
 
 ![](assets/two.png)
@@ -58,3 +59,7 @@ Les configurations sont applicables à tous les utilisateurs MSI et ne sont pas 
 Si vous le faites, toutes vos configurations seront effacées dans SFDC et elles ne peuvent pas être restaurées. Vous devrez tout reconfigurer.
 
 ![](assets/three.png)
+
+>[!MORELIKETHIS]
+>
+>[Configuration de Sales Insight pour votre équipe](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
