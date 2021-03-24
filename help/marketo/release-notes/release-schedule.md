@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: Calendrier de publication - Documents marketing - Documentation du produit
 title: Calendrier de publication
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 * En cours - Nous développons et documentons le contenu pour la publication à la date indiquée.
 * Expédié - La version est terminée
 
-Les dates de publication peuvent être modifiées.
+_Les dates de publication peuvent être modifiées_
 
 <table> 
  <colgroup> 
