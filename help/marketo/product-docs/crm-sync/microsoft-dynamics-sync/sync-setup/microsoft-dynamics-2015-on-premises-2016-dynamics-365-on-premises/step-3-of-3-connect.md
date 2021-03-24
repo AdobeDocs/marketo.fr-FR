@@ -3,9 +3,9 @@ unique-page-id: 7504744
 description: Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 3 sur 3 - Documentation sur le marketing - Documentation sur le produit
 title: Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 3 sur 3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,16 @@ ht-degree: 0%
    >
    >Assurez-vous que vos informations d’identification sont correctes car nous ne pouvons pas annuler les modifications de schéma suivantes après l’envoi. Si des informations d’identification incorrectes sont enregistrées, vous devrez obtenir un nouvel abonnement Marketo.
 
-1. Saisissez **Nom d’utilisateur**, **Mot de passe** une URL Microsoft Dynamics **** et un **ID de client** facultatif. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Saisissez **Nom d’utilisateur**, **Mot de passe** une URL de Microsoft Dynamics **** et **ID de client/Secret**. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
-   ![](assets/client-id.png)
+   ![](assets/step-3-of-3-5.png)
 
    >[!NOTE]
    >
-   >Le nom d’utilisateur dans Marketo doit correspondre au nom d’utilisateur de l’utilisateur synchronisé dans CRM. Le format peut être user@domain.com ou DOMAINE\utilisateur.
+   >* Si votre Marketo a été configuré avant octobre 2020, l’ID de client et le champ Secret sont des champs facultatifs. Sinon, elles sont obligatoires. L’obtention de ces informations dépendra de la version de MSD que vous utilisez.
+   >* Le nom d’utilisateur dans Marketo doit correspondre au nom d’utilisateur de l’utilisateur synchronisé dans CRM. Le format peut être `user@domain.com` ou DOMAINE\utilisateur.
+   >* Si vous ne connaissez pas l&#39;URL, [apprenez comment la trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+
 
    >[!TIP]
    >
@@ -66,6 +69,10 @@ ht-degree: 0%
 1. Sélectionnez les champs que vous souhaitez synchroniser avec Marketo afin qu’ils soient présélectionnés. Cliquez sur **Enregistrer**.
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
+
+>[!NOTE]
+>
+>Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Actualisez ensuite le schéma dans Marketo en modifiant et en enregistrant les [champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Champs de synchronisation pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
