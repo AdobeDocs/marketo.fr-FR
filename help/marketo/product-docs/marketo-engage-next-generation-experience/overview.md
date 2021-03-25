@@ -2,9 +2,9 @@
 description: Présentation - Documents marketing - Documentation du produit
 title: Présentation
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '470'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ La nouvelle interface présente une iconographie améliorée et développée. En
 
 **Arbre**
 
-L&#39;arbre a également été modernisé. Mais pour le moment, il n&#39;est pas possible de faire glisser et déposer. Vous pouvez toutefois toujours déplacer des fichiers. Découvrez comment : [Déplacement des actifs](/help/marketo/product-docs/marketo-engage-next-generation-experience/moving-assets.md).
+L&#39;arbre a également été modernisé.
 
 ![](assets/overview-4.png)
 
@@ -97,12 +97,12 @@ Il y a une tonne de nouvelles fonctions d&#39;arbre disponibles.
   <tr>
    <td>Glisser-déposer de l’arborescence au flux d’engagement</td> 
    <td><strong>X</strong></td> 
-   <td>hhhhhhhh</td> 
+   <td></td> 
   </tr>
   <tr>
    <td>Faire glisser et déposer dans l’arborescence</td> 
    <td><strong>X</strong></td> 
-   <td></td> 
+   <td><strong>X</strong></td> 
   </tr>
   <tr>
    <td>Filtrage par type de fichier et états</td> 
