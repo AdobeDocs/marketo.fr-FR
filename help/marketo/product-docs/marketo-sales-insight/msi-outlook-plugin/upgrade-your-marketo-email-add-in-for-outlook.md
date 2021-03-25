@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: Mettez à niveau votre Ajoute électronique Marketo pour Outlook - Marketo Docs - Documentation du produit
 title: Mettre à niveau votre Ajoute de courriel Marketing to pour Outlook
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Mettre à niveau votre Ajoute électronique Marketo pour Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Lorsqu&#39;une nouvelle version de l&#39;Ajoute de courriel de marketing pour Outlook est disponible, suivez ces instructions pour effectuer la mise à niveau.
+
+>[!NOTE]
+>
+>A compter du 01/10/20, la dernière version du module Outlook ne prend plus en charge le mode hors ligne. Cette opération prendra effet après l’installation/la mise à niveau le ou après 10/1.
 
 ## Télécharger le programme d&#39;installation {#download-installer}
 
@@ -90,13 +94,6 @@ Téléchargez le programme d&#39;installation approprié à votre version de Mic
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook O365 (Windows uniquement)</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
-  </tr> 
-  <tr> 
    <td>Outlook pour Mac</td> 
    <td>Non pris en charge</td> 
    <td>Non pris en charge</td> 
@@ -110,10 +107,23 @@ Téléchargez le programme d&#39;installation approprié à votre version de Mic
    <td colspan="1">Non pris en charge</td> 
    <td colspan="1">Non pris en charge</td> 
   </tr> 
+  <tr> 
+   <td colspan="1">Office 365*</td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
+  </tr> 
  </tbody> 
 </table>
 
+*Version Office 365 : Client Windows uniquement (sous Windows 10, Enterprise ou Pro).
+
 ## Mise à niveau {#upgrade}
+
+1. Identifiez votre [version de Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+
+1. Sélectionnez votre version dans la liste ci-dessus.
 
 1. Exécutez le programme d’installation.
 
