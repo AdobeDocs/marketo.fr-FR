@@ -1,18 +1,18 @@
 ---
 title: ajouter-à-un-flux-étape-à-une-campagne-intelligente
 description: Ajouter une étape de flux à un Campaign dynamique
+exl-id: 4f8fbe72-0471-41e1-9ef6-156a21fadb6e
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Ajouter une étape de flux à un Campaign dynamique
 
-Les étapes de flux indiquent à Marketing ce que vous souhaitez faire pour un groupe de personnes qui remplissent les conditions requises.
+Les étapes de flux indiquent à Marketo ce que vous souhaitez faire pour un groupe de personnes qui remplissent les conditions requises.
 
 ## Ajouter une étape de flux
 
@@ -24,7 +24,7 @@ Les étapes de flux indiquent à Marketing ce que vous souhaitez faire pour un g
 
    ![Image 2](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-2.png)
 
-**Plongée profonde**
+**Pour aller plus loin**
 
 En savoir plus sur les différentes [étapes de flux](https://docs.marketo.com/display/DOCS/Flow+Actions).
 
