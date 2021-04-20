@@ -1,14 +1,14 @@
 ---
 title: save-smart-liste-rules
 description: Enregistrer les règles de Liste intelligente
+exl-id: dabfcba3-a3fb-4d25-8ace-b569c4952eab
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
-
 
 # Enregistrer les règles de Liste intelligente
 
@@ -66,4 +66,4 @@ Et c&#39;est tout ! La prochaine fois que vous créerez une campagne dynamique, 
 
 >[!CAUTION]
 >
->L’insertion d’une règle ne remplace pas les déclencheurs/filtres existants, mais les ajoute.
+>L’insertion d’une règle ne remplace pas les déclencheurs/filtres existants, mais les ajoute à ceux-ci.
