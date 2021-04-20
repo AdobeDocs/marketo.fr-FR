@@ -7,7 +7,7 @@ translation-type: tm+mt
 source-git-commit: e51d81dbf27bea8667ffafdcc356cf3f6b70c2b1
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 0%
 # Docs Marketo Sky {#sky}
 
 + [Accueil](home.md)
-+ Prise en main {#getting-started}
++ Démarrer {#getting-started}
    + [Fonctionnalités du Marketo Sky](marketo-sky-features.md)
    + [Comment démarrer](how-to-enable-roles-for-marketo-sky.md)
-+ Programmes de événement {#event-programs}
++ Programmes d’événements {#event-programs}
    + [Définition d’une limite de Événement](setting-an-event-cap.md)
    + [Définition des objectifs du Événement](setting-event-goals.md)
 + Dossiers Campaign {#campaign-folders}
@@ -27,9 +27,9 @@ ht-degree: 0%
    + [Dossiers Campaign : Onglet Mes jetons](campaign-folder-my-tokens-tab.md)
    + [Dossiers Campaign : Onglet Aperçu](campaign-folder-overview-tab.md)
    + [Création d’un dossier Campaign](create-a-campaign-folder.md)
-+ Design Studio {#design-studio}
++ Studio de conception {#design-studio}
    + [Importation de fichiers avec Adobe Experience Manager](importing-assets-with-adobe-experience-manager.md)
-   + [Éditeur d’image marketing](marketo-image-editor.md)
+   + [Editeur d’images Marketo](marketo-image-editor.md)
 + Programmes d’engagement {#engagement-programs}
    + [Activation et désactivation du contenu du flux](activate-and-deactivate-stream-content.md)
    + [Ajouter un flux à un Programme d’engagement](add-a-stream-to-an-engagement-program.md)
@@ -46,12 +46,12 @@ ht-degree: 0%
    + [Supprimer le contenu du flux](remove-stream-content.md)
    + [Renommer un flux](rename-a-stream.md)
    + [Voir Membres d’un Programme d’engagement](see-members-of-an-engagement-program.md)
-   + [Définir la cadence du flux](set-stream-cadence.md)
+   + [Définir le rythme du stream](set-stream-cadence.md)
    + [Activation et désactivation d’un Programme d’engagement](turn-an-engagement-program-on-and-off.md)
    + [Présentation des Programmes d’engagement](understanding-engagement-programs.md)
    + [Présentation de la note d’engagement](understanding-the-engagement-score.md)
    + [Utilisation d’un Programme dans un flux de Programme d’engagement](using-a-program-in-an-engagement-program-stream.md)
-+ Libellés {#labels}
++ Intitulés {#labels}
    + [Ajouter et supprimer des étiquettes](add-and-remove-labels.md)
    + [Copier les étiquettes de l’original vers le clone](copy-labels-from-original-to-clone.md)
    + [Copier les étiquettes du parent vers l&#39;enfant](copy-labels-from-parent-to-child.md)
@@ -85,14 +85,14 @@ ht-degree: 0%
    + [Ressources locales : Actions en masse](local-assets-mass-actions.md)
    + [Utilisation de l’onglet Aperçu du Programme](using-the-program-overview-tab.md)
    + [Utilisation de l’onglet Configuration de Programme](using-the-program-setup-tab.md)
-+ vue de Planning du programme {#program-schedule-view}
++ Affichage de la planification des programmes {#program-schedule-view}
    + [Créer une entrée de base dans une Vue de Planning du programme](create-a-basic-entry-in-program-schedule-view.md)
    + [Création d’une Campaign intelligente par lot dans la Vue de Planning du programme](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [Création d’un Programme de courriel dans Planning du programme Vue](create-an-email-program-in-program-schedule-view.md)
    + [Suppression d’une entrée dans une Vue de Planning du programme](delete-an-entry-in-program-schedule-view.md)
    + [Modifier une entrée dans la Vue de Planning du programme](edit-an-entry-in-program-schedule-view.md)
    + [Navigation dans la Vue de Planning du programme](navigating-program-schedule-view.md)
-+ Campagnes dynamiques {#smart-campaigns}
++ Campagnes intelligentes {#smart-campaigns}
    + [Activer/désactiver une Campaign dynamique de déclenchement](activate-deactivate-a-trigger-smart-campaign.md)
    + [Ajouter une étape de flux à un Campaign dynamique](add-a-flow-step-to-a-smart-campaign.md)
    + [Appliquer des limites de communication à une Campaign intelligente](apply-communication-limits-to-a-smart-campaign.md)
@@ -116,7 +116,7 @@ ht-degree: 0%
 + Listes dynamiques et Listes statiques {#smart-lists-and-static-lists}
    + [Enregistrer les actions de flux](save-flow-actions.md)
    + [Enregistrer les règles de Liste intelligente](save-smart-list-rules.md)
-+ Arbre {#tree}
++ Arborescence {#tree}
    + [Configuration de l&#39;arborescence](configuring-the-tree.md)
    + [Présentation des icônes dans l&#39;arborescence](understanding-icons-in-the-tree.md)
    + [Utiliser des Filtres pour trier l&#39;arborescence](use-filters-to-sort-the-tree.md)
