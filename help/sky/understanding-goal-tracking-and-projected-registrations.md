@@ -1,14 +1,14 @@
 ---
 title: compréhension-objectif-suivi-et-projections-inscriptions
 description: Comprendre le suivi des objectifs et les inscriptions prévues
+exl-id: 65064cbd-2ed7-45d5-aab9-4fc865e2bed6
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 0%
 
 ---
-
 
 # Comprendre le suivi des objectifs et les inscriptions prévues
 
@@ -54,14 +54,14 @@ Dans le calcul de programmes similaires, nous incluons les facteurs suivants, en
 
 * Type de programme
 * Canal programme
-* Taille de l&#39;Audience
+* Taille d’audience
 * Balises de programme
 * Durée entre la création de événement et le début de événement
 * Durée du événement
 
    ![Image 5](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-5.png)
 
-## Recommendations
+## Recommandations
 
 En haut de la page Rapports, vous trouverez des recommandations pilotées par IA/ML en fonction de votre progression. Consultez régulièrement le site pour obtenir des conseils et des renseignements utiles !
 
