@@ -1,20 +1,20 @@
 ---
 title: mon-jeton-calendrier-fichier
 description: Fichier de calendrier Mon jeton
+exl-id: af3c1419-65ab-462d-be04-2193b76f3982
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-
 # Mon jeton : Fichier de calendrier
 
 <br> 
 
-Un jeton [!UICONTROL Fichier de calendrier] vous permet d’ajouter un lien de événement de calendrier (.ics) à vos e-mails et landings page marketing. Voici comment en configurer un pour l’utiliser dans vos programmes et dossiers de campagne.
+Un jeton [!UICONTROL Fichier de calendrier] vous permet d’ajouter un lien de événement de calendrier (.ics) à vos courriels et landings page Marketo. Voici comment en configurer un pour l’utiliser dans vos programmes et dossiers de campagne.
 
 1. Dans l&#39;onglet [!UICONTROL Mes jetons] de votre programme ou dossier, faites glisser un **[!UICONTROL Jeton de calendrier]** sur le canevas [!UICONTROL Jetons locaux].
 
