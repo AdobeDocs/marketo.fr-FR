@@ -1,14 +1,14 @@
 ---
 title: application-communication-limites-à-une-campagne-intelligente
 description: Appliquer des limites de communication à une Campaign intelligente
+exl-id: 8fef2150-c1bd-4411-9968-07c71e191784
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # Appliquer des limites de communication à une Campaign intelligente
 
@@ -20,7 +20,7 @@ Ce n&#39;est pas une bonne idée d&#39;envoyer un courriel à quelqu&#39;un plus
 
 >[!NOTE]
 >
->Lorsqu&#39;une personne dépasse les limites de communication définies, Marketo bloque les courriels non opérationnels (les courriels opérationnels sont toujours envoyés).
+>Lorsqu&#39;une personne dépasse les limites de communication définies, Marketo bloque les e-mails non opérationnels (les e-mails opérationnels sont toujours envoyés).
 
 1. Sélectionnez votre campagne intelligente et cliquez sur l&#39;onglet **[!UICONTROL Planification]**.
 
