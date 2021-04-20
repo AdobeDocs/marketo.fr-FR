@@ -1,14 +1,14 @@
 ---
 title: archive-unarchive-a-campaign-folder
-description: 'Archivage/désarchivage d’un dossier Campaign '
+description: Archivage/désarchivage d’un dossier Campaign
+exl-id: eaf688da-2f85-4019-9103-a763438f4892
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
 
 ---
-
 
 # Archivage/désarchivage d’un dossier Campaign
 
