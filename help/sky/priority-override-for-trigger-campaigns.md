@@ -1,20 +1,20 @@
 ---
 title: priorité-remplacement-pour-déclencher-campagnes
 description: Remplacement des priorités pour les campagnes de déclenchement
+exl-id: 4468868c-33d7-4b5e-b524-bfcc2785c8ce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
 
 ---
 
-
 # Remplacement des priorités pour les campagnes de déclenchement
 
 <br> 
 
-Les administrateurs peuvent remplacer la priorité définie par Marketo pour déclencher des campagnes afin de définir des priorités qui s’alignent mieux sur les objectifs de l’entreprise.
+Les administrateurs peuvent remplacer la priorité définie par Marketo pour déclencher des campagnes afin de définir des priorités mieux adaptées aux objectifs de l’entreprise.
 
 >[!NOTE]
 >
@@ -82,4 +82,4 @@ Vous pouvez vue la priorité de la campagne dans l&#39;[!DNL Classic] expérienc
 
 >[!NOTE]
 >
->La priorité de l&#39;expérience [!DNL Classic] est la vue uniquement. La modification ou la réinitialisation de la priorité de la campagne n’est disponible que par l’intermédiaire du Marketo Sky.
+>La priorité de l&#39;expérience [!DNL Classic] est la vue uniquement. La modification ou la réinitialisation de la priorité de campagne n’est disponible que par l’intermédiaire du Marketo Sky.
