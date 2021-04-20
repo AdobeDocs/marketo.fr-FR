@@ -5,7 +5,7 @@ translation-type: tm+mt
 source-git-commit: b27c02e79bccb00773462c2d0d9ef18912a13ffe
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 * [Supprimer le contenu du flux](remove-stream-content.md)
 * [Renommer un flux](rename-a-stream.md)
 * [Voir Membres d’un Programme d’engagement](see-members-of-an-engagement-program.md)
-* [Définir la cadence du flux](set-stream-cadence.md)
+* [Définir le rythme du stream](set-stream-cadence.md)
 * [Activation et désactivation d’un Programme d’engagement](turn-an-engagement-program-on-and-off.md)
 * [Présentation des Programmes d’engagement](understanding-engagement-programs.md)
 * [Présentation de la note d’engagement](understanding-the-engagement-score.md)
