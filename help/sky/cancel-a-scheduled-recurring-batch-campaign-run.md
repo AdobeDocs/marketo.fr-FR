@@ -1,14 +1,14 @@
 ---
 title: cancel-a-planifié-périodique-batch-campaign-run
 description: Annulation d'une exécution de Campaign par lot périodique planifiée
+exl-id: 64f1aba4-1a37-45b6-a4e8-b1d57365cdb7
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # Annulation d&#39;une exécution de Campaign par lot périodique planifiée
 
