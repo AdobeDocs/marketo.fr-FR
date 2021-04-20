@@ -1,14 +1,14 @@
 ---
 title: compréhension-engagement-programmes
 description: Présentation des Programmes d’engagement
+exl-id: 15627752-8246-44fa-9293-2f97849635fc
 translation-type: tm+mt
-source-git-commit: 96839c20e8d6adf2dc87ae050decc73ecb5052e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
-
 
 # Présentation des Programmes d’engagement
 
@@ -20,7 +20,7 @@ Les programmes d’engagement sont conçus pour promouvoir les nouvelles personn
 >
 >Il existe une limite de 100 programmes d’engagement _principal_ par abonnement.
 
-## Programme d’engagement
+## Programmes d&#39;engagement
 
 Un programme d&#39;engagement est un type de programme qui peut accomplir facilement une tâche complexe.
 
@@ -30,7 +30,7 @@ Un programme d&#39;engagement est un type de programme qui peut accomplir facile
 
 * [Créer un Programme d’engagement](/help/sky/create-an-engagement-program.md)
 
-## Flux
+## Stream
 
 Un flux est un ensemble de contenus prioritaires que le programme d&#39;engagement utilisera pour nourrir les gens.
 
@@ -62,7 +62,7 @@ Un cast est le événement d’envoi de courriers électroniques à partir d’u
 >
 >Les Programmes d’engagement ne sont pas conçus pour être utilisés avec les courriers électroniques opérationnels.
 
-## Cadence de diffusion
+## Rythme du stream
 
 Vous décidez quand un cast se produit en configurant la cadence du flux. C’est ainsi que vous planifiez l’affichage du contenu à intervalles réguliers.
 
@@ -70,7 +70,7 @@ Vous décidez quand un cast se produit en configurant la cadence du flux. C’es
 
 **Article connexe**
 
-* [Définir la cadence du flux](/help/sky/set-stream-cadence.md)
+* [Définir le rythme du stream](/help/sky/set-stream-cadence.md)
 
 ## Cadence
 
@@ -86,4 +86,4 @@ Une fois qu&#39;une personne a reçu chaque élément de contenu dans un flux, n
 
 ## Niveau d’engagement du contenu
 
-Le niveau d’engagement du contenu est un score de 0 à 100 points que Marketing attribuera à votre contenu. Ce nombre est déterminé par une formule sophistiquée qui utilise les éléments suivants : ouverture, clics, désabonnement, réussite de programme et autres facteurs.
+Le niveau d’engagement du contenu est un score de 0 à 100 points que Marketo attribuera à votre contenu. Ce nombre est déterminé à l’aide d’une formule sophistiquée qui tient compte des ouvertures, des clics, des désinscriptions, du succès du programme et d’autres facteurs.
