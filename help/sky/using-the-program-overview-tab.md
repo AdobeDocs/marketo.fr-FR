@@ -1,14 +1,14 @@
 ---
 title: utilisation-du-programme-aperçu-onglet
 description: Utilisation de l’onglet Aperçu du Programme
+exl-id: 85193e27-5f49-4db9-88f5-99ec5f8bbec8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Utilisation de l’onglet Aperçu du Programme
 
@@ -26,13 +26,13 @@ Au bas de la page se trouvent deux sections : **[!UICONTROL Programme Stats]** e
 
 ![Image 2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
-## Planification
+## Programmation
 
 La vue de Planning du programme est une fonctionnalité puissante qui vous permet de créer, déplacer et modifier des entrées directement à partir du calendrier. Vous avez la possibilité de vue du calendrier par jour, semaine ou mois ; vous pouvez également voir toutes vos entrées pour le mois sur la page de l&#39;ordre du jour.
 
 ![Image trois](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-3.png)
 
-**Plongée profonde**
+**Pour aller plus loin**
 
 * Découvrez comment [utiliser la vue de Planning du programme](/help/sky/navigating-program-schedule-view.md).
 
