@@ -1,14 +1,14 @@
 ---
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: Mes actions de jeton Modifier, Supprimer, Cloner et Copier les noms de jeton
+exl-id: 5ef1ac8b-a7a3-4106-a72f-ce6de8b1bc0d
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # Mes actions de jeton : Modification, suppression, clonage et copie des noms de jeton
 
