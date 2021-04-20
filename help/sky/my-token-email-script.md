@@ -1,14 +1,14 @@
 ---
 title: my-token-email-script
 description: Script de courrier électronique Mon jeton
+exl-id: 8dd28274-578a-4184-b7bb-b46b59ebe410
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # Mon jeton : Script de courriel
 
@@ -34,7 +34,7 @@ Pour les développeurs avancés, vous pouvez utiliser [des scripts Velocity](htt
 
 1. Écrivez votre script dans Velocity. Voici quelques ressources utiles pour vous aider :
 
-   * [Documentation sur les scripts de courrier électronique destinée aux développeurs du marketing](https://developers.marketo.com/email-scripting/)
+   * [Documentation sur les scripts de messagerie des développeurs Marketo](https://developers.marketo.com/email-scripting/)
    * [Guide de l&#39;utilisateur Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Guide de référence Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Documentation de VelocityTools 2.0](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
