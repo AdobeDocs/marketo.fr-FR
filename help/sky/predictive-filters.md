@@ -1,20 +1,20 @@
 ---
 title: filtres prédictifs
 description: Filtres prédictifs
+exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Filtres prédictifs
 
 <br> 
 
-Dans le cadre d’Audiences prédictives, Marketo offre un groupe de filtres basés sur l’IA/ML dans des listes intelligentes.
+Dans le cadre des Audiences prédictives, Marketo offre un groupe de filtres basés sur l&#39;IA/ML dans des listes intelligentes.
 
 ![Image un](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-1.png)
 
