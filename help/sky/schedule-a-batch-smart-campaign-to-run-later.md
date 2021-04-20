@@ -1,14 +1,14 @@
 ---
 title: planifier-a-batch-smart-campaign-à-exécuter-plus tard
 description: Planification de l’exécution ultérieure d’une Campaign dynamique par lot
+exl-id: 66730a0b-a0d2-45e6-ad66-e99b03ee89d2
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # Planification de l’exécution ultérieure d’une Campaign dynamique par lot
 
