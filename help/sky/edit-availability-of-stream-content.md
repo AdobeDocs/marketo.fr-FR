@@ -1,14 +1,14 @@
 ---
 title: edit-disponibilité-of-stream-content
 description: Modifier la disponibilité du contenu du flux
+exl-id: b5624780-fae0-456b-a709-cb3c71c49757
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
-
 
 # Modifier la disponibilité du contenu du flux
 
@@ -44,6 +44,6 @@ Vous pouvez définir une période pour que le contenu soit principal dans votre 
 >
 >Vous pouvez laisser [!UICONTROL Principal traversé] vide pour rendre le contenu disponible pour toujours.
 
-Parfait ! Une icône représentant une horloge s’affiche en regard du contenu planifié. Il deviendra principal et inactif selon la planification que vous avez définie.
+Mot clé! Une icône représentant une horloge s’affiche en regard du contenu planifié. Il deviendra principal et inactif selon la planification que vous avez définie.
 
 ![Image sept](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-7.png)
