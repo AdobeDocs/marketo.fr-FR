@@ -1,14 +1,14 @@
 ---
 title: comportement attendu
 description: Comportement attendu
+exl-id: 8f6d12e4-851c-43d8-a5cf-053887517aaa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Comportement attendu
 
@@ -23,7 +23,7 @@ Dans cet article, vous trouverez des informations sur le comportement attendu as
 
 ## Pour les Audiences prédictives, vous pouvez vous attendre au comportement suivant :
 
-* PA est accessible en Marketo Sky et en Marketo Classic. La disponibilité de fonctionnalités spécifiques est la suivante :
+* PA est accessible dans le Marketo Sky et l’expérience Marketo Classic. La disponibilité de fonctionnalités spécifiques est la suivante :
    * Filtres prédictifs - [!DNL Sky/Classic]
    * Inscriptions prévues - [!DNL Sky/Classic]
    * Prédictions de probabilité au niveau de l&#39;affaire - [!DNL Sky/Classic]
