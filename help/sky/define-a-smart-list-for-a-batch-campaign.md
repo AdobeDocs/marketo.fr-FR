@@ -1,20 +1,20 @@
 ---
 title: définir-une-liste-intelligente-pour-une-campagne-par-lot
 description: Définir une Liste dynamique pour un Campaign par lot
+exl-id: 35130f40-cce5-4677-8eaf-f9d73c995ba3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-
 # Définir une Liste dynamique pour un Campaign par lot
 
 <br> 
 
-Les listes intelligentes sont le mécanisme utilisé dans tout Marketo pour définir &quot;qui&quot; (quelles personnes) inclure, qu’il s’agisse d’un rapport, d’une liste ou d’une campagne intelligente. Voici comment définir une liste intelligente pour une campagne par lot.
+Les listes intelligentes sont le mécanisme utilisé dans toute Marketo pour définir &quot;qui&quot; (quelles personnes) inclure, que ce soit un rapport, une liste ou une campagne intelligente. Voici comment définir une liste intelligente pour une campagne par lot.
 
 1. Choisissez une campagne intelligente, puis cliquez sur **[!UICONTROL Liste intelligente]**.
 
