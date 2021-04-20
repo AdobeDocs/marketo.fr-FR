@@ -1,20 +1,20 @@
 ---
 title: ajouter et supprimer des étiquettes
 description: Ajouter et supprimer des étiquettes
+exl-id: 9a1664ac-d346-4c0d-badc-0cbca767e740
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Ajouter et supprimer des étiquettes
 
 Vous pouvez attribuer des étiquettes à n’importe quelle ressource dans [!UICONTROL Activités marketing], ce qui vous permet d’organiser et de rechercher des ressources en toute simplicité.
 
-## Étiquettes des Ajoutes
+## Ajouter des étiquettes
 
 Pour ajouter de nouveaux libellés à une ressource, accédez à la page [!UICONTROL Détails] de la ressource sous l&#39;onglet [!UICONTROL Aperçu].
 <br> 
