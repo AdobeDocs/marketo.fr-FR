@@ -1,14 +1,14 @@
 ---
 title: créer-une-entrée-de-base-dans-le-programme-planification-vue
 description: Créer une entrée de base dans une Vue de Planning du programme
+exl-id: c4b089f0-aaaa-42e8-8eb9-8b53dbd6a2d5
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # Créer une entrée de base dans une Vue de Planning du programme
 
@@ -42,4 +42,4 @@ Vous pouvez créer de nouvelles entrées de base directement à partir de la vue
 
 **Articles connexes**
 
-Vous pouvez également créer un [programme de courriel &lt;a0/>batch smart campaign](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) ou [à partir de la vue de planification.](/help/sky/create-an-email-program-in-program-schedule-view.md)
+Vous pouvez également créer un [programme de courriel ](/help/sky/create-an-email-program-in-program-schedule-view.md)batch smart campaign](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) ou [à partir de la vue de planification.
