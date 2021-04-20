@@ -1,20 +1,20 @@
 ---
 title: save-flow-actions
 description: Enregistrer les actions de flux
+exl-id: a359466a-2484-4538-a0d7-29d9a5606786
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
-
 # Enregistrer les actions de flux
 
 <br> 
 
-Les étapes de flux indiquent à Marketing Cloud ce que vous souhaitez faire pour un groupe de personnes qui remplissent les conditions requises (les personnes que vous avez choisies dans la liste intelligente). L’enregistrement d’un flux spécifique permet de gagner du temps.
+Les étapes de flux indiquent à Marketo ce que vous souhaitez faire pour un groupe de personnes qualifiées (les personnes que vous avez choisies dans la liste intelligente). L’enregistrement d’un flux spécifique permet de gagner du temps.
 
 ## Enregistrement des actions de flux
 
