@@ -1,14 +1,14 @@
 ---
 title: my-token-date
 description: Ma date de jeton
+exl-id: 16199845-79ee-40bd-a81d-d43b5236e7df
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
-
 
 # Mon jeton : Date
 
