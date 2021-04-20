@@ -1,22 +1,22 @@
 ---
 title: set-stream-cadence
-description: Définir la cadence du flux
+description: Définir le rythme du stream
+exl-id: 1a52162f-ec1e-4f20-a640-68c16779456a
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Définir la cadence du flux
+# Définir le rythme du stream
 
 <br> 
 
 Vous pouvez envoyer le contenu de l’engagement à n’importe quel intervalle. Par exemple : une fois par semaine ou tous les trois mardis du mois.
 
-## Définir la cadence
+## Définir le rythme
 
 1. Sélectionnez votre programme d’engagement.
 
@@ -32,7 +32,7 @@ Vous pouvez envoyer le contenu de l’engagement à n’importe quel intervalle.
 >
 >Si vous sélectionnez Aucun, le flux s’arrête.
 
-## Hebdomadaire
+## Une fois par semaine
 
 1. Sélectionnez **[!UICONTROL Hebdomadaire]**.
 
@@ -72,7 +72,7 @@ Vous pouvez envoyer le contenu de l’engagement à n’importe quel intervalle.
 
 C&#39;est tout ! Continuez à lire si vous souhaitez configurer une cadence mensuelle.
 
-## Mensuel
+## Une fois par mois
 
 1. Sélectionnez **[!UICONTROL Mensuel]** pour connaître la fréquence à laquelle il se répète.
 
