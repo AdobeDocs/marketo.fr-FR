@@ -1,14 +1,14 @@
 ---
 title: clone-a-stream
 description: Clonage d’un flux
+exl-id: 4a588a87-6e5e-4d2d-bd9b-7612f743e1a2
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
-
 
 # Clonage d’un flux
 
