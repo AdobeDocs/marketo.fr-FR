@@ -1,14 +1,14 @@
 ---
 title: ressources locales-dans-un-programme
 description: Actifs locaux dans un Programme
+exl-id: ea7326a8-3892-4bab-95e3-2ad9e1054e41
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
-
 
 # Actifs locaux dans un Programme
 
@@ -18,12 +18,12 @@ Les ressources locales sont le contenu qui constitue votre programme. Les ressou
 
 ![Image un](/help/sky/assets/programs/local-assets-in-a-program/local-assets-in-a-program-1.jpg)
 
-* [Campagnes dynamiques](https://docs.marketo.com/display/MER/Smart+Campaigns)
+* [Campagnes intelligentes](https://docs.marketo.com/display/MER/Smart+Campaigns)
 * [Listes](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists)
-* [Programmes de messagerie](https://docs.marketo.com/display/DOCS/Email+Programs)
-* [Courriel](https://docs.marketo.com/display/DOCS/Create+an+Email+for+an+Email+Program)
-* [landing page](https://docs.marketo.com/display/DOCS/Landing+Pages)
-* [Forms](https://docs.marketo.com/display/DOCS/Forms)
+* [Programmes d&#39;e-mail](https://docs.marketo.com/display/DOCS/Email+Programs)
+* [E-mails](https://docs.marketo.com/display/DOCS/Create+an+Email+for+an+Email+Program)
+* [Page de destination](https://docs.marketo.com/display/DOCS/Landing+Pages)
+* [Formulaires](https://docs.marketo.com/display/DOCS/Forms)
 
 >[!IMPORTANT]
 >
