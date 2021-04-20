@@ -1,14 +1,14 @@
 ---
 title: compréhension-mes-jetons
 description: Présentation de mes jetons
+exl-id: d56748e2-d742-45dd-96a8-dd80e30d9d8b
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '333'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Présentation de mes jetons
 
@@ -55,7 +55,7 @@ Le déplacement de programmes et de dossiers affecte également les jetons. Vér
 >
 >Si le courrier électronique envoyé à partir d’un programme d’engagement est un message électronique enfant d’un programme par défaut (c.-à-d. non local à votre programme d’engagement), tous les jetons utilisés dans le courrier électronique sont résolus à partir du programme par défaut dans lequel réside le courrier électronique enfant.
 
-## Utilisation du jeton
+## Utilisation de jeton
 
 Sélectionnez un jeton, puis cliquez sur l’icône d’utilisation dans le coin supérieur droit pour afficher une liste de ressources qui contient ce jeton.
 
@@ -63,17 +63,17 @@ Sélectionnez un jeton, puis cliquez sur l’icône d’utilisation dans le coin
 
 ![Image 4](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-4.png)
 
-**Plongée profonde**
+**Pour aller plus loin**
 
 En savoir plus sur chacun des jetons My Tokens :
 
-* [CRM Campaign](/help/sky/my-token-crm-campaign.md)
+* [Campagne CRM](/help/sky/my-token-crm-campaign.md)
 * [Date](/help/sky/my-token-date.md)
-* [Fichier de calendrier](/help/sky/my-token-calendar-file.md)
+* [Fichier du calendrier](/help/sky/my-token-calendar-file.md)
 * [Image](/help/sky/my-token-image.md)
 * [Lien](/help/sky/my-token-link.md)
 * [Nombre](/help/sky/my-token-number.md)
-* [Texte enrichi](/help/sky/my-token-rich-text.md)
-* [Score](/help/sky/my-token-score.md)
-* [Script de courriel](/help/sky/my-token-email-script.md)
+* [Texte complet](/help/sky/my-token-rich-text.md)
+* [Évaluation](/help/sky/my-token-score.md)
+* [Script de l&#39;e-mail](/help/sky/my-token-email-script.md)
 * [Texte](/help/sky/my-token-text.md)
