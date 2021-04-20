@@ -1,14 +1,14 @@
 ---
 title: création-par lot-intelligente-campagne-en-programme-planification-vue
 description: Création d’une Campaign intelligente par lot dans la Vue de Planning du programme
+exl-id: 1454d306-77cb-4bc5-9ae0-8a4382637e63
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Création d’une Campaign intelligente par lot dans la Vue de Planning du programme
 
