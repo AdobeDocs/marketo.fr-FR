@@ -1,14 +1,14 @@
 ---
 title: override-person-restrictions-in-a-smart-campaign
 description: Remplacer les restrictions de personne dans une Campaign dynamique
+exl-id: efdd6c68-a95e-4b2a-9249-e2e1f550b628
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Remplacer les restrictions de personne dans une Campaign dynamique
 
