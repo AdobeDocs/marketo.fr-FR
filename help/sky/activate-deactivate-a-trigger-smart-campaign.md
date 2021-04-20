@@ -1,14 +1,14 @@
 ---
 title: activate-deactivate-a-trigger-smart-campaign
 description: Activer/désactiver une Campaign dynamique de déclenchement
+exl-id: 5579aad6-42bf-41e2-8baa-a14da14702da
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Activer/désactiver une Campaign dynamique de déclenchement
 
