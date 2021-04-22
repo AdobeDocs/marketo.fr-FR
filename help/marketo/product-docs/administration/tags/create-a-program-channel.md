@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950682
-description: Création d’un Canal de Programme - Documents marketing - Documentation du produit
+description: Création d’un Canal de Programme - Marketo Docs - Documentation du produit
 title: Création d’un Canal de Programme
+exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
 
 ---
-
 
 # Créer un Canal de Programme {#create-a-program-channel}
 
