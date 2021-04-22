@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377408
-description: Ajouter un domaine de marque supplémentaire avec des espaces de travail - Documents marketing - Documentation du produit
+description: Ajouter un domaine de marque supplémentaire avec des espaces de travail - Documents Marketo - Documentation du produit
 title: Ajouter un domaine de marque supplémentaire avec des espaces de travail
+exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter un domaine de marque supplémentaire avec des espaces de travail {#add-an-additional-branding-domain-with-workspaces}
 
