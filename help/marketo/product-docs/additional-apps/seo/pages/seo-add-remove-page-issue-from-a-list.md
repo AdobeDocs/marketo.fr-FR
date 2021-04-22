@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949266
-description: Optimisation du référencement - Ajouter/supprimer un problème de page d'une Liste - Documents marketing - Documentation du produit
+description: SEO - Ajouter/supprimer un problème de page d'une Liste - Marketo Docs - Documentation du produit
 title: 'Optimisation du référencement : Ajouter/supprimer un problème de page d''une Liste'
+exl-id: 41d16263-a083-40a5-9003-72a35df12c45
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Optimisation du référencement : Ajouter/supprimer un problème de page d&#39;une Liste {#seo-add-remove-page-issue-from-a-list}
 
