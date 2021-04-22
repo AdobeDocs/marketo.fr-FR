@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360311
-description: Créer un nouvel espace de travail - Documents marketing - Documentation du produit
+description: Créer un nouvel espace de travail - Documents Marketo - Documentation du produit
 title: Créer un espace de travail
+exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
-
 
 # Créer un espace de travail {#create-a-new-workspace}
 
@@ -30,7 +30,7 @@ Voici comment créer un nouvel espace de travail.
 
 >[!NOTE]
 >
->Pour en savoir plus sur les meilleures pratiques de Workspace, veuillez contacter [Services professionnels du marketing](mailto:services@marketo.com).
+>Pour en savoir plus sur les meilleures pratiques de Workspace, veuillez contacter [Marketo Professional Services](mailto:services@marketo.com).
 
 1. Sous **Admin**, cliquez sur **Espaces de travail et partitions**.
 
@@ -62,7 +62,7 @@ Voici comment créer un nouvel espace de travail.
 
    >[!NOTE]
    >
-   >Lors de la création, Marketo envoie des exemples de ressources dans l’espace de travail. La langue permet à ces objets prédéfinis d’être dans une langue autre que l’anglais.
+   >Lors de sa création, Marketo envoie des exemples de ressources dans l’espace de travail. La langue permet à ces objets prédéfinis d’être dans une langue autre que l’anglais.
 
    ![](assets/five.png)
 
