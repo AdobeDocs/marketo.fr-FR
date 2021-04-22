@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557324
-description: Utiliser le filtre Valeur de données modifiée dans une Liste dynamique - Documents marketing - Documentation du produit
+description: Utiliser le filtre Valeur de données modifiée dans une Liste dynamique - Documents Marketo - Documentation du produit
 title: Utiliser le filtre Valeur de données modifiée dans une Liste dynamique
+exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # Utiliser le filtre Valeur de données modifiée dans une Liste dynamique {#use-the-data-value-changed-filter-in-a-smart-list}
 
