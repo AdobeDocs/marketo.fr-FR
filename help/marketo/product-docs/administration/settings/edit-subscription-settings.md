@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099785
-description: Modifier les paramètres d'Abonnement - Documents marketing - Documentation du produit
+description: Modifier les paramètres d'Abonnement - Documents Marketo - Documentation du produit
 title: Modifier les paramètres d'Abonnement
+exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Modifier les paramètres d&#39;Abonnement {#edit-subscription-settings}
 
-Si vous avez accès à plusieurs abonnements de marketing et souhaitez être sûr de celui que vous utilisez, essayez de donner à chacun un nom unique. Ce nom s’affiche ensuite en haut de votre page d’abonnement.
+Si vous avez accès à plusieurs abonnements Marketo et souhaitez être sûr de celui que vous utilisez, essayez de donner à chacun un nom unique. Ce nom s’affiche ensuite en haut de votre page d’abonnement.
 
-Par exemple, si vous travaillez à la fois dans les instances de production et de sandbox, vous pouvez nommer un abonnement **Marketo Production** et l’autre **Marketo Sandbox**.
+Par exemple, si vous travaillez dans les instances de production et de sandbox, vous pouvez nommer un abonnement **Marketo Production** et l’autre **Marketo Sandbox**.
 
 ![](assets/image2016-4-8-14-3a34-3a28.png)
 
@@ -35,4 +35,4 @@ Par exemple, si vous travaillez à la fois dans les instances de production et d
 
    ![](assets/image2016-5-24-10-3a40-3a6.png)
 
-   Ta-da ! Votre abonnement a un nouveau nom.
+   Et voilà ! Votre abonnement a un nouveau nom.
