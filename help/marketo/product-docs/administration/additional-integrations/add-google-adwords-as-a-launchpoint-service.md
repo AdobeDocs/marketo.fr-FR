@@ -2,18 +2,18 @@
 unique-page-id: 6095008
 description: Ajouter Google AdWords en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter Google AdWords comme service LaunchPoint
+exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Ajouter Google AdWords en tant que service LaunchPoint {#add-google-adwords-as-a-launchpoint-service}
 
-Liez votre compte Google AdWords à Marketo pour télécharger automatiquement les données de conversion hors ligne de Marketo vers Google AdWords. Ensuite, à partir de l’interface utilisateur d’AdWords, vous pourrez identifier facilement les clics qui ont généré des pistes qualifiées, des opportunités et de nouveaux clients (ou les étapes de recettes dont vous souhaitez effectuer le suivi) après avoir [ajouté des colonnes personnalisées](https://support.google.com/adwords/answer/3073556) dans AdWords. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketing Cloud.
+Liez votre compte Google AdWords à Marketo pour télécharger automatiquement les données de conversion hors ligne de Marketo vers Google AdWords. Ensuite, à partir de l’interface utilisateur d’AdWords, vous pourrez identifier facilement les clics qui ont généré des pistes qualifiées, des opportunités et de nouveaux clients (ou les étapes de recettes dont vous souhaitez effectuer le suivi) après avoir [ajouté des colonnes personnalisées](https://support.google.com/adwords/answer/3073556) dans AdWords. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketo.
 
 En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Google](https://support.google.com/adwords/answer/2998031?hl=en).
 
@@ -41,7 +41,7 @@ En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Go
 
    ![](assets/new-service-google.png)
 
-1. Sélectionnez **Autoriser le marketing**.
+1. Sélectionnez **Autoriser Marketo**.
 
    >[!NOTE]
    >
@@ -86,7 +86,7 @@ En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Go
    >
    >[Le ](https://support.google.com/adwords/answer/1752125?hl=en) balisage automatique doit être sélectionné pour que cette fonction fonctionne. La désactivation doit être effectuée dans AdWords.
 
-Super ! Consultez maintenant l’article associé ci-dessous pour savoir comment mapper les conversions hors ligne AdWords dans votre modèle de recettes.
+Fantastique ! Consultez maintenant l’article associé ci-dessous pour savoir comment mapper les conversions hors ligne AdWords dans votre modèle de recettes.
 
 >[!MORELIKETHIS]
 >
