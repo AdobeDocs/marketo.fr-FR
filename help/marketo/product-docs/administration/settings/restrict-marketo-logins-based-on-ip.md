@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360297
-description: Limiter les connexions marketing en fonction de l'adresse IP - Docs marketing - Documentation du produit
-title: Limiter les connexions marketing en fonction de l'adresse IP
+description: Restreindre les connexions Marketo en fonction de l'adresse IP - Docs Marketo - Documentation du produit
+title: Restreindre les connexions Marketo en fonction de l'adresse IP
+exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-
-# Limiter les connexions marketing en fonction de l&#39;adresse IP {#restrict-marketo-logins-based-on-ip}
+# Restreindre les connexions Marketo en fonction de l&#39;adresse IP {#restrict-marketo-logins-based-on-ip}
 
 Vous pouvez restreindre ou autoriser les utilisateurs à accéder à Marketo en fonction de leurs adresses IP. Voici comment.
 
@@ -38,7 +38,7 @@ Vous pouvez restreindre ou autoriser les utilisateurs à accéder à Marketo en 
    >**Définition**
    >
    >* **Adresses** IP autorisées : Ajouter les adresses IP autorisées est inclusif. Elle inclura toutes les adresses IP spécifiées et exclura tout le reste.
-   >* **Bloquer les adresses** IP : Empêche les adresses IP spécifiques d’accéder à Marketo.
+   >* **Bloquer les adresses** IP : Empêche certaines adresses IP d’accéder à Marketo.
    >* **Désactiver les restrictions** d&#39;adresse IP : Si vous cochez cette case, toutes les règles de restriction ne fonctionneront plus. Utilisez-le à des fins de test.
 
 
