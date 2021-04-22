@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147025
-description: Utilisation d’un crochet Web dans un Campaign intelligent - Docs marketing - Documentation du produit
+description: Utiliser Webhook dans une Campaign intelligente - Marketo Docs - Documentation du produit
 title: Utilisation de Webhook dans une Campaign intelligente
+exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Utiliser Webhook dans une Campaign intelligente {#use-a-webhook-in-a-smart-campaign}
 
@@ -17,7 +17,7 @@ Pour utiliser un [webhook](https://developers.marketo.com/documentation/webhooks
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
 1. [Créez une campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) intelligente.
 
