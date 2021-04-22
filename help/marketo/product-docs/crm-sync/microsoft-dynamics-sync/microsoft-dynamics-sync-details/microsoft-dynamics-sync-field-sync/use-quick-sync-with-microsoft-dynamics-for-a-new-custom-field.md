@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098379
-description: Utilisation de la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ personnalisé - Documents marketing - Documentation du produit
+description: Utilisation de la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ personnalisé - Marketo Docs - Documentation du produit
 title: Utiliser la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ personnalisé
+exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
 
 ---
-
 
 # Utiliser la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ personnalisé {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
