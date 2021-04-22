@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11372975
-description: Étape 1 sur 3 - Ajouter les champs du marketing à Salesforce (Professional) - Docs du marketing - Documentation du produit
-title: Etape 1 sur 3 - Ajouter les champs du marketing à Salesforce (Professional)
+description: Étape 1 sur 3 - Ajouter les champs Marketo à Salesforce (Professional) - Marketo Docs - Documentation du produit
+title: Étape 1 sur 3 - Ajouter les champs Marketo à Salesforce (Professional)
+exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '745'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-
-# Étape 1 sur 3 : Ajouter les champs du marketing à Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
+# Étape 1 sur 3 : Ajouter les champs Marketo à Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
@@ -23,9 +23,9 @@ Marketo utilise un ensemble de champs pour capturer certains types d’informati
 1. Faites correspondre ces champs personnalisés entre les pistes et les contacts afin qu’au moment de la conversion dans Salesforce, les valeurs soient reportées.
 1. Si nécessaire, vous pouvez créer d’autres champs (voir le tableau ci-dessous).
 
-Tous ces champs personnalisés sont facultatifs et ne sont pas nécessaires pour synchroniser Marketing Cloud et Salesforce. Il est recommandé de créer des champs pour Note, Programme d’acquisition et Date d’acquisition.
+Tous ces champs personnalisés sont facultatifs et ne sont pas nécessaires pour synchroniser Marketo et Salesforce. Il est recommandé de créer des champs pour Note, Programme d’acquisition et Date d’acquisition.
 
-## Ajouter les champs du marketing à Salesforce {#add-marketo-fields-to-salesforce}
+## Ajouter les champs Marketo à Salesforce {#add-marketo-fields-to-salesforce}
 
 Ajoutez trois champs personnalisés sur les objets prospect et contact dans Salesforce répertoriés ci-dessus. Si vous souhaitez en ajouter d’autres, reportez-vous au tableau des champs disponibles à la fin de cette section.
 
@@ -58,11 +58,11 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
   <tr> 
    <th> 
     <div>
-      Libellé du champ 
+      Intitulé de champ 
     </div></th> 
    <th> 
     <div>
-      Nom du champ 
+      Nom de champ 
     </div></th> 
    <th> 
     <div>
@@ -76,19 +76,19 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
  </thead> 
  <tbody> 
   <tr> 
-   <td>Score</td> 
+   <td>Évaluation</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Nombre</td> 
    <td>Longueur 10<br>Nombre de décimales 0 </td> 
   </tr> 
   <tr> 
-   <td>Date d’acquisition</td> 
+   <td>Date d'acquisition</td> 
    <td>mkto71_Acquisition_Date</td> 
    <td>Date/Heure</td> 
    <td> </td> 
   </tr> 
   <tr> 
-   <td>Programme d’acquisition</td> 
+   <td>Programme d'acquisition</td> 
    <td>mkto71_Acquisition_Programme</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
@@ -137,8 +137,8 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 <table> 
  <tbody> 
   <tr> 
-   <th>Libellé du champ</th> 
-   <th>Nom du champ</th> 
+   <th>Intitulé de champ</th> 
+   <th>Nom de champ</th> 
    <th>Type de données</th> 
    <th>Attributs de champ</th> 
   </tr> 
@@ -149,37 +149,37 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
    <td>Longueur 18<br>Nombre de décimales 0 </td> 
   </tr> 
   <tr> 
-   <td>Parrain original</td> 
+   <td>Référent d'origine</td> 
    <td>mkto71_Original_Parrain</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Moteur de recherche original</td> 
+   <td>Moteur de recherche d'origine</td> 
    <td>mkto71_Original_Search_Engine</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Expression de recherche d’origine</td> 
+   <td>Phrase de recherche d'origine</td> 
    <td>mkto71_Original_Search_Expression</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Infos source d'origine</td> 
+   <td>Info source d'origine</td> 
    <td>mkto71_Original_Source_Info</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Type de source original</td> 
+   <td>Type source d'origine</td> 
    <td>mkto71_Original_Source_Type</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Ville d'origine</td> 
+   <td>Ville déduite</td> 
    <td>mkto71_Inferred_City</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
@@ -191,19 +191,19 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Pays d'origine</td> 
+   <td>Pays déduit</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Zone métropolitaine désignée</td> 
+   <td>Aire métropolitaine déduite</td> 
    <td>mkto71_Inferred_Metropolitan_Area</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Code de zone de téléphone indiqué</td> 
+   <td>Indicatif téléphonique local déduit</td> 
    <td>mkto71_Inferred_Phone_Area_Code</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
@@ -215,7 +215,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Région d'État désignée</td> 
+   <td>Région déduite</td> 
    <td>mkto71_Inferred_State_Region</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
@@ -258,4 +258,4 @@ Assez facile, n&#39;est-ce pas ?
 
 >[!MORELIKETHIS]
 >
->[Étape 2 sur 3 : Créer un utilisateur Salesforce pour Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>[Étape 2 sur 3 : Création d’un utilisateur Salesforce pour Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
