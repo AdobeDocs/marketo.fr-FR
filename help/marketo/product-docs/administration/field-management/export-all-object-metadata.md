@@ -1,14 +1,14 @@
 ---
-description: Exporter toutes les métadonnées d’objet - Documents marketing - Documentation du produit
+description: Exporter toutes les métadonnées d’objet - Documents Marketo - Documentation du produit
 title: Exporter toutes les métadonnées d’objet
+exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
-
 
 # Exporter toutes les métadonnées d’objet {#export-all-object-metadata}
 
@@ -21,15 +21,15 @@ Cette fonction vous permet d’exporter tous les objets et leurs métadonnées.
 ## Objets {#objects}
 
 * Champs de piste (personne/Société)
-* Objets personnalisés marketing
+* Objets personnalisés Marketo
 * Activités standard
 * Activités personnalisées
 * Canaux
-* Balises
+* Variables
 
 ## Exporter les métadonnées d’objet {#export-object-metadata}
 
-1. Dans votre site Web Mon marketing, cliquez sur **Admin**.
+1. Dans votre Marketo My, cliquez sur **Admin**.
 
    ![](assets/export-all-object-metadata-1.png)
 
