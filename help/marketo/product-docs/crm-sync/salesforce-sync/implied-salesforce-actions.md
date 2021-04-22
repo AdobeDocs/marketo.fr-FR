@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719304
-description: Actions Salesforce appliquées - Documents marketing - Documentation du produit
+description: Actions Salesforce appliquées - Documents Marketo - Documentation du produit
 title: Actions Salesforce appliquées
+exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
-
 
 # Actions Salesforce appliquées {#implied-salesforce-actions}
 
@@ -20,30 +20,30 @@ Ces règles s&#39;appliquent _lorsque la personne n&#39;est pas actuellement dan
 <table> 
  <thead> 
   <tr> 
-   <th>Etape du flux marketing</th> 
+   <th>Étape de flux Marketo</th> 
    <th>Action automatique</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>Ajoute à la norme SFDC Campaign</td> 
-   <td>Synchroniser la personne avec SFDC</td> 
+   <td>Ajouter à la campagne SFDC</td> 
+   <td>Synchroniser individu dans SFDC</td> 
   </tr> 
   <tr> 
-   <td>Modifier le statut dans SFDC Campaign</td> 
+   <td>Modifier statut dans une campagne SFDC</td> 
    <td>Synchroniser la personne avec la DDC<br>Ajouter avec la DDC Campaign</td> 
   </tr> 
   <tr> 
-   <td>Changer de propriétaire</td> 
-   <td><p>Synchroniser la personne avec SFDC</p></td> 
+   <td>Modifier détenteur</td> 
+   <td><p>Synchroniser individu dans SFDC</p></td> 
   </tr> 
   <tr> 
-   <td>Convertir une personne</td> 
-   <td><p>Synchroniser la personne avec SFDC</p></td> 
+   <td>Convertir l’individu</td> 
+   <td><p>Synchroniser individu dans SFDC</p></td> 
   </tr> 
   <tr> 
-   <td>Créer une Tâche</td> 
-   <td>Synchroniser la personne avec SFDC</td> 
+   <td>Créer tâche</td> 
+   <td>Synchroniser individu dans SFDC</td> 
   </tr> 
  </tbody> 
 </table>
