@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8782024
-description: Téléchargement de Moments marketing - Docs marketing - Documentation du produit
-title: Téléchargement de moments marketing
+description: Téléchargement de Marketo Moments - Marketo Docs - Documentation du produit
+title: Téléchargement de moments Marketo
+exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
+# Téléchargement de Marketo Moments {#downloading-marketo-moments}
 
-# Téléchargement de moments marketing {#downloading-marketo-moments}
-
-Téléchargez Moments marketing depuis l’App Store ou Google Play et voilà ! La magie du marketing dans la paume de votre main.
+Téléchargez Marketo Moments depuis l&#39;App Store ou Google Play et voilà ! La magie Marketo dans la paume de votre main.
 
 ## Pour iPhone {#for-iphone}
 
@@ -21,7 +21,7 @@ Téléchargez Moments marketing depuis l’App Store ou Google Play et voilà ! 
 
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
-1. Recherchez Moments marketing et sélectionnez-le.
+1. Recherchez Moments Marketo et sélectionnez-le.
 
    ![](assets/image2015-7-7-17-3a19-3a7.png)
 
@@ -33,7 +33,7 @@ Téléchargez Moments marketing depuis l’App Store ou Google Play et voilà ! 
 
 1. Accédez à [Google Play](https://play.google.com/store?hl=en).
 
-1. Recherchez Moments marketing et appuyez sur pour télécharger.
+1. Recherchez Marketo Moments et appuyez sur pour télécharger.
 
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
@@ -49,10 +49,10 @@ Bon appétit !
 
 >[!NOTE]
 >
->Connectez-vous à l’aide de votre connexion et de votre mot de passe Marketo standard.
+>Connectez-vous à l’aide de votre identifiant et de votre mot de passe Marketo standard.
 >
->L’authentification unique avec le langage SAML (Security Assertion Markup Language) n’est pas prise en charge pour les moments marketing.
+>La connexion unique avec le langage SAML (Security Assertion Markup Language) n’est pas prise en charge pour Marketo Moments.
 
 >[!MORELIKETHIS]
 >
->[Présentation des moments marketing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>[Comprendre les moments Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
