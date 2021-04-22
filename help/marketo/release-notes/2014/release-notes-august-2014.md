@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2950212
-description: Notes de mise à jour - août 2014 - Documentation sur le marketing - Documentation du produit
+description: Notes de mise à jour - Août 2014 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - août 2014
+exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '396'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
 # Notes de mise à jour : Août 2014 {#release-notes-august}
 
-Les fonctionnalités suivantes sont incluses dans la version d’août 2014. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
+Les fonctionnalités suivantes sont incluses dans la version d’août 2014. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 
 ## Licences de calendrier marketing {#marketing-calendar-licenses}
 
 Après le 5 septembre 2014, seuls 5 utilisateurs peuvent accéder gratuitement au calendrier marketing. Veillez à [émettre/révoquer une licence de calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) à l’intention des utilisateurs de votre choix avant cette date pour un accès sans interruption.
 
-![—](assets/image2014-9-16-9-3a45-3a52.png)
+![--](assets/image2014-9-16-9-3a45-3a52.png)
 
-## Nouvelles autorisations d&#39;utilisateur {#new-user-permissions}
+## Nouvelles autorisations d’utilisateurs {#new-user-permissions}
 
 Les nouvelles autorisations d’utilisateur suivantes ont été ajoutées :
 
 | Autorisation | Description |
 |---|---|
-| Accéder à l&#39;Explorateur des recettes | Si vous avez acheté une RCA, vous avez désormais le contrôle sur qui peut y accéder. |
-| Liste d’importation | Restreindre les utilisateurs à importer des listes dans la base de données de piste. |
-| Importation liste | Limitez les utilisateurs à importer des listes par l’intermédiaire d’un programme sous activités marketing. |
-| Activer le déclencheur Campaign | Contrôler qui peut et ne peut pas activer les campagnes de déclenchement. |
-| Planification de la Campaign par lot | Permet de contrôler qui peut et ne peut pas planifier les exécutions de campagne par lot. |
+| Accéder à l’explorateur de recettes | Si vous avez acheté une RCA, vous avez désormais le contrôle sur qui peut y accéder. |
+| Importer la liste | Restreindre les utilisateurs à importer des listes dans la base de données de piste. |
+| Importer une liste | Limitez les utilisateurs à importer des listes par l’intermédiaire d’un programme sous activités marketing. |
+| Activer la campagne à déclencheurs | Contrôler qui peut et ne peut pas activer les campagnes de déclenchement. |
+| Programmer une campagne par lot | Permet de contrôler qui peut et ne peut pas planifier les exécutions de campagne par lot. |
 
 ## Exporter les utilisateurs et les rôles à partir de l’administrateur {#export-users-and-roles-from-admin}
 
@@ -49,7 +49,7 @@ Vous pouvez désormais supprimer tous les canaux et états inutilisés. Comme to
 
 ## DKIM automatisé {#automated-dkim}
 
-Pour une meilleure délivrabilité, tous les e-mails sortants seront signés DKIM (DomainKeys Identified Mail). Par défaut, les courriels utilisent la signature DKIM partagée de Marketo. Vous aurez la possibilité de personnaliser cette signature.
+Pour une meilleure délivrabilité, tous les e-mails sortants seront signés DKIM (DomainKeys Identified Mail). Par défaut, les courriels utilisent la signature partagée de DKIM Marketo. Vous aurez la possibilité de personnaliser cette signature.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
