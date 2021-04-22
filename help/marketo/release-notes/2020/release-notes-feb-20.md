@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355826
-description: Notes de mise à jour - Février 20 - Documentation sur le marketing - Documentation sur le produit
+description: Notes de mise à jour - Février 20 - Marketo Docs - Documentation sur le produit
 title: Notes de mise à jour - Fév '20
+exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '650'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Notes de mise à jour : 20 février {#release-notes-feb}
 
-Les fonctionnalités suivantes sont incluses dans la version du 20 février. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
+Les fonctionnalités suivantes sont incluses dans la version du 20 février. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités.
 
 >[!AVAILABILITY]
 >
@@ -21,7 +21,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 février. Vé
 
 **__** Versions trimestriellesLes fonctionnalités suivantes ont été publiées le 21  **février 2020**.
 
-## Marketo Engage principal {#core-marketo-engage}
+## Engagement Marketo de base {#core-marketo-engage}
 
 * **Action** de flux Microsoft Dynamics &quot;Change Owner in Microsoft&quot; : Conserver le contrôle de vos données Microsoft Dynamics CRM avec la possibilité de modifier un responsable/contact directement du Marketo Engage. Il s’agit d’une amélioration de notre fonctionnalité d’intégration CRM native.
 * **API** User Management : Automatisez la gestion des utilisateurs et des rôles par le biais de systèmes de gestion des identités et des organisations externes. Il s&#39;agit d&#39;une amélioration de notre fonctionnalité Appels d&#39;API.
@@ -35,7 +35,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 février. Vé
 
 Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et seront publiées au cours des prochains mois.
 
-## {#bizible}
+## Bizible {#bizible}
 
 ![(étoile)](assets/star-yellow.svg)
 
@@ -43,7 +43,7 @@ Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et
 * **Enregistrement des Filtres** : Enregistrez des filtres spécifiques à chaque tableau de bord, propres à chaque utilisateur, afin d’analyser vos tableaux de bord de manière rapide et cohérente.
 * **Exporter au format PDF** : Partagez des informations précieuses sur votre entreprise en exportant des Tableaux de bord visibles au format PDF.
 
-## Connexion commerciale {#sales-connect}
+## SalesConnect {#sales-connect}
 
 * **Composer les mises à jour** de la fenêtre : Nous avons rationalisé le processus de sélection des modèles et d&#39;envoi de courriers électroniques via Sales Connect. Utilisez la fenêtre Composer de notre client Web et de Salesforce comme guichet unique pour les vendeurs, avec la possibilité d&#39;enregistrer des catégories de modèles, de planifier des e-mails, d&#39;envoyer des e-mails en masse et d&#39;envoyer des e-mails avec vue et suivi des clics.
 * **Mises à jour** du Centre de commandes : Nous sommes en train de reconstruire le centre de commandes de Sales Connect afin de donner aux vendeurs un aperçu de tous leurs courriels, appels et Tâches lancés à partir de Sales Connect. Ils peuvent également vue des informations, telles que l&#39;engagement par courrier électronique et la délivrabilité, à partir du Centre de commandes.
@@ -52,7 +52,7 @@ Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et
 
 ## Annonces {#announcements}
 
-* **Centre** de réussite des Marketo Engage : Nous lançons le centre de réussite Marketo en février 2020. Le centre de réussite est un centre d&#39;aide intégré qui vous permet de rechercher des documents produit et la communauté, de lancer des guides pratiques, d&#39;accéder au contenu d&#39;adoption tel que l&#39;Université Marketo et des vidéos des meilleures pratiques d&#39;évaluation, etc., directement depuis votre instance de Marketo Engage. **Remarque** : Cette fonctionnalité sera lancée en version bêta en ANZ et sera déployée en Amérique du Nord plus tard dans le trimestre.
+* **Centre** de réussite des Marketo Engage : Nous lançons le Marketo Success Center en février 2020. Le centre de réussite est un centre d&#39;aide intégré qui vous permet de rechercher des documents produit et la communauté, de lancer des guides pratiques, d&#39;accéder au contenu d&#39;adoption tel que Marketo University et aux vidéos des meilleures pratiques des pairs, etc., directement depuis votre instance de Marketo Engage. **Remarque** : Cette fonctionnalité sera lancée en version bêta en ANZ et sera déployée en Amérique du Nord plus tard dans le trimestre.
 
 ## Dépréciations {#deprecations}
 
