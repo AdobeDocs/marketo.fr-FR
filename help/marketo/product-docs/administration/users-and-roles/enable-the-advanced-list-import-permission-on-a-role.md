@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360211
-description: Activer l'autorisation d'importation avancée de Liste sur un rôle - Documents marketing - Documentation du produit
+description: Activer l'autorisation d'importation de Liste avancée sur un rôle - Docs Marketo - Documentation du produit
 title: Activer l'autorisation d'importation avancée de Liste sur un rôle
+exl-id: 8bbdd2ee-881f-4fc7-93bc-624b9f636f95
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
-
 
 # Activer l&#39;autorisation d&#39;importation avancée de Liste sur un rôle {#enable-the-advanced-list-import-permission-on-a-role}
 
