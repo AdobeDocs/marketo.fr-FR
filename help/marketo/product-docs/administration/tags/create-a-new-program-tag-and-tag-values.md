@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360272
-description: Création de valeurs de balise et de balise de Programme - Documentation sur le marketing - Documentation du produit
+description: Création de valeurs de balise et de balise de Programme - Documents Marketo - Documentation du produit
 title: Création d’une balise et d’une balise de Programme
+exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 
 ---
-
 
 # Créer une balise de Programme et des valeurs de balise {#create-a-new-program-tag-and-tag-values}
 
