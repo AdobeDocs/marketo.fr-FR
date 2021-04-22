@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951114
-description: Notes de mise à jour - Juin 2012 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Juin 2012 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Juin 2012
+exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
-
 # Notes de mise à jour : Juin 2012 {#release-notes-june}
 
-## Améliorations de la gestion des pistes marketing {#marketo-lead-management-enhancements}
+## Améliorations apportées à la gestion des pistes de Marketo {#marketo-lead-management-enhancements}
 
 ### Renommer {#rename}
 
@@ -23,11 +23,11 @@ Et, en bonus, nous avons amélioré la saisie et l&#39;affichage du texte de des
 
 ![](assets/image2014-9-23-10-3a23-3a10.png)
 
-## Mappage des champs d’importation {#import-field-mapping}
+## Importer l&#39;appariement des champs {#import-field-mapping}
 
-Nous avons rendu l&#39;importation d&#39;une liste dans Marketo beaucoup plus facile ! Au cours du processus d’importation, vous pouvez associer le nom du champ Marketo au nom de l’en-tête de colonne dans le fichier d’importation. En outre, dans Admin, vous pouvez configurer des noms d’alias associés au nom du champ dans Marketing Cloud, afin que vos utilisateurs sélectionnent le champ approprié à chaque fois.
+Nous avons rendu l&#39;importation d&#39;une liste dans Marketo beaucoup plus facile ! Au cours du processus d’importation, vous pouvez associer le nom du champ Marketo au nom de l’en-tête de colonne dans le fichier d’importation. En outre, dans Admin, vous pouvez configurer des noms d’alias associés au nom du champ dans Marketo, afin que les utilisateurs sélectionnent le champ approprié à chaque fois.
 
-Au fur et à mesure que vous continuez à importer et à mapper des champs, Marketo se souviendra et affichera les mappages pendant l’importation, pour une utilisation aisée. Et pour simplifier la vie, vous pouvez cliquer sur l’en-tête Valeur d’exemple pour afficher les différentes valeurs qui seront renseignées dans le champ. Cela vous permet de faire correspondre le bon champ à chaque fois !
+Au fur et à mesure que vous continuez à importer et à mapper des champs, Marketo se souviendra et affichera les mappages pendant l’importation, afin de faciliter leur utilisation. Et pour simplifier la vie, vous pouvez cliquer sur l’en-tête Valeur d’exemple pour afficher les différentes valeurs qui seront renseignées dans le champ. Cela vous permet de faire correspondre le bon champ à chaque fois !
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
@@ -79,7 +79,7 @@ Remarque : A compter de cette version, le tri précédent sur les grilles de lis
 
 Rappel : Mise à niveau du rapport de performances du courriel en cours !
 
-## Améliorations des analyses du cycle des recettes marketing {#marketo-revenue-cycle-analytics-enhancements}
+## Améliorations apportées à l’analyse du cycle des recettes de Marketo {#marketo-revenue-cycle-analytics-enhancements}
 
 ### Nouvelles mesures dans l&#39;Analyse d&#39;opportunités de Programme {#new-metrics-in-program-opportunity-analysis}
 
