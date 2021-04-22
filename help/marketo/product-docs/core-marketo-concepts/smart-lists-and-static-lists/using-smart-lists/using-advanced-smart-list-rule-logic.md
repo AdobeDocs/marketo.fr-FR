@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146901
-description: Utilisation de la logique avancée des règles de Liste intelligente - Documents marketing - Documentation du produit
+description: Utilisation de la logique avancée des règles de Liste intelligente - Docs Marketo - Documentation du produit
 title: Utilisation de la logique avancée des règles de Liste intelligente
+exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
-
 
 # Utilisation de la logique de règle de Liste intelligente avancée {#using-advanced-smart-list-rule-logic}
 
