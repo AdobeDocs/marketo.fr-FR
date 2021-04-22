@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571822
-description: Étape 1 sur 3 - Installation de la solution Marketo (en ligne) - Documentation sur le marketing - Documentation sur le produit
+description: Étape 1 sur 3 - Installation de la solution Marketo (en ligne) - Documents Marketo - Documentation du produit
 title: Étape 1 sur 3 - Installation de la solution Marketo (en ligne)
+exl-id: 593fc014-db38-42cc-8f9f-0dd8307751e8
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 0%
 
 ---
-
 
 # Étape 1 sur 3 : Installer la solution Marketo (en ligne) {#step-of-install-the-marketo-solution-online}
 
@@ -18,16 +18,16 @@ Avant de pouvoir synchroniser Microsoft Dynamics 365 et Marketo, vous devez d&#3
 >[!CAUTION]
 >
 >* N&#39;activez pas la synchronisation d&#39;entité personnalisée avant la synchronisation initiale. Une fois la synchronisation initiale terminée, vous en serez averti par courrier électronique.
->* Si l&#39;authentification multifacteur (MFA) est activée pour Dynamics Sync, vous devez la désactiver pour que Dynamics se synchronise correctement avec Marketo. Pour de plus amples informations, veuillez contacter [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+>* Si l&#39;authentification multifacteur (MFA) est activée pour Dynamics Sync, vous devez la désactiver pour que Dynamics se synchronise correctement avec Marketo. Pour de plus amples informations, veuillez contacter le [Support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 
 >[!NOTE]
 >
->Une fois que vous avez synchronisé Marketo sur un service de gestion de la relation client, vous ne pouvez pas effectuer une nouvelle synchronisation sans remplacer l’instance.
+>Après avoir synchronisé Marketo avec un service de gestion de la relation client, vous ne pouvez pas effectuer une nouvelle synchronisation sans remplacer l’instance.
 
 >[!PREREQUISITES]
 >
->[Téléchargement de la solution de gestion des pistes marketing](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Téléchargement de la solution Marketo Lead Management](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
 1. Connectez-vous à **[Microsoft Office 365](https://login.microsoftonline.com/)**.
 
@@ -45,7 +45,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 365 et Marketo, vous devez d&#3
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Cliquez sur **Choisir un fichier.** Sélectionnez la solution de gestion des pistes marketing que vous avez  [téléchargée](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Cliquez sur **Suivant**.
+1. Cliquez sur **Choisir un fichier.** Sélectionnez la solution de gestion des pistes Marketo que vous avez  [téléchargée](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Cliquez sur **Suivant**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -77,15 +77,15 @@ Avant de pouvoir synchroniser Microsoft Dynamics 365 et Marketo, vous devez d&#3
 
    >[!NOTE]
    >
-   >Un message indiquant &quot;Gestion des pistes marketing terminée avec un avertissement&quot; peut s’afficher. On s&#39;y attend pleinement.
+   >Un message peut s’afficher indiquant que la gestion des pistes Marketo s’est terminée avec un avertissement. On s&#39;y attend pleinement.
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
-1. La gestion des pistes marketing apparaîtra désormais dans la liste des solutions.
+1. La gestion des pistes de Marketo apparaît désormais dans la liste des solutions.
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. Sélectionnez **Gestion des pistes marketing** et cliquez sur **Publier toutes les personnalisations.**
+1. Sélectionnez **Gestion des pistes Marketo** et cliquez sur **Publier toutes les personnalisations.**
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
@@ -93,4 +93,4 @@ Avant de pouvoir synchroniser Microsoft Dynamics 365 et Marketo, vous devez d&#3
 
    >[!MORELIKETHIS]
    >
-   >[Étape 2 sur 3 : Configurer un utilisateur de synchronisation de marketing dans Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+   >[Étape 2 sur 3 : Configurer l&#39;utilisateur Marketo Sync dans Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
