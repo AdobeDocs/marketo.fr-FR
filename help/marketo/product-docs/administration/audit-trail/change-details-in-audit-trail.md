@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11379928
-description: Détails des modifications dans la piste d’audit - Documents marketing - Documentation du produit
+description: Détails des modifications dans la piste d’audit - Documentation Marketo - Documentation du produit
 title: Modifier les détails dans la piste d’audit
+exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1913'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-
 # Détails des modifications dans la piste d&#39;audit {#change-details-in-audit-trail}
 
-Les offres de piste d’audit fournissent une grande quantité d’informations sur qui fait quoi dans votre abonnement Marketo. Voici les détails.
+Les offres de la piste d&#39;audit fournissent beaucoup d&#39;informations sur qui fait quoi dans votre abonnement Marketo. Voici les détails.
 
-## Piste d&#39;audit des ressources {#asset-audit-trail}
+## Journal d’audit de la ressource {#asset-audit-trail}
 
 <table> 
  <colgroup> 
@@ -47,7 +47,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td>Modifier le canal</td> 
+   <td>Modifier canal</td> 
    <td>Nouveau canal "nouveau nom du canal" Ancien canal "ancien nom du canal" </td> 
   </tr> 
   <tr> 
@@ -84,14 +84,14 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td colspan="1">Modification de la configuration des programmes</td> 
-   <td colspan="1">Supprimer le coût de la période. Valeur "#" programme mois "aaaa-mm"</td> 
+   <td colspan="1">Supprimer le coût par période. Valeur "#" programme mois "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td>Exporter</td> 
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td rowspan="19"><strong>Courriel</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>E-mails</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Créer</td> 
    <td>Créé à l’aide du modèle "nom du modèle" <br>ou <br>cloné à partir de "nom du fichier"</td> 
   </tr> 
@@ -125,7 +125,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Extrait de code supprimé</td> 
+   <td>Extrait supprimé</td> 
   </tr> 
   <tr> 
    <td>Modifier</td> 
@@ -137,7 +137,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Modifier le module <code>"<module name>" <attribute></code> à "value"</td> 
+   <td>Modifier le module <module name><attribute> à "value"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
@@ -164,7 +164,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td>Version préliminaire</td> 
+   <td>Brouillon</td> 
    <td>Le courrier électronique a été rédigé car le fragment de code "nom du fragment de code" a été approuvé<br>ou<br>Le courrier électronique a été rédigé car le modèle "nom du modèle" a été approuvé.</td> 
   </tr> 
    <td rowspan="17">Programme de courriel</td> 
@@ -188,7 +188,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td>Modifier le canal</td> 
+   <td>Modifier canal</td> 
    <td>Nouveau canal "nouveau canal" Ancien canal "ancien canal"</td> 
   </tr> 
   <tr> 
@@ -233,10 +233,10 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td colspan="1">Modification de la configuration des programmes</td> 
-   <td colspan="1">Supprimer le coût de la période. Valeur "#" programme mois "aaaa-mm"</td> 
+   <td colspan="1">Supprimer le coût par période. Valeur "#" programme mois "aaaa-mm"</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Modèle de courriel</td> 
+   <td rowspan="8">Modèle d’e-mail</td> 
    <td>Créer</td> 
    <td>Vierge ou clonée à partir du "nom du modèle"</td> 
   </tr> 
@@ -269,7 +269,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td rowspan="23">Programme d’engagement</td> 
+   <td rowspan="23">Programmes d'engagement</td> 
    <td>Créer</td> 
    <td>Type de canal "canal type"<br> ou <br> Cloné à partir de "programme name"</td> 
   </tr> 
@@ -286,16 +286,16 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td>Modifier le canal</td> 
+   <td>Modifier canal</td> 
    <td>Nouveau canal "nouveau canal" Ancien canal "ancien canal"</td> 
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
-   <td><p>Flux d’Ajoute</p><p>Nom "name" Placement "#"</p></td> 
+   <td><p>Ajouter un stream</p><p>Nom "name" Placement "#"</p></td> 
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
-   <td><p>Modifier le flux</p><p>Nouveau nom du flux : "nouveau nom" Ancien nom du flux : "ancien nom"</p><p>Nouvel emplacement : "new #" Ancien emplacement : "old #"</p></td> 
+   <td><p>Modifier le stream</p><p>Nouveau nom du flux : "nouveau nom" Ancien nom du flux : "ancien nom"</p><p>Nouvel emplacement : "new #" Ancien emplacement : "old #"</p></td> 
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
@@ -343,7 +343,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Modification de la configuration des programmes</td> 
-   <td>Modifiez l’état du programme. Nouvelle valeur "on/off" Ancienne valeur "off/on"</td> 
+   <td>Modifier le statut du programme. Nouvelle valeur "on/off" Ancienne valeur "off/on"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modification de la configuration des programmes</td> 
@@ -355,7 +355,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td colspan="1">Modification de la configuration des programmes</td> 
-   <td colspan="1">Supprimer le coût de la période. Valeur "#" programme mois "aaaa-mm"</td> 
+   <td colspan="1">Supprimer le coût par période. Valeur "#" programme mois "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td>Exporter</td> 
@@ -379,7 +379,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>Cloné sur l'espace de travail "nom de l'espace de travail" <br>Emplacement "dossier de campagne" ou "programme d'engagement" <br>Nom du programme cloné "nouveau nom"</td> 
   </tr> 
   <tr> 
-   <td>Modifier le canal</td> 
+   <td>Modifier canal</td> 
    <td>Nouveau canal "nouveau canal" Ancien canal "ancien canal" </td> 
   </tr> 
   <tr> 
@@ -424,7 +424,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td colspan="1">Modification de la configuration des programmes</td> 
-   <td colspan="1">Supprimer le coût de la période. Valeur "#" programme mois "aaaa-mm"</td> 
+   <td colspan="1">Supprimer le coût par période. Valeur "#" programme mois "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modification de la configuration des programmes</td> 
@@ -456,7 +456,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>Jeton supprimé "token_name"</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Forms</td> 
+   <td rowspan="8">Formulaires</td> 
    <td>Créer</td> 
    <td>Bientôt disponible. En savoir plus ou Cloné à partir du "nom du formulaire"</td> 
   </tr> 
@@ -474,11 +474,11 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Modification des paramètres de formulaire </td> 
+   <td>Paramètres du formulaire modifiés </td> 
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Détails des champs modifiés</td> 
+   <td>Informations sur le champ modifié</td> 
   </tr> 
   <tr> 
    <td>Cloner</td> 
@@ -489,12 +489,12 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>Déplacé vers "Design Studio" dans le dossier "folder name"<br>ou<br>Déplacé vers "Marketing activités" dans le programme "programme name"</td> 
   </tr> 
   <tr> 
-   <td>Forms</td> 
+   <td>Formulaires</td> 
    <td>Approuver</td> 
    <td>Utilisé par # les ressources </td> 
   </tr> 
   <tr> 
-   <td rowspan="9">landing page</td> 
+   <td rowspan="9">Landing page</td> 
    <td>Créer</td> 
    <td>Créé à l’aide du modèle "nom du modèle" <br>ou <br>cloné à partir de "nom du fichier"</td> 
   </tr> 
@@ -531,7 +531,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td>Version préliminaire</td> 
+   <td>Brouillon</td> 
    <td>Le landing page a été rédigé car le modèle "nom du modèle" a été approuvé</td> 
   </tr> 
   <tr> 
@@ -539,7 +539,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Modèle de landing page</td> 
+   <td rowspan="8">Modèle de page de destination</td> 
    <td>Créer</td> 
    <td><p>Vierge<br>ou<br>cloné à partir de "nom de fichier"</p></td> 
   </tr> 
@@ -593,7 +593,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>Nouveau nom "nouveau nom", prénom "nom précédent"</td> 
   </tr> 
   <tr> 
-   <td rowspan="12">Campaign intelligente</td> 
+   <td rowspan="12">Campagne intelligente</td> 
    <td>Créer</td> 
    <td>S/O</td> 
   </tr> 
@@ -718,7 +718,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
  </tbody> 
 </table>
 
-## Piste d’audit de l’administrateur {#admin-audit-trail}
+## Journal d’audit de l’administrateur {#admin-audit-trail}
 
 <table> 
  <colgroup> 
@@ -738,7 +738,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>Modification des restrictions d’adresse IP aux suivantes : "Bloc" autorisé/bloqué, adresse IP "#", Restrictions IP désactivées ""</td> 
   </tr> 
   <tr> 
-   <td rowspan="2">Partition</td> 
+   <td rowspan="2">Division</td> 
    <td>Créer</td> 
    <td>Partition créée avec le nom "partition name"</td> 
   </tr> 
@@ -747,7 +747,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>partition "nom de la partition" supprimée</td> 
   </tr> 
   <tr> 
-   <td>Force du mot de passe</td> 
+   <td>Niveau de sécurité du mot de passe</td> 
    <td>Modifier</td> 
    <td>La sécurité du mot de passe a été remplacée par le modèle : Sécurité standard, longueur minimale : #, inférieur supérieur : #, number : #, casse mixte : #, expiration : #, expiration de session : #</td> 
   </tr> 
@@ -765,7 +765,7 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
    <td>Rôle Modifié de "nom précédent" en "nouveau nom" (REMARQUE : si vous avez besoin de détails sur les autorisations modifiées, contactez l'assistance) - <br>affiche un instantané des autorisations attribuées au rôle<br></td> 
   </tr> 
   <tr> 
-   <td>Rapport de liste intelligente</td> 
+   <td>Rapport des listes intelligentes</td> 
    <td>Modifier</td> 
    <td>SmarList modifié pour la connexion à télécharger : "true" ou "false"</td> 
   </tr> 
@@ -813,4 +813,3 @@ Les offres de piste d’audit fournissent une grande quantité d’informations 
 >[!MORELIKETHIS]
 >
 >[Filtrage dans la piste d’audit](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-
