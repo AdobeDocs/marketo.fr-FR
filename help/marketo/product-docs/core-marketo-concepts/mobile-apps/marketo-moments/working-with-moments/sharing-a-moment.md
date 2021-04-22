@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783559
-description: Partage d'un moment - Documents marketing - Documentation du produit
+description: Partage d'un moment - Marketo Docs - Documentation du produit
 title: Partager un moment
+exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Partage d&#39;un moment {#sharing-a-moment}
 
@@ -37,4 +37,4 @@ Vous souhaitez mettre à jour votre équipe ? Vous avez le choix entre deux opti
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)
 
-   Super boulot !
+   Bon boulot !
