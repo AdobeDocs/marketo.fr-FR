@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360358
-description: Limiter la connexion de l’utilisateur à l’authentification unique - Documents marketing - Documentation du produit
-title: Restreindre la connexion utilisateur à SSO uniquement
+description: Restreindre la connexion utilisateur à l’authentification unique - Marketo Docs - Documentation du produit
+title: Limiter la connexion de l'utilisateur aux connexions par signature unique
+exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# Limiter la connexion de l’utilisateur à l’authentification unique {#restrict-user-login-to-sso-only}
+# Limiter la connexion de l&#39;utilisateur aux connexions par signature unique {#restrict-user-login-to-sso-only}
 
 Si vous utilisez [SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) et souhaitez vous assurer que les utilisateurs ne peuvent pas contourner la sécurité de l’authentification unique, suivez ces instructions.
 
@@ -37,7 +37,7 @@ Si vous utilisez [SSO](/help/marketo/product-docs/administration/additional-inte
 
 >[!TIP]
 >
->Si vous sélectionnez **Exiger une authentification unique**, vous pouvez exclure un [rôle utilisateur](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) de cette restriction en cochant l&#39;option **Contourner la connexion unique** lors de la configuration du rôle. Cela permet aux utilisateurs de se connecter normalement. Par exemple, les administrateurs peuvent toujours avoir à se connecter à Marketing Cloud par l’intermédiaire de l’écran de connexion.
+>Si vous sélectionnez **Exiger une authentification unique**, vous pouvez exclure un [rôle utilisateur](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) de cette restriction en cochant l&#39;option **Contourner la connexion unique** lors de la configuration du rôle. Cela permet aux utilisateurs de se connecter normalement. Par exemple, les utilisateurs administrateurs peuvent encore avoir à se connecter à Marketo par le biais de l’écran de connexion.
 
 >[!CAUTION]
 >
@@ -49,5 +49,5 @@ C&#39;est tout ! Désormais, tous les utilisateurs (à l’exception des utilisa
 >
 >* [Ajouter la connexion unique à un portail](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [Utilisation d’un ID universel pour la connexion à un Abonnement](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [Invitation d’utilisateurs de Marketing Cloud à deux instances avec un ID universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Invitation d’utilisateurs Marketo à deux instances avec un identifiant universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
