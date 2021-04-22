@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512524
-description: Bonnes pratiques pour les Listes intelligentes - Documentation marketing - Documentation du produit
+description: Bonnes pratiques pour les Listes intelligentes - Documents Marketo - Documentation du produit
 title: Bonnes pratiques pour les Listes dynamiques
+exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
-
 
 # Bonnes pratiques pour les Listes dynamiques {#best-practices-for-smart-lists}
 
@@ -21,7 +21,7 @@ Pour les rendre faciles à utiliser et à optimiser les performances, nous avons
 >
 >**Chaque client est différent.** Plus la base de données est grande, plus le traitement est important. Plus vous avez enregistré d&#39;activités, plus il faut de temps pour les parcourir.
 >
->Si vous rencontrez une lenteur, essayez les conseils ci-dessous. Si le problème persiste, contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si vous rencontrez une lenteur, essayez les conseils ci-dessous. Si le problème persiste, contactez le [Support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. **Historique des limites - Les filtres** d&#39;historique (les filtres d&#39;Activité) comptent parmi les opérations les plus gourmandes en ressources et les plus chronophages. Si vous devez les utiliser, tentez de limiter la plage de dates au plus court possible, ce qui réduirait l&#39;ensemble de données pouvant faire l&#39;objet de recherches.
 1. **Limiter les listes intelligentes imbriquées :** lors de la création d’une liste intelligente, limitez la quantité de filtres &quot;Membre de la Liste intelligente&quot; utilisés. Il s’agit de l’imbrication de listes dynamiques, et chaque liste intelligente référencée augmente le temps de traitement. Faites plutôt référence à des listes statiques ou utilisez [segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
@@ -36,4 +36,4 @@ Pour les rendre faciles à utiliser et à optimiser les performances, nous avons
 
 >[!TIP]
 >
->Le marketing peut être utilisé de nombreuses manières et certaines techniques sont meilleures pour vous et votre entreprise. Envisagez [les services professionnels du marketing](https://pages2.marketo.com/72-hour-survival-guide.html) pour que votre investissement soit brillant.
+>Marketo peut être utilisé de plusieurs manières et certaines techniques sont meilleures pour vous et votre entreprise. Envisagez [les services professionnels de Marketo](https://pages2.marketo.com/72-hour-survival-guide.html) pour que votre investissement soit brillant.
