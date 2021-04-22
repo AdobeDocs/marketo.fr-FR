@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147150
-description: Utiliser des balises dans un Programme - Documents marketing - Documentation du produit
+description: Utiliser des balises dans un Programme - Documents Marketo - Documentation du produit
 title: Utiliser des balises dans un Programme
+exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # Utiliser des balises dans un Programme {#use-tags-in-a-program}
 
@@ -51,7 +51,7 @@ Les balises sont des attributs qui décrivent vos programmes et sont utilisés p
 
    ![](assets/image2014-9-23-15-3a46-3a25.png)
 
-1. Super ! Les modifications doivent être répercutées dans la trame.
+1. Fantastique ! Les modifications doivent être répercutées dans la trame.
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
