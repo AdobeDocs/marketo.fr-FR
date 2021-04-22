@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953432
-description: Synchronisation CRM - Documents marketing - Documentation du produit
-title: CRM Sync
+description: Synchronisation CRM - Documentation Marketo - Documentation du produit
+title: Synchronisation CRM
 translation-type: tm+mt
 source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 7%
 
 ---
 
