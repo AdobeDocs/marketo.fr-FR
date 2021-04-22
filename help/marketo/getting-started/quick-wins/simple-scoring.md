@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359414
-description: Scores simples - Documents marketing - Documentation du produit
-title: Score simple
+description: Score simple - Marketo Docs - Documentation du produit
+title: Évaluation simple
+exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '374'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-
-# Score simple {#simple-scoring}
+# Évaluation simple {#simple-scoring}
 
 >[!PREREQUISITES]
 >
 >* [Configurer et Ajouter une personne](get-set-up-and-add-a-person.md)
->* [landing page avec un formulaire](landing-page-with-a-form.md)
+>* [Page de destination avec un formulaire](landing-page-with-a-form.md)
 
 
-## Étape 1 : Créer un Campaign de score {#step-create-a-scoring-campaign}
+## Étape 1 : Créer une campagne d&#39;évaluation {#step-create-a-scoring-campaign}
 
 1. Accédez à la zone **Activités marketing**.
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Les campagnes de notation de qualité sont essentielles pour fournir des personnes de qualité aux ventes. Consultez le [**Guide de définition du score de piste**](https://www.marketo.com/definitive-guides/lead-scoring/).
+   >Les campagnes de notation de qualité sont essentielles pour fournir des personnes de qualité aux ventes. Lisez le [**Guide exhaustif de Lead Scoring**](https://www.marketo.com/definitive-guides/lead-scoring/).
 
 1. Cliquez sur l&#39;onglet **Planification** et sur le bouton **Activer**.
 
@@ -91,13 +91,13 @@ ht-degree: 0%
 >
 >Une fois principale, cette campagne s’exécute chaque fois qu’une personne remplit le formulaire. La campagne continue à s’exécuter jusqu’à ce qu’elle soit désactivée.
 
-## Étape 2 : Remplir le formulaire {#step-fill-out-the-form}
+## Étape 2 : Remplir le formulaire {#step-fill-out-the-form}
 
 1. Sélectionnez le landing page que vous avez créé dans le Landing page [avec une victoire rapide Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
    ![](assets/fourteen-1.png)
 
-1. Cliquez sur **Vue Page approuvée**. Le landing page s’ouvre dans un nouvel onglet.
+1. Cliquez sur **Afficher la page approuvée**. Le landing page s’ouvre dans un nouvel onglet.
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
@@ -128,6 +128,6 @@ Les détails de votre personne s&#39;ouvriront dans un nouvel onglet ou une nouv
 ![](assets/twenty.png)
 
 **Félicitations !** Vous avez créé une campagne de score.
-[Mission 2 : landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[◄ Mission 2 : Page de destination avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-[Mission 4 : ► Réponse automatique par courriel](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[Mission 4 : Réponse e-mail automatique ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
