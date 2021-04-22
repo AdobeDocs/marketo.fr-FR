@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6848705
-description: Meilleure pratique - Comment organiser vos Programmes - Docs marketing - Documentation sur les produits
+description: Meilleure pratique - Comment organiser vos Programmes - Marketo Docs - Documentation du produit
 title: Meilleure pratique - Comment organiser vos Programmes
+exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '843'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Bonne pratique : Comment organiser vos Programmes {#best-practice-how-to-organize-your-programs}
 
@@ -27,26 +27,26 @@ Dans les Activités marketing, vous devez utiliser des dossiers pour organiser v
 >
 >**Exemple**
 >
->* Programmes marketing principaux
-   >   * Courriers électroniques
+>* Programmes marketing actifs
+   >   * E-mails
    >   * Événements
       >      * Événements en direct / Journaux
-      >      * Références commerciales
+      >      * Salons professionnels
       >      * Webinaires
-   >   * Bulletins
-   >   * Infirmière
+   >   * Bulletins d’information
+   >   * Fidélisation
    >   * Contenu Web
-   >   * formulaires web
->* Formation
+   >   * Formulaires Web
+>* Apprentissage
 >* Opérationnel
    >   * Cycle de vie
-   >   * Scores
-   >   * data Management
->* Insight commercial
-   >   * Moments intéressants
-   >   * Courriers électroniques des ventes
+   >   * Segmentation comportementale
+   >   * Gestion des données
+>* Perspectives commerciales
+   >   * Moments significatifs
+   >   * E-mails de vente
    >   * Campagnes demandées par les ventes
->* **Archiver**
+>* **Archive**
    >   * Événements d&#39;archivage
       >      * Archive 2012
       >      * Archive 2013
@@ -113,7 +113,7 @@ Vous pouvez également créer un programme de messagerie en tant que programme a
 
 ## Clonage {#cloning}
 
-L&#39;une des fonctionnalités les plus cool de Marketo est la possibilité de cloner des programmes. Cela signifie que vous pouvez configurer un &quot;modèle&quot; de programme contenant toutes les campagnes et tous les courriers électroniques intelligents que vous souhaitez. Configurez-le à l’avance, puis clonez-le pour votre prochaine initiative marketing.
+L&#39;une des fonctionnalités les plus cool de Marketo est la capacité à cloner des programmes. Cela signifie que vous pouvez configurer un &quot;modèle&quot; de programme contenant toutes les campagnes et tous les courriers électroniques intelligents que vous souhaitez. Configurez-le à l’avance, puis clonez-le pour votre prochaine initiative marketing.
 
 >[!TIP]
 >
@@ -121,6 +121,6 @@ L&#39;une des fonctionnalités les plus cool de Marketo est la possibilité de c
 
 Certaines personnes font même abstraction de la majeure partie du texte des courriels et landings page en jetons. Vous pouvez ainsi cloner puis modifier les jetons. Enfin, allez à la vue de Planning du programme et ajustez les dates et vous avez terminé. Voila !
 
-## Résumé {#summary}
+## Sommaire {#summary}
 
-Comme vous pouvez le voir, il y a beaucoup de pouvoir dans Marketo. Nous avons traité des concepts de base ici, mais considérons certains [services supplémentaires de Marketo Experts](https://www.marketo.com/services/) pour affiner et vous préparer au succès.
+Comme vous pouvez le voir, il y a beaucoup de pouvoir à Marketo. Nous avons traité des bases ici, mais considérons certains services [supplémentaires de Marketo Experts](https://www.marketo.com/services/) pour affiner et vous préparer au succès.
