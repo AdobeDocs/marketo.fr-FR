@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951119
-description: Notes de mise à jour - Avril 2012 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Avril 2012 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - avril 2012
+exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '376'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Notes de mise à jour : Avril 2012 {#release-notes-april}
 
@@ -32,7 +32,7 @@ Nous avons simplifié l&#39;URL de confirmation en créant un jeton membre qui a
 
 ## Téléchargez plusieurs images et fichiers en un seul clic ! {#upload-multiple-images-and-files-with-a-single-click}
 
-Gagnez du temps et gagnez en efficacité lors de l’importation d’images et de fichiers dans Marketo ! Si vous utilisez Firefox ou Google Chrome, vous pouvez sélectionner plusieurs fichiers et les télécharger simultanément. Bien qu’il n’y ait aucune limite au nombre de fichiers que vous pouvez télécharger, la taille maximale par fichier est de 50 Mo.
+Gagnez du temps et soyez plus efficace lors de l&#39;importation d&#39;images et de fichiers dans Marketo ! Si vous utilisez Firefox ou Google Chrome, vous pouvez sélectionner plusieurs fichiers et les télécharger simultanément. Bien qu’il n’y ait aucune limite au nombre de fichiers que vous pouvez télécharger, la taille maximale par fichier est de 50 Mo.
 
 Remarque : Actuellement, cette fonctionnalité n’est pas prise en charge dans Internet Explorer, en raison des limitations du navigateur.
 
@@ -40,7 +40,7 @@ Remarque : Actuellement, cette fonctionnalité n’est pas prise en charge dans 
 
 ![](assets/image2014-9-23-10-3a4-3a46.png)
 
-## Déplacer du texte dans un courriel {#move-text-in-an-email}
+## Déplacer le texte dans un e-mail {#move-text-in-an-email}
 
 Vous pouvez réorganiser les blocs de texte dans un courrier électronique. Dans l’éditeur de texte, sélectionnez un bloc de texte ; lorsque vous cliquez sur l&#39;icône Modifier, vous voyez l&#39;option permettant de déplacer le bloc vers le haut ou vers le bas.
 
@@ -50,7 +50,7 @@ Vous pouvez réorganiser les blocs de texte dans un courrier électronique. Dans
 
 Si vous ne synchronisez pas votre abonnement avec Salesforce, vous remarquerez que tous les dossiers et actions de flux référençant Salesforce sont supprimés.
 
-## Analyses du cycle de recettes marketing {#marketo-revenue-cycle-analytics}
+## Analyses du cycle de recettes Marketo {#marketo-revenue-cycle-analytics}
 
 **Étapes de portes améliorées dans le module de modélisation du cycle de production**
 
