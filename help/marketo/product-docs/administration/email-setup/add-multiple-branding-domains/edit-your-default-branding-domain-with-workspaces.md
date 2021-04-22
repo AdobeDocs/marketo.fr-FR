@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377406
-description: Modifier votre domaine de marque par défaut avec des espaces de travail - Documents marketing - Documentation du produit
+description: Modifier votre domaine de marque par défaut avec des espaces de travail - Marketo Docs - Documentation du produit
 title: Modification de votre domaine de marque par défaut avec des espaces de travail
+exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # Modifier votre domaine de marque par défaut avec des espaces de travail {#edit-your-default-branding-domain-with-workspaces}
 
