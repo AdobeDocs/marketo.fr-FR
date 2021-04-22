@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360217
-description: Modifier les paramètres d’attribution pour Analytics - Documents marketing - Documentation du produit
+description: Modifier les paramètres d’attribution pour Analytics - Documents Marketo - Documentation du produit
 title: Modification des paramètres d’attribution pour Analytics
+exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-
 # Modifier les paramètres d’attribution pour Analytics {#change-attribution-settings-for-analytics}
 
-Vous pouvez modifier la manière dont Marketo associe les contacts aux opportunités d’attribution Première touche et Multipoint, les mesures de conversion de pistes et l’indicateur d’opportunité influencé par le marketing.
+Vous pouvez modifier la manière dont Marketo associe les contacts aux opportunités d’attribution Première touche et Multipoint, aux mesures de conversion des pistes et à l’indicateur d’opportunité influencé par le marketing.
 
 Ces paramètres auront un impact sur les rapports de l&#39;Explorateur de recettes sous [Analyse d&#39;opportunité de Programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analyse d&#39;opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) et les zones d&#39;Analyse de piste. Cela aura également une incidence sur le rapport Analyseur de Programme.
 
@@ -27,7 +27,7 @@ Ces paramètres auront un impact sur les rapports de l&#39;Explorateur de recett
 
    >[!TIP]
    >
-   >La modification de ce paramètre ne modifie aucune donnée de Marketo ; cela change simplement la façon dont vos rapports s&#39;exécutent. Cela peut être annulé à tout moment.
+   >La modification de ce paramètre ne modifie aucune donnée Marketo ; cela change simplement la façon dont vos rapports s&#39;exécutent. Cela peut être annulé à tout moment.
 
 1. Sélectionnez une option et cliquez sur **Enregistrer**.
 
@@ -45,4 +45,4 @@ Ces paramètres auront un impact sur les rapports de l&#39;Explorateur de recett
 
 >[!CAUTION]
 >
->Lors de l’utilisation de **Implicit**, Marketo examinera toujours tous les contacts associés au compte, quel que soit le rôle. **Marketo recommande vivement d’utiliser le mode** explicite. L&#39;utilisation d&#39;Implicite peut créer des faux positifs ; c&#39;est-à-dire les gens qui ont le mérite d&#39;avoir une opportunité, même s&#39;ils n&#39;ont aucune réelle influence sur cette opportunité. Utilisez Implicit avec précaution.
+>Lorsque vous utilisez **Implicit**, Marketo examine toujours tous les contacts associés au compte, quel que soit le rôle. **Marketo recommande vivement d’utiliser le mode** explicite. L&#39;utilisation d&#39;Implicite peut créer des faux positifs ; c&#39;est-à-dire les gens qui ont le mérite d&#39;avoir une opportunité, même s&#39;ils n&#39;ont aucune réelle influence sur cette opportunité. Utilisez Implicit avec précaution.
