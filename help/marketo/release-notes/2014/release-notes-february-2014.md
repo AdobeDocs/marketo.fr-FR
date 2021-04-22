@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951048
-description: Notes de mise à jour - Février 2014 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Février 2014 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Février 2014
+exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Notes de mise à jour : Février 2014 {#release-notes-february}
 
-Les fonctionnalités suivantes sont incluses dans la version de février 2014. Veuillez vérifier la disponibilité des fonctionnalités de votre édition Marketing. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers les articles détaillés de la Base de connaissances pour chaque fonctionnalité !
+Les fonctionnalités suivantes sont incluses dans la version de février 2014. Veuillez vérifier la disponibilité des fonctionnalités de Marketo Edition. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers les articles détaillés de la Base de connaissances pour chaque fonctionnalité !
 
-## Score d’engagement en tant que critères gagnants {#engagement-score-as-winning-criteria}
+## Évaluation de l’engagement comme critère gagnant {#engagement-score-as-winning-criteria}
 
 [Utilisez le ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) score d&#39;engagement pour déterminer la variante gagnante dans votre test de division A/B ou le test Champion/Challenger. Le test doit s’exécuter pendant au moins 24 heures, afin d’obtenir un score d’engagement adéquat.
 
@@ -43,7 +43,7 @@ Nous avons ajouté la note d’engagement au rapport [Performance du flux d’en
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
-## Détails du programme dans l’Analyse de courriel {#program-details-in-email-analysis}
+## Détails des programmes dans l’analyse des e-mails {#program-details-in-email-analysis}
 
 [Vous pouvez maintenant grouper vos mesures de courriel par nom de Programme, Canal et balises](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). Le nom du programme est ajouté au champ Nom du courriel lorsque le courriel est un fichier local du Programme. Le nouveau champ Nom du Programme affiche le nom du programme de la campagne dynamique qui a envoyé le courriel. Cela peut être différent du programme dans le champ Nom du courriel si le courriel est un fichier local d’un autre programme.
 
@@ -59,7 +59,7 @@ Les noms de filtre et de déclencheur suivants ont été mis à jour :
 
 ![](assets/image2014-9-22-10-3a51-3a31.png)
 
-## Améliorations apportées à Forms 2.0 {#forms-enhancements}
+## Améliorations des formulaires 2.0 {#forms-enhancements}
 
 Nous avons fourni à Forms 2.0 plusieurs mises à jour sur la &quot;qualité de vie&quot; avec cette version. Outre l&#39;activation du profilage progressif sur les formulaires incorporés, nous avons apporté des modifications au flux de travail et à l&#39;UX qui faciliteront l&#39;utilisation des fonctionnalités les plus avancées de l&#39;éditeur, [y compris les règles de visibilité](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), les pages de remerciement avancées et les champs masqués.
 
