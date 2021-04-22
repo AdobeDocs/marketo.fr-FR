@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359422
-description: Personnaliser un courrier électronique - Documents marketing - Documentation du produit
-title: Personnaliser un courriel
+description: Personnalisation d’un courrier électronique - Documents Marketo - Documentation du produit
+title: Personnaliser un e-mail
+exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# Personnaliser un courriel {#personalize-an-email}
+# Personnaliser un e-mail {#personalize-an-email}
 
 ## Mission : Rendez vos courriers électroniques personnels en ajoutant des jetons de données {#mission-make-your-emails-personal-by-adding-data-tokens}
 
 >[!PREREQUISITES]
 >
 >* [Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Envoyer un courrier électronique](/help/marketo/getting-started/quick-wins/send-an-email.md)
->* [Déchets, gouttes, culture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+>* [Envoyer un E-mail de masse](/help/marketo/getting-started/quick-wins/send-an-email.md)
+>* [Marketing goutte à goutte et fidélisation](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
 ## Étape 1 : Sélectionner un courriel à personnaliser {#step-select-an-email-to-personalize}
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Cette opération crée une copie du courrier électronique en tant que brouillon. Vous devez approuver le brouillon pour que les modifications soient mises en oeuvre.
+   >Une copie de cet e-mail sera créée en tant que brouillon. Vous devez approuver le brouillon pour que les modifications soient mises en oeuvre.
 
 Si vous n&#39;avez pas activé de blocage des fenêtres contextuelles, l&#39;éditeur de messages électroniques s&#39;ouvre dans un nouvel onglet/une nouvelle fenêtre. Sinon, cliquez deux fois sur **Modifier le brouillon**.
 
@@ -102,12 +102,12 @@ Si vous n&#39;avez pas activé de blocage des fenêtres contextuelles, l&#39;éd
 >
 >Vous avez besoin d&#39;une actualisation rapide de la façon de vous envoyer le courriel ? Voir [Envoyer un message électronique ](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
-### Fin de la mission {#mission-complete}
+### Mission accomplie {#mission-complete}
 
 Félicitations, vous avez personnalisé votre e-mail !
 
 <br> 
 
-[Mission 6 : Déchets, gouttes, culture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[◄ Mission 6 : Marketing goutte à goutte et fidélisation](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
-[Mission 8 : Alerter le représentant légal ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[Mission 8 : Prévenir un représentant commercial ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
