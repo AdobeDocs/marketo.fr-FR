@@ -1,25 +1,25 @@
 ---
 unique-page-id: 11377395
-description: Ajouter un domaine de marque supplémentaire - Documents marketing - Documentation du produit
+description: Ajouter un domaine de marque supplémentaire - Docs Marketo - Documentation du produit
 title: Ajouter un domaine de marque supplémentaire
+exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # Ajouter un domaine de marque supplémentaire {#add-an-additional-branding-domain}
 
-Ajoutez un domaine de marque supplémentaire lorsque vous exécutez plusieurs marques à partir d’une seule instance de marché et que vous souhaitez qu’elles disposent chacune de leurs propres liens de suivi de marque.
+Ajoutez un domaine de marque supplémentaire lorsque vous exécutez plusieurs marques à partir d’une seule instance Marketo et que vous souhaitez qu’elles disposent chacune de leurs propres liens de suivi de marque.
 
 >[!PREREQUISITES]
 >
 >Vous devez [remplacer le lien de suivi générique](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) par un domaine de marque avant d’ajouter d’autres domaines de marque.
 
-1. Dans Mon marketing, cliquez sur **Admin**, puis sur le lien **E-mail**.
+1. Dans Mon Marketo, cliquez sur **Admin**, puis sur le lien **Courriel**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
