@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356429
-description: Créer une Tâche dans Microsoft - Documents marketing - Documentation du produit
+description: Création de Tâche dans Microsoft - Marketo Docs - Documentation du produit
 title: Créer une Tâche dans Microsoft
+exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # Créer une Tâche dans Microsoft {#create-task-in-microsoft}
 
@@ -27,7 +27,7 @@ Par défaut, l’étape de flux se présente comme suit :
 
 >[!NOTE]
 >
->Lorsque l&#39;utilisateur de synchronisation de Marketo crée des tâches, **Due In** est un champ obligatoire pour que la tâche soit créée dans Microsoft. Si aucune valeur n’est saisie, Marketo saisit cinq jours par défaut.
+>Lorsque l&#39;utilisateur Marketo Sync crée des tâches, **Due In** est un champ obligatoire pour la tâche à créer dans Microsoft. Marketo saisit cinq jours par défaut si aucune valeur n’est saisie.
 
 Personnalisez tous les champs pour créer la tâche comme vous le souhaitez.
 
