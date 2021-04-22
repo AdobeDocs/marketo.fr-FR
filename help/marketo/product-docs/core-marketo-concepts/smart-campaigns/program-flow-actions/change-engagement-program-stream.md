@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147015
-description: Changer le flux de Programme d’engagement - Docs marketing - Documentation du produit
-title: Changer le flux de Programme d’engagement
+description: Changer le flux de Programme d’engagement - Documents Marketo - Documentation du produit
+title: Modifier le stream du programme d'engagement
+exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# Changer le flux de Programme d’engagement {#change-engagement-program-stream}
+# Modifier le stream du programme d&#39;engagement {#change-engagement-program-stream}
 
 ## Aperçu {#overview}
 
