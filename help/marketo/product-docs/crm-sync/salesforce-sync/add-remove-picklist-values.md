@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719312
-description: Ajouter/supprimer des valeurs de liste d'achat - Documents marketing - Documentation du produit
+description: Ajouter/supprimer des valeurs de liste d'achat - Documents Marketo - Documentation sur les produits
 title: Ajouter/supprimer des valeurs de liste de sélection
+exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter/supprimer des valeurs de liste d&#39;achat {#add-remove-picklist-values}
 
@@ -29,7 +29,7 @@ Lorsqu&#39;une valeur de liste de sélection est supprimée d&#39;un champ de Sa
 
 >[!NOTE]
 >
->Si un champ de piste et un champ de contact dans Salesforce ont des valeurs différentes, les valeurs en commun seront disponibles pour utilisation dans Marketing.
+>Si un champ de piste et un champ de contact dans Salesforce ont des valeurs différentes, les valeurs en commun seront disponibles pour utilisation dans Marketo.
 
 Si un champ de piste et un champ de contact dans Salesforce ont des valeurs différentes :
 
