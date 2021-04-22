@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949220
-description: SEO - Notes d'Ajoute sur les problèmes de page - Documents marketing - Documentation du produit
+description: SEO - Notes d'Ajoute sur les problèmes de page - Documents Marketo - Documentation du produit
 title: Optimisation du référencement - Remarques sur les problèmes de page Ajoutées
+exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Notes d&#39;Ajoute sur les problèmes de page {#seo-add-notes-to-page-issues}
 
