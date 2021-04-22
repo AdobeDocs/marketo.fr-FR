@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720253
-description: Notes de mise à jour - Décembre 2014 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Décembre 2014 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - décembre 2014
+exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Notes de mise à jour : Décembre 2014 {#release-notes-december}
 
-Les fonctionnalités suivantes sont incluses dans la version de décembre 2014. Veuillez vérifier la disponibilité des fonctionnalités de votre édition Marketing. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité !
+Les fonctionnalités suivantes sont incluses dans la version de décembre 2014. Veuillez vérifier la disponibilité des fonctionnalités de Marketo Edition. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité !
 
 ## Rapports Sales Insight {#sales-insight-reports}
 
@@ -23,9 +23,9 @@ Le [Rapport de performances des e-mails Sales Insight](/help/marketo/product-doc
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Audiences Facebook personnalisées {#facebook-custom-audiences}
+## Audiences personnalisées Facebook {#facebook-custom-audiences}
 
-Une fois que votre administrateur Marketo a ajouté [Facebook via Admin > Point de lancement](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), vous pouvez facilement créer, mettre à jour ou [remplacer une Audience personnalisée Facebook par des pistes provenant d’une liste statique ou intelligente Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Recherchez la nouvelle icône Facebook au bas de la grille de tête de toute liste statique ou intelligente.
+Une fois que votre administrateur Marketo a ajouté [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), vous pouvez facilement créer, mettre à jour ou [remplacer une Audience personnalisée Facebook par des pistes provenant d&#39;une liste statique Marketo ou intelligente](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Recherchez la nouvelle icône Facebook au bas de la grille de piste de toute liste statique ou intelligente.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -43,7 +43,7 @@ Une fois que votre administrateur Marketo a ajouté [Facebook via Admin > Point 
 
 [Les listes dynamiques partagées avec un autre espace de travail peuvent être ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) référencées lors de la création d’une liste ou d’un flux dynamique.
 
-## Améliorations de l&#39;importation des listes {#list-import-improvements}
+## Amélioration de l’importation des listes {#list-import-improvements}
 
 [Importez ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) des fichiers codés en UTF-16, Shift-JIS ou EUC-JP. Nous continuons à prendre en charge les fichiers codés UTF-8.
 
@@ -55,13 +55,13 @@ Les liens dans les scripts de courrier électronique seront désormais suivis et
 
 Nous avons déployé une nouvelle fonctionnalité de sécurité pour coder automatiquement des jetons HTML, qui sera activée par défaut en mars 2015. En attendant, basculez cette fonctionnalité dans Gestion des champs pour tester le comportement à l’avance. Tous les jetons de piste et de société seront codés lorsqu&#39;ils seront insérés dans des e-mails ou des landings page. Des options seront également disponibles pour les champs individuels.
 
-## Nouveaux appels d&#39;API ReST {#new-rest-api-calls}
+## Nouveaux appels API ReST {#new-rest-api-calls}
 
 Trois nouveaux appels pour l&#39;API ReST de piste et d&#39;Activité :
 
 ・ Obtenir des partitions de piste
 
-・ Associer le responsable
+· Associer le lead
 
 ・ Fusionner la piste
 
