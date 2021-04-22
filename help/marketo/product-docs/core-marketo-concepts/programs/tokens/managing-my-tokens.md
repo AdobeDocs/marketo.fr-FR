@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147116
-description: Gestion de mes jetons - Documents marketing - Documentation du produit
+description: Gestion de mes jetons - Documents Marketo - Documentation sur les produits
 title: Gestion de mes jetons
+exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-
 # Gestion de mes jetons {#managing-my-tokens}
 
-L’utilisation de jetons peut simplifier vos efforts dans Marketo. Vous pouvez utiliser [Mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (jetons personnalisés) dans les étapes de flux, les crochets Web, les courriers électroniques et les landings page. Voici comment les faire.
+L’utilisation de jetons peut simplifier vos efforts à Marketo. Vous pouvez utiliser [Mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (jetons personnalisés) dans les étapes de flux, les crochets Web, les courriers électroniques et les landings page. Voici comment les faire.
 
 >[!TIP]
 >
