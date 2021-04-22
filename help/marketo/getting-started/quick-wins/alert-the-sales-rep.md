@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359424
-description: Alerte au représentant commercial - Documents marketing - Documentation du produit
-title: Alerter le représentant commercial
+description: Alerte au représentant commercial - Marketo Docs - Documentation du produit
+title: Prévenir un représentant commercial
+exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
-# Alerter le représentant commercial {#alert-the-sales-rep}
+# Prévenir un représentant commercial {#alert-the-sales-rep}
 
 ## Mission : Alerter le représentant commercial lorsqu&#39;une personne remplit un formulaire sur votre site Web {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
@@ -19,7 +19,7 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
 >[!PREREQUISITES]
 >
->[landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>[Page de destination avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## Étape 1 : Créer un courriel d&#39;alerte {#step-create-an-alert-email}
 
@@ -43,7 +43,7 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
    ![](assets/five-5.png)
 
-1. Cliquez sur le doublon pour modifier le texte du courrier électronique.
+1. Faites un double-clic pour modifier le corps de l&#39;e-mail.
 
    ![](assets/six-5.png)
 
@@ -135,12 +135,12 @@ Pour envoyer automatiquement des e-mails d&#39;alerte aux représentants commerc
 
    >[!NOTE]
    >
-   >Cliquez sur l&#39;onglet **Informations sur la personne** dans Marketo pour afficher les informations de contact.
+   >Cliquez sur l&#39;onglet **Informations sur la personne** de Marketo pour afficher les coordonnées.
 
-## Mission terminée ! {#mission-complete}
+## Mission accomplie! {#mission-complete}
 
 <br> 
 
-[Mission 7 : Personnaliser un courriel](personalize-an-email.md)
+[◄ Mission 7 : Personnaliser un e-mail](personalize-an-email.md)
 
-[Mission 9 : Mettre à jour les données de piste ►](update-person-data.md)
+[Mission 9 : Mettre à jour les données des leads ►](update-person-data.md)
