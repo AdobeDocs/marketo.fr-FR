@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147058
-description: Annuler une exécution par lots planifiée de Campaign - Documents marketing - Documentation du produit
+description: Annuler une exécution par lots planifiée de Campaign - Marketo Docs - Documentation du produit
 title: Annulation d’une exécution de Campaign par lot planifiée
+exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Annuler l&#39;exécution d&#39;une Campaign par lot planifiée {#cancel-a-scheduled-batch-campaign-run}
 
