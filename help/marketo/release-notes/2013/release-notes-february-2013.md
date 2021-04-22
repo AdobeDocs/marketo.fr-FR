@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951103
-description: Notes de mise à jour - Février 2013 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Février 2013 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Février 2013
+exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # Notes de mise à jour : Février 2013 {#release-notes-february}
 
@@ -17,11 +17,11 @@ La version de février comprend une fonctionnalité très demandée, la prise en
 
 ## Support officiel pour Apple Safari {#official-support-for-apple-safari}
 
-Les dernières versions d’Apple Safari pour Mac et Windows sont entièrement prises en charge pour une utilisation avec la gestion des pistes de marketing. Remarque : Safari sur iOS n’est pas entièrement compatible.
+Les dernières versions d’Apple Safari pour Mac et Windows sont entièrement prises en charge pour une utilisation avec la gestion des pistes Marketo. Remarque : Safari sur iOS n’est pas entièrement compatible.
 
 ## Améliorations apportées à Webhooks {#webhooks-enhancements}
 
-Les crochets Web sont améliorés afin d’échapper aux jetons dans l’URL/la charge utile et peuvent également mettre à jour les champs de piste Marketo en analysant les réponses XML/JSON provenant de systèmes tiers (non disponibles dans Spark SMB Edition).
+Webhooks est amélioré de manière à permettre l’échappement de jetons dans l’URL/la charge utile et peut également mettre à jour les champs de piste Marketo en analysant les réponses XML/JSON provenant de systèmes tiers (non disponibles dans Spark SMB Edition).
 
 ## Point de terminaison de l&#39;API SOAP mis à jour {#updated-soap-api-endpoint}
 
@@ -29,7 +29,7 @@ Le point de terminaison de l’API SOAP préféré a été mis à jour, comme in
 
 ## Prise en charge mobile des onglets Facebook {#mobile-support-for-facebook-tabs}
 
-Les onglets Facebook publiés à partir de Marketo détectent les périphériques mobiles et les acheminent vers un landing page. Ainsi, l’utilisateur obtient le contenu approprié sur les périphériques mobiles sur lesquels les onglets Facebook ne sont pas pris en charge (disponible dans Spark, Standard, Select SMB Editions et Marketo Social Marketing).
+Les onglets facebook publiés à partir de Marketo détectent les périphériques mobiles et les acheminent vers un landing page. Ainsi, l’utilisateur obtient le contenu approprié sur les périphériques mobiles sur lesquels les onglets Facebook ne sont pas pris en charge (disponible dans Spark, Standard, Select SMB Editions et Marketo Social Marketing).
 
 ## Bientôt disponible : Prise en charge de plusieurs modèles {#coming-soon-support-for-multiple-models}
 
