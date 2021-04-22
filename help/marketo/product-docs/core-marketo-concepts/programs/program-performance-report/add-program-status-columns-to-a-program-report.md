@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147239
-description: Ajouter les colonnes d'état du Programme à un rapport Programme - Documents marketing - Documentation du produit
+description: Ajouter les colonnes d'état du Programme à un rapport Programme - Marketo Docs - Documentation du produit
 title: Ajouter les colonnes d'état du Programme à un rapport Programme
+exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter les colonnes d&#39;état du Programme à un rapport de Programme {#add-program-status-columns-to-a-program-report}
 
