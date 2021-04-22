@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359916
-description: Modifier votre mot de passe marketing - Docs marketing - Documentation du produit
-title: Modifier votre mot de passe marketing
+description: Modifier votre mot de passe Marketo - Documents Marketo - Documentation du produit
+title: Modifier votre mot de passe Marketo
+exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
-
-# Modifier votre mot de passe marketing {#change-your-marketo-password}
+# Modifier votre mot de passe Marketo {#change-your-marketo-password}
 
 Modifiez votre mot de passe Marketo en procédant comme suit.
 
-1. Tout utilisateur de Marketing peut cliquer sur son nom et **Mon compte**.
+1. Tout utilisateur Marketo peut cliquer sur son nom et **Mon compte**.
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
