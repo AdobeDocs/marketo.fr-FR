@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147136
-description: Modification des entrées dans la Vue de Planning du programme - Documents marketing - Documentation du produit
+description: Modification des entrées dans la Vue de Planning du programme - Marketo Docs - Documentation du produit
 title: Modification des entrées dans la Vue de Planning du programme
+exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # Modification des entrées dans la Vue de Planning du programme {#editing-entries-in-the-program-schedule-view}
 
@@ -39,7 +39,7 @@ Vous pouvez apporter des modifications aux différents éléments de votre progr
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. Super ! Votre description a été modifiée.
+1. Fantastique ! Votre description a été modifiée.
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
