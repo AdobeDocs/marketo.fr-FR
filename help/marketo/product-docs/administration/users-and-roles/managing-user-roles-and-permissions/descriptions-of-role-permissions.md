@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6848747
-description: Descriptions des autorisations de rôle - Documents marketing - Documentation du produit
+description: Descriptions des autorisations de rôle - Documents Marketo - Documentation du produit
 title: Descriptions des autorisations de rôle
+exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1144'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-
 # Descriptions des autorisations de rôle {#descriptions-of-role-permissions}
 
-Vous trouverez ci-dessous une liste de toutes les autorisations disponibles que vous pouvez affecter à vos rôles. Les autorisations sont généralement associées à des zones fonctionnelles spécifiques à l’intérieur de Marketing Cloud et peuvent vous aider à contrôler les zones et fonctionnalités auxquelles les utilisateurs ont accès.
+Vous trouverez ci-dessous une liste de toutes les autorisations disponibles que vous pouvez affecter à vos rôles. Les autorisations sont généralement associées à des zones fonctionnelles spécifiques à l’intérieur de Marketo et peuvent vous aider à contrôler les zones et fonctionnalités auxquelles les utilisateurs ont accès.
 
 Informations supplémentaires sur les autorisations :
 
@@ -27,7 +27,7 @@ Lorsque vous [créez ou modifiez un rôle](/help/marketo/product-docs/administra
 
 ![](assets/createnewrole.png)
 
-## Admin d&#39;accès {#access-admin}
+## Accès admin  {#access-admin}
 
 Vue et modification des paramètres dans la section Mon compte de l’administrateur.
 
@@ -44,8 +44,8 @@ Vue et modification des paramètres dans la section Mon compte de l’administra
 * Emplacement d’accès : donne aux utilisateurs l’accès à l’emplacement dans l’administration pour définir la langue, le paramètre régional, le fuseau horaire et la devise par défaut.
 * Historique de connexion à l&#39;accès - Donne aux utilisateurs l&#39;accès à l&#39;historique de connexion à l&#39;utilisateur dans la piste d&#39;audit
 * Paramètres de connexion d’accès : donne aux utilisateurs l’accès aux paramètres de connexion dans les paramètres d’administration de la sécurité, des restrictions d’adresse IP et des rapports de Liste dynamique.
-* Accès à l&#39;Activité personnalisée du marketing - Donne aux utilisateurs l&#39;accès aux Activités personnalisées du marketing dans l&#39;administration
-* Accéder à l&#39;objet personnalisé Marketo - Donne aux utilisateurs l&#39;accès aux objets personnalisés Marketo dans Admin
+* Accès à l’Activité personnalisée Marketo - Donne aux utilisateurs l’accès aux Activités personnalisées Marketo dans Admin
+* Accès à l&#39;objet personnalisé Marketo - Donne aux utilisateurs l&#39;accès aux objets personnalisés Marketo dans Admin
 * Accès à Munchkin - GIves les utilisateurs ont accès à Munchkin dans Admin, pour la définition du code de suivi, le suivi des personnes et l&#39;activation de la configuration de l&#39;API.
 * Accès à l’analyse du cycle des recettes - Donne aux utilisateurs l’accès à l’analyse du cycle des recettes dans l’administration, pour la définition du résumé de synchronisation et de l’attribution.
 * Rôles d’accès : donne aux utilisateurs l’accès à la gestion et à la modification des rôles, mais pas aux utilisateurs.
@@ -59,34 +59,34 @@ Vue et modification des paramètres dans la section Mon compte de l’administra
 * Accéder à des hameçons Web - Fournit aux utilisateurs des hameçons Web dans l’administration, pour définir des détails et des correspondances de réponses
 * Accéder aux espaces de travail et aux partitions : donne aux utilisateurs l’accès à la création, à la modification et à la suppression des espaces de travail et des partitions dans l’administration.
 
-## API d&#39;accès {#access-api}
+## Accéder à l’API  {#access-api}
 
 Donne aux utilisateurs disposant de l&#39;accès **API uniquement** **Rôle** aux API individuelles répertoriées ci-dessous.
 
-* Approbation des ressources
-* Exécuter Campaign
+* Approuver les ressources
+* Lancer la campagne
 * Activité en lecture seule
-* Métadonnées d’Activité en lecture seule
-* Fichiers en lecture seule
-* Campaign en lecture seule
+* Métadonnées d’activité en lecture seule
+* Ressources en lecture seule
+* Campagne en lecture seule
 * Société en lecture seule
 * Objet personnalisé en lecture seule
-* Personne en lecture seule
+* Individu en lecture seule
 * Compte nommé en lecture seule
 * Opportunité en lecture seule
-* Personne vendeuse en lecture seule
-* Activité en lecture-écriture
-* Métadonnées d’Activité en lecture-écriture
-* Fichiers en lecture-écriture
-* Campaign en lecture-écriture
-* Société en lecture-écriture
-* Objet personnalisé en lecture-écriture
-* Personne en lecture-écriture
-* Compte nommé en lecture-écriture
-* Opportunité de lecture-écriture
-* Personne vendeuse en lecture-écriture
+* Commercial en lecture seule
+* Activité en lecture/écriture
+* Métadonnées d’activité en lecture/écriture
+* Ressources accessibles en lecture/écriture
+* Campagne accessible en lecture/écriture
+* Société accessible en lecture/écriture
+* Objet personnalisé accessible en lecture/écriture
+* Individu accessible en lecture / écriture
+* Compte nommé en lecture / écriture
+* Opportunité accessible en lecture/écriture
+* Commercial accessible en lecture/écriture
 
-## Accès à Analytics {#access-analytics}
+## Accès Analytics {#access-analytics}
 
 Donne aux utilisateurs l’accès aux onglets Analytics, aux statistiques d’e-mail, aux rapports et aux trois éléments ci-dessous, sauf s’ils sont désactivés.
 
@@ -94,17 +94,17 @@ Donne aux utilisateurs l’accès aux onglets Analytics, aux statistiques d’e-
 * Supprimer le rapport - La désactivation supprime la possibilité pour l&#39;utilisateur de supprimer des rapports.
 * Exportation des données Analytics - La désactivation supprime la possibilité pour l’utilisateur d’exporter des données Analytics.
 
-## Presentations du calendrier d&#39;accès {#access-calendar-presentations}
+## Accéder aux présentations du calendrier {#access-calendar-presentations}
 
 Donne aux utilisateurs l&#39;accès aux présentations Calendrier - permet l&#39;affichage du bouton Presentations en bas.
 
 * Modifier le calendrier Presentations : permet aux utilisateurs de modifier des présentations dans le calendrier
 
-## Access Design Studio {#access-design-studio}
+## Accès au studio de conception {#access-design-studio}
 
 Donne aux utilisateurs l’accès à l’onglet Design Studio et à la vue de l’arborescence, mais pas aux détails.
 
-* Courriel d&#39;accès
+* Accès e-mail
    * Modifier le courrier électronique : permet aux utilisateurs de modifier, créer et cloner des courriers électroniques.
       * Optimiser le courrier électronique : permet aux utilisateurs de rendre un courrier électronique opérationnel. Voir : [Optimiser un courriel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
@@ -112,109 +112,109 @@ Donne aux utilisateurs l’accès à l’onglet Design Studio et à la vue de l�
       * Supprimer un courrier électronique : permet aux utilisateurs de supprimer des courriers électroniques.
       * Définir un domaine de marque : permet aux utilisateurs de travailler avec des domaines de marque. Voir : [Ajouter un domaine de marque supplémentaire](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
-* Accéder au modèle de courrier électronique
+* Accès modèle d&#39;e-mail
 
-   * Approuver le modèle de courrier électronique
-   * Supprimer le modèle de courrier électronique
+   * Approuver modèle d&#39;e-mail
+   * Supprimer modèle d’e-mail
    * Modifier un modèle de courrier électronique - Modifier, créer et cloner des modèles de courrier électronique
 
-* Formulaire d&#39;accès
+* Accès formulaire
 
-   * Supprimer le formulaire
+   * Supprimer formulaire
    * Modifier le formulaire - Modifier, créer et cloner des formulaires
 
-* Image d’accès
+* Accès image
 
-   * Supprimer l&#39;image
-   * Télécharger l’image
+   * Supprimer image
+   * Télécharger l&#39;image
 
-* Landing page d&#39;accès
+* Accès page de destination
 
-   * Approuver le Landing page
-   * Supprimer le Landing page
+   * Approuver page de destination
+   * Supprimer page de destination
    * Modifier le Landing page - Modifier, créer et cloner des landings page
 
-* Modèle de Landing page d&#39;accès
+* Accès modèle de page de destination
 
-   * Approuver le modèle de Landing page
-   * Supprimer le modèle de Landing page
+   * Approuver modèle page de destination
+   * Supprimer modèle de page de destination
    * Modifier un modèle de Landing page - Modifier, créer et cloner des modèles de landing page
 
-* Extrait d&#39;accès
+* Accès extrait
 
-   * Approuver un extrait de code
-   * Supprimer un extrait de code
-   * Modifier un extrait de code
+   * Approuver l’extrait
+   * Supprimer extrait
+   * Modifier extrait
 
-* Accès à l’application Social
+* Accéder à l&#39;application sociale
 
-   * Approbation de l’application Social
-   * Supprimer l’application Social
-   * Modifier l’application Social
+   * Approuver l&#39;application sociale
+   * Supprimer l&#39;application sociale
+   * Modifier l&#39;application sociale
 
-## Base de données d&#39;accès {#access-database}
+## Accès à la base de données {#access-database}
 
 Vue de la base de données ainsi que de la vue et modification des listes dynamiques/statiques.
 
-* Segmentation des accès
+* Accès segmentation
 
-   * Approuver la segmentation
-   * Supprimer la segmentation
-   * Modifier la segmentation
+   * Approuver segmentation
+   * Supprimer segmentation
+   * Modifier segmentation
 
-* Importation avancée de Liste
-* Supprimer une personne
-* Supprimer la Liste
+* Import liste avancé
+* Supprimer l’individu
+* Supprimer liste
 * Modifier une personne - Empêche la modification manuelle et l&#39;exécution d&#39;étapes de flux simples ; vous pouvez toujours modifier des personnes en exécutant des campagnes contre elles.
 * Exporter une personne - Exporter des feuilles de calcul à partir de vos listes de base de données
-* Importer un objet personnalisé
-* Liste d’importation
+* Importer l’objet personnalisé
+* Importer la liste
 * Fusionner les personnes
 * Exécuter des actions de flux unique : permet aux utilisateurs d&#39;exécuter l&#39;étape de flux **Modifier la valeur des données** sur les personnes de la base de données.
 
 * Données d&#39;opportunité de vue - Masque les informations d&#39;opportunité sur la page de détails de la personne
 
-## Accès aux Activités marketing {#access-marketing-activities}
+## Accès activité marketing {#access-marketing-activities}
 
 Vue de l’onglet Activités marketing, des campagnes et des dossiers de campagne.
 
-* Message SMS d&#39;accès
+* Accéder à un message SMS
 
-   * Approuver le message SMS
+   * Approuver un message SMS
    * Supprimer un message SMS
-   * Modifier le message SMS
+   * Modifier un message SMS
 
-* Notification Push d&#39;accès
+* Accéder à la notification Push
 
    * Approuver la notification Push
-   * Supprimer la notification Push
+   * Supprimer une notification Push
    * Modifier la notification Push
 
-* Prix Access
-* Activer le déclencheur Campaign
-* Approuver le Programme de messagerie
-* Cloner une ressource marketing
-* Supprimer un actif marketing
-* Modifier les restrictions Campaign
-* Modifier le fichier marketing
-* Programme d’importation
-* Importation liste
-* Planification de la Campaign par lot
+* Accéder aux récompenses
+* Activer la campagne à déclencheurs
+* Approuver le programme de messagerie électronique
+* Reproduire une ressource marketing
+* Supprimer ressource marketing
+* Modifier les restrictions de la campagne
+* Modifier ressource marketing
+* Importer le programme
+* Importer une liste
+* Programmer une campagne par lot
 
-Accès au référencement
+Accéder à la SEO
 
-* Administrer l’optimisation du référencement
+* Gérer une SEO
 * SEO standard
 
 ## Ciblage et personnalisation {#targeting-and-personalization}
 
-* Administration de la personnalisation Web
-* CRE Campaign Editor
-* Lancement Campaign CRE
-* Éditeur Web Campaign
-* Lancement Web Campaign
+* Gérer une personnalisation Web
+* Éditeur de campagnes CRE
+* Outil de lancement de campagnes CRE
+* Éditeur de campagnes Web
+* Outil de lancement de campagnes Web
 
-Administration de Workspace
+Gestion de l&#39;espace de travail
 
 * Accès administrateur pour un espace de travail spécifique (uniquement si les espaces de travail sont activés)
 * Déplacement de fichiers entre les espaces de travail (uniquement si les espaces de travail sont activés)
