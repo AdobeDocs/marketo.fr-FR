@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949192
-description: SEO - Concurrents d'Ajoute - Docs marketing - Documentation du produit
+description: SEO - Concurrents d'Ajoute - Marketo Docs - Documentation du produit
 title: SEO - Concurrents d’Ajoute
+exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
 translation-type: tm+mt
-source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Concurrents d&#39;Ajoute {#seo-add-competitors}
 
@@ -39,7 +39,7 @@ Les concurrents d&#39;Ajoute vous permettent de suivre leurs performances pour l
 
    ![](assets/image2014-9-17-21-3a13-3a14.png)
 
-   Félicitations ! Vous êtes un pas de plus vers l&#39;écrasement total.
+   Félicitations ! Vous êtes un pas de plus vers l&#39;écrasement total.
 
    >[!MORELIKETHIS]
    >
