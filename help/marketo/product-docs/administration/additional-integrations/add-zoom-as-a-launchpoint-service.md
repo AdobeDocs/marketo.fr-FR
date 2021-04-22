@@ -2,14 +2,14 @@
 unique-page-id: 17728028
 description: Ajouter le zoom en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter le zoom comme service LaunchPoint
+exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter le zoom en tant que service LaunchPoint {#add-zoom-as-a-launchpoint-service}
 
@@ -47,11 +47,11 @@ Marketo gère votre inscription et votre participation au zoom.
 
    ![](assets/create-1.png)
 
-   Super ! Votre compte de zoom est désormais synchronisé avec Marketo et se trouve dans la zone LaunchPoint.
+   Fantastique ! Votre compte de zoom est désormais synchronisé avec Marketo et se trouve dans la zone LaunchPoint.
 
 >[!CAUTION]
 >
->Lorsque vous mettez à jour votre mot de passe dans Zoom, vous devez également mettre à jour votre mot de passe dans Marketing.
+>Lorsque vous mettez à jour votre mot de passe dans Zoom, vous devez également le mettre à jour dans Marketo.
 
 >[!MORELIKETHIS]
 >
