@@ -1,24 +1,24 @@
 ---
 unique-page-id: 3571809
-description: Étape 3 sur 3 - Connecter Microsoft Dynamics à Marketo (2011 sur site) - Docs marketing - Documentation du produit
-title: Étape 3 sur 3 - Connecter Microsoft Dynamics au marché (local 2011)
+description: Étape 3 sur 3 - Connecter Microsoft Dynamics à Marketo (local 2011) - Marketo Docs - Documentation sur les produits
+title: Étape 3 sur 3 - Connecter Microsoft Dynamics à Marketo (local 2011)
+exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 translation-type: tm+mt
-source-git-commit: 20eb3389b267101fb277152f150c2119a5be65a8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '364'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Étape 3 sur 3 : Connecter Microsoft Dynamics à Marketo (local 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
-# Étape 3 sur 3 : Connecter Microsoft Dynamics au marché (local 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
-
-D&#39;accord ! Nous avons installé la solution et configuré l&#39;utilisateur de synchronisation. Ensuite, nous devons connecter Marketing et Dynamics.
+D&#39;accord ! Nous avons installé la solution et configuré l&#39;utilisateur de synchronisation. Ensuite, nous devons connecter Marketo et Dynamics.
 
 >[!PREREQUISITES]
 >
->* [Étape 1 sur 3 : Installation de la solution Marketo (2011 sur site)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
->* [Étape 2 sur 3 : Configurer un utilisateur de synchronisation marketing dans Dynamics (local 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>* [Étape 1 sur 3 : Installation de la solution Marketo (local 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>* [Étape 2 sur 3 : Configurer un utilisateur Marketo Sync dans Dynamics (local 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -27,7 +27,7 @@ D&#39;accord ! Nous avons installé la solution et configuré l&#39;utilisateur 
 
 ## Entrer les informations utilisateur de Dynamics Sync {#enter-dynamics-sync-user-information}
 
-1. Connectez-vous à Marketing et cliquez sur **Admin**.
+1. Connectez-vous à Marketo et cliquez sur **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -71,7 +71,7 @@ Maintenant, nous devons sélectionner les champs sur lesquels nous voulons synch
 
    >[!NOTE]
    >
-   >Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Actualisez ensuite le schéma dans Marketo en modifiant et en enregistrant les [champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+   >Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Actualisez ensuite le schéma dans Marketo en modifiant et en enregistrant [Sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Champs de synchronisation pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
