@@ -1,18 +1,18 @@
 ---
-description: Modifier les données des membres du Programme - Documents marketing - Documentation du produit
-title: Modifier les données des membres du Programme
+description: Modifier les données des membres du Programme - Documents Marketo - Documentation du produit
+title: Modifier les données du membre du programme
+exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Modifier les données du membre du programme {#change-program-member-data}
 
-# Modifier les données des membres du Programme {#change-program-member-data}
-
-Vous pouvez utiliser Marketing pour mettre à jour la valeur d’un champ en utilisant l’action de flux Modifier la valeur des données.
+Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ en utilisant l’action de flux Modifier la valeur des données.
 
 >[!NOTE]
 >
