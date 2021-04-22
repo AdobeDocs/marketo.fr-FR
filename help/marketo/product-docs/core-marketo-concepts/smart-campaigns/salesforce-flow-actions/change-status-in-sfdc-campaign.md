@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147029
-description: Modifier l’état dans SFDC Campaign - Documents marketing - Documentation du produit
-title: Modifier le statut dans SFDC Campaign
+description: Modifier le statut dans SFDC Campaign - Marketo Docs - Documentation du produit
+title: Modifier statut dans une campagne SFDC
+exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-
-# Modifier le statut dans SFDC Campaign {#change-status-in-sfdc-campaign}
+# Modifier statut dans une campagne SFDC {#change-status-in-sfdc-campaign}
 
 >[!NOTE]
 >
