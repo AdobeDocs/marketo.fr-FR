@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147074
-description: Nettoyage Campaign de déclencheur automatique - Docs marketing - Documentation du produit
-title: Nettoyage Campaign de déclencheur automatique
+description: Nettoyage Campaign Déclencheur Automatique - Docs Marketo - Documentation du produit
+title: Nettoyage des campagnes à déclencheurs automatique
+exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Nettoyage Campaign de déclencheur automatique {#automatic-trigger-campaign-cleanup}
+# Nettoyage des campagnes à déclencheurs automatique {#automatic-trigger-campaign-cleanup}
 
 Marketo dispose d’un service agréable/gratuit pour désactiver les campagnes dynamiques déclenchées qui ne reçoivent plus d’activité. Cela accélère les performances globales du système et vous fait gagner du temps.
 
 ## Que se passe-t-il ? {#what-happens}
 
-Une fois par trimestre, Marketo trouvera des campagnes intelligentes qui sont restées en sommeil (personne) pendant 6 mois ou plus et les désactivera.
+Une fois par trimestre, Marketo trouvera des campagnes intelligentes qui sont restées en sommeil (pas de personnes) pendant 6 mois ou plus et les désactivera.
 
 ## Me préviendras-tu en premier ? {#will-you-notify-me-first}
 
@@ -39,7 +39,7 @@ Bien sûr ! Une fois par trimestre, vous recevrez une notification une semaine �
 
 Nous ne désactiverons que les campagnes déclencheurs qui ont été principales depuis plus de 6 mois mais qui n&#39;ont pas eu de critères pour 0 personne au cours de cette période.
 
-## Attends ! Pas cette campagne ! {#wait-not-this-campaign}
+## Attendez ! Pas cette campagne ! {#wait-not-this-campaign}
 
 Ne vous inquiétez pas : l&#39;horloge d&#39;une campagne intelligente peut être réinitialisée par :
 
