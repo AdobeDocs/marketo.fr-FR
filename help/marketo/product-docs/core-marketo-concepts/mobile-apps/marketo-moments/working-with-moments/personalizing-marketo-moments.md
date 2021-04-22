@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8782021
-description: Personnalisation des moments marketing - Docs marketing - Documentation produit
-title: Personnalisation des moments marketing
+description: Personnalisation des moments Marketo - Marketo Docs - Documentation du produit
+title: Personnalisation des moments Marketo
+exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
-# Personnalisation des moments marketing {#personalizing-marketo-moments}
+# Personnalisation des moments Marketo {#personalizing-marketo-moments}
 
 Quand vous avez beaucoup de programmes marketing et de campagnes intelligentes, c&#39;est super de tout voir, mais vous pouvez vous concentrer uniquement sur votre propre travail.
 
