@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12255606
-description: Notes de mise à jour - Hiver 17 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Hiver 17 - Marketo Docs - Documentation sur le produit
 title: Notes de mise à jour - Hiver 17
+exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-
 # Notes de mise à jour : Hiver 17 {#release-notes-winter}
 
-Les fonctionnalités suivantes sont incluses dans la version de l’hiver 17. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
+Les fonctionnalités suivantes sont incluses dans la version de l’hiver 17. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités.
 
 Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction.
 
@@ -27,9 +27,9 @@ La Correspondance de base utilise uniquement les adresses électroniques, mais l
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API d’importation d’objet personnalisé](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [API d’importation de l’objet personnalisé](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
-Cette API fournit une interface plus rapide pour synchroniser les objets personnalisés dans Marketing. Vous pouvez importer des fichiers de feuille de calcul CSV, TSV ou SSV dans Marketo en tant qu’objets personnalisés.
+Cette API fournit une interface plus rapide pour synchroniser les objets personnalisés dans Marketo. Vous pouvez importer des fichiers de feuille de calcul CSV, TSV ou SSV dans Marketo en tant qu’objets personnalisés.
 
 ## [Exportation des campagnes de personnalisation Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
@@ -45,7 +45,7 @@ Les applications Personnalisation Web, Contenu prédictif et Statistiques par co
 
 ## Améliorations marketing basées sur le compte {#account-based-marketing-enhancements}
 
-**[Importer des comptes nommés](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
+**[Importer les comptes nommés](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 Avec l’option d’importation de compte nommé, créez ou mettez à jour plusieurs enregistrements à la fois par le biais d’un transfert CSV.
 
@@ -71,13 +71,13 @@ Filtrez l’analyse du contenu prédictif pour des sources spécifiques — Cour
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**Editeur de contenu prédictif**
+**Éditeur Predictive Content**
 
 Il existe une expérience de modification et une mise en page améliorées qui divisent la préparation du contenu par source — Courriel, Médias enrichis ou Barre de recommandations.
 
 ![](assets/predictive-content-editor.png)
 
-**[Contenu de détection automatique pour prédictif](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
+**[Découverte automatique pour Predictive Content](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
 
 L’URL de l’image et les métadonnées sont désormais utilisées dans le processus de détection automatique du contenu.
 
@@ -93,6 +93,6 @@ Améliorez votre ciblage grâce à une nouvelle option de filtre, &quot;Membre d
 
 À compter du 1er août 2017, les clients qui utilisent toujours l’ancien Editeur de texte enrichi et l’Éditeur de formulaire version 1.0 seront automatiquement transférés vers la nouvelle expérience.
 
-## [API d’Activité marketing](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## [API d’activité Marketo](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-Un changement important est apporté aux API d’activité de Marketo. Es-tu préparée ?
+Une modification importante va être apportée aux API d’activité Marketo. Es-tu préparée ?
