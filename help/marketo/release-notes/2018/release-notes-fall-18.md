@@ -1,36 +1,36 @@
 ---
 unique-page-id: 15695939
-description: Notes de mise à jour - Automne 18 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Automne 18 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Automne 18
+exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '850'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Notes de mise à jour : Automne 18 {#release-notes-fall}
 
-Les fonctionnalités suivantes sont incluses dans la version de l’automne 18. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
+Les fonctionnalités suivantes sont incluses dans la version de l’automne 18. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités.
 
 Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction, le cas échéant.
 
-## Améliorations de la plate-forme de base {#core-platform-enhancements}
+## Améliorations principales de la plateforme {#core-platform-enhancements}
 
-**[Personnalisation Web](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
+**[personnalisation Web](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
-La personnalisation Web prend désormais en charge plusieurs espaces de travail.
+La personnalisation Web prend maintenant en charge plusieurs espaces de travail.
 
-## Intervention commerciale {#marketo-sales-engage}
+## Marketo Sales Engage {#marketo-sales-engage}
 
 * **Prise en charge** de la foudre par la DDC : Les utilisateurs qui migrent vers Lightning ou qui utilisent actuellement Lightning peuvent tirer parti de MSE pour un engagement plus intelligent sur l’ensemble du parcours d’achat.
 
 * **Prise en charge étendue : Microsoft Office**
 
    * Outlook en tant que Canal de Diffusion : Les marketeurs peuvent désormais exploiter Outlook pour les engagements par courrier électronique, ce qui améliore les taux de délivrabilité et le suivi des réponses.
-   * Améliorations de la prise en charge du courrier électronique dans Office 365 : L&#39;Interactivité commerciale est directement disponible dans Outlook pour Mac, Outlook pour Windows et l&#39;Application web de messagerie Outlook pour Office 365, ce qui rend l&#39;Interactivité commerciale plus accessible à tous les utilisateurs d&#39;Office.
+   * Améliorations de la prise en charge du courrier électronique dans Office 365 : Marketo Sales Engage est directement disponible dans Outlook pour Mac, Outlook pour Windows et les clients de messagerie Outlook Application web pour Office 365, ce qui rend Marketo Sales Engage plus accessible à tous les utilisateurs d&#39;Office.
 
 * **Amélioration de l’expérience d’administration et de connexion des utilisateurs**
 
@@ -58,7 +58,7 @@ Pour plus de détails et de mises à jour, consultez nos [Notes de mise à jour 
 * **Programmes par défaut désormais disponibles dans le Marketo Sky** : Marketo Sky prend désormais en charge les programmes par défaut, le style de programme polyvalent qui vous permet de créer n’importe quelle campagne imaginable.
 * **Programmes par courriel - Phase 1** : Vous pouvez désormais vue de programmes de messagerie dans Sky. Jetez un coup d&#39;oeil à la nouvelle conception et [faites-nous savoir ce que vous pensez ](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
-## Analytics {#analytics}
+## Analyses {#analytics}
 
 **Bizible**
 
@@ -66,15 +66,15 @@ Pour plus de détails et de mises à jour, consultez nos [Notes de mise à jour 
 
    * Avec la nouvelle option de définition des règles Campaign dans les paramètres de mise en page, les clients n&#39;ont plus besoin de sauter à travers les étapes de l&#39;installation d&#39;un package ou d&#39;une solution dans leur gestion de la relation client pour commencer à utiliser Bizible. Il est désormais aussi facile de configurer un compte, de configurer les connexions de publicité et de gestion de la relation client, puis de parcourir les paramètres et configurations standard. Nous espérons que cela améliorera considérablement les temps d&#39;embarquement pour notre équipe d&#39;ingénieurs commerciaux.
 
-* **Discover GA**
+* **Découvrir GA**
 
    * Discover n&#39;est pas encore disponible en version bêta et a commencé à s&#39;étendre à de nouveaux clients. Nous migrons également notre base de clients actuelle de Bizible Measurement vers Bizible Discover. Avec le passage de la version bêta à la version GA, nous avons mis à jour le schéma de base de données pour permettre des requêtes plus efficaces et complexes.
 
-* **Connexion unique**
+* **Authentification unique**
 
    * Les clients peuvent désormais se connecter à l’application Web invisible à l’aide du fournisseur d’identité et des informations d’identification de leur société, ce qui est conforme aux exigences de sécurité de l’entreprise.
 
-**[Améliorations des performances du marketing](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Améliorations des performances de Marketo Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Améliorations de la convivialité**
 
@@ -86,15 +86,15 @@ Pour plus de détails et de mises à jour, consultez nos [Notes de mise à jour 
 * **Engagement par Activité Date** : Les utilisateurs peuvent sélectionner les mesures d’engagement de vue par date d’activité ou période de coûts.
 * **FILTRES** de compte nommé ABM : Filtrez le pipeline et les tableaux de bord de recettes selon des comptes nommés spécifiques.
 
-## Réseaux publicitaires {#ad-networks}
+## Ad Networks {#ad-networks}
 
 **[Actualiser le jeton](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
-Nous avons mis en oeuvre un jeton actualisé dans nos solutions de reciblage et de formulaire de génération de pistes LinkedIn qui prolonge le délai d&#39;accès à un an avant que la réauthentification ne soit nécessaire.
+Nous avons mis en oeuvre un jeton actualisé dans nos solutions de reciblage et de formulaire LinkedIn Lead Gen Form qui prolonge le délai d&#39;accès à un an avant que la réauthentification ne soit nécessaire.
 
 ## API {#api}
 
-**API REST de la carte de piste**
+**API REST de mappage lead**
 
 Marketo prend désormais en charge l’utilisation des champs de disposition des courriers électroniques sur les API de piste (notamment Black Listed, Marketing Suspended, Email Suspended et Relative Urgence).
 
@@ -104,4 +104,4 @@ Marketo prend désormais en charge l’utilisation des champs de disposition des
 
 >[!NOTE]
 >
->Marketo met également à niveau les bibliothèques liées à l’identité et à l’authentification. Lorsque la mise à niveau est en cours, vous pouvez constater des erreurs intermittentes si une session principale est ouverte. Si vous rencontrez des problèmes, déconnectez-vous et reconnectez-vous à votre abonnement.
+>Marketo met également à niveau les bibliothèques liées à l&#39;identité et à l&#39;authentification. Lorsque la mise à niveau est en cours, vous pouvez constater des erreurs intermittentes si une session principale est ouverte. Si vous rencontrez des problèmes, déconnectez-vous et reconnectez-vous à votre abonnement.
