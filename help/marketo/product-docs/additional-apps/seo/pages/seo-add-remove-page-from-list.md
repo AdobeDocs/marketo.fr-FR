@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949218
-description: Optimisation du référencement - Ajouter/supprimer la page de la Liste - Documents marketing - Documentation du produit
+description: SEO - Ajouter/supprimer la page de la Liste - Marketo Docs - Documentation du produit
 title: 'Optimisation du référencement : Ajouter/supprimer la page de la Liste'
+exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Ajouter/supprimer la page de la Liste {#seo-add-remove-page-from-list}
 
@@ -61,4 +61,4 @@ Ouais ! Vous devriez maintenant voir votre page ajoutée à la liste.
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-Terminé. Votre page est supprimée de la liste.
+Fait. Votre page est supprimée de la liste.
