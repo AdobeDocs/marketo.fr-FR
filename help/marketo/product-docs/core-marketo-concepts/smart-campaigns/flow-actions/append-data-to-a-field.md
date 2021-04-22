@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147042
-description: Ajouter des données à un champ - Documents marketing - Documentation du produit
+description: Ajouter des données à un champ - Documents Marketo - Documentation du produit
 title: Ajouter des données à un champ
+exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter des données à un champ {#append-data-to-a-field}
 
