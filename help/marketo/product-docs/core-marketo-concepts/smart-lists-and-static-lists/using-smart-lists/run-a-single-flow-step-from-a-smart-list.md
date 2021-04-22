@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557322
-description: Exécution d’une étape de flux unique à partir d’une Liste dynamique - Documents marketing - Documentation du produit
+description: Exécution d’une étape de flux unique à partir d’une Liste dynamique - Docs Marketo - Documentation du produit
 title: Exécution d’une étape de flux unique à partir d’une Liste dynamique
+exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Exécution d’une étape de flux unique à partir d’une Liste dynamique {#run-a-single-flow-step-from-a-smart-list}
 
@@ -47,7 +47,7 @@ Si vous souhaitez exécuter une seule étape de flux, vous pouvez utiliser une s
 
    ![](assets/runaction-hands.png)
 
-1. Saisissez une nouvelle valeur. Cliquez sur **Exécuter maintenant**.
+1. Entrer une nouvelle valeur. Cliquez sur **Exécuter maintenant**.
 
    ![](assets/runactionnewvalue-hands.png)
 
