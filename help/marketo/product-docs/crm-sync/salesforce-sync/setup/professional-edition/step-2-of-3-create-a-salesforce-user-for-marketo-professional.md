@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571797
-description: Étape 2 sur 3 - Créer un utilisateur Salesforce pour Marketo (Professional) - Docs marketing - Documentation sur le produit
+description: Étape 2 sur 3 - Créer un utilisateur Salesforce pour Marketo (Professional) - Marketo Docs - Documentation sur les produits
 title: Etape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Professional)
+exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
-
 
 # Étape 2 sur 3 : Créer un utilisateur Salesforce pour Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Étape 1 sur 3 : Ajouter les champs du marketing à Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>[Étape 1 sur 3 : Ajouter les champs Marketo à Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
-Dans cet article, vous allez personnaliser les autorisations de champ avec une mise en page Salesforce et créer un utilisateur de synchronisation Marketo-Salesforce.
+Dans cet article, vous allez personnaliser les autorisations de champ avec une mise en page de page Salesforce et créer un utilisateur de synchronisation Marketo-Salesforce.
 
 ## Définir les mises en page {#set-page-layouts}
 
-Salesforce Professional définit l&#39;accessibilité au niveau des champs avec les mises en page, contrairement aux Profils de Salesforce Enterprise/Unlimited. Suivez ces étapes pour permettre à l’utilisateur de synchronisation de Marketing de mettre à jour les champs personnalisés.
+Salesforce Professional définit l&#39;accessibilité au niveau des champs avec les mises en page, contrairement aux Profils de Salesforce Enterprise/Unlimited. Suivez ces étapes pour permettre à l’utilisateur de la synchronisation Marketo de mettre à jour les champs personnalisés.
 
 1. Tapez **dispositions de page** dans la barre de recherche Nav sans appuyer sur **Entrée**, puis cliquez sur **Mise en page** sous **Pistes**.
 
@@ -49,26 +49,26 @@ Salesforce Professional définit l&#39;accessibilité au niveau des champs avec 
 
 1. Répétez l’étape ci-dessus pour les champs suivants :
 
-   * Programme d’acquisition
+   * Programme d&#39;acquisition
    * ID de Programme d’acquisition
-   * Opt-out par courriel
-   * Ville d&#39;origine
+   * Désabonnement par e-mail
+   * Ville déduite
    * Société déduite
-   * Pays d&#39;origine
-   * Zone métropolitaine désignée
-   * Code de zone de téléphone indiqué
+   * Pays déduit
+   * Aire métropolitaine déduite
+   * Indicatif téléphonique local déduit
    * Code postal déduit
-   * Région d&#39;État désignée
-   * Note de piste
-   * Parrain original
-   * Moteur de recherche original
-   * Expression de recherche d’origine
-   * Infos source d&#39;origine
-   * Type de source original
+   * Région déduite
+   * Évaluation des leads
+   * Référent d&#39;origine
+   * Moteur de recherche d&#39;origine
+   * Phrase de recherche d&#39;origine
+   * Info source d&#39;origine
+   * Type source d&#39;origine
 
    >[!NOTE]
    >
-   >Ces champs doivent figurer sur la mise en page pour que Marketing Cloud puisse les lire/écrire.
+   >Ces champs doivent figurer sur la mise en page pour que Marketo puisse les lire/écrire.
 
    >[!TIP]
    >
@@ -92,7 +92,7 @@ Salesforce Professional définit l&#39;accessibilité au niveau des champs avec 
 
 ## Créer un utilisateur de synchronisation {#create-sync-user}
 
-Marketo requiert des informations d’identification pour accéder à Salesforce. Pour ce faire, il est préférable d’utiliser un utilisateur dédié créé en suivant les étapes ci-dessous.
+Marketo a besoin d&#39;informations d&#39;identification pour accéder à Salesforce. Pour ce faire, il est préférable d’utiliser un utilisateur dédié créé en suivant les étapes ci-dessous.
 
 >[!NOTE]
 >
@@ -118,4 +118,4 @@ Excellent ! Vous disposez maintenant d’un compte que Marketo peut utiliser pou
 
 >[!MORELIKETHIS]
 >
->[Étape 3 sur 3 : Connect Marketo and Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
+>[Étape 3 sur 3 : Connecter Marketo et Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
