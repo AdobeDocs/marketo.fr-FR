@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146948
-description: Envoyer un courrier électronique - Documents marketing - Documentation du produit
-title: Envoyer un courriel
+description: Envoyer un courrier électronique - Documents Marketo - Documentation du produit
+title: Envoyer un e-mail
+exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
-# Envoyer un courriel {#send-email}
+# Envoyer un e-mail {#send-email}
 
 ## Aperçu {#overview}
 
