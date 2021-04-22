@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147294
-description: Filtrage du calendrier marketing - Documents marketing - Documentation du produit
+description: Filtrage du calendrier marketing - Documents Marketo - Documentation du produit
 title: Filtrage du calendrier marketing
+exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Filtrage du calendrier marketing {#filtering-the-marketing-calendar}
 
@@ -43,7 +43,7 @@ Utilisez les types d&#39;entrée, les balises de programme ou les espaces de tra
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   Super ! Désormais, seules les entrées qui s’appliquent au filtre que vous venez de définir s’affichent.
+   Super ! Désormais, seules les entrées qui s’appliquent au filtre que vous venez de définir s’affichent.
 
    >[!NOTE]
    >
