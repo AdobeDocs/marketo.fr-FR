@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099363
-description: Configuration de l’iPad ou de la tablette Android - Documentation sur le marketing - Documentation du produit
+description: Configuration de l’iPad ou de la tablette Android - Marketo Docs - Documentation du produit
 title: Configuration de l’iPad ou de la tablette Android
+exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-
 # Configuration de l’iPad ou de la tablette Android {#set-up-the-ipad-or-android-tablet}
 
-Pour une expérience fluide le jour du événement, préparez votre tablette iPad ou Android et testez l’application Événements Marketo avant le événement.
+Pour une expérience fluide le événement de la journée, préparez votre tablette iPad ou Android et testez l’application Marketo Événements avant le événement.
 
-Après avoir créé le événement dans Marketo, il est chargé dans l’application iPad ou Android des Événements Marketo lorsque vous vous connectez, si :
+Après avoir créé le événement dans Marketo, il est chargé dans l’application iPad ou Android de Événements Marketo lorsque vous vous connectez, si :
 
 * Le compte a accès à votre base de données
 * Le événement est planifié à une date de la période qui début une semaine avant et se termine une semaine après la date actuelle.
@@ -45,7 +45,7 @@ Si l’application Marketo Événements n’est pas encore installée sur votre 
 
 1. Ouvrez votre tablette et appuyez sur l’application **Google Play Store**.
 1. Dans la zone Rechercher, saisissez **Marketo** et appuyez sur **Retour**.
-1. Dans les résultats de la recherche, appuyez sur l’application **Événements marketing**.
+1. Dans les résultats de la recherche, appuyez sur l’application **Marketo Événements**.
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
