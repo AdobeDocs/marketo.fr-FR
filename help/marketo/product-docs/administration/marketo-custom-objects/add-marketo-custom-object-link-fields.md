@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097613
-description: Champs de lien d'objet personnalisé Ajouter Marketo - Documents marketing - Documentation du produit
+description: Ajouter les champs de lien d’objet personnalisé Marketo - Marketo Docs - Documentation du produit
 title: Ajouter les champs de lien d’objet personnalisé Marketo
+exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
 
 ---
 
-
-# Champs de lien d&#39;objet personnalisé du marketing d&#39;Ajoute {#add-marketo-custom-object-link-fields}
+# Ajouter les champs de lien d’objet personnalisé Marketo {#add-marketo-custom-object-link-fields}
 
 Lorsque vous créez des objets personnalisés, vous devez fournir des champs de lien pour connecter l’enregistrement d’objet personnalisé à l’enregistrement parent correct.
 
@@ -22,7 +22,7 @@ Lorsque vous créez des objets personnalisés, vous devez fournir des champs de 
 
 Voici comment créer un champ de lien dans un objet personnalisé pour une structure de type &quot;un à plusieurs&quot;.
 
-1. Cliquez sur **Admin**, puis dans **Gestion de la base de données**, sélectionnez **Objets personnalisés marketing**.
+1. Cliquez sur **Admin** et dans **Gestion de la base de données**, sélectionnez **Marketo Custom Objects**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -72,7 +72,7 @@ Voici comment créer un champ de lien dans un objet intermédiaire pour une util
 >
 >Vous devez avoir déjà créé l’objet intermédiaire et les objets personnalisés vers lesquels vous souhaitez le lier.
 
-1. Cliquez sur **Admin**, puis dans **Gestion de la base de données**, sélectionnez **Objets personnalisés marketing**.
+1. Cliquez sur **Admin** et dans **Gestion de la base de données**, sélectionnez **Marketo Custom Objects**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -122,8 +122,8 @@ L’étape suivante consiste à utiliser ces objets personnalisés dans les filt
 
 >[!MORELIKETHIS]
 >
->* [Ajouter les champs d&#39;objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [Modifier et supprimer un objet personnalisé marketing](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Compréhension des objets personnalisés de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
->* [Modifier et supprimer des champs d&#39;objet personnalisé du marketing](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Ajouter les champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Modification et suppression d’un objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Présentation des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Modifier et supprimer des champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 
