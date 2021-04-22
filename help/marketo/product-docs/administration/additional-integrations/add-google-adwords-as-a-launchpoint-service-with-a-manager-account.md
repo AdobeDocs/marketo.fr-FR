@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7504893
-description: Ajouter Google AdWords en tant que service de point de lancement avec un compte de gestionnaire - Docs marketing - Documentation du produit
+description: Ajouter Google AdWords en tant que service de point de lancement avec un compte de gestionnaire - Docs Marketo - Documentation du produit
 title: Ajouter Google AdWords en tant que service de point de lancement avec un compte de gestionnaire
+exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '338'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Ajouter Google AdWords en tant que service de point de lancement avec un compte de gestionnaire {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Liez votre compte Google AdWords à Marketo pour télécharger automatiquement les données de conversion hors ligne de Marketo vers Google AdWords. Ensuite, à partir de l’interface utilisateur d’AdWords, vous pourrez identifier facilement les clics qui ont généré des pistes qualifiées, des opportunités et de nouveaux clients (ou les étapes de recettes dont vous souhaitez effectuer le suivi) après avoir [ajouté des colonnes personnalisées](https://support.google.com/adwords/answer/3073556) dans AdWords. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketing Cloud.
+Liez votre compte Google AdWords à Marketo pour télécharger automatiquement les données de conversion hors ligne de Marketo vers Google AdWords. Ensuite, à partir de l’interface utilisateur d’AdWords, vous pourrez identifier facilement les clics qui ont généré des pistes qualifiées, des opportunités et de nouveaux clients (ou les étapes de recettes dont vous souhaitez effectuer le suivi) après avoir [ajouté des colonnes personnalisées](https://support.google.com/adwords/answer/3073556) dans AdWords. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketo.
 
 Si vous disposez de plusieurs comptes Google Adwords, vous pouvez utiliser un [compte Google AdWords Manager](https://www.google.com/adwords/manager-accounts/) (anciennement appelé My Client Center) pour les intégrer à Marketo.
 
@@ -43,7 +43,7 @@ En savoir plus sur [la fonction d&#39;importation de conversion hors ligne de Go
 
    ![](assets/new-service-google-1.png)
 
-1. Sélectionnez **Autoriser le marketing**.
+1. Sélectionnez **Autoriser Marketo**.
 
    >[!NOTE]
    >
