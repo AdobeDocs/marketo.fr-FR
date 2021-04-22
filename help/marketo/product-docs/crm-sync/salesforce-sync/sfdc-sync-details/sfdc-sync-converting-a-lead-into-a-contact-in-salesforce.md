@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953465
-description: Synchronisation SFDC - Conversion d'une piste en contact dans Salesforce - Docs marketing - Documentation du produit
+description: Synchronisation SFDC - Conversion d'une piste en contact dans Salesforce - Marketo Docs - Documentation sur les produits
 title: Synchronisation SFDC - Conversion d'une piste en contact dans Salesforce
+exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # Synchronisation SFDC : Conversion d&#39;une piste en contact dans Salesforce {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
@@ -20,7 +20,7 @@ Imaginez trois scénarios différents dans Salesforce : (n’utilisant pas l’[
 
 1. Conversion d&#39;un prospect en **contact existant** dans un **compte existant** (ce comportement est identique à [fusion](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md))
 
-Dans les trois cas, vous obtenez **1 contact et aucun prospect dans Salesforce et 1 contact et aucune personne dans Marketo.**
+Dans les trois cas, vous obtenez un contact **1 et aucune piste dans Salesforce et 1 contact et aucune personne à Marketo.**
 
 Dans Marketo, l’enregistrement aura désormais un type SFDC = Contact.
 
