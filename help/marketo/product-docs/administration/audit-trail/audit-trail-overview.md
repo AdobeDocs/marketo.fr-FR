@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377945
-description: Aperçu de la piste d’audit - Documents marketing - Documentation du produit
+description: Aperçu de la piste d’audit - Documentation Marketo - Documentation du produit
 title: Aperçu de la piste d’audit
+exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
-
 # Aperçu de la piste d&#39;audit {#audit-trail-overview}
 
-La piste d’audit vous permet d’obtenir un historique complet (d’une durée de six mois) des modifications apportées à votre instance de marché.
+La piste d’audit vous permet d’obtenir un historique complet (d’une durée de six mois) des modifications effectuées dans votre instance Marketo.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ La piste d’audit vous permet d’obtenir un historique complet (d’une durée
 
 ## Qu’est-ce que la piste d’audit {#what-is-audit-trail}
 
-La piste d’audit capture, en temps réel, une liste complète d’actions et de événements survenant au sein d’un abonnement de marketing. Il comprend un moyen en libre-service d&#39;accéder à un historique de données de six mois pour vous aider à répondre à des questions telles que :
+La piste de vérification capture, en temps réel, une liste complète d&#39;actions et de événements survenant dans un abonnement Marketo. Il comprend un moyen en libre-service d&#39;accéder à un historique de données de six mois pour vous aider à répondre à des questions telles que :
 
 Qu’est-il advenu de cet actif ou paramètre et qui l’a mis à jour en dernier ?
 
@@ -33,10 +33,10 @@ Qui se connecte à notre compte ?
 
 ## Ce que nous vérifions {#what-we-audit}
 
-Marketo contrôlera les actions [créer, modifier et supprimer](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) pour :
+Marketo va contrôler les actions [créer, modifier et supprimer](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) pour :
 
 * Création de fichiers studio
-* Tous les programmes du marketing
+* Tous les programmes Marketo
 * Campagnes dynamiques
 * Listes (dynamiques/statiques)
 * Utilisateurs (admin)
@@ -46,7 +46,7 @@ Marketo contrôlera les actions [créer, modifier et supprimer](/help/marketo/pr
 
 >[!NOTE]
 >
->Marketo est _différent de_ modifications d’audit effectuées pour l’instant dans la personnalisation Web, le contenu prédictif ou les statistiques de ventes.
+>Marketo _n’effectue pas pour l’instant_ les modifications apportées au contrôle dans la personnalisation Web, le contenu prédictif ou les statistiques de ventes.
 
 ## Composants de piste d&#39;audit {#audit-trail-components}
 
@@ -68,7 +68,7 @@ Voyez qui s&#39;est connecté à votre abonnement et quand. Inclut également le
 >
 >Il y a tellement de choses que vous pouvez contrôler à l&#39;aide de la piste d&#39;audit, veillez à utiliser [Filtrage](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) !
 
-## Exportation de données {#exporting-data}
+## Exportation des données {#exporting-data}
 
 Vous ne pouvez vue que 30 jours de données dans votre instance. Pour obtenir (jusqu&#39;à) six mois d&#39;exportation, utilisez l&#39;option d&#39;exportation.
 
@@ -78,7 +78,7 @@ Vous ne pouvez vue que 30 jours de données dans votre instance. Pour obtenir (j
 >
 >**Définition**
 >
->**Inconnu :** dans la piste d’audit, le nom et l’adresse électronique d’un utilisateur peuvent être répertoriés comme &quot;Inconnu&quot;. Cela se produit lorsque vous modifiez les valeurs de la liste de sélection dans votre gestion de la relation client. Ces valeurs s’affichent dans les landings page et formulaires marketing. Si vous effectuez cette mise à jour du côté CRM, vos landings page référençant le formulaire seront automatiquement rédigés. Dans la piste d’audit, nous allons capturer que le landing page a été rédigé, mais le nom et l’adresse électronique de l’utilisateur s’afficheront comme &quot;Inconnu&quot;, car nous ne sommes pas en mesure de capturer les informations de l’utilisateur du côté CRM.
+>**Inconnu :** dans la piste d’audit, le nom et l’adresse électronique d’un utilisateur peuvent être répertoriés comme &quot;Inconnu&quot;. Cela se produit lorsque vous modifiez les valeurs de la liste de sélection dans votre gestion de la relation client. Ces valeurs s’affichent dans les formulaires et landings page Marketo. Si vous effectuez cette mise à jour du côté CRM, vos landings page référençant le formulaire seront automatiquement rédigés. Dans la piste d’audit, nous allons capturer que le landing page a été rédigé, mais le nom et l’adresse électronique de l’utilisateur s’afficheront comme &quot;Inconnu&quot;, car nous ne sommes pas en mesure de capturer les informations de l’utilisateur du côté CRM.
 
 >[!MORELIKETHIS]
 >
