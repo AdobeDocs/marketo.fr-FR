@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8160678
-description: Notes de mise à jour - Juin 2015 - Documentation sur le marketing - Documentation du produit
+description: Notes de mise à jour - Juin 2015 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Juin 2015
+exl-id: 5a26121f-a168-4bb6-b471-aca1f343e4c2
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-
 # Notes de mise à jour : Juin 2015 {#release-notes-june}
 
-Les fonctionnalités suivantes sont incluses dans la version de juin 2015. Veuillez vérifier la disponibilité des fonctionnalités de votre édition Marketing. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité !
+Les fonctionnalités suivantes sont incluses dans la version de juin 2015. Veuillez vérifier la disponibilité des fonctionnalités de Marketo Edition. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité !
 
 ## [Rapport d’attribution de courriel](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
 
@@ -21,4 +21,4 @@ Consultez la personnalisation des valeurs et le contenu recommandé fourni à vo
 
 ## Vous voulez influencer notre feuille de route ? {#want-to-influence-our-roadmap}
 
-Marketo avec cette [carte de rapport rapide](https://www.surveymonkey.com/s/VG9YCT5). Nous utilisons votre contribution pour aider à planifier 2016 et au-delà !
+Évaluez Marketo avec cette [carte de rapport rapide](https://www.surveymonkey.com/s/VG9YCT5).  Vos commentaires nous aident à prévoir l’année 2016 et les suivantes !
