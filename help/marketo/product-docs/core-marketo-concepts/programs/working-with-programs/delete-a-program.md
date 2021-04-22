@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147148
-description: Suppression d’un Programme - Documents marketing - Documentation du produit
+description: Suppression d’un Programme - Documents Marketo - Documentation du produit
 title: Suppression d’un Programme
+exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # Supprimer un Programme {#delete-a-program}
 
@@ -31,7 +31,7 @@ Vous pouvez archiver un programme, mais parfois vous voulez juste vous en débar
 
 ![](assets/2017-05-05-15-04-15.png)
 
-Terminé. C&#39;est comme si le programme n&#39;avait jamais existé.
+Fait. C&#39;est comme si le programme n&#39;avait jamais existé.
 
 ## Pourquoi ne puis-je pas supprimer mon programme ? {#why-cant-i-delete-my-program}
 
