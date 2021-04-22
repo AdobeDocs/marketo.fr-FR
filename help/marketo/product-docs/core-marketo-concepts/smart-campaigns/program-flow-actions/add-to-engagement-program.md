@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147011
-description: Ajouter au Programme d’engagement - Documents marketing - Documentation du produit
-title: Programme Ajouter à l’engagement
+description: Ajoute au Programme d’engagement - Marketo Docs - Documentation du produit
+title: Ajouter au programme d'engagement
+exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-
-# Ajouter au Programme d’engagement {#add-to-engagement-program}
+# Ajouter au programme d&#39;engagement {#add-to-engagement-program}
 
 ## Aperçu {#overview}
 
