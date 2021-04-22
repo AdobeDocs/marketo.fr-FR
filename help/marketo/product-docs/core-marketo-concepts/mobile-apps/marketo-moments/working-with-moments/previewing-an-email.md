@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783563
-description: Prévisualisation d’un courrier électronique - Documents marketing - Documentation du produit
+description: Aperçu d’un courrier électronique - Documents Marketo - Documentation du produit
 title: Prévisualisation d’un courrier électronique
+exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
-
 
 # Aperçu d’un courrier électronique {#previewing-an-email}
 
