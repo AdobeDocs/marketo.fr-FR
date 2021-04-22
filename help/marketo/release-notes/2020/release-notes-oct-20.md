@@ -1,19 +1,19 @@
 ---
 unique-page-id: 45416698
-description: Notes de mise à jour - 20 octobre - Documents marketing - Documentation du produit
+description: Notes de mise à jour - 20 octobre - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - 20 octobre
+exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
-
 # Notes de mise à jour : 20 octobre {#release-notes-oct}
 
-Les fonctionnalités suivantes sont incluses dans la version du 20 octobre. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
+Les fonctionnalités suivantes sont incluses dans la version du 20 octobre. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités.
 
 >[!AVAILABILITY]
 >
@@ -27,19 +27,19 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 octobre. Vér
 
 * **Liste intelligente du compte (bêta)** : Enrichissez votre stratégie ABM avec la nouvelle fonctionnalité de Liste intelligente de compte. Identifiez de manière dynamique les comptes dotés des attributs de compte et de personne souhaités afin d’exécuter des campagnes inter-canaux et d’envoyer des alertes opportunes aux ventes afin de conclure plus rapidement les offres. Remarque : cette option n’est disponible que pour les clients de la gestion de compte de Cible qui ont été intégrés à l’[expérience utilisateur de la prochaine génération](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
-## Marketing par courriel {#email-marketing}
+## Marketing par e-mail {#email-marketing}
 
 * **Augmentation du nombre de courriers électroniques par lot  ![(étoile)](assets/star-yellow.svg)** : Envoyez d&#39;autres courriers électroniques avec un débit de plus de 5 millions de courriers électroniques par heure. Les options de remise extensives des e-mails éliminent la nécessité d&#39;attendre entre les lots de e-mails - envoyer tous les e-mails à temps et selon votre calendrier.
 
 ## Marketing sur le site Web {#website-marketing}
 
-* **Incorporer le code de formulaire Automatisation** : Acquérez d’autres pistes avec des formulaires Marketo Engage intégrés à vos landings page sécurisés hébergés en dehors de Marketing Cloud. Le code incorporé du formulaire se met automatiquement à jour pour inclure le nom de domaine du landing page et élimine le travail manuel pour les développeurs Web. Le domaine personnalisé dans le lien de code améliore les expériences de navigation sur le site Web et l’utilisation des formulaires.
+* **Incorporer le code de formulaire Automatisation** : Obtenez d’autres pistes avec des formulaires Marketo Engage intégrés à vos landings page sécurisés hébergés en dehors de Marketo. Le code incorporé du formulaire se met automatiquement à jour pour inclure le nom de domaine du landing page et élimine le travail manuel pour les développeurs Web. Le domaine personnalisé dans le lien de code améliore les expériences de navigation sur le site Web et l’utilisation des formulaires.
 
 ## Intégration Experience Cloud {#experience-cloud-integration}
 
 * **Synchronisation continue des Audiences entre Adobe Experience Cloud et Marketo Engage** : Les pistes de cible avec le Marketo Engage sont basées sur les données d’intention propriétaires de Adobe Analytics, Adobe Audience Manager ou Adobe Real-Time CDP. Mettre automatiquement à jour les listes statiques Marketo Engage par synchronisation continue, ajouter des pistes à l&#39;engagement ou aux programmes électroniques et avertir les ventes lorsque les pistes sont prêtes.
 
-## Intégration CRM {#crm-integration}
+## Intégration aux outils de CRM {#crm-integration}
 
 * **Synchro** CRM Salesforce : Identifiez et corrigez les erreurs et les échecs de synchronisation avec deux nouveaux Tableaux de bord de synchronisation et d&#39;erreurs Salesforce. Surveillez les nouvelles mises à jour des enregistrements, les suppressions, les échecs et la fin du processus de synchronisation. Les rapports peuvent être filtrés par date, type d’opération ou type d’objet.
 
@@ -47,7 +47,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 octobre. Vér
 
 ## Ciblage des médias payants {#paid-media-targeting}
 
-* **Intégrations** des publicités de piste Facebook : Les paramètres de suivi de formulaire Facebook peuvent désormais être capturés par le service LaunchPoint pour les annonces de pistes Facebook. Ces champs masqués peuvent désormais être mappés aux champs de marketing, ce qui permet aux spécialistes du marketing de stocker des données de suivi de campagne précieuses et d’agir en conséquence.
+* **Intégrations** des publicités principales facebook : Les paramètres de suivi de formulaire facebook peuvent désormais être capturés par le service LaunchPoint pour les annonces de piste Facebook. Ces champs masqués peuvent désormais être mappés à des champs Marketo, ce qui permet aux spécialistes du marketing de stocker des données de suivi de campagne précieuses et d’agir en conséquence.
 
 ## Administration {#administration}
 
@@ -65,7 +65,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 octobre. Vér
 
 Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et seront publiées au cours des prochains mois.
 
-## Sales Insight {#sales-insight}
+## Perspectives commerciales {#sales-insight}
 
 ![(étoile)](assets/star-yellow.svg)
 
