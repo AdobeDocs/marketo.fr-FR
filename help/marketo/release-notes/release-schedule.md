@@ -1,23 +1,23 @@
 ---
 unique-page-id: 5472490
-description: Calendrier de publication - Documents marketing - Documentation du produit
+description: Calendrier de publication - Documents Marketo - Documentation du produit
 title: Calendrier de publication
+exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Calendrier de publication {#release-schedule}
 
-**Version** : Marketo utilise un calendrier de publication principal trimestriel. Une fois disponibles, chacune des notes de mise à jour sera liée dans le tableau ci-dessous.
+**Version** : Marketo utilise un calendrier trimestriel des principales versions. Une fois disponibles, chacune des notes de mise à jour sera liée dans le tableau ci-dessous.
 
 **Date** de publication : Le déploiement commence généralement le mercredi de la semaine de publication, la majeure partie de la mise à niveau étant effectuée le vendredi soir. Un courrier électronique est envoyé avec des dates spécifiques et des détails de publication. La date indiquée correspond à la mise à jour du vendredi.
 
-**Progrès** :
+**Progression**:
 
 * Dans le calendrier - Nous prévoyons de publier les fonctionnalités et améliorations trimestrielles à la date indiquée.
 * En cours - Nous développons et documentons le contenu pour la publication à la date indiquée.
