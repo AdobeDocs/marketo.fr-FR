@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557339
-description: Rechercher et fusionner des personnes Duplicata - Documents marketing - Documentation sur les produits
+description: Rechercher et fusionner des personnes Duplicata - Docs Marketo - Documentation sur les produits
 title: Rechercher et fusionner des personnes de Duplicata
+exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
-
 # Rechercher et fusionner des personnes de Duplicata {#find-and-merge-duplicate-people}
 
-Marketo annule automatiquement les duplicata lorsque de nouvelles personnes entrent dans le système. Cependant, votre service de gestion de la relation client a peut-être initialement envoyé des duplicata à Marketing Cloud. Voici comment les fusionner.
+Marketo annule automatiquement les duplicata lorsque de nouvelles personnes entrent dans le système. Cependant, votre service de gestion de la relation client a peut-être initialement envoyé des duplicata à Marketo. Voici comment les fusionner.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Marketo annule automatiquement les duplicata lorsque de nouvelles personnes entr
 
    >[!CAUTION]
    >
-   >La fusion de personnes dans Marketo peut ne pas fonctionner si vous utilisez un compte de personne Salesforce. Si possible, fusionnez les enregistrements dans Salesforce.
+   >La fusion de personnes à Marketo peut ne pas fonctionner si vous utilisez un compte personnel Salesforce. Si possible, fusionnez les enregistrements dans Salesforce.
 
 1. Sélectionnez la liste intelligente système **Duplicata possibles** et cliquez sur l&#39;onglet **Personnes**.
 
@@ -45,7 +45,7 @@ Marketo annule automatiquement les duplicata lorsque de nouvelles personnes entr
 
 >[!CAUTION]
 >
->Lors de la fusion de personnes, si la personne perdante a un objet personnalisé Marketo, **ne sera** pas réassocié à la personne gagnante. Reparent l&#39;objet personnalisé avant d&#39;effectuer la fusion.
+>Lors de la fusion de personnes, si la personne perdante a un objet personnalisé Marketo, **non** est réassocié à la personne gagnante. Reparent l&#39;objet personnalisé avant d&#39;effectuer la fusion.
 
 1. Sélectionnez les duplicata en maintenant la touche Ctrl/Cmd enfoncée et en cliquant sur **Fusionner les personnes**.
 
