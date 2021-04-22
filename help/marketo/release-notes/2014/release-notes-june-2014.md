@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951042
-description: Notes de mise à jour - Juin 2014 - Documentation sur le marketing - Documentation du produit
+description: Notes de mise à jour - Juin 2014 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Juin 2014
+exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 29%
 
 ---
 
-
 # Notes de mise à jour : Juin 2014 {#release-notes-june}
 
-Les fonctionnalités suivantes sont incluses dans la version de juin 2014. Veuillez vérifier la disponibilité des fonctionnalités de votre édition Marketing.
+Les fonctionnalités suivantes sont incluses dans la version de juin 2014. Veuillez vérifier la disponibilité des fonctionnalités de Marketo Edition.
 
 ## Mise à jour de l’interface utilisateur - Bientôt disponible ! {#updated-ui-coming-soon}
 
-Une nouvelle apparence, y compris la navigation pour la gestion des pistes de marketing, sera bientôt disponible dans une version ultérieure.
+Une nouvelle apparence, y compris la navigation pour la gestion des pistes Marketo, sera bientôt disponible dans une version ultérieure.
 
 ## Module externe Sales Insight pour Outlook 2013 {#sales-insight-plugin-for-outlook}
 
@@ -25,19 +25,19 @@ Pour ce faire, vous devrez télécharger le nouveau module externe. Vous pouvez 
 
 ## Résolution du jeton {#token-resolution}
 
-Lorsque vous envoyez un courriel de test à partir de Sales Insight, les jetons qui se trouvent actuellement dans le courriel ne sont pas résolus et la valeur par défaut est envoyée. Cette amélioration permet de s’assurer que les jetons sont résolus dans les courriers électroniques de test.
+Lorsque vous envoyez un message électronique de test à partir de Sales Insight, les jetons actuellement dans le message électronique ne sont pas résolus et la valeur par défaut est envoyée. Cette amélioration garantit que les jetons sont résolus dans les messages électroniques de test.
 
 ## Personnaliser les pourcentages pour les étoiles et les flammes {#customize-percentages-for-stars-and-flames}
 
-[Définissez le ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) pourcentage de pistes qui obtiennent 1, 2 ou 3 étoiles et flammes.
+[Définissez le pourcentage de leads obtenant 1, 2 ou 3 étoiles et flammes.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
-## API Lead ReST {#lead-rest-api}
+## API ReST lead {#lead-rest-api}
 
-Créez, lisez et mettez à jour des pistes par programmation grâce à notre nouvelle API ReST. Pour commencer avec ReST, vous devez [créer un service personnalisé](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) dans Marketo. Rendez-vous ensuite sur le [site des développeurs](https://developers.marketo.com/documentation/rest/) pour plus d&#39;informations sur l&#39;utilisation de cette API.
+Créez, lisez et mettez à jour les leads par programmation grâce à notre nouvelle API ReST. Pour commencer avec ReST, vous devez [créer un service personnalisé](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) dans Marketo. Rendez-vous ensuite sur le [site des développeurs](https://developers.marketo.com/documentation/rest/) pour plus d&#39;informations sur l&#39;utilisation de cette API.
 
-## Mise à jour de la page Campagnes de personnalisation en temps réel du marketing {#marketo-real-time-personalization-rtp-campaigns-page-update}
+## Mise à jour de la page de campagnes Real-Time Personalization (RTP) de Marketo {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
 Les campagnes RTP comprennent désormais une nouvelle conception avec des vues de miniature et des performances de campagne. De plus, vous pouvez [organiser vos campagnes](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) en fonction de la date ou des performances les plus élevées.
 
@@ -45,7 +45,7 @@ Les campagnes RTP comprennent désormais une nouvelle conception avec des vues d
 
 ## Intégrations des analyses Web {#web-analytics-integrations}
 
-Ajoutez toutes vos données RTP dans votre plate-forme d’analyses Web.
+Ajoutez toutes vos données RTP au sein de votre plate-forme d’analyse en ligne.
 
 L&#39;intégration avec [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) est désormais activée par défaut. Sous Paramètres du compte, activez le commutateur pour lequel vous souhaitez envoyer les données aux variables et événements personnalisés GA.
 
