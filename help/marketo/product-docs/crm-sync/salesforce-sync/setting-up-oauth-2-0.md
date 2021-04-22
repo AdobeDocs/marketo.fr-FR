@@ -1,18 +1,18 @@
 ---
-description: Configuration d’OAuth 2.0 - Docs marketing - Documentation du produit
+description: Configuration d’OAuth 2.0 - Marketo Docs - Documentation du produit
 title: Configuration d’OAuth 2.0
+exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # Configuration d’OAuth 2.0 {#setting-up-oauth-2-0}
 
-Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applications d’accéder en toute sécurité (d’authentifier l’application à l’aide d’OAuth 2.0) aux données via des appels d’API REST sans avoir à révéler les informations de connexion. Vous trouverez ci-dessous les étapes à suivre pour établir une connexion sécurisée et synchroniser Marketing avec Salesforce.
+Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applications d’accéder en toute sécurité (d’authentifier l’application à l’aide d’OAuth 2.0) aux données via des appels d’API REST sans avoir à révéler les informations de connexion. Vous trouverez ci-dessous les étapes à suivre pour connecter et synchroniser Marketo en toute sécurité avec Salesforce.
 
 ## Configurer une application connectée {#set-up-connected-app}
 
@@ -42,20 +42,20 @@ Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applic
 
 >[!NOTE]
 >
->Enregistrez les informations sur le Consumer key et le Secret du client pour les utiliser ultérieurement dans Marketing Cloud.
+>Enregistrez les informations sur le Consumer key et le Secret du client pour les utiliser ultérieurement dans Marketo.
 
 ## Configurer Marketo {#set-up-marketo}
 
 >[!PREREQUISITES]
 >
 >* L&#39;accès à l&#39;API doit être activé pour l&#39;utilisateur de synchronisation Salesforce (si vous utilisez Salesforce Professional Edition, cet accès n&#39;est pas disponible par défaut ; veuillez contacter votre responsable de compte Salesforce).
->* L&#39;utilisateur Synchronisation de marketing doit être créé dans Salesforce.
+>* L&#39;utilisateur Marketo Sync doit être créé dans Salesforce.
 >* Pour les clients existants, l’option &quot;Activer OAuth pour la synchronisation SFDC&quot; est activée sur l’abonnement du client.
 >* Les bloqueurs de fenêtres contextuelles sont désactivés.
 >* L’application connectée est créée et le Consumer key et le Secret du client sont disponibles.
 
 
-1. Dans la section Administration du marketing, cliquez sur **CRM**, puis sur **Synchroniser avec Salesforce**.
+1. Dans la section Admin Marketo, cliquez sur **CRM**, puis sur **Synchroniser avec Salesforce**.
 
    ![](assets/setting-up-oauth-2-7.png)
 
@@ -63,11 +63,11 @@ Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applic
 
    ![](assets/setting-up-oauth-2-8.png)
 
-1. Sur la page de synchronisation de Salesforce marketing, cliquez sur le bouton **Connexion avec Salesforce**.
+1. Sur la page de synchronisation Marketo Salesforce, cliquez sur le bouton **Connexion avec Salesforce**.
 
    ![](assets/setting-up-oauth-2-9.png)
 
-1. Une fenêtre contextuelle contenant la page de connexion de la force de vente s&#39;affiche. Cliquez sur vos informations d’identification &quot;Utilisateur synchronisé du marketing&quot; et connectez-vous.
+1. Une fenêtre contextuelle contenant la page de connexion de la force de vente s&#39;affiche. Clic dans vos informations d’identification &quot;Marketo Sync User&quot; et connectez-vous.
 
    ![](assets/setting-up-oauth-2-10.png)
 
@@ -79,7 +79,7 @@ Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applic
 
    ![](assets/setting-up-oauth-2-12.png)
 
-1. Dans quelques minutes, une fenêtre contextuelle s’affiche sur le marché. Cliquez sur **Confirmer les informations d’identification**.
+1. Dans quelques minutes, une fenêtre contextuelle s’affiche à Marketo. Cliquez sur **Confirmer les informations d’identification**.
 
    ![](assets/setting-up-oauth-2-13.png)
 
