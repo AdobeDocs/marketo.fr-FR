@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951117
-description: Notes de mise à jour - Mai 2012 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Mai 2012 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Mai 2012
+exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
-
 
 # Notes de mise à jour : Mai 2012 {#release-notes-may}
 
@@ -61,7 +61,7 @@ Maintenant disponible pour ON24 et Adobe Connect ! Incluez un lien unique dans l
 
 Figure 6. Envoyer des personnes à votre webinaire
 
-## Prévisualisation de modèle {#template-preview}
+## Aperçu du modèle {#template-preview}
 
 Vous recherchez un modèle spécifique lors de la création de votre courrier électronique ou de votre landing page, mais vous ne savez pas à quoi il ressemble ? Grâce à la nouvelle fonctionnalité de prévisualisation de modèles, vous pouvez vérifier le modèle sélectionné avant d’enregistrer un nouveau fichier !
 
@@ -81,9 +81,9 @@ Figure 8. Configuration de préremplissage de formulaire dans Admin
 
 Figure 9. Modifier le paramètre de préremplissage d’un formulaire sur un Landing page
 
-## Poitrine au trésor de Marketo {#marketo-treasure-chest}
+## Marketo Treasure Chest {#marketo-treasure-chest}
 
-Accédez aux fonctionnalités expérimentales développées par les ingénieurs marketing pour améliorer votre expérience utilisateur. Cette version comprend l’annulation du courrier électronique, ainsi que la possibilité de saisir des commentaires et de collaborer avec d’autres utilisateurs sur vos landings page.
+Accédez aux fonctionnalités expérimentales développées par les ingénieurs Marketo pour améliorer votre expérience utilisateur. Cette version comprend l’annulation du courrier électronique, ainsi que la possibilité de saisir des commentaires et de collaborer avec d’autres utilisateurs sur vos landings page.
 
 ![](assets/image2014-9-23-10-3a16-3a51.png)\
 
@@ -91,13 +91,13 @@ Figure 10. Fonctionnalités du Gestionnaire de coffre à trésors dans l&#39;adm
 
 ## Intégration de Microsoft Dynamics® CRM {#microsoft-dynamics-crm-integration}
 
-Synchroniser des comptes, des contacts et des pistes entre Marketo et Microsoft Dynamics CRM Online à l&#39;aide de notre nouvelle intégration prédéfinie !
+Synchronisez les comptes, contacts et pistes entre Marketo et Microsoft Dynamics CRM Online en utilisant notre nouvelle intégration prédéfinie !
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
 Figure 11. Configuration de Microsoft Dynamics
 
-## Améliorations apportées à Marketing Sales Insight {#marketo-sales-insight-enhancements}
+## Améliorations apportées à Marketo Sales Insight {#marketo-sales-insight-enhancements}
 
 **Désabonner les options de pied de page**
 
@@ -109,7 +109,7 @@ Figure 12. Paramètres de Sales Insight dans Admin
 
 ## Dossiers des modèles de courrier électronique de vente {#folders-for-sales-email-templates}
 
-Vous pouvez désormais organiser les modèles de courrier électronique partagés avec Marketing Cloud Sales Insight dans des dossiers spécifiques, ce qui facilite la recherche du message approprié par vos représentants commerciaux.
+Vous pouvez désormais organiser les modèles de courrier électronique partagés avec Marketo Sales Insight dans des dossiers spécifiques, ce qui facilite la recherche du bon courrier électronique par vos commerciaux.
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
@@ -117,7 +117,7 @@ Figure 13. Choisir un dossier pour vos courriels
 
 ## Accéder à l&#39;analyseur d&#39;opportunités à partir de Sales Insight {#access-opportunity-analyzer-from-sales-insight}
 
-Fournissez à vos représentants commerciaux des informations sur les activités marketing qui génèrent un engagement, en utilisant l&#39;accès direct à l&#39;analyseur d&#39;opportunités à partir de Marketing Cloud Sales Insight. Remarque. Nécessite la licence de Revenu Cycle Analytics.
+Fournissez à vos représentants commerciaux des informations sur les activités marketing qui génèrent un engagement, en utilisant l&#39;accès direct à l&#39;analyseur d&#39;opportunités à partir de Marketo Sales Insight. Remarque. Nécessite la licence de Revenu Cycle Analytics.
 
 ## Champ personnalisé pour le statut de contact {#custom-field-for-contact-status}
 
