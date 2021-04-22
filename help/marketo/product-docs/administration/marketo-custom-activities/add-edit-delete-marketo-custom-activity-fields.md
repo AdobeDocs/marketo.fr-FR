@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10100275
-description: Ajouter/modifier/supprimer des champs d'Activité personnalisée du marketing vers les documents marketing - Documentation du produit
-title: Ajouter/modifier/supprimer des champs d'Activité personnalisée du marketing
+description: Ajouter/modifier/supprimer des champs d'Activité personnalisée Marketo - Docs Marketo - Documentation du produit
+title: Ajouter/modifier/supprimer des champs d'Activité personnalisée Marketo
+exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
-
-# Ajouter/modifier/supprimer les champs d&#39;Activité personnalisée du marketing {#add-edit-delete-marketo-custom-activity-fields}
+# Ajouter/Modifier/Supprimer les champs d&#39;Activité personnalisée de Marketo {#add-edit-delete-marketo-custom-activity-fields}
 
 Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activité personnalisé. Voici comment.
 
 ## Ajouter un champ d&#39;Activité personnalisé {#add-a-custom-activity-field}
 
-1. Dans Activités personnalisées du marketing, cliquez sur **Champs**.
+1. Dans Activités personnalisées Marketo, cliquez sur **Champs**.
 
    ![](assets/one-3.png)
 
@@ -45,7 +45,7 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
 ## Modifier un champ d&#39;Activité personnalisé {#edit-a-custom-activity-field}
 
-1. Dans Activités personnalisées du marketing, cliquez sur **Champs**.
+1. Dans Activités personnalisées Marketo, cliquez sur **Champs**.
 
    ![](assets/one-3.png)
 
@@ -81,7 +81,7 @@ Votre champ est maintenant modifié !
 
 ## Supprimer un champ d&#39;Activité personnalisé {#delete-a-custom-activity-field}
 
-1. Dans Activités personnalisées du marketing, cliquez sur **Champs**.
+1. Dans Activités personnalisées Marketo, cliquez sur **Champs**.
 
    ![](assets/one-3.png)
 
