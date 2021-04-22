@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6848782
-description: Rendre votre message de désabonnement dynamique pour les langues - Documents marketing - Documentation du produit
+description: Rendre votre message de désabonnement dynamique pour les langues - Marketo Docs - Documentation du produit
 title: Rendre votre message de désabonnement dynamique pour les langues
+exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '495'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Rendre votre message de désabonnement dynamique pour les langues {#make-your-unsubscribe-message-dynamic-for-languages}
 
@@ -19,7 +19,7 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 >
 >Nous avons mis en place ce joli petit tutoriel ci-dessous pour vous. Il s&#39;agit d&#39;une bonne pratique, mais cela peut se faire autrement.
 
-## Préparer vos données {#prepare-your-data}
+## Préparation des données {#prepare-your-data}
 
 1. [Créez un ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) champ personnalisé nommé &quot;Langue préférée&quot;. (Configurez-le dans votre gestion de la relation client si vous souhaitez que ce champ soit synchronisé).
 
@@ -53,7 +53,7 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/image2015-3-9-8-3a38-3a17.png)
 
-1. Accédez à l&#39;onglet **Liste dynamique**. Entrez **Langue préférée** dans le champ de recherche. Faites glisser et déposez le filtre sur la trame.
+1. Cliquez sur l&#39;onglet **Liste intelligente.** Entrez **Langue préférée** dans le champ de recherche. Faites glisser et déposez le filtre sur la trame.
 
    ![](assets/six.png)
 
