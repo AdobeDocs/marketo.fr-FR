@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14745982
-description: Ajouter le lieu de travail par Facebook en tant que service LaunchPoint - Marketo Docs - Documentation sur les produits
+description: Ajouter le milieu de travail par Facebook en tant que service LaunchPoint - Marketo Docs - Documentation sur les produits
 title: Ajouter le lieu de travail par Facebook en tant que service LaunchPoint
+exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Ajouter le lieu de travail par Facebook en tant que service LaunchPoint {#add-workplace-by-facebook-as-a-launchpoint-service}
 
 L&#39;intégration en milieu de travail comprend deux types de notification :
 
-* **Notifications** système : Recevez des notifications sur les événements importants de votre instance de marketing, telles que des alertes sur les états des campagnes en cours et tout problème nécessitant une attention immédiate (erreurs de gestion de la relation client et limites de l’API).
-* **Moments** intéressants : Lorsqu&#39;une personne connue d&#39;un compte client a déclenché un Insight Marketo, les propriétaires de pistes peuvent être avertis via le lieu de travail. Les notifications incluent des informations de piste ainsi que des détails sur le compte client.
+* **Notifications** système : Recevez des notifications sur les événements importants de votre instance Marketo, telles que des alertes sur les états des campagnes en cours et tout problème nécessitant une attention immédiate (erreurs de gestion de la relation client et limites de l’API).
+* **Moments** intéressants : Lorsqu&#39;une personne connue a déclenché une visite Marketo Insight à partir d&#39;un compte client, les propriétaires principaux peuvent être avertis par l&#39;intermédiaire du lieu de travail. Les notifications incluent des informations de piste ainsi que des détails sur le compte client.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ L&#39;intégration en milieu de travail comprend deux types de notification :
 
 >[!PREREQUISITES]
 >
->Si vous n&#39;avez pas encore activé les notifications sur votre lieu de travail, contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si vous n&#39;avez pas encore activé les notifications sur votre lieu de travail, veuillez contacter le [Support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Accédez à **LaunchPoint**, puis sous **New** cliquez sur **New Service**.
 
@@ -38,7 +38,7 @@ L&#39;intégration en milieu de travail comprend deux types de notification :
 
    ![](assets/create.png)
 
-1. Cliquez sur **Autoriser**. Ceci ouvre Lieu de travail dans un nouvel onglet, où vous allez compléter l&#39;autorisation et accorder au marketing l&#39;autorisation d&#39;extraire des informations du lieu de travail.
+1. Cliquez sur **Autoriser**. Ceci ouvre Lieu de travail dans un nouvel onglet, où vous allez compléter l&#39;autorisation et accorder à Marketo l&#39;autorisation de retirer des informations du lieu de travail.
 
    ![](assets/authorize.png)
 
@@ -62,6 +62,6 @@ L&#39;intégration en milieu de travail comprend deux types de notification :
 
    ![](assets/confirm.png)
 
-   Les notifications vont maintenant commencer à publier sur le groupe Facebook que vous avez sélectionné à l’étape 7. Ils ressembleront à quelque chose comme ça :
+   Les notifications vont maintenant commencer à publier sur le groupe Facebook sélectionné à l’étape 7. Ils ressembleront à quelque chose comme ça :
 
    ![](assets/example.png)
