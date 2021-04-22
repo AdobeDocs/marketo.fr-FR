@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11384018
-description: Notes de mise à jour - Automne 16 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Automne 16 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Automne 16
+exl-id: da935951-162e-426c-acf2-12c55ff706b4
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '683'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Notes de mise à jour : Automne 16 {#release-notes-fall}
 
-Les fonctionnalités suivantes sont incluses dans la version de l’automne 16. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing. Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction.
+Les fonctionnalités suivantes sont incluses dans la version de l’automne 16. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction.
 
 ## Contenu prédictif dans le courrier électronique {#predictive-content-in-email}
 
@@ -29,23 +29,23 @@ Vous pouvez désormais ajouter du contenu prédictif à votre courrier électron
 
 ![](assets/predictive.png)
 
-## [Conversions hors connexion Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Conversions hors ligne Facebook ](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md){#facebook-offline-conversions}
 
-Avec l’intégration des conversions hors ligne Facebook, les données de conversion dans Marketo (pour les pistes publicitaires) sont automatiquement renvoyées à Facebook afin que votre équipe publicitaire puisse optimiser ses dépenses publicitaires. Dans ce rapport Gestionnaire d’annonces Facebook, les conversions hors ligne sont mises en évidence.
+Avec l’intégration des conversions hors ligne Facebook, les données de conversion dans Marketo (pour les pistes publicitaires) sont automatiquement renvoyées à Facebook afin que votre équipe publicitaire puisse optimiser ses dépenses publicitaires. Dans ce rapport Facebook Ad Manager, les conversions hors ligne sont mises en évidence.
 
 ![](assets/facebook.png)
 
 ## [ID universel](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
 
-Un ID universel vous permet d’accéder à plusieurs abonnements du marketing à l’aide d’une connexion unique et de basculer rapidement d’un abonnement à l’autre. Vous pouvez utiliser un profil de communauté unique pour tous vos abonnements.
+Un ID universel permet d’accéder à plusieurs abonnements Marketo à l’aide d’une connexion unique et de basculer rapidement d’un abonnement à l’autre. Vous pouvez utiliser un profil de communauté unique pour tous vos abonnements.
 
 ![](assets/image2016-11-3-15-3a10-3a16.png)
 
 >[!NOTE]
 >
->Contactez l’assistance marketing pour activer cette fonctionnalité.
+>Contactez l&#39;assistance Marketo pour activer cette fonctionnalité.
 
-## Améliorations marketing basées sur les comptes de marketing {#marketo-account-based-marketing-enhancements}
+## Améliorations marketing basées sur les comptes Marketo {#marketo-account-based-marketing-enhancements}
 
 Désormais, vous pouvez affecter des équipes de comptes à des comptes nommés dans ABM (Account Based Marketing), par exemple, le propriétaire du compte, le représentant du développement commercial, le représentant du développement commercial et le responsable de la réussite client. Vous pouvez également créer des listes de compte spécifiques au propriétaire du compte et envoyer des rapports ABM hebdomadaires personnalisés à l&#39;équipe du compte.
 
@@ -53,19 +53,19 @@ Désormais, vous pouvez affecter des équipes de comptes à des comptes nommés 
 
 **API REST**
 
-Cette version vous permet également de gérer des attributs de compte et des scores de compte nommés dans ABM à l’aide de l’API REST de Marketing Cloud. Pour plus d’informations sur les opérations de l’API, consultez le [site Web des développeurs de marketing](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+Cette version vous permet également de gérer des attributs de compte et des scores de comptes nommés dans ABM à l’aide de l’API Marketo REST. Pour plus d’informations sur les opérations d’API, consultez le [site Web des développeurs Marketo](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Améliorations de la piste d’audit](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
-La piste d’audit fournit un historique complet des modifications apportées à votre abonnement Marketing. Nous avons ajouté des fonctionnalités de suivi supplémentaires pour les programmes ainsi que des détails importants sur les modifications pour les campagnes intelligentes, les listes intelligentes et les modifications apportées aux utilisateurs et aux rôles.
+La piste d’audit fournit un historique complet des modifications apportées à votre abonnement Marketo. Nous avons ajouté des fonctionnalités de suivi supplémentaires pour les programmes ainsi que des détails importants sur les modifications pour les campagnes intelligentes, les listes intelligentes et les modifications apportées aux utilisateurs et aux rôles.
 
 ## [Nouvelles autorisations](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
 
-**Rendre le courrier électronique opérationnel**
+**Rendre l’e-mail opérationnel**
 
 Les jours où vous deviez vous inquiéter de l&#39;envoi d&#39;e-mails transactionnels à des personnes de votre base de données qui se sont désabonnées sont révolus. Vous pouvez désormais indiquer quels utilisateurs peuvent rendre un courrier électronique opérationnel ou modifier les messages électroniques opérationnels.
 
-**Modifier les restrictions Campaign**
+**Modifier les restrictions de la campagne**
 
 Pourquoi définir des [restrictions de campagne](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) si vous ne parvenez pas à les appliquer ? Lorsque vous définissez les paramètres de limite Campaign pour limiter le nombre de personnes dans votre base de données qui peuvent être ciblées avec une seule campagne, vous avez désormais la possibilité de restreindre les utilisateurs qui peuvent remplacer ces paramètres lors de la planification d’une campagne.
 
@@ -87,12 +87,12 @@ Market Sales Insight est maintenant compatible avec le cryptage des boucliers de
 
 ## [API Comptes nommés](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
-Avec cette version, les utilisateurs de la gestion dynamique des balises peuvent gérer des comptes nommés via l’API Comptes nommés. Les utilisateurs peuvent créer, mettre à jour et supprimer des comptes nommés, ainsi que lire et mettre à jour des scores de compte nommé ABM.
+Avec cette version, les utilisateurs de Marketo ABM peuvent gérer des comptes nommés via l’API Comptes nommés. Les utilisateurs peuvent créer, mettre à jour et supprimer des comptes nommés, ainsi que lire et mettre à jour des scores de compte nommé ABM.
 
 ## [Prise en charge de l’API de l’éditeur de courrier électronique v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
-Gérez les variables et les modules pour les courriers électroniques au format v2.0 à l’aide de l’API REST de Marketo.
+Gérez les variables et les modules pour les courriers électroniques au format v2.0 à l’aide de l’API Marketo REST.
 
-## [Modifications apportées à la synchronisation de Marketo Salesforce](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## [Modifications apportées à la synchronisation Marketo Salesforce](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-L’intégration Salesforce de Marketo évolue pour améliorer la synchronisation des champs de Marketo avec Salesforce. Désormais, au lieu d’avoir à synchroniser un grand groupe de champs dont vous pourriez avoir besoin ou non, vous pouvez choisir les champs que vous souhaitez inclure. Consultez notre documentation ici pour en savoir plus : [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+L’intégration de Marketo Salesforce évolue pour améliorer la synchronisation des champs Marketo avec Salesforce. Désormais, au lieu d’avoir à synchroniser un grand groupe de champs dont vous pourriez avoir besoin ou non, vous pouvez choisir les champs que vous souhaitez inclure. Consultez notre documentation ici pour en savoir plus : [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
