@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949226
-description: SEO - Comprendre les liens entrants - Documents marketing - Documentation du produit
+description: SEO - Comprendre les liens entrants - Docs Marketo - Documentation du produit
 title: SEO - Comprendre les liens entrants
+exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # SEO - Comprendre les liens entrants {#seo-understanding-inbound-links}
 
@@ -26,7 +26,7 @@ Les liens entrants indiquent aux moteurs de recherche que votre site vaut la pei
 | Liens vers un concurrent | Indique si un concurrent est lié dans cette URL. |
 | Liens vers mon site | Indique si votre site est lié à cette URL. |
 | Liens de mon site | Indique si votre site contient un lien vers cette URL. |
-| PageRank | Identifie le classement des pages des URL dans la recherche (1 à 10) |
+| PageRank | Identifie le classement des pages des URL dans la recherche (1 à 10). |
 
 Doux ! Maintenant que vous comprenez les liens entrants, nous pouvons suggérer d&#39;autres opportunités de liens entrants pour votre site.
 
