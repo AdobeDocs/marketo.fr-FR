@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720461
-description: Jetons d’encodage HTML dans les courriels - Documents marketing - Documentation du produit
-title: Jetons d’encodage HTML dans les courriers électroniques
+description: Jetons d’encodage HTML dans les courriers électroniques - Documents Marketo - Documentation sur les produits
+title: Jetons d’encodage HTML dans les e-mails
+exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# Jetons d’encodage HTML dans les courriers électroniques {#html-encode-tokens-in-emails}
+# Jetons d’encodage HTML dans les e-mails {#html-encode-tokens-in-emails}
 
 Activez/désactivez les jetons de personne et de société utilisés dans les courriers électroniques.
 
@@ -35,7 +35,7 @@ Activez/désactivez les jetons de personne et de société utilisés dans les co
 
    ![](assets/five.png)
 
-1. Cochez la case **Jetons d&#39;encodage HTML dans les courriers électroniques** pour activer, décochez la case pour désactiver.
+1. Cochez la case **Jetons d’encodage HTML dans les courriers électroniques** pour l’activer, décochez la case pour la désactiver.
 
    ![](assets/six.png)
 
