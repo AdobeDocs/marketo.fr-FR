@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953325
-description: Détails de l’entrée de vue - Documentation sur le marketing - Documentation sur le produit
+description: Détails de l'entrée de vue - Documents Marketo - Documentation du produit
 title: Détails de l’entrée de vue
+exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
-
 
 # Détails de l&#39;entrée de vue {#view-entry-details}
 
