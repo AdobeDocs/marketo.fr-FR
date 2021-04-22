@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951105
-description: Notes de mise à jour - Janvier 2013 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Janvier 2013 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Janvier 2013
+exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '317'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Notes de mise à jour : Janvier 2013 {#release-notes-january}
 
-La version de janvier développe notre offre sociale avec **Offres référentes**. En outre, les utilisateurs de la gestion des pistes marketing peuvent définir leur fuseau horaire, leur langue et leurs préférences de paramètres régionaux. Veuillez noter que les fonctions marquées d&#39;un * sont disponibles uniquement dans l&#39;édition Select.
+La version de janvier développe notre offre sociale avec **Offres référentes**. En outre, les utilisateurs de la gestion des pistes de Marketo peuvent définir leur fuseau horaire, leur langue et leurs préférences de paramètres régionaux. Veuillez noter que les fonctions marquées d&#39;un * sont disponibles uniquement dans l&#39;édition Select.
 
-## Offres de renvoi {#referral-offers}
+## Offres de parrainage {#referral-offers}
 
 Une **Offre de renvoi** incite vos prospects à diriger leurs amis. Créez des objectifs et des récompenses pour les renvois réussis. Vous pouvez l’utiliser sur des landings page, votre site Web et même Facebook.
 
@@ -23,15 +23,15 @@ Une **Offre de renvoi** incite vos prospects à diriger leurs amis. Créez des o
 
 ## Préférence Fuseau horaire {#time-zone-preference}
 
-Vous pouvez modifier le fuseau horaire par défaut de votre compte professionnel personnel. Par exemple, même si la valeur par défaut de l’abonnement est Heure du Pacifique, vous pouvez la remplacer par Heure de l’Est pour votre propre compte.
+Vous pouvez modifier le fuseau horaire par défaut de votre compte Marketo personnel. Par exemple, même si la valeur par défaut de l’abonnement est Heure du Pacifique, vous pouvez la remplacer par Heure de l’Est pour votre propre compte.
 
 ![](assets/image2014-9-22-15-3a20-3a41.png)
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## Sélectionnez votre langue de gestion des pistes marketing {#select-your-marketo-lead-management-language}
+## Sélectionnez votre langue de gestion des pistes Marketo {#select-your-marketo-lead-management-language}
 
-Vous pouvez modifier la langue par défaut de votre compte utilisateur Marketing. Même si l’abonnement est défini par défaut en anglais, vous pouvez le remplacer par allemand ou français pour votre propre usage.
+Vous pouvez modifier la langue par défaut de votre compte utilisateur Marketo. Même si l’abonnement est défini par défaut en anglais, vous pouvez le remplacer par allemand ou français pour votre propre usage.
 
 ![](assets/image2014-9-22-15-3a21-3a18.png)
 
@@ -57,7 +57,7 @@ Les noms d’affichage des champs peuvent afficher du texte dans différentes la
 
 ![](assets/image2014-9-22-15-3a22-3a56.png)
 
-## Modifier les données de Programme {#change-program-data}
+## Modifier les données du programme {#change-program-data}
 
 L’étape de flux Modifier les données du Programme vous permet de modifier manuellement l’état de réussite et la date de réussite d’un membre du programme par le biais d’une campagne. Vous pouvez utiliser cette étape de flux pour corriger une erreur ou pour modifier manuellement un membre qui n&#39;a peut-être pas participé au programme comme prévu.
 
