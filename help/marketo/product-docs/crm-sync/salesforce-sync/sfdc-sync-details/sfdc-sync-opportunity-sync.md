@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953467
-description: Synchronisation SFDC - Synchronisation des opportunités - Documents marketing - Documentation du produit
+description: Synchronisation SFDC - Synchronisation des opportunités - Documentation Marketo - Documentation du produit
 title: Synchronisation SFDC - Synchronisation des opportunités
+exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Synchronisation SFDC : Synchronisation des opportunités {#sfdc-sync-opportunity-sync}
 
@@ -19,19 +19,19 @@ La synchronisation est un moyen : de Salesforce à Marketo. Les mises à jour de
 
 >[!NOTE]
 >
->Les [informations d&#39;identification que vous saisissez dans Marketo pour Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
+>Les [informations d’identification que vous saisissez dans Marketo pour Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
 
 ## Puis-je lancer une synchronisation des opportunités ? {#can-i-initiate-an-opportunity-sync}
 
 Non, vous ne pouvez pas. Les modifications apportées à toute opportunité dans Salesforce seront automatiquement synchronisées sur Marketo.
 
-## Le marketing prend-il en charge plusieurs devises dans le montant de l&#39;opportunité ? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
+## Marketo prend-t-il en charge plusieurs devises dans le montant de l&#39;opportunité ? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-Non, Marketo ne prend en charge qu&#39;une seule devise. Le montant d&#39;opportunité sera synchronisé à partir de Salesforce mais la devise sera la [devise par défaut](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) dans votre abonnement Marketo.
+Non, Marketo ne prend en charge qu&#39;une seule devise. Le montant d&#39;opportunité sera synchronisé à partir de Salesforce, mais la devise sera la [devise par défaut](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) dans votre abonnement Marketo.
 
-## Comment Marketing associe-t-il les opportunités et les contacts ? {#how-does-marketo-associate-opportunities-and-contacts}
+## Comment Marketo associe-t-il les opportunités et les contacts ? {#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketo associe Opportunités et contacts à l&#39;aide de [Rôles de contact Opportunité](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm). Les opportunités sans aucun rôle de contact affecté seront synchronisées avec Marketo, mais n’appartiendront à personne. Par exemple, la personne ne sera pas admissible au filtre Avec opportunité.
+Marketo associe les opportunités et les contacts à l&#39;aide de [Rôles de contact d&#39;opportunité](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm). Les opportunités sans aucun rôle de contact affecté seront synchronisées avec Marketo, mais n&#39;appartiendront à personne. Par exemple, la personne ne sera pas admissible au filtre Avec opportunité.
 
 ## Comment puis-je voir toutes les opportunités d&#39;une personne ? {#how-can-i-see-all-the-opportunities-of-a-person}
 
@@ -51,9 +51,9 @@ Filtres :
 * Opportunité mise à jour/Aucune opportunité mise à jour
 * A été Ajouté à l&#39;opportunité/Non Ajouté à l&#39;opportunité
 * A été supprimé de l&#39;opportunité/N&#39;a pas été supprimé de l&#39;opportunité
-* Montant total d&#39;opacité
-* Nombre d’options
-* Total des recettes prévues de l&#39;Optimisation
+* Montant total de l&#39;opportunité
+* Nombre d&#39;opportunités
+* Total du chiffre d&#39;affaires souhaité de l&#39;opportunité
 
 >[!TIP]
 >
