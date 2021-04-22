@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10093348
-description: Présentation des cartes Campaign intelligentes - Documents marketing - Documentation du produit
+description: Présentation des cartes Campaign Smart - Docs Marketo - Documentation du produit
 title: Présentation des cartes Campaign Smart
+exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
-
 # Présentation des cartes Campaign Smart {#understanding-smart-campaign-cards}
 
-Utilisez Moments marketing pour vue chaque exécution de vos campagnes intelligentes depuis votre smartphone ou votre iPad. La carte de campagne Moments marketing représente une exécution unique d’une campagne ; une nouvelle carte s’affiche chaque fois que la campagne active. Les cartes de campagne intelligentes sont marquées avec une ampoule en haut à gauche.
+Utilisez Marketo Moments pour vue chaque exécution de vos campagnes intelligentes depuis votre smartphone ou votre iPad. La carte de campagne intelligente Moments Marketo représente une exécution unique d’une campagne ; une nouvelle carte s’affiche chaque fois que la campagne active. Les cartes de campagne intelligentes sont marquées avec une ampoule en haut à gauche.
 
-Pour les futures campagnes actives planifiées mais non encore exécutées, la carte Moments du marketing n’affiche pas encore les statistiques de campagne. Ils apparaîtront dans une prochaine version.
+Pour les futures campagnes dynamiques planifiées mais non encore exécutées, la carte Moments Marketo n’affiche pas encore les statistiques de campagne. Ils apparaîtront dans une prochaine version.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -127,11 +127,11 @@ Vous pouvez replanifier une campagne dynamique confirmée qui ne s’est pas enc
 
 ## Autres actions Smart Campaign {#other-smart-campaign-actions}
 
-Comme pour les autres cartes Moments du marketing, vous pouvez appuyer sur les trois points sur n’importe quelle carte Campaign dynamique ou carte de détails pour :
+Comme pour les autres cartes Marketo Moments, vous pouvez appuyer sur les trois points de toute carte Smart Campaign ou carte de détails pour :
 
 * [En faire un favori](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [Marquer comme terminé](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Partager](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Faites-le connaître autour de vous](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
