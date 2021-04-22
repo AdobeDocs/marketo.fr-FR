@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951259
-description: Glossaire du type de champ personnalisé - Documents marketing - Documentation du produit
+description: Glossaire de type de champ personnalisé - Documentation Marketo - Documentation du produit
 title: Glossaire du type de champ personnalisé
+exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Glossaire du type de champ personnalisé {#custom-field-type-glossary}
 
-Lorsque vous créez un champ personnalisé dans Marketing, vous disposez d’une liste de types parmi lesquels choisir.
+Lorsque vous créez un champ personnalisé dans Marketo, vous disposez d’une liste de types parmi lesquels choisir.
 
 >[!PREREQUISITES]
 >
->[Créer un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Création d’un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
@@ -27,7 +27,7 @@ Lorsque vous créez un champ personnalisé dans Marketing, vous disposez d’une
 >
 >La plupart des champs n’excèdent pas le nombre de caractères, mais le nombre d’octets. Pour cette raison, nous ne pouvons pas fournir une limite de caractères définitive pour chaque champ. L’exception est **String**, qui dépasse 255 caractères.
 
-## Booléen {#boolean}
+## Booléenne {#boolean}
 
 **Exemple de nom :** Est-ce que le client - Identifier vos clients
 
@@ -51,7 +51,7 @@ Lorsque vous créez un champ personnalisé dans Marketing, vous disposez d’une
 
 **Opérateurs** : est, n&#39;est pas, entre, dans le passé, dans le passé avant, dans le futur après, dans le cadre de la période, après, avant, avant, le ou après, le ou avant, est vide, n&#39;est pas vide
 
-## Date-time {#datetime}
+## Datetime {#datetime}
 
 **Exemple de nom : Date de** création - Stocke la date et l&#39;heure de création d&#39;une personne
 
@@ -59,7 +59,7 @@ Lorsque vous créez un champ personnalisé dans Marketing, vous disposez d’une
 
 **Opérateurs** : est, n&#39;est pas, entre, dans le passé, dans le passé avant, dans le futur après, dans le cadre de la période, après, avant, avant, le ou après, le ou avant, est vide, n&#39;est pas vide
 
-## Courriel {#email}
+## E-mails {#email}
 
 **Exemple de nom :** Autre adresse électronique : conservez une autre adresse électronique pour vos utilisateurs (il n’est pas possible d’envoyer des courriers électroniques à ce champ comme le champ d’adresse électronique par défaut, celui-ci étant spécial).
 
@@ -67,7 +67,7 @@ Lorsque vous créez un champ personnalisé dans Marketing, vous disposez d’une
 
 **Opérateurs** : est, n’est pas, les débuts avec, et non les débuts avec, contient, ne contient pas, est vide, n’est pas vide
 
-## Flottant {#float}
+## Flottante {#float}
 
 **Exemple Nom : Moyenne des points de** note - Conserver la moyenne des points de note d&#39;une personne ou toute autre valeur numérique ayant des décimales
 
@@ -105,7 +105,7 @@ Lorsque vous créez un champ personnalisé dans Marketing, vous disposez d’une
 
 **Opérateurs** : est, n’est pas, les débuts avec, et non les débuts avec, contient, ne contient pas, est vide, n’est pas vide
 
-## Score {#score}
+## Évaluation {#score}
 
 **Exemple de nom : score** comportemental / score démographique - créez plusieurs champs de score pour suivre les différents attributs.
 
