@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951093
-description: Notes de mise à jour - Juillet 2013 - Documentation sur le marketing - Documentation du produit
+description: Notes de mise à jour - Juillet 2013 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - juillet 2013
+exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Notes de mise à jour : Juillet 2013 {#release-notes-july}
 
@@ -27,7 +27,7 @@ Voulez-vous arrêter les pistes d&#39;e-mail ? Il est désormais facile de limit
 
 ![](assets/image2014-9-22-16-3a31-3a13.png)
 
-## Cobalt User Interface {#cobalt-user-interface}
+## Interface utilisateur cobalt {#cobalt-user-interface}
 
 Au cours des prochains mois, vous remarquerez que notre nouveau thème se déroulera dans différentes parties de l&#39;application. Aucune fonctionnalité ne sera déplacée ou supprimée.
 
