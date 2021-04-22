@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360189
-description: Personnaliser vos URL de Landing page avec un CNAME (Administration) - Docs marketing - Documentation sur les produits
+description: Personnaliser vos URL de Landing page avec un CNAME (Administration) - Docs Marketo - Documentation du produit
 title: Personnaliser vos URL de Landing page avec un CNAME (Administration)
+exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Personnaliser vos URL de Landing page avec un CNAME (Administration) {#customize-your-landing-page-urls-with-a-cname-administration}
 
@@ -29,11 +29,11 @@ Même si Marketo héberge vos landings page, l’URL doit être personnalisée p
 >
 >**Autorisations d’administrateur requises**
 
-Mettons-nous en place !
+Procédons à la configuration!
 
 1. Sélectionnez un CNAME.
 
-   C&#39;est la partie avant de l&#39;URL. Exemples :
+   C&#39;est la partie avant de l&#39;URL. Exemples :
 
    * **allez** à .YourCompany.com/NameOfPage.html
    * **info** .YourCompany.com/NameOfPage.html
@@ -73,6 +73,6 @@ Mettons-nous en place !
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
-Votre page de secours est celle où les visiteurs seront redirigés si votre landing page Marketo n’est pas disponible.
+Votre page de secours est celle où les utilisateurs seront redirigés si votre landing page Marketo n’est pas disponible.
 
 Beau boulot ! Vos landings page sont désormais marqués avec votre domaine de société.
