@@ -1,22 +1,22 @@
 ---
 unique-page-id: 7504744
-description: Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 3 sur 3 - Documentation sur le marketing - Documentation sur le produit
-title: Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 3 sur 3
+description: Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 3 sur 3 - Marketo Docs - Documentation du produit
+title: Installation de Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 3 sur 3
+exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Étape 3 sur 3 : Connect Marketo Dynamics (On-Prem 2015 et On-Prem 2016 365) {#step-of-connect-marketo-dynamics-on-premises-and-365}
+# Étape 3 sur 3 : Connect Marketo Dynamics (2015 On-Prem et 2016 365 On-Prem) {#step-of-connect-marketo-dynamics-on-premises-and-365}
 
 >[!PREREQUISITES]
 >
->* [Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 1 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
->* [Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 2 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+>* [Installation de Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 1 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [Installation de Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 2 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## Entrer les informations utilisateur de Dynamics Sync {#enter-dynamics-sync-user-information}
 
-1. Connectez-vous à Marketing et cliquez sur **Admin**.
+1. Connectez-vous à Marketo et cliquez sur **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* Si votre Marketo a été configuré avant octobre 2020, l’ID de client et le champ Secret sont des champs facultatifs. Sinon, elles sont obligatoires. L’obtention de ces informations dépendra de la version de MSD que vous utilisez.
+   >* Si votre Marketo a été mis en service avant octobre 2020, l’ID de client et le champ Secret sont des champs facultatifs. Sinon, elles sont obligatoires. L’obtention de ces informations dépendra de la version de MSD que vous utilisez.
    >* Le nom d’utilisateur dans Marketo doit correspondre au nom d’utilisateur de l’utilisateur synchronisé dans CRM. Le format peut être `user@domain.com` ou DOMAINE\utilisateur.
    >* Si vous ne connaissez pas l&#39;URL, [apprenez comment la trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Actualisez ensuite le schéma dans Marketo en modifiant et en enregistrant les [champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+>Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Actualisez ensuite le schéma dans Marketo en modifiant et en enregistrant [Sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Champs de synchronisation pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
