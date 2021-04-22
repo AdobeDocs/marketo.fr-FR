@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949469
-description: Etapes de configuration - Documents marketing - Documentation du produit
+description: Procédure de configuration - Documentation Marketo - Documentation du produit
 title: Etapes de configuration
+exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '2004'
 ht-degree: 0%
 
 ---
 
-
 # Etapes de configuration {#setup-steps}
 
-**Bienvenue sur le marché !**
+**Bienvenue sur Marketo!**
 
-Avant de vous plonger dans l&#39;utilisation de Marketo, vous devez effectuer quelques étapes.
+Avant de plonger dans Marketo, vous devez effectuer quelques étapes.
 
 Ces étapes comprennent :
 
@@ -34,15 +34,15 @@ Certaines étapes nécessitent l&#39;aide de votre équipe informatique.
 >
 >Si vous [imprimez cette liste de contrôle](/help/marketo/getting-started/setup-steps/setup-checklist.md), vous pouvez désactiver les éléments lorsque vous les terminez.
 
-## Connectez-vous et créez d’autres utilisateurs du marketing {#log-in-and-create-additional-marketo-users}
+## Connectez-vous et créez des utilisateurs Marketo supplémentaires {#log-in-and-create-additional-marketo-users}
 
 1. Connectez-vous à Marketo [ici](https://app.marketo.com/) à l’aide des informations d’identification que vous avez reçues par courrier électronique.
 
    ![](assets/new-login-screen-hand.jpg)
 
-Félicitations ! Vous êtes maintenant à Marketo et pouvez début à explorer. Vous pouvez inviter vos collègues de l’équipe marketing à vous rejoindre. Pour ce faire, ajoutez de nouveaux utilisateurs.
+Félicitations ! Vous êtes maintenant à Marketo et pouvez début explorer. Vous pouvez inviter vos collègues de l’équipe marketing à vous rejoindre. Pour ce faire, ajoutez de nouveaux utilisateurs.
 
-Accédez à la zone **Admin**.
+Cliquez sur l&#39;icône **Admin**.
 
 >[!TIP]
 >
@@ -76,7 +76,7 @@ Cliquez sur **Suivant**.
 
 >[!TIP]
 >
->Une date d’expiration est idéale pour les parties prenantes externes ou les consultants à court terme, qui ont besoin de Marketing pour accéder à Markepour une courte période.
+>Une date d&#39;expiration est idéale pour les parties prenantes externes ou les consultants à court terme, qui n&#39;ont besoin de l&#39;accès à Marketo que pour une courte période.
 
 >[!NOTE]
 >
@@ -100,13 +100,13 @@ Le nouvel utilisateur est désormais répertorié dans l’onglet Utilisateurs e
 
 ## Configurer vos contacts d&#39;assistance autorisés {#set-up-your-authorized-support-contacts}
 
-Vous avez peut-être reçu un courrier électronique de l’assistance marketing vous indiquant que vous êtes l’administrateur du service clientèle de Marketo pour votre société. Si tel est le cas, vous pouvez configurer **contacts d&#39;assistance autorisés** pour votre équipe. Seuls les contacts d&#39;assistance autorisés peuvent contacter le service clientèle de Marketing Cloud directement via le [portail d&#39;assistance marketing](https://support.marketo.com).
+Vous avez peut-être reçu un courrier électronique de l’assistance Marketo vous indiquant que vous êtes l’administrateur de l’assistance clientèle Marketo pour votre société. Si tel est le cas, vous pouvez configurer **contacts d&#39;assistance autorisés** pour votre équipe. Seuls les contacts d&#39;assistance autorisés peuvent contacter le service clientèle de Marketo directement via le [portail d&#39;assistance de Marketo](https://support.marketo.com).
 
 >[!NOTE]
 >
->Le nombre de contacts d&#39;assistance que vous pouvez créer est déterminé par le pack que vous avez acheté. Cette limite est spécifiée dans votre courrier électronique de la part de l’assistance marketing.
+>Le nombre de contacts d&#39;assistance que vous pouvez créer est déterminé par le pack que vous avez acheté. Cette limite est spécifiée dans votre courrier électronique envoyé par l’assistance Marketo.
 
-Les documents de contact d&#39;assistance autorisés ont été déplacés vers la communauté Marketo. Consultez [cet article](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341).
+Les documents de contact du support autorisé ont été déplacés vers la communauté Marketo. Consultez [cet article](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341).
 
 >[!NOTE]
 >
@@ -138,7 +138,7 @@ Pour récupérer la chaîne de compte que vous allez remplacer par votre CNAME d
 
 ![](assets/admin.png)
 
-Cliquez sur **Landings page**.
+Cliquez sur **Pages de destination**.
 
 ![](assets/image2015-1-6-13-3a52-3a6.png)
 
@@ -159,10 +159,10 @@ Configurez les paramètres de votre domaine de sorte que les landings page utili
 Vous pouvez prendre plusieurs mesures pour vous assurer que les courriels atteignent le plus grand nombre possible de personnes.
 
     1. **Marquez vos liens de suivi**. Vous pouvez choisir un CNAME pour utiliser votre propre domaine (au lieu de celui de Marketo) dans les liens que vous incluez dans les courriers électroniques de Marketo. Cela renforce la marque de votre domaine et augmente la confiance et la délivrabilité avec vos destinataires.
-    1. **Ajoutez Marketo à votre liste autorisée électronique d’entreprise.** Il est généralement recommandé d&#39;envoyer des e-mails de test à vos comptes de test avant d&#39;envoyer des e-mails à des personnes réelles. En plaçant sur la liste autorisée Marketo, vous pouvez empêcher que ces courriels de test ne soient bloqués ou marqués comme spam.
-    1. **Configurez SPF et DKIM.** Ces technologies garantissent à vos destinataires que vos courriels Marketo ne sont pas des spams. Pour éviter que les filtres de spam des destinataires ne vous rejettent les courriers électroniques de Marketing Cloud, suivez ces étapes pour [Configuration d’un SPF et d’un DKIM pour votre délivrabilité de courriels](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
+    1. **Ajoutez Marketo à votre liste autorisée d&#39;e-mail d&#39;entreprise.** Il est généralement recommandé d&#39;envoyer des e-mails de test à vos comptes de test avant d&#39;envoyer des e-mails à des personnes réelles. En plaçant sur la liste autorisée Marketo, vous pouvez empêcher que ces courriels de test ne soient bloqués ou marqués comme spam.
+    1. **Configurez SPF et DKIM.** Ces technologies assurent vos destinataires que vos courriels Marketo ne sont pas des pourriels. Pour éviter que les filtres de spam des destinataires ne vous rejettent les courriels Marketo, suivez ces étapes pour [Configuration d’un SPF et d’un DKIM pour votre délivrabilité de courriels](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
     1. **Configurez un enregistrement MX pour votre domaine.** Un enregistrement MX vous permet de recevoir du courrier au domaine à partir duquel vous envoyez du courrier électronique pour traiter les réponses et les répondeurs automatiques. Si vous envoyez des données à partir de votre domaine d’entreprise, il est probable que vous ayez déjà configuré cette option. Dans le cas contraire, vous pouvez généralement configurer la mise en correspondance avec l’enregistrement MX de votre domaine d’entreprise.
-    1. **Paramètres recommandés pour l’adresse de départ.** Vous devez utiliser un domaine de courriel valide, existant et fonctionnel dans l’adresse de l’expéditeur dans toutes les campagnes par courriel. Il peut s’avérer utile de configurer un sous-domaine de votre domaine d’entreprise plutôt que de l’envoyer à partir de votre domaine d’entreprise. Cela permet de s&#39;assurer que les problèmes provenant de votre flux de courrier d&#39;entreprise n&#39;affectent pas votre flux de courrier marketing et vice versa. En outre, l&#39;envoi de courrier à partir de something@nonexistentdomain.com entraînera le filtrage ou le blocage des courriers électroniques. Tout domaine utilisé dans l&#39;adresse de l&#39;expéditeur doit avoir un compte valide et fonctionnel de postmaster@ et abuse@.
+    1. **Paramètres recommandés pour l’adresse de départ.** Vous devez utiliser un domaine de courriel valide, existant et fonctionnel dans l’adresse de l’expéditeur dans toutes les campagnes par courriel. Il peut s’avérer utile de configurer un sous-domaine de votre domaine d’entreprise plutôt que de l’envoyer à partir de votre domaine d’entreprise. Cela permet de s&#39;assurer que les problèmes provenant de votre flux de courrier d&#39;entreprise n&#39;affectent pas votre flux de courrier Marketo et vice versa. En outre, l&#39;envoi de courrier à partir de something@nonexistentdomain.com entraînera le filtrage ou le blocage des courriers électroniques. Tout domaine utilisé dans l&#39;adresse de l&#39;expéditeur doit avoir un compte valide et fonctionnel de postmaster@ et abuse@.
     Si vous utilisez Google Apps pour héberger vos courriels d&#39;entreprise, vous ne pourrez pas créer de courriels &quot;abuse@&quot; ou &quot;postmaster@&quot; sous votre domaine. Pour contourner ce problème, vous devez créer des groupes nommés &quot;abus&quot; et &quot;maître de poste&quot;. Les utilisateurs qui sont membres de ces groupes recevront des courriels envoyés à ces adresses (par exemple, postmaster@domain.com). Vous trouverez des instructions détaillées sur la création de groupes [ici](https://support.google.com/a/answer/33343#adminconsole).
 
 Choisissez un CNAME pour les liens de tracking email (choisissez un CNAME _différent_ dans le landing page CNAME que vous avez choisi à l’étape 3). En voici quelques exemples :
@@ -219,13 +219,13 @@ Collez ce texte dans le courrier électronique et remplacez les espaces réserv�
 
 Cher administrateur informatique stupéfiant,
 
-Notre équipe marketing utilise maintenant la plate-forme Marketo pour communiquer avec notre personnel. Pour garantir une excellente délivrabilité des courriers électroniques, nous devons apporter les modifications suivantes :
+Notre équipe de marketing utilise maintenant la plateforme Marketo pour communiquer avec notre personnel. Pour garantir une excellente délivrabilité des courriers électroniques, nous devons apporter les modifications suivantes :
 
 `1)` Pour nos landings page, ajoutez une entrée DNS (CNAME) pour  **[LandingPageCNAME]**.**[CompanyDomain]**.com, pointant vers  **[AccountString]**.mktoweb.com.
 
 `2)` Pour nos liens de suivi dans le courrier électronique, ajoutez une entrée DNS (CNAME) pour  **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, pointant vers  **[MktoTrackingLink]**.
 
-`3)` Placer sur la liste autorisée le marketing.
+`3)` Placez sur la liste autorisée Marketo.
 
     * Si nous utilisons des adresses IP dans notre Liste autorisée de courriel, ajoutez les adresses IP répertoriées ci-dessous :
     199.15.212.0/22
@@ -244,14 +244,14 @@ Notre équipe marketing utilise maintenant la plate-forme Marketo pour communiqu
 
     
     
-REMARQUE : Contactez l’assistance marketing si vous souhaitez qu’une liste abrégée d’adresses IP place sur la liste autorisée spécifique à votre environnement.
+REMARQUE : Contactez l’assistance Marketo si vous souhaitez qu’une liste abrégée d’adresses IP s’place sur la liste autorisée spécifique à votre environnement.
 
     * Si notre système antispam utilise les domaines De, ajoutez les éléments suivants :
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**
 
-`4)` Nous devons configurer SPF et DKIM pour que Marketo soit autorisé à envoyer des courriels signés en notre nom.
+`4)` Nous devons mettre en place SPF et DKIM pour que Marketo soit autorisé à envoyer des courriels signés en notre nom.
 
 `a.` Pour configurer SPF, veuillez ajouter la ligne suivante à nos entrées DNS :
 
@@ -262,7 +262,7 @@ Si notre entrée DNS contient déjà un enregistrement SPF existant, il suffit d
 
 include:mktomail.com
 
-`[`Remplacez  **de** domaine par votre adresse électronique de domaine (ex : société.com) et  **** CorpIP avec l’adresse IP de votre serveur de messagerie d’entreprise (ex : 255.255.255.255).  Si vous souhaitez envoyer des courriers électroniques à partir de plusieurs domaines via Marketo, votre personnel informatique doit ajouter cette ligne pour chaque domaine (sur une seule ligne).`]`
+`[`Remplacez  **de** domaine par votre adresse électronique de domaine (ex : société.com) et  **** CorpIP avec l’adresse IP de votre serveur de messagerie d’entreprise (ex : 255.255.255.255).  Si vous envoyez des courriers électroniques de plusieurs domaines via Marketo, votre personnel informatique doit ajouter cette ligne pour chaque domaine (sur une seule ligne).`]`
 
 `b.` Pour DKIM, créez des enregistrements de ressources DNS pour chaque domaine que nous aimerions configurer. Vous trouverez ci-dessous les enregistrements d’hôtes et les valeurs TXT pour chaque domaine pour lequel nous allons signer :
 
@@ -272,11 +272,11 @@ include:mktomail.com
 
 `[`Copiez l&#39; **** HostRecordand  **** TXTValuepour chaque  **** DKIMDomainque que vous avez configuré après avoir suivi les  [instructions ici](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). N&#39;oubliez pas de vérifier chaque domaine dans **Admin > E-mail > DKIM** une fois que votre personnel informatique a terminé cette étape.`]`
 
-`5)` Nous devons nous assurer qu&#39;il existe un enregistrement MX valide pour nos domaines FROM  **[FromDomain1]**,  **[FromDomain2]**, etc. Pouvez-vous confirmer ? Si ce n&#39;est pas le cas, configurez-le pour qu&#39;il corresponde à notre enregistrement MX de domaine d&#39;entreprise. Ceci nous permettra de traiter les réponses/répondeurs automatiques à nos envois Marketo.
+`5)` Nous devons nous assurer qu&#39;il existe un enregistrement MX valide pour nos domaines FROM  **[FromDomain1]**,  **[FromDomain2]**, etc. Pouvez-vous confirmer ? Si ce n&#39;est pas le cas, configurez-le pour qu&#39;il corresponde à notre enregistrement MX de domaine d&#39;entreprise. Cela nous permettra de traiter les réponses/répondeurs automatiques à nos envois Marketo.
 
-Dites-moi quand vous avez terminé ces étapes, afin que je puisse terminer la procédure de configuration avec Marketo.
+Faites-moi savoir quand vous avez terminé ces étapes, afin que je puisse terminer le processus de configuration avec Marketo.
 
-Merci ! Tu es la meilleure !
+Merci! Tu es la meilleure !
 
 Amour,
 
@@ -284,9 +284,9 @@ Amour,
 
 `---------------------------------------------`
 
-Envoyez le courriel au service informatique. Nous comprenons qu&#39;il peut s&#39;écouler un certain temps avant que l&#39;informatique puisse achever ces tâches. Vous pouvez passer à l’étape 7, mais n’oubliez pas que vous devez renvoyer l’étape 6 pour terminer la configuration de Marketing Cloud.
+Envoyez le courriel au service informatique. Nous comprenons qu&#39;il peut s&#39;écouler un certain temps avant que l&#39;informatique puisse achever ces tâches. Vous pouvez passer à l’étape 7, mais n’oubliez pas que vous devez renvoyer l’étape 6 pour terminer la configuration de Marketo.
 
-## Effectuez la configuration de votre marketing après la fin de l&#39;informatique {#complete-your-marketo-setup-after-it-finishes}
+## Terminer la configuration Marketo après la fin de l&#39;informatique {#complete-your-marketo-setup-after-it-finishes}
 
 Une fois que le service informatique a terminé ses tâches, procédez comme suit pour ajouter vos CNAME de landing page et de courrier électronique et pour activer la signature DKIM.
 
@@ -324,12 +324,12 @@ Dans le champ Domaine, entrez votre domaine de tracking email. Il doit se prése
 
 ## Intégrer votre gestion de la relation client {#integrate-your-crm}
 
-C&#39;est probablement l&#39;étape la plus excitante de votre configuration - il est temps de remplir Marketo avec tous les prospects et contacts que vous avez stockés dans votre CRM !
+C&#39;est probablement l&#39;étape la plus excitante de votre installation - il est temps de remplir Marketo avec tous les contacts et pistes que vous avez stockés dans votre CRM !
 
 Choisissez l’une des options suivantes, en fonction de la gestion de la relation client utilisée par votre société.
 
-    * [Intégrer le marché avec Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-    * [Intégrer le marché avec Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+    * [Intégrer Marketo avec Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [Intégrer Marketo avec Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >
@@ -341,10 +341,10 @@ Choisissez l’une des options suivantes, en fonction de la gestion de la relati
 >
 >Êtes-vous client de Launch Pack ? Vous pouvez ignorer cette étape. Votre consultant vous fournira des instructions de code Munchkin dans votre document d&#39;instructions de configuration informatique.
 
-Marketo comporte un code JavaScript de suivi personnalisé (appelé Munchkin) que vous pouvez utiliser pour suivre les activités de personnes sur n’importe quelle page Web. Munchkin doit intégrer votre site Web dans Marketo. Suivez ces étapes pour [Ajouter le code de suivi Munchkin à votre site Web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+Marketo dispose d’un code JavaScript de suivi personnalisé (appelé Munchkin) que vous pouvez utiliser pour effectuer le suivi des activités de personnes sur n’importe quelle page Web. Munchkin doit intégrer votre site Web à Marketo. Suivez ces étapes pour [Ajouter le code de suivi Munchkin à votre site Web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 >[!NOTE]
 >
 >Expérience avec du code HTML requise pour ajouter le code de suivi.
 
-Toutes les étapes de configuration sont terminées. Il ne reste plus qu&#39;à plonger et utiliser le Marketo !
+Toutes les étapes de configuration sont terminées. Il ne reste plus qu&#39;à plonger et à utiliser Marketo !
