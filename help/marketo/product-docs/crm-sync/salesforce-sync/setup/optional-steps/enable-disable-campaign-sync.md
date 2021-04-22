@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719289
-description: Activer/désactiver la synchronisation Campaign - Documents marketing - Documentation du produit
+description: Activer/désactiver la synchronisation Campaign - Docs Marketo - Documentation du produit
 title: Activer/désactiver la synchronisation Campaign
+exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Activer/désactiver Campaign Sync {#enable-disable-campaign-sync}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Cette option permet à Marketing Cloud de synchroniser son adhésion et ses états programmes avec les campagnes Salesforce et vice versa.
+Cette option permet à Marketo de synchroniser son adhésion au programme et ses états avec les campagnes Salesforce et vice versa.
 
 1. Accédez à **Admin**, cliquez sur **Salesforce**.
 
