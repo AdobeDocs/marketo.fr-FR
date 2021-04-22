@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949216
-description: SEO - Pages Ajoutées - Documents marketing - Documentation du produit
+description: SEO - Pages d'Ajoute - Documents Marketo - Documentation du produit
 title: Optimisation du référencement - Pages Ajoutées
+exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # SEO - Pages d&#39;Ajoute {#seo-add-pages}
 
-Vous avez des pages ! L’optimisation du référencement du marketing analysera automatiquement votre site et en assurera le suivi. Au cas où nous en manquerions quelques-uns, faites-les figurer dans l’application d’optimisation du référencement comme suit :
+Vous avez des pages ! Marketo SEO analysera automatiquement votre site et en assurera le suivi. Au cas où nous en manquerions quelques-uns, faites-les figurer dans l’application d’optimisation du référencement comme suit :
 
 1. Accédez à la section **Pages**.
 
@@ -29,7 +29,7 @@ Vous avez des pages ! L’optimisation du référencement du marketing analysera
 
    >[!TIP]
    >
-   >Saviez-vous que vous pouvez [ajouter votre page à une liste nouvelle ou existante](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ? Regardez !
+   >Saviez-vous que vous pouvez [ajouter votre page à une liste nouvelle ou existante](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ? Découvrez-le ! 
 
    Le chargement de vos données de page peut prendre un certain temps. Attendez le message d’alerte vert et actualisez votre page pour mettre à jour l’affichage.
 
