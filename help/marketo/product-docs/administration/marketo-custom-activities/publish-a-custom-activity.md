@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100272
-description: Publication d’une Activité personnalisée - Documents marketing - Documentation du produit
+description: Publication d’une Activité personnalisée - Docs Marketo - Documentation du produit
 title: Publication d’une Activité personnalisée
+exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
-
 
 # Publier une Activité personnalisée {#publish-a-custom-activity}
 
