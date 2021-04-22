@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146987
-description: Suppression d’une étape de flux - Documents marketing - Documentation du produit
+description: Suppression d’une étape de flux - Documents Marketo - Documentation du produit
 title: Suppression d’une étape de flux
+exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
 
 ---
-
 
 # Supprimer une étape de flux {#delete-a-flow-step}
 
