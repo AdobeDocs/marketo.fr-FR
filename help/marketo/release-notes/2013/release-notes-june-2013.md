@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951095
-description: Notes de mise à jour - Juin 2013 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Juin 2013 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Juin 2013
+exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Notes de mise à jour : Juin 2013 {#release-notes-june}
 
@@ -17,11 +17,11 @@ Les fonctionnalités suivantes sont incluses dans la version de juin.
 
 ## Langues d&#39;utilisateur supplémentaires {#additional-user-languages}
 
-Vue de l&#39;interface de gestion des pistes Marketo dans votre langue préférée — prenant désormais en charge l&#39;espagnol et le portugais.
+Vue de l&#39;interface de gestion des pistes de Marketo dans votre langue préférée — prenant désormais en charge l&#39;espagnol et le portugais.
 
 ![](assets/image2014-9-22-16-3a25-3a54.png)
 
-## Cobalt User Interface {#cobalt-user-interface}
+## Interface utilisateur cobalt {#cobalt-user-interface}
 
 Au cours des prochains mois, vous remarquerez l&#39;apparition d&#39;un nouveau thème dans différentes parties de l&#39;application ; impact sur les fenêtres modales, par exemple.
 
