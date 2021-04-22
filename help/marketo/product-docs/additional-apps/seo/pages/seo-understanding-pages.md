@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949184
-description: SEO - Comprendre les pages - Documents marketing - Documentation du produit
+description: SEO - Comprendre les pages - Documents Marketo - Documentation du produit
 title: SEO - Comprendre les pages
+exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Comprendre les pages {#seo-understanding-pages}
 
