@@ -1,26 +1,26 @@
 ---
 unique-page-id: 8781845
-description: Présentation des moments marketing - Docs marketing - Documentation du produit
-title: Présentation des moments marketing
+description: Présentation des moments Marketo - Documents Marketo - Documentation du produit
+title: Comprendre les moments Marketo
+exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '544'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Présentation des moments Marketo {#understanding-marketo-moments}
 
-# Présentation des moments marketing {#understanding-marketo-moments}
-
-Le pouvoir de Marketo est maintenant entre vos mains, littéralement ! Prévisualisation et replanification des e-mails directement depuis votre téléphone ou votre iPad.
+La puissance de Marketo est désormais à votre disposition ! Prévisualisez les e-mails et planifiez à nouveau leur envoi à partir de votre téléphone ou de votre iPad.
 
 >[!AVAILABILITY]
 >
 >
->L’autorisation d’accès aux applications mobiles est requise. Contactez votre administrateur marketing pour [mettre à jour votre rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>L’autorisation d’accès aux applications mobiles est requise. Contactez votre administrateur Marketo pour [mettre à jour votre rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-## Flux {#streams}
+## Sources {#streams}
 
 Voici les différents courants dans Moments.
 
@@ -36,7 +36,7 @@ Voici les différents courants dans Moments.
 >* Terminé : Tout ce qui a fini de courir ou que vous avez marqué comme terminé va ici.
 
 
-Bon, maintenant que nous avons tout perdu, jetons un oeil sur les Moments du Marketo sur un téléphone !
+Bon, maintenant que nous avons tout perdu, jetons un coup d&#39;oeil à Marketo Moments sur un téléphone !
 
 ## Trois types de cartes {#three-kinds-of-cards}
 
@@ -72,7 +72,7 @@ Appuyez sur les trois points pour ouvrir un menu d’action de carte.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-Super ! Maintenant, vous pouvez faire en sorte que quelque chose arrive en appuyant sur :
+Fantastique ! Maintenant, vous pouvez faire en sorte que quelque chose arrive en appuyant sur :
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -81,7 +81,7 @@ Super ! Maintenant, vous pouvez faire en sorte que quelque chose arrive en appuy
 >**Définition**
 >
 >* Favori : Il est facile de prêter attention à ce qui est le plus opportun et le plus important si vous les rendez favoris.
->* Terminé : Terminé retire le produit de votre vue Moments du marché (mais le laisse sur le marché, sûr et sonore).
+>* Terminé : Terminé retire la vue Marketo Moments (mais la laisse à Marketo, sûre et sonore).
 >* Partager : Envoyez une image pour motiver ou féliciter votre équipe.
 >* Envoyer un exemple (courriel uniquement) : Utilisez-le pour permettre à d&#39;autres de vérifier l&#39;aspect de vos courriels avant de les envoyer.
 >* Courriel de la prévisualisation (courriel uniquement) : C&#39;est toujours une bonne idée de vérifier vos e-mails à l&#39;avance.
@@ -120,7 +120,7 @@ Pour les événements, vous verrez le nombre total de membres et leur état.
 Les cartes d’instant Analytics vous montrent comment vos courriels et vos événements se comportent, mois après mois, au cours des six derniers mois, pour :
 
 1. Pistes acquises
-1. Nouvelles pistes
+1. Nouveaux leads
 1. Désabonnements
 
 ![](assets/image2015-7-6-13-3a26-3a33.png)
@@ -144,7 +144,7 @@ Marketo Moments prend en charge les versions suivantes du système d’exploitat
 * Apple iOS 8.0 et versions ultérieures.
 * Android version 4.1 et ultérieure (essentiellement Jellybean et up).
 
-Prêt à en apprendre davantage ?
+Prêt pour la formation ?
 
 >[!MORELIKETHIS]
 >
