@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146937
-description: Membres de vue Smart Campaign - Docs marketing - Documentation du produit
+description: Membres de vue Smart Campaign - Marketo Docs - Documentation du produit
 title: Membres de vue Smart Campaign
+exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # Membres de vue Smart Campaign {#view-smart-campaign-members}
 
