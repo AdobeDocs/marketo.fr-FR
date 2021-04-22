@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147114
-description: Jetons de champs personnalisés pour les membres de programme - Documents marketing - Documentation du produit
+description: Jetons de champs personnalisés de membre de programme - Documents Marketo - Documentation du produit
 title: Jetons de champ personnalisés de membre de programme
+exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 translation-type: tm+mt
-source-git-commit: 35e8b41574ebf8aafa27a59440c8ea9cb6413d50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '439'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Jetons de champ personnalisés de membre de programme {#program-member-custom-field-tokens}
 
@@ -32,7 +32,7 @@ Les jetons de membre sont utilisés pour les champs relevant du champ Membre du 
 
 Vous pouvez insérer des jetons de champs personnalisés de membre de Programme dans des e-mails, des Landings page, des SMS, des notifications Push et des hameçons Web.
 
-**Courriers électroniques**
+**E-mails**
 
 1. Sélectionnez le courriel de votre choix et cliquez sur **Modifier le brouillon**.
 
@@ -54,7 +54,7 @@ Vous pouvez insérer des jetons de champs personnalisés de membre de Programme 
 >
 >N’oubliez pas d’approuver votre courriel.
 
-**landings page**
+**Pages de destination**
 
 1. Sélectionnez votre Landing page et cliquez sur **Modifier le brouillon**.
 
@@ -102,7 +102,7 @@ Vous pouvez insérer des jetons de champs personnalisés de membre de Programme 
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
-**Notifications Push**
+**Notifications push**
 
 1. Sélectionnez la notification Push souhaitée et cliquez sur **Modifier le brouillon**.
 
@@ -132,8 +132,8 @@ Vous pouvez insérer des jetons de champs personnalisés de membre de Programme 
 
 Les jetons de champ personnalisés de membre de programme peuvent être utilisés dans :
 
-* Créer une Tâche
+* Créer tâche
 * Créer une Tâche dans Microsoft
-* Moments intéressants
+* Moments significatifs
 * Modifier les actions de flux de valeurs de données
-* Liens Web
+* Webhooks
