@@ -1,21 +1,21 @@
 ---
 unique-page-id: 8783189
-description: Notes de mise à jour - Juillet 2015 - Documentation sur le marketing - Documentation du produit
+description: Notes de mise à jour - Juillet 2015 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - juillet 2015
+exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Notes de mise à jour : Juillet 2015 {#release-notes-july}
 
-## Moments du marketing {#marketo-moments}
+## Marketo Moments {#marketo-moments}
 
-Au déjeuner, mais vous devez replanifier un courriel ? L’application Marketo Moments, disponible sur l’App Store ou Google Play, vous permet de voir comment se comportent vos campagnes par courriel et par événement en temps réel, ainsi que ce qui se profile à l’avenir, depuis votre iPhone, votre iPad ou votre téléphone Android.
+Au déjeuner, mais vous devez replanifier un courriel ? L’application Marketo Moments, disponible sur l’App Store ou Google Play, vous permet de voir comment se comportent vos campagnes par événement et par courrier électronique en temps réel, ainsi que ce qui se profile à l’avenir, depuis votre iPhone, votre iPad ou votre téléphone Android.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
@@ -36,11 +36,11 @@ Active/désactive la version de l’éditeur de texte.
 
 ![](assets/image2015-7-10-9-3a43-3a32.png)
 
-## Livrabilité du courriel Connexion unique {#email-deliverability-single-sign-on}
+## Authentification unique pour la délivrabilité des e-mails {#email-deliverability-single-sign-on}
 
 Lorsque vous cliquez sur la mosaïque de délivrabilité du courrier électronique, vous n’avez plus besoin de fournir vos informations de connexion.
 
-## Hiérarchisation de Campaign {#campaign-prioritization}
+## Hiérarchisation des campagnes {#campaign-prioritization}
 
 Avez-vous configuré plusieurs campagnes RTP personnalisées et remarqué que certaines d&#39;entre elles peuvent se chevaucher ? Continuez et définissez une priorité pour laquelle le RTP des campagnes doit s’afficher sur les autres.
 
@@ -48,7 +48,7 @@ Avez-vous configuré plusieurs campagnes RTP personnalisées et remarqué que ce
 
 ## API de société {#company-api}
 
-**Accès aux objets de société via l’API** REST : L’API REST permet désormais d’accéder à l’objet de Société Marketo (alias Compte). Cela signifie que vous pouvez lire, mettre à jour et supprimer des objets de société que vous avez créés dans Marketing et associer des pistes à de telles sociétés à l&#39;aide de l&#39;API de piste mise à jour.
+**Accès aux objets de société via l’API** REST : L’API REST permet désormais d’accéder à l’objet Marketo Société (alias Compte). Cela signifie que vous pouvez lire, mettre à jour et supprimer des objets de société que vous avez créés dans Marketo et associer des pistes à de telles sociétés à l&#39;aide de l&#39;API de piste mise à jour.
 
 Découvrez [plus](https://developers.marketo.com/documentation/company-api/) dans notre guide de référence pour l&#39;API de Société.
 
