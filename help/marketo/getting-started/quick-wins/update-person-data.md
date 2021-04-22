@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359426
-description: Mettre à jour les données personnelles - Documents marketing - Documentation du produit
+description: Mettre à jour les données personnelles - Documents Marketo - Documentation du produit
 title: Mettre à jour les données personnelles
+exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
-
 
 # Mettre à jour les données de personne {#update-person-data}
 
@@ -43,7 +43,7 @@ Imaginons que dans votre salon, une personne vous ait donné des coordonnées su
 
    >[!TIP]
    >
-   >Il existe de nombreuses façons de mettre à jour les données des personnes dans Marketo. Voir [Importer une Liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) et [Modifier la valeur des données](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >Il existe de nombreuses façons de mettre à jour les données personnelles à Marketo. Voir [Importer une Liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) et [Modifier la valeur des données](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Mettre à jour les données personnelles {#update-the-person-data}
 
@@ -55,12 +55,12 @@ Imaginons que dans votre salon, une personne vous ait donné des coordonnées su
 >
 >Une fois les données modifiées, les Listes dynamiques et les campagnes dynamiques reconnaîtront immédiatement les nouvelles informations.
 
-## Fin de la mission {#mission-complete}
+## Mission accomplie {#mission-complete}
 
 Beau boulot ! Vous avez mis à jour vos données personnelles.
 
 <br> 
 
-[Mission 8 : Alerter le représentant commercial](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄ Mission 8 : Prévenir un représentant commercial](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Mission 10 : Rediriger un Landing page ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Mission 10 : Rediriger une page de destination ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
