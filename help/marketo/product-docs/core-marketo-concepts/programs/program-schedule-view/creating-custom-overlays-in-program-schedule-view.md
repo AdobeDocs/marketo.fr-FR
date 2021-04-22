@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147251
-description: Création d’incrustations personnalisées dans la Vue de Planning du programme - Documentation sur le marketing - Documentation du produit
+description: Création d’incrustations personnalisées dans la Vue de Planning du programme - Marketo Docs - Documentation du produit
 title: Création d’incrustations personnalisées dans une Vue de Planning du programme
+exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # Création d’incrustations personnalisées dans la Vue de Planning du programme {#creating-custom-overlays-in-program-schedule-view}
 
