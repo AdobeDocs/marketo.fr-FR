@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6094949
-description: Déplacer une Campaign intelligente - Documentation du marketing - Documentation du produit
+description: Déplacer un Campaign dynamique - Documents Marketo - Documentation du produit
 title: Déplacer une Campaign intelligente
+exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Déplacer une Campaign intelligente {#move-a-smart-campaign}
 
@@ -25,7 +25,7 @@ Déplacez une campagne intelligente entre différents programmes ou dossiers à 
 
    ![](assets/rockclimbing-tabfix.jpg)
 
-   Super ! Cette campagne intelligente est maintenant dans un nouveau programme. Cela fonctionne également avec les dossiers.
+   Super ! Cette campagne intelligente est maintenant dans un nouveau programme. Cela fonctionne également avec les dossiers.
 
    >[!NOTE]
    >
