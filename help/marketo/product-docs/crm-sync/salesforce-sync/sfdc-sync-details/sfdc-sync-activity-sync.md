@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953473
-description: Synchronisation SFDC - Synchronisation des Activités - Documentation sur le marketing - Documentation du produit
+description: Synchronisation SFDC -Synchronisation des Activités - Docs Marketo - Documentation du produit
 title: Synchronisation SFDC -Synchronisation des Activités
+exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Synchronisation SFDC : Synchronisation des Activités {#sfdc-sync-activity-sync}
 
@@ -17,7 +17,7 @@ Marketo se synchronise également sur les données des activités Salesforce. Vo
 
 ## Sur quels types de données d&#39;activité Marketo synchronise-t-il ? {#what-types-of-activity-data-does-marketo-sync-over}
 
-Marketo se synchronise sur les Événements et les Tâches associés à un prospect ou contact.
+Marketo se synchronise sur les Événements et les Tâches associés à une piste ou à un contact.
 
 ## Comment les détails des activités sont-ils synchronisés entre les deux systèmes ? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
@@ -29,7 +29,7 @@ Oui, vous pouvez utiliser l&#39;action [Créer un flux de Tâche](/help/marketo/
 
 ## Quels sont les déclencheurs/filtres liés à l&#39;activité ? {#what-are-the-triggers-filters-related-to-activity}
 
-Déclencheurs
+de notification
 
 * Activité consignée
 * Activité mise à jour
