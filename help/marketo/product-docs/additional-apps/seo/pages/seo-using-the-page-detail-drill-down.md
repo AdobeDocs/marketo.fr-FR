@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949186
-description: SEO - Utilisation de la liste déroulante des détails de la page - Documents marketing - Documentation du produit
+description: SEO - Utilisation de la liste déroulante des détails de la page - Documentation Marketo - Documentation du produit
 title: SEO - Utilisation de la liste déroulante des détails de la page
+exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Utilisation de la liste déroulante des détails de la page {#seo-using-the-page-detail-drill-down}
 
@@ -33,16 +33,16 @@ Vous pouvez consulter de nombreuses informations sur vos pages à l’aide de l�
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
-| Elément | Description |
+| Élément | Description |
 |---|---|
 | Note d’optimisation | La sauce secrète utilisée pour vous montrer à quel point votre page est optimisée pour la recherche sur une échelle de 1 à 100. |
 | Boîte de dialogue Tâches | Affiche le nombre de problèmes en cours concernant la page sur laquelle vous vous trouvez. |
 | Total des liens entrants | Nombre total de liens entrants vers votre site Web. |
 | Liens entrants (domaines uniques) | Nombre d’autres sites Web comportant au moins un lien d’entrée vers votre site. |
 | Liens sortants | Nombre de liens renvoyant à d&#39;autres sites Web à partir de cette page particulière. |
-| Partages Facebook | Nombre de fois où cette page a été partagée sur Facebook. |
-| Mentions J’aime sur Facebook | Nombre de fois où ce partage de page a été aimé sur Facebook. |
-| Clics Facebook | Nombre de clics à partir du partage Facebook. |
+| Partages facebook | Nombre de fois où cette page a été partagée sur Facebook. |
+| Facebook aime | Nombre de fois où ce partage de page a été aimé sur Facebook. |
+| Clics facebook | Nombre de clics à partir du partage Facebook. |
 
 ## Mot-clé pour lequel la page est optimisée {#keyword-s-that-page-is-optimized-for}
 
