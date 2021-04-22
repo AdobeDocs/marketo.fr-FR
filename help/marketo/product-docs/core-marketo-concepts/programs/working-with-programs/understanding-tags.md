@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147112
-description: Présentation des balises - Documents marketing - Documentation du produit
+description: Présentation des balises - Documents Marketo - Documentation du produit
 title: Présentation des balises
+exl-id: af74aec2-096f-489f-adf8-388da3867fae
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Présentation des balises {#understanding-tags}
 
-Vous savez probablement à présent que les programmes sont comme des blocs de construction à Marketo. L’utilisation de balises et de canaux vous aidera à filtrer les données à des fins de rapports.
+Vous savez probablement que les programmes sont comme des blocs de construction à Marketo. L’utilisation de balises et de canaux vous aidera à filtrer les données à des fins de rapports.
 
 Les balises sont utilisées pour décrire les programmes. Vous pouvez en faire autant que vous le souhaitez, chacun avec des valeurs uniques. Les canaux identifient le mécanisme de diffusion dans un programme, tel qu’un webinaire, un parrainage ou une publicité en ligne.
 
-## Type de balise {#tag-type}
+## Type de Variable {#tag-type}
 
 Les types de balises identifient le type d’informations à trier.
 
 >[!TIP]
 >
->Si vous souhaitez créer des balises personnalisées, contactez votre [administrateur du marketing](/help/marketo/product-docs/administration/tags/create-custom-tags.md).
+>Si vous souhaitez créer des balises personnalisées, contactez votre [administrateur Marketo](/help/marketo/product-docs/administration/tags/create-custom-tags.md).
 
 >[!NOTE]
 >
