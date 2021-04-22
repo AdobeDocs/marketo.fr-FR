@@ -2,14 +2,14 @@
 unique-page-id: 15695874
 description: Connectez BrightTALK à Marketo - Marketo Docs - Documentation du produit
 title: Connecter BrightTALK à Marketo
+exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
 
 ---
-
 
 # Connectez BrightTALK à Marketo {#connect-brighttalk-to-marketo}
 
@@ -22,14 +22,14 @@ Découvrez comment connecter votre canal BrightTALK à votre instance Marketo. P
 ## Étapes de BrightTALK {#steps-in-brighttalk}
 
 1. Connectez-vous à [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login) et cliquez sur **Se connecter maintenant**.
-1. Sous Connecteur marketing avancé, cliquez sur **Connexion**.
+1. Sous Connecteur Marketo avancé, cliquez sur **Connexion**.
 1. Vous accédez à l’écran d’identification pour demander : ID de client, clé secrète client, URL du service d’identité et URL du service de repos. Pour obtenir ces informations, connectez-vous à Marketo.
 
-## Étapes du marketing {#steps-in-marketo}
+## Etapes de Marketo {#steps-in-marketo}
 
 >[!NOTE]
 >
->A ce stade, vous devrez configurer un rôle d&#39;utilisateur API uniquement et un utilisateur API afin de limiter les autorisations que BrightTALK aura dans votre instance Marketo. Parce que nous avons déjà des articles pour ces étapes, nous allons vous y relier.
+>A ce stade, vous devrez configurer un rôle utilisateur API uniquement et un utilisateur API afin de limiter les autorisations que BrightTALK aura dans votre instance Marketo. Parce que nous avons déjà des articles pour ces étapes, nous allons vous y relier.
 
 1. Créez un [rôle utilisateur API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
 1. [Créez un utilisateur](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) API, à l’aide du rôle API BrightTALK que vous avez créé lors de l’étape 4.
@@ -51,7 +51,7 @@ Découvrez comment connecter votre canal BrightTALK à votre instance Marketo. P
 
    >[!CAUTION]
    >
-   >Pensez à ne pas sélectionner BrightTALK dans la liste déroulante. Il s’agit d’un champ que nous sommes en train de supprimer, et sa sélection pourrait créer des problèmes importants avec votre intégration Marketo/BrightTALK.
+   >Pensez à ne pas sélectionner BrightTALK dans la liste déroulante. Il s&#39;agit d&#39;un domaine que nous sommes en train de supprimer, et sa sélection pourrait créer des problèmes importants avec votre intégration Marketo/BrightTALK.
 
 1. Saisissez une description de votre choix. Cliquez sur la liste déroulante Utilisateur API uniquement et sélectionnez l’utilisateur API BrightTALK que vous avez créé lors de l’étape 5. Cliquez sur **Créer**.
 
