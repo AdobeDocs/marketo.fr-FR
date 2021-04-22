@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949178
-description: Présentation du Tableau de bord d'optimisation du référencement - Instantané d'optimisation du référencement - Documentation du marketing - Documentation du produit
+description: Présentation du Tableau de bord d'optimisation du référencement - Instantané d'optimisation du référencement - Docs Marketo - Documentation du produit
 title: Présentation du Tableau de bord d'optimisation du référencement - Instantané d'optimisation du référencement
+exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Présentation du Tableau de bord d’optimisation du référencement : Instantané SEO {#understanding-the-seo-dashboard-seo-snapshot}
 
@@ -39,7 +39,7 @@ Continue ! Continuons à avancer.
 
 ## Note moyenne d&#39;optimisation de la page {#average-page-optimization-score}
 
-La Note moyenne d’optimisation de la page est un score Marketo propriétaire qui mesure toutes les pages de votre site sur une échelle de 1 à 100.
+La note moyenne d’optimisation de page est un score Marketo propriétaire qui mesure toutes les pages de votre site sur une échelle de 1 à 100.
 
 Il est basé sur une compilation de dizaines de bonnes pratiques. Un score de 70 ou plus indique un site bien optimisé.
 
