@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951122
-description: Notes de mise à jour - Mars 2012 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Mars 2012 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Mars 2012
+exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
 
 ---
-
 
 # Notes de mise à jour : Mars 2012 {#release-notes-march}
 
