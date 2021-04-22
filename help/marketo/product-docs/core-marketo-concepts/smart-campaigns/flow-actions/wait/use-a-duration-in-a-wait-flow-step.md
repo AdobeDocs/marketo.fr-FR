@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146978
-description: Utiliser une durée dans une étape de flux d'attente - Documents marketing - Documentation du produit
+description: Utiliser une durée dans une étape de flux d'attente - Marketo Docs - Documentation du produit
 title: Utilisation d’une durée dans une étape de flux d’attente
+exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
-
 
 # Utiliser une durée dans une étape de flux d&#39;attente {#use-a-duration-in-a-wait-flow-step}
 
