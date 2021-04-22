@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953207
-description: Créer un dossier de campagne - Documents marketing - Documentation du produit
+description: Créer un nouveau dossier de campagne - Documents Marketo - Documentation du produit
 title: Créer un dossier de campagne
+exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
 translation-type: tm+mt
-source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
-
 
 # Créer un nouveau dossier de campagne {#create-new-campaign-folder}
 
@@ -39,7 +39,7 @@ Les dossiers Campaign vous aident à conserver un espace de travail bien rangé.
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   Super ! Vous venez de créer un dossier de campagne. Regardez-le dans l&#39;arbre.
+   Super ! Vous venez de créer un dossier de campagne. Regardez-le dans l&#39;arbre.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
