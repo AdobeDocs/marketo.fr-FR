@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951050
-description: Notes de mise à jour - Janvier 2014 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Janvier 2014 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Janvier 2014
+exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Notes de mise à jour : Janvier 2014 {#release-notes-january}
 
-Les fonctionnalités suivantes sont incluses dans la version de janvier 2014. Veuillez vérifier votre [Marketo Edition](https://www.marketo.com/pricing/) pour connaître la disponibilité des fonctionnalités.
+Les fonctionnalités suivantes sont incluses dans la version de janvier 2014. Veuillez vérifier votre [édition Marketo](https://www.marketo.com/pricing/) pour connaître la disponibilité des fonctionnalités.
 
-## Forms 2.0 {#forms}
+## Formulaires 2.0 {#forms}
 
 En tête : La documentation de Forms 2.0 est bientôt disponible !
 
@@ -35,7 +35,7 @@ Voulez-vous que &quot;Etat&quot; s’affiche uniquement si un utilisateur sélec
 
 **Incorporez facilement Forms sur vos propres landings page :**
 
-Les jours de la levée du code html des formulaires placés sur des landings page marketing et de leur suppression dans un iFrame sont révolus. Il vous suffit de saisir le code incorporé et de le placer sur le landing page où vous souhaitez que le formulaire s’affiche. Deux modes - normal et lightbox - vous offrent encore plus de flexibilité avec les formulaires Marketo sur votre site.
+Les jours de la levée du code html des formulaires placés sur des landings page Marketo et de leur suppression dans un iFrame sont révolus. Il vous suffit de saisir le code incorporé et de le placer sur le landing page où vous souhaitez que le formulaire s’affiche. Deux modes - normal et lightbox - vous offrent encore plus de flexibilité avec les formulaires Marketo sur votre site.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
@@ -45,7 +45,7 @@ Les jours de la levée du code html des formulaires placés sur des landings pag
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
-## Champs supplémentaires de l&#39;Analyse d&#39;adhésion au Programme {#additional-fields-in-program-membership-analysis}
+## Champs supplémentaires dans l’analyse de l’adhésion au programme {#additional-fields-in-program-membership-analysis}
 
 Vous pouvez maintenant ajouter et regrouper vos mesures [Analyse d&#39;adhésion au Programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) par attributs de piste et de société. Par exemple, vous pouvez ajouter le champ Secteur pour afficher la répartition des membres et des réussites de votre programme.
 
