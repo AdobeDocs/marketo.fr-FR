@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953457
-description: Synchronisation SFDC - Synchronisation des contacts - Documents marketing - Documentation du produit
+description: Synchronisation SFDC - Synchronisation des contacts - Documentation Marketo - Documentation du produit
 title: Synchronisation SFDC - Synchronisation des contacts
+exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-
 # Synchronisation SFDC : Synchronisation des contacts {#sfdc-sync-contact-sync}
 
-Saviez-vous que Marketo synchronise votre base de données complète avec Salesforce ? Il se synchronise, puis attend 5 minutes puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la manière dont Marketo traite spécifiquement les contacts Salesforce.
+Saviez-vous que Marketo synchronise votre base de données complète avec Salesforce ? Il se synchronise, puis attend 5 minutes puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la façon dont Marketo traite spécifiquement les contacts Salesforce.
 
 ## Direction de synchronisation {#sync-direction}
 
@@ -23,13 +23,13 @@ La synchronisation des contacts est bidirectionnelle. Si vous apportez des modif
 
 Nous sommes gentils et laissons Salesforce gagner. Il est rare que ce genre de collision de données se produise.
 
-## Puis-je convertir une personne en contact dans Marketo ? {#can-i-convert-a-person-into-a-contact-in-marketo}
+## Puis-je convertir une personne en contact à Marketo ? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
 Oui, utilisez l’action de flux **[Convertir une personne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)**.
 
 >[!CAUTION]
 >
->La conversion d’une personne sur le marché se traduira par un nouveau compte et une nouvelle opportunité dans Salesforce. Si vous ne souhaitez pas de comptes de duplicata, utilisez Salesforce pour effectuer une conversion.
+>La conversion d’une personne à Marketo se traduira par un nouveau compte et une nouvelle opportunité dans Salesforce. Si vous ne souhaitez pas de comptes de duplicata, utilisez Salesforce pour effectuer une conversion.
 
 ## Puis-je forcer manuellement la synchronisation d&#39;un contact ? {#can-i-manually-force-a-sync-of-a-contact}
 
@@ -41,8 +41,8 @@ Non, tous les champs standard ne sont pas utiles. Tous les champs personnalisés
 
 >[!NOTE]
 >
->Marketo synchronise uniquement les champs auxquels l’utilisateur de synchronisation du marketing a accès.
+>Marketo synchronise uniquement les champs auxquels votre utilisateur Marketo Sync a accès.
 
-## Marketo respectera-t-il les règles de validation Salesforce ? {#will-marketo-respect-the-salesforce-validation-rules}
+## Marketo respectera-t-il les règles de validation de Salesforce ? {#will-marketo-respect-the-salesforce-validation-rules}
 
 Oui, en cas de conflit, il consigne le résultat dans le journal des Activités des pistes.
