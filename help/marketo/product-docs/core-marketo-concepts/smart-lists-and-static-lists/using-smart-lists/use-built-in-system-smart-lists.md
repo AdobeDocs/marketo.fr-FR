@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557275
-description: Utiliser des Listes dynamiques intégrées/système - Documentation marketing - Documentation du produit
+description: Utiliser les Listes dynamiques intégrées/système - Marketo Docs - Documentation du produit
 title: Utiliser des Listes dynamiques intégrées/système
+exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # Utiliser les Listes dynamiques intégrées/système {#use-built-in-system-smart-lists}
 
-Marketo possède des listes intelligentes très utiles. Regardons-les !
+Marketo a quelques listes intelligentes très utiles. Regardons-les !
 
 >[!NOTE]
 >
@@ -40,11 +40,11 @@ Voici un résumé des actions des listes intelligentes intégrées :
 | Nom de la liste | Description |
 |---|---|
 | Toutes les personnes | Toutes les personnes de votre base de données Marketo |
-| Personnes désabonnées | Ces personnes ne peuvent recevoir que des courriels opérationnels ; c&#39;est habituellement la personne elle-même qui contrôle la situation. |
-| Marketing suspendu | Ces personnes ne peuvent recevoir que des courriels opérationnels ; c&#39;est habituellement vous, le spécialiste du marketing, qui le contrôlez. |
+| Personnes désinscrites | Ces personnes ne peuvent recevoir que des courriels opérationnels ; c&#39;est habituellement la personne elle-même qui contrôle la situation. |
+| Marketing interrompu | Ces personnes ne peuvent recevoir que des courriels opérationnels ; c&#39;est habituellement vous, le spécialiste du marketing, qui le contrôlez. |
 | Liste bloquée | Ces personnes ne recevront aucun courriel. |
-| Adresses électroniques reportées | Personnes avec une adresse électronique non livrable ou qui rejettent votre adresse électronique. |
-| Duplicata possibles | Personnes qui peuvent être dupliquées dans la base de données Marketo. |
+| Adresses e-mail retournées en erreur | Personnes avec une adresse électronique non livrable ou qui rejettent votre adresse électronique. |
+| Doublons possibles | Personnes pouvant être dupliquées dans la base de données Marketo. |
 
 >[!NOTE]
 >
