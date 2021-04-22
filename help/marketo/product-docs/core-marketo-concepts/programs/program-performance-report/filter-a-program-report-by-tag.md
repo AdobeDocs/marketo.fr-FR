@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147235
-description: Filtrage d’un rapport Programme par balise - Docs marketing - Documentation du produit
+description: Filtrage d’un rapport Programme par balise - Marketo Docs - Documentation du produit
 title: Filtrage d’un rapport Programme par balise
+exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Filtrage d’un rapport Programme par balise {#filter-a-program-report-by-tag}
 
@@ -35,7 +35,7 @@ Concentrez votre [rapport de performances du programme](/help/marketo/product-do
 
    ![](assets/prospect2.jpg)
 
-1. Fait ! Cliquez sur l&#39;onglet **Rapport** pour afficher _juste_ les programmes qui correspondent aux balises sélectionnées dans votre rapport.
+1. Fait! Cliquez sur l&#39;onglet **Rapport** pour afficher _juste_ les programmes qui correspondent aux balises sélectionnées dans votre rapport.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
