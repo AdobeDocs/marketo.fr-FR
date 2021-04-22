@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952484
-description: Renommer un actif marketing - Documents marketing - Documentation du produit
-title: Renommer un actif marketing
+description: Renommer un actif Marketo - Documents Marketo - Documentation du produit
+title: Renommer un actif Marketo
+exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-
-# Renommer une ressource marketing {#rename-a-marketo-asset}
+# Renommer un actif Marketo {#rename-a-marketo-asset}
 
 Il est facile de renommer les dossiers, les programmes et les ressources locales.
 
