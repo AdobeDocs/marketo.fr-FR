@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949270
-description: SEO - Utiliser le rapport de tendances KW Concurrent - Docs marketing - Documentation du produit
+description: SEO - Utiliser le rapport de tendances KW Concurrent - Docs Marketo - Documentation du produit
 title: SEO - Utiliser le rapport de tendances de KW Concurrent
+exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Utiliser le rapport de tendances KW Concurrent {#seo-use-the-competitor-kw-trends-report}
 
@@ -31,12 +31,12 @@ Ce graphique peut vous montrer quel pourcentage de vos mots-clés sont classés 
 
 ![](assets/image2014-9-18-14-3a7-3a1.png)
 
-| Elément | Description |
+| Élément | Description |
 |---|---|
 | Mots-clés | Nombre de mots-clés suivis. |
 | Classement des URL | Nombre d’URL de votre site classées dans la plage que vous avez définie. |
 | % de rang | Pourcentage de mots-clés classés dans la plage que vous avez définie. |
-| Moy. recherches | Nombre moyen de recherches sur les mots-clés qui se sont produites au cours de la période que vous avez définie (au cours des 30 derniers jours, dans une recherche Google US) |
+| Position moyenne recherches | Nombre moyen de recherches sur les mots-clés qui se sont produites au cours de la période que vous avez définie (au cours des 30 derniers jours, dans une recherche Google US) |
 
 ## Filtrage des données {#filtering-data}
 
@@ -48,7 +48,7 @@ Ce graphique peut vous montrer quel pourcentage de vos mots-clés sont classés 
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exportation de données {#exporting-data}
+## Exportation des données  {#exporting-data}
 
 >[!TIP]
 >
