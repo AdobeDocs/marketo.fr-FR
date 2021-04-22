@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360295
-description: Exportation d’une Liste de tous les noms de champs de l’API de marketing - Documents marketing - Documentation du produit
-title: Exportation d’une Liste de tous les noms de champs de l’API de marketing
+description: Exportation d’une Liste de tous les noms de champs d’API Marketo - Docs Marketo - Documentation du produit
+title: Exportation d’une Liste de tous les noms de champs d’API Marketo
+exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# Exporter une Liste de tous les noms de champs de l&#39;API de marketing {#export-a-list-of-all-marketo-api-field-names}
+# Exporter une Liste de tous les noms de champs de l’API Marketo {#export-a-list-of-all-marketo-api-field-names}
 
 Si vous utilisez notre API SOAP ou l&#39;API Munchkin, vous aurez besoin d&#39;une liste de tous vos champs et de leurs noms d&#39;API. Voici comment obtenir cette liste.
 
