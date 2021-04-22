@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099389
-description: Versions des modules externes Marketo pour Microsoft Dynamics - Marketo Docs - Documentation sur les produits
+description: Versions des modules externes Marketo pour Microsoft Dynamics - Marketo Docs - Documentation du produit
 title: Versions des modules externes Marketo pour Microsoft Dynamics
+exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
+# Versions du module externe Marketo pour Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
 
-# Versions de module externe Marketo pour Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
-
-Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez la dernière version des modules externes pour Marketo. Régulièrement, Marketo met à jour ces plug-ins afin que vous puissiez revenir au même endroit pour télécharger la nouvelle version.
+Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez la dernière version des modules externes pour Marketo. Régulièrement, Marketo met à jour ces plug-ins, de sorte que vous puissiez revenir au même endroit pour télécharger la nouvelle version.
 
 [Téléchargez le dernier ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) module externe correspondant à votre version de Dynamics.
 
@@ -53,7 +53,7 @@ Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez
   <tr> 
    <td colspan="1">4.0.0.23</td> 
    <td colspan="1">27/06/18</td> 
-   <td colspan="1">Correctif : Erreur de processus métier lors de la tentative d'installation des solutions marketing pour Dynamics 2013.</td> 
+   <td colspan="1">Correctif : Erreur de processus métier lors de la tentative d'installation des solutions Marketo pour Dynamics 2013.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.22</td> 
@@ -86,14 +86,14 @@ Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez
    <td colspan="1">Correctif : Lorsque le filtre de synchronisation du prospect était défini sur NON et que l'opportunité et le contact n'avaient pas de filtre de synchronisation, le journal de création n'était pas généré pour le contact et l'opportunité lorsque le prospect était qualifié.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">2.0.0.16</td> 
+   <td colspan="1">4.0.0.16</td> 
    <td colspan="1">29/03/16</td> 
    <td>Correctif : Un Événement d'affectation était consigné lorsque le filtre de synchronisation était désactivé.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.15</td> 
    <td colspan="1">03/03/16</td> 
-   <td colspan="1">Correctif : Le client n'a pas pu créer de piste dans CRM, car l'utilisateur de connexion ne disposait pas de l'autorisation de configuration de Marketing Cloud.</td> 
+   <td colspan="1">Correctif : Le client n'a pas pu créer de piste dans la gestion de la relation client car l'utilisateur de connexion ne disposait pas de l'autorisation Marketo Config.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.14</td> 
@@ -115,4 +115,4 @@ Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez
 
 >[!MORELIKETHIS]
 >
->[Téléchargement de la solution de gestion des pistes marketing](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Téléchargement de la solution Marketo Lead Management](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
