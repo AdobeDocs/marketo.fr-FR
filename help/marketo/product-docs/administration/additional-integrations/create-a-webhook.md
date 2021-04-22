@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360360
-description: Création d’un crochet Web - Documents marketing - Documentation du produit
+description: Création d’un crochet Web - Documents Marketo - Documentation du produit
 title: Création d’un crochet Web
+exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Créer un crochet Web {#create-a-webhook}
 
@@ -17,7 +17,7 @@ Utilisez des hameçons Web pour tirer parti des services Web tiers pour envoyer 
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
 1. Accédez à **Admin** et cliquez sur **Webhooks**.
 
