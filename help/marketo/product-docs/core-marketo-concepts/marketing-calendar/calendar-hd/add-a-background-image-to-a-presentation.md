@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504437
-description: Ajouter une image d’arrière-plan à une présentation - Documentation sur le marketing - Documentation sur le produit
+description: Ajouter une image d'arrière-plan à une présentation - Marketo Docs - Documentation du produit
 title: Ajouter une image d’arrière-plan à une présentation
+exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter une image d&#39;arrière-plan à une présentation {#add-a-background-image-to-a-presentation}
 
