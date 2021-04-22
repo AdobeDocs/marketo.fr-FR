@@ -1,19 +1,19 @@
 ---
 unique-page-id: 3571846
-description: Microsoft Dynamics Sync - Synchronisation des entités personnalisées - Documents marketing - Documentation du produit
+description: Microsoft Dynamics Sync - Synchronisation d'entités personnalisées - Documentation Marketo - Documentation du produit
 title: Microsoft Dynamics Sync -Synchronisation d'entité personnalisée
+exl-id: 1e175bd4-509f-4c1f-a41d-456629e4a8fb
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics Sync : Synchronisation d&#39;entité personnalisée {#microsoft-dynamics-sync-custom-entity-sync}
 
-Si vous devez activer la synchronisation d&#39;entité personnalisée initiale pour rendre les données de Dynamics disponibles dans Marketing, voici comment procéder.
+Si vous devez activer la synchronisation d&#39;entité personnalisée initiale pour rendre les données de Dynamics disponibles dans Marketo, voici comment procéder.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Si vous devez activer la synchronisation d&#39;entité personnalisée initiale p
 
 1. Installez une version de Microsoft Dynamics qui prend en charge la synchronisation d&#39;entité personnalisée (après 2_0_0_2). Voir [Versions du module externe Marketo pour MIcrosoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
-1. Donnez à l’utilisateur de synchronisation marketing l’accès en lecture à toutes les entités que vous prévoyez de synchroniser.
+1. Donnez à l’utilisateur Marketo Sync l’accès en lecture à toutes les entités que vous prévoyez de synchroniser.
 
 1. Sous Gestion de la base de données, cliquez sur le lien **Dynamics Entities Sync**.
 
