@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951097
-description: Notes de mise à jour - Mai 2013 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Mai 2013 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Mai 2013
+exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Notes de mise à jour : Mai 2013 {#release-notes-may}
 
@@ -21,7 +21,7 @@ Créez un fichier de calendrier en tant que Mon jeton qui peut être ajouté à 
 
 ![](assets/image2014-9-22-16-3a3-3a18.png)
 
-## Onglet Appartenance au modèle {#model-membership-tab}
+## Onglet du modèle d&#39;adhésion {#model-membership-tab}
 
 Vue toutes les données du membre du modèle à un seul endroit afin de surveiller et de résoudre facilement les problèmes. Le nouvel onglet Membres est une vue en lecture seule disponible lorsque vous sélectionnez un modèle de cycle de revenu approuvé.
 
