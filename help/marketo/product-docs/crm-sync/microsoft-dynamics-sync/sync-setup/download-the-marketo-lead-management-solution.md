@@ -1,33 +1,33 @@
 ---
 unique-page-id: 6848922
-description: Télécharger la solution de gestion des pistes marketing - Documentation marketing - Documentation du produit
-title: Téléchargement de la solution de gestion des pistes marketing
+description: Téléchargement de la solution Marketo Lead Management - Marketo Docs - Documentation du produit
+title: Téléchargement de la solution Marketo Lead Management
+exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 5%
 
 ---
 
-
-# Télécharger la solution de gestion des pistes marketing {#download-the-marketo-lead-management-solution}
+# Télécharger la solution de gestion des pistes Marketo {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-Vous devrez télécharger et installer une solution Marketing dans votre compte Microsoft Dynamics pour lancer la synchronisation.
+Vous devez télécharger et installer une solution Marketo dans votre compte Microsoft Dynamics pour lancer la synchronisation.
 
 >[!CAUTION]
 >
->Il est impératif que vous téléchargiez la dernière solution Marketo _avant_ de procéder à une mise à niveau.
+>Vous devez impérativement télécharger la dernière solution Marketo _avant d&#39;effectuer toute mise à niveau._
 
 >[!NOTE]
 >
->Actuellement, Marketo ne prend en charge que les certificats SSL compatibles avec Java 7.
+>Pour le moment, Marketo ne prend en charge que les certificats SSL compatibles avec Java 7.
 
-1. Accédez à la zone **Admin**.
+1. Cliquez sur l&#39;icône **Admin**.
 
    ![](assets/admin-1.png)
 
@@ -39,7 +39,7 @@ Vous devrez télécharger et installer une solution Marketing dans votre compte 
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. Sélectionnez **Télécharger la solution marketing**.
+1. Sélectionnez **Télécharger la solution Marketo**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
@@ -47,4 +47,4 @@ Vous devrez télécharger et installer une solution Marketing dans votre compte 
 
    ![](assets/msd-online-1.png)
 
-   Super ! Un fichier zip de la solution sera désormais téléchargé sur votre périphérique.
+   Super ! Un fichier zip de la solution sera désormais téléchargé sur votre périphérique.
