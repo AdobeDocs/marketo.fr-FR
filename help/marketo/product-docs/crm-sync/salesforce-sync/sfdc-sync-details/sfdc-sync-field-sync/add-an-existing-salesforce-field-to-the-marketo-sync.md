@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4719308
-description: Ajouter un champ Salesforce existant à la synchronisation du marché - Docs marketing - Documentation du produit
-title: Ajouter un champ Salesforce existant à la synchronisation du marché
+description: Ajouter un champ Salesforce existant à Marketo Sync - Marketo Docs - Documentation du produit
+title: Ajouter un champ Salesforce existant à la synchronisation Marketo
+exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
-# Ajouter un champ Salesforce existant à la synchronisation du marché {#add-an-existing-salesforce-field-to-the-marketo-sync}
+# Ajouter un champ Salesforce existant à la synchronisation Marketo {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-En règle générale, les nouveaux champs personnalisés de Salesforce sont automatiquement synchronisés sur Marketo. Si ce n’est pas le cas, les champs peuvent ne pas être visibles par l’utilisateur de synchronisation du marketing. Voici comment vous pouvez réparer ceci.
+En général, les nouveaux champs personnalisés de Salesforce sont automatiquement synchronisés sur Marketo. Dans le cas contraire, les champs peuvent ne pas être visibles par l’utilisateur Marketo Sync. Voici comment vous pouvez réparer ceci.
 
 1. Cliquez sur votre nom, puis sélectionnez **Configuration**.
 
@@ -47,4 +47,4 @@ En règle générale, les nouveaux champs personnalisés de Salesforce sont auto
 
    >[!NOTE]
    >
-   > Si le champ contient déjà des valeurs dans Salesforce, celles-ci ne sont pas synchronisées avec Marketo avant la prochaine mise à jour de l&#39;enregistrement.
+   > Si le champ contient déjà des valeurs dans Salesforce, celles-ci ne sont synchronisées sur Marketo qu&#39;après la prochaine mise à jour de l&#39;enregistrement.
