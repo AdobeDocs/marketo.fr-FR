@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360337
-description: Création et utilisation d’un champ de chaîne concaténée (formule) - Documents marketing - Documentation du produit
+description: Créer et utiliser un champ de chaîne concaténée (formule) - Marketo Docs - Documentation du produit
 title: Créer et utiliser un champ de chaîne concaténée (formule)
+exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 translation-type: tm+mt
-source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # Créer et utiliser un champ de chaîne concaténée (formule) {#create-and-use-a-concatenated-string-formula-field}
 
-Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une valeur conditionnelle à l’aide d’un champ Formule marketing.
+Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une valeur conditionnelle à l’aide d’un champ de formule Marketo.
 
 1. Accédez à **Admin** et cliquez sur **Gestion des champs**.
 
