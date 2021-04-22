@@ -1,31 +1,31 @@
 ---
 unique-page-id: 14745959
-description: Notes de mise à jour - Printemps 2018 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Printemps 2018 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Printemps 2018
+exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '481'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-
 # Notes de mise à jour : Printemps &#39;18 {#release-notes-spring}
 
-Les fonctionnalités suivantes sont incluses dans la version du printemps 18. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
+Les fonctionnalités suivantes sont incluses dans la version du printemps 18. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités.
 
 Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction. Remarque : Certaines des fonctionnalités incluses dans cette version n’ont pas d’articles associés. Si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
 
-## Mises à jour de Marketing Sales Interagir, Lancer et ToutApp {#marketo-sales-engage-launch-and-toutapp-updates}
+## Mises à jour de Marketo Sales Engage, Launch et ToutApp {#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Engagement commercial](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-* [Lancement](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Lancer](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * Mises à jour de ToutApp
 
 >[!AVAILABILITY]
 >
->Sales Engage est un produit complémentaire. Veuillez contacter votre responsable de succès client ou votre responsable de compte pour obtenir un devis.
+>Sales Engage est un produit complémentaire. Veuillez contacter votre responsable de succès client ou votre responsable de compte Marketo pour obtenir un devis.
 
 Augmentez le portefeuille et les recettes en permettant aux ventes d&#39;exploiter les informations, le contenu, les livres de lecture et les analyses pour convertir davantage de vos pistes en opportunités de vente. Sales Engage offre une plate-forme unifiée de vente et de marketing pour l&#39;engagement sur le parcours client et permet une meilleure coordination grâce à une vue partagée de points de contact client.
 
@@ -35,9 +35,9 @@ Augmentez le portefeuille et les recettes en permettant aux ventes d&#39;exploit
 * **Mise à jour** de la stratégie de mot de passe : Protégez vos données en toute sécurité grâce à des exigences plus strictes en matière de création, de réinitialisation et d’expiration des mots de passe (satisfait aux exigences de conformité de type 1 de Soc II).
 * **Expérience** de configuration de compte simplifiée : Configurez votre compte et connectez-le plus rapidement à Gmail, Outlook et d&#39;autres systèmes.
 
-## Marketo Sky Ouvrir la version bêta {#marketo-sky-open-beta}
+## Bêta ouverte de Marketo Sky {#marketo-sky-open-beta}
 
-[Marketo Sky Ouvrir la version bêta](https://help.marketo.com/)
+[Bêta ouverte de Marketo Sky](https://help.marketo.com/)
 
 Optez pour la version bêta ouverte du Marketo Sky pour accéder à plus de 100 nouvelles fonctionnalités d&#39;optimisation de la productivité, notamment :
 
@@ -45,19 +45,19 @@ Optez pour la version bêta ouverte du Marketo Sky pour accéder à plus de 100 
 * Guides intégrés et aide contextuelle
 * Étiquettes de ressources et vues de calendrier plus flexibles
 
-## Performances Insights {#performance-insights}
+## Informations sur les performances {#performance-insights}
 
 [Informations sur les performances](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
-**Comparaison des périodes d&#39;une année à l&#39;autre**
+**Comparaison d’une année à l’autre**
 
 Obtenir des informations plus pertinentes en comparant les résultats par rapport à la même période de l&#39;année précédente.
 
-**Tendance pour plusieurs Canaux**
+**Tendances pour plusieurs canaux**
 
-Comparez les performances de plusieurs canaux au fil du temps.
+Comparez les performances de plusieurs canaux dans le temps.
 
-**Synchronisation et filtrage des champs personnalisés d&#39;opportunité**
+**Synchronisation et filtrage des champs d’opportunités personnalisés**
 
 Filtrez les résultats par champs personnalisés d&#39;opportunité, comme une région de vente spécifique. Pour les champs numériques ou monétaires, définissez des valeurs minimales et maximales, telles qu’un montant d’opportunité minimum, et générez des statistiques pour des plages de données spécifiques.
 
@@ -65,7 +65,7 @@ Filtrez les résultats par champs personnalisés d&#39;opportunité, comme une r
 
 Partagez facilement vos graphiques rapides avec d’autres utilisateurs d’Analyses de performances.
 
-**Améliorations de la convivialité**
+**Améliorations de la facilité d’utilisation**
 
 Une navigation optimisée et des workflows améliorés vous donnent une visibilité sur les critères de réussite des Programmes et l’accès aux détails des Programmes.
 
@@ -77,16 +77,16 @@ Définissez l’objectif de l’algorithme d’optimisation ContentAI pour gén�
 
 ## Intégration et API {#integration-and-apis}
 
-[Intégration du milieu de travail Facebook](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
+[Intégration du lieu de travail facebook](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
 
-Envoyez des notifications système et des moments intéressants au lieu de travail Facebook.
+Envoyez des notifications système et des moments intéressants au lieu de travail de Facebook.
 
 [API de Liste statique](https://developers.marketo.com/rest-api/assets/static-lists/)
 
-Gérez plus facilement les listes entre Marketo et d’autres systèmes grâce aux nouvelles API bidirectionnelles permettant de créer, lire, mettre à jour et supprimer des listes statiques à distance sans avoir à effectuer d’action dans l’interface utilisateur de Marketo.
+Gérez plus facilement les listes entre Marketo et d&#39;autres systèmes grâce à de nouvelles API bidirectionnelles pour la création, la lecture, la mise à jour et la suppression à distance de listes statiques sans avoir recours à aucune action dans l&#39;interface utilisateur de Marketo.
 
 ## Améliorations apportées à la confidentialité {#privacy-enhancements}
 
-[Confidentialité du tracking web](https://developers.marketo.com/javascript-api/lead-tracking/)
+[Confidentialité quant au suivi Web](https://developers.marketo.com/javascript-api/lead-tracking/)
 
 Le suivi amélioré de Munchkin respecte les réglementations locales et internationales en matière de confidentialité en anonymisant les adresses IP des visiteurs Web et en leur permettant de s&#39;exclure définitivement du suivi Web.
