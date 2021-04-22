@@ -2,20 +2,20 @@
 unique-page-id: 8783322
 description: Valider Microsoft Dynamics Sync - Marketo Docs - Documentation du produit
 title: Valider Microsoft Dynamics Sync
+exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
-
 
 # Valider Microsoft Dynamics Sync {#validate-microsoft-dynamics-sync}
 
 >[!CAUTION]
 >
->Si l&#39;authentification multifacteur (MFA) est activée pour Dynamics Sync, vous devez la désactiver pour que Dynamics se synchronise correctement avec Marketo. Pour de plus amples informations, veuillez contacter [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si l&#39;authentification multifacteur (MFA) est activée pour Dynamics Sync, vous devez la désactiver pour que Dynamics se synchronise correctement avec Marketo. Pour de plus amples informations, veuillez contacter le [Support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 ## Exécuter la validation de la synchronisation dans Marketo {#run-validate-sync-in-marketo}
 
@@ -49,7 +49,7 @@ Il est très important d&#39;exécuter l&#39;outil Valider la synchronisation po
 
    >[!CAUTION]
    >
-   >Actuellement, nous ne prenons pas en charge l&#39;actualisation de sandbox pour Marketing Dynamics Sync. Si vous devez actualiser votre sandbox Dynamics CRM, un nouveau sandbox Marketo sera nécessaire. Pour plus d’informations, contactez votre responsable de succès client.
+   >Actuellement, nous ne prenons pas en charge l&#39;actualisation de sandbox pour Marketo Dynamics Sync. Si vous devez actualiser votre sandbox Dynamics CRM, un nouveau sandbox Marketo sera nécessaire. Pour plus d’informations, contactez votre responsable de succès client.
 
 >[!MORELIKETHIS]
 >
