@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147031
-description: Supprimer une personne de SFDC - Documents marketing - Documentation du produit
-title: Supprimer une personne de SFDC
+description: Supprimer une personne de SFDC - Marketo Docs - Documentation du produit
+title: Supprimer individu de SFDC
+exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
+# Supprimer individu de SFDC {#delete-person-from-sfdc}
 
-# Supprimer une personne de la collecte de données régionale {#delete-person-from-sfdc}
-
-Si vous devez supprimer un ensemble spécifique de pistes de Salesforce mais les laisser en tant que personnes dans Marketo, vous pouvez utiliser l’action Supprimer une personne de SFDC.
+Si vous devez supprimer un ensemble spécifique de pistes de Salesforce mais les laisser en tant que personnes à Marketo, vous pouvez utiliser l’action de flux Supprimer une personne de SFDC.
 
 >[!NOTE]
 >
@@ -31,8 +31,8 @@ Si vous devez supprimer un ensemble spécifique de pistes de Salesforce mais les
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
-   Une fois l’étape de flux exécutée, votre personne ne sera plus une piste dans Salesforce, mais restera sur le marché.
+   Une fois l&#39;étape de flux exécutée, votre personne ne sera plus une piste dans Salesforce mais restera à Marketo.
 
    >[!CAUTION]
    >
-   >Si vous définissez **Supprimer dans Marketo** sur **true** et supprimez les personnes de Marketo et les pistes de Salesforce, elles sont définitivement disparues. Cela ne peut pas être annulé.
+   >Si vous définissez **Supprimer dans Marketo** sur **true** et supprimez les personnes de Marketo et les prospects de Salesforce, ils sont partis pour toujours. Cette ne peut pas être annulée.
