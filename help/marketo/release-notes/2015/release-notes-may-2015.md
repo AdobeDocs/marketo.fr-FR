@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7514821
-description: Notes de mise à jour - Mai 2015 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Mai 2015 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Mai 2015
+exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-
 # Notes de mise à jour : Mai 2015 {#release-notes-may}
 
-Les fonctionnalités suivantes sont incluses dans la version de mai 2015. Veuillez vérifier la disponibilité des fonctionnalités de votre édition Marketing. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité !
+Les fonctionnalités suivantes sont incluses dans la version de mai 2015. Veuillez vérifier la disponibilité des fonctionnalités de Marketo Edition. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité !
 
 ## Landings page entièrement réactifs
 
@@ -23,27 +23,27 @@ Nous publions un nouveau mode de modification de landing page et une nouvelle sy
 
 ![](assets/image2015-5-15-13-3a33-3a11.png)
 
-## Abandonner le Programme de courriel
+## Abandon du programme d’e-mail
 
-[Abandonner le Programme de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
+[Abandon du programme d’e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
 Avez-vous touché l&#39;envoi avant qu&#39;un programme de messagerie ne soit prêt à sortir ? Appuyez sur les freins avec le nouveau bouton d&#39;abandon du programme de messagerie. Cela arrêtera les programmes de messagerie en vol directement dans leur voie.
 
-## Livraison par courriel {#email-deliverability}
+## Délivrabilité des e-mails  {#email-deliverability}
 
-Marketo exécute désormais des vérifications SPF et DKIM automatisées hebdomadaires sur vos domaines ajoutés. Pour en savoir plus, consultez vos notifications.
+Marketo va maintenant exécuter des vérifications SPF et DKIM automatisées hebdomadaires sur vos domaines ajoutés. Pour en savoir plus, consultez vos notifications.
 
-## Modification du comportement du modèle de courriel {#email-template-behavior-change}
+## Modification du comportement du modèle d’e-mail {#email-template-behavior-change}
 
 Depuis cette version, les commentaires HTML valides sont désormais autorisés et non supprimés lors de la création de nouveaux courriers électroniques.
 
-## RTP : Editeur de segment par glisser-déposer {#rtp-drag-and-drop-segment-editor}
+## RTP : éditeur de segments par glisser-déposer {#rtp-drag-and-drop-segment-editor}
 
 RTP : [Editeur de segment par glisser-déposer](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Faites glisser et déposez vos critères dans le créateur de segments, définissez la valeur et vous êtes sur le point de créer un segment en temps réel.
 
-## RTP : Recommendations de contenu prédictif {#rtp-predictive-content-recommendations}
+## RTP : recommandations du contenu prévisible {#rtp-predictive-content-recommendations}
 
 [Recommendations de contenu prédictif](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
