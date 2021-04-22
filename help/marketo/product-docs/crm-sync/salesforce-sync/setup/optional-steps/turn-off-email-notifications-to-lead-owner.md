@@ -1,15 +1,15 @@
 ---
 unique-page-id: 13795802
-description: Désactiver les notifications par courrier électronique pour le propriétaire de piste - Documents marketing - Documentation du produit
+description: Désactiver les notifications par courrier électronique pour le propriétaire principal - Marketo Docs - Documentation sur les produits
 title: Désactiver les notifications par courrier électronique pour le propriétaire de piste
+exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # Désactiver les notifications par courrier électronique pour le propriétaire de piste {#turn-off-email-notifications-to-lead-owner}
 
