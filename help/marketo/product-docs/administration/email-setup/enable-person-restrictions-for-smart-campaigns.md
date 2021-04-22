@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360243
-description: Activer les restrictions de personne pour les campagnes dynamiques - Documents marketing - Documentation du produit
+description: Activer les restrictions sur les personnes pour les campagnes dynamiques - Docs Marketo - Documentation sur les produits
 title: Activer les restrictions de personne pour les campagnes dynamiques
+exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-
 # Activer les restrictions de personne pour les campagnes dynamiques {#enable-person-restrictions-for-smart-campaigns}
 
-Il existe une fonctionnalité dans Marketo qui limite le nombre _maximum_ de personnes pouvant être qualifiées pour une campagne intelligente. Cela évite d&#39;envoyer par courrier électronique accidentel l&#39;intégralité de votre base de données.
+Il existe une fonctionnalité de Marketo qui permet de limiter le nombre _maximum_ de personnes pouvant bénéficier d’une campagne intelligente. Cela évite d&#39;envoyer par courrier électronique accidentel l&#39;intégralité de votre base de données.
 
 >[!NOTE]
 >
