@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099680
-description: Importer des données d’objet personnalisées - Documents marketing - Documentation du produit
-title: Importer des données d’objet personnalisées
+description: Importer des données d’objet personnalisées - Documents Marketo - Documentation du produit
+title: Importer les données de l’objet personnalisé
+exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Importer des données d&#39;objet personnalisé {#import-custom-object-data}
+# Importer les données de l’objet personnalisé {#import-custom-object-data}
 
 Il est facile d&#39;importer des données d&#39;objet personnalisées dans votre base de données. Si vous utilisez des objets personnalisés avec des sociétés, voir [Utilisation d’objets personnalisés avec des Sociétés](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) pour plus d’informations.
 
@@ -37,9 +37,9 @@ Il est facile d&#39;importer des données d&#39;objet personnalisées dans votre
 
    >[!NOTE]
    >
-   >Utilisez le ou les champs de déduplication comme identifiants uniques lorsque vous créez ou mettez à jour des enregistrements d’objets personnalisés. Cet exemple utilise le champ Dédupe de l&#39;objet personnalisé **car** - numéro d&#39;identification du véhicule. Si vous mettez uniquement à jour des enregistrements d’objets personnalisés, vous pouvez sélectionner le Guide marketing comme mode de déduplication.
+   >Utilisez le ou les champs de déduplication comme identifiants uniques lorsque vous créez ou mettez à jour des enregistrements d’objets personnalisés. Cet exemple utilise le champ Dédupe de l&#39;objet personnalisé **car** - numéro d&#39;identification du véhicule. Si vous mettez uniquement à jour des enregistrements d’objets personnalisés, vous pouvez sélectionner le Marketo Guid comme mode de déduplication.
 
-1. Faites correspondre chaque colonne à un champ Marqué, en la sélectionnant dans la liste déroulante.
+1. Faites correspondre chaque colonne à un champ Marketo, en la sélectionnant dans la liste déroulante.
 
    ![](assets/image2016-4-13-14-3a36-3a57.png)
 
@@ -71,4 +71,4 @@ Il est facile d&#39;importer des données d&#39;objet personnalisées dans votre
 
 >[!MORELIKETHIS]
 >
->[Compréhension des objets personnalisés de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>[Présentation des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
