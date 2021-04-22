@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949194
-description: SEO - Ajouter un site/Supprimer un site - Docs marketing - Documentation du produit
+description: SEO - Ajouter un site/Supprimer un site - Docs Marketo - Documentation du produit
 title: 'Optimisation du référencement : Ajouter un site/Supprimer un site'
+exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # SEO - Ajouter un site/Supprimer un site {#seo-add-a-site-delete-a-site}
 
-Pour que Marketing puisse extraire des données (liens entrants et recommandations) pertinentes pour les pages de votre site, vous devez définir l’URL du site ici.
+Pour que Marketo puisse extraire des données (liens entrants et recommandations) pertinentes pour les pages de votre site, vous devez définir l’URL du site ici.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
 ## Ajouter un site {#add-a-site}
 
@@ -41,7 +41,7 @@ Pour que Marketing puisse extraire des données (liens entrants et recommandatio
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
-   Super ! Vous venez d&#39;ajouter un autre site.
+   Fantastique ! Vous venez d&#39;ajouter un autre site.
 
    ![](assets/four.png)
 
