@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146954
-description: Supprimer de la Liste - Documents marketing - Documentation du produit
-title: Supprimer de la Liste
+description: Supprimer de la Liste - Documents Marketo - Documentation du produit
+title: Supprimer de la liste
+exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-
-# Supprimer de la Liste {#remove-from-list}
+# Supprimer de la liste {#remove-from-list}
 
 ## Aperçu {#overview}
 
