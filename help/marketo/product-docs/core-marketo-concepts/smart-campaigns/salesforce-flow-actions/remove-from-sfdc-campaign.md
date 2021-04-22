@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147036
-description: Supprimer de SFDC Campaign - Docs marketing - Documentation du produit
-title: Supprimer de SFDC Campaign
+description: Supprimer de SFDC Campaign - Marketo Docs - Documentation du produit
+title: Supprimer de SFDC
+exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-
-# Supprimer du Campaign SFDC {#remove-from-sfdc-campaign}
+# Supprimer de la campagne SFDC {#remove-from-sfdc-campaign}
 
 >[!NOTE]
 >
