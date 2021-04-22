@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377392
-description: Modifier votre domaine de marque par défaut - Documents marketing - Documentation du produit
+description: Modifier votre domaine de marque par défaut - Documents Marketo - Documentation du produit
 title: Modifier votre domaine de marque par défaut
+exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Modifier votre domaine de marque par défaut {#edit-your-default-branding-domain}
 
@@ -17,7 +17,7 @@ La modification de votre domaine de marque par défaut constitue la première é
 
 >[!PREREQUISITES]
 >
->Assurez-vous d&#39;avoir [configuré un CNAME dans votre DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md) avant d&#39;ajouter vos domaines de marque dans Marketo.
+>Veillez à [configurer un CNAME dans votre DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md) avant d’ajouter vos domaines de marque dans Marketo.
 
 1. Accédez à **Admin** et cliquez sur **Courriel**.
 
