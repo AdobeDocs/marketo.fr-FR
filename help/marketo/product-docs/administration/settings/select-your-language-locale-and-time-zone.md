@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359904
-description: Sélectionnez votre langue, langue et fuseau horaire - Documents marketing - Documentation du produit
+description: Sélectionnez votre langue, langue et fuseau horaire - Marketo Docs - Documentation du produit
 title: Sélectionner votre langue, langue et fuseau horaire
+exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Sélectionnez votre langue, langue et fuseau horaire {#select-your-language-locale-and-time-zone}
 
@@ -21,12 +21,12 @@ L&#39;anglais n&#39;est pas ta première langue ? Ne vous inquiétez pas, nous v
 * Français
 * Allemand
 * Japonais
-* Portugais
+* portugais
 * Espagnol
 
 ## Modifier la langue de l’utilisateur, les paramètres régionaux et le fuseau horaire {#change-user-language-locale-and-time-zone}
 
-1. Connectez-vous à Marketing et sous votre nom sélectionnez **Mon compte**.
+1. Connectez-vous à Marketo et sous votre nom sélectionnez **Mon compte**.
 
    ![](assets/myaccount.png)
 
