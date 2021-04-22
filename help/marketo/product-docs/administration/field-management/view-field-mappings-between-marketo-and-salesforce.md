@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360344
-description: Correspondances des champs de vue entre Marketo et Salesforce - Docs Marketo - Documentation sur les produits
-title: Correspondances des champs de vue entre Marketo et Salesforce
+description: Correspondances des champs de vue entre Marketo et Salesforce - Marketo Docs - Documentation sur les produits
+title: Correspondances de champs de vue entre Marketo et Salesforce
+exl-id: a60835ec-da8f-4141-af54-0160e2531581
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # Correspondances des champs de vue entre Marketo et Salesforce {#view-field-mappings-between-marketo-and-salesforce}
 
