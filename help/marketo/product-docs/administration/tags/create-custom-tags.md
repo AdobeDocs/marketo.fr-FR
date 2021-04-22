@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950660
-description: Créer des balises personnalisées - Documents marketing - Documentation du produit
+description: Créer des balises personnalisées - Documents Marketo - Documentation du produit
 title: Créer des balises personnalisées
+exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # Créer des balises personnalisées {#create-custom-tags}
 
