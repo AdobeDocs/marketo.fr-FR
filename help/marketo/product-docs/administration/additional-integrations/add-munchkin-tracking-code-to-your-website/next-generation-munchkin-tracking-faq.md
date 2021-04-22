@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10096583
-description: FAQ sur le suivi de Munchkin de nouvelle génération - Docs marketing - Documentation du produit
+description: FAQ sur le suivi de Munchkin de nouvelle génération - Docs Marketo - Documentation du produit
 title: FAQ sur le suivi de Munchkin de nouvelle génération
+exl-id: 283189ac-c817-479a-b896-91233980608c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 0%
 
 ---
-
 
 # FAQ sur le suivi de Munchkin de nouvelle génération {#next-generation-munchkin-tracking-faq}
 
@@ -27,17 +27,17 @@ Nous n&#39;avons pas encore de date exacte, mais veuillez revenir ici pour les m
 
 ## Dois-je apporter des modifications au suivi de ma serviette Munchkin sur mon site Web ? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-Non. Le code de suivi de Munchkin reste le même. Aucune modification n’est nécessaire pour votre site Web.
+Nombre Le code de suivi de Munchkin reste le même. Aucune modification n’est nécessaire pour votre site Web.
 
 >[!NOTE]
 >
 >Cette modification n’a aucune incidence sur la personnalisation Web (personnalisation en temps réel). Il continue à identifier des visiteurs web anonymes et connus et à personnaliser le contenu en temps réel pour ces visiteurs.
 
-## Pourquoi Marketo a-t-il supprimé le filtre &quot;Is Anonymous&quot; des Listes dynamiques ? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
+## Pourquoi Marketo a-t-il supprimé le filtre &quot;Est-ce anonyme&quot; des Listes dynamiques ? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
 Nous avons changé la façon dont les personnes anonymes interagissent avec les campagnes intelligentes. Avant, ils passaient par une campagne intelligente, tout comme les gens connus. Le filtre &quot;Est anonyme&quot; a été utilisé pour spécifier que seules les personnes connues ou anonymes circulent dans la campagne.
 
-Avec Munchkin V2, nous continuerons à suivre toutes les activités anonymes ; cependant, vous ne pouvez plus appliquer des filtres à des personnes anonymes. Au moment de la conversion (lorsque la personne est connue dans Marketo), toutes les activités survenues lorsque la personne était anonyme sont ajoutées au journal des activités de la personne et, à ce moment, elles passent par les campagnes pour lesquelles elles remplissent les conditions requises.
+Avec Munchkin V2, nous continuerons à suivre toutes les activités anonymes ; cependant, vous ne pouvez plus appliquer des filtres à des personnes anonymes. Au moment de la conversion (lorsque la personne est connue dans Marketo), toutes les activités survenues lorsque la personne était anonyme sont ajoutées au journal des activités de la personne et, à ce moment, elles passent par les campagnes auxquelles elles ont droit.
 
 Si vous utilisez déjà ce filtre dans une Liste dynamique (par exemple, dans une Campaign dynamique ou un rapport), il n’est pas automatiquement supprimé de la Liste dynamique. Voir ci-dessous pour plus de détails.
 
@@ -80,7 +80,7 @@ Consultez ces liens :
 
 [Présentation des mises à niveau des pistes anonymes](https://nation.marketo.com/docs/DOC-2937)
 
-[Mises à niveau des pistes anonymes - Modifications dans l’interface utilisateur de Marketing Cloud](https://nation.marketo.com/docs/DOC-2938)
+[Mises à niveau des pistes anonymes - Modifications dans l’interface utilisateur Marketo](https://nation.marketo.com/docs/DOC-2938)
 
 [Mises à niveau des pistes anonymes - Action client requise](https://nation.marketo.com/docs/DOC-2939)
 
@@ -94,4 +94,4 @@ Consultez ces liens :
 
 ## J&#39;ai plus de questions ! Comment puis-je leur faire répondre ? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Veuillez contacter la [communauté](https://nation.marketo.com/welcome). Vous pouvez également contacter le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support). Ils seront heureux de répondre à vos questions.
+Veuillez contacter la [communauté](https://nation.marketo.com/welcome). Vous pouvez également contacter le [Support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Ils seront heureux de répondre à vos questions.
