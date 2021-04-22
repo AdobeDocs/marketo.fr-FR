@@ -1,14 +1,14 @@
 ---
-description: Statut de synchronisation de Salesforce - Documents marketing - Documentation du produit
+description: Statut de synchronisation Salesforce - Docs Marketo - Documentation du produit
 title: Statut de synchronisation Salesforce
+exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 translation-type: tm+mt
-source-git-commit: 98af67caaf485535ba2177aa661a503990e8698d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
-
 
 # Statut de synchronisation Salesforce {#salesforce-sync-status}
 
@@ -67,23 +67,23 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
    <th>Valeurs d’énumération</th> 
   </tr> 
   <tr> 
-   <td colspan="1">Commencé à</td> 
+   <td colspan="1">Début</td> 
    <td colspan="1">Date/heure du début de cycle de synchronisation (fuseau horaire de l’utilisateur)</td> 
    <td colspan="1"></td> 
   </tr>  
   <tr> 
-   <td colspan="1">Terminé à</td> 
+   <td colspan="1">Fin</td> 
    <td colspan="1">Date/heure de fin du cycle de synchronisation (fuseau horaire de l’utilisateur)</td> 
    <td colspan="1"></td> 
   </tr> 
   <tr> 
    <td colspan="1">Objet</td> 
-   <td colspan="1">Type d’objet</td> 
+   <td colspan="1">Type d'objet</td> 
    <td colspan="1">Contact, Personne, Tâche, Opportunité, Piste, Autres comme ci-dessous</td> 
   </tr>  
   <tr> 
    <td colspan="1">Opération</td> 
-   <td colspan="1">Type d'opération</td> 
+   <td colspan="1">Type d’opération</td> 
    <td colspan="1">Types d'opération ci-dessous</td> 
   </tr>  
   <tr> 
@@ -107,7 +107,7 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
    <td colspan="1"></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Échec de l'élément</td> 
+   <td colspan="1">Élément présentant un échec</td> 
    <td colspan="1">Nombre d'enregistrements dont la synchronisation a échoué</td> 
    <td colspan="1"><br></td> 
   </tr>  
@@ -138,16 +138,16 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
    <td colspan="1">Objets personnalisés</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Campaign</td> 
+   <td colspan="1">Campagne</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Statut du membre Campaign</td> 
+   <td colspan="1">Statut Membre de la campagne</td> 
   </tr>
   <tr> 
    <td colspan="1">Contact</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Modèle de courriel</td> 
+   <td colspan="1">Modèle d’e-mail</td> 
   </tr>  
   <tr> 
    <td colspan="1">Événement</td> 
@@ -159,7 +159,7 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
    <td colspan="1">Opportunité</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Rôle de contact d'opportunité</td> 
+   <td colspan="1">Rôle Contact d’opportunité</td> 
   </tr>  
   <tr> 
    <td colspan="1">Tâche</td> 
@@ -170,7 +170,7 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
  </tbody> 
 </table>
 
-## Type d&#39;opération {#operation-type}
+## Type d’opération {#operation-type}
 
 <table> 
  <colgroup> 
@@ -181,27 +181,27 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Type d'opération</th> 
+   <th>Type d’opération</th> 
    <th>Trouvé par rapport à ces objets</th> 
    <th>Remarques</th> 
    <th>Type d'opération</th>
   </tr> 
   <tr> 
    <td colspan="1">Lien d’initialisation avec Programme</td> 
-   <td colspan="1">Campaign</td> 
+   <td colspan="1">Campagne</td> 
    <td colspan="1">Liaison de campagnes aux Programmes</td> 
    <td colspan="1">Mettre à jour</td>
   </tr>  
   <tr> 
    <td colspan="1">Extraire les conversions</td> 
    <td colspan="1">Personne (responsable)*</td> 
-   <td colspan="1">Récupérez les actions de conversion de la collecte de données sur le marketing. Les unités (nombres) sont des pistes convertissant en contacts</td> 
+   <td colspan="1">Extrayez les actions de conversion de la collecte de données régionale vers Marketo. Les unités (nombres) sont des pistes convertissant en contacts</td> 
    <td colspan="1">Mise à jour, élément non validé ou ignoré</td>
   </tr> 
   <tr> 
-   <td colspan="1">Supprimer supprime</td> 
+   <td colspan="1">Extraire les suppressions</td> 
    <td colspan="1">Contact, Personne (responsable), Opportunité, Campaign, Membres Campaign, Contact d'opportunité, Objets personnalisés, Campagnes, Statut de membre Campaign, Rôle Contact d'opportunité</td> 
-   <td colspan="1">Suppression d’enregistrements de la collecte de données régionale synchronisés sur le marché</td> 
+   <td colspan="1">Suppression des enregistrements de la collecte de données régionale synchronisés avec Marketo</td> 
    <td colspan="1">Supprimé, élément en échec ou ignoré</td>
   </tr>  
   <tr> 
@@ -211,19 +211,19 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
    <td colspan="1">Nouveau, mis à jour, élément non validé ou ignoré</td>
   </tr>  
   <tr> 
-   <td colspan="1">Push new</td> 
+   <td colspan="1">Intégrer les nouveaux</td> 
    <td colspan="1">Tâches, modèles de courrier électronique</td> 
    <td colspan="1">Tâches Push (activités)</td> 
    <td colspan="1"></td>
   </tr>
   <tr> 
-   <td colspan="1">Mises à jour Push</td> 
+   <td colspan="1">Intégrer les mises à jour</td> 
    <td colspan="1">Tâches, modèles de courriel, personne, contact, campagnes</td> 
    <td colspan="1">Pousser les mises à jour vers SFDC et supprimer également</td> 
    <td colspan="1">Mise à jour, élément non validé ou ignoré</td>
   </tr>  
   <tr> 
-   <td colspan="1">Schéma de synchronisation</td> 
+   <td colspan="1">Synchroniser le schéma</td> 
    <td colspan="1">Membres Campaign, Objets personnalisés, Campagnes, Statut de membre Campaign, Tâches, Personne, Opportunité, Rôle Contact d'opportunité, Utilisateurs</td> 
    <td colspan="1">Synchronise les métadonnées pour différents objets afin de déterminer les nouveaux champs à synchroniser lors du cycle suivant.</td> 
    <td colspan="1"></td>
@@ -241,7 +241,7 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
    <td colspan="1"></td>
   </tr>  
   <tr> 
-   <td colspan="1">Mettre à jour FKS</td> 
+   <td colspan="1">Mettre à jour le FKS</td> 
    <td colspan="1">Tout</td> 
    <td colspan="1">Mettre à jour la clé étrangère de tous les objets</td> 
    <td colspan="1">S/O</td>
