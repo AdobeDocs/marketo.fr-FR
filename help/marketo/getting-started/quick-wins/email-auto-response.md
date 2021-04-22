@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359416
-description: Réponse automatique par courriel - Documents marketing - Documentation du produit
-title: Réponse automatique du courriel
+description: Réponse automatique par courrier électronique - Documents Marketo - Documentation du produit
+title: Réponse e-mail automatique
+exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '384'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-
-# Réponse automatique par courriel {#email-auto-response}
+# Réponse e-mail automatique {#email-auto-response}
 
 ## Mission : Envoyer un e-mail de remerciement lorsqu&#39;une personne remplit un formulaire {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
 >[!PREREQUISITES]
 >
 >* [Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [landing page avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [Page de destination avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
-## Étape 1 : Créer un courriel {#step-create-an-email}
+## Étape 1 : Créer un e-mail {#step-create-an-email}
 
 1. Accédez à la zone Activités marketing.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. Cliquez sur Courriel.
+1. Cliquer sur e-mail.
 
    ![](assets/three-2.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a55-3a16.png)
 
-## Étape 2 : Créer une Campaign intelligente {#step-create-a-smart-campaign}
+## Étape 2 : Créer une campagne intelligente {#step-create-a-smart-campaign}
 
 1. Cliquez avec le bouton droit de la souris sur **Mon Programme** et cliquez sur **Nouvelle Campaign dynamique**.
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Accédez à l&#39;onglet **Liste dynamique**.
+1. Cliquez sur l&#39;onglet **Liste intelligente**.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/8.png)
 
-1. Sélectionnez **chaque fois** et cliquez sur **Enregistrer**.
+1. Sélectionnez **à chaque fois** et cliquez sur **Enregistrer**.
 
    ![](assets/9.png)
 
@@ -115,13 +115,13 @@ ht-degree: 0%
 >
 >Une fois principale, cette campagne s’exécute chaque fois qu’une personne remplit le formulaire spécifié. La campagne continue à s’exécuter jusqu’à ce qu’elle soit désactivée.
 
-## Étape 3 : Remplir le formulaire {#step-fill-out-the-form}
+## Étape 3 : Remplir le formulaire {#step-fill-out-the-form}
 
 1. Sélectionnez **Ma page**. Cela a été créé dans le [Landing page avec un Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) gain rapide.
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
-1. Cliquez sur **Vue Page approuvée**.
+1. Cliquez sur **Afficher la page approuvée**.
 
    ![](assets/image2014-9-24-12-3a0-3a18.png)
 
@@ -133,14 +133,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Veillez à utiliser votre adresse électronique réelle pour obtenir le courriel.
+>Indiquez une adresse e-mail valide pour être sûr de bien recevoir l&#39;e-mail.
 
-## Fin de la mission {#mission-complete}
+## Mission accomplie {#mission-complete}
 
-En quelques minutes, vous devriez voir le courriel de réponse automatique dans votre boîte de réception. Super boulot !
+En quelques minutes, vous devriez voir le courriel de réponse automatique dans votre boîte de réception. Bon boulot !
 
 <br> 
 
-[Mission 3 : Score simple](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[◄ Mission 3 : Évaluation simple](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[Mission 5 : Importer une Liste de pistes ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[Mission 5 : Importer une liste de leads ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
