@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146956
-description: Moment intéressant - Documents marketing - Documentation du produit
-title: Moment intéressant
+description: Moment intéressant - Marketo Docs - Documentation du produit
+title: Moment significatif
+exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
-# Moment intéressant {#interesting-moment}
+# Moment significatif {#interesting-moment}
 
 ## Aperçu {#overview}
 
-Si vous disposez de Marketing Sales Insight, vous pouvez utiliser l&#39;étape de flux **Moment intéressant** pour donner à votre équipe commerciale une visibilité sur les choses cool que vos employés font.
+Si vous avez Marketo Sales Insight, vous pouvez utiliser l&#39;étape de flux **Moment intéressant** pour donner à votre équipe commerciale une visibilité sur les choses cool que vos employés font.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
