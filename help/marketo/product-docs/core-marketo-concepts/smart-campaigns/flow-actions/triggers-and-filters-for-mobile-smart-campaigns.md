@@ -1,21 +1,21 @@
 ---
 unique-page-id: 9437991
-description: Déclencheurs et Filtres pour les campagnes dynamiques mobiles - Documents marketing - Documentation sur les produits
+description: Déclencheurs et Filtres pour les campagnes dynamiques mobiles - Documents Marketo - Documentation sur les produits
 title: Déclencheurs et Filtres pour les campagnes dynamiques mobiles
+exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Déclencheurs et Filtres pour les campagnes dynamiques mobiles {#triggers-and-filters-for-mobile-smart-campaigns}
 
 Vous pouvez configurer des déclencheurs et des filtres pour une campagne dynamique d’application mobile.
 
-Pour la plupart des activités, il existe un déclencheur, un filtre et un filtre d’inactivité. Utilisez les filtres d’inactivité pour effectuer le suivi d’une action, telle que le fait d’appuyer sur une notification Push, qui *n’a pas* eu lieu.
+Pour la plupart des activités, il existe un déclencheur, un filtre et un filtre d’inactivité. Utilisez des filtres d’inactivité pour effectuer le suivi d’une action, telle que le fait d’appuyer sur une notification Push, qui *n’a pas* eu lieu.
 
 * Application mobile installée/installée
 * Application mobile ouverte/ouverte
@@ -61,13 +61,13 @@ Certains déclencheurs et filtres d’offre imposent des contraintes supplément
 
 ## Déclencheurs et Filtres {#triggers-and-filters}
 
-**Avec application mobile**
+**A une application mobile**
 
 Utilisez ce filtre pour identifier toutes les personnes qui ont déjà installé votre application. Cette option est disponible uniquement sous la forme d’un filtre.
 
 >[!NOTE]
 >
->Le filtre trouvera les installations en cours et les anciennes, car Marketo ne suit pas les désinstallations de l’application.
+>Le filtre trouvera à la fois les installations en cours et les anciennes, car Marketo ne suit pas les désinstallations de l’application.
 
 **Contraintes** : Type de périphérique, plate-forme, application mobile, version de l’application mobile, type de périphérique, source d’installation, Activé pour la diffusion Push et Paramètre régional
 
@@ -137,7 +137,7 @@ Les contraintes Action vous permettent d’utiliser le déclencheur et les filtr
    >   * Il a fallu 20 secondes pour acheter
 
 
-Voici à quoi ressemble le filtre dans Marketo :
+Voici à quoi ressemble le filtre en Marketo :
 
 ![](assets/image2015-8-17-13-3a16-3a12.png)
 
@@ -150,8 +150,8 @@ Voici à quoi ressemble le filtre dans Marketo :
 >| Type d&#39;action | Shopping | Shopping |
 >|---|---|---|
 >| Action | Chemise achetée | Pantalon acheté |
->| Détails de l&#39;action | Couleur | Couleur |
->| Mesure d’action | Prix | Prix |
+>| Détails de l’action | Couleur | Couleur |
+>| Mesure de l’action | Prix | Prix |
 
 
 **A/possédait une session d’application mobile**
