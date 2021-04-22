@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949678
-description: Optimisation du référencement - Ajouter/supprimer des mots-clés d'une Liste - Docs marketing - Documentation du produit
+description: SEO - Ajouter/supprimer des mots-clés d'une Liste - Marketo Docs - Documentation du produit
 title: Optimisation du référencement - Ajouter/supprimer des mots-clés d'une Liste
+exl-id: c03416b6-796b-4255-8f19-2087b215be05
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Ajouter/supprimer des mots-clés d&#39;une Liste {#seo-add-remove-keywords-from-a-list}
 
