@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7504128
-description: Créer un objectif de Liste intelligente - Documentation marketing - Documentation du produit
+description: Créer un objectif de Liste intelligente - Docs Marketo - Documentation du produit
 title: Créer un objectif de Liste intelligente
+exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-
 # Créer un objectif de Liste intelligente {#create-a-smart-list-goal}
 
-Les objectifs sont des moyens de suivre les progrès et de motiver votre équipe. Ils peuvent être combinés à des listes intelligentes pour suivre toutes sortes de choses sur le marché. De plus, une fois que vous avez configuré un objectif de liste intelligent, il se met automatiquement à jour toutes les 2 heures lorsqu&#39;il est utilisé dans une présentation.
+Les objectifs sont des moyens de suivre les progrès et de motiver votre équipe. Ils peuvent être combinés avec des listes intelligentes pour suivre toutes sortes de choses à Marketo. De plus, une fois que vous avez configuré un objectif de liste intelligent, il se met automatiquement à jour toutes les 2 heures lorsqu&#39;il est utilisé dans une présentation.
 
 Comme pour les présentations, les objectifs sont spécifiques à [l&#39;espace de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
