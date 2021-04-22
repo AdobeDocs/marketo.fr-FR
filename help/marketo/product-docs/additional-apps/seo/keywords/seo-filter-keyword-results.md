@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949208
-description: SEO - Filtrer les résultats des mots-clés - Documents marketing - Documentation du produit
+description: SEO - Filtrer les résultats des mots-clés - Documentation Marketo - Documentation du produit
 title: SEO - Résultats du filtre de mots-clés
+exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Filtrer les résultats des mots-clés {#seo-filter-keyword-results}
 
