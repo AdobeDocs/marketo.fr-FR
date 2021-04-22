@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378468
-description: Filtrage dans la piste d’audit - Documents marketing - Documentation du produit
+description: Filtrage dans la piste d’audit - Documentation Marketo - Documentation du produit
 title: Filtrage dans la piste d’audit
+exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Filtrage dans la piste d&#39;audit {#filtering-in-audit-trail}
 
