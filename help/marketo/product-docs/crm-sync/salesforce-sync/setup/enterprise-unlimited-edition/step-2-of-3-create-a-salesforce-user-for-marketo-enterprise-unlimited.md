@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360364
-description: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Enterprise/Unlimited) - Docs marketing - Documentation du produit
+description: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Enterprise/Unlimited) - Documents Marketo - Documentation du produit
 title: Etape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Enterprise/Unlimited)
+exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Étape 2 sur 3 : Créer un utilisateur Salesforce pour Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Étape 1 sur 3 : Ajouter les champs du marketing à Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>[Étape 1 sur 3 : Ajouter les champs Marketo à Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 Dans cet article, vous allez configurer des autorisations d&#39;utilisateur dans le profil Salesforce et créer un compte d&#39;intégration Marketo-Salesforce.
 
@@ -37,7 +37,7 @@ Dans cet article, vous allez configurer des autorisations d&#39;utilisateur dans
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Sélectionnez **Utilisateur standard**, nommez le profil &quot;Synchronisation Marketo-Salesforce&quot; et cliquez sur **Enregistrer**.
+1. Sélectionnez **Utilisateur standard**, nommez le profil &quot;Marketo-Salesforce Sync&quot; et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -73,7 +73,7 @@ Dans cet article, vous allez configurer des autorisations d&#39;utilisateur dans
    * Comptes
    * Campagnes
    * Contacts
-   * Pistes
+   * Leads
    * Opportunités
 
    >[!NOTE]
@@ -96,7 +96,7 @@ Dans cet article, vous allez configurer des autorisations d&#39;utilisateur dans
 
 1. Dans la page des détails du profil, accédez à la section **Sécurité au niveau du champ**. Cliquez sur **Vue** pour modifier l’accessibilité des objets :
 
-   * Piste
+   * Lead
    * Contact
    * Compte
    * Opportunité
@@ -144,7 +144,7 @@ Dans cet article, vous allez configurer des autorisations d&#39;utilisateur dans
 
 ![](assets/sfdc-check-the-boxes.png)
 
-## Créer un compte de synchronisation Marketo-Salesforce {#create-marketo-salesforce-sync-account}
+## Créer un compte Marketo-Salesforce Sync {#create-marketo-salesforce-sync-account}
 
 >[!TIP]
 >
@@ -162,4 +162,4 @@ L&#39;étape 2 sur 2 est terminée.
 
 >[!NOTE]
 >
->[Étape 3 sur 3 : Connecter Marketing et Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>[Étape 3 sur 3 : Connecter Marketo et Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
