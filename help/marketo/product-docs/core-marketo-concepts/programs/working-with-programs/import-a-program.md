@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147108
-description: Importer un Programme - Documents marketing - Documentation du produit
+description: Importer un Programme - Documents Marketo - Documentation du produit
 title: Importer un Programme
+exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
 
 ---
 
-
 # Importer un Programme {#import-a-program}
 
-Un programme peut être importé d&#39;un abonnement de marché à un autre. Par exemple, vous pouvez créer un programme dans un sandbox, puis l’importer dans votre abonnement actif. En outre, vous pouvez importer un programme préconstruit à partir de la bibliothèque de Programmes Marketo.
+Un programme peut être importé d&#39;un abonnement Marketo à un autre. Par exemple, vous pouvez créer un programme dans un sandbox, puis l’importer dans votre abonnement actif. Vous pouvez également importer un programme préconstruit à partir de la bibliothèque de Programmes Marketo.
 
 ## Importer un Programme {#import-a-program-1}
 
@@ -29,9 +29,9 @@ Un programme peut être importé d&#39;un abonnement de marché à un autre. Par
    >
    >L’importation de programme n’est disponible que pour les utilisateurs pour lesquels l’autorisation d’importation de Programme est activée. En savoir plus sur [la gestion des rôles utilisateur et des autorisations](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >Pour connecter un compte sandbox à votre abonnement actif, contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Pour connecter un compte sandbox à votre abonnement actif, contactez le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Sélectionnez un Abonnement Marketo **** et un programme à importer. Cliquez sur **Suivant**.
+1. Sélectionnez un Abonnement **Marketo** et un programme à importer. Cliquez sur **Suivant**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
@@ -57,20 +57,20 @@ Vous recevrez une confirmation par courrier électronique une fois l&#39;importa
 >
 >Vous devez replanifier des campagnes par lots importées et activer des campagnes de déclenchement. Le système désactive automatiquement les planifications de campagne et déclenche les campagnes dans le programme importé.
 
-## Identifier les Programmes prédéveloppés dans la bibliothèque de Programmes de marketing {#identify-pre-built-programs-in-the-marketo-program-library}
+## Identifier les Programmes prédéveloppés dans la bibliothèque de Programmes Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
 
-La bibliothèque de Programmes Marketo contient des programmes pré-créés et testés que vous pouvez importer dans votre abonnement. Les programmes disponibles sont les suivants :
+La bibliothèque de Programmes Marketo contient des programmes prédéveloppés et testés que vous pouvez importer dans votre abonnement. Les programmes disponibles sont les suivants :
 
 1. **Infirmière de base.** Envoie une série de courriers électroniques séparés par des étapes d’attente.
-1. **data Management.** Préserve l’intégrité des données à l’aide de campagnes intelligentes.
+1. **Gestion des données.** Préserve l’intégrité des données à l’aide de campagnes intelligentes.
 1. **Courriel avec Landing page.** Envoie un premier courrier électronique avec une offre, telle que &quot;Télécharger ce livre blanc&quot;. Suit un message de confirmation ou de rappel. Inclut un landing page avec un formulaire.
 1. **Courrier électronique avec états de progression.** Envoie une explosion de courrier avec un lien pouvant faire l’objet d’un suivi pour la personne sur laquelle cliquer. Met à jour l’état de progression de chaque personne - Envoyé, Ouvert, Cliqué, etc.
-1. **Moments intéressants.** Crée des moments intéressants pour que votre équipe commerciale les garde dans la boucle.
+1. **Moments significatifs.** Crée des moments intéressants pour que votre équipe commerciale les garde dans la boucle.
 1. **landing page avec la réponse automatique.** Utilisez le contenu téléchargeable pour attirer de nouvelles personnes et les nourrir. Inclut des landings page et des formulaires.
 1. **Cycle de vie 2.** Utilise le score pour déplacer une personne du nouveau au marketing qualifié.
 1. **Modèle de courrier électronique mobile.** Modèle de courrier électronique réactif testé sur iPhone et Android. Certaines versions des applications Android, MS Outlook, Exchange et tierces, telles que Gmail et Yahoo ! Les applications mobiles par courrier électronique ne prennent pas en charge la page CSS requise pour les modèles réactifs. Nous vous recommandons de tester avant d&#39;envoyer des courriers électroniques.
 1. **Tirage d’importation de programme.** Tirage programme pour ceux qui essaient la Programme Library ! Approuvez simplement les courriels et le landing page et activez la campagne intelligente. Ensuite, vue le landing page approuvé, remplissez le formulaire, et vous êtes inscrit !
-1. **Campagnes disponibles sur les ventes.** Donne à vos commerciaux un moyen d’exécuter des campagnes marketing intelligentes à partir d’un Tableau de bord de votre gestion de la relation client.
+1. **Campagnes disponibles sur les ventes.** Donne à vos commerciaux un moyen d&#39;exécuter des campagnes Marketo intelligentes à partir d&#39;un Tableau de bord de votre gestion de la relation client.
 1. **Scoring - Spark Edition.** Score démographique et comportemental capturé dans un seul champ de score. Inclut plus de deux douzaines de campagnes liées au score.
 1. **Scoring - Standard &amp; Select Editions.** Score démographique et comportemental capturé dans des champs de score distincts. Inclut plus de deux douzaines de campagnes liées au score.
 1. **Synchroniser les nouvelles personnes avec CRM.** Campagne qui synchronise les nouvelles personnes sur votre système de gestion de la relation client. Il attribue un statut à une personne de telle sorte qu&#39;elle soit reconnue comme n&#39;étant pas prête pour les ventes.
