@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146960
-description: Modifier la valeur des données - Documents marketing - Documentation du produit
-title: Modifier la valeur des données
+description: Modifier la valeur des données - Documents Marketo - Documentation du produit
+title: Modifier valeur des données
+exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
-# Modifier la valeur de données {#change-data-value}
+# Modifier valeur des données {#change-data-value}
 
 ## Aperçu {#overview}
 
-Vous pouvez utiliser Marketing pour mettre à jour la valeur d’un champ. Pour cela, vous utiliserez l’action de flux **Modifier la valeur des données**.
+Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour cela, vous utiliserez l’action de flux **Modifier la valeur des données**.
 
 ![](assets/image2014-9-22-11-3a15-3a34.png)
 
