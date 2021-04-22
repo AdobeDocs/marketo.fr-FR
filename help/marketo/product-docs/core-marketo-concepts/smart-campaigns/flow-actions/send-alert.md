@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146958
-description: Envoyer une alerte - Documents marketing - Documentation du produit
+description: Envoyer une alerte - Documentation Marketo - Documentation du produit
 title: Envoyer une alerte
+exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Envoyer l&#39;alerte {#send-alert}
+# Envoyer une alerte {#send-alert}
 
 ## Aperçu {#overview}
 
-Marketo peut envoyer une alerte par courriel contenant des informations personnelles à n’importe qui - le vendeur, un partenaire ou quelqu’un d’autre. Utilisez l’étape de flux **Envoyer une alerte**.
+Marketo peut envoyer une alerte par courriel contenant des informations personnelles à n&#39;importe qui - le vendeur, un partenaire ou quelqu&#39;un d&#39;autre. Utilisez l’étape de flux **Envoyer une alerte**.
 
 ![](assets/one-1.png)
 
