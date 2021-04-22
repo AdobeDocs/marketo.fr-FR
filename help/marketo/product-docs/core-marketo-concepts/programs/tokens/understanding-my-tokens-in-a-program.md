@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147114
-description: Présentation de mes jetons dans un Programme - Documents marketing - Documentation du produit
+description: Présentation de mes jetons dans un Programme - Marketo Docs - Documentation du produit
 title: Présentation de mes jetons dans un Programme
+exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Présentation de mes jetons dans un Programme {#understanding-my-tokens-in-a-program}
 
@@ -17,13 +17,13 @@ Un jeton est une variable que vous pouvez utiliser dans les courriels, les landi
 
 Outre Mes jetons, vous pouvez également utiliser n’importe lequel des jetons intégrés de vos programmes. Consultez la section [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
 
-## Mes jetons {#my-tokens}
+## Mes jetons  {#my-tokens}
 
 Mes jetons sont des variables personnalisées que tout le monde peut créer. Ils sont [créés](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) dans des dossiers de campagne ou des programmes.
 
 Mes jetons s&#39;affichent comme suit : `{{my.Name Of Token}}`
 
-Exemples :
+Exemples :
 
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
@@ -37,7 +37,7 @@ Exemples :
  </thead> 
  <tbody> 
   <tr> 
-   <td>Fichier de calendrier <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>Fichier du calendrier <img alt="--" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Utilisez ce jeton pour <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">ajouter un fichier de événement de calendrier (.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> à vos courriels et landings page.</td> 
   </tr> 
   <tr> 
@@ -45,7 +45,7 @@ Exemples :
    <td>Ce jeton contient une valeur de date. La date s’affiche sous forme d’année-mois-jour (p. ex., 2016-05-23).</td> 
   </tr> 
   <tr> 
-   <td>Script de courriel <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>Script de l'e-mail <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Utilisez ce jeton pour exécuter un script Velocity dans vos courriels. Pour en savoir plus <a href="https://developers.marketo.com/documentation/email-scripting/" title="Lien de suivi" rel="nofollow">ici</a>. </td> 
   </tr> 
   <tr> 
@@ -53,16 +53,16 @@ Exemples :
    <td>Tout entier. Cela peut même être négatif.</td> 
   </tr> 
   <tr> 
-   <td>Texte enrichi <img alt="—" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>Texte complet <img alt="—" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Il s'agit de HTML. Utilisez-le dans les courriers électroniques et les landings page.</td> 
   </tr> 
   <tr> 
-   <td>Score <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>Évaluation <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Utilisez ce jeton dans l'<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">étape de flux de note de modification</a>. </td> 
   </tr> 
   <tr> 
-   <td colspan="1">SFDC Campaign <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
-   <td colspan="1">Utilisez ce jeton pour autoriser l’ajout de pistes qui font partie d’un Programme Marketo à n’importe quel Campaign SFDC.</td> 
+   <td colspan="1">Campagne SFDC <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
+   <td colspan="1">Utilisez ce jeton pour permettre aux pistes qui font partie d’un Programme Marketo d’être également ajoutées à tout Campaign SFDC ajouté.</td> 
   </tr> 
   <tr> 
    <td>Texte <img alt="—" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
