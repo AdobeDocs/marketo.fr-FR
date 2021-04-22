@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360327
-description: Affectation de partitions de personne avec des règles d'affectation - Documents marketing - Documentation du produit
+description: Affectation de partitions de personne avec des règles d'affectation - Docs Marketo - Documentation du produit
 title: Affectation de partitions de personne avec des règles d'affectation
+exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Affectation de partitions de personne avec des règles d&#39;affectation {#assigning-person-partitions-with-assignment-rules}
 
