@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953132
-description: Présentation des campagnes dynamiques par lot et déclencheur - Documentation sur le marketing - Documentation sur les produits
+description: Présentation des campagnes dynamiques par lot et déclencheur - Marketo Docs - Documentation sur les produits
 title: Présentation des campagnes dynamiques par lot et déclencheur
+exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # Présentation des campagnes dynamiques par lot et déclencheur {#understanding-batch-and-trigger-smart-campaigns}
 
