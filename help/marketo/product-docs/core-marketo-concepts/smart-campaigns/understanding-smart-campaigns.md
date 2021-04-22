@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953120
-description: Présentation des campagnes dynamiques - Documents marketing - Documentation du produit
+description: Présentation des campagnes dynamiques - Documentation Marketo - Documentation sur les produits
 title: Présentation des campagnes dynamiques
+exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Présentation des campagnes dynamiques {#understanding-smart-campaigns}
 
@@ -37,7 +37,7 @@ La liste intelligente est la façon dont vous définissez l&#39;OMS que vous vou
   </tr> 
   <tr> 
    <td colspan="1">Déclencheur</td> 
-   <td colspan="1">Lien des clics</td> 
+   <td colspan="1">Clique sur lien</td> 
    <td colspan="1">Dès que quelqu'un fait quelque chose, déclenche le flux immédiatement.</td> 
   </tr> 
  </tbody> 
@@ -45,15 +45,15 @@ La liste intelligente est la façon dont vous définissez l&#39;OMS que vous vou
 
 Vous pouvez combiner des filtres de différentes manières et les utiliser conjointement avec des déclencheurs. Il s&#39;agit d&#39;un outil puissant, qui permet de l&#39;expérimenter.
 
-## Flux {#flow}
+## Déroulement {#flow}
 
 Le flux comprend les étapes que vous souhaitez que la campagne dynamique exécute, y compris les étapes d’attente et les choix de fractionnement.
 
-## Planification {#schedule}
+## Programmation {#schedule}
 
 Enfin, cela contrôle lorsque vous exécutez votre campagne intelligente. Vous pouvez même configurer la périodicité de sorte qu’elle s’exécute selon un calendrier qui se répète.
 
-Il y a énormément de choses que cette campagne intelligente peut faire. Vous y trouverez tout ce qu&#39;il faut sur Marketo, qui est plus simple à comprendre.
+Il y a énormément de choses que cette campagne intelligente peut faire. Prenez-en le temps et vous trouverez que tout à Marketo devient beaucoup plus simple à comprendre.
 
 >[!MORELIKETHIS]
 >
