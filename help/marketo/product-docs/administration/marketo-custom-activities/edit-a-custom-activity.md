@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100269
-description: Modification d’une Activité personnalisée - Documents marketing - Documentation du produit
+description: Modifier une Activité personnalisée - Documents Marketo - Documentation du produit
 title: Modifier une Activité personnalisée
+exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
-
 
 # Modifier une Activité personnalisée {#edit-a-custom-activity}
 
