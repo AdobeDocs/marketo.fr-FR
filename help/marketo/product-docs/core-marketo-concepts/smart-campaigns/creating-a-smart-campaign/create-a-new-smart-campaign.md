@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146931
-description: Création d’une Campaign intelligente - Docs marketing - Documentation du produit
+description: Création d’un Campaign intelligent - Docs Marketo - Documentation du produit
 title: Créer une Campaign intelligente
+exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-
 # Créer une Campaign dynamique {#create-a-new-smart-campaign}
 
-Les campagnes intelligentes sont l&#39;outil le plus important du marché. Ils peuvent se déclencher sur une seule personne et effectuer des actions, ou rassembler des millions de personnes et exécuter une série d&#39;étapes de flux.
+Les campagnes intelligentes sont l&#39;outil le plus important à Marketo. Ils peuvent se déclencher sur une seule personne et effectuer des actions, ou rassembler des millions de personnes et exécuter une série d&#39;étapes de flux.
 
 >[!NOTE]
 >
