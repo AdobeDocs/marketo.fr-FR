@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355569
-description: Champs personnalisés des membres du programme - Documents marketing - Documentation du produit
+description: Champs personnalisés des membres de programme - Documents Marketo - Documentation du produit
 title: Champs personnalisés des membres de programme
+exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '382'
+ht-degree: 1%
 
 ---
 
-
 # Champs personnalisés des membres de programme {#program-member-custom-fields}
 
-Les champs personnalisés Membres du programme vous permettent de collecter des données spécifiques au programme pour chaque membre. Ils peuvent être utilisés dans : Formulaires marketing, filtres et déclencheurs de Listes dynamiques et actions de flux Smart Campaign. Les données peuvent être consultées dans l’onglet Membres du programme.
+Les champs personnalisés Membres du programme vous permettent de collecter des données spécifiques au programme pour chaque membre. Ils peuvent être utilisés dans : Marketo forms, Smart Liste filtres and triggers, et Smart Campaign flow actions. Les données peuvent être consultées dans l’onglet Membres du programme.
 
 >[!NOTE]
 >
@@ -54,8 +54,8 @@ Les champs personnalisés Membres du programme vous permettent de collecter des 
 | Objet | Description |
 |---|---|
 | Société | Nom de la société associée à la personne. |
-| Opportunité | Une occasion peut être associée à une personne ou à un compte en tant que vente future potentielle. Ils entrent généralement dans Marketo via une gestion de la relation client ou via une API. |
-| Personne | Personne de votre base de données Marketo avec laquelle vous vous adressez par le biais de campagnes marketing. |
+| Opportunité | Une occasion peut être associée à une personne ou à un compte en tant que vente future potentielle. Ils entrent généralement dans Marketo par le biais d’une gestion de la relation client ou d’une API. |
+| Individu | Personne de votre base de données Marketo avec laquelle vous vous adressez par le biais de campagnes marketing. |
 | Membre du programme | Personne qui est également membre d&#39;un programme |
 
 ## Déclencheurs et Filtres {#triggers-and-filters}
@@ -76,4 +76,4 @@ Vous pouvez exploiter ces données spécifiques à un programme dans les listes 
 
 >[!MORELIKETHIS]
 >
->[Créer un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Création d’un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
