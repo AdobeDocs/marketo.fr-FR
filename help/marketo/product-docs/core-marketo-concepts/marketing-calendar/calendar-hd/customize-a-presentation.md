@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7503973
-description: Personnalisation d’une présentation - Documents marketing - Documentation du produit
+description: Personnalisation d’une présentation - Marketo Docs - Documentation du produit
 title: Personnalisation d’une présentation
+exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '285'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Personnaliser une présentation {#customize-a-presentation}
 
@@ -18,7 +18,7 @@ Configurez votre présentation du calendrier pour qu’elle reflète les objecti
 >[!AVAILABILITY]
 >
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
 >[!PREREQUISITES]
 >
@@ -68,7 +68,7 @@ L&#39;affichage du calendrier peut être défini sur une vue de 3 semaines ou me
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   Super ! Prêt à voir votre présentation ?
+   Super ! Prêt à voir votre présentation ?
 
 >[!TIP]
 >
@@ -82,7 +82,7 @@ Une fois la présentation configurée, elle est prête à être prévisualisée 
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   Ta-da ! Voici à quoi pourrait ressembler votre présentation.
+   Et voilà ! Voici à quoi pourrait ressembler votre présentation.
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
