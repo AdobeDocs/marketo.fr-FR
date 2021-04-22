@@ -1,27 +1,27 @@
 ---
 unique-page-id: 7504739
 description: Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 2 sur 3 - Marketo Docs - Documentation du produit
-title: Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 2 sur 3
+title: Installation de Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 2 sur 3
+exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
 
 ---
 
-
-# Étape 2 sur 3 Configuration du marché pour Dynamics (On-Prem 2015 et On-Prem 2016 365){#step-of-set-up-for-marketo-on-premises-and-365}
+# Étape 2 sur 3 Configuration de Marketo pour Dynamics (On-Prem 2015 et On-Prem 2016 365){#step-of-set-up-for-marketo-on-premises-and-365}
 
 Excellent travail à la réalisation des étapes précédentes. Continuons à passer à travers ça.
 
 >[!PREREQUISITES]
 >
->[Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 1 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>[Installation de Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 1 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
 
 ## Affecter le rôle utilisateur de synchronisation {#assign-sync-user-role}
 
-Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’utilisateur de synchronisation du marketing. Vous n’avez pas besoin de l’affecter à d’autres utilisateurs.
+Attribuez le rôle Utilisateur Marketo Sync uniquement à l’utilisateur Marketo Sync. Vous n’avez pas besoin de l’affecter à d’autres utilisateurs.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
    ![](assets/assign4.png)
 
-   Cochez la case Marketo Sync User (Synchroniser l’utilisateur) et cliquez sur OK.
+   Cochez Utilisateur Marketo Sync et cliquez sur OK.
 
    ![](assets/assign5.png)
 
@@ -53,9 +53,9 @@ Affectez le rôle Utilisateur de synchronisation du marketing uniquement à l’
 
    >[!NOTE]
    >
-   >Toutes les mises à jour effectuées dans votre gestion de la relation client par l’utilisateur de synchronisation **ne** seront  synchronisées de nouveau sur Marketo.
+   >Toute mise à jour effectuée dans votre gestion de la relation client par l’utilisateur de synchronisation **ne** sera  synchronisée à Marketo.
 
-## Configurer la solution marketing {#configure-marketo-solution}
+## Configurer la solution Marketo {#configure-marketo-solution}
 
 Presque terminé ! Nous n&#39;avons que quelques derniers éléments de configuration avant de passer à l&#39;article suivant.
 
@@ -65,13 +65,13 @@ Presque terminé ! Nous n&#39;avons que quelques derniers éléments de configur
 
    >[!NOTE]
    >
-   >Si la configuration du marketing est manquante, essayez d’actualiser la page. Si le problème persiste, [publiez la solution marketing](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md) ou essayez de vous déconnecter puis de vous reconnecter.
+   >Si Marketo Config est manquant, essayez d’actualiser la page. Si le problème persiste, [publiez la solution Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md) ou essayez de vous déconnecter puis de vous reconnecter.
 
 1. Cliquez sur **Par défaut**.
 
    ![](assets/configure2.png)
 
-1. Cliquez sur le champ **Utilisateur du marketing** et sélectionnez l’utilisateur de synchronisation.
+1. Cliquez sur le champ **Utilisateur Marketo** et sélectionnez l’utilisateur de synchronisation.
 
    ![](assets/configure3.png)
 
@@ -87,8 +87,8 @@ Presque terminé ! Nous n&#39;avons que quelques derniers éléments de configur
 
 * Si vous souhaitez limiter le nombre d&#39;enregistrements synchronisés, [configurez un filtre de synchronisation personnalisé](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) maintenant.
 * Exécutez le processus [Valider Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Il vérifie que vos premières configurations ont été effectuées correctement.
-* Connectez-vous à l&#39;utilisateur de synchronisation du marketing dans Microsoft Dynamics CRM.
+* Connectez-vous à Marketo Sync User dans Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >
->[Installer Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 3 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+>[Installation de Marketo pour Dynamics 2015 On-Prem et 2016 365 On-Prem Étape 3 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
