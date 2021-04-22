@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719297
-description: Activer/désactiver la synchronisation d'objets personnalisés - Documents marketing - Documentation du produit
+description: Activer/désactiver la synchronisation d’objets personnalisés - Documents Marketo - Documentation du produit
 title: Activer/désactiver la synchronisation d’objets personnalisés
+exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # Activer/désactiver la synchronisation d&#39;objets personnalisés {#enable-disable-custom-object-sync}
 
-Les objets personnalisés créés dans votre instance Salesforce peuvent également faire partie de Marketing Cloud. Voici comment le configurer.
+Les objets personnalisés créés dans votre instance Salesforce peuvent également faire partie de Marketo. Voici comment le configurer.
 
 ## Activer/désactiver la synchronisation d&#39;objets personnalisés {#enable-disable-custom-object-sync-1}
 
