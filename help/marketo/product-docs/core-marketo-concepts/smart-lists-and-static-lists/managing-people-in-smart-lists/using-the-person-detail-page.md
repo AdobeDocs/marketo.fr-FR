@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953415
-description: Utilisation de la page Détails de la personne - Documents marketing - Documentation du produit
+description: Utilisation de la page Détails de la personne - Documents Marketo - Documentation du produit
 title: Utilisation de la page Détails de la personne
+exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '550'
-ht-degree: 0%
+ht-degree: 50%
 
 ---
-
 
 # Utilisation de la page Détails de la personne {#using-the-person-detail-page}
 
@@ -39,25 +39,25 @@ Il y a beaucoup de façons d&#39;ouvrir des personnes spécifiques. Voici quelqu
 
 Les informations sur les personnes sont classées dans les onglets suivants :
 
-| Onglet | Description |
+| Onglet  | Description |
 |---|---|
 | Infos | Coordonnées et champs personnalisés concernant une personne. |
 | Informations sur la société | Informations et adresse de société de la personne. |
-| Informations sur l&#39;opportunité | Informations d&#39;opportunité synchronisées à partir de Salesforce. |
-| Champ de piste SFDC | Champs Salesforce intégrés. |
+| Infos sur l&#39;opportunité | Informations d&#39;opportunité synchronisées à partir de Salesforce. |
+| Champ lead SFDC | Champs Salesforce intégrés. |
 | Champ personnalisé SFDC | Champs Salesforce personnalisés. |
-| Journal des Activités | Toutes les activités liées à la personne. |
+| Journal d&#39;activité | Toutes les activités liées à la personne. |
 
 ## Organisation de page - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
-| Onglet | Description |
+| Onglet  | Description |
 |---|---|
 | Infos | Coordonnées et champs personnalisés concernant une personne. |
 | Informations sur la société | Informations et adresse de société de la personne. |
-| Informations sur l&#39;opportunité | Informations d&#39;opportunité synchronisées à partir de Microsoft. |
+| Infos sur l&#39;opportunité | Informations d&#39;opportunité synchronisées à partir de Microsoft. |
 | Champs personnalisés Microsoft | Champs Microsoft personnalisés. |
-| Champ de piste Microsoft | Champs Microsoft intégrés. |
-| Journal des Activités | Toutes les activités liées à la personne. |
+| Champ lead Microsoft | Champs Microsoft intégrés. |
+| Journal d&#39;activité | Toutes les activités liées à la personne. |
 
 >[!NOTE]
 >
@@ -69,37 +69,37 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## Champs par défaut du marketing avant la synchronisation CRM {#marketo-default-fields-prior-to-crm-sync}
+## Champs Marketo par défaut avant la synchronisation CRM {#marketo-default-fields-prior-to-crm-sync}
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| Adresse | Recettes annuelles | IP anonyme | Adresse de facturation | Ville de facturation |
-| Pays de facturation | Code postal de facturation | État de la facturation | Ville | Nom de la société |
-| Pays | Créé à | Date de naissance | Département | Ne pas appeler |
-| Ne pas appeler la cause | Ne pas appeler la raison | Adresse électronique | Adresse électronique non valide | Cause de courrier non valide |
-| ID de Société externe | ID de personne commerciale externe | Numéro de télécopie | Prénom | Nom complet |
-| Industrie | Ville d&#39;origine | Société déduite | Pays d&#39;origine | Zone métropolitaine désignée |
-| Code de zone de téléphone indiqué | Code postal déduit | Région d&#39;État désignée | Est anonyme | Est client |
-| Est partenaire | Titre de la tâche | Nom | Évaluation | Score |
-| Source de la personne | Statut | Téléphone principal | Nom d’affichage Facebook de Marketing Social | Identifiant Facebook Marketing Social |
-| URL de la photo Facebook de Marketo Social | URL du Profil Facebook Marketo Social | Portée Facebook du marketing social | Inscriptions référencées sur Facebook de Marketo Social | Visites référencées Facebook de Marketo Social |
-| Sexe social du marketing | Dernière inscription référencée de Marketing Social | Dernière visite référencée de Marketing Social | Nom d’affichage LinkedIn de Marketing Social | Identifiant LinkedIn de Marketing Social |
-| URL de la photo LinkedIn de Marketing Social | URL du Profil LinkedIn de Marketing Social | Portée de Marketo Social LinkedIn | Inscriptions référencées de Marketo Social LinkedIn | Visites référencées de Marketo Social LinkedIn |
-| Identifiant de syndication de marketing social | Nombre total d’inscriptions référencées dans Marketing Social | Total des visites référencées du marketing vers Social | Nom d’affichage Twitter de Marketing Social | Identifiant Twitter de Marketing Social |
-| URL de photo Twitter de Marketing Social | URL du Profil Twitter de Marketing Social | Portée Twitter du marketing social | Inscriptions référencées sur Twitter de Marketing Social | Visites provenant de Twitter de Marketing Social |
-| Nom du milieu | Numéro de téléphone mobile | Nombre d&#39;employés | Numéro de téléphone | Code postal |
-| Priorité | Note relative | Rôle | Salutation | Code SIC |
-| Site | État | Non abonné | Raison du désabonnement | Mis à jour à |
-| Urgence | Site Web |  |  |  |
+| Adresse | Chiffre d&#39;affaires annuel | IP anonyme | Adresse de facturation | Ville de facturation |
+| Pays de facturation | Code postal de facturation | État de facturation | Ville | Nom de la société |
+| Pays | Créé à | Date de naissance | Service | Ne pas appeler |
+| Cause Ne pas appeler | Raison Ne pas appeler | Adresse e-mail | E-mail non valide | Cause e-mail non valide |
+| ID de la société externe | ID du commercial externe | Numéro de fax | Prénom | Nom complet |
+| Secteur | Ville déduite | Société déduite | Pays déduit | Aire métropolitaine déduite |
+| Indicatif téléphonique local déduit | Code postal déduit | Région déduite | Est anonyme | Est client |
+| Est partenaire | Intitulé du poste | Nom | Classement | Évaluation |
+| Source de personne | Statut | Téléphone principal | Nom d&#39;affichage Marketo pour Facebook  | ID Marketo via Facebook |
+| URL de photo Marketo pour Facebook  | URL du profil Marketo pour Facebook  | Portée sociale Marketo via Facebook  | Inscriptions sur recommandation Marketo via Facebook  | Visites sur recommandation Marketo via Facebook  |
+| Sexe Marketo pour réseaux sociaux | Dernière inscription Marketo sur recommandation via réseaux sociaux | Dernière visite Marketo sur recommandation via réseaux sociaux | Nom d&#39;affichage Marketo pour LinkedIn | ID Marketo via LinkedIn |
+| URL de la photo Marketo pour LinkedIn | URL du profil Marketo pour LinkedIn | Portée sociale Marketo via LinkedIn | Inscriptions Marketo sur recommandation via LinkedIn | Visites sur recommandation Marketo via LinkedIn |
+| ID association sociale Marketo | Total des inscriptions Marketo sur recommandation via LinkedIn | Total des visites Marketo sur recommandation via LinkedIn | Nom d&#39;affichage Marketo pour Twitter | ID Marketo via Twitter |
+| URL de la photo Marketo pour Twitter | URL du profil Marketo pour Twitter | Portée sociale Marketo via Twitter | Inscriptions Marketo sur recommandation via Twitter | Visites Marketo sur recommandation via Twitter |
+| Deuxième prénom | Numéro téléphone mobile | Nombre d&#39;employés | Numéro de téléphone | Code postal |
+| Priorité | Évaluation relative | Rôle | Titre | Code SIC |
+| Site | Pays | Non abonné | Raison désabonnement | Mis à jour à |
+| Urgence | Site Internet |  |  |  |
 
 >[!NOTE]
 >
 >Certains champs sont _non_ modifiables :
 >
->* Journal des Activités
+>* Journal d&#39;activité
 >* Informations sur la société
 >* Possibilités de contacts avec la DDC
->* Certains champs spécifiques au marketing, tels que Date de création et Type de source d’origine.
+>* Certains champs spécifiques à Marketo, tels que Date de création et Type de source d’origine.
 
 >
 >
