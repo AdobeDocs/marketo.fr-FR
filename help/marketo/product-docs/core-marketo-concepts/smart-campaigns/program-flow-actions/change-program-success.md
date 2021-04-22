@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147009
-description: Réussite du Programme des modifications - Documents marketing - Documentation du produit
-title: Changer le Programme de réussite
+description: Réussite du Programme des modifications - Documents Marketo - Documentation du produit
+title: Modifier les succès du programme
+exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
-# Réussite du Programme de modification {#change-program-success}
+# Modifier les succès du programme {#change-program-success}
 
 ## Aperçu {#overview}
 
@@ -45,4 +45,4 @@ Si un groupe de personnes est accidentellement marqué comme Programme de réuss
    >
    >Vous pouvez utiliser l’étape de flux deux fois pour définir à la fois l’indicateur de réussite et la date.
 
-Super ! Vous savez maintenant comment annuler et forcer le succès.
+Fantastique ! Vous savez maintenant comment annuler et forcer le succès.
