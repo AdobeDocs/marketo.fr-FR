@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949228
-description: SEO - Obtenir des suggestions de liens entrants - Documents marketing - Documentation du produit
+description: SEO - Obtenir des suggestions de liens entrants - Marketo Docs - Documentation du produit
 title: SEO - Obtenir des suggestions de liens entrants
+exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # SEO - Obtenir des suggestions de liens entrants {#seo-get-inbound-link-suggestions}
 
-Marketo peut suggérer quels liens entrants sont utiles à votre [optimisation hors page](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+Marketo peut suggérer les liens entrants qui présentent un intérêt pour votre [optimisation hors page](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. Accédez à la section **Liens entrants**.
 
@@ -33,9 +33,9 @@ Marketo peut suggérer quels liens entrants sont utiles à votre [optimisation h
 
    >[!TIP]
    >
-   >Saviez-vous que vous pouvez [ajouter votre lien à une liste nouvelle ou existante](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md) ? Regardez !
+   >Saviez-vous que vous pouvez [ajouter votre lien à une liste nouvelle ou existante](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md) ? Découvrez-le ! 
 
-1. Super ! Ces liens ajoutés seront désormais suivis.
+1. Super ! Ces liens ajoutés seront désormais suivis.
 
    >[!NOTE]
    >
