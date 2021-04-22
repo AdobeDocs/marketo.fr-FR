@@ -2,14 +2,14 @@
 unique-page-id: 7512272
 description: Ajouter WebEx en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter WebEx en tant que service LaunchPoint
+exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Ajouter WebEx en tant que service LaunchPoint {#add-webex-as-a-launchpoint-service}
 
@@ -25,7 +25,7 @@ Marketo gère votre inscription et votre participation aux webinaires WebEx.
 
 >[!NOTE]
 >
->Le nom du site se trouve à la fin de l’URL utilisée pour se connecter à WebEx. Par exemple :
+>Le nom du site se trouve à la fin de l’URL utilisée pour se connecter à WebEx. Par exemple :
 >
 >`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
