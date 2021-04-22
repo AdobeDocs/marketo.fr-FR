@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10094188
-description: Approuver un objet personnalisé - Documents marketing - Documentation du produit
+description: Approuver un objet personnalisé - Documents Marketo - Documentation du produit
 title: Approuver un objet personnalisé
+exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
-
 
 # Approuver un objet personnalisé {#approve-a-custom-object}
 
@@ -39,7 +39,7 @@ Vous avez créé un nouvel objet personnalisé. Voici comment l&#39;approuver.
    >
    >Un objet personnalisé utilisé en tant qu&#39;objet _intermédiaire_ nécessite un champ de lien, un nom d&#39;objet lié et un nom de champ lié, mais **ne nécessite pas** un champ de déduplication.
    >
-   >Voir [Présentation des objets personnalisés du marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) pour plus d’informations.
+   >Voir [Présentation des objets personnalisés de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) pour plus d’informations.
 
 C&#39;est tout ! Désormais, vous pouvez sélectionner votre objet personnalisé dans les contraintes de vos filtres et déclencheurs à utiliser dans vos campagnes.
 
