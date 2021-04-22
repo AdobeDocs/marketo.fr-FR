@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557273
-description: Rechercher et Ajouter des Filtres à une Liste intelligente - Documentation sur le marketing - Documentation sur les produits
+description: Rechercher et Ajouter des Filtres à une Liste intelligente - Marketo Docs - Documentation du produit
 title: Rechercher et Ajouter des Filtres à une Liste intelligente
+exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # Rechercher et Ajouter des Filtres à une Liste intelligente {#find-and-add-filters-to-a-smart-list}
 
@@ -37,7 +37,7 @@ Dans cet exemple, recherchons toutes les personnes en Californie avec un score s
 
    ![](assets/four.png)
 
-Parfait ! Allons de l&#39;avant et définissons ces filtres.
+Mot clé! Allons de l&#39;avant et définissons ces filtres.
 
 >[!MORELIKETHIS]
 >
