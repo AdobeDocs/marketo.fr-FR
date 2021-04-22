@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147080
-description: Modifier l’étape des recettes - Documents marketing - Documentation du produit
-title: Modifier la phase des recettes
+description: Étape de modification des recettes - Documents Marketo - Documentation du produit
+title: Modifier l’étape dans le cycle de vente
+exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# Modifier l&#39;état des recettes {#change-revenue-stage}
+# Modifier l’étape dans le cycle de vente {#change-revenue-stage}
 
 ## Aperçu {#overview}
 
