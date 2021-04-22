@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146980
-description: Utiliser le choix d'Ajoute dans une étape de flux - Documents marketing - Documentation du produit
+description: Utiliser le choix d'Ajoute dans une étape de flux - Marketo Docs - Documentation du produit
 title: Utiliser le choix des Ajoutes dans une étape de flux
+exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # Utiliser le choix d&#39;Ajoute dans une étape de flux {#use-add-choice-in-a-flow-step}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >Seul le premier choix de correspondance est appliqué à l’étape de flux. Découvrez comment [réorganiser &quot;Choix d&#39;Ajoute&quot; dans une action de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md).
 
-   Super ! Vous pouvez désormais créer une seule campagne dynamique avec des choix d’étape de flux au lieu de créer plusieurs campagnes dynamiques pour chaque choix.
+   Fantastique ! Vous pouvez désormais créer une seule campagne dynamique avec des choix d’étape de flux au lieu de créer plusieurs campagnes dynamiques pour chaque choix.
 
    >[!MORELIKETHIS]
    >
