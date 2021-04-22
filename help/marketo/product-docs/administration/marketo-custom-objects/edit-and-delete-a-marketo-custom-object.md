@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093690
-description: Modifier et supprimer un objet personnalisé de marketing - Documents marketing - Documentation du produit
-title: Modifier et supprimer un objet personnalisé marketing
+description: Modifier et supprimer un objet personnalisé Marketo - Docs Marketo - Documentation du produit
+title: Modification et suppression d’un objet personnalisé Marketo
+exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
-# Modifier et supprimer un objet personnalisé marketing {#edit-and-delete-a-marketo-custom-object}
+# Modifier et supprimer un objet personnalisé Marketo {#edit-and-delete-a-marketo-custom-object}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Utilisez le menu Actions d’objet personnalisé pour modifier ou supprimer un objet personnalisé.
 
-1. Cliquez sur **Admin**, puis dans **Gestion de la base de données**, sélectionnez **Objets personnalisés marketing**.
+1. Cliquez sur **Admin** et dans **Gestion de la base de données**, sélectionnez **Marketo Custom Objects**.
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
@@ -45,13 +45,13 @@ Utilisez le menu Actions d’objet personnalisé pour modifier ou supprimer un o
 
 ## Supprimer un objet personnalisé {#delete-a-custom-object}
 
-Il est facile de supprimer un objet personnalisé, mais il faut être prudent. Les objets personnalisés peuvent être connectés à d&#39;autres objets ou à des listes intelligentes. Par conséquent, Marketo vous avertit avant de vous laisser cliquer sur **Supprimer**.
+Il est facile de supprimer un objet personnalisé, mais il faut être prudent. Les objets personnalisés peuvent être connectés à d&#39;autres objets ou à des listes intelligentes. Marketo vous avertit avant de vous laisser cliquer sur **Supprimer**.
 
 >[!CAUTION]
 >
 >Vous ne pouvez pas restaurer un objet personnalisé après l&#39;avoir supprimé.
 
-1. Cliquez sur **Admin**, puis dans **Gestion de la base de données**, sélectionnez **Objets personnalisés marketing**.
+1. Cliquez sur **Admin** et dans **Gestion de la base de données**, sélectionnez **Marketo Custom Objects**.
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
