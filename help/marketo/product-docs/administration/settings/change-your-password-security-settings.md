@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360185
-description: Modifier vos paramètres de protection par mot de passe - Documents marketing - Documentation du produit
+description: Modifier vos paramètres de protection par mot de passe - Documents Marketo - Documentation du produit
 title: Modifier les paramètres de protection par mot de passe
+exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
-
 
 # Modifier les paramètres de sécurité de mot de passe {#change-your-password-security-settings}
 
