@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098433
-description: Création d’une Liste autorisée pour l’accès à l’API basée sur l’adresse IP - Documents marketing - Documentation du produit
+description: Création d’une Liste autorisée pour l’accès aux API basées sur l’adresse IP - Documents Marketo - Documentation du produit
 title: Création d’une Liste autorisée pour l’accès aux API basées sur l’adresse IP
+exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # Création d’une Liste autorisée pour l’accès API basé sur l’adresse IP {#create-an-allowlist-for-ip-based-api-access}
 
