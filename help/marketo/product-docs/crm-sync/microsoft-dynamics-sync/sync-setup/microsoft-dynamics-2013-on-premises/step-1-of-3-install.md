@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571813
-description: Étape 1 sur 3 - Installation de la solution Marketo dans Dynamics (local 2013) - Documentation sur le marché - Documentation sur le produit
+description: Étape 1 sur 3 - Installation de la solution Marketo dans Dynamics (2013 sur site) - Marketo Docs - Documentation du produit
 title: Étape 1 sur 3 - Installation de la solution Marketo dans Dynamics (local 2013)
+exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # Étape 1 sur 3 : Installer la solution Marketo dans Dynamics (local 2013) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
@@ -17,7 +17,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premises et Marketo, vous de
 
 >[!NOTE]
 >
->Une fois que vous avez synchronisé Marketo sur un service de gestion de la relation client, vous ne pouvez pas effectuer une nouvelle synchronisation sans remplacer l’instance.
+>Après avoir synchronisé Marketo avec un service de gestion de la relation client, vous ne pouvez pas effectuer une nouvelle synchronisation sans remplacer l’instance.
 
 >[!PREREQUISITES]
 >
@@ -75,11 +75,11 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premises et Marketo, vous de
 
    >[!NOTE]
    >
-   >Un message indiquant &quot;Gestion des pistes marketing terminée avec un avertissement&quot; peut s’afficher. On s&#39;y attend pleinement.
+   >Un message peut s’afficher indiquant que la gestion des pistes Marketo s’est terminée avec un avertissement. On s&#39;y attend pleinement.
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
-1. La gestion des pistes marketing s’affiche désormais sur la page **Toutes les solutions**.
+1. La gestion des pistes Marketo s’affiche désormais sur la page **Toutes les solutions**.
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
@@ -91,7 +91,7 @@ N&#39;était-ce pas un mauvais droit ? Allez, je continuerai à vous faire trave
 
 >[!CAUTION]
 >
->La désactivation de l’un des processus de messagerie du SDK de Marketo entraîne une panne de l’installation !
+>La désactivation de l’un des processus de messagerie Marketo SDK entraîne une panne de l’installation !
 
 >[!MORELIKETHIS]
 >
