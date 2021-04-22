@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512607
-description: Télécharger le journal des Activités de Google Adwords - Marketo Docs - Documentation du produit
+description: Télécharger le journal des Activités Google Adwords - Marketo Docs - Documentation du produit
 title: Télécharger le journal des Activités de Google Adwords
+exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
 
 ---
-
 
 # Télécharger le journal des Activités de Google Adwords {#download-googleadwords-activity-log}
 
