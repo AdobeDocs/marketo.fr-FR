@@ -1,14 +1,14 @@
 ---
-description: Erreurs de synchronisation de Salesforce - Docs marketing - Documentation du produit
+description: Erreurs de synchronisation Salesforce - Documentation Marketo Docs - Documentation du produit
 title: Erreurs de synchronisation Salesforce
+exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Erreurs de synchronisation Salesforce {#salesforce-sync-errors}
 
@@ -34,13 +34,13 @@ Vue d’un résumé des erreurs survenues pendant le processus de synchronisatio
 
 | Champ | Description |
 |---|---|
-| Échec le | Niveau d&#39;enregistrement _ou_ Niveau de travail |
+| Échec de | Niveau d&#39;enregistrement _ou_ Niveau de travail |
 | Date/heure de l&#39;échec | Détails de l’erreur |
-| Type d’erreur | Message de retour SFDC |
+| Type d&#39;erreur | Message de retour SFDC |
 
 >[!TIP]
 >
->Un clic sur l’enregistrement de niveau enregistrement affiche les identifiants Marketo et Salesforce de l’objet associé. Dans certains cas, le message figurant au dossier et les erreurs au niveau de la tâche proviennent directement de Salesforce. Leur recherche en ligne peut fournir des détails supplémentaires.
+>Un clic sur l’enregistrement de niveau enregistrement affiche les ID Marketo et Salesforce de l’objet associé. Dans certains cas, le message figurant au dossier et les erreurs au niveau de la tâche proviennent directement de Salesforce. Leur recherche en ligne peut fournir des détails supplémentaires.
 
 ## Erreurs de synchronisation des filtres {#filter-sync-errors}
 
