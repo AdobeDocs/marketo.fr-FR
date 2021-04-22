@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720758
-description: Notes de mise à jour - Janvier 2015 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Janvier 2015 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Janvier 2015
+exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
 # Notes de mise à jour : Janvier 2015 {#release-notes-january}
 
-Les fonctionnalités suivantes sont incluses dans la version de janvier 2015. Veuillez vérifier la disponibilité des fonctionnalités de votre édition Marketing. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité !
+Les fonctionnalités suivantes sont incluses dans la version de janvier 2015. Veuillez vérifier la disponibilité des fonctionnalités de Marketo Edition. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité !
 
 ## Mises à jour de l’automatisation marketing {#marketing-automation-updates}
 
@@ -27,17 +27,17 @@ Vous pouvez désormais [créer des vues mobiles pour les landings page](/help/ma
 
 Trois nouveaux appels pour l&#39;API ReST de piste et d&#39;Activité :
 
-* Supprimer la piste
+* Supprimer lead
 * Obtenir des pistes par identifiant de Programme
 * Obtenir les pistes supprimées
 
 Il existe également une nouvelle option pour l&#39;option &quot;Piste de synchronisation&quot;, qui permet d&#39;écrire la modification de piste de manière asynchrone pour un appel d&#39;API plus rapide. Les détails complets seront disponibles après la publication à l’adresse [developpeurs.marketo.com](https://developers.marketo.com).
 
-**Prise en charge des objets personnalisés de script de messagerie**
+**Prise en charge des objets personnalisés dans le script d’e-mail**
 
 Accédez maintenant aux objets personnalisés associés à l’objet Compte dans les scripts de courrier électronique !
 
-## Personnalisation en temps réel {#real-time-personalization}
+## Real-Time Personalization (Personnalisation en temps réel){#real-time-personalization}
 
 **Remarketing personnalisé pour Google et Facebook**
 
