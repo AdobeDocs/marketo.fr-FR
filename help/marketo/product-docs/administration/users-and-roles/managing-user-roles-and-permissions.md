@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359909
-description: Gestion des rôles et autorisations des utilisateurs - Documents marketing - Documentation du produit
+description: Gestion des rôles et autorisations des utilisateurs - Documents Marketo - Documentation du produit
 title: Gestion des rôles et autorisations des utilisateurs
+exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
-
 # Gestion des rôles et autorisations des utilisateurs {#managing-user-roles-and-permissions}
 
-Définissez, créez et modifiez les rôles d’utilisateur et affectez-les aux utilisateurs. Cela vous permet de contrôler les zones et les fonctionnalités auxquelles chaque utilisateur de Marketing a accès.
+Définissez, créez et modifiez les rôles d’utilisateur et affectez-les aux utilisateurs. Cela vous permet de contrôler les zones et les fonctionnalités auxquelles chaque utilisateur Marketo a accès.
 
 Par exemple, un utilisateur marketing a généralement besoin d’un large accès à l’ensemble de l’application pour créer, modifier et déployer des courriers électroniques, des landings page et des programmes. Un concepteur Web, en revanche, passe presque tout son temps dans Design Studio, en créant des fichiers à utiliser dans des courriels et des landings page. Et bien que les responsables de société utilisent largement les rapports de Marketo dans la zone Analytics, ils n’ont peut-être pas besoin de créer ni de piloter eux-mêmes les ressources ou les programmes.
 
