@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7515767
-description: Partager des segments entre les espaces de travail et les partitions - Documents marketing - Documentation sur les produits
+description: Partager des segments entre les espaces de travail et les partitions - Documents Marketo - Documentation sur les produits
 title: Partage de segments entre les espaces de travail et les partitions
+exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
 
 ---
-
 
 # Partager des segments entre les espaces de travail et les partitions {#share-segmentations-across-workspaces-and-partitions}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Qu&#39;est-ce qu&#39;une segmentation ? {#whats-a-segmentation}
 
-Marketo est un excellent outil pour choisir les bonnes personnes pour un programme ou une campagne intelligente. Cependant, pour des personnages plus permanents, vous devez utiliser des segmentations. Ils sont nécessaires pour utiliser un contenu dynamique avancé dans Marketo.
+Marketo est doué pour choisir les bonnes personnes pour un programme ou une campagne intelligente. Cependant, pour des personnages plus permanents, vous devez utiliser des segmentations. Ils sont nécessaires pour utiliser un contenu dynamique avancé à Marketo.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Une fois ces personnages configurés (_et_ vous utilisez des espaces de travail)
 
 ## Règles et conseils {#rules-tips}
 
-* Chaque abonnement de marketing peut contenir jusqu’à 20 segments &quot;total&quot; sur plusieurs espaces de travail (**pas 20 par espace de travail**).
+* Chaque abonnement Marketo peut contenir jusqu’à 20 segments &quot;total&quot; sur plusieurs espaces de travail (**pas 20 par espace de travail**).
 * Vous pouvez uniquement partager une segmentation avec les espaces de travail auxquels vous avez accès.
 * Veillez à créer et à utiliser un espace de travail **par défaut qui dispose d&#39;une visibilité sur toutes les partitions**.
 
@@ -82,6 +82,6 @@ Une fois ces personnages configurés (_et_ vous utilisez des espaces de travail)
 
    >[!NOTE]
    >
-   >La boîte de dialogue affiche les espaces de travail pour lesquels vous disposez de droits d’accès à la vue. C’est pourquoi Marketing recommande de créer et de partager des segments à partir de l’espace de travail par défaut, avec une visibilité sur tous les espaces de travail et partitions.
+   >La boîte de dialogue affiche les espaces de travail pour lesquels vous disposez d’une autorisation de vue. C’est pourquoi Marketo recommande de créer et de partager des segments à partir de l’espace de travail par défaut, qui ont une visibilité sur tous les espaces de travail et partitions.
 
 Le dossier d&#39;origine s&#39;affiche dans l&#39;arborescence de la base de données avec une flèche indiquant qu&#39;il est partagé avec d&#39;autres espaces de travail. Depuis l’espace de travail partagé, le dossier s’affiche avec un verrou pour indiquer que le contenu du dossier a été partagé à partir d’un autre espace de travail et qu’il est en lecture seule.
