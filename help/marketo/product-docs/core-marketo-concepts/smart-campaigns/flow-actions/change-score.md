@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146962
-description: Changer de score - Documentation marketing - Documentation du produit
-title: Changer de note
+description: Changer de note - Docs Marketo - Documentation du produit
+title: Modifier évaluation
+exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
-# Changer de note {#change-score}
+# Modifier évaluation {#change-score}
 
 ## Aperçu {#overview}
 
