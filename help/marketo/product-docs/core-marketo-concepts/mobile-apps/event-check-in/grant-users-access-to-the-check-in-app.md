@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516639
-description: Octroi aux utilisateurs de l'accès à l'application d'archivage - Documents marketing - Documentation du produit
+description: Octroi aux utilisateurs de l'accès à l'application d'archivage - Marketo Docs - Documentation du produit
 title: Octroi aux utilisateurs de l'accès à l'application d'archivage
+exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
 
 ---
 
-
 # Accorder aux utilisateurs l&#39;accès à l&#39;application d&#39;archivage {#grant-users-access-to-the-check-in-app}
 
-Marketo a un rôle d&#39;utilisateur spécial pour l&#39;application d&#39;archivage de événements. Voici comment créer un nouveau rôle avec l’autorisation d’utiliser l’application.
+Marketo a un rôle d&#39;utilisateur spécial pour l&#39;application d&#39;enregistrement des événements. Voici comment créer un nouveau rôle avec l’autorisation d’utiliser l’application.
 
 ## Créer un nouveau rôle d&#39;utilisateur pour Mobile {#create-a-new-user-role-for-mobile}
 
