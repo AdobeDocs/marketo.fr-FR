@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147120
-description: Importer des membres à partir d'une feuille de calcul dans un Programme - Documents marketing - Documentation du produit
+description: Importer des membres à partir d'une feuille de calcul dans un Programme - Documents Marketo - Documentation du produit
 title: Importer des membres à partir d'une feuille de calcul dans un Programme
+exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # Importer des membres à partir d&#39;une feuille de calcul dans un Programme {#import-members-from-a-spreadsheet-into-a-program}
 
@@ -39,13 +39,13 @@ Vous pouvez importer une liste de personnes qui deviennent automatiquement membr
 
    ![](assets/importlist1.png)
 
-1. Faites correspondre les valeurs de données de la liste à leurs champs de marketing correspondants, puis cliquez sur **Suivant**.
+1. Faites correspondre les valeurs de données de la liste à leurs champs Marketo correspondants et cliquez sur **Suivant**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >Si vous ne souhaitez pas importer de champs, sélectionnez **IGNORER** dans le menu déroulant Champ marketing.
+   >Si vous ne souhaitez pas importer de champs, sélectionnez **IGNORER** dans le menu déroulant Champ Marketo.
 
 1. Sélectionnez **État membre** pour votre liste.
 
@@ -55,11 +55,11 @@ Vous pouvez importer une liste de personnes qui deviennent automatiquement membr
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
-1. Attendez que Marketo ait terminé l’importation, puis fermez la boîte de dialogue de confirmation.
+1. Patientez jusqu’à ce que Marketo termine son importation, puis fermez la boîte de dialogue de confirmation.
 
    ![](assets/image2014-9-18-15-3a44-3a37.png)
 
-   Super ! Vous devriez voir les nouveaux membres que vous avez importés.
+   Fantastique ! Vous devriez voir les nouveaux membres que vous avez importés.
 
    ![](assets/image2014-9-18-15-3a45-3a16.png)
 
