@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147064
-description: Appliquer des limites de communication à Smart Campaign - Marketo Docs - Documentation sur les produits
+description: Appliquer des limites de communication à Smart Campaign - Marketo Docs - Documentation du produit
 title: Appliquer des limites de communication à la Campaign intelligente
+exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # Appliquer les limites de communication à la Campaign intelligente {#apply-communication-limits-to-smart-campaign}
 
@@ -22,7 +22,7 @@ Ce n&#39;est pas une bonne idée d&#39;envoyer des mails à quelqu&#39;un plusie
 
 >[!NOTE]
 >
->Lorsqu&#39;une personne dépasse les limites de communication définies, Marketo bloque les courriels non opérationnels (les courriels opérationnels sont toujours envoyés).
+>Lorsqu&#39;une personne dépasse les limites de communication définies, Marketo bloque les e-mails non opérationnels (les e-mails opérationnels sont toujours envoyés).
 
 1. Dans votre campagne dynamique, cliquez sur l’onglet **Planification**, puis **Modifier les paramètres**.
 
