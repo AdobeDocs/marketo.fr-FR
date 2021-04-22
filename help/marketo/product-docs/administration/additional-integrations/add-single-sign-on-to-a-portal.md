@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360356
-description: Ajouter la connexion unique à un portail - Documents marketing - Documentation du produit
+description: Ajouter la connexion unique à un portail - Marketo Docs - Documentation du produit
 title: Ajouter la connexion unique à un portail
+exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '530'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Ajouter la connexion unique à un portail {#add-single-sign-on-to-a-portal}
 
-Si vous disposez d’un service d’annuaire qui authentifie les utilisateurs, vous pouvez autoriser l’authentification unique (SSO) dans Marketing Cloud. Nous prenons en charge cette fonctionnalité en utilisant le langage SAML (Security Assertion Markup Language) version 2.0 et ultérieure.
+Si vous disposez d’un service d’annuaire qui authentifie les utilisateurs, vous pouvez autoriser l’authentification unique (SSO) dans Marketo. Nous prenons en charge cette fonctionnalité en utilisant le langage SAML (Security Assertion Markup Language) version 2.0 et ultérieure.
 
-Marketo fonctionne en tant que Prestataire SAML (SP) et dépend d&#39;un fournisseur d&#39;identité externe (IdP) pour authentifier les utilisateurs.
+Marketo fonctionne en tant que Prestataire SAML (SP) et dépend d’un fournisseur d’identité externe (IdP) pour authentifier les utilisateurs.
 
-Une fois l’authentification unique activée, l’IdP peut valider les informations d’identification d’un utilisateur. Lorsqu’un utilisateur souhaite utiliser le logiciel Marketo, l’IdP envoie alors un message SAML signé à Marketo, agissant en tant que SP. Ce message garantit à Marketo que l’utilisateur est autorisé à utiliser le logiciel Marketo.
+Une fois l’authentification unique activée, l’IdP peut valider les informations d’identification d’un utilisateur. Lorsqu’un utilisateur souhaite utiliser le logiciel Marketo, l’IdP envoie alors un message SAML signé à Marketo, agissant en tant que SP. Ce message garantit à Marketo que l&#39;utilisateur est autorisé à utiliser le logiciel Marketo.
 
 >[!NOTE]
 >
@@ -32,20 +32,20 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 * Envoyer la demande d’authentification unique, qui est une réponse SAML, à `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
 * En tant qu’URL d’Audience du SP. Utiliser `https://saml.marketo.com/sp`
 * Si vous utilisez l&#39;attribut SPNameQualifier, définissez l&#39;élément NameID pour Objet sur `https://saml.marketo.com/sp`
-* Si vous fédérez plusieurs abonnements de marketing au même fournisseur d’authentification unique, vous pouvez utiliser des url SP uniques pour chaque sous- de marketing au format `https://saml.marketo.com/sp/<munchkin_id>`
+* Si vous fédérez plusieurs abonnements Marketo au même fournisseur d’authentification unique, vous pouvez utiliser des url SP uniques pour chaque sous-fournisseur Marketo au format `https://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
->Marketo ne prend en charge que les identifiants initiés par le fournisseur d’identité (également appelés IdP-started), dans lesquels l’utilisateur lance d’abord la page de connexion Idp, s’authentifie, puis accède à Mon marketing.
+>Marketo ne prend en charge que le fournisseur d’identité (également appelé IdP-started), dans lequel l’utilisateur lance d’abord la page de connexion Idp, s’authentifie, puis accède à Mon Marketo.
 
 ## Notes supplémentaires {#additional-notes}
 
 * **Temps**  de synchronisation : pour un nouvel utilisateur, un délai d’environ 10 minutes est nécessaire avant le traitement d’une demande d’authentification unique initiale.
 * **Approvisionnement**  des utilisateurs : les utilisateurs sont configurés manuellement par Marketo.
-* **Autorisation**  - Les autorisations d’utilisateur sont conservées dans Marketing Cloud.
-* **Prise en charge**  OAuth - Marketo ne prend actuellement pas en charge OAuth.
-* **Propagation**  automatique de l’utilisateur - Également appelé &quot;Provisioning juste à temps&quot;, c’est-à-dire lorsque la première connexion SAML d’un utilisateur est capable de créer l’utilisateur dans l’application Web à laquelle il accède (par exemple, Marketo) et qu’aucune action d’administration manuelle n’est requise. Ceci n’est pas pris en charge par Marketo pour le moment.
-* **Chiffrement**  - Marketo ne prend actuellement pas en charge le chiffrement.
+* **Autorisation**  - Les autorisations d’utilisateur sont conservées dans Marketo.
+* **Prise en charge**  OAuth : Marketo ne prend pas actuellement en charge OAuth.
+* **Propagation**  automatique de l’utilisateur - Également appelé &quot;Approvisionnement juste à temps&quot;, c’est-à-dire lorsque la première connexion SAML d’un utilisateur est capable de créer l’utilisateur dans l’application Web à laquelle il accède (Marketo, par exemple) et qu’aucune action d’administration manuelle n’est requise. Pour le moment, Marketo ne le soutient pas.
+* **Chiffrement**  : Marketo ne prend pas actuellement en charge le chiffrement.
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ La fonction SSO est désactivée par défaut. Suivez ces étapes pour activer SA
 
    >[!NOTE]
    >
-   >Si **Connexion unique** n&#39;apparaît pas sous **Admin**, contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Si **Connexion unique** n&#39;apparaît pas sous **Admin**, contactez le [Support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Sous la section **Paramètres SAML**, cliquez sur **Modifier**.
 
@@ -93,11 +93,11 @@ La fonction SSO est désactivée par défaut. Suivez ces étapes pour activer SA
    >
    >Les clients qui utilisent un ID universel avec une authentification unique doivent saisir l’URL de connexion du fournisseur d’identité dans le champ **URL de connexion**.
 
-1. Saisissez une **URL de déconnexion**. Il s’agit de l’URL à laquelle l’utilisateur doit être redirigé lorsqu’il se déconnecte de Marketing Cloud.
+1. Saisissez une **URL de déconnexion**. Il s’agit de l’URL à laquelle l’utilisateur doit être redirigé lorsqu’il se déconnecte de Marketo.
 
    ![](assets/eight.png)
 
-1. Saisissez une **URL d’erreur**. Il s’agit de l’URL à laquelle l’utilisateur doit être redirigé en cas d’échec de la connexion à Marketing Cloud. Cliquez sur **Enregistrer**.
+1. Saisissez une **URL d’erreur**. Il s’agit de l’URL à laquelle l’utilisateur doit être redirigé en cas d’échec de connexion à Marketo. Cliquez sur **Enregistrer**.
 
    ![](assets/nine.png)
 
@@ -108,6 +108,6 @@ La fonction SSO est désactivée par défaut. Suivez ces étapes pour activer SA
 >[!MORELIKETHIS]
 >
 >* [Utilisation d’un ID universel pour la connexion à un Abonnement](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [Restreindre la connexion utilisateur à SSO uniquement](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Invitation d’utilisateurs de Marketing Cloud à deux instances avec un ID universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Limiter la connexion de l&#39;utilisateur aux connexions par signature unique](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Invitation d’utilisateurs Marketo à deux instances avec un identifiant universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
