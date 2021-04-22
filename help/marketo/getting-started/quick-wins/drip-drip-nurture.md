@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359420
-description: Déchets, gouttes d'eau, nourriture - Docs Marketo - Documentation sur le produit
-title: Déchets, gouttes, culture
+description: Déchets, gouttes d'eau, nourriture - Marketo Docs - Documentation du produit
+title: Marketing goutte à goutte et fidélisation
+exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
-# Déchets, gouttes, culture {#drip-drip-nurture}
+# Marketing goutte à goutte et fidélisation {#drip-drip-nurture}
 
 ## Mission : Inciter les personnes qui ont assisté à votre récente conférence {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
-Vous pouvez facilement créer un système de culture avancé et sophistiqué dans Marketo. Voilà comment !
+Vous pouvez facilement créer un système de culture avancé et sophistiqué à Marketo. Voilà comment !
 
 >[!PREREQUISITES]
 >
@@ -43,7 +43,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    Vous avez maintenant créé un programme d’engagement.
 
-## Étape 2 : Créer un courriel {#step-create-an-email}
+## Étape 2 : Créer un e-mail {#step-create-an-email}
 
 1. Sélectionnez votre programme d’engagement, puis cliquez sur **New** et sélectionnez **New Local Asset**.
 
@@ -115,7 +115,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
    >
    >Vous ne pouvez pas activer le contenu sans l’approuver au préalable.
 
-   Super travail ! Encore une étape et le programme d&#39;engagement est prêt.
+   Bon travail ! Encore une étape et le programme d&#39;engagement est prêt.
 
 ## Étape 5 : Définir la cadence de diffusion {#step-set-the-stream-cadence}
 
@@ -155,7 +155,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    ![](assets/twenty-two.png)
 
-1. Mission terminée !
+1. Mission accomplie!
 
 1. Vous devriez recevoir un courriel à l’heure et à la cadence que vous avez indiquées.
 
@@ -165,6 +165,6 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
 <br> 
 
-[Mission 5 : Importer une Liste de pistes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ Mission 5 : Importer une liste de leads](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
-[Mission 7 : Personnaliser un courriel ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[Mission 7 : Personnaliser un e-mail ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
