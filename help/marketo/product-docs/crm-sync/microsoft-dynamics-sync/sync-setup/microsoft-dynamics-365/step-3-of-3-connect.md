@@ -1,24 +1,24 @@
 ---
 unique-page-id: 3571830
-description: Étape 3 sur 3 - Connecter Microsoft Dynamics à Marketo (en ligne) - Docs marketing - Documentation sur le produit
-title: Étape 3 sur 3 - Connecter Microsoft Dynamics avec Marketo (en ligne)
+description: Étape 3 sur 3 - Connecter Microsoft Dynamics à Marketo (en ligne) - Marketo Docs - Documentation sur le produit
+title: Étape 3 sur 3 - Connecter Microsoft Dynamics à Marketo (en ligne)
+exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Étape 3 sur 3 : Connecter Microsoft Dynamics avec Marketo (en ligne) {#step-of-connect-microsoft-dynamics-with-marketo-online}
+# Étape 3 sur 3 : Connecter Microsoft Dynamics à Marketo (en ligne) {#step-of-connect-microsoft-dynamics-with-marketo-online}
 
 Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque !
 
 >[!PREREQUISITES]
 >
 >* [Étape 1 sur 3 : Installation de la solution Marketo (en ligne)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
->* [Étape 2 sur 3 : Configurer un utilisateur de synchronisation de marketing dans Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+>* [Étape 2 sur 3 : Configurer l&#39;utilisateur Marketo Sync dans Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -27,7 +27,7 @@ Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque 
 
 ## Entrer les informations utilisateur de Dynamics Sync {#enter-dynamics-sync-user-information}
 
-1. Connectez-vous à Marketing et cliquez sur **Admin**.
+1. Connectez-vous à Marketo et cliquez sur **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -53,7 +53,7 @@ Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque 
 
    >[!NOTE]
    >
-   >* Si votre Marketo a été configuré avant octobre 2020, l’ID de client et le champ Secret sont des champs facultatifs. Sinon, elles sont obligatoires. L’obtention de ces informations dépendra de la version de MSD que vous utilisez.
+   >* Si votre Marketo a été mis en service avant octobre 2020, l’ID de client et le champ Secret sont des champs facultatifs. Sinon, elles sont obligatoires. L’obtention de ces informations dépendra de la version de MSD que vous utilisez.
    >* Le nom d’utilisateur dans Marketo doit correspondre au nom d’utilisateur de l’utilisateur synchronisé dans CRM. Le format peut être `user@domain.com` ou DOMAINE\utilisateur.
    >* Si vous ne connaissez pas l&#39;URL, [apprenez comment la trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
@@ -70,7 +70,7 @@ Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque 
 
 >[!NOTE]
 >
->Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Actualisez ensuite le schéma dans Marketo en modifiant et en enregistrant les [champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+>Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Actualisez ensuite le schéma dans Marketo en modifiant et en enregistrant [Sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Champs de synchronisation pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
