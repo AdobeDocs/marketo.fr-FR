@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359410
-description: Envoyer un courrier électronique - Documents marketing - Documentation du produit
+description: Envoyer un courrier électronique - Documents Marketo - Documentation du produit
 title: Envoyer un courriel
+exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Envoyer un courriel {#send-an-email}
 
-C&#39;est la première chose que tout le monde veut faire. Envoyez un e-mail depuis Marketo !
+C&#39;est la première chose que tout le monde veut faire. Envoyez un courriel à Marketo !
 
 >[!PREREQUISITES]
 >
@@ -135,6 +135,6 @@ Vous devriez recevoir le courriel peu après le jour/heure planifié.
 
 <br> 
 
-[ et Ajouter une piste](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[◄ Configuration et ajout d&#39;un lead](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[landing page avec un formulaire ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[Page de destination avec un formulaire ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
