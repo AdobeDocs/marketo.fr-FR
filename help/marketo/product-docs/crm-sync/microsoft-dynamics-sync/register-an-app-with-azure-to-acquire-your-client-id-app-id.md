@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12983390
-description: Enregistrer une application avec Azure pour acquérir votre ID client/ID d'application - Documents marketing - Documentation du produit
+description: Enregistrement d'une application avec Azure pour acquérir votre ID client/ID d'application - Marketo Docs - Documentation du produit
 title: Enregistrer une application avec Azure pour acquérir votre ID client/ID d'application
+exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
-
 
 # Enregistrer une application avec Azure pour acquérir votre ID client/ID d&#39;application {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
@@ -87,4 +87,3 @@ Azure Principale Directory étend vos répertoires locaux dans le cloud, fournis
    Et vous avez fini !
 
    ![](assets/fifteen.png)
-
