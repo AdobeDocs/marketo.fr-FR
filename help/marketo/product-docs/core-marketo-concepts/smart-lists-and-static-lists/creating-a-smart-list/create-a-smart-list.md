@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557154
-description: Création d’une Liste intelligente - Documentation sur le marketing - Documentation sur le produit
+description: Création d’une Liste dynamique - Documents Marketo - Documentation du produit
 title: Création d’une Liste dynamique
+exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-
 # Créer une Liste dynamique {#create-a-smart-list}
 
-Les listes intelligentes vous permettent de trouver des groupes spécifiques de personnes utilisant des filtres simples. Voici comment en créer un.
+Les listes intelligentes vous permettent de trouver des groupes de personnes spécifiques en utilisant de simples filtres. Voici comment en créer un.
 
 1. Accédez à **Activités marketing**.
 
