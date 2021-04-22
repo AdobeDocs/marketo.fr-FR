@@ -1,14 +1,14 @@
 ---
-description: Modification des champs à synchroniser avant leur suppression dans Dynamics - Marketo Docs - Documentation sur les produits
+description: Modification des champs à synchroniser avant leur suppression dans Dynamics - Marketo Docs - Documentation du produit
 title: Modification des champs à synchroniser avant leur suppression dans Dynamics
+exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
 
 ---
-
 
 # Modification des champs à synchroniser avant leur suppression dans Dynamics {#editing-fields-to-sync-before-deleting-them-in-dynamics}
 
@@ -42,6 +42,6 @@ Il peut arriver que vous souhaitiez supprimer des champs dans Dynamics. Marketo 
 
 >[!NOTE]
 >
->Si la synchronisation n&#39;est pas arrêtée avant de supprimer un champ dans Dynamics, la synchronisation peut rencontrer des erreurs. Si tel est le cas, la synchronisation s’arrête. Avant de reprendre, l&#39;administrateur du marketing doit consulter &quot;Sélectionner les champs à synchroniser&quot; (voir ci-dessus) et cliquer sur **Enregistrer** pour que la synchronisation accepte les modifications du schéma.
+>Si la synchronisation n&#39;est pas arrêtée avant de supprimer un champ dans Dynamics, la synchronisation peut rencontrer des erreurs. Si tel est le cas, la synchronisation s’arrête. Avant de reprendre, l’administrateur Marketo devra vérifier &quot;Sélectionner les champs à synchroniser&quot; (voir ci-dessus) et cliquer sur **Enregistrer** pour que la synchronisation accepte les modifications du schéma.
 
 Pensez à activer la synchronisation une fois les modifications enregistrées !
