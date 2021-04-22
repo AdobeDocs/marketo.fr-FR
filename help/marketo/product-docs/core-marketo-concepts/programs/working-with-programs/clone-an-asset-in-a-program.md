@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147152
-description: Clonage d’un fichier dans un Programme - Docs marketing - Documentation du produit
+description: Cloner un fichier dans un Programme - Documents Marketo - Documentation du produit
 title: Clonage d’une ressource dans un Programme
+exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
-
 
 # Clonage d’un actif dans un Programme {#clone-an-asset-in-a-program}
 
@@ -41,7 +41,7 @@ Le clonage d’un programme clones _tout_. Parfois, vous voulez juste cloner un 
    >
    >Vous pouvez également cloner une ressource sur un autre programme. Utilisez la liste déroulante **Programme** pour effectuer votre sélection.
 
-1. Super ! Vous devriez maintenant voir la nouvelle ressource clonée.
+1. Fantastique ! Vous devriez maintenant voir la nouvelle ressource clonée.
 
    ![](assets/report.jpg)
 
