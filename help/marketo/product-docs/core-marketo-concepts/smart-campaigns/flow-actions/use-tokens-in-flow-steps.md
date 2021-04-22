@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146995
-description: Utiliser des jetons dans les étapes de flux - Documents marketing - Documentation du produit
+description: Utiliser des jetons dans les étapes de flux - Documents Marketo - Documentation du produit
 title: Utiliser des jetons dans les étapes de flux
+exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
-
 
 # Utiliser des jetons dans les étapes de flux {#use-tokens-in-flow-steps}
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 Un jeton est une variable. Vous l’utilisez dans les courriels, les landings page et les campagnes intelligentes pour faciliter votre vie. Vous pouvez utiliser [Mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (jetons personnalisés) dans les étapes de flux, les crochets Web, les courriers électroniques et les landings page. Vous pouvez utiliser des jetons pour inclure du contenu variable dans ces étapes de flux :
 
-* Modifier la valeur des données
-* Modifier les données des membres du Programme
-* Moment intéressant
+* Modifier valeur des données
+* Modifier les données du membre du programme
+* Moment significatif
 * Etapes Campaign de Salesforce (ajouter, supprimer, modifier l’état)
-* Créer une Tâche
+* Créer tâche
 * Envoyer une alerte (dans les campagnes de déclenchement uniquement)
 
 1. À l’étape du flux, saisissez `{{` début pour obtenir des catégories de jeton. ![](assets/image2014-9-22-14-3a3-3a17.png)
