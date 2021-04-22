@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7503971
-description: Créer une présentation - Documents marketing - Documentation du produit
+description: Créer une présentation - Marketo Docs - Documentation du produit
 title: Créer une présentation
+exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
-
 
 # Créer une présentation {#create-a-presentation}
 
@@ -18,7 +18,7 @@ Créez une présentation pour projeter les vues et objectifs de votre équipe su
 >[!AVAILABILITY]
 >
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
 1. Accédez au **Calendrier**.
 
