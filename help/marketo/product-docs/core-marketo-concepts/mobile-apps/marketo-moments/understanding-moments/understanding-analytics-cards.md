@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8781988
-description: Présentation des cartes Analytics - Documents marketing - Documentation du produit
+description: Présentation des cartes Analytics - Documents Marketo - Documentation du produit
 title: Présentation des cartes Analytics
+exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Présentation des cartes Analytics {#understanding-analytics-cards}
 
-Au début de chaque mois, le module Moments du marketing fournit trois cartes de rapport différentes : Pistes acquises, nouvelles pistes et désabonnements. Chacun d&#39;eux vous montre les performances mensuelles et la tendance sur une période de six mois.
+Au début de chaque mois, Marketo Moments fournit trois cartes de rapport différentes : Pistes acquises, nouvelles pistes et désabonnements. Chacun d&#39;eux vous montre les performances mensuelles et la tendance sur une période de six mois.
 
 ## Analytics Cards {#analytics-cards}
 
@@ -21,7 +21,7 @@ Lorsque vous appuyez sur une carte Analytics, vous pouvez effectuer les opérati
 
 * [En faire un favori](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [Marquer comme terminé](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Partager](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Faites-le connaître autour de vous](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Appuyez sur une carte Analytics pour afficher :
 
@@ -45,13 +45,13 @@ La carte **Pistes acquises** présente un rapport de tendance mensuelle du nombr
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## Nouvelles pistes {#new-leads}
+## Nouveaux leads {#new-leads}
 
 La carte **Nouvelles pistes** présente un rapport de tendance mois par mois du nombre total de nouvelles pistes dans votre instance au cours des six derniers mois.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Désabonne {#unsubscribes}
+## Désabonnements {#unsubscribes}
 
 La carte **Unsubscribes** présente un rapport de tendance de mois en mois de votre taux de désabonnement au cours des six derniers mois.
 
@@ -61,7 +61,7 @@ Maintenant vous savez.
 
 >[!MORELIKETHIS]
 >
->* [Présentation des moments marketing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Comprendre les moments Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Présentation des cartes de Événement](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Présentation des cartes de Programme de messagerie](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
