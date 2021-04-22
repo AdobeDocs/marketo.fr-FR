@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557312
-description: Opérateurs de filtre de Liste dynamique Glossaire - Documents marketing - Documentation du produit
+description: Opérateurs de filtre de Liste dynamique Glossaire - Docs Marketo - Documentation du produit
 title: Glossaire des opérateurs de filtre de Liste dynamique
+exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '602'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
-
 
 # Opérateurs de filtre de Liste dynamique Glossaire {#smart-list-filter-operators-glossary}
 
@@ -25,28 +25,28 @@ Lorsque vous choisissez un opérateur, le côté droit change dynamiquement.
 
 | Opérateur | Côté droit | Description |
 |---|---|---|
-| is | Date unique | Correspondance de date exacte |
-| is not | Date unique | Toute date SAUF celle spécifiée |
-| between | Deux champs de date | Toute date comprise entre deux dates spécifiées |
+| est | Date unique | Correspondance de date exacte |
+| n&#39;est pas | Date unique | Toute date SAUF celle spécifiée |
+| entre | Deux champs de date | Toute date comprise entre deux dates spécifiées |
 | dans le passé | Entrée de langue naturelle* | Voir le diagramme ci-dessous |
-| dans le passé | Entrée de langue naturelle* | Voir le diagramme ci-dessous |
-| futur | Entrée de langue naturelle* | Voir le diagramme ci-dessous |
-| dans le futur après | Entrée de langue naturelle* | Voir le diagramme ci-dessous |
-| dans le délai | Paramètres prédéfinis (dernier trimestre, hier, etc.) | Défini dans la liste de sélection |
-| after | Date unique | Tous les enregistrements après la date spécifiée |
-| before | Date unique | Tous les enregistrements avant celui spécifié |
-| le ou après | Date unique | Identique à &quot;after&quot; mais inclusive |
-| le ou avant | Date unique | Identique à &quot;before&quot; mais inclusive |
-| est vide | Aucun | Tous les enregistrements sans date |
-| n’est pas vide | Aucun | Tous les enregistrements avec une date quelconque |
+| dans le passé avant | Entrée de langue naturelle* | Voir le diagramme ci-dessous |
+| à l’avenir | Entrée de langue naturelle* | Voir le diagramme ci-dessous |
+| à l’avenir après | Entrée de langue naturelle* | Voir le diagramme ci-dessous |
+| dans la période | Paramètres prédéfinis (dernier trimestre, hier, etc.) | Défini dans la liste de sélection |
+| après | Date unique | Tous les enregistrements après la date spécifiée |
+| avant | Date unique | Tous les enregistrements avant celui spécifié |
+| le ou après le | Date unique | Identique à &quot;after&quot; mais inclusive |
+| maintenant ou avant | Date unique | Identique à &quot;before&quot; mais inclusive |
+| est vide | Aucune | Tous les enregistrements sans date |
+| n&#39;est pas vide | Aucune | Tous les enregistrements avec une date quelconque |
 
 * L&#39;entrée du langage naturel est cool. Vous pouvez entrer quelques-uns des modèles suivants :
 
-* 1 heure
+* 1 heure
 * 82 jours
 * 3 semaines
-* 14 mois
-* 1 an
+* 14 mois
+* 1 an
 
 Il suffit de taper le numéro et l&#39;unité ensemble et ça marchera !
 
@@ -82,14 +82,14 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
 
 | Opérateur | Description |
 |---|---|
-| is | Correspondance exacte (non sensible à la casse) |
-| is not | Tout sauf une correspondance exacte |
-| débuts avec | Première correspondance de chaîne |
-| non débuts avec | Les premières lettres de la chaîne NE correspondent PAS |
+| est | Correspondance exacte (non sensible à la casse) |
+| n&#39;est pas | Tout sauf une correspondance exacte |
+| commence par | Première correspondance de chaîne |
+| ne commence pas par | Les premières lettres de la chaîne NE correspondent PAS |
 | contient | Toutes les lettres regroupées dans la chaîne correspondent (exemple : californie, fortune, par là) |
-| not contient | Aucune lettre ne correspond dans la chaîne. (inversée de &quot;contient&quot;) |
+| ne contient pas | Aucune lettre ne correspond dans la chaîne. (inversée de &quot;contient&quot;) |
 | est vide | Enregistrements sans valeur (NULL) |
-| n’est pas vide | Enregistrements avec une valeur TOUT |
+| n&#39;est pas vide | Enregistrements avec une valeur TOUT |
 
 >[!TIP]
 >
@@ -108,19 +108,19 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">is</td> 
+   <td colspan="1" rowspan="1">est</td> 
    <td colspan="1" rowspan="1">Correspondance exacte du nombre ( = 0 renvoie les deux pistes avec 0 <em>et </em> NULL)</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">is not</td> 
+   <td colspan="1" rowspan="1">n'est pas</td> 
    <td colspan="1" rowspan="1">Tout SAUF la correspondance exacte du nombre</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">between</td> 
+   <td colspan="1" rowspan="1">entre</td> 
    <td colspan="1" rowspan="1">Définissez deux valeurs pour rechercher tous les intermédiaires (inclus)</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">supérieur à</td> 
+   <td colspan="1" rowspan="1">est supérieur à</td> 
    <td colspan="1" rowspan="1">Au-dessus de la valeur spécifiée</td> 
   </tr> 
   <tr> 
@@ -128,11 +128,11 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
    <td colspan="1" rowspan="1">Inférieur à la valeur spécifiée</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">au moins</td> 
+   <td colspan="1" rowspan="1">au plus</td> 
    <td colspan="1" rowspan="1">Au-dessus de la valeur spécifiée (incluse)</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">au plus</td> 
+   <td colspan="1" rowspan="1">au moins</td> 
    <td colspan="1" rowspan="1">Inférieur à la valeur spécifiée (incluse)</td> 
   </tr> 
   <tr> 
@@ -140,10 +140,10 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
    <td colspan="1" rowspan="1">Enregistrements sans valeur (NULL) - zéro est un nombre, <em>pas</em> NULL</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">n’est pas vide</td> 
+   <td colspan="1" rowspan="1">n'est pas vide</td> 
    <td colspan="1" rowspan="1">Enregistrements avec TOUTE valeur (y compris zéro)</td> 
   </tr> 
  </tbody> 
 </table>
 
-Comme vous pouvez le voir, ces opérateurs permettent de parler facilement à Marketo-ese avec aisance !
+Comme vous pouvez le voir, ces opérateurs permettent de parler facilement le Marketo-ese avec aisance !
