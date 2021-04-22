@@ -1,30 +1,30 @@
 ---
 unique-page-id: 10093188
-description: Présentation des objets personnalisés de Marketo - Documents marketing - Documentation du produit
-title: Compréhension des objets personnalisés de marketing
+description: Présentation des objets personnalisés Marketo - Documents Marketo - Documentation du produit
+title: Présentation des objets personnalisés Marketo
+exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '679'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Présentation des objets personnalisés de marketing {#understanding-marketo-custom-objects}
+# Présentation des objets personnalisés Marketo {#understanding-marketo-custom-objects}
 
 Utilisez des objets personnalisés pour effectuer le suivi de mesures spécifiques à votre entreprise.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
-Utilisez des objets personnalisés comme filtres et déclencheurs dans vos campagnes dynamiques. Par exemple :
+Utilisez des objets personnalisés comme filtres et déclencheurs dans vos campagnes dynamiques. Par exemple :
 
 * **Filtre** : Envoyer des e-mails uniquement aux propriétaires d&#39;une marque spécifique de véhicule
 * **Déclencheur** : Envoyez un courrier électronique lorsqu’un objet personnalisé est ajouté à une personne ou une société.
 
-Vous pouvez configurer des objets personnalisés dans une relation de type &quot;un à plusieurs&quot; ou &quot;plusieurs à plusieurs&quot;. Par exemple :
+Vous pouvez configurer des objets personnalisés dans une relation de type &quot;un à plusieurs&quot; ou &quot;plusieurs à plusieurs&quot;. Par exemple :
 
 * **Un à plusieurs** : Une personne possède plusieurs voitures
 * **Plusieurs à plusieurs** : Plusieurs étudiants sont inscrits à plusieurs cours à partir d&#39;un catalogue de cours
@@ -41,13 +41,13 @@ Plusieurs à plusieurs objets personnalisés utilisent deux champs de lien, fais
 >
 >Vous ne pouvez pas restaurer des objets personnalisés. Veillez donc à ne plus en avoir besoin avant de les supprimer.
 
-## Accès aux objets personnalisés de marketing {#accessing-marketo-custom-objects}
+## Accès aux objets personnalisés de Marketo {#accessing-marketo-custom-objects}
 
-1. Pour créer ou modifier des objets personnalisés de Marketo, cliquez sur **Admin**, puis sur le lien **Objets personnalisés de Marketo**.
+1. Pour créer ou modifier des objets personnalisés Marketo, cliquez sur **Admin**, puis sur le lien **Envoyer des objets personnalisés**.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
-1. Les objets personnalisés du marketing affichent tous vos objets personnalisés sur la droite, mais uniquement les objets approuvés dans la grille principale.
+1. Les objets personnalisés Marketo affichent tous vos objets personnalisés sur la droite, mais uniquement les objets approuvés dans la grille principale.
 
    ![](assets/image2016-6-10-15-3a14-3a18.png)
 
@@ -55,7 +55,7 @@ Plusieurs à plusieurs objets personnalisés utilisent deux champs de lien, fais
 
    >[!TIP]
    >
-   >Marketo met automatiquement à jour ces champs, mais vous pouvez actualiser l’affichage en cliquant sur l’icône de la colonne Enregistrements.
+   >Marketo met à jour ces champs automatiquement, mais vous pouvez actualiser l’affichage en cliquant sur l’icône de la colonne Enregistrements.
 
 1. Cliquez sur le nom de l’objet sur la droite pour ouvrir la page de détails.
 
@@ -85,18 +85,18 @@ Après avoir créé la structure d’objets personnalisés, lorsque vous téléc
 
 Un objet personnalisé lié à la société fonctionne mieux si vous synchronisez les sociétés à partir de la gestion de la relation client ou si vous créez explicitement des sociétés à l’aide de l’API. Nous vous recommandons également d’utiliser l’ID de Société comme champ de lien.
 
-Si plusieurs personnes dans Marketo sont des enregistrements dans les enregistrements CRM ou Marketo uniquement, un objet personnalisé lié à une société ne sera pas associé à plusieurs enregistrements individuels. Cela est dû au fait qu’une société comportant plusieurs personnes est prise en charge uniquement lorsque des sociétés sont synchronisées à partir de la gestion de la relation client ou si vous utilisez une API pour créer explicitement des sociétés.
+Si vous avez plusieurs personnes à Marketo qui sont des enregistrements dans la gestion de la relation client ou des enregistrements Marketo-only, un objet personnalisé lié à une société ne sera pas associé à plusieurs enregistrements individuels. Cela est dû au fait qu’une société comportant plusieurs personnes est prise en charge uniquement lorsque des sociétés sont synchronisées à partir de la gestion de la relation client ou si vous utilisez une API pour créer explicitement des sociétés.
 
-Les objets personnalisés ne peuvent être directement liés qu’à un seul enregistrement. Cela signifie que lorsque votre type d’objet personnalisé est lié par champ de société, vous devez vous assurer que les enregistrements de votre personne sont associés à une société en utilisant la conversion des contacts dans votre gestion de la relation client ou en utilisant le champ externeCompanyId, si vous gérez des sociétés à l’aide des API REST de Marketo. Pour les enregistrements de personne qui ne sont pas explicitement liés à des enregistrements de société, les objets personnalisés liés à l’aide de la société sont liés de manière aléatoire à un enregistrement unique, même si la valeur du champ de société est partagée par de nombreuses personnes.
+Les objets personnalisés ne peuvent être directement liés qu’à un seul enregistrement. Cela signifie que lorsque votre type d’objet personnalisé est lié par champ de société, vous devez vous assurer que les enregistrements de votre personne sont associés à une société, soit à l’aide de la conversion des contacts dans votre gestion de la relation client, soit à l’aide du champ externalCompanyId, si vous gérez des sociétés à l’aide des API REST de Marketo. Pour les enregistrements de personne qui ne sont pas explicitement liés à des enregistrements de société, les objets personnalisés liés à l’aide de la société sont liés de manière aléatoire à un enregistrement unique, même si la valeur du champ de société est partagée par de nombreuses personnes.
 
 Voir [Importer des données d’objet personnalisé](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) pour plus d’informations.
 
 >[!MORELIKETHIS]
 >
->* [Créer des objets personnalisés marketing](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [Créer des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
 >* [Approuver un objet personnalisé](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
->* [Modifier et supprimer un objet personnalisé marketing](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Ajouter les champs d&#39;objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [Modifier et supprimer des champs d&#39;objet personnalisé du marketing](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
->* [Importer des données d’objet personnalisées](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
+>* [Modification et suppression d’un objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Ajouter les champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Modifier et supprimer des champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Importer les données de l’objet personnalisé](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
