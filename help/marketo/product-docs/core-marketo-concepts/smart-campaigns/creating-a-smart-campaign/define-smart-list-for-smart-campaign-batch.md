@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146940
-description: Définir une Liste intelligente pour une Campaign intelligente | Lot - Docs marketing - Documentation du produit
+description: Définir une Liste intelligente pour une Campaign intelligente | Lot - Marketo Docs - Documentation du produit
 title: Définir une Liste intelligente pour une Campaign intelligente | Lot
+exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
-
 # Définir une Liste intelligente pour une Campaign intelligente | Lot {#define-smart-list-for-smart-campaign-batch}
 
-Les listes intelligentes sont le mécanisme utilisé dans tout Marketo pour définir &quot;qui&quot; (quelles personnes) inclure, qu’il s’agisse d’un rapport, d’une liste ou d’une campagne intelligente. Voici comment définir une liste intelligente pour une campagne par lot.
+Les listes intelligentes sont le mécanisme utilisé dans toute Marketo pour définir &quot;qui&quot; (quelles personnes) inclure, que ce soit un rapport, une liste ou une campagne intelligente. Voici comment définir une liste intelligente pour une campagne par lot.
 
 1. Choisissez une campagne intelligente, puis cliquez sur **Liste intelligente**.
 
