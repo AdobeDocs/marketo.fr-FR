@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437903
-description: Créer un filtre Dynamics Sync personnalisé - Documents marketing - Documentation du produit
+description: Créer un filtre Dynamics Sync personnalisé - Docs Marketo - Documentation du produit
 title: Créer un filtre Dynamics Sync personnalisé
+exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
 
 ---
 
-
 # Créer un filtre Dynamics Sync personnalisé {#create-a-custom-dynamics-sync-filter}
 
-Vous ne souhaitez pas synchroniser tout ce qui se trouve dans votre Dynamics CRM dans Marketo ? Ne vous inquiétez pas ! Marketo vous permet de configurer un filtre de synchronisation et de synchroniser uniquement une partie de vos enregistrements.
+Vous ne voulez pas synchroniser tout ce qui se trouve dans votre Dynamics CRM dans Marketo ? Ne vous inquiétez pas ! Marketo vous permet de configurer un filtre de synchronisation et de synchroniser uniquement une partie de vos enregistrements.
 
 ## Aperçu {#overview}
 
@@ -24,11 +24,11 @@ Pour configurer un filtre de synchronisation Dynamics :
 
 >[!NOTE]
 >
->Vous devez effectuer ces modifications dans Dynamics CRM, pas dans votre base de données ou votre marché.
+>Vous devez effectuer ces modifications dans Dynamics CRM, pas dans votre base de données ou votre Marketo.
 
 Marketo recherche ce champ lors de la synchronisation automatique en arrière-plan et détermine les enregistrements à synchroniser en fonction de cette logique :
 
-| Valeur du champ | Synchroniser avec le marketing ? |
+| Valeur du champ | Synchroniser avec Marketo ? |
 |---|---|
 | Le champ n&#39;existe pas | Oui |
 | Le champ est vide | Oui |
@@ -37,11 +37,11 @@ Marketo recherche ce champ lors de la synchronisation automatique en arrière-pl
 
 >[!CAUTION]
 >
->Le seul moyen de demander à Marketo de sauter un enregistrement consiste à définir explicitement la valeur du champ sur **Non**. Marketo synchronise toujours les enregistrements même si les valeurs de champ sont vides.
+>La seule façon de demander à Marketo de sauter un enregistrement consiste à définir explicitement la valeur du champ sur **Non**. Marketo synchronise toujours les enregistrements même si les valeurs de champ sont vides.
 
 >[!PREREQUISITES]
 >
->Installez la dernière version du module externe Marketo (3.0.0.1 ou version ultérieure). Accédez à Marketo > Admin > Microsoft Dynamics > Télécharger la solution marketing.
+>Installez la dernière version du module externe Marketo (3.0.0.1 ou version ultérieure). Accédez à Marketo > Admin > Microsoft Dynamics > Download Marketo Solution.
 
 ## Créer un champ SyncToMkto {#create-synctomkto-field}
 
@@ -91,7 +91,7 @@ Même si vous avez déjà effectué votre synchronisation initiale, entrez et s�
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
-Parfait, vous avez maintenant activé le filtre de synchronisation pour Marketo.
+Super, Vous avez maintenant activé le filtre de synchronisation pour Marketo.
 
 ## Créer un processus Dynamics pour affecter automatiquement des valeurs de filtre de synchronisation {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
 
@@ -137,11 +137,11 @@ Voici quelques détails d’implémentation que nous avons pensé devoir connaî
 
 1. Début d’une opération de synchronisation
 
-   Lorsque la valeur **SyncToMkto** passe de **Non** à **Oui**, Dynamics avertit immédiatement Marketo du début de la synchronisation de cet enregistrement. Si l’enregistrement existe déjà, Marketo le met à jour. Sinon, Marketo crée l’enregistrement.
+   Lorsque la valeur **SyncToMkto** passe de **Non** à **Oui**, Dynamics avertit immédiatement Marketo de l&#39;début de la synchronisation de cet enregistrement. Si l&#39;enregistrement existe déjà, Marketo le met à jour. Sinon, Marketo crée l&#39;enregistrement.
 
    >[!TIP]
    >
-   >Une opération `Create [StartSync]` est ajoutée au journal marketing lorsque cela se produit.
+   >Une opération `Create [StartSync]` est ajoutée au journal Marketo lorsque cela se produit.
 
 1. Arrêt d’une opération de synchronisation
 
