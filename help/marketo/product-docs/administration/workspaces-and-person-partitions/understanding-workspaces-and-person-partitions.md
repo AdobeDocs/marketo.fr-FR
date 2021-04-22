@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360309
-description: Présentation des espaces de travail et des partitions de personne - Documents marketing - Documentation du produit
+description: Présentation des espaces de travail et des partitions de personne - Documents Marketo - Documentation du produit
 title: Présentation des espaces de travail et des partitions de personne
+exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Présentation des espaces de travail et des partitions de personne {#understanding-workspaces-and-person-partitions}
 
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Les espaces de travail peuvent être complexes à configurer. Contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils vous conviennent.
+>Les espaces de travail peuvent être complexes à configurer. Contactez le [service d&#39;assistance de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils sont adaptés à vos besoins.
 
-Les espaces de travail sont des zones distinctes du marché qui contiennent des actifs marketing tels que des programmes, des landings page, des courriers électroniques, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque utilisateur a accès à un ou plusieurs espaces de travail.
+Les espaces de travail sont des zones distinctes dans Marketo qui contiennent des ressources marketing telles que des programmes, des landings page, des courriers électroniques, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque utilisateur a accès à un ou plusieurs espaces de travail.
 
 >[!NOTE]
 >
@@ -72,22 +72,22 @@ Voici comment partager des ressources entre différents espaces de travail. Il f
 
 Vous pouvez partager ces éléments dans les espaces de travail.
 
-* Modèles de courrier électronique
-* Modèles de landing page
+* Modèles d’e-mail
+* Modèles de page de destination
 * Modèles
 * Campagnes dynamiques
 * [Listes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [Segments](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-* Extraits de code
+* [Segmentations](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+* Extraits
 
 ## Clonage entre les espaces de travail {#cloning-across-workspaces}
 
 Pour les ressources qui ne sont pas des modèles, il est préférable de les cloner en tant que ressources locales au sein d’un programme.  Avec le niveau d’accès approprié, vous pouvez faire glisser ces ressources vers un autre espace de travail :
 
 * Programmes
-* Courriers électroniques
-* landings page
-* Forms
+* E-mails
+* Pages de destination
+* Formulaires
 
 >[!NOTE]
 >
@@ -101,9 +101,9 @@ Pour déplacer des fichiers vers un nouvel espace de travail, placez-les dans un
 >
 >Vous ne pouvez pas déplacer un programme qui contient des membres d&#39;un espace de travail à un autre.
 
-## Partitions de personne {#person-partitions}
+## Répartitions de l&#39;individu {#person-partitions}
 
-Les partitions de personne agissent comme des bases de données distinctes. Chaque partition a ses propres personnes qui ne dédupliquent pas ou ne se mélangent pas avec d&#39;autres partitions. Si vous estimez que vous avez un cas d&#39;utilisation commerciale qui peut nécessiter l&#39;utilisation d&#39;enregistrements de duplicata avec la même adresse électronique, veuillez contacter le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+Les partitions de personne agissent comme des bases de données distinctes. Chaque partition a ses propres personnes qui ne dédupliquent pas ou ne se mélangent pas avec d&#39;autres partitions. Si vous estimez que vous avez un cas d&#39;utilisation commerciale qui peut nécessiter l&#39;utilisation d&#39;enregistrements de duplicata avec la même adresse électronique, veuillez contacter le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Vous pouvez affecter des partitions de personne à [espaces de travail](create-a-new-workspace.md) dans les configurations suivantes :
 
