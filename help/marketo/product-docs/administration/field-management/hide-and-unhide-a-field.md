@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360333
-description: Masquer et afficher un champ - Documents marketing - Documentation du produit
+description: Masquer et afficher un champ - Documents Marketo - Documentation du produit
 title: Masquer et afficher un champ
+exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Masquer et afficher un champ {#hide-and-unhide-a-field}
 
@@ -37,7 +37,7 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo, vous pouvez le
 
    ![](assets/image2014-9-18-13-3a10-3a36.png)
 
-   Bon travail ! Vous savez maintenant comment masquer un champ de l’interface utilisateur de Marketing Cloud.
+   Bon travail ! Vous savez maintenant comment masquer un champ dans l’interface utilisateur de Marketo.
 
    ![](assets/image2014-9-18-13-3a10-3a45.png)
 
@@ -51,8 +51,8 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo, vous pouvez le
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
-   Super travail ! Vous savez maintenant comment afficher les champs et les rendre à nouveau visibles dans l’interface utilisateur de Marketing Cloud.
+   Bon travail ! Vous savez maintenant comment afficher les champs et les rendre à nouveau visibles dans l’interface utilisateur de Marketo.
 
    >[!TIP]
    >
-   >Besoin d&#39;un masquage/masquage de masse ? Contacter les services professionnels de marketing : services@marketo.com.
+   >Besoin d&#39;un masquage/masquage de masse ? Contactez Marketo Professional Services : services@marketo.com.
