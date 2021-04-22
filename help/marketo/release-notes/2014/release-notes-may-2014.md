@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951044
-description: Notes de mise à jour - Mai 2014 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Mai 2014 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Mai 2014
+exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '460'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Notes de mise à jour : Mai 2014 {#release-notes-may}
 
-Les fonctionnalités suivantes sont incluses dans la version de mai 2014. Veuillez vérifier la disponibilité des fonctionnalités de votre édition Marketing. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers les articles détaillés de la Base de connaissances pour chaque fonctionnalité !
+Les fonctionnalités suivantes sont incluses dans la version de mai 2014. Veuillez vérifier la disponibilité des fonctionnalités de Marketo Edition. Après la publication, n&#39;oubliez pas de revenir pour trouver des liens vers les articles détaillés de la Base de connaissances pour chaque fonctionnalité !
 
-## Supprimer l&#39;espace de travail {#delete-workspace}
+## Supprimer l’espace de travail {#delete-workspace}
 
 Vous pouvez désormais [supprimer un espace de travail inutilisé](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Veillez à déplacer tous les actifs dans un autre espace de travail avant de tenter de supprimer l’espace de travail.
 
@@ -33,7 +33,7 @@ Maintenant tout le monde a de multiples programmes, flux et limites de communica
 
 ## Suivi des liens dans les courriers électroniques texte {#link-tracking-in-text-emails}
 
-[Ajoutez des ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) crochets de doublon autour des URL dans la version textuelle de vos courriels pour indiquer quand les liens doivent être convertis en liens de suivi marketing redirigés.
+[Ajouter des ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) crochets de doublon autour des URL dans la version textuelle de vos courriels pour indiquer quand les liens doivent être convertis en liens de suivi Marketo redirigés
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ Pour ajouter des liens non suivis à vos courriels :
 
 Voyez comment vos liens se comporteront dans les courriels à l&#39;avance. Les exemples de courriels affichent désormais les liens exactement comme ils apparaîtront à vos pistes. Prévisualisation des liens qui ont été convertis en liens de suivi, ce qui vous permet de mieux comprendre comment le message apparaîtra réellement aux destinataires.
 
-## Abandonner Campaign {#abort-campaign}
+## Abandonner la campagne {#abort-campaign}
 
 Ne paniquez pas ! Si vous constatez une erreur, utilisez le nouveau bouton [abandonner la campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) pour arrêter immédiatement les campagnes dans leurs suivis. Vous recevrez une notification indiquant le nombre de pistes en attente à chaque étape du flux lorsque la campagne a été arrêtée.
 
