@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571848
-description: Microsoft Dynamics Sync -Sync - Synchronisation des pistes - Documents marketing - Documentation du produit
+description: Microsoft Dynamics Sync -Sync - Sync de piste - Documentation Marketo - Documentation du produit
 title: Microsoft Dynamics Sync - Sync piste
+exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft Dynamics Sync : Synchronisation des pistes {#microsoft-dynamics-sync-lead-sync}
 
@@ -37,7 +37,7 @@ Oui, utilisez l&#39;action de flux [Synchroniser la personne avec Microsoft](/he
 
 ## Puis-je forcer manuellement la synchronisation d&#39;une personne de Marketo vers une piste dans Dynamics ? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-Non, la synchronisation en arrière-plan automatisée est le seul moyen de synchroniser les mises à jour entre Marketing et Dynamics. L&#39;action de flux [Synchroniser la personne avec Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) ne forcera pas la synchronisation du prospect.
+Non, la synchronisation en arrière-plan automatisée est le seul moyen de synchroniser les mises à jour entre Marketo et Dynamics. L&#39;action de flux [Synchroniser la personne avec Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) ne forcera pas la synchronisation du prospect.
 
 ## Quels champs seront synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
 
