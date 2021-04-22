@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2952636
-description: Rechercher des personnes Duplicata ayant une logique personnalisée - Documentation marketing - Documentation du produit
+description: Rechercher des personnes Duplicata avec une logique personnalisée - Docs Marketo - Documentation du produit
 title: Rechercher des personnes Duplicata avec une logique personnalisée
+exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
-
 
 # Rechercher des Duplicata avec une logique personnalisée {#find-duplicate-people-with-custom-logic}
 
@@ -33,7 +33,7 @@ Marketo dispose d&#39;une liste intelligente système qui recherche les duplicat
 
 1. Choisissez l’une des quatre options disponibles :
 
-   * Adresse électronique
+   * Adresse e-mail
    * Nom complet
    * Nom
    * Mis à jour à
@@ -44,4 +44,4 @@ Marketo dispose d&#39;une liste intelligente système qui recherche les duplicat
 
    ![](assets/four-2.png)
 
-   Fait ! Exécutez la liste intelligente pour rechercher les personnes ayant la même valeur dans le champ précédemment sélectionné.
+   Fait! Exécutez la liste intelligente pour rechercher les personnes ayant la même valeur dans le champ précédemment sélectionné.
