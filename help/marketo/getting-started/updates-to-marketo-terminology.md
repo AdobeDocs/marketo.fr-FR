@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11387674
-description: Mises à jour de la terminologie de Marketo - Documents marketing - Documentation du produit
-title: Mises à jour de la terminologie du marketing
+description: Mises à jour de la terminologie Marketo - Docs Marketo - Documentation du produit
+title: Mises à jour de la terminologie Marketo
 translation-type: tm+mt
 source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 
-# Mises à jour de la terminologie du marketing {#updates-to-marketo-terminology}
+# Mises à jour de la terminologie de Marketo {#updates-to-marketo-terminology}
 
-Nous apportons des changements à notre plateforme, ce qui va affecter ce que certains éléments appellent. Si vous disposez d’une nouvelle instance de Marketo à compter de mars 2016 ou si votre société a été renouvelée après juillet 2016, il se peut que la nouvelle terminologie s’affiche maintenant.
+Nous apportons des changements à notre plateforme, ce qui va affecter ce que certains éléments appellent. Si vous disposez d’une nouvelle instance Marketo à compter de mars 2016 ou si votre société a été renouvelée après juillet 2016, la nouvelle terminologie peut s’afficher maintenant.
 
-Bien que la terminologie de la documentation de Marketo puisse être différente, soyez assuré que chaque article sera bientôt mis à jour pour refléter ces modifications. Toutes les instructions sont les mêmes.
+Bien que la terminologie de la documentation Marketo puisse être différente, soyez assuré que chaque article sera bientôt mis à jour pour refléter ces changements. Toutes les instructions sont les mêmes.
 
 Alors, qu&#39;est-ce qui a changé ?
 
@@ -139,7 +139,7 @@ Les champs qui contenaient le terme Piste ont été remplacés par Personne ou l
 
 Outre le changement de nom, il comprend désormais quatre applications distinctes :
 
-| ** [Personnalisation Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Dispose de sa propre mosaïque sur l’écran d’accueil |
+| ** [personnalisation Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Dispose de sa propre mosaïque sur l’écran d’accueil |
 |---|---|
 | ** [Marketing Web basé sur le compte](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accessible via la mosaïque Personnalisation Web |
 | ** [Reciblage personnalisé](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Accessible via la mosaïque Personnalisation Web |
