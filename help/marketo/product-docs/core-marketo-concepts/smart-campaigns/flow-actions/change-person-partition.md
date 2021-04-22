@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147078
-description: Modifier la partition de personne - Documents marketing - Documentation du produit
-title: Modifier la partition de personne
+description: Modifier la partition de personne - Documents Marketo - Documentation du produit
+title: Modifier la répartition de l’individu
+exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-
-# Modifier la partition de personne {#change-person-partition}
+# Modifier la répartition de l’individu {#change-person-partition}
 
 ## Aperçu {#overview}
 
