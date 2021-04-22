@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146970
-description: Planification de l'exécution d'une Campaign intelligente par lot plus tard - Documentation du marketing - Documentation du produit
+description: Planification de l'exécution d'un Campaign dynamique par lot ultérieurement - Marketo Docs - Documentation du produit
 title: Planification de l’exécution ultérieure d’une Campaign dynamique par lot
+exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
-
 
 # Planifier l&#39;exécution d&#39;une Campaign intelligente par lot plus tard {#schedule-a-batch-smart-campaign-to-run-later}
 
