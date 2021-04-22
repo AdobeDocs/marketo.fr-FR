@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719302
-description: Activer la synchronisation d'objets personnalisés en d'autres langues que l'anglais - Documents marketing - Documentation du produit
+description: Activer la synchronisation d'objets personnalisés en anglais non - Marketo Docs - Documentation du produit
 title: Activer la synchronisation d’objets personnalisés en anglais non
+exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-
 # Activer la synchronisation d&#39;objets personnalisés non anglais {#enable-non-english-custom-object-sync}
 
-Si votre utilisateur de synchronisation Marketo utilise une autre langue que l’anglais, vous pouvez rencontrer une erreur lors de l’activation d’une synchronisation d’objets personnalisée.
+Si votre utilisateur de synchronisation Marketo utilise une autre langue que l’anglais, une erreur peut s’afficher lors de l’activation d’une synchronisation d’objets personnalisée.
 
 ## Erreur {#the-error}
 
