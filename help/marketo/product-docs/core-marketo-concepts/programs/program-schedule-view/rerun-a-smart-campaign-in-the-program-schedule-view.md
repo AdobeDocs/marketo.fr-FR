@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953331
-description: Réexécution d’une Campaign dynamique dans la Vue de Planning du programme - Docs marketing - Documentation du produit
+description: Réexécuter une Campaign dynamique dans la Vue de Planning du programme - Marketo Docs - Documentation du produit
 title: Réexécution d’une Campaign dynamique dans la Vue de Planning du programme
+exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # Réexécuter une Campaign dynamique dans la Vue de Planning du programme {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
