@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147001
-description: Utilisation de la logique de règle de Liste intelligente standard - Documentation sur le marketing - Documentation du produit
+description: Utilisation de la logique de règle de Liste intelligente standard - Docs Marketo - Documentation du produit
 title: Utilisation de la logique de règle de Liste intelligente standard
+exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # Utilisation de la logique de règle de Liste intelligente standard {#using-standard-smart-list-rule-logic}
 
