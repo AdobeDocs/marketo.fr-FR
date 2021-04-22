@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953405
-description: Modifier les paramètres de comportement d’Analytics - Documents marketing - Documentation du produit
-title: Modification des paramètres de comportement d’Analytics
+description: Modifier les paramètres de comportement d’Analytics - Documents Marketo - Documentation du produit
+title: Modifier les paramètres de comportement d’analyse
+exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
-# Modifier les paramètres de comportement d’Analytics {#edit-analytics-behavior-settings}
+# Modifier les paramètres de comportement d’analyse {#edit-analytics-behavior-settings}
 
 Vous pouvez définir le comportement [des analyses au niveau administrateur sur canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), mais vous pouvez également le modifier au niveau du programme. Voici comment.
 
