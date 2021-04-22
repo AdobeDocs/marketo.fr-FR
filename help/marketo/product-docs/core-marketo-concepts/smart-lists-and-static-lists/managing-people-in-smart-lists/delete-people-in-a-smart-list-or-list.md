@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146897
-description: Supprimer des personnes dans une Liste ou une Liste intelligente - Documentation du marketing - Documentation du produit
+description: Supprimer des personnes dans une Liste ou une Liste intelligente - Docs Marketo - Documentation du produit
 title: Suppression de personnes dans une Liste ou une Liste intelligente
+exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # Supprimer des personnes dans une Liste ou une Liste intelligente {#delete-people-in-a-smart-list-or-list}
 
@@ -49,11 +49,11 @@ Vous pouvez supprimer rapidement et facilement certaines/toutes les personnes qu
 
    >[!CAUTION]
    >
-   >La suppression de Marketing Cloud et de votre gestion de la relation client signifie que vous ne pourrez jamais récupérer dans aucun des systèmes. Les gens et leur histoire seront partis pour toujours. Si vous les rajoutez plus tard, ils seront traités comme des enregistrements flambant neufs.
+   >La suppression de Marketo et de votre gestion de la relation client signifie que vous ne pourrez jamais récupérer dans aucun des systèmes. Les gens et leur histoire seront partis pour toujours. Si vous les rajoutez plus tard, ils seront traités comme des enregistrements flambant neufs.
 
    >[!NOTE]
    >
-   >Si votre Marketo n’est pas lié à votre CRM, l’option est grisée comme dans la capture d’écran.
+   >Si votre Marketo n&#39;est pas lié à votre CRM, l&#39;option est grisée comme dans la capture d&#39;écran.
 
 1. Cliquez sur **Exécuter maintenant**.
 
