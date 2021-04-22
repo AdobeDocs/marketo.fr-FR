@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953173
-description: Utiliser des membres de la Liste dans une Liste intelligente - Documentation du marketing - Documentation du produit
+description: Utiliser des membres de la Liste dans une Liste intelligente - Marketo Docs - Documentation du produit
 title: Utilisation de membres de Liste dans une Liste intelligente
+exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # Utiliser des membres de la Liste dans une Liste intelligente {#use-members-of-list-in-a-smart-list}
 
@@ -31,4 +31,4 @@ Avec ce filtre, vous pouvez extraire des membres d’une autre liste en y faisan
 
    ![](assets/memberoflist.png)
 
-   Fait ! Dans cet exemple, la liste intelligente ne cible désormais que les membres de cette liste et les évalue en fonction de toute autre règle que vous incluez.
+   Fait! Dans cet exemple, la liste intelligente ne cible désormais que les membres de cette liste et les évalue en fonction de toute autre règle que vous incluez.
