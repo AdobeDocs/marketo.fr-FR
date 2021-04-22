@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953352
-description: Modifier directement les entrées dans le calendrier marketing - Documents marketing - Documentation du produit
+description: Modifier directement les entrées dans le calendrier marketing - Marketo Docs - Documentation du produit
 title: Modifier directement les entrées dans le calendrier marketing
+exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # Modifier directement les entrées dans le calendrier marketing {#edit-entries-directly-in-the-marketing-calendar}
 
