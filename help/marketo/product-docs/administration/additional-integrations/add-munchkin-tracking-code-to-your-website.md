@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2360354
-description: Ajouter le code de suivi Munchkin sur votre site Web - Documents marketing - Documentation du produit
+description: Ajouter le code de suivi Munchkin sur votre site Web - Documents Marketo - Documentation sur le produit
 title: Ajouter le code de suivi Munchkin sur votre site Web
+exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%
 
 ---
 
-
 # Ajouter le code de suivi Munchkin à votre site Web {#add-munchkin-tracking-code-to-your-website}
 
-Le code de suivi JavaScript personnalisé de Marketo, appelé Munchkin, suit toutes les personnes qui visitent votre site Web afin que vous puissiez réagir à leurs visites à l’aide de campagnes marketing automatisées. Même les visiteurs anonymes sont suivis avec leurs adresses IP et d&#39;autres informations. **Sans ce code de suivi, vous ne pourrez pas suivre les visites ou autres activités sur votre site Web** !
+Le code de suivi JavaScript personnalisé Marketo, appelé Munchkin, suit toutes les personnes qui visitent votre site Web afin que vous puissiez réagir à leurs visites à l’aide de campagnes marketing automatisées. Même les visiteurs anonymes sont suivis avec leurs adresses IP et d&#39;autres informations. **Sans ce code de suivi, vous ne pourrez pas suivre les visites ou autres activités sur votre site Web** !
 
 >[!PREREQUISITES]
 >
->Assurez-vous d’avoir accès à un développeur JavaScript expérimenté. L’assistance technique de Marketo n’est pas configurée pour vous aider à résoudre les problèmes liés à JavaScript personnalisé.
+>Assurez-vous d’avoir accès à un développeur JavaScript expérimenté. Le support technique de Marketo n’est pas configuré pour vous aider à résoudre les problèmes liés à JavaScript personnalisé.
 
 ## Ajouter le code de suivi sur votre site Web {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
->Les clients Adobe Experience Cloud peuvent également utiliser l’intégration de Marketo dans le lancement d’Adobe pour inclure le script Munchkin dans leurs pages Web. Obtenez l’application [ici](https://www.adobeexchange.com/experiencecloud.details.101054.html).
+>Les clients Adobe Experience Cloud peuvent également utiliser l’intégration Marketo dans le lancement d’Adobe pour inclure le script Munchkin dans leurs pages Web. Obtenez l’application [ici](https://www.adobeexchange.com/experiencecloud.details.101054.html).
 
 1. Accédez à **Admin** et cliquez sur **Munchkin** dans l’arborescence de gauche.
 
@@ -58,7 +58,7 @@ Le code de suivi JavaScript personnalisé de Marketo, appelé Munchkin, suit tou
 
 ## Code de suivi des Ajoutes lors de l’utilisation de plusieurs espaces de travail {#add-tracking-code-when-using-multiple-workspaces}
 
-Si vous utilisez des espaces de travail dans votre compte Marketo, vous disposez probablement également de présences Web distinctes qui correspondent à vos espaces de travail. Dans ce cas, vous pouvez utiliser le code JavaScript de suivi Munchkin pour affecter vos personnes anonymes à l&#39;espace de travail et à la partition appropriés.
+Si vous utilisez des espaces de travail dans votre compte Marketo, vous disposez probablement de présences Web distinctes qui correspondent à vos espaces de travail. Dans ce cas, vous pouvez utiliser le code JavaScript de suivi Munchkin pour affecter vos personnes anonymes à l&#39;espace de travail et à la partition appropriés.
 
 1. Accédez à **Admin** et cliquez sur **Munchkin** dans l’arborescence de gauche.
 
@@ -94,7 +94,7 @@ Si vous utilisez des espaces de travail dans votre compte Marketo, vous disposez
 
 >[!NOTE]
 >
->Les landings page créés dans Marketo contiennent automatiquement du code de suivi, vous n’avez donc pas besoin de placer ce code dessus.
+>Les landings page créés dans Marketo contiennent automatiquement du code de suivi. Il n’est donc pas nécessaire de placer ce code dessus.
 
 ## Types de codes de suivi Munchkin {#types-of-munchkin-tracking-codes}
 
