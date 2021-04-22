@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147053
-description: Abort d’une Campaign intelligente - Documentation du marketing - Documentation du produit
+description: Abort d’un Campaign dynamique - Docs Marketo - Documentation du produit
 title: Abandonner une Campaign intelligente
+exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
-
 
 # Abandonner une Campaign dynamique {#abort-a-smart-campaign}
 
