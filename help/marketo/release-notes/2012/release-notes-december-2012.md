@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951107
-description: Notes de mise à jour - Décembre 2012 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Décembre 2012 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - décembre 2012
+exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Notes de mise à jour : Décembre 2012 {#release-notes-december}
 
 La version de décembre comprend la très attendue fonction **Transférer à l&#39;ami**, ainsi que plusieurs autres goodies ! Notez que les fonctionnalités marquées d’un astérisque (*) sont disponibles uniquement dans Select Edition et dans RCA (Revenue Cycle Analytics).
 
-## Transférer à l&#39;ami {#forward-to-friend}
+## Transférer à un ami {#forward-to-friend}
 
 Activez le partage de contenu avec d&#39;autres en incluant un lien **Transférer à l&#39;ami** dans vos courriels. L’ajout de nouveaux filtres et déclencheurs vous aidera à identifier vos influenceurs, en identifiant les utilisateurs qui ont envoyé un courriel, ainsi que ceux qui ont reçu les courriels transférés.
 
@@ -29,7 +29,7 @@ Utilisez les déclencheurs et filtres correspondants pour identifier les utilisa
 
 ## Autorisations d’administration granulaires {#granular-admin-permissions}
 
-Notre nouvelle version vous donne un meilleur accès et un meilleur contrôle sur les rôles d’administrateur, en contrôlant l’accès à différentes fonctions dans la zone d’administration de Marketing Cloud pour chaque rôle. Lorsque vous créez un nouveau rôle, vous pouvez affecter des fonctions d’administration spécifiques auxquelles ce rôle peut accéder.
+Notre nouvelle version vous donne un meilleur accès et un meilleur contrôle sur les rôles d’administrateur, en contrôlant l’accès aux différentes fonctions de la zone d’administration Marketo pour chaque rôle. Lorsque vous créez un nouveau rôle, vous pouvez affecter des fonctions d’administration spécifiques auxquelles ce rôle peut accéder.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
@@ -39,7 +39,7 @@ Notre nouvelle version vous donne un meilleur accès et un meilleur contrôle su
 
 ## Carte BrightTALK {#brighttalk-adapter}
 
-L&#39;adaptateur Marketo BrightTALK vous permet de capturer les informations de présence d&#39;une diffusion Web en direct ou à la demande, directement dans un événement Marketo !
+L&#39;adaptateur Marketo BrightTALK vous permet de capturer les informations de présence à partir d&#39;une diffusion Web en direct ou à la demande, directement dans un événement Marketo !
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
@@ -66,7 +66,7 @@ Ajoutez des champs d&#39;opportunité personnalisés pour enrichir vos rapports 
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
-## Inspecteur Campaign {#campaign-inspector}
+## Inspecteur de campagne {#campaign-inspector}
 
 Vous êtes-vous déjà demandé quelles campagnes utilisent une action de flux spécifique, telle que Changer de note ou Demander Campaign ? Ou où un certain filtre est utilisé ? Le nouvel Inspecteur Campaign (disponible à partir du coffre au trésor) vous permet d&#39;identifier ces campagnes, ainsi que les campagnes et campagnes principales avec des erreurs.
 
