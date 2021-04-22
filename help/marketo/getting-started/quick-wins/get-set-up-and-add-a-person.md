@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359351
-description: Mise en place et Ajoute d'une personne - Documents marketing - Documentation du produit
+description: Configurer et Ajouter une personne - Marketo Docs - Documentation du produit
 title: Configurer et Ajouter une personne
+exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
-
 
 # Configurer et Ajouter une personne {#get-set-up-and-add-a-person}
 
@@ -21,9 +21,9 @@ Il y a quelques choses à faire avant de commencer les missions.
 
    ![](assets/one.png)
 
-## Étape 2 : Créer un dossier d&#39;apprentissage {#step-create-a-learning-folder}
+## Étape 2 : Créez un dossier d&#39;apprentissage {#step-create-a-learning-folder}
 
-Créons un dossier qui contient tout ce que vous allez faire dans les missions.
+Créons un dossier qui contiendra tout ce que vous ferez lors de vos missions.
 
 1. Accédez à la zone **Activités marketing**.
 
@@ -43,7 +43,7 @@ Créons un dossier qui contient tout ce que vous allez faire dans les missions.
 
 ## Étape 3 : Vous Ajouter en tant que personne {#step-add-yourself-as-a-person}
 
-Ajoutez-vous en tant que personne sur Marketo pour pouvoir vous envoyer des e-mails de test plus tard.
+Ajoutez-vous en tant que personne à Marketo pour que vous puissiez vous envoyer des e-mails de test plus tard.
 
 1. Accédez à la zone **Base de données**.
 
@@ -61,14 +61,14 @@ Ajoutez-vous en tant que personne sur Marketo pour pouvoir vous envoyer des e-ma
 
    ![](assets/nine.png)
 
-1. Cliquez sur l&#39;onglet **Personnes**. Vous devriez vous voir dans la base de données.
+1. Cliquez sur l&#39;onglet **Personnes**. Votre nom devrait apparaître dans la base de données.
 
    ![](assets/ten.png)
 
 ## Configuration terminée {#set-up-complete}
 
-Vous êtes prêt à commencer votre première mission !
+Vous êtes prêt pour votre première mission !
 
 <br> 
 
-[Mission 1 : Envoi d’un message électronique - Vol ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[Mission 1 : Envoyer un E-mail de masse ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
