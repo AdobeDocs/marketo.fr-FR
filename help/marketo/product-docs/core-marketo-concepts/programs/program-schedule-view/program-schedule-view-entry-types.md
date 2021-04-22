@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147243
-description: Types d’entrée de Vue de Planning du programme - Documents marketing - Documentation du produit
+description: Types d’entrée de Vue de Planning du programme - Docs Marketo - Documentation sur les produits
 title: Types d’entrée de Vue de Planning du programme
+exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
-
 
 # Types d&#39;entrée de Vue de Planning du programme {#program-schedule-view-entry-types}
 
@@ -24,11 +24,11 @@ Il existe huit types d&#39;entrée intégrés différents qui seront visibles et
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">Entrée de base<span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
+   <td colspan="1" rowspan="1">Entrée de base<span> <img alt="--" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
    <td colspan="1" rowspan="1">Type d’entrée par défaut. Utilisez-le comme espace réservé ou comme note. </td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Campaign intelligente <img alt="—" src="assets/image2014-9-24-10-3a5-3a2.png" data-linked-resource-id="3082716" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Campagne intelligente <img alt="—" src="assets/image2014-9-24-10-3a5-3a2.png" data-linked-resource-id="3082716" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
    <td colspan="1" rowspan="1">Campagne dynamique planifiée sans étape de flux Envoyer un courrier électronique.</td> 
   </tr> 
   <tr> 
@@ -40,15 +40,15 @@ Il existe huit types d&#39;entrée intégrés différents qui seront visibles et
    <td colspan="1" rowspan="1">Programme de courriel planifié.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Test du Programme de messagerie <img alt="—" src="assets/image2014-9-24-10-3a5-3a39.png" data-linked-resource-id="3082719" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Test du programme d’e-mails <img alt="—" src="assets/image2014-9-24-10-3a5-3a39.png" data-linked-resource-id="3082719" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
    <td colspan="1" rowspan="1">Testez les courriers électroniques dans un programme de messagerie planifié.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Croissance de l’engagement <img alt="—" src="assets/image2014-9-24-10-3a5-3a53.png" data-linked-resource-id="3082720" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Diffusion d’engagement <img alt="—" src="assets/image2014-9-24-10-3a5-3a53.png" data-linked-resource-id="3082720" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
    <td colspan="1" rowspan="1">Date de diffusion en continu d’un programme d’engagement.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Webinaire <img alt="—" src="assets/image2014-9-24-10-3a6-3a4.png" data-linked-resource-id="3082721" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Webinar <img alt="—" src="assets/image2014-9-24-10-3a6-3a4.png" data-linked-resource-id="3082721" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
    <td colspan="1" rowspan="1">Date du webinaire d’un programme de événement connecté à un fournisseur de webinaires pris en charge.</td> 
   </tr> 
   <tr> 
