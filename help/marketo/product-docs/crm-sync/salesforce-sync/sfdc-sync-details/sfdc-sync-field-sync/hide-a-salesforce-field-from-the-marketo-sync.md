@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4719306
-description: Masquer un champ Salesforce de la synchronisation du marché - Docs marketing - Documentation du produit
-title: Masquer un champ Salesforce de la synchronisation du marketing
+description: Masquer un champ Salesforce dans Marketo Sync - Marketo Docs - Documentation du produit
+title: Masquer un champ Salesforce de la synchronisation Marketo
+exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-
-# Masquer un champ Salesforce de la synchronisation du marché {#hide-a-salesforce-field-from-the-marketo-sync}
+# Masquer un champ Salesforce de la synchronisation Marketo {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez optimiser les performances de synchronisation en incluant uniquement les champs dont vous avez besoin. Voici comment vous pouvez masquer un champ de Marketo.
+Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez optimiser les performances de synchronisation en incluant uniquement les champs dont vous avez besoin. Voici comment vous pouvez cacher un champ à Marketo.
 
 1. Cliquez sur le menu de votre nom et sélectionnez **Configuration**.
 
@@ -45,7 +45,7 @@ Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez 
 
    >[!NOTE]
    >
-   >Si le champ que vous masquez dans Salesforce a déjà été synchronisé avec Marketo, vous devrez également le masquer dans Marketo, si vous ne souhaitez pas l’utiliser.
+   >Si le champ que vous masquez dans Salesforce a déjà été synchronisé avec Marketo, vous devrez également le masquer dans Marketo, si vous ne voulez pas l&#39;utiliser.
 
    C&#39;est tout ! Vous ne verrez plus ce champ dans Marketo une fois la synchronisation suivante terminée.
 
