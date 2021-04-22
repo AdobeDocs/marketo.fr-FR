@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360274
-description: Gestion des valeurs de balise - Documents marketing - Documentation du produit
+description: Gestion des valeurs de balise - Documents Marketo - Documentation du produit
 title: Gestion des valeurs de balise
+exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
-
 
 # Gestion des valeurs de balise {#managing-tag-values}
 
