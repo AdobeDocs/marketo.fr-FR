@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147027
-description: Synchroniser une personne avec SFDC - Documents marketing - Documentation du produit
-title: Synchroniser la personne avec SFDC
+description: Synchroniser une personne avec SFDC - Marketo Docs - Documentation du produit
+title: Synchroniser individu dans SFDC
+exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
-# Synchroniser la personne avec SFDC {#sync-person-to-sfdc}
+# Synchroniser individu dans SFDC {#sync-person-to-sfdc}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Aperçu {#overview}
 
-Cette étape de flux va insérer des personnes créées par Marketing comme pistes dans votre logiciel de gestion de la relation client Salesforce.
+Cette étape de flux va insérer des personnes créées par Marketo comme pistes dans votre logiciel de gestion de la relation client Salesforce.
 
 ![](assets/sync-person-to-sfdc.png)
 
@@ -41,4 +41,4 @@ Cette étape de flux va insérer des personnes créées par Marketing comme pist
 
    >[!CAUTION]
    >
-   >Salesforce n&#39;autorise pas l&#39;affectation de &quot;contacts&quot; aux files d&#39;attente de piste. Dans ce cas, Marketo créera un duplicata &quot;Lead&quot; dans Salesforce.
+   >Salesforce n&#39;autorise pas l&#39;affectation de &quot;contacts&quot; aux files d&#39;attente de piste. Dans ce cas, Marketo va créer un duplicata &quot;Lead&quot; dans Salesforce.
