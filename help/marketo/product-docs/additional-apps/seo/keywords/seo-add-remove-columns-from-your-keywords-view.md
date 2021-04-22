@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949243
-description: SEO - Ajouter/Supprimer des colonnes de votre Vue de mots-clés - Documents marketing - Documentation du produit
+description: SEO - Ajouter/Supprimer des colonnes de votre Vue de mots-clés - Marketo Docs - Documentation du produit
 title: Optimisation des moteurs de recherche - Ajouter/supprimer des colonnes de votre Vue de mots-clés
+exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # SEO - Ajouter/Supprimer des colonnes de votre Vue de mots-clés {#seo-add-remove-columns-from-your-keywords-view}
 
@@ -31,7 +31,7 @@ Vous pouvez ajuster votre vue de mots-clés pour afficher les données qui vous 
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   Super ! Vous avez maintenant personnalisé votre vue de mots-clés.
+   Super ! Vous avez maintenant personnalisé votre vue de mots-clés.
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
