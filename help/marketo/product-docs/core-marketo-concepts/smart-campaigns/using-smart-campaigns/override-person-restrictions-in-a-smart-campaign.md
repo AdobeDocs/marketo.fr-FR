@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147066
-description: Remplacer les restrictions sur les personnes dans une Campaign intelligente - Docs marketing - Documentation sur les produits
+description: Remplacer les restrictions de personne dans une Campaign intelligente - Marketo Docs - Documentation du produit
 title: Remplacer les restrictions de personne dans une Campaign dynamique
+exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # Remplacer les restrictions de personne dans une Campaign dynamique {#override-person-restrictions-in-a-smart-campaign}
 
@@ -17,7 +17,7 @@ Marketo vous permet de définir le nombre maximal de personnes pouvant bénéfic
 
 >[!PREREQUISITES]
 >
->Veillez à [activer les restrictions de personne pour les campagnes intelligentes](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) dans l&#39;administrateur de Marketing Cloud.
+>Veillez à [activer les restrictions de personne pour les campagnes dynamiques](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) dans Marketo Admin.
 
 1. Dans Activités marketing, accédez à votre campagne intelligente et cliquez sur **Planification**.
 
