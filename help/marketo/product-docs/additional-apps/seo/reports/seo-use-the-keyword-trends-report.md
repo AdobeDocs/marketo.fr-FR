@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949273
-description: SEO - Utiliser le rapport Tendances des mots-clés - Documents marketing - Documentation du produit
+description: SEO - Utiliser le rapport Tendances des mots-clés - Docs Marketo - Documentation du produit
 title: SEO - Utiliser le rapport Tendances des mots-clés
+exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Utiliser le rapport Tendances des mots-clés {#seo-use-the-keyword-trends-report}
 
@@ -31,12 +31,12 @@ Ce rapport montre comment vous êtes classé selon les mots-clés au fil du temp
 
    Éléments de rapport décrits :
 
-   | Elément | Description |
+   | Élément | Description |
    |---|---|
    | Mots-clés | Nombre de mots-clés suivis. |
    | Classement des URL | Nombre d’URL de votre site classées dans la plage que vous avez définie. |
-   | Moy. rang | Ordre moyen des mots-clés dans la plage que vous avez définie. |
-   | Moy. recherches | Nombre moyen de recherches sur les mots-clés qui se sont produites au cours de la période que vous avez définie (au cours des 30 derniers jours, dans une recherche Google US) |
+   | Position moyenne rang | Ordre moyen des mots-clés dans la plage que vous avez définie. |
+   | Position moyenne recherches | Nombre moyen de recherches sur les mots-clés qui se sont produites au cours de la période que vous avez définie (au cours des 30 derniers jours, dans une recherche Google US) |
 
 ## Filtrage des données {#filtering-data}
 
@@ -48,7 +48,7 @@ Ce rapport montre comment vous êtes classé selon les mots-clés au fil du temp
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Exportation de données {#exporting-data}
+## Exportation des données {#exporting-data}
 
 >[!TIP]
 >
@@ -58,9 +58,8 @@ Ce rapport montre comment vous êtes classé selon les mots-clés au fil du temp
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   Super boulot ! Vous pouvez également comparer vos concurrents dans le classement des mots-clés.
+   Bon boulot ! Vous pouvez également comparer vos concurrents dans le classement des mots-clés.
 
    >[!NOTE]
    >
    >[Utilisation du rapport Tendances des classements KW concurrentiels](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
-
