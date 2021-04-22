@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951111
-description: Notes de mise à jour - Septembre 2012 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Septembre 2012 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - septembre 2012
+exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
-
 
 # Notes de mise à jour : Septembre 2012 {#release-notes-september}
 
@@ -27,19 +27,19 @@ Personnalisez entièrement les messages de partage et l’aspect d’un nouveau 
 
 ![](assets/image2014-9-23-10-3a39-3a46.png)
 
-## Connexion à Social {#social-sign-on}
+## Se connecter aux réseaux sociaux {#social-sign-on}
 
 Obtenez des informations et réduisez les frictions en permettant aux pistes de préremplir des formulaires avec des informations provenant de leurs réseaux sociaux.
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Publier des Landings page sur Facebook {#publish-landing-pages-to-facebook}
+## Publier des Landings page dans Facebook {#publish-landing-pages-to-facebook}
 
 Étendez la portée de vos landings page en les publiant directement dans Facebook, avec des applications sociales, des formulaires et la fonctionnalité complète des landings page de Marketo.
 
 ## Adaptateur de Événement ReadyTalk {#readytalk-event-adapter}
 
-Connectez en toute transparence un événement Marketo à une réunion ReadyTalk. Utilisez un formulaire Marketo pour capturer les inscrits et les enregistrer automatiquement dans ReadyTalk. Une synchronisation bidirectionnelle permet aux informations de présence de se renseigner dans Marketo.
+Connectez en toute transparence un événement Marketo à une réunion ReadyTalk. Utilisez un formulaire Marketo pour capturer les inscrits et les enregistrer automatiquement dans ReadyTalk. Une synchronisation bidirectionnelle permet de renseigner les informations de présence dans Marketo.
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
