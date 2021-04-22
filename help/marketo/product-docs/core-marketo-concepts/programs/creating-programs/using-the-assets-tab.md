@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147124
-description: Utilisation de l’onglet Ressources - Documents marketing - Documentation du produit
+description: Utilisation de l’onglet Ressources - Documents Marketo - Documentation du produit
 title: Utilisation de l’onglet Ressources
+exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Utilisation de l’onglet Ressources {#using-the-assets-tab}
 
@@ -25,9 +25,9 @@ Dans la zone **Activités marketing**, cliquez sur l&#39;onglet **Ressources**. 
 
 Lorsqu’il y a des ressources dans votre programme, elles sont répertoriées ici.
 
-| Orange | Déclencher Campaign |
+| Orange | Campagne à déclencheurs |
 |---|---|
-| Vert | Campaign par lot |
+| Vert | Campagne par lot |
 
 Vous pouvez cliquer avec le bouton droit sur l’en-tête si vous souhaitez interagir avec ce fichier.
 
