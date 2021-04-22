@@ -1,31 +1,31 @@
 ---
 unique-page-id: 10099360
-description: Préparation de votre Événement - Documents marketing - Documentation du produit
+description: Préparation de votre Événement - Documents Marketo - Documentation du produit
 title: Préparation de votre Événement
+exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
 # Préparation de votre Événement {#prepare-for-your-event}
 
 Il y a plusieurs choses à faire pour se préparer au événement.
 
-## Créer un nouveau rôle de marketing {#create-a-new-marketo-role}
+## Créer un nouveau rôle Marketo {#create-a-new-marketo-role}
 
-Marketo a un rôle d&#39;utilisateur spécial pour l&#39;application d&#39;archivage de événements. [Créez un nouveau ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) rôle Marketo pour les utilisateurs d’iPad ou d’Android, avec l’autorisation d’accéder à l’application mobile.
+Marketo a un rôle d&#39;utilisateur spécial pour l&#39;application d&#39;enregistrement des événements. [Créez un nouveau ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) rôle Marketo pour les utilisateurs d’iPad ou d’Android, avec l’autorisation d’accéder à l’application mobile.
 
 ## Invitation de nouveaux utilisateurs de tablettes au Événement {#invite-new-tablet-users-to-the-event}
 
 [Invitez de nouveaux utilisateurs de tablette à assister à l’](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) événement et attribuez-leur le nouveau rôle.
 
-## Créer un nouveau Programme de Événement de marketing {#create-a-new-marketo-event-program}
+## Créer un Programme de Événement Marketo {#create-a-new-marketo-event-program}
 
-[Créez un nouveau ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) programme de événement de marketing pour capturer le statut de vos employés à mesure qu’ils progressent au cours de différentes étapes et obtenir des mesures précises du retour sur investissement pour vos initiatives marketing.
+[Créez un nouveau ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) programme de événement Marketo pour capturer le statut de vos personnes à mesure qu’elles progressent au cours de différentes étapes et obtenir des mesures précises du retour sur investissement pour vos initiatives marketing.
 
 ## Spécifier les dates de Événement {#specify-the-event-dates}
 
@@ -47,7 +47,7 @@ Il est facile de définir les dates de votre événement.
 
 Maintenant que vous connaissez le *quand*, il est temps d&#39;ajouter le *qui*.
 
-1. Si vous avez déjà une liste de personnes, dans Mon marché, cliquez sur la mosaïque **Base de données**.
+1. Si vous avez déjà une liste de personnes, dans Mon Marketo, cliquez sur la mosaïque **Base de données**.
 
    ![](assets/db.png)
 
