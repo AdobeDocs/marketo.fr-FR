@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37357276
-description: Notes de mise à jour - 20 juin - Documentation sur le marketing - Documentation du produit
+description: Notes de mise à jour - 20 juin - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Juin 20
+exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1073'
 ht-degree: 0%
 
 ---
 
-
 # Notes de mise à jour : 20 juin {#release-notes-june}
 
-Les fonctionnalités suivantes sont incluses dans la version du 20 juin. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
+Les fonctionnalités suivantes sont incluses dans la version du 20 juin. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités.
 
 >[!AVAILABILITY]
 >
@@ -21,7 +21,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 juin. Vérifi
 
 **__** Versions trimestriellesLes fonctionnalités suivantes seront publiées le 5  **juin 2020**.
 
-## Marketo Engage principal {#core-marketo-engage}
+## Engagement Marketo de base {#core-marketo-engage}
 
 * **[Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![ prédictives (étoile)](assets/star-yellow.svg) : Les nouveaux filtres Smart Liste et Smart Campaign optimisés par Adobe Sensei vous permettent de créer des segments d’audience alimentés par l’IA pour les programmes de marketing par courriel, événement et webinaire. Utilisez l&#39;IA pour vous aider à segmenter les audiences en fonction de la probabilité de piste pour vous inscrire à un événement, participer à un événement ou vous désabonner. Créez des audiences semblables basées sur les programmes précédents pour reproduire efficacement les réussites précédentes. Réalisez des objectifs de conversion avec le suivi prédictif des objectifs et obtenez des recommandations sur la manière d&#39;affiner vos segments d&#39;audience pour les programmes de événement.
 * **Optimisation** ![ du courrier électronique par lots (étoile)](assets/star-yellow.svg) : Amélioration de notre fonctionnalité de marketing par courrier électronique qui vous permet d&#39;envoyer jusqu&#39;à 3 millions de courriers électroniques par heure. Nous avons réorganisé le traitement des campagnes par lots et des rapports par courriel afin d’améliorer les performances des programmes de courriel et des campagnes par lots. Cela se traduit par un délai d’envoi plus court et une meilleure exécution du programme. Configurez vos messages électroniques comme vous le feriez normalement, il n&#39;y a aucune complexité supplémentaire. Cette amélioration est disponible sous la forme d’un module complémentaire de produit qui inclut également un pack de lancement Diffusion Services, des outils de Diffusion électronique et plusieurs adresses IP dédiées.
@@ -33,7 +33,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 juin. Vérifi
 * **Définir l’en-tête de courriel via l’API** : Activez la traduction automatique et la localisation des champs d’en-tête de courriel. Amélioration de notre API.
 * **Mise en cache** des images et des fichiers : Nous améliorons la stabilité du serveur Marketo Engage en diffusant les fichiers Image et File à partir d’un cache de 60 secondes.
 
-## Marketing basé sur le compte {#account-based-marketing}
+## Account-Based Marketing {#account-based-marketing}
 
 ![(étoile)](assets/star-yellow.svg)
 
@@ -47,7 +47,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 juin. Vérifi
 
 Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et seront publiées au cours des prochains mois.
 
-## {#bizible}
+## Bizible {#bizible}
 
 ![(étoile)](assets/star-yellow.svg)
 
@@ -57,7 +57,7 @@ Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et
 * **Bizible Discover Filtres and Enhancements** : Analysez vos données à l’aide de filtres de canal, de sous-canal, de campagne et de segments sur plusieurs tableaux de bord. Améliorez la visibilité des données grâce à des attributs plus détaillés. Il s’agit d’une amélioration pour nos panoramas Discover.
 * **Synchronisation des Activités pour Microsoft Dynamics** : Attribuez les interactions de vente en apportant les activités Microsoft Dynamics CRM au parcours de points de contact et en suivant les événements tels que les appels, les rendez-vous ou les tâches associés à vos prospects ou contacts. Amélioration de notre intégration Microsoft Dynamics CRM.
 
-## Sales Insight {#sales-insight}
+## Perspectives commerciales {#sales-insight}
 
 ![(étoile)](assets/star-yellow.svg)
 
