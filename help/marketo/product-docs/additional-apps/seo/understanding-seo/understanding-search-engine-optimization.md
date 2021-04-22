@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949176
-description: Présentation de l'optimisation des moteurs de recherche - Documents marketing - Documentation du produit
+description: Présentation de l'optimisation des moteurs de recherche - Documentation Marketo - Documentation du produit
 title: Présentation de l'optimisation pour les moteurs de recherche
+exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
 
 ---
 
-
 # Présentation de l&#39;optimisation du moteur de recherche {#understanding-search-engine-optimization}
 
-L&#39;optimisation pour les moteurs de recherche (optimisation du référencement) est un ensemble de bonnes pratiques qui vous aident à faire passer vos pages devant les utilisateurs des moteurs de recherche. L’application d’optimisation du référencement de Marketo vous aidera à améliorer la situation.
+L&#39;optimisation pour les moteurs de recherche (optimisation du référencement) est un ensemble de bonnes pratiques qui vous aident à faire passer vos pages devant les utilisateurs des moteurs de recherche. L’application d’optimisation du référencement Marketo vous aidera à améliorer la situation.
 
 Tout d&#39;abord, vous devriez apprendre les bases avec ce glossaire pratique.
 
