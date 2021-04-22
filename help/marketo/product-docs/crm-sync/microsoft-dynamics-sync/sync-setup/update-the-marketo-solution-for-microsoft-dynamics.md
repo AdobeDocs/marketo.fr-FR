@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6849029
-description: Mise à niveau de la solution Marketo pour Microsoft Dynamics - Marketo Docs - Documentation sur les produits
-title: Mettre à niveau la solution Marketo pour Microsoft Dynamics
+description: Mise à niveau de la solution Marketo pour Microsoft Dynamics - Marketo Docs - Documentation du produit
+title: Mise à niveau de la solution Marketo pour Microsoft Dynamics
+exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Mettre à jour la solution Marketo pour Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
 
@@ -23,7 +23,7 @@ Lorsqu&#39;une nouvelle solution Microsoft Dynamics est disponible, vous pouvez 
 >
 >Vous devez impérativement télécharger la dernière solution Marketo _avant d&#39;effectuer toute mise à niveau._
 
-1. Accédez à la zone **Admin**.
+1. Cliquez sur l&#39;icône **Admin**.
 
    ![](assets/admin.png)
 
@@ -31,7 +31,7 @@ Lorsqu&#39;une nouvelle solution Microsoft Dynamics est disponible, vous pouvez 
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Sélectionnez **Télécharger la solution marketing**.
+1. Sélectionnez **Télécharger la solution Marketo**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -39,7 +39,7 @@ Lorsqu&#39;une nouvelle solution Microsoft Dynamics est disponible, vous pouvez 
 
    ![](assets/msd-online.png)
 
-   Super ! Un fichier zip de la solution sera désormais téléchargé sur votre périphérique. Si vous ne connaissez pas les étapes d&#39;installation, contactez votre administrateur Dynamics.
+   Super ! Un fichier zip de la solution sera désormais téléchargé sur votre périphérique. Si vous ne connaissez pas les étapes d&#39;installation, contactez votre administrateur Dynamics.
 
 ## Exécution de la mise à jour {#performing-the-update}
 
