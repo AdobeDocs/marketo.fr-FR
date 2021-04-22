@@ -1,19 +1,19 @@
 ---
 unique-page-id: 42762511
-description: Configurer le partage des Audiences Adobe Experience Cloud - Documents marketing - Documentation sur les produits
+description: Configurer le partage des Audiences Adobe Experience Cloud - Marketo Docs - Documentation sur les produits
 title: Configuration du partage des Audiences Adobe Experience Cloud
+exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-
 # Configurer le partage des Audiences Adobe Experience Cloud {#set-up-adobe-experience-cloud-audience-sharing}
 
-Pour partager des données d&#39;audience avec vos applications d&#39;Adobe, vous devez d&#39;abord saisir vos informations d&#39;identification d&#39;entreprise IMS d&#39;Adobe dans Marketo. Voici comment.
+Pour partager des données d&#39;audience avec vos applications d&#39;Adobe, vous devez d&#39;abord saisir vos informations d&#39;identification d&#39;Adobe IMS Org à Marketo. Voici comment.
 
 >[!NOTE]
 >
