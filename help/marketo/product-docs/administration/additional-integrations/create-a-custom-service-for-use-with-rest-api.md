@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360350
-description: Création d’un service personnalisé à utiliser avec l’API ReST - Documentation marketing - Documentation du produit
+description: Création d’un service personnalisé à utiliser avec l’API ReST - Marketo Docs - Documentation du produit
 title: Création d’un service personnalisé à utiliser avec l’API ReST
+exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-
 # Créer un service personnalisé à utiliser avec l&#39;API ReST {#create-a-custom-service-for-use-with-rest-api}
 
-Si vous souhaitez effectuer une intégration avec Marketo via l&#39;API ReST, vous souhaiterez créer un service personnalisé. Voici comment.
+Si vous souhaitez intégrer Marketo via l&#39;API ReST, vous souhaiterez créer un service personnalisé. Voici comment.
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ Si vous souhaitez effectuer une intégration avec Marketo via l&#39;API ReST, vo
 
 >[!NOTE]
 >
->Vous ne pouvez pas créer de service personnalisé si vous disposez du niveau Spark de Marketo.
+>Vous ne pouvez pas créer de service personnalisé si vous avez le niveau Spark de Marketo.
 
 ## Créer un service personnalisé {#create-custom-service}
 
