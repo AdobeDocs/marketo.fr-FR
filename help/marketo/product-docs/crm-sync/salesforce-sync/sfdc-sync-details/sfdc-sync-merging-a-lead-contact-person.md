@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7515133
-description: Synchronisation SFDC - Fusionner une piste/un contact/une personne - Documents marketing - Documentation du produit
+description: Synchronisation SFDC - Fusionner une piste/un contact/une personne - Marketo Docs - Documentation sur le produit
 title: Synchronisation SFDC - Fusionner une piste/un contact/une personne
+exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Synchronisation SFDC : Fusionner une piste, un contact ou une personne {#sfdc-sync-merging-a-lead-contact-person}
 
-Parfois, il est préférable de simplement liste les règles. Et voici :
+Parfois, il est préférable de simplement liste les règles. C&#39;est parti:
 
 * Lorsque vous fusionnez deux pistes dans **Salesforce**, la synchronisation normale indique à Marketo et les pistes sont fusionnées automatiquement en tant que personnes dans Marketo.
 * La fusion de deux personnes dans **Marketo** appelle en fait le même processus que leur fusion comme pistes dans Salesforce. Il fonctionne toujours automatiquement.
-* La fusion d&#39;une **piste (personne) dans un contact** fonctionne de la même manière. Vous vous retrouvez avec un seul contact de part et d&#39;autre.
+* La fusion d&#39;une **piste (personne) dans un contact** fonctionne de la même manière. Vous finissez avec un seul contact des deux côtés.
 * Lors de la fusion, le score par défaut est additionné.
 
 >[!NOTE]
@@ -30,4 +30,4 @@ Parfois, il est préférable de simplement liste les règles. Et voici :
 
 >[!NOTE]
 >
->Explorez en profondeur pour plus d&#39;informations sur [la fusion de personnes dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>Explorez en profondeur pour plus d&#39;informations sur [la fusion de personnes à Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
