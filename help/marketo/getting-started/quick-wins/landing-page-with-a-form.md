@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359412
-description: landing page avec un formulaire - Documents marketing - Documentation du produit
-title: landing page avec un formulaire
+description: landing page avec un formulaire - Documents Marketo - Documentation du produit
+title: Page de destination avec un formulaire
+exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '542'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
-# landing page avec un formulaire {#landing-page-with-a-form}
+# Page de destination avec un formulaire {#landing-page-with-a-form}
 
 ## Mission : Créez un landing page avec un formulaire pour acquérir de nouvelles personnes. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
@@ -145,7 +145,7 @@ Bien joué ! Maintenant que nous avons créé un programme, passons à autre cho
 
    ![](assets/image2014-9-24-11-3a9-3a19.png)
 
-   Super boulot ! Vous avez maintenant un landing page avec un formulaire dessus. Approuvons votre page pour qu&#39;elle soit activée.
+   Bon boulot ! Vous avez maintenant un landing page avec un formulaire dessus. Approuvons votre page pour qu&#39;elle soit activée.
 
 ## ÉTAPE 4 : Approuver votre Landing page {#step-approve-your-landing-page}
 
@@ -157,7 +157,7 @@ Bien joué ! Maintenant que nous avons créé un programme, passons à autre cho
 
    ![](assets/image2014-9-24-11-3a9-3a37.png)
 
-   Parfait ! Vous voyez la coche verte dessus ?
+   Mot clé! Vous voyez la coche verte dessus ?
 
    ![](assets/image2014-9-24-11-3a9-3a53.png)
 
@@ -183,10 +183,10 @@ Bien joué ! Maintenant que nous avons créé un programme, passons à autre cho
 
    ![](assets/thirty-one.png)
 
-## Mission terminée ! {#mission-complete}
+## Mission accomplie! {#mission-complete}
 
 <br> 
 
-[Envoyer un courrier électronique](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ Envoyer un E-mail de masse](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[Score simple ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[Évaluation simple ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
