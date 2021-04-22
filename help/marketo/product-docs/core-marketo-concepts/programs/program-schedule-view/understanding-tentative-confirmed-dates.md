@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147140
-description: Présentation des dates provisoires/confirmées - Documents marketing - Documentation du produit
+description: Présentation des dates provisoires/confirmées - Documents Marketo - Documentation du produit
 title: Présentation des dates indicatives/confirmées
+exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
-
 
 # Présentation des dates provisoires/confirmées {#understanding-tentative-confirmed-dates}
 
@@ -45,7 +45,7 @@ Les entrées confirmées seront certainement exécutées. Ils disposent de règl
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## {#finished} terminé
+## Terminé  {#finished}
 
 Les entrées terminées ont déjà été exécutées. Ils ne peuvent être que dans le passé (évidemment). Une fois qu&#39;une entrée a été exécutée et est **Terminée**, vous ne pouvez pas la déplacer ou la faire titiller. (Pas de changement de la réalité et de rupture du continuum du temps.)
 
