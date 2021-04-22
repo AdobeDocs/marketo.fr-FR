@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147051
-description: Liste de contrôle Campaign intelligente - Documents marketing - Documentation du produit
+description: Liste de contrôle Campaign intelligente - Docs Marketo - Documentation du produit
 title: Liste de vérification Campaign intelligente
+exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Liste de contrôle Campaign intelligente {#smart-campaign-checklist}
 
@@ -63,4 +63,4 @@ Dans l&#39;onglet **Planification**, assurez-vous que le nombre de personnes qua
 >
 >Si votre campagne intelligente échoue toujours, apprenez à [comprendre les notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) pour comprendre ce qui s’est passé et comment y remédier.
 
-Super boulot ! Conservez cette liste de contrôle à portée de main avant d’exécuter une campagne dynamique.
+Bon boulot ! Conservez cette liste de contrôle à portée de main avant d’exécuter une campagne dynamique.
