@@ -2,14 +2,14 @@
 unique-page-id: 1147062
 description: Vue bloquée des personnes dans un Campaign intelligent - Marketo Docs - Documentation sur les produits
 title: Vue bloquée dans un Campaign intelligent
+exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Vue bloquée dans un Campaign intelligent {#view-blocked-people-in-a-smart-campaign}
 
