@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720377
-description: Référencer une Liste ou une Liste dynamique entre les espaces de travail - Documents marketing - Documentation du produit
+description: Référencer une Liste ou une Liste dynamique entre les espaces de travail - Marketo Docs - Documentation du produit
 title: Référencer une Liste ou une Liste dynamique dans les espaces de travail
+exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Référencer une Liste ou une Liste dynamique entre les espaces de travail {#reference-a-list-or-smart-list-across-workspaces}
 
@@ -45,7 +45,7 @@ Les listes et les listes intelligentes peuvent être partagées et référencée
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
-   Super ! Cette liste sera désormais disponible dans les deux espaces de travail.
+   Super ! Cette liste sera désormais disponible dans les deux espaces de travail.
 
    >[!NOTE]
    >
