@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10098962
-description: Présentation et utilisation du pack de lancement - Documents marketing - Documentation du produit
+description: Présentation et utilisation du pack de lancement - Documents Marketo - Documentation du produit
 title: Présentation et utilisation du pack de lancement
 translation-type: tm+mt
 source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
