@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147142
-description: Création d'une Campaign Batch Smart dans la Vue de Planning du programme - Docs marketing - Documentation sur les produits
+description: Création d'une Campaign Batch Smart dans la Vue de Planning du programme - Marketo Docs - Documentation du produit
 title: Création d’une Campaign intelligente par lot dans la Vue de Planning du programme
+exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # Création d’une Campaign Smart par lot dans la Vue de Planning du programme {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
