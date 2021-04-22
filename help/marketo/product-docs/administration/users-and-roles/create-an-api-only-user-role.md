@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360203
-description: Créer un rôle utilisateur API uniquement - Documents marketing - Documentation du produit
+description: Création d’un rôle utilisateur API uniquement - Documentation Marketo - Documentation du produit
 title: Création d’un rôle utilisateur API uniquement
 translation-type: tm+mt
 source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
@@ -19,7 +19,7 @@ Si vous souhaitez intégrer Marketo via l&#39;[API REST](https://developers.mark
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans Mon marketing, cliquez sur **Admin**.
+1. Dans Mon Marketo, cliquez sur **Admin**.
 
    ![](assets/adminhand-1.png)
 
