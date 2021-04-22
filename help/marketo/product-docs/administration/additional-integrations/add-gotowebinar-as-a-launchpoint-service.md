@@ -2,14 +2,14 @@
 unique-page-id: 7512289
 description: Ajouter GoToWebinar en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter GoToWebinar en tant que service LaunchPoint
+exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter GoToWebinar en tant que service LaunchPoint {#add-gotowebinar-as-a-launchpoint-service}
 
@@ -45,7 +45,7 @@ Marketo gère votre inscription et votre participation au GoToWebinar.
 
    >[!NOTE]
    >
-   >Si vous souhaitez synchroniser le nom de la Société et le titre de la tâche depuis votre formulaire Marketo vers GoToWebinar, cochez la case **Activer les champs supplémentaires**.
+   >Si vous souhaitez synchroniser le nom de la Société et le titre de la tâche depuis votre formulaire Marketo vers GoToWebinar, sélectionnez la case **Activer les champs supplémentaires**.
 
 1. Dans la fenêtre contextuelle Se connecter à GoToWebinar, saisissez votre **adresse électronique et mot de passe GoToWebinar**, puis cliquez sur **Se connecter**.
 
@@ -55,7 +55,7 @@ Marketo gère votre inscription et votre participation au GoToWebinar.
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. Super ! Votre compte **GoToWebinar** est désormais synchronisé avec Marketo.
+1. Fantastique ! Votre compte **GoToWebinar** est désormais synchronisé avec Marketo.
 
    ![](assets/goto-webinar.png)
 
