@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557329
-description: Exportation de personnes vers Excel à partir d’une Liste ou d’une Liste dynamique - Documents marketing - Documentation du produit
+description: Exportation de personnes vers Excel à partir d’une Liste ou d’une Liste dynamique - Docs Marketo - Documentation du produit
 title: Exportation de personnes vers Excel à partir d’une Liste ou d’une Liste dynamique
+exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
-
 # Exporter des personnes vers Excel à partir d’une Liste ou d’une Liste dynamique {#export-people-to-excel-from-a-list-or-smart-list}
 
-Si vous avez besoin de résultats de liste ou de liste intelligente en dehors de Marketo, vous pouvez facilement les exporter vers Excel. Voici comment.
+Si vous avez besoin de résultats de liste ou de liste intelligente en dehors de Marketo, vous pouvez facilement exporter vers Excel. Voici comment.
 
 1. Accédez à **Activités marketing**.
 
