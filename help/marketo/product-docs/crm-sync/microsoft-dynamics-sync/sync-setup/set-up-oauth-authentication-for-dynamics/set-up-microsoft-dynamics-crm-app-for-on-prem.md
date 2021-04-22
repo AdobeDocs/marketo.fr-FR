@@ -1,18 +1,18 @@
 ---
-description: Configuration de l'application Microsoft Dynamics CRM pour On-prem - Marketo Docs - Documentation du produit
+description: Configuration de l'application Microsoft Dynamics CRM pour On-Prem - Marketo Docs - Documentation du produit
 title: Configuration de l'application Microsoft Dynamics CRM pour On-Prem
+exl-id: 50d41d0a-0c3b-43b8-8117-d91903e74699
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
 # Configuration de l&#39;application Microsoft Dynamics CRM pour On-prem {#set-up-microsoft-dynamics-crm-app-for-on-prem}
 
-La configuration basée sur l&#39;ID client/la clé secrète client dans Marketo peut être effectuée pour On-prem avec AD FS (ver. 2016 ou version ultérieure). Pour les versions plus anciennes d&#39;On-prem, contactez l&#39;[Assistance marketing](https://nation.marketo.com/t5/Support/ct-p/Support) pour obtenir que la méthode d&#39;authentification soit modifiée afin de ne reposer que sur l&#39;ID utilisateur et le mot de passe.
+La configuration basée sur l&#39;ID client/la clé secrète client dans Marketo peut être effectuée pour On-Prem avec AD FS (ver. 2016 ou version ultérieure). Pour les versions plus anciennes d&#39;On-prem, contactez l&#39;[Assistance Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour que la méthode d&#39;authentification soit modifiée et ne repose que sur l&#39;ID utilisateur et le mot de passe.
 
 ## Configuration de l&#39;application Microsoft Dynamics CRM {#set-up-microsoft-dynamics-crm-app}
 
@@ -20,7 +20,7 @@ Suivez les étapes décrites dans [cet article Microsoft](https://docs.microsoft
 
 Lorsque vous avez terminé, l&#39;étape suivante consiste à **Entrer l&#39;ID client et le secret générés par Dynamics CRM dans Marketo**.
 
-## Saisissez l&#39;ID client et le secret générés par Dynamics CRM dans Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
+## Entrez l&#39;ID client et le secret générés par Dynamics CRM dans Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
 Les étapes suivantes s’appliquent aux versions en ligne et aux versions instantanées.
 
