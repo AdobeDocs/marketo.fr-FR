@@ -2,18 +2,18 @@
 unique-page-id: 3571833
 description: Microsoft Dynamics Sync - Contact Sync - Marketo Docs - Documentation du produit
 title: Microsoft Dynamics Sync -Contact Sync
+exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics Sync : Synchronisation des contacts {#microsoft-dynamics-sync-contact-sync}
 
-Saviez-vous que Marketo synchronise votre base de données complète avec Dynamics ? Il se synchronise, puis attend 5 minutes puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la façon dont Marketo traite spécifiquement les contacts Dynamics.
+Saviez-vous que Marketo synchronise votre base de données complète avec Dynamics ? Il se synchronise, puis attend 5 minutes puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la façon dont Marketo traite spécifiquement les Contacts Dynamics.
 
 ## Comment les détails sont-ils synchronisés entre les deux systèmes ? {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -33,7 +33,7 @@ Oui. [Voici comment](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync
 
 ## Puis-je forcer manuellement la synchronisation d&#39;une personne ou d&#39;un contact ? {#can-i-manually-force-a-sync-of-a-person-or-a-contact}
 
-Non, la synchronisation en arrière-plan automatisée est le seul moyen de synchroniser les mises à jour entre Marketing et Dynamics. La [personne synchronisée avec Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) ne forcera pas la synchronisation du prospect.
+Non, la synchronisation en arrière-plan automatisée est le seul moyen de synchroniser les mises à jour entre Marketo et Dynamics. La [personne synchronisée avec Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) ne forcera pas la synchronisation du prospect.
 
 ## Quels champs seront synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
 
