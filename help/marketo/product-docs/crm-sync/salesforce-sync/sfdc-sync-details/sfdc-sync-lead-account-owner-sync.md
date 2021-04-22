@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953463
-description: Synchronisation SFDC - Sync responsable/propriétaire de compte - Documentation sur le marketing - Documentation du produit
+description: Synchronisation SFDC - Synchronisation des prospects/propriétaires de comptes - Marketo Docs - Documentation du produit
 title: Synchronisation SFDC - Synchronisation des prospects/propriétaires de comptes
+exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
-
 
 # Synchronisation SFDC : Synchronisation des propriétaires de piste/compte {#sfdc-sync-lead-account-owner-sync}
 
@@ -17,21 +17,21 @@ Techniquement, il s&#39;agit de la synchronisation de la table &quot;utilisateur
 
 ## Quels champs seront synchronisés avec Marketo ? {#which-fields-will-sync-to-marketo}
 
-Pour chaque personne synchronisée sur le marché, nous synchronisons également les champs de propriétaire suivants :
+Pour chaque personne synchronisée sur Marketo, nous synchronisons également les champs de propriétaire suivants :
 
-* Prénom du vendeur
-* Nom du propriétaire commercial
+* Prénom du détenteur des ventes
+* Nom du détenteur des ventes
 * Titre du propriétaire commercial
-* Numéro de téléphone du vendeur
-* Adresse électronique du propriétaire des ventes
+* Numéro de téléphone du détenteur des ventes
+* Adresse e-mail du détenteur des ventes
 
 Pour chaque contact, nous synchronisons les cinq champs de propriétaire de prospect ci-dessus ainsi que les champs de propriétaire de compte suivants :
 
-* Prénom du propriétaire du compte
-* Nom du propriétaire du compte
-* Adresse électronique du propriétaire du compte
+* Prénom du détenteur du compte
+* Nom du détenteur du compte
+* Adresse e-mail du détenteur du compte
 
-## Puis-je modifier le propriétaire du prospect dans Marketo ? {#can-i-change-the-lead-owner-in-marketo}
+## Puis-je changer le propriétaire principal à Marketo ? {#can-i-change-the-lead-owner-in-marketo}
 
 Absolument, il vous suffit d’utiliser l’action de flux [Changer de propriétaire](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md).
 
@@ -45,7 +45,7 @@ Il existe de nombreuses raisons d’utiliser ces données, telles que
 
 * Envoyer un e-mail personnalisé avec une signature du propriétaire des ventes
 * Filtrage sur des commerciaux spécifiques pour le marketing ou même l&#39;analyse de l&#39;efficacité
-* Règles d&#39;affectation (et de réaffectation) dans Marketo
+* Règles d’affectation (et de réaffectation) dans Marketo
 * Utilisez-les dans les actions de flux [Modifier le propriétaire](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [Synchroniser la personne avec SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) et [Créer une Tâche](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
 
-Le marketing a une synchronisation Salesforce impressionnante. Personne d&#39;autre ne le fait si bien !
+Marketo a une synchronisation Salesforce impressionnante. Personne d&#39;autre ne le fait si bien !
