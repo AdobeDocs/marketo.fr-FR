@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360247
-description: Modifier la valeur par défaut du courrier électronique et du libellé - Documents marketing - Documentation du produit
+description: Modifier la valeur par défaut du courrier électronique et du libellé - Documents Marketo - Documentation du produit
 title: Modifier l’étiquette Par défaut De courriel et De
+exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Modifier la valeur par défaut du courrier électronique et du libellé {#change-the-default-from-email-and-from-label}
 
@@ -33,6 +33,6 @@ Chaque utilisateur administrateur peut modifier les valeurs par défaut de **Cou
 
 >[!NOTE]
 >
->La modification ne s’applique qu’à vous et non aux autres utilisateurs du marché.
+>La modification ne s&#39;applique qu&#39;à vous et non aux autres utilisateurs de Marketo.
 
 Bon travail ! Chaque fois que vous créez un nouveau courrier électronique, les valeurs par défaut que vous définissez sont utilisées.
