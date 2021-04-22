@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953459
-description: Synchronisation SFDC - Synchronisation des comptes - Documents marketing - Documentation du produit
+description: Synchronisation SFDC - Synchronisation des comptes - Documentation Marketo - Documentation du produit
 title: Synchronisation SFDC - Synchronisation des comptes
+exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
 
 ---
-
 
 # Synchronisation SFDC : Synchronisation du compte {#sfdc-sync-account-sync}
 
@@ -21,11 +21,11 @@ Un seul moyen : de la DDC à Marketo.
 
 ## Comment fonctionnent les mises à jour ? {#how-do-the-updates-work}
 
-Si vous mettez à jour un champ Compte pour un contact dans Marketo, il modifie les valeurs de tous les contacts appartenant à ce compte dans Marketo. Il n’est pas synchronisé avec SFDC. Cependant, la prochaine fois que ce compte sera mis à jour dans SFDC, les modifications remplaceront toutes les informations de compte dans Marketing Cloud.
+Si vous mettez à jour un champ Compte pour un contact dans Marketo, il modifie les valeurs de tous les contacts appartenant à ce compte dans Marketo. Il n’est pas synchronisé avec SFDC. Cependant, la prochaine fois que ce compte sera mis à jour dans la collecte de données régionale, les modifications remplaceront toutes les informations de compte dans Marketo.
 
 ## Un contact peut-il appartenir à plusieurs comptes ?  {#can-a-contact-belong-to-multiple-accounts}
 
-Non. Un compte peut avoir plusieurs contacts, un contact ne peut avoir qu&#39;un seul compte.
+Nombre Un compte peut avoir plusieurs contacts, un contact ne peut avoir qu&#39;un seul compte.
 
 ## Puis-je créer des comptes à partir de Marketo ? {#can-i-create-accounts-from-marketo}
 
