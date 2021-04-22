@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2951040
-description: Notes de mise à jour - Juillet 2014 - Documentation sur le marketing - Documentation du produit
+description: Notes de mise à jour - Juillet 2014 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - juillet 2014
+exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '425'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # Notes de mise à jour : Juillet 2014 {#release-notes-july}
 
-Les fonctionnalités suivantes sont incluses dans la version de juillet 2014. Veuillez vérifier la disponibilité des fonctionnalités de votre édition Marketing. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
+Les fonctionnalités suivantes sont incluses dans la version de juillet 2014. Veuillez vérifier la disponibilité des fonctionnalités de Marketo Edition. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 
 ## Calendrier marketing {#marketing-calendar}
 
-Affichez tous vos événements, courriels, etc., d’un programme à l’autre. [Ce nouveau ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) produit sera disponible sans frais pour les clients comptant au moins 10 utilisateurs de la gestion des pistes ou de la boîte de dialogue Marketing to Lead Management.
+Afficher l’ensemble des événements, des e-mails et bien plus dans les programmes. [Ce nouveau ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) produit sera disponible gratuitement pour les clients comptant au moins 10 utilisateurs de la gestion des pistes Marketo ou de la boîte de dialogue.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
 La documentation du calendrier marketing sera disponible au moment de la publication.
 
-## Nouvelle apparence {#new-look-and-feel}
+## Nouvelles présentation et fonctionnalités {#new-look-and-feel}
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-La gestion des pistes de marketing sera mise à jour avec une nouvelle apparence moderne et élégante, avec une navigation mise à jour.
+La gestion des pistes de Marketo sera mise à jour avec une nouvelle apparence moderne et élégante, avec une navigation mise à jour.
 
 ## Opérateurs de date {#date-operators}
 
@@ -37,7 +37,7 @@ La gestion des pistes de marketing sera mise à jour avec une nouvelle apparence
 
 ![](assets/image2014-9-22-14-3a24-3a39.png)
 
-## vue de Planning du programme {#program-schedule-view}
+## Affichage de la planification des programmes {#program-schedule-view}
 
 Outre le calendrier marketing avec lequel vous gérez vos événements et vos programmes par défaut, une nouvelle vue de planification est disponible directement sur le programme.
 
@@ -60,7 +60,7 @@ Plus de **50 fois plus rapide**, vos fichiers vont zoomer dans Marketo ! Les anc
 
 L’option &quot;Ignorer les nouvelles pistes et mises à jour&quot; reste inchangée.
 
-## Nouveau Munchkin amélioré ! {#new-improved-munchkin}
+## Nouveau Munchkin amélioré! {#new-improved-munchkin}
 
 Le déploiement débutera à la mi-juillet et se poursuivra au cours des prochains mois.
 
