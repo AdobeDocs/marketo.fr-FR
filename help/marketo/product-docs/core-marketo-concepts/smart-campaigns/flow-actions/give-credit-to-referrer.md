@@ -1,26 +1,26 @@
 ---
 unique-page-id: 1147040
-description: Attribuer du crédit au Parrain - Docs marketing - Documentation du produit
-title: Attribuer du crédit au Parrain
+description: Attribuer du crédit au Parrain - Documents Marketo - Documentation du produit
+title: Créditer le référent
+exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-
-# Attribuer le crédit au Parrain {#give-credit-to-referrer}
+# Créditer le référent {#give-credit-to-referrer}
 
 ## Aperçu {#overview}
 
 Lors de l’exécution d’une offre de référence [référente](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou d’un tirage [de ](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez attribuer du crédit au parrain en utilisant différentes méthodes :
 
-* Visites référencées
-* Abonnements référencés
-* **Déclencheur de Liste dynamique**
-* Événement JavaScript personnalisé
+* Visites sur recommandation
+* Inscription sur parrainage
+* **Déclencheur de liste intelligente**
+* Événement personnalisé JavaScript
 
 Si vous choisissez d’utiliser l’option **Déclencheur de Liste dynamique** pour spécifier un objectif, vous devez utiliser l’étape de flux **Attribuer du crédit au Parrain**.
 
