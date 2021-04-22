@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359418
-description: Importer une Liste de personnes - Documents marketing - Documentation du produit
+description: Importer une Liste de personnes - Documents Marketo - Documentation du produit
 title: Importer une Liste de personnes
+exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Importer une Liste de personnes {#import-a-list-of-people}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un fichier de feuille de calcul dans Marketing Cloud.
+Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un fichier de feuille de calcul vers Marketo.
 
 ## Étape 1 : Télécharger et modifier une feuille de calcul {#step-download-and-edit-a-spreadsheet}
 
@@ -43,7 +43,7 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
 >
 >Entrez votre véritable adresse de courriel dans le fichier CSV afin de recevoir les messages de soutien que vous enverrez lors de la prochaine mission.
 
-## Étape 2 : Créer un Programme {#step-create-a-program}
+## Étape 2 : Créer un programme {#step-create-a-program}
 
 1. Accédez à la zone **Activités marketing**.
 
@@ -100,11 +100,11 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
    >En mode d’importation de Liste, le fait de sélectionner **Ignorer les nouvelles personnes et les mises à jour** signifie que vous n’aurez aucun impact sur les enregistrements de personne existants ou n’enregistrerez aucune activité. Utilisez ce mode si vous souhaitez une liste statique rapide et préfiltrée de personnes existantes à utiliser dans vos activités marketing. Si vous sélectionnez ce mode, les options suivantes seront disponibles :
    >
    > * Ignorer la création de nouvelles personnes
-   > * Ignorer les mises à jour des champs de personne
-   > * Ignorer la journalisation des activités
+   > * Ignorer les mises à jour du champ individu
+   > * Ignorer la journalisation d&#39;activité
 
 
-1. Faites correspondre vos champs de colonne de Liste à leur champ Marketo respectif, puis cliquez sur **Suivant**.
+1. Faites correspondre vos champs de colonne de Liste à leur champ de Marketo respectif et cliquez sur **Suivant**.
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
@@ -114,7 +114,7 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
 
    >[!NOTE]
    >
-   >Si vous ne souhaitez pas importer de champs, sélectionnez **Ignorer** dans le menu déroulant Champ marketing.
+   >Si vous ne souhaitez pas importer de champs, sélectionnez **Ignorer** dans le menu déroulant Champ Marketo.
 
 1. Sélectionnez **Mon Programme de commerce** pour le **Programme d&#39;acquisition**, puis cliquez sur **Importer**.
 
@@ -132,12 +132,12 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
 >
 >Vous pouvez analyser la réussite de votre programme en suivant l&#39;adhésion au programme. En savoir plus sur [**Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
-## Fin de la mission {#mission-complete}
+## Mission accomplie {#mission-complete}
 
-Vos participants au salon sont maintenant membres de votre programme Marketo !
+Les participants au salon sont désormais membres de votre programme Marketo !
 
 <br> 
 
 [Mission 4 : Réponse automatique par courriel](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[Mission 6 : Déchets, gouttes, nourriture ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[Mission 6 : Marketing goutte à goutte et fidélisation ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
