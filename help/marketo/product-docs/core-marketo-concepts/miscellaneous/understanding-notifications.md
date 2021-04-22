@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2952292
-description: Présentation des notifications - Documents marketing - Documentation du produit
+description: Présentation des notifications - Documents Marketo - Documentation du produit
 title: Présentation des notifications
+exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Présentation des notifications {#understanding-notifications}
 
-Les notifications vous permettent de rester informé des événements système survenant dans votre abonnement Marketing. Par exemple, les notifications d’échec de Campaign vous informent sur les erreurs de vos campagnes actives et les notifications de synchronisation de la gestion de la relation client vous signalent les problèmes critiques détectés avec la synchronisation de la gestion de la relation client, tels que des autorisations incorrectes ou la synchronisation en cours de désactivation.
+Les notifications vous permettent de rester informé des événements système qui se produisent dans votre abonnement Marketo. Par exemple, les notifications d’échec de Campaign vous informent sur les erreurs de vos campagnes actives et les notifications de synchronisation de la gestion de la relation client vous signalent les problèmes critiques détectés avec la synchronisation de la gestion de la relation client, tels que des autorisations incorrectes ou la synchronisation en cours de désactivation.
 
 ## Aperçu {#overview}
 
