@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377958
-description: Historique de connexion des utilisateurs - Documents marketing - Documentation du produit
+description: Historique de connexion des utilisateurs - Documents Marketo - Documentation du produit
 title: Historique de connexion des utilisateurs
+exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Historique de connexion de l&#39;utilisateur {#user-login-history}
 
