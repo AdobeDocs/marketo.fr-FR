@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360325
-description: Autoriser l’utilisateur à accéder à un espace de travail - Documents marketing - Documentation du produit
+description: Autoriser l’utilisateur à accéder à un espace de travail - Documents Marketo - Documentation du produit
 title: Autoriser l’accès utilisateur à un espace de travail
+exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # Autoriser l’accès utilisateur à un espace de travail {#allow-user-access-to-a-workspace}
 
@@ -43,4 +43,4 @@ Les espaces de travail peuvent être utilisés pour n’importe quelle raison (p
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-Super ! Désormais, lorsqu’ils se connectent, ils voient tous les espaces de travail auxquels vous leur avez donné accès.
+Fantastique ! Désormais, lorsqu’ils se connectent, ils voient tous les espaces de travail auxquels vous leur avez donné accès.
