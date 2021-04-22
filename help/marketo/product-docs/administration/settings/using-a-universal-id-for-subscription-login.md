@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100311
-description: Utilisation d’un ID universel pour la connexion à l’Abonnement - Documents marketing - Documentation du produit
+description: Utilisation d’un ID universel pour la connexion à l’Abonnement - Documents Marketo - Documentation du produit
 title: Utilisation d’un ID universel pour la connexion à un Abonnement
+exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 0%
 
 ---
 
-
 # Utilisation d’un ID universel pour la connexion à l’Abonnement {#using-a-universal-id-for-subscription-login}
 
-Un ID universel vous permet d’accéder à plusieurs abonnements du marketing à l’aide d’une seule connexion et de basculer rapidement d’un abonnement à l’autre. Cependant, si vous le souhaitez, vous pouvez utiliser des identifiants de connexion différents pour vos abonnements.
+Un ID universel permet d’accéder à plusieurs abonnements Marketo à l’aide d’une seule connexion et de basculer rapidement d’un abonnement à l’autre. Cependant, si vous le souhaitez, vous pouvez utiliser des identifiants de connexion différents pour vos abonnements.
 
 Avec l’ID universel, vous créez toujours des tickets d’assistance pour chacun de vos abonnements.
 
@@ -21,7 +21,7 @@ Les paramètres au niveau de l’Abonnement sont respectés pour les utilisateur
 
 ## Configuration d’un ID universel {#setting-up-a-universal-id}
 
-De chaque instance individuelle, l’administrateur de Marketing Cloud doit vous inviter à accéder à chacun de vos abonnements différents avec la même connexion. Marketo ne peut pas fusionner automatiquement vos identifiants de connexion existants. Une fois que vous avez activé l’ID universel, **votre instance de Marketo sera indisponible** pendant 30 minutes au maximum. Si vous disposez d’une plus grande base d’utilisateurs, elle peut être un peu plus longue.
+A partir de chaque instance individuelle, l’administrateur Marketo doit vous inviter à chacun de vos abonnements différents avec la même connexion. Marketo ne peut pas fusionner automatiquement vos connexions existantes. Une fois l’identifiant universel activé, **votre instance Marketo ne sera pas disponible** pendant 30 minutes au maximum. Si vous disposez d’une plus grande base d’utilisateurs, elle peut être un peu plus longue.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ De chaque instance individuelle, l’administrateur de Marketing Cloud doit vous
 
 ## Connexion {#logging-in}
 
-Lorsque vous vous connectez pour accepter une invitation à un deuxième abonnement à l’aide d’un ID universel, la page de connexion d’inclusion s’affiche. Ici, vous devez cocher une case pour accepter les termes et conditions. Après avoir accepté, vous verrez la page de réinitialisation normale, pas celle-ci, pour les connexions suivantes. En acceptant les termes et conditions, vous autorisez Marketing à distribuer vos données de profil de base (telles que le prénom, le nom et l’adresse électronique) aux centres de données dans différents emplacements où votre abonnement est hébergé.
+Lorsque vous vous connectez pour accepter une invitation à un deuxième abonnement à l’aide d’un ID universel, la page de connexion d’inclusion s’affiche. Ici, vous devez cocher une case pour accepter les termes et conditions. Après avoir accepté, vous verrez la page de réinitialisation normale, pas celle-ci, pour les connexions suivantes. En acceptant les termes et conditions, vous autorisez Marketo à distribuer vos données de profil de base (telles que le prénom, le nom et l’adresse électronique) aux centres de données dans différents emplacements où votre abonnement est hébergé.
 
 ![](assets/new-login-reduced-hands-name.png)
 
@@ -65,11 +65,11 @@ Si vous avez plusieurs abonnements, vous pouvez avoir plusieurs profils de commu
 
 ## Plateforme mobile {#mobile-platform}
 
-Les utilisateurs disposant d’un ID universel peuvent consulter leurs données sur les moments marketing et l’application d’enregistrement de événement iPad depuis l’abonnement sur lequel ils se sont connectés pour la dernière fois. Vous ne pouvez pas modifier les abonnements à partir de la plate-forme mobile elle-même.
+Les utilisateurs disposant d’un ID universel peuvent consulter leurs données sur Marketo Moments et l’application d’enregistrement de événement iPad depuis l’abonnement sur lequel ils se sont connectés pour la dernière fois. Vous ne pouvez pas modifier les abonnements à partir de la plate-forme mobile elle-même.
 
 >[!MORELIKETHIS]
 >
 >* [Ajouter la connexion unique à un portail](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Restreindre la connexion utilisateur à SSO uniquement](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Invitation d’utilisateurs de Marketing Cloud à deux instances avec un ID universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Limiter la connexion de l&#39;utilisateur aux connexions par signature unique](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Invitation d’utilisateurs Marketo à deux instances avec un identifiant universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
