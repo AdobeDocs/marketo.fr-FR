@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360198
-description: Créer, supprimer, modifier et modifier un rôle utilisateur - Documents marketing - Documentation du produit
+description: Créer, supprimer, modifier et modifier un rôle utilisateur - Marketo Docs - Documentation du produit
 title: Créer, supprimer, modifier et modifier un rôle utilisateur
+exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
 
-
 # Créer, supprimer, modifier et modifier un rôle utilisateur {#create-delete-edit-and-change-a-user-role}
 
-**Regrouper** plusieurs autorisations. **** Permissionsallow vous conseille de faire des trucs sur Marketo. Vous affectez un **rôle** à un utilisateur. Facile comme de la tarte.
+**Regrouper** plusieurs autorisations. **** Permissionsallow vous permet de faire des trucs à Marketo. Vous affectez un **rôle** à un utilisateur. Facile comme de la tarte.
 
 >[!NOTE]
 >
@@ -97,4 +97,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Si vous laissez plusieurs rôles sélectionnés, l’autorisation par défaut de Marketo est la plus restrictive.
+>Si vous laissez plusieurs rôles sélectionnés, Marketo utilisera par défaut l’autorisation la plus restrictive.
