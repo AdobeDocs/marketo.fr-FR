@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147102
-description: Création d’une entrée dans la Vue de Planning du programme - Documentation sur le marketing - Documentation du produit
+description: Création d'une entrée dans la Vue de Planning du programme - Marketo Docs - Documentation du produit
 title: Création d’une entrée dans la Vue de Planning du programme
+exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # Création d&#39;une entrée dans la Vue de Planning du programme {#creating-an-entry-in-the-program-schedule-view}
 
@@ -59,7 +59,7 @@ Vous pouvez créer des entrées à partir de la vue de Planning du programme pou
 
    >[!NOTE]
    >
-   >La tâche est une [entrée personnalisée](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Vous pouvez créer des tâches et d’autres entrées personnalisées pour vous aider à effectuer le suivi des points de l’ordre du jour non liés au marketing.
+   >La tâche est une [entrée personnalisée](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Vous pouvez créer des tâches et d’autres entrées personnalisées pour assurer le suivi des points de l’ordre du jour qui ne sont pas liés à Marketo.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
