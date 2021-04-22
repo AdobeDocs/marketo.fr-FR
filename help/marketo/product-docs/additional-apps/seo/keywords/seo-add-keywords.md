@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949204
-description: SEO - Mots-clés d'Ajoute - Docs marketing - Documentation du produit
+description: SEO - Mots-clés d'Ajoute - Docs Marketo - Documentation du produit
 title: SEO - Mots-clés d'Ajoute
+exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Mots-clés d&#39;Ajoute {#seo-add-keywords}
 
