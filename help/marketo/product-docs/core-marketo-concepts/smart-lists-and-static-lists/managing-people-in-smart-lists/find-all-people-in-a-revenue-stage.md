@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557331
-description: Rechercher toutes les personnes en phase de recettes - Documents marketing - Documentation du produit
+description: Rechercher toutes les personnes en phase de recettes - Documents Marketo - Documentation sur les produits
 title: Rechercher toutes les personnes dans une phase de recettes
+exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # Rechercher toutes les personnes dans une phase de recettes {#find-all-people-in-a-revenue-stage}
 
@@ -39,4 +39,4 @@ Maintenant que vous savez quelles personnes sont à quel stade du chiffre d&#39;
 
    ![](assets/six.png)
 
-   A partir de là, vous pouvez choisir quels membres sont affectés par l&#39;aspect de l&#39;étape de flux. Amusant !
+   A partir de là, vous pouvez choisir quels membres sont affectés par l&#39;aspect de l&#39;étape de flux. Amusant!
