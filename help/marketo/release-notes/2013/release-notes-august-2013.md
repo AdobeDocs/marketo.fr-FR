@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951058
-description: Notes de mise à jour - août 2013 - Documentation sur le marketing - Documentation du produit
+description: Notes de mise à jour - Août 2013 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - août 2013
+exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
-
 
 # Notes de mise à jour : Août 2013 {#release-notes-august}
 
 Les fonctionnalités suivantes sont incluses dans la version d’août 2013.
 
-**Courriers électroniques Texte uniquement**
+**E-mails en texte brut**
 
 Vous pouvez désormais envoyer [uniquement la version textuelle](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) d’un courrier électronique. N’oubliez pas que les liens ne seront pas décorés lors de l’utilisation de cette option.
 
@@ -35,9 +35,9 @@ Utilisez la [nouvelle fonction de test](/help/marketo/product-docs/email-marketi
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
-## Test d’envoi personnalisé {#personalized-send-test}
+## Tester un envoi personnalisé {#personalized-send-test}
 
-Lorsque vous envoyez un test par courrier électronique, vous pouvez sélectionner le nom d&#39;une piste pour personnaliser le courrier électronique de test.
+Lorsque vous envoyez un e-mail test, vous pouvez choisir le nom d&#39;un lead pour personnaliser l&#39;e-mail test.
 
 ![](assets/image2014-9-22-16-3a35-3a15.png)
 
@@ -47,18 +47,18 @@ Utilisez ces [nouveaux jetons](/help/marketo/product-docs/email-marketing/genera
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
-## Nettoyage Campaign de déclencheur automatique {#automatic-trigger-campaign-cleanup}
+## Nettoyage des campagnes à déclencheurs automatique {#automatic-trigger-campaign-cleanup}
 
-Marketo vous avertira régulièrement et [désactivera automatiquement les campagnes de déclenchement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) qui ne se sont pas exécutées au cours des six derniers mois.
+Marketo vous avertit maintenant régulièrement et [désactivera automatiquement les campagnes de déclenchement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) qui ne se sont pas exécutées au cours des six derniers mois.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
-## Amélioration de la gestion financière du marketing {#marketo-financial-management-enhancement}
+## Marketo Financial Management Enhancement {#marketo-financial-management-enhancement}
 
 ### Mise à jour des coûts du programme {#program-cost-update}
 
 La synchronisation des coûts de programme permet le suivi des coûts de programme sur plusieurs plateformes.
 
-### Cobalt User Interface {#cobalt-user-interface}
+### Interface utilisateur cobalt {#cobalt-user-interface}
 
-Nous poursuivons le déploiement de notre nouvelle interface Cobalt. Ce projet rendra tout dans Marketo super rapide ! La mise à niveau se poursuivra jusqu’à la fin de l’année.
+Nous poursuivons le déploiement de notre nouvelle interface Cobalt. Ce projet rendra tout à Marketo super joli ! La mise à niveau se poursuivra jusqu’à la fin de l’année.
