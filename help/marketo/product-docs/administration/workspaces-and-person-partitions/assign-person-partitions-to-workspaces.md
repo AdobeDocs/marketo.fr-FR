@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360317
-description: Affecter des partitions de personne à des espaces de travail - Documents marketing - Documentation du produit
+description: Affecter des partitions de personne à des espaces de travail - Marketo Docs - Documentation du produit
 title: Affecter des partitions à des espaces de travail
+exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Affecter des partitions à des espaces de travail {#assign-person-partitions-to-workspaces}
 
@@ -25,7 +25,7 @@ Voici comment modifier les affectations de partition/espace de travail de la per
 
 >[!CAUTION]
 >
->Les espaces de travail et les partitions de personne peuvent être complexes. Pour obtenir de l&#39;aide sur leur configuration, veuillez contacter le [support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Les espaces de travail et les partitions de personne peuvent être complexes. Veuillez contacter le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour obtenir de l&#39;aide sur leur configuration.
 
 1. Sous Admin, cliquez sur **Espaces de travail et partitions**.
 
