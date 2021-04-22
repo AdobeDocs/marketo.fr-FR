@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512270
-description: Ajouter Adobe Connect en tant que service LaunchPoint - Marketo Docs - Documentation sur les produits
+description: Ajouter Adobe Connect en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter Adobe Connect en tant que service LaunchPoint
+exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter Adobe Connect comme service LaunchPoint {#add-adobe-connect-as-a-launchpoint-service}
 
