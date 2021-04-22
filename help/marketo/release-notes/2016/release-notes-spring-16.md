@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11370952
-description: Notes de mise à jour - Printemps 2016 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Printemps 2016 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Printemps 2016
+exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 translation-type: tm+mt
-source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%
 
 ---
 
-
 # Notes de mise à jour : Printemps &#39;16 {#release-notes-spring}
 
 Les fonctionnalités suivantes sont incluses dans la version du printemps 16. Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction.
 
-## [Informations sur les courriels](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
+## [Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
 Email Insights est une toute nouvelle expérience historique d&#39;analyse des e-mails d&#39;agrégat de données — repensée de bout en bout pour des performances d&#39;éclair rapides dans le cadre du projet Orion. Il présente une toute nouvelle interface utilisateur optimisée pour répondre aux besoins et au flux de travail des spécialistes du marketing par courriel.
 
@@ -25,7 +25,7 @@ Email Insights est une toute nouvelle expérience historique d&#39;analyse des e
 
 ![](assets/two.png)
 
-## [Sélecteur de modèles de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
+## [Sélectionneur de modèle d’e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
 
 Créez de beaux e-mails à l&#39;aide de nos nouveaux modèles de démarrage ! En outre, localisez rapidement vos modèles à partir de leurs miniatures actives.
 
@@ -43,7 +43,7 @@ C&#39;est exact, un tout nouveau rédacteur en chef de l&#39;e-mail ! Utilisez l
 
 ## [Messages intégrés mobiles](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md) {#mobile-in-app-messages}
 
-Créez des messages in-app époustouflants pour votre application directement dans Marketing Cloud. Définissez exactement qui doit le voir et quand avec le programme de messages in-app. Contrôlez facilement ses performances avec le tableau de bord de programme.
+Créez des messages intégrés époustouflants pour votre application directement à Marketo. Définissez exactement qui doit le voir et quand avec le programme de messages in-app. Contrôlez facilement ses performances avec le tableau de bord de programme.
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
@@ -55,11 +55,11 @@ Les jours où vous devez tout réapprouver chaque fois qu&#39;un fragment est mi
 
 ## [API de landing page, de modèle de Landing page et de formulaire](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
-Les API REST de Marketo prennent désormais en charge le contrôle des landings page, modèles de landing page et formulaires de Marketo. Les utilisateurs peuvent désormais créer, mettre à jour du contenu, approuver et supprimer ces ressources directement via l’API REST de Marketing Cloud.
+Les API REST de Marketo prennent désormais en charge le contrôle des landings page Marketo, des modèles de landing page et des formulaires. Les utilisateurs peuvent désormais créer, mettre à jour du contenu, approuver et supprimer ces ressources directement via l’API Marketo REST.
 
 ## [LISTE AUTORISÉE IP pour l’accès à l’API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Tout comme la fonction d’liste autorisée IP pour les identifiants de connexion utilisateur de Marketing Cloud, les administrateurs de Marketing Cloud peuvent désormais configurer une liste autorisée d’adresses IP qui peuvent accéder aux API SOAP et REST de Marketo, bloquant ainsi l’accès à partir d’adresses IP non autorisées. Ceci fournit une couche de sécurité supplémentaire à votre instance de Marketing Cloud et garantit que l’accès à l’API ne peut survenir qu’à partir du réseau de votre organisation. Vous trouverez des détails sur la manière de configurer cette configuration sur le [site de documentation du marché](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Tout comme la fonction d’liste autorisée IP pour les connexions utilisateur Marketo, les administrateurs Marketo peuvent désormais configurer une liste autorisée d’adresses IP qui peuvent accéder aux API Marketo SOAP et REST, bloquant ainsi l’accès à partir d’adresses IP non autorisées. Ceci fournit une couche de sécurité supplémentaire à votre instance Marketo et garantit que l’accès à l’API ne peut se produire qu’à partir du réseau de votre entreprise. Vous trouverez des détails sur la façon de configurer cette configuration sur le [site de documentation de Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Nouveau connecteur Microsoft Dynamics Sync haute vitesse](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -81,13 +81,13 @@ Construit sur l&#39;architecture Orion, le nouveau connecteur de dynamique à gr
 
 ## [Nom d’instance convivial](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
-Aujourd’hui, il est difficile de différencier les instances de Marketo, par exemple les instances de sandbox et de production. Cette fonctionnalité vous permet de savoir sur quelles instances vous travaillez actuellement.
+Aujourd’hui, il est difficile de différencier les instances Marketo, par exemple les instances sandbox et les instances de production. Cette fonctionnalité vous permet de savoir sur quelles instances vous travaillez actuellement.
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
 ## [Accès à temps limité pour les Abonnements](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
 
-Aujourd’hui, les utilisateurs sont invités à l’abonnement Marketo pour une durée indéterminée. Cette fonctionnalité permet aux administrateurs d’inviter des utilisateurs à rejoindre des abonnements pendant une période limitée, par exemple 2 semaines ou 1 mois.
+Aujourd&#39;hui, les utilisateurs sont invités à l&#39;abonnement de Marketo pour une durée indéterminée. Cette fonctionnalité permet aux administrateurs d’inviter des utilisateurs à rejoindre des abonnements pendant une période limitée, par exemple 2 semaines ou 1 mois.
 
 ![](assets/image2016-5-16-15-3a59-3a52.png)
 
@@ -99,4 +99,4 @@ Vous pouvez désormais vue le nombre d’enregistrements et de champs pour tous 
 
 ## Activités personnalisées {#custom-activities}
 
-Les administrateurs du marketing peuvent désormais définir et gérer leurs types d’activités personnalisées par le biais du modélisateur de définitions d’Activité personnalisée de marketing. Tout comme le Modeleur d’objet personnalisé Marketo (et conjointement avec lui), les administrateurs peuvent maintenant étendre le modèle de données en fonction de leurs besoins commerciaux exacts. Vous trouverez des informations détaillées sur l&#39;utilisation de cette fonctionnalité sur le [site de documentation du marketing](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
+Les administrateurs Marketo peuvent désormais définir et gérer leurs types d’activité personnalisés via le modeleur Marketo Custom Activité Definition. Tout comme le Modeleur d’objet personnalisé Marketo (et conjointement avec celui-ci), les administrateurs peuvent maintenant étendre le modèle de données en fonction de leurs besoins commerciaux exacts. Vous trouverez des informations détaillées sur l’utilisation de cette fonctionnalité sur le [site de documentation de Marketo](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
