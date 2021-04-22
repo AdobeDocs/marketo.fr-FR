@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355534
-description: Notes de mise à jour - Janvier 2020 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Janvier 2020 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Janvier 2020
+exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '838'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Notes de mise à jour : Jan 2020 {#release-notes-jan}
 
-Les fonctionnalités suivantes sont incluses dans la version du 20 janvier. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
+Les fonctionnalités suivantes sont incluses dans la version du 20 janvier. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités.
 
 >[!AVAILABILITY]
 >
@@ -32,11 +32,11 @@ Les fonctionnalités suivantes seront publiées le **17 janvier 2020**.
 >Pour l’heure, AEM Sélecteur de ressources n’est entièrement pris en charge que dans Firefox. Il n’est pas pris en charge dans Safari et peut ne pas fonctionner dans la dernière version de Chrome (v. 80), selon vos paramètres de cookie SameSite.
 
 * **Microsoft Dynamics - Piste de synchronisation vers CRM en temps** réel : Synchronisation en temps réel des pistes et des contacts entre Marketo Engage et Microsoft Dynamics. Créez des pistes ou des contacts et visualisez-les dans Microsoft Dynamics immédiatement avec l&#39;action de flux &quot;Synchroniser la personne avec Microsoft&quot;.
-* **Mappage** de champs supplémentaire de LinkedIn Lead Gen Forms : Capturez les données de pistes à partir de la Forms LinkedIn Lead Gen afin de créer des expériences plus pertinentes pour les points de contact commerciaux et marketing. Extrayez les champs masqués, les champs de consentement et le test mène le champ au Marketo Engage.
+* **Correspondance** de champs supplémentaires de linkedIn Lead Gen Forms : Capturez les données de piste de LinkedIn Lead Gen Forms afin de créer des expériences plus pertinentes pour les points de contact commerciaux et marketing. Extrayez les champs masqués, les champs de consentement et le test mène le champ au Marketo Engage.
 * **API** Dépendances des modèles de courriel : Obtenez une liste de ressources qui dépendent d’un modèle de courrier électronique pour comprendre l’étendue des modifications potentielles et les dépendances des adresses aux modèles peuvent être modifiées et supprimées plus rapidement.
 * **Améliorations** de la gestion multiinstance : Accédez à l&#39;instance dont vous avez besoin rapidement avec un menu déroulant et alphabétique de vos abonnements.
 
-## Marketing basé sur le compte {#account-based-marketing}
+## Account-Based Marketing {#account-based-marketing}
 
 ![(étoile)](assets/star-yellow.svg)
 
@@ -48,7 +48,7 @@ Les fonctionnalités suivantes seront publiées le **17 janvier 2020**.
 
 Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et seront publiées au cours des prochains mois.
 
-## {#bizible}
+## Bizible {#bizible}
 
 ![(étoile)](assets/star-yellow.svg)
 
@@ -59,20 +59,20 @@ Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et
 
 * [Modification](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio) d&#39;image : Accédez aux fonctions de modification de l&#39;Adobe sans avoir à quitter le Marketo Engage. Cette nouvelle fonctionnalité vous permet d’améliorer, de recadrer et d’ajouter facilement du texte aux images directement dans Design Studio.
 
-## Sales Insight {#sales-insight}
+## Perspectives commerciales {#sales-insight}
 
 * **Actions** en masse d&#39;éclair Salesforce : Améliorez l&#39;efficacité des ventes et maintenez les acheteurs engagés dans la possibilité d&#39;ajouter jusqu&#39;à 200 contacts/pistes à des campagnes et de leur envoyer des courriels Marketo Engage en bloc avec Salesforce Lightning.
 * **Prise en charge mobile de Salesforce1** : Vous disposez maintenant d&#39;un accès mobile en continu à toutes les fonctionnalités de Sales Insight, telles que Moments intéressants et Activités Web et e-mails, directement dans l&#39;application Salesforce1.
 * **Améliorations** de l’interface utilisateur : Mise à jour de l’interface avec des améliorations de la lisibilité et une conception cohérente avec notre expérience Marketo Sky.
 
-## Connexion commerciale {#sales-connect}
+## SalesConnect {#sales-connect}
 
 * **Composants** de la grille : Optimisez votre instance Sales Connect avec de nouvelles fonctionnalités de personnalisation de grille. Choisissez les colonnes à afficher, recherchez les colonnes, sélectionnez/désélectionnez toutes les colonnes et déterminez le nombre de lignes de données à afficher sur chaque page.
 * **[Verrouillage](/help/marketo/product-docs/marketo-sales-connect/admin/content-lockdown.md)** du contenu : Optimisez l’alignement de la marque à l’aide d’un paramètre à l’échelle de l’abonnement qui contrôle si les non-administrateurs ont la possibilité de créer et de modifier des modèles et des campagnes.
 
 >[!NOTE]
 >
->* **TLS 1.0 et 1.1 Dépréciation** : Dans le cadre d&#39;un effort continu d&#39;intégration à la structure de publication de l&#39;Adobe, nous transférons la dépréciation de TLS 1.0 et TLS 1.1 au 13 janvier 2020. Des informations plus détaillées sont disponibles [ici](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>* **TLS 1.0 et 1.1 Dépréciation** : Dans le cadre d&#39;un effort continu d&#39;intégration à la structure de publication de l&#39;Adobe, nous transférons la dépréciation de TLS 1.0 et TLS 1.1 au 13 janvier 2020. Vous trouverez de plus amples informations [ici](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
    >
    >
 * **Mise à jour** du PTI 2.1+ Munchkin : En raison des modifications apportées à la politique des cookies pour Safari, Munchkin ne pourra effectuer le suivi des utilisateurs entre les sessions sur le même domaine que les sessions d’ITP que pendant 1 ou 7 jours en fonction du navigateur et de la version du navigateur utilisés par le visiteur. Pour ce faire, nous mettons en oeuvre un nouveau service Web permettant de définir les cookies Munchkin avec un en-tête Set-Cookie via la réponse HTTP. Vous trouverez plus d&#39;informations sur la façon de mettre en oeuvre ce nouveau service [ici](https://nation.marketo.com/docs/DOC-7351).
