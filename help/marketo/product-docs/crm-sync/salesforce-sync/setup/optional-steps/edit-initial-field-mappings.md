@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719287
-description: Modifier les mappages des champs initiaux - Documents marketing - Documentation du produit
+description: Modifier les mappages de champs initiaux - Documents Marketo - Documentation du produit
 title: Modifier les mappages de champs initiaux
+exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # Modifier les mappages de champs initiaux {#edit-initial-field-mappings}
 
@@ -45,7 +45,7 @@ Lorsque vous voyez un champ dans le dossier Champs non mappés, cela signifie qu
 
 ## Rompre le mappage existant {#break-existing-mapping}
 
-Si vous avez des champs portant le même nom sur le prospect et l&#39;objet de contact Marketo les mappera automatiquement. Vous pouvez les considérer comme différents et détenir des données différentes. Ventilez le mappage comme cela.
+Si vous avez des champs portant le même nom sur l&#39;objet prospect et contact, Marketo les met automatiquement en correspondance. Vous pouvez les considérer comme différents et détenir des données différentes. Ventilez le mappage comme cela.
 
 1. Cliquez sur **Modifier les mappages**.
 
@@ -61,7 +61,7 @@ Si vous avez des champs portant le même nom sur le prospect et l&#39;objet de c
 
    Sympa ! La synchronisation initiale est presque terminée.
 
-## Réinitialiser le Schéma {#reset-schema}
+## Réinitialiser le schéma {#reset-schema}
 
 1. Si vous apportez des modifications au schéma dans Salesforce lorsque vous travaillez sur les mappages, vous pouvez extraire les modifications en cliquant sur **Réinitialiser le Schéma**.
 
