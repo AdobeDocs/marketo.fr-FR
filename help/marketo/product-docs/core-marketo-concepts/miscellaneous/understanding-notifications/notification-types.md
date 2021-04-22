@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953243
-description: Types de notification - Documents marketing - Documentation du produit
+description: Types de notification - Documents Marketo - Documentation du produit
 title: Types de notification
+exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Types de notification {#notification-types}
 
 Il existe plusieurs types de notification.
 
-## Échec de Campaign {#campaign-failure}
+## Erreur de la campagne {#campaign-failure}
 
 Les échecs Campaign vous signalent des erreurs dans vos campagnes actives.
 
@@ -23,7 +23,7 @@ Les échecs Campaign vous signalent des erreurs dans vos campagnes actives.
 
 Les notifications de synchronisation CRM vous avertissent des problèmes critiques rencontrés avec la synchronisation CRM, tels que des autorisations incorrectes ou la synchronisation en cours d’arrêt.
 
-**Microsoft Dynamics**
+**Microsoft Dynamics **
 
 Les notifications Dynamics sont envoyées une fois toutes les 24 heures et contiennent des pistes qui n&#39;ont pas été synchronisées au cours de cette période. Les causes habituelles de l’échec sont les pistes de duplicata (comme ci-dessus) ou les erreurs de non-correspondance de longueur de champ.
 
@@ -43,15 +43,15 @@ Lorsque les pistes s&#39;épuisent dans un flux, nous envoyons une notification.
 
 Facebook
 
-Si vous essayez d’envoyer des pistes à Facebook sans accepter les conditions d’utilisation, ou si vous essayez d’envoyer des pistes à Facebook après avoir supprimé l’application Marketo.
+Si vous essayez d&#39;envoyer des pistes à Facebook sans accepter les conditions d&#39;utilisation, ou si vous essayez d&#39;envoyer des pistes à Facebook après avoir supprimé l&#39;application Marketo.
 
-Nettoyage Campaign du déclencheur d&#39;inactivité
+Nettoyage des campagnes à déclencheurs inexploitées
 
 Désactivez les campagnes dynamiques déclenchées qui n’obtiennent plus d’activité. En savoir plus sur le [nettoyage de campagne de déclenchement automatique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
-Lorsque Marketo ne parvient pas à créer une nouvelle audience, à se connecter ou à envoyer des courriers électroniques à LinkedIn après trois tentatives.
+Lorsque Marketo ne parvient pas à créer une nouvelle audience, à ouvrir une session ou à envoyer des courriers électroniques à LinkedIn après trois tentatives.
 
 ![](assets/linkedin.png)
 
