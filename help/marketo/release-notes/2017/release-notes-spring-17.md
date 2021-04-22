@@ -1,31 +1,31 @@
 ---
 unique-page-id: 12977439
-description: Notes de mise à jour - Printemps 2017 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Printemps 2017 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Printemps 2017
+exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '671'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
 # Notes de mise à jour : Printemps 17 {#release-notes-spring}
 
-Les fonctionnalités suivantes sont incluses dans la version du printemps 17. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
+Les fonctionnalités suivantes sont incluses dans la version du printemps 17. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités.
 
 Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction. **Remarque** : Si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
 
-## [Forms LinkedIn Lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [linkedIn Lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[Les ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) formulaires de génération de pistes LinkedIn sont un moyen plus direct pour une entreprise d&#39;exécuter des campagnes de génération de pistes sur LinkedIn. Les utilisateurs peuvent remplir des formulaires pour exprimer leur intérêt pour un produit ou un service, ce qui permet à l’entreprise de capturer les détails de la personne et de les synchroniser avec Marketo, où des processus de suivi automatisés et des activités d’routage de piste peuvent se produire.
+[Les ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Formations de génération de pistes de linkedIn sont un moyen plus direct pour une entreprise d&#39;exécuter des campagnes de génération de pistes sur LinkedIn. Les utilisateurs peuvent remplir des formulaires pour exprimer leur intérêt pour un produit ou un service, ce qui permet à l’entreprise de capturer les détails de la personne et de les synchroniser avec Marketo, où des processus de suivi automatisés et des activités de routage de piste peuvent se produire.
 
-L&#39;intégration de Marketo à LinkedIn Lead Gen Forms capture automatiquement les informations fournies par une piste dans le formulaire Lead Gen. Les actions de suivi et les notifications peuvent alors être automatisées à l&#39;aide du nouveau déclencheur et filtre **Remplit LinkedIn Lead Gen Form**.
+L&#39;intégration Marketo avec LinkedIn Lead Gen Forms capture automatiquement les informations fournies par une piste dans le formulaire Lead Gen. Les actions de suivi et les notifications peuvent alors être automatisées à l&#39;aide du nouveau déclencheur et filtre **Remplit le formulaire de piste LinkedIn**.
 
 ![](assets/release-notes-image.png)
 
-## [Expiration du modèle MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
+## [Faire expirer le modèle MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
 
 Les jours de nettoyage des modèles obsolètes dans Sales Insight sont révolus. Définissez une date d’expiration lorsque vous publierez votre courriel et nous nous occuperons de la dépublier pour vous lorsque la date d’expiration sera écoulée.
 
@@ -39,15 +39,15 @@ Les jours de nettoyage des modèles obsolètes dans Sales Insight sont révolus.
 
 Transférez facilement de grandes quantités de données sur les personnes et les activités de Marketo vers vos systèmes externes.
 
-## Améliorations d&#39;ABM {#abm-enhancements}
+## Améliorations ABM {#abm-enhancements}
 
 **[Champs personnalisés sur des comptes nommés ABM](https://docs.marketo.com/x/1wnG)**
 
-L’ABM de marketing vous permet désormais de créer jusqu’à 10 champs personnalisés sur vos comptes nommés. Vous pouvez associer ces champs personnalisés aux champs de votre objet de compte CRM et l’ABM Marketing synchronisera les données, ce qui vous permettra d’étendre vos comptes nommés ABM et de stimuler votre marketing.
+Marketo ABM vous permet désormais de créer jusqu’à 10 champs personnalisés sur vos comptes nommés. Vous pouvez associer ces champs personnalisés aux champs de votre objet de compte CRM et Marketo ABM synchronise les données, ce qui vous permet d&#39;étendre vos comptes nommés ABM et de stimuler votre marketing.
 
 **[Score percentile sur les comptes nommés ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
-Les scores du compte nommé peuvent varier considérablement. Le marketing ABM calcule désormais automatiquement un centile pour chacun de vos scores, de sorte que vous pouvez voir d’un seul coup d’oeil où chaque compte nommé est classé parmi vos autres comptes nommés.
+Les scores du compte nommé peuvent varier considérablement. Marketo ABM calcule désormais automatiquement un centile pour chacun de vos scores, de sorte que vous pouvez voir d’un seul coup d’oeil où chaque compte nommé est classé parmi vos autres comptes nommés.
 
 **[API de Liste de compte ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
@@ -65,7 +65,7 @@ Les nouveaux effets Campaign Web offrent à vos visiteurs Web une expérience pl
 * pixel atteint
 * défilement sous le pli de la page
 
-**[Campaign Web au moment de la sortie](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
+**[Campagne Web en cas d’intention de sortie](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 Capturez l’attention de votre visiteur avant qu’il ne ferme votre page. Définissez vos campagnes Web personnalisées pour qu&#39;elles s&#39;affichent uniquement lorsqu&#39;un mouvement de la souris indique que le visiteur quitte la page.
 
@@ -89,13 +89,13 @@ L&#39;archivage est un nouvel état Campaign Web qui vous permet d&#39;archiver 
 
 **[Localisation](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-La personnalisation Web est désormais proposée dans toutes les langues prises en charge par le marché (anglais, japonais, allemand, espagnol, français et portugais).
+La personnalisation Web est désormais proposée dans toutes les langues prises en charge par Marketo (anglais, japonais, allemand, espagnol, français et portugais).
 
 ## Améliorations prédictives {#predictive-enhancements}
 
 **[Localisation](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-Le contenu prédictif est désormais disponible dans toutes les langues prises en charge par le marché (anglais, japonais, allemand, espagnol, français et portugais).
+Le contenu prédictif est désormais disponible dans toutes les langues prises en charge par Marketo (anglais, japonais, allemand, espagnol, français et portugais).
 
 ## [Éditeur de texte enrichi hérité et Éditeur de formulaire 1.0 obsolète](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
