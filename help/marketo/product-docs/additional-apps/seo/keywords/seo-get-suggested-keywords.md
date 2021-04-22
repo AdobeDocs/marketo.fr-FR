@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949202
-description: SEO - Obtenir les mots-clés suggérés - Docs marketing - Documentation du produit
+description: SEO - Obtenir les mots-clés suggérés - Docs Marketo - Documentation du produit
 title: SEO - Obtenir les mots-clés suggérés
+exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # SEO - Obtenir les mots-clés suggérés {#seo-get-suggested-keywords}
 
-L’optimisation du référencement du marketing peut suggérer quels mots-clés suivre. Nous pouvons faire des suggestions en fonction d&#39;un mot-clé ou de l&#39;URL d&#39;un site. Allez-y !
+Marketo SEO peut vous suggérer les mots-clés dont vous souhaitez effectuer le suivi. Nous pouvons faire des suggestions en fonction d&#39;un mot-clé ou de l&#39;URL d&#39;un site. Allez-y !
 
 ## Obtenir des suggestions de mots-clés à l&#39;aide d&#39;un mot-clé {#get-keyword-suggestions-using-a-keyword}
 
@@ -37,7 +37,7 @@ L’optimisation du référencement du marketing peut suggérer quels mots-clés
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
-   Super ! Votre mot-clé a été ajouté.
+   Fantastique ! Votre mot-clé a été ajouté.
 
    ![](assets/image2014-9-18-10-3a54-3a16.png)
 
@@ -69,7 +69,7 @@ L’optimisation du référencement du marketing peut suggérer quels mots-clés
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
-1. Super ! Votre mot-clé a été ajouté.
+1. Fantastique ! Votre mot-clé a été ajouté.
 
    ![](assets/image2014-9-18-11-3a8-3a25.png)
 
