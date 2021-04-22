@@ -1,28 +1,28 @@
 ---
-description: Activer la synchronisation Campaign - Documents marketing - Documentation du produit
-title: Activer Campaign Sync
+description: Activer la synchronisation Campaign - Docs Marketo - Documentation du produit
+title: Activer la synchronisation de la campagne
+exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# Activer Campaign Sync {#enable-campaign-sync}
+# Activer la synchronisation de la campagne {#enable-campaign-sync}
 
 Cette option permet à Marketo d&#39;ajouter et de supprimer des membres de MS Dynamics Campaign.
 
 >[!PREREQUISITES]
 >
->Mettez à jour vers la dernière version du module externe Dynamics pour Marketing.
+>Mettez à jour vers la dernière version du module externe Dynamics pour Marketo.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans votre site Web Mon marketing, cliquez sur **Admin**.
+1. Dans votre Marketo My, cliquez sur **Admin**.
 
    ![](assets/enable-campaign-sync-1.png)
 
