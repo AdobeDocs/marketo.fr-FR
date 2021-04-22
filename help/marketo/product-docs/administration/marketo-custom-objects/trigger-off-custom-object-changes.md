@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378713
-description: Déclencher les modifications d'objets personnalisés - Documents marketing - Documentation du produit
+description: Déclencheur des modifications d’objets personnalisés - Documents Marketo - Documentation du produit
 title: Déclencher les modifications d’objet personnalisé
+exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # Déclencher les modifications d&#39;objet personnalisé {#trigger-off-custom-object-changes}
 
@@ -18,12 +18,12 @@ ht-degree: 0%
 >Cette fonctionnalité est disponible uniquement :
 >
 >* Pour les clients de l&#39;infrastructure Orion
->* Pour une utilisation uniquement avec des objets personnalisés de Marketo, et non avec des objets personnalisés synchronisés via l&#39;intégration native Salesforce ou Microsoft Dynamics
+>* Pour une utilisation uniquement avec des objets personnalisés Marketo, et non avec des objets personnalisés synchronisés via l&#39;intégration native Salesforce ou Microsoft Dynamics
 >* Comme déclencheur, pas comme filtre
 
 >
 >
-Veuillez contacter [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support) pour activer les déclencheurs de modification d&#39;objet personnalisé.
+Pour activer les déclencheurs de modification d&#39;objet personnalisé, contactez le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Dans la liste intelligente d’une campagne dynamique, vous pouvez déclencher une action d’enchaînement lorsqu’un objet personnalisé est ajouté à une personne ou à une société. Vous pouvez également créer une liste dynamique qui utilise comme déclencheur *change* dans un objet personnalisé. Par exemple, utilisez-la pour envoyer un courriel lorsqu’un nom de cours est mis à jour.
 
@@ -58,5 +58,5 @@ Dans la liste intelligente d’une campagne dynamique, vous pouvez déclencher u
    >[!NOTE]
    >
    >* [Création d’une Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >* [Compréhension des objets personnalisés de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+   >* [Présentation des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
