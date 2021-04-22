@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949262
-description: SEO - Supprimer une page - Documents marketing - Documentation du produit
+description: SEO - Supprimer une page - Docs Marketo - Documentation du produit
 title: SEO - Supprimer une page
+exl-id: 4e42d01f-a3cf-4545-b476-54de195fa7f8
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Supprimer une page {#seo-remove-delete-a-page}
 
