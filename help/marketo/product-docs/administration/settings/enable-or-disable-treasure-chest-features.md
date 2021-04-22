@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360307
-description: Activation ou désactivation des fonctionnalités du coffre à trésors - Documents marketing - Documentation du produit
+description: Activation ou désactivation des fonctionnalités du coffre à trésors - Marketo Docs - Documentation du produit
 title: Activation ou désactivation des fonctionnalités du coffre à trésors
+exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # Activation ou désactivation des fonctionnalités de la poitrine de trésor {#enable-or-disable-treasure-chest-features}
 
