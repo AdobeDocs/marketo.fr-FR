@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360293
-description: Renommer un champ - Documents marketing - Documentation du produit
+description: Renommer un champ - Documents Marketo - Documentation du produit
 title: Renommer un champ
+exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
-
 
 # Renommer un champ {#rename-a-field}
 
@@ -41,4 +41,4 @@ Beau boulot ! Vous savez maintenant comment renommer des champs dans Marketo.
 
 >[!CAUTION]
 >
->Si vous renommez le nom de l’API dans Salesforce, Marketo crée un nouveau champ et laisse l’ancien derrière vous !
+>Si vous renommez le nom de l’API dans Salesforce, Marketo créera un nouveau champ et laissera l’ancien derrière vous !
