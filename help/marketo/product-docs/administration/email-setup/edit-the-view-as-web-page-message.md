@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360253
-description: Modifier le message "Vue en tant que page Web" - Documents marketing - Documentation du produit
+description: Modifier le message "Vue en tant que page Web" - Marketo Docs - Documentation du produit
 title: Modifier le message "Vue en tant que page Web"
+exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Modifier le message &quot;Vue en tant que page Web&quot; {#edit-the-view-as-web-page-message}
 
@@ -51,11 +51,11 @@ Voilà. Envoyer des courriers électroniques de test pour assurer la mise en for
 
 Si vous devez revenir au système par défaut &quot;Vue en tant que page Web&quot;, copiez/collez les éléments suivants :
 
-**Vue en tant que page Web HTML :**
+**Afficher sur une Page Internet HTML :**
 
 `<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>`
 
-**Vue en tant que texte de page Web :**
+**Afficher sur une Page Internet Texte:**
 
 Pour vue de ce courrier électronique en tant que page Web, accédez à l’adresse suivante :
 `<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` Boom ! Vous avez terminé.
