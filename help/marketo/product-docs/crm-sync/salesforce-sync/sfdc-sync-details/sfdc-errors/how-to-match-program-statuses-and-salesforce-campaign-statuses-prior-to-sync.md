@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360370
-description: Comment faire correspondre les états de Programme et les états de Campaign de Salesforce avant la synchronisation - Docs marketing - Documentation du produit
+description: Comment faire correspondre les états de Programme et les états de Campaign de Salesforce avant synchronisation - Marketo Docs - Documentation du produit
 title: Comment faire correspondre les états de Programme et les états de Campaign de Salesforce avant synchronisation
+exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
 
 ---
 
-
 # Comment faire correspondre les états de Programme et les états de Campaign de Salesforce avant synchronisation {#how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync}
 
-Cet article décrit comment corriger une erreur d’état incompatible et mapper les états avant la synchronisation de Marketo Programme et de Salesforce Campaign.
+Cet article décrit comment corriger une erreur d’état incompatible et mapper les états avant la synchronisation Marketo Programme et Salesforce Campaign.
 
 ## Que faire si vous avez reçu un message d&#39;erreur {#what-do-you-do-if-you-received-an-error-message}
 
@@ -26,5 +26,5 @@ Dans ce message d’erreur, vous pouvez opter pour :
 1. Sélectionnez une autre campagne à synchroniser dans le menu déroulant OU
 1. Vous pouvez annuler, corriger les erreurs d’état et essayer de synchroniser une fois les erreurs réparées. Pour corriger les erreurs d’état, effectuez l’une des opérations suivantes :
 
-   * Connectez-vous à Salesforce et supprimez ou renommez les États membres Campaign incompatibles afin de les mapper aux statuts du Programme Marketo utilisés pour le type de canal associé à votre Programme Marketo.
-   * Modifiez les états de Programme dans Marketo pour les mapper aux états membres de Salesforce Campaign que vous avez en place. Il s’agit d’une fonction d’administration du marketing. Pour plus d’informations, voir [Création d’un Canal de Programme](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+   * Connectez-vous à Salesforce et supprimez ou renommez les États membres Campaign incompatibles pour les mapper aux états Programmes Marketo utilisés pour le type de canal associé à votre Programme Marketo.
+   * Modifiez les statuts du Programme dans Marketo pour établir une correspondance avec les statuts de Campaign de Salesforce que vous avez en place. Il s’agit d’une fonction d’administration Marketo. Pour plus d’informations, voir [Création d’un Canal de Programme](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
