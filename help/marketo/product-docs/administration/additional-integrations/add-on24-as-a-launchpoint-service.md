@@ -2,18 +2,18 @@
 unique-page-id: 7512276
 description: Ajouter ON24 en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter ON24 en tant que service LaunchPoint
+exl-id: 562d6091-8a24-4625-b728-ada52d869f0c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # Ajouter ON24 en tant que service LaunchPoint {#add-on-as-a-launchpoint-service}
 
-Marketo gère votre inscription et votre participation aux webinaires ON24.
+Marketo gère votre inscription et votre participation au webinaire ON24.
 
 >[!NOTE]
 >
