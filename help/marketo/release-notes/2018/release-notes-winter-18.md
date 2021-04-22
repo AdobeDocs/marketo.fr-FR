@@ -1,41 +1,41 @@
 ---
 unique-page-id: 13795395
-description: Notes de mise à jour - Hiver 18 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Hiver 18 - Marketo Docs - Documentation sur le produit
 title: Notes de mise à jour - Hiver 18
+exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 translation-type: tm+mt
-source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '599'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-
 # Notes de mise à jour : Hiver 18 {#release-notes-winter}
 
-Les fonctionnalités suivantes sont incluses dans la version de l’hiver 18. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing.
+Les fonctionnalités suivantes sont incluses dans la version de l’hiver 18. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités.
 
 Veuillez cliquer sur les liens de titre vers les articles détaillés de la vue pour chaque fonction. **Remarque** : Certaines des fonctionnalités incluses dans cette version n’ont pas d’articles associés. Si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
 
 ## Améliorations des performances et du débit de Campaign {#campaign-performance-and-throughput-enhancements}
 
-Marketo utilise notre architecture de données massives pour augmenter le débit des campagnes de déclenchement et améliorer le traitement des activités Web, afin que vous puissiez réagir plus rapidement aux actions de votre audience.
+Marketo utilise notre architecture de données massives pour augmenter le débit des campagnes déclencheuses et améliorer le traitement des activités Web, afin que vous puissiez réagir plus rapidement aux actions de votre audience.
 
-## Améliorations apportées à l’intégration CRM Salesforce de Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Améliorations apportées à l’intégration CRM de Salesforce de Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
 
 Deux améliorations ont été apportées à notre intégration CRM Salesforce :
 
-* [Notifications de l’administrateur marketing ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) pour certains échecs de synchronisation CRM (informations d’identification expirées, limites d’API atteintes, etc.)
+* [Notifications de l’administrateur Marketo ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) pour certains échecs de synchronisation CRM (informations d’identification expirées, limites d’API atteintes, etc.)
 
 * [Possibilité de désactiver les ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) notifications par courrier électronique aux propriétaires de piste lors de l&#39;affectation de piste
 
 Ces améliorations seront mises en oeuvre en 2018.
 
-## [Informations sur les performances du marketing](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## [Marketo Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
 >[!AVAILABILITY]
 >
->Performance Insights est un produit complémentaire. Veuillez contacter votre responsable de succès client ou votre responsable de compte pour obtenir un devis.
+>Performance Insights est un produit complémentaire. Veuillez contacter votre responsable de succès client ou votre responsable de compte Marketo pour obtenir un devis.
 
 Découvrez comment vos campagnes et vos canaux affectent les résultats de l’entreprise grâce aux analyses d’attribution, aux visualisations interactives et à un tableau de données détaillé.
 
@@ -47,13 +47,13 @@ Découvrez comment vos campagnes et vos canaux affectent les résultats de l’e
 
 Pour les clients ABM avec Salesforce ou Microsoft Dynamics, ABM hérite désormais automatiquement (et affiche) les relations parent-enfant établies dans la gestion de la relation client. Vous pourrez utiliser ces relations à la fois dans le rapports cumulé et dans l’exécution de la campagne.
 
-## Marketing par courriel {#email-marketing}
+## Marketing par e-mail {#email-marketing}
 
-**[Script de courriel dynamique](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
+**[Script de messagerie dynamique](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
-Les scripts Velocity sont désormais pris en charge dans les courriers électroniques utilisant du contenu dynamique. Combinez du contenu dynamique basé sur la vitesse et la segmentation pour créer des courriers électroniques hautement personnalisés.
+Les scripts Velocity sont désormais pris en charge dans les e-mails utilisant du contenu dynamique. Combinez du contenu dynamique basé sur la vitesse et la segmentation pour créer des courriers électroniques hautement personnalisés.
 
-**Fuseau horaire destinataire**
+**Fuseau horaire du destinataire**
 
 * **[Cadence](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)** d&#39;allaitement mensuel : Nous avons ajouté la possibilité de programmer des programmes d&#39;éducation sur une cadence mensuelle.
 
@@ -61,39 +61,39 @@ Les scripts Velocity sont désormais pris en charge dans les courriers électron
 
 ## Intégrations des réseaux publicitaires {#ad-network-integrations}
 
-**[Intégration de la correspondance client Google](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
+**[Intégration du ciblage par liste de clients de Google](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-Avec cette intégration, vous pouvez envoyer une audience Marketo à Google pour qu’elle soit ciblée à l’aide de Google AdWords, ainsi que cible à nouveau des audiences sur YouTube, Search et Gmail.
+Avec cette intégration, vous pouvez envoyer une audience Marketo à Google pour qu’elle soit ciblée à l’aide de Google AdWords, ainsi que des audiences de cible à nouveau entre YouTube, Search et Gmail.
 
-**[Amélioration de l’API des Audiences mises en correspondance LinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[Amélioration de l&#39;API des Audiences linkedIn Matched](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-Notre nouvelle API LinkedIn vous permet désormais de recible des personnes dans votre base de données Marketo sur plusieurs comptes LinkedIn Campaign Manager.
+Notre nouvelle API LinkedIn vous permet désormais de recible des personnes de votre base de données Marketo sur plusieurs comptes Campaign Manager.
 
-## Personnalisation Web {#web-personalization}
+## personnalisation Web {#web-personalization}
 
 **Source de données japonaise pour la personnalisation Web**
 
 Marketo ajoute une source de données japonaise supplémentaire pour la personnalisation Web afin d’améliorer l’identification des visiteurs Web (recherche d’IP inversée) et la personnalisation pour les visiteurs venus du Japon. Les noms des organisations s’affichent en japonais.
 
-**[Création d’un segment Web à l’aide de Listes statiques](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
+**[Création d’un segment Web avec des listes statiques](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
 La personnalisation Web peut désormais personnaliser le contenu pour un visiteur Web connu qui fait partie d’une liste statique définie dans les Activités marketing (MLM). Grâce à cette amélioration, vous pouvez désormais commercialiser des listes statiques entre canaux et personnes cibles sur ces listes avec du contenu personnalisé sur votre site Web.
 
 ## ContentAI {#contentai}
 
-**Amélioration de l&#39;algorithme prédictif**
+**Amélioration de l’algorithme de prédiction**
 
-Le contenu recommandé via les algorithmes optimisés ContentAI de Marketo génère jusqu’à deux fois plus de clics que le contenu aléatoire.
+Le contenu recommandé via Marketo, les algorithmes optimisés ContentAI génèrent jusqu’à deux fois plus de clics que le contenu aléatoire.
 
 ## Intégration {#integration}
 
-**[Activer/désactiver l’API Campaign](https://developers.marketo.com/rest-api/assets/campaigns/)**
+**[Activation/désactivation de l’API de campagne](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 Cette nouvelle API vous permet d&#39;activer et de désactiver à distance les campagnes de déclenchement, de sorte que vous puissiez désormais créer des modèles de programme entièrement automatisés. Créez un modèle de programme une seule fois, puis automatisez le clonage, les mises à jour des éléments marketing collatéraux et maintenant l’activation/la planification des campagnes intelligentes.
 
 ## ToutApp {#toutapp}
 
-**Désabonner la mise à jour**
+**Mise à jour de la désinscription**
 
 À compter du 1er mars 2018, tous les courriels envoyés par [ToutApp.com](https://ToutApp.com) (et en utilisant le bouton &quot;Envoyer un courriel avec tout&quot; dans Salesforce) auront un lien de désabonnement annexé en bas.
 
@@ -101,6 +101,6 @@ Cette nouvelle API vous permet d&#39;activer et de désactiver à distance les c
 
 Nous avons mis à jour l’aspect des onglets Engagement et Tâche afin que les membres du service commercial puissent répondre plus facilement et plus rapidement aux activités de leurs clients directement à partir du flux en direct.
 
-**Mise à jour de la Vue des détails des personnes**
+**Mise à jour de la vue détaillée de personne**
 
 La Vue améliorée des détails sur les personnes (PDV) offre une vue complète de vos contacts en regroupant vos coordonnées Tout et Salesforce CRM.
