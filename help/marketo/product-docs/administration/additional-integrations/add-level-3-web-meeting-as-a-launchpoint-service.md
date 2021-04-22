@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512292
-description: Ajouter la réunion Web de niveau 3 en tant que service LaunchPoint - Marketo Docs - Documentation sur les produits
+description: Ajouter la réunion Web de niveau 3 en tant que service LaunchPoint - Marketo Docs - Documentation du produit
 title: Ajouter la réunion Web de niveau 3 en tant que service LaunchPoint
+exl-id: f419b019-33bb-446d-baf5-55393770a703
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter la réunion Web de niveau 3 en tant que service LaunchPoint {#add-level-web-meeting-as-a-launchpoint-service}
 
