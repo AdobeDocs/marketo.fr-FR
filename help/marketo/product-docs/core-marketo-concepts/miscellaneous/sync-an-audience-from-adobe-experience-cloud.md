@@ -1,14 +1,14 @@
 ---
 description: Synchroniser une Audience à partir de Adobe Experience Cloud - Marketo Docs - Documentation du produit
 title: Synchroniser une Audience à partir de Adobe Experience Cloud
+exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 translation-type: tm+mt
-source-git-commit: 05c2e89222f9316241a3929642998bddb02ff7a5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # Synchroniser une Audience à partir de Adobe Experience Cloud {#sync-an-audience-from-adobe-experience-cloud}
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Synchronisation d’une Audience {#how-to-sync-an-audience}
 
-1. Dans Mon marketing, cliquez sur la mosaïque **Base de données**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **Base de données**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
@@ -54,9 +54,9 @@ Lorsque la synchronisation des cookies est activée pour votre Abonnement Market
 
 Une autre étape est nécessaire pour associer le profil d’utilisateur anonyme à un Profil de piste, qui est identifié à l’aide d’un courrier électronique en texte brut. [est décrit ici](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
-**Pourquoi la taille de la liste dans Marketo est-elle différente de celle de l’Adobe ?**
+**Pourquoi la taille de la liste dans Marketo est-elle différente de celle de l&#39;Adobe ?**
 
-Une personne ne sera pas synchronisée si nous ne parvenons pas à lier un identifiant de cookie ECID à une personne connue dans Marketo.
+Une personne ne sera pas synchronisée si nous ne pouvons pas lier un identifiant de cookie ECID à une personne connue à Marketo.
 
 **Est-ce une synchronisation unique ?**
 
