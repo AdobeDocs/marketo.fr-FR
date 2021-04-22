@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360047
-description: Filtrage d’un rapport de Programme par Programme - Docs marketing - Documentation du produit
+description: Filtrage d’un rapport Programme par Programme - Marketo Docs - Documentation du produit
 title: Filtrage d’un rapport Programme par Programme
+exl-id: 8be2ac9e-7331-4a0d-80d6-ea2e82215919
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
-
 
 # Filtrage d’un rapport Programme par Programme {#filter-a-program-report-by-program}
 
