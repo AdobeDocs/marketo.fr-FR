@@ -1,15 +1,15 @@
 ---
 unique-page-id: 45417092
-description: Exportation utilisée par les données pour un champ - Documents marketing - Documentation du produit
+description: Exportation utilisée par les données pour un champ - Documents Marketo - Documentation du produit
 title: Exportation utilisée par les données pour un champ
+exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # Exporter les données utilisées pour un champ {#export-used-by-data-for-a-field}
 
@@ -41,4 +41,4 @@ En tant qu’administrateur, vous pouvez exporter des actifs connexes d’un cha
 
    >[!TIP]
    >
-   >Chaque ressource associée est un lien sur lequel vous pouvez cliquer et qui s’ouvre dans Marketing Cloud.
+   >Chaque ressource associée est un lien sur lequel vous pouvez cliquer et qui s’ouvre dans Marketo.
