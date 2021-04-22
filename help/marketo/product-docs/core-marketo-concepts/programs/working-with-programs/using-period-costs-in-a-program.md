@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147118
-description: Utilisation des coûts de période dans un Programme - Documents marketing - Documentation du produit
+description: Utilisation des coûts de période dans un Programme - Documents Marketo - Documentation du produit
 title: Utilisation des coûts de période dans un Programme
+exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
-
 
 # Utilisation des coûts de période dans un Programme {#using-period-costs-in-a-program}
 
