@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147091
-description: Présentation de l'adhésion au Programme - Documents marketing - Documentation du produit
+description: Présentation de l'adhésion au Programme - Documents Marketo - Documentation du produit
 title: Comprendre l'appartenance à un Programme
+exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '308'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Comprendre l&#39;appartenance au Programme {#understanding-program-membership}
 
 >[!NOTE]
 >
->Marketo est maintenant en train de normaliser la langue dans tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>Marketo normalise maintenant la langue dans tous les abonnements, de sorte que vous pouvez voir des pistes dans votre abonnement et des personnes/personnes dans docs.marketo.com. Ces termes signifient la même chose ; cela n&#39;a aucune incidence sur les instructions relatives aux articles. Il y a aussi d&#39;autres changements. [En savoir plus](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. Vous utilisez l’étape de flux [modifier l’état du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md).
 1. Une personne inscrit ou assiste à un webinaire [synchronisé avec un programme de événement](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md).
-1. Une personne est [créée à l’aide de l’application d’enregistrement d’iPad Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+1. Une personne est [créée à l’aide de l’application d’archivage Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Une personne est ajoutée à une Campaign de la DDC, qui est [synchronisée au programme](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
 >[!NOTE]
@@ -58,7 +58,7 @@ Le but d&#39;un programme est de créer une interaction significative avec la pe
 >
 >Pour un webinaire, l&#39;enregistrement n&#39;est pas une interaction significative s&#39;ils ne regardent pas vraiment le webinaire. Participer est un succès dans ce cas.
 
-## Programme d’acquisition {#acquisition-program}
+## Programme d&#39;acquisition  {#acquisition-program}
 
 Lorsqu’un nouveau nom entre dans le système en tant que membre de programme, Marketo définit automatiquement ce programme en tant que &quot;acquisition&quot;. Cela crédite l&#39;[attribution Première touche](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
