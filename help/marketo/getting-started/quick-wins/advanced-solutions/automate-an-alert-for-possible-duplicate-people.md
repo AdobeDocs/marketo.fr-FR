@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7513680
-description: Automatisation d'une alerte pour les personnes susceptibles d'être Duplicata - Documentation marketing - Documentation du produit
+description: Automatisation d'une alerte pour les éventuels Duplicata - Marketo Docs - Documentation du produit
 title: Automatisation d'une alerte pour les Duplicata possibles
+exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Automatisation d&#39;une alerte pour les personnes Duplicata {#automate-an-alert-for-possible-duplicate-people}
 
@@ -44,7 +44,7 @@ Vous souhaitez qu&#39;une alerte soit créée chaque fois que possible, une pers
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
-C&#39;est tout ! Cette campagne intelligente se déclenche chaque fois qu’une nouvelle personne portant un nom complet existant est créée dans Marketing Cloud.
+C&#39;est tout ! Cette campagne intelligente se déclenche chaque fois qu’une nouvelle personne avec un nom complet existant est créée à Marketo.
 
 >[!MORELIKETHIS]
 >
