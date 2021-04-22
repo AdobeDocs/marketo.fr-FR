@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097199
-description: Notes de mise à jour - Hiver 16 - Documents marketing - Documentation du produit
+description: Notes de mise à jour - Hiver 16 - Marketo Docs - Documentation sur le produit
 title: Notes de mise à jour - Hiver 16
+exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '505'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
-
 
 # Notes de mise à jour : Hiver 16 {#release-notes-winter}
 
@@ -25,7 +25,7 @@ La base de données des pistes comporte un Tableau de bord de résumé mis à jo
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
-## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
+## [Navigateur Microsoft Edge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
 Nous avons ajouté Microsoft Edge à la [liste des navigateurs](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) prise en charge par Marketo.
 
@@ -33,7 +33,7 @@ Nous avons ajouté Microsoft Edge à la [liste des navigateurs](https://docs.mar
 
 [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) est désormais pris en charge.
 
-## [Début d&#39;en-tête du Programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
+## [Programme d’e-mail Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
 Utilisez le Début d&#39;en-tête pour indiquer que le traitement de votre envoi doit se produire à l&#39;avance. Au lieu de qualifier les pistes et de préparer les courriels à l&#39;heure prévue du programme, l&#39;Début principal veille à ce que ces tâches soient effectuées au préalable. Ainsi, votre audience début la réception de courriels à l’heure planifiée.
 
@@ -55,9 +55,9 @@ Pour utiliser cette fonctionnalité, le programme de courriel doit être planifi
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [API programme](https://developers.marketo.com/documentation/programs/) {#program-api}
+## [Programmation et API](https://developers.marketo.com/documentation/programs/) {#program-api}
 
-Créez, mettez à jour et clonez des programmes via l’API REST. Cela n’inclut pas la création ou la mise à jour de listes intelligentes et de campagnes intelligentes au sein d’un programme.
+Créez, mettez à jour et clonez des programmes par le biais de l’API REST. Cela n’inclut pas la création ou la mise à jour de listes intelligentes et de campagnes intelligentes au sein d’un programme.
 
 ## [Améliorations de Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
@@ -75,9 +75,9 @@ Vous pouvez désormais créer des relations de type &quot;plusieurs à plusieurs
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [Publicités Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## [Publicités de lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Les pistes Facebook ](https://www.facebook.com/business/a/lead-ads) représentent un moyen plus direct pour une entreprise d&#39;exécuter des campagnes de génération de pistes sur Facebook. Les utilisateurs remplissent un formulaire pour exprimer leur intérêt pour un produit ou un service, afin que l’entreprise puisse en assurer le suivi. L&#39;intégration de Marketing Cloud avec les publicités de piste Facebook capture automatiquement les informations fournies par une piste dans le formulaire Publicité de piste. Les actions de suivi et les notifications peuvent alors être automatisées à l’aide du nouveau déclencheur &quot;Remplir les publicités de piste Facebook&quot;.
+[Facebook Lead ](https://www.facebook.com/business/a/lead-ads) admet est un moyen plus direct pour une entreprise de lancer des campagnes de génération de pistes sur Facebook. Les utilisateurs remplissent un formulaire pour exprimer leur intérêt pour un produit ou un service, afin que l’entreprise puisse en assurer le suivi. L&#39;intégration de Marketo avec les publicités de piste Facebook capture automatiquement les informations fournies par une piste dans le formulaire Publicité de piste. Les actions de suivi et les notifications peuvent alors être automatisées à l’aide du nouveau déclencheur Remplit les publicités de piste Facebook.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
