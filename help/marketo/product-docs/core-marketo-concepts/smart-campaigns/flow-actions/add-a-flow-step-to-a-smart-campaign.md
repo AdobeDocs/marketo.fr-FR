@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146944
-description: Ajouter une étape de flux vers un Campaign intelligent - Docs marketing - Documentation du produit
+description: Ajouter une étape de flux vers une Campaign - Marketo Docs - Documentation du produit
 title: Ajouter une étape de flux à un Campaign dynamique
+exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-
 # Ajouter une étape de flux à un Campaign dynamique {#add-a-flow-step-to-a-smart-campaign}
 
-Les étapes de flux indiquent à Marketing ce que vous souhaitez faire pour un groupe de personnes qui remplissent les conditions requises. Ce sont vos instructions, et la campagne intelligente fera votre affaire !
+Les étapes de flux indiquent à Marketo ce que vous souhaitez faire pour un groupe de personnes qui remplissent les conditions requises. Ce sont vos instructions, et la campagne intelligente fera votre affaire !
 
 1. Accédez à **Activités marketing**.
 
@@ -43,7 +43,7 @@ Les étapes de flux indiquent à Marketing ce que vous souhaitez faire pour un g
 >
 >Une ligne rouge ondulée apparaît en cas d&#39;entrée non valide. Passez la souris sur la ligne pour voir comment la corriger.
 
-Super ! Veillez à [examiner et valider la campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) avant de la planifier ou de l&#39;activer.
+Super ! Veillez à [examiner et valider la campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) avant de la planifier ou de l&#39;activer.
 
 >[!MORELIKETHIS]
 >
