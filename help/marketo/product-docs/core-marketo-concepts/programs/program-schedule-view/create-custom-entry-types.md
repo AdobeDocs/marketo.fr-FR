@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147245
-description: Créer des types d’entrée personnalisés - Documents marketing - Documentation du produit
+description: Créer des types d’entrée personnalisés - Documents Marketo - Documentation sur les produits
 title: Créer des types d’entrée personnalisés
+exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # Créer des types d&#39;entrée personnalisés {#create-custom-entry-types}
 
@@ -39,7 +39,7 @@ Vous pouvez créer des types d’entrée personnalisés à utiliser dans votre V
 
    ![](assets/image2014-9-15-16-3a4-3a14.png)
 
-Super ! Maintenant, lorsque vous créez une entrée dans votre vue de planification, ce type sera une option.
+Fantastique ! Maintenant, lorsque vous créez une entrée dans votre vue de planification, ce type sera une option.
 
 >[!NOTE]
 >
