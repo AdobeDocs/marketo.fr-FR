@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951124
-description: Notes de mise à jour - Jan/Fév 2012 - Documentation sur le marketing - Documentation du produit
+description: Notes de mise à jour - Janvier/Fév 2012 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Jan/Fév 2012
+exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Notes de mise à jour : Jan/fév 2012 {#release-notes-jan-feb}
 
-Les fonctionnalités suivantes sont incluses dans la version de janvier/février. Vérifiez la disponibilité des fonctionnalités de votre édition Marketing. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
+Les fonctionnalités suivantes sont incluses dans la version de janvier/février. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 
 ## Contenu dynamique avancé {#advanced-dynamic-content}
 
@@ -23,7 +23,7 @@ Grâce à un contenu dynamique avancé, vous pouvez créer des communications et
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## Segmentation {#segmentation}
+## La segmentation  {#segmentation}
 
 _Disponible pour les versions Pro et Enterprise_
 
@@ -31,7 +31,7 @@ La segmentation est un groupe de segments, qui sont un groupe ciblé d’individ
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## Extraits de code {#snippets}
+## Extraits {#snippets}
 
 _Disponible pour les versions Pro et Enterprise_
 
@@ -47,13 +47,13 @@ Grâce aux URL personnalisées (PURLs), les spécialistes du marketing peuvent d
 
 ![](assets/image2014-9-23-9-3a51-3a11.png)
 
-## Prise en charge de la directive UE sur la protection des renseignements personnels {#eu-privacy-directive-support}
+## Compatibilité avec la directive UE sur la confidentialité {#eu-privacy-directive-support}
 
 Les nouvelles fonctionnalités permettant de respecter les paramètres &quot;Ne pas suivre&quot; du navigateur incluent la possibilité de désactiver le suivi des pistes anonymes ; cela facilite le respect des réglementations européennes plus strictes en matière de suivi de la vie privée.
 
 ![](assets/image2014-9-23-9-3a51-3a32.png)
 
-## Connexion unique {#single-sign-on}
+## Authentification unique {#single-sign-on}
 
 Les entreprises peuvent désormais prendre en charge une connexion transparente à l’application Marketo à l’aide de SAML 2.0 pour la connexion unique à partir d’un portail d’entreprise.
 
