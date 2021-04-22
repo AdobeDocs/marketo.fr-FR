@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359906
-description: Gestion des utilisateurs du marketing - Documentation du marketing - Documentation du produit
-title: Gestion des utilisateurs du marketing
+description: Gestion des utilisateurs de Marketo - Documents Marketo - Documentation du produit
+title: Gestion des utilisateurs Marketo
+exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
-# Gestion des utilisateurs du marketing {#managing-marketo-users}
+# Gestion des utilisateurs de Marketo {#managing-marketo-users}
 
 ## Créer des utilisateurs {#create-users}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Une date d’expiration est idéale pour les parties prenantes externes à court terme ou les consultants qui ont besoin de Marketing pour n’y accéder que pour une courte période.
+   >Une date d’expiration est idéale pour les parties prenantes externes à court terme ou les consultants qui n’ont besoin de Marketo que pour une courte période.
 
    >[!NOTE]
    >
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 Le nouvel utilisateur est désormais répertorié dans l’onglet Utilisateurs et recevra un courrier électronique contenant des instructions sur la façon d’activer son compte.
 
-## Supprimer des utilisateurs {#delete-users}
+## Supprimer les utilisateurs {#delete-users}
 
 1. Accédez à Admin et cliquez sur **Utilisateurs et rôles**.
 
