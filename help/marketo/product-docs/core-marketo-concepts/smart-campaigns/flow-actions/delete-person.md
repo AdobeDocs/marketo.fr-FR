@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147082
-description: Supprimer une personne - Documents marketing - Documentation du produit
-title: Supprimer une personne
+description: Supprimer une personne - Documents Marketo - Documentation du produit
+title: Supprimer l’individu
+exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
-# Supprimer la personne {#delete-person}
+# Supprimer l’individu {#delete-person}
 
 Il arrive que des gens inappropriés se retrouvent dans votre base de données. L’étape de flux Supprimer la personne peut en supprimer.
 
@@ -31,7 +31,7 @@ Lorsque vous faites glisser l’étape de flux, elle est automatiquement défini
 
 ![](assets/two-4.png)
 
-Vous pouvez supprimer du marketing et non de votre gestion de la relation client, comme suit :
+Vous pouvez supprimer de Marketo et non de votre CRM, comme par exemple :
 
 ![](assets/three-3.png)
 
