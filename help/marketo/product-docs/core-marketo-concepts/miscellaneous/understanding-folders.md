@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720779
-description: Présentation des dossiers - Documents marketing - Documentation du produit
+description: Présentation des dossiers - Documents Marketo - Documentation du produit
 title: Présentation des dossiers
+exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
-
 
 # Présentation des dossiers {#understanding-folders}
 
@@ -29,7 +29,7 @@ Les dossiers d’un programme peuvent être utilisés pour organiser vos campagn
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
-Super ! Vous disposez maintenant d’un nouveau dossier pour stocker vos ressources locales.
+Fantastique ! Vous disposez maintenant d’un nouveau dossier pour stocker vos ressources locales.
 
 ## Renommer un dossier {#rename-a-folder}
 
@@ -70,7 +70,7 @@ Lorsque vous archivez un dossier :
 * Les modèles archivés ne sont pas disponibles lors de la création d’un courrier électronique ou d’un landing page dans Design Studio.
 * Impossible d&#39;utiliser les pages archivées dans les groupes de tests de landing page
 
-Fonctionnalité qui **ne sera pas** modifiée lors de l’archivage :
+Fonctionnalités qui **ne seront pas** modifiées lors de l&#39;archivage :
 
 * La recherche globale recherche toujours les résultats dans les dossiers archivés
 * Une ressource en cours d’utilisation continuera à fonctionner même après son archivage.
