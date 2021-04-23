@@ -137,7 +137,7 @@ Les offres de la piste d&#39;audit fournissent beaucoup d&#39;informations sur q
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Modifier le module <module name><attribute> à "value"</td> 
+   <td>Modifier le module <code>"<module name>" <attribute></code> à "value"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
