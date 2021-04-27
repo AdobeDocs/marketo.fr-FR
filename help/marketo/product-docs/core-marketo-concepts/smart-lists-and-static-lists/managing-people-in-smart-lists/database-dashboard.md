@@ -4,9 +4,9 @@ description: Tableau de bord de base de données - Documents Marketo - Documenta
 title: Tableau de bord de base de données
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Le Tableau de bord de base de données sert d&#39;instantané pour vous aider à
 
 >[!NOTE]
 >
->Chaque espace de travail possède sa propre base de données.
+>Chaque espace de travail possède son propre Tableau de bord de base de données.
 
 Pour y accéder, vous pouvez cliquer sur la mosaïque **Base de données** sur votre écran d’accueil...
 
@@ -35,4 +35,6 @@ Les graphiques indiquent le nombre total de personnes, le nombre de personnes co
 >
 >Vous souhaitez obtenir des informations plus précises ou plus opportunes sur votre peuple ? Essayez un [rapport Performance des personnes](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Nombre total de personnes :** nombre de personnes travaillant tout le temps pour cet espace de travail.  **Personnes pouvant faire l’objet d’un marketing : nombre** de personnes travaillant tout le temps pour l’espace de travail,  _moins ce qui suit_ : les personnes sans adresse électronique, les personnes dont le courrier électronique a rebondi dur, les personnes qui sont placées sur la liste bloquée, les personnes qui se sont désabonnées, les personnes actuellement placées sur Marketing Suspendu.
+**Nombre total de personnes :** nombre de personnes travaillant tout le temps pour cet espace de travail.
+
+**Personnes pouvant faire l’objet d’un marketing : nombre** de personnes travaillant tout le temps pour l’espace de travail,  _moins ce qui suit_ : les personnes sans adresse électronique, les personnes dont le courrier électronique a rebondi dur, les personnes qui sont placées sur la liste bloquée, les personnes qui se sont désabonnées, les personnes actuellement placées sur Marketing Suspendu.
