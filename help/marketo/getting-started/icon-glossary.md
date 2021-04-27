@@ -4,10 +4,10 @@ description: Glossaire des icônes - Docs Marketo - Documentation du produit
 title: Glossaire des icônes
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
 source-wordcount: '568'
-ht-degree: 32%
+ht-degree: 33%
 
 ---
 
@@ -30,7 +30,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Dossier</span></td> 
   </tr> 
@@ -58,7 +58,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="25" src="assets/share-to.png"> 
+     <img alt="--" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">Le dossier source que vous avez partagé avec un autre espace de travail</td> 
   </tr> 
@@ -239,7 +239,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
     <div> 
      <img src="assets/image2015-1-8-17-3a53-3a28.png"> 
     </div></td> 
-   <td>Perspectives commerciales</td> 
+   <td>Sales Insight</td> 
   </tr> 
   <tr> 
    <td> 
@@ -327,7 +327,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
     <div> 
      <img src="assets/image2014-12-18-16-3a45-3a45.png"> 
     </div></td> 
-   <td>Programme événement</td> 
+   <td>Programme d’événement</td> 
   </tr> 
   <tr> 
    <td> 
@@ -481,7 +481,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
     <div> 
      <img src="assets/image2015-1-9-14-3a42-3a29.png"> 
     </div></td> 
-   <td>Réseaux sociaux</td> 
+   <td>Social</td> 
   </tr> 
   <tr> 
    <td> 
@@ -856,14 +856,14 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a47.png"> 
     </div></td> 
-   <td colspan="1">Utiliser des images de la page Internet</td> 
+   <td colspan="1">Utiliser une images de la page Internet</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a53.png"> 
     </div></td> 
-   <td colspan="1">Charger image ou fichier</td> 
+   <td colspan="1">Charger Image ou Fichier</td> 
   </tr> 
  </tbody> 
 </table>
@@ -881,7 +881,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
     <div> 
      <img src="assets/image2015-1-9-9-3a50-3a24.png"> 
     </div></td> 
-   <td>Revenue Cycle Model</td> 
+   <td>Modèle du cycle des ventes</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1085,7 +1085,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
     <div> 
      <img src="assets/image2015-1-5-14-3a33-3a11.png"> 
     </div></td> 
-   <td>Texte brut</td> 
+   <td>Texte seulement</td> 
   </tr> 
   <tr> 
    <td> 
