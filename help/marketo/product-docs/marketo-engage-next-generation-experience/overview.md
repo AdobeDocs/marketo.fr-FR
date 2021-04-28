@@ -1,22 +1,22 @@
 ---
-description: Présentation - Documents marketing - Documentation du produit
-title: Présentation
+description: Présentation - Documentation Marketo - Documentation du produit
+title: APERÇU
+exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 1%
+source-wordcount: '463'
+ht-degree: 8%
 
 ---
 
-
-# Aperçu {#overview}
+# APERÇU {#overview}
 
 Bienvenue dans l&#39;expérience Marketo Engage de nouvelle génération, une nouvelle interface qui offre une utilisation améliorée ainsi qu&#39;une nouvelle apparence sur la plate-forme Marketo.
 
 >[!PREREQUISITES]
 >
->Si votre équipe informatique restreint l’accès au Web à l’aide d’une liste autorisée, demandez-lui d’ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et tous les websockets du marché :
+>Si votre équipe informatique restreint l’accès au Web à l’aide d’une liste autorisée, demandez-lui d’ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et les websockets Marketo :
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -33,7 +33,7 @@ Le tour vous guide à travers tout ce que vous avez besoin de savoir !
 
 ![](assets/overview-2.png)
 
-## Nouveautés {#whats-new}
+## Quoi de neuf ?{#whats-new}
 
 Cette expérience de nouvelle génération comprend de nombreuses nouvelles fonctionnalités, toutes conçues pour améliorer de manière significative votre expérience marketing.
 
@@ -41,17 +41,11 @@ Cette expérience de nouvelle génération comprend de nombreuses nouvelles fonc
 
 La nouvelle interface présente une iconographie améliorée et développée. En savoir plus ici : [Nouveau glossaire des icônes](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
-![](assets/overview-3.png)
-
-**Arbre**
-
-L&#39;arbre a également été modernisé.
-
-![](assets/overview-4.png)
+![](assets/overview-new-icons.png)
 
 **Navigation globale**
 
-Au revoir le super-bal. Vous avez maintenant un accès rapide à toutes les sections principales du marché.
+Au revoir le super-bal. Vous avez maintenant un accès rapide à toutes les principales sections de Marketo.
 
 ![](assets/overview-5.png)
 
@@ -70,7 +64,7 @@ Il y a une tonne de nouvelles fonctions d&#39;arbre disponibles.
 <table> 
  <tbody>
   <tr>
-   <th>Fonction</th> 
+   <th>Fonctionnalité</th> 
    <th>Classique</th> 
    <th>Nouvelle génération</th> 
   </tr>
@@ -210,7 +204,7 @@ Jetez un coup d&#39;oeil au nouveau Global Nav.
 
 >[!NOTE]
 >
->Tout ce qui vivait dans la liste déroulante des super-balles est toujours disponible comme une mosaïque dans votre Marketo.
+>Tout ce qui vivait dans la liste déroulante des super-balles est toujours disponible en tant que carreaux dans votre My Marketo.
 
 >[!TIP]
 >
