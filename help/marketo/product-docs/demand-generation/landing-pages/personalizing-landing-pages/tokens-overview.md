@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2950799
-description: Présentation des jetons - Documents marketing - Documentation du produit
+description: Présentation des jetons - Documents Marketo - Documentation du produit
 title: Présentation des jetons
+exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Présentation des jetons {#tokens-overview}
 
-Un jeton est une variable qui peut être utilisée dans les étapes de flux de campagne intelligente de Marketing Cloud, les courriels, les landings page, les fragments de code et les campagnes Web.
+Un jeton est une variable qui peut être utilisée dans les étapes de flux de campagne dynamique Marketo, les courriels, les landings page, les fragments de code et les campagnes Web.
 
 ## Présentation des valeurs par défaut {#understanding-default-values}
 
@@ -27,7 +27,7 @@ Dans cet exemple, le courrier électronique indique &quot;Salutations (prénom)&
 
 >[!CAUTION]
 >
->Les jetons ne fonctionnent pas dans le préen-tête lors de l’utilisation de l’éditeur de courrier électronique de Marketo. Pour utiliser un jeton dans le préen-tête, il doit se trouver par le biais de votre propre code HTML dans un modèle de courrier électronique.
+>Les jetons ne fonctionnent pas dans le préen-tête lors de l’utilisation de l’éditeur de courrier électronique Marketo. Pour utiliser un jeton dans le préen-tête, il doit se trouver par le biais de votre propre code HTML dans un modèle de courrier électronique.
 
 >[!NOTE]
 >
@@ -149,7 +149,7 @@ Dans cet exemple, le courrier électronique indique &quot;Salutations (prénom)&
 
 >[!NOTE]
 >
->Pour plus d&#39;informations sur les jetons [pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) en fonction des déclencheurs utilisés dans une campagne dynamique,
+>Pour plus d&#39;informations sur les jetons [pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) en fonction des déclencheurs utilisés dans une campagne dynamique,
 
 ## Jetons de programme {#program-tokens}
 
