@@ -4,7 +4,7 @@ description: Glossaire des icônes - Docs Marketo - Documentation du produit
 title: Glossaire des icônes
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 33%
@@ -17,7 +17,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
 
 **Icônes générales**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -144,7 +144,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
 
 ## Icônes d’administration {#admin-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icône</th> 
@@ -316,7 +316,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
 
 ### Icônes des Activités marketing {#marketing-activities-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icône</th> 
@@ -684,7 +684,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
 
 ### Icônes de Design Studio {#design-studio-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icône</th> 
@@ -870,7 +870,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
 
 ### Icônes Analytics {#analytics-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icône</th> 
@@ -979,7 +979,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
 
 ### Icônes Mes jetons {#my-tokens-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icône</th> 
@@ -1046,7 +1046,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
 
 ### Menus Campaign {#campaign-menus}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icône</th> 
@@ -1120,7 +1120,7 @@ Voici les icônes du Marketo Classic. Si vous êtes passé à la nouvelle interf
 
 ### Icônes de base de données {#database-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icône</th> 
