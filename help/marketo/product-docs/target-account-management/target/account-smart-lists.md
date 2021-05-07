@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378814
-description: Listes intelligentes du compte - Documentation du marketing - Documentation du produit
+description: Listes intelligentes du compte - Docs Marketo - Documentation du produit
 title: Listes intelligentes du compte
+exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Listes intelligentes du compte {#account-smart-lists}
 
@@ -17,7 +17,11 @@ Voici comment identifier rapidement et précisément vos comptes à valeur élev
 
 >[!NOTE]
 >
->Cette fonctionnalité est disponible dans une version bêta ouverte et est accessible à toute personne qui a activé à la fois la gestion des balises et l’expérience utilisateur de la prochaine génération de Marketo. Veuillez contacter votre responsable si vous souhaitez participer à la version bêta.
+>Cette fonctionnalité sera activée pour toutes les instances Marketo admissibles le soir du mardi 11 mai.
+
+>[!NOTE]
+>
+>Cette fonctionnalité n&#39;est disponible que pour les utilisateurs disposant de la gestion de la charge de travail et de l&#39;expérience utilisateur Marketo Engage suivant Adobe activée.
 
 ## Créer une Liste intelligente de compte {#create-an-account-smart-list}
 
@@ -43,7 +47,7 @@ Voici comment identifier rapidement et précisément vos comptes à valeur élev
 
 Votre Liste Smart Account a été créée ! Voir ci-dessous les étapes de définition de ses règles.
 
-## Règles de Liste intelligente du compte {#account-smart-list-rules}
+## Règles de la liste intelligente des comptes {#account-smart-list-rules}
 
 Les Listes Smart de compte fonctionnent de la même manière que les Listes dynamiques standard, à l’exception notable : conteneurs.
 
@@ -79,7 +83,7 @@ Et c&#39;est tout ! Consultez la section ci-dessous pour savoir comment tirer pa
 >
 >Tout comme avec les Listes dynamiques standard, vous pouvez utiliser une logique avancée pour affiner davantage vos résultats. Pour ce faire, vous devez disposer d’au moins trois filtres. Dans les Listes dynamiques de compte, un conteneur (quel que soit le nombre de filtres qu’elle contient) correspond à un filtre.
 
-## Actions de Liste intelligente de compte {#account-smart-list-actions}
+## Actions de la liste intelligente des comptes {#account-smart-list-actions}
 
 Dans l’onglet Aperçu de votre Liste intelligente de compte, vous remarquerez quelques options d’action.
 
@@ -87,7 +91,7 @@ Dans l’onglet Aperçu de votre Liste intelligente de compte, vous remarquerez 
 
 **Cloner** : Effectue une copie de votre Liste intelligente de compte.
 
-**Envoyer au réseau** publicitaire : Envoie la liste à LinkedIn en tant que nouvelle Audience mise en correspondance.
+**Envoyer au réseau** publicitaire : Envoie la liste à LinkedIn en tant que nouvelle Audience correspondante.
 
 Vous pouvez également référencer votre Liste intelligente de compte dans une Liste/Campaign dynamique standard en utilisant le filtre _Personnes membres de la Liste dynamique de compte_.
 
@@ -101,4 +105,4 @@ Vous pouvez également référencer votre Liste intelligente de compte dans une 
 >
 >**Définition**
 >
->**Personnes membres de la liste** dynamique du compte : Dans ce cas, le mot &quot;membre&quot; fait référence au compte lui-même, de sorte que &quot;membre du peuple&quot; signifie les personnes réelles (enregistrements de marqueur) dans ces comptes.
+>**Personnes membres de la Liste** intelligente du compte : Dans ce cas, le mot &quot;membre&quot; fait référence au compte lui-même, de sorte que &quot;membre du peuple&quot; désigne les personnes réelles (enregistrements Marketo) dans ces comptes.
