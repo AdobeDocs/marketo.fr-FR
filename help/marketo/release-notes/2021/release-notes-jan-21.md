@@ -3,7 +3,7 @@ description: Notes de mise à jour - Janvier 2021 - Marketo Docs - Documentation
 title: Notes de mise à jour - Janvier 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 21 janvier. Cons
 
 >[!AVAILABILITY]
 >
->Les fonctions signalées par une étoile ( ![(star)](assets/yellow-star.png)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
+>Les fonctions signalées par une étoile (![(star)](assets/yellow-star.png)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
 
 **_Versions trimestrielles_**
 
