@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378869
-description: Création d’un message SMS Vibes - Documents marketing - Documentation du produit
+description: Créer un message SMS Vibes - Marketo Docs - Documentation du produit
 title: Créer un message SMS de vibes
+exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 0%
+source-wordcount: '372'
+ht-degree: 3%
 
 ---
-
 
 # Créer un message SMS Vibes {#create-a-vibes-sms-message}
 
@@ -17,7 +17,7 @@ Voici comment créer un message SMS Vibes.
 
 >[!AVAILABILITY]
 >
->Cette fonction est disponible en tant que module complémentaire pour votre compte Marketo Engage. Pour qu&#39;il soit correctement approvisionné, il doit l&#39;acheter par Adobe. Pour plus d&#39;informations, contactez votre responsable de succès client Adobe.
+>Cette fonctionnalité est disponible en tant que module complémentaire pour votre compte Marketo Engage d’Adobe. Pour qu&#39;il soit correctement approvisionné, il doit l&#39;acheter par Adobe. Pour plus d&#39;informations, contactez votre responsable de succès client Adobe.
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ Voici comment créer un message SMS Vibes.
 
    >[!NOTE]
    >
-   >Si vous Ajoutez un jeton, le message risque de dépasser la limite de caractères. Le message se divise ensuite, ce qui entraîne des frais supplémentaires.
+   >L’ajout d’un jeton peut provoquer le dépassement de la limite de caractères du message. Le message se divise ensuite, ce qui entraîne des frais supplémentaires.
 
 1. Cliquez sur **Lien** dans le menu Insertion pour ajouter un lien à votre message.
 
