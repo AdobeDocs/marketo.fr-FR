@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360423
-description: Rechercher toutes les pistes dans un modèle de cycle de revenus - Documents marketing - Documentation du produit
+description: Rechercher toutes les pistes dans un modèle de cycle de revenus - Marketo Docs - Documentation sur les produits
 title: Rechercher toutes les pistes dans un modèle de cycle de recettes
+exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Rechercher toutes les pistes dans un modèle de cycle de revenus {#find-all-leads-in-a-revenue-cycle-model}
 
@@ -47,7 +47,7 @@ En utilisant des listes intelligentes, vous pouvez facilement trouver tous les m
 
    >[!TIP]
    >
-   >Vous n&#39;avez pas besoin des deux filtres, il vous suffit de choisir celui dont vous avez besoin. Nous vous montrons tous les deux d&#39;être minutieux. ![(sourire)](assets/smile.svg)
+   >Vous n&#39;avez pas besoin des deux filtres, il vous suffit de choisir celui dont vous avez besoin. Nous vous montrons tous les deux d&#39;être minutieux.
 
    >[!CAUTION]
    >
