@@ -4,7 +4,7 @@ description: Notes de mise à jour - Février 20 - Marketo Docs - Documentation 
 title: Notes de mise à jour - Fév '20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 février. Con
 
 >[!AVAILABILITY]
 >
->Les fonctions signalées par une étoile ( ![(star)](assets/star-yellow.svg)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
+>Les fonctions signalées par une étoile ( ![(star)](assets/yellow-star.png)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
 
 **__** Versions trimestriellesLes fonctionnalités suivantes ont été publiées le 21  **février 2020**.
 
@@ -37,7 +37,7 @@ Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et
 
 ## Bizible {#bizible}
 
-![(étoile)](assets/star-yellow.svg)
+![(étoile)](assets/yellow-star.png)
 
 * **Segmentation** basée sur un compte : Analyser l&#39;attribution au niveau du compte en ayant la possibilité de créer des segments et des filtres pour les panoramas Discover en fonction des attributs du compte. Utilisez ces segments pour analyser en détail les performances marketing basées sur votre compte.
 * **Enregistrement des Filtres** : Enregistrez des filtres spécifiques à chaque tableau de bord, propres à chaque utilisateur, afin d’analyser vos tableaux de bord de manière rapide et cohérente.
