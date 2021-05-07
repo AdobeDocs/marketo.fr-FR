@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359837
-description: Déclencheurs et Filtres pour les Activités sociales - Documentation sur le marketing - Documentation du produit
+description: Déclencheurs et Filtres pour les Activités sociales - Marketo Docs - Documentation du produit
 title: Déclencheurs et Filtres pour les Activités sociales
+exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 
-
 # Déclencheurs et Filtres pour les Activités sociales {#triggers-and-filters-for-social-activities}
 
-Les applications sociales de Marketo disposent de leurs propres déclencheurs et filtres spéciaux.
+Les applications sociales de Marketo ont leurs propres déclencheurs et filtres spéciaux.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
 1. Pour utiliser les déclencheurs _sociaux_, sélectionnez votre campagne intelligente et cliquez sur l&#39;onglet **Liste dynamique**. Sur la droite, cliquez sur le + pour développer **Déclencheurs**, puis **Social**.
 
@@ -29,18 +29,18 @@ Les applications sociales de Marketo disposent de leurs propres déclencheurs et
 
 1. Reportez-vous au tableau ci-dessous pour savoir quels déclencheurs et filtres fonctionnent avec chaque application sociale.
 
-   | Déclencheurs/Filtres | Boutons sociaux | Sondages | Vidéos | Offres de renvoi | Tirage |
+   | Déclencheurs/Filtres | Boutons Réseaux sociaux | Sondages | Vidéos | Offres de parrainage | Loteries |
    |---|---|---|---|---|---|
-   | Objectif atteint dans le renvoi |  |  |  | ![(coche)](assets/check.svg) |  |
-   | Partage du contenu | ![(coche)](assets/check.svg) | ![(coche)](assets/check.svg) | ![(coche)](assets/check.svg) | ![(coche)](assets/check.svg) | ![(coche)](assets/check.svg) |
-   | Clics sur le lien partagé | ![(coche)](assets/check.svg) | ![(coche)](assets/check.svg) | ![(coche)](assets/check.svg) | ![(coche)](assets/check.svg) | ![(coche)](assets/check.svg) |
-   | Les tirs sont interdits |  |  |  |  | ![(coche)](assets/check.svg) |
-   | Bénéficie de l’entrée dans l’application Social |  |  |  |  | ![(coche)](assets/check.svg) |
-   | Saisit des tirages |  |  |  |  | ![(coche)](assets/check.svg) |
-   | Fait référence à l’application Social |  |  |  | ![(coche)](assets/check.svg) | ![(coche)](assets/check.svg) |
-   | S&#39;abonner à l&#39;Offre de renvoi |  |  |  | ![(coche)](assets/check.svg) |  |
-   | Votes au scrutin |  | ![(coche)](assets/check.svg) |  |  |  |
-   | Gagnante des tirages |  |  |  |  | ![(coche)](assets/check.svg) |
+   | Objectif atteint en parrainage |  |  |  | ![(coche)](assets/check.png) |  |
+   | Partage un contenu | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) |
+   | Clique sur le lien partagé | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) |
+   | Disqualifie les loteries |  |  |  |  | ![(coche)](assets/check.png) |
+   | Gagne une entrée dans l&#39;application sociale |  |  |  |  | ![(coche)](assets/check.png) |
+   | Participe à la loterie |  |  |  |  | ![(coche)](assets/check.png) |
+   | Recommande sur l&#39;application sociale |  |  |  | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) |
+   | S&#39;abonner à l&#39;Offre de renvoi |  |  |  | ![(coche)](assets/check.png) |  |
+   | Participe au sondage |  | ![(coche)](assets/check.png) |  |  |  |
+   | Remporte la loterie |  |  |  |  | ![(coche)](assets/check.png) |
 
    >[!MORELIKETHIS]
    >
