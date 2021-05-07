@@ -2,9 +2,9 @@
 description: Exécuter Campaign - Documents Marketo - Documentation du produit
 title: Lancer la campagne
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '726'
 ht-degree: 1%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 1%
 # Lancer la campagne {#execute-campaign}
 
 Un Campaign exécutable, comme d&#39;autres campagnes, contient une Liste intelligente, un flux et une planification. Contrairement à d’autres campagnes, vous ne planifiez pas ou n’activez pas ce type de campagne. Elle ne peut être appelée que par une autre campagne via l’étape de flux Exécuter Campaign. Les étapes de flux dans le Campaign exécutable sont exécutées en série avec la campagne parent (contrairement à Request Campaign, qui s’exécute en parallèle dans un Campaign Trigger distinct).
+
+>[!NOTE]
+>
+>Cette fonctionnalité sera activée pour toutes les instances Marketo le soir du mardi 11 mai.
 
 >[!NOTE]
 >
