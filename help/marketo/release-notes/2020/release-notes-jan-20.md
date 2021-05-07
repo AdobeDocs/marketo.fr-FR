@@ -4,7 +4,7 @@ description: Notes de mise à jour - Janvier 2020 - Marketo Docs - Documentation
 title: Notes de mise à jour - Janvier 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 janvier. Cons
 
 >[!AVAILABILITY]
 >
->Les fonctions signalées par une étoile ( ![(star)](assets/star-yellow.svg)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
+>Les fonctions signalées par une étoile ( ![(star)](assets/yellow-star.png)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
 
 **_Versions trimestrielles_**
 
@@ -38,9 +38,9 @@ Les fonctionnalités suivantes seront publiées le **17 janvier 2020**.
 
 ## Account-Based Marketing {#account-based-marketing}
 
-![(étoile)](assets/star-yellow.svg)
+![(étoile)](assets/yellow-star.png)
 
-* **[New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/star-yellow.svg)** : Utilisez le profilage de compte pour découvrir les nouveaux comptes de cible pour votre stratégie ABM en fonction de votre modèle de profil client idéal optimisé par l&#39;IA. Vue, sélectionnez et importez les nouveaux comptes recommandés, ainsi que leurs indicateurs de données d&#39;ajustement et d&#39;intention basés sur l&#39;IA, qui n&#39;existent pas déjà dans votre base de données de piste et de compte Marketo Engage pour le ciblage ABM. Immédiatement disponible pour les clients de profil de compte éligibles.
+* **[New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png)** : Utilisez le profilage de compte pour découvrir les nouveaux comptes de cible pour votre stratégie ABM en fonction de votre modèle de profil client idéal optimisé par l&#39;IA. Vue, sélectionnez et importez les nouveaux comptes recommandés, ainsi que leurs indicateurs de données d&#39;ajustement et d&#39;intention basés sur l&#39;IA, qui n&#39;existent pas déjà dans votre base de données de piste et de compte Marketo Engage pour le ciblage ABM. Immédiatement disponible pour les clients de profil de compte éligibles.
 
 <br> 
 
@@ -50,7 +50,7 @@ Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et
 
 ## Bizible {#bizible}
 
-![(étoile)](assets/star-yellow.svg)
+![(étoile)](assets/yellow-star.png)
 
 * **Intégration** des pistes du Marketo Engage : Associez Ventes et Marketing à une vue unifiée de pistes par-dessus Bizible et Marketo Engage. Grâce à cette mise à jour, le Marketo Engage peut désormais être utilisé comme source de données de piste supplémentaire. Vous n&#39;avez donc plus à attendre que les pistes soient synchronisées avec la gestion de la relation client pour générer des rapports sur la génération de pistes.
 * **Améliorations** de Discover : Profitez de nos panoramas Discover en toute simplicité grâce aux améliorations apportées aux commentaires des clients, telles que la possibilité d&#39;analyser en détail les enregistrements transactionnels à partir de mosaïques et d&#39;attributs, d&#39;ajouter des nombres d&#39;enregistrements essentiels et des mesures de coût par tableau de bord correspondantes et d&#39;ajouter/supprimer des filtres de  pour plusieurs tableaux de bord. Vous serez également dirigé directement vers le tableau de bord par défaut lors de la connexion.
@@ -59,7 +59,7 @@ Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et
 
 * [Modification](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio) d&#39;image : Accédez aux fonctions de modification de l&#39;Adobe sans avoir à quitter le Marketo Engage. Cette nouvelle fonctionnalité vous permet d’améliorer, de recadrer et d’ajouter facilement du texte aux images directement dans Design Studio.
 
-## Perspectives commerciales {#sales-insight}
+## Sales Insight {#sales-insight}
 
 * **Actions** en masse d&#39;éclair Salesforce : Améliorez l&#39;efficacité des ventes et maintenez les acheteurs engagés dans la possibilité d&#39;ajouter jusqu&#39;à 200 contacts/pistes à des campagnes et de leur envoyer des courriels Marketo Engage en bloc avec Salesforce Lightning.
 * **Prise en charge mobile de Salesforce1** : Vous disposez maintenant d&#39;un accès mobile en continu à toutes les fonctionnalités de Sales Insight, telles que Moments intéressants et Activités Web et e-mails, directement dans l&#39;application Salesforce1.
