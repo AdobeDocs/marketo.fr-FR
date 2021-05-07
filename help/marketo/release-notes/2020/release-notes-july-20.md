@@ -4,7 +4,7 @@ description: Notes de mise à jour - 20 juillet - Marketo Docs - Documentation s
 title: Notes de mise à jour - Juillet 20
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 juillet. Cons
 
 >[!AVAILABILITY]
 >
->Veuillez noter que, selon votre paquet actuel, les articles avec une étoile ( ![(star)](assets/star-yellow.svg)) peuvent nécessiter l&#39;achat d&#39;un module complémentaire de valeur. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
+>Veuillez noter que, selon votre paquet actuel, les articles avec une étoile ( ![(star)](assets/yellow-star.png)) peuvent nécessiter l&#39;achat d&#39;un module complémentaire de valeur. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
 
 **__** Versions trimestriellesLes fonctionnalités suivantes seront publiées le 31  **juillet 2020**.
 
@@ -27,7 +27,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 juillet. Cons
 
 ## Account-Based Marketing {#account-based-marketing}
 
-![(étoile)](assets/star-yellow.svg)
+![(étoile)](assets/yellow-star.png)
 
 * **Mise à jour de l’interface utilisateur pour le profilage** de compte : Simplifiez la création de votre liste de compte de cible dans le profilage de compte en simplifiant les étapes dans un seul écran.
 
@@ -45,17 +45,17 @@ Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et
 
 * **Augmentation de la taille de l’URI de l’API de ressources** : La limite de taille de l&#39;URI (Uniforme Resource Identifier) est augmentée de 8 Ko à 65 Ko avant la suppression du paramètre &quot;_method&quot;. Lorsque vous effectuez de longues chaînes de requête, cette augmentation de taille limite permet aux données de passer plus facilement. La suppression du paramètre &quot;_method&quot; fait partie d&#39;une mise à niveau de sécurité à venir.
 
-## Perspectives commerciales {#sales-insight}
+## Sales Insight {#sales-insight}
 
-![(étoile)](assets/star-yellow.svg)
+![(étoile)](assets/yellow-star.png)
 
 * **[Sales Insight activé pour les clients avec une intégration](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)  CRM Salesforce non native (bêta)** : Les clients Marketo Engage disposant d&#39;intégrations CRM Salesforce non natives peuvent désormais utiliser Sales Insight pour aider leurs équipes commerciales à comprendre, classer par priorité et interagir avec les pistes et opportunités les plus impliquées afin de permettre des ventes intelligentes et des offres plus rapides.
 
 ## SalesConnect {#sales-connect}
 
-![(étoile)](assets/star-yellow.svg)
+![(étoile)](assets/yellow-star.png)
 
-* **[Amélioration du consentement bipartite pour les appels de vente :](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** les administrateurs ont désormais un meilleur contrôle sur les configurations d&#39;enregistrement des appels. [Activez les ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) enregistrements d’appels en vous assurant que vous respectez la loi sur le consentement des deux parties. Automatisez la notification de l&#39;appel enregistré et activez les clips audio à lire avant l&#39;appel.
+* **[Amélioration du consentement bipartite pour les appels de vente :](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** les administrateurs ont désormais un meilleur contrôle sur les configurations d&#39;enregistrement des appels. [Activez les ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) enregistrements d’appels en veillant à respecter la loi sur le consentement des deux parties. Automatisez la notification de l&#39;appel enregistré et activez les clips audio à lire avant l&#39;appel.
 
 <br> 
 
