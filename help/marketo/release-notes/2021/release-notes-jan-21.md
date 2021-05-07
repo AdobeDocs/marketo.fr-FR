@@ -3,7 +3,7 @@ description: Notes de mise à jour - Janvier 2021 - Marketo Docs - Documentation
 title: Notes de mise à jour - Janvier 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 21 janvier. Cons
 
 >[!AVAILABILITY]
 >
->Les fonctions signalées par une étoile ( ![(star)](assets/star-yellow.svg)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
+>Les fonctions signalées par une étoile ( ![(star)](assets/yellow-star.png)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
 
 **_Versions trimestrielles_**
 
@@ -57,17 +57,17 @@ Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et
 
 ## Sales Insight {#sales-insight}
 
-![(étoile)](assets/star-yellow.svg)
+![(étoile)](assets/yellow-star.png)
 
 * **[Workflows de messagerie électronique de test améliorés (CRM Salesforce)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)** : Augmentez l&#39;efficacité de votre équipe commerciale grâce aux workflows électroniques de test Sales Insight améliorés. Les vendeurs peuvent envoyer des e-mails de test à certaines adresses électroniques avant d&#39;envoyer des e-mails en masse à 200 destinataires au maximum.
 * **[Informations sur le statut du courriel (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)** : Les utilisateurs voient un message d’avertissement lorsqu’ils tentent d’envoyer un courrier électronique à un ID de courrier électronique non valide ou à une adresse électronique non enregistrée avant d’envoyer un courrier électronique.  Les états des diffusions électroniques peuvent être vérifiés dans l&#39;onglet Courriel de Sales Insight.
-* **Envoyer des e-mails en masse à partir des  [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) panneaux Comptable et  [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout) OpportunityPanels (Salesforce CRM)** : Améliorer l&#39;efficacité du workflow du vendeur et interagir avec une liste complète de contact de compte ou d&#39;opportunité en utilisant de nouvelles fonctionnalités d&#39;action en masse. Envoyez des courriers électroniques ou ajoutez des contacts aux campagnes des Marketo Engage en utilisant la nouvelle option de liste déroulante dans les onglets de compte ou d&#39;opportunité au lieu de travailler avec des contacts individuels. Ajoutez des contacts de compte à une liste de contrôle pour être averti lorsque les pistes deviennent actives.
+* **Envoyer des e-mails en masse à partir des  [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) panneaux Comptable et  [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout) OpportunityPanels (Salesforce CRM)** : Améliorer l&#39;efficacité du workflow du vendeur et interagir avec une liste complète de contact de compte ou d&#39;opportunité en utilisant de nouvelles fonctionnalités d&#39;action en masse. Envoyez des courriers électroniques ou ajoutez des contacts aux campagnes des Marketo Engage en utilisant la nouvelle option de liste déroulante dans les onglets de compte ou d&#39;opportunité au lieu de travailler avec des contacts individuels. Ajoutez des contacts de compte sur une liste de contrôle pour être averti lorsque les pistes deviennent actives.
 * **[Sales Insight for Non Native Salesforce CRM Integrations](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)** : Les abonnements GA dotés d&#39;intégrations CRM Salesforce personnalisées peuvent installer le module Sales Insight et aider les équipes commerciales à établir des priorités et à interagir avec les pistes et opportunités les plus prometteuses.
 * **[Améliorations](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)** des meilleurs paris : Contactez rapidement les pistes actives à partir de l&#39;onglet Meilleurs résultats en les envoyant par courriel ou en les ajoutant à un Campaign Marketo Engage. Vue d&#39;une piste dans le Marketo Engage ou l&#39;ajoutez à votre liste de contrôle. Les actions en masse et les options de tri sur l&#39;onglet Meilleurs paris vous permettent de gagner du temps et d&#39;améliorer l&#39;efficacité de l&#39;équipe commerciale.
 
 ## SalesConnect {#sales-connect}
 
-![(étoile)](assets/star-yellow.svg)
+![(étoile)](assets/yellow-star.png)
 
 * **Limitation de la connexion par courriel (BETA)** : Améliorez la délivrabilité de vos e-mails et redimensionnez votre communication commerciale 1:1 avec le contrôle des connexions par e-mail pour Sales Connect. Notre nouvelle technologie de limitation de vitesse gère automatiquement le délai d&#39;envoi des courriers électroniques pour créer des expériences homogènes pour les utilisateurs d&#39;Exchange et de Gmail. Réduire ou éliminer l&#39;utilisation des applications d&#39;envoi de courrier électronique en masse tierces.
 * **Suivi des retours** de connexion par courriel : Découvrez la qualité des pistes et les performances des modèles de courrier électronique grâce au nouveau rapport de rebonds de courrier électronique. Les utilisateurs d’Exchange et de Gmail peuvent choisir de recevoir des notifications de rebonds qui seront cumulées au flux en direct, aux dossiers de courrier électronique, à l’analyse des modèles et à Campaign Analytics.
