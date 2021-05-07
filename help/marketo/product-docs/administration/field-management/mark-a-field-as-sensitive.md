@@ -2,9 +2,9 @@
 description: Marquer un champ comme sensible - Documents Marketo - Documentation du produit
 title: Marquer un champ comme sensible
 translation-type: tm+mt
-source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Marquer un champ comme sensible {#mark-a-field-as-sensitive}
 
 En tant qu’administrateur Marketo, vous pouvez marquer un champ spécifique comme &quot;sensible&quot; afin que ses valeurs ne soient jamais préremplies dans les formulaires, protégeant ainsi les données sensibles des utilisateurs.
+
+>[!NOTE]
+>
+>Cette fonctionnalité sera activée pour toutes les instances Marketo le soir du mardi 11 mai.
 
 1. Cliquez sur **Admin**.
 
