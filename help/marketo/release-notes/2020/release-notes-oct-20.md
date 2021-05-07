@@ -4,10 +4,10 @@ description: Notes de mise à jour - 20 octobre - Marketo Docs - Documentation d
 title: Notes de mise à jour - 20 octobre
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '959'
-ht-degree: 0%
+source-wordcount: '957'
+ht-degree: 1%
 
 ---
 
@@ -17,19 +17,19 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 octobre. Cons
 
 >[!AVAILABILITY]
 >
->Les fonctions signalées par une étoile ( ![(star)](assets/star-yellow.svg)) peuvent être des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
+>Les fonctions signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
 
 **__** Versions trimestriellesLes fonctionnalités suivantes seront publiées le 16  **octobre 2020**.
 
-## Gestion des comptes de cible {#target-account-management}
+## Gestion des comptes cibles {#target-account-management}
 
-![(étoile)](assets/star-yellow.svg)
+![(étoile)](assets/yellow-star.png)
 
 * **Liste intelligente du compte (bêta)** : Enrichissez votre stratégie ABM avec la nouvelle fonctionnalité de Liste intelligente de compte. Identifiez de manière dynamique les comptes dotés des attributs de compte et de personne souhaités afin d’exécuter des campagnes inter-canaux et d’envoyer des alertes opportunes aux ventes afin de conclure plus rapidement les offres. Remarque : cette option n’est disponible que pour les clients de la gestion de compte de Cible qui ont été intégrés à l’[expérience utilisateur de la prochaine génération](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
 ## Marketing par e-mail {#email-marketing}
 
-* **Augmentation du nombre de courriers électroniques par lot  ![(étoile)](assets/star-yellow.svg)** : Envoyez d&#39;autres courriers électroniques avec un débit de plus de 5 millions de courriers électroniques par heure. Les options de remise extensives des e-mails éliminent la nécessité d&#39;attendre entre les lots de e-mails - envoyer tous les e-mails à temps et selon votre calendrier.
+* **Augmentation du nombre de courriers électroniques par lot  ![(étoile)](assets/yellow-star.png)** : Envoyez d&#39;autres courriers électroniques avec un débit de plus de 5 millions de courriers électroniques par heure. Les options de remise extensives des e-mails éliminent la nécessité d&#39;attendre entre les lots de e-mails - envoyer tous les e-mails à temps et selon votre calendrier.
 
 ## Marketing sur le site Web {#website-marketing}
 
@@ -65,9 +65,9 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 octobre. Cons
 
 Les fonctionnalités suivantes sont présentées sur un cycle non trimestriel et seront publiées au cours des prochains mois.
 
-## Perspectives commerciales {#sales-insight}
+## Sales Insight {#sales-insight}
 
-![(étoile)](assets/star-yellow.svg)
+![(étoile)](assets/yellow-star.png)
 
 * **Options** d&#39;optimisation d&#39;API et de configuration de nouvelle gouvernance : Améliorez l&#39;expérience des utilisateurs de Sales Insight grâce à une optimisation améliorée des API et à l&#39;ajout de fonctionnalités de gouvernance. Les paramètres de configuration permettent aux administrateurs de définir comment les campagnes et les événements sont chargés dans le tableau de bord Sales Insight. Les options d&#39;affichage des activités de calendrier flexibles réduisent l&#39;utilisation des API et améliorent l&#39;expérience globale.
 
