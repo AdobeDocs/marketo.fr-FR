@@ -4,10 +4,10 @@ description: Jetons de déclenchement pour les moments intéressants - Marketo D
 title: Déclencher des jetons pour des moments intéressants
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 29%
+source-wordcount: '436'
+ht-degree: 30%
 
 ---
 
@@ -68,10 +68,10 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Clique sur lien dans e-mail</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -85,12 +85,12 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Courrier électronique - Bond dur</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -102,12 +102,12 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>L'e-mail est renvoyé provisoirement</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -119,10 +119,10 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>E-mail remis</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -136,10 +136,10 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Ouvre l'e-mail</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -153,8 +153,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
     <tr> 
    <td>E-mail de transfert à un ami reçu</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -170,8 +170,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
     <tr> 
    <td>E-mail de transfert à un ami envoyé</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -180,21 +180,21 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td>
+   <td><img src="assets/check.png" alt="vérifier"></td>
   </tr> 
   <tr> 
    <td>Désabonné de l'e-mail</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -244,16 +244,16 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Clique sur lien dans e-mail de vente</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -261,16 +261,16 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Est un e-mail de vente envoyé</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -278,16 +278,16 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Ouvre l'e-mail de vente</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -295,8 +295,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Renvoi de l'e-mail de vente</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -312,16 +312,16 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Réception de l'e-mail de vente</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -329,8 +329,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
     <tr> 
    <td>Mise à jour de l'opportunité</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -346,8 +346,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
     <tr> 
    <td>Modifications détenteur</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -363,8 +363,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>L'individu est converti</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -380,8 +380,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Suppression de l’individu de SFDC</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -397,8 +397,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Synchronisation de l’individu avec SFDC</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -414,8 +414,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Supprimé de l'opportunité</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -431,8 +431,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Supprimer de la campagne SFDC</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -448,8 +448,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Activité consignée</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -465,8 +465,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Activité mise à jour</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -482,8 +482,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Ajouté à l'opportunité</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -499,8 +499,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Ajouté à la campagne SFDC</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -573,16 +573,16 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Clique sur lien dans e-mail de vente</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -590,16 +590,16 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Est un e-mail de vente envoyé</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -607,16 +607,16 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Ouvre l'e-mail de vente</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -624,8 +624,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Renvoi de l'e-mail de vente</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -641,16 +641,16 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Réception de l'e-mail de vente</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -658,8 +658,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Est ajouté à la campagne de ventes</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -676,8 +676,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   <tr>
    <td>Modifications détenteur</td> 
    <td>Est supprimé de la campagne de ventes</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -693,8 +693,8 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Appel de vente reçu</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -750,14 +750,14 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Remplit le formulaire</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -767,34 +767,34 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
   </tr> 
   <tr> 
    <td>Visite la page Internet</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td>
   </tr> 
   <tr> 
    <td>Clique le lien sur page Web</td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(coche)"></td> 
+   <td><img src="assets/check.png" alt="vérifier"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -804,7 +804,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
 
 >[!NOTE]
 >
->S&#39;il n&#39;a pas de vérification ![(tick)](assets/check.svg) alors il retournerait une chaîne vide (rien) dans le moment intéressant.
+>S&#39;il n&#39;a pas de vérification ![(tick)](assets/) alors il retournerait une chaîne vide (rien) dans le moment intéressant.
 
 *Le déclencheur **Visites Page Web** comporte quelques jetons supplémentaires :
 
@@ -816,4 +816,4 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
 >
 >Testez toujours vos moments intéressants pour vous assurer qu&#39;ils rendent la façon dont vous voulez.
 >
->Assurez-vous également que c&#39;est intéressant pour le vendeur, pas seulement pour vous. ![(évier)](assets/wink.svg)>
+>Aussi, assurez-vous que c&#39;est intéressant pour le vendeur, pas seulement pour vous !
