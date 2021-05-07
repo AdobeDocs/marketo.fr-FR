@@ -2,9 +2,9 @@
 description: Notes de mise à jour - Mai 2021 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Mai 2021
 translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '1490'
+source-wordcount: '1510'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,23 @@ Les fonctionnalités suivantes sont incluses dans la version du 21 mai. Consulte
 
 >[!AVAILABILITY]
 >
->Les fonctions signalées par une étoile (![(star)](assets/star-yellow.svg)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
+>Les fonctions signalées par une étoile ![](assets/star.png) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo Engage pour en savoir plus.
 
 **_Versions trimestrielles_**
 
 Les fonctionnalités suivantes seront publiées le **7 mai 2021**.
 
+>[!NOTE]
+>
+>Ces trois fonctionnalités seront disponibles d&#39;ici le mardi 11 mai au soir :
+
+* **Listes intelligentes du compte**
+* **Exécuter les étapes de flux Campaign**
+* **Filtrage de l&#39;Activité des robots de messagerie électronique**
+
 ## Expériences basées sur un compte {#Account-based-eaperiences}
 
-* **Listes intelligentes du compte (disponibilité générale)** (![(étoile)](assets/star-yellow.svg) : Identifiez et qualifiez dynamiquement les comptes dotés des attributs de compte et de personne souhaités à la cible dans les campagnes marketing inter-canaux et envoyez des alertes opportunes aux ventes pour conclure plus rapidement les offres. Cette nouvelle fonctionnalité permet une automatisation robuste des stratégies marketing basées sur les comptes. Les Listes intelligentes de compte sont disponibles pour les clients disposant de la gestion de compte de Cible et qui bénéficient de la prochaine génération d’utilisateurs.
+* **Listes intelligentes du compte (disponibilité générale)** ![](assets/star.png) : Identifiez et qualifiez dynamiquement les comptes dotés des attributs de compte et de personne souhaités à la cible dans les campagnes marketing inter-canaux et envoyez des alertes opportunes aux ventes pour conclure plus rapidement les offres. Cette nouvelle fonctionnalité permet une automatisation robuste des stratégies marketing basées sur les comptes. Les Listes intelligentes de compte sont disponibles pour les clients disposant de la gestion de compte de Cible et qui bénéficient de la prochaine génération d’utilisateurs.
 
 ## Expérience utilisateur de nouvelle génération {#next-generation-user-experience}
 
@@ -75,7 +83,7 @@ Plusieurs mises à jour critiques des API en bloc et pistes, notamment la possib
 
 ## Bizible {#bizible}
 
-(![(star)](assets/star-yellow.svg))
+![](assets/star.png)
 
 * **Intégration à LinkedIn Lead Gen Forms (bêta)** : Bénéficiez d&#39;une grande visibilité sur vos dépenses de canal LinkedIn et sur le retour sur investissement grâce à la solution d&#39;attribution de prime lisible. Grâce à la toute dernière intégration avec le Lead Gen Forms de LinkedIn, Bizible permet de mieux comprendre les formulaires qui ont été envoyés sur la plate-forme LinkedIn. Ces remplissages de formulaires sont comparés aux prospects de votre gestion de la relation client (Customer Relationship Management) ou instance de Marketo Engage d’Adobe afin qu’ils puissent être attribués et suivis par vos autres engagements marketing.
 
