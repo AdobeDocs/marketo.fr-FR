@@ -4,7 +4,7 @@ description: Notes de mise à jour - 19 août - Marketo Docs - Documentation du 
 title: Notes de mise à jour - 19 août
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 3%
@@ -25,7 +25,7 @@ Les fonctionnalités suivantes ont été publiées le 16 août 2019.
 * **Mise à jour** de l&#39;API Smart Campaign : Gérez les fonctionnalités de cycle de vie des campagnes intelligentes au fur et à mesure que nous compléterons l’interface CRUD (création, lecture, mise à jour, suppression).
 * **Mettre à jour la modification** de l&#39;API d&#39;en-têtes de courriel : L’API Mettre à jour l’en-tête de courriel ne nécessite plus de courrier électronique pour disposer d’un modèle joint afin de mettre à jour les champs d’en-tête, tels que la ligne d’objet.
 
-**Marketing** ![ basé sur le compte (étoile)](assets/star-yellow.svg)
+**Marketing** ![ basé sur le compte (étoile)](assets/yellow-star.png)
 
 * **La Correspondance** de compte linkedIn, précédemment en version bêta, est désormais disponible en général.
 * **** AccountAIest officiellement renommé Profilage **de** compte.
@@ -36,13 +36,13 @@ Les fonctionnalités suivantes ont été publiées le 16 août 2019.
 
 Les fonctionnalités suivantes sont disponibles sur un cycle non trimestriel et seront publiées tout au long du troisième trimestre civil et au début du 4e trimestre 2019.
 
-**Marketo Sales Connect** ![ (étoile)](assets/star-yellow.svg)
+**Marketo Sales Connect** ![ (étoile)](assets/yellow-star.png)
 
 * **Amélioration de la mise en page des pages des personnes :** gérez vos personnes et vos groupes grâce aux importations de listes et aux actions en masse dans la nouvelle mise en page des pages des personnes.
 
 >[!AVAILABILITY]
 >
->Les fonctions signalées par une étoile ( ![(star)](assets/star-yellow.svg)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo pour en savoir plus.
+>Les fonctions signalées par une étoile ( ![(star)](assets/yellow-star.png)) sont des modules complémentaires payants. Veuillez contacter votre représentant Marketo pour en savoir plus.
 
 >[!NOTE]
 >
