@@ -4,7 +4,7 @@ description: Jetons de déclenchement pour les moments intéressants - Marketo D
 title: Déclencher des jetons pour des moments intéressants
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 30%
@@ -804,7 +804,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
 
 >[!NOTE]
 >
->S&#39;il n&#39;a pas de vérification ![(tick)](assets/) alors il retournerait une chaîne vide (rien) dans le moment intéressant.
+>S&#39;il n&#39;a pas de vérification ![(tick)](assets/check.png) alors il retournerait une chaîne vide (rien) dans le moment intéressant.
 
 *Le déclencheur **Visites Page Web** comporte quelques jetons supplémentaires :
 
