@@ -4,7 +4,7 @@ description: Jetons de déclenchement pour les moments intéressants - Marketo D
 title: Déclencher des jetons pour des moments intéressants
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
+source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 30%
@@ -31,7 +31,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
 
 **Triggers de messagerie**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -207,7 +207,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
 
 **Déclencheurs Salesforce**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -536,7 +536,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
 
 **Déclencheurs de la connexion commerciale**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -713,7 +713,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
 
 **Divers**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
