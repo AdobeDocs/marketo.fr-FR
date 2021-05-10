@@ -4,7 +4,7 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: 77c1a3ddf700fd86da0f439c4a67ae4ed33a49df
+source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
 workflow-type: tm+mt
 source-wordcount: '8024'
 ht-degree: 5%
@@ -1050,8 +1050,8 @@ ht-degree: 5%
    + Marketo Sales Connect {#marketo-sales-connect}
       + Démarrer {#getting-started}
          + [Présentation de la connexion commerciale](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Prise en main de Sales Connect](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
-         + [Ma page de Profil](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Prise en main de Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Ma page de Profil](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [Vidéos et Tutorials de Début rapide](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Modifier votre mot de passe de connexion commerciale](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + Paramètres e-mail {#email-settings}
