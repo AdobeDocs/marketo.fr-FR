@@ -2,9 +2,9 @@
 description: Notes de mise à jour - Mai 2021 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Mai 2021
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '1510'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ Plusieurs mises à jour critiques des API en bloc et pistes, notamment la possib
 
 ## Annonces {#announcements}
 
-* **Plateformes** de commutation des documents produit Marketo : Nous sommes heureux d’annoncer que les Docs produit Marketo se joindront au Adobe Experience League le vendredi 7 mai. Vous pourrez toujours utiliser l’URL : docs.marketo.com et si vous avez des articles existants mis en signet, vous serez redirigé. Tous les produits actuels seront disponibles sur la nouvelle plate-forme et des améliorations sont prévues pour la fin de l&#39;année.
+* **Plateformes** de commutation des documents produit Marketo : Nous sommes ravis d’annoncer que Marketo Product Docs a rejoint le Adobe Experience League dès le vendredi 7 mai. Vous pourrez toujours utiliser l’URL : docs.marketo.com et si vous avez des articles existants mis en signet, vous serez redirigé. Tous les documents produit sont disponibles sur la nouvelle plate-forme et des améliorations sont prévues pour la fin de l&#39;année.
 
 * **Administration des utilisateurs rationalisée et authentification unique optimisée par le système** d&#39;identité des Adobes : À partir de juillet 2021, les nouveaux clients Marketo Engage d’Adobe seront intégrés à l’aide des identifiants d’utilisateur d’Adobe. La migration des clients actuels vers le système d&#39;identité intégré n&#39;aura lieu qu&#39;à la mi-2022 et aucune action de la part des clients n&#39;est requise jusqu&#39;à nouvel ordre. L&#39;authentification unique permet aux administrateurs informatiques et de sécurité de gérer plusieurs instances de produit Marketo Engage d&#39;Adobe avec d&#39;autres solutions Experience Cloud et de configurer l&#39;authentification unique (organisation Shared Services) via une console commune. Les administrateurs peuvent facilement gérer les groupes d’utilisateurs et les droits d’utilisateur par l’intermédiaire d’un Admin Console commun.
+
+**_Webinaire sur la version du produit_**
+
+Vous souhaitez en savoir plus sur ces fonctionnalités et améliorations ? Veillez à [vous inscrire dès maintenant](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html) pour vous joindre à nous le 13 mai à 9h00 PT / 12h00 ET pour un webinaire en direct avec notre équipe produit afin de plonger plus profondément dans ces innovations.
