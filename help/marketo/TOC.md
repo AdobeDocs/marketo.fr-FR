@@ -4,9 +4,9 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '8024'
+source-wordcount: '8023'
 ht-degree: 5%
 
 ---
@@ -1065,7 +1065,7 @@ ht-degree: 5%
          + [Domaines bloqués](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Verrouillage de contenu](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [Créer une sous-équipe](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
-         + [Inviter des membres de l’équipe](product-docs/marketo-sales-connect/admin/invite-team-members.md)
+         + [Inviter des utilisateurs](product-docs/marketo-sales-connect/admin/invite-users.md)
          + [Configuration de l&#39;authentification unique via SAML 2.0 dans Sales Connect](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [Paramètres de partage](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [Détails d’accès utilisateur](product-docs/marketo-sales-connect/admin/user-access-details.md)
