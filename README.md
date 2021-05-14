@@ -59,3 +59,4 @@ Dans le référentiel public, des étiquettes automatisées sont attribuées pou
 
 * **Modification envoyée à l&#39;auteur**: L&#39;auteur a été informé de la demande d&#39;extraction en attente.
 * **prêt à fusionner**: Prêt à être examiné par notre équipe d&#39;examen des demandes de tirage.
+
