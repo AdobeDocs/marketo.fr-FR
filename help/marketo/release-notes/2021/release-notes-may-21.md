@@ -1,10 +1,9 @@
 ---
 description: Notes de mise à jour - Mai 2021 - Marketo Docs - Documentation du produit
 title: Notes de mise à jour - Mai 2021
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,6 @@ Les fonctionnalités suivantes sont incluses dans la version du 21 mai. Consulte
 **_Versions trimestrielles_**
 
 Les fonctionnalités suivantes seront publiées le **7 mai 2021**.
-
->[!NOTE]
->
->Ces trois fonctionnalités seront disponibles d&#39;ici le mardi 11 mai au soir :
->
->* **Listes intelligentes du compte**
->* **Exécuter les étapes de flux Campaign**
->* **Filtrage de l&#39;Activité des robots de messagerie électronique**
-
 
 ## Expériences basées sur un compte {#Account-based-eaperiences}
 
