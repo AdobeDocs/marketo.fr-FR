@@ -3,8 +3,7 @@ unique-page-id: 10099389
 description: Versions des modules externes Marketo pour Microsoft Dynamics - Marketo Docs - Documentation du produit
 title: Versions des modules externes Marketo pour Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 7%
@@ -38,10 +37,10 @@ Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez
   <tr> 
    <th colspan="1">Version</th> 
    <th colspan="1">Date de publication</th> 
-   <th>Notes</th> 
+   <th>Remarques</th> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">4.2.0.0</td> 
    <td colspan="1">16/10/20</td> 
    <td colspan="1">Prise en charge Ajoutée de Campaign Sync avec MS Dynamics.</td> 
   </tr> 
@@ -114,5 +113,5 @@ Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez
 </table>
 
 >[!MORELIKETHIS]
+[Téléchargement de la solution Marketo Lead Management](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)>
 >
->[Téléchargement de la solution Marketo Lead Management](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
