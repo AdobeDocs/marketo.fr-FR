@@ -1,19 +1,18 @@
 ---
 unique-page-id: 13796464
-description: Présentation de la connexion commerciale - Documents marketing - Documentation du produit
+description: Présentation de la connexion commerciale - Documentation Marketo - Documentation du produit
 title: Présentation de la connexion commerciale
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
+source-git-commit: b52765f3549615aa68789dfbd8376044bcd02b3f
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 0%
+source-wordcount: '224'
+ht-degree: 9%
 
 ---
 
-
 # Aperçu de la connexion commerciale {#sales-connect-overview}
 
-Marketing Sales Connect est une solution d&#39;assistance commerciale à multiples facettes dotée de diverses fonctions, qui vous aide à stimuler l&#39;engagement tout au long du cycle de vente.
+Marketo Sales Connect est une solution d&#39;assistance commerciale à multiples facettes dotée de diverses fonctions, qui vous aide à stimuler l&#39;engagement tout au long du cycle de vente.
 
 >[!AVAILABILITY]
 >
@@ -31,7 +30,7 @@ Accédez aux [statistiques détaillées des personnes](/help/marketo/product-doc
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## Voir les résultats dans votre journal des Activités de marketing {#see-results-in-your-marketo-activity-log}
+## Voir Résultats dans votre journal des Activités Marketo {#see-results-in-your-marketo-activity-log}
 
 Découvrez comment vos prospects s&#39;engagent dans vos efforts de vente.
 
@@ -40,31 +39,31 @@ Découvrez comment vos prospects s&#39;engagent dans vos efforts de vente.
 <table> 
  <tbody> 
   <tr> 
-   <th>Type d'Activité</th> 
+   <th>Type d'activité</th> 
    <th>Description</th> 
   </tr> 
   <tr> 
-   <td><p>Envoyer un courriel de vente</p></td> 
+   <td><p>Envoyer un e-mail de vente</p></td> 
    <td><p>L'utilisateur a envoyé un e-mail de vente à MSE.</p></td> 
   </tr> 
   <tr> 
-   <td><p>Courriel de vente ouvert</p></td> 
+   <td><p>Ouvrir e-mail de vente</p></td> 
    <td><p>Le prospect a ouvert un courrier électronique de vente envoyé par MSE.</p></td> 
   </tr> 
   <tr> 
-   <td><p>Cliquez sur Courriel de vente</p></td> 
+   <td><p>Cliquer sur e-mail de vente</p></td> 
    <td><p>Le prospect a cliqué sur un lien dans un courrier électronique de vente envoyé par MSE.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Recevoir un courriel de vente</p></td> 
+   <td colspan="1"><p>Recevoir l'e-mail de vente</p></td> 
    <td colspan="1"><p>Le responsable a reçu un courrier électronique envoyé par MSE.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Recevoir un appel de vente</p></td> 
+   <td colspan="1"><p>Recevoir l’appel de vente</p></td> 
    <td colspan="1"><p>Le prospect a reçu un appel d'un vendeur utilisant le <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">téléphone commercial</a>.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Ajouter au Campaign de vente</p></td> 
+   <td colspan="1"><p>Ajouter à la campagne de ventes</p></td> 
    <td colspan="1"><p>Le prospect a été ajouté à une campagne de vente créée dans MSE (sur la page Campagnes).</p></td> 
   </tr> 
   <tr> 
@@ -73,19 +72,19 @@ Découvrez comment vos prospects s&#39;engagent dans vos efforts de vente.
   </tr> 
   <tr> 
    <td colspan="1"><p>Moment intéressant</p></td> 
-   <td colspan="1"><p>Le plomb a eu un moment intéressant généré sur le marché.</p></td> 
+   <td colspan="1"><p>Le plomb a eu un moment intéressant généré à Marketo.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Partager les campagnes marketing {#share-marketing-campaigns}
 
-Créez une campagne intelligente simple pour donner à vos utilisateurs commerciaux l&#39;accès aux [données de campagne marketing](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Créez une campagne intelligente simple pour donner à vos utilisateurs commerciaux l&#39;accès aux [données de campagne Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
 Prêt à démarrer ? Pour obtenir des instructions sur la configuration, cliquez sur le lien ci-dessous.
 
 >[!MORELIKETHIS]
+[Configurer Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)>
 >
->[Prise en main de Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
