@@ -1,10 +1,9 @@
 ---
 description: Filtrage de l’Activité des robots de messagerie électronique - Docs Marketo - Documentation du produit
 title: Filtrage de l’Activité des robots de messagerie
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -12,10 +11,6 @@ ht-degree: 0%
 # Filtrage de l’Activité des robots de messagerie {#filtering-email-bot-activity}
 
 Parfois, l’activité des robots de messagerie peut gonfler par erreur les ouvertures de vos courriels et les clics sur les données. Voici comment réparer ça.
-
->[!NOTE]
->
->Cette fonctionnalité sera activée pour toutes les instances Marketo le soir du mardi 11 mai.
 
 >[!NOTE]
 >
