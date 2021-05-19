@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '8038'
+source-wordcount: '8037'
 ht-degree: 5%
 
 ---
@@ -808,7 +808,7 @@ ht-degree: 5%
                + [Modèle 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Modèle 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modèle 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modèle 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modèle 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modèle 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modèle 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modèle 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1214,7 +1214,7 @@ ht-degree: 5%
       + Intégrations {#integrations}
          + [Comment consigner des courriers électroniques dans d’autres systèmes de gestion de la relation client](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
-         + [Configuration manuelle de votre connexion Marketo](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [Configuration de votre connexion Marketo](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Octroi d’un accès aux utilisateurs](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Moments intéressants au SMC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [Rendre un Campaign visible pour les utilisateurs de Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
@@ -1267,7 +1267,7 @@ ht-degree: 5%
          + [Suppression d’un modèle](product-docs/marketo-sales-connect/templates/delete-a-template.md)
          + [Modifier une Catégorie de modèle](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
          + [Activer le partage de Catégories](product-docs/marketo-sales-connect/templates/enable-category-sharing.md)
-         + [Un modèle favori](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
+         + [Favori d’un modèle](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
          + [Fusionner et supprimer des Catégories de Duplicata](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [Modèles recommandés](product-docs/marketo-sales-connect/templates/recommended-templates.md)
          + [Modèles partagés](product-docs/marketo-sales-connect/templates/shared-templates.md)
