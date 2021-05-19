@@ -1,9 +1,9 @@
 ---
 description: Octroi d’un accès aux utilisateurs - Documents Marketo - Documentation sur les produits
 title: Octroi d’un accès aux utilisateurs
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Suivez les étapes décrites dans cet article pour accorder à vos utilisateurs Sales Connect l&#39;accès à la connexion Marketo. Cette opération déverrouille des fonctionnalités telles que Moments intéressants dans le flux en direct et l’accès aux campagnes marketing.
 
-Vous devez inviter des utilisateurs à Sales Connect ici, avant qu&#39;ils ne soient visibles dans la page Marketo - Team Access, où l&#39;accès à la connexion Marketo est accordé.
+Vous devez inviter des utilisateurs à [Sales Connect ici](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), avant qu&#39;ils ne soient visibles dans la page Marketo > Team Access (dans Sales Connect), où l&#39;accès à la connexion Marketo est accordé.
 
 >[!CAUTION]
 >
@@ -22,7 +22,7 @@ Vous devez inviter des utilisateurs à Sales Connect ici, avant qu&#39;ils ne so
 
    >[!NOTE]
    >
-   >Vous ne pouvez affecter l’espace de travail qu’une seule fois au moment d’inviter des utilisateurs. Une fois défini, vous devrez déconnecter l&#39;utilisateur pour le modifier.
+   >Vous ne pouvez affecter l’espace de travail qu’une seule fois au moment de l’octroi de l’accès aux utilisateurs. Une fois défini, vous devrez déconnecter l&#39;utilisateur pour le modifier.
 
    ![](assets/granting-access-to-users-1.png)
 
@@ -33,9 +33,5 @@ Vous devez inviter des utilisateurs à Sales Connect ici, avant qu&#39;ils ne so
 1. Cliquez sur la liste déroulante Espace de travail, sélectionnez le ou les espaces de travail de votre choix, puis cliquez sur **Se connecter**.
 
    ![](assets/granting-access-to-users-3.png)
-
-   >[!NOTE]
-   >
-   >Si vous souhaitez ajouter de nouveaux utilisateurs, accédez à la section Gestion d’équipe des Paramètres d’administration et cliquez sur le bouton **Inviter des utilisateurs**.
 
 Vous pouvez ajouter d’autres utilisateurs à la page Gestion d’équipe et suivre les étapes ci-dessus pour les connecter.
