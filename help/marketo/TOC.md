@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 26fb0bad4bf6c3bc6925de3fe985a30927b5e30a
+source-git-commit: bff000b6e65b3cd92db1e90aa3a7b594cf0dd6a5
 workflow-type: tm+mt
-source-wordcount: '8023'
+source-wordcount: '8033'
 ht-degree: 5%
 
 ---
@@ -622,7 +622,8 @@ ht-degree: 5%
             + [Création d’un événement avec GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Créer un événement avec une réunion web de niveau 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Créer un événement avec ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-            + [Création d’un événement avec l’adaptateur Marketo ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
+            + Créer un événement avec l’adaptateur Marketo ON24(#create-an-event-with-the-marketo-on24-adapter)
+               + [Création d’un événement avec l’adaptateur Marketo ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Configuration des paramètres d’événement et synchronisation du Marketo avec votre webinaire](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Création d’un événement dans Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
                + [Créer des campagnes enfants et des ressources locales](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
