@@ -1,21 +1,20 @@
 ---
 unique-page-id: 1900573
-description: Ajouter un jeton système en tant que lien dans un courrier électronique - Documents marketing - Documentation du produit
-title: Ajouter un jeton système en tant que lien dans un courrier électronique
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Ajout d’un jeton système en tant que lien dans un courrier électronique - Documents Marketo - Documentation du produit
+title: Ajout d’un jeton système en tant que lien dans un courrier électronique
+exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
+source-git-commit: 65caed388ac33fc9f3142102343fe43ebc186e6e
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
+# Ajouter un jeton système comme lien dans un email {#add-a-system-token-as-a-link-in-an-email}
 
-# Ajouter un jeton système en tant que lien dans un courrier électronique {#add-a-system-token-as-a-link-in-an-email}
+Vous pouvez utiliser ces jetons système pour personnaliser la position des liens spéciaux dans vos emails.
 
-Vous pouvez utiliser ces jetons système pour personnaliser la position des liens spéciaux dans vos courriels.
-
-Les jetons suivants peuvent être utilisés comme liens dans un modèle de courrier électronique ou de courrier électronique :
+Les jetons suivants peuvent être utilisés comme liens dans un email ou un modèle de courrier électronique :
 
 * `{{system.forwardToFriendLink}}`
 * `{{system.unsubscribeLink}}`
@@ -23,23 +22,23 @@ Les jetons suivants peuvent être utilisés comme liens dans un modèle de courr
 
 >[!NOTE]
 >
->Ces jetons **ne sont pas** cliquables, sauf s’ils se trouvent à l’intérieur d’un lien d’ancrage. Ils peuvent également **ne pas** être incorporés dans un jeton My Token.
+>Ces jetons **ne peuvent pas** être cliqués, sauf dans un lien d’ancrage. Ils peuvent également **ne pas** être incorporés dans un jeton My.
 
-Voici comment les ajouter à un courriel :
+Pour les ajouter à un email, procédez comme suit :
 
-1. Recherchez et sélectionnez votre adresse électronique, puis cliquez sur **Modifier le brouillon**.
+1. Recherchez et sélectionnez votre email, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/one-1.png)
 
-1. Cliquez doublon dans une zone modifiable.
+1. Double-cliquez dans une zone modifiable.
 
    ![](assets/two-1.png)
 
-1. Mettez en surbrillance le texte à convertir en lien qui aura le jeton et cliquez sur le bouton **Insérer/Modifier le lien**.
+1. Sélectionnez le texte à convertir en lien qui contiendra le jeton et cliquez sur le bouton **Insérer/Modifier le lien**.
 
    ![](assets/three-1.png)
 
-1. Saisissez le jeton dans l’URL du lien, puis cliquez sur **Insérer**.
+1. Saisissez le jeton dans URL du lien et cliquez sur **Insérer**.
 
    ![](assets/four-1.png)
 
@@ -51,8 +50,12 @@ Voici comment les ajouter à un courriel :
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 
+>[!IMPORTANT]
+>
+>Si vous utilisez cette approche pour ajouter le jeton système &quot;viewAsWebpageLink&quot;, vous pouvez **ne pas** le remplacer à l’aide de jetons. Utilisez plutôt l’approche [Ajouter une vue comme lien de page web à un email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) qui vous permet de remplacer &quot;viewAsWebPageLink&quot; à l’aide de jetons.
+
 >[!NOTE]
 >
->N&#39;oubliez pas [d&#39;approuver votre courriel](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) lorsque vous avez terminé.
+>N’oubliez pas de [approuver votre email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) une fois terminé.
 
-Bien joué ! Vous savez maintenant comment ajouter un jeton système en tant que lien dans un courrier électronique.
+C&#39;est joli ! Vous savez maintenant comment ajouter un jeton système en tant que lien dans un email.
