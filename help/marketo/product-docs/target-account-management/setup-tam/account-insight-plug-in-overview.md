@@ -1,53 +1,54 @@
 ---
 unique-page-id: 12979282
-description: Présentation du module externe Account Insight - Documentation sur le marketing - Documentation du produit
-title: Présentation du module externe Account Insight
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: Présentation du module externe Insight de compte - Documents Marketo - Documentation du produit
+title: Présentation du module externe Insight du compte
+exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
+source-git-commit: 90b2f0f251f0c5805188731d0a2e4deedf720d70
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
+# Présentation du module externe Insight du compte {#account-insight-plug-in-overview}
 
-# Aperçu du module externe Account Insight {#account-insight-plug-in-overview}
-
-Account Insight est un module externe Chrome qui permet de mettre à la disposition de vos équipes commerciales des informations de gestion de compte et de gestion des actifs, ce qui leur permet d&#39;engager des comptes plus efficacement.
+Account Insight est un plug-in Chrome qui permet d’afficher des informations exploitables sur les ressources numériques et les comptes de vos équipes commerciales, ce qui leur permet d’interagir plus efficacement avec les comptes.
 
 >[!AVAILABILITY]
 >
->Account Insight est inclus pour tous les clients qui ont à la fois TAM et Marketo Sales Insight. Pour les clients qui ne disposent que de la gestion des actifs numériques (TAM), Account Insight est disponible en tant que module complémentaire acheté. Chaque client est limité à 250 sièges Account Insight. Veuillez contacter votre représentant commercial pour plus de détails. Il n’est pas disponible pour les clients qui n’ont pas de TAM.
+>Account Insight est inclus pour tous les clients qui disposent à la fois de TAM et de Marketo Sales Insight. Pour les clients qui ne disposent que de la gestion des actifs numériques (TAM), Insight de compte est disponible sous la forme d’un module complémentaire acheté. Chaque client est limité à 250 sièges Account Insight. Pour plus d’informations, contactez votre représentant commercial. Il n’est pas disponible pour les clients qui ne disposent pas de la gestion des actifs numériques (TAM).
 
 >[!CAUTION]
 >
->Le plug-in Account Insight ne fonctionnera pas dans les abonnements où [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (authentification unique) est activé.
+>Le plug-in Account Insight ne fonctionne pas dans les abonnements pour lesquels la fonction [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (authentification unique) est activée.
+
+>[!CAUTION]
 >
->Le contexte CRM fonctionne pour Salesforce lors du lancement du module externe à partir d’un compte, d’une piste ou d’un contact. Le contexte CRM ne fonctionne pas pour Dynamics lors du lancement du module externe à partir d&#39;un compte, d&#39;une piste ou d&#39;un contact. Pour les utilisateurs de Dynamics, nous vous recommandons d’utiliser le module externe Account Insight.
+>Le contexte CRM fonctionne pour Salesforce lors du lancement du module externe à partir d’un compte, d’un prospect ou d’un contact. Le contexte CRM ne fonctionne pas pour Dynamics lors du lancement du module externe à partir d’un compte, d’un prospect ou d’un contact. Pour les utilisateurs de Dynamics, il est recommandé d’utiliser le module externe Account Insight .
 
 ## Comptes nommés {#named-accounts}
 
-Voir les comptes nommés par ordre de classement entre eux. Cette liste n&#39;est disponible que pour les propriétaires de comptes. L’équipe chargée du compte sera bientôt prise en charge.
+Voir les comptes nommés par ordre de classement les uns des autres. Cette liste est disponible uniquement pour les propriétaires de compte. La prise en charge de l’équipe chargée du compte sera bientôt disponible.
 
 ![](assets/na1.png)
 
-Pour afficher les détails d&#39;un compte nommé, cliquez sur son nom...
+Pour afficher les détails d’un compte nommé, cliquez sur son nom...
 
 ![](assets/na3.png)
 
-...et l’aperçu s’affiche.
+...et la présentation s’affiche.
 
 ![](assets/na4.png)
 
-Découvrez des moments intéressants en utilisant la liste déroulante.
+Découvrez des moments intéressants à l’aide de la liste déroulante.
 
 ![](assets/na5.png)
 
-Faites défiler la page vers le bas pour afficher les meilleurs paris. Des moments intéressants sont ici aussi, avec des gens engagés.
+Faites défiler l’écran vers le bas pour voir les meilleurs paris. Les moments intéressants sont ici aussi, avec les gens engagés.
 
 ![](assets/na6.png)
 
-Cliquez sur le nom d&#39;une personne...
+Cliquez sur le nom d’une personne...
 
 ![](assets/na7.png)
 
@@ -55,30 +56,30 @@ Cliquez sur le nom d&#39;une personne...
 
 ![](assets/na8.png)
 
-Vous pouvez également passer de la vue Engagement au pipeline.
+Vous pouvez également passer de l’affichage Engagement au Pipeline.
 
 ![](assets/na9.png)
 
-Pour quitter le compte nommé, cliquez sur le X dans l’angle supérieur droit.
+Pour quitter le compte nommé, cliquez sur le X dans le coin supérieur droit.
 
 ![](assets/na10.png)
 
-## Flux d’Activité {#activity-feed}
+## Flux d’activité {#activity-feed}
 
-Le flux d’activité montre les activités récentes, remontant à sept jours.
+Le flux d’activité affiche l’activité récente, remontant à sept jours.
 
 ![](assets/af1.png)
 
-Cliquez sur la liste déroulante **Filtre** pour filtrer selon différents types d’activité.
+Cliquez sur le menu déroulant **Filtrer** pour filtrer selon différents types d’activité.
 
 ![](assets/af2.png)
 
-Plusieurs éléments peuvent être cliqués. Cliquez sur le compte nommé pour en afficher les détails. Cliquez sur le nom de l’utilisateur pour afficher son activité. Cliquez sur Plus d&#39;Activités pour voir, eh bien, plus d&#39;activités.
+Plusieurs éléments peuvent être cliqués. Cliquez sur le compte nommé pour en afficher les détails. Cliquez sur le nom de l’utilisateur pour afficher son activité. Cliquez sur Autres activités pour afficher davantage d’activités.
 
 ![](assets/af3.png)
 
 Plutôt cool !
 
 >[!MORELIKETHIS]
+[Configuration de Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
->[Configurer les informations de compte](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
