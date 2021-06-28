@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited - Documents Marketo - Documentation du produit
 title: Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: fbd8640d55a9a38936d060086f361b2281add47f
+source-git-commit: 2e0590d576e5f3ff5ae5e49854a33f04f74a6616
 workflow-type: tm+mt
-source-wordcount: '898'
-ht-degree: 5%
+source-wordcount: '824'
+ht-degree: 6%
 
 ---
 
@@ -24,9 +24,7 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
 ## Configuration de Sales Insight dans Marketo {#configure-sales-insight-in-marketo}
 
-1. Ouvrez une nouvelle fenêtre de navigateur pour obtenir les informations d’identification Marketo Sales Insight de votre compte Marketo.
-
-1. Dans la zone Admin, sélectionnez **Sales Insight**.
+1. Procurez-vous vos informations d’identification MSI dans Marketo. Dans la zone Admin, sélectionnez **Sales Insight**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
@@ -48,6 +46,9 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 1. Une fenêtre contextuelle de confirmation s’affiche. Cliquez sur **OK**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
+
+   >[!TIP]
+   Gardez cette fenêtre ouverte. Vous aurez besoin de ces informations plus tard dans Salesforce.
 
 ## Configuration de Sales Insight dans Salesforce {#configure-sales-insight-in-salesforce}
 
@@ -71,50 +72,10 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Saisissez le nom du site distant (il peut s’agir de &quot;MarketoRestAPI&quot;). Saisissez l’URL du site distant, qui correspond à l’URL de votre API dans le panneau Configuration de l’API REST de Marketo. Cliquez sur **Enregistrer**. Vous avez maintenant créé des paramètres de site distant pour l’API REST.
-
-## Configuration de Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. Connectez-vous à votre instance Marketo et cliquez sur **Admin**.
-
-   ![](assets/login-admin.png)
-
-1. Cliquez sur **Sales Insight**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33.png)
-
-1. Cliquez sur **Modifier la configuration de l’API**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0.png)
-
-1. Saisissez une **clé secrète API** et cliquez sur **Enregistrer**.
-
-   >[!CAUTION]
-   N’utilisez pas d’esperluette (&amp;) dans votre clé secrète API.
-
-   ![](assets/image2015-5-27-16-3a36-3a56.png)
-
-   >[!TIP]
-   Gardez cette fenêtre ouverte. Vous aurez besoin de ces informations plus tard dans Salesforce.
-
-1. Revenez à Salesforce, cliquez sur **Configuration**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
-
-1. Recherchez &quot;site distant&quot; et cliquez sur **Paramètres du site distant** sous **Contrôles de sécurité**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. Cliquez sur **Nouveau site distant**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. Saisissez **Nom du site distant** et **URL du site distant**, puis cliquez sur **Enregistrer**.
-
-   ![](assets/remote-site.png)
+1. Saisissez le nom du site distant (il peut s’agir de &quot;MarketoAPI&quot;). Saisissez l’URL du site distant, qui correspond à l’URL de votre API dans le panneau Configuration de l’API REST de Marketo. Cliquez sur **Enregistrer**. Vous avez maintenant créé des paramètres de site distant pour l’API REST.
 
    >[!NOTE]
-   Vous choisissez votre **nom du site distant** (MarketoAPI est utilisé ici). La **URL du site distant** se trouve dans le champ Hôte Marketo de la boîte de dialogue Modifier la configuration de l’API de l’étape 4.
+   __ Vous choisissez votre nom de site  **distant**  (MarketoAPI est utilisé ici). **URL du site distant** se trouve dans le champ Hôte Marketo de la boîte de dialogue Modifier la configuration de l’API de l’étape 3 de la section &quot;Configurer Sales Insight in Marketo&quot;.
 
 ## Personnalisation des mises en page {#customize-page-layouts}
 
