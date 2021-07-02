@@ -2,9 +2,9 @@
 description: Envoyer un segment Adobe Experience Cloud vers une liste statique Marketo - Documents Marketo - Documentation du produit
 title: Envoi d’un segment Adobe Experience Cloud vers une liste statique Marketo
 hidefromtoc: true
-source-git-commit: f437495fbe004177f01c57729d97d2fec1f79509
+source-git-commit: 48ae62b56cf44f9e7874ed9134325e77c08bcaaf
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -79,12 +79,19 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-12.png)
 
-1. Sélectionnez le champ approprié qui contient l’adresse électronique qui identifie l’utilisateur. Cliquez sur **Sélectionner** lorsque vous avez terminé.
+1. Sélectionnez le bouton radio **Sélectionner les attributs** ou **Sélectionner un espace de noms d’identité** (dans cet exemple, nous choisissons des attributs).
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-13.png)
 
+   >[!NOTE]
+   >
+   >Si vous choisissez **Sélectionner un espace de noms d’identité**, passez à l’étape 15 après avoir effectué votre sélection.
+
+1. Sélectionnez le champ approprié qui contient l’adresse électronique qui identifie l’utilisateur. Cliquez sur **Sélectionner** lorsque vous avez terminé.
+
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-14.png)
 
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
 
    >[!NOTE]
    >
@@ -92,19 +99,19 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
 1. Cliquez sur l’icône de mappage.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
 
 1. Sélectionnez votre champ cible et cliquez sur **Sélectionner**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
 
 1. Cliquez sur **Suivant**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
 
 1. _Dans Marketo_, créez une liste statique ou recherchez et sélectionnez-en une que vous avez déjà créée. Copiez l’ID de mappage à partir de la fin de l’URL.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
@@ -112,8 +119,8 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
 1. De retour dans Adobe Experience Platform, saisissez l’identifiant que vous venez de copier. Sélectionnez votre Date de début. Les utilisateurs se synchronisent en permanence jusqu’à la date de fin choisie. Pour une synchronisation indéfinie, laissez la date de fin vide. Cliquez sur **Suivant** lorsque vous avez terminé.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
 
 1. Confirmez vos modifications et cliquez sur **Terminer**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-21.png)
