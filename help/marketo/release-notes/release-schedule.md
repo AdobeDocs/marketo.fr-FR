@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: Calendrier des versions - Documents Marketo - Documentation du produit
 title: Calendrier des versions
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 05a174096a6ecab0791799db0af9291e1aa61c08
+source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 4%
@@ -48,7 +48,7 @@ _Les dates de publication peuvent être modifiées._
   </tr> 
   <tr> 
    <td colspan="1">21 août</td> 
-   <td colspan="1">13 août 2021</td> 
+   <td colspan="1">20 août 2021</td> 
    <td colspan="1">En cours</td> 
   </tr> 
   <tr> 
