@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: abdbe8a7bd48af62b68ff51c24ffcf9d19469a80
+source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
 workflow-type: tm+mt
-source-wordcount: '8043'
+source-wordcount: '8045'
 ht-degree: 5%
 
 ---
@@ -808,9 +808,9 @@ ht-degree: 5%
                + [Modèle 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modèle 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modèle 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modèle 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modèle 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modèle 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modèle 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modèle 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modèle 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modèle 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modèle 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1681,6 +1681,7 @@ ht-degree: 5%
          + [Affichage des campagnes web à partir d’un libellé spécifique](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Notes de mise à jour {#release-notes}
    + [Calendrier des versions](release-notes/release-schedule.md)
+   + [Version actuelle](release-notes/current.md)
    + 2021 {#2021}
       + [Notes de mise à jour : 21 janvier](release-notes/2021/release-notes-jan-21.md)
       + [Notes de mise à jour : 21 mai](release-notes/2021/release-notes-may-21.md)
