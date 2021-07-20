@@ -1,16 +1,16 @@
 ---
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
-source-git-commit: f7750809ede818f9ce9562b161327d9b6c7b4973
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1065'
 ht-degree: 0%
 
 ---
 
 # Notes de mise à jour : Août 2021 {#release-notes-aug-21}
 
-Les fonctionnalités suivantes sont incluses dans la version du 21 août. Vérifiez la disponibilité de votre édition Marketo.
+Les fonctionnalités suivantes sont incluses dans la version du 21 août. Pour connaître la disponibilité des fonctionnalités, consultez l’édition de votre Marketo Engage .
 
 >[!AVAILABILITY]
 >
