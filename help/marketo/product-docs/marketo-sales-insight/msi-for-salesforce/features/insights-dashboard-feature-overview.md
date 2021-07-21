@@ -1,63 +1,62 @@
 ---
 unique-page-id: 42762514
-description: Présentation des fonctionnalités du Tableau de bord Insights - Documentation sur le marketing - Documentation du produit
-title: Présentation des fonctionnalités du Tableau de bord Insights
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Présentation des fonctionnalités du tableau de bord des insights - Documents Marketo - Documentation du produit
+title: Présentation des fonctionnalités du tableau de bord des insights
+exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
+source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
 workflow-type: tm+mt
 source-wordcount: '1460'
 ht-degree: 0%
 
 ---
 
+# Présentation des fonctionnalités du tableau de bord des insights {#insights-dashboard-feature-overview}
 
-# Présentation des fonctionnalités du Tableau de bord Insights {#insights-dashboard-feature-overview}
-
-En savoir plus sur les fonctionnalités disponibles dans votre tableau de bord Sales Insights.
+En savoir plus sur les fonctionnalités disponibles dans votre tableau de bord Statistiques sur les ventes .
 
 >[!PREREQUISITES]
 >
->Vous devez disposer du dernier package MSI SFDC et de [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
+>Vous devez disposer du dernier package MSI SFDC et de la [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
-## Disposition du contact {#contact-layout}
+## Contact Layout {#contact-layout}
 
 **Grille de vitesse d’engagement**
 
-* Cette grille dynamique comprend des moments intéressants, des courriels et des Activités Web au cours des 90 derniers jours.
-* L’utilisateur peut choisir d’afficher l’activité du compte, ce qui va associer tous les moments intéressants au niveau du compte, les e-mails et l’Activité Web dans la vue de contact.
-* L’utilisateur peut mettre en surbrillance une semaine spécifique afin d’afficher les activités au cours de cette semaine.
-* Vue par défaut : La semaine en cours est sélectionnée
+* Cette grille dynamique comprend les moments intéressants, les e-mails et l’activité web au cours des 90 derniers jours.
+* L’utilisateur peut choisir d’utiliser l’activité &quot;Afficher le compte&quot;, qui va regrouper tous les moments intéressants au niveau du compte, le courrier électronique et l’activité web dans la vue Contact.
+* L’utilisateur peut mettre en surbrillance une semaine spécifique pour afficher les activités au cours de cette semaine.
+* Affichage par défaut : La semaine en cours est sélectionnée.
 
-**Zoom avant et résumé sur l’engagement**
+**Analyse et résumé de l’engagement**
 
-* Analyser les cartes d&#39;activité pour les moments intéressants, les e-mails et les Activités Web
-* Carte d&#39;Activité Moments intéressants - Inclut l&#39;option S&#39;abonner
-* Carte d&#39;Activité par courriel - Inclut l&#39;option de Prévisualisation
-* Carte d&#39;Activité Web - Inclut la possibilité de cliquer sur le lien
-* La barre de résumé hebdomadaire affiche les moments intéressants, le courriel et l&#39;Activité Web pour cette semaine. Chaque icône est cliquable et peut être utilisée comme filtres pour afficher une activité spécifique
-* Vue par défaut : C&#39;est une liste d&#39;activités de la vue actuelle
+* Exploration des cartes d’activité pour les moments intéressants, les e-mails et les activités web
+* Carte d’activité Moments intéressants - Inclut l’option S’abonner
+* Carte Activité du courrier électronique - Inclut l’option d’aperçu
+* Carte d’activité web - Inclut la possibilité de cliquer sur le lien
+* La barre de résumé hebdomadaire affiche les moments intéressants, les e-mails et l’activité web pour cette semaine. Chaque icône peut faire l’objet d’un clic et peut être utilisée comme filtre pour afficher une activité spécifique.
+* Affichage par défaut : Liste des activités de la vue actuelle
 
-**Campagnes et Événements de courriel à venir**
+**Campagnes et événements de messagerie à venir**
 
-Onglet Campagnes par courriel :
+Onglet Campagnes par e-mail :
 
-* Inclut des campagnes qui font partie de programmes de messagerie ou de programmes par défaut planifiés au cours des 90 prochains jours.
-* Non spécifique au contact/prospect (c’est-à-dire que la liste de campagnes est une liste générique de toutes les campagnes par courrier électronique planifiées dans l’instance Marketo). La liste de campagnes de tous les panneaux de prospect, contact, compte et opportunité sera la même
-* Si la périodicité de la campagne est telle qu’elle s’exécute plus de trois fois au cours des 90 prochains jours, seules les trois exécutions suivantes s’afficheront à un moment donné (comme dans le cas de Marketo).
-* La carte des détails de l&#39;activité de cette section comporte une option de prévisualisation. Si le flux comprend plusieurs étapes d’envoi de courriers électroniques, tous les courriers électroniques seront disponibles pour la prévisualisation. Au cours de l’étape de flux d’envoi de courrier électronique, s’il existe plusieurs &quot;choix de courrier électronique&quot;, l’option par défaut est disponible pour la prévisualisation.
+* Inclut des campagnes qui font partie de programmes de messagerie ou de programmes par défaut programmés au cours des 90 prochains jours
+* Non spécifique au contact/prospect (c’est-à-dire que la liste des campagnes est une liste générique de toutes les campagnes par e-mail planifiées dans l’instance Marketo). La liste des campagnes de tous les panneaux prospect, contact, compte et opportunité sera la même.
+* Si la récurrence de la campagne est telle qu’elle s’exécute plus de trois fois au cours des 90 prochains jours, seules les trois prochaines exécutions s’afficheront à un moment donné (comme dans le cas du comportement dans Marketo).
+* La carte des détails de l’activité de cette section comporte une option d’aperçu. Si le flux comprend plusieurs étapes d’envoi d’email, tous les emails peuvent être prévisualisés. Au cours de l’étape Envoyer le flux d’email, s’il existe plusieurs &quot;choix d’email&quot;, l’option par défaut est disponible pour la prévisualisation.
 * Les filtres incluent &quot;Recherche&quot; et &quot;Période&quot;
 
 ![](assets/three.png)
 
-Onglet événement :
+Onglet Événement :
 
-* Inclut les Programmes de Événement programmés dans les 90 prochains jours
-* Utilisez l’option de filtre pour afficher tous les événements/événements invités (en fonction des paramètres d’administration).
-* La sélection des événements invités montre les événements auxquels un contact spécifique a été invité, ainsi que le statut du membre.
-* La sélection de tous les événements affichera la liste des événements programmés dans les 90 prochains jours.
-* La carte de détails de l&#39;Activité de cette section comporte l&#39;option prévisualisation
+* Inclut les programmes d’événement planifiés dans les 90 prochains jours
+* Utilisez l’option de filtrage pour afficher tous les événements/événements invités (en fonction des paramètres d’administration).
+* La sélection d’événements invités affiche les événements auxquels un contact spécifique a été invité, ainsi que le statut du membre.
+* La sélection de tous les événements affiche la liste des événements programmés au cours des 90 prochains jours.
+* La carte Détails de l’activité de cette section comporte une option d’aperçu.
 * Le filtre inclut &quot;Rechercher&quot;, &quot;Afficher uniquement les événements invités&quot; et &quot;Période&quot;.
 
 ![](assets/two.png)
@@ -66,39 +65,39 @@ Onglet événement :
 
 **Grille de vitesse d’engagement**
 
-* Cette grille dynamique comprend des moments intéressants, des courriels et des Activités Web au cours des 90 derniers jours.
-* L’utilisateur peut mettre en surbrillance une semaine spécifique afin d’afficher les activités au cours de cette semaine.
-* Vue par défaut : La semaine en cours est sélectionnée
-* La fonction &quot;Afficher l&#39;Activité du compte&quot; n&#39;est pas disponible sur les pistes, car elle ne fait partie d&#39;aucun compte dans Salesforce tant qu&#39;elle n&#39;a pas été convertie en contact.
+* Cette grille dynamique comprend les moments intéressants, les e-mails et l’activité web au cours des 90 derniers jours.
+* L’utilisateur peut mettre en surbrillance une semaine spécifique pour afficher les activités au cours de cette semaine.
+* Affichage par défaut : La semaine en cours est sélectionnée.
+* La fonction &quot;Afficher l’activité du compte&quot; n’est pas disponible sur les pistes, puisqu’elle ne fait partie d’aucun compte dans Salesforce tant qu’elle n’a pas été convertie en contact.
 
-**Zoom avant et résumé sur l’engagement**
+**Analyse et résumé de l’engagement**
 
-* Cartes d&#39;activité d&#39;analyse pour les moments intéressants, les e-mails et les Activités Web
-* Carte d&#39;Activité Moments intéressants - Inclut l&#39;option S&#39;abonner
-* Carte d&#39;Activité par courriel - Inclut l&#39;option de Prévisualisation
-* Carte d&#39;Activité Web - Inclut la possibilité de cliquer sur le lien
-* La barre de résumé hebdomadaire affiche les moments intéressants, le courriel et l&#39;Activité Web pour cette semaine. Chaque icône est cliquable et peut être utilisée comme filtres pour afficher une activité spécifique
-* Vue par défaut : C&#39;est une liste d&#39;activités de la vue actuelle
+* Cartes d’activité de zoom déroulant pour les moments intéressants, les e-mails et les activités web
+* Carte d’activité Moments intéressants - Inclut l’option S’abonner
+* Carte Activité du courrier électronique - Inclut l’option d’aperçu
+* Carte d’activité web - Inclut la possibilité de cliquer sur le lien
+* La barre de résumé hebdomadaire affiche les moments intéressants, les e-mails et l’activité web pour cette semaine. Chaque icône peut faire l’objet d’un clic et peut être utilisée comme filtre pour afficher une activité spécifique.
+* Affichage par défaut : Liste des activités de la vue actuelle
 
-**Campagnes et Événements de courriel à venir :**
+**Campagnes et événements de messagerie à venir :**
 
-Onglet Campagnes par courriel :
+Onglet Campagnes par e-mail :
 
-* Inclut des campagnes qui font partie de programmes de messagerie ou de programmes par défaut planifiés au cours des 90 prochains jours.
-* Non spécifique au contact/prospect (c’est-à-dire que la liste de campagnes est une liste générique de toutes les campagnes par courrier électronique planifiées dans l’instance Marketo). La liste de campagnes de tous les panneaux de prospect, contact, compte et opportunité sera la même
-* Si la périodicité de la campagne est telle qu’elle s’exécute plus de trois fois au cours des 90 prochains jours, seules les trois exécutions suivantes s’afficheront à un moment donné (comme dans le cas de Marketo).
-* La carte des détails de l&#39;activité de cette section comporte une option de prévisualisation. Si le flux comprend plusieurs étapes d’envoi de courriers électroniques, tous les courriers électroniques seront disponibles pour la prévisualisation. Au cours de l’étape de flux d’envoi de courrier électronique, s’il existe plusieurs &quot;choix de courrier électronique&quot;, l’option par défaut est disponible pour la prévisualisation.
+* Inclut des campagnes qui font partie de programmes de messagerie ou de programmes par défaut programmés au cours des 90 prochains jours
+* Non spécifique au contact/prospect (c’est-à-dire que la liste des campagnes est une liste générique de toutes les campagnes par e-mail planifiées dans l’instance Marketo). La liste des campagnes de tous les panneaux prospect, contact, compte et opportunité sera la même.
+* Si la récurrence de la campagne est telle qu’elle s’exécute plus de trois fois au cours des 90 prochains jours, seules les trois prochaines exécutions s’afficheront à un moment donné (comme dans le cas du comportement dans Marketo).
+* La carte des détails de l’activité de cette section comporte une option d’aperçu. Si le flux comprend plusieurs étapes d’envoi d’email, tous les emails peuvent être prévisualisés. Au cours de l’étape Envoyer le flux d’email, s’il existe plusieurs &quot;choix d’email&quot;, l’option par défaut est disponible pour la prévisualisation.
 * Les filtres incluent &quot;Recherche&quot; et &quot;Période&quot;
 
 ![](assets/five.png)
 
-Onglet événement :
+Onglet Événement :
 
-* Inclut les Programmes de Événement programmés dans les 90 prochains jours
-* Utilisez l’option de filtre pour afficher tous les événements/événements invités (en fonction des paramètres d’administration).
-* La sélection des événements invités montre les événements auxquels un contact spécifique a été invité, ainsi que le statut du membre.
-* La sélection de tous les événements affichera la liste des événements programmés dans les 90 prochains jours.
-* La carte de détails de l&#39;Activité de cette section comporte l&#39;option prévisualisation
+* Inclut les programmes d’événement planifiés dans les 90 prochains jours
+* Utilisez l’option de filtrage pour afficher tous les événements/événements invités (en fonction des paramètres d’administration).
+* La sélection d’événements invités affiche les événements auxquels un contact spécifique a été invité, ainsi que le statut du membre.
+* La sélection de tous les événements affiche la liste des événements programmés au cours des 90 prochains jours.
+* La carte Détails de l’activité de cette section comporte une option d’aperçu.
 * Le filtre inclut &quot;Rechercher&quot;, &quot;Afficher uniquement les événements invités&quot; et &quot;Période&quot;.
 
 ![](assets/four.png)
@@ -107,68 +106,68 @@ Onglet événement :
 
 **Grille de vitesse d’engagement**
 
-* Cette grille dynamique comprend les moments intéressants, les e-mails et l&#39;Activité Web au cours des 90 derniers jours pour tous les contacts du compte.
-* L’utilisateur peut mettre en surbrillance une semaine spécifique afin d’afficher les activités au cours de cette semaine.
-* Vue par défaut : La semaine en cours est sélectionnée
+* Cette grille dynamique comprend les moments intéressants, les e-mails et l’activité web au cours des 90 derniers jours pour tous les contacts du compte.
+* L’utilisateur peut mettre en surbrillance une semaine spécifique pour afficher les activités au cours de cette semaine.
+* Affichage par défaut : La semaine en cours est sélectionnée.
 
-**Zoom avant et résumé sur l’engagement**
+**Analyse et résumé de l’engagement**
 
-* Cartes d&#39;activité d&#39;analyse pour les moments intéressants, e-mail et Activité Web, y compris le nom du contact
-* Carte d&#39;Activité Moments intéressants - Inclut l&#39;option S&#39;abonner
-* Carte d&#39;Activité par courriel - Inclut l&#39;option de Prévisualisation
-* Carte d&#39;Activité Web - Inclut la possibilité de cliquer sur le lien
-* La barre de résumé hebdomadaire affiche les moments intéressants, le courriel et l&#39;Activité Web pour cette semaine. Chaque icône est cliquable et peut être utilisée comme filtres pour afficher une activité spécifique
-* Vue par défaut : C&#39;est une liste d&#39;activités de la vue actuelle
+* Analyse des cartes d’activité pour les moments intéressants, les e-mails et l’activité web, y compris le nom du contact
+* Carte d’activité Moments intéressants - Inclut l’option S’abonner
+* Carte Activité du courrier électronique - Inclut l’option d’aperçu
+* Carte d’activité web - Inclut la possibilité de cliquer sur le lien
+* La barre de résumé hebdomadaire affiche les moments intéressants, les e-mails et l’activité web pour cette semaine. Chaque icône peut faire l’objet d’un clic et peut être utilisée comme filtre pour afficher une activité spécifique.
+* Affichage par défaut : Liste des activités de la vue actuelle
 
-**Campagnes et Événements de courriel à venir**
+**Campagnes et événements de messagerie à venir**
 
-Onglet Campagnes par courriel :
+Onglet Campagnes par e-mail :
 
-* Inclut des campagnes qui font partie de programmes de messagerie ou de programmes par défaut planifiés au cours des 90 prochains jours.
-* Non spécifique au contact/prospect (c’est-à-dire que la liste de campagnes est une liste générique de toutes les campagnes par courrier électronique planifiées dans l’instance Marketo). La liste de campagnes de tous les panneaux de prospect, contact, compte et opportunité sera la même
-* Si la périodicité de la campagne est telle qu’elle s’exécute plus de trois fois au cours des 90 prochains jours, seules les trois exécutions suivantes s’afficheront à un moment donné (comme dans le cas de Marketo).
-* La carte des détails de l&#39;activité de cette section comporte une option de prévisualisation. Si le flux comprend plusieurs étapes d’envoi de courriers électroniques, tous les courriers électroniques seront disponibles pour la prévisualisation. Au cours de l’étape de flux d’envoi de courrier électronique, s’il existe plusieurs &quot;choix de courrier électronique&quot;, l’option par défaut est disponible pour la prévisualisation.
+* Inclut des campagnes qui font partie de programmes de messagerie ou de programmes par défaut programmés au cours des 90 prochains jours
+* Non spécifique au contact/prospect (c’est-à-dire que la liste des campagnes est une liste générique de toutes les campagnes par e-mail planifiées dans l’instance Marketo). La liste des campagnes de tous les panneaux prospect, contact, compte et opportunité sera la même.
+* Si la récurrence de la campagne est telle qu’elle s’exécute plus de trois fois au cours des 90 prochains jours, seules les trois prochaines exécutions s’afficheront à un moment donné (comme dans le cas du comportement dans Marketo).
+* La carte des détails de l’activité de cette section comporte une option d’aperçu. Si le flux comprend plusieurs étapes d’envoi d’email, tous les emails peuvent être prévisualisés. Au cours de l’étape Envoyer le flux d’email, s’il existe plusieurs &quot;choix d’email&quot;, l’option par défaut est disponible pour la prévisualisation.
 * Les filtres incluent &quot;Recherche&quot; et &quot;Période&quot;
 
-Onglet événement :
+Onglet Événement :
 
-* Inclut les Programmes de Événement programmés dans les 90 prochains jours
-* Utilisez l’option de filtre pour afficher tous les événements/événements invités (en fonction des paramètres d’administration).
-* La sélection des événements invités montre les événements auxquels un contact spécifique a été invité, ainsi que le statut du membre.
-* La sélection de tous les événements affichera la liste des événements programmés dans les 90 prochains jours.
-* La carte de détails de l&#39;Activité de cette section comporte l&#39;option prévisualisation
+* Inclut les programmes d’événement planifiés dans les 90 prochains jours
+* Utilisez l’option de filtrage pour afficher tous les événements/événements invités (en fonction des paramètres d’administration).
+* La sélection d’événements invités affiche les événements auxquels un contact spécifique a été invité, ainsi que le statut du membre.
+* La sélection de tous les événements affiche la liste des événements programmés au cours des 90 prochains jours.
+* La carte Détails de l’activité de cette section comporte une option d’aperçu.
 * Le filtre inclut &quot;Rechercher&quot;, &quot;Afficher uniquement les événements invités&quot; et &quot;Période&quot;.
 
-## Mise en page des opportunités {#opportunity-layout}
+## Disposition des opportunités {#opportunity-layout}
 
 **Grille de vitesse d’engagement**
 
-* Cette grille dynamique comprend des moments intéressants, des courriels et des Activités Web au cours des 90 derniers jours pour tous les contacts de l&#39;opportunité.
-* L’utilisateur peut mettre en surbrillance une semaine spécifique afin d’afficher les activités au cours de cette semaine.
-* Vue par défaut : La semaine en cours est sélectionnée
+* Cette grille dynamique comprend les moments intéressants, les e-mails et l’activité web au cours des 90 derniers jours pour tous les contacts de l’opportunité.
+* L’utilisateur peut mettre en surbrillance une semaine spécifique pour afficher les activités au cours de cette semaine.
+* Affichage par défaut : La semaine en cours est sélectionnée.
 
-**Zoom avant et résumé sur l’engagement**
+**Analyse et résumé de l’engagement**
 
-* Cartes d&#39;activité d&#39;analyse pour les moments intéressants, e-mail et Activité Web, y compris le nom du contact
-* Carte d&#39;Activité Moments intéressants - Inclut l&#39;option S&#39;abonner
-* Carte d&#39;Activité par courriel - Inclut l&#39;option de Prévisualisation
-* Carte d&#39;Activité Web - Inclut la possibilité de cliquer sur le lien
-* La barre de résumé hebdomadaire affiche les moments intéressants, le courriel et l&#39;Activité Web pour cette semaine. Chaque icône est cliquable et peut être utilisée comme filtres pour afficher une activité spécifique
-* Vue par défaut : C&#39;est une liste d&#39;activités de la vue actuelle
+* Analyse des cartes d’activité pour les moments intéressants, les e-mails et l’activité web, y compris le nom du contact
+* Carte d’activité Moments intéressants - Inclut l’option S’abonner
+* Carte Activité du courrier électronique - Inclut l’option d’aperçu
+* Carte d’activité web - Inclut la possibilité de cliquer sur le lien
+* La barre de résumé hebdomadaire affiche les moments intéressants, les e-mails et l’activité web pour cette semaine. Chaque icône peut faire l’objet d’un clic et peut être utilisée comme filtre pour afficher une activité spécifique.
+* Affichage par défaut : Liste des activités de la vue actuelle
 
-**Campagnes par courriel et** événements à venir Onglet Campagnes par courriel :
+**Onglet Campagnes par e-mail et** Campagnes par e-mail à venir :
 
-* Inclut des campagnes qui font partie de programmes de messagerie ou de programmes par défaut planifiés au cours des 90 prochains jours.
-* Non spécifique au contact/prospect (c’est-à-dire que la liste de campagnes est une liste générique de toutes les campagnes par courrier électronique planifiées dans l’instance Marketo). La liste de campagnes de tous les panneaux de prospect, contact, compte et opportunité sera la même
-* Si la périodicité de la campagne est telle qu’elle s’exécute plus de trois fois au cours des 90 prochains jours, seules les trois exécutions suivantes s’afficheront à un moment donné (comme dans le cas de Marketo).
-* La carte des détails de l&#39;activité de cette section comporte une option de prévisualisation. Si le flux comprend plusieurs étapes d’envoi de courriers électroniques, tous les courriers électroniques seront disponibles pour la prévisualisation. Au cours de l’étape de flux d’envoi de courrier électronique, s’il existe plusieurs &quot;choix de courrier électronique&quot;, l’option par défaut est disponible pour la prévisualisation.
+* Inclut des campagnes qui font partie de programmes de messagerie ou de programmes par défaut programmés au cours des 90 prochains jours
+* Non spécifique au contact/prospect (c’est-à-dire que la liste des campagnes est une liste générique de toutes les campagnes par e-mail planifiées dans l’instance Marketo). La liste des campagnes de tous les panneaux prospect, contact, compte et opportunité sera la même.
+* Si la récurrence de la campagne est telle qu’elle s’exécute plus de trois fois au cours des 90 prochains jours, seules les trois prochaines exécutions s’afficheront à un moment donné (comme dans le cas du comportement dans Marketo).
+* La carte des détails de l’activité de cette section comporte une option d’aperçu. Si le flux comprend plusieurs étapes d’envoi d’email, tous les emails peuvent être prévisualisés. Au cours de l’étape Envoyer le flux d’email, s’il existe plusieurs &quot;choix d’email&quot;, l’option par défaut est disponible pour la prévisualisation.
 * Les filtres incluent &quot;Recherche&quot; et &quot;Période&quot;
 
-Onglet événement :
+Onglet Événement :
 
-* Inclut les Programmes de Événement programmés dans les 90 prochains jours
-* Utilisez l’option de filtre pour afficher tous les événements/événements invités (en fonction des paramètres d’administration).
-* La sélection des événements invités montre les événements auxquels un contact spécifique a été invité, ainsi que le statut du membre.
-* La sélection de tous les événements affichera la liste des événements programmés dans les 90 prochains jours.
-* La carte de détails de l&#39;Activité de cette section comporte l&#39;option prévisualisation
+* Inclut les programmes d’événement planifiés dans les 90 prochains jours
+* Utilisez l’option de filtrage pour afficher tous les événements/événements invités (en fonction des paramètres d’administration).
+* La sélection d’événements invités affiche les événements auxquels un contact spécifique a été invité, ainsi que le statut du membre.
+* La sélection de tous les événements affiche la liste des événements programmés au cours des 90 prochains jours.
+* La carte Détails de l’activité de cette section comporte une option d’aperçu.
 * Le filtre inclut &quot;Rechercher&quot;, &quot;Afficher uniquement les événements invités&quot; et &quot;Période&quot;.
