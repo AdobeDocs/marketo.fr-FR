@@ -1,31 +1,30 @@
 ---
-description: Présentation - Documentation Marketo - Documentation du produit
+description: Présentation - Documents Marketo - Documentation du produit
 title: APERÇU
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 8%
+source-wordcount: '492'
+ht-degree: 7%
 
 ---
 
 # APERÇU {#overview}
 
-Bienvenue dans l&#39;expérience Marketo Engage de nouvelle génération, une nouvelle interface qui offre une utilisation améliorée ainsi qu&#39;une nouvelle apparence sur la plate-forme Marketo.
+Bienvenue dans l’expérience de Marketo Engage de nouvelle génération, une nouvelle interface qui offre une convivialité améliorée ainsi qu’un nouvel aspect sur la plateforme Marketo.
 
 >[!PREREQUISITES]
 >
->Si votre équipe informatique restreint l’accès au Web à l’aide d’une liste autorisée, demandez-lui d’ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et les websockets Marketo :
+>Si votre équipe informatique restreint l’accès web à l’aide d’une liste autorisée, demandez-lui d’ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et tous les websockets Marketo :
 >
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
 
 
-## Prendre le tour {#take-the-tour}
+## Visite {#take-the-tour}
 
-Lors de la première connexion, une fenêtre contextuelle s’affiche, prête à vous donner le résumé de la nouvelle expérience. En tête, si vous choisissez de l’ignorer, **pas** sera disponible ultérieurement.
+Lors de la première connexion, une fenêtre contextuelle s’affiche, prête à vous donner l’aperçu de la nouvelle expérience. Si vous choisissez de l’ignorer, **et** ne seront pas disponibles ultérieurement.
 
 ![](assets/overview-1.png)
 
@@ -33,9 +32,9 @@ Le tour vous guide à travers tout ce que vous avez besoin de savoir !
 
 ![](assets/overview-2.png)
 
-## Quoi de neuf ?{#whats-new}
+## Quoi de neuf ? {#whats-new}
 
-Cette expérience de nouvelle génération comprend de nombreuses nouvelles fonctionnalités, toutes conçues pour améliorer de manière significative votre expérience marketing.
+Cette expérience de nouvelle génération comporte de nombreuses nouvelles fonctionnalités, toutes conçues pour améliorer considérablement votre expérience marketing.
 
 **Icônes**
 
@@ -45,28 +44,32 @@ La nouvelle interface présente une iconographie améliorée et développée. En
 
 **Navigation globale**
 
-Au revoir le super-bal. Vous avez maintenant un accès rapide à toutes les principales sections de Marketo.
+Adieu super-ballon. Vous avez désormais un accès rapide à toutes les sections Marketo principales.
 
 ![](assets/overview-5.png)
 
-**URL d’instance**
+**URL de l’instance**
 
-Vous avez également un accès rapide à votre ID de serviette, qui se reflète désormais dans l’URL de votre instance (ce qui s’avère encore plus utile pour les personnes ayant plusieurs abonnements).
+Vous avez également un accès rapide à votre ID de munchkin, qui se reflète désormais dans l’URL de votre instance (encore plus utile pour les abonnés multiples).
 
 ![](assets/overview-6.png)
 
-## Nouvelles options d&#39;arborescence {#new-tree-options}
+## Nouvelles options d’arborescence {#new-tree-options}
 
-Il y a une tonne de nouvelles fonctions d&#39;arbre disponibles.
+Une tonne de nouvelles fonctions d’arborescence sont disponibles.
 
-**Marketo Classic contre le nouveau Marketo**
+>[!NOTE]
+>
+>L’exécution d’une recherche dans l’arborescence affiche uniquement les 250 premiers résultats. Si, après une recherche, vous ne parvenez pas à localiser votre ressource, utilisez la fonction [Recherche globale](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md).
+
+**Marketo Classic et le nouveau Marketo**
 
 <table> 
  <tbody>
   <tr>
    <th>Fonctionnalité</th> 
-   <th>Classique</th> 
-   <th>Nouvelle génération</th> 
+   <th>Classic</th> 
+   <th>Génération suivante</th> 
   </tr>
   <tr>
    <td>Application simultanée de plusieurs filtres</td> 
@@ -74,42 +77,42 @@ Il y a une tonne de nouvelles fonctions d&#39;arbre disponibles.
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Noeud d'arborescence de brouillon et d'approbation combiné</td> 
+   <td>Noeud d'arborescence de brouillon et de validation combiné</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Création de fichiers locaux dans des dossiers de programme</td> 
+   <td>Création de ressources locales dans des dossiers de programme</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Doublon-clic pour développer/réduire les noeuds d'arborescence</td> 
+   <td>Double-cliquez pour développer/réduire des noeuds d’arborescence</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Glisser-déposer de l’arborescence au flux d’engagement</td> 
+   <td>Glisser-déposer de l’arborescence vers le flux d’engagement</td> 
    <td><strong>X</strong></td> 
    <td></td> 
   </tr>
   <tr>
-   <td>Faire glisser et déposer dans l’arborescence</td> 
+   <td>Glisser-déposer dans l’arborescence</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Filtrage par type de fichier et états</td> 
+   <td>Filtrage par type de ressource et états</td> 
    <td><i>partiel</i></td> 
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Mettre en surbrillance l'arrière-plan pour afficher la hiérarchie dans l'état ciblé</td> 
+   <td>Mise en surbrillance de l’arrière-plan pour afficher la hiérarchie à l’état de focus</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Mise en surbrillance des mots-clés pendant la recherche</td> 
+   <td>Mise en surbrillance des mots-clés lors de la recherche</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -119,17 +122,17 @@ Il y a une tonne de nouvelles fonctions d&#39;arbre disponibles.
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>État de survol des noeuds d’arborescence</td> 
+   <td>État de survol des noeuds de l’arborescence</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Réduire rapidement l'arborescence entière</td> 
+   <td>Réduisez rapidement l’arborescence entière</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Réduire rapidement le noeud racine</td> 
+   <td>Réduisez rapidement le composant au noeud racine.</td> 
    <td></td> 
    <td><strong>X</strong></td>  
   </tr>
@@ -139,7 +142,7 @@ Il y a une tonne de nouvelles fonctions d&#39;arbre disponibles.
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Arbre redimensionnable</td> 
+   <td>Arborescence redimensionnable</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -149,7 +152,7 @@ Il y a une tonne de nouvelles fonctions d&#39;arbre disponibles.
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Chaîne de recherche enregistrée lors de la saisie d'une recherche globale à partir d'une recherche dans l'arborescence</td> 
+   <td>Chaîne de recherche enregistrée lors de la saisie d’une recherche globale à partir d’une recherche dans l’arborescence</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -159,12 +162,12 @@ Il y a une tonne de nouvelles fonctions d&#39;arbre disponibles.
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Balise d’état et info-bulles</td> 
+   <td>Badge d’état et info-bulles</td> 
    <td></td> 
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Logique de recherche "débuts Word avec"</td> 
+   <td>Logique de recherche "Word commence par"</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -173,7 +176,7 @@ Il y a une tonne de nouvelles fonctions d&#39;arbre disponibles.
 
 ## Navigation globale {#global-nav}
 
-Jetez un coup d&#39;oeil au nouveau Global Nav.
+Découvrez la nouvelle navigation globale.
 
 ![](assets/overview-7.png)
 
@@ -189,11 +192,11 @@ Jetez un coup d&#39;oeil au nouveau Global Nav.
   </tr>
   <tr>
    <td>3</td> 
-   <td>Utilisez cette option pour fournir des commentaires sur votre expérience MEUE</td> 
+   <td>Utilisez-le pour fournir des commentaires sur votre expérience MEUE</td> 
   </tr>
   <tr>
    <td>4</td> 
-   <td>Si vous avez plusieurs abonnements, cliquez sur votre sous-nom pour passer facilement à un autre.</td> 
+   <td>Si vous disposez de plusieurs abonnements, cliquez sur votre sous-nom pour passer facilement à un autre.</td> 
   </tr>
   <tr>
    <td>5</td> 
@@ -204,10 +207,10 @@ Jetez un coup d&#39;oeil au nouveau Global Nav.
 
 >[!NOTE]
 >
->Tout ce qui vivait dans la liste déroulante des super-balles est toujours disponible en tant que carreaux dans votre My Marketo.
+>Tous les éléments qui vivaient dans la liste déroulante des superboules sont toujours disponibles sous forme de mosaïque dans votre Marketo.
 
 >[!TIP]
 >
->L&#39;utilisation de la recherche dans l&#39;arborescence ne produira que les résultats de la section que vous utilisez (par exemple, Activités marketing). Si vous souhaitez effectuer une recherche sur l’intégralité de votre instance, utilisez la recherche globale.
+>L’utilisation de la recherche dans l’arborescence ne produira que les résultats de la section dans laquelle vous vous trouvez (par exemple, les activités marketing). Si vous souhaitez rechercher l’instance entière, utilisez la recherche globale.
 
-Profitez de la nouvelle expérience des Marketo Engage et n&#39;oubliez pas de partager vos commentaires !
+Profitez de la nouvelle expérience du Marketo Engage et veillez à partager vos commentaires !
