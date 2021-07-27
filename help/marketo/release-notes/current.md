@@ -1,9 +1,9 @@
 ---
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
-source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
+source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '974'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Les fonctionnalités suivantes sont incluses dans la version du 21 août. Pour c
 Les fonctionnalités suivantes seront publiées le **20 août 2021**.
 
 ## Intégration Adobe Experience Platform {#adobe-experience-platform-integration}
-
-* **Connecteur Adobe Experience Platform natif pour le partage d’audiences vers Marketo Engage** : Activez l’orchestration de campagnes multicanaux dans Marketo Engage pour les segments d’audience créés dans Adobe Experience Cloud via le connecteur de destination natif. Le connecteur utilise des adresses électroniques pour faire correspondre les profils Adobe Experience Platform aux profils de prospect Marketo Engage, ce qui se traduit par un partage de segment très précis entre les applications. Les listes de Marketo Engage statiques sont automatiquement créées et permettent aux marketeurs d’atteindre les audiences cibles avec des messages hautement personnalisés ou de lancer des workflows. Activez les audiences des personnes en exploitant le contexte de leur compte et opportunité, ainsi que des données plus complètes et en temps réel dans Experience Platform.
 
 * **Authentification de l’utilisateur Marketo Engage via l’identité** de l’Adobe : À compter de septembre 2021, les nouveaux utilisateurs Marketo Engage disposant de packages d’entreprise seront intégrés à l’aide des informations d’identification d’utilisateur Adobe ID. La migration des utilisateurs actuels vers le système d’identité intégré ne se fera pas avant la mi-2022 et aucune action n’est requise avant avis préalable. L’authentification des utilisateurs de l’identité Adobe permet aux administrateurs informatiques/de sécurité de gérer plusieurs instances de produit de Marketo Engage avec d’autres solutions Experience Cloud, ainsi que de configurer la connexion unique par le biais d’une console commune. Les administrateurs peuvent facilement gérer les groupes d’utilisateurs et les droits des utilisateurs au même endroit.
 
