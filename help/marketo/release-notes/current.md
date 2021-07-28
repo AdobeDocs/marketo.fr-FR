@@ -1,9 +1,9 @@
 ---
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
-source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
+source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,11 @@ Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées
 
 ![(étoile)](assets/yellow-star.png)
 
-* **Limitation de la connexion par e-mail (GA)** : Améliorez la délivrabilité des emails et améliorez la communication des ventes personnalisée grâce au ralentissement de la connexion aux emails pour Sales Connect. Cette nouvelle technologie gère automatiquement le délai d’envoi des emails afin de créer des expériences transparentes pour les utilisateurs d’Exchange et de Gmail. Réduisez ou supprimez l’utilisation des applications tierces d’envoi de courriers électroniques en masse et envoyez tous vos courriers électroniques à Sales Connect en toute confiance.
+* **Limitation de la connexion par e-mail (version bêta)** : Améliorez la délivrabilité des emails et améliorez la communication des ventes personnalisée grâce au ralentissement de la connexion aux emails pour Sales Connect. Cette nouvelle technologie gère automatiquement le délai d’envoi des emails afin de créer des expériences transparentes pour les utilisateurs d’Exchange et de Gmail. Réduisez ou supprimez l’utilisation des applications tierces d’envoi de courriers électroniques en masse et envoyez tous vos courriers électroniques à Sales Connect en toute confiance.
+
+>[!NOTE]
+>
+>Le ralentissement des emails est désormais disponible en version bêta. [En savoir plus](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **Statistiques sur les activités de vente améliorées** : Capturez et activez un engagement personnalisé en fonction des activités antérieures de votre équipe commerciale. De nouveaux attributs tels que le lien d’enregistrement des appels commerciaux, le nom de la campagne commerciale et l’objet du courrier électronique commercial peuvent être utilisés dans les listes dynamiques de Marketo Engage.  Ces activités peuvent être exportées et consignées par le biais de l’API REST du Marketo Engage ou de l’exportation en bloc. Elles sont disponibles sur les filtres et les déclencheurs en tant que contraintes supplémentaires pour les listes dynamiques.
 
