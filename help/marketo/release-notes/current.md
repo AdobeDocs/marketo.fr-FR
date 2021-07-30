@@ -1,9 +1,9 @@
 ---
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
-source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
+source-git-commit: 47b1a8fe0adfd3b26b3fad7821b45e9a0b6f61bf
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -36,10 +36,7 @@ Les fonctionnalités suivantes seront publiées le **20 août 2021**.
 
 * **API** de métadonnées des champs personnalisés : Rationalisation de la création et de la gestion des champs personnalisés dans Marketo Engage pour les intégrations de partenaires. Créez automatiquement de nouveaux champs sur un objet de piste et effectuez des mises à jour de champs dans plusieurs instances de Marketo Engage immédiatement et simultanément.
 
-* **Amélioration du filtrage** : Plusieurs API prennent désormais en charge davantage de filtrage, comme l’ajout d’un filtre de période aux ressources de messagerie et aux champs des membres du programme. Vous pouvez désormais extraire uniquement les données qui ont été mises à jour au cours d’une certaine période pour les API suivantes...
-   * Obtention des membres du programme
-   * Obtenir des emails
-   * Extraction d’activité en bloc
+* **Amélioration du filtrage** : Plusieurs API prennent désormais en charge davantage de filtrage, comme l’ajout d’un filtre de période aux ressources de messagerie et aux champs des membres du programme.
 
 * **Submit Form API** : Lorsqu’une adresse électronique est dupliquée dans plusieurs enregistrements de piste, nous mettons à jour l’enregistrement &quot;Dernière mise à jour&quot; au lieu de l’ignorer complètement. Fournit une parité avec l’API Forms 2.0.
 
