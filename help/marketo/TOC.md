@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
+source-git-commit: bc62f6e43259791fff47f2dbb32cb22a665db1a8
 workflow-type: tm+mt
-source-wordcount: '8048'
+source-wordcount: '8052'
 ht-degree: 5%
 
 ---
@@ -134,6 +134,7 @@ ht-degree: 5%
          + [Configuration système minimale](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
          + [Navigateurs pris en charge](product-docs/administration/setup-administration/supported-browsers.md)
+         + [Règle de validation de formulaire globale](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + Intégrations supplémentaires {#additional-integrations}
          + [Ajout d’Adobe Connect en tant que service LaunchPoint](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [Ajout de Google AdWords en tant que service Launch avec un compte de gestionnaire](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
