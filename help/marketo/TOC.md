@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: bc62f6e43259791fff47f2dbb32cb22a665db1a8
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '8052'
+source-wordcount: '8064'
 ht-degree: 5%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 5%
          + [Création d’une activité personnalisée](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Modification d’une activité personnalisée](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [Publication d’une activité personnalisée](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [Exportation des métadonnées d’activité personnalisées](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
       + Objets personnalisés Marketo {#marketo-custom-objects}
          + [Présentation des objets personnalisés Marketo](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Ajout de champs d’objet personnalisés Marketo](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
@@ -1219,6 +1220,8 @@ ht-degree: 5%
          + [Octroi de l’accès aux utilisateurs](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Moments intéressants dans Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Rendre une campagne visible pour les utilisateurs de Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Glossaire des activités de vente](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
+         + [Déclencheurs et filtres d’activité de vente](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personne {#people}
          + [Vue Détails de la personne](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Conformité à la norme commerciale et au RGPD](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
