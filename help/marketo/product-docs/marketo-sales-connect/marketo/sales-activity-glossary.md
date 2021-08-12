@@ -3,10 +3,10 @@ description: Glossaire des activités de vente - Documents Marketo - Documentati
 title: Glossaire des activités de vente
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 17%
+source-wordcount: '416'
+ht-degree: 14%
 
 ---
 
@@ -60,7 +60,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
  <tr>
   <td>ID du modèle</td>
  </tr>
- <tr>
+<tr>
   <th rowspan="2">Courrier électronique de vente reçu</th>
   <td>Reçu par</td>
  </tr>
@@ -150,6 +150,74 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   <th>Description</th>
  </tr>
  <tbody> 
+ <tr> 
+   <td><strong>Détails</strong></td> 
+   <td>Détails du message d’erreur de rebond.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Adresse e-mail</strong></td> 
+   <td>Adresse électronique qui a fait l’objet d’un rebond.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Lien</strong></td> 
+   <td>URL sur laquelle l’utilisateur a cliqué.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Reçu par</strong></td> 
+   <td>Adresse électronique de la personne qui a envoyé l’adresse électronique.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Réponse à l’appel  Sales par</strong></td> 
+   <td>Nom de la personne qui a répondu à l’appel.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Durée des appels de vente</strong></td> 
+   <td>Durée de l’appel en secondes.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Appel  Sales passé par</strong></td> 
+   <td>Adresse électronique du vendeur qui a effectué l’appel.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL de l’enregistrement de l’appel  Sales</strong></td> 
+   <td>URL de l’enregistrement des appels.</td> 
+  </tr>
+  <tr> 
+   <td><strong>État des appels commerciaux</strong></td> 
+   <td>Enregistrez l’état de l’appel final qui inclut : terminé, aucune réponse, annulé, échec.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Objet des appels commerciaux</strong></td> 
+   <td>Appelez le résultat sélectionné par un utilisateur commercial dans la boîte de dialogue.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Identifiant de campagne de ventes</strong></td> 
+   <td>Identifiant unique de la ressource de campagne commerciale dans Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Nom de la campagne commerciale</strong></td> 
+   <td>Nom de la campagne de ventes.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL de la campagne de ventes</strong></td> 
+   <td>URL de Connect commercial pour la campagne de ventes.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Objet du courriel de vente</strong></td> 
+   <td>Objet de l’email.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Numéro de téléphone de vente appelé</strong></td> 
+   <td>Numéro de téléphone appelé par le service commercial.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Nom du modèle de ventes</strong></td> 
+   <td>Nom du modèle d’email dans Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL du modèle de ventes</strong></td> 
+   <td>URL de connexion des ventes pour le modèle de courrier électronique.</td> 
+  </tr>
   <tr> 
    <td><strong>Envoyé par</strong></td>
    <td>Adresse électronique de la personne qui a envoyé l’adresse électronique.</td> 
@@ -162,18 +230,6 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
    <td><strong>ID du modèle</strong></td> 
    <td>Lorsque la source est Tout, l’ID de modèle est l’ID de modèle Marketo Sales Connect. Utilisez cette option pour cibler un modèle spécifique au lieu d’une ligne d’objet, qui peut exister dans plusieurs modèles.
 </td> 
-  </tr> 
-  <tr> 
-   <td><strong>Reçu par</strong></td> 
-   <td>Adresse électronique de la personne qui a envoyé l’adresse électronique.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Détails</strong></td> 
-   <td>Détails du message d’erreur de rebond.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Adresse e-mail</strong></td> 
-   <td>Adresse électronique qui a fait l’objet d’un rebond.</td> 
   </tr> 
  </tbody> 
 </table>
