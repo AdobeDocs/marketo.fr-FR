@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
+source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
 workflow-type: tm+mt
-source-wordcount: '8064'
+source-wordcount: '8071'
 ht-degree: 5%
 
 ---
@@ -318,6 +318,7 @@ ht-degree: 5%
             + [Demander une campagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [Envoyer une alerte](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
             + [Envoyer un e-mail](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
+            + [Actions de flux unique à partir de la page Détails de la personne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
             + [Déclencheurs et filtres pour les campagnes dynamiques mobiles](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [Utilisation d’un webhook dans une campagne dynamique](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [Utilisation de l’option Ajouter un choix à une étape de flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
