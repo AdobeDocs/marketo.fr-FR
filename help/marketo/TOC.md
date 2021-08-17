@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
+source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 5%
@@ -493,18 +493,18 @@ ht-degree: 5%
                + [Aperçu d’un email](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
                + [Envoi d’un exemple](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [Partager un moment](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
-         + Divers {#miscellaneous}
-            + [Configuration de l’intégration Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
-            + [Créer un dossier Campaign](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-            + [Importation de ressources avec Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
-            + [Glossaire des raccourcis clavier](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
-            + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
-            + [Renommer une ressource Marketo](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [Configuration du partage d’audience Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
-            + [Synchronisation d’une audience à partir de Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
-            + [Présentation des dossiers](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
-            + [Présentation des notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
-            + [Types de notification](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Divers {#miscellaneous}
+         + [Configuration de l’intégration Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
+         + [Créer un dossier Campaign](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
+         + [Importation de ressources avec Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
+         + [Glossaire des raccourcis clavier](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
+         + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
+         + [Renommer une ressource Marketo](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
+         + [Configuration du partage d’audience Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
+         + [Synchronisation d’une audience à partir de Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Présentation des dossiers](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
+         + [Présentation des notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
+         + [Types de notification](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
    + Synchronisation CRM {#crm-sync}
       + Synchronisation Microsoft Dynamics {#microsoft-dynamics}
          + [Présentation de la synchronisation Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
