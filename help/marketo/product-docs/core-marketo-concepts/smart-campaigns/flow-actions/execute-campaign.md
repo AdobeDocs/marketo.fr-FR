@@ -1,7 +1,7 @@
 ---
 description: Exécuter Campaign - Documents Marketo - Documentation du produit
 title: Lancer la campagne
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 1%
@@ -10,88 +10,88 @@ ht-degree: 1%
 
 # Lancer la campagne {#execute-campaign}
 
-Un Campaign exécutable, comme d&#39;autres campagnes, contient une Liste intelligente, un flux et une planification. Contrairement à d’autres campagnes, vous ne planifiez pas ou n’activez pas ce type de campagne. Elle ne peut être appelée que par une autre campagne via l’étape de flux Exécuter Campaign. Les étapes de flux dans le Campaign exécutable sont exécutées en série avec la campagne parent (contrairement à Request Campaign, qui s’exécute en parallèle dans un Campaign Trigger distinct).
+Une campagne exécutable, comme d’autres campagnes, contient une liste dynamique, un flux et une planification. Contrairement à d’autres campagnes, vous ne le planifiez pas ou ne l’activez pas. Elle ne peut être appelée que par une autre opération via l&#39;étape de flux Exécuter la campagne . Les étapes de flux dans la campagne exécutable sont exécutées en série avec la campagne parente (contrairement à la campagne de requête qui s’exécute en parallèle dans une campagne de déclenchement distincte).
 
 >[!NOTE]
 >
 >Les campagnes exécutables sont toujours des enfants de la campagne (parent) qui les appelle.
 
-## Quand utiliser Exécuter Campaign {#when-to-use-execute-campaign}
+## Quand utiliser Exécuter une campagne {#when-to-use-execute-campaign}
 
-Il y a beaucoup de choses que vous pouvez faire avec une Campaign Exécutable. Elles sont conçues pour faciliter les tâches opérationnelles communes, telles que le routage de piste, la gestion du cycle de vie et la notation (entre autres), et peuvent être utilisées pour exécuter le même flux de travail depuis les campagnes par lot ou déclenchées.
+Vous pouvez réaliser de nombreuses actions avec une campagne exécutable. Ils sont conçus pour faciliter les tâches opérationnelles courantes, telles que le routage des pistes, la gestion du cycle de vie et la notation (entre autres), et peuvent être utilisés pour exécuter le même workflow à partir des campagnes par lots ou déclenchées.
 
-Vous pouvez également les utiliser lorsque vous devez exécuter un flux distinct, mais vous devez dépendre des résultats de ce flux dans les choix d’étapes de flux suivants (c.-à-d., si cela est le cas, faites-le).
+Vous pouvez également les utiliser lorsque vous devez exécuter un flux distinct, mais vous devez dépendre des résultats de ce flux dans les choix d’étapes de flux suivants (c’est-à-dire, si cela se produit).
 
-Exécuter Campaign est une amélioration sur [Request Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), car il peut s&#39;exécuter en série ou en parallèle, alors que ce dernier s&#39;exécute uniquement en parallèle.
+L’option Exécuter la campagne est une amélioration de la fonction [Demander la campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), car elle peut s’exécuter en série ou en parallèle, tandis que cette dernière ne s’exécute qu’en parallèle.
 
 >[!NOTE]
 >
->Les étapes d’attente et les crochets Web ne seront jamais compatibles avec les campagnes exécutables. Pour ceux-ci, vous devrez utiliser Request Campaign à la place.
+>Les étapes d’attente et les webhooks ne seront jamais compatibles avec les campagnes exécutables. Pour ce faire, vous devrez utiliser la commande Demander la campagne à la place.
 
-## Création d&#39;une Campaign exécutable {#how-to-create-an-executable-campaign}
+## Création d’une campagne exécutable {#how-to-create-an-executable-campaign}
 
-1. Cliquez avec le bouton droit de la souris sur votre programme et sélectionnez **Nouvelle Campaign intelligente**.
+1. Cliquez avec le bouton droit de la souris sur le programme de votre choix et sélectionnez **Nouvelle campagne dynamique**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Attribuez-lui un nom, cochez la case **Exécutable**, puis cliquez sur **Créer**.
+1. Donnez-lui un nom, cochez la case **Exécutable**, puis cliquez sur **Créer**.
 
    ![](assets/execute-campaign-2.png)
 
-1. Définissez la Liste et le flux dynamiques, comme tout autre Campaign dynamique.
+1. Définissez la liste dynamique et le flux, comme toute autre campagne dynamique.
 
-Vous pouvez également cloner une Campaign dynamique existante. Si vous clonez un Campaign exécutable existant, vous devrez toujours cocher la case **Executable** après l&#39;avoir nommé.
+Vous pouvez également cloner une campagne dynamique existante. Si vous clonez une campagne exécutable existante, vous devrez toujours cocher la case **Exécutable** après l’avoir nommée.
 
 >[!NOTE]
 >
 >Vous ne pouvez pas cloner une campagne qui contient des déclencheurs.
 
-## Utiliser le contexte du jeton Campaign parent {#use-parent-campaign-token-context}
+## Utiliser le contexte du jeton de campagne parent {#use-parent-campaign-token-context}
 
-Lorsqu’elle est définie sur true, les contextes de jeton suivants sont envoyés dans la campagne enfant (celle en cours d’exécution) :
+Lorsque la valeur est définie sur true, les contextes de jeton suivants sont envoyés dans la campagne enfant (celle en cours d’exécution) :
 
 * Mes jetons
-* Jetons Campaign
+* Jetons de campagne
 * Jetons de programme
 * Jetons de membre
-* [Jetons](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)  de déclenchement (s’ils sont appelés à partir d’une Campaign déclenchée)
+* [Jetons de déclenchement](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)  (s’il est appelé à partir d’une campagne déclenchée)
 
 **Interaction API**
 
-Lors de l’utilisation de l’option Planifier ou Demander Campaign [dans l’API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), les deux options vous permettent de transmettre des valeurs pour Mes jetons, ce qui remplace les valeurs définies pour ces jetons dans la campagne que vous appelez. Si ce Campaign exécute ensuite une autre campagne et définit &quot;Utiliser le contexte parent avec la valeur True&quot;, il utilisera les valeurs transmises par le biais de l’API, plutôt que celles définies dans l’application.
+Lors de l’utilisation de l’option Planifier ou Demander la campagne [dans l’API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), les deux permettent de transmettre des valeurs pour Mes jetons, ce qui remplace les valeurs définies pour ces jetons dans la campagne que vous appelez. Si cette campagne exécute ensuite une autre campagne et définit &quot;Utiliser le contexte parent sur True&quot;, elle utilisera les valeurs transmises par le biais de l’API, plutôt que les valeurs définies dans l’application.
 
-## Éléments à noter {#things-to-note}
+## Informations à noter {#things-to-note}
 
-* La Liste intelligente filtrera tous ceux qui ne sont pas admissibles. Si une personne est admissible, l&#39;enregistrement d&#39;activité Campaign exécuté qui en résulte les liste comme &quot;Qualifié : TRUE&quot; (et FALSE dans le cas contraire)
-* Les règles de qualification Planifier Campaign s’appliquent (Paramètres de Campaign intelligent sous l’onglet Planifier).
+* La liste dynamique exclut toute personne qui ne remplit pas les critères. Si une personne est admissible, l’enregistrement de l’activité Campagne exécutée qui en résulte la liste est &quot;Qualifiée : TRUE&quot; (et FALSE dans le cas contraire)
+* Les règles de qualification de la campagne de planification s’appliquent (Paramètres de campagne dynamique sous l’onglet Planning)
 * Les campagnes exécutables ne peuvent pas être appelées dans les espaces de travail.
-* Si vous utilisez l&#39;action de flux [Supprimer du flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) ciblant une Campaign exécutable, elle cible à la fois l&#39;enfant et le parent.
-* Profiter de l’héritage des jetons - Par exemple, si vous avez un seul flux de score commun déclenché par plusieurs ressources différentes, vous pouvez définir un score par défaut Mon jeton dans la campagne enfant et dans la campagne parente afin de remplacer la valeur de campagne de score enfant pour vos campagnes parentes (voir l’exemple visuel ci-dessous).
-* L&#39;imbrication de campagnes exécutables n&#39;est pas disponible pour l&#39;instant, mais sera dans une prochaine version
+* Si vous utilisez l’action de flux [Supprimer du flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) ciblant une campagne exécutable, elle cible à la fois l’enfant et le parent.
+* Tirer parti de l’héritage des jetons : si, par exemple, vous disposez d’un seul flux de notation commun déclenché par plusieurs ressources différentes, vous pouvez définir un score Mon jeton par défaut dans la campagne enfant et dans la campagne parente, de sorte que vous puissiez remplacer la valeur de la campagne Score enfant pour vos campagnes parentes (voir l’exemple ci-dessous).
+* Les campagnes exécutables peuvent être appelées jusqu’à trois niveaux de profondeur (par exemple, Campagne parent > Enfant > Enfant).
 
 >[!CAUTION]
 >
->Ne laissez jamais vos listes intelligentes pour les campagnes exécutables non valides, sinon **personne** n&#39;y aura droit. Il est recommandé de créer des ressources de liste intelligentes distinctes, de les définir complètement et de s’assurer qu’elles sont valides. Ensuite, utilisez le filtre &quot;Membre de la Liste intelligente&quot; dans le Campaign exécutable pour que vous puissiez permuter votre définition de liste intelligente.
+>Ne laissez jamais vos listes dynamiques pour les campagnes exécutables non valides, sinon **personne** ne sera admissible pour cette opération. La bonne pratique consiste à créer des ressources de liste dynamique distinctes, à les définir complètement et à s’assurer qu’elles sont valides. Ensuite, utilisez le filtre &quot;Membre de la liste dynamique&quot; dans la campagne exécutable afin de pouvoir échanger votre définition de liste dynamique.
 
-## Exemple d&#39;héritage de jeton {#token-inheritance-example}
+## Exemple d’héritage du jeton {#token-inheritance-example}
 
-Vous trouverez ci-dessous un exemple visuel de l&#39;héritage des jetons dans une Campaign exécutable et deux campagnes parents : l’un avec un contexte de jeton défini sur **True**, l’autre sur **False**.
+Vous trouverez ci-dessous un exemple visuel de l’héritage des jetons dans une campagne exécutable et deux campagnes parentes : l’un dont le contexte du jeton est défini sur **True**, l’autre sur **False**.
 
-Campagne enfant avec un score de changement symbolique.
+Campagne enfant avec une note de changement symbolique.
 
 ![](assets/execute-campaign-3.png)
 
-Les jetons de la campagne enfant.
+La campagne enfant est Mes jetons.
 
 ![](assets/execute-campaign-4.png)
 
 **Exemple 1 - Vrai**
 
-À l’étape Exécuter le flux Campaign de la première campagne parent, le paramètre &quot;Utiliser le contexte du jeton Parent Campaign&quot; est défini sur **True**.
+À l’étape du flux Exécuter la campagne de la première campagne parente, le paramètre &quot;Utiliser le contexte du jeton de campagne parent&quot; est défini sur **True**.
 
 ![](assets/execute-campaign-5.png)
 
-Mes jetons de la campagne parent.
+Mes jetons de la campagne parente.
 
 ![](assets/execute-campaign-6.png)
 
@@ -101,14 +101,14 @@ Les résultats : note modifiée par +10.
 
 **Exemple 2 : False**
 
-Dans le filtre Exécuter Campaign de la seconde campagne parent, le paramètre &quot;Utiliser le contexte du jeton Parent Campaign&quot; est défini sur **False**.
+Dans le filtre Exécuter la campagne de la seconde campagne parente, le paramètre &quot;Utiliser le contexte du jeton de campagne parent&quot; est défini sur **False**.
 
 ![](assets/execute-campaign-8.png)
 
-Mes jetons de la campagne parent.
+Mes jetons de la campagne parente.
 
 ![](assets/execute-campaign-9.png)
 
-Les résultats : score inchangé, car la valeur de score de la campagne enfant, +0, a été utilisée.
+Les résultats : note inchangée, car la valeur de score de la campagne enfant, +0, a été utilisée.
 
 ![](assets/execute-campaign-10.png)
