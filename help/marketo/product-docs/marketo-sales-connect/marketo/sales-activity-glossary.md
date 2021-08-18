@@ -1,9 +1,7 @@
 ---
 description: Glossaire des activités de vente - Documents Marketo - Documentation du produit
 title: Glossaire des activités de vente
-hide: true
-hidefromtoc: true
-source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 14%
