@@ -1,9 +1,9 @@
 ---
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,9 @@ Les fonctionnalités suivantes seront publiées le **20 août 2021**.
 
 * **Action de flux unique sur la page Détails de la personne**  (disponible d’ici le 30 août) : Exécutez des actions de flux telles que l’envoi d’un courrier électronique, le changement de propriétaire ou toute autre action de campagne dynamique sur des personnes à partir de la page des détails de la personne à l’aide du menu d’actions de flux sans passer en mode Grille de la base de données.
 
-* **Exportation d’activités personnalisées** : L’exportation de métadonnées prend désormais en charge tous les objets et métadonnées respectifs qui peuvent être utilisés pour partager, analyser et concevoir votre modèle de données d’abonnement.
+* **[Exportation d’activités personnalisées](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)** : L’exportation de métadonnées prend désormais en charge tous les objets et métadonnées respectifs qui peuvent être utilisés pour partager, analyser et concevoir votre modèle de données d’abonnement.
 
 ## Améliorations des API {#api-enhancements}
-
-* **API** de métadonnées des champs personnalisés : Rationalisation de la création et de la gestion des champs personnalisés dans Marketo Engage pour les intégrations de partenaires. Créez automatiquement de nouveaux champs sur un objet de piste et effectuez des mises à jour de champs dans plusieurs instances de Marketo Engage immédiatement et simultanément.
 
 * **Submit Form API** : Lorsqu’une adresse électronique est dupliquée dans plusieurs enregistrements de piste, nous mettons à jour l’enregistrement &quot;Dernière mise à jour&quot; au lieu de l’ignorer complètement. Fournit une parité avec l’API Forms 2.0.
 
