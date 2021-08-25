@@ -1,7 +1,7 @@
 ---
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
-source-git-commit: 256e089a418f67ab46249a18fe82e1e1f6d7bfb9
+source-git-commit: 6f9b5a591a315fd6ff036cd5d51dbb432bd31733
 workflow-type: tm+mt
 source-wordcount: '904'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Les fonctionnalités suivantes seront publiées le **20 août 2021**.
 
 * **Imbrication de campagne exécutable** : Les campagnes exécutables peuvent désormais également appeler d’autres campagnes exécutables, ce qui vous permet de les imbriquer jusqu’à trois niveaux de profondeur. Cela permet de consolider davantage les flux opérationnels communs et d&#39;améliorer la gestion dynamique des campagnes.
 
-* **Action de flux unique sur la page Détails de la personne**  (disponible d’ici le 30 août) : Exécutez des actions de flux telles que l’envoi d’un courrier électronique, le changement de propriétaire ou toute autre action de campagne dynamique sur des personnes à partir de la page des détails de la personne à l’aide du menu d’actions de flux sans passer en mode Grille de la base de données.
+* **Action de flux unique dans la page Détails de la personne**  (disponible d’ici le 9 septembre) : Exécutez des actions de flux telles que l’envoi d’un courrier électronique, le changement de propriétaire ou toute autre action de campagne dynamique sur des personnes à partir de la page des détails de la personne à l’aide du menu d’actions de flux sans passer en mode Grille de la base de données.
 
 * **[Exportation d’activités personnalisées](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)** : L’exportation de métadonnées prend désormais en charge tous les objets et métadonnées respectifs qui peuvent être utilisés pour partager, analyser et concevoir votre modèle de données d’abonnement.
 
