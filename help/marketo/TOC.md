@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 87bb4a2945dad03f3f041286b89efe80a577f79f
+source-git-commit: d5a4178567b4ab8814158e655fed8e60e2af98cb
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 5%
@@ -500,8 +500,8 @@ ht-degree: 5%
          + [Glossaire des raccourcis clavier](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [Renommer une ressource Marketo](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Configuration du partage d’audience Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
-         + [Synchronisation d’une audience à partir de Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Configuration du partage d’audience Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Synchronisation d’une audience à partir de Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Présentation des dossiers](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Présentation des notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Types de notification](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
