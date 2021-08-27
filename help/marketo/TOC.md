@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: f6d0d38b777e07f0a5139b22c3da38aaebc699fc
+source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 5%
@@ -582,31 +582,31 @@ ht-degree: 5%
                + [Activer la synchronisation d’objets personnalisés non anglais](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
                + [Définition du nom de personne par défaut et du nom de société](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
                + [Désactivation des notifications par courrier électronique pour le propriétaire de piste](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
-            + Détails de synchronisation SFDC {#sfdc-sync-details}
-               + [Comment faire correspondre les états de programme et les états de campagne Salesforce avant synchronisation](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
-               + [Synchronisation SFDC : Synchronisation des comptes](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-               + [Utilisation de comptes de personne](product-docs/crm-sync/salesforce-sync/setup/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
-               + [Synchronisation SFDC : Synchronisation des activités](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
-               + [Synchronisation SFDC : Synchronisation des campagnes](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
-               + [Synchronisation SFDC : Synchronisation des contacts](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
-               + [Synchronisation SFDC : Conversion d’un prospect en contact dans Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
-               + [Synchronisation SFDC : Synchronisation des objets personnalisés](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-               + [Synchronisation SFDC : Suppression d’un prospect/contact](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
-               + [Synchronisation SFDC : Synchronisation des champs](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
-               + [Ajout d’un champ Salesforce existant à la synchronisation Marketo](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/add-an-existing-salesforce-field-to-the-marketo-sync.md)
-               + [Mappage des champs Salesforce par défaut](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/default-salesforce-field-mapping.md)
-               + [Masquer un champ Salesforce de la synchronisation Marketo](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)
-               + [Synchronisation SFDC : Synchronisation des propriétaires de piste/compte](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-               + [Synchronisation SFDC : File d’attente des pistes](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
-               + [Synchronisation SFDC : Synchronisation des pistes](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
-               + [Synchronisation SFDC : Fusion d’un prospect/contact/personne](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
-               + [Synchronisation SFDC : Synchronisation des opportunités](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-            + [Ajout/suppression de valeurs de liste de sélection](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
-            + [Activation/désactivation de la synchronisation Salesforce](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
-            + [Actions Salesforce appliquées](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
-            + [Erreurs de synchronisation Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
-            + [Statut de synchronisation Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
-            + [Connexion à l’aide d’OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + Détails de synchronisation SFDC {#sfdc-sync-details}
+            + [Ajout d’un champ Salesforce existant à la synchronisation Marketo](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md)
+            + [Mappage des champs Salesforce par défaut](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping.md)
+            + [Masquer un champ Salesforce de la synchronisation Marketo](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)
+            + [Comment faire correspondre les états de programme et les états de campagne Salesforce avant synchronisation](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
+            + [Synchronisation SFDC : Synchronisation des comptes](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+            + [Synchronisation SFDC : Synchronisation des activités](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
+            + [Synchronisation SFDC : Synchronisation des campagnes](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+            + [Synchronisation SFDC : Synchronisation des contacts](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+            + [Synchronisation SFDC : Conversion d’un prospect en contact dans Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
+            + [Synchronisation SFDC : Synchronisation des objets personnalisés](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+            + [Synchronisation SFDC : Suppression d’un prospect/contact](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
+            + [Synchronisation SFDC : Synchronisation des champs](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
+            + [Synchronisation SFDC : Synchronisation des propriétaires de piste/compte](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+            + [Synchronisation SFDC : File d’attente des pistes](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
+            + [Synchronisation SFDC : Synchronisation des pistes](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+            + [Synchronisation SFDC : Fusion d’un prospect/contact/personne](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
+            + [Synchronisation SFDC : Synchronisation des opportunités](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+         + [Ajout/suppression de valeurs de liste de sélection](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
+         + [Activation/désactivation de la synchronisation Salesforce](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
+         + [Actions Salesforce appliquées](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Connexion à l’aide d’OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Erreurs de synchronisation Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
+         + [Statut de synchronisation Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [Utilisation de comptes de personne](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
    + Demand Generation {#demand-generation}
       + Intégrations de réseau publicitaire {#ad-network-integrations}
          + [Présentation des intégrations de réseaux publicitaires](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
