@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: d5a4178567b4ab8814158e655fed8e60e2af98cb
+source-git-commit: f6d0d38b777e07f0a5139b22c3da38aaebc699fc
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 5%
@@ -585,7 +585,7 @@ ht-degree: 5%
             + Détails de synchronisation SFDC {#sfdc-sync-details}
                + [Comment faire correspondre les états de programme et les états de campagne Salesforce avant synchronisation](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
                + [Synchronisation SFDC : Synchronisation des comptes](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-               + [Utilisation de comptes de personne](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
+               + [Utilisation de comptes de personne](product-docs/crm-sync/salesforce-sync/setup/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
                + [Synchronisation SFDC : Synchronisation des activités](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
                + [Synchronisation SFDC : Synchronisation des campagnes](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
                + [Synchronisation SFDC : Synchronisation des contacts](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
