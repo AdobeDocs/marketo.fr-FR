@@ -1,33 +1,34 @@
 ---
 unique-page-id: 7515616
-description: Liste de modèle de Landing page guidé - Documentation sur le marketing - Documentation du produit
-title: Liste de modèle de Landing page guidé
-translation-type: tm+mt
-source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
+description: Liste de modèles de page d’entrée guidée - Documents Marketo - Documentation du produit
+title: Liste de modèles de page d’entrée guidée
+exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
+hide: true
+hidefromtoc: true
+source-git-commit: d3a8aedba3c2b3403f6e7f206a51495ccab9ecd8
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
+# Liste de modèles de page d’entrée guidée {#guided-landing-page-template-list}
 
-# Liste de modèle de Landing page guidé {#guided-landing-page-template-list}
-
-Parcourez notre collection d’exemples de modèles, à utiliser avec l’[éditeur de Landings page guidé](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Chaque modèle est entièrement réactif et basé sur la structure du Bootstrap.
+Parcourez notre collection d’exemples de modèles à utiliser avec l’[éditeur de page d’entrée guidé](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Chaque modèle est entièrement réactif et basé sur la structure du Bootstrap.
 
 >[!NOTE]
 >
->La prise en charge du marketing n’est pas configurée pour faciliter le dépannage du code HTML. Si vous avez besoin d&#39;aide pour modifier l&#39;un de ces modèles, veuillez consulter un développeur Web.
+>La prise en charge de Marketo n’est pas configurée pour faciliter le dépannage du code HTML. Si vous avez besoin d’aide pour modifier l’un de ces modèles, consultez un développeur web.
 
 Pour importer un modèle dans Marketo :
 
 1. Cliquez sur le nom du modèle pour une vue plus grande.
-1. Téléchargez le modèle choisi.
+1. Téléchargez le modèle sélectionné.
 1. Dans Marketo, accédez à **Design Studio.**
-1. Cliquez sur **Landings page** dans l&#39;arborescence de gauche, puis sélectionnez **Modèles.**
+1. Cliquez sur **Pages d’entrée** dans l’arborescence de gauche, puis sélectionnez **Modèles.**
 
-1. Dans la barre de menus, cliquez sur **Modèle d&#39;import.**
-1. Choisissez le fichier téléchargé, saisissez un nom de modèle, puis cliquez sur **Importer** (veillez à sélectionner un nom descriptif et à indiquer que le mode de modification est **Guided**).
+1. Dans la barre de menus, cliquez sur **Importer un modèle.**
+1. Choisissez le fichier téléchargé, saisissez un nom de modèle, puis cliquez sur **Importer** (assurez-vous de sélectionner un nom descriptif et d’indiquer que le mode de modification est **Guidée**).
 
 |  |  |  |
 |---|---|---|
