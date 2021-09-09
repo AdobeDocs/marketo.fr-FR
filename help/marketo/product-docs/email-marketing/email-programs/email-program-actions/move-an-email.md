@@ -1,42 +1,39 @@
 ---
 unique-page-id: 10098691
-description: Déplacer un courrier électronique - Documents marketing - Documentation du produit
-title: Déplacer un courrier électronique
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Déplacement d’un courrier électronique - Documents Marketo - Documentation du produit
+title: Déplacer un email
+exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
+source-git-commit: 24aa698604c4480bd4c588bd7156e0d70556143b
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
+# Déplacer un email {#move-an-email}
 
-# Déplacer un courriel {#move-an-email}
-
-Vous devez déplacer un courriel d&#39;un programme à un autre ? Voici comment.
+Vous devez déplacer un email d&#39;un programme à un autre ? Voici comment.
 
 1. Accédez à **Activités marketing**.
 
-   ![](assets/one-2.png)
+   ![](assets/move-an-email-1.png)
 
-1. Recherchez le courriel à déplacer, cliquez avec le bouton droit de la souris dessus et sélectionnez **Déplacer**.
+1. Recherchez l&#39;email que vous souhaitez déplacer, cliquez dessus avec le bouton droit et sélectionnez **Déplacer**.
 
-   ![](assets/leadperformance.jpg)
+   ![](assets/move-an-email-2.png)
 
-1. Cliquez sur la liste déroulante **Déplacer vers** et sélectionnez **Activités marketing**.
+1. Sélectionnez **Destination**, **Programme** et le dossier **facultatif**. Sélectionnez **Déplacer**.
 
-   ![](assets/three-2.png)
+   ![](assets/move-an-email-3.png)
 
    >[!NOTE]
    >
-   >Dans cet exemple, nous déplaçons un courrier électronique vers un autre programme, mais vous pouvez également déplacer un courrier électronique vers un dossier dans Design Studio.
+   >Dans cet exemple, nous déplaçons un email vers un autre programme, mais vous pouvez également le déplacer vers un dossier dans Design Studio.
 
-1. Cliquez sur la liste déroulante **Programme**, recherchez et sélectionnez le programme de destination, puis cliquez sur **Déplacer**.
+   Vous verrez que votre email réside maintenant dans l&#39;autre programme.
 
-   ![](assets/four-2.png)
+   ![](assets/move-an-email-4.png)
 
-   Vous verrez que votre courriel vit maintenant dans l&#39;autre programme.
-
-   ![](assets/leadperformance2.jpg)
-
-   Plutôt chouette !
+   >[!NOTE]
+   >
+   >Vous pouvez également simplement faire glisser votre email vers une nouvelle destination dans l’arborescence.
