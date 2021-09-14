@@ -3,9 +3,9 @@ description: Présentation - Documents Marketo - Documentation du produit
 title: APERÇU
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '658'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ Bien qu’il y ait une carte de produit dans AC pour Sales Connect, AC ne doit p
 
 **Puis-je toujours accéder à la section Admin de Marketo pour apporter des modifications au compte ?**
 
-Non, vous devez accéder à [account.adobe.com](account.adobe.com).
+Non, vous devez accéder à [account.adobe.com](https://account.adobe.com).
 
 **Comment cela fonctionne-t-il avec Marketo Universal ID ?**
 
