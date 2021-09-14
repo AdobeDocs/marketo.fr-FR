@@ -1,118 +1,55 @@
 ---
 unique-page-id: 2359659
-description: Ajouter du contenu à un flux - Documents marketing - Documentation du produit
-title: Ajouter du contenu à un flux
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Ajout de contenu à un flux - Documents Marketo - Documentation du produit
+title: Ajout de contenu à un flux
+exl-id: b2db9f49-2baa-4d42-9755-480390a91041
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 0%
+source-wordcount: '173'
+ht-degree: 1%
 
 ---
 
+# Ajout de contenu à un flux {#add-content-to-a-stream}
 
-# Ajouter du contenu à un flux {#add-content-to-a-stream}
-
-Une fois votre programme d’engagement créé, vous devez ajouter du contenu aux flux. Vous pouvez ajouter des courriers électroniques ou des programmes à un flux.
-
-## Ajouter un courriel à un flux {#add-an-email-to-a-stream}
+Une fois que vous avez créé votre programme d’engagement, vous devez ajouter du contenu aux flux. Vous pouvez ajouter des emails ou des programmes à un flux.
 
 1. Accédez à **Activités marketing**.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/add-content-to-a-stream-1.png)
 
-1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux**.
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Diffusions** .
 
-   ![](assets/streamstab.jpg)
+   ![](assets/add-content-to-a-stream-2.png)
 
-   Vous pouvez ajouter le premier courriel de trois manières différentes :
+   Vous pouvez ajouter du contenu de deux manières différentes :
 
-**Bouton Ajouter le contenu**
+**Bouton Ajouter du contenu**
 
-1. Cliquez sur le bouton **Ajouter le contenu**.
+1. Cliquez sur le bouton **Ajouter du contenu** .
 
-   ![](assets/addcontentbutton.jpg)
+   ![](assets/add-content-to-a-stream-3.png)
 
-1. Laissez **Type** défini sur **Courriel**, puis sélectionnez le courriel à ajouter.
+1. Sélectionnez **Email** _ou_ **Programme**, puis sélectionnez l&#39;email ou le programme/la campagne dynamique à ajouter.
 
-   ![](assets/image2014-9-15-15-3a44-3a58.png)
+   ![](assets/add-content-to-a-stream-4.png)
 
    >[!TIP]
    >
-   >Les courriels locaux de ce programme d’engagement seront triés par-dessus.
+   >Les emails locaux à ce programme d’engagement seront triés en haut.
 
-**Stream + Icon**
+**+ Icône**
 
-1. Cliquez sur l’icône de flux **+**, laissez **Tapez** comme **Courriel**, puis sélectionnez le courriel à ajouter.
+1. Cliquez sur l’icône **+**, sélectionnez **Email** _ou_ **Programme**, puis sélectionnez l’email ou le programme/la campagne dynamique que vous souhaitez ajouter.
 
-   ![](assets/image2014-9-15-15-3a45-3a25.png)
-
-**Glisser-déposer**
-
-1. Faites simplement glisser le courrier électronique de l’arborescence dans le flux.
-
-   ![](assets/dragstreamcontent.jpg)
-
-## Ajouter un Programme à un flux {#add-a-program-to-a-stream}
-
-1. Accédez à **Activités marketing**.
-
-   ![](assets/login-marketing-activities-1.png)
-
-1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux**.
-
-   ![](assets/streamstab.jpg)
-
-   Vous pouvez ajouter un programme à votre flux de trois manières différentes :
-
-**Bouton Ajouter le contenu**
-
-1. Cliquez sur **Ajouter le contenu**.
-
-   ![](assets/image2014-9-15-15-3a45-3a51.png)
-
-1. Remplacez **Type** par Programme.
-
-   ![](assets/image2014-9-15-15-3a46-3a0.png)
-
-1. Recherchez et sélectionnez le programme.
-
-   ![](assets/image2014-9-15-15-3a46-3a11.png)
-
-1. Maintenant, sélectionnez la campagne intelligente dans le programme que vous voulez que les gens traversent.
-
-   ![](assets/image2014-9-15-15-3a46-3a17.png)
+   ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >La campagne intelligente doit comporter le filtre **Membre de l’Programme d’engagement** pour que cela fonctionne correctement.
+   >Une campagne dynamique doit contenir le filtre **Programme des membres de l’engagement** pour qu’elle fonctionne correctement.
 
-**Stream + Icon**
-
-1. Cliquez sur l’icône de diffusion **+**, puis remplacez **Type** par Programme.
-
-   ![](assets/image2014-9-15-15-3a46-3a43.png)
-
-1. Recherchez et sélectionnez votre programme.
-
-   ![](assets/image2014-9-15-15-3a46-3a49.png)
-
-1. Sélectionnez la campagne intelligente dans laquelle vous souhaitez que les personnes soient traitées.
-
-   ![](assets/image2014-9-15-15-3a46-3a54.png)
-
-**Glisser-déposer**
-
-1. Faites glisser et déposez le programme de votre choix depuis l’arborescence dans votre flux.
-
-   ![](assets/streamcadence.jpg)
-
-1. Maintenant, sélectionnez la campagne intelligente que vous voulez que les gens suivent.
-
-   ![](assets/image2014-9-15-15-3a47-3a8.png)
-
-Super boulot ! Vous connaissez maintenant différentes manières d’ajouter du contenu à vos flux de programme. Ajoutez autant que nécessaire pour votre culture. Consultez l&#39;article correspondant ci-dessous pour plus de détails.
+Bon boulot ! Vous savez maintenant comment ajouter du contenu à vos diffusions de programme. Ajoutez autant que nécessaire à votre culture. Pour plus d’informations, reportez-vous à l’article correspondant ci-dessous.
 
 >[!MORELIKETHIS]
 >
->[Ajouter un Programme à un flux de Programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
+>[Ajout d’un programme à un flux de programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
