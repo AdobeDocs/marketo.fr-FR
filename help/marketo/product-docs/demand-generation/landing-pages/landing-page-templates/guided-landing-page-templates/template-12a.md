@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437574
-description: Modèle 12A - Documents Marketo - Documentation du produit
-title: Modèle 12A
+description: Modèle 12-A - Documents Marketo - Documentation du produit
+title: Modèle 12-A
 exl-id: 761d7849-9137-4c6b-b9f2-96d380beb55d
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# Modèle 12A {#template-12a}
+# Modèle 12-A {#template-a}
 
-[Modèle de téléchargement 12A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)
+[Modèle de téléchargement 12-A](https://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
 
 ![](assets/image2015-8-4-14-3a23-3a23.png)
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez ci-dessous pour télécharger ce modèle :**
 
-[Template 12A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)
+[Template11-A.html](https://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)

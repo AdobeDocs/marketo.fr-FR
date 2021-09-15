@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8784014
-description: Modèle 10F - Documents Marketo - Documentation du produit
-title: Modèle 10F
+description: Modèle 10-F - Documents Marketo - Documentation du produit
+title: Modèle 10-F
 exl-id: 9f983388-725b-4ac0-bf39-5af56035b200
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Modèle 10F {#template-10f}
+# Modèle 10-F {#template-f}
 
-[Modèle de téléchargement 10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
+[Modèle de téléchargement 10-F](https://docs.marketo.com/download/attachments/8784014/template-10f.html?version=2&amp;modificationdate=1438210996000&amp;api=v2)
 
 ![](assets/image2015-7-27-11-3a14-3a42.png)
 
@@ -27,4 +27,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez ci-dessous pour télécharger ce modèle :**
 
-[Template 10F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
+[Template10-F.html](https://docs.marketo.com/download/attachments/8784014/template-10f.html?version=2&amp;modificationdate=1438210996000&amp;api=v2)

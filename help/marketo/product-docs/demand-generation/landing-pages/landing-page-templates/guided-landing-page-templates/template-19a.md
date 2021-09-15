@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092890
-description: Modèle 19A - Documents Marketo - Documentation du produit
-title: Modèle 19A
+description: Modèle 19-A - Documents Marketo - Documentation du produit
+title: Modèle 19-A
 exl-id: 365b4442-da1b-4346-b0a4-2512b46f8677
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '62'
 ht-degree: 1%
 
 ---
 
-# Modèle 19A {#template-19a}
+# Modèle 19-A {#template-a}
 
-[Modèle de téléchargement 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
+[Modèle de téléchargement 19-A](https://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 
@@ -27,4 +27,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez ci-dessous pour télécharger ce modèle :**
 
-[Template 19A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
+[Template19-A.html](https://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)

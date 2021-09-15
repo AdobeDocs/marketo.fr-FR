@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438197
-description: Modèle 17C - Documents Marketo - Documentation du produit
-title: Modèle 17C
+description: Modèle 17-C - Documents Marketo - Documentation du produit
+title: Modèle 17-C
 exl-id: d9d1079d-2adf-4b6e-befc-42e913ce8b2c
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Modèle 17C {#template-17c}
+# Modèle 17-C {#template-c}
 
-[Modèle de téléchargement 17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
+[Modèle de téléchargement 17-C](https://docs.marketo.com/download/attachments/9438197/template-17c.html?version=1&amp;modificationdate=1439843025000&amp;api=v2)
 
 ![](assets/image2015-8-17-17-3a6-3a47.png)
 
@@ -27,4 +27,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez ci-dessous pour télécharger ce modèle :**
 
-[Template 17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
+[Template17-C.html](https://docs.marketo.com/download/attachments/9438197/template-17c.html?version=1&amp;modificationdate=1439843025000&amp;api=v2)

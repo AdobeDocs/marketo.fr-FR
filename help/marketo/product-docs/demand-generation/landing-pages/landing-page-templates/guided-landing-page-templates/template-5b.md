@@ -1,20 +1,20 @@
 ---
 unique-page-id: 8783917
-description: Modèle 5B - Documents Marketo - Documentation du produit
-title: Modèle 5B
+description: Modèle 5-B - Documents Marketo - Documentation du produit
+title: Modèle 5-B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
-source-git-commit: 6fdffce0ab2b9cd3db72122260c1e105fe2ea20e
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# Modèle 5B {#template-5b}
+# Modèle 5-B {#template-b}
 
-[Télécharger le modèle 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+[Modèle de téléchargement 5-B](https://docs.marketo.com/download/attachments/8783917/template-5b.html?version=1&amp;modificationdate=1437692940000&amp;api=v2)
 
-![](assets/template-5b.png)
+![](assets/template5-b1.png)
 
 Ce modèle comprend le contenu suivant :
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez ci-dessous pour télécharger ce modèle :**
 
-[Template 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+[Template5-B.html](https://docs.marketo.com/download/attachments/8783917/template-5b.html?version=1&amp;modificationdate=1437692940000&amp;api=v2)

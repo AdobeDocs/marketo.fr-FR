@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092893
-description: Modèle 19B - Documents Marketo - Documentation du produit
-title: Modèle 19B
+description: Modèle 19-B - Documents Marketo - Documentation du produit
+title: Modèle 19-B
 exl-id: 8224c9ad-b732-4a75-9966-446980db55ef
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Modèle 19B {#template-19b}
+# Modèle 19-B {#template-b}
 
-[Modèle de téléchargement 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+[Modèle de téléchargement 19-B](https://docs.marketo.com/download/attachments/10092893/template-19b.html?version=1&amp;modificationdate=1441750370000&amp;api=v2)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -27,4 +27,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez ci-dessous pour télécharger ce modèle :**
 
-[Template 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+[Template19-B.html](https://docs.marketo.com/download/attachments/10092893/template-19b.html?version=1&amp;modificationdate=1441750370000&amp;api=v2)

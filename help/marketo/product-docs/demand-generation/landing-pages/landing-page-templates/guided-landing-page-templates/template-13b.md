@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437789
-description: Modèle 13B - Documents Marketo - Documentation du produit
-title: Modèle 13B
+description: Modèle 13-B - Documents Marketo - Documentation du produit
+title: Modèle 13-B
 exl-id: 507ecbb8-8844-499a-868e-b0a2de8402f4
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# Modèle 13B {#template-13b}
+# Modèle 13-B {#template-b}
 
-[Modèle de téléchargement 13B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)
+[Modèle de téléchargement 13-B](https://docs.marketo.com/download/attachments/9437789/template-13b.html?version=1&amp;modificationdate=1438979980000&amp;api=v2)
 
 ![](assets/image2015-8-11-10-3a48-3a42.png)
 
@@ -27,4 +27,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez ci-dessous pour télécharger ce modèle :**
 
-[Template 13B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)
+[Template13-B.html](https://docs.marketo.com/download/attachments/9437789/template-13b.html?version=1&amp;modificationdate=1438979980000&amp;api=v2)
