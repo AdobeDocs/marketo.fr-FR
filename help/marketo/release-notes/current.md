@@ -1,9 +1,10 @@
 ---
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
-source-git-commit: 6f9b5a591a315fd6ff036cd5d51dbb432bd31733
+exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '903'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ Les fonctionnalités suivantes seront publiées le **20 août 2021**.
 
 ## Automatisation de l’expérience {#experience-automation}
 
-* **Authentification de l’utilisateur Marketo Engage via l’identité** de l’Adobe : À compter de septembre 2021, les nouveaux utilisateurs Marketo Engage disposant de packages d’entreprise seront intégrés à l’aide des informations d’identification d’utilisateur Adobe ID. La migration des utilisateurs actuels vers le système d’identité intégré ne se fera pas avant la mi-2022 et aucune action n’est requise avant avis préalable. L’authentification des utilisateurs de l’identité Adobe permet aux administrateurs informatiques/de sécurité de gérer plusieurs instances de produit de Marketo Engage avec d’autres solutions Experience Cloud, ainsi que de configurer la connexion unique par le biais d’une console commune. Les administrateurs peuvent facilement gérer les groupes d’utilisateurs et les droits des utilisateurs au même endroit.
+* **Authentification de l’utilisateur Marketo Engage via l’identité** de l’Adobe : Les nouveaux utilisateurs Marketo Engage disposant de packages d’entreprise seront bientôt intégrés à l’aide des informations d’identification d’utilisateur Adobe ID. La migration des utilisateurs actuels vers le système d’identité intégré ne se fera pas avant la mi-2022 et aucune action n’est requise avant avis préalable. L’authentification des utilisateurs de l’identité Adobe permet aux administrateurs informatiques/de sécurité de gérer plusieurs instances de produit de Marketo Engage avec d’autres solutions Experience Cloud, ainsi que de configurer la connexion unique par le biais d’une console commune. Les administrateurs peuvent facilement gérer les groupes d’utilisateurs et les droits des utilisateurs au même endroit.
 
 * **Imbrication de campagne exécutable** : Les campagnes exécutables peuvent désormais également appeler d’autres campagnes exécutables, ce qui vous permet de les imbriquer jusqu’à trois niveaux de profondeur. Cela permet de consolider davantage les flux opérationnels communs et d&#39;améliorer la gestion dynamique des campagnes.
 

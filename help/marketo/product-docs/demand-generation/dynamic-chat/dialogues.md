@@ -3,9 +3,9 @@ description: Dialogues - Documents Marketo - Documentation du produit
 title: Dialogues
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ PICC
 
 Tout comme les listes dynamiques Marketo, les attributs Critères d’audience vous permettent de définir votre audience cible.
 
-Il existe plusieurs attributs parmi lesquels choisir. Dans cet exemple, nous choisissons l’état de piste _est_ Californie et la taille de la société _est supérieure à_ 50.
+Il existe plusieurs attributs parmi lesquels choisir. Dans cet exemple, nous ciblons tous les prospects connus en Californie qui travaillent pour une société de plus de 50 employés.
 
 1. Saisissez l’attribut Etat de piste et faites-le glisser vers la droite.
 
@@ -58,6 +58,10 @@ PICC
 
 PICC
 
+COMMENT CAPTURER LES PISTES D’ANON
+
+REMARQUE : peut-être mentionné le fonctionnement/l’affichage inféré d’un cas d’utilisation, l’e-mail de piste est vide.
+
 ## Ajout de groupes {#add-groups}
 
 Vous avez également la possibilité de regrouper des attributs, au cas où vous souhaitez tous avoir certains attributs avec &quot;n’importe lequel&quot; d’un autre.
@@ -77,4 +81,24 @@ Formats acceptables :
 
 >[!NOTE]
 >
->L’utilisation d’un astérisque agit comme un caractère générique fourre-tout. `https://*.website.com` placerait donc la boîte de dialogue sur chaque page du site, y compris les sous-domaines (par exemple : support.website.com). Et `https://website.com/folder/*` placerait la boîte de dialogue sur chaque page HTML dans le dossier suivant (par exemple : dans ce cas, disons que le dossier est &quot;sports&quot;, donc : website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>L’utilisation d’un astérisque agit comme un caractère générique fourre-tout. `https://*.website.com` placerait donc la boîte de dialogue sur chaque page du site, y compris les sous-domaines (par exemple : `support.website.com`). Et `https://website.com/folder/*` placerait la boîte de dialogue sur chaque page HTML dans le dossier suivant (par exemple : dans ce cas, disons que le dossier est &quot;sports&quot;, donc : website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+
+## Concepteur de diffusion {#stream-designer}
+
+Le concepteur de flux contient différentes cartes que vous pouvez ajouter pour façonner la conversation de conversation.
+
+TABLE
+
+Message : Utilisez cette option lorsque vous souhaitez faire une déclaration sans réponse nécessaire (par exemple : &quot;Salut ! Tous les articles ont une remise de 25 % aujourd’hui avec le code SAVE25.&quot;)
+
+Question : Utilisez cette option lorsque vous souhaitez poser une question à choix multiples, à laquelle vous fournissez les réponses disponibles (par exemple : Quel type de véhicule vous intéresse ? Réponses = SUV, compact, camion, etc.)
+
+Capture d’informations : Utilisez lorsque vous souhaitez collecter des informations. Les trois champs à choisir sont Adresse électronique, Numéro de téléphone et Texte (ce qui permet au visiteur d’écrire son propre message).
+
+Planificateur de rendez-vous : Fournit au visiteur un calendrier des dates disponibles pour planifier un suivi. La disponibilité du calendrier reflète [l’agent suivant dans la ligne](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
+
+Objectif : Il s’agit de la seule carte que les visiteurs ne verront pas. Il vous appartient de déterminer à quel moment un objectif est atteint dans le chat spécifique (par exemple : Si la collecte de l’e-mail du visiteur est votre objectif, placez la carte Objectif après Capture d’informations dans le flux.)
+
+PROPRE SECTION POSSIBLE
+
+AFFICHER LES EXEMPLES CI-DESSOUS

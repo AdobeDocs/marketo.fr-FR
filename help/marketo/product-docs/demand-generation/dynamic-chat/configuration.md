@@ -3,9 +3,9 @@ description: Configuration - Documents Marketo - Documentation du produit
 title: Configuration
 hide: true
 hidefromtoc: true
-source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ PICC de remplissage
 
 **Paramètres de l’agent**
 
-Dans Paramètres de l’agent, attribuez un nom spécifique au chatterbot (il apparaîtra en haut). Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation.
+Dans Paramètres de l’agent, vous pouvez ajouter un libellé à votre zone de discussion (par exemple : &quot;Adobe Robot&quot;) qui s’affiche en haut. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation.
 
 PICC du nom de paramètre
 
