@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437559
-description: Modèle 11-B - Documents Marketo - Documentation du produit
-title: Modèle 11-B
+description: Modèle 11B - Documents Marketo - Documentation du produit
+title: Modèle 11B
 exl-id: 5ea47f4a-b0a3-41ba-8066-b1469ae2b3c9
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Modèle 11-B {#template-b}
+# Modèle 11B {#template-11b}
 
-[Modèle de téléchargement 11-B](https://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
+[Modèle de téléchargement 11B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
 
 ![](assets/image2015-8-4-11-3a2-3a54.png)
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez ci-dessous pour télécharger ce modèle :**
 
-[Template11-B.html](https://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
+[Template 11B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
