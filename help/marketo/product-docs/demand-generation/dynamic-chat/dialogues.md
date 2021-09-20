@@ -3,7 +3,7 @@ description: Dialogues - Documents Marketo - Documentation du produit
 title: Dialogues
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
@@ -95,7 +95,7 @@ Question : Utilisez cette option lorsque vous souhaitez poser une question à ch
 
 Capture d’informations : Utilisez lorsque vous souhaitez collecter des informations. Les trois champs à choisir sont Adresse électronique, Numéro de téléphone et Texte (ce qui permet au visiteur d’écrire son propre message).
 
-Planificateur de rendez-vous : Fournit au visiteur un calendrier des dates disponibles pour planifier un suivi. La disponibilité du calendrier reflète [l’agent suivant dans la ligne](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
+Planificateur de rendez-vous : Fournit au visiteur un calendrier des dates disponibles pour planifier un suivi. La disponibilité du calendrier reflète [l’agent suivant dans la ligne](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
 
 Objectif : Il s’agit de la seule carte que les visiteurs ne verront pas. Il vous appartient de déterminer à quel moment un objectif est atteint dans le chat spécifique (par exemple : Si la collecte de l’e-mail du visiteur est votre objectif, placez la carte Objectif après Capture d’informations dans le flux.)
 
