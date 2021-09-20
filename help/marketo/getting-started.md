@@ -3,7 +3,7 @@ unique-page-id: 1147226
 description: Prise en main - Documents Marketo - Documentation du produit
 title: Démarrer
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 3d9c75a343ba2d78b1d5451ebe4344e71c2e53fb
+source-git-commit: 5d7c30fe818e37ba86152953d19937e39c7426f5
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 31%
@@ -56,8 +56,6 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
     </div>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="getting-started/quick-wins/simple-scoring.md">
       <img alt="Connexion" src="getting-started/assets/getting-started-4.png"/>
@@ -75,6 +73,8 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
     </div>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="getting-started/quick-wins/import-a-list-of-people.md">
       <img alt="Adresse e-mail" src="getting-started/assets/getting-started-6.png" />
@@ -84,8 +84,6 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
     </div>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="getting-started/quick-wins/drip-drip-nurture.md">
       <img alt="Connexion" src="getting-started/assets/getting-started-7.png"/>
@@ -112,8 +110,6 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
     </div>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="getting-started/quick-wins/update-person-data.md">
       <img alt="Connexion" src="getting-started/assets/getting-started-10.png"/>
@@ -122,9 +118,6 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
     <a href="getting-started/quick-wins/update-person-data.md">10. Mettre à jour les données de personne</a>
     </div>
     <br>
-  </td>
-  <td>  </td>
-  <td>
   </td>
 </tr>
 </table>
