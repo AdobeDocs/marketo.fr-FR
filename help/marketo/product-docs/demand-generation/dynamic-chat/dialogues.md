@@ -3,16 +3,16 @@ description: Dialogues - Documents Marketo - Documentation du produit
 title: Dialogues
 hide: true
 hidefromtoc: true
-source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # Dialogues {#dialogues}
 
-Les boîtes de dialogue sont les conversations spécifiques que vous configurez. Ils peuvent être personnalisés par aspect, ainsi que par ce qui est dit et qui le voit.
+Les boîtes de dialogue sont les conversations individuelles que vous allez configurer. Découvrez comment les personnaliser visuellement, déterminer les pages sur lesquelles elles apparaissent et déterminer ce qui est dit et qui les voit.
 
 ## Créer un dialogue {#create-a-new-dialogue}
 
@@ -34,9 +34,9 @@ PICC
 
 ## Critères d’audience {#audience-criteria}
 
-Tout comme les listes dynamiques Marketo, les attributs Critères d’audience vous permettent de définir votre audience cible.
+Tout comme les listes dynamiques Marketo, les attributs Critères d’audience vous permettent de définir votre audience cible. Vous pouvez cibler des pistes connues ou inconnues à l’aide d’attributs déduits, de pistes ou de sociétés (ou d’une combinaison de ces attributs).
 
-Il existe plusieurs attributs parmi lesquels choisir. Dans cet exemple, nous ciblons tous les prospects connus en Californie qui travaillent pour une société de plus de 50 employés.
+Il existe _de nombreuses combinaisons d’attributs_ parmi lesquelles choisir. Dans cet exemple, nous ciblons tous les prospects connus en Californie qui travaillent pour une société de plus de 50 employés.
 
 1. Saisissez l’attribut Etat de piste et faites-le glisser vers la droite.
 
@@ -87,17 +87,29 @@ Formats acceptables :
 
 Le concepteur de flux contient différentes cartes que vous pouvez ajouter pour façonner la conversation de conversation.
 
-TABLE
-
-Message : Utilisez cette option lorsque vous souhaitez faire une déclaration sans réponse nécessaire (par exemple : &quot;Salut ! Tous les articles ont une remise de 25 % aujourd’hui avec le code SAVE25.&quot;)
-
-Question : Utilisez cette option lorsque vous souhaitez poser une question à choix multiples, à laquelle vous fournissez les réponses disponibles (par exemple : Quel type de véhicule vous intéresse ? Réponses = SUV, compact, camion, etc.)
-
-Capture d’informations : Utilisez lorsque vous souhaitez collecter des informations. Les trois champs à choisir sont Adresse électronique, Numéro de téléphone et Texte (ce qui permet au visiteur d’écrire son propre message).
-
-Planificateur de rendez-vous : Fournit au visiteur un calendrier des dates disponibles pour planifier un suivi. La disponibilité du calendrier reflète [l’agent suivant dans la ligne](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
-
-Objectif : Il s’agit de la seule carte que les visiteurs ne verront pas. Il vous appartient de déterminer à quel moment un objectif est atteint dans le chat spécifique (par exemple : Si la collecte de l’e-mail du visiteur est votre objectif, placez la carte Objectif après Capture d’informations dans le flux.)
+<table>
+ <tr>
+  <td><strong>Message</strong></td>
+  <td>Utilisez cette option lorsque vous souhaitez faire une déclaration sans réponse nécessaire (par exemple : "Salut ! Tous les articles ont une remise de 25 % aujourd’hui avec le code SAVE25").
+</td>
+ </tr>
+ <tr>
+  <td><strong>Question</strong></td>
+  <td>Utilisez cette option lorsque vous souhaitez poser une question à choix multiples, à laquelle vous fournissez les réponses disponibles (par exemple : Quel type de véhicule vous intéresse ? Réponses = VUS, Compacte, Camion, etc.).</td>
+ </tr>
+ <tr>
+  <td><strong>Capture d’informations</strong></td>
+  <td>Utilisez lorsque vous souhaitez collecter des informations. Les trois champs à choisir sont Adresse électronique, Numéro de téléphone et Texte (ce qui permet au visiteur d’écrire son propre message).</td>
+ </tr>
+ <tr>
+  <td><strong>Planificateur de rendez-vous</strong></td>
+  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier un suivi. La disponibilité du calendrier reflète [l’agent suivant en ligne](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+ </tr>
+ <tr>
+  <td><strong>Objectif</strong></td>
+  <td>Il s’agit de la seule carte que les visiteurs ne verront pas. Il vous appartient de déterminer à quel moment un objectif est atteint dans le chat spécifique (par exemple : Si la collecte de l’e-mail du visiteur est votre objectif, placez la carte Objectif après Capture d’informations dans le flux).</td>
+ </tr>
+</table>
 
 PROPRE SECTION POSSIBLE
 

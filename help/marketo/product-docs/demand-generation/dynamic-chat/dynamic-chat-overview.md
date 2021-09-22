@@ -3,24 +3,24 @@ description: Présentation de Dynamic Chat - Documents Marketo - Documentation d
 title: Présentation de la conversation dynamique
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
 
 # Présentation de la conversation dynamique {#dynamic-chat-overview}
 
-texte d’introduction
+Dynamic Chat vous permet d’utiliser une interface conviviale pour cibler les deux pistes (PERSONNES ?) et les comptes sur leurs (VISITER VOTRE ?) site web. Collectez le contenu approprié, comme son nom, les coordonnées et le texte libre. Les visiteurs du site peuvent également réserver des réunions avec votre équipe de vente. Les données d’activité et d’engagement des conversations dynamiques peuvent être utilisées pour ajouter des membres aux programmes Marketo et déclencher des activités cross-canal.
 
 >[!NOTE]
 >
->Dynamic Chat est en cours de déploiement, avec tous les abonnements ayant accès par DATE.
+>Dynamic Chat est actuellement en cours de déploiement, avec tous les abonnements pour lesquels l’accès aura lieu à la DATE.
 
 ## Configuration de la messagerie dynamique {#access-dynamic-chat}
 
-Procédez comme suit pour la configuration initiale.
+UNE FOIS LA MOSAÏQUE AJOUTÉE..., procédez comme suit pour commencer.
 
 1. Dans Mon Marketo, cliquez sur la mosaïque **Chat dynamique** .
 
@@ -52,7 +52,7 @@ Intégrations est le premier onglet que vous souhaitez consulter lors de l’acc
 
 ## Dialogues {#dialogues}
 
-Les boîtes de dialogue sont les conversations individuelles que vous allez configurer. Vous pouvez spécifier qui verra ce qui sera pour les visiteurs connus ou même anonymes. [En savoir plus sur les Dialogues](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+Les dialogues représentent un seul engagement de discussion. Considérez-le comme un conteneur avec tout ce dont vous avez besoin pour avoir un dialogue de conversation engageant avec les visiteurs de votre site web. Dans chaque dialogue, vous pouvez spécifier la ou les pages sur lesquelles vous souhaitez que le dialogue s’affiche, à qui vous souhaitez qu’il s’affiche, ainsi que le contenu et le flux du dialogue lui-même. En outre, vous pouvez trouver des mesures pour voir les performances de votre dialogue. [En savoir plus sur les Dialogues](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
 
 ## Configuration {#configuration}
 
@@ -60,14 +60,40 @@ Dans l&#39;onglet Configuration , personnalisez l&#39;aspect de vos différents 
 
 ## Calendrier {#calendar}
 
-Dans l’onglet Calendrier , connectez votre calendrier (Outlook ou Gmail) à Dynamic Chat afin que les visiteurs du site puissent planifier les rendez-vous avec vos agents.
+Dans l’onglet Calendrier , connectez votre calendrier (Outlook ou Gmail) pour l’utiliser dans la planification des rendez-vous dans le chatterbot. Une fois que le calendrier d’un utilisateur est connecté à Dynamic Chat, cet utilisateur est ajouté à la file d’attente et son calendrier est disponible pour que les visiteurs du site web puissent planifier des rendez-vous.
+
+Vous pouvez également personnaliser le corps du courrier électronique d’invitation ? qui est envoyé au visiteur lorsqu’il planifie un rendez-vous sur le calendrier de l’utilisateur.
 
 ## Réunions {#meetings}
 
-L’onglet Réunions vous permet de voir l’état de toutes les réunions planifiées par vos agents via Dynamic Chat, ainsi que d’autres détails connexes.
+C&#39;est là que vous verrez toutes les nominations programmées par les visiteurs de votre site web à travers vos Dialogues. Vous trouverez ici l’adresse électronique du prospect qui a réservé la nomination, avec lequel il a réservé la nomination, le moment où la nomination est programmée et si la réunion s’est déroulée ou non.
 
 PICC ?
 
 ## Routage {#routing}
 
-Le routage vous indique l’ordre dans lequel les réunions sont assignées aux agents, ainsi que le nombre total de réunions jusqu’à présent (par agent). Les réunions tournent autour du robot, donc si vous avez cinq agents et l&#39;agent trois qui ont pris la dernière réunion, l&#39;agent quatre aura le suivant, suivi de cinq, puis reviendra à l&#39;agent un.
+C’est là que vous pouvez voir la liste de tous les agents qui ont connecté leurs calendriers ainsi que l’ordre dans lequel ils seront présentés aux visiteurs du site web. Les réunions tournent autour de leur style. Ainsi, si vous avez cinq agents et l’agent trois qui ont participé à la dernière réunion, l’agent quatre aura le suivant, suivi de cinq, puis le renvoyer à l’agent un.
+
+## FAQ {#faq}
+
+— OUI ? LOL—
+
+**Le chatterbot peut-il être stylisé au format CSS ?**
+
+Actuellement, le chatterbot ne peut pas être stylisé avec CSS.
+
+**Puis-je utiliser des options de police personnalisées ?**
+
+Seules les options de police prédéfinies sont disponibles pour le moment.
+
+**Est-ce que le tchat dynamique permet le chat en direct ?**
+
+Non, seulement des réponses prédéterminées.
+
+**Prenez-vous en charge la fonctionnalité AI/NLP ?**
+
+La fonctionnalité AI/NLP n’est pas prise en charge.
+
+**Dynamic Chat offre-t-il des langues autres que l’anglais ?**
+
+Pas pour le moment.

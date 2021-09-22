@@ -3,10 +3,10 @@ unique-page-id: 10100311
 description: Utilisation d’un ID universel pour la connexion à l’abonnement - Documents Marketo - Documentation du produit
 title: Utilisation d’un ID universel pour la connexion à l’abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-source-git-commit: 591279dfb573853eb8781d7984c65716804120b0
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 0%
+source-wordcount: '586'
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ Les paramètres de niveau d’abonnement sont respectés pour les utilisateurs q
 
 ## Configuration d’un ID universel {#setting-up-a-universal-id}
 
-Depuis chaque instance, votre administrateur Marketo doit vous inviter à rejoindre chacun de vos abonnements avec le même identifiant. Marketo ne peut pas fusionner automatiquement vos connexions existantes. Une fois que vous avez activé l’ID universel, **votre instance Marketo sera indisponible** pendant 30 minutes au maximum. Si vous disposez d’une plus grande base d’utilisateurs, cela peut être un peu plus long.
+Tous les abonnements Marketo sont fournis avec la fonction d’identification universelle facultative. Depuis chaque instance, votre administrateur Marketo doit vous inviter à rejoindre chacun de vos abonnements avec le même identifiant. Marketo ne peut pas fusionner automatiquement vos connexions existantes.
 
 >[!NOTE]
 >

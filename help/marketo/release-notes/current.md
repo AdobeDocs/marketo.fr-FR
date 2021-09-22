@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '909'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ Cette section comprend de nouvelles fonctionnalités pour les utilisateurs Bizib
 
 ## Annonces {#announcements}
 
-* **Mise à jour des paramètres d’ID universel d’abonnement** : Pour prendre en charge l’intégration de l’Marketo Engage et de l’identité de l’Adobe à venir pour les utilisateurs existants, tous les abonnements du Marketo Engage seront unifiés dans le cadre de l’activation de la prise en charge de l’ID universel.
+* **Mise à jour des paramètres d’ID universel d’abonnement** : Pour prendre en charge l’intégration de l’Marketo Engage et de l’identité de l’Adobe à venir pour les utilisateurs existants, tous les abonnements du Marketo Engage seront unifiés dans le cadre de l’activation de la prise en charge de l’ID universel. Vous trouverez plus d’informations [ici](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).

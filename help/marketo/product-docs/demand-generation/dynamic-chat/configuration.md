@@ -3,9 +3,9 @@ description: Configuration - Documents Marketo - Documentation du produit
 title: Configuration
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '277'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ PICC (de zone de discussion complète)
 
 **Style**
 
-Le style vous permet de sélectionner les couleurs souhaitées, la position/la marge intérieure de l’ancre de la zone de discussion et le type/la taille de police.
+C&#39;est là que vous définissez l&#39;aspect du chatbot dans lequel vos Dialogues seront affichés, notamment : couleurs, polices, emplacement du widget de robot et nom/avatar du chatbot.
 
 La couleur de chaque catégorie est déterminée par une [valeur de couleur hexadécimale](https://color.adobe.com/create/color-wheel) (par exemple, blanc = #ffffff, rouge = #bf1932, etc.).
 
@@ -50,13 +50,13 @@ PICC du choix de l’avatar
 
 ## Onglet Confidentialité {#privacy-tab}
 
-Cliquez sur l’onglet **Confidentialité** pour ajouter/modifier l’URL de la politique de confidentialité de votre site.
+Cliquez sur l’onglet **Confidentialité** pour ajouter/modifier l’URL de la politique de confidentialité de votre site (facultatif).
 
 PICC
 
 ## Onglet Installation {#installation-tab}
 
-Cliquez sur l’onglet **Installation** pour saisir le script que votre équipe de développement web doit placer sur votre site web.
+Pour que le chatterbot s’affiche sur votre site web, vous devez d’abord installer le fragment de code JavaScript de conversation dynamique. Cliquez sur cet onglet pour rechercher/copier le code nécessaire. Si vous ne connaissez pas cette opération, contactez votre équipe web ou votre service informatique pour obtenir de l’aide.
 
 PICC
 
