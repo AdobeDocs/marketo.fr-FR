@@ -3,7 +3,7 @@ unique-page-id: 27656786
 description: Notes de mise à jour - 19 août - Documentation Marketo - Documentation du produit
 title: Notes de mise à jour - 19 août
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 4%
@@ -20,7 +20,7 @@ Les fonctionnalités suivantes ont été publiées le 16 août 2019.
 
 ## Engagement Marketo de base {#core-marketo-engage}
 
-* **Infrastructure de webinaire extensible**: Gagnez du temps avec Marketo qui  une nouvelle structure de webinaires d’usine (introduite dans les [notes de mise à jour de l’hiver 19](/help/marketo/release-notes/2019/release-notes-winter-19.md) qui transmettent en toute transparence les données des fournisseurs de webinaires vers Marketo et vice versa. Cvent et Zoom sont désormais disponibles dans cette nouvelle structure.
+* **Infrastructure de webinaire extensible**: Gagnez du temps avec Marketo qui  un nouveau webinaire d’usine (introduit dans les notes de mise à jour de l’hiver 19) qui transmet en toute transparence les données des fournisseurs de webinaires vers Marketo et vice versa. Cvent et Zoom sont désormais disponibles dans cette nouvelle structure.
 * **Mise à jour** de l&#39;API de Campaign dynamique : Gérez les fonctionnalités du cycle de vie des campagnes intelligentes au fur et à mesure que nous achevons l’interface CRUD (créer, lire, mettre à jour, supprimer).
 * **Mise à jour de la modification** de l’API des en-têtes d’email : L’API Mettre à jour l’en-tête d’email ne nécessite plus qu’un email comporte un modèle joint pour mettre à jour les champs d’en-tête, tels que l’objet.
 
