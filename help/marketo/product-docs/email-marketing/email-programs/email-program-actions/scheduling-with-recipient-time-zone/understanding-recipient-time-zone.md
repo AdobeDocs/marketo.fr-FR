@@ -1,58 +1,55 @@
 ---
 unique-page-id: 12983291
-description: Fuseau horaire du Destinataire - Documents marketing - Documentation du produit
-title: Présentation du fuseau horaire Destinataire
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Présentation du fuseau horaire du destinataire - Documents Marketo - Documentation du produit
+title: Comprendre le fuseau horaire du destinataire
+exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
+source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 0%
+source-wordcount: '391'
+ht-degree: 1%
 
 ---
 
+# Comprendre le fuseau horaire du destinataire {#understanding-recipient-time-zone}
 
-# Présentation du fuseau horaire du Destinataire {#understanding-recipient-time-zone}
-
-Les programmes de messagerie et d’engagement peuvent être configurés pour être distribués selon les fuseaux horaires des destinataires, ce qui évite d’avoir à créer plusieurs programmes : envoyer une fois et Marketo conserve automatiquement le courriel jusqu’à l’heure locale correcte.
+Les programmes de messagerie et d’engagement peuvent être configurés pour être diffusés en fonction des fuseaux horaires des destinataires, éliminant ainsi la nécessité de créer plusieurs programmes (envoyer une fois) et Marketo conserve automatiquement l’email jusqu’à l’heure locale correcte.
 
 >[!NOTE]
 >
->Le fuseau horaire du destinataire fonctionne actuellement **uniquement** avec le contenu du courrier électronique. Elle ne fonctionnera pas pour les programmes d’engagement par défaut.
+>Le fuseau horaire du destinataire fonctionne actuellement **uniquement** avec le contenu de l’email. Cela ne fonctionnera pas pour les programmes d’engagement par défaut.
 
-## Programmes de courriel {#email-programs}
+## Programmes d&#39;e-mail {#email-programs}
 
-Il existe deux scénarios Principaux lorsque [planifie un programme de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) :
+Il existe deux scénarios Principaux lors de la [planification d’un programme de messagerie ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) :
 
-1. Planification de l’exécution du programme au cours des 25 prochaines heures.
-1. Planification de l’exécution du programme de plus de 25 heures à l’avenir (c.-à-d. la semaine prochaine).
+1. Planification de l’exécution du programme dans les 25 prochaines heures.
+1. Planification de l’exécution du programme de plus de 25 heures à l’avenir (c’est-à-dire la semaine prochaine).
 
-Afin de prendre en compte chaque fuseau horaire, les programmes électroniques planifiés avec le début de fuseau horaire Destinataire s’exécutant à minuit dans le fuseau horaire **premier/premier** du monde (UTC +14:00).
+Afin de s’adapter à chaque fuseau horaire, les programmes de messagerie planifiés avec fuseau horaire du destinataire commencent à s’exécuter à minuit dans le **premier/premier** fuseau horaire du monde (UTC +14:00).
 
-## Programmes d’engagement {#engagement-programs}
+## Programmes d&#39;engagement {#engagement-programs}
 
-Lorsque vous [planifiez un flux de programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) et que le fuseau horaire du Destinataire est principal, la diffusion du programme s’début à minuit en UTC +14:00. Nous vous demandons de programmer la première diffusion au moins 25 heures dans le futur (24 heures + un certain temps pour lancer la campagne) parce que les gens peuvent être admissibles à la diffusion dans chaque fuseau horaire à travers le monde. En commençant le traitement à cette heure en UTC +14:00 nous garantissons que nous livrerons le courriel à la date et à l&#39;heure prévues pour chaque personne admissible à cette distribution.
+Lorsque vous [planifiez un flux de programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) et que le fuseau horaire du destinataire est principal, la diffusion du programme commencera à s’exécuter à minuit au format UTC +14:00. Nous vous demandons de planifier la première diffusion d’au moins 25 heures à l’avenir (24 heures + un peu de temps pour lancer la campagne), car les participants peuvent être éligibles à chaque fuseau horaire à travers le monde. Le démarrage du traitement à cette heure en UTC +14:00 garantit que nous enverrons l&#39;email à la date et à l&#39;heure prévues pour chaque personne admissible à cette diffusion.
 
 ## Calcul du fuseau horaire {#calculating-time-zone}
 
-Marketo calcule le fuseau horaire en fonction de la ville, de l’état, du pays ou du code postal d’une personne. Si nous ne parvenons pas à calculer le fuseau horaire d’une personne à partir de ces valeurs, nous retournons à nos champs Ville déduite, État déduit, Pays déduit et Code postal déduit.
+Marketo calcule le fuseau horaire en fonction de la ville, de l’état, du pays ou du code postal d’une personne. Si nous ne parvenons pas à calculer le fuseau horaire d’une personne à partir de ces valeurs, nous restaurons à nos champs Ville déduite, État déduit, Pays déduit et Code postal déduit.
 
-Dans les cas où nous avons **seulement** Pays ou **seulement** État disponible :
+Dans les cas où **uniquement** Pays ou **uniquement** État disponible :
 
-* Pour les pays avec trois fuseaux horaires ou moins, nous sélectionnons le fuseau horaire moyen.
-* Pour les états avec deux fuseaux horaires, nous sélectionnons le premier des deux.
+* Pour les pays ayant trois fuseaux horaires ou moins, nous sélectionnons le fuseau horaire du milieu.
+* Pour les états avec deux fuseaux horaires, nous sélectionnons le fuseau horaire précédent des deux.
 
-Si nous ne parvenons toujours pas à déterminer le fuseau horaire d’une personne à partir de n’importe quelle combinaison de ces champs, nous n’affecterons **pas** un fuseau horaire et le courrier électronique sera distribué en fonction de votre fuseau horaire de l’abonnement de marketing. Ainsi, si votre programme est prévu pour 9 h 00 HAP, les personnes qui n&#39;ont pas de fuseau horaire assigné recevront le courriel à 9 h 00 HAP.
+Si nous ne parvenons toujours pas à déterminer le fuseau horaire d’une personne à partir d’une combinaison de ces champs, nous **n’attribuerons pas** un fuseau horaire et l’email sera envoyé en fonction de votre fuseau horaire d’abonnement Marketo. Ainsi, si votre programme est programmé pour 9 h 00 heure d&#39;été du Pacifique, les personnes n&#39;ayant aucun fuseau horaire attribué recevront l&#39;email à 9 h 00 heure d&#39;été du Pacifique.
 
 >[!NOTE]
 >
->Marketo recalcule automatiquement le fuseau horaire d’une personne lorsque l’un des champs d’entrée ci-dessus change.
+>Marketo recalcule automatiquement le fuseau horaire d’une personne lorsque l’un des champs de saisie ci-dessus change.
 
 >[!MORELIKETHIS]
 >
->* [Planification des Programmes de courriel avec fuseau horaire Destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Début principal pour les Programmes électroniques](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
-
-   >
-   >
-* [Planification des Programmes d’engagement avec fuseau horaire Destinataire](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>* [Planification des programmes de messagerie avec un fuseau horaire de destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Prise en main des programmes de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>
+>* [Planification des programmes d’engagement avec fuseau horaire des destinataires](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
