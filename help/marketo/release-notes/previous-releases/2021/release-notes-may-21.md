@@ -1,0 +1,88 @@
+---
+description: Notes de mise à jour - Mai 2021 - Documents Marketo - Documentation du produit
+title: Notes de mise à jour - Mai 2021
+exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
+source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+workflow-type: tm+mt
+source-wordcount: '1481'
+ht-degree: 0%
+
+---
+
+# Notes de mise à jour : Mai 2021 {#release-notes-may-21}
+
+Les fonctionnalités suivantes sont incluses dans la version du 21 mai. Vérifiez la disponibilité de votre édition Marketo.
+
+>[!AVAILABILITY]
+>
+>Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage.
+
+**_Versions trimestrielles_**
+
+Les fonctionnalités suivantes seront publiées le **7 mai 2021**.
+
+## Expériences basées sur un compte {#Account-based-eaperiences}
+
+* **Listes dynamiques de compte (disponibilité générale)** ![](assets/yellow-star.png) : Identifiez et qualifiez de manière dynamique les comptes avec les attributs de compte et de personne souhaités à cibler dans les campagnes marketing cross-canal et envoyez des alertes opportunes aux ventes pour conclure plus rapidement les offres. Cette nouvelle fonctionnalité permet une automatisation robuste des stratégies marketing basées sur les comptes. Les listes dynamiques de compte sont disponibles pour les clients disposant de la gestion de compte Target qui bénéficient de la nouvelle génération d’utilisateurs.
+
+## Expérience utilisateur de nouvelle génération {#next-generation-user-experience}
+
+Avec l’aperçu de la recherche globale, les marketeurs peuvent rapidement voir où se trouve une ressource partagée dans leur instance. Les onglets du navigateur affichent l’emplacement pour améliorer la navigation dans les activités marketing ou dans Design Studio. D’autres filtres de recherche globale et arborescente permettent d’affiner vos critères de recherche. La fonctionnalité de glisser-déposer dans l’arborescence a été rétablie, ce qui vous permet de déplacer des dossiers et des ressources rapidement et efficacement dans les zones principales de l’application. Les icônes nouvellement mises à jour (qui répondent aux normes d’accessibilité d’Adobe) et les badges d’état permettent aux marketeurs de distinguer rapidement et facilement les dossiers et les ressources dans l’arborescence et d’identifier l’état des programmes et des ressources.
+
+## Automatisation de l’expérience {#experience-automation}
+
+* **Exécuter les étapes** de flux de campagne : Rationalisez les workflows de création de campagne et améliorez les performances de la campagne grâce à une nouvelle étape de flux pour les campagnes dynamiques. Créez et enregistrez des campagnes modèles centralisées pour les tâches répétitives dans votre espace de travail, telles que la normalisation des codes de pays, à appeler et exécuter à partir de n’importe quelle campagne dynamique via la nouvelle étape de flux &quot;Exécuter la campagne&quot;. Les campagnes liées s’exécutent dans l’ordre indiqué et assurent la fin de la tâche avant de passer à l’étape de flux suivante. Modifiez rapidement le flux en une seule campagne centralisée pour mettre à jour chaque campagne dynamique qui l’utilise afin de rationaliser la gestion des données, la notation des prospects et les workflows de routage.
+
+## Orchestration cross-canal {#cross-channel-orchestration}
+
+* **Champs de données sensibles dans Forms** : Les informations d’identification personnelle du client Protect ne s’affichent pas dans les formulaires de Marketo Engage Adobe en définissant les champs de données comme sensibles et en restreignant le préremplissage des formulaires pour ces champs. Lorsqu’un visiteur affiche un formulaire sur la landing page, les champs définis comme sensibles n’affichent aucune donnée préremplie.
+
+* **Bloquer les envois de formulaires de spam** : Protect votre base de données de Marketo Engage d’Adobes à partir de données indésirables pouvant entraîner des alertes non valides pour les ventes, déclencher des retards de campagne et créer des activités indésirables. Le nouveau mécanisme de validation rejette les envois de formulaire non valides et arrête les attaques de robots. Vos données sont plus propres et vos campagnes marketing s’exécutent comme prévu, ce qui réduit le risque d’envoyer des prospects non qualifiés vers les ventes.
+
+* **Email Program Approval Warning** : Empêcher l’envoi d’emails erronés lorsque de nouvelles modifications ont été apportées à un programme précédemment approuvé.  L’avertissement sert de garde-fous lorsqu’un marketeur applique des modifications à un email déjà approuvé, mais oublie ensuite d’approuver les dernières modifications et envoie le courriel à une large audience sans contenu, sans contenu incorrect ou contenu obsolète.
+
+* **Filtrage de l’activité des robots de messagerie** : Empêchez les alertes de vente involontaires et la création de rapports par e-mail inexacts grâce à la nouvelle fonctionnalité de filtrage des activités de robots de messagerie. Identifiez et filtrez les ouvertures et les clics pouvant être associés à des robots de messagerie électronique, en examinant les liens qui génèrent de faux déclencheurs et des alertes de vente ou des rapports incorrects.
+
+## Améliorations des API {#api-enhancements}
+
+Plusieurs mises à jour critiques des API Bulk et Lead, notamment la possibilité d’exporter des données d’objet personnalisé en bloc, d’associer l’entreprise au prospect en bloc, de filtrer l’extraction d’activité en bloc en fonction d’un attribut Principal et de créer et de mettre à jour l’appartenance au programme.
+
+* **Programmes d’événement d’imbrication** : Dans Adobe Marketo Engage, vous pouvez créer, cloner ou déplacer des programmes d’événement sous d’autres types de programmes. Cette fonctionnalité est désormais autorisée dans l’API Assets.
+
+* **API** de programme de suppression améliorée : Permet aux applications intégrées de supprimer des programmes contenant des types de ressources supplémentaires, sans que les utilisateurs aient à le faire manuellement à partir d’Adobe Marketo Engage.
+
+* **Adhésion au programme** : Les marketeurs peuvent interroger tous les enregistrements de membres du programme pour un programme sélectionné selon différents critères, tels que le statut du membre du programme. Partagez ces informations avec une application externe, un outil de Business Intelligence ou Adobe Experience Cloud afin d’améliorer la segmentation et de créer un engagement plus ciblé.
+
+* **Extraction d’objets personnalisés en bloc** : L’exportation de données en bloc complète les fonctionnalités d’importation dont disposent déjà les analystes de données dans Adobe Marketo Engage. Désormais, ils peuvent extraire en bloc des données stockées dans des objets personnalisés du Marketo Engage de premier niveau, les charger dans une autre application, dans un entrepôt de données ou dans un autre outil de BI (Business Intelligence) pour obtenir de meilleures informations sur les données de l’instance de Marketo Engage d’Adobe.  Le déplacement massif de données d’objet personnalisé est bidirectionnel et peut être planifié à un moment opportun.
+
+* **API** de métadonnées des champs personnalisés : Gagnez du temps en automatisant la création de champs personnalisés lors de la configuration des intégrations de votre Marketo Engage d’Adobe avec une application tierce. Cette automatisation s’avère particulièrement utile pour les clients disposant de plusieurs instances de Marketo Engage d’Adobe qui peuvent désormais rationaliser la création de champs personnalisés qui nécessitaient un travail manuel dans chaque instance. Rationalisez la création de champs personnalisés et gagnez du temps sur cette activité gourmande en ressources.
+
+* **API** Bulk Activity Extract : Contrôlez la quantité et le type de données lors d’extractions en masse. Filtrez les points de données inutiles et contrôlez le nombre d’appels API nécessaires pour extraire en masse les données d’activité.  Par exemple, sélectionnez des emails ouverts, consultez une page web ou modifiez le score de piste et laissez derrière d’autres modifications de valeur que vous ne souhaitez pas analyser. Rationalisez le processus pour réduire le nombre d’appels API et de tâches de nettoyage des données.
+
+* **API** de piste : Identifiez les pistes dans le Marketo Engage Adobe auxquelles un ECID Adobe (ID Experience Cloud) est associé.  Les clients Adobe Marketo Engage peuvent créer une liste de pistes à partir d’une campagne sélectionnée et utiliser les ECID (identifiant Experience Cloud) pour créer des rapports dans Adobe Analytics pour cette liste spécifique. L’intégration entre Adobe Marketo Engage et Adobe Experience Cloud offre un nombre illimité d’opportunités de segmentation, de ciblage et de création de rapports.
+
+* **API** Bulk Lead Import : Contrôlez l’importation en bloc de pistes et les ressources qu’il faut. Cette amélioration crée une association entre le prospect et l’entreprise lors du processus d’importation de prospect en bloc. Augmentez l’efficacité et l’utilisation des données et réduisez l’utilisation des appels API.
+
+* **Intégration basée sur l’API web pour les clients** Microsoft Dynamics Online : L’API Web MS Dynamics a été introduite avec le protocole REST version 8.0 et implémente OData (Open Data Protocol) v4. OData est une norme OASIS (Organisation pour l’avancement des normes d’information structurée) destinée à la création et à la consommation de services RESTful par rapport à des données riches. Les clients de Marketo Engage Adobe qui nécessitent une intégration avec Microsoft Dynamics à l’aide de cette méthode sont actuellement migrés vers une connexion basée sur l’API web à partir de SOAP (Simple Object Access Protocol).
+
+## Environnement de données marketing {#marketing-data-environment}
+
+* **Exportation XLSX** : Nous avons mis à niveau les fonctionnalités d’exportation dans tout le produit pour prendre en charge XLSX au lieu de XLS. Cela signifie que partout dans le produit où l’exportation XLS est actuellement prise en charge, cette option sera remplacée par une option d’exportation vers XLSX à la place. Cette modification aura une incidence sur les noms de fichier pour toutes les exportations Excel des rapports et d’autres données provenant d’Adobe Marketo Engage.
+
+* **Recherche par identifiant de piste** : Accédez rapidement à la recherche des enregistrements de piste par identifiant de piste Marketo Engage Adobe dans la base de données de piste ou la liste statique. Dans la fenêtre Recherche rapide , il vous suffit de saisir `[id]` avec le numéro correspondant pour afficher les informations de piste. Les utilisateurs peuvent rapidement consulter les détails des prospects, des entreprises ou des opportunités.
+
+## Bizible {#bizible}
+
+![](assets/yellow-star.png)
+
+* **Intégration avec LinkedIn Lead Gen Forms (version bêta)** : Visionnez attentivement les dépenses et le retour sur investissement de vos canaux LinkedIn grâce à la solution d’attribution Premium Bizible. Grâce à la dernière intégration avec le Forms Lead Gen de LinkedIn, Bizible obtient des informations sur les formulaires qui ont été envoyés dans la plateforme LinkedIn. Ces remplissages de formulaires sont comparés aux prospects de votre CRM (gestion de la relation client) ou instance de Marketo Engage d’Adobe afin qu’ils soient éligibles à l’attribution et puissent être suivis par rapport à vos autres engagements marketing.
+
+## Annonces {#announcements}
+
+* **Plateformes de permutation des documents produit Marketo** : Nous sommes heureux d’annoncer que les documents produit Marketo ont rejoint Adobe Experience League à partir du vendredi 7 mai. Vous pourrez toujours utiliser l’URL : docs.marketo.com et si des articles existants sont marqués, vous serez redirigé. Toutes les documents produit sont disponibles sur la nouvelle plateforme. Des améliorations sont prévues pour la fin de l’année.
+
+* **Administration des utilisateurs rationalisée et authentification unique optimisée par Adobe Identity System** : À compter de juillet 2021, les nouveaux clients Adobe Marketo Engage seront intégrés à l’aide des informations d’identification d’utilisateur d’Adobe. La migration des clients actuels vers le système d’identité intégré n’aura lieu qu’à la mi-2022 et aucune action du client n’est requise jusqu’à nouvel ordre. L’authentification unique permet aux administrateurs informatiques et de sécurité de gérer plusieurs instances de produit Marketo Engage d’Adobe avec d’autres solutions Experience Cloud et de configurer l’authentification unique (organisation des services partagés) par le biais d’une console commune. Les administrateurs peuvent facilement gérer les groupes d’utilisateurs et les droits des utilisateurs par le biais d’un Admin Console commun.
+
+**_Webinaire sur la version du produit_**
+
+Vous souhaitez en savoir plus sur ces fonctionnalités et améliorations ? Veillez à [vous inscrire dès maintenant](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html) pour vous joindre à nous le 13 mai à 9h00 PT / 22h00 ET pour un webinaire en direct avec notre équipe produit afin de découvrir plus en détail ces innovations.
