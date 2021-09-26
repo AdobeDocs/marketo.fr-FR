@@ -3,9 +3,9 @@ description: Présentation de Dynamic Chat - Documents Marketo - Documentation d
 title: Présentation de la conversation dynamique
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -78,17 +78,9 @@ C’est là que vous pouvez voir la liste de tous les agents qui ont connecté l
 
 — OUI ? LOL—
 
-**Le chatterbot peut-il être stylisé au format CSS ?**
-
-Actuellement, le chatterbot ne peut pas être stylisé avec CSS.
-
-**Puis-je utiliser des options de police personnalisées ?**
-
-Seules les options de police prédéfinies sont disponibles pour le moment.
-
 **Est-ce que le tchat dynamique permet le chat en direct ?**
 
-Non, seulement des réponses prédéterminées.
+Non, il utilise uniquement des réponses prédéterminées.
 
 **Prenez-vous en charge la fonctionnalité AI/NLP ?**
 
