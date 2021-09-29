@@ -3,9 +3,9 @@ description: Dialogues - Documents Marketo - Documentation du produit
 title: Dialogues
 hide: true
 hidefromtoc: true
-source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
+source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '752'
 ht-degree: 1%
 
 ---
@@ -139,7 +139,9 @@ Le concepteur de flux contient différentes cartes que vous pouvez ajouter pour 
 
 **Création d’un flux**
 
-Il existe _de nombreuses_ combinaisons de flux à créer. Dans cet exemple, nous allons poser une question et préparer .
+Il existe _de nombreuses_ combinaisons de flux à créer. Dans cet exemple, nous allons poser une question oui ou non et préparer quelques réponses.
+
+EXEMPLE
 
 ## Rapports {#reports}
 
