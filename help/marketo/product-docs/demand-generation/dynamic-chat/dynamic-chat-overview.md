@@ -3,9 +3,9 @@ description: Présentation de Dynamic Chat - Documents Marketo - Documentation d
 title: Présentation de la conversation dynamique
 hide: true
 hidefromtoc: true
-source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
+source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,17 @@ Dynamic Chat vous permet d’utiliser une interface conviviale pour cibler les d
 
 >[!NOTE]
 >
->Dynamic Chat est actuellement en cours de déploiement, avec tous les abonnements pour lesquels l’accès aura lieu à la DATE.
+>La Chat dynamique est en train d’être lancée progressivement, avec tous les abonnements auxquels il sera possible d’accéder d’ici le printemps 2022. Pour plus d’informations, contactez votre responsable du succès client.
 
 ## Intégrations {#integrations}
 
-Un composant clé de Dynamic Chat est sa capacité à interagir en mode natif avec votre abonnement Marketo. Pour tirer parti de la fonctionnalité complète de cette intégration, vous devez d’abord lancer la synchronisation des données. Cela peut prendre jusqu’à 24 heures pour que la synchronisation initiale [unique](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) soit terminée.
+Un composant clé de Dynamic Chat est sa capacité à interagir en mode natif avec votre abonnement Marketo. Pour tirer parti de la fonctionnalité complète de cette intégration, vous devez d’abord lancer la synchronisation des données. Selon la taille de votre base de données Marketo, la synchronisation initiale [ponctuelle](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) peut prendre jusqu’à 24 heures. Le temps de synchronisation moyen est inférieur à deux heures.
+
+Les éléments suivants sont synchronisés :
+
+* Données de champ de piste
+* Données de champ de l’entreprise
+* Données d’activité
 
 ## Dialogues {#dialogues}
 
