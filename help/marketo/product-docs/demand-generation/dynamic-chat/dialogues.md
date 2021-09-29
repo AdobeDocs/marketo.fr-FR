@@ -3,9 +3,9 @@ description: Dialogues - Documents Marketo - Documentation du produit
 title: Dialogues
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '605'
 ht-degree: 1%
 
 ---
@@ -18,49 +18,75 @@ Les boîtes de dialogue sont les conversations individuelles que vous allez conf
 
 1. Cliquez sur **Dialogues**.
 
-PICC
+   ![](assets/dialogues-1.png)
 
 1. Cliquez sur le bouton **Créer** .
 
-PICC
+   ![](assets/dialogues-2.png)
 
 1. Saisissez un nom (la description est facultative), définissez le niveau de priorité, puis cliquez sur **Enregistrer**.
 
-PICC
+   ![](assets/dialogues-3.png)
 
 >[!NOTE]
 >
->Le niveau de priorité détermine l’emplacement de la boîte de dialogue sur votre liste (par exemple : priority = 1 signifie qu’il sera tout en haut).
+>Le niveau de priorité détermine où la boîte de dialogue s’affiche dans votre liste (par exemple : priority = 1 signifie qu’il sera tout en haut).
 
 ## Critères d’audience {#audience-criteria}
 
 Tout comme les listes dynamiques Marketo, les attributs Critères d’audience vous permettent de définir votre audience cible. Vous pouvez cibler des pistes connues ou inconnues à l’aide d’attributs déduits, de pistes ou de sociétés (ou d’une combinaison de ces attributs).
 
-Il existe _de nombreuses combinaisons d’attributs_ parmi lesquelles choisir. Dans cet exemple, nous ciblons tous les prospects connus en Californie qui travaillent pour une société de plus de 50 employés.
+**Leads connus**
 
-1. Saisissez l’attribut Etat de piste et faites-le glisser vers la droite.
+Il existe _de nombreuses combinaisons d’attributs_ parmi lesquelles choisir. Dans cet exemple, nous ciblons toutes les **pistes connues** en Californie qui travaillent dans une entreprise de plus de 50 employés.
 
-PICC
+1. Saisissez l’attribut **Etat de piste** et faites-le glisser vers la droite.
+
+   ![](assets/dialogues-4.png)
 
 1. __ Isis défini par défaut. Dans le champ Sélectionner des valeurs , saisissez CA (vous pouvez également cliquer sur la liste déroulante et sélectionner dans la liste).
 
-PICC
+   ![](assets/dialogues-5.png)
 
-1. Saisissez l’attribut Taille de la société et faites-le glisser vers la droite.
+1. Saisissez l’attribut **Taille de la société** et faites-le glisser jusqu’à l’emplacement où il est indiqué _faites glisser un attribut ici_.
 
-PICC
+   ![](assets/dialogues-6.png)
 
-1. Cliquez sur la liste déroulante des opérateurs et sélectionnez Supérieur à.
+   >[!NOTE]
+   >
+   >Vous pouvez également choisir un attribut en cliquant sur son icône **+**.
 
-PICC
+1. Cliquez sur la liste déroulante des opérateurs et sélectionnez **Supérieur à**.
+
+   ![](assets/dialogues-7.png)
 
 1. Saisissez 50, puis cliquez ailleurs à l’écran pour enregistrer.
 
-PICC
+   ![](assets/dialogues-8.png)
 
-COMMENT CAPTURER LES PISTES D’ANON
+**Leads anonymes**
 
-REMARQUE : peut-être mentionné le fonctionnement/l’affichage inféré d’un cas d’utilisation, l’e-mail de piste est vide.
+Il existe un moyen simple de cibler spécifiquement les pistes qui ne se trouvent pas encore dans votre base de données. Dans cet exemple, nous ciblons toutes les **pistes anonymes** situées dans la région de New York.
+
+1. Saisissez l’attribut **Email de piste** et faites-le glisser vers la droite.
+
+   ![](assets/dialogues-9.png)
+
+1. Cliquez sur la liste déroulante des opérateurs et sélectionnez **Est vide**.
+
+   ![](assets/dialogues-10.png)
+
+1. Saisissez l’attribut **État déduit** et faites-le glisser jusqu’à l’emplacement où il est indiqué _faites glisser un attribut ici_.
+
+   ![](assets/dialogues-11.png)
+
+   >[!NOTE]
+   >
+   >EXPLIQUEZ INFÉRÉ.
+
+1. __ Isis défini par défaut. Dans le champ Sélectionner les valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
+
+   ![](assets/dialogues-12.png)
 
 ## Ajout de groupes {#add-groups}
 
@@ -70,7 +96,7 @@ FINISSEZ CECI
 
 ## Cible {#target}
 
-C’est là que vous saisissez la ou les URL spécifiques sur lesquelles doit s’afficher un dialogue spécifique.
+C’est là que vous saisissez la ou les URL sur lesquelles vous souhaitez qu’un dialogue spécifique s’affiche.
 
 Formats acceptables :
 
@@ -110,8 +136,6 @@ Le concepteur de flux contient différentes cartes que vous pouvez ajouter pour 
   <td>Il s’agit de la seule carte que les visiteurs ne verront pas. Il vous appartient de déterminer à quel moment un objectif est atteint dans le chat spécifique (par exemple : Si la collecte de l’e-mail du visiteur est votre objectif, placez la carte Objectif après Capture d’informations dans le flux).</td>
  </tr>
 </table>
-
-PROPRE SECTION POSSIBLE
 
 AFFICHER LES EXEMPLES CI-DESSOUS
 
