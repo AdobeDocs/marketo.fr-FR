@@ -3,9 +3,9 @@ description: Dialogues - Documents Marketo - Documentation du produit
 title: Dialogues
 hide: true
 hidefromtoc: true
-source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '749'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ Les dialogues sont des conversations individuelles. Découvrez comment les perso
 
 >[!NOTE]
 >
->Le niveau de priorité détermine où la boîte de dialogue s’affiche dans votre liste (par exemple : La priorité 1 signifie qu’elle sera au sommet).
+>La priorité détermine le dialogue qui sera présenté à un visiteur lorsqu’il remplit les conditions requises pour plusieurs dialogues simultanément.
 
 ## Critères d’audience {#audience-criteria}
 

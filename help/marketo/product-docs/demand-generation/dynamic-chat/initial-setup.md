@@ -3,9 +3,9 @@ description: Configuration initiale - Documents Marketo - Documentation du produ
 title: Configuration initiale
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Suivez les étapes ci-dessous pour configurer Dynamic Chat.
 
 ## Ajout d’autorisations dans Marketo {#add-permissions-in-marketo}
 
-Après avoir ajouté des utilisateurs dans en Admin Console, vous devez accorder des autorisations dans Marketo.
+Après avoir ajouté des utilisateurs dans le Admin Console, vous devez accorder des autorisations dans Marketo pour qu’ils puissent accéder au raccourci Chat dynamique de Marketo.
 
 1. Dans Marketo, cliquez sur **Admin**.
 
@@ -46,4 +46,4 @@ Après avoir ajouté des utilisateurs dans en Admin Console, vous devez accorder
 >
 >Veillez à suivre les étapes dans l’ordre indiqué ci-dessus. Si une personne se voit d’abord accorder l’autorisation dans Marketo, elle verra la mosaïque Conversation dynamique, mais n’aura pas accès à l’utilisateur.
 
-L’étape suivante consiste à [accéder à la messagerie dynamique](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).
+L’étape suivante consiste à [connecter la messagerie dynamique à Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).
