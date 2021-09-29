@@ -3,16 +3,16 @@ description: Dialogues - Documents Marketo - Documentation du produit
 title: Dialogues
 hide: true
 hidefromtoc: true
-source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
+source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '745'
 ht-degree: 1%
 
 ---
 
 # Dialogues {#dialogues}
 
-Les boîtes de dialogue sont les conversations individuelles que vous allez configurer. Découvrez comment les personnaliser visuellement, déterminer les pages sur lesquelles elles apparaissent et déterminer ce qui est dit et qui les voit.
+Les dialogues sont des conversations individuelles. Découvrez comment les personnaliser visuellement, déterminer les pages sur lesquelles elles apparaissent et déterminer ce qui est dit et qui les voit.
 
 ## Créer un dialogue {#create-a-new-dialogue}
 
@@ -30,7 +30,7 @@ Les boîtes de dialogue sont les conversations individuelles que vous allez conf
 
 >[!NOTE]
 >
->Le niveau de priorité détermine où la boîte de dialogue s’affiche dans votre liste (par exemple : priority = 1 signifie qu’il sera tout en haut).
+>Le niveau de priorité détermine où la boîte de dialogue s’affiche dans votre liste (par exemple : La priorité 1 signifie qu’elle sera au sommet).
 
 ## Critères d’audience {#audience-criteria}
 
@@ -82,7 +82,7 @@ Il existe un moyen simple de cibler spécifiquement les pistes qui ne se trouven
 
    >[!NOTE]
    >
-   >EXPLIQUEZ INFÉRÉ.
+   >Lorsqu’un visiteur se rend sur votre site Web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) le coche et le place dans le système. Nous recherchons leur adresse IP dans une base de données spéciale et en déduisons toutes sortes de bonnes informations.
 
 1. __ Isis défini par défaut. Dans le champ Sélectionner les valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 
@@ -137,8 +137,38 @@ Le concepteur de flux contient différentes cartes que vous pouvez ajouter pour 
  </tr>
 </table>
 
-AFFICHER LES EXEMPLES CI-DESSOUS
+**Création d’un flux**
+
+Il existe _de nombreuses_ combinaisons de flux à créer. Dans cet exemple, nous allons poser une question et préparer .
 
 ## Rapports {#reports}
 
-Texte
+Dans l&#39;onglet Rapports , affichez les données des 90 derniers jours. Chaque catégorie est définie ci-dessous.
+
+<table>
+ <tr>
+  <td><strong>Total déclenché</strong></td>
+  <td>S’incrémente chaque fois qu’un visiteur est admissible pour/s’affiche dans un dialogue.
+</td>
+ </tr>
+ <tr>
+  <td><strong>Engagé</strong></td>
+  <td>S’incrémente chaque fois qu’un visiteur clique sur l’ancre de chatbot pour ouvrir le dialogue.</td>
+ </tr>
+ <tr>
+  <td><strong>Terminé</strong></td>
+  <td>Incrémente chaque fois qu’un visiteur atteint la fin d’une branche dans un dialogue.</td>
+ </tr>
+ <tr>
+  <td><strong>Pistes capturées</strong></td>
+  <td>Incrémente chaque fois qu’un visiteur fournit une adresse électronique valide dans un flux de dialogue.</td>
+ </tr>
+ <tr>
+  <td><strong>Réunions préparées</strong></td>
+  <td>S’incrémente chaque fois qu’un visiteur parvient à planifier un rendez-vous via le chatterbot.</td>
+ </tr>
+ <tr>
+  <td><strong>Objectifs atteints</strong></td>
+  <td>Incrémente chaque fois qu’un visiteur atteint un objectif dans un flux de dialogue.</td>
+ </tr>
+</table>
