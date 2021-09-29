@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 3a3002c7669ea084ea1a953d182bbaa4fcf93167
 workflow-type: tm+mt
-source-wordcount: '8099'
+source-wordcount: '8102'
 ht-degree: 5%
 
 ---
@@ -620,10 +620,11 @@ ht-degree: 5%
          + [Envoi d’une liste à un réseau publicitaire](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Chat dynamique {#dynamic-chat}
          + [Présentation de la conversation dynamique](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
-         + [Dialogues](product-docs/demand-generation/dynamic-chat/dialogues.md)
-         + [Configuration](product-docs/demand-generation/dynamic-chat/configuration.md)
-         + [Ajout ou suppression d’utilisateurs de conversation](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Configuration initiale](product-docs/demand-generation/dynamic-chat/initial-setup.md)
+         + [Accès à la messagerie dynamique](product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)
+         + [Ajout ou suppression d’utilisateurs de conversation](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
+         + [Configuration](product-docs/demand-generation/dynamic-chat/configuration.md)
+         + [Dialogues](product-docs/demand-generation/dynamic-chat/dialogues.md)
       + Événements {#events}
          + Présentation des événements {#understanding-events}
             + [Ajout de membres à un programme d’événement](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)

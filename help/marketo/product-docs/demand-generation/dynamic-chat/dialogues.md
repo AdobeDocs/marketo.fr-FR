@@ -3,10 +3,10 @@ description: Dialogues - Documents Marketo - Documentation du produit
 title: Dialogues
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '504'
-ht-degree: 0%
+source-wordcount: '523'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ PICC
 
 >[!NOTE]
 >
->EXPLIQUER LE NIVEAU DE PRIORITÉ
+>Le niveau de priorité détermine l’emplacement de la boîte de dialogue sur votre liste (par exemple : priority = 1 signifie qu’il sera tout en haut).
 
 ## Critères d’audience {#audience-criteria}
 
@@ -114,3 +114,7 @@ Le concepteur de flux contient différentes cartes que vous pouvez ajouter pour 
 PROPRE SECTION POSSIBLE
 
 AFFICHER LES EXEMPLES CI-DESSOUS
+
+## Rapports {#reports}
+
+Texte

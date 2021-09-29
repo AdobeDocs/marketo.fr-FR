@@ -3,16 +3,18 @@ description: Configuration initiale - Documents Marketo - Documentation du produ
 title: Configuration initiale
 hide: true
 hidefromtoc: true
-source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
 # Configuration initiale {#initial-setup}
 
-texte d’introduction
+## Admin Console d’accès {#access-admin-console}
+
+Suivez les étapes ci-dessous pour configurer Dynamic Chat.
 
 >[!NOTE]
 >
@@ -20,16 +22,28 @@ texte d’introduction
 
 1. Une fois que Dynamic Chat est activé pour votre instance Marketo, l’administrateur système désigné recevra un e-mail de bienvenue. Dans cet email, cliquez sur **Commencer**.
 
-   PICC
+   ![](assets/initial-setup-1.png)
 
 1. Si vous avez déjà accédé à une application avec une Adobe ID, vous serez directement dirigé vers Adobe Admin Console. Dans le cas contraire, [configurez votre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
-   PICC
+   ![](assets/initial-setup-2.png)
 
-1. Ajout d’utilisateurs (étapes à suivre)
+## Ajout d’utilisateurs {#add-users}
 
-Deuxième étape d’action - est dans Marketo - Une fois que vous avez ajouté l’utilisateur dans Admin Console, il revient à Marketo (utilisateurs et rôles) et ajoute l’autorisation DC à tous les agents [VENANT TARD OCT, aucune capture d’écran]
+1. Une fois connecté au Admin Console, la prochaine chose à faire est d’ajouter des utilisateurs. Ce processus est [documenté ici](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
->[!NOTE]
+## Ajout d’autorisations dans Marketo {#add-permissions-in-marketo}
+
+Après avoir ajouté des utilisateurs dans en Admin Console, vous devez accorder des autorisations dans Marketo.
+
+1. Dans Marketo, cliquez sur **Admin**.
+
+1. Recherchez un utilisateur et double-cliquez dessus.
+
+1. Ajoutez **Accédez à Dynamic Chat** et cliquez sur **Enregistrer**.
+
+>[!IMPORTANT]
 >
->Veillez à suivre les étapes dans l’ordre indiqué. Si une personne se voit d’abord accorder l’autorisation dans Marketo, elle verra la mosaïque Conversation dynamique, mais n’aura pas accès à l’utilisateur.
+>Veillez à suivre les étapes dans l’ordre indiqué ci-dessus. Si une personne se voit d’abord accorder l’autorisation dans Marketo, elle verra la mosaïque Conversation dynamique, mais n’aura pas accès à l’utilisateur.
+
+L’étape suivante consiste à [accéder à la messagerie dynamique](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).

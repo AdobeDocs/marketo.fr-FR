@@ -1,70 +1,69 @@
 ---
 unique-page-id: 10912163
-description: Création d’un courrier électronique - Documents marketing - Documentation du produit
-title: Créer un courriel
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Création d’un courrier électronique - Documents Marketo - Documentation du produit
+title: Création d’un courrier électronique
+exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
+# Création d’un courrier électronique {#create-an-email}
 
-# Créer un courriel {#create-an-email}
+Il existe deux méthodes principales pour créer un email dans Marketo. Regardons les deux.
 
-Il existe deux méthodes principales pour créer un courrier électronique dans Marketo. Regardons les deux.
-
-## Créer un courrier électronique dans Design Studio {#create-an-email-in-the-design-studio}
+## Création d’un courrier électronique dans Design Studio {#create-an-email-in-the-design-studio}
 
 1. Accédez à **Design Studio**.
 
-   ![](assets/one-4.png)
+   ![](assets/create-an-email-1.png)
 
-1. Cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouveau courriel**.
+1. Cliquez sur la liste déroulante **New** et sélectionnez **New Email**.
 
-   ![](assets/two-4.png)
+   ![](assets/create-an-email-2.png)
 
    >[!NOTE]
    >
-   >Lorsque vous créez un courrier électronique dans Design Studio, il se trouve dans l’arborescence sous &quot;Courriers électroniques&quot;.
+   >Lorsque vous créez un email dans Design Studio, il se trouve dans l’arborescence sous &quot;Emails&quot;.
 
-Simple ! Maintenant, dans l&#39;autre sens...
+Simple! Maintenant, de l&#39;autre côté...
 
-## Créer un courriel dans les Activités marketing {#create-an-email-in-marketing-activities}
+## Création d’un courrier électronique dans les activités marketing {#create-an-email-in-marketing-activities}
 
 1. Accédez à **Activités marketing**.
 
-   ![](assets/three-3.png)
+   ![](assets/create-an-email-3.png)
 
-1. Sélectionnez le programme auquel vous souhaitez ajouter le courriel, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouveau fichier local**.
+1. Sélectionnez le programme auquel vous souhaitez ajouter l&#39;email, cliquez sur la liste déroulante **New** et sélectionnez **Nouvelle ressource locale**.
 
-   ![](assets/four-3.png)
+   ![](assets/create-an-email-4.png)
 
-1. Cliquez sur **Courriel**.
+1. Cliquez sur **Email**.
 
-   ![](assets/five-2.png)
+   ![](assets/create-an-email-5.png)
 
-   Et c&#39;est tout !
+   Et voilà !
 
-Quelle que soit la méthode choisie, vous accédez au sélecteur de modèles.
+Quelle que soit la méthode choisie, vous accédez au sélecteur de modèle.
 
-1. Donnez un nom à votre adresse électronique, cliquez sur le modèle que vous souhaitez utiliser, puis cliquez sur **Créer**.
+1. Attribuez un nom à votre email, cliquez sur le modèle à utiliser, puis sur **Créer**.
 
-   ![](assets/six-2.png)
+   ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >Vous pouvez choisir parmi une collection de modèles de courrier électronique réactif prêts à l’emploi ou un modèle que vous avez enregistré en sélectionnant d’abord **Mes modèles** et en suivant les mêmes étapes.
+   >Vous pouvez choisir parmi une collection de modèles d’email réactif prêts à l’emploi ou un modèle que vous avez enregistré en commençant par sélectionner **Mes modèles** et en suivant les mêmes étapes.
 
-1. Entrez un objet. Il y a un comptoir à droite pour vous avertir si vous êtes sous la limite de 50 caractères recommandée.
+1. Entrez un objet. La limite de caractères recommandée est 50.
 
-   ![](assets/seven-1.png)
+   ![](assets/create-an-email-7.png)
 
-   Selon le modèle que vous avez choisi, vous disposez de différentes options pour modifier votre adresse électronique. Pour les courriers électroniques contenant des modules, extrayez [Ajouter des modules à votre adresse électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+   Selon le modèle choisi, vous disposez de différentes options pour éditer votre email. Pour les emails avec des modules, consultez [Ajouter des modules à votre email](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
-Votre e-mail est maintenant créé, alors modifiez-le !
+Votre email est maintenant créé, éditez-le !
 
 >[!MORELIKETHIS]
 >
->[Modifier votre en-tête de courriel](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
+>[Modifier votre en-tête d’email](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
