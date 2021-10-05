@@ -3,16 +3,16 @@ unique-page-id: 7516478
 description: Modèle 2D - Documents Marketo - Documentation du produit
 title: Modèle 2D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # Modèle 2D {#template-2d}
 
-[Télécharger le modèle 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -26,6 +26,6 @@ Ce modèle comprend le contenu suivant :
 * Une section de corps avec du texte et du sondage (facultatif)
 * Pied de page (facultatif)
 
-**Cliquez ci-dessous pour télécharger ce modèle :**
+**Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
 [Template 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

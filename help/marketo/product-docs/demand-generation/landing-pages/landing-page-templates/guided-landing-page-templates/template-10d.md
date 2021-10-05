@@ -3,16 +3,16 @@ unique-page-id: 8784008
 description: Modèle 10D - Documents Marketo - Documentation du produit
 title: Modèle 10D
 exl-id: cd6a2879-032b-4722-ab6a-561bbccdff31
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Modèle 10D {#template-10d}
 
-[Modèle de téléchargement 10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
 
 ![](assets/image2015-7-27-11-3a3-3a12.png)
 
@@ -25,6 +25,6 @@ Ce modèle comprend le contenu suivant :
 * Trois sections de corps (facultatif)
 * Un pied de page (facultatif)
 
-**Cliquez ci-dessous pour télécharger ce modèle :**
+**Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
 [Template 10D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)

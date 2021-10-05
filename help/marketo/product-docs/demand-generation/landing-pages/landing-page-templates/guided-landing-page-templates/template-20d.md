@@ -3,16 +3,16 @@ unique-page-id: 10092919
 description: Modèle 20D - Documents Marketo - Documentation du produit
 title: Modèle 20D
 exl-id: b6fdc927-a469-463a-808e-a08a52c6cfa2
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # Modèle 20D {#template-20d}
 
-[Modèle de téléchargement 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
 
 ![](assets/template-20d.png)
 
@@ -25,6 +25,6 @@ Ce modèle comprend le contenu suivant :
 * Quatre sections de contenu (facultatif)
 * Pied de page (facultatif)
 
-**Cliquez ci-dessous pour télécharger ce modèle :**
+**Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
 [Template 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)

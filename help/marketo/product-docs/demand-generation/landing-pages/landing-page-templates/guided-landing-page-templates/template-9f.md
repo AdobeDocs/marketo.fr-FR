@@ -3,16 +3,16 @@ unique-page-id: 8783996
 description: Modèle 9F - Documents Marketo - Documentation du produit
 title: Modèle 9F
 exl-id: 4a24d5fa-7e3d-4832-8946-0c61e965fd5a
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Modèle 9F {#template-9f}
 
-[Télécharger le modèle 9F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 9F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
 
 ![](assets/image2015-7-28-16-3a1-3a25.png)
 
@@ -25,6 +25,6 @@ Ce modèle comprend le contenu suivant :
 * Huit sections du corps (facultatif)
 * Un pied de page (facultatif)
 
-**Cliquez ci-dessous pour télécharger ce modèle :**
+**Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
 [Template 9F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
