@@ -1,39 +1,38 @@
 ---
 unique-page-id: 2359418
-description: Importer une Liste de personnes - Documents Marketo - Documentation du produit
-title: Importer une Liste de personnes
+description: Importation d’une liste de personnes - Documents Marketo - Documentation du produit
+title: Importation d’une liste de personnes
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '490'
 ht-degree: 5%
 
 ---
 
-# Importer une Liste de personnes {#import-a-list-of-people}
+# Importation d’une liste de personnes {#import-a-list-of-people}
 
-## Mission : Importer une feuille de calcul liste des participants à un salon commercial dans votre base de données {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Mission : Importez dans votre base de données une feuille de calcul contenant les participants aux salons professionnels. {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
->[Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un fichier de feuille de calcul vers Marketo.
+Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à partir d’un fichier de feuille de calcul.
 
-## Étape 1 : Télécharger et modifier une feuille de calcul {#step-download-and-edit-a-spreadsheet}
+## Étape 1 : Téléchargement et modification d’une feuille de calcul {#step-download-and-edit-a-spreadsheet}
 
-1. Pour début, téléchargez notre feuille de calcul pratique ([**tradeshow-participants.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) sur votre ordinateur.
+1. Pour commencer, téléchargez notre fichier de feuille de calcul pratique ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) sur votre ordinateur.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Lors de l’importation d’une date, utilisez le format suivant : **21/9/20** (Mois/Jour/Année).
+   >Lors de l&#39;import d&#39;une date, utilisez le format suivant : **9/21/20** (Mois/Jour/Année).
 
    >[!NOTE]
    >
-   >Tous les champs Date/Heure importés sont traités comme Heure centrale. Si vous avez des champs Date/Heure dans un fuseau horaire différent, vous pouvez utiliser une formule Excel pour le transformer en Heure centrale (Amérique/Chicago).
+   >Les champs Date/Heure importés sont traités comme heure centrale. Si des champs Date/Heure se trouvent dans un fuseau horaire différent, vous pouvez utiliser une formule Excel pour les transformer en heure normale du Centre (Amérique/Chicago).
 
 1. Ajoutez vos propres prénom, nom, adresse électronique et titre de la tâche, puis enregistrez le fichier sur votre ordinateur.
 
@@ -41,33 +40,33 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
 
 >[!NOTE]
 >
->Entrez votre véritable adresse de courriel dans le fichier CSV afin de recevoir les messages de soutien que vous enverrez lors de la prochaine mission.
+>Entrez votre véritable adresse électronique dans le fichier CSV afin de recevoir les e-mails de préparation que vous enverrez lors de la prochaine mission.
 
 ## Étape 2 : Créer un programme {#step-create-a-program}
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez à la zone **Activités marketing** .
 
    ![](assets/ma-2.png)
 
-1. Sélectionnez votre dossier **Apprentissage**, puis sous **Nouveau** cliquez sur **Nouveau Programme**.
+1. Sélectionnez votre dossier **Apprentissage**, puis sous **Nouveau** cliquez sur **Nouveau programme**.
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **** Nommez le programme &quot;Mon Programme de commerce&quot; et sélectionnez &quot;Événement&quot; pour le type **de** Programme.
+1. **** Nommez le programme &quot;My Tradeshow Program&quot; et sélectionnez &quot;Event&quot; pour le type de  **programme**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
-1. Sélectionnez **Tradeshow** pour le **Canal** et cliquez sur **Créer**.
+1. Sélectionnez **Tradeshow** pour le **canal** et cliquez sur **Créer**.
 
    ![](assets/image2014-9-24-12-3a21-3a39.png)
 
 >[!NOTE]
 >
->Les programmes de événement se produisent à des dates spécifiques. En savoir plus sur [**Événements**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>Les programmes d’événement se produisent à des dates spécifiques. En savoir plus sur [**les événements**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
-## Étape 3 : Importer votre feuille de calcul dans Marketo {#step-import-your-spreadsheet-into-marketo}
+## Étape 3 : Importation de votre feuille de calcul dans Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. Dans **Mon Programme de commerce**, cliquez sur **Nouveau** et sélectionnez **Nouvel actif local**.
+1. Dans **Mon programme de commerce**, cliquez sur **Nouveau** et sélectionnez **Nouvelle ressource locale**.
 
    ![](assets/seven-3.png)
 
@@ -75,36 +74,36 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **Attribuez un** nom à la liste &quot;Présents du diaporama&quot; et cliquez sur  **Créer**.
+1. **** Nommez la liste &quot;Participant(e) de commerce&quot; et cliquez sur  **Créer**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
-1. Dans votre liste **Présents du salon commercial**, cliquez sur **Actions de Liste** et sélectionnez **Importer la Liste**.
+1. Dans votre liste **Participant(s) de commerce**, cliquez sur **Actions de liste** et sélectionnez **Importer la liste**.
 
    ![](assets/ten-2.png)
 
    >[!CAUTION]
    >
-   >Si vous utilisez votre propre fichier CSV, assurez-vous qu’il est codé en UTF-8, UTF-16, Shift-JIS ou EUC-JP.
+   >Si vous utilisez votre propre fichier CSV, assurez-vous qu’il est codé au format UTF-8, UTF-16, Shift-JIS ou EUC-JP.
 
    >[!NOTE]
    >
-   >La taille maximale des fichiers CSV est de 100 Mo.
+   >La taille des fichiers CSV est limitée à 100 Mo.
 
-1. **** Accédez au fichier  **tradeshow-attendees.** csvspreadsheet sur votre ordinateur et cliquez sur  **Suivant**.
+1. **** Accédez au fichier  **tradeshow-attendees.** csvtabreadsheet sur votre ordinateur et cliquez sur  **Suivant**.
 
    ![](assets/eleven-2.png)
 
    >[!NOTE]
    >
-   >En mode d’importation de Liste, le fait de sélectionner **Ignorer les nouvelles personnes et les mises à jour** signifie que vous n’aurez aucun impact sur les enregistrements de personne existants ou n’enregistrerez aucune activité. Utilisez ce mode si vous souhaitez une liste statique rapide et préfiltrée de personnes existantes à utiliser dans vos activités marketing. Si vous sélectionnez ce mode, les options suivantes seront disponibles :
+   >En mode d’importation de liste, le fait de sélectionner **Ignorer les nouvelles personnes et les mises à jour** signifie que vous n’aurez aucune incidence sur les enregistrements de personne existants ni sur les activités enregistrées. Utilisez ce mode si vous souhaitez obtenir une liste statique rapide et préfiltrée des personnes existantes à utiliser dans vos activités marketing. La sélection de ce mode permet d’effectuer les opérations suivantes :
    >
-   > * Ignorer la création de nouvelles personnes
+   > * Ignorer la création d’une nouvelle personne
    > * Ignorer les mises à jour du champ individu
    > * Ignorer la journalisation d&#39;activité
 
 
-1. Faites correspondre vos champs de colonne de Liste à leur champ de Marketo respectif et cliquez sur **Suivant**.
+1. Faites correspondre vos champs Colonne de liste avec leur champ Marketo respectif et cliquez sur **Suivant**.
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
@@ -114,23 +113,23 @@ Dans ce didacticiel, vous apprendrez à importer des personnes à partir d’un 
 
    >[!NOTE]
    >
-   >Si vous ne souhaitez pas importer de champs, sélectionnez **Ignorer** dans le menu déroulant Champ Marketo.
+   >Si vous ne souhaitez pas importer des champs, sélectionnez **Ignorer** dans le menu déroulant Champ Marketo .
 
-1. Sélectionnez **Mon Programme de commerce** pour le **Programme d&#39;acquisition**, puis cliquez sur **Importer**.
+1. Sélectionnez **Mon programme de commerce** pour le **programme d’acquisition**, puis cliquez sur **Importer**.
 
    ![](assets/image2014-9-24-12-3a25-3a1.png)
 
-1. Attendez que vos utilisateurs importeront, puis fermez la fenêtre contextuelle de progression de l’importation.
+1. Attendez que vos employés importent, puis fermez la fenêtre contextuelle de progression de l&#39;import.
 
    ![](assets/image2014-9-24-12-3a25-3a13.png)
 
-1. De retour dans **Mon Programme de commerce**, cliquez sur l&#39;onglet **Membres**. Vous verrez toutes les personnes que vous venez d&#39;importer.
+1. De retour dans **Mon programme Tradeshow**, cliquez sur l’onglet **Membres**. Vous verrez toutes les personnes que vous venez d&#39;importer.
 
    ![](assets/fifteen-1.png)
 
 >[!NOTE]
 >
->Vous pouvez analyser la réussite de votre programme en suivant l&#39;adhésion au programme. En savoir plus sur [**Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>Vous pouvez analyser le succès de votre programme en suivant l’adhésion au programme. En savoir plus sur [**Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Mission accomplie {#mission-complete}
 
@@ -138,6 +137,6 @@ Les participants au salon sont désormais membres de votre programme Marketo !
 
 <br> 
 
-[Mission 4 : Réponse automatique par courriel](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[◄ Mission 4 : Réponse automatique aux e-mails](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
 [Mission 6 : Marketing goutte à goutte et fidélisation ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

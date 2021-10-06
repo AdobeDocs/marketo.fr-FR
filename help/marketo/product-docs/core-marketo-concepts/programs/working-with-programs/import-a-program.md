@@ -1,37 +1,36 @@
 ---
 unique-page-id: 1147108
-description: Importer un Programme - Documents Marketo - Documentation du produit
-title: Importer un Programme
+description: Importation d’un programme - Documents Marketo - Documentation du produit
+title: Importation d’un programme
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
 
 ---
 
-# Importer un Programme {#import-a-program}
+# Importation d’un programme {#import-a-program}
 
-Un programme peut être importé d&#39;un abonnement Marketo à un autre. Par exemple, vous pouvez créer un programme dans un sandbox, puis l’importer dans votre abonnement actif. Vous pouvez également importer un programme préconstruit à partir de la bibliothèque de Programmes Marketo.
+Un programme peut être importé d&#39;un abonnement Marketo vers un autre. Par exemple, vous pouvez créer un programme dans un environnement de test, puis l’importer dans votre abonnement en direct. Vous pouvez également importer un programme prédéfini à partir de la bibliothèque de programmes Marketo.
 
-## Importer un Programme {#import-a-program-1}
+## Importation d’un programme {#import-a-program-1}
 
 1. Accédez à **Activités marketing.**
 
    ![](assets/ma.png)
 
-1. Cliquez sur la liste déroulante **Nouveau**. Sélectionnez **Importer le Programme**.
+1. Cliquez sur la liste déroulante **Nouvelle** . Sélectionnez **Programme d’importation**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >L’importation de programme n’est disponible que pour les utilisateurs pour lesquels l’autorisation d’importation de Programme est activée. En savoir plus sur [la gestion des rôles utilisateur et des autorisations](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >L’importation de programme n’est disponible que pour les utilisateurs pour lesquels l’autorisation Importer un programme est activée. En savoir plus sur la [gestion des rôles et des autorisations des utilisateurs](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >Pour connecter un compte sandbox à votre abonnement actif, contactez le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Pour connecter un compte sandbox à votre abonnement en direct, contactez le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Sélectionnez un Abonnement **Marketo** et un programme à importer. Cliquez sur **Suivant**.
+1. Sélectionnez une Marketo **Abonnement** et un programme à importer. Cliquez sur **Suivant**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
@@ -41,65 +40,67 @@ Un programme peut être importé d&#39;un abonnement Marketo à un autre. Par ex
 
    >[!NOTE]
    >
-   >Vérifiez que **Utiliser les règles de conflit par défaut** est sélectionné. Des règles de conflit sont nécessaires lorsque vous importez des programmes dans une instance dont les actifs portent le même nom.
+   >Assurez-vous que les **règles Utiliser le conflit par défaut** sont sélectionnées. Des règles de conflit sont nécessaires lorsque vous importez des programmes dans une instance dont les ressources portent le même nom.
 
-1. Détails de la prévisualisation et **Importer** le programme.
+1. Prévisualisez les détails et **importez** le programme.
 
    ![](assets/image2014-9-17-12-3a21-3a36.png)
 
-   Une boîte de dialogue affiche la progression de l&#39;importation du programme.
+   Une boîte de dialogue affiche la progression de l’importation du programme.
 
    ![](assets/image2014-9-17-12-3a21-3a51.png)
 
-Vous recevrez une confirmation par courrier électronique une fois l&#39;importation terminée.
+Une fois l&#39;import terminé, vous recevrez une confirmation par email.
 
 >[!NOTE]
 >
->Vous devez replanifier des campagnes par lots importées et activer des campagnes de déclenchement. Le système désactive automatiquement les planifications de campagne et déclenche les campagnes dans le programme importé.
+>Vous devrez replanifier les campagnes par lots importées et activer les campagnes de déclenchement. Le système désactive automatiquement les plannings de campagne et déclenche les campagnes dans le programme importé.
 
-## Identifier les Programmes prédéveloppés dans la bibliothèque de Programmes Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
+## Identification des programmes prédéveloppés dans la bibliothèque de programmes Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
 
-La bibliothèque de Programmes Marketo contient des programmes prédéveloppés et testés que vous pouvez importer dans votre abonnement. Les programmes disponibles sont les suivants :
+La bibliothèque de programmes Marketo contient des programmes prédéfinis et testés que vous pouvez importer dans votre abonnement. Les programmes disponibles incluent :
 
-1. **Infirmière de base.** Envoie une série de courriers électroniques séparés par des étapes d’attente.
-1. **Gestion des données.** Préserve l’intégrité des données à l’aide de campagnes intelligentes.
-1. **Courriel avec Landing page.** Envoie un premier courrier électronique avec une offre, telle que &quot;Télécharger ce livre blanc&quot;. Suit un message de confirmation ou de rappel. Inclut un landing page avec un formulaire.
-1. **Courrier électronique avec états de progression.** Envoie une explosion de courrier avec un lien pouvant faire l’objet d’un suivi pour la personne sur laquelle cliquer. Met à jour l’état de progression de chaque personne - Envoyé, Ouvert, Cliqué, etc.
-1. **Moments significatifs.** Crée des moments intéressants pour que votre équipe commerciale les garde dans la boucle.
-1. **landing page avec la réponse automatique.** Utilisez le contenu téléchargeable pour attirer de nouvelles personnes et les nourrir. Inclut des landings page et des formulaires.
-1. **Cycle de vie 2.** Utilise le score pour déplacer une personne du nouveau au marketing qualifié.
-1. **Modèle de courrier électronique mobile.** Modèle de courrier électronique réactif testé sur iPhone et Android. Certaines versions des applications Android, MS Outlook, Exchange et tierces, telles que Gmail et Yahoo ! Les applications mobiles par courrier électronique ne prennent pas en charge la page CSS requise pour les modèles réactifs. Nous vous recommandons de tester avant d&#39;envoyer des courriers électroniques.
-1. **Tirage d’importation de programme.** Tirage programme pour ceux qui essaient la Programme Library ! Approuvez simplement les courriels et le landing page et activez la campagne intelligente. Ensuite, vue le landing page approuvé, remplissez le formulaire, et vous êtes inscrit !
-1. **Campagnes disponibles sur les ventes.** Donne à vos commerciaux un moyen d&#39;exécuter des campagnes Marketo intelligentes à partir d&#39;un Tableau de bord de votre gestion de la relation client.
-1. **Scoring - Spark Edition.** Score démographique et comportemental capturé dans un seul champ de score. Inclut plus de deux douzaines de campagnes liées au score.
-1. **Scoring - Standard &amp; Select Editions.** Score démographique et comportemental capturé dans des champs de score distincts. Inclut plus de deux douzaines de campagnes liées au score.
-1. **Synchroniser les nouvelles personnes avec CRM.** Campagne qui synchronise les nouvelles personnes sur votre système de gestion de la relation client. Il attribue un statut à une personne de telle sorte qu&#39;elle soit reconnue comme n&#39;étant pas prête pour les ventes.
-1. **Webinaire avec adaptateur de Événement.** Un ensemble complet de courriels - tels que des invitations et des rappels - plus des landings page avec des formulaires et des campagnes pour déplacer les personnes à travers le programme. Ce programme reçoit des mises à jour sur l&#39;inscription, la présence, etc. provenant de fournisseurs de événements en ligne tels que WebEx.
-1. **Webinaire sans adaptateur de Événement.** Comme ci-dessus, mais avec des processus manuels pour enregistrer l&#39;inscription, la présence, etc.
-1. **Programme** de score des décisions Sirius. Ce programme est conçu pour prendre en charge le modèle standard de notation des décisions Sirius, y compris les règles de notation implicites et explicites et l&#39;affectation de personnes matriquées.
-
->[!CAUTION]
->
->Vous devez créer deux champs personnalisés (&quot;Score démographique&quot; et &quot;Score comportemental&quot;) avant d’importer le programme Scoring - Standard &amp; Select Editions.
-
-## Impact sur les actifs externes au cours des importations de Programme {#impact-on-external-assets-during-program-imports}
-
-Les programmes utilisent des ressources externes telles que des modèles de courrier électronique, des modèles de landing page, des images, des formulaires, des jetons et des balises de programme. Vous pouvez configurer la manière dont les modèles de landing page et les balises de programme sont traités et Marketo gère automatiquement le reste.
-
-**Modèles de courrier électronique : les modèles de** courrier électronique sont automatiquement importés et créés, sauf s’il en existe un portant le même nom.
-
-**Modèles de landing page : les modèles de** Landing page sont importés dans le studio de création. Vous pouvez utiliser des règles de conflit pour configurer le comportement lorsqu’un modèle portant le même nom existe. La règle par défaut permet d’ajouter un nombre à un modèle de landing page s’il en existe un portant le même nom. Par exemple, un modèle de landing page nommé Modèle standard 1 est créé s’il en existe un nommé Modèle standard.
-
-**Images :** Les images utilisées par les landings page sont importées dans le studio de création, sauf si elles portent le même nom.
-
-**Jetons :** les jetons qui résident en dehors d’un programme sont convertis en jetons locaux pendant le processus d’importation.
+1. **Des soins de base.** Envoie une série d’emails séparés par des étapes d’attente.
+1. **Gestion des données.** Maintient l’intégrité des données à l’aide de campagnes intelligentes.
+1. **Courrier électronique avec page d’entrée.** Envoie un premier courrier électronique avec une offre, par exemple &quot;Téléchargez ce livre blanc&quot;. Suit un email de confirmation ou de rappel. Inclut une landing page avec un formulaire.
+1. **Courrier électronique avec états de progression.** Envoie un message avec un lien pouvant faire l’objet d’un suivi que la personne à cliquer. Met à jour l’état de progression de chaque personne (Envoyé, Ouvert, Cliqué, etc.).
+1. **Moments significatifs.** Crée des moments intéressants pour que votre équipe de vente les conserve dans la boucle.
+1. **Page d’entrée avec la réponse automatique.** Utilisez du contenu téléchargeable pour obtenir de nouvelles personnes et les nourrir. Inclut des landing pages et des formulaires.
+1. **Cycle de vie 2.** Utilise la notation pour faire passer une personne du nouveau au marketing qualifié.
+1. **Modèle de courrier électronique mobile.** Modèle de courrier électronique réactif testé par rapport à iPhone et Android. Certaines versions d’Android, MS Outlook, Exchange et d’applications tierces telles que Gmail et Yahoo! Les applications mobiles de messagerie ne prennent pas en charge le code CSS requis pour les modèles réactifs. Nous vous recommandons de tester avant d’envoyer des emails.
+1. **Tirage d’importation de programme.** Programme Tirage pour ceux qui essaient la bibliothèque du programme ! Validez simplement les emails et la landing page et activez la campagne dynamique. Visualisez ensuite la landing page validée, remplissez le formulaire, et vous êtes alors inscrit !
+1. **Campagnes disponibles des ventes.** Donne à vos commerciaux le moyen d’exécuter des campagnes dynamiques Marketo à partir d’un tableau de bord dans votre gestion de la relation client.
+1. **Notation - Édition Spark.** Score démographique et comportemental capturé dans un champ de notation unique. Inclut plus de deux douzaines de campagnes liées à la notation.
+1. **Notation - Éditions Standard et Sélectionner .** Score démographique et comportemental capturé dans des champs de notation distincts. Inclut plus de deux douzaines de campagnes liées à la notation.
+1. **Synchroniser les nouvelles personnes avec le CRM.** La campagne qui synchronise les nouvelles personnes dans votre système CRM. Il attribue un statut de personne de sorte qu’il soit reconnu comme n’étant pas prêt pour les ventes.
+1. **Webinaire avec adaptateur d’événement.** Un ensemble complet d’emails (ex. : invitations et rappels) ainsi que des landing pages avec des formulaires et des campagnes pour déplacer des personnes dans le programme. Ce programme reçoit des mises à jour sur l&#39;inscription, l&#39;assiduité, etc. des fournisseurs d’événements en ligne tels que WebEx.
+1. **Webinaire sans adaptateur d’événement.** Comme ci-dessus, mais avec des processus manuels d&#39;enregistrement, de présence, etc.
+1. **Programme de notation des décisions Sirius**. Ce programme est conçu pour prendre en charge le modèle de notation standard des décisions Sirius, y compris les règles de notation implicites et explicites et l’affectation de personne matrifiée.
 
 >[!CAUTION]
 >
->Les types d’image que mes jetons ne sont pas pris en charge pour les importations de programme. Si un programme dont le type d’image est my tokens est importé, les jetons **no** seront envoyés.
+>Vous devez créer deux champs personnalisés (&quot;Score démographique&quot; et &quot;Score comportemental&quot;) avant d’importer le programme Scoring - Standard &amp; Select Editions .
 
-**Balises de programme :** vous pouvez utiliser des règles de conflit pour contrôler le traitement des balises de programme qui n’existent pas dans le compte de destination. L’utilisation de la règle par défaut crée les balises de programme ou vous pouvez choisir d’ignorer les balises. **Forms : les formulaires** externes seront automatiquement importés dans le studio de création, sauf s’il en existe un portant le même nom.
+## Impact sur les ressources externes lors des importations de programme {#impact-on-external-assets-during-program-imports}
+
+Les programmes utilisent des ressources externes telles que des modèles d’email, des modèles de landing page, des images, des formulaires, des jetons et des balises de programme. Vous pouvez configurer la manière dont les modèles de landing page et les balises de programme sont traités, et Marketo gère automatiquement le reste.
+
+**Modèles de courrier électronique :** les modèles de courrier électronique sont automatiquement importés et créés, sauf s’il en existe un portant le même nom.
+
+**Modèles de page d’entrée :** les modèles de page d’entrée sont importés dans le studio de conception. Vous pouvez utiliser des règles de conflit pour configurer le comportement lorsqu’il existe un modèle portant le même nom. En utilisant la règle par défaut, un nombre sera ajouté à un modèle de landing page s&#39;il en existe un portant le même nom. Par exemple, un modèle de page d’entrée nommé Modèle standard 1 sera créé s’il existe un modèle standard.
+
+**Images :**  les images utilisées par les landing pages sont importées dans l’atelier de conception, sauf si elles portent le même nom.
+
+**Jetons :** les jetons situés en dehors d’un programme seront convertis en jetons locaux au cours du processus d’importation.
 
 >[!CAUTION]
 >
->Lors de l’importation d’un programme, les landings page/courriers électroniques contenant [contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) sont ignorés.
+>Le type d’image que mes jetons ne sont pas pris en charge pour les importations de programme. Si un programme avec un type d’image mes jetons est importé, les jetons **no** passeront.
+
+**Balises de programme :** vous pouvez utiliser des règles de conflit pour contrôler la manière dont seront traitées les balises de programme qui n’existent pas dans le compte de destination. L’utilisation de la règle par défaut crée les balises de programme ou vous pouvez choisir d’ignorer les balises.
+
+**Forms :** les formulaires externes seront automatiquement importés dans l’atelier de conception, sauf s’il en existe un portant le même nom.
+
+>[!CAUTION]
+>
+>Lors de l&#39;import d&#39;un programme, les landing pages/emails contenant [contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) seront ignorés.
