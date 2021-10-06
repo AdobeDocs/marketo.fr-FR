@@ -2,9 +2,9 @@
 description: Présentation - Documents Marketo - Documentation du produit
 title: APERÇU
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '491'
 ht-degree: 7%
 
 ---
@@ -38,7 +38,7 @@ Cette expérience de nouvelle génération comporte de nombreuses nouvelles fonc
 
 **Icônes**
 
-La nouvelle interface présente une iconographie améliorée et développée. En savoir plus ici : [Nouveau glossaire des icônes](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
+La nouvelle interface présente une iconographie améliorée et développée. En savoir plus ici : [Icône Glossaire](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
 
 ![](assets/overview-new-icons.png)
 
