@@ -3,7 +3,7 @@ description: Ajout ou suppression d’utilisateurs de messagerie instantanée - 
 title: Ajout ou suppression d’utilisateurs de conversation
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs de chat
 
    >[!NOTE]
    >
-   >Si vous disposez de plusieurs abonnements Marketo, sélectionnez celui de votre choix avant l’étape suivante).
+   >Si vous disposez de plusieurs abonnements Marketo, sélectionnez-les avant l’étape suivante.
 
 1. Cliquez sur l’onglet **Utilisateurs** .
 
