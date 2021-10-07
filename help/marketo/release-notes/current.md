@@ -2,7 +2,7 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
 source-wordcount: '962'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées
 
 **Nouveaux tableaux de bord** d’activités web anonymes, e-mail, activité web : Nous avons ajouté les nouveaux tableaux de bord des ventes pour informer les vendeurs de leurs prospects et des activités email et web les plus récentes de leurs contacts. Grâce à la nouvelle fonctionnalité de filtrage, les tableaux de bord fournissent désormais des informations sur les ouvertures d’email, les clics et les visites de pages web pour obtenir la liste complète des comptes ou un compte spécifique. Marketo Engage effectue le suivi de toutes les activités web et fournit aux ventes des informations essentielles, transformant ainsi le trafic anonyme en prospects. Les vendeurs peuvent personnaliser l’engagement et convertir plus rapidement les prospects en ventes, car ils sont mieux informés sur les comportements de prospects et agissent en fonction de la pertinence de tous les points de contact.
 
-**Sales Insight for Salesforce CRM**
+**Sales Insight for Salesforce**
 
 **Meilleurs paris au niveau du compte et de l’opportunité** : Sales Insight permet désormais aux représentants commerciaux de consulter les Meilleurs billets pour tous les contacts du compte ou de l’opportunité qu’ils détiennent, même lorsque le contact est assigné à un autre membre de l’équipe. Les propriétaires de compte et d’opportunité bénéficient ainsi d’une visibilité totale sur les activités des contacts pertinents, et peuvent ainsi agir sur la base d’une vision plus globale du compte ou de l’opportunité.
 
@@ -71,4 +71,4 @@ Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées
 
 ## Annonces {#announcements}
 
-**Associer l’obsolescence du prospect/Munchkin Beta 161 - Mise à jour** : Le 7 septembre 2021, la version 161 de Munchkin a commencé à déployer 10 % des abonnements avec Munchkin Beta activé, suivie de 50 % le 16 septembre, et de 100 % le 30 septembre. Cette modification affecte les landing pages Marketo Engage et la version du fichier munchkin-beta.js diffusé sur des landing pages externes qui sont chargées à partir des abonnements vers lesquels la version récente a été déployée. Cette version rend complètement obsolète la méthode de piste associée Munchkin, qui est une fonctionnalité qui permet d’envoyer les données d’une personne à un abonnement de Marketo Engage et l’historique de navigation Web associé à un enregistrement de personne connu. L’option Associer le prospect est supprimée au profit d’alternatives plus modernes et plus sécurisées, telles que l’API JS Forms, l’API d’envoi de formulaire et l’API REST d’association de prospect. [En savoir plus sur cette obsolescence](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+**Associer l’obsolescence du prospect/Munchkin Beta 161 - Mise à jour** : Le 7 septembre 2021, la version 161 de Munchkin a commencé à déployer 10 % des abonnements avec Munchkin Beta activé, suivie de 50 % le 16 septembre, et de 100 % le 30 septembre. Cette modification affecte les landing pages Marketo Engage et la version du fichier munchkin-beta.js diffusé sur des landing pages externes qui sont chargées à partir des abonnements vers lesquels la version récente a été déployée. Cette version rend complètement obsolète la méthode de piste associée Munchkin, qui est une fonctionnalité qui permet d’envoyer les données d’une personne à un abonnement de Marketo Engage et l’historique de navigation Web associé à un enregistrement de personne connu. L’option Associer le prospect est supprimée au profit d’alternatives plus modernes et plus sécurisées, telles que l’API JS Forms, l’API d’envoi de formulaire et l’API REST d’association de prospect. [Pour en savoir plus sur cette obsolescence, cliquez ici](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
