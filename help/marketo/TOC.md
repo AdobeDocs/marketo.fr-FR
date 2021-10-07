@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: aabb8de6ed67334e853221be623f649d0698edc0
 workflow-type: tm+mt
-source-wordcount: '8004'
+source-wordcount: '7956'
 ht-degree: 5%
 
 ---
@@ -1224,11 +1224,6 @@ ht-degree: 5%
             + [Création et suppression de contacts](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [Types de groupe](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Comment Sales Connect gère la déduplication des emails](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
-            + [Création d’un groupe de contacts](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
-            + [Mise en forme des désabonnements automatiques](product-docs/marketo-sales-connect/people/managing-contacts/how-to-format-auto-unsubscribes.md)
-            + [Comment importer des contacts de Salesforce](product-docs/marketo-sales-connect/people/managing-contacts/how-to-import-contacts-from-salesforce.md)
-            + [Comment fusionner deux groupes](product-docs/marketo-sales-connect/people/managing-contacts/how-to-merge-two-groups-together.md)
-            + [Comment partager un groupe](product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
             + [Importer des contacts via CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [Gestion des groupes](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [Colonnes de page Personnes](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
@@ -1246,21 +1241,15 @@ ht-degree: 5%
       + Tâches {#tasks}
          + [Synchronisation des tâches Sales Connect avec Salesforce pour la première fois](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Modèles {#templates}
-         + [Ajout d’une pièce jointe](product-docs/marketo-sales-connect/templates/add-an-attachment.md)
-         + [Ajout d’une image](product-docs/marketo-sales-connect/templates/add-an-image.md)
          + [Ajouter le désabonnement automatique à un modèle](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [Ajouter du texte lié à un hyperlien](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [Ajout de contenu vidéo](product-docs/marketo-sales-connect/templates/add-video-content.md)
          + [Archiver les modèles](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [Créer un message électronique de relance](product-docs/marketo-sales-connect/templates/create-a-follow-up-email.md)
-         + [Création d’un modèle de suivi](product-docs/marketo-sales-connect/templates/create-a-follow-up-template.md)
          + [Création d’une catégorie](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
          + [Création d’un modèle](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
          + [Personnalisation de l’affichage des modèles](product-docs/marketo-sales-connect/templates/customize-template-view.md)
          + [Suppression d’une catégorie de modèle](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
          + [Suppression d’un modèle](product-docs/marketo-sales-connect/templates/delete-a-template.md)
          + [Modification d’une catégorie de modèle](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [Activer le partage des catégories](product-docs/marketo-sales-connect/templates/enable-category-sharing.md)
          + [Favori d’un modèle](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
          + [Fusionner et dédupliquer les catégories](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [Modèles recommandés](product-docs/marketo-sales-connect/templates/recommended-templates.md)
