@@ -2,24 +2,24 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
+source-git-commit: 407df519413a39b723dc6f90f028f23527b4f0e9
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '971'
 ht-degree: 0%
 
 ---
 
 # Notes de mise à jour : Octobre 2021 {#release-notes-oct-21}
 
-Les fonctionnalités suivantes sont incluses dans la version du 21 octobre. Pour connaître la disponibilité des fonctionnalités, consultez l’édition de votre Marketo Engage .
+Les fonctionnalités suivantes sont incluses dans la version du 21 octobre. Pour connaître la disponibilité des fonctionnalités, consultez l’édition du Marketo Engage Adobe.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage Adobe.
+>Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage.
 
 **_Versions trimestrielles_**
 
-Les fonctionnalités suivantes seront publiées le **22 octobre 2021**.
+Les fonctionnalités suivantes commenceront à être publiées le **22 octobre 2021**, avec un déploiement échelonné de chaque fonctionnalité au cours de la semaine suivante (sauf indication contraire).
 
 ## L&#39;innovation stimulée par l&#39;IA {#ai-driven-innovation}
 
@@ -29,7 +29,9 @@ Les fonctionnalités suivantes seront publiées le **22 octobre 2021**.
 
 **Choisissez Votre Propre Expérience** : Basculez facilement vers votre expérience préférée avec le nouveau bouton bascule lorsque vous travaillez sur les détails du formulaire de Marketo Engage ou sur l’affichage de la liste des pages d’entrée sans perdre le contexte, les modifications de ressources ou les préférences. En outre, la nouvelle vue Liste des pages d’entrée améliore votre expérience avec de nouveaux filtres et permet d’effectuer des actions de masse.
 
-**Recherche Efficace** : Les améliorations de l’accessibilité à la recherche globale incluent la navigation au clavier et les descriptions d’étiquettes mises à jour, une nouvelle fonction de défilement pour les résultats et des filtres appliqués plus visibles. Les modaux de déplacement ont été améliorés pour prendre en charge les raccourcis clavier. Surveillez l’état des tâches s’exécutant en arrière-plan de la nouvelle expérience via le nouveau bac de notification de tâche dans la barre de navigation globale. La barre d’état capture les notifications des tâches lancées à partir de la nouvelle vue d’expérience des détails du formulaire et des listes de landing pages, y compris la modification de l’état sur les landing pages et les actions de masse générales à l’aide de la nouvelle expérience.
+**Recherche Efficace** : Les améliorations de l’accessibilité à la recherche globale incluent la navigation au clavier et les descriptions d’étiquettes mises à jour, une nouvelle fonction de défilement pour les résultats et des filtres appliqués plus visibles.
+
+**Surveillance des tâches** : Surveillez l’état des tâches s’exécutant en arrière-plan de la nouvelle expérience via le nouveau bac de notification de tâche dans la barre de navigation globale. La barre d’état capture les notifications des tâches lancées à partir de la nouvelle vue d’expérience des détails du formulaire et de la liste des landing pages, y compris la modification de l’état des landing pages et les actions de masse générales à l’aide de la nouvelle expérience.
 
 ## Automatisation de l’expérience {#experience-automation}
 
