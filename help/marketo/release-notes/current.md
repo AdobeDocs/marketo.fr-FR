@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 407df519413a39b723dc6f90f028f23527b4f0e9
+source-git-commit: 6ba2020db432f0b520a63630fcd93c34c7c7611a
 workflow-type: tm+mt
-source-wordcount: '971'
+source-wordcount: '1017'
 ht-degree: 0%
 
 ---
@@ -74,3 +74,5 @@ Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées
 ## Annonces {#announcements}
 
 **Associer l’obsolescence du prospect/Munchkin Beta 161 - Mise à jour** : Le 7 septembre 2021, la version 161 de Munchkin a commencé à déployer 10 % des abonnements avec Munchkin Beta activé, suivie de 50 % le 16 septembre, et de 100 % le 30 septembre. Cette modification affecte les landing pages Marketo Engage et la version du fichier munchkin-beta.js diffusé sur des landing pages externes qui sont chargées à partir des abonnements vers lesquels la version récente a été déployée. Cette version rend complètement obsolète la méthode de piste associée Munchkin, qui est une fonctionnalité qui permet d’envoyer les données d’une personne à un abonnement de Marketo Engage et l’historique de navigation Web associé à un enregistrement de personne connu. L’option Associer le prospect est supprimée au profit d’alternatives plus modernes et plus sécurisées, telles que l’API JS Forms, l’API d’envoi de formulaire et l’API REST d’association de prospect. [Pour en savoir plus sur cette obsolescence, cliquez ici](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+
+Vous souhaitez en savoir plus sur ces fonctionnalités et améliorations ? Veillez à [vous inscrire dès maintenant](https://engage.marketo.com/October_Release_Webinar_RegistrationPage.html) pour vous joindre à nous le 28 octobre 2021, à 9 h PT / 12 h ET pour un webinaire en direct avec notre équipe produit afin d’approfondir l’analyse de ces innovations.
