@@ -1,10 +1,11 @@
 ---
 description: Glossaire des activités de vente - Documents Marketo - Documentation du produit
 title: Glossaire des activités de vente
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
+source-git-commit: 9677c26004a567bb53fef452304665eb73855568
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 14%
+source-wordcount: '480'
+ht-degree: 12%
 
 ---
 
@@ -26,7 +27,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   <th>Attribut</th>
  </tr>
  <tr>
-  <th rowspan="3">Envoyer un e-mail de vente</th>
+  <th rowspan="9">Envoyer un e-mail de vente</th>
   <td>Envoyé par</td>
  </tr>
  <tr>
@@ -36,7 +37,25 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   <td>ID du modèle</td>
  </tr>
  <tr>
-  <th rowspan="3">Ouvrir e-mail de vente</th>
+  <td>URL du modèle de ventes</td>
+ </tr>
+ <tr>
+  <td>URL de la campagne de ventes</td>
+ </tr>
+ <tr>
+  <td>Nom du modèle de ventes</td>
+ </tr>
+ <tr>
+  <td>Objet du message électronique</td>
+ </tr>
+ <tr>
+  <td>Nom de la campagne commerciale</td>
+ </tr>
+ <tr>
+  <td>Identifiant de personne commerciale Marketo</td>
+ </tr>
+ <tr>
+  <th rowspan="9">Ouvrir e-mail de vente</th>
   <td>Envoyé par</td>
  </tr>
  <tr>
@@ -46,7 +65,25 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   <td>ID du modèle</td>
  </tr>
  <tr>
-  <th rowspan="4">Courrier électronique de vente cliqué</th>
+  <td>URL du modèle de ventes</td>
+ </tr>
+ <tr>
+  <td>URL de la campagne de ventes</td>
+ </tr>
+ <tr>
+  <td>Nom du modèle de ventes</td>
+ </tr>
+ <tr>
+  <td>Objet du message électronique</td>
+ </tr>
+ <tr>
+  <td>Nom de la campagne commerciale</td>
+ </tr>
+ <tr>
+  <td>Identifiant de personne commerciale Marketo</td>
+ </tr>
+ <tr>
+  <th rowspan="10">Courrier électronique de vente cliqué</th>
   <td>Lien</td>
  </tr>
  <tr>
@@ -58,28 +95,36 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
  <tr>
   <td>ID du modèle</td>
  </tr>
+ <tr>
+  <td>URL du modèle de ventes</td>
+ </tr>
+ <tr>
+  <td>URL de la campagne de ventes</td>
+ </tr>
+ <tr>
+  <td>Nom du modèle de ventes</td>
+ </tr>
+ <tr>
+  <td>Objet du message électronique</td>
+ </tr>
+ <tr>
+  <td>Nom de la campagne commerciale</td>
+ </tr>
+ <tr>
+  <td>Identifiant de personne commerciale Marketo</td>
+ </tr>
 <tr>
-  <th rowspan="2">Courrier électronique de vente reçu</th>
+  <th rowspan="3">Courrier électronique de vente reçu</th>
   <td>Reçu par</td>
  </tr>
  <tr>
   <td>Source</td>
  </tr>
  <tr>
-  <th rowspan="4">E-mail de vente renvoyé</th>
-  <td>Détails</td>
+  <td>ID de personne (MSC)</td>
  </tr>
  <tr>
-  <td>ID du modèle</td>
- </tr>
- <tr>
-  <td>Adresse e-mail</td>
- </tr>
- <tr>
-  <td>Envoyé par</td>
- </tr>
- <tr>
-  <th rowspan="7">Appel de vente reçu</th>
+  <th rowspan="11">Appel de vente reçu</th>
   <td>Appel  Sales passé par</td>
  </tr>
  <tr>
@@ -99,6 +144,18 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
  </tr>
  <tr>
   <td>Source</td>
+ </tr>
+ <tr>
+  <td>Durée des appels de vente</td>
+ </tr>
+ <tr>
+  <td>URL de l’enregistrement de l’appel  Sales</td>
+ </tr>
+  <tr>
+  <td>Réponse à l’appel  Sales par</td>
+ </tr>
+ <tr>
+  <td>Identifiant de personne responsable des ventes Marketo (MSC)</td>
  </tr>
  <tr>
   <th rowspan="6">Ajouter à la campagne de ventes</th>
