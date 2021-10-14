@@ -2,9 +2,9 @@
 description: Glossaire des activités de vente - Documents Marketo - Documentation du produit
 title: Glossaire des activités de vente
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 9677c26004a567bb53fef452304665eb73855568
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '492'
 ht-degree: 12%
 
 ---
@@ -121,7 +121,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   <td>Source</td>
  </tr>
  <tr>
-  <td>ID de personne (MSC)</td>
+  <td>Identifiant de personne commerciale Marketo</td>
  </tr>
  <tr>
   <th rowspan="11">Appel de vente reçu</th>
@@ -155,7 +155,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   <td>Réponse à l’appel  Sales par</td>
  </tr>
  <tr>
-  <td>Identifiant de personne responsable des ventes Marketo (MSC)</td>
+  <td>Identifiant de personne commerciale Marketo</td>
  </tr>
  <tr>
   <th rowspan="6">Ajouter à la campagne de ventes</th>
@@ -216,6 +216,10 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   <tr> 
    <td><strong>Lien</strong></td> 
    <td>URL sur laquelle l’utilisateur a cliqué.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Identifiant de personne commerciale Marketo</strong></td> 
+   <td>Identifiant unique de l’enregistrement de personne dans Sales Connect.</td> 
   </tr> 
   <tr> 
    <td><strong>Reçu par</strong></td> 

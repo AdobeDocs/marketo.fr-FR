@@ -1,77 +1,80 @@
 ---
 unique-page-id: 10092925
-description: Prévisualisation et test d'un Campaign Web - Docs marketing - Documentation du produit
-title: Prévisualisation et test d'un Campaign Web
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Aperçu et test d’une campagne web - Documents Marketo - Documentation du produit
+title: Prévisualiser et tester une campagne web
+exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
+# Prévisualiser et tester une campagne web {#preview-and-test-a-web-campaign}
 
-# Prévisualisation et test d&#39;un Campaign Web {#preview-and-test-a-web-campaign}
+Cet article présente différentes manières de prévisualiser une campagne web, ainsi que comment la tester à l’aide d’un segment sandbox actif sur votre site web.
 
-Cet article vous montre différentes manières de prévisualisation d’une campagne Web, ainsi que comment la tester à l’aide d’un segment de sandbox en direct sur votre site Web.
+>[!NOTE]
+>
+>L’aperçu affiche uniquement l’aspect de la campagne sur le site choisi. Les liens et les widgets ne seront pas fonctionnels afin d’éviter les clics/vues erronés dans les analyses.
 
-## Prévisualisation d&#39;un Campaign Web sur la page de création {#preview-a-web-campaign-on-the-creation-page}
+## Prévisualiser une campagne web sur la page de création {#preview-a-web-campaign-on-the-creation-page}
 
 1. Accédez à **Campagnes Web**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Cliquez sur **Créer une Campaign Web** ou sur l&#39;icône pour modifier une campagne existante.
+1. Cliquez sur **Créer une campagne Web** ou sur l’icône pour modifier une campagne existante.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. Dans Prévisualisation sur le site, ajoutez l’URL de la page et cliquez sur **Prévisualisation**. Une nouvelle fenêtre/onglet s&#39;ouvre et affiche la prévisualisation de la campagne.
+1. Dans Aperçu sur site, ajoutez l’URL de la page et cliquez sur **Aperçu**. Une nouvelle fenêtre ou un nouvel onglet s’ouvre et affiche l’aperçu de l’opération.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Cliquez sur **Partager** pour ouvrir un courriel contenant une URL fixe de la prévisualisation de campagne.
+   >Cliquez sur **Partager** pour ouvrir un email avec une URL fixe de l&#39;aperçu de la campagne.
 
    >[!NOTE]
    >
-   >Vous avez également la possibilité d’installer un module externe de navigateur ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) pour une meilleure expérience de prévisualisation de votre campagne. Consultez la section ci-dessous.
+   >Vous avez également la possibilité d’installer un module externe de navigateur (soit [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) pour obtenir un aperçu de votre campagne optimal. Consultez la section ci-dessous.
 
-## Prévisualisation d’un Campaign Web sur la page de création à l’aide du module externe de navigateur {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
+## Aperçu d’une campagne web sur la page de création à l’aide du plug-in de navigateur {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. Suivez les étapes 1 et 2 de la section ci-dessus.
 
-1. Cliquez sur le lien vers le module externe du navigateur (dans ce cas, nous utilisons Chrome).
+1. Cliquez sur le lien vers le module externe de navigateur (dans ce cas, Chrome est utilisé).
 
    ![](assets/4-1.png)
 
-1. Une nouvelle fenêtre/onglet s’ouvre. Cliquez sur **Ajouter à Chrome**.
+1. Une nouvelle fenêtre ou un nouvel onglet s’ouvre. Cliquez sur **Ajouter à Chrome**.
 
    ![](assets/five.png)
 
-1. Cliquez sur **Ajouter l&#39;extension**.
+1. Cliquez sur **Ajouter l’extension**.
 
    ![](assets/six.png)
 
-1. Retournez à Marketo. Ajoutez l’URL de la page et cliquez sur **Prévisualisation**.
+1. Revenez à Marketo. Ajoutez l’URL de la page et cliquez sur **Aperçu**.
 
    ![](assets/seven.png)
 
-1. Une nouvelle fenêtre/onglet s’ouvre, vous permettant de prévisualisation l’aspect de votre campagne sur un ordinateur de bureau, un téléphone ou une tablette.
+1. Une nouvelle fenêtre ou un nouvel onglet s’ouvre. Il vous permet de prévisualiser l’apparence de votre campagne sur un ordinateur, un téléphone ou une tablette.
 
    ![](assets/campaign-preview.png)
 
-## Prévisualisation d&#39;un Campaign Web sur la page Campagnes Web {#preview-a-web-campaign-on-the-web-campaigns-page}
+## Prévisualiser une campagne web sur la page des campagnes web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Lorsque vous consultez la liste de vos campagnes Web, il vous suffit de choisir une campagne et de cliquer sur l&#39;icône **Prévisualisation**.
+1. Lorsque vous consultez la liste de vos campagnes web, sélectionnez simplement une campagne et cliquez sur l’icône **Aperçu**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
-   Facile !
+   Easy!
 
-## Prévisualisation d’un Campaign Web sur votre site Web {#preview-a-web-campaign-on-your-website}
+## Prévisualiser une campagne web sur votre site web {#preview-a-web-campaign-on-your-website}
 
-Créez un segment sandbox et une campagne.
+Créez un segment et une campagne d’environnement de test.
 
 1. Accédez à **Segments**.
 
@@ -83,11 +86,11 @@ Créez un segment sandbox et une campagne.
 
 1. Nommez le segment.
 
-1. Sous Comportement, faites glisser Inclure des pages sur la trame. Ajoutez la valeur *sandbox=1*. Cliquez sur **Enregistrer et définir Campaign**.
+1. Sous Comportement, faites glisser Inclure des pages sur la zone de travail. Ajoutez la valeur *sandbox=1*. Cliquez sur **Enregistrer et définir la campagne**.
 
    ![](assets/segment.png)
 
-1. Sur la page Définir le Campaign Web, modifiez le segment de Cible en segment de sandbox en le sélectionnant dans la liste.
+1. Sur la page Définir une campagne web , remplacez le segment cible par le segment sandbox en le sélectionnant dans la liste.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
@@ -95,9 +98,9 @@ Créez un segment sandbox et une campagne.
 
    ![](assets/click-launch.jpg)
 
-1. Accédez à votre site Web, ajoutez le paramètre d’URL &quot;?sandbox=1&quot; à la fin de l’URL. Exemple : `www.marketo.com?sandbox=1`.
+1. Accédez à votre site web, ajoutez le paramètre d’URL &quot;?sandbox=1&quot; à la fin de l’URL. Exemple: `www.marketo.com?sandbox=1`.
 
-1. Consultez les réactions à la campagne sur votre site Web.
+1. Découvrez les réactions à la campagne sur votre site web.
 
 >[!NOTE]
 >
@@ -105,4 +108,4 @@ Créez un segment sandbox et une campagne.
 
 >[!NOTE]
 >
->Impossible de prévisualiser les campagnes de redirection. Le seul moyen de les tester est d’utiliser un segment de sandbox (qui cible par pages spécifiques - *sandbox=redirect*).
+>Les campagnes de redirection ne peuvent pas être prévisualisées. Le seul moyen de les tester consiste à utiliser un segment sandbox (qui cible les pages spécifiques - *sandbox=redirect*).
