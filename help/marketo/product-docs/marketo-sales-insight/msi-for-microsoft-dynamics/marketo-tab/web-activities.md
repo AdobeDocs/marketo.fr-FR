@@ -3,9 +3,9 @@ description: Activités web - Documents Marketo - Documentation du produit
 title: Activités Web
 hide: true
 hidefromtoc: true
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+source-git-commit: 5bfe82a966b2d89e214b3ff0107c84f9ae712d1d
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,6 @@ Passez en revue les dernières activités web de votre piste en citant le nombre
 
 PICC
 
-# Activités Web anonymes {#anonymous-web-activities}
+## Activités Web anonymes {#anonymous-web-activities}
 
 L’onglet Activités Web anonymes affiche toutes les **activités Web des visiteurs de la page Web anonyme**. Examinez les dernières activités web en citant le nombre de visites de la page.
