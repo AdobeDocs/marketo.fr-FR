@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '1119'
 ht-degree: 0%
 
 ---
@@ -62,8 +62,6 @@ Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées
 ## SalesConnect {#sales-connect}
 
 ![(étoile)](assets/yellow-star.png)
-
-**Limitation de la connexion par e-mail (GA)** : Améliorez la délivrabilité des emails et améliorez la communication des ventes personnalisée grâce au ralentissement de la connexion aux emails pour Sales Connect. Cette technologie innovante gère automatiquement le délai d’envoi des emails afin de créer une expérience transparente pour les utilisateurs d’Exchange et de Gmail. Réduisez ou supprimez l’utilisation des applications tierces d’envoi de courriers électroniques en masse et envoyez tous vos courriers électroniques à Sales Connect en toute confiance.
 
 **Statistiques sur les activités de vente améliorées** : Une nouvelle activité de suivi des réponses par email, Sales Email Répondu, effectue le suivi des interactions des destinataires avec un email qui est automatiquement synchronisé avec Marketo Engage. En outre, l’attribut Source a été mis à jour de &quot;Tout&quot; à &quot;Applications commerciales&quot;. Cette activité peut être exportée et consignée par le biais de l’API REST du Marketo Engage ou de l’exportation en bloc. Elle est disponible sur les filtres et les déclencheurs en tant que contraintes supplémentaires pour les listes dynamiques, ce qui permet d’étendre les options de personnalisation dans les campagnes dynamiques.
 
