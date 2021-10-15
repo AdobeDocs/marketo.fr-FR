@@ -3,7 +3,7 @@ description: Connexion de Dynamic Chat à Marketo - Documents Marketo - Document
 title: Connexion de la messagerie dynamique à Marketo
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -32,8 +32,10 @@ Une fois la [configuration initiale](/help/marketo/product-docs/demand-generatio
 
    PICC (capture d’écran lorsque je reçois une nouvelle sous-section)
 
-   >[!NOTE]
-   >
-   >La synchronisation peut prendre entre 5 minutes et 8 heures, selon la taille de votre base de données. Le temps de synchronisation moyen est de 60 minutes. VÉRIFICATION DE LA PÉRIODE
+>[!NOTE]
+>
+>La synchronisation peut prendre entre 5 minutes et 8 heures, selon la taille de votre base de données. Le temps de synchronisation moyen est de 60 minutes. VÉRIFICATION DE LA PÉRIODE
 
-ARTICLES CONNEXES
+>[!MORELIKETHIS]
+>
+>[Configuration initiale](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)

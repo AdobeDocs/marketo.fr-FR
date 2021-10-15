@@ -3,9 +3,9 @@ description: Configuration - Documents Marketo - Documentation du produit
 title: Configuration
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ L’ancre permet aux visiteurs de votre site d’ouvrir/de fermer le cadre de di
 
 **Paramètres de l’agent**
 
-Dans Paramètres de l’agent, vous pouvez ajouter un libellé à votre zone de discussion (par exemple : &quot;Adobe Robot&quot;) qui s’affiche en haut. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation.
+Dans Paramètres de l’agent, vous pouvez ajouter un libellé à votre zone de discussion (par exemple : &quot;Adobe Bot&quot;) qui s’affiche en haut de l’écran. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation.
 
 ![](assets/configuration-5.png)
 
@@ -60,4 +60,4 @@ Pour que le chatterbot s’affiche sur votre site web, vous devez d’abord inst
 
 >[!NOTE]
 >
->La prise en charge de Marketo n’est pas configurée pour faciliter le dépannage du code HTML. Pour obtenir de l’aide sur HTML, consultez un développeur web.
+>La prise en charge de Marketo n’est pas configurée pour faciliter le HTML de dépannage. Pour obtenir de l’aide sur les HTMLS, consultez un développeur web.

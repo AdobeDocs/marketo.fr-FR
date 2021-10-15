@@ -3,18 +3,18 @@ description: Création d’un flux - Documents Marketo - Documentation du produi
 title: Création d’un flux
 hide: true
 hidefromtoc: true
-source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # Création d’un flux {#create-a-stream}
 
-Il existe _de nombreuses_ combinaisons de flux à créer. Vous trouverez ci-dessous un exemple où le spécialiste du marketing pose des questions au visiteur du site. Si oui, le visiteur peut planifier un rendez-vous. Si ce n’est pas le cas, le visiteur a la possibilité de s’inscrire à une liste de distribution pour une correspondance ultérieure. L’objectif est de planifier un rendez-vous ou de collecter l’adresse électronique du visiteur.
+Il existe _de nombreuses_ combinaisons de flux que vous pouvez créer. Vous trouverez ci-dessous un exemple où le spécialiste du marketing demande au visiteur du site s’il a des questions sur les produits. Si oui, le visiteur peut planifier un rendez-vous. Si ce n’est pas le cas, le visiteur a la possibilité de s’inscrire à une liste de distribution pour une correspondance ultérieure. L’objectif est de planifier un rendez-vous ou de collecter l’adresse électronique du visiteur.
 
-1. Après avoir [créé votre boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), cliquez sur l’onglet Concepteur de flux.
+1. Après avoir [créé votre boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), cliquez sur l’onglet **Concepteur de flux**.
 
    ![](assets/create-a-stream-1.png)
 
@@ -84,8 +84,8 @@ Il existe _de nombreuses_ combinaisons de flux à créer. Vous trouverez ci-dess
      <td>Le message que le visiteur voit l’invite à fournir les informations.</td>
     </tr>
     <tr>
-     <td><strong>Exemple de texte aidant le visiteur à voir ce qu’il doit entrer.</strong></td>
-     <td>Texte</td>
+     <td><strong>Paramètre fictif</strong></td>
+     <td>Exemple de texte aidant le visiteur à voir ce qu’il doit entrer.</td>
     </tr>
     <tr>
      <td><strong>Associer la réponse à l’attribut</strong></td>
@@ -116,3 +116,7 @@ Il existe _de nombreuses_ combinaisons de flux à créer. Vous trouverez ci-dess
 >[!NOTE]
 >
 >Avant de cliquer sur Publier, n’oubliez pas de vérifier que vous avez [saisi votre ou vos URL cibles](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+
+>[!MORELIKETHIS]
+>
+>[Dialogues](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)

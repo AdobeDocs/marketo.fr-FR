@@ -3,16 +3,16 @@ description: Présentation de Dynamic Chat - Documents Marketo - Documentation d
 title: Présentation de la conversation dynamique
 hide: true
 hidefromtoc: true
-source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
 # Présentation de la conversation dynamique {#dynamic-chat-overview}
 
-Dynamic Chat vous permet d’utiliser une interface conviviale pour cibler les deux pistes (PERSONNES ?) et les comptes sur leurs (VISITER VOTRE ?) site web. Collectez le contenu approprié, comme son nom, les coordonnées et le texte libre. Les visiteurs du site peuvent également réserver des réunions avec votre équipe de vente. Les données d’activité et d’engagement des conversations dynamiques peuvent être utilisées pour ajouter des membres aux programmes Marketo et déclencher des activités cross-canal.
+Dynamic Chat vous permet d’utiliser une interface conviviale pour cibler à la fois les personnes et les comptes qui visitent votre site web. Collectez le contenu approprié, tel que le nom, les coordonnées et le texte libre. Les visiteurs du site peuvent également réserver des réunions avec votre équipe de vente. Les données d’activité et d’engagement des conversations dynamiques peuvent être utilisées pour ajouter des membres aux programmes Marketo et déclencher des activités cross-canal.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Un composant clé de Dynamic Chat est sa capacité à interagir en mode natif av
 
 Les éléments suivants sont synchronisés :
 
-* Données de champ de piste
+* Données de champ de personne
 * Données de champ de l’entreprise
 * Données d’activité
 
@@ -40,15 +40,15 @@ Dans l&#39;onglet Configuration , personnalisez l&#39;aspect de vos différents 
 
 Dans l’onglet Calendrier , connectez votre calendrier (Outlook ou Gmail) pour l’utiliser dans la planification des rendez-vous dans le chatterbot. Une fois que le calendrier d’un utilisateur est connecté à Dynamic Chat, cet utilisateur est ajouté à la file d’attente et son calendrier est disponible pour que les visiteurs du site web puissent planifier des rendez-vous.
 
-Vous pouvez également personnaliser le corps du courrier électronique d’invitation ? qui est envoyé au visiteur lorsqu’il planifie un rendez-vous sur le calendrier de l’utilisateur.
+Vous pouvez également personnaliser le corps de l’invitation envoyée au visiteur lorsqu’il planifie un rendez-vous dans le calendrier de l’utilisateur.
 
 ## Réunions {#meetings}
 
-C&#39;est là que vous verrez toutes les nominations programmées par les visiteurs de votre site web à travers vos Dialogues. Vous trouverez ici l’adresse électronique du prospect qui a réservé la nomination, avec lequel il a réservé la nomination, le moment où la nomination est programmée et si la réunion s’est déroulée ou non.
+C&#39;est là que vous verrez toutes les nominations programmées par les visiteurs de votre site web à travers vos Dialogues. Vous y trouverez l’adresse électronique de la personne ayant réservé la nomination, avec laquelle elle a réservé la nomination, le moment où la nomination est programmée et si la réunion s’est déroulée ou non.
 
 ## Routage {#routing}
 
-C’est là que vous pouvez voir la liste de tous les agents qui ont connecté leurs calendriers ainsi que l’ordre dans lequel ils seront présentés aux visiteurs du site web. Les réunions tournent autour de leur style. Ainsi, si vous avez cinq agents et l’agent trois qui ont participé à la dernière réunion, l’agent quatre aura le suivant, suivi de cinq, puis le renvoyer à l’agent un.
+C’est là que vous pouvez voir la liste de tous les agents qui ont connecté leurs calendriers ainsi que l’ordre dans lequel ils seront présentés aux visiteurs du site web. Les réunions tournent autour du robot, donc si vous avez cinq agents et l&#39;agent trois qui ont pris la dernière réunion, l&#39;agent quatre aura le suivant, suivi de l&#39;agent cinq, puis revenir à l&#39;agent un.
 
 ## FAQ {#faq}
 
@@ -56,9 +56,9 @@ C’est là que vous pouvez voir la liste de tous les agents qui ont connecté l
 
 Non, il utilise uniquement des réponses prédéterminées.
 
-**Comment cibler les pistes anonymes ?**
+**Comment cibler les personnes anonymes ?**
 
-Dans votre boîte de dialogue, vous devez utiliser l’attribut _L’email de piste est vide_ .
+Dans votre boîte de dialogue, vous devez utiliser l’attribut _L’email de la personne est vide_ .
 
 **Prenez-vous en charge la fonctionnalité AI/NLP ?**
 

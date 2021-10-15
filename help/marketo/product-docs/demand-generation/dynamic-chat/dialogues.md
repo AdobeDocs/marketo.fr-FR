@@ -3,9 +3,9 @@ description: Dialogues - Documents Marketo - Documentation du produit
 title: Dialogues
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '742'
 ht-degree: 1%
 
 ---
@@ -34,13 +34,13 @@ Les dialogues sont des conversations individuelles. Découvrez comment les perso
 
 ## Critères d’audience {#audience-criteria}
 
-Tout comme les listes dynamiques Marketo, les attributs Critères d’audience vous permettent de définir votre audience cible. Vous pouvez cibler des pistes connues ou inconnues à l’aide d’attributs déduits, de pistes ou de sociétés (ou d’une combinaison de ces attributs).
+Tout comme les listes dynamiques Marketo, les attributs Critères d’audience vous permettent de définir votre audience cible. Vous pouvez cibler des personnes connues ou inconnues à l’aide d’attributs déduits, de personnes ou de société (ou d’une combinaison de ces attributs).
 
-**Leads connus**
+**Personnes connues**
 
-Il existe _de nombreuses combinaisons d’attributs_ parmi lesquelles choisir. Dans cet exemple, nous ciblons toutes les **pistes connues** en Californie qui travaillent dans une entreprise de plus de 50 employés.
+Il existe _de nombreuses combinaisons d’attributs_ parmi lesquelles choisir. Dans cet exemple, nous ciblons toutes les **personnes connues** en Californie qui travaillent dans une entreprise de plus de 50 employés.
 
-1. Saisissez l’attribut **Etat de piste** et faites-le glisser vers la droite.
+1. Saisissez l’attribut **État de la personne** et faites-le glisser vers la droite.
 
    ![](assets/dialogues-4.png)
 
@@ -64,11 +64,11 @@ Il existe _de nombreuses combinaisons d’attributs_ parmi lesquelles choisir. D
 
    ![](assets/dialogues-8.png)
 
-**Leads anonymes**
+**Personnes anonymes**
 
-Il existe un moyen simple de cibler spécifiquement les pistes qui ne se trouvent pas encore dans votre base de données. Dans cet exemple, nous ciblons toutes les **pistes anonymes** situées dans la région de New York.
+Il existe un moyen simple de cibler spécifiquement les personnes qui ne se trouvent pas encore dans votre base de données. Dans cet exemple, nous ciblons toutes les **personnes anonymes** situées dans la région de New York.
 
-1. Saisissez l’attribut **Email de piste** et faites-le glisser vers la droite.
+1. Saisissez l’attribut **Adresse électronique de la personne** et faites-le glisser vers la droite.
 
    ![](assets/dialogues-9.png)
 
@@ -131,17 +131,17 @@ Le concepteur de flux contient différentes cartes que vous pouvez ajouter pour 
  </tr>
  <tr>
   <td><strong>Planificateur de rendez-vous</strong></td>
-  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier un suivi. La disponibilité du calendrier reflète [l’agent suivant en ligne](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier un suivi. La disponibilité du calendrier reflète <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">l’agent suivant dans la ligne</a>.</td>
  </tr>
  <tr>
   <td><strong>Objectif</strong></td>
-  <td>Il s’agit de la seule carte que les visiteurs ne verront pas. Il vous appartient de déterminer à quel moment un objectif est atteint dans le chat spécifique (par exemple : Si la collecte de l’e-mail du visiteur est votre objectif, placez la carte Objectif après Capture d’informations dans le flux).</td>
+  <td>Il s’agit de la seule carte que les visiteurs ne verront pas. Il vous appartient de déterminer à quel moment un objectif est atteint dans le chat spécifique (par exemple : Si la collecte de l’e-mail du visiteur est votre objectif, placez la carte Objectif immédiatement après la capture d’informations dans le flux).</td>
  </tr>
 </table>
 
 **Création d’un flux**
 
-Il existe _de nombreuses_ combinaisons de flux à créer. Examinons un exemple [de cet article](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
+Il existe _de nombreuses_ combinaisons de flux possibles. Examinons un exemple [de cet article](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Rapports {#reports}
 
@@ -162,7 +162,7 @@ Dans l&#39;onglet Rapports , affichez les données des 90 derniers jours. Chaque
   <td>Incrémente chaque fois qu’un visiteur atteint la fin d’une branche dans un dialogue.</td>
  </tr>
  <tr>
-  <td><strong>Pistes capturées</strong></td>
+  <td><strong>Personnes capturées</strong></td>
   <td>Incrémente chaque fois qu’un visiteur fournit une adresse électronique valide dans un flux de dialogue.</td>
  </tr>
  <tr>
@@ -174,3 +174,7 @@ Dans l&#39;onglet Rapports , affichez les données des 90 derniers jours. Chaque
   <td>Incrémente chaque fois qu’un visiteur atteint un objectif dans un flux de dialogue.</td>
  </tr>
 </table>
+
+>[!MORELIKETHIS]
+>
+>[Création d’un flux](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)
