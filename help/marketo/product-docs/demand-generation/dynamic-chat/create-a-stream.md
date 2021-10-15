@@ -3,9 +3,9 @@ description: Création d’un flux - Documents Marketo - Documentation du produi
 title: Création d’un flux
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Il existe _de nombreuses_ combinaisons de flux à créer. Vous trouverez ci-dess
 
 1. Après avoir [créé votre boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), cliquez sur l’onglet Concepteur de flux.
 
-   PICC
+   ![](assets/create-a-stream-1.png)
 
 1. Faites glisser et déposez la carte Question .
 
-   PICC
+   ![](assets/create-a-stream-2.png)
 
 1. Sous Réponse Chatbot, entrez votre question comme vous le souhaitez.
 
-   PICC
+   ![](assets/create-a-stream-3.png)
 
    >[!NOTE]
    >
@@ -32,20 +32,87 @@ Il existe _de nombreuses_ combinaisons de flux à créer. Vous trouverez ci-dess
 
 1. Saisissez vos réponses utilisateur et cliquez sur **Enregistrer**.
 
-   PICC
+   ![](assets/create-a-stream-4.png)
 
-1. Pour &quot;Oui&quot;, nous voulons planifier un rendez-vous. Après cette option, faites glisser le curseur sur la carte Planificateur de rendez-vous .
+1. Pour &quot;Oui&quot;, nous voulons planifier un rendez-vous. Par conséquent, en dessous de cette option, faites glisser sur la carte Planificateur de rendez-vous .
 
-   PICC
+   ![](assets/create-a-stream-5.png)
 
 1. Dans la colonne de droite, cliquez sur **Enregistrer**.
 
-   PICC
+   ![](assets/create-a-stream-6.png)
 
 1. Comme il s’agit d’un objectif, faites glisser la carte Objectif sous le Planificateur de rendez-vous.
 
-   PICC
+   ![](assets/create-a-stream-7.png)
 
 1. Nommez votre objectif (ou choisissez un objectif existant) et cliquez sur **Enregistrer**.
 
-   PICC
+   ![](assets/create-a-stream-8.png)
+
+1. Pour &quot;Non&quot;, nous voulons voir s’ils vont rejoindre la liste de distribution. Par conséquent, sous cette option, faites glisser sur une autre carte Question .
+
+   ![](assets/create-a-stream-9.png)
+
+1. Saisissez votre réponse et ajoutez des choix de réponse pour le visiteur. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+
+   ![](assets/create-a-stream-10.png)
+
+   >[!NOTE]
+   >
+   >Vous pouvez ajouter d’autres réponses en cliquant sur **Ajouter une réponse**.
+
+1. Sous la réponse &quot;Oui&quot;, faites glisser la souris sur la carte Capture d’informations afin de collecter l’email du visiteur.
+
+   ![](assets/create-a-stream-11.png)
+
+1. Cliquez sur la liste déroulante **Type** et sélectionnez **Email**.
+
+   ![](assets/create-a-stream-12.png)
+
+1. Saisissez un message de chatterbot et un espace réservé. Assurez-vous que l’attribut est mappé sur le champ approprié dans Marketo et cliquez sur **Enregistrer**.
+
+   ![](assets/create-a-stream-13.png)
+
+   <table>
+    <tr>
+     <td><strong>Type</strong></td>
+     <td>Le type d’informations que vous souhaitez capturer : Téléphone, Texte, Email.</td>
+    </tr>
+    <tr>
+     <td><strong>Message de chatbot</strong></td>
+     <td>Le message que le visiteur voit l’invite à fournir les informations.</td>
+    </tr>
+    <tr>
+     <td><strong>Exemple de texte aidant le visiteur à voir ce qu’il doit entrer.</strong></td>
+     <td>Texte</td>
+    </tr>
+    <tr>
+     <td><strong>Associer la réponse à l’attribut</strong></td>
+     <td>Permet de synchroniser la réponse du visiteur avec le champ correspondant dans son enregistrement Personne de votre abonnement Marketo.</td>
+    </tr>
+   </table>
+
+1. Puisque la collecte de leur email est un objectif, faites glisser la carte Objectif sous Capture d’informations.
+
+   ![](assets/create-a-stream-14.png)
+
+1. Nommez votre objectif (ou choisissez un objectif existant) et cliquez sur **Enregistrer**.
+
+   ![](assets/create-a-stream-15.png)
+
+1. N’oubliez pas d’ajouter une réponse s’ils disent &quot;Non&quot;. Faites glisser une carte Message sous cette option.
+
+   ![](assets/create-a-stream-16.png)
+
+1. Saisissez votre message et cliquez sur **Enregistrer**.
+
+   ![](assets/create-a-stream-17.png)
+
+1. Lorsque vous souhaitez activer votre dialogue, cliquez sur **Publier**.
+
+   ![](assets/create-a-stream-18.png)
+
+>[!NOTE]
+>
+>Avant de cliquer sur Publier, n’oubliez pas de vérifier que vous avez [saisi votre ou vos URL cibles](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
