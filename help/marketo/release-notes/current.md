@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1178'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,10 @@ Les fonctionnalités suivantes commenceront à être publiées le **22 octobre 2
 **_Sortie pendant tout le trimestre_**
 
 Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées au cours des prochains mois.
+
+**Connecteur Adobe Experience Platform natif pour le partage d’audiences vers Marketo Engage** : Activez l’orchestration de campagnes multicanaux dans Marketo Engage pour les segments d’audience créés dans Adobe Experience Platform via un connecteur de destination natif. Le connecteur utilise des adresses électroniques ou un ECID pour faire correspondre les profils Adobe Experience Platform aux enregistrements de personne Marketo Engage, ce qui entraîne le partage de segments entre les applications. Les listes statiques de Marketo Engage sont automatiquement renseignées, ce qui permet aux marketeurs d’atteindre les audiences cibles avec des messages hautement personnalisés ou de lancer des workflows. Activez les audiences des personnes en exploitant leur contexte de compte et d’opportunité, ainsi qu’un profil unifié en temps réel plus complet dans Experience Platform.
+
+**Connecteur de source de données Adobe Experience Platform Marketo** : Les utilisateurs de Adobe Experience Platform et de Marketo Engage pourront utiliser le connecteur source Marketo pour importer des données de Marketo vers AEP. Vous pourrez diffuser des données (et leurs modifications) à partir de Marketo dans AEP afin de maintenir la cohérence des données entre les deux produits. Le connecteur Marketo est accessible à partir du catalogue des sources, répertorié sous &quot;Adobe Applications&quot;.
 
 ## Sales Insight {#sales-insight}
 

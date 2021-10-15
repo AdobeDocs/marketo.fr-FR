@@ -3,9 +3,9 @@ description: Dialogues - Documents Marketo - Documentation du produit
 title: Dialogues
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 1%
 
 ---
@@ -90,9 +90,11 @@ Il existe un moyen simple de cibler spécifiquement les pistes qui ne se trouven
 
 ## Ajout de groupes {#add-groups}
 
-Vous avez également la possibilité de regrouper des attributs, au cas où vous souhaitez tous avoir certains attributs avec &quot;n’importe lequel&quot; d’un autre.
+Vous avez également la possibilité de regrouper des attributs, au cas où vous souhaitez tous avoir certains attributs avec &quot;tous ou n’importe lequel&quot; d’un autre. Vous pouvez ajouter plusieurs groupes.
 
-FINISSEZ CECI
+![](assets/dialogues-13.png)
+
+![](assets/dialogues-14.png)
 
 ## Cible {#target}
 
@@ -107,7 +109,7 @@ Formats acceptables :
 
 >[!NOTE]
 >
->L’utilisation d’un astérisque agit comme un caractère générique fourre-tout. `https://*.website.com` placerait donc la boîte de dialogue sur chaque page du site, y compris les sous-domaines (par exemple : `support.website.com`). Et `https://website.com/folder/*` placerait la boîte de dialogue sur chaque page HTML dans le dossier suivant (par exemple : dans ce cas, disons que le dossier est &quot;sports&quot;, donc : website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>L’utilisation d’un astérisque agit comme un caractère générique fourre-tout. `https://*.website.com` placerait donc la boîte de dialogue sur chaque page du site, y compris les sous-domaines (par exemple : `support.website.com`). Et `https://website.com/folder/*` placerait la boîte de dialogue sur chaque page de HTML dans le dossier suivant (par exemple : dans ce cas, disons que le dossier est &quot;sports&quot;, donc : website.com/sports/baseball.html, website.com/sports/football.html, etc.).
 
 ## Concepteur de diffusion {#stream-designer}
 
@@ -139,9 +141,7 @@ Le concepteur de flux contient différentes cartes que vous pouvez ajouter pour 
 
 **Création d’un flux**
 
-Il existe _de nombreuses_ combinaisons de flux à créer. Dans cet exemple, nous allons poser une question oui ou non et préparer quelques réponses.
-
-EXEMPLE
+Il existe _de nombreuses_ combinaisons de flux à créer. Examinons un exemple [de cet article](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Rapports {#reports}
 
