@@ -1,45 +1,44 @@
 ---
 unique-page-id: 11383953
-description: Configurer les conversions hors ligne Facebook - Documents marketing - Documentation du produit
-title: Configurer les conversions hors connexion Facebook
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Configuration des conversions hors ligne Facebook - Documents Marketo - Documentation du produit
+title: Configuration des conversions hors ligne de Facebook
+exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Configuration des conversions hors ligne de Facebook {#set-up-facebook-offline-conversions}
 
-# Configurer les conversions hors connexion Facebook {#set-up-facebook-offline-conversions}
-
-En renvoyant les données de conversion hors ligne à Facebook pour les personnes créées par le biais des publicités de piste, votre équipe publicitaire peut optimiser ses dépenses publicitaires mieux que jamais. Voici comment le configurer.
+En renvoyant les données de conversion hors ligne à Facebook pour les personnes créées par le biais de pistes publicitaires, votre équipe publicitaire peut optimiser les dépenses publicitaires de manière plus optimale que jamais. Voici comment le mettre en place.
 
 >[!PREREQUISITES]
 >
->* Vous devez [configurer des publicités de piste Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* Vous devez disposer d&#39;un modèle approuvé dans [Revenus Cycle Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+>* Vous devez [Configuration des publicités Facebook Lead](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* Vous devez disposer d’un modèle approuvé dans [Modéliseur de cycle des recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 
 ## Configuration de l’administrateur {#admin-configuration}
 
-1. Accédez à Marketo **Admin**.
+1. Accéder à Marketo **Administration**.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. Accédez à **LaunchPoint** et doublon-cliquez sur le service Publicités de piste Facebook que vous avez créé précédemment.
+1. Accédez à **LaunchPoint** et double-cliquez sur le service Facebook Lead Ads que vous avez créé précédemment.
 
    >[!NOTE]
    >
-   >Si vous n&#39;avez pas fait cela, allez-y et [Configurez les publicités Facebook ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), puis revenez ici.
+   >Si vous ne l&#39;avez pas fait, allez-y et [Configuration de publicités Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), puis revenez ici.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Si vous le souhaitez, modifiez le **nom d’affichage** pour inclure les conversions hors ligne. Cliquez sur **Suivant**.
+1. Si vous le souhaitez, modifiez la variable **Nom d’affichage** pour inclure les conversions hors ligne. Cliquez sur **Suivant**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Cochez **Activer les conversions hors ligne** et cliquez sur **Suivant**.
+1. Vérifier **Activation des conversions hors ligne** et cliquez sur **Suivant**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
@@ -51,11 +50,11 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   Doux ! Vous avez terminé la moitié du processus d’activation des conversions hors ligne Facebook. Passez à la modélisation du cycle de production pour mapper les étapes.
+   Doux ! Vous avez terminé à mi-chemin d’activer les conversions hors ligne de Facebook. Passons à l’outil de modélisation du cycle de revenu pour mapper les scènes.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## Configuration du module de modélisation de cycle de production {#revenue-cycle-modeler-configuration}
+## Configuration du modèle de cycle de revenu {#revenue-cycle-modeler-configuration}
 
 1. Accédez à **Analytics**.
 
@@ -67,21 +66,21 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
 
    >[!NOTE]
    >
-   >Actuellement, 10 événements Facebook vous permettent de mettre en correspondance des étapes du cycle de recettes avec :
+   >Actuellement, il existe 10 événements Facebook que vous pouvez mettre en correspondance des étapes du cycle du chiffre d’affaires avec :
    >
-   >* Ajoutes des informations de paiement
-   >* Ajoutes au panier
-   >* Ajoutes à la Liste des souhaits
-   >* Inscriptions terminées
-   >* Passages en caisse commencés
-   >* Personne
+   >* Ajouts d’informations de paiement
+   >* Ajouts au panier
+   >* Ajoute à la liste des souhaits
+   >* Inscriptions réalisées
+   >* Paiements lancés
+   >* Individu
    >* Autre
    >* Achat
    >* Recherches
-   >* Vues de contenu
+   >* Affichage de contenu
 
 
-1. Sélectionnez l’étape à mapper, puis, dans la liste déroulante **Conversion Facebook**, sélectionnez le Événement Facebook vers lequel vous souhaitez mapper. Répétez cette étape pour mapper toutes les étapes de votre RCM aux étapes de conversion hors ligne sur Facebook.
+1. Sélectionnez l’étape à mapper, puis dans la **Conversion facebook** , sélectionnez l’événement Facebook auquel vous souhaitez le mapper. Répétez cette étape pour mapper toutes les étapes de votre CRM aux étapes de conversion hors ligne sur Facebook.
 
    ![](assets/1-1.png)
 
@@ -93,11 +92,11 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 
-   Désormais, lorsque les pistes publicitaires de piste atteignent les étapes que vous avez mises en correspondance, les conversions sont envoyées à Facebook pour rapports.
+   Désormais, lorsque les pistes publicitaires de piste atteignent les étapes que vous avez mappées, les conversions sont envoyées à Facebook pour la création de rapports.
 
    >[!CAUTION]
    >
-   >Vérifiez votre compte Facebook et assurez-vous que toutes les [publicités sont associées](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) au jeu de Événements Conversions hors ligne du marketing. Si ce n&#39;est pas le cas, l&#39;attribution des publicités peut ne pas fonctionner.
+   >Vérifiez votre compte Facebook et assurez-vous que tous les [les publicités sont associées](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) au jeu d’événements Conversions hors ligne de Marketo. Si ce n’est pas le cas, l’attribution des publicités peut ne pas fonctionner.
 
    >[!NOTE]
    >
@@ -105,4 +104,4 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
 
 >[!MORELIKETHIS]
 >
->[Présentation des conversions hors ligne Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+>[Présentation des conversions hors ligne de Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)

@@ -1,75 +1,74 @@
 ---
 unique-page-id: 10099363
-description: Configuration de l’iPad ou de la tablette Android - Marketo Docs - Documentation du produit
-title: Configuration de l’iPad ou de la tablette Android
+description: Configuration de la tablette iPad ou Android - Documents Marketo - Documentation du produit
+title: Configuration de la tablette iPad ou Android
 exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-# Configuration de l’iPad ou de la tablette Android {#set-up-the-ipad-or-android-tablet}
+# Configuration de la tablette iPad ou Android {#set-up-the-ipad-or-android-tablet}
 
-Pour une expérience fluide le événement de la journée, préparez votre tablette iPad ou Android et testez l’application Marketo Événements avant le événement.
+Pour une expérience fluide le jour de l’événement, préparez votre tablette iPad ou Android et testez l’application Marketo Events avant l’événement.
 
-Après avoir créé le événement dans Marketo, il est chargé dans l’application iPad ou Android de Événements Marketo lorsque vous vous connectez, si :
+Une fois que vous avez créé l’événement dans Marketo, il se charge dans l’application iPad ou Android Marketo Events lorsque vous vous connectez, si :
 
 * Le compte a accès à votre base de données
-* Le événement est planifié à une date de la période qui début une semaine avant et se termine une semaine après la date actuelle.
-* Le événement a été créé dans le canal approprié (par exemple, Roadshow).
+* L’événement est planifié à une date dans la période qui commence une semaine avant et se termine une semaine après la date actuelle.
+* L’événement a été créé dans le canal approprié (par exemple, Roadshow).
 
 >[!NOTE]
 >
 >Vous devez être connecté à Internet pour télécharger des applications.
 
-## Téléchargement et installation de l’application iPad Marketo Événements {#download-and-install-the-marketo-events-ipad-app}
+## Téléchargement et installation de l’application iPad Marketo Events {#download-and-install-the-marketo-events-ipad-app}
 
-Si l’application Marketo Événements n’est pas encore installée sur votre iPad, voici comment l’obtenir.
+Si l’application Marketo Events n’est pas encore installée sur votre iPad, voici comment l’obtenir.
 
-1. Ouvrez votre iPad et lancez l’App Store.
+1. Ouvrez votre iPad et lancez App Store.
 
    ![](assets/image2016-4-14-15-3a52-3a19.png)
 
-1. Dans la zone de recherche, saisissez **Marketo** et, dans Suggestions, appuyez sur **événements marketing**.
+1. Dans la zone de recherche, saisissez **Marketo** et dans Suggestions, appuyez sur **événements marketo**.
 
    ![](assets/image2016-4-14-16-3a0-3a3.png)
 
-1. Suivez les procédures de téléchargement et d’installation de l’application sur votre iPad.
+1. Suivez les procédures pour télécharger et installer l’application sur votre iPad.
 
-## Téléchargement et installation de l’application Android Marketo Événements {#download-and-install-the-marketo-events-android-app}
+## Téléchargement et installation de l’application Android pour les événements Marketo {#download-and-install-the-marketo-events-android-app}
 
-Si l’application Marketo Événements n’est pas encore installée sur votre tablette Android, voici comment l’obtenir.
+Si l’application Marketo Events n’est pas encore installée sur votre tablette Android, voici comment l’obtenir.
 
-1. Ouvrez votre tablette et appuyez sur l’application **Google Play Store**.
+1. Ouvrez votre tablette et appuyez sur **Google Play Store** application.
 1. Dans la zone Rechercher, saisissez **Marketo** et appuyez sur **Retour**.
-1. Dans les résultats de la recherche, appuyez sur l’application **Marketo Événements**.
+1. Dans les résultats de la recherche, appuyez sur la **Événements Marketo** application.
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
-1. Suivez les procédures de téléchargement et d’installation de l’application sur votre tablette.
+1. Suivez les procédures pour télécharger et installer l’application sur votre tablette.
 
-## Confirmer les informations d’identification de connexion pour les utilisateurs d’iPad et de tablettes {#confirm-login-credentials-for-ipad-and-tablet-users}
+## Confirmation des informations d’identification de connexion pour les utilisateurs d’iPad et de tablette {#confirm-login-credentials-for-ipad-and-tablet-users}
 
-Avant d’affecter des iPad ou des tablettes au personnel du salon, vérifiez que les informations de connexion qu’ils utiliseront fonctionnent correctement et que votre événement s’affiche sur l’écran d’accueil de l’application.
+Avant d’affecter des iPad ou des tablettes au personnel du salon, vérifiez que les informations d’identification de connexion qu’ils utiliseront fonctionnent correctement et que votre événement s’affiche sur l’écran d’accueil de l’application.
 
-1. Suivez les procédures de connexion pour iPad ou tablette pour vous connecter.
-1. Vérifiez que votre événement s’affiche sur l’écran d’accueil. N’oubliez pas qu’elle apparaît uniquement si ses dates se trouvent dans un délai d’une semaine avant et d’une semaine après la date actuelle.
+1. Suivez les procédures de connexion d’iPad ou de la tablette pour vous connecter.
+1. Vérifiez que votre événement s’affiche dans l’écran Accueil . Souvenez-vous qu’elle n’apparaît que si ses dates se situent dans la semaine précédant la date actuelle et dans la semaine qui suit cette date.
 
    ![](assets/image2016-4-15-15-3a29-3a0.png)
 
    >[!NOTE]
    >
-   >Plusieurs minutes peuvent s’écouler depuis la création d’un nouveau événement pour qu’il s’affiche dans l’iPad ou l’application pour tablette. S’il n’apparaît pas, appuyez sur **Déconnexion** dans l’écran d’accueil, attendez quelques minutes, puis reconnectez-vous.
+   >Plusieurs minutes peuvent s’écouler avant qu’un nouvel événement n’apparaisse dans l’application iPad ou tablette. S’il n’apparaît pas, appuyez sur **Déconnexion** sur l’écran d’accueil, patientez quelques minutes, puis connectez-vous à nouveau.
 
-## Synchroniser l’application pour renseigner le Événement {#sync-the-app-to-populate-the-event}
+## Synchronisation de l’application pour renseigner l’événement {#sync-the-app-to-populate-the-event}
 
-Synchronisez pour vous assurer que les personnes que vous avez ajoutées sont là.
+Synchroniser pour être sûr que les personnes que vous avez ajoutées sont là.
 
 1. Ouvrez votre événement dans l’application iPad ou Android.
-1. Cherche les gens. Si vous ne les voyez pas, appuyez sur **Synchroniser** pour synchroniser l’application et recharger la liste des Événements.
+1. Cherchez les gens. Si vous ne les voyez pas, appuyez sur **Synchronisation** pour synchroniser l’application et recharger la liste des personnes dans les événements.
 
    **iPad**
 
@@ -79,20 +78,20 @@ Synchronisez pour vous assurer que les personnes que vous avez ajoutées sont l�
 
    ![](assets/screenshot-2016-04-15-14-14-08-sync-button.png)
 
-## Confirmer que les visites fonctionnent {#confirm-check-ins-are-working}
+## Confirmation que les check-ins fonctionnent {#confirm-check-ins-are-working}
 
-Assurez-vous de vérifier que les enregistrements fonctionnent sur iPad ou tablette avant le événement.
+Veillez à confirmer que les check-ins fonctionnent à partir d’iPad ou de la tablette avant l’événement.
 
-1. Dans l&#39;application, [vérifiez une piste de test dans ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
-1. Appuyez sur l’icône **Synchroniser** pour synchroniser l’application.
-1. Dans Marketo, ouvrez votre événement et cliquez sur **Membres**.
+1. Dans l’application, [vérifier une piste de test dans](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+1. Appuyez sur le bouton **Synchronisation** pour synchroniser l’application.
+1. Dans Marketo, ouvrez l’événement, puis cliquez sur **Membres**.
 
    ![](assets/image2016-4-15-15-3a32-3a42.png)
 
-1. Vérifiez que l’état de la personne est remplacé par **Attended** et que la réussite est vérifiée.
+1. Confirmez que l’état de la personne est modifié en **Attaché** et l’option Réussite est cochée.
 
    ![](assets/image2016-4-18-14-3a11-3a36.png)
 
    >[!TIP]
    >
-   >Utilisez-vous comme personne à tester.
+   >Utilisez-vous en tant que personne-test.

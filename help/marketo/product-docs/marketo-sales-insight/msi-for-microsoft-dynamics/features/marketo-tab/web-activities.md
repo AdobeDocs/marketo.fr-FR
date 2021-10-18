@@ -3,9 +3,9 @@ description: Activités web - Documents Marketo - Documentation du produit
 title: Activités Web
 hide: true
 hidefromtoc: true
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 L’onglet Activités Web affiche les activités Web de vos prospects/contacts.
 Passez en revue les dernières activités web de votre piste en citant le nombre de visites de la page et les comptes respectifs. Vous pouvez filtrer les résultats pour limiter le nombre de pages spécifié.
 
-PICC
+![](assets/web-activities-1.png)
 
 ## Activités Web anonymes {#anonymous-web-activities}
 
-L’onglet Activités Web anonymes affiche toutes les **activités Web des visiteurs de la page Web anonyme**. Examinez les dernières activités web en citant le nombre de visites de la page.
+L’onglet Activités Web anonymes affiche toutes les **anonyme** activités web des visiteurs de pages web. Examinez les dernières activités web en citant le nombre de visites de la page.

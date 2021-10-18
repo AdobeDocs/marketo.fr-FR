@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359351
-description: Configurer et Ajouter une personne - Marketo Docs - Documentation du produit
-title: Configurer et Ajouter une personne
+description: Configuration et ajout d’une personne - Documents Marketo - Documentation du produit
+title: Configuration et ajout d’une personne
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 17%
 
 ---
 
-# Configurer et Ajouter une personne {#get-set-up-and-add-a-person}
+# Configuration et ajout d’une personne {#get-set-up-and-add-a-person}
 
 Il y a quelques choses à faire avant de commencer les missions.
 
 ## Étape 1 : Connexion à Marketo {#step-log-in-to-marketo}
 
-1. [Connectez-vous à ](https://app.marketo.com) Marketplace en saisissant les informations d’identification que vous avez reçues par courrier électronique.
+1. [Connexion à Marketo](https://app.marketo.com) à l’aide des informations d’identification que vous avez reçues par courrier électronique.
 
    ![](assets/one.png)
 
@@ -25,15 +24,15 @@ Il y a quelques choses à faire avant de commencer les missions.
 
 Créons un dossier qui contiendra tout ce que vous ferez lors de vos missions.
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez au **Activités marketing** zone.
 
    ![](assets/two.png)
 
-1. Cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouveau dossier de campagne**.
+1. Cliquez sur le bouton **Nouveau** et sélectionnez **Nouveau dossier Campaign**.
 
    ![](assets/image2014-9-24-10-3a53-3a38.png)
 
-1. Nommez le dossier &quot;Learning&quot;, puis cliquez sur **Créer**.
+1. Nommez le dossier &quot;Apprentissage&quot; et cliquez sur **Créer**.
 
    ![](assets/image2014-9-24-10-3a53-3a55.png)
 
@@ -41,27 +40,27 @@ Créons un dossier qui contiendra tout ce que vous ferez lors de vos missions.
 
    ![](assets/image2014-9-24-10-3a54-3a9.png)
 
-## Étape 3 : Vous Ajouter en tant que personne {#step-add-yourself-as-a-person}
+## Étape 3 : Ajout de vous-même en tant que personne {#step-add-yourself-as-a-person}
 
-Ajoutez-vous en tant que personne à Marketo pour que vous puissiez vous envoyer des e-mails de test plus tard.
+Ajoutez-vous en tant que personne dans Marketo afin de pouvoir vous envoyer ultérieurement des emails de test.
 
-1. Accédez à la zone **Base de données**.
+1. Accédez au **Base** zone.
 
    ![](assets/db.png)
 
-1. Cliquez sur la liste déroulante **New** et sélectionnez **Nouvelle personne**.
+1. Cliquez sur le bouton **Nouveau** et sélectionnez **Nouvelle personne**.
 
    ![](assets/seven.png)
 
-1. Tapez votre prénom et votre nom, votre adresse électronique et votre nom de société, puis cliquez sur **Créer** pour vous ajouter en tant que personne.
+1. Saisissez vos prénom et nom, adresse électronique et nom de société, puis cliquez sur **Créer** pour vous ajouter en tant que personne.
 
    ![](assets/eight.png)
 
-1. Pour vue à vos utilisateurs, ouvrez vos Listes System Smart dans le menu de gauche, puis cliquez sur Toutes les personnes.
+1. Pour afficher vos personnes, ouvrez vos listes dynamiques système dans le menu de gauche, puis cliquez sur Toutes les personnes.
 
    ![](assets/nine.png)
 
-1. Cliquez sur l&#39;onglet **Personnes**. Votre nom devrait apparaître dans la base de données.
+1. Cliquez sur le bouton **Personnes** . Votre nom devrait apparaître dans la base de données.
 
    ![](assets/ten.png)
 

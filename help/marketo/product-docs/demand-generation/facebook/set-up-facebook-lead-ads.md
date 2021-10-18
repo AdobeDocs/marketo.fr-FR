@@ -1,9 +1,9 @@
 ---
 unique-page-id: 11379622
-description: Configuration de publicités Facebook - Documents Marketo - Documentation du produit
+description: Configuration des publicités Facebook - Documents Marketo - Documentation du produit
 title: Configuration de publicités Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: eec4b6fb94ad7dd3b10376bdcdc2b558d1b90aed
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Configuration de publicités Facebook {#set-up-facebook-lead-ads}
 
-Utilisez [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) pour exécuter des campagnes publicitaires dans Facebook et générer des pistes pour Marketo.
+Utilisation [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) pour exécuter des campagnes publicitaires dans Facebook et générer des pistes pour Marketo.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Utilisez [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) pour 
 >
 >Pour que les pistes publicitaires Facebook soient ajoutées à votre instance, contactez votre gestionnaire de succès client.
 
-1. Accédez à Marketo **Admin**.
+1. Accéder à Marketo **Administration**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
@@ -30,7 +30,7 @@ Utilisez [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) pour 
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Saisissez un **Nom d’affichage** pour votre service, sélectionnez le service **Facebook Lead Ads** dans la liste déroulante, puis cliquez sur **Créer**.
+1. Saisissez un **Nom d’affichage** pour votre service, sélectionnez la variable **Facebook Lead Ads** dans la liste déroulante, puis cliquez sur **Créer**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
@@ -54,7 +54,7 @@ Utilisez [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) pour 
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. Sélectionnez la ou les pages à partir desquelles Marketo doit extraire les publicités Facebook, puis cliquez sur **Suivant**.
+1. Sélectionnez la ou les pages à partir desquelles Marketo doit extraire Facebook Lead Ads, puis cliquez sur **Suivant**.
 
    >[!TIP]
    >
@@ -62,11 +62,11 @@ Utilisez [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) pour 
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
-1. Pour accepter les mappages de champ Facebook vers Marketo par défaut, cliquez simplement sur **Créer**.
+1. Pour accepter les mappages de champs Facebook vers Marketo par défaut, cliquez simplement sur **Créer**.
 
    >[!TIP]
    >
-   >En modifiant les mappages, vous pouvez personnaliser l’emplacement de stockage des données des publicités principales dans Marketo. Vous pouvez également [extraire des données des questions personnalisées de pistes publicitaires](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >En modifiant les mappages, vous pouvez personnaliser l’emplacement de stockage des données des publicités principales dans Marketo. Vous pouvez également [extraire des données des questions personnalisées de pistes publicitaires ;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
