@@ -1,43 +1,57 @@
 ---
-description: Configuration des vues MSI - Documents Marketo - Documentation du produit
+description: Configuration des vues MSI - Documentation Marketo Docs - Documentation du produit
 title: Configuration des vues MSI
 hide: true
 hidefromtoc: true
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Configuration des vues MSI {#setting-up-msi-views}
 
-L’installation du plug-in Sales Insight dans Dynamics ajoute automatiquement les Meilleurs billets et les tableaux de bord associés sur la carte du site. Si, pour une raison quelconque, les tableaux de bord ne sont pas ajoutés, voici comment les ajouter manuellement.
+L’installation du module externe Sales Insight dans Dynamics ajoute automatiquement les Best Bets et les tableaux de bord associés sur la carte du site. Si, pour une raison quelconque, les tableaux de bord ne sont pas ajoutés, voici comment les ajouter manuellement.
 
-1. Accédez à Paramètres avancés > Paramètres > Personnalisations > Personnaliser le système.
+1. Dans Dynamics, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres avancés** dans la liste déroulante.
 
-1. Sélectionnez Extensions client, puis cliquez sur la carte du site.
+1. Dans le coin supérieur gauche de l’écran, cliquez sur **Paramètres**. Sous Personnalisation, choisissez Personnalisations.
 
-1. Déplacez-vous vers la droite. Sélectionnez Marketo et Ajouter une sous-zone.
+1. Cliquez sur **Personnalisation du système**.
 
-1. Saisissez ensuite les valeurs dans les champs comme suit et cliquez sur Enregistrer.
+1. Dans l’arborescence de gauche, cliquez sur **Extensions client** et double-cliquez sur **Plan du site**.
 
-Meilleurs paris - URL marketo_bestbets : Icône MainviewBestbets.html : /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg ID : marketo_bestbets Titre : Meilleurs paris
+1. Cliquez sur la flèche droite pour accéder à la page suivante. Sous Ventes, vous devriez voir Marketo. Si ce n’est pas le cas, assurez-vous d’avoir importé le package correctement.
 
-## Mon tableau de bord Email {#my-email-dashboard}
+   >[!NOTE]
+   >
+   >Sous Marketo, vous devriez avoir : Meilleurs paris, Mon e-mail, Activité Web et Activité Web anonyme. Si l’un de ces tableaux de bord est manquant, cliquez sur le signe + au-dessus de Ventes et ajoutez-les en tant que sous-zone.
 
-Suivez les mêmes instructions pour accéder aux cartes du site et au groupe Marketo, comme décrit ci-dessus pour les meilleurs paris.  Dans une nouvelle sous-zone pour mon courrier électronique, les informations suivantes doivent être saisies.
+1. Cliquez sur un tableau de bord pour le sélectionner. Dans la colonne de droite, entrez les informations correspondantes ci-dessous pour chacune d’elles. Vous pouvez ignorer les catégories non répertoriées.
 
-URL : mkt_/MainViewMyEmail.html Icône : /WebResources/mkt_/_MainView/_imgs/icons/email.svg ID : marketo_myemail Titre : My Email
+   **Meilleurs résultats**</br>
+URL : MainviewBestbets.html</br>
+Icône : /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+ID : marketo_bestbets</br>
+Titre : Meilleurs résultats
 
-## Tableau de bord des activités web {#web-activity-dashboard}
+   **Mon e-mail**</br>
+URL : mkt_/MainViewMyEmail.html</br>
+Icône : /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+ID : marketo_myemail</br>
+Titre : Mon e-mail
 
-Suivez les mêmes instructions pour accéder aux cartes du site et au groupe Marketo, comme décrit ci-dessus pour les meilleurs paris.  Dans une nouvelle sous-zone pour l’activité web, vous devez saisir les informations suivantes.
+   **Activité Web**</br>
+URL : mkt_/MainViewWebActivity.html</br>
+Icône : /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+ID : marketo_webactivity</br>
+Titre : Activité Web
 
-URL : mkt_/MainViewWebActivity.html Icône : /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg ID : marketo_webactivity Titre : Activité web
+   **Activité Web anonyme**</br>
+URL : mkt_/MainViewWebActivity.html</br>
+Icône : /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+ID : marketo_anonymous_webactivity</br>
+Titre : Activité Web anonyme
 
-## Tableau de bord des activités web anonymes {#anonymous-web-activity-dashboard}
-
-Suivez les mêmes instructions pour accéder aux cartes du site et au groupe Marketo, comme décrit ci-dessus pour les meilleurs paris.  Dans une nouvelle sous-zone pour l’activité web, vous devez saisir les informations suivantes.
-
-URL : mkt_/MainViewWebActivity.html Icône : /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg ID : marketo_anonymous_webactivity Titre : Activité Web anonyme
+1. Cliquez sur **Enregistrer** une fois terminé.
