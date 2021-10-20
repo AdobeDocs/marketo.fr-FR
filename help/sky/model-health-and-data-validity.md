@@ -1,27 +1,30 @@
 ---
-title: modèle-santé-et-validité-des-données
-description: Santé du modèle et validité des données
+title: modèle-santé-et-données-validité
+description: Santé du modèle et Validité des données
 exl-id: b14ec648-be1c-467b-b41d-2c53d74e25ea
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# Santé du modèle et validité des données
+# Santé du modèle et Validité des données
 
-<br> 
+Les performances de vos modèles dépendent de la qualité et de l’exhaustivité des données d’entrée. Consultez le facteur d’influence supérieur pour chacun de vos modèles AI de probabilité. Consultez également les principaux facteurs qui entraînent une inscription plus ou moins élevée, une participation à un événement ou des désabonnements.
 
-Les performances de vos modèles dépendent de la qualité et de l’exhaustivité des données d’entrée. Voici comment évaluer votre santé modèle.
+>[!NOTE]
+>
+>Les comportements marqués comme (+) influencent positivement les prédictions (et inversement).
 
-Accédez à la section **[!UICONTROL Modèles et santé des données]** sous **[!UICONTROL Audiences prédictives]** dans la zone **[!UICONTROL Admin]** de Marketo Classic. Vous verrez ici tous vos modèles et leur état.
+Voici comment évaluer la santé de votre modèle.
 
-![Image un](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
+Accédez à la section **[!UICONTROL Modèles et santé des données]** section **[!UICONTROL Public prédictif]** dans la **[!UICONTROL Administrateur]** zone de Marketo Classic. Vous y verrez tous vos modèles et leurs statuts.
 
-* **Statut** de la formation : Indique si votre modèle effectue une formation active (amélioration des prédictions). La formation se produit automatiquement toutes les 2 semaines. Tout modèle _Traitement_ peut prendre jusqu’à 24 heures. Pour tout modèle _ayant échoué_, veuillez contacter le [Support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
-* **État** de score : Indique si votre modèle calcule activement les prédictions (pourcentages de probabilité) pour les membres du programme.
-* **Performances** : catégorisation de l’intégrité de votre modèle en fonction de l’intégralité des données et de la qualité des données (voir ci-dessous).
-* **Complétude** des données : Pourcentage d’attributs de données présents/complets.
-* **Qualité** des données : Pourcentage d’attributs qui contiennent des données utiles et utilisables.
+![Image Un](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
+
+* **Statut de formation**: Indique si votre modèle s’entraîne activement (amélioration des prévisions). La formation se déroule automatiquement toutes les 2 semaines. Tout modèle qui _Traitement_ peut prendre jusqu&#39;à 24 heures pour finir. Pour _Échec_ modèles, veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+* **État d’évaluation**: Indique si votre modèle calcule activement les prédictions (pourcentages de probabilité) pour les membres du programme.
+* **Performances**: catégorisation de la santé de votre modèle en fonction de l&#39;intégralité des données et de la qualité des données (voir ci-dessous).
+* **Complétude des données**: Pourcentage d&#39;attributs de données présents/complets.
+* **Qualité des données**: Pourcentage d&#39;attributs qui contiennent des données fiables et utilisables.

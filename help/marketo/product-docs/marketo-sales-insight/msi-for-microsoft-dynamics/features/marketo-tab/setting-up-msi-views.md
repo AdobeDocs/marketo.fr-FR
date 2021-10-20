@@ -3,7 +3,7 @@ description: Configuration des vues MSI - Documentation Marketo Docs - Documenta
 title: Configuration des vues MSI
 hide: true
 hidefromtoc: true
-source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -16,7 +16,7 @@ L’installation du module externe Sales Insight dans Dynamics ajoute automatiqu
 
 1. Dans Dynamics, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres avancés** dans la liste déroulante.
 
-1. Dans le coin supérieur gauche de l’écran, cliquez sur **Paramètres**. Sous Personnalisation, choisissez Personnalisations.
+1. Dans le coin supérieur gauche de l’écran, cliquez sur **Paramètres**. Sous Personnalisation, sélectionnez **Personnalisations**.
 
 1. Cliquez sur **Personnalisation du système**.
 

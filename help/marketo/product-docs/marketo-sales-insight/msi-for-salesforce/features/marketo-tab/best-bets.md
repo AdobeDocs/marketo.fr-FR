@@ -1,26 +1,48 @@
 ---
-description: Meilleurs paris - Docs marketing - Documentation du produit
+description: Meilleurs paris - Marketo Docs - Documentation produit
 title: Meilleurs paris
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '267'
+ht-degree: 7%
 
 ---
 
-
 # Meilleurs paris {#best-bets}
 
-L&#39;onglet Meilleurs paris comprend une liste de toutes vos pistes actives en fonction de leur priorité, calculée en fonction de l&#39;urgence et du score relatif.
+L’onglet Meilleurs paris comprend une liste de toutes vos pistes d’attente en fonction de leur priorité, calculée à l’aide de l’urgence et du score relatif.
 
-En cliquant sur le menu de données sous la colonne Actions, vous pouvez utiliser des options d’engagement telles que :
+**Options de filtre**
 
-* Envoyer un courriel marketing
-* Ajouter à Marketo Campaign
-* Vue sur le marché
+Vous pouvez cliquer sur chacun des boutons suivants pour voir Meilleurs paris :
+
+* Pistes : Vous pouvez voir les meilleurs paris pour toutes les pistes qui vous sont attribuées dans CRM.
+* Contacts : Vous pouvez voir Meilleurs résultats pour tous les contacts qui vous sont attribués dans CRM.
+* Contacts de compte : Vous pouvez voir Meilleurs paris pour tous les contacts appartenant à des comptes qui vous sont affectés dans CRM, même si le contact lui-même ne vous est pas affecté.
+* Contacts d&#39;opportunité : Vous pouvez voir Meilleurs paris pour tous les contacts qui appartiennent aux opportunités qui vous sont attribuées dans CRM, même si le contact lui-même ne vous est pas affecté.
+
+**Points à noter**
+
+Les boutons Piste et Contact sont sélectionnés par défaut. Vous pouvez sélectionner une ou plusieurs options de filtre et au moins l’une des quatre devra toujours être sélectionnée.
+
+Vous ne pouvez pas &quot;masquer&quot; un prospect ou un contact que vous ne possédez pas.
+
+**Engagement en ligne**
+
+En cliquant sur le menu de données sous la colonne Actions, vous pouvez contacter un responsable ou un contact spécifique à l’aide des options d’engagement suivantes :
+
+* Envoyer l&#39;e-mail Marketo
+* Ajouter à la campagne Marketo
+* Afficher dans Marketo
 * Ajouter à la liste de contrôle
 
-Vous pouvez également sélectionner plusieurs pistes à partir de l’onglet Meilleurs résultats et choisir _Envoyer un courriel marketing_ ou _Ajouter au marketing Campaign_.
+**Actions en bloc**
+
+Vous pouvez sélectionner un ou plusieurs prospects ou contacts de votre page Meilleurs paris à l’aide de la case à cocher et les contacter en tant que groupe à l’aide des options d’engagement suivantes :
+
+* Envoyer l&#39;e-mail Marketo
+* Ajouter à la campagne Marketo
+* Ajouter à la liste de contrôle
 
 ![](assets/best-bets-1.png)
