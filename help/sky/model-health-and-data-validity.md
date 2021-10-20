@@ -2,7 +2,7 @@
 title: modèle-santé-et-données-validité
 description: Santé du modèle et Validité des données
 exl-id: b14ec648-be1c-467b-b41d-2c53d74e25ea
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Les performances de vos modèles dépendent de la qualité et de l’exhaustivit
 
 >[!NOTE]
 >
->Les comportements marqués comme (+) influencent positivement les prédictions (et inversement).
+>Les comportements marqués par le signe (+) influencent positivement les prédictions (et inversement).
 
 Voici comment évaluer la santé de votre modèle.
 
