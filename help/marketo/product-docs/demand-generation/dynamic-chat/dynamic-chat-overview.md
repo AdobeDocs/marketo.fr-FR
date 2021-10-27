@@ -3,9 +3,9 @@ description: Présentation de Dynamic Chat - Documents Marketo - Documentation d
 title: Présentation de la conversation dynamique
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Dynamic Chat vous permet d’utiliser une interface conviviale pour cibler à la
 
 ## Intégrations {#integrations}
 
-Un composant clé de Dynamic Chat est sa capacité à interagir en mode natif avec votre abonnement Marketo. Pour tirer parti de la fonctionnalité complète de cette intégration, vous devez d’abord lancer la synchronisation des données. Selon la taille de votre base de données Marketo, la synchronisation initiale [ponctuelle](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) peut prendre jusqu’à 24 heures. Le temps de synchronisation moyen est inférieur à deux heures.
+Un composant clé de Dynamic Chat est sa capacité à interagir en mode natif avec votre abonnement Marketo. Pour tirer parti de la fonctionnalité complète de cette intégration, vous devez d’abord lancer la synchronisation des données. Selon la taille de votre base de données Marketo, les données initiales peuvent prendre jusqu’à 24 heures, [synchronisation unique](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) pour terminer.
 
 Les éléments suivants sont synchronisés :
 
@@ -30,7 +30,7 @@ Les éléments suivants sont synchronisés :
 
 ## Dialogues {#dialogues}
 
-Les dialogues représentent un seul engagement de discussion. Considérez-le comme un conteneur avec tout ce dont vous avez besoin pour avoir un dialogue de conversation engageant avec les visiteurs de votre site web. Dans chaque dialogue, vous pouvez spécifier la ou les pages sur lesquelles vous souhaitez que le dialogue s’affiche, à qui vous souhaitez qu’il s’affiche, ainsi que le contenu et le flux du dialogue lui-même. En outre, vous pouvez trouver des mesures pour voir les performances de votre dialogue. [En savoir plus sur les Dialogues](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+Les dialogues représentent un seul engagement de discussion. Considérez-le comme un conteneur avec tout ce dont vous avez besoin pour avoir un dialogue de conversation engageant avec les visiteurs de votre site web. Dans chaque dialogue, vous pouvez spécifier la ou les pages sur lesquelles vous souhaitez que le dialogue s’affiche, à qui vous souhaitez qu’il s’affiche, ainsi que le contenu et le flux du dialogue lui-même. En outre, vous pouvez trouver des mesures pour voir les performances de votre dialogue. [En savoir plus sur les boîtes de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
 
 ## Configuration {#configuration}
 
@@ -58,7 +58,7 @@ Non, il utilise uniquement des réponses prédéterminées.
 
 **Comment cibler les personnes anonymes ?**
 
-Dans votre boîte de dialogue, vous devez utiliser l’attribut _L’email de la personne est vide_ .
+Dans votre boîte de dialogue, vous devez utiliser la variable _Le courrier électronique de personne est vide_ attribut.
 
 **Prenez-vous en charge la fonctionnalité AI/NLP ?**
 
