@@ -2,9 +2,9 @@
 description: Glossaire des activités de vente - Documents Marketo - Documentation du produit
 title: Glossaire des activités de vente
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '520'
 ht-degree: 11%
 
 ---
@@ -263,7 +263,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   </tr>
   <tr> 
    <td><strong>Objet du courriel de vente</strong></td> 
-   <td>Objet de l’email.</td> 
+   <td>Objet de l’email suivi d’un identifiant unique (ex : Mon objet (MSC-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>Numéro de téléphone de vente appelé</strong></td> 
@@ -283,7 +283,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   </tr> 
   <tr> 
    <td><strong>Source</strong></td> 
-   <td>Source de l’activité. Sera défini sur "Tout" pour les activités de Sales Connect avant la version du 22 janvier. Sera "Application de ventes" pour les activités de connexion aux ventes après la version du 22 janvier.</td>
+   <td>Source de l’activité. Sera définie sur "Tout" pour les activités Sales Connect avant la version du 21 octobre. Sera "Application de ventes" pour les activités Sales Connect après la version du 21 octobre.</td>
   </tr> 
   <tr> 
    <td><strong>ID du modèle</strong></td> 
