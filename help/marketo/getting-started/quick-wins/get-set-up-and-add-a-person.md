@@ -3,10 +3,10 @@ unique-page-id: 2359351
 description: Configuration et ajout d’une personne - Documents Marketo - Documentation du produit
 title: Configuration et ajout d’une personne
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 17%
+source-wordcount: '213'
+ht-degree: 16%
 
 ---
 
@@ -55,6 +55,10 @@ Ajoutez-vous en tant que personne dans Marketo afin de pouvoir vous envoyer ult�
 1. Saisissez vos prénom et nom, adresse électronique et nom de société, puis cliquez sur **Créer** pour vous ajouter en tant que personne.
 
    ![](assets/eight.png)
+
+   >[!CAUTION]
+   >
+   >Marketo **not** prennent en charge les adresses électroniques contenant des emojis.
 
 1. Pour afficher vos personnes, ouvrez vos listes dynamiques système dans le menu de gauche, puis cliquez sur Toutes les personnes.
 

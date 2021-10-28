@@ -1,25 +1,28 @@
 ---
 unique-page-id: 1147316
-description: Créer une personne manuellement - Documents Marketo - Documentation sur les produits
-title: Créer une personne manuellement
+description: Création manuelle d’une personne - Documents Marketo - Documentation du produit
+title: Création manuelle d’une personne
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Créer une personne manuellement {#create-a-person-manually}
+# Création manuelle d’une personne {#create-a-person-manually}
 
-Il y a de nombreuses façons d&#39;amener une personne à Marketo. Si vous devez en créer un manuellement, voici comment le faire.
+Il existe de nombreuses façons de faire entrer une personne dans Marketo. Si vous devez en créer un manuellement, voici comment le faire.
 
-1. Accédez à la **base de données**.
+>[!CAUTION]
+>
+>Marketo **not** prennent en charge les adresses électroniques contenant des emojis.
+
+1. Accédez au **Base**.
 
    ![](assets/db-1.png)
 
-1. Sous **New**, cliquez sur **Nouvelle personne**.
+1. Sous **Nouveau**, cliquez sur **Nouvelle personne**.
 
    ![](assets/two-2.png)
 
@@ -27,4 +30,4 @@ Il y a de nombreuses façons d&#39;amener une personne à Marketo. Si vous devez
 
    ![](assets/three-2.png)
 
-C&#39;est un moyen rapide et facile d&#39;ajouter une seule personne à Marketo !
+Il s’agit d’un moyen simple et rapide d’ajouter une seule personne dans Marketo.
