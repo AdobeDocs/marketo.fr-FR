@@ -1,23 +1,23 @@
 ---
-description: Glossaire des activités de vente - Documents Marketo - Documentation produit
+description: Glossaire des activités de vente - Documents Marketo - Documentation du produit
 title: Glossaire des activités de vente
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 12%
+source-wordcount: '510'
+ht-degree: 11%
 
 ---
 
 # Glossaire des activités de vente {#sales-activity-glossary}
 
-Dans Sales Connect, lorsqu&#39;un vendeur : ajoute une piste à une cadence de vente, leur envoie un e-mail ou effectue un appel à une activité, elle sera enregistrée dans l&#39;historique des activités Marketo. En outre, lorsque le prospect s’engage avec des e-mails, s’ouvre, les clics et les réponses sont également enregistrés.
+Dans Sales Connect, lorsqu’un vendeur : ajoute une piste à une cadence de vente, leur envoie un email ou lance un appel à une activité ; elle est consignée dans l’historique des activités de Marketo. En outre, lorsque le prospect s’engage avec des emails, des ouvertures, des clics et des réponses, est également consigné.
 
-Les activités ci-dessous seront enregistrées sur Marketo à partir de Sales Connect.
+Les activités ci-dessous seront consignées dans Marketo à partir de Sales Connect.
 
 >[!NOTE]
 >
->Ces activités et ces attributs peuvent être consommés à partir de notre API REST et Bulk.
+>Ces activités et attributs peuvent être utilisés à partir de nos API REST et Bulk.
 
 ## Activités {#activities}
 
@@ -37,22 +37,22 @@ Les activités ci-dessous seront enregistrées sur Marketo à partir de Sales Co
   <td>ID du modèle</td>
  </tr>
  <tr>
-  <td>URL du modèle de vente</td>
+  <td>URL du modèle de ventes</td>
  </tr>
  <tr>
-  <td>URL de campagne de vente</td>
+  <td>URL de la campagne de ventes</td>
  </tr>
  <tr>
-  <td>Nom du modèle de vente</td>
+  <td>Nom du modèle de ventes</td>
  </tr>
  <tr>
-  <td>Objet de la messagerie</td>
+  <td>Objet du message électronique</td>
  </tr>
  <tr>
-  <td>Nom de la campagne de vente</td>
+  <td>Nom de la campagne commerciale</td>
  </tr>
  <tr>
-  <td>ID de personne commerciale Marketo</td>
+  <td>Identifiant de personne commerciale Marketo</td>
  </tr>
  <tr>
   <th rowspan="9">Ouvrir e-mail de vente</th>
@@ -65,25 +65,25 @@ Les activités ci-dessous seront enregistrées sur Marketo à partir de Sales Co
   <td>ID du modèle</td>
  </tr>
  <tr>
-  <td>URL du modèle de vente</td>
+  <td>URL du modèle de ventes</td>
  </tr>
  <tr>
-  <td>URL de campagne de vente</td>
+  <td>URL de la campagne de ventes</td>
  </tr>
  <tr>
-  <td>Nom du modèle de vente</td>
+  <td>Nom du modèle de ventes</td>
  </tr>
  <tr>
-  <td>Objet de la messagerie</td>
+  <td>Objet du message électronique</td>
  </tr>
  <tr>
-  <td>Nom de la campagne de vente</td>
+  <td>Nom de la campagne commerciale</td>
  </tr>
  <tr>
-  <td>ID de personne commerciale Marketo</td>
+  <td>Identifiant de personne commerciale Marketo</td>
  </tr>
  <tr>
-  <th rowspan="10">E-mail de vente cliqué</th>
+  <th rowspan="10">Courrier électronique de vente cliqué</th>
   <td>Lien</td>
  </tr>
  <tr>
@@ -96,48 +96,48 @@ Les activités ci-dessous seront enregistrées sur Marketo à partir de Sales Co
   <td>ID du modèle</td>
  </tr>
  <tr>
-  <td>URL du modèle de vente</td>
+  <td>URL du modèle de ventes</td>
  </tr>
  <tr>
-  <td>URL de campagne de vente</td>
+  <td>URL de la campagne de ventes</td>
  </tr>
  <tr>
-  <td>Nom du modèle de vente</td>
+  <td>Nom du modèle de ventes</td>
  </tr>
  <tr>
-  <td>Objet de la messagerie</td>
+  <td>Objet du message électronique</td>
  </tr>
  <tr>
-  <td>Nom de la campagne de vente</td>
+  <td>Nom de la campagne commerciale</td>
  </tr>
  <tr>
-  <td>ID de personne commerciale Marketo</td>
+  <td>Identifiant de personne commerciale Marketo</td>
  </tr>
 <tr>
-  <th rowspan="3">Réponse à l'e-mail de vente</th>
+  <th rowspan="3">Réponse à l’e-mail de vente</th>
   <td>Reçu par</td>
  </tr>
  <tr>
   <td>Source</td>
  </tr>
  <tr>
-  <td>ID de personne commerciale Marketo</td>
+  <td>Identifiant de personne commerciale Marketo</td>
  </tr>
  <tr>
   <th rowspan="11">Appel de vente reçu</th>
   <td>Appel  Sales passé par</td>
  </tr>
  <tr>
-  <td>Statut de l'appel de vente</td>
+  <td>État des appels commerciaux</td>
  </tr>
  <tr>
-  <td>Objet d'appel de vente</td>
+  <td>Objet des appels commerciaux</td>
  </tr>
  <tr>
-  <td>Nom de la campagne de vente</td>
+  <td>Nom de la campagne commerciale</td>
  </tr>
  <tr>
-  <td>URL de campagne de vente</td>
+  <td>URL de la campagne de ventes</td>
  </tr>
  <tr>
   <td>Numéro de téléphone de vente appelé</td>
@@ -146,7 +146,7 @@ Les activités ci-dessous seront enregistrées sur Marketo à partir de Sales Co
   <td>Source</td>
  </tr>
  <tr>
-  <td>Durée de l'appel de vente</td>
+  <td>Durée des appels de vente</td>
  </tr>
  <tr>
   <td>URL de l’enregistrement de l’appel  Sales</td>
@@ -155,36 +155,17 @@ Les activités ci-dessous seront enregistrées sur Marketo à partir de Sales Co
   <td>Réponse à l’appel  Sales par</td>
  </tr>
  <tr>
-  <td>ID de personne commerciale Marketo</td>
+  <td>Identifiant de personne commerciale Marketo</td>
  </tr>
  <tr>
   <th rowspan="6">Ajouter à la campagne de ventes</th>
-  <td>Nom de la campagne de vente</td>
+  <td>Nom de la campagne commerciale</td>
  </tr>
  <tr>
-  <td>Statut de l'appel de vente</td>
+  <td>État des appels commerciaux</td>
  </tr>
  <tr>
-  <td>URL de campagne de vente</td>
- </tr>
- <tr>
-  <td>Envoyé par</td>
- </tr>
- <tr>
-  <td>Source</td>
- </tr>
- <tr>
-  <td>ID campagne de vente</td>
- </tr>
- <tr>
-  <th rowspan="6">Supprimer de la campagne Ventes</th>
-  <td>Nom de la campagne de vente</td>
- </tr>
- <tr>
-  <td>Statut de l'appel de vente</td>
- </tr>
- <tr>
-  <td>URL de campagne de vente</td>
+  <td>URL de la campagne de ventes</td>
  </tr>
  <tr>
   <td>Envoyé par</td>
@@ -193,7 +174,26 @@ Les activités ci-dessous seront enregistrées sur Marketo à partir de Sales Co
   <td>Source</td>
  </tr>
  <tr>
-  <td>ID campagne de vente</td>
+  <td>Identifiant de campagne de ventes</td>
+ </tr>
+ <tr>
+  <th rowspan="6">Supprimer de la campagne de ventes</th>
+  <td>Nom de la campagne commerciale</td>
+ </tr>
+ <tr>
+  <td>État des appels commerciaux</td>
+ </tr>
+ <tr>
+  <td>URL de la campagne de ventes</td>
+ </tr>
+ <tr>
+  <td>Envoyé par</td>
+ </tr>
+ <tr>
+  <td>Source</td>
+ </tr>
+ <tr>
+  <td>Identifiant de campagne de ventes</td>
  </tr>
 </table>
 
@@ -207,19 +207,19 @@ Les activités ci-dessous seront enregistrées sur Marketo à partir de Sales Co
  <tbody> 
  <tr> 
    <td><strong>Détails</strong></td> 
-   <td>Détails du message d’erreur Rebond.</td> 
+   <td>Détails du message d’erreur de rebond.</td> 
   </tr> 
   <tr> 
    <td><strong>Adresse e-mail</strong></td> 
-   <td>Adresse électronique qui a rebondi.</td> 
+   <td>Adresse électronique qui a fait l’objet d’un rebond.</td> 
   </tr> 
   <tr> 
    <td><strong>Lien</strong></td> 
    <td>URL sur laquelle l’utilisateur a cliqué.</td> 
   </tr> 
   <tr> 
-   <td><strong>ID de personne commerciale Marketo</strong></td> 
-   <td>ID unique pour l'enregistrement de personne dans Sales Connect.</td> 
+   <td><strong>Identifiant de personne commerciale Marketo</strong></td> 
+   <td>Identifiant unique de l’enregistrement de personne dans Sales Connect.</td> 
   </tr> 
   <tr> 
    <td><strong>Reçu par</strong></td> 
@@ -227,55 +227,55 @@ Les activités ci-dessous seront enregistrées sur Marketo à partir de Sales Co
   </tr>
   <tr> 
    <td><strong>Réponse à l’appel  Sales par</strong></td> 
-   <td>Nom de la personne qui a répondu à l'appel.</td> 
+   <td>Nom de la personne qui a répondu à l’appel.</td> 
   </tr>
   <tr> 
-   <td><strong>Durée de l'appel de vente</strong></td> 
-   <td>Durée de l'appel en secondes.</td> 
+   <td><strong>Durée des appels de vente</strong></td> 
+   <td>Durée de l’appel en secondes.</td> 
   </tr>
   <tr> 
    <td><strong>Appel  Sales passé par</strong></td> 
-   <td>Adresse électronique du vendeur qui a passé l'appel.</td> 
+   <td>Adresse électronique du vendeur qui a effectué l’appel.</td> 
   </tr>
   <tr> 
    <td><strong>URL de l’enregistrement de l’appel  Sales</strong></td> 
    <td>URL de l’enregistrement des appels.</td> 
   </tr>
   <tr> 
-   <td><strong>Statut de l'appel de vente</strong></td> 
-   <td>Enregistrer l'état d'appel final de l'appel, qui inclut : terminé, aucune réponse, annulé, échec.</td> 
+   <td><strong>État des appels commerciaux</strong></td> 
+   <td>Enregistrez l’état de l’appel final qui inclut : terminé, aucune réponse, annulé, échec.</td> 
   </tr>
   <tr> 
-   <td><strong>Objet d'appel de vente</strong></td> 
-   <td>Résultat d'appel sélectionné par un utilisateur commercial dans le dialer.</td> 
+   <td><strong>Objet des appels commerciaux</strong></td> 
+   <td>Appelez le résultat sélectionné par un utilisateur commercial dans la boîte de dialogue.</td> 
   </tr>
   <tr> 
-   <td><strong>ID campagne de vente</strong></td> 
-   <td>ID unique pour l’actif Sales Campaign dans Sales Connect.</td> 
+   <td><strong>Identifiant de campagne de ventes</strong></td> 
+   <td>Identifiant unique de la ressource de campagne commerciale dans Sales Connect.</td> 
   </tr>
   <tr> 
-   <td><strong>Nom de la campagne de vente</strong></td> 
-   <td>Nom de la campagne de vente.</td> 
+   <td><strong>Nom de la campagne commerciale</strong></td> 
+   <td>Nom de la campagne de ventes.</td> 
   </tr>
   <tr> 
-   <td><strong>URL de campagne de vente</strong></td> 
-   <td>URL Sales Connect pour Sales Campaign.</td> 
+   <td><strong>URL de la campagne de ventes</strong></td> 
+   <td>URL de Connect commercial pour la campagne de ventes.</td> 
   </tr>
   <tr> 
-   <td><strong>Objet de courriel de vente</strong></td> 
-   <td>Objet de la ligne de courrier électronique.</td> 
+   <td><strong>Objet du courriel de vente</strong></td> 
+   <td>Objet de l’email.</td> 
   </tr>
   <tr> 
    <td><strong>Numéro de téléphone de vente appelé</strong></td> 
    <td>Numéro de téléphone appelé par le service commercial.</td> 
   </tr>
   <tr> 
-   <td><strong>Nom du modèle de vente</strong></td> 
-   <td>Nom du modèle d'e-mail dans Sales Connect.</td> 
+   <td><strong>Nom du modèle de ventes</strong></td> 
+   <td>Nom du modèle d’email dans Sales Connect.</td> 
   </tr>
   <tr> 
-   <td><strong>URL du modèle de vente</strong></td> 
-   <td>URL Sales Connect pour le modèle d’e-mail.</td> 
+   <td><strong>URL du modèle de ventes</strong></td> 
+   <td>URL de connexion des ventes pour le modèle de courrier électronique.</td> 
   </tr>
   <tr> 
    <td><strong>Envoyé par</strong></td>
@@ -283,11 +283,11 @@ Les activités ci-dessous seront enregistrées sur Marketo à partir de Sales Co
   </tr> 
   <tr> 
    <td><strong>Source</strong></td> 
-   <td>Source de l'activité. Sera défini sur "Tout" pour les activités Sales Connect.</td> 
+   <td>Source de l’activité. Sera défini sur "Tout" pour les activités de Sales Connect avant la version du 22 janvier. Sera "Application de ventes" pour les activités de connexion aux ventes après la version du 22 janvier.</td>
   </tr> 
   <tr> 
    <td><strong>ID du modèle</strong></td> 
-   <td>Lorsque la source est Tout, l’ID de modèle est l’ID de modèle Marketo Sales Connect. Utilisez cette option pour cibler un modèle spécifique au lieu d’une ligne d’objet, qui pourrait exister dans plusieurs modèles.
+   <td>Lorsque la source est Tout, l’ID de modèle est l’ID de modèle Marketo Sales Connect. Utilisez cette option pour cibler un modèle spécifique au lieu d’une ligne d’objet, qui peut exister dans plusieurs modèles.
 </td> 
   </tr> 
  </tbody> 
