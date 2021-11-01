@@ -1,9 +1,7 @@
 ---
 description: Activités de courrier électronique - Documents Marketo - Documentation du produit
 title: Activités de courriel
-hide: true
-hidefromtoc: true
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 8227648ce67bf0f9f8b3b2fea7445850d8e154d5
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%

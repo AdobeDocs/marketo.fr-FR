@@ -1,9 +1,7 @@
 ---
-description: Configuration des vues MSI - Documentation Marketo Docs - Documentation du produit
+description: Configuration des vues MSI - Documents Marketo - Documentation du produit
 title: Configuration des vues MSI
-hide: true
-hidefromtoc: true
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 8227648ce67bf0f9f8b3b2fea7445850d8e154d5
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -12,41 +10,41 @@ ht-degree: 0%
 
 # Configuration des vues MSI {#setting-up-msi-views}
 
-L’installation du module externe Sales Insight dans Dynamics ajoute automatiquement les Best Bets et les tableaux de bord associés sur la carte du site. Si, pour une raison quelconque, les tableaux de bord ne sont pas ajoutés, voici comment les ajouter manuellement.
+L’installation du plug-in Sales Insight dans Dynamics ajoute automatiquement les Meilleurs billets et les tableaux de bord associés sur la carte du site. Si, pour une raison quelconque, les tableaux de bord ne sont pas ajoutés, voici comment les ajouter manuellement.
 
 1. Dans Dynamics, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres avancés** dans la liste déroulante.
 
-1. Dans le coin supérieur gauche de l’écran, cliquez sur **Paramètres**. Sous Personnalisation, sélectionnez **Personnalisations**.
+1. Dans le coin supérieur gauche de l’écran, cliquez sur **Paramètres**. Sous Personnalisation , choisissez **Personnalisations**.
 
 1. Cliquez sur **Personnalisation du système**.
 
-1. Dans l’arborescence de gauche, cliquez sur **Extensions client** et double-cliquez sur **Plan du site**.
+1. Dans l’arborescence de gauche, cliquez sur **Extensions client** et double-cliquez **Carte du site**.
 
-1. Cliquez sur la flèche droite pour accéder à la page suivante. Sous Ventes, vous devriez voir Marketo. Si ce n’est pas le cas, assurez-vous d’avoir importé le package correctement.
+1. Cliquez sur la flèche droite pour accéder à la page suivante. Sous Ventes, vous devriez voir Marketo. Dans le cas contraire, assurez-vous d’avoir importé le package correctement.
 
    >[!NOTE]
    >
-   >Sous Marketo, vous devriez avoir : Meilleurs paris, Mon e-mail, Activité Web et Activité Web anonyme. Si l’un de ces tableaux de bord est manquant, cliquez sur le signe + au-dessus de Ventes et ajoutez-les en tant que sous-zone.
+   >Sous Marketo, vous devez disposer des éléments suivants : Meilleurs paris, Mon email, Activité web et Activité web anonyme. Si l’un de ces tableaux de bord est manquant, cliquez sur le signe + au-dessus de Ventes et ajoutez-les en tant que sous-zone.
 
-1. Cliquez sur un tableau de bord pour le sélectionner. Dans la colonne de droite, entrez les informations correspondantes ci-dessous pour chacune d’elles. Vous pouvez ignorer les catégories non répertoriées.
+1. Cliquez sur un tableau de bord pour le sélectionner. Dans la colonne de droite, saisissez les informations correspondantes ci-dessous pour chacune d’elles. Vous pouvez ignorer les catégories qui ne sont pas répertoriées.
 
-   **Meilleurs résultats**</br>
+   **Meilleurs paris**</br>
 URL : MainviewBestbets.html</br>
 Icône : /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
 ID : marketo_bestbets</br>
-Titre : Meilleurs résultats
+Titre : Meilleurs paris
 
-   **Mon e-mail**</br>
+   **Mon courriel**</br>
 URL : mkt_/MainViewMyEmail.html</br>
 Icône : /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
 ID : marketo_myemail</br>
-Titre : Mon e-mail
+Titre : Mon courriel
 
-   **Activité Web**</br>
+   **Activité web**</br>
 URL : mkt_/MainViewWebActivity.html</br>
 Icône : /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
 ID : marketo_webactivity</br>
-Titre : Activité Web
+Titre : Activité web
 
    **Activité Web anonyme**</br>
 URL : mkt_/MainViewWebActivity.html</br>
