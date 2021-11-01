@@ -3,9 +3,9 @@ description: Ajout ou suppression d’un utilisateur - Documents Marketo - Docum
 title: Ajout ou suppression d’un utilisateur
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Ajout d’un utilisateur {#add-a-user}
 
-1. Connectez-vous à [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Connectez-vous au [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-user-1.png)
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. Cliquez sur l’onglet **Utilisateurs** .
+1. Cliquez sur le bouton **Utilisateurs** .
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. Cliquez sur le bouton **Ajouter un utilisateur** .
+1. Cliquez sur le bouton **Ajouter un utilisateur** bouton .
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-6.png)
 
-1. Cliquez sur l’icône **+** et sélectionnez le profil de produit souhaité.
+1. Cliquez sur le bouton **+** et sélectionnez le profil de produit souhaité.
 
    ![](assets/add-or-remove-a-user-7.png)
 
@@ -48,9 +48,13 @@ ht-degree: 0%
 
 L’utilisateur recevra alors un e-mail pour se connecter à Marketo.
 
+>[!NOTE]
+>
+>Lorsque l’utilisateur est ajouté au Marketo Engage via Adobe Admin Console, il se voit attribuer le rôle &quot;Utilisateur standard&quot; dans l’espace de travail par défaut de l’abonnement. Si le rôle de l’utilisateur dans l’espace de travail doit être ajusté, cela se fait en Marketo Engage, [comme décrit ici](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
 ## Suppression d’un utilisateur {#remove-a-user}
 
-1. Connectez-vous à [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Connectez-vous au [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-user-9.png)
 
@@ -62,17 +66,19 @@ L’utilisateur recevra alors un e-mail pour se connecter à Marketo.
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. Cliquez sur l’onglet **Utilisateurs** .
+1. Cliquez sur le bouton **Utilisateurs** .
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. Sélectionnez l’utilisateur à supprimer, puis cliquez sur le bouton **Supprimer** .
+1. Sélectionnez l’utilisateur à supprimer, puis cliquez sur le bouton **Supprimer** bouton .
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. Cliquez sur **Supprimer l’utilisateur** pour confirmer.
+1. Cliquez sur **Supprimer un utilisateur** pour confirmer.
 
    ![](assets/add-or-remove-a-user-14.png)
+
+L’utilisateur reçoit alors un e-mail lui indiquant qu’il n’a plus accès à Marketo Engage en tant qu’administrateur de produit.
 
 >[!MORELIKETHIS]
 >
