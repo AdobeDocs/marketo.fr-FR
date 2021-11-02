@@ -3,53 +3,65 @@ description: Basculer entre - Documents Marketo - Documentation du produit
 title: Basculer entre les deux
 hide: true
 hidefromtoc: true
-source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
+source-git-commit: ff492d23f2660a66adfa392cf4fdfd8cb19d126a
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 1%
+source-wordcount: '221'
+ht-degree: 0%
 
 ---
 
 # Basculer entre les deux {#toggle-switch}
 
-Le bouton Basculer vous permet de basculer entre l’interface classique de Marketo et la nouvelle expérience de Marketo Engage de nouvelle génération. Elle est disponible en mode Liste des pages d’entrée et dans les pages Détails du formulaire.
+Le bouton Basculer vous permet de basculer entre l’interface classique de Marketo et la nouvelle expérience de Marketo Engage de nouvelle génération. Elle est disponible en mode Liste des pages d’entrée et sur les pages Détails du formulaire.
+
+>[!NOTE]
+>
+>Lorsque l’option Basculer vers l’interface utilisateur est sélectionnée, tous les workflows existants sont automatiquement enregistrés avant le changement de l’interface utilisateur. Si une opération est déjà en cours (ex : une ressource est en cours d’approbation), vous recevrez un message d’erreur l’indiquant comme telle et devrez réessayer une fois l’opération terminée.
 
 ## Mode Liste des pages d’entrée {#landing-page-list-view}
 
 Dans Marketo, sélectionnez **Design Studio**.
 
-PICC
+![](assets/toggle-switch-1.png)
 
 Sélectionner **Pages d’entrée**.
 
-PICC
+![](assets/toggle-switch-2.png)
 
 Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
 
-PICC
+![](assets/toggle-switch-3.png)
 
-Texte
+La nouvelle expérience se charge.
+
+![](assets/toggle-switch-4.png)
+
+>[!NOTE]
+>
+>La nouvelle vue Liste de la page d’entrée offre des filtres de recherche et la possibilité d’effectuer des actions de page d’entrée en masse.
 
 ## Page Détails du formulaire {#form-details-page}
 
 Dans Marketo, recherchez et sélectionnez votre formulaire.
 
-PICC
+![](assets/toggle-switch-5.png)
 
 Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
 
-PICC
+![](assets/toggle-switch-6.png)
 
-Texte
+La nouvelle expérience se charge.
 
-PICC
+![](assets/toggle-switch-7.png)
 
 ## Activation pour toutes les fonctionnalités {#enable-for-all-features}
 
 Vous avez la possibilité d’activer l’interface nouvelle génération de Marketo pour toutes les fonctionnalités disponibles, actuelles et à venir.
 
-Dans une zone qui possède actuellement le commutateur de basculement (dans cet exemple, nous sommes dans [Mode Liste des pages d’entrée](#landing-page-list-view)), cliquez sur l’icône d’engrenage dans le coin inférieur droit de la page.
+Dans une zone qui possède actuellement le commutateur de basculement (dans cet exemple, nous sommes dans [Page Détails du formulaire](#form-details-page)), cliquez sur l’icône d’engrenage dans le coin inférieur droit de la page.
 
-PICC
+![](assets/toggle-switch-8.png)
 
 Sélectionner **Activer pour toutes les fonctionnalités disponibles** et cliquez sur **OK**.
+
+![](assets/toggle-switch-9.png)
