@@ -1,9 +1,9 @@
 ---
 description: Demandes d’accès à des informations personnelles - Documents Marketo - Documentation du produit
 title: Demandes d’accès à des informations personnelles
-source-git-commit: 17e68ea00647dbfd98fde94827eb300804944511
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -189,3 +189,7 @@ Réponse JSON
   ]
 }
 ```
+
+>[!MORELIKETHIS]
+>
+>[Gestion de la confidentialité](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)

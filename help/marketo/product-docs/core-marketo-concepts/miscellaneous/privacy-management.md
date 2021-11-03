@@ -1,9 +1,9 @@
 ---
 description: Gestion de la confidentialité - Documents Marketo - Documentation du produit
 title: Gestion de la confidentialité
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Pour faciliter la préparation à la protection des données, Marketo Engage vou
 * Le **Droit d’accès** est le droit pour le titulaire de données d&#39;obtenir du contrôleur de données la confirmation que les données personnelles le concernant sont ou non traitées, où et à quelles fins. Le contrôleur de données doit fournir gratuitement une copie des données personnelles dans un format électronique.
 * Également appelé Effacement des données, la variable **Droit à l&#39;oubli** (demande de suppression) autorise le titulaire de données à demander au contrôleur de données d’effacer ses données personnelles, de cesser la diffusion des données et de faire cesser éventuellement le traitement des données par des tiers.
 
-Pour savoir comment créer des demandes d’accès et de suppression et comment les traiter, reportez-vous à la section [étapes de mise en oeuvre](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+Pour savoir comment créer des demandes d’accès/de suppression et comment les traiter, reportez-vous à la section [cet article](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
