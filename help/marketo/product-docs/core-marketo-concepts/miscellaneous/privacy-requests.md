@@ -1,9 +1,9 @@
 ---
 description: Demandes d’accès à des informations personnelles - Documents Marketo - Documentation du produit
 title: Demandes d’accès à des informations personnelles
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: 9d7fd72f4db90ad41cf24011960b2a5a3af7e456
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -12,14 +12,16 @@ ht-degree: 0%
 
 Ce document présente la gestion des demandes de confidentialité des données individuelles que vous pouvez envoyer à Marketo Engage par le biais de l’interface utilisateur du Privacy Service et de la **API Privacy Service**.
 
+>[!NOTE]
+>
+>Les demandes d’accès à des informations personnelles envoyées par le biais de l’interface utilisateur ou de l’API du Marketo Engage s’appliquent uniquement aux personnes qui disposent des éditions Marketo Engage + RT-CDP, B2B et B2P.
+
 Vous pouvez envoyer des requêtes individuelles pour accéder aux données des consommateurs et les supprimer du Marketo Engage de deux manières :
 
 * Par le biais de la [Interface utilisateur du Privacy Service](https://privacyui.cloud.adobe.io/). Consultez la documentation [here](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
 * Par le biais de la **API Privacy Service**. Consultez la documentation [here](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_api_tutorial.md) et la référence d’API [here](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
 
 Le [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) prend en charge deux types de requêtes : accès aux données et suppression des données.
-
-Remarque : Les demandes d’accès à des informations personnelles envoyées par le biais de l’interface utilisateur Privacy Service ou de l’API pour Marketo Engage s’appliquent uniquement aux clients qui disposent des éditions Marketo Engage + RT-CDP, B2B et B2P.
 
 Découvrez comment créer des demandes d’accès et de suppression.
 
@@ -45,7 +47,6 @@ b. Adresse électronique de la personne sur laquelle vous souhaitez agir
 
 “utilisateurs”:
 
-* &quot;key&quot;: `<Your Request Tracking Key>`   (facultatif)
 * &quot;action&quot; : both **access** ou **delete**
 * &quot;userIDs&quot; :
    * &quot;namespace&quot; : **email**
@@ -58,7 +59,7 @@ b. Adresse électronique de la personne sur laquelle vous souhaitez agir
 
 &quot;regulation&quot; :
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd** ou **nzpa**  (qui est la réglementation sur la confidentialité qui s’applique à la demande)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** ou **nzpa_nzl**  (qui est la réglementation sur la confidentialité qui s’applique à la demande)
 
 ## Exemple 1 : Demande de suppression RGPD {#gdpr-delete-request}
 
@@ -74,7 +75,6 @@ Requête JSON
   ],
   "users": [
     {
-      "key": "AAGDPRO1", 
       "action": [
         "delete"
       ],
@@ -105,7 +105,6 @@ Réponse JSON
       "jobId": "997b01e3-9568-402c-904b-b4e60a437875",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "delete"
           ],
@@ -139,7 +138,6 @@ Requête JSON
   ],
   "users": [
     {
-      "key": "AAGDPRO1",
       "action": [
         "access"
       ],
@@ -170,7 +168,6 @@ Réponse JSON
       "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "access"
           ],
