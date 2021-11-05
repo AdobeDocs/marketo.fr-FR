@@ -1,7 +1,7 @@
 ---
 description: Gestion de la confidentialité - Documents Marketo - Documentation du produit
 title: Gestion de la confidentialité
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: d33de522f07c4e95b93040dc3e8ffeec258a9ba2
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -14,7 +14,7 @@ Marketo Engage propose un ensemble d’outils pour vous aider à vous conformer 
 
 >[!NOTE]
 >
->Les demandes d’accès à des informations personnelles envoyées par le biais de l’interface utilisateur Privacy Service ou de l’API pour Marketo Engage s’appliquent uniquement aux clients qui disposent des éditions Marketo Engage + RT-CDP, B2B et B2P.
+>Les demandes d’accès à des informations personnelles envoyées par le biais de l’interface utilisateur ou de l’API du Marketo Engage s’appliquent uniquement aux personnes qui disposent des éditions Marketo Engage + RT-CDP, B2B et B2P.
 
 ## Règlements relatifs à la gestion de la confidentialité {#regulations-on-privacy-management}
 
