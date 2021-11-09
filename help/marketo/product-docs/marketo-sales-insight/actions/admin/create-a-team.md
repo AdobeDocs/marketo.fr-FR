@@ -3,14 +3,14 @@ description: Création d’une équipe - Documents Marketo - Documentation du pr
 title: Créer une équipe
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-# Créer une équipe {#create-a-team}
+# Créer une équipe {#creating-a-team}
 
 La création d’une équipe vous permet d’assembler un groupe d’utilisateurs avec lequel le contenu peut être partagé et par lequel les rapports peuvent être filtrés.
 
