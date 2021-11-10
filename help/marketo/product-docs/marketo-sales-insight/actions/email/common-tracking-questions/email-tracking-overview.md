@@ -3,10 +3,10 @@ description: Présentation du suivi des emails - Documentation Marketo - Documen
 title: Présentation du suivi des emails
 hide: true
 hidefromtoc: true
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: d8f7d7ddf804847e20bf978bf2fc74694b719009
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 0%
+source-wordcount: '194'
+ht-degree: 1%
 
 ---
 
@@ -24,9 +24,14 @@ Si Sales Connect ne peut pas suivre la réponse de votre prospect à votre email
 
 Cela signifie que si vous envoyez un email à flynn@flynnsarcade.com et qu’il répond avec kevinf@flynnsarcade.com, nous pouvons suivre la réponse. De plus, si vous envoyez des courriels à flynn@flynnsarcade.com et CC alan@encom.com, et qu&#39;Alan vous répond, il détectera également la réponse et mettra fin à la campagne.
 
-## Fonctionnement du suivi des réponses {#how-reply-tracking-works}
+## Comment effectuer le suivi de vos pièces jointes aux emails {#how-to-track-your-email-attachments}
 
 Texte
 
-## Comment effectuer le suivi de vos pièces jointes aux emails {#how-to-track-your-email-attachments}
+## Fonctionnement du suivi des vues {#how-view-tracking-works}
 
+Texte
+
+## Test de l’e-mail non affiché comme affiché {#test-email-not-showed-as-viewed}
+
+Texte
