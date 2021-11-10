@@ -3,9 +3,9 @@ description: Envoyer un segment Adobe Experience Platform vers une liste statiqu
 title: Envoi d’un segment Adobe Experience Platform vers une liste statique Marketo
 hidefromtoc: true
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,8 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
 >[!PREREQUISITES]
 >
->* [Créez un ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) utilisateur d’API dans Marketo.
->* Ensuite, accédez à **Admin** > **Point de lancement**. Recherchez le nom du rôle que vous venez de créer, puis cliquez sur **Afficher les détails**. Copiez et enregistrez les informations dans **ID client** et **Secret client**, car vous en aurez besoin pour cette fonctionnalité.
+>* [Création d’un utilisateur API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) dans Marketo.
+>* Ensuite, accédez à **Administration** > **Launchpoint**. Recherchez le nom du rôle que vous venez de créer, puis cliquez sur **Afficher les détails**. Copiez et enregistrez les informations dans **ID client** et **Secret du client**, car vous en aurez besoin pour cette fonctionnalité.
 
 
 1. Connectez-vous à [Adobe Experience Platform](https://experience.adobe.com/).
@@ -36,27 +36,27 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-4.png)
 
-1. Recherchez la mosaïque du Marketo Engage et cliquez sur **Activer les segments**.
+1. Recherchez la mosaïque Marketo Engage et cliquez sur **Activation des segments**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-5.png)
 
-1. Cliquez sur **Configurer une nouvelle destination**.
+1. Cliquez sur **Configuration d’une nouvelle destination**.
 
    PICC
 
-1. Sous Type de compte, cliquez sur le bouton radio **Nouveau compte** . Saisissez vos informations d’identification Marketo et cliquez sur **Se connecter à la destination**.
+1. Sous Type de compte, cliquez sur le bouton **Nouveau compte** bouton radio. Saisissez vos informations d’identification Marketo et cliquez sur **Connexion à la destination**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-6.png)
 
    >[!NOTE]
    >
-   >Vous pouvez trouver votre Munchkin ID en accédant à **Admin** > **Munchkin** (il fait également partie de votre URL Marketo une fois connecté). Identifiant du client/secret que vous devez posséder en suivant les conditions préalables dans la partie supérieure de cet article.
+   >Vous pouvez trouver votre Munchkin ID en accédant à **Administration** > **Munchkin** (il fait également partie de votre URL Marketo une fois connecté). Identifiant du client/secret que vous devez posséder en suivant les conditions préalables dans la partie supérieure de cet article.
 
 1. &quot;Connecté&quot; doit apparaître sous vos informations d’identification. Cliquez sur **Suivant** dans le coin supérieur droit.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-7.png)
 
-1. Saisissez un **Nom** et une _description_ facultative. Cliquez sur **Créer la destination**.
+1. Saisissez un **Nom** et un _facultatif_ Description. Cliquez sur **Création d’une destination**.
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-9.png)
 
-1. Choisissez le segment souhaité, puis cliquez sur **Suivant**.
+1. Sélectionnez le segment de votre choix, puis cliquez sur **Suivant**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-10.png)
 
@@ -84,15 +84,15 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-12.png)
 
-1. Sélectionnez le bouton radio **Sélectionner les attributs** ou **Sélectionner un espace de noms d’identité** (dans cet exemple, nous choisissons des attributs).
+1. Choisissez l’une des options suivantes : **Sélectionner des attributs** ou **Sélectionner un espace de noms d’identité** Bouton radio (dans cet exemple, nous choisissons Attributs).
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-13.png)
 
    >[!NOTE]
    >
-   >Si vous choisissez **Sélectionner un espace de noms d’identité**, passez à l’étape 15 après avoir effectué votre sélection.
+   >Si vous choisissez **Sélectionner un espace de noms d’identité**, après avoir effectué votre sélection, passez à l’étape 15.
 
-1. Sélectionnez le champ approprié qui contient l’adresse électronique qui identifie l’utilisateur. Cliquez sur **Sélectionner** lorsque vous avez terminé.
+1. Sélectionnez le champ approprié qui contient l’adresse électronique qui identifie l’utilisateur. Cliquez sur **Sélectionner** une fois terminé.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-14.png)
 
@@ -106,13 +106,21 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-16.png)
 
-1. Sélectionnez votre champ cible et cliquez sur **Sélectionner**.
+1. Choisir **Sélectionner un espace de noms d’identité**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-17.png)
 
-1. Cliquez sur **Suivant**.
+   >[!IMPORTANT]
+   >
+   >Le mappage des attributs est facultatif. Mappage de l’e-mail et/ou de l’ECID à partir de **Espace de noms d’identité** est la chose la plus importante à faire pour s’assurer que la personne correspond dans Marketo. Mapping Email garantit le taux de correspondance le plus élevé.
+
+1. Choisissez entre ECID ou Email. Dans cet exemple, nous choisissons **Email**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-18.png)
+
+1. Cliquez sur **Suivant**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
@@ -120,16 +128,16 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
 1. _Dans Marketo_, créez une liste statique ou recherchez et sélectionnez-en une que vous avez déjà créée. Copiez l’ID de mappage à partir de la fin de l’URL.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
 
    >[!NOTE]
    >
    >Pour de meilleurs résultats, assurez-vous que la liste que vous référencez dans Marketo est vide.
 
-1. De retour dans Adobe Experience Platform, saisissez l’identifiant que vous venez de copier. Sélectionnez votre Date de début. Les utilisateurs se synchronisent en permanence jusqu’à la date de fin choisie. Pour une synchronisation indéfinie, laissez la date de fin vide. Cliquez sur **Suivant** lorsque vous avez terminé.
+1. De retour dans Adobe Experience Platform, saisissez l’identifiant que vous venez de copier. Sélectionnez votre Date de début. Les utilisateurs se synchronisent en permanence jusqu’à la date de fin choisie. Pour une synchronisation indéfinie, laissez la date de fin vide. Cliquez sur **Suivant** une fois terminé.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)
 
 1. Confirmez vos modifications et cliquez sur **Terminer**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-22.png)
