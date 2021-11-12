@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '7981'
+source-wordcount: '8041'
 ht-degree: 5%
 
 ---
@@ -1269,6 +1269,25 @@ ht-degree: 5%
             + [Mes champs dynamiques ne se remplissent pas](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [Référence dans un champ dynamique](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
+      + Actions {#actions}
+         + Administration {#admin}
+            + [Domaines bloqués](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [Verrouillage de contenu](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
+            + [Créer une équipe](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [Configuration du suivi de domaine personnalisé](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
+            + [Invitation d’utilisateurs et d’administrateurs](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [Paramètres de partage](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+         + Adresse e-mail {#email}
+            + Centre de contrôle {#command-center}
+               + [Aperçu de la recherche avancée](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
+               + [Affectation de tâches aux membres de l’équipe](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
+               + [Présentation du centre de commandes](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+               + [Colonnes de courrier électronique et mise en page de la page de courrier électronique](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
+               + [Actions rapides dans le Centre de commandes](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+         + Paramètres e-mail {#email-settings}
+            + [Vérifier votre e-mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Envoyer un e-mail de vente {#send-a-sales-email}
+            + [Présentation du suivi des emails](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + Utilisation de MSI {#using-msi}
          + [Connexion au courrier entrant à partir de vos pistes dans Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + Module externe MSI Chrome {#msi-chrome-plugin}
@@ -1297,7 +1316,7 @@ ht-degree: 5%
             + [Configuration des étoiles et des flammes pour les enregistrements de piste/contact](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
          + Désinstallation {#uninstalling}
             + [Désactiver la synchronisation globale MS Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
-            + [Désinstaller MSI de votre instance MS Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
+            + [Désinstallation de MSI à partir de votre instance MS Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + Mise à jour de {#updating}
             + [Mise à niveau de la solution Marketo Sales Insight pour Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI pour Salesforce {#msi-for-salesforce}
@@ -1642,7 +1661,7 @@ ht-degree: 5%
          + [Création d’un segment web de base](product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
          + [Création d’un segment à l’aide d’une liste statique](product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)
          + [Création d’un segment à l’aide de données de personne connues](product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
-         + [Recherche de campagnes Web utilisant un segment spécifique](product-docs/web-personalization/using-web-segments/find-web-campaigns-that-are-using-a-specific-segment.md)
+         + [Rechercher les campagnes web qui utilisent un segment spécifique](product-docs/web-personalization/using-web-segments/find-web-campaigns-that-are-using-a-specific-segment.md)
          + [Étiqueter votre segment](product-docs/web-personalization/using-web-segments/label-your-segment.md)
          + [Gérer les données personnelles](product-docs/web-personalization/using-web-segments/manage-person-data.md)
          + [Affichage de segments à partir d’une étiquette spécifique](product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
