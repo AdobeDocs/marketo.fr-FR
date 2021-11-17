@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
+source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
 workflow-type: tm+mt
-source-wordcount: '8050'
+source-wordcount: '8057'
 ht-degree: 5%
 
 ---
@@ -1285,6 +1285,9 @@ ht-degree: 5%
                + [Présentation du centre de commandes](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [Colonnes de courrier électronique et mise en page de la page de courrier électronique](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [Actions rapides dans le Centre de commandes](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+            + Désabonnements {#unsubscribes}
+               + [Présentation du désabonnement](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
+               + [Personnalisation du message de lien de désabonnement](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
          + Paramètres e-mail {#email-settings}
             + [Vérifier votre e-mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
