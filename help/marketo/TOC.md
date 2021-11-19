@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
-source-wordcount: '8057'
+source-wordcount: '8068'
 ht-degree: 5%
 
 ---
@@ -1288,12 +1288,16 @@ ht-degree: 5%
             + Désabonnements {#unsubscribes}
                + [Présentation du désabonnement](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Personnalisation du message de lien de désabonnement](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
+               + [Vérification du désabonnement par Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+               + [Synchronisation des désabonnements avec Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + Paramètres e-mail {#email-settings}
             + [Vérifier votre e-mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
             + [Octroi de l’accès à Marketo aux utilisateurs](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Envoyer un e-mail de vente {#send-a-sales-email}
             + [Présentation du suivi des emails](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
+         + Modèles {#templates}
+            + [Gestion des catégories de modèles](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
       + Utilisation de MSI {#using-msi}
          + [Connexion au courrier entrant à partir de vos pistes dans Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + Module externe MSI Chrome {#msi-chrome-plugin}

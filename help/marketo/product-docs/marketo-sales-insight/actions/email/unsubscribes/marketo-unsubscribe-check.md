@@ -1,0 +1,42 @@
+---
+description: Vérification du désabonnement Marketo - Documents Marketo - Documentation du produit
+title: Vérification du désabonnement par Marketo
+hide: true
+hidefromtoc: true
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 4%
+
+---
+
+# Vérification du désabonnement par Marketo {#marketo-unsubscribe-check}
+
+La vérification de désabonnement de Marketo utilise la connexion de votre équipe à Marketo pour empêcher les courriers électroniques d’atteindre les personnes qui sont désabonnées dans le système de gestion des prospects Marketo. Lorsqu’un utilisateur commercial envoie un courrier électronique avec les ventes Marketo, un appel API est effectué à Marketo pour vérifier si l’ID de courrier électronique est désabonné. Si c&#39;est le cas, nous empêcherons l&#39;envoi de l&#39;email.
+
+>[!NOTE]
+>
+>**Autorisations d’administrateur requises**
+
+## Activation {#turning-it-on}
+
+1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+
+   ![](assets/marketo-unsubscribe-check-1.png)
+
+1. Sous Paramètres d’administration, cliquez sur **Désabonne**.
+
+   ![](assets/marketo-unsubscribe-check-2.png)
+
+1. Cliquez sur le bouton **Intégrations** . Dans la section Vérifier le désabonnement de Marketo , cliquez sur le curseur pour activer la vérification.
+
+   ![](assets/marketo-unsubscribe-check-3.png)
+
+## Informations à connaître {#things-to-know}
+
+Le contrôle Désabonnement de Marketo...
+
+* Ne tient pas compte des limites de votre API
+* Nécessite l’établissement d’une connexion Marketo
+* est un paramètre global ;
+* Blocage les emails envoyés à partir de l’application web, des clients de messagerie et de Salesforce.

@@ -3,10 +3,10 @@ description: Verrouillage de contenu - Documents Marketo - Documentation du prod
 title: Verrouillage de contenu
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 3%
+source-wordcount: '100'
+ht-degree: 4%
 
 ---
 
@@ -18,7 +18,7 @@ En activant le verrouillage du contenu, limitez la modification des modèles et/
 >
 >Les utilisateurs pourront toujours éditer le contenu d&#39;un email au moment de l&#39;envoi ou lors du lancement d&#39;une campagne.
 
-1. Dans le [application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/content-lockdown-1.png)
 
