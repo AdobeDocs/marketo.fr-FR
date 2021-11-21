@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7516390
-description: Installer le package Marketing Sales Insight dans l'AppExchange Salesforce - Marketo Docs - Documentation du produit
-title: Installation du package Marketing Cloud Sales Insight dans l’AppExchange Salesforce
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+description: Installation du package Marketo Sales Insight dans l’AppExchange Salesforce - Documents Marketo - Documentation du produit
+title: Installation du package Marketo Sales Insight dans l’AppExchange Salesforce
+exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
+source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
+# Installation du package Marketo Sales Insight dans l’AppExchange Salesforce {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 
-# Installer le progiciel Marketo Sales Insight dans l&#39;AppExchange Salesforce {#install-marketo-sales-insight-package-in-salesforce-appexchange}
-
-Vous devez installer l&#39;application Marketing Sales Insight dans votre abonnement Salesforce avant de pouvoir profiter de tous les avantages offerts par Sales Insight. Voici comment.
+Vous devez installer l’application Marketo Sales Insight dans votre abonnement Salesforce avant de pouvoir profiter de tous les avantages de Sales Insight. Voici comment.
 
 >[!NOTE]
 >
@@ -21,59 +20,59 @@ Vous devez installer l&#39;application Marketing Sales Insight dans votre abonne
 
 >[!NOTE]
 >
->Marketo Sales Insight est compatible avec le cryptage de plate-forme Salesforce (Shield).
+>Marketo Sales Insight est compatible avec le chiffrement Salesforce Platform (Shield).
 
-1. Accédez à la page [AppExchange pour le module Marketing Sales Insight](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) et cliquez sur **Obtenir maintenant**.
+1. Accédez au [Page d’AppExchange pour Marketo Sales Insight](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) et cliquez sur **Obtenir maintenant**.
 
-   ![](assets/one.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
-1. Cliquez sur **Connectez-vous au bouton AppExchange** et connectez-vous avec vos identifiants Salesforce.
+1. Cliquez sur **Connexion à l’AppExchange** et connectez-vous à l’aide de vos informations d’identification Salesforce.
 
-1. Entrez votre compte Salesforce connecté et cliquez sur **Installer dans Production**.
+1. Entrez votre identifiant de compte Salesforce connecté et cliquez sur **Installation en production**.
 
    ![](assets/three.png)
 
    >[!TIP]
    >
-   >Si vous souhaitez d’abord le tester dans votre sandbox, choisissez **Installer dans Sandbox**.
+   >Si vous souhaitez d’abord le tester dans votre environnement de test, sélectionnez **Installation dans Sandbox**.
 
-1. Lisez et acceptez les termes et conditions, puis cliquez sur **Confirmer et installer**.
+1. Lisez et acceptez les conditions générales, puis cliquez sur **Confirmation et installation**.
 
    ![](assets/four.png)
 
-1. Vous pouvez choisir &quot;Installer pour les administrateurs uniquement&quot; (et fournir un accès MSI à des profils spécifiques ultérieurement), &quot;Installer pour tous les utilisateurs&quot; ou &quot;Installer pour des Profils spécifiques&quot;.
+1. Vous pouvez choisir &quot;Installation pour administrateurs uniquement&quot; (et accorder ultérieurement l’accès MSI à des profils spécifiques), &quot;Installation pour tous les utilisateurs&quot; ou &quot;Installation pour des profils spécifiques&quot;.
 
    ![](assets/five.png)
 
-1. Le message suivant peut s’afficher une fois que vous avez début au processus d’installation. Vous recevrez un courriel une fois l&#39;installation terminée. Cliquez sur **Terminé** pour ignorer.
+1. Le message suivant peut s’afficher une fois le processus d’installation démarré. Une fois l’installation terminée, vous recevrez un e-mail. Cliquez sur **Terminé** à congédier.
 
    ![](assets/six.png)
 
-1. Vérifiez que **Marketo Sales Insight** se trouve dans les packages installés.
+1. Vérifiez que **Marketo Sales Insight** se trouve dans les modules installés.
 
    ![](assets/seven.png)
 
-1. Cliquez sur **Configuration** en regard de votre nom.
+1. Cliquez sur **Configuration** à côté de votre nom.
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. Recherchez &quot;objets&quot;, puis cliquez sur **Objets** sous **Créer**.
+1. Recherchez &quot;objets&quot;, puis cliquez sur **Objets** under **Créer**.
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
-1. Vérifiez par doublon que **Déployé** est vérifié pour tous les éléments de Marketing Sales Insight.
+1. Vérifiez que **Déployé** est vérifié pour tous les éléments d’aperçu de vente Marketo.
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
-1. Si un objet n’est pas déployé, cliquez sur **Modifier** en regard de l’élément.
+1. Si un objet n’est pas déployé, cliquez sur **Modifier** en regard de l’élément .
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
-1. Sous **État du déploiement**, sélectionnez **Déployé**, puis cliquez sur **Enregistrer**.
+1. Sous **État du déploiement** , sélectionnez **Déployé**, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-24-17-3a24-3a0.png)
 
-Super boulot ! Vous avez maintenant installé et déployé Marketo Sales Insight. Allez-y et configurez-le pour votre équipe commerciale et regardez la montée en flèche des ventes.
+Bon boulot ! Vous avez maintenant installé et déployé Marketo Sales Insight. Allez-y et configurez-le pour votre équipe commerciale et regardez la montée en flèche des ventes.
 
 >[!MORELIKETHIS]
 >
