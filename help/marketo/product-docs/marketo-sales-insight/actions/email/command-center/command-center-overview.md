@@ -3,9 +3,9 @@ description: Présentation du centre de commandes - Documents Marketo - Document
 title: Présentation du centre de commandes
 hide: true
 hidefromtoc: true
-source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '488'
 ht-degree: 3%
 
 ---
@@ -18,7 +18,7 @@ Le Centre de commandes est une vue unique et unifiée qui vous aide à détermin
 
 La section Email du Centre de commandes vous permet de gérer l’ensemble de votre activité de messagerie. Considérez-le comme votre boîte d’envoi de courrier électronique pour consulter les courriers électroniques envoyés depuis Sales Connect. Gérez vos emails planifiés, découvrez qui a interagi avec vos emails, vérifiez s’il y a eu des problèmes avec la diffusion de vos emails, etc.
 
-PICC
+![](assets/command-center-overview-1.png)
 
 La section email vous donne une vue d’ensemble de vos emails et simplifie leur organisation avec de Principaux onglets et sous-onglets qui agissent comme des dossiers où vos emails sont automatiquement stockés en fonction de leur état.
 
@@ -73,7 +73,7 @@ La section email vous donne une vue d’ensemble de vos emails et simplifie leur
 
 La section Tâches est votre guichet unique pour la gestion et l’exécution des tâches. Ici, vous pouvez gérer facilement vos tâches afin d’augmenter votre productivité et rester concentré sur les éléments les plus pertinents.
 
-PICC
+![](assets/command-center-overview-2.png)
 
 ## Suivi des projets actifs {#follow-up-with-engaged-prospects}
 
