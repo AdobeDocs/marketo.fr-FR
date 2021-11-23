@@ -3,10 +3,10 @@ description: Gérer les modèles - Documents Marketo - Documentation du produit
 title: 'Gestion des modèles '
 hide: true
 hidefromtoc: true
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 0%
+source-wordcount: '523'
+ht-degree: 1%
 
 ---
 
@@ -33,6 +33,31 @@ ht-degree: 0%
 >[!TIP]
 >
 >Saisissez toujours du texte directement dans le modèle ou effectuez une copie à partir d’un éditeur de texte brut (Bloc-notes ou TextEdit, par exemple). La copie et le collage à partir d’un éditeur de texte enrichi (par exemple, MS Word) peuvent entraîner des irrégularités de mise en forme.
+
+## Afficher les détails du modèle {#view-template-details}
+
+La zone Détails du modèle contient plusieurs onglets.
+
+![](assets/manage-templates-4a.png)
+
+<table>
+ <tr>
+  <td><strong>Modèle</strong></td>
+  <td>Réviser et apporter des modifications, configurer des critères pour faire du modèle un modèle recommandé, ajouter des notes</td>
+ </tr>
+ <tr>
+  <td><strong>Analytics</strong></td>
+  <td>Examinez les analyses de l’engagement pour le modèle. Effectuez une recherche filtrée.</td>
+ </tr>
+ <tr>
+  <td><strong>E-mails</strong></td>
+  <td>Afficher tous les emails envoyés à l'aide de ce modèle. Effectuez une recherche filtrée.</td>
+ </tr>
+ <tr>
+  <td><strong>Campagnes</strong></td>
+  <td>Identifiez les campagnes dans lesquelles le modèle est utilisé.</td>
+ </tr>
+</table>
 
 ## Partage d’un modèle {#share-a-template}
 
@@ -92,9 +117,17 @@ Dans la **Affichage** , vous pouvez choisir d’afficher : tous les modèles, vo
 
 Archivez des modèles pour organiser et cibler le contenu de vos ventes sans perdre les données de modèle.
 
-Cochez la case en regard d’un modèle et cliquez sur **Archiver**.
+1. Cochez la case en regard du modèle que vous souhaitez archiver.
 
-PICC
+   ![](assets/manage-templates-14.png)
+
+1. Cliquez sur **Archiver**.
+
+   ![](assets/manage-templates-15.png)
+
+1. Cliquez sur **Archiver** pour confirmer.
+
+   ![](assets/manage-templates-16.png)
 
 >[!NOTE]
 >
@@ -110,14 +143,14 @@ Suivez les étapes ci-dessous pour supprimer un modèle.
 >
 >La suppression d’un modèle entraîne également la suppression de TOUS les outils de suivi et d’analyse qui lui sont associés.
 
-1. Sélectionnez le modèle à supprimer.
+1. Cochez la case en regard du modèle que vous souhaitez supprimer.
 
-PICC
+   ![](assets/manage-templates-17.png)
 
-1. Cliquez sur le menu déroulant en haut à droite, puis cliquez sur **Supprimer**.
+1. Cliquez sur **Supprimer**.
 
-PICC
+   ![](assets/manage-templates-18.png)
 
 1. Cliquez sur **Supprimer** pour confirmer.
 
-PICC
+   ![](assets/manage-templates-19.png)
