@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Définition de règles de segment - Documents Marketo - Documentation du produit
 title: Définition de règles de segment
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ La définition de règles de segment vous permet de classer vos personnes en dif
 
    >[!CAUTION]
    >
-   >Nous vous conseillons _against_ l’utilisation des champs Compte lors de la définition de règles de segment, car cela peut entraîner des problèmes de journalisation des activités.
+   >Le comportement de journalisation des activités des champs Compte peut avoir une incidence sur la qualification. Par conséquent, nous vous déconseillons d’utiliser les champs Compte lors de la définition de règles de segment.
 
 1. Cliquez sur le bouton **Personnes (version préliminaire)** pour afficher les personnes qui peuvent être incluses dans ce segment.
 

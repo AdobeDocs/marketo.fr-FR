@@ -3,9 +3,9 @@ description: Présentation du canal de diffusion - Documents Marketo - Documenta
 title: Présentation du canal de diffusion
 hide: true
 hidefromtoc: true
-source-git-commit: 3b7cc0c855221f6fd0fba6dca08ccbe361ca9758
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,12 @@ En outre, les fournisseurs SMTP tiers offrent une pléthore de fonctionnalités 
 Les serveurs de vente Marketo ne sont disponibles que pour certains clients hérités de ToutApp. Ces clients verront les serveurs de vente Marketo disponibles dans leurs paramètres de messagerie. Tous les clients non hérités ne verront pas les ventes Marketo comme une option et doivent connecter leur compte Gmail ou Outlook aux ventes Marketo pour déverrouiller un canal de diffusion.
 
 Les serveurs de vente Marketo ne prennent pas en charge les méthodes d’authentification DKIM et SPF, ce qui peut réduire le taux de délivrabilité. C’est pourquoi nous recommandons à tous les clients de se connecter à Gmail ou Outlook pour une meilleure délivrabilité.
+
+## Serveurs MSC (hérités) {#msc-servers-legacy}
+
+Les serveurs du SMC ne sont disponibles que pour certains clients hérités de ToutApp. Ces clients verront les serveurs MSC disponibles dans leurs paramètres de messagerie. Tous les clients non hérités ne verront pas le MSC comme une option et doivent connecter leur compte Gmail ou Outlook à Sales Connect pour déverrouiller un canal de diffusion.
+
+Les serveurs du MSC ne prennent pas en charge les méthodes d&#39;authentification DKIM et SPF, ce qui peut réduire le taux de délivrabilité. C’est pourquoi nous recommandons à tous les clients de se connecter à Gmail ou Outlook pour une meilleure délivrabilité.
 
 ## Serveurs Marketo {#marketo-servers}
 
