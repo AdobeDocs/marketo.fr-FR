@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
+source-git-commit: 74b5928ab8e8b7cb39261fdedce51f6aad7c400f
 workflow-type: tm+mt
 source-wordcount: '8097'
 ht-degree: 5%
@@ -1295,9 +1295,9 @@ ht-degree: 5%
                + [Vérification du désabonnement par Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Synchronisation des désabonnements avec Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + Diffusion Email {#email-delivery}
-            + [Présentation du canal de diffusion](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
-            + [Limitation de la connexion aux e-mails](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
-            + [Configuration d’un canal de diffusion personnalisé](product-docs/marketo-sales-insight/actions/email-settings/setting-up-a-custom-delivery-channel.md)
+            + [Présentation du canal de diffusion](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [Limitation de la connexion aux e-mails](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [Configuration d’un canal de diffusion personnalisé](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Paramètres e-mail {#email-settings}
             + [Vérifier votre e-mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
