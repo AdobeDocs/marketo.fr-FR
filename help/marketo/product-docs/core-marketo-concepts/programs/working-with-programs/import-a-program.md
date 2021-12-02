@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importation d’un programme - Documents Marketo - Documentation du produit
 title: Importation d’un programme
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
+source-git-commit: cb14f5c16164eb2167a13d493cd48ed0fec263a9
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '881'
 ht-degree: 0%
 
 ---
@@ -20,29 +20,29 @@ Un programme peut être importé d&#39;un abonnement Marketo vers un autre. Par 
 
    ![](assets/ma.png)
 
-1. Cliquez sur la liste déroulante **Nouvelle** . Sélectionnez **Programme d’importation**.
+1. Cliquez sur **Nouveau** déroulant. Sélectionner **Programme d’importation**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >L’importation de programme n’est disponible que pour les utilisateurs pour lesquels l’autorisation Importer un programme est activée. En savoir plus sur la [gestion des rôles et des autorisations des utilisateurs](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >L’importation de programme n’est disponible que pour les utilisateurs pour lesquels l’autorisation Importer un programme est activée. En savoir plus sur [gestion des rôles utilisateur et des autorisations](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >Pour connecter un compte sandbox à votre abonnement en direct, contactez le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Pour connecter un compte sandbox à votre abonnement en direct, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Sélectionnez une Marketo **Abonnement** et un programme à importer. Cliquez sur **Suivant**.
+1. Sélection d’une Marketo **Abonnement** et un programme à importer. Cliquez sur **Suivant**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
-1. Spécifiez un **dossier Campaign** pour le programme importé. Cliquez sur **Suivant.**
+1. Spécifiez un **Dossier Campaign** pour le programme importé. Cliquez sur **Suivant.**
 
    ![](assets/image2014-9-17-12-3a20-3a44.png)
 
    >[!NOTE]
    >
-   >Assurez-vous que les **règles Utiliser le conflit par défaut** sont sélectionnées. Des règles de conflit sont nécessaires lorsque vous importez des programmes dans une instance dont les ressources portent le même nom.
+   >Assurez-vous de **Utiliser le conflit par défaut** règles est sélectionnée. Des règles de conflit sont nécessaires lorsque vous importez des programmes dans une instance dont les ressources portent le même nom.
 
-1. Prévisualisez les détails et **importez** le programme.
+1. Aperçu des détails et **Importer** le programme.
 
    ![](assets/image2014-9-17-12-3a21-3a36.png)
 
@@ -85,22 +85,20 @@ La bibliothèque de programmes Marketo contient des programmes prédéfinis et t
 
 Les programmes utilisent des ressources externes telles que des modèles d’email, des modèles de landing page, des images, des formulaires, des jetons et des balises de programme. Vous pouvez configurer la manière dont les modèles de landing page et les balises de programme sont traités, et Marketo gère automatiquement le reste.
 
-**Modèles de courrier électronique :** les modèles de courrier électronique sont automatiquement importés et créés, sauf s’il en existe un portant le même nom.
+**Modèles de courrier électronique/page d’entrée :** Les modèles Email/Landing Page sont importés dans Design Studio. Vous pouvez utiliser des règles de conflit pour configurer le comportement lorsqu’il existe un modèle portant le même nom. Avec la règle par défaut, un nombre sera ajouté à un modèle s’il existe un modèle portant le même nom. Par exemple, si vous disposez déjà d’un modèle nommé &quot;Modèle standard&quot;, le nouveau modèle s’intitule &quot;Modèle standard 1&quot;.
 
-**Modèles de page d’entrée :** les modèles de page d’entrée sont importés dans le studio de conception. Vous pouvez utiliser des règles de conflit pour configurer le comportement lorsqu’il existe un modèle portant le même nom. En utilisant la règle par défaut, un nombre sera ajouté à un modèle de landing page s&#39;il en existe un portant le même nom. Par exemple, un modèle de page d’entrée nommé Modèle standard 1 sera créé s’il existe un modèle standard.
+**Images :** Les images utilisées par les landing pages sont importées dans le studio de conception, sauf si elles portent le même nom.
 
-**Images :**  les images utilisées par les landing pages sont importées dans l’atelier de conception, sauf si elles portent le même nom.
-
-**Jetons :** les jetons situés en dehors d’un programme seront convertis en jetons locaux au cours du processus d’importation.
+**Jetons :** Les jetons qui se trouvent en dehors d’un programme sont convertis en jetons locaux lors du processus d’importation.
 
 >[!CAUTION]
 >
->Le type d’image que mes jetons ne sont pas pris en charge pour les importations de programme. Si un programme avec un type d’image mes jetons est importé, les jetons **no** passeront.
+>Le type d’image que mes jetons ne sont pas pris en charge pour les importations de programme. Si un programme de type image mes jetons est importé, **non** les jetons passeront.
 
-**Balises de programme :** vous pouvez utiliser des règles de conflit pour contrôler la manière dont seront traitées les balises de programme qui n’existent pas dans le compte de destination. L’utilisation de la règle par défaut crée les balises de programme ou vous pouvez choisir d’ignorer les balises.
+**Balises de programme :** Vous pouvez utiliser des règles de conflit pour contrôler la manière dont les balises de programme qui n’existent pas dans le compte de destination seront traitées. L’utilisation de la règle par défaut crée les balises de programme ou vous pouvez choisir d’ignorer les balises.
 
-**Forms :** les formulaires externes seront automatiquement importés dans l’atelier de conception, sauf s’il en existe un portant le même nom.
+**Forms :** Les formulaires externes seront automatiquement importés dans le studio de conception, sauf s’il en existe un portant le même nom.
 
 >[!CAUTION]
 >
->Lors de l&#39;import d&#39;un programme, les landing pages/emails contenant [contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) seront ignorés.
+>Lors de l&#39;import d&#39;un programme, les emails/landing pages contenant [contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) sera ignorée.
