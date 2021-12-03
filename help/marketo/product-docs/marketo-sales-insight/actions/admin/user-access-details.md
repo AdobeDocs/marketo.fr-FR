@@ -3,9 +3,9 @@ description: Détails de l’accès utilisateur - Documents Marketo - Documentat
 title: Détails de l’accès utilisateur
 hide: true
 hidefromtoc: true
-source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Les administrateurs peuvent voir toutes les personnes participant à une campagn
 
 ![](assets/user-access-details-4.png)
 
-Tous les enregistrements de personnes sont accessibles dans le groupe Tout le monde .
+Les administrateurs peuvent afficher les campagnes des utilisateurs et les catégories de campagne à l’aide de la liste déroulante Afficher sous .
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,12 @@ Les administrateurs peuvent arrêter les campagnes pour le compte des utilisateu
    * Les utilisateurs peuvent uniquement analyser les équipes auxquelles ils appartiennent.
    * Les utilisateurs peuvent consulter leurs propres analyses.
 
-* Page Relations :
+* Page Personnes :
 
    * Les utilisateurs peuvent partager des groupes avec tout le monde
    * Les utilisateurs peuvent partager des groupes avec les équipes auxquelles ils appartiennent.
+   * Les utilisateurs auront une visibilité sur toutes les personnes de votre base de données Actions
    * Lorsqu’un utilisateur est supprimé, ses contacts partagés transfèrent la propriété à l’administrateur de Principal qui l’a supprimé.
-
-* Délai de vente : flux suivant et réel :
-
-   * Les utilisateurs peuvent afficher la vue &quot;Tous&quot;
-   * Les utilisateurs peuvent filtrer par équipe à laquelle ils appartiennent.
-   * L’utilisateur peut partager des publications avec tout le monde.
-   * Les utilisateurs peuvent partager des publications avec la ou les équipes auxquelles ils appartiennent.
 
 * Page Gestion des équipes :
 

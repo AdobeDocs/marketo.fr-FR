@@ -3,14 +3,14 @@ description: Puis-je effectuer le suivi de plusieurs destinataires avec CC/Cci -
 title: Puis-je effectuer le suivi de plusieurs destinataires avec CC/Cci
 hide: true
 hidefromtoc: true
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Puis-je effectuer le suivi de plusieurs destinataires avec CC/Cci {#can-i-track-multiple-recipients-with-cc-bcc}
+# Puis-je effectuer le suivi de plusieurs destinataires avec CC/Cci ? {#can-i-track-multiple-recipients-with-cc-bcc}
 
 Vous pouvez utiliser des personnes CC et Cci comme vous le feriez normalement sur vos emails.
 

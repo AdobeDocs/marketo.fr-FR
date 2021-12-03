@@ -3,17 +3,39 @@ description: Configuration du suivi de domaine personnalisé - Documents Marketo
 title: Configuration du suivi de domaine personnalisé
 hide: true
 hidefromtoc: true
-source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Configuration du suivi de domaine personnalisé {#how-to-set-up-custom-domain-tracking}
 
-Nous vous offrons la possibilité de configurer le suivi personnalisé des domaines pour vos liens. Ainsi, lorsque quelqu’un survole un lien, il le lit. `go.yourcompany.com` au lieu de `go.toutapp.com`.
+Le suivi de domaine personnalisé permet à votre équipe d’utiliser le nom de votre propre société dans tous les liens pouvant faire l’objet d’un suivi ajoutés à vos e-mails de vente. Une fois cette configuration effectuée, nous placerons sur la liste autorisée tout lien contenu dans votre email qui apparaîtra sous la forme go.yourcompany.com. Ainsi, lorsque quelqu’un survole un lien, celui-ci lira go.yourcompany.com au lieu de go.toutapp.com.
 
-Pour configurer cette configuration, votre administrateur informatique doit suivre les étapes répertoriées dans notre [page paramètres](https://toutapp.com/next#settings/admin/tracking).
+Vous aurez besoin de l’aide de votre équipe informatique pour configurer un enregistrement CNAME pour votre domaine qui pointe vers go.toutapp.com. Ce CNAME s’affiche sur tous les liens de suivi (par exemple, go.yourcompany.com).
 
-Une fois cette configuration effectuée, nous placerons sur la liste autorisée tout lien contenu dans votre email comme `go.yourcompany.com`.
+Une fois que vous avez confirmé auprès de votre équipe informatique que le CNAME est correctement configuré, vous pouvez l’ajouter à la page Suivi des domaines personnalisés dans Actions.
+
+>[!NOTE]
+>
+>Si votre CNAME n’est pas configuré correctement et que vous l’activez en tant que domaine personnalisé dans Actions, il peut rompre les liens de suivi et les pixels.
+
+## Activation du suivi de domaine personnalisé {#enable-custom-domain-tracking}
+
+>[!NOTE]
+>
+>**Droits d’administrateur requis.**
+
+1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+
+   ![](assets/how-to-set-up-custom-domain-tracking-1.png)
+
+1. Sous Paramètres d’administration, sélectionnez **Tracking**.
+
+   ![](assets/how-to-set-up-custom-domain-tracking-2.png)
+
+1. Dans l’onglet Suivi des domaines personnalisés, saisissez votre CNAME et cliquez sur **Connexion**.
+
+   ![](assets/how-to-set-up-custom-domain-tracking-3.png)
