@@ -1,18 +1,18 @@
 ---
-unique-page-id: 37356587
 description: Ajout d’une pièce jointe ou d’un contenu pouvant faire l’objet d’un suivi à votre message électronique - Documents Marketo - Documentation du produit
 title: Ajout d’une pièce jointe ou d’un contenu pouvant faire l’objet d’un suivi à votre message électronique
-exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
+hide: true
+hidefromtoc: true
 source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
 
 # Ajout d’une pièce jointe ou d’un contenu pouvant faire l’objet d’un suivi à votre message électronique {#add-an-attachment-or-trackable-content-to-your-email}
 
-Lors de l’envoi d’un courrier électronique via Sales Connect, vous avez la possibilité d’ajouter un fichier en tant que pièce jointe ou de faire d’un fichier un lien téléchargeable (et pouvant faire l’objet d’un suivi).
+Lors de l’envoi d’un email par le biais de Marketo Sales, vous avez la possibilité d’ajouter un fichier en tant que pièce jointe ou de faire d’un fichier un lien téléchargeable (et pouvant faire l’objet d’un suivi).
 
 >[!NOTE]
 >
@@ -22,45 +22,45 @@ Lors de l’envoi d’un courrier électronique via Sales Connect, vous avez la 
 
 1. Créez votre brouillon d’email (il existe plusieurs façons de le faire, dans cet exemple que nous choisissons. **Composer** dans l’en-tête ).
 
-   ![](assets/one-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-1.png)
 
 1. Renseignez le champ À et saisissez un Objet.
 
-   ![](assets/attach-two.png)
+   ![](assets/add-an-attachment-or-trackable-content-2.png)
 
 1. Cliquez sur l’icône de pièce jointe.
 
-   ![](assets/attach-three.png)
+   ![](assets/add-an-attachment-or-trackable-content-3.png)
 
 1. Sélectionnez le fichier à joindre, puis cliquez sur **Insérer**.
 
-   ![](assets/attach-four.png)
+   ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
    >Si vous devez télécharger un fichier, cliquez sur le **Chargement du contenu** dans le coin supérieur droit de la fenêtre.
 
-   ![](assets/attach-five.png)
+   La pièce jointe apparaît au bas de votre email.
 
-La pièce jointe apparaît au bas de votre email.
+   ![](assets/add-an-attachment-or-trackable-content-5.png)
 
 ## Ajout de contenu pouvant faire l’objet d’un suivi {#add-trackable-content}
 
 1. Créez votre brouillon d&#39;email (il existe plusieurs façons de le faire, dans cet exemple, nous choisissons la fenêtre Composer ).
 
-   ![](assets/one-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-6.png)
 
 1. Renseignez le champ À et saisissez un Objet.
 
-   ![](assets/two-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-7.png)
 
 1. Cliquez sur l&#39;emplacement dans l&#39;email où vous souhaitez que le contenu pouvant faire l&#39;objet d&#39;un suivi s&#39;affiche, puis cliquez sur l&#39;icône de pièce jointe.
 
-   ![](assets/three-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-8.png)
 
 1. Sélectionnez le contenu à ajouter, puis cliquez sur le bouton **Contenu suivi** curseur, puis cliquez sur **Insérer**.
 
-   ![](assets/four-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
@@ -68,8 +68,38 @@ La pièce jointe apparaît au bas de votre email.
 
    Le contenu s’affiche sous la forme d’un lien dans votre email. Le destinataire peut cliquer sur le lien pour télécharger le contenu.
 
-   ![](assets/five-2.png)
+   ![](assets/add-an-attachment-or-trackable-content-10.png)
 
    >[!NOTE]
    >
    >Les utilisateurs seront avertis dans le flux en direct lorsque les utilisateurs afficheront leur contenu suivi. Les utilisateurs peuvent également voir le contenu le plus performant dans la section de contenu de la page Analytics.
+
+## Mises à jour de contenu pouvant faire l’objet d’un suivi {#trackable-content-updates}
+
+**Visionneuse de contenu pouvant faire l’objet d’un suivi**
+
+Lorsqu’un prospect clique sur du contenu pouvant faire l’objet d’un suivi dans votre email, il ouvre une visionneuse de contenu.
+
+![](assets/add-an-attachment-or-trackable-content-11.png)
+
+Dans les pistes de la visionneuse de contenu, procédez comme suit.
+
+* Télécharger le document
+
+![](assets/add-an-attachment-or-trackable-content-12.png)
+
+* Page à travers le document
+
+![](assets/add-an-attachment-or-trackable-content-13.png)
+
+* Afficher les coordonnées de l’expéditeur
+
+![](assets/add-an-attachment-or-trackable-content-14.png)
+
+**Événements de contenu pouvant faire l’objet d’un suivi dans le flux en direct**
+
+Lorsqu’un prospect clique sur le lien de votre document, un événement de clic s’affiche. Vous pouvez cliquer sur ce lien pour visualiser le contenu. Tant que vous êtes connecté à votre compte Actions dans le navigateur, nous ne comptabiliserons pas ces clics comme des événements.
+
+![](assets/add-an-attachment-or-trackable-content-15.png)
+
+Chaque fois que la piste passe à une autre page du document, vous recevez un événement Visionné dans le flux en direct qui indique le nom du document.
