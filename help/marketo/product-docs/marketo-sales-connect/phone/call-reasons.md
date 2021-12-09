@@ -4,9 +4,9 @@ title: Raisons de l’appel
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: b8fcbc13925e3a292add3e9148ddefcfca3344b4
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -61,27 +61,27 @@ Une fois les raisons d’appel activées. Les utilisateurs peuvent en sélection
 
 1. Cliquez sur le bouton d’appel pour lancer la boîte de dialogue.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Saisissez les informations d’appel dans la boîte de dialogue.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Cliquez sur call.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Sélectionnez la raison de l’appel qui décrit le mieux l’appel.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Terminez l’appel .
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Consignez l’appel .
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 >[!MORELIKETHIS]
 >
