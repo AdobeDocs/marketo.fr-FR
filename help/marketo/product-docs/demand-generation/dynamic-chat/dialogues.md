@@ -3,7 +3,8 @@ description: Dialogues - Documents Marketo - Documentation du produit
 title: Dialogues
 hide: true
 hidefromtoc: true
-source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
+exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 1%
@@ -20,7 +21,7 @@ Les dialogues sont des conversations individuelles. Découvrez comment les perso
 
    ![](assets/dialogues-1.png)
 
-1. Cliquez sur le bouton **Créer** .
+1. Cliquez sur le bouton **Créer** bouton .
 
    ![](assets/dialogues-2.png)
 
@@ -38,23 +39,23 @@ Tout comme les listes dynamiques Marketo, les attributs Critères d’audience v
 
 **Personnes connues**
 
-Il existe _de nombreuses combinaisons d’attributs_ parmi lesquelles choisir. Dans cet exemple, nous ciblons toutes les **personnes connues** en Californie qui travaillent dans une entreprise de plus de 50 employés.
+Il y a _many_ combinaisons d’attributs parmi lesquelles choisir. Dans cet exemple, nous ciblons tous les **personnes connues** en Californie, qui travaille dans une entreprise de plus de 50 employés.
 
-1. Saisissez l’attribut **État de la personne** et faites-le glisser vers la droite.
+1. Attrapez le **État de la personne** et faites-le glisser vers la droite.
 
    ![](assets/dialogues-4.png)
 
-1. __ Isis défini par défaut. Dans le champ Sélectionner des valeurs , saisissez CA (vous pouvez également cliquer sur la liste déroulante et sélectionner dans la liste).
+1. _Is_ est défini par défaut. Dans le champ Sélectionner les valeurs , saisissez CA (vous pouvez également cliquer sur la liste déroulante et sélectionner dans la liste).
 
    ![](assets/dialogues-5.png)
 
-1. Saisissez l’attribut **Taille de la société** et faites-le glisser jusqu’à l’emplacement où il est indiqué _faites glisser un attribut ici_.
+1. Attrapez le **Taille de l’entreprise** Attribuez-le et faites-le glisser à l’endroit où il indique _faire glisser un attribut ici ;_.
 
    ![](assets/dialogues-6.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également choisir un attribut en cliquant sur son icône **+**.
+   >Vous pouvez également choisir un attribut en cliquant sur son **+** icône .
 
 1. Cliquez sur la liste déroulante des opérateurs et sélectionnez **Supérieur à**.
 
@@ -68,9 +69,9 @@ Et voilà !
 
 **Personnes anonymes**
 
-Il existe un moyen simple de cibler spécifiquement les personnes qui ne se trouvent pas encore dans votre base de données. Dans cet exemple, nous ciblons toutes les **personnes anonymes** situées dans la région de New York.
+Il existe un moyen simple de cibler spécifiquement les personnes qui ne se trouvent pas encore dans votre base de données. Dans cet exemple, nous ciblons tous les **anonymes** situé dans le quartier de New York.
 
-1. Saisissez l’attribut **Adresse électronique de la personne** et faites-le glisser vers la droite.
+1. Attrapez le **Adresse électronique de la personne** et faites-le glisser vers la droite.
 
    ![](assets/dialogues-9.png)
 
@@ -78,15 +79,15 @@ Il existe un moyen simple de cibler spécifiquement les personnes qui ne se trou
 
    ![](assets/dialogues-10.png)
 
-1. Saisissez l’attribut **État déduit** et faites-le glisser jusqu’à l’emplacement où il est indiqué _faites glisser un attribut ici_.
+1. Attrapez le **État déduit** Attribuez-le et faites-le glisser à l’endroit où il indique _faire glisser un attribut ici ;_.
 
    ![](assets/dialogues-11.png)
 
    >[!NOTE]
    >
-   >Lorsqu’un visiteur se rend sur votre site Web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) le coche et le place dans le système. Nous recherchons leur adresse IP dans une base de données spéciale et en déduisons toutes sortes de bonnes informations.
+   >Lorsqu’une personne visite votre site web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) les cookies et les place dans le système. Nous recherchons leur adresse IP dans une base de données spéciale et en déduisons toutes sortes de bonnes informations.
 
-1. __ Isis défini par défaut. Dans le champ Sélectionner les valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
+1. _Is_ est défini par défaut. Dans le champ Sélectionner les valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 
    ![](assets/dialogues-12.png)
 
@@ -111,7 +112,7 @@ Formats acceptables :
 
 >[!NOTE]
 >
->L’utilisation d’un astérisque agit comme un caractère générique fourre-tout. `https://*.website.com` placerait donc la boîte de dialogue sur chaque page du site, y compris les sous-domaines (par exemple : `support.website.com`). Et `https://website.com/folder/*` placerait la boîte de dialogue sur chaque page de HTML dans le dossier suivant (par exemple : dans ce cas, disons que le dossier est &quot;sports&quot;, donc : website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>L’utilisation d’un astérisque agit comme un caractère générique fourre-tout. Donc `https://*.website.com` placerait la boîte de dialogue sur chaque page du site, y compris les sous-domaines (par exemple : `support.website.com`). Et `https://website.com/folder/*` placerait la boîte de dialogue sur chaque page de HTML dans le dossier suivant (par exemple : dans ce cas, disons que le dossier est &quot;sports&quot;, donc : website.com/sports/baseball.html, website.com/sports/football.html, etc.).
 
 ## Concepteur de diffusion {#stream-designer}
 
@@ -133,7 +134,7 @@ Le concepteur de flux contient différentes cartes que vous pouvez ajouter pour 
  </tr>
  <tr>
   <td><strong>Planificateur de rendez-vous</strong></td>
-  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier un suivi. La disponibilité du calendrier reflète <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">l’agent suivant dans la ligne</a>.</td>
+  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier un suivi. La disponibilité du calendrier reflète <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">l’agent suivant en ligne</a>.</td>
  </tr>
  <tr>
   <td><strong>Objectif</strong></td>
@@ -143,7 +144,7 @@ Le concepteur de flux contient différentes cartes que vous pouvez ajouter pour 
 
 **Création d’un flux**
 
-Il existe _de nombreuses_ combinaisons de flux possibles. Examinons un exemple [de cet article](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
+Il y a _many_ combinaisons de diffusion possibles. Examinons un exemple. [dans cet article](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Rapports {#reports}
 

@@ -1,9 +1,10 @@
 ---
-description: Création d’un flux - Documentation Marketo Docs - Documentation du produit
+description: Création d’un flux - Documents Marketo - Documentation du produit
 title: Création d’un flux
 hide: true
 hidefromtoc: true
-source-git-commit: 1022d3eaf4ee4a1686c5d8ae3168ee0197776289
+exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -12,29 +13,29 @@ ht-degree: 0%
 
 # Création d’un flux {#create-a-stream}
 
-Il y a _nombreux_ des combinaisons de flux que vous pouvez créer. Voici un exemple où le spécialiste du marketing demande au visiteur du site s’il lui pose des questions sur le produit. Si oui, le visiteur peut planifier un rendez-vous. Si tel n&#39;est pas le cas, le visiteur a la possibilité de s&#39;inscrire à une liste d&#39;envoi pour une correspondance ultérieure. L’objectif est soit de planifier un rendez-vous, soit de recueillir l’e-mail du visiteur.
+Il y a _many_ combinaisons de flux que vous pouvez créer. Vous trouverez ci-dessous un exemple où le spécialiste du marketing demande au visiteur du site s’il a des questions sur les produits. Si oui, le visiteur peut planifier un rendez-vous. Si ce n’est pas le cas, le visiteur a la possibilité de s’inscrire à une liste de distribution pour une correspondance ultérieure. L’objectif est de planifier un rendez-vous ou de collecter l’adresse électronique du visiteur.
 
-1. Après [créer votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), cliquez sur le bouton **Stream Designer** .
+1. Après vous [créer votre boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), cliquez sur le bouton **Concepteur de diffusion** .
 
    ![](assets/create-a-stream-1.png)
 
-1. Faites glisser et déposez la carte de questions.
+1. Faites glisser et déposez la carte Question .
 
    ![](assets/create-a-stream-2.png)
 
-1. Sous Chatbot Response, dites votre question comme vous voulez.
+1. Sous Réponse Chatbot, entrez votre question comme vous le souhaitez.
 
    ![](assets/create-a-stream-3.png)
 
    >[!NOTE]
    >
-   >Poke est activé par défaut, ce qui affiche la question d’ouverture en regard de l’icône de chat sans que le visiteur n’ait à cliquer dessus pour la voir.
+   >Par défaut, le point est activé, ce qui affiche la question d’ouverture en regard de l’icône de conversation sans que le visiteur ait à cliquer dessus pour l’afficher.
 
 1. Saisissez vos réponses utilisateur et cliquez sur **Enregistrer**.
 
    ![](assets/create-a-stream-4.png)
 
-1. Pour &quot;Oui&quot;, nous voulons planifier un rendez-vous. En dessous de cette option, faites glisser le pointeur sur la carte du Planificateur de rendez-vous.
+1. Pour &quot;Oui&quot;, nous voulons planifier un rendez-vous. Par conséquent, en dessous de cette option, faites glisser sur la carte Planificateur de rendez-vous .
 
    ![](assets/create-a-stream-5.png)
 
@@ -42,7 +43,7 @@ Il y a _nombreux_ des combinaisons de flux que vous pouvez créer. Voici un exem
 
    ![](assets/create-a-stream-6.png)
 
-1. Comme il s&#39;agit d&#39;un objectif, faites glisser la carte Objectif sous le Planificateur de rendez-vous.
+1. Comme il s’agit d’un objectif, faites glisser la carte Objectif sous le Planificateur de rendez-vous.
 
    ![](assets/create-a-stream-7.png)
 
@@ -50,7 +51,7 @@ Il y a _nombreux_ des combinaisons de flux que vous pouvez créer. Voici un exem
 
    ![](assets/create-a-stream-8.png)
 
-1. Pour &quot;Non&quot;, nous voulons voir s&#39;ils vont s&#39;inscrire à la liste de diffusion. En dessous de cette option, faites glisser le pointeur sur une autre carte de questions.
+1. Pour &quot;Non&quot;, nous voulons voir s’ils vont rejoindre la liste de distribution. Par conséquent, sous cette option, faites glisser sur une autre carte Question .
 
    ![](assets/create-a-stream-9.png)
 
@@ -62,38 +63,38 @@ Il y a _nombreux_ des combinaisons de flux que vous pouvez créer. Voici un exem
    >
    >Vous pouvez ajouter d’autres réponses en cliquant sur **Ajouter une réponse**.
 
-1. Sous la réponse &quot;Oui&quot;, faites glisser le pointeur sur la carte de capture d’informations pour collecter l’e-mail du visiteur.
+1. Sous la réponse &quot;Oui&quot;, faites glisser la souris sur la carte Capture d’informations afin de collecter l’email du visiteur.
 
    ![](assets/create-a-stream-11.png)
 
-1. Cliquez sur le bouton **Type** et sélectionnez **E-mail**.
+1. Cliquez sur le bouton **Type** et sélectionnez **Email**.
 
    ![](assets/create-a-stream-12.png)
 
-1. Entrez un message de chatbot et un espace réservé. Assurez-vous que l’attribut est mappé sur le champ approprié dans Marketo et cliquez sur **Enregistrer**.
+1. Saisissez un message de chatterbot et un espace réservé. Assurez-vous que l’attribut est mappé sur le champ approprié dans Marketo et cliquez sur **Enregistrer**.
 
    ![](assets/create-a-stream-13.png)
 
    <table>
     <tr>
      <td><strong>Type</strong></td>
-     <td>Type d’informations à capturer : Téléphone, Texte, E-mail.</td>
+     <td>Le type d’informations que vous souhaitez capturer : Téléphone, Texte, Email.</td>
     </tr>
     <tr>
-     <td><strong>Message Chatbot</strong></td>
-     <td>Le message que le visiteur voit l’invitant à fournir les informations.</td>
+     <td><strong>Message de chatbot</strong></td>
+     <td>Le message que le visiteur voit l’invite à fournir les informations.</td>
     </tr>
     <tr>
      <td><strong>Paramètre fictif</strong></td>
-     <td>Exemple de texte pour aider le visiteur à voir ce qu’il doit saisir.</td>
+     <td>Exemple de texte aidant le visiteur à voir ce qu’il doit entrer.</td>
     </tr>
     <tr>
-     <td><strong>Mapper la réponse à l'attribut</strong></td>
-     <td>Permet de synchroniser la réponse du visiteur avec le champ correspondant dans son enregistrement de personne dans votre abonnement Marketo.</td>
+     <td><strong>Associer la réponse à l’attribut</strong></td>
+     <td>Permet de synchroniser la réponse du visiteur avec le champ correspondant dans son enregistrement Personne de votre abonnement Marketo.</td>
     </tr>
    </table>
 
-1. Comme la collecte de leur courrier électronique est un objectif, faites glisser la carte Objectif sous Capture d’informations.
+1. Puisque la collecte de leur email est un objectif, faites glisser la carte Objectif sous Capture d’informations.
 
    ![](assets/create-a-stream-14.png)
 
@@ -101,11 +102,11 @@ Il y a _nombreux_ des combinaisons de flux que vous pouvez créer. Voici un exem
 
    ![](assets/create-a-stream-15.png)
 
-1. N&#39;oubliez pas d&#39;ajouter une réponse s&#39;ils disent &quot;Non&quot;. Faites glisser une carte de message sous cette option.
+1. N’oubliez pas d’ajouter une réponse s’ils disent &quot;Non&quot;. Faites glisser une carte Message sous cette option.
 
    ![](assets/create-a-stream-16.png)
 
-1. Saisissez votre message, puis cliquez sur **Enregistrer**.
+1. Saisissez votre message et cliquez sur **Enregistrer**.
 
    ![](assets/create-a-stream-17.png)
 
@@ -115,7 +116,7 @@ Il y a _nombreux_ des combinaisons de flux que vous pouvez créer. Voici un exem
 
 >[!NOTE]
 >
->Avant de cliquer sur Publier, n&#39;oubliez pas de vous assurer que vous avez [a saisi votre ou vos URL cibles.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Avant de cliquer sur Publier, n’oubliez pas de vous assurer que vous avez [ont saisi votre ou vos URL cibles.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
 
 >[!MORELIKETHIS]
 >

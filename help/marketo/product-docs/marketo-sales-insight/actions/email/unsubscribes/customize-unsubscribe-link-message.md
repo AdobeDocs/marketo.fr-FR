@@ -3,7 +3,8 @@ description: Personnalisation du message de lien de désabonnement - Documents M
 title: Personnalisation du message de lien de désabonnement
 hide: true
 hidefromtoc: true
-source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
+exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%

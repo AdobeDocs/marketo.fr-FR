@@ -3,7 +3,8 @@ description: Invitation d’utilisateurs et d’administrateurs - Documents Mark
 title: Invitation d’utilisateurs et d’administrateurs
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 1%
@@ -20,19 +21,19 @@ L’ajout d’utilisateurs ou d’administrateurs est rapide et facile !
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Gestion utilisateur**.
+1. Sous Paramètres d’administration, sélectionnez **Gestion des utilisateurs**.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Cliquez sur le bouton **Actions** et sélectionnez **Inviter des utilisateurs**.
+1. Cliquez sur le bouton **Actions** et sélectionnez **Invitation d’utilisateurs**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également sélectionner **Inviter des utilisateurs via CSV** si vous les avez tous répertoriés dans une feuille de calcul.
+   >Vous pouvez également sélectionner **Invitation d’utilisateurs via CSV** si vous les avez tous répertoriés dans une feuille de calcul.
 
-1. Saisissez les adresses électroniques des individus que vous souhaitez ajouter et cliquez sur **Inviter** (la sélection d’une équipe à laquelle les ajouter est facultative).
+1. Saisissez les adresses électroniques des individus que vous souhaitez ajouter, puis cliquez sur **Invitation** (la sélection d’une équipe à laquelle les ajouter est facultative).
 
    ![](assets/invite-users-and-admins-4.png)
 
@@ -56,11 +57,11 @@ Pour transformer un utilisateur existant en administrateur, procédez comme suit
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Gestion utilisateur**.
+1. Sous Paramètres d’administration, sélectionnez **Gestion des utilisateurs**.
 
    ![](assets/invite-users-and-admins-7.png)
 
-1. Recherchez l’utilisateur que vous souhaitez créer en tant qu’administrateur, cliquez sur la liste déroulante Rôle , puis sélectionnez **Admin**.
+1. Recherchez l’utilisateur que vous souhaitez créer en tant qu’administrateur, cliquez sur la liste déroulante Rôle , puis sélectionnez **Administration**.
 
    ![](assets/invite-users-and-admins-8.png)
 

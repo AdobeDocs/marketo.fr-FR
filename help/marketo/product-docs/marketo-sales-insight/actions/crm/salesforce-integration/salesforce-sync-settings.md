@@ -3,10 +3,11 @@ description: Paramètres de synchronisation Salesforce - Documents Marketo - Doc
 title: Paramètres de synchronisation Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
+exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

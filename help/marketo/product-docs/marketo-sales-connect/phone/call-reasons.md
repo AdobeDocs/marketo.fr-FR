@@ -3,9 +3,10 @@ description: Raisons de l’appel - Documents Marketo - Documentation du produit
 title: Raisons de l’appel
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,37 @@ Autorisez vos équipes commerciales à sélectionner les motifs des appels lors 
 
 1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
-PICC
+   ![](assets/call-reasons-1.png)
 
 1. Sous Paramètres d’administration, sélectionnez **Dialer**.
 
-PICC
+   ![](assets/call-reasons-2.png)
 
 1. Sélectionner **Activer les raisons d’appel**.
 
-PICC
+   ![](assets/call-reasons-3.png)
 
-1. Choisir VIDE
+1. Choisissez la raison d’appel souhaitée.
 
-Sélectionnez &quot;Autoriser les utilisateurs à terminer les appels sans sélectionner Raisons de l’appel&quot; si vous souhaitez permettre aux utilisateurs de terminer un appel sans avoir à consigner un appel ou sélectionnez &quot;Obliger les utilisateurs à sélectionner les Raisons de l’appel avant de consigner les appels&quot; pour exiger que
+   ![](assets/call-reasons-4.png)
 
 ## Créer un motif d’appel {#create-call}
 
 1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
-PICC
+   ![](assets/call-reasons-5.png)
 
 1. Sous Paramètres d’administration, sélectionnez **Dialer**.
 
-PICC
+   ![](assets/call-reasons-6.png)
 
 1. Cliquez sur **Gestion des motifs d’appel**.
 
-PICC
+   ![](assets/call-reasons-7.png)
 
-1. Saisissez le nom de la raison de votre choix dans le champ de texte.
+1. Entrez le nom de la raison de l’appel de votre choix dans le champ de texte, puis cliquez sur **Ajouter**.
 
-PICC
-
-1. Cliquez sur **Ajouter**.
-
-PICC
+   ![](assets/call-reasons-8.png)
 
 ## Sélectionner un motif d’appel {#select-a-call-reason}
 
@@ -64,27 +61,27 @@ Une fois les raisons d’appel activées. Les utilisateurs peuvent en sélection
 
 1. Cliquez sur le bouton d’appel pour lancer la boîte de dialogue.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Saisissez les informations d’appel dans la boîte de dialogue.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Cliquez sur call.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Sélectionnez la raison de l’appel qui décrit le mieux l’appel.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Terminez l’appel .
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Consignez l’appel .
 
-PICC
+   ![](assets/call-reasons-.png)
 
 >[!MORELIKETHIS]
 >

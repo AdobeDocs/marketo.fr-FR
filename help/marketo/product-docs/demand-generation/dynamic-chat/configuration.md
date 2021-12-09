@@ -3,7 +3,8 @@ description: Configuration - Documents Marketo - Documentation du produit
 title: Configuration
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 1%
@@ -42,13 +43,13 @@ Dans Paramètres de l’agent, vous pouvez ajouter un libellé à votre zone de 
 
 ![](assets/configuration-5.png)
 
-Une fois les modifications effectuées, n’oubliez pas de cliquer sur **Enregistrer**.
+Une fois les modifications effectuées, pensez à cliquer sur **Enregistrer**.
 
 ![](assets/configuration-6.png)
 
 ## Onglet Confidentialité {#privacy-tab}
 
-Cliquez sur l’onglet **Confidentialité** pour ajouter/modifier l’URL de la politique de confidentialité de votre site (facultatif).
+Cliquez sur le bouton **Confidentialité** pour ajouter/modifier l’URL de la politique de confidentialité de votre site (facultatif).
 
 ![](assets/configuration-7.png)
 

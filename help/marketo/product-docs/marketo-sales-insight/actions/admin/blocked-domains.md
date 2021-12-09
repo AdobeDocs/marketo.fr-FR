@@ -3,7 +3,8 @@ description: Domaines bloqués - Documents Marketo - Documentation du produit
 title: Domaines bloqués
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 004ba212-485e-4412-be75-7de13505d9b0
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 4%
@@ -18,7 +19,7 @@ Aidez votre équipe commerciale à réussir en l’empêchant d’envoyer par co
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Dans l’application web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
 
    ![](assets/blocked-domains-1.png)
 
@@ -26,10 +27,10 @@ Aidez votre équipe commerciale à réussir en l’empêchant d’envoyer par co
 
    ![](assets/blocked-domains-2.png)
 
-1. Saisissez le domaine que vous souhaitez bloquer, puis cliquez sur **Bloquer le domaine**.
+1. Saisissez le domaine que vous souhaitez bloquer, puis cliquez sur **Domaine du bloc**.
 
    ![](assets/blocked-domains-3.png)
 
    >[!NOTE]
    >
-   >Les emails qui font partie d’un envoi de messagerie de groupe qui échoue en raison de l’envoi à un domaine de messagerie bloqué échoueront silencieusement et n’apparaîtront pas dans le dossier de messagerie en échec.
+   >Les emails qui font partie d’un envoi de messagerie de groupe qui échoue en raison de l’envoi à un domaine de messagerie bloqué échouent en silence et n’apparaissent pas dans le dossier de messagerie en échec.

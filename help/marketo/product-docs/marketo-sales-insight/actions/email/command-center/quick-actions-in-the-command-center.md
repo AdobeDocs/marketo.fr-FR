@@ -3,10 +3,11 @@ description: Actions rapides dans le Centre de commandes - Documents Marketo - D
 title: Actions rapides dans le Centre de commandes
 hide: true
 hidefromtoc: true
-source-git-commit: f098742d384770983206b47cd9b5535fd6ab056f
+exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
