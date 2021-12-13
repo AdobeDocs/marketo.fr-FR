@@ -4,9 +4,9 @@ title: Enregistrer les motifs des appels et les résultats des appels dans Sales
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,10 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
 ### Ajout d’un champ d’activité personnalisé à la disposition de la page de tâche dans Salesforce Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
+>[!NOTE]
+>
+>Vous devrez suivre ces étapes uniquement si vous n’avez pas sélectionné la mise en page souhaitée à l’étape 9 ci-dessus.
+
 1. Dans Salesforce, cliquez sur **Configuration**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
@@ -82,79 +86,75 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
-1. Faites glisser et déposez le champ dans la disposition de la page Tâche .
+1. Faites glisser et déposez le champ dans la section souhaitée de la mise en page de la page Tâche .
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
 1. Cliquez sur **Enregistrer**.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
 ## Salesforce Lightning {#salesforce-lightning}
 
 ### Créer un champ d’activité personnalisé dans Salesforce Lightning {#create-custom-activity-field-in-salesforce-lightning}
 
-1. Dans Salesforce, cliquez sur l’icône d’engrenage en haut à droite.
+1. Dans Salesforce, cliquez sur l’icône d’engrenage en haut à droite et sélectionnez **Configuration**.
 
-PICC
-
-1. Cliquez sur **Configuration**.
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
 1. Cliquez sur **Object Manager**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. Saisissez Activité dans la zone Recherche rapide , puis cliquez sur le libellé Activité pour ouvrir la configuration de l’objet.
+1. Saisissez &quot;Activité&quot; dans la zone Recherche rapide .
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Sur le côté gauche, cliquez sur **Champs et relations**.
+1. Cliquez sur le bouton **Activité** libellé.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
+
+1. Cliquez sur **Champs et relations**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
 1. Cliquez sur **Nouveau**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ## Ajout d’un champ d’activité personnalisé à la disposition de la page de tâche dans Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. Dans Salesforce, cliquez sur l’icône d’engrenage en haut à droite.
+1. Dans Salesforce, cliquez sur l’icône d’engrenage en haut à droite et sélectionnez **Configuration**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. Cliquez sur **Configuration**.
+1. Cliquez sur **Object Manager**.
 
-PICC
-
-1. Accédez à Configuration.?????????
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
 1. Saisissez &quot;Tâche&quot; dans la zone de recherche rapide.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Cliquez sur Tâche.
+1. Cliquez sur le bouton **Tâche** libellé.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. Cliquez sur Mise en page.
+1. Cliquez sur **Disposition de page**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
 1. Cliquez sur pn la mise en page de la page de la tâche à laquelle vous souhaitez ajouter ce champ.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-27.png)
 
-1. Faites glisser et déposez le champ dans la disposition de la page Tâche .
+1. Faites glisser et déposez le champ dans la section souhaitée de la mise en page de la page Tâche .
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. Cliquez sur Enregistrer.
+1. Cliquez sur **Enregistrer**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >

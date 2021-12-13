@@ -4,9 +4,9 @@ title: Résultats des appels
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -65,27 +65,23 @@ Une fois les résultats de l’appel activés. Les utilisateurs peuvent en séle
 
 1. Cliquez sur le bouton d’appel pour lancer la boîte de dialogue.
 
-PICC
+   ![](assets/call-outcomes-10.png)
 
-1. Saisissez les informations d’appel dans la boîte de dialogue.
+1. Saisissez les informations d’appel dans la boîte de dialogue, puis cliquez sur **Appeler**.
 
-PICC
-
-1. Cliquez sur call.
-
-PICC
+   ![](assets/call-outcomes-11.png)
 
 1. Sélectionnez le résultat de l’appel qui décrit le mieux l’appel.
 
-PICC
+   ![](assets/call-outcomes-12.png)
 
 1. Terminez l’appel .
 
-PICC
+   ![](assets/call-outcomes-13.png)
 
 1. Consignez l’appel .
 
-PICC
+   ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >
