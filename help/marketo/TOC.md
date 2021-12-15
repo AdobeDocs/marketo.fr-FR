@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
 workflow-type: tm+mt
-source-wordcount: '8174'
+source-wordcount: '8189'
 ht-degree: 5%
 
 ---
@@ -1306,6 +1306,9 @@ ht-degree: 5%
                + [Présentation du canal de diffusion](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Limitation de la connexion aux e-mails](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Configuration d’un canal de diffusion personnalisé pour votre équipe](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+            + Configuration Salesforce {#email-delivery}
+               + [Désinstallation du module de personnalisation Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [Désinstallation du module de personnalisation de l’éclair Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + Désabonnements {#unsubscribes}
                + [Présentation du désabonnement](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Personnalisation du message de lien de désabonnement](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1737,6 +1740,7 @@ ht-degree: 5%
          + [Notes de mise à jour : 21 janvier](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Notes de mise à jour : 21 mai](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [Notes de mise à jour : 21 août](release-notes/previous-releases/2021/release-notes-aug-21.md)
+         + [Notes de mise à jour : 21 octobre](release-notes/previous-releases/2021/release-notes-oct-21.md)
       + 2020 {#2020}
          + [Notes de mise à jour : 20 janvier](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [Notes de mise à jour : 20 février](release-notes/previous-releases/2020/release-notes-feb-20.md)
