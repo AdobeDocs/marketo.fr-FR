@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+source-git-commit: 6033a1bfbdce1b617181415c4f7394074c64595f
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '948'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Les fonctionnalités suivantes seront publiées sur **21 janvier 2022**.
 
 ## Expérience de nouvelle génération {#next-generation-experience}
 
-* **Mise à jour d’Screens dans l’expérience de nouvelle génération**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent des améliorations de conception et d’utilisation mises à jour par le biais d’un commutateur à bascule :
+* **Mise à jour d’Screens dans l’expérience de nouvelle génération**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
 
    * Détails des ressources de page d’entrée dans Design Studio
    * Détails des ressources de page d’entrée dans les activités marketing
