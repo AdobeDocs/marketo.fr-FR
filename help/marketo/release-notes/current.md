@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 6033a1bfbdce1b617181415c4f7394074c64595f
+source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '1050'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 22 janvier. Pour
 
 Les fonctionnalités suivantes seront publiées sur **21 janvier 2022**.
 
-## Expérience de nouvelle génération {#next-generation-experience}
+## Expérience de nouvelle génération {#next-generation-experience}
 
 * **Mise à jour d’Screens dans l’expérience de nouvelle génération**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
 
@@ -51,7 +51,7 @@ Les fonctionnalités suivantes seront publiées sur **21 janvier 2022**.
 
 Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées au cours des prochains mois.
 
-## Connecteur de destination Marketo Engage AEP - Créer des pistes Net-new manquantes {#aep-marketo-engage-destination-connector}
+## Connecteur de destination Marketo Engage AEP - Créer des pistes Net-new {#aep-marketo-engage-destination-connector}
 
 Les clients Marketo Engage qui utilisent également Adobe Experience Platform (AEP) peuvent optimiser leur base de données avec la possibilité de transférer de nouveaux enregistrements de personne vers Marketo Engage à partir d’AEP via le connecteur de destination AEP. Lors de l’envoi de segments d’audience d’AEP vers Marketo Engage, les personnes du segment qui n’existent pas déjà dans votre base de données de Marketo Engage y seront automatiquement ajoutées.
 
@@ -59,7 +59,7 @@ Les clients Marketo Engage qui utilisent également Adobe Experience Platform (A
 
 ![(étoile)](assets/yellow-star.png)
 
-* **Sales Insight for Salesforce CRM**
+**Sales Insight for Salesforce CRM**
 
 * **Nouvelle colonne Type pour les meilleurs paris**: Les vendeurs obtiendront des informations plus rapides avec une nouvelle colonne intitulée &quot;Type&quot; afin de différencier les pistes et les contacts sur la page Meilleurs paris.
 
@@ -85,6 +85,8 @@ Les clients Marketo Engage qui utilisent également Adobe Experience Platform (A
 
 * **Obsolescence des points de fin de formulaire**: Les POST de formulaire programmatique non pris en charge vers le point de terminaison leadCapture/save2 seront rejetés par les formulaires Marketo Engage. [Cliquez ici](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) pour en savoir plus.
 
-* **Vérification des emails**: À compter de cette version, les abonnements des Marketo Engage commenceront à demander aux utilisateurs &quot;non API uniquement&quot; de vérifier les adresses électroniques. Les courriers électroniques des utilisateurs authentifiés du service d’annuaire seront automatiquement vérifiés lorsque leur abonnement sera activé avec la vérification des courriers électroniques. La vérification par e-mail des utilisateurs qui utilisent la fonction &quot;Se connecter dans la boîte de dialogue d’invitation&quot; ou des abonnés auxquels un seul e-mail est associé à plusieurs utilisateurs dans l’abonnement sera retardée et coïncide avec l’abandon de la fonctionnalité en mars.
+* **Vérification des emails**: À compter de cette version, les abonnements des Marketo Engage commenceront à demander aux utilisateurs &quot;non API uniquement&quot; de vérifier les adresses électroniques. Les courriers électroniques des utilisateurs authentifiés du service d’annuaire seront automatiquement vérifiés lorsque leur abonnement sera activé avec la vérification des courriers électroniques. La vérification par e-mail des utilisateurs qui utilisent la fonction &quot;Se connecter dans la boîte de dialogue d’invitation&quot; ou des abonnés auxquels un seul e-mail est associé à plusieurs utilisateurs dans l’abonnement sera retardée et coïncide avec l’abandon de la fonctionnalité en mars.
 
 * **Boîte de dialogue d’invitation**: En mars, la fonctionnalité facultative existante &quot;Connexion à la boîte de dialogue d’invitation d’utilisateur&quot; sera abandonnée. La fonctionnalité &quot;Connexion à la boîte de dialogue d’invitation d’utilisateur&quot; est remplacée par la fonctionnalité d’ID universel, qui est requise pour l’intégration système Identity Management à Adobe à venir et qui a été activée en août 2021 sur tous les abonnements. Suite à cette obsolescence, Marketo Engage applique tous les identifiants (connexions) d’utilisateur à l’adresse électronique de l’utilisateur et autorise uniquement un utilisateur à être associé par adresse électronique dans un abonnement.
+
+**Domaines Marketo Engage - Configuration de Sales Insight**: Pour les domaines de Marketo Engage pour lesquels le certificat SSL n’est pas configuré et https://, les appels échouent avec une erreur de liaison SSL. Par conséquent, ces domaines vont être supprimés. Par conséquent, les utilisateurs de Sales Insight disposant d’une ancienne configuration pointant vers l’un de ces domaines peuvent rencontrer des erreurs d’légende système sur leur page Lead, contact, compte, panneaux d’opportunités ou globale Marketo. Nous vous recommandons de mettre à jour votre [Configuration du Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) dans Salesforce si vous rencontrez cette erreur. Il vous suffit de mettre à jour les informations d’identification du Marketo Engage en surbrillance dans la section &quot;Configuration de Marketo Sales Insight&quot; du document.
