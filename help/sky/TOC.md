@@ -1,10 +1,10 @@
 ---
-solution: Marketo, Marketo Engage, Marketo Sky
-user-guide-title: '[!DNL Sky] Documentation du produit'
+solution: Marketo Sky
+user-guide-title: Documentation du Marketo Sky
 feature-set: Marketo Sky
-source-git-commit: 80b7b10c6ecce02b5b3a532702076c19e7d2a61d
+source-git-commit: dcbe5f6c0061474e614a731eefca329db314df9e
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '483'
 ht-degree: 4%
 
 ---
