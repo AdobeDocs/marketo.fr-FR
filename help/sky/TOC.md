@@ -49,7 +49,7 @@ ht-degree: 4%
    + [Présentation des programmes d’engagement](understanding-engagement-programs.md)
    + [Présentation de la note d’engagement](understanding-the-engagement-score.md)
    + [Utilisation d’un programme dans un flux de programme d’engagement](using-a-program-in-an-engagement-program-stream.md)
-+ Intitulés {#labels}
++ INTITULÉS {#labels}
    + [Ajouter et supprimer des étiquettes](add-and-remove-labels.md)
    + [Copier des étiquettes de l’original vers le clone](copy-labels-from-original-to-clone.md)
    + [Copier des étiquettes du parent vers l’enfant](copy-labels-from-parent-to-child.md)
