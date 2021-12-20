@@ -1,75 +1,73 @@
 ---
 unique-page-id: 4720275
-description: Création d’une Audience personnalisée dans Facebook - Documents marketing - Documentation du produit
-title: Création d’une Audience personnalisée dans Facebook
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Création d’une audience personnalisée dans Facebook - Documents Marketo - Documentation du produit
+title: Création d’une audience personnalisée dans Facebook
+exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
+source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
-
-# Créer une Audience personnalisée dans Facebook {#create-a-custom-audience-in-facebook}
+# Création d’une audience personnalisée dans Facebook {#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [Ajoutez les Audiences personnalisées Facebook en tant que ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) service LaunchPoint dans la section Admin.
->* [Acceptez les termes d’Audiences personnalisées de Facebook ](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte Facebook.
+>* [Ajout d’audiences personnalisées Facebook en tant que service LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) dans la section Admin .
+>* [Acceptation de termes d’audiences personnalisés Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte Facebook.
 
 >
-
 
 
 >[!TIP]
 >
->En savoir plus sur les [audiences personnalisées dans Facebook](https://www.facebook.com/help/341425252616329).
+>En savoir plus sur [audiences personnalisées dans Facebook](https://www.facebook.com/help/341425252616329).
 
-1. Recherchez et sélectionnez la liste dynamique ou statique contenant les pistes à partir desquelles vous souhaitez créer l&#39;audience.
+1. Recherchez et sélectionnez la liste dynamique ou statique contenant les pistes à partir desquelles vous souhaitez créer l’audience.
 
-   ![](assets/1.png)
+   ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. Sélectionnez l&#39;onglet **Pistes**, puis cliquez sur l&#39;icône **Envoyer via Ad Bridge** située dans la partie inférieure.
+1. Sélectionnez la **Pistes** , puis cliquez sur le bouton **Envoyer via Ad Bridge** en bas de l’écran.
 
-   ![](assets/222.png)
+   ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Sélectionnez **Facebook** et cliquez sur **Suivant**.
+1. Sélectionner **Facebook** et cliquez sur **Suivant**.
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Cliquez sur la liste déroulante **Audience** et sélectionnez **+ Nouvelle Audience**.
+1. Cliquez sur le bouton **Audience** et sélectionnez **+ Nouvelle audience**.
 
-   ![](assets/four.png)
+   ![](assets/create-a-custom-audience-in-facebook-4.png)
 
-1. Saisissez un **nom de l&#39;Audience**. Cliquez sur **Mettre à jour**.
+1. Saisissez un **Nom de l’audience**. Cliquez sur **Mettre à jour**.
 
-   ![](assets/five.png)
+   ![](assets/create-a-custom-audience-in-facebook-5.png)
 
    >[!NOTE]
    >
-   >Si vous disposez de plusieurs comptes publicitaires Facebook, une liste déroulante supplémentaire s’affiche, vous permettant de choisir le compte publicitaire dans lequel cette audience est créée.
+   >Si vous disposez de plusieurs comptes de publicité Facebook, une liste déroulante supplémentaire s’affiche, vous permettant de sélectionner le compte de publicité dans lequel cette audience est créée.
 
    >[!TIP]
    >
-   >Voulez-vous permuter une nouvelle audience avec une autre qui est actuellement associée à une visionneuse ou un groupe d’annonces ? Cochez la case **Remplacer une audience existante**. Ainsi, **ne supprimera pas** l&#39;audience en cours de remplacement.
+   >Souhaitez-vous échanger une nouvelle audience avec une audience existante actuellement associée à un ensemble ou à un groupe de publicités ? Sélectionnez la **Remplacement d’une audience existante** . Cela fera ceci **not** supprimez l&#39;audience en cours de remplacement.
 
-1. Une fois l’opération terminée, la boîte de dialogue d’état est mise à jour.
+1. Lorsque vous avez terminé, la boîte de dialogue d’état est mise à jour.
 
-   ![](assets/six.png)
+   ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   Et c&#39;est tout ! Dans Facebook, vous verrez la nouvelle audience dans **Gestionnaire d’annonces > Audiences**.
+   Et voilà ! Dans Facebook, vous verrez la nouvelle audience dans **Gestionnaire des publicités > Audiences**.
 
-   ![](assets/image2014-12-10-11-3a38-3a32.png)
+   ![](assets/create-a-custom-audience-in-facebook-7.png)
 
    >[!NOTE]
    >
-   >Toutes les listes que vous poussez sur Facebook deviennent statiques. Les listes dynamiques dans Marketo ne mettent pas automatiquement à jour la liste d’audience dans Facebook pour refléter les modifications apportées après le transfert.
+   >Toutes les listes que vous placez sur Facebook deviennent statiques. Les listes dynamiques dans Marketo ne mettent pas automatiquement à jour la liste des audiences dans Facebook pour prendre en compte les modifications apportées après le transfert.
 
    >[!TIP]
    >
-   >Consultez le [parcours d’apprentissage Facebook pour les clients de Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Il couvre tout ce que vous devez savoir, de la création d’une page Facebook au ciblage de vos publicités Facebook en utilisant les intégrations de réseaux publicitaires de Marketo.
+   >Voir [Chemin d’apprentissage facebook pour les clients Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Il couvre tout ce que vous devez savoir, de la création d’une page Facebook au ciblage de vos publicités Facebook à l’aide des intégrations de réseau publicitaire Marketo.
 
    >[!NOTE]
    >
-   >[Ajouter conduit à une Audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Ajout de pistes à une audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
