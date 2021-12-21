@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
+source-git-commit: c4db281bc1b92bdd3ecc3c8b0aaf7e2f21d1f987
 workflow-type: tm+mt
-source-wordcount: '8200'
+source-wordcount: '8205'
 ht-degree: 5%
 
 ---
@@ -1276,11 +1276,12 @@ ht-degree: 5%
    + Marketo Sales Insight {#marketo-sales-insight}
       + Actions {#actions}
          + Démarrer {#getting-started}
+            + [Guide d’intégration des utilisateurs des actions MSI](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [Modification du mot de passe des ventes Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + Paramètres e-mail {#email-settings}
                + [Vérifier votre e-mail](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [Ajouter ou mettre à jour votre signature de courrier électronique](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Ajouter une identité](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
-            + [Modification du mot de passe des ventes Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
          + Administration {#admin}
             + [Domaines bloqués](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Verrouillage de contenu](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1307,7 +1308,7 @@ ht-degree: 5%
                + [Présentation du canal de diffusion](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Limitation de la connexion aux e-mails](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Configuration d’un canal de diffusion personnalisé pour votre équipe](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Configuration Salesforce {#email-delivery}
+            + Configuration Salesforce {#salesforce-configuration}
                + [Configuration des actions MSI dans Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
                + [Désinstallation du module de personnalisation Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [Désinstallation du module de personnalisation de l’éclair Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
