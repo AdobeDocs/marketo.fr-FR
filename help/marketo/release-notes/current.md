@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
+source-git-commit: b700993d0fc9a7703e8e812ca3d6adee1e1e6d9b
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1038'
 ht-degree: 2%
 
 ---
@@ -87,6 +87,6 @@ Les clients Marketo Engage qui utilisent également Adobe Experience Platform (A
 
 * **Vérification des emails**: À compter de cette version, les abonnements des Marketo Engage commenceront à demander aux utilisateurs &quot;non API uniquement&quot; de vérifier les adresses électroniques. Les courriers électroniques des utilisateurs authentifiés du service d’annuaire seront automatiquement vérifiés lorsque leur abonnement sera activé avec la vérification des courriers électroniques. La vérification par e-mail des utilisateurs qui utilisent la fonction &quot;Se connecter dans la boîte de dialogue d’invitation&quot; ou des abonnés auxquels un seul e-mail est associé à plusieurs utilisateurs dans l’abonnement sera retardée et coïncide avec l’abandon de la fonctionnalité en mars.
 
-* **Boîte de dialogue d’invitation**: En mars, la fonctionnalité facultative existante &quot;Connexion à la boîte de dialogue d’invitation d’utilisateur&quot; sera abandonnée. La fonctionnalité &quot;Connexion à la boîte de dialogue d’invitation d’utilisateur&quot; est remplacée par la fonctionnalité d’ID universel, qui est requise pour l’intégration système Identity Management à Adobe à venir et qui a été activée en août 2021 sur tous les abonnements. Suite à cette obsolescence, Marketo Engage applique tous les identifiants (connexions) d’utilisateur à l’adresse électronique de l’utilisateur et autorise uniquement un utilisateur à être associé par adresse électronique dans un abonnement.
+* **Boîte de dialogue d’invitation**: En mars, la fonctionnalité facultative existante &quot;Connexion à la boîte de dialogue d’invitation d’utilisateur&quot; sera abandonnée. La fonctionnalité &quot;Connexion à la boîte de dialogue d’invitation d’utilisateur&quot; est remplacée par la fonctionnalité d’ID universel, qui est requise pour l’intégration système Identity Management à Adobe à venir et qui a été activée en août 2021 sur tous les abonnements. En raison de cette obsolescence, Marketo Engage impose qu’un seul utilisateur soit associé par adresse électronique dans un abonnement.
 
 **Domaines Marketo Engage - Configuration de Sales Insight**: Pour les domaines de Marketo Engage pour lesquels le certificat SSL n’est pas configuré et https://, les appels échouent avec une erreur de liaison SSL. Par conséquent, ces domaines vont être supprimés. Par conséquent, les utilisateurs de Sales Insight disposant d’une ancienne configuration pointant vers l’un de ces domaines peuvent rencontrer des erreurs d’légende système sur leur page Lead, contact, compte, panneaux d’opportunités ou globale Marketo. Nous vous recommandons de mettre à jour votre [Configuration du Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) dans Salesforce si vous rencontrez cette erreur. Il vous suffit de mettre à jour les informations d’identification du Marketo Engage en surbrillance dans la section &quot;Configuration de Marketo Sales Insight&quot; du document.
