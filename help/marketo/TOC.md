@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: c4db281bc1b92bdd3ecc3c8b0aaf7e2f21d1f987
+source-git-commit: 23873e440f194f75a39532d650cc3e18e3baf98c
 workflow-type: tm+mt
-source-wordcount: '8205'
+source-wordcount: '8209'
 ht-degree: 5%
 
 ---
@@ -1277,6 +1277,7 @@ ht-degree: 5%
       + Actions {#actions}
          + Démarrer {#getting-started}
             + [Guide d’intégration des utilisateurs des actions MSI](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [Guide d’administration des actions MSI](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
             + [Modification du mot de passe des ventes Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + Paramètres e-mail {#email-settings}
                + [Vérifier votre e-mail](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
