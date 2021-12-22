@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: a5bc634bd3b5ec0849617a9fe366a106691ce149
+source-git-commit: 1fba4140761561e8707abfc1a215b1f23c665393
 workflow-type: tm+mt
 source-wordcount: '8208'
 ht-degree: 5%
@@ -548,7 +548,7 @@ ht-degree: 5%
             + [Mappage des champs Dynamics par défaut](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Synchronisation Microsoft Dynamics : Synchronisation des comptes](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
             + [Synchronisation Microsoft Dynamics : Synchronisation des contacts](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
-            + [Activation de la synchronisation pour une entité personnalisée](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md)
+            + [Activation de la synchronisation pour une entité personnalisée](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
             + [Synchronisation Microsoft Dynamics : Synchronisation des champs](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
             + [Utilisation de la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ personnalisé](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
             + [Modification des champs à synchroniser avant leur suppression dans Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
