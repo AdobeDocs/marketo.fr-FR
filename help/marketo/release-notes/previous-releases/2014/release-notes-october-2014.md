@@ -3,7 +3,7 @@ unique-page-id: 2953334
 description: Notes de mise à jour - Octobre 2014 - Documentation Marketo - Documentation du produit
 title: Notes de mise à jour - Octobre 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Vérifiez la disponibilité de votre édition Marketo. La documentation sera dis
 
 ## Mise au point du programme dans le calendrier marketing {#program-focus-in-marketing-calendar}
 
-[Créez et éditez ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) des entrées directement à partir du calendrier marketing.
+[Création et modification d’entrées](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) directement à partir du calendrier marketing.
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
@@ -29,21 +29,21 @@ Utilisez l’API pour extraire de nouvelles activités ou des modifications appo
 * Obtention des types d’activité
 * Obtenir le jeton de pagination
 
-Les détails complets seront disponibles après cette version à l’adresse [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+Des détails complets seront disponibles après cette version à l’adresse [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 ## MSI - Envoyer le courrier électronique Marketo pour Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[Envoyez et effectuez le suivi des ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) emails de vente aux prospects et aux contacts de Microsoft Dynamics.
+[Envoi et suivi des emails de vente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) pour obtenir des pistes et des contacts à partir de Microsoft Dynamics.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
 ## MSI - Ajouter aux campagnes Marketo pour Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Ajoutez des pistes et des contacts aux ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) campagnes dynamiques Marketo directement depuis Microsoft Dynamics. Le marketing peut choisir les campagnes Marketo disponibles pour les ventes.
+[Ajout de prospects et de contacts à des campagnes dynamiques Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) directement depuis Microsoft Dynamics. Le marketing peut choisir les campagnes Marketo disponibles pour les ventes.
 
 ## Prise en charge des entités personnalisées pour la synchronisation Microsoft Dynamics {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[Utilisez les ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) données d’objet personnalisées de Microsoft Dynamics pour le filtrage et le déclenchement dans les listes dynamiques, les campagnes dynamiques, les programmes, etc.
+[Utiliser des données d’objet personnalisées](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) de Microsoft Dynamics pour le filtrage et le déclenchement dans les listes dynamiques, les campagnes dynamiques, les programmes...
 
 ## Prise en charge des actionnaires pour la synchronisation Microsoft Dynamics {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -59,7 +59,7 @@ Le tableau de bord a été amélioré afin d’inclure plus de données en un co
 
 ## RTP : nouveaux modèles mobiles pour les campagnes {#rtp-new-mobile-templates-for-campaigns}
 
-Créez rapidement et facilement des [campagnes mobiles](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) avec ces nouveaux modèles.
+Rapide et facile [créer des campagnes mobiles ;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) avec ces nouveaux modèles.
 
 ## RTP - API de contexte utilisateur {#rtp-user-context-api}
 
@@ -69,4 +69,4 @@ Utilisez un nouvel appel qui effectue le suivi de l’historique des visites pas
 * Produits intéressés
 * Quelles campagnes RTP ont-elles vues ?
 
-Consultez [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) pour plus de détails.
+Visite [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) pour plus d’informations.
