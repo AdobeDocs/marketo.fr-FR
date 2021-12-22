@@ -3,9 +3,10 @@ description: Connexion d’un nouvel administrateur à Marketo - Documents Marke
 title: Connexion d’un nouvel administrateur à Marketo
 hide: true
 hidefromtoc: true
-source-git-commit: 0ed5981470998dadd5f42384cd2e9572fec94ef6
+exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
+source-git-commit: 4055b121b416f3fa56abcfa21d370d148d3ab3c4
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '494'
 ht-degree: 0%
 
 ---
@@ -16,13 +17,13 @@ Si l’autre administrateur est déjà connecté à Marketo, il doit uniquement 
 
 Si le second administrateur n’est pas connecté à Marketo en tant qu’administrateur...
 
-1. L’administrateur Principal doit déconnecter le second administrateur de Marketo de Paramètres > Marketo > Accès utilisateur.
+1. L’Principal administrateur doit déconnecter le second administrateur de Marketo de Paramètres > Marketo > Accès utilisateur.
 
-1. L’administrateur Secondaire se connecte à son compte MSC, accède à Paramètres > Marketo et clique sur **Connexion**.
+1. L’administrateur secondaire se connecte à son compte MSC, accède à Paramètres > Marketo, puis clique sur **Connexion**.
 
 1. Désormais, l’utilisateur secondaire est connecté à Marketo en tant qu’administrateur.
 
-1. L’administrateur Principal peut désormais se connecter et se déconnecter de Marketo.
+1. L’Principal administrateur peut désormais se connecter et se déconnecter de Marketo.
 
 >[!NOTE]
 >
@@ -30,9 +31,9 @@ Si le second administrateur n’est pas connecté à Marketo en tant qu’admini
 
 ## Mettre à jour votre connexion Marketo {#update-your-marketo-connection}
 
-Si vous décidez de supprimer l’administrateur qui a configuré l’intégration Marketo, consultez cet article pour en savoir plus.
+Si vous décidez de supprimer l’administrateur qui configure l’intégration Marketo, consultez cet article pour en savoir plus.
 
-L’intégration de Marketo sera liée à un utilisateur administrateur Connect de ventes/Actions. En règle générale, il s’agit de l’administrateur qui a cliqué pour la première fois sur le bouton &quot;Se connecter&quot; sur la page de connexion de Marketo et qui a établi la connexion.
+L’intégration de Marketo sera liée à un utilisateur administrateur de Connect de vente/Actions. En règle générale, il s’agit de l’administrateur qui a cliqué pour la première fois sur le bouton &quot;Se connecter&quot; sur la page de connexion de Marketo et qui a établi la connexion.
 
 Pour supprimer l’administrateur qui a établi la connexion Marketo, une nouvelle connexion doit d’abord être établie par un autre utilisateur administrateur. Nous avons répertorié ci-dessous les tâches qui doivent être terminées pour ce faire.
 
@@ -42,7 +43,7 @@ Pour simplifier les instructions, nous nous référerons à l’administrateur a
 
 1. Demandez à l’administrateur B (nouvel administrateur) d’établir une nouvelle connexion à Marketo.
 
-1. Déconnectez l’administrateur A (administrateur connecté à l’origine).
+1. Déconnectez l’administrateur A (administrateur initialement connecté).
 
 >[!NOTE]
 >
@@ -52,7 +53,7 @@ Pour simplifier les instructions, nous nous référerons à l’administrateur a
 
 L’administrateur A (administrateur responsable à l’origine de la connexion) doit suivre ces étapes.
 
-1. Accédez aux paramètres .
+1. Dans l’application web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
 
 1. Cliquez sur **Marketo**.
 
@@ -66,7 +67,7 @@ L’administrateur A (administrateur responsable à l’origine de la connexion)
 
 Ces étapes doivent être suivies par l’administrateur B (nouvel administrateur).
 
-1. Accédez aux paramètres .
+1. Dans l’application web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
 
 1. Cliquez sur **Marketo**.
 
@@ -76,10 +77,10 @@ Ces étapes doivent être suivies par l’administrateur B (nouvel administrateu
 
 Ces étapes doivent être suivies par l’administrateur A (administrateur connecté à l’origine).
 
-1. Accédez aux paramètres .
+1. Dans l’application web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
 
 1. Cliquez sur **Marketo**.
 
 1. Cliquez sur **Déconnecter**.
 
-Maintenant qu’un nouvel administrateur a établi une connexion à Marketo et que l’administrateur d’origine a été déconnecté, l’administrateur d’origine connecté peut être supprimé de l’instance Connect/Actions de vente en toute sécurité.
+Maintenant qu’un nouvel administrateur a établi une connexion à Marketo et que l’administrateur d’origine a été déconnecté, l’administrateur d’origine peut être supprimé de l’instance Connect/Actions de vente en toute sécurité.
