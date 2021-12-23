@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 1fba4140761561e8707abfc1a215b1f23c665393
+source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
 workflow-type: tm+mt
-source-wordcount: '8208'
+source-wordcount: '8206'
 ht-degree: 5%
 
 ---
@@ -523,14 +523,13 @@ ht-degree: 5%
             + [Mise à jour de la solution Marketo pour Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Validation de la synchronisation Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Affichage de l’URL du service d’organisation](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
-            + Microsoft Dynamics 2011 On-Premise {#microsoft-dynamics-2011-on-premises}
-               + [Étape 1 sur 3 : Installation de la solution Marketo (2011 On-Premise)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
-               + [Étape 2 sur 3 : Configuration de l’utilisateur de synchronisation Marketo dans Dynamics (2011 On-Premise)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
-               + [Étape 3 sur 3 : Connexion de Microsoft Dynamics à Marketo (2011 On-Premise)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 2013 On-Premise {#microsoft-dynamics-2013-on-premises}
-               + [Étape 1 sur 3 : Installation de la solution Marketo dans Dynamics (2013 On-Premise)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
-               + [Étape 2 sur 3 : Configuration de l’utilisateur de synchronisation pour Marketo (2013 On-Premise)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
-               + [Étape 3 sur 3 : Connexion à Marketo et Dynamics (On-Premise 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+            + Connexion à des versions héritées {#connecting-to-legacy-versions}
+               + [Étape 1 sur 3 : Installation de la solution Marketo (2011 On-Premise)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+               + [Étape 2 sur 3 : Configuration de l’utilisateur de synchronisation Marketo dans Dynamics (2011 On-Premise)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+               + [Étape 3 sur 3 : Connexion de Microsoft Dynamics à Marketo (2011 On-Premise)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
+               + [Étape 1 sur 3 : Installation de la solution Marketo dans Dynamics (2013 On-Premise)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+               + [Étape 2 sur 3 : Configuration de l’utilisateur de synchronisation pour Marketo (2013 On-Premise)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
+               + [Étape 3 sur 3 : Connexion à Marketo et Dynamics (On-Premise 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
             + Microsoft Dynamics 2015 On-Premise/2016 Dynamics 365 On-Premise {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
                + [Étape 1 sur 3 : Installer la solution Marketo - 2015 On-Premise / 2016 Dynamics 365 On-Premise](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Étape 2 sur 3 : Configuration de l’utilisateur de synchronisation Marketo dans Dynamics 2015 On-Premise / 2016 Dynamics 365 On-Premise](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
