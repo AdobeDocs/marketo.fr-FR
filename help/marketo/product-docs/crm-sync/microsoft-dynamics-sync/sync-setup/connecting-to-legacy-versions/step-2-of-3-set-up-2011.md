@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: Étape 2 sur 3 - Configuration de l’utilisateur de synchronisation Marketo dans Dynamics (2011 On-Premise) - Documents Marketo - Documentation du produit
 title: Étape 2 sur 3 - Configuration de l’utilisateur de synchronisation Marketo dans Dynamics (2011 On-Premise)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: e55f3ea02c64410bab92a9123289bac6e859022a
+source-git-commit: d4461e1bb73b7494970b4fde30fe551d9a5775d2
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -55,7 +55,8 @@ Attribuez le rôle Utilisateur de synchronisation Marketo uniquement à l’util
    >Si vous ne voyez pas le rôle, revenez à [étape 1 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) et importez la solution.
 
    >[!NOTE]
-   Toutes les mises à jour effectuées dans votre CRM par l’utilisateur de synchronisation **not** être synchronisé à nouveau avec Marketo.
+   >
+   >Toutes les mises à jour effectuées dans votre CRM par l’utilisateur de synchronisation **not** être synchronisé à nouveau avec Marketo.
 
 ## Configuration de la solution Marketo {#configure-marketo-solution}
 
@@ -66,7 +67,8 @@ Presque fini ! Nous n&#39;avons que quelques derniers éléments de configuratio
    ![](assets/image2015-4-2-14-3a20-3a51.png)
 
    >[!NOTE]
-   Si la configuration Marketo est manquante, essayez d’actualiser la page. Si le problème persiste, [publier de nouveau la solution Marketo ;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) ou déconnectez-vous et reconnectez-vous.
+   >
+   >Si la configuration Marketo est manquante, essayez d’actualiser la page. Si le problème persiste, [publier de nouveau la solution Marketo ;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) ou déconnectez-vous et reconnectez-vous.
 
 1. Cliquez sur **Par défaut**.
 
@@ -97,4 +99,5 @@ Presque fini ! Nous n&#39;avons que quelques derniers éléments de configuratio
 Bon boulot !
 
 >[!MORELIKETHIS]
-[Étape 3 sur 3 : Connexion de Microsoft Dynamics à Marketo (2011 On-Premise)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
+>
+>[Étape 3 sur 3 : Connexion de Microsoft Dynamics à Marketo (2011 On-Premise)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
