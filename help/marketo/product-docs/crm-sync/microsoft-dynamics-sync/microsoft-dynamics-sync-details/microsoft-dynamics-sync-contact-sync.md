@@ -3,9 +3,9 @@ unique-page-id: 3571833
 description: Synchronisation Microsoft Dynamics - Synchronisation des contacts - Documents Marketo - Documentation du produit
 title: Synchronisation Microsoft Dynamics - Synchronisation des contacts
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Non, la synchronisation en arrière-plan automatisée est le seul moyen de synch
 
 ## Quels champs seront synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
 
-Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) lors de la configuration. Mais Marketo synchronise uniquement les champs auxquels votre utilisateur de synchronisation Dynamics a accès.
+Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) lors de la configuration. Mais Marketo synchronise uniquement les champs auxquels votre utilisateur de synchronisation Dynamics a accès.
 
 ## Marketo respectera-t-il les règles de validation Dynamics ? {#will-marketo-respect-the-dynamics-validation-rules}
 
