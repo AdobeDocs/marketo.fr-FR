@@ -1,46 +1,45 @@
 ---
 unique-page-id: 3571838
-description: Microsoft Dynamics Sync -Field Sync - Marketo Docs - Documentation du produit
-title: Microsoft Dynamics Sync -Field Sync
+description: Synchronisation Microsoft Dynamics - Synchronisation des champs - Documents Marketo - Documentation du produit
+title: Synchronisation des champs Microsoft Dynamics
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics Sync : Synchronisation des champs {#microsoft-dynamics-sync-field-sync}
+# Synchronisation Microsoft Dynamics : Synchronisation des champs {#microsoft-dynamics-sync-field-sync}
 
-Marketo to Dynamics sync est très puissant. Voici les détails.
+La synchronisation entre Marketo et Dynamics est très puissante. Voici les détails.
 
 ## Comment les détails des champs sont-ils synchronisés entre les deux systèmes ? {#how-are-field-details-kept-in-sync-between-the-two-systems}
 
-La synchronisation est bidirectionnelle pour les entités de piste et de contact. Si vous apportez des modifications à un prospect ou contact dans Dynamics ou à une personne dans Marketo, vos mises à jour seront répercutées dans les deux systèmes.
+La synchronisation est bidirectionnelle pour les entités de prospect et de contact. Si vous apportez des modifications à un prospect ou à un contact dans Dynamics ou à une personne dans Marketo, vos mises à jour seront répercutées dans les deux systèmes.
 
-Pour les entités de compte, d’utilisateur, d’opportunité, d’équipe et personnalisées, la synchronisation est à sens unique : Dynamique vers Marketo. Si vous apportez des modifications à ces entités dans Dynamics, vos mises à jour seront répercutées dans Marketo.
+Pour les entités de compte, d’utilisateur, d’opportunité, d’équipe et personnalisées, la synchronisation est unidirectionnelle : Dynamics vers Marketo. Si vous apportez des modifications à ces entités dans Dynamics, vos mises à jour seront répercutées dans Marketo.
 
-## Que se passe-t-il si des modifications sont apportées au même champ dans les deux systèmes en même temps ? (Collision de données) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
+## Que se passe-t-il si des modifications sont apportées simultanément au même champ dans les deux systèmes ? (Collision de données) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Bien que cela soit rare, Marketo gagnera pour les gens (pistes) et Dynamics gagnera pour les contacts. Cela est dû au fait que nous considérons le service marketing comme faisant autorité pour les gens, alors que le système officiel d&#39;enregistrement des contacts se trouve dans le service des ventes (CRM). Pour les entités de synchronisation à sens unique, Dynamics gagnera toujours.
+Bien que cela soit rare, Marketo gagnera pour les personnes (pistes) et Dynamics gagnera pour les contacts. En effet, nous considérons que le service marketing fait autorité pour les personnes, alors que le système officiel d&#39;enregistrement des contacts est celui des ventes (CRM). Pour les entités de synchronisation unidirectionnelle, Dynamics gagnera toujours.
 
-## Puis-je créer un champ dans Dynamics using Marketo ? {#can-i-create-a-field-in-dynamics-using-marketo}
+## Puis-je créer un champ dans Dynamics à l’aide de Marketo ? {#can-i-create-a-field-in-dynamics-using-marketo}
 
-Non, ceci n&#39;est pas pris en charge actuellement.
+Non, cela n’est actuellement pas pris en charge.
 
-## J&#39;ai créé un champ dans Dynamics. Puis-je le synchroniser avec Marketo ? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
+## J’ai créé un champ dans Dynamics. Puis-je le synchroniser avec Marketo ? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-Oui, vous pouvez [synchroniser le champ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) tant que votre utilisateur de synchronisation y a accès dans Dynamics.
+Oui, vous pouvez [synchronisation du champ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) tant que votre utilisateur de synchronisation y a accès dans Dynamics.
 
 ## Quels champs seront synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
 
-Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) pendant la configuration.
+Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) lors de la configuration.
 
-## Que se passe-t-il si je dois ajouter un champ personnalisé après la synchronisation de Marketo et Dynamics ? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
+## Que se passe-t-il si je dois ajouter un champ personnalisé après la synchronisation de Marketo et de Dynamics ? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-Vous pouvez ajouter des champs à tout moment et vous vous attendez à ce que les données soient actualisées de Dynamics vers Marketo. Voir [Utilisation de la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ personnalisé](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) pour plus d&#39;informations.
+Vous pouvez ajouter des champs à tout moment et vous attendre à ce que les données soient actualisées de Dynamics vers Marketo. Voir [Utilisation de la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ personnalisé](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) pour plus d’informations.
 
-## Que se passe-t-il si je souhaite supprimer un champ dans Dynamics après l&#39;ajout du champ à la synchronisation ? {#what-if-i-want-to-delete-a-field-in-dynamics-after-the-field-has-been-added-to-sync}
+## Que se passe-t-il si je souhaite supprimer un champ dans Dynamics après l’ajout du champ à la synchronisation ? {#what-if-i-want-to-delete-a-field-in-dynamics-after-the-field-has-been-added-to-sync}
 
-Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Actualisez ensuite le schéma dans Marketo en modifiant et en enregistrant [Sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la variable [sync désactivé](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Actualisez ensuite le schéma dans Marketo en modifiant et en enregistrant le [Sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
