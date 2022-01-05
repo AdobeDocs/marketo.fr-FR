@@ -1,7 +1,7 @@
 ---
 description: Étape 1 sur 3 - Installation de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource - Documents Marketo - Documentation du produit
 title: Étape 1 sur 3 - Installation de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -90,4 +90,4 @@ Avant de pouvoir synchroniser Microsoft Dynamics 365 et Marketo, vous devez inst
 
    >[!MORELIKETHIS]
    >
-   >[Étape 2 sur 3 : Configuration de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire des ressources](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-3-set-up.md)
+   >[Étape 2 sur 4 : Configuration de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire des ressources](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
