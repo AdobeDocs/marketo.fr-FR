@@ -1,9 +1,9 @@
 ---
 description: Étape 2 sur 3 - Configuration de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource - Documents Marketo - Documentation du produit
 title: Étape 2 sur 3 - Configuration de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -126,12 +126,6 @@ Presque là ! Il ne nous reste plus qu’à informer la solution Marketo sur le 
 
    ![](assets/nineteen.png)
 
-## Avant de passer à l’étape 3 {#before-proceeding-to-step}
-
-* Si vous souhaitez limiter le nombre d&#39;enregistrements synchronisés, [configuration d’un filtre de synchronisation personnalisé](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) maintenant.
-* Exécutez la variable [Validation de la synchronisation Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) processus. Il vérifie que vos premières configurations ont été effectuées correctement.
-* Connectez-vous à l’utilisateur de synchronisation Marketo dans Microsoft Dynamics CRM.
-
-   >[!MORELIKETHIS]
-   >
-   >[Étape 3 sur 4 : Connexion de la solution Marketo à la connexion de contrôle de mot de passe du propriétaire des ressources](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+>[!MORELIKETHIS]
+>
+>[Étape 3 sur 4 : Connexion de la solution Marketo à la connexion de contrôle de mot de passe du propriétaire des ressources](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
