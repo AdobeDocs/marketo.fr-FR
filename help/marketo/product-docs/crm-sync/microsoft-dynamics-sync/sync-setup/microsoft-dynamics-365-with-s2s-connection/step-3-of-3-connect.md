@@ -3,7 +3,7 @@ unique-page-id: 3571830
 description: Étape 3 sur 3 - Connexion de la solution Marketo à S2S Connection - Marketo Docs - Documentation du produit
 title: Étape 3 sur 3 - Connexion de la solution Marketo à la connexion S2S
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
+source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 1%
@@ -56,7 +56,7 @@ Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque 
 
 1. Saisissez le **Nom d’utilisateur**, **Mot de passe**, **ID client**, **Secret du client**, et Microsoft Dynamics **URL**. Cliquez sur **Enregistrer** une fois terminé.
 
-   ![](assets/step-3-of-3-s2s-5.png)
+   ![](assets/step-3-of-3-connect-s2s-5.png)
 
    >[!NOTE]
    >
