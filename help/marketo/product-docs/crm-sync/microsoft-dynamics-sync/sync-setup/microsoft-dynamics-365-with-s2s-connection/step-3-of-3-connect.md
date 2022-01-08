@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571830
-description: Étape 3 sur 3 - Connexion de la solution Marketo à S2S Connection - Marketo Docs - Documentation du produit
-title: Étape 3 sur 3 - Connexion de la solution Marketo à la connexion S2S
+description: Étape 3 sur 3 - Connexion de la solution Marketo à la connexion du serveur au serveur - Documents Marketo - Documentation du produit
+title: Étape 3 sur 3 - Connexion de la solution Marketo à la connexion serveur à serveur
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '443'
 ht-degree: 1%
 
 ---
 
-# Étape 3 sur 3 : Connexion de la solution Marketo à la connexion S2S {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# Étape 3 sur 3 : Connexion de la solution Marketo à la connexion serveur à serveur {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque !
 
 >[!PREREQUISITES]
 >
->* [Étape 1 sur 3 : Installation de la solution Marketo avec la connexion S2S](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [Étape 2 sur 3 : Configuration de la solution Marketo avec la connexion S2S](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [Étape 1 sur 3 : Installation de la solution Marketo avec connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>* [Étape 2 sur 3 : Configuration de la solution Marketo avec connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
