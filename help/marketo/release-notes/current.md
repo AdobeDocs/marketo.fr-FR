@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1039'
 ht-degree: 2%
 
 ---
@@ -87,3 +87,7 @@ Les clients Marketo Engage qui utilisent également Adobe Experience Platform (A
 * **Boîte de dialogue d’invitation**: En mars, la fonctionnalité facultative existante &quot;Connexion à la boîte de dialogue d’invitation d’utilisateur&quot; sera abandonnée. La fonctionnalité &quot;Connexion à la boîte de dialogue d’invitation d’utilisateur&quot; est remplacée par la fonctionnalité d’ID universel, qui est requise pour l’intégration système Identity Management à Adobe à venir et qui a été activée en août 2021 sur tous les abonnements. En raison de cette obsolescence, Marketo Engage impose qu’un seul utilisateur soit associé par adresse électronique dans un abonnement.
 
 **Domaines Marketo Engage - Configuration de Sales Insight**: Pour les domaines de Marketo Engage pour lesquels le certificat SSL n’est pas configuré et https://, les appels échouent avec une erreur de liaison SSL. Par conséquent, ces domaines vont être supprimés. Par conséquent, les utilisateurs de Sales Insight disposant d’une ancienne configuration pointant vers l’un de ces domaines peuvent rencontrer des erreurs d’légende système sur leur page Lead, contact, compte, panneaux d’opportunités ou globale Marketo. Nous vous recommandons de mettre à jour votre [Configuration du Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) dans Salesforce si vous rencontrez cette erreur. Il vous suffit de mettre à jour les informations d’identification du Marketo Engage en surbrillance dans la section &quot;Configuration de Marketo Sales Insight&quot; du document.
+
+**_Webinaire sur la version du produit_**
+
+Rejoignez-nous le 27 janvier 2022, à 9h00 PT / 12h00 heure de l’Est pour une [webinaire en direct](https://engage.marketo.com/2022_January_Release_Webinar_RegistrationPage.html) hébergée par notre équipe produit, où vous pourrez apprendre à utiliser toutes les dernières innovations de produits.

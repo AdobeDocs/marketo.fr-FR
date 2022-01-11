@@ -2,7 +2,7 @@
 description: Basculer entre - Documents Marketo - Documentation du produit
 title: Basculer entre les deux
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -41,15 +41,15 @@ La nouvelle expérience se charge.
 
 1. Dans Marketo, recherchez et sélectionnez votre formulaire.
 
-   ![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-8.png)
 
 1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
 
-   ![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-9.png)
 
 La nouvelle expérience se charge.
 
-![](assets/toggle-switch-7.png)
+![](assets/toggle-switch-10.png)
 
 ## Activation pour toutes les fonctionnalités {#enable-for-all-features}
 
@@ -57,8 +57,8 @@ Vous avez la possibilité d’activer l’interface nouvelle génération de Mar
 
 1. Dans une zone qui possède actuellement le commutateur de basculement (dans cet exemple, nous sommes dans [Page Détails du formulaire](#form-details-page)), cliquez sur l’icône d’engrenage dans le coin inférieur droit de la page.
 
-   ![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-11.png)
 
 1. Sélectionner **Activer pour toutes les fonctionnalités disponibles** et cliquez sur **OK**.
 
-   ![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-12.png)
