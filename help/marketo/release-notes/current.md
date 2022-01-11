@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '999'
 ht-degree: 2%
 
 ---
@@ -27,8 +27,6 @@ Les fonctionnalités suivantes seront publiées sur **21 janvier 2022**.
 
    * Détails des ressources de page d’entrée dans Design Studio
    * Détails des ressources de page d’entrée dans les activités marketing
-
-* **Contrôle d’administration du commutateur de basculement de l’expérience de nouvelle génération**: Les administrateurs ont la possibilité de sélectionner les types d’utilisateurs qui peuvent accéder au bouton bascule pour afficher les écrans de la nouvelle génération.
 
 ## Intégration à Microsoft Dynamics {#microsoft-dynamics-integration}
 
