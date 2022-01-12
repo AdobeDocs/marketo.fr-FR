@@ -3,9 +3,10 @@ description: Règles de validation de formulaire globales - Documents Marketo - 
 title: Règles de validation de formulaire globales
 hide: true
 hidefromtoc: true
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -20,46 +21,46 @@ Avant de pouvoir utiliser cette fonction, vous devez activer son autorisation se
 
 1. Dans Marketo, cliquez sur **Administration**.
 
-PICC
+   ![](assets/global-form-validation-rules-1.png)
 
 1. Cliquez sur **Utilisateurs et rôles**.
 
-PICC
+   ![](assets/global-form-validation-rules-2.png)
 
 1. Cliquez sur le bouton **Rôles** .
 
-PICC
+   ![](assets/global-form-validation-rules-3.png)
 
 1. Double-cliquez sur le rôle auquel vous souhaitez accorder des autorisations.
 
-PICC
+   PICC
 
 1. Cliquez sur le bouton **+** Connectez-vous en regard de Accès à l’administrateur.
 
-PICC
+   PICC
 
 1. Faites défiler la page vers le bas et sélectionnez **Accès aux règles de validation de formulaire** et cliquez sur **Enregistrer**.
 
-PICC
+   PICC
 
 ## Créer une règle de validation de formulaire {#create-new-form-validation-rule}
 
 1. Dans Marketo, cliquez sur **Administration**.
 
-PICC
+   ![](assets/global-form-validation-rules-7.png)
 
 1. Cliquez sur **Règle de validation de formulaire globale**.
 
-PICC
+   ![](assets/global-form-validation-rules-8.png)
 
 1. Cliquez sur **Nouvelle règle de validation de formulaire**.
 
-PICC
+   ![](assets/global-form-validation-rules-9.png)
+
+   >[!NOTE]
+   >
+   >La liste déroulante Actions de règle de validation de formulaire vous permet de supprimer ou de modifier des règles existantes.
 
 1. Attribuez un nom à votre règle, fournissez-lui une description facultative, puis saisissez le message d’erreur que vous souhaitez que les visiteurs de votre formulaire voient. Saisissez le ou les domaines que vous souhaitez bloquer dans la zone Règles, puis sélectionnez **Activer la règle**, puis cliquez sur **Créer**.
 
-PICC
-
->[!NOTE]
->
->La liste déroulante Actions de règle de validation de formulaire vous permet de supprimer ou de modifier des règles existantes.
+   ![](assets/global-form-validation-rules-10.png)

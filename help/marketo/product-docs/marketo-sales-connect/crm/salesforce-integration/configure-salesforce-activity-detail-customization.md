@@ -4,14 +4,20 @@ title: Configuration de la personnalisation des détails de l’activité Salesf
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '589'
 ht-degree: 1%
 
 ---
 
 # Configuration de la personnalisation des détails de l’activité Salesforce {#configure-salesforce-activity-detail-customization}
+
+>[!PREREQUISITES]
+>
+>* Salesforce et Marketo Sales Connect [doit être connecté](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* Connexion de l’activité d’email via l’API [doit être activé](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+
 
 La personnalisation des détails de l’activité permet aux administrateurs de configurer les informations qui se connecteront au champ d’objet Tâche Salesforce lorsqu’une tâche de rappel/activité de connexion aux ventes est synchronisée avec Salesforce.
 
