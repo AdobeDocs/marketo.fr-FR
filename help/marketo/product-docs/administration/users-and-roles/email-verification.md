@@ -4,21 +4,34 @@ title: Vérification des emails
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 # Vérification des emails {#email-verification}
 
-Je pense que vous avez dit que nous allons juste créer une nouvelle page qui couvre la vérification des emails pour les utilisateurs
+Les abonnements des Marketo Engage Adobe requièrent que tous les utilisateurs non-API seulement vérifient leur adresse électronique. Les utilisateurs de l’authentification unique (SSO) verront automatiquement leur email vérifié lorsque leur abonnement est activé avec la vérification d’email.
 
-Invitation d’un utilisateur Lorsqu’un administrateur invite un utilisateur, aucune modification n’est apportée à l’interface utilisateur ni à l’expérience de l’utilisateur Lorsque l’utilisateur clique sur le lien d’invitation, son email est automatiquement vérifié Les utilisateurs avec SSO sont automatiquement vérifiés.
+**Invitation d’utilisateur**
 
-L’écran Compte d’utilisateur affiche l’adresse électronique comme vérifiée Lorsque l’adresse électronique est mise à jour, l’interface utilisateur indique que l’adresse électronique du compte n’est pas vérifiée et que l’adresse électronique est envoyée (voir l’adresse électronique en pièce jointe).
+Lorsqu’un administrateur invite un utilisateur, celui-ci est automatiquement vérifié lorsqu’il clique sur le lien d’invitation. Les utilisateurs disposant d’une authentification unique sont automatiquement vérifiés.
 
-Admin - Page Utilisateurs et rôles Nouvelle colonne présentant l’état de vérification d’un utilisateur Nouveau bouton pour déclencher à nouveau la vérification par e-mail de l’utilisateur.
+**Modification d’une adresse électronique**
 
-MyMarketo Lorsque l’utilisateur qui dispose d’un courrier électronique non vérifié se connecte, il doit voir une bannière sur la page Mon Marketo (UNIQUEMENT).
+Lorsque l’adresse électronique d’un utilisateur est modifiée, elle n’est plus vérifiée. Un email leur sera envoyé pour leur permettre de vérifier à nouveau. Les administrateurs peuvent renvoyer manuellement cet email en cliquant sur **Vérification du renvoi**.
+
+![](assets/email-verification-1.png)
+
+![](assets/email-verification-2.png)
+
+**Utilisateurs et rôles**
+
+Dans Admin > Utilisateurs et rôles, la colonne État de l’email indique l’état de vérification de chaque utilisateur.
+
+![](assets/email-verification-3.png)
+
+Pour vérifier un utilisateur non vérifié, sélectionnez simplement son enregistrement et cliquez sur le bouton **Vérifier le courrier électronique** bouton .
+
