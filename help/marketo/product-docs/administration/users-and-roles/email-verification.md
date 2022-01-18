@@ -4,7 +4,7 @@ title: Vérification des emails
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Dans Admin > Utilisateurs et rôles, la colonne État de l’email indique l’�
 ![](assets/email-verification-3.png)
 
 Pour vérifier un utilisateur non vérifié, sélectionnez simplement son enregistrement et cliquez sur le bouton **Vérifier le courrier électronique** bouton .
-

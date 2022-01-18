@@ -3,9 +3,9 @@ unique-page-id: 37357043
 description: Présentation des fonctionnalités - Documents Marketo - Documentation du produit
 title: Présentation des fonctionnalités
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '195'
 ht-degree: 30%
 
 ---
@@ -64,7 +64,15 @@ Les fonctionnalités suivantes sont disponibles dans la nouvelle solution MSI MS
 * Ajouter à la campagne Marketo
 * Envoyer l&#39;e-mail Marketo
 
-## Bons à tirer de Marketo  {#marketo-best-bets-page}
+## Panneau Marketo Sales Insight dans la disposition du compte {#marketo-sales-insight-panel-in-account-layout}
+
+* Etoiles et flammes
+* Moment significatif
+* Activité Web
+* Évaluation
+* Courrier électronique (ouvrir et cliquer)
+
+## Bons à tirer de Marketo {#marketo-best-bets-page}
 
 * Priorité (étoiles et flammes)
 * Nom (lié à la page Prospect/Contact)
