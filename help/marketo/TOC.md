@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+source-git-commit: 655728b5c60f0215c973b87d581fc0c45eb25c88
 workflow-type: tm+mt
-source-wordcount: '8259'
+source-wordcount: '8261'
 ht-degree: 5%
 
 ---
@@ -361,6 +361,7 @@ ht-degree: 5%
             + [Création d’une liste statique](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Envoi d’une liste à Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
             + [Envoi d’un segment Adobe Experience Platform vers une liste statique Marketo](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
+            + [Clonage push](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-clone.md)
             + [Présentation des listes statiques](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programmes {#programs}
          + Création de programmes {#creating-programs}
@@ -716,7 +717,7 @@ ht-degree: 5%
             + [Aperçu d’une page d’entrée avec du contenu dynamique](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [Aperçu d’une page d’entrée](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
             + [Redirection d’une page d’entrée Marketo vers une autre page](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-         + Modèles de pages de destination {#landing-page-templates}
+         +  modèles de page de destination{#landing-page-templates}
             + [Créer un modèle de page d’entrée de forme libre](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Création d’un modèle de page d’entrée guidée](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
             + [Modification d’un modèle de page d’entrée Marketo](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
