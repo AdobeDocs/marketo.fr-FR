@@ -3,9 +3,9 @@ description: Clone push - Documents Marketo - Documentation du produit
 title: Clonage push
 hide: true
 hidefromtoc: true
-source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
+source-git-commit: 58b9589e5364584c3b2f41dc1a32496a18574429
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
+   >[!NOTE]
+   >
+   >Si vous choisissez Nouveau compte, vous pouvez trouver votre Munchkin ID en accédant à **Administration** > **Munchkin** (il fait également partie de votre URL Marketo une fois connecté). Identifiant du client/secret que vous devez posséder en suivant les conditions préalables dans la partie supérieure de cet article.
+
 1. Sélectionnez le compte de destination et cliquez sur **Sélectionner**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
@@ -73,6 +77,10 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 1. Sélectionnez le segment à envoyer à Marketo, puis cliquez sur **Suivant**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
+
+   >[!NOTE]
+   >
+   >Si vous choisissez ici plusieurs segments, vous devrez associer chaque segment à une liste statique spécifiée dans l’onglet Planification de segments .
 
 1. Cliquez sur **Ajouter un nouveau mappage**.
 
@@ -102,6 +110,10 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
+   >[!IMPORTANT]
+   >
+   >Mappage de l’e-mail et/ou de l’ECID à partir de **Espace de noms d’identité** est la chose la plus importante à faire pour s’assurer que la personne correspond dans Marketo. Mapping Email garantit le taux de correspondance le plus élevé.
+
 1. Il est maintenant temps de choisir les champs sources. Pour envoyer un courrier électronique, cliquez sur l’icône représentant un curseur.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
@@ -129,6 +141,10 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 1. Vous aurez désormais besoin de l’identifiant de votre liste. Cliquez sur l’onglet de votre navigateur dans lequel votre liste statique Marketo est ouverte (ou ouvrez un nouvel onglet et sélectionnez la liste statique de votre choix).
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+   >[!NOTE]
+   >
+   >Pour de meilleurs résultats, utilisez une liste de Marketo Engage vide.
 
 1. Mettez en surbrillance l’identifiant de liste et copiez-le à la fin de l’URL.
 
