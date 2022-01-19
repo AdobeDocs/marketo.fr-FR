@@ -1,74 +1,73 @@
 ---
 unique-page-id: 2359685
-description: Tableau de bord d’engagement - Documents marketing - Documentation du produit
-title: Le Tableau de bord d'engagement
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Tableau de bord de l’engagement - Documents Marketo - Documentation du produit
+title: Tableau de bord de l’engagement
+exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
+source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
+# Tableau de bord de l’engagement {#the-engagement-dashboard}
 
-# Tableau de bord d’engagement {#the-engagement-dashboard}
-
-Le Tableau de bord d’engagement est le moyen le plus simple de déterminer les performances du contenu de votre programme d’engagement.
+Le tableau de bord Engagement est le moyen le plus simple de voir les performances du contenu de votre programme d’engagement.
 
 >[!NOTE]
 >
->Le score d’engagement est calculé 72 heures après chaque diffusion. En savoir plus sur le [score d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>Le score d’engagement comprend les données de vos trois dernières diffusions. Un nouveau est calculé 72 heures après chaque diffusion. En savoir plus sur les [score d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-## Vue du Tableau de bord d’engagement {#view-the-engagement-dashboard}
+## Affichage du tableau de bord de l’engagement {#view-the-engagement-dashboard}
 
-Sélectionnez votre programme d’engagement et cliquez sur **Vue** > **Tableau de bord**.
+Sélectionnez votre programme d’engagement et cliquez sur **Affichage** > **Tableau de bord**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Consultez le rapport [performances du flux d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) pour obtenir des statistiques plus détaillées.
+>Consultez la section [rapport sur les performances du flux d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) pour des statistiques plus détaillées.
 
-## Comprendre le widget d&#39;épuisement {#understand-the-exhaustion-widget}
+## Comprendre le widget d’épuisement {#understand-the-exhaustion-widget}
 
-Ce widget vous permet de prévoir quand les pistes auront épuisé tout le contenu. Le score d&#39;épuisement est calculé immédiatement après chaque distribution. L&#39;exemple ci-dessous montre que dans 1 cast, 195 pistes ont épuisé tout le contenu.
+Ce widget vous permet d’anticiper le moment où les pistes auront épuisé tout le contenu. Le score d&#39;épuisement est calculé immédiatement après chaque diffusion. L’exemple ci-dessous montre que dans 1 diffusion, 195 pistes ont épuisé tout le contenu.
 
 ![](assets/image2014-9-15-16-3a45-3a10.png)
 
 >[!NOTE]
 >
->Vous devez accéder à l&#39;onglet Configuration et vous assurer que les notifications de contenu expirées sont **Activées** pour voir le graphique ci-dessus. S&#39;ils sont désactivés, le graphique aura l&#39;air différent.
+>Vous devez accéder à l’onglet Configuration et vous assurer que les notifications de contenu extrait sont **Activé** pour voir le graphique ci-dessus. S’ils sont désactivés, le graphique aura un aspect différent.
 
 >[!CAUTION]
 >
->Les personnes &quot;épuisées&quot; ne recevront aucune communication dans la prochaine distribution.
+>Les personnes &quot;épuisées&quot; ne recevront aucune communication dans la prochaine diffusion.
 
-## Comprendre l’engagement dans le temps Widget {#understand-the-engagement-over-time-widget}
+## Présentation du widget Engagement dans le temps {#understand-the-engagement-over-time-widget}
 
-Indique le score d’engagement moyen au fil du temps et l’impact des modifications de contenu.
+Affiche le score moyen de l’engagement au fil du temps et l’impact des modifications de contenu.
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est disponible en tant que module complémentaire pour les clients qui utilisent l’Explorateur de cycle de revenu de Marketing. Pour plus d’informations, contactez votre responsable de succès client.
+>Cette fonctionnalité est disponible sous la forme d’un module complémentaire pour les clients qui utilisent l’explorateur de cycle de revenu Marketo. Pour plus d’informations, contactez votre responsable du succès client.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 
-Pour afficher un seul élément de contenu au lieu d’une moyenne, cliquez sur l’icône représentant un engrenage, puis sélectionnez l’élément de contenu.
+Pour afficher une seule partie de contenu au lieu d’une moyenne, cliquez sur l’icône représentant un engrenage, puis sélectionnez la partie de contenu.
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## Comprendre le widget d’engagement le plus élevé {#understand-the-highest-engagement-widget}
+## Présentation du widget d’engagement le plus élevé {#understand-the-highest-engagement-widget}
 
 Liste de tout le contenu, triée par le score d’engagement le plus élevé.
 
 ![](assets/image2014-9-15-16-3a46-3a54.png)
 
-Pour modifier le tri, cliquez sur l’icône d’engrenage, puis sélectionnez l’ordre de tri.
+Pour modifier le tri, cliquez sur l’icône représentant un engrenage, puis sélectionnez l’ordre de tri.
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-__ Newestand  __ Oldestare basé sur l&#39;heure de la dernière approbation.
+_Plus récent_ et _Plus ancien_ sont basés sur l’heure de la dernière validation.
 
 >[!NOTE]
 >
->Pour en savoir plus, consultez la section [Création d’un Programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) plongée en profondeur.
+>En savoir plus dans la section [Création d’un programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) plongée profonde.
