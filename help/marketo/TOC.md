@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 655728b5c60f0215c973b87d581fc0c45eb25c88
+source-git-commit: 879500ff3ab464ab56b4cbd779a3021706055790
 workflow-type: tm+mt
-source-wordcount: '8261'
+source-wordcount: '8255'
 ht-degree: 5%
 
 ---
@@ -91,7 +91,6 @@ ht-degree: 5%
          + [Configuration système minimale](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
          + [Navigateurs pris en charge](product-docs/administration/setup-administration/supported-browsers.md)
-         + [Règle de validation de formulaire globale](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + Intégrations supplémentaires {#additional-integrations}
          + [Ajout d’Adobe Connect en tant que service LaunchPoint](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [Ajout de Google AdWords en tant que service Launch avec un compte de gestionnaire](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
@@ -361,7 +360,6 @@ ht-degree: 5%
             + [Création d’une liste statique](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Envoi d’une liste à Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
             + [Envoi d’un segment Adobe Experience Platform vers une liste statique Marketo](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
-            + [Clonage push](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-clone.md)
             + [Présentation des listes statiques](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programmes {#programs}
          + Création de programmes {#creating-programs}
@@ -717,7 +715,7 @@ ht-degree: 5%
             + [Aperçu d’une page d’entrée avec du contenu dynamique](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [Aperçu d’une page d’entrée](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
             + [Redirection d’une page d’entrée Marketo vers une autre page](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-         +  modèles de page de destination{#landing-page-templates}
+         + Modèles de pages de destination {#landing-page-templates}
             + [Créer un modèle de page d’entrée de forme libre](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Création d’un modèle de page d’entrée guidée](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
             + [Modification d’un modèle de page d’entrée Marketo](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
