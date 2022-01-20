@@ -5,7 +5,7 @@ title: Choisir une action dans Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '198'
 ht-degree: 5%
 
 ---
@@ -27,27 +27,28 @@ Chacune de ces fonctions est accessible à partir des éléments suivants :
 * Bouton Mise en page des pistes : Action unique et ne peut pas être contrôlée par le profil utilisateur
 * Bouton Contact Disposition : Action unique et ne peut pas être contrôlée par le profil utilisateur
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-1.png)
 
 **Disposition de page avec action de groupe**
 
-Panneau Disposition du compte : Action de groupe et peut être contrôlée par le panneau Disposition des opportunités du profil utilisateur : Action de groupe et peut être contrôlée par le profil utilisateur
+* Panneau Disposition du compte : Action de groupe et peut être contrôlée par le profil utilisateur
+* Panneau Disposition des opportunités : Action de groupe et peut être contrôlée par le profil utilisateur
 
-![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-2.png)
 
 **Bons billets, onglet**
 
 * Onglet Meilleures actions en bloc : Action de groupe et peut être contrôlée par le profil utilisateur
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-3.png)
 
-* Onglet Meilleures actions intégrées : Action unique et peut être contrôlé par le profil utilisateur
+* Onglet Meilleures actions intégrées : Action unique et peut être contrôlée par le profil utilisateur
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-4.png)
 
 **Mode Liste avec action en bloc**
 
 * En mode Liste de pistes : Action en bloc et ne peut pas être contrôlée par le profil utilisateur
 * Contact List View : Action en bloc et ne peut pas être contrôlée par le profil utilisateur
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-5.png)

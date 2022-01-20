@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1055'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 22 janvier. Pour
 
 **_Versions trimestrielles_**
 
-Les fonctionnalités suivantes seront publiées sur **21 janvier 2022**.
+Les fonctionnalités suivantes commenceront à être publiées sur **21 janvier 2022**, avec un déploiement échelonné de chaque fonctionnalité au cours de la semaine suivante (sauf indication contraire).
 
 ## Expérience de nouvelle génération {#next-generation-experience}
 
