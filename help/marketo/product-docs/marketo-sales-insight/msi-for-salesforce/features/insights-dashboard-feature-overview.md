@@ -3,7 +3,7 @@ unique-page-id: 42762514
 description: Présentation des fonctionnalités du tableau de bord des insights - Documents Marketo - Documentation du produit
 title: Présentation des fonctionnalités du tableau de bord des insights
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%
@@ -18,7 +18,7 @@ En savoir plus sur les fonctionnalités disponibles dans votre tableau de bord S
 >
 >Vous devez disposer du dernier package MSI SFDC et [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
-![](assets/one.png)
+![](assets/insights-dashboard-feature-overview-1.png)
 
 ## Contact Layout {#contact-layout}
 
@@ -48,7 +48,7 @@ Onglet Campagnes par e-mail :
 * La carte des détails de l’activité de cette section comporte une option d’aperçu. Si le flux comprend plusieurs étapes d’envoi d’email, tous les emails peuvent être prévisualisés. Au cours de l’étape Envoyer le flux d’email, s’il existe plusieurs &quot;choix d’email&quot;, l’option par défaut est disponible pour la prévisualisation.
 * Les filtres incluent &quot;Recherche&quot; et &quot;Période&quot;
 
-![](assets/three.png)
+![](assets/insights-dashboard-feature-overview-2.png)
 
 Onglet Événement :
 
@@ -59,7 +59,7 @@ Onglet Événement :
 * La carte Détails de l’activité de cette section comporte une option d’aperçu.
 * Le filtre inclut &quot;Rechercher&quot;, &quot;Afficher uniquement les événements invités&quot; et &quot;Période&quot;.
 
-![](assets/two.png)
+![](assets/insights-dashboard-feature-overview-3.png)
 
 ## Disposition de piste {#lead-layout}
 
@@ -89,7 +89,7 @@ Onglet Campagnes par e-mail :
 * La carte des détails de l’activité de cette section comporte une option d’aperçu. Si le flux comprend plusieurs étapes d’envoi d’email, tous les emails peuvent être prévisualisés. Au cours de l’étape Envoyer le flux d’email, s’il existe plusieurs &quot;choix d’email&quot;, l’option par défaut est disponible pour la prévisualisation.
 * Les filtres incluent &quot;Recherche&quot; et &quot;Période&quot;
 
-![](assets/five.png)
+![](assets/insights-dashboard-feature-overview-4.png)
 
 Onglet Événement :
 
@@ -100,7 +100,7 @@ Onglet Événement :
 * La carte Détails de l’activité de cette section comporte une option d’aperçu.
 * Le filtre inclut &quot;Rechercher&quot;, &quot;Afficher uniquement les événements invités&quot; et &quot;Période&quot;.
 
-![](assets/four.png)
+![](assets/insights-dashboard-feature-overview-5.png)
 
 ## Disposition du compte {#account-layout}
 

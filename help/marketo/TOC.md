@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: f5b755fb31aed9ddf03204502ad9bb8f79546bca
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
-source-wordcount: '8254'
+source-wordcount: '8252'
 ht-degree: 5%
 
 ---
@@ -1341,14 +1341,13 @@ ht-degree: 5%
          + Caractéristiques {#features}
             + [Présentation des fonctionnalités MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Présentation des fonctionnalités du tableau de bord des insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+            + [Envoi d’un courrier électronique à plusieurs enregistrements dans Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Actions dans le panneau MSI {#actions-in-the-msi-panel}
                + [Choisir une action dans Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Configuration du désabonnement des pieds de page dans Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Verrouiller le modèle de vente](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Publication d’un courrier électronique dans Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Envoyer un email de test](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
-            + Actions en bloc {#bulk-actions}
-               + [Envoi d’un courrier électronique à plusieurs enregistrements dans Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Prise en charge des langues {#language-support}
                + [Préparation de Sales Insight pour une prise en charge multilingue dans Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Onglet Marketo {#marketo-tab}

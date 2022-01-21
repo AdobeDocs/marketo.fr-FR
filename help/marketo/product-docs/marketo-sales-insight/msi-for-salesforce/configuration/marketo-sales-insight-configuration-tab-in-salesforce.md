@@ -1,64 +1,72 @@
 ---
 unique-page-id: 42762322
-description: Onglet de configuration des statistiques marketing de vente dans Salesforce - Docs marketing - Documentation du produit
-title: Onglet de configuration des statistiques de ventes du marketing dans Salesforce
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+description: Onglet de configuration de Marketo Sales Insight dans Salesforce - Documents Marketo - Documentation du produit
+title: Onglet de configuration de Marketo Sales Insight dans Salesforce
+exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
 
-
-# Onglet de configuration des statistiques de ventes du marketing dans Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
+# Onglet de configuration de Marketo Sales Insight dans Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Paramètres opérationnels {#operational-settings}
 
-Vous devez configurer cette configuration pour pouvoir début à l’aide de Sales Insight dans SFDC.
+Cette configuration est nécessaire pour commencer à utiliser Sales Insight dans SFDC.
 
-![](assets/one.png)
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 
-* MSI utilise à la fois Soap et Rest API
-* La page Sales Insight de votre compte Marketo comporte deux panneaux correspondants avec les informations d’identification Soap et Rest API que vous pouvez copier et coller ici.
-* Les API Soap et Rest comportent des expirations de délai différentes que vous pouvez définir en fonction des besoins de votre entreprise. La durée maximale autorisée est de 120 secondes.
-* Désactivation du Tableau de bord Insights : Vous pouvez supprimer les informations d’identification de l’API Rest et utiliser uniquement l’API Soap. Ce faisant, l’onglet Tableau de bord Insights sera désactivé dans tous les panneaux MSI de l’interface MSI de la force visuelle.
+* MSI utilise l’API Soap et Rest.
+* La page Sales Insight de votre compte Marketo comporte deux panneaux correspondants avec les informations d’identification de l’API Soap et Rest que vous pouvez copier et coller ici.
+* Les API Soap et Rest disposent de délais d’attente distincts que vous pouvez définir en fonction des besoins de votre entreprise. La durée maximale autorisée est de 120 secondes.
+* Désactivation du tableau de bord des statistiques : Vous pouvez supprimer les informations d’identification de l’API REST et utiliser uniquement l’API Soap. Cela désactive l’onglet Tableau de bord des statistiques de tous les panneaux de force visuelle MSI.
 
 ## Configuration MSI {#msi-configuration}
 
-Les configurations sont applicables à tous les utilisateurs MSI et ne sont pas spécifiques aux profils.
-
-**Paramètres de l’onglet Marqueur**
-
-* Meilleur mode de débogage des paris
-* Masquer par défaut - L&#39;option que vous choisissez ici sera le nombre de jours où un meilleur pari sera masqué dans l&#39;onglet Meilleurs paris du marché lorsque vous cliquez sur l&#39;icône &quot;Masquer&quot;.
-* Champ Statut du contact - L&#39;option que vous choisissez ici sera la valeur renseignée dans la colonne En-tête du statut de l&#39;onglet Meilleurs paris du marketing.
-* Paramètres d’onglet : les 5 onglets seront disponibles par défaut. Vous pouvez choisir l’ordre des onglets dans la page globale du marketing.
+Les configurations s’appliquent à tous les utilisateurs MSI et ne sont pas spécifiques aux profils.
 
 **Paramètres de page Visualforce**
 
-* Activer la liste déroulante Action :
+* Menu déroulant Activer l’action :
+   * Possibilité de masquer le menu déroulant Envoyer le courrier électronique Marketo dans la disposition Lead et Contact MSI
+   * Possibilité de masquer les options Ajouter à Marketo Campaign dans la liste déroulante Mise en page MSI de piste et de contact
+* Événements à venir : Possibilité d’afficher les événements invités, tous les événements pour les utilisateurs ou de masquer complètement cet onglet
+* Campagnes à venir : Possibilité d’afficher toutes les campagnes par e-mail ou de masquer complètement cet onglet
+* Charger les campagnes et événements à venir : Possibilité de réduire le nombre d’appels d’API REST effectués par les utilisateurs en plaçant l’onglet Événements et Campagnes derrière un bouton &quot;Charger les éléments à venir&quot; à la demande
+* Paramètres d’onglet : Les cinq onglets seront disponibles par défaut. Vous pouvez choisir l’ordre des onglets dans le panneau Sales Insight . La même commande s’applique à toutes les dispositions (prospect, contact, compte, opportunité).
 
-   * Possibilité de masquer l&#39;envoi d&#39;un courrier électronique Marketing dans la liste déroulante Mise en page MSI de piste et de contact
-   * Possibilité de masquer les options de Marketo Campaign dans la liste déroulante Mise en page MSI de piste et de contact
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-2.png)
 
-* Événements à venir : Possibilité d’afficher les événements invités, tous les événements aux utilisateurs ou de masquer complètement cet onglet
-* Campagnes à venir : Possibilité d’afficher toutes les campagnes par courriel ou de masquer complètement cet onglet
-* Charger les campagnes et Événements à venir : Possibilité de réduire le nombre d&#39;appels d&#39;API REST effectués par les utilisateurs en plaçant l&#39;onglet événements et campagnes derrière un bouton &quot;Charger les éléments à venir&quot; à la demande
-* Paramètres d’onglet : les 5 onglets seront disponibles par défaut. Les 5 onglets seront disponibles par défaut. Vous pouvez choisir l&#39;ordre des onglets dans le panneau Sales Insight. La même commande s&#39;applique à toutes les mises en page (piste, contact, compte, opportunité).
+**Onglet global Marketo**
 
-![](assets/two.png)
+* Flux RSS activé : Lorsqu’ils sont activés, les utilisateurs MSI peuvent afficher leur flux de piste dans un flux RSS (en plus du flux de piste dans Salesforce). Le flux RSS ne peut fonctionner que si la fonction &quot;Expiration du jeton&quot; est désactivée. Ce paramètre est contrôlé dans la page d’administration de Marketo Sales Insight.
+* Mode de débogage des meilleurs paris
+* Masquage par défaut : L’option que vous choisissez ici sera le nombre de jours pendant lesquels un meilleur pari sera masqué dans l’onglet Meilleurs paris de Marketo lorsque vous cliquerez sur l’icône &quot;Masquer&quot;.
+* Champ d’état du contact : L’option choisie ici sera la valeur renseignée dans la colonne En-tête d’état de l’onglet Meilleurs paris de Marketo.
+* Paramètres du flux en direct : L’option permettant de choisir d’afficher uniquement le flux en direct (dans les panneaux Piste, Contact, Compte et Opportunité et la page Marketo globale), uniquement le flux en tête (dans la page globale de Marketo) ou à la fois le flux en direct et le flux en tête.
+* Paramètres d’onglet : Les cinq onglets seront disponibles par défaut. Vous pouvez choisir l’ordre des onglets dans la page globale de Marketo.
+
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-3.png)
 
 **Limites**
 
-* L’Activité (moment intéressant, Activité Web, courriel) est définie sur 1 000 par défaut. Par défaut, les campagnes et Événements par courriel sont définis sur 200
-* Si vous constatez des problèmes de délai d’expiration sur votre organisation, vous pouvez réduire la limite
+* Activité (moment intéressant, activité web, courrier électronique) est défini sur 1 000 par défaut. Les campagnes par e-mail et les événements sont définis sur 200 par défaut.
+* Si vous constatez des problèmes de délai d’expiration sur votre organisation, vous pouvez réduire cette limite.
 
-## Réinitialiser l&#39;aperçu commercial de Marketo {#reset-marketo-sales-insight}
+**Paramètres d’action**
 
-Si vous le faites, toutes vos configurations seront effacées dans SFDC et elles ne peuvent pas être restaurées. Vous devrez tout reconfigurer.
+* Envoyer un courrier électronique Marketo : L’activation de cette option permet à tous les utilisateurs de Sales Insight d’envoyer des emails à partir des panneaux &quot;prospect, contact, compte, opportunité&quot; et de l’onglet &quot;Meilleurs paris&quot; (actions en masse et engagement en ligne).
+* Ajouter à Marketo Campaign : L’activation de cette option permet à tous les utilisateurs de l’aperçu commercial d’accéder aux éléments à ajouter aux campagnes à partir des panneaux &quot;prospect&quot;, &quot;contact&quot;, &quot;compte&quot;, &quot;opportunité&quot; et de l’onglet &quot;Meilleurs paris&quot; (actions en masse et engagement en ligne).
 
-![](assets/three.png)
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
+
+## Réinitialiser Marketo Sales Insight {#reset-marketo-sales-insight}
+
+Si vous choisissez de le faire, toutes vos configurations seront effacées dans SFDC et elles ne peuvent pas être restaurées. Vous devrez tout reconfigurer.
+
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
 
 >[!MORELIKETHIS]
 >
