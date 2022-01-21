@@ -1,56 +1,55 @@
 ---
 unique-page-id: 2360251
-description: Modifier le message de désabonnement - Marketo Docs - Documentation du produit
-title: Modifier le message de désabonnement
+description: Modification du message de désabonnement - Documents Marketo - Documentation du produit
+title: Modification du message de désabonnement
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 931b42d7266b9c57308567527042dfcad9847993
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# Modifier le message de désabonnement {#edit-the-unsubscribe-message}
+# Modification du message de désabonnement {#edit-the-unsubscribe-message}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-Lorsque vous envoyez des courriels marketing (non-[opérationnels](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), le texte de désabonnement et les liens sont ajoutés au bas de la page. Vous pouvez modifier les valeurs par défaut. Voici comment.
+Lorsque vous envoyez des emails marketing (non[opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), le texte de désabonnement et les liens sont ajoutés au bas de la page. Vous pouvez modifier les valeurs par défaut. Voici comment.
 
-## Modifier le message de désabonnement {#edit-the-unsubscribe-message-1}
+## Modification du message de désabonnement {#edit-the-unsubscribe-message-1}
 
-1. Sous **Admin**, cliquez sur **Courriel**.
+1. Sous **Administration**, cliquez sur **Email**.
 
    ![](assets/image2014-9-18-16-3a52-3a1.png)
 
    >[!CAUTION]
    >
-   >Les variables suivantes sont essentielles. Ne les supprimez pas !
+   >Les variables suivantes sont critiques. Ne les supprimez pas !
    >
-   >* **%mkt_opt_out_prefix%**
-   >* **mkt_unsubscription=1&amp;mkt_tok=##MKT_TOK##**
+   >* `%mkt_opt_out_prefix%`
+   >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 
-1. Modifiez les versions **Désabonner HTML** et **Désabonner le texte** à votre convenance et cliquez sur **Enregistrer les modifications**.
+1. Modifiez la variable **Désabonner le HTML** et **Désabonner le texte** versions à votre convenance et cliquez sur **Enregistrer les modifications**.
 
    ![](assets/image2016-8-26-13-3a40-3a55.png)
 
-   Voilà. _Assurez-vous de tester !_ Vous ne souhaitez pas que vos courriels marketing aient rompu les liens de désabonnement.
+   Voilà. _Assurez-vous de tester !_ Vous ne souhaitez pas que vos emails marketing aient rompu les liens de désabonnement.
 
 >[!TIP]
 >
->Vous pouvez personnaliser la position du code HTML de désabonnement dans votre courrier électronique à l’aide de [jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>Vous pouvez personnaliser la position du HTML de désabonnement dans votre email à l’aide de l’option [jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
 ## Texte de désabonnement par défaut {#default-unsubscribe-text}
 
-Si vous devez revenir au système par défaut de désabonnement, copiez/collez les éléments suivants :
+Si vous devez revenir au désabonnement du système par défaut, copiez/collez les éléments suivants :
 
-Désabonner HTML :
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Texte de désabonnement :
+HTML de désabonnement :
+`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Unsubscribe Text :
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
 >[!MORELIKETHIS]
 >
->[Modifier le message &quot;Vue en tant que page Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
+>[Modifier le message &quot;Afficher comme page Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
