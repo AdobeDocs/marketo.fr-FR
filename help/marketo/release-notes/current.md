@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: e2b050a0da8aa819a764aeb5dd905220451e2e59
 workflow-type: tm+mt
-source-wordcount: '1055'
+source-wordcount: '1067'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées
 
 ## Connecteur de destination Marketo Engage AEP - Créer des pistes Net-new {#aep-marketo-engage-destination-connector}
 
-Les clients Marketo Engage qui utilisent également Adobe Experience Platform (AEP) peuvent optimiser leur base de données avec la possibilité de transférer de nouveaux enregistrements de personne vers Marketo Engage à partir d’AEP via le connecteur de destination AEP. Lors de l’envoi de segments d’audience d’AEP vers Marketo Engage, les personnes du segment qui n’existent pas déjà dans votre base de données de Marketo Engage y seront automatiquement ajoutées.
+Les clients Marketo Engage qui utilisent également Adobe Experience Platform (AEP) peuvent optimiser leur base de données avec la possibilité de transférer de nouveaux enregistrements de personne vers Marketo Engage à partir d’AEP via le connecteur de destination AEP. Lors de l’envoi de segments d’audience d’AEP vers Marketo Engage, les personnes du segment qui n’existent pas déjà dans votre base de données de Marketo Engage [peut y être automatiquement ajouté](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
 
 ## Sales Insight {#sales-insight}
 
@@ -78,7 +78,7 @@ Les clients Marketo Engage qui utilisent également Adobe Experience Platform (A
 
 ## Annonces {#announcements}
 
-* **Marketo Sky du coucher du soleil**: Le 11 mars, Marketo Sky ne sera plus disponible, car nous concentrons nos ressources sur la diffusion de l’expérience utilisateur de nouvelle génération. Afin de maintenir l’accès aux fonctionnalités exclusives à Marketo Sky aujourd’hui, nous incluons l’expiration des ressources et le remplacement de la priorité des campagnes dynamiques dans l’expérience principale en mars.
+* **Obsolescence du Marketo Sky**: Le 11 mars, Marketo Sky ne sera plus disponible, car nous concentrons nos ressources sur la diffusion de l’expérience utilisateur de nouvelle génération. Afin de maintenir l’accès aux fonctionnalités exclusives à Marketo Sky aujourd’hui, nous incluons l’expiration des ressources et le remplacement de la priorité des campagnes dynamiques dans l’expérience principale en mars. [Cliquez ici](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) pour en savoir plus.
 
 * **Obsolescence des points de fin de formulaire**: Les POST de formulaire programmatique non pris en charge vers le point de terminaison leadCapture/save2 seront rejetés par les formulaires Marketo Engage. [Cliquez ici](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) pour en savoir plus.
 
