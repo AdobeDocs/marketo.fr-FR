@@ -4,9 +4,9 @@ title: Règles de validation de formulaire globales
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
+source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -68,3 +68,7 @@ Avant de pouvoir utiliser cette fonction, vous devez activer son autorisation se
 1. Attribuez un nom à votre règle, fournissez-lui une description facultative, puis saisissez le message d’erreur que vous souhaitez que les visiteurs de votre formulaire voient. Saisissez le ou les domaines que vous souhaitez bloquer dans la zone Règles, puis sélectionnez **Activer la règle**, puis cliquez sur **Créer**.
 
    ![](assets/global-form-validation-rules-10.png)
+
+>[!NOTE]
+>
+>Marketo Engage offre une liste bloquée définie de domaines d’e-mail de consommateur gratuits qui sont bloqués lors de l’utilisation de notre règle &quot;Liste bloquée de domaine d’e-mail de consommateur&quot; préchargée. [Afficher cette liste ici](https://experienceleague.adobe.com/docs/marketo/assets/freemaildomains.csv).
