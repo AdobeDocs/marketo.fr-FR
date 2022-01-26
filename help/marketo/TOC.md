@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
 workflow-type: tm+mt
-source-wordcount: '8252'
+source-wordcount: '8246'
 ht-degree: 5%
 
 ---
@@ -191,7 +191,6 @@ ht-degree: 5%
          + [Activation ou désactivation des fonctionnalités Treasure Chest](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Activation des URL personnalisées pour votre compte (Administration)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [Règles de validation de formulaire globales](product-docs/administration/settings/global-form-validation-rules.md)
-         + [Comment bloquer les envois de formulaires de spam](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [En-têtes de page d’entrée](product-docs/administration/settings/landing-page-headers.md)
          + [Limitation des connexions Marketo en fonction des adresses IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Sélectionner votre langue, langue et fuseau horaire](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
@@ -715,7 +714,7 @@ ht-degree: 5%
             + [Aperçu d’une page d’entrée avec du contenu dynamique](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [Aperçu d’une page d’entrée](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
             + [Redirection d’une page d’entrée Marketo vers une autre page](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-         + Modèles de pages de destination {#landing-page-templates}
+         +  modèles de page de destination{#landing-page-templates}
             + [Créer un modèle de page d’entrée de forme libre](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Création d’un modèle de page d’entrée guidée](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
             + [Modification d’un modèle de page d’entrée Marketo](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
