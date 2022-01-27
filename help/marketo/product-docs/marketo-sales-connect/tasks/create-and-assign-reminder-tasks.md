@@ -4,9 +4,9 @@ title: Création et attribution de tâches de rappel
 hide: true
 hidefromtoc: true
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -17,40 +17,36 @@ Les tâches de rappel sont un excellent moyen de rester en tête de votre engage
 
 1. Cliquez sur **Centre de commandes**.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Cliquez sur **Tâches**.
+1. Les tâches s’ouvrent par défaut. Cliquez sur **Ajouter une tâche**.
 
-PICC
-
-1. Cliquez sur **Ajouter une tâche**.
-
-PICC
+   ![](assets/create-and-assign-reminder-tasks-2.png)
 
 1. Sélectionnez le type de tâche dans Email, Call, InMail ou Custom Task.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-3.png)
 
 1. Attribuez un nom à la tâche.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-4.png)
 
 1. Choisissez de conserver la tâche qui vous a été assignée ou de sélectionner un autre utilisateur auquel affecter la tâche.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-5.png)
 
 1. Ajoutez la personne que vous suivez, avec cette tâche de rappel.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-6.png)
 
 1. Sélectionnez la date d’échéance de la tâche.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-7.png)
 
 1. Sélectionnez la priorité de la tâche.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Ajoutez tous les détails de la tâche que vous souhaitez mettre à votre disposition lors de l’exécution de la tâche, tels que des notes vocales d’appel, un modèle de message InMail ou même des notes sur la personne.
+1. Ajoutez tous les détails de la tâche que vous souhaitez mettre à votre disposition lors de l’exécution de la tâche, tels que des notes vocales d’appel, un modèle de message InMail ou même des notes sur la personne. Cliquez sur **Créer** une fois terminé.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-9.png)

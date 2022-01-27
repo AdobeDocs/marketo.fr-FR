@@ -4,9 +4,9 @@ title: Configuration de la personnalisation des détails de l’activité Salesf
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '614'
 ht-degree: 1%
 
 ---
@@ -102,25 +102,39 @@ Lors de la configuration des détails de votre activité, tenez compte des donn�
 
 1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
 1. Cliquez sur **Salesforce**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
 1. Cliquez sur **Paramètres de synchronisation**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. Dans l’éditeur de personnalisation des détails de l’activité, ajoutez le texte libre de votre choix. Il restera inchangé pour le champ d’objet de toutes les tâches synchronisées avec Salesforce.
+1. Dans l’éditeur de personnalisation des détails de l’activité, ajoutez le texte libre de votre choix. Le texte que vous ajoutez n’est pas dynamique et reste inchangé pour le champ d’objet de toutes les tâches synchronisées avec Salesforce.
 
-1. Ajoutez les champs dynamiques que vous souhaitez ajouter en cliquant sur le bouton Champ dynamique et en sélectionnant les champs dynamiques à utiliser dans la liste.
+   ![](assets/configure-salesforce-activity-detail-customization-6.png)
+
+   >[!TIP]
+   >
+   >Bien qu’il ne soit pas obligatoire, l’encapsulation du texte ajouté entre crochets peut faciliter la distinction entre les données lorsqu’elles sont renseignées dans un champ d’objet de Salesforce. Exemple: `[Sales Connect] - {{Activity_type}}`
+
+1. Ajoutez d’autres champs dynamiques en cliquant sur le **Ajouter un champ dynamique** bouton .
+
+   ![](assets/configure-salesforce-activity-detail-customization-7.png)
+
+1. Sélectionnez le ou les champs dynamiques souhaités.
+
+   ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
 1. Cliquez sur **Enregistrer**.
 
+   ![](assets/configure-salesforce-activity-detail-customization-9.png)
+
 >[!NOTE]
 >
->Salesforce applique une limite de 255 caractères. Si le détail de votre activité dépasse ce nombre, il sera tronqué afin de vous assurer que les informations peuvent être stockées sur le champ d’objet Salesforce.
+>Salesforce applique une limite de 255 caractères. Si le détail de votre activité dépasse ce nombre, il sera tronqué pour s’assurer que les informations sont stockées sur le champ d’objet Salesforce.
 
 >[!MORELIKETHIS]
 >
