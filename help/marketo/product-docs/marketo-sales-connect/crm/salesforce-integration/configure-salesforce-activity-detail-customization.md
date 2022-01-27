@@ -4,9 +4,9 @@ title: Configuration de la personnalisation des détails de l’activité Salesf
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '675'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 1%
 
 
 La personnalisation des détails de l’activité permet aux administrateurs de configurer les informations qui se connecteront au champ d’objet Tâche Salesforce lorsqu’une tâche de rappel/activité de connexion aux ventes est synchronisée avec Salesforce.
+
+>[!NOTE]
+>
+>Les mises à jour apportées au champ d’objet dans Sales Connect d’une tâche de rappel sont répercutées dans le champ d’objet de la tâche Salesforce correspondante, si vous utilisez le `{{activity_subject}}` champ dynamique de la personnalisation des détails de l’activité.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -46,6 +50,10 @@ Cette fonctionnalité peut être utilisée pour déverrouiller les avantages sui
 * Les administrateurs peuvent baliser le champ d’objet avec un identifiant unique tel que &quot;Mkto_sales&quot; afin que les activités de Sales Connect puissent être facilement identifiées et différenciées des autres activités de courrier électronique, activités d’appel et tâches.
 * Réduisez le besoin de champs d’activité personnalisés. Salesforce applique des limites au nombre de champs d’activité personnalisés, ce qui peut limiter les données pouvant être utilisées dans les rapports. En utilisant des champs dynamiques d’activité pour ajouter des données clés à la ligne d’objet, vous pouvez réduire le nombre de champs d’activité personnalisés que vous avez besoin de créer dans votre instance Salesforce.
 * Le champ d’objet des activités et des tâches suit un modèle cohérent défini par l’administrateur de Sales Connect.
+
+>[!NOTE]
+>
+>Si vous enregistrez des réponses par courrier électronique en tant qu’activités dans Salesforce, ils n’utiliseront pas les paramètres de personnalisation des détails de l’activité Salesforce. À la place, se connecte comme suit : &quot;Répondre : Objet du message électronique.&quot;
 
 ## Champs dynamiques d’activité pris en charge {#activity-dynamic-fields-supported}
 

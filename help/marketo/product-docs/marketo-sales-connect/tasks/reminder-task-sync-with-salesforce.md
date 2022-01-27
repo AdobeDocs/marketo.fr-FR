@@ -4,9 +4,9 @@ title: Synchronisation de la tâche de rappel avec Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '564'
 ht-degree: 2%
 
 ---
@@ -79,3 +79,7 @@ Voici ce qui se passe lorsque vous synchronisez les tâches Sales Connect et SFD
 Après la synchronisation initiale, toutes les tâches que vous créez, modifiez, terminez ou supprimez dans Sales Connect se synchroniseront avec votre liste de tâches dans Salesforce. Et tout élément créé, modifié, terminé ou supprimé dans Salesforce mettra à jour votre liste de tâches dans Sales Connect.
 
 Pour activer cette synchronisation, cochez simplement la case de synchronisation dans votre [Page Paramètres](https://toutapp.com/login) dans l’application web.
+
+>[!NOTE]
+>
+>Le champ d’objet d’une tâche peut être mis à jour dans Sales Connect et cette mise à jour sera synchronisée dans le champ d’objet Salesforce pour la tâche synchronisée correspondante, si vous utilisez l’ `{{activity_subject}}` champ dynamique dans votre [Personnalisation des détails de l’activité](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) paramètres. Inversement, toute mise à jour apportée au champ d’objet dans Salesforce sera _not_ effectuez une synchronisation sur le champ objet de la tâche de rappel Sales Connect .
