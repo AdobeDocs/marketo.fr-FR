@@ -1,110 +1,114 @@
 ---
 unique-page-id: 2949863
-description: Création d’un Événement avec WebEx - Marketo Docs - Documentation du produit
-title: Création d’un Événement avec WebEx
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Création d’un événement avec WebEx - Documents Marketo - Documentation du produit
+title: Création d’un événement avec WebEx
+exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
+source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
 
-
-# Créer un Événement avec WebEx {#create-an-event-with-webex}
+# Création d’un événement avec WebEx {#create-an-event-with-webex}
 
 >[!PREREQUISITES]
 >
->* [Ajouter WebEx en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
->* [Créer un Programme de Événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Définir les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)appropriées pour suivre l&#39;engagement
+>* [Ajout de WebEx en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [Création d’un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Définissez les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) pour suivre l’engagement
+>* Assurez-vous d’utiliser les événements Webex (Classic)
 
 
-Commencez par créer un Événement Webex dans le Centre de Événement WebEx. Marketo utilise uniquement des paramètres et des champs spécifiques pour votre intégration, ce que nous allons examiner sous peu. Les autres champs que vous pouvez configurer pour WebEx sont expliqués dans le [Guide de l&#39;utilisateur de WebEx Événement Center](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+Commencez par créer un événement Webex dans le centre d’événements WebEx. Marketo utilise uniquement des paramètres et des champs spécifiques pour votre intégration, ce que nous allons aborder sous peu. Les autres champs que vous pouvez configurer pour WebEx sont décrits dans la section [Guide de l’utilisateur de WebEx Event Center](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+
+>[!IMPORTANT]
+>
+>Marketo Engage ne prend en charge que les événements créés dans les événements Webex (Classic). Marketo ne prend pas en charge les événements créés dans les événements Webex (nouveaux) pour le moment.
 
 ## Informations de base {#basic-information}
 
-* **Nom du événement :** ce nom peut être affiché dans Marketo.
+* **Nom de l’événement -** Ce nom sera visible dans Marketo.
 * **Case à cocher non répertoriée**
 
-   * Il est recommandé de ne pas **liste** de votre événement. Ceci garantit que tous les utilisateurs s&#39;enregistrent par l&#39;intermédiaire de votre landing page Marketo. Les personnes qui s’inscrivent par l’intermédiaire d’un mécanisme autre que Marketo seront affichées dans Marketo après la conclusion du événement ET seulement si elles ont assisté au événement.
-   * Si vous choisissez de liste du événement, celui-ci s’affichera sur la page Liste des Événements pour toute personne visitant le site Web de votre centre de Événements.
+   * Il est recommandé de le faire. **not** répertorie votre événement. Cela permet de s’assurer que tous les utilisateurs s’enregistrent via votre page d’entrée Marketo. Les personnes qui s’inscrivent par le biais d’un mécanisme autre que Marketo s’afficheront dans Marketo une fois l’événement terminé ET uniquement si elles ont participé à l’événement.
+   * Si vous choisissez de répertorier l’événement, celui-ci apparaîtra sur la page Liste des événements pour toute personne visitant votre site Web Event Center.
 
-* **Inscription :** cochez cette case pour définir la valeur &quot;obligatoire&quot;. Vous utiliserez un landing page/formulaire Marketo pour capturer les informations d’enregistrement qui seront envoyées à WebEx.
-* **Mot de passe** de événement - (facultatif) Si vous utilisez ce champ, veillez à l&#39;inclure dans votre courriel de confirmation !
+* **Registration -** Cochez cette case pour définir sur &quot;obligatoire&quot;. Vous utiliserez un formulaire Marketo ou une landing page pour capturer les informations d’enregistrement qui seront transmises à WebEx.
+* **Mot de passe d’événement**- (facultatif) Si vous utilisez ce champ, veillez à l’inclure dans votre email de confirmation.
 
 ![](assets/image2015-5-28-13-3a30-3a55.png)
 
-## Date et heure {#date-time}
+## Date et Heure {#date-time}
 
-* **Date**  du début - Entrez votre date de début. Ceci sera visible dans Marketing Cloud.
+* **Date de début** - Entrez votre date de début. Vous pourrez le voir dans Marketo.
 
-* **Heure**  du début - Entrez votre heure de début. Ceci sera visible dans Marketing Cloud.
+* **Heure de début** - Saisissez votre heure de début. Vous pourrez le voir dans Marketo.
 
-* **Durée**  estimée : indiquez la durée du événement. Ceci sera visible dans Marketing Cloud.
+* **Durée estimée** - Indiquez la durée de l’événement. Vous pourrez le voir dans Marketo.
 
-* **Fuseaux horaires**  - Entrez les fuseaux horaires applicables. Ils seront visibles sur le marché.
+* **Fuseaux horaires** - Renseignez les fuseaux horaires applicables. Ils seront visibles dans Marketo.
 
 ![](assets/image2015-5-28-13-3a37-3a39.png)
 
 ## Paramètres de conférence audio {#audio-conference-settings}
 
-Ces paramètres résident uniquement dans WebEx. Ils ne sont pas utilisés ou visibles dans Marketo, mais ils peuvent être importants pour votre webinaire, donc vérifiez-les par doublon !
+Ces paramètres résident uniquement dans WebEx. Ils ne sont pas utilisés ou visibles dans Marketo, mais ils peuvent être importants pour votre webinaire. Vérifiez-les donc deux fois !
 
-## Description et options du événement {#event-description-options}
+## Description et options de l’événement  {#event-description-options}
 
-Les options suivantes sont utilisées ou visibles dans Marketing Cloud. Les autres champs résident uniquement dans WebEx.
+Les options suivantes sont utilisées ou visibles dans Marketo. Les autres champs résident uniquement dans WebEx.
 
-* **Description**  - Entrez une description. Cette option peut être affichée mais pas modifiable dans Marketing Cloud.
-* **Questionnaire**  post-événement - Marketo n&#39;est pas en mesure de capturer les informations sur un questionnaire post-événement WebEx pour le moment.
-* **URL**  de destination - (facultatif) Vous pouvez entrer l’URL d’un landing page Marketo qui servira d’URL de destination à afficher après la fin de la session.
+* **Description** - Entrez une description. Il sera visible, mais ne pourra pas être modifié dans Marketo.
+* **Questionnaire post-événement** - Marketo ne peut pas actuellement capturer les informations dans une enquête post-événement WebEx.
+* **URL de destination** - (facultatif) Vous pouvez saisir l’URL d’une page d’entrée Marketo qui servira d’URL de destination à afficher une fois la session terminée.
 
 ![](assets/image2015-5-28-13-3a48-3a49.png)
 
 ## Participants et inscription {#attendees-registration}
 
-Vous contrôlez la liste d&#39;invitation, le formulaire d&#39;inscription et d&#39;autres courriels à l&#39;aide d&#39;un Événement Marketo. D’autres fonctionnalités ne seront pas prises en charge par Marketo, notamment :
+Vous pourrez contrôler la liste d’invitation, le formulaire d’enregistrement et d’autres courriers électroniques à l’aide d’un événement Marketo. Marketo ne prendra pas en charge d’autres fonctionnalités, notamment :
 
-* **Nombre maximal d&#39;inscrits**  - Actuellement  **** non pris en charge à l&#39;aide de l&#39;intégration Marketo-WebEx.  L’approbation manuelle des inscrits est disponible à l’aide de l’état de progression Approbation en attente dans Marketo.
+* **Nombre maximum d&#39;inscrits** - Actuellement **not** pris en charge à l’aide de l’intégration Marketo-WebEx.  L’approbation manuelle des inscrits est disponible à l’aide de l’état de progression Approbation en attente dans Marketo.
 
-* **ID d&#39;enregistrement requis**  - Actuellement pris en charge à l&#39;aide de l&#39;intégration de Marketo-WebEx. Vous pouvez utiliser Marketing pour envoyer le courriel de confirmation de votre événement. Lorsque la personne s’enregistre, elle reçoit une URL unique qu’elle utilise pour entrer dans le événement.
+* **ID d’enregistrement requis** - Actuellement pris en charge à l’aide de l’intégration Marketo-WebEx. Vous pouvez utiliser Marketo pour envoyer l’e-mail de confirmation de votre événement. Lorsque la personne s’inscrit, elle reçoit une URL unique qu’elle utilise pour entrer dans l’événement.
 
    >[!TIP]
    >
-   >Pour renseigner votre message de confirmation avec cette URL unique, utilisez le jeton suivant dans votre message électronique : `{{member.webinar url}}`. Lorsque l’URL de confirmation est envoyée, ce jeton correspond automatiquement à l’URL de confirmation unique de la personne.
+   >Pour renseigner votre email de confirmation avec cette URL unique, utilisez le jeton suivant dans votre email : `{{member.webinar url}}`. Lorsque l’URL de confirmation est envoyée, ce jeton correspond automatiquement à l’URL de confirmation unique de la personne.
    >
-   >Définissez votre message de confirmation sur **Opérationnel** pour vous assurer que les personnes qui s&#39;inscrivent et peuvent ne pas s&#39;abonner reçoivent toujours leurs informations de confirmation.
+   >Définissez votre adresse électronique de confirmation sur **Opérationnel** afin de s&#39;assurer que les personnes qui s&#39;inscrivent et peuvent se désinscrire reçoivent toujours leurs informations de confirmation.
 
-* **Mot de passe**  d’enregistrement - (facultatif) Actuellement non pris en charge par l’intégration de Marketo-WebEx.
-* **Règles**  d’approbation - Actuellement non prise en charge à l’aide de l’intégration de Marketo-WebEx. Cependant, vous pouvez utiliser des campagnes intelligentes dans Marketo pour contrôler les approbations.
+* **Mot de passe d’enregistrement** - (Facultatif) Actuellement non pris en charge à l’aide de l’intégration Marketo-WebEx.
+* **Règles de validation** - Actuellement non pris en charge à l’aide de l’intégration Marketo-WebEx. Cependant, vous pouvez utiliser des campagnes intelligentes dans Marketo pour contrôler les approbations.
 
 ![](assets/image2015-5-28-14-3a4-3a41.png)
 
 ### Présentateurs et panélistes {#presenters-panelists}
 
-Les informations configurées dans cette section ne sont pas transmises à Marketing Cloud.
+Les informations configurées dans cette section ne sont pas transmises à Marketo.
 
 ### Messages électroniques {#email-messages}
 
-Vous utiliserez Marketo pour envoyer des e-mails à vos inscrits, des e-mails de confirmation, etc. Vous n’avez pas besoin de configurer quoi que ce soit dans cette section. Désactivez (décochez) les options de message électronique dans WebEx.
+Vous utiliserez Marketo pour envoyer des emails à vos inscrits, des emails de confirmation, etc. Vous n’avez rien à configurer dans cette section. Désactivez (décochez) les options de courrier électronique dans WebEx.
 
 ![](assets/image2015-5-28-14-3a9-3a14.png)
 
 >[!NOTE]
 >
->L&#39;intégration de Marketo-WebEx ne peut pas prendre en charge l&#39;envoi de courriers électroniques de confirmation à partir de WebEx. La confirmation doit être envoyée via Marketo. Après avoir planifié le événement, veillez à copier les informations du événement dans le courrier électronique de confirmation de Marketo et définissez le courrier électronique comme **Opérationnel**.
+>L’intégration Marketo-WebEx ne peut pas prendre en charge l’envoi d’emails de confirmation à partir de WebEx. La confirmation doit être envoyée via Marketo. Après avoir planifié l’événement, veillez à copier les informations de l’événement dans l’e-mail de confirmation de Marketo et à définir l’e-mail sur **Opérationnel**.
 
-Maintenant, nous sommes prêts à entrer dans le Marketo !
+Maintenant, nous sommes prêts à entrer dans Marketo !
 
-1. Sélectionnez le événement que vous avez créé. Ouvrez la liste déroulante **Actions du Événement**. Sélectionnez **Paramètres du Événement.**
+1. Sélectionnez l’événement que vous avez créé. Ouvrez le **Actions d’événement** menu déroulant. Choisir **Paramètres d’événement.**
 
    ![](assets/image2015-5-14-16-3a7-3a31.png)
 
    >[!NOTE]
    >
-   >Le type de canal du événement sélectionné doit être **webinar**.
+   >Le type de canal de l’événement sélectionné doit être **webinaire**.
 
-1. Sous **Partenaire de Événement**, sélectionnez **WebEx**.
+1. Sous **Partenaire d’événement**, sélectionnez **WebEx**.
 
    ![](assets/image2015-1-30-13-3a58-3a2.png)
 
@@ -116,34 +120,34 @@ Maintenant, nous sommes prêts à entrer dans le Marketo !
 
    ![](assets/image2015-5-14-16-3a15-3a55.png)
 
-1. Sélectionnez une page de sauvegarde facultative pour votre événement WebEx. Choisissez dans la liste déroulante des landings page marketing approuvés ou saisissez l’URL d’un landing page non marketing.
+1. Sélectionnez une page de sauvegarde facultative pour votre événement WebEx. Choisissez parmi la liste déroulante des landing pages Marketo validées ou saisissez l&#39;URL d&#39;une landing page non Marketo.
 
    >[!TIP]
    >
-   >Définissez une page de sauvegarde pour diriger un membre vers une page spécifique s&#39;il clique sur son URL de événement personnalisé avant l&#39;heure de début du événement.
+   >Définissez une page de sauvegarde pour diriger un membre vers une page spécifique s’il clique sur l’URL de son événement personnalisé avant l’heure de début de l’événement.
 
    >[!NOTE]
    >
-   >Les champs envoyés par Marketo sont les suivants : Prénom, Nom, Adresse électronique.
+   >Les champs que Marketo envoie sont les suivants : Prénom, Nom, Adresse électronique.
 
    ![](assets/webex.png)
 
    >[!CAUTION]
    >
-   >Evitez d’utiliser des programmes de messagerie imbriqués pour envoyer vos messages de confirmation. Utilisez plutôt la campagne intelligente du programme de événement, comme illustré ci-dessus.
+   >Évitez d’utiliser des programmes de messagerie imbriqués pour envoyer vos emails de confirmation. Utilisez plutôt la campagne dynamique du programme d’événements, comme illustré ci-dessus.
 
    >[!TIP]
    >
-   >L’affichage des données dans Marketo peut prendre jusqu’à 48 heures. Si, après avoir attendu si longtemps, vous ne voyez toujours rien, sélectionnez **Actualiser à partir du fournisseur de webinaires** dans le menu Actions du Événement de l&#39;onglet **Résumé** de votre événement.
+   >L’affichage des données dans Marketo peut prendre jusqu’à 48 heures. Si, après avoir attendu si longtemps, vous ne voyez toujours rien, sélectionnez **Actualisation à partir du fournisseur de webinaire** à partir du menu Actions d’événement dans la **Résumé** de votre événement.
 
-Doux ! Votre événement WebEx est désormais synchronisé avec votre événement Marketo.  Les personnes qui s’abonnent à votre webinaire seront repoussées vers votre fournisseur de webinaires via l’étape de flux Modifier l’état du Programme lorsque le nouvel état est défini sur &quot;Inscrit&quot;. Aucun autre statut ne poussera la personne vers le bas. Veillez également à passer à l’étape 1 du flux d’état du Programme de modification et à l’étape 2 du flux d’envoi de courrier électronique.
+Doux ! Votre événement WebEx est maintenant synchronisé avec votre événement Marketo.  Les personnes qui s’inscrivent à votre webinaire seront transférées à votre fournisseur de webinaires via l’étape de flux Modifier l’état du programme lorsque le nouvel état est défini sur &quot;Enregistré&quot;. Aucun autre statut ne repoussera la personne. Assurez-vous également d’effectuer l’étape de flux Modifier l’état du programme #1 et l’étape Envoyer un courrier électronique #2.
 
-## Affichage de la planification {#viewing-the-schedule}
+## Affichage de la planification  {#viewing-the-schedule}
 
-Dans la vue de Planning du programme, cliquez sur l’entrée de calendrier correspondant à votre événement. Vous pouvez voir la planification sur le côté droit de l&#39;écran !
+Dans la vue de planification du programme, cliquez sur l’entrée de calendrier de votre événement. Vous pouvez voir le planning sur le côté droit de l&#39;écran !
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 
 >[!NOTE]
 >
->Pour modifier le calendrier de votre événement, vous devez modifier le webinaire sur WebEx.
+>Pour modifier la planification de votre événement, vous devez modifier le webinaire sur WebEx.
