@@ -4,7 +4,7 @@ title: Enregistrer les motifs des appels et les résultats des appels dans Sales
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
 ### Créer un champ d’activité personnalisé dans Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
 
-1. Dans Salesforce, cliquez sur **Configuration**.
+1. Dans Salesforce, cliquez sur **Configuration**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -70,7 +70,7 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 >
 >Vous devrez suivre ces étapes uniquement si vous n’avez pas sélectionné la mise en page souhaitée à l’étape 9 ci-dessus.
 
-1. Dans Salesforce, cliquez sur **Configuration**.
+1. Dans Salesforce, cliquez sur **Configuration**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -110,11 +110,11 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Cliquez sur le bouton **Activité** libellé.
+1. Cliquez sur le bouton **Activité** libellé.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. Cliquez sur **Champs et relations**.
+1. Cliquez sur **Champs et relations**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
