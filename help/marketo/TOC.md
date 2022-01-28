@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
+source-git-commit: b6360de280547ba0fa486da094c467853b442621
 workflow-type: tm+mt
-source-wordcount: '8246'
+source-wordcount: '8237'
 ht-degree: 5%
 
 ---
@@ -627,7 +627,7 @@ ht-degree: 5%
          + [Test des pistes publicitaires Facebook pour l’intégration mobile avec Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Présentation des conversions hors ligne de Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Utilisation des filtres et des déclencheurs de piste dans une campagne dynamique](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
-      + Formulaires {#forms}
+      +  formulaires{#forms}
          + Création d’un formulaire {#creating-a-form}
             + [Créer un formulaire](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
             + [Ajouter un champ à un formulaire](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
@@ -680,7 +680,7 @@ ht-degree: 5%
          + [Remplacement d’une image ou d’un fichier téléchargé](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Recherche d’images et de fichiers téléchargés](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Chargement d’images et de fichiers d’une zone](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + Pages de destination {#landing-pages}
+      +  pages de destination{#landing-pages}
          + Présentation des landing pages {#understanding-landing-pages}
             + [Approbation, désapprobation ou suppression d’une page d’entrée](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Rapport Performance de page d’entrée](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
@@ -1116,7 +1116,7 @@ ht-degree: 5%
             + Module complémentaire Office 365 {#office-365-add-in}
                + [Ajouter un courrier électronique à Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Installation de Sales Connect pour Office365 Mac OS, Windows et Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
-      + Adresse e-mail {#email}
+      + E-mail {#email}
          + Centre de contrôle {#command-center}
             + [Présentation du centre de commandes](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Aperçu de la recherche avancée](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
@@ -1181,7 +1181,7 @@ ht-degree: 5%
          + [Rendre une campagne visible pour les utilisateurs de Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossaire des activités de vente](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Déclencheurs et filtres d’activité de vente](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + Personne {#people}
+      + Personnes {#people}
          + [Vue Détails de la personne](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Conformité à la norme commerciale et au RGPD](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Gestion des contacts {#managing-contacts}
@@ -1199,7 +1199,6 @@ ht-degree: 5%
          + [Ne pas s’être connecté à l’historique des activités](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Ne pas s’être connecté à Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Activation de l’enregistrement des appels](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [Comment personnaliser le résultat de l’appel dans le téléphone de vente](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
          + [Enregistrer les motifs des appels et les résultats des appels dans Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [Appel international du téléphone des ventes](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Présence locale du téléphone des ventes](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
@@ -1260,7 +1259,7 @@ ht-degree: 5%
             + Intégration Salesforce {#salesforce-integration}
                + [Connexion de votre compte de vente Marketo à Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
                + [Paramètres de synchronisation Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-         + Adresse e-mail {#email}
+         + E-mail {#email}
             + Centre de contrôle {#command-center}
                + [Aperçu de la recherche avancée](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
                + [Affectation de tâches aux membres de l’équipe](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
