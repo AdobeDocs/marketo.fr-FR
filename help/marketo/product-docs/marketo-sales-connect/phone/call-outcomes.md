@@ -1,94 +1,92 @@
 ---
-description: Call Outcomes - Marketo Docs - Product Documentation
-title: Call Outcomes
-hide: true
-hidefromtoc: true
+description: Résultats des appels - Documents Marketo - Documentation du produit
+title: Résultats des appels
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: c4bee632b1099f135cd4f7f0553a1d60dd4986cc
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Call Outcomes {#call-outcomes}
+# Résultats des appels {#call-outcomes}
 
-Allow your sales teams to select call outcomes when making calls so your team can understand the impact of your customer engagement efforts.
+Permettez à vos équipes commerciales de sélectionner les résultats des appels lors des appels afin que votre équipe puisse comprendre l’impact de vos efforts d’engagement client.
 
 >[!NOTE]
 >
->****
+>**Autorisations d’administrateur requises.**
 
-## Enable Call Outcomes {#enable-call-outcomes}
+## Activer les résultats des appels {#enable-call-outcomes}
 
-1. ****
+1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/call-outcomes-1.png)
 
-1. ****
+1. Sous Paramètres d’administration, sélectionnez **Dialer**.
 
    ![](assets/call-outcomes-2.png)
 
-1. ****
+1. Sélectionner **Activer les résultats des appels**.
 
    ![](assets/call-outcomes-3.png)
 
-1. Choose your desired call outcome requirement.
+1. Choisissez l’exigence de résultat de l’appel de votre choix.
 
    ![](assets/call-outcomes-4.png)
 
-## Create Call Outcomes {#create-call-outcomes}
+## Créer des résultats d’appel {#create-call-outcomes}
 
 >[!NOTE]
 >
->You can create a maximum of 15 Call Outcomes.
+>Vous pouvez créer un maximum de 15 résultats d’appel.
 
-1. ****
+1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/call-outcomes-5.png)
 
-1. ****
+1. Sous Paramètres d’administration, sélectionnez **Dialer**.
 
    ![](assets/call-outcomes-6.png)
 
-1. ****
+1. Cliquez sur **Gérer les résultats des appels**.
 
    ![](assets/call-outcomes-7.png)
 
-1. Enter your desired call outcome name into the text field.
+1. Entrez le nom du résultat de l’appel dans le champ de texte.
 
    ![](assets/call-outcomes-8.png)
 
-1. Click the Answered drop-down and choose the outcome type (in this example we&#39;re choosing Answered). ****
+1. Cliquez sur la liste déroulante Répondu et sélectionnez le type de résultat (dans cet exemple, nous choisissons Répondu). Cliquez ensuite sur **Ajouter**.
 
    ![](assets/call-outcomes-9.png)
 
-## Choose a Call Outcome {#choose-a-call-outcome}
+## Choisir un résultat d’appel {#choose-a-call-outcome}
 
-Once call outcomes have been enabled. Users can select one while making a call.
+Une fois les résultats de l’appel activés. Les utilisateurs peuvent en sélectionner un tout en effectuant un appel .
 
-1. Click the call button to launch the dialer.
+1. Cliquez sur le bouton d’appel pour lancer la boîte de dialogue.
 
    ![](assets/call-outcomes-10.png)
 
-1. ****
+1. Saisissez les informations d’appel dans la boîte de dialogue, puis cliquez sur **Appeler**.
 
    ![](assets/call-outcomes-11.png)
 
-1. Select the call outcome that best describes the call.
+1. Sélectionnez le résultat de l’appel qui décrit le mieux l’appel.
 
    ![](assets/call-outcomes-12.png)
 
-1. End the call.
+1. Terminez l’appel .
 
    ![](assets/call-outcomes-13.png)
 
-1. Log the call.
+1. Consignez l’appel .
 
    ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >
->* [](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+>* [Enregistrer les motifs des appels et les résultats des appels dans Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Raisons de l’appel](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
 

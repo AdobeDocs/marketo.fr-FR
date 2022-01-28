@@ -1,10 +1,8 @@
 ---
 description: Enregistrer les motifs des appels et les résultats des appels dans Salesforce - Documents Marketo - Documentation du produit
 title: Enregistrer les motifs des appels et les résultats des appels dans Salesforce
-hide: true
-hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -122,7 +120,7 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-## Ajout d’un champ d’activité personnalisé à la disposition de la page de tâche dans Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### Ajout d’un champ d’activité personnalisé à la disposition de la page de tâche dans Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
 1. Dans Salesforce, cliquez sur l’icône d’engrenage en haut à droite et sélectionnez **Configuration**.
 
