@@ -2,7 +2,7 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
+source-git-commit: 87410bcdc5f9ebb3b85765efe9fd852df4611ce6
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 2%
@@ -40,9 +40,9 @@ Les fonctionnalités suivantes commenceront à être publiées sur **21 janvier 
 
 ## Administration {#administration}
 
-* **Règles de validation de formulaire**: Préserver l’intégrité de votre base de données avec la possibilité de bloquer les domaines d’email problématiques ou indésirables de l’envoi de formulaires Marketo Engage. Le panneau Règle de validation de formulaire globale permet aux administrateurs de définir une liste bloquée ou d’activer une liste prédéfinie de domaines consommateurs libres à bloquer à partir de formulaires.
+* **[Règles de validation de formulaire](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**: Préserver l’intégrité de votre base de données avec la possibilité de bloquer les domaines d’email problématiques ou indésirables de l’envoi de formulaires Marketo Engage. Le panneau Règle de validation de formulaire globale permet aux administrateurs de définir une liste bloquée ou d’activer une liste prédéfinie de domaines consommateurs libres à bloquer à partir de formulaires.
 
-* **Sécurité des en-têtes de page d’entrée**: Les administrateurs peuvent gérer les en-têtes Strict Transport Security et X-Frame Options sur leurs domaines de page d’entrée afin d’appliquer des exigences de sécurité strictes.
+* **[Sécurité des en-têtes de page d’entrée](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**: Les administrateurs peuvent gérer les en-têtes Strict Transport Security et X-Frame Options sur leurs domaines de page d’entrée afin d’appliquer des exigences de sécurité strictes.
 
 **_Sortie pendant tout le trimestre_**
 
@@ -52,7 +52,7 @@ Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées
 
 Les clients Marketo Engage qui utilisent également Adobe Experience Platform (AEP) peuvent optimiser leur base de données avec la possibilité de transférer de nouveaux enregistrements de personne vers Marketo Engage à partir d’AEP via le connecteur de destination AEP. Lors de l’envoi de segments d’audience d’AEP vers Marketo Engage, les personnes du segment qui n’existent pas déjà dans votre base de données de Marketo Engage [peut y être automatiquement ajouté](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
 
-## Sales Insight {#sales-insight}
+## Sales Insight {#sales-insight}
 
 ![(étoile)](assets/yellow-star.png)
 
