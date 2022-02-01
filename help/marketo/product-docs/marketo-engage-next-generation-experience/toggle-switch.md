@@ -2,9 +2,9 @@
 description: Basculer entre - Documents Marketo - Documentation du produit
 title: Basculer entre les deux
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,20 @@ La vue de liste de page d’entrée de la génération suivante offre des filtre
 La nouvelle expérience se charge.
 
 ![](assets/toggle-switch-4.png)
+
+## Page Détails de la page d’entrée {#landing-page-details-page}
+
+1. Dans Marketo, recherchez et sélectionnez votre landing page.
+
+   ![](assets/toggle-switch-5.png)
+
+1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
+
+   ![](assets/toggle-switch-6.png)
+
+La nouvelle expérience se charge.
+
+![](assets/toggle-switch-7.png)
 
 ## Page Détails du formulaire {#form-details-page}
 
