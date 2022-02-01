@@ -1,10 +1,8 @@
 ---
 description: Règles de validation de formulaire globales - Documents Marketo - Documentation du produit
 title: Règles de validation de formulaire globales
-hide: true
-hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: dcec5ef3856706d770a68228ae2b4c17cc47dfc0
+source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
