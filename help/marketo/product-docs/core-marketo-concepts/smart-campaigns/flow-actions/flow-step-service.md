@@ -3,7 +3,8 @@ description: Service d’étape de flux - Documents Marketo - Documentation du p
 title: Service d’étape de flux
 hide: true
 hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
+source-git-commit: 99ad4c68b8ab635f6eb6f7f0f53cb67ee3efc51c
 workflow-type: tm+mt
 source-wordcount: '1325'
 ht-degree: 0%
@@ -14,11 +15,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Actuellement, cette fonctionnalité de version préliminaire n’est disponible que pour les comptes inscrits au programme bêta des étapes de flux en libre-service.
+>This pre-release feature is currently available only to accounts enrolled in the Self-Service Flow Steps Beta Program.
 
 Les étapes de flux en libre-service constituent un cadre et un ensemble de fonctionnalités permettant de créer, de publier et d’intégrer des services web dans des campagnes dynamiques Adobe Marketo Engage. Ce guide est destiné aux utilisateurs finaux Marketo Engage qui souhaitent installer et utiliser des services qui ont déjà été créés et publiés. Pour plus d’informations sur la création et la publication de votre propre service, reportez-vous à la section [Référentiel GitHub pour l’interface du fournisseur de services](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). Une implémentation de table de recherche de preuve de concept se trouve. [here](https://github.com/adobe/mkto-flow-lookup).
 
-## Restrictions et avertissements relatifs aux versions antérieures {#pre-release-restrictions-and-warnings}
+## Pre-Release Restrictions and Warnings {#pre-release-restrictions-and-warnings}
 
 Cette fonctionnalité est actuellement en version bêta fermée et comporte certaines restrictions d’utilisation.
 
@@ -40,7 +41,7 @@ Cliquez sur **Suivant** pour accéder à la section Entrer les informations d’
 
 ## Entrer les informations d’identification du service {#enter-service-credentials}
 
-Pour accéder au service en cours d’installation, Marketo doit disposer d’informations d’identification d’API valides. Ces informations d’identification doivent vous être fournies par votre fournisseur de services. Les services disposent de trois options d’authentification différentes. Vous pouvez donc voir l’une des trois invites d’identification différentes : **Clé API** qui ne comporte qu&#39;un seul champ de saisie, **Authentification de base** qui nécessite un nom d’utilisateur et un mot de passe et peut également nécessiter un champ appelé Domaine, et **OAuth2** en utilisant la variable _Informations d’identification client_ qui nécessite une _ID client_ et _Secret du client_.
+To access the service being installed, Marketo must have valid API credentials. Ces informations d’identification doivent vous être fournies par votre fournisseur de services. Services have three different authentication options, so you may see one of three different prompts for credentials: **API Key** which has only one input field, **Basic Authentication** which requires a username and password and may also require a field called Realm, and **OAuth2** using the _Client Credentials_ grant, which requires a _Client ID_ and _Client Secret_.
 
 >[!NOTE]
 >
@@ -54,7 +55,7 @@ Certains fournisseurs de services incluent une étape facultative du guide d’i
 
 ## Appariement des champs {#field-mapping}
 
-Pour recevoir ou renvoyer des données d’un champ de piste spécifique, ce champ doit être mappé. Bien que le mappage soit une étape requise lors de l’intégration, vous pouvez toujours revenir à la modification ultérieure des mappages. Deux types de mappages sont configurés dans des écrans distincts : **Champs sortants**, qui sont envoyés au service lorsque Marketo appelle l’étape de flux, et **Champs entrants** qui sont des champs pouvant recevoir des données du service lorsqu’il renvoie des données à Marketo.
+Pour recevoir ou renvoyer des données d’un champ de piste spécifique, ce champ doit être mappé. While mapping is a required step during onboarding, you may always return to alter the mappings later. There are two types of mappings that are configured in separate screens: **Outgoing Fields**, which are sent to the service when Marketo invokes the flow step, and **Incoming Fields** which are fields which may receive data from the service when it returns data to Marketo.
 
 >[!NOTE]
 >
@@ -78,7 +79,7 @@ Les services qui n’ont pas de jeu fixe d’entrées et de sorties, comme un se
 
 Les champs sortants sont ceux qui sont envoyés au service d’étape de flux lorsque cette étape de flux est utilisée dans une campagne dynamique.
 
-## Champs entrants {#incoming-fields}
+## Incoming Fields {#incoming-fields}
 
 Les champs entrants sont ceux vers lesquels le service d’étape de flux est autorisé à écrire des données.
 
@@ -120,4 +121,4 @@ Chaque service d’étape de flux est associé à plusieurs types de journalisat
 
 ## Statistiques de service {#service-statistics}
 
-Le journal des statistiques de service regroupe les résultats des appels et des rappels pour chaque service. Ils sont regroupés par heure, niveau (bloc ou enregistrement) et code, et fournissent les décomptes et le message de journal le plus récent pour chaque code reçu. Ce tableau de bord est principalement conçu pour faciliter la surveillance de l’intégrité des services.
+Le journal des statistiques de service regroupe les résultats des appels et des rappels pour chaque service. They are grouped by time, level (chunk or record), and code, and provide counts and the most recent log message for each code received. This dashboard is principally designed to aid in monitoring service health.
