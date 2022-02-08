@@ -3,102 +3,91 @@ unique-page-id: 37356194
 description: Envoi d’une liste à Adobe Experience Cloud - Documents Marketo - Documentation du produit
 title: Envoi d’une liste à Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
+source-git-commit: a82a2dd0a9c3a27b9b6bf3b352cd81d59932a31b
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '770'
 ht-degree: 1%
 
 ---
 
-# Envoyer une liste à Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
+# Envoi d’une liste à Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
 >Un déploiement prêt pour la mise en HIPAA d’une instance Marketo ne peut pas utiliser cette fonctionnalité.
 
 >[!PREREQUISITES]
-[Configuration du partage d’audience Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)>
 >
+>[Configuration du partage d’audience Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## Applications de destination prises en charge {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* Adobe Analytics (**uniquement** si vous possédez une licence Adobe Audience Manager)
+* Adobe Analytics (**only** si vous possédez une licence Adobe Audience Manager)
 * Adobe Audience Manager
-* Gestionnaire d’expérience Adobe
-* Adobe de la plateforme de données clients en temps réel
+* Adobe Experience Manager
+* Adobe Real-time Customer Data Platform
 * Adobe Target
 
 ## Comment envoyer une liste statique {#how-to-send-a-static-list}
 
 Une liste statique est juste statique. Aucune modification ne sera apportée à la liste dans Adobe Experience Cloud, sauf si vous les apportez manuellement.
 
-1. Dans Marketo, recherchez et sélectionnez la liste à exporter.
+1. Dans Marketo, recherchez la liste à exporter. Cliquez dessus avec le bouton droit et sélectionnez **Envoyer à l’Experience Cloud**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Cliquez sur la liste déroulante **Actions de liste** et sélectionnez **Envoyer à l’Experience Cloud**.
+1. Cliquez sur le bouton **Audience Manager Folder** et sélectionnez le dossier de destination de votre choix dans l’Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
-1. Cliquez sur la liste déroulante **Dossier d’Audience Manager** et sélectionnez le dossier de destination de votre choix dans l’Experience Cloud.
+1. Choisissez de créer une audience ou d&#39;en remplacer une existante (dans cet exemple, nous en créons une). Saisissez le nouveau nom de l’audience et cliquez sur **Envoyer**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
-1. Choisissez de créer une audience ou d&#39;en remplacer une existante (dans cet exemple, nous en créons une). Saisissez le nouveau nom de l’audience et cliquez sur **Envoyer**.
+1. Cliquez sur **OK**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
-1. Cliquez sur **OK**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
-
    >[!NOTE]
-   Il peut s’écouler entre 6 et 8 heures avant que l’appartenance à l’audience ne soit pleinement renseignée dans l’Adobe.
+   >
+   >Il peut s’écouler entre 6 et 8 heures avant que l’appartenance à l’audience ne soit pleinement renseignée dans l’Adobe.
 
 ## Comment envoyer une liste synchronisée {#how-to-send-a-synced-list}
 
 La synchronisation d’une liste signifie que chaque fois que vous mettez à jour une liste dans Marketo, la modification se synchronise automatiquement avec son audience dans Adobe Experience Cloud.
 
-1. Dans Marketo, recherchez et sélectionnez la liste à synchroniser.
+1. Dans Marketo, recherchez la liste à exporter. Cliquez dessus avec le bouton droit et sélectionnez **Envoyer à l’Experience Cloud**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
+
+1. Cliquez sur le bouton **Dossier de bibliothèque d’audiences** et sélectionnez le dossier de destination de votre choix dans l’Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
-1. Cliquez sur la liste déroulante **Actions de liste** et sélectionnez **Envoyer à l’Experience Cloud**.
+1. Choisissez de créer une audience ou d&#39;en remplacer une existante (dans cet exemple, nous en créons une). Saisissez le nouveau nom de l&#39;audience, puis cochez la case **Synchronisation de l’appartenance à l’audience** puis cliquez sur **Envoyer**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. Cliquez sur la liste déroulante **Dossier de bibliothèque d’audiences** et sélectionnez le dossier de destination de votre choix dans l’Experience Cloud.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
-
-1. Choisissez de créer une audience ou d&#39;en remplacer une existante (dans cet exemple, nous en créons une). Saisissez le nouveau nom de l’audience, cochez la case **Conserver l’appartenance à l’audience dans la synchronisation**, puis cliquez sur **Envoyer**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
-
 1. Cliquez sur **OK**.
 
-   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
 ## Comment arrêter une synchronisation de liste {#how-to-stop-a-list-sync}
 
 Vous pouvez empêcher la synchronisation de votre liste à tout moment.
 
-1. Dans Marketo, recherchez et sélectionnez la liste dont vous souhaitez arrêter la synchronisation.
+1. Dans Marketo, recherchez et cliquez avec le bouton droit sur la liste dont vous souhaitez arrêter la synchronisation. Cliquez sur **Arrêter la synchronisation des listes**.
 
-   ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
-
-1. Cliquez sur la liste déroulante **Actions de liste** et sélectionnez **Arrêter la synchronisation de liste**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-12.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
 
 1. Sélectionnez la ou les audiences dont vous souhaitez arrêter la synchronisation et cliquez sur **Arrêter**.
 
-   ![](assets/send-a-list-to-adobe-experience-cloud-13.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
 
 1. Cliquez sur **Arrêter** pour confirmer.
 
-   ![](assets/send-a-list-to-adobe-experience-cloud-14.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
 ## Informations à noter {#things-to-note}
 
@@ -122,9 +111,9 @@ Sous le capot, l’intégration de l’audience fonctionne en synchronisant les 
 
 **Comment fonctionne la synchronisation des cookies ?**
 
-Lorsque la synchronisation des cookies est activée pour votre abonnement Marketo, le fichier munchkin.js de Marketo tente de capturer et de stocker les ECID d’Adobe de l’organisation IMS d’Adobe que vous avez spécifiée lors de la configuration de l’intégration et de faire correspondre ces ECID à l’identifiant de cookie Marketo correspondant. Cela permet aux profils utilisateur anonymes de Marketo d’être enrichis avec des ECID d’Adobe.
+Lorsque la synchronisation des cookies est activée pour votre abonnement Marketo, le fichier munchkin.js de Marketo tente de capturer et de stocker les ECID d’Adobe de l’organisation IMS Adobe que vous avez spécifiée lors de la configuration de l’intégration et de faire correspondre ces ECID à l’identifiant de cookie Marketo correspondant. Cela permet aux profils utilisateur anonymes de Marketo d’être enrichis avec des ECID d’Adobe.
 
-Une autre étape est nécessaire pour associer le profil utilisateur anonyme à un profil de piste, qui est identifié à l’aide d’un email en texte brut. [décrit exactement son fonctionnement ici](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+Une autre étape est nécessaire pour associer le profil utilisateur anonyme à un profil de piste, qui est identifié à l’aide d’un email en texte brut. Fonctionnement exact [décrit ici](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
 **Quelles informations sont partagées ?**
 
