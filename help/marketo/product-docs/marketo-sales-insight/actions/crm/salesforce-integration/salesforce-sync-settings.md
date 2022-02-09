@@ -4,10 +4,10 @@ title: Paramètres de synchronisation Salesforce
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '443'
+ht-degree: 1%
 
 ---
 
@@ -19,9 +19,9 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Ill
 
 >[!PREREQUISITES]
 >
->Salesforce et Marketo Sales doivent être connectés.
+>Les actions Salesforce et Sales Insight doivent être connectées.
 
-1. Dans Marketo Sales, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Dans Actions Sales Insight, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/salesforce-sync-settings-1.png)
 
@@ -47,7 +47,7 @@ Une fois que vous avez activé &quot;E-mail à Salesforce (Cci)&quot;, vous rece
 
 >[!PREREQUISITES]
 >
->Salesforce et Marketo Sales doivent être connectés.
+>Les actions Salesforce et Sales Insight doivent être connectées.
 
 **Pour consigner vos emails dans Salesforce par courrier électronique (Cci)**
 
@@ -93,9 +93,9 @@ Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètr
 1. Cochez la case en regard de &quot;Principal&quot;.
 1. Cliquez sur **Enregistrer**.
 
-## Synchronisation des tâches/rappels de vente Marketo avec les tâches Salesforce {#sync-marketo-sales-tasks-reminders-to-salesforce-tasks}
+## Synchroniser les tâches/rappels des actions Sales Insight avec les tâches Salesforce {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. Dans Marketo Sales, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Dans Actions Sales Insight, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/salesforce-sync-settings-10.png)
 

@@ -3,10 +3,10 @@ description: Vue Détails de la personne - Documents Marketo - Documentation du 
 title: Vue Détails de la personne
 hide: true
 hidefromtoc: true
-source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '288'
+ht-degree: 6%
 
 ---
 
@@ -18,21 +18,21 @@ La vue Détails de la personne fournit un profil détaillé de chaque personne d
 
 1. Pour accéder à la vue des détails de la personne, cliquez sur le bouton **Personnes** .
 
-PICC
+   ![](assets/person-detail-view-1.png)
 
 1. Sélectionnez la personne souhaitée.
 
-PICC
+   ![](assets/person-detail-view-2.png)
 
->[!TIP]
->
->Où que vous voyiez le nom d’une personne, vous pouvez cliquer dessus et accéder à son Affichage des détails de la personne.
+   >[!TIP]
+   >
+   >Où que vous voyiez le nom d’une personne, vous pouvez cliquer dessus et accéder à son Affichage des détails de la personne.
 
 ## Onglet À propos {#about-tab}
 
 Inclut toutes les coordonnées de la personne.
 
-PICC
+![](assets/person-detail-view-3.png)
 
 **Carte de contact**
 
