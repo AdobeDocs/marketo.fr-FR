@@ -3,10 +3,10 @@ description: Actions Sales Insight et conformité RGPD - Documents Marketo - Doc
 title: Actions d’aperçu des ventes et conformité au RGPD
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
 workflow-type: tm+mt
-source-wordcount: '1396'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -101,7 +101,7 @@ Les actions d’aperçu des ventes permettent également de mettre à jour en ma
 
 Lorsque vous sélectionnez un ou plusieurs contacts dans la page Personnes, un point (menu à trois points) s’affiche à droite. Cliquez dessus et les options Autorisation et Source s’affichent. Vous pouvez définir simultanément l’ Autorisation ou la Source de plusieurs contacts.
 
-![](assets/sales-insight-actions-and-gdpr-compliance-5.jpg)
+![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
 Lorsque vous cliquez sur le modal d’autorisation, une fenêtre contextuelle contenant des options qui correspondent à celles de la carte de conformité s’affiche.
 
