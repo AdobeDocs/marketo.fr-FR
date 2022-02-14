@@ -3,7 +3,8 @@ description: Paramètres de gestion de la connexion - Documents Marketo - Docume
 title: Paramètres de gestion de la connexion
 hide: true
 hidefromtoc: true
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
+source-git-commit: 984a6dbd19d88db942d9d10bde4880a79feabcc7
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%

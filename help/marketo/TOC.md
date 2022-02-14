@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 72e5c209939f30228d4ef9f6af798265e0446456
 workflow-type: tm+mt
-source-wordcount: '8282'
+source-wordcount: '8273'
 ht-degree: 5%
 
 ---
@@ -211,7 +211,6 @@ ht-degree: 5%
          + [Création d’un utilisateur API uniquement](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Création, suppression, modification et modification d’un rôle d’utilisateur](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [Vérification des emails](product-docs/administration/users-and-roles/email-verification.md)
-         + [Activation de l’autorisation d’importation de liste avancée sur un rôle](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
          + [Exportation d’une liste d’utilisateurs et de rôles](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gestion des utilisateurs Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gestion des rôles et des autorisations des utilisateurs](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
@@ -628,7 +627,7 @@ ht-degree: 5%
          + [Test des pistes publicitaires Facebook pour l’intégration mobile avec Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Présentation des conversions hors ligne de Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Utilisation des filtres et des déclencheurs de piste dans une campagne dynamique](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
-      +  formulaires{#forms}
+      + Formulaires {#forms}
          + Création d’un formulaire {#creating-a-form}
             + [Créer un formulaire](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
             + [Ajouter un champ à un formulaire](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
@@ -681,7 +680,7 @@ ht-degree: 5%
          + [Remplacement d’une image ou d’un fichier téléchargé](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Recherche d’images et de fichiers téléchargés](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Chargement d’images et de fichiers d’une zone](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      +  pages de destination{#landing-pages}
+      + Pages de destination {#landing-pages}
          + Présentation des landing pages {#understanding-landing-pages}
             + [Approbation, désapprobation ou suppression d’une page d’entrée](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Rapport Performance de page d’entrée](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
@@ -715,7 +714,7 @@ ht-degree: 5%
             + [Aperçu d’une page d’entrée avec du contenu dynamique](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [Aperçu d’une page d’entrée](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
             + [Redirection d’une page d’entrée Marketo vers une autre page](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-         +  modèles de page de destination{#landing-page-templates}
+         + Modèles de pages de destination {#landing-page-templates}
             + [Créer un modèle de page d’entrée de forme libre](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Création d’un modèle de page d’entrée guidée](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
             + [Modification d’un modèle de page d’entrée Marketo](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
@@ -1117,7 +1116,7 @@ ht-degree: 5%
             + Module complémentaire Office 365 {#office-365-add-in}
                + [Ajouter un courrier électronique à Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Installation de Sales Connect pour Office365 Mac OS, Windows et Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
-      + E-mail {#email}
+      + Adresse e-mail {#email}
          + Centre de contrôle {#command-center}
             + [Présentation du centre de commandes](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Aperçu de la recherche avancée](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
@@ -1182,7 +1181,7 @@ ht-degree: 5%
          + [Rendre une campagne visible pour les utilisateurs de Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossaire des activités de vente](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Déclencheurs et filtres d’activité de vente](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + Personnes {#people}
+      + Personne {#people}
          + [Vue Détails de la personne](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Conformité à la norme commerciale et au RGPD](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Gestion des contacts {#managing-contacts}
@@ -1264,7 +1263,7 @@ ht-degree: 5%
                + [Configuration de la personnalisation des détails de l’activité Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Connexion de votre compte de vente Marketo à Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
                + [Paramètres de synchronisation Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-         + E-mail {#email}
+         + Adresse e-mail {#email}
             + Centre de contrôle {#command-center}
                + [Aperçu de la recherche avancée](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
                + [Affectation de tâches aux membres de l’équipe](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
@@ -1289,7 +1288,7 @@ ht-degree: 5%
                + [Utilisation d’un modèle dans la fenêtre de composition](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Marketo {#marketo}
             + [Octroi de l’accès à Marketo aux utilisateurs](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
-         + Personnes {#people}
+         + Personne {#people}
             + [Vue Détails de la personne](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Actions d’aperçu des ventes et conformité au RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
          + Configuration Salesforce {#salesforce-configuration}
@@ -1454,7 +1453,7 @@ ht-degree: 5%
             + [Priorité de l’ordre de segmentation](product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)
             + [Compréhension du contenu dynamique](product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
             + [Utilisation des filtres de segments dans une liste dynamique](product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
-         + extraits {#snippets}
+         + Extraits {#snippets}
             + [Ajout de contenu à un fragment de code](product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
             + [Approbation d’un fragment de code sans brouillon](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
             + [Approbation d’un fragment de code](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
