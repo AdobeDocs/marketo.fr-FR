@@ -4,9 +4,9 @@ title: Configuration de l’administrateur
 hide: true
 hidefromtoc: true
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Une fois que vous avez été ajouté en tant qu’administrateur système d’Ad
 
 Une fois que l’administrateur système a accédé au Admin Console, il est temps de créer un profil de produit. C’est ainsi que vos utilisateurs/administrateurs ont accès à Marketo Engage.
 
-1. Sous Produits et services, cliquez sur **Marketo Engage**.
+1. Sur la page Aperçu , sous Produits et services, cliquez sur **Marketo Engage**.
 
    ![](assets/admin-setup-3.png)
 
