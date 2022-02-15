@@ -4,9 +4,9 @@ title: FAQ sur la synchronisation des données d’actions
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 8ded6cac96f17c81a8d37cbe51c39ad565ac828e
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1044'
 ht-degree: 3%
 
 ---
