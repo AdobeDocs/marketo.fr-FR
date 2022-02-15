@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Onglet de configuration de Marketo Sales Insight dans Salesforce - Documents Marketo - Documentation du produit
 title: Onglet de configuration de Marketo Sales Insight dans Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 2d6df5b08cb4ae6459d10bdc7a1d2ab09a96fb9d
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,10 @@ Les configurations s’appliquent à tous les utilisateurs MSI et ne sont pas sp
 Si vous choisissez de le faire, toutes vos configurations seront effacées dans SFDC et elles ne peuvent pas être restaurées. Vous devrez tout reconfigurer.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
+>[!IMPORTANT]
+>
+>Ne cochez pas la case &quot;Activer les actions MSI&quot;, sauf si vous utilisez les fonctionnalités d’ actions de statistiques sur les ventes .
 
 >[!MORELIKETHIS]
 >
