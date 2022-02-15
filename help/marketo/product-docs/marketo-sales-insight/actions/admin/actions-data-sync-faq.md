@@ -4,9 +4,9 @@ title: FAQ sur la synchronisation des données d’actions
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
-source-wordcount: '1033'
+source-wordcount: '1045'
 ht-degree: 3%
 
 ---
@@ -37,7 +37,7 @@ Les prospects et les contacts auxquels un propriétaire de vente est affecté se
 
 Vous pouvez voir si un prospect/contact a un propriétaire de vente dans Salesforce en consultant le champ propriétaire standard qui existe.
 
-Le propriétaire des ventes ne doit pas nécessairement être l’utilisateur de synchronisation Marketo ou un utilisateur Salesforce ou commercial spécifique. Tant qu’un utilisateur figure dans le champ propriétaire standard, nous inclurons le prospect/contact à synchroniser avec les actions de vente, ainsi que dans toute mise à jour des champs synchronisés à effectuer dans ce prospect.
+Le propriétaire des ventes ne doit pas nécessairement être l’utilisateur de synchronisation Marketo ou un utilisateur Salesforce ou commercial spécifique. Tout ce dont nous avons besoin, c’est qu’un utilisateur figure dans le champ Propriétaire du prospect et Propriétaire du contact répertorié dans Salesforce, de sorte que nous puissions l’identifier comme prospect commercial et le synchroniser dans les actions d’aperçu des ventes. Toutes les mises à jour apportées aux champs avec lesquels nous synchronisons seront également détectées et mises à jour dans les actions Sales Insight.
 
 ## D’où proviennent les données d’activité affichées dans la grille dynamique d’aperçu des ventes ? {#where-does-the-activity-data-get-sourced-from}
 
