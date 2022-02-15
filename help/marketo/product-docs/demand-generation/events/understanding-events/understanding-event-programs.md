@@ -3,10 +3,10 @@ unique-page-id: 2949841
 description: Présentation des programmes d’événements - Documents Marketo - Documentation du produit
 title: Présentation des programmes d’événements
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ Un programme d’événement est un type de programme qui peut être utilisé po
 >* Rencontres
 
 
-Les événements peuvent se connecter automatiquement à votre [fournisseur de webinaires](launchpoint-event-partners.md) ainsi que de la synchronisation avec un [Application d’archivage iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+Les événements peuvent se connecter automatiquement à votre [fournisseur de webinaires](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) ainsi que de la synchronisation avec un [Application d’archivage iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >
