@@ -4,10 +4,10 @@ title: Guide d’administration des actions MSI
 hide: true
 hidefromtoc: true
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 2%
+source-wordcount: '556'
+ht-degree: 1%
 
 ---
 
@@ -110,15 +110,17 @@ Si vous êtes déjà connecté à Salesforce, vous serez connecté. Si ce n’es
 
 ## Lancer la synchronisation des données {#initiate-data-sync}
 
+La synchronisation des champs d’unification des données pour les actions d’aperçu des ventes permet au système d’extraire des informations sur les personnes de votre base de données de Marketo Engage dans votre base de données d’actions d’aperçu des ventes, de mettre à jour les données de vos personnes et de s’assurer que les activités sont consignées dans les bons enregistrements dans Marketo et Salesforce.
+
 1. Dans Marketo, cliquez sur **Administration**.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Cliquez sur Sales Insight .
+1. Cliquez sur **Statistiques des ventes**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Cliquez sur l’onglet Configuration des actions . Dans la carte Synchronisation des champs d’action , cliquez sur **Synchronisation**.
+1. Cliquez sur le bouton **Configuration des actions** . Dans la carte Synchronisation des champs d’action , cliquez sur **Synchronisation**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -127,6 +129,10 @@ Si vous êtes déjà connecté à Salesforce, vous serez connecté. Si ce n’es
    ![](assets/msi-actions-admin-guide-13.png)
 
 Les enregistrements de personne existant dans Marketo et Salesforce seront synchronisés dans votre compte Applications commerciales Marketo.
+
+>[!NOTE]
+>
+>Pour en savoir plus sur la manière dont les personnes et les données d’activité se synchronisent entre les actions Sales Insight, Marketo et Salesforce, [cliquez ici](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
 
 ## Invitation d’utilisateurs individuels dans des actions MSI {#invite-individual-users-to-msi-actions}
 
