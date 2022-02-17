@@ -2,9 +2,9 @@
 description: Envoyer un segment Adobe Experience Platform vers une liste statique Marketo - Documents Marketo - Documentation du produit
 title: Envoi d’un segment Adobe Experience Platform vers une liste statique Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
+source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
 >[!PREREQUISITES]
 >
+>* [Modification du rôle de l’API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) pour s’assurer qu’il a la variable **Personne en lecture-écriture** autorisation (disponible dans la liste déroulante API d’accès).
 >* [Création d’un utilisateur API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) dans Marketo.
 >* Accédez à **Administration** > **Launchpoint**. Recherchez le nom du rôle que vous venez de créer, puis cliquez sur **Afficher les détails**. Copiez et enregistrez les informations dans **ID client** et **Secret du client**, car vous pourriez en avoir besoin pour l’étape 7.
 >* Dans Marketo, créez une liste statique ou recherchez et sélectionnez-en une que vous avez déjà créée. Vous aurez besoin de son identifiant.
@@ -36,7 +37,7 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. Recherchez la mosaïque Marketo Engage et cliquez sur **Activation des segments**.
+1. Recherchez la mosaïque Marketo Engage et cliquez sur **Activer**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -79,7 +80,11 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    >[!NOTE]
    >
-   >Si vous choisissez ici plusieurs segments, vous devrez associer chaque segment à une liste statique spécifiée dans l’onglet Planification de segments .
+   >Si vous choisissez plusieurs segments, vous devrez associer chaque segment à une liste statique spécifiée dans l’onglet Planification des segments .
+
+   >[!IMPORTANT]
+   >
+   >Une fois qu’un segment a été activé pour la première fois sur la destination Marketo, le renvoi des profils qui existaient déjà dans le segment avant l’activation de la destination Marketo peut prendre **jusqu’à 24 heures**. Dorénavant, chaque fois que des profils sont ajoutés au segment, ils le sont immédiatement dans Marketo.
 
 1. Cliquez sur **Ajouter un nouveau mappage**.
 
