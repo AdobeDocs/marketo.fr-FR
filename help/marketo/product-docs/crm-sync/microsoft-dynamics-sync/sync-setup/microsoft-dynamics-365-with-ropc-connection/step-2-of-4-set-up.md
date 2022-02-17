@@ -1,14 +1,15 @@
 ---
-description: Étape 2 sur 3 - Configuration de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource - Documents Marketo - Documentation du produit
-title: Étape 2 sur 3 - Configuration de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+description: Étape 2 sur 4 - Configuration de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire des ressources - Documents Marketo - Documentation du produit
+title: Étape 2 sur 4 - Configuration de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource
+exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
 
-# Étape 2 sur 3 : Configuration de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire des ressources {#step-2-of-3-set-up-the-marketo-solution-ropc}
+# Étape 2 sur 4 : Configuration de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire des ressources {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
 Commençons par créer un compte utilisateur.
 
@@ -45,6 +46,10 @@ Commençons par créer un compte utilisateur.
 1. Un autre nouvel onglet s’ouvre. Cliquez sur **Ajout d’un utilisateur**.
 
    ![](assets/seven.png)
+
+   >[!IMPORTANT]
+   >
+   >L’utilisateur de synchronisation doit disposer d’une autorisation en lecture sur la configuration Marketo.
 
 1. Saisissez toutes vos informations. Lorsque vous avez terminé, cliquez sur **Ajouter**.
 

@@ -3,9 +3,9 @@ unique-page-id: 7504739
 description: Installation de Marketo pour Microsoft Dynamics 2015 On-Premise Étape 2 sur 3 - Documentation Marketo - Documentation du produit
 title: Installation de Marketo pour Microsoft Dynamics 2015 On-Premise Étape 2 sur 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,13 @@ Attribuez le rôle Utilisateur de synchronisation Marketo uniquement à l’util
 
    ![](assets/assign4.png)
 
-   Cochez Utilisateur de synchronisation Marketo et cliquez sur OK.
+1. Cochez Utilisateur de synchronisation Marketo et cliquez sur **OK**.
 
    ![](assets/assign5.png)
+
+   >[!IMPORTANT]
+   >
+   >L’utilisateur de synchronisation doit disposer d’une autorisation en lecture sur la configuration Marketo.
 
    >[!TIP]
    >
@@ -85,6 +89,10 @@ Presque fini ! Nous n&#39;avons que quelques derniers éléments de configuratio
 1. Cliquez sur **Publier toutes les personnalisations**.
 
    ![](assets/publish-all-customizations1.png)
+
+   >[!NOTE]
+   >
+   >L’utilisateur de synchronisation doit disposer d’une autorisation en lecture sur la configuration Marketo.
 
 ## Avant de passer à l’étape 3 {#before-proceeding-to-step}
 
