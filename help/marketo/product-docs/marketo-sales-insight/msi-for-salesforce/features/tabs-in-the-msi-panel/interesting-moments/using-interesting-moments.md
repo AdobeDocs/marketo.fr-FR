@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Utilisation de moments intéressants - Documents Marketo - Documentation du produit
 title: Utilisation de moments intéressants
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -85,5 +85,9 @@ Vous pouvez vous abonner à un moment intéressant en cliquant sur le bouton S�
 1. Choisissez la ou les adresses électroniques auxquelles vous souhaitez envoyer les alertes (membres de votre équipe/vous-même).
 
 1. Cliquez sur **S’abonner**.
+
+>[!NOTE]
+>
+>Lorsque vous vous abonnez à Types ou descriptions de moment intéressants, l’utilisateur recevra des notifications par e-mail aux personnes (prospects/contacts) qu’il possède lorsqu’il déclenchera un moment intéressant correspondant à ce type ou à cette description.
 
 ![](assets/using-interesting-moments-8.png)
