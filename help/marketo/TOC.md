@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
+source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
 workflow-type: tm+mt
-source-wordcount: '8285'
+source-wordcount: '8293'
 ht-degree: 5%
 
 ---
@@ -252,6 +252,7 @@ ht-degree: 5%
             + [Modification des règles de qualification dans une campagne dynamique](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [Déplacement d’une campagne dynamique](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [Remplacement des restrictions de personne dans une campagne dynamique](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
+            + [Remplacement de priorité pour les campagnes de déclenchement](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/priority-override-for-trigger-campaigns.md)
             + [Renommer une campagne dynamique](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/rename-a-smart-campaign.md)
             + [Exécution immédiate d’une campagne dynamique par lots | Onglet Planification](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [Planification de l’exécution d’une campagne dynamique par lots ultérieurement](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
@@ -377,6 +378,7 @@ ht-degree: 5%
             + [Modifier les paramètres de comportement d’analyse](product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)
             + [Importation d’un programme](product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)
             + [Importation de membres à partir d’une feuille de calcul dans un programme](product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md)
+            + [Expiration des ressources locales](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [Gestion et affichage des membres](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [Champs personnalisés des membres du programme](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
             + [Synchronisation d’une campagne SFDC avec un programme](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
