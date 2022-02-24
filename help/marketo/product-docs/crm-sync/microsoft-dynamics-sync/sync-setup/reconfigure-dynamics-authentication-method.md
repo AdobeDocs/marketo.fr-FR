@@ -2,9 +2,9 @@
 description: Reconfigurez la méthode d’authentification Dynamics - Documents Marketo - Documentation du produit
 title: Reconfiguration de la méthode d’authentification Dynamics
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: d86a8699838158631f210ea2f7acdfb88061b649
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,10 @@ Suivez les étapes ci-dessous pour mettre à jour votre méthode d’authentific
 
 1. Cliquez sur **Confirmer** encore une fois.
 
+   ![](assets/reconfigure-dynamics-authentication-method-8.png)
+
 1. Cliquez sur **OK**.
 
    >[!IMPORTANT]
    >
-   >N’oubliez pas de réactiver la synchronisation !
+   >Le système prend 15 minutes pour accepter le nouveau mode d’authentification. Veuillez patienter 15 minutes à compter de l’heure du commutateur avant de réactiver la synchronisation.

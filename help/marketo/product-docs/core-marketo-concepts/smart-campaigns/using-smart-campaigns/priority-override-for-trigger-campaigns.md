@@ -3,7 +3,7 @@ description: Remplacement de priorité pour les campagnes de déclenchement - Do
 title: Remplacement de priorité pour les campagnes de déclenchement
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Les administrateurs peuvent remplacer la priorité déterminée de Marketo pour 
 
 ## Accorder l’accès de priorité de remplacement {#grant-priority-override-access}
 
->[!CAUTION]
+>[!NOTE]
 >
 >Seuls les administrateurs ou les utilisateurs avec des responsabilités d’administrateur doivent disposer d’un accès de priorité de campagne de remplacement.
 
