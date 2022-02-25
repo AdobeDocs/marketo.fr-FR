@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
-source-wordcount: '8293'
+source-wordcount: '8320'
 ht-degree: 5%
 
 ---
@@ -1401,6 +1401,13 @@ ht-degree: 5%
       + [Statistiques des ventes pour les intégrations Salesforce non natives](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [Activation des rôles pour Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
+      + [Comportement attendu](product-docs/marketo-sky/expected-behavior.md)
+      + [Prise en main des audiences prédictives](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
+      + [État et validité des données du modèle](product-docs/marketo-sky/model-health-and-data-validity.md)
+      + [Filtres prédictifs](product-docs/marketo-sky/predictive-filters.md)
+      + [Définition d’une limite d’événement](product-docs/marketo-sky/setting-an-event-cap.md)
+      + [Définition des objectifs d’événement](product-docs/marketo-sky/setting-event-goals.md)
+      + [Comprendre le suivi des objectifs et les inscriptions prévues](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + Mobile Marketing {#mobile-marketing}
       + Administration {#admin}
          + [Ajout d’une application mobile](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
