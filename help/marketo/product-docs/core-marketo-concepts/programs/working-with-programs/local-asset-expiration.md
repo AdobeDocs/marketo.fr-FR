@@ -3,9 +3,9 @@ description: Expiration des ressources locales - Documents Marketo - Documentati
 title: Expiration des ressources locales
 hide: true
 hidefromtoc: true
-source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,9 @@ Avant de pouvoir planifier l’expiration d’une ressource, l’autorisation ap
 
    ![](assets/local-asset-expiration-2.png)
 
-1. Sous [!UICONTROL Accès aux activités marketing], sélectionnez **[!UICONTROL Planification de l’expiration des ressources]**. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sous [!UICONTROL Accès aux activités marketing], sélectionnez **[!UICONTROL Planification de l’expiration des ressources locales]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
-PICC
+   ![](assets/local-asset-expiration-3.png)
 
 ## Définition d’une date d’expiration {#set-an-expiration-date}
 
@@ -56,6 +56,7 @@ PICC
 >
 >* Pour modifier une date d’expiration existante, vérifiez simplement la ou les ressources et cliquez sur **[!UICONTROL Définition de l’expiration]**.
 >* Une fois qu’une ressource a expiré, elle ne s’affiche plus sur la grille Expiration . La grille affiche uniquement les landing pages publiées, les campagnes à déclenchement principal et les campagnes par lots récurrents.
+>* Les expirations planifiées seront supprimées si la ressource est déplacée vers un autre programme.
 
 
 ## Suppression d’une date d’expiration {#remove-an-expiration-date}

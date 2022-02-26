@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importation d’un programme - Documents Marketo - Documentation du produit
 title: Importation d’un programme
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: cb14f5c16164eb2167a13d493cd48ed0fec263a9
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,8 @@ Les programmes utilisent des ressources externes telles que des modèles d’ema
 
 **Modèles de courrier électronique/page d’entrée :** Les modèles Email/Landing Page sont importés dans Design Studio. Vous pouvez utiliser des règles de conflit pour configurer le comportement lorsqu’il existe un modèle portant le même nom. Avec la règle par défaut, un nombre sera ajouté à un modèle s’il existe un modèle portant le même nom. Par exemple, si vous disposez déjà d’un modèle nommé &quot;Modèle standard&quot;, le nouveau modèle s’intitule &quot;Modèle standard 1&quot;.
 
+**Pages d’entrée/Forms :** Si un formulaire ou une landing page portant le même nom existe dans Design Studio, ils seront toujours importés, mais avec un numéro ajouté à leur nom (ex : Page d’entrée 1).
+
 **Images :** Les images utilisées par les landing pages sont importées dans le studio de conception, sauf si elles portent le même nom.
 
 **Jetons :** Les jetons qui se trouvent en dehors d’un programme sont convertis en jetons locaux lors du processus d’importation.
@@ -96,8 +98,6 @@ Les programmes utilisent des ressources externes telles que des modèles d’ema
 >Le type d’image que mes jetons ne sont pas pris en charge pour les importations de programme. Si un programme de type image mes jetons est importé, **non** les jetons passeront.
 
 **Balises de programme :** Vous pouvez utiliser des règles de conflit pour contrôler la manière dont les balises de programme qui n’existent pas dans le compte de destination seront traitées. L’utilisation de la règle par défaut crée les balises de programme ou vous pouvez choisir d’ignorer les balises.
-
-**Forms :** Les formulaires externes seront automatiquement importés dans le studio de conception, sauf s’il en existe un portant le même nom.
 
 >[!CAUTION]
 >
