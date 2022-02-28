@@ -2,10 +2,10 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 0%
+source-wordcount: '784'
+ht-degree: 1%
 
 ---
 
@@ -64,6 +64,12 @@ Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées
 ![(étoile)](assets/yellow-star.png)
 
 * **Modèles BI**: Bizible fournit désormais des artefacts de rapports et des exemples de rapports téléchargeables et de base pour Tableau et Power BI afin de permettre le développement rapide de rapports personnalisés adaptés à vos besoins spécifiques.
+
+## SalesConnect {#sales-connect}
+
+![(étoile)](assets/yellow-star.png)
+
+* **Limitation de la connexion aux e-mails (GA)**: Le contrôle de connexion par e-mail permet aux administrateurs de Sales Connect de configurer le taux d’envoi des e-mails lors de l’utilisation de Gmail ou Exchange comme canal de diffusion, de sorte que le taux auquel les e-mails sont remis au fournisseur de canal de diffusion ne dépasse pas les limites appliquées.
 
 ## Annonces {#announcements}
 
