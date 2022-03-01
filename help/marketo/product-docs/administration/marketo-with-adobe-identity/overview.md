@@ -2,7 +2,7 @@
 description: Présentation - Documents Marketo - Documentation du produit
 title: APERÇU
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Les abonnements Marketo existants seront migrés vers le système Identity Manag
 >
 >La prise en charge de Marketo ne pourra fournir aucune mise à jour concernant la migration d’Adobe IMS. Votre responsable du succès client atteindra le délai prévu au cours des prochains mois.
 
-## Niveaux de profil
+## Niveaux de profil {#profile-levels}
 
 Les abonnements à Adobe Marketo Engage intégrés à Adobe Identity Management System prennent en charge divers profils. Voici les types de profils utilisateur pertinents dans cette intégration.
 
@@ -42,7 +42,7 @@ Les abonnements à Adobe Marketo Engage intégrés à Adobe Identity Management 
  </tr>
 </table>
 
-## FAQ
+## FAQ {#faq}
 
 **Qu’est-ce que l’identité Adobe ?**
 
