@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: Étape 2 sur 3 - Configuration de la solution Marketo avec connexion serveur à serveur - Documents Marketo - Documentation du produit
 title: Étape 2 sur 3 - Configuration de la solution Marketo avec la connexion serveur à serveur
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,9 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >Lors de l’attribution des autorisations à l’utilisateur de l’application, veillez à l’affecter à &quot;Rôle utilisateur de synchronisation Marketo&quot;.
+   >* Lors de l’attribution des autorisations à l’utilisateur de l’application, veillez à l’affecter à &quot;Rôle utilisateur de synchronisation Marketo&quot;.
+   >* Notez l’adresse électronique de l’utilisateur de l’application dans la variable [option afficher les détails](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) sur Power Platform. Cette adresse électronique sera utilisée comme nom d’utilisateur lors de la configuration de la connexion à MS Dynamics dans Marketo.
+
 
 ## Azure AD Federated avec AD FS On-premise {#azure-ad-federated-with-ad-fs-on-prem}
 
