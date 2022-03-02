@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited - Documents Marketo - Documentation du produit
 title: Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
+source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
 workflow-type: tm+mt
-source-wordcount: '820'
-ht-degree: 6%
+source-wordcount: '877'
+ht-degree: 12%
 
 ---
 
@@ -16,8 +16,7 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
 >[!PREREQUISITES]
 >
->* [Installation du package Marketo Sales Insight dans l’AppExchange Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
+>[Installation du package Marketo Sales Insight dans l’AppExchange Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -119,34 +118,52 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
    >
    >Nous recommandons une hauteur de 410 pixels pour les objets Comptes et opportunités .
 
-1. Cliquez sur **Champs** sur la gauche. Recherchez ensuite le composant **Engagement** dans le **Marketo Sales Insight** mise en page.
+1. Cliquez sur **Champs** sur la gauche. Recherchez ensuite le composant **Urgence** dans le **Marketo Sales Insight** mise en page.
 
-   ![](assets/image2015-5-22-16-3a32-3a46.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
 1. Répétez également l’étape ci-dessus pour ces champs.
 
    <table> 
     <tbody> 
      <tr> 
-      <td colspan="1">Engagement</td> 
+      <td>Dernier moment significatif</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Valeur d'évaluation relative</p></td> 
+      <td>Date dernier moment significatif</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Valeur d'urgence</p></td> 
+      <td>Description dernier moment significatif</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Date dernier moment significatif</p></td> 
+      <td>Source dernier moment significatif</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Description dernier moment significatif</p></td> 
+      <td>Type dernier moment significatif</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Source dernier moment significatif</p></td> 
+      <td>Dernière activité Marketo par les équipes de ventes</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Type dernier moment significatif</p></td> 
+      <td>Dernier engagement Marketo par les équipes de ventes</td> 
+     </tr> 
+     <tr> 
+      <td>Identifiant de contact MSI</td> 
+     </tr> 
+     <tr> 
+      <td>Évaluation relative</td> 
+     </tr> 
+     <tr> 
+      <td>Valeur d'évaluation relative</td> 
+     </tr> 
+     <tr> 
+      <td>Urgence</td> 
+     </tr> 
+     <tr> 
+      <td>Valeur d'urgence</td> 
+     </tr> 
+     <tr> 
+      <td>Afficher dans Marketo</td> 
      </tr> 
     </tbody> 
    </table>
@@ -155,9 +172,53 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Répétez cette procédure pour ajouter des sections de page Visualforce et des champs Sales Insight pour **Contact**, **Compte** et **Opportunité**.
+1. Répétez les étapes 5 à 7 pour ajouter des sections de page Visualforce et des champs Sales Insight pour **Contact**, **Compte** et **Opportunité**.
 
-1. Répétez les étapes 5 à 7 pour ajouter des sections de page Visualforce pour Contact, Compte et Opportunité. Répétez ensuite les étapes 8 à 10 pour ajouter des champs de statistiques sur les ventes pour **Contact**. Veillez à enregistrer après toute modification.
+1. Répétez les étapes 8 à 10 pour ajouter les champs de statistiques sur les ventes de la liste ci-dessous pour **Contact**. Veillez à enregistrer les modifications.
+
+<table> 
+    <tbody> 
+     <tr> 
+      <td>Dernier moment significatif</td> 
+     </tr> 
+     <tr> 
+      <td>Date dernier moment significatif</td> 
+     </tr> 
+     <tr> 
+      <td>Description dernier moment significatif</td> 
+     </tr> 
+     <tr> 
+      <td>Source dernier moment significatif</td> 
+     </tr> 
+     <tr> 
+      <td>Type dernier moment significatif</td> 
+     </tr> 
+     <tr> 
+      <td>Dernière activité Marketo par les équipes de ventes</td> 
+     </tr> 
+     <tr> 
+      <td>Dernier engagement Marketo par les équipes de ventes</td> 
+     </tr> 
+     <tr> 
+      <td>Score de piste MKTO</td> 
+     </tr> 
+     <tr> 
+      <td>Évaluation relative</td> 
+     </tr> 
+     <tr> 
+      <td>Valeur d'évaluation relative</td> 
+     </tr> 
+     <tr> 
+      <td>Sales Insight - Ouvre la page de liste complète des contacts</td> 
+     </tr> 
+     <tr> 
+      <td>Urgence</td> 
+     </tr> 
+     <tr> 
+      <td>Valeur d'urgence</td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 ## Faire correspondre les champs de personne personnalisés {#map-custom-person-fields}
 
