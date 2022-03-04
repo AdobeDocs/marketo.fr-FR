@@ -3,10 +3,10 @@ description: Gestion des groupes - Documents Marketo - Documentation du produit
 title: Gestion des groupes
 hide: true
 hidefromtoc: true
-source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
+source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 0%
+source-wordcount: '362'
+ht-degree: 3%
 
 ---
 
@@ -14,15 +14,46 @@ ht-degree: 0%
 
 Découvrez comment gérer vos groupes dans les actions Sales Insight.
 
+## Types de groupe {#group-types}
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th>Groupe</th> 
+   <th>Description</th> 
+  </tr> 
+  <tr> 
+   <td>Toutes les personnes</td> 
+   <td>Tous les contacts de tous les utilisateurs qui vous sont visibles.</td> 
+  </tr> 
+  <tr> 
+   <td>Groupes dynamiques</td> 
+   <td>Mes contacts: Tous les contacts que vous détenez.<br>Désabonne : Les contacts qui se sont désinscrits de la réception de la correspondance.</td> 
+  </tr> 
+  <tr> 
+   <td>Mes groupes</td> 
+   <td>Groupes que vous avez créés. Ils peuvent contenir vos contacts ou des contacts qui ont été partagés avec vous.</td> 
+  </tr> 
+  <tr> 
+   <td>Équipes</td> 
+   <td>Groupes qui ont été partagés avec et/ou par vous. Ils peuvent contenir des contacts personnels ou des contacts que vous avez partagés avec vos collègues.</td> 
+  </tr> 
+ </tbody> 
+</table>
+
 ## Création d’un groupe {#create-a-group}
 
 1. Dans la page Personnes, cliquez sur le **+** en regard de Groupes .
 
-   ![](assets/one-4.png)
+   ![](assets/manage-groups-1.png)
 
 1. Nommez votre groupe et cliquez sur **Créer**.
 
-   ![](assets/two-3.png)
+   ![](assets/manage-groups-2.png)
 
    C&#39;est tout !
 
@@ -30,11 +61,11 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
 
 1. Dans la page Personnes, recherchez et sélectionnez le groupe auquel vous souhaitez ajouter des personnes.
 
-   ![](assets/three-3.png)
+   ![](assets/manage-groups-3.png)
 
 1. Cliquez sur **Actions de groupe** et sélectionnez **Créer un contact et l’ajouter au groupe**.
 
-   ![](assets/four-3.png)
+   ![](assets/manage-groups-4.png)
 
    >[!NOTE]
    >
@@ -42,7 +73,7 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
 
 1. Renseignez les informations du contact et cliquez sur **Créer** (ou **Créer et ajouter** pour en ajouter un autre).
 
-   ![](assets/five-3.png)
+   ![](assets/manage-groups-5.png)
 
    Et vous avez fini !
 
@@ -54,15 +85,15 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
 
 1. Sur la page Personnes, recherchez et sélectionnez le groupe que vous souhaitez partager.
 
-   ![](assets/six.png)
+   ![](assets/manage-groups-6.png)
 
 1. Cliquez sur le point (trois points verticaux) et sélectionnez **Partager**.
 
-   ![](assets/seven.png)
+   ![](assets/manage-groups-7.png)
 
 1. Cliquez sur la liste déroulante, sélectionnez l’équipe avec laquelle vous souhaitez partager le groupe, puis cliquez sur **Partager**.
 
-   ![](assets/eight.png)
+   ![](assets/manage-groups-8.png)
 
    Vous êtes toujours propriétaire du groupe, mais il apparaîtra désormais sous _Groupes d’équipes_.
 
@@ -70,15 +101,15 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
 
 1. Dans la page Personnes, recherchez et sélectionnez le groupe dont vous souhaitez annuler le partage.
 
-   ![](assets/ten.png)
+   ![](assets/manage-groups-9.png)
 
 1. Cliquez sur le point (trois points verticaux) et sélectionnez **Partager**.
 
-   ![](assets/eleven.png)
+   ![](assets/manage-groups-10.png)
 
 1. Cliquez sur le bouton **X** en regard de l’équipe avec laquelle vous avez partagé le groupe, puis cliquez sur hors du modal.
 
-   ![](assets/twelve.png)
+   ![](assets/manage-groups-11.png)
 
    Le partage du groupe est désormais annulé.
 
@@ -86,26 +117,26 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
 
 1. Dans la page Personnes, recherchez et sélectionnez le groupe que vous souhaitez renommer.
 
-   ![](assets/six.png)
+   ![](assets/manage-groups-12.png)
 
-1. Cliquez sur le point (trois points verticaux) et sélectionnez **Renommer**.
+1. Cliquez sur le point (trois points verticaux) et sélectionnez **Modifier**.
 
-   ![](assets/thirteen.png)
+   ![](assets/manage-groups-13.png)
 
-1. Saisissez le nouveau nom et appuyez sur Entrée.
+1. Saisissez le nouveau nom, puis cliquez sur **Enregistrer**.
 
-   ![](assets/fourteen.png)
+   ![](assets/manage-groups-14.png)
 
 ## Suppression d’un groupe {#delete-a-group}
 
 1. Dans la page Personnes, recherchez et sélectionnez le groupe à supprimer.
 
-   ![](assets/fifteen.png)
+   ![](assets/manage-groups-15.png)
 
 1. Cliquez sur le point (trois points verticaux) et sélectionnez **Supprimer**.
 
-   ![](assets/sixteen.png)
+   ![](assets/manage-groups-16.png)
 
 1. Cliquez sur **Supprimer** pour confirmer.
 
-   ![](assets/seventeen.png)
+   ![](assets/manage-groups-17.png)

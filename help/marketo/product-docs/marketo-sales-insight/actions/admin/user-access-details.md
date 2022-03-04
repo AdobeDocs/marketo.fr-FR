@@ -4,9 +4,9 @@ title: Détails de l’accès utilisateur
 hide: true
 hidefromtoc: true
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Autorisations des utilisateurs administrateurs {#admin-user-permissions}
 
-Les administrateurs peuvent [afficher tous les modèles ;](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
+Les administrateurs peuvent [afficher tous les modèles ;](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/user-access-details-1.png)
 

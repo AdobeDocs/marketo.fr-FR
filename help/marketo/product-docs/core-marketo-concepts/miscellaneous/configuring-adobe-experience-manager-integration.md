@@ -3,17 +3,16 @@ unique-page-id: 30081815
 description: Configuration de l’intégration Adobe Experience Manager - Documents Marketo - Documentation du produit
 title: Configuration de l’intégration Adobe Experience Manager
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
 # Configuration de l’intégration Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
 
-Configurez AEM pour pouvoir accéder à Marketo Design Studio, sélectionner et importer des ressources AEM dans Design Studio.
+Configurez AEM afin que vous puissiez accéder à des ressources AEM, les sélectionner et les importer dans Marketo Design Studio.
 
 >[!NOTE]
 >
@@ -21,37 +20,37 @@ Configurez AEM pour pouvoir accéder à Marketo Design Studio, sélectionner et 
 
 >[!CAUTION]
 >
->Actuellement, cette fonctionnalité n’est entièrement prise en charge que dans Firefox. Il n’est pas pris en charge dans Safari et peut ne pas fonctionner dans la dernière version de Chrome (v. 80), selon vos paramètres de cookie SameSite.
+>Actuellement, cette fonctionnalité n’est entièrement prise en charge que dans Firefox. Elle n’est pas prise en charge dans Safari et peut ne pas fonctionner dans la dernière version de Chrome, selon vos paramètres de cookie SameSite.
 
-1. Accédez au Adobe Experience Manager (l’URL est spécifique à votre société).
+1. Accédez à Adobe Experience Manager (l’URL est spécifique à votre entreprise).
 
    ![](assets/one.png)
 
-1. Vous pouvez vous connecter avec un Adobe ou vous connecter localement. Dans cet exemple, nous allons nous connecter localement.
+1. Vous pouvez vous connecter avec Adobe ou vous connecter localement. Dans cet exemple, nous allons nous connecter localement.
 
    ![](assets/two.png)
 
-1. Dans **Outils**, cliquez sur **Opérations** et sélectionnez **Console Web**.
+1. Dans **Outils**, cliquez sur **Opérations** et sélectionnez **Console web**.
 
    ![](assets/2a.png)
 
-1. Dans votre navigateur, recherchez (ctrl+f sous Windows, cmd+f sous Mac) &quot;Adobe Granite Cross-Origine Resource Sharing Policy&quot; (Stratégie de partage des ressources entre les  de granit d’).
+1. Dans votre navigateur, recherchez (ctrl+f sous Windows, cmd+f sous Mac) &quot;Adobe Granite Cross-Origin Resource Sharing Policy&quot;.
 
    ![](assets/three.png)
 
-1. Cliquez sur le signe **+** à droite.
+1. Cliquez sur le bouton **+** inscrivez-vous à droite.
 
    ![](assets/four.png)
 
-1. Dans la zone de texte **Origines autorisées (Regexp)**, saisissez `https://.*\.marketo\.com` et cliquez sur **Enregistrer**.
+1. Dans le **Origines autorisées (Regexp)** zone de texte, saisissez `https://.*\.marketo\.com` et cliquez sur **Enregistrer**.
 
    ![](assets/five-psd.png)
 
-1. Dans l&#39;en-tête en haut de la page, cliquez sur **Console Web** et sélectionnez **Informations système**.
+1. Dans l’en-tête en haut de la page, cliquez sur **Console web** et sélectionnez **Informations système**.
 
    ![](assets/six.png)
 
-1. Sous Informations sur le serveur, cliquez sur le bouton **Redémarrer**.
+1. Sous Informations sur le serveur, cliquez sur le **Redémarrer** bouton .
 
    ![](assets/seven.png)
 
@@ -59,7 +58,7 @@ Configurez AEM pour pouvoir accéder à Marketo Design Studio, sélectionner et 
 
    ![](assets/eight.png)
 
-1. Dans Marketo Classic, cliquez sur **Admin**.
+1. Dans Marketo Classic, cliquez sur **Administration**.
 
    ![](assets/nine.png)
 
@@ -71,8 +70,8 @@ Configurez AEM pour pouvoir accéder à Marketo Design Studio, sélectionner et 
 
    ![](assets/eleven.png)
 
-1. Saisissez l’URL de votre AEM et cliquez sur **OK**.
+1. Saisissez votre URL d’AEM et cliquez sur **OK**.
 
    ![](assets/twelve.png)
 
-   Vous êtes toutes prêtes ! Vous pouvez désormais [importer des actifs AEM dans Design Studio en Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).
+   Vous êtes toutes prêtes ! Vous pouvez désormais [importer AEM ressources dans Design Studio dans Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).
