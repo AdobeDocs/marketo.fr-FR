@@ -3,9 +3,9 @@ description: Ajouter à Marketing Campaign - Documents Marketo - Documentation d
 title: Ajouter à la campagne marketing
 hide: true
 hidefromtoc: true
-source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
+source-git-commit: 6b59150eaebcd4424d3e347cb2379b9111255e4f
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -24,82 +24,82 @@ ht-degree: 0%
 
 1. Cliquez sur le bouton **Personnes** Onglet.
 
-   ![](assets/one-3.png)
+PICC
 
 1. Recherchez le ou les contacts que vous souhaitez ajouter.
 
-   ![](assets/two-3.png)
+PICC
 
 1. Cochez la case pour sélectionner votre ou vos contacts.
 
-   ![](assets/three-3.png)
+PICC
 
 1. Cliquez sur **Ajouter la sélection à la campagne**.
 
-   ![](assets/four-3.png)
+PICC
 
 1. Puisque vous ajoutez à une campagne marketing, ignorez la sélection d’une adresse &quot;de&quot;. Vous pouvez toutefois choisir d&#39;ajouter d&#39;autres contacts. Si vous le souhaitez, cliquez sur Particuliers et saisissez-les. Cliquez sur **Suivant** une fois terminé.
 
-   ![](assets/five-2.png)
+PICC
 
 1. Cliquez sur **Campagne marketing**.
 
-   ![](assets/six-1.png)
+PICC
 
 1. Cliquez sur la liste déroulante Espaces de travail et sélectionnez l&#39;espace de travail contenant l&#39;opération à laquelle vous souhaitez ajouter le groupe.
 
-   ![](assets/seven-1.png)
+PICC
 
-   >[!NOTE]
-   >
-   >Si vous ne voyez pas l’espace de travail que vous souhaitez, assurez-vous que l’administrateur le configure via la page Accès à l’équipe Marketo .
+>[!NOTE]
+>
+>Si vous ne voyez pas l’espace de travail que vous souhaitez, assurez-vous que l’administrateur le configure via la page Accès à l’équipe Marketo .
 
 1. Sélectionnez la campagne souhaitée, puis cliquez sur **Suivant**.
 
-   ![](assets/eight.png)
+PICC
 
 1. Les contacts qui remplissent les critères s&#39;affichent. Cliquez sur **Début** pour les ajouter.
 
-   ![](assets/nine.png)
+PICC
 
 ## Ajout d’un groupe à une campagne {#add-a-group-to-a-campaign}
 
 1. Cliquez sur le bouton **Personnes** Onglet.
 
-   ![](assets/one-3.png)
+PICC
 
 1. Sous Mes groupes, sélectionnez le groupe que vous souhaitez ajouter à une campagne.
 
-   ![](assets/eleven.png)
+PICC
 
 1. Cliquez sur **Ajouter un groupe à Campaign**.
 
-   ![](assets/twelve.png)
+PICC
 
 1. Puisque vous ajoutez à une campagne marketing, ignorez la sélection d’une adresse &quot;de&quot;. Vous pouvez toutefois choisir d&#39;ajouter d&#39;autres contacts. Si vous le souhaitez, cliquez sur Particuliers et saisissez-les. Cliquez sur **Suivant** une fois terminé.
 
-   ![](assets/thirteen.png)
+PICC
 
 1. Sélectionner **Campagne marketing**.
 
-   ![](assets/six-1.png)
+PICC
 
-   >[!NOTE]
-   >
-   >Pour ajouter une personne à une campagne Marketo à partir de Sales Connect, Sales Connect doit avoir l’ID de prospect Marketo de la personne.
+>[!NOTE]
+>
+>Pour ajouter une personne à une campagne Marketo à partir de Sales Connect, Sales Connect doit avoir l’ID de prospect Marketo de la personne.
 
 1. Cliquez sur la liste déroulante Espaces de travail et sélectionnez l&#39;espace de travail contenant l&#39;opération à laquelle vous souhaitez ajouter le groupe.
 
-   ![](assets/seven-1.png)
+PICC
 
-   >[!NOTE]
-   >
-   >Si vous ne voyez pas l’espace de travail que vous souhaitez, assurez-vous que l’administrateur le configure via la page Accès à l’équipe Marketo .
+>[!NOTE]
+>
+>Si vous ne voyez pas l’espace de travail que vous souhaitez, assurez-vous que l’administrateur le configure via la page Accès à l’équipe Marketo .
 
 1. Sélectionnez la campagne souhaitée, puis cliquez sur **Suivant**.
 
-   ![](assets/eight.png)
+PICC
 
 1. Les contacts qui remplissent les critères s&#39;affichent. Cliquez sur **Début** pour les ajouter.
 
-   ![](assets/nine.png)
+PICC
