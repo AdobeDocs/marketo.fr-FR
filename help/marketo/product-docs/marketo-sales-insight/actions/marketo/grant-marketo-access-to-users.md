@@ -4,22 +4,22 @@ title: Octroi de l’accès à Marketo aux utilisateurs
 hide: true
 hidefromtoc: true
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Octroi de l’accès à Marketo aux utilisateurs {#grant-marketo-access-to-users}
 
-Suivez les étapes de cet article pour accorder à vos utilisateurs de vente Marketo l’accès à la connexion Marketo. Cela permet de déverrouiller des fonctionnalités telles que les moments intéressants dans le flux en direct et l’accès aux campagnes marketing.
+Suivez les étapes de cet article pour accorder à vos utilisateurs des actions d’aperçu des ventes l’accès à la connexion Marketo. Cela permet de déverrouiller des fonctionnalités telles que les moments intéressants dans le flux en direct et l’accès aux campagnes marketing.
 
-Vous devrez [Ventes Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) avant d’être visibles dans la page Marketo > Accès à l’équipe (dans Ventes Marketo), où l’accès à la connexion Marketo est accordé.
+Vous devrez inviter des utilisateurs à [Actions d’aperçu commercial](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) avant d’être visibles dans la page Marketo > Accès à l’équipe (dans les actions Sales Insight), où l’accès à la connexion Marketo est accordé.
 
 >[!CAUTION]
 >
->Patientez dix minutes après la connexion des ventes Marketo à Marketo avant d’effectuer ces étapes.
+>Patientez dix minutes après la connexion des actions Sales Insight à Marketo avant d’effectuer ces étapes.
 
 1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 

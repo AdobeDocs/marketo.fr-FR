@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: Étape 2 sur 3 - Configuration de la solution Marketo avec connexion serveur à serveur - Documents Marketo - Documentation du produit
 title: Étape 2 sur 3 - Configuration de la solution Marketo avec la connexion serveur à serveur
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,6 @@ Références supplémentaires [peut être consulté ici](https://docs.microsoft.
 
 Presque là ! Il ne nous reste plus qu’à informer la solution Marketo sur le nouvel utilisateur créé.
 
->[!IMPORTANT]
->
->Si vous effectuez une mise à niveau de l’authentification de base vers OAuth, vous devrez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/support/ct-p/Support) pour obtenir de l’aide sur la mise à jour des paramètres supplémentaires. L’exécution d’une modification de configuration sur l’utilisateur de synchronisation par défaut interrompt temporairement la synchronisation jusqu’à ce que de nouvelles informations d’identification soient saisies et que la synchronisation soit réactivée. À votre demande, le support Marketo peut désactiver la fonctionnalité (jusqu’en avril 2022) si vous souhaitez revenir à l’ancienne méthode d’authentification.
-
 1. Revenez à la section Paramètres avancés et cliquez sur le bouton ![](assets/image2015-5-13-15-3a49-3a19.png) en regard de Paramètres, sélectionnez **Configuration Marketo**.
 
    ![](assets/fourteen.png)
@@ -99,6 +95,10 @@ Presque là ! Il ne nous reste plus qu’à informer la solution Marketo sur le 
 1. Cliquez sur le bouton **Publier toutes les personnalisations** bouton .
 
    ![](assets/nineteen.png)
+
+   >[!NOTE]
+   >
+   >Si vous effectuez une mise à niveau de l’authentification de base vers OAuth, vous pouvez utiliser [cet article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) pour reconfigurer votre authentification.
 
 ## Avant de passer à l’étape 3 {#before-proceeding-to-step}
 
