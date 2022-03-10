@@ -2,10 +2,10 @@
 description: Présentation de Dynamic Chat - Documents Marketo - Documentation du produit
 title: Présentation de la conversation dynamique
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
+source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 0%
+source-wordcount: '735'
+ht-degree: 2%
 
 ---
 
@@ -74,3 +74,71 @@ La fonctionnalité AI/NLP n’est pas prise en charge.
 **Dynamic Chat offre-t-il des langues autres que l’anglais ?**
 
 Pas pour le moment.
+
+## Limites dans la conversation dynamique {#limits-in-dynamic-chat}
+
+<table>
+  <th>Paramètre</th>
+  <th>Description</th>
+  <th>Limite</th>
+ <tr>
+  <td>Dialogues totaux</td>
+  <td>Nombre total de dialogues (publiés et préliminaires)</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Dialogues publiés</td>
+  <td>Nombre de boîtes de dialogue publiées enregistrées</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>URL cible par dialogue</td>
+  <td>Nombre d’URL Target pouvant être ajoutées à une seule boîte de dialogue</td>
+  <td>20</td>
+ </tr>
+ <tr>
+  <td>Attributs par dialogue</td>
+  <td>Nombre d’attributs pouvant être ajoutés aux critères d’audience pour un seul dialogue</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>Groupes</td>
+  <td>Nombre de groupes pouvant être ajoutés à un seul dialogue</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>Attributs par groupe</td>
+  <td>Nombre d’attributs pouvant être ajoutés à un groupe</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>Cartes</td>
+  <td>Nombre de cartes pouvant être ajoutées à la zone de travail par dialogue</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Période de conservation des données de piste anonyme</td>
+  <td>Durée pendant laquelle les informations d’une piste anonyme sans engagement seront conservées</td>
+  <td>90 jours</td>
+ </tr>
+ <tr>
+  <td>Période de rétention de l’activité d’objectif</td>
+  <td>Durée pendant laquelle les données d’activité d’objectif sont conservées</td>
+  <td>24 mois</td>
+ </tr>
+ <tr>
+  <td>Période de conservation de l’activité de document</td>
+  <td>Durée pendant laquelle les données d’activité de document sont conservées</td>
+  <td>24 mois</td>
+ </tr>
+ <tr>
+  <td>Interaction avec la période de rétention de l’activité de dialogue</td>
+  <td>La durée d’interaction avec les données d’activité de dialogue est conservée.</td>
+  <td>90 jours</td>
+ </tr>
+ <tr>
+  <td>Période de conservation de l’activité de réservation d’une réunion</td>
+  <td>Durée pendant laquelle l’activité de réservation de réunion sera stockée dans Dynamic Chat</td>
+  <td>24 mois</td>
+ </tr>
+</table>
