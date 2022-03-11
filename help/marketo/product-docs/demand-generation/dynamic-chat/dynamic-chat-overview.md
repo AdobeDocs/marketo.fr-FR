@@ -2,9 +2,9 @@
 description: Présentation de Dynamic Chat - Documents Marketo - Documentation du produit
 title: Présentation de la conversation dynamique
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
+source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '742'
 ht-degree: 2%
 
 ---
@@ -55,6 +55,10 @@ C’est là que vous pouvez voir la liste de tous les agents qui ont connecté l
 
 ## FAQ {#faq}
 
+**Quelle est la durée de stockage des données pour la création de rapports ?**
+
+90 jours (voir la liste complète des limites [below](#limits-in-dynamic-chat)).
+
 **Est-ce que le tchat dynamique permet le chat en direct ?**
 
 Non, il utilise uniquement des réponses prédéterminées.
@@ -66,10 +70,6 @@ Dans votre boîte de dialogue, vous devez utiliser la variable _Le courrier éle
 **Prenez-vous en charge la fonctionnalité AI/NLP ?**
 
 La fonctionnalité AI/NLP n’est pas prise en charge.
-
-**Quelle est la durée de stockage des données pour la création de rapports ?**
-
-90 jours.
 
 **Dynamic Chat offre-t-il des langues autres que l’anglais ?**
 
