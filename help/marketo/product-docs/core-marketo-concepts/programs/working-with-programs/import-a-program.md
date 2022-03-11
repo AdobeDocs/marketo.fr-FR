@@ -3,7 +3,7 @@ unique-page-id: 1147108
 description: Importation d’un programme - Documents Marketo - Documentation du produit
 title: Importation d’un programme
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
+source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -85,9 +85,9 @@ La bibliothèque de programmes Marketo contient des programmes prédéfinis et t
 
 Les programmes utilisent des ressources externes telles que des modèles d’email, des modèles de landing page, des images, des formulaires, des jetons et des balises de programme. Vous pouvez configurer la manière dont les modèles de landing page et les balises de programme sont traités, et Marketo gère automatiquement le reste.
 
-**Modèles de courrier électronique/page d’entrée :** Les modèles Email/Landing Page sont importés dans Design Studio. Vous pouvez utiliser des règles de conflit pour configurer le comportement lorsqu’il existe un modèle portant le même nom. Avec la règle par défaut, un nombre sera ajouté à un modèle s’il existe un modèle portant le même nom. Par exemple, si vous disposez déjà d’un modèle nommé &quot;Modèle standard&quot;, le nouveau modèle s’intitule &quot;Modèle standard 1&quot;.
+**Modèles de courrier électronique/page d’entrée :** Les modèles Email/Landing Page sont importés dans Design Studio. Vous pouvez utiliser des règles de conflit pour configurer le comportement lorsqu’il existe un modèle portant le même nom. Avec la règle par défaut, un nombre sera ajouté à un modèle s’il existe un modèle portant le même nom. Par exemple, si vous disposez déjà d’un modèle nommé &quot;Modèle standard&quot;, le nouveau modèle sera nommé &quot;Modèle standard - 1&quot;.
 
-**Pages d’entrée/Forms :** Si un formulaire ou une landing page portant le même nom existe dans Design Studio, ils seront toujours importés, mais avec un numéro ajouté à leur nom (ex : Page d’entrée 1).
+**Pages d’entrée/Forms :** Si un formulaire ou une landing page portant le même nom existe dans Design Studio, ils seront toujours importés, mais avec un numéro ajouté à leur nom (ex : Page d’entrée - 1).
 
 **Images :** Les images utilisées par les landing pages sont importées dans le studio de conception, sauf si elles portent le même nom.
 
