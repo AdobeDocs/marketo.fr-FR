@@ -3,9 +3,10 @@ description: Ajouter à Marketing Campaign - Documents Marketo - Documentation d
 title: Ajouter à la campagne marketing
 hide: true
 hidefromtoc: true
-source-git-commit: 6b59150eaebcd4424d3e347cb2379b9111255e4f
+exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
+source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -24,23 +25,23 @@ ht-degree: 0%
 
 1. Cliquez sur le bouton **Personnes** Onglet.
 
-PICC
+   ![](assets/add-to-marketing-campaign-1.png)
 
 1. Recherchez le ou les contacts que vous souhaitez ajouter.
 
-PICC
+   ![](assets/add-to-marketing-campaign-2.png)
 
-1. Cochez la case pour sélectionner votre ou vos contacts.
+1. Cochez la case pour sélectionner votre ou vos contacts, puis cliquez sur **Ajouter la sélection à la campagne**.
 
-PICC
+   ![](assets/add-to-marketing-campaign-3.png)
 
-1. Cliquez sur **Ajouter la sélection à la campagne**.
+1. ÉTAPE ICI
 
-PICC
+   ![](assets/add-to-marketing-campaign-4.png)
 
 1. Puisque vous ajoutez à une campagne marketing, ignorez la sélection d’une adresse &quot;de&quot;. Vous pouvez toutefois choisir d&#39;ajouter d&#39;autres contacts. Si vous le souhaitez, cliquez sur Particuliers et saisissez-les. Cliquez sur **Suivant** une fois terminé.
 
-PICC
+   ![](assets/add-to-marketing-campaign-5.png)
 
 1. Cliquez sur **Campagne marketing**.
 
