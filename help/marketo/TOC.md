@@ -1271,7 +1271,7 @@ ht-degree: 5%
             + [La campagne s’est terminée](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Personnalisation de Salesforce {#salesforce-customization}
-               + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
+               + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/doc.md)
             + Intégration Salesforce {#salesforce-integration}
                + [Configuration de la personnalisation des détails de l’activité Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Connexion de votre compte de vente Marketo à Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
