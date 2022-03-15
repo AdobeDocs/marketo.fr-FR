@@ -3,10 +3,11 @@ description: Connexion des attributs d’activité de vente à Salesforce - Docu
 title: Connexion des attributs d’activité de vente à Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 25%
+source-wordcount: '341'
+ht-degree: 24%
 
 ---
 
@@ -26,7 +27,7 @@ L’administrateur Salesforce peut ajouter manuellement des champs d’activité
 
 Description de chaque colonne du tableau ci-dessous :
 
-* **Libellé du champ**: Nom de champ affiché dans l’interface utilisateur
+* **Libellé du champ**: Nom de champ affiché dans l’interface utilisateur (ce nom peut être personnalisé pour améliorer la lisibilité de votre équipe)
 * **Nom du champ**: Nom technique du champ (assurez-vous que le Nom du champ que vous saisissez correspond au Nom du champ dans le tableau ci-dessous).
 * **Nom de l’API**: Nom technique du champ pour l’API (assurez-vous que le nom de l’API que vous saisissez correspond au nom de l’API dans le tableau ci-dessous).
 * **Type de données**: Type de champ

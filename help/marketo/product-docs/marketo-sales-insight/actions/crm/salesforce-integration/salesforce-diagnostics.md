@@ -3,9 +3,9 @@ description: Diagnostics Salesforce - Documents Marketo - Documentation du produ
 title: Diagnostics Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1445'
 ht-degree: 1%
 
 ---
@@ -131,7 +131,7 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** INVALID_FIELD_FOR_INSERT_UPDATE\
 **Catégorie :** Accès/Validation\
-**Message :** Impossible de créer/mettre à jour les champs : ToutApp__Tout_Last_Replied__c. Vérifiez les paramètres de sécurité de ce champ.
+**Message :** Impossible de créer/mettre à jour les champs : MSE_Replied__c. Vérifiez les paramètres de sécurité de ce champ.
 **Ce qui se passe :** Les utilisateurs ne disposent pas d’un accès en écriture aux champs personnalisés Actions de statistiques sur les ventes nécessaires pour effectuer la transaction de journalisation de l’activité la plus récente. L’équipe a peut-être installé le package mais n’a pas activé les champs appropriés pour les utilisateurs.\
 **Étapes de dépannage :** L’administrateur Salesforce doit accorder l’accès aux champs personnalisés OU désactiver la journalisation de l’activité la plus récente.
 
