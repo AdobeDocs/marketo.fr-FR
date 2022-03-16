@@ -2,16 +2,18 @@
 description: Création d’un flux - Documents Marketo - Documentation du produit
 title: Création d’un flux
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # Création d’un flux {#create-a-stream}
 
-Il y a _many_ combinaisons de flux que vous pouvez créer. Vous trouverez ci-dessous un exemple où le spécialiste du marketing demande au visiteur du site s’il a des questions sur les produits. Si oui, le visiteur peut planifier un rendez-vous. Si ce n’est pas le cas, le visiteur a la possibilité de s’inscrire à une liste de distribution pour une correspondance ultérieure. L’objectif est de planifier un rendez-vous ou de collecter l’adresse électronique du visiteur.
+Il y a _many_ combinaisons de flux que vous pouvez créer. Cet article contient un exemple dans lequel le spécialiste du marketing demande au visiteur du site s’il lui pose des questions sur un produit. Si oui, le visiteur peut planifier un rendez-vous. Si ce n’est pas le cas, le visiteur a la possibilité de s’inscrire à une liste de distribution pour une correspondance ultérieure. L’objectif est de planifier un rendez-vous ou de collecter l’adresse électronique du visiteur.
+
+![](assets/create-a-stream-0.png)
 
 1. Après vous [créer votre boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), cliquez sur le bouton **Concepteur de diffusion** .
 
@@ -108,9 +110,13 @@ Il y a _many_ combinaisons de flux que vous pouvez créer. Vous trouverez ci-des
 
    ![](assets/create-a-stream-17.png)
 
-1. Lorsque vous souhaitez activer votre dialogue, cliquez sur **Publier**.
+1. Pour prévisualiser le dialogue, cliquez sur l’icône d’aperçu à droite.
 
    ![](assets/create-a-stream-18.png)
+
+1. Lorsque vous êtes prêt à activer votre dialogue, cliquez sur **Publier**.
+
+   ![](assets/create-a-stream-19.png)
 
 >[!NOTE]
 >

@@ -2,9 +2,9 @@
 description: Dialogues - Documents Marketo - Documentation du produit
 title: Dialogues
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '756'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Les dialogues sont des conversations individuelles. Découvrez comment les perso
 
    ![](assets/dialogues-2.png)
 
-1. Saisissez un nom (la description est facultative), définissez le niveau de priorité, puis cliquez sur **Enregistrer**.
+1. Sélectionnez un dialogue vierge ou l’un des modèles préremplis. Saisissez un nom (la description est facultative), modifiez le niveau de priorité (facultatif), puis cliquez sur **Créer**.
 
    ![](assets/dialogues-3.png)
 
