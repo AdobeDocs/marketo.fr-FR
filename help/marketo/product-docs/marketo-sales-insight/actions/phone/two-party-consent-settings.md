@@ -3,9 +3,10 @@ description: Paramètres de consentement bipartite - Documents Marketo - Documen
 title: Paramètres de consentement à deux parties
 hide: true
 hidefromtoc: true
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -20,32 +21,32 @@ Pour garantir la conformité aux lois américaines sur le consentement bipartite
 
 1. Cliquez sur l’icône Paramètres et sélectionnez **Paramètres**.
 
-PICC
+   ![](assets/two-party-consent-settings-1.png)
 
 1. Sous Paramètres d’administration, cliquez sur **Général**.
 
-PICC
+   ![](assets/two-party-consent-settings-2.png)
 
-1. Faites défiler l’écran jusqu’à Paramètres du téléphone de la connexion aux ventes et cliquez sur **Gérer l’avis d’enregistrement**.
+1. Dans la carte Enregistrement d’appel , cliquez sur **Gérer l’avis d’enregistrement**.
 
-PICC
+   ![](assets/two-party-consent-settings-3.png)
 
 1. Cliquez sur **Importer l’enregistrement**.
 
-PICC
+   ![](assets/two-party-consent-settings-4.png)
 
->[!NOTE]
->
->Seuls les fichiers Wav et MP3 sont pris en charge. Vous ne pouvez pas charger un fichier de plus de 30 secondes.
+   >[!NOTE]
+   >
+   >Seuls les fichiers Wav et MP3 sont pris en charge. Vous ne pouvez pas charger un fichier de plus de 30 secondes.
 
-1. Sélectionnez le fichier audio de votre choix sur votre disque dur.
+1. Sélectionnez le ou les fichiers audio de votre choix sur votre disque dur.
 
-PICC
+   ![](assets/two-party-consent-settings-5.png)
 
 1. Une fois le transfert terminé, sélectionnez les données (trois points) dans le gestionnaire de fichiers, puis cliquez sur **Sélectionner comme avis de consentement**. Cliquez sur **OK** une fois terminé.
 
-PICC
+   ![](assets/two-party-consent-settings-6.png)
 
 1. Cliquez sur le bouton bascule pour activer la lecture du message sélectionné au début de vos appels enregistrés.
 
-PICC
+   ![](assets/two-party-consent-settings-7.png)
