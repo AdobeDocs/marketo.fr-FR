@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359478
-description: Rapport de performances des liens de courriel - Documentation marketing - Documentation du produit
-title: Rapport Performance des liens de courriel
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Rapport Performance des liens de courriel - Documents Marketo - Documentation du produit
+title: 'Lien vers l’e-mail du rapport de performance de '
+exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
+source-git-commit: 36315cda6932121da3656ba1ae3495401b321135
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 0%
+source-wordcount: '233'
+ht-degree: 8%
 
 ---
 
+# Lien vers l’e-mail du rapport de performance de  {#email-link-performance-report}
 
-# Rapport Performance des liens de courriel {#email-link-performance-report}
+Créez un rapport Performance de lien d’email pour voir les performances des liens de vos emails.
 
-Créez un rapport Performances des liens de courriel afin de déterminer les performances des liens de vos courriels.
-
-1. [Créez un rapport dans un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programme et sélectionnez  **** Performances des liens de courriel comme type de rapport.
+1. [Créer un rapport dans un programme](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez **Performances des liens email** comme type de rapport.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -23,7 +22,7 @@ Créez un rapport Performances des liens de courriel afin de déterminer les per
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. Doublon-clic sur **Date d&#39;Activité** sous **Paramètres**.
+1. Double-cliquez sur **Date de l’activité** under **Paramètres**.
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
@@ -35,11 +34,11 @@ Créez un rapport Performances des liens de courriel afin de déterminer les per
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
-1. Super ! Vous avez maintenant créé un rapport Performances des liens de courriel.
+1. Fantastique ! Vous avez maintenant créé un rapport Performance de lien d’email .
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[Les colonnes ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) disponibles pour un rapport Performance de lien de courriel sont les suivantes :
+[Colonnes disponibles](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) pour un rapport Performance de lien de courrier électronique, procédez comme suit :
 
 <table> 
  <thead> 
@@ -51,33 +50,37 @@ Créez un rapport Performances des liens de courriel afin de déterminer les per
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1">Lien</td> 
-   <td colspan="1" rowspan="1">Regroupement par nom de courriel.<br>Cliquez sur le signe plus (+) pour afficher tous les liens inclus dans ce courriel.</td> 
+   <td colspan="1" rowspan="1">Regroupé par nom d’email.<br>Cliquez sur le signe plus (+) pour afficher tous les liens inclus dans cet email.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Clics</td> 
    <td colspan="1" rowspan="1">Nombre de clics sur ce lien.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% de clics</td> 
-   <td colspan="1" rowspan="1">Sur le total des clics sur tous les liens de ce courriel, le pourcentage sur ce lien.</td> 
+   <td colspan="1" rowspan="1">% Clics</td> 
+   <td colspan="1" rowspan="1">Pourcentage du nombre total de clics sur tous les liens de cet email, sur ce lien.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Personnes</td> 
+   <td colspan="1" rowspan="1">Personne</td> 
    <td colspan="1" rowspan="1">Nombre de personnes uniques ayant cliqué sur le lien.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% de personnes</td> 
-   <td colspan="1" rowspan="1">Sur le nombre total de personnes uniques qui ont cliqué sur des liens dans ce courriel, le pourcentage sur ce lien.</td> 
+   <td colspan="1" rowspan="1">% Personne</td> 
+   <td colspan="1" rowspan="1">Pourcentage du nombre total de personnes uniques ayant cliqué sur des liens dans cet email, sur ce lien.</td> 
   </tr> 
  </tbody> 
 </table>
 
+>[!NOTE]
+>
+>Ce rapport affiche &quot;Lien incorrect&quot; lorsque des liens non valides/vides sont ajoutés à un email. Si ce message s’affiche, [vérifier la source du HTML](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) dans l’éditeur de courrier électronique pour les liens vides ou les jetons qui ne renseignent pas un lien complet.
+
 >[!TIP]
 >
->Si vous souhaitez savoir exactement ce qu&#39;une personne a fait, vous pouvez ouvrir le [journal d&#39;Activité](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) dans la page [Détails de la personne](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) à partir de l&#39;onglet Membres du programme.
+>Si vous voulez savoir exactement ce qu&#39;une personne a fait, vous pouvez ouvrir le [Journal d’activité](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) dans le [Détails de la personne](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) à partir de l’onglet Membres du programme.
 
 >[!MORELIKETHIS]
 >
->* [Rapport Performance des courriers électroniques](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [Rapport des performances des e-mails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 >* [Filtrage des ressources dans un rapport par courriel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
