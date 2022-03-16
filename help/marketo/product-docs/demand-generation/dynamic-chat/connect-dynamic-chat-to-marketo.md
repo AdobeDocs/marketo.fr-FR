@@ -2,9 +2,9 @@
 description: Connexion de Dynamic Chat à Marketo - Documents Marketo - Documentation du produit
 title: Connexion de la messagerie dynamique à Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Une fois que vous avez terminé la [configuration initiale](/help/marketo/produc
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
-1. Sélectionnez jusqu’à 50 champs standard ou personnalisés à synchroniser avec la messagerie instantanée. Cliquez sur **Suivant** une fois terminé.
+1. Sélectionnez jusqu’à 50 champs standard ou personnalisés de votre instance Marketo à synchroniser avec Dynamic Chat pour une utilisation dans le ciblage d’audience, le mappage de données et la personnalisation. Cliquez sur **Suivant** une fois terminé.
 
    ![](assets/connect-dynamic-chat-to-marketo-4.png)
 
@@ -39,7 +39,7 @@ Une fois que vous avez terminé la [configuration initiale](/help/marketo/produc
    >
    >À l’heure actuelle, sélections d’attributs **cannot** être modifié après la synchronisation initiale. Une fois la synchronisation terminée, vous pouvez revenir en arrière et en ajouter davantage (si vous avez choisi moins de 50).
 
-1. Assurez-vous de disposer des sélections correctes (rappel : vous ne pouvez pas supprimer les attributs post-synchronisation. cliquez sur **Modifier les sélections** si vous devez en modifier une au cours de cette étape). Cliquez sur **Confirmer** lorsque vous avez terminé pour lancer la synchronisation.
+1. Vérifiez vos sélections (rappel : vous ne pouvez pas supprimer les attributs post-synchronisation. cliquez sur **Modifier les sélections** si vous devez en modifier une au cours de cette étape). Cliquez sur **Confirmer** lorsque vous avez terminé pour lancer la synchronisation.
 
    ![](assets/connect-dynamic-chat-to-marketo-5.png)
 
