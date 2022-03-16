@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2359768
-description: Créer un sondage - Documents marketing - Documentation du produit
-title: Créer un sondage
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Création d’un sondage - Documents Marketo - Documentation du produit
+title: Création d’un sondage
+exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 0%
+source-wordcount: '309'
+ht-degree: 1%
 
 ---
 
+# Création d’un sondage {#create-a-poll}
 
-# Créer un sondage {#create-a-poll}
-
-Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partager avec leurs amis sur les réseaux sociaux. Vous pouvez l’ajouter à des endroits tels que vos landings page, votre site Web et Facebook.
+Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partager avec leurs amis sur les réseaux sociaux. Vous pouvez l’ajouter à des endroits tels que vos landing pages, votre site web et Facebook.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
 >[!PREREQUISITES]
 >
->Si vous souhaitez utiliser des images dans votre sondage, ajoutez-les à votre bibliothèque d’images et de fichiers marketing avant de commencer. Ajoutez une image de 60 x 60 pixels pour chaque entrée d’interrogation. Voir [Ajouter des images et des fichiers sur Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Si vous souhaitez utiliser des images dans votre sondage, ajoutez-les à votre bibliothèque Images et fichiers Marketo avant de commencer. Ajoutez une image 60x60px pour chaque entrée de sondage. Voir [Ajout d’images et de fichiers à Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Dans votre programme, sélectionnez **New** > **New Local Asset**.
+1. Dans votre programme, sélectionnez **Nouveau** > **Nouvelle ressource locale**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Dans la **Galerie locale des ressources**, cliquez sur **Sondage**.
+1. Dans le **Galerie de ressources locale**, cliquez sur **Sondage**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -37,9 +36,9 @@ Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partage
 
    >[!TIP]
    >
-   >Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir de** pour copier tous les paramètres d’un partage de vidéo existant.
+   >Pour gagner du temps, vous pouvez utiliser la variable **Cloner à partir de** pour copier tous les paramètres d’un partage vidéo existant.
 
-1. Faites un gros titre à votre sondage (habituellement une brève question).
+1. Donnez un titre à votre sondage (en général une petite question).
 
    ![](assets/image2014-9-18-18-3a19-3a14.png)
 
@@ -47,7 +46,7 @@ Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partage
 
    ![](assets/image2014-9-18-18-3a19-3a23.png)
 
-1. Pour ajouter une entrée, cliquez sur le symbole **+** et modifiez le titre et la description.
+1. Pour ajouter une entrée, cliquez sur le bouton **+** et modifiez le titre et la description.
 
    ![](assets/image2014-9-18-18-3a19-3a30.png)
 
@@ -59,22 +58,26 @@ Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partage
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. Après avoir défini la miniature, le titre et la description de toutes les entrées, cliquez sur **Terminer**.
+1. Lorsque vous avez défini la miniature, le titre et la description de toutes les entrées, cliquez sur **Terminer**.
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
-1. Cliquez sur **Approuver** et **Fermer.**
+1. Cliquez sur **Approuver** et **Fermez.**
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 
-L’éditeur de sondage s’ouvre dans une nouvelle fenêtre. Les paramètres par défaut sont corrects, mais vous devez quand même ajouter vos entrées de sondage. Nous vous montrerons comment dans les prochaines étapes.
+L’éditeur de sondages s’ouvre dans une nouvelle fenêtre. Les paramètres par défaut sont corrects, mais vous devez toujours ajouter vos entrées de sondage. Nous vous montrerons comment dans les prochaines étapes.
 
 >[!TIP]
 >
->Pour modifier l’une des valeurs par défaut de votre sondage, cliquez sur **Précédent**. Pour enregistrer votre travail pour plus tard sans approbation, cliquez sur **Fermer**.
+>Pour modifier l’un des paramètres par défaut de votre sondage, cliquez sur **Précédent**. Pour enregistrer votre travail pour plus tard sans approbation, cliquez sur **Fermer**.
 
-S’il y a des problèmes dans le sondage, vous serez invité à les résoudre avant que le sondage ne soit approuvé. Félicitations ! Vous avez créé votre sondage.
+S’il y a des problèmes dans le sondage, vous serez invité à les résoudre avant l’approbation du sondage.
+
+>[!IMPORTANT]
+>
+>Un sondage n’est plus modifiable une fois qu’un vote a été soumis.
 
 >[!MORELIKETHIS]
 >
->L’étape suivante consiste à [publier votre sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), mais vous pouvez modifier les paramètres de votre sondage si nécessaire. Début avec [personnalisation des paramètres du sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
+>L’étape suivante consiste à [publier votre sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), mais vous pouvez modifier les paramètres de votre sondage si nécessaire. Commencer par [personnalisation des paramètres du sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
