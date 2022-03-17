@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
+source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
 workflow-type: tm+mt
-source-wordcount: '8458'
+source-wordcount: '8475'
 ht-degree: 5%
 
 ---
@@ -1312,6 +1312,9 @@ ht-degree: 5%
          + Marketo {#marketo}
             + [Octroi de l’accès à Marketo aux utilisateurs](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Rendre une campagne visible pour les utilisateurs de Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+            + [Déclencheurs et filtres d’activité de vente](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
+            + [Glossaire de l’activité d’Insight sur les ventes](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
+            + [Configuration de votre connexion Marketo](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
          + Personne {#people}
             + [Vue Détails de la personne](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Actions d’aperçu des ventes et conformité au RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
@@ -1323,6 +1326,7 @@ ht-degree: 5%
                + [Colonnes de page Personnes](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Téléphone {#phone}
             + [Activation de l’enregistrement des appels](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [Appel international](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Présence locale](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [Paramètres de consentement à deux parties](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Configuration Salesforce {#salesforce-configuration}
