@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: e42b1f7e32ab0b70a344cad17c3d25e9d8129124
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '8573'
+source-wordcount: '8589'
 ht-degree: 5%
 
 ---
@@ -1317,9 +1317,12 @@ ht-degree: 5%
             + [Quelles sont les dernières versions du client ?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
             + [Quels sont les termes des actions d’aperçu de vente ?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [Pourquoi l’un de mes contacts n’est-il pas amené à prendre des mesures d’aperçu des ventes ?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [Pourquoi mes champs dynamiques ne se remplissent-ils pas ?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [Pourquoi ne puis-je pas supprimer un contact ?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Pourquoi tous mes contacts n’ont-ils pas été amenés à des actions d’aperçu des ventes ?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Pourquoi le suivi de l’activité ne s’affiche-t-il pas dans l’activité Salesforce ?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
+         + Intégrations {#integrations}
+            + [Enregistrer des emails dans une source externe](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [Octroi de l’accès à Marketo aux utilisateurs](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Rendre une campagne visible pour les utilisateurs de Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
@@ -1350,6 +1353,7 @@ ht-degree: 5%
             + [Synchronisation de la tâche de rappel avec Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Modèles {#templates}
             + [Ajouter du texte lié à un hyperlien](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
+            + [Champs dynamiques](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [Gestion des modèles](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Gestion des catégories de modèles](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [Modèles recommandés](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)

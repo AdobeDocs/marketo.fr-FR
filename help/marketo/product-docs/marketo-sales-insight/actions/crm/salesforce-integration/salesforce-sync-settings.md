@@ -4,10 +4,10 @@ title: Paramètres de synchronisation Salesforce
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 1%
+source-wordcount: '709'
+ht-degree: 0%
 
 ---
 
@@ -114,3 +114,21 @@ Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètr
 1. Choisissez l’option souhaitée (&quot;Ne pas synchroniser avec les tâches Salesforce&quot; est sélectionné par défaut).
 
    ![](assets/salesforce-sync-settings-14.png)
+
+## Synchronisation des tâches d’actions Sales Insight avec Salesforce pour la première fois {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+
+Lorsque vous activez la synchronisation pour la première fois entre les actions Sales Insight et les tâches Salesforce, nous importons vos tâches Salesforce. Nous ne transférons aucune tâche en cours dans les actions Sales Insight à Salesforce. Pour réduire les encombres et les doublons, les seules tâches qui sont synchronisées des actions Sales Insight dans Salesforce sont les tâches créées après la synchronisation des actions Sales Insight avec SFDC.
+
+Voici ce qui se passe lorsque vous synchronisez les actions Sales Insight et les tâches SFDC :
+
+Dès que vous cliquez sur Enregistrer lors de la synchronisation des tâches, elles commencent à se synchroniser. Cela prendra du temps au départ.
+
+Les rappels qui ont été mis à jour ou créés au cours des dernières 24 heures seront transférés de SFDC aux actions Sales Insight . La synchronisation est basée sur l’échéance et toutes ces tâches seront synchronisées sur le serveur principal. Toutefois, dans le Centre de commandes, seules les tâches prévues aujourd’hui et demain seront visibles.
+
+Si la synchronisation a été activée précédemment et que vous supprimez des tâches dans SFDC, tout ce qui a été supprimé au cours des 15 derniers jours sera supprimé du Centre de commandes.
+
+Nous synchroniserons constamment les tâches entre les actions Sales Insight et SFDC tant que la synchronisation est activée.
+
+Après la synchronisation initiale, toutes les tâches que vous créez, modifiez, terminez ou supprimez dans les actions Sales Insight se synchronisent avec votre liste de tâches dans Salesforce. De plus, tout élément créé, modifié, terminé ou supprimé dans Salesforce mettra à jour votre liste de tâches dans les actions Sales Insight.
+
+Pour activer cette synchronisation, cochez simplement la case de synchronisation dans la page Paramètres de l’application web.
