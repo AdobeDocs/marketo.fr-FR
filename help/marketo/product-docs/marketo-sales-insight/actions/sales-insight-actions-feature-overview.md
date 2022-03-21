@@ -1,10 +1,8 @@
 ---
 description: Présentation des actions Sales Insight - Documents Marketo - Documentation du produit
 title: Présentation de la fonction Actions d’aperçu des ventes
-hide: true
-hidefromtoc: true
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%
@@ -23,7 +21,7 @@ Les actions suivantes sont disponibles dans la liste déroulante &quot;Choisir l
 
 * Envoyer un e-mail de vente
    * Les emails de vente ont un suivi des affichages, des clics et des réponses (lorsque le canal de diffusion est configuré)
-   * Inclut la personnalisation des emails, la signature personnalisée et les pièces jointes
+   * Inclut le Personalization par courrier électronique, la signature personnalisée et les pièces jointes
    * Partage de modèles et rapports
    * Partage d’équipe, emails de groupe et fonctionnalité CC/Cci
    * L’activité de courrier électronique de vente sera enregistrée dans l’enregistrement de personne Marketo.
@@ -75,7 +73,7 @@ Les actions suivantes sont disponibles dans le volet de navigation supérieur :
 
 * Envoyer un e-mail de vente : possibilité d’envoyer des e-mails de groupe personnalisés ou modélisés avec un suivi des vues, des clics et des réponses à tous les contacts associés à un compte/une opportunité.
    * Les emails de vente ont un suivi des affichages, des clics et des réponses (lorsque le canal de diffusion est configuré)
-   * Inclut la personnalisation des emails, la signature personnalisée et les pièces jointes
+   * Inclut le Personalization par courrier électronique, la signature personnalisée et les pièces jointes
    * Partage de modèles et rapports
    * Partage d’équipe, emails de groupe et fonctionnalité CC/Cci
    * L’activité de courrier électronique de vente sera enregistrée dans l’enregistrement de personne Marketo.
