@@ -1,25 +1,28 @@
 ---
 unique-page-id: 4720433
-description: Configuration de protocoles pour Marketo - Marketo Docs - Documentation du produit
+description: Configuration de protocoles pour Marketo - Documents Marketo - Documentation du produit
 title: Configuration de protocoles pour Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '988'
 ht-degree: 1%
 
 ---
 
-# Configurer des protocoles pour Marketo {#configure-protocols-for-marketo}
+# Configuration de protocoles pour Marketo {#configure-protocols-for-marketo}
 
-Votre groupe marketing utilise Marketo pour créer des landings page de campagne et des courriers électroniques de marque. Pour s&#39;assurer que ces landings page et ces courriels fonctionnent, ils ont besoin d&#39;un peu d&#39;aide de la part de l&#39;informatique. Configurez les protocoles suivants avec les informations que votre groupe marketing aurait dû vous envoyer par courrier électronique.
+Si vous ou votre entreprise utilisez des paramètres de pare-feu ou de serveur proxy restrictifs, vous ou votre administrateur réseau devrez peut-être placer sur la liste autorisée certains domaines et plages d’adresses IP pour vous assurer que Adobe Marketo Engage fonctionne comme prévu.
 
-Cet article doit être partagé avec le service informatique de la société qui souhaite mettre en oeuvre ces protocoles.
+## Pages d’entrée et emails d’une campagne de marque {#branded-campaign-landing-pages-and-emails}
+
+Votre groupe marketing utilise Marketo pour créer des landing pages et des emails de campagne de marque. Pour s’assurer que ces landing pages et ces emails fonctionnent, le service informatique doit les aider un peu. Configurez les protocoles suivants, avec les informations que votre groupe marketing aurait dû vous envoyer par e-mail.
+
+Cet article doit être partagé avec le service informatique de la société souhaitant mettre en oeuvre ces protocoles.
 
 >[!NOTE]
 >
->Si votre équipe informatique restreint l’accès au Web à l’aide d’une liste autorisée, demandez-lui d’ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et les websockets Marketo :
+>Si votre équipe informatique restreint l’accès web à l’aide d’une liste autorisée, demandez-lui d’ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et tous les websockets Marketo :
 
 * `*.marketo.com`
 
@@ -27,24 +30,24 @@ Cet article doit être partagé avec le service informatique de la société qui
 
 * `*.mktoweb.com`
 
-## Étape 1 : Créer des enregistrements DNS pour les Landings page et les courriels {#step-create-dns-records-for-landing-pages-and-email}
+## Étape 1 : Création d’enregistrements DNS pour les pages d’entrée et les courriers électroniques {#step-create-dns-records-for-landing-pages-and-email}
 
 **Suivi des CNAME de lien**
 
-Votre équipe marketing aurait dû vous envoyer deux demandes d’enregistrement CNAME. La première concerne les URL de landing page, de sorte que les landings page apparaissent dans les URL qui reflètent votre domaine et non Marketo (l’hôte réel). La seconde concerne les liens de suivi inclus dans les courriers électroniques qu’ils envoient depuis Marketo.
+Votre équipe marketing aurait dû vous envoyer deux demandes de nouveaux enregistrements CNAME. La première concerne les URL de page d’entrée, de sorte que les pages d’entrée apparaissent dans les URL qui reflètent votre domaine et non dans Marketo (l’hôte réel). La seconde concerne les liens de tracking inclus dans les emails qu’ils envoient à partir de Marketo.
 
-`1` **Ajouter CNAME pour les Landings page**
+`1` **Ajout d’un CNAME pour les pages d’entrée**
 
-Ajoutez le CNAME de landing page qu’ils vous ont envoyé à votre enregistrement DNS, de sorte que `[YourLandingPageCNAME]` pointe vers la chaîne de compte unique qui est attribuée à vos landings page Marketo. Connectez-vous au site du serveur d’inscriptions de votre domaine et saisissez le CNAME de landing page et la chaîne de compte. En règle générale, il s’agit de trois champs :
+Ajoutez le CNAME de page d’entrée qu’il vous a envoyé à votre enregistrement DNS, de sorte que `[YourLandingPageCNAME]` pointe vers la chaîne de compte unique attribuée à vos pages d’entrée Marketo. Connectez-vous au site du serveur d’inscriptions de votre domaine et saisissez la landing page CNAME et la chaîne de compte. En règle générale, cela implique trois champs :
 
-* Alias : Saisissez `[YourLandingPageCNAME]` (fourni par marketing)
+* Alias : Entrée `[YourLandingPageCNAME]` (fourni par le marketing)
 * Type : CNAME
-* Pointez sur : Saisissez `[MarketoAccountString].mktoweb.com` (fourni par marketing)
+* Pointez sur : Entrée `[MarketoAccountString].mktoweb.com` (fourni par le marketing)
 
-`2` **Ajouter CNAME pour les liens de Tracking email**
+`2` **Ajout d’un CNAME pour les liens de suivi des emails**
 
-Ajoutez l’e-mail CNAME marketing qui vous a été envoyé de sorte que `[YourEmailCNAME]` pointe vers [MktoTrackingLink], le lien de suivi par défaut attribué par Marketo, au format suivant :\
-`[YourEmailCNAME].[YourDomain].com` DANS CNAME  `[MktoTrackingLink]`
+Ajoutez l’e-mail marketing CNAME qui vous a été envoyé, de sorte que `[YourEmailCNAME]` pointe vers [MktoTrackingLink], le lien de suivi par défaut attribué par Marketo, au format :\
+`[YourEmailCNAME].[YourDomain].com` DANS CNAME `[MktoTrackingLink]`
 
 Par exemple :
 
@@ -54,49 +57,81 @@ Par exemple :
 
 Avertissez votre équipe marketing lorsque vous avez terminé ce processus.
 
-## Étape 2 : Placer sur la liste autorisée les adresses IP Marketo {#step-allowlist-marketo-ips}
+## Étape 2 : Placer sur la liste autorisée les adresses IP de Marketo {#step-allowlist-marketo-ips}
 
-Lorsque votre groupe Marketing utilise Marketo pour envoyer des messages électroniques de test (une bonne pratique avant d’envoyer des messages instantanés), les messages électroniques de test sont parfois bloqués par des systèmes antispam qui reposent sur les adresses IP de l’expéditeur pour vérifier que le message est valide. Pour vous assurer que ces courriers électroniques de test arrivent, ajoutez Marketo à votre liste autorisée.
+Lorsque votre groupe marketing utilise Marketo pour envoyer des emails de test (une bonne pratique avant d’envoyer des messages indésirables), les emails de test sont parfois bloqués par des systèmes anti-spam qui reposent sur des adresses IP d’expéditeur pour vérifier que l’email est valide. Pour vous assurer que ces courriers électroniques de test arrivent, ajoutez Marketo à votre liste autorisée.
 
-Ajoutez ces adresses IP à votre liste autorisée d’entreprise :
+Ajoutez les adresses IP suivantes à la liste autorisée de votre entreprise :
 
 199.15.212.0/22\
-192.28.144.0/20
-192.28.160.0/19\
+192.28.144.0/20 192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
 130.248.173.0/24\
 103.237.104.0/22\
 94.236.119.0/26
 
-Certains systèmes antispam utilisent le champ Chemin de retour du courrier électronique au lieu de l&#39;adresse IP pour autoriser l&#39;envoi. Dans ces cas, la meilleure approche consiste à placer sur la liste autorisée &quot;*.mktomail.com&quot;, car Marketo utilise plusieurs sous-domaines de boîtes aux lettres. D&#39;autres systèmes antispam placent sur la liste autorisée en fonction de l&#39;adresse De. Dans ces situations, veillez à inclure tous les domaines d’envoi (&quot;De&quot;) que votre groupe Marketing utilise pour communiquer avec les personnes/pistes.
+Certains systèmes anti-spam utilisent le champ Chemin d’accès au retour de l’email au lieu de l’adresse IP pour la mise en liste autorisée. Dans ces cas, la meilleure approche consiste à placer sur la liste autorisée &quot;*.mktomail.com&quot;, car Marketo utilise plusieurs sous-domaines de boîte aux lettres. D’autres systèmes anti-spam placent sur la liste autorisée en fonction de l’adresse de l’expéditeur. Dans ce cas, veillez à inclure tous les domaines d’envoi (&quot;De&quot;) que votre groupe marketing utilise pour communiquer avec les personnes/prospects.
 
 >[!NOTE]
 >
->Postini utilise une technologie unique et nécessite de placer sur la liste autorisée les plages d&#39;adresses IP. Voir [Liste autorisée avec Postini](https://nation.marketo.com/docs/DOC-1066).
+>Postini utilise une technologie unique et nécessite de placer sur la liste autorisée des plages d’adresses IP. Voir [Placer sur la liste autorisée avec Postini](https://nation.marketo.com/docs/DOC-1066).
 
-## Étape 3 : Configurer SPF et DKIM {#step-set-up-spf-and-dkim}
+## Étape 3 : Configuration de SPF et DKIM {#step-set-up-spf-and-dkim}
 
-Votre équipe marketing aurait également dû vous envoyer des informations DKIM à ajouter à votre enregistrement de ressource DNS (également répertorié ci-dessous). Suivez les étapes pour configurer avec succès DKIM et SPF, puis informez votre équipe marketing que ceci a été mis à jour.
+Votre équipe marketing aurait également dû vous envoyer des informations DKIM à ajouter à votre enregistrement de ressource DNS (également répertorié ci-dessous). Suivez les étapes pour configurer correctement DKIM et SPF, puis informez votre équipe marketing que cette configuration a été mise à jour.
 
 1. Pour configurer SPF, ajoutez la ligne suivante à nos entrées DNS :
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4 :`[CorpIP]`\
+   `[CompanyDomain]` DANS TXT v=spf1 mx ip4 :`[CorpIP]`\
    inclure : mktomail.com ~all
 
-   Si notre entrée DNS contient déjà un enregistrement SPF existant, il suffit d&#39;y ajouter les éléments suivants :\
+   Si nous avons déjà un enregistrement SPF existant dans notre entrée DNS, ajoutez-y simplement les éléments suivants :\
    inclure : mktomail.com
 
-   Remplacez CompanyDomain par le domaine principal de votre site Web (ex : &quot;`(company.com/)`&quot;) et CorpIP avec l&#39;adresse IP de votre serveur de messagerie d&#39;entreprise (ex. &quot;255.255.255.255&quot;). Si vous envoyez des courriers électroniques de plusieurs domaines via Marketo, votre personnel informatique doit ajouter cette ligne pour chaque domaine (sur une seule ligne).
+   Remplacez CompanyDomain par le domaine principal de votre site web (par exemple : &quot;`(company.com/)`&quot;) et CorpIP avec l’adresse IP de votre serveur de messagerie d’entreprise (ex. &quot;255.255.255.255&quot;). Si vous souhaitez envoyer des emails à partir de plusieurs domaines via Marketo, demandez à votre personnel informatique d’ajouter cette ligne pour chaque domaine (sur une seule ligne).
 
-1. Pour DKIM, créez des enregistrements de ressources DNS pour chaque domaine à configurer. Vous trouverez ci-dessous les enregistrements d’hôtes et les valeurs TXT pour chaque domaine pour lequel nous allons signer :
+1. Pour DKIM, créez des enregistrements de ressources DNS pour chaque domaine que nous souhaitez configurer. Vous trouverez ci-dessous les enregistrements d’hôte et les valeurs TXT pour chaque domaine pour lequel nous allons signer :
 
-   `[DKIMDomain1]`: L’enregistrement d’hôte est défini  `[HostRecord1]` et la valeur TXT est  `[TXTValue1]`définie.
+   `[DKIMDomain1]`: L’enregistrement de l’hôte `[HostRecord1]` et la valeur TXT est `[TXTValue1]`.
 
-   `[DKIMDomain2]`: L’enregistrement d’hôte est défini  `[HostRecord2]` et la valeur TXT est  `[TXTValue2]`définie.
+   `[DKIMDomain2]`: L’enregistrement de l’hôte `[HostRecord2]` et la valeur TXT est `[TXTValue2]`.
 
-   Copiez l&#39;enregistrement hôte et la valeur TXTValue pour chaque domaine DKIMDomain que vous avez configuré après avoir suivi les [instructions ici](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). N’oubliez pas de vérifier chaque domaine dans Admin > Email > DKIM une fois que votre personnel informatique a terminé cette étape.
+   Copiez HostRecord et TXTValue pour chaque domaine DKIMD que vous avez configuré après avoir suivi les [instructions ici](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). N’oubliez pas de vérifier chaque domaine dans Admin > Email > DKIM une fois que votre équipe informatique a terminé cette étape.
 
-## Étape 4 : Configurer des enregistrements MX pour votre domaine {#step-set-up-mx-records-for-your-domain}
+## Étape 4 : Configuration des enregistrements MX pour votre domaine {#step-set-up-mx-records-for-your-domain}
 
-Un enregistrement MX vous permet de recevoir du courrier dans le domaine à partir duquel vous envoyez du courrier électronique pour traiter les réponses et les répondeurs automatiques. Si vous envoyez des données à partir de votre domaine d’entreprise, il est probable que vous ayez déjà configuré cette option. Si ce n’est pas le cas, vous pouvez généralement le configurer pour le mapper à l’enregistrement MX de votre domaine d’entreprise.
+Un enregistrement MX vous permet de recevoir du courrier électronique vers le domaine à partir duquel vous envoyez le courrier électronique pour traiter les réponses et les réponses automatiques. Si vous envoyez des messages depuis votre domaine d’entreprise, il est probable que vous ayez déjà configuré ce message. Si ce n’est pas le cas, vous pouvez généralement le configurer pour mapper l’enregistrement MX de votre domaine d’entreprise.
+
+## Adresses IP sortantes {#outbound-ip-addresses}
+
+Une connexion sortante est une connexion établie par un Marketo Engage à un serveur sur Internet en votre nom. Certains partenaires/fournisseurs avec lesquels vous travaillez, ou votre propre organisation informatique, peuvent utiliser des listes autorisées pour restreindre l’accès aux serveurs. Si tel est le cas, vous devez leur fournir des blocs d’adresses IP sortantes Marketo Engage à ajouter à leurs listes autorisées.
+
+**Webhooks**
+
+Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;} est un mécanisme d’intégration sortante. Lorsqu’une [Appelez Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)L’action de flux {target=&quot;_blank&quot;} est exécutée dans le cadre d’une campagne dynamique, une requête HTTP est envoyée à un service Web externe. Si l’éditeur du service Web utilise une liste autorisée sur le pare-feu du réseau sur lequel se trouve le service Web externe, l’éditeur doit ajouter les blocs d’adresse IP répertoriés ci-dessous à sa liste autorisée.
+
+**Synchronisation CRM**
+
+Marketo Engage [Synchronisation CRM Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;} et [Synchronisation Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;} sont des mécanismes d’intégration qui effectuent des requêtes HTTP sortantes vers les API publiées par votre fournisseur de gestion de la relation client. Vous devez vous assurer que votre service informatique ne bloque aucun des blocs d’adresses IP ci-dessous pour accéder aux API de votre fournisseur de gestion de la relation client.
+
+**Blocs d’adresses IP sortantes du Marketo Engage**
+
+Le tableau suivant couvre tous les serveurs Marketo Engage qui effectuent des appels sortants. Utilisez cette liste si vous configurez une liste autorisée IP, un serveur, un pare-feu, une liste de contrôle d’accès, un groupe de sécurité ou un service tiers pour recevoir les connexions sortantes de Marketo Engage.
+
+<table>
+ <tbody>
+  <tr>
+   <th>Bloc d’adresse IP (notation CIDR)</th>
+  </tr>
+  <tr>
+   <td>192.28.144.0/20</td>
+  </tr>
+   <tr>
+   <td>192.28.160.0/19</td>
+  </tr>
+   <tr>
+   <td>199.15.212.0/22</td>
+  </tr>
+ </tbody>
+</table>
