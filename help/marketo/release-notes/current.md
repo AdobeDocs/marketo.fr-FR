@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
+source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '803'
 ht-degree: 1%
 
 ---
@@ -23,9 +23,9 @@ Les fonctionnalités suivantes commenceront à être publiées sur **11 mars 202
 
 ## Orchestration cross-canal {#cross-channel-orchestration}
 
-* **Chat dynamique**: Optimisez chaque opportunité de votre site web en ciblant à la fois les pistes et les comptes à l’aide de conversations proactives, attrayantes et personnalisées 1:1. Dynamic Chat permet aux utilisateurs Marketo Engage de commencer à utiliser le chat comme un élément clé des expériences cross-canal intégrées pour les cas d’utilisation marketing et de vente B2B. Les fonctionnalités incluent : la possibilité de réserver des réunions directement dans le chat, de diriger le routage, de lancer des modèles, de créer des conversations par glisser-déposer, etc. Dynamic Chat est inclus dans tous les packages de Marketo Engage et sera déployé par tous les utilisateurs Marketo Engage cette année.
+* **Chat dynamique**: Optimisez chaque opportunité de votre site web en ciblant à la fois les pistes et les comptes à l’aide de conversations proactives, attrayantes et personnalisées 1:1. [Chat dynamique](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;} permet aux utilisateurs Marketo Engage de commencer à utiliser le chat comme un élément clé des expériences cross-canal intégrées pour les cas d’utilisation de marketing et de vente B2B. Les fonctionnalités incluent : la possibilité de réserver des réunions directement dans le chat, de diriger le routage, de lancer des modèles, de créer des conversations par glisser-déposer, etc. Dynamic Chat est inclus dans tous les packages de Marketo Engage et sera déployé par tous les utilisateurs Marketo Engage cette année.
 
-* **Amélioration du filtrage de l’activité des robots de messagerie**: Pour améliorer la fonction de filtrage de l’activité des robots de messagerie précédemment disponible, vous pouvez désormais souscrire à la journalisation des activités identifiées comme des robots. Vous pouvez ensuite filtrer et déclencher des actions en fonction d’activités identifiées comme étant exécutées par des robots.
+* **Amélioration du filtrage de l’activité des robots de messagerie**: En tant qu’amélioration de la version précédente [Filtrage de l’activité des robots de messagerie](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md)fonction {target=&quot;_blank&quot;}, vous pouvez désormais souscrire à des activités de journalisation qui sont identifiées comme des robots. Vous pouvez ensuite filtrer et déclencher des actions en fonction d’activités identifiées comme étant exécutées par des robots.
 
 ## Expérience de nouvelle génération {#next-generation-experience}
 
@@ -54,6 +54,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **11 mars 202
 * **Exportation d’objets personnalisés en bloc mise à jour au niveau du filtre**: Permet aux marketeurs de synchroniser par programmation les objets personnalisés
 * **Exposer le paramètre Head Start pour les programmes de messagerie**: Permet aux marketeurs de configurer des programmes de messagerie avec un démarrage anticipé via l’API
 * **Mise à jour sélective des balises de programme**: Permet aux marketeurs de pousser des mises à jour de balises sélectives sans envoyer toutes les balises en même temps.
+* **Champ ActionResult d’extraction d’activité en bloc**: Permet aux marketeurs d’identifier les activités qui ont été ignorées ou qui ont échoué.
 
 **_Sortie pendant tout le trimestre_**
 
