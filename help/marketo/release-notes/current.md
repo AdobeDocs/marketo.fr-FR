@@ -2,16 +2,16 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
+source-git-commit: c0699a888c6763f164e197395883c1c435fb782c
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '793'
 ht-degree: 1%
 
 ---
 
 # Notes de mise à jour : Mars 2022 {#release-notes-mar-22}
 
-Les fonctionnalités suivantes sont incluses dans la version du 22 mars. Pour connaître la disponibilité des fonctionnalités, consultez l’édition de votre Marketo Engage Adobe.
+Les fonctionnalités suivantes sont incluses dans la version du 22 mars. Vérifiez la disponibilité de votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
@@ -31,7 +31,6 @@ Les fonctionnalités suivantes commenceront à être publiées sur **11 mars 202
 
 * **Mise à jour d’Screens dans l’expérience de nouvelle génération**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
 
-   * Affichage de la liste des emails dans Design Studio (y compris les nouvelles actions en masse)
    * Mode Liste des formulaires dans Design Studio (y compris les nouvelles actions en bloc)
 
 * **Mise à jour du workflow d’import**: Le workflow du programme d’import est livré avec la nouvelle génération, avec des améliorations de conception et d’utilisation mises à jour. Il s’agit d’une modification automatique sans bouton de basculement.
