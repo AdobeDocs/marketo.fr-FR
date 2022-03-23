@@ -2,9 +2,9 @@
 description: Stream Designer - Documents Marketo - Documentation du produit
 title: Concepteur de diffusion
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '596'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
 
 ## Création d’un flux {#create-a-stream}
 
-1. Après avoir [créer votre boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md), cliquez sur le bouton **Concepteur de diffusion** .
+1. Après avoir [créer votre boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, cliquez sur le bouton **Concepteur de diffusion** .
 
    ![](assets/create-a-stream-1.png)
 
@@ -148,7 +148,7 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
 
 >[!NOTE]
 >
->Avant de cliquer sur Publier, n’oubliez pas de vous assurer que vous avez [ont saisi votre ou vos URL cibles.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Avant de cliquer sur Publier, n’oubliez pas de vous assurer que vous avez [ont saisi votre ou vos URL cibles.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >
