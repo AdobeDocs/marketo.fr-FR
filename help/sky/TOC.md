@@ -2,7 +2,8 @@
 solution: Marketo Sky
 user-guide-title: Documentation du Marketo Sky
 feature-set: Marketo Sky
-source-git-commit: dcbe5f6c0061474e614a731eefca329db314df9e
+hide: true
+source-git-commit: 8505fb6431b6855b263d99d622a60b71c0301ad5
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 4%
@@ -49,7 +50,7 @@ ht-degree: 4%
    + [Présentation des programmes d’engagement](understanding-engagement-programs.md)
    + [Présentation de la note d’engagement](understanding-the-engagement-score.md)
    + [Utilisation d’un programme dans un flux de programme d’engagement](using-a-program-in-an-engagement-program-stream.md)
-+ INTITULÉS {#labels}
++ Intitulés {#labels}
    + [Ajouter et supprimer des étiquettes](add-and-remove-labels.md)
    + [Copier des étiquettes de l’original vers le clone](copy-labels-from-original-to-clone.md)
    + [Copier des étiquettes du parent vers l’enfant](copy-labels-from-parent-to-child.md)
