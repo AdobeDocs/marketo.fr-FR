@@ -1,12 +1,10 @@
 ---
 description: Ajout ou mise à jour de votre signature électronique - Documents Marketo - Documentation du produit
 title: Ajouter ou mettre à jour votre signature de courrier électronique
-hide: true
-hidefromtoc: true
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
