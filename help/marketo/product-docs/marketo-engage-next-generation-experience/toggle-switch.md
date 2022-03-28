@@ -2,9 +2,9 @@
 description: Basculer entre - Documents Marketo - Documentation du produit
 title: Basculer entre les deux
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -81,14 +81,32 @@ La nouvelle expérience se charge.
 
 ![](assets/toggle-switch-13.png)
 
+## Mode Liste des formulaires {#form-list-view}
+
+1. Dans Marketo, sélectionnez **Design Studio**.
+
+   ![](assets/toggle-switch-14.png)
+
+1. Sélectionner **Forms**.
+
+   ![](assets/toggle-switch-15.png)
+
+1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
+
+   ![](assets/toggle-switch-16.png)
+
+La nouvelle expérience se charge.
+
+![](assets/toggle-switch-17.png)
+
 ## Activation pour toutes les fonctionnalités {#enable-for-all-features}
 
 Vous avez la possibilité d’activer l’interface nouvelle génération de Marketo pour toutes les fonctionnalités disponibles, actuelles et à venir.
 
 1. Dans une zone qui possède actuellement le commutateur de basculement (dans cet exemple, nous sommes dans [Page Détails du formulaire](#form-details-page)), cliquez sur l’icône d’engrenage dans le coin inférieur droit de la page.
 
-   ![](assets/toggle-switch-14.png)
+   ![](assets/toggle-switch-18.png)
 
 1. Sélectionner **Activer pour toutes les fonctionnalités disponibles** et cliquez sur **OK**.
 
-   ![](assets/toggle-switch-15.png)
+   ![](assets/toggle-switch-19.png)
