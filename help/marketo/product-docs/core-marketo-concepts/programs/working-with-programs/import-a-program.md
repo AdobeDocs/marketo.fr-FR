@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importation d’un programme - Documents Marketo - Documentation du produit
 title: Importation d’un programme
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
+source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Un programme peut être importé d&#39;un abonnement Marketo vers un autre. Par 
 
 1. Accédez à **Activités marketing.**
 
-   ![](assets/ma.png)
+   ![](assets/import-a-program-1.png)
 
 1. Cliquez sur **Nouveau** déroulant. Sélectionner **Programme d’importation**.
 
-   ![](assets/image2014-9-17-12-3a15-3a4.png)
+   ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
@@ -32,23 +32,23 @@ Un programme peut être importé d&#39;un abonnement Marketo vers un autre. Par 
 
 1. Sélection d’une Marketo **Abonnement** et un programme à importer. Cliquez sur **Suivant**.
 
-   ![](assets/image2014-9-17-12-3a20-3a13.png)
+   ![](assets/import-a-program-3.png)
 
 1. Spécifiez un **Dossier Campaign** pour le programme importé. Cliquez sur **Suivant.**
 
-   ![](assets/image2014-9-17-12-3a20-3a44.png)
+   ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
    >Assurez-vous de **Utiliser le conflit par défaut** règles est sélectionnée. Des règles de conflit sont nécessaires lorsque vous importez des programmes dans une instance dont les ressources portent le même nom.
 
+1. Sélectionnez les détails de conflit de votre choix, puis cliquez sur **Suivant**.
+
+   ![](assets/import-a-program-5.png)
+
 1. Aperçu des détails et **Importer** le programme.
 
-   ![](assets/image2014-9-17-12-3a21-3a36.png)
-
-   Une boîte de dialogue affiche la progression de l’importation du programme.
-
-   ![](assets/image2014-9-17-12-3a21-3a51.png)
+   ![](assets/import-a-program-6.png)
 
 Une fois l&#39;import terminé, vous recevrez une confirmation par email.
 
@@ -67,7 +67,7 @@ La bibliothèque de programmes Marketo contient des programmes prédéfinis et t
 1. **Moments significatifs.** Crée des moments intéressants pour que votre équipe de vente les conserve dans la boucle.
 1. **Page d’entrée avec la réponse automatique.** Utilisez du contenu téléchargeable pour obtenir de nouvelles personnes et les nourrir. Inclut des landing pages et des formulaires.
 1. **Cycle de vie 2.** Utilise la notation pour faire passer une personne du nouveau au marketing qualifié.
-1. **Modèle de courrier électronique mobile.** Modèle de courrier électronique réactif testé par rapport à iPhone et Android. Certaines versions d’Android, MS Outlook, Exchange et d’applications tierces telles que Gmail et Yahoo! Les applications mobiles de messagerie ne prennent pas en charge le code CSS requis pour les modèles réactifs. Nous vous recommandons de tester avant d’envoyer des emails.
+1. **Modèle de courrier électronique Mobile.** Modèle de courrier électronique réactif testé par rapport à iPhone et Android. Certaines versions d’Android, MS Outlook, Exchange et d’applications tierces telles que Gmail et Yahoo! Les applications mobiles de messagerie ne prennent pas en charge le code CSS requis pour les modèles réactifs. Nous vous recommandons de tester avant d’envoyer des emails.
 1. **Tirage d’importation de programme.** Programme Tirage pour ceux qui essaient la bibliothèque du programme ! Validez simplement les emails et la landing page et activez la campagne dynamique. Visualisez ensuite la landing page validée, remplissez le formulaire, et vous êtes alors inscrit !
 1. **Campagnes disponibles des ventes.** Donne à vos commerciaux le moyen d’exécuter des campagnes dynamiques Marketo à partir d’un tableau de bord dans votre gestion de la relation client.
 1. **Notation - Édition Spark.** Score démographique et comportemental capturé dans un champ de notation unique. Inclut plus de deux douzaines de campagnes liées à la notation.
