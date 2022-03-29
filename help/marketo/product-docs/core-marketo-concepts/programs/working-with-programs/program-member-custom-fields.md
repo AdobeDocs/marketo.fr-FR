@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Champs personnalisés des membres du programme - Documents Marketo - Documentation du produit
 title: Champs personnalisés des membres du programme
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '402'
 ht-degree: 1%
 
 ---
@@ -70,7 +70,7 @@ Vous pouvez exploiter ces données spécifiques au programme dans des listes dyn
 * L’objet membre du programme peut comporter jusqu’à 20 champs personnalisés. Ces champs sont disponibles pour tous les programmes.
 * Lorsque vous supprimez un membre d’un programme, si le champ personnalisé Membre du programme contient des données, celles-ci sont supprimées de ce champ.
 * Pour afficher les données, cliquez sur l’onglet Membres du programme et créez une vue personnalisée qui inclut ces champs.
-* Import et export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) et [API](https://developers.marketo.com/) sont prises en charge.
+* Import et export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) et [API](https://developers.marketo.com/) sont prises en charge. Les exportations ne fonctionnent que sur les listes de membres de programme, et non sur les listes statiques.
 * Lorsque vous fusionnez deux personnes, les données de champ personnalisées Membre du programme du gagnant sont utilisées. Mais si le gagnant n’en a pas, la valeur du perdant sera utilisée.
 * Le type de modification est **not** autorisés dans les champs Informations sur les membres du programme.
 
