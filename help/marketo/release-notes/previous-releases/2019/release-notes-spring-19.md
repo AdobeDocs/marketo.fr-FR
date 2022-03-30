@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Notes de mise à jour - Printemps 2019 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Printemps 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 6%
@@ -24,7 +24,7 @@ Les fonctionnalités suivantes ont été publiées le 15 mars 2019.
 
 * **Liste d&#39;attente :** Nouvel état de programme/événement pour mettre un membre sur liste d’attente lorsque vous souhaitez le mettre sur liste d’attente [Mettez-les en attente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) jusqu&#39;à ce qu&#39;un poste vacant soit ouvert. Cela s’applique aux canaux associés aux programmes Event dans Marketo Classic, ainsi qu’aux événements et aux événements avec les programmes Webinar dans Marketo Sky. Par défaut, la valeur de l’étape Liste blanche est la même que celle enregistrée.
 * **[Limite de communication personnalisée](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Les administrateurs peuvent désormais définir des limites personnalisées de communication quotidienne ou hebdomadaire.
-* **[API des ressources de Campaign intelligentes](https://developers.marketo.com/rest-api/assets/campaigns/)**: Enrichissez vos analyses en dehors de Marketo avec la récupération des enregistrements de campagne dynamique par date et identifiant mis à jour.
+* **[API des ressources de Campaign intelligentes](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Enrichissez vos analyses en dehors de Marketo avec la récupération des enregistrements de campagne dynamique par date et identifiant mis à jour.
 * **Liens de suivi HTTPS pour les courriers électroniques :** Pour les clients qui ont acheté &quot;Domaines sécurisés pour les liens de suivi&quot;, les liens de suivi de marque peuvent désormais être affichés dans vos emails au format HTTPS.
 * **Mises à jour du pack de délivrabilité des emails**: Possibilité de marquer et de commenter des résultats de test spécifiques, de partager les résultats avec les parties prenantes via une URL et de suivre les modifications pour voir l’évolution d’un email lorsque les parties prenantes modifient le contenu.
 

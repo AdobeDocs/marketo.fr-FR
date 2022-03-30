@@ -1,60 +1,59 @@
 ---
 unique-page-id: 10099077
-description: Livraison par courriel - Comment importer une liste de semences - Documentation sur le marketing - Documentation sur le produit
-title: Pack PowerPack de délivrabilité du courriel - Comment importer une liste de semences
-translation-type: tm+mt
-source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
+description: Email Deliverability Power Pack - Comment importer une liste de contrôle - Documents Marketo - Documentation du produit
+title: Email Deliverability - Import d’une liste de contrôle
+exl-id: a4782611-2556-43bf-802b-afeb332eafcd
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
+# Email Deliverability Power Pack : Importation d’une liste de contrôle {#email-deliverability-power-pack-how-to-import-a-seedlist}
 
-# Pack d&#39;alimentation de la délivrabilité du courriel : Comment importer une liste de semences {#email-deliverability-power-pack-how-to-import-a-seedlist}
-
-Une liste initiale est une liste de comptes de messagerie de plusieurs fournisseurs de boîtes aux lettres, y compris Google Apps, Hotmail, Yahoo!, etc., qui sont utilisés pour approcher le taux de délivrabilité de la boîte de réception par rapport au dossier de spam. Voici comment placer cette liste dans votre instance de marché.
+Une liste de contrôle est une liste des comptes de messagerie de plusieurs fournisseurs de messagerie, y compris Google Apps, Hotmail, Yahoo!, etc., qui sont utilisés pour déterminer le taux de délivrabilité des dossiers de messages électroniques par rapport aux spams. Voici comment placer cette liste dans votre instance Marketo.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre représentant commercial.
 
-## Importer une liste de semences {#import-a-seedlist}
+## Importation d’une liste de contrôle {#import-a-seedlist}
 
 1. Accédez à **Outils de délivrabilité**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur **Informant de boîte de réception**.
+1. Cliquez sur **Inbox Informant**.
 
    ![](assets/two-1.png)
 
-1. Cliquez sur **Get Seedlist**.
+1. Cliquez sur **Obtenir la liste de contrôle**.
 
    ![](assets/three-1.png)
 
-1. Cliquez sur **Exporter la Liste**.
+1. Cliquez sur **Exporter la liste**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Choisissez **Optimiser la Liste** si vous souhaitez que 250ok [optimise votre liste](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) pour vous. Sélectionnez **Personnaliser la Liste** si vous souhaitez sélectionner les régions de la liste de sélection à inclure.
+   >Choisir **Optimiser la liste** si vous souhaitez que 250ok [optimiser votre liste](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) pour vous. Choisir **Personnaliser la liste** si vous souhaitez sélectionner les régions de liste de contrôle à inclure.
 
-1. Après l’exportation, la liste s’affichera sous la forme d’un fichier .txt dans le dossier des téléchargements de votre navigateur. Récupérez-la et [importez](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)-la dans votre instance Marketo en tant que liste statique.
+1. Après l’exportation, la liste s’affiche sous forme de fichier .txt dans le dossier des téléchargements de votre navigateur. Récupérez-la, et [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) dans votre instance Marketo sous la forme d’une liste statique.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Veillez à nommer votre liste d&#39;une manière qui la facilitera.
+   >Veillez à nommer votre liste de manière à la rendre facile à trouver.
 
    >[!CAUTION]
    >
-   >Vous obtenez un nombre limité de ces campagnes Informant de boîte de réception par mois. Pour en savoir plus, consultez les **Paramètres du compte** 250ok. Pour en savoir plus, veuillez contacter votre représentant commercial Marketing Cloud.
+   >Vous obtenez un nombre limité de ces campagnes Inbox Informant par mois. Pour en savoir plus, regardez dans votre 250ok **Paramètres du compte**. Pour en savoir plus, contactez votre représentant commercial Marketo.
 
-## Acquisition de nouvelles listes de semences {#acquiring-new-seedlists}
+## Acquisition de nouvelles listes de contrôle {#acquiring-new-seedlists}
 
-Votre liste de démarrage peut changer aussi souvent que tous les mois. Il est important de se connecter régulièrement au Power Pack de la fonctionnalité Livrabilité du courriel et de vérifier l&#39;état de votre liste initiale. Lorsque de nouvelles adresses sont ajoutées ou qu’une mise à jour est requise à votre fin, vous serez averti par l’intermédiaire de l’interface de la page Obtenir la liste de sélection.
+Votre liste de contrôle peut changer aussi souvent que tous les mois. Il est important de se connecter régulièrement au Packs de délivrabilité des emails et de vérifier le statut de votre liste de contrôle. Lorsque de nouvelles adresses sont ajoutées ou qu’une mise à jour est requise de votre côté, vous êtes averti via l’interface de la page Obtenir une liste de contrôle .
 
-Une fois votre liste statique dans Marketing Cloud créée, vous pouvez commencer à l’envoyer pour tester l’emplacement de la boîte de réception de votre courrier électronique.
+Une fois votre liste statique dans Marketo créée, vous pouvez commencer à l’envoyer pour tester l’emplacement de la boîte de réception de votre email.

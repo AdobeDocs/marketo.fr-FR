@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: Notes de mise à jour - Automne 2015 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Automne 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '991'
 ht-degree: 2%
 
 ---
@@ -44,27 +44,27 @@ Créez facilement des objets personnalisés à partir de l’interface utilisate
 
 [Marketo Insights pour Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Nous sommes heureux d’annoncer la publication d’une mise à jour de notre extension Google Mail Sales Insight . Affichez-la dans [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Nous sommes heureux d’annoncer la publication d’une mise à jour de notre extension Google Mail Sales Insight . Affichez-la dans la  [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Cette mise à jour comprend de nombreuses nouvelles fonctionnalités :
 
-* Avant de s’engager, les vendeurs peuvent consulter des informations pertinentes sur leurs perspectives directement dans Google Mail, notamment les titres de poste, les profils twitter, les informations sur la société, les photos, etc.
+* Avant de vous engager, les vendeurs peuvent consulter des informations pertinentes sur leurs prospects directement dans Google Mail, notamment les titres de poste, les profils twitter, les informations sur la société, les photos, etc.
 * Les vendeurs peuvent voir en temps réel les perspectives de contenu qui s’offrent à tous les canaux, comme les emails ouverts ou les clics, les événements en ligne ou en personne suivis, les pages web visitées, les eBooks téléchargés, etc.
 * Les courriers électroniques envoyés par le biais de Google Mail sont consignés dans Marketo et suivis en temps réel. Cela permet aux vendeurs de voir quand les prospects regardent leurs emails afin de pouvoir suivre au bon moment. Marketo Sales Insight for Google Mail permet également aux vendeurs d’exploiter facilement les modèles créés par le marketing afin d’envoyer de belles invitations, des offres et d’autres types de contenu.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Engagement pour Marketo Mobile - Jetons, Envoyer un exemple et Aperçu {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Engagement Marketo Mobile : jetons, envoi d’un exemple et aperçu {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Jetons](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Envoyer un échantillon](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Aperçu](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Personnalisez facilement les notifications push avec des [jetons](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+Personnalisation facile des notifications push avec [jetons](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Vous pouvez également [prévisualiser](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) ou envoyer un [exemple](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) notification push avant de le déployer vers les clients.
+Vous pouvez également [aperçu](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) ou envoyer une [sample](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) notification push avant de la déployer sur les clients.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -85,7 +85,7 @@ Les statistiques sur les emails envoyés par le biais des campagnes dynamiques s
 
 ## RTP - Content Analytics et Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Content ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) Analytics et Recommendations
+[Content Analytics](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) et Recommendations
 
 L’analyse de contenu HTTP vous montre les performances de vos ressources de contenu web à partir des visites web régulières et des visites générées à partir du moteur de recommandation de contenu de la HTTP.
 
@@ -95,8 +95,8 @@ L’analyse de contenu HTTP vous montre les performances de vos ressources de co
 
 La page Ressources de la HTTP est désormais divisée en Content Analytics et Content Recommendations.
 
-* **Content Analytics :** affiche les vues et les pistes directes de tout contenu web découvert et défini, ce qui vous permet d’analyser le contenu le plus performant.
-* **Content Recommendations** : Affiche les impressions et les clics à partir du contenu recommandé de RTP et l’attribution de piste associée. Vous pouvez également modifier et activer les recommandations de contenu de cette page pour les recommandations [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) et [rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
+* **Content Analytics :** Affiche les vues et les pistes directes de tout contenu web découvert et défini, ce qui vous permet d’analyser le contenu le plus performant.
+* **Recommendations de contenu**: Affiche les impressions et les clics à partir du contenu recommandé de RTP et l’attribution de piste associée. Vous pouvez également modifier et activer les recommandations de contenu de cette page pour le [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) et [rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) recommandations.
 
 * Toutes les données de piste directe de ces deux pages ont été mises à jour rétroactivement depuis le début de l’année (1er janvier 2015).
 
@@ -112,7 +112,7 @@ Le clonage d’une campagne RTP rend plus rapide et plus efficace la création d
 
 L’éditeur de texte enrichi a été amélioré de plusieurs façons. Après la publication de l’éditeur mis à jour en juillet, nous avons reçu de nombreux commentaires et avons pu apporter ces modifications à cette mise à niveau. Il y a beaucoup d&#39;autres choses à venir dans les prochains mois. Voici une liste des nouveautés du 4e trimestre :
 
-* Le code VML est désormais pris en charge dans votre code HTML :
+* Le code VML est désormais pris en charge dans votre code de HTML :
 
 ```
 <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
@@ -120,13 +120,13 @@ L’éditeur de texte enrichi a été amélioré de plusieurs façons. Après la
 </v:background>
 ```
 
-* Tout peut maintenant être inséré dans un commentaire HTML valide (certaines syntaxes comme ci-dessous ont été précédemment supprimées) :
+* Tout peut maintenant être inséré dans un commentaire de HTML valide (certaines syntaxes comme illustré ci-dessous ont été précédemment supprimées) :
 
 `<!--[if gte mso 9]> <![endif]-->`
 
 * Ne pas remplir les cellules de tableau vides avec `&nbsp;`
 
-* Bouton Maximiser/minimiser ajouté à l’éditeur de source HTML
+* Bouton Maximiser/minimiser ajouté à l’éditeur de source de HTML
 * Les propriétés de tableau préexistantes sont désormais identifiées et affichées dans la boîte de dialogue Propriétés du tableau .
 * Les deux rangées de boutons s’affichent désormais par défaut.
 * L’éditeur accepte désormais tout élément (même les éléments obsolètes ou non standard) :
@@ -140,9 +140,9 @@ L’éditeur de texte enrichi a été amélioré de plusieurs façons. Après la
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics - Valider la synchronisation {#microsoft-dynamics-validate-sync}
+## Microsoft Dynamics - Validation de la synchronisation {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - Valider la synchronisation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[Microsoft Dynamics - Validation de la synchronisation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 Ce nouvel outil d’administration exécute une série de vérifications pour vérifier si vos configurations de synchronisation ont été correctement configurées.
 

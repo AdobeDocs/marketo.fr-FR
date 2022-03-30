@@ -1,97 +1,93 @@
 ---
 unique-page-id: 10096583
-description: FAQ sur le suivi de Munchkin de nouvelle génération - Docs Marketo - Documentation du produit
+description: FAQ sur le suivi Munchkin de nouvelle génération - Documents Marketo - Documentation du produit
 title: FAQ sur le suivi de Munchkin de nouvelle génération
 exl-id: 283189ac-c817-479a-b896-91233980608c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
 
 # FAQ sur le suivi de Munchkin de nouvelle génération {#next-generation-munchkin-tracking-faq}
 
-Nous sommes heureux d&#39;annoncer que nous allons bientôt commencer un déploiement progressif de notre technologie de suivi Web de prochaine génération.
+Nous sommes ravis d’annoncer que nous allons bientôt lancer un déploiement progressif de notre nouvelle technologie de tracking Web.
 
 Voici les éléments les plus importants à savoir :
 
-* Nous supprimons le filtre de Liste dynamique &quot;Is Anonymous&quot; avec notre version du 1er trimestre (déjà terminée).
-* Nous augmentons le nombre de événements Web (Page Web de visite, Lien cliqué sur la page Web) que nous pouvons ingérer
-* Votre code Munchkin ne changera pas. Aucune mise à jour de votre site Web n’est donc requise.
+* Nous supprimons le filtre Liste dynamique &quot;Is Anonymous&quot; avec notre version du 1er trimestre (déjà terminée).
+* Nous augmentons le nombre d’événements web (Page web de la visite, Lien cliqué sur la page web) que nous pouvons ingérer.
+* Votre code Munchkin ne changera pas. Aucune mise à jour n’est donc requise sur votre site web.
 
 ## Quand mon abonnement Marketo sera-t-il sur Munchkin V2 ? {#when-will-my-marketo-subscription-be-on-munchkin-v}
 
-Nous n&#39;avons pas encore de date exacte, mais veuillez revenir ici pour les mises à jour.
+Nous n&#39;avons pas encore de date exacte, mais veuillez consulter les mises à jour ici.
 
-## Dois-je apporter des modifications au suivi de ma serviette Munchkin sur mon site Web ? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
+## Dois-je apporter des modifications au suivi de Munchkin sur mon site web ? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-Nombre Le code de suivi de Munchkin reste le même. Aucune modification n’est nécessaire pour votre site Web.
-
->[!NOTE]
->
->Cette modification n’a aucune incidence sur la personnalisation Web (personnalisation en temps réel). Il continue à identifier des visiteurs web anonymes et connus et à personnaliser le contenu en temps réel pour ces visiteurs.
-
-## Pourquoi Marketo a-t-il supprimé le filtre &quot;Est-ce anonyme&quot; des Listes dynamiques ? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
-
-Nous avons changé la façon dont les personnes anonymes interagissent avec les campagnes intelligentes. Avant, ils passaient par une campagne intelligente, tout comme les gens connus. Le filtre &quot;Est anonyme&quot; a été utilisé pour spécifier que seules les personnes connues ou anonymes circulent dans la campagne.
-
-Avec Munchkin V2, nous continuerons à suivre toutes les activités anonymes ; cependant, vous ne pouvez plus appliquer des filtres à des personnes anonymes. Au moment de la conversion (lorsque la personne est connue dans Marketo), toutes les activités survenues lorsque la personne était anonyme sont ajoutées au journal des activités de la personne et, à ce moment, elles passent par les campagnes auxquelles elles ont droit.
-
-Si vous utilisez déjà ce filtre dans une Liste dynamique (par exemple, dans une Campaign dynamique ou un rapport), il n’est pas automatiquement supprimé de la Liste dynamique. Voir ci-dessous pour plus de détails.
+Nombre Le code de suivi Munchkin reste le même. Aucune modification ne doit être apportée à votre site web.
 
 >[!NOTE]
 >
->**Déclencheur** : Page Web Visites, page Web est la page Tarification\
->**Flux** : Changer de note +10 et moment intéressant
->**Web** : Page Tarifs affichés
+>Cette modification n’a aucune incidence sur Web Personalization (Real-Time Personalization). Il continue à identifier les visiteurs anonymes et connus et à personnaliser le contenu en temps réel pour ces visiteurs.
+
+## Pourquoi Marketo a-t-il supprimé le filtre &quot;Is Anonymous&quot; des listes dynamiques ? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
+
+Nous avons modifié la manière dont les personnes anonymes interagissent avec les campagnes intelligentes. Avant, ils ont traversé une campagne intelligente, tout comme les gens connus. Le filtre &quot;Est anonyme&quot; a été utilisé pour indiquer que seules les personnes connues ou anonymes circulent dans la campagne.
+
+Avec Munchkin V2, nous continuerons à suivre toutes les activités anonymes ; cependant, vous ne pouvez plus appliquer de filtres aux personnes anonymes. Au point de conversion (lorsque la personne est connue dans Marketo), toutes les activités survenues lorsque la personne était anonyme sont ajoutées au journal d’activité de la personne et, à ce moment, elles transitent par les campagnes pour lesquelles elles remplissent les critères.
+
+Si vous utilisez déjà ce filtre dans une liste dynamique (par exemple, dans une campagne dynamique ou un rapport), il n’est pas automatiquement supprimé de la liste dynamique. Voir ci-dessous pour plus de détails.
+
+>[!NOTE]
 >
->Avec Munchkin V2, si une personne anonyme visite la page de tarification, elle n&#39;entre pas immédiatement dans la campagne. Au moment où la personne anonyme sera connue, nous lui lancerons cette campagne. Elle :
+>**Déclencheur**: Page web Visites, page web = page des tarifs\
+>**Flux**: Score de changement +10 et moment intéressant
+>**Web**: Page de tarification consultée
 >
->* Obtenez un score de 10
-   >
-   >
-* L&#39;activité de la page Web est-elle définie à la date appropriée (date à laquelle elle s&#39;est effectivement rendue) ?
-   >
-   >
-* Ayez un moment intéressant consigné pour elle (avec la date à laquelle elle a réellement visité la page, et non quand elle a été connue)
-   >
-   >
-* Ayez une activité &quot;Nouvelle personne&quot; enregistrée, telle qu’elle est actuellement
+>Avec Munchkin V2, si une personne anonyme se rend sur la page des prix, elle n&#39;entre pas immédiatement dans la campagne. Au moment où la personne anonyme sera connue, nous lui lancerons cette campagne. Elle :
+>
+>* Obtenir un score de 10
+>
+>* Définissez l’activité Page Web à la date appropriée (date à laquelle elle a réellement visité le site).
+>
+>* Ayez un moment intéressant consigné pour elle (avec la date à laquelle elle a réellement visité la page, et non quand elle a été connue)
+>
+>* Consignez une activité &quot;Nouvelle personne&quot; comme aujourd’hui
 
 
-## Qu’advient-il de mes Listes dynamiques qui disposent déjà du filtre &quot;Est-ce anonyme&quot; ? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
+## Qu’advient-il de mes listes dynamiques qui disposent déjà du filtre &quot;Est-ce anonyme&quot; ? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 
-Après notre version de l’hiver 16, si vous avez d’anciennes campagnes dynamiques avec une Liste dynamique qui comporte le filtre &quot;Est anonyme&quot;, une des deux choses se produit :
+Après notre version de l’hiver 16, si vous disposez d’anciennes campagnes dynamiques avec une liste dynamique qui contient le filtre &quot;Is Anonymous&quot;, deux choses se produiront :
 
-1. Si la Liste dynamique comporte le filtre &quot;Est anonyme = False&quot;, rien ne se passera. Nous l&#39;ignorerons.
-1. Si la Liste dynamique comporte le filtre &quot;Est anonyme = True&quot;, cette campagne échoue et vous recevrez une notification.
+1. Si le filtre &quot;Is Anonymous = False&quot; est appliqué à la liste dynamique, rien ne se produit. Nous l&#39;ignorerons.
+1. Si le filtre &quot;Is Anonymous = True&quot; est appliqué à la liste dynamique, cette campagne échoue et vous recevez une notification.
 
 ## J&#39;utilise Marketo depuis un moment. Comment savoir laquelle de mes campagnes utilise le filtre &quot;Est anonyme&quot; ? {#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}
 
-Avant de procéder à cette modification, nous avons envoyé plusieurs notifications hebdomadaires à votre boîte de réception Notifications avec une liste de Listes dynamiques, de campagnes dynamiques et de rapports qui utilisent le filtre &quot;Est anonyme&quot;. Elles peuvent vous aider à déterminer où vous utilisez actuellement ce filtre.
+Avant d’apporter cette modification, nous avons envoyé plusieurs notifications hebdomadaires à votre boîte de réception de notifications avec une liste de listes dynamiques, de campagnes dynamiques et de rapports qui utilisent le filtre &quot;Est anonyme&quot;. Ils peuvent vous aider à identifier où vous utilisez actuellement ce filtre.
 
-Vérifiez-les et identifiez l’emplacement où l’option &quot;Est anonyme&quot; est définie sur True, car il s’agit des campagnes qui sont affectées. La plupart du temps, les clients utilisent ce paramètre pour obtenir un certain score. Consultez l&#39;exemple ci-dessus pour comprendre comment ces campagnes vont fonctionner maintenant.
+Consultez-les et identifiez l’emplacement où &quot;Est anonyme&quot; est défini sur True, car il s’agit des campagnes affectées. La plupart du temps, les clients utilisent ce paramètre pour une sorte de notation. Consultez l’exemple ci-dessus pour comprendre comment ces campagnes fonctionneront désormais.
 
 ## Je voudrais une documentation plus détaillée. Où puis-je le trouver ? {#id-like-more-detailed-documentation-where-can-i-find-it}
 
-Consultez ces liens :
+Consultez les liens suivants :
 
-[Présentation des mises à niveau des pistes anonymes](https://nation.marketo.com/docs/DOC-2937)
+[Présentation des mises à niveau de pistes anonymes](https://nation.marketo.com/docs/DOC-2937)
 
-[Mises à niveau des pistes anonymes - Modifications dans l’interface utilisateur Marketo](https://nation.marketo.com/docs/DOC-2938)
+[Mises à niveau de pistes anonymes - Modifications dans l’interface utilisateur de Marketo](https://nation.marketo.com/docs/DOC-2938)
 
-[Mises à niveau des pistes anonymes - Action client requise](https://nation.marketo.com/docs/DOC-2939)
+[Mises à niveau de pistes anonymes - Action client requise](https://nation.marketo.com/docs/DOC-2939)
 
 [Mises à niveau des pistes anonymes - Rapports Analytics](https://nation.marketo.com/docs/DOC-2940)
 
-[Mises à niveau des pistes anonymes - Calendrier de publication](https://nation.marketo.com/docs/DOC-2961)
+[Mises à niveau de piste anonymes - Calendrier des versions](https://nation.marketo.com/docs/DOC-2961)
 
-[Mises à niveau des pistes anonymes - Sous la houe](https://nation.marketo.com/docs/DOC-2962)
+[Mises À Niveau Des Pistes Anonymes - Sous Le Bois](https://nation.marketo.com/docs/DOC-2962)
 
-[Promotion anonyme de pistes vers le comportement connu - Munchkin V2](https://nation.marketo.com/docs/DOC-2963)
+[Promotion de pistes anonymes vers le prospect connu - Comportement Munchkin V2](https://nation.marketo.com/docs/DOC-2963)
 
 ## J&#39;ai plus de questions ! Comment puis-je leur faire répondre ? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Veuillez contacter la [communauté](https://nation.marketo.com/welcome). Vous pouvez également contacter le [Support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Ils seront heureux de répondre à vos questions.
+Veuillez contacter le [communauté](https://nation.marketo.com/). Vous pouvez également contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Ils seront heureux de répondre à vos questions.
