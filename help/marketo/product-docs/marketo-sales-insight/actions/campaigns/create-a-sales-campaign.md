@@ -3,63 +3,70 @@ description: Création d’une campagne de ventes - Documents Marketo - Document
 title: Créer une campagne de ventes
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: e1eaabc8fc943291b026ab8e9919e5705e5c9046
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 7%
+source-wordcount: '329'
+ht-degree: 0%
 
 ---
 
 # Créer une campagne de ventes {#create-a-sales-campaign}
 
-## Création d’une campagne {#create-a-campaign}
+Les campagnes sont une série d’étapes multicanaux, notamment : emails, appels téléphoniques, InMail et tâches personnalisées. Elles vous permettent de rationaliser vos communications avec vos clients potentiels et existants.
 
-Texte
+Avec les campagnes, vous pouvez :
 
-## Présentation des options et des tâches d’envoi {#understanding-send-options-and-tasks}
+* **Organisation**: Rationalisez toutes vos activités de sensibilisation au sein d’un seul et même endroit pour une exécution efficace.
+* **Échelle**: Planifiez tous vos efforts de sensibilisation afin de réduire vos efforts, de minimiser le travail manuel et de personnaliser autant que nécessaire.
+* **Mesure**: Suivez la réussite de tous vos emails et tâches à un seul endroit tout en les connectant automatiquement à Salesforce. En sachant ce qui a de l’impact et conduit aux résultats, vous pouvez constamment tester et améliorer vos résultats.
 
-Texte
+Alors, comment configurer une campagne ?
 
-## Types d’étape de campagne {#campaign-step-types}
+1. Cliquez sur le bouton **Campagnes** .
 
-Vous disposez de quatre options lorsque vous ajoutez une étape à votre campagne.
+   ![](assets/create-a-sales-campaign-1.png)
 
-PICC
+1. Sélectionnez une catégorie et cliquez sur le bouton **Création d’une campagne** pour créer une campagne.
 
-**Adresse e-mail**
+   ![](assets/create-a-sales-campaign-2.png)
 
-Composez un nouvel email ou utilisez un modèle préexistant.
+   >[!NOTE]
+   >
+   >Créez une catégorie en cliquant sur le bouton **+** en regard de **Catégories**.
 
-PICC
+1. La catégorie choisie sera sélectionnée. Si vous changez d’avis, cliquez sur la liste déroulante et sélectionnez-en une autre. Lorsque vous avez terminé, cliquez sur **Continuer**.
 
-| **Utiliser un modèle** | Sélectionnez l’un de vos modèles préexistants. |
-|---|---|
-| **Enregistrer comme modèle** | Enregistrez l&#39;email que vous venez de composer en tant que nouveau modèle. |
-| **Ajouter du contenu** | Téléchargez un fichier sur notre serveur et recevez une URL (pointant vers le contenu) qui peut être trackée dans votre email. |
-| **Joindre des fichiers** | Joindre un fichier de votre ordinateur au courrier électronique (taille maximale de 23 Mo) |
+   ![](assets/create-a-sales-campaign-3.png)
 
->[!TIP]
+1. Cliquez sur **Ajout d’une étape**.
+
+   ![](assets/create-a-sales-campaign-4.png)
+
+1. Choisissez entre : Courriel, Appel, InMail ou Tâche personnalisée. Dans cet exemple, nous choisissons Email.
+
+   ![](assets/create-a-sales-campaign-5.png)
+
+1. Quand tu es [terminé avec votre email](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target=&quot;_blank&quot;}{target=&quot;_blank&quot;}, cliquez sur **Ajouter**.
+
+   ![](assets/create-a-sales-campaign-6.png)
+
+1. Une fois que vous avez créé votre première journée et votre première étape, le bouton &quot;Ajouter un jour&quot; est activé et vous pouvez ajouter autant de jours et d’étapes que le nécessite votre processus de vente.
+
+   ![](assets/create-a-sales-campaign-7.png)
+
+   >[!NOTE]
+   >
+   >&quot;Jours&quot; ne sont pas le nombre de jours entre les actions, mais le jour dans la séquence. Par exemple, si votre campagne va durer 7 jours, la saisie de &quot;3&quot; signifie que l’action sera lancée le jour 3 du 7, **not** 3 jours plus tard.
+
+1. Veillez à personnaliser les options de planification et de réponse, telles que sauter les week-ends (ce qui est génial) en consultant la **Onglet Paramètres** pour votre campagne.
+
+   ![](assets/create-a-sales-campaign-8.png)
+
+Il est maintenant temps d&#39;ajouter des personnes à votre campagne !
+
+>[!MORELIKETHIS]
 >
->En savoir plus sur votre [options d’envoi](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>* Présentation des options d’envoi de campagne de ventes pour les étapes de courrier électronique
+>* [Types d’étape de campagne de vente et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
+>* Paramètres de campagne de ventes
 
-**Appelez**
-
-Rappel pour le suivi d&#39;un contact par téléphone. Vous pouvez également enregistrer des notes à utiliser comme suivi de conversation pendant l’appel.
-
-PICC
-
-**Message interne**
-
-Le suivi sur plusieurs canaux est un excellent moyen de se connecter aux pistes. Avec les tâches InMail, vous pouvez configurer un rappel pour atteindre l’utilisateur via LinkedIn.
-
-PICC
-
-**Tâche personnalisée**
-
-Utilisez des tâches personnalisées lorsque les options ci-dessus ne sont pas applicables. Par exemple, vous pouvez inviter un collègue à effectuer un suivi avec une piste par email.
-
-PICC
-
-## Paramètres de campagne {#campaign-settings}
-
-Texte
