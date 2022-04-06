@@ -2,7 +2,7 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Mai 2022 {#release-notes-may-22}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 22 mai. Vérifiez la disponibilité de votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 22 mai. Pour connaître la disponibilité des fonctionnalités, consultez l’édition de votre Marketo Engage Adobe.
 
 >[!AVAILABILITY]
 >
@@ -23,7 +23,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **6 mai 2022*
 
 ## Intégration CRM native {#native-crm-integration}
 
-**Intégration de la gestion de la relation client (disponibilité limitée) native de Veeva**: Améliorer l&#39;engagement avec les professionnels de santé en synchronisant l&#39;activité entre Veeva VRM et Marketo Engage via l&#39;intégration native. Cette intégration permet aux marketeurs de créer des expériences cross-canal plus personnalisées et plus transparentes pour les professionnels de la santé. Contactez votre responsable du succès client si vous souhaitez participer.
+**Intégration de la gestion de la relation client (disponibilité limitée) native de Veeva**: Améliorer l&#39;engagement avec les professionnels de santé en synchronisant l&#39;activité entre Veeva CRM et Marketo Engage via l&#39;intégration native. Cette intégration permet aux marketeurs de créer des expériences cross-canal plus personnalisées et plus transparentes pour les professionnels de la santé. Contactez votre responsable du succès client si vous souhaitez participer.
 
 ## Orchestration cross-canal {#cross-channel-orchestration}
 
