@@ -1,11 +1,10 @@
 ---
 description: Ajout d’un jeu d’autorisations Sales Insight - Documents Marketo - Documentation du produit
 title: Ajouter un jeu d’autorisations Sales Insight
-hide: true
-hidefromtoc: true
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
+source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '379'
 ht-degree: 3%
 
 ---
@@ -85,31 +84,29 @@ L’autorisation &quot;Application Marketo&quot; fait partie du package Salesfor
 
 1. Connectez-vous à votre compte Salesforce.
 
-PICC
-
 1. Cliquez sur **Configuration**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-1.png)
 
 1. Sous Administrateur, cliquez sur pour effectuer le déploiement. **Gestion des utilisateurs**, puis **Utilisateurs**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-2.png)
 
 1. Sous Tous les utilisateurs, sélectionnez l’utilisateur auquel vous souhaitez accorder l’accès, puis cliquez sur **Affectations de jeux d’autorisations**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-3.png)
 
 1. Cliquez sur **Modifier les affectations**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-4.png)
 
 1. Sélectionner **Accès aux applications Marketo** à partir des jeux d’autorisations disponibles, puis **Ajouter**. Cliquez sur **Enregistrer**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-5.png)
 
 1. Désormais, lorsque vous faites défiler la page Détails de l’utilisateur, &quot;Accès à l’application Marketo&quot; s’affiche sous Affectations de jeu d’autorisations.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
