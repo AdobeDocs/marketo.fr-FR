@@ -1,105 +1,104 @@
 ---
 unique-page-id: 10096675
-description: Créer des campagnes enfants et des ressources locales - Documents marketing - Documentation du produit
+description: Créer des campagnes enfants et des ressources locales - Documents Marketo - Documentation du produit
 title: Créer des campagnes enfants et des ressources locales
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 272105e1-43d6-455c-a533-aae65e859384
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '667'
-ht-degree: 0%
+source-wordcount: '668'
+ht-degree: 1%
 
 ---
-
 
 # Créer des campagnes enfants et des ressources locales {#create-child-campaigns-and-local-assets}
 
 Créez vos campagnes enfants et vos ressources locales à l’aide de Design Studio.
 
-## landing page et formulaire {#landing-page-and-form}
+## Page d’entrée et formulaire {#landing-page-and-form}
 
 Pour vous assurer que les utilisateurs sont correctement enregistrés auprès de ON24, les champs suivants doivent être inclus dans votre formulaire Marketo :
 
 * Prénom
 * Nom
-* Adresse électronique
+* Adresse e-mail
 
-Vous pouvez également placer les champs suivants sur ON24 :
+Vous pouvez également transmettre les champs suivants à ON24 :
 
 * Nom de la société
-* Titre de la tâche
+* Intitulé du poste
 
-Avec l&#39;étape de flux appropriée ajoutée à la campagne d&#39;enregistrement, les gens seront poussés à ON24 et seront marqués comme enregistrés. Vous pouvez ajouter d’autres champs au formulaire et les informations seront capturées dans Marketo dans le cadre de l’enregistrement des détails de la personne.
+Une fois l’étape de flux appropriée ajoutée à la campagne d’enregistrement, les personnes sont transférées vers ON24 et marquées comme étant enregistrées. Vous pouvez ajouter d’autres champs au formulaire et les informations seront capturées dans Marketo dans le cadre de l’enregistrement des détails de la personne.
 
 >[!CAUTION]
 >
->Pour réussir l’intégration, vous devez utiliser un formulaire Marketo pour enregistrer vos utilisateurs pour le Événement, ou un formulaire non Marketo avec l’intégration d’API appropriée pour envoyer les données d’enregistrement à Marketo.
+>Pour une intégration réussie, vous devez utiliser un formulaire Marketo pour enregistrer vos personnes pour l’événement, ou un formulaire non Marketo avec l’intégration d’API appropriée pour transmettre les données d’enregistrement à Marketo.
 
-## Courriers électroniques et jetons d’URL {#emails-and-url-tokens}
+## Emails et jetons d’URL {#emails-and-url-tokens}
 
-Créez l’invitation, la confirmation, le suivi et les e-mails de remerciement à l’aide de Marketing Cloud.
+Créez l’invitation, la confirmation, le suivi et remerciez les emails à l’aide de Marketo.
 
-## Courrier électronique de confirmation du marketing et jeton d’URL {#marketo-confirmation-email-and-url-token}
+## Marketo Confirmation Email et jeton URL {#marketo-confirmation-email-and-url-token}
 
-Utilisez Marketing pour envoyer le courriel de confirmation de votre événement. Lorsqu’une personne s’enregistre, elle reçoit une URL unique à utiliser pour entrer dans le événement.
+Utilisez Marketo pour envoyer l’e-mail de confirmation de votre événement. Lorsqu’une personne s’inscrit, elle reçoit une URL unique à utiliser pour entrer dans l’événement.
 
 >[!NOTE]
 >
->Pour renseigner votre message de confirmation avec cette URL unique, utilisez le jeton suivant dans votre message électronique : `{{member.webinar url}}`. Lorsque vous envoyez l’URL de confirmation, ce jeton correspond automatiquement à l’URL de confirmation unique de la personne.
+>Pour renseigner votre email de confirmation avec cette URL unique, utilisez le jeton suivant dans votre email : `{{member.webinar url}}`. Lorsque vous envoyez l’URL de confirmation, ce jeton correspond automatiquement à l’URL de confirmation unique de la personne.
 >
->Définissez le type de votre courriel de confirmation sur **Operational** pour vous assurer que les personnes qui s&#39;inscrivent reçoivent leurs informations de confirmation, même si elles ne sont pas abonnées.
+>Définissez le type de votre email de confirmation sur **Opérationnel** pour s&#39;assurer que les personnes qui s&#39;inscrivent reçoivent leurs informations de confirmation, même si elles sont désabonnées.
 
 >[!TIP]
 >
->Vous pouvez configurer ON24 pour envoyer des messages de confirmation, de rappel ou de suivi. Pour plus d&#39;informations, consultez le [site d&#39;aide ON24](https://webcastelitehelp.on24.com).
+>Vous pouvez configurer ON24 pour envoyer des emails de confirmation, de rappel ou de relance. Voir [Site d’aide ON24](https://www.on24.com/live-webcast-elite/) pour plus d’informations.
 
-## Conditions requises pour l&#39;inscription des Campaign enfants {#registration-child-campaign-requirements}
+## Exigences d’enregistrement des campagnes enfants {#registration-child-campaign-requirements}
 
-Les événements contiennent une ou plusieurs campagnes enfants qui fonctionnent toutes ensemble pour déplacer les personnes à travers les états de programme et vous permettent de suivre les performances de votre événement.
+Les événements contiennent une ou plusieurs campagnes enfants qui fonctionnent toutes ensemble pour déplacer les personnes à travers les statuts de programme et vous permettre de suivre les performances de votre événement.
 
-Les campagnes enfants sont, par exemple, une campagne d’invitation, une campagne d’enregistrement et des campagnes de suivi.
+Par exemple, une campagne d’invitation, une campagne d’enregistrement et des campagnes de suivi.
 
 >[!CAUTION]
 >
->Pour que l&#39;adaptateur puisse faire son travail, vous DEVEZ créer une campagne d&#39;enregistrement. Cette campagne doit être déclenchée par la personne qui remplit un formulaire et la première étape doit modifier l’état de programme de la personne en **Enregistrée**. La campagne envoie ensuite un message de confirmation. Consultez le reste de cet article pour plus de détails.
+>Pour que l’adaptateur effectue sa tâche, vous DEVEZ créer une campagne d’enregistrement. Cette campagne doit être déclenchée par la personne qui remplit un formulaire. La première étape doit modifier l’état du programme de la personne en **Inscrits**. L&#39;opération envoie alors un email de confirmation. Consultez le reste de cet article pour plus de détails.
 
-**Inscription/Confirmation (Trigger Campaign)**
+**Enregistrement/Confirmation (campagne de déclenchement)**
 
 * Liste intelligente
-* Déclencheur basé sur **Remplit le formulaire**. Veillez à inclure le landing page sur lequel réside le formulaire en utilisant **Ajoute Constraint**, en particulier si le même formulaire est utilisé sur plusieurs landings page.
+* Déclencheur basé sur **Remplir le formulaire**. Veillez à inclure la page d’entrée sur laquelle se trouve le formulaire en utilisant **Ajouter une contrainte**, en particulier si le même formulaire est utilisé sur plusieurs landing pages.
 
 >[!CAUTION]
 >
->Vous devez utiliser un formulaire Marketo pour enregistrer vos utilisateurs pour le événement, ou un formulaire non Marketo avec l’intégration d’API appropriée pour envoyer les données d’enregistrement à Marketo. Ceci est essentiel à la réussite de l’intégration de votre partenaire de événement.
+>Vous devez utiliser un formulaire Marketo pour enregistrer vos utilisateurs pour l’événement, ou un formulaire non Marketo avec l’intégration d’API appropriée pour envoyer les données d’enregistrement vers Marketo. C’est essentiel au succès de l’intégration de votre partenaire d’événement.
 
 >[!NOTE]
 >
->Si vous utilisez un formulaire Marketo sur un landing page non Marketo, votre déclencheur sera **Remplit le formulaire** avec le nom du formulaire.
+>Si vous utilisez un formulaire Marketo sur une page d’entrée autre que Marketo, votre déclencheur sera **Remplir le formulaire** par le nom du formulaire.
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Flux**
 
-* **Modifier l&#39;état**  du Programme - Définir sur Webinaire -> Inscrit.
+* **Modifier l’état du programme** - Défini sur Webinaire -> Enregistré.
 
-Cette étape de flux est requise en tant que PREMIÈRE ÉTAPE de flux lors de la configuration de votre campagne enfant. Lorsqu’un état de programme d’une personne devient Enregistré, Marketo envoie les informations d’enregistrement à ON24. Aucun autre statut ne poussera la personne vers le bas.
+Cette étape de flux est requise comme première étape de flux lors de la configuration de votre campagne enfant. Lorsque l’état du programme d’une personne passe à Registered, Marketo transmet les informations d’enregistrement à ON24. Aucun autre statut ne repoussera la personne.
 
-* **Envoyer un courriel**  - Confirmation par courriel. Définissez ce courrier électronique sur **Opérationnel** de sorte que les personnes qui se sont abonnées et qui se sont inscrites le reçoivent toujours.
+* **Envoyer un courrier électronique** - Adresse électronique de confirmation. Définissez cet e-mail sur **Opérationnel** pour que les personnes désinscrites qui se sont inscrites continuent de le recevoir.
 
-L’étape de flux **Envoyer un courrier électronique** DOIT être la deuxième étape. Le courrier électronique de confirmation contient le `{{member.webinar url}}`, qui est renseigné par les informations renvoyées à Marketo à partir de ON24.
+Le **Envoyer un courrier électronique** étape de flux DOIT être la deuxième étape. L’e-mail de confirmation contient la variable `{{member.webinar url}}`, qui est renseignée avec les informations renvoyées à Marketo à partir de ON24.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->L’ordre de ces étapes de flux est important en raison de l’ordre dans lequel les actions sont exécutées dans Marketing. L&#39;étape **Modifier l&#39;état du Programme** envoie la personne à ON24 pour qu&#39;elle s&#39;enregistre et une URL unique est générée. Après cela, vous pouvez envoyer le courrier électronique de confirmation contenant cette URL unique à l’aide du jeton `{{member.webinar URL}}`.
+>L’ordre de ces étapes de flux est important en raison de l’ordre dans lequel les actions sont exécutées dans Marketo. Le **Modifier l’état du programme** L’étape envoie la personne à ON24 pour l’enregistrer et une URL unique est générée. Ensuite, vous pouvez envoyer l’e-mail de confirmation contenant cette URL unique à l’aide de la variable `{{member.webinar URL}}` jeton.
 >
->Si la personne est renvoyée avec une erreur d’enregistrement, elle ne recevra pas la confirmation par courrier électronique.
+>Si la personne est renvoyée avec une erreur d’enregistrement, elle ne recevra pas la confirmation par email.
 
-L’étape suivante consiste à [tester l’intégration de votre événement ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
+L’étape suivante consiste à [test de l’intégration de votre événement ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
 
 >[!MORELIKETHIS]
 >
->* [Présentation des Événements d&#39;adaptateurs Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
->* [Exemple d’intégration de Événement ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [Comprendre l&#39;état des Programmes du webinaire](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+>* [Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [Exemple d’intégration d’événement ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [Présentation des états du programme du webinaire](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 
