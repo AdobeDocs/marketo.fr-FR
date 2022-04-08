@@ -1,32 +1,29 @@
 ---
 unique-page-id: 10096409
-description: Evitez d’envoyer du contenu Duplicata - Docs marketing - Documentation du produit
-title: Evitez d’envoyer du contenu Duplicata
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Évitez d’envoyer du contenu en double - Documents Marketo - Documentation du produit
+title: Éviter d’envoyer du contenu en double
+exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
+source-git-commit: daaf3dc9b4da95db743409c6e2a6c426ed00e9c7
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '201'
+ht-degree: 3%
 
 ---
 
+# Éviter d’envoyer du contenu en double {#avoid-sending-duplicate-content}
 
-# Evitez d’envoyer le contenu du Duplicata {#avoid-sending-duplicate-content}
+Avez-vous déjà reçu deux fois le même email ? C&#39;est embêtant, n&#39;est-ce pas ?
 
-Avez-vous déjà reçu deux fois le même courriel ? Agaçante, n&#39;est-ce pas ?
-
-Voici sept scénarios et résultats possibles à connaître pour éviter d’envoyer deux fois le même message à quelqu’un avec des programmes d’engagement.
+Vous trouverez ci-dessous sept scénarios et résultats possibles à connaître pour éviter d’envoyer à une personne le même message deux fois avec des programmes d’engagement.
 
 ## Scénarios {#scenarios}
 
-Une personne reçoit un courrier électronique envoyé par le moteur d’engagement du client.
-
-| Le courrier électronique est envoyé à partir de | La personne est | Personne reçoit un courriel |
+| L’email est envoyé à partir de | La personne est | La personne reçoit un courrier électronique |
 |---|---|---|
-| Une campagne dans un programme distinct, autonome et par défaut | Non membre du programme par défaut | Oui |
-| Une campagne dans un programme distinct, autonome et par défaut | Membre du programme par défaut | Non |
-| Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans le programme CEE **same** | Membre du programme par défaut | Non |
-| Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans le programme CEE **same** | Non membre du programme par défaut | Oui |
-| Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans un programme CEE **différent** | Membre du programme par défaut | Non |
-| Une campagne dans un programme par défaut qui est déclenchée à partir d’un cast dans un programme CEE **différent** | Non membre du programme par défaut | Oui |
-| Un programme CEE **différent** utilisant un flux dynamique | Un membre des deux programmes CEE | Non |
+| Une campagne dans un programme distinct, autonome et par défaut | Pas membre du programme par défaut | Oui |
+| Une campagne dans un programme distinct, autonome et par défaut | Un membre du programme par défaut | Non |
+| Une campagne dans un programme par défaut qui est déclenchée à partir d’une diffusion dans le **same** programme CEE | Un membre du programme par défaut | Non |
+| Une campagne dans un programme par défaut qui est déclenchée à partir d’une diffusion dans le **same** programme CEE | Pas membre du programme par défaut | Oui |
+| Une campagne au sein d’un programme par défaut qui est déclenchée à partir d’une diffusion dans un **différent** programme CEE | Un membre du programme par défaut | Non |
+| Une campagne au sein d’un programme par défaut qui est déclenchée à partir d’une diffusion dans un **différent** programme CEE | Pas membre du programme par défaut | Oui |
+| A **différent** Programme CEE utilisant un flux dynamique | Un membre des deux programmes du CEE | Non |
