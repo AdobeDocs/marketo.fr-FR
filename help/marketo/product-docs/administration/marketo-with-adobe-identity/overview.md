@@ -2,9 +2,9 @@
 description: Présentation - Documents Marketo - Documentation du produit
 title: APERÇU
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Les abonnements Marketo existants seront migrés vers le système Identity Manag
 
 ## Niveaux de profil {#profile-levels}
 
-Les abonnements à Adobe Marketo Engage intégrés à Adobe Identity Management System prennent en charge divers profils. Voici les types de profils utilisateur pertinents dans cette intégration.
+Les abonnements Adobe Marketo Engage intégrés à Adobe Identity Management System prennent en charge divers profils. Voici les types de profils utilisateur pertinents dans cette intégration.
 
 <table>
  <tr>
@@ -77,6 +77,10 @@ Oui. Ceux qui ont été intégrés à Adobe IMS ne peuvent pas utiliser toutes l
 **Qui contacter pour obtenir de l’aide si nous sommes intégrés à IMS ?**
 
 Vous devez suivre la procédure standard pour contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+
+**Si j’utilise une identité d’Adobe pour accéder à d’autres applications d’Adobe, puis-je l’utiliser pour accéder à Marketo ?**
+
+Même si vous disposez d’autres produits Adobe, vous ne pouvez pas accéder à Marketo avec l’Adobe Identity tant que l’abonnement n’est pas migré vers IMS.
 
 **Les rôles utilisateur Marketo (dans les espaces de travail) sont-ils gérés dans Adobe Admin Console ?**
 
