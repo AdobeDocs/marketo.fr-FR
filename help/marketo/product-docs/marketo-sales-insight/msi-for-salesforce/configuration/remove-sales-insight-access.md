@@ -2,7 +2,7 @@
 description: Suppression de l’accès Sales Insight - Documents Marketo - Documentation du produit
 title: Suppression de l’accès à Sales Insight
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 5%
@@ -68,8 +68,8 @@ Pour accéder à toutes les fonctionnalités d’aperçu des ventes, vous devez 
  </tbody> 
 </table>
 
-* Accès à la classe Apex : 159 classes Apex avec &quot;mkto_si&quot;
-* Visualforce Page Access : 64 Pages Visualforce avec &quot;mkto_si&quot;
+* Accès à la classe Apex : 159 classes Apex commençant par &quot;mkto_si&quot;
+* Visualforce Page Access : 64 Pages Visualforce commençant par &quot;mkto_si&quot;
 * Définitions des paramètres personnalisés : Paramètres mkto_si.Marketo et préférences de l’utilisateur mkto_si.User
 
 ## Suppression de l’accès à Sales Insight {#removing-access-to-sales-insight}

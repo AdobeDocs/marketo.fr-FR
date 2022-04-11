@@ -2,7 +2,7 @@
 description: Ajout d’un jeu d’autorisations Sales Insight - Documents Marketo - Documentation du produit
 title: Ajouter un jeu d’autorisations Sales Insight
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 3%
@@ -76,8 +76,8 @@ L’autorisation &quot;Application Marketo&quot; fait partie du package Salesfor
  </tbody> 
 </table>
 
-* Accès à la classe Apex : 159 classes Apex avec &quot;mkto_si&quot;
-* Visualforce Page Access : 64 Pages Visualforce avec &quot;mkto_si&quot;
+* Accès à la classe Apex : 159 classes Apex commençant par &quot;mkto_si&quot;
+* Visualforce Page Access : 64 Pages Visualforce commençant par &quot;mkto_si&quot;
 * Définitions des paramètres personnalisés : Paramètres mkto_si.Marketo et préférences de l’utilisateur mkto_si.User
 
 ## Ajout d’un jeu d’autorisations d’application Marketo aux utilisateurs {#adding-marketo-app-permission-set-to-users}
