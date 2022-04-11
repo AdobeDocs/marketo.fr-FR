@@ -1,25 +1,28 @@
 ---
 unique-page-id: 6849070
-description: Téléchargez la solution Marketing to Sales Insight pour Microsoft Dynamics - Marketo Docs - Documentation sur les produits
-title: Téléchargement de la solution Marketing Cloud Sales Insight pour Microsoft Dynamics
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Téléchargez la solution Marketo Sales Insight pour Microsoft Dynamics - Documentation Marketo - Documentation du produit
+title: Téléchargement de la solution Marketo Sales Insight pour Microsoft Dynamics
+exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 4%
 
 ---
 
-
-# Téléchargez la solution Marketing to Sales Insight pour Microsoft Dynamics {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Téléchargement de la solution Marketo Sales Insight pour Microsoft Dynamics {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-Vous devrez télécharger et installer une solution Marketing pour Sales Insight dans votre compte Microsoft Dynamics pour lancer la synchronisation.
+>[!IMPORTANT]
+>
+>Le module externe sur cette page est destiné aux utilisateurs de la synchronisation avec Marketo Engage à l’aide de Marketo qui  la solution de synchronisation CRM native vers Dynamics. Pour les utilisateurs qui disposent d’une synchronisation personnalisée et qui ont acheté Marketo Sales Insight, la variable [package ici](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
 
-1. Accédez à la zone **Admin**.
+Vous devrez télécharger et installer une solution Marketo pour Sales Insight dans votre compte Microsoft Dynamics pour lancer la synchronisation.
+
+1. Cliquez sur l&#39;icône **Admin**.
 
    ![](assets/mainnavhand.png)
 
@@ -27,11 +30,11 @@ Vous devrez télécharger et installer une solution Marketing pour Sales Insight
 
    ![](assets/image2015-3-11-13-3a7-3a11.png)
 
-1. Sélectionnez **Microsoft**.
+1. Sélectionner **Microsoft**.
 
    ![](assets/image2016-5-3.png)
 
-1. Sélectionnez **Télécharger la solution marketing**.
+1. Sélectionner **Télécharger la solution Marketo**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
@@ -39,4 +42,4 @@ Vous devrez télécharger et installer une solution Marketing pour Sales Insight
 
    ![](assets/msd-online.png)
 
-Super ! Un fichier zip de la solution sera téléchargé sur votre périphérique.
+Fantastique ! Un fichier zip de la solution sera téléchargé sur votre appareil.

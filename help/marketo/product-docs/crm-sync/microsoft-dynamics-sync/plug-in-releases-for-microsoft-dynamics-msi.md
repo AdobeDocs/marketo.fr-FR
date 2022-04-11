@@ -3,10 +3,10 @@ unique-page-id: 10099102
 description: Versions de module externe pour Microsoft Dynamics MSI - Documents Marketo - Documentation du produit
 title: Versions de module externe pour Microsoft Dynamics MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
-source-git-commit: 7b22aec56d15826c1fecd2cf026c561c4df8531c
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 7%
+source-wordcount: '342'
+ht-degree: 6%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 7%
 
 Lorsque vous vous synchronisez pour la première fois avec Microsoft Dynamics, vous téléchargez et installez la dernière version des plug-ins pour Marketo Sales Insight (MSI). Régulièrement, Marketo met à jour ces plug-ins afin que vous puissiez revenir au même endroit pour télécharger la nouvelle version.
 
-Veuillez [télécharger le dernier module externe](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) correspondant à votre version Dynamics.
+Si vous utilisez Marketo pour la synchronisation CRM native avec Dynamics, veuillez [télécharger le dernier module externe](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target=&quot;_blank&quot;} correspondant à votre version Dynamics. Pour les utilisateurs qui disposent d’une synchronisation personnalisée et qui ont acheté Marketo Sales Insight, la variable [package ici](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
 
 >[!NOTE]
 >
