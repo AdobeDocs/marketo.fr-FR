@@ -1,9 +1,9 @@
 ---
-unique-page-id: 14352621
 description: Présentation des options d’envoi de campagne de ventes pour les étapes de courrier électronique - Documents Marketo - Documentation du produit
 title: Présentation des options d’envoi de campagne de ventes pour les étapes de courrier électronique
-exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
-source-git-commit: 540bb61b9accf199e2be841086a6204064762861
+hide: true
+hidefromtoc: true
+source-git-commit: 468488010259c5d81cccf741db5cc4b98d20d9ea
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 5%
