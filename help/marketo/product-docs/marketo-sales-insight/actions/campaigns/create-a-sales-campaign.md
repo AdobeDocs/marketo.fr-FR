@@ -1,32 +1,31 @@
 ---
 description: Création d’une campagne de ventes - Documents Marketo - Documentation du produit
 title: Créer une campagne de ventes
-hide: true
-hidefromtoc: true
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Créer une campagne de ventes {#create-a-sales-campaign}
 
-Les campagnes sont une série d’étapes multicanaux, notamment : emails, appels téléphoniques, InMail et tâches personnalisées. Elles vous permettent de rationaliser vos communications avec vos clients potentiels et existants.
+Les campagnes commerciales sont une série d’étapes multicanaux, notamment : emails, appels téléphoniques, InMail et tâches personnalisées. Elles vous permettent de rationaliser vos communications avec vos clients potentiels et existants.
 
-Avec les campagnes, vous pouvez :
+Avec les campagnes de ventes, vous pouvez :
 
 * **Organisation**: Rationalisez toutes vos activités de sensibilisation au sein d’un seul et même endroit pour une exécution efficace.
 * **Échelle**: Planifiez tous vos efforts de sensibilisation afin de réduire vos efforts, de minimiser le travail manuel et de personnaliser autant que nécessaire.
 * **Mesure**: Suivez la réussite de tous vos emails et tâches à un seul endroit tout en les connectant automatiquement à Salesforce. En sachant ce qui a de l’impact et conduit aux résultats, vous pouvez constamment tester et améliorer vos résultats.
 
-Alors, comment configurer une campagne ?
+Alors, comment configurer une campagne de ventes ?
 
 1. Cliquez sur le bouton **Campagnes** .
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. Sélectionnez une catégorie et cliquez sur le bouton **Création d’une campagne** pour créer une campagne.
+1. Sélectionnez une catégorie et cliquez sur le bouton **Créer une campagne** bouton .
 
    ![](assets/create-a-sales-campaign-2.png)
 
@@ -56,13 +55,13 @@ Alors, comment configurer une campagne ?
 
    >[!NOTE]
    >
-   >&quot;Jours&quot; ne sont pas le nombre de jours entre les actions, mais le jour dans la séquence. Par exemple, si votre campagne va durer 7 jours, la saisie de &quot;3&quot; signifie que l’action sera lancée le jour 3 du 7, **not** 3 jours plus tard.
+   >&quot;Jours&quot; ne sont pas le nombre de jours entre les actions, mais le jour dans la séquence. Par exemple, si votre campagne de ventes durera 7 jours, la saisie de &quot;3&quot; signifie que l’action sera lancée les 3 du 7, **not** 3 jours plus tard.
 
-1. Veillez à personnaliser les options de planification et de réponse, telles que sauter les week-ends (ce qui est génial) en consultant la **Onglet Paramètres** pour votre campagne.
+1. Veillez à personnaliser les options de planification et de réponse, telles que sauter les week-ends (ce qui est génial) en consultant la **Onglet Paramètres** pour votre campagne de ventes.
 
    ![](assets/create-a-sales-campaign-8.png)
 
-Il est maintenant temps d&#39;ajouter des personnes à votre campagne !
+Il est maintenant temps d&#39;ajouter des gens !
 
 >[!MORELIKETHIS]
 >

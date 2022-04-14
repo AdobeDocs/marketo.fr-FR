@@ -1,19 +1,17 @@
 ---
 description: Paramètres de campagne de vente - Documents Marketo - Documentation du produit
 title: Paramètres de campagne de ventes
-hide: true
-hidefromtoc: true
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
-source-git-commit: 297b97d215f98c987bee5da7d6db82f6153602cc
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Paramètres de campagne de ventes {#sales-campaign-settings}
 
-La section Paramètres de campagne de ventes vous permet de configurer une campagne de ventes spécifique afin qu’elle puisse fonctionner de la manière la plus adaptée aux cas d’utilisation de votre équipe pour cette campagne.
+La section Paramètres de campagne de ventes vous permet de configurer une campagne de ventes spécifique afin qu’elle puisse fonctionner de la manière la plus adaptée aux cas d’utilisation de votre équipe pour cette campagne de ventes.
 
 ## Ignorer les week-ends {#skip-weekends}
 
@@ -27,7 +25,7 @@ Activez l’option Ignorer les week-ends afin que toutes les étapes qui auraien
 
    ![](assets/sales-campaign-settings-1.png)
 
-1. Choisissez la campagne souhaitée.
+1. Choisissez la campagne de ventes souhaitée.
 
    ![](assets/sales-campaign-settings-2.png)
 
@@ -41,13 +39,13 @@ Activez l’option Ignorer les week-ends afin que toutes les étapes qui auraien
 
 ## Supprimer lors du rebond {#remove-on-bounce}
 
-Si vous utilisez la connexion par e-mail, nous détecterons les rebonds en fonction du message rebond envoyé à la boîte de réception des utilisateurs. De plus, nous pouvons supprimer des personnes des campagnes lorsqu’un rebond est détecté.
+Si vous utilisez la connexion par e-mail, nous détecterons les rebonds en fonction du message rebond envoyé à la boîte de réception des utilisateurs. De plus, nous pouvons supprimer des personnes des campagnes de ventes lorsqu’un rebond est détecté.
 
 1. Cliquez sur **Campagnes**.
 
    ![](assets/sales-campaign-settings-5.png)
 
-1. Choisissez la campagne souhaitée.
+1. Choisissez la campagne de ventes souhaitée.
 
    ![](assets/sales-campaign-settings-6.png)
 
@@ -67,7 +65,7 @@ Si le suivi des réponses est activé pour Gmail ou Exchange, nous pouvons autom
 
    ![](assets/sales-campaign-settings-9.png)
 
-1. Choisissez la campagne souhaitée.
+1. Choisissez la campagne de ventes souhaitée.
 
    ![](assets/sales-campaign-settings-10.png)
 
