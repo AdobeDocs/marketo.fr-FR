@@ -2,9 +2,9 @@
 description: Présentation - Documents Marketo - Documentation du produit
 title: APERÇU
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: a5d6b3960957aa262fee7372b90f3609e1e19cce
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 7%
 
 ---
@@ -24,7 +24,7 @@ Bienvenue dans l’expérience de Marketo Engage de nouvelle génération, une n
 
 ## Visite {#take-the-tour}
 
-Lors de la première connexion, une fenêtre contextuelle s’affiche, prête à vous donner l’aperçu de la nouvelle expérience. Si vous choisissez de l’ignorer, **et** ne seront pas disponibles ultérieurement.
+Lors de la première connexion, une fenêtre contextuelle s’affiche, prête à vous donner l’aperçu de la nouvelle expérience. En tête, si vous choisissez de l’ignorer, il sera **not** être disponible ultérieurement.
 
 ![](assets/overview-1.png)
 
@@ -38,7 +38,7 @@ Cette expérience de nouvelle génération comporte de nombreuses nouvelles fonc
 
 **Icônes**
 
-La nouvelle interface présente une iconographie améliorée et développée. En savoir plus ici : [Icône Glossaire](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
+La nouvelle interface présente une iconographie améliorée et développée. En savoir plus ici : [Glossaire des icônes](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
 
 ![](assets/overview-new-icons.png)
 
@@ -60,7 +60,7 @@ Une tonne de nouvelles fonctions d’arborescence sont disponibles.
 
 >[!NOTE]
 >
->L’exécution d’une recherche dans l’arborescence affiche uniquement les 250 premiers résultats. Si, après une recherche, vous ne parvenez pas à localiser votre ressource, utilisez la fonction [Recherche globale](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md).
+>L’exécution d’une recherche dans l’arborescence affiche uniquement les 250 premiers résultats. Si, après une recherche, vous ne parvenez pas à localiser votre ressource, utilisez la variable [Recherche globale](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) fonction .
 
 **Marketo Classic et le nouveau Marketo**
 
@@ -192,7 +192,7 @@ Découvrez la nouvelle navigation globale.
   </tr>
   <tr>
    <td>3</td> 
-   <td>Utilisez-le pour fournir des commentaires sur votre expérience MEUE</td> 
+   <td>Utilisez-le pour fournir des commentaires sur votre expérience.</td> 
   </tr>
   <tr>
    <td>4</td> 
