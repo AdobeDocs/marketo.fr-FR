@@ -2,9 +2,9 @@
 description: Guide d’administration des actions Sales Insight - Documents Marketo - Documentation du produit
 title: Guide d’administration des actions Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '588'
 ht-degree: 1%
 
 ---
@@ -109,6 +109,10 @@ Si vous êtes déjà connecté à Salesforce, vous serez connecté. Si ce n’es
 ## Lancer la synchronisation des données {#initiate-data-sync}
 
 La synchronisation des champs d’unification des données pour les actions d’aperçu des ventes permet au système d’extraire des informations sur les personnes de votre base de données de Marketo Engage dans votre base de données d’actions d’aperçu des ventes, de mettre à jour les données de vos personnes et de s’assurer que les activités sont consignées dans les bons enregistrements dans Marketo et Salesforce.
+
+>[!CAUTION]
+>
+>Une fois la synchronisation des données lancée, vous devez **not** supprimez l’utilisateur d’origine sur votre instance d’actions Sales Insight. Il s’agit de l’utilisateur auquel la première invitation a été envoyée.
 
 1. Dans Marketo, cliquez sur **Administration**.
 
