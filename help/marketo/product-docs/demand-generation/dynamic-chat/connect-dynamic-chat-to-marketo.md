@@ -2,9 +2,9 @@
 description: Connexion de Dynamic Chat à Marketo - Documents Marketo - Documentation du produit
 title: Connexion de la messagerie dynamique à Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
+source-git-commit: 9b49c9f0ee03ab72672f46618fb24eed174bf835
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Ensuite, il est temps de lier Adobe et Marketo.
 
 1. Connectez-vous à [experience.adobe.com](https://experience.adobe.com).
 
-1. Copiez l’ID d’organisation dans le coin inférieur droit de la page d’accueil, _moins_ le &quot;@AdobeOrg.&quot;
+1. Cliquez sur l’écran n’importe où dans Experience Cloud et appuyez sur ctrl+i. Dans le **Organisation affectée** , mettez en surbrillance et copiez l’ID d’organisation (_moins_ le &quot;@AdobeOrg&quot;). Press **Fermer** une fois terminé.
 
    ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
