@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
+source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
 workflow-type: tm+mt
-source-wordcount: '8654'
+source-wordcount: '8658'
 ht-degree: 5%
 
 ---
@@ -188,6 +188,7 @@ ht-degree: 5%
          + [Modification des paramètres de prise en charge du navigateur &quot;Ne pas suivre&quot;](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Modifier les paramètres de la page d’entrée](product-docs/administration/settings/edit-landing-page-settings.md)
          + [Modifier l’expiration du lien dans les rapports et alertes](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
+         + [En-têtes de lien de suivi des emails](product-docs/administration/settings/email-tracking-link-headers.md)
          + [Modifier les paramètres d’abonnement](product-docs/administration/settings/edit-subscription-settings.md)
          + [Activation ou désactivation des fonctionnalités Treasure Chest](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Activation des URL personnalisées pour votre compte (Administration)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
