@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Champs personnalisés des membres du programme - Documents Marketo - Documentation du produit
 title: Champs personnalisés des membres du programme
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '427'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ Les champs personnalisés Membres du programme vous permettent de collecter des 
 
    >[!NOTE]
    >
-   >Les types pris en charge pour les champs personnalisés des membres du programme sont les suivants : booléen, date, datetime, float, entier, chaîne, URL. [En savoir plus sur les types de champ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Les types pris en charge pour les champs personnalisés des membres du programme sont les suivants : booléen, date, datetime, float, entier, chaîne, URL. [En savoir plus sur les types de champ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target=&quot;_blank&quot;}.
 
 ## Descriptions des objets {#object-descriptions}
 
@@ -59,7 +59,7 @@ Les champs personnalisés Membres du programme vous permettent de collecter des 
 
 ## Déclencheurs et filtres {#triggers-and-filters}
 
-Vous pouvez exploiter ces données spécifiques au programme dans des listes dynamiques via [triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) et/ou [filtres](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
+Vous pouvez exploiter ces données spécifiques au programme dans des listes dynamiques via [triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target=&quot;_blank&quot;} et/ou [filtres](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target=&quot;_blank&quot;}.
 
 ![](assets/six.png)
 
@@ -70,10 +70,11 @@ Vous pouvez exploiter ces données spécifiques au programme dans des listes dyn
 * L’objet membre du programme peut comporter jusqu’à 20 champs personnalisés. Ces champs sont disponibles pour tous les programmes.
 * Lorsque vous supprimez un membre d’un programme, si le champ personnalisé Membre du programme contient des données, celles-ci sont supprimées de ce champ.
 * Pour afficher les données, cliquez sur l’onglet Membres du programme et créez une vue personnalisée qui inclut ces champs.
-* Import et export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) et [API](https://developers.marketo.com/) sont prises en charge. Les exportations ne fonctionnent que sur les listes de membres de programme, et non sur les listes statiques.
+* Import et export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} et [API](https://developers.marketo.com/){target=&quot;_blank&quot;} sont pris en charge. Les exportations ne fonctionnent que sur les listes de membres de programme, et non sur les listes statiques.
 * Lorsque vous fusionnez deux personnes, les données de champ personnalisées Membre du programme du gagnant sont utilisées. Mais si le gagnant n’en a pas, la valeur du perdant sera utilisée.
-* Le type de modification est **not** autorisés dans les champs Informations sur les membres du programme.
+* Le type de modification n’est pas autorisé dans les champs Informations sur les membres du programme.
+* La contrainte Liste dynamique &quot;contient&quot; n’est pas prise en charge pour les champs personnalisés Membres du programme.
 
 >[!MORELIKETHIS]
 >
->[Création d’un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Création d’un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}

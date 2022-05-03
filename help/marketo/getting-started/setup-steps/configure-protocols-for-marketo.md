@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Configuration de protocoles pour Marketo - Documents Marketo - Documentation du produit
 title: Configuration de protocoles pour Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '1018'
 ht-degree: 1%
 
 ---
@@ -25,9 +25,7 @@ Cet article doit être partagé avec le service informatique de la société sou
 >Si votre équipe informatique restreint l’accès web à l’aide d’une liste autorisée, demandez-lui d’ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et tous les websockets Marketo :
 
 * `*.marketo.com`
-
 * `*.marketodesigner.com`
-
 * `*.mktoweb.com`
 
 ## Étape 1 : Création d’enregistrements DNS pour les pages d’entrée et les courriers électroniques {#step-create-dns-records-for-landing-pages-and-email}
@@ -57,6 +55,10 @@ Par exemple :
 
 Avertissez votre équipe marketing lorsque vous avez terminé ce processus.
 
+`4` **Contact [Prise en charge de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} pour lancer le processus de mise en service d’un certificat SSL.**
+
+Ce processus peut prendre jusqu’à 3 jours ouvrables.
+
 ## Étape 2 : Placer sur la liste autorisée les adresses IP de Marketo {#step-allowlist-marketo-ips}
 
 Lorsque votre groupe marketing utilise Marketo pour envoyer des emails de test (une bonne pratique avant d’envoyer des messages indésirables), les emails de test sont parfois bloqués par des systèmes anti-spam qui reposent sur des adresses IP d’expéditeur pour vérifier que l’email est valide. Pour vous assurer que ces courriers électroniques de test arrivent, ajoutez Marketo à votre liste autorisée.
@@ -71,7 +73,7 @@ Ajoutez les adresses IP suivantes à la liste autorisée de votre entreprise :
 103.237.104.0/22\
 94.236.119.0/26
 
-Certains systèmes anti-spam utilisent le champ Chemin d’accès au retour de l’email au lieu de l’adresse IP pour la mise en liste autorisée. Dans ces cas, la meilleure approche consiste à placer sur la liste autorisée &quot;*.mktomail.com&quot;, car Marketo utilise plusieurs sous-domaines de boîte aux lettres. D’autres systèmes anti-spam placent sur la liste autorisée en fonction de l’adresse de l’expéditeur. Dans ce cas, veillez à inclure tous les domaines d’envoi (&quot;De&quot;) que votre groupe marketing utilise pour communiquer avec les personnes/prospects.
+Certains systèmes anti-spam utilisent le champ Chemin d’accès au retour de l’email au lieu de l’adresse IP pour la mise en liste autorisée. Dans ce cas, la meilleure approche consiste à placer sur la liste autorisée &quot;&#42;.mktomail.com&quot;, car Marketo utilise plusieurs sous-domaines de boîte aux lettres. D’autres systèmes anti-spam placent sur la liste autorisée en fonction de l’adresse de l’expéditeur. Dans ce cas, veillez à inclure tous les domaines d’envoi (&quot;De&quot;) que votre groupe marketing utilise pour communiquer avec les personnes/prospects.
 
 >[!NOTE]
 >
