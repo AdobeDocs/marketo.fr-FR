@@ -1,12 +1,10 @@
 ---
 description: En-têtes de lien de suivi des emails - Documents Marketo - Documentation du produit
 title: En-têtes de lien de suivi des emails
-hide: true
-hidefromtoc: true
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: dcca897dc5014a2179fe35a031ba2f9e5b2dbaf4
+source-git-commit: e9a41359a4a03f323312b61ab5afc820140b6fee
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -30,7 +28,7 @@ Suivez les étapes ci-dessous pour personnaliser les en-têtes de lien de suivi 
 <table>
  <tr>
   <td><strong>Strict Transport-Security</strong></td>
-  <td>Utilisez cette option pour garantir que les connexions aux landing pages seront toujours diffusées via HTTPS (ne doit être définie que pour les abonnements avec des landing pages sécurisées par SSL).</td>
+  <td>Utilisez cette option pour garantir que les liens de suivi seront toujours diffusés via HTTPS (ne doit être défini que pour les abonnements avec des liens de suivi sécurisés par SSL).</td>
  </tr>
 </table>
 
