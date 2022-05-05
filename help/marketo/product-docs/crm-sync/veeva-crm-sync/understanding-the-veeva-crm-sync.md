@@ -2,7 +2,7 @@
 description: Présentation de la synchronisation CRM Veeva - Documents Marketo - Documentation du produit
 title: Présentation de la synchronisation CRM Veeva
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: 884c9a27f3876ec3036f2f7187db30565cdd49a7
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -30,7 +30,7 @@ La synchronisation entre Veeva et Marketo Engage est bidirectionnelle uniquement
 * [Comptes de personne](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target=&quot;_blank&quot;}
 * Utilisateurs
 * [Appeler et appeler des objets clés](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target=&quot;_blank&quot;}
-* [Objets personnalisés](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md){target=&quot;_blank&quot;}
+* [Objets personnalisés](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target=&quot;_blank&quot;}
 
 ## Informations à connaître {#things-to-know}
 
