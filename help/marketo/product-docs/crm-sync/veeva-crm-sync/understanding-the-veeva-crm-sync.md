@@ -1,12 +1,11 @@
 ---
 description: Présentation de la synchronisation CRM Veeva - Documents Marketo - Documentation du produit
 title: Présentation de la synchronisation CRM Veeva
-hide: true
-hidefromtoc: true
-source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
+exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
+source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 1%
+source-wordcount: '256'
+ht-degree: 0%
 
 ---
 
@@ -28,14 +27,14 @@ La synchronisation entre Veeva et Marketo Engage est bidirectionnelle uniquement
 
 ## Ce qui est synchronisé entre Marketo Engage et Veeva {#what-is-synced-between-marketo-engage-and-veeva}
 
-* Comptes de personne
+* [Comptes de personne](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target=&quot;_blank&quot;}
 * Utilisateurs
-* Appeler et appeler des objets clés
-* Objets personnalisés
+* [Appeler et appeler des objets clés](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target=&quot;_blank&quot;}
+* [Objets personnalisés](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md){target=&quot;_blank&quot;}
 
 ## Informations à connaître {#things-to-know}
 
-* Les informations d’identification que vous saisissez en Marketo Engage pour Veeva sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
+* Le [informations d’identification que vous saisissez en Marketo Engage pour Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target=&quot;_blank&quot;} sont utilisés pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
 
 * Veeva CRM est basé sur force.com et le riche Marketo Engage d&#39;expérience avec la plateforme est hérité dans cette synchronisation.
 
