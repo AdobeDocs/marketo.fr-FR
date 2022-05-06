@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
+source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,8 @@ Nous fournissons la vue Détails du modèle d’email dans Design Studio dans l�
 **Vérification des emails et unicité**: À compter du mois d’avril, le déploiement de la vérification des courriers électroniques commencera. À ce stade, les adresses électroniques des utilisateurs Marketo Engage devront être vérifiées et uniques (cela ne s’applique pas aux utilisateurs d’API uniquement). Les courriers électroniques des utilisateurs authentifiés du service d’annuaire seront automatiquement vérifiés lorsque leur abonnement sera activé avec la vérification des courriers électroniques.
 
 La vérification des e-mails pour les abonnements à l’aide de la fonction &quot;Se connecter dans la boîte de dialogue d’invitation&quot; ou pour lesquels un e-mail unique est associé à plusieurs utilisateurs coïncide avec la version de mai. Les abonnements auxquels un seul message électronique est associé à plusieurs utilisateurs seront activés avec la vérification par courrier électronique et nécessiteront que ces utilisateurs résolvent le conflit et utilisent un message électronique unique par utilisateur. Lorsque la fonction &quot;Connexion à la boîte de dialogue d’invitation d’utilisateur&quot; est activée, les utilisateurs invités via cette fonction doivent disposer d’une adresse électronique unique. Pour les utilisateurs d’API uniquement invités via cette fonctionnalité, l’adresse électronique n’a pas besoin d’être unique.
+
+**Modification du comportement du dossier d’archives**: Avec cette version, la possibilité de créer des ressources dans les dossiers d’archives ne sera plus disponible dans les menus contextuels de l’arborescence. Les options de menu permettant de créer des ressources sont masquées pour toutes les ressources. [En savoir plus ici](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
 
 **_Webinaire sur la version du produit_**
 
