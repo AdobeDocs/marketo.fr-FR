@@ -2,16 +2,16 @@
 description: Basculer entre - Documents Marketo - Documentation du produit
 title: Basculer entre les deux
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # Basculer entre les deux {#toggle-switch}
 
-Le bouton Basculer vous permet de basculer entre l’interface classique de Marketo et la nouvelle expérience de Marketo Engage de nouvelle génération. Elle est disponible en mode Liste des pages d’entrée et sur les pages Détails du formulaire.
+Le bouton Basculer vous permet de basculer entre l’interface classique de Marketo et l’expérience de Marketo Engage de nouvelle génération. Il est disponible dans toutes les zones indiquées ci-dessous. À compter de la version de mai 2022, l’expérience de nouvelle génération sera activée par défaut.
 
 >[!NOTE]
 >
@@ -99,14 +99,32 @@ La nouvelle expérience se charge.
 
 ![](assets/toggle-switch-17.png)
 
-## Activation pour toutes les fonctionnalités {#enable-for-all-features}
+## Affichage des détails du modèle de courrier électronique {#email-template-details-view}
 
-Vous avez la possibilité d’activer l’interface nouvelle génération de Marketo pour toutes les fonctionnalités disponibles, actuelles et à venir.
-
-1. Dans une zone qui possède actuellement le commutateur de basculement (dans cet exemple, nous sommes dans [Page Détails du formulaire](#form-details-page)), cliquez sur l’icône d’engrenage dans le coin inférieur droit de la page.
+1. Dans Marketo, sélectionnez **Design Studio**.
 
    ![](assets/toggle-switch-18.png)
 
-1. Sélectionner **Activer pour toutes les fonctionnalités disponibles** et cliquez sur **OK**.
+1. Sélectionnez le modèle d&#39;email souhaité.
 
    ![](assets/toggle-switch-19.png)
+
+1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
+
+   ![](assets/toggle-switch-20.png)
+
+La nouvelle expérience se charge.
+
+![](assets/toggle-switch-21.png)
+
+## Activation pour toutes les fonctionnalités {#enable-for-all-features}
+
+Vous avez la possibilité d’activer manuellement l’interface nouvelle génération de Marketo pour toutes les fonctionnalités disponibles, actuelles et à venir.
+
+1. Dans une zone qui possède actuellement le commutateur de basculement (dans cet exemple, nous sommes dans [Page Détails du formulaire](#form-details-page)), cliquez sur l’icône d’engrenage dans le coin inférieur droit de la page.
+
+   ![](assets/toggle-switch-22.png)
+
+1. Sélectionner **Activer pour toutes les fonctionnalités disponibles** et cliquez sur **OK**.
+
+   ![](assets/toggle-switch-23.png)
