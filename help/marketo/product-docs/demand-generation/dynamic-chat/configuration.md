@@ -2,9 +2,9 @@
 description: Configuration - Documents Marketo - Documentation du produit
 title: Configuration
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '287'
 ht-degree: 1%
 
 ---
@@ -56,6 +56,15 @@ Cliquez sur le bouton **Confidentialité** pour ajouter/modifier l’URL de la p
 Pour que le chatterbot s’affiche sur votre site web, vous devez d’abord installer le fragment de code JavaScript de conversation dynamique. Cliquez sur cet onglet pour rechercher/copier le code nécessaire. Si vous ne connaissez pas cette opération, contactez votre équipe web ou votre service informatique pour obtenir de l’aide.
 
 ![](assets/configuration-8.png)
+
+>[!TIP]
+>
+>Si votre site utilise une stratégie de sécurité du contenu, vous devrez peut-être placer sur la liste autorisée les URL suivantes pour que le chatterbot fonctionne comme prévu :
+>
+>* `*.adoberesources.net`
+>* `*.adobe.io`
+>* `*.typekit.net`
+
 
 >[!NOTE]
 >
