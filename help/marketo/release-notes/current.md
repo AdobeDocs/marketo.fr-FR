@@ -2,16 +2,16 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
+source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
 
 # Notes de mise à jour : Mai 2022 {#release-notes-may-22}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 22 mai. Pour connaître la disponibilité des fonctionnalités, consultez l’édition de votre Marketo Engage Adobe.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 22 mai. Vérifiez la disponibilité de votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
@@ -23,7 +23,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **6 mai 2022*
 
 ## Intégration CRM native {#native-crm-integration}
 
-**Intégration de la gestion de la relation client (disponibilité limitée) native de Veeva**: Améliorer l&#39;engagement avec les professionnels de santé en synchronisant l&#39;activité entre Veeva CRM et Marketo Engage via l&#39;intégration native. Cette intégration permet aux marketeurs de créer des expériences cross-canal plus personnalisées et plus transparentes pour les professionnels de la santé. Contactez votre responsable du succès client si vous souhaitez participer.
+**[Intégration de la gestion de la relation client native de Veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;} (disponibilité limitée)**: Améliorer l&#39;engagement avec les professionnels de santé en synchronisant l&#39;activité entre Veeva CRM et Marketo Engage via l&#39;intégration native. Cette intégration permet aux marketeurs de créer des expériences cross-canal plus personnalisées et plus transparentes pour les professionnels de la santé. Contactez votre responsable du succès client si vous souhaitez participer.
 
 ## Orchestration cross-canal {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ Les fonctionnalités suivantes commenceront à être publiées sur **6 mai 2022*
 
 **Exclure des URL pour la messagerie instantanée dynamique**: Contrôlez les pages de vos pages web avec la possibilité d’exclure des URL spécifiques des critères de ciblage.
 
-**Améliorations du filtrage des activités des robots de messagerie**: Continuez à protéger l’intégrité de votre base de données avec la possibilité d’identifier le comportement des robots en fonction des agents utilisateur ou des adresses IP des liens masqués et des modèles de proximité, en plus de l’identification des correspondances de liste IAB existante. Affichez les statistiques des activités de robots qui vous permettent de comprendre le nombre d’activités de robots identifiées pour chaque type.
+**[Améliorations du filtrage des activités des robots de messagerie](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: Continuez à protéger l’intégrité de votre base de données avec la possibilité d’identifier le comportement des robots en fonction des agents utilisateur ou des adresses IP des liens masqués et des modèles de proximité, en plus de l’identification des correspondances de liste IAB existante. Affichez les statistiques des activités de robots qui vous permettent de comprendre le nombre d’activités de robots identifiées pour chaque type.
 
-**En-tête STS pour les liens de suivi de courrier électronique**: Respectez les bonnes pratiques en matière de sécurité avec la possibilité d’appliquer des en-têtes Secure Transport Security pour garantir que le trafic vers les liens trackés est toujours sécurisé.
+**[En-tête STS pour les liens de suivi de courrier électronique](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Respectez les bonnes pratiques en matière de sécurité avec la possibilité d’appliquer des en-têtes Secure Transport Security pour garantir que le trafic vers les liens trackés est toujours sécurisé.
 
 ## Expérience de nouvelle génération {#next-generation-experience}
 
