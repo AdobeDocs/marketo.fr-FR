@@ -2,9 +2,9 @@
 description: FAQ sur la synchronisation des comptes de personne - Documentation Marketo - Documentation du produit
 title: FAQ sur la synchronisation des comptes de personne
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Des comptes de personnes peuvent être configurés à Veeva pour répondre aux b
 
 >[!NOTE]
 >
->Les comptes Veeva par défaut sont Professionnels.
+>Nous synchronisons uniquement les comptes de niveau &quot;professionnel&quot; en tant que comptes de personne.
 
 **Qu&#39;est-ce qu&#39;un compte de personne ?**
 
@@ -49,7 +49,7 @@ Nous serions gentils et laisserions Veeva CRM gagner. Il est toutefois rare que 
 
 **Les enregistrements de type Plate-forme ou Contact sont-ils synchronisés avec le CRM Veeva ?**
 
-Veeva CRM traite uniquement des objets de compte personnel et possède aussi des comptes professionnels. Les types CRM traditionnels de Lead, de contacts et d’opportunités ne sont pas vraiment utilisés dans les systèmes CRM traditionnels de Veeva. Ils peuvent être créés dans le CRM Veeva et la synchronisation peut les importer dans Marketo, mais ils ne sont pas officiellement pris en charge à l’aide de ce connecteur.
+Veeva CRM traite uniquement des objets de compte personnel et possède aussi des comptes professionnels. Les types CRM traditionnels de Lead, de contacts et d’opportunités ne sont pas vraiment utilisés dans les systèmes CRM traditionnels de Veeva. Ils peuvent être créés dans Veeva CRM, mais ils ne sont pas officiellement pris en charge à l’aide de ce connecteur.
 
 **Puis-je convertir une personne en contact dans Marketo ?**
 

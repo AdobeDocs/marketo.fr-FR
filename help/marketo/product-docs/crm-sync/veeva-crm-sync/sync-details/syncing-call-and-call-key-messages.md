@@ -2,16 +2,16 @@
 description: Synchronisation des messages clés d’appel et d’appel - Documents Marketo - Documentation du produit
 title: Synchronisation des messages clés d’appel et d’appel
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '503'
 ht-degree: 5%
 
 ---
 
 # Synchronisation des messages clés d’appel et d’appel {#syncing-call-and-call-key-messages}
 
-Les objets de message clé d’appel et d’appel dans le CRM Veeva sont synchronisés par défaut dans Marketo Engage. Marketo synchronise les données qui ont jusqu’à 6 mois, en fonction de la date d’appel .
+Les objets de message clé d’appel et d’appel dans le CRM Veeva sont synchronisés par défaut dans Marketo Engage. Marketo synchronise les données qui ont jusqu’à 6 mois, en fonction de la date de création de l’appel.
 
 >[!NOTE]
 >
@@ -90,13 +90,6 @@ Les champs suivants des messages Appel et Clé d’appel sont synchronisés et p
       <td>Date de l’appel au premier enregistrement ou envoi. Ce champ est défini à la date courante via un déclencheur si le champ date ou datetime n’est pas renseigné.</td>
       <td>Call_Date_vod__c</td>
       <td>Date</td>
-    </tr>
-    <tr>
-      <td>Appelez</td>
-      <td>Produits détaillés</td>
-      <td>Champ d’aide permettant d’afficher la liste des produits détaillés d’un appel. Les noms de produits doivent être délimités par des espaces et un ordre doubles, de gauche à droite. Ce champ ne contrôle pas le traitement et est inclus pour rendre les listes et rapports associés plus conviviaux.</td>
-      <td>Details_Products_vod__c</td>
-      <td>Zone de texte(255)</td>
     </tr>
     <tr>
       <td>Appelez</td>

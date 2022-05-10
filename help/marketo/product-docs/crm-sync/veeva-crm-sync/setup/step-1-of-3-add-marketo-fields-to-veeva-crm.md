@@ -2,7 +2,7 @@
 description: Étape 1 sur 3 - Ajout de champs Marketo à Veeva CRM - Documents Marketo - Documentation du produit
 title: Étape 1 sur 3 - Ajout de champs Marketo à la gestion de la relation client Veeva
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 7%
@@ -25,7 +25,7 @@ Tous ces champs personnalisés sont facultatifs et ne sont pas nécessaires pour
 
 ## Ajout de champs Marketo à la gestion de la relation client Veeva {#add-marketo-fields-to-veeva-crm}
 
-Ajoutez trois champs personnalisés sur l&#39;objet de piste et de contact dans le CRM Veeva répertorié ci-dessus. Si vous souhaitez en ajouter d’autres, reportez-vous au tableau des champs disponibles à la fin de cette section.
+Ajoutez un champ personnalisé sur les objets de piste et de contact dans le CRM Veeva répertorié ci-dessus. Si vous souhaitez en ajouter d’autres, reportez-vous au tableau des champs disponibles à la fin de cette section.
 
 Pour ajouter le champ Score , procédez comme suit.
 
@@ -112,7 +112,7 @@ Nombre de décimales 0</td>
 
 >[!NOTE]
 >
->En ajoutant le champ à l’objet Contact, ils sont également ajoutés au compte Personne.
+>En ajoutant le champ à l’objet Contact, ils sont également ajoutés à l’objet Compte de personne.
 
 FACULTATIF : Utilisez la procédure ci-dessus pour tout champ personnalisé supplémentaire du tableau ci-dessous.
 
