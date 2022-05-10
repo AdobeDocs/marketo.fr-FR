@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Configuration du mappage de l’organisation Adobe - Documents Marketo - Documentation du produit
 title: Configuration du mappage de l’organisation Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: db91b204ab13d47e500b1942ca14a3b1f010749c
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Pour vous synchroniser avec les applications Adobe, telles que Audience Manager,
 >[!NOTE]
 >
 >Un déploiement prêt pour la HIPAA d’une instance Marketo ne peut pas utiliser cette intégration.
+
+>[!CAUTION]
+>
+>Pour les clients intégrés à Adobe Business Platform et à Identity Management System, l’ID d’organisation associé à l’abonnement sera déjà renseigné et est un champ en lecture seule.
 
 1. Dans Marketo, cliquez sur **Administration**.
 
