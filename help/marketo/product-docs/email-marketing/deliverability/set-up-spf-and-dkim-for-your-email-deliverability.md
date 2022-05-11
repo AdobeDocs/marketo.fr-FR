@@ -3,7 +3,7 @@ unique-page-id: 4720710
 description: Configuration de SPF et DKIM pour la délivrabilité de vos emails - Documents Marketo - Documentation du produit
 title: Configuration de SPF et DKIM pour la délivrabilité de vos emails
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
+source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Une méthode rapide pour améliorer les taux de diffusion de vos emails consiste
 
 **Si vous n’avez pas d’enregistrement SPF sur votre domaine**
 
-Demandez à votre administrateur réseau d’ajouter la ligne suivante à vos entrées DNS. Remplacez [domain] par le domaine principal de votre site web (ex. &quot;company.com&quot;) et [corpIP] avec l’adresse IP de votre serveur de messagerie d’entreprise (ex. &quot;255.255.255.255&quot;). Si vous envoyez des emails à partir de plusieurs domaines via Marketo, vous devez les ajouter à chaque domaine (sur une seule ligne).
+Demandez à votre administrateur réseau d’ajouter la ligne suivante à vos entrées DNS. Remplacer [domain] avec le domaine principal de votre site web (ex. &quot;company.com&quot;) et [corpIP] avec l’adresse IP de votre serveur de messagerie d’entreprise (ex. &quot;255.255.255.255&quot;). Si vous envoyez des emails à partir de plusieurs domaines via Marketo, vous devez les ajouter à chaque domaine (sur une seule ligne).
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
@@ -53,5 +53,5 @@ Reportez-vous à la section [Configuration d’une signature DKIM personnalisée
 >* [En savoir plus sur SPF et son fonctionnement](http://www.open-spf.org/Introduction/)
 >* [Marketo : outils de délivrabilité des emails](https://www.marketo.com/software/email-marketing/email-deliverability/)
 >* [Mon SPF est-il correctement configuré ?](https://www.kitterman.com/spf/validate.html)
->* [Ai-je utilisé la syntaxe appropriée ?](https://www.open-spf.org/SPF_Record_Syntax/)
+>* [Ai-je utilisé la syntaxe appropriée ?](http://www.open-spf.org/SPF_Record_Syntax/)
 
