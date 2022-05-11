@@ -2,9 +2,9 @@
 description: Demandes d’accès à des informations personnelles - Documents Marketo - Documentation du produit
 title: Demandes d’accès à des informations personnelles
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,10 @@ Ce document présente la gestion des demandes de confidentialité des données i
 
 Vous pouvez envoyer des requêtes individuelles pour accéder aux données des consommateurs et les supprimer du Marketo Engage de deux manières :
 
-* Par le biais de la [Interface utilisateur du Privacy Service](https://privacyui.cloud.adobe.io/). Consultez la documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/).
-* Par le biais de la **API Privacy Service**. Consultez la documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) et la référence d’API [here](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
+* Par le biais de la [Interface utilisateur du Privacy Service](https://privacyui.cloud.adobe.io/). Consultez la documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}.
+* Par le biais de la **API Privacy Service**. Consultez la documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} et informations sur l’API [here](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
 
-Le [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) prend en charge deux types de requêtes : accès aux données et suppression des données.
+Le [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} prend en charge deux types de requêtes : accès aux données et suppression des données.
 
 Découvrez comment créer des demandes d’accès et de suppression.
 
