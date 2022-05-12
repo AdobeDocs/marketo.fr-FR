@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Configuration du mappage de l’organisation Adobe - Documents Marketo - Documentation du produit
 title: Configuration du mappage de l’organisation Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
+source-git-commit: bbe5f4a1502ab79d0081807ea6aab196ae75360a
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,9 @@ Pour vous synchroniser avec les applications Adobe, telles que Audience Manager,
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Pour des raisons de sécurité, vous devez être un administrateur d’organisation pour l’organisation Adobe à laquelle vous souhaitez mapper. Si ce n’est pas le cas, l’action échouera.
+   >Pour des raisons de sécurité, vous devez être un administrateur d’organisation pour l’organisation Adobe à laquelle vous souhaitez mapper. Si ce n’est pas le cas, l’action échoue. En outre, l’utilisateur Adobe et l’utilisateur Marketo doivent utiliser la même adresse électronique lors de la connexion.
 
 1. Si vous êtes _not_ déjà connecté, une fenêtre contextuelle s’affiche dans un nouvel onglet/fenêtre. Connectez-vous à l’organisation de votre Adobe (cette action valide l’accès de l’organisation).
 
