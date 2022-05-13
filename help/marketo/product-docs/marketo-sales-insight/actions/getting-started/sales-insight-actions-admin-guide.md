@@ -2,9 +2,9 @@
 description: Guide d’administration des actions Sales Insight - Documents Marketo - Documentation du produit
 title: Guide d’administration des actions Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
+source-git-commit: 451b5cd8e11045de56ebf57c2b2312813d5d5668
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '595'
 ht-degree: 1%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* Confirmez auprès de votre gestionnaire de succès client que les actions MSI ont été activées pour votre compte Marketo (si vous ne disposez pas d’un CSM, veuillez [Contacter le support Marketo](https://nation.marketo.com/t5/support/ct-p/Support)).
+>* Confirmez auprès de votre gestionnaire de succès client que les actions MSI ont été activées pour votre compte Marketo (si vous ne disposez pas d’un CSM, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;}).
 >* Votre synchronisation Marketo/Salesforce doit être configurée.
 
 
@@ -66,7 +66,7 @@ L’utilisateur recevra un e-mail lui indiquant les étapes pour accéder au com
 
 >[!NOTE]
 >
->D’autres utilisateurs ne seront pas ajoutés via Marketo, mais par la page Gestion des utilisateurs du compte de vente . [Cliquez ici](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) pour en savoir plus sur l’ajout d’utilisateurs supplémentaires.
+>D’autres utilisateurs ne seront pas ajoutés via Marketo, mais par la page Gestion des utilisateurs du compte de vente . [Cliquez ici](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target=&quot;_blank&quot;} pour en savoir plus sur l’ajout d’utilisateurs supplémentaires.
 
 ## Connexion du compte de ventes Marketo à Salesforce {#connect-marketo-sales-account-to-salesforce}
 
@@ -134,7 +134,7 @@ Les enregistrements de personne existant dans Marketo et Salesforce seront synch
 
 >[!NOTE]
 >
->Pour en savoir plus sur la manière dont les personnes et les données d’activité se synchronisent entre les actions Sales Insight, Marketo et Salesforce, [cliquez ici](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
+>Pour en savoir plus sur la manière dont les personnes et les données d’activité se synchronisent entre les actions Sales Insight, Marketo et Salesforce, [cliquez ici](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target=&quot;_blank&quot;}.
 
 ## Invitation d’utilisateurs individuels dans des actions MSI {#invite-individual-users-to-msi-actions}
 
@@ -186,4 +186,4 @@ Vous recevrez un message de confirmation une fois les invitations envoyées.
 
 >[!NOTE]
 >
->Une fois cette opération effectuée, vous pouvez soit mettre à niveau votre package MSI existant, soit en installer un nouveau et passer à [configuration des actions MSI dans Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md).
+>Une fois cette opération effectuée, vous pouvez soit mettre à niveau votre package MSI existant, soit en installer un nouveau et passer à [configuration des actions MSI dans Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target=&quot;_blank&quot;}.
