@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: d3fb9a9aa70f491afd880d16500b8e93eb9d087f
+source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
 workflow-type: tm+mt
-source-wordcount: '8743'
+source-wordcount: '8761'
 ht-degree: 5%
 
 ---
@@ -475,6 +475,11 @@ ht-degree: 5%
          + [Présentation des dossiers](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Présentation des notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Types de notification](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Audiences prédictives {#predictive-audiences}
+         + [Prise en main des audiences prédictives](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
+         + [Modèles et informations](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
+         + [Filtres prédictifs](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+         + [Comprendre le suivi des objectifs et les inscriptions prévues](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + Synchronisation CRM {#crm-sync}
       + Synchronisation Microsoft Dynamics {#microsoft-dynamics}
          + [Présentation de la synchronisation Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
