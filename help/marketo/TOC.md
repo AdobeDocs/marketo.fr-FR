@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
 workflow-type: tm+mt
 source-wordcount: '8743'
 ht-degree: 5%
@@ -1279,7 +1279,6 @@ ht-degree: 5%
             + [Configuration du suivi de domaine personnalisé](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Invitation d’utilisateurs et d’administrateurs](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Connexion des attributs d’activité de vente à Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
-            + [Paramètres de gestion de la connexion](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Paramètres de partage](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Détails de l’accès utilisateur](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analytics {#analytics}
@@ -1307,6 +1306,11 @@ ht-degree: 5%
                + [Journalisation des réponses](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Diagnostics Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Paramètres de synchronisation Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+            + Configuration Salesforce {#salesforce-configuration}
+               + [Paramètres de gestion de la connexion](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+               + [Configuration des actions d’aperçu des ventes dans Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Désinstallation du module de personnalisation Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [Désinstallation du module de personnalisation de l’éclair Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Adresse e-mail {#email}
             + Centre de contrôle {#command-center}
                + [Aperçu de la recherche avancée](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1372,10 +1376,6 @@ ht-degree: 5%
             + [Appel international](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Présence locale](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [Paramètres de consentement à deux parties](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + Configuration Salesforce {#salesforce-configuration}
-            + [Configuration des actions d’aperçu des ventes dans Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-            + [Désinstallation du module de personnalisation Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-            + [Désinstallation du module de personnalisation de l’éclair Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Envoyer un e-mail de vente {#send-a-sales-email}
             + [Présentation du suivi des emails](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Tâches {#tasks}
