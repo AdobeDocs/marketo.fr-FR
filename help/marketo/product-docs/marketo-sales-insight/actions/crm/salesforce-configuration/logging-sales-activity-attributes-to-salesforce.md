@@ -2,10 +2,10 @@
 description: Connexion des attributs d’activité de vente à Salesforce - Documents Marketo - Documentation du produit
 title: Connexion des attributs d’activité de vente à Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 24%
+source-wordcount: '363'
+ht-degree: 23%
 
 ---
 
@@ -38,6 +38,20 @@ Description de chaque colonne du tableau ci-dessous :
   <th>Nom de l'API</th>
   <th>Type de données</th>
   <th>Taille</th>
+ </tr>
+  <tr>
+  <td>Résultats des appels</td>
+  <td>mktosales_call_result</td>
+  <td>mktosales_call_result__c</td>
+  <td>Texte</td>
+  <td>50</td>
+ </tr>
+ <tr>
+  <td>Raisons de l’appel</td>
+  <td>mktosales_call_reason</td>
+  <td>mktosales_call_reason__c</td>
+  <td>Texte</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>ID de présence locale de l’appel Marketo Sales</td>
