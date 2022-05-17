@@ -1,14 +1,16 @@
 ---
 description: Limites d’utilisation du produit - Documents Marketo - Documentation du produit
 title: Limites d’utilisation des produits
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 25%
+source-wordcount: '186'
+ht-degree: 23%
 
 ---
 
 # Limites d’utilisation des produits {#product-usage-limits}
+
+Les limites suivantes ont été mises en place pour l’utilisation des fonctionnalités d’engagement commercial étendu disponibles avec les actions de Sales Insight.
 
 <table>
   <th>Fonctionnalité</th>
