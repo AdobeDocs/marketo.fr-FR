@@ -2,9 +2,9 @@
 description: Présentation de Dynamic Chat - Documents Marketo - Documentation du produit
 title: Présentation de la conversation dynamique
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Les éléments suivants sont synchronisés :
 * Données de champ de l’entreprise
 * Données d’activité
 
-## Dialogues {#dialogues}
+## Conversations {#dialogues}
 
 Les dialogues représentent un seul engagement de discussion. Considérez-le comme un conteneur avec tout ce dont vous avez besoin pour avoir un dialogue de conversation engageant avec les visiteurs de votre site web. Dans chaque dialogue, vous pouvez spécifier la ou les pages sur lesquelles vous souhaitez que le dialogue s’affiche, à qui vous souhaitez qu’il s’affiche, ainsi que le contenu et le flux du dialogue lui-même. En outre, vous pouvez trouver des mesures pour voir les performances de votre dialogue. [En savoir plus sur les boîtes de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
 
@@ -54,6 +54,10 @@ C&#39;est là que vous verrez toutes les nominations programmées par les visite
 C’est là que vous pouvez voir la liste de tous les agents qui ont connecté leurs calendriers ainsi que l’ordre dans lequel ils seront présentés aux visiteurs du site web. Les réunions tournent autour du robot, donc si vous avez cinq agents et l&#39;agent trois qui ont pris la dernière réunion, l&#39;agent quatre aura le suivant, suivi de l&#39;agent cinq, puis revenir à l&#39;agent un.
 
 ## FAQ {#faq}
+
+**Puis-je installer Dynamic Chat n’importe où sur le site web de mon entreprise ou cela ne fonctionne-t-il que sur les landing pages Marketo ?**
+
+Le fragment de code JavaScript de conversation dynamique peut être installé sur n’importe quel site web ainsi que sur les landing pages Marketo.
 
 **Quelle est la durée de stockage des données pour la création de rapports ?**
 
