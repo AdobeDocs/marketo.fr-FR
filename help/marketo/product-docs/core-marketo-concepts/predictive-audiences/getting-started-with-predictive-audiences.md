@@ -3,9 +3,10 @@ description: Prise en main de Predictive Audiences - Documents Marketo - Documen
 title: Prise en main des audiences prédictives
 hide: true
 hidefromtoc: true
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -16,10 +17,11 @@ Les audiences prédictives (PA) utilisent l’IA et l’apprentissage automatiqu
 
 L’application d’une seule page comprend les fonctionnalités suivantes :
 
-* [Suivi des objectifs et enregistrements prévus](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;}
-* Informations basées sur l’IA/ML
 * Valeurs de probabilité d’enregistrement et de présence pour chaque piste d’un programme d’événement
 * [Filtres prédictifs](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
+* [Modèles et facteurs d’influence](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
+* Informations basées sur l’IA/ML
+* [Suivi des objectifs et enregistrements prévus](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;} (Le suivi des objectifs n’est disponible que pour les personnes dont le bouton d’activation de la nouvelle génération est activé pour les programmes d’événements. Pour accéder à ce bouton, contactez votre CSM et demandez des audiences prédictives)
 
 >[!NOTE]
 >

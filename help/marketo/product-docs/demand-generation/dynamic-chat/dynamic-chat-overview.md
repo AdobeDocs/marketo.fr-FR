@@ -2,9 +2,9 @@
 description: Présentation de Dynamic Chat - Documents Marketo - Documentation du produit
 title: Présentation de la conversation dynamique
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '896'
 ht-degree: 2%
 
 ---
@@ -67,17 +67,39 @@ Le fragment de code JavaScript de conversation dynamique peut être installé su
 
 Non, il utilise uniquement des réponses prédéterminées.
 
-**Comment cibler les personnes anonymes ?**
+**Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**
 
-Dans votre boîte de dialogue, vous devez utiliser la variable _Le courrier électronique de personne est vide_ attribut.
+Oui. Dynamic Chat prend en charge les langues suivantes : Français, allemand, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel. En savoir plus dans la section [section ci-dessous](#changing-the-language).
 
 **Prenez-vous en charge la fonctionnalité AI/NLP ?**
 
 La fonctionnalité AI/NLP n’est pas prise en charge.
 
-**Dynamic Chat offre-t-il des langues autres que l’anglais ?**
+**Comment cibler les personnes anonymes ?**
 
-Pas pour le moment.
+Dans votre boîte de dialogue, vous devez utiliser la variable _Le courrier électronique de personne est vide_ attribut.
+
+## Modification de la langue {#changing-the-language}
+
+Suivez ces étapes pour modifier votre langage de messagerie dynamique.
+
+1. Dans votre compte d’Experience Cloud, cliquez sur l’icône des paramètres et sélectionnez **Préférences**.
+
+   ![](assets/dynamic-chat-overview-1.png)
+
+1. Cliquez sur la langue actuelle sous votre adresse électronique.
+
+   ![](assets/dynamic-chat-overview-2.png)
+
+1. Choisissez votre nouvelle langue (la seconde langue est facultative) et cliquez sur **Enregistrer**.
+
+   ![](assets/dynamic-chat-overview-3.png)
+
+   >[!IMPORTANT]
+   >
+   >Il existe quelques dizaines de langues à choisir, mais Dynamic Chat ne prend en charge que les éléments suivants : allemand, anglais, français, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel.
+
+Lorsque vous mettez à jour votre langue, tout dans l’application elle-même change, à l’exception des mots que vous avez personnellement renseignés (par exemple, les réponses de diffusion en continu).
 
 ## Limites dans la conversation dynamique {#limits-in-dynamic-chat}
 
