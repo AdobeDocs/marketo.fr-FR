@@ -4,7 +4,7 @@ title: Prise en main des audiences prédictives
 hide: true
 hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Les audiences prédictives sont automatiquement incluses et activées pour les i
 1. Une fois la fonctionnalité ajoutée à votre instance, accédez à la **[!UICONTROL Audiences prédictives]** dans la **[!UICONTROL Administration]** de Marketo.
 
 1. Vérifier **[!UICONTROL Activation des audiences prédictives]** pour activer la fonction. Notez que la configuration de tous les processus peut prendre jusqu’à 24 heures.
-
