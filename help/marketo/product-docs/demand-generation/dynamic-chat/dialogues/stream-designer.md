@@ -1,15 +1,15 @@
 ---
 description: Stream Designer - Documents Marketo - Documentation du produit
-title: Concepteur de diffusion
+title: Designer de flux
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 0%
+source-wordcount: '630'
+ht-degree: 3%
 
 ---
 
-# Concepteur de diffusion {#stream-designer}
+# Designer de flux {#stream-designer}
 
 Il y a _many_ combinaisons de flux que vous pouvez créer. Cet article contient un exemple dans lequel le spécialiste du marketing demande au visiteur du site s’il lui pose des questions sur un produit. Si oui, le visiteur peut planifier un rendez-vous. Si ce n’est pas le cas, le visiteur a la possibilité de s’inscrire à une liste de distribution pour une correspondance ultérieure. L’objectif est de planifier un rendez-vous ou de collecter l’adresse électronique du visiteur.
 
@@ -26,6 +26,10 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
  <tr>
   <td><strong>Question</strong></td>
   <td>Utilisez cette option lorsque vous souhaitez poser une question à choix multiples, à laquelle vous fournissez les réponses disponibles (par exemple : Quel type de véhicule vous intéresse ? Réponses = VUS, Compacte, Camion, etc.).</td>
+ </tr>
+ <tr>
+  <td><strong>Document</strong></td>
+  <td>Permet d’incorporer des documents PDF dans les boîtes de dialogue et de suivre l’activité d’engagement des visiteurs dans les documents (nombre de pages consultées, téléchargement du document et/ou tout terme de recherche utilisé).</td>
  </tr>
  <tr>
   <td><strong>Capture d’informations</strong></td>
@@ -109,7 +113,7 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
      <td>Le type d’informations que vous souhaitez capturer : Téléphone, Texte, Email.</td>
     </tr>
     <tr>
-     <td><strong>Message de chatbot</strong></td>
+     <td><strong>Message du chatbot</strong></td>
      <td>Le message que le visiteur voit l’invite à fournir les informations.</td>
     </tr>
     <tr>
@@ -117,7 +121,7 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
      <td>Exemple de texte aidant le visiteur à voir ce qu’il doit entrer.</td>
     </tr>
     <tr>
-     <td><strong>Associer la réponse à l’attribut</strong></td>
+     <td><strong>Mapper la réponse à l’attribut</strong></td>
      <td>Permet de synchroniser la réponse du visiteur avec le champ correspondant dans son enregistrement Personne de votre abonnement Marketo.</td>
     </tr>
    </table>
