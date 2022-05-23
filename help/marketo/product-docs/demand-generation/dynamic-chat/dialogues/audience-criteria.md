@@ -2,9 +2,9 @@
 description: Critères d’audience - Documents Marketo - Documentation du produit
 title: Critère d’audience
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '499'
 ht-degree: 2%
 
 ---
@@ -13,9 +13,31 @@ ht-degree: 2%
 
 Tout comme les listes dynamiques Marketo, les attributs Critères d’audience vous permettent de définir votre audience cible. Vous pouvez cibler des personnes connues ou inconnues à l’aide d’attributs déduits, de personnes ou de société (ou d’une combinaison de ces attributs).
 
+## Événements {#events}
+
+![](assets/audience-criteria-0.png)
+
+Les événements vous permettent de cibler les visiteurs en fonction de la durée de leur défilement ou de la durée pendant laquelle ils se trouvent sur votre page/site. Dans l’exemple ci-dessous, nous ciblons les visiteurs qui se trouvent sur une page spécifique depuis plus de 20 secondes.
+
+1. Attrapez le **Durée sur la page** et faites-le glisser vers la droite.
+
+   ![](assets/audience-criteria-0a.png)
+
+1. Définissez l’heure &quot;Supérieur à&quot; sur 20 secondes.
+
+   ![](assets/audience-criteria-0b.png)
+
+1. Ajoutez l’URL de la page souhaitée dans la [Cible](#target) .
+
+   ![](assets/audience-criteria-0c.png)
+
+## Attributs {#attributes}
+
+![](assets/audience-criteria-0d.png)
+
 **Personnes connues**
 
-Il y a _many_ combinaisons d’attributs parmi lesquelles choisir. Dans cet exemple, nous ciblons tous les **personnes connues** en Californie, qui travaille dans une entreprise de plus de 50 employés.
+Il y a _many_ combinaisons d’attributs parmi lesquelles choisir. Dans l’exemple ci-dessous, nous ciblons tous les **personnes connues** en Californie, qui travaille dans une entreprise de plus de 50 employés.
 
 1. Attrapez le **État de la personne** et faites-le glisser vers la droite.
 
