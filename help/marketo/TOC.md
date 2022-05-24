@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '8766'
+source-wordcount: '8770'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 5%
 + [Accueil](home.md)
 + Prise en main de Marketo {#getting-started-with-marketo}
    + [Démarrer](getting-started.md)
-   + [Qu’est-ce qu’un Marketo Engage Adobe ?](getting-started/what-is-adobe-marketo-engage.md)
+   + [Qu’est-ce que Adobe Marketo Engage ?](getting-started/what-is-adobe-marketo-engage.md)
    + [Glossaire Marketo](getting-started/marketo-glossary.md)
    + [Glossaire des icônes classiques](getting-started/classic-icon-glossary.md)
    + Configuration {#setup}
@@ -614,11 +614,12 @@ ht-degree: 5%
          + [Ajout ou suppression d’utilisateurs de conversation](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Configuration](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Activités de tchat dynamique](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + Dialogues {#dialogues}
+         + Conversations {#dialogues}
             + [Présentation de la boîte de dialogue](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [Créer un dialogue](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
-            + [Critères d’audience](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
-            + [Concepteur de diffusion](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
+            + [Critère d’audience](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
+            + [Designer de flux](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
+            + [Utilisation de la carte de document](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
             + [Rapports](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Événements {#events}
          + Présentation des événements {#understanding-events}

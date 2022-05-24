@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Glossaire Marketo - Documents Marketo - Documentation du produit
 title: Glossaire Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '4205'
+source-wordcount: '4196'
 ht-degree: 4%
 
 ---
@@ -36,7 +36,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
   </tr> 
   <tr> 
    <td><strong>Liste de compte</strong></td> 
-   <td>Liste des noms de compte/organisation clés. Connu également sous le nom de Marketing basé sur les comptes (<strong>ABM</strong>).</td> 
+   <td>Liste des noms de compte/organisation clés. Connu également sous le nom de Account-Based Marketing (<strong>ABM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Account Profiling</strong></td> 
@@ -47,7 +47,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
    <td colspan="1">Dans <strong>TAM</strong>, il s’agit d’un score attribué à un compte pour vous aider à déterminer son niveau d’engagement.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Date d'acquisition</strong></td> 
+   <td colspan="1"><strong>Date d’acquisition</strong></td> 
    <td colspan="1">Date à laquelle une personne devient connue dans Marketo. Cette date correspond au <strong>Programme d’acquisition</strong> qui a acquis la personne.</td> 
   </tr> 
   <tr> 
@@ -272,7 +272,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
   </tr> 
   <tr> 
    <td colspan="1"><strong>Documents</strong></td> 
-   <td colspan="1">En l’absence de documents, les documents sont des articles d’aide pour les clients afin de mieux comprendre le produit. Marketo comporte plusieurs types de documents différents : Documentation produit (le site sur lequel vous vous trouvez actuellement), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> docs, <a href="https://developers.marketo.com/" rel="nofollow">Développeur</a> documents, et <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Assistance</a> documents.</td> 
+   <td colspan="1">En l’absence de documents, les documents sont des articles d’aide pour les clients afin de mieux comprendre le produit. Marketo comporte plusieurs types de documents différents : Documentation produit (le site sur lequel vous vous trouvez actuellement), <a href="https://developers.marketo.com/" rel="nofollow">Développeur</a> documents, et <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Assistance</a> documents.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Authentification, création de rapports et conformité des messages basés sur le domaine (DMARC)</strong></td> 
@@ -511,7 +511,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
  <tbody> 
   <tr> 
    <td><strong>Activités Marketing</strong></td> 
-   <td><p>L’une des sections principales d’Adobe Marketo Engage. C’est là que votre <strong>campaign</strong> l’orchestration se produit. Tous vos <strong>programmes</strong>, les campagnes et <strong>dossiers de campagne</strong> (ainsi que leurs <strong>ressources locales</strong>) vivent ici.</p></td> 
+   <td><p>Une des sections principales de Adobe Marketo Engage. C’est là que votre <strong>campaign</strong> l’orchestration se produit. Tous vos <strong>programmes</strong>, les campagnes et <strong>dossiers de campagne</strong> (ainsi que leurs <strong>ressources locales</strong>) vivent ici.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Automatisation du marketing</strong></a></td> 
@@ -555,7 +555,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
   </tr> 
   <tr> 
    <td colspan="1"><strong>Mon Marketo</strong></td> 
-   <td colspan="1">L’une des sections standard d’Adobe Marketo Engage. Agit comme votre "page d’accueil" Marketo, affichant les mosaïques pour toutes les sections de Marketo auxquelles vous avez accès.</td> 
+   <td colspan="1">Une des sections standard de Adobe Marketo Engage. Agit comme votre "page d’accueil" Marketo, affichant les mosaïques pour toutes les sections de Marketo auxquelles vous avez accès.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Mes jetons</strong></a></td> 
