@@ -4,16 +4,16 @@ title: Comprendre le suivi des objectifs et les inscriptions prévues
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '963'
 ht-degree: 0%
 
 ---
 
 # Comprendre le suivi des objectifs et les inscriptions prévues {#understanding-goal-tracking-and-projected-registrations}
 
-Après [définition des objectifs d’événement](/help/sky/setting-event-goals.md) et envoyer des invitations par le biais d’un [campagne dynamique](/help/sky/create-a-smart-campaign.md), voici comment suivre la progression de votre objectif et comprendre les prédictions de Marketo.
+Voici comment suivre la progression de votre objectif et comprendre les prédictions de Marketo.
 
 >[!NOTE]
 >
