@@ -4,9 +4,9 @@ title: Comprendre le suivi des objectifs et les inscriptions prévues
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Comprendre le suivi des objectifs et les inscriptions prévues {#understanding-goal-tracking-and-projected-registrations}
 
 Voici comment suivre la progression de votre objectif et comprendre les prédictions de Marketo.
+
+>[!PREREQUISITES]
+>
+>Pour accéder à la plupart de ces fonctionnalités, veillez à activer la fonction [bascule nouvelle génération](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;} pour les programmes d’événements.
 
 >[!NOTE]
 >
@@ -66,7 +70,7 @@ En haut de la page Rapports, vous trouverez des recommandations pilotées par l�
 
 PICC
 
-## prédictions au niveau de la personne
+## Prédictions au niveau de la personne
 
 Cliquez sur le bouton **[!UICONTROL Membres]** pour afficher tous les membres du programme. Passez la souris sur le **[!UICONTROL Probabilité d’enregistrement]** ou **[!UICONTROL Probabilité de présence]** pour afficher les pourcentages et les catégories exacts. Vous pouvez ensuite agir sur les membres d’une catégorie spécifique (par exemple, tous les membres de la catégorie &quot;Moins susceptibles&quot; d’enregistrer) et les cibler spécifiquement pour augmenter éventuellement vos numéros d’inscription.
 

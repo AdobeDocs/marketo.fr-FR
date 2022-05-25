@@ -1,12 +1,10 @@
 ---
 description: Prise en main de Predictive Audiences - Documents Marketo - Documentation du produit
 title: Prise en main des audiences prédictives
-hide: true
-hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -21,7 +19,7 @@ L’application d’une seule page comprend les fonctionnalités suivantes :
 * [Filtres prédictifs](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
 * [Modèles et facteurs d’influence](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
 * Informations basées sur l’IA/ML
-* [Suivi des objectifs et enregistrements prévus](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;} (Le suivi des objectifs n’est disponible que pour les personnes dont le bouton d’activation de la nouvelle génération est activé pour les programmes d’événements. Pour accéder à ce bouton, contactez votre CSM et demandez des audiences prédictives)
+* Suivi des objectifs et enregistrements prévus (le suivi des objectifs n’est disponible que pour les personnes dont le bouton de nouvelle génération est activé pour les programmes d’événement), pour accéder à ce bouton, contactez votre CSM et demandez des audiences prédictives).
 
 >[!NOTE]
 >
