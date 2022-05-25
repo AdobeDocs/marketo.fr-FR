@@ -1,11 +1,10 @@
 ---
 description: Utilisation de la carte de document - Documents Marketo - Documentation du produit
 title: Utilisation de la carte de document
-hide: true
-hidefromtoc: true
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
+source-git-commit: 3df0369a963bd9c918fdeb819d503584c27cd5f1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -28,15 +27,19 @@ La vignette Document permet d’incorporer des documents PDF dans les boîtes de
 
    ![](assets/using-the-document-card-3.png)
 
+   >[!IMPORTANT]
+   >
+   >Vous devez utiliser le domaine sur lequel vous hébergerez le chatbot (par exemple, si vous hébergez le chatbot sur mycompany.com, veillez à le saisir à l’étape 4).
+
 1. Cliquez sur **Copier** pour copier votre ID de client.
 
    ![](assets/using-the-document-card-4.png)
 
-1. De retour dans Dynamic Chat, cliquez sur **Intégrations**. Cliquez sur les données sous l’API intégrée Adobe PDF et sélectionnez **Modifier la configuration**.
+1. De retour dans Dynamic Chat, cliquez sur **Intégrations**. Dans la carte de l’API intégrée Adobe PDF, cliquez sur **Activer**.
 
    ![](assets/using-the-document-card-5.png)
 
-1. Collez votre ID client et cliquez sur **Mettre à jour**.
+1. Collez votre ID client et cliquez sur **Enregistrer**.
 
    ![](assets/using-the-document-card-6.png)
 
