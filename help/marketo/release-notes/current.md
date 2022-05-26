@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
+source-git-commit: f7bb22572ed1a79fe8afe4a1066a2cc172a43f23
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,12 @@ Les fonctionnalités suivantes commenceront à être publiées sur **24 juin 202
 ![(étoile)](assets/yellow-star.png)
 
 * **Jeu d’autorisations Sales Insight dans Salesforce**: Les administrateurs peuvent accorder l’accès à Sales Insight à un nombre limité de personnes au niveau de l’utilisateur plutôt qu’au niveau du profil par le biais du jeu d’autorisations Marketo App, qui fait partie du package Sales Insight Salesforce.
+
+* **Mise à jour de la mosaïque Mes Marketo - Actions d’aperçu des ventes**: Les administrateurs Marketo (et les utilisateurs qu’ils désignent) peuvent désormais accéder rapidement à leur instance d’actions Sales Insight via une nouvelle mosaïque Sales Insight Actions (Actions Aperçu des ventes) située sur la page My Marketo.
+
+## SalesConnect {#sales-connect}
+
+* **Mise à jour de l’API Salesforce**: Avec la version d’été 22 de Salesforce, les versions 21 à 30 héritées de l’API ne seront plus prises en charge par Salesforce. Avec cette version de Marketo Engage, toutes les demandes de Sales Connect utilisant des versions d’API héritées ont été mises à jour afin de rester dans une version prise en charge. Pour plus d’informations sur les plans de retraite de l’API Salesforce, cliquez sur [here](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
 
 ## Améliorations des API {#api-enhancements}
 
