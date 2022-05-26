@@ -2,16 +2,20 @@
 description: Stream Designer - Documents Marketo - Documentation du produit
 title: Designer de flux
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
+source-git-commit: 49917612dee078e03f68e1b7a45a085d89434b7f
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 3%
+source-wordcount: '756'
+ht-degree: 2%
 
 ---
 
 # Designer de flux {#stream-designer}
 
-Il y a _many_ combinaisons de flux que vous pouvez créer. Cet article contient un exemple dans lequel le spécialiste du marketing demande au visiteur du site s’il lui pose des questions sur un produit. Si oui, le visiteur peut planifier un rendez-vous. Si ce n’est pas le cas, le visiteur a la possibilité de s’inscrire à une liste de distribution pour une correspondance ultérieure. L’objectif est de planifier un rendez-vous ou de collecter l’adresse électronique du visiteur.
+Il y a _many_ combinaisons de diffusion possibles. Cet article contient un exemple dans lequel le spécialiste du marketing demande au visiteur du site s’il lui pose des questions sur un produit. Si oui, le visiteur peut planifier un rendez-vous. Si ce n’est pas le cas, le visiteur a la possibilité de s’inscrire à une liste de distribution pour une correspondance ultérieure. On leur offre aussi un PDF gratuit. L’objectif final est de planifier un rendez-vous ou de collecter l’email du visiteur.
+
+>[!PREREQUISTES]
+>
+>Avant de pouvoir utiliser la carte Document, vous devez d’abord [configurer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;} dans votre compte d’Adobe.
 
 ## Diffusion en continu de cartes Designer {#stream-designer-cards}
 
@@ -49,47 +53,51 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
 
 1. Après avoir [créer votre boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, cliquez sur le bouton **Concepteur de diffusion** .
 
-   ![](assets/create-a-stream-1.png)
+   ![](assets/stream-designer-1.png)
 
 1. Faites glisser et déposez la carte Question .
 
-   ![](assets/create-a-stream-2.png)
+   ![](assets/stream-designer-2.png)
 
 1. Sous Réponse Chatbot, entrez votre question comme vous le souhaitez.
 
-   ![](assets/create-a-stream-3.png)
+   ![](assets/stream-designer-3.png)
 
    >[!NOTE]
    >
-   >Par défaut, le point est activé, ce qui affiche la question d’ouverture en regard de l’icône de conversation sans que le visiteur ait à cliquer dessus pour l’afficher.
+   >Par défaut, le point est activé, ce qui affiche la question d’ouverture en regard de l’icône de conversation sans que le visiteur ait à cliquer dessus pour l’afficher. Poke n’est disponible que sur la première carte de la conversation.
 
 1. Saisissez vos réponses utilisateur et cliquez sur **Enregistrer**.
 
-   ![](assets/create-a-stream-4.png)
+   ![](assets/stream-designer-4.png)
+
+   >[!NOTE]
+   >
+   >**Modifier les valeurs stockées** est une étape facultative pour ceux qui souhaitent stocker une valeur différente dans la base de données de celle affichée pour les visiteurs dans le chatbot pour les attributs mappés dans la carte de question (par exemple : le visiteur voit &quot;Optimisation du moteur de recherche&quot;, vous stockez cette valeur comme &quot;SEO&quot;.
 
 1. Pour &quot;Oui&quot;, nous voulons planifier un rendez-vous. Par conséquent, en dessous de cette option, faites glisser sur la carte Planificateur de rendez-vous .
 
-   ![](assets/create-a-stream-5.png)
+   ![](assets/stream-designer-5.png)
 
 1. Dans la colonne de droite, cliquez sur **Enregistrer**.
 
-   ![](assets/create-a-stream-6.png)
+   ![](assets/stream-designer-6.png)
 
 1. Comme il s’agit d’un objectif, faites glisser la carte Objectif sous le Planificateur de rendez-vous.
 
-   ![](assets/create-a-stream-7.png)
+   ![](assets/stream-designer-7.png)
 
 1. Nommez votre objectif (ou choisissez un objectif existant) et cliquez sur **Enregistrer**.
 
-   ![](assets/create-a-stream-8.png)
+   ![](assets/stream-designer-8.png)
 
 1. Pour &quot;Non&quot;, nous voulons voir s’ils vont rejoindre la liste de distribution. Par conséquent, sous cette option, faites glisser sur une autre carte Question .
 
-   ![](assets/create-a-stream-9.png)
+   ![](assets/stream-designer-9.png)
 
 1. Saisissez votre réponse et ajoutez des choix de réponse pour le visiteur. Cliquez sur **Enregistrer** une fois terminé.
 
-   ![](assets/create-a-stream-10.png)
+   ![](assets/stream-designer-10.png)
 
    >[!NOTE]
    >
@@ -97,15 +105,15 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
 
 1. Sous la réponse &quot;Oui&quot;, faites glisser la souris sur la carte Capture d’informations afin de collecter l’email du visiteur.
 
-   ![](assets/create-a-stream-11.png)
+   ![](assets/stream-designer-11.png)
 
 1. Cliquez sur le bouton **Type** et sélectionnez **Email**.
 
-   ![](assets/create-a-stream-12.png)
+   ![](assets/stream-designer-12.png)
 
 1. Saisissez un message de chatterbot et un espace réservé. Assurez-vous que l’attribut est mappé sur le champ approprié dans Marketo et cliquez sur **Enregistrer**.
 
-   ![](assets/create-a-stream-13.png)
+   ![](assets/stream-designer-13.png)
 
    <table>
     <tr>
@@ -128,27 +136,27 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
 
 1. Puisque la collecte de leur email est un objectif, faites glisser la carte Objectif sous Capture d’informations.
 
-   ![](assets/create-a-stream-14.png)
+   ![](assets/stream-designer-14.png)
 
 1. Nommez votre objectif (ou choisissez un objectif existant) et cliquez sur **Enregistrer**.
 
-   ![](assets/create-a-stream-15.png)
+   ![](assets/stream-designer-15.png)
 
-1. N’oubliez pas d’ajouter une réponse s’ils disent &quot;Non&quot;. Faites glisser une carte Message sous cette option.
+1. N’oubliez pas d’ajouter une réponse s’ils disent &quot;Non&quot;. Une option consiste à faire glisser une carte Message ci-dessous et à dire &quot;merci quand même&quot;. Mais dans cet exemple, nous allons plutôt leur fournir un document de PDF gratuit.
 
-   ![](assets/create-a-stream-16.png)
+   ![](assets/stream-designer-16.png)
 
-1. Saisissez votre message et cliquez sur **Enregistrer**.
+1. Dans cet exemple, nous allons créer un nouveau document. Attribuez-lui un nom, saisissez l’URL du PDF que vous avez déjà hébergé, puis cliquez sur **Enregistrer**.
 
-   ![](assets/create-a-stream-17.png)
+   ![](assets/stream-designer-17.png)
 
 1. Sélectionnez la **Aperçu** bascule pour afficher l’aperçu de votre dialogue.
 
-   ![](assets/create-a-stream-18.png)
+   ![](assets/stream-designer-18.png)
 
 1. Lorsque vous êtes prêt à activer votre dialogue, cliquez sur **Publier**.
 
-   ![](assets/create-a-stream-19.png)
+   ![](assets/stream-designer-19.png)
 
 >[!NOTE]
 >
@@ -159,4 +167,5 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
 >* [Créer un dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
 >* [Critères d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
 >* [Rapports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
+>* [Utilisation de la carte de document](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;}
 
