@@ -2,7 +2,7 @@
 description: Stream Designer - Documents Marketo - Documentation du produit
 title: Designer de flux
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 49917612dee078e03f68e1b7a45a085d89434b7f
+source-git-commit: f08484455baaf073bb42ae8a62a9dcc6fc7fd48f
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 Il y a _many_ combinaisons de diffusion possibles. Cet article contient un exemple dans lequel le spécialiste du marketing demande au visiteur du site s’il lui pose des questions sur un produit. Si oui, le visiteur peut planifier un rendez-vous. Si ce n’est pas le cas, le visiteur a la possibilité de s’inscrire à une liste de distribution pour une correspondance ultérieure. On leur offre aussi un PDF gratuit. L’objectif final est de planifier un rendez-vous ou de collecter l’email du visiteur.
 
->[!PREREQUISTES]
+>[!PREREQUISITES]
 >
 >Avant de pouvoir utiliser la carte Document, vous devez d’abord [configurer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;} dans votre compte d’Adobe.
 
