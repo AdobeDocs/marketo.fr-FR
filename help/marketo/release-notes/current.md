@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40e88a573079b87b3af9a653d8e0b64b5b7522bc
+source-git-commit: 3fe29ccb26e72b593f8b410a45a4871e68fb5fa8
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **24 juin 202
 
 ## Annonces {#announcements}
 
-* **Obsolescence de Forms - Forms 1.0, point de fin de capture/enregistrement de piste et versions sans script des formulaires**: La prise en charge des ressources Forms 1.0 sera complètement supprimée de Marketo Engage en octobre 2022. Toutes les ressources Forms 1.0 existantes cesseront de fonctionner. Les formulaires Marketo Engage nécessitent JavaScript pour être chargés sur les landing pages et les sites web.
+* **Obsolescence de Forms - Forms 1.0, point de fin de capture/enregistrement de piste et versions sans script des formulaires**: La prise en charge des ressources Forms 1.0 sera complètement supprimée de Marketo Engage d’ici octobre 2022. Toutes les ressources Forms 1.0 existantes cesseront de fonctionner. Les formulaires Marketo Engage nécessitent JavaScript pour être chargés sur les landing pages et les sites web.
 
 **_Webinaire sur la version du produit_**
 
