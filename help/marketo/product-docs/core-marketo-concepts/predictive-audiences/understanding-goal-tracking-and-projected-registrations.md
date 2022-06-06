@@ -1,12 +1,10 @@
 ---
 description: Présentation du suivi des objectifs et des inscriptions prévues - Documents Marketo - Documentation du produit
 title: Comprendre le suivi des objectifs et les inscriptions prévues
-hide: true
-hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
 workflow-type: tm+mt
-source-wordcount: '982'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -27,23 +25,27 @@ Voici comment suivre la progression de votre objectif et comprendre les prédict
 
 1. Vous trouverez les détails du suivi des objectifs dans la variable **[!UICONTROL Rapports]** de votre programme d’événements. Dans cet exemple particulier, il y a jusqu’à présent 150 membres enregistrés par rapport à un objectif de 200 (75 %).
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
 Vous verrez également votre **[!UICONTROL Prévu]** inscriptions. Passez la souris sur l’icône d’information pour afficher une ventilation de ce nombre par segment Probabilité .
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
 >[!NOTE]
 >
 >Les graphiques Participant et Supérieur restent vides jusqu’au jour de l’événement.
 
+Si vous n’avez pas activé le commutateur, voici comment il apparaîtra dans l’interface utilisateur de la classe Marketo :
+
+![](assets/understanding-goal-tracking-and-projected-registrations-3.png)
+
 1. Cliquez sur le bouton d’activation/désactivation Graphique pour passer à une ventilation de vos membres selon la probabilité d’inscription. Vous verrez les pourcentages d’enregistrement actuels pour chaque segment, par rapport au pourcentage moyen pour ce segment dans vos programmes précédents.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
 Tous les membres (enregistrés et non encore enregistrés) sont classés en fonction de leur probabilité d’enregistrement. Passez la souris sur l’icône d’information pour voir comment ces catégories de probabilité sont définies.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
@@ -62,19 +64,19 @@ Dans le calcul de programmes similaires, nous incluons les facteurs suivants, en
 * Durée de la création de l’événement au début de l’événement
 * Durée de l’événement
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Recommandations
 
 En haut de la page Rapports, vous trouverez des recommandations pilotées par l’IA/ML en fonction de votre progression. Revenez régulièrement pour obtenir des conseils et des informations utiles.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Prédictions au niveau de la personne
 
 Cliquez sur le bouton **[!UICONTROL Membres]** pour afficher tous les membres du programme. Passez la souris sur le **[!UICONTROL Probabilité d’enregistrement]** ou **[!UICONTROL Probabilité de présence]** pour afficher les pourcentages et les catégories exacts. Vous pouvez ensuite agir sur les membres d’une catégorie spécifique (par exemple, tous les membres de la catégorie &quot;Moins susceptibles&quot; d’enregistrer) et les cibler spécifiquement pour augmenter éventuellement vos numéros d’inscription.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
 >[!NOTE]
 >
@@ -110,7 +112,7 @@ ii. Après 24 heures, dans la variable [!UICONTROL Rapports] vous pouvez voir le
 
 iii. Si les enregistrements prévus sont inférieurs à l’objectif, vous devez inviter plus de personnes. À ce stade, vous pouvez voir les informations qui vous disent quel seuil a été celui qui a fonctionné dans les programmes précédents.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-9.png)
 
 iv. Vous pouvez créer une nouvelle campagne dynamique avec ce seuil pour inviter plus de personnes.
 
@@ -124,7 +126,7 @@ A : Trois barres représentent chacune un segment (très probable, probable, moi
 
 **Barre bleue :** Pourcentage d’enregistrement de toutes les personnes dans ce segment.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 Par exemple, supposons que 100 personnes ont une probabilité d’enregistrement supérieure à 50 % et 60 sur ces 100 personnes enregistrées. La conversion est très probablement de 60 %. Ainsi, tous les membres ajoutés au programme ont la probabilité d’enregistrer des valeurs, puis ils sont placés dans des segments et selon le nombre de personnes enregistrées dans chaque taux de conversion de segment est calculé.
 
@@ -134,10 +136,10 @@ A : Toute personne répertoriée comme enregistrée ou tout autre statut ayant u
 
 Vous pouvez créer de nouveaux statuts de progression pour un programme d’événements, mais nous les associons à des statuts standard. Prenons le cas où une personne est déplacée d’une personne invitée à un rappel, ce qui est une étape plus élevée que l’enregistrement. Cette personne sera également considérée comme enregistrée et affichée dans le suivi de l’objectif.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
 **Q : Comment sont calculés les inscriptions prévues ?**
 
 A : Voir ci-dessous.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-12.png)
