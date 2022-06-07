@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
+source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
 workflow-type: tm+mt
-source-wordcount: '8775'
+source-wordcount: '8780'
 ht-degree: 5%
 
 ---
@@ -384,6 +384,7 @@ ht-degree: 5%
             + [Expiration des ressources locales](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [Gestion et affichage des membres](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [Champs personnalisés des membres du programme](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
+            + [Synchronisation des champs personnalisés des membres du programme](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
             + [Synchronisation d’une campagne SFDC avec un programme](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [Présentation des coûts de la période](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [Présentation des balises](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
