@@ -2,9 +2,9 @@
 description: Configuration de l’administration - Documents Marketo - Documentation du produit
 title: Configuration de l’administrateur
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 Une fois que vous avez été ajouté en tant qu’administrateur système d’Adobe à Marketo Engage dans une organisation d’Adobe, vous devez suivre quelques étapes pour terminer la configuration initiale.
 
-## Configuration de l’administrateur système {#system-admin-setup}
+## Configuration initiale {#initial-setup}
 
 1. Une fois que vous avez été ajouté en tant qu’administrateur système désigné pour Marketo Engage (dans une organisation nouvelle ou établie), vous recevrez un e-mail de bienvenue. Dans cet email, cliquez sur **Prise en main**.
 
    ![](assets/admin-setup-1.png)
 
-1. Si vous avez déjà accédé à une application avec une Adobe ID, vous serez directement dirigé vers Adobe Admin Console. Si ce n’est pas le cas, [Configuration de votre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. Si vous avez déjà accédé à une application avec une Adobe ID, vous serez directement dirigé vers Adobe Admin Console. Si ce n’est pas le cas, [Configuration de votre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}.
 
    ![](assets/admin-setup-2.png)
 
@@ -53,4 +53,4 @@ Une fois que l’administrateur système a accédé au Admin Console, il est tem
 
 >[!MORELIKETHIS]
 >
->[Ajout ou suppression d’un administrateur de produit](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>[Ajout ou suppression d’un administrateur de produit](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target=&quot;_blank&quot;}
