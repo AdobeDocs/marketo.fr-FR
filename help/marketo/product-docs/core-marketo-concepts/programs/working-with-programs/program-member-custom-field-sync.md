@@ -3,9 +3,9 @@ description: Champs personnalisés des membres du programme - Documents Marketo 
 title: Champs personnalisés des membres du programme
 hide: true
 hidefromtoc: true
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: 09e9ee74c32f81fdc826454266d3e16826a09eae
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '348'
 ht-degree: 6%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 6%
 >
 >L’objet membre du programme peut comporter jusqu’à 20 champs personnalisés. Ces champs sont disponibles pour tous les programmes.
 
-## Mappage des champs Salesforce aux champs des membres du programme {#map-salesforce-fields-to-program-member-fields}
+## Faire correspondre les champs Salesforce aux champs personnalisés des membres du programme {#map-salesforce-fields-to-program-member-custom-fields}
 
 1. Dans Marketo, cliquez sur **Administration**.
 
@@ -60,7 +60,7 @@ ht-degree: 6%
    >
    >Si vous renommez ou modifiez le type de données d’un champ dans Salesforce, nous supprimerons tout mappage de ce champ avec le champ personnalisé Membre du programme. Mais vous pouvez le remapper avec le nouveau champ après révision.
 
-## Démapper les champs Salesforce aux champs des membres du programme {#unmap-salesforce-fields-to-program-member-fields}
+## Démapper les champs Salesforce des champs personnalisés des membres du programme {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter une modification générale, vous devez d’abord effectuer un démapping. Voici comment.
 
@@ -88,7 +88,7 @@ Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter
 
    ![](assets/program-member-custom-field-sync-11.png)
 
-## Mappage du type de données {#datatype-mapping}
+## Mappage des types de données {#data-type-mapping}
 
 <table>
   <colgroup>
@@ -98,7 +98,7 @@ Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter
   <tbody>
     <tr>
       <th>Type de données SFDC</th>
-      <th>Type de données de champ de membre du programme</th>
+      <th>Type de données de champ personnalisé du membre du programme</th>
     </tr>
     <tr>
       <td>Texte</td>
