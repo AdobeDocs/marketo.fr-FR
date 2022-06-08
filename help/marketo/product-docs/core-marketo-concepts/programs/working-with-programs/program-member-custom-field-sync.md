@@ -3,9 +3,10 @@ description: Champs personnalisés des membres du programme - Documents Marketo 
 title: Champs personnalisés des membres du programme
 hide: true
 hidefromtoc: true
-source-git-commit: 09e9ee74c32f81fdc826454266d3e16826a09eae
+exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '363'
 ht-degree: 6%
 
 ---
@@ -14,7 +15,9 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->Création de [Champs personnalisés des membres du programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target=&quot;_blank&quot;}
+>* Création de [Champs personnalisés des membres du programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target=&quot;_blank&quot;}
+>* [Synchronisation d’une campagne Salesforce avec un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target=&quot;_blank&quot;}
+
 
 >[!NOTE]
 >
@@ -159,4 +162,5 @@ Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter
 >
 >* [Modification des données des membres du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target=&quot;_blank&quot;}
 >* [Affichage des données sur la grille Programme Member](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target=&quot;_blank&quot;}
+>* [Synchronisation SFDC - Synchronisation des campagnes](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target=&quot;_blank&quot;}
 
