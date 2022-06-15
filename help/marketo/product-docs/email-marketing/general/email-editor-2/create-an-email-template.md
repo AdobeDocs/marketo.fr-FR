@@ -1,31 +1,34 @@
 ---
 unique-page-id: 10096400
-description: Création d’un modèle de courrier électronique - Documents marketing - Documentation du produit
-title: Créer un modèle de courrier électronique
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Création d’un modèle de courrier électronique - Documents Marketo - Documentation du produit
+title: Création d’un modèle de courrier électronique
+exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
+source-git-commit: 1a3c22db02bb7c26380d58c816baef4b40a357ac
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
+# Création d’un modèle de courrier électronique {#create-an-email-template}
 
-# Créer un modèle de courriel {#create-an-email-template}
-
-Pour créer un modèle de courrier électronique, procédez comme suit.
+Pour créer un modèle d’email, procédez comme suit.
 
 >[!NOTE]
 >
->La prise en charge du marketing n’est pas configurée pour aider à résoudre les problèmes liés au code HTML personnalisé. Pour obtenir de l’aide sur HTML, veuillez consulter un développeur Web.
+>La prise en charge de Marketo n’est pas configurée pour vous aider à résoudre les problèmes liés aux HTMLS personnalisés. Pour obtenir de l’aide sur les HTMLS, consultez un développeur web.
 
-## Créer un modèle de courriel {#create-a-new-email-template}
+>[!CAUTION]
+>
+>L’éditeur que nous utilisons convertit les valeurs des propriétés CSS de couleur et de couleur d’arrière-plan en minuscules. Évitez donc d’utiliser des majuscules et des tirets en minuscules.
+
+## Créer un modèle de courrier électronique {#create-a-new-email-template}
 
 1. Cliquez sur **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Cliquez sur **Nouveau**, puis sélectionnez **Nouveau modèle de courriel**.
+1. Cliquez sur **Nouveau**, puis sélectionnez **Nouveau modèle de courrier électronique**.
 
    ![](assets/ds-two.png)
 
@@ -39,36 +42,36 @@ Pour créer un modèle de courrier électronique, procédez comme suit.
 
    >[!CAUTION]
    >
-   >Bien qu’il n’y ait aucune limite stricte, une fois qu’un modèle de courrier électronique est utilisé par plus de 500 courriers électroniques, la réapprobation de ce modèle après une mise à jour peut entraîner des problèmes de performances. Nous vous recommandons de créer un nouveau modèle une fois qu’un modèle de courrier électronique comporte 500 courriers électroniques qui lui sont associés.
+   >Bien qu’il n’existe aucune limite stricte, une fois qu’un modèle d’email est utilisé par plus de 500 emails, la réapprobation de ce modèle après une mise à jour peut entraîner des problèmes de performances. Nous vous recommandons de créer un nouveau modèle lorsqu’un modèle d’email est associé à 500 emails.
 
-## Enregistrer un courriel en tant que modèle {#save-an-email-as-a-template}
+## Enregistrement d’un email en tant que modèle {#save-an-email-as-a-template}
 
-Si vous avez créé un courrier électronique que vous souhaitez enregistrer en tant que modèle pour une utilisation ultérieure, procédez comme suit.
+Si vous avez créé un email que vous souhaitez enregistrer en tant que modèle pour une utilisation ultérieure, procédez comme suit.
 
 1. Cliquez sur **Activités marketing**.
 
    ![](assets/one.png)
 
-1. Recherchez et sélectionnez votre adresse électronique, puis cliquez sur **Modifier le brouillon**.
+1. Recherchez et sélectionnez votre email, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/two-1.png)
 
-1. Cliquez sur la liste déroulante **Actions de courriel** et sélectionnez **Enregistrer en tant que modèle**.
+1. Cliquez sur le bouton **Actions de courrier électronique** et sélectionnez **Enregistrer en tant que modèle**.
 
    ![](assets/four-1.png)
 
-1. Cliquez sur la liste déroulante **Dossier**, sélectionnez l’emplacement où le modèle doit être activé, puis cliquez sur **Enregistrer**.
+1. Cliquez sur le bouton **Dossier** , sélectionnez l’emplacement dans lequel vous souhaitez que le modèle soit installé, puis cliquez sur **Enregistrer**.
 
    ![](assets/five-1.png)
 
-   Et c&#39;est tout !
+   Et voilà !
 
    >[!CAUTION]
    >
-   >Lors de l’enregistrement d’un courrier électronique en tant que modèle, les valeurs de variable ne sont pas reportées. Les variables continueront à utiliser les valeurs par défaut spécifiées dans le modèle sous-jacent. Les modules disponibles dans le courrier électronique ne seront pas non plus reportés s’ils n’ont pas été insérés dans le corps du courrier électronique.
+   >Lors de l’enregistrement d’un email en tant que modèle, les valeurs de variable ne seront pas transférées. Les variables continueront à utiliser les valeurs par défaut spécifiées dans le modèle sous-jacent. Les modules disponibles dans l&#39;email ne seront pas non plus reportés s&#39;ils n&#39;ont pas été insérés dans le corps de l&#39;email.
 
-Pour personnaliser votre modèle de courrier électronique, consultez l’article ci-dessous.
+Pour personnaliser votre modèle d&#39;email, consultez l&#39;article ci-dessous.
 
 >[!MORELIKETHIS]
 >
->[Syntaxe du modèle de courriel](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[Syntaxe du modèle de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
