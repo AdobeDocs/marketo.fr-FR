@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3fe29ccb26e72b593f8b410a45a4871e68fb5fa8
+source-git-commit: 46aff8058cb97743bee1bd5ff5ddf0ddbbb663a5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '647'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,8 @@ Les fonctionnalités suivantes commenceront à être publiées sur **24 juin 202
 * **Mise à jour de la mosaïque Mes Marketo - Actions d’aperçu des ventes**: Les administrateurs Marketo (et les utilisateurs qu’ils désignent) peuvent désormais accéder rapidement à leur instance d’actions Sales Insight via une nouvelle mosaïque Sales Insight Actions (Actions Aperçu des ventes) située sur la page My Marketo.
 
 ## SalesConnect {#sales-connect}
+
+![(étoile)](assets/yellow-star.png)
 
 * **Mise à jour de l’API Salesforce**: Avec la version d’été 22 de Salesforce, les versions 21 à 30 héritées de l’API ne seront plus prises en charge par Salesforce. Avec cette version de Marketo Engage, toutes les demandes de Sales Connect utilisant des versions d’API héritées ont été mises à jour afin de rester dans une version prise en charge. Pour plus d’informations sur les plans de retraite de l’API Salesforce, cliquez sur [here](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
 
