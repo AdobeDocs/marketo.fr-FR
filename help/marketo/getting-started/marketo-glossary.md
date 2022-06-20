@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Glossaire Marketo - Documents Marketo - Documentation du produit
 title: Glossaire Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
 workflow-type: tm+mt
-source-wordcount: '4196'
+source-wordcount: '4203'
 ht-degree: 4%
 
 ---
@@ -28,19 +28,15 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
   </tr> 
   <tr> 
    <td colspan="1"><strong>Compte</strong></td> 
-   <td colspan="1">Ce terme peut avoir des significations différentes :<br>- Votre instance Marketo elle-même peut être appelée votre compte Marketo.<br>-In <strong>ABM</strong>, un <strong>Compte nommé</strong> est un compte que l’utilisateur a déterminé comme étant un compte cible qu’il souhaite poursuivre.<br>- Dans ABM, un compte CRM est un compte mappé à partir de votre lien <strong>CRM</strong> (compte dans <strong>Salesforce</strong>, <strong>MS Dynamics</strong> ou <strong>API</strong>).<br>- Dans votre CRM, les comptes sont l’entreprise/la société à laquelle les prospects et les contacts sont associés.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Marketing basé sur les comptes</a> (ABM)</strong></td> 
-   <td colspan="1">Fonctionnalité de module complémentaire permettant de cibler et d’engager des comptes clés de manière hautement coordonnée.</td> 
+   <td colspan="1">Ce terme peut avoir des significations différentes :<br>- Votre instance Marketo elle-même peut être appelée votre compte Marketo.<br>-In <strong>TAM</strong>, un <strong>Compte nommé</strong> est un compte que l’utilisateur a déterminé comme étant un compte cible qu’il souhaite poursuivre.<br>-Dans la gestion de la relation client, un compte CRM est mappé à partir de votre lien <strong>CRM</strong> (compte dans <strong>Salesforce</strong>, <strong>MS Dynamics</strong> ou <strong>API</strong>).<br>- Dans votre CRM, les comptes sont l’entreprise/la société à laquelle les prospects et les contacts sont associés.</td> 
   </tr> 
   <tr> 
    <td><strong>Liste de compte</strong></td> 
-   <td>Liste des noms de compte/organisation clés. Connu également sous le nom de Account-Based Marketing (<strong>ABM</strong>).</td> 
+   <td>Liste des noms de compte/organisation clés. Également appelé gestion de compte Target (<strong>TAM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Account Profiling</strong></td> 
-   <td colspan="1">(anciennement AccountAI) Dans <strong>ABM</strong>, à l’aide de votre profil client idéal (ICP), les entreprises existantes dans votre base de données seront classées et les classements seront ajoutés en tant que scores sur vos comptes.</td> 
+   <td colspan="1">(anciennement AccountAI) Dans <strong>TAM</strong>, à l’aide de votre profil client idéal (ICP), les entreprises existantes dans votre base de données seront classées et les classements seront ajoutés en tant que scores sur vos comptes.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Évaluation du compte</a></strong></td> 
@@ -574,7 +570,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
  <tbody> 
   <tr> 
    <td><strong>Compte nommé</strong></td> 
-   <td><p>Dans <strong>ABM</strong>, un compte déterminé par l’utilisateur est un compte cible qu’il souhaite poursuivre.</p></td> 
+   <td><p>Dans <strong>TAM</strong>, un compte déterminé par l’utilisateur est un compte cible qu’il souhaite poursuivre.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Programme de fidélisation</strong></td> 
@@ -647,7 +643,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
-   <td colspan="1">Dans Marketo <strong>Marketing basé sur les comptes</strong>, les personas sont un sous-ensemble d’une audience, permettant un ciblage plus spécifique.</td> 
+   <td colspan="1">Dans Marketo <strong>Gestion de compte Target</strong>, les personas sont un sous-ensemble d’une audience, permettant un ciblage plus spécifique.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Sondage</strong></a></td> 
@@ -807,7 +803,11 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Variables</a></strong></td> 
    <td>Identifiants utilisés pour décrire <strong>programmes</strong>.</td> 
-  </tr> 
+  </tr>
+  <tr> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Gestion de compte Target</a> (TAM)</strong></td> 
+   <td colspan="1">(anciennement Marketing basé sur un compte/ABM) Fonctionnalité de module complémentaire qui vous permet de cibler et d’interagir avec des comptes clés de manière très coordonnée.</td> 
+  </tr>
   <tr> 
    <td><strong>Modèle</strong></td> 
    <td>Un <strong>email</strong> ou <strong>landing page</strong> qui sert de point de départ à la création d’emails ou de landing pages supplémentaires.</td> 
