@@ -2,7 +2,7 @@
 description: Règles de validation de formulaire globales - Documents Marketo - Documentation du produit
 title: Règles de validation de formulaire globales
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
+source-git-commit: c91fa08bcb833a4c8a65055fd2471d7bc03a4e71
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -73,7 +73,7 @@ Avant de pouvoir utiliser cette fonction, vous devez activer son autorisation se
 
 ## Comment désactiver l’accès par formulaire{#how-to-disable-access-per-form}
 
-Une fois activées, les règles s’appliquent à tous les formulaires. Toutefois, si vous disposez d’un formulaire avec des exigences spécifiques et que vous ne souhaitez rien refuser, vous pouvez désactiver les règles de validation de formulaire globales dans les paramètres d’un formulaire.
+Une fois activées, les règles s’appliquent à tous les formulaires. Toutefois, si vous disposez d’un formulaire avec des exigences spécifiques et que vous ne souhaitez rien refuser, vous pouvez désactiver les règles de validation de formulaire globales dans les paramètres du formulaire.
 
 1. Dans le formulaire de votre choix, cliquez sur **Paramètres de formulaire**, puis **Paramètres**.
 
