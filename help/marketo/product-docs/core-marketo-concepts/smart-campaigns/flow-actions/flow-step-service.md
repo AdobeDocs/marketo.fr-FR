@@ -2,24 +2,16 @@
 description: Service d’étape de flux - Documents Marketo - Documentation du produit
 title: Service d’étape de flux
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
 workflow-type: tm+mt
-source-wordcount: '1292'
+source-wordcount: '1243'
 ht-degree: 0%
 
 ---
 
 # Service d’étape de flux {#flow-step-service}
 
->[!NOTE]
->
->Les étapes de flux en libre-service sont actuellement en version bêta ouverte. Vous pouvez l’activer pour votre abonnement dans Admin > Treasure Chest Menu.
-
 Les étapes de flux en libre-service constituent une structure et un ensemble de fonctionnalités permettant de créer, de publier et d’intégrer des services web dans des campagnes dynamiques Adobe Marketo Engage. Ce guide est destiné aux utilisateurs finaux Marketo Engage qui souhaitent installer et utiliser des services qui ont déjà été créés et publiés. Pour plus d’informations sur la création et la publication de votre propre service, reportez-vous à la section [Référentiel GitHub pour l’interface du fournisseur de services](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Une implémentation de table de recherche de preuve de concept se trouve. [here](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
-
-## Restrictions et avertissements relatifs aux versions antérieures {#pre-release-restrictions-and-warnings}
-
-Cette fonctionnalité est actuellement en version bêta libre et ne doit être utilisée que sur les instances Sandbox de Marketo Engage tant que votre service n’a pas été entièrement testé.
 
 ## Intégration et gestion des services {#onboarding-and-managing-services}
 
