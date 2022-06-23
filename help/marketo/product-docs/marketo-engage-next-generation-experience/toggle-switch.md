@@ -2,9 +2,9 @@
 description: Basculer entre - Documents Marketo - Documentation du produit
 title: Basculer entre les deux
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
+source-git-commit: 917b74a9175707b9475a5d07eb116cde738f6f13
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ La nouvelle expérience se charge.
 
 ![](assets/toggle-switch-7.png)
 
-## Page Détails de la page d’entrée {#landing-page-details-page}
+## Vue Détails de la page d’entrée {#landing-page-details-view}
 
 1. Dans Marketo, recherchez et sélectionnez votre landing page.
 
@@ -117,14 +117,48 @@ La nouvelle expérience se charge.
 
 ![](assets/toggle-switch-21.png)
 
+## Affichage des détails du courrier électronique {#email-details-view}
+
+1. Dans Marketo, recherchez et sélectionnez votre email.
+
+   ![](assets/toggle-switch-22.png)
+
+1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
+
+   ![](assets/toggle-switch-23.png)
+
+La nouvelle expérience se charge.
+
+![](assets/toggle-switch-24.png)
+
+## Mode Liste des emails {#email-list-view}
+
+La vue de liste d’emails de génération suivante offre des filtres de recherche et la possibilité d’effectuer des actions de messagerie en masse.
+
+1. Dans Marketo, sélectionnez **Design Studio**.
+
+   ![](assets/toggle-switch-25.png)
+
+1. Sélectionner **Emails**.
+
+   ![](assets/toggle-switch-26.png)
+
+1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
+
+   ![](assets/toggle-switch-27.png)
+
+La nouvelle expérience se charge.
+
+![](assets/toggle-switch-28.png)
+
 ## Activation pour toutes les fonctionnalités {#enable-for-all-features}
 
 Vous avez la possibilité d’activer manuellement l’interface nouvelle génération de Marketo pour toutes les fonctionnalités disponibles, actuelles et à venir.
 
 1. Dans une zone qui possède actuellement le commutateur de basculement (dans cet exemple, nous sommes dans [Page Détails du formulaire](#form-details-page)), cliquez sur l’icône d’engrenage dans le coin inférieur droit de la page.
 
-   ![](assets/toggle-switch-22.png)
+   ![](assets/toggle-switch-second-last.png)
 
 1. Sélectionner **Activer pour toutes les fonctionnalités disponibles** et cliquez sur **OK**.
 
-   ![](assets/toggle-switch-23.png)
+   ![](assets/toggle-switch-last.png)
