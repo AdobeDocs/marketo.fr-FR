@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2360360
-description: Création d’un crochet Web - Documents Marketo - Documentation du produit
-title: Création d’un crochet Web
+description: Création d’un webhook - Documents Marketo - Documentation du produit
+title: Création d’un webhook
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 4%
+source-wordcount: '209'
+ht-degree: 3%
 
 ---
 
-# Créer un crochet Web {#create-a-webhook}
+# Création d’un webhook {#create-a-webhook}
 
-Utilisez des hameçons Web pour tirer parti des services Web tiers pour envoyer des messages texte, développer les données personnelles, etc.
+Utilisez des webhooks pour tirer parti des services web tiers afin d’envoyer des messages texte, de développer les données de personne, etc.
 
 >[!AVAILABILITY]
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
-1. Accédez à **Admin** et cliquez sur **Webhooks**.
+1. Accédez à **Administration** et cliquez sur **Webhooks**.
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
-1. Cliquez sur **New Webhook**.
+1. Cliquez sur **Nouveau webhook**.
 
    ![](assets/image2014-9-24-14-3a53-3a9.png)
 
@@ -35,18 +34,20 @@ Utilisez des hameçons Web pour tirer parti des services Web tiers pour envoyer 
    >
    >Cela inclut souvent la saisie de vos informations d’identification de service tiers en tant que paramètre d’URL ou dans le modèle de POST.
 
-   * **URL** : Entrez l’URL que vous utilisez pour POST votre demande au service Web. Pour insérer un jeton, tel que l’adresse électronique de la personne (**`{{lead.Email Address}}`**), dans votre requête, cliquez sur **Insérer un jeton**.
+   * **URL**: Saisissez l’URL que vous utilisez dans votre requête au service Web. Pour insérer un jeton, tel que l’adresse électronique de la personne (**`{{lead.Email Address}}`**), dans votre requête, cliquez sur **Insérer un jeton**.
 
-   * **Modèle** : Si vous souhaitez transmettre des informations dans le corps du POST, entrez le modèle. Utilisez tout format de données prenant en charge le POST HTTP, y compris XML, JSON ou SOAP. Pour insérer un jeton dans votre modèle, cliquez sur **Insérer un jeton**.
+   * **Modèle**: Si vous souhaitez transmettre des informations dans le corps du POST, saisissez le modèle. Utilisez n’importe quel format de données prenant en charge le POST HTTP, y compris XML, JSON ou SOAP. Pour insérer un jeton dans votre modèle, cliquez sur **Insérer un jeton**.
 
-   * **Encodage** du jeton de demande : Si les valeurs de jeton comportent des caractères spéciaux (par exemple une esperluette, &quot;&amp;&quot;), indiquez le format de votre requête (**** JSONou  **Form/Url**).
+   * **Encodage du jeton de demande**: Si les valeurs de jeton incluent des caractères spéciaux (comme une esperluette, &#39;&amp;&#39;), indiquez le format de votre requête (**JSON** ou **Form/Url**).
 
-   * **Type** de réponse : Sélectionnez le format de la réponse que vous recevez du service (**** JSONou  **XML**).
+   * **Type de réponse**: Sélectionnez le format de la réponse que vous recevez du service (**JSON** ou **XML**).
 
-   Cliquez sur Créer.
+   * **Type de requête**: Sélectionnez la méthode HTTP à utiliser (DELETE, GET, PATCH, POST, PUT).
+
+   Cliquez sur **Créer**.
 
    ![](assets/image2014-9-24-14-3a53-3a35.png)
 
 >[!NOTE]
 >
->Pour en savoir plus, consultez les [webhooks](https://developers.marketo.com/documentation/webhooks/) plongée profonde.
+>En savoir plus dans la section [webhooks](https://developers.marketo.com/documentation/webhooks/) plongée profonde.
