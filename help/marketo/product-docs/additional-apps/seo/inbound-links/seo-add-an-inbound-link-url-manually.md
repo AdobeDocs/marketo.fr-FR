@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2949247
-description: SEO - Ajouter manuellement une URL de lien entrant - Documents Marketo - Documentation du produit
-title: SEO - Ajouter manuellement une URL de lien entrant
+description: SEO - Ajout manuel d’une URL de lien entrant - Documents Marketo - Documentation du produit
+title: SEO - Ajout manuel d’une URL de lien entrant
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0957b4475cc27075b428c9514971353e31d0d89c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 3%
 
 ---
 
-# SEO - Ajouter manuellement une URL de lien entrant {#seo-add-an-inbound-link-url-manually}
+# SEO - Ajout manuel d’une URL de lien entrant {#seo-add-an-inbound-link-url-manually}
 
 Vous pouvez ajouter manuellement des liens entrants. Voici comment :
 
-1. Accédez à la section **Liens entrants**.
+1. Accédez au **Liens entrants** .
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. Cliquez sur **Ajouter les URL**.
+1. Cliquez sur **Ajout d’URL**.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
@@ -29,8 +28,8 @@ Vous pouvez ajouter manuellement des liens entrants. Voici comment :
 
    >[!TIP]
    >
-   >Saviez-vous que vous pouvez [ajouter votre lien entrant à une liste nouvelle ou existante](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ? Découvrez-le ! 
+   >Savais-tu que tu pouvais ? [ajouter votre lien entrant à une liste existante ou nouvelle](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target=&quot;_blank&quot;} ? Découvrez-le ! 
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
-Continue ! Vous devriez maintenant voir votre nouvelle URL ajoutée à la liste. La collecte de toutes les données peut prendre un certain temps.
+Continue ! Votre nouvelle URL devrait maintenant être ajoutée à la liste. La collecte de toutes les données peut prendre un certain temps.
