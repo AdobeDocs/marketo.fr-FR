@@ -3,16 +3,16 @@ unique-page-id: 4720476
 description: Glossaire des icônes classiques - Documents Marketo - Documentation du produit
 title: Glossaire des icônes classiques
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
-source-wordcount: '562'
-ht-degree: 33%
+source-wordcount: '564'
+ht-degree: 34%
 
 ---
 
 # Glossaire des icônes classiques {#classic-icon-glossary}
 
-Vous trouverez ci-dessous les anciennes icônes de Marketo Classic. Le nouveau glossaire des icônes se trouve [ici](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
+Vous trouverez ci-dessous les anciennes icônes de Marketo Classic. Le nouveau glossaire d’icônes peut être [ici](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}.
 
 **Icônes générales**
 
@@ -66,7 +66,7 @@ Vous trouverez ci-dessous les anciennes icônes de Marketo Classic. Le nouveau g
     <div> 
      <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Dossier de destination partagé à partir d’un autre espace de travail <br> (le cadenas indique que les modifications ne peuvent pas être effectuées)</td> 
+   <td colspan="1">Dossier de destination partagé à partir d’un autre espace de travail <br>(Le cadenas indique que des modifications ne peuvent pas être effectuées)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -410,7 +410,7 @@ Vous trouverez ci-dessous les anciennes icônes de Marketo Classic. Le nouveau g
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>Programme de messagerie électronique <br>(indicateur rouge enfoncé = l’email n’a pas encore été envoyé)</td> 
+   <td>Programme Email <br>(Indicateur rouge = l’email n’a pas encore été envoyé)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -722,7 +722,7 @@ Vous trouverez ci-dessous les anciennes icônes de Marketo Classic. Le nouveau g
     <div> 
      <img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </div></td> 
-   <td>Publication sur Facebook</td> 
+   <td>Publier sur Facebook</td> 
   </tr> 
   <tr> 
    <td> 
