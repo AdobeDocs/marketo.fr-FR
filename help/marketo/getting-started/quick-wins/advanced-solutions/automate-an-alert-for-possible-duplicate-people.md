@@ -1,24 +1,23 @@
 ---
 unique-page-id: 7513680
-description: Automatisation d'une alerte pour les éventuels Duplicata - Marketo Docs - Documentation du produit
-title: Automatisation d'une alerte pour les Duplicata possibles
+description: Automatisation d’une alerte pour les personnes pouvant être dupliquées - Documents Marketo - Documentation du produit
+title: Automatisation d’une alerte pour les personnes pouvant être dupliquées
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-# Automatisation d&#39;une alerte pour les personnes Duplicata {#automate-an-alert-for-possible-duplicate-people}
+# Automatisation d’une alerte pour les personnes pouvant être dupliquées {#automate-an-alert-for-possible-duplicate-people}
 
-Vous souhaitez qu&#39;une alerte soit créée chaque fois que possible, une personne duplicata ? Voici comment configurer une Campaign Intelligente pour le faire.
+Souhaitez-vous qu’une alerte soit affichée chaque fois qu’une personne en double est créée ? Voici comment configurer une campagne dynamique pour ce faire.
 
-1. [Créez une campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) intelligente. Définissez la liste intelligente suivante :
+1. [Création d’une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}. Définissez la liste dynamique suivante :
 
 * Déclencheur : **Personne créée**
-* Filtre : **Champs de Duplicata.** Nom du champ  **Nom complet**
+* Filtre : **Dupliquer les champs.** Nom du champ **est Nom complet**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -26,26 +25,26 @@ Vous souhaitez qu&#39;une alerte soit créée chaque fois que possible, une pers
    >
    >Soyez créatifs ! Testez différents champs pour obtenir de meilleurs résultats de filtrage.
 
-1. Dans l’étape de flux, choisissez [Envoyer l’alerte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) action de flux.
+1. Dans l’étape de flux, choisissez [Envoyer une alerte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)Action de flux {target=&quot;_blank&quot;}.
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >Utilisation du [jeton d’informations d’alerte](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) pour inclure un lien vers la personne dans votre gestion de la relation client.
+   >En utilisant la variable [Envoyer le jeton Informations d’alerte](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;} pour inclure un lien vers la personne dans votre CRM.
 
    >[!CAUTION]
    >
-   >Si vous importez une liste volumineuse, vous pouvez obtenir un tas de ces alertes en même temps !
+   >Si vous importez une liste volumineuse, vous pouvez obtenir un ensemble de ces alertes en même temps !
    >
-   >De plus, deux personnes portant le même nom ne signifie pas automatiquement qu&#39;elles sont la même personne.
+   >De plus, deux personnes portant le même nom ne signifient pas automatiquement qu&#39;elles sont la même personne.
 
-1. Activez la campagne dans l&#39;onglet **Planification**.
+1. Activez l’opération dans la variable **Planification** .
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
-C&#39;est tout ! Cette campagne intelligente se déclenche chaque fois qu’une nouvelle personne avec un nom complet existant est créée à Marketo.
+C&#39;est tout ! Cette campagne dynamique se déclenche chaque fois qu’une nouvelle personne portant un nom complet existant est créée dans Marketo.
 
 >[!MORELIKETHIS]
 >
->[Rechercher et fusionner des personnes de Duplicata](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
+>[Rechercher et fusionner des personnes en double](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target=&quot;_blank&quot;}

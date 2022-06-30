@@ -3,52 +3,51 @@ unique-page-id: 2949471
 description: Liste de contrôle de configuration - Documents Marketo - Documentation du produit
 title: Liste de contrôle de configuration
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '208'
 ht-degree: 2%
 
 ---
 
 # Liste de contrôle de configuration {#setup-checklist}
 
-Bienvenue sur Marketo! N&#39;hésitez pas à utiliser la liste de contrôle suivante comme liste de tâches visuelles pour lancer vos activités. Vous trouverez des détails dans [Procédure de configuration](/help/marketo/getting-started/setup-steps.md).
+Bienvenue sur Marketo! N’hésitez pas à utiliser la liste de contrôle suivante comme liste de tâches visuelles pour lancer les choses. Vous trouverez des détails dans la section [Étapes de configuration](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}.
 
-## Connectez-vous à Marketo et créez d’autres utilisateurs {#log-in-to-marketo-and-create-additional-users}
+## Connexion à Marketo et création d’utilisateurs supplémentaires {#log-in-to-marketo-and-create-additional-users}
 
 1. Connexion à Marketo
 1. Créer des utilisateurs supplémentaires
 
-## Configurer un contact d&#39;assistance autorisé {#set-up-an-authorized-support-contact}
+## Configuration d’un contact d’assistance autorisé {#set-up-an-authorized-support-contact}
 
-1. Configurer un contact d&#39;assistance autorisé
-1. Personnalisation des URL de Landing page
-1. Sélectionner un CNAME de Landing page
-1. Demandez au service informatique de créer un enregistrement DNS pour votre CNAME Landing page.
-1. Une fois le service informatique terminé, configurez votre nom de domaine de landing page dans Marketo.
+1. Configurer un contact de support autorisé
+1. Personnalisation des URL de page d’entrée
+1. Sélection d’un CNAME de page d’entrée
+1. Demandez au service informatique de créer un enregistrement DNS pour votre CNAME de page d’entrée
+1. Une fois le service informatique terminé, configurez le nom de domaine de votre page d’entrée dans Marketo.
 
-## Garantir la délivrabilité du courrier électronique {#ensure-email-deliverability}
+## Assurer la délivrabilité des emails {#ensure-email-deliverability}
 
-1. Sélectionner un CNAME de courriel pour les liens de suivi de marque
+1. Sélection d’un CNAME de courriel pour les liens de suivi de marque
 1. Demandez au service informatique de configurer un enregistrement DNS pour votre CNAME de messagerie
-1. Demander au service informatique de placer sur la liste autorisée Marketo
+1. Demander à l’informatique de placer sur la liste autorisée Marketo
 1. Configuration de DKIM et SPF dans la zone d’administration
-1. Configurer MX pour `[FromDomain1]`
-1. Une fois le service informatique terminé avec le CNAME de messagerie, configurez votre CNAME de messagerie dans Marketo.
+1. Configuration de MX pour `[FromDomain1]`
+1. Une fois l’utilisation du CNAME de messagerie terminée, configurez votre CNAME de messagerie dans Marketo.
 
-## Envoyer une URL pour les modèles de Landing page et de courriel {#submit-a-url-for-landing-page-and-email-templates}
+## Envoyer une URL pour la page d’entrée et les modèles de courrier électronique {#submit-a-url-for-landing-page-and-email-templates}
 
-1. Remplissez le formulaire pour envoyer une URL pour les nouveaux modèles
+1. Remplissez le formulaire pour envoyer une URL pour les nouveaux modèles.
 
 ## Synchronisation CRM {#crm-sync}
 
-1. Collaborez avec votre administrateur CRM pour synchroniser tous les contacts CRM avec Marketo.
+1. Collaborer avec votre administrateur CRM pour synchroniser tous les contacts CRM avec Marketo
 
-## Ajouter le code de suivi sur votre site Web {#add-tracking-code-to-your-website}
+## Ajout du code de suivi à votre site web {#add-tracking-code-to-your-website}
 
-1. Collaborez avec un développeur Web pour ajouter un code de suivi à votre site Web.
+1. Collaborer avec un développeur web pour ajouter du code de suivi à votre site web
 
 >[!MORELIKETHIS]
 >
->[Etapes de configuration](/help/marketo/getting-started/setup-steps.md)
+>[Étapes de configuration](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}

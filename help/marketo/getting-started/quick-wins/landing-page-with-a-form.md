@@ -1,77 +1,76 @@
 ---
 unique-page-id: 2359412
-description: landing page avec un formulaire - Documents Marketo - Documentation du produit
+description: Page d’entrée avec un formulaire - Documents Marketo - Documentation du produit
 title: Page de destination avec un formulaire
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 4%
+source-wordcount: '544'
+ht-degree: 5%
 
 ---
 
 # Page de destination avec un formulaire {#landing-page-with-a-form}
 
-## Mission : Créez un landing page avec un formulaire pour acquérir de nouvelles personnes. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
+## Mission : Créez une landing page avec un formulaire pour acquérir de nouvelles personnes. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
->[Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-## ÉTAPE 1 : Créer un Programme {#step-create-a-program}
+## ÉTAPE 1 : Création d’un programme {#step-create-a-program}
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez au **Activités marketing** zone.
 
    ![](assets/ma.png)
 
-1. Sélectionnez le dossier **Apprentissage** créé dans le dossier [précédent quick win](/help/marketo/getting-started/quick-wins/send-an-email.md).
+1. Sélectionnez la **Formation** dossier créé dans [aperçu rapide précédent](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
-1. Sous **New**, cliquez sur **Nouveau Programme**.
+1. Sous **Nouveau**, cliquez sur **Nouveau programme**.
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Saisissez un programme **Nom**, sélectionnez un **Canal** et cliquez sur **Créer**.
+1. Saisie d’un programme **Nom**, sélectionnez une **Canal** et cliquez sur **Créer**.
 
    >[!NOTE]
    >
-   >Insérez vos initiales à la fin du nom du programme pour le rendre unique.
+   >Incluez vos initiales à la fin du nom du programme pour le rendre unique.
 
    ![](assets/image2014-9-8-17-3a46-3a28.png)
 
    >[!NOTE]
    >
-   >Un programme est une initiative marketing spécifique. Le **canal** est destiné à être le mécanisme de diffusion, comme le webinaire, le parrainage ou la publicité en ligne. Vous pouvez voir différentes options de canal dans votre liste déroulante, selon ce qui est disponible dans votre propre instance. Vous pouvez également [créer votre propre canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+   >Un programme est une initiative marketing spécifique. Le **channel** est conçu pour être le mécanisme de diffusion, comme le webinaire, le parrainage ou la publicité en ligne. Vous pouvez voir différentes options de canal dans votre liste déroulante, selon ce qui est disponible dans votre propre instance. Vous pouvez également [créer votre propre canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
-Bien joué ! Maintenant que nous avons créé un programme, passons à autre chose et créons du contenu.
+C&#39;est joli ! Maintenant que nous avons créé un programme, passons à autre chose et créons du contenu.
 
 ## ÉTAPE 2 : Créer un formulaire {#step-create-a-form}
 
-1. Une fois votre programme sélectionné, cliquez sur **New** puis sur **New Local Asset**.
+1. Lorsque votre programme est sélectionné, cliquez sur **Nouveau** then **Nouvelle ressource locale**.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
-1. Sélectionnez **Formulaire**.
+1. Sélectionner **Formulaire**.
 
    ![](assets/image2014-9-24-11-3a4-3a42.png)
 
-1. Saisissez un formulaire **Nom** et cliquez sur **Créer**.
+1. Saisie d’un formulaire **Nom** et cliquez sur **Créer**.
 
    ![](assets/image2014-9-24-11-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Assurez-vous que la case **Ouvrir dans l’éditeur** est cochée. Dans le cas contraire, vous devrez cliquer sur l’onglet **Modifier le formulaire**.
+   >Assurez-vous que la variable **Ouvrir dans l’éditeur** est cochée. Si ce n’est pas le cas, vous devrez cliquer sur le bouton **Modifier le formulaire** .
 
    >[!TIP]
    >
-   >Vous ne voyez pas l’éditeur de formulaires ? Votre navigateur a probablement bloqué la fenêtre. Activez les fenêtres contextuelles [app.marketo.com](https://app.marketo.com/) dans votre navigateur et cliquez sur Modifier le brouillon dans la barre de menus supérieure.
+   >L’éditeur de formulaire ne s’affiche-t-il pas ? Votre navigateur a probablement bloqué la fenêtre. Activation des fenêtres contextuelles à partir de [app.marketo.com](https://app.marketo.com/) dans votre navigateur, puis cliquez sur Modifier le brouillon dans la barre de menu supérieure.
 
-1. Sélectionnez le champ **Adresse électronique** et cochez **Est requis**.
+1. Sélectionnez la **Adresse électronique** champ et vérification **Est obligatoire**.
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
@@ -87,7 +86,7 @@ Bien joué ! Maintenant que nous avons créé un programme, passons à autre cho
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
-1. Dans la section Page de remerciement, sélectionnez **URL externe** pour **Effectuer un suivi avec**.
+1. Sous la section Page de remerciement , sélectionnez **URL externe** pour **Effectuez Le Suivi Avec**.
 
    ![](assets/image2014-9-24-11-3a6-3a35.png)
 
@@ -97,7 +96,7 @@ Bien joué ! Maintenant que nous avons créé un programme, passons à autre cho
 
    >[!NOTE]
    >
-   >La page de suivi est l’endroit où le visiteur est redirigé après avoir rempli le formulaire. L&#39;URL externe est une option, mais il y en a d&#39;autres. Voir [Définir une page de remerciement de formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
+   >La page de suivi est l’endroit où le visiteur est redirigé après avoir rempli le formulaire. L’URL externe est une option, mais il existe d’autres options. Voir [Définition d’une page de remerciement de formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
 
 1. Cliquez sur **Terminer**.
 
@@ -107,29 +106,29 @@ Bien joué ! Maintenant que nous avons créé un programme, passons à autre cho
 
    ![](assets/image2014-9-24-11-3a7-3a15.png)
 
-   Super ! Maintenant vous avez un programme avec un formulaire dedans. Passons à autre chose et créons une page.
+   Super ! Maintenant vous avez un programme avec un formulaire dedans. Passons à la page et créons une page.
 
    ![](assets/image2014-9-24-11-3a7-3a32.png)
 
-## ÉTAPE 3 : Créer un Landing page et Ajouter votre formulaire {#step-create-a-landing-page-and-add-your-form}
+## ÉTAPE 3 : Création d’une page d’entrée et ajout d’un formulaire {#step-create-a-landing-page-and-add-your-form}
 
-1. Une fois votre programme sélectionné, cliquez sur **Nouveau**, puis sur **Nouveau fichier local**.
+1. Lorsque votre programme est sélectionné, cliquez sur **Nouveau** puis **Nouvelle ressource locale**.
 
    ![](assets/image2014-9-24-11-3a7-3a51.png)
 
-1. Sélectionnez **Landing page**.
+1. Sélectionner **Page d’entrée**.
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Saisissez une page **Nom**, sélectionnez un modèle et cliquez sur **Créer**.
+1. Saisie d’une page **Nom**, sélectionnez un modèle et cliquez sur **Créer**.
 
    >[!NOTE]
    >
-   >Vous avez peut-être un modèle différent de celui de notre capture d&#39;écran, c&#39;est bon, il suffit de choisir un modèle et continuer.
+   >Vous avez peut-être un modèle différent de celui de notre capture d&#39;écran, c&#39;est bien, il suffit d&#39;en choisir un et continuez.
 
    ![](assets/image2014-9-24-11-3a8-3a23.png)
 
-1. Une fois l’éditeur de landing page ouvert, faites glisser l’élément de formulaire dans le canevas.
+1. Une fois l’éditeur de page d’entrée ouvert, faites glisser l’élément Formulaire dans la zone de travail.
 
    ![](assets/twentyone.png)
 
@@ -137,23 +136,23 @@ Bien joué ! Maintenant que nous avons créé un programme, passons à autre cho
 
    ![](assets/image2014-9-24-11-3a8-3a53.png)
 
-1. Faites glisser le formulaire vers l’emplacement de votre choix.
+1. Faites glisser le formulaire vers l’emplacement souhaité.
 
    ![](assets/image2014-9-24-11-3a9-3a6.png)
 
-1. Toutes vos modifications sont enregistrées automatiquement. Fermez l’onglet/la fenêtre de l’éditeur de formulaires.
+1. Toutes vos modifications sont automatiquement enregistrées. Fermez l’onglet/la fenêtre de l’éditeur de formulaire.
 
    ![](assets/image2014-9-24-11-3a9-3a19.png)
 
-   Bon boulot ! Vous avez maintenant un landing page avec un formulaire dessus. Approuvons votre page pour qu&#39;elle soit activée.
+   Bon boulot ! Vous disposez désormais d’une landing page comportant un formulaire. Approuvons votre page pour la rendre active.
 
-## ÉTAPE 4 : Approuver votre Landing page {#step-approve-your-landing-page}
+## ÉTAPE 4 : Approuver votre page d’entrée {#step-approve-your-landing-page}
 
-1. Sélectionnez votre landing page, sous **Actions du Landing page** cliquez sur **Approuver**.
+1. Sélectionnez votre landing page, sous **Actions de page d’entrée** click **Approuver**.
 
    >[!NOTE]
    >
-   >Approuver le landing page le rendra accessible en direct et accessible sur Internet.
+   >La validation de la landing page la mettra en ligne et sera accessible sur Internet.
 
    ![](assets/image2014-9-24-11-3a9-3a37.png)
 
@@ -161,17 +160,17 @@ Bien joué ! Maintenant que nous avons créé un programme, passons à autre cho
 
    ![](assets/image2014-9-24-11-3a9-3a53.png)
 
-## ÉTAPE 5 : Testez votre formulaire {#step-test-your-form}
+## ÉTAPE 5 : Tester votre formulaire {#step-test-your-form}
 
-1. Sélectionnez votre landing page et cliquez sur **Vue Page approuvée**.
+1. Sélectionnez votre landing page et cliquez sur **Afficher la page approuvée**.
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
-1. Remplissez le formulaire avec les informations que vous connaissez uniques et cliquez sur **Envoyer**.
+1. Remplissez le formulaire avec les informations que vous savez uniques, puis cliquez sur **Envoyer**.
 
    ![](assets/image2014-9-24-11-3a10-3a23.png)
 
-1. Accédez à la zone **Base de données**.
+1. Accédez au **Base** zone.
 
    ![](assets/db-1.png)
 
@@ -179,7 +178,7 @@ Bien joué ! Maintenant que nous avons créé un programme, passons à autre cho
 
    ![](assets/30.png)
 
-   Le voilà ! Vous avez créé un nouveau landing page avec un formulaire dessus et l’avez utilisé pour générer une nouvelle personne.
+   Le voilà ! Vous avez créé une landing page avec un formulaire dessus et vous l’avez utilisée pour générer une nouvelle personne.
 
    ![](assets/thirty-one.png)
 
@@ -187,6 +186,6 @@ Bien joué ! Maintenant que nous avons créé un programme, passons à autre cho
 
 <br> 
 
-[◄ Envoyer un E-mail de masse](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ Mission 1 : Envoyer un E-mail de masse](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[Évaluation simple ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[Mission 3 : Évaluation simple ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

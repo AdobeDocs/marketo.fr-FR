@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2949467
-description: Qu’est-ce qu’un Marketo Engage Adobe ? - Documents Marketo - Documentation du produit
-title: Qu’est-ce qu’un Marketo Engage Adobe ?
+description: Qu’est-ce que Adobe Marketo Engage ? - Documents Marketo - Documentation du produit
+title: Qu’est-ce que Adobe Marketo Engage ?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: da8b6723589e1478bfa3dc69d74d27cddf1311c7
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 9%
 
 ---
 
-# Qu’est-ce qu’un Marketo Engage Adobe ? {#what-is-adobe-marketo-engage}
+# Qu’est-ce que Adobe Marketo Engage ? {#what-is-adobe-marketo-engage}
 
-Adobe Marketo Engage (parfois appelé Marketo Engage, voire simplement Marketo) est un logiciel d’automatisation du marketing. L’automatisation du marketing vous permet de rationaliser, d’automatiser et de mesurer les tâches et les workflows marketing afin que vous puissiez accroître l’efficacité opérationnelle et accroître plus rapidement les recettes.
+Adobe Marketo Engage (parfois appelé Marketo Engage, ou même simplement Marketo) est un logiciel d’automatisation marketing. L’automatisation du marketing vous permet de rationaliser, d’automatiser et de mesurer les tâches et les workflows marketing afin que vous puissiez accroître l’efficacité opérationnelle et accroître plus rapidement les recettes.
 
 ## Que puis-je faire en Marketo Engage ? {#what-can-i-do-in-marketo-engage}
 
@@ -43,10 +43,10 @@ Vous ne le faites pas ! C&#39;est facile de commencer en Marketo Engage, et ça 
 
 ## Dois-je effectuer une configuration ? {#do-i-need-to-do-any-setup}
 
-Oui, nous avons créé une [liste de contrôle des choses à faire](/help/marketo/getting-started/setup-steps/setup-checklist.md).
+Oui, nous avons fait une [Liste de contrôle des choses à faire](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}.
 
 ## Dois-je attendre que la configuration soit terminée pour apprendre ? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-Non ! Nous avons créé un tas de tutoriels faciles. [Commencez ici](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md). Ça devrait prendre environ une heure. Vous pouvez commencer à tout moment.
+Non ! Nous avons créé un tas de tutoriels faciles. [Prise en main ici](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}. Ça devrait prendre environ une heure. Vous pouvez commencer à tout moment.
 
 Bienvenue dans Marketo Engage! Nous sommes heureux que vous soyez là.

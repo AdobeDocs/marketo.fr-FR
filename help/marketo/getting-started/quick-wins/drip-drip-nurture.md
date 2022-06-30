@@ -1,43 +1,42 @@
 ---
 unique-page-id: 2359420
-description: Déchets, gouttes d'eau, nourriture - Marketo Docs - Documentation du produit
+description: Dérive, goutte, soin - Documents Marketo - Documentation du produit
 title: Marketing goutte à goutte et fidélisation
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 6%
+source-wordcount: '463'
+ht-degree: 5%
 
 ---
 
 # Marketing goutte à goutte et fidélisation {#drip-drip-nurture}
 
-## Mission : Inciter les personnes qui ont assisté à votre récente conférence {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## Mission : Nouer les personnes qui ont assisté à votre récente exposition {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
-Vous pouvez facilement créer un système de culture avancé et sophistiqué à Marketo. Voilà comment !
+Vous pouvez facilement créer un système d’alimentation avancé et sophistiqué dans Marketo. Voilà comment !
 
 >[!PREREQUISITES]
 >
->* [Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Importer une Liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Importation d’une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
 
 
-## Étape 1 : Créer un Programme d’engagement {#step-create-an-engagement-program}
+## Étape 1 : Création d’un programme d’engagement {#step-create-an-engagement-program}
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez au **Activités marketing** zone.
 
    ![](assets/one-3.png)
 
-1. Sélectionnez le dossier **Apprentissage**, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouveau Programme**.
+1. Sélectionnez la **Formation** , cliquez sur le dossier **Nouveau** et sélectionnez **Nouveau programme**.
 
    ![](assets/two-4.png)
 
-1. Saisissez un **nom** et sélectionnez **Engagement** pour le **type de Programme**.
+1. Saisissez un **Nom** et sélectionnez **Engagement** pour le **Type de programme**.
 
    ![](assets/three-3.png)
 
-1. Assurez-vous que le champ **Canal** est **Infirmière** et cliquez sur **Créer**.
+1. Assurez-vous que la variable **Canal** est **Infirmière** et cliquez sur **Créer**.
 
    ![](assets/four-2.png)
 
@@ -45,97 +44,97 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué à 
 
 ## Étape 2 : Créer un e-mail {#step-create-an-email}
 
-1. Sélectionnez votre programme d’engagement, puis cliquez sur **New** et sélectionnez **New Local Asset**.
+1. Sélectionnez votre programme d’engagement, puis cliquez sur **Nouveau** et sélectionnez **Nouvelle ressource locale**.
 
    ![](assets/five-3.png)
 
-1. Cliquez sur **Courriel**.
+1. Cliquez sur **Email**.
 
    ![](assets/six-3.png)
 
-1. Saisissez un **nom**, sélectionnez le **modèle** à utiliser, puis cliquez sur **Créer**.
+1. Saisissez un **Nom**, sélectionnez la variable **Modèle** à utiliser, puis cliquez sur **Créer**.
 
    ![](assets/seven-4.png)
 
    >[!NOTE]
    >
-   >Vous ne voyez pas l’éditeur de courrier électronique ? Votre navigateur a probablement bloqué la fenêtre. Activez les fenêtres contextuelles de [app.marketo.com](https://app.marketo.com) dans votre navigateur et cliquez sur **Modifier le brouillon** dans la barre de menus supérieure.
+   >Vous ne voyez pas l’éditeur d’email ? Votre navigateur a probablement bloqué la fenêtre. Activation des fenêtres contextuelles à partir de `app.marketo.com` dans votre navigateur, puis cliquez sur **Modifier le brouillon** dans la barre de menu supérieure.
 
-1. Entrez un objet.
+1. Saisissez un objet.
 
    ![](assets/eight-2.png)
 
-1. Sélectionnez la zone du courrier électronique à modifier, cliquez sur l’icône d’engrenage et sélectionnez **Modifier**.
+1. Sélectionnez la zone de l&#39;email à modifier, cliquez sur l&#39;icône d&#39;engrenage et sélectionnez **Modifier**.
 
    ![](assets/nine-1.png)
 
-1. Modifiez votre adresse électronique et cliquez sur **Enregistrer**.
+1. Modifiez votre email et cliquez sur **Enregistrer**.
 
    ![](assets/ten-3.png)
 
-1. Fermez l’onglet/la fenêtre de l’éditeur de courrier électronique.
+1. Fermez l&#39;onglet/la fenêtre de l&#39;éditeur d&#39;email.
 
    ![](assets/eleven-3.png)
 
-1. Sous **Actions de courriel**, cliquez sur **Approuver**.
+1. Sous **Actions de courrier électronique**, cliquez sur **Approuver**.
 
    ![](assets/twelve-2.png)
 
    >[!NOTE]
    >
-   >N&#39;oubliez pas d&#39;approuver vos courriels ou vous ne pourrez pas les activer plus tard.
+   >N&#39;oubliez pas de valider vos emails ou vous ne pourrez pas les activer plus tard.
 
-1. Créez maintenant un autre courrier électronique en répétant les actions de l’étape 2.
+1. Créez maintenant un autre email en répétant les actions de l’étape 2.
 
    ![](assets/thirteen-2.png)
 
-## Étape 3 : Ajouter du contenu à votre flux {#step-add-content-to-your-stream}
+## Étape 3 : Ajout de contenu à votre diffusion {#step-add-content-to-your-stream}
 
-1. Il est maintenant temps de créer un flux de contenu pour votre programme d’engagement à l’aide des courriels que vous avez créés.
+1. Il est maintenant temps de créer un flux de contenu pour votre programme d’engagement à l’aide des emails que vous avez créés.
 
-1. Sélectionnez votre programme d’engagement, puis cliquez sur l’onglet **Flux**.
+1. Sélectionnez votre programme d’engagement, puis cliquez sur le bouton **Flux** .
 
    ![](assets/fourteen-2.png)
 
-1. Faites glisser les deux e-mails que vous avez créés sur le canevas de droite.
+1. Faites glisser les deux emails que vous avez créés vers le canevas de droite.
 
    ![](assets/fifteen-2.png)
 
    >[!TIP]
    >
-   >Vous pouvez également utiliser le bouton **Ajouter le contenu** ou l’icône de diffusion **+**.
+   >Vous pouvez également utiliser la variable **Ajouter du contenu** ou le flux **+** icône .
 
-## Étape 4 : Activer le contenu du flux {#step-activate-stream-content}
+## Étape 4 : Activation du contenu de diffusion {#step-activate-stream-content}
 
-1. Activez tout le contenu en même temps en cliquant sur l’icône représentant un engrenage de flux, puis cliquez sur **Activer tout le contenu**.
+1. Activez tout le contenu à la fois en cliquant sur l’icône d’engrenage de la diffusion, puis cliquez sur **Activer tout le contenu**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
    >[!NOTE]
    >
-   >Vous ne pouvez pas activer le contenu sans l’approuver au préalable.
+   >Vous ne pouvez pas activer le contenu sans d’abord l’approuver.
 
-   Bon travail ! Encore une étape et le programme d&#39;engagement est prêt.
+   Bon travail ! Une étape de plus et le programme d&#39;engagement est prêt.
 
-## Étape 5 : Définir la cadence de diffusion {#step-set-the-stream-cadence}
+## Étape 5 : Définition de l’cadence de diffusion {#step-set-the-stream-cadence}
 
-1. Cliquez sur **Définir le cadence de diffusion**.
+1. Cliquez sur **Définition de la cadence de diffusion**.
 
    ![](assets/seventeen.png)
 
-1. Modifiez les paramètres en fonction de la planification souhaitée, puis cliquez sur **Enregistrer**.
+1. Modifiez les paramètres pour qu’ils correspondent à la planification souhaitée, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
-   Votre programme d&#39;engagement est prêt. Maintenant, ajoutons une personne test à votre programme.
+   Votre programme d&#39;engagement est prêt. Ajoutons maintenant une personne test à votre programme.
 
    >[!NOTE]
    >
-   >La personne qui effectue le test est celle qui vérifie votre programme d’engagement pour vérifier qu’il est correct avant de l’envoyer aux clients.
+   >La personne test est la personne qui vérifie votre programme d’engagement pour vérifier que c’est correct avant de l’envoyer aux clients.
 
-## Étape 6 : Ajouter une personne de test à votre Programme d’engagement {#step-add-a-test-person-to-your-engagement-program}
+## Étape 6 : Ajout d’une personne test à votre programme d’engagement {#step-add-a-test-person-to-your-engagement-program}
 
-1. Accédez à la zone **Base de données**.
+1. Accédez au **Base** zone.
 
    ![](assets/nineteen-1.png)
 
@@ -145,26 +144,28 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué à 
 
    >[!NOTE]
    >
-   >Assurez-vous que la personne chargée du test possède une adresse électronique valide afin que vous puissiez confirmer la réception des courriers électroniques lors du test.
+   >Assurez-vous que la personne effectuant le test possède une adresse électronique valide afin que vous puissiez confirmer la réception des emails lors du test.
 
-1. Cliquez avec le bouton droit sur la personne, puis cliquez sur Programmes et Ajoutez au Programme d’engagement.
+1. Cliquez avec le bouton droit de la souris sur la personne, puis cliquez sur Programmes et Ajouter au programme d’engagement.
 
    ![](assets/twenty-one.png)
 
-1. Sélectionnez votre **Programme** et **Flux**, puis cliquez sur **Exécuter maintenant**.
+1. Sélectionnez votre **Programme** et **Diffusion**, puis cliquez sur **Exécuter maintenant**.
 
    ![](assets/twenty-two.png)
 
 1. Mission accomplie!
 
-1. Vous devriez recevoir un courriel à l’heure et à la cadence que vous avez indiquées.
+1. Vous devriez recevoir un courrier électronique à l’heure et à la cadence que vous avez spécifiées.
 
    >[!NOTE]
    >
-   >En savoir plus sur [Programmes d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
+   >En savoir plus sur [Programmes d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target=&quot;_blank&quot;}.
+
+## Mission accomplie! {#mission-complete}
 
 <br> 
 
-[◄ Mission 5 : Importer une liste de leads](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ Mission 5 : Importation d’une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 [Mission 7 : Personnaliser un e-mail ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

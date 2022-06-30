@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Configuration de protocoles pour Marketo - Documents Marketo - Documentation du produit
 title: Configuration de protocoles pour Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1020'
 ht-degree: 1%
 
 ---
@@ -99,7 +99,7 @@ Votre équipe marketing aurait également dû vous envoyer des informations DKIM
 
    `[DKIMDomain2]`: L’enregistrement de l’hôte `[HostRecord2]` et la valeur TXT est `[TXTValue2]`.
 
-   Copiez HostRecord et TXTValue pour chaque domaine DKIMD que vous avez configuré après avoir suivi les [instructions ici](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). N’oubliez pas de vérifier chaque domaine dans Admin > Email > DKIM une fois que votre équipe informatique a terminé cette étape.
+   Copiez HostRecord et TXTValue pour chaque domaine DKIMD que vous avez configuré après avoir suivi les [instructions ici](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}. N’oubliez pas de vérifier chaque domaine dans Admin > Email > DKIM une fois que votre équipe informatique a terminé cette étape.
 
 ## Étape 4 : Configuration des enregistrements MX pour votre domaine {#step-set-up-mx-records-for-your-domain}
 

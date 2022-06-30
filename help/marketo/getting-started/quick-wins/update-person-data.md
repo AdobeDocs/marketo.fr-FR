@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359426
-description: Mettre à jour les données personnelles - Documents Marketo - Documentation du produit
-title: Mettre à jour les données personnelles
+description: Mise à jour des données de personne - Documents Marketo - Documentation du produit
+title: Mettre à jour les données de personne
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 7%
 
 ---
 
 # Mettre à jour les données de personne {#update-person-data}
 
-## Mission : Mettre à jour les coordonnées d&#39;une personne ou d&#39;autres données {#mission-update-a-persons-contact-info-or-other-data}
+## Mission : Mise à jour des coordonnées d’une personne ou d’autres données {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [Configurer et Ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Importer une Liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Importation d’une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
 
 
-Imaginons que dans votre salon, une personne vous ait donné des coordonnées supplémentaires. Voici comment mettre à jour les données personnelles.
+Imaginons que dans votre salon récent, une personne vous ait donné des coordonnées supplémentaires. Voici comment mettre à jour les données de personne.
 
-## Recherchez la personne à mettre à jour {#find-the-person-you-need-to-update}
+## Rechercher la personne que vous devez mettre à jour {#find-the-person-you-need-to-update}
 
 1. Accédez à votre base de données.
 
@@ -33,19 +32,19 @@ Imaginons que dans votre salon, une personne vous ait donné des coordonnées su
 
    >[!TIP]
    >
-   >L&#39;utilisation de l&#39;adresse électronique pour effectuer la recherche accélère la recherche.
+   >L’utilisation de l’adresse électronique pour effectuer des recherches plus rapidement.
 
    ![](assets/two-rubiks.png)
 
-1. Cliquez sur le doublon pour ouvrir le détail de la personne.
+1. Double-cliquez pour ouvrir le détail de la personne.
 
    ![](assets/three-rubiks.png)
 
    >[!TIP]
    >
-   >Il existe de nombreuses façons de mettre à jour les données personnelles à Marketo. Voir [Importer une Liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) et [Modifier la valeur des données](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >Il existe de nombreuses façons de mettre à jour les données de personne dans Marketo. Voir [Importation d’une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} et [Modifier la valeur des données](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;}.
 
-## Mettre à jour les données personnelles {#update-the-person-data}
+## Mise à jour des données personnelles {#update-the-person-data}
 
 1. Saisissez les nouvelles informations que vous avez reçues, puis fermez l’onglet.
 
@@ -53,7 +52,7 @@ Imaginons que dans votre salon, une personne vous ait donné des coordonnées su
 
 >[!NOTE]
 >
->Une fois les données modifiées, les Listes dynamiques et les campagnes dynamiques reconnaîtront immédiatement les nouvelles informations.
+>Une fois les données modifiées, les listes intelligentes et les campagnes intelligentes reconnaissent immédiatement les nouvelles informations.
 
 ## Mission accomplie {#mission-complete}
 

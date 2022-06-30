@@ -1,27 +1,25 @@
 ---
 unique-page-id: 11387674
-description: Mises à jour de la terminologie Marketo - Docs Marketo - Documentation du produit
+description: Mises à jour de la terminologie Marketo - Documents Marketo - Documentation du produit
 title: Mises à jour de la terminologie Marketo
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 3%
+source-wordcount: '368'
+ht-degree: 1%
 
 ---
 
+# Mises à jour de la terminologie Marketo {#updates-to-marketo-terminology}
 
-# Mises à jour de la terminologie de Marketo {#updates-to-marketo-terminology}
+Nous apportons des modifications à notre plateforme, ce qui va affecter ce que certains éléments sont appelés. Si vous disposez d’une nouvelle instance Marketo à compter de mars 2016 ou si votre société a renouvelée après juillet 2016, la nouvelle terminologie s’affiche peut-être maintenant.
 
-Nous apportons des changements à notre plateforme, ce qui va affecter ce que certains éléments appellent. Si vous disposez d’une nouvelle instance Marketo à compter de mars 2016 ou si votre société a été renouvelée après juillet 2016, la nouvelle terminologie peut s’afficher maintenant.
-
-Bien que la terminologie de la documentation Marketo puisse être différente, soyez assuré que chaque article sera bientôt mis à jour pour refléter ces changements. Toutes les instructions sont les mêmes.
+Bien que la terminologie de la documentation Marketo puisse varier, assurez-vous que chaque article sera bientôt mis à jour pour prendre en compte ces modifications. Toutes les instructions sont les mêmes.
 
 Alors, qu&#39;est-ce qui a changé ?
 
 ## Le prospect est maintenant une personne {#lead-is-now-person}
 
-Le changement le plus important est le changement de nom de piste/pistes vers personne/personnes.
+Le changement le plus important est le changement de nom de piste/pistes en personne/personnes.
 
 <table> 
  <colgroup> 
@@ -30,7 +28,7 @@ Le changement le plus important est le changement de nom de piste/pistes vers pe
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Vieux</strong></td> 
+   <td><strong>Ancien</strong></td> 
    <td><strong>Nouveau</strong></td> 
   </tr> 
   <tr> 
@@ -55,7 +53,7 @@ Dans certains cas, le mot &quot;plomb&quot; est simplement supprimé.
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Vieux</strong></td> 
+   <td><strong>Ancien</strong></td> 
    <td><strong>Nouveau</strong></td> 
   </tr> 
   <tr> 
@@ -71,19 +69,19 @@ Dans certains cas, le mot &quot;plomb&quot; est simplement supprimé.
  </tbody> 
 </table>
 
-Le plomb et la personne **sont identiques**.
+Responsable et personne **sont identiques**.
 
 ## Jetons {#tokens}
 
-Les jetons contenant le mot plomb **ne changent pas**. Nous nous excusons pour toute confusion ; toutefois, modifier tous les jetons pour qu&#39;ils correspondent à la nouvelle terminologie briserait un grand nombre de jetons actuellement utilisés. Vous verrez donc toujours des jetons tels que &quot;`{{lead.First Name}}`&quot;. Il n&#39;existe pas de jetons spécifiques à une personne.
+Jetons contenant le mot plomb **ne changent pas**. Nous nous excusons pour toute confusion. toutefois, la modification de tous les jetons en fonction de la nouvelle terminologie romprait un grand nombre de jetons actuellement utilisés. Vous verrez donc toujours des jetons tels que &quot;`{{lead.First Name}}`.&quot; Il n’existe aucun jeton spécifique à une personne.
 
 >[!NOTE]
 >
->*il existe* un jeton appelé &quot;Notes de personne&quot;, mais ce jeton était toujours présent. Il est généralement utilisé pour un champ de description dans votre gestion de la relation client, le cas échéant.
+>Il y a *is* un jeton appelé &quot;Person Notes&quot;, mais ce jeton était toujours présent. Il est généralement utilisé pour un champ de description dans votre gestion de la relation client (CRM), le cas échéant.
 
 ## Gestion des champs {#field-management}
 
-Les champs qui contenaient le terme Piste ont été remplacés par Personne ou le mot Piste a été supprimé. Le champ &quot;Propriétaire de la piste&quot; constitue toutefois une exception notable. Il est désormais connu sous le nom de &quot;Propriétaire de la vente&quot;.
+Les champs qui contenaient le terme &quot;piste&quot; ont été remplacés par &quot;personne&quot; ou le mot &quot;piste&quot; a été supprimé. Une exception notable est toutefois le champ &quot;Propriétaire du prospect&quot;. Il est désormais appelé &quot;Propriétaire des ventes&quot;.
 
 <table> 
  <colgroup> 
@@ -92,7 +90,7 @@ Les champs qui contenaient le terme Piste ont été remplacés par Personne ou l
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Vieux</strong></td> 
+   <td><strong>Ancien</strong></td> 
    <td><strong>Nouveau</strong></td> 
   </tr> 
   <tr> 
@@ -110,9 +108,9 @@ Les champs qui contenaient le terme Piste ont été remplacés par Personne ou l
 
 >[!NOTE]
 >
->Pour une liste complète des noms de champ concernés, veuillez visiter cet [article d&#39;assistance](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
+>Pour obtenir la liste complète des noms de champ concernés, consultez cette [Article de prise en charge](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}.
 
-## La personnalisation en temps réel est désormais la personnalisation Web {#real-time-personalization-rtp-is-now-web-personalization}
+## La personnalisation en temps réel (RTP) est désormais la personnalisation web {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -121,7 +119,7 @@ Les champs qui contenaient le terme Piste ont été remplacés par Personne ou l
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Vieux</strong></td> 
+   <td><strong>Ancien</strong></td> 
    <td><strong>Nouveau</strong></td> 
   </tr> 
   <tr> 
@@ -137,16 +135,16 @@ Les champs qui contenaient le terme Piste ont été remplacés par Personne ou l
  </tbody> 
 </table>
 
-Outre le changement de nom, il comprend désormais quatre applications distinctes :
+Outre le changement de nom, il se compose désormais de quatre applications distinctes :
 
-| ** [personnalisation Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Dispose de sa propre mosaïque sur l’écran d’accueil |
+| **[Personnalisation web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | Comporte une mosaïque sur l’écran d’accueil |
 |---|---|
-| ** [Marketing Web basé sur le compte](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accessible via la mosaïque Personnalisation Web |
-| ** [Reciblage personnalisé](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Accessible via la mosaïque Personnalisation Web |
-| ** [Contenu prédictif](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Dispose de sa propre mosaïque sur l’écran d’accueil |
+| **[Marketing web basé sur un compte](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Accessible via la mosaïque Personnalisation web |
+| **[Reciblage personnalisé](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Accessible via la mosaïque Personnalisation web |
+| **[Contenu prédictif](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | Comporte une mosaïque sur l’écran d’accueil |
 
 >[!NOTE]
 >
 >Les mosaïques visibles sur votre écran d’accueil reflètent les modules achetés.
 
-Merci pour votre patience durant cette mise à jour.
+Merci pour votre patience lors de cette mise à jour.
