@@ -3,7 +3,7 @@ unique-page-id: 12980661
 description: Ajout de la correspondance client Google en tant que service LaunchPoint - Documents Marketo - Documentation du produit
 title: Ajout de la correspondance client Google en tant que service LaunchPoint
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
-source-git-commit: fb4e51a45fafaad547a641c6df5bb48cf536490d
+source-git-commit: df14ed3fb815a6d4fa0fe30435ff076c05798e39
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 2%
