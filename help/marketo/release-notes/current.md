@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 46aff8058cb97743bee1bd5ff5ddf0ddbbb663a5
+source-git-commit: c63bbd44863d0145726a1240a6858e517799bf5c
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,13 @@ Les fonctionnalités suivantes commenceront à être publiées sur **24 juin 202
 * **Création de rapports de dialogue avancé pour la conversation dynamique**: Affichez plus en détail les performances de vos campagnes de messagerie dynamique à l’aide de toutes nouvelles visualisations de données pour les mesures d’engagement et de conversion.
 
 * **Attributs de Marketo Engage non synchronisés pour Dynamic Chat**: Les attributs de Marketo Engage non synchronisés de votre abonnement Dynamic Chat qui ne sont pas utilisés vous aident à simplifier la propreté des données et permettent de synchroniser d’autres attributs si nécessaire.
+
+## Expérience de nouvelle génération
+
+**Nouveau basculement des vues**: Les vues ci-dessous sont désormais disponibles dans l’expérience de nouvelle génération :
+
+* [Affichage des détails du courrier électronique](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
+* [Mode Liste des emails](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
 
 ## Automatisation de l’expérience {#experience-automation}
 
