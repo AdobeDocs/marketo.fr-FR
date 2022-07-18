@@ -3,9 +3,10 @@ description: Définition d’une limite d’événement - Documents Marketo - Do
 title: Définition d’une limite d’événement
 hide: true
 hidefromtoc: true
-source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
+exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
+source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -23,24 +24,24 @@ Limitez le nombre de personnes pouvant s’inscrire à votre événement avec un
 
 1. Sélectionnez votre programme d’événements.
 
-PICC
+   ![](assets/setting-an-event-cap-1.png)
 
 1. Dans l’aperçu, recherchez [!UICONTROL Limite d’événement] et cliquez sur **[!UICONTROL Non défini]**.
 
-PICC
+   ![](assets/setting-an-event-cap-2.png)
 
 1. Saisissez le nombre maximal de personnes que vous souhaitez pouvoir enregistrer pour votre événement, puis cliquez sur **[!UICONTROL Suivant]**.
 
-PICC
+   ![](assets/setting-an-event-cap-3.png)
 
 1. Cliquez sur le bouton [!UICONTROL Page d’enregistrement] et sélectionnez la landing page qui servira de page d’enregistrement.
 
-PICC
+   ![](assets/setting-an-event-cap-4.png)
 
 1. Cliquez sur le bouton **[!UICONTROL Enregistrement de la page complète]** et sélectionnez la page d’entrée qui servira de page d’enregistrement complète. Cliquez sur **[!UICONTROL Définir et activer]** une fois terminé.
 
-PICC
+   ![](assets/setting-an-event-cap-5.png)
 
-Vous êtes toutes prêtes. Si vous décidez de modifier les détails de la limite d’événement, cliquez sur le texte bleu en regard de [!UICONTROL Limite d’événement] et répétez à partir de l’étape 3.
+   Vous êtes toutes prêtes. Si vous décidez de modifier les détails de la limite d’événement, cliquez sur le texte bleu en regard de [!UICONTROL Limite d’événement].
 
-PICC
+   ![](assets/setting-an-event-cap-6.png)
