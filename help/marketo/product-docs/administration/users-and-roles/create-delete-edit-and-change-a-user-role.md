@@ -1,45 +1,55 @@
 ---
 unique-page-id: 2360198
-description: Créer, supprimer, modifier et modifier un rôle utilisateur - Marketo Docs - Documentation du produit
-title: Créer, supprimer, modifier et modifier un rôle utilisateur
+description: Création, suppression, modification et modification d’un rôle d’utilisateur - Documents Marketo - Documentation du produit
+title: Création, suppression, modification et modification d’un rôle d’utilisateur
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb8b8c309593e34b773b8ab1b9873df425989753
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 2%
 
 ---
 
-# Créer, supprimer, modifier et modifier un rôle utilisateur {#create-delete-edit-and-change-a-user-role}
+# Création, suppression, modification et modification d’un rôle d’utilisateur {#create-delete-edit-and-change-a-user-role}
 
-**Regrouper** plusieurs autorisations. **** Permissionsallow vous permet de faire des trucs à Marketo. Vous affectez un **rôle** à un utilisateur. Facile comme de la tarte.
+**Rôles** Regroupez un ensemble d’autorisations. **Autorisations** vous permettent de faire des choses dans Marketo. Vous pouvez affecter une **rôle** à un utilisateur. C&#39;est facile comme de la tarte.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-## Créer un rôle {#create-a-role}
+>[!IMPORTANT]
+>
+>Les rôles suivants sont des rôles système et ne peuvent pas être modifiés ni supprimés :
+>
+>* Admin
+>* Administrateur de produit Adobe
+>* Utilisateur standard
+>* Éditeur RTP
+>* Dispositif de lancement RTP
 
-1. Accédez à **Admin** et cliquez sur **Utilisateurs et rôles**.
+
+## Création d’un rôle {#create-a-role}
+
+1. Accédez à **Administration** et cliquez sur **Utilisateurs et rôles**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Accédez à l&#39;onglet **Rôles** et cliquez sur **Nouveau rôle**.
+1. Accédez au **Onglet Rôles** et cliquez sur **Nouveau rôle**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
-1. Nommez votre nouveau rôle, vérifiez toutes les autorisations que vous souhaitez accorder aux utilisateurs qui lui sont associés, puis cliquez sur **Créer**.
+1. Nommez votre nouveau rôle, vérifiez toutes les autorisations que vous souhaitez accorder aux utilisateurs associés au rôle, puis cliquez sur **Créer**.
 
    ![](assets/image2014-9-16-13-3a31-3a19.png)
 
-## Supprimer un rôle {#delete-a-role}
+## Suppression d’un rôle {#delete-a-role}
 
-1. Sous **Admin**, cliquez sur **Utilisateurs et rôles**.
+1. Sous **Administration**, cliquez sur **Utilisateurs et rôles**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. Sous l&#39;onglet **Rôles**, sélectionnez un rôle et cliquez sur **Supprimer le rôle**.
+1. Sous , **Rôles** sélectionnez un rôle, puis cliquez sur **Supprimer le rôle**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -51,17 +61,17 @@ ht-degree: 0%
 >
 >Vous devez d’abord vous assurer qu’aucun utilisateur n’est affecté à un rôle, sinon il ne peut pas être supprimé.
 
-## Modifier un rôle existant {#edit-an-existing-role}
+## Modification d’un rôle existant {#edit-an-existing-role}
 
 >[!NOTE]
 >
->Pour modifier votre propre rôle utilisateur, vous devez vous connecter en tant qu’autre utilisateur doté des droits d’administrateur.
+>Pour modifier votre propre rôle d’utilisateur, vous devez vous connecter en tant qu’autre utilisateur disposant des droits d’administrateur.
 
-1. Accédez à **Admin** et cliquez sur **Utilisateurs et rôles**.
+1. Accédez à **Administration** et cliquez sur **Utilisateurs et rôles**.
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Cliquez sur l&#39;onglet **Rôles**.
+1. Cliquez sur le bouton **Rôles** .
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
@@ -69,32 +79,32 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
-1. Apportez toutes les modifications nécessaires et cliquez sur **Enregistrer**.
+1. Apportez toutes les modifications nécessaires, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-16-13-3a35-3a16.png)
 
    >[!NOTE]
    >
-   >Les modifications apportées au rôle affecteront chaque utilisateur associé à ce rôle.
+   >Les modifications apportées au rôle auront une incidence sur chaque utilisateur associé à ce rôle.
 
    >[!TIP]
    >
-   >Souhaitez-vous mettre à jour l’adresse électronique du compte ? [Apprenez ici](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
+   >Souhaitez-vous mettre à jour l’adresse électronique du compte ? [Découvrez comment](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Modification du rôle d’un utilisateur {#change-a-users-role}
 
-1. Accédez à **Admin** et cliquez sur **Utilisateurs et rôles**.
+1. Accédez à **Administration** et cliquez sur **Utilisateurs et rôles**.
 
    ![](assets/image2014-9-16-13-3a35-3a49.png)
 
-1. Sélectionnez l&#39;utilisateur auquel vous souhaitez affecter un rôle différent, puis cliquez sur **Modifier l&#39;utilisateur.**
+1. Sélectionnez l’utilisateur auquel vous souhaitez affecter un rôle différent, puis cliquez sur **Modifier l’utilisateur.**
 
    ![](assets/image2014-9-16-13-36-8.png)
 
-1. Désélectionnez le rôle précédent, sélectionnez le nouveau rôle, puis cliquez sur **Enregistrer**.
+1. Décochez le rôle précédent, sélectionnez le nouveau rôle, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-16-13-3a36-3a35.png)
 
 >[!NOTE]
 >
->Si vous laissez plusieurs rôles sélectionnés, Marketo utilisera par défaut l’autorisation la plus restrictive.
+>Si vous laissez plusieurs rôles sélectionnés, Marketo aura l’autorisation la plus restrictive par défaut.
