@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: Calendrier des versions - Documents Marketo - Documentation du produit
 title: Calendrier des versions
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: b54fbf0b922189d0d0d9e26da9e65a2dbd926875
+source-git-commit: 502418af71e29b127ba394d542ef7be7ff676093
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 6%
@@ -52,12 +52,12 @@ _Les dates de publication peuvent être modifiées._
    <td>Expédié</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">22 juin</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-june-22.md">22 juin</td>
    <td>24 juin 2022</td>
    <td>Expédié</td>
   </tr>
   <tr> 
-   <td>22 août</td>
+   <td><a href="/help/marketo/release-notes/current.md">22 août</td>
    <td>19 août 2022</td>
    <td>En cours</td>
   </tr>
