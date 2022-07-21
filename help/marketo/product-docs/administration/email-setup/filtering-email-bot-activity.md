@@ -2,9 +2,9 @@
 description: Filtrage de l’activité des robots de messagerie électronique - Documents Marketo - Documentation du produit
 title: Filtrage de l’activité des robots de messagerie
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 2ef4b0b2a541c8b6a67bd654fda45956601661bd
+source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ Parfois, l’activité de robots de messagerie peut gonfler par erreur les ouver
 Nous utilisons trois méthodes distinctes pour confirmer l’activité des robots :
 
 * Correspondance avec [Liste de robots Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;} : Les activités qui correspondent à tout élément de la liste UA/IP de l’IAB (Agent utilisateur/Adresse IP) seront marquées comme des robots.
-* Correspondance avec les URL/adresses IP des liens masqués : Nous ajoutons un lien masqué à tous les emails et capturons les clics UA/IP qui en proviennent. Les activités qui correspondent à ces UA/IP seront marquées comme des robots.
 * Correspondance avec le modèle de proximité : Lorsque plus de deux activités se produisent en même temps (en moins de deux secondes), elles sont identifiées comme des robots.
 
 Par rapport aux clics sur les liens de courrier électronique et à l’activité d’ouverture de courrier électronique, les nouvelles attributs sont renseignés avec les valeurs ci-dessous :
@@ -37,15 +36,15 @@ Par rapport aux clics sur les liens de courrier électronique et à l’activit�
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Cliquez sur le bouton **Activation de l’identification des activités de robots** curseur à activer.
+1. Choisir pour **Correspondance avec la liste IAB**, **Correspondance avec le modèle de proximité**, ou les deux.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->Vous pouvez choisir séparément si l’activité des robots doit être enregistrée ou non. Si vous choisissez de ne pas le faire, il se peut qu’une baisse des ouvertures et des clics d’email soit observée lorsque les faux nombres sont filtrés.
+>Vous pouvez choisir de filtrer l’activité des robots. **ou** consigné. Si vous choisissez filtré, vous pouvez voir une baisse des ouvertures d’email et des clics lorsque les fausses activités sont éliminées.
 
-**ÉTAPE FACULTATIVE**: Pour désactiver la fonction, désélectionnez simplement le curseur. Si vous la désactivez, les données **not** réinitialiser.
+**ÉTAPE FACULTATIVE**: Pour désactiver cette fonction, désélectionnez simplement le ou les curseur(s). Si vous la désactivez, les données ne sont pas réinitialisées.
 
 >[!TIP]
 >
