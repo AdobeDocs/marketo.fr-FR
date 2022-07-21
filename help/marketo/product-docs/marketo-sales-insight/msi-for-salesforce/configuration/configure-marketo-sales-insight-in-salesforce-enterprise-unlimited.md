@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited - Documents Marketo - Documentation du produit
 title: Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '888'
-ht-degree: 12%
+source-wordcount: '863'
+ht-degree: 11%
 
 ---
 
@@ -289,39 +289,27 @@ Les champs de personne Marketo doivent être mappés aux champs de contact Sales
 
 1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
-## Configuration de Marketo Sales Insight {#marketo-sales-insight-config}
-
-1. Cliquez sur **+** puis sélectionnez **Configuration de Marketo Sales Insight**.
-
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
-
-1. Vérifier **Activer l’API Marketo**. Renseignez ensuite le champ [Informations sur la configuration de l’API dans l’administration Marketo](#set-up-marketo-sales-insight). Cliquez sur **Enregistrer les modifications** lorsque vous avez fini.
-
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >Si le test de diagnostic a échoué, vous devrez peut-être [ajouter des champs supplémentaires à la mise en page ;](https://nation.marketo.com/docs/DOC-1115).
-
-Et voilà ! Vous devriez être en mesure d’afficher les champs Marketo Sales Insight pour les Leads, les contacts, les comptes et les opportunités.
-
-![](assets/twenty-six.png)
-
->[!NOTE]
->
->Pour les comptes, Sales Insight inclura tous les emails, mais uniquement les derniers moments intéressants, l’activité web et les changements de score.
-
-## Accès Sales Insight de Marketo {#access-marketo-sales-insight}
+## Onglet Configuration des statistiques sur les ventes Marketo {#marketo-sales-insight-configuration-tab}
 
 1. Dans Salesforce, cliquez sur l’icône **+** à la fin de la barre d’onglets, puis cliquez sur **Configuration de Marketo Sales Insight**.
 
 1. Sélectionnez la **Activer l’API Marketo** .
 
-1. Copiez les informations d’identification à partir du panneau API Soap de la page d’administration des statistiques sur les ventes de Marketo et collez-les dans la section API Soap de la page de configuration des statistiques sur les ventes de Salesforce.
+1. Copiez les informations d’identification du panneau API Soap dans [Page d’administration des statistiques sur les ventes de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} et collez-les dans la section API Soap de la page de configuration des statistiques sur les ventes Salesforce.
 
-1. Copiez les informations d’identification du panneau API REST dans la page d’administration des statistiques sur les ventes de Marketo et collez-les dans la section API REST de la page de configuration des statistiques sur les ventes de Salesforce.
+1. Copiez les informations d’identification du panneau API REST dans [Page d’administration des statistiques sur les ventes de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} et collez-les dans la section API REST de la page de configuration Salesforce Sales Insight.
 
    ![](assets/access-msi.png)
+
+Et voilà ! Vous devriez être en mesure d’afficher les champs Marketo Sales Insight pour les Leads, les contacts, les comptes et les opportunités.
+
+>[!NOTE]
+>
+>Si le test de diagnostic a échoué, vous devrez peut-être [ajouter des champs supplémentaires à la mise en page ;](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}.
+
+>[!NOTE]
+>
+>Pour les comptes, Sales Insight inclura tous les emails, mais uniquement les derniers moments intéressants, l’activité web et les changements de score.
 
 >[!MORELIKETHIS]
 >
