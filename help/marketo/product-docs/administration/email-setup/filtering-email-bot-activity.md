@@ -2,9 +2,9 @@
 description: Filtrage de l’activité des robots de messagerie électronique - Documents Marketo - Documentation du produit
 title: Filtrage de l’activité des robots de messagerie
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,10 @@ Par rapport aux clics sur les liens de courrier électronique et à l’activit�
 
 >[!NOTE]
 >
->Vous pouvez choisir de filtrer l’activité des robots. **ou** consigné. Si vous choisissez filtré, vous pouvez voir une baisse des ouvertures d’email et des clics lorsque les fausses activités sont éliminées.
+>* Vous pouvez choisir de filtrer l’activité des robots. **ou** consigné. Si vous choisissez filtré, il se peut qu’une baisse des ouvertures et des clics d’email s’affiche, car les fausses activités sont éliminées.
+>
+>* Pour l’instant, seule &quot;Activité de robot de journal&quot; est disponible pour &quot;Correspondance avec le modèle de proximité&quot;.
+
 
 **ÉTAPE FACULTATIVE**: Pour désactiver cette fonction, désélectionnez simplement le ou les curseur(s). Si vous la désactivez, les données ne sont pas réinitialisées.
 

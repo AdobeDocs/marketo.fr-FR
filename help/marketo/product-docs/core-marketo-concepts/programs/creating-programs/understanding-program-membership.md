@@ -3,9 +3,9 @@ unique-page-id: 1147091
 description: Présentation de l’adhésion au programme - Documents Marketo - Documentation du produit
 title: Compréhension de l’appartenance au programme
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '309'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo normalise maintenant la langue sur tous les abonnements. Vous pouvez donc voir des pistes dans votre abonnement et des personnes dans docs.marketo.com. Ces termes signifient la même chose; cela n’a aucune incidence sur les instructions de l’article. Il y a d&#39;autres changements aussi. [En savoir plus](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>Marketo normalise maintenant la langue sur tous les abonnements. Vous pouvez donc voir des pistes/pistes dans votre abonnement et des personnes/personnes dans nos documents. Ces termes signifient la même chose; cela n’a aucune incidence sur les instructions de l’article. Il y a d&#39;autres changements aussi. [En savoir plus](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >
