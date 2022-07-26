@@ -1,37 +1,40 @@
 ---
 unique-page-id: 17728401
-description: Connexion par courrier électronique pour les utilisateurs de Gmail - Documents marketing - Documentation du produit
-title: Connexion par courriel pour les utilisateurs de Gmail
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+description: Connexion par courrier électronique pour les utilisateurs de Gmail - Documentation Marketo - Documentation du produit
+title: Connexion par e-mail pour les utilisateurs de Gmail
+exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
+source-git-commit: 84da081b1484daf0c6c7e5ae4799c4c0b549d0e3
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
+# Connexion par e-mail pour les utilisateurs de Gmail {#email-connection-for-gmail-users}
 
-# Connexion par courriel pour les utilisateurs de Gmail {#email-connection-for-gmail-users}
+La connexion à Gmail signifie que vous recevrez le suivi des réponses, l’accès au canal de diffusion Gmail, la possibilité de planifier des emails dans Gmail et d’envoyer la conformité.
 
-Se connecter à Gmail signifie que vous recevrez le suivi des réponses, l&#39;accès au canal de diffusion Gmail, la possibilité de planifier des courriels dans Gmail et d&#39;envoyer la conformité.
+>[!CAUTION]
+>
+>Si vous êtes [utilisation des filtres](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target=&quot;_blank&quot;} ou des règles dans votre compte Gmail pour marquer automatiquement les emails comme étant lus, ce qui peut entraîner des problèmes avec le suivi des réponses. Nous vous recommandons de désactiver toutes les règles qui marquent automatiquement les emails comme lus lors de l&#39;utilisation du suivi des réponses avec Gmail.
 
-1. Dans Sales Connect, cliquez sur l&#39;icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans Sales Connect, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/one.png)
 
-1. Sous Mon compte, sélectionnez **Paramètres de courriel**.
+1. Sous Mon compte, sélectionnez **Paramètres de messagerie électronique**.
 
    ![](assets/two.png)
 
-1. Cliquez sur l&#39;onglet **Connexion par courriel**.
+1. Cliquez sur le bouton **Connexion par e-mail** .
 
    ![](assets/three.png)
 
-1. Cliquez sur **Commencer**.
+1. Cliquez sur **Prise en main**.
 
    ![](assets/four.png)
 
-1. Sélectionnez **J’utilise Gmail pour envoyer des e-mails** et cliquez sur **Suivant**.
+1. Sélectionner **J&#39;utilise Gmail pour envoyer des emails** et cliquez sur **Suivant**.
 
    ![](assets/five.png)
 
@@ -39,7 +42,7 @@ Se connecter à Gmail signifie que vous recevrez le suivi des réponses, l&#39;a
 
    ![](assets/six.png)
 
-1. Si vous vous êtes déjà connecté à Gmail, sélectionnez le compte auquel vous souhaitez vous connecter. Dans le cas contraire, entrez votre adresse Gmail et cliquez sur **Suivant**. Dans cet exemple, nous ne sommes pas encore connectés.
+1. Si vous vous êtes déjà connecté à Gmail, sélectionnez le compte auquel vous souhaitez vous connecter. Dans le cas contraire, saisissez votre adresse Gmail et cliquez sur **Suivant**. Dans cet exemple, nous ne sommes pas encore connectés.
 
    ![](assets/seven.png)
 
@@ -51,7 +54,7 @@ Se connecter à Gmail signifie que vous recevrez le suivi des réponses, l&#39;a
 
    ![](assets/nine.png)
 
-   Vous pouvez utiliser cette connexion pour effectuer le suivi des courriers électroniques et aussi comme canal de diffusion.
+   Vous pouvez utiliser cette connexion pour effectuer le suivi des emails, mais aussi comme canal de diffusion.
 
 >[!NOTE]
 >
