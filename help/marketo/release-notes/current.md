@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ Les fonctionnalités suivantes commenceront à être publiées sur **19 août 20
 * **Marque des Adobes**: Mise à jour de l’aspect pour les éditeurs et de la page des détails de la personne avec la nouvelle marque Adobe Experience Cloud.
 
 * **Afficher la hiérarchie de dossiers du dossier de destination dans la boîte de dialogue Déplacer**: L’affichage de la hiérarchie de dossiers pour chaque dossier facilite le déplacement des ressources et réduit la probabilité de les placer dans le mauvais dossier.
+
+* **Mise à jour d’Screens dans l’expérience de nouvelle génération**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
+
+   * Détails &quot;Images et fichiers&quot;
+   * Détails du fragment de code
 
 >[!NOTE]
 >
