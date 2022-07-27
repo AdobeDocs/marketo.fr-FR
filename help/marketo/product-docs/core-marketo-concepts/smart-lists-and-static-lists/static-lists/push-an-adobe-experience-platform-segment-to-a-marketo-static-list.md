@@ -2,9 +2,9 @@
 description: Envoyer un segment Adobe Experience Platform vers une liste statique Marketo - Documents Marketo - Documentation du produit
 title: Envoi d’un segment Adobe Experience Platform vers une liste statique Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
+source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Entrer une destination **Nom** et une description facultative. Cliquez sur la liste déroulante Création de personne et sélectionnez &quot;Faire correspondre les personnes Marketo existantes et créer des personnes manquantes dans Marketo&quot;. _ou_ &quot;Correspondance avec les personnes Marketo existantes uniquement.&quot; Dans cet exemple, nous choisissons le premier.
+1. Entrer une destination **Nom** et une description facultative. Cliquez sur la liste déroulante Création de personne et sélectionnez &quot;Faire correspondre les personnes Marketo existantes et créer des personnes manquantes dans Marketo&quot;. _ou_ &quot;Correspondance avec les personnes Marketo existantes uniquement.&quot; Dans cet exemple, nous choisissons le premier. Vous pouvez également choisir un espace de travail ou simplement utiliser la valeur par défaut.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -94,9 +94,13 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. Faites correspondre le prénom en sélectionnant **firstName** et clic **Sélectionner**.
+1. Sélectionnez le ou les attributs souhaités, puis cliquez sur **Sélectionner**. Dans cet exemple, nous choisissons le prénom, le nom et l’adresse électronique.
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+   >[!NOTE]
+   >
+   >Vous pouvez mapper des attributs d’Experience Platform à n’importe lequel des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la variable [Description de la requête API](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;} pour récupérer les champs d’attribut auxquels votre organisation a accès.
 
 1. Faites correspondre le nom et le nom de la société en cliquant sur **Ajouter un nouveau mappage** et répétez deux fois l’étape 15, en choisissant **lastName** puis **companyName**.
 
@@ -142,22 +146,6 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Vous aurez désormais besoin de l’identifiant de votre liste. Cliquez sur l’onglet de votre navigateur dans lequel votre liste statique Marketo est ouverte (ou ouvrez un nouvel onglet et sélectionnez la liste statique de votre choix).
+1. Vérifiez vos modifications et cliquez sur **Terminer**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
-
-   >[!NOTE]
-   >
-   >Pour de meilleurs résultats, utilisez une liste de Marketo Engage vide.
-
-1. Mettez en surbrillance l’identifiant de liste et copiez-le à la fin de l’URL.
-
-   ![](assets/push-an-adobe-experience-platform-segment-27.png)
-
-1. Collez l’ID que vous venez de copier sous ID de mappage et cliquez sur **Suivant**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-28.png)
-
-1. Cliquez sur **Terminer**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-29.png)
