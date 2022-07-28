@@ -4,7 +4,7 @@ solution: Marketo Engage
 product: marketo
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/marketo.fr-FR
+git-repo: https://github.com/AdobeDocs/marketo.fr-FR
 index: true
 source-git-commit: 83318a6cbba230271f048efcc0ef8c13de3141c1
 workflow-type: tm+mt
