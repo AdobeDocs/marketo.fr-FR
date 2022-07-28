@@ -2,9 +2,9 @@
 description: Présentation de Dynamic Chat - Documents Marketo - Documentation du produit
 title: Présentation de la conversation dynamique
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '951'
 ht-degree: 2%
 
 ---
@@ -170,5 +170,15 @@ Lorsque vous mettez à jour la langue, tout dans l’application elle-même chan
   <td>Période de conservation de l’activité de réservation d’une réunion</td>
   <td>Durée pendant laquelle l’activité de réservation de réunion sera stockée dans Dynamic Chat</td>
   <td>24 mois</td>
+ </tr>
+ <tr>
+  <td>Conversations en cours</td>
+  <td>Nombre de conversations par jour avec lesquelles les visiteurs web peuvent interagir</td>
+  <td>1000</td>
+ </tr>
+ <tr>
+  <td>Conversations déclenchées</td>
+  <td>Nombre de conversations en ligne qui peuvent être présentées aux visiteurs web par jour</td>
+  <td>25 000</td>
  </tr>
 </table>

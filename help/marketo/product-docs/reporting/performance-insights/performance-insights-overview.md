@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: Présentation de Performance Insights - Documents Marketo - Documentation du produit
 title: Présentation des informations sur les performances
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '231'
 ht-degree: 2%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 2%
 # Présentation des informations sur les performances {#performance-insights-overview}
 
 Les statistiques sur les performances de Marketo vous aident à optimiser votre combinaison de canaux pour une efficacité maximale, ainsi qu’à découvrir des tendances à long terme afin d’identifier des stratégies gagnantes cohérentes.
+
+>[!AVAILABILITY]
+>
+>Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre responsable du succès client.
 
 Performance Insights charge les données depuis (jusqu’à) les 24 mois précédents. Cela inclut les données de l’année en cours à jour, ainsi que celles de l’année précédente. Par exemple, le 31 janvier 2019 , MPI chargera les données de ce mois-ci et tous les mois de 2018. Le 31 décembre 2019, MPI chargera les données de chaque mois de 2019 et 2018.
 
