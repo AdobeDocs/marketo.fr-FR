@@ -3,10 +3,10 @@ unique-page-id: 2359545
 description: Définition des critères de gagnant de test A/B - Documents Marketo - Documentation du produit
 title: Définition des critères de gagnant de test A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
+source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 3%
+source-wordcount: '439'
+ht-degree: 2%
 
 ---
 
@@ -63,9 +63,9 @@ When [ajout d’un test A/B](/help/marketo/product-docs/email-marketing/email-pr
 
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Marketo autorisera uniquement les déclencheurs pour les personnes qui ont reçu le courrier électronique de ce programme de messagerie. Il n’est pas nécessaire d’ajouter un filtre &quot;E-mail envoyé&quot;.
+   >Marketo n’autorise que les déclencheurs/filtres pour les personnes qui ont reçu l’e-mail de ce programme de messagerie. Il n’est donc pas nécessaire d’ajouter un filtre &quot;A été envoyé par e-mail&quot;. De plus, lorsque vous utilisez un déclencheur/filtre lié à un email, veillez à utiliser &quot;is any&quot; comme opérateur.
 
 1. Cliquez sur **Fermer**.
 
