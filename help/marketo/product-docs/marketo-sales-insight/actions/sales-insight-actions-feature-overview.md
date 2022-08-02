@@ -2,9 +2,9 @@
 description: Présentation des actions Sales Insight - Documents Marketo - Documentation du produit
 title: Présentation de la fonction Actions d’aperçu des ventes
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: d36fc031675cea2edad63462e7df21f229c49821
 workflow-type: tm+mt
-source-wordcount: '1336'
+source-wordcount: '1337'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ Accélérez les efforts de prospection grâce à des outils d’intelligence et 
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est actuellement en disponibilité générale limitée. Contactez votre responsable du succès client ou e-mail. `sales-insights(at)adobe(dot)com` pour demander l’accès.
+>Cette fonctionnalité est actuellement en cours de déploiement échelonné. Contactez votre responsable du succès client ou e-mail. `sales-insights(at)adobe(dot)com` pour demander l’accès.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -25,7 +25,7 @@ Les actions suivantes sont disponibles dans la liste déroulante &quot;Choisir l
 
 * Envoyer un e-mail de vente
    * Les emails de vente ont un suivi des affichages, des clics et des réponses (lorsque le canal de diffusion est configuré)
-   * Inclut le Personalization par courrier électronique, la signature personnalisée et les pièces jointes
+   * Inclut la personnalisation des emails, la signature personnalisée et les pièces jointes
    * Partage de modèles et rapports
    * Partage d’équipe, emails de groupe et fonctionnalité CC/Cci
    * L’activité de courrier électronique de vente sera enregistrée dans l’enregistrement de personne Marketo.
@@ -77,7 +77,7 @@ Les actions suivantes sont disponibles dans le volet de navigation supérieur :
 
 * Envoyer un e-mail de vente : possibilité d’envoyer des e-mails de groupe personnalisés ou modélisés avec un suivi des vues, des clics et des réponses à tous les contacts associés à un compte/une opportunité.
    * Les emails de vente ont un suivi des affichages, des clics et des réponses (lorsque le canal de diffusion est configuré)
-   * Inclut le Personalization par courrier électronique, la signature personnalisée et les pièces jointes
+   * Inclut la personnalisation des emails, la signature personnalisée et les pièces jointes
    * Partage de modèles et rapports
    * Partage d’équipe, emails de groupe et fonctionnalité CC/Cci
    * L’activité de courrier électronique de vente sera enregistrée dans l’enregistrement de personne Marketo.
