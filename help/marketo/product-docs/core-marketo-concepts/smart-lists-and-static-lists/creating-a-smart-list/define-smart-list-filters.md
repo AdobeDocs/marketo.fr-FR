@@ -1,46 +1,49 @@
 ---
 unique-page-id: 557316
-description: Définir des Filtres de Liste intelligente - Docs Marketo - Documentation du produit
-title: Définir des Filtres de Liste intelligente
+description: Définition de filtres de liste dynamique - Documents Marketo - Documentation du produit
+title: Définition des filtres de liste dynamique
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
-# Définir des Filtres de Liste intelligente {#define-smart-list-filters}
+# Définition des filtres de liste dynamique {#define-smart-list-filters}
 
 >[!PREREQUISITES]
 >
->* [Création d’une Liste dynamique](create-a-smart-list.md)
->* [Rechercher et Ajouter des Filtres aux Listes dynamiques](find-and-add-filters-to-a-smart-list.md)
+>* [Création d’une liste dynamique](create-a-smart-list.md)
+>* [Recherche et ajout de filtres aux listes dynamiques](find-and-add-filters-to-a-smart-list.md)
 
 
-Maintenant que vous avez [créé une liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) et [ajouté des filtres](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md), définissons les filtres. Voici comment.
+Maintenant que vous avez [création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) et [filtres ajoutés](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) définissez les filtres. Voici comment.
 
-En suivant notre exemple, définissons ces filtres pour trouver toutes les personnes en Californie avec un score supérieur à 50.
+Dans notre exemple, définissez ces filtres pour trouver toutes les personnes en Californie ayant un score supérieur à 50.
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez la liste intelligente et cliquez sur l&#39;onglet **Liste intelligente**.
+1. Sélectionnez la liste dynamique, puis cliquez sur l’icône **Liste dynamique** .
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Recherchez et sélectionnez **CA** pour le filtre **État**.
+1. Rechercher et sélectionner **CA** pour le **État** filtre.
 
    ![](assets/smartlistdefinefilters.png)
 
    >[!NOTE]
    >
-   >Vous pouvez stocker **California** et **CA**. Pour filtrer les deux valeurs et inclure _toutes_ les personnes de Californie, apprenez comment [ajouter plusieurs valeurs à un filtre de liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
+   >Vous pouvez stocker les deux **Californie** et **CA**. Pour filtrer les deux valeurs et inclure _all_ des gens de Californie, apprenez à  [ajout de plusieurs valeurs à un filtre de liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
 
-1. Sélectionnez l’opérateur **supérieur à** et saisissez **50**.
+1. Sélectionnez la variable **supérieur à** et saisissez **50**.
 
    ![](assets/smartlistfilter-personscore.png)
 
-   Félicitations ! Vous savez maintenant comment créer une liste intelligente et ajouter/définir des filtres.
+>[!TIP]
+>
+>Si vous pensez que votre base de données contient des enregistrements qui contiennent des adresses électroniques incomplètes (par exemple, simplement &quot;@adobe.com&quot;), utilisez **two** Filtres d’adresses électroniques lorsque vous utilisez l’opérateur &quot;contient&quot;. Un filtre avec &quot;contient @adobe.com&quot; et un autre avec &quot;contient adobe.com&quot; (sans le symbole @).
+
+Vous savez maintenant comment créer une liste dynamique et ajouter/définir des filtres.
