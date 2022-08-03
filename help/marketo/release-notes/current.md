@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -63,8 +63,6 @@ Les fonctionnalités suivantes commenceront à être publiées sur **19 août 20
 ## Améliorations des API {#api-enhancements}
 
 * **Nouvelles fonctionnalités de filtrage pour l’API d’extraction de membres de programme en bloc**: Filtrez par statut d’adhésion au programme, mise à jour d’At, cadence ou contenu épuisé pour affiner le jeu de données extrait.
-
-* **Exposer les utilisateurs d’API uniquement dans les notifications d’erreur des services web**: Pour améliorer la résolution des problèmes, découvrez quel utilisateur API a généré une erreur de services Web.
 
 ## Annonces {#announcements}
 
