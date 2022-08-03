@@ -3,7 +3,7 @@ unique-page-id: 2360407
 description: Créer un rapport d’analyse des emails qui répertorie les pistes - Documents Marketo - Documentation du produit
 title: Créer un rapport d’analyse des emails qui répertorie les pistes
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Créer un rapport d’analyse des emails qui répertorie les pistes {#build-an-email-analysis-report-that-lists-leads}
 
+Pour créer un rapport d’analyse des emails qui vous montrera chaque piste envoyée à un email spécifique, ce rapport contiendra également les statistiques de clic et d’ouverture.
+
 >[!AVAILABILITY]
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre gestionnaire de succès client.
-
-Pour créer un rapport d’analyse des emails qui vous montrera chaque piste envoyée à un email spécifique, ce rapport contiendra également les statistiques de clic et d’ouverture.
 
 >[!NOTE]
 >

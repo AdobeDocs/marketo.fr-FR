@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 >
 >Fonctionnalités signalées par une étoile (![star](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage.
 
-Les fonctionnalités suivantes commenceront à être publiées sur **19 août 2022**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes (sauf indication contraire). Les fonctionnalités de publication et les dates exactes peuvent être modifiées.
+Les fonctionnalités suivantes commenceront à être publiées sur **26 août 2022**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes (sauf indication contraire). Les fonctionnalités de publication et les dates exactes peuvent être modifiées.
 
 ## Orchestration cross-canal {#cross-channel-orchestration}
 
@@ -63,6 +63,12 @@ Les fonctionnalités suivantes commenceront à être publiées sur **19 août 20
 ## Améliorations des API {#api-enhancements}
 
 * **Nouvelles fonctionnalités de filtrage pour l’API d’extraction de membres de programme en bloc**: Filtrez par statut d’adhésion au programme, mise à jour d’At, cadence ou contenu épuisé pour affiner le jeu de données extrait.
+
+## Sales Insight {#sales-insight}
+
+![(étoile)](assets/yellow-star.png)
+
+* **Intégration de Sales Insight à Dynamic Chat**: Affichez les activités à partir de la messagerie dynamique dans le panneau Sales Insight (Aperçu des ventes) et exploitez ce nouveau point de données dans vos efforts de prospection.
 
 ## Annonces {#announcements}
 
