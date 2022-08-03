@@ -2,9 +2,9 @@
 description: Présentation des actions Sales Insight - Documents Marketo - Documentation du produit
 title: Présentation de la fonction Actions d’aperçu des ventes
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: d36fc031675cea2edad63462e7df21f229c49821
+source-git-commit: da20d39c53f0e1731506585c6be886b5c509e81b
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1356'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,10 @@ Accélérez les efforts de prospection grâce à des outils d’intelligence et 
 >Cette fonctionnalité est actuellement en cours de déploiement échelonné. Contactez votre responsable du succès client ou e-mail. `sales-insights(at)adobe(dot)com` pour demander l’accès.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
+
+>[!NOTE]
+>
+>Pour une présentation vidéo des actions Sales Insight, [cliquez ici](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target=&quot;_blank&quot;}.
 
 ## Disposition de piste et disposition de contact {#lead-layout-and-contact-layout}
 
