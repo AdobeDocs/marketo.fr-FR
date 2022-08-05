@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,8 @@ Les fonctionnalités suivantes commenceront à être publiées sur **26 août 20
 
 * **Mise à jour d’Screens dans l’expérience de nouvelle génération**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
 
-   * Détails &quot;Images et fichiers&quot;
    * Détails du fragment de code
+   * Détails &quot;Images et fichiers&quot;
 
 >[!NOTE]
 >
