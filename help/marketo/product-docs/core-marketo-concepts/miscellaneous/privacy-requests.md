@@ -2,16 +2,16 @@
 description: Demandes d’accès à des informations personnelles - Documents Marketo - Documentation du produit
 title: Demandes d’accès à des informations personnelles
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+source-git-commit: e3f7b0082b77c1be6b4f046838d7ebe725533e78
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
 
 # Demandes d’accès à des informations personnelles {#privacy-requests}
 
-Ce document présente la gestion des demandes de confidentialité des données individuelles que vous pouvez envoyer à Marketo Engage par le biais de l’interface utilisateur du Privacy Service et de la **API Privacy Service**.
+Ce document présente la gestion des demandes de confidentialité des données individuelles que vous pouvez envoyer à Marketo Engage via l’interface utilisateur du Privacy Service et l’API du Privacy Service.
 
 >[!NOTE]
 >
@@ -19,10 +19,10 @@ Ce document présente la gestion des demandes de confidentialité des données i
 
 Vous pouvez envoyer des requêtes individuelles pour accéder aux données des consommateurs et les supprimer du Marketo Engage de deux manières :
 
-* Par le biais de la [Interface utilisateur du Privacy Service](https://privacyui.cloud.adobe.io/). Consultez la documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}.
-* Par le biais de la **API Privacy Service**. Consultez la documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} et informations sur l’API [here](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
+* Par le biais de la [Interface utilisateur du Privacy Service](https://privacyui.cloud.adobe.io/). Consultez la documentation [here](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target=&quot;_blank&quot;}.
+* Par le biais de l’API du Privacy Service. Consultez la documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} et informations sur l’API [here](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
 
-Le [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} prend en charge deux types de requêtes : accès aux données et suppression des données.
+Le [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target=&quot;_blank&quot;} prend en charge deux types de requêtes : accès aux données et suppression des données.
 
 Découvrez comment créer des demandes d’accès et de suppression.
 
