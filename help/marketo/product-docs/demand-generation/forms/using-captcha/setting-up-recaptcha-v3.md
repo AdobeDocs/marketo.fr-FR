@@ -4,9 +4,9 @@ title: Configuration de reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+source-git-commit: 24942664d613fa2851bad7a0dd3862027deacf37
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Texte : Description v3 : les étapes suivantes sont effectuées en dehors de Mar
 
 1. Connectez-vous/inscrivez-vous à un compte Google.
 
-1. Cliquez sur le bouton Créer (+ signe) pour créer une nouvelle clé.
+1. Cliquez sur le bouton Créer (+) pour créer une nouvelle clé.
 
 1. Créez un libellé pour identifier la clé à utiliser pour Marketo Engage.
 
