@@ -3,9 +3,9 @@ unique-page-id: 17432598
 description: Configuration du profilage de compte - Documents Marketo - Documentation du produit
 title: Configuration du profilage de compte
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
-source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
+source-git-commit: 07a6640bd6cd43f55a5fa7e64b4a960dce288021
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '149'
 ht-degree: 2%
 
 ---
@@ -16,32 +16,30 @@ Pour commencer à utiliser le profilage de compte, procédez comme suit.
 
 >[!CAUTION]
 >
->Les champs suivants doivent être **et non** masqués pour que le Profilage de compte fonctionne correctement.
+>Les champs suivants doivent être **not** être masqué pour que le Profilage de compte fonctionne correctement.
 >
 >* Site Internet
 >* Société
 >* Adresse e-mail
 >* Pays
-
 >
->
-Découvrez comment [afficher un champ ici](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>Découvrez comment [Afficher un champ ici](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
 1. Dans Mon Marketo, ouvrez **Gestion de compte Target**.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Cliquez sur l’onglet **Profilage de compte** .
+1. Cliquez sur le bouton **Profilage de compte** .
 
    ![](assets/two-1.png)
 
-1. L’onglet Modèle s’ouvre par défaut. Cliquez sur **Commencer**.
+1. L’onglet Modèle s’ouvre par défaut. Cliquez sur **Prise en main**.
 
    ![](assets/three.png)
 
-1. Donnez un nom à votre modèle, choisissez qui sera inclus dans les résultats et qui servira de base à l’ICP (idéal Customer Profile). Cliquez sur **Créer un modèle** lorsque vous avez terminé.
+1. Attribuez un nom à votre modèle et sélectionnez le type/la liste des personnes qui servira de base à l’ICP (idéal Customer Profile). Cliquez sur **Créer un modèle** une fois terminé.
 
-   ![](assets/four.png)
+   ![](assets/setting-up-account-profiling-4.png)
 
 1. Votre modèle commence sa création. Cela peut prendre un certain temps, mais ne vous inquiétez pas, vous serez averti lorsque ce sera fait.
 
@@ -57,4 +55,4 @@ Découvrez comment [afficher un champ ici](/help/marketo/product-docs/administra
 
    >[!TIP]
    >
-   >Maintenant que votre modèle est créé, [apprenez à le régler](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
+   >Maintenant que votre modèle est créé, [découvrez comment l’ajuster](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
