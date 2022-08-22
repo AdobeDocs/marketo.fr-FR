@@ -1,13 +1,12 @@
 ---
 unique-page-id: 1147021
-description: Changer de propriétaire - Marketo Docs - Documentation du produit
+description: Changer de propriétaire - Documents Marketo - Documentation du produit
 title: Modifier détenteur
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 44c134811242b4136a3137cdd60e60edeb838c8c
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 3%
+source-wordcount: '170'
+ht-degree: 2%
 
 ---
 
@@ -19,20 +18,19 @@ Si des personnes existantes sont déjà affectées à un propriétaire, vous pou
 
 **Utilisation**
 
-1. Il vous suffit de choisir le propriétaire ou la file d&#39;attente de piste vers laquelle vous souhaitez passer et de partir !
+1. Il vous suffit de choisir le propriétaire ou la file d’attente de piste vers laquelle vous souhaitez passer et de partir !
 
    ![](assets/image2014-9-22-15-3a1-3a6.png)
 
    >[!CAUTION]
    >
-   >Salesforce n&#39;autorise pas l&#39;affectation de contacts aux files d&#39;attente de piste. Pour un enregistrement qui est un contact de la DDC :
+   >Salesforce n’autorise pas l’affectation de contacts aux files d’attente de piste. Pour un enregistrement qui est un contact de la DDC :
    >
-   >1. Marketo créera une piste de duplicata **uniquement** lorsque le contact sera synchronisé avec Salesforce. En d’autres termes, si vous utilisez l’étape de flux **[Synchroniser la personne avec SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** avec `AssignTo=<a lead queue>`, Marketo créera une piste de duplicata dans Salesforce et l’affectera à la file d’attente de piste.
-      >
-      >
-   1. Si vous tentez d’utiliser l’étape de flux **Changer de propriétaire** sur un contact, aucun duplicata ne sera créé dans Salesforce.
+   >1. Marketo crée un prospect en double **only** lorsque le contact est synchronisé avec Salesforce. En d’autres termes, si vous utilisez la variable **[Personne synchronisée avec SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** étape de flux avec `AssignTo=<a lead queue>`, Marketo crée une piste en double dans Salesforce et l’affecte à la file d’attente de piste.
+   >
+   >1. Si vous utilisez la variable **Modifier le propriétaire** étape de flux sur un contact, Marketo crée un prospect en double dans Salesforce. Pour éviter cela, utilisez un filtre sur le champ &quot;Type SFDC&quot; qui limite l’action aux pistes uniquement.
 
 
    >[!NOTE]
    >
-   >Si l&#39;enregistrement n&#39;existe pas encore dans votre compte Salesforce, nous allons le synchroniser, puis l&#39;affecter à l&#39;utilisateur sélectionné.
+   >Si l’enregistrement n’existe pas encore dans votre compte Salesforce, nous le synchronisons, puis nous l’affectons à l’utilisateur sélectionné.
