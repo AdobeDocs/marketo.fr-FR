@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importation d’un programme - Documents Marketo - Documentation du produit
 title: Importation d’un programme
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Un programme peut être importé d&#39;un abonnement Marketo vers un autre. Par exemple, vous pouvez créer un programme dans un environnement de test, puis l’importer dans votre abonnement en direct. Vous pouvez également importer un programme prédéfini à partir de la bibliothèque de programmes Marketo.
 
-## Importation d’un programme {#import-a-program-1}
+## Importation d’un programme {#importing-a-program}
 
 1. Accédez à **Activités marketing.**
 
@@ -46,6 +46,10 @@ Un programme peut être importé d&#39;un abonnement Marketo vers un autre. Par 
 
    ![](assets/import-a-program-5.png)
 
+   >[!NOTE]
+   >
+   >Si vous importez un programme qui utilise des étapes de flux personnalisées ou des règles de liste dynamique dérivées d’un service d’étape de flux dans une instance de destination où il existe plusieurs fournisseurs de services compatibles, l’utilisateur importateur sera invité à affecter des étapes ou des règles au bon fournisseur dans l’instance de destination.
+
 1. Aperçu des détails et **Importer** le programme.
 
    ![](assets/import-a-program-6.png)
@@ -67,7 +71,7 @@ La bibliothèque de programmes Marketo contient des programmes prédéfinis et t
 1. **Moments significatifs.** Crée des moments intéressants pour que votre équipe de vente les conserve dans la boucle.
 1. **Page d’entrée avec la réponse automatique.** Utilisez du contenu téléchargeable pour obtenir de nouvelles personnes et les nourrir. Inclut des landing pages et des formulaires.
 1. **Cycle de vie 2.** Utilise la notation pour faire passer une personne du nouveau au marketing qualifié.
-1. **Modèle de courrier électronique Mobile.** Modèle de courrier électronique réactif testé par rapport à iPhone et Android. Certaines versions d’Android, MS Outlook, Exchange et d’applications tierces telles que Gmail et Yahoo! Les applications mobiles de messagerie ne prennent pas en charge le code CSS requis pour les modèles réactifs. Nous vous recommandons de tester avant d’envoyer des emails.
+1. **Modèle de courrier électronique mobile.** Modèle de courrier électronique réactif testé par rapport à iPhone et Android. Certaines versions d’Android, MS Outlook, Exchange et d’applications tierces telles que Gmail et Yahoo! Les applications mobiles de messagerie ne prennent pas en charge le code CSS requis pour les modèles réactifs. Nous vous recommandons de tester avant d’envoyer des emails.
 1. **Tirage d’importation de programme.** Programme Tirage pour ceux qui essaient la bibliothèque du programme ! Validez simplement les emails et la landing page et activez la campagne dynamique. Visualisez ensuite la landing page validée, remplissez le formulaire, et vous êtes alors inscrit !
 1. **Campagnes disponibles des ventes.** Donne à vos commerciaux le moyen d’exécuter des campagnes dynamiques Marketo à partir d’un tableau de bord dans votre gestion de la relation client.
 1. **Notation - Édition Spark.** Score démographique et comportemental capturé dans un champ de notation unique. Inclut plus de deux douzaines de campagnes liées à la notation.

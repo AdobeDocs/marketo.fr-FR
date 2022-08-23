@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359578
-description: Approuver un formulaire - Documents marketing - Documentation du produit
+description: Approuver un formulaire - Documents Marketo - Documentation du produit
 title: Approbation d’un formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
+# Approbation d’un formulaire {#approve-a-form}
 
-# Approuver un formulaire {#approve-a-form}
+Pour ajouter un formulaire à l&#39;une de vos landing pages, il doit être validé. Voici comment le faire.
 
-Pour ajouter un formulaire à l’un de vos landings page, il doit être approuvé. Voici comment le faire.
+## Approbation d’un formulaire {#approve-a-form-1}
 
-## Approuver un formulaire {#approve-a-form-1}
-
-Voici comment approuver un formulaire existant prêt à l&#39;emploi.
+Voici comment approuver un formulaire existant prêt à l’emploi.
 
 1. Accédez à **Activités marketing**.
 
@@ -35,20 +34,19 @@ Voici comment approuver un formulaire existant prêt à l&#39;emploi.
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Il est approuvé et prêt à être [ajouté à un landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Il est approuvé et prêt à être [ajouté à une landing page ;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
-   >Les modifications effectuées après l’approbation peuvent prendre jusqu’à quatre minutes pour être mises à jour sur les formulaires incorporés.
+   >Les modifications effectuées après l’approbation peuvent prendre quelques minutes pour se mettre à jour sur les formulaires incorporés.
 
-## Approuver un formulaire de l’éditeur {#approve-a-form-from-the-editor}
+## Approuver un formulaire à partir de l’éditeur {#approve-a-form-from-the-editor}
 
 Si vous apportez des modifications à un formulaire, vous pouvez approuver la page directement à partir de l’éditeur.
 
 >[!PREREQUISITES]
 >
->* [Modifier un formulaire](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
-
+>[Modifier un formulaire](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
 1. Cliquez sur **Terminer**.
 
@@ -57,9 +55,3 @@ Si vous apportez des modifications à un formulaire, vous pouvez approuver la pa
 1. Cliquez sur **Approuver et fermer**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)
-
->[!NOTE]
->
->N’oubliez pas que si vous modifiez le formulaire après son approbation, vous devez [approuver le landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) pour voir les modifications.
-
-C&#39;est tout ! Aussi facile que possible.
