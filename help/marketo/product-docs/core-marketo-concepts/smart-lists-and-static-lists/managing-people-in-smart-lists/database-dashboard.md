@@ -1,40 +1,35 @@
 ---
 unique-page-id: 10097447
-description: Tableau de bord de base de données - Documents Marketo - Documentation du produit
-title: Tableau de bord de base de données
+description: Tableau de bord de la base de données - Documents Marketo - Documentation du produit
+title: Tableau de bord de la base de données
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
-translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-# Tableau de bord de base de données {#database-dashboard}
+# Tableau de bord de la base de données {#database-dashboard}
 
-Le Tableau de bord de base de données sert d&#39;instantané pour vous aider à déterminer rapidement les attributs clés de vos employés dans un espace de travail.
+Le tableau de bord de la base de données sert d’instantané pour vous aider à déterminer rapidement les attributs clés de vos employés dans un espace de travail.
 
 >[!NOTE]
 >
->Chaque espace de travail possède son propre Tableau de bord de base de données.
+>Chaque espace de travail possède son propre tableau de bord de base de données.
 
-Pour y accéder, vous pouvez cliquer sur la mosaïque **Base de données** sur votre écran d’accueil...
+Pour y accéder, sélectionnez **Base** de votre Marketo.
 
-![](assets/db-3.png)
+![](assets/database-dashboard-1.png)
 
-Ou cliquez sur le logo Marketo et sélectionnez **Base de données**.
+Les graphiques indiquent le nombre total de personnes, le nombre de personnes pouvant faire l’objet d’un marketing, ainsi que vos cinq premières sources d’acquisition de personnes. Pour plus d’informations, passez la souris sur les zones vertes.
 
-![](assets/db2.png)
-
-Les graphiques indiquent le nombre total de personnes, le nombre de personnes commercialisables, ainsi que vos cinq principales sources d’acquisition de personnes.
-
-![](assets/three-7.png)
+![](assets/database-dashboard-2.png)
 
 >[!TIP]
 >
->Vous souhaitez obtenir des informations plus précises ou plus opportunes sur votre peuple ? Essayez un [rapport Performance des personnes](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>Vous souhaitez obtenir des informations plus précises ou plus opportunes sur vos personnes ? Essayez un [Rapport Performance des personnes](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Nombre total de personnes :** nombre de personnes travaillant tout le temps pour cet espace de travail.
+**Nombre total de personnes :** Nombre de personnes qui travaillent tout le temps dans l’espace de travail répertorié.
 
-**Personnes pouvant faire l’objet d’un marketing : nombre** de personnes travaillant tout le temps pour l’espace de travail,  _moins ce qui suit_ : les personnes sans adresse électronique, les personnes dont le courrier électronique a rebondi dur, les personnes qui sont placées sur la liste bloquée, les personnes qui se sont désabonnées, les personnes actuellement placées sur Marketing Suspendu.
+**Personnes pouvant faire l’objet d’un marketing :** Le nombre de personnes qui travaillent tout le temps pour l’espace de travail répertorié, _moins ce qui suit_: les personnes sans adresse électronique, les personnes dont l’adresse électronique a fait l’objet d’un hard bounce, les personnes qui sont placées sur la liste bloquée, les personnes qui se sont désabonnées, les personnes actuellement placées sur Marketing Suspendu.

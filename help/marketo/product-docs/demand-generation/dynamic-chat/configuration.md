@@ -2,9 +2,9 @@
 description: Configuration - Documents Marketo - Documentation du produit
 title: Configuration
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '296'
 ht-degree: 1%
 
 ---
@@ -37,7 +37,7 @@ L’ancre permet aux visiteurs de votre site d’ouvrir/de fermer le cadre de di
 
 **Paramètres de l’agent**
 
-Dans Paramètres de l’agent, vous pouvez ajouter un libellé à votre zone de discussion (par exemple : &quot;Adobe Bot&quot;) qui s’affiche en haut de l’écran. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation.
+Dans Paramètres de l’agent, vous pouvez ajouter un libellé à votre zone de discussion (par exemple : &quot;Adobe Bot&quot;) qui s’affiche en haut de l’écran. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation. Pour charger votre propre image d’avatar, cliquez sur le bouton **+** bouton .
 
 ![](assets/configuration-5.png)
 
