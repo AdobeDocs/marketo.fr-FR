@@ -3,7 +3,7 @@ unique-page-id: 10097447
 description: Tableau de bord de la base de données - Documents Marketo - Documentation du produit
 title: Tableau de bord de la base de données
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: 1de5fe50189da04ccdbcdcd017e294e5b8cba1af
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -30,6 +30,6 @@ Les graphiques indiquent le nombre total de personnes, le nombre de personnes po
 >
 >Vous souhaitez obtenir des informations plus précises ou plus opportunes sur vos personnes ? Essayez un [Rapport Performance des personnes](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Nombre total de personnes :** Nombre de personnes qui travaillent tout le temps dans l’espace de travail répertorié.
+**Nombre total de personnes :** Nombre de personnes qui travaillent tout le temps pour l’espace de travail répertorié.
 
 **Personnes pouvant faire l’objet d’un marketing :** Le nombre de personnes qui travaillent tout le temps pour l’espace de travail répertorié, _moins ce qui suit_: les personnes sans adresse électronique, les personnes dont l’adresse électronique a fait l’objet d’un hard bounce, les personnes qui sont placées sur la liste bloquée, les personnes qui se sont désabonnées, les personnes actuellement placées sur Marketing Suspendu.
