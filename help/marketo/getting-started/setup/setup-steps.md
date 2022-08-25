@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Procédure de configuration - Documents Marketo - Documentation du produit
 title: Étapes de configuration
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -199,7 +199,7 @@ Vous disposez maintenant de toutes les informations dont vous avez besoin pour e
 
 Une fois que vous avez collecté toutes les informations nécessaires, vous êtes prêt à envoyer une demande au service informatique. Vous pouvez utiliser le texte ci-dessous comme modèle, en remplaçant le texte en gras par vos propres informations.
 
-[Inclure un lien vers cet article](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md).
+[Inclure un lien vers cet article](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
 
 Collez ce texte dans l’email et remplacez les espaces réservés en gras :
 
