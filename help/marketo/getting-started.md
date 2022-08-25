@@ -3,7 +3,7 @@ unique-page-id: 1147226
 description: Prise en main - Documents Marketo - Documentation du produit
 title: Démarrer
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 5d7c30fe818e37ba86152953d19937e39c7426f5
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 31%
@@ -22,7 +22,7 @@ Que demandez-vous à Marketo ? Bonne question !
 
 Avec un peu d&#39;aide de votre équipe informatique, vous pouvez le faire en un rien de temps.
 
-[Configuration de démarrage](/help/marketo/getting-started/setup-steps.md)
+[Configuration de démarrage](/help/marketo/getting-started/setup/setup-steps.md)
 
 ## ÉTAPE 3 Obtenir quelques victoires rapides {#get-some-quick-wins}
 
@@ -43,7 +43,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
       <a href="getting-started/quick-wins/send-an-email.md">
        <img alt="Importer" src="getting-started/assets/getting-started-2.png" />
        </a>
-    <div><a href="getting-started/quick-wins/send-an-email.md">2. Envoyer un email</a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. Envoyer un courrier électronique</a>
     </div>
     <br>
   </td>
@@ -80,7 +80,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
       <img alt="Adresse e-mail" src="getting-started/assets/getting-started-6.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importer une liste de personnes</a>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importation d’une liste de personnes</a>
     </div>
     <br>
   </td>
@@ -89,7 +89,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
       <img alt="Connexion" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Préparation de la goutte d’eau</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Infirmière à goutte</a>
     </div>
     <br>
   </td>

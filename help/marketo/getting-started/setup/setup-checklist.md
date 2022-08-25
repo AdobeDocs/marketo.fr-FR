@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: Liste de contrôle de configuration - Documents Marketo - Documentation du produit
 title: Liste de contrôle de configuration
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Liste de contrôle de configuration {#setup-checklist}
 
-Bienvenue sur Marketo! N’hésitez pas à utiliser la liste de contrôle suivante comme liste de tâches visuelles pour lancer les choses. Vous trouverez des détails dans la section [Étapes de configuration](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}.
+Bienvenue sur Marketo! N’hésitez pas à utiliser la liste de contrôle suivante comme liste de tâches visuelles pour lancer les choses. Vous trouverez des détails dans la section [Étapes de configuration](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}.
 
 ## Connexion à Marketo et création d’utilisateurs supplémentaires {#log-in-to-marketo-and-create-additional-users}
 
@@ -50,4 +50,4 @@ Bienvenue sur Marketo! N’hésitez pas à utiliser la liste de contrôle suivan
 
 >[!MORELIKETHIS]
 >
->[Étapes de configuration](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}
+>[Étapes de configuration](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
