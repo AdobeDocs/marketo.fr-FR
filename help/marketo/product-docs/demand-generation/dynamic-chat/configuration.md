@@ -2,9 +2,9 @@
 description: Configuration - Documents Marketo - Documentation du produit
 title: Configuration
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -40,6 +40,10 @@ L’ancre permet aux visiteurs de votre site d’ouvrir/de fermer le cadre de di
 Dans Paramètres de l’agent, vous pouvez ajouter un libellé à votre zone de discussion (par exemple : &quot;Adobe Bot&quot;) qui s’affiche en haut de l’écran. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation. Pour charger votre propre image d’avatar, cliquez sur le bouton **+** bouton .
 
 ![](assets/configuration-5.png)
+
+>[!NOTE]
+>
+>Les avatars personnalisés doivent être des images carrées inférieures à 256 Ko et inférieures à 200 x 200 pixels. Les types de fichiers pris en charge sont les suivants : .jpg, .png, .gif, .webp, .svg.
 
 Une fois les modifications effectuées, pensez à cliquer sur **Enregistrer**.
 
