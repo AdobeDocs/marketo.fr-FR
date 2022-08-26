@@ -2,16 +2,16 @@
 description: Basculer entre - Documents Marketo - Documentation du produit
 title: Basculer entre les deux
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 917b74a9175707b9475a5d07eb116cde738f6f13
+source-git-commit: a7eeee24fb494c42a6992fc049311f63c6217b54
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
 # Basculer entre les deux {#toggle-switch}
 
-Le bouton Basculer vous permet de basculer entre l’interface classique de Marketo et l’expérience de Marketo Engage de nouvelle génération. Il est disponible dans toutes les zones indiquées ci-dessous. À compter de la version de mai 2022, l’expérience de nouvelle génération sera activée par défaut.
+Le bouton Basculer vous permet de basculer entre l’interface classique de Marketo et l’expérience de Marketo Engage de nouvelle génération. Il est disponible dans toutes les zones indiquées ci-dessous.
 
 >[!NOTE]
 >
@@ -33,132 +33,37 @@ Activez le bouton bascule pour les rôles individuels ou tous les rôles. Voici 
 
    ![](assets/toggle-switch-3.png)
 
-## Mode Liste des pages d’entrée {#landing-page-list-view}
+## Activation pour les fonctionnalités {#enable-for-features}
 
-La vue de liste de page d’entrée de la génération suivante offre des filtres de recherche et la possibilité d’effectuer des actions de page d’entrée en masse.
+Vous avez la possibilité d’activer manuellement l’interface nouvelle génération de Marketo pour chaque fonction ou toutes les fonctions disponibles (actuelles et à venir).
 
-1. Dans Marketo, sélectionnez **Design Studio**.
+Dans une zone qui possède actuellement le bouton Activer/désactiver (dans cet exemple, nous sommes en mode Liste des emails), cliquez simplement sur le bouton activer/désactiver dans le coin inférieur droit de la page.
 
-   ![](assets/toggle-switch-4.png)
-
-1. Sélectionner **Pages d’entrée**.
-
-   ![](assets/toggle-switch-5.png)
-
-1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
-
-   ![](assets/toggle-switch-6.png)
+![](assets/toggle-switch-4.png)
 
 La nouvelle expérience se charge.
+
+![](assets/toggle-switch-5.png)
+
+Pour l’activer pour _all_ , cliquez sur l’icône d’engrenage en regard du bouton bascule.
+
+![](assets/toggle-switch-6.png)
+
+Sélectionner **Activer pour toutes les fonctionnalités disponibles** et cliquez sur **OK**.
 
 ![](assets/toggle-switch-7.png)
 
-## Vue Détails de la page d’entrée {#landing-page-details-view}
+## Fonctionnalités disponibles {#available-features}
 
-1. Dans Marketo, recherchez et sélectionnez votre landing page.
+Les fonctionnalités suivantes sont actuellement disponibles dans l’interface nouvelle génération de Marketo (avec de nouvelles fonctionnalités ajoutées à chaque version) :
 
-   ![](assets/toggle-switch-8.png)
-
-1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
-
-   ![](assets/toggle-switch-9.png)
-
-La nouvelle expérience se charge.
-
-![](assets/toggle-switch-10.png)
-
-## Page Détails du formulaire {#form-details-page}
-
-1. Dans Marketo, recherchez et sélectionnez votre formulaire.
-
-   ![](assets/toggle-switch-11.png)
-
-1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
-
-   ![](assets/toggle-switch-12.png)
-
-La nouvelle expérience se charge.
-
-![](assets/toggle-switch-13.png)
-
-## Mode Liste des formulaires {#form-list-view}
-
-1. Dans Marketo, sélectionnez **Design Studio**.
-
-   ![](assets/toggle-switch-14.png)
-
-1. Sélectionner **Forms**.
-
-   ![](assets/toggle-switch-15.png)
-
-1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
-
-   ![](assets/toggle-switch-16.png)
-
-La nouvelle expérience se charge.
-
-![](assets/toggle-switch-17.png)
-
-## Affichage des détails du modèle de courrier électronique {#email-template-details-view}
-
-1. Dans Marketo, sélectionnez **Design Studio**.
-
-   ![](assets/toggle-switch-18.png)
-
-1. Sélectionnez le modèle d&#39;email souhaité.
-
-   ![](assets/toggle-switch-19.png)
-
-1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
-
-   ![](assets/toggle-switch-20.png)
-
-La nouvelle expérience se charge.
-
-![](assets/toggle-switch-21.png)
-
-## Affichage des détails du courrier électronique {#email-details-view}
-
-1. Dans Marketo, recherchez et sélectionnez votre email.
-
-   ![](assets/toggle-switch-22.png)
-
-1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
-
-   ![](assets/toggle-switch-23.png)
-
-La nouvelle expérience se charge.
-
-![](assets/toggle-switch-24.png)
-
-## Mode Liste des emails {#email-list-view}
-
-La vue de liste d’emails de génération suivante offre des filtres de recherche et la possibilité d’effectuer des actions de messagerie en masse.
-
-1. Dans Marketo, sélectionnez **Design Studio**.
-
-   ![](assets/toggle-switch-25.png)
-
-1. Sélectionner **Emails**.
-
-   ![](assets/toggle-switch-26.png)
-
-1. Dans le coin inférieur droit de la page, cliquez sur le bouton **Nouvelle expérience** bascule.
-
-   ![](assets/toggle-switch-27.png)
-
-La nouvelle expérience se charge.
-
-![](assets/toggle-switch-28.png)
-
-## Activation pour toutes les fonctionnalités {#enable-for-all-features}
-
-Vous avez la possibilité d’activer manuellement l’interface nouvelle génération de Marketo pour toutes les fonctionnalités disponibles, actuelles et à venir.
-
-1. Dans une zone qui possède actuellement le commutateur de basculement (dans cet exemple, nous sommes dans [Page Détails du formulaire](#form-details-page)), cliquez sur l’icône d’engrenage dans le coin inférieur droit de la page.
-
-   ![](assets/toggle-switch-second-last.png)
-
-1. Sélectionner **Activer pour toutes les fonctionnalités disponibles** et cliquez sur **OK**.
-
-   ![](assets/toggle-switch-last.png)
+* Affichage des détails du courrier électronique
+* Mode Liste des emails
+* Affichage des détails du modèle de courrier électronique
+* Affichage du tableau de bord du test par e-mail
+* Vue Détails du formulaire
+* Mode Liste des formulaires
+* Page Détails des images et des fichiers
+* Vue Détails de la page d’entrée
+* Mode Liste des pages d’entrée
+* Affichage des détails du fragment de code
