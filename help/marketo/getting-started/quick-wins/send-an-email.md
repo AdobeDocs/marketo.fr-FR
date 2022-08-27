@@ -3,7 +3,7 @@ unique-page-id: 2359410
 description: Envoi d’un courrier électronique - Documents Marketo - Documentation du produit
 title: Envoyer un courrier électronique
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: b084acfdc58448e01fa6e19a03e6c3e1ea70a97b
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 1%
@@ -22,11 +22,11 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un email depu
 
 1. Accédez au **Activités marketing** zone.
 
-   ![](assets/one-1.png)
+   ![](assets/send-an-email-1.png)
 
 1. Sélectionnez votre **Formation** dossier. Cliquez sur le bouton **Nouveau** et sélectionnez **Nouveau programme**.
 
-   ![](assets/two-1.png)
+   ![](assets/send-an-email-2.png)
 
 1. Saisissez un **Nom** et sélectionnez **Email** pour **Type de programme.**
 
@@ -34,29 +34,29 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un email depu
    >
    >Ajoutez vos initiales à la fin du nom du programme pour le rendre unique.
 
-   ![](assets/three.png)
+   ![](assets/send-an-email-3.png)
 
 1. Sous **Canal**, sélectionnez **Envoyer par courrier électronique** et cliquez sur **Créer**.
 
-   ![](assets/image2015-3-2-16-3a25-3a18.png)
+   ![](assets/send-an-email-4.png)
 
 ## Définition de votre audience {#define-your-audience}
 
 1. Cliquez sur **Modifier la liste dynamique** sous la mosaïque Audience .
 
-   ![](assets/five.png)
+   ![](assets/send-an-email-5.png)
 
-1. Recherchez et faites glisser le filtre Adresse électronique dans la zone de travail.
+1. Recherchez et faites glisser le filtre Adresse électronique sur la zone de travail.
 
-   ![](assets/six.png)
+   ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >Utilisation **Rechercher** en haut de la liste Filtres pour trouver le filtre plus facilement.
+   >Utilisez la variable **Rechercher** pour rechercher plus facilement des filtres.
 
 1. Recherchez et sélectionnez votre adresse électronique.
 
-   ![](assets/seven-1.png)
+   ![](assets/send-an-email-7.png)
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un email depu
 
 1. Revenez à l’onglet du programme principal et cliquez sur l’icône d’actualisation pour **Personne**.
 
-   ![](assets/refresh-icon.png)
+   ![](assets/send-an-email-8.png)
 
    Vous devriez voir que le nombre de personnes atteint 1. C&#39;est toi !
 
@@ -76,15 +76,15 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un email depu
 
 1. Sous la mosaïque Email , cliquez sur **Nouveau courrier électronique**.
 
-   ![](assets/image2014-9-8-15-3a10-3a47.png)
+   ![](assets/send-an-email-9.png)
 
 1. Saisissez un **Nom**, sélectionnez une **Modèle**, puis cliquez sur **Créer**.
 
-   ![](assets/ten-1.png)
+   ![](assets/send-an-email-10.png)
 
 1. La fenêtre de l’éditeur de courrier électronique s’ouvre. Saisissez un objet de 50 caractères ou moins (recommandé).
 
-   ![](assets/eleven.png)
+   ![](assets/send-an-email-11.png)
 
    >[!NOTE]
    >
@@ -92,19 +92,15 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un email depu
 
 1. Sélectionnez la zone à modifier, cliquez sur l’icône d’engrenage à droite, puis sélectionnez **Modifier** (vous pouvez également double-cliquer sur la section modifiable à modifier).
 
-   ![](assets/twelve.png)
+   ![](assets/send-an-email-12.png)
 
 1. Saisissez le contenu souhaité, puis cliquez sur **Enregistrer**.
 
-   ![](assets/thirteen.png)
+   ![](assets/send-an-email-13.png)
 
-1. Les modifications seront automatiquement enregistrées. Fermez l’onglet/la fenêtre de l’éditeur.
+1. Cliquez sur le bouton **Actions de courrier électronique** et sélectionnez **Approuver et fermer**.
 
-   ![](assets/fourteen.png)
-
-1. Cliquez sur le bouton **Actions de courrier électronique** et sélectionnez **Approuver**.
-
-   ![](assets/fifteen.png)
+   ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
@@ -112,15 +108,19 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un email depu
 
 1. Sélectionnez le programme de messagerie dans l’arborescence de gauche.
 
-   ![](assets/sixteen.png)
+   ![](assets/send-an-email-15.png)
 
 1. Sous la mosaïque Planification , définissez le jour de lancement du courrier électronique sur **Aujourd&#39;hui.**
 
-   ![](assets/image2014-9-8-15-3a13-3a11.png)
+   ![](assets/send-an-email-16.png)
+
+   >[!NOTE]
+   >
+   >En savoir plus sur [Fuseau horaire du destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target=&quot;_blank&quot;} et [Début](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target=&quot;_blank&quot;}.
 
 1. Sélectionnez une heure qui sera d’au moins 15 minutes à l’avenir.
 
-   ![](assets/image2014-9-8-15-3a13-3a25.png)
+   ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
@@ -128,7 +128,7 @@ C&#39;est la première chose que tout le monde veut faire. Envoyez un email depu
 
 1. Cliquez sur **Programme d’approbation** sous la mosaïque Validation et vous avez terminé !
 
-   ![](assets/image2014-9-8-15-3a13-3a34.png)
+   ![](assets/send-an-email-18.png)
 
 Vous devriez recevoir le courrier électronique peu après le jour/l’heure planifiés.
 
