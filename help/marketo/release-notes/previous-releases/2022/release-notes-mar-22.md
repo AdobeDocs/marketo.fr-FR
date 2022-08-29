@@ -1,9 +1,10 @@
 ---
 description: Notes de mise à jour - Mars 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Mars 2022
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: 91826d56-a38e-44af-b798-17bfc016c311
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '771'
 ht-degree: 1%
 
 ---
@@ -76,4 +77,4 @@ Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées
 
 **_Webinaire sur la version du produit_**
 
-Rejoignez-nous le 11 mai 2022, à 9h00 PT / 12h00 ET pour une [webinaire en direct](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html) hébergée par notre équipe produit, où vous pourrez apprendre à utiliser toutes les dernières innovations de produits.
+[Webinaire de mise à jour des Marketo Engage de mars et mai 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
