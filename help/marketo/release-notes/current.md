@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **26 août 20
 
 * **[Activation/désactivation de toutes les boîtes de dialogue publiées à la fois pour la messagerie instantanée dynamique](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Activez/désactivez globalement toutes les boîtes de dialogue publiées en même temps sur la page Configuration en appuyant sur un bouton .
 
-* **Avatars personnalisés pour les conversations dynamiques**: Téléchargez un avatar de chatbot personnalisé qui peut être personnalisé pour votre marque.
+* **[Avatars personnalisés pour les conversations dynamiques](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**: Téléchargez un avatar de chatbot personnalisé qui peut être personnalisé pour votre marque.
 
 * **Transcriptions des conversations pour les conversations dynamiques**: Affichez les transcriptions de chaque conversation afin d’obtenir des informations plus précises sur ce qui intéresse chaque visiteur web.
 
@@ -33,7 +33,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **26 août 20
 
 * **Afficher la hiérarchie de dossiers du dossier de destination dans la boîte de dialogue Déplacer**: L’affichage de la hiérarchie de dossiers pour chaque dossier facilite le déplacement des ressources et réduit la probabilité de les placer dans le mauvais dossier.
 
-* **Mise à jour d’Screens dans l’expérience de nouvelle génération**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
+* **[Mise à jour d’Screens dans l’expérience de nouvelle génération](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
 
    * Détails du fragment de code
    * Détails &quot;Images et fichiers&quot;
@@ -44,7 +44,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **26 août 20
 
 ## Automatisation de l’expérience {#experience-automation}
 
-* **Étapes de flux en libre-service - Améliorations de l’importation des programmes**: Amélioration de la prise en charge de l’importation de programmes avec des étapes de flux personnalisées dans lesquelles vous pouvez désormais utiliser plusieurs instances du même fournisseur de services et des programmes d’importation dont les étapes de flux sont compatibles avec ces fournisseurs de services.
+* **[Étapes de flux en libre-service - Améliorations de l’importation des programmes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**: Amélioration de la prise en charge de l’importation de programmes avec des étapes de flux personnalisées dans lesquelles vous pouvez désormais utiliser plusieurs instances du même fournisseur de services et des programmes d’importation dont les étapes de flux sont compatibles avec ces fournisseurs de services.
 
 * **Munchkin - Suivi des liens étendu**: Étendre la prise en charge du suivi des `tel` et `mailto` liens avec Munchkin pour effectuer le suivi d’un ensemble étendu de comportements web.
 
@@ -68,7 +68,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **26 août 20
 
 ![(étoile)](assets/yellow-star.png)
 
-* **Intégration de Sales Insight à Dynamic Chat**: Affichez les activités à partir de la messagerie dynamique dans le panneau Sales Insight (Aperçu des ventes) et exploitez ce nouveau point de données dans vos efforts de prospection.
+* **[Intégration de Sales Insight à Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Affichez les activités à partir de la messagerie dynamique dans le panneau Sales Insight (Aperçu des ventes) et exploitez ce nouveau point de données dans vos efforts de prospection.
 
 ## Annonces {#announcements}
 

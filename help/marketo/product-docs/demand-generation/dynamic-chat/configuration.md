@@ -2,7 +2,7 @@
 description: Configuration - Documents Marketo - Documentation du produit
 title: Configuration
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 1%
@@ -23,7 +23,7 @@ Il existe plusieurs options de personnalisation différentes.
 
 ## Onglet Style {#style-tab}
 
-**Style**
+### Style {#style}
 
 C&#39;est là que vous définissez l&#39;aspect du chatbot dans lequel vos Dialogues seront affichés, notamment : couleurs, polices, emplacement du widget de robot et nom/avatar du chatbot.
 
@@ -35,7 +35,7 @@ L’ancre permet aux visiteurs de votre site d’ouvrir/de fermer le cadre de di
 
 ![](assets/configuration-4.png)
 
-**Paramètres de l’agent**
+### Paramètres de l’agent {#agent-settings}
 
 Dans Paramètres de l’agent, vous pouvez ajouter un libellé à votre zone de discussion (par exemple : &quot;Adobe Bot&quot;) qui s’affiche en haut de l’écran. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation. Pour charger votre propre image d’avatar, cliquez sur le bouton **+** bouton .
 
