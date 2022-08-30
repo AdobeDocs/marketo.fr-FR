@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **26 août 20
 
 ## Orchestration cross-canal {#cross-channel-orchestration}
 
-* **Activation/désactivation de toutes les boîtes de dialogue publiées à la fois pour la messagerie instantanée dynamique**: Activez/désactivez globalement toutes les boîtes de dialogue publiées en même temps sur la page Configuration en appuyant sur un bouton .
+* **[Activation/désactivation de toutes les boîtes de dialogue publiées à la fois pour la messagerie instantanée dynamique](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Activez/désactivez globalement toutes les boîtes de dialogue publiées en même temps sur la page Configuration en appuyant sur un bouton .
 
 * **Avatars personnalisés pour les conversations dynamiques**: Téléchargez un avatar de chatbot personnalisé qui peut être personnalisé pour votre marque.
 
