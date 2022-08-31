@@ -3,10 +3,10 @@ unique-page-id: 2359416
 description: Réponse automatique aux courriers électroniques - Documents Marketo - Documentation du produit
 title: Réponse e-mail automatique
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 1c350eb17992e45b9e0f825e1abd5c86555d0a0a
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 16%
+source-wordcount: '385'
+ht-degree: 12%
 
 ---
 
@@ -24,91 +24,87 @@ ht-degree: 16%
 
 1. Accédez à la zone Activités marketing .
 
-   ![](assets/one-2.png)
+   ![](assets/email-auto-response-1.png)
 
-1. Sélectionnez Mon programme dans le menu de gauche, cliquez sur la liste déroulante Nouveau , puis sélectionnez Nouvelle ressource locale.
+1. Sélectionnez votre programme dans le menu de gauche, cliquez sur le bouton **Nouveau** , puis sélectionnez **Nouvelle ressource locale**.
 
-   ![](assets/two-3.png)
+   ![](assets/email-auto-response-2.png)
 
-1. Cliquer sur e-mail.
+1. Sélectionner **Email**.
 
-   ![](assets/three-2.png)
+   ![](assets/email-auto-response-3.png)
 
-1. Nommez votre email &quot;Email de réponse automatique&quot;, choisissez un modèle, puis cliquez sur Créer.
+1. Nommez votre email &quot;Email de réponse automatique&quot;, choisissez un modèle, puis cliquez sur **Créer**.
 
-   ![](assets/four-1.png)
+   ![](assets/email-auto-response-4.png)
 
    Un éditeur de courrier électronique s’ouvre dans une nouvelle fenêtre ou un nouvel onglet. Si les fenêtres contextuelles sont bloquées, cliquez sur **Modifier le brouillon** sur la page de résumé de la ressource pour accéder au courrier électronique.
 
 1. Entrez un objet, puis double-cliquez sur la zone modifiable de l’email.
 
-   ![](assets/five-2.png)
+   ![](assets/email-auto-response-5.png)
 
    _Un éditeur de texte enrichi s’ouvre en haut de l’éditeur d’email._
 
 1. Mettre en surbrillance le contenu de l&#39;email existant.
 
-   ![](assets/six-2.png)
+   ![](assets/email-auto-response-6.png)
 
-1. Saisissez le contenu de votre email et cliquez sur Enregistrer.
+1. Saisissez votre contenu d’email et cliquez sur **Enregistrer**.
 
-   ![](assets/seven-2.png)
+   ![](assets/email-auto-response-7.png)
 
-1. Vos modifications sont automatiquement enregistrées. Fermez l&#39;onglet/la fenêtre de l&#39;éditeur d&#39;email.
+1. Cliquez sur le bouton **Actions de courrier électronique** et sélectionnez **Approuver et fermer**.
 
-   ![](assets/eight-1.png)
-
-1. Sélectionnez votre nouvel email. Sous Actions par courrier électronique, cliquez sur Approuver.
-
-   ![](assets/image2014-9-24-11-3a55-3a16.png)
+   ![](assets/email-auto-response-8.png)
 
 ## Étape 2 : Créer une campagne intelligente {#step-create-a-smart-campaign}
 
-1. Clic droit **Mon programme** et cliquez sur **Nouvelle campagne dynamique**.
+1. Sélectionnez votre programme, cliquez sur le bouton **Nouveau** et sélectionnez **Nouvelle campagne dynamique**.
 
-   ![](assets/image2014-9-24-11-3a56-3a13.png)
+   ![](assets/email-auto-response-9.png)
 
 1. **Nom** votre campagne dynamique &quot;Campagne de réponse automatique&quot;, puis cliquez sur **Créer**.
 
-   ![](assets/image2014-9-24-11-3a56-3a25.png)
+   ![](assets/email-auto-response-10.png)
 
 1. Cliquez sur l&#39;onglet **Liste intelligente**.
 
-   ![](assets/image2014-9-24-11-3a56-3a38.png)
+   ![](assets/email-auto-response-11.png)
 
    Nous configurons cette campagne pour qu’elle s’exécute chaque fois qu’une personne remplit le formulaire que vous avez créé dans [**Page d’entrée avec un formulaire**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}.
 
-1. Recherchez et faites glisser le **Remplir le formulaire** se déclenche dans la zone de travail de gauche.
+1. Recherchez et faites glisser le **Remplir le formulaire** se déclenche dans la zone de travail.
 
-   ![](assets/image2014-9-24-11-3a57-3a18.png)
+   ![](assets/email-auto-response-12.png)
 
-1. Sélectionner **Mon formulaire** dans la liste déroulante. Cliquez sur l&#39;onglet **Flux**.
+1. Sélectionner **Mon formulaire** dans la liste déroulante. Cliquez ensuite sur le bouton **Flux** .
 
-   ![](assets/image2014-9-24-11-3a57-3a29.png)
+   ![](assets/email-auto-response-13.png)
 
 1. Faites glisser le **Envoyer un courrier électronique** action de flux vers le canevas de gauche.
 
-   ![](assets/image2014-9-24-11-3a57-3a41.png)
+   ![](assets/email-auto-response-14.png)
 
-1. Sélectionnez votre **Email de réponse automatique** et accédez au **Planification** .
+1. Sélectionnez votre **Email de réponse automatique**. Cliquez ensuite sur le bouton **Planification** .
 
-   ![](assets/image2014-9-24-11-3a57-3a53.png)
+   ![](assets/email-auto-response-15.png)
 
 1. Cliquez sur **Modifier**.
 
-   ![](assets/8.png)
+   ![](assets/email-auto-response-16.png)
 
-1. Sélectionnez **à chaque fois** et cliquez sur **Enregistrer**.
+1. Sélectionner **Chaque heure** et cliquez sur **Enregistrer**.
 
-   ![](assets/9.png)
+   ![](assets/email-auto-response-17.png)
 
 1. Cliquez sur **Activer**.
 
-   ![](assets/10.png)
+   ![](assets/email-auto-response-18.png)
 
 1. Cliquez sur **Activer** sur l’écran de confirmation.
 
-   ![](assets/11.png)
+   ![](assets/email-auto-response-19.png)
 
 >[!NOTE]
 >
@@ -116,19 +112,15 @@ ht-degree: 16%
 
 ## Étape 3 : Remplir le formulaire {#step-fill-out-the-form}
 
-1. Sélectionner **Ma page**. Il a été créé dans la variable [Page d’entrée avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} gain rapide.
+1. Sélectionner **Ma page** (il a été créé dans le [Page d’entrée avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} (gagnant rapide) et cliquez sur **Aperçu**.
 
-   ![](assets/image2014-9-24-12-3a0-3a8.png)
+   ![](assets/email-auto-response-20.png)
 
-1. Cliquez sur **Afficher la page approuvée**.
-
-   ![](assets/image2014-9-24-12-3a0-3a18.png)
-
-   Votre page d’entrée &quot;Essai gratuit&quot; s’ouvre dans un nouvel onglet.
+   _Votre page d’entrée &quot;Essai gratuit&quot; s’ouvre dans un nouvel onglet._
 
 1. Remplissez le formulaire avec votre prénom, votre nom et votre adresse électronique, puis cliquez sur **Envoyer**.
 
-   ![](assets/image2014-9-24-12-3a0-3a28.png)
+   ![](assets/email-auto-response-21.png)
 
 >[!NOTE]
 >
