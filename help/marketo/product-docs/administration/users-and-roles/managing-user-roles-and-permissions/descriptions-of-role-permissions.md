@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Descriptions des autorisations de rôle - Documents Marketo - Documentation du produit
 title: Descriptions des autorisations de rôle
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 1f5a6ab994ccb81ff32f39ac32eef6a37aeab192
 workflow-type: tm+mt
-source-wordcount: '1146'
+source-wordcount: '1143'
 ht-degree: 19%
 
 ---
@@ -162,7 +162,6 @@ Visualisez la base de données et affichez et modifiez des listes dynamiques/sta
    * Supprimer segmentation
    * Modifier segmentation
 
-* Import liste avancé
 * Supprimer individu
 * Supprimer liste
 * Modifier la personne : empêche la modification et l’exécution manuelles d’étapes à flux unique ; vous pouvez toujours modifier des personnes en exécutant des campagnes contre elles.
