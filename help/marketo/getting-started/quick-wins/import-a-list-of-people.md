@@ -3,7 +3,7 @@ unique-page-id: 2359418
 description: Importation d’une liste de personnes - Documents Marketo - Documentation du produit
 title: Importation d’une liste de personnes
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 5%
@@ -24,7 +24,7 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
 1. Pour commencer, téléchargez notre fichier de feuille de calcul pratique ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) sur votre ordinateur.
 
-   ![](assets/image2014-9-24-12-3a5-3a0.png)
+   ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
 1. Ajoutez vos propres prénom, nom, véritable adresse email (afin que vous puissiez recevoir les messages de support que vous enverrez lors de la prochaine mission) et le titre de la tâche. Enregistrez le fichier sur votre ordinateur.
 
-   ![](assets/image2014-9-24-12-3a5-3a30.png)
+   ![](assets/import-a-list-of-people-2.png)
 
    >[!CAUTION]
    >
@@ -46,19 +46,19 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
 1. Accédez au **Activités marketing** zone.
 
-   ![](assets/ma-2.png)
+   ![](assets/import-a-list-of-people-3.png)
 
 1. Sélectionnez votre **Formation** , puis sous **Nouveau** click **Nouveau programme**.
 
-   ![](assets/image2014-9-24-12-3a21-3a13.png)
+   ![](assets/import-a-list-of-people-4.png)
 
 1. **Nom** le programme &quot;Mon programme de commerce&quot; et sélectionnez &quot;Événement&quot; pour le **Type de programme**.
 
-   ![](assets/image2014-9-24-12-3a21-3a25.png)
+   ![](assets/import-a-list-of-people-5.png)
 
 1. Sélectionner **Commerce** pour le **Canal** et cliquez sur **Créer**.
 
-   ![](assets/image2014-9-24-12-3a21-3a39.png)
+   ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
@@ -68,19 +68,19 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
 1. Dans **Mon programme de commerce**, cliquez sur **Nouveau** et sélectionnez **Nouvelle ressource locale**.
 
-   ![](assets/seven-3.png)
+   ![](assets/import-a-list-of-people-7.png)
 
-1. Cliquez sur **Liste**.
+1. Sélectionner **Liste**.
 
-   ![](assets/image2014-9-24-12-3a22-3a56.png)
+   ![](assets/import-a-list-of-people-8.png)
 
 1. **Nom** Dans la liste &quot;Trafic des participants&quot;, cliquez sur **Créer**.
 
-   ![](assets/image2014-9-24-12-3a23-3a9.png)
+   ![](assets/import-a-list-of-people-9.png)
 
 1. Dans votre **Traiter les participants** liste, cliquez sur **Actions de liste** et sélectionnez **Liste d’importation**.
 
-   ![](assets/ten-2.png)
+   ![](assets/import-a-list-of-people-10.png)
 
    >[!CAUTION]
    >
@@ -92,7 +92,7 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
 1. **Parcourir** au **tradeshow-attendees.csv** fichier de feuille de calcul sur votre ordinateur, puis cliquez sur **Suivant**.
 
-   ![](assets/eleven-2.png)
+   ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
@@ -105,7 +105,7 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
 1. Faites correspondre vos champs de colonne de liste avec leur champ Marketo respectif, puis cliquez sur **Suivant**.
 
-   ![](assets/image2014-9-24-12-3a24-3a49.png)
+   ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
@@ -117,15 +117,15 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
 1. Sélectionner **Mon programme de commerce** pour le **Programme d’acquisition**, puis cliquez sur **Importer**.
 
-   ![](assets/image2014-9-24-12-3a25-3a1.png)
+   ![](assets/import-a-list-of-people-13.png)
 
 1. Attendez que vos employés importent, puis fermez la fenêtre contextuelle de progression de l&#39;import.
 
-   ![](assets/image2014-9-24-12-3a25-3a13.png)
+   ![](assets/import-a-list-of-people-14.png)
 
 1. Retour à **Mon programme de commerce**, cliquez sur le bouton **Membres** . Vous verrez toutes les personnes que vous venez d&#39;importer.
 
-   ![](assets/fifteen-1.png)
+   ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
