@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Dérive, goutte, soin - Documents Marketo - Documentation du produit
 title: Marketing goutte à goutte et fidélisation
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '462'
 ht-degree: 5%
 
 ---
@@ -26,19 +26,19 @@ Vous pouvez facilement créer un système d’alimentation avancé et sophistiqu
 
 1. Accédez au **Activités marketing** zone.
 
-   ![](assets/one-3.png)
+   ![](assets/drip-drip-nurture-1.png)
 
 1. Sélectionnez la **Formation** , cliquez sur le dossier **Nouveau** et sélectionnez **Nouveau programme**.
 
-   ![](assets/two-4.png)
+   ![](assets/drip-drip-nurture-2.png)
 
 1. Saisissez un **Nom** et sélectionnez **Engagement** pour le **Type de programme**.
 
-   ![](assets/three-3.png)
+   ![](assets/drip-drip-nurture-3.png)
 
 1. Assurez-vous que la variable **Canal** est **Infirmière** et cliquez sur **Créer**.
 
-   ![](assets/four-2.png)
+   ![](assets/drip-drip-nurture-4.png)
 
    Vous avez maintenant créé un programme d’engagement.
 
@@ -46,15 +46,15 @@ Vous pouvez facilement créer un système d’alimentation avancé et sophistiqu
 
 1. Sélectionnez votre programme d’engagement, puis cliquez sur **Nouveau** et sélectionnez **Nouvelle ressource locale**.
 
-   ![](assets/five-3.png)
+   ![](assets/drip-drip-nurture-5.png)
 
 1. Cliquez sur **Email**.
 
-   ![](assets/six-3.png)
+   ![](assets/drip-drip-nurture-6.png)
 
 1. Saisissez un **Nom**, sélectionnez la variable **Modèle** à utiliser, puis cliquez sur **Créer**.
 
-   ![](assets/seven-4.png)
+   ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
@@ -62,53 +62,53 @@ Vous pouvez facilement créer un système d’alimentation avancé et sophistiqu
 
 1. Saisissez un objet.
 
-   ![](assets/eight-2.png)
+   ![](assets/drip-drip-nurture-8.png)
 
 1. Sélectionnez la zone de l&#39;email à modifier, cliquez sur l&#39;icône d&#39;engrenage et sélectionnez **Modifier**.
 
-   ![](assets/nine-1.png)
+   ![](assets/drip-drip-nurture-9.png)
 
 1. Modifiez votre email et cliquez sur **Enregistrer**.
 
-   ![](assets/ten-3.png)
+   ![](assets/drip-drip-nurture-10.png)
 
-1. Fermez l&#39;onglet/la fenêtre de l&#39;éditeur d&#39;email.
+1. Sous **Actions de courrier électronique**, cliquez sur **Approuver et fermer**.
 
-   ![](assets/eleven-3.png)
-
-1. Sous **Actions de courrier électronique**, cliquez sur **Approuver**.
-
-   ![](assets/twelve-2.png)
+   ![](assets/drip-drip-nurture-11.png)
 
    >[!NOTE]
    >
-   >N&#39;oubliez pas de valider vos emails ou vous ne pourrez pas les activer plus tard.
+   >N&#39;oubliez pas de valider vos emails, sinon vous ne pourrez pas les activer plus tard.
 
-1. Créez maintenant un autre email en répétant les actions de l’étape 2.
+1. Créez maintenant un autre email en répétant les actions des étapes 2 à 7.
 
-   ![](assets/thirteen-2.png)
+   ![](assets/drip-drip-nurture-12.png)
 
 ## Étape 3 : Ajout de contenu à votre diffusion {#step-add-content-to-your-stream}
 
-1. Il est maintenant temps de créer un flux de contenu pour votre programme d’engagement à l’aide des emails que vous avez créés.
+Il est maintenant temps de créer un flux de contenu pour votre programme d’engagement à l’aide des emails que vous avez créés.
 
-1. Sélectionnez votre programme d’engagement, puis cliquez sur le bouton **Flux** .
+1. Sélectionnez votre programme d’engagement et cliquez sur le bouton **Flux** .
 
-   ![](assets/fourteen-2.png)
+   ![](assets/drip-drip-nurture-13.png)
 
-1. Faites glisser les deux emails que vous avez créés vers le canevas de droite.
+1. Cliquez sur le bouton **Ajouter du contenu** dans le flux.
 
-   ![](assets/fifteen-2.png)
+   ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >Vous pouvez également utiliser la variable **Ajouter du contenu** ou le flux **+** icône .
+   >Vous pouvez également utiliser la variable **+** icône .
+
+1. Laissez le type &quot;Email&quot; sélectionné. Recherchez et sélectionnez les deux emails que vous avez créés.
+
+   ![](assets/drip-drip-nurture-15.png)
 
 ## Étape 4 : Activation du contenu de diffusion {#step-activate-stream-content}
 
 1. Activez tout le contenu à la fois en cliquant sur l’icône d’engrenage de la diffusion, puis cliquez sur **Activer tout le contenu**.
 
-   ![](assets/image2014-9-24-12-3a48-3a28.png)
+   ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
@@ -120,11 +120,11 @@ Vous pouvez facilement créer un système d’alimentation avancé et sophistiqu
 
 1. Cliquez sur **Définition de la cadence de diffusion**.
 
-   ![](assets/seventeen.png)
+   ![](assets/drip-drip-nurture-17.png)
 
 1. Modifiez les paramètres pour qu’ils correspondent à la planification souhaitée, puis cliquez sur **Enregistrer**.
 
-   ![](assets/image2014-9-24-12-3a49-3a5.png)
+   ![](assets/drip-drip-nurture-18.png)
 
    Votre programme d&#39;engagement est prêt. Ajoutons maintenant une personne test à votre programme.
 
@@ -136,23 +136,23 @@ Vous pouvez facilement créer un système d’alimentation avancé et sophistiqu
 
 1. Accédez au **Base** zone.
 
-   ![](assets/nineteen-1.png)
+   ![](assets/drip-drip-nurture-19.png)
 
 1. Recherchez votre personne chargée du test.
 
-   ![](assets/twenty-1.png)
+   ![](assets/drip-drip-nurture-20.png)
 
    >[!NOTE]
    >
    >Assurez-vous que la personne effectuant le test possède une adresse électronique valide afin que vous puissiez confirmer la réception des emails lors du test.
 
-1. Cliquez avec le bouton droit de la souris sur la personne, puis cliquez sur Programmes et Ajouter au programme d’engagement.
+1. Cliquez avec le bouton droit sur la personne, puis cliquez sur **Programmes** et **Ajout au programme Engagement**.
 
-   ![](assets/twenty-one.png)
+   ![](assets/drip-drip-nurture-21.png)
 
 1. Sélectionnez votre **Programme** et **Diffusion**, puis cliquez sur **Exécuter maintenant**.
 
-   ![](assets/twenty-two.png)
+   ![](assets/drip-drip-nurture-22.png)
 
 1. Mission accomplie!
 
