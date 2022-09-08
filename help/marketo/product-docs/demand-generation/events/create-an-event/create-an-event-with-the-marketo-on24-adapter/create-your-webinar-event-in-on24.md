@@ -1,34 +1,37 @@
 ---
 unique-page-id: 10096712
-description: Création de votre Événement Webinaire dans ON24 - Documents marketing - Documentation du produit
-title: Création de votre Événement de webinaire dans ON24
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Création de votre événement de webinaire dans ON24 - Documents Marketo - Documentation du produit
+title: Création de votre événement de webinaire dans ON24
+exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 0%
+source-wordcount: '190'
+ht-degree: 1%
 
 ---
 
+# Création de votre événement de webinaire dans ON24 {#create-your-webinar-event-in-on}
 
-# Créez votre Événement Webinaire dans ON24 {#create-your-webinar-event-in-on}
+>[!IMPORTANT]
+>
+>Depuis août 2022, ON24 ne prend plus en charge les nouvelles intégrations Marketo. Les informations de cet article s’appliquent uniquement aux utilisateurs existants.
 
-Après avoir créé votre webinaire dans ON24, vous pouvez créer un événement Marketo et l’associer au webinaire ON24. Cela permet aux systèmes de partager les informations d&#39;inscription et de présence. Notez l’URL et d’autres informations à utiliser dans votre courrier électronique de confirmation et votre fichier ICS.
+Après avoir créé votre webinaire dans ON24, vous pouvez créer un événement Marketo et l’associer au webinaire ON24. Cela permet aux systèmes de partager les informations d’inscription et de présence. Notez l’URL et d’autres informations à utiliser dans votre email de confirmation et votre fichier ICS.
 
-Certains paramètres de création de votre webinaire ON24 sont utilisés par Marketo et d&#39;autres sont uniquement utilisés par ON24. Marketo utilise les paramètres suivants :
+Certains paramètres de création de votre webinaire ON24 sont utilisés par Marketo et d’autres uniquement par ON24. Marketo utilise les paramètres suivants :
 
 **Titre et description**
 
-* Titre du événement - Nom du webinaire. Ceci sera visible dans Marketing Cloud.
-* Événement abstrait (facultatif) - Description du webinaire. Ceci sera visible dans Marketing Cloud.
+* Titre de l’événement : nom du webinaire. Vous pourrez le voir dans Marketo.
+* Event Abstract (facultatif) - Description du webinaire. Vous pourrez le voir dans Marketo.
 
-**Date et heure**
+**Date et Heure**
 
-* Début du Événement en direct - Date et heure du début. Ceci sera visible dans Marketing Cloud.
-* Heure de fin de la vie - Date et heure de fin. Ceci sera visible dans Marketing Cloud.
+* Début de l’événement en direct : date et heure de début. Vous pourrez le voir dans Marketo.
+* Heure de fin de la vie : date et heure de fin. Vous pourrez le voir dans Marketo.
 
-L’étape suivante consiste à [créer un événement dans Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md).
+L’étape suivante consiste à [création d’un événement dans Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md).
 
 >[!MORELIKETHIS]
 >
->[Présentation des Événements d&#39;adaptateurs Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

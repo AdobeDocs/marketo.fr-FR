@@ -1,30 +1,29 @@
 ---
 unique-page-id: 10096658
-description: Présentation des Événements d'adaptateurs Marketo On24 - Docs Marketo - Documentation du produit
-title: Présentation des Événements d'adaptateur Marketo On24
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Présentation des événements d’adaptateur Marketo On24 - Documents Marketo - Documentation du produit
+title: Présentation des événements de l’adaptateur Marketo On24
+exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
+# Présentation des événements de l’adaptateur Marketo On24 {#understanding-marketo-on-adapter-events}
 
-# Présentation des Événements d&#39;adaptateurs Marketo On24 {#understanding-marketo-on-adapter-events}
+>[!IMPORTANT]
+>
+>Depuis août 2022, ON24 ne prend plus en charge les nouvelles intégrations Marketo. Les informations de cet article s’appliquent uniquement aux utilisateurs existants.
 
-Si votre webinaire ON24 n’est pas connecté à Marketo, vous devez prendre en compte les informations des participants qui se trouvent déjà dans Marketo et les entrer dans ON24. Après le webinaire, vous devez prendre les informations de présence qui se trouvent déjà dans ON24 et les saisir à nouveau dans Marketo.
+Si votre webinaire ON24 n’est pas connecté à Marketo, vous devez prendre en compte les informations déjà présentes dans Marketo et les entrer dans ON24. Après le webinaire, vous devez prendre les informations de présence qui se trouvent déjà dans ON24 et les saisir à nouveau dans Marketo.
 
-L&#39;adaptateur ON24 effectue le transfert d&#39;informations pour vous. Il transmet à ON24 les informations d’inscription capturées sur un landing page Marketo et insère automatiquement les informations de présence dans un Événement Marketo.
+L’adaptateur ON24 effectue le transfert d’informations à votre place. Il transmet les informations d’enregistrement capturées sur une page d’entrée Marketo à ON24 et extrait automatiquement les informations de présence dans un événement Marketo.
 
-Ces articles vous guideront tout au long du processus de création d’un webinaire dans ON24, de création d’un événement dans Marketo et de son association.
+Ces articles vous guideront tout au long du processus de création d’un webinaire dans ON24, de création d’un événement dans Marketo et de leur association.
 
 Le graphique ci-dessous illustre le processus d’intégration.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Prêt à commencer ? Début avec [Créer un Événement avec l&#39;adaptateur ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
-
->[!MORELIKETHIS]
->
->[Créer un Événement avec l&#39;adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
+Prêt à commencer ? Commencer par [Création d’un événement avec l’adaptateur ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).

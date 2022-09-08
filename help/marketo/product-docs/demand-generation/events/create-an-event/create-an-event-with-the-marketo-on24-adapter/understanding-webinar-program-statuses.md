@@ -1,58 +1,61 @@
 ---
 unique-page-id: 10096681
-description: Comprendre l'état des Programmes du webinaire - Documentation du marketing - Documentation du produit
-title: Comprendre l'état des Programmes du webinaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Présentation des états du programme Webinaire - Documents Marketo - Documentation du produit
+title: Présentation des états du programme du webinaire
+exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
+# Présentation des états du programme du webinaire {#understanding-webinar-program-statuses}
 
-# Comprendre l&#39;état des Programmes du webinaire {#understanding-webinar-program-statuses}
+>[!IMPORTANT]
+>
+>Depuis août 2022, ON24 ne prend plus en charge les nouvelles intégrations Marketo. Les informations de cet article s’appliquent uniquement aux utilisateurs existants.
 
-Les états de programme représentent les différents états de événement par lesquels une personne passe en tant que membre du événement. Ils sont associés à un type de canal. Marketo possède un type de canal intégré appelé **Webinaire**. Les états peuvent être utilisés dans les campagnes par lots et les campagnes déclencheuses.
+Les statuts de programme représentent les différents statuts d’un événement par le biais duquel une personne passe en tant que membre de l’événement. Ils sont associés à un type de canal. Marketo dispose d’un type de canal intégré appelé **Webinaire**. Les états peuvent être utilisés dans les campagnes par lots et les campagnes de déclenchement.
 
-Les gens se déplacent à travers les états de programme de façon linéaire et ne retournent pas dans le statut. Par exemple, une personne ayant le statut **Participé** ne peut pas revenir à **Enregistré**.
+Les gens passent par les statuts de programme de façon linéaire et ne retournent pas dans leur statut. Par exemple, une personne dont le statut est **Attaché** ne peut pas revenir à **Inscrits**.
 
-Voici une brève description des états des programmes associés au canal Webinaire.
+Voici une brève description des états du programme associé au canal Webinaire.
 
 >[!TIP]
 >
->Pour mettre à jour manuellement les états, cliquez sur **Actualiser à partir du fournisseur de webinaires** dans la liste déroulante **Actions du Événement**.
+>Pour mettre à jour manuellement les états, cliquez sur  **Actualisation à partir du fournisseur de webinaire** dans le **Actions d’événement** menu déroulant.
 
 ![](assets/image2015-12-17-13-3a52-3a39.png)
 
-**Non dans le Programme**  - Utilisez cet état pour supprimer des personnes du événement.
+**Pas dans le programme** - Utilisez cet état pour supprimer des personnes de l’événement.
 
-**Invité**  - Utilisez cet état pour ajouter des personnes au événement.
+**Invité** - Utilisez cet état pour ajouter des personnes à l’événement.
 
-**En attente d&#39;approbation**  - Utilisez cet état pour bloquer l&#39;envoi d&#39;un courrier électronique de confirmation à votre personnel. Pour plus d&#39;informations, consultez la section &quot;Approbation manuelle des inscrits&quot; dans [Mises à jour de l&#39;inscription au Événement ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md).
+**En attente d’approbation** - Utilisez ce statut pour suspendre l’envoi d’un email de confirmation à vos contacts. Voir &quot;Validation manuelle des inscrits&quot; dans [Mises à jour de l’enregistrement d’événement ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) pour plus d’informations.
 
-**Liste d&#39;attente**  - Utilisez ce statut pour que certaines personnes attendent jusqu&#39;à ce que d&#39;autres places soient disponibles.
+**Liste d’attente** - Utilisez ce statut pour que certaines personnes attendent jusqu&#39;à ce que des places supplémentaires soient disponibles.
 
-**Refusé**  - Utilisez ce statut pour rejeter l&#39;enregistrement d&#39;une personne sur votre Événement.
+**Rejetés** - Utilisez cet état pour rejeter l’enregistrement d’une personne sur votre événement.
 
-**Enregistré**  : ce statut envoie les utilisateurs vers ON24 lorsque vous utilisez l&#39;intégration ON24. Le statut de la personne est mis à jour lorsque ON24 répond que la personne a été enregistrée avec succès.
+**Inscrits** - Cet état envoie les personnes vers ON24 lorsque vous utilisez l’intégration ON24. Le statut de la personne est mis à jour lorsque ON24 indique que la personne a bien été enregistrée.
 
-**Erreur**  d&#39;inscription : cet état indique que l&#39;utilisateur a rencontré une erreur lors de sa tentative d&#39;inscription au Événement.
-
->[!NOTE]
->
->Si une erreur d&#39;inscription se produit, vous pouvez obtenir des informations supplémentaires pour cette personne en consultant la colonne Motif de l&#39;état dans l&#39;onglet Membres de votre programme. Une fois l’erreur corrigée, vous pouvez modifier manuellement l’état de programme de l’utilisateur en Inscrit dans Marketing.
-
-**Participé**  - À la fin du webinaire, ON24 renvoie une liste de personnes qui ont assisté à la conférence. Cet état est automatiquement extrait dans Marketo.
-
-**Participation à la demande**  - Les personnes qui ont assisté à la version archivée du webinaire reçoivent ce statut.
-
-**No Show**  - A la fin du webinaire et après que les données de présence ont été extraites de ON24, le statut des personnes qui se sont inscrites mais n&#39;y ont pas assisté est mis à jour à No Show. Il peut prendre entre 30 minutes et 3 heures pour ON24 pour préparer les informations finales de présence et les rendre disponibles sur Marketo.
+**Erreur d’enregistrement** - Cet état indique que l’utilisateur a rencontré une erreur lors de la tentative d’enregistrement de l’événement.
 
 >[!NOTE]
 >
->Pour que Marketo puisse retirer le statut Non Afficher, les personnes doivent avoir été enregistrées *dans Marketo*. Nous ne sommes pas en mesure de capturer Aucun affichage provenant du flux de données On24.
+>Si une erreur d’enregistrement se produit, vous pouvez obtenir des informations supplémentaires pour cette personne en consultant la colonne Raison de l’état dans l’onglet Membres de votre programme. Une fois l’erreur corrigée, vous pouvez modifier manuellement l’état du programme de l’utilisateur en Registered dans Marketo.
+
+**Attaché** - A la fin du webinaire, ON24 renvoie une liste des participants. Cet état est automatiquement transmis dans Marketo.
+
+**Participé à la demande** - Les personnes ayant assisté à la version archivée du webinaire reçoivent ce statut.
+
+**Aucun affichage** - À la fin du webinaire et après l’extraction des données de fréquentation de ON24, le statut des personnes qui se sont inscrites mais n’y ont pas assisté est mis à jour vers No Show. Il peut s’écouler entre 30 minutes et 3 heures avant que l’on24 ne prépare les informations finales sur l’assiduité et les rende disponibles dans Marketo.
+
+>[!NOTE]
+>
+>Pour que Marketo puisse extraire l’état Non affiché , les personnes doivent avoir été enregistrées. *dans Marketo*. Nous ne sommes pas en mesure de capturer Aucun affichage provenant du flux de données On24.
 
 >[!MORELIKETHIS]
 >
->[Présentation des Événements d&#39;adaptateurs Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

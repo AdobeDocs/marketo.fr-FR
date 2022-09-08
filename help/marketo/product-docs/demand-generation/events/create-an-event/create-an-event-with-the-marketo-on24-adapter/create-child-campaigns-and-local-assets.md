@@ -3,14 +3,18 @@ unique-page-id: 10096675
 description: Créer des campagnes enfants et des ressources locales - Documents Marketo - Documentation du produit
 title: Créer des campagnes enfants et des ressources locales
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
 # Créer des campagnes enfants et des ressources locales {#create-child-campaigns-and-local-assets}
+
+>[!IMPORTANT]
+>
+>Depuis août 2022, ON24 ne prend plus en charge les nouvelles intégrations Marketo. Les informations de cet article s’appliquent uniquement aux utilisateurs existants.
 
 Créez vos campagnes enfants et vos ressources locales à l’aide de Design Studio.
 

@@ -1,39 +1,42 @@
 ---
 unique-page-id: 10096679
-description: Exemple ON24 Événement Integration - Marketo Docs - Documentation du produit
-title: Exemple d’intégration de Événement ON24
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Exemple d’intégration d’événement ON24 - Documents Marketo - Documentation du produit
+title: Exemple d’intégration d’événement ON24
+exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 0%
+source-wordcount: '405'
+ht-degree: 1%
 
 ---
 
+# Exemple d’intégration d’événement ON24 {#example-on-event-integration}
 
-# Exemple d&#39;intégration de Événement ON24 {#example-on-event-integration}
+>[!IMPORTANT]
+>
+>Depuis août 2022, ON24 ne prend plus en charge les nouvelles intégrations Marketo. Les informations de cet article s’appliquent uniquement aux utilisateurs existants.
 
-Voici un exemple de événement, y compris des campagnes, pour un webinaire ON24. Lorsque vous créez votre événement, veillez à tester vos campagnes avant de les exécuter.
+Voici un exemple d’événement, y compris des campagnes, pour un webinaire ON24. Lorsque vous créez votre événement, veillez à tester vos campagnes avant de les exécuter.
 
-## Créer un nouveau Événement dans les Activités marketing {#create-a-new-event-in-marketing-activities}
+## Création d’un événement dans les activités marketing {#create-a-new-event-in-marketing-activities}
 
-1. Sélectionnez **Nouveau** > **Nouveau Programme**.
+1. Sélectionner **Nouveau** > **Nouveau programme**.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Sélectionnez un **dossier Campaign** dans lequel le événement sera installé.
+1. Sélectionnez une **Dossier Campaign** où l’événement se produira.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Entrez un **nom** pour le événement.
+1. Saisissez un **Nom** pour l’événement .
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Sélectionnez **Événement** comme **type de Programme**.
+1. Sélectionner **Événement** comme la propriété **Type de programme**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Sélectionnez **Webinaire** comme **Canal** pour le événement.
+1. Sélectionner **Webinaire** comme la propriété **Canal** pour l’événement .
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
@@ -41,56 +44,56 @@ Voici un exemple de événement, y compris des campagnes, pour un webinaire ON24
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
-## Invitation (Campaign par lot) {#invite-batch-campaign}
+## Invitation (campagne par lots)  {#invite-batch-campaign}
 
-* **Liste**  intelligente - Définissez qui vous inviterez au événement.
+* **Liste dynamique** - Définissez qui vous inviterez à l’événement.
 * **Flux**
 
-   * Envoyer un courrier électronique - S&#39;il s&#39;agit d&#39;un courrier électronique de ressources local, il aura la convention d&#39;affectation de nom suivante : EventName.EmailName. Vous pouvez également utiliser des courriers électroniques globaux.
-   * Modifier l’état dans Progression - Définissez sur Webinaire > Invité.
+   * Envoyer un courrier électronique : s’il s’agit d’un courrier électronique de ressource local, il aura la convention d’affectation des noms suivante : EventName.EmailName. Vous pouvez également utiliser des emails globaux.
+   * Changez l’état dans Progression - Défini sur Webinaire > Invité.
 
-* **Planification**  : définissez la date d&#39;envoi de l&#39;invitation.
+* **Planification** - Définissez la date d’envoi de l’invitation.
 
-## Inscription/Confirmation (Trigger Campaign) {#registration-confirmation-trigger-campaign}
+## Enregistrement/Confirmation (campagne de déclenchement) {#registration-confirmation-trigger-campaign}
 
 * **Liste intelligente**
 
-   * Déclenchez la campagne en fonction de **Remplit le formulaire**. Veillez à inclure le landing page sur lequel réside le formulaire en utilisant **Ajoute Constraint**, en particulier si le formulaire est utilisé sur plusieurs landings page.
+   * Déclenchez la campagne en fonction de **Remplir le formulaire**. Veillez à inclure la page d’entrée sur laquelle se trouve le formulaire en utilisant **Ajouter une contrainte**, en particulier si le formulaire est utilisé sur plusieurs landing pages.
 
 >[!CAUTION]
 >
->Vous devez utiliser un formulaire Marketo pour enregistrer des personnes pour le événement, ou un formulaire non Marketo avec l’intégration d’API appropriée pour envoyer les données d’enregistrement à Marketo. Ceci est essentiel à la réussite de l&#39;intégration de votre partenaire de Événement. **REMARQUE** : Si vous utilisez un formulaire Marketo sur un landing page non Marketo, votre déclencheur sera  **Remplit** le formulaire avec le nom du formulaire.
+>Vous devez utiliser un formulaire Marketo pour enregistrer des personnes pour l’événement, ou un formulaire non Marketo avec l’intégration d’API appropriée pour transmettre les données d’enregistrement à Marketo. C’est essentiel au succès de l’intégration de votre partenaire d’événement. **REMARQUE**: Si vous utilisez un formulaire Marketo sur une page d’entrée autre que Marketo, votre déclencheur sera **Remplir le formulaire** par le nom du formulaire.
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
 * **Flux**
 
-   * **Changez d’état dans Progression**  - Définissez sur Webinaire > Inscrit. **ATTENTION** : Cette étape de flux est requise lors de la configuration de votre campagne enfant. Lorsque l’état de progression d’une personne passe à **Enregistrée**, Marketo envoie les informations d’inscription à ON24.
+   * **Changement d’état dans la progression** - Définissez sur Webinaire > Enregistré. **ATTENTION**: Cette étape de flux est requise lors de la configuration de votre campagne enfant. Lorsque l’état de progression d’une personne passe à **Inscrits**, Marketo transmet les informations d’enregistrement à ON24.
 
-   * **Envoyer un e-mail** - Confirmation par e-mail (défini sur  **** Operationégalement que les personnes désabonnées qui se sont inscrites continuent de le recevoir).
+   * **Envoyer un courrier électronique** - Adresse électronique de confirmation (définie sur **Opérationnel** afin que les personnes désabonnées qui se sont inscrites continuent de le recevoir).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
-**REMARQUE** : Si la personne est renvoyée avec une erreur d’enregistrement, elle ne recevra pas la confirmation par courrier électronique.
+**REMARQUE**: Si la personne est renvoyée avec une erreur d’enregistrement, elle ne recevra pas la confirmation par email.
 
-## Rappel (Batch Campaign) {#reminder-batch-campaign}
+## Rappel (campagne par lots) {#reminder-batch-campaign}
 
-* **Liste**  intelligente - Filtrez en utilisant  **Membre du** programme et définissez le statut sur  **Enregistrement**.
+* **Liste dynamique** - Filtrage à l’aide de **Membre du programme** et définissez l’état sur **Inscrits**.
 
-* **Flux**  - Envoyer un courriel (rappel).
+* **Flux** - Envoyer un courrier électronique (rappel).
 
-**REMARQUE** : Vous pouvez utiliser une campagne similaire pour envoyer un  ** autre courriel de suivi aux personnes qui ont été invitées mais qui ne se sont pas encore inscrites.
+**REMARQUE**: Vous pouvez utiliser une campagne similaire pour envoyer une *différent* e-mail de relance destiné aux personnes qui ont été invitées mais qui ne se sont pas encore enregistrées.
 
-## Campaign de suivi (Lot ou Trigger Campaign) {#follow-up-campaign-batch-or-trigger-campaign}
+## Campagne de relance (campagne par lot ou de déclenchement) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **Liste**  intelligente - Déclenche en fonction des modifications de l’état du programme.
+* **Liste dynamique** - Déclencheur en fonction des modifications de l’état du programme.
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
-* **Flux**  - Envoyer un courriel. Utilisez les choix pour envoyer différents courriers électroniques en fonction de l’état du programme.
+* **Flux** - Envoyer un courrier électronique. Utilisez les choix pour envoyer différents emails en fonction de l’état du programme.
 
 ![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
->[Présentation des Événements d&#39;adaptateurs Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
