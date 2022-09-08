@@ -1,56 +1,59 @@
 ---
 unique-page-id: 2949711
-description: Installez l'Ajoute de courriel de Marketo pour Outlook avec un code d'inscription - Docs marketing - Documentation du produit
-title: Installer l'Ajoute de courriel de Marketo pour Outlook avec un code d'inscription
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+description: Installation du module complémentaire de messagerie Marketo pour Outlook avec un code d’enregistrement - Documents Marketo - Documentation du produit
+title: Installation du module complémentaire de messagerie Marketo pour Outlook avec un code d’enregistrement
+exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
+source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 0%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
-
-# Installer l&#39;Ajoute de courriel Marketo pour Outlook avec un code d&#39;inscription {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Installation du module complémentaire de messagerie Marketo pour Outlook avec un code d’enregistrement {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Si les utilisateurs peuvent accéder aux paramètres d’administration sur leurs ordinateurs portables, vous pouvez leur envoyer directement un code d’enregistrement.
 
-Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à votre administrateur Marketing Cloud de vous inviter.
+Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à votre administrateur Marketo de vous inviter.
 
 >[!PREREQUISITES]
 >
->Vous devez être [titulaire d’une licence d’Ajoute électronique de marketing ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>Vous devez être [Envoi d’une licence de module complémentaire de messagerie Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+
+>[!IMPORTANT]
+>
+>L’installation n’est pas prise en charge sur les PC où le dossier des utilisateurs Windows contient des caractères non anglais. Ce dossier est généré automatiquement par Windows sous <System Root>\Users\ en fonction du nom d’utilisateur Windows et peut contenir des caractères non anglais si le nom d’utilisateur Windows est un nom non anglais. Contactez votre équipe informatique pour vérifier si vous rencontrez des problèmes d’installation.
 
 >[!NOTE]
 >
->A compter du 01/10/20, la dernière version du module Outlook ne prend plus en charge le mode hors ligne. Cette opération prendra effet après l’installation/la mise à niveau le ou après 10/1.
+>Le 10/1/20, la dernière version du module externe Outlook a cessé de prendre en charge le mode hors ligne.
 
-## Télécharger le programme d&#39;installation {#download-installer}
+## Télécharger le programme {#download-installer}
 
-1. Identifiez votre [version de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c).
+1. Identifiez votre [Version de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 
-1. Cliquez sur le lien pour télécharger le programme d&#39;installation approprié à votre version de Microsoft Outlook.
+1. Cliquez sur le lien pour télécharger le programme d’installation approprié à votre version de Microsoft Outlook.
 
    >[!NOTE]
    >
-   >Actuellement, les liens ci-dessous ne fonctionnent que dans Microsoft Edge ou en cliquant avec le bouton droit de la souris dans Chrome. Désolé pour tout inconvénient.
+   >Actuellement, les liens ci-dessous ne fonctionnent que dans Microsoft Edge ou en cliquant avec le bouton droit de la souris dans Chrome. Désolé pour tout désagrément.
 
-   | Version d&#39;Outlook | Outlook 32 bits | Outlook 64 bits |
+   | Version d’Outlook | Outlook 32 bits | Outlook 64 bits |
    |---|---|---|
-   | Outlook 2000 | Non pris en charge | S/O |
-   | Outlook 2003 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | S/O |
-   | Outlook 2007 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | S/O |
-   | Outlook 2010 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2000 | Non pris en charge | S/O |
+   | Outlook 2003 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | S/O |
+   | Outlook 2007 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | S/O |
+   | Outlook 2010 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2013 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2016 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2019 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook pour Mac | Non pris en charge | Non pris en charge |
    | Outlook Web App | Non pris en charge | Non pris en charge |
    | Office 365* | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
 
-   *Version Office 365 : Client Windows uniquement (sous Windows 10, Enterprise ou Pro).
+   *Version d’Office 365 : Client Windows uniquement (sous Windows 10, Enterprise ou Pro).
 
-## Copier votre code d&#39;inscription {#copy-your-registration-code}
+## Copie de votre code d’enregistrement {#copy-your-registration-code}
 
 1. Copiez le code d’enregistrement du courrier électronique d’invitation que vous avez reçu.
 
@@ -74,7 +77,7 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Renseignez **Prénom**, **Nom**, **Adresse électronique**, puis copiez et collez le **code d&#39;enregistrement** du courrier électronique dans le formulaire et cliquez sur **Suivant**.
+1. Remplir **Prénom**, **Nom**, **Adresse électronique**, puis copiez et collez le **Code d’enregistrement** dans le formulaire, puis cliquez sur **Suivant**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -82,7 +85,7 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
    >
    >Si l’installation échoue, vérifiez auprès de votre service informatique que le trafic HTTPS n’est pas bloqué. Le programme d’installation nécessite l’ouverture du trafic HTTPS.
 
-1. Cliquez sur **Suivant** pour installer à l’emplacement par défaut.
+1. Cliquez sur **Suivant** pour effectuer l’installation à l’emplacement par défaut.
 
    ![](assets/select-installation-folder-hand.png)
 
@@ -94,7 +97,7 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
    >
    >Si vous recevez une invite de sécurité concernant un éditeur inconnu, cliquez sur **Oui**.
 
-1. L&#39;installation est maintenant terminée, cliquez sur **Fermer**.
+1. L’installation est maintenant terminée, cliquez sur **Fermer**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
@@ -102,12 +105,12 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
-   Excellent ! Les boutons du marché sont désormais mieux placés.
+   Excellent ! Les boutons de Marketo sont désormais mieux placés.
 
-En savoir plus sur l’utilisation des actions Message marketing et Log With Marketo.
+En savoir plus sur l’utilisation des actions Marketo Message et Log With Marketo .
 
 >[!MORELIKETHIS]
 >
->* [Envoi et suivi d&#39;un courriel avec l&#39;Ajoute de courriel Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Envoi et suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle de marketing](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Envoi et suivi depuis Outlook à l’aide d’un modèle Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
