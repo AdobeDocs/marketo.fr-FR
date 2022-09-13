@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
 workflow-type: tm+mt
-source-wordcount: '8795'
+source-wordcount: '8801'
 ht-degree: 5%
 
 ---
@@ -172,7 +172,7 @@ ht-degree: 5%
          + [Exportation des métadonnées d’objet personnalisé](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Marketo avec Adobe Identity {#marketo-with-adobe-identity}
          + [Guide rapide](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [APERÇU](product-docs/administration/marketo-with-adobe-identity/overview.md)
+         + [Présentation d’Adobe Identity Management](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Configuration de l’administrateur](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Configuration de l’administrateur de produit](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [Ajout d’un utilisateur API uniquement pour les abonnements activés pour Adobe IMS](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -1870,6 +1870,7 @@ ht-degree: 5%
          + [Notes de mise à jour : 22 mars](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [Notes de mise à jour : 22 mai](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [Notes de mise à jour : 22 juin](release-notes/previous-releases/2022/release-notes-june-22.md)
+         + [Notes de mise à jour : 22 août](release-notes/previous-releases/2022/release-notes-aug-22.md)
       + 2021 {#2021}
          + [Notes de mise à jour : 21 janvier](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Notes de mise à jour : 21 mai](release-notes/previous-releases/2021/release-notes-may-21.md)
