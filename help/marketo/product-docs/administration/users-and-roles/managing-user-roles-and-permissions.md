@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: Gestion des rôles et autorisations des utilisateurs - Documents Marketo - Documentation du produit
 title: Gestion des rôles et des autorisations des utilisateurs
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Vous ne pouvez pas modifier les rôles d’administrateur et d’utilisateur sta
 
 ## Marketo avec Adobe Identity {#marketo-with-adobe-identity}
 
-Si vous utilisez Marketo avec l’identité de l’Adobe, la liste des descriptions de profil [peut être consulté ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#profile-levels).
+Si vous utilisez Marketo avec l’identité de l’Adobe, la liste des descriptions de profil [peut être consulté ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
 ## Affectation de rôles à un utilisateur {#assign-roles-to-a-user}
 
