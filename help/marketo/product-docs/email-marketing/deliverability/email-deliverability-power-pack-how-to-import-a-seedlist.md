@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Email Deliverability Power Pack - Comment importer une liste de contrôle - Documents Marketo - Documentation du produit
 title: Email Deliverability - Import d’une liste de contrôle
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 8ff6198abb9cae9cc150b2c267b0a8658acffae2
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,25 @@ Une liste de contrôle est une liste des comptes de messagerie de plusieurs four
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Cliquez sur **Inbox Informant**.
+1. L’application Everest s’ouvre. Dans le volet de navigation de gauche, cliquez sur **En vol** et sélectionnez **Placement de la boîte de réception**.
 
-   ![](assets/two-1.png)
+   ![](assets/email-deliverability-power-pack-2.png)
 
-1. Cliquez sur **Obtenir la liste de contrôle**.
+1. Cliquez sur le bouton **Gérer la liste de contrôle** .
 
-   ![](assets/three-1.png)
+   ![](assets/email-deliverability-power-pack-3.png)
 
-1. Cliquez sur **Exporter la liste**.
+1. Cliquez sur la liste déroulante Actions et sélectionnez **Télécharger 1 par ligne**.
 
-   ![](assets/four.png)
+   ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Choisir **Optimiser la liste** si vous souhaitez que 250ok [optimiser votre liste](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) pour vous. Choisir **Personnaliser la liste** si vous souhaitez sélectionner les régions de liste de contrôle à inclure.
+   >Utilisez l’outil d’optimisation de la liste de contrôle (en haut de la page) si vous souhaitez qu’Everest optimise votre liste pour vous.
 
 1. Après l’exportation, la liste s’affiche sous forme de fichier .txt dans le dossier des téléchargements de votre navigateur. Récupérez-la, et [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) dans votre instance Marketo sous la forme d’une liste statique.
 
-   ![](assets/five.png)
+   ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
@@ -50,7 +50,7 @@ Une liste de contrôle est une liste des comptes de messagerie de plusieurs four
 
    >[!CAUTION]
    >
-   >Vous obtenez un nombre limité de ces campagnes Inbox Informant par mois. Pour en savoir plus, regardez dans votre 250ok **Paramètres du compte**. Pour en savoir plus, contactez votre représentant commercial Marketo.
+   >Vous obtenez un nombre limité de ces campagnes de placement en boîte de réception par mois. Pour en savoir plus, consultez la section Abonnement sous Paramètres du compte > Abonnement sur l’Everest. Pour en savoir plus, contactez votre représentant commercial Marketo.
 
 ## Acquisition de nouvelles listes de contrôle {#acquiring-new-seedlists}
 
