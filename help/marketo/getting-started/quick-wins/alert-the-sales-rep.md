@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: Alerte du représentant commercial - Documents Marketo - Documentation du produit
 title: Prévenir un représentant commercial
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 1127928b43762086ed4d157719ff80d6c3de9ee3
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '404'
 ht-degree: 4%
 
 ---
@@ -24,39 +24,39 @@ Pour envoyer automatiquement des emails d’alerte aux représentants commerciau
 
 1. Accédez au **Activités marketing** zone.
 
-   ![](assets/one-5.png)
+   ![](assets/alert-the-sales-rep-1.png)
 
 1. Sélectionner **Mon programme** que vous avez créé dans le [Page d’entrée avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)gagnant rapide {target=&quot;_blank&quot;}, puis sous **Nouveau** click **Nouvelle ressource locale**.
 
-   ![](assets/two-6.png)
+   ![](assets/alert-the-sales-rep-2.png)
 
 1. Cliquez sur **Email**.
 
-   ![](assets/three-5.png)
+   ![](assets/alert-the-sales-rep-3.png)
 
 1. **Nom** Dans l&#39;email &quot;Mon email d&#39;alerte&quot;, sélectionnez un modèle et cliquez sur **Créer**.
 
-   ![](assets/four-4.png)
+   ![](assets/alert-the-sales-rep-4.png)
 
 1. Saisissez le **De nom**, **À partir du courrier électronique**, **Réponse**, et **Objet** que vous souhaitez voir votre équipe de vente.
 
-   ![](assets/five-5.png)
+   ![](assets/alert-the-sales-rep-5.png)
 
 1. Faites un double-clic pour modifier le corps de l&#39;e-mail.
 
-   ![](assets/six-5.png)
+   ![](assets/alert-the-sales-rep-6.png)
 
 1. Saisissez le contenu de l&#39;email.
 
-   ![](assets/seven-6.png)
+   ![](assets/alert-the-sales-rep-7.png)
 
 1. Positionnez-vous à l&#39;endroit où vous souhaitez insérer les coordonnées de la personne et cliquez sur le bouton **Insérer un jeton** icône .
 
-   ![](assets/eight-4.png)
+   ![](assets/alert-the-sales-rep-8.png)
 
 1. Recherchez et sélectionnez la variable `{{SP_Send_Alert_Info}}` **Jeton** et cliquez sur **Insérer**.
 
-   ![](assets/image2014-9-24-13-3a10-3a0.png)
+   ![](assets/alert-the-sales-rep-9.png)
 
    >[!NOTE]
    >
@@ -64,49 +64,45 @@ Pour envoyer automatiquement des emails d’alerte aux représentants commerciau
 
 1. Cliquez sur **Enregistrer**.
 
-   ![](assets/ten-5.png)
+   ![](assets/alert-the-sales-rep-10.png)
 
-1. Fermez l&#39;onglet/la fenêtre de l&#39;éditeur d&#39;email.
+1. Cliquez sur le bouton **Actions de courrier électronique** et sélectionnez **Approuver et fermer**.
 
-   ![](assets/eleven-5.png)
-
-1. Sous **Actions de courrier électronique** click **Approuver**.
-
-   ![](assets/twelve-4.png)
+   ![](assets/alert-the-sales-rep-11.png)
 
 ## Étape 2 : Création d’une campagne de déclenchement d’alertes {#step-create-an-alert-trigger-campaign}
 
 1. Sélectionner **Mon programme** créé précédemment, puis sous **Nouveau** click **Nouvelle campagne dynamique**.
 
-   ![](assets/image2014-9-24-13-3a14-3a17.png)
+   ![](assets/alert-the-sales-rep-12.png)
 
 1. **Nom** dans la campagne &quot;Ma campagne d’alerte&quot;, puis cliquez sur **Créer**.
 
-   ![](assets/image2014-9-24-13-3a14-3a28.png)
+   ![](assets/alert-the-sales-rep-13.png)
 
 1. Sous , **Liste dynamique** , recherchez et faites glisser l’objet **Remplir le formulaire** se déclenche dans la zone de travail.
 
-   ![](assets/image2014-9-24-13-3a14-3a43.png)
+   ![](assets/alert-the-sales-rep-14.png)
 
 1. Sélectionnez le formulaire que nous avons créé précédemment.
 
-   ![](assets/image2014-9-24-13-3a14-3a58.png)
+   ![](assets/alert-the-sales-rep-15.png)
 
 1. Sous , **Flux** , recherchez et faites glisser l’objet **Envoyer une alerte** action de flux vers la zone de travail.
 
-   ![](assets/image2014-9-24-13-3a15-3a10.png)
+   ![](assets/alert-the-sales-rep-16.png)
 
 1. Sélectionner **Mon courriel d’alerte** créé précédemment et laissé **Envoyer à** as **Propriétaire des ventes**.
 
-   ![](assets/eighteen-1.png)
+   ![](assets/alert-the-sales-rep-17.png)
 
 1. Saisissez votre adresse électronique dans le champ **À d’autres courriers électroniques** champ .
 
-   ![](assets/nineteen-2.png)
+   ![](assets/alert-the-sales-rep-18.png)
 
 1. Accédez au **Planification** et cliquez sur l’onglet **Activer** bouton .
 
-   ![](assets/twenty-2.png)
+   ![](assets/alert-the-sales-rep-19.png)
 
    >[!TIP]
    >
@@ -114,13 +110,13 @@ Pour envoyer automatiquement des emails d’alerte aux représentants commerciau
 
 1. Cliquez sur **Activer** sur l’écran de confirmation.
 
-   ![](assets/twenty-one-1.png)
+   ![](assets/alert-the-sales-rep-20.png)
 
 ## Étape 3 : Testez-Le ! {#step-test-it-out}
 
 1. Sélectionnez votre landing page et cliquez sur **Afficher la page approuvée**.
 
-   ![](assets/image2014-9-24-13-3a17-3a8.png)
+   ![](assets/alert-the-sales-21.png)
 
    >[!NOTE]
    >
@@ -128,7 +124,7 @@ Pour envoyer automatiquement des emails d’alerte aux représentants commerciau
 
 1. Remplissez le formulaire et cliquez sur **Envoyer**.
 
-   ![](assets/image2014-9-24-13-3a17-3a41.png)
+   ![](assets/alert-the-sales-22.png)
 
 1. Vous devriez recevoir votre email sous peu. Une fois que vous avez vérifié que tout fonctionne comme prévu, supprimez votre adresse électronique du flux Envoyer une alerte (voir l’étape 2.7 ci-dessus).
 
