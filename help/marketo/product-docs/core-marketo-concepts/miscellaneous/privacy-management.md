@@ -2,9 +2,9 @@
 description: Gestion de la confidentialité - Documents Marketo - Documentation du produit
 title: Gestion de la confidentialité
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,14 @@ Marketo Engage propose un ensemble d’outils pour vous aider à vous conformer 
 
 >[!NOTE]
 >
->Les demandes d’accès à des informations personnelles envoyées par le biais de l’interface utilisateur ou de l’API du Marketo Engage s’appliquent uniquement aux personnes qui disposent des éditions Marketo Engage + RT-CDP, B2B et B2P.
+>Les demandes d’accès à des informations personnelles envoyées par le biais de l’interface utilisateur ou de l’API du Privacy Service pour Marketo Engage s’appliquent uniquement aux éléments suivants :
+>
+>* Utilisateurs Marketo Engage intégrés à Adobe Identity Management System
+>
+>**-ou-**
+>
+>* Utilisateurs Marketo Engage utilisant un autre produit Experience Cloud qui se trouve déjà sur le système Identity Management Adobe (par exemple, RT-CDP, éditions B2B et B2P, Audience Manager).
+
 
 ## Règlements relatifs à la gestion de la confidentialité {#regulations-on-privacy-management}
 

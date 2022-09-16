@@ -2,10 +2,10 @@
 description: Demandes d’accès à des informations personnelles - Documents Marketo - Documentation du produit
 title: Demandes d’accès à des informations personnelles
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: e3f7b0082b77c1be6b4f046838d7ebe725533e78
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 0%
+source-wordcount: '367'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,14 @@ Ce document présente la gestion des demandes de confidentialité des données i
 
 >[!NOTE]
 >
->Les demandes d’accès à des informations personnelles envoyées par le biais de l’interface utilisateur ou de l’API du Marketo Engage s’appliquent uniquement aux personnes qui disposent des éditions Marketo Engage + RT-CDP, B2B et B2P.
+>Les demandes d’accès à des informations personnelles envoyées par le biais de l’interface utilisateur ou de l’API du Privacy Service pour Marketo Engage s’appliquent uniquement aux éléments suivants :
+>
+>* Utilisateurs Marketo Engage intégrés à Adobe Identity Management System
+>
+>**-ou-**
+>
+>* Utilisateurs Marketo Engage utilisant un autre produit Experience Cloud qui se trouve déjà sur le système Identity Management Adobe (par exemple, RT-CDP, éditions B2B et B2P, Audience Manager).
+
 
 Vous pouvez envoyer des requêtes individuelles pour accéder aux données des consommateurs et les supprimer du Marketo Engage de deux manières :
 
