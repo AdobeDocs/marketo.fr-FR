@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Importation de ressources avec Adobe Experience Manager - Documents Marketo - Documentation du produit
 title: Importation de ressources avec Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+source-git-commit: 2b3a7867811ab2814a668eaa633057b35b7ce68d
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ Le sélecteur de ressources permet aux clients Marketo d’accéder à des resso
 
 >[!PREREQUISITES]
 >
->Vérifiez que vous avez déjà effectué la [configuration AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Assurez-vous que vous avez déjà effectué la [Configuration AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->Cette fonctionnalité est entièrement prise en charge dans les versions actuelles de Firefox, Chrome et Edge. Elle n’est pas prise en charge dans Safari.
+>Actuellement, cette fonctionnalité n’est entièrement prise en charge que dans Firefox. Elle n’est pas prise en charge dans Safari et peut ne pas fonctionner dans la dernière version de Chrome, selon vos paramètres de cookie SameSite.
 
 1. Cliquez sur **Design Studio**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur la liste déroulante Nouveau et sélectionnez **Importer depuis Adobe Experience Manager**.
+1. Cliquez sur la liste déroulante Nouveau et sélectionnez **Importation depuis Adobe Experience Manager**.
 
    ![](assets/two-1.png)
 
@@ -42,7 +42,7 @@ Le sélecteur de ressources permet aux clients Marketo d’accéder à des resso
 
    ![](assets/four-1.png)
 
-1. Sélectionnez votre dossier. Sélectionnez ensuite les images de votre choix en cliquant sur la miniature (vous pouvez choisir jusqu’à 10). Cliquez sur **Sélectionner** lorsque vous avez terminé.
+1. Sélectionnez votre dossier. Sélectionnez ensuite les images de votre choix en cliquant sur la miniature (vous pouvez choisir jusqu’à 10). Cliquez sur **Sélectionner** une fois terminé.
 
    ![](assets/five.png)
 
