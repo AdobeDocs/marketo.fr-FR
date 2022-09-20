@@ -3,10 +3,10 @@ unique-page-id: 2359426
 description: Mise à jour des données de personne - Documents Marketo - Documentation du produit
 title: Mettre à jour les données de personne
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,7 @@ Imaginons que dans votre salon récent, une personne vous ait donné des coordon
 
 1. Accédez à votre base de données.
 
-   ![](assets/db-3.png)
+   ![](assets/update-person-data-1.png)
 
 1. Recherchez le nom ou l’adresse électronique de la personne.
 
@@ -34,11 +34,11 @@ Imaginons que dans votre salon récent, une personne vous ait donné des coordon
    >
    >L’utilisation de l’adresse électronique pour effectuer des recherches plus rapidement.
 
-   ![](assets/two-rubiks.png)
+   ![](assets/update-person-data-2.png)
 
 1. Double-cliquez pour ouvrir le détail de la personne.
 
-   ![](assets/three-rubiks.png)
+   ![](assets/update-person-data-3.png)
 
    >[!TIP]
    >
@@ -48,7 +48,7 @@ Imaginons que dans votre salon récent, une personne vous ait donné des coordon
 
 1. Saisissez les nouvelles informations que vous avez reçues, puis fermez l’onglet.
 
-![](assets/four-rubiks.png)
+![](assets/update-person-data-4.png)
 
 >[!NOTE]
 >
