@@ -3,18 +3,14 @@ unique-page-id: 10096679
 description: Exemple d’intégration d’événement ON24 - Documents Marketo - Documentation du produit
 title: Exemple d’intégration d’événement ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '387'
 ht-degree: 1%
 
 ---
 
 # Exemple d’intégration d’événement ON24 {#example-on-event-integration}
-
->[!IMPORTANT]
->
->Depuis août 2022, ON24 ne prend plus en charge les nouvelles intégrations Marketo. Les informations de cet article s’appliquent uniquement aux utilisateurs existants.
 
 Voici un exemple d’événement, y compris des campagnes, pour un webinaire ON24. Lorsque vous créez votre événement, veillez à tester vos campagnes avant de les exécuter.
 
@@ -96,4 +92,4 @@ Voici un exemple d’événement, y compris des campagnes, pour un webinaire ON2
 
 >[!MORELIKETHIS]
 >
->[Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

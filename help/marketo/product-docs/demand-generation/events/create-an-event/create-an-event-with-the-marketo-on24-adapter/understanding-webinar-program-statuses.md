@@ -3,18 +3,14 @@ unique-page-id: 10096681
 description: Présentation des états du programme Webinaire - Documents Marketo - Documentation du produit
 title: Présentation des états du programme du webinaire
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # Présentation des états du programme du webinaire {#understanding-webinar-program-statuses}
-
->[!IMPORTANT]
->
->Depuis août 2022, ON24 ne prend plus en charge les nouvelles intégrations Marketo. Les informations de cet article s’appliquent uniquement aux utilisateurs existants.
 
 Les statuts de programme représentent les différents statuts d’un événement par le biais duquel une personne passe en tant que membre de l’événement. Ils sont associés à un type de canal. Marketo dispose d’un type de canal intégré appelé **Webinaire**. Les états peuvent être utilisés dans les campagnes par lots et les campagnes de déclenchement.
 
@@ -32,7 +28,7 @@ Voici une brève description des états du programme associé au canal Webinaire
 
 **Invité** - Utilisez cet état pour ajouter des personnes à l’événement.
 
-**En attente d’approbation** - Utilisez ce statut pour suspendre l’envoi d’un email de confirmation à vos contacts. Voir &quot;Validation manuelle des inscrits&quot; dans [Mises à jour de l’enregistrement d’événement ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) pour plus d’informations.
+**En attente d’approbation** - Utilisez ce statut pour suspendre l’envoi d’un email de confirmation à vos contacts. Voir &quot;Validation manuelle des inscrits&quot; dans [Mises à jour de l’enregistrement d’événement ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;} pour plus d’informations.
 
 **Liste d’attente** - Utilisez ce statut pour que certaines personnes attendent jusqu&#39;à ce que des places supplémentaires soient disponibles.
 
@@ -58,4 +54,4 @@ Voici une brève description des états du programme associé au canal Webinaire
 
 >[!MORELIKETHIS]
 >
->[Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

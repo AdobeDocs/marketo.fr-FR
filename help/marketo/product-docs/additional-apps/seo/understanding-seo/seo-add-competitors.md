@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2949192
-description: SEO - Concurrents d'Ajoute - Marketo Docs - Documentation du produit
-title: SEO - Concurrents d’Ajoute
+description: SEO - Ajout de concurrents - Documents Marketo - Documentation du produit
+title: SEO - Ajout de concurrents
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 1%
 
 ---
 
-# SEO - Concurrents d&#39;Ajoute {#seo-add-competitors}
+# SEO - Ajout de concurrents {#seo-add-competitors}
 
-Les concurrents d&#39;Ajoute vous permettent de suivre leurs performances pour les mêmes mots-clés et liens entrants que ceux que vous avez choisis de surveiller.
+L’ajout de concurrents vous permet de suivre leurs performances pour les mêmes mots-clés et liens entrants que ceux que vous choisissez de surveiller.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à la section **Admin**.
+1. Accédez au **Administration** .
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Cliquez sur l&#39;onglet **Concurrents**.
+1. Cliquez sur le bouton **Concurrents** .
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Cliquez sur **Ajouter le Concurrent**.
+1. Cliquez sur **Ajout d’un concurrent**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Tapez **Nom** et **URL** de votre concurrent.
+1. Saisissez dans la variable **Nom** et **URL** de votre concurrent.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
-   Cinq ! Vous devriez maintenant voir votre concurrent dans la liste.
+   Cinq heures de haut ! Votre concurrent devrait maintenant apparaître dans la liste.
 
    ![](assets/image2014-9-17-21-3a13-3a14.png)
 
@@ -43,6 +42,6 @@ Les concurrents d&#39;Ajoute vous permettent de suivre leurs performances pour l
 
    >[!MORELIKETHIS]
    >
-   >* [Mots-clés de Ajoute](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-   >* [Présentation des mots-clés (Vue de Concurrent)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Ajouter des mots-clés](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target=&quot;_blank&quot;}
+   >* [Présentation des mots-clés (affichage des concurrents)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target=&quot;_blank&quot;}
 
