@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359900
-description: Configuration système minimale requise - Documentation Marketo - Documentation du produit
-title: Configuration minimale requise
+description: Configuration minimale requise - Documents Marketo - Documentation du produit
+title: Configuration système minimale
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Configuration minimale requise {#minimum-system-requirements}
+# Configuration système minimale {#minimum-system-requirements}
 
 Si vous vous demandez ce dont vous avez besoin pour vous connecter et utiliser Marketo, voici les informations que vous recherchez.
 
@@ -21,10 +20,10 @@ Si vous vous demandez ce dont vous avez besoin pour vous connecter et utiliser M
 
 * Ordinateur ou ordinateur portable exécutant Windows, OS X ou Linux
 * Clavier et souris
-* Moniteur avec une résolution minimale de 1280 x 768
-* Navigateur à jour, voir [Navigateurs pris en charge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) pour plus d’informations.
+* Écran avec une résolution minimale de 1 280 x 768
+* Navigateur à jour, voir [Navigateurs pris en charge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target=&quot;_blank&quot;} pour plus de détails
 * Connexion Internet
 
 >[!NOTE]
 >
->Si votre équipe informatique restreint l&#39;accès Web à l&#39;aide d&#39;une liste autorisée, demandez-lui d&#39;ajouter `*.marketo.com` pour autoriser toutes les ressources Marketo et les websockets.
+>Si votre équipe informatique restreint l’accès web à l’aide d’une liste autorisée, demandez-lui d’ajouter `*.marketo.com` pour autoriser toutes les ressources et tous les websockets Marketo.
