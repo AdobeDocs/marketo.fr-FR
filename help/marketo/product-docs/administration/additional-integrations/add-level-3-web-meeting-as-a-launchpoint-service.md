@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7512292
-description: Ajouter la réunion Web de niveau 3 en tant que service LaunchPoint - Marketo Docs - Documentation du produit
-title: Ajouter la réunion Web de niveau 3 en tant que service LaunchPoint
+description: Ajout d’une réunion web de niveau 3 en tant que service LaunchPoint - Documents Marketo - Documentation du produit
+title: Ajout d’une réunion web de niveau 3 en tant que service LaunchPoint
 exl-id: f419b019-33bb-446d-baf5-55393770a703
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 4%
 
 ---
 
-# Ajouter la réunion Web de niveau 3 en tant que service LaunchPoint {#add-level-web-meeting-as-a-launchpoint-service}
+# Ajout d’une réunion web de niveau 3 en tant que service LaunchPoint {#add-level-three-web-meeting-as-a-launchpoint-service}
 
-Marketo gère votre inscription et votre participation à votre réunion Web de niveau 3.
+Marketo gère votre inscription et votre participation à des réunions web de niveau 3.
 
 >[!NOTE]
 >
@@ -21,28 +20,32 @@ Marketo gère votre inscription et votre participation à votre réunion Web de 
 
 >[!NOTE]
 >
->Un abonnement existant à la réunion Web de niveau 3 et des droits d&#39;administration sont nécessaires pour cette étape. Ayez à portée de main votre numéro d&#39;accès, votre code d&#39;accès et votre mot de passe.
+>Un abonnement existant aux droits d&#39;administration et de réunion web de niveau 3 est nécessaire pour cette étape. Ayez à portée de main votre numéro d’accès, votre code d’accès et votre code de passe.
 
-1. Accédez à **Admin** et sélectionnez **LaunchPoint**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2015-4-23-10-3a5-3a12.png)
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 
-1. Sélectionnez **Nouveau**, puis **Nouveau service**.
+1. Cliquez sur **LaunchPoint**.
 
-   ![](assets/level-3-web-meeting-new-service.png)
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-2.png)
 
-1. Saisissez un **nom d’affichage**. Sous **Service**, sélectionnez **Réunion Web de niveau 3**.
+1. Sélectionner **Nouveau** puis **Nouveau service**.
 
-   ![](assets/new-service-level-3.png)
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-3.png)
 
-1. Entrez votre **numéro d&#39;accès**, **code d&#39;accès** et **code de passe**, puis cliquez sur **Créer**.
+1. Saisissez un **Nom d’affichage**. Sous **Service**, sélectionnez **Réunion web de niveau 3**.
 
-   ![](assets/image2015-4-23-10-3a10-3a26.png)
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-4.png)
 
-Votre compte de réunion Web de niveau 3 est maintenant synchronisé avec Marketo !
+1. Saisissez votre **Numéro d’accès**, **Code d’accès**, et **Passcode**, puis cliquez sur **Créer**.
 
-![](assets/level-3-web-meeting.png)
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-5.png)
+
+Votre compte de réunion web de niveau 3 est maintenant synchronisé avec Marketo !
+
+![](assets/add-level-three-web-meeting-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [créer un événement avec une réunion Web de niveau 3](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md).
+>Découvrez comment [créer un événement avec une réunion web de niveau 3 ;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target=&quot;_blank&quot;}.
