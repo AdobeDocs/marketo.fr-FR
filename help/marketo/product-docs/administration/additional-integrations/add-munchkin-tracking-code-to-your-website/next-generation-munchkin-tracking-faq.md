@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: FAQ sur le suivi Munchkin de nouvelle génération - Documents Marketo - Documentation du produit
 title: FAQ sur le suivi de Munchkin de nouvelle génération
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Nombre Le code de suivi Munchkin reste le même. Aucune modification ne doit êt
 
 >[!NOTE]
 >
->Cette modification n’a aucune incidence sur Web Personalization (Real-Time Personalization). Il continue à identifier les visiteurs anonymes et connus et à personnaliser le contenu en temps réel pour ces visiteurs.
+>Cette modification n’a aucune incidence sur la personnalisation web (personnalisation en temps réel). Il continue à identifier les visiteurs anonymes et connus et à personnaliser le contenu en temps réel pour ces visiteurs.
 
 ## Pourquoi Marketo a-t-il supprimé le filtre &quot;Is Anonymous&quot; des listes dynamiques ? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -74,20 +74,20 @@ Consultez-les et identifiez l’emplacement où &quot;Est anonyme&quot; est déf
 
 Consultez les liens suivants :
 
-[Présentation des mises à niveau de pistes anonymes](https://nation.marketo.com/docs/DOC-2937)
+[Présentation des mises à niveau de pistes anonymes](https://nation.marketo.com/docs/DOC-2937){target=&quot;_blank&quot;}
 
-[Mises à niveau de pistes anonymes - Modifications dans l’interface utilisateur de Marketo](https://nation.marketo.com/docs/DOC-2938)
+[Mises à niveau de pistes anonymes - Modifications dans l’interface utilisateur de Marketo](https://nation.marketo.com/docs/DOC-2938){target=&quot;_blank&quot;}
 
-[Mises à niveau de pistes anonymes - Action client requise](https://nation.marketo.com/docs/DOC-2939)
+[Mises à niveau de pistes anonymes - Action client requise](https://nation.marketo.com/docs/DOC-2939){target=&quot;_blank&quot;}
 
-[Mises à niveau des pistes anonymes - Rapports Analytics](https://nation.marketo.com/docs/DOC-2940)
+[Mises à niveau des pistes anonymes - Rapports Analytics](https://nation.marketo.com/docs/DOC-2940){target=&quot;_blank&quot;}
 
-[Mises à niveau de piste anonymes - Calendrier des versions](https://nation.marketo.com/docs/DOC-2961)
+[Mises à niveau de piste anonymes - Calendrier des versions](https://nation.marketo.com/docs/DOC-2961){target=&quot;_blank&quot;}
 
-[Mises À Niveau Des Pistes Anonymes - Sous Le Bois](https://nation.marketo.com/docs/DOC-2962)
+[Mises À Niveau Des Pistes Anonymes - Sous Le Bois](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
 
-[Promotion de pistes anonymes vers le prospect connu - Comportement Munchkin V2](https://nation.marketo.com/docs/DOC-2963)
+[Promotion de pistes anonymes vers le prospect connu - Comportement Munchkin V2](https://nation.marketo.com/docs/DOC-2963){target=&quot;_blank&quot;}
 
 ## J&#39;ai plus de questions ! Comment puis-je leur faire répondre ? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Veuillez contacter le [communauté](https://nation.marketo.com/). Vous pouvez également contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Ils seront heureux de répondre à vos questions.
+Veuillez contacter le [communauté](https://nation.marketo.com/){target=&quot;_blank&quot;}. Vous pouvez également contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}. Ils seront heureux de répondre à vos questions.

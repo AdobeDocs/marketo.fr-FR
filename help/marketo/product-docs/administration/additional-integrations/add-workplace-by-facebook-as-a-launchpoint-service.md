@@ -1,22 +1,21 @@
 ---
 unique-page-id: 14745982
-description: Ajouter le milieu de travail par Facebook en tant que service LaunchPoint - Marketo Docs - Documentation sur les produits
-title: Ajouter le lieu de travail par Facebook en tant que service LaunchPoint
+description: Ajout de Workspace par Facebook as a LaunchPoint Service - Documents Marketo - Documentation du produit
+title: Ajout de Workspace par Facebook en tant que service LaunchPoint
 exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 1%
+source-wordcount: '286'
+ht-degree: 3%
 
 ---
 
-# Ajouter le lieu de travail par Facebook en tant que service LaunchPoint {#add-workplace-by-facebook-as-a-launchpoint-service}
+# Ajout de Workspace par Facebook en tant que service LaunchPoint {#add-workplace-by-facebook-as-a-launchpoint-service}
 
-L&#39;intégration en milieu de travail comprend deux types de notification :
+L’intégration en milieu de travail comprend deux types de notification :
 
-* **Notifications** système : Recevez des notifications sur les événements importants de votre instance Marketo, telles que des alertes sur les états des campagnes en cours et tout problème nécessitant une attention immédiate (erreurs de gestion de la relation client et limites de l’API).
-* **Moments** intéressants : Lorsqu&#39;une personne connue a déclenché une visite Marketo Insight à partir d&#39;un compte client, les propriétaires principaux peuvent être avertis par l&#39;intermédiaire du lieu de travail. Les notifications incluent des informations de piste ainsi que des détails sur le compte client.
+* **Notifications système**: Recevez des notifications relatives à des événements importants de votre instance Marketo, par exemple des alertes sur les états de la campagne en cours et tout problème nécessitant une attention immédiate (erreurs CRM et limites de l’API).
+* **Moments intéressants**: Lorsqu’un insight Marketo a été déclenchée par une personne connue à partir d’un compte de vente, les propriétaires de prospect peuvent être avertis via l’espace de travail. Les notifications comprennent des informations de piste ainsi que des détails sur le compte de vente.
 
 >[!NOTE]
 >
@@ -24,44 +23,52 @@ L&#39;intégration en milieu de travail comprend deux types de notification :
 
 >[!PREREQUISITES]
 >
->Si vous n&#39;avez pas encore activé les notifications sur votre lieu de travail, veuillez contacter le [Support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si vous n’avez pas encore activé les notifications de lieu de travail, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}.
 
-1. Accédez à **LaunchPoint**, puis sous **New** cliquez sur **New Service**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2017-11-27-14-3a13-3a18-1.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-1.png)
 
-1. Entrez un nom d’affichage pour l’intégration de votre lieu de travail. Dans la liste déroulante **Service**, sélectionnez **Lieu de travail par Facebook**. Cliquez sur **Créer**.
+1. Cliquez sur **LaunchPoint**.
 
-   ![](assets/newservice.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-2.png)
+
+1. Sélectionner **Nouveau** puis **Nouveau service**.
+
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-3.png)
+
+1. Saisissez un nom d’affichage pour votre intégration en milieu de travail. Dans le **Service** menu déroulant, sélectionnez **Espace de travail de Facebook**. Cliquez sur **Créer**.
+
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-4.png)
 
 1. Pour recevoir des notifications système et des moments intéressants, laissez les options telles quelles. Cliquez sur **Créer**.
 
-   ![](assets/create.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-5.png)
 
-1. Cliquez sur **Autoriser**. Ceci ouvre Lieu de travail dans un nouvel onglet, où vous allez compléter l&#39;autorisation et accorder à Marketo l&#39;autorisation de retirer des informations du lieu de travail.
+1. Cliquez sur **Autoriser**. Cela ouvre Espace de travail dans un nouvel onglet, dans lequel vous compléterez l’autorisation et accordez à Marketo l’autorisation d’extraire des informations de l’espace de travail.
 
-   ![](assets/authorize.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-6.png)
 
-1. Dans le nouvel onglet Lieu de travail, saisissez votre adresse électronique professionnelle ou votre nom d’utilisateur en milieu de travail, puis cliquez sur **Continuer**.
+1. Dans le nouvel onglet Espace de travail, saisissez le courrier électronique professionnel ou le nom d’utilisateur de l’espace de travail, puis cliquez sur **Continuer**.
 
-   ![](assets/workplacelogin.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-7.png)
 
-1. Entrez vos informations d’identification de lieu de travail et cliquez sur **Connectez-vous**.
+1. Entrez vos informations d’identification et cliquez sur **Connexion**.
 
-   ![](assets/workplacelogininfo.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-8.png)
 
-1. Dans la fenêtre contextuelle Lieu de travail, choisissez un groupe Facebook dans lequel vous souhaitez que les notifications de Marketo soient publiées (par exemple, Intégrations de partenaire). Cliquez sur **Installer**.
+1. Dans la fenêtre contextuelle Espace de travail, sélectionnez un groupe Facebook dans lequel vous souhaitez que les notifications de Marketo soient publiées (par exemple, Intégrations de partenaire). Cliquez sur **Installer**.
 
-   ![](assets/installmarketo.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-9.png)
 
-1. Vous devriez voir la notification de confirmation ci-dessous. L&#39;onglet se ferme automatiquement.
+1. Vous devriez voir la notification de confirmation ci-dessous. L’onglet se ferme automatiquement.
 
-   ![](assets/success.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-10.png)
 
-1. Actualisez l’onglet Marketo et vérifiez que le lieu de travail est désormais répertorié comme un service principal dans LaunchPoint.
+1. Actualisez l’onglet Marketo et vérifiez que Workspace est désormais répertorié comme un service principal dans LaunchPoint.
 
-   ![](assets/confirm.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-11.png)
 
-   Les notifications vont maintenant commencer à publier sur le groupe Facebook sélectionné à l’étape 7. Ils ressembleront à quelque chose comme ça :
+   Les notifications commenceront maintenant à être publiées dans le groupe Facebook que vous avez sélectionné à l’étape 7. Ils ressembleront à ceci :
 
-   ![](assets/example.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-12.png)
