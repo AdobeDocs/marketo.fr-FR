@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: Page d’entrée avec un formulaire - Documents Marketo - Documentation du produit
 title: Page de destination avec un formulaire
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '549'
 ht-degree: 5%
 
 ---
@@ -104,7 +104,7 @@ C&#39;est joli ! Maintenant que nous avons créé un programme, passons à autre
 
 ## ÉTAPE 3 : Création d’une page d’entrée et ajout d’un formulaire {#step-create-a-landing-page-and-add-your-form}
 
-1. Lorsque votre programme est sélectionné, cliquez sur **Nouveau** puis **Nouvelle ressource locale**.
+1. Lorsque votre programme est sélectionné, cliquez sur le bouton **Nouveau** et sélectionnez **Nouvelle ressource locale**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
