@@ -3,30 +3,34 @@ unique-page-id: 1147226
 description: Prise en main - Documents Marketo - Documentation du produit
 title: Démarrer
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 31%
+source-wordcount: '161'
+ht-degree: 24%
 
 ---
 
 # Démarrer {#getting-started}
 
-## ÉTAPE 1 Présentation de Marketo {#what-is-marketo}
+## Présentation de Adobe Marketo Engage {#what-is-marketo-engage}
 
-Que demandez-vous à Marketo ? Bonne question !
+Qu&#39;est-ce que le Marketo Engage, me demandes-tu ? Bonne question !
 
-[Découvrez Marketo](/help/marketo/getting-started/what-is-adobe-marketo-engage.md)
+[Marketo Engage de formation](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
 
-## Configuration de l’étape 2 {#get-set-up}
+## Quels sont les tarifs disponibles ? {#what-pricing-tiers-are-available}
+
+Consultez la section [Page Tarifs et packages des Marketo Engage](https://www.marketo.com/solutions/pricing/){target=&quot;_blank&quot;} pour plus d’informations.
+
+## Configuration {#get-set-up}
 
 Avec un peu d&#39;aide de votre équipe informatique, vous pouvez le faire en un rien de temps.
 
-[Configuration de démarrage](/help/marketo/getting-started/setup/setup-steps.md)
+[Configuration de démarrage](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
 
-## ÉTAPE 3 Obtenir quelques victoires rapides {#get-some-quick-wins}
+## Obtenir quelques victoires rapides {#get-some-quick-wins}
 
-Terminez ces missions pour découvrir les principales fonctionnalités de Marketo.
+Terminez ces missions pour découvrir les principales fonctionnalités de Marketo Engage.
 
 <table style="table-layout:fixed">
 <tr>
@@ -124,6 +128,4 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
 
 ## Félicitations ! Vous êtes prêts pour la Nation  {#congrats-youre-ready-for-the-nation}
 
-Il est temps de rejoindre Marketing Nation !
-
-[Rejoignez la Nation](https://nation.marketo.com)
+Consultez la section [Nation marketing](https://nation.marketo.com){target=&quot;_blank&quot;} !

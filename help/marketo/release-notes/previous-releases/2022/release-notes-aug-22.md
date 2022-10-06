@@ -1,9 +1,9 @@
 ---
 description: Notes de mise à jour - Août 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Août 2022
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Les fonctionnalités suivantes ont commencé un déploiement progressif de **26 
 
 * **Visibilité de l’en-tête personnalisé de Webhook**: Les en-têtes personnalisés Webhook s’affichent désormais dans l’onglet Admin > Webhooks pour une meilleure visibilité.
 
-* **CAPTCHA**: Evaluez la validité des envois de formulaire à l’aide de reCAPTCHA v3 pour noter le trafic de formulaire entrant. Créez des workflows marketing pour exclure, mettre en quarantaine ou supprimer automatiquement le trafic de robots suspects.
+* **CAPTCHA**: Évaluation de la validité des envois de formulaire [utilisation de reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;} pour noter le trafic de formulaire entrant. Créez des workflows marketing pour exclure, mettre en quarantaine ou supprimer automatiquement le trafic de robots suspects.
 
 * **Autorisation d’approuver le formulaire**: Nouvelle autorisation pour contrôler quels concepteurs peuvent approuver les modifications apportées à un formulaire conformément à d’autres actifs de Design Studio. Cela empêche d’autres concepteurs de pousser les modifications vers les formulaires sans qu’aucune autre personne n’ait la permission de les examiner.
 
