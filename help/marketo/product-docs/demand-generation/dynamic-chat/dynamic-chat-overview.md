@@ -2,9 +2,9 @@
 description: Présentation de Dynamic Chat - Documents Marketo - Documentation du produit
 title: Présentation de la conversation dynamique
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '953'
 ht-degree: 2%
 
 ---
@@ -47,7 +47,7 @@ Vous pouvez également personnaliser le corps de l’invitation envoyée au visi
 
 ## Réunions {#meetings}
 
-C&#39;est là que vous verrez toutes les nominations programmées par les visiteurs de votre site web à travers vos Dialogues. Vous y trouverez l’adresse électronique de la personne ayant réservé la nomination, avec laquelle elle a réservé la nomination, le moment où la nomination est programmée et si la réunion s’est déroulée ou non.
+C&#39;est là que vous verrez toutes les nominations programmées par les visiteurs de votre site web à travers vos Dialogues. Vous trouverez ici l’adresse électronique de la personne ayant réservé le rendez-vous, l’agent auprès duquel elle a réservé le rendez-vous, le moment où le rendez-vous est prévu et si l’heure de la réunion planifiée est passée ou non.
 
 ## Routage {#routing}
 
