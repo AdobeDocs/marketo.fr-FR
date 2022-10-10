@@ -2,9 +2,9 @@
 description: Présentation de Dynamic Chat - Documents Marketo - Documentation du produit
 title: Présentation de la conversation dynamique
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '919'
 ht-degree: 2%
 
 ---
@@ -51,7 +51,7 @@ C&#39;est là que vous verrez toutes les nominations programmées par les visite
 
 ## Routage {#routing}
 
-C’est là que vous pouvez voir la liste de tous les agents qui ont connecté leurs calendriers ainsi que l’ordre dans lequel ils seront présentés aux visiteurs du site web. Les réunions tournent autour du robot, donc si vous avez cinq agents et l&#39;agent trois qui ont pris la dernière réunion, l&#39;agent quatre aura le suivant, suivi de l&#39;agent cinq, puis revenir à l&#39;agent un.
+C’est là que vous pouvez voir la liste de tous les agents qui ont connecté leurs calendriers ainsi que l’ordre dans lequel ils seront présentés aux visiteurs du site web.
 
 ## FAQ {#faq}
 
