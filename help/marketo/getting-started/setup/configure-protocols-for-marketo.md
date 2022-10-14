@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Configuration de protocoles pour Marketo - Documents Marketo - Documentation du produit
 title: Configuration de protocoles pour Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: ed29cc13d2ced85e639e8b1c6fe228e2bca82ffd
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 2%
+source-wordcount: '1046'
+ht-degree: 3%
 
 ---
 
@@ -77,7 +77,7 @@ Ajoutez les adresses IP suivantes à la liste autorisée de votre entreprise :
 103.237.104.0/22\
 94.236.119.0/26
 
-Certains systèmes anti-spam utilisent le champ Chemin d’accès au retour de l’email au lieu de l’adresse IP pour la mise en liste autorisée. Dans ce cas, la meilleure approche consiste à placer sur la liste autorisée &quot;&#42;.mktomail.com&quot;, car Marketo utilise plusieurs sous-domaines de boîte aux lettres. D’autres systèmes anti-spam placent sur la liste autorisée en fonction de l’adresse de l’expéditeur. Dans ce cas, veillez à inclure tous les domaines d’envoi (&quot;De&quot;) que votre groupe marketing utilise pour communiquer avec les personnes/prospects.
+Certains systèmes anti-spam utilisent le champ Chemin d’accès au retour de l’email au lieu de l’adresse IP pour la mise en liste autorisée. Dans ce cas, la meilleure approche consiste à placer sur la liste autorisée &quot;&quot;&#42;.mktomail.com&#39;, car Marketo utilise plusieurs sous-domaines de boîte aux lettres. D’autres systèmes anti-spam placent sur la liste autorisée en fonction de l’adresse de l’expéditeur. Dans ce cas, veillez à inclure tous les domaines d’envoi (&quot;De&quot;) que votre groupe marketing utilise pour communiquer avec les personnes/prospects.
 
 >[!NOTE]
 >
@@ -107,7 +107,7 @@ Votre équipe marketing aurait également dû vous envoyer des informations DKIM
 
 ## Étape 4 : Configuration des enregistrements MX pour votre domaine {#step-set-up-mx-records-for-your-domain}
 
-Un enregistrement MX vous permet de recevoir du courrier électronique vers le domaine à partir duquel vous envoyez le courrier électronique pour traiter les réponses et les réponses automatiques. Si vous envoyez des messages depuis votre domaine d’entreprise, il est probable que vous ayez déjà configuré ce message. Si ce n’est pas le cas, vous pouvez généralement le configurer pour mapper l’enregistrement MX de votre domaine d’entreprise.
+Un enregistrement MX vous permet de recevoir du courrier électronique vers le domaine à partir duquel vous envoyez le courrier électronique pour traiter les réponses et les réponses automatiques. Si vous envoyez des messages depuis votre domaine d’entreprise, il est probable que vous ayez déjà configuré ce message. Si ce n’est pas le cas, vous pouvez généralement le configurer pour qu’il corresponde à l’enregistrement MX de votre domaine d’entreprise.
 
 ## Adresses IP sortantes {#outbound-ip-addresses}
 
@@ -123,7 +123,7 @@ Marketo Engage [Synchronisation CRM Salesforce](/help/marketo/product-docs/crm-s
 
 **Blocs d’adresses IP sortantes du Marketo Engage**
 
-Le tableau suivant couvre tous les serveurs Marketo Engage qui effectuent des appels sortants. Utilisez cette liste si vous configurez une liste autorisée IP, un serveur, un pare-feu, une liste de contrôle d’accès, un groupe de sécurité ou un service tiers pour recevoir les connexions sortantes de Marketo Engage.
+Les tableaux suivants couvrent tous les serveurs Marketo Engage qui effectuent des appels sortants. Utilisez les listes ci-dessous si vous configurez une liste autorisée IP, un serveur, un pare-feu, une liste de contrôle d’accès, un groupe de sécurité ou un service tiers pour recevoir les connexions sortantes de Marketo Engage.
 
 <table>
  <tbody>
@@ -156,3 +156,48 @@ Le tableau suivant couvre tous les serveurs Marketo Engage qui effectuent des ap
   </tr>
  </tbody>
 </table>
+
+<table>
+ <tbody>
+  <tr>
+   <th>Adresse IP individuelle</th>
+  </tr>
+  <tr>
+   <td>54.212.167.17</td>
+  </tr>
+   <tr>
+   <td>44.235.171.179</td>
+  </tr>
+   <tr>
+   <td>35.165.244.220</td>
+  </tr>
+   <tr>
+   <td>52.20.211.99</td>
+  </tr>
+   <tr>
+   <td>54.237.141.197</td>
+  </tr>
+  <tr>
+   <td>54.160.246.246</td>
+  </tr>
+   <tr>
+   <td>18.200.201.81</td>
+  </tr>
+  <tr>
+   <td>34.247.24.245</td>
+  </tr>
+   <tr>
+   <td>54.220.138.65</td>
+  </tr>
+  <tr>
+   <td>13.237.155.207</td>
+  </tr>
+   <tr>
+   <td>13.55.192.247</td>
+  </tr>
+  <tr>
+   <td>52.64.109.86</td>
+  </tr>
+ </tbody>
+</table>
+

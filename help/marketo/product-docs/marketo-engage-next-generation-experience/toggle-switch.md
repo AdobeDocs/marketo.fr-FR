@@ -2,9 +2,9 @@
 description: Basculer entre - Documents Marketo - Documentation du produit
 title: Basculer entre les deux
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: a7eeee24fb494c42a6992fc049311f63c6217b54
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -60,10 +60,13 @@ Les fonctionnalités suivantes sont actuellement disponibles dans l’interface 
 * Affichage des détails du courrier électronique
 * Mode Liste des emails
 * Affichage des détails du modèle de courrier électronique
+* Liste des modèles de courrier électronique
 * Affichage du tableau de bord du test par e-mail
 * Vue Détails du formulaire
 * Mode Liste des formulaires
 * Page Détails des images et des fichiers
 * Vue Détails de la page d’entrée
 * Mode Liste des pages d’entrée
+* Détails du modèle de page d’entrée
 * Affichage des détails du fragment de code
+
