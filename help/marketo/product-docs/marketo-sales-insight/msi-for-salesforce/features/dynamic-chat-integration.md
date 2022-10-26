@@ -2,9 +2,9 @@
 description: Intégration Dynamic Chat - Documents Marketo - Documentation du produit
 title: Intégration de tchat dynamique
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '392'
 ht-degree: 5%
 
 ---
@@ -58,17 +58,27 @@ Objectif atteint : Connecté à Marketo et renseigné dans Sales Insight lorsqu�
 * Nom de l’objectif
 * URL de la page
 
-Un onglet Conversation est disponible dans les panneaux Prospérité et Contact. Elle comprend les colonnes Type d’activité, Nom de la boîte de dialogue et Date.
+Interacted with Document : Connecté à Marketo et renseigné dans Sales Insight lorsqu’un visiteur interagit avec un document partagé via le chatterbot.
+
+* Nom de la conversation
+* Document
+* Statut
+
+Les activités de conversation sont disponibles dans le tableau de bord des connaissances.
 
 ![](assets/dynamic-chat-integration-3.png)
 
-Pour en savoir plus sur un type d’activité, cliquez dessus.
+Un onglet Conversation est disponible dans les panneaux Prospérité et Contact. Elle comprend les colonnes Type d’activité, Nom de la boîte de dialogue et Date.
 
 ![](assets/dynamic-chat-integration-4.png)
 
-De même, les panneaux Compte et Opportunité incluent les colonnes Nom, Type d’activité, Nom de la boîte de dialogue et Date.
+Pour en savoir plus sur un type d’activité, cliquez dessus.
 
 ![](assets/dynamic-chat-integration-5.png)
+
+De même, les panneaux Compte et Opportunité incluent les colonnes Nom, Type d’activité, Nom de la boîte de dialogue et Date.
+
+![](assets/dynamic-chat-integration-6.png)
 
 L’onglet Conversation est également inclus dans votre onglet Marketo globale. Il comprend trois types d’activité (Dialogue engagé, Rendez-vous planifié, Objectif atteint), ainsi que les colonnes suivantes :
 
@@ -80,8 +90,15 @@ L’onglet Conversation est également inclus dans votre onglet Marketo globale.
 
 Encore une fois, vous pouvez en savoir plus sur un type d’activité en cliquant dessus.
 
-![](assets/dynamic-chat-integration-6.png)
+![](assets/dynamic-chat-integration-7.png)
 
 >[!NOTE]
 >
->L’activité &quot;Interagi avec le document&quot; sera disponible dans MSI dans une prochaine version.
+>Si la case &quot;Activer les données de messagerie dynamique&quot; est désactivée, les fonctionnalités suivantes sont désactivées :
+>
+>* Rangée avec les activités de conversation dans le tableau de bord des statistiques (grille dynamique et affichage de liste hebdomadaire)
+>* Onglet Chat dans les panneaux &quot;Plomb, Contact, Compte et Opportunité&quot;
+>* Onglet Conversation dans l’onglet Marketo globale
+>
+>Il n’est pas possible de désactiver une seule de ces fonctionnalités.
+
