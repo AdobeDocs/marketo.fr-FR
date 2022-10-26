@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 0ee977037504930b6e8ba4de3ea7b8e9e6859260
 workflow-type: tm+mt
-source-wordcount: '8831'
+source-wordcount: '8818'
 ht-degree: 5%
 
 ---
@@ -470,13 +470,11 @@ ht-degree: 5%
       + Divers {#miscellaneous}
          + [Configuration de l’intégration Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [Créer un dossier Campaign](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-         + [Importation de ressources avec Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
          + [Glossaire des raccourcis clavier](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [Gestion de la confidentialité](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [Demandes d’accès à des informations personnelles](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Renommer une ressource Marketo](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Synchronisation d’une audience à partir de Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Présentation des dossiers](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Présentation des notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Types de notification](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
