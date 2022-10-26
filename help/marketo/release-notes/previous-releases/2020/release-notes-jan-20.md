@@ -3,7 +3,7 @@ unique-page-id: 37355534
 description: Notes de mise à jour - Jan 2020 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
-source-git-commit: 153c6a05be7ef94a0bc8b591b8f2eebdf879c5db
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 1%
@@ -24,7 +24,7 @@ Les fonctionnalités suivantes seront publiées sur **17 janvier 2020**.
 
 ## Adobe Marketo Engage principal {#core-marketo-engage-adobe-application}
 
-* [Sélecteur de ressources Adobe Experience Manager](/help/marketo/product-docs/adobe-experience-cloud-integrations-overview/importing-assets-with-adobe-experience-manager.md): Accédez rapidement aux ressources qui correspondent à votre marque avec les ressources AEM disponibles directement dans Marketo Engage. Remarque : Bien que cette fonctionnalité soit disponible dans nos expériences Marketo Sky et classique, les fonctionnalités administratives se trouvent dans notre expérience classique. Vous devez être client d’AEM Assets et disposer de la version 6.5 ou supérieure.
+* [Sélecteur de ressources Adobe Experience Manager](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md): Accédez rapidement aux ressources qui correspondent à votre marque avec les ressources AEM disponibles directement dans Marketo Engage. Remarque : Bien que cette fonctionnalité soit disponible dans nos expériences Marketo Sky et classique, les fonctionnalités administratives se trouvent dans notre expérience classique. Vous devez être client d’AEM Assets et disposer de la version 6.5 ou supérieure.
 
 >[!NOTE]
 >
