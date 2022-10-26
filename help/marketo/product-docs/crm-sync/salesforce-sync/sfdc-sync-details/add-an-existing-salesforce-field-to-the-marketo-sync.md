@@ -3,7 +3,7 @@ unique-page-id: 4719308
 description: Ajout d’un champ Salesforce existant à la synchronisation Marketo - Documents Marketo - Documentation du produit
 title: Ajout d’un champ Salesforce existant à la synchronisation Marketo
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
+source-git-commit: 81bc90bcccc8073511c9f331471c0cda9f4147cb
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -20,27 +20,27 @@ En règle générale, les nouveaux champs personnalisés de Salesforce sont auto
 
 1. Cliquez sur votre nom, puis sélectionnez **Configuration**.
 
-   ![](assets/image2015-6-30-14-3a20-3a6.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. Saisissez **profile** dans la barre de recherche de gauche, puis cliquez sur **Profils** sous **Gérer les utilisateurs**.
+1. Entrée **profile** dans la barre de recherche de gauche, puis cliquez sur **Profils** under **Gestion des utilisateurs**.
 
-   ![](assets/image2015-6-30-14-3a20-3a52.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
 1. Cliquez sur le profil de l’utilisateur de synchronisation.
 
-   ![](assets/image2015-6-30-14-3a23-3a41.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
-1. Dans la section **Sécurité au niveau du champ** , cliquez sur **Afficher** en regard de l’objet qui contient le champ .
+1. Sous , **Sécurité au niveau du champ** , cliquez sur **Affichage** en regard de l’objet qui contient le champ .
 
-   ![](assets/image2015-6-30-14-3a23-3a59.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
 1. Cliquez sur **Modifier**.
 
-   ![](assets/image2015-6-30-14-3a24-3a28.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 
-1. Cochez la case **Visible** correspondant au champ que vous souhaitez ajouter à la synchronisation, puis cliquez sur **Enregistrer**.
+1. Vérifiez les **Visible** pour le champ que vous souhaitez ajouter à la synchronisation, puis cliquez sur **Enregistrer**.
 
-   ![](assets/image2015-6-30-14-3a24-3a49.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 
    Doux ! Lors du cycle de synchronisation suivant, Marketo voit le champ et démarre la magie.
 
