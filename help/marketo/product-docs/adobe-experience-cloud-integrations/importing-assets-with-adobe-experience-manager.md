@@ -28,23 +28,23 @@ Le sélecteur de ressources permet aux clients Marketo d’accéder à des resso
 
 1. Cliquez sur **Design Studio**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
+   ![](assets/one-1.png)
 
 1. Cliquez sur la liste déroulante Nouveau et sélectionnez **Importation depuis Adobe Experience Manager**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
+   ![](assets/two-1.png)
 
 1. Sélectionnez le dossier dans lequel vos images seront enregistrées.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
+   ![](assets/three-1.png)
 
 1. Connectez-vous à Adobe Experience Manager (si ce n’est déjà fait).
 
-   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
+   ![](assets/four-1.png)
 
 1. Sélectionnez votre dossier. Sélectionnez ensuite les images de votre choix en cliquant sur la miniature (vous pouvez choisir jusqu’à 10). Cliquez sur **Sélectionner** une fois terminé.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
+   ![](assets/five.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ Le sélecteur de ressources permet aux clients Marketo d’accéder à des resso
 
 1. Cliquez sur **Importer** pour terminer le processus.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
+   ![](assets/six-1.png)
 
    Et voilà ! Cliquez sur **Fermer** pour revenir à Design Studio.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
+   ![](assets/seven-1.png)
 
 ## Informations à noter {#things-to-note}
 
