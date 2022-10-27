@@ -3,9 +3,9 @@ description: Présentation de la création de rapports - Documents Marketo - Doc
 title: Présentation des rapports
 hide: true
 hidefromtoc: true
-source-git-commit: 9873a01d8828e247a5cb60b88b5239721226615d
+source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '413'
 ht-degree: 1%
 
 ---
@@ -17,15 +17,15 @@ Marketo propose divers modules de création de rapports en fonction des besoins.
 
 ## Reporting de base {#basic-reporting}
 
-Vous pouvez configurer des rapports de base dans les programmes ou dans la zone Analytics. Les rapports de base se composent de différents types de rapports d’usine, avec la possibilité de filtrer, de trier et d’ajuster les décalages horaires.
+Vous pouvez configurer [rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target=&quot;_blank&quot;} dans les programmes ou dans la zone Analytics. Les rapports de base se composent de différents types de rapports d’usine, avec la possibilité de filtrer, de trier et d’ajuster les décalages horaires.
 
 ## Email Insights {#email-insights}
 
-Utilisez Analytics et les envois pour obtenir des informations puissantes à partir de données historiques.
+Utilisez Analytics et les envois pour obtenir [informations puissantes](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;} sur les emails provenant de données historiques.
 
 ## Informations sur les performances {#performance-insights}
 
-Le rapport Performance Insights couvre les performances des canaux et des programmes pour l’engagement, le pipeline et la génération de recettes.
+[Informations sur les performances](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;} couvre les performances des canaux et les performances des programmes pour l’engagement, le pipeline et la génération des recettes.
 
 ## Rapports décisionnels avancés Analytics {#advanced-bi-analytics-reporting}
 
@@ -35,7 +35,7 @@ _(précédemment connu sous le nom d’Explorateur de cycle des recettes/Report 
 >
 >Tous les clients n’ont pas acheté les modules Advanced BI Analytics et Advanced Parcours Analytics. Pour plus d’informations, contactez votre gestionnaire de succès client.
 
-Suivez le retour sur investissement de vos initiatives marketing. Analysez les courriers électroniques, les pistes, les programmes, les opportunités, l’analyse des performances des modèles (sociétés) et l’analyse des performances des modèles (pistes). L’explorateur de BI vous permet de créer des rapports personnalisés dans la zone d’analyse et de créer des graphiques, des graphiques, des pivots et des tableaux de bord avec vos données.
+Suivez le retour sur investissement de vos initiatives marketing. Analysez les e-mails, les personnes, les programmes, les opportunités, l’analyse des performances des modèles (sociétés) et l’analyse des performances des modèles (pistes). L’explorateur de BI vous permet de créer des rapports personnalisés dans la zone d’analyse et de créer des graphiques, des graphiques, des pivots et des tableaux de bord avec vos données.
 
 Voici quelques-uns des avantages avancés de la création de rapports BI Analytics :
 
@@ -55,6 +55,10 @@ Voici quelques-uns des avantages avancés de la création de rapports BI Analyti
 
 ## Analyses de Parcours avancées {#advanced-journey-analytics}
 
+>[!AVAILABILITY]
+>
+>Tous les clients n’ont pas acheté les modules Advanced BI Analytics et Advanced Parcours Analytics. Pour plus d’informations, contactez votre gestionnaire de succès client.
+
 Modèles de cycle des recettes : modélisez toutes les étapes de l’entonnoir de recettes entier et de la manière dont ils passent d’une étape à l’autre, du moment où vous interagissez pour la première fois avec une piste jusqu’à ce que la piste soit un client unique.
 
 Analyseur de chemins de succès : obtenez une représentation visuelle de la vitesse et du flux dans votre modèle de cycle de revenus. L’analyseur de chemins de succès requiert que vous créiez des modèles de cycle de revenus.
@@ -65,7 +69,7 @@ Analyseur de l’influence sur les opportunités - Prouvez la contribution de Ma
 
 >[!NOTE]
 >
->L’analyse des performances des modèles (sociétés) et l’analyse des performances des modèles (pistes) avec l’explorateur de cycle des recettes dépendent du modèle de cycle des recettes.
+>L’analyse des performances des modèles (sociétés) et l’analyse des performances des modèles (Leads) avec la création de rapports décisionnels avancés d’Analytics dépendent du modèle de cycle de revenus créé dans le produit d’analyse de Parcours avancé.
 
 
 
