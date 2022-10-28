@@ -3,7 +3,7 @@ description: Présentation de la création de rapports - Documents Marketo - Doc
 title: Présentation des rapports
 hide: true
 hidefromtoc: true
-source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
+source-git-commit: fe5d940b9f5e2cec919a52377226d46f708b8a01
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 1%
@@ -59,13 +59,13 @@ Voici quelques-uns des avantages avancés de la création de rapports BI Analyti
 >
 >Tous les clients n’ont pas acheté les modules Advanced BI Analytics et Advanced Parcours Analytics. Pour plus d’informations, contactez votre gestionnaire de succès client.
 
-Modèles de cycle des recettes : modélisez toutes les étapes de l’entonnoir de recettes entier et de la manière dont ils passent d’une étape à l’autre, du moment où vous interagissez pour la première fois avec une piste jusqu’à ce que la piste soit un client unique.
+Modèles de cycle des recettes : modélisez toutes les étapes de l’entonnoir de chiffre d’affaires entier et la manière dont elles passent d’une étape à l’autre, depuis le moment où vous interagissez tout au long du processus jusqu’à ce que le prospect soit un client unique.
 
-Analyseur de chemins de succès : obtenez une représentation visuelle de la vitesse et du flux dans votre modèle de cycle de revenus. L’analyseur de chemins de succès requiert que vous créiez des modèles de cycle de revenus.
+Analyseur de chemins de succès : Obtenez une représentation visuelle de la vitesse et du flux dans votre modèle de cycle de revenu. L’analyseur de chemins de succès requiert que vous créiez des modèles de cycle de revenus.
 
-Analyseur de programme : identifiez rapidement les programmes qui réussissent ou non et ciblez vos ressources de manière appropriée. Utilisez l’analyseur de programme pour analyser et comparer chaque coût et retour en détail par programme ou canal.
+Program Analyzer : Identifiez rapidement les programmes qui fonctionnent ou non et affectez vos ressources de manière appropriée. Utilisez l’analyseur de programme pour analyser et comparer chaque coût et retour en détail par programme ou canal.
 
-Analyseur de l’influence sur les opportunités - Prouvez la contribution de Marketing en mesurant l’impact des programmes et des engagements clés qui ont généré des opportunités.
+Analyseur d’influence d’opportunité : Démontrez la contribution de Marketing en mesurant l’impact des programmes et des engagements clés qui ont généré des opportunités.
 
 >[!NOTE]
 >
