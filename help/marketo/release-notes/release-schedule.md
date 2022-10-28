@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: Calendrier des versions - Documents Marketo - Documentation du produit
 title: Calendrier des versions
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 18a09eb1d41d76b35072f45d0bdb3c66908a6335
+source-git-commit: 8f620f5eca32bd9f58c95f02678be4914acfa158
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 5%
+source-wordcount: '140'
+ht-degree: 2%
 
 ---
 
@@ -37,33 +37,39 @@ _Les dates de publication peuvent être modifiées._
    <th width="250px">Statut</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-jan-22.md">22 janvier</a></td>
-   <td>21 janvier 2022</td>
-   <td>Expédié</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-mar-22.md">22 mars</a></td>
-   <td>11 mars 2022</td>
-   <td>Expédié</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-may-22.md">22 mai</a></td>
-   <td>6 mai 2022</td>
-   <td>Expédié</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-june-22.md">22 juin</td>
-   <td>24 juin 2022</td>
-   <td>Expédié</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-aug-22.md">22 août</td>
-   <td>26 août 2022</td>
-   <td>Expédié</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/current.md">22 octobre</td>
    <td>14 octobre 2022</td>
+   <td>Expédié</td>
+  </tr>
+  <tr> 
+   <td>23 janvier</td>
+   <td>20 janvier 2023</td>
+   <td>À la planification</td>
+  </tr>
+  <tr> 
+   <td>23 mars</td>
+   <td>24 mars 2023</td>
+   <td>À la planification</td>
+  </tr>
+  <tr> 
+   <td>23 mai</td>
+   <td>19 mai 2023</td>
+   <td>À la planification</td>
+  </tr>
+  <tr> 
+   <td>23 juillet</td>
+   <td>21 juillet 2023</td>
+   <td>À la planification</td>
+  </tr>
+  <tr>
+   <td>23 septembre</td>
+   <td>8 septembre 2023</td>
+   <td>À la planification</td>
+  </tr>
+
+<tr>
+   <td>23 octobre</td>
+   <td>20 octobre 2023</td>
    <td>À la planification</td>
   </tr>
  </tbody>
