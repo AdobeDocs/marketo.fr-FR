@@ -1,9 +1,9 @@
 ---
 description: Présentation de la création de rapports - Documents Marketo - Documentation du produit
 title: Présentation des rapports
-source-git-commit: 79f09e37378a232fd4a254131f4eccb730ab263e
+source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '392'
 ht-degree: 1%
 
 ---
@@ -52,10 +52,6 @@ Voici quelques-uns des avantages avancés de la création de rapports BI Analyti
 * Visualisation sous forme graphique, cartes thermiques et courbes de distribution
 
 ## Analyses de Parcours avancées {#advanced-journey-analytics}
-
->[!AVAILABILITY]
->
->Tous les clients n’ont pas acheté les modules Advanced BI Analytics et Advanced Parcours Analytics. Pour plus d’informations, contactez votre gestionnaire de succès client.
 
 Modèles de cycle des recettes : modélisez toutes les étapes de l’entonnoir de chiffre d’affaires entier et la manière dont elles passent d’une étape à l’autre, depuis le moment où vous interagissez tout au long du processus jusqu’à ce que le prospect soit un client unique.
 
