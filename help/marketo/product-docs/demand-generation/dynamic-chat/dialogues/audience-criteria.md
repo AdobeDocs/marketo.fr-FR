@@ -2,9 +2,9 @@
 description: Critères d’audience - Documents Marketo - Documentation du produit
 title: Critère d’audience
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
+source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
 workflow-type: tm+mt
-source-wordcount: '499'
+source-wordcount: '548'
 ht-degree: 2%
 
 ---
@@ -13,27 +13,33 @@ ht-degree: 2%
 
 Tout comme les listes dynamiques Marketo, les attributs Critères d’audience vous permettent de définir votre audience cible. Vous pouvez cibler des personnes connues ou inconnues à l’aide d’attributs déduits, de personnes ou de société (ou d’une combinaison de ces attributs).
 
+## Priorité {#priority}
+
+La priorité détermine le dialogue qu’un prospect reçoit lorsqu’il remplit les conditions requises pour plus d’un. Elle est établie la première fois que vous [créer votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}. Vous pouvez modifier la priorité d’un dialogue existant en l’ouvrant et en accédant à **Détails de la boîte de dialogue** dans l’onglet Critères d’audience .
+
+![](assets/audience-criteria-1.png)
+
 ## Événements {#events}
 
-![](assets/audience-criteria-0.png)
+![](assets/audience-criteria-2.png)
 
 Les événements vous permettent de cibler les visiteurs en fonction de la durée de leur défilement ou de la durée pendant laquelle ils se trouvent sur votre page/site. Dans l’exemple ci-dessous, nous ciblons les visiteurs qui se trouvent sur une page spécifique depuis plus de 20 secondes.
 
 1. Attrapez le **Durée sur la page** et faites-le glisser vers la droite.
 
-   ![](assets/audience-criteria-0a.png)
+   ![](assets/audience-criteria-3.png)
 
 1. Définissez l’heure &quot;Supérieur à&quot; sur 20 secondes.
 
-   ![](assets/audience-criteria-0b.png)
+   ![](assets/audience-criteria-4.png)
 
 1. Ajoutez l’URL de la page souhaitée dans la [Cible](#target) .
 
-   ![](assets/audience-criteria-0c.png)
+   ![](assets/audience-criteria-5.png)
 
 ## Attributs {#attributes}
 
-![](assets/audience-criteria-0d.png)
+![](assets/audience-criteria-6.png)
 
 **Personnes connues**
 
@@ -41,15 +47,15 @@ Il y a _many_ combinaisons d’attributs parmi lesquelles choisir. Dans l’exem
 
 1. Attrapez le **État de la personne** et faites-le glisser vers la droite.
 
-   ![](assets/audience-criteria-1.png)
+   ![](assets/audience-criteria-7.png)
 
 1. _Is_ est défini par défaut. Dans le champ Sélectionner les valeurs , saisissez CA (vous pouvez également cliquer sur la liste déroulante et sélectionner dans la liste).
 
-   ![](assets/audience-criteria-2.png)
+   ![](assets/audience-criteria-8.png)
 
 1. Attrapez le **Taille de l’entreprise** Attribuez-le et faites-le glisser à l’endroit où il indique _faire glisser un attribut ici ;_.
 
-   ![](assets/audience-criteria-3.png)
+   ![](assets/audience-criteria-9.png)
 
    >[!NOTE]
    >
@@ -57,11 +63,11 @@ Il y a _many_ combinaisons d’attributs parmi lesquelles choisir. Dans l’exem
 
 1. Cliquez sur la liste déroulante des opérateurs et sélectionnez **Supérieur à**.
 
-   ![](assets/audience-criteria-4.png)
+   ![](assets/audience-criteria-10.png)
 
 1. Saisissez 50, puis cliquez ailleurs à l’écran pour enregistrer.
 
-   ![](assets/audience-criteria-5.png)
+   ![](assets/audience-criteria-11.png)
 
 Et voilà !
 
@@ -71,15 +77,15 @@ Il existe un moyen simple de cibler spécifiquement les personnes qui ne se trou
 
 1. Attrapez le **Adresse électronique de la personne** et faites-le glisser vers la droite.
 
-   ![](assets/audience-criteria-6.png)
+   ![](assets/audience-criteria-12.png)
 
 1. Cliquez sur la liste déroulante des opérateurs et sélectionnez **Est vide**.
 
-   ![](assets/audience-criteria-7.png)
+   ![](assets/audience-criteria-13.png)
 
 1. Attrapez le **État déduit** Attribuez-le et faites-le glisser à l’endroit où il indique _faire glisser un attribut ici ;_.
 
-   ![](assets/audience-criteria-8.png)
+   ![](assets/audience-criteria-14.png)
 
    >[!NOTE]
    >
@@ -87,15 +93,15 @@ Il existe un moyen simple de cibler spécifiquement les personnes qui ne se trou
 
 1. _Is_ est défini par défaut. Dans le champ Sélectionner les valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 
-   ![](assets/audience-criteria-9.png)
+   ![](assets/audience-criteria-15.png)
 
 ## Ajout de groupes {#add-groups}
 
 Vous avez également la possibilité de regrouper des attributs, au cas où vous souhaitez tous avoir certains attributs avec &quot;tous ou n’importe lequel&quot; d’un autre. Vous pouvez ajouter plusieurs groupes.
 
-![](assets/audience-criteria-10.png)
+![](assets/audience-criteria-16.png)
 
-![](assets/audience-criteria-11.png)
+![](assets/audience-criteria-17.png)
 
 ## Cible {#target}
 
@@ -116,7 +122,7 @@ Formats acceptables :
 
 Utilisez les exclusions pour vous assurer que votre dialogue fonctionne **not** s’affichent sur une page/zone spécifique de votre site. Les exclusions suivent le même format que les inclusions.
 
-![](assets/audience-criteria-12.png)
+![](assets/audience-criteria-18.png)
 
 >[!MORELIKETHIS]
 >

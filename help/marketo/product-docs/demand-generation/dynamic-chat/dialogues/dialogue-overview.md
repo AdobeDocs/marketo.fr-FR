@@ -2,7 +2,7 @@
 description: Présentation de dialogue - Documents Marketo - Documentation du produit
 title: Présentation de la boîte de dialogue
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 2%
@@ -15,7 +15,7 @@ Les dialogues sont des conversations individuelles. Dans chaque dialogue, vous d
 
 ## Critère d’audience {#audience-criteria}
 
-Le [Critères d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)La section {target=&quot;_blank&quot;} d’un dialogue indique où vous allez définir où et à qui votre conversation de chat s’affichera.
+Le [Critères d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)La section {target=&quot;_blank&quot;} d’un dialogue indique où vous allez définir où et à qui votre conversation de chat sera affichée.
 
 ![](assets/dialogue-overview-1.png)
 
