@@ -2,9 +2,9 @@
 description: Filtrage de l’activité des robots de messagerie électronique - Documents Marketo - Documentation du produit
 title: Filtrage de l’activité des robots de messagerie
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 32e635cf2c37f078737103653c706ad7b1afb515
+source-git-commit: f5a4fa76510cc70fe5b4746d58c6e0d4daf93a72
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,11 @@ Parfois, l’activité de robots de messagerie peut gonfler par erreur les ouver
 Nous utilisons trois méthodes distinctes pour confirmer l’activité des robots :
 
 * Correspondance avec [Liste de robots Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;} : Les activités qui correspondent à tout élément de la liste UA/IP de l’IAB (Agent utilisateur/Adresse IP) seront marquées comme des robots.
-* Correspondance avec le modèle de proximité : Lorsque plus de deux activités se produisent en même temps (en moins d’une seconde), elles sont identifiées comme des robots.
+* Correspondance avec le modèle de proximité : Lorsque plus de deux activités se produisent en même temps (en moins d’une seconde), elles sont identifiées comme des robots. Les attributs pris en compte lors de la comparaison sont les suivants :
+   * Identifiant de piste (doit être le même)
+   * Ressource de messagerie électronique (doit être identique)
+   * Clic sur un lien ou ouverture d’un courrier électronique
+   * Différence horaire (doit être inférieure à une seconde)
 
 Par rapport aux clics sur les liens de courrier électronique et à l’activité d’ouverture de courrier électronique, de nouveaux attributs seront renseignés avec les valeurs ci-dessous :
 
