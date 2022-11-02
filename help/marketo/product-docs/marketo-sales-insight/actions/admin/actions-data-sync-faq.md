@@ -2,9 +2,9 @@
 description: FAQ sur la synchronisation des données d’actions - Documents Marketo - Documentation du produit
 title: FAQ sur la synchronisation des données d’actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3f00a7088a71bbdf028fd6b0a57da57ea13ca5de
+source-git-commit: fbeb28b1b89fb329a4b45fb01dbad7df939ddc0c
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1050'
 ht-degree: 3%
 
 ---
@@ -55,6 +55,8 @@ Pour garantir que toutes les données d’activité peuvent être obtenues à pa
 * Nom de famille
 * Identifiant de contact Salesforce
 * Identifiant de prospect Salesforce
+* Identifiant de compte Salesforce
+* Identifiant d’opportunité Salesforce
 * ID de Marketo
 * Société
 * Titre
