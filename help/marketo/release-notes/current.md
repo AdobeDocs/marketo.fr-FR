@@ -2,10 +2,10 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 538622707eec53e9a137e9aed7ec448d379efe43
+source-git-commit: c932466d9307768e9635150e499e4eabcad7c83b
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 0%
+source-wordcount: '553'
+ht-degree: 5%
 
 ---
 
@@ -17,23 +17,65 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 >
 >Fonctionnalités signalées par une étoile (![star](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage.
 
-Les fonctionnalités suivantes commenceront à être publiées sur **14 octobre 2022**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes (sauf indication contraire). Les fonctionnalités de publication et les dates exactes peuvent être modifiées.
+Les fonctionnalités suivantes commenceront à être publiées sur **14 octobre 2022**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
 
 ## Orchestration cross-canal {#cross-channel-orchestration}
 
 * **Organiser automatiquement les flux de dialogue pour la conversation dynamique**: Améliorez votre canevas de dialogue bondé en organisant tout sur la zone de travail dans un format propre et facile à lire en appuyant sur un bouton via l’option Réorganiser automatiquement.
 
-* **Prise en charge des types de données supplémentaires pour Dynamic Chat**: Trois nouveaux types de données (booléen, entier, flottant) vous permettent d’exploiter d’autres champs de Marketo Engage existants dans Dynamic Chat pour des tâches comme le ciblage en fonction des scores ou la demande de questions oui/non aux visiteurs.
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">Icônes du concepteur de diffusion en continu</a></td>
+  </tr>
+  </tbody>
+</table>
 
 * **Liens de réunion pour la conversation dynamique**: Option permettant d’inclure automatiquement un lien Equipes ou Rencontrer pour Google et Outlook dans chaque invitation calendaire envoyée aux visiteurs.
 
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Icônes du concepteur de diffusion en continu</a></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Prise en charge des types de données supplémentaires pour Dynamic Chat**: Trois nouveaux types de données (booléen, entier, flottant) vous permettent d’exploiter d’autres champs de Marketo Engage existants dans Dynamic Chat pour des tâches comme le ciblage en fonction des scores ou la demande de questions oui/non aux visiteurs.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td>Disponible bientôt</td>
+   <td>s/o</td>
+  </tr>
+  </tbody>
+</table>
+
 * **Notifications de réunion planifiées pour la messagerie instantanée**: Les représentants commerciaux reçoivent des notifications par e-mail automatisées concernant les réunions planifiées ainsi que toute information pertinente sur l’interaction de chatbot du visiteur.
 
-* **Rôles et autorisations pour Dynamic Chat**: Les administrateurs peuvent utiliser des autorisations granulaires pour contrôler la visibilité et l’utilisation de l’application et créer des rôles utilisateur personnalisés.
-
-   * Accès complet : les utilisateurs peuvent profiter pleinement de cette fonctionnalité (par exemple, publier des boîtes de dialogue, changer de modèle de couleur, etc.)
-   * Accès en lecture seule : les utilisateurs peuvent consulter les informations mais ne peuvent pas apporter de modifications (par exemple, voir Critères d’audience ou Concepteur de diffusion en continu, mais pas modifier).
-   * Accès restreint : les utilisateurs ne peuvent pas afficher ni accéder aux sections Configuration ou Intégrations .
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td>Disponible bientôt</td>
+   <td>s/o</td>
+  </tr>
+  </tbody>
+</table>
 
 ## Expérience de nouvelle génération {#next-generation-experience}
 
@@ -42,23 +84,95 @@ Les fonctionnalités suivantes commenceront à être publiées sur **14 octobre 
    * Détails du modèle de page d’entrée
    * Liste des modèles de courrier électronique
 
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Basculer entre les deux</a></td>
+  </tr>
+  </tbody>
+</table>
+
 * **Amélioration de l’option Utilisé par l’onglet Détails du modèle de courrier électronique**: Dans la nouvelle expérience, vous verrez des informations supplémentaires relatives aux ressources à l’aide du modèle de courrier électronique, notamment Asset Status (État de la ressource), Last Modified (Dernière modification) et Last Modified By (Dernière modification). Vous pouvez également rechercher, trier et filtrer la liste des ressources utilisées.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td>Expédié</td>
+   <td>s/o</td>
+  </tr>
+  </tbody>
+</table>
 
 * **Modèles de filtre de ressources de rapport**: Nouvelle conception des modèles de configuration de rapport affichant une nouvelle arborescence de ressources dans le menu de configuration et un filtre pour Date de création et de modification.
 
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td>Expédié</td>
+   <td>s/o</td>
+  </tr>
+  </tbody>
+</table>
+
 ## Environnement de données marketing {#marketing-data-environment}
 
-* **Intégration d’Adobe Privacy Service**: Harmonisez-vous avec Privacy Service afin d’automatiser la conformité aux réglementations de confidentialité des données dans les produits Experience Cloud. Actuellement, ce service n’est disponible que pour les clients Marketo Engage qui ont intégré le [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)Système {target=&quot;_blank&quot;}.
+* **Intégration d’Adobe Privacy Service**: Harmonisez-vous avec Privacy Service afin d’automatiser la conformité aux réglementations de confidentialité des données dans les produits Experience Cloud. Actuellement, ce service n’est disponible que pour les clients Marketo Engage intégrés au système Identity Management Adobe.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
+  </tr>
+  </tbody>
+</table>
 
 ## Améliorations des API {#api-enhancements}
 
 * **Importation de pistes en bloc : Association des vendeurs**: Parité avec l’API REST Lead pour pouvoir associer des prospects aux vendeurs au cours du processus d’importation de prospects en masse, ce qui réduit la complexité et le nombre d’appels API requis.
 
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td>Expédié</td>
+   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Importation de pistes en bloc</a></td>
+  </tr>
+  </tbody>
+</table>
+
 ## Sales Insight {#sales-insight}
 
 ![(étoile)](assets/yellow-star.png)
 
-* **[Intégration de Sales Insight à Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Le tableau de bord des statistiques comprend désormais des activités de conversation dynamique dans la grille dynamique, ainsi qu’un résumé hebdomadaire et des cartes détaillées.
+* **Intégration de Sales Insight à Dynamic Chat**: Le tableau de bord des statistiques comprend désormais des activités de conversation dynamique dans la grille dynamique, ainsi qu’un résumé hebdomadaire et des cartes détaillées.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Intégration de tchat dynamique</a></td>
+  </tr>
+  </tbody>
+</table>
 
 ## Annonces {#announcements}
 
