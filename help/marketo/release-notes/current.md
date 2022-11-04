@@ -2,7 +2,7 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9f4282991ba2ec35cfe6f50ede5d663e105682f4
+source-git-commit: ae2e1a476916e752cbde26a7c1322929fec85e4b
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 6%
@@ -57,7 +57,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **14 octobre 
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td>Disponible bientôt</td>
+   <td><i>Disponible bientôt</i></td>
    <td>s/o</td>
   </tr>
   </tbody>
@@ -71,7 +71,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **14 octobre 
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td>Disponible bientôt</td>
+   <td><i>Disponible bientôt</i></td>
    <td>s/o</td>
   </tr>
   </tbody>
