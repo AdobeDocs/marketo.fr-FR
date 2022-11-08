@@ -1,13 +1,13 @@
 ---
 description: Présentation de la création de rapports - Documents Marketo - Documentation du produit
 title: Présentation des rapports
-source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
+exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
+source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 1%
 
 ---
-
 
 # Présentation des rapports {#reporting-overview}
 
@@ -64,8 +64,3 @@ Analyseur d’influence d’opportunité : Démontrez la contribution de Marketi
 >[!NOTE]
 >
 >L’analyse des performances des modèles (sociétés) et l’analyse des performances des modèles (Leads) avec la création de rapports décisionnels avancés d’Analytics dépendent du modèle de cycle de revenus créé dans le produit d’analyse de Parcours avancé.
-
-
-
-
-
