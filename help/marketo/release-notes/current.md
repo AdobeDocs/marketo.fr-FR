@@ -2,7 +2,7 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 5%
@@ -22,6 +22,8 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **14 octobre 2022**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
 
 ### Expérience de nouvelle génération {#next-generation-experience}
+
+</br>
 
 * **Mise à jour d’Screens dans l’expérience de nouvelle génération**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
 
@@ -70,6 +72,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 ### Environnement de données marketing {#marketing-data-environment}
 
+</br>
+
 * **Intégration d’Adobe Privacy Service**: Harmonisez-vous avec Privacy Service afin d’automatiser la conformité aux réglementations de confidentialité des données dans les produits Experience Cloud. Actuellement, ce service n’est disponible que pour les clients Marketo Engage intégrés au système Identity Management Adobe.
 
 <table> 
@@ -86,6 +90,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 ### Améliorations des API {#api-enhancements}
 
+</br>
+
 * **Importation de pistes en bloc : Association des vendeurs**: Parité avec l’API REST Lead pour pouvoir associer des prospects aux vendeurs au cours du processus d’importation de prospects en masse, ce qui réduit la complexité et le nombre d’appels API requis.
 
 <table> 
@@ -101,6 +107,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 </table>
 
 ### Sales Insight {#sales-insight}
+
+</br>
 
 ![(étoile)](assets/yellow-star.png)
 

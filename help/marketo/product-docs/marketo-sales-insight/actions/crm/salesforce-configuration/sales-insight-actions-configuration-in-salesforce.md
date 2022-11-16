@@ -2,9 +2,9 @@
 description: Configuration des actions Sales Insight dans Salesforce - Documents Marketo - Documentation du produit
 title: Configuration des actions d’aperçu des ventes dans Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,15 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. Saisissez le Nom du site distant (il peut s’agir de &quot;MarketoSalesInsight&quot;). Saisissez l’URL du site distant (https://ims-na1-stg1.adobelogin.com) et cliquez sur **Enregistrer**.
+1. Saisissez le Nom du site distant (il peut s’agir de &quot;MarketoSalesInsight1&quot;). Saisie de l’URL du site distant `https://ims-na1.adobelogin.com` et cliquez sur **Enregistrer**.
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
+
+1. Cliquez sur **Nouveau site distant** encore une fois.
+
+   ![](assets/msi-actions-configuration-in-salesforce-4a.png)
+
+1. Saisissez le Nom du site distant (il peut s’agir de &quot;MarketoSalesInsight2&quot;). Entrée dans l’URL du site distant `https://mkto-sales-connect.adobe.io` et cliquez sur **Enregistrer**.
 
 ## Activation des actions Sales Insight dans le CRM {#enabling-sales-insight-actions-across-the-crm}
 
