@@ -2,7 +2,7 @@
 description: Règles de validation de formulaire globales - Documents Marketo - Documentation du produit
 title: Règles de validation de formulaire globales
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: c91fa08bcb833a4c8a65055fd2471d7bc03a4e71
+source-git-commit: 2736e8a0456de76b9894312c26f6ba9c0345daee
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -69,7 +69,7 @@ Avant de pouvoir utiliser cette fonction, vous devez activer son autorisation se
 
 >[!NOTE]
 >
->Marketo Engage dispose d’une liste bloquée définie de domaines d’e-mail de consommateur gratuits qui sont bloqués lors de l’utilisation de notre règle &quot;Liste bloquée de domaine d’e-mail de consommateur&quot; préchargée. [Afficher cette liste ici](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+>Marketo Engage dispose d’une liste bloquée définie de domaines d’e-mail de consommateur gratuits qui sont bloqués lors de l’utilisation de notre règle &quot;Liste bloquée de domaine d’e-mail de consommateur&quot; préchargée. [Afficher cette liste ici](/help/marketo/product-docs/administration/settings/assets/freemaildomains_2023.csv).
 
 ## Comment désactiver l’accès par formulaire{#how-to-disable-access-per-form}
 
