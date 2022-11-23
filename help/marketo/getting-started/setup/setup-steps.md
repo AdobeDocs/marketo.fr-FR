@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: Procédure de configuration - Documents Marketo - Documentation du produit
 title: Étapes de configuration
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
+source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
 workflow-type: tm+mt
-source-wordcount: '2002'
+source-wordcount: '2085'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Certaines étapes nécessitent l’aide de votre équipe informatique.
 
    ![](assets/setup-steps-1.png)
 
-Félicitations ! Vous êtes maintenant dans Marketo et vous pouvez commencer à explorer. Vous pouvez inviter vos collègues de l’équipe marketing à vous rejoindre. Pour ce faire, ajoutez de nouveaux utilisateurs.
+Félicitations ! Vous êtes maintenant dans Marketo et pouvez commencer à explorer. Vous pouvez inviter vos collègues de l’équipe marketing à vous rejoindre. Pour ce faire, ajoutez de nouveaux utilisateurs.
 
 Cliquez sur l&#39;icône **Admin**.
 
@@ -139,7 +139,7 @@ Copiez la chaîne de compte des paramètres de la page d’entrée.
 
 Il s’agit de la variable `[AccountString]`. Enregistrez-le. Vous devrez le donner au service informatique à l’étape 5.
 
-Configurez les paramètres de votre domaine de sorte que les pages d’entrée utilisent le domaine de votre entreprise au lieu de celui de Marketo (où elles sont hébergées).
+Configurez les paramètres de votre domaine de sorte que les landing pages utilisent le domaine de votre entreprise au lieu de Marketo (où elles sont hébergées).
 
 ## Assurer la délivrabilité des emails {#ensure-email-deliverability}
 
@@ -149,10 +149,10 @@ Configurez les paramètres de votre domaine de sorte que les pages d’entrée u
 
 Vous pouvez prendre plusieurs mesures pour vous assurer que les emails atteignent le plus grand nombre possible de vos destinataires.
 
-* **Marque vos liens de suivi**. Vous pouvez choisir un CNAME pour utiliser votre propre domaine (au lieu de celui de Marketo) dans les liens que vous incluez dans les courriers électroniques de Marketo. Cela renforce la marque de votre domaine et accroît la confiance et la délivrabilité de vos destinataires.
+* **Marque vos liens de suivi**. Vous pouvez choisir un CNAME pour utiliser votre propre domaine (au lieu de Marketo) dans les liens que vous incluez dans les courriers électroniques de Marketo. Cela renforce la marque de votre domaine et accroît la confiance et la délivrabilité de vos destinataires.
 * **Ajoutez Marketo à la liste autorisée de messagerie de votre entreprise.** Il est recommandé d’envoyer des emails de test à vos comptes de test avant d’envoyer des emails à des personnes réelles. En plaçant sur la liste autorisée Marketo, vous pouvez empêcher que ces emails de test ne soient bloqués ou marqués comme spam.
-* **Configurez SPF et DKIM.** Ces technologies assurent vos destinataires que vos emails Marketo ne sont pas des spams. Pour empêcher les filtres de spam des destinataires de rejeter les emails Marketo, procédez comme suit pour [Configuration d’un SPF et DKIM pour la délivrabilité de vos emails](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
-* **Configurez un enregistrement MX pour votre domaine.** Un enregistrement MX vous permet de recevoir du courrier électronique vers le domaine à partir duquel vous envoyez le courrier électronique pour traiter les réponses et les réponses automatiques. Si vous envoyez des messages depuis votre domaine d’entreprise, il est probable que vous ayez déjà configuré ce message. Si ce n’est pas le cas, vous pouvez généralement configurer le mappage à l’enregistrement MX de votre domaine d’entreprise.
+* **Configurez SPF et DKIM.** Ces technologies assurent vos destinataires que vos emails Marketo ne sont pas des spams. Pour empêcher les filtres anti-spam des destinataires de rejeter les emails Marketo, procédez comme suit pour [Configuration d’un SPF et DKIM pour la délivrabilité de vos emails](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
+* **Configurez un enregistrement MX pour votre domaine.** Un enregistrement MX vous permet de recevoir du courrier électronique vers le domaine à partir duquel vous envoyez le courrier électronique pour traiter les réponses et les réponses automatiques. Si vous envoyez des messages depuis votre domaine d’entreprise, il est probable que vous ayez déjà configuré ce message. Si ce n’est pas le cas, vous pouvez généralement configurer pour mapper l’enregistrement MX de votre domaine d’entreprise.
 * **Paramètres recommandés pour l’adresse de l’expéditeur.** Vous devez utiliser un domaine d’adresse électronique valide, existant et opérationnel dans l’ adresse de l’expéditeur de toutes les campagnes par e-mail. Il peut être bénéfique de configurer un sous-domaine de votre domaine d’entreprise plutôt que de l’envoyer depuis votre domaine d’entreprise. Cela permet de s’assurer que les problèmes de votre flux de messagerie d’entreprise n’ont pas d’incidence sur votre flux de messagerie Marketo et vice versa. De plus, envoyer du courrier depuis `something@nonexistentdomain.com` entraînera le filtrage ou le blocage des emails. Tout domaine utilisé dans l’adresse de l’expéditeur doit disposer d’un compte Postmaster@ et abuse@ valide.
 
 Si vous utilisez les applications Google pour héberger votre adresse électronique d’entreprise, vous ne pourrez pas créer d’adresse électronique abuse@ ou postmaster@ sous votre domaine. Pour contourner ce problème, vous devez créer des groupes nommés &quot;abus&quot; et &quot;postmaster&quot;. Les utilisateurs membres de ces groupes recevront des emails envoyés à ces adresses (par exemple, postmaster@domain.com). Vous trouverez des instructions détaillées sur la création de groupes. [here](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}.
@@ -318,7 +318,7 @@ Dans le champ Domaine , saisissez votre domaine de tracking email. Cela doit se 
 
 ## Intégration de votre CRM {#integrate-your-crm}
 
-Il s’agit probablement de l’étape la plus passionnante de votre configuration. Il est temps de remplir Marketo avec tous les prospects et contacts que vous avez stockés dans votre CRM !
+C’est probablement l’étape la plus passionnante de votre configuration. Il est temps de remplir Marketo avec tous les contacts et prospects que vous avez stockés dans votre CRM !
 
 Choisissez l’un des éléments suivants en fonction du CRM utilisé par votre entreprise.
 
@@ -340,5 +340,9 @@ Marketo dispose d’un code JavaScript de suivi personnalisé (appelé Munchkin)
 >[!NOTE]
 >
 >Expérience avec HTML requise pour ajouter le code de suivi.
+
+## Attentes en termes de performances {#performance-expectations}
+
+À quoi pouvez-vous vous attendre en termes de performances de Marketo ? Il peut varier en fonction de la taille et de la complexité de vos campagnes marketing. Mais vous pouvez vous attendre à des niveaux de performance équivalents à ceux décrits dans la colonne &quot;Standard&quot; de plusieurs des tableaux figurant dans la variable [Description du produit Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target=&quot;_blank&quot;}. Les colonnes &quot;Performance&quot; et &quot;Performance Plus&quot; se rapportent aux packages de niveau de performance qui fournissent des [niveaux de performances supérieurs](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}.
 
 Toutes les étapes de configuration sont terminées. Il ne reste plus qu&#39;à plonger et à utiliser Marketo !
