@@ -1,32 +1,31 @@
 ---
 unique-page-id: 11378051
-description: Remplacer le domaine Principal des courriels - Marketo Docs - Documentation du produit
-title: Remplacer le domaine Principal des courriers électroniques
+description: Remplacer le domaine Principal des e-mails - Documents Marketo - Documentation du produit
+title: Remplacer le domaine Principal des emails
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-# Remplacer le domaine Principal pour les courriels {#overwrite-primary-domain-for-emails}
+# Remplacer le domaine Principal des emails {#overwrite-primary-domain-for-emails}
 
-Vous pouvez remplacer le domaine de marque Principal par courriel. Cela changera la marque des liens lors de l’envoi du courrier électronique.
+Vous pouvez remplacer le domaine de marque Principal par email. Cela modifie la marque des liens lors de l’envoi de l’email.
 
 1. Accédez à **Activités marketing**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/overwrite-primary-domain-for-emails-1.png)
 
-1. Sélectionnez un courriel et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez un email et cliquez sur **Modifier le brouillon**.
 
-   ![](assets/image2016-8-26-11-3a48-3a7.png)
+   ![](assets/overwrite-primary-domain-for-emails-2.png)
 
-1. Sélectionnez le domaine de marque que vous souhaitez utiliser.
+1. Sélectionnez le domaine de valorisation de marque que vous souhaitez utiliser.
 
-   ![](assets/image2016-8-12-11-3a5-3a29.png)
+   ![](assets/overwrite-primary-domain-for-emails-3.png)
 
    >[!NOTE]
    >
-   >Tous les utilisateurs ne sont pas autorisés à définir le domaine de marque par courriel. Contactez votre administrateur si vous ne voyez pas la liste déroulante Domaines de marque.
+   >Tous les utilisateurs ne disposent pas des autorisations nécessaires pour définir le domaine de marque par courrier électronique. Contactez votre administrateur si vous ne voyez pas la liste déroulante Domaines de marque .

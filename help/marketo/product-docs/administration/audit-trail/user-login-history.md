@@ -3,63 +3,66 @@ unique-page-id: 11377958
 description: Historique de connexion des utilisateurs - Documents Marketo - Documentation du produit
 title: Historique de connexion des utilisateurs
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Historique de connexion de l&#39;utilisateur {#user-login-history}
+# Historique de connexion des utilisateurs {#user-login-history}
 
-L&#39;historique de connexion de l&#39;utilisateur permet de maintenir la responsabilité et la sécurité en vous montrant exactement qui s&#39;est connecté à votre abonnement, y compris les tentatives de connexion ayant échoué.
+L’ historique de connexion des utilisateurs permet de garantir la responsabilité et la sécurité en vous indiquant précisément qui s’est connecté à votre abonnement, y compris les tentatives de connexion ayant échoué.
 
 >[!PREREQUISITES]
 >
->Vous devez disposer d&#39;un rôle avec l&#39;autorisation Historique de connexion d&#39;accès activée pour vue de l&#39;historique de connexion d&#39;utilisateur.
+>Vous devez disposer d’un rôle avec l’autorisation Accéder à l’historique de connexion activée pour afficher l’historique de connexion de l’utilisateur.
 
-L&#39;historique de connexion des utilisateurs identifie les personnes qui se connectent par :
+L’ historique de connexion des utilisateurs identifie les personnes qui se connectent en :
 
-* Heure et date de connexion
-* Nom d’utilisateur et adresse électronique
+* Heure de connexion et date
+* Nom et adresse électronique de l’utilisateur
 * Rôle
 * Espace de travail
 * Adresse IP
 
-Pour vue à l&#39;historique de connexion de l&#39;utilisateur :
+Pour afficher l’historique de connexion de l’utilisateur :
 
-1. Cliquez sur l&#39;onglet **Admin** et sous Sécurité, cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2016-7-12-9-3a2-3a31.png)
+   ![](assets/user-login-history-1.png)
 
-1. Cliquez sur l&#39;onglet **Historique de connexion**. La liste affiche les connexions les plus récentes.
+1. Sous Sécurité, cliquez sur **Utilisateurs et rôles**.
 
-   ![](assets/login-history-tab.jpg)
+   ![](assets/user-login-history-2.png)
 
-1. Utilisez le filtre pour restreindre votre recherche.
+1. Cliquez sur le bouton **Historique de connexion** . La liste affiche les connexions les plus récentes.
 
-   ![](assets/filter-main.jpg)
+   ![](assets/user-login-history-3.png)
 
-1. Sélectionnez une plage de dates à l’aide des sélecteurs de dates.
+1. Utilisez le filtre pour affiner votre recherche.
 
-   ![](assets/select-date-range-hand.jpg)
+   ![](assets/user-login-history-4.png)
+
+1. Sélectionnez une période à l’aide des sélecteurs de date.
+
+   ![](assets/user-login-history-5.png)
 
 1. Vous pouvez également choisir dans la liste déroulante.
 
-   ![](assets/filter-select-from-dropdown.jpg)
+   ![](assets/user-login-history-6.png)
 
-1. Sélectionnez les utilisateurs dans la liste déroulante **Utilisateurs**.
+1. Sélectionnez les utilisateurs dans le **Utilisateurs** menu déroulant.
 
-   ![](assets/user-dropdown.jpg)
+   ![](assets/user-login-history-7.png)
 
-1. Cochez la case **Uniquement les connexions ayant échoué** pour n&#39;afficher que les connexions ayant échoué dans votre recherche.
+1. Vérifiez les **Uniquement les connexions ayant échoué** pour afficher uniquement les connexions ayant échoué dans votre recherche.
 
-   ![](assets/only-failed-logins.jpg)
+   ![](assets/user-login-history-8.png)
 
 1. Cliquez sur **Appliquer**.
 
-   ![](assets/click-apply-real.jpg)
+   ![](assets/user-login-history-9.png)
 
    >[!NOTE]
    >
@@ -67,4 +70,4 @@ Pour vue à l&#39;historique de connexion de l&#39;utilisateur :
 
    >[!NOTE]
    >
-   >[Aperçu de la piste d’audit](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
+   >[Présentation du journal d’audit](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

@@ -1,62 +1,61 @@
 ---
 unique-page-id: 11378468
-description: Filtrage dans la piste d’audit - Documentation Marketo - Documentation du produit
-title: Filtrage dans la piste d’audit
+description: Filtrage dans le journal d’audit - Documents Marketo - Documentation du produit
+title: Filtrage dans le journal d’audit
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Filtrage dans la piste d&#39;audit {#filtering-in-audit-trail}
+# Filtrage dans le journal d’audit {#filtering-in-audit-trail}
 
-Filtrez par période, type de ressource, utilisateurs, action entreprise, etc.
+Vous pouvez filtrer par période, type de ressource, utilisateurs, action entreprise, etc.
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
-   ![](assets/one-1.png)
+   ![](assets/filtering-in-audit-trail-1.png)
 
-1. Sous **Sécurité**, sélectionnez **Piste d&#39;audit**.
+1. Sous **Sécurité**, sélectionnez **Journal d’audit**.
 
-   ![](assets/two-1.png)
+   ![](assets/filtering-in-audit-trail-2.png)
 
-1. Cliquez sur l&#39;icône de filtre.
+1. Cliquez sur l’icône de filtre.
 
-   ![](assets/three.png)
+   ![](assets/filtering-in-audit-trail-3.png)
 
    >[!NOTE]
    >
-   >Il existe une multitude de combinaisons de paramètres de recherche possibles. Dans cet exemple, nous recherchons : _tous les e-mails - édités par n&#39;importe qui - au cours des sept derniers jours_.
+   >Il existe une multitude de combinaisons de paramètres de recherche possibles. Dans cet exemple, localisez : _tous les emails - édités par n&#39;importe qui - dans les sept jours précédents_.
 
-1. Cliquez sur la liste déroulante **Période** et sélectionnez **7 derniers jours**.
+1. Cliquez sur le bouton **Période** et sélectionnez **7 derniers jours**.
 
-   ![](assets/four.png)
+   ![](assets/filtering-in-audit-trail-4.png)
 
-1. Cliquez sur la liste déroulante **Type de ressource** et sélectionnez **Courriel**.
+1. Cliquez sur le bouton **Type de ressource** et sélectionnez **Email**.
 
-   ![](assets/five.png)
+   ![](assets/filtering-in-audit-trail-5.png)
 
-1. Cliquez sur la liste déroulante **Actions** et sélectionnez **Modifier**.
+1. Cliquez sur le bouton **Actions** et sélectionnez **Modifier**.
 
-   ![](assets/six.png)
+   ![](assets/filtering-in-audit-trail-6.png)
 
 1. Cliquez sur **Appliquer**.
 
-   ![](assets/seven.png)
+   ![](assets/filtering-in-audit-trail-7.png)
 
 1. Les résultats filtrés s’affichent à gauche.
 
-   ![](assets/eight.png)
+   ![](assets/filtering-in-audit-trail-8.png)
 
    C&#39;est tout !
 
    >[!NOTE]
    >
-   >Si les espaces de travail sont activés, les données de contrôle s’affichent pour tous les espaces de travail. Si vous appliquez un filtre d’espace de travail, Marketo mémorise la valeur de l’espace de travail précédent chaque fois que vous utilisez la piste d’audit. Les autorisations d’espace de travail au niveau de la ressource sont appliquées.
+   >Si les espaces de travail sont activés, les données de contrôle s’affichent pour tous les espaces de travail. Si vous appliquez un filtre d’espace de travail, Marketo mémorise la valeur de l’espace de travail précédent chaque fois que vous utilisez le journal d’audit. Les autorisations de Workspace au niveau de la ressource sont appliquées.
 
    >[!MORELIKETHIS]
    >
-   >[Modifier les détails dans la piste d’audit](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[Modification des détails dans le journal d’audit](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
