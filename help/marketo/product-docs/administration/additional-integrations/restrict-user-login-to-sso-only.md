@@ -3,10 +3,10 @@ unique-page-id: 2360358
 description: Limitation de la connexion des utilisateurs à l’authentification unique - Documents Marketo - Documentation du produit
 title: Limiter la connexion de l'utilisateur aux connexions par signature unique
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 5%
+source-wordcount: '233'
+ht-degree: 7%
 
 ---
 
@@ -22,17 +22,21 @@ Si vous êtes [utilisation de SSO](/help/marketo/product-docs/administration/add
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à **Administration** et cliquez sur **Paramètres de connexion**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-24-14-3a44-3a40.png)
+   ![](assets/restrict-user-login-to-sso-only-1.png)
+
+1. Cliquez sur **Paramètres de connexion**.
+
+   ![](assets/restrict-user-login-to-sso-only-2.png)
 
 1. Cliquez sur **Modifier les paramètres de protection**.
 
-   ![](assets/image2014-9-24-14-3a44-3a53.png)
+   ![](assets/restrict-user-login-to-sso-only-3.png)
 
 1. Développez les paramètres avancés, puis cochez la case **Requiert SSO**, puis cliquez sur **Enregistrer**.
 
-![](assets/image2014-9-24-14-3a45-3a6.png)
+![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >

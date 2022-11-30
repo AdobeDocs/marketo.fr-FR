@@ -1,27 +1,24 @@
 ---
 unique-page-id: 2360350
-description: Création d’un service personnalisé à utiliser avec l’API ReST - Marketo Docs - Documentation du produit
+description: Création d’un service personnalisé à utiliser avec l’API ReST - Documents Marketo - Documentation du produit
 title: Création d’un service personnalisé à utiliser avec l’API ReST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 0%
+source-wordcount: '213'
+ht-degree: 5%
 
 ---
 
-# Créer un service personnalisé à utiliser avec l&#39;API ReST {#create-a-custom-service-for-use-with-rest-api}
+# Création d’un service personnalisé à utiliser avec l’API ReST {#create-a-custom-service-for-use-with-rest-api}
 
-Si vous souhaitez intégrer Marketo via l&#39;API ReST, vous souhaiterez créer un service personnalisé. Voici comment.
+Si vous souhaitez intégrer Marketo via l’API ReST, vous souhaiterez créer un service personnalisé. Voici comment.
 
 >[!PREREQUISITES]
 >
->* [Création d’un rôle utilisateur API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [Créer un utilisateur API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
-
+>* [Création d’un rôle d’utilisateur API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [Création d’un utilisateur API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
-
 
 
 >[!NOTE]
@@ -30,54 +27,58 @@ Si vous souhaitez intégrer Marketo via l&#39;API ReST, vous souhaiterez créer 
 
 >[!TIP]
 >
->Consultez la documentation destinée aux développeurs pour en savoir plus sur l&#39;[API ReST](https://developers.marketo.com/documentation/rest/). Nous avons également l&#39;[API SOAP](https://developers.marketo.com/documentation/soap/) si c&#39;est ce dont vous avez besoin.
-
->[!NOTE]
->
->Vous ne pouvez pas créer de service personnalisé si vous avez le niveau Spark de Marketo.
+>Consultez la documentation destinée aux développeurs pour plus d’informations sur [API ReST](https://developers.marketo.com/documentation/rest/). Nous avons également le [API SOAP](https://developers.marketo.com/documentation/soap/) si c&#39;est ce dont vous avez besoin.
 
 ## Créer un service personnalisé {#create-custom-service}
 
-1. Accédez à **Admin** et cliquez sur **LaunchPoint**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-19-10-3a38-3a15.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
-1. Sous **New**, cliquez sur **New Service**.
+1. Cliquez sur **LaunchPoint**.
 
-   ![](assets/image2014-9-19-10-3a38-3a22.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
-1. Saisissez un **nom d’affichage** pour le service. Sélectionnez **API Uniquement utilisateur** [précédemment créé](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Sélectionner **Nouveau** puis **Nouveau service**.
+
+   ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
+
+1. Saisissez un **Nom d’affichage** pour le service. Sélectionnez la **Utilisateur API uniquement** [précédemment créé](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+
+   ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
    >[!NOTE]
    >
    >Notez que nous disposons déjà d’une intégration native pour les services de webinaires populaires.
 
-   ![](assets/image2014-9-19-10-3a38-3a32.png)
-
 1. Cliquez sur **Créer**.
 
-   ![](assets/image2014-9-19-10-3a39-3a28.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
-   Oh oui ! Le service est maintenant créé, allons de l&#39;avant et obtenons toutes les informations d&#39;identification pour fournir l&#39;accès.
+   Oh oui ! Le service est maintenant créé. Allons de l’avant et obtenons toutes les informations d’identification pour l’accès.
 
-## Informations d&#39;identification pour l&#39;accès à l&#39;API {#credentials-for-api-access}
+## Informations d’identification pour l’accès aux API {#credentials-for-api-access}
 
-1. Accédez à **Admin** et cliquez sur **LaunchPoint**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-19-10-3a42-3a11.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
-1. Cliquez sur **Détails de la Vue** pour le service LaunchPoint personnalisé créé ci-dessus.
+1. Cliquez sur **LaunchPoint**.
 
-   ![](assets/image2014-9-19-10-3a42-3a16.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. Cliquez sur **Obtenir le jeton**.
+1. Cliquez sur **Afficher les détails** pour le service LaunchPoint personnalisé créé ci-dessus.
 
-   ![](assets/image2014-9-19-10-3a42-3a24.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
-1. Fournissez le **ID client**, **Secret client**, **Utilisateur autorisé** et **Jeton** à la personne chargée d&#39;établir la connexion.
+1. Cliquez sur **Obtenir un jeton**.
 
-   ![](assets/image2014-9-19-10-3a42-3a38.png)
+   ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
+
+1. Fournissez les **ID client**, **Secret du client**, **Utilisateur autorisé**, et **Jeton** au responsable de l&#39;établissement de la connexion.
+
+   ![](assets/create-a-custom-service-for-use-with-rest-api-10.png)
 
 >[!CAUTION]
 >
->Ne partagez pas ces informations ; c&#39;est la porte de derrière de vos données. Gardez-le en sécurité !
+>Ne partagez pas cette information ; c&#39;est la porte dérobée de vos données. Garde-le en sécurité !

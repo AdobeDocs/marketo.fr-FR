@@ -2,7 +2,7 @@
 description: Configuration des actions Sales Insight dans Salesforce - Documents Marketo - Documentation du produit
 title: Configuration des actions d’aperçu des ventes dans Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 ## Ajouter un nouveau site distant dans Salesforce {#add-new-remote-site-in-salesforce}
 
-1. Dans Salesforce, cliquez sur **Configuration**.
+1. Dans Salesforce, cliquez sur **Configuration**.
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. Recherchez &quot;site distant&quot; et sélectionnez **Paramètres du site distant**.
+1. Recherchez &quot;site distant&quot; et sélectionnez **Paramètres du site distant**.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. Cliquez sur **Nouveau site distant**.
+1. Cliquez sur **Nouveau site distant**.
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. Saisissez le Nom du site distant (il peut s’agir de &quot;MarketoSalesInsight2&quot;). Entrée dans l’URL du site distant `https://mkto-sales-connect.adobe.io` et cliquez sur **Enregistrer**.
+1. Saisissez le Nom du site distant (il peut s’agir de &quot;MarketoSalesInsight2&quot;). Entrée dans l’URL du site distant `https://mkto-sales-connect.adobe.io` et cliquez sur **Enregistrer**.
 
 ## Activation des actions Sales Insight dans le CRM {#enabling-sales-insight-actions-across-the-crm}
 

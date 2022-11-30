@@ -3,10 +3,10 @@ unique-page-id: 2360360
 description: Création d’un webhook - Documents Marketo - Documentation du produit
 title: Création d’un webhook
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 3%
+source-wordcount: '210'
+ht-degree: 6%
 
 ---
 
@@ -18,17 +18,21 @@ Utilisez des webhooks pour tirer parti des services web tiers afin d’envoyer d
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
-1. Accédez à **Administration** et cliquez sur **Webhooks**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-24-14-3a52-3a57.png)
+   ![](assets/create-a-webhook-1.png)
+
+1. Cliquez sur **Webhooks**.
+
+   ![](assets/create-a-webhook-2.png)
 
 1. Cliquez sur **Nouveau webhook**.
 
-   ![](assets/image2014-9-24-14-3a53-3a9.png)
+   ![](assets/create-a-webhook-3.png)
 
 1. Nommez et configurez votre webhook.
 
-   ![](assets/image2014-9-24-14-3a53-3a19.png)
+   ![](assets/create-a-webhook-4.png)
 
    >[!NOTE]
    >
@@ -44,9 +48,9 @@ Utilisez des webhooks pour tirer parti des services web tiers afin d’envoyer d
 
    * **Type de requête**: Sélectionnez la méthode HTTP à utiliser (DELETE, GET, PATCH, POST, PUT).
 
-   Cliquez sur **Créer**.
+1. Cliquez sur **Créer**.
 
-   ![](assets/image2014-9-24-14-3a53-3a35.png)
+   ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >
