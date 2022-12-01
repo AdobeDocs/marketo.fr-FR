@@ -1,12 +1,11 @@
 ---
 unique-page-id: 6848782
-description: Rendre votre message de désabonnement dynamique pour les langues - Marketo Docs - Documentation du produit
+description: Rendre votre message de désabonnement dynamique pour les langues - Documents Marketo - Documentation du produit
 title: Rendre votre message de désabonnement dynamique pour les langues
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '491'
 ht-degree: 3%
 
 ---
@@ -17,29 +16,29 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
 >[!NOTE]
 >
->Nous avons mis en place ce joli petit tutoriel ci-dessous pour vous. Il s&#39;agit d&#39;une bonne pratique, mais cela peut se faire autrement.
+>Cet article représente une bonne pratique, mais il peut être réalisé d’autres façons.
 
 ## Préparation des données {#prepare-your-data}
 
-1. [Créez un ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) champ personnalisé nommé &quot;Langue préférée&quot;. (Configurez-le dans votre gestion de la relation client si vous souhaitez que ce champ soit synchronisé).
+1. [Création d’un champ personnalisé](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) nommé &quot;Langue préférée&quot;. (Configurez-le dans votre CRM si vous souhaitez que ce champ soit synchronisé).
 
    >[!TIP]
    >
-   >Dans le futur, utilisez ce champ lorsque vous [créez un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) pour capturer les préférences de langue.
+   >À l’avenir, utilisez ce champ lorsque vous [création d’un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) pour capturer les préférences linguistiques.
 
 ## Créer une segmentation {#create-segmentation}
 
-1. Accédez à la **base de données**.
+1. Accédez au **Base**.
 
-   ![](assets/db.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
-1. Dans la liste déroulante **New**, cliquez sur **Nouvelle segmentation**.
+1. Dans le **Nouveau** menu déroulant, cliquez sur **Nouvelle segmentation**.
 
-   ![](assets/two.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. Nommez la segmentation **Langue préférée**. Cliquez sur **Ajouter le segment**. Entrez une langue.
+1. Nommer la segmentation **Langue préférée**. Cliquez sur **Ajouter un segment**. Saisissez une langue.
 
-   ![](assets/image2015-3-9-8-3a33-3a44.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
    >[!NOTE]
    >
@@ -47,120 +46,120 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
 1. Continuez à ajouter des segments jusqu’à ce que toutes vos langues soient représentées. Cliquez sur **Créer**.
 
-   ![](assets/image2015-3-9-8-3a38-3a5.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-4.png)
 
 1. Sélectionnez un segment.
 
-   ![](assets/image2015-3-9-8-3a38-3a17.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. Cliquez sur l&#39;onglet **Liste intelligente.** Entrez **Langue préférée** dans le champ de recherche. Faites glisser et déposez le filtre sur la trame.
+1. Cliquez sur l&#39;onglet **Liste intelligente.** Entrée **Langue préférée** dans le champ de recherche. Faites glisser et déposez le filtre sur la zone de travail.
 
-   ![](assets/six.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
-1. Définissez la langue correspondante appropriée.
+1. Définissez la langue appropriée.
 
-   ![](assets/seven.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
-1. Répétez cette opération pour toutes vos langues. Sélectionnez ensuite la liste déroulante **Actions de segmentation** et cliquez sur **Approuver**.
+1. Répétez cette opération pour toutes vos langues. Sélectionnez ensuite le **Actions de segmentation** menu déroulant et clic **Approuver**.
 
-   ![](assets/image2015-3-9-8-3a39-3a36.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
-## Créer un extrait de code {#create-a-snippet}
+## Création d’un fragment de code {#create-a-snippet}
 
-1. Accédez à **Design Studio**.
+1. Accédez au **Design Studio**.
 
-   ![](assets/ds.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. Dans la liste déroulante **New**, cliquez sur **New Snippet**.
+1. Dans le **Nouveau** menu déroulant, cliquez sur **Nouveau fragment de code**.
 
-   ![](assets/ten.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
-1. Nommez le fragment **Message de désabonnement**. Cliquez sur **Créer**.
+1. Nommer le fragment de code **Désabonner le message**. Cliquez sur **Créer**.
 
-   ![](assets/image2015-3-9-8-3a40-3a54.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 
-1. Saisissez votre message de désabonnement par défaut, mettez-le en surbrillance, puis cliquez sur l’icône d’hyperlien.
+1. Saisissez votre message de désabonnement par défaut, mettez-le en surbrillance, puis cliquez sur l’icône de lien hypertexte.
 
-   ![](assets/image2015-3-9-8-3a41-3a47.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. Copiez et collez ce jeton : `{{system.unsubscribeLink}}` dans le champ **URL du lien**. Cliquez sur **Insérer**.
+1. Copiez et collez ce jeton : `{{system.unsubscribeLink}}` dans la **URL** champ . Cliquez sur **Insérer**.
 
-   ![](assets/image2015-3-9-8-3a43-3a17.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. Sélectionnez **Segmenter par** dans la section Segmentation.
+1. Sélectionner **Segmenter par** dans la section Segmentation .
 
-   ![](assets/image2015-3-9-8-3a44-3a16.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
-1. Dans la liste déroulante Segmentation, saisissez **Préférée** et sélectionnez **Langue préférée**. Cliquez sur **Enregistrer**.
+1. Dans la liste déroulante Segmentation , saisissez **Préféré** et sélectionnez **Langue préférée**. Cliquez sur **Enregistrer**.
 
-   ![](assets/image2015-3-9-8-3a44-3a32.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. Sélectionnez un segment dans l’arborescence. Tapez votre message de désabonnement dans cette langue.
+1. Sélectionnez un segment dans l’arborescence. Cliquez sur votre désabonnement puis sur l’icône de lien.
 
-   ![](assets/image2015-3-9-8-3a45-3a43.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. Copiez et collez le même jeton : `{{system.unsubscribeLink}}` dans le champ **URL du lien**. Cliquez sur **Insérer**.
+1. Assurez-vous de `{{system.unsubscribeLink}}` se trouve toujours dans le champ URL . Modifiez le texte affiché pour qu’il corresponde à la langue que vous avez sélectionnée. Cliquez sur **Appliquer**.
 
-   ![](assets/image2015-3-9-8-3a47-3a4.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
-1. Répétez cette opération pour tous vos segments. Revenez ensuite à Design Studio, cliquez sur la liste déroulante **Actions d’extrait de code**, puis cliquez sur **Approuver**.
+1. Répétez l’opération pour tous vos segments. Ensuite, revenez à Design Studio, puis cliquez sur le **Actions de fragment de code** , puis cliquez sur **Approuver**.
 
-   ![](assets/image2015-3-9-8-3a47-3a34.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-   Super. Presque là.
+Super. Presque là !
 
-## Utiliser un extrait de code dans un courrier électronique {#use-snippet-in-an-email}
+## Utiliser un fragment de code dans un courrier électronique {#use-snippet-in-an-email}
 
-1. Dans l’éditeur de courrier électronique, cliquez sur l’élément modifiable. Cliquez ensuite sur l’icône d’engrenage et sélectionnez **Remplacer par un fragment**. Si vous sélectionnez un élément de fragment modifiable, cliquez sur l’icône d’engrenage et sélectionnez **Modifier**.
+1. Dans l&#39;éditeur d&#39;email, cliquez sur l&#39;élément éditable. Cliquez ensuite sur l’icône d’engrenage et sélectionnez **Remplacer par un fragment de code**. Si vous sélectionnez un élément de fragment de code modifiable, cliquez sur l’icône d’engrenage et sélectionnez **Modifier**.
 
-   ![](assets/4.1.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
-1. Recherchez et sélectionnez votre extrait de code dans la liste déroulante, puis cliquez sur **Enregistrer**.
+1. Recherchez et sélectionnez votre fragment de code dans la liste déroulante, puis cliquez sur **Enregistrer**.
 
-   ![](assets/image2015-3-9-8-3a50-3a16.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
 1. Pour le tester, cliquez sur **Précédent**...
 
-   ![](assets/4.3.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
-1. ...puis l’onglet **Dynamique**.
+1. ...puis la fonction **Dynamique** .
 
-   ![](assets/4.4.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-22.png)
 
 1. Cliquez sur les différentes langues pour afficher le changement du fragment de code.
 
-   ![](assets/4.5.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-23.png)
 
    >[!TIP]
    >
-   >Bien sûr, vous pouvez également modifier le reste de votre courrier électronique pour une langue dynamique. Pendant que vous y êtes, effectuez la même technique sur la page de désabonnement.
+   >Bien sûr, vous pouvez également éditer le reste de votre email pour le langage dynamique. Pendant que vous y êtes, effectuez la même technique sur la page de désabonnement.
 
 ## Personnalisation de votre page de désabonnement avec du contenu dynamique {#customizing-your-unsubscribe-page-with-dynamic-content}
 
-Si vous souhaitez que vos utilisateurs consultent une page de désabonnement dans la langue de leur choix, vous pouvez utiliser du contenu dynamique sur le landing page et la page de confirmation.
+Si vous souhaitez que vos visiteurs consultent une page de désabonnement dans la langue de leur choix, vous pouvez utiliser du contenu dynamique sur la landing page et la page de confirmation.
 
-1. Accédez à Design Studio.
+1. Accédez au **Design Studio**.
 
-   ![](assets/ds.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
-1. Tapez _Désabonner_ dans le champ de recherche. Vous devriez trouver vos pages de désabonnement.
+1. Saisissez _Désabonner_ dans le champ de recherche et sélectionnez la page Désabonner de votre choix.
 
-   ![](assets/image2015-3-9-8-3a51-3a53.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-25.png)
 
 1. Cliquez sur **Modifier le brouillon**.
 
-   ![](assets/image2015-3-9-8-3a52-3a23.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-26.png)
 
-1. Sélectionnez **Segmenter par**.
+1. Sélectionner **Segmenter par**.
 
-   ![](assets/image2015-3-9-8-3a52-3a57.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
-1. Recherchez le segment Langue préférée. Cliquez sur **Enregistrer**.
+1. Recherchez le segment Langue préférée . Cliquez sur **Enregistrer**.
 
-   ![](assets/image2015-3-9-8-3a53-3a54.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
-   Modifiez votre contenu pour chaque landing page, approuvez-le, et c&#39;est une bonne chose d&#39;y aller !
+   Editez votre contenu pour chaque landing page, validez, et vous n&#39;avez rien à faire !
 
    >[!NOTE]
    >
-   >En savoir plus sur [le contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) et toutes les choses intéressantes que vous pouvez faire.
+   >En savoir plus sur [contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) et toutes les choses cool que vous pouvez faire.

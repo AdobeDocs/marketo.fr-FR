@@ -3,9 +3,9 @@ unique-page-id: 2360251
 description: Modification du message de désabonnement - Documents Marketo - Documentation du produit
 title: Modification du message de désabonnement
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: 931b42d7266b9c57308567527042dfcad9847993
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,15 @@ ht-degree: 0%
 
 Lorsque vous envoyez des emails marketing (non[opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), le texte de désabonnement et les liens sont ajoutés au bas de la page. Vous pouvez modifier les valeurs par défaut. Voici comment.
 
-## Modification du message de désabonnement {#edit-the-unsubscribe-message-1}
+## Où effectuer la modification {#where-to-make-the-edit}
 
-1. Sous **Administration**, cliquez sur **Email**.
+1. Accédez au **Administration** .
 
-   ![](assets/image2014-9-18-16-3a52-3a1.png)
+   ![](assets/edit-the-unsubscribe-message-1.png)
+
+1. Cliquez sur **Email**.
+
+   ![](assets/edit-the-unsubscribe-message-2.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ Lorsque vous envoyez des emails marketing (non[opérationnel](/help/marketo/prod
 
 1. Modifiez la variable **Désabonner le HTML** et **Désabonner le texte** versions à votre convenance et cliquez sur **Enregistrer les modifications**.
 
-   ![](assets/image2016-8-26-13-3a40-3a55.png)
+   ![](assets/edit-the-unsubscribe-message-3.png)
 
    Voilà. _Assurez-vous de tester !_ Vous ne souhaitez pas que vos emails marketing aient rompu les liens de désabonnement.
 

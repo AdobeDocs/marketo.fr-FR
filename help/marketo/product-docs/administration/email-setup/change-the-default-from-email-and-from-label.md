@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2360247
-description: Modifier la valeur par défaut du courrier électronique et du libellé - Documents Marketo - Documentation du produit
-title: Modifier l’étiquette Par défaut De courriel et De
+description: Modification de l’étiquette par défaut - Documents Marketo - Documentation du produit
+title: Modifier l’étiquette Par défaut De l’email et De
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# Modifier la valeur par défaut du courrier électronique et du libellé {#change-the-default-from-email-and-from-label}
+# Modifier l’étiquette Par défaut De l’email et De {#change-the-default-from-email-and-from-label}
 
-Chaque utilisateur administrateur peut modifier les valeurs par défaut de **Courriel** et **Libellé** afin que, lorsqu’ils créent de nouveaux courriels, ces valeurs par défaut soient utilisées.
+Chaque utilisateur administrateur peut modifier les valeurs par défaut pour **À partir du courrier électronique** et **À partir du libellé** afin que, lors de la création de nouveaux emails, ces valeurs par défaut soient utilisées.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à la section **Admin**.
+1. Accédez au **Administration** .
 
-   ![](assets/adminhand.png)
+   ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. Cliquez sur **Courriel**.
+1. Cliquez sur **Email**.
 
-   ![](assets/image2014-9-18-16-3a27-3a19.png)
+   ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Entrez les valeurs par défaut pour **A partir du courriel** et **A partir du libellé**, puis cliquez sur **Enregistrer les modifications**.
+1. Saisissez les valeurs par défaut à **À partir du courrier électronique** et **À partir du libellé** puis cliquez sur **Enregistrer les modifications**.
 
-   ![](assets/change-default-hands.png)
+   ![](assets/change-the-default-from-email-and-from-label-3.png)
 
 >[!NOTE]
 >
->La modification ne s&#39;applique qu&#39;à vous et non aux autres utilisateurs de Marketo.
+>La modification ne s’applique qu’à vous et non aux autres utilisateurs de Marketo.
 
-Bon travail ! Chaque fois que vous créez un nouveau courrier électronique, les valeurs par défaut que vous définissez sont utilisées.
+Bon boulot ! Chaque fois que vous créez un email, les valeurs par défaut que vous définissez seront utilisées.
