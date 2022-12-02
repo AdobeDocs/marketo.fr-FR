@@ -2,10 +2,10 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
+source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '628'
+ht-degree: 5%
 
 ---
 
@@ -53,7 +53,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tbody>
 </table>
 
-### Expérience de nouvelle génération {#next-generation-experience}
+### Expérience de nouvelle génération {#modern-ux}
 
 </br>
 
@@ -69,7 +69,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
   <tr> 
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Basculer entre les deux</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Basculer entre les deux</a></td>
   </tr>
   </tbody>
 </table>
@@ -205,3 +205,4 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 * **Forms 1.0**: L’obsolescence de Forms 1.0 sera terminée avec la version d’octobre. Les ressources Forms 1.0 ne pourront plus envoyer de données à Marketo Engage et renverront des erreurs si elles sont tentées.
 
 * **Forms sans script**: Forms ne fonctionnera plus lorsque JavaScript est désactivé dans le navigateur. L’envoi du formulaire nécessite l’activation de JavaScript.
+
