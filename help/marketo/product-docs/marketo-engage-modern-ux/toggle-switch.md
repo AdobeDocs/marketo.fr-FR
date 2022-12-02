@@ -2,16 +2,16 @@
 description: Basculer entre - Documents Marketo - Documentation du produit
 title: Basculer entre les deux
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Basculer entre les deux {#toggle-switch}
 
-Le bouton Basculer vous permet de basculer entre l’interface classique de Marketo et l’expérience de Marketo Engage de nouvelle génération. Il est disponible dans toutes les zones indiquées ci-dessous.
+L’option Basculer vous permet de basculer entre l’interface classique de Marketo et l’expérience utilisateur moderne. Il est disponible dans toutes les zones indiquées ci-dessous.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Activez le bouton bascule pour les rôles individuels ou tous les rôles. Voici 
 
 ## Activation pour les fonctionnalités {#enable-for-features}
 
-Vous avez la possibilité d’activer manuellement l’interface nouvelle génération de Marketo pour chaque fonction ou toutes les fonctions disponibles (actuelles et à venir).
+Vous avez la possibilité d’activer manuellement l’expérience utilisateur moderne du Marketo Engage pour chaque fonction ou toutes les fonctions disponibles (actuelles et à venir).
 
 Dans une zone qui possède actuellement le bouton Activer/désactiver (dans cet exemple, nous sommes en mode Liste des emails), cliquez simplement sur le bouton activer/désactiver dans le coin inférieur droit de la page.
 
@@ -55,7 +55,7 @@ Sélectionner **Activer pour toutes les fonctionnalités disponibles** et clique
 
 ## Fonctionnalités disponibles {#available-features}
 
-Les fonctionnalités suivantes sont actuellement disponibles dans l’interface nouvelle génération de Marketo (avec de nouvelles fonctionnalités ajoutées à chaque version) :
+Les fonctionnalités suivantes sont actuellement disponibles dans l’expérience utilisateur moderne (avec de nouvelles fonctionnalités ajoutées à chaque version) :
 
 * Affichage des détails du courrier électronique
 * Mode Liste des emails
