@@ -1,7 +1,8 @@
 ---
 description: Notes de mise à jour - Janvier 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Janvier 2022
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '964'
 ht-degree: 3%
@@ -10,7 +11,7 @@ ht-degree: 3%
 
 # Notes de mise à jour : Janvier 2022 {#release-notes-jan-22}
 
-Les fonctionnalités suivantes sont incluses dans la version du 22 janvier. Pour connaître la disponibilité des fonctionnalités, consultez l’édition de votre Marketo Engage Adobe.
+Les fonctionnalités suivantes sont incluses dans la version du 22 janvier. Vérifiez la disponibilité de votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
@@ -20,7 +21,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 22 janvier. Pour
 
 Les fonctionnalités suivantes commenceront à être publiées sur **21 janvier 2022**, avec un déploiement échelonné de chaque fonctionnalité au cours des semaines suivantes (sauf indication contraire).
 
-## Expérience de nouvelle génération {#next-generation-experience}
+## Expérience de nouvelle génération {#modern-ux}
 
 * **Mise à jour d’Screens dans l’expérience de nouvelle génération**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
 
@@ -77,7 +78,7 @@ Les clients Marketo Engage qui utilisent également Adobe Experience Platform (A
 
 ## Annonces {#announcements}
 
-* **Obsolescence du Marketo Sky**: En mars, Marketo Sky ne sera plus disponible, car nous concentrons nos ressources sur la diffusion de l’expérience utilisateur de nouvelle génération. Afin de maintenir l’accès aux fonctionnalités exclusives à Marketo Sky aujourd’hui, nous incluons l’expiration des ressources et le remplacement de la priorité des campagnes dynamiques dans l’expérience principale en mars. [Cliquez ici](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) pour en savoir plus.
+* **Obsolescence du Marketo Sky**: En mars, Marketo Sky ne sera plus disponible, car nous concentrons nos ressources sur la diffusion de l’expérience utilisateur de nouvelle génération. Afin de maintenir l’accès aux fonctionnalités exclusives à Marketo Sky aujourd’hui, nous incluons l’expiration des ressources et le remplacement de la priorité des campagnes dynamiques dans l’expérience principale en mars. [Cliquez ici](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) pour en savoir plus.
 
 * **Obsolescence des points de fin de formulaire**: Les POST de formulaire programmatique non pris en charge vers le point de terminaison leadCapture/save2 seront rejetés par les formulaires Marketo Engage. [Cliquez ici](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) pour en savoir plus.
 

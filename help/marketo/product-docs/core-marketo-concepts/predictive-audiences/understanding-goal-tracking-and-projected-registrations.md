@@ -2,7 +2,7 @@
 description: Présentation du suivi des objectifs et des inscriptions prévues - Documents Marketo - Documentation du produit
 title: Comprendre le suivi des objectifs et les inscriptions prévues
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '988'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Voici comment suivre la progression de votre objectif et comprendre les prédict
 
 >[!PREREQUISITES]
 >
->Pour accéder à la plupart de ces fonctionnalités, veillez à activer la fonction [bascule nouvelle génération](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;} pour les programmes d’événements.
+>Pour accéder à la plupart de ces fonctionnalités, veillez à activer la fonction [bascule nouvelle génération](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;} pour les programmes d’événements.
 
 >[!NOTE]
 >

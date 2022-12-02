@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
-source-wordcount: '8811'
+source-wordcount: '8810'
 ht-degree: 5%
 
 ---
@@ -1064,11 +1064,11 @@ ht-degree: 5%
             + [Utiliser le jeton d’information d’alerte Envoyer](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [Utilisation d’URL dans mes jetons](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
-   + Expérience de nouvelle génération du Marketo Engage {#marketo-engage-next-generation-experience}
-      + [APERÇU](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [Glossaire des icônes](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
-      + [Utilisation de la recherche globale](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
-      + [Basculer entre les deux](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
+   + Marketo Engage Modern UX {#marketo-engage-modern-ux}
+      + [APERÇU](product-docs/marketo-engage-modern-ux/overview.md)
+      + [Glossaire des icônes](product-docs/marketo-engage-modern-ux/icon-glossary.md)
+      + [Utilisation de la recherche globale](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
+      + [Basculer entre les deux](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Démarrer {#getting-started}
          + [Présentation de Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)

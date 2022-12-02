@@ -2,7 +2,7 @@
 description: Notes de mise à jour - Août 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Août 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Les fonctionnalités suivantes ont commencé un déploiement progressif de **26 
 
 * **Afficher la hiérarchie de dossiers du dossier de destination dans la boîte de dialogue Déplacer**: L’affichage de la hiérarchie de dossiers pour chaque dossier facilite le déplacement des ressources et réduit la probabilité de les placer dans le mauvais dossier.
 
-* **[Mise à jour d’Screens dans l’expérience de nouvelle génération](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
+* **[Mise à jour d’Screens dans l’expérience de nouvelle génération](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
 
    * Détails du fragment de code
    * Détails &quot;Images et fichiers&quot;

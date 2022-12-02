@@ -2,7 +2,7 @@
 description: Notes de mise à jour - Mars 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Mars 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 1%
@@ -27,7 +27,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **11 mars 202
 
 * **Amélioration du filtrage de l’activité des robots de messagerie**: En tant qu’amélioration de la version précédente [Filtrage de l’activité des robots de messagerie](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md)fonction {target=&quot;_blank&quot;}, vous pouvez désormais souscrire à des activités de journalisation qui sont identifiées comme des robots. Vous pouvez ensuite filtrer et déclencher des actions en fonction d’activités identifiées comme étant exécutées par des robots.
 
-## Expérience de nouvelle génération {#next-generation-experience}
+## Expérience de nouvelle génération {#modern-ux}
 
 * **Mise à jour d’Screens dans l’expérience de nouvelle génération**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
 
@@ -73,7 +73,7 @@ Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées
 
 ## Annonces {#announcements}
 
-* **Obsolescence du Marketo Sky**: En mars, Marketo Sky ne sera plus disponible, car nous concentrons nos ressources sur la diffusion de l’expérience utilisateur de nouvelle génération. Afin de maintenir l’accès aux fonctionnalités exclusives à Marketo Sky aujourd’hui, nous incluons l’expiration des ressources et le remplacement de la priorité de campagne dynamique dans l’expérience classique. [Cliquez ici](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) pour en savoir plus.
+* **Obsolescence du Marketo Sky**: En mars, Marketo Sky ne sera plus disponible, car nous concentrons nos ressources sur la diffusion de l’expérience utilisateur de nouvelle génération. Afin de maintenir l’accès aux fonctionnalités exclusives à Marketo Sky aujourd’hui, nous incluons l’expiration des ressources et le remplacement de la priorité de campagne dynamique dans l’expérience classique. [Cliquez ici](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) pour en savoir plus.
 
 **_Webinaire sur la version du produit_**
 

@@ -5,7 +5,7 @@ title: Activation des rôles pour Marketo Sky
 hide: true
 hidefromtoc: true
 exl-id: 0a518449-8acf-4917-8153-c7ef5fee5590
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 6%
@@ -18,7 +18,7 @@ Pour utiliser Marketo Sky, les rôles des utilisateurs souhaités doivent être 
 
 >[!IMPORTANT]
 >
->Marketo Sky sera abandonné en mars 2022. [Cliquez ici](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) pour en savoir plus.
+>Marketo Sky sera abandonné en mars 2022. [Cliquez ici](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) pour en savoir plus.
 
 >[!NOTE]
 >

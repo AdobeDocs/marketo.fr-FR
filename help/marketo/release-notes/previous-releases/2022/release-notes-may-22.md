@@ -1,7 +1,8 @@
 ---
 description: Notes de mise à jour - Mai 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Mai 2022
-source-git-commit: d9ace2b00707c605dda94ec4fc21937d8b36d137
+exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -38,7 +39,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **6 mai 2022*
 
 **[En-tête STS pour les liens de suivi de courrier électronique](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Respectez les bonnes pratiques en matière de sécurité avec la possibilité d’appliquer des en-têtes Secure Transport Security pour garantir que le trafic vers les liens trackés est toujours sécurisé.
 
-## Expérience de nouvelle génération {#next-generation-experience}
+## Expérience de nouvelle génération {#modern-ux}
 
 **Basculer vers l’expérience de nouvelle génération par défaut**: le bouton bascule sera défini par défaut sur la nouvelle expérience dans tous les écrans où il est disponible, ce qui permettra aux utilisateurs de découvrir plus facilement les conceptions et les améliorations de convivialité mises à jour.
 
