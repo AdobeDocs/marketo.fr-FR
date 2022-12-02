@@ -2,10 +2,10 @@
 description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82fa4560d60fe782856fadf207f5ecd9602d2944
+source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
