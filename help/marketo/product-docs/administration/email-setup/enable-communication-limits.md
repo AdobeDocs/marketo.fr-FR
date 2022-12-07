@@ -1,65 +1,68 @@
 ---
 unique-page-id: 2360222
-description: Activer les limites de communication - Marketo Docs - Documentation du produit
+description: Activation des limites de communication - Documents Marketo - Documentation du produit
 title: Activer les limites de communication
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 3%
 
 ---
 
 # Activer les limites de communication {#enable-communication-limits}
 
-Il est très important de ne pas trop communiquer avec votre peuple. La définition de limites de communication empêchera votre entreprise d&#39;envoyer trop de courriers électroniques.
+Il est très important de ne pas trop communiquer avec votre peuple. La définition de limites de communication empêchera votre entreprise d’envoyer trop d’emails.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Admin**, cliquez sur **Limites de communication**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-18-15-3a53-3a37.png)
+   ![](assets/enable-communication-limits-1.png)
+
+1. Cliquez sur **Limites de communication**.
+
+   ![](assets/enable-communication-limits-2.png)
 
 1. Cliquez sur **Modifier**.
 
-   ![](assets/image2014-9-18-15-3a53-3a47.png)
+   ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
-   >Par jour est basé sur le jour calendaire dans le fuseau horaire de l&#39;abonnement (minuit-minuit).
+   >Par jour est basé sur le jour calendaire dans le fuseau horaire d&#39;inscription (minuit-minuit).
 
-1. Cliquez sur la liste déroulante **Par jour** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 1.
+1. Cliquez sur le bouton **Par jour** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 1.
 
-   ![](assets/three.png)
+   ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
    >Vous pouvez également choisir **Personnalisé** si aucune des options prédéfinies ne fonctionne pour vous.
 
-1. Cliquez sur la liste déroulante **Par 7 jours** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 5.
+1. Cliquez sur le bouton **Par 7 jours** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 5.
 
-   ![](assets/four.png)
+   ![](assets/enable-communication-limits-5.png)
 
-1. Sélectionnez **Bloquer les courriers électroniques non opérationnels**.
+1. Sélectionner **Bloquer les emails non opérationnels**.
 
-   ![](assets/five.png)
+   ![](assets/enable-communication-limits-6.png)
 
    >[!NOTE]
    >
-   >Pour en savoir plus sur ce que [les courriels opérationnels](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) sont.
+   >En savoir plus sur ce qui [e-mails opérationnels](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) sont .
 
 1. Cliquez sur **Enregistrer**.
 
-   ![](assets/six.png)
+   ![](assets/enable-communication-limits-7.png)
 
    >[!NOTE]
    >
    >**Exemple**
    >
-   >Les paramètres ci-dessus signifient que les utilisateurs ne recevront pas plus de **1 courriel par jour** ou plus de **5 au cours d’une période de sept jours**.
+   >Les paramètres ci-dessus signifient que les personnes ne recevront pas plus de **1 email par jour** ou supérieur à **5 dans toute période de sept jours**.
 
    >[!NOTE]
    >
@@ -67,4 +70,4 @@ Il est très important de ne pas trop communiquer avec votre peuple. La définit
 
 >[!MORELIKETHIS]
 >
->[Appliquer des limites de communication à la Campaign intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[Application de limites de communication à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

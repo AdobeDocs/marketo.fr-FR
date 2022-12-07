@@ -1,50 +1,53 @@
 ---
 unique-page-id: 2360335
-description: Bloquer les mises à jour des champs pendant l'importation de Listes à partir de sources non approuvées - Documents Marketo - Documentation du produit
-title: Bloquer les mises à jour des champs pendant l'importation de Listes à partir de sources non approuvées
+description: Mises à jour de champ de bloc pendant l’importation de liste à partir de sources non approuvées - Documents Marketo - Documentation du produit
+title: Mises à jour de champ de bloc pendant l’importation de liste à partir de sources non approuvées
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 0%
+source-wordcount: '206'
+ht-degree: 2%
 
 ---
 
-# Bloquer les mises à jour des champs pendant l&#39;importation de Listes à partir de sources non approuvées {#block-field-updates-during-list-import-from-untrusted-sources}
+# Mises à jour de champ de bloc pendant l’importation de liste à partir de sources non approuvées {#block-field-updates-during-list-import-from-untrusted-sources}
 
-Vous pouvez faire plus confiance aux données de certaines listes que d’autres. Vous disposez parfois de données douteuses et souhaitez les saisir si le champ est vide, mais pas s’il existe une valeur. Pour ce faire, vous pouvez bloquer les mises à jour de champs sur les champs clés.
+Vous pouvez faire plus confiance aux données de certaines listes que d’autres. Il arrive que vous ayez des données discutables et que vous souhaitiez les extraire si le champ est vide, mais pas s’il existe une valeur. Pour ce faire, bloquez les mises à jour des champs sur les champs clés.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-## Bloquer les mises à jour des champs à partir de sources non approuvées {#blocking-field-updates-from-untrusted-sources}
+## Blocage des mises à jour de champ à partir de sources non approuvées {#blocking-field-updates-from-untrusted-sources}
 
-1. Accédez à **Admin** et cliquez sur **Gestion des champs**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-19-9-3a38-3a38.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
-1. Recherchez le champ de votre choix, sélectionnez-le, puis sous **Actions de champ**, cliquez sur **Bloquer les mises à jour de champ**.
+1. Cliquez sur **Gestion des champs**.
 
-   ![](assets/image2014-9-19-9-3a39-3a40.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. Cochez **Liste Importer la source non approuvée** et cliquez sur **Appliquer**.
+1. Recherchez le champ de votre choix, sélectionnez-le, puis sous **Actions de champ**, cliquez sur **Mises à jour du champ de bloc**.
 
-   ![](assets/blockupdates.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
+
+1. Vérifier **Liste Importer une source non fiable** et cliquez sur **Appliquer**.
+
+   ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->Vous pouvez protéger les champs de toutes les listes, qu&#39;elles soient approuvées ou non, en vérifiant également **Liste Importer la source approuvée**.
+>Vous pouvez protéger les champs de toutes les listes, qu’ils soient de confiance ou non, en vérifiant également **Liste Importer une source de confiance**.
 
 Répétez les étapes ci-dessus pour tous les autres champs que vous souhaitez protéger des listes non approuvées.
 
-## Exécution d&#39;une importation de Liste non approuvée {#running-an-untrusted-list-import}
+## Exécution d’une importation de liste non approuvée {#running-an-untrusted-list-import}
 
 1. Lors de l’exécution de l’importation de votre liste, veillez à sélectionner **Non approuvé** si vous souhaitez que tous les champs configurés à l’étape précédente soient sûrs.
 
-   ![](assets/importpersondetails.jpg)
+   ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
-Pour obtenir des instructions détaillées sur l’importation de listes, voir [Importation d’une Liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
+Pour obtenir des instructions détaillées sur l’importation de listes, voir [Importation d’une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
-Bon travail ! Vous savez maintenant comment protéger les champs clés des listes non approuvées.
+Beau travail ! Vous savez maintenant comment protéger les champs clés des listes non approuvées.
