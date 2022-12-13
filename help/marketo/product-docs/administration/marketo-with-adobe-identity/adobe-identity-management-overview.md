@@ -2,9 +2,9 @@
 description: Présentation d’Adobe Identity Management - Documentation Marketo - Documentation du produit
 title: Présentation d’Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1068'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Si vous disposez d’un nouveau compte avec Adobe Marketo Engage (un nouveau compte, et pas seulement une nouvelle instance pour un compte existant) à compter du 15 février 2022, il peut être intégré au système Identity Management d’Adobe, en fonction du package de produits acheté. Pour savoir si vous l’avez, contactez votre administrateur Marketo ou le responsable du succès client de votre compte.
 
-Les abonnements Marketo existants seront migrés vers le système Identity Management Adobe à partir de cette année.
+Les abonnements Marketo existants commenceront à être migrés vers le système Identity Management Adobe au cours du second semestre 2023.
 
 >[!NOTE]
 >
@@ -117,7 +117,7 @@ Adobe IMS ne prend actuellement en charge rien de tel que la fonctionnalité d�
 
 **Est-il toujours possible d’utiliser la fonction &quot;Se connecter dans la boîte de dialogue d’invitation&quot; pour rendre la connexion d’un utilisateur unique à partir de son email ?**
 
-Nombre Le workflow d’ invitation d’utilisateur n’est plus principal lorsqu’un abonnement est activé pour IMS. La fonctionnalité n’est donc plus valide. L’identité d’Adobe nécessite que l’identité d’un utilisateur soit déterminée par son email.
+Nombre Le workflow d’ invitation d’utilisateur n’est plus principal lorsqu’un abonnement est activé pour IMS. La fonctionnalité n’est donc plus valide. L’identité de l’Adobe nécessite que l’identité d’un utilisateur soit déterminée par son email.
 
 **Pour Adobe IMS, avons-nous la possibilité d’utiliser Adobe ID, Enterprise ID ou Federated ID ?**
 
