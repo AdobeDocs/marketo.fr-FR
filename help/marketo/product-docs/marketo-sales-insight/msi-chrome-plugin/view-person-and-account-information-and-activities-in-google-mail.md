@@ -1,52 +1,51 @@
 ---
 unique-page-id: 10095358
-description: Vue Personne et compte Informations et Activités dans Google Mail - Docs Marketo - Documentation sur le produit
-title: Informations et Activités sur la vue et le compte dans Google Mail
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Affichage des informations et des activités de personne et de compte dans Google Mail - Marketo Docs - Documentation du produit
+title: Affichage des informations et des activités de personne et de compte dans Google Mail
+exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
+source-git-commit: 885957f654a627aeba321934d23c3f3f420aa149
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
+# Affichage des informations et des activités de personne et de compte dans Google Mail {#view-person-and-account-information-and-activities-in-google-mail}
 
-# Vue Personne et compte Informations et Activités dans Google Mail {#view-person-and-account-information-and-activities-in-google-mail}
+## Affichage des activités dans Google Mail {#view-activities-in-google-mail}
 
-## Activités de vue dans Google Mail {#view-activities-in-google-mail}
+Utilisez le volet Informations sur Marketo contextuelles pour afficher les informations du compte et les activités récentes.
 
-Utilisez le volet Informations marketing contextuelles pour afficher les informations sur le compte et les activités récentes.
+Le volet apparaît dans le volet de lecture Courrier Google normal pour les éléments Boîte de réception et Envoyé et affiche des informations et des activités pour la personne qui vous a envoyé l’email que vous avez lu (ou à qui vous avez envoyé l’email pour les éléments du dossier Envoyé).
 
-Le volet s&#39;affiche à la fois dans la fenêtre de composition plein écran et comme le volet de lecture normal de Google Mail. Dans la vue de composition, le volet affiche des informations et des activités pour la première personne saisie sur la ligne À. Dans la vue de lecture, le volet affiche des informations et des activités pour la personne qui vous a envoyé le courriel que vous lisez.
-
-L’onglet Activité Personne affiche des informations pertinentes sur la personne, telles que son nom, son titre, son image, etc. Vous pouvez également afficher les activités les plus récentes qui se sont produites après l’envoi d’un courriel, telles que la visite d’une page Web, le remplissage d’un formulaire, le clic sur un lien, la participation à un événement et l’ouverture d’un courriel.
+L’onglet Activité de personne affiche des informations pertinentes sur la personne, telles que son nom, son titre, son image, etc. Vous pouvez également afficher les activités les plus récentes qui se sont produites après l’envoi d’un email, telles que la visite d’une page web, le remplissage d’un formulaire, le clic sur un lien, la participation à un événement et l’ouverture d’un email.
 
 ![](assets/1.png)
 
-L’onglet Activité de compte affiche les informations pertinentes sur le compte, telles que le nom de la société, l’URL du site Web et l’emplacement. L’onglet affiche également les activités de compte les plus récentes. Le compte est identifié par le domaine de la personne. Des Activités s&#39;affichent dans la liste si un utilisateur de Sales Insight de votre abonnement a déjà correspondu avec lui.
+L’onglet Activité du compte affiche les informations de compte pertinentes, telles que le nom de la société, l’URL du site web et l’emplacement. L’onglet affiche également les activités de compte les plus récentes. Le compte est identifié par le domaine de la personne. Les activités apparaissent dans la liste si un utilisateur de Sales Insight de votre abonnement ne les a jamais correspondantes.
 
 ![](assets/2.png)
 
-Si votre équipe n&#39;a jamais échangé un courriel de vente avec la personne, aucune activité ne s&#39;affiche.
+Si votre équipe n’a jamais échangé d’email de vente avec la personne, aucune activité ne s’affiche.
 
 ![](assets/3.png)
 
-Cliquez sur l&#39;icône pour réduire le volet.
+Cliquez sur l’icône pour réduire le volet.
 
 ![](assets/4.png)
 
-Cliquez sur l’icône Marqueur pour développer le volet.
+Cliquez sur l’icône Marketo pour développer le volet.
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## Activités de vue dans Google Chrome {#view-activities-in-google-chrome}
+## Affichage des activités dans Google Chrome {#view-activities-in-google-chrome}
 
-Vous pouvez également utiliser le volet Activités globales de Google Chrome pour afficher une liste complète des dernières activités survenues pour toutes les personnes avec lesquelles vous avez correspondu récemment. Il s’agit d’un flux mis à jour en temps réel qui affiche en permanence le nombre d’activités non lues sur l’icône.
+Vous pouvez également utiliser le volet Activité globale dans Google Chrome pour afficher la liste complète des activités les plus récentes qui se sont produites pour toutes les personnes avec lesquelles vous avez correspondu récemment. Il s’agit d’un flux mis à jour en temps réel qui affiche en permanence le nombre d’activités non lues sur l’icône.
 
-Cliquez sur l’icône Marqueur pour ouvrir le volet.
+Cliquez sur l’icône Marketo pour ouvrir le volet.
 
 ![](assets/image2015-10-6-15-3a32-3a52.png)
 
 >[!MORELIKETHIS]
 >
->[Utilisation de Marketing Cloud Insights pour Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Utilisation de Marketo Insights pour Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
