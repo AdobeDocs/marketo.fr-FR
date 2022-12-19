@@ -1,24 +1,27 @@
 ---
 unique-page-id: 14352440
-description: Comment envoyer un courriel à partir de Gmail - Docs marketing - Documentation du produit
-title: Comment envoyer un courriel à partir de Gmail
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Comment envoyer un courrier électronique à partir de Gmail - Documents Marketo - Documentation du produit
+title: Comment envoyer un email à partir de Gmail
+exl-id: 8a036b37-984c-4298-917e-fa680657b79f
+source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
+# Comment envoyer un email à partir de Gmail {#how-to-send-an-email-from-gmail}
 
-# Comment envoyer un courriel à partir de Gmail {#how-to-send-an-email-from-gmail}
+>[!CAUTION]
+>
+>L’utilisation de la fonctionnalité &quot;Annuler l’envoi&quot; dans Gmail empêchera l’envoi de l’email lors de l’utilisation de l’extension Gmail, mais une activité peut toujours s’afficher dans l’application web ainsi que dans Salesforce si vous enregistrez des activités sur Salesforce.
 
 1. Dans Gmail, cliquez sur **Composer**.
 
-1. Entrez l&#39;adresse électronique du destinataire.
+1. Saisissez l&#39;adresse email du destinataire.
 
-1. Entrez l&#39;objet du courrier électronique.
+1. Saisissez l&#39;objet de l&#39;email.
 
-1. Sélectionnez un modèle de courrier électronique ou écrivez un nouveau message.
+1. Sélectionnez un modèle d&#39;email ou écrivez un nouveau message.
 
-1. Lorsque votre adresse électronique est prête à être envoyée, cliquez sur le bouton **Envoyer et se connecter**. En cliquant sur ce bouton au lieu du bouton d’envoi normal, vous vous assurez que votre courrier électronique est envoyé avec le suivi appliqué. Sales Connect surveille le moment où votre adresse électronique est ouverte et le moment où un utilisateur clique sur un lien.
+1. Lorsque votre email est prêt à être envoyé, cliquez sur le **Send &amp; Connect** bouton . En cliquant sur ce bouton au lieu du bouton d’envoi normal, vous vous assurez que votre email est envoyé avec le suivi appliqué. Sales Connect effectue le suivi à l’ouverture de votre email et lorsqu’un utilisateur clique sur un lien.

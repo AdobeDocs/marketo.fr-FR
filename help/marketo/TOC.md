@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
 workflow-type: tm+mt
-source-wordcount: '8810'
+source-wordcount: '8812'
 ht-degree: 5%
 
 ---
@@ -1287,7 +1287,7 @@ ht-degree: 5%
                + [Vérifier votre e-mail](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [Ajouter ou mettre à jour votre signature de courrier électronique](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Ajouter une identité](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
-         + Administration {#admin}
+         + Admin {#admin}
             + [FAQ sur la synchronisation des données d’actions](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
             + [Connexion automatique à partir de Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [Domaines bloqués](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
@@ -1513,7 +1513,7 @@ ht-degree: 5%
       + [Définition des objectifs d’événement](product-docs/marketo-sky/setting-event-goals.md)
       + [Comprendre le suivi des objectifs et les inscriptions prévues](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + Mobile Marketing {#mobile-marketing}
-      + Administration {#admin}
+      + Admin {#admin}
          + [Ajout d’une application mobile](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [Ajout de vidéos en tant que service LaunchPoint](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
          + [Authentification de la sécurité d’accès mobile](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
@@ -1869,6 +1869,7 @@ ht-degree: 5%
 + Notes de mise à jour {#release-notes}
    + [Calendrier des versions](release-notes/release-schedule.md)
    + [Version actuelle](release-notes/current.md)
+   + [Version actuelle](release-notes/temp.md)
    + Versions précédentes {#previous-releases}
       + 2022 {#2022}
          + [Notes de mise à jour : 22 janvier](release-notes/previous-releases/2022/release-notes-jan-22.md)
