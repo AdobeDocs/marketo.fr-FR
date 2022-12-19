@@ -3,10 +3,10 @@ description: Temp - Documents Marketo - Documentation du produit
 title: Temp
 hide: true
 hidefromtoc: true
-source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+source-git-commit: 506b4d26cfceffe5e30b55d2dffe497640c1ba2c
 workflow-type: tm+mt
-source-wordcount: '555'
-ht-degree: 12%
+source-wordcount: '523'
+ht-degree: 13%
 
 ---
 
@@ -71,14 +71,11 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tbody>
 </table>
 
-### Expérience de nouvelle génération {#modern-ux}
+### titre {#title}
 
 </br>
 
-* **Mise à jour de Screens dans l’expérience utilisateur moderne**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
-
-   * Détails du modèle de page d’entrée
-   * Liste des modèles de courrier électronique
+* **title**: description
 
 <table> 
   <tr> 
