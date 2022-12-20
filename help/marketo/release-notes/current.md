@@ -1,11 +1,11 @@
 ---
-description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
+description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 9%
+source-wordcount: '618'
+ht-degree: 10%
 
 ---
 
@@ -113,6 +113,10 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 ## Fonctionnalités de version agile
 
 Les fonctionnalités suivantes suivent un format Agile et sont publiées à diverses dates avant ou après la date de publication standard. Vérifiez l’état de chaque fonctionnalité ci-dessous.
+
+### Chat dynamique {#dynamic-chat}
+
+</br>
 
 * **Définition d’une liste de sélection dans la carte Capture d’informations pour les conversations dynamiques**: Pour garantir la propreté des données, vous pouvez définir des listes de sélection pour les cartes de capture d’informations afin que les visiteurs puissent sélectionner uniquement une option dans une liste prédéfinie.
 
