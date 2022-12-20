@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
 workflow-type: tm+mt
-source-wordcount: '8812'
+source-wordcount: '8813'
 ht-degree: 5%
 
 ---
@@ -1869,7 +1869,6 @@ ht-degree: 5%
 + Notes de mise à jour {#release-notes}
    + [Calendrier des versions](release-notes/release-schedule.md)
    + [Version actuelle](release-notes/current.md)
-   + [Version actuelle](release-notes/temp.md)
    + Versions précédentes {#previous-releases}
       + 2022 {#2022}
          + [Notes de mise à jour : 22 janvier](release-notes/previous-releases/2022/release-notes-jan-22.md)
@@ -1877,6 +1876,7 @@ ht-degree: 5%
          + [Notes de mise à jour : 22 mai](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [Notes de mise à jour : 22 juin](release-notes/previous-releases/2022/release-notes-june-22.md)
          + [Notes de mise à jour : 22 août](release-notes/previous-releases/2022/release-notes-aug-22.md)
+         + [Notes de mise à jour : 22 octobre](release-notes/previous-releases/2022/release-notes-oct-22.md)
       + 2021 {#2021}
          + [Notes de mise à jour : 21 janvier](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Notes de mise à jour : 21 mai](release-notes/previous-releases/2021/release-notes-may-21.md)
