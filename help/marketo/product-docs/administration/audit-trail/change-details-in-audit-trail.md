@@ -136,7 +136,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Modifier le module <module name><attribute> à "value"</td> 
+   <td>Modifier le module <code>"<module name>" <attribute></code> à "value"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
