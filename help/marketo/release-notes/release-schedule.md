@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472490
-description: Calendrier des versions - Documents Marketo - Documentation du produit
+description: Calendrier des versions - Documents Marketo - Documentation sur le produit
 title: Calendrier des versions
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 132aa2edc3ae4a62d9f2e22aa0d5ae4353bc6328
+source-git-commit: 5f12d1dd83443214b9d54d46e18a492a175c791a
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 2%
+source-wordcount: '138'
+ht-degree: 6%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 2%
 
 **Statut**:
 
-* En programmation : nous prévoyons de publier les fonctionnalités et améliorations trimestrielles à la date indiquée
-* En cours - Nous sommes en train de développer et de documenter le contenu pour publication à la date indiquée.
+* En programmation : nous prévoyons de publier les fonctionnalités et améliorations à la date indiquée.
+* En cours - Nous sommes en train de déployer les fonctionnalités de la version.
 * Expédié : la version est terminée.
 
 _Les dates de publication peuvent être modifiées._
@@ -37,12 +37,12 @@ _Les dates de publication peuvent être modifiées._
    <th width="250px">Statut</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">22 octobre</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">22 octobre</a></td>
    <td>14 octobre 2022</td>
    <td>Expédié</td>
   </tr>
   <tr> 
-   <td>23 janvier</td>
+   <td><a href="/help/marketo/release-notes/current.md">23 janvier</a></td>
    <td>20 janvier 2023</td>
    <td>À la planification</td>
   </tr>
