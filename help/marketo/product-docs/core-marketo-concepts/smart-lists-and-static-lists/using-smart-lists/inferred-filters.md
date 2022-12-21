@@ -3,16 +3,22 @@ unique-page-id: 2953188
 description: Filtres déduits - Documents Marketo - Documentation du produit
 title: Filtres déduits
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c045e9008bf0e9d145ac67866a1e0d7cb6e26069
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
 # Filtres déduits {#inferred-filters}
 
-Lorsqu’une personne visite votre site web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) les cookies et les place dans le système. Nous recherchons leur adresse IP dans une base de données spéciale et en déduisons toutes sortes de bonnes informations. Regardez-le.
+Lorsqu’une personne visite votre site web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) les cookies et les place dans le système. Nous recherchons leur adresse IP dans une base de données spéciale et en déduisons toutes sortes de bonnes informations.
+
+>[!NOTE]
+>
+>Pour garantir que les valeurs de champ déduites restent à jour, nous mettons régulièrement à jour la base de données utilisée pour les recherches d’adresses IP. Les mises à jour de la base de données peuvent introduire de nouvelles valeurs de champ déduites que vous devrez peut-être ajouter aux définitions de filtre de liste dynamique.
+>
+>Des mises à jour de base de données peuvent se produire lors d’une [Version du produit Marketo Engage](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Lorsqu’une mise à jour se produit, la variable [Notes de mise à jour de Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} contient une explication de toute modification des valeurs de champ déduites.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
