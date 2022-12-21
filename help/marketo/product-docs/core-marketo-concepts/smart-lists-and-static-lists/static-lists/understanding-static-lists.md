@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2949891
-description: Présentation des Listes statiques - Documents Marketo - Documentation du produit
-title: Comprendre les Listes statiques
+description: Présentation des listes statiques - Documents Marketo - Documentation du produit
+title: Présentation des listes statiques
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '215'
@@ -11,41 +10,41 @@ ht-degree: 3%
 
 ---
 
-# Présentation des Listes statiques {#understanding-static-lists}
+# Présentation des listes statiques {#understanding-static-lists}
 
-Les listes statiques sont l&#39;une des caractéristiques les plus simples et les plus utiles de Marketo. Il s&#39;agit simplement d&#39;une liste de noms de votre base de données. Vous trouverez de nombreuses raisons de les utiliser.
+Les listes statiques sont l’une des fonctionnalités les plus simples et utiles de Marketo. Il s’agit simplement d’une liste de noms de votre base de données. Vous trouverez plein de raisons de les utiliser.
 
 >[!NOTE]
 >
->Une seule personne dans la base de données peut se trouver dans plusieurs listes statiques différentes.
+>Une seule personne dans la base de données peut se trouver dans de nombreuses listes statiques différentes.
 
-La différence entre une Liste statique et une  intelligente est cruciale pour comprendre.
+La différence entre une liste statique et une liste dynamique est essentielle pour comprendre.
 
-| Type | Logic |
+| Type | Logique |
 |---|---|
-| Liste intelligente | Basé sur **les règles définies** |
-| Liste statique | Basé sur **l&#39;ajout/la suppression de chaque personne** |
+| Liste intelligente | Basé sur **règles définies** |
+| Liste statique | Basé sur **ajout/suppression de chaque personne** |
 
 >[!CAUTION]
 >
->L&#39;une des erreurs les plus courantes est de penser qu&#39;on peut retirer une personne d&#39;une liste en la supprimant simplement. **C&#39;est faux**. La suppression de la personne les supprime de **la base de données entière**, et pas seulement de la liste.
+>Une des erreurs les plus courantes est de penser que vous pouvez retirer une personne d&#39;une liste en la &quot;supprimant&quot; simplement. **C&#39;est faux.**. La suppression de la personne les supprime de **toute la base**, pas seulement la liste.
 
-## Méthodes pour Ajouter/supprimer des personnes d&#39;une Liste {#ways-to-add-remove-people-from-a-list}
+## Méthodes pour ajouter/supprimer des personnes d’une liste {#ways-to-add-remove-people-from-a-list}
 
-1. Étape de flux de campagne dynamique ([Ajouter à la Liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Supprimer de la Liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. Étape de flux de campagne dynamique ([Ajouter à la liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Supprimer de la liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
 
 1. [Étape de flux d’action unique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
-1. Faire glisser des personnes dans une liste de l&#39;arbre
+1. Faire glisser des personnes dans une liste de l’arborescence
 1. [Import de la liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
-## Utilisation d&#39;une Liste statique {#some-uses-of-a-static-list}
+## Certaines utilisations d’une liste statique {#some-uses-of-a-static-list}
 
-* Liste présélectionnée pour recevoir un message marketing.
-* Liste &quot;concurrents&quot; que vous utilisez pour envoyer des messages de contre-intelligence espiègles.
-* Liste temporaire de personnes dans un état particulier, qui sont ensuite supprimées par des campagnes intelligentes lorsqu’elles quittent cet état.
+* Liste qui a été présélectionnée pour recevoir un message marketing.
+* Une liste de &quot;concurrents&quot; que vous utilisez pour envoyer des messages de contre-intelligence espiègles.
+* Liste temporaire des personnes d’un état particulier, qui sont ensuite supprimées par les campagnes intelligentes lorsqu’elles quittent cet état.
 
-Profitez du pouvoir de la LISTE !
+Profitez de la puissance de LIST !
 
 >[!MORELIKETHIS]
 >
->[Création d’une Liste statique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
+>[Création d’une liste statique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)

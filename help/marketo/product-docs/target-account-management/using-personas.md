@@ -1,27 +1,26 @@
 ---
 unique-page-id: 17727818
-description: Utilisation de Personas - Documents marketing - Documentation du produit
-title: Utilisation de Personas
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: Utilisation de Personas - Documents Marketo - Documentation du produit
+title: Utilisation des personnages
+exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
+# Utilisation des personnages {#using-personas}
 
-# Utilisation de Personas {#using-personas}
+Les personas sont un excellent moyen de segmenter votre audience et votre marché ABM en un sous-ensemble spécifique de personnes.
 
-Les personnes représentent un excellent moyen de segmenter votre audience et votre marché de GAB en fonction d&#39;un sous-ensemble spécifique de personnes.
+## Ajouter un personnage {#add-a-persona}
 
-## Ajouter une personnalité {#add-a-persona}
-
-1. Dans Mon marketing, cliquez sur **Admin**.
+1. Dans Mon Marketo, cliquez sur **Administration**.
 
    ![](assets/one.png)
 
-1. Dans l’arborescence, sélectionnez **Gestion du compte de Cible**.
+1. Dans l’arborescence, sélectionnez **Gestion de compte Target**.
 
    ![](assets/using-personas-2.png)
 
@@ -31,33 +30,33 @@ Les personnes représentent un excellent moyen de segmenter votre audience et vo
 
    >[!NOTE]
    >
-   >Le personnage Titre de la tâche est inclus par défaut. Il ne peut pas être modifié ou supprimé.
+   >Le personnage du titre de la tâche est inclus par défaut. Il ne peut pas être modifié ni supprimé.
 
-1. Pour ajouter d’autres personnages, cliquez sur **+Ajoute**.
+1. Pour ajouter d’autres personnages, cliquez sur **+Ajouter**.
 
    ![](assets/four.png)
 
-1. Attribuez un nom à votre personne et sélectionnez le champ correspondant dans la liste déroulante. Vous pouvez ajouter jusqu’à deux autres personnes. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Donnez un nom à votre persona et sélectionnez le champ correspondant dans la liste déroulante. Vous pouvez ajouter jusqu’à deux personnages supplémentaires. Cliquez sur **Enregistrer** une fois terminé.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Seuls les champs personnalisés de type &quot;liste de sélection&quot; de Salesforce synchronisés à votre instance de marché sont disponibles dans la liste déroulante des champs personnels lors de la création d’une personne.
+   >Seuls les champs personnalisés Salesforce de type &quot;liste de sélection&quot; synchronisés avec votre instance Marketo sont disponibles dans la liste déroulante des champs de persona lors de la création d’une persona.
 
-## Vue de vos personnalités {#view-your-personas}
+## Affichage de vos personnages {#view-your-personas}
 
-Vue de vos personnalités en visitant un compte nommé spécifique.
+Affichez vos personnages en consultant un compte nommé spécifique.
 
-1. Sélectionnez un compte nommé.
+1. Sélectionnez le compte nommé de votre choix.
 
    ![](assets/one-a.png)
 
-1. Cliquez sur l’onglet **Personnalités**.
+1. Cliquez sur le bouton **Personas** .
 
    ![](assets/two-a.png)
 
-1. Tous vos personnages sont répertoriés. Cliquez sur un nombre pour voir la liste des gens.
+1. Toutes vos personas sont répertoriées. Cliquez sur un nombre pour afficher la liste des personnes.
 
    ![](assets/three-a.png)
 
@@ -65,8 +64,8 @@ Vue de vos personnalités en visitant un compte nommé spécifique.
    >
    >Le X dans le Titre Persona agit comme un caractère générique. Par exemple, &quot;CXO&quot; inclura les PDG, les directeurs financiers, etc.
 
-## Filtres de la personnalité {#persona-filters}
+## Filtres de personnalisation {#persona-filters}
 
-1. Utilisez des filtres personnels dans une liste intelligente pour commercialiser un groupe spécifique de personnes.
+1. Utilisez des filtres de personnage dans une liste dynamique pour les commercialiser auprès d’un groupe de personnes spécifique.
 
 ![](assets/one-b.png)

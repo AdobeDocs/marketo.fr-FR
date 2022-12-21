@@ -1,36 +1,35 @@
 ---
 unique-page-id: 2359459
-description: Création d’un extrait de code - Documents marketing - Documentation du produit
-title: Création d’un extrait de code
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Création d’un fragment de code - Documents Marketo - Documentation du produit
+title: Création d’un fragment de code
+exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
+# Création d’un fragment de code {#create-a-snippet}
 
-# Créer un extrait de code {#create-a-snippet}
+Les fragments de code peuvent être utilisés comme blocs de contenu dynamique sur **emails** et **landing pages**.
 
-Les extraits de code peuvent être utilisés comme blocs de contenu dynamique sur les **landings page** et ****.
-
-1. Accédez à **Design Studio.**
+1. Accédez au **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Cliquez sur **New**, puis sur **New Snippet**.
+1. Cliquez sur **Nouveau** puis **Nouveau fragment de code**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. Saisissez les informations requises et cliquez sur **Créer**.
+1. Saisissez les informations requises, puis cliquez sur **Créer**.
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Bon travail ! Simplifiez votre travail en créant des extraits de code pour votre contenu dynamique. Vous pouvez maintenant aller de l&#39;avant et [ajouter du contenu à votre nouveau fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+Bon travail ! Simplifiez votre travail en créant des fragments de code pour votre contenu dynamique. Maintenant, vous pouvez avancer et [ajouter du contenu à votre nouveau fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
->* [Ajouter du contenu à un extrait de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>* [Ajout de contenu à un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 >* [Compréhension du contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
 

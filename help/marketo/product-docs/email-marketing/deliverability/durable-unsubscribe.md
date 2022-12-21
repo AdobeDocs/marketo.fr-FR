@@ -1,62 +1,61 @@
 ---
 unique-page-id: 10094576
-description: Désabonnement durable - Documents marketing - Documentation du produit
+description: Désabonnement durable - Documents Marketo - Documentation du produit
 title: Désabonnement durable
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: e03a5a01-7395-45b3-8351-7931ec413236
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
-
 # Désabonnement durable {#durable-unsubscribe}
 
-Marketo a amélioré le comportement de la fonctionnalité de désabonnement pour la rendre &quot;durable&quot;. Nous avons ajouté un état de courriel principal, qui est distinct de l&#39;indicateur de désabonnement visible sur l&#39;enregistrement des détails de la personne.
+Marketo a amélioré le comportement de la fonctionnalité de désabonnement pour la rendre &quot;durable&quot;. Nous avons ajouté un état d’email principal, qui est distinct de l’indicateur de désabonnement visible dans l’enregistrement des détails de la personne.
 
-Si l’indicateur de désabonnement est défini sur false pour true, l’état du courrier électronique principal est mis à jour et la modification est propagée à d’autres personnes ayant la même adresse électronique. Si une personne est supprimée et recréée, ou si un nouvel enregistrement est créé avec la même adresse électronique, l’indicateur de désabonnement sera **non** remplacé.
+Si l’indicateur unsubscribe est défini sur false sur true, l’état de l’email principal est mis à jour et la modification est propagée à d’autres personnes ayant la même adresse email. Si une personne est supprimée et recréée, ou si un nouvel enregistrement est créé avec la même adresse électronique, l’indicateur de désabonnement s’affiche. **not** être écrasée.
 
 >[!NOTE]
 >
->La désinscription durable fonctionne sur toutes les partitions de votre base de données Marketo.
+>Le désabonnement durable fonctionne sur toutes les partitions de votre base de données Marketo entière.
 
-## Mettre à jour l&#39;indicateur Désabonner de True vers False (par exemple, Réabonner une personne) {#update-the-unsubscribe-flag-from-true-to-false-e-g-re-subscribe-a-person}
+## Mettre à jour l’indicateur Se désabonner de True à False (par exemple, Se réabonner à une personne) {#update-the-unsubscribe-flag-from-true-to-false-e-g-re-subscribe-a-person}
 
-Il existe plusieurs façons de s&#39;abonner à nouveau à une personne.
+Il existe plusieurs façons de réinscrire une personne.
 
-Dans Salesforce, **effacez** le champ Opt-out de courriel de l&#39;enregistrement du prospect/contact. Cette opération sera synchronisée avec Marketo.
+Dans Salesforce, **clear** le champ Email Opt Out dans l&#39;enregistrement de l&#39;prospect/du contact. Cette opération se synchronise avec Marketo.
 
 ![](assets/one.png)
 
-Dans Marketo, **effacez** la zone désabonnée dans l&#39;onglet Infos de l&#39;enregistrement de la personne.
+Dans Marketo, **clear** la boîte de désinscription dans l&#39;onglet Informations de l&#39;enregistrement de la personne.
 
 ![](assets/two.png)
 
-Exécutez une étape de flux **Modifier la valeur des données** comme illustré ci-dessous pour une ou plusieurs personnes.
+Exécutez une **Modifier la valeur des données** étape de flux comme illustré ci-dessous sur une ou plusieurs personnes.
 
 ![](assets/three.png)
 
-Mettez à jour une personne existante via l’API SOAP.
+Mettre à jour une personne existante via l’API SOAP
 
-## Création d&#39;une personne {#creating-a-new-person}
+## Création d’une personne {#creating-a-new-person}
 
-Lorsqu’une nouvelle personne est créée, Marketo la vérifie par rapport à la table d’état du courrier électronique principal. Si la personne a déjà été désabonnée, nous mettrons à jour l&#39;enregistrement à désabonner.
+Lorsqu’une nouvelle personne est créée, Marketo la vérifie par rapport au tableau d’état de l’email maître. Si la personne a déjà été désinscrite, nous mettrons à jour l&#39;enregistrement à désinscrire.
 
-## Modification de l&#39;adresse électronique {#changing-an-email-address}
+## Modification d’une adresse électronique {#changing-an-email-address}
 
-Si vous changez l’adresse électronique d’une personne en adresse électronique désabonnée, cette personne sera désabonnée. Cette modification peut se produire dans Marketing ou dans Salesforce.
+Si vous remplacez l’adresse électronique d’une personne par une adresse électronique de désabonnement, cette personne sera désinscrite. Cette modification peut se produire dans Marketo ou dans Salesforce.
 
-Si vous changez une adresse de messagerie désabonnée en adresse de messagerie abonnée, cette personne devient abonnée.
+Si vous remplacez une adresse email désabonnée par une adresse qui est abonnée, cette personne deviendra abonnée.
 
 ## Réabonnement {#re-subscribing}
 
-Tout comme un désabonnement provoquait le désabonnement de toutes les personnes ayant la même adresse électronique, un réabonnement reprenait en fait chaque personne ayant la même adresse électronique.
+Tout comme un désabonnement provoquait la désinscription de toutes les personnes ayant la même adresse email, un réabonnement réabonnait en fait chaque personne ayant la même adresse email.
 
-## Journal des Activités {#activity-log}
+## Journal d&#39;activité {#activity-log}
 
-Les définitions des modifications de valeur de données pour _updateLeadEmailStatus_ et _resetLeadEmailStatus_ se trouvent dans [cet article de la communauté](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
+Définitions des changements de valeur de données pour _updateLeadEmailStatus_ et _resetLeadEmailStatus_ se trouve dans [cet article de la communauté](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
->[Comprendre la désinscription](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
+>[Comprendre le désabonnement](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)

@@ -1,60 +1,59 @@
 ---
 unique-page-id: 2359791
-description: Définition de l’objectif pour l’Offre de référence - Documents marketing - Documentation du produit
-title: Définition de l’objectif pour l’Offre de renvoi
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Définition de l’objectif pour l’offre de référent - Documents Marketo - Documentation du produit
+title: Définition de l’objectif pour l’offre de référent
+exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
+# Définition de l’objectif pour l’offre de référent {#specify-goal-for-referral-offer}
 
-# Spécifier l&#39;objectif pour l&#39;Offre de renvoi {#specify-goal-for-referral-offer}
+Lorsque vous [créer une offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous devez définir l’objectif d’exécution. L’objectif peut être défini par l’activité de la personne sur la page web, comme les visites ou les inscriptions. Vous pouvez même utiliser une [événement JavaScript personnalisé](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
 
-Lorsque vous [créez une offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous devez définir l&#39;objectif d&#39;exécution. L’objectif peut être défini par l’activité d’une personne sur la page Web, telle que les visites de page ou les abonnements. Vous pouvez même utiliser un [événement JavaScript personnalisé](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
-
-Vous pouvez également utiliser un déclencheur de liste dynamique dans Marketing pour attendre tout jalon, tel qu’une opportunité créée pour la personne référencée.
+Vous pouvez également utiliser un déclencheur de liste dynamique dans Marketo pour attendre tout jalon, comme une opportunité créée pour la personne référencée.
 
 Exemples d’objectifs :
 
 * 10 visites référencées
-* 5 abonnements référencés
-* 1 opportunité renvoyée créée
+* 5 inscriptions référencées
+* 1 opportunité référencée créée
 * 2 achats de commerce électronique référencés
-* 5 participants webinaires référencés
+* 5 participants au webinaire référencés
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez l’offre de référence, puis cliquez sur **Modifier le brouillon**.
+1. Sélectionnez l’offre de parrainage, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-19-15-3a6-3a35.png)
 
-1. Dans l’éditeur d’offres de référence, accédez à **Paramètres de l’application** > **Détails de l’Offre**.
+1. Dans l&#39;éditeur d&#39;offres de parrainage, accédez à **Paramètres de l’application** > **Détails de l’offre**.
 
    ![](assets/image2014-9-19-15-3a6-3a44.png)
 
-1. Sous **Paramètres**, choisissez un type d&#39;événement dans la liste déroulante **Objectif d’exécution**.
+1. Sous **Paramètres**, choisissez un type d’événement dans la variable **Objectif d’exécution** menu déroulant.
 
    ![](assets/image2014-9-19-15-3a6-3a56.png)
 
 >[!TIP]
 >
->Si vous prévoyez d&#39;utiliser l&#39;étape de flux **Attribuer du crédit au Parrain**, vous devez sélectionner **Déclencheur de Liste dynamique** comme type d&#39;objectif d&#39;exécution ici.
+>Si vous prévoyez d’utiliser la variable **Attribuer du crédit au référent** étape de flux, vous devez sélectionner **Déclencheur de liste dynamique** comme type d’objectif d’exécution ici.
 
-* Visites référencées : Les participants à l’Offre reçoivent du crédit pour chaque visite d’un ami à la page qui héberge votre offre.
-* Abonnements référencés : Les participants à l&#39;Offre reçoivent du crédit pour chaque ami qui s&#39;inscrit à l&#39;offre.
-* Déclencheur de Liste intelligente : Les participants à l&#39;Offre reçoivent le crédit de chaque ami qui répond aux conditions d&#39;un déclencheur [liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) dans une [campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Par exemple, vous pouvez utiliser un déclencheur qui se déclenche lorsqu’une prospect référencée se connecte à un webinaire.
+* Visites référencées : Les participants à l’offre obtiennent du crédit pour chaque visite d’un ami sur la page hébergeant votre offre.
+* Signatures référencées : Les participants à l’offre reçoivent du crédit pour chaque ami qui s’inscrit à l’offre.
+* Smart List Trigger : Les participants à l’offre obtiennent du crédit pour chaque ami qui remplit les conditions d’un [liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) déclencheur dans un [campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Par exemple, vous pouvez utiliser un déclencheur qui se déclenche lorsqu’un prospect référencé s’inscrit à un webinaire.
 
-* Événement JavaScript personnalisé : Les participants à l’Offre reçoivent du crédit pour chaque ami qui déclenche un événement JavaScript défini sur votre page. Voir [Script de conversion pour Événements personnalisés](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+* Événement JavaScript personnalisé : Les participants à l’offre obtiennent du crédit pour chaque ami qui déclenche un événement JavaScript défini sur votre page. Voir [Script de conversion pour les événements personnalisés](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!NOTE]
 >
->De nouveaux filtres et déclencheurs sont disponibles dans les campagnes dynamiques pour surveiller l’activité sociale. Voir [utilisation de déclencheurs et de filtres pour les activités sociales](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+>De nouveaux filtres et déclencheurs sont disponibles dans les campagnes dynamiques pour surveiller l’activité sociale. Voir [utiliser des déclencheurs et des filtres pour les activités sociales ;](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!MORELIKETHIS]
 >
->Vous pouvez ensuite [sélectionner les courriels d&#39;inscription et d&#39;exécution](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) à envoyer à partir de votre offre de référence.
+>Ensuite, vous pouvez [sélectionner les emails d’inscription et d’exécution ;](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) pour envoyer à partir de votre offre de parrainage.

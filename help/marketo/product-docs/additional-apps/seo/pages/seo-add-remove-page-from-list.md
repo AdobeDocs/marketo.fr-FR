@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2949218
-description: SEO - Ajouter/supprimer la page de la Liste - Marketo Docs - Documentation du produit
-title: 'Optimisation du référencement : Ajouter/supprimer la page de la Liste'
+description: SEO - Ajouter/Supprimer une page de la liste - Documents Marketo - Documentation du produit
+title: SEO - Ajouter/Supprimer une page de la liste
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# SEO - Ajouter/supprimer la page de la Liste {#seo-add-remove-page-from-list}
+# SEO - Ajouter/Supprimer une page de la liste {#seo-add-remove-page-from-list}
 
-Vous souhaitez gérer vos pages ? Vous pouvez facilement le faire en créant une liste. Vous pouvez utiliser des listes pour organiser les pages ou filtrer les données dans des tableaux de bord.
+Vous souhaitez gérer vos pages ? Vous pouvez facilement le faire en créant une liste. Vous pouvez utiliser des listes pour organiser les pages ou filtrer les données dans les tableaux de bord.
 
-## Ajouter la page à une Liste {#add-page-to-a-list}
+## Ajouter une page à une liste {#add-page-to-a-list}
 
-1. Accédez à la section **Pages**.
+1. Accédez au **Pages** .
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Passez la souris sur la page à ajouter à une liste. Cliquez sur **Ajouter/Supprimer de la Liste**.
+1. Pointez sur la page à ajouter à une liste. Cliquez sur **Ajouter/Supprimer de la liste**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -31,25 +30,25 @@ Vous souhaitez gérer vos pages ? Vous pouvez facilement le faire en créant une
 
    >[!TIP]
    >
-   >Vous pouvez également créer une nouvelle liste pour votre page. Il vous suffit de taper votre nom dans Créer une nouvelle liste.
+   >Vous pouvez également créer une nouvelle liste pour que votre page soit consultée. Saisissez simplement le nom de votre choix dans Créer une liste.
 
-1. Cliquez sur la liste à laquelle vous venez d&#39;ajouter votre page.
+1. Cliquez sur la liste à laquelle vous venez d’ajouter votre page.
 
    ![](assets/image2014-9-18-13-3a3-3a40.png)
 
-Ouais ! Vous devriez maintenant voir votre page ajoutée à la liste.
+Oui ! Votre page doit maintenant être ajoutée à la liste.
 
-## Supprimer une page d&#39;une Liste {#remove-page-from-a-list}
+## Supprimer une page d’une liste {#remove-page-from-a-list}
 
-1. Accédez à la section Pages.
+1. Accédez à la section Pages .
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. Dans l&#39;onglet Pages, cliquez sur la liste à nettoyer.
+1. Dans l’onglet Pages , cliquez sur la liste à nettoyer.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Passez la souris sur la page à supprimer. Cliquez sur **Ajouter/Supprimer de la Liste**.
+1. Pointez sur la page à supprimer. Cliquez sur **Ajouter/Supprimer de la liste**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
@@ -57,7 +56,7 @@ Ouais ! Vous devriez maintenant voir votre page ajoutée à la liste.
 
    >[!NOTE]
    >
-   >Toutes les listes auxquelles le mot-clé appartient actuellement auront une coche. Une fois retirée de la liste, la vérification disparaît.
+   >Toutes les listes auxquelles le mot-clé appartient actuellement sont cochées. Une fois supprimée de la liste, la vérification disparaît.
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 

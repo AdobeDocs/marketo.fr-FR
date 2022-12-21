@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Le journal d’activité est la source ultime de vérité. C&#39;est l&#39;histoire complète du parcours d&#39;une personne dans Marketo.
 
-1. Accédez à la **Base de données**.
+1. Accédez au **Base**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Sélectionnez **Toutes les personnes**.
+1. Sélectionner **Toutes les personnes**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Cliquez sur l’onglet **Personnes** . Sélectionnez un numéro **Id** de personne.
+1. Cliquez sur le bouton **Personnes** . Sélection d’une personne **Id** Nombre.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
@@ -48,4 +48,4 @@ Vous devez exporter le journal des activités d’une personne vers Excel ?
 
    >[!MORELIKETHIS]
    >
-   >En savoir plus sur le [filtrage du journal d’activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) pour afficher des activités de personnes spécifiques.
+   >En savoir plus sur [filtrage du journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) pour afficher des activités de personne spécifiques.

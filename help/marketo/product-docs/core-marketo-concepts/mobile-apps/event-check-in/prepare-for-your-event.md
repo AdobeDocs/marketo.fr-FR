@@ -1,9 +1,8 @@
 ---
 unique-page-id: 10099360
-description: Préparation de votre Événement - Documents Marketo - Documentation du produit
-title: Préparation de votre Événement
+description: Préparation de votre événement - Documents Marketo - Documentation du produit
+title: Préparation de votre événement
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
@@ -11,63 +10,63 @@ ht-degree: 0%
 
 ---
 
-# Préparation de votre Événement {#prepare-for-your-event}
+# Préparation de votre événement {#prepare-for-your-event}
 
-Il y a plusieurs choses à faire pour se préparer au événement.
+Il y a plusieurs choses que vous devez faire pour vous préparer à l&#39;événement.
 
-## Créer un nouveau rôle Marketo {#create-a-new-marketo-role}
+## Création d’un rôle Marketo {#create-a-new-marketo-role}
 
-Marketo a un rôle d&#39;utilisateur spécial pour l&#39;application d&#39;enregistrement des événements. [Créez un nouveau ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) rôle Marketo pour les utilisateurs d’iPad ou d’Android, avec l’autorisation d’accéder à l’application mobile.
+Marketo dispose d’un rôle d’utilisateur spécial pour l’application d’archivage des événements. [Création d’un rôle Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) pour les utilisateurs d’iPad ou d’Android, avec autorisation d’accès à l’application mobile.
 
-## Invitation de nouveaux utilisateurs de tablettes au Événement {#invite-new-tablet-users-to-the-event}
+## Invitation de nouveaux utilisateurs de tablette à l’événement {#invite-new-tablet-users-to-the-event}
 
-[Invitez de nouveaux utilisateurs de tablette à assister à l’](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) événement et attribuez-leur le nouveau rôle.
+[Invitation de nouveaux utilisateurs de tablette à l’événement](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) et attribuez-leur le nouveau rôle.
 
-## Créer un Programme de Événement Marketo {#create-a-new-marketo-event-program}
+## Création d’un programme d’événement Marketo {#create-a-new-marketo-event-program}
 
-[Créez un nouveau ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) programme de événement Marketo pour capturer le statut de vos personnes à mesure qu’elles progressent au cours de différentes étapes et obtenir des mesures précises du retour sur investissement pour vos initiatives marketing.
+[Création d’un programme d’événement Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) pour capturer l’état de vos employés au fil des différentes étapes et obtenir des mesures précises du retour sur investissement pour vos initiatives marketing.
 
-## Spécifier les dates de Événement {#specify-the-event-dates}
+## Définition des dates de l’événement {#specify-the-event-dates}
 
-Il est facile de définir les dates de votre événement.
+Il est instantané de définir les dates de votre événement.
 
-1. Cliquez sur le événement de la planification et définissez le début et la date et l’heure de fin.
+1. Cliquez sur l’événement dans le planning et définissez la date et l’heure de début et de fin.
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Faites glisser le curseur pour remplacer **Tentative** par **Confirmé**.
+1. Glissement vers le haut pour changer **Tentative** to **Confirmé**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
    >[!CAUTION]
    >
-   >Si la date du Événement est antérieure ou postérieure à la date actuelle, votre événement n’apparaîtra pas dans l’application. **Conseil** : Pour le tester, définissez temporairement les dates dans une semaine du jour. N’oubliez pas de renvoyer le événement aux dates correctes après l’avoir testé.
+   >Si la date de l’événement est supérieure ou égale à une semaine avant ou après la date actuelle, votre événement n’apparaîtra pas dans l’application. **Conseil**: Pour le tester, définissez temporairement les dates sur dans une semaine. N’oubliez pas de renvoyer l’événement aux dates correctes après l’avoir testé.
 
-## Ajouter des personnes à votre Événement {#add-people-to-your-event}
+## Ajout de personnes à votre événement {#add-people-to-your-event}
 
-Maintenant que vous connaissez le *quand*, il est temps d&#39;ajouter le *qui*.
+Maintenant que vous connaissez le *when*, il est temps d’ajouter la variable *who*.
 
-1. Si vous avez déjà une liste de personnes, dans Mon Marketo, cliquez sur la mosaïque **Base de données**.
+1. Si vous disposez déjà d’une liste de personnes, cliquez sur le bouton **Base** mosaïque.
 
    ![](assets/db.png)
 
-1. Sélectionnez une liste avec des personnes et cliquez sur l&#39;onglet **Personnes**.
+1. Sélectionnez une liste de personnes et cliquez sur le bouton **Personnes** .
 
    ![](assets/four.png)
 
-1. Sélectionnez les personnes pour votre événement dans la liste. Utilisez **Ctrl** (ou **Commande** sur un Mac) pour cliquer sur plusieurs personnes ou **Sélectionner tout** pour les marquer toutes.
+1. Sélectionnez les personnes pour votre événement dans la liste. Utilisation **Ctrl** (ou **Commande** sur une Mac) pour cliquer sur plusieurs personnes, ou **Tout sélectionner** pour tous les marquer.
 
    ![](assets/five.png)
 
-1. Cliquez sur **Actions de personne**, passez la souris sur **Programmes** et sélectionnez **Modifier l’état du Programme**.
+1. Cliquez sur **Actions de personne**, survolez **Programmes** et sélectionnez **Modifier l’état du programme**.
 
    ![](assets/six.png)
 
-1. Cliquez sur la liste déroulante **Programme** et sélectionnez votre événement.
+1. Cliquez sur le bouton **Programme** et sélectionnez votre événement.
 
    ![](assets/seven.png)
 
-1. Cliquez sur le menu déroulant **Nouveau statut** et sélectionnez **Spectacle routier > Enregistré**. Cliquez sur **Exécuter maintenant**.
+1. Cliquez sur le bouton **Nouveau statut** et sélectionnez **Affichage de la route > Inscrits**. Cliquez sur **Exécuter maintenant**.
 
    ![](assets/eight.png)
 
@@ -75,8 +74,8 @@ Maintenant que vous connaissez le *quand*, il est temps d&#39;ajouter le *qui*.
 
    ![](assets/image2016-4-7-16-3a49-3a7.png)
 
-1. ...et indique quand la tâche est terminée.
+1. ...et indique le moment où la tâche est terminée.
 
    ![](assets/ten.png)
 
-   Les personnes sélectionnées sont maintenant dans votre événement, prêtes à être enregistrées à l&#39;aide de l&#39;application pour tablette sur l&#39;étage du salon.
+   Les personnes sélectionnées sont désormais présentes dans votre événement et prêtes à être archivées à l’aide de l’application pour tablette sur l’écran du salon.

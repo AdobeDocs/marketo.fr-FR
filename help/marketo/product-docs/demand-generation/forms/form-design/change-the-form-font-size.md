@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359610
-description: Modifier la taille de police du formulaire - Documents marketing - Documentation du produit
-title: Modification de la taille de police du formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Modification de la taille de police du formulaire - Documents Marketo - Documentation du produit
+title: Modifier la taille de police du formulaire
+exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-
 # Modifier la taille de police du formulaire {#change-the-form-font-size}
 
-Marketo vous permet de personnaliser facilement l’apparence de vos formulaires. Vous pouvez modifier la taille de la police. Voici comment.
+Marketo facilite la personnalisation de l’apparence de vos formulaires. Vous pouvez modifier la taille de la police. Voici comment.
 
 >[!TIP]
 >
->Ce paramètre a un impact sur l’étiquette du formulaire, le texte de saisie et le texte du bouton d’envoi.
+>Ce paramètre a un impact sur le libellé du formulaire, le texte de saisie et le texte du bouton d’envoi.
 
 1. Accédez à **Activités marketing**.
 
@@ -27,11 +26,11 @@ Marketo vous permet de personnaliser facilement l’apparence de vos formulaires
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Sous **Paramètres du formulaire**, sélectionnez **Paramètres**.
+1. Sous **Paramètres de formulaire**, Sélectionner **Paramètres**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Sélectionnez la **taille de police** voulue.
+1. Sélectionnez la **Taille de police** vous voulez.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
@@ -43,14 +42,14 @@ Marketo vous permet de personnaliser facilement l’apparence de vos formulaires
 
    >[!NOTE]
    >
-   >Le formulaire doit être approuvé pour être utilisé sur les landings page.
+   >Le formulaire doit être validé pour être utilisé sur les landing pages.
 
    ![](assets/image2014-9-15-16-3a11-3a17.png)
 
    >[!NOTE]
    >
-   >N’oubliez pas d’approuver le brouillon de landing page créé par les modifications du formulaire.
+   >N’oubliez pas d’approuver le brouillon de page d’entrée créé par les modifications du formulaire.
 
    ![](assets/image2014-9-15-16-3a11-3a42.png)
 
-Un morceau de gâteau ! Vous avez ça.
+Un morceau de gâteau ! Vous avez ceci.

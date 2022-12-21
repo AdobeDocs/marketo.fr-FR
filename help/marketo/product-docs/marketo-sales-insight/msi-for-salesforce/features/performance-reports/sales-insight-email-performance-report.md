@@ -1,19 +1,18 @@
 ---
 unique-page-id: 4720314
-description: Rapport sur les performances des courriels de Sales Insight - Documents marketing - Documentation sur les produits
-title: Rapport Performance des courriers électroniques de Sales Insight
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Rapport Performances des emails de Sales Insight - Documents Marketo - Documentation du produit
+title: E-mail du rapport sur le rendement concernant les données de ventes
+exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
+# E-mail du rapport sur le rendement concernant les données de ventes {#sales-insight-email-performance-report}
 
-# Rapport sur les performances des courriels de Sales Insight {#sales-insight-email-performance-report}
-
-Vue des performances des courriers électroniques envoyés par l&#39;intermédiaire de Salesforce, Microsoft Dynamics ou d&#39;un module externe Gmail ou Outlook.
+Affichez les performances des emails envoyés par le biais de Salesforce, Microsoft Dynamics ou d’un module externe Gmail ou Outlook.
 
 ## Générer un rapport {#generate-a-report}
 
@@ -21,37 +20,37 @@ Vue des performances des courriers électroniques envoyés par l&#39;intermédia
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Cliquez sur **Performances du courriel de Sales Insight**.
+1. Cliquez sur **Performances des emails de Sales Insight**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Cliquez sur l&#39;onglet **Configuration** et choisissez les valeurs souhaitées.
+1. Cliquez sur le bouton **Configuration** et sélectionnez les valeurs souhaitées.
 
    ![](assets/three.png)
 
-1. Cliquez sur l&#39;onglet **Rapport**.
+1. Cliquez sur le bouton **Rapport** .
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
-   Super ! Vous pouvez maintenant voir comment vos courriers électroniques envoyés par votre équipe commerciale ont fonctionné.
+   Fantastique ! Vous pouvez maintenant voir les performances de vos emails envoyés par votre équipe commerciale.
 
    >[!NOTE]
    >
-   >L&#39;état Distribué n&#39;est pas capturé pour les courriers électroniques envoyés via Sales Insight et ne sera pas inclus dans ce rapport ou ce journal des activités.
+   >L’état Délivrés n’est pas capturé pour les emails envoyés par l’intermédiaire de Sales Insight et ne sera pas inclus dans ce rapport ou dans les logs d’activité.
 
 >[!TIP]
 >
->Cliquez sur le nom d’un courrier électronique pour l’ouvrir dans l’outil de prévisualisation du courrier électronique.
+>Cliquez sur le nom d’un email pour l’ouvrir dans le prévisualiseur d’email.
 
 ## Groupe par représentant commercial {#group-by-sales-rep}
 
-Vous pouvez vue ce rapport groupé par représentant commercial en modifiant vos paramètres.
+Vous pouvez afficher ce rapport groupé par représentant commercial en modifiant vos paramètres.
 
-1. Cliquez sur **Configuration**. Doublon-clic **Courriel**.
+1. Cliquez sur **Configuration**. Double-cliquez **Email**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Sélectionnez Regrouper les e-mails par **représentant commercial**.
+1. Sélectionner les emails de groupe par **représentant commercial**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
@@ -59,8 +58,8 @@ Vous pouvez vue ce rapport groupé par représentant commercial en modifiant vos
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Cliquez sur l&#39;onglet **Rapport**.
+1. Cliquez sur le bouton **Rapport** .
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
-   Plutôt cool, hein ? Vous pouvez maintenant voir les performances des courriels regroupés par représentant commercial.
+   Plutôt cool, hein ? Vous pouvez maintenant voir les performances des emails regroupés par représentant commercial.

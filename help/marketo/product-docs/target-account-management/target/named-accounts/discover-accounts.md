@@ -1,43 +1,42 @@
 ---
 unique-page-id: 11378812
-description: Comptes Discover - Documents marketing - Documentation du produit
-title: Discover Comptes
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Discover Comptes - Documents Marketo - Documentation du produit
+title: Découverte des comptes
+exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Découverte des comptes {#discover-accounts}
 
-# Comptes Discover {#discover-accounts}
+Utilisez l’option Discover pour identifier les comptes cibles potentiels.
 
-Utilisez l&#39;option Discover pour identifier les comptes de cible potentiels.
+## Découvrir les comptes CRM {#discover-crm-accounts}
 
-## Comptes CRM Discover {#discover-crm-accounts}
-
-Identifiez les comptes de cible potentiels à partir de votre gestion de la relation client.
+Identifiez les comptes cibles potentiels à partir de votre CRM.
 
 >[!NOTE]
 >
->Une fois que vous avez connecté votre gestion de la relation client à la gestion de la relation client de Marketo, **Discover CRM accounts** affiche tous les comptes de gestion de la relation client et les informations pertinentes pour vous aider à choisir les comptes nommés appropriés. Marketo ajoute des informations supplémentaires sur ce qui est reçu de la gestion de la relation client.
+>Une fois que vous avez connecté votre CRM à Marketo TAM, **Découverte des comptes CRM** affiche tous les comptes CRM et les informations pertinentes pour vous aider à choisir les comptes nommés appropriés. Marketo ajoute des informations supplémentaires sur ce qui est reçu du CRM.
 
-**Personnes**  (dans les comptes de gestion de la relation client de Discover et les Sociétés Discover Marketo) : Inclut les contacts et les pistes. Les pistes peuvent être découvertes à l&#39;aide de la [correspondance de pistes/comptes de Marketo](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md).
+**Personnes** (Dans Comptes CRM Discover et sociétés Marketo Discover) : Inclut à la fois les contacts et les pistes. Les pistes peuvent être découvertes à l’aide de Marketo [correspondance de piste à compte](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md).
 
-**Personnes**  potentielles (dans les comptes de gestion de la relation client de Discover et les Sociétés Discover Marketo) : Indique le nombre de pistes trouvées par Marketo qui pourraient appartenir à un compte CRM.
+**Personnes potentielles** (Dans Comptes CRM Discover et sociétés Marketo Discover) : Indique le nombre de pistes trouvées par Marketo qui peuvent appartenir à un compte CRM.
 
-**Champ**  CRM personnalisé (dans les comptes CRM Discover uniquement) : Cela vous aidera à aligner votre organisation commerciale et marketing pour la sélection de comptes de cible corrects. Une fois que vous avez [mappé le champ CRM personnalisé](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) avec la gestion de la relation client de Marketo, nous vous montrerons les données mappées pour vous aider à identifier vos comptes de cible.
+**Champ CRM personnalisé** (Dans les comptes CRM Discover uniquement) : Cela vous aidera à aligner votre organisation commerciale et marketing pour la sélection de comptes cibles corrects. Une fois que [faire correspondre le champ CRM personnalisé](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) avec Marketo TAM, nous vous montrerons les données mappées pour vous aider à identifier vos comptes cibles.
 
-1. Dans Comptes nommés, cliquez sur la liste déroulante **New** et sélectionnez **Discover CRM accounts**.
+1. Dans Comptes nommés, cliquez sur le bouton **Nouveau** et sélectionnez **Découverte des comptes CRM**.
 
    ![](assets/disc-crm-one.png)
 
-1. Une nouvelle fenêtre/onglet s&#39;ouvre. Sélectionnez le ou les comptes CRM à ajouter à vos comptes nommés et cliquez sur **Suivant**.
+1. Une nouvelle fenêtre ou un nouvel onglet s’ouvre. Sélectionnez le ou les comptes CRM que vous souhaitez ajouter à vos comptes nommés et cliquez sur **Suivant**.
 
    ![](assets/disc-crm-two.png)
 
-1. L’écran prévisualisation confirme le nombre de sélections. Cliquez sur **Créer**.
+1. L’écran de prévisualisation confirme le nombre de sélections. Cliquez sur **Créer**.
 
    ![](assets/disc-three.png)
 
@@ -45,58 +44,58 @@ Identifiez les comptes de cible potentiels à partir de votre gestion de la rela
 
    ![](assets/disc-four.png)
 
-## Discover Marketo Sociétés {#discover-marketo-companies}
+## Découvrir les sociétés Marketo {#discover-marketo-companies}
 
-Identifiez les bonnes sociétés de ciblage.
+Identifiez les bonnes entreprises pour le ciblage.
 
 >[!NOTE]
 >
->Dans les Sociétés Discover Marketo, vous verrez les sociétés Marketo qui ne proviennent pas de votre gestion de la relation client.
+>Dans les sociétés Discover Marketo, vous verrez les sociétés Marketo qui ne proviennent pas de votre système de gestion de la relation client.
 
-1. Dans Comptes nommés, cliquez sur la liste déroulante **New** et sélectionnez **Discover Marketo Sociétés**.
+1. Dans Comptes nommés, cliquez sur le bouton **Nouveau** et sélectionnez **Découvrez les entreprises Marketo**.
 
    ![](assets/one-1.png)
 
-1. Une nouvelle fenêtre/onglet s&#39;ouvre. Sélectionnez les sociétés à ajouter à vos comptes nommés et cliquez sur **Suivant**.
+1. Une nouvelle fenêtre ou un nouvel onglet s’ouvre. Sélectionnez les sociétés à ajouter à vos comptes nommés, puis cliquez sur **Suivant**.
 
    ![](assets/disc-comp-two.png)
 
    >[!NOTE]
    >
-   >Dans les Sociétés Discover Marketo et Discover CRM, Marketo effectue automatiquement les opérations suivantes :
+   >Dans les entreprises Discover Marketo et Discover CRM, Marketo automatiquement :
    >
-   >* Recherche les personnes de votre base de données Marketo dont la société est répertoriée dans leur enregistrement. Si vous voyez plusieurs valeurs pour certains attributs (industrie, par exemple), c’est parce que Marketo a trouvé des valeurs différentes répertoriées pour ces personnes. L&#39;attribut avec le plus grand nombre d&#39;accès gagne
+   >* Recherche les personnes de votre base de données Marketo dont l’entreprise est répertoriée dans leur enregistrement. Si plusieurs valeurs s’affichent pour certains attributs (secteur, par exemple), c’est parce que Marketo a trouvé des valeurs différentes répertoriées pour ces personnes. L’attribut avec le plus d’accès gagne
    >
    >Dans **Discover CRM** uniquement, Marketo automatiquement :
    >
    >* Synchronise et associe les contacts CRM au compte nommé
    >
-   >Dans **Discover Marketo Sociétés** uniquement, Marketo automatiquement :
+   >Dans **Découvrez les entreprises Marketo** uniquement, Marketo automatiquement :
    >
-   >* Filtres de la plupart des Prestataires Internet et des domaines publics (yahoo.com, gmail.com, par exemple) en tant que noms de société
-      >
-      >
-   * déduplique les comptes CRM. Si vous avez &quot;Acme&quot; dans un enregistrement et &quot;Acme Inc&quot; (ou l’un des suffixes suivants : Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), nous les fusionnerons dans TAM en tant que juste &quot;Acme&quot;
+   >* Filtre la plupart des fournisseurs de services Internet et des domaines publics (par exemple, yahoo.com, gmail.com) comme noms de société
    >
-   >Si vous souhaitez que Marketo déduplique les comptes par ID de gestion de la relation client ou propriétaire de compte au lieu de par nom de Société, contactez le [Support marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >* déduplique les comptes CRM. Si vous avez &quot;Acme&quot; dans un enregistrement et &quot;Acme Inc&quot; (ou l’un des suffixes suivants : Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), nous les fusionnerons dans TAM en tant que simplement &quot;Acme&quot;.
 
-1. Cliquez sur la flèche vers le bas située sous la colonne Compte nommé pour afficher la liste déroulante.
+   >
+   >Si vous souhaitez que Marketo déduplique les comptes par identifiant CRM ou propriétaire de compte au lieu de par nom de société, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+
+1. Cliquez sur la flèche vers le bas située sous la colonne Compte nommé pour afficher le menu déroulant.
 
    ![](assets/disc-comp-three.png)
 
    >[!CAUTION]
    >
-   >À l’avenir, toute nouvelle personne issue de ces sociétés sélectionnées sera automatiquement affectée à ses comptes désignés respectifs. Veuillez vérifier ces sociétés et vous assurer qu&#39;elles sont affectées au compte nommé approprié.
+   >Dorénavant, toutes les nouvelles personnes issues de ces sociétés sélectionnées seront automatiquement affectées à leurs comptes nommés respectifs. Vérifiez deux fois ces sociétés et assurez-vous qu’elles sont affectées au compte nommé approprié.
 
-1. Pour sélectionner un compte existant, cliquez sur la liste déroulante **Compte nommé**, sélectionnez le compte de votre choix, puis cliquez sur **Suivant**.
+1. Pour sélectionner un compte existant, cliquez sur le bouton **Compte nommé** , sélectionnez le compte de votre choix, puis cliquez sur **Suivant**.
 
    ![](assets/disc-comp-four.png)
 
-   Vous avez également la possibilité de créer un nouveau compte nommé en saisissant le nom de votre choix directement dans la liste déroulante. Cliquez en dehors de la zone lorsque vous avez terminé..
+   Vous avez également la possibilité de créer un compte nommé en saisissant directement le nom de votre choix dans la liste déroulante. Lorsque vous avez terminé, cliquez en dehors de la zone...
 
    ![](assets/disc-comp-five.png)
 
-   ...et vous verrez votre nouveau compte nommé. À ce stade, il vous suffit de cliquer sur **Suivant** comme à l’étape 4.
+   ...et votre nouveau compte nommé s’affiche. À ce stade, cliquez simplement sur **Suivant** comme à l’étape 4.
 
    ![](assets/disc-comp-six.png)
 
@@ -104,18 +103,18 @@ Identifiez les bonnes sociétés de ciblage.
 
    ![](assets/disc-comp-seven.png)
 
-   Bon travail !
+   Beau travail !
 
    ![](assets/disc-co-six.png)
 
 >[!NOTE]
 >
->Si vous constatez une incompatibilité entre les comptes CRM que vous avez sélectionnés et ce qui se trouve dans la grille de gestion de la relation client de Discover, cela est probablement dû à un ou plusieurs des éléments suivants :
+>Si vous constatez une incohérence entre les comptes CRM que vous avez sélectionnés et ce qui se trouve dans la grille CRM Discover, cela est probablement dû à l’une ou plusieurs des raisons suivantes :
 >
->* Disposer de comptes CRM différents avec des noms similaires dédoublés
->* La prochaine synchronisation planifiée n&#39;a pas encore eu lieu.
+>* Disposer de différents comptes CRM avec des noms similaires qui ont été dédupliqués
+>* La synchronisation planifiée suivante ne s’est pas encore produite
 
 
 >[!MORELIKETHIS]
 >
->[Correspondance de piste avec compte](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[Correspondance de pistes de comptes](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

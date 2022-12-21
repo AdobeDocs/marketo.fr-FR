@@ -36,7 +36,7 @@ Attributs requis :\
 **id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Les espaces ne sont pas autorisés. Doit être unique.\
 **mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom explicite.
 
-En option:\
+Facultatif:\
 Le contenu d’un élément avec la classe mktoText (s’il est fourni) sera utilisé comme valeur par défaut pour la région modifiable.
 
 Exemple :
@@ -55,7 +55,7 @@ Classe : &quot;mktoImg&quot;\
 id: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Les espaces ne sont pas autorisés. Doit être unique.\
 mktoName : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom explicite.
 
-En option:\
+Facultatif:\
 mktoImgClass: Chaîne. La valeur ici sera ajoutée à l’attribut de classe de la propriété `<img>` élément dans la balise div.
 
 Exemple :
@@ -69,7 +69,7 @@ Classe : &quot;mktoImg&quot;\
 id: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Les espaces ne sont pas autorisés. Doit être unique.\
 mktoName : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom explicite.
 
-En option:\
+Facultatif:\
 src : URL de chaîne. Cette valeur sera utilisée comme valeur par défaut de l’image.
 
 Exemple :
@@ -178,7 +178,7 @@ Attributs requis :\
 **id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Les espaces ne sont pas autorisés. Doit être unique.\
 **mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom explicite.
 
-En option:\
+Facultatif:\
 **default**: Valeur de chaîne pour l’attribut . Vide si aucun n’est fourni.\
 **allowHtml**: &quot;true&quot; ou &quot;false&quot;. Contrôle si la valeur est imprimée sans séquence d’échappement par HTML. La valeur par défaut est &quot;false&quot; si elle n’est pas définie.
 
@@ -197,7 +197,7 @@ Attributs requis :\
 **id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Les espaces ne sont pas autorisés. Doit être unique.\
 **mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom explicite.
 
-En option:\
+Facultatif:\
 **default**: Code couleur de caractère HEX à 7 chiffres. Par exemple : &quot;#336699&quot;
 
 Exemple de base :
@@ -215,7 +215,7 @@ Attributs requis :\
 **id**: Chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret &quot;-&quot; et un trait de soulignement &quot;_&quot;. Les espaces ne sont pas autorisés. Doit être unique.\
 **mktoName** : Chaîne. Il s’agit du nom d’affichage qui s’affichera dans l’éditeur de landing page. Il est recommandé d’utiliser un nom explicite.
 
-En option:\
+Facultatif:\
 **default**: Chaîne booléenne. &quot;true&quot; ou &quot;false&quot; contrôle si la valeur commence à la position ON ou OFF. &quot;false&quot; s’il n’est pas fourni.\
 **false_value**: Chaîne. La valeur à insérer pour la variable lorsqu’elle est en position OFF. &quot;false&quot; s’il n’est pas fourni.\
 **true_value**: Chaîne. La valeur à insérer pour la variable lorsqu’elle est en position ON. &quot;true&quot; s’il n’est pas fourni.\

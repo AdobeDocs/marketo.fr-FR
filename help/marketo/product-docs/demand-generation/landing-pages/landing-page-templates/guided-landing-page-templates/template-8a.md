@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 8A {#template-8a}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 8A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)
+Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 8A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)
 
 ![](assets/image2015-7-29-9-3a53-3a6.png)
 

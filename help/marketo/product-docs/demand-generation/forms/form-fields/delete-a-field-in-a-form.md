@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359606
-description: Suppression d’un champ dans un formulaire - Documents marketing - Documentation du produit
-title: Suppression d’un champ dans un formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Suppression d’un champ dans un formulaire - Documents Marketo - Documentation du produit
+title: Suppression d’un champ d’un formulaire
+exl-id: 294150f1-309f-42a3-9569-628deb160fc9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
+# Suppression d’un champ d’un formulaire {#delete-a-field-in-a-form}
 
-# Supprimer un champ dans un formulaire {#delete-a-field-in-a-form}
-
-S’il existe un champ dont vous n’avez plus besoin sur votre formulaire, il peut être facilement supprimé. Voici comment.
+S’il existe un champ dont vous n’avez plus besoin sur votre formulaire, il peut facilement être supprimé. Voici comment.
 
 1. Accédez à **Activités marketing**.
 
@@ -23,7 +22,7 @@ S’il existe un champ dont vous n’avez plus besoin sur votre formulaire, il p
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Sélectionnez votre champ et cliquez sur l&#39;icône **supprimer**.
+1. Sélectionnez votre champ et cliquez sur le bouton **delete** icône .
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 
@@ -37,4 +36,4 @@ S’il existe un champ dont vous n’avez plus besoin sur votre formulaire, il p
 
 >[!NOTE]
 >
->N&#39;oubliez pas [d&#39;approuver le brouillon de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+>N&#39;oublie pas de [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.

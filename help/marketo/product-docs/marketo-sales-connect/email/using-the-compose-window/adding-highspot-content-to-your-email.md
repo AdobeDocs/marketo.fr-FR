@@ -1,29 +1,28 @@
 ---
 unique-page-id: 37356590
-description: Ajouter du contenu en haut lieu à votre adresse électronique - Documents marketing - Documentation du produit
-title: Ajouter du contenu en haut lieu à votre adresse électronique
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Ajout de contenu de zone réactive à votre message électronique - Documents Marketo - Documentation du produit
+title: Ajout de contenu de zone réactive à votre message électronique
+exl-id: a069d29a-46b6-4347-b474-df17b7595436
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
+# Ajout de contenu de zone réactive à votre message électronique {#adding-highspot-content-to-your-email}
 
-# Ajouter du contenu en haut lieu à votre adresse électronique {#adding-highspot-content-to-your-email}
+Si vous êtes un client de zone réactive, vous pouvez facilement insérer du contenu de zone réactive dans vos e-mails de connexion aux ventes.
 
-Si vous êtes un client Highspot, vous pouvez facilement insérer du contenu Highspot dans vos courriers électroniques de Sales Connect.
-
-1. Créez votre brouillon de courrier électronique (il existe plusieurs façons de procéder, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
+1. Créez votre brouillon d’email (il existe plusieurs façons de le faire, dans cet exemple que nous choisissons. **Composer** dans l’en-tête ).
 
    ![](assets/one-5.png)
 
-1. Renseignez le champ A et saisissez un objet.
+1. Renseignez le champ À et saisissez un Objet.
 
    ![](assets/two-5.png)
 
-1. Cliquez sur l’emplacement du message électronique dans lequel vous souhaitez insérer le contenu des zones sensibles. Cliquez sur la liste déroulante des flèches (en regard de l’icône de pièce jointe) et sélectionnez **Haut-lieu**.
+1. Cliquez sur l&#39;emplacement dans l&#39;email où vous souhaitez insérer le contenu Zone réactive. Cliquez sur la liste déroulante de flèche (en regard de l’icône de pièce jointe) et sélectionnez **Zone réactive**.
 
    ![](assets/three-5.png)
 
@@ -31,14 +30,14 @@ Si vous êtes un client Highspot, vous pouvez facilement insérer du contenu Hig
 
    ![](assets/four-5.png)
 
-1. Sélectionnez le contenu de votre choix et cliquez sur le bouton **Ajouter le contenu**.
+1. Sélectionnez le contenu souhaité, puis cliquez sur le bouton **Ajouter du contenu** bouton .
 
    ![](assets/five-3.png)
 
    >[!NOTE]
    >
-   >Si le contenu que vous souhaitez répertorier n’apparaît pas, utilisez la barre de recherche située en haut de l’écran.
+   >Si le contenu que vous souhaitez répertorier n’apparaît pas, utilisez la barre de recherche située en haut.
 
    ![](assets/six.png)
 
-Le contenu s’affiche sous la forme d’un lien dans votre courrier électronique. Le destinataire peut cliquer sur le lien pour vue/télécharger le contenu.
+Le contenu s’affiche sous la forme d’un lien dans votre email. Le destinataire peut cliquer sur le lien pour visualiser/télécharger le contenu.

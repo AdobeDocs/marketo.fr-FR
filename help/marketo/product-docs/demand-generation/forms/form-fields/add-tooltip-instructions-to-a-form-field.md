@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2359673
-description: Ajouter des instructions d’info-bulle à un champ de formulaire - Documents marketing - Documentation du produit
-title: Ajouter des instructions d’info-bulle à un champ de formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Ajout d’instructions d’info-bulle à un champ de formulaire - Documents Marketo - Documentation du produit
+title: Ajout d’instructions d’info-bulle à un champ de formulaire
+exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
+# Ajout d’instructions d’info-bulle à un champ de formulaire {#add-tooltip-instructions-to-a-form-field}
 
-# Ajouter des instructions d’info-bulle à un champ de formulaire {#add-tooltip-instructions-to-a-form-field}
-
-[Les ](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) notes et les instructions aident les gens à remplir des formulaires. Voici comment ajouter des instructions d’info-bulle.
+[Conseils](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) et les instructions aident les gens à remplir des formulaires. Voici comment ajouter des instructions d’info-bulle.
 
 >[!NOTE]
 >
 >**Définition**
 >
->Le formulaire **Astuces** est le texte qui se trouve à l’intérieur du champ et qui disparaît lorsque le visiteur commence à saisir du texte dans le champ.
+>Formulaire **Conseils** est du texte qui s’affiche dans le champ et qui disparaît lorsque le visiteur commence à saisir du texte dans le champ.
 >
->Les instructions **Form** sont de petites info-bulles qui apparaissent lorsque le visiteur passe le pointeur de la souris sur le champ.
+>Formulaire **Instructions** Il s’agit de petites info-bulles qui s’affichent lorsque le visiteur survole le champ.
 
 1. Accédez à **Activités marketing**.
 
@@ -45,8 +44,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >N&#39;oubliez pas [d&#39;approuver le brouillon de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+   >N&#39;oublie pas de [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
-Un travail formidable ! L’info-bulle s’affiche lorsqu’un visiteur passe la souris sur le champ.
+Super travail ! L’info-bulle s’affiche lorsqu’un visiteur passe la souris sur le champ.

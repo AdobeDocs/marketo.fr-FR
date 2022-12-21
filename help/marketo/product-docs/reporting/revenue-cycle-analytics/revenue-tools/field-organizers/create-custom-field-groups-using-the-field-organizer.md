@@ -1,46 +1,45 @@
 ---
 unique-page-id: 10094404
-description: Création de groupes de champs personnalisés à l’aide de l’organiseur de champs - Documents marketing - Documentation du produit
-title: Création de groupes de champs personnalisés à l’aide de l’organiseur de champs
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Création de groupes de champs personnalisés à l’aide de l’Organiseur de champs - Documents Marketo - Documentation du produit
+title: Création de groupes de champs personnalisés à l’aide de l’Organiseur de champs
+exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '992'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Création de groupes de champs personnalisés à l’aide de l’Organiseur de champs {#create-custom-field-groups-using-the-field-organizer}
 
-# Créer des groupes de champs personnalisés à l’aide de l’organiseur de champs {#create-custom-field-groups-using-the-field-organizer}
+Avant d’activer les groupes de champs personnalisés pour la création de rapports dans la zone d’analyse des performances du modèle de l’Explorateur de cycle de revenus, vous devez classer les champs standard ou personnalisés en groupes pour la création de rapports via l’Organiseur de champs de la gestion des pistes Marketo. Cela s’applique uniquement aux attributs de prospect et de société.
+Lorsque vous sélectionnez un champ standard ou personnalisé dans la liste déroulante Champ de la boîte de dialogue Nouvel Organiseur de champs , le système mappe le type de données Gestion des pistes Marketo associé au champ que vous souhaitez regrouper avec l’un des trois éditeurs disponibles dans l’Organiseur de champs : chaîne, entier ou date.
 
-Avant de pouvoir activer des groupes de champs personnalisés pour le rapports dans la zone Analyse de performances du modèle de l&#39;Explorateur de cycles de recettes, vous devez classer les champs standard ou personnalisés en groupes pour le rapports via l&#39;organiseur de champs de la gestion des pistes de marketing. Cela ne s&#39;applique qu&#39;aux attributs de piste et de société.
-Lorsque vous sélectionnez un champ standard ou personnalisé dans la liste déroulante Champ de la boîte de dialogue Nouvelle organiseur de champs, le système mappe le type de données Gestion des pistes marketing associé au champ que vous souhaitez regrouper avec l&#39;un des trois éditeurs disponibles dans l&#39;organiseur de champs : chaîne, entier ou date.
-
-| Type de données de gestion des pistes marketing | Type de données de l’éditeur de l’organiseur de champs |
+| Type de données de gestion des pistes Marketo | Type de données de l’éditeur d’organiseur de champ |
 |---|---|
 | Chaîne | Chaîne |
-| Courriel | Chaîne |
+| Adresse e-mail | Chaîne |
 | Entier | Entier |
 | Texte | Chaîne |
 | URL | Chaîne |
 | Référence | Non pris en charge |
 | Devise | Entier |
-| DateTime | Date |
-| Boolean | Non pris en charge |
+| DateHeure | Date |
+| Booléenne | Non pris en charge |
 | Téléphone | Chaîne |
 | Date | Date |
-| Flottant | Entier |
+| Flottante | Entier |
 | Calculé | Non pris en charge |
 
-Les trois sections suivantes décrivent comment créer un groupe de champs personnalisé pour un type de chaîne, d’entier ou de date.
+Les trois sections suivantes décrivent comment créer un groupe de champs personnalisé pour un type chaîne, entier ou date.
 
 ## Créer un groupe de champs personnalisé - Éditeur de chaînes {#create-custom-field-group-string-editor}
 
-1. Cliquez sur **Base de données de pistes**.
+1. Cliquez sur **Base de données de piste**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **New**, puis sélectionnez **New Field Organizer**.
+1. Cliquez sur **Nouveau**, puis sélectionnez **Nouvel Organisateur de champ**.
 
    ![](assets/two.png)
 
@@ -52,19 +51,19 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/four.png)
 
-   Le nouveau groupe personnalisé s&#39;affiche dans l&#39;arborescence Base de données de pistes représentée par Nom de champ > Groupe de noms de champ (par exemple : Pays > Groupe de pays).
+   Le nouveau groupe personnalisé s’affiche dans l’arborescence de la base de données de piste, sous la forme Nom du champ > Groupe Nom du champ (par exemple : Pays > Groupe de pays).
 
    ![](assets/4.5.png)
 
-1. Cliquez sur l’icône représentant un crayon pour personnaliser le nom. Par exemple, vous pouvez renommer &quot;Groupe de pays&quot; en &quot;Continent&quot;. Tapez le nouveau nom de votre choix et cliquez en dehors de la zone pour enregistrer automatiquement.
+1. Cliquez sur l’icône représentant un crayon pour personnaliser le nom. Par exemple, vous pouvez renommer &quot;Groupe de pays&quot; en &quot;Continent&quot;. Saisissez le nouveau nom de votre choix et cliquez en dehors de la zone pour enregistrer automatiquement.
 
    ![](assets/five.png)
 
-1. Par défaut, toutes les valeurs de données sont placées dans le sous-groupe &quot;Autre&quot;. Pour classer les valeurs de données par catégorie, cliquez sur **Ajouter le groupe** pour créer un sous-groupe et lui donner un nom.
+1. Par défaut, toutes les valeurs de données sont placées dans le sous-groupe &quot;Autre&quot;. Pour classer les valeurs de données par catégorie, cliquez sur **Ajouter un groupe** pour créer un sous-groupe et lui donner un nom.
 
    >[!NOTE]
    >
-   >Vous pouvez ajouter jusqu’à dix sous-groupes pour classer les valeurs de données par catégorie. Un numéro d’identification est attribué à chaque sous-groupe créé.
+   >Vous pouvez ajouter jusqu’à dix sous-groupes pour classer les valeurs de données. Un numéro d’identification est attribué à chaque sous-groupe créé.
 
    Dans cet exemple, des groupes ont été créés pour la plupart des continents.
 
@@ -74,7 +73,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
    >
    >Pour supprimer un sous-groupe, il vous suffit de cliquer sur le X rouge en regard du nom du sous-groupe. Si le groupe contient des valeurs de données, celles-ci seront déplacées vers le groupe par défaut Autre.
 
-1. Mettez en surbrillance une ou plusieurs valeurs de données dans la trame et faites glisser et déposez-les dans le sous-groupe approprié.
+1. Mettez en surbrillance une ou plusieurs valeurs de données dans la zone de travail, puis faites glisser et déposez-les dans le sous-groupe approprié.
 
    ![](assets/seven.png)
 
@@ -82,21 +81,21 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
    >
    >Pour supprimer une valeur de données d’un sous-groupe, réaffectez-la au groupe par défaut Autre.
 
-1. Utilisez l’option de filtre située dans le coin supérieur gauche directement au-dessus de la trame pour sélectionner et vue les valeurs de données dans un ou plusieurs sous-groupes. Les valeurs de données basées sur votre sélection de filtre s’affichent dans la trame.
+1. Utilisez l’option de filtrage située dans le coin supérieur gauche directement au-dessus de la zone de travail pour sélectionner et afficher les valeurs des données dans un ou plusieurs sous-groupes. Les valeurs de données basées sur votre sélection de filtre s’affichent dans la zone de travail.
 
    ![](assets/eight.png)
 
    >[!NOTE]
    >
-   >Une fois les groupes définis, vous pouvez activer le groupe de champs personnalisé pour le rapports dans l&#39;Analyse des performances du modèle (Pistes) via l&#39;onglet Analyses du cycle de recettes de la gestion des pistes de marketing.
+   >Une fois les groupes définis, vous pouvez activer le groupe de champs personnalisé pour la création de rapports dans l’ analyse des performances du modèle (Leads) via l’onglet Analyses du cycle de revenu dans la gestion des pistes de Marketo.
 
 ## Créer un groupe de champs personnalisé - Éditeur entier {#create-custom-field-group-integer-editor}
 
-1. Cliquez sur **Base de données de pistes**.
+1. Cliquez sur **Base de données de piste**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **New**, puis sélectionnez **New Field Organizer**.
+1. Cliquez sur **Nouveau**, puis sélectionnez **Nouvel Organisateur de champ**.
 
    ![](assets/two.png)
 
@@ -108,27 +107,27 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/9.5.png)
 
-   Le nouveau groupe personnalisé s&#39;affiche dans l&#39;arborescence Base de données de pistes représentée par Nom de champ > Groupe de noms de champ (par exemple : Recettes annuelles > Groupe de recettes annuelles).
+   Le nouveau groupe personnalisé s’affiche dans l’arborescence de la base de données de piste, sous la forme Nom du champ > Groupe Nom du champ (par exemple : Chiffre d’affaires annuel > Chiffre d’affaires annuel).
 
    ![](assets/9.6.png)
 
-1. Cliquez sur le nom de groupe personnalisé par défaut au-dessus de l’éditeur d’entiers pour personnaliser le nom. Par exemple, vous pouvez renommer &quot;Groupe de recettes annuelles&quot; en &quot;Recettes annuelles par taille&quot;. Cliquez sur **Enregistrer**.
+1. Cliquez sur le nom du groupe personnalisé par défaut au-dessus de l’éditeur d’entiers pour personnaliser le nom. Par exemple, vous pouvez renommer &quot;Groupe des recettes annuelles&quot; en &quot;Recettes annuelles par taille&quot;. Cliquez sur **Enregistrer**.
 
    ![](assets/eleven.png)
 
-   L’éditeur d’entiers vous permet de créer plusieurs sous-groupes pour définir chaque sous-groupe par taille. Dans cet exemple, trois groupes seront créés pour les petites, moyennes et entreprises.
+   L’éditeur d’entiers vous permet de créer plusieurs sous-groupes afin de définir chaque sous-groupe par taille. Dans cet exemple, trois groupes seront créés pour les petites, moyennes et grandes entreprises.
 
-1. Pour ajouter votre premier groupe, saisissez un nom dans le champ **Nom du groupe** (par exemple : Petit) et saisissez une valeur maximale dans le champ **Groupe Plage** (exemple : 200000). Cliquez sur **Ajouter le groupe**.
+1. Pour ajouter votre premier groupe, saisissez un nom dans le champ **Nom du groupe** field (exemple : Petit) et saisissez une valeur maximale dans la variable **Plage de groupe** field (exemple : 200000). Cliquez sur **Ajouter un groupe**.
 
    ![](assets/twelve.png)
 
-   Une entrée de groupe vide s&#39;affiche sous le groupe qui vient d&#39;être saisi. L’exemple ci-dessous illustre une entrée pour les petites, moyennes et entreprises.
+   Une entrée de groupe vide s’affiche sous le groupe qui vient d’être saisi. L’exemple ci-dessous illustre une entrée pour les petites, moyennes et grandes entreprises.
 
    >[!NOTE]
    >
-   >Vous pouvez ajouter jusqu’à dix sous-groupes pour classer les valeurs de données par catégorie. Chaque entrée de plage de groupes s&#39;appuie sur l&#39;entrée précédente. Si vous laissez la dernière entrée Plage de groupes vide pour le dernier sous-groupe personnalisé que vous créez, aucune valeur de données maximale n’est définie.
+   >Vous pouvez ajouter jusqu’à dix sous-groupes pour classer les valeurs de données. Chaque entrée de plage de groupes s’appuie sur l’entrée précédente. Si vous laissez la dernière entrée de plage de groupes vide pour le dernier sous-groupe personnalisé que vous créez, aucune valeur de données maximale n’est définie.
 
-1. Cliquez sur l’onglet Résumé pour enregistrer et vérifier vos paramètres.
+1. Cliquez sur l’onglet Résumé pour enregistrer et consulter vos paramètres.
 
    ![](assets/thirteen.png)
 
@@ -142,19 +141,19 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    >[!NOTE]
    >
-   >Une fois les groupes définis, vous pouvez activer le groupe de champs personnalisé pour le rapports dans l&#39;Analyse des performances du modèle (Pistes) via l&#39;onglet Analyses du cycle de recettes de la gestion des pistes de marketing.
+   >Une fois les groupes définis, vous pouvez activer le groupe de champs personnalisé pour la création de rapports dans l’ analyse des performances du modèle (Leads) via l’onglet Analyses du cycle de revenu dans la gestion des pistes de Marketo.
 
-## Créer un groupe de champs personnalisé - Editeur de dates {#create-custom-field-group-date-editor}
+## Créer un groupe de champs personnalisé - Éditeur de dates {#create-custom-field-group-date-editor}
 
-1. Cliquez sur **Base de données de pistes**.
+1. Cliquez sur **Base de données de piste**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **New**, puis sélectionnez **New Field Organizer**.
+1. Cliquez sur **Nouveau**, puis sélectionnez **Nouvel Organisateur de champ**.
 
    ![](assets/two.png)
 
-1. Cliquez sur **Champ** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau de la section précédente). La date d&#39;acquisition est utilisée ici.
+1. Cliquez sur **Champ** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau de la section précédente). La date d’acquisition est utilisée ici.
 
    ![](assets/fourteen.png)
 
@@ -162,26 +161,26 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/14.5.png)
 
-   Le nouveau groupe personnalisé s&#39;affiche dans l&#39;arborescence Base de données de pistes représentée par Nom de champ > Groupe de noms de champ (par exemple : Date d’acquisition > Groupe de dates d’acquisition).
+   Le nouveau groupe personnalisé s’affiche dans l’arborescence de la base de données de piste, sous la forme Nom du champ > Groupe Nom du champ (par exemple : Date d’acquisition > Groupe de dates d’acquisition).
 
    ![](assets/14.6.png)
 
-1. Cliquez sur le nom de groupe personnalisé par défaut au-dessus de l’éditeur de dates pour personnaliser le nom. Par exemple, vous pouvez renommer &quot;Groupe de dates d’acquisition&quot; en &quot;Catégories de dates d’acquisition&quot;. Cliquez sur **Enregistrer**.
+1. Cliquez sur le nom du groupe personnalisé par défaut situé au-dessus de l’éditeur de date pour personnaliser le nom. Par exemple, vous pouvez renommer &quot;Groupe de dates d’acquisition&quot; en &quot;Catégories de dates d’acquisition&quot;. Cliquez sur **Enregistrer**.
 
    ![](assets/fifteen.png)
 
-   L’éditeur de dates vous permet de créer plusieurs sous-groupes et de définir chaque sous-groupe par date. Dans cet exemple, trois groupes seront créés : Pistes du premier trimestre, Pistes du deuxième trimestre et Pistes du quinzième trimestre et Pistes du troisième trimestre.
+   L&#39;éditeur de date permet de créer plusieurs sous-groupes et de définir chaque sous-groupe par date. Dans cet exemple, trois groupes seront créés : Pistes 1-15, Pistes 2-15 et Pistes 15.
 
-1. Pour ajouter votre premier groupe, saisissez un nom dans le champ **Nom du groupe** (par exemple : Q1-15 Pistes) et saisissez une date dans le champ de date qui représente la date à laquelle la piste a été acquise au plus tard (exemple : 31/03/2015 pour le dernier jour du 1er trimestre 2015). Cliquez sur **Ajouter le groupe**.
+1. Pour ajouter votre premier groupe, saisissez un nom dans le champ **Nom du groupe** field (exemple : T1-15 Leads) et saisissez une date dans le champ de date qui représente la date à laquelle la piste a été acquise au plus tôt (exemple : 3/31/2015 pour le dernier jour du premier trimestre - 15). Cliquez sur **Ajouter un groupe**.
 
    ![](assets/sixteen.png)
 
    >[!NOTE]
    >
-   >Vous pouvez ajouter jusqu’à dix sous-groupes pour classer les valeurs de données par catégorie. Chaque entrée de plage de groupes s&#39;appuie sur l&#39;entrée précédente. Si vous laissez la dernière entrée Plage de groupes vide pour le dernier sous-groupe personnalisé que vous créez, aucune valeur de date de fin n’est définie.
+   >Vous pouvez ajouter jusqu’à dix sous-groupes pour classer les valeurs de données. Chaque entrée de plage de groupes s’appuie sur l’entrée précédente. Si vous laissez la dernière entrée de plage de groupes vide pour le dernier sous-groupe personnalisé que vous créez, aucune valeur de date de fin n’est définie.
 
-   L’exemple ci-dessous montre une entrée pour le 1er trimestre 2015 menant au 3e trimestre.
+   L’exemple ci-dessous illustre une entrée pour le premier trimestre 2015 qui passe par le troisième trimestre.
 
    ![](assets/16.5.png)
 
-   Et c&#39;est tout ! Bon travail.
+   Et voilà ! Bon boulot.

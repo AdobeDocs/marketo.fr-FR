@@ -1,30 +1,29 @@
 ---
 unique-page-id: 2949962
-description: Basculer dynamiquement la visibilité d’un champ de formulaire - Documents marketing - Documentation du produit
-title: Basculer dynamiquement la visibilité d’un champ de formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Activer/désactiver dynamiquement la visibilité d’un champ de formulaire - Documents Marketo - Documentation du produit
+title: Activer/désactiver dynamiquement la visibilité d’un champ de formulaire
+exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-
-# Basculer dynamiquement la visibilité d’un champ de formulaire {#dynamically-toggle-visibility-of-a-form-field}
+# Activer/désactiver dynamiquement la visibilité d’un champ de formulaire {#dynamically-toggle-visibility-of-a-form-field}
 
 >[!PREREQUISITES]
 >
->* [Ajouter une liste de pays à votre formulaire](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [Ajout d’une liste de pays à votre formulaire](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
-L’une des fonctionnalités les plus intéressantes des formulaires Marketo est que vous pouvez masquer/afficher dynamiquement les champs de formulaire ou [les jeux de champs](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
+L’une des fonctionnalités les plus intéressantes des formulaires Marketo est que vous pouvez masquer/afficher dynamiquement des champs de formulaire ou [fieldsets](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
 >**Exemple**
 >
->Dans cet exemple, masquons le champ **Etat** à moins que **Pays** ne soit sélectionné comme &quot;Etats-Unis&quot;.
+>Dans cet exemple, masquons la variable **État** Champ sauf **Pays** est sélectionné comme &quot;États-Unis&quot;.
 
 1. Accédez à **Activités marketing**.
 
@@ -34,7 +33,7 @@ L’une des fonctionnalités les plus intéressantes des formulaires Marketo est
 
    ![](assets/editform-1.png)
 
-1. Sélectionnez le champ à masquer/afficher dynamiquement et cliquez sur le lien **Règles de visibilité**.
+1. Sélectionnez le champ à masquer/afficher dynamiquement, puis cliquez sur le lien pour **Règles de visibilité**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -46,7 +45,7 @@ L’une des fonctionnalités les plus intéressantes des formulaires Marketo est
 
    >[!TIP]
    >
-   >C&#39;est cool parce que vous pouvez choisir des allumettes floues comme &quot;débuts avec&quot;.
+   >C&#39;est cool parce que vous pouvez choisir des allumettes floues comme &quot;commence par&quot;.
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -56,14 +55,14 @@ L’une des fonctionnalités les plus intéressantes des formulaires Marketo est
 
    >[!TIP]
    >
-   >Vous pouvez sélectionner plusieurs valeurs en cliquant dessus pendant que la liste déroulante est ouverte. Par exemple, vous pouvez sélectionner Etats-Unis et Canada.
+   >Vous pouvez sélectionner plusieurs valeurs en cliquant dessus lorsque la liste déroulante est ouverte. Par exemple, vous pouvez sélectionner États-Unis et Canada.
 
    >[!NOTE]
    >
-   >Auparavant, nous avons converti Pays en un type de champ de liste de prélèvement et [ajouté tous les pays en tant que valeurs](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Nous avons auparavant converti le Pays en un type de champ de liste de sélection et [ajout de tous les pays en tant que valeurs ;](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. Cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
-Et c&#39;est tout ! Désormais, lorsque des personnes remplissent ce formulaire et sélectionnent Etats-Unis pour le pays, le champ Etat s’affiche de manière dynamique avec les choix spécifiés.
+Et voilà ! Désormais, lorsque des personnes remplissent ce formulaire et sélectionnent Etats-Unis pour le pays, le champ Etat s’affiche de manière dynamique avec les choix spécifiés.

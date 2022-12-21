@@ -1,9 +1,8 @@
 ---
 unique-page-id: 6848705
-description: Meilleure pratique - Comment organiser vos Programmes - Marketo Docs - Documentation du produit
-title: Meilleure pratique - Comment organiser vos Programmes
+description: Bonne pratique - Comment organiser vos programmes - Documents Marketo - Documentation du produit
+title: Bonne pratique - Comment organiser vos programmes
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '843'
@@ -11,9 +10,9 @@ ht-degree: 4%
 
 ---
 
-# Bonne pratique : Comment organiser vos Programmes {#best-practice-how-to-organize-your-programs}
+# Bonne pratique : Organisation de vos programmes {#best-practice-how-to-organize-your-programs}
 
-Il existe de nombreuses façons d’organiser l’arborescence dans les Activités marketing ainsi que le contenu d’un seul programme. Cependant, certaines méthodes sont meilleures et aideront les personnes de votre service marketing.
+Il existe de nombreuses façons d’organiser l’arborescence dans les activités marketing ainsi que le contenu d’un seul programme. Cependant, certaines solutions sont meilleures et aideront les personnes de votre service marketing.
 
 >[!TIP]
 >
@@ -21,7 +20,7 @@ Il existe de nombreuses façons d’organiser l’arborescence dans les Activit�
 
 ## Dossiers {#folders}
 
-Dans les Activités marketing, vous devez utiliser des dossiers pour organiser vos programmes. La structure que nous recommandons est présentée dans l’exemple suivant :
+Dans Activités marketing, vous devez utiliser des dossiers pour organiser vos programmes. La structure que nous recommandons est dans l&#39;exemple suivant :
 
 >[!NOTE]
 >
@@ -30,7 +29,7 @@ Dans les Activités marketing, vous devez utiliser des dossiers pour organiser v
 >* Programmes marketing actifs
    >   * E-mails
    >   * Événements
-      >      * Événements en direct / Journaux
+      >      * Événements en direct / Fiches d’affichage
       >      * Salons professionnels
       >      * Webinaires
    >   * Bulletins d’information
@@ -40,31 +39,31 @@ Dans les Activités marketing, vous devez utiliser des dossiers pour organiser v
 >* Apprentissage
 >* Opérationnel
    >   * Cycle de vie
-   >   * Segmentation comportementale
+   >   * Évaluation
    >   * Gestion des données
->* Perspectives commerciales
+>* Sales Insight
    >   * Moments significatifs
    >   * E-mails de vente
    >   * Campagnes demandées par les ventes
->* **Archive**
-   >   * Événements d&#39;archivage
+>* **Archiver**
+   >   * Événements d’archivage
       >      * Archive 2012
       >      * Archive 2013
 
 
-Chacun de ces éléments mentionnés dans l&#39;exemple est un dossier. Notez comment ils portent un nom unique. Vous pouvez avoir des noms de duplicata (plus simples) de dossiers INSIDE programmes, mais pas à la racine de l&#39;arborescence.
+Chacun des éléments mentionnés dans l’exemple est un dossier. Remarquez comment ils portent tous un nom unique. Vous pouvez avoir des noms en double (plus simples) de dossiers dans les programmes INSIDE, mais pas à la racine de l’arborescence.
 
 >[!TIP]
 >
->Le dossier &quot;Archiver&quot; est un type de dossier spécial conçu pour supprimer des éléments de certaines listes ainsi que du rapports. Cela permettra à votre système de s&#39;exécuter plus rapidement. En savoir plus [sur les dossiers](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>Le dossier &quot;Archive&quot; est un type spécial de dossier conçu pour supprimer des éléments des listes sélectionnées ainsi que des rapports. Cela permettra à votre système de s’exécuter plus rapidement. En savoir plus [en savoir plus sur les dossiers](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
 
-Vous pouvez certainement ajouter d&#39;autres dossiers à votre convenance. Gardez simplement à l’esprit que les générations futures de spécialistes du marketing dans votre société seront à l’écoute de vos décisions concernant la manière de nommer/d’organiser les éléments.
+Vous pouvez certainement ajouter d’autres dossiers à votre gré. Gardez simplement à l’esprit que les futures générations de spécialistes du marketing de votre entreprise accompagneront vos décisions sur la manière de nommer/organiser des choses.
 
-## Schémas d&#39;attribution de noms {#naming-schemes}
+## Modèles de dénomination {#naming-schemes}
 
-Le nommage est essentiel, car les fonctionnalités de Marketo utilisent toutes une langue commune pour communiquer. Pour les programmes, vous devez leur donner un nom unique. **Deux programmes ne peuvent pas avoir le même nom**. Il est recommandé d’utiliser le format suivant :
+Le nommage est essentiel, car les fonctions de Marketo utilisent toutes une langue commune pour communiquer. Pour les programmes, vous devez leur attribuer un nom unique. **Aucun programme ne peut porter le même nom.**. Il est recommandé d’utiliser le format suivant :
 
-[Abréviation du Programme ] [TypeAAAA]-[MM]-Facultatif [ ] [DDBrief Description]
+[Abréviation du type de programme] [AAAA]-[MM]-[DD facultatif] [Description brève]
 
 >[!NOTE]
 >
@@ -74,53 +73,53 @@ Le nommage est essentiel, car les fonctionnalités de Marketo utilisent toutes u
 >
 >1. Intro du widget ES 2015-09-21
 >1. Newsletter NL 2015-06
->1. Webinaire WBN 2015-12-01
+>1. Le webinaire WBN 2015-12-01 ici
 
 
-Les noms de programme doivent être uniques dans votre abonnement, même dans différents [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Pour les ressources locales à l’intérieur des programmes, la règle est de **conserver le nom simple**. Il vous suffit de nommer une invitation &quot;Invitation&quot;, par opposition à &quot;Invitation du webinaire de juin 2015&quot;. Dans la mesure où ils se trouvent dans un programme, le programme parent fait automatiquement partie du nom lorsqu’il le choisit ailleurs. En d’autres termes, les actifs locaux ne doivent être uniques qu’à l’intérieur du programme. Vous pouvez avoir des centaines de ressources appelées &quot;Inviter&quot;, chacune dans un programme différent et cela ne vous fera pas de mal.
+Les noms de programme doivent être uniques dans votre abonnement, même en différents [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Pour les ressources locales dans les programmes, la règle est de **conserver le nom simple ;**. Il suffit de nommer une invitation &quot;Invitation&quot;, par opposition à &quot;Invitation du webinaire de juin 2015&quot;. Puisqu’il s’agit d’un programme, le programme parent fait automatiquement partie du nom lorsqu’il est sélectionné ailleurs. En d’autres termes, les ressources locales ne doivent être uniques que dans le programme. Vous pouvez avoir des centaines de ressources nommées &quot;Invitation&quot;, chacune dans un programme différent et ça ne vous fera pas de mal.
 
 ## Jetons {#tokens}
 
-Les jetons utilisent des dossiers et des programmes pour définir les variables à utiliser par les landings page, les courriels et d’autres ressources.
+Les jetons utilisent des dossiers et des programmes comme véhicule pour définir les variables à utiliser par les landing pages, les emails et autres ressources.
 
-L’organisation mentionnée ci-dessus vous permet de placer des jetons dans le dossier de Événement afin qu’il se retrouve en cascade dans tous les événements.
+L’organisation mentionnée ci-dessus vous permet de placer des jetons dans le dossier Événement afin qu’il soit ventilé en tous les événements.
 
 >[!NOTE]
 >
 >**Exemple**
 >
->**Votre adresse** professionnelle. Utilisez un jeton plutôt que de l’écrire à chaque fois. De cette façon, vous pouvez le mettre à jour en un seul endroit sans avoir à créer beaucoup de brouillons. Ensuite, remplacez le jeton si nécessaire dans un dossier de niveau inférieur.
+>**Votre adresse d’entreprise**. Utilisez un jeton plutôt que de l’écrire à chaque fois. Vous pouvez ainsi le mettre à jour à un seul emplacement sans avoir à créer de nombreux brouillons. Remplacez ensuite le jeton selon les besoins dans un dossier de niveau inférieur.
 
 ## Événements {#events}
 
-Un Événement comporte généralement de nombreuses pièces mobiles, notamment : invitations, landings page, formulaires, widgets sociaux et campagnes dynamiques. La meilleure façon de les organiser pour en faciliter l&#39;utilisation est de passer par la phase du Événement. Voici un exemple de la manière dont votre arborescence de dossiers doit rechercher un Événement.
+Un événement comporte généralement de nombreux éléments mobiles, notamment : invitations, landing pages, formulaires, widgets sociaux et campagnes dynamiques. La bonne pratique pour les organiser pour en faciliter l’utilisation est d’abord la phase de l’événement. Voici un exemple de la manière dont votre arborescence de dossiers doit rechercher un événement.
 
 ![](assets/capture.png)
 
-## Programmes d’engagement {#engagement-programs}
+## Programmes d&#39;engagement {#engagement-programs}
 
-Découvrez [tout sur les programmes d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Le meilleur moyen d’organiser votre programme d’engagement consiste à utiliser des dossiers. Créez un dossier pour chaque flux, puis placez les programmes ou courriers électroniques dans ce dossier. Insérez un dossier d’archives dans chaque flux lorsque le contenu devient obsolète et que vous souhaitez le supprimer.
+En savoir plus [tout sur les programmes d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). La meilleure façon d’organiser votre programme d’engagement est d’utiliser les dossiers. Créez un dossier pour chaque flux, puis placez les emails ou les programmes dans ce dossier. Incluez un dossier d’archive dans chaque flux lorsque le contenu devient obsolète et que vous souhaitez le supprimer.
 
 ## Programmes opérationnels {#operational-programs}
 
-Elles sont utilisées à des fins de nettoyage des données. Disposez de dossiers pour les dates d&#39;exécution des programmes, puis archivez les dossiers. En rendant le programme opérationnel, vous l&#39;omettez du rapports, ce qui est bon pour ce genre d&#39;activité.
+Ils sont utilisés à des fins de nettoyage des données. Disposer de dossiers pour les dates d’exécution des programmes, puis archiver les dossiers. En rendant le programme opérationnel, vous l&#39;omettez des rapports, ce qui est bon pour ce genre d&#39;activité.
 
-## Imbrication de Programmes électroniques {#nesting-email-programs}
+## Imbrication de programmes de messagerie {#nesting-email-programs}
 
-Les Programmes électroniques sont conçus pour être votre outil de diffusion de messages. Vous pouvez les placer dans des Événements ou d&#39;autres programmes pour des promotions, des invitations et des rappels. Ils sont dotés d&#39;un tableau de bord sympa et d&#39;autres fonctions de test A/B. De plus, ils sont facilement manipulables dans la vue de Planning du programme.
+Les programmes de messagerie électronique sont conçus pour être votre outil de diffusion différée du courrier. Vous pouvez les placer dans des Événements ou d’autres programmes pour des promotions, des invitations et des rappels. Ils sont fournis avec un tableau de bord attrayant et d’autres fonctions de test A/B. En outre, ils sont facilement manipulés dans la vue de planification du programme.
 
-Vous pouvez également créer un programme de messagerie en tant que programme autonome. Les programmes de messagerie ne sont pas autorisés dans les autres programmes de messagerie. Ce serait fou !
+Vous pouvez également créer un programme de messagerie en tant que programme autonome. Les programmes de messagerie électronique ne sont pas autorisés dans d’autres programmes de messagerie. Ce serait fou !
 
 ## Clonage {#cloning}
 
-L&#39;une des fonctionnalités les plus cool de Marketo est la capacité à cloner des programmes. Cela signifie que vous pouvez configurer un &quot;modèle&quot; de programme contenant toutes les campagnes et tous les courriers électroniques intelligents que vous souhaitez. Configurez-le à l’avance, puis clonez-le pour votre prochaine initiative marketing.
+L’une des fonctionnalités les plus cool de Marketo est la capacité à cloner des programmes. Cela signifie que vous pouvez configurer un &quot;modèle&quot; de programme qui contient toutes les campagnes intelligentes et tous les emails que vous souhaitez. Configurez-le à l’avance, puis clonez-le pour votre prochaine initiative marketing.
 
 >[!TIP]
 >
->Notez les modèles de Événement dans l&#39;exemple en haut. Mettez vos différents types de événements là-dedans pour faciliter le clonage.
+>Notez les modèles d’événement dans l’exemple ci-dessus. Placez vos différents types d&#39;événements là-dedans pour faciliter le clonage.
 
-Certaines personnes font même abstraction de la majeure partie du texte des courriels et landings page en jetons. Vous pouvez ainsi cloner puis modifier les jetons. Enfin, allez à la vue de Planning du programme et ajustez les dates et vous avez terminé. Voila !
+Certaines personnes abstraient même la plupart du texte des emails et des landing pages dans des jetons. Vous pouvez ainsi cloner puis modifier les jetons. Enfin, accédez à la vue du planning du programme et ajustez les dates et vous avez terminé. Voila !
 
 ## Sommaire {#summary}
 
-Comme vous pouvez le voir, il y a beaucoup de pouvoir à Marketo. Nous avons traité des bases ici, mais considérons certains services [supplémentaires de Marketo Experts](https://www.marketo.com/services/) pour affiner et vous préparer au succès.
+Comme vous pouvez le voir, Marketo a beaucoup de pouvoir. Nous avons traité des principes de base ici, mais considérez quelques-uns [Services supplémentaires des experts Marketo](https://www.marketo.com/services/) pour affiner et vous préparer à la réussite.

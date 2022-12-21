@@ -1,77 +1,76 @@
 ---
 unique-page-id: 12979008
-description: Aperçu des contributions d’Analyses de performances - Documents marketing - Documentation du produit
-title: Présentation des contributions d’Analyses de performances
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Présentation de la contribution des informations sur les performances - Documents Marketo - Documentation du produit
+title: Présentation de la contribution des informations sur les performances
+exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '378'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Présentation de la contribution des informations sur les performances {#performance-insights-contribution-overview}
 
-# Aperçu des contributions d’Analyses de performances {#performance-insights-contribution-overview}
-
-Dans Analyses de performances du marketing, la vue de contributions s’affiche par défaut.
+Dans Marketo Performance Insights, la vue Contribution s’affiche par défaut.
 
 ![](assets/one-1.png)
 
-Sélectionnez la mesure de vue des performances. Dans cet exemple, nous allons examiner les opportunités gagnées via Multi-Touch dans le tableau de bord des recettes.
+Sélectionnez la mesure dont vous souhaitez afficher les performances. Dans cet exemple, nous allons examiner les opportunités gagnées via l’option Multi-Touch dans le tableau de bord Recettes.
 
 ![](assets/2.png)
 
 >[!NOTE]
 >
->Découvrez [Première touche et Touche multiple](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>En savoir plus sur [Première touche et Multi-touche](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-Choisissez la période pour laquelle vous souhaitez afficher les mesures. Dans cet exemple, nous examinons l’année en cours (année à jour).
+Sélectionnez la période pour laquelle vous souhaitez afficher les mesures. Dans cet exemple, nous examinons l’année en cours (année à jour).
 
 ![](assets/3-1.png)
 
 >[!NOTE]
 >
->Nous avons temporairement supprimé la sélection &quot;Année précédente&quot;. Vous avez toujours la possibilité d’afficher l’ensemble des données de performances de l’année précédente à l’aide de la sélection Plage personnalisée.
+>Nous avons temporairement supprimé la sélection &quot;Année précédente&quot;. Vous avez toujours la possibilité d’afficher l’ensemble des données de performances de l’année précédente à l’aide de la sélection Plage personnalisée .
 
 Les mesures sont présentées sous la forme de deux graphiques : beignet et bar.
 
 ![](assets/four.png)
 
-Le graphique en anneau présente les dix premiers canaux de la mesure sélectionnée.
+Le graphique en anneau présente les dix premiers canaux de la mesure que vous avez sélectionnée.
 
 ![](assets/5-1.png)
 
-Le graphique à barres affiche les performances des programmes sur tous les canaux (dix programmes à la fois) pour la mesure sélectionnée. Pour en savoir plus, cliquez sur la flèche située à droite pour faire défiler la page jusqu’au groupe suivant.
+Le graphique à barres affiche les performances du programme sur tous les canaux (dix programmes à la fois) pour la mesure que vous avez sélectionnée. Pour afficher plus d’informations, cliquez sur la flèche située à droite pour faire défiler l’écran jusqu’au groupe suivant.
 
 ![](assets/six.png)
 
 >[!TIP]
 >
->Si vous souhaitez que les barres du graphique s’agrandissent au fur et à mesure que vous faites défiler les groupes, cochez la case **Ajuster l’axe Y à**.
+>Si vous souhaitez que les barres du graphique s’adaptent au fur et à mesure que vous faites défiler les groupes, sélectionnez l’option **Ajuster l’axe Y à l’échelle** .
 
-Placez le pointeur de la souris sur une barre pour afficher d’autres détails.
+Pointez sur une barre pour afficher des détails supplémentaires.
 
 ![](assets/seven.png)
 
-Sélectionnez un ou plusieurs canaux dans le graphique en anneau et tous les programmes associés à ces canaux apparaissent dans le graphique à barres à droite. Cliquez de nouveau sur le ou les canaux pour les désélectionner.
+Sélectionnez un ou plusieurs canaux dans le diagramme en anneau et tous les programmes associés à ces canaux apparaissent dans le graphique à barres à droite. Cliquez à nouveau sur le ou les canaux à désélectionner.
 
 ![](assets/eight.png)
 
-La grille de données ci-dessous fonctionne comme une feuille de calcul, affichant toutes les mesures disponibles sous le modèle d’attribution choisi (Première touche/Multi-touche). La colonne contenant la mesure sélectionnée est mise en surbrillance.
+La grille de données ci-dessous fonctionne comme une feuille de calcul, affichant toutes les mesures disponibles sous le modèle d’attribution sélectionné (Première touche/Multi-touche). La colonne contenant la mesure choisie est mise en surbrillance.
 
 ![](assets/9.png)
 
-| **Opportunités gagnées** | Partie du crédit (en valeur numérique) que le programme a reçue pour avoir influencé l&#39;opportunité gagnée |
+| **Opportunités confirmées** | La partie du crédit (en valeur numérique) que le programme a reçue pour avoir influencé l’opportunité gagnée |
 |---|---|
-| **Recettes gagnées** | Partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé l&#39;opportunité gagnée |
+| **Chiffre d’affaires confirmé** | La part du crédit (en valeur monétaire) reçue par le programme pour avoir influencé l’opportunité gagnée |
 | **Coût** | Coût total du programme |
-| **Coût par opportunité gagné** | Le ratio du coût du programme et la part du crédit (en valeur numérique) que le programme a reçue pour avoir influencé la création de nouvelles possibilités |
-| **Rapport entre les recettes et les coûts** | Le ratio de la part du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé les possibilités gagnées et le coût du programme |
+| **Coût par opportunité confirmée** | Le ratio du coût du programme et la part du crédit (en valeur numérique) que le programme a reçue pour influer sur la création de nouvelles opportunités |
+| **Ratio des recettes obtenues par rapport aux coûts** | Le ratio de la part du crédit (en valeur monétaire) reçue par le programme pour influencer les opportunités gagnées et le coût du programme |
 
-Développez un canal pour voir ses dix premiers programmes, avec les autres programmes combinés.
+Développez un canal pour afficher ses dix premiers programmes, les autres étant combinés.
 
 ![](assets/10.png)
 
 >[!NOTE]
 >
->Cliquez sur la case en regard d’un canal pour l’activer/la désactiver dans le graphique en anneau ci-dessus.
+>Cliquez sur la case à cocher en regard d’un canal pour l’activer/la désactiver dans le diagramme en anneau ci-dessus.

@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2949966
-description: Ajouter une liste de pays à votre formulaire - Documents marketing - Documentation du produit
-title: Ajouter une liste de pays à votre formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Ajout d’une liste de pays à votre formulaire - Documents Marketo - Documentation du produit
+title: Ajout d’une liste de pays à votre formulaire
+exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
+# Ajout d’une liste de pays à votre formulaire {#add-a-country-picklist-to-your-form}
 
-# Ajouter une liste de pays à votre formulaire {#add-a-country-picklist-to-your-form}
-
-Suivez ces instructions pour convertir le champ pays en liste déroulante avec une liste de tous les pays.
+Suivez ces instructions pour convertir le champ pays en liste déroulante avec la liste de tous les pays.
 
 1. Accédez à **Activités marketing**.
 
@@ -23,23 +22,23 @@ Suivez ces instructions pour convertir le champ pays en liste déroulante avec u
 
    ![](assets/editform-1.png)
 
-1. Cliquez sur le signe **+**.
+1. Cliquez sur le bouton **+** signe.
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Recherchez et sélectionnez **Pays**.
+1. Rechercher et sélectionner **Pays**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Avec le champ **Pays** sélectionné, remplacez **Type de champ** par **Sélectionner**.
+1. Avec le **Pays** champ sélectionné pour modifier **Type de champ** to **Sélectionner**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **** Modifiez les  **** valeurs pour ajouter la liste des pays dans lesquels les utilisateurs peuvent choisir.
+1. **Modifier** la valeur **Valeurs** pour ajouter la liste des pays dans lesquels les utilisateurs peuvent effectuer un choix.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Cliquez sur **Advanced** **Editor**.
+1. Cliquez sur **Avancé** **Éditeur**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -69,12 +68,12 @@ Suivez ces instructions pour convertir le champ pays en liste déroulante avec u
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   Bien joué ! Désormais, lorsqu&#39;une personne remplit votre formulaire, elle peut choisir parmi la liste des pays que vous avez fournis.
+   C&#39;est joli ! Désormais, lorsqu’une personne remplit votre formulaire, elle peut choisir parmi la liste des pays que vous avez fournis.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
 
-Comme c&#39;était si facile, pourquoi ne pas en faire plus ? Pourquoi ne pas afficher de manière dynamique le champ Etat lorsqu’un utilisateur sélectionne les Etats-Unis comme pays dans la liste ? Consultez l&#39;article correspondant ci-dessous pour savoir comment le faire.
+Comme c&#39;était si facile, pourquoi ne pas en faire plus ? Que diriez-vous d’afficher dynamiquement le champ Etat lorsqu’un utilisateur sélectionne Etats-Unis comme pays dans la liste ? Consultez l’article correspondant ci-dessous pour savoir comment le faire.
 
 >[!MORELIKETHIS]
 >
->[Basculer dynamiquement la visibilité d’un champ de formulaire](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
+>[Activer/désactiver dynamiquement la visibilité d’un champ de formulaire](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)

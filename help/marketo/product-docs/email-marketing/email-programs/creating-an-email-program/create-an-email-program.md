@@ -1,42 +1,41 @@
 ---
 unique-page-id: 1900591
-description: Création d’un Programme de courriel - Documents marketing - Documentation du produit
-title: Créer un Programme de messagerie
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Création d’un programme de messagerie électronique - Documents Marketo - Documentation du produit
+title: Création d’un programme de courrier électronique
+exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
+# Création d’un programme de courrier électronique {#create-an-email-program}
 
-# Créer un Programme de courriel {#create-an-email-program}
-
-Utilisez les programmes de messagerie pour envoyer rapidement et facilement un courriel à un groupe de personnes.
+Utilisez les programmes de messagerie pour envoyer rapidement et facilement un courrier électronique à un groupe de personnes.
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/one.png)
 
-1. Sélectionnez le dossier dans lequel vous souhaitez créer le programme, cliquez sur la liste déroulante **Nouveau**, puis sélectionnez **Nouveau Programme**.
+1. Sélectionnez le dossier dans lequel vous souhaitez créer le programme, puis cliquez sur le bouton **Nouveau** , puis sélectionnez **Nouveau programme**.
 
    ![](assets/two.png)
 
-1. Saisissez un nom, sélectionnez **Courriel** comme type de Programme, puis cliquez sur **Créer**.
+1. Saisissez un nom, puis sélectionnez **Email** comme type de programme, puis cliquez sur **Créer**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Lorsque vous sélectionnez **E-mail** comme type de Programme, le Canal est automatiquement défini sur **Envoyer par courriel**. Vous pouvez le modifier si vous le souhaitez.
+   >Lorsque vous sélectionnez **Email** comme type de programme, le canal est automatiquement défini sur **Envoyer par courrier électronique**. Vous pouvez le modifier, si vous le souhaitez.
 
    ![](assets/four.png)
 
-Sympa ! Remarquez que le programme est maintenant dans l&#39;arbre et prêt à être utilisé. L&#39;étape suivante sera de définir votre audience. Reportez-vous aux articles connexes au marketing ci-dessous.
+Beau ! Remarquez que le programme est maintenant dans l&#39;arborescence et prêt à être utilisé. L’étape suivante consiste à définir votre audience. Voir les articles connexes à Marketo ci-dessous.
 
 >[!MORELIKETHIS]
 >
->* [Définir une Audience avec une Liste dynamique](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Définition d’une Audience en important une Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Définition d’une audience avec une liste dynamique](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Définition d’une audience en important une liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 

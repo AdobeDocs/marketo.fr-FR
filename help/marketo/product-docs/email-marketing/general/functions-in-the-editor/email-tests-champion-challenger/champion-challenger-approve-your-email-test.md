@@ -1,44 +1,43 @@
 ---
 unique-page-id: 2359581
-description: Champion/Challenger - Approbation de votre test de messagerie électronique - Docs marketing - Documentation du produit
-title: Champion/Challenger - Approuver votre test de messagerie
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Champion/Challenger - Approbation de votre test par e-mail - Documents Marketo - Documentation du produit
+title: Champion/Challenger - Validez Votre Test D'Email
+exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
+# Champion/Challenger : Approbation de votre test de courrier électronique {#champion-challenger-approve-your-email-test}
 
-# Champion/Challenger : Approuver votre test de messagerie {#champion-challenger-approve-your-email-test}
-
-L’étape finale de la configuration de votre test de messagerie pour l’approuver. Voici comment.
+La dernière étape de la configuration de votre test d’email pour l’approuver. Voici comment.
 
 >[!PREREQUISITES]
 >
->[Champion/Challenger : Configuration des alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+>[Champion/Challenger : Configurer des alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Recherchez **Test par courriel** et cliquez avec le bouton droit de la souris, puis cliquez sur **Approuver le test**.
+1. Recherchez et cliquez avec le bouton droit sur le **Test d&#39;email**, puis cliquez sur **Approuver le test**.
 
    ![](assets/champion3.jpg)
 
    >[!NOTE]
    >
-   >Lors de l’approbation d’un test **E-mail entier**, approuvez d’abord l’e-mail du concurrent.
+   >Lors de la validation d’une **Courrier électronique complet** testez, approuvez d’abord l’email de l’challenger.
 
    >[!NOTE]
    >
-   >Pour envoyer le test en dehors, sélectionnez le courrier électronique auquel vous avez ajouté le test à l’étape de flux **Envoyer un courrier électronique** de votre campagne de déclenchement. Vous avez également la possibilité d’insérer ce courriel dans un flux d’un programme d’engagement. Les courriels Champion/Challenger ne fonctionneront pas dans les campagnes par lots.
+   >Pour envoyer le test en sortie, sélectionnez l’email auquel vous avez ajouté le test dans la **Envoyer un courrier électronique** étape de flux de votre campagne de déclenchement. Vous avez également la possibilité d’insérer cet email dans un flux d’un programme d’engagement. Les emails Champion/Challenger ne fonctionneront pas dans les campagnes par lots.
 
-   N&#39;était-ce pas facile ? Une fois que vous aurez reçu quelques rapports, vous voudrez déclarer un champion.
+   N&#39;était-ce pas facile ? Une fois que vous aurez reçu quelques rapports, vous souhaiterez déclarer champion.
 
    >[!MORELIKETHIS]
    >
-   >* [Champion/Challenger : Déclarer un champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
-   >* [Champion/Challenger : Ignorer un test de messagerie](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
+   >* [Champion/Challenger : Déclarez un champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [Champion/Challenger : Ignorer un test de courrier électronique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
 

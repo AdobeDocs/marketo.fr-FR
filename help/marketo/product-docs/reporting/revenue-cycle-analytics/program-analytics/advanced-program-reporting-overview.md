@@ -1,45 +1,44 @@
 ---
 unique-page-id: 2953144
-description: Présentation avancée du Rapports de Programme - Documentation sur le marketing - Documentation sur le produit
-title: Présentation avancée des Rapports de Programme
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Présentation avancée des rapports de programme - Documents Marketo - Documentation du produit
+title: Aperçu des rapports de programme avancés
+exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
+# Aperçu des rapports de programme avancés {#advanced-program-reporting-overview}
 
-# Aperçu avancé du Rapports de Programme {#advanced-program-reporting-overview}
-
-**L’** explorateur de cycles de recettes comprend plusieurs zones d’analyse et un large éventail de nouvelles mesures qui vous permettent de mesurer l’efficacité des programmes.
+**Explorateur de recettes** comprend plusieurs zones d’analyse et un large éventail de nouvelles mesures qui vous permettent de mesurer l’efficacité du programme.
 
 ![](assets/rev.png)
 
-Il y a beaucoup de bonbons ici. Regardons-les !
+Il y a beaucoup de cadeaux ici. Regardons-les !
 
 ![](assets/image2015-4-30-10-3a15-3a17.png)
 
-## Qu&#39;est-ce qu&#39;une zone d&#39;Analyse ? {#whats-an-analysis-area}
+## Qu’est-ce qu’une zone d’analyse ? {#whats-an-analysis-area}
 
-Les zones d&#39;Analyse contiennent des ensembles de données et des mesures différents dans l&#39;Explorateur de recettes. Chaque domaine se rapporte au sujet du rapports que vous avez choisi de vue.
+Les zones d’analyse contiennent chacune des jeux de données et des mesures différents dans l’Explorateur des recettes. Chaque zone correspond au sujet de rapport que vous avez choisi d’afficher.
 
-## Zones d&#39;Analyse de programme {#program-analysis-areas}
+## Zones d’analyse des programmes {#program-analysis-areas}
 
-* **[Analyse](understanding-the-program-cost-analysis-area.md)**  des coûts du programme - Consultez le RSI de tous vos programmes.
+* **[Analyse des coûts du programme](understanding-the-program-cost-analysis-area.md)** - Consultez le ROI de tous vos programmes.
 
-* **[Analyse](understanding-the-program-membership-analysis-area.md)**  d&#39;adhésion au programme - Voir les résultats par canal, participation, critères de réussite, etc.
+* **[Analyse de l’appartenance à un programme](understanding-the-program-membership-analysis-area.md)** - Voir les résultats par canal, participation, critères de réussite, etc.
 
-* **[Analyse](understanding-the-program-opportunity-analysis-area.md)**  des opportunités de programme : opportunités générées en fonction de la distribution, de leurs recettes et de leur retour sur investissement.
+* **[Analyse des opportunités de programme](understanding-the-program-opportunity-analysis-area.md)** - Opportunités générées en fonction de la distribution, des recettes et du retour sur investissement.
 
-* **[Analyse](understanding-the-program-revenue-stage-analysis-area.md)**  d&#39;étape des recettes du programme : nouveaux noms ayant atteint des étapes de réussite particulières dans votre modèle de cycle de recettes.
+* **[Analyse de l’état des recettes du programme](understanding-the-program-revenue-stage-analysis-area.md)** - Nouveaux noms ayant atteint des étapes de succès spécifiques dans votre modèle de cycle des recettes.
 
 ## Analyseurs de programme {#program-analyzers}
 
-* **Analyseur de programme**  : identifiez rapidement les programmes performants ou non et ciblez vos ressources de manière appropriée.
+* **Analyseur de programme** - Identifiez rapidement les programmes qui ont réussi ou non et affectez vos ressources de manière appropriée.
 
-* **Influence sur les opportunités Analyseur**  - Démontrer la contribution du marketing en mesurant l&#39;impact des programmes et des engagements clés qui ont généré des opportunités.
+* **Analyseur d’influence d’opportunité** - Prouver la contribution de Marketing en mesurant l’impact des programmes et des engagements clés qui ont généré des opportunités.
 
 ## Options de rapport {#report-options}
 
@@ -49,10 +48,10 @@ Dans chaque rapport, plusieurs options sont disponibles pour vous aider à perso
 
 >[!CAUTION]
 >
->Bien que vous ayez la possibilité d&#39;afficher Lignes/Colonnes où la cellule Mesure est laissée vide (première case à cocher), nous vous déconseillons de le faire, car cela pourrait ralentir le traitement et même retarder le rapport.
+>Bien que vous ayez la possibilité d’afficher Lignes/Colonnes où la cellule Mesure n’est pas renseignée (première case à cocher), nous vous déconseillons de le faire, car cela pourrait ralentir le traitement et même retarder le rapport.
 
 >[!NOTE]
 >
->Les données de l’explorateur Revenu Cycle sont mises à jour de nuit à partir de votre instance de Marketing Cloud. Par conséquent, toute modification apportée à votre personne et à votre activité de compte au sein de Marketo sera répercutée le jour ouvrable suivant dans l’explorateur de cycles de recettes.
+>Les données de l’explorateur Revenue Cycle sont mises à jour de nuit à partir de votre instance de Marketo. Par conséquent, toutes les modifications apportées à votre activité de personne et de compte dans Marketo seront répercutées le jour ouvrable suivant dans l’Explorateur de cycles du chiffre d’affaires.
 
-Familiarisez-vous avec les analyses des recettes pour mieux comprendre vos programmes et leur impact.
+Familiarisez-vous avec les analyses des recettes vous donnerez des informations complètes sur vos programmes et leur impact.

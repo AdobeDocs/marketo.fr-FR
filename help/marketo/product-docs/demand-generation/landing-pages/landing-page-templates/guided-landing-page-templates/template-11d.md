@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 11D {#template-11d}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 11D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)
+Cliquez avec le bouton droit de la souris sur [Télécharger le modèle 11D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)
 
 ![](assets/template-11d.png)
 

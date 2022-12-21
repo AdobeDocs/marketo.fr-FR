@@ -1,21 +1,20 @@
 ---
 unique-page-id: 1900554
-description: Modification d’un courrier électronique HTML - Documents marketing - Documentation du produit
-title: Modification du code HTML d’un courrier électronique
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Modification d’un HTML de courrier électronique - Documents Marketo - Documentation du produit
+title: Modifier le HTML d’un email
+exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Modifier le HTML d’un email {#edit-an-emails-html}
 
-# Modifier le code HTML d&#39;un courrier électronique {#edit-an-emails-html}
+Il peut arriver que vous deviez modifier le HTML sous-jacent d&#39;un email. Parfois, vous pouvez utiliser un système externe pour concevoir et créer le code de votre email. Dans les deux cas, vous pouvez facilement importer et/ou modifier du code dans l’éditeur de courrier électronique.
 
-Il peut être nécessaire de modifier le code HTML sous-jacent d’un courrier électronique. Vous pouvez parfois utiliser un système externe pour concevoir et créer le code de votre messagerie. Dans les deux cas, vous pouvez facilement importer et/ou modifier du code dans l’éditeur de courrier électronique.
-
-## Modifier HTML {#edit-html}
+## Modifier l’HTML {#edit-html}
 
 1. Sélectionnez votre adresse électronique et cliquez sur **Modifier le brouillon**.
 
@@ -25,57 +24,57 @@ Il peut être nécessaire de modifier le code HTML sous-jacent d’un courrier �
 
    ![](assets/two-4.png)
 
-1. Effectuez toutes les modifications. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Effectuez les modifications. Cliquez sur **Enregistrer** une fois terminé.
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >Change ce que tu veux. Vous pouvez remplacer l’intégralité du code HTML ou effectuer des ajustements mineurs.
+   >Change ce que tu veux. Vous pouvez remplacer l’ensemble du HTML ou effectuer des ajustements mineurs.
 
-1. Cliquez sur la liste déroulante **Actions de code** pour télécharger le code sous la forme d’un fichier .html, intégrer votre CSS ou valider le code HTML.
+1. Cliquez sur le bouton **Actions de code** pour télécharger le code sous la forme d’un fichier .html, intégrer votre CSS ou valider le HTML.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >La meilleure pratique pour les courriels est de mettre tous vos styles en ligne. Plusieurs clients de messagerie ne prennent pas en charge CSS dans la section `<head>`.
+   >La bonne pratique pour les emails consiste à intégrer tous vos styles. Plusieurs clients de messagerie ne prennent pas en charge CSS dans la variable `<head>` .
 
-## Rompre un courrier électronique à partir de son modèle {#breaking-an-email-from-its-template}
+## Rompre un email à partir de son modèle {#breaking-an-email-from-its-template}
 
-Les modifications de code **suivantes n&#39;ont pas pour effet de couper un courriel de son modèle :**
+Ces modifications de code **ne sera pas** rompez un email à partir de son modèle :
 
 * Modification du contenu d’un module (y compris l’ajout de nouveaux éléments dans le module)
-* Ajouter un nouveau module au Conteneur
-* Suppression d&#39;un module du Conteneur
+* Ajout d’un nouveau module au conteneur
+* Suppression d’un module du conteneur
 
 * Modification des attributs spécifiques à mkto (par exemple, &quot;mktoName&quot; ou &quot;mktoImgUrl&quot;) de tout élément en dehors d’un module
 * Modification du contenu d’un élément (texte enrichi, image, vidéo, etc.) en dehors d’un module
 
-Les actions que vous pouvez effectuer dans l’éditeur de code **vont** rompre le courrier électronique à partir de son modèle :
+Ce que vous pouvez faire dans l’éditeur de code **will** rompez l&#39;email à partir de son modèle :
 
 * Modification de tout élément du code en dehors d’un élément ou d’un module
-* Ajouter ou modifier des attributs non mkto (par exemple, &quot;id&quot; ou &quot;style&quot;) de tout élément en dehors d’un module
-* Suppression d’un élément en dehors d’un module
+* Ajout ou modification d’attributs non mkto (par exemple, &quot;id&quot; ou &quot;style&quot;) de tout élément en dehors d’un module
+* Suppression d’un élément situé en dehors d’un module
 
-## Code de recherche {#search-code}
+## Rechercher le code {#search-code}
 
-Utilisez la fonctionnalité Code de recherche pour rechercher et remplacer efficacement du contenu dans le code HTML de votre courrier électronique.
+Utilisez la fonctionnalité de code de recherche pour rechercher et remplacer efficacement du contenu dans le code de HTML de votre email.
 
-1. Dans le code de votre courrier électronique, cliquez sur **Code de recherche**.
+1. Dans le code de votre email, cliquez sur **Code de recherche**.
 
    ![](assets/five-2.png)
 
-1. Entrez ce que vous voulez trouver et cliquez sur **Rechercher suivant** pour rechercher vers l&#39;avant ou **Rechercher précédent** pour rechercher vers l&#39;arrière. Vous avez également la possibilité de **Remplacer** et **Remplacer tout**.
+1. Saisissez ce que vous souhaitez rechercher, puis cliquez sur **Rechercher suivant** pour effectuer une recherche vers l’avant ou **Rechercher précédent** pour effectuer une recherche vers l’arrière. Vous avez également la possibilité de **Remplacer** et **Tout remplacer**.
 
    ![](assets/six-1.png)
 
-1. Cliquez sur **Fermer** lorsque vous avez terminé.
+1. Cliquez sur **Fermer** une fois terminé.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Le code de recherche est également disponible dans l’[éditeur de modèles de courriel](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
+   >Le code de recherche est également disponible dans la variable [Éditeur de modèle de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
 
-Nous vous recommandons de continuer à modifier vos courriels à l’aide de la fonctionnalité intégrée de Marketo, mais cet éditeur de code offre une certaine souplesse si vous en avez besoin.
+Nous vous recommandons de continuer à modifier vos emails à l’aide de la fonctionnalité intégrée de Marketo, mais cet éditeur de code offre une certaine flexibilité si vous en avez besoin.

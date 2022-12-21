@@ -1,43 +1,42 @@
 ---
 unique-page-id: 2949857
-description: Modification d’un Canal de Événement - Documents marketing - Documentation du produit
-title: Modification d’un Canal de Événement
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Modification d’un canal d’événement - Documents Marketo - Documentation du produit
+title: Modification d’un canal d’événement
+exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
+# Modification d’un canal d’événement {#edit-an-event-channel}
 
-# Modifier un Canal de Événement {#edit-an-event-channel}
-
-Vous pouvez modifier le type de canal à partir de l&#39;onglet **Résumé** du événement ou de son onglet **Configuration**.
-
->[!NOTE]
->
->Cette option est disponible uniquement pour les événements qui n’ont pas de membres associés. Une fois qu’un événement comporte des membres, vous ne pouvez plus modifier le type de canal.
+Vous pouvez modifier le type de canal à partir du **Résumé** ou à partir de **Configuration** .
 
 >[!NOTE]
 >
->Un programme est une initiative marketing spécifique. Le **canal** est destiné à être le mécanisme de diffusion, tel que Webinaire, Tradeshow ou Annonce en ligne. Vous pouvez voir différentes options de canal dans votre liste déroulante, selon ce qui est disponible dans votre propre instance. Vous pouvez également [créer votre propre canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+>Cette option est disponible uniquement pour les événements qui n’ont pas de membres associés. Une fois qu’un événement comporte des membres, vous ne pouvez pas modifier le type de canal.
 
-## Dans l’onglet Résumé {#from-the-summary-tab}
+>[!NOTE]
+>
+>Un programme est une initiative marketing spécifique. Le **channel** est conçu pour être le mécanisme de diffusion, comme le webinaire, le commerce ou la publicité en ligne. Vous pouvez voir différentes options de canal dans votre liste déroulante, selon ce qui est disponible dans votre propre instance. Vous pouvez également  [créer votre propre canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
-1. Dans **Activités marketing**, sélectionnez votre événement dans l&#39;arborescence.
+## Depuis l’onglet Résumé {#from-the-summary-tab}
+
+1. De **Activités marketing**, sélectionnez votre événement dans l’arborescence.
 
    ![](assets/eventprogramseelct.png)
 
-1. Accédez à la vue **Résumé**.
+1. Accédez au **Résumé** vue.
 
    ![](assets/eventprogramsummary.png)
 
-1. Sous la catégorie **Paramètres**, sélectionnez le **Canal actuel** affiché comme hyperlien.
+1. Sous , **Paramètres** , sélectionnez la catégorie actuelle **Canal** affiché sous la forme d’un lien hypertexte.
 
    ![](assets/channeltypeevent.png)
 
-1. Dans la liste déroulante, sélectionnez un nouveau canal.
+1. Sélectionnez un nouveau canal dans la liste déroulante.
 
    ![](assets/tradeshowchange.png)
 
@@ -45,19 +44,19 @@ Vous pouvez modifier le type de canal à partir de l&#39;onglet **Résumé** du 
 
    ![](assets/2017-06-13-09-35-53.png)
 
-## Dans l&#39;onglet Configuration {#from-the-setup-tab}
+## Dans l’onglet Configuration {#from-the-setup-tab}
 
-Un nouveau type de canal peut également être affecté à partir de l’onglet **Configuration** du événement.
+Un nouveau type de canal peut également être attribué à partir du **Configuration** .
 
-1. Sélectionnez votre événement dans l&#39;arborescence.
+1. Sélectionnez votre événement dans l’arborescence.
 
    ![](assets/eventprogramseelct.png)
 
-1. Accédez à l&#39;onglet **Configuration**. Doublon-cliquez sur le **Canal actuel**.
+1. Accédez au **Configuration** . Double-cliquez sur le **Canal**.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Sélectionnez un nouveau **Canal**.
+1. Sélectionnez une nouvelle **Canal**.
 
    ![](assets/tradeshowchange.png)
 
@@ -65,4 +64,4 @@ Un nouveau type de canal peut également être affecté à partir de l’onglet 
 
    ![](assets/2017-06-13-09-35-53.png)
 
-Félicitations ! Vous venez de modifier un canal !
+Félicitations ! Vous venez de modifier un canal !

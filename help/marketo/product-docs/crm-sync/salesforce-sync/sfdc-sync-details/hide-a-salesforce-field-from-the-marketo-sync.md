@@ -18,11 +18,11 @@ ht-degree: 0%
 
 Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez optimiser les performances de synchronisation en incluant uniquement les champs dont vous avez besoin. Voici comment masquer un champ de Marketo.
 
-1. Cliquez sur le menu de votre nom et sélectionnez **Configuration**.
+1. Cliquez sur le menu Nom et sélectionnez **Configuration**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Saisissez **profiles** dans la barre de recherche, puis cliquez sur **Profils** sous **Gérer les utilisateurs**.
+1. Entrée **profils** dans la barre de recherche, puis cliquez sur **Profils** under **Gestion des utilisateurs**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -30,7 +30,7 @@ Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez 
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Dans la section **Sécurité au niveau du champ** , cliquez sur **Afficher** en regard de l’objet qui contient le champ cible.
+1. Sous , **Sécurité au niveau du champ** , cliquez sur **Affichage** à côté de l’objet qui contient le champ cible.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 

@@ -1,31 +1,30 @@
 ---
 unique-page-id: 11380785
-description: Statistiques du compte nommé - Documentation du marketing - Documentation du produit
-title: Statistiques du compte nommé
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Informations sur les comptes nommés - Documents Marketo - Documentation du produit
+title: Informations sur les comptes nommés
+exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Informations sur les comptes nommés {#named-account-insights}
 
-# Statistiques du compte nommé {#named-account-insights}
-
-Le Tableau de bord Compte nommé fournit une vue de 360 degrés d’un compte de cible.
+Le tableau de bord du compte nommé offre une vue à 360 degrés d’un compte cible.
 
 ![](assets/one-1.png)
 
 ## Tableau de bord {#dashboard}
 
-L&#39;tableau de bord agrégat des informations clés au niveau d&#39;un compte de toutes les personnes d&#39;un compte donné, évitant ainsi de devoir aller à chaque personne pour évaluer leur progression. Vous pouvez approfondir l&#39;analyse de l&#39;activité des courriels en utilisant [Email Insights](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+Le tableau de bord rassemble les informations clés au niveau du compte de toutes les personnes d’un compte nommé, évitant ainsi d’avoir à se rendre à chaque personne pour évaluer sa progression. Vous pouvez approfondir davantage l’analyse de l’activité de courrier électronique à l’aide de la rubrique [Informations sur les emails](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
->Les graphiques présentent les statistiques des 90 derniers jours.
+>Les tableaux présentent les informations sur les 90 derniers jours.
 
-**Engagement du compte dans le** tempsCliquez sur la liste  **** déroulante de droite pour modifier votre vue. Outre la note de compte, vous pouvez effectuer une vue par Recettes totales...
+**Engagement du compte dans le temps** Cliquez sur le bouton **Affichage** déroulant à droite pour modifier ce que vous affichez. Outre la note du compte, vous pouvez l’afficher par recettes totales...
 
 ![](assets/two-new.png)
 
@@ -36,82 +35,82 @@ L&#39;tableau de bord agrégat des informations clés au niveau d&#39;un compte 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Note de compte</strong></td> 
-   <td><p>Affichez l’engagement semaine après semaine en fonction de tous les scores de compte que vous avez créés dans Admin. Vous pouvez comparer ces scores de compte côte à côte. Pour déterminer l’engagement hebdomadaire, nous prenons l’engagement maximum de n’importe quel jour de la semaine.</p></td> 
+   <td><strong>Évaluation du compte</strong></td> 
+   <td><p>Consultez l’engagement hebdomadaire en fonction de tous les scores de compte que vous avez créés dans Admin. Vous pouvez comparer ces scores de compte côte à côte. Pour déterminer l’engagement hebdomadaire, nous prenons l’engagement maximal de n’importe quel jour de la semaine.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Pipeline</strong></td> 
-   <td>Consultez le pipeline au fil du temps. Pour déterminer le pipeline au fil du temps, nous prenons le pipeline le dernier jour.</td> 
+   <td>Voir le pipeline au fil du temps. Pour déterminer le pipeline au fil du temps, nous prenons le pipeline le dernier jour.</td> 
   </tr> 
   <tr> 
-   <td><strong>Recettes</strong></td> 
+   <td><strong>Chiffre d'affaires</strong></td> 
    <td>Voir les recettes au fil du temps. Pour déterminer les recettes au fil du temps, nous prenons la somme de toutes les recettes gagnées au cours de cette semaine.</td> 
   </tr> 
  </tbody> 
 </table>
 
-**Moments intéressants**
+**Moments significatifs**
 
-Disponible pour les utilisateurs de Marketing Sales Insight, vous pouvez découvrir les moments intéressants cumulés au niveau du compte.
+Disponible pour les utilisateurs de Marketo Sales Insight, découvrez les moments intéressants cumulés au niveau du compte.
 
 ![](assets/int-mom.png)
 
-**Principales personnes**
+**Meilleures personnes**
 
-Ces personnes sont calculées en fonction de priorités basées sur la récence ou l’urgence des personnes de comptes nommés (comme [Meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight), ou Scores définies par l’utilisateur. **La** priorité n’est disponible que pour les utilisateurs de Marketo Sales Insight.
+Ces personnes sont calculées en fonction de priorités basées sur la récence ou l’urgence affichée par les personnes de comptes nommés (comme [Meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight) ou Scores définis par l’utilisateur. **Priorité** n’est disponible que pour les utilisateurs de Marketo Sales Insight.
 
 ![](assets/top-ten.png)
 
 **Inclut les enfants**
 
-Cliquez sur **Inclut les enfants** pour afficher et choisir les comptes enfants du compte nommé sélectionné et vue les analyses de leurs agrégats.
+Cliquez sur **Inclut les enfants** pour afficher et sélectionner les comptes enfants du compte nommé sélectionné et afficher leurs analyses agrégées.
 
 ![](assets/abm.png)
 
 >[!NOTE]
 >
->Lors de la sélection de comptes, vous pouvez sélectionner tous les comptes ou sélectionner individuellement jusqu’à 100 comptes.
+>Lors de la sélection de comptes, vous pouvez sélectionner tout ou sélectionner individuellement jusqu’à 100 comptes.
 
 ## Hiérarchie {#hierarchy}
 
-Voir où réside le compte nommé sélectionné par rapport à sa hiérarchie.
+Afficher l’emplacement du compte nommé sélectionné par rapport à sa hiérarchie.
 
 ![](assets/hierarchy.png)
 
 ## Opportunités {#opportunities}
 
-Vue de cumul de toutes les opportunités ouvertes au niveau du compte, aidant les équipes marketing à se concentrer sur la fermeture d’opportunités spécifiques.
+Vue cumulée de toutes les opportunités ouvertes au niveau du compte, permettant aux équipes marketing de se concentrer sur la fermeture d’opportunités spécifiques.
 
 ![](assets/four-1.png)
 
-## Personnes potentielles {#potential-people}
+## Personne potentielle {#potential-people}
 
-La mise en correspondance de pistes/comptes utilise une logique floue pour trouver des correspondances faibles qui peuvent être résolues dans l&#39;onglet Personnes potentielles.
+La mise en correspondance de piste/compte utilise une logique floue pour trouver des correspondances faibles qui peuvent être résolues dans l’onglet Personnes potentielles .
 
 ![](assets/five-1.png)
 
 >[!NOTE]
 >
->Pour ajouter l’une des personnes répertoriées, sélectionnez-les et cliquez sur **Ajouter les personnes**.
+>Pour ajouter l’une des personnes répertoriées, sélectionnez-la, puis cliquez sur **Ajouter des personnes**.
 
 ## Utilisé par {#used-by}
 
-Cet onglet indique les campagnes intelligentes, les campagnes Web, les listes actives ou les rapports qui référencent actuellement des comptes ou des listes de compte spécifiques.
+Cet onglet indique les campagnes intelligentes, les campagnes web, les listes intelligentes ou les rapports qui font actuellement référence à des comptes ou des listes de comptes spécifiques.
 
 ![](assets/six-1.png)
 
-## Equipe de compte {#account-team}
+## Équipe responsable du compte {#account-team}
 
-Membres de l&#39;équipe du compte de vue, ajouter/supprimer des membres, et même affecter un propriétaire de compte dans cet onglet.
+Affichez les membres de l’équipe du compte, ajoutez/supprimez des membres, et affectez même un propriétaire de compte dans cet onglet.
 
 ![](assets/seven-1.png)
 
 >[!NOTE]
 >
->Cliquez sur la liste déroulante **Actions de l&#39;équipe du compte** pour ajouter/supprimer des membres du compte ou affecter un propriétaire de compte.
+>Cliquez sur le bouton **Actions de l’équipe de compte** Menu déroulant permettant d’ajouter ou de supprimer des membres de compte ou d’affecter un propriétaire de compte.
 
-## Indicateurs du PCI {#icp-indicators}
+## Indicateurs ICP {#icp-indicators}
 
-Vue des indicateurs ICP que vous avez sélectionnés pour l&#39;exportation lorsque vous avez [affiné votre modèle](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+Afficher les indicateurs ICP que vous avez sélectionnés pour l’exportation lorsque vous [optimisation de votre modèle](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)

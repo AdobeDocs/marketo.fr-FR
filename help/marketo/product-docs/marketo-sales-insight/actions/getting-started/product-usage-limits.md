@@ -1,7 +1,8 @@
 ---
 description: Limites d’utilisation du produit - Documents Marketo - Documentation du produit
 title: Limites d’utilisation des produits
-source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
+exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
+source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 23%
@@ -29,7 +30,7 @@ Les limites suivantes ont été mises en place pour l’utilisation des fonction
  <tr>
   <td>Modèles d'e-mail</td>
   <td>par instance</td>
-  <td>2 000</td>
+  <td>2,000</td>
  </tr>
  <tr>
   <td>Catégories de modèles de courrier électronique</td>

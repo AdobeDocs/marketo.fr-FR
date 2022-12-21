@@ -1,43 +1,42 @@
 ---
 unique-page-id: 2953136
-description: Présentation de l’attribution - Documents marketing - Documentation du produit
-title: Présentation de l’attribution
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Présentation de l’attribution - Documents Marketo - Documentation du produit
+title: Compréhension de l’attribution
+exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
-
-# Présentation de l&#39;attribution {#understanding-attribution}
+# Compréhension de l’attribution {#understanding-attribution}
 
 ## Qu’est-ce que l’attribution ? {#what-is-attribution}
 
-L&#39;attribution est la manière dont Marketo attribue du crédit aux programmes qui aident à influencer les ventes et les opportunités. Si vous utilisez le modélisateur Marketo, l’attribution peut également être créditée du fait que quelqu’un a progressé dans votre modèle d’entreprise.
+L’attribution est la manière dont Marketo accorde du crédit aux programmes qui aident à influencer les ventes et les opportunités. Si vous utilisez le modeleur Marketo, l’attribution peut également créditer le déplacement d’une personne vers l’avant dans votre modèle d’entreprise.
 
 ## Pourquoi garder une trace de ceci ? {#why-keep-track-of-this}
 
-L’attribution vous aide à mesurer la réussite du programme. Certains programmes sont destinés à générer de nouveaux noms, tandis que d&#39;autres sont destinés à stimuler les ventes. En ayant un système d&#39;attribution, vous pouvez prendre des décisions éclairées sur les programmes dans lesquels investir.
+Attribution vous aide à mesurer le succès du programme. Certains programmes sont destinés à générer de nouveaux noms, d’autres à stimuler les ventes. En ayant un système d&#39;attribution, vous pouvez prendre des décisions éclairées sur les programmes dans lesquels investir.
 
-## Attribution Première touche {#first-touch-ft-attribution}
+## Attribution Première touche (FT) {#first-touch-ft-attribution}
 
 L’attribution Première touche (FT) répond à une **simple question commerciale**, &quot;Quels programmes sont bons pour acquérir de nouveaux noms rentables ?&quot;
 
 ## Attribution multipoint {#multi-touch-attribution}
 
-Multi-Touch répond à une **question commerciale complexe**, &quot;Quels sont les programmes qui ont le plus d&#39;influence sur l&#39;évolution du cycle de vente au fil du temps ?&quot;
+Le tactile multipoint répond à une **question commerciale compliquée**, &quot;Quels programmes ont le plus d’influence sur l’évolution des personnes dans le cycle de vente au fil du temps ?&quot;
 
-## Règles d&#39;attribution {#rules-of-attribution}
+## Règles d’attribution {#rules-of-attribution}
 
 Il existe trois règles d’attribution :
 
 1. Le crédit est réparti uniformément.
-1. Vous ne pouvez pas donner plus de crédit que ce que vous avez gagné.
-1. On ne peut pas rendre hommage à quelque chose qui s&#39;est passé dans le passé.
+1. Tu ne peux pas donner plus de crédit que tu n&#39;as gagné.
+1. On ne peut pas créditer quelque chose qui s&#39;est passé dans le passé.
 
-Dans les exemples suivants, vous pouvez appliquer ces règles et comprendre tout ce dont vous avez besoin pour mesurer la réussite du programme.
+Dans les exemples suivants, vous pouvez appliquer ces règles et comprendre tout ce dont vous avez besoin pour mesurer le succès d’un programme.
 
 >[!MORELIKETHIS]
 >

@@ -1,47 +1,46 @@
 ---
 unique-page-id: 2359562
-description: Champion/Challenger - Définir les critères de champion - Docs marketing - Documentation du produit
+description: Champion/Challenger - Définir des critères de champion - Documents Marketo - Documentation du produit
 title: Champion/Challenger - Définir les critères de champion
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Champion/Challenger : Définir les critères de champion {#champion-challenger-define-champion-criteria}
+# Champion/Challenger : Définition des critères de champion {#champion-challenger-define-champion-criteria}
 
 Une fois que vous avez configuré votre type de test, vous devez définir les critères de champion. Voici comment.
 
 >[!PREREQUISITES]
 >
->[Ajouter un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Ajout d’un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-## Critères standard de champion {#standard-champion-criteria}
+## Critères de championne standard {#standard-champion-criteria}
 
-1. Choisissez l&#39;un des **critères de champion** disponibles.
+1. Sélectionnez l’une des options disponibles. **Critères de champion**.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
    >[!NOTE]
    >
-   >Nous suivrons cette mesure et vous enverrons un rapport avec les données par courriel.
+   >Nous allons effectuer le suivi de cette mesure et vous envoyer un rapport avec les données par courrier électronique.
 
-1. Si vous avez sélectionné l&#39;un des **critères de champion** par défaut, passez à [Champion/Challenger : Configurer les alertes de rapport ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md) !
+1. Si vous avez sélectionné l’une des valeurs par défaut **Critères de champion**, allez-y et passez à [Champion/Challenger : Configurer des alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## Critères de champion personnalisés {#custom-champion-criteria}
 
-1. Si vous souhaitez obtenir des informations détaillées, vous pouvez personnaliser **Conversion personnalisée** et cliquer sur **Modifier**.
+1. Si vous souhaitez être plus élégant, vous pouvez personnaliser en sélectionnant **Conversion personnalisée** et clic **Modifier**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
    >[!NOTE]
    >
-   >Cela vous permet de définir n’importe quel événement en tant que conversion à l’aide de déclencheurs et de filtres.
+   >Vous pouvez ainsi définir n’importe quel événement comme conversion à l’aide de déclencheurs et de filtres.
 
-1. Une fenêtre s&#39;affiche : recherchez le déclencheur de votre choix et faites-le glisser dans la trame.
+1. Une fenêtre s’affiche. Recherchez le déclencheur de votre choix et faites-le glisser dans la zone de travail.
 
    ![](assets/image2014-9-15-13-3a3-3a38.png)
 
@@ -49,14 +48,14 @@ Une fois que vous avez configuré votre type de test, vous devez définir les cr
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo n’autorise que les déclencheurs pour les personnes qui ont reçu le courrier électronique à partir de ce programme électronique. Il n’est pas nécessaire d’ajouter un filtre &quot;Courrier électronique envoyé&quot;.
+   Marketo autorise uniquement les déclencheurs pour les personnes qui ont reçu le courrier électronique à partir de ce programme de messagerie. Il n’est pas nécessaire d’ajouter un filtre &quot;E-mail envoyé&quot;.
 
 1. Cliquez sur **Fermer**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
-   Super ! Il est maintenant temps de planifier le rapport.
+   Fantastique ! Il est maintenant temps de planifier le rapport.
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger : Configuration des alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+   >[Champion/Challenger : Configurer des alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)

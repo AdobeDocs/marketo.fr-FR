@@ -1,36 +1,35 @@
 ---
 unique-page-id: 7512442
-description: Supprimer une application mobile - Documents marketing - Documentation du produit
+description: Suppression d’une application mobile - Documents Marketo - Documentation du produit
 title: Supprimer l’application mobile
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
+# Supprimer l’application mobile {#delete-mobile-app}
 
-# Supprimer l&#39;application mobile {#delete-mobile-app}
-
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Sélectionnez **Applications mobiles**.
+1. Sélectionner **Applications mobiles**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-1. Sélectionnez l’application mobile de votre choix.
+1. Sélectionnez l’application mobile souhaitée.
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. Cliquez sur **Actions d’application mobile** et sélectionnez **Supprimer l’application**.
+1. Cliquez sur **Actions de l’application mobile** et sélectionnez **Suppression d’une application**.
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 
-1. Confirmez en cliquant sur **Supprimer**.
+1. Confirmer en cliquant sur **Supprimer**.
 
    ![](assets/image2015-4-22-17-3a23-3a18.png)
 
-Ta-da ! La notification Push ne peut plus être envoyée à partir de cette application mobile.
+Et voilà ! Les notifications push ne peuvent plus être envoyées depuis cette application mobile.

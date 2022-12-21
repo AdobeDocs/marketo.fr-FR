@@ -1,19 +1,18 @@
 ---
 unique-page-id: 37357302
-description: Colonnes d’e-mail et mise en page de la page d’e-mail - Documents marketing - Documentation du produit
-title: Colonnes de courriel et mise en page de la page de courriel
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Colonnes de courrier électronique et mise en page de page de courrier électronique - Documents Marketo - Documentation du produit
+title: Colonnes de courrier électronique et mise en page de la page de courrier électronique
+exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '506'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
+# Colonnes de courrier électronique et mise en page de la page de courrier électronique {#email-columns-and-email-page-layout}
 
-# Colonnes de courriel et mise en page de la page de courriel {#email-columns-and-email-page-layout}
-
-Vous pouvez configurer n&#39;importe quelle colonne disponible pour qu&#39;elle soit visible dans la section Courriel du Centre de commandes. Vos paramètres de configuration seront enregistrés pour chaque sous-dossier de courrier électronique (par exemple, Livré, Echec, Planifié, etc.).
+Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit visible dans la section Email du Centre de commandes. Vos paramètres de configuration seront enregistrés pour chaque sous-dossier de courrier électronique (par exemple, Délivrés, En échec, Planifiés, etc.).
 
 ## Colonnes de courriel {#email-columns}
 
@@ -28,8 +27,8 @@ Vous pouvez configurer n&#39;importe quelle colonne disponible pour qu&#39;elle 
    <th>Description</th> 
   </tr> 
   <tr> 
-   <td>Personne</td> 
-   <td>Nom et adresse électronique de la personne dans Sales Connect. Cliquez sur ce champ pour ouvrir l’onglet A propos de dans la vue des détails de la personne.</td> 
+   <td>Individu</td> 
+   <td>Nom et adresse électronique de la personne dans Sales Connect. Cliquez sur ce champ pour ouvrir l’onglet À propos de dans la vue Détails de la personne.</td> 
   </tr> 
   <tr> 
    <td>Nom</td> 
@@ -40,81 +39,81 @@ Vous pouvez configurer n&#39;importe quelle colonne disponible pour qu&#39;elle 
    <td>Adresse électronique Principal de la personne dans Sales Connect.</td> 
   </tr> 
   <tr> 
-   <td>Campaign</td> 
-   <td>Si le courrier électronique a été envoyé dans le cadre d’une campagne, le nom de la campagne s’affiche. Cliquez sur ce champ pour accéder à la page de configuration de cette campagne.</td> 
+   <td>Campagne</td> 
+   <td>Si l'email a été envoyé dans le cadre d'une campagne, le nom de la campagne s'affiche. Cliquez sur ce champ pour accéder à la page de configuration de cette campagne.</td> 
   </tr> 
   <tr> 
    <td>Modèle</td> 
-   <td>Affiche le nom du modèle (si le courrier électronique a été envoyé avec un modèle).</td> 
+   <td>Affiche le nom du modèle (si l’email a été envoyé avec un).</td> 
   </tr> 
   <tr> 
    <td colspan="1">Objet</td> 
-   <td colspan="1">Objet de la ligne du courrier électronique.</td> 
+   <td colspan="1">Objet de l’email.</td> 
   </tr> 
   <tr> 
    <td colspan="1">Groupes</td> 
-   <td colspan="1">Affiche les groupes auxquels appartient le destinataire électronique.</td> 
+   <td colspan="1">Affiche les groupes auxquels le destinataire du courrier électronique appartient.</td> 
   </tr> 
   <tr> 
-   <td>Titre de la tâche</td> 
-   <td>Titre du destinataire de messagerie.</td> 
+   <td>Intitulé du poste</td> 
+   <td>Titre du destinataire de l’email.</td> 
   </tr> 
   <tr> 
    <td>Société</td> 
-   <td>Société du destinataire de messagerie.</td> 
+   <td>Société du destinataire de l’email.</td> 
   </tr> 
   <tr> 
-   <td>État du courriel</td> 
-   <td>Statut dans lequel se trouve le courrier électronique. Les états comprennent : Brouillon, Programmé, En Cours, Indésirable, Refusé, Échec, Envoyé. Les courriers électroniques envoyés affichent un flux d’activité qui indique le nombre de vues, de clics et de réponses qui ont eu lieu sur ce courrier électronique.</td> 
+   <td>État de l’e-mail</td> 
+   <td>État dans lequel se trouve le courrier électronique. Les états incluent : Brouillon, Planifié, En Cours, Indésirable, Refusé, Échec, Envoyé. Les emails envoyés affichent un flux d’activité qui indique le nombre de consultations, de clics et de réponses qui ont eu lieu sur cet email.</td> 
   </tr> 
   <tr> 
    <td>Date de création</td> 
-   <td>Date de création du courrier électronique.</td> 
+   <td>Date de création de l’email.</td> 
   </tr> 
   <tr> 
    <td>Dernière mise à jour</td> 
-   <td>Date de la dernière mise à jour du courrier électronique.</td> 
+   <td>Date de la dernière mise à jour de l’email.</td> 
   </tr> 
   <tr> 
-   <td>Canal diffusion</td> 
-   <td>Nom du canal de diffusion utilisé pour l’envoi du courrier électronique.</td> 
+   <td>Canal de livraison</td> 
+   <td>Nom du canal de diffusion utilisé pour l’envoi de l’email.</td> 
   </tr> 
   <tr> 
-   <td>Dernière Activité</td> 
-   <td>Dernier engagement du destinataire de messagerie (vue, clic ou réponse, par exemple).</td> 
+   <td>Dernière activité</td> 
+   <td>Dernier engagement du destinataire de l’email (par exemple, afficher, cliquer ou répondre).</td> 
   </tr> 
   <tr> 
-   <td>Date d'envoi</td> 
-   <td>Date d'envoi du courrier électronique.</td> 
+   <td>Date envoyée</td> 
+   <td>Date d’envoi de l’email.</td> 
   </tr> 
   <tr> 
    <td>Actions de suivi</td> 
-   <td>Boutons d’action rapide qui peuvent être utilisés pour le suivi par courriel, téléphone, messagerie ou tâche.</td> 
+   <td>Boutons d’action rapide pouvant être utilisés pour le suivi par email, téléphone, inMail ou tâche.</td> 
   </tr> 
   <tr> 
    <td>Courriel du groupe</td> 
-   <td>Affiche une coche si le courrier électronique a été envoyé dans le cadre d’un courrier électronique de groupe.</td> 
+   <td>Affiche une coche si le courrier électronique a été envoyé dans le cadre d’un message électronique de groupe.</td> 
   </tr> 
   <tr> 
-   <td>Date d'échéance de la tâche</td> 
-   <td>Affiche la date d'échéance des tâches liées au courrier électronique. Les tâches peuvent être liées à un courrier électronique en étant créées à partir des boutons d’action rapide de la liste électronique.</td> 
+   <td>Échéance de tâche</td> 
+   <td>Affiche la date d’échéance des tâches liées au courrier électronique. Les tâches peuvent être liées à un email en étant créées à partir des boutons d’action rapide de la liste des emails.</td> 
   </tr> 
   <tr> 
    <td>Action Courrier électronique</td> 
-   <td>Boutons d’action rapide permettant d’agir sur le courrier électronique. Selon l’état du courrier électronique, les actions suivantes peuvent être disponibles : Archiver, Réussite, Supprimer, Réessayer Envoyer, Désarchiver.</td> 
+   <td>Boutons d’action rapide pouvant être utilisés pour exécuter une action sur l’email. Selon l’état de l’email, les actions suivantes peuvent être disponibles : Archivage, Réussite, Suppression, Réessayer Envoi, Désarchivage.</td> 
   </tr> 
   <tr> 
    <td>Type de tâche</td> 
-   <td>Affiche le type de tâche d’une tâche liée au courrier électronique. Les tâches peuvent être liées à un courrier électronique en étant créées à partir des boutons d’action rapide de la liste électronique.</td> 
+   <td>Affiche le type de tâche d’une tâche liée à l’email. Les tâches peuvent être liées à un email en étant créées à partir des boutons d’action rapide de la liste des emails.</td> 
   </tr> 
   <tr> 
-   <td>Échec de la date</td> 
+   <td>Date d’échec</td> 
    <td>Affiche la date d’échec du courrier électronique si celui-ci n’a pas été remis.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Paramètres de mise en page de la page de courriel {#email-page-layout-settings}
+## Paramètres de mise en page de page des emails {#email-page-layout-settings}
 
 Vous pouvez configurer votre mise en page en procédant comme suit.
 
@@ -122,11 +121,11 @@ Vous pouvez configurer votre mise en page en procédant comme suit.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Sélectionnez la section **Courriers électroniques**.
+1. Sélectionnez la **Emails** .
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
-1. Cliquez sur le bouton de configuration. Vos options sont les suivantes : choix du nombre de lignes à afficher, sélection des champs à afficher et sélection si vous souhaitez que les courriers électroniques de groupe soient regroupés en un seul élément de la grille (ou si vous souhaitez que tous les messages qui font partie d&#39;une grille de courriel s&#39;affichent en un seul élément).
+1. Cliquez sur le bouton de configuration. Les options disponibles sont les suivantes : choix du nombre de lignes souhaité, sélection des champs à afficher et sélection de l’option permettant de regrouper les emails dans un seul élément de la grille (ou si vous souhaitez que tous les emails faisant partie d’une grille d’email s’affichent comme un seul élément).
 
    ![](assets/email-columns-and-email-grid-layout-3.png)
 

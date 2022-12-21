@@ -1,37 +1,36 @@
 ---
 unique-page-id: 10098884
-description: Filtrage des campagnes Web - Documents marketing - Documentation du produit
-title: Filtrage des campagnes Web
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Filtrage des campagnes web - Documents Marketo - Documentation du produit
+title: Filtrage des campagnes web
+exl-id: 07237fff-02d7-4974-9651-09a328d27365
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
+# Filtrage des campagnes web {#filter-web-campaigns}
 
-# Filtrage des campagnes Web {#filter-web-campaigns}
-
-Après avoir créé des centaines de campagnes de personnalisation Web, il est vraiment utile de pouvoir utiliser des filtres pour ne vue que ceux qui vous intéressent.
+Une fois que vous avez créé des centaines de campagnes de personnalisation web, il est vraiment utile de pouvoir utiliser des filtres pour n’afficher que ceux qui vous intéressent.
 
 1. Accédez à **Campagnes Web**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Sur la page Campagnes Web, cliquez sur **Filtre**.
+1. Sur la page Campagnes Web, cliquez sur **Filtrer**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Cochez la case correspondant à l’état et/ou au type de campagne à filtrer, par exemple **En pause** ou **Boîte de dialogue**. Cliquez sur **Appliquer**.
+1. Cochez la case État et/ou type de campagne pour lequel vous souhaitez filtrer, par exemple : **En pause** ou **Boîte de dialogue**. Cliquez sur **Appliquer**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Cochez la case **Sélectionner tout** pour sélectionner tout ou le lien **Effacer** pour effacer toutes les cases.
+   >Utilisez la variable **Tout sélectionner** pour sélectionner l’intégralité de la variable ou la variable **Effacer** pour effacer toutes les cases à cocher.
 
-1. Désormais, seules les campagnes qui correspondent à votre filtre sont affichées.
+1. Désormais, seules les campagnes correspondant à votre filtre s’affichent.
 
    ![](assets/web-campaigns-filter-only-paused.jpg)
 

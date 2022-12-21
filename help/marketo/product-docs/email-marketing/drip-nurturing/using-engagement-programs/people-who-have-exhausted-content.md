@@ -1,39 +1,38 @@
 ---
 unique-page-id: 2359953
-description: Personnes ayant extrait du contenu - Documents marketing - Documentation du produit
-title: Personnes ayant extrait du contenu
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Personnes qui disposent d’un contenu épuisé - Documents Marketo - Documentation du produit
+title: Personnes qui ont extrait du contenu
+exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
+# Personnes qui ont extrait du contenu {#people-who-have-exhausted-content}
 
-# Personnes ayant extrait du contenu {#people-who-have-exhausted-content}
+Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a épuisé toutes les possibilités et attend d&#39;en ajouter encore plus. Vous pouvez trouver des gens qui sont &quot;épuisés&quot; de plusieurs façons.
 
-Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a épuisé toutes les possibilités et attend inactif jusqu&#39;à ce que davantage soit ajouté. Vous pouvez trouver des gens &quot;épuisés&quot; de plusieurs manières.
+## Filtre Programme des membres de l’engagement {#member-of-engagement-program-filter}
 
-## Filtre du Programme Membre d’engagement {#member-of-engagement-program-filter}
-
-1. Créez une nouvelle liste intelligente, puis recherchez et faites glisser le filtre **Membre du Programme d’engagement**.
+1. Créez une liste dynamique, puis recherchez et faites glisser dans la **Programme des membres de l’engagement** filtre.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
-1. Recherchez et sélectionnez le programme d&#39;engagement dans lequel trouver des gens épuisés.
+1. Trouvez et sélectionnez le programme d&#39;engagement dans lequel trouver les gens épuisés.
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Sous **Ajouter la contrainte**, sélectionnez **Contenu extrait**.
+1. Sous **Ajouter une contrainte**, sélectionnez **Contenu extrait**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Définissez **Exhausted Content** sur **true**.
+1. Définir **Contenu extrait** to **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
-   Il vous suffit de lancer cette liste intelligente pour voir la liste des personnes qui ont épuisé tout le contenu du flux dans lequel ils se trouvent.
+   Il vous suffit d’exécuter cette liste dynamique pour voir la liste des personnes qui ont épuisé tout le contenu du flux dans lequel ils se trouvent.
 
 ## Onglet Membres {#members-tab}
 
@@ -41,17 +40,17 @@ Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Membres**.
+1. Sélectionnez votre programme d’engagement et accédez à la **Membres** .
 
    ![](assets/memberstab.jpg)
 
-1. Notez la colonne **Contenu extrait**.
+1. Notez que la colonne intitulée **Contenu extrait**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
-   Ceci vous montre les gens qui ont épuisé tout contenu et ceux qui ne l&#39;ont pas fait.
+   Cela vous montre les personnes qui ont épuisé tout le contenu et celles qui ne l&#39;ont pas fait.
 
-## Flux {#stream}
+## Stream {#stream}
 
 1. Vous pouvez également voir le nombre total de personnes qui ont épuisé le contenu sous l’onglet Flux du flux lui-même.
 
@@ -59,4 +58,4 @@ Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a
 
    >[!NOTE]
    >
-   >Ce numéro sera mis à jour immédiatement après chaque diffusion.
+   >Ce nombre sera mis à jour immédiatement après chaque diffusion.

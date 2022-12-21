@@ -1,8 +1,7 @@
 ---
-description: Statut de synchronisation Salesforce - Docs Marketo - Documentation du produit
+description: État de synchronisation Salesforce - Documents Marketo - Documentation du produit
 title: Statut de synchronisation Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
@@ -12,35 +11,35 @@ ht-degree: 14%
 
 # Statut de synchronisation Salesforce {#salesforce-sync-status}
 
-Utilisez le Tableau de bord Etat de synchronisation pour vue les statistiques de synchronisation dans le cadre des étapes de synchronisation et de son état de réussite.
+Utilisez le tableau de bord État de synchronisation pour afficher les statistiques de synchronisation dans le cadre des étapes de synchronisation et de son état de réussite.
 
-Les étapes de synchronisation reflètent les opérations de type Push ou Extraction selon chaque type d’objet pour le schéma d’objet et les données elles-mêmes. Les statistiques couvrent les nouveaux enregistrements, les mises à jour, les suppressions et les échecs de comptage pendant la synchronisation. Les utilisateurs peuvent filtrer par date, type d’opération ou type d’objet. Le Tableau de bord d&#39;état de synchronisation affiche l&#39;état des cycles de synchronisation pour les cinq derniers jours.
+Les étapes de synchronisation reflètent les opérations push ou pull de chaque type d’objet pour le schéma d’objet et les données elles-mêmes. Les statistiques couvrent les nouveaux enregistrements, les mises à jour, les suppressions et les échecs de comptage pendant la synchronisation. Les utilisateurs peuvent filtrer par date, type d’opération ou type d’objet. Le tableau de bord État de synchronisation affiche l’état des cycles de synchronisation pour les cinq derniers jours.
 
 >[!NOTE]
 >
 >Autorisations d’administrateur requises
 
-## Etat de synchronisation de la vue {#view-sync-status}
+## Afficher l’état de synchronisation {#view-sync-status}
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Sous Intégration, cliquez sur Salesforce, puis sur l’onglet Etat de synchronisation.
+1. Sous Intégration, cliquez sur Salesforce, puis sur l’onglet État de synchronisation .
 
    ![](assets/salesforce-sync-status-2.png)
 
-Par défaut, les statistiques sont triées en fonction du plus récent démarrage. Vous pouvez trier en cliquant sur l’icône de tri, en commençant par Démarré à ou Terminé à, du plus récent au plus ancien.
+Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vous pouvez trier par Démarré à ou Terminé à (de la plus récente à la plus ancienne) en cliquant sur l’icône de tri.
 
 ![](assets/salesforce-sync-status-3.png)
 
-## Statut de synchronisation du filtre {#filter-sync-status}
+## État de synchronisation du filtre {#filter-sync-status}
 
-1. Pour filtrer les données, cliquez sur l’icône de filtre située à l’extrémité droite de la page.
+1. Pour filtrer les données, cliquez sur l’icône de filtrage située à l’extrémité droite de la page.
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Sélectionnez la date et l’heure, puis cliquez sur les listes déroulantes pour filtrer par type d’objet, type d’opération et/ou type d’état.
+1. Sélectionnez la date et l’heure, puis cliquez sur la ou les listes déroulantes à filtrer par type d’objet, type d’opération et/ou type d’état.
 
    ![](assets/salesforce-sync-status-5.png)
 
@@ -48,11 +47,11 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Étape** facultative : Pour exporter les erreurs de synchronisation, cliquez sur  **Exporter**. Les données seront exportées au format CSV.
+**Étape facultative**: Pour exporter les erreurs de synchronisation, cliquez sur **Exporter**. Les données seront exportées au format CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
-## Champs d&#39;état de synchronisation {#sync-status-fields}
+## Champs d’état de synchronisation {#sync-status-fields}
 
 <table> 
  <colgroup> 
@@ -68,7 +67,7 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
   </tr> 
   <tr> 
    <td colspan="1">Début</td> 
-   <td colspan="1">Date/heure du début de cycle de synchronisation (fuseau horaire de l’utilisateur)</td> 
+   <td colspan="1">Date/heure de début du cycle de synchronisation (fuseau horaire de l’utilisateur)</td> 
    <td colspan="1"></td> 
   </tr>  
   <tr> 
@@ -79,17 +78,17 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
   <tr> 
    <td colspan="1">Objet</td> 
    <td colspan="1">Type d'objet</td> 
-   <td colspan="1">Contact, Personne, Tâche, Opportunité, Piste, Autres comme ci-dessous</td> 
+   <td colspan="1">Contact, Personne, tâche, opportunité, prospect, Autres comme ci-dessous</td> 
   </tr>  
   <tr> 
    <td colspan="1">Opération</td> 
    <td colspan="1">Type d’opération</td> 
-   <td colspan="1">Types d'opération ci-dessous</td> 
+   <td colspan="1">Types d’opérations ci-dessous</td> 
   </tr>  
   <tr> 
    <td colspan="1">Statut</td> 
-   <td colspan="1">Statut du lot</td> 
-   <td colspan="1">Réussite, Échec, Incomplet, En cours, Nettoyé*</td> 
+   <td colspan="1">État du lot</td> 
+   <td colspan="1">Succès, Échec, Incomplet, En cours de traitement, Nettoyé*</td> 
   </tr>
   <tr> 
    <td colspan="1">Nouveau</td> 
@@ -102,24 +101,24 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
    <td colspan="1"></td> 
   </tr>  
   <tr> 
-   <td colspan="1">Supprimé</td> 
+   <td colspan="1">supprimé</td> 
    <td colspan="1">Nombre d'enregistrements supprimés</td> 
    <td colspan="1"></td> 
   </tr> 
   <tr> 
    <td colspan="1">Élément présentant un échec</td> 
-   <td colspan="1">Nombre d'enregistrements dont la synchronisation a échoué</td> 
+   <td colspan="1">Nombre d’enregistrements dont la synchronisation a échoué</td> 
    <td colspan="1"><br></td> 
   </tr>  
   <tr> 
    <td colspan="1">Ignoré</td> 
-   <td colspan="1">Nombre d'enregistrements ignorés, car aucun changement n'a été apporté aux champs d'intérêt pour la synchronisation</td> 
+   <td colspan="1">Nombre d’enregistrements ignorés, car aucun changement n’a été apporté aux champs ciblés pour la synchronisation.</td> 
    <td colspan="1"></td> 
   </tr>  
  </tbody> 
 </table>
 
-*Les données ont retrouvé l’état d’intégrité précédent après l’échec de l’étape de synchronisation.
+&#42;Les données sont restaurées à l’état d’intégrité précédent après l’échec de l’étape de synchronisation.
 
 ## Type d&#39;objet {#object-type}
 
@@ -147,13 +146,13 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
    <td colspan="1">Contact</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Modèle d’e-mail</td> 
+   <td colspan="1">Modèle d'e-mail</td> 
   </tr>  
   <tr> 
    <td colspan="1">Événement</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Personne (responsable)</td> 
+   <td colspan="1">Personne (prospect)</td> 
   </tr>  
   <tr> 
    <td colspan="1">Opportunité</td> 
@@ -187,66 +186,66 @@ Par défaut, les statistiques sont triées en fonction du plus récent démarrag
    <th>Type d'opération</th>
   </tr> 
   <tr> 
-   <td colspan="1">Lien d’initialisation avec Programme</td> 
+   <td colspan="1">Lien Init avec le programme</td> 
    <td colspan="1">Campagne</td> 
-   <td colspan="1">Liaison de campagnes aux Programmes</td> 
+   <td colspan="1">Liaison de campagnes à des programmes</td> 
    <td colspan="1">Mettre à jour</td>
   </tr>  
   <tr> 
    <td colspan="1">Extraire les conversions</td> 
-   <td colspan="1">Personne (responsable)*</td> 
-   <td colspan="1">Extrayez les actions de conversion de la collecte de données régionale vers Marketo. Les unités (nombres) sont des pistes convertissant en contacts</td> 
-   <td colspan="1">Mise à jour, élément non validé ou ignoré</td>
+   <td colspan="1">Personne (prospect)*</td> 
+   <td colspan="1">Extrayez les actions de conversion de SFDC vers Marketo. Les unités (nombres) sont des Leads convertissant en contacts</td> 
+   <td colspan="1">Mise à jour, élément en échec ou saut</td>
   </tr> 
   <tr> 
    <td colspan="1">Extraire les suppressions</td> 
-   <td colspan="1">Contact, Personne (responsable), Opportunité, Campaign, Membres Campaign, Contact d'opportunité, Objets personnalisés, Campagnes, Statut de membre Campaign, Rôle Contact d'opportunité</td> 
-   <td colspan="1">Suppression des enregistrements de la collecte de données régionale synchronisés avec Marketo</td> 
-   <td colspan="1">Supprimé, élément en échec ou ignoré</td>
+   <td colspan="1">Contact, Personne (prospect), Opportunité, Campagne, Membres de la campagne, Contact d’opportunité, Objets personnalisés, Campagnes, État du membre de la campagne, Rôle Contact d’opportunité</td> 
+   <td colspan="1">Suppression des enregistrements de SFDC synchronisés avec Marketo</td> 
+   <td colspan="1">Suppression, échec d’un élément ou saut</td>
   </tr>  
   <tr> 
    <td colspan="1">Extraire les mises à jour</td> 
-   <td colspan="1">Tâche, personne (responsable), file d'attente de personne (responsable), contact, Événement, opportunité, compte, type de compte, membres Campaign, objets personnalisés, campagnes, statut de membre Campaign, Événements, statut de personne, opportunité, opportunité Rôle contact</td> 
-   <td colspan="1">Mises à jour ou nouveaux enregistrements dans SFDC synchronisés sur Marketo, extraction de Événements en tant qu’Activités</td> 
-   <td colspan="1">Nouveau, mis à jour, élément non validé ou ignoré</td>
+   <td colspan="1">Tâche, Personne (piste), Queue de personne (piste), Contact, Événement, Opportunité, Compte, Type de compte, Membres de la campagne, Objets personnalisés, Campagnes, État du membre de la campagne, Événements, État de la personne, Opportunité, Rôle Contact de l’opportunité</td> 
+   <td colspan="1">Mises à jour ou nouveaux enregistrements dans SFDC synchronisés avec Marketo, Extraction des événements en tant qu’activités</td> 
+   <td colspan="1">Nouvel élément, mis à jour, échoué ou ignoré</td>
   </tr>  
   <tr> 
    <td colspan="1">Intégrer les nouveaux</td> 
    <td colspan="1">Tâches, modèles de courrier électronique</td> 
-   <td colspan="1">Tâches Push (activités)</td> 
+   <td colspan="1">Tâches push (activités)</td> 
    <td colspan="1"></td>
   </tr>
   <tr> 
    <td colspan="1">Intégrer les mises à jour</td> 
-   <td colspan="1">Tâches, modèles de courriel, personne, contact, campagnes</td> 
-   <td colspan="1">Pousser les mises à jour vers SFDC et supprimer également</td> 
-   <td colspan="1">Mise à jour, élément non validé ou ignoré</td>
+   <td colspan="1">Tâches, modèles de courrier électronique, Personne, Contact, Campagnes</td> 
+   <td colspan="1">Envoyer les mises à jour à SFDC et supprimer également</td> 
+   <td colspan="1">Mise à jour, élément en échec ou saut</td>
   </tr>  
   <tr> 
    <td colspan="1">Synchroniser le schéma</td> 
-   <td colspan="1">Membres Campaign, Objets personnalisés, Campagnes, Statut de membre Campaign, Tâches, Personne, Opportunité, Rôle Contact d'opportunité, Utilisateurs</td> 
-   <td colspan="1">Synchronise les métadonnées pour différents objets afin de déterminer les nouveaux champs à synchroniser lors du cycle suivant.</td> 
+   <td colspan="1">Membres de campagne, Objets personnalisés, Campagnes, État du membre de campagne, Tâches, Personne, Opportunité, Rôle Contact d’opportunité, Utilisateurs</td> 
+   <td colspan="1">Synchronise les métadonnées des différents objets, afin de déterminer les nouveaux champs à synchroniser lors du cycle suivant</td> 
    <td colspan="1"></td>
   </tr>  
   <tr> 
    <td colspan="1">Synchroniser avec le programme</td> 
    <td colspan="1">Campagnes</td> 
    <td colspan="1">Synchronisation du programme Marketo avec les campagnes SFDC</td> 
-   <td colspan="1">Nouveau, mises à jour, échec ou saut</td>
+   <td colspan="1">Nouveau, mises à jour, échec ou abandon</td>
   </tr> 
   <tr> 
    <td colspan="1">Mettre à jour les activités</td> 
    <td colspan="1">Tâches</td> 
-   <td colspan="1">Extraire les Activités de Salesforce</td> 
+   <td colspan="1">Extraction des activités de Salesforce</td> 
    <td colspan="1"></td>
   </tr>  
   <tr> 
    <td colspan="1">Mettre à jour le FKS</td> 
-   <td colspan="1">Tout</td> 
-   <td colspan="1">Mettre à jour la clé étrangère de tous les objets</td> 
+   <td colspan="1">Tous</td> 
+   <td colspan="1">Mise à jour de la clé étrangère de tous les objets</td> 
    <td colspan="1">S/O</td>
   </tr>  
  </tbody> 
 </table>
 
-*La configuration de la marque au niveau de l&#39;abonnement détermine l&#39;étiquette &quot;prospect&quot; ou &quot;personne&quot; dans le rapport.
+&#42;Le paramétrage de l&#39;identité graphique au niveau de l&#39;abonnement décide du libellé &quot;Lead&quot; ou &quot;Person&quot; dans le rapport.

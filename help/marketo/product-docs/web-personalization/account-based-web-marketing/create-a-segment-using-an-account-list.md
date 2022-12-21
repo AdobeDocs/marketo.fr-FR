@@ -1,23 +1,22 @@
 ---
 unique-page-id: 4720236
-description: Création d’un segment à l’aide d’une Liste de compte - Documents marketing - Documentation du produit
-title: Création d’un segment à l’aide d’une Liste de compte
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Création d’un segment à l’aide d’une liste de comptes - Documents Marketo - Documentation du produit
+title: Création d’un segment à l’aide d’une liste de comptes
+exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
+# Création d’un segment à l’aide d’une liste de comptes {#create-a-segment-using-an-account-list}
 
-# Créer un segment à l’aide d’une Liste de compte {#create-a-segment-using-an-account-list}
-
-Voici comment créer un segment à l’aide d’une Liste de compte.
+Voici comment créer un segment à l’aide d’une liste de comptes.
 
 >[!PREREQUISITES]
 >
->[Créer une Liste de compte](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+>[Créer une liste de comptes](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 1. Accédez à **Segments**.
 
@@ -27,20 +26,20 @@ Voici comment créer un segment à l’aide d’une Liste de compte.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Entrez le nom du segment. Faites glisser **Listes de compte** depuis la section **Firmographics**.
+1. Saisissez le nom du segment. Glisser-déposer **Listes de comptes** de la **Entreprises** .
 
    ![](assets/set-segment-hands.jpg)
 
-1. Sélectionnez une Liste de compte à partir de la liste des comptes nommés que vous avez téléchargés. Le numéro entre crochets en regard du nom de la Liste du compte est l’identifiant de la Liste de référence à l’API.
+1. Sélectionnez une liste de comptes dans la liste des comptes nommés que vous avez transférés. Le nombre entre crochets en regard du nom de la liste de comptes est l’identifiant de la liste de référence des API.
 
    ![](assets/select-list-for-segment-hands.jpg)
 
    >[!NOTE]
    >
-   >Les Listes de compte sont synchronisées d’ABM à la personnalisation Web en vue de leur utilisation dans la segmentation. Sélectionnez-les dans la liste déroulante. La synchronisation peut prendre jusqu’à cinq minutes. Elle ne sera synchronisée que s’il existe un ou plusieurs comptes nommés dans la Liste de comptes.
+   >Les listes de comptes sont synchronisées d’ABM à la personnalisation web pour une utilisation dans la segmentation. Sélectionnez-les dans la liste déroulante. La synchronisation peut prendre jusqu’à cinq minutes. Elle ne se synchronise que s’il existe un ou plusieurs comptes nommés dans la liste des comptes.
 
-1. Cliquez sur **Enregistrer** ou sur **Enregistrer et définir Campaign** pour accéder à la page Campagnes.
+1. Cliquez sur **Enregistrer** ou cliquez sur **Enregistrer et définir une campagne** pour accéder à la page Campagnes .
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Félicitations ! Vous avez maintenant configuré un segment ciblant une Liste de compte.
+Félicitations ! Vous avez maintenant configuré un segment ciblant une liste de comptes.

@@ -1,36 +1,35 @@
 ---
 unique-page-id: 14352430
-description: Comment consigner des e-mails dans d'autres systèmes de gestion de la relation client - Documentation sur le marketing - Documentation sur le produit
-title: Comment consigner des courriers électroniques dans d’autres systèmes de gestion de la relation client
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Comment consigner des emails dans d’autres CRM - Documents Marketo - Documentation du produit
+title: Comment consigner des emails dans d’autres CRM
+exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
+# Comment consigner des emails dans d’autres CRM {#how-to-log-emails-to-other-crms}
 
-# Comment consigner des courriers électroniques dans d&#39;autres systèmes de gestion de la relation client {#how-to-log-emails-to-other-crms}
+Si votre CRM vous fournit une adresse en Cci, vous pouvez utiliser la section &quot;Autre&quot; CRM pour configurer la journalisation des emails. Une fois la configuration configurée, les emails que vous envoyez seront automatiquement consignés dans votre CRM.
 
-Si votre CRM vous fournit une adresse de Cci, vous pouvez utiliser la section &quot;autre&quot; section CRM pour configurer la journalisation des courriers électroniques. Une fois la configuration configurée, les courriers électroniques que vous envoyez sont automatiquement consignés dans votre gestion de la relation client.
+## CRM avec lesquels nous intégrons {#crms-we-integrate-with}
 
-## CRM que nous intégrons avec {#crms-we-integrate-with}
+**Presque tous les CRM**:
 
-**Presque tous les CRM** :
+* Notre fonctionnalité auto-Cci fonctionne avec presque tous les emails d’enregistrement CRM que vous avez envoyés avec Sales Connect (Connecter aux ventes) à vos pistes. Assurez-vous simplement que le CRM de votre choix vous fournit une adresse Cci pour en profiter.
 
-* Notre fonction de contrôle automatique des transactions fonctionne avec presque tous les courriers électroniques d&#39;enregistrement CRM que vous avez envoyés avec Sales Connect à vos prospects. Assurez-vous simplement que votre CRM de choix vous fournit une adresse de Cci pour en profiter.
+**Salesforce**:
 
-**Salesforce** :
+* Nous faisons tout ce qui précède et plus encore !
 
-* Nous faisons tout ce qui précède et plus !
-
-## Comment se connecter à d&#39;autres CRM {#how-to-connect-to-other-crms}
+## Comment se connecter à d’autres CRM {#how-to-connect-to-other-crms}
 
 1. Cliquez sur **Paramètres**.
 1. Cliquez sur **CRM**.
-1. Cliquez sur **Se connecter** sous Autres CRM.
-1. Cliquez sur **Configurer**, puis collez votre adresse Cci sous Courriel à Cci.
-1. Cliquez sur **Enregistrer** et votre adresse Cci sera enregistrée dans Sales Connect.
+1. Cliquez sur **Connexion** sous Autres CRM.
+1. Cliquez sur **Configurer**, puis collez votre adresse en Cci sous Email en Cci.
+1. Cliquez sur **Enregistrer** et votre adresse en Cci sera enregistrée dans Sales Connect.
 
-   Les courriels seront désormais enregistrés dans votre gestion de la relation client via BCC.
+   Les emails seront désormais consignés dans votre CRM via Cci.

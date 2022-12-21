@@ -1,15 +1,14 @@
 ---
 unique-page-id: 7504218
-description: Rapports RTP personnalisés dans Google Universal Analytics - Docs marketing - Documentation sur les produits
+description: Rapports RTP personnalisés dans Google Universal Analytics - Documents Marketo - Documentation du produit
 title: Rapports RTP personnalisés dans Google Universal Analytics
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '386'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Rapports RTP personnalisés dans Google Universal Analytics {#custom-rtp-reports-in-google-universal-analytics}
 
@@ -17,7 +16,7 @@ ht-degree: 0%
 >
 >[Intégration de RTP à Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-Cet article explique comment configurer des rapports personnalisés RTP pour Google Universal Analytics (GUA).  Les données envoyées de RTP à GUA peuvent être configurées sous la forme de deux rapports personnalisés distincts appelés :
+Cet article explique comment configurer des rapports personnalisés RTP pour Google Universal Analytics (GUA).  Les données envoyées de RTP vers GUA peuvent être configurées en tant que deux rapports personnalisés distincts appelés :
 
 * RTP B2B
 * Engagement RTP
@@ -34,52 +33,52 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
 
 ## Rapport RTP B2B {#rtp-b-b-report}
 
-1. Nommez le rapport **RTP B2B Report**.
+1. Nommer le rapport **Rapport RTP B2B**.
 
-1. Nommez le 1er onglet **Industrie**.
+1. Nommer le premier onglet **Secteur industriel**.
 
 >[!NOTE]
 >
->Vous allez **Duplicata cet onglet** et en créer d&#39;autres similaires - étape 5)
+>Vous aurez **Dupliquer cet onglet** et créer d’autres similaires - étape 5)
 
-1. Sélectionnez le type de rapport **Explorateur**.
+1. Sélectionnez la **Explorateur** type de rapport.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. Dans la section **Groupes de mesures**, sélectionnez les mesures pertinentes pour votre activité.
+1. Dans le **Groupes de mesures** , sélectionnez les mesures pertinentes pour votre entreprise.
 
    a. Nous vous recommandons ce qui suit :
 
    ![](assets/image2015-3-22-16-3a16-3a40.png)
 
-1. Duplicata cet onglet 4 fois et nommez-le :
+1. Dupliquez cet onglet 4 fois et nommez-les :
 
-   1. **Industrie**
+   1. **Secteur**
    1. **Groupe**
    1. **Catégorie**
    1. **ABM**
-   1. **Organisations**
+   1. **Entreprises**
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Dans la section **Zoom sur la Dimension**, définissez les dimensions appropriées pour chaque onglet comme ci-dessous.
+1. Dans le **Analyse des Dimensions** définissez les dimensions pertinentes pour chaque onglet, comme ci-dessous.
 
 <table> 
  <thead> 
   <tr> 
    <th> 
     <div>
-      Nom d’onglet 
+      Nom de l'onglet 
     </div></th> 
    <th> 
     <div>
-      Zoom sur les Dimensions
+      Analyse des Dimensions
     </div></th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>Industrie</td> 
+   <td>Secteur</td> 
    <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -95,58 +94,58 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
    <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>Organisations</td> 
+   <td>Entreprises</td> 
    <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Ne définissez aucun filtres et ne configurez pas ce rapport pour qu&#39;il soit disponible pour **Toutes les données du site Web** (ou modifiez-le s&#39;il est pertinent pour un compte Analytics spécifique).
+1. Ne définissez aucun filtre et ne définissez pas ce rapport pour qu’il soit disponible. **Toutes les données de site Web** (ou changez si cela est pertinent pour un compte Analytics spécifique).
 
 1. Cliquez sur **Enregistrer**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
-## Rapport d’engagement RTP {#rtp-engagement-report}
+## Rapport Engagement RTP {#rtp-engagement-report}
 
-1. Nommez le rapport **Rapport Engagement RTP**.
+1. Nommer le rapport **Rapport Engagement RTP**.
 
-1. Définissez le premier nom d’onglet sur **Tous les engagements**.
+1. Définissez le nom du 1er onglet sur **Tous les engagements**.
 
 >[!NOTE]
 >
->Vous allez Duplicata cet onglet et en créer d&#39;autres similaires - étape 5)
+>Vous allez dupliquer cet onglet et en créer d’autres similaires - étape 5)
 
-1. Sélectionnez le type de rapport **Explorateur**.
+1. Sélectionnez la **Explorateur** type de rapport.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Dans la section Groupes de mesures, sélectionnez les mesures pertinentes pour votre activité. Voici une recommandation :
+1. Dans la section Groupes de mesures , sélectionnez les mesures pertinentes pour votre entreprise. Voici une recommandation :
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
-1. Duplicata cet onglet 4 fois et nommez-le :
+1. Dupliquez cet onglet 4 fois et nommez-les :
 
    1. **Tous les engagements**
-   1. **Engagement de l&#39;industrie**
+   1. **Engagement du secteur industriel**
    1. **Engagement par groupe**
-   1. **Engagement par Catégorie**
+   1. **Engagement par catégorie**
    1. **Engagement par ABM**
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. Dans la section **Analyses de Dimension**, définissez les dimensions appropriées pour chaque onglet comme suit :
+1. Dans le **Analyse des Dimensions** définissez les dimensions pertinentes pour chaque onglet, comme ci-dessous :
 
 <table> 
  <thead> 
   <tr> 
    <th> 
     <div>
-      Nom d’onglet 
+      Nom de l'onglet 
     </div></th> 
    <th> 
     <div>
-      Zoom sur les Dimensions 
+      Analyse des Dimensions 
     </div></th> 
   </tr> 
  </thead> 
@@ -160,7 +159,7 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
    <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>Engagement par Catégorie</td> 
+   <td>Engagement par catégorie</td> 
    <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -168,7 +167,7 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
    <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>Engagement de l'industrie</td> 
+   <td>Engagement du secteur industriel</td> 
    <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
  </tbody> 
@@ -204,22 +203,22 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
  <tbody> 
   <tr> 
    <td><p>Inclure</p></td> 
-   <td><p>Catégorie événement</p></td> 
+   <td><p>Catégorie d’événement</p></td> 
    <td>Regex</td> 
    <td>RTP-Campagnes|RTP-Recommendations|RTP-Segments</td> 
-   <td colspan="1">Filtre tous les autres événements personnalisés qui ne sont pas liés à RTP</td> 
+   <td colspan="1">Filtrez tous les autres événements personnalisés qui ne sont pas liés à la méthode RTP</td> 
   </tr> 
   <tr> 
    <td>Exclure</td> 
-   <td>Étiquette de événement</td> 
+   <td>Libellé d’événement</td> 
    <td>Regex</td> 
    <td>#</td> 
-   <td colspan="1">Permet de filtrer de votre campagne de rapports en utilisant # dans le nom de la campagne.</td> 
+   <td colspan="1">Permet de filtrer de votre campagne de rapports à l’aide de # dans le nom de la campagne.</td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Définissez ce rapport pour qu&#39;il soit disponible pour **Toutes les données du site Web** (ou modifiez-le si nécessaire).
+1. Définir ce rapport pour qu’il soit disponible **Toutes les données de site Web** (ou changez si nécessaire).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 

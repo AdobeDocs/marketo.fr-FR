@@ -1,32 +1,31 @@
 ---
 unique-page-id: 11379060
-description: Tableau de bord de message SMS - Documents marketing - Documentation du produit
-title: Le Tableau de bord de messages SMS
-translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+description: Tableau de bord des messages SMS - Documents Marketo - Documentation du produit
+title: Tableau de bord des messages SMS
+exl-id: a08fb3d9-f2fa-40d4-9cba-5c404e8574b8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
+# Tableau de bord des messages SMS {#the-sms-message-dashboard}
 
-# Tableau de bord de message SMS {#the-sms-message-dashboard}
-
-Le Tableau de bord Message SMS affiche des informations utiles sur votre message SMS.
+Le tableau de bord des messages SMS affiche des informations utiles sur votre message SMS.
 
 ![](assets/converted-dashboard-image.png)
 
-Le graphique **Progression SMS** affiche le total envoyé et le total livré. Les montants se trouvent à droite et si vous passez la souris sur une barre, le pourcentage s’affiche.
+Le **Progression SMS** Le graphique affiche le total envoyé et le total diffusé. Les montants sont à droite et si vous passez la souris sur une barre, le pourcentage est affiché.
 
 ![](assets/sms-progression-hand-border.png)
 
-Le graphique **Résumé** affiche le taux de rebonds calculé sous forme de pourcentage. Passez la souris sur la barre d’outils pour vue le taux de diffusion par montant et pourcentage. Passez la souris sur la section Taux de rebonds orange de la barre pour vue les montants et pourcentages Taux de rebonds à la baisse et Taux de rebonds à la baisse.
+Le **Résumé** Le graphique présente le taux de rebond calculé sous la forme d’un pourcentage. Passez la souris sur la barre supérieure pour afficher le taux de diffusion par montant et pourcentage. Passez la souris sur la section Taux de rebond orange de la barre pour afficher les montants et pourcentages Taux de rebond soft et Taux de rebond hard .
 
 ![](assets/hover-over-summary-hands-thin-border.png)
 
-Le graphique **Activité dans le temps** vous permet de sélectionner Total envoyé ou Total distribué. Sélectionnez une plage appropriée dans le sélecteur de plage de dates.
+Le **Activité au fil du temps** Le graphique vous permet de sélectionner Total envoyé ou Total diffusé. Sélectionnez une plage appropriée dans le sélecteur de période.
 
 ![](assets/activity-over-time-hands.png)
 
-Clair comme une cloche !
+Dégage comme une cloche !

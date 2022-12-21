@@ -1,29 +1,28 @@
 ---
 unique-page-id: 37355758
-description: Ajouter des membres à un Programme de Événement - Docs marketing - Documentation du produit
-title: Ajouter les membres à un Programme de Événement
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Ajout de membres à un programme d’événements - Documents Marketo - Documentation du produit
+title: Ajout de membres à un programme d’événement
+exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
+# Ajout de membres à un programme d’événement {#adding-members-to-an-event-program}
 
-# Ajouter les membres à un Programme de Événement {#adding-members-to-an-event-program}
-
-Cet article ne s&#39;applique qu&#39;aux utilisateurs qui utilisent un cap de Événement ou des objectifs de Événement.
+Cet article s’applique uniquement aux utilisateurs qui utilisent la limite d’événements ou les objectifs d’événement.
 
 >[!CAUTION]
 >
->L&#39;importation directe d&#39;une liste de personnes dans un Programme de Événement empêche ces enregistrements d&#39;être comptabilisés dans les inscriptions réelles dans le rapport Suivi des objectifs et le rapport Progression de la limite de Événement. Suivez les instructions ci-dessous pour vous assurer que vos enregistrements sont comptabilisés.
+>L’importation d’une liste de personnes directement dans un programme d’événements empêche ces enregistrements d’être comptabilisés dans les inscriptions réelles dans le rapport Suivi des objectifs et dans le rapport Progression de la limite de l’événement . Suivez les instructions ci-dessous pour vous assurer que vos enregistrements sont comptabilisés.
 
-1. Créez et [ajoutez des personnes à une liste statique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
+1. Créez et [ajouter des personnes à une liste statique ;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
 
-1. [Créez une campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) intelligente.
+1. [Création d’une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. Dans la Liste intelligente du Campaign dynamique que vous avez créée à l’étape 2, recherchez et ajoutez le filtre **Membre de Liste**.
+1. Dans la liste dynamique de la campagne dynamique que vous avez créée à l’étape 2, recherchez et ajoutez le **Membre de la liste** filtre.
 
    ![](assets/three.png)
 
@@ -31,11 +30,11 @@ Cet article ne s&#39;applique qu&#39;aux utilisateurs qui utilisent un cap de É
 
    ![](assets/four.png)
 
-1. Dans le flux, recherchez et ajoutez l’étape de flux **Modifier l’état du Programme**.
+1. Dans le flux, recherchez et ajoutez le **Modifier l’état du programme** étape de flux.
 
    ![](assets/five.png)
 
-1. Recherchez et sélectionnez votre Programme de Événement.
+1. Recherchez et sélectionnez votre programme d’événements.
 
    ![](assets/six.png)
 
@@ -43,12 +42,12 @@ Cet article ne s&#39;applique qu&#39;aux utilisateurs qui utilisent un cap de É
 
    ![](assets/seven.png)
 
-1. Dans l’onglet Planification, cliquez sur **Exécuter une fois**.
+1. Dans l’onglet Planning , cliquez sur **Exécuter une fois**.
 
    ![](assets/eight.png)
 
-1. Sélectionnez **Exécuter maintenant** et cliquez sur **Exécuter**.
+1. Sélectionner **Exécuter maintenant** et cliquez sur **Exécuter**.
 
    ![](assets/nine.png)
 
-1. Une fois la campagne intelligente exécutée, les membres sont ajoutés au programme et compteront dans le suivi des objectifs et les calculs de progression des limites de Événement.
+1. Une fois la campagne dynamique exécutée, les membres sont ajoutés au programme et compteront dans les calculs Suivi des objectifs et Progression de la limite des événements .

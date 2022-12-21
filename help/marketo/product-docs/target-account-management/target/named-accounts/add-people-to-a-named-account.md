@@ -1,23 +1,22 @@
 ---
 unique-page-id: 11378816
-description: Ajouter des personnes à un compte nommé - Documents marketing - Documentation du produit
-title: Ajouter des personnes à un compte nommé
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: Ajout de personnes à un compte nommé - Documents Marketo - Documentation du produit
+title: Ajout de personnes à un compte nommé
+exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Ajout de personnes à un compte nommé {#add-people-to-a-named-account}
 
-# Ajouter des personnes à un compte nommé {#add-people-to-a-named-account}
+Il existe trois manières différentes d’ajouter manuellement des personnes à un compte nommé dans la gestion des actifs numériques.
 
-Il existe trois façons différentes d’ajouter manuellement des personnes à un compte nommé dans TAM.
+## Action à flux unique {#single-flow-action}
 
-## Action de flux unique {#single-flow-action}
-
-1. Cliquez sur **Base de données**.
+1. Cliquez sur **Base**.
 
    ![](assets/one-2.png)
 
@@ -25,17 +24,17 @@ Il existe trois façons différentes d’ajouter manuellement des personnes à u
 
    ![](assets/two.png)
 
-1. Cliquez sur la personne pour la sélectionner. Cliquez sur la liste déroulante **Actions de personne**, sur **Marketing** et sélectionnez **Ajouter au compte nommé**.
+1. Cliquez sur la personne pour la sélectionner. Cliquez sur le bouton **Actions de personne** menu déroulant, cliquez sur **Marketing** et sélectionnez **Ajouter à un compte nommé**.
 
    ![](assets/three.png)
 
-1. Cliquez sur la liste déroulante **Compte nommé**, sélectionnez le compte nommé de votre choix, puis cliquez sur **Exécuter maintenant**.
+1. Cliquez sur le bouton **Compte nommé** , sélectionnez le compte nommé de votre choix, puis cliquez sur **Exécuter maintenant**.
 
    ![](assets/four.png)
 
-## Étape de flux Campaign dynamique {#smart-campaign-flow-step}
+## Étape de flux de campagne dynamique {#smart-campaign-flow-step}
 
-1. Sélectionnez votre Campaign dynamique et cliquez sur **Flux**.
+1. Sélectionnez votre campagne dynamique et cliquez sur **Flux**.
 
    ![](assets/five.png)
 
@@ -43,34 +42,34 @@ Il existe trois façons différentes d’ajouter manuellement des personnes à u
 
    ![](assets/six.png)
 
-1. Faites glisser le filtre sur la trame.
+1. Faites glisser le filtre sur la zone de travail.
 
    ![](assets/seven.png)
 
-1. Cliquez sur la liste déroulante **Compte nommé** et sélectionnez le compte nommé de votre choix.
+1. Cliquez sur le bouton **Compte nommé** et sélectionnez le compte nommé de votre choix.
 
    ![](assets/eight.png)
 
-   C&#39;est tout ! Ensuite, il vous suffit de planifier (ou d’activer) votre campagne intelligente et l’étape de flux début l’ajout de personnes admissibles au compte désigné.
+   C&#39;est tout ! Ensuite, planifiez (ou activez) votre campagne dynamique. L’étape de flux commencera à ajouter les personnes admissibles au compte nommé désigné.
 
-## Importation de liste {#list-import}
+## Importer une liste {#list-import}
 
-1. Sélectionnez votre liste, cliquez sur la liste déroulante **Actions de Liste** et sélectionnez **Importer la Liste**.
+1. Sélectionnez votre liste, puis cliquez sur le bouton **Actions de liste** et sélectionnez **Liste d’importation**.
 
    ![](assets/nine.png)
 
-1. Après avoir choisi votre fichier et vos paramètres, cliquez sur **Suivant**.
+1. Après avoir choisi le fichier et les paramètres, cliquez sur **Suivant**.
 
    ![](assets/ten.png)
 
-1. Faites correspondre les champs de votre choix. Assurez-vous que le champ **Compte nommé** est mappé.
+1. Faites correspondre les champs de votre choix. Assurez-vous que la variable **Compte nommé** est mappé.
 
    ![](assets/eleven.png)
 
-1. Choisissez les paramètres de votre choix, puis cliquez sur **Importer**.
+1. Choisissez les paramètres souhaités, puis cliquez sur **Importer**.
 
    ![](assets/twelve.png)
 
 >[!MORELIKETHIS]
 >
->[Correspondance de piste avec compte](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[Correspondance de pistes de comptes](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

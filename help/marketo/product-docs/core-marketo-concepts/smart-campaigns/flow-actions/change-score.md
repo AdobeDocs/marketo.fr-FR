@@ -35,8 +35,8 @@ La notation des personnes est facile et puissante pour aider votre équipe comme
    Modifications :
 
    * **+5** pour incrémenter
-   * **-5** décrétera (nombres négatifs autorisés)
+   * **-5** réduit (nombres négatifs autorisés) ;
    * **=5** fera le score qui est un nombre exact
-   * **=-5** effectue le score correspondant au nombre négatif exact
+   * **=-5** rendra le score qui contient un nombre négatif exact.
 
 Mettez rapidement en place une notation de base, puis affinez les résultats au fil du temps. C&#39;est ce que nous avons fait !

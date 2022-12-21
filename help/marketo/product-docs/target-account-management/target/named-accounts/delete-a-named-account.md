@@ -1,17 +1,16 @@
 ---
 unique-page-id: 12615802
-description: Supprimer un compte nommé - Documents marketing - Documentation du produit
+description: Suppression d’un compte nommé - Documents Marketo - Documentation du produit
 title: Suppression d’un compte nommé
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
-# Supprimer un compte nommé {#delete-a-named-account}
+# Suppression d’un compte nommé {#delete-a-named-account}
 
 Suivez ces étapes rapides pour supprimer un compte nommé.
 
@@ -23,7 +22,7 @@ Suivez ces étapes rapides pour supprimer un compte nommé.
    >
    >Ctrl+clic (Windows) ou Cmd+clic (Mac) pour sélectionner plusieurs comptes nommés.
 
-1. Cliquez sur la liste déroulante **Actions de compte nommé** et sélectionnez **Supprimer le compte nommé**.
+1. Cliquez sur le bouton **Actions de compte nommé** et sélectionnez **Supprimer le compte nommé**.
 
    ![](assets/eight-1.png)
 
@@ -33,4 +32,4 @@ Suivez ces étapes rapides pour supprimer un compte nommé.
 
    >[!NOTE]
    >
-   >Les comptes qui ont été synchronisés avec votre gestion de la relation client ne peuvent pas être supprimés dans TAM. Si l’option de suppression n’est pas disponible ou si vous recevez un message &quot;Ces comptes ne peuvent pas être supprimés car un ou plusieurs comptes CRM sont sélectionnés&quot;, ils doivent être supprimés directement dans la gestion de la relation client.
+   >Les comptes qui ont été synchronisés avec votre CRM ne peuvent pas être supprimés dans la gestion de la relation client. Si l&#39;option de suppression n&#39;est pas disponible ou si vous recevez le message &quot;Ces comptes ne peuvent pas être supprimés car un ou plusieurs comptes CRM sont sélectionnés&quot;, ils doivent être supprimés directement dans le CRM.

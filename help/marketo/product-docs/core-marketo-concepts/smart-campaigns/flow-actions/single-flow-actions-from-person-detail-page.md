@@ -3,7 +3,8 @@ description: Actions de flux unique à partir de la page Détails de la personne
 title: Actions de flux unique à partir de la page Détails de la personne
 hide: true
 hidefromtoc: true
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Outre l’exécution d’actions de flux uniques à partir d’une liste dynamique, vous pouvez également les exécuter directement sur une page Détails de la personne.
 
-1. Cliquez sur **Base de données**.
+1. Cliquez sur **Base**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -22,11 +23,11 @@ Outre l’exécution d’actions de flux uniques à partir d’une liste dynamiq
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Cliquez sur la liste déroulante **Actions de personne** et sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [Send Email](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Cliquez sur le bouton **Actions de personne** et sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [Envoyer un courrier électronique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. Sélectionnez l’adresse électronique souhaitée et cliquez sur **Exécuter maintenant**.
+1. Sélectionnez l’adresse électronique de votre choix, puis cliquez sur **Exécuter maintenant**.
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 

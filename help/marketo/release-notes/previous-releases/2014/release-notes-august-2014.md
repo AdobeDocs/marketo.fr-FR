@@ -16,7 +16,7 @@ Les fonctionnalités suivantes sont incluses dans la version d’août 2014. Vé
 
 ## Licences de calendrier marketing {#marketing-calendar-licenses}
 
-Après le 5 septembre 2014, seuls 5 utilisateurs peuvent accéder gratuitement au calendrier marketing. Veillez à [Émettre/Révoquer une licence de calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) avant cela pour un accès ininterrompu aux utilisateurs de votre choix.
+Après le 5 septembre 2014, seuls 5 utilisateurs peuvent accéder gratuitement au calendrier marketing. Veillez à [Problème/révocation d’une licence de calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) aux utilisateurs de votre choix pour un accès ininterrompu.
 
 ![--](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -34,7 +34,7 @@ Les nouvelles autorisations utilisateur suivantes ont été ajoutées :
 
 ## Exportation des utilisateurs et des rôles à partir de l’administrateur {#export-users-and-roles-from-admin}
 
-Vous pouvez désormais [exporter une liste d’utilisateurs et de rôles](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) à partir de Marketo. Vous pouvez également inclure un horodatage &quot;Dernière connexion&quot; dans l’exportation.
+Vous pouvez désormais [Exportation d’une liste d’utilisateurs et de rôles](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) de Marketo. Vous pouvez également inclure un horodatage &quot;Dernière connexion&quot; dans l’exportation.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 

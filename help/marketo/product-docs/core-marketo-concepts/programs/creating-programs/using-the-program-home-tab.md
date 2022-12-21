@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147126
-description: Utilisation de l'onglet Programme d'accueil - Documents Marketo - Documentation du produit
-title: Utilisation de l’onglet Accueil Programme
+description: Utilisation de l’onglet Accueil du programme - Documents Marketo - Documentation du produit
+title: Utilisation de l’onglet Accueil du programme
 exl-id: 04c36190-d853-4900-b566-973d08316e37
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Utilisation de l’onglet Accueil du Programme {#using-the-program-home-tab}
+# Utilisation de l’onglet Accueil du programme {#using-the-program-home-tab}
 
-L&#39;onglet programme d&#39;accueil vous donne une vue générale de ce qui se passe dans votre programme.
+L’onglet Accueil du programme vous donne une vue d’ensemble de ce qui se passe dans votre programme.
 
-## Vue de résumé {#summary-view}
+## Mode Résumé {#summary-view}
 
 1. Accédez à **Activités marketing**.
 
@@ -27,48 +26,48 @@ L&#39;onglet programme d&#39;accueil vous donne une vue générale de ce qui se 
 
    >[!NOTE]
    >
-   >Il s’agit de votre vue par défaut. Il fournit des informations sur vos paramètres, votre planification, vos résultats et l&#39;état du Programme des membres.
+   >Il s’agit de votre vue par défaut. Il fournit des informations sur vos paramètres, votre planification, les résultats et l’état du programme Membres.
 
-1. Cliquez sur les éléments soulignés pour apporter des modifications ou vue à d’autres informations.
+1. Cliquez sur les éléments soulignés pour apporter des modifications ou afficher plus d’informations.
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Cliquez sur **Exporter** au bas du résumé pour télécharger le rapport.
+1. Cliquez sur **Exporter** au bas du rapport Résumé à télécharger.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
-## Utilisé par la Vue {#used-by-view}
+## Utilisé par la vue {#used-by-view}
 
 1. Dans Activités marketing, sélectionnez un programme.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Cliquez sur la liste déroulante **Vue**. Sélectionnez **Utilisé par**.
+1. Cliquez sur le bouton **Affichage** menu déroulant. Sélectionner **Utilisé par**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
-   Cette vue présente les campagnes intelligentes utilisées.
+   Cette vue vous indique les campagnes intelligentes utilisées.
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
-## Vue d&#39;adhésion {#membership-view}
+## Affichage de l’appartenance {#membership-view}
 
 1. Dans Activités marketing, sélectionnez un programme.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Cliquez sur la liste déroulante **Vue**. Sélectionnez **Adhésion**.
+1. Cliquez sur le bouton **Affichage** menu déroulant. Sélectionner **Abonnement**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
-   Vous pouvez ainsi obtenir un graphique indiquant où se trouvent les membres lorsqu’ils parcourent les états des programmes.
+   Vous obtenez ainsi un graphique indiquant où se trouvent les membres lorsqu’ils parcourent les états du programme.
 
    ![](assets/image2014-9-18-17-3a8-3a1.png)
 
    >[!NOTE]
    >
-   >**** Historique signifie quiconque a déjà traversé le programme, tandis que  **** Actuellement, il n&#39;inclut que les personnes actuellement sur le programme.
+   >**Historique** désigne toute personne qui a déjà suivi le programme, tandis que **Actuel** inclut uniquement les personnes actuellement présentes dans le programme.
 
    >[!MORELIKETHIS]
    >
-   >[Comprendre l&#39;appartenance à un Programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[Compréhension de l’appartenance au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)

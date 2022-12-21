@@ -1,33 +1,32 @@
 ---
 unique-page-id: 12615798
-description: Ajouter un compte nommé existant à une Liste de compte - Documents marketing - Documentation du produit
-title: Ajouter un compte nommé existant à une Liste de compte
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Ajout d’un compte nommé existant à une liste de comptes - Documents Marketo - Documentation du produit
+title: Ajout d’un compte nommé existant à une liste de comptes
+exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
+# Ajout d’un compte nommé existant à une liste de comptes {#add-an-existing-named-account-to-an-account-list}
 
-# Ajouter un compte nommé existant à une Liste de compte {#add-an-existing-named-account-to-an-account-list}
-
-Il est simple d’Ajouter un compte nommé à une liste de compte.
+Il est simple d’ajouter un compte nommé à une liste de comptes.
 
 >[!NOTE]
 >
->Ceci s’applique uniquement aux Listes de compte **et non** aux Listes de compte dynamiques.
+>Cela s’applique uniquement aux listes de comptes, **not** Listes de comptes dynamiques
 
-1. Sélectionnez la ligne du compte nommé auquel vous souhaitez ajouter des éléments.
+1. Sélectionnez la ligne du compte nommé à ajouter.
 
    ![](assets/four-1.png)
 
-1. Cliquez sur la liste déroulante **Actions du compte nommé** et sélectionnez **Ajouter à la Liste du compte**.
+1. Cliquez sur le bouton **Actions de compte nommé** et sélectionnez **Ajouter à la liste des comptes**.
 
    ![](assets/five-1.png)
 
-1. Cliquez sur la liste déroulante **Liste de compte**, sélectionnez la liste de compte de votre choix, puis cliquez sur **Ajouter**.
+1. Cliquez sur le bouton **Liste des comptes** , sélectionnez la liste de comptes de votre choix, puis cliquez sur **Ajouter**.
 
    ![](assets/six-1.png)
 
@@ -35,4 +34,4 @@ Il est simple d’Ajouter un compte nommé à une liste de compte.
 
 >[!MORELIKETHIS]
 >
->[Créer un compte nommé](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[Création d’un compte nommé](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

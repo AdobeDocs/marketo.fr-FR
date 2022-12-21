@@ -1,9 +1,8 @@
 ---
 unique-page-id: 6095047
-description: Modifier les paramètres de prise en charge des navigateurs - Marketo Docs - Documentation du produit
-title: Modifier les paramètres de prise en charge du navigateur "Ne pas suivre"
+description: Modifier les paramètres de prise en charge du navigateur - Documents Marketo - Documentation du produit
+title: Modification des paramètres de prise en charge du navigateur "Ne pas suivre"
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Modifier les paramètres de prise en charge du navigateur {#edit-do-not-track-browser-support-settings}
+# Modification des paramètres de prise en charge du navigateur &quot;Ne pas suivre&quot; {#edit-do-not-track-browser-support-settings}
 
-&quot;Ne pas suivre&quot; est une demande de navigateur à ne pas suivre dans des systèmes tels que Marketo. Vous pouvez honorer cette demande en procédant comme suit.
+&quot;Ne pas suivre&quot; est une requête de navigateur à ne pas suivre dans des systèmes tels que Marketo. Vous pouvez honorer cette requête en procédant comme suit.
 
 >[!NOTE]
 >
@@ -21,9 +20,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Par défaut, l’option &quot;Ne pas effectuer de suivi&quot; est définie sur Ignorer. Par conséquent, si c’est ce que vous souhaitez, vous n’aurez pas à effectuer de suivi.
+>&quot;Ne pas effectuer de suivi&quot; sera défini sur Ignorer par défaut. Par conséquent, si c’est ce que vous souhaitez, vous n’aurez aucune mesure à prendre.
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/one.png)
 
@@ -35,7 +34,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. Sélectionnez **Support** et cliquez sur **Enregistrer**.
+1. Sélectionner **Assistance** et cliquez sur **Enregistrer**.
 
    ![](assets/four-1.png)
 
@@ -45,8 +44,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Il est recommandé de prendre en charge la fonction &quot;Ne pas suivre&quot;. En Europe, c&#39;est la loi !
+   >La bonne pratique consiste à prendre en charge la fonction &quot;Ne pas suivre&quot;. En Europe, c&#39;est la loi !
 
    >[!TIP]
    >
-   >Pour en savoir plus sur &quot;Ne pas suivre&quot; et sur son fonctionnement, veuillez visiter [cette page](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Pour en savoir plus sur &quot;Ne pas suivre&quot; et son fonctionnement, consultez la page [cette page](https://en.wikipedia.org/wiki/Do_Not_Track).

@@ -1,40 +1,39 @@
 ---
 unique-page-id: 2359951
-description: Supprimer un membre d'un Programme d'engagement - Documents marketing - Documentation du produit
-title: Suppression d’un membre d’un Programme d’engagement
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Suppression d’un membre d’un programme d’engagement - Documents Marketo - Documentation du produit
+title: Suppression d’un membre d’un programme d’engagement
+exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Suppression d’un membre d’un programme d’engagement {#remove-a-member-from-an-engagement-program}
 
-# Supprimer un membre d&#39;un Programme d&#39;engagement {#remove-a-member-from-an-engagement-program}
-
-Oups ! Comment ces gens sont-ils entrés là-dedans ? Vous pouvez supprimer des membres d’un programme d’engagement à l’aide de l’étape de flux **Modifier l’état du Programme**.
+Oups ! Comment ces gens sont-ils entrés ? Vous pouvez supprimer des membres d’un programme d’engagement à l’aide de la variable **Modifier l’état du programme** étape de flux.
 
 >[!TIP]
 >
->N’utilisez pas cette méthode pour suspendre le contenu d’une personne. Cela éliminera toutes les attributions dans les analyses. En savoir plus sur la façon de [suspendre des personnes dans un programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
+>Ne l’utilisez pas pour suspendre le contenu d’une personne. Cela éliminera toute attribution dans les analyses. En savoir plus sur la manière de procéder [suspendre des personnes dans un programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
-## Étape de flux {#flow-step}
+## Étape de déroulement {#flow-step}
 
-1. Faites glisser l’étape de flux **Modifier l’état du Programme**.
+1. Faites glisser le **Modifier l’état du programme** étape de flux.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   Sélectionnez l’état **Non dans Programme**.
+   Sélectionnez le statut, **Pas dans le programme**.
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Groovy. Tous les membres que vous avez définis dans la [liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ne figureront plus dans ce programme d’engagement.
+   Groovy. Tous les membres que vous avez définis dans la variable [liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ne fera plus partie de ce programme d’engagement.
 
-## Suspendre les personnes {#pause-people}
+## Pause des gens  {#pause-people}
 
-Parfois, vous voulez simplement suspendre des personnes dans un programme d&#39;engagement et ne pas les supprimer. Pour ce faire, nous avons recours au Programme de l&#39;engagement de modification **Cadence**.
+Parfois, vous voulez simplement suspendre les personnes dans un programme d’engagement et ne pas les supprimer. Cela se fait avec la méthode **Modifier l’cadence du programme d’engagement**.
 
 >[!MORELIKETHIS]
 >
->[Suspendre les personnes dans un Programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)
+>[Mettre les personnes en pause dans un programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)

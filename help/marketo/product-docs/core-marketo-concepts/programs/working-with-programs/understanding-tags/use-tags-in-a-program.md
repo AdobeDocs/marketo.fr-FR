@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147150
-description: Utiliser des balises dans un Programme - Documents Marketo - Documentation du produit
-title: Utiliser des balises dans un Programme
+description: Utilisation des balises dans un programme - Documents Marketo - Documentation du produit
+title: Utilisation de balises dans un programme
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Utiliser des balises dans un Programme {#use-tags-in-a-program}
+# Utilisation de balises dans un programme {#use-tags-in-a-program}
 
-Les balises sont des attributs qui décrivent vos programmes et sont utilisés pour regrouper les types de programmes dans le rapports.
+Les balises sont des attributs qui décrivent vos programmes et qui sont utilisés pour regrouper les types de programmes dans les rapports.
 
-## Utiliser une balise dans un Programme {#use-a-tag-in-a-program}
+## Utilisation d’une balise dans un programme {#use-a-tag-in-a-program}
 
 1. Sélectionnez votre programme. Cliquez sur **Configuration**.
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
-1. Faites glisser une balise sur la trame.
+1. Faites glisser et déposez une balise sur la zone de travail.
 
    ![](assets/image2014-9-23-15-3a45-3a13.png)
 
@@ -33,13 +32,13 @@ Les balises sont des attributs qui décrivent vos programmes et sont utilisés p
 
    ![](assets/image2014-9-23-15-3a45-3a36.png)
 
-1. Tout de suite. Vous verrez la nouvelle balise dans la trame.
+1. Tout de suite. La nouvelle balise s’affiche dans la zone de travail.
 
    ![](assets/image2014-9-23-15-3a45-3a47.png)
 
-## Modifier une balise {#edit-a-tag}
+## Modification d’une balise {#edit-a-tag}
 
-1. Accédez à l&#39;onglet **Configuration**. Cliquez avec le bouton droit de la souris sur la balise . Sélectionnez **Modifier**.
+1. Accédez au **Configuration** . Cliquez avec le bouton droit de la souris sur la balise. Sélectionner **Modifier**.
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -51,13 +50,13 @@ Les balises sont des attributs qui décrivent vos programmes et sont utilisés p
 
    ![](assets/image2014-9-23-15-3a46-3a25.png)
 
-1. Fantastique ! Les modifications doivent être répercutées dans la trame.
+1. Fantastique ! Les modifications doivent être répercutées dans la zone de travail.
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## Supprimer une balise {#delete-a-tag}
+## Suppression d’une balise  {#delete-a-tag}
 
-1. Accédez à l&#39;onglet **Configuration**. Cliquez avec le bouton droit de la souris sur la balise et sélectionnez **Supprimer**.
+1. Accédez au **Configuration** . Cliquez avec le bouton droit de la souris sur la balise et sélectionnez **Supprimer**.
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
@@ -65,4 +64,4 @@ Les balises sont des attributs qui décrivent vos programmes et sont utilisés p
 
    ![](assets/image2014-9-23-15-3a47-3a8.png)
 
-Cinq ! C&#39;est parti. Les programmes dotés de balises cohérentes facilitent considérablement l&#39;exécution des rapports.
+Cinq heures de haut ! C&#39;est parti. Les programmes avec des balises cohérentes facilitent l’exécution des rapports.

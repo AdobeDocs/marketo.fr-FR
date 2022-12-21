@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2949220
-description: SEO - Notes d'Ajoute sur les problèmes de page - Documents Marketo - Documentation du produit
-title: Optimisation du référencement - Remarques sur les problèmes de page Ajoutées
+description: SEO - Ajout de notes aux problèmes de page - Documents Marketo - Documentation du produit
+title: SEO - Ajout de notes aux problèmes de page
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# SEO - Notes d&#39;Ajoute sur les problèmes de page {#seo-add-notes-to-page-issues}
+# SEO - Ajout de notes aux problèmes de page {#seo-add-notes-to-page-issues}
 
-Saviez-vous que vous pouvez ajouter des notes aux problèmes de page comme rappels personnels ou messages d’équipe ?
+Saviez-vous que vous pouvez ajouter des notes aux problèmes de page sous forme de rappels personnels ou de messages d’équipe ?
 
-## Ajouter des remarques dans la section Problèmes de page {#adding-notes-in-page-issues-section}
+## Ajout de notes dans la section Problèmes de page {#adding-notes-in-page-issues-section}
 
-1. Accédez à la section Pages.
+1. Accédez à la section Pages .
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. Dans l’onglet des pages, cliquez sur **Problèmes**.
+1. Dans l’onglet Pages , cliquez sur **Problèmes**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Passez la souris sur le problème auquel vous souhaitez ajouter une remarque. Cliquez sur **Ajouter la note bascule**.
+1. Pointez sur le problème auquel vous souhaitez ajouter une note. Cliquez sur **Ajout d’une note bascule**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -35,19 +34,19 @@ Saviez-vous que vous pouvez ajouter des notes aux problèmes de page comme rappe
 
 >[!TIP]
 >
->Vous pouvez supprimer votre note en cliquant sur le petit **x** dans le coin supérieur gauche.
+>Vous pouvez supprimer votre note en cliquant sur la petite **x** dans le coin supérieur gauche.
 
-## Remarques sur les Ajoutes dans la liste déroulante des détails de la page {#add-notes-in-page-detail-drill-down}
+## Ajout de notes dans le menu déroulant Détails de la page {#add-notes-in-page-detail-drill-down}
 
-1. Accédez à la section Pages.
+1. Accédez à la section Pages .
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
-1. Cliquez sur la page pour laquelle vous souhaitez afficher les détails.
+1. Cliquez sur la page pour laquelle vous souhaitez afficher des détails.
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Passez la souris sur le problème de la page auquel vous souhaitez ajouter une note et cliquez sur **Ajouter la note**.
+1. Pointez sur le problème de page auquel vous souhaitez ajouter une note, puis cliquez sur **Ajouter une remarque**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 

@@ -1,29 +1,28 @@
 ---
 unique-page-id: 10097969
-description: Création d’un modèle de Landing page à structure libre - Documents marketing - Documentation du produit
-title: Création d’un modèle de Landing page à structure libre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Création d’un modèle de page d’entrée de forme libre - Documents Marketo - Documentation du produit
+title: Créer un modèle de page d’entrée de forme libre
+exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
+# Créer un modèle de page d’entrée de forme libre {#create-a-free-form-landing-page-template}
 
-# Créer un modèle de Landing page de forme libre {#create-a-free-form-landing-page-template}
-
-Les landings page libres requièrent moins de connaissances techniques que leurs homologues guidés. Pour créer un modèle pour les landings page futurs, procédez comme décrit ci-dessous.
+Les landing pages sans forme nécessitent moins de connaissances techniques que leurs homologues guidés. Pour créer un modèle pour les futures landing pages, procédez comme suit.
 
 1. Accédez à **Design Studio**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Nouveau**, puis sélectionnez **Nouveau modèle de Landing page**.
+1. Cliquez sur **Nouveau**, puis sélectionnez **Nouveau modèle de page d’entrée**.
 
    ![](assets/two.png)
 
-1. Sélectionnez votre dossier, puis attribuez un nom à votre modèle. Le mode de modification par défaut est Free-form. Après avoir nommé votre modèle, cliquez sur **Créer**.
+1. Choisissez votre dossier, puis attribuez un nom à votre modèle. Free-form est le mode de modification par défaut. Après avoir nommé votre modèle, cliquez sur **Créer**.
 
    ![](assets/three.png)
 
@@ -33,22 +32,22 @@ Les landings page libres requièrent moins de connaissances techniques que leurs
 
    >[!NOTE]
    >
-   >La prise en charge du marketing n’est pas configurée pour aider à résoudre les problèmes liés au code HTML personnalisé. Pour obtenir de l’aide sur HTML, veuillez consulter un développeur Web.
+   >La prise en charge de Marketo n’est pas configurée pour vous aider à résoudre les problèmes liés aux HTMLS personnalisés. Pour obtenir de l’aide sur les HTMLS, consultez un développeur web.
 
-1. Une fois les modifications effectuées, cliquez sur **Actions du modèle**, puis sélectionnez **Approuver et fermer**.
+1. Une fois les modifications effectuées, cliquez sur **Actions de modèle**, puis sélectionnez **Approuver et fermer**.
 
    ![](assets/five.png)
 
-   Vous avez maintenant un nouveau modèle de landing page de forme libre !
+   Vous disposez désormais d’un nouveau modèle de landing page de forme libre !
 
    >[!NOTE]
    >
-   >Sélectionnez **Désactiver le suivi Munchkin** si vous souhaitez empêcher les formulaires de se pré-remplir ou si vous ne souhaitez pas suivre le comportement Web sur une page spécifique.\
-   >Sélectionnez **Valider la compatibilité mobile** pour vous assurer que votre code est compatible avec les périphériques mobiles.
+   >Sélectionner **Désactiver le suivi Munchkin** si vous souhaitez empêcher le préremplissage des formulaires, ou ne souhaitez pas effectuer le suivi du comportement web sur une page spécifique.\
+   >Sélectionner **Validation de la compatibilité mobile** pour vous assurer que votre code est compatible avec les appareils mobiles.
 
    >[!MORELIKETHIS]
    >
-   >* [Création d’un Landing page de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >* [Création d’un modèle de Landing page guidé](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
-   >* [Présentation des Landings page libres ou guidés](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
+   >* [Création d’une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [Création d’un modèle de page d’entrée guidée](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [Présentation des pages d’entrée libres ou guidées](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
 

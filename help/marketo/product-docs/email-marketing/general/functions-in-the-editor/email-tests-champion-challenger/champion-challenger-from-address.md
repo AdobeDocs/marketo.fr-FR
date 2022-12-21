@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2359559
-description: Champion/Challenger - Adresse - Docs marketing - Documentation du produit
-title: Champion/Challenger - Adresse de départ
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Champion/Challenger - Adresse d’origine - Documents Marketo - Documentation du produit
+title: Champion/Challenger - Adresse D’Origine
+exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
+# Champion/Challenger : Adresse de l’expéditeur {#champion-challenger-from-address}
 
-# Champion/Challenger : Adresse {#champion-challenger-from-address}
-
-Vous voulez essayer un autre From Address sans problème ? Voici comment.
+Vous souhaitez essayer une adresse de type &quot;De&quot; différente sans problème ? Voici comment.
 
 >[!PREREQUISITES]
 >
->[Ajouter un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Ajout d’un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Dans l’éditeur de test par courrier électronique, sélectionnez **Adresse** dans la liste déroulante **Type de test**.
+1. Dans l’éditeur de test d’email, sélectionnez **Adresse de l’expéditeur** dans le **Type de test** menu déroulant.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >La première adresse de départ est désignée comme le **champion**. Les adresses suivantes sont appelées **Challengers**.
+   >La première adresse de l’expéditeur est désignée comme **Champion**. Les adresses suivantes sont appelées **Challengers**.
 
-1. Entrez **Du nom** (à gauche) et **De l&#39;adresse** (à droite) pour les challengers.
+1. Saisissez le **De nom** (à gauche) et **Adresse de l’expéditeur** (à droite) pour les challengers.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
    >[!TIP]
    >
-   >Si vous souhaitez plusieurs challenger, cliquez sur le signe plus et saisissez un autre nom et un autre courrier électronique.
+   >Si vous souhaitez plusieurs challenger, cliquez sur le signe plus et saisissez un autre nom et un autre email.
 
-1. Faites glisser le curseur pour déterminer le pourcentage de fractionnement entre les personnes qui reçoivent des messages électroniques avec le champion de l&#39;adresse de départ et celles qui reçoivent des messages électroniques avec le challenger de l&#39;adresse de destination.
+1. Faites glisser le curseur pour décider du pourcentage de partage entre les personnes qui reçoivent des emails avec le champion de l’adresse et celles qui reçoivent des emails avec le challenger de l’adresse de l’expéditeur.
 
    ![](assets/image2014-9-15-12-3a53-3a1.png)
 
@@ -43,16 +42,16 @@ Vous voulez essayer un autre From Address sans problème ? Voici comment.
    >
    >**Exemple**
    >
-   >Dans la distribution illustrée ci-dessus, 15 % de l’audience totale spécifiée dans la liste intelligente reçoit l’un des e-mails avec un challenger From Address et 85 % reçoivent le courriel avec le champion From Address. Les courriels pour plusieurs concurrents provenant des adresses partagent les 15 % de parts. Lorsque le test est terminé, vous pouvez déclarer manuellement un gagnant. A partir de ce moment, tous les futurs utilisateurs recevront le contenu le plus performant.
+   >Dans la distribution illustrée ci-dessus, 15 % de l’audience totale spécifiée dans la liste dynamique reçoit l’un des emails avec un challenger From Address et 85 % reçoivent le courriel avec le champion From Address. Les courriers électroniques pour plusieurs concurrents des adresses partagent les 15 % de parts. Lorsque le test est terminé, vous pouvez désigner un gagnant manuellement. À partir de ce moment, toutes les futures personnes recevront le contenu le plus performant.
 
-   Pour obtenir une confiance statistique, veillez à choisir un pourcentage qui inclut suffisamment de personnes pour que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants. [Plus d&#39;informations que jamais sur la fiabilité](https://en.wikipedia.org/wiki/Confidence_interval) statistique.
+   Pour obtenir une fiabilité statistique, veillez à choisir un pourcentage qui inclut suffisamment de personnes pour que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants. [Plus d’informations que jamais sur la fiabilité statistique](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Cliquez sur **Suivant**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
-   Progrès ! Continuons.
+   Progression! Continuons !
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger : Définir des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger : Définition des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

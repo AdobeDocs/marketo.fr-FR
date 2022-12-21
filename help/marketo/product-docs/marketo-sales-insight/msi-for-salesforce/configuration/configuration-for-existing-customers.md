@@ -26,11 +26,11 @@ Configurez la configuration suivante pour commencer à utiliser le nouveau table
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. Cliquez sur **Sales Insight**.
+1. Cliquez sur **Statistiques des ventes**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. Cliquez sur **Afficher** pour renseigner les informations d’identification de l’API REST.
+1. Cliquez sur **Affichage** pour renseigner les informations d’identification de l’API REST.
 
    ![](assets/configuration-for-existing-customers-3.png)
 

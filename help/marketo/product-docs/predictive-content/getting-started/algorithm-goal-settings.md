@@ -1,36 +1,35 @@
 ---
 unique-page-id: 14745750
-description: Paramètres d’objectif d’algorithme - Documents marketing - Documentation du produit
+description: Paramètres d’objectif d’algorithme - Documents Marketo - Documentation du produit
 title: Paramètres de l’objectif d’algorithme
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 30%
 
 ---
 
+# Paramètres de l’objectif d’algorithme {#algorithm-goal-settings}
 
-# Paramètres de l&#39;objectif de l&#39;algorithme {#algorithm-goal-settings}
+Les paramètres d’objectif de l’algorithme vous permettent de définir l’objectif final de l’algorithme d’intelligence artificielle du contenu prédictif pour l’aligner sur les objectifs de votre entreprise.
 
-Les paramètres d’objectif de l’algorithme vous permettent de définir l’objectif final de l’algorithme d’intelligence artificielle de contenu prédictif pour l’aligner sur vos objectifs commerciaux.
-
-1. Dans Contenu prédictif, cliquez sur le nom de votre connexion et sélectionnez **Paramètres de contenu**.
+1. Dans Contenu prédictif, cliquez sur le nom de la connexion et sélectionnez **Paramètres Contenu**.
 
    ![](assets/1.png)
 
-1. Sous Paramètres de contenu, sélectionnez **Algorithme**.
+1. Sous Paramètres du contenu, sélectionnez **Algorithme**.
 
    ![](assets/two-1.png)
 
-1. Sélectionnez un objectif pour chaque source de contenu prédictif pour l’algorithme IA afin d’optimiser les performances de votre contenu.
+1. Sélectionnez un objectif pour chaque source de contenu prédictif pour l’algorithme d’IA afin d’optimiser les performances de votre contenu.
 
    ![](assets/three-new.png)
 
-   | **Clics** | Affichez le contenu le plus susceptible de faire cliquer sur celui-ci |
+   | **Clics** | Affichez le contenu le plus susceptible de donner à la personne qui le consulte l’envie de cliquer dessus |
    |---|---|
-   | **Conversions** | Afficher le contenu de manière à ce que la personne qui consulte le contenu envoie un formulaire |
+   | **Conversions** | Affichez le contenu le plus susceptible de donner à la personne qui le consulte l’envie de soumettre un formulaire |
 
-1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Cliquez sur **Enregistrer** une fois terminé.
 
    ![](assets/four.png)

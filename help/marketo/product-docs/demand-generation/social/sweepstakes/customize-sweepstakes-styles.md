@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359807
-description: Personnaliser les styles de tirage - Documents marketing - Documentation du produit
-title: Personnaliser les styles de tirage
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Personnalisation des styles de tirage - Documents Marketo - Documentation du produit
+title: Personnalisation des styles de tirage
+exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Personnalisation des styles de tirage {#customize-sweepstakes-styles}
 
-# Personnaliser les styles de tirage {#customize-sweepstakes-styles}
-
-Lorsque vous [créez un tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez personnaliser son aspect sur votre landing page.
+Lorsque vous [création d’un tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez personnaliser son aspect sur votre page d’entrée.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
 1. Accédez à **Activités marketing**.
 
@@ -31,7 +30,7 @@ Lorsque vous [créez un tirage](/help/marketo/product-docs/demand-generation/soc
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
-1. Modifiez le texte de votre bouton d’inscription et du lien de progression.
+1. Editez le texte du bouton d&#39;inscription et du lien de progression.
 
    ![](assets/image2014-9-25-17-3a52-3a22.png)
 
@@ -39,24 +38,24 @@ Lorsque vous [créez un tirage](/help/marketo/product-docs/demand-generation/soc
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Exemple de CSS pour **Bouton Entrer** :
+   Exemple de CSS pour **Bouton Entrée**:
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>`
 
-   Exemple d’image pour **Bouton d’entrée** :
+   Exemple d’image pour **Bouton Entrée**:
    `<pre>background:url(https://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >Si vous utilisez une image avec du texte dessus, n’oubliez pas de supprimer le texte du champ **Bouton d’entrée** sous Texte ci-dessus.
+   >Si vous utilisez une image avec du texte dessus, pensez à supprimer le texte de la variable **Bouton Entrée** sous Texte ci-dessus.
 
-1. A chaque modification, le résultat s’affiche dans la prévisualisation Vue et modification.
+1. A chaque modification, le résultat s’affiche dans l’aperçu Afficher et modifier .
 
    ![](assets/image2014-9-25-17-3a55-3a3.png)
 
    >[!NOTE]
    >
-   >Testez votre bouton dans plusieurs navigateurs différents, y compris dans les versions plus anciennes.
+   >Testez votre bouton dans plusieurs navigateurs différents, dont des versions plus anciennes.
 
    >[!MORELIKETHIS]
    >
-   >L&#39;étape suivante consiste à ajouter des [courriels d&#39;inscription et d&#39;exécution à vos tirages](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >L’étape suivante consiste à ajouter [e-mails d’inscription et d’exécution à votre tirage](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).

@@ -1,80 +1,79 @@
 ---
 unique-page-id: 10912178
-description: Configuration du bouton Ignorer et approbation du message - Documents marketing - Documentation du produit
+description: Configuration du bouton Ignorer et approbation du message - Documents Marketo - Documentation du produit
 title: Configuration du bouton Ignorer et approbation du message
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
 
 ---
 
-
 # Configuration du bouton Ignorer et approbation du message {#set-up-the-dismiss-button-and-approve-the-message}
 
-## Configurer les propriétés du bouton Ignorer {#configure-dismiss-button-properties}
+## Configuration des propriétés du bouton Ignorer  {#configure-dismiss-button-properties}
 
-Le bouton Ignorer comporte de nombreuses options pour vous permettre de le configurer comme vous le souhaitez.
+Le bouton Ignorer propose de nombreuses options pour vous permettre de le configurer comme vous le souhaitez.
 
-1. Dans l’éditeur, cliquez sur le bouton Ignorer.
+1. Dans l’éditeur, cliquez sur le bouton Ignorer .
 
    ![](assets/image2016-5-9-10-3a23-3a37.png)
 
-1. Si vous souhaitez modifier la couleur du bouton, cliquez sur le carré de sélection de couleur. Sélectionnez une couleur en cliquant dessus ou en entrant les valeurs hexadécimales ou RVB dans le sélecteur de couleurs. Noir est la valeur par défaut.
+1. Si vous souhaitez modifier la couleur du bouton, cliquez sur le carré de sélection des couleurs. Sélectionnez une couleur en cliquant dessus ou en entrant les numéros hexadécimaux ou RGB dans le sélecteur de couleurs. Le noir est la valeur par défaut.
 
    ![](assets/image2016-5-9-10-3a33-3a17.png)
 
-1. Sélectionnez une conception de bouton dans la liste déroulante. Les boutons arrondis comportent une couleur complète et un dégradé.
+1. Sélectionnez une conception de bouton dans la liste déroulante. Les boutons arrondis sont dotés d’une couleur complète et d’un dégradé.
 
    ![](assets/image2016-5-9-10-3a35-3a46.png)
 
    >[!CAUTION]
    >
-   >La couleur du bouton peut s’afficher sous la forme d’un X blanc sur un arrière-plan blanc lorsque vous sélectionnez une autre conception dans la liste déroulante. Si tel est le cas, il vous suffit de sélectionner le noir ou une autre couleur dans le carré de sélection des couleurs pour rendre le X blanc visible.
+   >La couleur du bouton peut s’afficher sous la forme d’un X blanc sur un arrière-plan blanc lorsque vous sélectionnez une autre conception dans la liste déroulante. Si tel est le cas, sélectionnez simplement le noir ou une autre couleur dans le carré de sélection des couleurs pour rendre le X blanc visible.
 
-1. Vous pouvez cliquer sur le bouton d’angle gauche pour déplacer le bouton d’arrêt vers la gauche (le côté droit est le bouton par défaut).
+1. Vous pouvez cliquer sur le bouton du coin gauche pour déplacer le bouton Ignorer à gauche (la valeur par défaut est le côté droit).
 
    ![](assets/image2016-5-9-10-3a39-3a5.png)
 
-1. Cliquez sur la liste déroulante de chaque plate-forme et sélectionnez une action de clic pour le bouton Ignorer.
+1. Cliquez sur la liste déroulante de chaque plateforme et sélectionnez une action d’appui pour le bouton Ignorer .
 
    ![](assets/image2016-5-9-10-3a43-3a54.png)
 
    >[!NOTE]
    >
-   >Vous devez activer l’action d’appui sur le bouton Ignorer, de sorte qu’il n’y ait aucune case à cocher pour l’activer. L’option Message d’abandon est le choix par défaut (et évident).
+   >Vous devez attribuer une action d’appui au bouton Ignorer, de sorte qu’il n’y ait aucune case à cocher pour l’activer. L’option Ignorer le message est la option par défaut (et évidente).
 
 ## Terminer {#wrap-it-up}
 
-Toutes vos sélections pour les graphiques, le texte et les boutons ont été enregistrées automatiquement. Maintenant, vous êtes prêt à terminer le travail.
+Toutes vos sélections pour les graphiques, le texte et les boutons ont été automatiquement enregistrées. Maintenant, vous êtes prêt à terminer le travail.
 
-1. Pour prévisualisation de votre message in-app, cliquez sur la liste déroulante **Actions de message** et sélectionnez **Prévisualisation**.
+1. Pour prévisualiser votre message in-app, cliquez sur le **Actions de message** et sélectionnez **Aperçu**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
-1. Prévisualisation du message in-app sur smartphone ou tablette pour vérifier qu’il s’affiche correctement.
+1. Prévisualisez le message in-app sur un téléphone ou une tablette pour vous assurer qu’il s’affiche correctement.
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. Si le message in-app vous convient, cliquez sur **Approuver et fermer**.
+1. Si le message in-app vous satisfait, cliquez sur **Approuver et fermer**.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également sélectionner **Approuver et fermer** directement dans la liste déroulante Actions de message (voir étape 1), mais pourquoi ne pas prévisualisation le message en premier, juste pour être sûr ?
+   >Vous pouvez également sélectionner **Approuver et fermer** directement à partir de la liste déroulante Actions de message (voir l’étape 1), mais pourquoi ne pas prévisualiser d’abord le message, simplement pour être en sécurité ?
 
-1. Pour fermer l’éditeur sans l’approuver, il vous suffit de fermer l’onglet. Il est enregistré automatiquement, de sorte que vous puissiez le retourner et l’approuver ultérieurement.
+1. Pour fermer l’éditeur sans validation, il vous suffit de fermer l’onglet . Il est enregistré automatiquement, vous pouvez le renvoyer et l’approuver ultérieurement.
 
    ![](assets/image2016-5-9-11-3a9-3a46.png)
 
-Il y a tant de choix, mais maintenant vous avez un message in-app magnifique, prêt à partir !
+Tant de choix, mais maintenant vous avez un message in-app magnifique, prêt à partir !
 
-Il est maintenant temps d&#39;[envoyer votre message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Il est maintenant temps de [envoyer votre message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >
->* [Présentation des messages in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Choisir une mise en page pour votre message intégré](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Présentation des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Choisir une mise en page pour votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 

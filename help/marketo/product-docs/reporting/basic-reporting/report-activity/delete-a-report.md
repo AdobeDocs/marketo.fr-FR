@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2360030
-description: Supprimer un rapport - Documents marketing - Documentation du produit
+description: Suppression d’un rapport - Documents Marketo - Documentation du produit
 title: Suppression d’un rapport
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
+# Suppression d’un rapport {#delete-a-report}
 
-# Supprimer un rapport {#delete-a-report}
+Une fois que vous commencez [création de rapports](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), vous pouvez rapidement en obtenir beaucoup. N’oubliez pas de supprimer les rapports dont vous n’avez plus besoin.
 
-Une fois que vous avez début à [créer des rapports](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), vous pouvez rapidement en obtenir un grand nombre. N&#39;oubliez pas de supprimer les rapports dont vous n&#39;avez plus besoin.
-
-1. Cliquez avec le bouton droit sur le rapport inutile dans l&#39;arborescence et sélectionnez **Supprimer le rapport**.
+1. Cliquez avec le bouton droit sur le rapport non nécessaire dans l’arborescence et sélectionnez **Supprimer le rapport**.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 

@@ -34,11 +34,11 @@ Marketo va désormais exécuter des contrôles SPF et DKIM automatisés hebdomad
 
 ## Modification du comportement du modèle d’e-mail {#email-template-behavior-change}
 
-À compter de cette version, les commentaires HTML valides sont désormais autorisés et non supprimés lors de la création de nouveaux emails.
+À compter de cette version, les commentaires de HTML valides sont désormais autorisés et non supprimés lors de la création de nouveaux emails.
 
 ## RTP : éditeur de segments par glisser-déposer {#rtp-drag-and-drop-segment-editor}
 
-RTP : [Déposer l’éditeur de segment](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+RTP : [Éditeur de segment par glisser-déposer](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Faites glisser vos critères et déposez-les dans le créateur de segments, définissez la valeur, et vous êtes bien en train de créer un segment en temps réel.
 

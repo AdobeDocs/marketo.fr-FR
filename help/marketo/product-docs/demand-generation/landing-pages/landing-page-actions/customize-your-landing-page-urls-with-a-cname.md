@@ -1,39 +1,38 @@
 ---
 unique-page-id: 2359746
-description: Personnaliser vos URL de Landing page avec un CNAME - Docs marketing - Documentation du produit
-title: Personnaliser vos URL de Landing page avec un CNAME
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Personnalisation des URL de votre page d’entrée avec un CNAME - Documents Marketo - Documentation du produit
+title: Personnalisation des URL de votre page d’entrée avec un CNAME
+exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
 
 ---
 
+# Personnalisation des URL de votre page d’entrée avec un CNAME {#customize-your-landing-page-urls-with-a-cname}
 
-# Personnaliser vos URL de Landing page avec un CNAME {#customize-your-landing-page-urls-with-a-cname}
-
-Même si Marketo héberge vos landings page, l’URL peut être totalement personnalisée. A quoi ressemble un CNAME :
+Même si Marketo héberge vos landing pages, l&#39;URL peut être entièrement personnalisée. À quoi cela ressemble sans CNAME :
 
 `https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
-Il devrait se présenter ainsi :
+À quoi il doit ressembler :
 
 `https://go.YourCompany.com/UnsubscribePage.html`
 
 ## Choisir un CNAME {#choose-a-cname}
 
-Choisissez un mot à insérer au début de l’URL de vos landings page. Ce n&#39;est qu&#39;un mot et devrait être relativement court. Exemples :
+Sélectionnez un mot pour accéder au début de l’URL de vos landing pages. Ce n&#39;est qu&#39;un mot et devrait être relativement court. Exemples:
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html
 * pages.YourCompany.com/NameOfPage.html
 
-Le seul mot (plus YourCompany.com) est appelé CNAME. Vous en aurez besoin plus tard, alors prenez note.
+Le seul mot (plus YourCompany.com) est appelé CNAME. Vous en aurez besoin plus tard alors prenez note.
 
 ## Rechercher votre chaîne de compte {#find-your-account-string}
 
-1. Accédez à la zone **Admin** et cliquez sur **Landings page**.
+1. Accédez au **Administration** et cliquez sur **Pages d’entrée**.
 
    ![](assets/image2014-9-18-16-3a2-3a45.png)
 
@@ -41,34 +40,34 @@ Le seul mot (plus YourCompany.com) est appelé CNAME. Vous en aurez besoin plus 
    >
    >**Autorisations d’administrateur requises**
 
-1. Sous l&#39;onglet **Pages d&#39;entrée** **Pages**, copiez **Compte** **Chaîne** dans la section **Paramètres**.
+1. Sous , **Landing** **Pages** , copiez la variable **Compte** **Chaîne** de la **Paramètres** .
 
    ![](assets/image2014-9-18-16-3a44-3a12.png)
 
-1. Vous en aurez également besoin plus tard, alors prenez note.
+1. Vous en aurez également besoin plus tard, alors prenez-en note.
 
 ## Envoyer la demande au service informatique {#send-request-to-it}
 
-Demandez à votre personnel informatique de configurer le CNAME suivant : (Remplacez le mot [CNAME] et [CHAÎNE DE COMPTE] par le texte de l’étape précédente.)
+Demandez à votre personnel informatique de configurer le CNAME suivant : (Remplacer le mot [CNAME] et [CHAÎNE DE COMPTE] avec le texte de l’étape précédente.)
 
-[CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
+[CNAME].YourCompany.com > [CHAÎNE DE COMPTE].mktoweb.com
 
-## Configuration CNAME complète {#complete-cname-setup}
+## Configuration CNAME terminée {#complete-cname-setup}
 
-1. Une fois que votre service informatique a créé le CNAME, accédez à **Admin** et cliquez sur **Landings page**.
+1. Une fois que le service informatique a créé le CNAME, accédez à **Administration** et cliquez sur **Pages d’entrée**.
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
-1. Sous la section **Paramètres**, cliquez sur **Modifier**.
+1. Sous , **Paramètres** , cliquez sur **Modifier**.
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. Entrez votre CNAME dans **nom de domaine pour les Landings page**, entrez votre **page de secours**, entrez votre **page d&#39;accueil** et cliquez sur **Enregistrer**.
+1. Saisissez votre CNAME dans **Nom de domaine pour les pages d’entrée**, saisissez votre **Page de secours**, saisissez votre **Page d’accueil** et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
 >[!NOTE]
 >
->Votre page de secours sera la page vers laquelle les pistes seront redirigées si votre Landing page Marketo n&#39;est pas disponible.
+>Votre page de secours sera alors redirigée vers les pistes de page si votre page d’entrée Marketo n’est pas disponible.
 
-Beau boulot ! Vos landings page sont désormais marqués avec votre domaine de société.
+Beau boulot ! Vos landing pages sont maintenant marquées avec le domaine de votre entreprise.

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 37356575
-description: Options d'envoi en masse - Documents marketing - Documentation du produit
-title: Options d'envoi en masse
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Options d’envoi en bloc - Documents Marketo - Documentation du produit
+title: Options d’envoi en bloc
+exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Options d’envoi en bloc {#bulk-sending-options}
 
-# Options d&#39;envoi en bloc {#bulk-sending-options}
+L’envoi en masse d’emails est un excellent moyen d’accélérer l’engagement de vos prospects. Sales Connect offre deux manières d’envoyer des emails en masse : **Courriers électroniques de groupe** et **Sélection et envoi**. Les emails de groupe sont un excellent moyen d’envoyer rapidement des centaines d’emails à un groupe ciblé. L’utilisation de l’option Sélectionner et envoyer implique des limites d’e-mail plus faibles, mais offre davantage d’opportunités de personnalisation à l’utilisateur.
 
-L&#39;envoi de courriers électroniques en bloc est un excellent moyen d&#39;accélérer votre engagement prospect. Sales Connect offres deux façons d&#39;envoyer des e-mails en masse : **Regrouper les e-mails** et **Sélectionner et envoyer**. Les courriers électroniques de groupe constituent un excellent moyen d’envoyer rapidement des centaines de courriers électroniques à un groupe ciblé. L’utilisation de Select et Send implique des limites de courrier électronique plus basses, mais elle offre davantage d’opportunités de personnalisation pour l’utilisateur.
-
-**E-mail de groupe ou sélection et envoi**
+**Courriel de groupe et sélection et envoi**
 
 <table> 
  <colgroup> 
@@ -28,25 +27,25 @@ L&#39;envoi de courriers électroniques en bloc est un excellent moyen d&#39;acc
  </colgroup> 
  <tbody> 
   <tr> 
-   <th><p><span></span><span> SendType</span> </p></th> 
-   <th><p><span>Nombre maximal de  </span><span></span><span>courriers électroniques</span> </p></th> 
-   <th><p><span>Lancé  </span><span>par</span></p></th> 
-   <th><p><span>Courriels de  </span><span>modification en masse</span> </p></th> 
-   <th><p><span></span><span> Modifier chaque courriel  </span><span>de manière unique</span> </p></th> 
-   <th><p><span>Prise en charge des modèles et des champs  </span><span>dynamiques</span> </p></th> 
+   <th><p><span>Envoyer</span><span> Type</span> </p></th> 
+   <th><p><span>Nombre max. de </span><span>E</span><span>mails</span> </p></th> 
+   <th><p><span>Initié </span><span>Envoyer par</span></p></th> 
+   <th><p><span>Bulk </span><span>Modifier les emails</span> </p></th> 
+   <th><p><span>Modifier</span><span> Chaque adresse électronique </span><span>Unique</span> </p></th> 
+   <th><p><span>Modèle &amp; </span><span>Prise en charge dynamique des champs</span> </p></th> 
   </tr> 
   <tr> 
    <td><p><span>Courriel du groupe</span> </p></td> 
-   <td><p><span>1 000</span> </p></td> 
-   <td><p><span>Sélectionnez un groupe et </span><span> cliquez sur le bouton </span><span> </span><span>"Actions du groupe" ou tapez le nom du groupe dans le champ A.  </span> </p></td> 
+   <td><p><span>1,000</span> </p></td> 
+   <td><p><span>Sélectionnez un groupe et cliquez sur</span><span> la valeur </span><span>Bouton "Actions de groupe"</span><span>ou saisissez le nom du groupe dans le champ À . </span> </p></td> 
    <td><p><span>Oui</span> </p></td> 
    <td><p><span>Non</span> </p></td> 
    <td><p><span>Oui</span> </p></td> 
   </tr> 
   <tr> 
-   <td><p><span>Sélectionner  </span><span>et  </span><span>envoyer</span> </p></td> 
+   <td><p><span>Sélectionner </span><span>et </span><span>Envoyer</span> </p></td> 
    <td><p><span>200</span> </p></td> 
-   <td><p><span>Sélectionnez des personnes dans la grille et cliquez sur le bouton "Envoyer la sélection par courriel" dans la barre</span><span> d'actions, </span><span>ou entrez des destinataires dans la  </span><span>barre latérale</span><span> des messages électroniques en masse.</span></p></td> 
+   <td><p><span>Sélectionnez les personnes dans la grille et cliquez sur le bouton "E-mail sélectionné" dans la barre d’actions.</span><span>, o</span><span>ou saisir des destinataires dans l’e-mail en bloc ; </span><span>barre latérale</span><span>.</span></p></td> 
    <td><p><span>Oui</span> </p></td> 
    <td><p><span>Oui</span> </p></td> 
    <td><p><span>Oui</span> </p></td> 
@@ -54,16 +53,16 @@ L&#39;envoi de courriers électroniques en bloc est un excellent moyen d&#39;acc
  </tbody> 
 </table>
 
-**Utilisation de la messagerie de groupe**
+**Utilisation de l’e-mail de groupe**
 
-Vous pouvez prévisualisation chaque courrier électronique dans la liste pour vérifier si les champs dynamiques sont correctement renseignés et modifier en bloc le modèle à envoyer. Vous ne pouvez toutefois pas apporter de modifications uniques par utilisateur.
+Vous pouvez prévisualiser chaque email de la liste pour vérifier si les champs dynamiques sont correctement renseignés et modifier en masse le modèle à envoyer. Vous ne pouvez toutefois pas apporter de modifications uniques par utilisateur.
 
-**Utilisation de Select et Send**
+**Utilisation de la sélection et de l’envoi**
 
-Par défaut, vous allez modifier tous les destinataires. Mais vous pouvez également sélectionner chaque courriel pour effectuer des modifications personnalisées. Cela peut s’avérer utile pour ajouter une ou plusieurs lignes uniques de personnalisation aux destinataires avec lesquels vous souhaitez adopter une approche plus personnalisée.
+Par défaut, vous effectuez l&#39;édition pour tous les destinataires. Vous pouvez également sélectionner chaque adresse électronique à modifier. Cela peut s’avérer utile pour ajouter une ou plusieurs lignes de personnalisation uniques aux destinataires avec lesquels vous souhaitez adopter une approche plus personnalisée.
 
 >[!MORELIKETHIS]
 >
->* [Composition de courriels en vrac avec sélection et envoi](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
->* [Envoi de courriers électroniques par courriel de groupe](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Composition d’emails en bloc avec sélection et envoi](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Envoi d’emails par courrier électronique de groupe](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 

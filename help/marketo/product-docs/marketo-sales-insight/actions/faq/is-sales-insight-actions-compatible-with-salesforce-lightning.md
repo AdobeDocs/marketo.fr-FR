@@ -3,7 +3,8 @@ description: Les actions Sales Insight sont-elles compatibles avec Salesforce Li
 title: Les actions Sales Insight sont-elles compatibles avec Salesforce Lightning ?
 hide: true
 hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
+source-git-commit: cccf42eeeda9e06f7c9f8b900a30c4efb2d33f6e
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%

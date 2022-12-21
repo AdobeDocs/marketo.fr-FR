@@ -1,62 +1,61 @@
 ---
 unique-page-id: 14746188
-description: Synchronisation des désabonnements avec Salesforce - Marketo Docs - Documentation du produit
+description: Synchronisation des désabonnements avec Salesforce - Documents Marketo - Documentation du produit
 title: Synchronisation des désabonnements avec Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '438'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # Synchronisation des désabonnements avec Salesforce {#syncing-unsubscribes-with-salesforce}
 
-## Conditions requises pour le désabonnement de la synchronisation avec Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
+## Conditions requises pour le désabonnement à la synchronisation avec Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
-* Désabonner la synchronisation doit être activée (pour la synchronisation nocturne)
-* opt-out champ doit être installé dans Salesforce
-* Les enregistrements de personne dans Sales Connect doivent avoir un identifiant Salesforce.
+* La synchronisation du désabonnement doit être activée (pour la synchronisation nocturne).
+* Le champ Exclusion doit être installé dans Salesforce
+* Les enregistrements de personne dans Sales Connect doivent avoir un identifiant Salesforce
 
-**Désabonnements Push**
+**Désabonnements push**
 
-Lorsqu&#39;un désabonnement est collecté dans Sales Connect, nous l&#39;envoyons à Salesforce en temps réel et mettons à jour l&#39;un ou l&#39;autre des champs Opt-out que vous avez sélectionnés pour la synchronisation. Si vous avez désactivé la synchronisation Salesforce, nous pousserons toujours la désinscription à l&#39;opt-out de courriel.
+Lorsqu’un désabonnement est collecté dans Sales Connect, nous l’envoyons à Salesforce en temps réel et mettons à jour l’un des champs d’exclusion que vous avez sélectionnés pour la synchronisation. Si vous avez désactivé la synchronisation Salesforce, nous continuerons à transmettre le désabonnement au désabonnement par courrier électronique.
 
 **Désabonner la synchronisation**
 
-Lorsque vous avez activé la synchronisation de désabonnement (étape 3 ci-dessous), vous activez la synchronisation de nuit. La synchronisation a lieu une fois par jour vers 20h00 PST. Il synchronise bidirectionnellement tous les désabonnements dans MSE/ToutApp avec le champ Opt-out de Salesforce.
+Lorsque vous avez activé la synchronisation de désabonnement (Étape 3 ci-dessous), vous activez la synchronisation de nuit. La synchronisation a lieu une fois par jour vers 20 h (heure du Pacifique). Elle synchronise bidirectionnellement tous les désabonnements dans MSE/ToutApp avec le champ Opt Out dans Salesforce.
 
-## Configurer la synchronisation de désabonnement à Salesforce {#configure-unsubscribe-sync-to-salesforce}
+## Configurer la synchronisation du désabonnement à Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
-Les utilisateurs peuvent décider s&#39;ils souhaitent synchroniser leurs désabonnements avec le champ de Opt-out de courriel standard avec lequel Marketo peut également synchroniser, ou s&#39;ils peuvent synchroniser avec le champ de Opt-out ventes de Marketo afin que les désabonnements des ventes et les désabonnements marketing puissent être différenciés.
+Les utilisateurs peuvent décider s’ils souhaitent synchroniser leurs désabonnements avec le champ Email Opt Out standard avec lequel Marketo peut également se synchroniser, ou s’ils peuvent se synchroniser avec le champ Opposition de vente de Marketo afin que les désabonnements des ventes et les désabonnements marketing puissent être différenciés.
 
-1. Accédez à l&#39;[application Web](https://toutapp.com/login), cliquez sur l&#39;icône d&#39;engrenage et sélectionnez **Paramètres**.
+1. Accédez au [application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/one-1.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Désabonnement**.
+1. Sous Paramètres d’administration, sélectionnez **Désabonne**.
 
    ![](assets/two-2.png)
 
-1. Cliquez sur **Synchronisation avec Salesforce**, puis activez la synchronisation de nuit.
+1. Cliquez sur **Synchronisation avec Salesforce**, puis activez la synchronisation nocturne.
 
    ![](assets/three-2.png)
 
-1. Sélectionnez le champ à synchroniser.
+1. Sélectionnez le champ auquel vous souhaitez effectuer la synchronisation.
 
    ![](assets/4.png)
 
    | Champ | Description |
    |---|---|
-   | **Champ Synchroniser avec Salesforce Opt-out** | Sélectionné par défaut, met uniquement à jour le champ Opt-out Salesforce. |
-   | **Champ Synchroniser avec le Opt-out des ventes du marketing** | Si vous souhaitez séparer les ventes et les désabonnements marketing, sélectionnez cette option pour mettre à jour le champ [Opt-out ventes marketing.](#msoo) |
+   | **Synchroniser avec le champ de désabonnement dans Salesforce** | Sélectionné par défaut, met uniquement à jour le champ Option d’Opt-out Salesforce. |
+   | **Synchroniser avec le champ Désabonnement de Marketo Sales** | Si vous souhaitez séparer les ventes et les désabonnements marketing, sélectionnez cette option pour mettre à jour d’autres [Champ d’exclusion des ventes Marketo.](#msoo) |
 
-## Installation du champ Opt-out dans la mise en page {#installing-the-opt-out-field-in-the-page-layout}
+## Installation du champ Exclusion dans la mise en page {#installing-the-opt-out-field-in-the-page-layout}
 
-**Opt-out par courriel**
+**Désabonnement par e-mail**
 
-Le Opt-out de courriel est un champ standard de Salesforce qui peut être installé à partir de Salesforce. Vous devez être un administrateur Salesforce pour l’installer.
+Opt-out des emails est un champ standard de Salesforce qui peut être installé à partir de Salesforce. Vous devez être un administrateur Salesforce pour l’installer.
 
 1. Accédez à [Salesforce.com](https://salesforce.com) et connectez-vous.
 
@@ -66,23 +65,23 @@ Le Opt-out de courriel est un champ standard de Salesforce qui peut être instal
 
    ![](assets/six-1.png)
 
-1. Dans la zone de recherche rapide, recherchez Contact ou Piste. Dans ce scénario, nous installons le champ dans la mise en page de la page Contact, mais vous voudrez installer pour les deux enregistrements de personne.
+1. Dans la zone de recherche rapide, recherchez Contact ou Lead. Dans ce scénario, nous installons le champ dans la mise en page de la page Contact, mais vous souhaiterez l’installer pour les deux enregistrements de personne.
 
    ![](assets/seven-1.png)
 
-1. Sélectionnez **Mise en page**.
+1. Sélectionner **Disposition de page**.
 
    ![](assets/eight-1.png)
 
-1. Sélectionnez **Modifier** en regard de la mise en page à laquelle vous souhaitez ajouter le champ.
+1. Sélectionner **Modifier** en regard de la mise en page à laquelle vous souhaitez ajouter le champ.
 
    ![](assets/nine.png)
 
-1. Sélectionnez **Champs**.
+1. Sélectionner **Champs**.
 
    ![](assets/ten.png)
 
-1. Faites glisser et déposez Opt-out e-mail dans la mise en page.
+1. Faites glisser et déposez Opt-out Email dans la mise en page.
 
    ![](assets/11.png)
 
@@ -90,8 +89,8 @@ Le Opt-out de courriel est un champ standard de Salesforce qui peut être instal
 
    ![](assets/twelve.png)
 
-## Opt-out des ventes du marketing {#marketo-sales-opt-out}
+## Désabonnement Marketo Sales {#marketo-sales-opt-out}
 
-Le champ  Ventes du marketing est un champ personnalisé qui est disponible pour les utilisateurs qui ont installé les personnalisations de Marketing to Sales Connect.
+Le champ Opposition de vente Marketo est un champ personnalisé qui est disponible pour les utilisateurs qui ont installé les personnalisations de Marketo Sales Connect.
 
-Une fois que vous avez installé avec succès les Personnalisations de Marketing Connect Sales dans Salesforce, vous verrez le champ Marketo Sales Opt-out disponible.
+Une fois que vous avez installé avec succès les personnalisations de Marketo Sales Connect dans Salesforce, le champ Marketo Sales Opt Out (Exclusion des ventes) s’affiche.

@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359646
-description: Configurer le profilage progressif de formulaire - Documents marketing - Documentation du produit
+description: Configurer le profilage progressif de formulaire - Documents Marketo - Documentation du produit
 title: Configurer le profilage progressif du formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
+# Configurer le profilage progressif du formulaire {#configure-form-progressive-profiling}
 
-# Configurer le profilage progressif de formulaire {#configure-form-progressive-profiling}
-
-Les formes courtes sont bonnes ! Lorsque quelqu’un revient à un formulaire, vous pouvez présenter de nouveaux champs et remplir progressivement le profil du visiteur. Voici comment.
+Les formulaires courts sont bons ! Lorsqu’une personne revient à un formulaire, vous pouvez présenter de nouveaux champs et remplir progressivement le profil du visiteur. Voici comment.
 
 >[!NOTE]
 >
->Pour que cette fonction fonctionne correctement, assurez-vous que le préremplissage du formulaire est activé pour les champs visibles et [désactivé](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) pour les champs masqués.
+>Pour que cette fonction fonctionne correctement, assurez-vous que l’option Préremplir le formulaire est activée pour les champs visibles, et [disabled](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) pour les champs masqués.
 
 1. Accédez à **Activités marketing**.
 
@@ -27,45 +26,45 @@ Les formes courtes sont bonnes ! Lorsque quelqu’un revient à un formulaire, v
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Sous **Paramètres du formulaire**, cliquez sur **Paramètres**.
+1. Sous **Paramètres de formulaire**, cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Définissez **Profilage progressif** sur **Activé**.
+1. Définir **Profilage progressif** to **Activé**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. D&#39;accord, maintenant on le configure. Accédez à **Détails du champ**.
+1. Ok, maintenant, on le configure. Accédez à **Détails du champ**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
-1. Faites glisser et déposez tous les champs qui font partie du jeu de profils progressif.
+1. Faites glisser et déposez tous les champs qui font partie du jeu de profils progressifs.
 
    ![](assets/image2014-9-15-12-3a32-3a3.png)
 
-1. Une fois tous les champs déplacés, il doit ressembler à ceci :
+1. Lorsque vous avez terminé de déplacer tous les champs, cela doit ressembler à ceci :
 
    ![](assets/image2014-9-15-12-3a32-3a12.png)
 
    >[!NOTE]
    >
-   >Les champs situés en dehors de la zone **Profilage progressif** s’affichent toujours dans le formulaire, même s’ils sont remplis.
+   >Les champs en dehors de la fonction **Profilage progressif** s’affiche toujours dans le formulaire, même s’ils sont remplis.
 
-1. Sélectionnez la zone **Profilage progressif**.
+1. Sélectionnez la **Profilage progressif** de la boîte.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
    >[!CAUTION]
    >
-   >Soyez prudent lorsque vous utilisez les champs requis dans le profilage progressif. Ces champs peuvent toujours rester vides si le visiteur entre une nouvelle adresse électronique (qui créerait une nouvelle personne) après avoir envoyé des données pour les autres champs, car elles seraient supprimées sur le dernier formulaire.
+   >Soyez prudent lorsque vous utilisez les champs requis dans le Profilage progressif. Ces champs peuvent toujours être laissés vides si le visiteur saisit une nouvelle adresse électronique (qui créerait une nouvelle personne) après avoir précédemment soumis des données pour les autres champs, car ils seront supprimés dans le dernier formulaire.
 
-1. Désormais, choisissez le nombre de champs vierges que vous souhaitez afficher à tout moment dans la zone **Profilement progressif**.
+1. Maintenant, choisissez combien de champs vierges vous souhaitez que les utilisateurs voient dans le **Profilage progressif** à tout moment.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
    >[!NOTE]
    >
-   >Si vous sélectionnez **Nombre** **de** **Vierge** **Champs** comme 1, le visiteur voit ce qui suit pour la première fois :
+   >Si vous choisissez **Nombre** **de** **Vide** **Champs** comme 1, le visiteur voit les éléments suivants la première fois qu’il voit ce formulaire :
    >
    >* Prénom (vide)
    >* Nom (vide)
@@ -73,7 +72,7 @@ Les formes courtes sont bonnes ! Lorsque quelqu’un revient à un formulaire, v
    >* Numéro de téléphone (vide)
 
    >
-   >En supposant qu’ils remplissent chaque champ, la deuxième fois qu’ils visitent, ils verront :
+   >En supposant qu’ils remplissent chaque champ, la deuxième fois qu’ils le visitent, ils verront :
    >
    >* Prénom (prérempli)
    >* Nom (prérempli)
@@ -81,7 +80,7 @@ Les formes courtes sont bonnes ! Lorsque quelqu’un revient à un formulaire, v
    >* Numéro de téléphone mobile (vide)
 
    >
-   >En supposant qu&#39;ils remplissent le numéro de téléphone mobile, la troisième fois qu&#39;ils visitent, ils verront :
+   >En supposant qu’ils renseignent le numéro de téléphone mobile, la troisième fois qu’ils visitent, ils verront :
    >
    >* Prénom (prérempli)
    >* Nom (prérempli)
@@ -97,6 +96,6 @@ Les formes courtes sont bonnes ! Lorsque quelqu’un revient à un formulaire, v
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
-Beau boulot ! Le travail que vous venez de faire va payer.
+Beau boulot ! Le travail que tu viens de faire va payer.
 
-Testez cette fonction et veillez à la tester. Elle est avancée, mais vous pouvez rendre vos formulaires très dynamiques de cette façon.
+Testez cette fonctionnalité et veillez à la tester. Il est avancé, mais vous pouvez rendre vos formulaires très dynamiques de cette façon.

@@ -1,68 +1,67 @@
 ---
 unique-page-id: 10099408
-description: Présentation des statistiques par courriel - Documentation marketing - Documentation du produit
-title: Présentation des informations sur les courriels
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Présentation des statistiques par e-mail - Documentation Marketo - Documentation du produit
+title: Présentation des statistiques sur les emails
+exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Présentation des statistiques sur les emails {#email-insights-overview}
 
-# Présentation des statistiques par courriel {#email-insights-overview}
+Email Insights fournit des informations puissantes à partir de données historiques pour les spécialistes du marketing par e-mail. Il se compose de deux sections distinctes mais associées : Analytics et Envois.
 
-Email Insights fournit de puissantes informations à partir des données historiques pour les spécialistes du marketing par courriel. Il se compose de deux sections distinctes mais associées : Analytics et Envois.
-
-Pour accéder aux statistiques par courrier électronique, il vous suffit de cliquer sur sa mosaïque dans Mon marketing (ou sur l’écran d’accueil d’Analytics).
+Pour accéder aux statistiques sur les courriers électroniques, cliquez simplement sur leur mosaïque dans Mon Marketo (ou sur l’écran d’accueil d’Analytics).
 
 ![](assets/icon.png)
 
 >[!NOTE]
 >
->Par défaut, vous verrez les données de chaque espace de travail auquel vous avez accès. Vous pouvez désélectionner les espaces de travail que vous ne souhaitez pas vue. Votre sélection sera mémorisée à l&#39;avenir.
+>Par défaut, vous verrez les données de chaque espace de travail auquel vous avez accès. Vous pouvez désélectionner les espaces de travail que vous ne souhaitez pas afficher. Votre ou vos sélections seront mémorisées à l’avenir.
 
 ## Analytics {#analytics}
 
-Utilisez [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) pour explorer les données agrégats de séries chronologiques pour les mesures de diffusion de courriel et d’engagement.
+Utilisation [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) explorer les données agrégées de série temporelle pour les mesures de diffusion par email et d’engagement.
 
 ![](assets/emailanalytics.jpg)
 
 **Filtres**
 
-Utilisé des [filtres](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) avancés pour ventiler les résultats par Audience, contenu ou plateforme. Les mêmes filtres s’appliquent à la fois à Analytics et aux Envois.
+Utilisé avancé [filtres](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) pour ventiler les résultats par audience, contenu ou plateforme. Les mêmes filtres s’appliquent à Analytics et aux envois.
 
 ![](assets/filter.png)
 
 **Graphiques rapides**
 
-[Les ](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) graphiques rapides sont des miniatures que vous créez et enregistrez, ce qui vous permet d&#39;obtenir rapidement une vue des graphiques importants pour vous.
+[Graphiques rapides](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) sont des miniatures que vous créez et enregistrez, ce qui vous permet d’obtenir un aperçu rapide des graphiques importants pour vous.
 
 ![](assets/three.png)
 
-## Envoie {#sends}
+## Envois {#sends}
 
-Dans la page [Envoie](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md), examinez les caractéristiques des communications récentes par courriel.
+Dans le [Envois](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) Examinez les caractéristiques des communications par courrier électronique récentes.
 
 ![](assets/two.png)
 
-**Mesures**
+**Indicateurs**
 
-Cliquez sur Mesures pour convertir les couleurs en nombres.
+Cliquez sur les barres Mesures pour traduire les couleurs en nombres.
 
 ![](assets/delivery-metrics.png)
 
 >[!NOTE]
 >
->Il peut s’écouler jusqu’à 8 heures avant que les données ne soient reflétées dans les statistiques d’e-mail.
+>Les données peuvent prendre jusqu’à 8 heures pour être reflétées dans les statistiques sur les emails.
 
 ## Dimensions personnalisées {#custom-dimensions}
 
-Toutes les dimensions standard du marketing sont incluses, mais vous avez la possibilité d’ajouter jusqu’à 10 dimensions personnalisées. [Les ](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) dimensions personnalisées se composent de segments et de balises de programme.
+Toutes les dimensions Marketo standard sont incluses, mais vous avez la possibilité d’ajouter jusqu’à 10 dimensions personnalisées. [Dimensions personnalisées](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) se composent de segments et de balises de programme.
 
 >[!MORELIKETHIS]
 >
->* [Présentation des analyses des statistiques de courriel](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
->* [Présentation des informations sur les e-mails envoyés](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>* [Présentation de l’analyse des statistiques sur les emails](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>* [Présentation des informations sur les emails](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
 

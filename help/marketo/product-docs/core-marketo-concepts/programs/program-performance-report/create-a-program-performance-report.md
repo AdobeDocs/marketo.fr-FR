@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147129
-description: Création d’un rapport de performances de Programme - Documents Marketo - Documentation du produit
-title: Création d’un rapport de performances de Programme
+description: Création d’un rapport de performances de programme - Documents Marketo - Documentation du produit
+title: Création d’un rapport Performance de programme
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
@@ -11,21 +10,21 @@ ht-degree: 6%
 
 ---
 
-# Créer un rapport de performances de Programme {#create-a-program-performance-report}
+# Création d’un rapport Performance de programme {#create-a-program-performance-report}
 
-Consultez les statistiques de vos programmes avec ce rapport.
+Consultez les statistiques détaillées sur vos programmes avec ce rapport.
 
-1. [Créez un rapport dans un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programme et sélectionnez le type **de rapport** [Performances du ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Programme.
-1. Cliquez sur l&#39;onglet **Rapport**.
-1. Vous êtes là ! Consultez votre rapport pour voir comment se comportent vos programmes.
+1. [Créer un rapport dans un programme](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez la variable **Performances du programme** [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Cliquez sur le bouton **Rapport** .
+1. Vous êtes là ! Consultez votre rapport pour découvrir comment vos programmes fonctionnent.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Pour rechercher les programmes dont le coût par réussite est le plus faible **, par exemple, [triez votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) sur cette colonne et choisissez **Trier Ascendant**.
+>Pour trouver les programmes ayant le plus faible *Coût par succès*, par exemple : [trier votre rapport ;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) sur cette colonne et choisissez **Tri croissant**.
 
-Les colonnes d&#39;un rapport Performance de Programme incluent :
+Les colonnes d’un rapport Performance de programme incluent :
 
 <table> 
  <thead> 
@@ -41,15 +40,15 @@ Les colonnes d&#39;un rapport Performance de Programme incluent :
   </tr> 
   <tr> 
    <td>Nouveaux noms</td> 
-   <td>De nouvelles personnes acquises par le programme.</td> 
+   <td>Nouvelles personnes acquises par le programme.</td> 
   </tr> 
   <tr> 
    <td>Succès</td> 
-   <td>Nombre de membres qui ont réussi, tel que défini dans les états du programme. </td> 
+   <td>Nombre de membres ayant obtenu un succès tel que défini dans les statuts du programme. </td> 
   </tr> 
   <tr> 
    <td>Coût total</td> 
-   <td><p>Somme de tous les coûts de la période dans le programme.</p></td> 
+   <td><p>Somme de tous les coûts de période du programme.</p></td> 
   </tr> 
  </tbody> 
 </table>

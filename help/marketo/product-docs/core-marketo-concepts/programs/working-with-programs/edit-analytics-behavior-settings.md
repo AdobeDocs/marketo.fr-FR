@@ -3,7 +3,6 @@ unique-page-id: 2953405
 description: Modifier les paramètres de comportement d’Analytics - Documents Marketo - Documentation du produit
 title: Modifier les paramètres de comportement d’analyse
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
@@ -13,7 +12,7 @@ ht-degree: 4%
 
 # Modifier les paramètres de comportement d’analyse {#edit-analytics-behavior-settings}
 
-Vous pouvez définir le comportement [des analyses au niveau administrateur sur canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), mais vous pouvez également le modifier au niveau du programme. Voici comment.
+Vous pouvez définir la variable [comportement des analyses au niveau administrateur sur les canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), mais vous pouvez également la modifier au niveau du programme. Voici comment.
 
 1. Accédez à **Activités marketing**.
 
@@ -23,11 +22,11 @@ Vous pouvez définir le comportement [des analyses au niveau administrateur sur 
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Sous l’onglet Configuration, faites glisser le comportement Analytics sur la trame.
+1. Sous l’onglet Configuration , faites glisser Comportement d’analyse sur la zone de travail.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. Sélectionnez le comportement Analytics que vous souhaitez.
+1. Sélectionnez le comportement Analytics souhaité.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
@@ -35,20 +34,20 @@ Vous pouvez définir le comportement [des analyses au niveau administrateur sur 
 >
 >**Définition**
 >
->**Inclusif**  : cette option garantit que le programme est disponible pour le rapports dans les analyseurs et explorateurs de recettes, que vous ayez inclus ou non un coût de période.
+>**Inclusif** - Cette option garantit que le programme est disponible pour la création de rapports dans l’explorateur et les analyseurs de recettes, que vous ayez inclus ou non un coût par période.
 >
->**Opérationnel**  : cette option a pour effet que le programme ne s&#39;affiche ni dans l&#39;explorateur de recettes ni dans les analyseurs.
+>**Opérationnel** - Avec cette option, le programme ne s’affiche ni dans l’explorateur de recettes ni dans les analyseurs.
 
 >[!NOTE]
 >
->Le comportement par défaut (si ce paramètre n’est pas appliqué) est que le programme est inclus dans Analytics UNIQUEMENT s’il y a au moins un coût de période, même un coût nul affecté.
+>Le comportement par défaut (si ce paramètre n’est pas appliqué) est que le programme ne sera inclus dans Analytics QUE S’il y a au moins un coût de période, même si aucun dollar est affecté.
 
 1. Cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-Bien joué ! Vous savez maintenant comment remplacer le comportement des analyses au niveau du programme.
+C&#39;est joli ! Vous savez maintenant comment remplacer le comportement d’analyse au niveau du programme.
 
 >[!NOTE]
 >
->Les modifications prendront effet le lendemain et le programme sera soit rendu disponible, soit retiré des explorateurs et analyseurs de recettes.
+>Les modifications prendront effet le lendemain et le programme sera disponible ou retiré des explorateurs et analyseurs de recettes.

@@ -1,54 +1,53 @@
 ---
 unique-page-id: 2359866
-description: Saisir les images d'une page Web - Documents marketing - Documentation du produit
-title: Saisir les images d'une page Web
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Capture d’images à partir d’une page web - Documents Marketo - Documentation du produit
+title: Saisir les images d’une page web
+exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
+# Saisir les images d’une page web {#grab-the-images-from-a-web-page}
 
-# Saisir les images d&#39;une page Web {#grab-the-images-from-a-web-page}
-
-Pour ajouter des images à partir d’une page Web, copiez l’adresse Web (URL) de la page contenant les images de votre choix, puis suivez ces étapes simples.
+Pour ajouter des images d&#39;une page web, copiez l&#39;adresse web (URL) de la page contenant les images désirées, puis suivez ces étapes simples.
 
 1. Accédez à **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
-1. Cliquez sur **New** et **Saisir des images à partir du Web**.
+1. Cliquez sur **Nouveau** et **Capture d&#39;images à partir du web**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Sélectionnez le dossier **Images et fichiers**, collez l’adresse Web (URL) dans la zone de texte de l’URL, puis cliquez sur **Suivant**.
+1. Sélectionnez la **Images et fichiers** , collez l’adresse web (URL) dans la zone de texte URL, puis cliquez sur **Suivant**.
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
    >[!NOTE]
    >
-   >Cette fonction ne fonctionne pas avec les URL pointant directement vers une image. Utilisez l’URL de la page Web qui contient les images.
+   >Cette fonctionnalité ne fonctionne pas avec les URL pointant directement vers une image. Utilisez l’URL de la page web contenant les images.
 
 1. Sélectionnez les images à ajouter, puis cliquez sur **Importer**.
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
-1. Vos images sont maintenant importées et disponibles pour être utilisées dans les courriers électroniques et les landings page.
+1. Vos images sont maintenant importées et disponibles pour une utilisation dans les emails et les landing pages.
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. Vous pouvez afficher toutes les images disponibles dans **Images et fichiers**.
+1. Vous pouvez voir toutes les images disponibles dans **Images et fichiers**.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
-Beau travail, maître image !
+Beau travail, maître d&#39;image !
 
 >[!MORELIKETHIS]
 >
->* [Ajouter des images et des fichiers au marketing](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
->* [Organiser vos images et fichiers à l’aide de dossiers](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
->* [Rechercher l’URL d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
->* [Télécharger des images et des fichiers à partir de la zone](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
+>* [Ajout d’images et de fichiers à Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>* [Organisation des images et des fichiers à l’aide de dossiers](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [Recherche de l’URL d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Chargement d’images et de fichiers d’une zone](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
 

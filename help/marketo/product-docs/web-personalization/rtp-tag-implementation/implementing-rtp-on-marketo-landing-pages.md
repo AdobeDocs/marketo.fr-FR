@@ -1,52 +1,51 @@
 ---
 unique-page-id: 4720151
-description: Implémentation de RTP sur les Landings page marketing - Docs marketing - Documentation du produit
-title: Implémentation de RTP sur les Landings page marketing
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Mise en oeuvre de la procédure RTP sur les pages d’entrée Marketo - Documents Marketo - Documentation du produit
+title: Implémentation de la méthode RTP sur les pages d’entrée Marketo
+exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
-
-# Implémentation de RTP sur les Landings page marketing {#implementing-rtp-on-marketo-landing-pages}
+# Implémentation de la méthode RTP sur les pages d’entrée Marketo {#implementing-rtp-on-marketo-landing-pages}
 
 Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation ci-dessous :
 
-1. Accédez à **Design Studio.** Ouvrez l&#39;élément à modifier. Sélectionnez **Actions du modèle**, puis **Modifier le brouillon**.
+1. Accédez au **Design Studio.** Ouvrez l’élément à modifier. Sélectionner **Actions de modèle**, sélectionnez **Modifier le brouillon**.
 
    ![](assets/image2015-4-26-18-3a27-3a4.png)
 
-1. Effectuez les modifications de modèle dans l&#39;onglet **Source HTML**.
+1. Apportez vos modifications au modèle dans la section **Source du HTML** .
 
    ![](assets/image2015-4-26-18-3a28-3a17.png)
 
 1. Dans votre compte RTP, accédez à **Paramètres du compte**.
 
-   a. Si vous avez déjà reçu votre balise JavaScript de l’assistance - passez à l’étape 5.
+   a. Si vous avez déjà reçu votre balise JavaScript de la part de l’assistance - passez à l’étape 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-2.png)
 
-1. Sous Domaine, recherchez le domaine approprié et cliquez sur **Générer la balise**.
+1. Sous Domaine, recherchez le domaine approprié, puis cliquez sur **Générer une balise**.
 
    ![](assets/image2015-4-26-18-3a27-3a35.png)
 
    ![](assets/image2014-11-30-15-3a20-3a17-2.png)
 
-1. Copiez la balise JavaScript RTP et collez-la dans tous vos modèles de landing page entre les balises **`<head> </head>`**.
+1. Copiez la balise JavaScript RTP et collez-la dans tous vos modèles de landing page entre le **`<head> </head>`** balises.
 
 1. Cliquez sur **Enregistrer** et **Fermer** la fenêtre.
 
-1. De retour dans **Design Studio**, approuvez le landing page à partir de **Actions de modèle**, cliquez sur **Approuver**.
+1. De retour dans le **Design Studio**, validez la landing page depuis **Actions de modèle**, cliquez sur **Approuver**.
 
    ![](assets/image2015-4-26-18-3a28-3a30.png)
 
-1. Enfin, vous devrez **réapprouver** les landings page qui utilisent ce modèle pour que les modifications apportées au modèle prennent effet. Vous pouvez les réapprouver tous en même temps à partir de la section Landings page principaux.
+1. Enfin, vous devrez **re-approve** toutes les landing pages utilisant ce modèle pour que les modifications du modèle prennent effet. Vous pouvez tous les réapprouver en même temps à partir de la section Pages d’entrée principale.
 
    ![](assets/image2015-4-26-18-3a28-3a49.png)
 
-1. Vérifiez qu’il s’affiche sur toutes les pages, y compris les landings page et sous-domaines.
+1. Vérifiez qu’il apparaît sur toutes les pages, y compris les landing pages et les sous-domaines.
 
-   Pour ce faire, cliquez avec le bouton droit de la souris sur la page de votre site Web. Accédez à **Source de la page de Vue.** Recherchez  **** RTP pour localiser la balise.
+   Pour ce faire, cliquez avec le bouton droit de la souris sur la page de votre site web. Accédez à **Afficher la source de la page.** Rechercher **RTP** pour localiser la balise.

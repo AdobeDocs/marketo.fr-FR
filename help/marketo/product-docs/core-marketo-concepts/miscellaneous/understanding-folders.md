@@ -3,7 +3,6 @@ unique-page-id: 4720779
 description: Présentation des dossiers - Documents Marketo - Documentation du produit
 title: Présentation des dossiers
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
@@ -13,15 +12,15 @@ ht-degree: 0%
 
 # Présentation des dossiers {#understanding-folders}
 
-Les dossiers d’un programme peuvent être utilisés pour organiser vos campagnes et ressources intelligentes. Il s’agit de dossiers de campagne [différents de ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+Les dossiers d’un programme peuvent être utilisés pour organiser vos campagnes et ressources intelligentes. Ils sont différents de [dossiers de campagne](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
-## Créer un dossier {#create-a-folder}
+## Création d’un dossier {#create-a-folder}
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez au **Activités marketing** zone.
 
    ![](assets/ma.png)
 
-1. Cliquez avec le bouton droit sur un programme et sélectionnez **Nouveau dossier**.
+1. Cliquez avec le bouton droit de la souris sur un programme et sélectionnez **Nouveau dossier**.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
@@ -45,7 +44,7 @@ C&#39;est bon de changer d&#39;avis.
 
    Et Volia ! Le dossier porte un nouveau nom.
 
-## Supprimer un dossier {#delete-a-folder}
+## Suppression d’un dossier {#delete-a-folder}
 
 >[!NOTE]
 >
@@ -57,22 +56,22 @@ C&#39;est bon de changer d&#39;avis.
 
    Dossier Adios !
 
-## Archiver un dossier {#archive-a-folder}
+## Archivage d’un dossier {#archive-a-folder}
 
-Dans Marketo, vous pouvez convertir des dossiers existants en dossiers d’archives. Les dossiers d’archives existent dans Marketing Activités, Database et Design Studio.
+Dans Marketo, vous pouvez convertir des dossiers existants en dossiers d’archives. Les dossiers d’archives existent dans Marketing Activities, Database et Design Studio.
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 
 Lorsque vous archivez un dossier :
 
-* Le dossier et les ressources ne sont plus visibles dans les résultats de la recherche. Si vous recherchez un Programme ou un Événement se trouvant dans un dossier archivé, les résultats renvoient une vue réduite du dossier archivé.
-* Les ressources du dossier n’apparaissent plus dans la suggestion automatique.
-* Les modèles archivés ne sont pas disponibles lors de la création d’un courrier électronique ou d’un landing page dans Design Studio.
-* Impossible d&#39;utiliser les pages archivées dans les groupes de tests de landing page
+* Le dossier et les ressources ne sont plus visibles dans les résultats de recherche. Si vous recherchez un programme ou un événement se trouvant dans un dossier archivé, les résultats renvoient une vue réduite du dossier archivé.
+* Les ressources du dossier n’apparaissent plus dans la suggestion automatique
+* Les modèles archivés ne sont pas disponibles lors de la création d’un email ou d’une page d’entrée dans Design Studio
+* Les pages archivées ne peuvent pas être utilisées dans les groupes de test de page d’entrée.
 
-Fonctionnalités qui **ne seront pas** modifiées lors de l&#39;archivage :
+Fonctionnalités qui **not** modifier lors de l’archivage :
 
 * La recherche globale recherche toujours les résultats dans les dossiers archivés
 * Une ressource en cours d’utilisation continuera à fonctionner même après son archivage.
-* Vous pouvez utiliser un filtre pour sélectionner des fichiers archivés à utiliser dans les rapports.
-* Les fichiers archivés ne sont pas désactivés. Ils doivent également être désactivés si vous souhaitez qu’ils cessent de fonctionner.
+* Vous pouvez utiliser un filtre pour sélectionner des ressources archivées à utiliser dans les rapports.
+* Les ressources archivées ne sont pas désactivées. Elles doivent également être désactivées si vous souhaitez qu’elles cessent de s’exécuter.

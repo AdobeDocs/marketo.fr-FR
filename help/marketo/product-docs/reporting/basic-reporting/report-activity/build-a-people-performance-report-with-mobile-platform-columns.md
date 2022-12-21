@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2951220
-description: Création d'un rapport sur les performances des personnes avec les colonnes des plateformes mobiles - Documents marketing - Documentation sur les produits
-title: Création d’un rapport sur les performances des personnes avec des colonnes de plateformes mobiles
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Création d’un rapport sur les performances des personnes avec les colonnes de la plateforme mobile - Documents Marketo - Documentation du produit
+title: Création d’un rapport sur les performances des personnes avec des colonnes Mobile Platform
+exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
+# Création d’un rapport sur les performances des personnes avec des colonnes Mobile Platform {#build-a-people-performance-report-with-mobile-platform-columns}
 
-# Créer un rapport sur les performances des personnes avec des colonnes de plateformes mobiles {#build-a-people-performance-report-with-mobile-platform-columns}
+Pour créer un rapport Performance des personnes avec des colonnes de plateforme mobile (iOS/Android), procédez comme suit.
 
-Pour créer un rapport sur les performances des personnes avec des colonnes de plateformes mobiles (iOS/Android), procédez comme suit.
-
-## Créer des Listes mobiles dynamiques {#create-mobile-smart-lists}
+## Création de listes dynamiques mobiles {#create-mobile-smart-lists}
 
 1. Accédez à **Activités marketing**.
 
@@ -25,51 +24,51 @@ Pour créer un rapport sur les performances des personnes avec des colonnes de p
 
    ![](assets/two-1.png)
 
-1. Sous **New**, sélectionnez **New Local Asset**.
+1. Sous **Nouveau**, sélectionnez **Nouvelle ressource locale**.
 
    ![](assets/three-1.png)
 
-1. Cliquez sur **Liste intelligente**.
+1. Cliquez sur **Liste dynamique**.
 
    ![](assets/four-1.png)
 
-1. Saisissez un nom et cliquez sur **Créer**.
+1. Saisissez un nom, puis cliquez sur **Créer**.
 
    ![](assets/five-1.png)
 
-1. Recherchez et faites glisser le filtre Courrier électronique ouvert dans le canevas.
+1. Recherchez et faites glisser le filtre Courrier électronique ouvert dans la zone de travail.
 
    ![](assets/six-1.png)
 
-1. Définissez Courriel sur **est n’importe quel**.
+1. Définir le courrier électronique à **est quelconque**.
 
    ![](assets/seven.png)
 
-1. Cliquez sur **Ajouter la contrainte** et sélectionnez **Plateforme**.
+1. Cliquez sur **Ajouter une contrainte** et sélectionnez **Plateforme**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Nous avons utilisé le filtre Courrier électronique ouvert dans cet exemple. Vous pouvez également utiliser le filtre Courrier électronique cliqué, car il comporte la contrainte Plateforme.
+   >Nous avons utilisé le filtre Courrier électronique ouvert dans cet exemple. Vous pouvez également utiliser le filtre Email cliqué , car il a la contrainte Platform .
 
-1. Définissez la plate-forme sur **iOS**.
+1. Définir Platform sur **iOS**.
 
    ![](assets/nine.png)
 
    >[!NOTE]
    >
-   >Au moins une personne doit avoir ouvert l’un de vos courriels sur un périphérique iOS pour que Marketo propose automatiquement de le trouver. S’il ne s’affiche pas, vous pouvez le saisir manuellement et l’enregistrer.
+   >Au moins une personne doit avoir ouvert l’un de vos emails sur un appareil iOS pour que Marketo vous suggère de le trouver automatiquement. S’il ne s’affiche pas, vous pouvez le saisir manuellement et l’enregistrer.
 
-   Créez maintenant une seconde liste intelligente pour la plate-forme &quot;Android&quot;. Une fois cela fait, passez à la section suivante.
+   Créez maintenant une deuxième liste dynamique pour la plateforme &quot;Android&quot;. Une fois cela fait, passez à la section suivante.
 
-## Créer un rapport sur les performances des personnes {#create-a-people-performance-report}
+## Création d’un rapport Performance des personnes {#create-a-people-performance-report}
 
-1. Sous Activités marketing, sélectionnez le programme qui héberge vos **listes dynamiques iOS** et **Android**.
+1. Sous Activités marketing, sélectionnez le programme qui héberge votre **iOS** et **Android** listes dynamiques.
 
    ![](assets/ten.png)
 
-1. Sous **New**, sélectionnez **New Local Asset**.
+1. Sous **Nouveau**, sélectionnez **Nouvelle ressource locale**.
 
    ![](assets/eleven.png)
 
@@ -77,7 +76,7 @@ Pour créer un rapport sur les performances des personnes avec des colonnes de p
 
    ![](assets/twelve.png)
 
-1. Définissez le type sur **Performance des personnes**.
+1. Définir le type sur **Performances des personnes**.
 
    ![](assets/thirteen.png)
 
@@ -85,19 +84,19 @@ Pour créer un rapport sur les performances des personnes avec des colonnes de p
 
    ![](assets/fourteen.png)
 
-   Tu te débrouilles bien ! Passons maintenant à la section suivante.
+   Tu t&#39;en sors bien ! Passons à la section suivante.
 
-## Ajouter les Listes dynamiques mobiles en tant que colonnes {#add-mobile-smart-lists-as-columns}
+## Ajout de listes dynamiques mobiles en tant que colonnes {#add-mobile-smart-lists-as-columns}
 
-1. Dans le rapport que vous venez de créer, cliquez sur **Configuration**, puis faites glisser **Colonnes personnalisées** dans le canevas.
+1. Dans le rapport que vous venez de créer, cliquez sur **Configuration**, puis faites glisser **Colonnes personnalisées** dans la zone de travail.
 
    ![](assets/fifteen.png)
 
    >[!NOTE]
    >
-   >Par défaut, le rapport Performance des personnes examine les 7 derniers jours. Vous pouvez modifier la période en cliquant sur celle-ci par doublon.
+   >Par défaut, le rapport Performance des personnes examine les 7 derniers jours. Vous pouvez modifier la période en double-cliquant dessus.
 
-1. Recherchez et sélectionnez les listes dynamiques que vous avez créées précédemment et cliquez sur **Appliquer**.
+1. Recherchez et sélectionnez les listes dynamiques que vous avez créées précédemment, puis cliquez sur **Appliquer**.
 
    ![](assets/sixteen.png)
 
@@ -105,4 +104,4 @@ Pour créer un rapport sur les performances des personnes avec des colonnes de p
 
    ![](assets/seventeen.png)
 
-   Plutôt cool, non ? Bien joué !
+   Plutôt cool, non ? C&#39;est joli !

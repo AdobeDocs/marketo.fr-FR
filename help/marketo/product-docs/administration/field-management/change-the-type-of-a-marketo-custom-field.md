@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2360331
-description: Modification du type d’un champ personnalisé Marketo - Docs Marketo - Documentation du produit
+description: Modification du type d’un champ personnalisé Marketo - Documents Marketo - Documentation du produit
 title: Modification du type d’un champ personnalisé Marketo
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
@@ -11,19 +10,19 @@ ht-degree: 0%
 
 ---
 
-# Modifier le type d’un champ personnalisé Marketo {#change-the-type-of-a-marketo-custom-field}
+# Modification du type d’un champ personnalisé Marketo {#change-the-type-of-a-marketo-custom-field}
 
 Voici comment modifier le type de champ d’un champ personnalisé.
 
-1. Accédez à **Admin** et cliquez sur **Gestion des champs**.
+1. Accédez à **Administration** et cliquez sur **Gestion des champs**.
 
    ![](assets/image2014-9-18-13-3a4-3a39.png)
 
-1. Recherchez et sélectionnez le champ de votre choix.
+1. Recherchez et sélectionnez le champ souhaité.
 
    ![](assets/image2014-9-18-13-3a4-3a48.png)
 
-1. Dans la liste déroulante **Actions de champ**, cliquez sur **Changer de type**.
+1. Dans le **Actions de champ** menu déroulant, cliquez sur **Type de modification**.
 
    ![](assets/image2014-9-18-13-3a4-3a57.png)
 
@@ -31,7 +30,7 @@ Voici comment modifier le type de champ d’un champ personnalisé.
 
    >[!NOTE]
    >
-   >Les champs de note et de formule ne peuvent pas être modifiés.
+   >Les champs de score et de formule ne peuvent pas être modifiés.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 

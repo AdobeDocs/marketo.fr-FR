@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2360032
-description: Modification de l’heure d’expiration des URL dans les messages électroniques des rapports - Documents marketing - Documentation du produit
-title: Modification de l’heure d’expiration des URL dans les courriers électroniques des rapports
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Modification de la durée d’expiration des URL dans les rapports - Documents Marketo - Documentation du produit
+title: Modification de l’heure d’expiration des URL dans les messages électroniques de rapport
+exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
-# Modifier l’heure d’expiration des URL dans les courriers électroniques des rapports {#change-the-expiration-time-for-urls-in-report-emails}
+# Modification de l’heure d’expiration des URL dans les messages électroniques de rapport {#change-the-expiration-time-for-urls-in-report-emails}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-Les liens des courriers électroniques de votre abonnement de rapports expirent au bout de trois jours. Pour modifier le délai d’expiration de ces liens, procédez comme suit.
+Les liens contenus dans les emails d’abonnement à votre rapport expirent au bout de trois jours. Pour modifier le délai d’expiration de ces liens, procédez comme suit.
 
-1. Sous **Admin**, cliquez sur **Paramètres de connexion**.
+1. Sous **Administration**, cliquez sur **Paramètres de connexion**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Cliquez sur le bouton **Modifier l’expiration de l’URL**.
+1. Cliquez sur le bouton **Modifier l’expiration de l’URL** bouton .
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Sélectionnez dans le menu déroulant le nombre de jours avant l’expiration du lien. Cliquez sur **Enregistrer**.
+1. Dans le menu déroulant, sélectionnez le nombre de jours avant l’expiration du lien. Cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 
-   Cool, vous avez modifié les paramètres d&#39;expiration des liens de courriel.
+   Cool, vous avez modifié les paramètres d&#39;expiration des liens d&#39;email.
 
    >[!NOTE]
    >
-   >N’oubliez pas que ces règles ne s’appliquent qu’aux liens des rapports et alertes, et non aux courriels marketing.
+   >Pour rappel, elles s’appliquent uniquement aux liens des rapports et alertes, et non aux emails marketing.

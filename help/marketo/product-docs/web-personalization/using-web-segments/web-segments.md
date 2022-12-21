@@ -1,27 +1,26 @@
 ---
 unique-page-id: 4719093
-description: Segments Web - Documents marketing - Documentation du produit
-title: Segments Web
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Segments web - Documents Marketo - Documentation du produit
+title: Segments web
+exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '2031'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
+# Segments web {#web-segments}
 
-# Segments Web {#web-segments}
-
-## Segment de vue {#view-segment}
+## Afficher le segment {#view-segment}
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-L’onglet Segments affiche tous les segments personnalisés définis que vous configurez en fonction de divers attributs.  **Un segment est un ensemble de visiteurs qui répondent aux critères spécifiés définis dans la page Définir un segment.**  Un segment peut être visiteur d’un secteur d’activité, d’un emplacement ou en fonction de l’activité du visiteur sur le site.
+L’onglet Segments affiche tous les segments définis personnalisés que vous configurez en fonction de divers attributs.  **Un segment est un ensemble de visiteurs qui répondent aux critères spécifiés définis dans la page &quot;Définir un segment&quot;.**  Un segment peut être des visiteurs provenant d’un secteur industriel, d’un emplacement ou d’une activité sur site spécifique du visiteur.
 
-Dans la personnalisation Web, un visiteur peut correspondre à plusieurs segments. Par exemple, s’il existe un segment pour les visiteurs américains et un segment pour les sociétés financières, un visiteur Web de Bank of America correspondrait **à la fois** au segment pour les visiteurs américains et au segment pour les sociétés financières.
+Dans la personnalisation web, un visiteur peut correspondre à plusieurs segments. Par exemple, s’il existe un segment pour les visiteurs E.U. et un segment pour les sociétés financières, un visiteur web de Bank of America correspondra à **both** le segment pour les visiteurs aux États-Unis et le segment pour les sociétés financières.
 
-**GRAPHIQUE :**  la page Segments affiche un graphique à barres des segments sélectionnés en fonction du nombre de visiteurs du segment (axe y) et du nom du segment (axe x).
+**GRAPHIQUE :**  La page Segments affiche un graphique à barres des segments sélectionnés en fonction du nombre de visiteurs provenant du segment (axe y) et du nom du segment (axe x).
 
 <table> 
  <thead> 
@@ -36,99 +35,95 @@ Dans la personnalisation Web, un visiteur peut correspondre à plusieurs segment
    <td colspan="1" rowspan="1">Titre du segment</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Correspond à</strong></p></td> 
-   <td colspan="1" rowspan="1">Nombre de visiteurs répondant aux critères définis et personnalisés du segment</td> 
+   <td colspan="1" rowspan="1"><p><strong>Correspondances</strong></p></td> 
+   <td colspan="1" rowspan="1">Nombre de visiteurs répondant aux critères personnalisés et définis du segment.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Définir Campaign</strong></td> 
-   <td colspan="1" rowspan="1">Permet de configurer une DEC Campaign associée au terme de recherche sélectionné.</td> 
+   <td colspan="1" rowspan="1"><strong>Définir la campagne</strong></td> 
+   <td colspan="1" rowspan="1">Permet de configurer une CTA de campagne associée au terme de recherche sélectionné.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Visiteur</strong></td> 
-   <td colspan="1">Prévisualisation du tableau visiteur associé au terme de recherche sélectionné</td> 
+   <td colspan="1"><strong>Visiteurs</strong></td> 
+   <td colspan="1">Aperçu de la table des visiteurs associée au terme de recherche sélectionné</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td> 
-   <td colspan="1" rowspan="1">Affiche un tableau de la activité et du chemin d'URL du visiteur sur le site et de la durée de visite de chaque page. </td> 
+   <td colspan="1" rowspan="1"><strong>Parcours de visites</strong></td> 
+   <td colspan="1" rowspan="1">Affiche un tableau de l’activité et du chemin d’URL du visiteur sur le site, ainsi que la durée de visite de chaque page. </td> 
   </tr> 
  </tbody> 
 </table>
 
-Voir [comment créer et vue des étiquettes de segments](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+Voir [comment créer et afficher des libellés de segment](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 **Segments - Panneau de droite**
 
 ![](assets/image2014-11-12-10-3a46-3a32.png)
 
-La sélection d’un segment dans le tableau permet d’afficher des informations supplémentaires sur le segment dans le panneau de droite.
+La sélection d’un segment dans le tableau affiche des détails supplémentaires sur le segment dans le panneau de droite.
 
 Ces détails incluent :
 
 * Nom du segment
 * Date de création du segment
-* Campagnes associées montrant les campagnes qui fonctionnent avec le segment. Le fait de cliquer sur le nombre de réactions vous conduit à la page des campagnes qui affiche l&#39;DEC Campaign (Appel à l&#39;action) pour le segment.
-* Nombre de correspondances (nombre de visiteurs qui répondaient aux critères du segment) pour le segment et nombre de visiteurs distincts (uniques) qui correspondaient au segment. Cliquez sur le lien d’un visiteur unique pour accéder à la page du visiteur affichant les résultats du segment.
-* Propriétaire/créateur utilisateur du segment
+* Les campagnes associées affichant les campagnes qui opèrent avec le segment. Cliquez sur le nombre de réactions pour accéder à la page des campagnes qui affiche l’CTA (Appel à l’action) de la campagne pour le segment.
+* Le nombre de correspondances (nombre de visiteurs qui ont rempli les critères du segment) pour le segment et le nombre de visiteurs distincts (uniques) qui ont correspondu au segment. Cliquez sur le lien du visiteur unique pour accéder à la page du visiteur affichant les résultats du segment.
+* Créateur propriétaire/utilisateur du segment
 * Les sites de domaine associés au segment
-* Un bref résumé des critères sélectionnés pour le segment
+* Résumé court des critères sélectionnés du segment
 
-## Activer ou désactiver un segment {#enable-or-disable-a-segment}
+## Activation ou désactivation d’un segment {#enable-or-disable-a-segment}
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Pour activer ou désactiver un segment, cochez la case de ce segment dans le tableau et dans la liste déroulante &quot;Choisir une action&quot; au bas du tableau, sélectionnez l’action &quot;Activer&quot; ou &quot;Désactiver&quot;. Lorsqu’un segment est désactivé, le mot &quot;désactiver&quot; s’affiche sous la colonne Etat.
+Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau et, dans la liste déroulante &quot;Choisir une action&quot; au bas du tableau, sélectionnez l’action &quot;Activer&quot; ou &quot;Désactiver&quot;. Lorsqu’un segment est désactivé, le mot &quot;désactiver&quot; s’affiche sous la colonne État.
 
-## Créer des segments {#create-segments}
+## Création de segments {#create-segments}
 
-Le segment que vous créez répond aux critères spécifiques que vous définissez dans la page **Définir le segment**. Vous pouvez également personnaliser vos segments en fonction d’une combinaison de critères, en ciblant une audience spécifique de votre campagne.
+Le segment que vous créez répond aux critères spécifiques que vous définissez dans la variable **Définir un segment** page. Vous pouvez également personnaliser vos segments en fonction d’une combinaison de critères, ciblant une audience spécifique dans votre campagne.
 
 Pour créer un segment
 
-Dans la page **Segments**, cliquez sur **Créer** sous le graphique. L’écran suivant s’affiche.
+Dans la **Segments** page, cliquez sur **Créer** sous le graphique. L’écran suivant s’affiche.
 
 ![](assets/four.png)
 
-Définissez des paramètres généraux pour votre segment :
+Définissez les paramètres généraux de votre segment :
 
 * **Nom :**  Nommez votre segment.
 * **Description :**  Fournissez une explication plus détaillée des critères de segment.
-* **Domaines :**  sélectionnez le ou les domaines à inclure dans le segment.
-* **Logique de la règle de segment :**  sélectionnez une logique ET / OU pour créer chaque attribut de segmentation.
-* **Minutage :** définissez le niveau d’engagement visiteur souhaité dans votre campagne.
+* **Domaines :**  Sélectionnez le ou les domaines que vous souhaitez inclure dans le segment.
+* **Logique de règle de segment :**  Sélectionnez une logique ET/OU pour créer chaque attribut de segmentation.
+* **Minutage :** Définition du niveau d’engagement des visiteurs souhaité dans votre campagne
 
-   * **A l&#39;entrée** : L&#39;engagement du visiteur arrive sur le site Web
-   * **Après 1er - 9e clic** : Interagir avec le visiteur après un nombre spécifique de clics sur le site Web
+   * **À l’entrée**: L’interaction du visiteur arrive sur le site web
+   * **Après le 1er au 9e clic**: Interagir avec le visiteur après un nombre spécifique de clics sur le site web
 
 >[!TIP]
 >
->**Logique des règles de segment**
+>**Logique de règle de segment**
 >
 >Il existe trois options de filtre :
 >
->1. Utiliser tous les Filtres (1, 2 et 3...)
->1. Utiliser n&#39;importe quel Filtres (1, 2 ou 3...)
->1. Filtres avancés (utilisation et / ou expressions)
+>1. Utiliser tous les filtres (1, 2 et 3...)
+>1. Utiliser n’importe quel filtre (1, 2 ou 3...)
+>1. Filtres avancés (à l’aide des expressions et / ou )
 
    >
-   >    
-   Les filtres avancés vous permettent de contrôler la condition du segment. Entrez les numéros de filtre séparés par &quot;et&quot; et &quot;ou&quot;.
+   >    Les filtres avancés vous permettent de contrôler la condition du segment. Saisir les numéros de filtres séparés par « et » et « ou ».
    >
-   >    
-   * 1 et 2 et 3
+   >    * 1 et 2 et 3
    >    * 1 ou 2 ou 3
 
    >
-   >    Le mélange de &quot;et&quot; et &quot;ou&quot; nécessite des parenthèses pour clarifier l&#39;intention logique. par ex. &quot;1 ou 2 et 3&quot; doit être écrit comme suit :
+   >    Le mélange de « et » et « ou » nécessite des parenthèses pour clarifier la logique d’intention. Par exemple, « 1 ou 2 et 3 » doit être écrit d’une des façons suivantes :
    >
-   >    
-   * 1 et (2 ou 3)
+   >    * 1 et (2 ou 3)
    >    * (1 et 2) ou 3
 
    >
-   >    Les parenthèses imbriquées sont acceptées pour une logique plus complexe (ex.
+   >    Les parenthèses imbriquées sont acceptées pour les logiques plus complexes, par exemple
    >
-   >    
-   * (1 et 2) ou (3 et 4)
+   >    * (1 et 2) ou (3 et 4)
    >    * 1 et (2 ou (3 et 4))
 
    >
@@ -139,76 +134,76 @@ Faites glisser les attributs de segment de la colonne de droite vers l’éditeu
 
 ![](assets/five.png)
 
-### Firmographie {#firmographics}
+### Données firmographiques {#firmographics}
 
 **Emplacement**
 
-Faites glisser **Emplacement** dans l’éditeur de segments.
+Glisser-déposer **Emplacement** dans l’éditeur de segments.
 
 * Sélectionnez l’un des paramètres suivants :
 
-   * **Inclure**  : indiquez si vous souhaitez que la campagne inclut ou exclue un emplacement.
-   * **Sélectionnez le pays à ajouter**  - Dans la liste déroulante, sélectionnez le pays que vous souhaitez inclure dans le segment. Le nom du pays s’affiche à droite. Vous pouvez choisir plusieurs pays.
+   * **Inclure** - Indiquez si vous souhaitez que la campagne inclut ou exclue un emplacement.
+   * **Sélectionner le pays à ajouter** - Dans la liste déroulante, sélectionnez le pays que vous souhaitez inclure dans le segment. Le nom du pays s’affiche à droite. Vous pouvez choisir plusieurs pays.
 
 Une fois le pays ajouté, vous pouvez également spécifier l’état, la ville et le code postal du segment.
 
-* **Sélectionnez Etat ou province à ajouter**  - Dans la liste déroulante, sélectionnez l&#39;état des États-Unis ou la province canadienne à inclure. Vous pouvez effectuer plusieurs sélections.
-* **Code postal**  - Entrez le code postal que vous souhaitez inclure dans votre segment.
-* **Villes**  - Entrez la ou les villes que vous souhaitez inclure. Utilisez un point-virgule entre les villes.
+* **Sélectionnez Etat ou Province à ajouter.** - Dans la liste déroulante, sélectionnez l’État des États-Unis ou la Province canadienne que vous souhaitez inclure. Vous pouvez effectuer plusieurs sélections.
+* **Code postal** - Entrez le code postal que vous souhaitez inclure dans votre segment.
+* **Villes** - Renseignez la ou les villes que vous souhaitez inclure. Utilisez un point-virgule entre les villes.
 
 >[!TIP]
 >
->**Quelles conditions de segment dois-je choisir ? &quot;AND&quot; ou &quot;OR&quot; ?** OU fonctionne comme une option supplémentaire dans chaque champ. Les prospects ne doivent satisfaire qu&#39;un seul critère parmi les critères multiples sélectionnés dans chaque champ pour être admissibles au segment. (Par exemple, les prospects peuvent provenir des États-Unis, *ou* de l&#39;industrie de la défense). ET fonctionne comme un paramètre obligatoire supplémentaire qui doit être satisfait pour ce segment. (Par exemple, les prospects doivent provenir à la fois des États-Unis et de l&#39;industrie de la défense). Dans chaque profil de segmentation, chaque champ distinct peut fonctionner comme les deux, soit comme &quot;ET&quot;, soit comme &quot;OU&quot;, selon la condition de segment sélectionnée.
+>**Quelles conditions de segment dois-je choisir ? &quot;ET&quot; ou &quot;OU&quot; ?** OU fonctionne comme une option supplémentaire dans chaque champ. Les prospects n’ont besoin de remplir qu’un seul critère parmi les multiples critères sélectionnés dans chaque champ pour être éligibles au segment. (Par exemple, les prospects peuvent provenir soit des États-Unis, *ou* de l&#39;industrie de la Défense). ET fonctionne comme un paramètre obligatoire supplémentaire qui doit être rempli pour ce segment. (Par exemple, les perspectives doivent venir à la fois des États-Unis et de l&#39;industrie de la Défense). Au sein de chaque profil de segmentation, chaque champ distinct peut fonctionner comme les deux, soit un &quot;ET&quot;, soit un &quot;OU&quot; selon la condition de segment sélectionnée.
 
-**** IndustriesSous la section  **Segmentation des** Profils, cochez la case en regard de  **Secteur**.
+**Industries** Sous , **Segmentation des profils** , cochez la case en regard de **Secteur industriel**.
 
 * Sélectionnez l’un des paramètres suivants :
 
-   * **Inclut**  : indiquez si le segment doit inclure ou exclure un secteur industriel.
-   * **Sélectionner les secteurs à ajouter**  : sélectionnez le secteur que vous souhaitez inclure dans le segment. L’industrie s’affiche sous la liste déroulante. Vous pouvez choisir plusieurs industries.
+   * **Inclut** - Indiquez si vous souhaitez que le segment inclut ou exclue un secteur d’activité.
+   * **Sélectionner les secteurs à ajouter** - Sélectionnez le secteur que vous souhaitez inclure dans le segment. Le secteur apparaît sous la liste déroulante. Vous pouvez choisir plusieurs secteurs.
 
-**Groupe d’organisations**
+**Groupe de l’entreprise**
 
-Sous la section **Segmentation de Profil**, cochez la case en regard de **Groupe d&#39;organisation.**
+Sous , **Segmentation des profils** , cochez la case en regard de **Groupe d’organisations.**
 
 * Dans la liste déroulante, sélectionnez l’une des options suivantes :
 
-   * Fortune 500 - Inclut uniquement les sociétés Fortune 500 dans ce segment
-   * Fortune 1000 - Inclut uniquement les sociétés Fortune 1000 dans ce segment
-   * 2000 - Inclut les sociétés mondiales de 2000 dans ce segment
-   * Entreprise - Inclut les entreprises comptant plus de 1 000 employés et dont les recettes dépassent 250 millions de dollars
+   * Fortune 500 - Inclut uniquement les entreprises Fortune 500 dans ce segment
+   * Fortune 1000 - Inclut uniquement les entreprises Fortune 1000 dans ce segment
+   * Global 2000 - Inclut les 2 000 entreprises mondiales dans ce segment
+   * Entreprise : comprend les entreprises de plus de 1 000 employés et dont les recettes sont supérieures à 250 millions de dollars.
    * PME - Inclut uniquement les petites et moyennes entreprises dans ce segment
 
 **-Comptes nommés-**
 
-**Organisations**
+**Entreprises**
 
-* **Provient de ces sociétés (noms spécifiques)**
+* **provient de ces sociétés (noms spécifiques) ;**
 
-   * Sélectionnez société à cible dans la liste déroulante Sélectionner la société à ajouter.
-   * Vous pouvez saisir le nom exact de l&#39;organisation que vous souhaitez cible. *Il est _toujours_ recommandé d&#39;utiliser des Listes de compte nommé au lieu de saisir les noms manuellement pour obtenir de meilleures correspondances (voir ci-dessous).
+   * Sélectionnez la société à cibler dans la liste déroulante &quot;Sélectionner la société à ajouter&quot;.
+   * Vous pouvez saisir le nom exact de l’organisation que vous souhaitez cibler. *C’est _always_ Il est recommandé d’utiliser des listes de comptes nommés au lieu de saisir les noms manuellement pour obtenir de meilleures correspondances (voir ci-dessous).
 
-**Liste de compte nommée**
+**Liste des comptes nommés**
 
-Sélectionnez une [Liste de compte nommée](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) pour segmenter les comptes ciblés clés.
+Effectuez une sélection depuis un [Liste des comptes nommés](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) pour segmenter les comptes ciblés clés.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
 >
->Le numéro entre crochets en regard du nom de la Liste de compte nommé est utilisé comme référence d’index pour la liste de personnalisation Web [API de lecture](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>Le nombre entre crochets en regard du nom Liste des comptes nommés est utilisé comme référence d’index pour la liste de personnalisation web. [API de lecture](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
-**Exclure un fournisseur de services Internet**
+**Exclure FAI**
 
-Exclut les Prestataires Internet (FAI) du segment.
+Exclut les fournisseurs de services Internet (FAI) du segment.
 
 ### Personnes connues {#known-people}
 
 **Base de données**
 
-La personnalisation Web s’intègre à votre base de données de marketing, ce qui vous permet de segmenter et de personnaliser les campagnes en fonction d’attributs et de données de personnes connues.
+La personnalisation web s’intègre à votre base de données Marketo, ce qui vous permet de segmenter et de personnaliser les campagnes en fonction d’attributs et de données de personnes connues.
 
-Sélectionnez Base de données et sélectionnez un champ de données de personne dans la liste déroulante. Sélectionnez **+** pour ajouter des champs dans la liste déroulante.
+Sélectionnez Base de données et sélectionnez un champ de données de personne dans la liste déroulante. Sélectionnez la **+** pour ajouter des champs dans la liste déroulante.
 
 ![](assets/seven.png)
 
@@ -216,93 +211,93 @@ Vous pouvez ajouter ou supprimer des champs de données de personne dans Paramè
 
 >[!TIP]
 >
->Créez vos critères de segment en fonction de tous les champs de données de personne provenant de personnes du marché du travail, telles que le titre de la tâche ; Score ; Rôle ; etc...
+>Créez vos critères de segment en fonction de tous les champs de données de personne provenant de personnes Marketo telles que le titre de la tâche ; Score ; Rôle; etc...
 >
->Par ex. &quot;Titre du travail = CMO&quot; et &quot;Note inférieure ou égale à 50&quot;
+>Par exemple, &quot;Le titre de la tâche est égal à CMO&quot; et &quot;le score est inférieur ou égal à 50&quot;
 
-**Marketo Email** CampaignSegmentez et personnalisez les campagnes par renvoi électronique depuis un visiteur qui clique sur un courriel Marketo et arrive sur le site. Segmenter par nom de Programme ou nom de Campaign du marketing et poursuivre la conversation entre le courriel et le Web. Sélectionnez + pour ajouter des champs dans la liste déroulante.
+**Marketo Email Campaign** Segmentez et personnalisez des campagnes à l’aide du renvoi d’un courrier électronique par un visiteur qui clique sur un courrier électronique Marketo et arrive sur le site. Segmentez par nom de programme ou nom de campagne Marketo et continuez la conversation en passant de l’e-mail au web. Sélectionnez le + pour ajouter des champs dans la liste déroulante.
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
 **Statut**
 
-Définissez votre segment en fonction de l’état d’une prospect : connu ou anonyme.
+Définissez votre segment en fonction de l’état d’un prospect : connu ou anonyme.
 
-* Connu : sélectionnez cette option dans la liste déroulante pour les visiteurs connus. Un visiteur est connu lorsqu’il envoie un formulaire sur votre site Web et s’affiche dans la page Personnes chargées de la personnalisation Web.
+* Connu : sélectionnez cette option dans la liste déroulante pour les visiteurs connus. Un visiteur est connu lorsqu’il envoie un formulaire sur votre site Web et apparaît sur la page Personnes de personnalisation Web.
 * Anonyme : sélectionnez cette option dans la liste déroulante pour les visiteurs anonymes.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
-### Comportement {#behavioral}
+### Comportemental {#behavioral}
 
-**Visites :** définissez votre segment en fonction du comportement ou de l’identification du visiteur.
+**Visites -** Définissez votre segment en fonction du comportement ou de l’identification du visiteur.
 
-* Nombre de visites : sélectionnez cette option dans la liste déroulante pour indiquer le nombre de visites pour les prospects du site Web.
+* Nombre de visites : sélectionnez cette option dans la liste déroulante pour indiquer le nombre de visites des prospects sur le site web.
 
-   * Sélectionnez Est égal à, Est égal à ou Supérieur à ou Est égal à ou Inférieur à dans la liste déroulante.
+   * Dans la liste déroulante, sélectionnez Equals (Est égal à) ou Greater Than (Est égal à) ou Less Than (Est inférieur à).
 
 * Visites spécifiques : sélectionnez cette option dans la liste déroulante pour spécifier un visiteur spécifique.
 
-   * Dans la zone de texte à droite, saisissez le numéro de visiteur dont vous souhaitez effectuer le suivi. Le numéro d’identification unique du visiteur de personnalisation Web est disponible lorsque vous cliquez sur un visiteur (dans la page visiteur) et que vous cliquez sur le panneau latéral de droite sur Set Campaign. L’ID de Visiteur se trouve dans la section Paramètres avancés. L’ID de visiteur se trouve également dans l’URL (VISITEUR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS, par exemple).
+   * Dans la zone de texte à droite, saisissez le nombre de visiteurs dont vous souhaitez effectuer le suivi. Le numéro d’identification unique des visiteurs de la personnalisation Web se trouve lorsque vous cliquez sur un visiteur (dans la page des visiteurs) et sur Définir la campagne dans le panneau de droite. L’identifiant visiteur se trouve dans la section Paramètres avancés . L’identifiant visiteur se trouve également dans l’URL (par exemple, VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
-**Termes**  de recherche : définissez un segment en fonction des termes de recherche d’une prospect.
+**Termes de recherche** - Définissez un segment en fonction des termes de recherche d’un prospect.
 
-* Le visiteur a recherché : dans la liste déroulante, sélectionnez les termes dont vous souhaitez effectuer le suivi dans votre recherche visiteuse ou ajoutez vos propres termes de recherche. (Aucun caractère générique * n’est nécessaire pour les termes de recherche, car il est défini par défaut pour inclure les expressions qui contiennent le terme de recherche).
+* Le visiteur a recherché : dans la liste déroulante, sélectionnez les termes dont vous souhaitez effectuer le suivi dans votre recherche de visiteurs ou ajoutez vos propres termes de recherche. (Il n’est pas nécessaire que la variable &#42; caractère générique sur les termes de recherche, dans la mesure où il est défini par défaut pour inclure des expressions contenant le terme de recherche).
 
-**Références**  : Ajoutez les URL auxquelles le visiteur a fait référence.
+**Références** - Ajoutez des URL auxquelles le visiteur a été référencé.
 
-* Sélectionner les référents à ajouter : dans la liste déroulante, sélectionnez les sites référents dont vous souhaitez effectuer le suivi ou ajoutez votre propre référence. Une fois sélectionnés, les références s’affichent dans la zone ci-dessous. (L’utilisation d’un caractère générique * est autorisée)
+* Sélectionner les références à ajouter : dans la liste déroulante, sélectionnez les sites de référence que vous souhaitez suivre ou ajoutez votre propre référence. Une fois cette option sélectionnée, les références s’affichent dans la zone ci-dessous. (En utilisant &#42; comme caractère générique autorisé)
 
-**Inclure des pages**  - Effectuer le suivi des prospects de pages spécifiques visitées sur votre site Web.
+**Inclure les pages** - Effectuer le suivi des prospects de pages spécifiques visitées sur votre site web.
 
-* Correspondances d&#39;URL : Ajoutez l&#39;URL de pages Web spécifiques dont vous souhaitez effectuer le suivi. Vous pouvez ajouter plusieurs URL en les séparant par un point-virgule. (L’utilisation de * comme caractère générique est autorisée).
+* Correspondances d’URL : ajoutez l’URL de pages web spécifiques dont vous souhaitez effectuer le suivi. Vous pouvez ajouter plusieurs URL en les séparant par un point-virgule. (En utilisant &#42; comme caractère générique autorisé).
 
-**Exclure des pages**  - Exclure des pages spécifiques que vous ne souhaitez pas faire correspondre dans le segment. (L’utilisation de * comme caractère générique est autorisée).
+**Exclure des pages** - Excluez les pages spécifiques que vous ne souhaitez pas faire correspondre dans le segment. (En utilisant &#42; comme caractère générique autorisé).
 
-* L&#39;URL ne correspond pas : Ajoutez l&#39;URL de pages Web spécifiques que vous souhaitez exclure du suivi. Vous pouvez ajouter plusieurs URL en les séparant par un point-virgule.
+* L’URL ne correspond pas : ajoutez l’URL de pages web spécifiques que vous souhaitez exclure du suivi. Vous pouvez ajouter plusieurs URL en les séparant par un point-virgule.
 
 ![](assets/segment-extra.png)
 
-### Périphérique / Navigateur {#device-browser}
+### Appareil / navigateur {#device-browser}
 
-**SE Mobile**
+**OS mobile**
 
-Faites glisser et déposez le SE Mobile dans l’éditeur de segments.
+Faites glisser et déposez le SE Mobile dans l’éditeur de segments
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **Type de visiteur**<br />
 
-   **Système d’exploitation**  mobile : dans la liste déroulante, sélectionnez un ou plusieurs systèmes d’exploitation mobiles répertoriés. Le système d’exploitation mobile sélectionné s’affiche ci-dessous.
+   **SE Mobile** - Dans la liste déroulante, sélectionnez un ou plusieurs systèmes d’exploitation mobiles répertoriés. Le système d’exploitation mobile sélectionné s’affiche en dessous.
 
-   * Le visiteur utilise n’importe quel périphérique mobile
-   * Le visiteur utilise ce périphérique/système d&#39;exploitation spécifique
-   * Le visiteur n&#39;utilise aucun périphérique mobile
+   * Le visiteur utilise n’importe quel appareil mobile.
+   * Le visiteur utilise ce périphérique/système d’exploitation spécifique
+   * Le visiteur n’utilise aucun appareil mobile
 
-* **Périphérique**   - Dans la liste déroulante, sélectionnez un ou plusieurs périphériques (Apple, Samsung, LG, HTC, Nexus, Blackberry, etc.). Les périphériques sélectionnés apparaissent ci-dessous.
+* **Appareil**  - Dans la liste déroulante, sélectionnez un ou plusieurs appareils (Apple, Samsung, LG, HTC, Nexus, Blackberry, etc.). Les périphériques sélectionnés s’affichent en dessous.
 
 **Navigateur**
 
-Visiteur de cible qui utilise des types et/ou des versions de navigateur spécifiques.
+Visiteur Target qui utilise des types et/ou versions de navigateur spécifiques.
 
-* Type de navigateur : dans la liste déroulante, sélectionnez un ou plusieurs navigateurs Internet. Les navigateurs sélectionnés s’affichent ci-dessous.
-* Version du navigateur - Entrez la version du navigateur que vous souhaitez ajouter au segment. Vous pouvez sélectionner plusieurs versions en les séparant par une virgule. (L’utilisation de * comme caractère générique est autorisée).
+* Type de navigateur : dans la liste déroulante, sélectionnez un ou plusieurs navigateurs Internet . Les navigateurs sélectionnés s’affichent ci-dessous.
+* Version du navigateur : saisissez la version du navigateur que vous souhaitez ajouter au segment. Vous pouvez sélectionner plusieurs versions en les séparant par une virgule. (En utilisant &#42; comme caractère générique autorisé).
 
 ### API {#api}
 
-**Événements**  de données - visiteurs de segments qui déclenchent des Événements de données personnalisés spécifiques
+**Événements de données** - Segmenter les visiteurs qui déclenchent des événements de données personnalisées spécifiques
 
-Ajoutez la valeur de Événement à cible. Par exemple, à partir de sources de données tierces.
+Ajoutez la valeur Event que vous souhaitez cibler. Par exemple, à partir de sources de données tierces.
 
-**API de contexte utilisateur**
+**API contexte utilisateur**
 
-Appel de l’API de personnalisation Web [pour en savoir plus ici.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Appel de l’API de personnalisation web  [pour en savoir plus, cliquez ici .](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**Utilisation de caractères génériques :** lorsque vous souhaitez inclure un terme de recherche ou une URL qui contient quelque chose à l’intérieur, c’est-à-dire. &quot;[google.com](https://google.com)&quot; ou &quot;produit à terme de recherche&quot;, nous appelons cela un caractère générique et il devrait être saisi d&#39;un astérisque - ce petit type* - à chaque extrémité. Par conséquent, tout ce qui vient de [google.com](https://google.com) doit être saisi comme * [google.com](https://google.com)*
+>**Utilisation de caractères génériques -** Lorsque vous souhaitez inclure un terme de recherche ou une URL qui contient quelque chose à l’intérieur, c’est-à-dire : &quot;[google.com](https://google.com)&quot; ou &quot;produit de terme de recherche&quot;, nous appelons cela un caractère générique et il devrait être saisi avec un astérisque - ce petit gars&#42; - à chaque extrémité. Donc tout vient de [google.com](https://google.com) doit être saisi en tant que &#42; [google.com](https://google.com)&#42;
 
-## Modifier les segments {#edit-segments}
+## Modifier segments {#edit-segments}
 
 Vous pouvez modifier un segment qui a été créé.
 
@@ -310,26 +305,28 @@ Vous pouvez modifier un segment qui a été créé.
 
    ![](assets/image2014-11-12-11-3a38-3a22.png)
 
-1. Dans le tableau **Segments**, cliquez sur l&#39;icône Modifier ( ![](assets/segment-edit.png)) du segment à modifier. La page **Définir le segment** s&#39;ouvre avec le segment sélectionné.
+1. Dans le **Segments** , cliquez sur l’icône d’édition ( ![](assets/segment-edit.png)) du segment que vous souhaitez modifier. Le **Définir un segment** s’ouvre avec le segment sélectionné.
 1. Appliquez les modifications que vous souhaitez apporter au segment.
 1. Cliquez sur **Enregistrer**.
 
-## Supprimer des segments {#delete-segments}
+## Suppression de segments {#delete-segments}
 
-Vous pouvez supprimer des segments que vous avez créés.
+Vous pouvez supprimer les segments que vous avez créés.
 
-1. Sélectionnez un segment dans la page **Segments** ci-dessus.
-1. Cliquez sur l&#39;icône Supprimer ( ![](assets/segment-delete.png) ) du segment à supprimer.
-1. Un message de confirmation s’affiche, confirmant que vous êtes sur le point de supprimer le **segment**.
+1. Dans la **Segments** Sélectionnez un segment ci-dessus.
+1. Cliquez sur l’icône de suppression ( ![](assets/segment-delete.png) ) du segment que vous souhaitez supprimer.
+1. Un message de confirmation s’affiche, confirmant que vous êtes sur le point de supprimer la variable **Segment**.
 
 >[!NOTE]
-Vous ne pouvez pas supprimer un segment associé à une campagne. Vous devez d’abord supprimer la campagne, puis le segment.
+>
+>Vous ne pouvez pas supprimer un segment associé à une campagne. Vous devez d’abord supprimer la campagne, puis le segment.
 
-Super ! Maintenant que vous connaissez la section Segments, découvrons les campagnes.
+Fantastique ! Maintenant que vous comprenez la section Segments , découvrons les campagnes.
 
 >[!MORELIKETHIS]
-* [Créer un segment Web de base](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
-* [Créer une Campaign Web de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Créer une Campaign Web en zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Créer un widget Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>
+>* [Création d’un segment web de base](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+>* [Créer une campagne web de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Créer une campagne web dans la zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Créer une campagne web de widgets](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 

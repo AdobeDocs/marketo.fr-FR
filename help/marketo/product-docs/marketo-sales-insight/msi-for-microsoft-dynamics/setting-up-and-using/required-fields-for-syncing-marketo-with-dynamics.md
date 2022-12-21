@@ -1,25 +1,24 @@
 ---
 unique-page-id: 11375827
-description: Champs requis pour la synchronisation du marché avec Dynamics - Marketo Docs - Documentation sur les produits
-title: Champs requis pour synchroniser le marketing avec Dynamics
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Champs requis pour la synchronisation de Marketo avec Dynamics - Documents Marketo - Documentation du produit
+title: Champs requis pour la synchronisation de Marketo avec Dynamics
+exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Champs requis pour la synchronisation de Marketo avec Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-# Champs requis pour synchroniser le marketing avec Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
-
-Ces champs *doivent* être synchronisés avec Marketo pour que le prospect et le contact pour que Sales Insight fonctionnent :
+Ces champs *must* être synchronisé avec Marketo pour que le prospect et le contact de Sales Insight fonctionnent :
 
 * Priorité
 * Urgence
-* Note relative
+* Évaluation relative
 
-Si l’un de ces champs est manquant, un message d’erreur s’affiche dans Marketo avec le nom des champs manquants. Pour corriger ce problème, archivez votre instance pour vous assurer que les champs sont synchronisés pour **Lead** et **Contact**. Sinon, ajoutez-les.
+Si l’un de ces champs est manquant, un message d’erreur s’affiche dans Marketo avec le nom des champs manquants. Pour corriger ce problème, archivez votre instance pour vous assurer que les champs sont synchronisés pour les deux **prospect** et **Contact**. Si ce n’est pas le cas, ajoutez-les.
 
 Voici comment vérifier et ajouter des champs de synchronisation.
 
@@ -27,23 +26,23 @@ Voici comment vérifier et ajouter des champs de synchronisation.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Cliquez sur **Modifier** sur Détails de synchronisation des champs.
+1. Cliquez sur **Modifier** sur Détails de synchronisation du champ.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Sous Piste, cochez la case Priorité.
+1. Sous Piste, cochez la case Priorité .
 
    ![](assets/image2016-6-8-13-3a33-3a50.png)
 
-1. Défilez maintenant et cochez la case Urgence...
+1. Maintenant, faites défiler la page vers le bas et cochez la case Urgence ...
 
    ![](assets/image2016-6-8-13-3a35-3a22.png)
 
-1. ...et la case à cocher Note relative.
+1. ...et la case à cocher Score relatif .
 
    ![](assets/image2016-6-8-13-3a36-3a1.png)
 
-1. Cochez ensuite les cases Priorité, Urgence et Score relatif pour le contact.
+1. Cochez ensuite les cases Priorité, Urgence et Score relatif pour Contact.
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
@@ -53,7 +52,7 @@ Voici comment vérifier et ajouter des champs de synchronisation.
 
 >[!NOTE]
 >
->Veillez à patienter au moins 10 minutes pour qu’une synchronisation s’exécute avant de vérifier que vous avez corrigé le problème.
+>Veillez à attendre au moins 10 minutes qu’une synchronisation s’exécute avant de vérifier que vous avez corrigé le problème.
 
 >[!MORELIKETHIS]
 >

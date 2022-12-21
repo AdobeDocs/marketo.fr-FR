@@ -3,7 +3,6 @@ unique-page-id: 2360309
 description: Présentation des espaces de travail et des partitions de personne - Documents Marketo - Documentation du produit
 title: Présentation des espaces de travail et des partitions de personne
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
@@ -17,34 +16,32 @@ ht-degree: 3%
 
 >[!CAUTION]
 >
->Les espaces de travail peuvent être complexes à configurer. Contactez le [service d&#39;assistance de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils sont adaptés à vos besoins.
+>La configuration des espaces de travail peut être complexe. Contact [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils ont raison pour vous.
 
-Les espaces de travail sont des zones distinctes dans Marketo qui contiennent des ressources marketing telles que des programmes, des landings page, des courriers électroniques, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque utilisateur a accès à un ou plusieurs espaces de travail.
+Les espaces de travail sont des zones distinctes de Marketo qui contiennent des ressources marketing telles que des programmes, des landing pages, des emails, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque utilisateur a accès à un ou plusieurs espaces de travail.
 
 >[!NOTE]
 >
 >**Exemple**
 >
->Voici quelques raisons pour lesquelles vous pouvez utiliser un espace de travail :
+>Pour certaines raisons, vous pouvez utiliser un espace de travail :
 >
->* Géographie : Les départements marketing d&#39;Europe, d&#39;Asie et d&#39;Amérique du Nord ont chacun un espace de travail
->* Unité opérationnelle : Rapide, Quickbooks et TurboTax ont chacun un espace de travail
-
+>* Géographie : Les départements marketing d’Europe, d’Asie et d’Amérique du Nord ont chacun un espace de travail
+>* Unité opérationnelle : Des livres rapides, des livres rapides et des Turbo Tax ont chacun un espace de travail
 >
->
-Dans chaque cas, la séparation est due au fait que les actifs marketing sont complètement différents. S’ils partagent des ressources marketing, les espaces de travail peuvent ne pas être l’outil approprié pour vous.
+>Dans chaque cas, la séparation est due au fait que les ressources marketing sont complètement différentes. S’ils partagent des ressources marketing, les espaces de travail peuvent ne pas être l’outil idéal pour vous.
 
 >[!NOTE]
 >
->Découvrez comment créer [un nouvel espace de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Découvrez comment créer [créer un espace de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Partage entre espaces de travail {#sharing-across-workspaces}
 
-Voici comment partager des ressources entre différents espaces de travail. Il fonctionne de la même manière pour tout ce que vous souhaitez partager ; cet exemple montre les segmentations.
+Voici comment partager des ressources entre espaces de travail. Il fonctionne de la même manière pour tout ce que vous souhaitez partager ; cet exemple présente les segments.
 
 >[!NOTE]
 >
->Le dossier parent contenant vos ressources est le seul dossier qui peut être partagé, pas les dossiers enfants.
+>Le dossier parent contenant vos ressources est le seul dossier qui peut être partagé, et non les dossiers enfants.
 
 1. Créez un dossier.
 
@@ -54,7 +51,7 @@ Voici comment partager des ressources entre différents espaces de travail. Il f
 
    ![](assets/two.png)
 
-1. Déplacez le ou les fichiers que vous souhaitez partager dans le dossier.
+1. Déplacez la ou les ressources que vous souhaitez partager dans le dossier .
 
    ![](assets/three.png)
 
@@ -62,27 +59,27 @@ Voici comment partager des ressources entre différents espaces de travail. Il f
 
    ![](assets/four.png)
 
-1. Sélectionnez le ou les espaces de travail avec lesquels partager le dossier, puis cliquez sur **Enregistrer**. La boîte de dialogue Partager le dossier affiche uniquement les espaces de travail autorisés à la vue.
+1. Sélectionnez le ou les espaces de travail avec lesquels vous souhaitez partager le dossier et cliquez sur **Enregistrer**. La boîte de dialogue Partager le dossier affiche uniquement les espaces de travail que vous êtes autorisé à afficher.
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 
    >[!NOTE]
    >
-   >Le dossier d’origine comporte désormais une petite flèche verte indiquant qu’il a été partagé. Dans l’espace de travail partagé, le dossier comporte un cadenas indiquant qu’il est en lecture seule.
+   >Le dossier d’origine comporte désormais une petite flèche verte, indiquant qu’il a été partagé. Dans l’espace de travail partagé, le dossier comporte un cadenas, indiquant la lecture seule.
 
-Vous pouvez partager ces éléments dans les espaces de travail.
+Vous pouvez partager ces éléments dans plusieurs espaces de travail.
 
 * Modèles d’e-mail
 * Modèles de page de destination
 * Modèles
-* Campagnes dynamiques
-* [Listes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* Campagnes intelligentes
+* [Listes dynamiques](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
 * [Segmentations](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * Extraits
 
-## Clonage entre les espaces de travail {#cloning-across-workspaces}
+## Clonage dans les espaces de travail {#cloning-across-workspaces}
 
-Pour les ressources qui ne sont pas des modèles, il est préférable de les cloner en tant que ressources locales au sein d’un programme.  Avec le niveau d’accès approprié, vous pouvez faire glisser ces ressources vers un autre espace de travail :
+Pour les ressources qui ne sont pas des modèles, il est préférable de les cloner en tant que ressources locales au sein d’un programme.  Avec le niveau d’accès approprié, vous pouvez faire glisser ces ressources dans un autre espace de travail :
 
 * Programmes
 * E-mails
@@ -91,37 +88,37 @@ Pour les ressources qui ne sont pas des modèles, il est préférable de les clo
 
 >[!NOTE]
 >
->Lors du clonage de fichiers qui comportent des modèles, ces modèles doivent être partagés avec l’espace de travail de destination.
+>Lors du clonage de ressources qui comportent des modèles, ces modèles doivent être partagés avec l’espace de travail de destination.
 
 ## Déplacement de ressources vers d’autres espaces de travail {#moving-assets-to-other-workspaces}
 
-Pour déplacer des fichiers vers un nouvel espace de travail, placez-les dans un dossier et faites glisser le dossier vers l’autre espace de travail.
+Pour déplacer des ressources vers un nouvel espace de travail, placez-les dans un dossier et faites glisser le dossier vers l’autre espace de travail.
 
 >[!NOTE]
 >
->Vous ne pouvez pas déplacer un programme qui contient des membres d&#39;un espace de travail à un autre.
+>Vous ne pouvez pas déplacer un programme contenant des membres d’un espace de travail vers un autre.
 
 ## Répartitions de l&#39;individu {#person-partitions}
 
-Les partitions de personne agissent comme des bases de données distinctes. Chaque partition a ses propres personnes qui ne dédupliquent pas ou ne se mélangent pas avec d&#39;autres partitions. Si vous estimez que vous avez un cas d&#39;utilisation commerciale qui peut nécessiter l&#39;utilisation d&#39;enregistrements de duplicata avec la même adresse électronique, veuillez contacter le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+Les partitions de personne agissent comme des bases de données distinctes. Chaque partition a sa propre population qui ne déduplique pas ou ne mélange pas avec d&#39;autres partitions. Si vous pensez que vous avez un cas d’utilisation commerciale qui peut nécessiter la duplication d’enregistrements avec la même adresse email, veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-Vous pouvez affecter des partitions de personne à [espaces de travail](create-a-new-workspace.md) dans les configurations suivantes :
+Vous pouvez affecter des partitions à des personnes.  [espaces de travail](create-a-new-workspace.md) dans les configurations suivantes :
 
-* un espace de travail à une partition individuelle (1:1)
+* un espace de travail à une partition par personne (1:1)
 * un espace de travail pour plusieurs partitions (1:x)
-* plusieurs espaces de travail sur une partition individuelle (x:1)
+* de nombreux espaces de travail à une seule partition (x:1) ;
 
 >[!NOTE]
 >
 >Raisons pour lesquelles vous utiliseriez une partition de personne :
 >
->* Vos espaces de travail ont non seulement des ressources différentes, mais ils ne partagent pas non plus de personnes.
->* Vous voulez des duplicata pour d&#39;autres raisons commerciales
+>* Vos espaces de travail ne contiennent pas seulement des ressources différentes, mais ne partagent pas non plus de personnes.
+>* Vous souhaitez des doublons pour d’autres raisons commerciales.
 
 
 >[!CAUTION]
 >
->Les partitions personnelles n&#39;interagissent pas les unes avec les autres, soyez donc prudent lors de leur configuration.
+>Les partitions personnelles n&#39;interagissent pas entre elles, soyez donc prudent lors de leur configuration.
 
 >[!NOTE]
 >

@@ -1,66 +1,65 @@
 ---
 unique-page-id: 2359819
-description: Utiliser des codes promotionnels pour l'exécution des Offres - Documents marketing - Documentation du produit
-title: Utiliser des codes promotionnels pour l'exécution des Offres
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Utiliser des codes promotionnels pour la réalisation d’offres - Documents Marketo - Documentation du produit
+title: Utiliser des codes promotionnels pour l’exécution des offres
+exl-id: 71cfc1c5-ecd3-435f-8c8c-1a93478fe80c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
+# Utiliser des codes promotionnels pour l’exécution des offres {#use-promo-codes-for-offer-fulfillment}
 
-# Utiliser des codes promotionnels pour l&#39;exécution des Offres {#use-promo-codes-for-offer-fulfillment}
+Lorsque vous créez une offre de référence ou un tirage, vous pouvez envoyer un code de promotion (bon de réduction) à chaque gagnant. Pour échanger leur récompense, ils utilisent le code, par exemple, sur la page de passage en caisse d’un achat sur votre site.
 
-Lorsque vous créez une offre de référence ou un tirage, vous pouvez envoyer un code de promotion (bon) à chaque gagnant. Pour échanger leur récompense, ils utilisent le code, par exemple, sur la page de passage en caisse d’un achat sur votre site.
-
-## Télécharger les codes promotionnels {#upload-promo-codes}
+## Télécharger des codes promotionnels {#upload-promo-codes}
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez l’offre de référence, puis cliquez sur **Modifier le brouillon**.
+1. Sélectionnez l’offre de parrainage, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. Dans l’éditeur d’offres de référence, accédez à **Paramètres de l’application**, puis **Détails de l’Offre**.
+1. Dans l&#39;éditeur d&#39;offres de parrainage, accédez à **Paramètres de l’application** puis **Détails de l’offre**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
-1. Sous Courriers électroniques, sélectionnez **Utiliser les codes promotionnels** et sous Codes de téléchargement, cliquez sur **Parcourir** pour sélectionner le fichier de codes promotionnels dans votre système.
+1. Sous Emails, sélectionnez **Utiliser des codes promotionnels**, puis sous Télécharger des codes, cliquez sur **Parcourir** pour sélectionner le fichier de codes promotionnels sur votre système.
 
    ![](assets/image2015-4-22-12-3a52-3a43.png)
 
-1. Le fichier de codes promotionnels doit être un fichier texte ASCII simple avec un code par ligne et une extension de nom de fichier .txt. Par exemple :
+1. Le fichier de codes promotionnels doit être un fichier texte ASCII brut avec un code par ligne et une extension de nom de fichier .txt. Par exemple :
 
    ![](assets/image2015-4-22-13-3a2-3a23.png)
 
    >[!CAUTION]
    >
-   >Tout espace blanc dans le fichier de codes promotionnels est traité comme faisant partie du code de cette ligne. Veillez à éviter les espaces à la fin de chaque ligne.
+   >Tout espace blanc dans le fichier de codes promotionnels est traité comme faisant partie du code sur cette ligne. Veillez tout particulièrement à éviter les espaces à la fin de chaque ligne.
 
-1. Une fois le transfert terminé, le nombre total de codes téléchargés s’affiche.
+1. Une fois le transfert terminé, le nombre total de codes transférés s’affiche.
 
    ![](assets/image2015-4-22-13-3a8-3a31.png)
 
-## Vérifier les codes promotionnels envoyés {#review-sent-promo-codes}
+## Examiner les codes promotionnels envoyés {#review-sent-promo-codes}
 
-Une fois que les participants ont début de recevoir votre récompense d&#39;offre, vous pouvez voir quels codes promotionnels ont été envoyés à qui et quand.
+Une fois que les participants commencent à recevoir votre récompense d’offre, vous pouvez voir quels codes promotionnels ont été envoyés à qui et quand.
 
 >[!NOTE]
 >
->Seuls les utilisateurs du marketing disposant de l&#39;autorisation _Access Awards_ ont accès à ces informations. Voir [Gestion des rôles et des autorisations des utilisateurs](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Uniquement les utilisateurs de Marketo avec _Accéder aux prix_ ont accès à ces informations. Voir  [Gestion des rôles et des autorisations des utilisateurs](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez votre offre de référence ou votre tirage, puis cliquez sur l&#39;onglet **Participants**.
+1. Sélectionnez votre offre de référence ou votre tirage, puis cliquez sur le bouton **Participants** .
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. Vous devriez voir ici quelques entrées. Cliquez sur le numéro de la colonne **Codes promotionnels** pour afficher les codes promotionnels qui ont été envoyés à ce participant et quand.
+1. Vous devriez voir ici quelques entrées. Cliquez sur le nombre indiqué dans la variable **Codes promotionnels** pour afficher les codes promotion qui ont été envoyés à ce participant et le moment où.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)

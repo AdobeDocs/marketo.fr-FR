@@ -1,41 +1,40 @@
 ---
 unique-page-id: 11380774
-description: Note de compte - Documentation sur le marketing - Documentation du produit
-title: Note de compte
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Score de compte - Documents Marketo - Documentation du produit
+title: Évaluation du compte
+exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Évaluation du compte {#account-score}
 
-# Note de compte {#account-score}
-
-La notation de compte est un élément essentiel de la gestion des comptes de Cible. Il vous permet de déterminer le niveau d’engagement de vos comptes.
+La notation de compte est un élément essentiel de la gestion de compte Target. Cela vous aide à déterminer le niveau d’engagement de vos comptes.
 
 ## Qu’est-ce que la notation de compte ? {#what-is-account-scoring}
 
-Il s&#39;agit d&#39;une approche systématique conçue pour aider les équipes de vente et de marketing à identifier et à classer par priorité les sociétés (y compris les prospects) les plus susceptibles de faire un achat.
+Il s’agit d’une approche systématique conçue pour aider les équipes de vente et de marketing à identifier et à prioriser les entreprises (y compris les prospects) les plus susceptibles de faire un achat.
 
-Dans le monde complexe des processus d&#39;achat B2B, il est rare qu&#39;une seule personne prenne une décision d&#39;achat. Il y a souvent divers rôles en jeu, chacun avec ses propres besoins. La notation basée sur le compte en tient compte en agrégeant les scores de piste de plusieurs pistes et en fournissant un score au niveau du compte.
+Dans le monde complexe des processus d’achat B2B, il est rare qu’une seule personne prenne une décision d’achat. Il y a souvent différents rôles impliqués, chacun ayant ses propres besoins. La notation basée sur les comptes prend cela en compte en agrégeant les scores de piste de plusieurs pistes et en fournissant un score au niveau du compte.
 
 ## Exemples courants {#common-examples}
 
 <table> 
  <tbody>
   <tr>
-   <td><strong>Note sur l’engagement du compte</strong></td> 
-   <td>Profondeur de l’engagement en fonction des activités comportementales suivies sur différents canaux (par exemple, courriel, web et publicité) par les personnes appartenant à des comptes de cible spécifiques.</td>
+   <td><strong>Score d'engagement</strong></td> 
+   <td>Profondeur de l’engagement basée sur les activités comportementales suivies sur différents canaux (par exemple, e-mail, web, publicité) par les personnes dans des comptes cibles spécifiques.</td>
   </tr>
   <tr>
    <td><strong>Score d’intérêt du produit du compte</strong></td>
-   <td>Les personnes des comptes de cible qui s'intéressent au contenu d'un produit spécifique (par exemple, le téléchargement d'un livre blanc).</td> 
+   <td>Les personnes issues de comptes cibles qui montrent un intérêt pour le contenu d’un produit spécifique (par exemple, le téléchargement d’un livre blanc).</td> 
   </tr>
   <tr>
-   <td><strong>Note d’engagement Web du compte</strong></td>
-   <td>Des personnes de comptes de cible visitant le canal Web. Il est possible de créer le même score pour mesurer l’engagement du canal à partir de la messagerie électronique, de la publicité ou d’autres canaux.</td> 
+   <td><strong>Score d’engagement web du compte</strong></td>
+   <td>Personnes provenant de comptes cibles visitant le canal web. Un même score peut être créé pour mesurer l’engagement des canaux à partir du courrier électronique, de la publicité ou d’autres canaux.</td> 
   </tr>
  </tbody>
 </table>
@@ -44,12 +43,12 @@ Dans le monde complexe des processus d&#39;achat B2B, il est rare qu&#39;une seu
 
 >[!NOTE]
 >
->Pour calculer des scores de compte, vous devez d’abord créer des scores de piste. Marketo TAM automatiquement les agrégats conduisent les scores aux scores du compte. À titre d’exemple, nous allons prendre deux des exemples ci-dessus (_Note d’intérêt du produit du compte_ et _Note d’engagement Web du compte_).
+>Pour calculer les scores du compte, vous devez d’abord créer des scores de piste. Marketo TAM agrège automatiquement les scores de piste aux scores du compte. À titre d’exemple, nous allons prendre deux des exemples ci-dessus (_Score d’intérêt du produit du compte_ et _Score d’engagement web du compte_).
 >
->Tout d&#39;abord, créez des champs de score de piste qui capturent les détails pertinents de chaque piste d&#39;un compte de cible.\
+>Créez tout d’abord des champs de score de piste qui capturent les détails pertinents de chaque piste d’un compte cible.\
 >Attribuez ensuite ces scores de piste à leurs scores de compte respectifs :\
->Score d’intérêt du produit du compte = SOMME (Score d’intérêt du produit du prospect)\
->Note d&#39;engagement Web du compte = SOMME (note d&#39;engagement Web de piste)
+>Score d’intérêt du produit du compte = SOMME (Score d’intérêt du produit de piste)\
+>Score d’engagement Web du compte = SOMME (Score d’engagement Web de piste)
 
 >[!NOTE]
 >
@@ -57,23 +56,23 @@ Dans le monde complexe des processus d&#39;achat B2B, il est rare qu&#39;une seu
 
 Une fois que vous avez configuré le score de piste, procédez comme suit.
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur **Gestion du compte de Cible**.
+1. Cliquez sur **Gestion de compte Target**.
 
    ![](assets/account-score-2.png)
 
-1. Dans Champs de score, cliquez sur **Modifier**.
+1. Dans les champs de notation, cliquez sur **Modifier**.
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >Vous pouvez sélectionner jusqu’à **cinq champs** pour calculer la note du compte.
+   >Vous pouvez choisir jusqu’à **cinq** pour calculer la note du compte.
 
-1. Saisissez le nom de la note de compte, cliquez sur la liste déroulante **Sélectionner une note de personne** et sélectionnez la note correspondante.
+1. Saisissez le nom du score du compte, puis cliquez sur le bouton **Sélectionner le score de personne** et sélectionnez le score correspondant.
 
    ![](assets/four.png)
 
@@ -81,6 +80,6 @@ Une fois que vous avez configuré le score de piste, procédez comme suit.
 
    ![](assets/five.png)
 
-1. Ajoutez tous les scores souhaités. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Ajoutez tous les scores souhaités. Cliquez sur **Enregistrer** une fois terminé.
 
    ![](assets/six.png)

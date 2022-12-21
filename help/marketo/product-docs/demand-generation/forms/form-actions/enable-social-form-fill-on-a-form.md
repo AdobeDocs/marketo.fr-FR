@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359616
-description: Activer le remplissage de formulaires sur un formulaire - Documents marketing - Documentation du produit
-title: Activer le remplissage de formulaires sur les réseaux sociaux dans un formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Activation de l’option Remplir un formulaire pour les réseaux sociaux - Documents Marketo - Documentation du produit
+title: Activer le remplissage d’un formulaire de réseau social
+exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Activer le remplissage d’un formulaire de réseau social {#enable-social-form-fill-on-a-form}
 
-# Activer le remplissage d’un formulaire Social sur un formulaire {#enable-social-form-fill-on-a-form}
-
-Permettre à vos visiteurs de remplir le formulaire à l’aide de leur réseau social. Vous obtiendrez automatiquement des données supplémentaires et elles seront plus rapides.
+Permet aux visiteurs de remplir le formulaire à l’aide de leur réseau social. Vous obtiendrez automatiquement des données supplémentaires et elles bénéficieront d’une expérience plus rapide.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
 1. Accédez à **Activités marketing**.
 
@@ -27,17 +26,17 @@ Permettre à vos visiteurs de remplir le formulaire à l’aide de leur réseau 
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Sous **Formulaire** **Paramètres** cliquez sur **Paramètres**.
+1. Sous **Formulaire** **Paramètres** cliquer sur **Paramètres**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
-1. Vérifiez les boutons de réseau social que vous souhaitez inclure.
+1. Cochez les boutons des réseaux sociaux que vous souhaitez inclure.
 
    ![](assets/image2016-4-28-16-3a38-3a58.png)
 
    >[!TIP]
    >
-   >Regardez ce que [data Marketo capturera](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si les utilisateurs utilisent les boutons de réseau social.
+   >Découvrez ce que [données que Marketo va capturer](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si les utilisateurs utilisent les boutons de réseaux sociaux.
 
 1. Cliquez sur **Terminer**.
 

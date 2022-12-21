@@ -1,33 +1,32 @@
 ---
 unique-page-id: 14352540
-description: Prévention des auto-Vues - Docs marketing - Documentation du produit
-title: Prévention des Vues personnelles
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Prévention des auto-vues - Documents Marketo - Documentation du produit
+title: Prévention des auto-vues
+exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
+# Prévention des auto-vues {#preventing-self-views}
 
-# Prévention des Vues personnelles {#preventing-self-views}
+## APERÇU {#overview}
 
-## Aperçu {#overview}
-
-L’obtention de faux positifs sur le suivi des vues peut entraîner des incohérences de rapports. Cela se produit souvent lorsque les utilisateurs du SMC invoquent accidentellement le pixel de suivi à partir de leur client de messagerie (nous appelons cela une vue automatique). Vous trouverez ci-dessous quelques conseils sur la réduction et même l&#39;élimination des vues autonomes.
+L’obtention de faux positifs sur votre suivi des vues peut entraîner des incohérences dans les rapports. Cela se produit souvent lorsque les utilisateurs de MSC invoquent accidentellement le pixel de suivi depuis leur client de messagerie (nous appelons cela une auto-visualisation). Vous trouverez ci-dessous quelques conseils pour réduire et même éliminer de manière significative les auto-visions.
 
 ## Web (Outlook Web App et Gmail) {#web-outlook-web-app-and-gmail}
 
-Sales Connect stockera un cookie dans votre navigateur afin d&#39;empêcher le suivi des vues lors de l&#39;ouverture de vos courriels à partir d&#39;Outlook Web App et de Gmail. Si vous recevez toujours des vues personnelles, nous vous recommandons de procéder comme suit :
+Sales Connect stocke un cookie dans votre navigateur afin d’empêcher le suivi des vues lors de l’ouverture de vos emails à partir d’Outlook Web App et de Gmail. Si vous recevez toujours des vues d’ensemble, nous vous recommandons de procéder comme suit :
 
-* Assurez-vous que les cookies sont activés sur votre ordinateur.
+* Vérifiez que les cookies sont activés sur votre ordinateur.
 
-* Si vous utilisez un nouvel ordinateur ou périphérique mobile, assurez-vous que vous êtes connecté à l’application Web. Cela nous permettra de reconnaître votre ordinateur ou votre périphérique à l&#39;avenir.
+* Si vous utilisez un nouvel ordinateur ou un nouvel appareil mobile, vérifiez que vous êtes connecté à l’application web. Cela nous permettra de reconnaître votre ordinateur/appareil à l’avenir.
 
 ## Bureau (Windows) {#desktop-windows}
 
-Le suivi des vues s’effectue en téléchargeant un petit pixel d’image invisible dans votre client de messagerie. Vous pouvez réduire de manière significative le nombre d&#39;auto-vues dans Outlook en désactivant les images à télécharger automatiquement. Voici les étapes à suivre.
+Les vues sont suivies en téléchargeant un petit pixel d’image invisible dans votre client de messagerie. Vous pouvez réduire de manière significative le nombre d’auto-vues dans Outlook en désactivant les images à télécharger automatiquement. Vous trouverez ci-dessous les étapes à suivre.
 
 1. Dans Outlook, cliquez sur **Fichier** dans la barre de menus.
 
@@ -37,15 +36,15 @@ Le suivi des vues s’effectue en téléchargeant un petit pixel d’image invis
 
    ![](assets/win-2.png)
 
-1. Dans la boîte de dialogue Options Outlook, cliquez sur **Centre de gestion de la confidentialité**.
+1. Dans la boîte de dialogue Options Outlook, cliquez sur **Centre de gestion**.
 
    ![](assets/win-3.png)
 
-1. Sous Centre de gestion de la confidentialité Microsoft Outlook, cliquez sur **Paramètres du Centre de gestion de la confidentialité**.
+1. Sous Microsoft Outlook Trust Center, cliquez sur **Paramètres du Centre de gestion de la confidentialité**.
 
    ![](assets/win-4.png)
 
-1. Cliquez sur Téléchargement automatique dans le menu de gauche, puis cochez la case **Ne pas télécharger automatiquement les images dans les courriels HTML ou les éléments RSS**.
+1. Cliquez sur Téléchargement automatique dans le menu de gauche, puis sélectionnez l’option **Ne téléchargez pas automatiquement des images dans un email de HTML ou des éléments RSS** .
 
    ![](assets/win-5.png)
 
@@ -59,16 +58,16 @@ Le suivi des vues s’effectue en téléchargeant un petit pixel d’image invis
 
 ## Bureau (Mac) {#desktop-mac}
 
-Le suivi des vues s’effectue en téléchargeant un petit pixel d’image invisible dans votre client de messagerie. Vous pouvez réduire de manière significative le nombre d&#39;auto-vues dans Outlook en désactivant les images à télécharger automatiquement. Voici les étapes à suivre.
+Les vues sont suivies en téléchargeant un petit pixel d’image invisible dans votre client de messagerie. Vous pouvez réduire de manière significative le nombre d’auto-vues dans Outlook en désactivant les images à télécharger automatiquement. Vous trouverez ci-dessous les étapes à suivre.
 
-1. Dans Outlook, cliquez sur **Outlook** dans la barre de menus et sélectionnez **Préférences**.
+1. Dans Outlook, cliquez sur **Outlook** dans la barre de menus, puis sélectionnez **Préférences**.
 
    ![](assets/mac-1.png)
 
-1. Sous Courriel, sélectionnez **Lecture**.
+1. Sous Courrier électronique, choisissez **Lire**.
 
    ![](assets/mac-2.png)
 
-1. Sous Sécurité, cliquez sur le bouton radio **Jamais**.
+1. Sous Sécurité, cliquez sur le **Jamais** bouton radio.
 
    ![](assets/mac-3.png)

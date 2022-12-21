@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359474
-description: Modifier une segmentation - Documents marketing - Documentation du produit
+description: Modification d’une segmentation - Documents Marketo - Documentation du produit
 title: Modification d’une segmentation
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
+# Modification d’une segmentation {#edit-a-segmentation}
 
-# Modifier une segmentation {#edit-a-segmentation}
+Il est facile d’apporter des modifications à vos segments existants. Voici le bas.
 
-Il est facile d’apporter des modifications à vos segments existants. Voici le bas vers le bas.
+## Création d’un brouillon de segmentation {#create-a-segmentation-draft}
 
-## Créer un brouillon de segmentation {#create-a-segmentation-draft}
-
-1. Accédez à la **base de données**.
+1. Accédez au **Base**.
 
    ![](assets/db.png)
 
-1. Dans la segmentation, cliquez sur **Actions de segmentation**, puis sur **Créer un brouillon**.
+1. Dans votre segmentation, cliquez sur **Actions de segmentation** puis **Créer un brouillon**.
 
    ![](assets/two.png)
 
-1. Le **statut** passe à Approuvé avec brouillon. Un dossier **Draft** est créé dans votre segmentation.
+1. Le **État** passe à Approuvé avec brouillon. A **Version préliminaire** est créé dans votre segmentation.
 
    ![](assets/three.png)
 
-## Ajouter, modifier ou supprimer des segments {#add-edit-or-delete-segments}
+## Ajout, modification ou suppression de segments {#add-edit-or-delete-segments}
 
-1. Dans votre segmentation, cliquez sur **Actions de segmentation**, puis **Modifier les segments**.
+1. Dans votre segmentation, cliquez sur **Actions de segmentation** puis **Modifier des segments**.
 
    ![](assets/four.png)
 
@@ -39,7 +38,7 @@ Il est facile d’apporter des modifications à vos segments existants. Voici le
    >
    >Vous pouvez uniquement modifier les segments d’un brouillon et non la segmentation approuvée.
 
-1. **Ajoutez Segment**,  **** Modifiez existant (renommez ou modifiez l’ordre) ou  **** supprimez des segments.
+1. **Ajouter un segment**, **Modifier** existant (renommez ou modifiez l’ordre) ou **Supprimer** tout segment.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,11 +48,11 @@ Il est facile d’apporter des modifications à vos segments existants. Voici le
 
    >[!CAUTION]
    >
-   >La suppression affecte tout le contenu dynamique associé dans les courriers électroniques, les Landings page et les extraits de code. **Il n&#39;y a pas d&#39;annulation**. Consultez l’onglet **Utilisé par** pour savoir quelle est l’utilisation de ce segment.
+   >La suppression a un impact sur l’ensemble du contenu dynamique associé dans les emails, les pages d’entrée et les fragments de code. **Aucune annulation**. Vérifiez les **Utilisé par** pour voir ce qui utilise ce segment.
 
-## Modifier les règles de segment {#edit-segment-rules}
+## Modifier des règles de segment {#edit-segment-rules}
 
-1. Dans votre brouillon **Segment**, accédez à **Liste dynamique**. Appliquez des règles similaires à [Définition de règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. Dans votre version préliminaire **Segment**, accédez à **Liste dynamique**. Appliquer des règles similaires à [Définition de règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -63,9 +62,9 @@ Il est facile d’apporter des modifications à vos segments existants. Voici le
 
    >[!NOTE]
    >
-   >N’oubliez pas d’approuver votre brouillon de segmentation.
+   >N’oubliez pas d’approuver votre version préliminaire de segmentation.
 
-N’hésitez pas à tester les segmentations qui ne sont pas utilisées dans le contenu dynamique.
+N’hésitez pas à expérimenter des segments qui ne sont pas utilisés dans le contenu dynamique.
 
 >[!MORELIKETHIS]
 >

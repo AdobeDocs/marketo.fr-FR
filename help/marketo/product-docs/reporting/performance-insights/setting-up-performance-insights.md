@@ -1,61 +1,60 @@
 ---
 unique-page-id: 12981145
-description: Configuration des statistiques de performances - Documentation sur le marketing - Documentation sur le produit
-title: Configuration des statistiques de performances
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Configuration des informations de performances - Documents Marketo - Documentation du produit
+title: Configuration des informations de performances
+exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Configuration des statistiques de performances {#setting-up-performance-insights}
+# Configuration des informations de performances {#setting-up-performance-insights}
 
 Suivez les étapes ci-dessous pour configurer MPI.
 
-## Configuration de l&#39;opportunité {#opportunity-setup}
+## Configuration de l’opportunité {#opportunity-setup}
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/admin.png)
 
-1. Cliquez sur **Analyses du cycle de recettes**.
+1. Cliquez sur **Analyse du cycle des recettes**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Si vous n’avez pas d’autorité de certification régionale, vous devez sélectionner **Analyse de Programme** pour l’étape 2.
+   >Si vous ne disposez pas d’une autorité de certification, vous devez sélectionner **Analyse de programme** pour l’étape 2.
 
 1. Sous Attribution, cliquez sur **Modifier**.
 
    ![](assets/three-1.png)
 
-1. Les paramètres d’attribution s’affichent.
+1. Paramètres d’attribution s’affiche.
 
    ![](assets/four-2.png)
 
-   Si l’attribution est explicite, assurez-vous que le rôle de contact d’opportunité a été renseigné (via le point de terminaison du rôle d’opportunité ou via l’intégration CRM).
+   Si l’attribution est explicite, assurez-vous que le rôle Contact d’opportunité a été renseigné (via le point de terminaison Rôle d’opportunité ou via l’intégration CRM).
 
-   Si l&#39;attribution est implicite, assurez-vous que le champ de société de l&#39;prospect/contact est identique à celui du nom du compte de l&#39;opportunité.
+   Si l’attribution est implicite, assurez-vous que le champ de société sur l’prospect/contact est identique au Nom du compte de l’opportunité.
 
    >[!NOTE]
    >
    >Assurez-vous que les champs appropriés sont renseignés pour toutes les opportunités :
    >
-   >* Montant de l&#39;opportunité
+   >* Quantité d&#39;opportunités
    >* Est fermé
-   >* Est gagné
-   >* Date de création (peut ne pas être définie dans votre cas)
-   >* Date de fermeture (cette date peut ne pas être définie dans votre cas)
-   >* Type d&#39;opportunité
+   >* Est confirmé
+   >* Date de création (cette valeur peut ne pas être définie dans votre cas)
+   >* Date de fermeture (cette valeur peut ne pas être définie dans votre cas)
+   >* Type de l&#39;opportunité
 
 
 ## Configuration du programme {#program-setup}
 
-Mettez à jour les coûts du programme pendant au moins 12 mois. Vous pouvez effectuer cette opération manuellement ou à l’aide de l’API de programme. Dans cet exemple, nous le faisons manuellement.
+Mettre à jour les coûts du programme pendant au moins 12 mois. Vous pouvez le faire manuellement ou à l’aide de l’API de programme. Dans cet exemple, nous le faisons manuellement.
 
 1. Cliquez sur **Activités marketing**.
 
@@ -65,15 +64,15 @@ Mettez à jour les coûts du programme pendant au moins 12 mois. Vous pouvez eff
 
    ![](assets/select-program.png)
 
-1. Cliquez sur l&#39;onglet **Configuration**.
+1. Cliquez sur le bouton **Configuration** .
 
    ![](assets/setup-tab.png)
 
-1. Faites glisser **Coût de la période** sur le canevas.
+1. Faire glisser **Coût de la période** sur la zone de travail.
 
    ![](assets/period-cost.png)
 
-1. Définissez le mois du Programme pour il y a au moins 12 mois et cliquez sur **Ok**.
+1. Définissez le mois du programme pour il y a au moins 12 mois et cliquez sur **Ok**.
 
    ![](assets/set-period.png)
 
@@ -83,7 +82,7 @@ Mettez à jour les coûts du programme pendant au moins 12 mois. Vous pouvez eff
 
 Ensuite, passez en revue le comportement des analyses pour indiquer si un canal particulier doit être inclus dans les analyses. Définissez le comportement d’Analytics (normal, inclusif, opérationnel).
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/admin.png)
 
@@ -91,15 +90,15 @@ Ensuite, passez en revue le comportement des analyses pour indiquer si un canal 
 
    ![](assets/tags.png)
 
-1. Cliquez sur **+** pour développer la liste de Canal.
+1. Cliquez sur le bouton **+** pour développer la liste Canal .
 
    ![](assets/channel.png)
 
-1. Doublon-cliquez sur le canal de votre choix.
+1. Double-cliquez sur le canal souhaité.
 
    ![](assets/channel-click.png)
 
-1. Cliquez sur la liste déroulante **Comportement Analytics** et sélectionnez le comportement souhaité.
+1. Cliquez sur le bouton **Comportement d’Analytics** et sélectionnez le comportement souhaité.
 
    ![](assets/edit-channel.png)
 
@@ -111,11 +110,11 @@ Ensuite, passez en revue le comportement des analyses pour indiquer si un canal 
 
    ![](assets/save.png)
 
-## Lier le Programme à la personne {#tie-the-program-to-the-person}
+## Associer le programme à la personne {#tie-the-program-to-the-person}
 
-1. Assurez-vous que le Programme d’acquisition et la date d’acquisition ont été définis pour chaque personne de votre base de données afin que l’attribution Première touche fonctionne.
+1. Assurez-vous que le programme d’acquisition et la date d’acquisition ont été définis pour chaque personne de votre base de données afin que l’attribution Première touche fonctionne.
 1. Assurez-vous que vos programmes définissent des états de réussite pour vos employés.
 
 >[!NOTE]
 >
->Les changements effectués ne sont pas instantanés. Une période d&#39;une nuit est nécessaire avant que les modifications ne prennent effet.
+>Les changements apportés ne sont pas instantanés. Une période de nuit est nécessaire avant que les modifications ne prennent effet.

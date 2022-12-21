@@ -60,7 +60,7 @@ Si vous disposez de plusieurs abonnements, vous pouvez disposer de plusieurs pro
 
 ## Plateforme mobile {#mobile-platform}
 
-Les utilisateurs disposant d’un ID universel peuvent consulter leurs données sur les moments Marketo et l’application d’archivage des événements iPad à partir de l’abonnement qu’ils ont ouvert pour la dernière fois. Vous ne pouvez pas modifier les abonnements à partir de la plateforme mobile elle-même.
+Les utilisateurs disposant d’un ID universel peuvent consulter leurs données sur les moments Marketo et l’application d’archivage des événements iPad depuis l’abonnement qu’ils ont ouvert pour la dernière fois. Vous ne pouvez pas modifier les abonnements à partir de la plateforme mobile elle-même.
 
 >[!MORELIKETHIS]
 >

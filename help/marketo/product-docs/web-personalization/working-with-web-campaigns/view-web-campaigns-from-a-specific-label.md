@@ -1,37 +1,36 @@
 ---
 unique-page-id: 4720075
-description: Vue de campagnes Web à partir d'une étiquette spécifique - Documents marketing - Documentation du produit
-title: Vue de campagnes Web à partir d'une étiquette spécifique
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Affichage des campagnes web à partir d’un libellé spécifique - Documents Marketo - Documentation du produit
+title: Affichage des campagnes web à partir d’un libellé spécifique
+exl-id: 2611c79f-eb12-4597-9394-8749903f494c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
+# Affichage des campagnes web à partir d’un libellé spécifique {#view-web-campaigns-from-a-specific-label}
 
-# Campagnes Web de vue à partir d&#39;une étiquette spécifique {#view-web-campaigns-from-a-specific-label}
+Vous souhaitez afficher et filtrer vos campagnes selon un libellé spécifique ?
 
-Vous souhaitez vue et filtrer vos campagnes selon une étiquette spécifique ?
-
-## Filtrage par étiquettes existantes {#filter-by-existing-labels}
+## Filtrage par libellé existant {#filter-by-existing-labels}
 
 1. Accédez à **Campagnes Web**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
-1. Dans la liste déroulante des étiquettes, sélectionnez l’étiquette de votre choix.
+1. Dans la liste déroulante Libellés , sélectionnez le libellé de votre choix.
 
    ![](assets/web-campaigns-my-campaigns-dropdown-1.jpg)
 
-1. Remarquez maintenant que nous ne vous montrons que les campagnes associées à l&#39;étiquette sélectionnée ?
+1. Notez maintenant que seules les campagnes associées au libellé sélectionné sont affichées ?
 
    ![](assets/web-campaigns-label-showing-1.jpg)
 
 >[!MORELIKETHIS]
 >
->* [Étiqueter vos campagnes Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
->* [Segments de vue à partir d&#39;une étiquette spécifique](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Étiqueter vos campagnes web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Affichage de segments à partir d’une étiquette spécifique](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [Étiqueter vos segments](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 

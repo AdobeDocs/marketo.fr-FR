@@ -1,56 +1,55 @@
 ---
 unique-page-id: 2949281
-description: Émettre une licence d'Ajoute électronique Marketo - Docs Marketo - Documentation du produit
-title: Émettre une licence d'Ajoute électronique de marketing à envoyer
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Émettre une licence de module complémentaire de messagerie Marketo - Documents Marketo - Documentation du produit
+title: Envoi d’une licence de module complémentaire de messagerie Marketo
+exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '296'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Envoi d’une licence de module complémentaire de messagerie Marketo {#issue-a-marketo-email-add-in-license}
 
-# Émettre une licence d&#39;Ajoute électronique de marketing à {#issue-a-marketo-email-add-in-license}
+Quiconque souhaite utiliser le module complémentaire Marketo Email Outlook doit d’abord recevoir une licence. Il existe deux façons de fournir la licence.
 
-Quiconque souhaite utiliser l&#39;Ajoute d&#39;Outlook de courriel de marketing doit d&#39;abord se voir attribuer une licence. Il existe deux façons de fournir la licence.
-
-* **[Installation](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)** de clé d&#39;entreprise : Utilisez cette méthode lorsque les commerciaux n&#39;ont pas de droits d&#39;administrateur sur leurs ordinateurs portables d&#39;entreprise et ne peuvent pas installer de modules externes, de logiciels, etc. à ce sujet. Dans ce cas, l’administrateur du marketing délivre des licences à une liste d’utilisateurs autorisés. Ensuite, l’équipe informatique déploie le module externe à distance sur tous les ordinateurs des utilisateurs autorisés à l’aide de la clé d’entreprise. L’utilisateur du module externe l’autorise ensuite.
-* **[Installation](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)** du code d&#39;enregistrement : Utilisez cette méthode lorsque les commerciaux disposent de droits d&#39;administration sur leur ordinateur portable d&#39;entreprise et peuvent installer des modules externes, des logiciels, etc. à ce sujet. Pour ce processus, l’administrateur de Marketing Cloud délivre des licences à une liste d’utilisateurs autorisés et leur envoie des courriers électroniques d’enregistrement directement avec des liens de téléchargement. Le représentant commercial reçoit un courrier électronique contenant un lien de téléchargement de module externe et une URL d’enregistrement unique.
+* **[Installation de clé d’entreprise](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**: Utilisez cette méthode lorsque les représentants commerciaux ne disposent pas des droits d’administration sur leurs ordinateurs portables professionnels et ne peuvent pas installer de modules externes, de logiciels, etc. sur celle-ci. Dans ce cas, l’administrateur Marketo émet des licences pour une liste d’utilisateurs autorisés. Ensuite, l’équipe informatique déploie le module externe à distance vers tous les ordinateurs des utilisateurs autorisés à l’aide de la clé d’entreprise. L’utilisateur du module externe l’autorise ensuite.
+* **[Installation du code d’enregistrement](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**: Utilisez cette méthode lorsque les représentants commerciaux disposent de droits d’administrateur sur leur ordinateur portable d’entreprise et peuvent installer des modules externes, des logiciels, etc. sur celle-ci. Pour ce processus, l’administrateur de Marketo émet des licences pour une liste d’utilisateurs autorisés et leur envoie des emails d’enregistrement directement avec des liens de téléchargement. Le représentant commercial reçoit un courrier électronique avec un lien de téléchargement de module externe et une URL d’enregistrement unique.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans Mon marketing, cliquez sur Admin, puis sur Sales Insight.
+1. Dans My Marketo, cliquez sur Admin, puis sur Sales Insight.
 
 ![](assets/image2015-7-20-17-3a48-3a17.png)
 
-1. Sous l&#39;onglet **Ajoute électronique**, cliquez sur **Licence de publication**.
+1. Sous , **Module complémentaire Email** , cliquez sur **Licence de publication**.
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 
-1. Entrez les adresses électroniques des commerciaux qui doivent être autorisés à utiliser le module externe et cliquez sur **Émettre une licence**.
+1. Saisissez les adresses électroniques des représentants commerciaux qui doivent être autorisés à utiliser le module externe, puis cliquez sur **Licence de publication**.
 
    ![](assets/image2016-8-31-9-3a37-3a8.png)>
 
    >[!TIP]
    >
-   >Vous pouvez entrer plusieurs adresses électroniques, séparées par une virgule.
+   >Vous pouvez saisir plusieurs adresses électroniques, séparées par une virgule.
 
    >[!NOTE]
    >
-   >Pour installer le module externe à distance, ne cochez pas la case et envoyez à votre équipe informatique votre [clé d&#39;entreprise](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
+   >Pour installer le module externe à distance, ne cochez pas la case et envoyez votre équipe informatique [Clé d’entreprise](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >Si vos commerciaux ont un accès administrateur à leur ordinateur, cochez la case et vous avez terminé !
+   >Si vos vendeurs ont un accès administrateur à leurs ordinateurs, cochez la case et vous avez terminé !
 
 >[!MORELIKETHIS]
 >
->* [Installation de l&#39;Ajoute Marketo pour Outlook avec une clé d&#39;entreprise](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
->* [Installer l&#39;Ajoute de courriel de Marketo pour Outlook avec un code d&#39;inscription](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
->* [Mettre à niveau votre Ajoute de courriel Marketing to pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
+>* [Installation du module complémentaire Marketo pour Outlook avec une clé d’entreprise](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
+>* [Installation du module complémentaire de messagerie Marketo pour Outlook avec un code d’enregistrement](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
+>* [Mettre à niveau votre complément de messagerie Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
 

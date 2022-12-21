@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359590
-description: Modifier un formulaire - Documents marketing - Documentation du produit
+description: Modifier un formulaire - Documents Marketo - Documentation du produit
 title: Modifier un formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: fb0d0a35-c9ec-430a-8dee-ec8119cfc8f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Modifier un formulaire {#edit-a-form}
 
-Si vous souhaitez apporter des modifications à un formulaire existant, voici comment démarrer le processus.
+Si vous souhaitez apporter des modifications à un formulaire existant, voici comment lancer le processus.
 
 1. Accédez à **Activités marketing**.
 
@@ -23,4 +22,4 @@ Si vous souhaitez apporter des modifications à un formulaire existant, voici co
 
    ![](assets/editform.png)
 
-Simple !
+Simple!

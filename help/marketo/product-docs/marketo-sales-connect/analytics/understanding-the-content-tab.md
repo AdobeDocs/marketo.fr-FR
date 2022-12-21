@@ -1,23 +1,22 @@
 ---
 unique-page-id: 14352615
-description: Présentation de l'onglet Contenu - Documents marketing - Documentation du produit
+description: Présentation de l’onglet Contenu - Documents Marketo - Documentation du produit
 title: Présentation de l’onglet Contenu
-translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
+# Présentation de l’onglet Contenu {#understanding-the-content-tab}
 
-# Présentation de l&#39;onglet Contenu {#understanding-the-content-tab}
+L’onglet Contenu concerne l’engagement email de votre équipe lors de l’utilisation d’un modèle. Nous créons automatiquement trois mesures que nous estimons importantes.
 
-L’onglet Contenu traite de l’engagement de votre équipe par courrier électronique lors de l’utilisation d’un modèle. Nous créons automatiquement trois mesures que nous estimons importantes.
+## arme secrète {#secret-weapon}
 
-## Arme secrète {#secret-weapon}
-
-Il s’agit d’un modèle de courrier électronique qui n’a pas encore été partagé avec l’équipe, mais qui reçoit un haut niveau d’engagement. Nous vous montrons la ligne d&#39;objet du modèle et le créateur du modèle. C&#39;est une excellente occasion de contacter ce représentant et de lui recommander de partager le modèle !
+Il s’agit d’un modèle d’email qui n’a pas encore été partagé avec l’équipe, mais qui reçoit un haut niveau d’engagement. Nous vous montrons l’objet du modèle et son créateur. C&#39;est une excellente opportunité pour contacter ce représentant et lui recommander de partager le modèle !
 
 ## Engagement le plus élevé {#highest-engagement}
 
@@ -27,6 +26,6 @@ Il s’agit du modèle partagé qui obtient le plus haut niveau d’engagement g
 
 Peut être partagé ou non, il s’agit du modèle avec le moins d’engagement.
 
-Faites défiler la page vers le bas pour afficher la section Modèles qui affiche tous les modèles utilisés par votre équipe (au cours de cette période) avec le plus de vues*.*
+Faites défiler la page vers le bas pour voir la section Modèles qui affiche tous les modèles que votre équipe a utilisés (pendant cette période) avec le plus de vues*.*
 
-Vous pouvez également afficher les principales pièces jointes envoyées par votre équipe (qui obtiennent le plus de vues) et les principaux liens (qui obtiennent le plus de clics).
+Vous pouvez également voir les principales pièces jointes que votre équipe a envoyées (obtenir le plus de vues) et les principaux liens (obtenir le plus de clics).

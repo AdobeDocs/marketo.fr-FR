@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359614
-description: Définir des valeurs dans une radio ou un champ sélectionné dans un formulaire - Documents marketing - Documentation du produit
-title: Définir des valeurs dans une radio ou un champ sélectionné dans un formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Définition de valeurs dans une radio ou un champ sélectionné dans un formulaire - Documents Marketo - Documentation du produit
+title: Définition de valeurs dans une radio ou un champ sélectionné d’un formulaire
+exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
+# Définition de valeurs dans une radio ou un champ sélectionné d’un formulaire {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-# Définir des valeurs dans une radio ou un champ sélectionné dans un formulaire {#define-values-in-a-radio-or-selected-field-in-a-form}
-
-Une fois que vous avez [défini un type de champ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) comme bouton radio ou comme type de sélection, vous voudrez définir les valeurs que l&#39;utilisateur peut sélectionner. Voici comment.
+Une fois que vous avez [définir un type de champ ;](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) pour être un bouton radio ou un type de sélection, vous souhaitez définir les valeurs que l’utilisateur peut sélectionner. Voici comment.
 
 1. Accédez à **Activités marketing**.
 
@@ -29,7 +28,7 @@ Une fois que vous avez [défini un type de champ](/help/marketo/product-docs/adm
 
    >[!NOTE]
    >
-   >La première valeur et la valeur par défaut sont toujours &quot;Sélectionner...&quot;. N&#39;hésitez pas à modifier cela. Si vous changez le bouton radio par défaut en une autre ligne, &quot;Sélectionner...&quot; ne s’affiche pas comme choix dans le formulaire.
+   >La première valeur et la valeur par défaut sont toujours &quot;Sélectionner...&quot;. N&#39;hésitez pas à modifier cela. Si vous définissez le bouton radio par défaut sur une autre ligne, sélectionnez &quot;Sélectionner...&quot;. ne s’affiche pas comme choix dans le formulaire.
 
 1. Cliquez sur pour ajouter votre valeur.
 
@@ -39,21 +38,21 @@ Une fois que vous avez [défini un type de champ](/help/marketo/product-docs/adm
    >
    >**Définition**
    >
-   >**Valeur d’affichage :** ce qui est présenté au visiteur.
+   >**Valeur d’affichage :** Ce qui est présenté au visiteur.
    >
-   >**Valeur stockée :** ce qui est enregistré dans Marketo.
+   >**Valeur stockée :** Éléments enregistrés dans Marketo.
 
 1. Ajoutez autant de valeurs que nécessaire, puis cliquez sur **Enregistrer**.
 
    >[!NOTE]
    >
-   >Si vous n’entrez pas de valeur stockée, Marketo utilisera la valeur d’affichage et la stockera.
+   >Si vous ne saisissez pas de valeur stockée, Marketo utilisera la valeur d’affichage et la stockera.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
    >[!TIP]
    >
-   >Cliquez sur **Éditeur avancé** pour copier/coller une liste de valeurs si vous le souhaitez. Cela peut être un gain de temps réel.
+   >Cliquez sur **Éditeur avancé** pour copier/coller une liste de valeurs, le cas échéant. Cela peut être un gain en temps réel.
 
 1. Cliquez sur **Terminer**.
 

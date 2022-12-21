@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2360301
-description: Définir les champs de score à utiliser pour les étoiles et les flammes dans Sales Insight - Marketo Docs - Documentation sur le produit
+description: Définir les champs de score à utiliser pour les étoiles et les flammes dans Sales Insight - Marketo Docs - Documentation du produit
 title: Définir les champs de score à utiliser pour les étoiles et les flammes dans Sales Insight
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # Définir les champs de score à utiliser pour les étoiles et les flammes dans Sales Insight {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
@@ -17,36 +16,34 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Par défaut, Marketing Sales Insight utilise le champ **Score de piste** pour calculer les étoiles et les flammes. Mais si vous voulez choisir un autre champ, voici comment :
+Par défaut, Marketo Sales Insight utilise la variable **Score de piste** pour calculer les étoiles et les flammes. Mais si vous souhaitez sélectionner un autre champ, voici comment :
 
 >[!TIP]
 >
->Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment les [créer](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+>Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment [create](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) eux.
 
 >[!NOTE]
 >
 >**Définition**
 >
->* **Etoiles** : Les étoiles représentent le score de piste total comparé aux autres pistes.
->* **Flammes** : Les flammes représentent l&#39;urgence - à quel point le score d&#39;un prospect a changé récemment.
-
+>* **Stars**: Les étoiles représentent le score de piste total par rapport aux autres pistes.
+>* **Flammes**: Les flammes représentent l&#39;urgence, à quel point le score d&#39;un prospect a changé récemment.
 >
 
 
-
-1. Sous **Admin**, cliquez sur **Sales Insight**.
+1. Sous **Administration**, cliquez sur **Statistiques des ventes**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Sous **Paramètres de score de piste**, cliquez sur **Modifier**.
+1. Sous **Paramètres de notation des pistes**, cliquez sur **Modifier**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Sélectionnez le champ à utiliser pour les **étoiles**.
+1. Sélectionnez le champ pour lequel vous souhaitez utiliser **Stars**.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Sélectionnez le champ à utiliser pour **Flames**.
+1. Sélectionnez le champ pour lequel vous souhaitez utiliser **Flammes**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
@@ -56,8 +53,8 @@ Par défaut, Marketing Sales Insight utilise le champ **Score de piste** pour ca
 
    >[!NOTE]
    >
-   >Il faudra un certain temps pour calculer à nouveau les statistiques des ventes. Vous pourrez vérifier votre CRM ultérieurement pour voir les étoiles et les flammes.
+   >Les statistiques sur les ventes prendront un certain temps pour être recalculées. Vous pouvez vérifier votre CRM plus tard pour voir les étoiles et les flammes.
 
    >[!MORELIKETHIS]
    >
-   >[Priorité, urgence, note relative et meilleurs résultats](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+   >[Priorité, urgence, note relative et meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)

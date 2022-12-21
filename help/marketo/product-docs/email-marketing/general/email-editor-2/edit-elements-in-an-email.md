@@ -1,31 +1,30 @@
 ---
 unique-page-id: 1900558
-description: Modifier les éléments dans un courrier électronique - Documents marketing - Documentation du produit
-title: Modifier les éléments dans un courrier électronique
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Modifier des éléments dans un courrier électronique - Documents Marketo - Documentation du produit
+title: Modifier des éléments dans un email
+exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '502'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Modifier des éléments dans un email {#edit-elements-in-an-email}
 
-# Modifier les éléments dans un courrier électronique {#edit-elements-in-an-email}
+Les emails peuvent contenir quatre éléments différents : Texte enrichi, images, fragments de code et vidéo. Voici comment les modifier.
 
-Les courriels peuvent contenir quatre éléments différents : Texte enrichi, images, extraits de code et vidéo. Voici comment les modifier.
+## Comment modifier l’élément de texte enrichi {#how-to-edit-the-rich-text-element}
 
-## Modification de l’élément de texte enrichi {#how-to-edit-the-rich-text-element}
-
-1. Recherchez votre adresse électronique, sélectionnez-la et cliquez sur **Modifier le brouillon**.
+1. Recherchez votre email, sélectionnez-le, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/one-edited.png)
 
-1. L&#39;éditeur de courrier électronique s&#39;ouvre. Sélectionnez le texte enrichi, cliquez sur l’icône représentant un engrenage et sélectionnez **Modifier**.
+1. L’éditeur de courrier électronique s’ouvre. Sélectionnez le texte enrichi, cliquez sur l’icône d’engrenage, puis sélectionnez **Modifier**.
 
    ![](assets/two.png)
 
-   Vous pouvez également survoler l’élément dans le volet de droite en faisant apparaître l’icône d’engrenage.
+   Vous pouvez également placer le pointeur de la souris sur l’élément dans le volet de droite, ce qui entraîne l’affichage de l’icône d’engrenage.
 
    ![](assets/three.png)
 
@@ -39,23 +38,23 @@ Les courriels peuvent contenir quatre éléments différents : Texte enrichi, im
 
    >[!CAUTION]
    >
-   >Evitez de copier et de coller du texte à partir d’une source de texte enrichi, telle qu’un site Web ou un document Word. Au lieu de cela, collez d’abord du texte enrichi dans un éditeur de texte brut, tel que Notepad (Windows) ou TextEdit (Mac). Une fois qu’il est &quot;propre&quot;, vous pouvez le copier dans l’éditeur de texte brut et le coller dans votre courrier électronique.
+   >Évitez de copier et de coller du texte à partir d’une source de texte enrichi, telle qu’un site web ou un document Word. Vous devez d’abord coller du texte enrichi dans un éditeur de texte brut, tel que Bloc-notes (Windows) ou TextEdit (Mac). Une fois qu’il est &quot;propre&quot;, vous pouvez le copier à partir de l’éditeur de texte brut et le coller dans votre email.
 
-## Modification de l’élément d’image {#how-to-edit-the-image-element}
+## Comment modifier l’élément d’image {#how-to-edit-the-image-element}
 
 1. Cliquez à l’intérieur du module avec l’élément Image pour le sélectionner.
 
    ![](assets/five.png)
 
-1. Cliquez sur l’élément Image à modifier, puis sur l’icône d’engrenage et sélectionnez **Modifier**.
+1. Cliquez sur l’élément Image à modifier, puis cliquez sur l’icône représentant un engrenage et sélectionnez **Modifier**.
 
    ![](assets/six.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également cliquer en doublon sur l’élément pour commencer à le modifier.
+   >Vous pouvez également double-cliquer sur l’élément pour commencer l’édition.
 
-1. L’éditeur d’images s’affiche.
+1. L’éditeur d’image s’affiche.
 
    ![](assets/seven.png)
 
@@ -65,15 +64,15 @@ Les courriels peuvent contenir quatre éléments différents : Texte enrichi, im
 
    >[!NOTE]
    >
-   >Si vous souhaitez utiliser un jeton Marketo, utilisez cette option. Gardez à l’esprit que lorsque vous utilisez un jeton, l’image apparaît rompue dans l’éditeur, mais s’affiche en mode Prévisualisation et dans le message Envoyer l’exemple.
+   >Si vous souhaitez utiliser un jeton Marketo, utilisez cette option. Gardez à l’esprit que lorsque vous utilisez un jeton, l’image apparaît rompue dans l’éditeur, mais son rendu est effectué en mode Aperçu et dans l’option Envoyer l’exemple d’email.
 
-   Pour utiliser une URL externe, collez d’abord dans l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du texte de remplacement (facultatif). Appuyez ensuite sur **Permuter**.
+   Pour utiliser une URL externe, collez d’abord dans l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du texte de remplacement (facultatif). Puis appuyez **Permutation**.
 
    ![](assets/eight.png)
 
-   **Poste**
+   **Mon ordinateur**
 
-   Pour télécharger une image à partir de votre ordinateur, cliquez sur **Parcourir**.
+   Pour télécharger une image depuis votre ordinateur, cliquez sur **Parcourir**.
 
    ![](assets/nine.png)
 
@@ -81,35 +80,35 @@ Les courriels peuvent contenir quatre éléments différents : Texte enrichi, im
 
    ![](assets/ten.png)
 
-   Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur **Permuter**.
+   Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur **Permutation**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Si vous remplacez une image, vous devez cocher la case **Remplacer l’image existante** qui s’affiche sous l’URL/le nom de l’image.
+   >Si vous remplacez une image, vous devrez cocher la case **Remplacer une image existante** s’affiche sous l’URL/le nom de l’image.
 
-   **Design Studio**
+   **Studio de conception**
 
-   Pour insérer une image à partir de Design Studio, localisez-la simplement...
+   Pour insérer une image de Design Studio, localisez-la simplement...
 
    ![](assets/twelve.png)
 
-   ...et l&#39;insérer. Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur **Permuter**.
+   ...et insérez-le. Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur **Permutation**.
 
    ![](assets/thirteen.png)
 
-## Modification de l’élément de fragment de code {#how-to-edit-the-snippet-element}
+## Comment modifier l’élément de fragment de code {#how-to-edit-the-snippet-element}
 
-1. Cliquez à l&#39;intérieur du module avec l&#39;élément Extrait de code.
+1. Cliquez à l’intérieur du module avec l’élément Fragment de code .
 
    ![](assets/fourteen.png)
 
-1. Cliquez sur l’élément Extrait de code, puis sur l’icône d’engrenage et sélectionnez **Modifier**.
+1. Cliquez sur l’élément Fragment de code , puis sur l’icône d’engrenage et sélectionnez **Modifier**.
 
    ![](assets/fifteen.png)
 
-1. Recherchez votre extrait de code, sélectionnez-le, puis cliquez sur **Enregistrer**.
+1. Recherchez votre fragment de code, sélectionnez-le, puis cliquez sur **Enregistrer**.
 
    ![](assets/sixteen.png)
 
@@ -119,20 +118,20 @@ Les courriels peuvent contenir quatre éléments différents : Texte enrichi, im
 
 ## Modification de l’élément vidéo {#how-to-edit-the-video-element}
 
-1. Cliquez à l’intérieur du module avec l’élément Vidéo.
+1. Cliquez à l’intérieur du module avec l’élément Vidéo .
 
    ![](assets/nineteen.png)
 
-1. Cliquez sur l’élément Vidéo, puis sur l’icône d’engrenage et sélectionnez **Modifier**.
+1. Cliquez sur l’élément Vidéo , puis sur l’icône d’engrenage et sélectionnez **Modifier**.
 
    ![](assets/twenty.png)
 
-1. Collez l’URL de la vidéo sur Vimeo ou YouTube. Cliquez ensuite en dehors de la zone URL pour que la prévisualisation soit chargée. Modifiez les dimensions en fonction de vos besoins, ajoutez le texte de remplacement (facultatif), puis appuyez sur **Insérer**.
+1. Collez l’URL de la vidéo à partir de Vimeo ou de YouTube. Cliquez ensuite en dehors de la zone URL pour que l’aperçu soit chargé. Modifiez les dimensions en fonction de vos besoins, ajoutez Texte de remplacement (facultatif), puis appuyez sur **Insérer**.
 
    ![](assets/twentyone.png)
 
    >[!NOTE]
    >
-   >Pour les vidéos YouTube, utilisez l’URL complète de la barre d’adresse, et non l’URL de raccourci figurant dans l’option Partager.
+   >Pour les vidéos YouTube, utilisez l’URL complète de la barre d’adresse, et non l’URL de raccourci de l’option Partager .
 
-Amusez-vous à concevoir le courriel parfait !
+Amusez-vous à concevoir l&#39;email parfait !

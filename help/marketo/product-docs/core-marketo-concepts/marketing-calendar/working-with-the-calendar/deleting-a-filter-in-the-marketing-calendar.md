@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147302
-description: Suppression d’un filtre dans le calendrier marketing - Docs Marketo - Documentation du produit
+description: Suppression d’un filtre dans le calendrier marketing - Documents Marketo - Documentation du produit
 title: Suppression d’un filtre dans le calendrier marketing
 exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '57'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Si vous souhaitez supprimer un filtre dans le calendrier marketing, vous êtes arrivé au bon endroit.
 
-1. Sélectionnez le filtre à supprimer.
+1. Sélectionnez le filtre que vous souhaitez supprimer.
 
    ![](assets/image2014-9-24-11-3a27-3a32.png)
 

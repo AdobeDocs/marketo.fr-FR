@@ -18,21 +18,21 @@ Après la publication de cette version, consultez l’onglet Nouvelle version de
 
 ## Programme d&#39;e-mail {#email-program}
 
-L&#39;envoi d&#39;un email n&#39;a jamais été aussi facile. Utilisez le nouveau [programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) pour envoyer un courrier électronique par lot, au lieu du programme par défaut. Définissez la liste dynamique, envoyez un email, planifiez-la, et vous êtes désactivé !
+L&#39;envoi d&#39;un email n&#39;a jamais été aussi facile. Utilisez la nouvelle [programme de messagerie électronique](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) pour envoyer un courrier électronique par lot, au lieu du programme par défaut. Définissez la liste dynamique, envoyez un email, planifiez-la, et vous êtes désactivé !
 
 ![](assets/image2014-9-22-17-3a19-3a55.png)
 
-Consultez également le nouveau [Tableau de bord des mesures de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md) pour découvrir les performances de votre courriel.
+Consultez également la nouvelle [Tableau de bord des mesures de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md) pour voir les performances de votre email.
 
 ![](assets/image2014-9-22-17-3a20-3a14.png)
 
 ## A/B testing pour l&#39;e-mail {#email-a-b-testing}
 
-Dans le nouveau programme Email, exécutez un [test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) sur un pourcentage de la population globale d&#39;envoi d&#39;email. Choisissez parmi 4 types de tests différents : Objet, Adresse, Date/Heure et Courrier électronique complet. Vous pouvez même choisir de promouvoir manuellement le gagnant ou de laisser le système le promouvoir en fonction de critères de victoire prédéfinis. Le nouveau programme de messagerie, y compris le test A/B, peut être imbriqué dans les événements et dans le programme par défaut pour rendre l’envoi de courrier électronique si simple !
+Dans le nouveau programme de messagerie, exécutez un [Test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) sur un pourcentage de la population totale d&#39;envois d&#39;emails. Choisissez parmi 4 types de tests différents : Objet, Adresse, Date/Heure et Courrier électronique complet. Vous pouvez même choisir de promouvoir manuellement le gagnant ou de laisser le système le promouvoir en fonction de critères de victoire prédéfinis. Le nouveau programme de messagerie, y compris le test A/B, peut être imbriqué dans les événements et dans le programme par défaut pour rendre l’envoi de courrier électronique si simple !
 
 ## Test d&#39;email du champion/du challenger {#email-champion-challenger-testing}
 
-[Les ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) tests Champion/Challenger sont similaires au test A/B, mais la différence est qu’il est utilisé pour les emails déclenchés et que vous n’envoyez pas automatiquement un gagnant. Ce test vous permet de contester une méthode bien établie, appelée le Champion, et vous pouvez tester si c&#39;est toujours le meilleur en introduisant un Challenger. De plus, les tests de messagerie Champion/Challenger peuvent être utilisés dans les flux de programme Engagement.
+[Test Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) est similaire au test A/B, mais la différence est qu’il est utilisé pour les emails déclenchés et que vous n’envoyez pas automatiquement un gagnant. Ce test vous permet de contester une méthode bien établie, appelée le Champion, et vous pouvez tester si c&#39;est toujours le meilleur en introduisant un Challenger. De plus, les tests de messagerie Champion/Challenger peuvent être utilisés dans les flux de programme Engagement.
 
 ## Informations du lead dans l&#39;analyse de l&#39;e-mail {#lead-details-in-email-analysis}
 

@@ -1,33 +1,32 @@
 ---
 unique-page-id: 1900589
-description: Ajouter les liens suivis à un courriel texte - Documents marketing - Documentation du produit
-title: Ajouter les liens suivis à un courriel texte
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Ajout de liens suivis à un courrier électronique texte - Documents Marketo - Documentation du produit
+title: Ajout de liens suivis à un message électronique texte
+exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-
-# Ajouter les liens suivis à un courriel texte {#add-tracked-links-to-a-text-email}
+# Ajout de liens suivis à un message électronique texte {#add-tracked-links-to-a-text-email}
 
 >[!PREREQUISITES]
 >
->* [Créer un message électronique Texte uniquement](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
->* [Modifier les éléments dans un courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
+>* [Création d’un message électronique Texte uniquement](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
+>* [Modifier des éléments dans un email](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
 
-Il est possible de suivre les liens de courriel texte dans Marketing Cloud. Voyons comment ça marche. 1. Sélectionnez votre adresse électronique et cliquez sur Modifier le brouillon.
+Les liens d’e-mail texte peuvent être suivis dans Marketo. Voyons comment ça marche. 1. Sélectionnez votre email et cliquez sur Modifier le brouillon.
 
 ![](assets/one-9.png)
 
-1. Cliquez avec le doublon sur la zone modifiable à laquelle vous souhaitez ajouter le lien.
+1. Double-cliquez sur la zone modifiable à laquelle vous souhaitez ajouter le lien.
 
    ![](assets/two-8.png)
 
-1. Saisissez l’URL entre crochets de doublon, comme suit : `[[www.domain.com/path/page.html]]`.
+1. Saisissez l’URL entre crochets doubles, comme suit : `[[www.domain.com/path/page.html]]`.
 
    ![](assets/three-8.png)
 
@@ -37,10 +36,10 @@ Il est possible de suivre les liens de courriel texte dans Marketing Cloud. Voyo
 
 >[!NOTE]
 >
->La fonctionnalité de classe mktNoTok ne fonctionne pas avec les liens pouvant faire l&#39;objet d&#39;un suivi dans les courriers électroniques textuels. Uniquement pour les courriers électroniques HTML.
+>La fonctionnalité de classe mktNoTok ne fonctionne pas avec les liens pouvant faire l’objet d’un suivi dans les emails texte. Uniquement pour les emails par HTML.
 
 >[!TIP]
 >
->Testez-le pour vérifier le doublon. Assurez-vous d’avoir saisi correctement les crochets.
+>Testez-le pour vérifier deux fois. Assurez-vous d’avoir saisi correctement les crochets.
 
-Bon travail !
+Beau travail !

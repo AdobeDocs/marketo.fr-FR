@@ -1,17 +1,16 @@
 ---
 unique-page-id: 557080
-description: Personnalisation - Documentation marketing - Documentation du produit
+description: Personnalisation - Documents Marketo - Documentation du produit
 title: Personnalisation
-translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
 # Personnalisation {#personalization}
 
-Plus le marketing est individualisé, plus la réponse est probable. Nombreuses options de personnalisation dans Marketo.
-** ![Segmentation et extraits](assets/graphic-design-tools-18.png)Segmentation et extraits de code** [Segmentation et extraits de code Rendez vos courriels et landings page dynamiques et personnalisés.](https://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)     **  ![Pages d&#39;](assets/office-artboard-80.png)entréePages d&#39;entrée**  [Landings page Faites briller vos landings page avec des copies et des mises en page personnalisées.](https://docs.marketo.com/display/DOCS/Personalizing+Landing+Pages)     **  ![](assets/office-27-1.png)EmailEmail** Les e-mails  [électroniques peuvent être profondément personnalisés. Consultez la fonctionnalité du marketing par courriel : Général.](https://docs.marketo.com/display/DOCS/General)
+Plus le marketing est individualisé, plus la réponse est probable. De nombreuses options de personnalisation dans Marketo.
+** ![Segmentation et fragments de code](assets/graphic-design-tools-18.png)Segmentation et fragments de code** [Segmentation et fragments de code Rendez vos emails et landing pages dynamiques et personnalisés.](https://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)     ** ![Pages d’entrée](assets/office-artboard-80.png)Pages d’entrée** [Pages d’entrée Faites en sorte que vos pages d’entrée brillent avec une copie et des mises en page personnalisées.](https://docs.marketo.com/display/DOCS/Personalizing+Landing+Pages)     ** ![Email](assets/office-27-1.png)Email** [Les emails peuvent être profondément personnalisés. Consultez la fonctionnalité de Marketing par e-mail : Général.](https://docs.marketo.com/display/DOCS/General)

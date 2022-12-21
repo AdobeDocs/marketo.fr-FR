@@ -1,89 +1,88 @@
 ---
 unique-page-id: 42762825
-description: Utilisation d’actions en masse dans Salesforce Lightning - Marketo Docs - Documentation sur les produits
-title: Utilisation d’actions en masse dans l’éclair Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Utilisation d’actions en bloc dans Salesforce Lightning - Documentation Marketo - Documentation du produit
+title: Utilisation d’actions en bloc dans Salesforce Lightning
+exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Utilisation d’actions en bloc dans Salesforce Lightning {#using-bulk-actions-in-salesforce-lightning}
 
-Découvrez comment effectuer des actions en masse, comme ajouter des pistes à une campagne, envoyer un courriel en masse ou pousser des pistes de Salesforce à Sales Connect.
+Découvrez comment exécuter des actions en bloc, comme ajouter des pistes à une campagne, envoyer un courrier électronique en bloc ou envoyer des pistes de Salesforce à Sales Connect.
 
 >[!PREREQUISITES]
 >
->Mettez à jour vers la dernière version du package Sales Connect et installez les boutons d&#39;action en bloc dans votre vue prospect/contact. [Cliquez ici pour obtenir des instructions](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>Mettez à jour vers la dernière version du package Sales Connect et installez les boutons d’action en bloc dans votre vue de prospect/contact. [Cliquez ici pour obtenir des instructions](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
 >[!NOTE]
 >
->Avant de suivre les étapes ci-dessous, vérifiez que vous êtes connecté à votre compte Marketing Cloud Sales Connect.
+>Avant de suivre les étapes ci-dessous, vérifiez que vous êtes connecté à votre compte Marketo Sales Connect.
 
-## Courriel en bloc {#bulk-email}
+## Courrier électronique en bloc {#bulk-email}
 
-1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes**, puis choisissez la liste des pistes souhaitées.
+1. Dans Salesforce, cliquez sur l’icône **Pistes** , puis sélectionnez la liste des pistes souhaitées.
 
    ![](assets/one-6.png)
 
    >[!NOTE]
    >
-   >Si vous êtes déjà sur la liste que vous allez utiliser, vous devrez l&#39;exécuter de nouveau en le choisissant dans la liste déroulante afin de vous assurer que les boutons d&#39;action en masse MSC s&#39;affichent. Il s&#39;agit du comportement de Salesforce qui ne peut pas être modifié.
+   >Si vous êtes déjà sur la liste que vous allez utiliser, vous devrez l’exécuter à nouveau en la choisissant dans la liste déroulante afin de vous assurer que les boutons d’action en bloc du MSC s’affichent. Il s’agit d’un comportement Salesforce qui ne peut pas être modifié.
 
-1. Cliquez sur la liste déroulante des flèches (à l’extrême droite de l’écran) et sélectionnez **Courriel avec MSC**.
+1. Cliquez sur la liste déroulante des flèches (à l’extrémité droite de l’écran) et sélectionnez **Email avec MSC**.
 
    ![](assets/two-6.png)
 
-1. Un message électronique du SMC apparaîtra. Il comprend les fonctionnalités suivantes :
+1. Un e-mail du MSC apparaîtra. Elle comprend les fonctionnalités suivantes :
 
-   a. Le champ &quot;À&quot; affiche &quot;Tous les reçus&quot;, ce qui correspond à la liste des pistes que vous avez choisies dans la Vue Liste de piste\
-   b. Cette liste est visible dans le panneau de gauche intitulé &quot;Compression en masse&quot;. Vous pouvez ajouter ou supprimer des destinataires ici.\
-   c. Vous pouvez choisir un modèle ou créer votre propre adresse électronique\
-   d. Vous pouvez envoyer le courriel immédiatement ou programmer son envoi ultérieurement.
+   a. Le champ &quot;À&quot; affiche &quot;Tous les accusés de réception&quot;, ce qui correspond à la liste des prospects que vous avez sélectionnés en mode Liste de pistes.\
+   b. Cette liste est visible dans le panneau de gauche intitulé &quot;Compression en masse&quot;. Vous pouvez y ajouter/supprimer des destinataires.\
+   c. Vous pouvez choisir un modèle ou créer votre propre email\
+   d. Vous pouvez envoyer l’email immédiatement ou programmer son envoi ultérieurement.
 
    ![](assets/three-5.png)
 
-## Ajouter à Campaign {#add-to-campaign}
+## Ajouter à la campagne  {#add-to-campaign}
 
-1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes**, puis choisissez la liste des pistes souhaitées.
+1. Dans Salesforce, cliquez sur l’icône **Pistes** , puis sélectionnez la liste des pistes souhaitées.
 
    ![](assets/four-4.png)
 
-1. Cliquez sur la liste déroulante des flèches (à l’extrême droite de l’écran) et sélectionnez **Ajouter au MSC Campaign**.
+1. Cliquez sur la liste déroulante des flèches (à l’extrémité droite de l’écran) et sélectionnez **Ajouter à la campagne MSC**.
 
    ![](assets/five-4.png)
 
-1. Une fenêtre contextuelle &quot;Ajouter les personnes à votre Campaign&quot; s’affiche. Cliquez sur **Suivant** et passez en revue le flux de campagne type pour déclencher une campagne MSC.
+1. Une fenêtre contextuelle &quot;Ajouter des personnes à votre campagne&quot; s’affiche. Cliquez sur **Suivant** et parcourir le flux de campagne type pour déclencher une campagne du MSC.
 
    ![](assets/six-1.png)
 
-## Poussez à Marketing Sales Connect {#push-to-marketo-sales-connect}
+## Intégrer à Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. Dans Salesforce, cliquez sur l&#39;onglet **Pistes**, puis choisissez la liste des pistes souhaitées.
+1. Dans Salesforce, cliquez sur l’icône **Pistes** , puis sélectionnez la liste des pistes souhaitées.
 
    ![](assets/seven-2.png)
 
-1. Cliquez sur la liste déroulante des flèches (à l’extrême droite de l’écran) et sélectionnez **Push to MSC**.
+1. Cliquez sur la liste déroulante des flèches (à l’extrémité droite de l’écran) et sélectionnez **Poussez au MSC**.
 
    ![](assets/eight-2.png)
 
-1. Un nouvel onglet appelé &quot;Salesforce Bridge&quot; s&#39;ouvre. Cliquez sur le bouton **Accéder au groupe →**.
+1. Un nouvel onglet appelé &quot;Salesforce Bridge&quot; s’ouvre. Cliquez sur le bouton **Passez à la → Groupe** bouton .
 
    ![](assets/nine-2.png)
 
-1. Vous serez envoyé à votre compte MSC où vous verrez un groupe créé avec un horodatage. Vous recevrez une notification une fois la synchronisation terminée et le groupe inclura les pistes synchronisées à partir de Salesforce.
+1. Vous serez envoyé à votre compte MSC où un groupe sera créé avec l’horodatage. Vous recevrez une notification une fois la synchronisation terminée et le groupe inclura les pistes synchronisées à partir de Salesforce.
 
    ![](assets/ten-1.png)
 
 >[!NOTE]
 >
->Vous pouvez également suivre les mêmes étapes pour utiliser des actions en bloc dans la Vue de Liste de contacts.
+>Vous pouvez également suivre les mêmes étapes pour utiliser des actions en bloc en mode Liste des contacts.
 
 >[!MORELIKETHIS]
 >
->* [Envoi de courriers électroniques par courriel de groupe](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
->* [Composition de courriels en vrac avec sélection et envoi](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Envoi d’emails par courrier électronique de groupe](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Composition d’emails en bloc avec sélection et envoi](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 

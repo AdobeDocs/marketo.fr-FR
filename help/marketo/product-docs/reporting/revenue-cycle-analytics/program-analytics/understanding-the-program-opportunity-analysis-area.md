@@ -1,192 +1,191 @@
 ---
 unique-page-id: 2951877
-description: Présentation de la zone d'Analyse des opportunités de Programme - Documents marketing - Documentation du produit
-title: Présentation de la zone d'Analyse des opportunités de Programme
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Présentation de la zone d’analyse des opportunités du programme - Documents Marketo - Documentation du produit
+title: Présentation de la zone d’analyse des opportunités de programme
+exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '896'
-ht-degree: 0%
+ht-degree: 20%
 
 ---
 
+# Présentation de la zone d’analyse des opportunités de programme {#understanding-the-program-opportunity-analysis-area}
 
-# Présentation de la zone d&#39;Analyse d&#39;opportunités de Programme {#understanding-the-program-opportunity-analysis-area}
+## APERÇU {#overview}
 
-## Aperçu {#overview}
+La zone Analyse des opportunités de programme vous permet d’analyser l’efficacité de programmes individuels ou de voir les résultats résumés par canal de programme.
 
-La zone Analyse d&#39;opportunités de Programme vous permet d&#39;analyser l&#39;efficacité de chaque Programme ou de voir les résultats résumés par Canal de Programme.
+**Voici quelques exemples de questions auxquelles vous pouvez répondre à l’aide de cette zone d’analyse :**:
 
-**Voici quelques exemples de questions professionnelles auxquelles vous pouvez répondre à l’aide de cette zone d’analyse :**
-
-Combien d&#39;opportunités ont été associées à un Programme donné et combien d&#39;entre elles ont-elles été gagnées ?
+Combien d’opportunités ont été associées à un programme donné et combien d’entre elles ont-elles gagné ?
 
 ![](assets/one-1.png)
 
-Quel est le montant des recettes générées par un Programme ou un Canal donné ?
+Combien de recettes un programme ou canal donné a-t-il contribué à générer ?
 
 ![](assets/two-1.png)
 
-Quel est mon Revenu vers Investissement pour un Programme ou un Canal donné ?
+Quels sont mes recettes en investissements pour un programme ou un canal donné ?
 
 ![](assets/three-1.png)
 
-Quelles opportunités un Programme donné a-t-il influencé ?
+Quelles possibilités le programme a-t-il eu?
 
 ![](assets/four-1.png)
 
-## Mesures d&#39;attribution des Analyses d&#39;opportunité de programme (points bleus) {#program-opportunity-analysis-attribution-measures-blue-dots}
+## Mesures d’attribution de l’analyse des opportunités du programme (points bleus) {#program-opportunity-analysis-attribution-measures-blue-dots}
 
-Les mesures que vous pouvez utiliser en analyse sont généralement des nombres et sont représentées par des points bleus. Les Dimensions sont des attributs qui donnent différentes vues des mesures et sont représentés par des points jaunes.
+Les mesures disponibles dans l’analyse sont généralement des nombres et sont représentées par des points bleus. Les Dimensions sont des attributs qui donnent différentes vues des mesures et sont représentés par des points jaunes.
 
-Toutes les mesures (points bleus) se rapportent à l&#39;attribution - le &quot;crédit&quot; pour l&#39;acquisition de pistes ou pour la réussite des ventes associée à une piste.
+Toutes les mesures (points bleus) se rapportent à l’attribution : &quot;crédit&quot; pour l’acquisition d’une piste ou pour le succès de ventes associé à une piste.
 
 ![](assets/six.five.png) ![](assets/seven-1.png)
 
 Il existe trois types de mesures :
 
-* Mesures liées à l’acquisition, qui obtiennent l’attribution Première touche (FT).
-* Mesures liées à la réussite, qui reçoivent une attribution multipoint (MT).
-* Diverses mesures liées aux Programmes, y compris le nombre moyen de touches marketing avant la création ou la fermeture d&#39;opportunités.
+* Les mesures liées à l’acquisition, qui obtiennent l’attribution Première touche (FT).
+* Les mesures liées au succès, qui reçoivent une attribution multipoint (MT).
+* Diverses mesures liées aux programmes, y compris le nombre moyen de touches marketing avant la création ou la fermeture d’opportunités.
 
-## Mesures liées à l&#39;acquisition et au succès {#acquisition-and-success-related-measures}
+## Mesures liées à l’acquisition et au succès {#acquisition-and-success-related-measures}
 
-Les mesures liées à l’acquisition accordent du crédit au programme par lequel les coordonnées d’un prospect sont obtenues pour la première fois. Un prospect n&#39;a pas à réussir dans un programme pour que le crédit d&#39;acquisition soit accordé.
+Les mesures liées à l’acquisition donnent du crédit au programme par lequel les coordonnées d’un prospect sont obtenues pour la première fois. Un prospect n’a pas à réussir dans un programme pour que le crédit d’acquisition soit accordé.
 
-La valeur d&#39;acquisition d&#39;une piste donnée change au fil du temps. Il est nul jusqu&#39;à ce qu&#39;un achat soit effectué par le prospect. Il peut alors augmenter avec des achats supplémentaires.
+La valeur de l’acquisition d’une piste donnée change au fil du temps. Il est nul jusqu’à ce qu’un achat soit effectué par le prospect. Il peut ensuite augmenter avec des achats supplémentaires.
 
-Les mesures de réussite accordent du crédit à tous les programmes qui contribuent à la progression d’un prospect vers un achat.
+Les mesures de succès accordent du crédit à tous les programmes qui contribuent à la progression d’un prospect vers un achat.
 
-Comme dans le cas de l&#39;acquisition, la valeur de la contribution aux ventes effectuées sur une piste change au fil du temps et est égale à zéro jusqu&#39;à ce qu&#39;un achat soit effectué par la piste.
+Comme pour l’acquisition, la valeur de la contribution aux ventes réalisées pour un prospect change au fil du temps et est égale à zéro jusqu’à ce qu’un achat soit effectué par le prospect.
 
 <table> 
  <tbody> 
   <tr> 
-   <th>Mesure d'attribution - Lié à l'opportunité (FT ou MT)*</th> 
+   <th>Mesure d’attribution - Liée aux opportunités (FT ou MT)*</th> 
    <th>Description</th> 
   </tr> 
   <tr> 
    <td>Coût des opportunités</td> 
-   <td>Partie du coût du programme qui a influé sur l'opportunité. Le coût peut être fractionné si plusieurs pistes sont impliquées.</td> 
+   <td>La part du coût du programme qui a influencé l'opportunité. Le coût peut être fractionné si plusieurs pistes sont impliquées.</td> 
   </tr> 
   <tr> 
    <td>Opportunités créées</td> 
-   <td>Partie du crédit que le programme a reçu pour avoir influencé la création de l'opportunité. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</td> 
+   <td>La part du crédit que le programme a reçu pour avoir influencé la création de l'opportunité. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td> 
   </tr> 
   <tr> 
-   <td>Opportunités gagnées</td> 
-   <td>Partie du crédit que le programme a reçu pour avoir influé sur l'opportunité remportée. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</td> 
+   <td>Opportunités confirmées</td> 
+   <td>La part du crédit que le programme a reçu pour avoir influé sur l'opportunité gagnée. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td> 
   </tr> 
   <tr> 
    <td>Pipeline créé</td> 
-   <td>Partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création de l'opportunité. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</td> 
+   <td>La part de crédit (en valeur monétaire) reçu par le programme pour avoir influencé la création de l’opportunité. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td> 
   </tr> 
   <tr> 
    <td>Pipeline créé - Toujours ouvert</td> 
-   <td>Partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création de l'opportunité actuellement ouverte. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</td> 
+   <td>La part de crédit (en valeur monétaire) reçu par le programme pour avoir influencé la création de l’opportunité ouverte actuellement. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td> 
   </tr> 
   <tr> 
    <td>Recettes attendues</td> 
-   <td>Partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création de l'opportunité. Recettes prévues est la probabilité d’opportunité multipliée par la valeur d’opportunité. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</td> 
+   <td>La part de crédit (en valeur monétaire) reçu par le programme pour avoir influencé la création de l’opportunité. Le chiffre d’affaires attendu correspond à la probabilité d’opportunité multipliée par la valeur de l’opportunité. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td> 
   </tr> 
   <tr> 
-   <td>Recettes des investissements</td> 
-   <td>Il s'agit du ratio de la part du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé les possibilités gagnées et le coût du programme.</td> 
+   <td>Recettes en investissements</td> 
+   <td>Il s’agit du rapport entre la part de crédit (en valeur monétaire) reçu par le programme pour avoir influencé les opportunités confirmées et le coût du programme.</td> 
   </tr> 
   <tr> 
-   <td>Recettes gagnées</td> 
-   <td>La part du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé l'opportunité remportée. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</td> 
+   <td>Chiffre d’affaires confirmé</td> 
+   <td>La part de crédit (en valeur monétaire) reçu par le programme pour avoir influencé l’opportunité confirmée. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td> 
   </tr> 
  </tbody> 
 </table>
 
-_* (FT) = Attribution Première touche, utilisée pour les mesures d&#39;acquisition de plomb ; (MT) = Attribution tactile multiple, utilisée pour les mesures de la réussite des pistes_
+_&#42;(FT) = Attribution Première touche, utilisée pour les mesures de l’acquisition de pistes ; (MT) = Attribution multipoint, utilisée pour les mesures de succès des pistes_
 
-Vous trouverez ci-dessous un scénario qui décrit comment les unités d&#39;opportunité sont calculées lorsqu&#39;il y a deux Programmes qui ont généré des pistes, mais ces dernières ont conduit à une opportunité à partir du même compte.
+Vous trouverez ci-dessous un scénario qui décrit le mode de calcul des unités d’opportunité lorsqu’il existe deux programmes qui ont généré des pistes, mais qu’elles ont conduit à une opportunité à partir du même compte.
 
 **Programme 1**
 
-* Génère une piste : Piste 1
+* Génère une piste : Lead 1
 * La piste 1 provient du compte 1
 
 **Programme 2**
 
-* Génère une autre piste : Piste 2
+* Génère une autre piste : 2e piste
 * La piste 2 provient également du compte 1
 
 **Compte 1**
 
 * Génère une opportunité : Opportunité 1
 
-Marketo accorde le crédit de manière appropriée sans avoir à comptabiliser les opportunités sur le doublon entre les Programmes. Ainsi, dans ce cas, chaque Programme reçoit 0,5 unité d&#39;opportunité. En d&#39;autres termes, chaque Programme reçoit la moitié du crédit pour l&#39;opportunité générée. En outre, la moitié des recettes associées à l&#39;opportunité est affectée à chaque Programme.
+Marketo accorde le crédit de manière appropriée sans double comptage des opportunités dans tous les programmes. Ainsi, dans ce cas, chaque programme reçoit 0,5 unité d’opportunités. En d’autres termes, chaque programme reçoit la moitié du crédit pour l’opportunité générée. En outre, la moitié des recettes associées à l’opportunité est affectée à chaque programme.
 
-## Mesures diverses liées au Programme {#miscellaneous-program-related-measures}
+## Diverses mesures liées au programme {#miscellaneous-program-related-measures}
 
-Les autres mesures disponibles reflètent la performance globale du Programme.
+Les autres mesures disponibles reflètent la performance globale du programme.
 
 <table> 
  <tbody> 
   <tr> 
-   <th>Mesure d'attribution - liée au Programme</th> 
+   <th>Mesure d’attribution - En lien avec le programme</th> 
    <th>Description</th> 
   </tr> 
   <tr> 
-   <td>Nombre d'opportunités associées au Programme</td> 
-   <td><p>Nombre total d'opportunités qui ont accordé un crédit d'attribution quelconque à un programme. Les opportunités peuvent être influencées par une ou plusieurs pistes et par un ou plusieurs Programmes.</p></td> 
+   <td>Nombre d’opportunités associées au programme</td> 
+   <td><p>Nombre total d’opportunités qui ont accordé un crédit d’attribution quelconque à un programme. Les opportunités peuvent être influencées par une ou plusieurs pistes et par un ou plusieurs programmes.</p></td> 
   </tr> 
   <tr> 
-   <td>Nombre moyen de réussites par opportunité clôturée</td> 
-   <td>Nombre moyen de réussites Programmes avant la clôture de l'opportunité. <br></td> 
+   <td>Nombre moyen de succès par opportunité fermée</td> 
+   <td>Nombre moyen de succès de programme avant la clôture de l’opportunité. <br></td> 
   </tr> 
   <tr> 
-   <td>Nombre moyen de réussites par opportunité créée</td> 
-   <td>Nombre moyen de réussites Programmes avant la création de l'opportunité.</td> 
+   <td>Nombre moyen de succès par opportunité créée</td> 
+   <td>Nombre moyen de succès de programmes avant la création de l’opportunité.</td> 
   </tr> 
   <tr> 
    <td>Nouveaux noms</td> 
-   <td>Nombre total de nouveaux noms, c'est-à-dire de nouvelles pistes, acquises par le Programme.</td> 
+   <td>Nombre total de nouveaux noms, c’est-à-dire de nouvelles pistes, acquises par le programme.</td> 
   </tr> 
   <tr> 
    <td>Coût du programme</td> 
-   <td>Coût total du Programme.</td> 
+   <td>Coût total du programme.</td> 
   </tr> 
   <tr> 
    <td>Succès (total)</td> 
-   <td>Nombre total de membres du Programme qui ont réussi.</td> 
+   <td>Nombre total de membres du programme ayant réussi.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Dimensions d&#39;Analyse des opportunités de programme (points jaunes) {#program-opportunity-analysis-dimensions-yellow-dots}
+## Dimensions d’analyse des opportunités de programme (points jaunes) {#program-opportunity-analysis-dimensions-yellow-dots}
 
-Alors que les mesures (points bleus) sont calculées et nécessitent une réflexion et une explication, les dimensions (points jaunes) sont descriptives. Voici les dimensions disponibles.
+Alors que les mesures (points bleus) sont calculées et nécessitent quelques réflexions et explications, les dimensions (points jaunes) sont descriptives. Voici les dimensions disponibles.
 
 <table> 
  <tbody> 
   <tr> 
    <th>Catégorie</th> 
-   <th>Afficher le libellé</th> 
+   <th>Afficher l'intitulé</th> 
   </tr> 
   <tr> 
    <td>Attributs d'opportunité</td> 
-   <td>Opportunité fermée<br>Nom de l'opportunité*<br>Nom du propriétaire de l'opportunité<br>Étape de l'opportunité<br>Type d'opportunité</td> 
+   <td>Opportunité fermée<br>Nom de l’opportunité*<br>Nom du propriétaire de l’opportunité<br>Étape d’opportunité<br>Type d’opportunité</td> 
   </tr> 
   <tr> 
-   <td>Période d'opportunité</td> 
-   <td>Opportunité fermée Année/Trimestre/Mois<br>Opportunité créée Année/Trimestre/Mois</td> 
+   <td>Période d’opportunité</td> 
+   <td>Opportunité Fermée Année/Trimestre/Mois<br>Opportunité créée Année/Trimestre/Mois</td> 
   </tr> 
   <tr> 
    <td>Attributs de programme</td> 
-   <td>Canal de programme<br>nom du Programme</td> 
+   <td>Canal de programme<br>Nom du programme</td> 
   </tr> 
   <tr> 
-   <td>Période de coût programme</td> 
-   <td>Année/trimestre/mois de coût</td> 
+   <td>Période de coût du programme</td> 
+   <td>Année/Trimestre/Mois de coût</td> 
   </tr> 
  </tbody> 
 </table>
 
-**Toutes les opportunités qui ont attribué tout type de crédit d&#39;attribution à un Programme. Les opportunités peuvent être influencées par une ou plusieurs pistes et par un ou plusieurs Programmes.*
+*&#42;Toutes les opportunités qui ont attribué tout type de crédit d’attribution à un programme. Les opportunités peuvent être influencées par une ou plusieurs pistes et par un ou plusieurs programmes.*
 
 >[!MORELIKETHIS]
 >

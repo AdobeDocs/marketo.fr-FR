@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2360008
-description: Affichage de personnes ou de Visiteurs anonymes dans les rapports Web - Documents marketing - Documentation du produit
-title: Affichage de personnes ou de Visiteurs anonymes dans les rapports Web
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Affichage des personnes ou des visiteurs anonymes dans les rapports web - Documents Marketo - Documentation du produit
+title: Affichage des personnes ou des visiteurs anonymes dans les rapports web
+exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-
-# Afficher des personnes ou des Visiteurs anonymes dans les rapports Web {#display-people-or-anonymous-visitors-in-web-reports}
+# Affichage des personnes ou des visiteurs anonymes dans les rapports web {#display-people-or-anonymous-visitors-in-web-reports}
 
 >[!PREREQUISITES]
 >
->[Ajouter le code de suivi Munchkin sur votre site Web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>[Ajout du code de suivi Munchkin à votre site web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-Dans les rapports [Activité de page Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) et [Société Activité Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md), vous pouvez voir [des personnes ou des visiteurs anonymes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) qui visitent votre site. Les visiteurs anonymes ont déduit des données, comme la zone métropolitaine.  Voici comment déterminer si le rapport affiche des pistes connues ou des visiteurs anonymes.
+Dans le [Activité de page web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) et  [Rapports d’activité Web d’entreprise](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) vous pouvez voir [personnes ou visiteurs anonymes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) qui visitent votre site. Les visiteurs anonymes ont déduit des données, telles que la zone métro.  Voici comment choisir si le rapport affiche des pistes connues ou des visiteurs anonymes.
 
-1. Dans votre rapport Activité de page Web, cliquez sur **Configuration**.
+1. Dans votre rapport Activité de page Web , cliquez sur **Configuration**.
 
    ![](assets/image2015-3-10-11-3a43-3a13.png)
 
-1. Doublon-clic **Source de l&#39;Activité**.
+1. Double-cliquez **Source de l’activité**.
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
@@ -33,12 +32,12 @@ Dans les rapports [Activité de page Web](/help/marketo/product-docs/reporting/b
 
    >[!NOTE]
    >
-   >L’inclusion des FAI pour les visiteurs anonymes génère un rapport plus long, mais leur exclusion fournit une vue plus claire de la provenance de vos visiteurs en plus des sources standard, telles que Google.
+   >L’inclusion des FAI pour les visiteurs anonymes génère un rapport plus long, mais leur exclusion permet d’avoir une vue plus claire de la provenance de vos visiteurs, en plus des sources standard, telles que Google.
 
-1. C&#39;est tout. Cliquez sur l&#39;onglet **Rapport** pour revenir en arrière et vue votre rapport avec des personnes connues ou anonymes.
+1. C&#39;est tout. Cliquez sur le bouton **Rapport** pour revenir en arrière et afficher votre rapport avec des personnes connues ou anonymes.
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 
 >[!MORELIKETHIS]
 >
->[Suivi des Activités et des personnes anonymes](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
+>[Suivi de l’activité anonyme et des personnes](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)

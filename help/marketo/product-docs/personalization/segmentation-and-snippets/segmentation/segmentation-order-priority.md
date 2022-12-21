@@ -1,46 +1,45 @@
 ---
 unique-page-id: 2359500
-description: Priorité de l’ordre de segmentation - Documents marketing - Documentation du produit
+description: Priorité de l’ordre de segmentation - Documents Marketo - Documentation du produit
 title: Priorité de l’ordre de segmentation
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-
 # Priorité de l’ordre de segmentation {#segmentation-order-priority}
 
-Il est important de comprendre comment **order** définit la priorité pour l&#39;évaluation de votre personnel dans une segmentation.
+Il est important de comprendre comment **order** définit la priorité pour l’évaluation de vos personnes dans une segmentation.
 
 >[!PREREQUISITES]
 >
 >[Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->[Définir des règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>[Définition de règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
-1. Accédez à la **base de données**.
+1. Accédez au **Base**.
 
    ![](assets/image2017-3-29-8-3a9-3a33.png)
 
-1. Sélectionnez votre **Segmentation**. Dans **Actions de segmentation**, cliquez sur **Modifier les segments**.
+1. Sélectionnez votre **Segmentation**. Dans **Actions de segmentation**, cliquez sur **Modifier des segments**.
 
    ![](assets/image2014-9-16-10-3a11-3a55.png)
 
    >[!NOTE]
    >
-   >Vous pouvez uniquement modifier un brouillon de votre segmentation.
+   >Vous ne pouvez modifier qu’un brouillon de votre segmentation.
 
-   Cet écran vous permet de vérifier ou de modifier l’ordre de vos segments.
+   Vous pouvez vérifier ou modifier l’ordre de vos segments à partir de cet écran.
 
    ![](assets/image2014-9-16-10-3a12-3a3.png)
 
 >[!NOTE]
 >
 >* Les segments s’excluent mutuellement. Une personne peut être membre d’un seul segment à la fois.
->* Lorsqu&#39;une personne est admissible pour deux segments, elle n&#39;appartient qu&#39;au premier de la liste.
->* Si une personne ne remplit pas les conditions requises pour un segment, elle devient membre du segment par défaut.
+>* Lorsqu’une personne est admissible pour deux segments, elle n’appartient qu’au premier de la liste.
+>* Si une personne n’est admissible pour aucun segment, elle deviendra membre du segment par défaut.
 
 
-Cool, hein ? Vous pouvez utiliser des segments pour le contenu, le rapports et même dans les listes dynamiques.
+Super, hein ? Vous pouvez utiliser des segments pour le contenu dynamique, la création de rapports et même dans les listes dynamiques.

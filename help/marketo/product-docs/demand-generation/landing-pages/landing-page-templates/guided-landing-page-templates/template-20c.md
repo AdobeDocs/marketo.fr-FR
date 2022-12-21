@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 20C {#template-20c}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
 
 ![](assets/template-20c.png)
 

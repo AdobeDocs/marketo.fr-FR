@@ -4,8 +4,8 @@ title: Présentation des options d’envoi de campagne de ventes pour les étape
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
 source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '599'
+ht-degree: 3%
 
 ---
 

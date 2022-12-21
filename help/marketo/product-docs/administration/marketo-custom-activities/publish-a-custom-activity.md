@@ -1,9 +1,8 @@
 ---
 unique-page-id: 10100272
-description: Publication d’une Activité personnalisée - Docs Marketo - Documentation du produit
-title: Publication d’une Activité personnalisée
+description: Publication d’une activité personnalisée - Documents Marketo - Documentation du produit
+title: Publication d’une activité personnalisée
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
@@ -11,15 +10,15 @@ ht-degree: 0%
 
 ---
 
-# Publier une Activité personnalisée {#publish-a-custom-activity}
+# Publication d’une activité personnalisée {#publish-a-custom-activity}
 
-Vous avez votre activité personnalisée exactement comme vous le souhaitez. Maintenant, il est temps de le publier !
+Votre activité personnalisée est exactement la même que vous la souhaitez. Maintenant, il est temps de le publier !
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/one-2.png)
 
-1. Dans **Gestion de la base de données**, cliquez sur **Marketo Custom Activités**.
+1. Dans **Gestion de base de données** click **Activités personnalisées Marketo**.
 
    ![](assets/two-2.png)
 
@@ -27,11 +26,11 @@ Vous avez votre activité personnalisée exactement comme vous le souhaitez. Mai
 
    ![](assets/three-2.png)
 
-1. Cliquez sur la liste déroulante **Actions d’Activité personnalisée** et sélectionnez **Publier l’Activité**.
+1. Cliquez sur le bouton **Actions d’activité personnalisées** et sélectionnez **Activité de publication**.
 
    ![](assets/four-2.png)
 
-   Vous verrez votre état d&#39;activité personnalisée partir de la version préliminaire...
+   Vous verrez l’état de votre activité personnalisée passer de la version préliminaire...
 
    ![](assets/five-2.png)
 
@@ -39,4 +38,4 @@ Vous avez votre activité personnalisée exactement comme vous le souhaitez. Mai
 
    ![](assets/six-2.png)
 
-   Bien joué !
+   C&#39;est joli !

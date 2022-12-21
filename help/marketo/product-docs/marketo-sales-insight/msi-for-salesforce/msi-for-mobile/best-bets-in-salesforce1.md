@@ -1,28 +1,27 @@
 ---
 unique-page-id: 7511959
-description: Meilleurs paris dans Salesforce1 - Docs marketing - Documentation du produit
-title: Meilleurs paris dans Salesforce1
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Meilleurs paris dans Salesforce1 - Documents Marketo - Documentation du produit
+title: Meilleurs paris sur Salesforce1
+exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
+# Meilleurs paris sur Salesforce1 {#best-bets-in-salesforce}
 
-# Meilleurs paris dans Salesforce1 {#best-bets-in-salesforce}
-
-Vos [meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sont vos pistes et contacts avec la plus grande urgence et le score relatif. Seules les pistes que vous possédez sont visibles dans cette liste et la liste est mise à jour à mesure que les scores changent.
+Votre [Meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sont vos prospects et contacts avec la plus grande urgence et le meilleur score relatif. Seules les pistes que vous détenez sont visibles dans cette liste et la liste est mise à jour à mesure que les scores changent.
 
 1. Accédez à la zone Marketo dans l’application Salesforce.
 
-   Dans la liste déroulante, vous pouvez choisir &quot;Mes meilleurs paris&quot;, &quot;Ma Liste de contrôle&quot;, &quot;Activité Web&quot;, &quot;Activité Web anonyme&quot; ou &quot;Mon courriel&quot;.
+   Dans la liste déroulante, vous pouvez sélectionner &quot;Mes meilleurs paris&quot;, &quot;Ma liste de contrôle&quot;, &quot;Activité web&quot;, &quot;Activité web anonyme&quot; ou &quot;Mon e-mail&quot;.
 
    ![](assets/one-2.png)
 
 >[!MORELIKETHIS]
 >
->* [Moments intéressants à Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Envoyer un courrier électronique marketing et des actions Campaign et Watchlist dans Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Moments intéressants dans Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Envoyer le courrier électronique Marketo et Campaign et les actions de liste de contrôle dans Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
 

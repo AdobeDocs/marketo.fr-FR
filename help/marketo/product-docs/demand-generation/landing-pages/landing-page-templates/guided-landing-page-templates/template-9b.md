@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 9B {#template-9b}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 9B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)
+Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 9B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)
 
 ![](assets/image2015-7-28-15-3a21-3a14.png)
 

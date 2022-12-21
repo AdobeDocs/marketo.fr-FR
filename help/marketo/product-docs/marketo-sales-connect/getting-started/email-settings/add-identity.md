@@ -1,36 +1,35 @@
 ---
 unique-page-id: 14352412
-description: Identité des Ajoutes - Documents marketing - Documentation du produit
-title: Identité d'Ajoute
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Ajout d’identité - Documents Marketo - Documentation du produit
+title: Ajouter une identité
+exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Ajouter une identité {#add-identity}
 
-# Identité d&#39;Ajoute {#add-identity}
+Ajoutez une identité lorsque vous souhaitez envoyer plusieurs adresses électroniques.
 
-Ajoutez une identité lorsque vous avez plusieurs adresses électroniques à partir desquelles envoyer des données.
+1. Cliquez sur l’icône Paramètres .
 
-1. Cliquez sur l’icône Paramètres.
+1. Cliquez sur **Paramètres de messagerie électronique**.
 
-1. Cliquez sur **Paramètres de courriel**.
+1. Cliquez sur **Ajout d’une identité**.
 
-1. Cliquez sur **Ajouter l&#39;identité**.
+1. Renseignez vos informations (les champs obligatoires sont email et nom), cliquez sur **Créer** une fois terminé.
 
-1. Entrez vos informations (les champs de courriel et de nom sont obligatoires), cliquez sur **Créer** une fois terminé.
+1. Cliquez sur le lien contenu dans l’e-mail de vérification que vous avez reçu.
 
-1. Cliquez sur le lien dans le courrier électronique de vérification que vous recevez.
-
-   Lorsque vous envoyez un courriel dans Sales Connect, vous pouvez permuter entre les identités.
+   Lorsque vous envoyez un courrier électronique dans Sales Connect, vous pouvez basculer entre les identités.
 
    >[!NOTE]
    >
-   >Le nombre d’identités de courriel que vous pouvez configurer n’est pas limité.
+   >Le nombre d’identités de courrier électronique que vous pouvez configurer n’est pas limité.
 
    >[!MORELIKETHIS]
    >
-   >[Ajoutez votre signature](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md) électronique.
+   >[Ajouter votre signature de courrier électronique](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).

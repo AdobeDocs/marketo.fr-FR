@@ -1,18 +1,17 @@
 ---
 unique-page-id: 14352633
-description: Modèle favori - Documents marketing - Documentation du produit
+description: Favori d’un modèle - Documents Marketo - Documentation du produit
 title: Favori d’un modèle
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: f2697fff-5be3-4137-9a8d-8d8f338d9627
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
+# Favori d’un modèle {#favorite-a-template}
 
-# Favori d&#39;un modèle {#favorite-a-template}
+Vous pouvez ajouter des modèles de n’importe quelle catégorie à votre liste Favoris. Cette opération génère automatiquement une nouvelle catégorie en haut de votre liste afin que vous puissiez accéder rapidement aux modèles que vous utilisez le plus.
 
-Vous pouvez ajouter des modèles de n’importe quelle catégorie à votre liste Favoris. Cela génère automatiquement une nouvelle catégorie en haut de votre liste afin que vous puissiez accéder rapidement aux modèles que vous utilisez le plus souvent.
-
-Cliquez sur l’étoile en regard d’un modèle pour le marquer comme favori. Vous pouvez le faire à partir de la liste de modèles ou de la fenêtre de l’éditeur.
+Cliquez sur l’étoile en regard d’un modèle pour le marquer comme favori. Vous pouvez le faire à partir de la liste des modèles ou de la fenêtre de l&#39;éditeur.

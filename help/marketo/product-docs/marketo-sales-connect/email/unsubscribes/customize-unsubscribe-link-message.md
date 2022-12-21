@@ -1,31 +1,30 @@
 ---
 unique-page-id: 14746186
-description: Personnaliser le message de désabonnement du lien - Documentation marketing - Documentation du produit
-title: Personnaliser le message de désabonnement de lien
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Personnalisation du message de lien de désabonnement - Documents Marketo - Documentation du produit
+title: Personnalisation du message de lien de désabonnement
+exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
+# Personnalisation du message de lien de désabonnement {#customize-unsubscribe-link-message}
 
-# Personnaliser le message de lien de désabonnement {#customize-unsubscribe-link-message}
-
-Nous avons toujours permis aux équipes de personnaliser leur message de désabonnement de lien, mais les administrateurs peuvent désormais définir le message de désabonnement de lien pour l&#39;ensemble de leur équipe afin d&#39;assurer une messagerie cohérente.
+Nous avons toujours autorisé les équipes à personnaliser leurs messages de lien de désabonnement, mais les administrateurs peuvent désormais définir les messages de lien de désabonnement pour l’ensemble de leur équipe afin d’assurer une messagerie cohérente.
 
 >[!NOTE]
 >
 >Vous ne pouvez pas utiliser un lien de désabonnement tiers avec Sales Connect, car ces informations ne seront pas récupérées dans notre base de données.
 
-## Personnaliser la messagerie pour vous-même {#customize-messaging-for-yourself}
+## Personnalisation de la messagerie pour vous-même {#customize-messaging-for-yourself}
 
-1. Connectez-vous à l’[application Web](https://toutapp.com/login), cliquez sur l’icône en forme d’engrenage en haut à droite et choisissez **Paramètres**.
+1. Connectez-vous au [application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
 
    ![](assets/one.png)
 
-1. Sous Mon compte, sélectionnez **Désabonnements**.
+1. Sous Mon compte, sélectionnez **Désabonne**.
 
    ![](assets/two-1.png)
 
@@ -33,21 +32,21 @@ Nous avons toujours permis aux équipes de personnaliser leur message de désabo
 
    ![](assets/three-1.png)
 
-1. Mettez en surbrillance le texte sur lequel vous voulez que les utilisateurs cliquent pour accéder à votre page de désabonnement, puis cliquez sur l&#39;icône de lien.
+1. Sélectionnez le texte sur lequel vous souhaitez que les visiteurs cliquent pour accéder à votre page de désabonnement, puis cliquez sur l’icône de lien.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >Peu importe l’URL à laquelle est associé un hyperlien. Lorsque le courriel est envoyé, cet hyperlien sera converti en lien de désabonnement.
+   >Peu importe l’URL qui est liée par un lien hypertexte. Lorsque l&#39;email est envoyé, ce lien hypertexte est converti en notre lien de désabonnement.
 
 1. Cliquez sur **OK**.
 
    ![](assets/five.png)
 
-## Définir le message de désabonnement de votre équipe {#set-unsubscribe-messaging-for-your-team}
+## Définition de la messagerie de désabonnement pour votre équipe {#set-unsubscribe-messaging-for-your-team}
 
-1. Connectez-vous à l’[application Web](https://toutapp.com/login), cliquez sur l’icône en forme d’engrenage en haut à droite et choisissez **Paramètres**.
+1. Connectez-vous au [application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
 
    ![](assets/six.png)
 
@@ -55,10 +54,10 @@ Nous avons toujours permis aux équipes de personnaliser leur message de désabo
 
    ![](assets/eight.png)
 
-1. Personnalisez votre messagerie et cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Personnalisez votre message, puis cliquez sur **Enregistrer** une fois terminé.
 
    ![](assets/seven.png)
 
-1. Sélectionnez **Je suis en train de définir le message par défaut pour mon équipe** pour que le message s&#39;applique à tous les utilisateurs.
+1. Sélectionner **Je définis le message par défaut pour mon équipe** pour que le message s’applique à tous les utilisateurs.
 
    ![](assets/eleven.png)

@@ -1,42 +1,41 @@
 ---
 unique-page-id: 2360181
-description: Suivi des Activités et des personnes anonymes - Documentation sur le marketing - Documentation sur les produits
-title: Suivi des Activités et des personnes anonymes
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Suivi de l’activité anonyme et des personnes - Documents Marketo - Documentation du produit
+title: Suivi de l’activité anonyme et des personnes
+exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
+# Suivi de l’activité anonyme et des personnes {#tracking-anonymous-activity-and-people}
 
-# Suivi des Activités et des personnes anonymes {#tracking-anonymous-activity-and-people}
+Première visite d’un visiteur dans Marketo [landing page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) (ou une page de votre site web qui contient la variable [Code de suivi Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)), Marketo crée une _activité anonyme_ et utilise un cookie de navigateur pour en effectuer le suivi. Une fois le visiteur identifié, il devient une personne et l’historique associé au cookie du navigateur est fusionné.
 
-La première fois qu’un visiteur visite un landing page Marketo [](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) (ou une page de votre site Web qui comporte le [code de suivi Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)), Marketo crée une _activité anonyme_ et utilise un cookie de navigateur pour le suivre. Une fois le visiteur identifié, il devient une personne et l&#39;historique associé au cookie du navigateur est fusionné.
+1. Une activité anonyme est créée lorsqu&#39;une personne :
 
-1. Une activité anonyme est créée lorsqu’une personne :
-
-   * Visite votre Marketo [landing page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) pour la première fois.
-   * Visite une page de votre site qui comporte [suivi Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
-   * Cliquez sur le lien [Vue en tant que page Web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) dans un courrier électronique Marketo.
-
-   >[!NOTE]
-   >
-   >Contrairement à d&#39;autres liens dans les courriers électroniques de Marketo, la Vue en tant que page Web n&#39;est pas suivie en tant que clic électronique.
-
-   Une activité anonyme est fusionnée en une personne nouvelle ou existante lorsqu’une personne :
-
-   * Cliquez sur un lien [dans un courrier électronique Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Remplit un formulaire Marketo [a1/>.](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
-   * Utilise l&#39;API [REST de Marketo](https://developers.marketo.com/rest-api/lead-database/leads/) ou [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) (pour les développeurs) pour associer une activité anonyme à un enregistrement connu.
-
-   Un nom de la base de données peut être lié à de nombreux cookies, car les visiteurs utilisent souvent différents périphériques et navigateurs pour visiter votre site.
+   * Visite de votre Marketo [landing page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) la première fois.
+   * Visite une page de votre site qui comporte [Tracking Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+   * Cliquez sur le bouton [Afficher comme page Web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) dans un email Marketo.
 
    >[!NOTE]
    >
-   >Lorsque des enregistrements anonymes sont fusionnés dans un enregistrement de personne nouveau ou existant, les valeurs de champ personnalisé **ne sont** pas transférées.
+   >Contrairement aux autres liens des emails Marketo, l’option Afficher comme page web n’est pas suivie en tant que clic sur un email.
+
+   Une activité anonyme est fusionnée en une nouvelle personne ou une personne existante lorsqu’une personne :
+
+   * Cliquez sur un [lien dans un email Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
+   * Remplissage d’un Marketo [formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
+   * Utilise Marketo [API REST](https://developers.marketo.com/rest-api/lead-database/leads/) ou [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API (pour les développeurs) pour associer une activité anonyme à un enregistrement connu.
+
+   Un nom de la base de données peut être lié à de nombreux cookies, car les visiteurs utilisent souvent différents appareils et navigateurs pour consulter votre site.
+
+   >[!NOTE]
+   >
+   >Lorsque des enregistrements anonymes sont fusionnés en un nouvel enregistrement de personne ou un enregistrement de personne existant, les valeurs de champ personnalisées sont **not** transférer.
 
    >[!MORELIKETHIS]
    >
-   >[Affichage de personnes ou de Visiteurs anonymes dans les rapports Web](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+   >[Affichage des personnes ou des visiteurs anonymes dans les rapports web](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)

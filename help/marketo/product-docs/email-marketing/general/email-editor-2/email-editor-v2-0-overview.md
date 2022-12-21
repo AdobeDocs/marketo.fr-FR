@@ -1,65 +1,64 @@
 ---
 unique-page-id: 11372299
-description: Présentation de l’éditeur de courrier électronique v2.0 - Documentation sur le marketing - Documentation du produit
-title: Présentation de l’éditeur de courrier électronique v2.0
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Présentation de l’éditeur de courrier électronique v2.0 - Documents Marketo - Documentation du produit
+title: Présentation de l’éditeur de messagerie v2.0
+exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Présentation de l’éditeur de messagerie v2.0 {#email-editor-v-overview}
 
-# Présentation de l’éditeur de courrier électronique v2.0 {#email-editor-v-overview}
+Lorsque vous décidez d’activer l’éditeur de courrier électronique v2.0, plusieurs nouvelles fonctionnalités s’affichent.
 
-Lorsque vous déciderez d&#39;activer l&#39;éditeur de messagerie v2.0, vous remarquerez plusieurs nouvelles fonctionnalités.
+**Sélectionneur de modèle d’e-mail**
 
-**Sélecteur de modèles de courrier électronique**
-
-Lorsque vous créez un nouveau courrier électronique, vous accédez au [Sélecteur de modèles de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+Lorsque vous créez un email, vous accédez à la [Sélecteur de modèle de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
-**Éditeur de courrier électronique**
+**Éditeur d&#39;e-mail**
 
-Lorsque vous début de modifier votre courrier électronique, vous remarquerez que l’éditeur a une toute nouvelle apparence.
+Lorsque vous commencez à éditer votre email, vous remarquerez que l&#39;éditeur a une toute nouvelle apparence.
 
 ![](assets/two-4.png)
 
 **Modules**
 
-Ces choses sur le côté droit de l&#39;éditeur sont appelées modules. Découvrez comment [ajouter des modules à votre adresse électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+Ces éléments du côté droit de l&#39;éditeur sont appelés modules. Découvrez comment [ajouter des modules à votre email ;](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/three-4.png)
 
-**Version du texte**
+**Version texte**
 
-Le passage de la version HTML à la version texte de votre courrier électronique se fait désormais dans un onglet pratique en bas de l’écran. Découvrez comment [modifier la version textuelle d&#39;un courrier électronique](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Le passage de la version par HTML à la version texte de votre email se fait désormais dans un onglet pratique en bas de la page. Découvrez comment [modifier la version texte d’un email ;](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/four-3.png)
 
-**En-tête de courriel**
+**En-tête de message électronique**
 
-Vous voulez plus d&#39;espace design ? L&#39;en-tête de courriel peut être masqué après avoir [modifié ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Cliquez simplement sur cette icône ...
+Vous voulez plus d&#39;espace design ? Une fois que vous avez terminé, l’en-tête de l’email peut être masqué. [modification](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Cliquez simplement sur cette icône...
 
 ![](assets/five-4.png)
 
-...et l&#39;en-tête se réduit.
+...et l’en-tête s’effondre.
 
 ![](assets/six-3.png)
 
-**Prévisualisation de votre courriel**
+**Prévisualiser votre email**
 
-Par défaut, le courrier électronique affiche son aspect sur un bureau, comme l’indique l’icône bleue en surbrillance. Si vous cliquez sur l&#39;icône à sa droite...
+Par défaut, l’email affiche l’apparence qu’il aurait sur un bureau, comme l’indique l’icône bleue en surbrillance. Si vous cliquez sur l’icône à sa droite...
 
 ![](assets/seven-3.png)
 
-...vous verrez comment votre courrier électronique s&#39;affichera sur un périphérique mobile.
+...vous verrez comment votre email sera rendu sur un appareil mobile.
 
 ![](assets/eight-3.png)
 
-Pour une prévisualisation plus grande, cliquez sur **Prévisualisation** dans l’angle supérieur droit du courrier électronique.
+Pour obtenir un aperçu plus grand, cliquez sur **Aperçu** dans l’angle supérieur droit de l’email.
 
 ![](assets/preview1.png)
 
@@ -67,44 +66,44 @@ La vue par défaut est Bureau...
 
 ![](assets/preview2.png)
 
-...mais vous pouvez également voir à quoi ressemblera un périphérique mobile. Vous pouvez également prévisualisation la version texte ! Il vous suffit de cliquer sur **Modifier le brouillon** dans l&#39;angle supérieur droit pour reprendre la modification.
+...mais vous pouvez également voir son aspect sur un appareil mobile. Vous pouvez également prévisualiser la version texte. Cliquez simplement sur **Modifier le brouillon** dans l’angle supérieur droit pour reprendre l’édition.
 
 ![](assets/preview3.png)
 
-**Actions de courrier électronique**
+**Actions E-mail**
 
-Sous **Actions de courriel**, vous remarquerez quelques nouvelles fonctionnalités. **Téléchargez une image ou un fichier** et  **attrapez des images à partir du Web**. Vous pouvez également enregistrer le courrier électronique en tant que nouveau modèle de courrier électronique. Tout ce que vous avez à faire est de lui donner un nom et une destination.
+Sous **Actions de courrier électronique**, vous remarquerez de nouvelles fonctionnalités. **Téléchargement d’une image ou d’un fichier**, et **Capture d&#39;images à partir du web**. Vous pouvez également enregistrer l’email lui-même en tant que nouveau modèle d’email. Tout ce que vous avez à faire est de lui donner un nom et une destination.
 
 ![](assets/nine-3.png)
 
 >[!CAUTION]
 >
->Lors de l’enregistrement d’un courrier électronique en tant que modèle, les valeurs de variable ne sont pas reportées. Les variables continueront à utiliser les valeurs par défaut spécifiées dans le modèle sous-jacent. Les modules disponibles dans le courrier électronique ne seront pas non plus reportés s’ils n’ont pas été insérés dans le corps du courrier électronique.
+>Lors de l’enregistrement d’un email en tant que modèle, les valeurs de variable ne seront pas transférées. Les variables continueront à utiliser les valeurs par défaut spécifiées dans le modèle sous-jacent. Les modules disponibles dans l&#39;email ne seront pas non plus reportés s&#39;ils n&#39;ont pas été insérés dans le corps de l&#39;email.
 
 >[!NOTE]
 >
->**[Prenez des images de](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Webworks comme dans Design Studio.
+>**[Capture d&#39;images à partir du web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fonctionne comme dans Design Studio.
 
-**Désactiver le** suivi ouvertSous Paramètres **de** courriel, vous pouvez désactiver le suivi ouvert si nécessaire.
+**Désactiver le suivi des ouvertures** Sous **Paramètres de messagerie électronique**, vous pouvez désactiver le suivi des ouvertures si nécessaire.
 
 ![](assets/thirteen-1.png)
 
-**Paramètres de courrier électronique**
+**Paramètres e-mail**
 
-Vous avez la possibilité d’ajouter un en-tête prédéfini. Un en-tête prédéfini est le texte de résumé court qui suit l’objet lorsque des messages électroniques sont affichés dans votre boîte de réception.
+Vous avez la possibilité d’ajouter un pré-titre. Un pré-titre est le texte de résumé court suivant l’objet lorsque les emails sont affichés dans votre boîte de réception.
 
 ![](assets/edit-settings-preheader-2.png)
 
 >[!CAUTION]
 >
->Les jetons ne fonctionnent pas dans l’en-tête Prédéfini lors de l’utilisation de l’éditeur de courrier électronique. Pour utiliser un jeton dans le Préen-tête, il doit se trouver par le biais de votre propre code HTML dans un modèle de courrier électronique.
+>Les jetons ne fonctionnent pas dans le pré-titre lors de l&#39;utilisation de l&#39;éditeur d&#39;email. Pour utiliser un jeton dans le pré-titre, il doit s&#39;agir de votre propre HTML dans un modèle d&#39;email.
 
-Beaucoup de nouvelles fonctionnalités ! Amuse-toi bien !
+Beaucoup de nouvelles fonctionnalités géniales ! Amuse-toi bien !
 
 >[!NOTE]
 >
->Si vous souhaitez approfondir vos connaissances, regardez cette [vidéo ](https://nation.marketo.com/videos/1463) très utile.
+>Si vous souhaitez approfondir encore votre connaissance, consultez cette section [vidéo utile](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
->[Syntaxe du modèle de courriel](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[Syntaxe du modèle de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

@@ -16,7 +16,7 @@ Les fonctionnalités suivantes sont incluses dans la version de l’hiver 16. Cl
 
 ## [Is Anonymous Filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Le filtre Is Anonymous a été supprimé pour les listes dynamiques. Pour plus d’informations, consultez la [FAQ sur le suivi de Munchkin de nouvelle génération](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) . Cette modification n’a aucune incidence sur la personnalisation web (RTP), qui continue à identifier les visiteurs web anonymes et connus et à personnaliser le contenu en temps réel pour ces visiteurs.
+Le filtre Is Anonymous a été supprimé pour les listes dynamiques. Voir [FAQ sur le suivi de Munchkin de nouvelle génération](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) pour plus d’informations. Cette modification n’a aucune incidence sur la personnalisation web (RTP), qui continue à identifier les visiteurs web anonymes et connus et à personnaliser le contenu en temps réel pour ces visiteurs.
 
 ## [Tableau de bord de la base de données](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
 
@@ -26,11 +26,11 @@ La base de données de piste comporte un tableau de bord de résumé mis à jour
 
 ## [Navigateur Microsoft Edge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Nous avons ajouté Microsoft Edge à la [liste des navigateurs](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) pris en charge par Marketo.
+Nous avons ajouté Microsoft Edge au [liste des navigateurs](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) pris en charge par Marketo.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)  est désormais pris en charge.
+[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) est désormais prise en charge.
 
 ## [Programme d’e-mail Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
@@ -48,9 +48,9 @@ Pour utiliser cette fonctionnalité, le programme de messagerie électronique do
 
 ## [Améliorations du marketing mobile](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Prise en charge de PhoneGap :** nous offrons désormais la prise en charge de PhoneGap pour votre application mobile. [En savoir plus](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**Prise en charge de PhoneGap :** Nous offrons désormais la prise en charge de PhoneGap pour votre application mobile. [En savoir plus](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
-**Prise en charge des applications Sandbox** :
+**Prise en charge des applications Sandbox**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
@@ -60,11 +60,11 @@ Créez, mettez à jour et clonez des programmes par le biais de l’API REST. Ce
 
 ## [Améliorations de Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**[État de synchronisation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)** : Conservez des onglets sur le débit et le journal actuels du processus de synchronisation. Ventilez-la selon le nombre d’insertions et de mises à jour par objet.
+**[État de synchronisation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Conservez des onglets sur le débit et le journal actuels du processus de synchronisation. Ventilez-la selon le nombre d’insertions et de mises à jour par objet.
 
 ![](assets/pending-backog-cropped.png)
 
-**[Notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)** : Recevez des notifications pour les erreurs de synchronisation courantes, ainsi qu’une liste des pistes qui comportent cette erreur.
+**[Notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: Recevez des notifications pour les erreurs de synchronisation courantes, ainsi qu’une liste des pistes qui comportent cette erreur.
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
@@ -76,7 +76,7 @@ Vous pouvez désormais créer des relations de type &quot;plusieurs à plusieurs
 
 ## [Publicités de lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Les ](https://www.facebook.com/business/a/lead-ads) prospects facebook sont un moyen plus direct pour une entreprise d’exécuter des campagnes de génération de prospects sur Facebook. Les utilisateurs remplissent un formulaire pour exprimer leur intérêt pour un produit ou un service, de sorte que l’entreprise puisse les suivre. L’intégration de Marketo avec Facebook Lead Ads capture automatiquement les informations fournies par un prospect dans le formulaire de piste publicitaire. Les actions de suivi et les notifications peuvent ensuite être automatisées à l’aide du nouveau déclencheur Fills Out Facebook Lead Ads.
+[Publicités facebook](https://www.facebook.com/business/a/lead-ads) sont un moyen plus direct pour une entreprise d’exécuter des campagnes de génération de pistes sur Facebook. Les utilisateurs remplissent un formulaire pour exprimer leur intérêt pour un produit ou un service, de sorte que l’entreprise puisse les suivre. L’intégration de Marketo avec Facebook Lead Ads capture automatiquement les informations fournies par un prospect dans le formulaire de piste publicitaire. Les actions de suivi et les notifications peuvent ensuite être automatisées à l’aide du nouveau déclencheur Fills Out Facebook Lead Ads.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 

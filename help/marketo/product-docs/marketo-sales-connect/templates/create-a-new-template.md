@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14352639
-description: Créer un modèle - Documents marketing - Documentation du produit
-title: Créer un modèle
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Création d’un modèle - Documents Marketo - Documentation du produit
+title: Création d’un modèle
+exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
+# Création d’un modèle {#create-a-new-template}
 
-# Créer un modèle {#create-a-new-template}
+1. Accédez au **Modèles** et cliquez sur **Créer un modèle**.
 
-1. Accédez à l&#39;onglet **Modèles** et cliquez sur **Créer un modèle**.
+1. Choisissez une **Catégorie** et **Nom** pour votre modèle d’email, puis cliquez sur **Créer**.
 
-1. Choisissez une **Catégorie** et **Nom** pour votre modèle de courriel, puis cliquez sur **Créer**.
-
-1. Dans l’éditeur de modèles, créez une ligne d’objet pour votre courrier électronique et tapez le message de votre choix. Utilisez les outils de modification (police, taille du texte, etc.) pour personnaliser l’aspect.
+1. Dans l’éditeur de modèles, créez un objet pour votre email et saisissez le message de votre choix. Utiliser les outils d&#39;édition (police, taille du texte, etc.) pour personnaliser l’aspect.
 
 1. Cliquez sur **Enregistrer** pour finaliser vos modifications.
 
 >[!TIP]
 >
->Tapez toujours du texte directement dans le modèle ou copiez-le dans un éditeur de texte brut (p. ex. Bloc-notes ou TextEdit). La copie et le collage à partir d’un éditeur de texte enrichi (c.-à-d. MS Word) peuvent entraîner des irrégularités de formatage.
+>Saisissez toujours du texte directement dans le modèle ou effectuez une copie à partir d’un éditeur de texte brut (Bloc-notes ou TextEdit, par exemple). La copie et le collage à partir d’un éditeur de texte enrichi (c’est-à-dire MS Word) peuvent entraîner des irrégularités de mise en forme.

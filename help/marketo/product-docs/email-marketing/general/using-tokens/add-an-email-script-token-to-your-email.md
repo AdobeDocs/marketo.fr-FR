@@ -1,29 +1,28 @@
 ---
 unique-page-id: 1900575
-description: Ajouter un jeton de script de courrier électronique à votre adresse électronique - Documents marketing - Documentation du produit
-title: Ajouter un jeton de script de courrier électronique à votre adresse électronique
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Ajout d’un jeton de script de courrier électronique à votre message électronique - Documents Marketo - Documentation du produit
+title: Ajout d’un jeton de script de courrier électronique à votre message électronique
+exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
+# Ajout d’un jeton de script de courrier électronique à votre message électronique {#add-an-email-script-token-to-your-email}
 
-# Ajouter un jeton de script de courrier électronique à votre adresse électronique {#add-an-email-script-token-to-your-email}
-
-Après avoir [créé votre script de courrier électronique](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), vous souhaiterez l’ajouter à un message électronique pour l’afficher en action. Voici comment.
+Après avoir [création de votre script de courrier électronique](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), vous souhaitez l’ajouter à un email pour le voir en action. Voici comment.
 
 >[!NOTE]
 >
->La taille totale de tous les jetons de script insérés dans un seul courrier électronique ne peut pas dépasser 100 Ko.
+>La taille totale de tous les jetons de script insérés dans un seul email ne peut pas dépasser 100 Ko.
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez au **Activités marketing** zone.
 
    ![](assets/one-2.png)
 
-1. Recherchez et sélectionnez le courriel auquel vous souhaitez ajouter le jeton et cliquez sur **Modifier le brouillon**.
+1. Recherchez et sélectionnez l’email auquel vous souhaitez ajouter le jeton, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/two-2.png)
 
@@ -31,11 +30,11 @@ Après avoir [créé votre script de courrier électronique](/help/marketo/produ
    >
    >Vous pouvez également ajouter le jeton à un modèle de courrier électronique si vous le souhaitez.
 
-1. Cliquez avec le doublon sur la zone modifiable à laquelle vous souhaitez ajouter le jeton.
+1. Double-cliquez sur la zone modifiable à laquelle vous souhaitez ajouter le jeton.
 
    ![](assets/three-2.png)
 
-1. Placez le curseur à l’endroit où vous souhaitez placer le jeton, puis cliquez sur l’icône Insérer un jeton.
+1. Placez le curseur à l’endroit où vous souhaitez que le jeton soit, puis cliquez sur l’icône Insérer un jeton .
 
    ![](assets/four-2.png)
 
@@ -53,6 +52,6 @@ Après avoir [créé votre script de courrier électronique](/help/marketo/produ
 
 >[!NOTE]
 >
->N&#39;oubliez pas [d&#39;approuver le courriel](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>N&#39;oublie pas de [valider l’email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
-C&#39;est tout ! Lorsque ce courrier électronique est envoyé, le script derrière le jeton s’exécute et remplit le contenu.
+C&#39;est tout ! Lorsque cet email est envoyé, le script derrière le jeton s’exécute et remplit le contenu.

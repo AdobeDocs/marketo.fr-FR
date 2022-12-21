@@ -1,29 +1,28 @@
 ---
 unique-page-id: 27656223
-description: Installation de la personnalisation Salesforce pour les clients de l’édition Professional - Documentation sur le marketing - Documentation du produit
-title: Installation de la personnalisation Salesforce pour les clients Professional Edition
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Installation de la personnalisation Salesforce pour les clients de l’édition professionnelle - Documents Marketo - Documentation du produit
+title: Installation de la personnalisation Salesforce pour les clients de l’édition professionnelle
+exl-id: dc004a28-b580-4449-9fde-e744681ac53a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
+# Installation de la personnalisation Salesforce pour les clients de l’édition professionnelle {#install-salesforce-customization-for-professional-edition-customers}
 
-# Installer la personnalisation Salesforce pour les clients Professional Edition {#install-salesforce-customization-for-professional-edition-customers}
-
-Les clients de Salesforce Professional Edition devront suivre ces étapes pour installer la personnalisation.
+Les clients disposant de Salesforce Professional Edition devront suivre ces étapes pour installer la personnalisation.
 
 >[!PREREQUISITES]
 >
->* L&#39;administrateur de Sales Connect doit connecter leurs comptes Salesforce et Sales Connect.
->* L&#39;instance Salesforce utilisée doit disposer d&#39;espace pour installer treize champs d&#39;Activité personnalisés.
+>* L’administrateur de Sales Connect doit connecter leurs comptes Salesforce et Sales Connect.
+>* L’instance Salesforce utilisée doit disposer d’un espace pour installer treize champs d’activité personnalisés.
 
 
 ## Installation {#installation}
 
-1. Dans Sales Connect, cliquez sur l&#39;icône représentant un engrenage dans l&#39;angle supérieur droit et sélectionnez **Paramètres**.
+1. Dans Sales Connect, cliquez sur l’icône d’engrenage dans le coin supérieur droit, puis sélectionnez **Paramètres**.
 
    ![](assets/one-4.png)
 
@@ -35,21 +34,21 @@ Les clients de Salesforce Professional Edition devront suivre ces étapes pour i
 
    >[!CAUTION]
    >
-   >Si vous êtes connecté, vous verrez un bouton vert &quot;Installer&quot;. **NE** PAS cliquer sur ce bouton, passez à l’étape 4.
+   >Si vous êtes connecté, un bouton vert &quot;Installer&quot; s’affiche. **NE PAS** cliquez sur ce bouton, passez à l’étape 4 à la place.
 
 1. Connectez-vous au compte Salesforce auquel vous êtes connecté, puis cliquez sur [ce lien](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
-1. Vous serez envoyé à la page Installation de Sales Connect.
+1. Vous serez envoyé à la page d’installation de Sales Connect.
 
    ![](assets/install-package.png)
 
 1. Sélectionnez les utilisateurs pour lesquels vous souhaitez installer des personnalisations : Administrateur uniquement, tous les utilisateurs ou des profils spécifiques.
 1. Cliquez sur le bouton **Installer** pour installer la personnalisation.
-1. Pour confirmer l&#39;installation, connectez-vous à votre compte Salesforce.
+1. Pour confirmer la réussite de l’installation, connectez-vous à votre compte Salesforce.
 1. Cliquez sur **Configuration**, recherchez &quot;Packages installés&quot; dans la barre de recherche, puis cliquez sur **Packages installés**.
 
-   Vous y verrez des personnalisations de Marketing Connect Sales Connect.
+   Vous y verrez des personnalisations de Marketo Sales Connect .
 
-   Pour configurer Sales Connect dans votre instance Salesforce, suivez les étapes qui commencent à la section &quot;CONFIGURATION DU SALESFORCE PACKAGE DE SALESFORCE DE VENTE&quot; à la page 7 du Guide d&#39;installation.
+   Pour configurer Sales Connect dans votre instance Salesforce, suivez les étapes qui commencent à la section &quot;CONFIGURATION DU PACKAGE SALESFORCE DES MOTEURS DE VENTE&quot; à la page 7 du Guide d&#39;installation.
 
    >[!NOTE]
    >
@@ -57,6 +56,6 @@ Les clients de Salesforce Professional Edition devront suivre ces étapes pour i
 
 ## Guides {#guides}
 
-[Guide d&#39;installation de Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[Guide d’installation de Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[Guide d&#39;installation de Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Guide d’installation pour Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

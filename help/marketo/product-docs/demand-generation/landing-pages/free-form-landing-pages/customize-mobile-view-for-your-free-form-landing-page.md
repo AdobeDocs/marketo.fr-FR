@@ -1,25 +1,24 @@
 ---
 unique-page-id: 5472283
-description: Personnalisation de la Vue mobile pour votre Landing page de formulaire libre - Documentation sur le marketing - Documentation du produit
-title: Personnalisation de la Vue mobile pour votre Landing page de formulaire libre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Personnalisation de l’affichage mobile pour votre page d’entrée de formulaire libre - Documents Marketo - Documentation du produit
+title: Personnalisation de l’affichage mobile pour votre page d’entrée de formulaire libre
+exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
 
 ---
 
-
-# Personnalisation de la Vue mobile pour votre Landing page de formulaire libre {#customize-mobile-view-for-your-free-form-landing-page}
+# Personnalisation de l’affichage mobile pour votre page d’entrée de formulaire libre {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
->[Ajouter une Vue mobile pour votre Landing page de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
+>[Ajout d’une vue mobile pour votre page d’entrée de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-La vue mobile de votre landing page libre est principalement automatique, mais vous pouvez la personnaliser. Voici comment.
+L’affichage mobile de votre page d’entrée de formulaire libre est principalement automatique, mais vous pouvez la personnaliser. Voici comment.
 
-1. Sélectionnez votre landing page libre.
+1. Sélectionnez votre landing page de forme libre.
 
    ![](assets/selectlandingapge.jpg)
 
@@ -27,17 +26,17 @@ La vue mobile de votre landing page libre est principalement automatique, mais v
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Cliquez sur l&#39;onglet **Mobile**.
+1. Cliquez sur le bouton **Mobile** .
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
-## Vue mobile ou bureau {#mobile-vs-desktop-view}
+## Vue Mobile/Bureau {#mobile-vs-desktop-view}
 
-Sous Eléments de page, vous verrez une icône ![](assets/image2015-1-22-18-3a39-3a53.png) (bureau) et une icône ![](assets/image2015-1-22-18-3a40-3a31.png) (mobile). Vous pouvez ainsi afficher/masquer différents éléments de manière dynamique.
+Sous Eléments de page, un ![](assets/image2015-1-22-18-3a39-3a53.png) (bureau) et une ![](assets/image2015-1-22-18-3a40-3a31.png) Icône (mobile). Vous pouvez ainsi afficher/masquer différents éléments de manière dynamique.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
-Par défaut, tout ce qui se trouve sur la vue de bureau s’affiche sur la vue mobile.
+Par défaut, tous les éléments de la vue Bureau s’affichent sur la vue Mobile.
 
 >[!NOTE]
 >
@@ -47,55 +46,55 @@ Par défaut, tout ce qui se trouve sur la vue de bureau s’affiche sur la vue m
 
 ## Informations importantes à connaître : {#important-things-to-know}
 
-* Les images atteignent la largeur de votre périphérique mobile. Si vous souhaitez des images plus petites, extrayez l’élément de texte enrichi et ajoutez-y votre image.
-* N’utilisez que les formulaires Forms 2.0. Ils sont réactifs et s&#39;ajustent automatiquement.
+* Les images s’étendent sur la largeur de votre appareil mobile. Si vous souhaitez des images plus petites, extrayez l’élément de texte enrichi et ajoutez-y votre image.
+* Utilisez uniquement Forms 2.0 forms. Ils sont réactifs et s’ajustent automatiquement.
 * Un seul élément de modèle est modifiable, BODY#bodyid (Mobile). Vous pouvez l’utiliser pour modifier la couleur d’arrière-plan.
 
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
-## Masquer un élément de la Vue mobile {#hide-an-element-from-the-mobile-view}
+## Masquage d’un élément à partir de la vue mobile {#hide-an-element-from-the-mobile-view}
 
 >[!TIP]
 >
->Moins c&#39;est sur les mobiles. Utilisez moins de mots pour des clients plus heureux.
+>Moins est plus sur les mobiles. Utilisez moins de mots pour des clients plus heureux.
 
-1. Pour masquer un élément, cochez la case correspondante sous la colonne mobile.
+1. Pour masquer un élément, cochez la case correspondante dans la colonne mobile.
 
    ![](assets/image2015-5-21-15-3a28-3a17.png)
 
-1. Parfait ! Cet élément ne sera plus visible dans votre vue mobile.
+1. Mot clé! Cet élément ne sera plus visible dans votre vue mobile.
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
-## Ajouter un élément à la Vue mobile {#add-an-element-to-the-mobile-view}
+## Ajout d’un élément à la vue mobile {#add-an-element-to-the-mobile-view}
 
 >[!TIP]
 >
 >Rendre le contenu spécial (plus court) uniquement pour la vue mobile.
 
-1. Pour ajouter un élément, faites-le glisser sur le landing page de forme libre.
+1. Pour ajouter un élément, faites-le glisser sur la landing page de forme libre.
 
    ![](assets/image2015-5-21-15-3a32-3a22.png)
 
-   Assurez-vous que l’élément est configuré pour s’afficher uniquement sur la vue mobile.
+   Assurez-vous que l’élément est défini pour s’afficher uniquement sur la vue mobile.
 
    ![](assets/image2015-5-21-15-3a35-3a29.png)
 
 >[!TIP]
 >
->La vue mobile peut également présenter un agencement différent d’éléments de page. Déplacez des éléments sur le landing page de forme libre ou réorganisez les objets répertoriés sous **Éléments de page** à l’aide de la fonction glisser-déposer.
+>La vue mobile peut également avoir une disposition différente des éléments de page. Déplacer des objets sur la page d’entrée de forme libre ou réorganiser les objets répertoriés sous **Éléments de page** à l’aide de la fonction glisser-déposer.
 
-## Vue prévisualisation Mobile {#preview-mobile-view}
+## Aperçu de la vue mobile {#preview-mobile-view}
 
-1. Cliquez sur **Version préliminaire de la Prévisualisation**.
+1. Cliquez sur **Aperçu du brouillon**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Vous voulez voir quelque chose de cool ? Sélectionnez **côte à côte**.
+1. Vous voulez voir quelque chose de cool ? Sélectionner **Côté par côté**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
-1. Vous pouvez maintenant voir en même temps les versions de bureau et mobiles de vos landings page !
+1. Vous pouvez désormais voir simultanément les versions pour mobiles et ordinateurs de bureau de vos landing pages.
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
@@ -105,10 +104,10 @@ Par défaut, tout ce qui se trouve sur la vue de bureau s’affiche sur la vue m
 
    >[!NOTE]
    >
-   >La prévisualisation n’est pas interactive. Chaque smartphone affiche les choses un peu différemment. Nous vous recommandons de prévisualiser votre landing page sur quelques périphériques afin de voir exactement comment se comporte le landing page.
+   >L’aperçu n’est pas interactif. Chaque smartphone affiche les choses un peu différemment. Nous vous recommandons de prévisualiser votre landing page sur quelques appareils afin de visualiser exactement le comportement de la landing page.
 
 Amuse-toi bien !
 
 >[!MORELIKETHIS]
 >
->[Rendre un modèle de Landing page de formulaire libre existant compatible avec les dispositifs portables](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+>[Rendre un modèle de page d’entrée de forme libre existant compatible avec les périphériques mobiles](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)

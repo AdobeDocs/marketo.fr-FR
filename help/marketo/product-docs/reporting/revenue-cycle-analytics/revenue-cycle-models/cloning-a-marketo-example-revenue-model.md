@@ -1,25 +1,24 @@
 ---
 unique-page-id: 4718677
-description: Clonage d'un modèle de recettes d'exemple de marché - Documentation de marché - Documentation du produit
-title: Clonage d'un modèle de recettes d'exemple de marketing
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Clonage d’un modèle de revenu d’exemple Marketo - Documents Marketo - Documentation du produit
+title: Clonage d’un modèle de revenu d’exemple Marketo
+exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
+# Clonage d’un modèle de revenu d’exemple Marketo {#cloning-a-marketo-example-revenue-model}
 
-# Clonage d&#39;un modèle de recettes d&#39;exemple de marketing {#cloning-a-marketo-example-revenue-model}
+Marketo comporte des exemples de modélisation des recettes pour vous inspirer. Cloner ces modélisateurs et en faire les vôtres. Voici comment :
 
-Marketo comporte des exemples de modélisation des recettes pour vous aider à vous inspirer. Cloner ces modélisateurs et en faire les vôtres. Voici comment procéder :
-
-1. Accédez à la zone **Analytics**.
+1. Accédez au **Analytics** zone.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Sélectionnez le dossier **Revenue Cycle Modeler**, puis cliquez sur **Exemples de marketing**.
+1. Sélectionner **Modéliseur de cycle des recettes** , puis cliquez sur **Exemples Marketo**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -27,11 +26,11 @@ Marketo comporte des exemples de modélisation des recettes pour vous aider à v
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. Dans la section Actions du modèle, sélectionnez **Cloner le modèle**.
+1. Dans les actions de modèle, sélectionnez **Modèle de clonage**.
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Saisissez un **nom** et cliquez sur **Clone**.
+1. Saisissez un **Nom** et cliquez sur **Cloner**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 

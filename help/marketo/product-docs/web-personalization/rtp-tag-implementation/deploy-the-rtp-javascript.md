@@ -1,44 +1,44 @@
 ---
 unique-page-id: 4719332
-description: Déploiement du code JavaScript RTP - Docs marketing - Documentation du produit
+description: Déploiement du code JavaScript RTP - Documents Marketo - Documentation du produit
 title: Déploiement du code JavaScript RTP
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Déployer le script JavaScript RTP {#deploy-the-rtp-javascript}
+# Déploiement du code JavaScript RTP {#deploy-the-rtp-javascript}
 
 Pour générer et configurer votre balise RTP, suivez les instructions d’installation ci-dessous.
 
-## Générer la balise {#generate-tag}
+## Générez un tag
+ {#generate-tag}
 
 1. Connectez-vous à votre compte RTP. Accédez à **Paramètres du compte**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Dans **Domain** et **Domain Configuration**, recherchez le domaine approprié et cliquez sur **Générer la balise**.
+1. Dans **Domaine** et **Configuration des domaines**, recherchez le domaine approprié, puis cliquez sur **Générer une balise**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
-1. Copiez et collez la balise de personnalisation Web (RTP) dans votre site Web.
+1. Copiez et collez la balise Web Personalization (RTP) dans votre site web.
 
    ![](assets/web-personalization-tag.png)
 
    >[!NOTE]
    >
-   >Copiez la balise JavaScript RTP et collez-la en tant que premier script dans l&#39;en-tête de vos pages, entre les balises `<head> </head>`.
+   >Copiez la balise JavaScript RTP et collez-la en tant que premier script dans l’en-tête de vos pages, entre le `<head> </head>` balises.
 
-   Assurez-vous que la balise s’affiche sur toutes les pages, y compris les landings page et sous-domaines. Pour vérifier cette information, cliquez avec le bouton droit de la souris sur la page de votre site Web. Accédez à la source de la page de Vue dans un navigateur Web. Rechercher : &quot;RTP&quot;.
+   Assurez-vous que la balise apparaît sur toutes les pages, y compris les landing pages et les sous-domaines. Pour le vérifier, cliquez avec le bouton droit de la souris sur la page de votre site web. Accédez à Afficher la source de la page dans un navigateur web. Rechercher : &quot;RTP&quot;.
 
 1. Bascule de balise défini sur **ON**.
 
-   Vérifiez que la bascule Balise est activée. Vous devez début voir le flux de données dans l&#39;onglet Organisation.
+   Vérifiez que le bouton bascule Balise est activé. Vous devriez commencer à voir le flux de données dans l’onglet Organisation.
 
-   Vous êtes maintenant configuré avec la balise RTP et prêt à début [en créant des segments](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) et des campagnes en temps réel !
+   Vous êtes maintenant configuré avec la balise RTP et prêt à commencer. [création de segments](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) et des campagnes en temps réel !
 
 1. Vérifiez que la balise se trouve sur toutes les pages.

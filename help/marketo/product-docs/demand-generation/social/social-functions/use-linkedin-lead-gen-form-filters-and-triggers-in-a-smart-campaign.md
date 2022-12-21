@@ -1,25 +1,24 @@
 ---
 unique-page-id: 12976776
-description: Utiliser des Filtres et des déclencheurs de formulaires de génération de pistes LinkedIn dans un Campaign intelligent - Marketo Docs - Documentation du produit
-title: Utiliser des Filtres de formulaire de génération de pistes LinkedIn et des déclencheurs dans un Campaign dynamique
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Utilisation des filtres de formulaire de génération de piste LinkedIn et des déclencheurs dans une campagne dynamique - Documents Marketo - Documentation du produit
+title: Utilisation des filtres de formulaire de génération de piste LinkedIn et des déclencheurs dans une campagne dynamique
+exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-
-# Utiliser des Filtres de formulaire de génération de pistes LinkedIn et des déclencheurs dans un Campaign dynamique {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
+# Utilisation des filtres de formulaire de génération de piste LinkedIn et des déclencheurs dans une campagne dynamique {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
 Lorsque vous avez activé LinkedIn Lead Gen Forms, vous pouvez les utiliser comme filtres et déclencheurs dans vos campagnes dynamiques.
 
 >[!NOTE]
 >
->Lorsque les utilisateurs envoient leurs informations dans un formulaire de génération de pistes LinkedIn, ces informations sont immédiatement transmises à Marketo, ce qui rend le formulaire disponible dans la liste déroulante Nom du formulaire de génération de pistes. Les noms de formulaire ne seront pas visibles tant qu’au moins une personne n’aura pas envoyé le formulaire.
+>Lorsque les utilisateurs envoient leurs informations dans un formulaire de génération de piste LinkedIn, ces informations sont immédiatement transmises à Marketo, ce qui rend le formulaire disponible dans la liste déroulante Nom du formulaire de génération de piste . Les noms de formulaire ne sont pas visibles tant qu’au moins une personne n’a pas envoyé le formulaire.
 
-1. Utilisez le déclencheur **Remplit le formulaire de génération de pistes LinkedIn** pour agir immédiatement ou le filtre **Rempli le formulaire de génération de pistes LinkedIn** pour les campagnes par lots planifiées ou le filtrage de liste dynamique standard.
+1. Utilisez la variable **Remplit le formulaire de génération de piste LinkedIn** déclenchez l’action immédiatement ou la variable **Formulaire de génération de piste LinkedIn rempli** filtre pour les campagnes par lots planifiées ou le filtrage par liste dynamique standard.
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 

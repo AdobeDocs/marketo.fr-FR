@@ -1,63 +1,62 @@
 ---
 unique-page-id: 14352618
-description: Création d’un Campaign - Documents marketing - Documentation du produit
-title: Créer un Campaign
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Création d’une campagne - Documents Marketo - Documentation du produit
+title: Création d’une campagne
+exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
+# Création d’une campagne {#create-a-campaign}
 
-# Créer un Campaign {#create-a-campaign}
-
-Les campagnes sont une série d’étapes à plusieurs canaux, notamment : e-mails, appels téléphoniques, InMail et tâches personnalisées. Ils vous permettent de rationaliser vos communications avec vos clients potentiels et existants.
+Les campagnes sont une série d’étapes multicanaux, notamment : emails, appels téléphoniques, InMail et tâches personnalisées. Elles vous permettent de rationaliser vos communications avec vos clients potentiels et existants.
 
 Avec les campagnes, vous pouvez :
 
-* **Organiser** : Rationalisez toutes vos activités de diffusion en un seul endroit pour une exécution efficace.
+* **Organisation**: Rationalisez toutes vos activités de sensibilisation au sein d’un seul et même endroit pour une exécution efficace.
 
-* **Échelle** : Planifiez tous vos efforts de sensibilisation afin que vous puissiez accroître vos efforts, minimiser le travail manuel et personnaliser autant que vous le souhaitez.
-* **Mesure** : Assurez le suivi de la réussite de tous vos courriels et tâches au même endroit tout en les enregistrant automatiquement dans Salesforce. En sachant ce qui résonne et conduit à des résultats, vous pouvez constamment tester et améliorer vos résultats.
+* **Échelle**: Planifiez tous vos efforts de sensibilisation afin de réduire vos efforts, de minimiser le travail manuel et de personnaliser autant que nécessaire.
+* **Mesure**: Suivez la réussite de tous vos emails et tâches à un seul endroit tout en les connectant automatiquement à Salesforce. En sachant ce qui a de l’impact et conduit aux résultats, vous pouvez constamment tester et améliorer vos résultats.
 
-Alors, comment mettre en place un Campaign ?
+Alors, comment configurer une campagne ?
 
-1. Cliquez sur l&#39;onglet **Campagnes**.
+1. Cliquez sur le bouton **Campagnes** .
 
    ![](assets/one-1.png)
 
-1. Sélectionnez une catégorie et cliquez sur le bouton **Créer un Campaign** pour créer un Campaign.
+1. Sélectionnez une catégorie et cliquez sur le bouton **Création d’une campagne** pour créer une campagne.
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >Créez une nouvelle catégorie en cliquant sur **+** en regard de **Catégories**.
+   >Créez une catégorie en cliquant sur le bouton **+** en regard de **Catégories**.
 
-1. La catégorie que vous avez choisie sera sélectionnée. Si vous changez d’avis, cliquez sur la liste déroulante et sélectionnez-en une autre. Lorsque vous avez terminé, cliquez sur **Continuer**.
+1. La catégorie choisie sera sélectionnée. Si vous changez d’avis, cliquez sur la liste déroulante et sélectionnez-en une autre. Lorsque vous avez terminé, cliquez sur **Continuer**.
 
    ![](assets/three-1.png)
 
-1. Cliquez sur **Ajouter une étape**.
+1. Cliquez sur **Ajout d’une étape**.
 
    ![](assets/four-1.png)
 
-1. Choisissez entre : Courriel, Appel, InMail ou Tâche personnalisée. Dans cet exemple, nous choisissons [Courriel](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
+1. Choisissez entre : Courriel, Appel, InMail ou Tâche personnalisée. Dans cet exemple, nous choisissons [Email](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
 
    ![](assets/five-1.png)
 
-1. Après avoir créé votre premier jour et votre première étape, le bouton &quot;Ajouter un jour&quot; est activé et vous pouvez ajouter autant de jours et d&#39;étapes que votre processus de vente le nécessite.
+1. Une fois que vous avez créé votre première journée et votre première étape, le bouton &quot;Ajouter un jour&quot; est activé et vous pouvez ajouter autant de jours et d’étapes que le nécessite votre processus de vente.
 
    ![](assets/six.png)
 
    >[!NOTE]
    >
-   >Les &quot;jours&quot; ne sont pas le nombre de jours entre les actions, mais le jour dans la séquence. Par exemple, si votre campagne durera 7 jours, la saisie de &quot;3&quot; signifie que l’action sera exécutée le jour 3 sur 7, **pas** 3 jours plus tard.
+   >&quot;Jours&quot; ne sont pas le nombre de jours entre les actions, mais le jour dans la séquence. Par exemple, si votre campagne va durer 7 jours, la saisie de &quot;3&quot; signifie que l’action sera lancée le jour 3 du 7, **not** 3 jours plus tard.
 
-1. Veillez à personnaliser les options de planification et de réponse, comme sauter les week-ends (ce qui est génial) en visitant l&#39;onglet **Paramètres** de votre Campaign.
+1. Veillez à personnaliser les options de planification et de réponse, telles que sauter les week-ends (ce qui est génial) en consultant la **Onglet Paramètres** pour votre campagne.
 
    ![](assets/seven.png)
 
-   Maintenant il est temps d&#39;début d&#39;Ajouter des gens à votre Campaign !
+   Il est maintenant temps d&#39;ajouter des personnes à votre campagne !

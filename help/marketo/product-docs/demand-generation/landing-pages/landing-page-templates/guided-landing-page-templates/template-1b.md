@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 1B {#template-1b}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 1B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html)
+Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 1B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html)
 
 ![](assets/image2015-5-28-13-3a6-3a5.png)
 

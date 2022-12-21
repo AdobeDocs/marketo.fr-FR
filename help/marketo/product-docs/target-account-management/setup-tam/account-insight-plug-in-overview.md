@@ -20,7 +20,7 @@ Account Insight est un plug-in Chrome qui permet d’afficher des informations e
 
 >[!CAUTION]
 >
->Le plug-in Account Insight ne fonctionne pas dans les abonnements pour lesquels la fonction [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (authentification unique) est activée.
+>Le plug-in Account Insight ne fonctionnera pas dans les abonnements qui ont [SSO uniquement](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (authentification unique) activée.
 
 >[!CAUTION]
 >
@@ -70,7 +70,7 @@ Le flux d’activité affiche l’activité récente, remontant à sept jours.
 
 ![](assets/af1.png)
 
-Cliquez sur le menu déroulant **Filtrer** pour filtrer selon différents types d’activité.
+Cliquez sur le bouton **Filtrer** pour filtrer selon différents types d’activité.
 
 ![](assets/af2.png)
 
@@ -81,5 +81,5 @@ Plusieurs éléments peuvent être cliqués. Cliquez sur le compte nommé pour e
 Plutôt cool !
 
 >[!MORELIKETHIS]
-[Configuration de Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
+>[Configuration de Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

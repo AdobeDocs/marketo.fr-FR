@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Ajouter un jeton système comme lien dans un email {#add-a-system-token-as-a-link-in-an-email}
+# Ajout d’un jeton système en tant que lien dans un courrier électronique {#add-a-system-token-as-a-link-in-an-email}
 
 Vous pouvez utiliser ces jetons système pour personnaliser la position des liens spéciaux dans vos emails.
 
@@ -22,7 +22,7 @@ Les jetons suivants peuvent être utilisés comme liens dans un email ou un mod�
 
 >[!NOTE]
 >
->Ces jetons **ne peuvent pas** être cliqués, sauf dans un lien d’ancrage. Ils peuvent également **ne pas** être incorporés dans un jeton My.
+>Ces jetons seront **not** peut être cliqué, sauf dans un lien d’ancrage. Ils peuvent également **not** être incorporé dans un jeton My Token.
 
 Pour les ajouter à un email, procédez comme suit :
 
@@ -34,11 +34,11 @@ Pour les ajouter à un email, procédez comme suit :
 
    ![](assets/two-1.png)
 
-1. Sélectionnez le texte à convertir en lien qui contiendra le jeton et cliquez sur le bouton **Insérer/Modifier le lien**.
+1. Mettez en surbrillance le texte que vous souhaitez convertir en lien qui contiendra le jeton et cliquez sur le bouton **Insérer/Modifier un lien** bouton .
 
    ![](assets/three-1.png)
 
-1. Saisissez le jeton dans URL du lien et cliquez sur **Insérer**.
+1. Saisissez le jeton dans l’URL du lien, puis cliquez sur **Insérer**.
 
    ![](assets/four-1.png)
 
@@ -52,10 +52,10 @@ Pour les ajouter à un email, procédez comme suit :
 
 >[!IMPORTANT]
 >
->Si vous utilisez cette approche pour ajouter le jeton système &quot;viewAsWebpageLink&quot;, vous pouvez **ne pas** le remplacer à l’aide de jetons. Utilisez plutôt l’approche [Ajouter une vue comme lien de page web à un email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) qui vous permet de remplacer &quot;viewAsWebPageLink&quot; à l’aide de jetons.
+>Si vous utilisez cette approche pour ajouter le jeton système &quot;viewAsWebpageLink&quot;, vous pouvez **not** le remplacer à l’aide de jetons. À la place, utilisez [Ajout d’une vue comme lien de page web à un courrier électronique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) qui permet de remplacer &quot;viewAsWebPageLink&quot; à l’aide de jetons.
 
 >[!NOTE]
 >
->N’oubliez pas de [approuver votre email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) une fois terminé.
+>N&#39;oublie pas de [valider votre email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) une fois terminé.
 
 C&#39;est joli ! Vous savez maintenant comment ajouter un jeton système en tant que lien dans un email.

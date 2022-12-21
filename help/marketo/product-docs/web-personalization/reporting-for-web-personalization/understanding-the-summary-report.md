@@ -1,56 +1,55 @@
 ---
 unique-page-id: 9438258
-description: Présentation du rapport de synthèse - Documents marketing - Documentation du produit
+description: Présentation du rapport de synthèse - Documents Marketo - Documentation du produit
 title: Présentation du rapport de synthèse
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
 
 ---
 
-
 # Présentation du rapport de synthèse {#understanding-the-summary-report}
 
-Le rapport Résumé est une vue mensuelle de toutes les campagnes et des performances recommandées du contenu. Il est basé sur le nombre de clics et le nombre de pistes (directes ou assistées) qui se sont engagées dans la campagne personnalisée ou le contenu recommandé, puis sont devenues une piste connue. Le rapport compare les résultats au mois précédent.
+Le rapport de synthèse est une vue mensuelle de toutes les campagnes et des performances de contenu recommandées. Il est basé sur le nombre de clics et le nombre de pistes (directes ou assistées) qui se sont engagées dans la campagne personnalisée ou le contenu recommandé et qui sont ensuite devenues une piste connue. Le rapport compare les résultats au mois précédent.
 
 >[!NOTE]
 >
 >**Définition**
 >
->Conversion directe : Un visiteur Web qui clique sur une campagne personnalisée ou une ressource de contenu recommandée et, au cours de la même session de visite, remplit tout formulaire du site Web avec son adresse électronique.
+>Conversion directe : Un visiteur web qui clique sur une campagne personnalisée ou une ressource de contenu recommandé et, au cours de la même session de visite, remplit n’importe quel formulaire du site web avec son adresse électronique.
 >
->Conversion assistée : Visiteur Web qui remplit n’importe quel formulaire du site Web et laisse son adresse électronique. Lors d’une précédente visite (au cours des 6 derniers mois), il a cliqué sur une campagne personnalisée ou sur un fichier de contenu recommandé.
+>Conversion assistée : Un visiteur web qui remplit n’importe quel formulaire sur le site web et laisse son adresse électronique. Lors d’une visite précédente (au cours des 6 derniers mois), il a cliqué sur une campagne personnalisée ou une ressource de contenu recommandée.
 
 Dans Personnalisation Web, accédez à **Analytics** et **Rapport de synthèse**.
 
 ![](assets/image2016-4-6-10-3a15-3a58.png)
 
-Sélectionnez **Mois** et cliquez sur **Afficher le rapport**.
+Sélectionner **Mois** et cliquez sur **Afficher le rapport**.
 
 ![](assets/2.png)
 
-La première partie du rapport porte sur les campagnes de personnalisation Web personnalisée et s’affiche :
+La première partie du rapport se rapporte aux campagnes personnalisées de personnalisation web et aux affichages :
 
-* **Clics**  : tous les clics sur les campagnes de personnalisation Web
-* **Conversions**  directes : tous les visiteurs qui ont cliqué sur une campagne de personnalisation Web au cours de la visite et rempli un formulaire.
-* **Taux de conversion**  direct : pourcentage de visiteurs qui sont devenus une piste directe après avoir cliqué sur une campagne de personnalisation Web. Lignes directes divisées par des clics
-* **Conversions**  assistées : tous les visiteurs qui ont rempli un formulaire et cliqué sur une campagne de personnalisation Web lors d’une précédente visite (au cours des 6 derniers mois)
-* **Conseils**  : conseils pour optimiser les performances de vos campagnes de personnalisation Web
-* **Principales campagnes**  : les campagnes les plus performantes au cours de la période sélectionnée, classées par nombre de clics
+* **Clics** : tous les clics sur les campagnes de personnalisation web
+* **Conversions directes** : tous les visiteurs qui ont cliqué sur une campagne de personnalisation web au cours de la visite et ont rempli un formulaire.
+* **Taux de conversion directe** : pourcentage de visiteurs qui sont devenus une piste directe après avoir cliqué sur une campagne de personnalisation web. Modes directs divisés par les clics
+* **Conversions assistées** : tous les visiteurs qui ont rempli un formulaire et cliqué sur une campagne de personnalisation web lors d’une visite précédente (au cours des 6 derniers mois)
+* **Conseils** - conseils pour optimiser les performances de vos campagnes de personnalisation web
+* **Campagnes principales** : les campagnes les plus performantes au cours de la période sélectionnée, classées par nombre de clics
 
 ![](assets/3.png)
 
-La deuxième partie du rapport porte sur le moteur de recommandation Contenu recommandé de la personnalisation Web. Il affiche :
+La deuxième partie du rapport se rapporte au moteur de recommandation Contenu recommandé à partir de la personnalisation web . Il affiche :
 
-* **Clics**  : tous les clics sur la personnalisation Web le contenu recommandé
-* **Conversions**  directes : tous les visiteurs qui ont cliqué sur le contenu recommandé au cours de leur visite et rempli un formulaire.
-* **Taux de conversion**  direct : pourcentage de visiteurs qui sont devenus une piste directe après avoir cliqué sur le contenu recommandé. Lignes directes divisées par des clics
-* **Conversions**  assistées : tous les visiteurs qui ont rempli un formulaire et cliqué sur le contenu recommandé lors d’une précédente visite (au cours des 6 derniers mois)
-* **Conseils**  : conseils pour optimiser l&#39;utilisation du moteur de recommandation de contenu
-* **Recommendations**  supérieure : le contenu recommandé le plus performant au cours de la période sélectionnée, trié par nombre de clics
+* **Clics** : tous les clics sur le contenu recommandé de la personnalisation web
+* **Conversions directes** : tous les visiteurs qui ont cliqué sur du contenu recommandé au cours de leur visite et rempli un formulaire
+* **Taux de conversion directe** : pourcentage de visiteurs qui sont devenus une piste directe après avoir cliqué sur le contenu recommandé. Modes directs divisés par les clics
+* **Conversions assistées** : tous les visiteurs qui ont rempli un formulaire et cliqué sur le contenu recommandé lors d’une visite précédente (au cours des 6 derniers mois)
+* **Conseils** - conseils pour optimiser l’utilisation du moteur de recommandation de contenu
+* **Principales Recommendations** : contenu recommandé le plus performant au cours de la période sélectionnée, classé par nombre de clics
 
 >[!NOTE]
 >
->La personnalisation Web du marketing capture l’adresse électronique du visiteur Web pour tout formulaire renseigné sur le site Web. Cette piste est affichée dans la page Pistes de personnalisation Web et est la piste utilisée dans le rapport Résumé.
+>La personnalisation web de Marketo capture l’adresse électronique du visiteur web pour tout formulaire complété sur le site web. Il s’agit de la piste affichée dans la page Pistes de personnalisation web et de celle utilisée dans le rapport de synthèse.

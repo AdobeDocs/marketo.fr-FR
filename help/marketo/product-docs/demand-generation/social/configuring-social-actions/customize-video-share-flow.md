@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2950553
-description: Personnalisation du flux de partage de vidéos - Documentation marketing - Documentation du produit
+description: Personnalisation du flux de partage vidéo - Documents Marketo - Documentation du produit
 title: Personnalisation du flux de partage vidéo
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
+# Personnalisation du flux de partage vidéo {#customize-video-share-flow}
 
-# Personnalisation du flux de partage de vidéos {#customize-video-share-flow}
-
-Lorsque vous [créez un partage de vidéo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), vous pouvez personnaliser quand et où l’invite de partage s’affiche.
+Lorsque vous [création d’un partage vidéo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), vous pouvez personnaliser quand et où l’invite de partage s’affiche.
 
 1. Accédez à **Activités marketing**.
 
@@ -23,7 +22,7 @@ Lorsque vous [créez un partage de vidéo](/help/marketo/product-docs/demand-gen
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. Dans l’éditeur de partage de vidéos, accédez à **Paramètres de l’application** > **Options avancées**.
+1. Dans l’éditeur de partage vidéo, accédez à **Paramètres de l’application** > **Options avancées**.
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,4 +32,4 @@ Lorsque vous [créez un partage de vidéo](/help/marketo/product-docs/demand-gen
 
 >[!MORELIKETHIS]
 >
->L’étape suivante consiste à [configurer ce qui se passe après le partage de vidéos](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>L’étape suivante consiste à [configurer ce qui se passe après le partage vidéo](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

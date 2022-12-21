@@ -1,31 +1,30 @@
 ---
 unique-page-id: 11380783
-description: TABLEAU DE BORD principal TAM - Docs marketing - Documentation du produit
-title: TABLEAU DE BORD principal TAM
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: Tableau de bord principal TAM - Documents Marketo - Documentation du produit
+title: Tableau de bord principal TAM
+exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
+# Tableau de bord principal TAM {#tam-main-dashboard}
 
-# TABLEAU DE BORD principal TAM {#tam-main-dashboard}
-
-Le tableau de bord principal fournit un résumé de vos efforts de gestion de compte Cible. Vous pouvez voir les comptes de cible ou les listes de compte qui affichent une réussite, ainsi que ceux qui nécessitent davantage d&#39;attention.
+Le tableau de bord principal fournit un résumé de vos efforts de gestion de compte Target. Vous pouvez voir les comptes ou les listes de comptes cibles qui affichent la réussite et ceux qui nécessitent davantage d’attention.
 
 ![](assets/one.png)
 
-Pour filtrer par liste de compte, cliquez sur la liste déroulante Vue...
+Pour filtrer par liste de comptes, cliquez sur le menu déroulant Afficher...
 
 ![](assets/two.png)
 
-...et faites une sélection. Dans cet exemple, nous choisissons notre liste de compte &quot;High Tech&quot;.
+...et effectuez une sélection. Dans cet exemple, nous choisissons notre liste de comptes &quot;haute technologie&quot;.
 
 ![](assets/three.png)
 
-Pour vue au [Tableau de bord de Liste de compte](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard), cliquez sur le nom de la liste de compte que vous avez sélectionnée...
+Pour afficher la variable [Tableau de bord de la liste de comptes](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard), cliquez sur le nom de la liste de comptes que vous avez sélectionnée...
 
 ![](assets/four.png)
 
@@ -33,10 +32,10 @@ Pour vue au [Tableau de bord de Liste de compte](/help/marketo/product-docs/targ
 
 ![](assets/five.png)
 
-Si, au lieu de consulter le Tableau de bord de Liste de compte, vous souhaitez effectuer une analyse approfondie dans un compte nommé, cliquez sur **Plus de détails** sous son nom...
+Si, au lieu d’afficher le tableau de bord de la liste de comptes, vous souhaitez accéder à un compte nommé, cliquez sur **Plus de détails** sous son nom...
 
 ![](assets/six.png)
 
-...et vue les [informations du compte nommé](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
+...et affichez le [informations du compte nommé](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
 
 ![](assets/seven.png)

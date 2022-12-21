@@ -177,6 +177,6 @@ Lorsque vous mettez à jour la langue, tout dans l’application elle-même chan
  <tr>
   <td>Conversations déclenchées</td>
   <td>Nombre de conversations en ligne qui peuvent être présentées aux visiteurs web par jour</td>
-  <td>25 000</td>
+  <td>25,000</td>
  </tr>
 </table>

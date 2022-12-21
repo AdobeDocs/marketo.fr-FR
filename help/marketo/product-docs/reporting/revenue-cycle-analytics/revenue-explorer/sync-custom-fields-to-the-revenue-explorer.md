@@ -1,50 +1,49 @@
 ---
 unique-page-id: 2360341
-description: Synchroniser les champs personnalisés avec l'Explorateur de recettes - Documents marketing - Documentation du produit
-title: Synchroniser les champs personnalisés avec l'Explorateur de recettes
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Synchroniser les champs personnalisés avec l’Explorateur de recettes - Documents Marketo - Documentation du produit
+title: Synchroniser les champs personnalisés avec l’explorateur de recettes
+exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
+# Synchroniser les champs personnalisés avec l’explorateur de recettes {#sync-custom-fields-to-the-revenue-explorer}
 
-# Synchroniser les champs personnalisés avec l&#39;Explorateur de recettes {#sync-custom-fields-to-the-revenue-explorer}
-
-Pour générer des rapports sur les champs de marketing personnalisés, les analyses du cycle des recettes peuvent créer des rapports. Pour ce faire, vous devez configurer les champs personnalisés à synchroniser.
+Revenue Cycle Analytics peut créer des rapports sur les champs Marketo personnalisés. Pour ce faire, vous devez définir les champs personnalisés à synchroniser.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à la section **Admin**.
+1. Accédez au **Administration** .
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Sélectionnez **Analyses du cycle des recettes**.
+1. Sélectionner **Analyse du cycle des recettes**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Cliquez sur l&#39;onglet **Synchronisation de champs personnalisée** et sélectionnez la zone d&#39;analyse de votre choix.
+1. Cliquez sur le bouton **Synchronisation des champs personnalisés** et sélectionnez la zone d’analyse de votre choix.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
-1. Sélectionnez le champ pour lequel activer la synchronisation et cliquez sur **Modifier l&#39;option de synchronisation**.
+1. Sélectionnez le champ pour lequel activer la synchronisation, puis cliquez sur **Modifier l’option de synchronisation**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Remplacez **Etat de synchronisation** par **Activé**.
+1. Modifiez la variable **État de synchronisation** to **Activé**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Sélectionnez le **type RCA** de votre choix, puis cliquez sur **Enregistrer**.
+1. Sélectionnez la **Type RCA** de votre choix, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
    >[!TIP]
    >
-   >Une fois activées, les données seront disponibles dans l’analyse du cycle des recettes le lendemain.
+   >Une fois activées, les données seront disponibles dans les analyses du cycle de revenu le jour suivant.
 
    Beau boulot ! Vous savez maintenant comment ajouter des champs personnalisés à RCA.

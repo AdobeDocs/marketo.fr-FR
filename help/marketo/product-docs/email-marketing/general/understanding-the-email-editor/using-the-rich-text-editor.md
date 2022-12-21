@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2953419
-description: Utilisation de l’éditeur de texte enrichi - Documents marketing - Documentation du produit
+description: Utilisation de l’éditeur de texte enrichi - Documents Marketo - Documentation du produit
 title: Utilisation de l’éditeur de texte enrichi
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '736'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # Utilisation de l’éditeur de texte enrichi {#using-the-rich-text-editor}
 
-L’Editeur de texte enrichi (RTE) s’affiche dans tout le marché et est disponible chaque fois que vous souhaitez ajouter ou modifier du contenu. Vous en verrez une version sur landings page, programmes, courriels, formulaires et extraits de code. Il vous suffit de cliquer sur **Modifier le brouillon** et il apparaîtra pour vous servir.
+L’éditeur de texte enrichi (RTE) s’affiche dans tout Marketo et est disponible lorsque vous souhaitez ajouter ou modifier du contenu. Une version apparaît sur les landing pages, les programmes, les emails, les formulaires et les fragments de code. Cliquez simplement sur **Modifier le brouillon** et il apparaîtra pour vous servir.
 
 ## Paramètres de l’éditeur {#editor-settings}
 
-Le paramètre d’élément de bloc racine définit les balises qui encapsulent votre contenu. Par défaut, l’élément de bloc racine de courrier électronique utilise des balises `<p>`. Vous avez la possibilité de changer cela en suivant les étapes ci-dessous.
+Le paramètre d’élément de bloc racine définit les balises qui encapsulent votre contenu. Par défaut, l’élément de bloc racine d’email utilisé `<p>` balises. Vous avez la possibilité de modifier ce paramètre en suivant les étapes ci-dessous.
 
 >[!TIP]
 >
->Bien que vous ayez la possibilité de choisir votre élément de bloc racine, nous vous recommandons toujours d’utiliser les paramètres par défaut pour optimiser la satisfaction des utilisateurs.
+>Bien que vous ayez la possibilité de choisir votre élément de bloc racine, nous vous recommandons toujours d’utiliser les paramètres par défaut pour optimiser l’expérience utilisateur.
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Courriel**.
+1. Cliquez sur **Email**.
 
    ![](assets/two.png)
 
@@ -35,11 +34,11 @@ Le paramètre d’élément de bloc racine définit les balises qui encapsulent 
 
    ![](assets/three.png)
 
-1. Dans la liste déroulante **Editeur de courriel/extrait de code**, sélectionnez `<div>` ou Aucun, puis cliquez sur **Enregistrer**. `<div>` est utilisée dans cet exemple.
+1. Dans le **Éditeur de courrier électronique/fragment de code** menu déroulant, sélectionnez `<div>` ou Aucun et cliquez sur **Enregistrer**. `<div>` est utilisé dans cet exemple.
 
    ![](assets/four.png)
 
-   Si un modèle de courrier électronique contient `<div class=“mktEditable”></div>`, le comportement de la source HTML suivante s’affiche lorsque vous ouvrez la section et que vous tapez &quot;Texte ici&quot; dans l’éditeur :
+   Si vous avez `<div class=“mktEditable”></div>` Dans un modèle de courrier électronique, le comportement de source de HTML suivant s’affiche lorsque vous ouvrez la section et saisissez &quot;Texte ici&quot; dans l’éditeur :
 
 <table> 
  <tbody> 
@@ -58,68 +57,68 @@ Le paramètre d’élément de bloc racine définit les balises qui encapsulent 
 
 >[!TIP]
 >
->Vous pouvez également modifier l’élément de bloc racine de l’éditeur de Landing page en suivant les mêmes étapes, mais en cliquant sur la liste déroulante **Éditeur de Landing page** à l’étape 4 au lieu de l’Éditeur de courriel/d’extrait de code.
+>Vous pouvez également modifier l’élément de bloc racine de l’éditeur de page d’entrée en procédant de la même manière, mais en cliquant sur le bouton **Éditeur de page d’entrée** de l’étape 4 au lieu de l’éditeur de courrier électronique/de fragment de code.
 
 >[!NOTE]
 >
 >L’élément de bloc racine est toujours `<p>` pour les jetons de programme de texte enrichi.
 
-## Fonctionnalités {#features}
+## Caractéristiques {#features}
 
-Voici les fonctionnalités que vous trouverez dans un RTE.
+Voici les fonctionnalités que vous trouverez dans un éditeur de texte enrichi.
 
-| Icône | Nom | Contenu |
+| Icône | Nom | Fonctionnement |
 |---|---|---|
-| ![—](assets/image2015-7-9-10-3a23-3a24.png) | Famille de polices | Choisissez votre style : nous en avons plein ! |
-| ![—](assets/image2015-7-9-10-3a22-3a11.png) | Taille de police | Quelle taille en voulez-vous ? 25 choix, de 8px à 90px. |
-| ![—](assets/image2015-7-9-10-3a59-3a4.png) | Styles | Choisissez Paragraphe ou six styles d’en-tête (pour les landings page). |
-| ![—](assets/image2015-7-9-10-3a20-3a1.png) | Interligne | Choisissez la distance entre les lignes. |
-| ![—](assets/image2015-7-9-10-3a25-3a52.png) | Couleur du texte | Noir, rouge, ou quoi que ce soit que vous vouliez. |
-| ![—](assets/image2015-7-9-10-3a24-3a38.png) | Couleur d’arrière-plan | Mettez l’accent en évidence. |
-| ![—](assets/image2015-7-9-10-3a28-3a4.png) | Gras | **Plus sombre et plus épais**. |
-| ![—](assets/image2015-7-9-10-3a29-3a1.png) | Italique | *Angled, pour l&#39;accent ou les* citations. |
-| ![—](assets/image2015-7-9-10-3a30-3a56.png) | Souligné | Place une ligne sous votre texte. |
-| ![—](assets/image2015-7-9-10-3a31-3a57.png) | Alignement | Utilisez cette liste déroulante pour mettre en forme votre texte et vos images. Centre-les, choisissez l’alignement à gauche ou à droite ou étalonnez-le d’un bord à l’autre avec une justification complète. |  | ![—](assets/image2015-7-9-10-3a32-3a47.png) | Liste | Choisissez des puces ou des nombres dans la liste déroulante. Les puces sont bonnes pour les listes et les nombres avec les étapes. |
-| ![—](assets/image2015-7-9-10-3a38-3a0.png) | Retrait | Choisissez une mise en retrait plus ou moins importante. Utilisez cette option pour les paragraphes ou tout texte à mettre en évidence. |
-| ![—](assets/image2015-7-9-10-3a38-3a58.png) | Insérer/modifier un lien | insérer un lien vers un site Web ou un autre contenu ; il est facile d&#39;y apporter des modifications. |
-| ![—](assets/image2015-7-9-10-3a39-3a42.png) | Insérer/modifier une image | Une image vaut mille mots. Lâchez-en un. Cliquez sur l’icône d’appareil photo pour parcourir votre studio de création. Vous pouvez déposer des images côte à côte. |
-| ![—](assets/image2015-7-9-10-3a40-3a36.png) | Insérer un jeton | Un outil puissant, idéal pour la personnalisation des courriels et le suivi des données. Veillez à entrer une valeur par défaut. |
-| ![—](assets/image2015-7-9-10-3a41-3a21.png) | Annuler | Oups ! Revenons en arrière et recommençons. |
-| ![—](assets/image2015-7-9-10-3a42-3a13.png) | Rétablir | Si c&#39;est vraiment bon, revenez à l&#39;original. |
-| ![—](assets/image2015-7-9-10-3a43-3a29.png) | Tableau | Construisez la vôtre, comme celle-ci. Un menu déroulant vous permet de le configurer. |
-| ![—](assets/image2015-7-9-10-3a45-3a1.png) | Insérer un ancrage | Déposez l&#39;ancre ! |
-| ![—](assets/image2015-7-9-10-3a45-3a48.png) | Ligne horizontale | Plusieurs utilisations : idéal pour diviser les sections. |
-| ![—](assets/image2015-10-6-12-3a12-3a17.png) | Modifier HTML | Affiche l’éditeur de source HTML afin que vous puissiez ajuster votre code. |
-| ![—](assets/image2015-7-9-10-3a47-3a36.png) | Indice | Lettres en attente basse (comme dans O`<sub>2</sub>`). |
-| ![—](assets/image2015-7-9-10-3a48-3a35.png) | Exposant | Vous avez le pouvoir ! (2`<sup>6</sup>`). |
-| ![—](assets/image2015-7-9-10-3a49-3a31.png) | Barré | `<s>Put a line through text, like this</s>`. |
-| ![—](assets/image2015-7-9-10-3a50-3a11.png) | Caractère spécial | Vous voulez parler d&#39;euros ? Les maths ? Vous avez 243 choix. |
-| ![—](assets/image2015-7-9-10-3a52-3a26.png) | Rechercher et remplacer | Recherchez et modifiez les éléments beaucoup plus rapidement que chaque instance vous-même. |
-| ![—](assets/image2015-7-9-10-3a53-3a37.png) | Effacer la mise en forme | Renvoyez les choses à la norme. |
-| ![—](assets/image2015-7-9-10-3a55-3a2.png) | Annuler | Appuyez sur le bouton pour dire : &quot;Peu importe.&quot; |
-| ![—](assets/image2015-7-9-10-3a56-3a2.png) | Enregistrer | Appuyez sur le bouton pour dire : &quot;OK, je l&#39;aime.&quot; |
+| ![--](assets/image2015-7-9-10-3a23-3a24.png) | Famille de police | Choisissez votre style, nous en avons plein ! |
+| ![--](assets/image2015-7-9-10-3a22-3a11.png) | Taille de la police | Quelle taille en voulez-vous ? 25 choix, de 8 px à 90 px. |
+| ![--](assets/image2015-7-9-10-3a59-3a4.png) | Styles | Choisissez Paragraphe ou six styles d&#39;en-tête (pour les landing pages). |
+| ![--](assets/image2015-7-9-10-3a20-3a1.png) | Espacement des lignes | Choisissez la distance entre les lignes. |
+| ![--](assets/image2015-7-9-10-3a25-3a52.png) | Couleur du texte | Noir, rouge ou quoi que ce soit que vous vouliez. |
+| ![--](assets/image2015-7-9-10-3a24-3a38.png) | Couleur de l’arrière-plan | Surlignez pour mettre l’accent. |
+| ![--](assets/image2015-7-9-10-3a28-3a4.png) | Gras | **Plus sombre et plus épais**. |
+| ![--](assets/image2015-7-9-10-3a29-3a1.png) | Italique | *Anglais, pour l&#39;accent ou les guillemets* s. |
+| ![--](assets/image2015-7-9-10-3a30-3a56.png) | Souligner | Place une ligne sous votre texte. |
+| ![--](assets/image2015-7-9-10-3a31-3a57.png) | Alignement | Utilisez cette liste déroulante pour mettre en page votre texte et vos images. Centrez-les, choisissez l&#39;alignement gauche ou droit, ou étalez-le de haut en haut avec une justification complète. |  | ![--](assets/image2015-7-9-10-3a32-3a47.png) | Liste | Sélectionnez des puces ou des nombres dans la liste déroulante. Les puces sont adaptées aux listes et aux nombres avec des étapes. |
+| ![--](assets/image2015-7-9-10-3a38-3a0.png) | Commencer en retrait | Choisissez plus ou moins une mise en retrait. Utilisez pour les paragraphes ou tout texte que vous souhaitez mettre en évidence. |
+| ![--](assets/image2015-7-9-10-3a38-3a58.png) | Insérer/Modifier le lien | insérer un lien vers un site web ou tout autre contenu ; Il est facile d’y apporter des modifications. |
+| ![--](assets/image2015-7-9-10-3a39-3a42.png) | Insérer/Modifier l’image | Une image vaut mille mots. Laisse-en un. Cliquez sur l’icône de la caméra pour parcourir Design Studio. Vous pouvez déposer les images côte à côte. |
+| ![--](assets/image2015-7-9-10-3a40-3a36.png) | Insérer le jeton | Un outil puissant, idéal pour la personnalisation des emails et le suivi des données. Veillez à saisir une valeur par défaut. |
+| ![--](assets/image2015-7-9-10-3a41-3a21.png) | Annuler | Oups ! Retournons un pas en arrière et réessayez. |
+| ![--](assets/image2015-7-9-10-3a42-3a13.png) | Rétablir | Si c&#39;est vraiment normal, revenez à l&#39;original. |
+| ![--](assets/image2015-7-9-10-3a43-3a29.png) | Table | Construisez la vôtre, comme celle-ci. Un menu déroulant vous permet de le paramétrer. |
+| ![--](assets/image2015-7-9-10-3a45-3a1.png) | Insérer une ancre | Déposez l&#39;ancre ! |
+| ![--](assets/image2015-7-9-10-3a45-3a48.png) | Ligne horizontale | Plusieurs utilisations : idéal pour la division des sections. |
+| ![--](assets/image2015-10-6-12-3a12-3a17.png) | Modifier l’HTML | Permet d’afficher l’éditeur de source de HTML afin que vous puissiez ajuster votre code. |
+| ![--](assets/image2015-7-9-10-3a47-3a36.png) | Indice | Lettres pendantes faibles (comme en O`<sub>2</sub>`). |
+| ![--](assets/image2015-7-9-10-3a48-3a35.png) | Exposant | Vous avez le pouvoir ! (2`<sup>6</sup>`). |
+| ![--](assets/image2015-7-9-10-3a49-3a31.png) | Barré | `<s>Put a line through text, like this</s>`. |
+| ![--](assets/image2015-7-9-10-3a50-3a11.png) | Caractère spécial | Vous voulez parler d&#39;euros ? Les maths ? Vous avez 243 choix. |
+| ![--](assets/image2015-7-9-10-3a52-3a26.png) | Rechercher et remplacer | Recherchez et modifiez les éléments beaucoup plus rapidement que chaque instance vous-même. |
+| ![--](assets/image2015-7-9-10-3a53-3a37.png) | Effacer la mise en forme | Revenez aux éléments standard. |
+| ![--](assets/image2015-7-9-10-3a55-3a2.png) | Annuler | Appuyez sur le bouton pour dire : &quot;Peu importe.&quot; |
+| ![--](assets/image2015-7-9-10-3a56-3a2.png) | Enregistrer | Appuyez sur le bouton pour dire : &quot;OK, j&#39;aime ça.&quot; |
 
 >[!TIP]
 >
->Vous modifiez le code HTML et le texte sur des écrans distincts. Veillez à cliquer sur **Copier à partir du code HTML** dans l&#39;onglet **Texte**, puis sur **Enregistrer** pour que votre texte corresponde à votre code HTML.
+>Vous modifiez le HTML et le texte sur des écrans distincts. Veillez à cliquer sur **Copier à partir du HTML** sur le **Texte** puis **Enregistrer** votre texte correspond donc à votre HTML.
 
 >[!NOTE]
 >
->Vous n’êtes pas limité aux polices dans la liste déroulante. Vous pouvez en utiliser un qui ne figure pas dans la liste en accédant au code HTML. Toutes les polices web sont prises en charge dans Marketing Cloud, mais les polices web ne fonctionnent pas de manière universelle dans tous les clients de messagerie.
+>Vous n’êtes pas limité aux polices dans la liste déroulante. Vous pouvez en utiliser une qui n’est pas répertoriée en accédant au code du HTML. Toutes les polices web sont prises en charge dans Marketo, mais les polices web ne fonctionnent pas de manière universelle dans tous les clients de messagerie.
 
-## landings page {#landing-pages}
+## Pages de destination {#landing-pages}
 
-Le paramètre d’élément de bloc racine définit les balises qui encapsulent votre contenu. Par défaut, l’élément de bloc racine du landing page utilise des balises `<div>`. Vous avez la possibilité de changer cela en suivant les étapes ci-dessous.
+Le paramètre d’élément de bloc racine définit les balises qui encapsulent votre contenu. Par défaut, l’élément de bloc racine de page d’entrée utilise `<div>` balises. Vous avez la possibilité de modifier ce paramètre en suivant les étapes ci-dessous.
 
 >[!TIP]
 >
->Bien que vous ayez la possibilité de choisir votre élément de bloc racine, nous vous recommandons toujours d’utiliser les paramètres par défaut pour optimiser la satisfaction des utilisateurs.
+>Bien que vous ayez la possibilité de choisir votre élément de bloc racine, nous vous recommandons toujours d’utiliser les paramètres par défaut pour optimiser l’expérience utilisateur.
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Courriel**.
+1. Cliquez sur **Email**.
 
    ![](assets/two.png)
 
@@ -127,8 +126,8 @@ Le paramètre d’élément de bloc racine définit les balises qui encapsulent 
 
    ![](assets/three.png)
 
-1. Dans la liste déroulante **Editeur de Landing page**, sélectionnez `<p>` ou Aucun et cliquez sur **Enregistrer**. `<p>` est utilisée dans cet exemple.
+1. Dans le **Éditeur de page d’entrée** menu déroulant, sélectionnez `<p>` ou Aucun et cliquez sur **Enregistrer**. `<p>` est utilisé dans cet exemple.
 
    ![](assets/five.png)
 
-   Et c&#39;est tout !
+   Et voilà !

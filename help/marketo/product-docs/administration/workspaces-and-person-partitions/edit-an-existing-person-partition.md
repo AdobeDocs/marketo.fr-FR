@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2360323
-description: Modifier une partition de personne existante - Documents Marketo - Documentation du produit
-title: Modifier une partition de personne existante
+description: Modification d’une partition de personne existante - Documents Marketo - Documentation du produit
+title: Modification d’une partition de personne existante
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Modifier une partition de personne existante {#edit-an-existing-person-partition}
+# Modification d’une partition de personne existante {#edit-an-existing-person-partition}
 
-Une partition de personne est comme avoir une deuxième (ou une troisième) base de données. Une partition peut être reliée à un ou plusieurs espaces de travail. Voici comment modifier les détails de la partition.
+Une partition de personne, c&#39;est comme avoir une deuxième (ou une troisième) base de données. Une partition peut être rattachée à un ou plusieurs espaces de travail. Voici comment modifier les détails de la partition.
 
 >[!NOTE]
 >
@@ -21,17 +20,17 @@ Une partition de personne est comme avoir une deuxième (ou une troisième) base
 
 >[!PREREQUISITES]
 >
->[Créer une partition de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[Création d’une partition de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
-1. Sous **Admin**, cliquez sur **Espaces de travail et partitions**.
+1. Sous **Administration**, cliquez sur **Espaces de travail et partitions**.
 
    ![](assets/image2014-9-17-10-3a51-3a23.png)
 
-1. Sous l&#39;onglet **Partitions de personne**, sélectionnez la partition de personne à modifier et cliquez sur **Modifier la partition de personne**.
+1. Sous , **Partitions de personne** , sélectionnez la partition de personne à modifier, puis cliquez sur **Modifier la partition de personne**.
 
    ![](assets/two-5.png)
 
-1. Saisissez la partition de personne **Nom**, les **espaces de travail** auxquels ils appartiennent, puis cliquez sur **Enregistrer**.
+1. Saisie de la partition de personne **Nom**, la variable **Espaces de travail** auquel ils appartiennent, puis cliquez sur **Enregistrer**.
 
    ![](assets/three-5.png)
 
@@ -39,8 +38,8 @@ Une partition de personne est comme avoir une deuxième (ou une troisième) base
 
    ![](assets/four-4.png)
 
-C&#39;est tout. Il semble qu&#39;une fonction aussi puissante devrait être complexe, mais ce n&#39;est pas le cas.
+C&#39;est tout. Il semble qu&#39;une fonction si puissante soit complexe, mais ce n&#39;est pas le cas.
 
 >[!CAUTION]
 >
->Mesurez deux fois, coupez une fois. Vous ne souhaitez pas affecter une partition à un espace de travail incorrect.
+>Mesurez deux fois, coupez une fois. Vous ne souhaitez pas attribuer une partition au mauvais espace de travail.

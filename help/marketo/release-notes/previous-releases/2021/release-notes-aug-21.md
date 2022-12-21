@@ -15,7 +15,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 21 août. Pour c
 
 >[!AVAILABILITY]
 >
->Fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage Adobe.
+>Fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Adobe Marketo Engage.
 
 **_Versions trimestrielles_**
 

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 12979010
-description: Aperçu des tendances d’Analyses de performances - Documents marketing - Documentation du produit
-title: Aperçu des tendances des statistiques de performances
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Présentation des tendances sur les performances - Documents Marketo - Documentation du produit
+title: Présentation des tendances des statistiques sur les performances
+exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
+# Présentation des tendances des statistiques sur les performances {#performance-insights-trend-overview}
 
-# Aperçu des tendances des statistiques de performances {#performance-insights-trend-overview}
+La tendance affiche les performances des canaux sur une période donnée.
 
-La tendance présente les performances de canal sur une période donnée.
-
-Cliquez sur l&#39;onglet **Tendance** pour accéder à cette vue.
+Cliquez sur le bouton **Tendance** pour accéder à cette vue.
 
 ![](assets/1.png)
 
@@ -23,7 +22,7 @@ Cliquez sur l&#39;onglet **Tendance** pour accéder à cette vue.
 
 ![](assets/2-1.png)
 
-Sélectionnez la mesure de vue des performances. Dans cet exemple, nous allons examiner les opportunités gagnées par [Première touche](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Sélectionnez la mesure dont vous souhaitez afficher les performances. Dans cet exemple, nous allons examiner les opportunités gagnées via [Première touche](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
@@ -31,26 +30,26 @@ Les mesures sont présentées sous la forme de deux graphiques : beignet et lign
 
 ![](assets/4-1.png)
 
-Le graphique en anneau présente les dix premiers canaux de la mesure sélectionnée.
+Le graphique en anneau présente les dix premiers canaux de la mesure que vous avez sélectionnée.
 
 ![](assets/5-2.png)
 
-Le graphique en courbes présente la tendance des performances de canal pour la mesure sélectionnée au cours des 12 derniers mois.
+Le graphique en courbes présente l’évolution des performances des canaux pour la mesure sélectionnée au cours des 12 derniers mois.
 
 ![](assets/6-1.png)
 
-Sélectionnez un ou plusieurs canaux et le graphique en courbes affiche la tendance du canal. Cliquez de nouveau sur le ou les canaux pour les désélectionner.
+Sélectionnez un ou plusieurs canaux et le graphique en courbes affiche la tendance des canaux. Cliquez à nouveau sur le ou les canaux à désélectionner.
 
 ![](assets/7.png)
 
-La grille de données ci-dessous fonctionne comme une feuille de calcul, affichant toutes les données de tendance disponibles pour la mesure sélectionnée au cours des 12 derniers mois.
+La grille de données ci-dessous fonctionne comme une feuille de calcul, présentant toutes les données de tendance disponibles pour la mesure que vous avez sélectionnée au cours des 12 derniers mois.
 
 ![](assets/8.png)
 
-Développez un canal pour voir ses dix premiers programmes, avec les autres programmes combinés.
+Développez un canal pour afficher ses dix premiers programmes, les autres étant combinés.
 
 ![](assets/9-1.png)
 
 >[!NOTE]
 >
->Si vous cochez la case en regard d’un canal, activez/désactivez-la dans le graphique en anneau.
+>Cliquez sur la case à cocher en regard d’un canal pour l’activer/la désactiver dans le graphique en anneau.

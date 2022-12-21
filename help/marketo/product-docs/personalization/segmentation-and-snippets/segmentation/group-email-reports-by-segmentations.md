@@ -1,45 +1,44 @@
 ---
 unique-page-id: 2359488
-description: Grouper les rapports par courriel par segmentation - Documents marketing - Documentation du produit
-title: Regrouper les rapports par courriel par segment
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Rapports de messagerie de groupe par segments - Documents Marketo - Documentation du produit
+title: Rapports de courriel de groupe par segment
+exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
+# Rapports de courriel de groupe par segment {#group-email-reports-by-segmentations}
 
-# Regrouper les rapports par courriel par segment {#group-email-reports-by-segmentations}
-
-Les segments ne sont pas uniquement destinés au contenu dynamique. Vous pouvez également regrouper votre rapport sur les performances des courriels par segmentation.
+Les segments ne sont pas réservés au contenu dynamique. Vous pouvez également regrouper votre rapport de performances des emails par segmentation.
 
 >[!PREREQUISITES]
 >
 >[Approbation d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Accédez à la zone **Activités marketing** (ou **Analytics**).
+1. Accédez au **Activités marketing** (ou **Analytics**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Sélectionnez votre rapport **Performances du courriel**.
+1. Sélectionnez votre **Performances des emails** rapport.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Cliquez sur l&#39;onglet **Configuration** et faites glisser **Regrouper par segments**.
+1. Cliquez sur le bouton **Configuration** par glisser-déposer ; **Regrouper par segmentation**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Choisissez une ou deux segments à utiliser pour regrouper votre rapport. Cliquez sur **Appliquer**.
+1. Sélectionnez une ou deux segments à utiliser pour regrouper votre rapport. Cliquez sur **Appliquer**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. C&#39;est tout ! Cliquez sur l&#39;onglet **Rapport**. Si vous utilisez une segmentation, votre rapport affiche une ligne pour chaque segment.
+1. C&#39;est tout ! Cliquez sur le bouton **Rapport** . Si vous utilisez une segmentation, votre rapport affiche une ligne pour chaque segment.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. Si vous utilisez deux segments, une ligne s’affiche pour chaque _combinaison_ de segments.
+1. Si vous utilisez deux segments, une ligne est affichée pour chaque segment. _combinaison_ de segments.
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 

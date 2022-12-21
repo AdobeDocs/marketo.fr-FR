@@ -55,9 +55,9 @@ Cliquez sur l’icône Plus (![—](assets/image2015-2-18-8-3a40-3a59.png)) ouvr
 
 >[!NOTE]
 >
->* Les campagnes web de boîte de dialogue et de widgets peuvent utiliser les options N’importe quelle page et Caractère générique (*).
-* Dans les cas d’utilisation avancés, les campagnes Web In Zone peuvent utiliser des caractères génériques à la fin du chemin d’accès à l’URL. Exemple : [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
-* L’URL est sensible à la casse
+>* Les campagnes web de type boîte de dialogue et widget peuvent utiliser n’importe quelle page et caractère générique (&#42;).
+>* Dans les cas d’utilisation avancés, les campagnes Web In Zone peuvent utiliser des caractères génériques à la fin du chemin d’accès à l’URL. Exemple : [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* L’URL est sensible à la casse
 
 
 ## Ajout d’une URL cible pour les campagnes web dans la zone {#adding-a-target-url-for-in-zone-web-campaigns}
@@ -73,12 +73,14 @@ Cliquez sur l’icône Plus (![—](assets/image2015-2-18-8-3a40-3a59.png)) ouvr
 1. Ajouter un **Nom de la campagne**. Sélectionnez une **Segment cible**. Ajouter **URL cible**.
 
    >[!NOTE]
-   L’URL cible avec des zones In Zones doit définir une ou plusieurs URL spécifiques. Dans les cas d’utilisation avancés, les campagnes Web In Zone peuvent utiliser des caractères génériques à la fin du chemin d’accès à l’URL. Exemple : [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >
+   >L’URL cible avec des zones In Zones doit définir une ou plusieurs URL spécifiques. Dans les cas d’utilisation avancés, les campagnes Web In Zone peuvent utiliser des caractères génériques à la fin du chemin d’accès à l’URL. Exemple : [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
-* [Création d’une campagne de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Création d’un RTP dans une campagne de zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Création d’une campagne de widgets RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>
+>* [Création d’une campagne de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Création d’un RTP dans une campagne de zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Création d’une campagne de widgets RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 

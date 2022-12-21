@@ -1,29 +1,26 @@
 ---
 unique-page-id: 2359491
-description: Ajouter un test A/B - Documents marketing - Documentation du produit
-title: Ajouter un test A/B
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Ajout d’un test A/B - Documents Marketo - Documentation du produit
+title: Ajout d’un test A/B
+exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-
-# Ajouter un test A/B {#add-an-a-b-test}
+# Ajout d’un test A/B {#add-an-a-b-test}
 
 >[!PREREQUISITES]
 >
->* [Créer un Programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Définir une Audience avec une ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) liste dynamique  [Définir une Audience en imitant une Liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
-   >
-   >
-* [Choisir un ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) courriel existant  [Créer un courriel pour un Programme de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Création d’un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Définition d’une audience avec une liste dynamique](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Définition d’une audience en important une liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>
+>* [Choisir un email existant](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou [Création d’un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 
-Les tests sont un excellent moyen d&#39;optimiser vos courriels pour un meilleur engagement. Voici comment commencer.
+Le test est un excellent moyen d’optimiser vos emails pour un meilleur engagement. Voici comment commencer.
 
 1. Accédez à **Activités marketing**.
 
@@ -33,24 +30,24 @@ Les tests sont un excellent moyen d&#39;optimiser vos courriels pour un meilleur
 
    ![](assets/selectemailprogram.jpg)
 
-1. Sous la mosaïque **E-mail**, cliquez sur **Ajouter le test A/B**.
+1. Sous , **Email** mosaïque, cliquez sur **Ajout d’un test A/B**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 
    >[!NOTE]
    >
-   >Lors de l’ajout d’un test A/B, le courrier électronique sélectionné ne sera plus disponible pour une utilisation dans un autre programme.
+   >Lors de l’ajout d’un test A/B, l’email sélectionné ne sera plus disponible dans aucun autre programme.
 
-1. Une nouvelle fenêtre s&#39;ouvre avec différents **types de test** à choisir. Consultez l’un des articles connexes ci-dessous pour continuer.
+1. Une nouvelle fenêtre s’ouvre avec différentes **Types de test** pour choisir parmi . Consultez l’un des articles connexes ci-dessous pour continuer.
 
    >[!CAUTION]
    >
-   >Si votre base de données contient des enregistrements de duplicata, ces enregistrements recevront **à la fois** le test et les courriers électroniques gagnants. Pour éviter cela, veillez à [rechercher et à fusionner des personnes de duplicata](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) dans votre base de données.
+   >Si votre base de données contient des enregistrements en double, ces enregistrements seront récupérés. **both** le test et les emails gagnants. Pour éviter que cela ne se produise, assurez-vous que vous [rechercher et fusionner des doublons ;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) dans votre base de données.
 
 >[!MORELIKETHIS]
 >
->* [Utiliser le test A/B &quot;Objet Line&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
->* [Utiliser le test A/B &quot;Courrier électronique complet&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
->* [Utiliser le test A/B &quot;From Address&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
->* [Utiliser les tests A/B &quot;Date/Heure&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+>* [Utiliser le test A/B &quot;Objet&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+>* [Utiliser le test A/B &quot;E-mail entier&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+>* [Utiliser le test A/B &quot;A partir de l’adresse&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+>* [Utiliser le test A/B &quot;Date/Heure&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 

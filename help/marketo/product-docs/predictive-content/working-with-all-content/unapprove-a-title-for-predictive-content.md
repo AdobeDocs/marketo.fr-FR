@@ -1,42 +1,41 @@
 ---
 unique-page-id: 11384663
-description: Désapprobation d’un titre pour le contenu prédictif - Documents marketing - Documentation du produit
-title: Désapprobation d’un titre pour un contenu prédictif
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Annulation de l’approbation d’un titre pour le contenu prédictif - Documents Marketo - Documentation du produit
+title: Désapprobation d’un titre pour le contenu prédictif
+exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
+# Désapprobation d’un titre pour le contenu prédictif {#unapprove-a-title-for-predictive-content}
 
-# Désapprouver un titre pour le contenu prédictif {#unapprove-a-title-for-predictive-content}
-
-Vous pouvez désapprouver tout titre pour le contenu prédictif sur votre page Tout le contenu ou dans la fenêtre contextuelle Modifier le contenu.
+Vous pouvez annuler l’approbation de n’importe quel titre pour le contenu prédictif sur votre page Tout le contenu ou dans la fenêtre contextuelle Modifier le contenu .
 
 ## Toute la page de contenu {#all-content-page}
 
-1. Sur la page Tout le contenu, cochez la case en regard de l’élément de contenu pour le sélectionner.
+1. Sur la page Tout le contenu , cochez la case en regard de l’élément de contenu pour le sélectionner.
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Cliquez sur la liste déroulante **Actions de contenu** et sélectionnez **Désapprouver pour le contenu prédictif**.
+1. Cliquez sur le bouton **Actions de contenu** et sélectionnez **Non approuvé pour le contenu prédictif**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
-## Modifier la fenêtre contextuelle de contenu {#edit-content-pop-up}
+## Menu contextuel Modifier le contenu {#edit-content-pop-up}
 
-Vous pouvez désapprouver un titre lorsque vous le modifiez.
+Vous pouvez annuler l’approbation d’un titre lorsque vous le modifiez.
 
-1. Passez la souris sur un élément de contenu, puis cliquez sur l’icône Modifier située à la fin de la ligne.
+1. Passez la souris sur un élément de contenu, puis cliquez sur l’icône de modification à la fin de la ligne.
 
    ![](assets/click-icon-hand.png)
 
-1. Décochez la case **Approuver pour le contenu prédictif** et cliquez sur **Enregistrer**.
+1. Décochez la case **Approbation du contenu prédictif** puis cliquez sur **Enregistrer**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
-Quelle que soit la méthode que vous utilisez, l’icône d’approbation n’apparaît plus sur la page Tout le contenu et le titre disparaît de la page Contenu prédictif.
+Quelle que soit la méthode que vous utilisez, l’icône d’approbation n’apparaît plus sur la page Contenu complet et le titre disparaît de la page Contenu prédictif.
 
 ![](assets/unapprove-content-no-icon.png)

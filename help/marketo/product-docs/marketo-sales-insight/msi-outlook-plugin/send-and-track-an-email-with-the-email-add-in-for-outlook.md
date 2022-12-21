@@ -1,58 +1,57 @@
 ---
 unique-page-id: 2949716
-description: Envoyer et effectuer le suivi d'un courriel avec l'Ajoute électronique pour Outlook - Documents marketing - Documentation du produit
-title: Envoi et suivi d'un courriel avec l'Ajoute électronique pour Outlook
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie pour Outlook - Documents Marketo - Documentation du produit
+title: Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie pour Outlook
+exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
+# Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie pour Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
-# Envoyer et suivre un courriel avec l&#39;Ajoute électronique pour Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
-
-Vous pouvez envoyer et suivre des courriers électroniques avec Marketo directement depuis Outlook.
+Vous pouvez envoyer des emails et en effectuer le suivi avec Marketo directement depuis Outlook.
 
 >[!PREREQUISITES]
 >
->Si vous ne l&#39;avez pas encore fait, installez le module complémentaire [Marketo par courrier électronique pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Si vous ne l’avez pas encore fait, installez le [Module complémentaire de messagerie Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
-1. Ouvrez Microsoft Outlook et créez un nouveau courrier électronique.
+1. Ouvrez Microsoft Outlook et créez un email.
 
    ![](assets/image2014-9-23-16-3a6-3a46.png)
 
    >[!CAUTION]
    >
-   >Si vous incluez plusieurs destinataires dans le courrier électronique, toutes les activités seront suivies sous le premier destinataire.
+   >Si vous incluez plusieurs destinataires dans l&#39;email, toutes les activités seront trackées sous le premier destinataire.
 
-1. Composez votre courriel comme vous le feriez normalement, puis cliquez sur **Envoyer et effectuer le suivi**.
+1. Composer votre email comme vous le feriez normalement, puis cliquez sur **Envoi et suivi**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
    >[!NOTE]
    >
-   >Si vous envoyez un courrier électronique à une personne qui n’existe pas dans votre instance de marketing, un enregistrement de personne est automatiquement créé pour elle. Leur nom de famille sera toujours &quot;mktUnknown&quot; afin que vous puissiez facilement les trouver.
+   >Si vous envoyez un courrier électronique à une personne qui n’existe pas dans votre instance Marketo, un enregistrement de personne sera automatiquement créé pour elle. Leur nom de famille sera toujours &quot;mktUnknown&quot; afin que vous puissiez facilement les trouver.
 
    >[!TIP]
    >
-   >Si vous souhaitez utiliser un modèle Marketo, voir [Envoyer et effectuer le suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Si vous souhaitez utiliser un modèle Marketo, reportez-vous à la section [Envoi et suivi depuis Outlook à l’aide d’un modèle](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
-1. Regardez la prévisualisation et cliquez sur **Envoyer**.
+1. Consultez l’aperçu et cliquez sur **Envoyer**.
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
    >[!CAUTION]
    >
-   >La technologie antispam rejette souvent les ouvertures et les clics qui se produisent dans les 20 secondes suivant l&#39;envoi du courrier électronique. Veuillez donc attendre au moins ce temps pour ouvrir/cliquer pendant le test.
+   >La technologie anti-spam rejette souvent les ouvertures et les clics qui se produisent dans les 20 secondes suivant l&#39;envoi de l&#39;email. Par conséquent, attendez au moins ce temps avant d&#39;ouvrir/cliquer pendant le test.
 
-   Pour savoir qui a reçu vos courriers électroniques envoyés par Outlook, créez une liste intelligente à l&#39;aide du filtre &quot;Courriel de vente envoyé&quot;.
+   Pour savoir qui a reçu vos emails envoyés par le biais d’Outlook, créez une liste dynamique à l’aide du filtre &quot;A été envoyé par courrier électronique&quot;.
 
    ![](assets/was-sent-sales-email.png)
 
-C&#39;est si facile ! Bien que ce courrier électronique ait été envoyé par Outlook d&#39;un vendeur, il sera suivi dans Marketo.
+C&#39;est si facile ! Même si cet email a été envoyé par Outlook d’un vendeur, il sera suivi dans Marketo.
 
 >[!MORELIKETHIS]
 >
->[Enregistrer le courrier entrant provenant de vos pistes dans Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Connexion au courrier entrant à partir de vos pistes dans Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

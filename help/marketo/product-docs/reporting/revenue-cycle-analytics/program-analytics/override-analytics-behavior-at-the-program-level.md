@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2360421
-description: Remplacement du comportement d’Analytics au niveau du Programme - Documents marketing - Documentation du produit
-title: Remplacement du comportement d’Analytics au niveau du Programme
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Remplacement du comportement d’Analytics au niveau du programme - Documents Marketo - Documentation du produit
+title: Remplacement du comportement d’Analytics au niveau du programme
+exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
+# Remplacement du comportement d’Analytics au niveau du programme {#override-analytics-behavior-at-the-program-level}
 
-# Remplacement du comportement d’Analytics au niveau du Programme {#override-analytics-behavior-at-the-program-level}
+Vous pouvez définir la variable [comportement des analyses au niveau administrateur sur les canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) mais vous pouvez également la remplacer au niveau du programme. Voici comment :
 
-Vous pouvez définir le comportement [des analyses au niveau de l’administrateur sur canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), mais vous pouvez également le remplacer au niveau du programme. Voici comment procéder :
-
-1. Accédez à la zone **Activités marketing**.
+1. Accédez au **Activités marketing** zone.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,23 +22,23 @@ Vous pouvez définir le comportement [des analyses au niveau de l’administrate
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Sous l’onglet **Configuration**, faites glisser le comportement Analytics dans la trame.
+1. Sous , **Configuration** , faites glisser Comportement d’analyse dans la zone de travail.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. Sélectionnez le comportement Analytics que vous souhaitez.
+1. Sélectionnez le comportement Analytics souhaité.
 
    >[!NOTE]
    >
    >**Définition**
    >
-   >* **Inclusif**  : cette option garantit que le programme est disponible pour le rapports dans les analyseurs et explorateurs de recettes, que vous ayez inclus ou non un coût de période.
-   >* **Opérationnel**  : cette option a pour effet que le programme ne s&#39;affiche ni dans l&#39;explorateur de recettes ni dans les analyseurs.
+   >* **Inclusif** - Cette option garantit que le programme est disponible pour la création de rapports dans l’explorateur et les analyseurs de recettes, que vous ayez inclus ou non un coût par période.
+   >* **Opérationnel** - Avec cette option, le programme ne s’affiche ni dans l’explorateur de recettes ni dans les analyseurs.
 
 
    >[!NOTE]
    >
-   >Le comportement par défaut (si ce paramètre n’est pas appliqué) est que le programme est inclus dans Analytics **UNIQUEMENT s’il y a au moins un coût de période**, même un coût nul affecté.
+   >Le comportement par défaut (si ce paramètre n’est pas appliqué) est que le programme est inclus dans Analytics. **UNIQUEMENT s’il existe au moins un coût de période**, même un avec zéro dollar affecté.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
@@ -47,8 +46,8 @@ Vous pouvez définir le comportement [des analyses au niveau de l’administrate
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-Bien joué ! Vous savez maintenant comment remplacer le comportement des analyses au niveau du programme.
+C&#39;est joli ! Vous savez maintenant comment remplacer le comportement d’analyse au niveau du programme.
 
 >[!NOTE]
 >
->Les modifications prendront effet le lendemain et seront soit rendues disponibles, soit extraites des explorateurs et analyseurs de recettes.
+>Les modifications prendront effet le lendemain et seront soit mises à disposition, soit extraites des analyseurs et explorateurs de recettes.

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Prévisualiser et tester une campagne web {#preview-and-test-a-web-campaign}
 
-Cet article présente différentes manières de prévisualiser une campagne web, ainsi que comment la tester à l’aide d’un segment sandbox actif sur votre site web.
+Cet article vous présente différentes manières de prévisualiser une campagne web, ainsi que comment la tester à l’aide d’un segment sandbox actif sur votre site web.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Cet article présente différentes manières de prévisualiser une campagne web,
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Cliquez sur **Créer une campagne Web** ou sur l’icône pour modifier une campagne existante.
+1. Cliquez sur **Créer une campagne web** ou l’icône permettant de modifier une campagne existante.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -34,11 +34,11 @@ Cet article présente différentes manières de prévisualiser une campagne web,
 
    >[!TIP]
    >
-   >Cliquez sur **Partager** pour ouvrir un email avec une URL fixe de l&#39;aperçu de la campagne.
+   >Cliquez sur **Partager** pour ouvrir un email contenant une URL fixe de l&#39;aperçu de la campagne.
 
    >[!NOTE]
    >
-   >Vous avez également la possibilité d’installer un module externe de navigateur (soit [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) pour obtenir un aperçu de votre campagne optimal. Consultez la section ci-dessous.
+   >Vous avez également la possibilité d’installer un module externe de navigateur (soit [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) pour la meilleure expérience de prévisualisation de votre campagne. Consultez la section ci-dessous.
 
 ## Aperçu d’une campagne web sur la page de création à l’aide du plug-in de navigateur {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -52,7 +52,7 @@ Cet article présente différentes manières de prévisualiser une campagne web,
 
    ![](assets/five.png)
 
-1. Cliquez sur **Ajouter l’extension**.
+1. Cliquez sur **Ajouter une extension**.
 
    ![](assets/six.png)
 
@@ -66,7 +66,7 @@ Cet article présente différentes manières de prévisualiser une campagne web,
 
 ## Prévisualiser une campagne web sur la page des campagnes web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Lorsque vous consultez la liste de vos campagnes web, sélectionnez simplement une campagne et cliquez sur l’icône **Aperçu**.
+1. Lorsque vous consultez la liste de vos campagnes web, sélectionnez simplement une campagne et cliquez sur le bouton **Aperçu** icône .
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -86,7 +86,7 @@ Créez un segment et une campagne d’environnement de test.
 
 1. Nommez le segment.
 
-1. Sous Comportement, faites glisser Inclure des pages sur la zone de travail. Ajoutez la valeur *sandbox=1*. Cliquez sur **Enregistrer et définir la campagne**.
+1. Sous Comportement, faites glisser Inclure des pages sur la zone de travail. Ajouter la valeur &#42;sandbox=1&#42;. Cliquez sur **Enregistrer et définir une campagne**.
 
    ![](assets/segment.png)
 
@@ -94,7 +94,7 @@ Créez un segment et une campagne d’environnement de test.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Terminez la création de la campagne et cliquez sur **Lancer**.
+1. Terminez la campagne créative et cliquez sur **Launch**.
 
    ![](assets/click-launch.jpg)
 
@@ -108,4 +108,4 @@ Créez un segment et une campagne d’environnement de test.
 
 >[!NOTE]
 >
->Les campagnes de redirection ne peuvent pas être prévisualisées. Le seul moyen de les tester consiste à utiliser un segment sandbox (qui cible les pages spécifiques - *sandbox=redirect*).
+>Les campagnes de redirection ne peuvent pas être prévisualisées. Le seul moyen de les tester consiste à utiliser un segment sandbox (qui cible par des pages spécifiques - &#42;sandbox=redirect&#42;)

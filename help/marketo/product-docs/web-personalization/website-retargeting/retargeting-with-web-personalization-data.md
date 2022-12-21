@@ -1,58 +1,57 @@
 ---
 unique-page-id: 4720796
-description: Reciblage avec les données de personnalisation Web - Documentation marketing - Documentation du produit
-title: Reciblage avec les données de personnalisation Web
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Reciblage à l’aide de données de personnalisation web - Documents Marketo - Documentation du produit
+title: Reciblage à l’aide de données de personnalisation web
+exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-
-# Reciblage avec les données de personnalisation Web {#retargeting-with-web-personalization-data}
+# Reciblage à l’aide de données de personnalisation web {#retargeting-with-web-personalization-data}
 
 >[!AVAILABILITY]
 >
->Le reciblage de site Web relève désormais du volet Personnalisation Web. Si vous avez acheté uniquement le ciblage, cette mosaïque s’affiche et accédez au produit Personnalisation Web avec **uniquement** les fonctionnalités de ciblage activées. Vous avez ainsi accès aux paramètres du compte, à la page de reciblage, aux segments et aux pages de suivi supplémentaires.
+>Le reciblage de site web tombe désormais sous la mosaïque Personnalisation web . Si vous avez acheté uniquement le ciblage, cette mosaïque s’affiche et accédez au produit Personnalisation web avec **only** Fonctionnalités de reciblage activées. Vous avez ainsi accès aux paramètres du compte, à la page de reciblage, aux segments et aux pages de suivi supplémentaires.
 
-Cibles de remarketing qui ont déjà visité votre site par le passé avec des publicités affichées en fonction de leur identité et de ce qu’elles ont fait. Le reciblage personnalisé cible des audiences spécifiques avec des publicités pertinentes basées sur l’industrie, les comptes nommés et les données sur les personnes connues.
+Le remarketing cible les prospects qui ont déjà visité votre site avec de la publicité display en fonction de qui ils sont et de ce qu’ils ont fait. Le reciblage personnalisé cible des audiences spécifiques avec des publicités pertinentes basées sur le secteur, les comptes nommés et les données de personnes connues.
 
-La personnalisation Web ajoute actuellement des données aux plateformes de remarketing suivantes :
+La personnalisation web ajoute actuellement des données aux plateformes de remarketing suivantes :
 
 * [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 * [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
-La personnalisation Web envoie les données suivantes aux plateformes de remarketing pour créer des audiences et exécuter des campagnes publicitaires de remarketing :
+La personnalisation web envoie les données suivantes aux plateformes de remarketing pour créer des audiences et exécuter des campagnes publicitaires de remarketing :
 
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1">Données de personnalisation Web</th> 
+   <th colspan="1">Données de personnalisation web</th> 
   </tr> 
   <tr> 
-   <th><p>Industrie</p></th> 
+   <th><p>Secteur</p></th> 
   </tr> 
   <tr> 
-   <th><p>Groupe (Entreprise, PME)</p></th> 
+   <th><p>Groupe (Enterprise, SMB)</p></th> 
   </tr> 
   <tr> 
    <th><p>Catégorie (Fortune 500/1000, Global 2000)</p></th> 
   </tr> 
   <tr> 
-   <th><p>LISTE ABM (Listes de compte nommées)</p></th> 
+   <th><p>Liste ABM (listes de comptes nommés)</p></th> 
   </tr> 
   <tr> 
    <th><p>Audience segmentée (basée sur des segments)</p></th> 
   </tr> 
   <tr> 
-   <th><p>Campagnes Web cliquées</p></th> 
+   <th><p>Campagnes Web Cliquées</p></th> 
   </tr> 
  </tbody> 
 </table>
 
-## Configuration de remarketing {#remarketing-configuration}
+## Configuration des remarketing {#remarketing-configuration}
 
 1. Accédez à **Reciblage**.
 
@@ -62,40 +61,40 @@ La personnalisation Web envoie les données suivantes aux plateformes de remarke
    >
    >La configuration de reciblage est par domaine ou sous-domaine. Activez les autres domaines si vous souhaitez envoyer des données de ces domaines à la plateforme de reciblage.
 
-1. Activer les paramètres pour les Google Analytics ou Google Universal Analytics par domaine.
+1. Activez les paramètres pour les Google Analytics ou Google Universal Analytics par domaine.
 
    >[!NOTE]
    >
-   >La balise de ciblage Google doit être implémentée sur votre site Web.
+   >La balise de reciblage Google doit être implémentée sur votre site web.
    >
-   >Si vous avez déjà configuré votre intégration à la personnalisation Web et aux Google Analytics, vous n’avez pas besoin de modifier cette partie car il s’agit de la même configuration sous Paramètres du compte.
+   >Si vous avez déjà configuré votre intégration à la personnalisation web et aux Google Analytics, il n’est pas nécessaire de modifier cette partie, car il s’agit de la même configuration sous Paramètres du compte.
 
    ![](assets/two.png)
 
-1. Activez la configuration pour Facebook. Cliquez et développez l’accordéon Facebook, cliquez sur **On** pour envoyer le Événement et les données correspondants à l’Audience Manager Facebook. Cliquez sur **Enregistrer**.
+1. Activez la configuration pour Facebook. Cliquez sur et développez l’accordéon Facebook, puis cliquez sur **Activé** pour envoyer l’événement et les données respectifs à l’Audience Manager Facebook. Cliquez sur **Enregistrer**.
 
    >[!NOTE]
    >
-   >Pour que cette fonctionnalité fonctionne, vous devez avoir [Facebook Custom Audience Pixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)installé votre site Web.
+   >Vous devez avoir [Pixel d’audience personnalisée facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)a installé votre site web pour que cette fonctionnalité fonctionne.
 
    ![](assets/three.png)
 
-## Création d’une Audience segmentée {#creating-segmented-audience}
+## Création d’une audience segmentée {#creating-segmented-audience}
 
-Une Audience segmentée vous permet de sélectionner un segment existant comme audience à utiliser pour les campagnes de reciblage. Par exemple, en sélectionnant les segments Personne connue.
+Une audience segmentée permet de sélectionner un segment existant comme audience à utiliser pour les campagnes de reciblage. Par exemple, en sélectionnant vos segments Personne connue .
 
 >[!TIP]
 >
->Il n’est pas nécessaire de créer une Audience segmentée pour l’industrie ou d’autres données qui ont déjà été envoyées dans la configuration de domaine. Il est préférable d’utiliser des Audiences segmentées pour les segments basés sur des données de personne connue.
+>Il n’est pas nécessaire de créer une audience segmentée pour le secteur ou d’autres données qui ont déjà été envoyées dans la configuration du domaine. Il est préférable d’utiliser des audiences segmentées pour les segments basés sur des données de personnes connues.
 
-1. Cliquez sur **Créer une Audience segmentée**.
+1. Cliquez sur **Création d’une audience segmentée**.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
-1. Saisissez le nom de l’audience, sélectionnez Canaux et sélectionnez Segment dans la liste des segments existants.
+1. Saisissez le nom de l’audience, sélectionnez Canaux, puis Segment dans la liste des segments existants.
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
 1. Cliquez sur **Enregistrer**.
 
-   Vous avez maintenant terminé la configuration du reciblage dans la personnalisation Web, vous connectez à vos plateformes de reciblage et créez vos audiences en fonction de ces données et configurez vos campagnes publicitaires de reciblage.
+   Vous avez terminé la configuration du reciblage dans la personnalisation web, vous êtes connecté à vos plateformes de reciblage, vous créez vos audiences en fonction de ces données et vous configurez vos campagnes publicitaires de reciblage.

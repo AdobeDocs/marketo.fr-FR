@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147001
-description: Utilisation de la logique de règle de Liste intelligente standard - Docs Marketo - Documentation du produit
-title: Utilisation de la logique de règle de Liste intelligente standard
+description: Utilisation de la logique de règle de liste dynamique standard - Documents Marketo - Documentation du produit
+title: Utilisation de la logique de règle de liste dynamique standard
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
@@ -11,21 +10,21 @@ ht-degree: 0%
 
 ---
 
-# Utilisation de la logique de règle de Liste intelligente standard {#using-standard-smart-list-rule-logic}
+# Utilisation de la logique de règle de liste dynamique standard {#using-standard-smart-list-rule-logic}
 
-Vous avez peut-être remarqué l’option &quot;Utiliser les filtres&quot; lors de la création de listes dynamiques de campagne. Ce paramètre vous permet de décider si les filtres doivent être évalués avec un opérateur ET ou OU.
+Vous avez peut-être remarqué l’option &quot;Utiliser des filtres&quot; lors de la création de listes dynamiques de campagne. Ce paramètre vous permet de décider si les filtres doivent être évalués avec un opérateur ET ou OU.
 
 ![](assets/image2014-9-22-14-3a12-3a42.png)
 
 >[!NOTE]
 >
->La modification de la logique de règle de liste intelligente s’applique uniquement aux filtres, **et non** déclencheurs.
+>La modification de la logique des règles de liste dynamique s’applique uniquement aux filtres, **not** déclencheurs.
 
-Les déclencheurs sont toujours évalués comme OU, même si le paramètre ci-dessus est défini sur ALL.  Voici un exemple :
+Les déclencheurs sont toujours évalués en tant que OU même si le paramètre ci-dessus est défini sur ALL.  Voici un exemple :
 
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
-La liste intelligente ci-dessus, en termes :
+La liste dynamique ci-dessus en termes :
 
 ```box
 IF person fills out My Form
@@ -38,8 +37,8 @@ Country is USA
 THEN follow the campaign's flow step(s)
 ```
 
-Ainsi, si une personne remplit le formulaire **ou** visite la page, la campagne évalue cette personne en fonction de **all** ou **any** des filtres suivants, selon le paramètre utilisé.
+Ainsi, si une personne remplit le formulaire **ou** visite la page, la campagne évalue ensuite cette personne en fonction de **all** ou **any** des filtres suivants, selon le paramètre utilisé.
 
 >[!MORELIKETHIS]
 >
->[Utilisation de la logique avancée des règles de Liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
+>[Utilisation de la logique de règle de liste dynamique avancée](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)

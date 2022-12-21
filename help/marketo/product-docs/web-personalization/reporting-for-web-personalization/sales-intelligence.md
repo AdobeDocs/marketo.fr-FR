@@ -1,34 +1,33 @@
 ---
 unique-page-id: 10096420
-description: Intelligence commerciale - Documentation marketing - Documentation du produit
-title: Intelligence commerciale
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Intelligence commerciale - Documents Marketo - Documentation du produit
+title: Veille commerciale
+exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Veille commerciale {#sales-intelligence}
 
-# Intelligence commerciale {#sales-intelligence}
+La personnalisation web de Marketo fournit des informations précieuses sur les visiteurs web anonymes et connus et les organisations qui visitent votre site web. Les responsables des ventes peuvent l’utiliser pour suivre, surveiller et recevoir des alertes sur les organisations et comptes clés en fonction d’une région spécifique.
 
-La personnalisation Web de Marketing Cloud fournit des informations précieuses sur les visiteurs et organisations Web anonymes et connus qui visitent votre site Web. Les responsables des ventes peuvent l&#39;utiliser pour suivre, surveiller et recevoir des alertes sur les principales organisations et comptes en fonction d&#39;une région spécifique.
+Accédez-y en vous connectant à la plateforme de personnalisation web Marketo par le biais d’un rapport d’e-mail quotidien/hebdomadaire ou en l’affichant sur l’application mobile.
 
-Pour y accéder, connectez-vous à la plate-forme de personnalisation Web de Marketing Cloud, par le biais d’un rapport d’e-mail quotidien/hebdomadaire ou consultez-le sur l’application mobile.
+## Définition de la région de l’utilisateur {#define-the-users-region}
 
-## Définir la région de l’utilisateur {#define-the-users-region}
+Pour définir les données d’organisation et de visiteur affichées dans la personnalisation web Marketo par région, pays ou état, accédez à [Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) et sélectionnez les pays ou les états.
 
-Pour définir les données de l&#39;organisation et du Visiteur affichées dans la personnalisation Web du marketing par région, pays ou état, accédez à [Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) et sélectionnez les pays ou états.
+## Configuration de rapports par courriel quotidiens ou hebdomadaires {#set-up-daily-or-weekly-email-reports}
 
-## Configurer des rapports par courriel quotidiens ou hebdomadaires {#set-up-daily-or-weekly-email-reports}
-
-Dans [Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), vous pouvez configurer pour recevoir des rapports par courriel quotidiens ou hebdomadaires, envoyés tôt le matin. Les Principaux rapports présentant un intérêt pour un responsable commercial comprennent les rapports Organisations et Pistes, qui affichent les principales organisations visitées et les pistes envoyées, y compris leurs comportements, à partir de la région spécifique de l&#39;utilisateur.
+Dans [Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), vous pouvez configurer pour recevoir des rapports par e-mail quotidiens ou hebdomadaires, envoyés tôt le matin. Les Principaux rapports d’intérêt pour un chargé de vente comprennent les rapports Organisations et Pistes, qui affichent les principales organisations visitées et les prospects envoyés, y compris leurs comportements, depuis la région spécifique de l’utilisateur.
 
 >[!NOTE]
 >
->Nous vous recommandons de configurer des responsables de vente avec l&#39;autorisation de vue uniquement dans la personnalisation Web de Marketo. Cela signifie qu’ils peuvent vue toutes les pages, mais pas créer, modifier ou supprimer des fonctionnalités.
+>Nous vous recommandons de configurer des responsables de vente avec une autorisation d’affichage uniquement dans la personnalisation web Marketo. Cela signifie qu’ils peuvent afficher toutes les pages, mais pas créer, modifier ou supprimer des fonctionnalités.
 
 >[!MORELIKETHIS]
 >
->[Rapports par courriel](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
+>[Envoyer les rapports par e-mail](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)

@@ -1,43 +1,42 @@
 ---
 unique-page-id: 7514009
-description: Présentation de la zone d'Analyse de la phase des recettes du Programme - Documents marketing - Documentation du produit
-title: Présentation de la zone d'Analyse de la phase des recettes du Programme
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Présentation de la zone d’analyse des recettes du programme - Documents Marketo - Documentation du produit
+title: Présentation de la zone d’analyse de l’étape Recettes du programme
+exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Présentation de la zone d’analyse de l’étape Recettes du programme {#understanding-the-program-revenue-stage-analysis-area}
 
-# Présentation de la zone d&#39;Analyse de la phase des recettes du Programme {#understanding-the-program-revenue-stage-analysis-area}
+Ce champ d’analyse vous permet d’analyser l’efficacité de programmes individuels ou de voir les résultats résumés par canal. Il fournit des informations sur le nombre de nouveaux noms générés qui ont atteint des étapes de chemin de réussite particulières dans votre modèle de cycle des recettes.
 
-Cette zone d&#39;analyse vous permet d&#39;analyser l&#39;efficacité de chaque programme ou de voir les résultats résumés par canal. Il fournit des informations sur le nombre de nouveaux noms générés qui ont atteint des étapes de cheminement de réussite particulières dans votre modèle de cycle de recettes.
+**Voici quelques exemples de questions auxquelles vous pouvez répondre à l’aide de cette zone d’analyse :**:
 
-**Voici quelques exemples de questions professionnelles auxquelles vous pouvez répondre à l’aide de cette zone d’analyse :**
-
-Combien de nouveaux noms d&#39;un programme donné ont déjà atteint un stade spécifique de mon modèle ?
+Combien de nouveaux noms d’un programme donné ont jamais atteint une étape spécifique dans mon modèle ?
 
 ![](assets/one-3.png)
 
-Combien de nouveaux noms d&#39;un programme donné en sont actuellement à une étape spécifique dans mon modèle ?
+Combien de nouveaux noms d’un programme donné se trouvent actuellement dans une étape spécifique de mon modèle ?
 
 ![](assets/two-3.png)
 
-Combien de jours faut-il pour que les résultats atteignent leur stade actuel ?
+Combien de jours cela prend-il pour mener à leur stade actuel ?
 
 ![](assets/three-3.png)
 
-**Dimensions et mesures concernant l&#39;Analyse des recettes programmes**
+**Dimensions et mesures d’analyse de l’étape des recettes du programme**
 
-Les Dimensions et mesures sont classées par fonctionnalité et sont représentées par des points jaunes ou bleus dans le système : jaune pour les dimensions et bleu pour les mesures. Utilisez les dimensions et les mesures d&#39;analyse de l&#39;étape des recettes du programme pour répondre à des questions spécifiques dans votre rapport.
+Les Dimensions et mesures sont classées par fonctionnalité et représentées par des points jaunes ou bleus dans le système : jaune pour les dimensions et bleu pour les mesures. Utilisez les dimensions et mesures d’analyse de l’étape des recettes du programme pour répondre à des questions spécifiques dans votre rapport.
 
-Pour vue des dimensions ou mesures disponibles dans une catégorie, cliquez sur la flèche vers la droite en regard d’un nom de catégorie pour développer la liste de catégorie. Cliquez sur la flèche vers le bas pour réduire la liste de catégorie.
+Pour afficher les dimensions ou mesures disponibles dans une catégorie, cliquez sur la flèche droite en regard d’un nom de catégorie pour développer la liste des catégories. Cliquez sur la flèche vers le bas pour réduire la liste des catégories.
 
 >[!TIP]
 >
->Pour obtenir plus d’informations sur une dimension ou une mesure particulière lors de la lecture du rapport, placez le pointeur de la souris dessus.
+>Pour obtenir plus d’informations sur une dimension ou une mesure spécifique lors de la consultation du rapport, passez la souris dessus.
 
 **Attributs de modèle**
 
@@ -49,27 +48,27 @@ Pour vue des dimensions ou mesures disponibles dans une catégorie, cliquez sur 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Est Principal de modèle</p></td> 
-   <td colspan="1" rowspan="1"><p>Indique si le modèle est actuellement approuvé et principal.</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit si le modèle est actuellement approuvé et principal.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Est Principal à l’étape</p></td> 
-   <td colspan="1" rowspan="1"><p>Indique si l’étape est principale.</p></td> 
+   <td colspan="1" rowspan="1"><p>Est Principal dans l’évaluation</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit si la scène est principale</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Sur le chemin de réussite</p></td> 
-   <td colspan="1" rowspan="1"><p>Indique si l’étape se trouve sur le chemin de réussite ou non.</p></td> 
+   <td colspan="1" rowspan="1"><p>Sur le chemin de succès</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit si l’étape se trouve sur le chemin de succès ou non.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Modèle</p></td> 
    <td colspan="1" rowspan="1"><p>Nom du modèle</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Phase</p></td> 
+   <td colspan="1" rowspan="1"><p>Étape</p></td> 
    <td colspan="1" rowspan="1"><p>Les étapes qui existent dans votre modèle de cycle des recettes. Utilisé comme étape De lors de l’analyse des mesures entre deux étapes</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Type d’étape</p></td> 
-   <td colspan="1" rowspan="1"><p>Décrit le type ; Inventaire, contrat de niveau de service (SLA) ou Porte à chaque étape</p></td> 
+   <td colspan="1" rowspan="1"><p>Type d’évaluation</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit le type ; Inventaire, contrat de niveau de service ou point de contrôle pour chaque étape</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -83,8 +82,8 @@ Pour vue des dimensions ou mesures disponibles dans une catégorie, cliquez sur 
    <td colspan="1" rowspan="1"><p><strong>Description</strong></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Canal programme</p></td> 
-   <td colspan="1" rowspan="1"><p>Canal programme</p></td> 
+   <td colspan="1" rowspan="1"><p>Canal de programme</p></td> 
+   <td colspan="1" rowspan="1"><p>Canal de programme</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Nom du programme</p></td> 
@@ -93,7 +92,7 @@ Pour vue des dimensions ou mesures disponibles dans une catégorie, cliquez sur 
  </tbody> 
 </table>
 
-**Période de coût programme**
+**Période de coût du programme**
 
 <table> 
  <tbody> 
@@ -102,51 +101,51 @@ Pour vue des dimensions ou mesures disponibles dans une catégorie, cliquez sur 
    <td colspan="1" rowspan="1"><p><strong>Description</strong></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Année du coût</p></td> 
-   <td colspan="1" rowspan="1"><p>Période de coût programme</p></td> 
+   <td colspan="1" rowspan="1"><p>Année de coût</p></td> 
+   <td colspan="1" rowspan="1"><p>Période de coût du programme</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Trimestre des coûts</p></td> 
-   <td colspan="1" rowspan="1"><p>Période de coût programme</p></td> 
+   <td colspan="1" rowspan="1"><p>Trimestre de coûts</p></td> 
+   <td colspan="1" rowspan="1"><p>Période de coût du programme</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Mois des coûts</p></td> 
-   <td colspan="1" rowspan="1"><p>Période de coût programme</p></td> 
+   <td colspan="1" rowspan="1"><p>Mois de coût</p></td> 
+   <td colspan="1" rowspan="1"><p>Période de coût du programme</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Appartenance à l’étape**
+**Appartenance à l’évaluation**
 
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Mesure</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Mesurer</strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>Description</strong></p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Est Principal de modèle</p></td> 
-   <td colspan="1" rowspan="1"><p>Indique si le modèle est actuellement approuvé et principal.</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit si le modèle est actuellement approuvé et principal.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Est Principal à l’étape</p></td> 
-   <td colspan="1" rowspan="1"><p>Indique si l’étape est principale.</p></td> 
+   <td colspan="1" rowspan="1"><p>Est Principal dans l’évaluation</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit si la scène est principale</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Sur le chemin de réussite</p></td> 
-   <td colspan="1" rowspan="1"><p>Indique si l’étape se trouve sur le chemin de réussite ou non.</p></td> 
+   <td colspan="1" rowspan="1"><p>Sur le chemin de succès</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit si l’étape se trouve sur le chemin de succès ou non.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Coût par nouveau nom</p></td> 
-   <td colspan="1" rowspan="1"><p>Le coût moyen d'un nouveau nom qui a déjà atteint l'étape</p></td> 
+   <td colspan="1" rowspan="1"><p>Le coût moyen d’un nouveau nom ayant jamais atteint l’étape</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Nouveaux noms (actuels)</p></td> 
-   <td colspan="1" rowspan="1"><p>Nombre total de pistes qui se trouvent actuellement dans la phase et ont été acquises par le programme</p></td> 
+   <td colspan="1" rowspan="1"><p>Nombre total de pistes actuellement à l’étape et qui ont été acquises par le programme</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Nouveaux noms (jamais)</p></td> 
-   <td colspan="1" rowspan="1"><p>Décrit le type ; Inventaire, contrat de niveau de service (SLA) ou Porte à chaque étape</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit le type ; Inventaire, contrat de niveau de service ou point de contrôle pour chaque étape</p></td> 
   </tr> 
  </tbody> 
 </table>

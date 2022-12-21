@@ -16,7 +16,7 @@ Les fonctionnalités suivantes sont incluses dans la version d’août 2013.
 
 **E-mails en texte brut**
 
-Vous pouvez maintenant envoyer [uniquement la version texte](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) d’un email. Gardez à l’esprit que les liens ne seront pas décorés lors de l’utilisation de cette option.
+Maintenant, vous pouvez envoyer [juste la version texte](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) d’un email. Gardez à l’esprit que les liens ne seront pas décorés lors de l’utilisation de cette option.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -24,13 +24,13 @@ Vous pouvez maintenant envoyer [uniquement la version texte](/help/marketo/produ
 
 ### Ignorer le contenu extrait {#ignore-exhausted-content}
 
-Configurez le programme d’engagement pour [ignorer l’épuisement](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), y compris la suppression des notifications.
+Configuration du programme d’engagement pour [ignorer l&#39;épuisement](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), y compris la suppression des notifications.
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## Test de flux d’engagement {#engagement-stream-testing}
 
-Utilisez la [nouvelle fonctionnalité de test](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) pour simuler une diffusion et tester le contenu nouvellement ajouté à un flux en direct.
+Utilisez la variable [nouvelle fonctionnalité de test](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) pour simuler une diffusion et tester le contenu nouvellement ajouté à un flux en direct.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -42,13 +42,13 @@ Lorsque vous envoyez un e-mail test, vous pouvez choisir le nom d&#39;un lead po
 
 ## &quot;Afficher le courrier électronique comme page web&quot; et &quot;Désabonner&quot; jetons système {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-Utilisez ces [nouveaux jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) pour mieux contrôler leur placement dans les emails.
+Les utiliser [nouveaux jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) pour offrir un meilleur contrôle sur leur placement dans les emails.
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## Nettoyage des campagnes à déclencheurs automatique {#automatic-trigger-campaign-cleanup}
 
-Marketo vous avertit désormais régulièrement et [désactive automatiquement les campagnes de déclenchement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) qui ne se sont pas exécutées au cours des six derniers mois.
+Marketo vous avertira désormais de manière périodique et [désactivation automatique des campagnes de déclenchement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) qui n&#39;ont pas été exécutés au cours des six derniers mois.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 

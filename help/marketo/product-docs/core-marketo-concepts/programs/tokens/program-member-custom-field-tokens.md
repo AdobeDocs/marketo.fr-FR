@@ -5,7 +5,7 @@ title: Jetons de champ personnalisés des membres du programme
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
 **E-mails**
 
-1. Sélectionnez l’adresse électronique souhaitée et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez l’adresse électronique de votre choix, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -55,7 +55,7 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
 **Pages de destination**
 
-1. Sélectionnez votre page d’entrée et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre page d’entrée, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -85,11 +85,11 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
 **SMS**
 
-1. Sélectionnez le SMS souhaité et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez le SMS souhaité, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Cliquez sur le bouton **`{{ Token`** .
+1. Cliquez sur le bouton **`{{ Token`** bouton .
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -103,7 +103,7 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
 **Notifications Push**
 
-1. Sélectionnez la notification push souhaitée et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez la notification push souhaitée, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
@@ -111,7 +111,7 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Cliquez sur le message dans l&#39;éditeur et cliquez sur le bouton `{{` pour obtenir le sélecteur de jetons.
+1. Cliquez sur le message dans l’éditeur, puis sur le bouton `{{` pour obtenir le sélecteur de jetons.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
@@ -119,7 +119,7 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Cliquez sur **Terminer** pour enregistrer et quitter (ou **Suivant** pour passer en revue la page en premier).
+1. Cliquez sur **Terminer** pour enregistrer et quitter (ou **Suivant** pour la première fois).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

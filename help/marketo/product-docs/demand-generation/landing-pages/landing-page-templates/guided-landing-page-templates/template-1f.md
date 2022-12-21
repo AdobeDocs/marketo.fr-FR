@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 1F {#template-1f}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 1F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html)
+Cliquez avec le bouton droit de la souris sur [Télécharger le modèle 1F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html)
 
 ![](assets/image2015-5-29-9-3a9-3a19.png)
 

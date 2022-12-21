@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359839
-description: Test d’un flux d’engagement - Documents marketing - Documentation du produit
-title: Test d’un flux d’engagement
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Test d’un flux d’engagement - Documents Marketo - Documentation du produit
+title: Tester un stream d'engagement
+exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# Test d’un flux d’engagement {#test-an-engagement-stream}
+# Tester un stream d&#39;engagement {#test-an-engagement-stream}
 
 Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les tester un par un.
 
@@ -23,30 +22,30 @@ Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les te
 
    ![](assets/two.png)
 
-1. Cliquez sur **Actions de Programme** et sélectionnez **Test Stream**.
+1. Cliquez sur **Actions de programme** et sélectionnez **Flux de test**.
 
    ![](assets/three.png)
 
-1. Sélectionnez votre personne dans la liste déroulante **Tester la personne**. Rappelez-vous, le contenu va effectivement sortir, alors gardez cela à l&#39;esprit quand vous choisissez.
+1. Sélectionnez votre personne dans la **Personne de test** menu déroulant. Rappelez-vous, le contenu va sortir, alors gardez cela à l&#39;esprit lorsque vous choisissez.
 
    ![](assets/four-rubix.png)
 
    >[!CAUTION]
    >
-   >Assurez-vous que votre personne de test est unique et ne dispose pas de duplicata dans la base de données.
+   >Assurez-vous que votre personne de test est unique et ne comporte pas de doublons dans la base de données.
 
    >[!TIP]
    >
-   >Si la personne que vous recherchez n&#39;existe pas, utilisez l&#39;option **Créer une personne** pour en créer une à la volée.
+   >Si la personne que vous recherchez n’existe pas, utilisez la variable **Créer une personne** pour en créer une à la volée.
 
    Cliquez sur Flux initial, sélectionnez le flux à tester, puis cliquez sur Exécuter le flux.
    ![](assets/five-rubiks.png)
 
-1. Après avoir passé en revue les [règles de transition](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) précédemment configurées, cliquez sur l’icône Actualiser.
+1. Une fois que la personne passe par le [règles de transition](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) Si vous avez précédemment configuré l’application, cliquez sur l’icône Actualiser .
 
    ![](assets/six-rubiks.png)
 
-1. Le nouveau flux apparaît, indiquant un test réussi.
+1. Le nouveau flux s’affiche, indiquant un test réussi.
 
    ![](assets/seven-rubiks.png)
 
@@ -54,4 +53,4 @@ Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les te
 
    >[!NOTE]
    >
-   >Aucun autre contenu ne sera envoyé à moins que vous ne cliquiez sur **Exécuter à nouveau**.
+   >Aucun autre contenu ne sera envoyé, sauf si vous cliquez sur **Exécuter à nouveau**.

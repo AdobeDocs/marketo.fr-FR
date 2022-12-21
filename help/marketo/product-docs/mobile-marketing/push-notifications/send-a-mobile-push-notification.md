@@ -1,45 +1,44 @@
 ---
 unique-page-id: 7512457
-description: Envoyer une notification Push mobile - Documents marketing - Documentation du produit
-title: Envoyer une notification Push mobile
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Envoi d’une notification push mobile - Documents Marketo - Documentation du produit
+title: Envoi d’une notification push mobile
+exl-id: b462857e-c63d-419d-9e28-aafc778e217e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Envoi d’une notification push mobile {#send-a-mobile-push-notification}
 
-# Envoyer une notification Push mobile {#send-a-mobile-push-notification}
-
-Envoyez une notification Push aux utilisateurs de votre application mobile.
+Envoyez une notification push aux personnes qui utilisent votre application mobile.
 
 >[!PREREQUISITES]
 >
->* [Créer une Campaign intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
->* [Créer une notification Push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [Création d’une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Création d’une notification push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez au **Activités marketing** zone.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Sélectionnez votre campagne intelligente et cliquez sur **Liste intelligente**.
+1. Sélectionnez votre campagne dynamique et cliquez sur **Liste dynamique**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. Définissez votre liste intelligente, puis cliquez sur **Flux**.
+1. Définissez votre liste dynamique, puis cliquez sur **Flux**.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Sélectionnez une notification Push. Cliquez sur **Planification**.
+1. Sélectionnez une notification push. Cliquez sur **Planification**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
    >[!NOTE]
    >
-   >La notification Push doit être approuvée avant d’apparaître dans la liste déroulante.
+   >La notification push doit être approuvée avant d&#39;apparaître dans la liste déroulante.
 
 1. Cliquez sur **Exécuter une fois**.
 
@@ -49,4 +48,4 @@ Envoyez une notification Push aux utilisateurs de votre application mobile.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
-Asseyez-vous et attendez que votre notification Push sorte.
+Patientez et attendez que votre notification push sorte.

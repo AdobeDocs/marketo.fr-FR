@@ -1,29 +1,28 @@
 ---
 unique-page-id: 14352410
-description: Ajouter votre signature électronique - Documents marketing - Documentation du produit
-title: Ajouter votre signature électronique
-translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+description: Ajout de votre signature électronique - Documents Marketo - Documentation du produit
+title: Ajouter votre signature de courrier électronique
+exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
+# Ajouter votre signature de courrier électronique {#add-your-email-signature}
 
-# Ajouter votre signature électronique {#add-your-email-signature}
-
-Nous voulons que le courrier électronique de Sales Connect soit une expérience transparente lors de l&#39;envoi à partir de votre propre client de messagerie. Pour ce faire, vous pouvez ajouter votre signature électronique.
+Nous souhaitons que le courrier électronique de Sales Connect soit une expérience transparente lors de l’envoi depuis votre propre client de messagerie. Pour ce faire, ajoutez votre signature électronique.
 
 1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/add-your-email-signature-1.png)
 
-1. Sous Mon compte, sélectionnez **Paramètres de courriel**.
+1. Sous Mon compte, sélectionnez **Paramètres de messagerie électronique**.
 
    ![](assets/add-your-email-signature-2.png)
 
-1. Cliquez sur **Adresse et signature** et sélectionnez l’identité de courriel pour laquelle vous souhaitez créer une signature.
+1. Cliquez sur **Adresse et signature** et sélectionnez l’identité électronique pour laquelle vous souhaitez créer une signature.
 
    ![](assets/add-your-email-signature-3.png)
 
@@ -31,7 +30,7 @@ Nous voulons que le courrier électronique de Sales Connect soit une expérience
 
    ![](assets/add-your-email-signature-4.png)
 
-1. Entrez le texte (ou les images) de votre choix et cliquez sur **Enregistrer**.
+1. Saisissez le texte (ou les images) de votre choix, puis cliquez sur **Enregistrer**.
 
    ![](assets/add-your-email-signature-5.png)
 

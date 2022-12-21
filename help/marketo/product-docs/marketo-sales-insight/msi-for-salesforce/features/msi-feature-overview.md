@@ -119,7 +119,7 @@ Champs:
 * Sales Insight - Ouvre la page de liste complète des contacts
 * Analyse des opportunités Marketo - Ouvre l’analyseur d’influence des opportunités dans Marketo
 
-Actions :
+Actions:
 
 * Ajouter à la campagne Marketo
 * Envoyer l&#39;e-mail Marketo

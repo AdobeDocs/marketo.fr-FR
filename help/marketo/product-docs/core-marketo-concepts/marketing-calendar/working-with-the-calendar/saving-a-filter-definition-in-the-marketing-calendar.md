@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147296
-description: Enregistrement d’une définition de filtre dans le calendrier marketing - Docs Marketo - Documentation du produit
+description: Enregistrement d’une définition de filtre dans le calendrier marketing - Documents Marketo - Documentation du produit
 title: Enregistrement d’une définition de filtre dans le calendrier marketing
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Enregistrement d’une définition de filtre dans le calendrier marketing {#saving-a-filter-definition-in-the-marketing-calendar}
 
-L’enregistrement d’un filtre vous permet de basculer entre les différentes définitions de filtre.
+L’enregistrement d’un filtre permet de basculer entre différentes définitions de filtre.
 
 >[!PREREQUISITES]
 >
@@ -23,7 +22,7 @@ L’enregistrement d’un filtre vous permet de basculer entre les différentes 
 
    ![](assets/image2014-9-24-10-3a50-3a49.png)
 
-1. Cliquez sur l’icône Enregistrer.
+1. Cliquez sur l’icône d’enregistrement.
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
@@ -35,7 +34,7 @@ L’enregistrement d’un filtre vous permet de basculer entre les différentes 
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Si vous le souhaitez, vous pouvez [envoyer une copie](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md) de la définition à d&#39;autres utilisateurs Marketo.
+   Si vous le voulez, vous pouvez [envoyer une copie ;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md) de la définition pour les autres utilisateurs de Marketo.
 
    >[!NOTE]
    >

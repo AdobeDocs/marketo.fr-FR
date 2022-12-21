@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147074
-description: Nettoyage Campaign Déclencheur Automatique - Docs Marketo - Documentation du produit
+description: Nettoyage automatique des campagnes de déclenchement - Documents Marketo - Documentation du produit
 title: Nettoyage des campagnes à déclencheurs automatique
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
@@ -13,49 +12,49 @@ ht-degree: 3%
 
 # Nettoyage des campagnes à déclencheurs automatique {#automatic-trigger-campaign-cleanup}
 
-Marketo dispose d’un service agréable/gratuit pour désactiver les campagnes dynamiques déclenchées qui ne reçoivent plus d’activité. Cela accélère les performances globales du système et vous fait gagner du temps.
+Marketo dispose d’un service sympa/gratuit pour désactiver les campagnes intelligentes déclenchées qui ne reçoivent plus d’activité. Cela accélère les performances globales du système et vous permet de gagner du temps.
 
 ## Que se passe-t-il ? {#what-happens}
 
-Une fois par trimestre, Marketo trouvera des campagnes intelligentes qui sont restées en sommeil (pas de personnes) pendant 6 mois ou plus et les désactivera.
+Une fois par trimestre, Marketo trouvera des campagnes intelligentes qui sont restées en sommeil (personne) pendant 6 mois ou plus et les désactivera.
 
 ## Me préviendras-tu en premier ? {#will-you-notify-me-first}
 
-Bien sûr ! Une fois par trimestre, vous recevrez une notification une semaine à l’avance, indiquant chaque campagne que nous prévoyons de désactiver.
+Bien sûr ! Une fois par trimestre, vous recevrez une notification une semaine à l’avance indiquant chaque campagne que nous prévoyons de désactiver.
 
-1. Accédez à l&#39;onglet **Notifications**.
+1. Accédez au **Notifications** .
 
    ![](assets/notifications.png)
 
-1. Cliquez sur **Déclenchement inactif du nettoyage Campaign planifié**. Cliquez ensuite sur le lien **Ces campagnes de déclenchement inactif seront désactivées**.
+1. Cliquez sur **Nettoyage inactif des campagnes de déclenchement planifié**. Cliquez ensuite sur le bouton **Ces campagnes de déclenchement inactives seront désactivées.** lien.
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
-   Une liste de campagnes actives est prévue pour être désactivée.
+   Une liste des campagnes intelligentes doit être désactivée.
 
    ![](assets/image2015-4-27-20-3a35-3a29.png)
 
 ## Quelles campagnes seront désactivées ? {#which-campaigns-will-be-deactivated}
 
-Nous ne désactiverons que les campagnes déclencheurs qui ont été principales depuis plus de 6 mois mais qui n&#39;ont pas eu de critères pour 0 personne au cours de cette période.
+Nous ne désactiverons que les campagnes de déclenchement principales depuis plus de 6 mois, mais pour lesquelles aucune personne n’est admissible pendant cette période.
 
 ## Attendez ! Pas cette campagne ! {#wait-not-this-campaign}
 
-Ne vous inquiétez pas : l&#39;horloge d&#39;une campagne intelligente peut être réinitialisée par :
+Ne vous inquiétez pas : l’horloge d’une campagne dynamique peut être réinitialisée en procédant comme suit :
 
-* Personne remplissant les conditions requises pour la campagne.
-* Désactivation et réactivation manuelles de la campagne.
+* Personne admissible pour la campagne.
+* Désactivation et réactivation manuels de la campagne.
 
-Le compteur de 6 mois est réinitialisé.
+Réinitialise le compteur de 6 mois.
 
 ## Me direz-vous quelles campagnes ont été désactivées ? {#will-you-let-me-know-which-campaigns-were-deactivated}
 
-Absolument : une semaine après la notification initiale, nous désactiverons les campagnes répertoriées (moins celles qui ont qualifié au moins une personne ou ont été désactivées/réactivées) et publierons une notification de confirmation.
+Absolument : une semaine après la notification d’origine, nous désactiverons les campagnes répertoriées (moins celles qui ont qualifié au moins une personne ou qui ont été désactivées/réactivées) et publierons une notification de confirmation.
 
-1. Sélectionnez la **notification de nettoyage de Campaign Idle Trigger Scheduled**. Cliquez sur le lien **Ces campagnes de déclenchement inactif**.
+1. Sélectionnez la **Nettoyage inactif des campagnes de déclenchement planifié** notification. Cliquez sur le bouton **Ces campagnes de déclenchement inactives** lien.
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 
-1. Une liste de campagnes désactivées s’affiche.
+1. Une liste des campagnes désactivées s’affiche.
 
    ![](assets/image2015-4-27-20-3a58-3a38.png)

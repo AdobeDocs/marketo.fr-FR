@@ -1,9 +1,8 @@
 ---
 unique-page-id: 557322
-description: Exécution d’une étape de flux unique à partir d’une Liste dynamique - Docs Marketo - Documentation du produit
-title: Exécution d’une étape de flux unique à partir d’une Liste dynamique
+description: Exécution d’une étape de flux unique à partir d’une liste dynamique - Documents Marketo - Documentation du produit
+title: Exécution d’une seule étape de flux à partir d’une liste dynamique
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
@@ -11,39 +10,39 @@ ht-degree: 1%
 
 ---
 
-# Exécution d’une étape de flux unique à partir d’une Liste dynamique {#run-a-single-flow-step-from-a-smart-list}
+# Exécution d’une seule étape de flux à partir d’une liste dynamique {#run-a-single-flow-step-from-a-smart-list}
 
-Si vous souhaitez exécuter une seule étape de flux, vous pouvez utiliser une seule étape de flux dans une liste dynamique au lieu de créer une campagne dynamique complète.
+Si vous souhaitez exécuter une étape de flux unique, vous pouvez utiliser une seule étape de flux dans une liste dynamique au lieu de créer une campagne dynamique entière.
 
 >[!PREREQUISITES]
 >
->[Création d’une Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez une liste ou une liste intelligente comportant des personnes, puis accédez à l&#39;onglet **Personnes**.
+1. Sélectionnez une liste ou une liste dynamique contenant des personnes, puis accédez au **Personnes** .
 
    ![](assets/smartlistpeopletab-hands.png)
 
    >[!TIP]
    >
-   >Les listes statiques et les listes intelligentes disposent de cette fonctionnalité.
+   >Les listes statiques et les listes dynamiques disposent de cette fonctionnalité.
 
-1. Cliquez sur **Sélectionner tout**. Vous pouvez également utiliser **Ctrl/Cmd** et cliquer pour sélectionner quelques enregistrements manuellement.
+1. Cliquez sur **Tout sélectionner**. Vous pouvez également utiliser **Ctrl/Cmd** et cliquez sur pour sélectionner quelques enregistrements manuellement.
 
    ![](assets/smartlist-selectallhand.png)
 
    >[!NOTE]
    >
-   >Si les résultats s’étendent sur plusieurs pages, cliquez sur **Sélectionner tout** pour sélectionner toutes les personnes sur toutes les pages.
+   >Si les résultats s’étendent sur plusieurs pages, cliquez sur **Tout sélectionner** sélectionne toutes les personnes sur toutes les pages.
 
 1. Sous **Personne** **Actions**, sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [Modifier la valeur des données](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
-1. Recherchez et sélectionnez un **attribut**. Dans cet exemple, nous prendrons toutes les personnes ayant l’état &quot;Californie&quot; et le remplacerons par &quot;CA&quot;.
+1. Recherchez et sélectionnez un **Attribut**. Dans cet exemple, nous prendrons toutes les personnes qui ont un état &quot;Californie&quot; et le remplacerons par &quot;CA&quot;.
 
    ![](assets/runaction-hands.png)
 
@@ -51,12 +50,12 @@ Si vous souhaitez exécuter une seule étape de flux, vous pouvez utiliser une s
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Si vous modifiez les valeurs de données pour un grand nombre de personnes, vous devrez peut-être confirmer la modification en entrant le numéro. Cliquez sur **Aller pour**.
+1. Si vous modifiez les valeurs des données d’un grand nombre de personnes, vous devrez peut-être confirmer la modification en saisissant le nombre. Cliquez sur **Allez-y**.
 
    ![](assets/changedatavalue.jpg)
 
-Un travail formidable ! L’état de l’étape de flux unique s’affiche dans le coin supérieur droit.
+Super travail ! L’état de l’étape de flux unique s’affiche dans le coin supérieur droit.
 
 ![](assets/completesingleflowaction.jpg)
 
-Une fois terminé, actualisez la liste et vous verrez les informations mises à jour.
+Lorsque la liste est terminée, actualisez-la pour afficher les informations mises à jour.

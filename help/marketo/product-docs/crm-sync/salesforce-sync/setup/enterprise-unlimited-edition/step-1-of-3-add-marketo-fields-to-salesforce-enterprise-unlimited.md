@@ -38,7 +38,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Cliquez sur **New** dans la section Champs personnalisés et relations au bas de la page.
+1. Cliquez sur **Nouveau** dans la section Champs et relations personnalisés au bas de la page.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -81,7 +81,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
    <td>Longueur 10<br>Nombre de décimales 0 </td> 
   </tr> 
   <tr> 
-   <td>Date d'acquisition</td> 
+   <td>Date d’acquisition</td> 
    <td>mkto71_Acquisition_Date</td> 
    <td>Date/Heure</td> 
    <td> </td> 
@@ -109,14 +109,14 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Spécifiez les paramètres d’accès et cliquez sur **Suivant** :
+1. Spécifiez les paramètres d’accès et cliquez sur **Suivant**:
 
    * Définissez tous les rôles sur **Visible** et **Lecture seule**
 
-   * Décochez la case **Lecture seule** pour le profil de votre utilisateur de synchronisation :
+   * Effacez la variable **Lecture seule** correspondant au profil de votre utilisateur de synchronisation :
 
-      * Si vous avez un utilisateur avec le profil d’un _administrateur système_ en tant qu’utilisateur de synchronisation, décochez la case **Lecture seule** pour le profil Administrateur système (comme illustré ci-dessous).
-      * Si vous avez créé un _profil personnalisé_ pour l’utilisateur de synchronisation, décochez la case **Lecture seule** pour ce profil personnalisé.
+      * Si vous avez un utilisateur avec le profil d’un _Administrateur système_ en tant qu’utilisateur de synchronisation, effacez la variable **Lecture seule** case à cocher du profil Administrateur système (comme illustré ci-dessous)
+      * Si vous avez créé une _profil personnalisé_ pour l’utilisateur de synchronisation, effacez la variable **Lecture seule** case à cocher pour ce profil personnalisé
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -124,7 +124,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Cliquez sur **Enregistrer et nouveau** pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur **Enregistrer** une fois que vous avez terminé avec les trois.
+1. Cliquez sur **Enregistrer et nouveau** pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur **Enregistrer** avec vous avez fini avec les trois.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
@@ -241,7 +241,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
 ## Mappage des champs personnalisés pour les conversions {#map-custom-fields-for-conversions}
 
-Un champ personnalisé sur l’objet de piste dans Salesforce doit être mappé à un champ de contact sur l’objet de contact afin que les données soient reportées lors d’une conversion.
+Un champ personnalisé sur l’objet prospect dans Salesforce doit être mappé à un champ de contact sur l’objet contact afin que les données soient reportées lors d’une conversion.
 
 1. Dans le coin supérieur droit, cliquez sur **Configuration**.
 
@@ -251,7 +251,7 @@ Un champ personnalisé sur l’objet de piste dans Salesforce doit être mappé 
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Accédez à la section Champs personnalisés des pistes et relations et cliquez sur **Faire correspondre les champs de piste**.
+1. Accédez à la section Champs et relations personnalisés du prospect et cliquez sur **Faire correspondre les champs de piste**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -265,7 +265,7 @@ Un champ personnalisé sur l’objet de piste dans Salesforce doit être mappé 
 
 1. Répétez les étapes ci-dessus pour tous les autres champs que vous avez créés.
 
-1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Cliquez sur **Enregistrer** lorsque vous avez fini.
 
    Assez facile, n&#39;est-ce pas ?
 

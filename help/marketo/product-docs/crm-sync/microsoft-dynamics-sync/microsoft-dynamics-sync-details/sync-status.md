@@ -1,9 +1,8 @@
 ---
 unique-page-id: 10097584
-description: État de la synchronisation - Documents Marketo - Documentation du produit
+description: État de synchronisation - Documents Marketo - Documentation du produit
 title: Statut de synchronisation
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
@@ -13,43 +12,43 @@ ht-degree: 2%
 
 # Statut de synchronisation {#sync-status}
 
-Vous pouvez conserver des onglets sur le débit actuel et le retard du processus de synchronisation dans les onglets État de synchronisation et Erreurs de synchronisation.
+Vous pouvez conserver des onglets sur le débit et le journal actuels du processus de synchronisation dans les onglets État de synchronisation et Erreurs de synchronisation .
 
 ## Onglet État de synchronisation {#sync-status-tab}
 
-1. Cliquez sur **Admin** et **Microsoft Dynamics**.
+1. Cliquez sur **Administration** et **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Cliquez sur l&#39;onglet **État de synchronisation**.
+1. Cliquez sur le bouton **État de synchronisation** .
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
-   Ce tableau affiche le retard des insertions et mises à jour qui n’ont pas encore été synchronisées pour chaque objet.
+   Ce tableau affiche le journal des insertions et des mises à jour qui n’ont pas encore été synchronisées pour chaque objet.
 
-1. Doublon-cliquez sur une ligne pour afficher les informations d&#39;opportunité de vue.
+1. Double-cliquez sur une ligne pour afficher les informations d’opportunité.
 
    ![](assets/image2016-5-19-10-3a3-3a21.png)
 
-   Les détails d&#39;état de synchronisation sont ventilés par insertions et mises à jour, et les enregistrements d&#39;insertion et de mise à jour les plus anciens.
+   Les détails de l’état de synchronisation sont ventilés par insertions et mises à jour, ainsi que les enregistrements d’insertion et de mise à jour les plus anciens.
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Cliquez sur la liste déroulante **Vue:** et sélectionnez **Dernière heure** pour accéder aux informations sur le débit de vue.
+1. Cliquez sur le bouton **Afficher :** et sélectionnez **Dernière heure** pour afficher les informations de débit.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
-   L’affichage montre maintenant le nombre d’enregistrements synchronisés au cours de la dernière heure complète (par exemple, de 13 heures à 14 heures).
+   L’affichage affiche maintenant le nombre d’enregistrements synchronisés dans la dernière heure complète (par exemple, de 13h à 14h).
 
    ![](assets/image2016-5-19-10-3a22-3a15.png)
 
    >[!NOTE]
    >
-   >Lorsque vous observez la vue Dernière heure, les colonnes Insérer et Mises à jour s’affichent sans réponse. C&#39;est le comportement attendu.
+   >Lorsque vous observez la vue Dernière heure, les colonnes Insertions et Mises à jour affichent S.O. Ce comportement est attendu.
 
 ## Onglet Erreurs de synchronisation {#sync-errors-tab}
 
-Les pistes de navigation, de recherche ou d&#39;exportation (et d&#39;autres objets) qui n&#39;ont pas pu être synchronisées avec des détails tels que l&#39;opération, la direction, le code d&#39;erreur et le message d&#39;erreur.
+Parcourir, rechercher ou exporter des pistes (et d’autres objets) qui n’ont pas pu être synchronisées avec des détails tels que l’opération, la direction, le code d’erreur et le message d’erreur.
 
 ![](assets/image2016-5-19-10-3a26-3a35.png)
 

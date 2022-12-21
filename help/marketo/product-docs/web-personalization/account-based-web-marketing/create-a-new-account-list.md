@@ -1,35 +1,34 @@
 ---
 unique-page-id: 4720232
-description: Créer une nouvelle Liste de compte - Docs marketing - Documentation du produit
-title: Créer une Liste de compte
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Création d’une liste de comptes - Documents Marketo - Documentation du produit
+title: Créer une liste de comptes
+exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '404'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
+# Créer une liste de comptes {#create-a-new-account-list}
 
-# Créer une nouvelle Liste de compte {#create-a-new-account-list}
-
-Créez et téléchargez une liste de noms d’organisation et de domaine pour cible de ces comptes clés avec des campagnes personnalisées.
+Créez et chargez une liste de noms d’organisation et de domaine pour cibler ces comptes clés avec des campagnes personnalisées.
 
 >[!NOTE]
 >
->Cet article s&#39;applique uniquement aux clients Web ABM hérités. Si vous avez acquis Web ABM après septembre 2016, suivez plutôt les étapes décrites dans [cet article](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList).
+>Cet article s’applique uniquement aux clients Web ABM hérités. Si vous avez acquis Web ABM après septembre 2016, veuillez suivre les étapes de la section [cet article](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) au lieu de .
 
-## Créer une nouvelle Liste de compte {#create-a-new-account-list-1}
+## Créer une liste de comptes {#create-a-new-account-list-1}
 
-1. Accédez à **Listes de compte**.
+1. Accédez à **Listes de comptes**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Sélectionnez **Créer**.
+1. Sélectionner **Créer**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Sélectionnez **Parcourir** et téléchargez votre fichier CSV (assurez-vous que le fichier CSV répond aux critères). Ajoutez **Nom** et **Description**. Cliquez sur **Enregistrer**.
+1. Sélectionner **Parcourir** et chargez votre fichier CSV (assurez-vous que le fichier CSV répond aux critères). Ajouter un **Nom** et **Description**. Cliquez sur **Enregistrer**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -37,14 +36,14 @@ Créez et téléchargez une liste de noms d’organisation et de domaine pour ci
    >
    >**Quel est le format du fichier CSV ?**
    >
-   >Assurez-vous que le fichier CSV du compte nommé respecte les exigences suivantes :
+   >Assurez-vous que le fichier CSV du compte nommé répond aux exigences suivantes :
    >
    >* Enregistré au format CSV
    >* Ne dépasse pas 10 Mo
-   >* Seulement 4 colonnes avec l&#39;en-tête Colonne A : Nom, colonne B : Domaine, colonne C : Pays, colonne D : Etat américain.
-   >* Le téléchargement d’un fichier peut prendre jusqu’à 2 jours ouvrés avant l’approbation.
-   >* Vous recevrez une notification par courrier électronique d’approbation ou vérifiez l’état du fichier dans la page Comptes nommés.
-   >* Nombre total d&#39;enregistrements/lignes cumulés pour toutes vos listes téléchargées sur débuts à 10 000, le plus grand package totalisant 100 000.
+   >* Seulement 4 colonnes avec l’en-tête Colonne A : Nom, Colonne B : Domaine, Colonne C : Pays, colonne D : Etat américain.
+   >* Le fichier téléchargé peut prendre jusqu’à deux jours ouvrables pour être validé.
+   >* Vous recevrez un e-mail de notification de validation ou un avis d’état du fichier dans la page des comptes nommés.
+   >* Le nombre total d&#39;enregistrements/lignes cumulés pour toutes vos listes téléchargées commence à 10K, avec le plus grand package totalisant 100K.
 
 
    >[!NOTE]
@@ -54,40 +53,38 @@ Créez et téléchargez une liste de noms d’organisation et de domaine pour ci
    >* Ligne 1 Colonne A Valeur = Organisation
    >* Ligne 1 Valeur de colonne B = Domaine
    >* Ligne 1 Valeur de colonne C = Pays
-   >* Ligne 1 Colonne D Valeur = État des États-Unis
-   >* L’une des valeurs de colonne est obligatoire. Toutefois, le fait de fournir les noms d’organisation et de domaine améliore les taux de correspondance de la Liste de comptes.
-   >* Le pays et l’état sont des valeurs facultatives.
-
+   >* Ligne 1 colonne D valeur = Etat des États-Unis
+   >* L’une des valeurs de colonne est obligatoire. Cependant, le fait de fournir des noms d’organisation et de domaine améliore les taux de correspondance de la liste de comptes.
+   >* Pays et Etat sont des valeurs facultatives.
       >
-      >   
-      * Pour le nom du pays, utilisez le nom complet du pays ou le code d’abréviation. Par ex. États-Unis ou États-Unis.
-      >   * Pour un État des États-Unis, utilisez le code d’abréviation à deux lettres, c’est-à-dire CA. Seuls les États américains sont reconnus.
+      >   * Pour le nom du pays, utilisez le nom du pays complet ou le code d’abréviation. Par exemple, États-Unis ou États-Unis.
+      >   * Pour un état des États-Unis, utilisez le code d’abréviation de 2 lettres, c’est-à-dire CA. Seuls les États américains sont reconnus.
 
    >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
-## Modifier une Liste de compte {#edit-an-account-list}
+## Modifier une liste de comptes {#edit-an-account-list}
 
-Sur la page **Listes de compte**, cliquez sur l&#39;icône **Modifier** de la liste.
+Sur le **Listes de comptes** , cliquez sur la page **Modifier** sur la liste.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Sélectionnez **Parcourir** et téléchargez votre nouveau fichier CSV. Ce fichier remplacera le fichier d&#39;origine. Cliquez sur **Enregistrer**. Le nouveau fichier téléchargé sera dans l’état en attente jusqu’à ce qu’il soit approuvé par le service d’assistance marketing, alors que dans l’état en attente, le fichier d’origine restera principal.
+Sélectionner **Parcourir** et chargez votre nouveau fichier CSV. Ce fichier remplacera le fichier d’origine. Cliquez sur **Enregistrer**. Le nouveau fichier téléchargé restera dans un état en attente jusqu’à ce qu’il soit approuvé par le support Marketo. Dans un état en attente, le fichier d’origine restera principal.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
-Le fichier CSV remplace le fichier existant. La liste existante restera principale jusqu&#39;à ce que le traitement du nouveau fichier soit terminé.
+Le fichier CSV remplacera le fichier existant. La liste existante restera active jusqu’à ce que le traitement du nouveau fichier soit terminé.
 
-## Supprimer une Liste de compte nommée {#delete-a-named-account-list}
+## Suppression d’une liste de comptes nommés {#delete-a-named-account-list}
 
-1. Sur la page **Listes de compte**, cliquez sur l&#39;icône Supprimer de la liste à supprimer.
+1. Sur le **Listes de comptes** , cliquez sur l’icône Supprimer de la liste que vous souhaitez supprimer.
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. Un message s’affiche pour confirmer si vous souhaitez supprimer la liste. Cliquez sur **OK**.
+1. Un message s’affiche pour confirmer la suppression de la liste. Cliquez sur **OK**.
 
    ![](assets/delete-notification-hand.jpg)
 
 >[!MORELIKETHIS]
 >
->[Création d’un segment à l’aide d’une Liste de compte](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
+>[Création d’un segment à l’aide d’une liste de comptes](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)

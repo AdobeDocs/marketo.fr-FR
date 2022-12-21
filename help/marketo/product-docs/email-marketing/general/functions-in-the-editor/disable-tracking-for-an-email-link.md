@@ -1,43 +1,42 @@
 ---
 unique-page-id: 1900579
-description: Désactiver le suivi d'un lien de courriel - Documents marketing - Documentation du produit
-title: Désactiver le suivi d’un lien de courriel
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Désactiver le suivi d’un lien de courrier électronique - Documents Marketo - Documentation du produit
+title: Désactiver le suivi d’un lien de courrier électronique
+exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
+# Désactiver le suivi d’un lien de courrier électronique {#disable-tracking-for-an-email-link}
 
-# Désactiver le suivi d&#39;un lien de courriel {#disable-tracking-for-an-email-link}
-
-Il arrive que vous ne souhaitiez pas activer l’**URL de suivi du marketing** sur un lien d’un courrier électronique. Cela s’avère utile lorsque la page de destination ne prend pas en charge les paramètres d’URL et peut entraîner la rupture d’un lien.
+Parfois, vous ne souhaitez pas activer la variable **URL de suivi Marketo** sur un lien d’un email. Cela s’avère utile lorsque la page de destination ne prend pas en charge les paramètres d’URL et peut entraîner la rupture du lien.
 
 1. Sélectionnez votre adresse électronique et cliquez sur **Modifier le brouillon**.
 
    ![](assets/one-7.png)
 
-1. Cliquez avec le doublon sur la section modifiable qui contient le lien.
+1. Double-cliquez sur la section modifiable contenant le lien.
 
    ![](assets/two-6.png)
 
-1. Cliquez sur le lien en question, puis sur le bouton **Insérer/Modifier le lien**.
+1. Cliquez sur le lien en question, puis sur le lien **Insérer/Modifier un lien** bouton .
 
    ![](assets/three-6.png)
 
-1. Dans la fenêtre contextuelle Modifier le lien, décochez la case **Suivi du lien**.
+1. Dans la fenêtre contextuelle Modifier le lien , désélectionnez la case **Suivi du lien** .
 
    ![](assets/four-4.png)
 
-1. Vous remarquerez que la zone **Inclure mkt_tok** disparaît. Cliquez sur **Appliquer**.
+1. Vous remarquerez que la variable **Case Inclure mkt_tok** disparaît. Cliquez sur **Appliquer**.
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >Si vous ne cochez que **Inclure mkt_tok**, le lien sera toujours suivi, mais après la redirection, l’URL de destination n’inclura pas le paramètre de chaîne de requête mkt_tok. Ce paramètre est utilisé par les Landings page Marketo et Munchkin pour assurer un suivi correct des activités de personne (comme lorsqu&#39;une personne se désabonne d&#39;un courrier électronique). Evitez d’utiliser cette fonctionnalité, sauf si vous constatez un comportement bizarre sur votre site Web en raison de la présence du paramètre.
+   >Décocher juste **Inclure mkt_tok** permettra toujours le suivi du lien, mais après la redirection, l’URL de destination n’inclura pas le paramètre de chaîne de requête mkt_tok . Ce paramètre est utilisé par les landing pages Marketo et Munchkin pour assurer un suivi correct des activités des personnes (comme lorsqu’une personne se désabonne d’un email). Évitez d’utiliser cette fonctionnalité, sauf si vous constatez un comportement bizarre sur votre site web en raison du paramètre présent.
 
 1. Cliquez sur **Enregistrer**.
 
@@ -45,8 +44,8 @@ Il arrive que vous ne souhaitiez pas activer l’**URL de suivi du marketing** s
 
    >[!TIP]
    >
-   >Voulez-vous désactiver le suivi des clics pour un lien dans un **modèle** de courriel ? Utilisez ce format :
+   >Vous souhaitez désactiver le suivi des clics pour un lien dans un email **modèle**? Utilisez ce format :
    >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
-   >Si vous avez besoin d’aide pour implémenter cette méthode, contactez votre développeur Web.
+   >Si vous avez besoin d’aide pour mettre en oeuvre cette méthode, consultez votre développeur web.
 
-Sympa ! Vous avez maintenant désactivé le suivi pour un lien.
+Beau ! Vous avez maintenant désactivé le suivi d’un lien.

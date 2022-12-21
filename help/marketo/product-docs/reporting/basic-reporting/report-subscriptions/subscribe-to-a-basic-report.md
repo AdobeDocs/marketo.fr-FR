@@ -1,52 +1,51 @@
 ---
 unique-page-id: 2359987
-description: S’abonner à un rapport de base - Documents marketing - Documentation du produit
-title: S’abonner à un rapport de base
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Abonnement à un rapport de base - Documents Marketo - Documentation du produit
+title: Abonnement à un rapport de base
+exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Abonnement à un rapport de base {#subscribe-to-a-basic-report}
 
-# S’abonner à un rapport de base {#subscribe-to-a-basic-report}
-
-Pour recevoir les mises à jour automatiques d&#39;un rapport de base ou pour le partager, vous pouvez vous abonner à n&#39;importe quelle adresse électronique d&#39;un rapport existant.
+Pour recevoir les mises à jour automatiques d’un rapport de base ou les partager, vous pouvez abonner n’importe quelle adresse électronique à un rapport existant.
 
 >[!NOTE]
 >
->Pour les abonnements de rapports de l’Explorateur de cycles de recettes, voir [S’abonner à un rapport de l’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Pour les abonnements aux rapports de l’Explorateur Recettes Cycle, voir [Abonnement à un rapport de l’Explorateur des recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez au **Activités marketing** zone.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Sélectionnez votre rapport dans l&#39;arborescence de navigation et cliquez sur l&#39;onglet **Abonnements**.
+1. Sélectionnez votre rapport dans l’arborescence de navigation, puis cliquez sur le bouton **Abonnements** .
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également vous abonner aux rapports à partir de l’onglet **Analytics**.
+   >Vous pouvez également vous abonner aux rapports à partir du **Analytics** .
 
-1. Cliquez sur **Nouvel Abonnement de rapports**.
+1. Cliquez sur **Nouvel abonnement au rapport**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
-1. Entrez la ou les adresses électroniques et définissez la fréquence des courriels du rapport.
+1. Saisissez la ou les adresses email et définissez la fréquence des emails du rapport.
 
    ![](assets/image2014-9-16-10-3a32-3a31.png)
 
    >[!NOTE]
    >
-   >N&#39;importe qui peut se désabonner du rapport dans le courriel qu&#39;il reçoit.
+   >N’importe qui peut se désabonner du rapport dans l’e-mail qu’il reçoit.
 
-   C&#39;est tout ! Vérifiez votre boîte de réception !
+   C&#39;est tout ! Consultez votre boîte de réception !
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
    >[!MORELIKETHIS]
    >
-   >Découvrez comment [gérer tous vos abonnements de rapports](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) en un seul endroit.
+   >Découvrez comment [gérer tous les abonnements aux rapports](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) à un seul endroit.

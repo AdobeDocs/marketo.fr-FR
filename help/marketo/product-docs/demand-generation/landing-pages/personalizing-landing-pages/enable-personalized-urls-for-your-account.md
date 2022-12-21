@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359810
-description: Activer les URL personnalisées pour votre compte - Documents marketing - Documentation du produit
-title: Activer les URL personnalisées pour votre compte
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Activation des URL personnalisées pour votre compte - Documents Marketo - Documentation du produit
+title: Activation des URL personnalisées pour votre compte
+exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
+# Activation des URL personnalisées pour votre compte {#enable-personalized-urls-for-your-account}
 
-# Activer les URL personnalisées pour votre compte {#enable-personalized-urls-for-your-account}
-
-Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
+Les URL personnalisées sont idéales pour les campagnes de courrier papier.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à la section **Admin** et cliquez sur **Landings page**.
+1. Accédez au **Administration** et cliquez sur **Pages d’entrée**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
@@ -27,19 +26,19 @@ Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Cochez la case **Activer les URL personnalisées** et cliquez sur **Enregistrer**.
+1. Vérifiez les **Activer les URL personnalisées** puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-Super boulot ! Maintenant que vous avez activé les URL pour votre compte, vous pouvez les activer pour des landings page individuels.
+Bon boulot ! Maintenant que vous avez activé les PURL pour votre compte, vous pouvez l’activer pour des landing pages individuelles.
 
 >[!NOTE]
 >
->Si deux personnes possèdent les mêmes prénoms et/ou noms de famille, le système ajoute automatiquement un numéro à la fin de leur nom PURL.
+>Si deux personnes portent les mêmes prénoms et/ou noms, le système ajoute automatiquement un numéro à la fin de leur nom de PURL.
 >
->Exemple :
+>Exemple :
 >
->1. Anna Jones
+>1. AnnaJones
 >1. AnnaJones2
 >1. AnnaJones3
 

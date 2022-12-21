@@ -4,8 +4,8 @@ title: Vérifier votre e-mail
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 5%
 
 ---
 

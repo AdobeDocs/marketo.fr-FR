@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147110
-description: Cloner un Programme - Documents Marketo - Documentation du produit
-title: Cloner un Programme
+description: Clonage d’un programme - Documents Marketo - Documentation du produit
+title: Clonage d’un programme
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
@@ -11,15 +10,15 @@ ht-degree: 0%
 
 ---
 
-# Cloner un Programme {#clone-a-program}
+# Clonage d’un programme {#clone-a-program}
 
-Cloner rapidement et facilement un programme entier et toutes ses ressources au lieu de tout reconstruire manuellement.
+Cloner rapidement et facilement un programme entier et tous ses actifs au lieu de tout recréer manuellement.
 
 >[!PREREQUISITES]
 >
->Avant de vous plonger, découvrez [les meilleures pratiques pour éviter la corruption dans les ressources clonées](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
+>Avant de plonger, découvrez les [bonnes pratiques pour éviter la corruption dans les ressources clonées](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
 
-1. Recherchez et sélectionnez le programme à cloner, puis sous **Actions du Programme** cliquez sur **Cloner**.
+1. Recherchez et sélectionnez le programme à cloner, puis sous **Actions de programme** click **Cloner**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -27,15 +26,15 @@ Cloner rapidement et facilement un programme entier et toutes ses ressources au 
 
    >[!NOTE]
    >
-   >Les programmes peuvent être clonés dans [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [dossiers](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) ou [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Veillez à partager toutes les ressources dépendantes sous-jacentes (courriels, extraits de code, modèles de landing page, etc.) avec l’espace de travail de destination avant le clonage.
+   >Les programmes peuvent être clonés en [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [dossiers](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) ou [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Veillez à partager toutes les ressources dépendantes sous-jacentes (emails, fragments de code, modèles de landing page, etc.) avec l’espace de travail de destination avant le clonage.
 
    ![](assets/cloneto.png)
 
    >[!NOTE]
    >
-   >Vous voyez cette NOTE dans la capture d&#39;écran ci-dessus ? Cela signifie que si vous cloner un programme avec 1000 personnes ou plus dans une liste, la liste elle-même sera clonée, mais elle sera vide. Si vous cloner un programme avec une liste qui contient 999 personnes ou moins, cette liste, ainsi que tous ses membres, apparaîtra dans le programme cloné.
+   >Voir cette REMARQUE dans la capture d’écran ci-dessus ? Cela signifie que si vous cloner un programme avec 1 000 personnes ou plus dans une liste, la liste elle-même sera clonée, mais elle sera vide. Si vous clonez un programme avec une liste contenant 999 personnes ou moins, cette liste, ainsi que tous ses membres, s’affichera dans le programme cloné.
 
-1. Saisissez un nom.
+1. Saisissez un Nom.
 
    ![](assets/cloneprogramname.png)
 
@@ -43,14 +42,14 @@ Cloner rapidement et facilement un programme entier et toutes ses ressources au 
 
    ![](assets/choosefolderclone.png)
 
-1. Ajoutez une description facultative, puis cliquez sur **Créer**. Regardez à quelle vitesse vous avez pu créer un nouveau programme avec toutes ses ressources prêtes à l&#39;emploi !
+1. Ajoutez une description facultative, puis cliquez sur **Créer**. Regardez à quelle vitesse vous avez pu créer un nouveau programme avec toutes ses ressources prêtes à l’emploi !
 
    ![](assets/createclone.png)
 
    >[!TIP]
    >
-   >Utilisez cette technique avec des jetons pour accélérer la création de nouveaux programmes.
+   >Utilisez cette technique avec les jetons pour accélérer la création de programmes.
 
    >[!CAUTION]
    >
-   >Les coûts de la période ne seront pas transférés, alors n&#39;oubliez pas de les ajouter à votre programme cloné si vous en aviez un dans l&#39;original.
+   >Les coûts de période ne seront pas transférés. Par conséquent, veillez à ajouter cela à votre programme cloné si vous en aviez un défini dans l’original.

@@ -1,45 +1,44 @@
 ---
 unique-page-id: 14352476
-description: Champ de type d’Activité sur les Tâches (SFDC) - Documents marketing - Documentation du produit
-title: Champ Type d’Activité sur les Tâches (SFDC)
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Champ Type d’activité sur les tâches (SFDC) - Documents Marketo - Documentation du produit
+title: Champ Type d’activité sur les tâches (SFDC)
+exl-id: b291e641-d3af-4667-a01c-cd491cd87add
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Champ Type d’activité sur les tâches (SFDC) {#activity-type-field-on-tasks-sfdc}
 
-# Champ Type d&#39;Activité sur les Tâches (SFDC) {#activity-type-field-on-tasks-sfdc}
-
-Avec l&#39;aide de Sales Connect, vous pouvez enregistrer vos e-mails et appels en tant qu&#39;activité dans Salesforce. Pour disposer de données importantes dans Salesforce, il est essentiel que le champ Type renseigne la valeur correcte.
+Avec l’aide de Sales Connect, vous pouvez enregistrer vos emails et vos appels en tant qu’activité dans Salesforce. L’un des éléments essentiels pour disposer de données importantes dans Salesforce est de faire renseigner la valeur correcte dans le champ Type.
 
 >[!NOTE]
 >
->La consignation des courriers électroniques via BCC ne se rapporte pas à la liste de sélection Type de Tâche et remplit automatiquement le champ Type en tant que &quot;courriel&quot; puisqu&#39;ils sont envoyés à Salesforce par l&#39;intermédiaire de votre adresse de carte de crédit client.
+>La journalisation des emails via Cci ne se tourne pas vers la liste de sélection Type de tâche et remplit automatiquement le champ Type en tant qu’&quot;email&quot; puisqu’ils sont envoyés à Salesforce par l’intermédiaire de votre adresse en Cci.
 
 ## Exigences {#requirements}
 
 * Connexion à Salesforce
-* Aucune valeur Type par défaut sélectionnée dans la liste de sélection Type de Tâche
-* Les appels, réponses et courriers électroniques doivent tous exister sous la liste de sélection Type de Tâche (les questions de mise en majuscule sont importantes).
-* Aucun Workflows ou déclencheur n&#39;ayant pris d&#39;action sur la valeur du champ Type
+* Aucune valeur Type par défaut sélectionnée dans le sélecteur Type de tâche
+* L’appel, la réponse et l’e-mail doivent tous exister sous la liste de sélection Type de tâche (ce qui est important en termes de casse).
+* Pas de workflows ou de déclencheurs qui agissent sur la valeur du champ Type
 
 ## Configuration {#setup}
 
-Vérifiez d’abord que les valeurs de liste de sélection sont correctes. Vous aurez besoin de l&#39;aide de votre administrateur Salesforce pour apporter des modifications à votre liste de sélection.
+Vérifiez d’abord que les valeurs correctes de liste de sélection sont en place. Vous aurez besoin de l’aide de votre administrateur Salesforce pour apporter des modifications à votre liste de sélection.
 
 1. Accédez à [Salesforce.com](https://salesforce.com) et cliquez sur Configuration dans le coin supérieur droit.
 1. Cliquez sur Personnaliser.
 1. Cliquez sur Activités.
-1. Cliquez sur Champs de Tâche.
-1. Cliquez sur Type.
-1. Vous vous trouvez maintenant sur la liste de sélection des types de Tâche. Assurez-vous qu’aucun paramètre par défaut n’est sélectionné.
-1. Assurez-vous qu&#39;une valeur Type est répertoriée pour Courriel, Appel et Réponse.
+1. Cliquez sur Champs de la tâche.
+1. Cliquez sur un type.
+1. Vous vous trouvez maintenant sur la liste de sélection du type de tâche. Assurez-vous qu’aucun &quot;Par défaut&quot; n’est sélectionné.
+1. Assurez-vous qu’une valeur Type est répertoriée pour Email, Call et Reply.
 
-Maintenant que ce champ est en place, vous allez commencer à voir le champ Type renseigner la valeur correspondante pour les courriers électroniques, les appels et les réponses enregistrés. Ces valeurs **not** seront renseignées dans les tâches de rappel de Sales Connect.
+Maintenant que ce champ est en place, vous allez commencer à voir le champ Type renseigner la valeur correspondante pour les emails, les appels et les réponses consignés. Ces valeurs seront **not** être renseignée lors des tâches de rappel de Sales Connect.
 
 >[!NOTE]
 >
->Si vous ne voyez pas &quot;Répondre&quot; comme valeur, ajoutez-le en cliquant sur **Nouveau**. &quot;Répondre&quot; n&#39;est pas une valeur standard dans Salesforce.
+>Si vous ne voyez pas &quot;Répondre&quot; comme valeur, ajoutez-la en cliquant sur **Nouveau**. &quot;Reply&quot; n’est pas une valeur standard dans Salesforce.

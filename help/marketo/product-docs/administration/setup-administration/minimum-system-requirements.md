@@ -5,7 +5,7 @@ title: Configuration système minimale
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---

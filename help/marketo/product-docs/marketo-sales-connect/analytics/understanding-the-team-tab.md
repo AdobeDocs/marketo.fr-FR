@@ -1,30 +1,29 @@
 ---
 unique-page-id: 14352414
-description: Présentation de l'onglet Équipe - Documents marketing - Documentation du produit
-title: Présentation de l'onglet Equipe
-translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+description: Présentation de l’onglet Équipe - Documents Marketo - Documentation du produit
+title: Présentation de l’onglet Équipe
+exl-id: 07084711-b387-4688-bcf0-fd054acb8366
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
+# Présentation de l’onglet Équipe {#understanding-the-team-tab}
 
-# Présentation de l&#39;onglet Equipe {#understanding-the-team-tab}
+Dans l’onglet Équipe, nous mettons en évidence trois mesures importantes.
 
-Dans l&#39;onglet Equipe, nous mettons en évidence trois mesures importantes.
+## Emails envoyés avec un modèle {#emails-sent-with-template}
 
-## Courriers électroniques envoyés avec le modèle {#emails-sent-with-template}
+Parmi les emails envoyés, combien d&#39;entre eux ont utilisé un modèle.
 
-Parmi les courriers électroniques envoyés, combien d&#39;entre eux ont utilisé un modèle.
+## Délai d’engagement max. {#peak-time-of-engagement}
 
-## Temps d&#39;engagement maximal {#peak-time-of-engagement}
+Sur l’ensemble du panorama, nous créons un regroupement des pics d’engagement qui indique l’heure de la journée où votre équipe obtient le plus d’activité (vues, clics, réponses). Votre équipe peut planifier l’envoi d’emails de manière stratégique aux alentours de cette heure.
 
-Sur l’ensemble du panorama, nous gonflons le pic d’engagement qui indique l’heure à laquelle votre équipe reçoit le plus d’activité (vues, clics, réponses). Votre équipe peut planifier des courriers électroniques ou planifier leur envoi de façon stratégique à cette date.
+## Transactions clôturées {#deals-closed}
 
-## Affaires clôturées {#deals-closed}
+Cela est basé sur le gong de vente et le nombre d’offres qui ont été conclues au cours du mois en cours.
 
-Ce chiffre est basé sur le volume des ventes et le nombre d&#39;affaires qui ont été conclues au cours du mois en cours.
-
-En bonus, nous totalisons l&#39;engagement de votre équipe en termes de taux de vue. Dans cet onglet, vous pouvez également voir le Tableau de bord Rep. Les statistiques de courriel de chaque personne de votre équipe sont affichées ici.
+En outre, nous totalisons l’engagement du taux d’affichage de votre équipe. Dans cet onglet, vous pouvez également voir le Tableau de classement des représentants. Les statuts des emails de chaque personne de votre équipe s&#39;affichent ici.

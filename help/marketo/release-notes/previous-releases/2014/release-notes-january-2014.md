@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Notes de mise à jour : Janvier 2014 {#release-notes-january}
 
-Les fonctionnalités suivantes sont incluses dans la version de janvier 2014. Vérifiez la disponibilité de vos fonctionnalités dans [Marketo Edition](https://www.marketo.com/pricing/).
+Les fonctionnalités suivantes sont incluses dans la version de janvier 2014. Veuillez vérifier votre [Marketo Edition](https://www.marketo.com/pricing/) pour connaître la disponibilité des fonctionnalités.
 
 ## Formulaires 2.0 {#forms}
 
@@ -40,12 +40,12 @@ Les jours de la levée du code HTML des formulaires placés sur les pages d’en
 
 ## Limites de communication pour le programme Email {#communication-limits-for-email-program}
 
-[Définissez des Limites de communication sur un ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) programme de messagerie électronique pour vous assurer de ne pas sur-communiquer avec votre base de données. Si une personne dépasse la limite définie, elle ne recevra pas l’email.
+[Définition de limites de communication sur un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) afin de ne pas sur-communiquer avec votre base de données. Si une personne dépasse la limite définie, elle ne recevra pas l’email.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Champs supplémentaires dans l&#39;analyse de l&#39;adhésion au programme {#additional-fields-in-program-membership-analysis}
 
-Vous pouvez maintenant ajouter et regrouper vos mesures [Analyse de l’adhésion au programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) par attributs de prospect et de société. Par exemple, vous pouvez ajouter le champ Secteur industriel pour afficher la répartition des membres et des succès de votre programme.
+Vous pouvez maintenant ajouter et regrouper votre [Analyse de l’appartenance à un programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) mesures par attributs de prospect et de société. Par exemple, vous pouvez ajouter le champ Secteur industriel pour afficher la répartition des membres et des succès de votre programme.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

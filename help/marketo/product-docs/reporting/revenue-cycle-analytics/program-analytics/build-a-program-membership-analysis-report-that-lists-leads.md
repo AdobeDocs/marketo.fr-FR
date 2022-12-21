@@ -1,45 +1,44 @@
 ---
 unique-page-id: 2360405
-description: Créez un rapport d'Analyse d'adhésion Programme qui Liste les pistes - Docs marketing - Documentation sur les produits
-title: Créer un rapport d'Analyse d'adhésion Programme qui Liste les pistes
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Créez un rapport Analyse de l’appartenance à un programme qui répertorie les pistes - Documents Marketo - Documentation du produit
+title: Création d’un rapport d’analyse de l’appartenance à un programme qui répertorie les pistes
+exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Création d’un rapport d’analyse de l’appartenance à un programme qui répertorie les pistes {#build-a-program-membership-analysis-report-that-lists-leads}
 
-# Créez un rapport d&#39;Analyse d&#39;adhésion Programme qui Liste {#build-a-program-membership-analysis-report-that-lists-leads}
-
-Suivez ces étapes pour créer un rapport d&#39;Analyse d&#39;adhésion Programme qui vous montrera tous les noms de membres de programme.
+Suivez ces étapes pour créer un rapport Analyse de l’appartenance à un programme qui vous affichera tous les noms des membres à un programme.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
-1. Lancez l&#39;Explorateur de recettes.
+1. Lancez l’Explorateur de recettes.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Créer**, puis sur **Rapport**.
+1. Cliquez sur **Créer** then **Rapport**.
 
    ![](assets/two.png)
 
-1. Sélectionnez **Analyse d&#39;adhésion au Programme** et cliquez sur **OK**.
+1. Sélectionner **Analyse de l’appartenance à un programme** et cliquez sur **OK**.
 
    ![](assets/three.png)
 
-1. Recherchez et cliquez sur le point jaune Nom du Programme avec le doublon.
+1. Recherchez et double-cliquez sur le point jaune Nom du programme .
 
    ![](assets/four.png)
 
-1. Recherchez et cliquez sur le point bleu Membres en doublon.
+1. Recherchez le point bleu Membres et double-cliquez dessus.
 
    ![](assets/five.png)
 
-1. Recherchez le point bleu Réussite (Total) et cliquez avec le doublon dessus.
+1. Recherchez le point bleu Succès (total) et double-cliquez dessus.
 
    ![](assets/six.png)
 
@@ -47,13 +46,13 @@ Vous voyez comme c&#39;était facile ?
 
 ![](assets/seven.png)
 
-Vous pouvez rapidement ajouter un attribut de piste tel que _Nom complet_ pour identifier les membres.
+Vous pouvez ajouter rapidement un attribut de piste, tel que _Nom complet_ pour voir qui sont les membres.
 
 >[!TIP]
 >
->Il y a beaucoup d&#39;attributs de piste/société à choisir. Regardez-les !
+>Il y a de nombreux attributs de prospect/société à sélectionner. Regardez-les !
 
-1. Recherchez le point jaune **Nom complet** et cliquez dessus en doublon.
+1. Recherchez et double-cliquez sur le **Nom complet** point jaune.
 
    ![](assets/eight.png)
 

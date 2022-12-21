@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2949678
-description: SEO - Ajouter/supprimer des mots-clés d'une Liste - Marketo Docs - Documentation du produit
-title: Optimisation du référencement - Ajouter/supprimer des mots-clés d'une Liste
+description: SEO - Ajout/suppression de mots-clés d’une liste - Documents Marketo - Documentation du produit
+title: SEO - Ajouter/Supprimer des mots-clés d’une liste
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# SEO - Ajouter/supprimer des mots-clés d&#39;une Liste {#seo-add-remove-keywords-from-a-list}
+# SEO - Ajouter/Supprimer des mots-clés d’une liste {#seo-add-remove-keywords-from-a-list}
 
-Vous pouvez garder tous vos mots-clés bien organisés en utilisant des listes. Cela facilitera la recherche de données sur des mots-clés spécifiques sous forme de secteurs.
+Vous pouvez conserver tous vos mots-clés et les organiser à l’aide de listes. Cela facilite la recherche de données sur des mots-clés spécifiques sous la forme de tarte.
 
-## Ajouter à une Liste {#add-to-a-list}
+## Ajouter à une liste {#add-to-a-list}
 
-1. Accédez à la section **Mots-clés**.
+1. Accédez au **Mots-clés** .
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Passez la souris sur le mot-clé à ajouter à une liste. Cliquez sur **Ajouter/Supprimer de la liste**.
+1. Pointez sur le mot-clé à ajouter à une liste. Cliquez sur **Ajouter/Supprimer de la liste**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -31,21 +30,21 @@ Vous pouvez garder tous vos mots-clés bien organisés en utilisant des listes. 
 
    >[!TIP]
    >
-   >Vous pouvez également créer une nouvelle liste pour vos mots-clés. Il vous suffit de taper le nom dans Créer une nouvelle liste.
+   >Vous pouvez également créer une nouvelle liste pour vos mots-clés. Saisissez simplement le nom dans Créer une liste.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
 Ouah ! Sélectionnez votre liste pour afficher les nouveaux mots-clés.
 
-## Supprimer le mot-clé de la Liste {#remove-keyword-from-list}
+## Supprimer le mot-clé de la liste {#remove-keyword-from-list}
 
-Vous pouvez également supprimer des mots-clés d&#39;une liste.
+Vous pouvez également supprimer des mots-clés d’une liste.
 
-1. Accédez à la section **Mots-clés**.
+1. Accédez au **Mots-clés** .
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Passez la souris sur le mot-clé à supprimer d’une liste. Cliquez sur **Ajouter/Supprimer de la liste**.
+1. Pointez sur le mot-clé à supprimer d’une liste. Cliquez sur **Ajouter/Supprimer de la liste**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -53,12 +52,12 @@ Vous pouvez également supprimer des mots-clés d&#39;une liste.
 
    >[!NOTE]
    >
-   >Toutes les listes auxquelles le mot-clé appartient actuellement auront une coche. Une fois retirée de la liste, la vérification disparaît.
+   >Toutes les listes auxquelles le mot-clé appartient actuellement sont cochées. Une fois supprimée de la liste, la vérification disparaît.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
-   Parfait, le mot-clé ne figure plus sur cette liste. Actualisez votre page pour mettre à jour l’affichage.
+   Parfait, le mot-clé ne figure plus dans cette liste. Actualisez votre page pour mettre à jour l’affichage.
 
    >[!MORELIKETHIS]
    >
-   >[Présentation des mots-clés (Vue de résumé)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Présentation des mots-clés (vue récapitulative)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

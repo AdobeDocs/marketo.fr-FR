@@ -9,13 +9,13 @@ ht-degree: 0%
 
 ---
 
-# Add/Remove Custom Object Field as Smart List/Trigger Constraints {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# Ajouter/Supprimer un champ d’objet personnalisé en tant que contraintes de liste/déclenchement intelligent {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
 Marketo Engage offre un contrôle spécifique sur la synchronisation des objets personnalisés de Veeva. Vous pouvez ainsi sélectionner les champs disponibles en tant que contraintes dans les filtres d’objets personnalisés et les utiliser comme déclencheurs dans les campagnes dynamiques.
 
 >[!NOTE]
 >
->**Admin Permissions Required**
+>**Autorisations d’administrateur requises**
 
 1. Cliquez sur **Administration**, puis **Synchronisation des objets Veeva**.
 
@@ -43,7 +43,7 @@ Marketo Engage offre un contrôle spécifique sur la synchronisation des objets 
 
    >[!NOTE]
    >
-   >All fields are selected by default to be constraints on filters.
+   >Tous les champs sont sélectionnés par défaut pour être des contraintes sur les filtres.
 
 1. Cliquez sur l’onglet Champs pour confirmer vos modifications.
 

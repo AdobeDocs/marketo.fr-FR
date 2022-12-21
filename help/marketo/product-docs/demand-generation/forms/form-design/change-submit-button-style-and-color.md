@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359620
-description: Modifier le style et la couleur du bouton d’envoi - Documents marketing - Documentation du produit
+description: Modifier le style et la couleur du bouton d’envoi - Documents Marketo - Documentation du produit
 title: Modifier le style et la couleur du bouton Envoyer
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
-
 # Modifier le style et la couleur du bouton Envoyer {#change-submit-button-style-and-color}
 
-Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin de quelque chose de plus sophistiqué, n’hésitez pas à choisir parmi un large éventail de styles de bouton prêts à l’emploi.
+Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin d’un objet plus sophistiqué, n’hésitez pas à choisir parmi un large éventail de styles de bouton prêts à l’emploi.
 
 1. Accédez à **Activités marketing**.
 
@@ -23,15 +22,15 @@ Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin de 
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Sélectionnez le bouton **Envoyer** et cliquez sur **Modifier** en regard de Style de bouton.
+1. Sélectionnez la **Envoyer** et cliquez sur **Modifier** en regard de Style de bouton.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
    >[!TIP]
    >
-   >Saviez-vous que vous pouvez faire glisser le bouton Envoyer vers la gauche ou la droite pour modifier sa position ? C&#39;est si facile. Essaie-le !
+   >Saviez-vous que vous pouvez faire glisser le bouton d’envoi vers la gauche ou la droite pour modifier sa position ? C&#39;est si facile. Essaie-le !
 
-1. Choisissez un style de bouton qui vous convient (faites défiler vers le haut ou vers le bas).
+1. Sélectionnez un style de bouton de votre choix (faites défiler vers le haut ou vers le bas).
 
    ![](assets/image2014-9-15-16-3a55-3a30.png)
 
@@ -41,7 +40,7 @@ Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin de 
 
    >[!TIP]
    >
-   >Vous pouvez également saisir manuellement le code de couleur.
+   >Vous pouvez également saisir le code couleur manuellement.
 
 1. Cliquez sur **Sélectionner**.
 
@@ -55,7 +54,7 @@ Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin de 
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 
-   Voilà !
+   Et voilà !
 
    ![](assets/image2014-9-15-16-3a57-3a17.png)
 

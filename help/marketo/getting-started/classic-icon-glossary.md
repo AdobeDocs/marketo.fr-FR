@@ -57,14 +57,14 @@ Vous trouverez ci-dessous les anciennes icônes de Marketo Classic. Le nouveau g
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="25" src="assets/share-to.png"> 
+     <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">Le dossier source que vous avez partagé avec un autre espace de travail</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" width="25" src="assets/share-from.png"> 
+     <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
    <td colspan="1">Dossier de destination partagé à partir d’un autre espace de travail <br>(Le cadenas indique que des modifications ne peuvent pas être effectuées)</td> 
   </tr> 
@@ -92,7 +92,7 @@ Vous trouverez ci-dessous les anciennes icônes de Marketo Classic. Le nouveau g
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
+     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
    <td colspan="1">Déclencheur</td> 
   </tr> 
@@ -415,7 +415,7 @@ Vous trouverez ci-dessous les anciennes icônes de Marketo Classic. Le nouveau g
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" src="assets/hs-icon.png" title="—"> 
+     <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
    <td colspan="1">Programme de messagerie électronique planifié avec Head Start</td> 
   </tr> 

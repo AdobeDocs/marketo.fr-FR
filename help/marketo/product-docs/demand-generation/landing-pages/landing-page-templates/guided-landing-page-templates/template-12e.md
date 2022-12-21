@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 12E {#template-12e}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 

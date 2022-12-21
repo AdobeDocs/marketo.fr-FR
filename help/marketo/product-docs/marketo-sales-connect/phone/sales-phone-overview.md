@@ -1,42 +1,41 @@
 ---
 unique-page-id: 14352438
-description: Présentation des téléphones des ventes - Documents marketing - Documentation du produit
-title: Présentation du téléphone de vente
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Présentation du téléphone de vente - Documents Marketo - Documentation du produit
+title: Présentation du téléphone commercial
+exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
+# Présentation du téléphone commercial {#sales-phone-overview}
 
-# Aperçu des ventes par téléphone {#sales-phone-overview}
+## Pourquoi le téléphone commercial ? {#why-sales-phone}
 
-## Pourquoi vendre un téléphone ? {#why-sales-phone}
+* Énorme gain de temps lors des appels téléphoniques. Il faut deux clics pour effectuer un appel téléphonique, et tout est automatiquement connecté à Salesforce.
+* Augmentez la probabilité de connexion avec une personne en utilisant la présence locale.
+* L’entraîneur se charge de rediriger et d’augmenter les performances de votre équipe en exploitant les enregistrements d’appels pour comprendre ce qui fonctionne et ce qui ne fonctionne pas.
 
-* Énorme réduction du temps de passer des appels téléphoniques. Il faut deux clics pour passer un appel téléphonique et tout est automatiquement connecté à Salesforce.
-* Augmenter la probabilité de connexion avec quelqu’un en utilisant la présence locale.
-* Entraîneur se présente et augmente les performances de votre équipe en exploitant les enregistrements d’appels pour comprendre ce qui fonctionne et ce qui ne fonctionne pas.
+## Comment puis-je rapidement configurer votre téléphone de vente ? {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-## Comment puis-je être rapidement configuré avec Sales Phone ? {#how-do-i-quickly-get-set-up-with-sales-phone}
+**Numéro de téléphone :** Il vous suffit de le saisir une seule fois. Sales Connect mémorisera votre numéro pour tous les appels futurs.
 
-**Numéro de téléphone :** Vous n&#39;aurez besoin de le saisir qu&#39;une seule fois. Sales Connect mémorisera votre numéro pour tous les appels futurs.
+**Présence locale :** Vous n’aurez qu’à vérifier &quot;utiliser la présence locale&quot; et enregistrer l’appel pour votre premier appel. Sales Connect mémorisera vos paramètres pour tous les appels futurs.
 
-**Présence locale :** vous n&#39;aurez qu&#39;à vérifier &quot;utiliser la présence locale&quot; et enregistrer l&#39;appel pour votre premier appel. Sales Connect mémorisera vos paramètres pour tous les appels futurs.
+Si vous souhaitez que Sales Connect crée automatiquement une activité d’appel dans Salesforce, extrayez [cet article](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
 
-Si vous souhaitez que Sales Connect crée automatiquement une activité d&#39;appel dans Salesforce, extrayez [cet article](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
+## Comment effectuer un appel avec Sales Phone ? {#how-do-i-make-a-call-with-sales-phone}
 
-## Comment faire un appel avec le téléphone de vente ? {#how-do-i-make-a-call-with-sales-phone}
+Vous pouvez appeler à partir du flux en direct dans Gmail/Outlook et du Centre de commandes de l’application web (boutons d’appel et de création d’un appel ), et directement depuis n’importe quel contact dans Sales Connect.
 
-Vous pouvez appeler à partir du flux en direct dans Gmail/Outlook et du Centre de commandes de l&#39;application Web (Appeler et faire un appel à des boutons et directement depuis n&#39;importe quel contact dans Sales Connect.
+Vous pouvez appeler depuis Niko, mais nous ne prenons pas encore en charge l&#39;enregistrement des appels ou la présence locale de là-bas.
 
-Vous pouvez appeler depuis Niko, mais nous ne supportons pas encore l&#39;enregistrement d&#39;appel ou la présence locale de là.
+Dans le Centre de commandes, vous pouvez utiliser votre &quot;liste d’appels&quot; à partir de l’onglet envoyé.
 
-Dans le Centre de commandes, vous pouvez utiliser votre &quot;liste d&#39;appel&quot; à partir de l&#39;onglet envoyé.
+Une fois que vous avez appuyé sur un appel ou effectué un appel, Sales Connect extrait le numéro de téléphone de votre prospect/contact de Salesforce. Si aucun numéro n’est répertorié dans Salesforce, Sales Connect extrait le numéro de téléphone dans l’enregistrement de compte.
 
-Une fois que vous avez appelé ou passé un appel, Sales Connect récupérera votre numéro de téléphone de prospect/contact auprès de Salesforce. Si aucun numéro n&#39;est répertorié dans Salesforce, Sales Connect insère le numéro de téléphone dans l&#39;enregistrement du compte.
+Pour les équipes qui utilisent d’autres CRMS, Sales Connect extrait le numéro de téléphone du numéro figurant dans l’enregistrement Sales Connect. Ces données peuvent facilement être disponibles au moyen d’une [Chargement CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-Pour les équipes utilisant d&#39;autres CRMS, Sales Connect récupérera le numéro de téléphone du numéro figurant dans l&#39;enregistrement de Sales Connect. Ces données peuvent être facilement disponibles via un [transfert CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
-
-Cliquez sur le grand bouton vert **Appeler**. Votre téléphone va alors début à sonner. Prenez votre téléphone et Sales Connect appellera automatiquement le prospect/contact.
+Appuyez sur le grand vert **Appeler** bouton . Votre téléphone commencera alors à sonner. Prenez votre téléphone et Sales Connect appellera automatiquement le prospect/contact.

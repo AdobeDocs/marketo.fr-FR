@@ -1,28 +1,27 @@
 ---
 unique-page-id: 14352613
-description: Ajouter des personnes à votre documentation Campaign - Marketo - Documentation sur les produits
-title: Ajouter des personnes à votre Campaign
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+description: Ajout de personnes à votre campagne - Documents Marketo - Documentation du produit
+title: Ajout de personnes à votre campagne
+exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
+# Ajout de personnes à votre campagne {#add-people-to-your-campaign}
 
-# Ajouter des personnes à votre Campaign {#add-people-to-your-campaign}
+Il existe plusieurs façons d’ajouter une personne à une campagne.
 
-Il existe plusieurs façons d&#39;ajouter quelqu&#39;un à un Campaign.
+Si vous commencez à communiquer avec un prospect ou un client, vous pouvez utiliser Ajouter à Campaign à partir de n’importe quelle page de notre application web ou de Salesforce.
 
-Si vous commencez à communiquer avec une prospect ou un client, vous pouvez utiliser l&#39;Ajoute à Campaign à partir de n&#39;importe quelle page de notre application Web, ou à partir de Salesforce.
+Ce flux vous permettra de prévisualiser, modifier et planifier votre premier email dans Campaign. Si votre campagne commence par une tâche, ces tâches seront mises en file d’attente pour vous dans la liste Tâches de votre application web et de Salesforce.
 
-Ce flux vous permettra de prévisualisation, de modifier et de programmer votre premier courriel dans le Campaign, et si votre Campaign débuts avec une tâche, ces tâches seront mises en file d&#39;attente pour vous dans votre liste de Tâches dans notre application Web et dans Salesforce.
+Vous pouvez le faire à partir de l&#39;onglet Campagnes de notre application web.
 
-Vous pouvez le faire à partir de l’onglet Campagnes de notre application Web.
+Vous trouverez le bouton Ajouter à la campagne sur les pages Conversations et Personnes de notre application web.
 
-Vous pouvez trouver le bouton Ajouter à Campaign dans les pages Conversations et Personnes de notre application Web.
+Si vous effectuez le suivi d’un prospect ou d’un client à partir de votre boîte de réception Gmail ou Outlook, vous pouvez l’ajouter à une campagne via votre fenêtre de composition lorsque vous la retrouvez (si la première étape de la campagne est un email).
 
-Si vous effectuez un suivi auprès d&#39;une prospect ou d&#39;un client de votre boîte de réception Gmail ou Outlook, vous pouvez les ajouter à un Campaign via votre fenêtre de composition lorsque vous effectuez un suivi avec eux (si la première étape dans le Campaign est un courriel).
-
-Répondez à leur email et choisissez un Campaign dans notre plugin.
+Répondez simplement à leur email et choisissez une campagne parmi notre module externe.

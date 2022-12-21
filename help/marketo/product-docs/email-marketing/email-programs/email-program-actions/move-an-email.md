@@ -18,11 +18,11 @@ Vous devez déplacer un email d&#39;un programme à un autre ? Voici comment.
 
    ![](assets/move-an-email-1.png)
 
-1. Recherchez l&#39;email que vous souhaitez déplacer, cliquez dessus avec le bouton droit et sélectionnez **Déplacer**.
+1. Localisez l&#39;email à déplacer, cliquez avec le bouton droit dessus et sélectionnez **Déplacer**.
 
    ![](assets/move-an-email-2.png)
 
-1. Sélectionnez **Destination**, **Programme** et le dossier **facultatif**. Sélectionnez **Déplacer**.
+1. Sélectionnez la **Destination**, **Programme**, et facultatif **Dossier**. Sélectionner **Déplacer**.
 
    ![](assets/move-an-email-3.png)
 

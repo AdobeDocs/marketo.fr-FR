@@ -32,16 +32,16 @@ Vous pouvez vous abonner aux notifications pour les recevoir dans votre email.
 
    ![](assets/understanding-notifications-3.png)
 
-1. Sélectionnez le Type de notification et saisissez la ou les adresses électroniques auxquelles vous souhaitez envoyer les notifications (séparées par une virgule). Cliquez sur **S’abonner** lorsque vous avez terminé.
+1. Sélectionnez le Type de notification et saisissez la ou les adresses électroniques auxquelles vous souhaitez envoyer les notifications (séparées par une virgule). Cliquez sur **S’abonner** une fois terminé.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->La zone **envoyer à** ne vous permet que de saisir votre email ; elle n’affiche pas de liste des abonnés existants.
+>Le **envoyer à** pour que vous puissiez entrer votre email uniquement, elle n&#39;affichera pas de liste des abonnés existants.
 
 Dans certains cas, une notification fournit un lien &quot;Voir la liste complète&quot; pour télécharger un fichier CSV (valeurs séparées par des virgules), par exemple, le fichier des erreurs de synchronisation de Microsoft Dynamics. Marketo conserve ces fichiers CSV pendant 30 jours. Si vous tentez de télécharger le fichier au bout de 30 jours, vous obtiendrez une erreur 404.
 
 >[!TIP]
 >
->Vous souhaitez vous désabonner des emails de notification ? Pas de problème. Il vous suffit de cliquer sur le lien **se désabonner des notifications** au bas de l’e-mail.
+>Vous souhaitez vous désabonner des emails de notification ? Pas de problème. Cliquez simplement sur le bouton **se désabonner des notifications** lien au bas de l’email.

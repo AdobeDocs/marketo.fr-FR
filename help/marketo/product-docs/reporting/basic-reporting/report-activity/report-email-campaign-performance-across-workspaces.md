@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2360055
-description: Courriel des rapports, performances Campaign dans tous les espaces de travail - Documents marketing - Documentation du produit
-title: Courriel des rapports, performances Campaign dans tous les espaces de travail
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Courriel du rapport, Performances de Campaign dans tous les espaces de travail - Documents Marketo - Documentation du produit
+title: Courriel du rapport, Performances des campagnes dans les espaces de travail
+exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
+# Courriel du rapport, Performances des campagnes dans les espaces de travail {#report-email-campaign-performance-across-workspaces}
 
-# Courriel du rapport, performances Campaign dans tous les espaces de travail {#report-email-campaign-performance-across-workspaces}
-
-Activez le Rapports global pour inclure dans vos rapports [Performances du courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Performances du lien de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) et [Activité de Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) les données provenant de tous vos espaces de travail de [marketing.](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+Activez la création de rapports globaux pour inclure les données de tous vos Marketo. [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) dans votre [Performances des emails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Performances des liens du courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), et [Activité de campagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) rapports.
 
 1. Accédez à **Analytics** (ou **Activités marketing**).
 
@@ -23,15 +22,15 @@ Activez le Rapports global pour inclure dans vos rapports [Performances du courr
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Cliquez sur l&#39;onglet **Configuration** et cliquez sur **Rapports global** en doublon.
+1. Cliquez sur le bouton **Configuration** et double-cliquez **Rapports globaux**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. Sélectionnez **Activé**.
+1. Sélectionner **Activé**.
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. C&#39;est tout ! Cliquez sur l&#39;onglet **Rapport** pour afficher les données de tous vos espaces de travail.
+1. C&#39;est tout ! Cliquez sur le bouton **Rapport** pour afficher les données de tous vos espaces de travail.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 

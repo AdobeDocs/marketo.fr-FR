@@ -126,8 +126,8 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
   </thead>
   <tbody>
     <tr>
-      <td>Chiffre d'affaires annuel</td>
-      <td>Chiffre d'affaires annuel</td>
+      <td>Chiffre d’affaires annuel</td>
+      <td>Chiffre d’affaires annuel</td>
     </tr>
     <tr>
       <td>Ville de facturation</td>
@@ -167,7 +167,7 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
     </tr>
     <tr>
       <td>Employés</td>
-      <td>Nombre d'employés</td>
+      <td>Nombre d’employés</td>
     </tr>
     <tr>
       <td>Téléphone du compte</td>

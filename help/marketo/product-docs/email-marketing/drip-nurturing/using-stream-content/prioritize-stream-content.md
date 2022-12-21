@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359834
-description: Donner la priorité au contenu du flux - Documents marketing - Documentation du produit
-title: Donner la priorité au contenu du flux
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Définition de la priorité du contenu en continu - Documents Marketo - Documentation du produit
+title: Définition de la priorité du contenu en continu
+exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
+# Définition de la priorité du contenu en continu {#prioritize-stream-content}
 
-# Donner la priorité au contenu du flux {#prioritize-stream-content}
-
-Après avoir ajouté du contenu à votre flux, vous pouvez modifier la priorité. Le contenu est toujours diffusé de haut en bas dans chaque diffusion et aucun contenu n’est envoyé deux fois à la même personne.
+Après avoir ajouté du contenu à votre flux, vous pouvez modifier la priorité. Le contenu est toujours diffusé du haut vers le bas dans chaque diffusion et aucun contenu n’est envoyé à la même personne deux fois.
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre programme d’engagement et cliquez sur l’onglet **Flux**.
+1. Sélectionnez votre programme d’engagement et cliquez sur le bouton **Flux** .
 
    ![](assets/cloneasteam-1.jpg)
 
-1. Désormais, il vous suffit de faire glisser et de déposer le contenu dans l’ordre dans lequel vous le souhaitez.
+1. Désormais, faites glisser et déposez simplement le contenu dans l’ordre dans lequel vous le souhaitez.
 
    ![](assets/image2014-9-15-17-3a5-3a45.png)
 
@@ -31,4 +30,4 @@ Après avoir ajouté du contenu à votre flux, vous pouvez modifier la priorité
    >
    >La priorité sera toujours lue du haut vers le bas au moment de la diffusion.
 
-   C&#39;est si facile ! Vous savez maintenant comment classer par priorité votre contenu de diffusion en continu.
+   C&#39;est si facile ! Vous savez maintenant comment prioriser le contenu de votre diffusion.

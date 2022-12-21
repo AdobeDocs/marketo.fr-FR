@@ -60,7 +60,7 @@ Les entreprises peuvent désormais prendre en charge une connexion transparente 
 
 Les éditeurs de courrier électronique et de page d’entrée ont été reconçus avec une interface plus conviviale, une navigation intuitive et une expérience utilisateur considérablement améliorée, ce qui inclut :
 
-Une vue HTML et texte côte à côte
+Une vue côte à côte HTML et texte
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 
@@ -71,7 +71,7 @@ Les champs De nom, De courrier électronique, Réponse (NOUVEAU) et Objet sont a
 * Mozilla Firefox 9.0
 * Google Chrome 16
 * Microsoft Internet Explorer 8 et 9
-* **Remarque** : Nous ne prenons plus en charge Internet Explorer 7
+* **Remarque**: Nous ne prenons plus en charge Internet Explorer 7
 
 ## Gestion des programmes {#program-management}
 

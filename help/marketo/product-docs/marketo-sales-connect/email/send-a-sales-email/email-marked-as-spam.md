@@ -1,31 +1,30 @@
 ---
 unique-page-id: 14352525
-description: Courriel signalé comme indésirable - Documents marketing - Documentation du produit
-title: Courrier électronique signalé comme indésirable
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Courrier électronique marqué comme indésirable - Documents Marketo - Documentation du produit
+title: Email marqué comme indésirable
+exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
+# Email marqué comme indésirable {#email-marked-as-spam}
 
-# Courriel signalé comme indésirable {#email-marked-as-spam}
+En tant qu’entreprise, nous travaillons dur pour nous assurer que nos taux de délivrabilité restent élevés. Néanmoins, certains comportements et paramètres utilisateur peuvent déclencher le routage de vos emails envoyés vers le dossier spam.
 
-En tant que société, nous nous efforçons de veiller à ce que nos taux de livraison demeurent élevés. Néanmoins, certains comportements et paramètres utilisateur peuvent déclencher le routage de vos courriers électroniques envoyés vers le dossier de messages indésirables.
+**Vérifiez vos paramètres**
 
-**Vérifier vos paramètres**
+* Suivi des domaines personnalisés : Cela vous permet de voir tous vos liens de suivi tels quels.&quot;yourdomain&quot; au lieu de go.toutapp. Un certain niveau de sécurité des emails indique que l’email provient de &quot;votre domaine&quot;, mais que le lien est redirigé vers go.toutapp. En implémentant le suivi des liens de domaine personnalisés, vos emails auront l’air légitime et auront une probabilité plus élevée d’accéder à la boîte de réception du destinataire.
+* Canal de diffusion email : Par défaut, vos emails sont envoyés via les serveurs ToutApp. En configurant votre propre message Gmail ou SMTP personnalisé, vous pouvez offrir à vos emails la meilleure opportunité d’accéder à la boîte de réception d’un destinataire. [Cliquez ici](https://nation.marketo.com/docs/DOC-5080) pour en savoir plus sur la sélection du canal de diffusion approprié à vos besoins.
 
-* Suivi de domaine personnalisé : Cela vous permet d&#39;afficher tous vos liens de suivi en cours.&quot;yourdomain&quot; au lieu de go.toutapp. Certains agents de sécurité de l&#39;e-mail verront que l&#39;e-mail provient de &quot;votre domaine&quot; mais que le lien est redirigé vers go.toutapp. En implémentant le suivi des liens de domaine personnalisés, vos courriels paraîtront légitimes et auront une probabilité plus élevée d’accès à la boîte de destinataire.
-* Canal de Diffusion de courriel : Par défaut, vos courriers électroniques sont envoyés via les serveurs ToutApp. En configurant votre propre Gmail ou SMTP personnalisé, vous pouvez donner à vos courriels la meilleure opportunité d&#39;atterrir dans une boîte de destinataire. [Cliquez ](https://nation.marketo.com/docs/DOC-5080) ici pour en savoir plus sur la sélection du canal de diffusion approprié à vos besoins.
+**Vérifier vos comportements d&#39;email**
 
-**Vérifier vos comportements de messagerie**
+* Gardez vos emails courts et informels, puis collez vos modèles sous forme d’emails que vous avez déjà écrits.
 
-* Conservez vos courriels courts et informels, et collez vos modèles sous forme d&#39;e-mail que vous avez déjà écrit.
+* Évitez les emails surformatés ou les messages dans lesquels vous utilisez des mots transnationaux.
 
-* Évitez les courriels surformatés ou les messages lorsque vous utilisez des mots transnationaux.
+* Assurez-vous d’avoir une signature d’email complète avec une adresse physique.
 
-* Assurez-vous d’avoir une signature électronique complète avec une adresse physique.
-
-* Lisez et assurez-vous de respecter les [lois CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).
+* Lisez et assurez-vous de respecter les conditions [Lois CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).

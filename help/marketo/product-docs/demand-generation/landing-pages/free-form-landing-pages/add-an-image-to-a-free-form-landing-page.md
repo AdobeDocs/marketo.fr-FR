@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2359703
-description: Ajouter une image à un Landing page de forme libre - Documents marketing - Documentation du produit
-title: Ajouter une image à un Landing page libre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Ajout d’une image à une page d’entrée de formulaire libre - Documents Marketo - Documentation du produit
+title: Ajout d’une image à une page d’entrée de forme libre
+exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# Ajouter une image à un Landing page de forme libre {#add-an-image-to-a-free-form-landing-page}
+# Ajout d’une image à une page d’entrée de forme libre {#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
->[Ajouter des images et des fichiers au marketing](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>[Ajout d’images et de fichiers à Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. Sélectionnez votre landing page de formulaire libre et cliquez sur **Modifier** **Version préliminaire**.
+1. Sélectionnez votre page d’entrée de forme libre et cliquez sur **Modifier** **Version préliminaire**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Dans l’éditeur, faites glisser l’élément **Image**.
+1. Dans l’éditeur, faites glisser le pointeur de la souris sur l’objet **Image** élément .
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -33,6 +32,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   Super boulot ! Vous venez d&#39;ajouter une image à votre landing page libre.
+   Bon boulot ! Vous venez d’ajouter une image à votre page d’entrée de forme libre.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)

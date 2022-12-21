@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359510
-description: Suppression d’une segmentation - Documents marketing - Documentation du produit
+description: Suppression d’une segmentation - Documents Marketo - Documentation du produit
 title: Suppression d’une segmentation
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-
-# Supprimer une segmentation {#delete-a-segmentation}
+# Suppression d’une segmentation {#delete-a-segmentation}
 
 Vous pouvez supprimer une segmentation en procédant comme suit.
 
-1. Accédez à la **base de données**.
+1. Accédez au **Base**.
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
@@ -23,9 +22,9 @@ Vous pouvez supprimer une segmentation en procédant comme suit.
 
    ![](assets/image2017-3-28-15-3a51-3a8.png)
 
-   Si votre segmentation est utilisée par d’autres ressources, supprimez toutes ces associations avant de continuer.
+   Si votre segmentation est utilisée par d’autres ressources, supprimez toutes ces associations avant de poursuivre.
 
-1. Supprimez toutes les associations, puis dans **Actions de segmentation** cliquez sur **Désapprouver**.
+1. Supprimez toutes les associations, puis dans **Actions de segmentation** click **Ne pas approuver**.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
@@ -33,7 +32,7 @@ Vous pouvez supprimer une segmentation en procédant comme suit.
    >
    >Vous pouvez supprimer des associations en supprimant ou en créant des alternatives pour les ressources qui utilisent la segmentation.
 
-1. Une fois non approuvé, cliquez sur **Actions de segmentation** et supprimez la segmentation.
+1. Une fois l’approbation annulée, cliquez sur **Actions de segmentation** et supprimer la segmentation.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 

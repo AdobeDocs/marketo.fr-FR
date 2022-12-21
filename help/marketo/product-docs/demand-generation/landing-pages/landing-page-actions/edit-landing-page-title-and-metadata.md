@@ -1,40 +1,39 @@
 ---
 unique-page-id: 2359726
-description: Modifier le titre et les métadonnées du Landing page - Documents marketing - Documentation du produit
-title: Modifier le titre et les métadonnées du Landing page
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Modifier le titre et les métadonnées de la page d’entrée - Documents Marketo - Documentation du produit
+title: Modifier le titre et les métadonnées de la page d’entrée
+exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
+# Modifier le titre et les métadonnées de la page d’entrée {#edit-landing-page-title-and-metadata}
 
-# Modifier le titre du Landing page et les métadonnées {#edit-landing-page-title-and-metadata}
+Marketo vous permet de modifier votre landing page. [meta-balises à des fins d’optimisation pour les moteurs de recherche](https://www.w3schools.com/tags/tag_meta.asp) ainsi que de personnaliser la variable `<head>` du HTML.
 
-Marketo vous permet de modifier vos balises [meta de landing page à des fins d’optimisation du référencement](https://www.w3schools.com/tags/tag_meta.asp) et de personnaliser la partie `<head>` du code HTML.
-
-1. Sélectionnez un landing page et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez une landing page et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
    >[!NOTE]
    >
-   >Le concepteur de Landing page s&#39;ouvrira dans une nouvelle fenêtre.
+   >Le concepteur de landing page s’ouvre dans une nouvelle fenêtre.
 
-1. Sous **Actions du Landing page**, cliquez sur **Modifier les métadonnées de page**.
+1. Sous **Actions de page d’entrée**, cliquez sur **Modification des métadonnées de page**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Entrez **Titre**, **Mots-clés** et **Description** pour votre page. Sélectionnez l’option **Robots** souhaitée et entrez le contenu personnalisé de votre choix pour la section HTML `<head>`. Cliquez sur **Enregistrer**.
+1. Saisissez le **Titre**, **Mots-clés**, et **Description** pour votre page. Sélectionnez la **Robots** et saisissez le contenu personnalisé de votre choix pour le HTML `<head>` . Cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**Qu&#39;est-ce que  [](https://www.robotstxt.org/meta.html) les robots signifient ?**
+   >**Que faire ? [robots](https://www.robotstxt.org/meta.html) vous voulez dire ?**
    >
-   >**index** : peut faire l’objet de recherches sur le Web. **suivre** : les moteurs de recherche peuvent suivre les liens des pages indexées.
+   >**index**: La page peut faire l’objet de recherches sur le Web. **Follow**: les moteurs de recherche peuvent suivre les liens sur les pages indexées.
 
-1. Modifiez les balises à tout moment et approuvez le landing page.
+1. Modifiez les balises à tout moment et approuvez la landing page.

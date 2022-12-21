@@ -1,21 +1,20 @@
 ---
 unique-page-id: 7513771
-description: Connexion et gestion des utilisateurs - Documents marketing - Documentation du produit
-title: Connexion et Gestion des utilisateurs
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Connexion et gestion des utilisateurs - Documents Marketo - Documentation du produit
+title: Connexion et gestion des utilisateurs
+exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
-
 # Connexion et gestion des utilisateurs {#login-and-user-management}
 
-## Créer un rôle utilisateur de personnalisation Web {#create-a-web-personalization-user-role}
+## Création d’un rôle d’utilisateur de personnalisation web {#create-a-web-personalization-user-role}
 
-1. Accédez à la section **Admin**, puis cliquez sur **Utilisateurs et rôles**.
+1. Accédez au **Administration** , puis cliquez sur **Utilisateurs et rôles**.
 
    ![](assets/image2015-4-28-19-3a50-3a49.png)
 
@@ -25,41 +24,41 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Si le rôle utilisateur Personnalisation Web (WP) existe déjà, assurez-vous qu’il est configuré comme indiqué à l’étape 4.
+   >Si le rôle d’utilisateur de la personnalisation web (WP) existe déjà, assurez-vous qu’il est configuré comme indiqué à l’étape 4.
 
 1. Cliquez sur **Nouveau rôle**.
 
    ![](assets/three-1.png)
 
-1. Saisissez un nom de rôle et sélectionnez Autorisations. Cliquez sur **Créer** (ce rôle doit [s&#39;appliquer à tous les espaces de travail](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
+1. Saisissez un Nom de rôle et sélectionnez Autorisations. Cliquez sur **Créer** (ce rôle doit être [appliquer à tous les espaces de travail ;](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Pour autoriser les utilisateurs à accéder à tous les éléments du ciblage et de la personnalisation, veillez à cocher _toutes_ les cases.
+   >Pour autoriser les utilisateurs à accéder à tout ce qui se trouve dans Ciblage et personnalisation, veillez à sélectionner _all_ les cases à cocher.
 
-## Personnalisation Web et autorisations d&#39;utilisateur de contenu prédictif {#web-personalization-and-predictive-content-user-permissions}
+## Personnalisation web et autorisations d’utilisateur de contenu prédictif {#web-personalization-and-predictive-content-user-permissions}
 
-**Ciblage et personnalisation** : L’utilisateur dispose uniquement d’autorisations de vue, si cette autorisation est uniquement sélectionnée.
+**Ciblage et personnalisation**: L’utilisateur dispose d’autorisations d’affichage uniquement, si cette autorisation est sélectionnée uniquement.
 
-**Admin Personnalisation Web + Prédictif** : L’utilisateur a accès uniquement aux paramètres du compte et aux paramètres de contenu pour l’application Personnalisation Web et Contenu prédictif. Les utilisateurs peuvent vue des pages dans l’application mais ne disposent pas des autorisations de création, de modification, de suppression et de lancement.
+**Personnalisation web d’administration + prédictif**: L’utilisateur a accès uniquement aux paramètres du compte et aux paramètres de contenu pour l’application de personnalisation web et de contenu prédictif. Les utilisateurs peuvent afficher des pages dans l’application, mais ne disposent pas des autorisations de création, de modification, de suppression et de lancement.
 
-**Editeur** de contenu prédictif : L’utilisateur dispose de l’accès de l’éditeur à l’application de contenu prédictif. L&#39;autorisation permet de créer, modifier, supprimer des éléments de contenu. Il ne permet pas d’activer le contenu pour une utilisation prédictive sur le Web ou par courrier électronique.
+**Éditeur de contenu prédictif**: L’utilisateur dispose d’un accès en éditeur à l’application de contenu prédictif. L’autorisation permet de créer, modifier et supprimer des éléments de contenu. Il ne permet pas d’activer le contenu pour une utilisation prédictive sur le web ou par e-mail.
 
-**Lanceur** de contenu prédictif : L’utilisateur a accès à toutes les fonctions de contenu prédictif, à l’exception des paramètres de compte et de contenu. L&#39;autorisation permet de créer, modifier et supprimer et activer des éléments de contenu.
+**Lanceur de contenu prédictif**: L’utilisateur a accès à toutes les fonctionnalités de contenu prédictif, à l’exception des paramètres de compte et de contenu. L’autorisation permet de créer, modifier, supprimer et activer des éléments de contenu.
 
-**Éditeur** Web Campaign : L&#39;utilisateur a accès à l&#39;éditeur à toutes les fonctions de personnalisation Web pour créer, modifier et supprimer, mais pas pour lancer des campagnes Web.
+**Éditeur de campagnes web**: L’utilisateur dispose d’un accès en éditeur à toutes les fonctionnalités de personnalisation Web pour créer, modifier et supprimer, mais pas lancer des campagnes Web.
 
-**Lanceur** Web Campaign : L’utilisateur a accès à toutes les fonctionnalités de l’application de personnalisation Web, à l’exception des paramètres de compte et de contenu. Cette autorisation permet de créer, modifier, supprimer et lancer des campagnes Web.
+**Lanceur de campagne web**: L’utilisateur a accès à toutes les fonctionnalités de l’application de personnalisation Web, à l’exception des paramètres de compte et de contenu. L&#39;autorisation permet de créer, modifier, supprimer et lancer des campagnes Web.
 
-## Affecter le rôle WP à l&#39;utilisateur {#assign-wp-role-to-user}
+## Attribution d’un rôle WP à l’utilisateur {#assign-wp-role-to-user}
 
 1. Accédez à **Utilisateurs**.
 
    ![](assets/image2015-4-29-11-3a31-3a3.png)
 
-1. Sélectionnez l&#39;utilisateur auquel accorder l&#39;accès WP et cliquez sur **Modifier l&#39;utilisateur**.
+1. Sélectionnez l’utilisateur auquel accorder l’accès au WP et cliquez sur **Modifier l’utilisateur**.
 
    ![](assets/image2015-4-29-11-3a38-3a46.png)
 
@@ -67,6 +66,6 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. Les utilisateurs nouvellement activés verront la mosaïque **Personnalisation Web** dans Mon marketing la prochaine fois qu’ils se connecteront.
+1. Les nouveaux utilisateurs verront apparaître la variable **Personnalisation web** dans My Marketo la prochaine fois qu’ils se connecteront.
 
    ![](assets/eight.png)

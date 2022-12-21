@@ -38,7 +38,7 @@ Figure 2. Exemple de filtre d’email archivé
 
 Simplifiez le processus d’archivage des événements à l’aide de notre nouvelle application iPad ! L’application d’archivage des événements se synchronise avec votre programme Marketo et vous permet d’archiver facilement les inscrits dans un événement, ainsi que d’ajouter de nouvelles pistes à la volée.
 
-Nécessite iOS 5.1 ou version ultérieure ; iPad uniquement.
+Requiert iOS 5.1 ou version ultérieure ; iPad uniquement.
 
 ![](assets/image2014-9-23-10-3a14-3a46.png)
 
@@ -54,7 +54,7 @@ Figure 5. Archivez-les
 
 ## URL de confirmation améliorée du webinaire {#enhanced-webinar-confirmation-url}
 
-Maintenant disponible pour ON24 et Adobe Connect ! Incluez un lien unique dans l&#39;email de confirmation pour chaque participant enregistré à l&#39;aide du nouveau jeton `{{member.webinar URL}}`. Les améliorations apportées à Adobe Connect incluent également la possibilité d’activer/désactiver l’e-mail d’informations de compte d’Adobe contenant l’ID de connexion et le mot de passe de l’utilisateur.
+Maintenant disponible pour ON24 et Adobe Connect ! Inclure un lien unique dans l’email de confirmation pour chaque participant enregistré à l’aide de la nouvelle `{{member.webinar URL}}` jeton. Les améliorations apportées à Adobe Connect incluent également la possibilité d’activer/désactiver l’e-mail d’informations de compte d’Adobe contenant l’ID de connexion et le mot de passe de l’utilisateur.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -90,7 +90,7 @@ Figure 10. Fonctionnalités de la poitrine au trésor du gestionnaire dans l’a
 
 ## Intégration de Microsoft Dynamics® CRM {#microsoft-dynamics-crm-integration}
 
-Synchroniser les comptes, contacts et pistes entre Marketo et Microsoft Dynamics CRM Online à l’aide de notre nouvelle intégration préconfigurée !
+Synchroniser les comptes, contacts et pistes entre Marketo et Microsoft Dynamics CRM Online à l’aide de notre nouvelle intégration prédéfinie !
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 

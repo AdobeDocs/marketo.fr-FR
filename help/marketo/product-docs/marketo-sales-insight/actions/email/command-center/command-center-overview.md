@@ -4,8 +4,8 @@ title: Présentation du centre de commandes
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '488'
+ht-degree: 3%
 
 ---
 

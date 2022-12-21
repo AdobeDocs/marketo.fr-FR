@@ -6,7 +6,7 @@ exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
 workflow-type: tm+mt
 source-wordcount: '227'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 
@@ -20,13 +20,13 @@ Marketo Sales Connect est une solution d’assistance commerciale à multiples f
 
 ## Flux en direct {#the-live-feed}
 
-Les représentants commerciaux peuvent consulter [l’engagement en temps réel](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) du contenu marketing et commercial.
+Les représentants commerciaux peuvent afficher [engagement en temps réel](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) du contenu marketing et commercial.
 
 ![](assets/engagement.jpg)
 
 ## Vue Détails de la personne {#person-detail-view}
 
-Accédez aux [statistiques détaillées sur les personnes](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
+Accès [statistiques détaillées sur les personnes](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -60,7 +60,7 @@ Découvrez comment vos prospects s’engagent dans vos efforts de vente.
   </tr> 
   <tr> 
    <td colspan="1"><p>Recevoir l’appel de vente</p></td> 
-   <td colspan="1"><p>L’prospect a reçu un appel d’un vendeur utilisant le <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">téléphone des ventes</a>.</p></td> 
+   <td colspan="1"><p>Un prospect a reçu un appel d’un représentant utilisant la variable <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Téléphone des ventes</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Ajouter à la campagne de ventes</p></td> 
@@ -71,20 +71,20 @@ Découvrez comment vos prospects s’engagent dans vos efforts de vente.
    <td colspan="1"><p>Le plomb a été supprimé d’une campagne de vente.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Moment intéressant</p></td> 
+   <td colspan="1"><p>Moment significatif</p></td> 
    <td colspan="1"><p>Le plomb a eu un moment intéressant généré dans Marketo.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Partager des campagnes marketing {#share-marketing-campaigns}
+## Partage des campagnes marketing {#share-marketing-campaigns}
 
-Créez une campagne dynamique simple pour donner aux utilisateurs de vente l’accès aux [données de campagne Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Créez une campagne dynamique simple pour donner à vos utilisateurs commerciaux l’accès à [Données de campagne Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
 Prêt à démarrer ? Pour obtenir des instructions sur la configuration, cliquez sur le lien ci-dessous.
 
 >[!MORELIKETHIS]
-[Guide de prise en main pour les administrateurs de Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)>
 >
+>[Guide de prise en main pour les administrateurs de Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)

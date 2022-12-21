@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Septembre 2012 {#release-notes-september}
 
-Cette version comprend des fonctionnalités sociales très attendues et intégrées ainsi que des bons de gestion des prospects ! Remarque : les fonctions sociales sont disponibles sous la forme d’un module complémentaire ou d’un regroupement sélectionné.
+Cette version comprend des fonctionnalités sociales très attendues et intégrées, ainsi que des bons de gestion des prospects ! Remarque : les fonctions sociales sont disponibles sous la forme d’un module complémentaire ou d’un regroupement sélectionné.
 
 ## Publication d’une vidéo YouTube avec le partage sur les réseaux sociaux {#publish-a-youtube-video-with-social-sharing}
 
@@ -44,7 +44,7 @@ Connectez en toute transparence un événement Marketo à une réunion ReadyTalk
 
 ## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
 
-Nous prenons désormais en charge Microsoft Dynamics 2011 On-Premise avec un déploiement Internet.
+Nous prenons désormais en charge Microsoft Dynamics 2011 on-premise avec un déploiement Internet.
 
 ## Webhooks (Poitrine au trésor) {#webhooks-treasure-chest}
 

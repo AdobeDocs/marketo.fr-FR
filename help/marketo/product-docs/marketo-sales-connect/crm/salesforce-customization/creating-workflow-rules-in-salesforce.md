@@ -1,29 +1,28 @@
 ---
 unique-page-id: 14745823
-description: Création de règles de flux de travail dans Salesforce - Documents marketing - Documentation du produit
+description: Création de règles de processus dans Salesforce - Documents Marketo - Documentation du produit
 title: Création de règles de processus dans Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 0cfce178-453b-4949-96aa-c327278a267d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
 
 ---
 
+# Création de règles de processus dans Salesforce {#creating-workflow-rules-in-salesforce}
 
-# Création de règles de flux de travail dans Salesforce {#creating-workflow-rules-in-salesforce}
-
-Lors de l&#39;utilisation de Marketing Sales Insight (MSI) et de Marketing Sales Connect (MSC) en parallèle, la fonction MSI Best Bets (Meilleurs paris) dans Salesforce ne sera pas mise à jour. Toutes les autres fonctions MSI fonctionnent comme d’habitude (affichage de moments intéressants dans l’iFrame, envoi d’e-mails, ajout à des campagnes, etc.). Cet article offre une solution pour que les meilleurs paris fonctionnent à nouveau.
+Lors de l’utilisation de Marketo Sales Insight (MSI) et Marketo Sales Connect (MSC) en parallèle, la fonctionnalité MSI Best Bets (Meilleurs jeux MSI) dans Salesforce ne sera pas mise à jour. Toutes les autres fonctionnalités MSI fonctionnent normalement (affichage de moments intéressants dans l’iFrame, envoi d’emails, ajout à des campagnes, etc.). Cet article propose une solution pour que les meilleurs paris fonctionnent à nouveau.
 
 >[!NOTE]
 >
->Cela concerne uniquement les clients qui utilisent **à la fois** MSI et MSE et qui souhaitent utiliser la fonction Meilleurs paris de MSI. Si vous n’avez pas besoin/utilisez les meilleurs paris, vous pouvez ignorer.
+>Cela affecte uniquement les clients qui utilisent **both** MSI et MSE, et qui souhaitent utiliser la fonctionnalité Meilleurs paris de MSI. Si vous n’avez pas besoin d’utiliser les meilleurs paris, vous pouvez ignorer.
 
-## Prise en main {#getting-started}
+## Démarrer {#getting-started}
 
-La solution comprend la création de nouvelles règles de flux de travail pour copier des valeurs des nouveaux champs MSE dans les anciens champs MSI. Vous devez créer quatre règles de flux de travail pour l&#39;objet Contact et les quatre mêmes règles de flux de travail pour l&#39;objet Lead dans votre propre instance Salesforce. Pour ce faire, vous devrez peut-être disposer des droits d’administrateur CRM (selon votre rôle et votre configuration dans la gestion de la relation client).
+La solution de contournement consiste à créer de nouvelles règles de workflow pour copier les valeurs des nouveaux champs MSE dans les anciens champs MSI. Vous devez créer quatre règles de workflow pour l’objet Contact et les mêmes quatre règles de workflow pour l’objet Lead dans votre propre instance Salesforce. Pour ce faire, vous devrez peut-être disposer des droits d’administrateur CRM (en fonction de votre rôle et de votre configuration dans le CRM).
 
-Vous trouverez ci-dessous les noms recommandés des règles de flux de travail et la description de chacune d’elles. Elles s&#39;appliquent à l&#39;objet Contact et prospect :
+Vous trouverez ci-dessous les noms recommandés des règles de workflow et la description de chacune d’elles. Ils s’appliquent à l’objet Contact et Lead :
 
 <table> 
  <colgroup> 
@@ -32,43 +31,43 @@ Vous trouverez ci-dessous les noms recommandés des règles de flux de travail e
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Mettre à jour le champ de description du moment intéressant</td> 
-   <td><p>Copier de : Dernier engagement marketing Desc<br>Copier vers : Dernier moment intéressant Desc</p></td> 
+   <td>Mettre à jour le champ Desc Moment intéressant</td> 
+   <td><p>Copier depuis : Dernier engagement Marketo Desc<br>Copier vers : Dernier moment intéressant Desc</p></td> 
   </tr> 
   <tr> 
    <td>Mettre à jour le champ Type de moment intéressant</td> 
-   <td><p>Copier de : Dernier type d’engagement marketing<br>Copier vers : Dernier type de moment intéressant</p></td> 
+   <td><p>Copier depuis : Dernier type d’engagement Marketo<br>Copier vers : Dernier type de moment intéressant</p></td> 
   </tr> 
   <tr> 
-   <td>Mettre à jour le champ Source du moment intéressant</td> 
-   <td><p>Copier de : Dernière source de l'engagement marketing<br>Copier vers : Dernière source intéressante</p></td> 
+   <td>Mettre à jour le champ source du moment intéressant</td> 
+   <td><p>Copier depuis : Dernière source d’engagement Marketo<br>Copier vers : Dernière source intéressante</p></td> 
   </tr> 
   <tr> 
    <td>Mettre à jour le champ Date du moment intéressant</td> 
-   <td><p>Copier de : Dernière date d’engagement du marketing<br>Copier vers : Date du dernier moment intéressant</p></td> 
+   <td><p>Copier depuis : Date de la dernière interaction Marketo<br>Copier vers : Date du dernier moment intéressant</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Instructions {#instructions}
 
-1. Après avoir cliqué sur **Configuration**, recherchez **Workflow** et sélectionnez **Règles de flux de travail**.
+1. Après avoir cliqué sur **Configuration**, recherchez **Workflow** et sélectionnez **Règles de workflow**.
 
    ![](assets/one-1.png)
 
-1. Sélectionnez **Nouvelle règle**.
+1. Sélectionner **Nouvelle règle**.
 
    ![](assets/two-1.png)
 
-1. Cliquez sur la liste déroulante Objet et sélectionnez **Piste**, puis cliquez sur **Suivant**.
+1. Cliquez sur la liste déroulante Objet et sélectionnez **prospect**, puis cliquez sur **Suivant**.
 
    ![](assets/three-1.png)
 
-1. Saisissez &quot;Mettre à jour le champ Description du moment intéressant&quot; comme nom de la règle. Sélectionnez le bouton radio **créé et chaque fois qu’il est modifié**. Dans la liste déroulante Critères de règle, sélectionnez **la formule renvoie true**. Recherchez et sélectionnez la fonction ISCHANGED. Ensuite, mettez en surbrillance la valeur de champ par défaut et cliquez sur **Insérer un champ**.
+1. Saisissez &quot;Mettre à jour le champ Desc Moment intéressant&quot; comme nom de la règle. Sélectionner le bouton radio **créé et modifié à chaque fois**. Dans la liste déroulante Critères de règle , sélectionnez **la formule renvoie true (vrai)**. Recherchez et sélectionnez la fonction ISCHANGED. Mettez ensuite la valeur de champ par défaut en surbrillance et cliquez sur **Champ d’insertion**.
 
    ![](assets/four-1.png)
 
-1. Dans la fenêtre contextuelle Insérer un champ, choisissez **Dernier engagement marketing Desc** et cliquez sur **Insérer**.
+1. Dans la fenêtre contextuelle &quot;Insérer un champ&quot;, choisissez **Dernier engagement Marketo Desc** et cliquez sur **Insérer**.
 
    ![](assets/five-1.png)
 
@@ -76,19 +75,19 @@ Vous trouverez ci-dessous les noms recommandés des règles de flux de travail e
 
    ![](assets/6.png)
 
-1. Dans la liste déroulante Ajouter l’action de flux de travail, sélectionnez **Nouvelle mise à jour de champ**.
+1. Dans la liste déroulante Ajouter une action de processus , sélectionnez **Nouvelle mise à jour des champs**.
 
    ![](assets/seven.png)
 
-1. Dans le champ Name, saisissez &quot;Update intéressante Moment Desc Field&quot; (Nom unique généré automatiquement). Dans la liste déroulante Champ à mettre à jour, choisissez **Dernier moment intéressant Desc**. Sélectionnez le bouton radio **Utiliser une formule pour définir une nouvelle valeur**, puis cliquez sur **Afficher l&#39;éditeur de formule**.
+1. Dans le champ Nom , saisissez &quot;Mettre à jour le champ Desc du moment intéressant&quot; (le nom unique est généré automatiquement). Dans la liste déroulante Champ à mettre à jour , choisissez **Dernier moment intéressant Desc**. Sélectionnez la **Utiliser une formule pour définir une nouvelle valeur** bouton radio, puis cliquez sur **Afficher l’éditeur de formules**.
 
    ![](assets/eight.png)
 
-1. Cliquez sur le bouton **Insérer un champ**.
+1. Cliquez sur le bouton **Champ d’insertion** bouton .
 
    ![](assets/9a.png)
 
-1. Sélectionnez **Dernier engagement marketing**, puis cliquez sur **Insérer**. Sur la page suivante, cliquez sur **Enregistrer**.
+1. Sélectionner **Dernier engagement Marketo Desc**, puis cliquez sur **Insérer**. Sur la page suivante, cliquez sur **Enregistrer**.
 
    ![](assets/nine.png)
 
@@ -96,8 +95,8 @@ Vous trouverez ci-dessous les noms recommandés des règles de flux de travail e
 
    ![](assets/twelve.png)
 
-1. Cliquez sur **Activer** pour activer la règle de flux de travail.
+1. Cliquez sur **Activer** pour activer la règle de workflow.
 
    ![](assets/thirteen.png)
 
-   Après la dernière étape, vous pouvez choisir de cloner la règle de flux de travail pour les autres champs répertoriés dans la section Prise en main : Desc, Type, Source, Date. Une fois que vous avez terminé les quatre règles de flux de travail dans l&#39;objet Contact, répétez la même chose pour l&#39;objet Lead.
+   Après la dernière étape, vous pouvez choisir de cloner la règle de workflow pour les autres champs répertoriés dans la section Prise en main : Desc, Type, Source, Date. Une fois que vous avez terminé les quatre règles de workflow dans l’objet Contact, répétez la même chose pour l’objet Lead.

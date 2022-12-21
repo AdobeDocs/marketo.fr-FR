@@ -1,27 +1,26 @@
 ---
 unique-page-id: 30081307
-description: Colonnes de la page Personnes - Documents marketing - Documentation du produit
-title: Colonnes de la page Personnes
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Colonnes de page Personnes - Documents Marketo - Documentation du produit
+title: Colonnes de page Personnes
+exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
+# Colonnes de page Personnes {#people-page-columns}
 
-# Colonnes de la page Personnes {#people-page-columns}
-
-Vous avez la possibilité de personnaliser les coordonnées affichées en choisissant les colonnes qui s&#39;affichent.
+Vous avez la possibilité de personnaliser les informations de contact que vous voyez en choisissant les colonnes qui s’affichent.
 
 ## Comment sélectionner des colonnes {#how-to-select-columns}
 
-1. Dans la page Personnes, cliquez sur l’icône Paramètres de Liste.
+1. Dans la page Personnes, cliquez sur l’icône Paramètres de liste .
 
    ![](assets/one-5.png)
 
-1. Faites défiler la liste et sélectionnez les colonnes de votre choix (vous pouvez également cliquer sur **Sélectionner tout** si vous voulez chaque colonne). Cliquez sur hors de la liste lorsque vous avez terminé.
+1. Faites défiler et sélectionnez les colonnes de votre choix (vous pouvez également cliquer sur **Tout sélectionner** si vous souhaitez chaque colonne). Lorsque vous avez terminé, cliquez en dehors de la liste.
 
    ![](assets/two-4.png)
 
@@ -46,8 +45,8 @@ Vous avez la possibilité de personnaliser les coordonnées affichées en choisi
    <td>Nom</td> 
   </tr> 
   <tr> 
-   <td colspan="1">E-mail (par défaut)</td> 
-   <td colspan="1">Adresse électronique</td> 
+   <td colspan="1">Email (par défaut)</td> 
+   <td colspan="1">Adresse e-mail</td> 
   </tr> 
   <tr> 
    <td colspan="1">Téléphone</td> 
@@ -55,63 +54,63 @@ Vous avez la possibilité de personnaliser les coordonnées affichées en choisi
   </tr> 
   <tr> 
    <td colspan="1">Titre (par défaut)</td> 
-   <td colspan="1">Titre de la tâche</td> 
+   <td colspan="1">Intitulé du poste</td> 
   </tr> 
   <tr> 
    <td>Société (par défaut)</td> 
-   <td>Nom de la société</td> 
+   <td>Nom de société</td> 
   </tr> 
   <tr> 
    <td>Campaign (par défaut)</td> 
-   <td>Campagne de vente sur laquelle se trouve actuellement la personne</td> 
+   <td>Campagne de ventes sur laquelle se trouve actuellement la personne</td> 
   </tr> 
   <tr> 
-   <td>Nbre de campagnes</td> 
+   <td>Nb de campagnes</td> 
    <td>Nombre total de campagnes de ventes auxquelles la personne a participé</td> 
   </tr> 
   <tr> 
-   <td>Nbre d'appels</td> 
-   <td>Nombre total d'appels passés à cette personne</td> 
+   <td>Nb d’appels</td> 
+   <td>Nombre total d’appels qui ont été passés à cette personne</td> 
   </tr> 
   <tr> 
-   <td>Nombre de courriels</td> 
-   <td>Nombre total de courriers électroniques envoyés à cette personne</td> 
+   <td>Nb d’e-mails</td> 
+   <td>Nombre total d'emails envoyés à cette personne</td> 
   </tr> 
   <tr> 
-   <td>Date d'échéance de la tâche</td> 
-   <td>Date d'échéance de la tâche</td> 
+   <td>Échéance de tâche</td> 
+   <td>Date d’échéance de la tâche</td> 
   </tr> 
   <tr> 
-   <td>Nombre de Événements (par défaut)</td> 
-   <td>Nombre total de événements d’engagement par personne (Vues, clics et réponses)</td> 
+   <td># Événements (par défaut)</td> 
+   <td>Nombre total d’événements d’engagement par la personne (vues, clics et réponses)</td> 
   </tr> 
   <tr> 
    <td># Activités (par défaut)</td> 
-   <td>Nombre total d'activités prises par l'utilisateur pour cette piste (courriels, appels et tâches)</td> 
+   <td>Nombre total d'activités entreprises par l'utilisateur pour ce prospect (emails, appels et tâches)</td> 
   </tr> 
   <tr> 
    <td>Consentement</td> 
    <td><p>Intérêt légitime, exécution d'un contrat, respect de l'obligation légale, protection des intérêts vitaux, intérêt public/autorité officielle et autres</p></td> 
   </tr> 
   <tr> 
-   <td>Tâches ouvertes</td> 
+   <td>Ouvrir Tâches</td> 
    <td>Nombre de tâches ouvertes pour cette personne</td> 
   </tr> 
   <tr> 
-   <td>Nombre de Vues</td> 
+   <td>Nb de vues</td> 
    <td>Nombre total de vues par cette personne</td> 
   </tr> 
   <tr> 
-   <td>Nombre de clics</td> 
-   <td>Nombre total de clics de cette personne</td> 
+   <td>Nb de clics</td> 
+   <td>Nombre total de clics effectués par cette personne</td> 
   </tr> 
   <tr> 
-   <td>Nombre de réponses</td> 
+   <td>Nb de réponses</td> 
    <td>Nombre total de réponses de cette personne</td> 
   </tr> 
   <tr> 
    <td>Dernière mise à jour</td> 
-   <td>Date de la dernière mise à jour de l'enregistrement de la personne</td> 
+   <td>Date de la dernière mise à jour de l’enregistrement de la personne à</td> 
   </tr> 
   <tr> 
    <td>Créateur</td> 
@@ -119,14 +118,14 @@ Vous avez la possibilité de personnaliser les coordonnées affichées en choisi
   </tr> 
   <tr> 
    <td>Source</td> 
-   <td>Source de la source de création de la personne</td> 
+   <td>Source de l’emplacement de création de la personne</td> 
   </tr> 
   <tr> 
    <td>Groupes (par défaut)</td> 
    <td>Groupes dont la personne fait partie</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Non abonné</td> 
+   <td colspan="1">Désabonné</td> 
    <td colspan="1">Statut de désabonnement des ventes</td> 
   </tr> 
  </tbody> 

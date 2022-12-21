@@ -30,9 +30,9 @@ Augmentez les pipelines et les recettes en augmentant les ventes grâce à l’i
 
 **ToutApp**
 
-* **Carte** de conformité : Assurer la conformité au RGPD en capturant la source des contacts de vente et les détails du consentement du client pour la réception de communications.
-* **Mise à jour de la stratégie de mot de passe** : Protégez vos données grâce à des exigences plus strictes en matière de création, de réinitialisation et d’expiration de mot de passe (répond aux exigences de conformité Soc II - Type 1).
-* **Expérience de configuration de compte rationalisée** : Configurez votre compte et connectez-vous plus rapidement à Gmail, Outlook et d’autres systèmes.
+* **Carte de conformité**: Assurer la conformité au RGPD en capturant la source des contacts de vente et les détails du consentement du client pour la réception de communications.
+* **Mise à jour de la stratégie de mot de passe**: Protégez vos données grâce à des exigences plus strictes en matière de création, de réinitialisation et d’expiration de mot de passe (répond aux exigences de conformité Soc II - Type 1).
+* **Expérience de configuration de compte simplifiée**: Configurez votre compte et connectez-vous plus rapidement à Gmail, Outlook et d’autres systèmes.
 
 ## Bêta ouverte de Marketo Sky {#marketo-sky-open-beta}
 

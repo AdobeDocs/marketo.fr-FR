@@ -1,36 +1,35 @@
 ---
 unique-page-id: 14746491
-description: Vérification de votre adresse électronique - Documents marketing - Documentation du produit
-title: Vérifier votre adresse électronique
-translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+description: Vérification de votre adresse électronique - Documents Marketo - Documentation du produit
+title: Vérifier votre e-mail
+exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
+# Vérifier votre e-mail {#verify-your-email}
 
-# Vérifiez votre adresse électronique {#verify-your-email}
-
-Si votre identité de courriel n&#39;est pas vérifiée, suivez les étapes ci-dessous.
+Si votre identité électronique n’est pas vérifiée, procédez comme suit.
 
 1. Cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
 
    ![](assets/verify-your-email-1.png)
 
-1. Sous Mon compte, cliquez sur **Paramètres de courriel**.
+1. Sous Mon compte, cliquez sur **Paramètres de messagerie électronique**.
 
    ![](assets/verify-your-email-2.png)
 
-1. Sous Adresse et signature, recherchez l’identité de courriel à vérifier, puis cliquez sur **Renvoyer le message de vérification**. Un nouveau courrier électronique de vérification sera envoyé.
+1. Sous Adresse et signature, recherchez l’identité électronique à vérifier et cliquez sur **Envoyer un message de vérification**. Un nouvel email de vérification sera envoyé.
 
    ![](assets/verify-your-email-3.png)
 
-1. Cliquez sur **Renvoyer**.
+1. Cliquez sur **Réinitialiser**.
 
    ![](assets/verify-your-email-4.png)
 
-1. Le destinataire ouvre ensuite le courrier électronique et suit les étapes de vérification de l’identité du courrier électronique.
+1. Le destinataire ouvre alors l&#39;email et suit les étapes de vérification de l&#39;identité de l&#39;email.
 
    ![](assets/verify-your-email-5.png)

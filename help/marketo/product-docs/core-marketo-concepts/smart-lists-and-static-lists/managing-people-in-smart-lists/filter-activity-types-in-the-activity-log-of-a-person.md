@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2952402
-description: Filtrer les types d'Activité dans le journal des Activités d'une personne - Marketo Docs - Documentation du produit
-title: Filtrage des types d'Activité dans le journal des Activités d'une personne
+description: Filtrage des types d’activité dans le journal d’activité d’une personne - Documents Marketo - Documentation du produit
+title: Filtrage des types d’activité dans le journal d’activité d’une personne
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
@@ -11,25 +10,25 @@ ht-degree: 0%
 
 ---
 
-# Filtrer les types d&#39;Activité dans le journal des Activités d&#39;une personne {#filter-activity-types-in-the-activity-log-of-a-person}
+# Filtrage des types d’activité dans le journal d’activité d’une personne {#filter-activity-types-in-the-activity-log-of-a-person}
 
-Recherchez les activités qui vous importent le plus dans le journal des activités.
+Recherchez les activités qui vous intéressent le plus dans le journal des activités.
 
 >[!NOTE]
 >
 >En savoir plus sur [le journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
 
-1. Accédez à la page **Détails sur la personne**. Cliquez sur l&#39;onglet **Journal des Activités**.
+1. Accédez au **Détails de la personne** page. Cliquez sur le bouton **Journal d’activité** .
 
    ![](assets/one.png)
 
-1. Sélectionnez la liste déroulante **Filtre**.
+1. Sélectionnez la **Filtrer** menu déroulant.
 
    ![](assets/two-3.png)
 
-## Création de Filtres personnalisés {#creating-custom-filters}
+## Création de filtres personnalisés {#creating-custom-filters}
 
-1. Cliquez sur la liste déroulante **Filtre**. Sélectionnez **Personnalisé**.
+1. Cliquez sur le bouton **Filtrer** menu déroulant. Sélectionner **Personnalisé**.
 
    ![](assets/three-3.png)
 
@@ -37,19 +36,19 @@ Recherchez les activités qui vous importent le plus dans le journal des activit
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Entrez un **nom de filtre personnalisé**. Cliquez sur **Enregistrer**.
+1. Saisissez un **nom du filtre personnalisé**. Cliquez sur **Enregistrer**.
 
    ![](assets/five-1.png)
 
-   Désormais, seules les activités de personnes qui répondent aux critères du filtre sont affichées.
+   Désormais, seules les activités de personne répondant aux critères du filtre s’affichent.
 
    ![](assets/six-1.png)
 
 ## Filtres enregistrés de référence {#reference-saved-filters}
 
-Les filtres enregistrés sont accessibles à partir de la liste déroulante **Filtre**.
+Les filtres enregistrés sont accessibles à partir du **Filtrer** menu déroulant.
 
-1. Cliquez sur la liste déroulante **Filtres**. Sélectionnez **Personnalisé**.
+1. Cliquez sur le bouton **Filtres** menu déroulant. Sélectionner **Personnalisé**.
 
    ![](assets/seven-1.png)
 

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2359904
-description: Sélectionnez votre langue, langue et fuseau horaire - Marketo Docs - Documentation du produit
+description: Sélectionnez votre langue, langue et fuseau horaire - Documents Marketo - Documentation du produit
 title: Sélectionner votre langue, langue et fuseau horaire
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
@@ -11,9 +10,9 @@ ht-degree: 4%
 
 ---
 
-# Sélectionnez votre langue, langue et fuseau horaire {#select-your-language-locale-and-time-zone}
+# Sélectionner votre langue, langue et fuseau horaire {#select-your-language-locale-and-time-zone}
 
-L&#39;anglais n&#39;est pas ta première langue ? Ne vous inquiétez pas, nous vous avons couvert. Voici comment changer votre propre langue, vos propres paramètres régionaux et votre propre fuseau horaire.
+L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nous t&#39;avons couvert. Voici comment modifier votre langue, vos paramètres régionaux et votre fuseau horaire.
 
 ## Langues prises en charge {#supported-languages}
 
@@ -21,12 +20,12 @@ L&#39;anglais n&#39;est pas ta première langue ? Ne vous inquiétez pas, nous v
 * Français
 * Allemand
 * Japonais
-* portugais
+* Portugais
 * Espagnol
 
-## Modifier la langue de l’utilisateur, les paramètres régionaux et le fuseau horaire {#change-user-language-locale-and-time-zone}
+## Modification de la langue, de la langue et du fuseau horaire de l’utilisateur {#change-user-language-locale-and-time-zone}
 
-1. Connectez-vous à Marketo et sous votre nom sélectionnez **Mon compte**.
+1. Connectez-vous à Marketo et sélectionnez sous votre nom . **Mon compte**.
 
    ![](assets/myaccount.png)
 
@@ -34,7 +33,7 @@ L&#39;anglais n&#39;est pas ta première langue ? Ne vous inquiétez pas, nous v
 
    ![](assets/image2014-9-9-11-3a9-3a47.png)
 
-1. Modifiez votre **langue**.
+1. Modifiez votre **Langue**.
 
    ![](assets/image2014-9-9-11-3a10-3a4.png)
 
@@ -42,11 +41,11 @@ L&#39;anglais n&#39;est pas ta première langue ? Ne vous inquiétez pas, nous v
    >
    >Vous avez également la possibilité de modifier uniquement votre langue en cliquant sur la liste déroulante des langues en haut de la page de connexion.
 
-1. Modifiez votre **paramètre régional**.
+1. Modifiez votre **Paramètres régionaux**.
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-1. Modifiez votre **fuseau horaire**.
+1. Modifiez votre **Fuseau horaire**.
 
    ![](assets/image2014-9-9-11-3a10-3a56.png)
 
@@ -54,6 +53,6 @@ L&#39;anglais n&#39;est pas ta première langue ? Ne vous inquiétez pas, nous v
 
    ![](assets/image2014-9-9-11-3a11-3a18.png)
 
-Beau boulot ! Le navigateur s’actualise et les modifications doivent être répercutées.
+Beau boulot ! Votre navigateur s’actualise et les modifications sont répercutées.
 
 ![](assets/image2014-9-9-11-3a12-3a2.png)

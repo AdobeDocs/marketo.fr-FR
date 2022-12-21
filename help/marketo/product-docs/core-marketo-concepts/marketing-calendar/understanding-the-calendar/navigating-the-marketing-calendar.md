@@ -3,7 +3,6 @@ unique-page-id: 1147257
 description: Navigation dans le calendrier marketing - Documents Marketo - Documentation du produit
 title: Navigation dans le calendrier marketing
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
@@ -17,41 +16,41 @@ La navigation dans le calendrier marketing est facile comme un, deux, trois !
 
 >[!PREREQUISITES]
 >
->Assurez-vous de disposer d’une licence [Calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md). Sinon, la mosaïque Calendrier marketing ne s’affichera pas dans Mon Marketo.
+>Assurez-vous que vous disposez d’une [Licence de calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - dans le cas contraire, la mosaïque Calendrier marketing ne s’affichera pas dans Mon Marketo.
 
 1. Accédez au **Calendrier marketing**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Il s’agit d’une vue de fichiers à vue d’oeil dans votre instance Marketo.
+1. Il s’agit d’une vue d’ensemble des ressources planifiées dans votre instance Marketo.
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
 ## Changement entre les modes {#change-between-modes}
 
-1. Cliquez sur les onglets **3 semaines** ou **Mois** pour passer d’un mode à l’autre.
+1. Cliquez sur le bouton **3 semaines** ou **Mois** onglets pour basculer entre les modes.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## Utiliser la Vue d&#39;ordre du jour {#use-the-agenda-view}
+## Utilisation de la vue Agenda {#use-the-agenda-view}
 
-La vue d&#39;ordre du jour affiche toutes vos entrées en tant que liste.
+La vue Agenda affiche toutes vos entrées sous la forme d’une liste.
 
-1. Cliquez sur la liste déroulante **Filtre**.
+1. Cliquez sur le bouton **Menu déroulant Filtre**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Sélectionnez la vue **Ordre du jour**.
+1. Sélectionnez la **Agenda** vue.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   Super ! C&#39;est une grande vue pour voir tout ce qui est prévu.
+   Super ! C&#39;est un excellent point de vue pour voir tout ce qui est prévu.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## Naviguer dans le temps {#navigate-through-time}
+## Navigation dans le temps {#navigate-through-time}
 
-Sans DeLorean ! Il vous suffit de cliquer sur les boutons de navigation.
+Sans DeLorean ! Cliquez simplement sur les boutons de navigation.
 
 ![](assets/image2014-9-26-10-3a31-3a25.png)
 
@@ -59,9 +58,9 @@ Vous pouvez également utiliser ces raccourcis clavier.
 
 | Action | Raccourci clavier |
 |---|---|
-| Retour au temps | alt/opt + up |
-| Transférer dans le temps | alt/opt + down |
-| Accéder à &quot;aujourd’hui&quot; | alt/opt + t |
+| Retour dans le temps | alt/opt + up |
+| Avancer dans le temps | alt/opt + down |
+| Accédez à &quot;aujourd’hui&quot;. | alt/opt + t |
 
 Super ! Ce sont les bases. Vous pouvez également personnaliser votre vue à l’aide de filtres.
 

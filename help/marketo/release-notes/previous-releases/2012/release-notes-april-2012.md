@@ -51,7 +51,7 @@ Si vous ne synchronisez pas votre abonnement avec Salesforce, vous remarquerez q
 
 ## Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics}
 
-**Étapes de portes améliorées dans le programme de modélisation de cycle de revenu**
+**Étapes de portes améliorées dans le module de modélisation de cycle de revenu**
 
 Permet aux utilisateurs de définir un ordre pour leurs règles de transition.
 

@@ -1,27 +1,26 @@
 ---
 unique-page-id: 15695924
-description: Classement et réglage du profil de compte - Docs marketing - Documentation du produit
+description: Classement et réglage du profil de compte - Documents Marketo - Documentation du produit
 title: Classement et réglage des profils de compte
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Classement et réglage des profils de compte {#account-profiling-ranking-and-tuning}
 
-# Classement et réglage du profil de compte {#account-profiling-ranking-and-tuning}
-
-Le profilage de compte identifie votre Profil client idéal (ICP), classe les sociétés dans votre base de données en fonction du PCI et ajoute des données d&#39;indicateur ICP aux comptes promus en tant que comptes nommés.
+Le profilage de compte identifie votre profil client idéal (ICP), classe les entreprises de votre base de données en fonction de l’ICP et ajoute les données d’indicateur ICP aux comptes promus en tant que comptes nommés.
 
 ## Résultats du modèle {#model-results}
 
-Les résultats vous montrent tous vos comptes connus ventilés par note. A est la note la plus élevée, D la note la plus basse.
+Les résultats vous montrent tous vos comptes connus, ventilés par note. A est la note la plus élevée, D est la note la plus basse.
 
 ![](assets/results.png)
 
-Bien que cette case soit facultative, nous vous recommandons de la cocher Promouvoir automatiquement, car elle vous fera gagner une tonne de temps. Cependant, si vous souhaitez passer en revue chaque compte et [les ajouter manuellement](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), laissez simplement la case décochée.
+Bien que cela soit facultatif, nous vous recommandons de cocher la case Convertir automatiquement , car cela vous fera gagner une tonne de temps. Cependant, si vous souhaitez consulter chaque compte et [les ajouter manuellement](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), laissez simplement la case décochée.
 
 <table> 
  <tbody> 
@@ -29,28 +28,28 @@ Bien que cette case soit facultative, nous vous recommandons de la cocher Promou
    <td><strong>Classement</strong></td> 
    <td> 
     <div>
-      Classement du compte en fonction du Profil client idéal. A est la meilleure, D est la moins bonne. 
+      Classement du compte en fonction du profil client idéal. A est la meilleure, D est la moins bonne. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Propensité</strong></td> 
+   <td><strong>Propension</strong></td> 
    <td> 
     <div>
-      Augmentation estimée du taux de conversion par rapport à une sélection de comptes non fondée sur le PCI. 
+      Augmentation estimée du taux de conversion par rapport à une sélection de comptes non basée sur le PII. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Comptes (%)</strong></td> 
    <td> 
     <div>
-      Pourcentage de comptes dans les entrées de modèle ayant ce classement. 
+      Pourcentage de comptes dans l’entrée de modèle ayant ce rang. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>% de la base du modèle</strong></td> 
    <td> 
     <div>
-      Pourcentage de comptes de la base du modèle ayant ce classement. 
+      Pourcentage de comptes de type modèle ayant ce rang. 
     </div></td> 
   </tr> 
  </tbody> 
@@ -58,15 +57,15 @@ Bien que cette case soit facultative, nous vous recommandons de la cocher Promou
 
 ## Réglage du modèle {#model-tuning}
 
-Dans l&#39;onglet Modèle, cliquez sur le bouton Réglage du modèle.
+Dans l’onglet Modèle , cliquez sur le bouton Régler le modèle .
 
 ![](assets/two.png)
 
-Il existe plusieurs onglets qui permettent une personnalisation approfondie.
+Il existe plusieurs onglets, permettant une personnalisation approfondie.
 
 ![](assets/tuning-page.png)
 
-**Catégories d&#39;indicateur**
+**Catégories d’indicateurs**
 
 <table> 
  <tbody> 
@@ -74,7 +73,7 @@ Il existe plusieurs onglets qui permettent une personnalisation approfondie.
    <td><strong>Conformité</strong></td> 
    <td> 
     <div>
-      Certifications, postes liés à la conformité/embauche. 
+      Certifications, postes ou embauche liés à la conformité. 
     </div></td> 
   </tr> 
   <tr> 
@@ -88,63 +87,63 @@ Il existe plusieurs onglets qui permettent une personnalisation approfondie.
    <td><strong>HR</strong></td> 
    <td> 
     <div>
-      Logiciel des RH ou de la paye, postes liés aux RH/embauche.
+      Logiciel de gestion des ressources humaines ou de la paie, postes/embauche liés aux ressources humaines.
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Ingénierie</strong></td> 
    <td> 
     <div>
-      Technologies, cadres, postes liés à l'ingénierie/embauche. 
+      Des technologies, des cadres, des postes liés à l'ingénierie ou à l'embauche. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Ventes</strong></td> 
+   <td><strong>Service commercial</strong></td> 
    <td> 
     <div>
-      Solutions et logiciels pour les ventes, les postes liés aux ventes/l'embauche. 
+      Solutions et logiciels pour les ventes, les postes liés aux ventes/l’embauche. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Intention</strong></td> 
    <td> 
     <div>
-      Indicateurs d’intention. 
+      Indicateurs d'intention. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>IT</strong></td> 
    <td> 
     <div>
-      Solutions matérielles et logicielles, technologies, postes informatiques/embauche.
+      Matériel et logiciels, technologies, postes/embauche liés à l'informatique.
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Finances</strong></td> 
+   <td><strong>Finance</strong></td> 
    <td> 
     <div>
-      Logiciels financiers, postes financiers/embauche. 
+      Logiciels financiers, postes/embauche liés aux finances. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Marketing</strong></td> 
    <td> 
     <div>
-      Technologies et logiciels de marketing, postes liés au marketing/embauche. 
+      Technologies marketing et logiciels, postes/embauche liés au marketing. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Entreprise</strong></td> 
+   <td><strong>Entreprises</strong></td> 
    <td> 
     <div>
-      Forbes ou Inc annonces ou partenariats d'affaires. 
+      Forbes ou Inc listes ou partenariats commerciaux. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Expérience client et relations</strong></td> 
    <td> 
     <div>
-      Positions/embauches sur la réussite et les relations client.
+      Succès des clients et postes/embauche dans les relations client.
     </div></td> 
   </tr> 
  </tbody> 
@@ -158,22 +157,22 @@ Cliquez sur la liste déroulante Ajouter un indicateur ICP pour insérer des ind
 
 ![](assets/add-icp.png)
 
-Si vous cochez la case Exporter, vous pouvez afficher l&#39;indicateur ICP sur la page Détails du compte nommé et utiliser l&#39;indicateur ICP sélectionné comme contraintes dans les [filtres de compte nommés](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Cochez la case Exporter pour afficher l’indicateur ICP sur la page Détails du compte nommé , ainsi que pour utiliser l’indicateur ICP sélectionné comme contraintes dans [filtres de compte nommés](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Les indicateurs ICP sont inclus en tant que contraintes dans les Filtres et déclencheurs **Membre du compte nommé**.
+>Les indicateurs ICP sont inclus en tant que contraintes dans **Membre du compte nommé** Filtres et Triggers.
 
-La pondération de l&#39;indicateur détermine le niveau d&#39;importance que chaque indicateur reçoit dans votre modèle.
+La pondération de l’indicateur détermine le niveau d’importance que chaque indicateur reçoit dans votre modèle.
 
 ![](assets/weightage.png)
 
-Cliquez sur Actualiser le modèle pour que ces modifications prennent effet.
+Cliquez sur Actualiser le modèle pour que ces modifications soient prises en compte.
 
 ![](assets/refresh-button.png)
 
-Lorsque vous avez terminé de régler votre modèle (après l&#39;avoir actualisé), revenez à l&#39;onglet Résultats du modèle et cliquez sur **Enregistrer et appliquer les classements**.
+Lorsque vous avez terminé d’ajuster votre modèle (après l’avoir actualisé), revenez à l’onglet Résultats du modèle et cliquez sur **Enregistrer et appliquer des classements**.
 
 ![](assets/ranks.png)

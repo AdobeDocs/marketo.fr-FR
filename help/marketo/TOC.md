@@ -200,7 +200,7 @@ ht-degree: 5%
          + [Définition des paramètres de position par défaut pour un abonnement](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Présentation des paramètres de confidentialité](product-docs/administration/settings/understanding-privacy-settings.md)
          + [Utilisation d’un ID universel pour la connexion à l’abonnement](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
-      + Variables {#tags}
+      + Balises {#tags}
          + [Création d’une balise de programme et d’une valeur de balise](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [Création d’un canal de programme](product-docs/administration/tags/create-a-program-channel.md)
          + [Créer des balises personnalisées](product-docs/administration/tags/create-custom-tags.md)

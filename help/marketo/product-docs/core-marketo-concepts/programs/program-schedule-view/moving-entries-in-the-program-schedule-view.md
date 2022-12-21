@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147134
-description: Déplacement des entrées dans la Vue de Planning du programme - Marketo Docs - Documentation du produit
-title: Déplacement des entrées dans la Vue de Planning du programme
+description: Déplacement d’entrées dans la vue Planification du programme - Documents Marketo - Documentation du produit
+title: Déplacement d’entrées dans la vue Planification du programme
 exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
@@ -11,15 +10,15 @@ ht-degree: 0%
 
 ---
 
-# Déplacement des entrées dans la Vue de Planning du programme {#moving-entries-in-the-program-schedule-view}
+# Déplacement d’entrées dans la vue Planification du programme {#moving-entries-in-the-program-schedule-view}
 
 Le déplacement des entrées dans la vue de planification les replanifie automatiquement.
 
 >[!NOTE]
 >
->Il est impossible de déplacer une campagne intelligente, un programme d&#39;engagement ou une explosion du courrier déjà exécutée.
+>Il n’est pas possible de déplacer une campagne dynamique, un programme d’engagement ou une explosion de courrier déjà exécutée.
 
-1. Sélectionnez votre entrée. Faites-la glisser à une autre date.
+1. Sélectionnez votre entrée. Faites-la glisser et déposez-la à une date différente.
 
    ![](assets/image2014-9-18-17-3a47-3a23.png)
 

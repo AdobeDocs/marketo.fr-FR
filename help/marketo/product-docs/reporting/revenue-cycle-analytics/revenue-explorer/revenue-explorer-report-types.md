@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7504922
-description: Types de rapports de l'Explorateur de recettes - Documents marketing - Documentation du produit
-title: Types de rapports de l’Explorateur de recettes
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Types de rapports de l’Explorateur de recettes - Documents Marketo - Documentation du produit
+title: Types de rapports de l’Explorateur des recettes
+exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
+# Types de rapports de l’Explorateur des recettes {#revenue-explorer-report-types}
 
-# Types de rapports de l&#39;Explorateur de recettes {#revenue-explorer-report-types}
-
-Voici les types de rapports que vous rencontrerez si vous utilisez l’analyse du cycle des recettes.
+Vous trouverez ci-dessous les types de rapports que vous rencontrerez si vous utilisez les rapports de cycle du chiffre d’affaires d’Analytics.
 
 <table> 
  <thead> 
@@ -24,40 +23,40 @@ Voici les types de rapports que vous rencontrerez si vous utilisez l’analyse d
  </thead> 
  <tbody> 
   <tr> 
-   <td>Analyse de courriel</td> 
-   <td>Mesures et attributs liés à des courriers électroniques spécifiques envoyés</td> 
+   <td>Analyse de l’e-mail</td> 
+   <td>Mesures et attributs liés à des emails spécifiques envoyés</td> 
   </tr> 
   <tr> 
-   <td>Analyse de piste</td> 
-   <td>Mesures et attributs de piste et de société liés aux pistes</td> 
+   <td>Analyse de lead</td> 
+   <td>Mesures et attributs de piste et d’entreprise liés aux pistes</td> 
   </tr> 
   <tr> 
-   <td>Analyse des performances du modèle (Sociétés)</td> 
-   <td>Mesures et attributs liés à votre modèle de cycle de recettes par société</td> 
+   <td>Analyse des performances des modèles (entreprises)</td> 
+   <td>Mesures et attributs liés à votre modèle de cycle des recettes par entreprise</td> 
   </tr> 
   <tr> 
-   <td>Analyse des performances du modèle (pistes)</td> 
-   <td>Mesures et attributs liés à votre modèle de cycle de recettes par piste</td> 
+   <td>Analyse de performance du modèle (leads)</td> 
+   <td>Mesures et attributs liés à votre modèle de cycle des recettes par prospect</td> 
   </tr> 
   <tr> 
-   <td>Analyse des opportunités</td> 
-   <td><p>Mesures et attributs de piste et de société liés aux opportunités</p></td> 
+   <td>Analyse d'opportunité</td> 
+   <td><p>Mesures et attributs de prospect et d’entreprise liés aux opportunités</p></td> 
   </tr> 
   <tr> 
-   <td>Analyse des coûts programme</td> 
-   <td>Mesures et attributs concernant les programmes ayant au moins une période de coûts</td> 
+   <td>Analyse des coûts du programme</td> 
+   <td>Mesures et attributs concernant les programmes avec au moins une période de coût</td> 
   </tr> 
   <tr> 
-   <td>Analyse d'adhésion programme</td> 
-   <td>Mesures et attributs concernant les programmes comptant au moins un membre</td> 
+   <td>Analyse de l’appartenance à un programme</td> 
+   <td>Mesures et attributs concernant les programmes comportant au moins un membre</td> 
   </tr> 
   <tr> 
-   <td>Analyse d'opportunité programme</td> 
+   <td>Analyse d'opportunité du programme</td> 
    <td>Mesures et attributs d’opportunité liés aux programmes</td> 
   </tr> 
   <tr> 
-   <td>Analyse de la phase Recettes programme</td> 
-   <td>Mesures et attributs basés sur votre modèle de cycle de recettes</td> 
+   <td>Analyse de l’état des recettes du programme</td> 
+   <td>Mesures et attributs en fonction de votre modèle de cycle du chiffre d’affaires</td> 
   </tr> 
  </tbody> 
 </table>

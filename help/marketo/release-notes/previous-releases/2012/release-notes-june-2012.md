@@ -24,7 +24,7 @@ En outre, nous avons amélioré la saisie et l’affichage du texte de descripti
 
 ## Importer l&#39;appariement des champs {#import-field-mapping}
 
-Nous avons facilité l&#39;import d&#39;une liste dans Marketo ! Au cours du processus d&#39;import, vous pouvez associer le nom du champ Marketo au nom de l&#39;en-tête de colonne dans le fichier d&#39;import. En outre, dans Admin, vous pouvez configurer des noms d’alias mappés au nom du champ dans Marketo, en vous assurant que vos utilisateurs sélectionnent le champ approprié à chaque fois.
+Nous avons facilité l&#39;import d&#39;une liste dans Marketo ! Au cours du processus d&#39;import, vous pouvez associer le nom du champ Marketo au nom de l&#39;en-tête de colonne dans le fichier d&#39;import. De plus, dans Admin, vous pouvez configurer des noms d’alias associés au nom du champ dans Marketo, en vous assurant que vos utilisateurs sélectionnent le champ approprié à chaque fois.
 
 Au fur et à mesure que vous continuez à importer et mapper des champs, Marketo mémorisera et affichera les mappages lors de l’importation, afin de faciliter leur utilisation. Et pour simplifier la vie, vous pouvez cliquer sur l’en-tête Exemple de valeur pour afficher les différentes valeurs qui seront renseignées dans le champ. Cela vous permet de vous assurer que vous mappez le champ approprié à chaque fois.
 
@@ -64,7 +64,7 @@ Lors de la planification d’une campagne, vous pouvez cliquer sur le lien pour 
 
 ## Étape d’attente - Jeton de piste et mon jeton {#wait-step-lead-token-and-my-token}
 
-Dans notre version de mai, nous avons ajouté des options avancées à l’étape du flux d’attente. Grâce à ces modifications, vous pouvez définir un jour ouvré, une date et une heure. Dans cette version, nous avons ajouté la possibilité d’utiliser un jeton à l’étape d’attente. Par exemple, vous pouvez utiliser `{{lead.Birthday}}` pour envoyer un email le jour de l’anniversaire ou `{{my.Event Date}}` pour envoyer un rappel de webinaire final.
+Dans notre version de mai, nous avons ajouté des options avancées à l’étape du flux d’attente. Grâce à ces modifications, vous pouvez définir un jour ouvré, une date et une heure. Dans cette version, nous avons ajouté la possibilité d’utiliser un jeton à l’étape d’attente. Par exemple, vous pouvez utiliser `{{lead.Birthday}}` pour envoyer un courrier électronique le jour de leur anniversaire, ou utilisez `{{my.Event Date}}` pour envoyer un dernier rappel de webinaire.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

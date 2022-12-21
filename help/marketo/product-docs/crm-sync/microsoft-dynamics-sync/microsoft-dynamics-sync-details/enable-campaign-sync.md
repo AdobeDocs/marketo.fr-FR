@@ -1,8 +1,7 @@
 ---
-description: Activer la synchronisation Campaign - Docs Marketo - Documentation du produit
+description: Activation de la synchronisation Campaign - Documents Marketo - Documentation du produit
 title: Activer la synchronisation de la campagne
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
@@ -12,7 +11,7 @@ ht-degree: 5%
 
 # Activer la synchronisation de la campagne {#enable-campaign-sync}
 
-Cette option permet à Marketo d&#39;ajouter et de supprimer des membres de MS Dynamics Campaign.
+Cette option permet à Marketo d’ajouter et de supprimer des membres de MS Dynamics Campaign.
 
 >[!PREREQUISITES]
 >
@@ -22,7 +21,7 @@ Cette option permet à Marketo d&#39;ajouter et de supprimer des membres de MS D
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans votre Marketo My, cliquez sur **Admin**.
+1. Dans votre Marketo, cliquez sur **Administration**.
 
    ![](assets/enable-campaign-sync-1.png)
 
@@ -34,12 +33,12 @@ Cette option permet à Marketo d&#39;ajouter et de supprimer des membres de MS D
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Cochez la case **Activer la synchronisation Microsoft Dynamics Campaign** et cliquez sur **Enregistrer**.
+1. Sélectionnez la **Activation de la synchronisation de Microsoft Dynamics Campaign** , puis cliquez sur **Enregistrer**.
 
    ![](assets/enable-campaign-sync-4.png)
 
-Voilà. Il vous suffit de donner un peu de temps à la synchronisation pour extraire les données de Microsoft Dynamics et vous pouvez partir.
+Voilà. Donnez simplement un peu de temps à la synchronisation pour extraire les données de Microsoft Dynamics et vous pouvez y aller.
 
 >[!NOTE]
 >
->La réinitialisation de la case Sync Dynamics Campaign actualise toutes les données Campaign synchronisées précédemment et les associations avec les Listes marketing dans Dynamics.
+>La réinitialisation de la case à cocher Synchronisation Dynamics Campaign actualise toutes les données Campaign synchronisées précédemment et les associations avec les listes marketing dans Dynamics.

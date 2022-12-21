@@ -1,35 +1,34 @@
 ---
 unique-page-id: 12981204
-description: Présentation des analyses de contenu prédictif - Documentation marketing - Documentation du produit
-title: Présentation des analyses de contenu prédictif
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Présentation de Predictive Content Analytics - Documents Marketo - Documentation du produit
+title: Présentation de Predictive Content Analytics
+exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
+# Présentation de Predictive Content Analytics {#predictive-content-analytics-overview}
 
-# Présentation des analyses de contenu prédictif {#predictive-content-analytics-overview}
-
-Utilisez l’analyse de contenu pour mieux comprendre votre contenu existant, découvrir (en fonction des algorithmes d’IA et de prédiction) quel contenu fonctionne pour vos audiences et augmenter le retour sur investissement de vos efforts marketing.
+Utilisez l’analyse de contenu pour obtenir des informations supplémentaires sur votre contenu existant, découvrir (en fonction de l’IA et des algorithmes prédictifs) quel contenu convient à vos audiences et augmenter le retour sur investissement de vos efforts marketing.
 
 >[!NOTE]
 >
->L’onglet Analyses et les fonctionnalités d’analyse de contenu sont disponibles exclusivement avec le contenu prédictif Marketing.
+>L’onglet Analytics et les fonctionnalités d’analyse de contenu sont disponibles exclusivement avec le contenu prédictif Marketo.
 
-## Aperçu {#overview}
+## APERÇU {#overview}
 
-Sur la page Résumé, cliquez sur **Analyses**.
+Sur la page Résumé, cliquez sur **Analytics**.
 
 ![](assets/one.png)
 
-Analytics comprend plusieurs sections : Contenu principal par Vue, Contenu principal par Taux de conversion, Contenu tendance, Contenu suggéré et Contenu proposé.
+Analytics comprend plusieurs sections : Contenu supérieur par vues, Contenu supérieur par taux de conversion, Contenu de tendance, Contenu suggéré et Contenu.
 
 ![](assets/new-2.png)
 
-Passez la souris sur le point d’interrogation d’un en-tête de section pour obtenir des détails supplémentaires.
+Pointez sur le point d’interrogation d’un en-tête de section pour plus de détails.
 
 ![](assets/new-3.png)
 
@@ -37,23 +36,23 @@ Cliquez sur le bouton Exporter pour exporter les résultats de cette section via
 
 ![](assets/new-3point5.png)
 
-Vous pouvez filtrer les résultats selon divers attributs/propriétés (par exemple, Liste de compte ABM, Pays, etc.).
+Vous pouvez filtrer les résultats selon différents attributs/propriétés (par exemple, liste de comptes ABM, pays, etc.).
 
 ![](assets/pca.png)
 
-Cliquez sur l’icône de calendrier pour modifier les dates des données reflétées. Choisissez une durée prédéfinie ou une plage de dates spécifique.
+Cliquez sur l’icône de calendrier pour modifier les dates des données reflétées. Choisissez une durée prédéfinie ou une période spécifique.
 
 ![](assets/dates.png)
 
-## Contenu principal par Vue {#top-content-by-views}
+## Meilleur contenu par nombre de vues {#top-content-by-views}
 
-Affiche les principales parties de contenu par nombre de vues pour la période sélectionnée.
+Affiche les principaux éléments de contenu par nombre de vues au cours de la période sélectionnée.
 
 ![](assets/new-6.png)
 
-## Contenu principal par Taux de conversion {#top-content-by-conversion-rate}
+## Meilleur contenu par taux de conversion {#top-content-by-conversion-rate}
 
-Affiche le contenu présentant le plus fort taux de conversion par taux de conversion pour la période sélectionnée.
+Affiche le contenu à conversion supérieure par taux de conversion pour la période sélectionnée.
 
 ![](assets/new-7.png)
 
@@ -61,36 +60,36 @@ Affiche le contenu présentant le plus fort taux de conversion par taux de conve
 >
 >**Définition**
 >
->**taux de conversion** : Pourcentage calculé par conversions directes divisé par les clics.
+>**Taux de conversion**: Pourcentage calculé par conversions directes divisé par le nombre de clics.
 
-## Contenu de tendance {#trending-content}
+## Contenu tendance {#trending-content}
 
-Affiche l&#39;augmentation de popularité d&#39;une partie du contenu en observant la dernière augmentation de vues de deux semaines par rapport à la même période précédente.
+Affiche l’augmentation de popularité d’une partie de contenu en observant l’augmentation des vues des deux dernières semaines par rapport à la même période précédente.
 
 ![](assets/new-8.png)
 
 ## Contenu suggéré {#suggested-content}
 
-Affiche le contenu que nous vous suggérons de promouvoir dans vos Activités marketing en fonction du filtre que vous avez défini.
+Affiche le contenu que nous vous suggérons de promouvoir dans vos activités marketing en fonction du filtre que vous avez défini.
 
 ![](assets/image2017-10-3-10-3a18-3a35.png)
 
-Passez la souris sur une image dans Contenu proposé pour afficher les options disponibles.
+Passez la souris sur une image dans Contenu suggéré pour afficher les options disponibles.
 
 ![](assets/image2017-10-3-10-3a21-3a37.png)
 
 >[!NOTE]
 >
->Vous voyez ces icônes en bas ? De gauche à droite, ils sont : Contenu de la vue, Exporter au format CSV, Approuver le contenu.
+>Vous voyez ces icônes en bas ? De gauche à droite, ils sont : Afficher le contenu, Exporter au format CSV, Approuver le contenu.
 
 ## Contenu {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 
-Recherchez l’élément de contenu souhaité et cliquez dessus pour afficher d’autres détails, notamment : les visiteurs qui l&#39;ont regardé, les nouveaux contre les nouveaux venus, connus et anonymes, les principaux endroits d&#39;où les visiteurs venaient en regardant le contenu, et les principales industries dont ils sont issus.
+Recherchez l’élément de contenu souhaité et cliquez dessus pour afficher des détails supplémentaires, notamment : les visiteurs qui le visualisent, les nouveaux visiteurs par rapport aux visiteurs récurrents, connus et anonymes, les principaux emplacements d’où proviennent les visiteurs lors de l’affichage du contenu et les principaux secteurs d’activité déduits qu’ils proviennent.
 
 ![](assets/image2017-10-3-10-3a23-3a40.png)
 
 >[!NOTE]
 >
->Le contenu similaire est basé sur l’élément de contenu sélectionné et est calculé par un algorithme de règles d’association. Les résultats représentent des éléments de contenu sur lesquels les visiteurs cliqueront le plus probablement, en fonction de l’élément sélectionné et du comportement passé du visiteur. Il ne prend pas en compte le filtre ou la plage de dates.
+>Le contenu similaire est basé sur le contenu sélectionné et est calculé par un algorithme d’association de règles. Les résultats représentent des éléments de contenu sur lesquels les visiteurs cliqueront le plus probablement, en fonction de l’élément sélectionné et du comportement des visiteurs précédents. Il ne prend pas en compte le filtre ou la plage de dates.

@@ -1,83 +1,82 @@
 ---
 unique-page-id: 2359710
-description: Approbation, désapprobation ou suppression d’un Landing page - Documents marketing - Documentation du produit
-title: Approbation, désapprobation ou suppression d’un Landing page
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Approbation, désapprobation ou suppression d’une page d’entrée - Documents Marketo - Documentation du produit
+title: Approbation, désapprobation ou suppression d’une page d’entrée
+exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Approbation, désapprobation ou suppression d’une page d’entrée {#approve-unapprove-or-delete-a-landing-page}
 
-# Approuver, désapprouver ou supprimer un Landing page {#approve-unapprove-or-delete-a-landing-page}
+Les landing pages sont en mode préliminaire jusqu’à ce que vous les approuviez. L’approbation rend les pages disponibles dans le reste du système. Lorsque vous modifiez une landing page approuvée, Marketo enregistre le brouillon, mais continue d’utiliser la version approuvée jusqu’à ce que vous approuviez le brouillon.
 
-Les landings page sont en mode brouillon jusqu’à ce que vous les approuviez. L’approbation rend les pages disponibles dans le reste du système. Lorsque vous modifiez un landing page approuvé, Marketo enregistre le brouillon, mais continue à utiliser la version approuvée jusqu’à ce que vous approuviez le brouillon.
+## Approuver une page d’entrée {#approve-a-landing-page}
 
-## Approuver un Landing page {#approve-a-landing-page}
-
-1. Sélectionnez un landing page, accédez à **Actions du Landing page** et cliquez sur **Approuver**.
+1. Sélectionnez une landing page, accédez à **Actions de page d’entrée** et cliquez sur **Approuver**.
 
    >[!TIP]
    >
-   >Vous pouvez [approuver plusieurs pages à la fois](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) pour faciliter votre vie.
+   >Vous pouvez [approuver plusieurs pages à la fois](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) pour rendre ta vie plus facile.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. Vous pouvez également cliquer avec le bouton droit de la souris sur votre landing page et cliquer sur **Approuver**.
+1. Vous pouvez également cliquer avec le bouton droit sur votre landing page et cliquer sur **Approuver**.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
    >[!NOTE]
    >
-   >Une fois approuvée, l’icône de votre landing page comporte une coche verte.
+   >Une fois approuvé, l’icône de page d’entrée comporte une coche verte.
 
-## Désapprouver un Landing page {#unapprove-a-landing-page}
+## Annulation de l’approbation d’une page d’entrée {#unapprove-a-landing-page}
 
-1. Sélectionnez un landing page, accédez à **Actions du Landing page** et cliquez sur **Désapprouver**.
+1. Sélectionnez une landing page, accédez à **Actions de page d’entrée** et cliquez sur **Ne pas approuver**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. Vous pouvez également cliquer avec le bouton droit de la souris sur votre landing page et cliquer sur **Désapprouver**.
+1. Vous pouvez également cliquer avec le bouton droit sur votre landing page et cliquer sur **Ne pas approuver**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
 >[!NOTE]
 >
->Votre landing page non approuvé n’est plus publié sur le Web et ne générera aucune activité supplémentaire. Les visiteurs aux landings page non approuvés et à leurs onglets Facebook verront la [page de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>Votre landing page non approuvée n’est plus publiée sur le web et ne génère aucune activité supplémentaire. Les visiteurs des landing pages non approuvées et de leurs onglets Facebook verront le [Page de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
-## Supprimer un Landing page {#delete-a-landing-page}
+## Suppression d’une page d’entrée {#delete-a-landing-page}
 
-1. Sélectionnez un landing page, accédez à **Actions du Landing page** et cliquez sur **Supprimer**.
+1. Sélectionnez une landing page, accédez à **Actions de page d’entrée** et cliquez sur **Supprimer**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
    >[!NOTE]
    >
-   >Vous ne pouvez pas supprimer un landing page approuvé. Désapprouvez-le d&#39;abord.
+   >Vous ne pouvez pas supprimer une page de destination approuvée. Vous devez d&#39;abord la désapprouver.
 
-1. Vous pouvez également cliquer avec le bouton droit de la souris sur votre landing page et cliquer sur **Supprimer**.
+1. Vous pouvez également cliquer avec le bouton droit sur votre landing page et cliquer sur **Supprimer**.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
-## Supprimer plusieurs Landings page {#delete-multiple-landing-pages}
+## Suppression de plusieurs landing pages {#delete-multiple-landing-pages}
 
-Souhaitez-vous supprimer plusieurs landings page à la fois ? Voici comment.
+Vous souhaitez supprimer plusieurs landing pages à la fois ? Voici comment.
 
-1. Dans Design Studio, cliquez sur **Landings page**.
+1. Dans Design Studio, cliquez sur **Pages d’entrée**.
 
    ![](assets/one.png)
 
-1. Cliquez sur le premier landing page à supprimer, puis cliquez sur le dernier tout en maintenant la touche Maj enfoncée.
+1. Cliquez sur la première landing page que vous souhaitez supprimer, puis appuyez sur la touche Maj et cliquez sur la dernière.
 
    ![](assets/two.png)
 
    >[!TIP]
    >
-   >Vous pouvez également utiliser la touche Ctrl+clic pour supprimer plusieurs landings page qui ne sont pas séquentiels.
+   >Vous pouvez également utiliser la touche ctrl+clic pour supprimer plusieurs landing pages qui ne sont pas séquentielles.
 
-1. Cliquez sur la liste déroulante **Actions de Landing page** et sélectionnez **Supprimer**.
+1. Cliquez sur le bouton **Actions de page d’entrée** et sélectionnez **Supprimer**.
 
    ![](assets/three.png)
 
@@ -85,4 +84,4 @@ Souhaitez-vous supprimer plusieurs landings page à la fois ? Voici comment.
 
    ![](assets/four.png)
 
-Super ! Vous savez maintenant comment approuver, désapprouver et supprimer des landings page.
+Super ! Vous savez maintenant comment approuver, annuler l’approbation et supprimer des landing pages.

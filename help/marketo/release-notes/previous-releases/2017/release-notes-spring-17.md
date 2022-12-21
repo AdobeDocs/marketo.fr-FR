@@ -14,13 +14,13 @@ ht-degree: 4%
 
 Les fonctionnalités suivantes sont incluses dans la version du printemps 17. Vérifiez la disponibilité de votre édition Marketo.
 
-Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité. **Remarque** : Si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
+Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité. **Remarque**: Si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
 
 ## [Forms linkedIn Lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[Les ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) formulaires de génération de pistes linkedIn sont un moyen plus direct pour une entreprise d’exécuter des campagnes de génération de pistes sur LinkedIn. Les utilisateurs peuvent remplir des formulaires pour exprimer leur intérêt pour un produit ou un service, ce qui permet à l’entreprise de capturer les détails de la personne et de les synchroniser avec Marketo, où des processus de suivi automatisés et des activités d’acheminement de piste peuvent se produire.
+[Forms linkedIn Lead Gen](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sont un moyen plus direct pour une entreprise d’exécuter des campagnes de génération de pistes sur LinkedIn. Les utilisateurs peuvent remplir des formulaires pour exprimer leur intérêt pour un produit ou un service, ce qui permet à l’entreprise de capturer les détails de la personne et de les synchroniser avec Marketo, où des processus de suivi automatisés et des activités d’acheminement de piste peuvent se produire.
 
-L’intégration de Marketo avec LinkedIn Lead Gen Forms capture automatiquement les informations fournies par un prospect dans le formulaire Lead Gen. Les actions de suivi et les notifications peuvent ensuite être automatisées à l’aide du nouveau déclencheur et filtre &quot;Remplit le formulaire de piste LinkedIn&quot;**.**
+L’intégration de Marketo avec LinkedIn Lead Gen Forms capture automatiquement les informations fournies par un prospect dans le formulaire Lead Gen. Les actions de suivi et les notifications peuvent alors être automatisées à l’aide de la nouvelle **Remplit le formulaire de génération de piste LinkedIn** déclencher et filtrer.
 
 ![](assets/release-notes-image.png)
 

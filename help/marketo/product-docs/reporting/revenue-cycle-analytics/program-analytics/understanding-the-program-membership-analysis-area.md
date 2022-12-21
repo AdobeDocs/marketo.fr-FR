@@ -1,27 +1,26 @@
 ---
 unique-page-id: 4718640
-description: Présentation de la zone d'Analyse d'adhésion au Programme - Documentation sur le marketing - Documentation sur le produit
-title: Présentation de la zone d'Analyse d'adhésion des Programmes
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Présentation de la zone d’analyse de l’adhésion au programme - Documents Marketo - Documentation du produit
+title: Présentation de la zone d’analyse de l’appartenance au programme
+exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
+# Présentation de la zone d’analyse de l’appartenance au programme {#understanding-the-program-membership-analysis-area}
 
-# Présentation de la zone d&#39;Analyse des membres du Programme {#understanding-the-program-membership-analysis-area}
-
-La zone d&#39;Analyse d&#39;adhésion au Programme vous permet d&#39;analyser l&#39;efficacité de chaque programme ou de voir les résultats résumés par canal pendant une période donnée.
+La zone Analyse de l’appartenance à un programme vous permet d’analyser l’efficacité de programmes individuels ou de voir les résultats résumés par canal pendant une période donnée.
 
 ## Exemples de questions commerciales {#example-business-questions}
 
-Combien de personnes ont participé à un programme par canal au cours d&#39;un mois donné ?
+Combien de personnes ont participé à un programme par canal au cours d’un mois donné ?
 
 ![](assets/one-2.png)
 
-Combien de personnes ont atteint les critères de réussite pour un programme donné ?
+Combien de personnes ont atteint les critères de réussite d’un programme donné ?
 
 ![](assets/two-2.png)
 
@@ -29,17 +28,17 @@ Combien de nouveaux noms chaque programme/canal a-t-il générés par mois ?
 
 ![](assets/three-2.png)
 
-## Dimensions et mesures concernant l&#39;Analyse des membres du programme {#program-membership-analysis-dimensions-and-measures}
+## Dimensions et mesures d’analyse de l’appartenance à un programme {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
 >Les points jaunes sont des dimensions et les points bleus sont des mesures.
 
-### Membres {#membership}
+### Adhésion {#membership}
 
-| Mesure | Description |
+| Mesurer | Description |
 |---|---|
-| % de nouveaux noms | Pourcentage de pistes acquises dans un programme |
+| % nouveaux noms | Pourcentage de pistes acquises dans un programme |
 | Membres | Nombre total de pistes dans un programme |
 | Nouveaux noms | Nombre total de nouveaux noms acquis par un programme |
 
@@ -47,24 +46,24 @@ Combien de nouveaux noms chaque programme/canal a-t-il générés par mois ?
 
 | Dimension | Description |
 |---|---|
-| Canal programme | Canal programme |
+| Canal de programme | Canal de programme |
 | Nom du programme | Nom du programme |
 
-### Période d&#39;adhésion au programme {#program-membership-timeframe}
+### Période d’adhésion au programme {#program-membership-timeframe}
 
 | Dimension | Description |
 |---|---|
-| Année | Période d&#39;adhésion au programme |
-| Trimestre | Période d&#39;adhésion au programme |
-| Mois | Période d&#39;adhésion au programme |
-| Semaine | Période d&#39;adhésion au programme |
-| Date | Période d&#39;adhésion au programme |
+| Année | Période d’adhésion au programme |
+| Trimestre | Période d’adhésion au programme |
+| Mois | Période d’adhésion au programme |
+| Semaine | Période d’adhésion au programme |
+| Date | Période d’adhésion au programme |
 
-### Réussite {#success}
+### Succès {#success}
 
-| Mesure | Description |
+| Mesurer | Description |
 |---|---|
-| % de réussite (nouveaux noms) | Pourcentage de pistes qui ont été acquises par le programme ET qui ont réussi à progresser dans le programme |
-| % de réussite (Total) | Pourcentage de pistes qui ont réussi à progresser d&#39;un programme |
-| Succès (nouveaux noms) | Nombre total de nouveaux noms qui ont réussi à progresser d&#39;un programme |
-| Succès (total) | Nombre total de pistes qui ont réussi à progresser d&#39;un programme |
+| % succès (nouveaux noms) | Pourcentage de pistes acquises par le programme ET ayant atteint le succès dans la progression du programme |
+| % succès (total) | Pourcentage de pistes ayant réussi la progression d&#39;un programme |
+| Succès (nouveaux noms) | Nombre total de nouveaux noms ayant réussi la progression d’un programme |
+| Succès (total) | Nombre total de pistes ayant réussi la progression d’un programme |

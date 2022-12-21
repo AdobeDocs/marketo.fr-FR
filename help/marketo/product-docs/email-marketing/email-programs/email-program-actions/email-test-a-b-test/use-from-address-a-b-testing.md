@@ -1,58 +1,57 @@
 ---
 unique-page-id: 2359504
-description: Utiliser les tests A/B "From Address" - Documents marketing - Documentation du produit
-title: Utiliser le test A/B "From Address"
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Utiliser le test A/B "From Address" - Documents Marketo - Documentation du produit
+title: Utiliser le test A/B "A partir de l’adresse"
+exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
+# Utiliser le test A/B &quot;A partir de l’adresse&quot; {#use-from-address-a-b-testing}
 
-# Utiliser le test A/B &quot;From Address&quot; {#use-from-address-a-b-testing}
-
-Vous pouvez facilement tester vos e-mails A/B. Un test intéressant est le test **From Address**. Voici comment le configurer.
+Vous pouvez facilement A/B tester vos emails. Un test intéressant est le suivant : **Adresse de l’expéditeur** test. Voici comment le mettre en place.
 
 >[!PREREQUISITES]
 >
->[Ajouter un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[Ajout d’un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. Sous la mosaïque **E-mail**, avec votre adresse électronique sélectionnée, cliquez sur **Ajouter le test A/B**.
+1. Sous , **Email** avec votre email sélectionné, cliquez sur **Ajout d’un test A/B**.
 
    ![](assets/image2014-9-12-15-3a32-3a8.png)
 
-1. Une nouvelle fenêtre s’ouvre, sélectionnez **Adresse** pour **Type de test**.
+1. Une nouvelle fenêtre s’ouvre, sélectionnez **Adresse de l’expéditeur** pour **Type de test**.
 
    ![](assets/image2014-9-12-15-3a32-3a22.png)
 
-1. Si vous disposez d’informations de test précédentes (comme un test de sujet), vous pouvez cliquer en toute sécurité sur **Réinitialiser le test**.
+1. Si vous disposez d’informations de test précédentes (comme un test d’objet), vous pouvez cliquer en toute sécurité sur **Réinitialiser le test**.
 
    ![](assets/image2014-9-12-15-3a32-3a28.png)
 
-1. Entrez la deuxième information **From Address** à tester.
+1. Saisissez la seconde **Adresse de l’expéditeur** informations que vous souhaitez tester.
 
    >[!NOTE]
    >
-   >Le choix A prérempli les informations contenues dans le courriel sélectionné.
+   >Choix A : prérenseignera les informations contenues dans l’email sélectionné.
 
    ![](assets/image2014-9-12-15-3a32-3a34.png)
 
    >[!TIP]
    >
-   >Vous pouvez cliquer sur **+** pour ajouter autant d&#39;adresses de départ que vous le souhaitez.
+   >Vous pouvez cliquer sur le bouton **+** pour ajouter autant d’adresses de départ que vous le souhaitez.
 
-1. Utilisez le curseur pour choisir le pourcentage d’audience que vous souhaitez dans votre test A/B et cliquez sur **Suivant**.
+1. Utilisez le curseur pour choisir le pourcentage d’audience souhaité dans votre test A/B, puis cliquez sur **Suivant**.
 
    ![](assets/image2014-9-12-15-3a33-3a41.png)
 
    >[!NOTE]
    >
-   >Les différentes variations seront envoyées à des portions égales de la taille d&#39;échantillon de test choisie.
+   >Les différentes variations seront envoyées en parts égales de la taille de l’échantillon de test sélectionné.
 
    >[!CAUTION]
    >
-   >**Nous vous recommandons d’éviter de définir la taille de l’échantillon à 100%**. Si vous utilisez une liste statique, la définition de la taille de l’échantillon à 100 % envoie le courriel à tous les membres de l’audience et le gagnant n’est envoyé à personne. Si vous utilisez une liste **smart**, la définition de la taille de l’échantillon à 100 % envoie le courrier électronique à tous les utilisateurs de l’audience _à ce moment_. Lorsque le programme de messagerie s’exécute à nouveau à une date ultérieure, toute nouvelle personne remplissant les conditions requises pour bénéficier de la liste intelligente recevra également le courrier électronique puisqu’elle est désormais incluse dans l’audience.
+   >**Nous vous recommandons d’éviter de définir la taille de l’échantillon sur 100 %.**. Si vous utilisez une liste statique, la définition de la taille de l’échantillon à 100 % envoie l’email à tous les membres de l’audience et le gagnant n’envoie personne. Si vous utilisez une **smart** liste, la définition de la taille d’échantillon à 100 % envoie l’email à tous les membres de l’audience _à ce moment-là_. Lorsque le programme de messagerie s’exécute à nouveau à une date ultérieure, toutes les nouvelles personnes qui remplissent les critères pour la liste dynamique recevront également l’email puisqu’elles sont désormais incluses dans l’audience.
 
-   OK, nous sommes presque là. Nous devons maintenant [définir les critères de gagnant du test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).
+   OK, nous y sommes presque. Maintenant nous devons [définir les critères de réussite du test A/B ;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).

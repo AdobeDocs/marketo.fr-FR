@@ -1,25 +1,24 @@
 ---
 unique-page-id: 14352406
-description: Création d’une sous-équipe - Documents marketing - Documentation du produit
-title: Créer une sous-équipe
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Création d’une sous-équipe - Documents Marketo - Documentation du produit
+title: Création d’une sous-équipe
+exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
+# Création d’une sous-équipe {#create-a-sub-team}
 
-# Créer une sous-équipe {#create-a-sub-team}
-
-## Créer une sous-équipe {#create-a-sub-team-1}
+## Création d’une sous-équipe {#create-a-sub-team-1}
 
 1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/one-1.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Gestion d’équipe**.
+1. Sous Paramètres d’administration, sélectionnez **Gestion des équipes**.
 
    ![](assets/two-1.png)
 
@@ -27,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Saisissez un nom d’équipe (et une description facultative) et cliquez sur **Créer**.
+1. Saisissez un nom d’équipe (et une description facultative), puis cliquez sur **Créer**.
 
    ![](assets/four-1.png)
 
@@ -35,9 +34,9 @@ ht-degree: 0%
    >
    >Vous pouvez maintenant partager des modèles, des campagnes et des groupes avec cette équipe.
 
-## Ajouter des personnes à votre sous-équipe {#add-people-to-your-sub-team}
+## Ajout de personnes à votre sous-équipe {#add-people-to-your-sub-team}
 
-1. Toujours dans Gestion d&#39;équipe, sélectionnez le groupe **Tout le monde**.
+1. Toujours en gestion d’équipe, sélectionnez l’option **Tout le monde** groupe.
 
    ![](assets/five-1.png)
 
@@ -49,10 +48,10 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. Cliquez sur la liste déroulante et sélectionnez votre ou vos équipes.
+1. Cliquez sur la liste déroulante et sélectionnez la ou les équipes souhaitées.
 
    ![](assets/eight.png)
 
-1. Cliquez sur **Ajouter aux équipes** lorsque vous avez terminé.
+1. Cliquez sur **Ajouter aux équipes** une fois terminé.
 
    ![](assets/nine.png)

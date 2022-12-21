@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359573
-description: Définir une page de remerciement de formulaire - Documents marketing - Documentation du produit
-title: Définir une page de remerciement pour un formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Définition d’une page de remerciement de formulaire - Documents Marketo - Documentation du produit
+title: Définition d’une page de remerciement de formulaire
+exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '360'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Définition d’une page de remerciement de formulaire {#set-a-form-thank-you-page}
 
-# Définir une page de remerciement de formulaire {#set-a-form-thank-you-page}
+Que se passe-t-il quand quelqu’un remplit un formulaire ? Où sont-ils transférés ? Voici comment le configurer.
 
-Que se passe-t-il lorsque quelqu’un remplit un formulaire ? Où sont-ils transférés ? Voici comment le configurer.
-
-## Modifier le formulaire {#edit-form}
+## Modifier formulaire {#edit-form}
 
 1. Accédez à **Activités marketing**.
 
@@ -25,25 +24,25 @@ Que se passe-t-il lorsque quelqu’un remplit un formulaire ? Où sont-ils trans
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Sous **Paramètres du formulaire**, cliquez sur **Paramètres**.
+1. Sous **Paramètres de formulaire** click **Paramètres**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Faites défiler l&#39;écran jusqu&#39;à la section **Page de remerciement**.
+1. Faites défiler l’écran vers le bas jusqu’à **Page de remerciement** .
 
 ## Rester sur la page {#stay-on-page}
 
-L’option Rester sur la page permet de conserver le visiteur sur la même page lorsque le formulaire a été envoyé.
+L’option Rester sur la page permet de conserver le visiteur sur la même page une fois le formulaire envoyé.
 
-1. Sélectionnez **Rester sur la page** pour **Effectuer un suivi avec**.
+1. Sélectionner **Rester sur la page** pour **Effectuez Le Suivi Avec**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
 ## URL externe {#external-url}
 
-Le paramètre URL externe vous permet de définir toute URL comme page de suivi. Une fois que l’utilisateur a envoyé le formulaire, il est redirigé vers l’URL spécifiée.
+Le paramètre URL externe vous permet de définir n’importe quelle URL comme page de suivi. Une fois le formulaire envoyé, l’utilisateur est redirigé vers l’URL spécifiée.
 
-1. Sélectionnez **URL externe** pour **Effectuer un suivi avec**.
+1. Sélectionner **URL externe** pour **Effectuez Le Suivi Avec**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -53,25 +52,25 @@ Le paramètre URL externe vous permet de définir toute URL comme page de suivi.
 
 >[!TIP]
 >
->L’URL peut être celle d’un fichier hébergé quelque part. Si vous le faites, le bouton &quot;Envoyer&quot; se comportera comme un bouton &quot;Télécharger&quot;.
+>L’URL peut être celle d’un fichier hébergé quelque part. Dans ce cas, le bouton &quot;Envoyer&quot; se comporte comme un bouton &quot;Télécharger&quot;.
 
-## landing page {#landing-page}
+## Page de destination {#landing-page}
 
-Vous pouvez sélectionner n’importe quel landing page Marketo approuvé comme suivi.
+Vous pouvez sélectionner n’importe quelle page d’entrée Marketo approuvée comme suivi.
 
-1. Définissez **Suivi avec** sur **Landing page**.
+1. Définir **Effectuez Le Suivi Avec** to **Page d’entrée**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
-1. Recherchez et sélectionnez le landing page de votre choix.
+1. Recherchez et sélectionnez la landing page de votre choix.
 
    ![](assets/image2014-9-15-17-3a37-3a59.png)
 
 ## Pages de remerciement dynamiques {#dynamic-thank-you-pages}
 
-Vous pouvez ajouter plusieurs options et intégrer des choix afin d’afficher différents suivis de personnes en fonction de leurs réponses.
+Vous pouvez ajouter plusieurs options et intégrer des choix pour afficher aux personnes différents suivis en fonction de leurs réponses.
 
-1. Cliquez sur **Ajouter le choix**.
+1. Cliquez sur **Ajouter un choix**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -87,37 +86,37 @@ Vous pouvez ajouter plusieurs options et intégrer des choix afin d’afficher d
 
    ![](assets/image2014-9-15-17-3a38-3a31.png)
 
-1. Entrez l&#39;une des valeurs auxquelles l&#39;utilisateur répondra.
+1. Saisissez l’une des valeurs auxquelles l’utilisateur répondra.
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Sélectionnez la page appropriée pour le type **Suivi avec**.
+1. Sélectionnez la page appropriée pour **Effectuez Le Suivi Avec** type.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
-1. Sélectionnez le landing page approprié.
+1. Sélectionnez la landing page appropriée.
 
    ![](assets/image2014-9-15-17-3a39-3a3.png)
 
    >[!NOTE]
    >
-   >Vous devez avoir créé/approuvé ces landings page à l’avance.
+   >Vous devez avoir préalablement créé/approuvé ces landing pages.
 
-1. Cliquez sur le signe **+** pour ajouter un autre choix.
+1. Cliquez sur le bouton **+** signe pour ajouter un autre choix.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
    >[!NOTE]
    >
-   >Vous pouvez ajouter plusieurs options. Cependant, si vous en ajoutez trop, cela peut affecter la vitesse de chargement du formulaire. N’ajoutez donc que ce dont vous avez besoin.
+   >Vous pouvez ajouter plusieurs choix. Si vous en ajoutez trop, toutefois, cela peut avoir une incidence sur la vitesse de chargement du formulaire. Il suffit donc d’ajouter ce dont vous avez besoin.
 
-1. Parcourez et configurez **Choice 2**.
+1. Parcourir et configurer **Choix 2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
    >[!TIP]
    >
-   >N&#39;hésitez pas à mélanger et à faire correspondre des types de suivi. Vous pouvez utiliser un landing page pour un choix et une URL pour un autre.
+   >N’hésitez pas à mélanger et à associer des types de relance. Vous pouvez utiliser une landing page pour un choix et une URL pour un autre.
 
 1. Définissez une page par défaut pour toutes les autres réponses.
 
@@ -139,5 +138,4 @@ Vous pouvez ajouter plusieurs options et intégrer des choix afin d’afficher d
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
-Super boulot !
-
+Bon boulot !

@@ -1,46 +1,45 @@
 ---
 unique-page-id: 4718648
-description: Présentation de l'analyseur d'influence d'opportunité - Documents marketing - Documentation du produit
-title: Présentation de l'analyseur d'influence d'opportunité
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Présentation de l’analyseur d’influence d’opportunité - Documents Marketo - Documentation du produit
+title: Présentation de l’analyseur d’influence d’opportunité
+exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
+# Présentation de l’analyseur d’influence d’opportunité {#understanding-the-opportunity-influence-analyzer}
 
-# Présentation de l&#39;analyseur d&#39;influence d&#39;opportunité {#understanding-the-opportunity-influence-analyzer}
-
-Chaque opportunité est une histoire. Où as-tu rencontré le chef ? Quelles sont les opportunités de marketing qui les ont affectées pendant le processus de marketing/vente ?
+Chaque opportunité est une histoire. Où as-tu rencontré le chef ? Quelles sont les opportunités marketing qui les ont affectées pendant le processus marketing/vente ?
 
 L’analyseur d’influence d’opportunité vous permet de voir l’ensemble de l’histoire. Il est même disponible dans Sales Insight !
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**Remarquez les chèques** verts. Ils indiquent le succès programme de l&#39;un des noms cochés à droite. La zone verte indique le début et la fin de l&#39;opportunité.
+**Remarquez les coches vertes.**. Ils indiquent la réussite du programme pour l’un des noms cochés à droite. La zone verte indique le début et la fin de l&#39;opportunité.
 
 >[!NOTE]
 >
->Les données de l’analyseur sont mises à jour de nuit, et non en temps réel.
+>Les données Analyzer sont mises à jour de nuit, et non en temps réel.
 
-Utilisez les contrôles sur la droite pour ajouter ou supprimer des personnes du graphique ou passer à d&#39;autres comptes ou opportunités.
+Utilisez les contrôles sur le droit pour ajouter ou supprimer des personnes du graphique ou passez à différents comptes ou opportunités.
 
-## Identification des comptes uniques {#identifying-unique-accounts}
+## Identification de comptes uniques {#identifying-unique-accounts}
 
-Marketo utilise l’identifiant de gestion de la relation client pour identifier les comptes de manière unique.
+Marketo utilise l’identifiant CRM pour identifier les comptes de manière unique.
 
-Auparavant, les comptes portant le même nom étaient considérés comme un compte unique. Par exemple, si le Washington High School était le nom du compte, et qu&#39;il y avait plusieurs comptes nommés Washington High School à travers les États-Unis, nous les combinions tous en un seul compte. C&#39;était inexact, car chaque école était une entité indépendante.
+Auparavant, les comptes portant le même nom étaient considérés comme un compte. Par exemple, si le Washington High School était le nom du compte, et qu&#39;il y avait plusieurs comptes nommés Washington High School à travers les États-Unis, nous les avons tous regroupés en un seul compte. C&#39;était inexact, car chaque école était une entité indépendante.
 
-Si vous souhaitez conserver ce comportement, pensez à dédupliquer vos données dans votre système de gestion de la relation client.
+Si vous souhaitez conserver ce comportement, pensez à dédupliquer vos données dans votre système CRM.
 
 >[!TIP]
 >
->Chaque fois que vous concluez une transaction, recherchez-la dans cet analyseur le lendemain. Partagez-la avec le représentant commercial. Ils réaliseront tout le dur travail que vous accomplissez - en plus, vous pouvez demander pourquoi certaines personnes &quot;semblent&quot; influentes mais n&#39;ont pas de rôle à jouer dans la gestion de la relation client.
+>Chaque fois que vous fermez une transaction, trouvez-la dans cet analyseur le lendemain. Partagez-le avec le représentant commercial. Ils réaliseront tout le travail que vous effectuez - en plus, vous pouvez demander pourquoi certaines personnes &quot;semblent&quot; influentes mais n’ont pas de rôle à attribuer dans le CRM.
 
 >[!MORELIKETHIS]
 >
->* [Analyseur d’influence d’opportunité pour raconter l’article marketing](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Analyseur d’influence d’opportunité pour raconter l’histoire marketing](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Création d’un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 

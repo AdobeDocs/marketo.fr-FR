@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359596
-description: Activer/désactiver les limites de communication dans un Programme de courriel - Documents marketing - Documentation du produit
-title: Activer/désactiver les limites de communication dans un Programme de courriel
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Activer/Désactiver les limites de communication dans un programme de messagerie électronique - Documents Marketo - Documentation du produit
+title: Activation/désactivation des limites de communication dans un programme de messagerie électronique
+exl-id: 25427978-33a0-4153-ad66-b34f9549e794
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
+# Activation/désactivation des limites de communication dans un programme de messagerie électronique {#enable-disable-communication-limits-in-an-email-program}
 
-# Activer/désactiver les limites de communication dans un Programme de courriel {#enable-disable-communication-limits-in-an-email-program}
-
-Lors de l’exécution d’un programme de messagerie, vous pouvez choisir d’ignorer ou de respecter les [limites de communication au niveau administrateur](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Voici comment le faire.
+Lors de l’exécution d’un programme de messagerie, vous pouvez choisir d’ignorer ou de respecter la variable [limites de communication au niveau administrateur](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Voici comment le faire.
 
 >[!NOTE]
 >
->Les limites de communication sont [définies dans la section Admin](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) et vous aident à éviter d’envoyer une personne trop de courriers électroniques.
+>Les limites de communication sont [défini dans la section Admin](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) et vous aider à éviter d&#39;envoyer une personne en trop.
 
 1. Accédez à **Activités marketing**.
 
@@ -27,12 +26,12 @@ Lors de l’exécution d’un programme de messagerie, vous pouvez choisir d’i
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Sous l&#39;onglet **Configuration**, doublon-cliquez sur l&#39;élément de limite de communication.
+1. Sous , **Configuration** , double-cliquez sur l’élément de ligne limite de communication.
 
    ![](assets/blockoperational.png)
 
-1. Par défaut, les courriers électroniques non opérationnels sont bloqués si les limites de communication sont atteintes, mais si vous souhaitez les contourner, désactivez la case à cocher et cliquez sur **Enregistrer**.
+1. Par défaut, les emails non opérationnels sont bloqués si les limites de communication sont atteintes. Si vous souhaitez les contourner, décochez la case et cliquez sur **Enregistrer**.
 
    ![](assets/ifaperson.jpg)
 
-   Si vous laissez **Bloquer les courriers électroniques non opérationnels** cochés, vous n&#39;aurez pas à envoyer le courrier électronique à quiconque a reçu plus de courriers électroniques que ce que vos paramètres d&#39;administration autorisent.
+   Quitter **Bloquer les emails non opérationnels** coché empêche l’envoi de l’email à toute personne ayant reçu plus d’emails que ce qui est autorisé dans les paramètres d’administration.

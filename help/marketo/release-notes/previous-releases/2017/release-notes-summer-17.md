@@ -42,7 +42,7 @@ L’intégration de LeanData permet désormais une correspondance de piste vers 
 
 **[Améliorations de l’aperçu des campagnes](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-Les professionnels du marketing peuvent désormais s’assurer que leurs campagnes web s’affichent correctement sur n’importe quel appareil *avant de les lancer.* Grâce à ces améliorations, découvrez le rendu de vos campagnes web sur les ordinateurs de bureau, les appareils mobiles et les tablettes. Le nouveau module externe pour Chrome offre également des aperçus plus cohérents et précis.
+Les professionnels du marketing peuvent désormais s’assurer que leurs campagnes web s’afficheront parfaitement sur n’importe quel périphérique. *before* les lancer. Grâce à ces améliorations, découvrez le rendu de vos campagnes web sur les ordinateurs de bureau, les appareils mobiles et les tablettes. Le nouveau module externe pour Chrome offre également des aperçus plus cohérents et précis.
 
 **[Améliorations des campagnes par widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
@@ -62,7 +62,7 @@ Augmentez le retour sur votre marketing de contenu grâce à des analyses plus a
 
 **Améliorations d’Email Insights**
 
-Tirez encore plus parti de votre expérience de statistiques sur les emails avec de nouvelles méthodes pour préparer et partager des données. Vous pouvez désormais télécharger les résultats des statistiques sur les emails dans Microsoft Excel et PowerPoint pour utiliser les données en dehors de Marketo.
+Tirez encore plus parti de votre expérience de statistiques sur les emails avec de nouvelles méthodes pour préparer et partager des données. Vous pouvez désormais télécharger vos résultats de statistiques d’email dans Microsoft Excel et PowerPoint pour utiliser les données en dehors de Marketo.
 
 ## Assistance de configuration des identités fédérées {#federated-identity-configuration-support}
 

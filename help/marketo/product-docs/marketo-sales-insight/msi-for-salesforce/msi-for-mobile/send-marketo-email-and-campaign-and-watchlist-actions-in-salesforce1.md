@@ -1,41 +1,38 @@
 ---
 unique-page-id: 7511931
-description: Envoyer un courrier électronique et des actions Campaign et Watchlist à Marketo dans Salesforce1 - Marketo Docs - Documentation du produit
-title: Envoyer un courrier électronique marketing et des actions Campaign et Watchlist dans Salesforce1
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Envoyer le courrier électronique Marketo, Campaign et les actions de liste de contrôle dans Salesforce1 - Documents Marketo - Documentation du produit
+title: Envoyer le courrier électronique Marketo et Campaign et les actions de liste de contrôle dans Salesforce1
+exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
+# Envoyer le courrier électronique Marketo et Campaign et les actions de liste de contrôle dans Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-# Envoyer un courrier électronique marketing et des actions Campaign et Watchlist à Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
-
-1. Accédez à la zone Détails de piste de Salesforce1 et cliquez sur l&#39;onglet **Associé**.
+1. Dans la zone Détails de la piste de Salesforce1, cliquez sur le bouton **Associé** .
 
    ![](assets/one-1.png)
 
-1. Cliquez sur le point (trois petits points). En bas, vous avez le choix entre : &quot;Ajouter à Marketo Campaign&quot;, &quot;Envoyer un courriel marketing&quot;, &quot;Vue dans Marketo&quot;, &quot;Ajouter/Supprimer de la liste de surveillance&quot;.
+1. Cliquez sur le point (trois petits points). Vous pouvez choisir parmi les options suivantes dans la partie inférieure : &quot;Ajouter à Marketo Campaign&quot;, &quot;Envoyer un courrier électronique Marketo&quot;, &quot;Afficher dans Marketo&quot;, &quot;Ajouter/Supprimer de la liste de surveillance&quot;.
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >Quelles sont les campagnes intelligentes qui s&#39;affichent ? Ceux qui contiennent &quot;Campaign is Requested&quot; se déclenchent. Découvrez comment configurer une campagne déclenchée [à l&#39;aide de &quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Quelles campagnes intelligentes s’affichent ? Les déclencheurs avec &quot;Campaign is Requested&quot; (La campagne est demandée). Découvrez comment configurer une [campagne déclenchée à l’aide de &quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
-Cool, maintenant vos vendeurs peuvent participer activement à l&#39;effort marketing.
+Super, vos vendeurs peuvent désormais participer activement à l’effort marketing.
 
 >[!NOTE]
 >
 >**Exemple**
 >
->De bonnes campagnes intelligentes à demander peuvent ressembler à :
+>Les bonnes campagnes intelligentes à demander peuvent ressembler à ce qui suit :
 >
->1. Entretien à long terme - quand ils n&#39;ont pas de budget cette année
->1. Principal cycle de vente - lorsque le vendeur ne veut pas de messages à l&#39;attention du prospect sauf le sien (utilisez l&#39;indicateur de suspension marketing pour les désabonner temporairement)
-
+>1. Education à long terme - quand ils n&#39;ont pas de budget cette année
+>1. Principal cycle de vente : lorsque le vendeur ne souhaite recevoir aucun message au prospect sauf le sien (utilisez l’indicateur marketing suspendu pour le désabonner temporairement).
 >
->
-Soyez créatifs ! Qu&#39;est-ce que le vendeur aimerait automatiser ? Demandez-leur et branchez-le !
+>Soyez créatifs ! Qu&#39;est-ce que le vendeur aimerait automatiser ? Demandez-leur et branchez-le !

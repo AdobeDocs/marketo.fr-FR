@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2359912
-description: Exportation d’une Liste d’utilisateurs et de rôles - Marketo Docs - Documentation du produit
-title: Exportation d’une Liste d’utilisateurs et de rôles
+description: Exportation d’une liste d’utilisateurs et de rôles - Documents Marketo - Documentation du produit
+title: Exportation d’une liste d’utilisateurs et de rôles
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
@@ -11,15 +10,15 @@ ht-degree: 0%
 
 ---
 
-# Exportation d’une Liste d’utilisateurs et de rôles {#export-a-list-of-users-and-roles}
+# Exportation d’une liste d’utilisateurs et de rôles {#export-a-list-of-users-and-roles}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-Il est assez facile d’exporter une liste complète de vos utilisateurs et rôles d’utilisateur. Voici comment.
+Il est assez facile d’exporter une liste complète de vos utilisateurs et rôles utilisateur. Voici comment.
 
-1. Accédez à **Admin**.
+1. Accédez à **Administration**.
 
    ![](assets/adminhand.png)
 
@@ -31,14 +30,14 @@ Il est assez facile d’exporter une liste complète de vos utilisateurs et rôl
 
    >[!TIP]
    >
-   >Pour exporter des rôles, accédez d&#39;abord à l&#39;onglet **Rôles**** **puis exportez-le.
+   >Pour exporter des rôles, accédez au **Rôles**** onglet **, puis exportez.
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
-1. Cliquez sur l&#39;icône **Exporter**.
+1. Cliquez sur le bouton **Exporter** icône .
 
    ![](assets/image2014-9-10-9-3a26-3a3.png)
 
-   Et c&#39;est tout le monde ! Vous devez télécharger le nouveau fichier Excel.
+   Et c&#39;est tout les gars ! Vous devez télécharger le nouveau fichier Excel.
 
    ![](assets/image2014-9-10-9-3a26-3a17.png)

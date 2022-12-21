@@ -1,25 +1,24 @@
 ---
 unique-page-id: 7515107
-description: Ajouter un formulaire à un Landing page guidé - Documents marketing - Documentation du produit
-title: Ajouter un formulaire à un Landing page guidé
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Ajout d’un formulaire à une page d’entrée guidée - Documents Marketo - Documentation du produit
+title: Ajout d’un formulaire à une page d’entrée guidée
+exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Ajout d’un formulaire à une page d’entrée guidée {#add-a-form-to-a-guided-landing-page}
 
-# Ajouter un formulaire à un Landing page guidé {#add-a-form-to-a-guided-landing-page}
-
-Forme, rencontre le landing page. Landing page, remplissez le formulaire.
+Formulaire, rencontrer une landing page. Landing page, formulaire conforme.
 
 >[!PREREQUISITES]
 >
->[Création d’un Landing page guidé](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+>[Création d’une page d’entrée guidée](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez au **Activités marketing** zone.
 
    ![](assets/one.png)
 
@@ -29,9 +28,9 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
 
    >[!NOTE]
    >
-   >Les éléments disponibles dans les landings page guidés sont définis par le modèle. Si vous ne voyez pas de formulaire dans le panneau d’éléments, sélectionnez un nouveau modèle ou contactez votre créateur de modèles.
+   >Les éléments disponibles dans les landing pages guidées sont définis par le modèle. Si vous ne voyez pas de formulaire dans le panneau Eléments, sélectionnez un nouveau modèle ou contactez votre créateur de modèles.
 
-1. Cliquez avec le doublon sur le **Formulaire** dans le panneau d’élément.
+1. Double-cliquez sur le **Formulaire** dans le panneau des éléments.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -39,22 +38,22 @@ Forme, rencontre le landing page. Landing page, remplissez le formulaire.
 
    ![](assets/image2015-5-20-15-3a44-3a35.png)
 
-1. Vous disposez de trois options pour choisir votre page de suivi :
+1. Vous disposez de trois options lors du choix de votre page de relance :
 
-   * landing page - Choisir un landing page Marketo
+   * Page d’entrée : sélectionnez une page d’entrée Marketo.
    * URL externe : sélectionnez l’URL de votre choix.
-   * Définition de formulaire : utilisez les paramètres définis au niveau du formulaire.
+   * Défini par le formulaire : utilisez les paramètres définis au niveau du formulaire.
 
    >[!NOTE]
    >
    >La page de suivi est la page que les utilisateurs verront après avoir envoyé le formulaire.
 
-1. Dans cet exemple, nous utiliserons la définition de formulaire. Cliquez sur **Insérer**.
+1. Dans cet exemple, nous utiliserons Formulaire défini. Cliquez sur **Insérer**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
-   Bien joué !
+   C&#39;est joli !
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Fermez maintenant l&#39;éditeur de landing page et [approuvez le brouillon de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Fermez maintenant l’éditeur de page d’entrée et [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

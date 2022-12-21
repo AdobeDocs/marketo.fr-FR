@@ -4,8 +4,8 @@ title: Paramètres de campagne de ventes
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '232'
+ht-degree: 1%
 
 ---
 

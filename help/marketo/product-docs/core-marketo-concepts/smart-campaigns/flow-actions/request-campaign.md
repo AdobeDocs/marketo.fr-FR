@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2951703
-description: Demande Campaign - Documents Marketo - Documentation du produit
+description: Request Campaign - Marketo Docs - Documentation du produit
 title: Demander une campagne
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
@@ -13,17 +12,17 @@ ht-degree: 3%
 
 # Demander une campagne {#request-campaign}
 
-Vous pouvez placer des personnes dans une campagne spécifique en utilisant l’étape de flux unique **Request Campaign**.
+Vous pouvez placer des personnes dans une campagne spécifique à l’aide de la variable **Demande de campagne** flux unique.
 
 >[!NOTE]
 >
->La campagne dans laquelle vous placez la personne doit être principale et avoir le déclencheur **[Campaign est demandé](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
+>La campagne dans laquelle vous placez la personne doit être principale et avoir la variable **[La campagne est demandée](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** déclencheur.
 
-1. Dans la **base de données**, recherchez et sélectionnez la personne ou les personnes souhaitées.
+1. Dans le **Base**, recherchez et sélectionnez la ou les personnes souhaitées.
 
    ![](assets/one-5.png)
 
-1. Cliquez sur **Actions personnelles**, passez la souris sur **Spécial**, puis sélectionnez **Demander Campaign**.
+1. Cliquez sur **Actions de personne**, survolez **Spécial**, puis sélectionnez **Demande de campagne**.
 
    ![](assets/two-5.png)
 
@@ -31,16 +30,16 @@ Vous pouvez placer des personnes dans une campagne spécifique en utilisant l’
 
    ![](assets/three-4.png)
 
-1. En haut à droite de l&#39;écran, vous verrez quand c&#39;est fait. Cliquez sur **Résultats de la Vue**.
+1. En haut à droite de l&#39;écran, vous verrez quand c&#39;est fini. Cliquez sur **Affichage des résultats**.
 
    ![](assets/four-4.png)
 
-   Votre personne est maintenant dans le Campaign demandé.
+   Votre personne se trouve maintenant dans la campagne demandée.
 
    ![](assets/five-1.png)
 
-   Un travail formidable !
+   Super travail !
 
 >[!TIP]
 >
->Utilisez le déclencheur ou le filtre **Campaign is Requested** pour trouver les personnes affectées par cette étape de flux.
+>Utilisez la variable **La campagne est demandée** déclencher ou filtrer pour trouver les personnes affectées par cette étape de flux.

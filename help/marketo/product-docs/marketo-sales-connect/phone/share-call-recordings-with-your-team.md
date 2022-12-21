@@ -1,40 +1,39 @@
 ---
 unique-page-id: 14352437
-description: Partager les enregistrements d'appels avec votre équipe - Documents marketing - Documentation du produit
-title: Partager les enregistrements d'appels avec votre équipe
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Partager les enregistrements d’appels avec votre équipe - Documents Marketo - Documentation du produit
+title: Partage des enregistrements d’appels avec votre équipe
+exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
+# Partage des enregistrements d’appels avec votre équipe {#share-call-recordings-with-your-team}
 
-# Partager les enregistrements d&#39;appels avec votre équipe {#share-call-recordings-with-your-team}
+Sales Phone vous permet d’enregistrer et d’enregistrer vos enregistrements d’appels. Si vous souhaitez partager un enregistrement d’appel avec un autre membre de votre équipe, vous pouvez copier le lien à deux endroits.
 
-Sales Phone vous permet d&#39;enregistrer et d&#39;enregistrer vos enregistrements d&#39;appels. Si vous souhaitez partager un enregistrement d’appel avec un autre membre de votre équipe, vous pouvez copier le lien à deux endroits.
+## Copier le lien d’enregistrement à partir des détails de la personne dans l’application web {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-## Copier le lien d&#39;enregistrement à partir des détails de la personne dans l&#39;Application web {#copy-recording-link-from-the-person-details-in-the-web-application}
-
-1. Accédez à l&#39;[application Web](https://toutapp.com/login).
+1. Accédez au [application web](https://toutapp.com/login).
 
 1. Ouvrez les détails de la personne.
 
-1. Recherchez l&#39;Activité d&#39;appel sous la liste d&#39;activité.
+1. Recherchez l’activité d’appel sous la liste des activités.
 
-1. Cliquez avec le bouton droit sur l&#39;enregistrement de l&#39;appel et copiez l&#39;URL du lien.
+1. Cliquez avec le bouton droit sur l’enregistrement de l’appel et copiez l’URL du lien.
 
-## Copier le lien d&#39;enregistrement de la Tâche Salesforce {#copy-recording-link-from-the-salesforce-task}
+## Copier le lien d’enregistrement de la tâche Salesforce {#copy-recording-link-from-the-salesforce-task}
 
 >[!NOTE]
 >
->Vous devrez enregistrer vos appels dans Salesforce pour obtenir ce lien.
+>Pour obtenir ce lien, vos appels doivent être connectés à Salesforce.
 
-1. Accédez à la tâche créée dans Salesforce pour l&#39;appel.
+1. Accédez à la tâche créée dans Salesforce pour l’appel .
 
-1. Copiez le lien répertorié dans le champ Enregistrement d&#39;appel de vente.
+1. Copiez le lien répertorié dans le champ Enregistrement des appels de vente .
 
 >[!CAUTION]
 >
->Ne copiez pas l’URL de l’enregistrement de l’appel. Ce lien d&#39;enregistrement a une date d&#39;expiration et conduira à une page d&#39;erreur après environ 10 minutes.
+>Ne copiez pas l’URL de l’enregistrement d’appel. Ce lien d’enregistrement a une date d’expiration et provoquera une page d’erreur au bout d’environ 10 minutes.

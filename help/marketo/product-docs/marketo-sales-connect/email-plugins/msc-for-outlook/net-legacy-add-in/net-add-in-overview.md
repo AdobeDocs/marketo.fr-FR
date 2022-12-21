@@ -1,40 +1,39 @@
 ---
 unique-page-id: 14352457
-description: Présentation des Ajoutes .NET - Documentation sur le marketing - Documentation sur le produit
-title: Présentation des Ajoutes .NET
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Présentation du module complémentaire .NET - Documents Marketo - Documentation du produit
+title: Présentation du module complémentaire .NET
+exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
-# Aperçu de l&#39;Ajoute .NET {#net-add-in-overview}
+# Présentation du module complémentaire .NET {#net-add-in-overview}
 
 >[!NOTE]
 >
->C&#39;est notre ancien complément. Si vous l&#39;avez déjà installé, il continuera à fonctionner jusqu&#39;en 2020. Si vous êtes un nouvel utilisateur, veuillez installer notre nouveau [complément Office 365](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+>C&#39;est notre ancien module complémentaire. Si vous l’avez déjà installé, il continuera à fonctionner jusqu’en 2020. Si vous êtes un nouvel utilisateur, installez notre nouvelle [Module complémentaire Office 365](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-## Ajout d&#39;une partie de contenu {#attaching-a-piece-of-content}
+## Ajout d’un élément de contenu {#attaching-a-piece-of-content}
 
-Ajoutez le contenu pouvant faire l’objet d’un suivi en cliquant sur le bouton **Contenu** et en téléchargeant un fichier.
+Ajoutez du contenu pouvant faire l’objet d’un suivi en cliquant sur le bouton **Contenu** et télécharger un fichier.
 
-Tout contenu précédemment téléchargé s’affiche pour que vous puissiez le sélectionner dans la fenêtre contextuelle sans avoir à le télécharger à nouveau.
+Tout contenu précédemment chargé s’affiche pour que vous puissiez sélectionner dans la fenêtre contextuelle sans avoir à effectuer un nouveau chargement.
 
 ## Fonctionnalité du calendrier {#calendar-functionality}
 
-Faites savoir à vos destinataires quand vous êtes disponible en appuyant sur le bouton **Calendrier**.
+Dites à vos destinataires quand vous êtes disponible en appuyant sur la touche **Calendrier** bouton .
 
-Ceci extrait votre calendrier Outlook et vous permet d&#39;ajouter des dates et heures spécifiques que vous êtes libre et d&#39;ajouter les informations à votre courriel.
+Cela extrait votre calendrier Outlook et vous permet d’ajouter des dates et heures spécifiques auxquelles vous êtes libre, puis d’ajouter les informations à votre email.
 
-## Extraction dans un modèle {#pulling-in-a-template}
+## Extraction d’un modèle {#pulling-in-a-template}
 
-Extrayez un modèle Tout prédéfini dans le message Outlook en appuyant sur le bouton **Modèles**.
+Extrayez un modèle Tout préfabriqué dans le message Outlook en appuyant sur la touche **Modèles** bouton .
 
-Nous synchronisons avec tous vos modèles personnels et tous les modèles partagés de l&#39;équipe. Nous insérons automatiquement le dernier modèle utilisé et le modèle le plus souvent utilisé pour un accès facile.
+Nous synchronisons avec tous vos modèles personnels et les modèles partagés de l’équipe. Nous récupérons également automatiquement le dernier modèle utilisé et le modèle le plus souvent utilisé pour un accès facile.
 
-## Bouton Tout It {#the-tout-it-button}
+## Le bouton Tout It {#the-tout-it-button}
 
-Une fois que votre e-mail personnalisé est rempli et prêt à l&#39;emploi, veillez à toujours cliquer sur le bouton **Tout It** pour obtenir le suivi. Une boîte s’affiche avec la mention &quot;accrochez-vous, nous ajoutons la magie du suivi&quot;.
+Une fois que votre email personnalisé est renseigné et prêt à l’emploi, assurez-vous de toujours accéder à la variable **Tout y** pour obtenir le suivi. Une boîte s’affiche avec le message &quot;raccrochez-vous, nous ajoutons la magie du tracking&quot;.

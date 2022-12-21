@@ -1,9 +1,8 @@
 ---
 unique-page-id: 10094188
-description: Approuver un objet personnalisé - Documents Marketo - Documentation du produit
-title: Approuver un objet personnalisé
+description: Approbation d’un objet personnalisé - Documents Marketo - Documentation du produit
+title: Approbation d’un objet personnalisé
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
@@ -11,50 +10,50 @@ ht-degree: 0%
 
 ---
 
-# Approuver un objet personnalisé {#approve-a-custom-object}
+# Approbation d’un objet personnalisé {#approve-a-custom-object}
 
 Vous devez approuver un objet personnalisé avant de pouvoir l’utiliser. Le processus est légèrement différent pour les nouveaux objets personnalisés et ceux que vous avez modifiés.
 
-## Approuver un nouvel objet personnalisé {#approve-a-new-custom-object}
+## Approbation d’un nouvel objet personnalisé {#approve-a-new-custom-object}
 
 Vous avez créé un nouvel objet personnalisé. Voici comment l&#39;approuver.
 
-1. Dans Admin, cliquez sur **Marketo Custom Objects** et sélectionnez un objet à l’état Brouillon.
+1. Dans Admin, cliquez sur **Objets personnalisés Marketo** et sélectionnez un objet dont l’état est En création.
 
    ![](assets/one.png)
 
-1. Cliquez sur la liste déroulante **Actions d’objet personnalisé** et sélectionnez **Approuver l’objet**.
+1. Cliquez sur le bouton **Actions d’objet personnalisées** et sélectionnez **Approuver l’objet**.
 
    ![](assets/two.png)
 
-1. L&#39;état devient Approuvé.
+1. L’état devient Approuvé.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Un objet personnalisé utilisé dans une structure _de type &quot;un à plusieurs&quot;_ doit comporter au moins un champ de déduplication, un champ de lien, un nom d’objet lié et un nom de champ lié à approuver.
+   >Un objet personnalisé utilisé dans une _structure un-à-multiple_ doit comporter au moins un champ de déduplication, un champ de lien, un nom d’objet lié et un nom de champ lié à valider.
    >
-   >Un objet personnalisé utilisé dans une structure _plusieurs à plusieurs_ **n&#39;a pas besoin** d&#39;un champ de lien, d&#39;un nom d&#39;objet lié ou d&#39;un nom de champ lié lorsque vous l&#39;approuvez (car il réside dans l&#39;objet intermédiaire).
+   >Un objet personnalisé utilisé dans une _structure multiple-à-multiple_ **ne** vous avez besoin d’un champ de lien, d’un nom d’objet lié ou d’un nom de champ lié lorsque vous le validez (car ils se trouvent dans l’objet intermédiaire).
    >
-   >Un objet personnalisé utilisé en tant qu&#39;objet _intermédiaire_ nécessite un champ de lien, un nom d&#39;objet lié et un nom de champ lié, mais **ne nécessite pas** un champ de déduplication.
+   >Objet personnalisé utilisé comme _objet intermédiaire_ nécessite un champ de lien, un nom d’objet lié et un nom de champ lié, mais **ne** nécessitent un champ de déduplication.
    >
-   >Voir [Présentation des objets personnalisés de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) pour plus d’informations.
+   >Voir [Présentation des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) pour plus d’informations.
 
 C&#39;est tout ! Désormais, vous pouvez sélectionner votre objet personnalisé dans les contraintes de vos filtres et déclencheurs à utiliser dans vos campagnes.
 
-## Approuver un objet personnalisé modifié {#approve-an-edited-custom-object}
+## Approbation d’un objet personnalisé modifié {#approve-an-edited-custom-object}
 
-Après avoir modifié un objet personnalisé approuvé, vous devez approuver le brouillon pour que l’objet personnalisé soit renvoyé à un état Approuvé.
+Après avoir modifié un objet personnalisé approuvé, vous devez approuver le brouillon pour renvoyer l’objet personnalisé à un état Approuvé.
 
-1. Lorsque vous modifiez un objet personnalisé déjà approuvé, il reçoit un état Approuvé avec brouillon.
+1. Lorsque vous modifiez un objet personnalisé déjà approuvé, il reçoit l’état Approuvé avec brouillon .
 
    ![](assets/four.png)
 
-1. Lorsque vous êtes prêt à approuver le brouillon, cliquez sur la liste déroulante **Actions d’objet personnalisé** et sélectionnez **Approuver l’objet**.
+1. Lorsque vous êtes prêt à approuver le brouillon, cliquez sur le **Actions d’objet personnalisées** et sélectionnez **Approuver l’objet**.
 
    ![](assets/five-1.png)
 
-1. Une prévisualisation affiche les éléments qui ont été modifiés dans le brouillon. Cliquez sur **Approuver**.
+1. Un aperçu affiche les éléments qui ont été modifiés dans le brouillon. Cliquez sur **Approuver**.
 
    ![](assets/six-1.png)

@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2950549
-description: Configuration du flux recommandé par Social - Documents marketing - Documentation du produit
+description: Configuration du flux recommandé par Social - Documents Marketo - Documentation du produit
 title: Configuration du flux recommandé par Social
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%
 
 ---
 
-
 # Configuration du flux recommandé par Social {#configure-social-recommend-flow}
 
-Lorsque vous créez une application sociale, vous pouvez configurer les choix de réseaux sociaux et les invites qu’un utilisateur rencontre lors de son inscription.
+Lorsque vous créez une application sociale, vous pouvez configurer les choix de réseau social et les invites qu’un utilisateur rencontre lorsqu’il s’inscrit.
 
-## Sélectionner des réseaux pour le partage {#select-networks-for-sharing}
+## Sélectionner des réseaux à partager {#select-networks-for-sharing}
 
 >[!NOTE]
 >
->Il s’agit d’un processus très similaire à [la configuration du flux d’inscription/partage sur les réseaux sociaux](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md), mais il s’agit des liens de partage _sous_ l’application sociale.
+>Cela ressemble beaucoup à [configuration du flux d’inscription/partage sur les réseaux sociaux](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md), mais ceci pour les liens de partage _under_ l’application sociale.
 
 1. Accédez à **Activités marketing**.
 
@@ -39,47 +38,47 @@ Lorsque vous créez une application sociale, vous pouvez configurer les choix de
 
 ## Configuration du message Facebook {#configure-the-facebook-message}
 
-1. Configurez le message qui apparaîtra dans les publications Facebook.
+1. Configurez le message qui s’affichera dans les publications Facebook.
 
    ![](assets/image2014-9-22-11-3a53-3a21.png)
 
    >[!NOTE]
    >
-   >Dans un partage de vidéo, la miniature est générée automatiquement.
+   >Dans un partage vidéo, la miniature est générée automatiquement.
 
-   Si vous choisissez **Ajouter le contenu dynamique**, les valeurs des balises OpenGraph de la page (og:title, og:caption et og:description) et de la miniature sont automatiquement ajoutées aux publications Facebook. Voir l’étape suivante.
+   Si vous choisissez **Ajouter du contenu dynamique**, les valeurs des balises OpenGraph de la page (og:title, og:caption et og:description) et la miniature sont automatiquement ajoutées aux publications Facebook. Voir l’étape suivante.
 
-   Si vous choisissez **Ajouter le contenu statique**, saisissez le titre, la légende et la description, puis téléchargez une image. Consultez les deux étapes suivantes.
+   Si vous choisissez **Ajouter du contenu statique**, saisissez le titre, la légende et la description, puis chargez une image. Voir les deux étapes suivantes.
 
-1. Dans la fenêtre Vue et modification, cliquez sur **Afficher les modifications** pour personnaliser l’invite et le message de partage qui apparaîtront dans les publications Facebook.
+1. Dans la fenêtre Afficher et modifier, cliquez sur **Afficher les modifications** pour personnaliser l’invite de partage et le message qui s’afficheront dans les publications Facebook.
 
    >[!TIP]
    >
-   >Pour plus d’informations, voir [Modifier les paramètres de publication enrichie Facebook](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
+   >Pour plus d’informations, voir [Modification des paramètres de publication enrichie Facebook](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >L&#39;[URL de partage](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) est automatiquement ajouté à tous les messages de partage.
+   >Le [URL de partage](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) est automatiquement ajouté à tous les messages de partage.
 
-1. Si vous avez choisi **Ajouter le contenu statique** ci-dessus, modifiez le titre, la légende et la description, puis téléchargez une image personnalisée (à partir de vos images et fichiers marketing).
+1. Si vous choisissez **Ajouter du contenu statique** ci-dessus, modifiez le titre, la légende et la description, puis chargez une image personnalisée (à partir de vos images et fichiers Marketo).
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
-   Voir [Ajouter des images et des fichiers sur Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Voir [Ajout d’images et de fichiers à Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
-   >Si vous téléchargez une image, elle ne s’affichera pas ici tant que vous n’aurez pas fermé et rouvert l’éditeur d’applications sociales.
+   >Si vous chargez une image, vous ne la verrez pas ici tant que vous ne fermez pas et rouvrez l’éditeur d’applications sociales.
 
 1. Cliquez sur **Suivant**.
 
-Si vous choisissez , les valeurs des balises OpenGraph de la page (og:title, og:caption et og:description) et de la vignette sont automatiquement ajoutées aux publications Facebook. Voir l’étape suivante.
+Si vous choisissez , les valeurs des balises OpenGraph de la page (og:title, og:caption et og:description) et la miniature sont automatiquement ajoutées aux publications Facebook. Voir l’étape suivante.
 
 ## Configuration du message Twitter {#configure-the-twitter-message}
 
-1. Cliquez sur pour modifier l’invite et le message de partage qui apparaîtront dans les tweets Twitter.
+1. Cliquez pour modifier l’invite de partage et le message qui s’afficheront dans les tweets Twitter.
 
    ![](assets/image2014-9-22-12-3a2-3a40.png)
 
@@ -91,15 +90,15 @@ Si vous choisissez , les valeurs des balises OpenGraph de la page (og:title, og:
 
 ## Configuration du message LinkedIn {#configure-the-linkedin-message}
 
-1. Configurez le message qui apparaîtra dans les publications LinkedIn.
+1. Configurez le message qui s’affichera dans les publications LinkedIn.
 
    ![](assets/image2014-9-22-12-3a3-3a21.png)
 
-   Si vous choisissez **Ajouter le contenu dynamique**, les valeurs des balises de pages (titre et description) et la miniature sont automatiquement ajoutées aux publications LinkedIn. Voir l’étape suivante.
+   Si vous choisissez **Ajouter dynamique** le contenu, les valeurs des balises de page (titre et description) et la miniature sont automatiquement ajoutées aux publications LinkedIn. Voir l’étape suivante.
 
-   Si vous choisissez **Ajouter le contenu statique**, saisissez le titre, la légende et la description, puis téléchargez une image. Consultez les deux étapes suivantes.
+   Si vous choisissez **Ajouter statique** , saisissez le titre, la légende et la description, puis chargez une image. Voir les deux étapes suivantes.
 
-1. Dans la fenêtre **Vue et modification**, cliquez sur **Afficher les modifications** et modifiez l’invite et le message de partage qui apparaîtront dans les publications LinkedIn.
+1. Dans le **Afficher et modifier** fenêtre, cliquez sur **Afficher les modifications** et modifiez l’invite de partage et le message qui s’afficheront dans les publications LinkedIn.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -107,19 +106,19 @@ Si vous choisissez , les valeurs des balises OpenGraph de la page (og:title, og:
    >
    >Utilisez {html_title} dans votre texte de publication pour afficher automatiquement le titre de la page.
 
-1. Si vous avez choisi **Ajouter le contenu statique** ci-dessus, modifiez le titre et la description, puis téléchargez une image personnalisée (à partir de vos images et fichiers marketing).
+1. Si vous choisissez **Ajouter statique** contenu ci-dessus, modifiez le titre et la description, puis chargez une image personnalisée (à partir de vos images et fichiers Marketo).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
-   Voir [Ajouter des images et des fichiers sur Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Voir [Ajout d’images et de fichiers à Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
-   >Si vous téléchargez une image, elle ne s’affichera pas ici tant que vous n’aurez pas fermé et rouvert l’éditeur d’applications sociales.
+   >Si vous chargez une image, vous ne la verrez pas ici tant que vous ne fermez pas et rouvrez l’éditeur d’applications sociales.
 
 1. Cliquez sur **Suivant**.
 
-## Configurer le message de confirmation {#configure-the-confirmation-message}
+## Configuration du message de confirmation {#configure-the-confirmation-message}
 
 1. Modifiez le texte de la confirmation du partage.
 
@@ -131,4 +130,4 @@ Si vous choisissez , les valeurs des balises OpenGraph de la page (og:title, og:
 
 >[!MORELIKETHIS]
 >
->L’étape suivante consiste à [ajouter votre partage de vidéo](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) ou [sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) à un landing page, à Facebook ou à votre propre site Web.
+>L’étape suivante consiste à [ajouter votre partage vidéo](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) ou [sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) à une page d’entrée, à Facebook ou à votre propre site web.

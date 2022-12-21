@@ -1,33 +1,32 @@
 ---
 unique-page-id: 10100636
-description: Ajouter des images de message in-app - Documents marketing - Documentation du produit
-title: Ajouter des images de message in-app
-translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+description: Ajout d’images de message in-app - Documents Marketo - Documentation du produit
+title: Ajout d’images de message in-app
+exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
 
 ---
 
+# Ajout d’images de message in-app {#add-in-app-message-images}
 
-# Ajouter des images de message in-app {#add-in-app-message-images}
-
-C’est ici que vous choisissez et personnalisez vos images de messages in-app.
+C’est là que vous choisissez et personnalisez vos images de message in-app.
 
 1. Sélectionnez le message in-app et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
-1. Sélectionnez l’un des six modèles dans le panneau Disposition. Il y a trois fenêtres contextuelles et trois options plein écran.
+1. Sélectionnez l’un des six modèles de l’onglet Disposition . Il existe trois options de pop-up et trois options de plein écran.
 
    >[!TIP]
    >
-   >Quelle est la différence entre les modèles ? Voir [Choisir une mise en page pour votre message intégré](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) avant de commencer.
+   >Quelle est la différence entre les modèles ? Voir [Choisir une mise en page pour votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) avant de commencer.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Cliquez sur l&#39;onglet **Style** et cliquez sur la zone d&#39;image du modèle.
+1. Cliquez sur le bouton **Style** et cliquez sur la zone image du modèle.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
@@ -35,15 +34,15 @@ C’est ici que vous choisissez et personnalisez vos images de messages in-app.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Sélectionnez votre image dans Design Studio et cliquez sur **Sélectionner**.
+1. Sélectionnez votre image dans Design Studio, puis cliquez sur **Sélectionner**.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
    >[!NOTE]
    >
-   >La taille de l’image est limitée à 1 440 x 2 560 px et 5 Mo.
+   >La taille de l’image est limitée à 1 440 x 2 560 pixels et 5 Mo.
 
-1. Changez d&#39;avis et souhaitez utiliser une image différente ? Pas de problème. Cliquez sur **X** en regard du nom de fichier de l’image.
+1. Changez d&#39;avis et souhaitez utiliser une autre image ? Pas de problème. Cliquez sur le bouton **X** en regard du nom du fichier image.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
@@ -51,27 +50,27 @@ C’est ici que vous choisissez et personnalisez vos images de messages in-app.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
-1. Lorsque l’image de votre choix est en place, dans Propriétés de l’image, sélectionnez un bouton pour l’adapter à la hauteur, à la largeur ou aux deux.
+1. Une fois l’image souhaitée en place, dans Propriétés de l’image, sélectionnez un bouton pour l’adapter en fonction de la hauteur, de la largeur ou des deux.
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
-1. Vous pouvez éventuellement appliquer une bordure d’image. Le paramètre par défaut est **Désactivé**. Tout d&#39;abord, sélectionnez la couleur en cliquant dessus ou en entrant les valeurs hexadécimales ou RVB dans le sélecteur de couleurs.
+1. Vous pouvez éventuellement appliquer une bordure d’image. Le paramètre par défaut est **Off**. Tout d’abord, sélectionnez la couleur en cliquant dessus ou en entrant les numéros hexadécimaux ou RGB dans le sélecteur de couleurs.
 
    ![](assets/image2016-5-6-9-3a9-3a0.png)
 
-1. Cliquez sur les flèches pour modifier la largeur de la bordure, en pixels. Vous verrez qu&#39;il change sur l&#39;image.
+1. Cliquez sur les flèches pour modifier la largeur de la bordure, en pixels. Vous verrez qu’il change sur l’image.
 
    ![](assets/image2016-5-6-9-3a35-3a43.png)
 
-1. Sélectionnez un rayon d’angle à l’aide du curseur. Sélectionnez une position de gauche à droite : 0, 4, 8, 12 ou 16 pixels. La sélection de 8 pixels (au centre) est la valeur par défaut.
+1. Sélectionnez un rayon d’angle à l’aide du curseur. Sélectionnez une position de gauche à droite : 0, 4, 8, 12 ou 16 pixels. La sélection 8 pixels (centre) est la valeur par défaut.
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. Sélectionnez une marge (activée ou désactivée). **** Onis est le paramètre par défaut.
+1. Sélectionnez une marge (activée ou désactivée). **Activé** est le paramètre par défaut.
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
-1. Cochez la case permettant de définir une action de rognage d’image.
+1. Cochez la case pour définir une action d’appui sur l’image.
 
    ![](assets/image2016-5-6-9-3a48-3a58.png)
 
@@ -85,12 +84,12 @@ C’est ici que vous choisissez et personnalisez vos images de messages in-app.
 
    >[!NOTE]
    >
-   >Pour les actions d’appui sur les images, les boutons ou les arrière-plans, vous pouvez configurer différentes actions pour les plateformes Apple et Android. Par exemple, les liens profonds sont gérés différemment pour Apple et Android. Si votre message ne s’adresse qu’à une seule plateforme ou à l’autre, laissez l’autre plateforme dans le paramètre par défaut ou sélectionnez **Aucun**.
+   >Pour les actions d’appui pour les images, les boutons ou les arrière-plans, vous pouvez configurer différentes actions pour les plateformes Apple et Android. Par exemple, les liens profonds sont gérés différemment pour Apple et Android. Si votre message ne concerne qu&#39;une seule plateforme ou l&#39;autre, laissez l&#39;autre dans le paramètre par défaut ou sélectionnez **Aucun**.
 
-Super travail ! Il est maintenant temps de [créer le texte de votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
+Bon travail ! Maintenant, il est temps de [créer le texte de votre message in-app ;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
 >[!MORELIKETHIS]
 >
->* [Présentation des messages in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Choisir une mise en page pour votre message intégré](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Présentation des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Choisir une mise en page pour votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 

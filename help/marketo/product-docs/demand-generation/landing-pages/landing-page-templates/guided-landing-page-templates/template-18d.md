@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 18D {#template-18d}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
+Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
 
 ![](assets/image2015-8-17-18-3a21-3a27.png)
 

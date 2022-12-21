@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359598
-description: Exporter le Tableau de bord de Programme de courriel vers Excel - Documents marketing - Documentation du produit
-title: Exporter le Tableau de bord de Programme de courriel vers Excel
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Exporter le tableau de bord du programme de courrier électronique vers Excel - Documents Marketo - Documentation du produit
+title: Exporter le tableau de bord du programme de courrier électronique vers Excel
+exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
+# Exporter le tableau de bord du programme de courrier électronique vers Excel {#export-email-program-dashboard-to-excel}
 
-# Exporter le Tableau de bord de Programme de courriel dans Excel {#export-email-program-dashboard-to-excel}
-
-Une fois que vous avez exécuté un programme de messagerie et que vous avez certaines données dans le tableau de bord, vous pouvez exporter ces données brutes afin d’exceller pour une plus grande analyse. Voici comment.
+Une fois que vous avez exécuté un programme de messagerie et que vous disposez de certaines données dans le tableau de bord, vous pouvez exporter ces données brutes vers Excel pour une analyse plus approfondie. Voici comment.
 
 1. Accédez à **Activités marketing**.
 
@@ -25,9 +24,9 @@ Une fois que vous avez exécuté un programme de messagerie et que vous avez cer
 
    >[!NOTE]
    >
-   >Si votre programme de messagerie n&#39;a pas encore démarré, un tableau de bord ne s&#39;affiche pas car il n&#39;y a aucune donnée à afficher.
+   >Si votre programme de messagerie n’a pas encore démarré, aucun tableau de bord ne s’affiche, car il n’y a aucune donnée à afficher.
 
-1. Il vous suffit de cliquer sur l&#39;icône Excel pour lancer l&#39;exportation.
+1. Il vous suffit de cliquer sur l’icône Excel pour lancer l’exportation.
 
    ![](assets/lifecycle.jpg)
 

@@ -1,19 +1,18 @@
 ---
 unique-page-id: 11384661
-description: Approbation d’un titre pour le contenu prédictif - Documents marketing - Documentation du produit
+description: Approbation d’un titre pour le contenu prédictif - Documents Marketo - Documentation du produit
 title: Approbation d’un titre pour le contenu prédictif
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
+# Approbation d’un titre pour le contenu prédictif {#approve-a-title-for-predictive-content}
 
-# Approuver un titre pour le contenu prédictif {#approve-a-title-for-predictive-content}
-
-Vous pouvez ajouter n’importe quel titre de votre page Tout le contenu au contenu prédictif en l’approuvant sur la page Tout le contenu ou dans la fenêtre contextuelle Modifier le contenu.
+Vous pouvez ajouter n’importe quel titre sur votre page Tout le contenu au contenu prédictif en l’approuvant sur la page Tout le contenu ou dans la fenêtre contextuelle Modifier le contenu .
 
 ## Toute la page de contenu {#all-content-page}
 
@@ -21,26 +20,26 @@ Vous pouvez ajouter n’importe quel titre de votre page Tout le contenu au cont
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Cliquez sur la liste déroulante **Actions de contenu** et sélectionnez **Approuver pour le contenu prédictif**.
+1. Cliquez sur le bouton **Actions de contenu** et sélectionnez **Approbation du contenu prédictif**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
-## Modifier la fenêtre contextuelle de contenu {#edit-content-pop-up}
+## Menu contextuel Modifier le contenu {#edit-content-pop-up}
 
-Vous pouvez également approuver les titres pour le contenu prédictif directement dans la fenêtre contextuelle Modifier le contenu.
+Vous pouvez également approuver les titres pour le contenu prédictif directement dans la fenêtre contextuelle Modifier le contenu .
 
-1. Passez la souris sur un élément de contenu et cliquez sur l’icône Modifier située à la fin de la ligne.
+1. Pointez sur un élément de contenu, puis cliquez sur l’icône de modification à la fin de la ligne.
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Cochez la case **Approuver pour le contenu prédictif** dans la fenêtre contextuelle Modifier le contenu, puis cliquez sur **Enregistrer**.
+1. Vérifiez les **Approbation du contenu prédictif** dans la fenêtre contextuelle Modifier le contenu , puis cliquez sur **Enregistrer**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
-Quelle que soit votre utilisation, l’icône Approuver pour le contenu prédictif s’affiche désormais dans la ligne.
+Quelle que soit la manière dont vous utilisez, l’icône Approuver pour le contenu prédictif s’affiche désormais dans la ligne.
 
 ![](assets/five.png)
 
-Vous pouvez maintenant voir le titre affiché sur la page Contenu prédictif.
+Vous pouvez maintenant voir le titre affiché sur la page Contenu prédictif .
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)

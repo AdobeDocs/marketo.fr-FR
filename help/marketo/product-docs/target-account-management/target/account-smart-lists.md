@@ -28,15 +28,15 @@ Voici comment identifier rapidement et précisément vos comptes à forte valeur
 
    ![](assets/account-smart-lists-2.png)
 
-1. Cliquez sur la liste déroulante **New** et sélectionnez **New Local Asset**.
+1. Cliquez sur le bouton **Nouveau** et sélectionnez **Nouvelle ressource locale**.
 
    ![](assets/account-smart-lists-3.png)
 
-1. Cliquez sur **Liste dynamique de compte**.
+1. Cliquez sur **Liste dynamique de comptes**.
 
    ![](assets/account-smart-lists-4.png)
 
-1. Saisissez un nom et cliquez sur **Créer** (la description et les libellés sont facultatifs).
+1. Saisissez un nom et cliquez sur **Créer** (La description et les étiquettes sont facultatives).
 
    ![](assets/account-smart-lists-5.png)
 
@@ -46,21 +46,21 @@ Votre liste dynamique de comptes a été créée. Voir ci-dessous les étapes de
 
 Les listes dynamiques de compte fonctionnent de la même manière que les listes dynamiques standard, à une exception notable : conteneurs.
 
-1. Pour définir votre liste dynamique de comptes, cliquez sur l’onglet **Règles de liste dynamique de comptes** .
+1. Pour définir votre liste dynamique de comptes, cliquez sur le bouton **Règles de liste intelligente des comptes** .
 
    ![](assets/account-smart-lists-6.png)
 
-1. Sélectionnez le ou les filtres de compte de votre choix. Dans cet exemple, nous choisissons _Le secteur industriel est celui des soins de santé_.
+1. Sélectionnez le ou les filtres de compte de votre choix. Dans cet exemple, nous choisissons _L&#39;industrie est la santé_.
 
    ![](assets/account-smart-lists-7.png)
 
    ![](assets/account-smart-lists-8.png)
 
-1. Sélectionnez votre ou vos filtres de personne(s) mappée(s). Dans cet exemple, nous choisissons _État : Californie_.
+1. Sélectionnez votre ou vos filtres de personne(s) mappée(s). Dans cet exemple, nous choisissons _État de Californie_.
 
    ![](assets/account-smart-lists-9.png)
 
-**Étape** facultative : C&#39;est là que les conteneurs entrent. Si vous choisissez un autre filtre de personne mise en correspondance, vous pouvez le déposer sous le premier, ou _dans_, ce qui crée un conteneur. Dans cet exemple, nous allons créer un conteneur en ajoutant _Le titre de la tâche est CFO_.
+**Étape facultative**: C&#39;est là que les conteneurs entrent. Si vous choisissez un autre filtre de personne mise en correspondance, vous pouvez le déposer sous le premier, ou _in_ créer un conteneur. Dans cet exemple, nous allons créer un conteneur en ajoutant _Titre de la tâche : CFO_.
 
 ![](assets/account-smart-lists-10.png)
 
@@ -70,7 +70,7 @@ Voici à quoi ressemblera le conteneur.
 
 >[!NOTE]
 >
->La création d’un conteneur de filtres crée une règle &quot;et&quot;, ce qui signifie qu’elle ne renverra que tous les résultats combinés. Dans cet exemple, tient compte d’un secteur de la santé, et se trouve en Californie _et_ avec une personne nommée CFO. Si vous ne souhaitez pas utiliser de conteneurs, déposez simplement le filtre en dessous/au-dessus de celui existant.
+>La création d’un conteneur de filtres crée une règle &quot;et&quot;, ce qui signifie qu’elle ne renverra que tous les résultats combinés. Dans cet exemple, tient compte d’un secteur de la santé et se trouve en Californie. _et_ avec quelqu&#39;un qui est listé comme directeur financier. Si vous ne souhaitez pas utiliser de conteneurs, déposez simplement le filtre en dessous/au-dessus de celui existant.
 
 Et voilà ! Consultez la section ci-dessous pour découvrir comment tirer parti de votre liste dynamique de comptes.
 
@@ -82,13 +82,13 @@ Et voilà ! Consultez la section ci-dessous pour découvrir comment tirer parti 
 
 Dans l’onglet Aperçu de votre liste dynamique de comptes, vous remarquerez quelques options d’action.
 
-**Export** : Cette opération exporte les résultats de votre liste dynamique de comptes au format CSV.
+**Exporter**: Cette opération exporte les résultats de votre liste dynamique de comptes au format CSV.
 
-**Cloner** : Effectue une copie de votre liste dynamique de compte.
+**Cloner**: Effectue une copie de votre liste dynamique de compte.
 
-**Envoyer au réseau publicitaire** : Envoie la liste à LinkedIn en tant que nouvelle audience mise en correspondance.
+**Envoyer au réseau publicitaire**: Envoie la liste à LinkedIn en tant que nouvelle audience mise en correspondance.
 
-Vous pouvez également référencer votre liste dynamique de compte dans une liste/campagne dynamique standard à l’aide du filtre _Personnes membres de la liste dynamique de compte_.
+Vous pouvez également référencer votre liste dynamique de compte dans une liste/campagne dynamique standard à l’aide de la variable _Liste dynamique des personnes membres du compte_ filtre.
 
 ![](assets/account-smart-lists-12.png)
 
@@ -100,4 +100,4 @@ Vous pouvez également référencer votre liste dynamique de compte dans une lis
 >
 >**Définition**
 >
->**Personnes membres de la liste** dynamique de compte : Dans ce cas, le mot &quot;membre&quot; fait référence au compte lui-même, de sorte que &quot;membre du peuple&quot; signifie les personnes réelles (enregistrements Marketo) dans ces comptes.
+>**Liste dynamique des personnes membres du compte**: Dans ce cas, le mot &quot;membre&quot; fait référence au compte lui-même, de sorte que &quot;membre du peuple&quot; signifie les personnes réelles (enregistrements Marketo) dans ces comptes.

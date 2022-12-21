@@ -32,15 +32,15 @@ Un compte de personne est synchronisé avec Marketo en tant qu’entreprise et e
 
 ## Comment puis-je différencier les comptes de commerce et de personne ? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Utilisez le filtre **Is Personson Account** dans votre liste dynamique pour séparer les comptes de personnes des comptes professionnels standard.
+Utilisez la variable **Est un compte de personne** filtrez dans votre liste dynamique pour séparer les comptes de personnes des comptes professionnels standard.
 
 ## Où les informations de mes comptes de personne sont-elles affichées dans Marketo Sales Insight ? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Les activités liées aux comptes de personnes s’affichent dans le panneau **Compte**.
+Les activités liées aux comptes de personnes s’affichent dans la variable **Compte** du panneau.
 
 >[!NOTE]
 >
->Les options **Ajouter à Marketo Campaign** et **Envoyer un courrier électronique** de Marketo Sales Insight ne sont actuellement pas disponibles pour les comptes de personne.
+>Marketo Sales Insight&#39;s **Ajouter à Marketo Campaign** et **Envoyer un courrier électronique** Actuellement, les options ne sont pas disponibles pour les comptes de personnes.
 
 ## Comment associer des opportunités à un compte de personne ? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -48,4 +48,4 @@ Marketo dépend du rôle de contact de l’opportunité pour déterminer la pers
 
 ## Quel champ d’adresse électronique dois-je utiliser pour les comptes de personne ? {#which-email-field-should-i-use-for-person-accounts}
 
-Il existe deux champs de courrier électronique pour un compte de personne. Utilisez le champ **Adresse électronique** de vos formulaires (et non **Adresse électronique de la personne**) pour vous assurer que la déduplication Marketo et d’autres traitements de courrier électronique fonctionnent correctement.
+Il existe deux champs de courrier électronique pour un compte de personne. Utilisez la variable **Adresse électronique** dans vos formulaires (et non dans le champ **Adresse électronique de la personne**) pour garantir le bon fonctionnement de la déduplication Marketo et des autres traitements des emails.

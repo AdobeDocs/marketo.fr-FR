@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2949720
-description: Moments intéressants Présentation - Marketo Docs - Documentation du produit
+description: Présentation des moments intéressants - Documents Marketo - Documentation du produit
 title: Présentation des moments intéressants
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '95'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Présentation des moments intéressants {#interesting-moments-overview}
 
-Vous pouvez utiliser l&#39;étape intéressante du flux de temps pour donner à votre équipe commerciale une visibilité sur les choses cool que vos pistes font dans une Campaign intelligente.
+Vous pouvez utiliser l’étape intéressante du flux d’un moment pour donner à votre équipe de vente une visibilité sur les actions intéressantes que vos pistes effectuent dans une campagne dynamique.
 
 ![](assets/image2016-1-27-11-3a1-3a53.png)
 
@@ -21,13 +20,13 @@ Vous pouvez utiliser l&#39;étape intéressante du flux de temps pour donner à 
 
    ![](assets/image2014-9-23-16-3a30-3a33.png)
 
-1. Définissez le texte à afficher par votre équipe commerciale.
+1. Définissez le texte que votre équipe de vente doit afficher.
 
    ![](assets/image2014-9-23-16-3a30-3a53.png)
 
 >[!TIP]
 >
->**Moins c&#39;est plus**. Travaillez avec votre équipe commerciale pour vous assurer que les moments intéressants sont vraiment intéressants.
+>**Moins c’est plus**. Collaborez avec votre équipe de vente pour vous assurer que les moments intéressants sont réellement intéressants.
 
 Vous pouvez également utiliser des jetons dans des moments intéressants pour créer des descriptions dynamiques vraiment utiles.
 

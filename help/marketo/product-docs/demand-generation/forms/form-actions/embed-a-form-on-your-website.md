@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359641
-description: Incorporer un formulaire sur votre site Web - Documents marketing - Documentation sur les produits
-title: Incorporer un formulaire sur votre site Web
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Incorporation d’un formulaire sur votre site web - Documents Marketo - Documentation du produit
+title: Incorporation d’un formulaire sur votre site web
+exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
+# Incorporation d’un formulaire sur votre site web {#embed-a-form-on-your-website}
 
-# Incorporer un formulaire sur votre site Web {#embed-a-form-on-your-website}
-
-Marketo vous permet d&#39;incorporer nos formulaires sur votre propre site Web. Voici comment accéder au code incorporé.
+Marketo vous permet d’incorporer nos formulaires à votre propre site web. Voici comment accéder au code incorporé.
 
 1. Accédez à **Activités marketing**.
 
@@ -27,13 +26,13 @@ Marketo vous permet d&#39;incorporer nos formulaires sur votre propre site Web. 
 
    >[!NOTE]
    >
-   >Le formulaire doit être approuvé pour que l&#39;élément **Code incorporé** soit visible/utilisable.
+   >Le formulaire doit être approuvé pour la variable **Code incorporé** à rendre visible/utilisable.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >**[Le](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** préremplissage de formulaire ne fonctionne pas lors de l’utilisation du code incorporé de formulaire sur vos propres pages  __ ou landing page Marketing Cloud. Le préremplissage de formulaire est destiné uniquement à fonctionner lorsque le formulaire est utilisé dans un landing page Marketo via l’option Insérer un élément.
+   >**[Préremplissage de formulaire](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** ne fonctionne pas lors de l’utilisation du code incorporé du formulaire sur vos propres pages _ou_ une landing page Marketo. Le préremplissage de formulaire est destiné à fonctionner uniquement lorsque le formulaire est utilisé dans une landing page Marketo via l’option Insérer un élément .
 
 1. Sélectionnez/Copiez le code incorporé, puis cliquez sur **Fermer**.
 
@@ -41,12 +40,12 @@ Marketo vous permet d&#39;incorporer nos formulaires sur votre propre site Web. 
 
 >[!TIP]
 >
->Une fois que le code est incorporé à votre site Web, toute modification apportée au formulaire dans Marketo sera répercutée sur votre site dès l’approbation du formulaire. Il n’est pas nécessaire d’apporter davantage de modifications au code.
+>Une fois le code incorporé sur votre site web, toute modification apportée au formulaire dans Marketo sera répercutée sur votre site lors de l’approbation du formulaire. Vous n’avez pas besoin d’apporter d’autres modifications au code.
 
-Maintenant, donnez simplement le code incorporé à votre développeur Web et demandez-lui de l’ajouter à votre site.
+Maintenant, donnez simplement le code incorporé à votre développeur web et demandez-lui de l’ajouter à votre site.
 
 >[!NOTE]
 >
->Si votre développeur souhaite personnaliser l’apparence ou accéder aux fonctions avancées de l’API, affichez-lui la [page des développeurs Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/).
+>Si votre développeur souhaite personnaliser l’aspect ou accéder à des fonctions d’API avancées, affichez-lui la variable [Page des développeurs Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/).
 
-Super boulot ! Souhaitez-vous que le code [incorporé inclut le code de boîte lumineuse](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md) ? C&#39;est aussi facile !
+Bon boulot ! Voulez-vous que la variable [code incorporé pour inclure du code Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? C&#39;est aussi facile !

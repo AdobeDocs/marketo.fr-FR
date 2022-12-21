@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146950
-description: Attendre - Documentation Marketo - Documentation du produit
+description: Attente - Documents Marketo - Documentation du produit
 title: Attendre
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
@@ -13,21 +12,21 @@ ht-degree: 2%
 
 # Attendre {#wait}
 
-## Aperçu {#overview}
+## APERÇU {#overview}
 
-Mettez une personne en pause dans un flux de campagne dynamique à l’aide de l’**étape d’attente** pratique.
+Mettez une personne dans un flux de campagne dynamique à l’aide de la méthode pratique **étape d’attente**.
 
 ![](assets/wait-overview.png)
 
-Vous pouvez saisir du texte dans un langage naturel tel que &quot;4 heures&quot;. Toutefois, ne **pas** abréger les mots (c&#39;est-à-dire 4 heures). La campagne intelligente continuerait à s’exécuter, mais l’étape d’attente serait ignorée.
+Remarquez comment vous pouvez taper en langage naturel comme &quot;4 heures&quot;. Do **not**, toutefois, abréger les mots (c’est-à-dire, 4 heures). La campagne dynamique s’exécute toujours, mais l’étape d’attente est ignorée.
 
 >[!CAUTION]
 >
->La modification de la durée d’une étape d’attente n’affectera pas les personnes qui y sont déjà entrées. Par exemple : vous avez une étape d&#39;attente de 5 jours, une personne y entre, vous changez ensuite l&#39;étape d&#39;attente de 7 jours - cette personne n&#39;attendra que les 5 premiers jours avant de passer à l&#39;étape suivante.
+>La modification de la durée d’une étape d’attente n’affecte pas les personnes qui y ont déjà participé. Par exemple : vous avez une étape d’attente de 5 jours, une personne y accède, puis vous définissez l’étape d’attente sur 7 jours. cette personne n’attendra que les 5 jours d’origine avant de passer à l’étape suivante.
 
 >[!TIP]
 >
->Si vous avez déjà une personne en attente et que vous ne souhaitez pas qu’elle avance après la fin de la période d’attente, insérez [supprimer du flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) juste après l’étape d’attente. Spécifiez qui vous souhaitez supprimer en utilisant l&#39;option [ajouter choice](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md).
+>Si vous avez déjà un utilisateur dans une étape d’attente et que vous ne souhaitez pas qu’il avance une fois la période d’attente terminée, insérez [supprimer du flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) juste après l’étape d’attente. Indiquez qui vous souhaitez supprimer en utilisant la variable [ajouter un choix](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) .
 
 ## Utilisation {#usage}
 

@@ -14,14 +14,14 @@ ht-degree: 3%
 
 ## Marketo Moments {#marketo-moments}
 
-À l’heure du déjeuner, mais avez-vous besoin de reprogrammer un email ? L’application Marketo Moments, disponible sur l’App Store ou Google Play, vous permet de visualiser les performances de vos campagnes par e-mail et d’événement en temps réel, ainsi que ce qui se profile à l’avenir, depuis votre iPhone, iPad ou téléphone Android.
+À l’heure du déjeuner, mais avez-vous besoin de reprogrammer un email ? L’application Marketo Moments, disponible depuis App Store ou Google Play, vous permet de visualiser les performances de vos campagnes par e-mail et d’événement en temps réel, ainsi que les performances à venir, depuis votre téléphone iPhone, iPad ou Android.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## Mise à jour de l’éditeur de texte enrichi {#rich-text-editor-update}
 
-Mise à jour de l’éditeur de texte avec une apparence moderne, notamment la mise en forme simplifiée du texte, l’édition d’images, l’insertion de liens et l’édition HTML. L’éditeur HTML dispose désormais d’une validation minimale, ce qui permet une modification du code moins restrictive.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Cette mise à jour sera automatiquement déployée dans les quelques jours suivant la publication de juillet. Par la suite, vous pourrez basculer entre les versions nouvelles et héritées de l’éditeur à partir de **Admin > Email > Modifier les paramètres de l’éditeur**.
+Mise à jour de l’éditeur de texte avec une apparence moderne, notamment la mise en forme simplifiée du texte, la modification d’images, l’insertion de liens et la modification de HTMLS. L’éditeur de HTML présente désormais une validation minimale, ce qui permet une modification du code moins restrictive.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Cette mise à jour sera automatiquement déployée dans les quelques jours suivant la publication de juillet. Par la suite, vous pourrez basculer entre les versions Nouvelle et Héritée de l’éditeur à partir de **Admin > Email > Modifier les paramètres de l’éditeur**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -47,10 +47,10 @@ Avez-vous configuré plusieurs campagnes RTP personnalisées et remarqué que ce
 
 ## API de société {#company-api}
 
-**Accès aux objets de la société via l&#39;API** REST : L’API REST permet désormais d’accéder à l’objet Société Marketo (alias Compte). Cela signifie que vous pouvez lire, mettre à jour et supprimer les objets d’entreprise que vous avez créés dans Marketo et associer des pistes à ces sociétés à l’aide de l’API de piste mise à jour.
+**Accès aux objets de la société via l’API REST**: L’API REST permet désormais d’accéder à l’objet Société Marketo (alias Compte). Cela signifie que vous pouvez lire, mettre à jour et supprimer les objets d’entreprise que vous avez créés dans Marketo et associer des pistes à ces sociétés à l’aide de l’API de piste mise à jour.
 
-Découvrez [plus](https://developers.marketo.com/documentation/company-api/) dans notre guide de référence pour l’API d’entreprise.
+En savoir plus [more](https://developers.marketo.com/documentation/company-api/) dans notre guide de référence pour l’API d’entreprise.
 
 ## Accès à la délivrabilité des emails {#access-email-deliverability}
 
-**Accéder à l&#39;outil de délivrabilité des emails** : Cette nouvelle autorisation permet aux administrateurs d’accorder aux utilisateurs l’accès à l’outil de délivrabilité des emails.
+**Accès à l’outil de délivrabilité des emails**: Cette nouvelle autorisation permet aux administrateurs d’accorder aux utilisateurs l’accès à l’outil de délivrabilité des emails.

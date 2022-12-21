@@ -1,16 +1,15 @@
 ---
 unique-page-id: 14352486
-description: Pourquoi certains de mes contacts ne sont-ils pas envoyés à Sales Connect ? - Documents marketing - Documentation du produit
-title: Pourquoi certains de mes contacts ne sont-ils pas envoyés à Sales Connect ?
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Pourquoi l’un de mes contacts n’est-il pas amené à Sales Connect ? - Documents Marketo - Documentation du produit
+title: Pourquoi l’un de mes contacts n’est-il pas amené à Sales Connect ?
+exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
+# Pourquoi l’un de mes contacts n’est-il pas amené à Sales Connect ? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-# Pourquoi certains de mes contacts ne sont-ils pas envoyés à Sales Connect ? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
-
-Si aucun contact n&#39;a été transféré, il est possible que vous ayez une connexion Salesforce non valide. Accédez à vos [paramètres Salesforce](https://toutapp.com/login) et déconnectez-vous, puis reconnectez-vous. Donnez-lui environ 20 minutes pour la réinitialiser complètement. S&#39;il est toujours nul après cela, veuillez [soumettre un cas](https://nation.marketo.com/t5/Support/ct-p/Support#) à l&#39;assistance.
+Si aucun contact n’a été transmis, il est possible que vous ayez une connexion Salesforce non valide. Accédez à [Paramètres Salesforce](https://toutapp.com/login) et déconnectez-vous, puis reconnectez-vous. Patientez environ 20 minutes pour la réinitialisation complète. S&#39;il reste zéro après ça, s&#39;il vous plaît. [soumettre un cas](https://nation.marketo.com/t5/Support/ct-p/Support#) à l’assistance.

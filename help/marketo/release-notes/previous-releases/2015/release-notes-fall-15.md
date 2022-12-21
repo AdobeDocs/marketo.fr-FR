@@ -54,7 +54,7 @@ Cette mise à jour comprend de nombreuses nouvelles fonctionnalités :
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Engagement Marketo Mobile : jetons, envoi d’un exemple et aperçu {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Engagement pour Marketo Mobile - Jetons, Envoyer un exemple et Aperçu {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Jetons](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Envoyer un échantillon](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)

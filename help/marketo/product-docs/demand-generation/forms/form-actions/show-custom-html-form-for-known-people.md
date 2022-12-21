@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359644
-description: Afficher un formulaire HTML personnalisé pour les personnes connues - Documents marketing - Documentation du produit
-title: Afficher un formulaire HTML personnalisé pour les personnes connues
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Afficher le formulaire de HTML personnalisé pour les personnes connues - Documents Marketo - Documentation du produit
+title: Afficher le formulaire de HTML personnalisé pour les personnes connues
+exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
+# Afficher le formulaire de HTML personnalisé pour les personnes connues {#show-custom-html-form-for-known-people}
 
-# Afficher le formulaire HTML personnalisé pour les personnes connues {#show-custom-html-form-for-known-people}
-
-Si un visiteur fait l&#39;objet d&#39;un cookie (personne connue qui a fourni une adresse électronique dans le passé), pourquoi se soucier du formulaire ? Donnez-leur juste le bouton de téléchargement. Voici comment.
+Si un visiteur est cookie (personne connue ayant fourni une adresse email dans le passé), alors pourquoi s’embêter avec le formulaire ? Donne-leur juste le bouton de téléchargement. Voici comment.
 
 1. Accédez à **Activités marketing**.
 
@@ -23,19 +22,19 @@ Si un visiteur fait l&#39;objet d&#39;un cookie (personne connue qui a fourni un
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Sous **Paramètres du formulaire**, cliquez sur **Paramètres**.
+1. Sous **Paramètres de formulaire**, cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Définissez Si **Visiteur connu, Afficher** : à **HTML personnalisé**.
+1. Définir si **Visiteur connu, Afficher**: to **HTML personnalisé**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Cliquez sur ![—](assets/image2014-9-25-14-3a1-3a26.png) pour modifier le **code HTML personnalisé** qui sera présenté aux personnes connues.
+1. Cliquez sur le bouton ![—](assets/image2014-9-25-14-3a1-3a26.png) pour modifier la variable **HTML personnalisé** qui sera montré à des gens connus.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
-1. Il y a du contenu par défaut, mais n&#39;hésitez pas à le modifier.
+1. Il y a du contenu par défaut, mais n’hésitez pas à le modifier.
 
    ![](assets/image2014-9-15-12-3a25-3a49.png)
 
@@ -43,14 +42,14 @@ Si un visiteur fait l&#39;objet d&#39;un cookie (personne connue qui a fourni un
 
    | Jeton | Description |
    |---|---|
-   | `{{lead.FirstName}}` | Le prénom de la personne s&#39;affichera. |
-   | `{{lead.LastName}}` | Le nom de famille de la personne s&#39;affichera alors. |
-   | `{{form.Button:default=Download}}` | Le bouton du formulaire s’affiche alors. Remplacez la zone située après `=` pour modifier le texte du bouton. |
-   | `{{form.NotYou:default=Not you?}}` | Ceci affiche un lien au cas où la personne serait une autre. Remplacez la zone située après `=` pour modifier le texte du lien. |
+   | `{{lead.FirstName}}` | Le prénom de la personne s’affiche. |
+   | `{{lead.LastName}}` | Le nom de la personne s’affiche alors. |
+   | `{{form.Button:default=Download}}` | Le bouton du formulaire s’affiche alors. Remplacez la zone située après la balise `=` pour modifier le texte du bouton. |
+   | `{{form.NotYou:default=Not you?}}` | Un lien s’affiche alors si la personne est une autre. Remplacez la zone située après la balise `=` pour modifier le texte du lien. |
 
    >[!CAUTION]
    >
-   >Seuls les quatre jetons ci-dessus peuvent être utilisés. Aucun autre jeton ne fonctionnera ici.
+   >Seuls les quatre jetons ci-dessus peuvent être utilisés. Tout autre jeton ne fonctionnera pas ici.
 
 1. Cliquez sur **Terminer**.
 
@@ -60,15 +59,15 @@ Si un visiteur fait l&#39;objet d&#39;un cookie (personne connue qui a fourni un
 
    >[!NOTE]
    >
-   >Le formulaire doit être approuvé pour être utilisé sur les landings page.
+   >Le formulaire doit être validé pour être utilisé sur les landing pages.
 
    ![](assets/image2014-9-15-12-3a27-3a53.png)
 
    >[!NOTE]
    >
-   >N&#39;oubliez pas d&#39;[approuver le brouillon de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+   >N’oubliez pas de [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
-   Un morceau de gâteau ! Voyez ce qu&#39;une personne verrait s&#39;elle revenait sur le même formulaire :
+   Un morceau de gâteau ! Vérifiez ce qu&#39;une personne verrait si elle revenait au même formulaire :
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 

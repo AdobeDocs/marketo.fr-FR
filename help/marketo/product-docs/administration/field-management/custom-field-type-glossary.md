@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2951259
-description: Glossaire de type de champ personnalisé - Documentation Marketo - Documentation du produit
+description: Glossaire du type de champ personnalisé - Documents Marketo - Documentation du produit
 title: Glossaire du type de champ personnalisé
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
@@ -13,7 +12,7 @@ ht-degree: 2%
 
 # Glossaire du type de champ personnalisé {#custom-field-type-glossary}
 
-Lorsque vous créez un champ personnalisé dans Marketo, vous disposez d’une liste de types parmi lesquels choisir.
+Lorsque vous créez un champ personnalisé dans Marketo, vous avez le choix entre une liste de types.
 
 >[!PREREQUISITES]
 >
@@ -21,81 +20,81 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous disposez d’une l
 
 >[!TIP]
 >
->Selon le type de champ, les opérateurs de filtre/déclencheur [](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) seront différents.
+>Selon le type de champ, filtrer/déclencher [opérateurs](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) sera différent.
 
 >[!NOTE]
 >
->La plupart des champs n’excèdent pas le nombre de caractères, mais le nombre d’octets. Pour cette raison, nous ne pouvons pas fournir une limite de caractères définitive pour chaque champ. L’exception est **String**, qui dépasse 255 caractères.
+>La plupart des champs ne peuvent pas dépasser le nombre de caractères, mais plutôt le nombre d’octets. Pour cette raison, nous ne pouvons pas fournir de limite de caractères définitive pour chaque champ. L’exception est **Chaîne**, qui peut contenir jusqu’à 255 caractères.
 
 ## Booléenne {#boolean}
 
-**Exemple de nom :** Est-ce que le client - Identifier vos clients
+**Exemple de nom :** Est client : marquez vos clients comme des clients
 
 **Exemples de valeurs :** True (coché) / False (non coché)
 
-**Opérateurs** : Aucun
+**Opérateurs**: Aucun
 
 ## Devise {#currency}
 
-**Exemple de nom :** Budget - Stocker une valeur numérique pour un budget de société
+**Exemple de nom :** Budget : stocke une valeur numérique pour le budget d’une entreprise.
 
-**Exemples de valeurs:** 100
+**Exemples de valeurs :** 100
 
-**Opérateurs** : est, n&#39;est pas, entre, plus grand que, inférieur, au moins, est vide, n&#39;est pas vide, n&#39;est pas vide
+**Opérateurs**: est, n’est pas, entre, supérieur à, inférieur à, au moins, est vide, n’est pas vide
 
 ## Date {#date}
 
-**Exemple de nom : Date de** renouvellement - Stocker les dates de renouvellement de vos clients
+**Exemple de nom :** Date de renouvellement - Stocker les dates de renouvellement de vos clients
 
-**Exemples de valeurs : 19/** 8/14
+**Exemples de valeurs :** 8/19/14
 
-**Opérateurs** : est, n&#39;est pas, entre, dans le passé, dans le passé avant, dans le futur après, dans le cadre de la période, après, avant, avant, le ou après, le ou avant, est vide, n&#39;est pas vide
+**Opérateurs**: est, n’est pas, entre, dans le passé, dans le passé avant, dans le futur après, dans la période, après, avant, après, après ou après, sur ou avant, est vide, n’est pas vide
 
 ## Datetime {#datetime}
 
-**Exemple de nom : Date de** création - Stocke la date et l&#39;heure de création d&#39;une personne
+**Exemple de nom :** Date de création : stocke la date et l’heure de création d’une personne.
 
-**Exemples de valeurs : 19/** 8/14 2:00
+**Exemples de valeurs :** 8/19/14 02:00
 
-**Opérateurs** : est, n&#39;est pas, entre, dans le passé, dans le passé avant, dans le futur après, dans le cadre de la période, après, avant, avant, le ou après, le ou avant, est vide, n&#39;est pas vide
+**Opérateurs**: est, n’est pas, entre, dans le passé, dans le passé avant, dans le futur après, dans la période, après, avant, après, après ou après, sur ou avant, est vide, n’est pas vide
 
-## E-mails {#email}
+## Adresse e-mail {#email}
 
-**Exemple de nom :** Autre adresse électronique : conservez une autre adresse électronique pour vos utilisateurs (il n’est pas possible d’envoyer des courriers électroniques à ce champ comme le champ d’adresse électronique par défaut, celui-ci étant spécial).
+**Exemple de nom :** Autre adresse électronique : conservez une autre adresse électronique pour vos personnes (ne peut pas envoyer de courriers électroniques à ce champ comme le champ d’adresse électronique par défaut, celui-ci est spécial).
 
-**Exemple de valeur:** name@company.com
+**Exemples de valeurs :** name@company.com
 
-**Opérateurs** : est, n’est pas, les débuts avec, et non les débuts avec, contient, ne contient pas, est vide, n’est pas vide
+**Opérateurs**: est, n’est pas, commence par, ne commence pas par, contient, ne contient pas, est vide, n’est pas vide
 
 ## Flottante {#float}
 
-**Exemple Nom : Moyenne des points de** note - Conserver la moyenne des points de note d&#39;une personne ou toute autre valeur numérique ayant des décimales
+**Exemple de nom :** Moyenne par point d’évaluation : permet de conserver la moyenne par point d’évaluation d’une personne ou toute autre valeur numérique ayant des décimales.
 
-**Exemples de valeurs:** 2.47
+**Exemples de valeurs :** 2,47
 
-**Opérateurs** : entre, supérieur à, inférieur, au moins, est vide, n&#39;est pas vide
+**Opérateurs**: entre, supérieur à, inférieur à, au moins, est vide, n’est pas vide
 
 ## Formule {#formula}
 
-**Exemple de nom :** Salutations - utilisez ce champ spécial dans une  [solution pour obtenir la ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) salutation appropriée en fonction du sexe
+**Exemple de nom :** Salutations : utilisez ce champ spécial dans une [solution pour obtenir la formule de salutation appropriée](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) selon le genre
 
-**Exemple de valeur:** vérification de la solution liée
+**Exemples de valeurs :** vérifier la solution liée
 
 ## Entier {#integer}
 
-**Exemple de nom :** Nombre d’employés - stockez une valeur numérique qui ne nécessite pas de décimales.
+**Exemple de nom :** Nombre d’employés : stocke une valeur numérique qui ne nécessite pas de décimales.
 
-**Exemples de valeurs:** 600
+**Exemples de valeurs :** 600
 
-**Opérateurs** : est, n&#39;est pas, entre, plus grand que, inférieur, au moins, est vide, n&#39;est pas vide, n&#39;est pas vide
+**Opérateurs**: est, n’est pas, entre, supérieur à, inférieur à, au moins, est vide, n’est pas vide
 
 ## Pourcentage {#percent}
 
-**Exemple de nom :** Achats probables - stockez un pourcentage de valeur (calculé peut-être du côté CRM)
+**Exemple de nom :** Probablement à acheter : stockez une valeur en pourcentage (peut-être calculée côté CRM).
 
 **Exemples de valeurs :** 85 %
 
-**Opérateurs** : est, n&#39;est pas, entre, plus grand que, inférieur, au moins, est vide, n&#39;est pas vide, n&#39;est pas vide
+**Opérateurs**: est, n’est pas, entre, supérieur à, inférieur à, au moins, est vide, n’est pas vide
 
 ## Téléphone {#phone}
 
@@ -103,15 +102,15 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous disposez d’une l
 
 **Exemple de valeur :** 650-555-5555
 
-**Opérateurs** : est, n’est pas, les débuts avec, et non les débuts avec, contient, ne contient pas, est vide, n’est pas vide
+**Opérateurs**: est, n’est pas, commence par, ne commence pas par, contient, ne contient pas, est vide, n’est pas vide
 
 ## Évaluation {#score}
 
-**Exemple de nom : score** comportemental / score démographique - créez plusieurs champs de score pour suivre les différents attributs.
+**Exemple de nom :** Score comportemental/Score démographique : créez plusieurs champs de score pour effectuer le suivi des différents attributs.
 
 **Exemple de valeur :** 14
 
-**Opérateurs** : est, n&#39;est pas, entre, plus grand que, inférieur, au moins, est vide, n&#39;est pas vide, n&#39;est pas vide
+**Opérateurs**: est, n’est pas, entre, supérieur à, inférieur à, au moins, est vide, n’est pas vide
 
 ## Chaîne {#string}
 
@@ -119,20 +118,20 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous disposez d’une l
 
 **Exemple de valeur :** Rose
 
-**Opérateurs** : est, n’est pas, les débuts avec, et non les débuts avec, contient, ne contient pas, est vide, n’est pas vide
+**Opérateurs**: est, n’est pas, commence par, ne commence pas par, contient, ne contient pas, est vide, n’est pas vide
 
 ## Zone de texte {#text-area}
 
-**Exemple de nom :** Commentaires : ajoutez un champ de commentaires à vos formulaires pour autoriser la saisie de texte multiligne
+**Exemple de nom :** Commentaires : ajoutez un champ de commentaires à vos formulaires pour autoriser la saisie de texte multiligne.
 
 **Exemple de valeur :** Cet article est fantastique !
 
-**Opérateurs** : est, n’est pas, les débuts avec, et non les débuts avec, contient, ne contient pas, est vide, n’est pas vide
+**Opérateurs**: est, n’est pas, commence par, ne commence pas par, contient, ne contient pas, est vide, n’est pas vide
 
 ## URL {#url}
 
-**Exemple de nom :** blog - créez un champ pour stocker les URL de blog d&#39;une personne
+**Exemple de nom :** Blog : créez un champ pour stocker les URL de blog d’une personne.
 
 **Exemple de valeur :** www.myblog.com
 
-**Opérateurs** : est, n’est pas, les débuts avec, et non les débuts avec, contient, ne contient pas, est vide, n’est pas vide
+**Opérateurs**: est, n’est pas, commence par, ne commence pas par, contient, ne contient pas, est vide, n’est pas vide

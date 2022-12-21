@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 19B {#template-19b}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 

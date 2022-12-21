@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 8C {#template-8c}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
+Cliquez avec le bouton droit de la souris sur [Télécharger le modèle 8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
 
 ![](assets/image2015-7-29-14-3a12-3a24.png)
 

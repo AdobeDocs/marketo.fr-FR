@@ -1,21 +1,20 @@
 ---
 unique-page-id: 14745655
-description: Rendre un Campaign visible pour les utilisateurs de Sales Connect - Marketo Docs - Documentation sur les produits
-title: Rendre un Campaign visible pour les utilisateurs de Sales Connect
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Rendre une campagne visible pour les utilisateurs de Sales Connect - Documents Marketo - Documentation du produit
+title: Rendre une campagne visible pour les utilisateurs de Sales Connect
+exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
-# Rendre un Campaign visible pour les utilisateurs de Sales Connect {#make-a-campaign-visible-to-sales-connect-users}
+# Rendre une campagne visible pour les utilisateurs de Sales Connect {#make-a-campaign-visible-to-sales-connect-users}
 
 Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Voici comment faire ça.
 
-1. Sélectionnez (ou créez) le Campaign que vous souhaitez partager.
+1. Sélectionnez (ou créez) la campagne que vous souhaitez partager.
 
    ![](assets/one.png)
 
@@ -23,11 +22,11 @@ Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Vo
 
    ![](assets/two.png)
 
-1. Ajouter le déclencheur Campaign is Requested.
+1. Ajoutez le déclencheur Campaign is Requested (La campagne est demandée).
 
    ![](assets/three.png)
 
-1. Pour la source, sélectionnez &quot;is&quot; **API de service Web**.
+1. Pour la source, choisissez &quot;is&quot; **API Web Service**.
 
    ![](assets/4.png)
 
@@ -35,7 +34,7 @@ Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Vo
 
    ![](assets/five.png)
 
-1. Ajoutez l’action de flux Moment intéressant.
+1. Ajoutez l’action de flux Moment intéressant .
 
    ![](assets/six.png)
 
@@ -47,6 +46,6 @@ Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Vo
 
    ![](assets/eight.png)
 
-1. Cliquez sur l&#39;onglet **Planification** et **Activer** la campagne.
+1. Cliquez sur le bouton **Planification** et **Activer** la campagne.
 
    ![](assets/nine.png)

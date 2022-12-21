@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147136
-description: Modification des entrées dans la Vue de Planning du programme - Marketo Docs - Documentation du produit
-title: Modification des entrées dans la Vue de Planning du programme
+description: Modification des entrées dans la vue Planification du programme - Documents Marketo - Documentation du produit
+title: Modification des entrées en mode Planification du programme
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Modification des entrées dans la Vue de Planning du programme {#editing-entries-in-the-program-schedule-view}
+# Modification des entrées en mode Planification du programme {#editing-entries-in-the-program-schedule-view}
 
-Vous pouvez apporter des modifications aux différents éléments de votre programme dans la vue de planification.
+Vous pouvez apporter des modifications aux différents éléments de votre programme dans la vue Planning.
 
-## Modifier le nom d’une entrée {#edit-an-entrys-name}
+## Modification du nom d’une entrée {#edit-an-entrys-name}
 
 1. Sélectionnez l’entrée que vous souhaitez modifier.
 
@@ -27,9 +26,9 @@ Vous pouvez apporter des modifications aux différents éléments de votre progr
 
 >[!CAUTION]
 >
->Cela ne modifie que le nom d&#39;affichage dans la vue de planification. Le nom de la ressource dans votre programme reste identique.
+>Cela modifie uniquement le nom d’affichage dans la vue de planification. Le nom de la ressource de votre programme reste le même.
 
-## Modifier la description d’une entrée {#edit-an-entrys-description}
+## Modification de la description d’une entrée {#edit-an-entrys-description}
 
 1. Cliquez sur l’icône de description.
 
@@ -39,18 +38,18 @@ Vous pouvez apporter des modifications aux différents éléments de votre progr
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. Fantastique ! Votre description a été modifiée.
+1. Fantastique ! Votre description a maintenant été modifiée.
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
-## Modifier la date d’une entrée {#edit-an-entrys-date}
+## Modification de la date d’une entrée {#edit-an-entrys-date}
 
 1. Sélectionnez la nouvelle date.
 
    ![](assets/image2014-9-18-18-3a4-3a39.png)
 
-Vous faites du rock ! Maintenant, la date de votre inscription a été déplacée à une nouvelle date.
+Espèce de caillou ! La date de votre saisie a maintenant été déplacée vers une nouvelle date.
 
 >[!NOTE]
 >
-> Les entrées de campagne intelligente et de programme électronique qui ont déjà été exécutées ne peuvent pas être déplacées par le passé.
+> Les entrées de programme de campagne intelligente et de courrier électronique qui ont déjà été exécutées ne peuvent pas être déplacées vers le passé.

@@ -1,34 +1,33 @@
 ---
 unique-page-id: 2359463
-description: Approbation d'un extrait de code - Documents marketing - Documentation du produit
-title: Approbation d’un extrait de code
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Approbation d’un fragment de code - Documents Marketo - Documentation du produit
+title: Approbation d’un fragment de code
+exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-
-# Approuver un extrait de code {#approve-a-snippet}
+# Approbation d’un fragment de code {#approve-a-snippet}
 
 >[!PREREQUISITES]
 >
->[Ajouter du contenu à un extrait de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[Ajout de contenu à un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
-Un extrait de code doit être approuvé avant son utilisation.
+Un fragment de code doit être approuvé avant utilisation.
 
-1. Accédez à **Design Studio**.
+1. Accédez au **Design Studio**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Cliquez sur votre **extrait de code**. Sous **Snippet Actions**, cliquez sur **Approuver**.
+1. Cliquez sur **Fragment de code**. Sous **Actions de fragment de code**, cliquez sur **Approuver**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-C&#39;est tout ! L’état de votre extrait de code passe de Version préliminaire à Approuvé.
+C&#39;est tout ! L’état de votre extrait de code passe de Brouillon à Approuvé.
 
 >[!MORELIKETHIS]
 >
->[Approuver un extrait de code sans brouillon](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[Approbation d’un fragment de code sans brouillon](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)

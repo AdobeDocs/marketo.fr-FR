@@ -1,62 +1,61 @@
 ---
 unique-page-id: 4718651
-description: Présentation de la zone d'Analyse des courriels - Documents marketing - Documentation du produit
-title: Présentation de la zone d'Analyse du courrier électronique
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Présentation de la zone d’analyse des emails - Documents Marketo - Documentation du produit
+title: Présentation de la zone d’analyse des emails
+exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Présentation de la zone d’analyse des emails {#understanding-the-email-analysis-area}
 
-# Présentation de la zone d&#39;Analyse de courriel {#understanding-the-email-analysis-area}
-
-La zone d’Analyse des courriels est axée sur les mesures des courriels. Cet article présente tous les rapports disponibles.
+La zone d’analyse des emails est axée sur les mesures des emails. Cet article présente tous les rapports qui y sont disponibles.
 
 >[!AVAILABILITY]
 >
->Cette option est disponible pour les utilisateurs disposant de l’édition Select ou du module complémentaire [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Contactez votre représentant commercial pour plus de détails.
+>Cette option est disponible pour les utilisateurs disposant de l’option Select Edition ou [Analyse du cycle des recettes](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) module complémentaire . Contactez votre représentant commercial pour plus d&#39;informations.
 
-## Grille de chaleur d&#39;Activité de clic électronique {#email-click-activity-heat-grid}
+## Grille de chaleur de l’activité des clics par e-mail {#email-click-activity-heat-grid}
 
-Ce rapport vous montre le jour de la semaine et l&#39;heure à laquelle vos prospects cliquent sur les courriels. Plus la zone est verte, plus le nombre de clics est élevé dans ce jour et cette heure spécifiques. Le filtre actuel inclut tous les courriers électroniques envoyés au cours des 7 derniers jours. Le temps est compté au CST.
+Ce rapport vous indique le jour de la semaine et l’heure de la journée où vos prospects cliquent sur les emails. Plus la zone est verte, plus le nombre de clics effectués ce jour et cette heure spécifiques est élevé. Le filtre en cours inclut tous les emails envoyés au cours des 7 derniers jours. Le temps est compté dans le CST.
 
 ![](assets/image2015-5-6-17-3a17-3a34.png)
 
-## Distribution de temps après clic par courriel {#email-clicked-time-distribution}
+## Répartition de l’heure des clics par courriel {#email-clicked-time-distribution}
 
-Ce rapport présente le pourcentage du nombre total de clics par courriel pour chaque heure de la journée. Le filtre actuel inclut tous les courriers électroniques envoyés au cours des 7 derniers jours. Le temps est compté au CST.
+Ce rapport présente le pourcentage du nombre total de clics par courrier électronique pour chaque heure de la journée. Le filtre en cours inclut tous les emails envoyés au cours des 7 derniers jours. Le temps est compté dans le CST.
 
 ![](assets/image2015-5-6-17-3a20-3a55.png)
 
-## Baisse du taux de clics par courriel {#email-click-rate-decay}
+## Décroissance du taux de clics par e-mail {#email-click-rate-decay}
 
-Ce rapport présente le pourcentage de clics par courriel effectués le même jour que l’envoi d’un courriel et les jours suivants. Le filtre actuel inclut tous les courriers électroniques envoyés il y a 7 jours.
+Ce rapport présente le pourcentage du nombre total de clics par courrier électronique effectués le même jour que l’envoi d’un courrier électronique et les jours suivants. Le filtre actuel inclut tous les emails envoyés il y a 7 jours.
 
 ![](assets/image2015-5-6-17-3a26-3a50.png)
 
-## Grille de chaleur d&#39;Activité ouverte par courriel {#email-open-activity-heat-grid}
+## Grille de chaleur de l’activité d’ouverture de courrier électronique {#email-open-activity-heat-grid}
 
-Ce rapport vous montre le jour de la semaine et l&#39;heure d&#39;ouverture des courriers électroniques de vos pistes. Plus la boîte est verte, plus elle s&#39;ouvre le jour et l&#39;heure. Le filtre actuel inclut tous les courriers électroniques envoyés au cours des 7 derniers jours. Le temps est compté au CST.
+Ce rapport vous indique le jour de la semaine et l’heure de la journée où vos pistes ouvrent des emails. Plus la boîte est verte, plus elle s’ouvre un jour et une heure spécifiques. Le filtre en cours inclut tous les emails envoyés au cours des 7 derniers jours. Le temps est compté dans le CST.
 
 ![](assets/image2015-5-6-17-3a30-3a35.png)
 
-## Décalage de taux ouvert {#open-rate-decay}
+## Décroissance du taux d’ouverture {#open-rate-decay}
 
-Ce rapport indique le pourcentage du nombre total d’ouvertures de courrier électronique survenues le jour même de l’envoi d’un courrier électronique et les jours suivants. Le filtre actuel inclut tous les courriers électroniques envoyés il y a 7 jours.
+Ce rapport indique le pourcentage du nombre total d’ouvertures d’email le même jour que l’envoi d’un email et les jours suivants. Le filtre actuel inclut tous les emails envoyés il y a 7 jours.
 
 ![](assets/image2015-5-6-17-3a37-3a25.png)
 
-## Répartition des heures ouvertes {#open-time-distribution}
+## Distribution du temps d’ouverture {#open-time-distribution}
 
-Ce rapport montre le pourcentage du nombre total d&#39;ouvertures de courrier électronique pour chaque heure de la journée. Le filtre actuel inclut tous les courriers électroniques envoyés au cours des 7 derniers jours. Le temps est compté au CST.
+Ce rapport présente le pourcentage du nombre total d’ouvertures de courrier électronique à chaque heure de la journée. Le filtre en cours inclut tous les emails envoyés au cours des 7 derniers jours. Le temps est compté dans le CST.
 
 ![](assets/image2015-5-6-17-3a39-3a15.png)
 
-## Grille de chaleur d&#39;Activité envoyée {#sent-activity-heat-grid}
+## Grille de chaleur d’activité envoyée {#sent-activity-heat-grid}
 
-Ce rapport indique le jour de la semaine et l&#39;heure de la journée où vous envoyez vos courriels. Plus la boîte est verte, plus les courriels sont envoyés le jour et l&#39;heure. Le filtre actuel inclut tous les courriers électroniques envoyés au cours des 7 derniers jours. Le temps est compté au CST.
+Ce rapport vous indique le jour de la semaine et l’heure de la journée où vous envoyez vos emails. Plus la boîte est verte, plus les emails sont envoyés le jour et l’heure spécifiques. Le filtre en cours inclut tous les emails envoyés au cours des 7 derniers jours. Le temps est compté dans le CST.
 
 ![](assets/seven.png)

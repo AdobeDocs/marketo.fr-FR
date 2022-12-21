@@ -1,21 +1,20 @@
 ---
 unique-page-id: 12978906
-description: Définir l'affichage de votre Campaign Web - Documents marketing - Documentation du produit
-title: Définir comment s'affiche votre Campaign Web
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Définition de l’affichage de votre campagne web - Documents Marketo - Documentation du produit
+title: Définir l'affichage de votre campagne web
+exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Définir l&#39;affichage de votre campagne web {#set-how-your-web-campaign-displays}
 
-# Définir l&#39;affichage de votre Campaign Web {#set-how-your-web-campaign-displays}
+Il existe plusieurs méthodes à utiliser pour déterminer quand s’affiche votre campagne web.
 
-Il existe plusieurs méthodes à utiliser pour déterminer quand s’affiche votre campagne Web.
-
-## Chargement de page {#page-load}
+## Chargement de la page {#page-load}
 
 Sélectionné par défaut, ce choix affiche simplement la campagne au chargement de la page.
 
@@ -23,35 +22,35 @@ Sélectionné par défaut, ce choix affiche simplement la campagne au chargement
 
 ## Délai {#delay}
 
-Indiquez une temporisation (en secondes au total) de réaction des campagnes Web sur votre site Web.
+Spécifiez un délai (en secondes totales) pour que les campagnes web réagissent sur votre site web.
 
-1. Cliquez sur la liste déroulante **Afficher le** et sélectionnez **Délai**.
+1. Cliquez sur le bouton **Afficher activée** et sélectionnez **Délai**.
 
    ![](assets/d1.png)
 
-1. Cliquez sur la liste déroulante **Attendre** et sélectionnez la durée souhaitée.
+1. Cliquez sur le bouton **Attente** et sélectionnez la durée souhaitée.
 
    ![](assets/d2.png)
 
-## Défilement {#scroll}
+## Faire défiler {#scroll}
 
-1. Cliquez sur la liste déroulante **Afficher sur** et sélectionnez **Défilement**.
+1. Cliquez sur le bouton **Afficher activée** et sélectionnez **Défilement**.
 
    ![](assets/s1.png)
 
-1. Cliquez sur la liste déroulante **Quand** et sélectionnez quand afficher votre campagne Web.
+1. Cliquez sur le bouton **When** et sélectionnez le moment où vous souhaitez que votre campagne web s’affiche.
 
    ![](assets/s2.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Ci-dessous</strong></td> 
-   <td>Affiche la campagne lorsque le visiteur défile sous le pli. Campaign disparaît lorsque le visiteur fait défiler vers le bas au-dessus du pli.</td> 
+   <td><strong>Sous la ligne de flottaison</strong></td> 
+   <td>Affiche la campagne lorsque le visiteur fait défiler la page vers le bas. La campagne disparaît lorsque le visiteur fait défiler l’écran au-dessus du pli.</td> 
   </tr> 
   <tr> 
    <td><strong>Pourcentage</strong></td> 
-   <td>Affiche la campagne lorsque le visiteur fait défiler la page pour atteindre un pourcentage prédéterminé de la page.</td> 
+   <td>Affiche la campagne lorsque le visiteur fait défiler la page à un pourcentage prédéterminé.</td> 
   </tr> 
   <tr> 
    <td><strong>Pixel</strong></td> 
@@ -60,18 +59,18 @@ Indiquez une temporisation (en secondes au total) de réaction des campagnes Web
  </tbody> 
 </table>
 
-## Mode de sortie {#exit-intent}
+## Intention de sortie {#exit-intent}
 
-Le mode de sortie affiche la campagne Web lorsque le curseur de la souris quitte le navigateur.
+L’intention de sortie affiche la campagne web lorsque le curseur de la souris quitte le navigateur.
 
-1. Cliquez sur la liste déroulante **Afficher le** et sélectionnez **Mode de sortie**.
+1. Cliquez sur le bouton **Afficher activée** et sélectionnez **Mode de sortie**.
 
    ![](assets/ei1.png)
 
-1. Un message s’affiche pour vous rappeler que le mode de sortie n’est pas compatible avec le mobile.
+1. Un message s’affiche pour vous rappeler que l’intention de sortie n’est pas compatible avec les appareils mobiles.
 
    ![](assets/ei2.png)
 
 >[!TIP]
 >
->Vous voulez voir comment vos effets choisis se présenteront à l&#39;avance ? Consultez-les via une [Prévisualisation Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Voulez-vous voir à l’avance l’aspect des effets que vous choisissez ? Consultez-les via un [Aperçu des campagnes web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

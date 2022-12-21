@@ -1,19 +1,18 @@
 ---
 unique-page-id: 4719336
-description: Paramètres utilisateur - Documents marketing - Documentation du produit
-title: Paramètres utilisateur
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Paramètres utilisateur - Documents Marketo - Documentation du produit
+title: Paramètres d’utilisateur
+exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Paramètres d’utilisateur {#user-settings}
 
-# Paramètres utilisateur {#user-settings}
-
-Modifiez les paramètres tels que le fuseau horaire ou les rapports par courriel de personnalisation Web.
+Modifiez les paramètres tels que le fuseau horaire ou les rapports d’e-mail de personnalisation web.
 
 ## Profil utilisateur / Mots de passe / Fuseaux horaires {#user-profile-passwords-time-zones}
 
@@ -25,31 +24,31 @@ Modifiez les paramètres tels que le fuseau horaire ou les rapports par courriel
 
    ![](assets/two.png)
 
-   Sur la page Paramètres utilisateur, vous pouvez effectuer les opérations suivantes :
+   Sur la page Paramètres utilisateur , vous pouvez effectuer les opérations suivantes :
 
-   * Modifier votre adresse électronique
-   * Ajouter des informations personnelles (prénom et nom, numéro de mobile et fuseau horaire)
-   * Sélectionnez le nombre de lignes à exporter lors de l’exportation de tableaux dans la plateforme. Voir champ : &quot;Nombre maximal de lignes dans l&#39;exportation Excel (limité à 10 000)&quot;
-   * Sélectionnez vos notifications mobiles pour une nouvelle personne ou une liste de surveillance associée à l&#39;application mobile.
-   * Modifiez les paramètres de la région personnelle en cliquant sur **Modifier les régions**.
+   * Modifier votre adresse email
+   * Ajout de détails personnels (prénom et nom, numéro de mobile et fuseau horaire)
+   * Sélectionnez le nombre de lignes que vous souhaitez exporter lors de l&#39;export de tableaux dans la plateforme. Voir champ : &quot;Nombre maximal de lignes dans l’exportation Excel (limité à 10 000)&quot;
+   * Sélectionnez vos notifications mobiles pour une nouvelle personne ou une liste de contrôle associée à l’application mobile.
+   * Ajuster les paramètres de la région personnelle en cliquant sur **Modifier les régions**.
    * Modifier votre mot de passe
-   * Sélectionnez les paramètres de notification des rapports par courriel pour les rapports par courriel sur les organisations, les personnes, Campaign et les performances des ressources.
+   * Sélectionnez les paramètres de notification des rapports par courriel pour les rapports par courriel sur les organisations, les personnes, les campagnes et les performances des ressources.
 
    Cliquez sur **Enregistrer** après avoir apporté des modifications.
 
    >[!NOTE]
    >
-   >La sélection de votre région n&#39;affichera que les données et enverra des rapports par courriel relatifs aux organisations et aux personnes de la région définie.
+   >La sélection de votre région n’affichera que les données et enverra des rapports par courrier électronique relatifs aux organisations et aux personnes de la région définie.
 
-## Sélectionner les rapports par courriel {#select-email-reports}
+## Sélectionner Rapports par courriel {#select-email-reports}
 
-Sélectionnez le [rapport par courriel](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) à associer à votre utilisateur et la fréquence (quotidienne, hebdomadaire ou trimestrielle) d&#39;envoi du rapport.
+Sélectionnez laquelle [rapport email](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) pour l’associer à votre utilisateur, ainsi que la fréquence (quotidienne, hebdomadaire ou trimestrielle) d’envoi du rapport.
 
 ![](assets/three.png)
 
 >[!NOTE]
 >
->Si vous cliquez sur **Enregistrer**, vous ne quitterez pas les Paramètres utilisateur. Pour quitter, cliquez sur le logo Marketo dans l’angle supérieur gauche et sélectionnez votre destination.
+>Cliquer **Enregistrer** ne vous quittera pas des Paramètres utilisateur. Pour quitter Marketo, cliquez sur le logo dans le coin supérieur gauche et sélectionnez votre destination.
 
 >[!MORELIKETHIS]
 >

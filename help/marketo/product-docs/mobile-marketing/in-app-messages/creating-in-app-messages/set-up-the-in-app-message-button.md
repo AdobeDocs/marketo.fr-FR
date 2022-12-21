@@ -1,37 +1,36 @@
 ---
 unique-page-id: 10100644
-description: Configuration du bouton de message intégré à l’application - Documents marketing - Documentation du produit
-title: Configuration du bouton Message intégré à l’application
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Configuration du bouton de message in-app - Documents Marketo - Documentation du produit
+title: Configuration du bouton Message in-app
+exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
+# Configuration du bouton Message in-app {#set-up-the-in-app-message-button}
 
-# Configuration du bouton Message intégré {#set-up-the-in-app-message-button}
+Vous pouvez utiliser la conception de bouton par défaut, la modifier ou charger votre propre image de bouton personnalisée.
 
-Vous pouvez utiliser la conception de bouton par défaut, la modifier ou télécharger votre propre image de bouton personnalisée.
-
-1. Cliquez sur le bouton pour ouvrir le panneau Style en vue de le modifier.
+1. Cliquez sur le bouton pour ouvrir l’onglet Style à modifier.
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Pour modifier la couleur du bouton standard, cliquez sur le bouton **Couleur**.
+1. Pour modifier la couleur du bouton standard, cliquez sur le bouton **Couleur** bouton .
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
-1. Cliquez sur le carré de sélection des couleurs et sélectionnez la couleur du bouton en cliquant dessus ou en entrant les valeurs hexadécimales ou RVB dans le sélecteur de couleurs.
+1. Cliquez sur le carré de sélection des couleurs et sélectionnez la couleur du bouton en cliquant dessus ou en la saisissant dans le sélecteur de couleurs à l’aide des numéros hexadécimaux ou RGB.
 
    ![](assets/image2016-5-6-15-3a14-3a8.png)
 
-1. Sélectionnez une forme dans la liste déroulante. Les options de forme standard comprennent les coins nets, les coins arrondis et les dégradés.
+1. Sélectionnez une forme dans la liste déroulante. Les options de forme standard incluent les coins nets, les coins arrondis et les dégradés.
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Si vous souhaitez utiliser votre propre image pour un bouton, cliquez sur le bouton Image, puis sur **Sélectionner l’image**.
+1. Si vous souhaitez utiliser votre propre image pour un bouton, cliquez sur le bouton Image , puis sur **Sélectionner une image**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
@@ -41,9 +40,9 @@ Vous pouvez utiliser la conception de bouton par défaut, la modifier ou téléc
 
    >[!TIP]
    >
-   >Lorsque vous importez une image personnalisée pour le bouton, pensez à effacer le texte d’espace réservé qui y est placé si votre image contient déjà du texte.
+   >Lorsque vous placez une image personnalisée pour le bouton, pensez à effacer le texte de l’espace réservé qui lui est posé si votre image contient déjà du texte.
 
-1. Cliquez sur le carré de sélection des couleurs, puis sélectionnez la couleur de la police en cliquant dessus ou en saisissant des valeurs hexadécimales ou RVB dans le sélecteur de couleurs.
+1. Cliquez sur le carré de sélection des couleurs, puis sélectionnez la couleur de la police en cliquant dessus ou en entrant des numéros hexadécimaux ou RGB dans le sélecteur de couleurs.
 
    ![](assets/image2016-5-6-16-3a39-3a4.png)
 
@@ -51,30 +50,30 @@ Vous pouvez utiliser la conception de bouton par défaut, la modifier ou téléc
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Choisissez le style de police à mettre en évidence : **Bold**, _Italic_ ou Souligné.
+1. Choisissez le style de police pour mettre l’accent : **Gras**, _Italique_ ou Souligner.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
-1. Cliquez sur le texte du bouton pour le modifier en ligne.
+1. Cliquez sur le texte du bouton pour l’éditer en ligne.
 
    ![](assets/image2016-5-6-16-3a46-3a17.png)
 
-1. Cochez la case pour définir l’action de clic sur le bouton.
+1. Cochez la case pour définir l’action d’appui du bouton.
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
-1. Cliquez sur la liste déroulante de chaque plate-forme et sélectionnez une action de clic.
+1. Cliquez sur la liste déroulante de chaque plateforme et sélectionnez une action d’appui.
 
    ![](assets/image2016-5-6-16-3a49-3a40.png)
 
    >[!NOTE]
    >
-   >Le bouton comporte toujours une action de clic, de sorte que la case à cocher Action de clic est automatiquement cochée, avec le message par défaut &quot;Message d’annulation&quot;.
+   >Le bouton comporte toujours une action d’appui. Par conséquent, la case à cocher Appuyer sur l’action est automatiquement sélectionnée, avec le message par défaut &quot;Ignorer le message&quot;.
 
-Presque là. Votre dernière étape consiste à [configurer l’arrière-plan de votre message in-app et à ignorer le bouton](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Presque là. La dernière étape consiste à [configurer l’arrière-plan de votre message in-app et le bouton Ignorer](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
->* [Présentation des messages in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Choisir une mise en page pour votre message intégré](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Présentation des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Choisir une mise en page pour votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 

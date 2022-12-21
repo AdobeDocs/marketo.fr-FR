@@ -1,31 +1,30 @@
 ---
 unique-page-id: 10099798
-description: Filtrage dans les statistiques par courriel - Documents marketing - Documentation du produit
-title: Filtrage dans les statistiques de courriel
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Filtrage dans Email Insights - Documents Marketo - Documentation du produit
+title: Filtrage dans Email Insights
+exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Filtrage dans Email Insights {#filtering-in-email-insights}
 
-# Filtrage dans les statistiques de courriel {#filtering-in-email-insights}
+Dans Informations sur les emails, il existe différentes manières de filtrer vos données.
 
-Dans les statistiques par courrier électronique, il existe différentes manières de filtrer vos données.
+## Email Insights {#email-insights}
 
-## Insights par courriel {#email-insights}
-
-Cliquez sur + pour ajouter des filtres au début. Ajoutez autant que vous le souhaitez.
+Cliquez sur le signe + pour commencer à ajouter des filtres. Ajoutez autant que vous le souhaitez.
 
 ![](assets/one-2.png)
 
-Si vous avez plusieurs filtres dans la même catégorie, ils fusionnent et affichent le montant.
+Si la même catégorie comporte plusieurs filtres, ils fusionneront et afficheront le montant.
 
 ![](assets/state.png)
 
-Si vous devez savoir quels filtres vous avez appliqués, il vous suffit de cliquer sur le filtre. Vous pouvez même en ajouter d&#39;autres.
+Si vous avez besoin de voir les filtres que vous avez appliqués, cliquez simplement sur le filtre. Vous pouvez même y ajouter d&#39;autres choses.
 
 ![](assets/states.png)
 
@@ -45,24 +44,24 @@ Pour supprimer une catégorie, cliquez sur son X.
 
 ![](assets/filter1.png)
 
-Pour effacer tous les filtres, cliquez sur le X à la fin de la barre de filtrage.
+Pour effacer tous les filtres, cliquez sur le X à la fin de la barre de filtres.
 
 ![](assets/filter2.png)
 
-Pour les données spécifiques à une date, utilisez des plages de dates.
+Pour les données spécifiques à une date, utilisez des périodes.
 
 ![](assets/date-click.png)
 
-Faites votre choix parmi des plages de dates prédéfinies courantes, sélectionnez des dates spécifiques et utilisez même la période précédente pour la comparaison.
+Effectuez un choix parmi des plages de dates prédéfinies courantes, sélectionnez des dates spécifiques, voire utilisez la période précédente pour la comparaison.
 
 ![](assets/date-range.png)
 
 >[!NOTE]
 >
->Les plages de dates s’appliquent à la fois à la page Analytics et à la page Envois. L’option **Comparer** ne s’applique toutefois qu’à la page Analytics.
+>Les plages de dates s’appliquent aux pages Analytics et Envois . Le **Comparer** s’applique uniquement à la page Analytics.
 
-## Marketing basé sur le compte {#account-based-marketing}
+## Marketing basé sur les comptes {#account-based-marketing}
 
-Si vous utilisez [Cible Account Management](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), il existe des filtres spécifiques pour vous.
+Si vous utilisez [Gestion de compte Target](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), il existe des filtres spécifiques pour vous.
 
 ![](assets/abm.png)

@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359679
-description: Modification de la page CSS d’un thème de formulaire - Documents marketing - Documentation du produit
+description: Modification de la page CSS d’un thème de formulaire - Documents Marketo - Documentation du produit
 title: Modification de la page CSS d’un thème de formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Modification de la page CSS d’un thème de formulaire {#edit-the-css-of-a-form-theme}
 
-# Modifier la page CSS d’un thème de formulaire {#edit-the-css-of-a-form-theme}
-
-Vous disposez de quelques thèmes [préconstruits que vous pouvez choisir parmi ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mais si vous aimez modifier le CSS, vous pouvez apporter les modifications de votre choix. Voici comment.
+Vous disposez de quelques [vous pouvez choisir parmi des thèmes](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mais si vous aimez modifier les CSS, vous pouvez apporter les modifications de votre choix. Voici comment.
 
 >[!NOTE]
 >
->Assurez-vous de connaître CSS si vous souhaitez l’essayer, car l’assistance marketing n’est pas configurée pour faciliter le codage personnalisé. En outre, les modifications apportées s’appliqueront uniquement au formulaire que vous êtes en train de modifier.
+>Assurez-vous de connaître CSS si vous souhaitez l’essayer, car la prise en charge de Marketo n’est pas configurée pour faciliter le codage personnalisé. En outre, toutes les modifications apportées s’appliqueront uniquement au formulaire que vous êtes en train de modifier.
 
 1. Accédez à **Activités marketing**.
 
@@ -31,15 +30,15 @@ Vous disposez de quelques thèmes [préconstruits que vous pouvez choisir parmi 
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
-1. Sélectionnez le thème auquel vous souhaitez apporter des modifications.
+1. Sélectionnez le thème sur lequel vous souhaitez apporter des modifications.
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. Sous l’icône d’engrenage, cliquez sur **Thème de Vue CSS**.
+1. Sous l’icône d’engrenage, cliquez sur **Afficher le thème CSS**.
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. N’hésitez pas à couper/coller cette page CSS dans votre propre éditeur. Il est en lecture seule, vous n’aurez donc besoin que du CSS de remplacement.
+1. N’hésitez pas à couper/coller ce CSS dans votre propre éditeur. Il est en lecture seule, vous n’aurez donc besoin que du CSS de remplacement.
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -51,7 +50,7 @@ Vous disposez de quelques thèmes [préconstruits que vous pouvez choisir parmi 
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
-1. Saisissez votre page CSS personnalisée. Vous n&#39;en avez pas besoin, juste les parties qui sont différentes.
+1. Saisissez votre CSS personnalisé. Vous n&#39;en avez pas besoin, juste les parties qui sont différentes.
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
@@ -59,7 +58,7 @@ Vous disposez de quelques thèmes [préconstruits que vous pouvez choisir parmi 
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Pour afficher votre formulaire personnalisé, cliquez sur **Version préliminaire de la Prévisualisation**.
+1. Pour afficher votre formulaire personnalisé, cliquez sur **Aperçu du brouillon**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 

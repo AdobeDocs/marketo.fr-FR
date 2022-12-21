@@ -1,9 +1,8 @@
 ---
 unique-page-id: 557320
-description: Cloner une Liste ou une Liste dynamique - Marketo Docs - Documentation du produit
-title: Cloner une Liste ou une Liste dynamique
+description: Cloner une liste ou une liste dynamique - Documents Marketo - Documentation du produit
+title: Clonage d’une liste ou d’une liste dynamique
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
@@ -11,23 +10,23 @@ ht-degree: 0%
 
 ---
 
-# Cloner une Liste ou une Liste dynamique {#clone-a-list-or-smart-list}
+# Clonage d’une liste ou d’une liste dynamique {#clone-a-list-or-smart-list}
 
-Au lieu de créer une liste intelligente à partir de zéro, gagnez du temps en clonant une autre  similaire et en apportant des modifications. Voici comment.
+Au lieu de créer une liste dynamique à partir de zéro, gagnez du temps en clonant une liste similaire et en apportant des modifications. Voici comment.
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez la liste intelligente à cloner.
+1. Sélectionnez la liste dynamique à cloner.
 
    ![](assets/smartlist-find.png)
 
-1. Sous **Actions de Liste**, cliquez sur **Clone Smart Liste**.
+1. Sous **Actions de liste**, cliquez sur **Clonage d’une liste dynamique**.
 
    ![](assets/clonesmartlist-hands.png)
 
-1. Saisissez un **nom** et cliquez sur **Clone**.
+1. Saisissez un **Nom** et cliquez sur **Cloner**.
 
    ![](assets/supersmartlist-clonewindow.png)
 

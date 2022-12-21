@@ -1,32 +1,31 @@
 ---
 unique-page-id: 4719408
-description: Modifier une Campaign Web existante - Documents marketing - Documentation du produit
-title: Modifier une Campaign Web existante
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Modification d’une campagne web existante - Documents Marketo - Documentation du produit
+title: Modifier une campagne web existante
+exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-
-# Modifier une Campaign Web existante {#edit-an-existing-web-campaign}
+# Modifier une campagne web existante {#edit-an-existing-web-campaign}
 
 1. Accédez à **Campagnes Web**.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. Sur la page **Campagnes Web**, cliquez sur **Modifier** dans la campagne à modifier.
+1. Sur le **Campagnes Web** page, cliquez sur **Modifier** sur la campagne que vous souhaitez modifier.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne Web de votre choix, utilisez la fonction de filtrage [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Pour faciliter la recherche de la campagne web de votre choix, utilisez le [fonction de filtre](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 >[!MORELIKETHIS]
 >
->* [Suppression d’une Campaign Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
->* [Lancer/Suspendre une Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).
+>* [Supprimer une campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>* [Lancer/mettre en pause une campagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).
 

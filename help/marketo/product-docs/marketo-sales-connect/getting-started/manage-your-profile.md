@@ -9,7 +9,7 @@ ht-degree: 2%
 
 ---
 
-# Gérer votre profil {#manage-your-profile}
+# Gestion de votre profil {#manage-your-profile}
 
 Dans votre page Mon profil, vous pouvez mettre à jour votre nom, la langue/le paramètre régional/le fuseau horaire de votre compte, ainsi que votre mot de passe.
 
@@ -27,7 +27,7 @@ C’est là que vous pouvez mettre à jour votre nom et/ou mot de passe.
 
 >[!NOTE]
 >
->Votre adresse électronique est définie pour une vue uniquement. Si vous avez également besoin de cette modification, contactez le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Votre adresse électronique est définie pour une vue uniquement. Si vous avez également besoin de modifier ce paramètre, veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Vous pouvez également modifier votre mot de passe dans cette section. Les étapes sont décrites dans ce document.
 
@@ -53,19 +53,19 @@ Voici comment modifier la langue, les paramètres régionaux et/ou le fuseau hor
 
    ![](assets/manage-your-profile-4.png)
 
-1. Pour modifier votre langue, cliquez sur la liste déroulante **Langue** et faites votre choix.
+1. Pour modifier votre langue, cliquez sur le bouton **Langue** et faites votre choix.
 
    ![](assets/manage-your-profile-5.png)
 
-1. Le paramètre régional ici fait référence à la région dans laquelle cette langue est parlée. Cliquez sur le menu déroulant **Paramètres régionaux** et faites votre choix.
+1. Le paramètre régional ici fait référence à la région dans laquelle cette langue est parlée. Cliquez sur le bouton **Paramètres régionaux** et faites votre choix.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Cliquez sur le menu déroulant **Votre fuseau horaire** et choisissez-le.
+1. Cliquez sur le bouton **Votre fuseau horaire** et faites votre choix.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Cliquez sur **Enregistrer** une fois terminé.
 
    ![](assets/manage-your-profile-8.png)
 

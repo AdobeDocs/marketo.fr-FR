@@ -1,31 +1,30 @@
 ---
 unique-page-id: 5472348
-description: Rendre un modèle de Landing page de formulaire libre existant compatible avec les dispositifs portables - Documents marketing - Documentation du produit
-title: Rendre un modèle de Landing page de formulaire libre existant compatible avec les dispositifs portables
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Rendre un modèle de page d’entrée de formulaire libre existant compatible avec les périphériques mobiles - Documents Marketo - Documentation du produit
+title: Rendre un modèle de page d’entrée de forme libre existant compatible avec les périphériques mobiles
+exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
+# Rendre un modèle de page d’entrée de forme libre existant compatible avec les périphériques mobiles {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
-# Compatibilité d’un modèle de Landing page de formulaire libre existant {#make-an-existing-free-form-landing-page-template-mobile-compatible}
-
-Vous pouvez effectuer cette opération à deux endroits : l’éditeur de modèle et l’éditeur de Landing page.
+Vous pouvez le faire à deux endroits : l’éditeur de modèles et l’éditeur de page d’entrée.
 
 ## Mise à niveau à partir de l’éditeur de modèles {#upgrade-from-the-template-editor}
 
-1. Accédez à **Design Studio**.
+1. Accédez au **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Sélectionnez **Modèles**.
+1. Sélectionner **Modèles**.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Sélectionnez un modèle où **Mobile Compatible** est **Non**.
+1. Sélectionnez un modèle dans lequel **Compatible mobile** is **Non**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
@@ -33,7 +32,7 @@ Vous pouvez effectuer cette opération à deux endroits : l’éditeur de modèl
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Cliquez sur **Rendre Mobile Compatible**.
+1. Cliquez sur **Compatibilité Mobile**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
@@ -41,35 +40,35 @@ Vous pouvez effectuer cette opération à deux endroits : l’éditeur de modèl
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
-   Votre modèle de landing page est désormais compatible avec les mobiles.
+   Votre modèle de landing page est désormais compatible avec les mobiles !
 
    >[!NOTE]
    >
-   >La mise à niveau doit être inoffensive, mais assurez-vous de vérifier les différences entre les pages. La mise à niveau crée des brouillons de n’importe quel landing page utilisant ce modèle.
+   >La mise à niveau doit être sans danger, mais assurez-vous de vérifier les incohérences des pages. La mise à niveau crée des brouillons de toutes les landing pages utilisant ce modèle.
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
-## Qu’est-ce qui rend un modèle compatible avec les dispositifs portables ? {#what-makes-a-template-mobile-compatible}
+## Qu’est-ce qui rend un modèle compatible avec Mobile ? {#what-makes-a-template-mobile-compatible}
 
-De bonnes questions ! Votre modèle doit comporter les balises suivantes :
+Des questions formidables ! Votre modèle doit comporter les balises suivantes :
 
 `<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
 
-Si tout semble bien, vous verrez ce message.
+Si tout a l&#39;air bon, vous verrez ce message.
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
-Si un problème se produit, un message d’erreur s’affiche, cliquez sur réparer pour corriger le problème et recommencez le processus de validation.
+Si un problème se produit, un message d’erreur s’affiche, cliquez sur Réparer pour résoudre le problème et répétez le processus de validation.
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
 Si vous apportez des modifications au modèle, cliquez sur Actions de modèle et sélectionnez Valider la compatibilité mobile.
 
-## Mise à niveau d’un modèle à partir de l’éditeur de Landing page de forme libre {#upgrading-a-template-from-the-free-form-landing-page-editor}
+## Mise à niveau d’un modèle à partir de l’éditeur de page d’entrée à structure libre {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
-Lorsque vous modifiez un landing page et que vous cliquez sur l’onglet mobile, vous constaterez parfois que le modèle n’a pas été mis à niveau. Peur non ! Vous pouvez le mettre à niveau juste ici.
+Lorsque vous modifiez une landing page et que vous cliquez sur l&#39;onglet mobile, vous remarquerez parfois que le modèle n&#39;a pas été mis à niveau. N&#39;ayez pas peur ! Vous pouvez le mettre à niveau juste ici.
 
-1. Cliquez sur l&#39;onglet **Mobile**.
+1. Cliquez sur le bouton **Mobile** .
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
@@ -79,6 +78,6 @@ Lorsque vous modifiez un landing page et que vous cliquez sur l’onglet mobile,
 
    >[!NOTE]
    >
-   >L&#39;activation de la version mobile d&#39;un modèle crée des brouillons de tous les landings page qui l&#39;utilisent.
+   >L’activation de la version mobile d’un modèle crée des brouillons de toutes les landing pages qui l’utilisent.
 
-Super ! Vous pouvez désormais [personnaliser la vue mobile](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de tous les landings page qui utilisent ce modèle.
+Super ! Vous pouvez désormais [personnaliser la vue mobile ;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de toutes vos landing pages qui utilisent ce modèle.

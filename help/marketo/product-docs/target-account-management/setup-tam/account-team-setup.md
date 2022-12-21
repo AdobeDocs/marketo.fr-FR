@@ -1,56 +1,54 @@
 ---
 unique-page-id: 11384433
-description: Configuration de l’équipe de compte - Documentation marketing - Documentation du produit
-title: Configuration de l’équipe de comptes
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: Configuration de l’équipe de compte - Documents Marketo - Documentation du produit
+title: Configuration de l’équipe de compte
+exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
+# Configuration de l’équipe de compte {#account-team-setup}
 
-# Configuration de l&#39;équipe de comptes {#account-team-setup}
+Une équipe de compte est un groupe de parties prenantes qui travaillent ensemble sur un compte nommé. Suivez ces étapes pour choisir les rôles de compte CRM à ajouter.
 
-Une équipe de compte est un groupe de parties prenantes qui travaillent ensemble sur un compte nommé. Pour choisir les rôles de compte CRM à ajouter, procédez comme suit.
-
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/one-3.png)
 
-1. Cliquez sur **Gestion du compte de Cible**.
+1. Cliquez sur **Gestion de compte Target**.
 
    ![](assets/account-team-setup-2.png)
 
-1. Sous Membres de l’équipe du compte, cliquez sur **Modifier**.
+1. Sous Membres de l’équipe de compte, cliquez sur **Modifier**.
 
    ![](assets/3.png)
 
    >[!NOTE]
    >
-   >Pour Rôle du compte, attribuez-lui un nom et faites-le correspondre au champ de recherche d’utilisateur de votre choix dans votre gestion de la relation client.
+   >Pour Rôle du compte, attribuez-lui un nom et faites-le correspondre au champ de recherche d’utilisateur de votre choix dans le CRM.
 
-1. Saisissez le nom de votre rôle de compte et sélectionnez le champ **CRM**. Ajoute jusqu&#39;à 10.
+1. Saisissez le nom de votre rôle de compte et sélectionnez **CRM** champ . Ajoutez jusqu’à 10.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Vous ne pouvez pas sélectionner Propriétaire du compte. Il est choisi par défaut au niveau du compte dans votre gestion de la relation client.
+   >Vous ne pouvez pas sélectionner Propriétaire du compte. Il est sélectionné par défaut au niveau du compte dans votre CRM.
 
-1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Cliquez sur **Enregistrer** une fois terminé.
 
    ![](assets/five-2.png)
 
    >[!CAUTION]
    >
-   >Si vous effectuez une mise à jour, il peut s’écouler un certain temps avant que les modifications ne soient répercutées dans TAM.
+   >Si vous effectuez une mise à jour, les modifications peuvent prendre un certain temps pour être répercutées dans la gestion des actifs numériques (TAM).
 
    >[!NOTE]
    >
-   >* Lorsque plusieurs comptes CRM avec différents propriétaires de compte sont fusionnés dans un compte nommé, Marketo sélectionne un &quot;propriétaire de compte&quot; et ajoute d’autres propriétaires de compte en tant que &quot;co-propriétaires de compte&quot;.
-      >
-      >
-   * Si un champ &quot;Rôle&quot; de gestion de la relation client est ultérieurement renommé ou supprimé, Marketo TAM arrête la synchronisation des valeurs mises à jour jusqu’à ce que l’utilisateur mette manuellement à jour la configuration dans TAM.
+   >* Lorsque plusieurs comptes CRM avec différents propriétaires de compte sont fusionnés dans un compte nommé, Marketo sélectionne un &quot;propriétaire de compte&quot; et ajoute d’autres propriétaires de compte comme &quot;co-propriétaires de compte&quot;.
+   >
+   >* Si un champ &quot;Rôle&quot; CRM est renommé ou supprimé ultérieurement, Marketo TAM arrête la synchronisation des valeurs mises à jour jusqu’à ce que l’utilisateur mette manuellement à jour la configuration dans TAM.
 

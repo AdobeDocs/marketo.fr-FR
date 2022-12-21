@@ -6,7 +6,7 @@ exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 57%
+ht-degree: 58%
 
 ---
 
@@ -18,7 +18,7 @@ Lors de la synchronisation initiale de votre compte Marketo avec Salesforce, Mar
 
 | Champ SFDC | Champ Marketo |
 |---|---|
-| Chiffre d&#39;affaires annuel | Chiffre d&#39;affaires annuel |
+| Chiffre d’affaires annuel | Chiffre d’affaires annuel |
 | Ville | Ville |
 | Société | Nom de la société |
 | Date de conversion | Date conversion SFDC |
@@ -36,7 +36,7 @@ Lors de la synchronisation initiale de votre compte Marketo avec Salesforce, Mar
 | Source du lead | Source |
 | Évaluation des leads | Évaluation |
 | Téléphone mobile | Numéro téléphone mobile |
-| Employés | Nombre d&#39;employés |
+| Employés | Nombre d’employés |
 | Téléphone | Numéro de téléphone |
 | Code postal | Code postal |
 | Classement | Classement |
@@ -76,7 +76,7 @@ Lors de la synchronisation initiale de votre compte Marketo avec Salesforce, Mar
 
 | Champ SFDC | Champ Marketo |
 |---|---|
-| Chiffre d&#39;affaires annuel | Chiffre d&#39;affaires annuel |
+| Chiffre d’affaires annuel | Chiffre d’affaires annuel |
 | Ville de facturation | Ville de facturation |
 | Pays de facturation | Pays de facturation |
 | Code postal de facturation | Code postal de facturation |
@@ -86,7 +86,7 @@ Lors de la synchronisation initiale de votre compte Marketo avec Salesforce, Mar
 | Secteur | Secteur |
 | supprimé | Suppression de SFDC |
 | Nom du compte | Nom de la société |
-| Employés | Nombre d&#39;employés |
+| Employés | Nombre d’employés |
 | Téléphone du compte | Téléphone principal |
 | Code SIC | Code SIC |
 | Site du compte | Site |

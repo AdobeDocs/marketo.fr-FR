@@ -1,19 +1,18 @@
 ---
 unique-page-id: 4719344
-description: Créer un segment Web de base - Documents marketing - Documentation du produit
-title: Créer un segment Web de base
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Création d’un segment web de base - Documents Marketo - Documentation du produit
+title: Création d’un segment web de base
+exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
+# Création d’un segment web de base {#create-a-basic-web-segment}
 
-# Créer un segment Web de base {#create-a-basic-web-segment}
-
-Créons un segment de base ciblant tous les visiteurs Web des États-Unis et l&#39;industrie des services financiers.
+Créons un segment de base ciblant tous les visiteurs du Web en provenance des États-Unis et du secteur des services financiers.
 
 1. Accédez à **Segments**.
 
@@ -23,15 +22,15 @@ Créons un segment de base ciblant tous les visiteurs Web des États-Unis et l&#
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Entrez le nom du segment.
+1. Saisissez le nom du segment.
 
    ![](assets/segment-name.png)
 
-1. Faites glisser **Emplacement** depuis le menu de droite et déposez-le dans l’éditeur de segments.
+1. Faire glisser **Emplacement** dans le menu de droite et déposez-le dans l’éditeur de segments.
 
    ![](assets/location-drag-hand.jpg)
 
-1. Sélectionnez un pays à ajouter dans la liste déroulante. Sélectionnez **États-Unis**.
+1. Sélectionnez un pays à ajouter dans la liste déroulante. Sélectionnez la **États-Unis**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -39,22 +38,22 @@ Créons un segment de base ciblant tous les visiteurs Web des États-Unis et l&#
    >
    >Le nombre de villes est limité à 300 par segment.
 
-1. Faites glisser **Industries** dans le menu de droite et déposez-le dans l’éditeur de segments.
+1. Faire glisser **Industries** dans le menu de droite et déposez-le dans l’éditeur de segments.
 
    ![](assets/industries-hand.jpg)
 
-1. Sélectionnez Industries à ajouter dans la liste déroulante. Sélectionnez **Secteur des services financiers**.
+1. Sélectionnez Industries à ajouter dans la liste déroulante. Sélectionnez la **Secteur des services financiers**.
 
    ![](assets/segment-industries.png)
 
-   Vous avez maintenant configuré un segment de base pour toutes les prospects visitant votre site Web en provenance des États-Unis et de l’industrie financière.
+   Vous avez maintenant configuré un segment de base pour tous les prospects qui visitent votre site web en provenance des Etats-Unis et du secteur financier.
 
-1. Cliquez sur **Enregistrer** pour enregistrer le segment ou **Enregistrer et définir Campaign** pour accéder à la page Campagnes.
+1. Cliquez sur **Enregistrer** pour enregistrer le segment ou **Enregistrer et définir une campagne** pour accéder à la page Campagnes .
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Vous avez segmenté vos visiteurs des États-Unis, allez de l&#39;avant et ajoutez l&#39;industrie des services financiers.
+Vous avez maintenant segmenté vos visiteurs en provenance des États-Unis et ajouté le secteur des services financiers.
 
 >[!MORELIKETHIS]
 >
->[Segments Web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+>[Segments web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)

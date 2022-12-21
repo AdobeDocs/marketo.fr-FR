@@ -1,21 +1,20 @@
 ---
 unique-page-id: 12615781
-description: Créer un compte nommé - Documents marketing - Documentation du produit
-title: Créer un compte nommé
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Création d’un compte nommé - Documents Marketo - Documentation du produit
+title: Création d’un compte nommé
+exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-
-# Créer un compte nommé {#create-a-named-account}
+# Création d’un compte nommé {#create-a-named-account}
 
 Pour créer manuellement un compte nommé, procédez comme suit.
 
-1. Dans Comptes nommés, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Créer un compte nommé**.
+1. Dans Comptes nommés, cliquez sur le bouton **Nouveau** et sélectionnez **Créer un compte nommé**.
 
    ![](assets/two-1.png)
 
@@ -29,4 +28,4 @@ Pour créer manuellement un compte nommé, procédez comme suit.
 
 >[!MORELIKETHIS]
 >
->[Ajouter des personnes à un compte nommé](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+>[Ajout de personnes à un compte nommé](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)

@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2359547
-description: Planification du test A/B - Documents marketing - Documentation du produit
+description: Planification du test A/B - Documents Marketo - Documentation du produit
 title: Planification du test A/B
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # Planification du test A/B {#schedule-the-a-b-test}
 
-Une fois que vous avez ajouté un test A/B à un programme de messagerie et défini les critères gagnants que vous devez planifier au début du test. Voici comment.
+Une fois que vous avez ajouté un test A/B à un programme de messagerie et défini les critères gagnants, vous devez planifier le début du test. Voici comment.
 
 >[!PREREQUISITES]
 >
->[Ajouter un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[Ajout d’un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >Pour les tests Date/Heure, il vous suffit de définir la date de réception du résumé des résultats du test.
 
-1. Sélectionnez la date **Envoyer le test**.
+1. Sélectionnez la **Envoyer le test** date.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Sélectionnez l’**heure d’envoi du test**.
+1. Sélectionnez la **Envoyer le test** temps.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
    >[!NOTE]
    >
-   >Send Test and Send Winner doit être séparé d’au moins 4 heures. Cependant, pour les envois plus volumineux, vous pouvez attendre 24 heures pour avoir suffisamment de temps pour obtenir de bons résultats.
+   >Envoi du test et Envoi du gagnant doivent être séparés d&#39;au moins 4 heures. Toutefois, pour les envois plus volumineux, vous pouvez attendre 24 heures pour avoir suffisamment de temps pour obtenir de bons résultats.
 
-1. Faire la même chose pour **Envoyer le gagnant**. Saisissez les destinataires de notification (facultatif) et cliquez sur **Suivant**.
+1. Faites la même chose pour **Envoyer le gagnant**. Saisissez les destinataires de la notification (facultatif) et cliquez sur **Suivant**.
 
    >[!NOTE]
    >
@@ -45,13 +44,13 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
 
    >[!NOTE]
    >
-   >Si vous choisissez de déclarer un gagnant manuellement, vous allez définir **Date/Heure d&#39;envoi du rapport** au lieu de **Date/Heure de fin d&#39;envoi du courrier**.
+   >Si vous choisissez de désigner manuellement un gagnant, vous définirez **Envoyer le rapport** date/heure au lieu de **Terminer le courrier** date/heure.
 
-   Super ! Vous avez terminé, passez en revue le résumé et cliquez sur Fermer.
+   Super ! Vous avez terminé, il vous suffit de consulter le résumé, puis de cliquer sur Fermer.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Vous remarquerez que la mosaïque **Planification** est maintenant mise à jour.
+   Vous remarquerez que la variable **Planification** est maintenant mise à jour.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
@@ -59,8 +58,8 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
    >
    >La planification d’un test A/B configure également la date d’envoi finale ou la date d’envoi du rapport.
 
-   En supposant que vous ayez déjà défini votre audience et choisi un courriel, la seule étape qui reste est d&#39;approuver le programme.
+   En supposant que vous ayez déjà défini votre audience et choisi un email, la seule étape qui reste est de valider le programme.
 
    >[!MORELIKETHIS]
    >
-   >[Approuver/désapprouver un Programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
+   >[Approbation/désapprobation d’un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)

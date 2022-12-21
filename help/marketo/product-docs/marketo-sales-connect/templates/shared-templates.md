@@ -1,25 +1,24 @@
 ---
 unique-page-id: 14352503
-description: Modèles partagés - Documents marketing - Documentation du produit
+description: Modèles partagés - Documents Marketo - Documentation du produit
 title: Modèles partagés
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 9640c9a6-00fc-4a7d-8366-f04f2b2483e4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-
 # Modèles partagés {#shared-templates}
 
 ## Comment partager un modèle {#how-to-share-a-template}
 
-Si vous utilisez l’un de nos comptes d’équipe, tous vos modèles restent privés par défaut. Cliquez sur le bouton vert **Partager** en haut de votre modèle pour le partager avec le reste de votre équipe.
+Si vous utilisez l’un de nos comptes d’équipe, tous vos modèles restent privés par défaut. Cliquez sur le vert **Partager** dans la partie supérieure de votre modèle pour le partager avec le reste de votre équipe.
 
-## Comment rechercher des modèles partagés {#how-to-find-shared-templates}
+## Comment trouver des modèles partagés  {#how-to-find-shared-templates}
 
-Les modèles qui ont été partagés avec vous s’affichent sous l’en-tête **Modèles d’équipe** sur le côté gauche de la page Modèles.
+Les modèles qui ont été partagés avec vous s’affichent sous le **Modèles d’équipe** en-tête sur le côté gauche de la page Modèles .
 
 >[!NOTE]
 >

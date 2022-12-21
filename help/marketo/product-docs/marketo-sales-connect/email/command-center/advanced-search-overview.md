@@ -1,19 +1,18 @@
 ---
 unique-page-id: 37356329
-description: Aperçu de la recherche avancée - Documentation sur le marketing - Documentation du produit
+description: Présentation de la recherche avancée - Documents Marketo - Documentation du produit
 title: Aperçu de la recherche avancée
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
 # Aperçu de la recherche avancée {#advanced-search-overview}
 
-En utilisant la recherche avancée pour les prospects de cible qui ont consulté, cliqué ou répondu aux courriels, vous pouvez créer une liste ciblée de vos prospects les plus actives.
+En utilisant la recherche avancée pour cibler les prospects qui ont consulté, cliqué ou répondu aux emails, vous pouvez créer une liste ciblée de vos prospects les plus engagés.
 
 ## Accès à la recherche avancée {#how-to-access-advanced-search}
 
@@ -21,7 +20,7 @@ En utilisant la recherche avancée pour les prospects de cible qui ont consulté
 
    ![](assets/one.png)
 
-1. Cliquez sur **Courriels**.
+1. Cliquez sur **Emails**.
 
    ![](assets/two.png)
 
@@ -37,37 +36,37 @@ En utilisant la recherche avancée pour les prospects de cible qui ont consulté
 
 **Date**
 
-Choisissez la plage de dates de votre recherche. Les dates prédéfinies sont mises à jour en fonction de l’état du courrier électronique que vous choisissez (Envoyé, Non distribué, En attente).
+Sélectionnez la période de votre recherche. Les dates prédéfinies sont mises à jour en fonction de l’état de l’email que vous choisissez (Envoyé, Non livré, En attente).
 
 ![](assets/date.png)
 
 **Qui**
 
-Filtrez par destinataire/expéditeur de courriel dans la section Qui.
+Filtrez par destinataire/expéditeur d’email dans la section Qui .
 
 ![](assets/who.png)
 
 | Liste déroulante | Description |
 |---|---|
-| **Vue en tant que** | Vous pouvez filtrer selon un expéditeur spécifique dans votre instance de connexion commerciale (cette option est disponible pour les administrateurs uniquement). |
-| **Par groupe** | Filtrez les courriers électroniques selon un groupe spécifique de destinataires. |
-| **Par personne** | Filtrer selon un destinataire spécifique. |
+| **Afficher sous** | Vous pouvez filtrer par un expéditeur spécifique dans votre instance Sales Connect (cette option est disponible uniquement pour les administrateurs). |
+| **Par groupe** | Filtrez les emails selon un groupe spécifique de destinataires. |
+| **Par personne** | Filtrer par destinataire spécifique. |
 
-**Lorsque**
+**Quand**
 
-Choisissez par date de création, date de livraison, date d’échec ou date planifiée. Les options disponibles varient en fonction de l’état du courrier électronique que vous choisissez (Envoyé, Non distribué, En attente).
+Choisissez par date de création, date de diffusion, date d’échec ou date planifiée. Les options disponibles changent en fonction de l’état de l’email que vous choisissez (Envoyé, Non livré, En attente).
 
 ![](assets/when.png)
 
 **Campagnes**
 
-Filtrez les courriers électroniques par participation à la campagne.
+Filtrez les emails par participation à une campagne.
 
 ![](assets/campaigns.png)
 
 **Statut**
 
-Vous avez le choix entre trois états de courriel. Les options de type/d’activité changent en fonction de l’état sélectionné.
+Vous avez le choix entre trois statuts d&#39;email. Les options de type/activité changent en fonction de l’état sélectionné.
 
 ![](assets/status.png)
 
@@ -75,37 +74,37 @@ Vous avez le choix entre trois états de courriel. Les options de type/d’activ
 
 ![](assets/status-sent.png)
 
-Filtres par votre activité de courriel envoyée. Vous pouvez choisir vues/aucune vue, clics/aucun clic et/ou réponses/aucune réponse.
+Filtre par activité d’email envoyée. Vous pouvez choisir des vues/aucun affichage, des clics/aucun clic et/ou des réponses/aucune réponse.
 
 ***État : En attente***
 
 ![](assets/status-pending.png)
 
-Filtres par tous les courriers électroniques en attente.
+Filtre tous les emails en attente.
 
 | Statut | Description |
 |---|---|
-| **Programmé** | Courriers électroniques planifiés à partir de la fenêtre de composition (Salesforce ou l’application Web), de modules externes de messagerie ou d’une campagne. |
-| **Versions préliminaires** | Courriers électroniques actuellement en état de brouillon. Pour être enregistré en tant que brouillon, les courriers électroniques doivent comporter un objet et un destinataire. |
-| **En cours** | Courriers électroniques en cours d’envoi. Les courriels ne doivent pas rester dans cet état pendant plus de quelques secondes. |
+| **Programmé** | Emails programmés à partir de la fenêtre de composition (Salesforce ou application web), des modules externes de messagerie ou d’une campagne. |
+| **Avant-projets** | Courriers électroniques actuellement en état de brouillon. Les emails nécessitent un objet et un destinataire pour être enregistrés en tant que brouillon. |
+| **En cours** | Emails en cours d’envoi. Les emails ne doivent pas rester dans cet état pendant plus de quelques secondes. |
 
 ***État : Non remis***
 
 ![](assets/status-undelivered.png)
 
-Filtres par courriers électroniques qui n’ont jamais été remis.
+Filtre les messages par message électronique qui n’ont jamais été remis.
 
 | Statut | Description |
 |---|---|
-| **Échec** | Lorsqu&#39;un courrier électronique ne parvient pas à être envoyé à partir de Sales Connect (les raisons courantes sont les suivantes : e-mails envoyés à des contacts désabonnés/bloqués, ou en cas de problème lors de l’remplissage des champs dynamiques). |
-| **Bascule** | Un courrier électronique est signalé comme rebondi lorsqu’il est rejeté par le serveur de destinataires. Seuls les courriers électroniques envoyés via les serveurs Sales Connect s&#39;affichent ici. |
-| **Indésirable** | Lorsque le courrier électronique a été signalé comme indésirable (terme courant pour &quot;courrier électronique non sollicité&quot;) par le destinataire. Seuls les courriers électroniques envoyés via les serveurs Sales Connect s&#39;affichent ici. |
+| **Échec** | Lorsqu’un courrier électronique ne parvient pas à être envoyé à partir de Sales Connect (les raisons courantes sont les suivantes : des emails sont envoyés aux contacts désabonnés/bloqués, ou en cas de problème lors du remplissage des champs dynamiques). |
+| **e-mails renvoyés** | Un email est marqué comme rebonds lorsqu&#39;il est rejeté par le serveur du destinataire. Seuls les emails envoyés par les serveurs Sales Connect s’afficheront ici. |
+| **Spam** | Lorsque l&#39;email a été marqué comme spam (terme courant pour désigner les emails non sollicités) par le destinataire. Seuls les emails envoyés par les serveurs Sales Connect s’afficheront ici. |
 
 ## Recherches enregistrées {#saved-searches}
 
 Voici comment créer une recherche enregistrée.
 
-1. Une fois tous vos filtres en place, cliquez sur **Enregistrer les Filtres sous**.
+1. Une fois tous vos filtres en place, cliquez sur **Enregistrer les filtres sous**.
 
    ![](assets/save-search-1.png)
 
@@ -113,6 +112,6 @@ Voici comment créer une recherche enregistrée.
 
    ![](assets/save-search-2.png)
 
-   Vos recherches enregistrées se trouveront dans la barre latérale à gauche.
+   Les recherches enregistrées se trouvent dans la barre latérale gauche.
 
    ![](assets/advanced-search-overview-15.png)

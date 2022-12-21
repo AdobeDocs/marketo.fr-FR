@@ -3,7 +3,8 @@ description: Filtres prédictifs - Documents Marketo - Documentation du produit
 title: Filtres prédictifs
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 29c586d1-6c7d-4892-9c71-354af1552076
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 1%

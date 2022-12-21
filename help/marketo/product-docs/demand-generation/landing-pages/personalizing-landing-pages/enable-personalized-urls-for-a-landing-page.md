@@ -1,30 +1,29 @@
 ---
 unique-page-id: 2359803
-description: Activer les URL personnalisées pour un Landing page - Documentation marketing - Documentation du produit
-title: Activation des URL personnalisées pour un Landing page
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Activation des URL personnalisées pour une page d’entrée - Documents Marketo - Documentation du produit
+title: Activation des URL personnalisées pour une landing page
+exl-id: d87486f6-da49-406e-b1cf-781caba596c1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Activation des URL personnalisées pour une landing page {#enable-personalized-urls-for-a-landing-page}
 
-# Activer les URL personnalisées pour un Landing page {#enable-personalized-urls-for-a-landing-page}
-
-Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
+Les URL personnalisées sont idéales pour les campagnes de courrier papier.
 
 >[!PREREQUISITES]
 >
->[Activer les URL personnalisées pour votre compte](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>[Activation des URL personnalisées pour votre compte](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
-1. Sélectionnez un landing page et cliquez sur les paramètres **URL personnalisée**.
+1. Sélectionnez une landing page et cliquez sur les paramètres pour **URL personnalisée**.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Désormais, vous pouvez vérifier **Activer les URL personnalisées** et cliquer sur **Enregistrer**.
+1. Maintenant, vous pouvez vérifier **Activer les URL personnalisées** et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
-Super ! Vous avez maintenant activé les URL personnalisées pour votre landing page. Les visiteurs qui utilisent cette URL seront reconnus et les jetons fonctionneront correctement.
+Fantastique ! Vous avez maintenant activé les URL personnalisées pour votre page d’entrée. Les visiteurs qui utilisent cette URL seront reconnus et les jetons fonctionneront correctement.

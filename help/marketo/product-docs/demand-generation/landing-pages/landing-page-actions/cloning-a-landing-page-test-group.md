@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2953038
-description: Clonage d'un groupe de tests de Landing page - Docs marketing - Documentation du produit
-title: Clonage d'un groupe de tests de Landing page
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Clonage d’un groupe de test de page d’entrée - Documents Marketo - Documentation du produit
+title: Clonage d’un groupe de test de page d’entrée
+exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
+# Clonage d’un groupe de test de page d’entrée {#cloning-a-landing-page-test-group}
 
-# Clonage d&#39;un groupe de tests de Landing page {#cloning-a-landing-page-test-group}
+Dans Design Studio, vous pouvez rechercher et dupliquer un groupe de test de page d’entrée.
 
-Depuis Design Studio, vous pouvez trouver et duplicata un groupe de tests de landing page.
-
-1. Cliquez avec le bouton droit de la souris sur une page non approuvée. Sélectionnez **Clone**.
+1. Cliquez avec le bouton droit de la souris sur une page non approuvée. Sélectionner **Cloner**.
 
    ![](assets/image2015-4-27-15-3a11-3a24.png)
 
-1. Attribuez à cette page clonée un nouveau **nom**. Les pages clonées s’affichent au bas de votre dossier actuel.
+1. Donnez à cette page clonée une nouvelle **Nom**. Les pages clonées s’affichent au bas de votre dossier actuel.
 
    ![](assets/image2015-4-27-16-3a10-3a10.png)
 
-1. Créez maintenant un groupe de tests en cliquant sur **Nouveau** et en sélectionnant **Nouveau groupe de tests**.
+1. Créez maintenant un groupe de test en cliquant sur **Nouveau** et la sélection **Nouveau groupe de test**.
 
    ![](assets/image2015-4-27-15-3a49-3a54.png)
 
-1. Dans la boîte de dialogue Créer de nouveaux Landings page, entrez le nouveau groupe de tests **Nom**.
+1. Dans la boîte de dialogue Créer de nouvelles pages d’entrée, saisissez le nouveau groupe de test. **Nom**.
 
    ![](assets/image2015-4-27-15-3a58-3a13.png)
 
-1. Au bas de la boîte de dialogue, sélectionnez les pages clonées dans la liste **Landings page disponibles** et cliquez sur la flèche pointant vers la droite pour l&#39;inclure dans les **Landings page testés**. Effectuez cette opération pour tous les landings page que vous souhaitez dans ce groupe.
+1. Au bas de la boîte de dialogue, sélectionnez les pages clonées dans le **Pages d’entrée disponibles** et cliquez sur la flèche pointant vers la droite pour l’inclure dans la liste. **Pages d’entrée testées**. Effectuez cette opération pour toutes les landing pages que vous souhaitez inclure dans ce groupe.
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
@@ -39,8 +38,8 @@ Depuis Design Studio, vous pouvez trouver et duplicata un groupe de tests de lan
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
-1. Lorsque vous êtes prêt à lancer le groupe de test, cliquez avec le bouton droit sur le groupe dans l&#39;arborescence et sélectionnez **Approuver le groupe de test**.
+1. Lorsque vous êtes prêt à lancer le groupe de test, cliquez avec le bouton droit sur le groupe dans l’arborescence et choisissez **Approuver le groupe de test**.
 
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
-   Le groupe effectue désormais un suivi actif des visites et des remplissages de formulaires afin que vous puissiez déterminer le landing page le plus performant.
+   Le groupe effectue désormais un suivi actif des visites et des remplissages de formulaire afin que vous puissiez déterminer la page d’entrée la plus performante.

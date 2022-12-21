@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14352439
-description: Comment Ajouter un modèle - Documents marketing - Documentation du produit
-title: Comment Ajouter un modèle
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Ajout d’un modèle - Documents Marketo - Documentation du produit
+title: Ajout d’un modèle
+exl-id: b88cbca8-117c-4100-819d-90666b26b275
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-
-# Comment Ajouter un modèle {#how-to-add-a-template}
+# Ajout d’un modèle {#how-to-add-a-template}
 
 1. Dans un nouveau message, cliquez sur **Modèles**.
 
@@ -19,6 +18,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >N&#39;hésitez pas à rechercher également vos modèles favoris.
+   >N’hésitez pas à rechercher également vos modèles préférés.
 
 1. Saisissez un modèle et personnalisez-le avant de l’envoyer.

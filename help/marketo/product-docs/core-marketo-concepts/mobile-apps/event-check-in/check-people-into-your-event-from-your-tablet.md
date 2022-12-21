@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2949839
-description: Archivez des personnes dans votre Événement à partir de votre tablette - Marketo Docs - Documentation du produit
-title: Intégrer des personnes dans votre Événement à partir de votre tablette
+description: Archivage des personnes dans votre événement à partir de votre tablette - Documents Marketo - Documentation du produit
+title: Archivage des personnes dans votre événement à partir de votre tablette
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '815'
@@ -11,23 +10,23 @@ ht-degree: 0%
 
 ---
 
-# Vérifiez les personnes dans votre Événement à partir de votre tablette {#check-people-into-your-event-from-your-tablet}
+# Archivage des personnes dans votre événement à partir de votre tablette {#check-people-into-your-event-from-your-tablet}
 
-Lorsque les gens se présentent à votre événement, vous pouvez trouver leurs informations sur l&#39;application. Après l’enregistrement, ils sont promus à l’état Participant lorsque vous synchronisez Marketo.
+Lorsque des personnes se présentent à votre événement, vous pouvez trouver leurs informations dans l’application. Après l’archivage, ils sont promus au statut Participant lorsque vous vous synchronisez avec Marketo.
 
 L’application fonctionne de la même manière sur iPad et Android, à l’exception des différences mineures de mise en page et de conception.
 
 >[!PREREQUISITES]
 >
->* Créez un événement dans Marketo et renseignez-le avec les personnes invitées et enregistrées.
->* Téléchargez l’application pour tablette pour [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) ou [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
+>* Créez un événement dans Marketo et renseignez-le avec des personnes invitées et enregistrées.
+>* Téléchargez l’application pour tablette [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) ou [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 
-## Enregistrement des clients inscrits {#check-in-registered-guests}
+## Archivage des invités enregistrés {#check-in-registered-guests}
 
 1. Appuyez sur l’icône de l’application sur votre tablette iPad ou Android.
 
-1. Appuyez sur **Connexion** pour lancer l’application de Événement Marketo.
+1. Appuyer **Connexion** pour lancer l’application Marketo Event.
 
    ![](assets/1.jpg)
 
@@ -35,25 +34,25 @@ L’application fonctionne de la même manière sur iPad et Android, à l’exce
 
    >[!NOTE]
    >
-   >Vous devez disposer d’un rôle avec accès à la base de données pour afficher les personnes dans l’application.
+   >Vous devez disposer d’un rôle avec accès à la base de données pour voir les personnes dans l’application.
 
-1. Sélectionnez un **Événement**.
+1. Sélectionnez une **Événement**.
 
    ![](assets/2.jpg)
 
    >[!TIP]
    >
-   >Seuls les programmes de événement (à l’exception des webinars) programmés une semaine avant et une semaine après la date d’aujourd’hui s’affichent.
+   >Seuls les programmes d’événement (à l’exception des webinaires) planifiés une semaine avant et une semaine après la date d’aujourd’hui s’affichent.
 
-1. Sur l’écran d’accueil, naviguez pour trouver des invités enregistrés. Pour trouver une personne dans la liste, vous pouvez :
+1. Sur l’écran Accueil , recherchez les invités enregistrés . Pour trouver une personne dans la liste, vous pouvez :
 
    * Faire défiler pour trouver un nom
-   * Entrez un nom dans le champ de recherche
+   * Saisissez un nom dans le champ de recherche.
    * Accédez à une lettre initiale spécifique du nom en appuyant sur celle-ci sur le côté droit de la liste.
 
    >[!NOTE]
    >
-   >Le processus est le même sur iPad et Android, mais les écrans diffèrent et les éléments peuvent se trouver à des emplacements différents. Cet article présente l’interface de l’iPad. Comparez l’écran Android de cette section à titre de référence.
+   >Le processus est le même sur iPad et Android, mais les écrans diffèrent et les éléments peuvent se trouver à des emplacements différents. Cet article présente l’interface d’iPad. Comparez l’écran Android de cette section à titre de référence.
 
    **iPad**
 
@@ -63,11 +62,11 @@ L’application fonctionne de la même manière sur iPad et Android, à l’exce
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. Appuyez sur le nom sélectionné, puis sur l&#39;enregistrement de la personne, appuyez sur **Archivage**.
+1. Appuyez sur le nom sélectionné, puis, sur l’enregistrement de la personne, appuyez sur **Archivage**.
 
    ![](assets/img-0068-35-hands.png)
 
-L’invité a maintenant un statut Participé et reçoit une coche. L’enregistrement de personne est mis à jour lorsque vous synchronisez Marketo. Le compteur rouge sur le bouton Synchroniser s&#39;incrémente pour afficher le nombre d&#39;enregistrements depuis la dernière synchronisation avec Marketo. Le bouton Synchroniser a un aspect différent et se trouve à un autre emplacement pour l’iPad et Android :
+L’invité dispose désormais du statut Participant et reçoit une coche. L’enregistrement de personne est mis à jour lors de la synchronisation avec Marketo. Le compteur rouge sur le bouton Synchroniser s’incrémente pour afficher le nombre d’enregistrements depuis la dernière synchronisation avec Marketo. Le bouton Synchroniser a un aspect différent et se trouve à un autre emplacement pour iPad et Android :
 
 **iPad**
 
@@ -79,11 +78,11 @@ L’invité a maintenant un statut Participé et reçoit une coche. L’enregist
 
 >[!TIP]
 >
->Si une personne est invitée mais ne s’est pas inscrite, vous pouvez rechercher le nom en cliquant sur **Rechercher sur le serveur**, juste sous la zone Rechercher. L’état Invité passe à **Participé** pour le événement.
+>Si une personne est invitée mais ne s’est pas inscrite, vous pouvez rechercher le nom en cliquant sur **Recherche sur le serveur**, juste en dessous de la zone de recherche. L’état Invité passe à **Attaché** pour l’événement .
 
-## Créer une personne sur la tablette {#create-a-new-person-on-the-tablet}
+## Création d’une personne sur la tablette {#create-a-new-person-on-the-tablet}
 
-Vous pouvez ajouter manuellement des invités qui n’appartiennent pas à la base de données Marketo. Ils seront automatiquement archivés et ajoutés à votre base de données lors de la synchronisation avec Marketo.
+Vous pouvez ajouter manuellement des invités qui ne sont pas des personnes existantes dans votre base de données Marketo. Ils seront automatiquement archivés et ajoutés à votre base de données lors de la synchronisation avec Marketo.
 
 1. Cliquez sur **Ajouter**.
 
@@ -101,29 +100,29 @@ Vous pouvez ajouter manuellement des invités qui n’appartiennent pas à la ba
 
    >[!NOTE]
    >
-   >Vous pouvez uniquement utiliser les champs existants. Vous ne pouvez pas en créer de personnalisés.
+   >Vous ne pouvez utiliser que les champs existants. Vous ne pouvez pas en créer des personnalisés.
 
    >[!CAUTION]
    >
-   >Doublon-vérifier l&#39;adresse électronique. D&#39;autres champs peuvent être corrigés ultérieurement, mais l&#39;adresse électronique est la méthode Principale pour contacter l&#39;invité.
+   >Vérifiez deux fois l&#39;adresse email. D&#39;autres champs peuvent être corrigés ultérieurement, mais l&#39;adresse email est la méthode Principale pour contacter l&#39;invité.
 
-La nouvelle personne est enregistrée comme archivée dans votre événement et sera ajoutée à la base de données Marketo avec l’état Attended lors de la synchronisation avec Marketo.
+La nouvelle personne est enregistrée comme archivée dans votre événement et sera ajoutée à la base de données Marketo avec le statut Participant lors de la synchronisation avec Marketo.
 
-## Inverser un enregistrement {#reverse-a-check-in}
+## Reverse d’une archivage {#reverse-a-check-in}
 
-Si vous avez archivé une personne par erreur, _avant de synchroniser Marketo_, vous pouvez annuler l’état Attended.
+Si vous vous êtes inscrit par erreur dans une personne, _avant la synchronisation avec Marketo_, vous pouvez inverser l’état Participant .
 
-1. Appuyez sur le nom dans la liste et, dans l’enregistrement de personne, appuyez sur **Annuler**.
+1. Appuyez sur le nom dans la liste, puis, dans l’enregistrement de la personne, appuyez sur . **Annuler**.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
    Tout est réparé !
 
-## Modifier un enregistrement de personne à l&#39;arrivée {#edit-a-person-record-at-check-in}
+## Modification d’un enregistrement de personne lors de l’archivage {#edit-a-person-record-at-check-in}
 
-Vous pouvez ajouter et modifier des informations sur les invités, directement au événement !
+Vous pouvez ajouter et modifier des informations sur les invités, directement à l’événement !
 
-1. Appuyez sur le nom dans la liste des personnes et appuyez sur **Modifier**.
+1. Appuyez sur le nom dans la liste des personnes, puis appuyez sur **Modifier**.
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
@@ -133,40 +132,40 @@ Vous pouvez ajouter et modifier des informations sur les invités, directement a
 
    >[!NOTE]
    >
-   >Dans Android, le bouton **Terminé** peut être masqué. Faites défiler la page vers le bas pour la trouver.
+   >Sous Android, la variable **Terminé** peut être masqué. Faites défiler l’écran vers le bas pour le trouver.
 
-Les informations seront mises à jour lorsque vous synchroniserez l’application avec Marketo.
+Les informations sont mises à jour lorsque vous synchronisez l’application avec Marketo.
 
-## Synchroniser l’application avec Marketo {#sync-the-app-with-marketo}
+## Synchronisation de l’application avec Marketo {#sync-the-app-with-marketo}
 
-L’application Marketo Événements fonctionne indépendamment jusqu’à ce que vous resynchronisiez votre activité sur la base de données Marketo. Il est préférable de synchroniser dès que possible après la dernière arrivée. Votre tablette doit être connectée à Internet.
+L’application Marketo Events fonctionne indépendamment jusqu’à ce que vous resynchronisiez votre activité sur la base de données Marketo. Il est préférable de se synchroniser dès que possible après la dernière archivage. Votre tablette doit être connectée à Internet.
 
 >[!CAUTION]
 >
->Une fois la synchronisation effectuée, vous ne pouvez pas annuler l&#39;enregistrement à partir de l&#39;application.
+>Une fois la synchronisation effectuée, vous ne pouvez pas inverser l’archivage à partir de l’application.
 
 1. Sur votre tablette, ouvrez l’application et accédez à votre événement.
 
-1. Appuyez sur **Sync**.
+1. Appuyer **Synchronisation**.
 
-   Votre événement est mis à jour avec les nouveaux arrivants dans la base de données Marketo. Le compteur rouge sur le bouton Synchroniser s&#39;efface, jusqu&#39;à ce que vous entriez quelqu&#39;un d&#39;autre.
+   Votre événement est mis à jour avec de nouveaux check-ins dans la base de données Marketo. Le compteur rouge sur le bouton Synchroniser s’efface, jusqu’à ce que vous identifiiez quelqu’un d’autre.
 
-   Pour des raisons de sécurité, vous devez quitter l’application Marketo Événements une fois la synchronisation terminée.
+   Pour des raisons de sécurité, vous devez quitter l’application Marketo Events une fois la synchronisation terminée.
 
-## Utilisation d&#39;un accès Internet limité {#working-with-limited-internet-access}
+## Utilisation d’un accès Internet limité {#working-with-limited-internet-access}
 
-Certains lieux ont un mauvais accès à Internet. Vous avez besoin d&#39;une bonne connexion à :
+Certains lieux ont un accès internet pourri. Vous avez besoin d’une bonne connexion à :
 
-* Téléchargement et installation de l’application
+* Télécharger et installer l’application
 * Se connecter
-* Sélectionner un événement
+* Sélection d’un événement
 * Synchronisation de l’application avec Marketo
 
-Si l&#39;accès à Internet vous préoccupe, vous pouvez vous connecter à l&#39;application Marketo Événements et sélectionner votre événement à l&#39;avance, dans un endroit disposant d&#39;un accès Internet sécurisé. Ainsi, vous pouvez toujours utiliser l’application hors ligne. Ensuite, lorsque vous récupérez une connexion Internet, synchronisez-la immédiatement vers la base de données Marketo.
+Si l’accès à Internet vous préoccupe, vous pouvez vous connecter à l’application Marketo Events et sélectionner votre événement à l’avance, à un emplacement disposant d’un accès Internet sécurisé. Ainsi, vous pouvez toujours utiliser l’application hors ligne. Ensuite, lorsque vous récupérez une connexion Internet, synchronisez-la immédiatement vers la base de données Marketo.
 
 >[!TIP]
 >
->Si vous n&#39;avez pas de connexion Internet, vous pouvez toujours créer une nouvelle personne pour une personne qui s&#39;enregistre. Il sera réconcilié avec la personne existante lorsque vous synchroniserez l’application.
+>Si vous ne disposez pas d’une connexion Internet, vous pouvez toujours créer une nouvelle personne pour qu’une personne s’enregistre. Il sera réconcilié avec la personne existante lorsque vous synchroniserez l’application.
 
 >[!NOTE]
 >

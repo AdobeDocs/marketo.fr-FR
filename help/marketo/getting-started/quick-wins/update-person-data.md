@@ -5,8 +5,8 @@ title: Mettre à jour les données de personne
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '170'
+ht-degree: 7%
 
 ---
 

@@ -1,50 +1,49 @@
 ---
 unique-page-id: 11379045
-description: Ajouter une étape de flux pour SMS - Documents marketing - Documentation du produit
-title: Ajouter une étape de flux pour SMS
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Ajout d’une étape de flux pour SMS - Documents Marketo - Documentation du produit
+title: Ajout d’une étape de flux pour un SMS
+exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Ajout d’une étape de flux pour un SMS {#add-a-flow-step-for-sms}
 
-# Ajouter une étape de flux pour SMS {#add-a-flow-step-for-sms}
+Marketo comprend trois étapes de flux que vous pouvez utiliser dans vos campagnes SMS intelligentes :
 
-Marketo comprend trois étapes de flux que vous pouvez utiliser dans vos campagnes intelligentes SMS :
-
-* **Envoyer un message**  SMS - Cette action de flux envoie des messages à des personnes de la liste de base marketing qui sont abonnées à une liste d&#39;abonnement Vibes sélectionnée par l&#39;utilisateur. Il ne lance pas le processus d&#39;abonnement.
-* **S&#39;abonner à la Liste**  Vibes - Cette action de flux lance le processus d&#39;abonnement SMS via un Campaign d&#39;acquisition Vibes sélectionné par l&#39;utilisateur. Vibes envoie alors un message de confirmation ; le destinataire doit y répondre pour terminer le processus d&#39;abonnement.
-* **Désabonner de la Liste**  Vibes - Cette action de flux désabonne chaque personne d&#39;une liste d&#39;abonnement Vibes sélectionnée par l&#39;utilisateur.
+* **Envoyer un message SMS** - Cette action de flux envoie des messages aux personnes de la liste intelligente Marketo qui sont inscrites à une liste d’abonnements Vibes sélectionnée par l’utilisateur. Il ne lance pas le processus d’abonnement.
+* **Abonnement à la liste des vidéos** - Cette action de flux lance le processus d&#39;inscription SMS via une campagne d&#39;acquisition de vidéos sélectionnée par l&#39;utilisateur. Vibes envoie alors un message de confirmation ; le destinataire doit lui répondre pour terminer le processus d&#39;inscription.
+* **Se désabonner de la liste Vibes** - Cette action de flux désabonne chaque personne d’une liste d’abonnements Vibes sélectionnée par l’utilisateur.
 
 >[!NOTE]
 >
->Lors de l&#39;envoi de messages SMS :
+>Lors de l&#39;envoi de SMS :
 >
->* Le marketing déduplique par numéro de téléphone. Ainsi, si plusieurs personnes ont le même numéro de téléphone, une seule personne recevra le message.
->* Le marketing n’est pas envoyé aux personnes qui sont placées sur la liste bloquée ou dont le marketing est suspendu.
+>* Marketo déduplique par numéro de téléphone. Ainsi, si plusieurs personnes ont le même numéro de téléphone, une seule personne recevra le message.
+>* Marketo n’enverra pas aux personnes placées sur la liste bloquée ou Marketing suspendu.
 
 
-Pour des informations générales sur la configuration des étapes de flux, voir [Ajouter une étape de flux à une Campaign dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+Pour obtenir des informations générales sur la configuration des étapes de flux, voir [Ajout d’une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 
-Voici les bases de l&#39;utilisation des SMS.
+Voici les principes de base de l’utilisation des SMS.
 
-1. Dans Mon marketing, cliquez sur **Activités marketing**.
+1. Dans Mon Marketo, cliquez sur **Activités marketing**.
 
    ![](assets/image2016-7-28-11-3a41-3a17.png)
 
-1. Recherchez la campagne intelligente à laquelle vous souhaitez ajouter le flux SMS. Cliquez sur l&#39;onglet **Flux**.
+1. Recherchez la campagne dynamique à laquelle vous souhaitez ajouter le flux SMS. Cliquez sur l&#39;onglet **Flux**.
 
    ![](assets/image2016-7-28-11-3a43-3a41.png)
 
-1. Faites glisser le curseur sur le flux, par exemple **Envoyer un message SMS**. Sélectionnez le message SMS et la liste Vibes dans les listes déroulantes.
+1. Faites glisser le curseur sur le flux, par exemple : **Envoyer un message SMS**. Sélectionnez le SMS et la liste Vibes dans les listes déroulantes.
 
    ![](assets/send-sms-message-hands.jpg)
 
    >[!NOTE]
    >
-   >Le sélecteur de Liste Vibes agit comme un filtre supplémentaire vers l&#39;audience déjà identifiée dans la liste intelligente pour cible uniquement les pistes qui appartiennent à cette liste Vibes.
+   >Le sélecteur de liste de vidéos sert de filtre supplémentaire pour l’audience déjà identifiée dans la liste dynamique afin de cibler uniquement les pistes qui appartiennent à cette liste.
    >
-   >Les flux **S’abonner à la Liste Vibes** et **Se désabonner de la Liste Vibes** ont des exigences différentes. Pour **S’abonner**, vous devez sélectionner la liste Vibes et la campagne d’acquisition Vibes. Pour **Se désabonner**, seule la liste Vibes est requise.
+   >Le **Abonnement à la liste des vidéos** et **Se désabonner de la liste Vibes** les flux ont des exigences différentes. Pour **S’abonner**, vous devez sélectionner la liste Vibes et la campagne d&#39;acquisition Vibes . Pour **Désabonner**, seule la liste Vibes est requise.

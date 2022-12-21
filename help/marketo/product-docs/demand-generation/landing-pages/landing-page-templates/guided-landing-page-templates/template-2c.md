@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 2C {#template-2c}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+Cliquez avec le bouton droit de la souris sur [Télécharger le modèle 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 

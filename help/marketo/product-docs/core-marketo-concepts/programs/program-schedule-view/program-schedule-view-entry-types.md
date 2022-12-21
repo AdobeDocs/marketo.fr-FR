@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1147243
-description: Types d’entrée de Vue de Planning du programme - Docs Marketo - Documentation sur les produits
-title: Types d’entrée de Vue de Planning du programme
+description: Types d’entrée de la vue Planification du programme - Documents Marketo - Documentation du produit
+title: Types d’entrée de la vue de programme
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 12%
+ht-degree: 16%
 
 ---
 
-# Types d&#39;entrée de Vue de Planning du programme {#program-schedule-view-entry-types}
+# Types d’entrée de la vue de programme {#program-schedule-view-entry-types}
 
-Il existe huit types d&#39;entrée intégrés différents qui seront visibles et disponibles pour utilisation dans votre vue de Planning du programme. Vous pouvez également [créer des types d&#39;entrée personnalisés](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) dans la section Admin.
+Il existe huit types d’entrées intégrés différents qui seront visibles et utilisables dans la vue de planification de votre programme. Vous pouvez également [créer des types d’entrée personnalisés ;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) dans la section Admin .
 
 <table> 
  <thead> 
@@ -24,36 +23,36 @@ Il existe huit types d&#39;entrée intégrés différents qui seront visibles et
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">Entrée de base<span> <img alt="--" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
-   <td colspan="1" rowspan="1">Type d’entrée par défaut. Utilisez-le comme espace réservé ou comme note. </td> 
+   <td colspan="1" rowspan="1">Entrée de base<span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
+   <td colspan="1" rowspan="1">Type d’entrée par défaut. Utilisez comme espace réservé ou note. </td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Campagne intelligente <img alt="—" src="assets/image2014-9-24-10-3a5-3a2.png" data-linked-resource-id="3082716" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">Campagne dynamique planifiée sans étape de flux Envoyer un courrier électronique.</td> 
+   <td colspan="1" rowspan="1">Campagne intelligente <img alt="--" src="assets/image2014-9-24-10-3a5-3a2.png" data-linked-resource-id="3082716" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Campagne dynamique planifiée sans étape de flux Envoyer un courrier électronique .</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Campaign intelligent avec courriel <img alt="—" src="assets/image2014-9-24-10-3a5-3a14.png" data-linked-resource-id="3082717" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1"><p>Campagne dynamique planifiée avec au moins une étape de flux Envoyer un courrier électronique.</p></td> 
+   <td colspan="1" rowspan="1">Campagne intelligente avec e-mail <img alt="--" src="assets/image2014-9-24-10-3a5-3a14.png" data-linked-resource-id="3082717" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1"><p>Campagne dynamique planifiée avec au moins une étape de flux Envoyer un courrier électronique .</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Programme de courriel <img alt="—" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">Programme de courriel planifié.</td> 
+   <td colspan="1" rowspan="1">Programme d'e-mail <img alt="--" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Programme de messagerie planifié.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Test du programme d’e-mails <img alt="—" src="assets/image2014-9-24-10-3a5-3a39.png" data-linked-resource-id="3082719" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">Testez les courriers électroniques dans un programme de messagerie planifié.</td> 
+   <td colspan="1" rowspan="1">Test du programme d’e-mails <img alt="--" src="assets/image2014-9-24-10-3a5-3a39.png" data-linked-resource-id="3082719" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Testez les emails dans un programme de messagerie planifié.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Diffusion d’engagement <img alt="—" src="assets/image2014-9-24-10-3a5-3a53.png" data-linked-resource-id="3082720" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">Date de diffusion en continu d’un programme d’engagement.</td> 
+   <td colspan="1" rowspan="1">Diffusion d’engagement <img alt="--" src="assets/image2014-9-24-10-3a5-3a53.png" data-linked-resource-id="3082720" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Diffusion en continu de la date d’un programme d’engagement.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Webinar <img alt="—" src="assets/image2014-9-24-10-3a6-3a4.png" data-linked-resource-id="3082721" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">Date du webinaire d’un programme de événement connecté à un fournisseur de webinaires pris en charge.</td> 
+   <td colspan="1" rowspan="1">Webinaire <img alt="--" src="assets/image2014-9-24-10-3a6-3a4.png" data-linked-resource-id="3082721" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Date du webinaire d’un programme d’événement connecté à un fournisseur de webinaires pris en charge.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Événement principal <img alt="—" src="assets/image2014-9-24-10-3a6-3a15.png" data-linked-resource-id="3082722" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">Événement principal d’un programme de événement non connecté à un fournisseur de webinaires pris en charge.</td> 
+   <td colspan="1" rowspan="1">Événement principal <img alt="--" src="assets/image2014-9-24-10-3a6-3a15.png" data-linked-resource-id="3082722" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Date d’événement principale d’un programme d’événement non connecté à un fournisseur de webinaires pris en charge.</td> 
   </tr> 
  </tbody> 
 </table>

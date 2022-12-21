@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4720224
-description: Modifier les régions - Documents marketing - Documentation du produit
+description: Modifier des régions - Documents Marketo - Documentation du produit
 title: Modifier les régions
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
-
 
 # Modifier les régions {#edit-regions}
 
@@ -27,4 +26,4 @@ Vous souhaitez modifier les paramètres régionaux de votre utilisateur afin de 
 
 >[!NOTE]
 >
->Si vous sélectionnez les États-Unis, toutes les options États-Unis à sélectionner s’afficheront en bas de la page.
+>Si vous sélectionnez Etats-Unis, toutes les options États-Unis à sélectionner s’affichent en bas de la page.

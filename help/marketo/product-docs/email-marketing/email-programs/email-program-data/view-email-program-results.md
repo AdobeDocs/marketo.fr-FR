@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2951167
-description: Résultats du Programme de courriel de vue - Documentation marketing - Documentation du produit
-title: Résultats du Programme de courriel de vue
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Afficher les résultats du programme de messagerie électronique - Documents Marketo - Documentation du produit
+title: Afficher les résultats du programme de messagerie
+exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
+# Afficher les résultats du programme de messagerie {#view-email-program-results}
 
-# Résultats du Programme de courriel de vue {#view-email-program-results}
-
-Tout comme l’onglet Résultats des campagnes intelligentes, vous pouvez afficher les mêmes informations dans les programmes électroniques.
+Tout comme l’onglet Résultats des campagnes intelligentes, vous pouvez voir les mêmes informations dans les programmes de messagerie.
 
 1. Accédez à **Activités marketing**.
 
@@ -25,13 +24,13 @@ Tout comme l’onglet Résultats des campagnes intelligentes, vous pouvez affich
 
    >[!NOTE]
    >
-   >Si le programme de messagerie a déjà été exécuté, vous serez dirigé directement vers le tableau de bord de programme de messagerie.
+   >Si le programme de messagerie a déjà été exécuté, vous accédez directement au tableau de bord du programme de messagerie.
 
-1. Sous **Vue**, sélectionnez **Panneau de Contrôle**.
+1. Sous **Affichage**, sélectionnez **Panneau de Contrôle**.
 
    ![](assets/controlpanelview.jpg)
 
-1. Sous la mosaïque **Audience**, cliquez sur **Résultats de la Vue**.
+1. Sous , **Audience** mosaïque, cliquez sur **Affichage des résultats**.
 
    ![](assets/audiencetile.jpg)
 

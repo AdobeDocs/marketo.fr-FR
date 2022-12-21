@@ -16,7 +16,7 @@ Les fonctionnalités suivantes sont incluses dans la version de mars.
 
 ## Fichiers de calendrier Marketo {#marketo-calendar-files}
 
-Créez un fichier de calendrier sous la forme **Mon jeton** à utiliser dans vos emails de confirmation et de rappel d’événement. Ce fichier de calendrier intégré (fichier .ics, par exemple) affichera tous les jetons, y compris Mes jetons et le jeton `{{member.webinar URL}}`.
+Créer un fichier de calendrier sous la forme d’un **Mon jeton** à utiliser dans vos emails de confirmation et de rappel d’événement. Ce fichier de calendrier intégré (fichier .ics, par exemple) affichera tous les jetons, y compris Mes jetons et le `{{member.webinar URL}}` jeton.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 

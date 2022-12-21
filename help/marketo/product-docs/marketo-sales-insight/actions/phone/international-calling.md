@@ -59,15 +59,15 @@ Sales Dialer facilite la communication internationale. Pour les clients qui appe
   </tr> 
   <tr> 
    <td>Grèce </td> 
-   <td>30 3021</td> 
+   <td>30, 3021</td> 
   </tr> 
   <tr> 
    <td>Hongrie</td> 
-   <td>36 361</td> 
+   <td>36, 361</td> 
   </tr> 
   <tr> 
    <td colspan="1">Irlande </td> 
-   <td colspan="1">353 3531</td> 
+   <td colspan="1">353, 3531</td> 
   </tr> 
   <tr> 
    <td>Israël</td> 
@@ -111,7 +111,7 @@ Sales Dialer facilite la communication internationale. Pour les clients qui appe
   </tr> 
   <tr> 
    <td colspan="1">Pologne </td> 
-   <td colspan="1">48 4832</td> 
+   <td colspan="1">48, 4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">Portugal </td> 

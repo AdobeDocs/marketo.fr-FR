@@ -1,45 +1,44 @@
 ---
 unique-page-id: 1147340
-description: Envoyer des e-mails à partir du responsable - Documents marketing - Documentation du produit
-title: Envoyer des courriers électroniques à partir du propriétaire de piste
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Envoi d’emails à partir du propriétaire de piste - Documents Marketo - Documentation du produit
+title: Envoi d’emails par le propriétaire du prospect
+exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
+# Envoi d’emails par le propriétaire du prospect {#send-emails-from-the-lead-owner}
 
-# Envoyer des courriers électroniques à partir du propriétaire de piste {#send-emails-from-the-lead-owner}
+Que se passe-t-il si vous souhaitez envoyer un email à un prospect au nom du propriétaire du prospect ?  Voici comment.
 
-Que se passe-t-il si vous souhaitez envoyer un courrier électronique à un responsable au nom du responsable ?  Voici comment.
-
-1. Recherchez votre adresse électronique, sélectionnez-la et cliquez sur **Modifier le brouillon**.
+1. Recherchez votre email, sélectionnez-le, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/one.png)
 
-1. Cliquez dans le champ **From** (supprimez tout nom existant), puis cliquez sur le bouton **Insérer un jeton**.
+1. Cliquez sur dans le **De** (supprimez tout nom existant), puis cliquez sur le bouton **Insérer un jeton** bouton .
 
    ![](assets/two.png)
 
-1. Début de saisie &quot;`{{lead.Lead Owner`&quot; et de sélection du jeton **`{{lead.Lead Owner First Name}}`**.
+1. Commencez à taper &quot;`{{lead.Lead Owner`&quot; et sélectionnez la variable **`{{lead.Lead Owner First Name}}`** jeton.
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. Entrez une valeur par défaut au cas où le prospect n&#39;aurait pas encore de propriétaire de piste et cliquez sur **Insérer**.
+1. Saisissez une valeur par défaut si le prospect ne dispose pas encore d’un propriétaire de piste et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
-1. Cliquez après le premier jeton, ajoutez un espace, puis cliquez sur le bouton **Insérer un jeton**.
+1. Cliquez sur après le premier jeton, ajoutez un espace, puis cliquez sur le bouton **Insérer un jeton** bouton .
 
    ![](assets/five.png)
 
-1. Début de saisie &quot;`{{lead.Lead Owner`&quot; et de sélection du jeton **`{{lead.Lead Owner Last Name}}`**.
+1. Commencez à taper &quot;`{{lead.Lead Owner`&quot; et sélectionnez la variable **`{{lead.Lead Owner Last Name}}`** jeton.
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. Entrez une valeur par défaut au cas où le prospect n&#39;aurait pas encore de propriétaire de piste et cliquez sur **Insérer**.
+1. Saisissez une valeur par défaut si le prospect ne dispose pas encore d’un propriétaire de piste et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -47,18 +46,18 @@ Que se passe-t-il si vous souhaitez envoyer un courrier électronique à un resp
    >
    >Veillez à ajouter un espace entre les jetons de prénom et de nom.
 
-1. Cliquez dans le champ De l’e-mail (supprimez toute adresse de messagerie existante), puis cliquez sur le bouton Insérer un jeton.
+1. Cliquez dans le champ De l’e-mail (supprimez toute adresse électronique existante), puis cliquez sur le bouton Insérer un jeton .
 
    ![](assets/eight.png)
 
-1. Début de saisie &quot;`{{lead.Lead Owner`&quot; et de sélection du jeton **`{{lead.Lead Owner Email Address}}`**.
+1. Commencez à taper &quot;`{{lead.Lead Owner`&quot; et sélectionnez la variable **`{{lead.Lead Owner Email Address}}`** jeton.
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. Entrez une valeur par défaut au cas où le prospect n&#39;aurait pas encore de propriétaire de piste et cliquez sur **Insérer**.
+1. Saisissez une valeur par défaut si le prospect ne dispose pas encore d’un propriétaire de piste et cliquez sur **Insérer**.
 
    ![](assets/ten.png)
 
-1. Assurez-vous que les champs **Répondre à** et **Objet** sont renseignés et que vous avez terminé !
+1. Assurez-vous que la variable **Réponse** et **Objet** sont renseignés, et vous avez terminé !
 
    ![](assets/eleven.png)

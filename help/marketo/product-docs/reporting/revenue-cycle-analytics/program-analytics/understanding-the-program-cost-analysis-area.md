@@ -1,19 +1,18 @@
 ---
 unique-page-id: 4718636
-description: Présentation de la zone d'Analyse des coûts du Programme - Documents marketing - Documentation du produit
-title: Présentation de la zone d'Analyse des coûts du Programme
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Présentation de la zone d’analyse des coûts de programme - Documents Marketo - Documentation du produit
+title: Présentation de la zone d’analyse des coûts de programme
+exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 22%
 
 ---
 
+# Présentation de la zone d’analyse des coûts de programme {#understanding-the-program-cost-analysis-area}
 
-# Description de la zone d&#39;Analyse des coûts de Programme {#understanding-the-program-cost-analysis-area}
-
-La zone Programme d&#39;Analyse des coûts vous permet d&#39;analyser l&#39;efficacité de chaque programme ou de voir les résultats résumés par canal pendant une période donnée.
+La zone Analyse des coûts du programme vous permet d’analyser l’efficacité de programmes individuels ou d’afficher les résultats résumés par canal pendant une période donnée.
 
 ## Exemples de questions commerciales {#example-business-questions}
 
@@ -21,19 +20,19 @@ Combien de nouveaux noms chaque canal a-t-il générés par mois ?
 
 ![](assets/image2015-5-6-14-3a13-3a47.png)
 
-Quel était mon coût par nouveau nom par canal par mois ?
+Quel a été mon coût par nouveau nom par canal et par mois ?
 
 ![](assets/image2015-5-6-14-3a16-3a28.png)
 
-Quel pourcentage des nouveaux noms a atteint un succès dans un programme ?
+Quel pourcentage des nouveaux noms générés a atteint un succès dans un programme ?
 
 ![](assets/image2015-5-6-14-3a31-3a15.png)
 
-Combien ai-je dépensé par programme par mois ?
+Combien ai-je dépensé par programme et par mois ?
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimensions et mesures concernant les coûts programmes {#program-cost-analysis-dimensions-and-measures}
+## Dimensions et mesures d’analyse des coûts du programme {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -41,25 +40,25 @@ Combien ai-je dépensé par programme par mois ?
 
 ## Investissement {#investment}
 
-| Mesure | Description |
+| Mesurer | Description |
 |---|---|
 | Coût par membre | Coût moyen par membre du programme |
-| Coût par nouveau nom | Coût moyen par piste acquise par le programme |
-| Coût par réussite | Coût moyen par piste ayant obtenu un succès dans la progression d&#39;un programme |
-| Coût par réussite (nouveaux noms) | Coût moyen par piste acquis par le programme ET succès de la progression du programme |
+| Coût par nouveau nom | Coût moyen par prospect acheté par le programme |
+| Coût par succès | Coût moyen par prospect ayant réussi la progression d&#39;un programme |
+| Coût par succès (nouveaux noms) | Coût moyen par piste acquis par le programme ET succès dans la progression du programme |
 | Coût du programme | Coût total de la période du programme |
 
-## Membres {#membership}
+## Adhésion {#membership}
 
 <table> 
  <tbody> 
   <tr> 
-   <th>Mesure</th> 
+   <th>Mesurer</th> 
    <th>Description</th> 
   </tr> 
   <tr> 
-   <td>% de nouveaux noms</td> 
-   <td>Pourcentage de pistes qui ont été acquises par un programme</td> 
+   <td>% nouveaux noms</td> 
+   <td>Pourcentage de pistes acquises par un programme</td> 
   </tr> 
   <tr> 
    <td>Membres</td> 
@@ -76,31 +75,31 @@ Combien ai-je dépensé par programme par mois ?
 
 | Dimension | Description |
 |---|---|
-| Canal programme | Canal programme |
+| Canal de programme | Canal de programme |
 | Nom du programme | Nom du programme |
 
-## Période de coût programme {#program-cost-timeframe}
+## Période de coût du programme {#program-cost-timeframe}
 
 | Dimension | Description |
 |---|---|
-| Année | Période de coût programme |
-| Trimestre | Période de coût programme |
-| Mois | Période de coût programme |
+| Année | Période de coût du programme |
+| Trimestre | Période de coût du programme |
+| Mois | Période de coût du programme |
 
-## Balises de programme {#program-tags}
+## Étiquettes du programme {#program-tags}
 
-| Mesure | Description |
+| Mesurer | Description |
 |---|---|
-| Industrie | Balise de programme |
-| Ligne du produit | Balise de programme |
-| Propriétaire du programme | Balise de programme |
-| Région | Balise de programme |
+| Secteur | Étiquette de programme |
+| Ligne de produit | Étiquette de programme |
+| Propriétaire du programme | Étiquette de programme |
+| Région | Étiquette de programme |
 
-## Réussite {#success}
+## Succès {#success}
 
-| Mesure | Description |
+| Mesurer | Description |
 |---|---|
-| % de réussite (nouveaux noms) | Pourcentage de pistes qui ont été acquises par le programme ET qui ont réussi à progresser dans le programme |
-| % de réussite (Total) | Pourcentage de pistes qui ont réussi à progresser d&#39;un programme |
-| Succès (nouveaux noms) | Nombre total de nouveaux noms qui ont réussi à progresser d&#39;un programme |
-| Succès (total) | Nombre total de pistes qui ont réussi à progresser d&#39;un programme |
+| % succès (nouveaux noms) | Pourcentage de pistes acquises par le programme ET ayant atteint le succès dans la progression du programme |
+| % succès (total) | Pourcentage de pistes ayant réussi la progression d&#39;un programme |
+| Succès (nouveaux noms) | Nombre total de nouveaux noms ayant réussi la progression d’un programme |
+| Succès (total) | Nombre total de pistes ayant réussi la progression d’un programme |

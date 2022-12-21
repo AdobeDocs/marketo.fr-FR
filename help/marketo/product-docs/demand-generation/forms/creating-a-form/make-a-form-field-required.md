@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359569
-description: Rendre un champ de formulaire obligatoire - Documents marketing - Documentation du produit
+description: Rendre un champ de formulaire obligatoire - Documents Marketo - Documentation du produit
 title: Rendre un champ de formulaire obligatoire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
+# Rendre un champ de formulaire obligatoire {#make-a-form-field-required}
 
-# Rendre le champ de formulaire obligatoire {#make-a-form-field-required}
-
-Lorsque [vous ajoutez des champs à un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md), vous souhaitez peut-être en faire certains requis pour la personne qui les remplit. Voici comment.
+When [ajout de champs à un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) vous voudrez peut-être en faire quelques-uns requis par la personne qui les remplit. Voici comment.
 
 1. Accédez à **Activités marketing**.
 
@@ -23,11 +22,11 @@ Lorsque [vous ajoutez des champs à un formulaire](/help/marketo/product-docs/de
 
    ![](assets/editform-2.png)
 
-1. Sélectionnez le champ que vous souhaitez rendre obligatoire et cochez la case Est requis.
+1. Sélectionnez le champ que vous souhaitez rendre obligatoire et cochez la case Est obligatoire.
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Bien joué ! Cliquez sur **Terminer**.
+1. C&#39;est joli ! Cliquez sur **Terminer**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
@@ -37,6 +36,6 @@ Lorsque [vous ajoutez des champs à un formulaire](/help/marketo/product-docs/de
 
 >[!NOTE]
 >
->N&#39;oubliez pas [d&#39;approuver tous les landings page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) ce formulaire est activé pour que les modifications soient mises en oeuvre.
+>N&#39;oublie pas de [valider une landing page ;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) ce formulaire est actif pour que les modifications soient mises en ligne.
 
-Devez-vous [réorganiser les champs que vous avez ajoutés à votre formulaire](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md) ?
+Avez-vous besoin de [réorganiser les champs que vous avez ajoutés à votre formulaire](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?

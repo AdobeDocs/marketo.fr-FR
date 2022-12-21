@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 19D {#template-19d}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 19D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)
+Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 19D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)
 
 ![](assets/image2015-9-16-17-3a1-3a31.png)
 

@@ -1,30 +1,29 @@
 ---
 unique-page-id: 37357306
-description: Utilisation d’actions rapides pour accélérer votre flux de travail - Documents marketing - Documentation du produit
-title: Utilisation d’actions rapides pour accélérer votre processus
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Utilisation d’actions rapides pour accélérer votre workflow - Documents Marketo - Documentation du produit
+title: Utilisation d’actions rapides pour accélérer votre workflow
+exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Utilisation d’actions rapides pour accélérer votre workflow {#using-quick-actions-to-speed-up-your-workflow}
 
-# Utilisation d’actions rapides pour accélérer votre flux de travail {#using-quick-actions-to-speed-up-your-workflow}
+Il existe deux types de colonnes d’action rapide dans la grille d’email. Actions par courrier électronique, qui vous permettent d’agir sur le courrier électronique, et Actions de suivi, qui vous permettent d’agir sur l’engagement en quelques clics rapides.
 
-Il existe deux types de colonnes d&#39;action rapide dans la grille de courriel. Actions par courrier électronique, qui vous permettent d’agir sur le courrier électronique, et Actions de suivi, qui vous permettent d’agir sur l’engagement en quelques clics rapides.
+## Actions E-mail {#email-actions}
 
-## Actions de courriel {#email-actions}
+Les actions rapides des emails sont dynamiques et mises à jour en fonction des actions les plus pertinentes pour l’état de l’email que vous consultez. Au maximum, deux actions rapides de courrier électronique sont visibles pour chaque état d’email. Vous pouvez voir quelles actions rapides de courrier électronique seront disponibles pour chaque état ci-dessous.
 
-Les actions rapides de courrier électronique sont dynamiques et mises à jour en fonction des actions les plus pertinentes pour l’état du courrier électronique que vous consultez. Au maximum deux actions rapides de courrier électronique sont visibles pour chaque état de courrier électronique. Vous pouvez voir les actions rapides de messagerie qui seront disponibles pour chaque état ci-dessous.
-
-**Livré**
+**Remis au destinataire**
 
 | Statut | Description |
 |---|---|
-| Archiver | Ajoute le courrier électronique au dossier archivé et arrête toutes les vues de désactivation et de suivi des clics pour ce courrier électronique. |
-| Réussite | Marquera le courrier électronique comme ayant été correctement signalé dans les analyses de modèles. |
+| Archiver | Ajoutera le courrier électronique au dossier archivé et arrêtera toutes les vues désactivées et le suivi des clics pour ce courrier électronique. |
+| Succès | Marque l’email comme ayant réussi à faire l’objet d’un rapport dans les analyses de modèle. |
 
 **Archivé**
 
@@ -36,11 +35,11 @@ Les actions rapides de courrier électronique sont dynamiques et mises à jour e
  <tbody> 
   <tr> 
    <td>Désarchiver</td> 
-   <td>Déplace le courrier électronique vers le dossier livré et réactive le suivi des vues/clics.</td> 
+   <td>Déplacez le courrier électronique vers le dossier de diffusion et réactivez le suivi des affichages/clics.</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
-   <td><p>Supprime le courrier électronique.<br><strong>Remarque : les </strong> courriers électroniques envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
+   <td><p>Supprime l’email.<br><strong>Remarque :</strong> Les emails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -55,16 +54,16 @@ Les actions rapides de courrier électronique sont dynamiques et mises à jour e
  <tbody> 
   <tr> 
    <td>Modifier</td> 
-   <td>Ouvre le courrier électronique dans la fenêtre de composition à modifier.</td> 
+   <td>Ouvre l'email dans la fenêtre de composition à éditer.</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
-   <td><p>Supprime le courrier électronique.<br><strong>Remarque : les </strong> courriers électroniques envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
+   <td><p>Supprime l’email.<br><strong>Remarque :</strong> Les emails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Échec, rebonds et indésirable**
+**Échec, rebond et indésirable**
 
 <table> 
  <colgroup> 
@@ -73,12 +72,12 @@ Les actions rapides de courrier électronique sont dynamiques et mises à jour e
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Réessayer l'envoi</td> 
-   <td>Tente immédiatement de renvoyer le courriel.</td> 
+   <td>Réessayer l’envoi</td> 
+   <td>Essaie immédiatement de renvoyer l’email.</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
-   <td><p>Supprime le courrier électronique.<br><strong>Remarque : les </strong> courriers électroniques envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
+   <td><p>Supprime l’email.<br><strong>Remarque :</strong> Les emails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -89,7 +88,7 @@ Les actions rapides de courrier électronique sont dynamiques et mises à jour e
 
 | Fonction | Description |
 |---|---|
-| Envoyer un courriel de suivi | Ouvre la fenêtre de composition avec le corps du courrier électronique intégré sélectionné annexé et prêt à être envoyé au destinataire. |
-| Effectuer un appel | Ouvre le téléphone de vente pour appeler le destinataire de messagerie. |
+| Envoyer un courrier électronique de relance | Ouvre la fenêtre de composition avec le corps d&#39;email intégré sélectionné ajouté et prêt à être envoyé au destinataire. |
+| Passer un appel | Ouvre le téléphone de vente pour effectuer un appel au destinataire de l’email. |
 | Envoyer InMail | Redirige vers LinkedIn pour envoyer à la personne un message InMail. |
-| Créer une Tâche | Ouvre la fenêtre contextuelle de création de tâche pour créer une tâche de rappel. |
+| Créer tâche | Ouvre la fenêtre contextuelle Créer une tâche pour créer une tâche de rappel. |

@@ -1,41 +1,40 @@
 ---
 unique-page-id: 11372054
-description: Modifier la version textuelle d'un courrier électronique - Documents marketing - Documentation du produit
-title: Modification de la version textuelle d’un courrier électronique
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Modification de la version texte d’un courrier électronique - Documents Marketo - Documentation du produit
+title: Modification de la version texte d’un courrier électronique
+exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
+# Modification de la version texte d’un courrier électronique {#edit-the-text-version-of-an-email}
 
-# Modifier la version textuelle d&#39;un courrier électronique {#edit-the-text-version-of-an-email}
-
-Lorsque vous créez un courrier électronique, vous pouvez souhaiter que sa version textuelle soit libellée différemment de la version HTML. Par défaut, Marketo copie automatiquement le contenu textuel de tout élément de texte enrichi contenu dans votre courrier électronique vers la version texte. Voici comment le modifier.
+Lorsque vous créez un email, vous souhaitez peut-être que sa version texte soit formulée différemment de la version par HTML. Par défaut, Marketo copie automatiquement le contenu texte de tout élément de texte enrichi contenu dans votre email vers la version Texte. Voici comment la modifier.
 
 >[!NOTE]
 >
->Il ne s’agit pas d’un article sur la création d’un courrier électronique au format texte uniquement. Pour plus d’informations à ce sujet, voir [Création d’un courriel texte seulement](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
+>Il ne s’agit pas d’un article sur la création d’un email texte uniquement. Pour plus d’informations à ce sujet, voir [Création d’un message électronique texte uniquement](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. Dans l’éditeur de courrier électronique, cliquez sur l’onglet **Texte** au bas du courrier électronique.
+1. Dans l’éditeur d’email, cliquez sur l’icône **Texte** au bas de l’email.
 
    ![](assets/one-5.png)
 
-1. Décochez **Copier automatiquement du code HTML** pour apporter des modifications.
+1. Décocher **Copier automatiquement à partir du HTML** pour apporter des modifications.
 
    ![](assets/two-5.png)
 
-1. Doublon-cliquez sur la zone de texte.
+1. Double-cliquez sur la zone de texte.
 
    ![](assets/three-4.png)
 
-1. Effectuez vos modifications. Une fois que vous avez terminé, fermez simplement l’éditeur ou revenez à la version HTML. Les modifications seront enregistrées automatiquement.
+1. Apportez vos modifications. Une fois que vous avez terminé, fermez simplement l’éditeur ou revenez à la version de HTML. Les modifications seront automatiquement enregistrées.
 
    ![](assets/four-4.png)
 
-   Si vous ne disposez que d’un contenu statique, le texte peut être modifié en un seul bloc (voir l’étape 3). Si vous disposez d’un contenu dynamique, le texte sera divisé en différentes sections modifiables, comme illustré ci-dessous.
+   Si vous n’avez que du contenu statique, le texte sera éditable dans un bloc important (voir à l’étape 3). Si vous disposez d’un contenu dynamique, le texte sera divisé en différentes sections modifiables, comme illustré ci-dessous.
 
    ![](assets/five-3.png)
 

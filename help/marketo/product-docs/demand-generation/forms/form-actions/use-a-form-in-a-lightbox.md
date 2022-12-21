@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359677
-description: Utiliser un formulaire dans un Lightbox - Marketo Docs - Documentation du produit
+description: Utilisation d’un formulaire dans Lightbox - Marketo Docs - Documentation du produit
 title: Utilisation d’un formulaire dans un Lightbox
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Utilisation d’un formulaire dans un Lightbox {#use-a-form-in-a-lightbox}
 
@@ -31,7 +30,7 @@ Une Lightbox est une technique qui permet d’ouvrir un formulaire devant votre 
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Définissez **Type de code** sur **Lightbox**.
+1. Définir **Type de code** to **Lightbox**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
@@ -39,6 +38,6 @@ Une Lightbox est une technique qui permet d’ouvrir un formulaire devant votre 
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
-Remettez le code à votre développeur Web et demandez-lui de l’ajouter à votre site Web.
+Remettez le code à votre développeur web et demandez-lui de l’ajouter à votre site web.
 
-Super travail !
+Bon travail ! 

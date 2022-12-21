@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 16B {#template-16b}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
+Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 

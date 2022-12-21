@@ -1,29 +1,28 @@
 ---
 unique-page-id: 13795510
-description: Hiérarchies TAM - Documents marketing - Documentation sur les produits
+description: Hiérarchies TAM - Documents Marketo - Documentation du produit
 title: Hiérarchies TAM
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-
 # Hiérarchies TAM {#tam-hierarchies}
 
-Les hiérarchies permettent aux utilisateurs de la gestion des balises d’hériter des relations parent/enfant entre les comptes nommés dans leur gestion de la relation client.
+Les hiérarchies permettent aux utilisateurs de la gestion de la relation client (TAM) d’hériter des relations parents/enfants entre les comptes nommés dans leur gestion de la relation client.
 
-## Que sont les hiérarchies TAM ? {#what-are-tam-hierarchies}
+## Que sont les hiérarchies de la gestion dynamique des balises ? {#what-are-tam-hierarchies}
 
-Les sociétés peuvent avoir plusieurs divisions et filiales. Ces sociétés s&#39;organisent souvent par le biais de relations parents-enfants appelées hiérarchies. TAM peut hériter de ces hiérarchies de votre intégration SFDC ou MSD et vous permettre de travailler avec les différentes divisions en tant que famille unique.
+Les entreprises peuvent avoir plusieurs divisions et filiales. Ces entreprises s&#39;organisent souvent par le biais de relations parents-enfants appelées hiérarchies. TAM peut hériter de ces hiérarchies à partir de votre intégration SFDC ou MSD et vous permettre de travailler avec les différentes divisions en tant que famille unique.
 
 ## Utilisation des hiérarchies TAM {#working-with-tam-hierarchies}
 
-Avec les hiérarchies TAM, vous pouvez rapidement obtenir des informations sur une hiérarchie complète ou des comptes individuels dans le Tableau de bord Compte nommé.
+Grâce aux hiérarchies de la gestion des actifs numériques, vous pouvez obtenir rapidement des informations sur l’ensemble d’une hiérarchie ou sur les comptes individuels dans le tableau de bord des comptes nommés.
 
-**Ne pas utiliser la hiérarchie**
+**Non-utilisation de la hiérarchie**
 
 ![](assets/before.png)
 
@@ -33,8 +32,8 @@ Avec les hiérarchies TAM, vous pouvez rapidement obtenir des informations sur u
 
 >[!NOTE]
 >
->L’interface de Marketo n’affiche que 10 niveaux inférieurs (comptes enfant et petit-enfant du compte parent), mais il n’y a pas de limite au nombre de comptes enfant que vous pouvez créer.
+>L’interface de Marketo affiche uniquement jusqu’à 10 niveaux de bas (comptes enfants et petits-enfants du compte parent). Toutefois, le nombre de comptes enfants que vous pouvez créer n’est pas limité.
 
-Cible et création de rapports sur des hiérarchies entières avec [un clic](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Ciblez et créez des rapports sur des hiérarchies entières avec [un clic](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

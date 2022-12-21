@@ -3,7 +3,8 @@ description: Déconnecter Salesforce des actions Sales Insight - Documents Marke
 title: Désolidariser Salesforce des actions Sales Insight
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
+source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

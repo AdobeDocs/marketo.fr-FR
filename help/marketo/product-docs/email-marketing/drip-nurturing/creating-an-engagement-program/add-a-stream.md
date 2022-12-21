@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359787
-description: Ajouter un flux - Documents marketing - Documentation du produit
-title: Ajouter un flux
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Ajout d’un flux - Documents Marketo - Documentation du produit
+title: Ajout d’une diffusion
+exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-
-# Ajouter un flux {#add-a-stream}
+# Ajout d’une diffusion {#add-a-stream}
 
 Les programmes d’engagement peuvent contenir plusieurs flux. Voici comment en ajouter un nouveau.
 
@@ -19,17 +18,17 @@ Les programmes d’engagement peuvent contenir plusieurs flux. Voici comment en 
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez votre programme d’engagement et cliquez sur l’onglet **Flux**.
+1. Sélectionnez votre programme d’engagement et cliquez sur le bouton **Flux** .
 
    ![](assets/streamstablifecycle.jpg)
 
-1. Cliquez sur **Ajouter le flux**.
+1. Cliquez sur **Ajouter un flux**.
 
    ![](assets/image2014-9-15-16-3a56-3a23.png)
 
    >[!NOTE]
    >
-   >Vous pouvez ajouter jusqu’à 25 flux par programme d’engagement.
+   >Vous pouvez ajouter jusqu’à 25 diffusions par programme d’engagement.
 
    Et... fini !
 

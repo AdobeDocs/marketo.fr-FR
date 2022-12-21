@@ -1,53 +1,52 @@
 ---
 unique-page-id: 7504051
-description: Gérer les données personnelles - Documents marketing - Documentation du produit
+description: Gérer les données personnelles - Documents Marketo - Documentation du produit
 title: Gérer les données personnelles
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-
 # Gérer les données personnelles {#manage-person-data}
 
-Tirez parti des données personnelles pour la personnalisation Web en sélectionnant les champs de personne à utiliser dans votre segmentation.
+Tirez parti des données personnelles pour la personnalisation web en sélectionnant les champs de personne à utiliser dans votre segmentation.
 
 1. Accédez à **Paramètres du compte**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Accédez à **Base de données**.
+1. Accédez à **Base**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
-## Ajouter un champ Nouvelle personne {#adding-a-new-person-field}
+## Ajout d’un champ Personne {#adding-a-new-person-field}
 
-1. Sélectionnez **Champ à ajouter** dans la liste déroulante pour ajouter un champ de données de personne à la liste.
+1. Sélectionner **Champ à ajouter** dans la liste déroulante pour ajouter un champ de données de personne à la liste.
 
    ![](assets/add-a-person-field-hand.jpg)
 
    >[!NOTE]
    >
-   >Un nouveau champ est ajouté dans un état en attente et peut prendre jusqu’à 24 heures pour être activé.
+   >Un nouveau champ est ajouté à l’état En attente et peut prendre jusqu’à 24 heures pour être activé.
 
 ## Suppression d’un champ de personne {#deleting-a-person-field}
 
-1. Cliquez sur l’icône Supprimer ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) pour supprimer un champ de la liste. Cliquez sur **Oui** pour confirmer la suppression du champ.
+1. Cliquez sur l’icône de suppression ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) pour supprimer un champ de la liste. Cliquez sur **Oui** pour confirmer que vous souhaitez supprimer le champ.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
    >[!NOTE]
    >
-   >**Gestion des champs de données personnelles**
+   >**Gestion des champs de données de personne**
    >
-   >* Seuls les champs de données de personne peuvent être inclus
+   >* Seuls les champs de données Personne peuvent être inclus
    >* Vous pouvez ajouter jusqu’à 30 champs de données de personne
-   >* L’activation de l’Ajoute de nouveaux champs peut prendre jusqu’à 24 heures.
-   >* La longueur maximale des types de chaîne est de 255 caractères
-   >* Les champs masqués seront automatiquement supprimés
+   >* Ajouter de nouveaux champs peut prendre jusqu’à 24 heures pour s’activer
+   >* La longueur maximale de chaînes de caractères est de 255 caractères.
+   >* Les champs masqués seront automatiquement supprimés.
 
 
 <table> 
@@ -58,24 +57,24 @@ Tirez parti des données personnelles pour la personnalisation Web en sélection
    <th><p>Nom convivial</p></th> 
   </tr> 
   <tr> 
-   <td><p>département</p></td> 
-   <td><p>Département</p></td> 
-   <td><p>Département</p></td> 
+   <td><p>service</p></td> 
+   <td><p>Service</p></td> 
+   <td><p>Service</p></td> 
   </tr> 
   <tr> 
    <td><p>titre</p></td> 
    <td><p>Titre</p></td> 
-   <td><p>Titre de la tâche</p></td> 
+   <td><p>Intitulé du poste</p></td> 
   </tr> 
   <tr> 
-   <td><p>notation</p></td> 
-   <td><p>Évaluation</p></td> 
-   <td><p>Évaluation</p></td> 
+   <td><p>note</p></td> 
+   <td><p>Classement</p></td> 
+   <td><p>Classement</p></td> 
   </tr> 
   <tr> 
    <td><p>leadScore</p></td> 
    <td><p>LeadScore</p></td> 
-   <td><p>Score</p></td> 
+   <td><p>Évaluation</p></td> 
   </tr> 
   <tr> 
    <td><p>leadStatus</p></td> 
@@ -83,7 +82,7 @@ Tirez parti des données personnelles pour la personnalisation Web en sélection
    <td><p>Statut</p></td> 
   </tr> 
   <tr> 
-   <td><p>priority</p></td> 
+   <td><p>priorité</p></td> 
    <td><p>Priorité</p></td> 
    <td><p>Priorité</p></td> 
   </tr> 
@@ -94,14 +93,14 @@ Tirez parti des données personnelles pour la personnalisation Web en sélection
   </tr> 
   <tr> 
    <td><p>désabonné</p></td> 
-   <td><p>Non abonné</p></td> 
-   <td><p>Non abonné</p></td> 
+   <td><p>Désabonné</p></td> 
+   <td><p>Désabonné</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-Les champs de piste suivants sont prêts à l’emploi pour les nouveaux comptes de personnalisation Web :
+Les champs de piste suivants sont fournis prêts à l’emploi pour les nouveaux comptes de personnalisation web :
 
 >[!MORELIKETHIS]
 >
->[Création d’un segment à l’aide de données de personne connue](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[Création d’un segment à l’aide de données de personne connues](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)

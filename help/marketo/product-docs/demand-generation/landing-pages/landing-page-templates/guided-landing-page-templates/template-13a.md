@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 13A {#template-13a}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 

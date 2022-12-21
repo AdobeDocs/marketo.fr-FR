@@ -1,34 +1,33 @@
 ---
 unique-page-id: 2359732
-description: Utiliser du contenu dynamique dans un Landing page à structure libre - Documentation marketing - Documentation du produit
-title: Utilisation de contenu dynamique dans un Landing page à structure libre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Utilisation de contenu dynamique dans une page d’entrée de forme libre - Documents Marketo - Documentation du produit
+title: Utilisation de contenu dynamique dans une page d’entrée de forme libre
+exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
+# Utilisation de contenu dynamique dans une page d’entrée de forme libre {#use-dynamic-content-in-a-free-form-landing-page}
 
-# Utiliser le contenu dynamique dans un Landing page de forme libre {#use-dynamic-content-in-a-free-form-landing-page}
-
-L’utilisation du contenu dynamique dans les Landings page engage votre audience avec des informations ciblées.
+L’utilisation du contenu dynamique dans les pages d’entrée engage votre audience avec des informations ciblées.
 
 >[!PREREQUISITES]
 >
 >* [Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Création d’un Landing page de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Ajouter un nouveau formulaire à un Landing page de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [Création d’une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Ajouter un nouveau formulaire à une page d’entrée de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
-## Segmentation des Ajoutes {#add-segmentation}
+## Ajouter une segmentation {#add-segmentation}
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez votre Landing page, puis cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre page d’entrée, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/landingpageeditdraft-1.jpg)
 
@@ -40,46 +39,46 @@ L’utilisation du contenu dynamique dans les Landings page engage votre audienc
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
-1. Votre segmentation et ses segments s’affichent sous Dynamique à droite.
+1. Votre segmentation et ses segments apparaissent sous Dynamique à droite.
 
    ![](assets/image2014-9-17-12-3a9-3a3.png)
 
 >[!NOTE]
 >
->Par défaut, tous les éléments de landing page sont statiques.
+>Tous les éléments de landing page sont statiques par défaut.
 
 ## Rendre l’élément dynamique {#make-element-dynamic}
 
-1. Faites glisser les éléments de contenu dynamique de **Static** vers **Dynamic**.
+1. Faites glisser et déposez les éléments de contenu dynamique sous **Statique** to **Dynamique**.
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. Vous pouvez également créer des éléments **Static** ou **Dynamic** à partir de l’élément **Settings**.
+1. Vous pouvez également créer des éléments. **Statique** ou **Dynamique** de l’élément **Paramètres**.
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
 ## Appliquer du contenu dynamique {#apply-dynamic-content}
 
-1. Sélectionnez un élément sous un segment, cliquez sur l’icône Paramètres, puis sur **Modifier**. Répétez cette opération pour chaque segment.
+1. Sélectionnez un élément sous un segment, cliquez sur l’icône de paramètres, puis sur **Modifier**. Répétez l’opération pour chaque segment.
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
-1. Une coche verte indique le contenu spécifique à ce segment. Un blanc indique le contenu du segment par défaut.
+1. Une coche verte indique le contenu propre à ce segment. Une valeur vide indique le contenu du segment par défaut.
 
    ![](assets/image2014-9-17-12-3a12-3a52.png)
 
 >[!CAUTION]
 >
->Les modifications apportées au bloc de contenu de segment par défaut sont appliquées à tous les segments.
+>Les modifications apportées au bloc de contenu Segment par défaut sont appliquées à tous les segments.
 
 >[!TIP]
 >
->Créez un landing page par défaut avant de modifier le contenu des différents segments.
+>Créez une landing page par défaut avant de modifier le contenu des différents segments.
 
-Voila ! Vous pouvez désormais envoyer du contenu ciblé.
+Voila ! Vous pouvez maintenant envoyer du contenu ciblé.
 
 >[!MORELIKETHIS]
 >
->* [Prévisualisation d’un Landing page avec du contenu dynamique](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Utilisation de contenu dynamique dans un courrier électronique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
+>* [Aperçu d’une page d’entrée avec du contenu dynamique](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Utilisation de contenu dynamique dans un email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 

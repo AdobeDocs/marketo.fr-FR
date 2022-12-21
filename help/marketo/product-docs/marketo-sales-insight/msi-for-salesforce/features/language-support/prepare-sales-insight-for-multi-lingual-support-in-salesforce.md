@@ -1,23 +1,22 @@
 ---
 unique-page-id: 7516460
-description: Préparer Sales Insight for Multi-Lingual Support in Salesforce - Marketo Docs - Documentation sur les produits
-title: Préparer Sales Insight for Multi-Lingual Support dans Salesforce
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Préparation de Sales Insight pour une prise en charge multilingue dans Salesforce - Documents Marketo - Documentation du produit
+title: Préparation de Sales Insight pour une prise en charge multilingue dans Salesforce
+exl-id: b808fa91-accd-4e0c-8223-0717faccab10
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Préparer Sales Insight for Multi-Lingual Support in Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
+# Préparation de Sales Insight pour une prise en charge multilingue dans Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-Les statistiques des ventes de marketing sont stockées par langue. Donc, si vous voulez qu&#39;il fonctionne pour plusieurs langues, vous devez entrer les informations d&#39;identification séparément pour chaque langue.
+Marketo Sales Insight est stocké par langue. Ainsi, si vous souhaitez qu’il fonctionne pour plusieurs langues, vous devez saisir les informations d’identification séparément pour chaque langue.
 
 >[!NOTE]
 >
@@ -26,14 +25,12 @@ Les statistiques des ventes de marketing sont stockées par langue. Donc, si vou
 >* Anglais
 >* Français
 >* Allemand
-
 >
->
-Toute autre langue prend par défaut l’anglais.
+>Toute autre langue est définie par défaut sur l’anglais.
 
-## Ajouter une nouvelle langue pour le module commercial Marketing Insight {#adding-a-new-language-for-marketo-sales-insight}
+## Ajout d’une nouvelle langue pour Marketo Sales Insight {#adding-a-new-language-for-marketo-sales-insight}
 
-1. Connectez-vous à Salesforce. Dans la liste déroulante sous votre nom dans le coin supérieur droit, cliquez sur **Configuration**.
+1. Connectez-vous à Salesforce. Dans la liste déroulante sous votre nom située dans le coin supérieur droit, cliquez sur **Configuration**.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
@@ -49,35 +46,35 @@ Toute autre langue prend par défaut l’anglais.
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. Votre interface Salesforce est maintenant dans la langue sélectionnée. Vous pouvez cliquer sur l’icône **+** pour afficher tous les onglets disponibles.
+1. Votre interface Salesforce est maintenant dans la langue sélectionnée. Vous pouvez cliquer sur le bouton **+** pour afficher tous les onglets disponibles.
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. Cliquez sur **Configurer Marketing Sales Insight** (dans la langue sélectionnée).
+1. Cliquez sur **Configuration de Marketo Sales Insight** (dans la langue sélectionnée).
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Allez sur le marché. Recherchez vos [détails Marketing Sales Insight **configuration de l&#39;API**](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Aller à Marketo. Recherchez votre [Marketo Sales Insight **Configuration des API** détails](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
-1. Saisissez les détails de l’API dans Marketo et cliquez sur **Enregistrer**.
+1. Saisissez les détails de l’API dans Marketo, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
-## Remplacer Salesforce par l&#39;anglais {#change-salesforce-back-to-english}
+## Remplacer Salesforce par l’anglais {#change-salesforce-back-to-english}
 
-Lorsque vous avez fini de personnaliser votre organisation Salesforce, voici comment renvoyer votre configuration personnelle en anglais.
+Lorsque vous avez terminé de personnaliser votre organisation Salesforce, voici comment restaurer votre configuration personnelle en anglais.
 
 >[!NOTE]
 >
->Les captures d&#39;écran suivantes sont en français avec des instructions en anglais.  Vous verrez les mêmes écrans avec du texte dans la langue que vous avez sélectionnée à l’étape précédente.
+>Les captures d’écran suivantes sont en français avec des instructions en anglais.  Les mêmes écrans s’affichent avec du texte dans la langue que vous avez sélectionnée à l’étape précédente.
 
 1. Sous votre nom, cliquez sur **Configuration**.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Cliquez sur **Informations personnelles** sous **Mes informations personnelles**.
+1. Cliquez sur **Informations personnelles** under **Mes informations personnelles**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
@@ -85,8 +82,8 @@ Lorsque vous avez fini de personnaliser votre organisation Salesforce, voici com
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
-1. Sélectionnez **Anglais** dans la liste déroulante Langage et cliquez sur **Enregistrer**.
+1. Sélectionner **Anglais** dans la liste déroulante Langue , puis cliquez sur **Enregistrer**.
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 
-   Votre Salesforce est de retour en anglais !
+   Maintenant votre Salesforce est de retour en anglais !

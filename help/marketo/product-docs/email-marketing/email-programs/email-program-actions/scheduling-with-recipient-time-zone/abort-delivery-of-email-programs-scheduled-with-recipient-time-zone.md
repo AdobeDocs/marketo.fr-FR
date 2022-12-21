@@ -1,23 +1,22 @@
 ---
 unique-page-id: 13795727
-description: Abandonner la Diffusion des Programmes électroniques planifiés avec le fuseau horaire Destinataire - Documents marketing - Documentation du produit
-title: Abandonner la Diffusion des Programmes de courriel planifiés avec le fuseau horaire Destinataire
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Abandonner la diffusion des programmes de messagerie planifiés avec le fuseau horaire du destinataire - Documents Marketo - Documentation du produit
+title: Abandonner la diffusion des programmes de messagerie planifiés avec le fuseau horaire du destinataire
+exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
+# Abandonner la diffusion des programmes de messagerie planifiés avec le fuseau horaire du destinataire {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
 
-# Abandonner la Diffusion des Programmes électroniques planifiés avec le fuseau horaire Destinataire {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
+En cas d’urgence, vous pouvez interrompre la diffusion d’un programme de messagerie qui a déjà commencé à s’exécuter avec l’option Fuseau horaire du destinataire activée.
 
-En cas d’urgence, vous pouvez annuler la diffusion d’un programme de messagerie qui a déjà commencé à s’exécuter avec l’activation du fuseau horaire Destinataire.
+Comme les programmes de messagerie programmés avec le fuseau horaire des destinataires peuvent s’exécuter pendant 24 heures au maximum, l’abandon de la diffusion du programme annule les envois ultérieurs.
 
-Comme les programmes de messagerie planifiés avec le fuseau horaire du Destinataire peuvent s’exécuter pendant 24 heures au maximum, l’abandon de la diffusion du programme annulera tous les envois suivants après ce moment.
-
-1. Sélectionnez le programme de messagerie que vous souhaitez annuler, puis cliquez sur **Abandonner la Diffusion** sous la mosaïque Approbation du panneau de configuration.
+1. Sélectionnez le programme de messagerie que vous souhaitez annuler, puis cliquez sur **Abandonner la diffusion** sous la mosaïque Approbation du panneau de contrôle.
 
    ![](assets/ptz-abortdelivery.png)
 
@@ -25,20 +24,20 @@ Comme les programmes de messagerie planifiés avec le fuseau horaire du Destinat
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
-1. Après l&#39;annulation, la grille **Résultats** de votre programme de courriel ressemblera à celle ci-dessous. Les envois suivants sont annulés et s’affichent sous la forme &quot;Courrier électronique rebondi léger&quot; dans la colonne **Type d’Activité**.
+1. Après l’annulation, la variable **Résultats** La grille de votre programme email ressemblera à celle ci-dessous. Tous les envois suivants sont annulés et s’affichent comme &quot;Email Bounce Soft&quot; dans la variable **Type d’activité** colonne .
 
    ![](assets/image2018-2-23-11-3a22-3a11.png)
 
    >[!NOTE]
    >
-   >Les courriers électroniques annulés **ne s’affichent pas** comme un rebond léger *jusqu’à* l’heure à laquelle ils ont été initialement programmés pour être distribués dans leurs fuseaux horaires respectifs. Jusqu’à ce stade, ils s’afficheront toujours sous la forme &quot;Envoyer un courriel&quot;.
+   >Les emails annulés seront **not** s’afficher en tant que soft bounce *Jusqu’à* l’heure initialement prévue pour leur livraison dans leurs fuseaux horaires respectifs. Jusqu’à ce moment-là, ils s’afficheront toujours comme &quot;Envoyer un courrier électronique&quot;.
 
-1. Dans la grille, vous pouvez cliquer sur n’importe quel e-mail pour accéder aux détails de l’activité de vue. Pour une envoi annulé, la fenêtre contextuelle des détails se présente comme suit :
+1. Dans la grille, vous pouvez cliquer sur n’importe quel email pour afficher les détails de l’activité. Pour un envoi annulé, la fenêtre contextuelle des détails se présente comme suit :
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 
 >[!MORELIKETHIS]
 >
->* [Présentation du fuseau horaire Destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Planification des Programmes de courriel avec fuseau horaire Destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Comprendre le fuseau horaire du destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Planification des programmes de messagerie avec un fuseau horaire de destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 

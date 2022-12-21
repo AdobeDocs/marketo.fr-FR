@@ -1,21 +1,20 @@
 ---
 unique-page-id: 12978647
-description: Créer un champ personnalisé pour la découverte CRM - Documents marketing - Documentation du produit
-title: Créer un champ personnalisé pour la découverte CRM
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Création d’un champ personnalisé pour la détection CRM - Documents Marketo - Documentation du produit
+title: Création d’un champ personnalisé pour la détection de gestion de la relation client
+exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
+# Création d’un champ personnalisé pour la détection de gestion de la relation client {#create-a-custom-field-for-crm-discovery}
 
-# Créer un champ personnalisé pour la découverte CRM {#create-a-custom-field-for-crm-discovery}
+Ajoutez des champs personnalisés aux comptes, mappez-les à votre système de gestion de la relation client et utilisez-les pour la détection de compte CRM dans Marketo.
 
-Ajoutez des champs personnalisés aux comptes, mappez-les à votre gestion de la relation client et utilisez-les pour la découverte de comptes CRM dans Marketo.
-
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/admin.png)
 
@@ -23,19 +22,19 @@ Ajoutez des champs personnalisés aux comptes, mappez-les à votre gestion de la
 
    ![](assets/two-4.png)
 
-1. Cliquez sur la liste déroulante **Objet** et sélectionnez **Compte nommé**.
+1. Cliquez sur le bouton **Objet** et sélectionnez **Compte nommé**.
 
    ![](assets/three-3.png)
 
-1. Cliquez sur la liste déroulante **Type** et sélectionnez un type.
+1. Cliquez sur le bouton **Type** et sélectionnez un type.
 
    ![](assets/four-3.png)
 
-1. Saisissez un **nom** (le nom de l’API sera renseigné automatiquement) et cliquez sur **Créer**.
+1. Saisissez un **Nom** (le nom de l’API est renseigné automatiquement) et cliquez sur **Créer**.
 
    ![](assets/five-3.png)
 
-1. Une fois le champ créé, sélectionnez-le dans l’arborescence de droite. Cliquez sur la liste déroulante **Actions de champ** et sélectionnez **Associer au champ CRM**.
+1. Une fois le champ créé, sélectionnez-le dans l’arborescence de droite. Cliquez sur le bouton **Actions de champ** et sélectionnez **Associer au champ CRM**.
 
    ![](assets/six-2.png)
 

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2360035
-description: Analyser un rapport sur les performances des personnes - Documentation sur le marketing - Documentation sur les produits
-title: Recherche dans un rapport sur les performances des personnes
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Exploration d’un rapport sur les performances des personnes - Documents Marketo - Documentation du produit
+title: Analyse en profondeur d’un rapport sur les performances des personnes
+exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Analyse en profondeur d’un rapport sur les performances des personnes {#drill-down-in-a-people-performance-report}
 
-# Recherche dans un rapport sur les performances des personnes {#drill-down-in-a-people-performance-report}
+Explorez un rapport Performance des personnes afin d’afficher des informations supplémentaires sur les personnes.
 
-Parcourez un rapport sur les performances des personnes pour afficher d’autres informations sur les personnes.
-
-1. Cliquez sur l&#39;onglet **Rapport** pour vue tout rapport existant.
+1. Cliquez sur le bouton **Rapport** pour afficher n’importe quel rapport existant.
 
    ![](assets/one.png)
 
@@ -23,22 +22,22 @@ Parcourez un rapport sur les performances des personnes pour afficher d’autres
 
    ![](assets/two.png)
 
-1. Cliquez sur **Liste déroulante**.
+1. Cliquez sur **Zoom avant**.
 
    ![](assets/three.png)
 
-1. Dans la fenêtre contextuelle **Zoom déroulant**, sélectionnez l’attribut à atteindre. Cliquez ensuite sur **Zoom arrière**.
+1. Dans le **Zoom avant** s’affiche, sélectionnez l’attribut vers lequel vous souhaitez effectuer une analyse. Cliquez ensuite sur **Zoom avant**.
 
    ![](assets/four.png)
 
-1. Super boulot ! Le rapport d’analyse s’ouvre dans un nouvel onglet. Vous pouvez maintenant explorer le nouveau rapport.
+1. Bon boulot ! Le rapport d’analyse s’ouvre dans un nouvel onglet. Vous pouvez maintenant explorer le nouveau rapport.
 
    >[!TIP]
    >
-   >Si aucun nouvel onglet de rapport n’est ouvert, il se peut que votre navigateur bloque les fenêtres contextuelles. Modifiez les paramètres de votre navigateur pour l’autoriser.
+   >Si aucun nouvel onglet de rapport n’est ouvert, votre navigateur peut bloquer les fenêtres contextuelles. Modifiez les paramètres de votre navigateur pour l’autoriser.
 
    ![](assets/five.png)
 
-1. Pour enregistrer vos résultats (facultatif), cliquez sur l&#39;icône **Exporter** située dans le coin inférieur gauche.
+1. Pour enregistrer vos résultats (facultatif), cliquez sur le bouton **Exporter** en bas à gauche.
 
    ![](assets/six.png)

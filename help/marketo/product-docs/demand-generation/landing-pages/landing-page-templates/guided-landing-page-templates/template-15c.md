@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 15C {#template-15c}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 15C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)
+Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 15C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)
 
 ![](assets/image2015-8-13-13-3a40-3a23.png)
 

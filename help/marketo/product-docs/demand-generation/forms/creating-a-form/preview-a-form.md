@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359575
-description: Prévisualisation d’un formulaire - Documents marketing - Documentation du produit
-title: Prévisualisation d’un formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Aperçu d’un formulaire - Documents Marketo - Documentation du produit
+title: Aperçu d’un formulaire
+exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
+# Aperçu d’un formulaire {#preview-a-form}
 
-# Prévisualisation d’un formulaire {#preview-a-form}
-
-Avant de publier, vous pouvez afficher le formulaire dans cet aperçu rapide et simple.
+Avant de publier, vous pouvez afficher le formulaire dans cet aperçu de formulaire simple et rapide.
 
 1. Accédez à **Activités marketing**.
 
@@ -23,20 +22,20 @@ Avant de publier, vous pouvez afficher le formulaire dans cet aperçu rapide et 
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Sous **Actions de formulaire**, cliquez sur **Prévisualisation**.
+1. Sous **Actions de formulaire**, cliquez sur **Aperçu**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. L’éditeur de formulaire s’ouvre en mode **prévisualisation**.
+1. L’éditeur de formulaire s’ouvre alors dans **aperçu** mode .
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Cliquez sur **Modifier le brouillon** pour revenir au mode **modifier**.
+1. Cliquez sur **Modifier le brouillon** pour revenir à **edit** mode .
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-1. Retournez facilement en cliquant sur **Version préliminaire de la Prévisualisation**.
+1. Revenir facilement en arrière en cliquant sur **Aperçu du brouillon**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 
-N&#39;était-ce pas facile ? Vous savez maintenant comment prévisualisation votre formulaire lorsque vous apportez des modifications.
+N&#39;était-ce pas facile ? Vous savez maintenant comment prévisualiser votre formulaire au fur et à mesure que vous apportez des modifications.

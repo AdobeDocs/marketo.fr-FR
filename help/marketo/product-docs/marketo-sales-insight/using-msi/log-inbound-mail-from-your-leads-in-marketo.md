@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2949285
-description: Connectez-vous au courrier entrant à partir de vos pistes dans Marketo - Marketo Docs - Documentation du produit
-title: Enregistrer le courrier entrant provenant de vos pistes dans Marketo
-translation-type: tm+mt
-source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
+description: Log Inbound Mail from Your Leads in Marketo - Marketo Docs - Documentation du produit
+title: Connexion au courrier entrant à partir de vos pistes dans Marketo
+exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
+# Connexion au courrier entrant à partir de vos pistes dans Marketo {#log-inbound-mail-from-your-leads-in-marketo}
 
-# Enregistrer le courrier entrant provenant de vos pistes dans Marketo {#log-inbound-mail-from-your-leads-in-marketo}
+Vous pouvez consigner les réponses de vos pistes directement dans Outlook à l’aide du module complémentaire de messagerie Marketo.
 
-Vous pouvez consigner les réponses de vos pistes directement dans Outlook à l&#39;aide de l&#39;Ajoute de courriel de Marketo.
+## À partir de l’application principale Outlook {#from-the-main-outlook-application}
 
-## A partir de l&#39;application Outlook principale {#from-the-main-outlook-application}
-
-1. Sélectionnez le courrier électronique à enregistrer, puis cliquez sur Log with Marketo (Enregistrer avec Marketo).
+1. Sélectionnez l&#39;email que vous souhaitez enregistrer et cliquez sur Log with Marketo (Enregistrer dans le journal avec).
 
 ![](assets/image2014-9-23-17-3a12-3a44.png)
 
 >[!TIP]
 >
->Vous pouvez également cliquer avec le bouton droit sur un message et cliquer sur **Log With Marketo**.
+>Vous pouvez également cliquer avec le bouton droit sur un message et cliquer sur **Connexion à Marketo**.
 
 Vous devriez voir une confirmation.
 
@@ -31,7 +30,7 @@ Vous devriez voir une confirmation.
 
 ## À partir du courriel lui-même {#from-the-email-itself}
 
-Si vous avez ouvert le courriel, vous pouvez simplement cliquer sur le bouton Log with Marketo (Enregistrer avec le marketing) à partir de là.
+Si vous avez ouvert l&#39;email, vous pouvez simplement cliquer sur le bouton Log with Marketo (Enregistrer avec) à partir de là.
 
 ![](assets/image2014-9-23-17-3a14-3a14.png)
 
@@ -39,10 +38,10 @@ Vous devriez voir la même confirmation que l’autre méthode.
 
 ![](assets/image2014-9-23-17-3a14-3a29.png)
 
-Consignez les réponses de votre prospect pour les ajouter à leur historique dans Marketo.
+Consignez les réponses de votre piste pour les ajouter à leur historique dans Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Envoi et suivi d&#39;un courriel avec l&#39;Ajoute de courriel Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Envoi et suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle de marketing](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Envoi et suivi depuis Outlook à l’aide d’un modèle Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 

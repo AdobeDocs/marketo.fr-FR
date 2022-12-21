@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146958
-description: Envoyer une alerte - Documentation Marketo - Documentation du produit
+description: Envoyer une alerte - Documents Marketo - Documentation du produit
 title: Envoyer une alerte
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -13,31 +12,31 @@ ht-degree: 3%
 
 # Envoyer une alerte {#send-alert}
 
-## Aperçu {#overview}
+## APERÇU {#overview}
 
-Marketo peut envoyer une alerte par courriel contenant des informations personnelles à n&#39;importe qui - le vendeur, un partenaire ou quelqu&#39;un d&#39;autre. Utilisez l’étape de flux **Envoyer une alerte**.
+Marketo peut envoyer une alerte par courrier électronique contenant des informations sur la personne de tout le monde, à tout le monde (propriétaire commercial, partenaire ou autre). Utilisez la variable **Envoyer une alerte** étape de flux.
 
 ![](assets/one-1.png)
 
 ## Utilisation {#usage}
 
-1. Recherchez et sélectionnez le courriel à envoyer.
+1. Recherchez et sélectionnez l’email que vous souhaitez envoyer.
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >Votre alerte par courrier électronique doit contenir toutes les informations d’en-tête et être à l’état **Approuvé**.
+   >Votre alerte par e-mail doit contenir toutes les informations d’en-tête et figurer dans la variable **Approuvé** état.
 
-1. Vous pouvez cliquer sur l’icône de prévisualisation pour vous assurer que vous avez sélectionné le courriel approprié.
+1. Vous pouvez cliquer sur l’icône d’aperçu pour vous assurer que vous avez sélectionné l’email correct.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Veillez à utiliser le jeton **Envoyer les informations d’alerte** dans votre courrier électronique.
+   >Veillez à utiliser la variable **Envoyer les informations d’alerte** jeton dans votre email.
 
-1. Sélectionnez le destinataire d&#39;alerte. Vous pouvez sélectionner Propriétaire du compte ou Propriétaire du compte.
+1. Sélectionnez le destinataire de l’alerte. Vous pouvez sélectionner Propriétaire du commerce ou Propriétaire du compte.
 
    ![](assets/four-2.png)
 
@@ -47,10 +46,10 @@ Marketo peut envoyer une alerte par courriel contenant des informations personne
 
    >[!TIP]
    >
-   >Dans les campagnes de déclenchement, vous pouvez utiliser des jetons dans **Autres adresses électroniques** telles que `{{lead.Territory Owner}}` ou `{{my.Alert Recipient}}` tant que les valeurs sont des adresses électroniques valides. Les jetons de **vers d’autres adresses électroniques** ne fonctionneront pas dans une campagne par lot.
+   >Pour déclencher des campagnes, vous pouvez utiliser des jetons dans **À d’autres courriers électroniques** par exemple `{{lead.Territory Owner}}` ou `{{my.Alert Recipient}}` tant que les valeurs sont des adresses électroniques valides. Jetons dans **À d’autres courriers électroniques** ne fonctionnera pas dans une campagne par lots.
 
-C&#39;est tout ! Vous savez maintenant comment utiliser l’étape de flux **Envoyer une alerte**.
+C&#39;est tout ! Maintenant, vous savez comment utiliser le **Envoyer une alerte** étape de flux.
 
 >[!MORELIKETHIS]
 >
->[Créer un courriel](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>[Création d’un courrier électronique](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)

@@ -3,7 +3,6 @@ unique-page-id: 2360274
 description: Gestion des valeurs de balise - Documents Marketo - Documentation du produit
 title: Gestion des valeurs de balise
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Gestion des valeurs de balise {#managing-tag-values}
 
-[Les ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) balises sont utilisées pour décrire les programmes. Vous pouvez en faire autant que vous le souhaitez, chacun avec des valeurs uniques. Voici comment gérer ces valeurs.
+[Balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) sont utilisés pour décrire les programmes. Vous pouvez en créer autant que nécessaire, chacun avec des valeurs uniques. Voici comment gérer ces valeurs.
 
 >[!NOTE]
 >
@@ -21,23 +20,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Création d’une balise et d’une balise de Programme](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
+>[Création d’une balise de programme et d’une valeur de balise](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
-## Ajouter des valeurs de balise {#adding-tag-values}
+## Ajout de valeurs de balise {#adding-tag-values}
 
-1. Sous **Admin**, cliquez sur **Balises**.
+1. Sous **Administration**, cliquez sur **Balises**.
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Cliquez sur **New**, puis sur **Nouvelle valeur de balise**.
+1. Cliquez sur **Nouveau**, puis **Nouvelle valeur de balise**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
-1. Sélectionnez le **type de balise**.
+1. Sélectionnez la **Type de balise**.
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
-1. Saisissez une **valeur** et cliquez sur **Ajouter une autre**. Vous pouvez ajouter autant de valeurs que vous le souhaitez.
+1. Saisissez un **Valeur** et cliquez sur **Ajouter un autre**. Vous pouvez ajouter autant de valeurs que vous le souhaitez.
 
    ![](assets/image2014-9-24-12-3a26-3a27.png)
 
@@ -45,15 +44,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a26-3a55.png)
 
-1. Vous devriez voir les changements immédiatement !
+1. Vous devriez voir les modifications immédiatement !
 
    ![](assets/image2014-9-24-12-3a27-3a34.png)
 
 ## Masquage des valeurs de balise {#hiding-tag-values}
 
-Les balises peuvent être utilisées par d’anciens programmes. Vous pouvez les rendre obsolètes pour une utilisation ultérieure en masquant le type de balise.
+Les balises peuvent être utilisées par d’anciens programmes. Vous pouvez les abandonner pour une utilisation ultérieure en masquant le type de balise.
 
-1. Sélectionnez la **balise** et sélectionnez la **valeur** à masquer.
+1. Sélectionnez la **Balise** et sélectionnez la variable **Valeur** tu veux te cacher.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
@@ -63,9 +62,9 @@ Les balises peuvent être utilisées par d’anciens programmes. Vous pouvez les
 
 ## Afficher les valeurs masquées {#show-hidden-values}
 
-Pour afficher à nouveau vos valeurs masquées, procédez comme suit :
+Si vous souhaitez afficher à nouveau vos valeurs masquées, procédez comme suit :
 
-1. Cochez la case Afficher les masqués. Une fois cochée, vous pouvez voir la valeur masquée.
+1. Cochez la case Afficher les éléments masqués . Une fois cochée, la valeur masquée s’affiche.
 
    ![](assets/image2014-9-24-12-3a29-3a58.png)
 

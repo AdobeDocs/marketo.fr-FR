@@ -1,25 +1,24 @@
 ---
 unique-page-id: 37356593
-description: Utilisation d'un modèle dans la fenêtre Composer - Documents marketing - Documentation du produit
-title: Utilisation d’un modèle dans la fenêtre Composer
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Utilisation d’un modèle dans la fenêtre de composition - Documents Marketo - Documentation du produit
+title: Utilisation d’un modèle dans la fenêtre de composition
+exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
+# Utilisation d’un modèle dans la fenêtre de composition {#using-a-template-in-the-compose-window}
 
-# Utilisation d&#39;un modèle dans la fenêtre Composer {#using-a-template-in-the-compose-window}
+## Recherche et utilisation des modèles {#finding-and-using-templates}
 
-## Recherche et utilisation de modèles {#finding-and-using-templates}
-
-1. Créez votre brouillon de courrier électronique (il existe plusieurs façons de procéder, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
+1. Créez votre brouillon d’email (il existe plusieurs façons de le faire, dans cet exemple que nous choisissons. **Composer** dans l’en-tête ).
 
    ![](assets/one-6.png)
 
-1. Renseignez le champ A.
+1. Renseignez le champ À .
 
    ![](assets/searching-two.png)
 
@@ -27,35 +26,35 @@ ht-degree: 0%
 
    ![](assets/searching-three.png)
 
-1. Sélectionnez une catégorie dans laquelle effectuer la recherche (ou sélectionnez Toutes pour effectuer la recherche sur toutes les catégories).
+1. Sélectionnez une catégorie dans laquelle effectuer une recherche (ou sélectionnez Toutes pour effectuer une recherche dans toutes les catégories).
 
    ![](assets/searching-four.png)
 
-1. Effectuez une recherche par nom de modèle, par objet ou par corps du courrier électronique. Cliquez sur le modèle de votre choix pour le sélectionner.
+1. Effectuez une recherche par nom de modèle, par objet ou par corps de l’email. Cliquez sur le modèle de votre choix pour le sélectionner.
 
    ![](assets/searching-five.png)
 
    >[!NOTE]
    >
-   >La sélection d’un autre modèle remplace toutes les informations actuellement dans l’éditeur. Si vous apportez des modifications, veillez à les copier avant de sélectionner un autre modèle.
+   >La sélection d’un autre modèle remplacera toutes les informations actuellement présentes dans l’éditeur. Si vous apportez des modifications, veillez à les copier avant de sélectionner un autre modèle.
 
-## Epinglage de Catégories de modèle dans la fenêtre Composer {#pinning-template-categories-in-the-compose-window}
+## Épinglage de catégories de modèles dans la fenêtre de composition {#pinning-template-categories-in-the-compose-window}
 
-Favoris **jusqu’à cinq** catégories de modèle spécifiques pour accéder rapidement à vos modèles les plus utilisés.
+Favori **jusqu’à cinq** catégories de modèles spécifiques pour accéder rapidement à vos modèles les plus utilisés.
 
-1. Créez votre brouillon de courrier électronique (il existe plusieurs façons de procéder, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
+1. Créez votre brouillon d’email (il existe plusieurs façons de le faire, dans cet exemple que nous choisissons. **Composer** dans l’en-tête ).
 
    ![](assets/one-6.png)
 
-1. Cliquez sur l’icône **+** en regard de Favoris.
+1. Cliquez sur le bouton **+** en regard de Favoris.
 
    ![](assets/pinning-two.png)
 
-1. Cliquez sur la liste déroulante **Epingler une Catégorie** et sélectionnez la catégorie de votre choix.
+1. Cliquez sur le bouton **Epinglage d’une catégorie** et sélectionnez la catégorie souhaitée.
 
    ![](assets/pinning-three.png)
 
-1. Cliquez sur **Enregistrer les modifications** une fois terminé (facultatif). répétez l’étape 3 pour en ajouter d’autres).
+1. Cliquez sur **Enregistrer les modifications** une fois terminé (facultatif) : répétez l’étape 3 pour en ajouter d’autres).
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +66,6 @@ Favoris **jusqu’à cinq** catégories de modèle spécifiques pour accéder ra
 
    >[!NOTE]
    >
-   >**** Favoris par défaut. Il contient les modèles de courrier électronique favoris, pas les catégories.
+   >**Favoris** s’y trouve par défaut. Il contient des modèles d’email favoris, pas des catégories.
 
    La catégorie sélectionnée est maintenant épinglée.

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 7512654
-description: Affichage du flux de piste dans Salesforce1 - Documents marketing - Documentation du produit
-title: Affichage du flux de piste dans Salesforce1
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Affichage du flux de piste dans Salesforce1 - Documents Marketo - Documentation du produit
+title: Affichage du flux de prospect dans Salesforce1
+exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Affichage du flux de prospect dans Salesforce1 {#seeing-lead-feed-in-salesforce}
 
-# Affichage du flux de piste dans Salesforce1 {#seeing-lead-feed-in-salesforce}
+Le flux de piste est une liste actualisée des événements intéressants effectués par vos pistes.
 
-Le flux de pistes est une liste à la minute d&#39;événements intéressants réalisés par vos pistes.
-
-1. Accédez à la zone **Marketo** de Salesforce1.
+1. Accédez au **Marketo** zone de Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,17 +22,17 @@ Le flux de pistes est une liste à la minute d&#39;événements intéressants r�
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Appuyez sur **Flux de piste**.
+1. Appuyer **Flux de piste**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
-   Parfait ! Vous savez maintenant comment accéder à votre flux de pistes !
+   Mot clé! Vous savez maintenant comment accéder à votre flux de piste !
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 
 >[!MORELIKETHIS]
 >
->* [Moments intéressants à Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Envoyer un courrier électronique marketing et des actions Campaign et Watchlist dans Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Meilleurs paris dans Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Moments intéressants dans Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Envoyer le courrier électronique Marketo et Campaign et les actions de liste de contrôle dans Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Meilleurs paris sur Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 

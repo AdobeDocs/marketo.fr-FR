@@ -1,9 +1,8 @@
 ---
 unique-page-id: 7503971
-description: Créer une présentation - Marketo Docs - Documentation du produit
-title: Créer une présentation
+description: Création d’une présentation - Documents Marketo - Documentation du produit
+title: Création d’une présentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
@@ -11,9 +10,9 @@ ht-degree: 9%
 
 ---
 
-# Créer une présentation {#create-a-presentation}
+# Création d’une présentation {#create-a-presentation}
 
-Créez une présentation pour projeter les vues et objectifs de votre équipe sur un téléviseur haute définition. Presentations est spécifique à Workspace.
+Créez une présentation pour projeter les vues et les objectifs calendaires de votre équipe sur un téléviseur haute définition. Presentations sont spécifiques à Workspace.
 
 >[!AVAILABILITY]
 >

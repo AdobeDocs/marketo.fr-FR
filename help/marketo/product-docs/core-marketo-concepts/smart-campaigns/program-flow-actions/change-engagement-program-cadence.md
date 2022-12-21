@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147013
-description: Modifier la cadence du Programme d’engagement - Documents Marketo - Documentation du produit
+description: Modifier l’cadence du programme d’engagement - Documents Marketo - Documentation du produit
 title: Modifier le rythme du programme d'engagement
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
@@ -13,9 +12,9 @@ ht-degree: 9%
 
 # Modifier le rythme du programme d&#39;engagement {#change-engagement-program-cadence}
 
-1. Aperçu
+1. APERÇU
 
-   Une fois qu’une personne est encouragée par un programme d’engagement, vous pouvez temporairement interrompre la prise en charge de la personne à l’aide de cette étape de flux.
+   Une fois qu’une personne est soutenue par un programme d’engagement, vous pouvez suspendre temporairement la prise en charge de cette personne à l’aide de cette étape de flux.
 
    ![](assets/image2014-9-22-14-3a48-3a53.png)
 
@@ -29,8 +28,8 @@ ht-degree: 9%
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Sélectionnez **Pause** comme **Nouvelle valeur** pour empêcher la personne de recevoir du contenu.
+1. Sélectionner **En pause** comme la propriété **Nouvelle valeur** pour empêcher la personne de recevoir du contenu.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-Vous pouvez rétablir la valeur **Normal** si vous souhaitez qu’ils commencent à recevoir à nouveau du contenu.
+Vous pouvez redéfinir la personne sur **Normal** si vous souhaitez qu’ils commencent à recevoir du contenu.

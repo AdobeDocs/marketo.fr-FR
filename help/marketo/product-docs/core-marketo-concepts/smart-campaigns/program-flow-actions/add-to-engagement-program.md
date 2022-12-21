@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147011
-description: Ajoute au Programme d’engagement - Marketo Docs - Documentation du produit
+description: Ajout au programme Engagement - Documents Marketo - Documentation du produit
 title: Ajouter au programme d'engagement
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
@@ -13,9 +12,9 @@ ht-degree: 14%
 
 # Ajouter au programme d&#39;engagement {#add-to-engagement-program}
 
-## Aperçu {#overview}
+## APERÇU {#overview}
 
-La campagne intelligente que vous créez à l’aide de cette étape de flux sera la passerelle vers votre programme d’engagement.
+La campagne dynamique que vous créez à l’aide de cette étape de flux sera la passerelle de votre programme d’engagement.
 
 ![](assets/image2014-9-22-14-3a47-3a32.png)
 
@@ -31,4 +30,4 @@ La campagne intelligente que vous créez à l’aide de cette étape de flux ser
 
    >[!NOTE]
    >
-   >Vous ne pouvez pas ajouter une personne à plusieurs flux dans le même programme.
+   >Vous ne pouvez pas ajouter une personne à plusieurs diffusions dans le même programme.

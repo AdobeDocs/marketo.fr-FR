@@ -1,9 +1,8 @@
 ---
 unique-page-id: 11378869
-description: Créer un message SMS Vibes - Marketo Docs - Documentation du produit
-title: Créer un message SMS de vibes
+description: Création d’un message SMS Vibes - Documents Marketo - Documentation du produit
+title: Création d’un message SMS Vibes
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-translation-type: tm+mt
 source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '372'
@@ -11,35 +10,35 @@ ht-degree: 3%
 
 ---
 
-# Créer un message SMS Vibes {#create-a-vibes-sms-message}
+# Création d’un message SMS Vibes {#create-a-vibes-sms-message}
 
-Voici comment créer un message SMS Vibes.
+Voici comment créer un SMS Vibes.
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est disponible en tant que module complémentaire pour votre compte Marketo Engage d’Adobe. Pour qu&#39;il soit correctement approvisionné, il doit l&#39;acheter par Adobe. Pour plus d&#39;informations, contactez votre responsable de succès client Adobe.
+>Cette fonctionnalité est disponible en tant que module complémentaire pour votre compte Adobe Marketo Engage. Pour qu’il soit correctement configuré, il doit être acheté via Adobe. Pour plus d’informations, contactez votre gestionnaire de succès client Adobe.
 
 >[!NOTE]
 >
->La messagerie SMS n&#39;est pas compatible avec HIPAA.
+>Les SMS ne sont pas conformes à la loi HIPAA.
 
-1. Accédez à **Activités marketing** et cliquez avec le bouton droit sur un programme.
+1. Accédez à **Activités marketing** et cliquez avec le bouton droit de la souris sur un programme.
 
    ![](assets/mobile-right-click-hand.jpg)
 
-1. Cliquez sur **Nouveau fichier local**.
+1. Cliquez sur **Nouvelle ressource locale**.
 
    ![](assets/new-local-asset-hand.jpg)
 
    >[!TIP]
    >
-   >Vous pouvez également cliquer sur la liste déroulante **New**.
+   >Vous pouvez également cliquer sur le bouton **Nouveau** menu déroulant.
 
-1. Cliquez sur **Message SMS**.
+1. Cliquez sur **SMS Message**.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
-1. Saisissez un nom et une description facultative pour le nouveau message SMS, puis cliquez sur **Créer**.
+1. Saisissez un nom et une description facultative pour le nouveau SMS, puis cliquez sur **Créer**.
 
    ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
 
@@ -53,29 +52,29 @@ Voici comment créer un message SMS Vibes.
 
    >[!NOTE]
    >
-   >Les limites américaines et canadiennes sont différentes, à 160 et 130 caractères respectivement. Si vous dépassez ces limites de caractères, votre message peut être fractionné. Bien que nous vous présentons lorsque vous dépassez la limite canadienne, l&#39;éditeur est optimisé pour les États-Unis et scinde le message en fonction de la limite américaine.
+   >Les limites des États-Unis et du Canada sont différentes, à 160 et 130 caractères respectivement. Si vous dépassez ces limites de caractères, votre message peut être fractionné. Bien que nous l’indiquions lorsque vous dépassez la limite canadienne, l’éditeur est optimisé pour les États-Unis et divise le message en fonction de la limite américaine.
 
-1. Cliquez sur **Jeton** dans le menu Insertion pour ajouter un jeton à votre message.
+1. Cliquez sur **Jeton** dans le menu Insérer pour ajouter un jeton à votre message.
 
    ![](assets/add-token-real-hand.jpg)
 
    >[!NOTE]
    >
-   >L’ajout d’un jeton peut provoquer le dépassement de la limite de caractères du message. Le message se divise ensuite, ce qui entraîne des frais supplémentaires.
+   >L’ajout d’un jeton peut provoquer le dépassement de la limite de caractères du message. Le message sera alors divisé, ce qui entraînera des frais supplémentaires.
 
-1. Cliquez sur **Lien** dans le menu Insertion pour ajouter un lien à votre message.
+1. Cliquez sur **Lien** dans le menu Insérer pour ajouter un lien vers votre message.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Sélectionnez un type de lien. Le Landing page Marketo est la valeur par défaut. Si vous optez pour cette option, vous devez sélectionner le landing page dans la liste déroulante et cliquer sur **Insérer**.
+1. Sélectionnez un type de lien. La page d’entrée Marketo est la page par défaut. Si vous procédez de la sorte, vous devez sélectionner la landing page dans la liste déroulante, puis cliquer sur **Insérer**.
 
    ![](assets/insert-link-real-hands.jpg)
 
    >[!NOTE]
    >
-   >Les deux liens de suivi sont sélectionnés par défaut.
+   >Les deux liens de tracking sont sélectionnés par défaut.
 
-1. Si vous souhaitez utiliser une URL externe à la place, cliquez sur le bouton **URL externe** et saisissez l’URL dans le champ URL. Cliquez sur **Insérer**.
+1. Si vous souhaitez utiliser une URL externe à la place, cliquez sur le bouton **URL externe** et saisissez l’URL dans le champ URL . Cliquez sur **Insérer**.
 
    ![](assets/insert-link-url-hands.jpg)
 
@@ -85,12 +84,12 @@ Voici comment créer un message SMS Vibes.
 
    >[!NOTE]
    >
-   >Marketo affiche une prévisualisation de liens du domaine de suivi de marque. Si vous désactivez la case à cocher du lien mkt_tok, le lien est modifié. Désactivez également la case à cocher Lien de suivi et l’URL sera raccourcie à sa longueur de base (par exemple, www.mygooglepage.com).
+   >Marketo affiche un aperçu des liens du domaine de suivi de marque. Si vous décochez la case du lien mkt_tok, le lien est modifié. Décochez également la case Lien de suivi et l’URL sera raccourcie à sa longueur de base (par exemple, www.mygooglepage.com).
 
    ![](assets/image2016-7-27-16-3a20-3a16.png)
 
    >[!NOTE]
    >
-   >Le nombre de caractères reflète uniquement les caractères contenus dans le message le plus bas.
+   >Le nombre de caractères ne reflète que les caractères contenus dans le message le plus bas.
 
-Si vous insérez plus que la limite E.U., l’éditeur divise votre message en sections. La limite totale absolue est de 900 caractères. Une fois cette limite atteinte, le message sera automatiquement tronqué lorsqu’il sera envoyé à son audience.
+Si vous insérez plus que la limite E.U., l&#39;éditeur divise votre message en sections. La limite totale absolue est de 900 caractères. Une fois cette limite atteinte, le message sera automatiquement tronqué lorsqu’il sera envoyé à son audience.

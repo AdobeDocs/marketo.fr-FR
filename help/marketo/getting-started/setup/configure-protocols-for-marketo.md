@@ -70,7 +70,8 @@ Lorsque votre groupe marketing utilise Marketo pour envoyer des emails de test (
 Ajoutez les adresses IP suivantes à la liste autorisée de votre entreprise :
 
 199.15.212.0/22\
-192.28.144.0/20 192.28.160.0/19\
+192.28.144.0/20
+192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
 130.248.173.0/24\

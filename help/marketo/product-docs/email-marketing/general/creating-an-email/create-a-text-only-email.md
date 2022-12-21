@@ -1,65 +1,64 @@
 ---
 unique-page-id: 1900556
-description: Créer un message électronique texte uniquement - Documents marketing - Documentation du produit
-title: Créer un message électronique Texte uniquement
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Création d’un message électronique texte uniquement - Documents Marketo - Documentation du produit
+title: Création d’un message électronique Texte uniquement
+exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
+# Création d’un message électronique Texte uniquement {#create-a-text-only-email}
 
-# Créer un courriel texte seulement {#create-a-text-only-email}
-
-Si vous souhaitez envoyer des messages électroniques en format texte uniquement, voici comment créer un message qui sortira sans contenu HTML.
+Si vous souhaitez envoyer des emails en texte uniquement, voici comment créer un email qui sortira sans contenu HTML.
 
 >[!NOTE]
 >
->Comme les ouvertures sont suivies par le destinataire qui télécharge les images du courrier électronique (y compris un pixel de suivi invisible), les ouvertures ne peuvent pas être suivies pour les courriers électroniques au format texte seulement.****
+>Les ouvertures étant suivies par le destinataire téléchargeant les images de l&#39;email (incluant un pixel de suivi invisible), les ouvertures sont **not** peut être suivi pour les emails Texte uniquement.
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez au **Activités marketing** zone.
 
    ![](assets/one-1.png)
 
-1. Sélectionnez votre programme, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouveau fichier local**.
+1. Sélectionnez votre programme, cliquez sur le bouton **Nouveau** et sélectionnez **Nouvelle ressource locale**.
 
    ![](assets/two-1.png)
 
-1. Sélectionnez **Courriel**.
+1. Sélectionner **Email**.
 
    ![](assets/three-1.png)
 
-1. Saisissez un **nom**, sélectionnez un modèle et cliquez sur **Créer**.
+1. Saisissez un **Nom**, sélectionnez un modèle et cliquez sur **Créer**.
 
    ![](assets/four-1.png)
 
-1. Dans l’éditeur de courrier électronique, cliquez sur **Paramètres de courrier électronique**.
+1. Dans l’éditeur d’email, cliquez sur **Paramètres de messagerie électronique**.
 
    ![](assets/five.png)
 
-1. Cochez **Texte seulement** et cliquez sur **Enregistrer**.
+1. Vérifier **Texte uniquement** et cliquez sur **Enregistrer**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >Les liens ne sont pas automatiquement suivis dans les messages électroniques en texte seulement. Voir comment [Ajouter les liens suivis à un courriel de texte](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Les liens ne sont pas automatiquement suivis dans les emails au format texte uniquement. Découvrez comment [Ajout de liens suivis à un message électronique texte](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
-   >Vous pouvez également modifier un courrier électronique existant et modifier ce paramètre. N&#39;oubliez pas d&#39;approuver le brouillon.
+   >Vous pouvez également modifier un email existant et modifier ce paramètre. N&#39;oubliez pas d&#39;approuver le brouillon.
 
-1. Décochez la case **Copier automatiquement du code HTML**.
+1. Décochez la case **Copier automatiquement à partir du HTML** .
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Tout contenu ajouté à la section HTML du courrier électronique sera ignoré lors de son envoi.
+   >Tout contenu ajouté à la section HTML de l’email sera ignoré lors de son envoi.
 
-1. Doublon-cliquez sur la zone de texte.
+1. Double-cliquez sur la zone de texte.
 
    ![](assets/eight.png)
 

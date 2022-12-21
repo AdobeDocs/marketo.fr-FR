@@ -1,64 +1,63 @@
 ---
 unique-page-id: 10912085
-description: Adresses IP partagées et dédiées - Documents marketing - Documentation du produit
+description: Adresses IP partagées et dédiées - Documents Marketo - Documentation du produit
 title: Adresses IP partagées et dédiées
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
-
 # Adresses IP partagées et dédiées {#shared-and-dedicated-ip-addresses}
 
 ## Qu’est-ce qu’une adresse IP ? {#what-is-an-ip-address}
 
-Étiquette numérique indiquant l&#39;adresse d&#39;un ordinateur connecté à Internet.
+Libellé numérique désignant l’adresse d’un ordinateur connecté à Internet.
 
 ## Que sont les adresses IP partagées ? {#what-are-shared-ip-addresses}
 
-Il s’agit du moment où plusieurs expéditeurs utilisent les mêmes adresses IP pour lancer des campagnes par courrier électronique. Ils partagent tous les mêmes adresses IP d&#39;envoi.
+Cela fait référence lorsque plusieurs expéditeurs utilisent les mêmes adresses IP pour lancer des campagnes par courrier électronique. Ils partagent tous les mêmes adresses IP d’envoi.
 
 ## Qu’est-ce qu’une adresse IP dédiée ? {#what-is-a-dedicated-ip-address}
 
 Adresse IP spécifique à l’utilisateur à partir de laquelle un seul expéditeur envoie.
 
-## Quel est le meilleur : Partagé ou Dédié ? {#which-is-better-shared-or-dedicated}
+## Quelle est la meilleure : partagée ou dédiée ? {#which-is-better-shared-or-dedicated}
 
-Comme d&#39;habitude, les deux options comportent des avantages et des inconvénients.
+Comme d’habitude, il existe des avantages et des inconvénients pour les deux options.
 
-**Avantages et inconvénients d’une IP dédiée**
+**Avantages et inconvénients d’une adresse IP dédiée**
 
-_Avantages_
+_Pour_
 
-**Réputation**  - Vous êtes seul propriétaire de votre réputation et de votre délivrabilité.\
-**Surveillance**  : la surveillance de votre rapports de délivrabilité vous permet de réagir rapidement aux modifications apportées à vos mesures de diffusion.\
-**Résolution**  des problèmes - Il est plus facile de rechercher, de comprendre et de résoudre les problèmes de diffusion.
+**Réputation** - Vous détenez entièrement votre réputation et votre délivrabilité.\
+**Surveillance** - Suivre les rapports de délivrabilité vous permet de réagir rapidement aux changements de vos mesures de diffusion.\
+**Résolution des problèmes** - Il est plus facile de rechercher, de comprendre et de résoudre les problèmes de diffusion.
 
-_Cons_
+_Contre_
 
-**Changements**  de volume - Les pics de volume peuvent nuire à votre réputation et doivent être gérés.\
-**Processus**  d&#39;échauffement IP - La réputation est établie au fil du temps. Certains Prestataires Internet (FAI) réduisent les adresses IP sans historique des volumes, vous devrez donc vous forger une réputation au cours des premières semaines (Marketo peut vous aider à vous guider).\
-**Coût**  - Il y a généralement des frais supplémentaires à envoyer à partir d&#39;une adresse IP dédiée avec n&#39;importe quel fournisseur.
+**Modifications du volume** - Les pics de volume peuvent nuire à votre réputation et doivent être gérés.\
+**Processus de mise à niveau des adresses IP** - La réputation est construite au fil du temps. Certains fournisseurs de services Internet (FAI) réduisent les adresses IP sans historique des volumes. Vous devrez donc établir une réputation au cours des premières semaines (Marketo peut vous aider à vous guider).\
+**Coût** - L&#39;envoi à partir d&#39;une adresse IP dédiée à n&#39;importe quel fournisseur entraîne généralement des frais supplémentaires.
 
-**Avantages et inconvénients d&#39;une IP partagée**
+**Avantages et inconvénients d’une adresse IP partagée**
 
-_Avantages_
+_Pour_
 
-**Bon compagnon**  de chambrée - Si les personnes que vous partagez votre adresse IP suivent les meilleures pratiques d&#39;envoi, vous en tirerez avantage.\
-**Fréquence**  d&#39;envoi - Il n&#39;y a pas de fréquence d&#39;envoi minimale nécessaire pour être admissible à une adresse IP partagée, contrairement aux adresses IP dédiées.\
-**Coût**  - Il n&#39;y a jamais de frais supplémentaires à envoyer à partir d&#39;une adresse IP partagée.
+**Bon colocataire** - Si les personnes que vous partagez votre adresse IP suivent les bonnes pratiques d’envoi, vous en tirerez avantage.\
+**Fréquence des envois** - Il n’y a pas de fréquence de messagerie minimale nécessaire pour être admissible pour une adresse IP partagée, contrairement aux adresses IP dédiées.\
+**Coût** - Il n’y a jamais de frais supplémentaires à envoyer à partir d’une adresse IP partagée.
 
-_Cons_
+_Contre_
 
-**Mauvais compagnons**  de chambrée - Si les personnes que vous partagez votre adresse IP et qui s&#39;adonnent à de mauvaises pratiques d&#39;envoi, vos campagnes par courriel pourraient en pâtir.\
-**Contrôle**  - Vous avez beaucoup moins de contrôle sur votre réputation d&#39;expéditeur.\
-**Résolution**  des problèmes - Il peut être souvent plus difficile de résoudre un problème lors de l&#39;envoi à partir d&#39;IP partagées.
+**Mauvaises colocataires** - Si les personnes que vous partagez votre adresse IP ont de mauvaises pratiques d’envoi, vos campagnes par e-mail risquent d’être affectées.\
+**Contrôle** - Vous avez beaucoup moins de contrôle sur votre réputation d&#39;expéditeur.\
+**Résolution du problème** - Il peut être souvent plus difficile de résoudre un problème lors de l’envoi à partir d’adresses IP partagées.
 
 >[!NOTE]
 >
->Lors de la prise de décision, il y a un autre facteur important à prendre en compte : volume d&#39;envoi. Si vous prévoyez d&#39;envoyer moins de 100 000 courriels par mois, ou moins de deux envois par mois, vous ne bénéficierez probablement pas d&#39;une adresse IP dédiée. L&#39;envoi de numéros de ce type est considéré comme faible et il serait difficile de garder votre IP dédiée &quot;assez chaleureux&quot; pour être considéré comme sûr par les principaux fournisseurs d&#39;accès Internet. En gros, si vous ne publiez pas assez souvent, les FAI verront un publipostage comme une soudaine &quot;poussée&quot; d&#39;activité, et pourraient finir par le bloquer comme un spam suspecté.
+>Lors de la prise de décision, un autre facteur important doit être pris en compte : volume d’envoi. Si vous prévoyez d’envoyer moins de 100 000 emails par mois, ou moins de deux envois par mois, vous ne bénéficierez probablement pas d’une adresse IP dédiée. Les envois de ce type sont considérés comme peu nombreux et il serait difficile de garder votre adresse IP dédiée suffisamment &quot;chaude&quot; pour être considérée comme sûre par les principaux FAI. En gros, si vous ne publiez pas assez souvent, les FAI verront un publipostage comme une &quot;augmentation&quot; soudaine de l&#39;activité et pourraient finir par le bloquer comme un spam suspecté.
 
-Si vous avez des questions ou si vous souhaitez configurer une adresse IP dédiée, contactez votre représentant commercial Marketing Cloud.
+Si vous avez des questions ou si vous souhaitez configurer une adresse IP dédiée, contactez votre représentant commercial Marketo.

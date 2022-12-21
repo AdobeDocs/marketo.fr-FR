@@ -1,9 +1,8 @@
 ---
 unique-page-id: 10100266
-description: Présentation des Activités personnalisées - Documents Marketo - Documentation du produit
-title: Présentation des Activités personnalisées
+description: Présentation des activités personnalisées - Documents Marketo - Documentation du produit
+title: Présentation des activités personnalisées
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
@@ -11,30 +10,30 @@ ht-degree: 6%
 
 ---
 
-# Présentation des Activités personnalisées {#understanding-custom-activities}
+# Présentation des activités personnalisées {#understanding-custom-activities}
 
 Suivez une action spécifique à votre entreprise, avec des activités personnalisées, entreprise par une personne.
 
-**Que sont les Activités**
+**Que sont les activités**
 
-Il existe plusieurs façons dont une personne peut interagir avec votre organisation. Ils peuvent visiter le site Web de votre société, assister à l&#39;un de vos salons ou peut-être cliquer sur un lien dans un courriel que vous leur avez envoyé. Ces actions sont des activités, et quelle que soit l&#39;action qu&#39;elles prennent, Marketo les capture afin que votre équipe marketing puisse mieux comprendre comment les envoyer en temps voulu et de manière pertinente.
+Il existe plusieurs façons dont une personne peut interagir avec votre organisation. Ils peuvent visiter le site web de votre entreprise, assister à l’un de vos salons ou peut-être cliquer sur un lien dans un email que vous leur avez envoyé. Ces actions sont des activités. Quelle que soit l’action qu’elles effectuent, Marketo les capture afin que votre équipe marketing puisse mieux comprendre comment leur envoyer une communication pertinente et en temps voulu.
 
 **Activités personnalisées**
 
-Les activités personnalisées vous aident à effectuer le suivi d’une activité qui n’est pas liée à un formulaire, un courriel ou un landing page Marketo. Vous voulez savoir quand quelqu&#39;un dépose un chèque ? Utilisez une activité personnalisée. Voulez-vous garder un oeil quand quelqu&#39;un participe à un webinaire ? Utilisez une activité personnalisée.
+Les activités personnalisées vous aident à effectuer le suivi d’une activité qui n’est pas liée à un formulaire Marketo, un email ou une landing page. Vous souhaitez savoir quand quelqu’un dépose un chèque ? Utilisez une activité personnalisée. Vous souhaitez garder des onglets lorsque quelqu’un participe à un webinaire ? Utilisez une activité personnalisée.
 
 >[!NOTE]
 >
->Les activités personnalisées diffèrent des objets personnalisés. Utilisez des objets personnalisés lorsque la valeur peut changer (c.-à-d. La couleur de la voiture passe du bleu au rouge). Utilisez des activités personnalisées lors du suivi des moments qui se sont produits et leurs détails ne peuvent pas être modifiés (ex. &quot;voiture achetée&quot;).
+>Les activités personnalisées diffèrent des objets personnalisés. Utilisez des objets personnalisés lorsque la valeur peut changer (c.-à-d. &quot;couleur de la voiture&quot; passe du bleu au rouge). Utilisez des activités personnalisées lors du suivi des moments qui se sont produits et leurs détails ne peuvent pas changer (c.-à-d. &quot;voiture achetée&quot;).
 
-**** ChampsVous pouvez ajouter des champs  [ ](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) supplémentaires que vous souhaitez associer à votre activité. Comme le champ Principal, ils peuvent être utilisés comme critères de filtrage dans une liste intelligente.
+**Champs** Vous pouvez ajouter [Champs supplémentaires](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) que vous souhaitez associer à votre activité. Comme le champ Principal, ils peuvent être utilisés comme critères de filtrage dans une liste dynamique.
 
 **Démarrer**
 
-Les activités personnalisées fonctionnent comme les activités standard. Leur configuration est toutefois un processus en deux parties.
+Les activités personnalisées fonctionnent comme des activités standard. Toutefois, leur configuration est un processus en deux parties.
 
-Étape 1 : [Créer une activité personnalisée](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) dans votre compte Marketo
+Étape 1 : [Création d’une activité personnalisée](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) dans votre compte Marketo
 
-Étape 2 : L’employé de votre organisation qui travaille avec notre API peut alors commencer l’implémentation. Vous trouverez plus d&#39;informations ici : [API d’Activité personnalisée](https://developers.marketo.com/documentation/rest/add-custom-activities/)
+Étape 2 : L’employé de votre entreprise qui travaille avec notre API peut alors commencer l’implémentation. Vous trouverez plus d’informations ici : [API d’activité personnalisée](https://developers.marketo.com/documentation/rest/add-custom-activities/)
 
 Amuse-toi bien !

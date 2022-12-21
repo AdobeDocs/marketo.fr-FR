@@ -1,9 +1,8 @@
 ---
 unique-page-id: 13795802
-description: Désactiver les notifications par courrier électronique pour le propriétaire principal - Marketo Docs - Documentation sur les produits
-title: Désactiver les notifications par courrier électronique pour le propriétaire de piste
+description: Désactivation des notifications par courrier électronique pour le propriétaire de piste - Documents Marketo - Documentation du produit
+title: Désactivation des notifications par courrier électronique pour le propriétaire de piste
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Désactiver les notifications par courrier électronique pour le propriétaire de piste {#turn-off-email-notifications-to-lead-owner}
+# Désactivation des notifications par courrier électronique pour le propriétaire de piste {#turn-off-email-notifications-to-lead-owner}
 
-Vous pouvez désactiver les notifications électroniques automatiques envoyées aux propriétaires de piste dans Salesforce lors de l&#39;affectation de piste. Voici comment.
+Vous pouvez désactiver les notifications électroniques automatiques envoyées aux propriétaires de piste dans Salesforce lors de l’attribution des pistes. Voici comment.
 
-1. Accédez à **Admin**.
+1. Accédez à **Administration**.
 
    ![](assets/admin-1.png)
 
@@ -27,6 +26,6 @@ Vous pouvez désactiver les notifications électroniques automatiques envoyées 
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Décochez la case **Envoyer une notification par courrier électronique au propriétaire dans Salesforce lors de l&#39;affectation de piste**. Cliquez sur **Enregistrer**.
+1. Décochez la case **Envoyer une notification par courrier électronique au propriétaire dans Salesforce lors de l’affectation de piste** de la boîte. Cliquez sur **Enregistrer**.
 
    ![](assets/new-screen.png)

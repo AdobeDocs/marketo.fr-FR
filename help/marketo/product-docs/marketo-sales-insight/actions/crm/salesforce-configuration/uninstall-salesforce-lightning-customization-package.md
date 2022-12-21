@@ -299,7 +299,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>prospect 
+  <p>Lead 
   <p>Opportunité</td>
   <td>Données et heure</td>
  </tr>
@@ -309,7 +309,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>prospect 
+  <p>Lead 
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -319,7 +319,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>prospect 
+  <p>Lead 
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -329,7 +329,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>prospect 
+  <p>Lead 
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -339,7 +339,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>prospect 
+  <p>Lead 
   <p>Opportunité</td>
   <td>Données et heure</td>
  </tr>
@@ -349,7 +349,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>prospect 
+  <p>Lead 
   <p>Opportunité</td>
   <td>Données et heure</td>
  </tr>
@@ -359,7 +359,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>prospect 
+  <p>Lead 
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -369,7 +369,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte
   <p>Contact
-  <p>prospect
+  <p>Lead
   <p>Opportunité</td>
   <td>Données et heure</td>
  </tr>
@@ -379,7 +379,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>prospect 
+  <p>Lead 
   <p>Opportunité</td>
   <td>Case à cocher</td>
  </tr>
@@ -397,7 +397,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>prospect 
+  <p>Lead 
   <p>Opportunité</td>
  </tr>
  <tr>
@@ -405,21 +405,21 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>Ajouter aux campagnes du MSC depuis Salesforce</td>
   <td>
   <p>Contact
-  <p>prospect</td>
+  <p>Lead</td>
  </tr>
  <tr>
   <td>Poussez au MSC</td>
   <td>Envoyer le contact de Salesforce au MSC</td>
   <td>
   <p>Contact
-  <p>prospect</td>
+  <p>Lead</td>
  </tr>
  <tr>
   <td>Appel avec le MSC</td>
   <td>Lancer des appels de vente depuis Salesforce</td>
   <td>
   <p>Contact
-  <p>prospect</td>
+  <p>Lead</td>
  </tr>
 </table>
 
@@ -434,20 +434,20 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>Ajouter aux campagnes du MSC depuis Salesforce</td>
   <td>
   <p>Contact
-  <p>prospect</td>
+  <p>Lead</td>
  </tr>
  <tr>
   <td>Poussez au MSC</td>
   <td>Envoyer le contact de Salesforce au MSC</td>
   <td>
   <p>Contact
-  <p>prospect</td>
+  <p>Lead</td>
  </tr>
  <tr>
   <td>Email avec MSC</td>
   <td>Courriel du MSC de Salesforce</td>
   <td>
   <p>Contact
-  <p>prospect</td>
+  <p>Lead</td>
  </tr>
 </table>

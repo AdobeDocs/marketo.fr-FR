@@ -1,21 +1,20 @@
 ---
 unique-page-id: 11380778
-description: Permissions - Documents marketing - Documentation du produit
-title: Autorisations
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Autorisations - Documents Marketo - Documentation du produit
+title: Permissions
+exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Permissions {#permissions}
 
-# Autorisations {#permissions}
+Vous devrez configurer des autorisations pour que vos utilisateurs puissent utiliser la gestion des ressources numériques (TAM). Voici comment.
 
-Vous devez configurer des autorisations pour que vos utilisateurs puissent utiliser la gestion des balises. Voici comment.
-
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/one-2.png)
 
@@ -31,20 +30,20 @@ Vous devez configurer des autorisations pour que vos utilisateurs puissent utili
 
    ![](assets/three-2.png)
 
-1. Saisissez un nom de rôle et cliquez sur l&#39;icône **+** en regard de la case à cocher Gestion du compte de la Cible d&#39;accès.
+1. Saisissez un nom de rôle et cliquez sur le bouton **+** en regard de la case à cocher Accéder à la gestion de compte Target .
 
    ![](assets/permissions-4.png)
 
-1. Pour sélectionner _toutes_ autorisations, cochez simplement la case **Gestion de compte de Cible d&#39;accès**.
+1. Pour sélectionner _all_ autorisations, il vous suffit de vérifier **Accès à la gestion de compte Target** .
 
    ![](assets/permissions-5.png)
 
    >[!NOTE]
    >
-   >Vous avez également la possibilité de sélectionner uniquement certaines des options. Pour ce faire, cochez chaque case individuellement.
+   >Vous avez également la possibilité de sélectionner certaines des options. Pour ce faire, cochez chaque case individuellement.
 
-1. Cliquez sur **+** pour ouvrir le menu Access Admin. Cochez la case **Accéder à l&#39;administrateur ABM** (ABM est le nom précédent de TAM) et cliquez sur **Créer**.
+1. Cliquez sur le bouton **+** pour ouvrir le menu Accès à l’administrateur . Vérifiez les **Accès à l’administrateur ABM** case à cocher (ABM est le nom précédent de TAM) et cliquez sur **Créer**.
 
    ![](assets/permissions-6.png)
 
-   Votre nouveau rôle TAM est maintenant prêt à être [affecté à un utilisateur](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user) !
+   Votre nouveau rôle TAM est maintenant prêt à être [affecté à un utilisateur](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!

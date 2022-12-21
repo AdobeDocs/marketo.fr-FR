@@ -1,42 +1,41 @@
 ---
 unique-page-id: 4720145
-description: Implémentation de la procédure RTP à l’aide du gestionnaire de balises Google - Marketo Docs - Documentation du produit
-title: Implémentation de RTP à l’aide de Google Tag Manager
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Mise en oeuvre de la procédure RTP à l’aide de Google Tag Manager - Documents Marketo - Documentation du produit
+title: Mise en oeuvre de la méthode RTP à l’aide de Google Tag Manager
+exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
+# Mise en oeuvre de la méthode RTP à l’aide de Google Tag Manager {#implementing-rtp-using-google-tag-manager}
 
-# Implémentation de RTP à l’aide de Google Tag Manager {#implementing-rtp-using-google-tag-manager}
+Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation ci-dessous.
 
-Pour mettre en oeuvre votre balise RTP, suivez les instructions d&#39;installation ci-dessous.
+1. Connectez-vous à votre compte Gestionnaire de balises Google.
 
-1. Connectez-vous à votre compte Google Tag Manager.
-
-1. Ajoutez une nouvelle balise > Configurations des balises > Balise HTML personnalisée**.** Appelez-le **RTP**.
+1. Ajoutez une nouvelle balise > Configurations de balises > Balise de HTML personnalisée**.** Appelez **RTP**.
 
 1. Connectez-vous à votre compte RTP**.**
 
 1. Accédez à **Paramètres du compte**.
 
-   a. Si vous avez déjà reçu votre balise JavaScript de l’assistance, passez à l’étape 6.
+   a. Si vous avez déjà reçu votre balise JavaScript de la part de l’assistance, passez à l’étape 6.
 
    ![](assets/image2014-11-30-15-3a19-3a21.png)
 
-1. Sous Domaine, recherchez le domaine approprié et cliquez sur **Générer la balise**.
+1. Sous Domaine, recherchez le domaine approprié, puis cliquez sur **Générer une balise**.
 
    ![](assets/image2014-11-30-15-3a20-3a17.png)
 
-1. Copiez la balise JavaScript RTP et collez-la dans la nouvelle **balise HTML personnalisée** que vous avez créée (étape 1).
+1. Copiez la balise JavaScript RTP et collez-la dans la nouvelle **Balise de HTML personnalisée** que vous avez créé (étape 1).
 
-1. Cliquez sur **+Ajouter la règle à déclencher la balise**. Sélectionnez **Toutes les pages**.
+1. Cliquez sur **+Ajouter une règle pour déclencher la balise**. Sélectionner **Toutes les pages**.
 
 1. Cliquez sur **Enregistrer** et [publier la nouvelle version](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
-1. Vérifiez qu’il s’affiche sur toutes les pages, y compris les landings page et sous-domaines.
+1. Vérifiez qu’il apparaît sur toutes les pages, y compris les landing pages et les sous-domaines.
 
-   a. Pour ce faire, cliquez avec le bouton droit de la souris sur la page de votre site Web. Accédez à **Inspect Element**, recherchez **RTP** pour localiser la balise.
+   a. Pour ce faire, cliquez avec le bouton droit de la souris sur la page de votre site web. Accédez à **Elément Inspect**, recherchez **RTP** pour localiser la balise.

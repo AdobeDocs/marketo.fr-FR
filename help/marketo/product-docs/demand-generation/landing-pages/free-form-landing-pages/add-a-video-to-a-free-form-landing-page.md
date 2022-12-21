@@ -1,50 +1,49 @@
 ---
 unique-page-id: 2359722
-description: Ajouter une vidéo à un Landing page de forme libre - Documents marketing - Documentation du produit
-title: Ajouter une vidéo à un Landing page à structure libre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Ajout d’une vidéo à une page d’entrée de forme libre - Documents Marketo - Documentation du produit
+title: Ajout d’une vidéo à une page d’entrée de forme libre
+exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Ajout d’une vidéo à une page d’entrée de forme libre {#add-a-video-to-a-free-form-landing-page}
 
-# Ajouter une vidéo à un Landing page de forme libre {#add-a-video-to-a-free-form-landing-page}
-
-Placez des vidéos avec des options de partage sur vos landings page.
+Placez des vidéos avec des options de partage sur vos pages d’entrée.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus de détails.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
-1. Accédez à votre landing page de forme libre et cliquez sur **Modifier le brouillon**.
+1. Accédez à votre page d’entrée de formulaire libre et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-17-11-3a28-3a51.png)
 
-1. Faites glisser **Vidéo** depuis les éléments de droite.
+1. Faites glisser le curseur **Vidéo** des éléments sur la droite.
 
    ![](assets/image2015-5-21-15-3a46-3a34.png)
 
-1. Sélectionnez **Créer** dans le menu déroulant.
+1. Sélectionner **Créer** dans le menu déroulant.
 
    ![](assets/image2014-9-17-11-3a29-3a8.png)
 
    >[!NOTE]
    >
-   >La fonction **Créer** apparaît uniquement dans les Activités marketing ; il n’est pas disponible dans Design Studio. Seules les vidéos déjà créées sont disponibles dans Design Studio. Cependant, vous pouvez créer un partage de vidéo _dans un programme_ en sélectionnant **Nouveau** > **Nouveau fichier local**. Vous pouvez ensuite la sélectionner dans la liste déroulante, comme illustré ici.
+   >Le **Créer** s’affiche uniquement dans les activités marketing ; il n’est pas disponible dans Design Studio. Seules les vidéos déjà créées sont disponibles dans Design Studio. Cependant, vous pouvez créer un partage vidéo. _dans un programme_ en sélectionnant **Nouveau** > **Nouvelle ressource locale**. Vous pouvez ensuite la sélectionner dans la liste déroulante, comme illustré ici.
 
-1. Entrez l’URL de la vidéo YouTube, puis nommez la vidéo. Dans la liste déroulante Cloner de, sélectionnez **Aucun**, puis cliquez sur **Insérer**.
+1. Saisissez l’URL de la vidéo YouTube, puis attribuez un nom à votre vidéo. Sous la liste déroulante Cloner à partir de , sélectionnez **Aucun**, puis cliquez sur **Insérer**.
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
 >[!TIP]
 >
->Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir de** pour copier tous les paramètres d’un partage de vidéo existant.
+>Pour gagner du temps, vous pouvez utiliser la variable **Cloner à partir de** pour copier tous les paramètres d’un partage vidéo existant.
 
-Félicitations ! Vous avez ajouté un partage de vidéo à votre landing page libre-forme. Approuvez le landing page et votre partage vidéo est en direct. Vous pouvez également [publier le landing page sur Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer le partage de vidéo sur votre site Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Félicitations ! Vous avez ajouté un partage vidéo à votre page d’entrée de forme libre. Approuvez la page d’entrée et le partage vidéo est actif. Vous pouvez également [publier la landing page sur Facebook ;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer le partage vidéo sur votre site web ;](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!MORELIKETHIS]
 >
->Vous avez terminé, mais vous pouvez modifier les paramètres de votre partage de vidéos si nécessaire. Début avec [personnalisation du flux de partage](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quand et où l’invite de partage s’ouvre).
+>Vous avez terminé, mais vous pouvez modifier les paramètres de votre partage vidéo si nécessaire. Commencer par  [personnalisation du flux de partage](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quand et où l’invite de partage s’ouvre).

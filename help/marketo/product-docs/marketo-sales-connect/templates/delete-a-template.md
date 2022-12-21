@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14352630
-description: Supprimer un modèle - Documents marketing - Documentation du produit
+description: Suppression d’un modèle - Documents Marketo - Documentation du produit
 title: Suppression d’un modèle
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-
-# Supprimer un modèle {#delete-a-template}
+# Suppression d’un modèle {#delete-a-template}
 
 Pour supprimer un modèle, procédez comme suit.
 
 >[!CAUTION]
 >
->La suppression d’un modèle supprime également TOUS les rapports de suivi et analyses qui y sont associés.
+>La suppression d’un modèle entraîne également la suppression de TOUS les outils de suivi et d’analyse qui lui sont associés.
 
 1. Sélectionnez le modèle à supprimer.
 
-1. Cliquez sur la liste déroulante de menu en haut à droite, puis cliquez sur **Supprimer**.
+1. Cliquez sur le menu déroulant en haut à droite, puis cliquez sur **Supprimer**.
 
 1. Cliquez sur **Supprimer** pour confirmer.

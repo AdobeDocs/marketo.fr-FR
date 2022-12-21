@@ -5,8 +5,8 @@ title: Navigateurs pris en charge
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 1%
 
 ---
 

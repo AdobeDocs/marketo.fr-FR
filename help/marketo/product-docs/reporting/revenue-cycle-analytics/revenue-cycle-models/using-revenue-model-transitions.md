@@ -1,43 +1,42 @@
 ---
 unique-page-id: 4718672
-description: Utilisation des Transitions du modèle de recettes - Documents marketing - Documentation du produit
-title: Utilisation des Transitions de modèles de recettes
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Utilisation des transitions de modèle de revenu - Documents Marketo - Documentation du produit
+title: Utilisation des transitions de modèles de recettes
+exl-id: c658b631-b849-438a-b412-63ffd41e4c85
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-
-# Utilisation des Transitions de modèle de recettes {#using-revenue-model-transitions}
+# Utilisation des transitions de modèles de recettes {#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
 >
->[Créer un modèle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[Création d’un modèle de recette](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-Lorsque vous créez votre modèle et que vous sélectionnez et organisez vos étapes d&#39;inventaire, il est temps de définir les transitions.
+Lorsque vous créez votre modèle et que vous sélectionnez et organisez vos phases d’inventaire, il est temps de définir les transitions.
 
 ![](assets/one-2.png)
 
-1. Cliquez avec le bouton droit de la souris (vous pouvez également cliquer sur l’une des flèches) pour commencer, puis sélectionnez **Modifier la Transition**.
+1. Cliquez avec le bouton droit de la souris (vous pouvez également double-cliquer) sur l’une des flèches pour commencer, puis sélectionnez **Modifier la transition**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Les règles de transition &quot;Anonymous: Connu&quot; ne peuvent pas être modifiées.
+   >Les règles de transition &quot;Anonyme ⇒ Connu&quot; ne peuvent pas être modifiées.
 
-1. Un nouvel onglet s&#39;ouvre pour la transition sélectionnée.
+1. Un nouvel onglet s’ouvre pour la transition que vous avez sélectionnée.
 
    ![](assets/three-1.png)
 
-1. Les transitions contrôlent comment les pistes se déplacent entre les étapes. Faites glisser le déclencheur (ou le filtre) de votre choix à droite et relâchez-le n’importe où sur la trame. Dans cet exemple, nous allons sélectionner le déclencheur Formulaire de remplissage.
+1. Les transitions contrôlent le mode de déplacement des pistes entre les étapes. Faites glisser le déclencheur (ou filtrez) de votre choix depuis la droite, puis relâchez n’importe où sur la zone de travail. Dans cet exemple, nous allons sélectionner le déclencheur Formulaires de remplissage.
 
    >[!TIP]
    >
-   >Comme le créateur de modèles de recettes vous configure pour le rapports, il est recommandé que les transitions incluent toujours des déclencheurs. Ainsi, vos rapports refléteront la vitesse réelle de votre flux modèle/étape. Des filtres peuvent être ajoutés avec les déclencheurs pour des contraintes supplémentaires.
+   >Comme le créateur de modèles de recettes vous configure pour la création de rapports, il est recommandé que les transitions incluent toujours des déclencheurs. Ainsi, vos rapports refléteront la vitesse réelle de votre flux de modèle/scène. Des filtres peuvent être ajoutés avec les déclencheurs pour des contraintes supplémentaires.
 
    ![](assets/four-2.png)
 
@@ -45,19 +44,19 @@ Lorsque vous créez votre modèle et que vous sélectionnez et organisez vos ét
 
    ![](assets/five-2.png)
 
-1. Pour revenir au modèle, cliquez sur **Modeler**.
+1. Pour revenir à votre modèle, cliquez sur **Modeler**.
 
    ![](assets/six.png)
 
-1. En bas de l’écran, vous voyez maintenant les règles de transition.
+1. Les règles de transition s’affichent maintenant au bas de l’écran.
 
    ![](assets/seven.png)
 
-1. Une fois que vous avez configuré des règles pour toutes vos transitions, cliquez sur **Valider** pour vérifier.
+1. Une fois que vous avez configuré les règles pour toutes vos transitions, cliquez sur **Valider** pour vérifier.
 
    ![](assets/eight.png)
 
-1. Si l’opération est effectuée correctement, le message suivant s’affiche.
+1. Si cette opération est effectuée correctement, le message suivant s’affiche.
 
    ![](assets/nine.png)
 
@@ -65,4 +64,4 @@ Bien joué ! Vous avez réussi à modifier vos transitions de modèle.
 
 >[!MORELIKETHIS]
 >
->[Approbation/désapprobation d&#39;un modèle de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>[Approbation/désapprobation d’un modèle de recette](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

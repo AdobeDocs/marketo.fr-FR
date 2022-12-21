@@ -16,11 +16,11 @@ Il existe deux méthodes principales pour créer un email dans Marketo. Regardon
 
 ## Création d’un courrier électronique dans Design Studio {#create-an-email-in-the-design-studio}
 
-1. Accédez à **Design Studio**.
+1. Accédez au **Design Studio**.
 
    ![](assets/create-an-email-1.png)
 
-1. Cliquez sur la liste déroulante **New** et sélectionnez **New Email**.
+1. Cliquez sur le bouton **Nouveau** et sélectionnez **Nouveau courrier électronique**.
 
    ![](assets/create-an-email-2.png)
 
@@ -36,7 +36,7 @@ Simple! Maintenant, de l&#39;autre côté...
 
    ![](assets/create-an-email-3.png)
 
-1. Sélectionnez le programme auquel vous souhaitez ajouter l&#39;email, cliquez sur la liste déroulante **New** et sélectionnez **Nouvelle ressource locale**.
+1. Sélectionnez le programme auquel vous souhaitez ajouter l&#39;email, puis cliquez sur le bouton **Nouveau** et sélectionnez **Nouvelle ressource locale**.
 
    ![](assets/create-an-email-4.png)
 
@@ -48,19 +48,19 @@ Simple! Maintenant, de l&#39;autre côté...
 
 Quelle que soit la méthode choisie, vous accédez au sélecteur de modèle.
 
-1. Attribuez un nom à votre email, cliquez sur le modèle à utiliser, puis sur **Créer**.
+1. Attribuez un nom à votre email, cliquez sur le modèle à utiliser, puis cliquez sur **Créer**.
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >Vous pouvez choisir parmi une collection de modèles d’email réactif prêts à l’emploi ou un modèle que vous avez enregistré en commençant par sélectionner **Mes modèles** et en suivant les mêmes étapes.
+   >Vous pouvez choisir parmi une collection de modèles d’email réactif prêts à l’emploi ou un modèle que vous avez enregistré en sélectionnant d’abord **Mes modèles** et en suivant les mêmes étapes.
 
 1. Entrez un objet. La limite de caractères recommandée est 50.
 
    ![](assets/create-an-email-7.png)
 
-   Selon le modèle choisi, vous disposez de différentes options pour éditer votre email. Pour les emails avec des modules, consultez [Ajouter des modules à votre email](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+   Selon le modèle choisi, vous disposez de différentes options pour éditer votre email. Pour les emails avec des modules, extrayez [Ajout de modules à votre email](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 Votre email est maintenant créé, éditez-le !
 

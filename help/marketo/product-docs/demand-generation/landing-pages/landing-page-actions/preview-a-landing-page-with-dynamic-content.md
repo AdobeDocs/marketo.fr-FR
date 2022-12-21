@@ -1,32 +1,31 @@
 ---
 unique-page-id: 2359734
-description: Prévisualisation d’un Landing page avec contenu dynamique - Documentation sur le marketing - Documentation sur le produit
-title: Prévisualisation d’un Landing page avec du contenu dynamique
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Aperçu d’une page d’entrée avec du contenu dynamique - Documents Marketo - Documentation du produit
+title: Aperçu d’une page d’entrée avec du contenu dynamique
+exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Aperçu d’une page d’entrée avec du contenu dynamique {#preview-a-landing-page-with-dynamic-content}
 
-# Prévisualisation d’un Landing page avec contenu dynamique {#preview-a-landing-page-with-dynamic-content}
-
-Prévisualisation votre landing page après l’ajout d’un contenu dynamique afin de vous assurer que tout ressemble à ce qu’il devrait.
+Prévisualisez votre landing page après avoir ajouté du contenu dynamique pour vous assurer que tout se présente comme prévu.
 
 >[!PREREQUISITES]
 >
->* [Utilisation du contenu dynamique dans un Landing page](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [Prévisualisation d’un Landing page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
+>* [Utilisation de contenu dynamique dans une page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [Aperçu d’une page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 
-1. Sélectionnez un landing page et cliquez sur **Page de Prévisualisation**.
+1. Sélectionnez une landing page et cliquez sur **Aperçu de la page**.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. Cliquez sur la liste déroulante et sélectionnez un **segment** pour le prévisualisation.
+1. Cliquez sur la liste déroulante et sélectionnez une **Segment** pour la prévisualiser.
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
-Super ! Vous pouvez désormais vous assurer que vos landings page fonctionnent comme vous le souhaitez et qu’ils fonctionnent sur plusieurs segments.
+Super ! Vous pouvez désormais vous assurer que vos landing pages fonctionnent comme prévu dans plusieurs segments.

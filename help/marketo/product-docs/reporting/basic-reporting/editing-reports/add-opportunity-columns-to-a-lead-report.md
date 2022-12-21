@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2360018
-description: Ajouter les colonnes d'opportunité à un rapport de piste - Documents marketing - Documentation du produit
-title: Ajouter les colonnes d'opportunité à un rapport de piste
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Ajout de colonnes d’opportunité à un rapport de piste - Documents Marketo - Documentation du produit
+title: Ajout de colonnes d’opportunité à un rapport de piste
+exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
+# Ajout de colonnes d’opportunité à un rapport de piste {#add-opportunity-columns-to-a-lead-report}
 
-# Ajouter les colonnes d&#39;opportunité à un rapport de piste {#add-opportunity-columns-to-a-lead-report}
+Pour afficher les statistiques sur les opportunités dans vos rapports de personne, vous pouvez ajouter des colonnes d’opportunités.
 
-Pour afficher les statistiques sur les opportunités dans vos rapports de personne, vous pouvez ajouter des colonnes d&#39;opportunités.
-
-1. Accédez à la zone **Activités marketing**.
+1. Accédez au **Activités marketing** zone.
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre rapport dans l&#39;arborescence de navigation et cliquez sur l&#39;onglet **Configuration**.
+1. Sélectionnez votre rapport dans l’arborescence de navigation, puis cliquez sur le bouton **Configuration** .
 
    ![](assets/two.png)
 
-1. Doublon-clic **Colonnes d&#39;opportunité**.
+1. Double-cliquez **Colonnes d’opportunité**.
 
    ![](assets/three.png)
 
-1. Sélectionnez **Afficher** dans le menu déroulant.
+1. Sélectionner **Affiché** dans le menu déroulant.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Cliquez sur l&#39;onglet **Rapport** pour afficher votre rapport avec des mesures d&#39;opportunité.
+1. Cliquez sur le bouton **Rapport** pour afficher votre rapport avec des mesures d’opportunité.
 
    ![](assets/five.png)
 
@@ -39,7 +38,7 @@ Pour afficher les statistiques sur les opportunités dans vos rapports de person
    >
    >Faites défiler vers la droite pour afficher d’autres colonnes.
 
-1. Pour [ajouter ou supprimer des colonnes du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), cliquez sur un en-tête de colonne et sélectionnez **Colonnes**.
+1. À [ajouter ou supprimer des colonnes du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), cliquez sur un en-tête de colonne et sélectionnez **Colonnes**.
 
    ![](assets/six.png)
 
@@ -47,25 +46,25 @@ Pour afficher les statistiques sur les opportunités dans vos rapports de person
 
    >[!NOTE]
    >
-   >Chaque opportunité est comptabilisée une seule fois, en fonction du contact Principal qui lui est affecté.
+   >Chaque opportunité n&#39;est comptabilisée qu&#39;une seule fois, en fonction du Principal contact qui lui est assigné.
 
    | Colonne | Description |
    |---|---|
-   | Aucune opportunité | Nombre de personnes *qui ne sont pas* un contact Principal. |
-   | Jours sans opportunité | Âge moyen, en jours, des personnes *qui ne sont pas* un contact Principal. |
-   | A une opportunité | Nombre de personnes qui sont un contact d&#39;opportunité Principal. |
-   | A un % d&#39;opportunité | Pourcentage de personnes qui sont un contact Principal. |
-   | Jours jusqu&#39;à l&#39;opportunité | Nombre moyen de jours pour la conversion d&#39;une personne à un contact d&#39;opportunité Principal. |
-   | Montant total de l&#39;opportunité | Somme de tous les montants d&#39;opportunité. |
-   | Montant moyen de l&#39;opportunité | Somme des quantités d&#39;opportunités, divisée par le nombre d&#39;opportunités. |
-   | Opportunité totale | Nombre de toutes les opportunités. |
-   | Fermé | Nombre d&#39;opportunités qui ont été fermées, gagnées ou perdues. |
-   | Remporté | Nombre d&#39;opportunités qui ont été gagnées. |
-   | % gagné | Pourcentage d&#39;opportunités qui ont été gagnées. |
-   | Montant total gagné | Somme des montants d&#39;opportunité remportés. |
-   | Jours avant fermeture | Nombre moyen de jours pour fermer les opportunités. |
-   | Jours de vente | Durée moyenne du cycle de vente (jours jusqu&#39;à l&#39;opportunité + jours avant la fermeture). |
+   | Aucune opportunité | Nombre de personnes qui sont *not* un Principal contact. |
+   | Jours sans opportunité | Âge moyen, en jours, des personnes qui sont *not* un Principal contact. |
+   | A une opportunité | Nombre de personnes qui sont un contact d’opportunité Principal. |
+   | Présente une opportunité % | Pourcentage de personnes qui sont un contact d&#39;opportunité Principal. |
+   | Jours jusqu&#39;à l&#39;opportunité | Nombre moyen de jours pour la conversion d’une personne à un contact d’opportunité Principal. |
+   | Total du montant de l&#39;opportunité | Somme de tous les montants des opportunités. |
+   | Quantité moyenne d&#39;opportunités | Somme du nombre d&#39;opportunités, divisé par le nombre d&#39;opportunités. |
+   | Total des opportunités | Nombre de toutes les opportunités. |
+   | Fermées | Nombre d’opportunités qui ont été fermées, gagnées ou perdues. |
+   | Confirmé | Nombre d’opportunités qui ont été gagnées. |
+   | % Confirmées | Pourcentage d&#39;opportunités qui ont été gagnées. |
+   | Total des quantités confirmées | Somme du montant des opportunités gagnées. |
+   | Jours jusqu&#39;à la fermeture | Nombre moyen de jours avant la fermeture des opportunités. |
+   | Jours dans les ventes | Durée moyenne du cycle de vente (Jours jusqu&#39;à l&#39;opportunité + Jours jusqu&#39;à la fermeture). |
 
    >[!MORELIKETHIS]
    >
-   >Découvrez comment [gérer la taille de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >Découvrez comment [gérer la taille de votre rapport ;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

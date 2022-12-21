@@ -1,36 +1,35 @@
 ---
 unique-page-id: 11380771
-description: Délivrer une licence - Documents marketing - Documentation du produit
-title: Attribution d’une licence
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Émettre une licence - Documents Marketo - Documentation du produit
+title: Émission d’une licence
+exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
+# Émission d’une licence {#issue-a-license}
 
-# Attribuer une licence {#issue-a-license}
-
-Vous devez configurer les utilisateurs avec une licence pour utiliser TAM. Voici comment faire ça.
+Vous devez configurer les utilisateurs avec une licence pour utiliser la gestion des actifs numériques (TAM). Voici comment faire ça.
 
 >[!NOTE]
 >
 >Le nombre de licences disponibles varie en fonction de votre abonnement. Si vous avez besoin de plus, contactez votre représentant commercial.
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/issue-a-license-1.png)
 
-1. Cliquez sur **Utilisateurs et rôles**. Sélectionnez l’utilisateur auquel attribuer la licence, cliquez sur la liste déroulante **Publier la licence**, puis sélectionnez **Gestion du compte de Cible**.
+1. Cliquez sur **Utilisateurs et rôles**. Sélectionnez l’utilisateur auquel accorder la licence, puis cliquez sur le bouton **Licence de publication** , puis sélectionnez **Gestion de compte Target**.
 
    ![](assets/issue-a-license-2.png)
 
-1. Cochez la case **Activer la licence** et cliquez sur **Enregistrer**.
+1. Vérifiez les **Activer la licence** , puis cliquez sur **Enregistrer**.
 
    ![](assets/issue-a-license-3.png)
 
    >[!NOTE]
    >
-   >Pour supprimer une licence d’utilisateur, suivez l’étape 1, puis décochez la case et cliquez sur **Enregistrer**.
+   >Pour supprimer la licence d’un utilisateur, suivez l’étape 1, puis décochez la case et cliquez sur **Enregistrer**.

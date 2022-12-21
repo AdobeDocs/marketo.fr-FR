@@ -1,19 +1,18 @@
 ---
 unique-page-id: 14352422
-description: Quelles sont les dernières versions du client ? - Documents marketing - Documentation du produit
+description: Quelles sont les dernières versions du client ? - Documents Marketo - Documentation du produit
 title: Quelles sont les dernières versions du client ?
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 00f3537e-358d-4540-b569-085674c360a4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
-
 # Quelles sont les dernières versions du client ? {#what-are-the-latest-client-versions}
 
-Vous trouverez ci-dessous les dernières versions pour tous les clients de Sales Connect.
+Vous trouverez ci-dessous les dernières versions pour tous les clients Sales Connect.
 
 <table> 
  <tbody> 
@@ -34,7 +33,7 @@ Vous trouverez ci-dessous les dernières versions pour tous les clients de Sales
    <td>2.1.3</td> 
   </tr> 
   <tr> 
-   <td><strong>Outlook 365</strong></td> 
+   <td><strong>Outlook 365</strong></td> 
    <td>2.1.3</td> 
   </tr> 
  </tbody> 
@@ -42,4 +41,4 @@ Vous trouverez ci-dessous les dernières versions pour tous les clients de Sales
 
 >[!NOTE]
 >
->Actuellement, nous ne sommes pas optimisés pour les navigateurs autres que Chrome. C&#39;est quelque chose que notre équipe produit est consciente et espère aborder à l&#39;avenir.
+>Nous ne sommes actuellement pas optimisés pour les navigateurs autres que Chrome. C’est quelque chose que notre équipe produit est consciente et espère aborder à l’avenir.

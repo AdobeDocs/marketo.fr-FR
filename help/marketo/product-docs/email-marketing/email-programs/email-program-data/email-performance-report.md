@@ -1,68 +1,67 @@
 ---
 unique-page-id: 2359467
-description: Rapport de performances des courriels - Documents marketing - Documentation du produit
-title: Rapport Performance des courriers électroniques
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Rapport Performances des emails - Documents Marketo - Documentation du produit
+title: Rapport des performances des e-mails
+exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '424'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Rapport des performances des e-mails {#email-performance-report}
 
-# Rapport Performance du courriel {#email-performance-report}
+Pour vérifier les performances de vos emails avec des statistiques telles que la diffusion, l’ouverture, le clic, etc., créez un rapport Performance des emails .
 
-Pour déterminer les performances de vos courriels avec des statistiques telles que la diffusion, l’ouverture, les clics, etc., créez un rapport sur les performances des courriels.
-
-1. [Créez un rapport dans un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programme et sélectionnez le type **de rapport de** [ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)performances par courriel.
-1. [Modifiez le ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) délai du rapport, puis cliquez sur l&#39;onglet  **** Rapport.
-1. Vous êtes là ! Examinez maintenant le rapport pour voir comment vos courriels se sont comportés.
+1. [Création d’un rapport dans un programme](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez la variable **Performances des emails** [Type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Modification de la période de rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) et cliquez sur le bouton **Rapport** .
+1. Vous êtes là ! Maintenant, explorez le rapport pour voir comment vos emails se sont comportés.
 
    >[!NOTE]
    >
-   >Le filtre Date d’envoi est basé sur la première date d’envoi du courrier électronique.
+   >Le filtre Date d’envoi repose sur la première date d’envoi de l’e-mail.
 
    ![](assets/email-performance-report.png)
 
    >[!TIP]
    >
-   >Cliquez sur le nom d’un courrier électronique pour l’ouvrir dans l’outil de prévisualisation du courrier électronique.
+   >Cliquez sur le nom d’un email pour l’ouvrir dans le prévisualiseur d’email.
 
    >[!NOTE]
    >
-   >Un rapport sur les performances des courriels comprend des activités pour toutes les personnes, y compris celles qui ont été supprimées depuis l’envoi du courrier électronique. Parfois, vous voulez voir des activités uniquement pour les principaux. Dans ce cas, vous devez filtrer les personnes supprimées de votre rapport. Utilisez l&#39;onglet **Liste intelligente** pour [créer une liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) pour le rapport. Si vous ne filtrez aucun champ spécifique, définissez le filtre Adresse électronique sur : **n&#39;est pas vide**.
+   >Un rapport de performances des emails comprend des activités pour toutes les personnes, y compris celles qui ont été supprimées depuis l’envoi du message. Parfois, vous souhaitez afficher les activités uniquement pour les personnes principales. Dans ce cas, vous devez filtrer les personnes supprimées de votre rapport. Utilisez la variable **Liste dynamique** à [création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) pour le rapport. Si vous ne filtrez aucun champ spécifique, définissez le filtre Adresse électronique sur : **n’est pas vide**.
 
-   [Sélectionnez les ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) colonnes du rapport pour un rapport Performance de courriel :
+   [Sélectionner les colonnes du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) pour un rapport de performances des emails, procédez comme suit :
 
    | Colonne | Description |
    |---|---|
-   | Bruyant | Le courrier électronique a été rejeté en raison d’une condition permanente, telle qu’une adresse électronique inexistante. |
-   | Rebond léger | Le courrier électronique a été rejeté en raison d’une condition temporaire, telle qu’un serveur en panne ou une boîte de réception complète. |
-   | En attente | Ce nombre est calculé en soustrayant du nombre total d’envois le nombre d’e-mails distribués, rebondis et rebonds. |
-   | Lien cliqué | Nombre de destinataires de messagerie qui ont cliqué sur un lien dans le courrier électronique. |
-   | Non abonné | Nombre de destinataires de messagerie qui ont cliqué sur le lien **Se désabonner** dans le courrier électronique et rempli le formulaire. |
+   | Renvoi définitif | Le courrier électronique a été rejeté en raison d’une condition permanente, telle qu’une adresse électronique inexistante. |
+   | Retour en erreur temporaire | Le courrier électronique a été rejeté en raison d’une condition temporaire, telle qu’un serveur en panne ou une boîte de réception pleine. |
+   | en attente | Ce nombre est calculé en soustrayant du nombre total d’envois le nombre d’emails délivrés, de messages rebonds et de messages soft rebonds. |
+   | Lien cliqué | Nombre de destinataires de courrier électronique ayant cliqué sur un lien dans le courrier électronique. |
+   | Désabonné | Nombre de destinataires du courrier électronique ayant cliqué sur la variable **Désabonner** dans le courrier électronique et remplissez le formulaire. |
 
    >[!NOTE]
    >
-   >La désinscription des liens et des adresses électroniques sur lesquels l’utilisateur clique dans un courriel ne s’inscrit pas sous Liens cliqués dans le rapport.
+   >Les liens de désabonnement et les adresses électroniques sur lesquels l’utilisateur clique dans un email ne sont pas enregistrés sous Liens cliqués dans le rapport.
 
-En général, nous essayons d&#39;utiliser le bon sens pour enregistrer ces statistiques. Par exemple, si une personne a cliqué sur un lien dans un courriel, elle a manifestement ouvert le courriel en premier. Nous suivons les règles spécifiques suivantes pour le rapport Performance de courriel :
+En général, nous essayons d&#39;utiliser le bon sens pour enregistrer ces statistiques. Par exemple, si quelqu’un a cliqué sur un lien dans un email, il est évident qu’il a ouvert l’email en premier. Nous suivons ces règles spécifiques pour le rapport Performance des emails :
 
-* **Article 1** : Chaque enregistrement d’activité par courrier électronique est défini sur l’un des éléments suivants, et sur un seul :  _Livré_,  _Différé_, Rebond _modéré ou_ En attente __.
+* **Règle 1**: Chaque enregistrement d’activité de courrier électronique est défini sur une seule des valeurs suivantes : _Délivrés_, _Hard Bounce_, _Soft Bounce_ ou _En attente_.
 
-* **Article 2** : Si l’enregistrement de courrier électronique affiche  *Ouvert*, il est comptabilisé comme  *Livré*.
+* **Règle 2**: Si l’enregistrement du courrier électronique s’affiche *Ayant ouvert*, il est comptabilisé comme *Délivrés*.
 
-* **Article 3** : Si l’enregistrement de courrier électronique indique que l’utilisateur a  _cliqué sur la_ boîte aux lettres  _désabonné_, il est comptabilisé comme  __ Livré et  _Ouvert_.
+* **Règle 3**: Si l’enregistrement du courrier électronique s’affiche _Courrier électronique cliqué_ ou _Désabonné_, il est comptabilisé comme _Délivrés_ et _Ayant ouvert_.
 
-* **Article 4** : Si le courrier électronique est  _ouvert_, les rebonds sont ignorés. Si le courrier électronique n’a pas été ouvert, _Rebond net_ a la priorité sur _Rebond léger_ et _Livré_.
+* **Règle 4**: Si l’adresse électronique est _Ayant ouvert_, les rebonds sont ignorés. Si l&#39;email n&#39;a pas été ouvert, _Hard Bounce_ a priorité sur _Soft Bounce_ et _Délivrés_.
 
 >[!NOTE]
 >
->Plusieurs envois de la même campagne à la même personne ne sont comptabilisés qu’une seule fois.
+>Les envois multiples d’une même campagne vers la même personne ne sont comptabilisés qu’une seule fois.
 
 >[!MORELIKETHIS]
 >
->* [Filtrage des ressources dans les rapports de messagerie Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [Filtrage des ressources dans les rapports de messagerie de Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [Rapport Performance des liens de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 

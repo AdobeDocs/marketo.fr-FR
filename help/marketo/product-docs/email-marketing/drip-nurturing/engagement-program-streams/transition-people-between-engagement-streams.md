@@ -1,56 +1,55 @@
 ---
 unique-page-id: 2359947
-description: Transition des personnes entre les flux d’engagement - Documents marketing - Documentation du produit
-title: Transition des personnes entre les flux d’engagement
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Transition Personnes entre les flux d’engagement - Documents Marketo - Documentation du produit
+title: Personnes de transition entre les flux d’engagement
+exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Personnes de transition entre les flux d’engagement {#transition-people-between-engagement-streams}
 
-# Transitions entre les flux d’engagement {#transition-people-between-engagement-streams}
-
-Les programmes d’engagement peuvent comporter plusieurs flux. Si vous [ajoutez un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), vous voudrez définir un moyen pour les personnes de passer d’un flux à un autre. Elles sont appelées **règles de transition.**
+Les programmes d’engagement peuvent comporter plusieurs flux. Si vous [ajout d’un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), vous allez définir un moyen pour les gens de passer d’un flux à un autre. Elles sont appelées **règles de transition.**
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre programme d’engagement multi-flux et accédez à **Flux**.
+1. Sélectionnez votre programme d’engagement en continu et accédez à **Flux**.
 
    ![](assets/multistream.jpg)
 
-1. Cliquez sur **Règles de Transition** pour le flux que vous souhaitez extraire des autres flux, puis sur **Modifier les règles de Transition**.
+1. Cliquez sur **Règles de transition** pour le flux que vous souhaitez extraire d’autres flux, puis cliquez sur **Modification des règles de transition**.
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
    >[!NOTE]
    >
-   >les règles de transition s&#39;insèrent dans un cours d&#39;eau ; toujours définir les règles sur le flux que vous souhaitez intégrer.
+   >Les règles de transition s’extraient dans un flux ; définissez toujours les règles sur le flux que vous souhaitez extraire.
 
-   Une fois la fenêtre de la règle de transition ouverte, recherchez et faites glisser le déclencheur de votre choix. Dans ce cas, nous voulons amener les gens à mi-chemin quand il est ajouté à une opportunité.
+   Une fois la fenêtre des règles de transition ouverte, recherchez et faites glisser le déclencheur de votre choix. Dans ce cas, nous voulons déplacer les personnes vers l’état intermédiaire lorsqu’il est ajouté à une opportunité.
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Définissons l&#39;opérateur sur **est n&#39;importe quel** afin que les personnes passent à l&#39;autre pour toute opportunité ajoutée.
+1. Définissons l’opérateur sur **est quelconque** pour que les gens passent à autre chose pour n&#39;importe quelle opportunité.
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
    >[!TIP]
    >
-   >Vous pouvez ajouter plusieurs déclencheurs et filtres à une règle de transition, mais la règle de transition utilise tous les filtres (l’utilisation de TOUS les filtres est la seule option). Si vous devez utiliser OU dans une règle de transition, nous vous recommandons de configurer une campagne dynamique externe à la place.
+   >Vous pouvez ajouter plusieurs déclencheurs et filtres à une règle de transition, mais celle-ci utilise tous les filtres (TOUS les filtres sont la seule option). Si vous devez utiliser OU dans une règle de transition, nous vous recommandons de configurer plutôt une campagne dynamique externe.
 
 1. Cliquez sur **Fermer**.
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   Super ! Désormais, toute personne de votre programme d’engagement qui est ajoutée à une opportunité sera déplacée dans le flux Mid Stage.
+   Fantastique ! Désormais, toute personne de votre programme d’engagement ajoutée à une opportunité sera déplacée dans le flux intermédiaire de l’évaluation intermédiaire.
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 
    >[!NOTE]
    >
-   >Les étapes décrites ci-dessus *do* s&#39;appliquent également aux personnes [en pause](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
+   >Les étapes décrites ci-dessus *do* s’appliquent aux personnes qui [en pause](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) ainsi que .

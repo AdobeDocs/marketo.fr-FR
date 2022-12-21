@@ -1,36 +1,35 @@
 ---
 unique-page-id: 1147342
-description: Approuver un courrier électronique - Documents marketing - Documentation du produit
-title: Approuver un courriel
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Approbation d’un courrier électronique - Documents Marketo - Documentation du produit
+title: Approbation d’un courrier électronique
+exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
+# Approbation d’un courrier électronique {#approve-an-email}
 
-# Approuver un courrier électronique {#approve-an-email}
-
-Début des courriers électroniques en état de brouillon. Ils ne sont généralement pas disponibles dans le système tant que vous ne les avez pas approuvés. Il existe plusieurs façons d’approuver un courriel.
+Les courriers électroniques commencent à l’état préliminaire. Ils ne sont généralement pas disponibles dans le système tant que vous ne les avez pas approuvés. Il existe plusieurs façons de valider un email.
 
 ## Approuver à l’aide du menu Actions de courrier électronique {#approve-it-using-the-email-actions-menu}
 
-1. Recherchez et sélectionnez votre courriel, cliquez sur la liste déroulante **Actions de courriel** et sélectionnez **Approuver**.
+1. Recherchez et sélectionnez votre email, cliquez sur le bouton **Actions de courrier électronique** et sélectionnez **Approuver**.
 
    ![](assets/one.png)
 
-## Approuver directement dans l&#39;arborescence {#approve-it-directly-in-the-tree}
+## Approuver directement dans l’arborescence {#approve-it-directly-in-the-tree}
 
-1. Recherchez et sélectionnez votre courriel, cliquez dessus avec le bouton droit et sélectionnez **Approuver**.
+1. Recherchez et sélectionnez votre email, cliquez dessus avec le bouton droit et sélectionnez **Approuver**.
 
    ![](assets/approveemail.png)
 
-## Approuver votre adresse électronique dans l’éditeur de {#approve-your-email-in-the-email-editor}
+## Approuver votre adresse électronique dans l’éditeur de messagerie {#approve-your-email-in-the-email-editor}
 
-1. Dans votre courrier électronique, cliquez sur la liste déroulante **Actions de courriel** et sélectionnez **Approuver et fermer**.
+1. Dans votre courrier électronique, cliquez sur le **Actions de courrier électronique** et sélectionnez **Approuver et fermer**.
 
    ![](assets/three.png)
 
-Une fois approuvé, votre courriel est prêt à être utilisé !
+Une fois approuvé, votre email est prêt à l&#39;emploi !

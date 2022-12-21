@@ -1,35 +1,34 @@
 ---
 unique-page-id: 4718687
-description: Approbation/désapprobation d'un modèle de recettes - Documents marketing - Documentation du produit
-title: Approbation/désapprobation d'un modèle de recettes
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Approbation/désapprobation d’un modèle de revenu - Documents Marketo - Documentation du produit
+title: Approbation/désapprobation d’un modèle de recette
+exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Approbation/désapprobation d’un modèle de recette {#approve-unapprove-a-revenue-model}
 
-# Approuver/désapprouver un modèle de recettes {#approve-unapprove-a-revenue-model}
-
-Vous ne pouvez avoir qu&#39;un seul modèle approuvé à un moment donné.
+Vous ne pouvez avoir qu’un seul modèle approuvé à un moment donné.
 
 >[!CAUTION]
 >
->[Les étapes individuelles doivent être ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) approuvées et des personnes ajoutées avant d’approuver un modèle entier.
+>[Les différentes étapes doivent être approuvées](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) et des personnes ajoutées avant que vous n’approuviez un modèle entier.
 
 ## Approuver {#approve}
 
-1. Accédez à la zone **Analytics**.
+1. Accédez au **Analytics** zone.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
-1. Sélectionnez un modèle dans l&#39;arborescence.
+1. Sélectionnez un modèle dans l’arborescence.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Dans le menu **Actions du modèle**, choisissez **Approuver le modèle**.
+1. Dans la **Actions de modèle** menu, choisissez **Approuver le modèle**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
@@ -43,26 +42,26 @@ Votre modèle est maintenant en ligne !
 
 >[!CAUTION]
 >
->Si vous n&#39;approuvez pas votre modèle, toutes vos personnes sont supprimées du modèle, et leur historique dans le modèle est supprimé !
+>Si vous n’approuvez pas votre modèle, toutes vos personnes sont retirées du modèle, et leur historique dans le modèle est supprimé !
 
-1. Accédez à la zone **Analytics**.
+1. Accédez au **Analytics** zone.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
-1. Sélectionnez un modèle dans l&#39;arborescence.
+1. Sélectionnez un modèle dans l’arborescence.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Cliquez sur le menu **Actions du modèle** et choisissez **Désapprouver le modèle**.
+1. Cliquez sur le bouton **Actions de modèle** et choisissez **Modèle non approuvé**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. Dans la boîte de dialogue qui s’affiche, cliquez sur **Annuler l’approbation du modèle**.
+1. Dans la boîte de dialogue qui s’affiche, cliquez sur **Modèle non approuvé**.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 
-Félicitations ! Votre modèle n&#39;est désormais pas approuvé.
+Félicitations ! Votre modèle n’est désormais plus approuvé.
 
 >[!CAUTION]
 >
->La désapprobation d’un modèle supprime toutes vos personnes du modèle et supprime leur historique dans le modèle de la base de données.
+>L’annulation de l’approbation d’un modèle supprime toutes vos personnes du modèle et supprime leur historique dans le modèle de la base de données.

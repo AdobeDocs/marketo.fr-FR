@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359469
-description: Vue du Tableau de bord de Programme électronique - Documentation du marketing - Documentation du produit
-title: Vue du Tableau de bord de Programme de courriel
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Afficher le tableau de bord du programme de messagerie électronique - Documents Marketo - Documentation du produit
+title: Afficher le tableau de bord du programme de messagerie
+exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
+# Afficher le tableau de bord du programme de messagerie {#view-the-email-program-dashboard}
 
-# Vue du Tableau de bord de Programme de courriel {#view-the-email-program-dashboard}
+Vérifiez les performances de votre programme de messagerie (avec ou sans test A/B) avec ce tableau de bord.
 
-Découvrez comment votre programme de messagerie (avec ou sans test A/B) fonctionne avec ce tableau de bord.
-
-## Sélectionnez votre Programme de courriel {#select-your-email-program}
+## Sélectionner votre programme de messagerie {#select-your-email-program}
 
 1. Accédez à **Activités marketing**.
 
@@ -27,17 +26,17 @@ Découvrez comment votre programme de messagerie (avec ou sans test A/B) fonctio
 
    >[!CAUTION]
    >
-   >Si votre test A/B ou votre programme électronique n’a pas encore démarré, aucun tableau de bord ne s’affichera.
+   >Si votre test A/B ou votre programme de messagerie n’a pas encore commencé, aucun tableau de bord ne s’affiche.
 
-## Vue de test A/B du Programme de messagerie {#email-program-a-b-test-view}
+## Vue Test A/B du programme de messagerie {#email-program-a-b-test-view}
 
 Si vous avez ajouté un test A/B à votre programme de messagerie et que le test est en cours d’exécution, les éléments suivants s’affichent :
 
 ![](assets/image2014-9-12-14-3a2-3a25.png)
 
-## Vue de Programme électronique {#email-program-view}
+## Programme de messagerie électronique {#email-program-view}
 
-Si vous n’avez pas ajouté de test A/B *ou* si le test est terminé, les éléments suivants doivent être affichés :
+Sinon, si vous n’avez pas ajouté de test A/B *ou* si le test est terminé, les éléments suivants doivent s’afficher :
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
@@ -47,6 +46,6 @@ Si vous n’avez pas ajouté de test A/B *ou* si le test est terminé, les élé
 
 >[!MORELIKETHIS]
 >
->* [Utiliser le Tableau de bord de Programme de courriel - Vue de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Utiliser le Tableau de bord de Programme de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [Utilisation du tableau de bord du programme de messagerie électronique - vue de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [Utilisation du tableau de bord du programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 

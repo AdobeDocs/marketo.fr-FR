@@ -1,81 +1,80 @@
 ---
 unique-page-id: 2360403
-description: Comparer l'efficacité des Programmes à l'analyseur de Programme - Documentation sur le marketing - Documentation sur les produits
-title: Comparer l'efficacité des Programmes avec l'analyseur de Programme
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Comparer l’efficacité du programme à l’analyseur de programme - Documents Marketo - Documentation du produit
+title: Comparaison de l’efficacité du programme avec l’analyseur de programme
+exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
 
 ---
 
+# Comparaison de l’efficacité du programme avec l’analyseur de programme {#compare-program-effectiveness-with-the-program-analyzer}
 
-# Comparer l&#39;efficacité des Programmes avec l&#39;analyseur de Programme {#compare-program-effectiveness-with-the-program-analyzer}
-
-Utilisez Programme Analyzer pour identifier vos programmes les plus et les moins efficaces, en comparant les coûts de programme, l&#39;acquisition de membres, le pipeline et les recettes.
+Utilisez l’analyseur de programme pour identifier vos programmes les plus et les moins efficaces, en comparant les coûts de programme, l’acquisition de membres, le pipeline et les recettes.
 
 >[!PREREQUISITES]
 >
->[Création d’un analyseur de Programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Création d’un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 1. Cliquez sur **Analytics**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
-1. Sélectionnez votre analyseur de Programmes.
+1. Sélectionnez votre analyseur de programme.
 
    ![](assets/image2014-9-17-18-3a50-3a37.png)
 
-1. Modifiez la Vue en Par Programme.
+1. Remplacez la vue par le programme .
 
    ![](assets/image2014-9-17-18-3a50-3a44.png)
 
-1. Utilisez le filtre de Canal pour réduire la vue à un ou deux canaux seulement. Pour l&#39;instant, nous allons examiner les programmes du canal du commerce.
+1. Utilisez le filtre Canal pour réduire la vue à un ou deux canaux seulement. Pour l’instant, nous allons examiner les programmes du canal Tradeshow.
 
    ![](assets/image2014-9-17-18-3a51-3a2.png)
 
    >[!TIP]
    >
-   >Pour filtrer rapidement les programmes sur un seul canal, sélectionnez **Vue** > **Par Canal**, cliquez sur la bulle de ce canal, puis cliquez sur le nom du canal dans la boîte de dialogue contextuelle.
+   >Pour filtrer rapidement les programmes sur un seul canal, sélectionnez **Affichage** > **Par canal**, cliquez sur la bulle correspondante, puis sur le nom du canal dans la boîte de dialogue contextuelle.
 
-1. Utilisez la liste déroulante Axe X pour choisir une mesure pour l’axe horizontal. Nous allons début avec le coût du Programme.
+1. Utilisez la liste déroulante Axe X pour sélectionner une mesure pour l’axe horizontal. Commençons par le coût du programme.
 
    ![](assets/image2014-9-17-18-3a52-3a16.png)
 
-1. Utilisez la liste déroulante Axe Y pour choisir une mesure pour l’axe vertical. Choisissons de nouveaux noms pour trouver des programmes capables de capturer de nouvelles pistes.
+1. Utilisez la liste déroulante Axe Y pour sélectionner une mesure pour l’axe vertical. Choisissons de nouveaux noms pour trouver des programmes qui sont bons pour capturer de nouvelles pistes.
 
    ![](assets/image2014-9-17-18-3a52-3a26.png)
 
-1. Activez les curseurs pour effectuer un zoom avant.
+1. Activez les curseur pour effectuer un zoom avant.
 
    ![](assets/image2014-9-17-18-3a53-3a9.png)
 
    >[!TIP]
    >
-   >Vous pouvez également essayer d&#39;améliorer votre vue en passant d&#39;une échelle linéaire à une échelle logarithmique, ou vice versa. Utilisez le menu **Échelle** en haut.
+   >Vous pouvez également essayer d’améliorer votre vue en passant d’une échelle linéaire à une échelle logarithmique, ou vice versa. Utilisez la variable **Échelle** dans la partie supérieure.
 
-1. Explorez le graphique qui en résulte.
+1. Explorez le graphique obtenu.
 
    ![](assets/image2014-9-17-18-3a53-3a49.png)
 
-   Dans notre exemple, nous apprenons que l&#39;Exposition Origami est bien meilleure que tous les autres programmes dans ce canal pour capturer de nouveaux noms, et à un coût moyen. Mais ce n&#39;est pas tout. Nous allons ajouter deux autres mesures pour mieux comprendre.
+   Dans notre exemple, nous apprenons que l&#39;Exposition Origami est bien meilleure que tous les autres programmes de ce canal pour capturer de nouveaux noms, et à un coût moyen. Mais ce n&#39;est pas tout. Nous ajouterons deux autres mesures pour mieux comprendre ce qui se passe.
 
-1. Utilisez la liste déroulante Taille des bulles pour choisir une mesure à comparer en fonction de la taille des bulles. Nous choisirons (FT) Recettes gagnées pour notre exemple.
+1. Utilisez la liste déroulante Taille de bulle pour sélectionner une mesure à comparer en fonction de la taille des bulles. Nous choisirons (FT) Recettes gagnées pour notre exemple.
 
    ![](assets/image2014-9-17-18-3a54-3a25.png)
 
    >[!NOTE]
    >
-   >La plupart des mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multipoint (MT). Il est important de comprendre la différence [entre l’attribution FT et l’attribution MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >De nombreuses mesures que vous pouvez sélectionner dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et multipoint (MT). Il est important de comprendre la variable [différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Regardez la taille des bulles changer dans votre graphique.
+1. Observez la taille des bulles dans votre graphique.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   En ajoutant **(FT) Recettes gagnées**, nous constatons rapidement que, bien que l&#39;Expo Origami ait acquis beaucoup de nouveaux noms, elle produit relativement peu de recettes. De plus, nous constatons que le programme Paper Fest 12 prend moins de noms, mais de meilleurs noms, car il influence plus de recettes gagnées (plus grande bulle).
+   En ajoutant **(FT) Recettes gagnées** Nous voyons rapidement que, alors que l&#39;Exposition Origami a acquis beaucoup de nouveaux noms, elle produit relativement peu de recettes. De plus, nous voyons que le programme de la 12ème Bataille de Papier prend moins de noms, mais de meilleurs noms, car il influence plus de recettes gagnées (plus grande bulle).
 
-1. Utilisez la liste déroulante Couleur pour ajouter une quatrième mesure. Nous allons examiner les recettes d&#39;investissement (FT).
+1. Utilisez la liste déroulante Couleur pour ajouter une quatrième mesure. Nous allons examiner le rapport Recettes - Investissement (FT).
 
    ![](assets/image2014-9-17-18-3a55-3a33.png)
 
@@ -83,14 +82,14 @@ Utilisez Programme Analyzer pour identifier vos programmes les plus et les moins
 
    ![](assets/image2014-9-17-18-3a55-3a47.png)
 
-Nous constatons que le programme Paper Fest 12 n&#39;influence pas seulement plus de revenus (plus grande bulle), mais malgré son coût de programme relativement élevé (à l&#39;extrême droite), il a le meilleur retour sur investissement (la bulle la plus verte) de tous les programmes du canal Tradeshow.
+Nous voyons que le programme Paper Fest 12 influence non seulement plus les revenus (plus grosse bulle), mais malgré son coût de programme relativement élevé (à l&#39;extrême droite), il a le meilleur retour sur investissement (la plus grosse bulle) de tous les programmes du canal Tradeshow.
 
 >[!TIP]
 >
->Vous pouvez rapidement comparer les programmes d’un canal à ceux d’un autre. Il vous suffit d&#39;utiliser le **filtre de Canal** en haut de la fenêtre pour ajouter d&#39;autres canaux.
+>Vous pouvez rapidement comparer les programmes d’un canal à ceux d’un autre. Utilisez simplement la variable **Filtre de canal** en haut de la fenêtre pour ajouter d’autres canaux.
 
 >[!MORELIKETHIS]
 >
->* [Explorez les détails sur les Programmes et les Canaux à l&#39;aide de l&#39;analyseur de Programmes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Comparer l&#39;efficacité des Canaux avec l&#39;analyseur de Programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Explorer les détails du programme et du canal avec l’analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Comparaison de l’efficacité des canaux avec l’analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
 

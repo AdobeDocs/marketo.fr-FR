@@ -1,25 +1,24 @@
 ---
 unique-page-id: 1900548
-description: Prévisualisation d’un courrier électronique avec contenu dynamique - Documentation marketing - Documentation du produit
-title: Prévisualisation d’un courrier électronique avec du contenu dynamique
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Prévisualisation d’un courrier électronique avec du contenu dynamique - Documents Marketo - Documentation du produit
+title: Prévisualisation d’un email avec du contenu dynamique
+exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
+# Prévisualisation d’un email avec du contenu dynamique {#preview-an-email-with-dynamic-content}
 
-# Prévisualisation d’un courriel avec du contenu dynamique {#preview-an-email-with-dynamic-content}
+Prévisualisez votre email après l&#39;ajout de contenu dynamique afin de le vérifier.
 
-Prévisualisation de votre courrier électronique après l’ajout d’un contenu dynamique afin de le vérifier.
-
-1. Sélectionnez votre adresse électronique et cliquez sur **Prévisualisation**.
+1. Sélectionnez votre adresse électronique et cliquez sur **Prévisualiser le message**.
 
    ![](assets/one-3.png)
 
-1. Cliquez sur la liste déroulante Vue par et sélectionnez le type de contenu dynamique à prévisualisation.
+1. Cliquez sur la liste déroulante Afficher par et sélectionnez le type de contenu dynamique à prévisualiser.
 
    ![](assets/two-3.png)
 
@@ -31,14 +30,14 @@ Prévisualisation de votre courrier électronique après l’ajout d’un conten
 
    ![](assets/four-1.png)
 
-Vous pouvez également prévisualisation du contenu dynamique directement dans l’éditeur de courrier électronique.
+Vous pouvez également prévisualiser le contenu dynamique directement dans l&#39;éditeur d&#39;email.
 
-1. Sous **Contenu**, cliquez sur l&#39;onglet **Dynamique**.
+1. Sous **Contenu**, cliquez sur le bouton **Dynamique** .
 
    ![](assets/five-1.png)
 
-1. Cliquez sur le contenu que vous souhaitez prévisualisation.
+1. Cliquez sur le contenu à prévisualiser.
 
    ![](assets/six.png)
 
-Super ! Prévisualisation de vos courriels pour vous assurer que le contenu correspond à vos besoins.
+Fantastique ! Prévisualisez vos emails afin de vous assurer que le contenu correspond à ce que vous souhaitez.

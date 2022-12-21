@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2949196
-description: SEO - Définissez vos préférences d'alerte par courriel - Marketo Docs - Documentation du produit
-title: SEO - Définissez vos préférences d'alerte par courriel
+description: SEO - Définition des préférences d’alerte par e-mail - Documents Marketo - Documentation du produit
+title: SEO - Définition des préférences d’alerte par e-mail
 exl-id: 7675a589-dc40-433b-bf0c-1e78e4d653b5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '63'
@@ -11,14 +10,14 @@ ht-degree: 0%
 
 ---
 
-# SEO - Définissez vos préférences d&#39;alerte par courriel {#seo-set-your-email-alert-preferences}
+# SEO - Définition des préférences d’alerte par e-mail {#seo-set-your-email-alert-preferences}
 
-Vous pouvez personnaliser vos préférences de courriel pour déterminer quand vous serez mis à jour sur vos efforts d’optimisation du référencement.
+Vous pouvez personnaliser vos préférences d’e-mail pour déterminer quand vous serez mis à jour au sujet de vos efforts d’optimisation pour les moteurs de recherche.
 
-1. Dans la barre de navigation supérieure, cliquez sur votre nom d’utilisateur. Cliquez sur **Préférences de courriel**.
+1. Dans la barre de navigation supérieure, cliquez sur votre nom d’utilisateur. Cliquez sur **Préférences de courrier électronique**.
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. Indiquez ce dont vous souhaitez être averti par courriel et cliquez sur **Enregistrer**.
+1. Indiquez les informations sur lesquelles vous souhaitez être alerté par email, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)

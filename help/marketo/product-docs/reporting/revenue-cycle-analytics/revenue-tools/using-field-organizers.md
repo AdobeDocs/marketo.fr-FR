@@ -1,35 +1,34 @@
 ---
 unique-page-id: 3571892
-description: Utilisation des organisateurs de champ - Documents marketing - Documentation du produit
-title: Utilisation des organisateurs de champs
-translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+description: Utilisation des organisateurs de champ - Documents Marketo - Documentation du produit
+title: Utilisation des organisateurs de champ
+exl-id: 578969f7-9380-4019-9b86-85c659a216b3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Utilisation des organisateurs de champ {#using-field-organizers}
 
-Les organisateurs de champs vous aident à spécifier certains champs parmi toutes les valeurs possibles. Par exemple, vous pouvez créer des regroupements significatifs, tels que Côte Ouest et Côte Est, pour le champ Territoire. Cela permet aux rapports de s’exécuter plus rapidement.
+Les organisateurs de champ vous aident à spécifier certains champs parmi toutes les valeurs possibles. Par exemple, vous pouvez créer des regroupements significatifs, tels que la côte ouest et la côte est, pour le champ Territoire . Cela permet aux rapports de s’exécuter plus rapidement.
 
-Les organisateurs de champ sont similaires aux segmentations, qui sont utilisées de manière générique, mais les organisateurs de champ sont utilisés pour le rapports au niveau du champ.
+Les organisateurs de champ sont similaires aux segments, qui sont utilisés de manière générique, mais les organisateurs de champ sont utilisés pour la création de rapports au niveau du champ.
 
 Vous pouvez avoir jusqu’à trois segments personnalisés dans une liste de champs.
 
-Il n’existe aucun rapport Organiseurs de champs spécifique.
+Il n’existe pas de rapport Organisateurs de champs spécifique.
 
-Les organisateurs de champs sont utilisés dans l&#39;Analyse des performances du modèle.
+Les organisateurs de champ sont utilisés dans l’analyse des performances des modèles.
 
-## Comment créer des organisateurs de champs {#how-to-create-field-organizers}
+## Création d’organisateurs de champ {#how-to-create-field-organizers}
 
-1. Cliquez sur **Base de données**.
+1. Cliquez sur **Base**.
 
    ![](assets/db.png)
 
-1. Sous **New**, sélectionnez **New Field Organizer**.
+1. Sous **Nouveau**, sélectionnez **Nouvel Organisateur de champ**.
 
    ![](assets/two-1.png)
 
@@ -41,12 +40,12 @@ Les organisateurs de champs sont utilisés dans l&#39;Analyse des performances d
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Nommez le groupe et saisissez les données appropriées (cela dépendra du type de données du champ sélectionné). Cliquez sur **Ajouter le groupe**.
+1. Nommez le groupe et saisissez les données appropriées (cela dépendra du type de données du champ sélectionné). Cliquez sur **Ajouter un groupe**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 
-Créez davantage d’organisateurs de champ de la même manière, si vous en avez besoin. Et vous voilà.
+Créez d’autres organisateurs de champ de la même manière, si vous en avez besoin. Et voilà.
 
 >[!MORELIKETHIS]
 >
->[Création de groupes de champs personnalisés à l’aide de l’organiseur de champs](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+>[Création de groupes de champs personnalisés à l’aide de l’Organiseur de champs](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)

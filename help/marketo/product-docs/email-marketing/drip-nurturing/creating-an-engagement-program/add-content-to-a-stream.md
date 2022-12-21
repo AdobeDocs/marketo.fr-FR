@@ -18,7 +18,7 @@ Une fois que vous avez créé votre programme d’engagement, vous devez ajouter
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Diffusions** .
+1. Sélectionnez votre programme d’engagement et accédez à la **Flux** .
 
    ![](assets/add-content-to-a-stream-2.png)
 
@@ -26,11 +26,11 @@ Une fois que vous avez créé votre programme d’engagement, vous devez ajouter
 
 **Bouton Ajouter du contenu**
 
-1. Cliquez sur le bouton **Ajouter du contenu** .
+1. Cliquez sur le bouton **Ajouter du contenu** bouton .
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Sélectionnez **Email** _ou_ **Programme**, puis sélectionnez l&#39;email ou le programme/la campagne dynamique à ajouter.
+1. Choisir **Email** _ou_ **Programme**, puis sélectionnez l’adresse électronique ou le programme/la campagne dynamique à ajouter.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -40,13 +40,13 @@ Une fois que vous avez créé votre programme d’engagement, vous devez ajouter
 
 **+ Icône**
 
-1. Cliquez sur l’icône **+**, sélectionnez **Email** _ou_ **Programme**, puis sélectionnez l’email ou le programme/la campagne dynamique que vous souhaitez ajouter.
+1. Cliquez sur le bouton **+** icône, choisissez **Email** _ou_ **Programme**, puis sélectionnez l’adresse électronique ou le programme/la campagne dynamique à ajouter.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Une campagne dynamique doit contenir le filtre **Programme des membres de l’engagement** pour qu’elle fonctionne correctement.
+   >Une campagne dynamique doit contenir la variable **Programme des membres de l’engagement** pour qu’il fonctionne correctement.
 
 Bon boulot ! Vous savez maintenant comment ajouter du contenu à vos diffusions de programme. Ajoutez autant que nécessaire à votre culture. Pour plus d’informations, reportez-vous à l’article correspondant ci-dessous.
 

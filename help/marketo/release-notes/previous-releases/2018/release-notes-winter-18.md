@@ -70,13 +70,13 @@ Notre nouvelle API LinkedIn vous permet désormais de recibler des personnes de 
 
 ## Personnalisation Web {#web-personalization}
 
-**Source de données japonaise pour Web Personalization**
+**Source de données japonaise pour la personnalisation web**
 
-Marketo ajoute une source de données japonaise supplémentaire pour le Personalization web afin d’améliorer l’identification des visiteurs web (recherche d’adresses IP inversées) et la personnalisation pour les visiteurs venus du Japon. Les noms des organisations s’affichent en japonais.
+Marketo ajoute une source de données japonaise supplémentaire pour la personnalisation web afin d’améliorer l’identification des visiteurs web (recherche d’adresses IP inversées) et la personnalisation pour les visiteurs venus du Japon. Les noms des organisations s’affichent en japonais.
 
 **[Création d’un segment Web avec des listes statiques](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-Web Personalization peut désormais personnaliser le contenu pour un visiteur Web connu qui fait partie d’une liste statique définie dans les activités marketing (MLM). Grâce à cette amélioration, vous pouvez désormais commercialiser des listes statiques sur plusieurs canaux et cibler des personnes sur ces listes avec du contenu personnalisé sur votre site web.
+La personnalisation web peut désormais personnaliser le contenu pour un visiteur web connu qui fait partie d’une liste statique définie dans les activités marketing (MLM). Grâce à cette amélioration, vous pouvez désormais commercialiser des listes statiques sur plusieurs canaux et cibler des personnes sur ces listes avec du contenu personnalisé sur votre site web.
 
 ## ContentAI {#contentai}
 

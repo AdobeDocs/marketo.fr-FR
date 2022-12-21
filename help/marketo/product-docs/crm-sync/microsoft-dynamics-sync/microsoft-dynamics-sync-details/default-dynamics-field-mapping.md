@@ -55,7 +55,7 @@ Lors de la synchronisation initiale de votre compte Marketo avec Microsoft, Mark
     <tr>
       <td>Email</td>
       <td>Email</td>
-      <td>email address1</td>
+      <td>emailaddress1</td>
     </tr>
     <tr>
       <td>Intitulé du poste</td>
@@ -224,8 +224,8 @@ Lors de la synchronisation initiale de votre compte Marketo avec Microsoft, Mark
       <td>subject</td>
     </tr>
     <tr>
-      <td>Chiffre d'affaires annuel</td>
-      <td>Chiffre d'affaires annuel</td>
+      <td>Chiffre d’affaires annuel</td>
+      <td>Chiffre d’affaires annuel</td>
       <td>chiffre d’affaires</td>
     </tr>
   </tbody>
@@ -296,7 +296,7 @@ Les champs de piste ci-dessous sont synchronisés pour une utilisation interne.
     <tr>
       <td>Email</td>
       <td>Email</td>
-      <td>email address1</td>
+      <td>emailaddress1</td>
     </tr>
     <tr>
       <td>Intitulé du poste</td>
@@ -544,8 +544,8 @@ Les champs Contact ci-dessous sont synchronisés pour une utilisation interne.
       <td>statecode</td>
     </tr>
     <tr>
-      <td>Chiffre d'affaires annuel</td>
-      <td>Chiffre d'affaires annuel</td>
+      <td>Chiffre d’affaires annuel</td>
+      <td>Chiffre d’affaires annuel</td>
       <td>chiffre d’affaires</td>
     </tr>
     <tr>
@@ -569,7 +569,7 @@ Les champs Contact ci-dessous sont synchronisés pour une utilisation interne.
       <td>site web</td>
     </tr>
     <tr>
-      <td>Nombre d'employés</td>
+      <td>Nombre d’employés</td>
       <td>Nombre d’employés</td>
       <td>numberofemployee</td>
     </tr>
@@ -580,11 +580,11 @@ Les champs Contact ci-dessous sont synchronisés pour une utilisation interne.
     </tr>
     <tr>
       <td>Société</td>
-      <td>nom</td>
+      <td>name</td>
       <td>Nom du compte</td>
     </tr>
     <tr>
-      <td>Nombre d'employés</td>
+      <td>Nombre d’employés</td>
       <td>Nombre d’employés</td>
       <td>numberofemployee</td>
     </tr>
@@ -646,7 +646,7 @@ Les champs Compte ci-dessous sont synchronisés pour une utilisation interne.
     <tr>
       <td>Nom</td>
       <td>Thème</td>
-      <td>nom</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>Valeur estimée</td>

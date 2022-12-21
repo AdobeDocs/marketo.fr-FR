@@ -16,7 +16,6 @@ ht-degree: 0%
 >
 >* [Ajout d’audiences personnalisées Facebook en tant que service LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) dans la section Admin .
 >* [Acceptation de termes d’audiences personnalisés Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte Facebook.
-
 >
 
 

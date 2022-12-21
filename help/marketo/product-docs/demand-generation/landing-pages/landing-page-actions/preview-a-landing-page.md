@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359716
-description: Prévisualisation d'un Landing page - Docs marketing - Documentation du produit
-title: Prévisualisation d’un Landing page
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Aperçu d’une page d’entrée - Documents Marketo - Documentation du produit
+title: Aperçu d’une page d’entrée
+exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
+# Aperçu d’une page d’entrée {#preview-a-landing-page}
 
-# Prévisualisation d&#39;un Landing page {#preview-a-landing-page}
+Vous souhaitez probablement voir à quoi ressemble votre landing page avant de la mettre en ligne.
 
-Vous voulez probablement voir à quoi ressemble votre landing page avant de le faire vivre.
+## Aperçu d’une page d’entrée {#preview-a-landing-page-1}
 
-## Prévisualisation d&#39;un Landing page {#preview-a-landing-page-1}
-
-1. Sélectionnez un landing page et cliquez sur **Page de Prévisualisation**.
+1. Sélectionnez une landing page et cliquez sur **Aperçu de la page**.
 
    ![](assets/image2014-9-16-16-3a21-3a10.png)
 
@@ -25,23 +24,23 @@ Vous voulez probablement voir à quoi ressemble votre landing page avant de le f
    >
    >Le brouillon est la version sur laquelle vous travaillez, et non la version en direct que voient les clients.
 
-1. Vous pouvez également cliquer avec le bouton droit de la souris sur votre landing page et sélectionner **Prévisualisation**.
+1. Vous pouvez également cliquer avec le bouton droit sur votre landing page et sélectionner **Aperçu**.
 
    ![](assets/image2014-9-17-10-3a9-3a49.png)
 
-## Prévisualisation d&#39;un projet de Landing page {#preview-a-landing-page-draft}
+## Aperçu d’un brouillon de page d’entrée {#preview-a-landing-page-draft}
 
-1. Cliquez avec le bouton droit sur un landing page approuvé qui contient une version préliminaire et cliquez sur **Prévisualisation Draft**.
+1. Cliquez avec le bouton droit de la souris sur une page d’entrée approuvée contenant une version préliminaire, puis cliquez sur **Aperçu du brouillon**.
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
-## Prévisualisation d&#39;un brouillon de Landing page lors de la modification de {#preview-a-landing-page-draft-while-editing}
+## Aperçu d’un brouillon de page d’entrée lors de la modification {#preview-a-landing-page-draft-while-editing}
 
-1. Sélectionnez un landing page et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez une landing page et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. A tout moment de votre travail dans l&#39;éditeur de landing page, vous pouvez cliquer sur **Prévisualisation Brouillon**.
+1. À tout moment au cours de votre travail dans l’éditeur de page d’entrée, vous pouvez cliquer sur **Aperçu du brouillon**.
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 
@@ -49,4 +48,4 @@ Vous voulez probablement voir à quoi ressemble votre landing page avant de le f
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
-Bon travail ! Maintenant vous savez comment prévisualisation les landings page.
+Beau travail ! Vous savez maintenant comment prévisualiser des landing pages.

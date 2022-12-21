@@ -1,23 +1,22 @@
 ---
 unique-page-id: 10099411
-description: Présentation des analyses des connaissances par courriel - Documentation sur le marketing - Documentation sur le produit
-title: Présentation des analyses des statistiques de courriel
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Présentation de l’analyse des statistiques sur les e-mails - Documents Marketo - Documentation du produit
+title: Présentation de l’analyse des statistiques sur les emails
+exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
+# Présentation de l’analyse des statistiques sur les emails {#email-insights-analytics-overview}
 
-# Présentation des analyses des statistiques par courriel {#email-insights-analytics-overview}
-
-Dans Analytics, explorez les données d’agrégat pour la diffusion et l’engagement des courriels. Utilisez le graphique à gauche pour explorer les données, les informations à droite pour une expérience plus guidée.
+Dans Analytics, explorez les données agrégées pour la diffusion et l’engagement des emails. Utilisez le graphique à gauche pour explorer les données, les insights à droite pour une expérience plus guidée.
 
 ![](assets/emailanalytics-1.jpg)
 
-[Le ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) filtrage est disponible pour vous aider à affiner l’analyse de mesures spécifiques.
+[Filtrage](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) est disponible pour vous aider à analyser en détail des mesures spécifiques.
 
 ![](assets/filter-field.png)
 
@@ -25,42 +24,42 @@ Les mosaïques Points ciblés clés (IPC) vous donnent un aperçu rapide des mes
 
 ![](assets/kpi.png)
 
-Passez la souris sur les mosaïques des indicateurs de performance clés pour plus de détails...
+Pointez sur les mosaïques des indicateurs clés de performance pour plus de détails...
 
 ![](assets/kpi-hover.png)
 
-...ou afficher les détails sans avoir à pointer en développant la fenêtre de votre navigateur (sur des écrans plus grands).
+...ou afficher les détails sans avoir à survoler la fenêtre de votre navigateur (sur les grands écrans).
 
 ![](assets/kpi-wide.png)
 
 >[!TIP]
 >
->Ces couleurs ont un sens ! Le vert indique un bon changement, le rouge signifie un mauvais changement, le gris signifie que rien n&#39;a changé. Il est basé sur la période de comparaison que vous avez choisie pour le filtrage.
+>Ces couleurs ont un sens ! Le vert indique un bon changement, le rouge un mauvais changement, le gris signifie que rien n&#39;a changé. Il est basé sur la période de comparaison que vous avez choisie dans le filtrage.
 
-Le graphique affiche vos critères filtrés. Pour masquer un de vos filtres, il vous suffit de cliquer sur sa barre de couleurs...
+Le graphique affiche vos critères filtrés. Pour masquer l’un de vos filtres, cliquez simplement sur sa barre de couleurs...
 
 ![](assets/chart1.png)
 
-...et la mesure disparaît du graphique. Cliquez de nouveau sur la barre de couleurs pour la faire réapparaître.
+...et la mesure disparaît du graphique. Cliquez de nouveau sur la barre de couleur pour la faire réapparaître.
 
 ![](assets/chart2.png)
 
-Si vous créez un graphique que vous souhaitez réutiliser, définissez-le comme [graphique rapide](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+Si vous créez un graphique que vous souhaitez réutiliser, définissez [graphique rapide](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 
-Sur le côté droit de la page, les mesures guidées vous aident à découvrir les pilotes appropriés. Cliquez sur une mesure pour l’afficher dans le graphique sur le côté gauche de la page.
+Sur le côté droit de la page, les mesures guidées vous aident à découvrir les pilotes pertinents. Cliquez sur une mesure pour l’afficher dans le graphique sur le côté gauche de la page.
 
 ![](assets/guided-metrics-ps.png)
 
 >[!NOTE]
 >
->Vous voyez que Actualiser en haut à droite ? Lorsque vous le verrez, vous devrez cliquer manuellement dessus pour actualiser le module Insights. Nous ne l&#39;affichons que lorsque vous avez apporté une modification aux filtres qui invaliderait les valeurs actuelles.
+>Voir l&#39;Actualiser en haut à droite ? Lorsque vous le verrez, vous devrez cliquer dessus manuellement pour actualiser le module Statistiques. Nous ne l’affichons que lorsque vous avez apporté une modification aux filtres qui invalideraient les valeurs actives.
 
-Vous pouvez également spécifier ce que vous voyez (de gauche à droite) : Tous, Audience, Contenu et Plate-forme.
+Vous pouvez également spécifier ce que vous voyez (de gauche à droite) : Tous, Audience, Contenu et Plateforme.
 
 ![](assets/guided-bar.png)
 
 >[!MORELIKETHIS]
 >
->[Présentation des informations sur les e-mails envoyés](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[Présentation des informations sur les emails](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

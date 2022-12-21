@@ -1,18 +1,17 @@
 ---
 unique-page-id: 14352491
-description: Pourquoi tous mes contacts n'ont-ils pas été transférés à Sales Connect ? - Documents marketing - Documentation du produit
-title: Pourquoi tous mes contacts n'ont-ils pas été transférés à Sales Connect ?
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+description: Pourquoi tous mes contacts n'ont-ils pas été amenés à Sales Connect ? - Documents Marketo - Documentation du produit
+title: Pourquoi tous mes contacts n'ont-ils pas été amenés à Sales Connect ?
+exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
+# Pourquoi tous mes contacts n&#39;ont-ils pas été amenés à Sales Connect ? {#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
 
-# Pourquoi tous mes contacts n&#39;ont-ils pas été transférés à Sales Connect ? {#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
+Si certains de vos contacts seulement repoussent, il est possible que ceux qui ne l’ont pas été soient marqués comme &quot;exclusion par e-mail&quot; dans l’instance Salesforce de votre entreprise.
 
-Si seulement certains de vos contacts passent en revue, il est possible que ceux qui ne l&#39;ont pas été soient signalés comme &quot;opt-out courriel&quot; dans l&#39;instance Salesforce de votre société.
-
-Consultez l&#39;icône Alertes pour les raisons détaillées pour lesquelles le groupe entier n&#39;a pas repoussé. Pour des raisons liées à la configuration de Salesforce de votre société, contactez votre administrateur SFDC.
+Consultez l’icône Alertes pour connaître les raisons détaillées pour lesquelles le groupe entier n’a pas effectué de transmission. Pour des raisons liées à la configuration de Salesforce de votre entreprise, contactez votre administrateur SFDC.

@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359770
-description: Publication d’un sondage - Documents marketing - Documentation du produit
+description: Publication d’un sondage - Documents Marketo - Documentation du produit
 title: Publication d’un sondage
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
+# Publication d’un sondage {#publish-a-poll}
 
-# Publier un sondage {#publish-a-poll}
+Après vous [création d’un sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), vous pouvez le publier sur vos pages d’entrée Marketo, sur Facebook et sur votre site web.
 
-Après avoir [créé un sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), vous pouvez le publier sur vos landings page de marketing, sur Facebook et sur votre site Web.
-
-1. Accédez à votre landing page et ouvrez-le pour le modifier.
+1. Accédez à votre landing page et ouvrez-la pour modification.
 
    ![](assets/image2014-9-19-10-3a45-3a23.png)
 
-1. Faites glisser le pointeur de la souris sur **Sondage** depuis la palette de droite.
+1. Faites glisser le curseur **Sondage** dans la palette de droite.
 
    ![](assets/image2014-9-19-10-3a45-3a50.png)
 
@@ -31,8 +30,8 @@ Après avoir [créé un sondage](/help/marketo/product-docs/demand-generation/so
 >
 >Vous devez approuver votre sondage pour le rendre disponible ici.
 
-Félicitations ! Approuvez le landing page et votre sondage est en direct. Vous pouvez également [publier le landing page sur Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer le sondage sur votre site Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Félicitations ! Validez la landing page et votre sondage est actif. Vous pouvez également [publier la landing page sur Facebook ;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer le sondage sur votre site web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
->Testez et affinez votre sondage. Allez au sondage sur votre page Web et inscrivez-vous avec les informations de test. Notez tout ce que vous souhaitez modifier sur l’expérience de l’utilisateur.
+>Testez et affinez votre sondage. Allez au sondage de votre page web et inscrivez-vous avec les informations de test. Notez tout ce que vous souhaitez modifier sur l’expérience de l’utilisateur.

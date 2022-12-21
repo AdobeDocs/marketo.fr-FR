@@ -1,39 +1,38 @@
 ---
 unique-page-id: 14352477
-description: Connexion aux ventes - Documents marketing - Documentation sur les produits
-title: Connexion client
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Push to Sales Connect - Marketo Docs - Documentation du produit
+title: Intégrer à Sales Connect
+exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Intégrer à Sales Connect {#push-to-sales-connect}
 
-# Envoyer à la connexion commerciale {#push-to-sales-connect}
-
-Notre bouton Push to Tout prendra une liste de vos pistes/contacts dans Salesforce et les poussera dans un groupe dans Sales Connect. Vous pouvez ensuite envoyer rapidement un courriel de groupe personnalisable avec le suivi Tout en pièce jointe.
+Notre bouton Push to Tout (Envoyer à tout) contiendra une liste de vos prospects/contacts dans Salesforce et les placera dans un groupe dans Sales Connect (Connexion aux ventes). Vous pouvez ensuite envoyer rapidement un e-mail de groupe personnalisable en pièce jointe du suivi Tout.
 
 ## Exigences {#requirements}
 
-* Package Sales Connect Salesforce installé par l&#39;administrateur Salesforce
+* Package Salesforce Sales Connect installé par l’administrateur Salesforce
 
-* Bouton Push to Sales Connect installé sur la vue de liste par l&#39;administrateur Salesforce
+* Bouton Push to Sales Connect (Envoyer à la connexion aux ventes) installé en mode Liste par l’administrateur Salesforce
 
-* Connexion Salesforce créée avec Sales Connect pour l&#39;utilisateur qui effectue le Push
+* Connexion Salesforce établie avec Sales Connect pour un utilisateur qui effectue les notifications push
 
 ## Comment {#how-to}
 
-1. Cliquez sur l&#39;onglet **Piste/Contact** dans Salesforce.
-1. Basculez vers la Vue de Liste que vous souhaitez utiliser pour envoyer à Sales Connect en regard du bouton Go (Atteindre).
+1. Cliquez sur le bouton **Lead/Contact** dans Salesforce.
+1. Basculez vers le mode Liste que vous souhaitez passer à la connexion aux ventes en regard du bouton Atteindre .
 1. Cliquez sur **Aller**.
-1. Sélectionnez tous les prospects/contacts que vous souhaitez pousser à diffuser.
-1. Sélectionnez **Push to MSE**.
-1. Une nouvelle fenêtre s&#39;affiche pour vérifier le nombre de pistes/contacts que vous souhaitez transférer. Sélectionnez **Passez au groupe**. Sales Connect ne redirige aucun contact signalé comme Opt-out courriel dans Salesforce ou Désabonné dans Sales Connect.
+1. Sélectionnez tous les pistes/contacts que vous souhaitez transférer.
+1. Sélectionner **Push to MSE**.
+1. Une nouvelle fenêtre s’affiche pour vérifier le nombre de pistes/contacts que vous souhaitez transférer. Sélectionner **Passez au groupe**. Sales Connect ne redirigera pas les contacts marqués comme Email Opt Out dans Salesforce ou Désabonné dans Sales Connect.
 
    >[!NOTE]
    >
-   >Sales Connect ajoutera ce groupe intitulé &quot;SFDC-..&quot;. à la page Relations de l&#39;[application Web](https://toutapp.com/login).
+   >Sales Connect ajoutera ce groupe intitulé &quot;SFDC-..&quot;. à la page Relations de la [application web](https://toutapp.com/login).
 
-1. Sélectionnez **E-mail Groupe entier** pour envoyer le courriel de ce groupe.
+1. Sélectionner **Email Entier Group** pour envoyer l&#39;email à ce groupe.

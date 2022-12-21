@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2949168
-description: Utilisation de modèles pour créer des campagnes Web - Documents marketing - Documentation sur les produits
-title: Utilisation de modèles pour créer des campagnes Web
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Utilisation de modèles pour créer des campagnes web - Documents Marketo - Documentation du produit
+title: Utilisation de modèles pour créer des campagnes web
+exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
+# Utilisation de modèles pour créer des campagnes web {#using-templates-to-create-web-campaigns}
 
-# Utilisation de modèles pour créer des campagnes Web {#using-templates-to-create-web-campaigns}
-
-Accélérez et simplifiez votre processus de création de campagnes Web en utilisant nos modèles intégrés ou en [enregistrant vos propres ](save-your-campaign-as-a-template.md).
+Accélérez et simplifiez votre processus de création de campagnes web en utilisant nos modèles intégrés ou en [enregistrement de votre propre](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
->Les modèles sont optimisés pour tous les périphériques et les expériences de navigation sur les ordinateurs de bureau et les appareils mobiles.
+>Les modèles sont optimisés pour tous les appareils et les expériences de navigation sur les ordinateurs de bureau et les appareils mobiles.
 
 1. Accédez à **Campagnes Web**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Cliquez sur **Créer une Campaign Web**.
+1. Cliquez sur **Créer une campagne web**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -31,7 +30,7 @@ Accélérez et simplifiez votre processus de création de campagnes Web en utili
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. Sélectionnez un segment de Cible.
+1. Sélectionnez un segment cible.
 
    ![](assets/set-web-campaign-education.jpg)
 
@@ -39,7 +38,7 @@ Accélérez et simplifiez votre processus de création de campagnes Web en utili
 
    ![](assets/templates.png)
 
-1. Sélectionnez la zone appropriée pour votre campagne pour afficher et sélectionner un modèle qui fonctionne pour vous.
+1. Sélectionnez la zone appropriée à votre campagne pour afficher et sélectionner un modèle qui vous convient.
 
    >[!NOTE]
    >
@@ -49,7 +48,7 @@ Accélérez et simplifiez votre processus de création de campagnes Web en utili
 
    >[!TIP]
    >
-   >Pour les campagnes mobiles, sélectionnez un modèle dans la section **mobile**.
+   >Pour les campagnes mobiles, sélectionnez un modèle dans le **mobile** .
 
 1. Personnalisez le modèle.
 
@@ -59,8 +58,8 @@ Accélérez et simplifiez votre processus de création de campagnes Web en utili
 
    ![](assets/click-save-hand.jpg)
 
-Bien joué ! Avez-vous vu combien de temps vous avez économisé en utilisant un modèle ?
+C&#39;est joli ! Avez-vous vu combien de temps vous avez économisé en utilisant un modèle ?
 
 >[!MORELIKETHIS]
 >
->[Enregistrer une Campaign en tant que modèle](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
+>[Enregistrement d’une campagne en tant que modèle](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 8D {#template-8d}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 8D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)
+Cliquez avec le bouton droit de la souris sur [Télécharger le modèle 8D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)
 
 ![](assets/image2015-7-29-14-3a28-3a56.png)
 

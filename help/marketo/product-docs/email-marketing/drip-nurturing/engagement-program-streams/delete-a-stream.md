@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359936
-description: Suppression d’un flux - Documents marketing - Documentation du produit
-title: Suppression d’un flux
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Suppression d’un flux - Documents Marketo - Documentation du produit
+title: Suppression d’une diffusion
+exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-
-# Supprimer un flux {#delete-a-stream}
+# Suppression d’une diffusion {#delete-a-stream}
 
 Si vous devez supprimer un flux de votre programme d’engagement, suivez ces étapes rapides et simples.
 
@@ -27,7 +26,7 @@ Si vous devez supprimer un flux de votre programme d’engagement, suivez ces é
    >
    >La suppression d’un flux entraîne la perte de données historiques pour le contenu de ce flux.
 
-1. Cliquez sur l&#39;icône d&#39;engrenage et sélectionnez **Supprimer**.
+1. Cliquez sur l’icône d’engrenage et sélectionnez **Supprimer**.
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
@@ -37,4 +36,4 @@ Si vous devez supprimer un flux de votre programme d’engagement, suivez ces é
 
    >[!NOTE]
    >
-   >Si le flux contient des personnes, il vous sera demandé de les [déplacer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) en premier.
+   >Si le flux comporte des personnes, vous serez invité à [move](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) les envoyer en premier.

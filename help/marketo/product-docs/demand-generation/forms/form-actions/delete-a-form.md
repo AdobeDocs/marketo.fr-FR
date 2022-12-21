@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359637
-description: Supprimer un formulaire - Documents marketing - Documentation du produit
+description: Suppression d’un formulaire - Documents Marketo - Documentation du produit
 title: Suppression d’un formulaire
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-
-# Supprimer un formulaire {#delete-a-form}
+# Suppression d’un formulaire {#delete-a-form}
 
 Si vous disposez d’un formulaire dont vous n’avez pas besoin et qui n’est pas utilisé, vous pouvez le supprimer. Voici comment.
 
@@ -29,16 +28,16 @@ Si vous disposez d’un formulaire dont vous n’avez pas besoin et qui n’est 
 
    >[!NOTE]
    >
-   >N’oubliez pas de supprimer le formulaire de tous les landings page qui l’utilisent. Confirmez également que le formulaire n’est pas utilisé sur un site Web public.
+   >N’oubliez pas de supprimer le formulaire de toutes les landing pages qui l’utilisent. Vérifiez également que le formulaire n’est pas utilisé sur un site web public.
 
-1. Confirmez en cliquant sur **Supprimer**.
+1. Confirmer en cliquant sur **Supprimer**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
-1. Si le formulaire est utilisé sur un landing page de marketing, vous ne serez pas autorisé à le supprimer. Vous devez aller le retirer de tous les landings page où il vit.
+1. Si le formulaire est utilisé sur une landing page Marketo, vous ne serez pas autorisé à le supprimer. Vous devez le supprimer des landing pages sur lesquelles il réside.
 
    ![](assets/image2014-9-15-12-3a1-3a44.png)
 
 >[!CAUTION]
 >
->Si vous supprimez un formulaire utilisé par votre site Web public, aucun avertissement ne s’affiche et le formulaire est rompu. Envisagez plutôt [de l&#39;archiver](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
+>Si vous supprimez un formulaire utilisé par votre site web public, aucun avertissement ne s’affiche et le formulaire est endommagé. Considérer  [archivage](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) au lieu de .

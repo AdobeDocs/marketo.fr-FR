@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2360199
-description: Rapports de personnes de groupe par attribut - Documents marketing - Documentation du produit
-title: Rapports des personnes de groupe par attribut
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Rapports de personnes de groupe par attribut - Documents Marketo - Documentation du produit
+title: Rapports de personnes de groupe par attribut
+exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
+# Rapports de personnes de groupe par attribut {#group-person-reports-by-attribute}
 
-# Rapports des personnes du groupe par attribut {#group-person-reports-by-attribute}
+Vous pouvez regrouper vos rapports de personne selon n’importe quel attribut de personne ou de société.
 
-Vous pouvez regrouper les rapports de votre personne selon n’importe quelle personne ou attribut de société.
-
-1. Accédez à la zone **Activités marketing** (ou **Analytics**).
+1. Accédez au **Activités marketing** (ou **Analytics**).
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. Sélectionnez le rapport de votre personne dans l’arborescence de navigation et cliquez sur l’onglet **Configuration**.
+1. Sélectionnez le rapport de votre personne dans l’arborescence de navigation, puis cliquez sur le bouton **Configuration** .
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. Doublon-clic **Regrouper les personnes par**.
+1. Double-cliquez **Regrouper les personnes par**.
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
@@ -31,18 +30,18 @@ Vous pouvez regrouper les rapports de votre personne selon n’importe quelle pe
    >
    >Vous pouvez également [regrouper vos rapports de personne par segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
-   Dans la boîte de dialogue Regrouper les personnes par, sélectionnez l’attribut de personne ou de société à utiliser pour le regroupement.
+   Dans la boîte de dialogue Regrouper les personnes par , sélectionnez l’attribut de personne ou de société à utiliser pour le regroupement.
 
    ![](assets/image2017-3-28-11-3a34-3a42.png)
 
    >[!TIP]
    >
-   >Si vous choisissez un attribut doté d’une valeur numérique, par exemple _Créé à_ ou _Recettes annuelles_, sélectionnez les mesures dans la liste déroulante **Unités** à droite.
+   >Si vous choisissez un attribut doté d’une valeur numérique, comme _Créé à l’adresse_ ou _Recettes annuelles_, sélectionnez les mesures dans le **Unités** Liste déroulante à droite.
 
-   C&#39;est tout ! Cliquez sur l&#39;onglet Rapport pour afficher le rapport regroupé en conséquence.
+   C&#39;est tout ! Cliquez sur l&#39;onglet Rapport pour voir votre rapport regroupé en conséquence.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 
    >[!MORELIKETHIS]
    >
-   >[Ajouter des colonnes personnalisées à un rapport Personne](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+   >[Ajout de colonnes personnalisées à un rapport Personne](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)

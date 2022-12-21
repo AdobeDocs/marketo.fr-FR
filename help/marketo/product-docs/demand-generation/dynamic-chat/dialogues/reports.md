@@ -1,10 +1,11 @@
 ---
 description: Rapports - Documents Marketo - Documentation du produit
 title: Rapports
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
+source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -14,7 +15,7 @@ Dans l&#39;onglet Rapports , affichez les données des 90 derniers jours. Chaque
 
 <table>
  <tr>
-  <td><strong>Total déclenché</strong></td>
+  <td><strong>Déclenchements totaux</strong></td>
   <td>S’incrémente chaque fois qu’un visiteur est admissible pour/s’affiche dans un dialogue.
 </td>
  </tr>
@@ -31,7 +32,7 @@ Dans l&#39;onglet Rapports , affichez les données des 90 derniers jours. Chaque
   <td>Incrémente chaque fois qu’un visiteur fournit une adresse électronique valide dans un flux de dialogue.</td>
  </tr>
  <tr>
-  <td><strong>Réunions préparées</strong></td>
+  <td><strong>Réunions programmées</strong></td>
   <td>S’incrémente chaque fois qu’un visiteur parvient à planifier un rendez-vous via le chatterbot.</td>
  </tr>
  <tr>

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146978
-description: Utiliser une durée dans une étape de flux d'attente - Marketo Docs - Documentation du produit
+description: Utilisation d’une durée dans une étape de flux d’attente - Documents Marketo - Documentation du produit
 title: Utilisation d’une durée dans une étape de flux d’attente
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
@@ -11,23 +10,23 @@ ht-degree: 0%
 
 ---
 
-# Utiliser une durée dans une étape de flux d&#39;attente {#use-a-duration-in-a-wait-flow-step}
+# Utilisation d’une durée dans une étape de flux d’attente {#use-a-duration-in-a-wait-flow-step}
 
-Vous pouvez utiliser l’étape de flux d’attente pour mettre en pause le parcours d’une personne lors d’une campagne dynamique pendant une certaine durée. Vous pouvez également spécifier des critères pour le jour de la semaine et l’heure de fin.
+Vous pouvez utiliser l’étape Flux d’attente pour suspendre le parcours d’une personne au cours d’une campagne dynamique pendant une certaine durée. Vous pouvez également spécifier des critères pour le jour de la semaine et l’heure de fin.
 
-1. Dans l’onglet de votre campagne dynamique **Flux**, faites glisser la souris sur l’étape de flux **Attendre**.
+1. Dans votre campagne dynamique **Flux** , faites glisser sur l’onglet **Attente** étape de flux.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
-1. Indiquez la durée de mise en pause.
+1. Saisissez la durée de la pause.
 
    ![](assets/image2014-9-22-11-3a54-3a0.png)
 
-1. C&#39;est tout ! Le flux est interrompu pendant la durée spécifiée. Pour les options avancées, cliquez sur l’icône d’engrenage située à droite.
+1. C&#39;est tout ! Le flux est interrompu pendant la durée spécifiée. Pour les options avancées, cliquez sur l’icône d’engrenage à droite.
 
    ![](assets/image2014-9-22-11-3a54-3a7.png)
 
-1. Indiquez le jour de la semaine où l’étape d’attente doit se terminer.
+1. Spécifiez le jour de la semaine où l’étape d’attente doit se terminer.
 
    ![](assets/image2014-9-22-11-3a54-3a10.png)
 
@@ -39,9 +38,9 @@ Vous pouvez utiliser l’étape de flux d’attente pour mettre en pause le parc
    >
    >**Exemple**
    >
-   >Une personne déclenche une campagne intelligente le vendredi à 17h. L’étape d’attente est avancée : 48 heures et doit se terminer le lundi-vendredi à 9h.
+   >Une personne déclenche une campagne dynamique le vendredi à 17 heures. L’étape d’attente est avancée : 48 heures et doit se terminer le lundi-vendredi à 9h00.
    >
-   >Il en résulterait que la personne continuerait dans le flux le **lundi, 9h**. Il s&#39;agit de la première date M-F après 48 heures.
+   >Le résultat serait que la personne continuerait dans le flux de **Lundi, 9h**. Il s’agit de la première date M-F après 48 heures.
 
    >[!NOTE]
    >

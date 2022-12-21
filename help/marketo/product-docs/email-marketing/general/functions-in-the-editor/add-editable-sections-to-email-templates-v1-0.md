@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1900585
-description: Ajouter des sections modifiables aux modèles de courrier électronique v1.0 - Documents marketing - Documentation du produit
-title: Ajouter des sections modifiables aux modèles de courrier électronique v1.0
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Ajout de sections modifiables aux modèles de courrier électronique v1.0 - Documents Marketo - Documentation du produit
+title: Ajout de sections modifiables aux modèles de courrier électronique v1.0
+exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Ajout de sections modifiables aux modèles de courrier électronique v1.0 {#add-editable-sections-to-email-templates-v1.0}
 
-# Ajouter des sections modifiables aux modèles de courrier électronique v1.0 {#add-editable-sections-to-email-templates-v1.0}
-
-Si vous créez un modèle dans la version 1.0 de l’éditeur de modèles de courrier électronique, vous pouvez rendre toute section modifiable en y plaçant un `<div>` spécial.
+Si vous créez un modèle dans la version 1.0 de l’éditeur de modèles d’email, vous pouvez rendre n’importe quelle section modifiable en plaçant un `<div>` autour.
 
 >[!NOTE]
 >
@@ -21,15 +20,15 @@ Si vous créez un modèle dans la version 1.0 de l’éditeur de modèles de cou
 >
 >`<pre> <div class="mktEditable" id="UNIQUE_ID">This part is editable</div></pre>`
 
-Règles :
+Règles :
 
-1. Le code HTML doit toujours être valide.
-1. La classe **mktEditable** doit être incluse.
-1. L’ID doit être unique dans ce code HTML.
-1. Aucun espace dans l’identifiant.
+1. Le HTML doit toujours être valide.
+1. La classe de **mktEditable** doit être inclus.
+1. L’identifiant doit être unique dans ce HTML.
+1. Aucun espace dans l’ID.
 
 >[!CAUTION]
 >
 >Les instructions mktEditable ne peuvent pas être imbriquées.
 
-Si vous souhaitez savoir comment procéder dans la version 2.0 de l’éditeur de modèles de courrier électronique, extrayez [la syntaxe du modèle de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).
+Si vous souhaitez apprendre à le faire dans la version 2.0 de l’éditeur de modèles d’email, extrayez-le. [syntaxe du modèle d&#39;email](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).

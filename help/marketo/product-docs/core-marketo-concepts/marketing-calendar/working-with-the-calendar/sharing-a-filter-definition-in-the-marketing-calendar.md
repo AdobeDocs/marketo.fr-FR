@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147304
-description: Partage d’une définition de filtre dans le calendrier marketing - Docs Marketo - Documentation du produit
+description: Partage d’une définition de filtre dans le calendrier marketing - Documents Marketo - Documentation du produit
 title: Partage d’une définition de filtre dans le calendrier marketing
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
@@ -33,10 +32,10 @@ Les filtres peuvent être partagés entre différents utilisateurs.
 
    ![](assets/image2014-9-24-11-3a31-3a24.png)
 
-1. Copiez l’URL et partagez-la avec d’autres utilisateurs Marketo.
+1. Copiez l’URL et partagez-la avec d’autres utilisateurs de Marketo.
 
    ![](assets/image2014-9-24-11-3a31-3a29.png)
 
    >[!NOTE]
    >
-   >Les autorisations d’utilisateur affecteront la visibilité.
+   >Les autorisations utilisateur affectent la visibilité.

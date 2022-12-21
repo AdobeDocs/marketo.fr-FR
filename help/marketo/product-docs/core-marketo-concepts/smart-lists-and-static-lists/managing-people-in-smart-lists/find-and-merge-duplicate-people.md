@@ -1,9 +1,8 @@
 ---
 unique-page-id: 557339
-description: Rechercher et fusionner des personnes Duplicata - Docs Marketo - Documentation sur les produits
-title: Rechercher et fusionner des personnes de Duplicata
+description: Rechercher et fusionner des personnes en double - Documents Marketo - Documentation du produit
+title: Rechercher et fusionner des personnes en double
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
@@ -11,76 +10,76 @@ ht-degree: 0%
 
 ---
 
-# Rechercher et fusionner des personnes de Duplicata {#find-and-merge-duplicate-people}
+# Rechercher et fusionner des personnes en double {#find-and-merge-duplicate-people}
 
-Marketo annule automatiquement les duplicata lorsque de nouvelles personnes entrent dans le système. Cependant, votre service de gestion de la relation client a peut-être initialement envoyé des duplicata à Marketo. Voici comment les fusionner.
+Marketo déduplique automatiquement les nouvelles personnes qui entrent dans le système. Cependant, votre CRM a peut-être initialement envoyé des doublons à Marketo. Voici comment les fusionner.
 
 >[!NOTE]
 >
->Marketo ne dédupliquera pas automatiquement une synchronisation Salesforce ou Microsoft Dynamics, ni lorsque vous saisirez manuellement des personnes.
+>Marketo ne procède pas automatiquement à la déduplication par rapport à une synchronisation Salesforce ou Microsoft Dynamics, ni lorsque vous saisissez manuellement des personnes.
 
 >[!PREREQUISITES]
 >
->La recherche et la fusion de duplicata impliqueront l&#39;utilisation de [listes intégrées / intelligentes du système](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>La recherche et la fusion de doublons impliquent l&#39;utilisation de [listes dynamiques intégrées/système](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
-## Rechercher des Duplicata {#find-duplicates}
+## Rechercher les doublons {#find-duplicates}
 
-1. Accédez à la zone **Base de données**.
+1. Accédez au **Base** zone.
 
    ![](assets/db.png)
 
    >[!CAUTION]
    >
-   >La fusion de personnes à Marketo peut ne pas fonctionner si vous utilisez un compte personnel Salesforce. Si possible, fusionnez les enregistrements dans Salesforce.
+   >La fusion de personnes dans Marketo peut ne pas fonctionner si vous utilisez un compte de personne Salesforce. Si possible, fusionnez les enregistrements dans Salesforce.
 
-1. Sélectionnez la liste intelligente système **Duplicata possibles** et cliquez sur l&#39;onglet **Personnes**.
+1. Sélectionnez la **Doublons possibles** liste dynamique du système et cliquez sur **Personnes** .
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également [rechercher des personnes Duplicata avec une logique personnalisée](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >Vous pouvez également [Recherche de personnes en double avec une logique personnalisée](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
 
 ## Fusionner les personnes manuellement {#merge-people-manually}
 
 >[!CAUTION]
 >
->Lors de la fusion de personnes, si la personne perdante a un objet personnalisé Marketo, **non** est réassocié à la personne gagnante. Reparent l&#39;objet personnalisé avant d&#39;effectuer la fusion.
+>Lors de la fusion de personnes, si la personne perdante possède un objet personnalisé Marketo, elle **not** être réassocié à la personne gagnante. Reparent l’objet personnalisé avant d’effectuer la fusion.
 
-1. Sélectionnez les duplicata en maintenant la touche Ctrl/Cmd enfoncée et en cliquant sur **Fusionner les personnes**.
+1. Sélectionnez les doublons en maintenant la touche Ctrl/Cmd enfoncée, puis cliquez sur **Fusionner les personnes**.
 
    ![](assets/three.png)
 
    >[!TIP]
    >
-   >Vous pouvez avoir deux ou plusieurs duplicata pour la même personne - sélectionnez-les tous en même temps.
+   >Vous pouvez avoir deux doublons ou plus pour la même personne, en les sélectionnant tous à la fois.
 
-1. Vous verrez les valeurs entre les enregistrements qui _ne correspondent pas_. Sélectionnez la valeur à conserver pour chaque champ. Cliquez sur **Fusionner** lorsque vous avez terminé. Si vous ne souhaitez aucune valeur, vous pouvez cocher **Personnalisé** et saisir la valeur de votre choix.
+1. Vous verrez les valeurs entre les enregistrements qui _don&#39;t_ correspond à . Sélectionnez la valeur à conserver pour chaque champ. Cliquez sur **Fusion** une fois terminé. Si vous ne souhaitez aucune des valeurs, vous pouvez vérifier **Personnalisé** et saisissez la valeur de votre choix.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Lors de la fusion manuelle de personnes, la première personne sélectionnée sera la &quot;gagnante&quot;. Dans l&#39;onglet Personnes, si vous fusionnez des ID d&#39;enregistrement 198 et 199, et que vous cliquez d&#39;abord sur 199, 199 sera l&#39;ID d&#39;enregistrement des personnes fusionnées. Cela s&#39;applique également si plus de deux enregistrements sont fusionnés.
+   >Lors de la fusion manuelle de personnes, la première personne sélectionnée sera la &quot;gagnante&quot;. Dans l&#39;onglet Personnes, si vous fusionnez des ID d&#39;enregistrement 198 et 199, et que vous cliquez sur 199 en premier, 199 sera l&#39;ID d&#39;enregistrement des personnes fusionnées. Cela s&#39;applique également si plus de deux enregistrements sont fusionnés.
 
    >[!TIP]
    >
-   >La fusion est préférable à la suppression. Vous conserverez tout l’historique (visites de page, clics sur les liens, ouvertures de courriel, remplissages de formulaires, etc.).
+   >La fusion vaut mieux que la suppression. Vous conserverez tous les historiques (visites de page, clics sur les liens, ouvertures d’email, remplissage de formulaires, etc.).
 
 ## Effet dans Salesforce {#effect-in-salesforce}
 
-Si vous avez intégré Salesforce, vous trouverez quelques remarques sur l&#39;effet de Fusionner les pistes dans Salesforce.
+Si vous avez intégré Salesforce, vous trouverez quelques notes sur l’effet de Fusionner les pistes dans Salesforce.
 
-* Lorsque vous fusionnez uniquement des pistes ou des contacts, ils fusionnent selon les règles Salesforce normales.
-* Lors de la fusion des Pistes et des Contacts, toutes les Pistes sont converties en Contacts avant la fusion selon les règles Salesforce normales.
+* Lorsque vous fusionnez uniquement les pistes ou uniquement les contacts, ils fusionnent selon les règles Salesforce normales.
+* Lorsque vous fusionnez les pistes et les contacts, toutes les pistes sont converties en contacts avant la fusion selon les règles Salesforce normales.
 
-Pour connaître le comportement de Salesforce lors de la fusion de pistes ou de contacts, consultez les documents Salesforce suivants :
+Pour plus d’informations sur le comportement de Salesforce lors de la fusion de Leads ou de Contacts, consultez les documents Salesforce suivants :
 
-* [Fusionner les pistes de Duplicata](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-* [Fusionner des contacts de Duplicata](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [Fusion de pistes en double](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
+* [Fusion de contacts en double](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
 
-## Fusion en masse {#bulk-merging}
+## Fusion en bloc {#bulk-merging}
 
-Si vous avez trop de duplicata à fusionner manuellement, contactez votre responsable de succès client pour discuter de vos options.
+Si vous avez trop de doublons à fusionner manuellement, contactez votre responsable du succès client pour discuter de vos options.
 
-Super ! Si vous êtes connecté à un CRM, les enregistrements y fusionnent selon les règles ci-dessous.
+Super ! Si vous êtes connecté à un CRM, les enregistrements y fusionneront selon les règles ci-dessous.

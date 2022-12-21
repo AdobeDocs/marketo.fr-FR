@@ -1,23 +1,22 @@
 ---
 unique-page-id: 30081250
-description: Gérer les groupes - Documents marketing - Documentation du produit
-title: Gérer les groupes
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Gestion des groupes - Documents Marketo - Documentation du produit
+title: Gestion des groupes
+exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
-
-# Gérer les groupes {#manage-groups}
+# Gestion des groupes {#manage-groups}
 
 Découvrez comment gérer vos groupes dans Sales Connect.
 
-## Créer un groupe {#create-a-group}
+## Création d’un groupe {#create-a-group}
 
-1. Dans la page Personnes, cliquez sur **+** en regard de Groupes.
+1. Dans la page Personnes, cliquez sur le **+** en regard de Groupes .
 
    ![](assets/one-4.png)
 
@@ -27,7 +26,7 @@ Découvrez comment gérer vos groupes dans Sales Connect.
 
    C&#39;est tout !
 
-## Ajouter des contacts à un groupe {#add-contacts-to-a-group}
+## Ajout de contacts à un groupe {#add-contacts-to-a-group}
 
 1. Dans la page Personnes, recherchez et sélectionnez le groupe auquel vous souhaitez ajouter des personnes.
 
@@ -39,9 +38,9 @@ Découvrez comment gérer vos groupes dans Sales Connect.
 
    >[!NOTE]
    >
-   >Ceci ajoute un contact à la fois. Pour ajouter plusieurs contacts en même temps, suivez [ces étapes](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >Un contact à la fois sera ainsi ajouté. Pour ajouter plusieurs contacts en même temps, suivez [ces étapes](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Renseignez les informations du contact et cliquez sur **Créer** (ou **Créer et Ajouter** pour en ajouter un autre).
+1. Renseignez les informations du contact et cliquez sur **Créer** (ou **Créer et ajouter** pour en ajouter un autre).
 
    ![](assets/five-3.png)
 
@@ -49,11 +48,11 @@ Découvrez comment gérer vos groupes dans Sales Connect.
 
    >[!NOTE]
    >
-   >Vous devrez peut-être cliquer sur Actualiser pour voir les nouveaux contacts ajoutés.
+   >Vous devrez peut-être appuyer sur Actualiser pour voir les nouveaux contacts ajoutés.
 
-## Partager un groupe {#share-a-group}
+## Partage d’un groupe {#share-a-group}
 
-1. Dans la page Personnes, recherchez et sélectionnez le groupe que vous souhaitez partager.
+1. Sur la page Personnes, recherchez et sélectionnez le groupe que vous souhaitez partager.
 
    ![](assets/six.png)
 
@@ -61,7 +60,7 @@ Découvrez comment gérer vos groupes dans Sales Connect.
 
    ![](assets/seven.png)
 
-1. Cliquez sur la liste déroulante et choisissez l’équipe avec laquelle vous souhaitez partager le groupe.
+1. Cliquez sur la liste déroulante et sélectionnez l’équipe avec laquelle vous souhaitez partager le groupe.
 
    ![](assets/eight.png)
 
@@ -69,11 +68,11 @@ Découvrez comment gérer vos groupes dans Sales Connect.
 
    ![](assets/nine.png)
 
-   Vous possédez toujours le groupe, mais il apparaîtra désormais sous Groupes d’équipes.
+   Vous êtes toujours propriétaire du groupe, mais il apparaîtra désormais sous Groupes d’équipes.
 
-## Annulation du partage d&#39;un groupe {#unshare-a-group}
+## Annulation du partage d’un groupe {#unshare-a-group}
 
-1. Dans la page Personnes, recherchez et sélectionnez le groupe que vous souhaitez annuler le partage.
+1. Dans la page Personnes, recherchez et sélectionnez le groupe dont vous souhaitez annuler le partage.
 
    ![](assets/ten.png)
 
@@ -81,11 +80,11 @@ Découvrez comment gérer vos groupes dans Sales Connect.
 
    ![](assets/eleven.png)
 
-1. Cliquez sur le **X** en regard de l’équipe avec laquelle vous avez partagé le groupe, puis cliquez en dehors du module.
+1. Cliquez sur le bouton **X** en regard de l’équipe avec laquelle vous avez partagé le groupe, puis cliquez sur hors du modal.
 
    ![](assets/twelve.png)
 
-   Le groupe n’est plus partagé.
+   Le partage du groupe est désormais annulé.
 
 ## Renommer un groupe {#rename-a-group}
 
@@ -101,7 +100,7 @@ Découvrez comment gérer vos groupes dans Sales Connect.
 
    ![](assets/fourteen.png)
 
-## Supprimer un groupe {#delete-a-group}
+## Suppression d’un groupe {#delete-a-group}
 
 1. Dans la page Personnes, recherchez et sélectionnez le groupe à supprimer.
 

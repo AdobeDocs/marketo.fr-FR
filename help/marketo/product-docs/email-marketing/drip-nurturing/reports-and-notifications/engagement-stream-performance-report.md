@@ -1,35 +1,34 @@
 ---
 unique-page-id: 2359955
-description: Rapport sur les performances du flux d’engagement - Documents marketing - Documentation du produit
-title: Rapport sur les performances du flux d’engagement
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Rapport Performances du flux d’engagement - Documents Marketo - Documentation du produit
+title: Rapport Performances du flux d’engagement
+exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Rapport Performances du flux d’engagement {#engagement-stream-performance-report}
 
-# Rapport Performance du flux d’engagement {#engagement-stream-performance-report}
-
-Vous souhaitez connaître les performances de votre contenu d’engagement ? Essayez le rapport de performances du flux d’engagement.
+Vous souhaitez connaître les performances de votre contenu d’engagement ? Essayez le rapport de performance du flux d’engagement.
 
 ## Créer le rapport {#create-the-report}
 
-1. Recherchez et sélectionnez votre programme d’engagement, puis sous **New** cliquez sur **New Local Asset**.
+1. Recherchez et sélectionnez votre programme d’engagement, puis sous **Nouveau** click **Nouvelle ressource locale**.
 
    ![](assets/localassetnutring.jpg)
 
-1. Sélectionnez **Rapport**.
+1. Sélectionner **Rapport**.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
    >[!TIP]
    >
-   >La création du rapport sous le programme se limite automatiquement au contenu du programme.
+   >La création du rapport dans le cadre du programme le limite automatiquement au contenu du programme.
 
-   Sélectionnez Performance du flux d’engagement comme type de rapport.
+   Sélectionnez Performances du flux d’engagement comme type de rapport.
    ![](assets/engagementreportchoose.png)
 
 1. Nommez votre rapport et cliquez sur **Créer**.
@@ -44,22 +43,22 @@ Vous souhaitez connaître les performances de votre contenu d’engagement ? Ess
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Sous l&#39;onglet **Configuration**, cliquez sur le filtre **Courriel du Programme d&#39;engagement** en appuyant sur le doublon.
+1. Sous , **Configuration** , double-cliquez sur l’onglet **Adresse électronique du programme d’engagement** filtre.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Sélectionnez le(s) courriel(s) sur lequel vous souhaitez générer un rapport et cliquez sur **Appliquer**.
+1. Sélectionnez le ou les emails sur lesquels vous souhaitez créer un rapport, puis cliquez sur **Appliquer**.
 
    ![](assets/engagementfilter.jpg)
 
 ## Exécuter le rapport {#run-report}
 
-1. Pour exécuter le rapport, il vous suffit de cliquer sur l&#39;onglet **Rapport**.
+1. Pour exécuter le rapport, il vous suffit de cliquer sur le **Rapport** .
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
-   >Bien qu’elle ne soit pas illustrée, la note d’engagement est une colonne de ce rapport. Voir [Présentation de la note d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) pour plus d’informations sur ce qu’elle est.
+   >Bien qu’elle ne soit pas illustrée, la note d’engagement est une colonne de ce rapport. Voir [Présentation de la note d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) pour plus d’informations.
 
-   Super boulot ! Notez que le rapport est regroupé par programme d’engagement.
+   Bon boulot ! Notez que le rapport est regroupé par programme d’engagement.

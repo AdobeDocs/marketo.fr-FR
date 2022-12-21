@@ -1,43 +1,42 @@
 ---
 unique-page-id: 2360437
-description: Explorez les détails sur les Programmes et les Canaux à l'aide de l'analyseur de Programme - Documentation sur le marketing - Documentation sur les produits
-title: Explorez les détails sur les Programmes et les Canaux à l'aide de l'analyseur de Programmes
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Explorez les détails du programme et du canal avec Program Analyzer - Documentation Marketo - Documentation du produit
+title: Explorer les détails du programme et du canal avec l’analyseur de programme
+exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
+# Explorer les détails du programme et du canal avec l’analyseur de programme {#explore-program-channel-details-with-the-program-analyzer}
 
-# Explorez les détails des Programmes et des Canaux avec l&#39;analyseur de Programme {#explore-program-channel-details-with-the-program-analyzer}
-
-Vous pouvez afficher des statistiques détaillées sur les programmes et les canaux dans Programme Analyzer. Vous pouvez également les ouvrir dans l’Explorateur de cycles de recettes.
+Vous pouvez afficher les statistiques détaillées sur les programmes et les canaux dans l’analyseur de programmes. Vous pouvez également les ouvrir dans l’explorateur Revenue Cycle.
 
 >[!PREREQUISITES]
 >
->[Création d’un analyseur de Programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Création d’un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
->Toutes les éditions de Marketing ne comprennent pas cette fonctionnalité. Contactez votre gestionnaire de compte pour plus de détails.
+>Toutes les éditions Marketo ne comprennent pas cette fonctionnalité. Pour plus d’informations, contactez votre gestionnaire de compte.
 
 1. Cliquez sur **Analytics**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
-1. Sélectionnez votre analyseur de Programmes.
+1. Sélectionnez votre analyseur de programme.
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Pour afficher les statistiques spécifiques d&#39;un canal ou d&#39;un programme (selon la **Vue** sélectionnée), cliquez sur la bulle correspondante.
+1. Pour afficher les statistiques spécifiques d’un canal ou d’un programme (en fonction de la variable **Affichage** sélectionnez), cliquez sur la bulle correspondante.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >La plupart des mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multipoint (MT). Il est important de comprendre la différence [entre l’attribution FT et l’attribution MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >De nombreuses mesures que vous pouvez sélectionner dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et multipoint (MT). Il est important de comprendre la variable [différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Pour comparer tous les programmes d’un seul canal, cliquez sur le nom du canal dans la boîte de dialogue contextuelle.
 
@@ -49,8 +48,8 @@ Vous pouvez afficher des statistiques détaillées sur les programmes et les can
 
    >[!NOTE]
    >
-   >En cliquant sur un seul canal, vous basculez votre vue sur Par Programme, filtré uniquement sur ce canal. Pour revenir à tous les canaux, sélectionnez **Vue** > **Par Canal**.
+   >Cliquer sur un seul canal change votre vue en Par programme, filtrée uniquement sur ce canal. Pour revenir à tous les canaux, sélectionnez **Affichage** > **Par canal**.
 
-1. Pour ouvrir l&#39;explorateur de cycles de recettes afin d&#39;approfondir davantage la recherche d&#39;une statistique, cliquez sur ce chiffre dans la boîte de dialogue contextuelle.
+1. Pour ouvrir l’explorateur Revenue Cycle afin de creuser encore plus profondément une statistique, cliquez sur ce nombre dans la boîte de dialogue contextuelle.
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)

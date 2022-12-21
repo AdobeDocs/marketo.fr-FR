@@ -1,31 +1,30 @@
 ---
 unique-page-id: 4719400
-description: Créer un Campaign Web en zone - Documents marketing - Documentation du produit
-title: Créer une Campaign Web en zone
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Créer une campagne web dans Zone - Documents Marketo - Documentation du produit
+title: Créer une campagne web dans la zone
+exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '693'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Créer une campagne web dans la zone {#create-a-new-in-zone-web-campaign}
 
-# Créer une Campaign Web en zone {#create-a-new-in-zone-web-campaign}
+Une campagne web est une réaction personnalisée associée à un segment spécifique et peut être une [boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sur votre site web, un remplacement de zone, un [fonction de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) ou une alerte par e-mail. Une campagne web In Zone remplace un élément de votre site web basé sur l’identifiant de zone par du contenu ou des bannières graphiques.
 
-Une campagne Web est une réaction personnalisée associée à un segment spécifique et peut être une [boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sur votre site Web, un remplacement de zone, une fonction de widget [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) ou une alerte par courrier électronique. Une campagne Web In Zone remplace un élément de votre site Web basé sur l’identifiant de zone par du contenu ou des bannières graphiques.
-
-## Créer une Campaign Web en zone {#create-an-in-zone-web-campaign}
+## Créer une campagne web dans la zone {#create-an-in-zone-web-campaign}
 
 1. Accédez à **Campagnes Web**.
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. Sélectionnez **Créer une nouvelle Campaign Web.**
+1. Sélectionner **Créer une nouvelle campagne web.**
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Sélectionnez le type de campagne **Dans Zone**. Personnalisez et ajoutez un ID de zone **Zone.** Définissez la campagne sur  **** Attractif et ajoutez votre élément créatif dans l’éditeur. Ajoutez l’URL de la page à la prévisualisation et cliquez sur **Prévisualisation** pour savoir comment la campagne va réagir sur votre site.
+1. Sélectionnez la **Dans la zone** type de campagne. Personnalisez et ajoutez une **ID de zone.** Définissez la campagne sur **Attractif** et ajoutez votre contenu créatif dans l’éditeur. Ajoutez l’URL de la page à prévisualiser et cliquez sur **Aperçu** pour voir comment la campagne va réagir sur votre site.
 
    ![](assets/new-3-1.png)
 
@@ -33,9 +32,9 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
    >
    >**Qu’est-ce qu’un identifiant de zone ?**
    >
-   >Un identifiant de zone correspond à l’emplacement de votre campagne Web &quot;Dans la zone&quot; sur le site. Pour trouver un &quot;identifiant de zone&quot;, il vous suffit d&#39;aller sur votre site Web sélectionner la zone que vous souhaitez remplacer par une campagne Web et de cliquer avec le bouton droit de la souris. Dans Chrome, l’option est &quot;Inspect Element&quot;, et dans d’autres navigateurs, elle peut varier.
+   >Un ID de zone est l’emplacement sur lequel vous souhaitez que votre campagne web &quot;Dans la zone&quot; soit située sur le site. Pour trouver un &quot;Zone ID&quot;, accédez simplement à votre site web et sélectionnez la zone que vous souhaitez remplacer par une campagne web, puis cliquez avec le bouton droit de la souris. Dans Chrome, l’option est &quot;Inspect Element&quot; ; dans d’autres navigateurs, elle peut varier.
    >
-   >Ensuite, vous souhaitez trouver l&#39;&quot;id&quot; associé à cette section du site Web, qui est mise en évidence car vous inspectez cet élément. Par exemple, si vous cliquez avec le bouton droit de la souris dans Chrome, le texte en surbrillance indique `<div id="featured-slider">` alors &quot;featured-slider&quot; est ce que vous devez taper dans la section &quot;zone id&quot;. En règle générale, &quot;div id&quot; est utilisé, mais tout ID peut également être utilisé, tel que h1 id, p id, etc.
+   >Ensuite, vous souhaitez trouver l’&quot;id&quot; associé à cette section du site web, qui est mis en surbrillance car vous inspectez cet élément. Par exemple, si vous cliquez avec le bouton droit de la souris dans Chrome, le texte mis en surbrillance indique : `<div id="featured-slider">` alors &quot;featured-slider&quot; est ce que vous devez saisir dans la section &quot;zone id&quot;. En règle générale, &quot;div id&quot; est utilisé, mais tout ID peut également être utilisé, comme l’ID h1, l’ID p, etc.
 
 <table> 
  <thead> 
@@ -47,32 +46,32 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong> ID de zone </strong></td> 
-   <td colspan="1" rowspan="1"><p>Entrez le nom de l'identifiant figurant dans le code HTML de l'élément de site Web que la campagne remplace.</p></td> 
+   <td colspan="1" rowspan="1"><p>Saisissez le nom de l'identifiant présent dans le code de HTML de l'élément de votre site web que remplace la campagne.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Attractif </strong></p></td> 
-   <td colspan="1" rowspan="1">La case à cocher Attractif est cochée par défaut pour la campagne En zone et conserve la position d’ID de la campagne En zone dans l’ensemble de la session de l’visiteur sur le site Web. Il est recommandé de toujours définir une zone d’entrée sur Attractif.</td> 
+   <td colspan="1" rowspan="1"><p><strong> Fixe </strong></p></td> 
+   <td colspan="1" rowspan="1">La case à cocher Attractif est sélectionnée par défaut pour la campagne Dans la zone et conserve la campagne Dans la zone à sa position d’identifiant de zone pendant toute la session du visiteur sur le site web. Il est recommandé de toujours définir une zone Dans sur Attractif.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong> Fondu</strong> </p></td> 
-   <td colspan="1" rowspan="1">La sélection de la case à cocher Effet d’utilisation et Fondu permet d’atténuer la zone d’identifiant de zone du site Web. Si la zone d’entrée est une bannière graphique, la page est d’abord chargée, puis la campagne s’active avec un effet de fondu.</td> 
+   <td colspan="1" rowspan="1">Si vous cochez la case Utiliser l’effet et Fondu , l’effet de fondu est appliqué à la zone d’ID de zone du site web. Si la zone In Zone est une bannière graphique, la page se charge d’abord, puis la campagne s’active avec un effet de fondu.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Diapositive</strong></td> 
-   <td colspan="1">La sélection de la case à cocher Utiliser l’effet et de l’option Diapositive permet de faire glisser la zone d’identifiant de zone sur le site Web. Si la zone d’entrée est une bannière graphique, la page est d’abord chargée, puis la campagne s’active avec un effet de glissement de gauche à droite.</td> 
+   <td colspan="1"><strong>Glissement</strong></td> 
+   <td colspan="1">La sélection de la case à cocher Utiliser l’effet et de l’option Glisser permet de faire glisser l’effet vers la zone d’ID de zone du site web. Si l’option Dans la zone est une bannière graphique, la page se charge d’abord, puis la campagne s’active avec un effet coulissant de gauche à droite.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong> Editeur de texte enrichi  </strong></td> 
-   <td colspan="1">L’éditeur de texte enrichi permet le formatage de texte, la liaison et l’insertion d’images. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Lire plus ici</a> .</td> 
+   <td colspan="1"><strong> Éditeur de texte enrichi  </strong></td> 
+   <td colspan="1">L’éditeur de texte enrichi permet le formatage de texte, la liaison et l’insertion d’images. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">En savoir plus ici</a> .</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong> Prévisualisation sur site   </strong></td> 
-   <td colspan="1">Campagnes de prévisualisation avant leur lancement. <br> 
+   <td colspan="1"><strong> Aperçu sur le site   </strong></td> 
+   <td colspan="1">Prévisualisez les campagnes avant de les lancer. <br> 
     <ul> 
-     <li> URL : saisissez un exemple d'URL où la campagne s'exécuterait pour afficher un exemple prévisualisation de l'aspect de la campagne.</li> 
-     <li>Périphérique - Prévisualisation de l'affichage de votre campagne par périphérique : Bureau, Portrait mobile, Paysage mobile, Portrait tablette, Paysage portrait.</li> 
-     <li> Prévisualisation - Cliquez sur <strong>Prévisualisation</strong> pour ouvrir une nouvelle fenêtre de l'exemple d'URL afin de voir comment la campagne réagit.</li> 
-     <li> Partager - Utilisez le bouton Partager pour envoyer un courriel à un collègue avec un lien afin d'afficher la campagne proxy.</li> 
+     <li> URL : saisissez un exemple d’URL où s’exécuterait la campagne pour afficher un exemple d’aperçu de l’aspect de la campagne.</li> 
+     <li>Appareil : prévisualisez l’affichage de votre campagne par appareil : Bureau, Portrait mobile, Paysage mobile, Portrait tablette, Paysage portrait.</li> 
+     <li> Aperçu - Cliquez sur <strong>Aperçu</strong> pour ouvrir une nouvelle fenêtre de l’exemple d’URL afin de visualiser la réaction de la campagne.</li> 
+     <li> Partager : utilisez le bouton Partager pour envoyer un courrier électronique à un collègue contenant un lien pour afficher la campagne proxy.</li> 
     </ul></td> 
   </tr> 
  </tbody> 
@@ -80,42 +79,42 @@ Une campagne Web est une réaction personnalisée associée à un segment spéci
 
 >[!TIP]
 >
->Accélérez et simplifiez le processus de création de vos campagnes en utilisant [les modèles intégrés](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) ou en [enregistrant votre campagne existante](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) comme modèle à réutiliser.
+>Accélérez et simplifiez votre processus de création de campagne à l’aide de notre [modèles intégrés](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) ou [enregistrement de votre campagne existante](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) comme modèle à réutiliser.
 
 >[!NOTE]
 >
->**Souhaitez-vous tester A/B vos campagnes Web ?** Une ou plusieurs campagnes Web peuvent être testées  [A/B pour des résultats](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md) optimaux. Grâce à la fonction d’ajustement automatique, la plate-forme reconnaît automatiquement les campagnes les plus performantes, poursuit les campagnes ayant le plus fort taux de conversion et interrompt les autres campagnes.
+>**Vous souhaitez tester vos campagnes web ?** Une ou plusieurs campagnes web peuvent être [A/B testé pour des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité d’optimisation automatique, la plateforme reconnaît automatiquement les campagnes les plus performantes, poursuit avec le taux de conversion le plus élevé et met les autres en pause.
 
-## Modifier une Campaign Web {#edit-a-web-campaign}
+## Modifier une campagne web {#edit-a-web-campaign}
 
-Dans la page **Campagnes Web**, cliquez sur **Modifier** dans le Campaign.
+Dans la **Campagnes Web** page, cliquez sur **Modifier** sur la campagne.
 
 ![](assets/in-zone-web-campaign-edit.png)
 
 >[!NOTE]
 >
->Pour faciliter la recherche de la campagne souhaitée, utilisez la fonction de filtre [](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>Pour faciliter la recherche de la campagne de votre choix, utilisez le [fonction de filtre](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-## Prévisualisation d’un Campaign Web {#preview-a-web-campaign}
+## Prévisualiser une campagne web {#preview-a-web-campaign}
 
-1. Dans la page Campagnes Web, cliquez sur **Prévisualisation** dans la campagne Web que vous souhaitez vue.
+1. Sur la page Campagnes Web, cliquez sur **Aperçu** dans la campagne web que vous souhaitez afficher.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
-## Cloner une Campaign Web {#clone-a-web-campaign}
+## Cloner une campagne web {#clone-a-web-campaign}
 
-Voir [Cloner une Campaign Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
+Voir [Cloner une campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
-## Supprimer une Campaign Web {#delete-a-web-campaign}
+## Supprimer une campagne web {#delete-a-web-campaign}
 
-1. Dans la page Campagnes Web, cliquez sur **Supprimer** sur la Campaign à supprimer.
+1. Sur la page Campagnes Web, cliquez sur **Supprimer** dans la campagne que vous souhaitez supprimer.
 
    ![](assets/in-zone-web-campaign-delete.png)
 
-1. Un message de confirmation s’affiche pour confirmer si vous souhaitez supprimer le Campaign.
+1. Un message de confirmation s’affiche pour confirmer si vous souhaitez supprimer la campagne.
 
 >[!MORELIKETHIS]
 >
->* [Créer un widget Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
->* [Créer une Campaign Web de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Créer une campagne web de widgets](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Créer une campagne web de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 

@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359996
-description: Trier le rapport sur les colonnes - Documents marketing - Documentation du produit
-title: Trier le rapport sur les colonnes
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Tri du rapport sur les colonnes - Documents Marketo - Documentation du produit
+title: Tri du rapport sur les colonnes
+exl-id: a31383b5-bb18-400b-945a-abecd2b19340
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Tri du rapport sur les colonnes {#sort-report-on-columns}
 
-# Trier le rapport sur les colonnes {#sort-report-on-columns}
-
-Utilisez les colonnes pour trier les données de votre rapport et rendre les chiffres les plus importants faciles à trouver.
+Utilisez des colonnes pour trier les données de votre rapport et faciliter la recherche des chiffres les plus importants.
 
 1. Accédez à **Analytics** (ou **Activités marketing**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre rapport dans l&#39;arborescence de navigation, puis cliquez sur l&#39;onglet **Rapport**.
+1. Sélectionnez votre rapport dans l’arborescence de navigation, puis cliquez sur le bouton **Rapport** .
 
    ![](assets/reports2.jpg)
 
@@ -27,7 +26,7 @@ Utilisez les colonnes pour trier les données de votre rapport et rendre les chi
 
    ![](assets/image2014-9-16-10-3a47-3a46.png)
 
-1. Super ! Vous pouvez désormais vous concentrer sur les données les plus intéressantes de votre rapport.
+1. Fantastique ! Vous pouvez maintenant vous concentrer sur les données les plus intéressantes de votre rapport.
 
    ![](assets/image2014-9-16-10-3a47-3a50.png)
 

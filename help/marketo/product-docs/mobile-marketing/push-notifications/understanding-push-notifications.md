@@ -1,44 +1,43 @@
 ---
 unique-page-id: 7511518
-description: Présentation des notifications Push - Documents marketing - Documentation du produit
-title: Présentation des notifications Push
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Présentation des notifications push - Documents Marketo - Documentation du produit
+title: Présentation des notifications push
+exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
-
-# Présentation des notifications Push {#understanding-push-notifications}
+# Présentation des notifications push {#understanding-push-notifications}
 
 >[!NOTE]
 >
 >La messagerie in-app est une application complémentaire. Vérifiez auprès de votre gestionnaire de compte Marketo qu’il est activé.
 
-L’engagement Marketo mobile vous permet de créer, configurer et envoyer une notification comme vous le feriez pour créer un courrier électronique.  Avant de pouvoir créer et envoyer des notifications Push à partir de votre application mobile, vous aurez besoin de votre administrateur marketing et développeur d’applications mobiles pour effectuer certaines configurations.
+L’engagement mobile de Marketo vous permet de créer, configurer et envoyer une notification comme vous le feriez pour créer un email.  Avant de pouvoir créer et envoyer des notifications push à partir de votre application mobile, vous aurez besoin de votre administrateur Marketo et de votre développeur d’applications mobiles pour effectuer certaines configurations.
 
 >[!CAUTION]
 >
->Les notifications Push sont un module complémentaire et doivent être activées par un administrateur du marketing avant de début.
+>Les notifications push sont un module complémentaire qui doit être activé par un administrateur Marketo avant de commencer.
 
-## Étape 1 : Administrateur et développeur : effectuer les premières configurations {#step-admin-and-developer-perform-initial-setups}
+## Étape 1 : Administration et développeur : configuration initiale {#step-admin-and-developer-perform-initial-setups}
 
-L’administrateur du marketing et le développeur d’applications mobiles travaillent ensemble pour vous configurer. Voir [Avant de créer des notifications Push et des messages in-app](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) pour plus d’informations.
+Les administrateurs Marketo et les développeurs d’applications mobiles travaillent ensemble pour vous configurer. Voir [Avant de créer des notifications push et des messages In-App](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) pour plus d’informations.
 
-## Étape 2 : Créer une notification Push {#step-create-a-push-notification}
+## Étape 2 : Création d’une notification push {#step-create-a-push-notification}
 
-[Créez vos ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) messages et vos prévisualisations de la façon dont ils s’affichent sur les appareils Android et iOS.
+[Créer vos messages](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) et prévisualisez son affichage sur les appareils Android et iOS.
 
 ## Étape 3 : Envoyez ! {#step-send}
 
-[Les notifications Push peuvent être ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) envoyées à l’aide de campagnes déclencheuses et dynamiques par lot. Plutôt cool, hein ?
+[Les notifications push peuvent être envoyées](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) à l’aide des campagnes déclencheur et dynamique par lot. Plutôt cool, hein ?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
 >[!NOTE]
 >
->* Une notification Push ne s’affiche pas à l’écran tant que l’application n’a pas été ouverte au moins une fois.
->* Pour les applications iOS, une notification Push ne s’affiche pas à l’écran si l’application désignée pour recevoir le message Push est ouverte et principale. Au lieu de cela, le message s’affiche dans la zone de notifications locale de l’application.
+>* Une notification push ne s’affiche pas à l’écran tant que l’application n’a pas été ouverte au moins une fois.
+>* Pour les applications iOS, une notification push ne s’affiche pas à l’écran si l’application désignée pour recevoir le message push est ouverte et principale. À la place, le message s’affiche dans la zone de notifications locale de l’application.
 

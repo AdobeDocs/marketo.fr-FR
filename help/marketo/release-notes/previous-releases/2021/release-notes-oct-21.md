@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Notes de mise à jour : Octobre 2021 {#release-notes-oct-21}
 
-Les fonctionnalités suivantes sont incluses dans la version du 21 octobre. Pour connaître la disponibilité des fonctionnalités, consultez l’édition de votre Marketo Engage Adobe.
+Les fonctionnalités suivantes sont incluses dans la version du 21 octobre. Vérifiez la disponibilité de votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >

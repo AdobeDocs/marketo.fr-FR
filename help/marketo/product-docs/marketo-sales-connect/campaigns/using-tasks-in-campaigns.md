@@ -1,28 +1,27 @@
 ---
 unique-page-id: 14352619
-description: Utilisation de Tâches dans les campagnes - Documents marketing - Documentation du produit
-title: Utilisation de Tâches dans les campagnes
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Utilisation de tâches dans Campaign - Documents Marketo - Documentation du produit
+title: Utilisation des tâches dans les campagnes
+exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
+# Utilisation des tâches dans les campagnes {#using-tasks-in-campaigns}
 
-# Utilisation de Tâches dans les campagnes {#using-tasks-in-campaigns}
+Les tâches constituent un outil puissant lors de l’envoi d’une campagne à un contact, en particulier si votre processus de vente est multicanal/tactile.
 
-Les tâches constituent un outil puissant pour envoyer une campagne à un contact, en particulier si votre processus de vente est multicanal/tactile.
+Les tâches d’envoi d’un courrier électronique et la tâche d’appel d’un contact sont les utilisations les plus courantes des tâches dans les campagnes.
 
-La tâche d&#39;envoyer un courriel et la Tâche d&#39;appeler un contact sont les utilisations les plus courantes des Tâches dans les campagnes.
-
-Vous pouvez également faire d’une &quot;Tâche à envoyer par courrier électronique&quot; un contact sur LinkedIn si cela fait partie de votre processus. Vous pouvez aussi faire une tâche personnalisée pour vous rappeler de les inviter à une happy hour, demander leur événement caritatif, ou l&#39;enregistrement après le match 5, etc.
+Vous pouvez également créer une &quot;tâche à envoyer&quot; avec un contact sur LinkedIn si cela fait partie de votre workflow. Vous pouvez également effectuer une tâche personnalisée afin de vous rappeler de les inviter à une heure heureuse, de leur demander un événement caritatif, ou de vous enregistrer après le match 5, etc.
 
 >[!NOTE]
 >
->Ce qui compte le plus dans les Tâches des campagnes, c’est que vous devez terminer la tâche pour déclencher l’étape suivante.
+>Ce qui est le plus important à propos des tâches dans les campagnes, c’est que vous devez terminer la tâche pour déclencher l’étape suivante.
 
-Les tâches seront toujours associées à chaque individu de la campagne. Cela signifie que vous devez entrer dans chaque personne et fermer la tâche pour que leur campagne individuelle se poursuive.
+Les tâches seront toujours associées à chaque individu de la campagne. Cela signifie que vous devez entrer en contact avec chaque personne et fermer la tâche pour que sa campagne individuelle se poursuive.
 
-Vous pouvez gérer vos tâches dans : l’onglet Tâches de votre Campaign dans Campagnes 2.0, directement à partir de votre Centre de commandes ou de la section Tâches du flux en direct. De plus, vous pouvez également gérer vos tâches à partir de Salesforce.
+Vous pouvez gérer vos tâches dans : l’onglet Tâches de votre campagne dans Campaign 2.0, directement depuis votre centre de commandes ou la section Tâches du flux en direct. Vous pouvez également gérer vos tâches à partir de Salesforce.

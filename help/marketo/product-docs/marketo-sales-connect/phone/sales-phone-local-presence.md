@@ -1,19 +1,18 @@
 ---
 unique-page-id: 14352436
-description: Présence locale du téléphone de vente - Docs marketing - Documentation du produit
-title: Présence locale du téléphone de vente
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Téléphone du service commercial Présence locale - Documents Marketo - Documentation du produit
+title: Présence locale du téléphone des ventes
+exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
+# Présence locale du téléphone des ventes {#sales-phone-local-presence}
 
-# Présence locale du téléphone de vente {#sales-phone-local-presence}
-
-Si vous souhaitez avoir l’air d’appeler à partir du même indicatif régional, il vous suffit de cocher la case **Présence locale** avant d’effectuer l’appel.
+Lorsque vous souhaitez avoir l’air d’appeler à partir du même indicatif régional, il vous suffit de vérifier la variable **Présence locale** avant d’effectuer l’appel.
 
 ## FAQ sur la présence locale {#local-presence-faq}
 
@@ -21,14 +20,14 @@ Si vous souhaitez avoir l’air d’appeler à partir du même indicatif région
 
 Non, la présence locale ne fonctionne que pour les appels sortants. L’appelant ne peut pas vous rappeler à ce &quot;nouveau&quot; numéro.
 
-**Puis-je appeler n&#39;importe où avec Présence Locale ?**
+**Puis-je appeler n&#39;importe où avec la présence locale ?**
 
-Nous avons offre toutes les fonctionnalités Sales Phone pour les appels uniquement aux États-Unis.
+Nous proposons toutes les fonctionnalités de téléphone de vente pour les appels aux États-Unis uniquement.
 
 **Le numéro de présence local est-il toujours le même lorsque j&#39;appelle un indicatif régional ?**
 
-Le numéro sera probablement toujours le même lorsque vous appelez dans un indicatif régional.
+Il est probable que le numéro soit toujours le même lorsque vous appelez dans un indicatif régional.
 
-**Est-ce que mon numéro entier change ou juste l&#39;indicatif régional lors de l&#39;utilisation de la présence locale ?**
+**Mon numéro entier change-t-il ou seulement l&#39;indicatif régional lors de l&#39;utilisation de la présence locale ?**
 
 Votre numéro entier changera.

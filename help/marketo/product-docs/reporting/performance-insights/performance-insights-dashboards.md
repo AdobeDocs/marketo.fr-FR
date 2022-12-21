@@ -1,17 +1,16 @@
 ---
 unique-page-id: 13795534
-description: Tableaux de bord Performance Insights - Docs marketing - Documentation sur les produits
-title: Tableaux de bord Performance Insights
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Tableaux de bord des informations sur les performances - Documents Marketo - Documentation du produit
+title: Tableaux de bord des informations sur les performances
+exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '504'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# Tableaux de bord Performance Insights {#performance-insights-dashboards}
+# Tableaux de bord des informations sur les performances {#performance-insights-dashboards}
 
 En savoir plus sur les tableaux de bord disponibles dans MPI.
 
@@ -19,35 +18,35 @@ En savoir plus sur les tableaux de bord disponibles dans MPI.
 
 ## Engagement {#engagement}
 
-Le tableau de bord d’engagement vous aide à mesurer l’efficacité de vos programmes d’acquisition de nouveaux noms et de votre culture.
+Le tableau de bord Engagement vous permet de mesurer l’efficacité de vos programmes d’acquisition de nouveaux noms et de formation.
 
 ![](assets/two-3.png)
 
-Mesure de l&#39;engagement des Audiences
+Mesure de l’engagement de l’audience
 
-Sélectionnez la mesure **Successes** pour mesurer l’engagement des audiences dans vos programmes de culture. Le succès est une mesure de l&#39;interaction significative dans Marketo.
+Choisissez la **Succès** mesure pour mesurer l’engagement de l’audience dans vos programmes d’éducation. Le succès est une mesure de l’interaction significative dans Marketo.
 
 ![](assets/3-4.png)
 
-Le but d&#39;un programme est de créer une interaction significative avec la personne ou la prospect. Le succès est marqué lorsqu’une personne atteint l’état qui lui permet d’atteindre cet objectif. Il peut s’agir de participer à un webinaire, de cliquer sur un lien dans un courriel ou de remplir un formulaire Web. Le succès varie en fonction du canal du programme.
+Le but d&#39;un programme est de créer une interaction significative avec la personne ou le prospect. Le succès est marqué lorsqu’une personne atteint l’état qui atteint cet objectif. Il peut assister à un webinaire, cliquer sur un lien dans un email ou remplir un formulaire web. Le succès varie en fonction du canal du programme.
 
 >[!NOTE]
 >
->Dans un programme de webinaire, il peut y avoir plusieurs états, tels que : Invité, enregistré et assisté. Invité ou Inscrit ne sont pas des interactions significatives parce que les gens ne regardent pas vraiment le webinaire. Participé est considéré comme un succès dans ce cas.
+>Dans un programme de webinaire, il peut y avoir plusieurs états, tels que : Invité, enregistré et assisté. Invité ou Enregistré ne sont pas des interactions significatives parce que les gens ne regardent pas vraiment le webinaire. Participé est considéré comme une réussite dans ce cas.
 
-Mesurer l&#39;acquisition de nouveaux noms
+Mesure de l’acquisition d’un nouveau nom
 
-Sélectionnez la mesure **Noms** pour mesurer l’efficacité de vos nouveaux programmes d’acquisition de noms.
+Choisissez la **Nouveaux noms** mesure pour mesurer l’efficacité de vos nouveaux programmes d’acquisition de noms.
 
 ![](assets/4-3.png)
 
 >[!NOTE]
 >
->Tous vos programmes doivent être configurés pour définir le programme d&#39;acquisition et la date d&#39;acquisition des pistes afin que ce tableau de bord vous donne les meilleurs résultats.
+>Tous vos programmes doivent être configurés pour définir le programme d’acquisition et la date d’acquisition des prospects afin que ce tableau de bord vous donne les meilleurs résultats.
 
 ## Pipeline {#pipeline}
 
-Le tableau de bord de pipeline présente les performances des canaux par les mesures Première touche et multipoint.
+Le tableau de bord Pipeline affiche les performances des canaux par mesures Première touche et multipoints.
 
 ![](assets/five-1.png)
 
@@ -55,54 +54,54 @@ Le tableau de bord de pipeline présente les performances des canaux par les mes
  <tbody> 
   <tr> 
    <td><p><strong>Nouvelles opportunités</strong></p></td> 
-   <td><p>Partie du crédit que le programme a reçu pour avoir influencé la création de nouvelles possibilités. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</p></td> 
+   <td><p>La part du crédit que le programme a reçu pour avoir influencé la création de nouvelles possibilités. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Pipeline créé</strong></p></td> 
-   <td><p>Partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création d'opportunités. Il peut s'agir d'une fraction du total si plusieurs pistes sont impliquées.</p></td> 
+   <td><p>La part du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création d'opportunités. Cela peut être une fraction du total si plusieurs pistes sont impliquées.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Ouverture du tuyau</strong></p></td> 
-   <td><p>Partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création d'opportunités qui sont encore ouvertes. Il peut s'agir d'une fraction du total si plusieurs pistes sont impliquées.</p></td> 
+   <td><p><strong>Pipeline ouvert</strong></p></td> 
+   <td><p>La part du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création d'opportunités qui sont encore ouvertes. Cela peut être une fraction du total si plusieurs pistes sont impliquées.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Recettes attendues</strong></p></td> 
-   <td><p>Partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création d'opportunités. Recettes prévues est la probabilité d'opportunité multipliée par la valeur d'opportunité. Il peut s'agir d'une fraction si plusieurs pistes sont impliquées.</p></td> 
+   <td><p><strong>Chiffre d'affaires souhaité</strong></p></td> 
+   <td><p>La part du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création d'opportunités. Les recettes attendues sont la probabilité d’opportunité multipliée par la valeur d’opportunité. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Coût par opportunité créé</strong></p></td> 
-   <td><p>Part du coût du programme qui a influencé les nouvelles possibilités divisée par le nombre total de nouvelles possibilités créées.</p></td> 
+   <td><p><strong>Coût par opportunité créée</strong></p></td> 
+   <td><p>La part du coût du programme qui a influencé les nouvelles opportunités divisée par le nombre total de nouvelles opportunités créées.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Pipeline créé par rapport au ratio de coûts</strong></p></td> 
-   <td><p>Partie du crédit qu'un programme a reçu pour avoir influencé la création de nouvelles possibilités, divisée par la partie du coût du programme qui a influé sur la création de possibilités.</p></td> 
+   <td><p><strong>Ratio de pipeline créé par coût</strong></p></td> 
+   <td><p>La part du crédit qu'un programme a reçu pour avoir influencé la création de nouvelles possibilités, divisée par la part du coût du programme qui a influencé la création d'opportunités.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Recettes {#revenue}
+## Chiffre d&#39;affaires {#revenue}
 
-Le tableau de bord des recettes affiche les performances des canaux par mesures Première touche et multipoint.
+Le tableau de bord Recettes affiche les performances des canaux par mesures Première touche et multipoint.
 
 ![](assets/six-1.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Opportunités gagnées</strong></p></td> 
-   <td><p>Partie du crédit qu'un programme a reçu pour avoir influencé une opportunité gagnée.</p></td> 
+   <td><p><strong>Opportunités confirmées</strong></p></td> 
+   <td><p>La part du crédit qu'un programme a reçu pour avoir influencé une occasion donnée.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Recettes gagnées</strong></p></td> 
+   <td><p><strong>Chiffre d’affaires confirmé</strong></p></td> 
    <td><p>La part du crédit (en valeur monétaire) reçue pour avoir influencé une opportunité gagnée.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Coût par opportunité gagné</strong></p></td> 
-   <td><p>Part du coût du programme qui a influencé les nouvelles possibilités divisée par le nombre total de nouvelles possibilités créées.</p></td> 
+   <td><p><strong>Coût par opportunité confirmée</strong></p></td> 
+   <td><p>La part du coût du programme qui a influencé les nouvelles opportunités divisée par le nombre total de nouvelles opportunités créées.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Rapport entre les recettes et les coûts</strong></p></td> 
-   <td><p>La part du crédit (en valeur monétaire) reçue pour avoir influencé une opportunité gagnée, divisée par la part du coût du programme qui a influencé de nouvelles opportunités.</p></td> 
+   <td><p><strong>Ratio de chiffre d’affaires confirmé par coût</strong></p></td> 
+   <td><p>La part du crédit (en valeur monétaire) reçue pour avoir influencé une occasion gagnée divisée par la part du coût du programme qui a influencé les nouvelles opportunités.</p></td> 
   </tr> 
  </tbody> 
 </table>

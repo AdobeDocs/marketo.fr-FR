@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146997
-description: Utiliser un jeton de date dans une étape de flux d'attente - Marketo Docs - Documentation du produit
+description: Utilisation d’un jeton de date dans une étape de flux d’attente - Documents Marketo - Documentation du produit
 title: Utilisation d’un jeton de date dans une étape de flux d’attente
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
@@ -11,27 +10,27 @@ ht-degree: 0%
 
 ---
 
-# Utiliser un jeton de date dans une étape de flux d&#39;attente {#use-a-date-token-in-a-wait-flow-step}
+# Utilisation d’un jeton de date dans une étape de flux d’attente {#use-a-date-token-in-a-wait-flow-step}
 
-Vous pouvez utiliser l’étape de flux d’attente pour mettre en pause le parcours d’une personne au cours d’une campagne dynamique jusqu’à une date particulière qui utilise un jeton de date. Vous pouvez également modifier la date de fin d’un certain nombre de jours.
+Vous pouvez utiliser l’étape Flux d’attente pour suspendre le parcours d’une personne au cours d’une campagne dynamique jusqu’à une date spécifique qui utilise un jeton de date. Vous pouvez également modifier la date de fin d’un certain nombre de jours.
 
 >[!NOTE]
 >
->Cela s’applique uniquement aux campagnes déclencheuses. Vous ne pouvez pas utiliser cette fonction dans les campagnes par lots.
+>Cela s’applique uniquement au déclenchement de campagnes. Vous ne pouvez pas utiliser cette fonctionnalité dans les campagnes par lots.
 
-1. Dans l’onglet de votre campagne dynamique **Flux**, faites glisser la souris sur l’étape de flux **Attendre**.
+1. Dans votre campagne dynamique **Flux** , faites glisser sur l’onglet **Attente** étape de flux.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
-1. Cliquez sur l&#39;icône d&#39;engrenage à droite.
+1. Cliquez sur l’icône d’engrenage à droite.
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. Dans la liste déroulante **Type**, sélectionnez **Jeton de date**.
+1. Dans la **Type** menu déroulant, sélectionnez **Jeton de date**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
-1. Choisissez un jeton Date pour indiquer à quel moment l’étape d’attente doit se terminer :
+1. Sélectionnez un jeton Date pour indiquer à quel moment l’étape d’attente doit se terminer :
 
    * `{{my._____}}`
    * `{{lead.______}}`
@@ -40,21 +39,21 @@ Vous pouvez utiliser l’étape de flux d’attente pour mettre en pause le parc
 
    ![](assets/image2014-9-22-14-3a9-3a33.png)
 
-1. Pour attendre le prochain anniversaire de la date se produisant au cours de l’année civile en cours ou de l’année civile suivante, cochez la case.
+1. Cochez la case pour attendre le prochain anniversaire de la date se produisant dans l’année civile en cours ou l’année suivante.
 
    ![](assets/image2014-9-22-14-3a9-3a37.png)
 
    >[!TIP]
    >
-   >Utilisez cette option sur les jetons de date qui font référence à des dates antérieures, telles qu’une date d’anniversaire ou de début du contrat.
+   >Utilisez cette option sur les jetons de date qui font référence à des dates antérieures, telles qu’un anniversaire ou la date de début du contrat.
 
-1. Vous pouvez éventuellement modifier la date de fin selon un nombre de jours spécifié.
+1. Vous pouvez éventuellement modifier la date de fin d’un nombre spécifié de jours.
 
    ![](assets/image2014-9-22-14-3a9-3a57.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également spécifier le nombre de jours à l’aide d’un jeton `{{lead.` ou `{{company.` qui représente un champ entier ou d’un jeton `{{my.` de type nombre.
+   >Vous pouvez également spécifier le nombre de jours à l’aide d’une `{{lead.` ou `{{company.` jeton représentant un champ entier ou un `{{my.` jeton de type nombre.
 
 1. Cliquez sur **Enregistrer**.
 

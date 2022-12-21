@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147042
-description: Ajouter des données à un champ - Documents Marketo - Documentation du produit
-title: Ajouter des données à un champ
+description: Ajout de données à un champ - Documents Marketo - Documentation du produit
+title: Ajout de données à un champ
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
@@ -11,19 +10,19 @@ ht-degree: 0%
 
 ---
 
-# Ajouter des données à un champ {#append-data-to-a-field}
+# Ajout de données à un champ {#append-data-to-a-field}
 
 Il existe un moyen simple d’ajouter des données à un champ. Voici comment.
 
 >[!PREREQUISITES]
 >
->[Créer un Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[Création d’une campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
 >[!NOTE]
 >
->Les étapes ci-dessous s&#39;appliquent également à [Modifier les données des membres du Programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
+>Les étapes ci-dessous s’appliquent également à [Modification des données des membres du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
 
-1. Sous l’onglet **Flux**, faites glisser l’étape de flux **Modifier la valeur de données**.
+1. Sous , **Flux** , effectuez un glisser-déposer dans la **Modifier la valeur des données** étape de flux.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
@@ -39,4 +38,4 @@ Il existe un moyen simple d’ajouter des données à un champ. Voici comment.
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 
-C&#39;est tout ! Vous pouvez y créer et y ajouter plusieurs jetons.
+C&#39;est tout ! Vous pouvez créer et y ajouter plusieurs jetons.

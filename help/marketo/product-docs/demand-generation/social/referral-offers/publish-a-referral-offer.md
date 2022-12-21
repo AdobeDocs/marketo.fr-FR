@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2359845
-description: Publication d’une Offre de référence - Documentation sur le marketing - Documentation sur le produit
-title: Publication d’une Offre de référence
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Publication d’une offre de référence - Documents Marketo - Documentation du produit
+title: Publication d’une offre de référent
+exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
+# Publication d’une offre de référent {#publish-a-referral-offer}
 
-# Publier une Offre de référence {#publish-a-referral-offer}
+Après vous [créer une offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez le publier sur vos pages d’entrée Marketo, sur Facebook et sur votre site web.
 
-Après avoir [créé une offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez la publier sur vos landings page Marketo, sur Facebook et sur votre site Web.
-
-1. Accédez à votre landing page et ouvrez-le pour le modifier.
+1. Accédez à votre landing page et ouvrez-la pour modification.
 
    ![](assets/image2014-9-19-11-3a15-3a30.png)
 
-1. Faites glisser **Offre de renvoi** depuis la palette de droite.
+1. Faites glisser le curseur **Offre de référent** dans la palette de droite.
 
    ![](assets/image2014-9-19-11-3a15-3a42.png)
 
-1. Sélectionnez votre offre de référence et cliquez sur **Insérer**.
+1. Sélectionnez votre offre de parrainage et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-19-11-3a15-3a52.png)
 
 >[!NOTE]
 >
->Vous devez approuver votre offre de référence pour la rendre disponible ici.
+>Vous devez valider votre proposition de parrainage afin de la rendre disponible ici.
 
-Félicitations ! Approuvez le landing page et votre offre de référence est active. Vous pouvez également [publier le landing page sur Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer l’offre sur votre site Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Félicitations ! Validez la landing page et votre offre de parrainage est active. Vous pouvez également [publier la landing page sur Facebook ;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer l’offre sur votre site web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
->Testez et affinez votre offre de référence. Accédez à l’offre de votre page Web et inscrivez-vous avec les informations de test. Notez tout ce que vous souhaitez modifier sur l’expérience de l’utilisateur.
+>Testez et affinez votre offre de parrainage. Accédez à l’offre de votre page web et inscrivez-vous avec les informations de test. Notez tout ce que vous souhaitez modifier sur l’expérience de l’utilisateur.

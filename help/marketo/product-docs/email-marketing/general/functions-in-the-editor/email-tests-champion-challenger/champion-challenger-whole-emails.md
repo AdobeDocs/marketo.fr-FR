@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2359555
-description: Champion/Challenger - Courriels complets - Docs marketing - Documentation du produit
-title: Champion/Challenger - Courriels complets
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Champion/Challenger - Emails entiers - Documents Marketo - Documentation du produit
+title: Champion/Challenger - Emails complets
+exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
+# Champion/Challenger : Emails complets {#champion-challenger-whole-emails}
 
-# Champion/Challenger : Courriers électroniques complets {#champion-challenger-whole-emails}
-
-Testez des courriers électroniques complets les uns par rapport aux autres. Lorsque le test est terminé, envoyez le meilleur résultat.
+Testez des emails entiers les uns par rapport aux autres. Lorsque le test est terminé, envoyez le meilleur performant.
 
 >[!PREREQUISITES]
 >
->[Ajouter un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Ajout d’un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Dans l’éditeur de test par courrier électronique, sélectionnez **Courriers électroniques complets** dans la liste déroulante **Type de test**.
+1. Dans l’éditeur de test d’email, sélectionnez **Emails complets** dans le **Type de test** menu déroulant.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
    >[!NOTE]
    >
-   >Rappelez-vous : Le courriel original est le champion. Les concurrents sont en concurrence.
+   >Souvenez-vous : L&#39;email d&#39;origine est le champion. Les concurrents sont en compétition.
 
-1. Recherchez et sélectionnez le **courriel Challengers**, puis cliquez sur **Clone**.
+1. Recherchez et sélectionnez la variable **Challengers** Courriel(s), puis cliquez sur **Cloner**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
    >[!TIP]
    >
-   >Le clonage effectue une copie du courrier électronique du challenger sous le test de messagerie.
+   >Le clonage effectue une copie de l’e-mail challenger sous le test d’e-mail.
 
-1. Faites glisser le curseur pour déterminer le pourcentage de personnes qui reçoivent les courriels challenger par rapport aux champions.
+1. Faites glisser le curseur pour décider de la répartition en pourcentage des personnes qui reçoivent les emails du challenger par rapport aux emails des champions.
 
    ![](assets/image2014-9-12-16-3a41-3a44.png)
 
@@ -43,18 +42,18 @@ Testez des courriers électroniques complets les uns par rapport aux autres. Lor
    >
    >**Exemple**
    >
-   >Dans la distribution illustrée ci-dessus, 15 % de l’audience totale spécifiée dans la liste intelligente reçoit l’un des courriels du concurrent et 85 % du courriel du champion. Les 15 % d’adresses électroniques des concurrents sont également partagés. Lorsque le test est terminé, vous pouvez déclarer manuellement un gagnant. A partir de ce moment, tous les futurs utilisateurs recevront le contenu le plus performant.
+   >Dans la distribution ci-dessus, 15 % de l’audience totale spécifiée dans la liste dynamique reçoit l’un des emails des concurrents et 85 % reçoivent le courriel du champion. Les 15 % d’adresses électroniques concurrentes sont également répartis. Lorsque le test est terminé, vous pouvez désigner un gagnant manuellement. À partir de ce moment, toutes les futures personnes recevront le contenu le plus performant.
 
-   Pour obtenir une confiance statistique, veillez à ce que le pourcentage que vous affectez aux challengers inclut suffisamment de personnes que votre test est valide. Ne vous laissez pas berner par des résultats peu concluants.
+   Pour obtenir un degré de confiance statistique, assurez-vous que le pourcentage assigné aux challengers inclut suffisamment de personnes pour que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants.
 
-   [Plus d&#39;informations que jamais sur la fiabilité](https://en.wikipedia.org/wiki/Confidence_interval) statistique.
+   [Plus d’informations que jamais sur la fiabilité statistique](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Cliquez sur **Suivant**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 
-1. Progrès ! Continuons.
+1. Progression! Continuons !
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger : Définir des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger : Définition des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 7504058
-description: Cloner une présentation - Marketo Docs - Documentation du produit
-title: Cloner une présentation
+description: Cloner une présentation - Documents Marketo - Documentation du produit
+title: Clonage d’une présentation
 exl-id: be013e38-734c-41d7-8623-e8f267b2799c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '53'
@@ -11,15 +10,15 @@ ht-degree: 1%
 
 ---
 
-# Cloner une présentation {#clone-a-presentation}
+# Clonage d’une présentation {#clone-a-presentation}
 
 Cloner une présentation pour la réutiliser à différents endroits.
 
-1. Sélectionnez la présentation à cloner.
+1. Sélectionnez la présentation que vous souhaitez cloner.
 
    ![](assets/image2015-3-26-12-3a22-3a6.png)
 
-1. Cliquez avec le bouton droit sur la présentation et sélectionnez **Cloner**.
+1. Cliquez avec le bouton droit de la souris sur la présentation et sélectionnez **Cloner**.
 
    ![](assets/image2015-3-26-12-3a22-3a47.png)
 

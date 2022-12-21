@@ -1,9 +1,8 @@
 ---
 unique-page-id: 4719294
-description: Synchronisation des Activités personnalisées - Documents Marketo - Documentation du produit
-title: Personnaliser la synchronisation des Activités
+description: Personnalisation de la synchronisation des activités - Documents Marketo - Documentation du produit
+title: Personnalisation de la synchronisation des activités
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
@@ -11,15 +10,15 @@ ht-degree: 12%
 
 ---
 
-# Synchronisation des Activités personnalisée {#customize-activities-sync}
+# Personnalisation de la synchronisation des activités {#customize-activities-sync}
 
-Si vous n&#39;utilisez pas Marketo Sales Insight, Marketo peut créer des enregistrements d&#39;historique des Activités de Salesforce pour certains événements. Voici comment les activer.
+Si vous n’utilisez pas Marketo Sales Insight, Marketo peut créer des enregistrements d’historique des activités Salesforce pour certains événements. Voici comment les activer.
 
-1. Accédez à **Admin**.
+1. Accédez à **Administration**.
 
    ![](assets/admin.png)
 
-1. Cliquez sur **Salesforce**, puis sur **Modifier les options de synchronisation**.
+1. Cliquez sur **Salesforce**, puis cliquez sur **Modifier les options de synchronisation**.
 
    ![](assets/two-1.png)
 
@@ -29,7 +28,7 @@ Si vous n&#39;utilisez pas Marketo Sales Insight, Marketo peut créer des enregi
 
    >[!NOTE]
    >
-   >Une fois activée, Marketo repoussera l&#39;équivalent de trois mois d&#39;activité historique. Selon la quantité de données, _cette opération peut prendre plusieurs jours._ Les mises à jour survenant pendant la transmission des Activités initiales peuvent être retardées jusqu’à la fin de la synchronisation des Activités initiales.
+   >Une fois activé, Marketo génère l’historique des activités pour trois mois. Selon la quantité de données, _cela peut prendre plusieurs jours._. Les mises à jour survenant pendant la notification push initiale des activités peuvent être retardées jusqu’à ce que la synchronisation initiale des activités soit terminée.
 
 <table> 
  <colgroup> 
@@ -45,7 +44,7 @@ Si vous n&#39;utilisez pas Marketo Sales Insight, Marketo peut créer des enregi
  <tbody> 
   <tr> 
    <td>A rempli le formulaire</td> 
-   <td>Renseigner tout formulaire Marketo</td> 
+   <td>Remplir tout formulaire Marketo</td> 
   </tr> 
   <tr> 
    <td>Ajouté à la liste</td> 
@@ -53,19 +52,19 @@ Si vous n&#39;utilisez pas Marketo Sales Insight, Marketo peut créer des enregi
   </tr> 
   <tr> 
    <td>E-mail envoyé</td> 
-   <td>Étape de flux : A été envoyé un courrier électronique</td> 
+   <td>Étape de flux : A été envoyé un email</td> 
   </tr> 
   <tr> 
    <td>E-mail remis au destinataire</td> 
-   <td>Réception d’un courrier électronique (sans retour)</td> 
+   <td>Réception d’un email (sans rebond)</td> 
   </tr> 
   <tr> 
    <td>E-mail ouvert</td> 
-   <td>Ouverture d’un courrier électronique (sans bloquer les images)</td> 
+   <td>A ouvert un email (sans bloquer les images)</td> 
   </tr> 
   <tr> 
    <td>A Cliqué sur le lien dans l'e-mail</td> 
-   <td>Cliquez sur un lien dans un courrier électronique envoyé par Marketo.</td> 
+   <td>Clic sur un lien dans un email envoyé par Marketo</td> 
   </tr> 
   <tr> 
    <td>Supprimé de la liste</td> 
@@ -81,11 +80,11 @@ Si vous n&#39;utilisez pas Marketo Sales Insight, Marketo peut créer des enregi
   </tr> 
   <tr> 
    <td>E-mail de vente ouvert</td> 
-   <td>Ouverture d’un courrier électronique envoyé via Marketo Sales Insight</td> 
+   <td>Ouverture d’un courrier électronique envoyé par le biais de Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Cliquez sur le lien dans le courriel de vente</td> 
-   <td>Cliquez sur un lien dans un courrier électronique envoyé par l’intermédiaire de Marketo Sales Insight.</td> 
+   <td>Clic sur le lien dans l’email de vente</td> 
+   <td>Clic sur un lien dans un e-mail envoyé via Marketo Sales Insight</td> 
   </tr> 
   <tr> 
    <td>E-mail de vente reçu</td> 
@@ -96,8 +95,8 @@ Si vous n&#39;utilisez pas Marketo Sales Insight, Marketo peut créer des enregi
 
 >[!NOTE]
 >
->Le terme &quot;courrier électronique de vente reçu&quot; **ne signifie pas** livraison. L&#39;état remis n&#39;est pas capturé pour les courriers électroniques envoyés via Sales Insight.
+>&quot;Adresse électronique de vente reçue&quot; **not** moyenne diffusée. L’état Distribué n’est pas capturé pour les emails envoyés via Sales Insight.
 
 >[!TIP]
 >
->Si vous souhaitez obtenir plus d&#39;informations Marketo dans Salesforce, consultez notre [produit Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
+>Si vous souhaitez obtenir plus d’informations Marketo dans Salesforce, consultez notre [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) produit.

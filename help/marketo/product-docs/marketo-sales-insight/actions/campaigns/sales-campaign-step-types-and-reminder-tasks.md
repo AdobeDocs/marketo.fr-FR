@@ -4,8 +4,8 @@ title: Types d’étape de campagne de vente et tâches de rappel
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '321'
+ht-degree: 4%
 
 ---
 

@@ -84,7 +84,7 @@ Consultez les liens suivants :
 
 [Mises à niveau de piste anonymes - Calendrier des versions](https://nation.marketo.com/docs/DOC-2961){target=&quot;_blank&quot;}
 
-[Mises À Niveau Des Pistes Anonymes - Sous Le Bois](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
+[Mises À Niveau Des Pistes Anonymes - Sous Le Capsule](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
 
 [Promotion de pistes anonymes vers le prospect connu - Comportement Munchkin V2](https://nation.marketo.com/docs/DOC-2963){target=&quot;_blank&quot;}
 

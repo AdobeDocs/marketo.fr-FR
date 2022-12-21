@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2949283
-description: Envoyer et effectuer le suivi à partir d'Outlook à l'aide d'un modèle de marketing - Documents marketing - Documentation du produit
-title: Envoi et suivi à partir d'Outlook à l'aide d'un modèle de marketing
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Envoi et suivi depuis Outlook à l’aide d’un modèle Marketo - Documents Marketo - Documentation du produit
+title: Envoi et suivi depuis Outlook à l’aide d’un modèle Marketo
+exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
+# Envoi et suivi depuis Outlook à l’aide d’un modèle Marketo {#send-and-track-from-outlook-using-a-marketo-template}
 
-# Envoyer et effectuer un suivi à partir d&#39;Outlook à l&#39;aide d&#39;un modèle de marketing {#send-and-track-from-outlook-using-a-marketo-template}
+Si votre équipe marketing a mis des modèles à votre disposition, voici comment vous pouvez les utiliser pour gagner du temps lors de la composition de vos emails.
 
-Si votre équipe marketing vous a mis des modèles à disposition, voici comment vous pouvez les utiliser pour gagner du temps lors de la rédaction de vos courriels.
-
-1. Ouvrez Microsoft Outlook et cliquez sur **Message marketing**.
+1. Ouvrez Microsoft Outlook et cliquez sur **Message Marketo**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. Sélectionnez le modèle de votre choix, prévisualisation-le, puis cliquez sur **OK**.
+1. Sélectionnez le modèle de votre choix, prévisualisez-le, puis cliquez sur **OK**.
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. Effectuez toutes vos modifications, puis cliquez sur **Envoyer et effectuer le suivi**.
+1. Effectuez toutes vos modifications, puis cliquez sur **Envoi et suivi**.
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
    >[!NOTE]
    >
-   >Les jetons ne sont pas pris en charge avec le complément. Supprimez tout élément qui pourrait se trouver dans le modèle.
+   >Les jetons ne sont pas pris en charge avec le module complémentaire . Supprimez tout élément qui pourrait se trouver dans le modèle.
 
-1. Consultez la prévisualisation, assurez-vous qu’elle a l’air correcte, puis cliquez sur **Envoyer**.
+1. Vérifiez l’aperçu, assurez-vous qu’il s’affiche correctement, puis cliquez sur **Envoyer**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
@@ -39,4 +38,4 @@ Si votre équipe marketing vous a mis des modèles à disposition, voici comment
 
 >[!MORELIKETHIS]
 >
->[Enregistrer le courrier entrant provenant de vos pistes dans Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Connexion au courrier entrant à partir de vos pistes dans Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

@@ -1,43 +1,42 @@
 ---
 unique-page-id: 12980105
-description: Invitation d’utilisateurs à accéder à Insight de compte - Documentation sur le marketing - Documentation du produit
-title: Invitation d’utilisateurs à accéder aux informations de compte
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+description: Invitation d’utilisateurs à accéder à Insight de compte - Documents Marketo - Documentation du produit
+title: Invitation d’utilisateurs à accéder à Insight de compte
+exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
+# Invitation d’utilisateurs à accéder à Insight de compte {#invite-users-to-access-account-insight}
 
-# Invitation d’utilisateurs à accéder aux informations de compte {#invite-users-to-access-account-insight}
+Suivez ces étapes pour permettre aux utilisateurs d’accéder à Account Insight.
 
-Pour permettre aux utilisateurs d’accéder à Account Insight, procédez comme suit.
-
-1. Cliquez sur **Admin**.
+1. Cliquez sur **Administration**.
 
    ![](assets/admin-1.png)
 
-1. Cliquez sur **Utilisateurs et rôles** dans l’arborescence. Cliquez ensuite sur l&#39;onglet **Utilisateurs commerciaux** et **Inviter un nouvel utilisateur commercial**.
+1. Cliquez sur **Utilisateurs et rôles** dans l&#39;arbre. Cliquez ensuite sur le bouton **Utilisateurs commerciaux** et **Inviter un nouvel utilisateur commercial**.
 
    ![](assets/two-6.png)
 
-   Il existe deux façons d’inviter des utilisateurs : Par CRM ou par courriel. Dans cet exemple, nous utiliserons Invitation par CRM.
+   Il existe deux manières d’inviter des utilisateurs : Par CRM ou par email. Dans cet exemple, nous utiliserons Invitation par CRM.
 
    >[!NOTE]
    >
-   >Lorsque vous invitez de nouveaux utilisateurs (autres que Marketo) via la liste utilisateur CRM, vous pouvez inviter plusieurs personnes à la fois. L’invitation par courrier électronique est définie sur 1 pour 1.
+   >Lors de l’invitation de nouveaux utilisateurs (non Marketo) via la liste d’utilisateurs CRM, vous pouvez inviter plusieurs personnes à la fois. L&#39;invitation par email est 1 pour 1.
 
-1. Cliquez sur la liste déroulante **Utilisateur CRM** et sélectionnez l’utilisateur de votre choix.
+1. Cliquez sur le bouton **Utilisateur CRM** et sélectionnez l’utilisateur de votre choix.
 
    ![](assets/three-5.png)
 
    >[!NOTE]
    >
-   >Si vous choisissez **Inviter un utilisateur par courrier électronique**, il vous suffit de saisir son prénom, son nom et son adresse électronique, puis de passer à l’étape 4.
+   >Si vous choisissez **Invitation d’un utilisateur par courrier électronique**, saisissez simplement leur prénom, nom et adresse électronique, puis passez à l’étape 4.
 
-1. Pour définir une date d&#39;expiration pour l&#39;accès de l&#39;utilisateur (facultatif), cliquez sur l&#39;icône de calendrier. Il est défini sur &quot;jamais&quot; par défaut.
+1. Pour définir une date d’expiration de l’accès de l’utilisateur (facultatif), cliquez sur l’icône de calendrier. Par défaut, il est défini sur &quot;jamais&quot;.
 
    ![](assets/four-5.png)
 
@@ -45,10 +44,10 @@ Pour permettre aux utilisateurs d’accéder à Account Insight, procédez comme
 
    ![](assets/five-5.png)
 
-1. Cochez la case **Account Insight** et cliquez sur **Suivant**.
+1. Vérifiez les **Informations sur le compte** , puis cliquez sur **Suivant**.
 
    ![](assets/six-3.png)
 
-1. Recherchez le message d’envoi, effectuez les modifications souhaitées (facultatif) et cliquez sur **Envoyer**.
+1. Recherchez le message envoyé, apportez les modifications souhaitées (facultatif), puis cliquez sur **Envoyer**.
 
    ![](assets/seven-2.png)

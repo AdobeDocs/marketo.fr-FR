@@ -16,7 +16,7 @@ ht-degree: 5%
 >
 >[Ajout d’une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-Un jeton est une variable. Vous l’utilisez dans les emails, les landing pages et les campagnes intelligentes pour faciliter votre vie. Vous pouvez utiliser [Mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (jetons personnalisés) dans les étapes de flux, les webhooks, les e-mails et les landing pages. Vous pouvez utiliser des jetons pour inclure du contenu variable dans ces étapes de flux :
+Un jeton est une variable. Vous l’utilisez dans les emails, les landing pages et les campagnes intelligentes pour faciliter votre vie. Vous pouvez utiliser [Mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (jetons personnalisés) dans les étapes de flux, webhooks, emails et landing pages. Vous pouvez utiliser des jetons pour inclure du contenu variable dans ces étapes de flux :
 
 * Modifier valeur des données
 * Modifier les données du membre du programme
@@ -25,13 +25,13 @@ Un jeton est une variable. Vous l’utilisez dans les emails, les landing pages 
 * Créer tâche
 * Envoyer une alerte (dans les campagnes de déclenchement uniquement)
 
-1. À l’étape du flux, commencez à saisir `{{` pour obtenir les catégories de jeton.
+1. À l’étape du flux, commencez à saisir du texte `{{` pour obtenir des catégories de jeton.
 
    ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
-   >Consultez la [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) pour obtenir la liste de plusieurs jetons disponibles.
+   >Consulter [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) pour une liste de plusieurs jetons disponibles.
 
 1. Continuez à taper jusqu’à ce que vous trouviez le jeton de votre choix, puis cliquez pour le sélectionner.
 

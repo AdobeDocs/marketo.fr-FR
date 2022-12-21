@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2359793
-description: Utiliser des courriers électroniques dans les promotions sociales - Documents marketing - Documentation du produit
-title: Utiliser des courriers électroniques dans les promotions sociales
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Utilisation des courriers électroniques dans les promotions sociales - Documents Marketo - Documentation du produit
+title: Utilisation des courriers électroniques dans les promotions sociales
+exl-id: 633ad86e-d085-420f-8e28-9b722e345852
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
+# Utilisation des courriers électroniques dans les promotions sociales {#use-emails-in-social-promotions}
 
-# Utiliser des courriers électroniques dans les promotions sociales {#use-emails-in-social-promotions}
-
-Lorsque vous créez une [offre de renvoi](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou un tirage [, vous pouvez inclure des courriers électroniques à envoyer lorsque la personne s&#39;inscrit, puis à nouveau lorsque la personne a gagné la récompense.](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
+Lorsque vous créez une [offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez inclure des emails à envoyer lorsque la personne s’inscrit, et à nouveau lorsque la personne a gagné la récompense.
 
 >[!TIP]
 >
->Pour créer un courrier électronique, voir [Envoyer un message électronique ](/help/marketo/getting-started/quick-wins/send-an-email.md).
+>Pour créer un email, voir [Envoyer un message électronique](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
-Dans les courriels, utilisez les jetons suivants :
+Dans les emails, utilisez les jetons suivants :
 
-* **Courriel** d&#39;inscription : Utilisez  **`{{social.Share Url}}`** pour envoyer à chaque participant un lien de partage personnalisé.
+* **Courriel d’inscription**: Utilisation **`{{social.Share Url}}`** pour envoyer à chaque participant un lien de partage personnalisé.
 
-* **Adresse électronique** d’exécution : Utilisez  **`{{social.Promo Code}}`** pour envoyer à chaque gagnant un code [ de ](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)promotion.
+* **Courrier électronique d’exécution**: Utilisation **`{{social.Promo Code}}`** pour envoyer à chaque gagnant une [code promo](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md).
 
 >[!PREREQUISITES]
 >
->Avant de pouvoir ajouter un courrier électronique à une application sociale, il doit être _opérationnel_ et _approuvé_. Voir [Modifier les paramètres pour un courrier électronique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>Avant de pouvoir ajouter un email à une application sociale, ce message doit être _opérationnel_ et _approuvé_. Voir [Modifier les paramètres d’un courrier électronique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Accédez à **Activités marketing**.
 
@@ -37,41 +36,39 @@ Dans les courriels, utilisez les jetons suivants :
 
    ![](assets/image2014-9-19-16-3a12-3a33.png)
 
-1. Dans l’éditeur d’applications sociales, accédez à **Paramètres de l’application > Détails de l’Offre** (ou **Détails des tirages**).
+1. Dans l’éditeur d’applications sociales, accédez à **Paramètres de l’application > Détails de l’offre** (ou **Détails des jeux de balayage**).
 
    ![](assets/image2014-9-19-16-3a12-3a41.png)
 
-1. Ajoutez le courrier électronique d’inscription.
+1. Ajoutez l&#39;email d&#39;inscription.
 
    ![](assets/image2014-9-19-16-3a12-3a49.png)
 
    >[!NOTE]
    >
-   >L&#39;e-mail de confirmation est envoyé automatiquement lorsqu&#39;une personne s&#39;inscrit.
+   >L&#39;email de confirmation est envoyé automatiquement lorsqu&#39;une personne s&#39;inscrit.
 
-1. Ajoutez le courrier électronique d’exécution.
+1. Ajoutez l’email d’exécution.
 
    ![](assets/image2014-9-19-16-3a15-3a26.png)
 
-1. Dans une offre de référence, choisissez si le courrier électronique d’exécution est envoyé automatiquement ou manuellement.
+1. Dans une offre de parrainage, choisissez si l&#39;email d&#39;exécution est envoyé automatiquement ou manuellement.
 
    ![](assets/image2014-9-19-16-3a15-3a36.png)
 
 >[!NOTE]
 >
->Lors d’un tirage, le courrier électronique d’exécution est toujours envoyé automatiquement lorsque vous [sélectionnez le gagnant](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
+>Dans un tirage, l’e-mail d’exécution est toujours envoyé automatiquement lorsque vous [sélectionner le gagnant](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
 
 >[!NOTE]
 >
 >**Définition**
 >
->* **auto sur objectif** : Le courrier électronique d’exécution est envoyé automatiquement lorsque chaque participant atteint l’objectif.
->* **envoi** manuel : Une fois que les personnes ont début d’atteindre l’objectif, retournez à votre offre de référence pour  [envoyer manuellement le courrier électronique](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) d’exécution.
-
+>* **auto sur l’objectif**: L’email d’exécution est envoyé automatiquement lorsque chaque participant répond à l’objectif.
+>* **envoi manuel**: Une fois que les personnes commencent à atteindre l’objectif, revenez à votre offre de référence pour [envoyer le courrier électronique d’exécution ;](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 >
-
 
 
 >[!MORELIKETHIS]
 >
->Vous pouvez ensuite [choisir l’URL de partage](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) ou, dans votre offre de référence, [télécharger les codes promotionnels](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) que vous enverrez.
+>Ensuite, vous pouvez [choisissez l’URL de partage](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) ou, dans votre offre de parrainage, vous pouvez : [charger les codes promotion](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) tu enverras.

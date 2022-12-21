@@ -3,7 +3,8 @@ description: Engagement relatif aux modèles - Documents Marketo - Documentation
 title: Engagement du modèle
 hide: true
 hidefromtoc: true
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+exl-id: b59677a9-8192-4c80-9105-42192a128ef7
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

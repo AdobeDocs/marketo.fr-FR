@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359728
-description: Utiliser des guides pour la conception de Landings page à structure libre - Documentation sur le marketing - Documentation sur les produits
-title: Utilisation de guides pour la conception de Landings page à structure libre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Utilisation de guides pour la conception d’une page d’entrée de forme libre - Documents Marketo - Documentation du produit
+title: Utilisation de guides pour la conception d’une page d’entrée de forme libre
+exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
+# Utilisation de guides pour la conception d’une page d’entrée de forme libre {#use-guides-for-free-form-landing-page-design}
 
-# Utiliser des guides pour la conception de Landings page à structure libre {#use-guides-for-free-form-landing-page-design}
-
-Lors de la conception d’un landing page de forme libre, vous pouvez utiliser des guides pour vous aider à aligner les composants.
+Lors de la conception d’une landing page de forme libre, vous pouvez utiliser des guides pour vous aider à aligner les composants.
 
 >[!NOTE]
 >
->Les guides sont disponibles uniquement dans l’éditeur de landing page **Forme libre**.
+>Les guides sont disponibles uniquement sur la page **Libre-forme** éditeur de page d’entrée.
 
-1. Sélectionnez un **Landing page** et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez une **Page d’entrée** et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Cliquez sur **Actions de Landing page** et sélectionnez **Afficher les guides**.
+1. Cliquez sur **Actions de page d’entrée** et sélectionnez **Afficher les guides**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 
-1. Un repère vertical et horizontal apparaît sur la trame. Utilisez le curseur pour les déplacer.
+1. Un guide vertical et horizontal s’affiche sur la zone de travail. Utilisez le curseur pour les déplacer.
 
    ![](assets/image2015-5-20-14-3a15-3a9.png)
 
-1. Faites glisser un objet sur la ligne. Laisser passer lorsque la ligne doublon en largeur et que l&#39;objet s&#39;accroche au guide.
+1. Faites glisser un objet sur la ligne. Laissez tomber lorsque la ligne double en largeur et que l’objet s’accroche au guide.
 
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 

@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Création d’une audience mise en correspondance de compte sur LinkedIn {#create-an-account-matched-audience-on-linkedin}
 
-Créez des audiences de correspondance de compte à partir de vos listes de compte TAM pour le [ciblage des publicités LinkedIn](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). linkedIn fait correspondre la liste aux comptes de son système et vous pouvez créer une audience LinkedIn basée sur cette liste de comptes à activer sur les canaux LinkedIn. Cela permet aux marketeurs de cibler des personnes dans ou en dehors de leur base de données.
+Créer des audiences associées à un compte à partir de vos listes de comptes TAM pour [Ciblage des publicités linkedIn](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). linkedIn fait correspondre la liste aux comptes de son système et vous pouvez créer une audience LinkedIn basée sur cette liste de comptes à activer sur les canaux LinkedIn. Cela permet aux marketeurs de cibler des personnes dans ou en dehors de leur base de données.
 
 >[!PREREQUISITES]
-[Ajout d’audiences mappées LinkedIn en tant que service LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)>
 >
+>[Ajout d’audiences mappées LinkedIn en tant que service LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. Dans TAM, cliquez sur l’onglet **Listes de comptes** .
+1. Dans TAM, cliquez sur le **Listes de comptes** .
 
    ![](assets/create-a-matched-audience-on-linkedin-1.png)
 
@@ -26,19 +26,19 @@ Créez des audiences de correspondance de compte à partir de vos listes de comp
 
    ![](assets/create-a-matched-audience-on-linkedin-2.png)
 
-1. Cliquez sur la liste déroulante **Actions de liste de comptes** et sélectionnez **Envoyer via AdBridge**.
+1. Cliquez sur le bouton **Actions de liste de comptes** et sélectionnez **Envoi par AdBridge**.
 
    ![](assets/create-a-matched-audience-on-linkedin-3.png)
 
-1. Sélectionnez **LinkedIn** et cliquez sur **Suivant**.
+1. Choisir **linkedIn** et cliquez sur **Suivant**.
 
    ![](assets/create-a-matched-audience-on-linkedin-4.png)
 
-1. Cliquez sur la liste déroulante **Audience** . Vous pouvez sélectionner une audience existante ou en créer une nouvelle. Dans cet exemple, nous allons en créer une (si vous sélectionnez une audience existante, passez à l’étape 7).
+1. Cliquez sur le bouton **Audience** menu déroulant. Vous pouvez sélectionner une audience existante ou en créer une nouvelle. Dans cet exemple, nous allons en créer une (si vous sélectionnez une audience existante, passez à l’étape 7).
 
    ![](assets/create-a-matched-audience-on-linkedin-5.png)
 
-1. Cliquez sur le menu déroulant **Compte publicitaire** et sélectionnez le compte publicitaire cible.
+1. Cliquez sur le bouton **Compte publicitaire** et sélectionnez le compte publicitaire cible.
 
    ![](assets/create-a-matched-audience-on-linkedin-6.png)
 
@@ -49,4 +49,5 @@ Créez des audiences de correspondance de compte à partir de vos listes de comp
 Et c&#39;est tout. Votre liste de comptes a été transférée à LinkedIn.
 
 >[!MORELIKETHIS]
-[Utilisation d’une liste Marketo ou d’une liste dynamique en tant que segment d’audience LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>
+>[Utilisation d’une liste Marketo ou d’une liste dynamique en tant que segment d’audience LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

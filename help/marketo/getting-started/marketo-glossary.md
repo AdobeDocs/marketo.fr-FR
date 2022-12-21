@@ -801,7 +801,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Variables</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Balises</a></strong></td> 
    <td>Identifiants utilisés pour décrire <strong>programmes</strong>.</td> 
   </tr>
   <tr> 

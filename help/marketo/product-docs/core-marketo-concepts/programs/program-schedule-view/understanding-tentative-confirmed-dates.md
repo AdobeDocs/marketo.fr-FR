@@ -1,33 +1,32 @@
 ---
 unique-page-id: 1147140
-description: Présentation des dates provisoires/confirmées - Documents Marketo - Documentation du produit
-title: Présentation des dates indicatives/confirmées
+description: Présentation des dates de test/confirmation - Documents Marketo - Documentation du produit
+title: Comprendre les dates provisoires/confirmées
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Présentation des dates provisoires/confirmées {#understanding-tentative-confirmed-dates}
+# Comprendre les dates provisoires/confirmées {#understanding-tentative-confirmed-dates}
 
-Les campagnes dynamiques et les programmes de messagerie électronique disposent d’une puissante capacité à être marqués comme **Tentative** ou **Confirmé**. Voici comment ils fonctionnent.
+Les campagnes intelligentes et les programmes de messagerie électronique disposent d’une puissante fonctionnalité à marquer comme **Tentative** ou **Confirmé**. Voici comment ils fonctionnent.
 
 ## Tentative {#tentative}
 
-Les dates provisoires véhiculent une intention. Considérez cela comme _un élément du calendrier qui s&#39;affiche_. Les entrées provisoires ne s&#39;exécuteront pas - ce sont des espaces réservés uniquement.
+Les dates provisoires véhiculent l’intention. Pensez à ceci comme _crayon_ quelque chose dans le calendrier. Les entrées provisoires ne s’exécuteront pas, il s’agit uniquement d’espaces réservés.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
 >[!NOTE]
 >
->Seules les campagnes dynamiques par lot et les programmes électroniques peuvent être provisoires.
+>Seules les campagnes dynamiques par lots et les programmes de messagerie électronique peuvent être provisoires.
 
 ## Confirmation des entrées {#confirming-entries}
 
-Il s’agit de l’approbation d’un actif. Les entrées doivent donc être entièrement configurées avant de pouvoir les confirmer. Une fois que tous vos canards se trouvent sur une rangée, vous pouvez confirmer les entrées en glissant l&#39;onglet provisoire vers la droite.
+Cela revient à approuver une ressource. Par conséquent, les entrées doivent être entièrement configurées avant de pouvoir les confirmer. Une fois que tous vos canards sont dans une ligne, vous pouvez confirmer les entrées en glissant l’onglet de tentative vers la droite.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 
@@ -39,16 +38,16 @@ Il s’agit de l’approbation d’un actif. Les entrées doivent donc être ent
 >
 >Pourquoi le chien ? C&#39;est un récupérateur. Il récupère vos données.
 
-## {#confirmed} confirmé
+## Confirmée {#confirmed}
 
-Les entrées confirmées seront certainement exécutées. Ils disposent de règles, d’actifs approuvés et d’une date et d’une heure confirmées.
+Les entrées confirmées seront certainement exécutées. Ils disposent de règles, de ressources approuvées et d’une date et d’une heure confirmées.
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
 ## Terminé  {#finished}
 
-Les entrées terminées ont déjà été exécutées. Ils ne peuvent être que dans le passé (évidemment). Une fois qu&#39;une entrée a été exécutée et est **Terminée**, vous ne pouvez pas la déplacer ou la faire titiller. (Pas de changement de la réalité et de rupture du continuum du temps.)
+Les entrées terminées ont déjà été exécutées. Ils ne peuvent être que dans le passé (évidemment). Une fois qu’une entrée a été exécutée et est **Terminé**, vous ne pouvez pas le déplacer ni le faire titiller. (Pas de changement de la réalité ni de rupture dans le continuum du flux temporel.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-Ces États constituent de puissants outils. Lorsque vous cloner un programme, toutes les dates de campagne intelligente et de programme électronique seront provisoires. Ils peuvent tous être confirmés à partir de la vue de calendrier. Cool, non ?
+Ces États constituent de puissants outils. Lorsque vous clonez un programme, toutes les dates des programmes de campagne dynamique et de messagerie électronique sont provisoires. Elles peuvent toutes être confirmées directement depuis la vue de planification. Super, non ?

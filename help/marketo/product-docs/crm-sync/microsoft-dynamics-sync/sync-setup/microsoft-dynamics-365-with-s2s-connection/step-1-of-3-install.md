@@ -70,7 +70,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 365 et Marketo, vous devez inst
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
-1. Cliquez sur **Fermez.**
+1. Cliquez sur **Fermer.**
 
    >[!NOTE]
    >
@@ -82,7 +82,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 365 et Marketo, vous devez inst
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. Select **Marketo Lead Management** and click **Publish All Customizations.**
+1. Sélectionner **Gestion des leads Marketo** et cliquez sur **Publier toutes les personnalisations.**
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modèle 6D {#template-6d}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
+Cliquez avec le bouton droit de la souris sur [télécharger le modèle 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
 
 ![](assets/image2015-7-29-12-3a1-3a21.png)
 

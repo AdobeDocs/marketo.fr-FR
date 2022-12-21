@@ -1,25 +1,24 @@
 ---
 unique-page-id: 7515027
-description: Ajouter une image à un Landing page guidé - Documents marketing - Documentation du produit
-title: Ajouter une image à un Landing page guidé
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Ajout d’une image à une page d’entrée guidée - Documents Marketo - Documentation du produit
+title: Ajout d’une image à une page d’entrée guidée
+exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
+# Ajout d’une image à une page d’entrée guidée {#add-an-image-to-a-guided-landing-page}
 
-# Ajouter une image à un Landing page guidé {#add-an-image-to-a-guided-landing-page}
+Contrairement aux landing pages de forme libre, les landing pages guidées ont des espaces verrouillés prédéfinis dans lesquels vous ajoutez des images.
 
-Contrairement aux landings page à structure libre, les landings page guidés comportent des espaces verrouillés prédéfinis dans lesquels vous ajoutez des images.
-
-1. Sélectionnez un landing page guidé. Cliquez sur **Modifier le brouillon**.
+1. Sélectionnez une landing page guidée. Cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
-1. Cliquez sur l’image à modifier. L’espace réservé à l’élément s’illumine dans le canevas de landing page.
+1. Cliquez sur l’image à modifier. L’espace réservé de l’élément s’illumine dans le canevas de la landing page.
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
@@ -31,7 +30,7 @@ Contrairement aux landings page à structure libre, les landings page guidés co
 
    >[!NOTE]
    >
-   >Le redimensionnement de l’image dépend du modèle. En savoir plus sur [Modèles de Landing page guidé](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Le redimensionnement de l’image dépend du modèle. En savoir plus sur [Modèles de page d’entrée guidés](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 

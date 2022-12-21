@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147116
-description: Gestion de mes jetons - Documents Marketo - Documentation sur les produits
+description: Gestion de mes jetons - Documents Marketo - Documentation du produit
 title: Gestion de mes jetons
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
@@ -13,13 +12,13 @@ ht-degree: 0%
 
 # Gestion de mes jetons {#managing-my-tokens}
 
-L’utilisation de jetons peut simplifier vos efforts à Marketo. Vous pouvez utiliser [Mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (jetons personnalisés) dans les étapes de flux, les crochets Web, les courriers électroniques et les landings page. Voici comment les faire.
+L’utilisation de jetons peut simplifier vos efforts dans Marketo. Vous pouvez utiliser [Mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (jetons personnalisés) dans les étapes de flux, webhooks, emails et landing pages. Voici comment les fabriquer.
 
 >[!TIP]
 >
->Pour en savoir plus sur les jetons déjà disponibles dans [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+>En savoir plus sur les jetons déjà disponibles dans [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
 
-## Créer un jeton My {#create-a-my-token}
+## Création d’un jeton {#create-a-my-token}
 
 1. Accédez à **Activités marketing**.
 
@@ -29,7 +28,7 @@ L’utilisation de jetons peut simplifier vos efforts à Marketo. Vous pouvez ut
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Sélectionnez un type **Mon jeton**. Faites-le glisser sur la trame.
+1. Sélectionnez une **Mon jeton** type. Faites-la glisser sur la zone de travail.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -41,23 +40,23 @@ L’utilisation de jetons peut simplifier vos efforts à Marketo. Vous pouvez ut
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
-   Ouais ! Tu as fait un My Token.
+   Oui ! Tu as fait un Mon Jeton.
 
    ![](assets/image2014-9-18-12-3a5-3a15.png)
 
-## Modifier un jeton My {#edit-a-my-token}
+## Modifier un jeton {#edit-a-my-token}
 
-1. Doublon-cliquez sur le **Mon jeton** et apportez vos modifications. Cliquez sur **Enregistrer**.
+1. Double-cliquez sur le **Mon jeton** et effectuez vos modifications. Cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
-## Supprimer un jeton My {#delete-a-my-token}
+## Suppression d’un jeton {#delete-a-my-token}
 
 >[!CAUTION]
 >
->Lorsque vous supprimez un jeton, veillez à ne pas le référencer dans un fichier. Un espace vide s’affiche à l’endroit où il est référencé s’il est supprimé.
+>Lorsque vous supprimez un jeton, assurez-vous de ne le référencer dans aucune ressource. Un espace vierge s’affiche à n’importe quel emplacement référencé s’il est supprimé.
 
-1. Cliquez avec le bouton droit de la souris sur **Mon jeton**. Sélectionnez **Supprimer le jeton**.
+1. Cliquez avec le bouton droit de la souris sur le **Mon jeton**. Sélectionner **Supprimer le jeton**.
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
@@ -68,6 +67,6 @@ L’utilisation de jetons peut simplifier vos efforts à Marketo. Vous pouvez ut
    >[!MORELIKETHIS]
    >
    >* [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
-   >* [Présentation de mes jetons dans un Programme](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
-   >* [Utilisation des URL dans mes jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+   >* [Présentation de mes jetons dans un programme](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [Utilisation d’URL dans mes jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
 

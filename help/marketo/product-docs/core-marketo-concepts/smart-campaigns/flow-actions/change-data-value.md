@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146960
-description: Modifier la valeur des données - Documents Marketo - Documentation du produit
+description: Modification de la valeur des données - Documents Marketo - Documentation du produit
 title: Modifier valeur des données
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
@@ -13,9 +12,9 @@ ht-degree: 7%
 
 # Modifier valeur des données {#change-data-value}
 
-## Aperçu {#overview}
+## APERÇU {#overview}
 
-Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour cela, vous utiliserez l’action de flux **Modifier la valeur des données**.
+Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour ce faire, vous utiliserez la variable **Modifier la valeur des données** action de flux.
 
 ![](assets/image2014-9-22-11-3a15-3a34.png)
 
@@ -29,7 +28,7 @@ Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour ce
 
    ![](assets/image2014-9-22-11-3a18-3a29.png)
 
-1. Entrez la valeur que vous voulez, et vous avez terminé !
+1. Saisissez la valeur souhaitée, et vous avez terminé !
 
    ![](assets/image2014-9-22-11-3a18-3a38.png)
 
@@ -39,10 +38,10 @@ Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour ce
 
    >[!TIP]
    >
-   >Vous pouvez entrer &#39;NULL&#39; (sans guillemets, toutes les majuscules) dans **Nouvelle valeur** pour effacer le champ. Voir [Effacer les valeurs de champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md) pour plus de détails.
+   >Vous pouvez saisir &quot;NULL&quot; (sans guillemets, toutes les majuscules) dans la variable **Nouvelle valeur** pour effacer le champ. Voir [Effacer les valeurs de champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md) pour plus d’informations.
 
    >[!NOTE]
    >
    >* [Jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
-   >* [Ajouter des données à un champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
+   >* [Ajout de données à un champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
 

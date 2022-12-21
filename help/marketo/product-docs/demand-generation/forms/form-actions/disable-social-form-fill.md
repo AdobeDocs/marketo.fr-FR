@@ -1,19 +1,18 @@
 ---
 unique-page-id: 10098242
-description: Désactiver le remplissage du formulaire Social - Documents marketing - Documentation du produit
-title: Désactiver le remplissage du formulaire Social
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Désactiver le remplissage de formulaire Social - Documents Marketo - Documentation du produit
+title: Désactiver le remplissage de formulaire Social
+exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
+# Désactiver le remplissage de formulaire Social {#disable-social-form-fill}
 
-# Désactiver le remplissage du formulaire Social {#disable-social-form-fill}
-
-Il arrive que vous ne souhaitiez plus que les visiteurs du site envoient des formulaires à l’aide d’un profil social. Voici comment la désactiver.
+Il arrive que vous ne souhaitiez plus que les visiteurs du site envoient des formulaires à l’aide d’un profil social. Voici comment le désactiver.
 
 >[!AVAILABILITY]
 >
@@ -27,7 +26,7 @@ Il arrive que vous ne souhaitiez plus que les visiteurs du site envoient des for
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Sous Paramètres de formulaire, cliquez sur **Paramètres**.
+1. Sous Paramètres du formulaire, cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 

@@ -18,9 +18,9 @@ Les fonctionnalités suivantes sont incluses dans la version de l’été 16. V�
 
 Marketo Account Based Marketing fournit toutes les informations essentielles sur une seule plateforme unifiée :
 
-* **Target**  - Découverte de compte, correspondance de pistes vers comptes et listes de comptes nommés
-* **Interagir**  - Personnalisation basée sur le compte, engagement cross-canal et processus spécifique au compte
-* **Mesure**  - Informations au niveau du compte et de la liste, note d’engagement du compte, impact sur le pipeline et les recettes
+* **Cible** - Découverte de compte, correspondance de pistes vers comptes et listes de comptes nommés
+* **Engage** - Personnalisation basée sur les comptes, engagement cross-canal et workflows spécifiques aux comptes
+* **Mesure** - Informations au niveau du compte et de la liste, note d’engagement du compte, impact sur le pipeline et les recettes
 
 ![](assets/abm-5-acme.png)
 
@@ -59,7 +59,7 @@ Auparavant, toutes les variables spécifiées dans les Modèles d’e-mail 2.0 �
 **Mises à jour de la syntaxe**
 
 * Vous pouvez désormais utiliser &quot;mktoAddByDefault&quot; sur les modules spécifiés dans les Modèles d&#39;email 2.0 afin d&#39;indiquer les modules qui doivent être affichés par défaut dans les nouveaux emails. Cela s’avère beaucoup plus pratique si vous créez un modèle d’email avec un grand nombre de modules.
-* Sur les éléments d’image, vous pouvez maintenant spécifier si les propriétés &quot;height&quot; et &quot;width&quot; de l’élément HTML sous-jacent `<img>` doivent être verrouillées ou modifiables pour l’utilisateur final. mktoLockImgSize=&quot;true&quot; entraîne le verrouillage de la hauteur/largeur (même si l’image est modifiée). De même, mktoLockImgStyle=&quot;true&quot; entraîne le verrouillage de la propriété &quot;style&quot;.
+* Sur les éléments d’image, vous pouvez maintenant spécifier si la variable `<img>` Les propriétés &quot;height&quot; et &quot;width&quot; de l’élément de HTML doivent être verrouillées ou modifiables pour l’utilisateur final. mktoLockImgSize=&quot;true&quot; entraîne le verrouillage de la hauteur/largeur (même si l’image est modifiée). De même, mktoLockImgStyle=&quot;true&quot; entraîne le verrouillage de la propriété &quot;style&quot;.
 
 **Recherche de code**
 
@@ -69,7 +69,7 @@ Utilisez la nouvelle fonctionnalité de recherche pour rechercher et remplacer e
 
 **Prise en charge des jetons dans les éléments d’image**
 
-Les jetons peuvent désormais être utilisés dans la zone &quot;URL externe&quot; de l’expérience d’insertion d’image ! Si vous avez spécifié des images avec `{{my.tokens}}`, vous pouvez maintenant référencer ces jetons dans la version 2.0 de l’éditeur de messagerie. Notez que l’image apparaîtra toujours rompue dans la zone de travail de l’éditeur de messagerie 2.0. Mais vous verrez qu’elles sont rendues dans Aperçu et Envoyer un exemple avant d’envoyer votre email.
+Les jetons peuvent désormais être utilisés dans la zone &quot;URL externe&quot; de l’expérience d’insertion d’image ! Si vous avez spécifié des images avec `{{my.tokens}}`, vous pouvez maintenant référencer ces jetons dans Email Editor 2.0. Notez que l’image apparaîtra toujours rompue dans le canevas Email Editor 2.0. Mais vous verrez qu’elles sont rendues dans Aperçu et Envoyer un exemple avant d’envoyer votre email.
 
 ## Plusieurs noms de domaine {#multiple-branding-domains}
 
