@@ -50,7 +50,7 @@ C’est là que vous allez écrire une fonction JavaScript qui utilise l’ident
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
-Dans cet exemple, il existe un bouton sur la page web avec l’identifiant &quot;#myButtonId&quot;. Lorsque l’utilisateur clique sur ce bouton, la personne est enregistrée comme ayant atteint l’objectif.
+Dans cet exemple, il y a un bouton sur la page web avec l’identifiant &quot;#myButtonId&quot;. Lorsque l’utilisateur clique sur ce bouton, la personne est enregistrée comme ayant atteint l’objectif.
 
 Super ! Votre site web capture désormais les objectifs personnalisés de promotion sociale avec Marketo.
 
