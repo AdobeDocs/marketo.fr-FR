@@ -1,9 +1,9 @@
 ---
 description: Notes de mise à jour - Octobre 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Octobre 2022
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '634'
 ht-degree: 5%
 
 ---
@@ -24,7 +24,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 </br>
 
-* **Synchronisation des champs personnalisés des membres du programme**: Possibilité de synchroniser de manière bidirectionnelle les champs extensibles capturés pour un membre du programme (par exemple, les préférences du participant lors de l’enregistrement de l’événement, tels que la nourriture, les sessions, les suivis, etc.)
+* **Synchronisation des champs personnalisés des membres du programme**: Possibilité de synchroniser de manière bidirectionnelle les champs extensibles capturés pour un membre du programme (par exemple, les préférences du participant lors de l’enregistrement de l’événement, tels que la nourriture, les sessions, les suivis, etc.) avec des champs de membre Campaign dans Salesforce.
 
 <table> 
   <tr> 
