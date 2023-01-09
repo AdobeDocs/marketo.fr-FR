@@ -2,9 +2,9 @@
 description: Stream Designer - Documents Marketo - Documentation du produit
 title: Designer de flux
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '866'
 ht-degree: 2%
 
 ---
@@ -89,6 +89,10 @@ Dans le coin supérieur droit du concepteur de flux, vous verrez quelques icône
 1. Sous Réponse Chatbot, entrez votre question comme vous le souhaitez.
 
    ![](assets/stream-designer-8.png)
+
+   >[!TIP]
+   >
+   >Vous pouvez personnaliser l’expérience des visiteurs connus du chat à l’aide de jetons (par exemple : Hello `{{lead.leadFirstName:""}}`). Il vous suffit de cliquer sur l’icône d’accolade à droite pour effectuer votre sélection. Ajoutez une valeur par défaut entre les guillemets si vous souhaitez que les visiteurs anonymes voient quelque chose de générique (par exemple : Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
