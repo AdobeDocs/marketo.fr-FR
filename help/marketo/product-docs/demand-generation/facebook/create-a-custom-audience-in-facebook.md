@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Création d’une audience personnalisée dans Facebook - Documents Marketo - Documentation du produit
 title: Création d’une audience personnalisée dans Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ ht-degree: 0%
 1. Cliquez sur le bouton **Audience** et sélectionnez **+ Nouvelle audience**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
+
+   >[!IMPORTANT]
+   >
+   >L’API Facebook permet jusqu’à 500 audiences personnalisées par compte publicitaire Facebook.
 
 1. Saisissez un **Nom de l’audience**. Cliquez sur **Mettre à jour**.
 
