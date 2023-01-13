@@ -3,10 +3,10 @@ unique-page-id: 2360344
 description: Affichage des mappages de champs entre Marketo et Salesforce - Documents Marketo - Documentation du produit
 title: Affichage des mappages de champs entre Marketo et Salesforce
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 5%
 
 ---
 
@@ -18,13 +18,17 @@ Vous souhaitez peut-être savoir à quels champs Salesforce un champ Marketo sp�
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à **Administration** et cliquez sur **Gestion des champs**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-19-9-3a54-3a26.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
+
+1. Cliquez sur **Gestion des champs**.
+
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
 1. Recherchez le champ qui vous intéresse et cliquez sur le bouton **+** pour développer le mappage.
 
-   ![](assets/image2014-9-19-9-3a54-3a34.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >

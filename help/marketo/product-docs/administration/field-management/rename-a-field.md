@@ -3,10 +3,10 @@ unique-page-id: 2360293
 description: Renommer un champ - Documents Marketo - Documentation du produit
 title: Renommer un champ
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '125'
+ht-degree: 4%
 
 ---
 
@@ -20,21 +20,25 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à Admin et cliquez sur **Gestion des champs**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-24-14-3a2-3a25.png)
+   ![](assets/rename-a-field-1.png)
+
+1. Cliquez sur **Gestion des champs**.
+
+   ![](assets/rename-a-field-2.png)
 
 1. Recherchez et sélectionnez le champ à renommer, puis cliquez sur le nom du champ dans la zone de travail.
+
+   ![](assets/rename-a-field-3.png)
 
    >[!TIP]
    >
    >Cliquez sur le bouton **Utilisé par** lien pour rechercher les ressources qui font référence à ce champ.
 
-   ![](assets/changefieldname.png)
-
 1. Renommez le champ et cliquez sur **Enregistrer**.
 
-   ![](assets/image2014-9-24-14-2-55.png)
+   ![](assets/rename-a-field-4.png)
 
 Beau boulot ! Vous savez maintenant comment renommer des champs dans Marketo.
 

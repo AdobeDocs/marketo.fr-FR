@@ -3,10 +3,10 @@ unique-page-id: 2360337
 description: Créer et utiliser un champ de chaîne concaténée (formule) - Documents Marketo - Documentation du produit
 title: Créer et utiliser un champ de chaîne concaténée (formule)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 0%
+source-wordcount: '173'
+ht-degree: 2%
 
 ---
 
@@ -14,29 +14,33 @@ ht-degree: 0%
 
 Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une valeur conditionnelle à l’aide d’un champ Formule Marketo .
 
-1. Accédez à **Administration** et cliquez sur **Gestion des champs**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-19-9-3a44-3a58.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
+
+1. Cliquez sur **Gestion des champs**.
+
+   ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
 1. Cliquez sur **Nouveau champ personnalisé**.
 
-   ![](assets/image2014-9-19-9-3a45-3a8.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
 1. Sélectionner **Formule** pour le **Type**.
 
-   ![](assets/image2014-9-19-9-3a45-3a17.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
 1. Saisissez un **Nom** pour votre champ, puis cliquez sur **Créer**.
 
-   ![](assets/image2014-9-19-9-3a46-3a0.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
 1. Recherchez et sélectionnez votre champ de formule, puis cliquez sur **Modifier des règles**.
 
-   ![](assets/image2014-9-19-9-3a46-3a13.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
 1. Ajoutez deux options et définissez-les comme la capture d’écran ci-dessous.
 
-   ![](assets/image2014-9-19-9-3a46-3a25.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-7.png)
 
    >[!TIP]
    >
@@ -44,7 +48,7 @@ Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une val
 
 1. Vous pouvez maintenant ajouter le champ de formule en tant que jeton dans un email.
 
-   ![](assets/seven.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-8.png)
 
 >[!NOTE]
 >

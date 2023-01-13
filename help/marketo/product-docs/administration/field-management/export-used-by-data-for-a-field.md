@@ -3,10 +3,10 @@ unique-page-id: 45417092
 description: Exportation utilisée par les données pour un champ - Documents Marketo - Documentation du produit
 title: Exporter les données utilisées pour un champ
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 4%
 
 ---
 
@@ -18,25 +18,25 @@ En tant qu’administrateur, vous avez la possibilité d’exporter les ressourc
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/one.png)
+   ![](assets/export-used-by-data-for-a-field-1.png)
 
 1. Cliquez sur **Gestion des champs**.
 
-   ![](assets/two-3.png)
+   ![](assets/export-used-by-data-for-a-field-2.png)
 
 1. Recherchez le champ de votre choix et sélectionnez-le.
 
-   ![](assets/three.png)
+   ![](assets/export-used-by-data-for-a-field-3.png)
 
 1. Cliquez sur le bouton **Actions de champ** et sélectionnez **Exporter utilisée par**.
 
-   ![](assets/four.png)
+   ![](assets/export-used-by-data-for-a-field-4.png)
 
 1. Un fichier Excel est alors exporté. Ouvrez-le pour en afficher le contenu.
 
-   ![](assets/five-1.png)
+   ![](assets/export-used-by-data-for-a-field-5.png)
 
    >[!TIP]
    >

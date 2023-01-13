@@ -3,10 +3,10 @@ unique-page-id: 2360333
 description: Masquage et affichage d’un champ - Documents Marketo - Documentation du produit
 title: Masquage et affichage d’un champ
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '183'
+ht-degree: 6%
 
 ---
 
@@ -20,13 +20,17 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo, vous pouvez le
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à **Administration** et cliquez sur **Gestion des champs**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-18-13-3a10-3a3.png)
+   ![](assets/hide-and-unhide-a-field-1.png)
+
+1. Cliquez sur **Gestion des champs**.
+
+   ![](assets/hide-and-unhide-a-field-2.png)
 
 1. Recherchez le champ, sélectionnez-le, puis sous **Actions de champ** click **Masquer le champ**.
 
-   ![](assets/fieldmanagement-hidefield-.png)
+   ![](assets/hide-and-unhide-a-field-3.png)
 
    >[!NOTE]
    >
@@ -34,21 +38,25 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo, vous pouvez le
 
 1. Cliquez sur **Masquer** pour confirmer.
 
-   ![](assets/image2014-9-18-13-3a10-3a36.png)
+   ![](assets/hide-and-unhide-a-field-4.png)
 
    Beau travail ! Vous savez maintenant comment masquer un champ dans l’interface utilisateur de Marketo.
 
-   ![](assets/image2014-9-18-13-3a10-3a45.png)
+   ![](assets/hide-and-unhide-a-field-5.png)
 
 ## Afficher un champ {#unhide-a-field}
 
-1. Accédez à **Administration** et cliquez sur **Gestion des champs**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-18-13-3a11-3a3.png)
+   ![](assets/hide-and-unhide-a-field-6.png)
+
+1. Cliquez sur **Gestion des champs**.
+
+   ![](assets/hide-and-unhide-a-field-7.png)
 
 1. Recherchez et sélectionnez le champ. Dans la liste déroulante Actions de champ , cliquez sur **Afficher le champ**.
 
-   ![](assets/image2014-9-18-13-3a11-3a46.png)
+   ![](assets/hide-and-unhide-a-field-8.png)
 
    Bon travail ! Vous savez maintenant comment afficher les champs et les rendre à nouveau visibles dans l’interface utilisateur de Marketo.
 
