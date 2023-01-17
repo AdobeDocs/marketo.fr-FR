@@ -3,10 +3,10 @@ unique-page-id: 10100275
 description: Ajout/modification/suppression de champs d’activité personnalisés Marketo - Documents Marketo - Documentation du produit
 title: Ajouter/Modifier/Supprimer des champs d’activité personnalisés Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 0%
+source-wordcount: '315'
+ht-degree: 4%
 
 ---
 
@@ -16,21 +16,29 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
 ## Ajouter un champ d’activité personnalisé {#add-a-custom-activity-field}
 
-1. Dans Activités personnalisées Marketo, cliquez sur **Champs**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/one-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
+
+1. Cliquez sur **Activités personnalisées Marketo**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
+
+1. Cliquez sur **Champs**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
 1. Sélectionnez l’activité personnalisée à laquelle vous souhaitez ajouter un champ.
 
-   ![](assets/two-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
 1. Cliquez sur **Nouveau champ**.
 
-   ![](assets/three-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
 1. Sélectionnez le type de données du champ.
 
-   ![](assets/four-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
    >[!TIP]
    >
@@ -38,31 +46,39 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
 1. Attribuez un nom au champ. Le nom de l’API est automatiquement renseigné. Lorsque vous avez terminé, cliquez sur **Enregistrer**.
 
-   ![](assets/five-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
    C&#39;est tout ! Votre nouveau champ a été ajouté.
 
 ## Modification d’un champ d’activité personnalisé {#edit-a-custom-activity-field}
 
-1. Dans Activités personnalisées Marketo, cliquez sur **Champs**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/one-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
+
+1. Cliquez sur **Activités personnalisées Marketo**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
+
+1. Cliquez sur **Champs**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
 1. Sélectionnez l’activité personnalisée qui contient le champ à modifier.
 
-   ![](assets/seven.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
 1. Sélectionnez le champ à modifier, puis cliquez sur le bouton **Actions de champ** , puis sélectionnez **Modifier le champ**.
 
-   ![](assets/eight.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
    La fenêtre contextuelle Modifier le champ s’affiche. Dans cet exemple, changeons le nom du champ.
 
-   ![](assets/nine.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
 1. Saisissez le nouveau nom et le nouveau nom de l’API, puis cliquez sur **Enregistrer**.
 
-   ![](assets/ten.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
@@ -80,16 +96,22 @@ Votre champ est maintenant modifié !
 
 ## Suppression d’un champ d’activité personnalisé {#delete-a-custom-activity-field}
 
-1. Dans Activités personnalisées Marketo, cliquez sur **Champs**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/one-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
+
+1. Cliquez sur **Activités personnalisées Marketo**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
+
+1. Cliquez sur **Champs**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 
 1. Sélectionnez l’activité personnalisée qui contient le champ que vous souhaitez supprimer.
 
-   ![](assets/twelve.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
 1. Sélectionnez le champ à supprimer, puis cliquez sur le bouton **Actions de champ** , puis sélectionnez **Supprimer le champ**.
 
-   ![](assets/thirteen.png)
-
-   C&#39;est si facile !
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)

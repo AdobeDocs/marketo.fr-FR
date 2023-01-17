@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Présentation des objets personnalisés Marketo - Documents Marketo - Documentation du produit
 title: Présentation des objets personnalisés Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '672'
 ht-degree: 2%
 
 ---
@@ -42,15 +42,21 @@ Plusieurs à plusieurs objets personnalisés utilisent deux champs de lien, fais
 
 ## Accès aux objets personnalisés de Marketo {#accessing-marketo-custom-objects}
 
-1. Pour créer ou modifier des objets personnalisés Marketo, cliquez sur **Administration** puis le **Objets personnalisés Marketo** lien.
+1. Cliquez sur l&#39;icône **Admin**.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. L’affichage Objets personnalisés Marketo répertorie tous vos objets personnalisés à droite, mais uniquement ceux approuvés dans la grille principale.
+1. Cliquez sur **Objets personnalisés Marketo**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
-1. La grille affiche le nom de l’objet, le nombre d’enregistrements, le nombre de champs et la date de la mise à jour la plus récente.
+1. L’affichage Objets personnalisés Marketo répertorie tous vos objets personnalisés à droite, mais uniquement ceux approuvés dans la grille principale.
+
+   ![](assets/understanding-marketo-custom-objects-3.png)
+
+   >[!NOTE]
+   >
+   >La grille affiche le nom de l’objet, le nombre d’enregistrements, le nombre de champs et la date de la mise à jour la plus récente.
 
    >[!TIP]
    >
@@ -58,7 +64,7 @@ Plusieurs à plusieurs objets personnalisés utilisent deux champs de lien, fais
 
 1. Cliquez sur le nom de l’objet à droite pour ouvrir la page de détails.
 
-   ![](assets/understanding-marketo-custom-objects-3.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
 ## Affichage des objets personnalisés associés à une personne {#view-custom-objects-associated-to-a-person}
 
@@ -66,19 +72,19 @@ Après avoir créé la structure d’objet personnalisé, lorsque vous chargez l
 
 1. Accédez à **Base**.
 
-   ![](assets/understanding-marketo-custom-objects-4.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
 1. Ouvrez votre base de données et cliquez sur le bouton **Personnes** . Double-cliquez sur l’enregistrement d’une personne que vous avez associée à un objet personnalisé.
 
-   ![](assets/understanding-marketo-custom-objects-5.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. Sur la page Détails de la personne, cliquez sur le **Objets personnalisés** . Sélectionnez l’objet dans la liste déroulante.
 
-   ![](assets/understanding-marketo-custom-objects-6.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. Vous pouvez désormais afficher la liste de tous les objets personnalisés de ce type qui sont associés à cette personne.
 
-   ![](assets/understanding-marketo-custom-objects-7.png)
+   ![](assets/understanding-marketo-custom-objects-8.png)
 
 ## Utilisation d’objets personnalisés avec des entreprises {#using-custom-objects-with-companies}
 
@@ -86,7 +92,7 @@ Un objet personnalisé lié à l’entreprise fonctionne mieux si vous synchroni
 
 Si plusieurs personnes dans Marketo sont des enregistrements dans les enregistrements CRM ou Marketo uniquement, un objet personnalisé lié à une entreprise ne sera pas associé à plusieurs enregistrements individuels. Cela est dû au fait qu’une société comptant plusieurs personnes en-dessous est prise en charge uniquement lorsque les entreprises sont synchronisées à partir du CRM ou si vous utilisez une API pour créer explicitement des entreprises.
 
-Les objets personnalisés ne peuvent être associés directement qu’à un seul enregistrement. Cela signifie que lorsque votre type d’objet personnalisé est lié par champ d’entreprise, vous devez vous assurer que vos enregistrements de personne sont associés à une entreprise à l’aide de la conversion de contact dans votre CRM ou à l’aide du champ externalCompanyId si vous gérez des entreprises à l’aide des API REST de Marketo. Pour les enregistrements de personne qui ne sont pas liés explicitement aux enregistrements de l’entreprise, les objets personnalisés liés à l’aide de l’entreprise sont liés de manière aléatoire à un seul enregistrement, même si la valeur du champ de l’entreprise est partagée par de nombreuses personnes.
+Les objets personnalisés ne peuvent être associés directement qu’à un seul enregistrement. Cela signifie que lorsque votre type d’objet personnalisé est lié par champ d’entreprise, vous devez vous assurer que vos enregistrements de personne sont associés à une entreprise à l’aide de la conversion de contact dans votre CRM ou à l’aide du champ externalCompanyId si vous gérez des entreprises à l’aide des API REST Marketo. Pour les enregistrements de personne qui ne sont pas liés explicitement aux enregistrements de l’entreprise, les objets personnalisés liés à l’aide de l’entreprise sont liés de manière aléatoire à un seul enregistrement, même si la valeur du champ de l’entreprise est partagée par de nombreuses personnes.
 
 Voir [Importer des données d’objet personnalisées](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) pour plus d’informations.
 
