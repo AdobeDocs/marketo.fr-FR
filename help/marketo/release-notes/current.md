@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 8cb8f1d564ccfba5c3861370c7624069a08be712
+source-git-commit: 591dff8db13e22eb129f6e30ecb90f3b7238652b
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '635'
 ht-degree: 9%
 
 ---
@@ -175,20 +175,6 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 </table>
 
 * **Notifications par e-mail de réunion planifiées pour la conversation dynamique**: Lorsqu’une réunion est enregistrée sur le calendrier d’un agent, celui-ci reçoit une notification par e-mail à propos de la réservation, y compris des informations détaillées sur l’engagement de messagerie instantanée du visiteur.
-
-<table> 
-  <tr> 
-   <td><b>Statut</b></td>
-   <td><b>Mises à jour de la documentation</b></td>
-  </tr>
-  <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Rapport Engagement dans le dialogue pour la conversation dynamique**: Fournit une vue de l’engagement Dialogue au fil du temps, y compris la possibilité de filtrer par type de visiteur et type d’engagement.
 
 <table> 
   <tr> 
