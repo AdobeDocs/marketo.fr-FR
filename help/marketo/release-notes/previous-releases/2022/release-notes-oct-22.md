@@ -1,9 +1,9 @@
 ---
 description: Notes de mise à jour - Octobre 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Octobre 2022
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '600'
 ht-degree: 5%
 
 ---
@@ -179,7 +179,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
    <td>s/o</td>
   </tr>
   </tbody>
