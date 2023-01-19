@@ -3,10 +3,10 @@ unique-page-id: 10093688
 description: Ajout de champs d’objet personnalisés Marketo - Documents Marketo - Documentation du produit
 title: Ajout de champs d’objet personnalisés Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 0%
+source-wordcount: '292'
+ht-degree: 1%
 
 ---
 
@@ -16,17 +16,21 @@ Après avoir créé un objet personnalisé, vous devez y ajouter des champs pour
 
 Les champs définissent les informations spécifiques utilisées par un objet personnalisé. Les champs de lien ont une tâche spéciale, permettant de connecter des objets personnalisés, et sont couverts par une [article distinct](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Cliquez sur **Administration** et dans **Gestion de base de données**, sélectionnez **Objets personnalisés Marketo**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2016-1-18-9-3a2-3a6.png)
+   ![](assets/add-marketo-custom-object-fields-1.png)
+
+1. Cliquez sur **Objets personnalisés Marketo**.
+
+   ![](assets/add-marketo-custom-object-fields-2.png)
 
 1. Sélectionnez l’objet auquel vous souhaitez ajouter le champ à droite.
 
-   ![](assets/image2016-1-18-9-3a5-3a3.png)
+   ![](assets/add-marketo-custom-object-fields-3.png)
 
 1. Dans le **Champs** , cliquez sur **Nouveau champ**.
 
-   ![](assets/image2015-9-15-16-3a53-3a40.png)
+   ![](assets/add-marketo-custom-object-fields-4.png)
 
    >[!NOTE]
    >
@@ -34,7 +38,7 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
 
 1. Saisissez un nom d’affichage et une description.
 
-   ![](assets/image2015-10-5-11-3a35-3a48.png)
+   ![](assets/add-marketo-custom-object-fields-5.png)
 
    >[!NOTE]
    >
@@ -42,11 +46,11 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
 
 1. Sélectionnez maintenant un type de données approprié dans la liste.
 
-   ![](assets/image2015-10-5-11-3a37-3a24.png)
+   ![](assets/add-marketo-custom-object-fields-6.png)
 
 1. Survolez le curseur Déduplication si vous souhaitez utiliser le nouveau champ comme identifiant unique. Cliquez sur **Enregistrer** à la fin.
 
-   ![](assets/image2015-10-5-11-3a40-3a12.png)
+   ![](assets/add-marketo-custom-object-fields-7.png)
 
    >[!TIP]
    >

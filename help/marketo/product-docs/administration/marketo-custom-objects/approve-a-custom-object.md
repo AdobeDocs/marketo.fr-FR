@@ -3,10 +3,10 @@ unique-page-id: 10094188
 description: Approbation d’un objet personnalisé - Documents Marketo - Documentation du produit
 title: Approbation d’un objet personnalisé
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 0%
+source-wordcount: '278'
+ht-degree: 1%
 
 ---
 
@@ -18,17 +18,25 @@ Vous devez approuver un objet personnalisé avant de pouvoir l’utiliser. Le pr
 
 Vous avez créé un nouvel objet personnalisé. Voici comment l&#39;approuver.
 
-1. Dans Admin, cliquez sur **Objets personnalisés Marketo** et sélectionnez un objet dont l’état est En création.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/one.png)
+   ![](assets/approve-a-custom-object-1.png)
+
+1. Cliquez sur **Objets personnalisés Marketo**.
+
+   ![](assets/approve-a-custom-object-2.png)
+
+1. Sélectionnez un objet dont l’état est En création.
+
+   ![](assets/approve-a-custom-object-3.png)
 
 1. Cliquez sur le bouton **Actions d’objet personnalisées** et sélectionnez **Approuver l’objet**.
 
-   ![](assets/two.png)
+   ![](assets/approve-a-custom-object-4.png)
 
 1. L’état devient Approuvé.
 
-   ![](assets/three.png)
+   ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
@@ -48,12 +56,12 @@ Après avoir modifié un objet personnalisé approuvé, vous devez approuver le 
 
 1. Lorsque vous modifiez un objet personnalisé déjà approuvé, il reçoit l’état Approuvé avec brouillon .
 
-   ![](assets/four.png)
+   ![](assets/approve-a-custom-object-6.png)
 
 1. Lorsque vous êtes prêt à approuver le brouillon, cliquez sur le **Actions d’objet personnalisées** et sélectionnez **Approuver l’objet**.
 
-   ![](assets/five-1.png)
+   ![](assets/approve-a-custom-object-7.png)
 
 1. Un aperçu affiche les éléments qui ont été modifiés dans le brouillon. Cliquez sur **Approuver**.
 
-   ![](assets/six-1.png)
+   ![](assets/approve-a-custom-object-8.png)
