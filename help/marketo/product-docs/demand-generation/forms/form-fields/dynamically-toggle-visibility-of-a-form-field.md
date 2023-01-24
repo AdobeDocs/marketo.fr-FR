@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: Activer/désactiver dynamiquement la visibilité d’un champ de formulaire - Documents Marketo - Documentation du produit
 title: Activer/désactiver dynamiquement la visibilité d’un champ de formulaire
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0aa754bb3fb9057aaec87dc41743711fb15f8d62
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,9 @@ L’une des fonctionnalités les plus intéressantes des formulaires Marketo est
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 Et voilà ! Désormais, lorsque des personnes remplissent ce formulaire et sélectionnent Etats-Unis pour le pays, le champ Etat s’affiche de manière dynamique avec les choix spécifiés.
+
+>[!IMPORTANT]
+>
+>Le comportement des champs de formulaire fonctionne parfaitement lorsque les valeurs de champ sont définies/mises à jour au moyen d’un script personnalisé utilisant [Fonctions d’API](https://developers.marketo.com/javascript-api/forms/){target="_blank"} dans Forms 2.0.
+>
+>Les champs conditionnels peuvent ne pas fonctionner comme prévu si les valeurs de champ sont modifiées par des scripts externes autres que l’API JavaScript Forms 2.0.
