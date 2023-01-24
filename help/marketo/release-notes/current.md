@@ -2,10 +2,10 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 591dff8db13e22eb129f6e30ecb90f3b7238652b
+source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 9%
+source-wordcount: '636'
+ht-degree: 8%
 
 ---
 
@@ -104,8 +104,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informations sur l’API d’exportation en bloc</a></td>
   </tr>
   </tbody>
 </table>
