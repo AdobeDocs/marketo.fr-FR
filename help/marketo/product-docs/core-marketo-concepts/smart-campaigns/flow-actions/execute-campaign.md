@@ -2,9 +2,9 @@
 description: Exécuter Campaign - Documents Marketo - Documentation du produit
 title: Lancer la campagne
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '708'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Vous pouvez réaliser de nombreuses actions avec une campagne exécutable. Ils s
 
 Vous pouvez également les utiliser lorsque vous devez exécuter un flux distinct, mais vous devez dépendre des résultats de ce flux dans les choix d’étapes de flux suivants (c’est-à-dire, si cela se produit).
 
-Exécuter Campaign est une amélioration de la fonctionnalité [Demande de campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), car il peut s’exécuter en série ou en parallèle, tandis que ce dernier s’exécute uniquement en parallèle.
+Exécuter Campaign est une amélioration de la fonctionnalité [Demande de campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), car il peut s’exécuter en série, tandis que la seconde ne s’exécute qu’en parallèle.
 
 >[!NOTE]
 >

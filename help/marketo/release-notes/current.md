@@ -2,10 +2,10 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 8%
+source-wordcount: '603'
+ht-degree: 9%
 
 ---
 
@@ -190,4 +190,4 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 **_Webinaire sur la version du produit_**
 
-Vous souhaitez en savoir plus sur ces fonctionnalités et améliorations ? Veillez à [enregistrer maintenant](https://engage.marketo.com/2023_January_Release_Webinar_RegistrationPage.html) pour nous rejoindre le 24 janvier à 9h00 PT / 12h00 ET pour un webinaire en direct avec notre équipe produit afin de plonger plus profondément dans ces innovations.
+[Webinaire de mise à jour du Marketo Engage d’octobre 2022 et de janvier 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
