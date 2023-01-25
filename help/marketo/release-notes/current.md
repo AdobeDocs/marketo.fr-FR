@@ -2,10 +2,10 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
+source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 9%
+source-wordcount: '597'
+ht-degree: 8%
 
 ---
 
@@ -126,8 +126,8 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -140,8 +140,8 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendrier</a></td>
   </tr>
   </tbody>
 </table>
@@ -168,8 +168,8 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -182,8 +182,8 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Réunions</a></td>
   </tr>
   </tbody>
 </table>

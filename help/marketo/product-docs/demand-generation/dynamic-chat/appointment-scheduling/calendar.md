@@ -2,10 +2,10 @@
 description: Calendrier - Documents Marketo - Documentation du produit
 title: Calendrier
 exl-id: 351241e4-15b3-4547-83fe-a8ec1d89c1b0
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '118'
+ht-degree: 1%
 
 ---
 
@@ -20,3 +20,7 @@ Une fois que le calendrier d’un utilisateur est connecté à Dynamic Chat, il 
 Les utilisateurs peuvent également personnaliser le corps de l’invitation envoyée au visiteur lorsqu’il planifie un rendez-vous dans le calendrier de l’utilisateur. Ils peuvent également cocher la case en bas pour inclure un lien Google Meet ou Microsofts Teams (selon le calendrier qui a été connecté).
 
 ![](assets/calendar-2.png)
+
+>[!TIP]
+>
+>Utilisez l’icône de jeton (accolades) pour personnaliser les emails de confirmation de réservation de réunions à l’aide des attributs de personne ou de société.
