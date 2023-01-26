@@ -2,9 +2,9 @@
 description: Présentation - Documents Marketo - Documentation du produit
 title: APERÇU
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
+source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 7%
 
 ---
@@ -208,4 +208,4 @@ Découvrez la nouvelle navigation globale.
 >
 >L’utilisation de la recherche dans l’arborescence ne produira que les résultats de la section dans laquelle vous vous trouvez (par exemple, les activités marketing). Si vous souhaitez rechercher l’instance entière, utilisez la recherche globale.
 
-Profitez de la nouvelle expérience du Marketo Engage et veillez à partager vos commentaires !
+Profitez de la nouvelle expérience du Marketo Engage !
