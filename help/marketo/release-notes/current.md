@@ -2,10 +2,10 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '632'
-ht-degree: 8%
+source-wordcount: '631'
+ht-degree: 7%
 
 ---
 
@@ -36,8 +36,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Basculer entre les deux</a></td>
   </tr>
   </tbody>
 </table>
@@ -78,7 +78,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 </br>
 
-* **Marketo Measurement Ultimate**: Permet l’attribution B2B complète pour les entreprises disposant de plusieurs instances CRM et/ou de Marketo Engage et de différents besoins en données sources. Il fournit également une solution d’attribution B2B pour la plateforme RT-CDP d’Adobe via des données AEP partagées.
+* **Marketo Measure Ultimate**: Permet l’attribution B2B complète pour les entreprises disposant de plusieurs instances CRM et/ou de Marketo Engage et de différents besoins en données sources. Il fournit également une solution d’attribution B2B pour la plateforme RT-CDP d’Adobe via des données AEP partagées.
 
 <table> 
   <tr> 
