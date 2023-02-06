@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 3cc2fbff42aec23a96ccb09b3c14a90c7e8d39b9
 workflow-type: tm+mt
-source-wordcount: '8833'
+source-wordcount: '8827'
 ht-degree: 5%
 
 ---
@@ -1675,7 +1675,6 @@ ht-degree: 5%
          + [Paramètres de statistiques sur les performances](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [Présentation des tendances des statistiques sur les performances](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [Configuration des informations de performances](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
-         + [Synchronisation des champs personnalisés avec les informations sur les performances](product-docs/reporting/performance-insights/sync-custom-fields-to-performance-insights.md)
       + Revenue Cycle Analytics {#revenue-cycle-analytics}
          + Analyse de l’e-mail {#email-analysis}
             + [Créer un rapport d’analyse des emails qui répertorie les pistes](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
