@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importation d’un programme - Documents Marketo - Documentation du produit
 title: Importation d’un programme
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -59,31 +59,6 @@ Une fois l&#39;import terminé, vous recevrez une confirmation par email.
 >[!NOTE]
 >
 >Vous devrez replanifier les campagnes par lots importées et activer les campagnes de déclenchement. Le système désactive automatiquement les plannings de campagne et déclenche les campagnes dans le programme importé.
-
-## Identification des programmes prédéveloppés dans la bibliothèque de programmes Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
-
-La bibliothèque de programmes Marketo contient des programmes prédéfinis et testés que vous pouvez importer dans votre abonnement. Les programmes disponibles incluent :
-
-1. **Des soins de base.** Envoie une série d’emails séparés par des étapes d’attente.
-1. **Gestion des données.** Maintient l’intégrité des données à l’aide de campagnes intelligentes.
-1. **Courrier électronique avec page d’entrée.** Envoie un premier courrier électronique avec une offre, par exemple &quot;Téléchargez ce livre blanc&quot;. Suit un email de confirmation ou de rappel. Inclut une landing page avec un formulaire.
-1. **Courrier électronique avec états de progression.** Envoie un message avec un lien pouvant faire l’objet d’un suivi que la personne à cliquer. Met à jour l’état de progression de chaque personne (Envoyé, Ouvert, Cliqué, etc.).
-1. **Moments significatifs.** Crée des moments intéressants pour que votre équipe de vente les conserve dans la boucle.
-1. **Page d’entrée avec la réponse automatique.** Utilisez du contenu téléchargeable pour obtenir de nouvelles personnes et les nourrir. Inclut des landing pages et des formulaires.
-1. **Cycle de vie 2.** Utilise la notation pour faire passer une personne du nouveau au marketing qualifié.
-1. **Modèle de courrier électronique mobile.** Modèle de courrier électronique réactif testé par rapport à iPhone et Android. Certaines versions d’Android, MS Outlook, Exchange et d’applications tierces telles que Gmail et Yahoo! Les applications mobiles de messagerie ne prennent pas en charge le code CSS requis pour les modèles réactifs. Nous vous recommandons de tester avant d’envoyer des emails.
-1. **Tirage d’importation de programme.** Programme Tirage pour ceux qui essaient la bibliothèque du programme ! Validez simplement les emails et la landing page et activez la campagne dynamique. Visualisez ensuite la landing page validée, remplissez le formulaire, et vous êtes alors inscrit !
-1. **Campagnes disponibles des ventes.** Donne à vos commerciaux le moyen d’exécuter des campagnes dynamiques Marketo à partir d’un tableau de bord dans votre gestion de la relation client.
-1. **Notation - Édition Spark.** Score démographique et comportemental capturé dans un champ de notation unique. Inclut plus de deux douzaines de campagnes liées à la notation.
-1. **Notation - Éditions Standard et Sélectionner .** Score démographique et comportemental capturé dans des champs de notation distincts. Inclut plus de deux douzaines de campagnes liées à la notation.
-1. **Synchroniser les nouvelles personnes avec le CRM.** La campagne qui synchronise les nouvelles personnes dans votre système CRM. Il attribue un statut de personne de sorte qu’il soit reconnu comme n’étant pas prêt pour les ventes.
-1. **Webinaire avec adaptateur d’événement.** Un ensemble complet d’emails (ex. : invitations et rappels) ainsi que des landing pages avec des formulaires et des campagnes pour déplacer des personnes dans le programme. Ce programme reçoit des mises à jour sur l&#39;inscription, l&#39;assiduité, etc. des fournisseurs d’événements en ligne tels que WebEx.
-1. **Webinaire sans adaptateur d’événement.** Comme ci-dessus, mais avec des processus manuels d&#39;enregistrement, de présence, etc.
-1. **Programme de notation des décisions Sirius**. Ce programme est conçu pour prendre en charge le modèle de notation standard des décisions Sirius, y compris les règles de notation implicites et explicites et l’affectation de personne matrifiée.
-
->[!CAUTION]
->
->Vous devez créer deux champs personnalisés (&quot;Score démographique&quot; et &quot;Score comportemental&quot;) avant d’importer le programme Scoring - Standard &amp; Select Editions .
 
 ## Impact sur les ressources externes lors des importations de programme {#impact-on-external-assets-during-program-imports}
 
