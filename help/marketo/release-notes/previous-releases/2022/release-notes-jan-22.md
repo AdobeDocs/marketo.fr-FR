@@ -2,9 +2,9 @@
 description: Notes de mise à jour - Janvier 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Janvier 2022
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec783ee58e3c249da036d4770231eb9d7ef61bbd
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '889'
 ht-degree: 3%
 
 ---
@@ -81,8 +81,6 @@ Les clients Marketo Engage qui utilisent également Adobe Experience Platform (A
 * **Obsolescence du Marketo Sky**: En mars, Marketo Sky ne sera plus disponible, car nous concentrons nos ressources sur la diffusion de l’expérience utilisateur de nouvelle génération. Afin de maintenir l’accès aux fonctionnalités exclusives à Marketo Sky aujourd’hui, nous incluons l’expiration des ressources et le remplacement de la priorité des campagnes dynamiques dans l’expérience principale en mars. [Cliquez ici](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) pour en savoir plus.
 
 * **Obsolescence des points de fin de formulaire**: Les POST de formulaire programmatique non pris en charge vers le point de terminaison leadCapture/save2 seront rejetés par les formulaires Marketo Engage. [Cliquez ici](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) pour en savoir plus.
-
-* **Boîte de dialogue d’invitation**: En mars, la fonctionnalité facultative existante &quot;Connexion à la boîte de dialogue d’invitation d’utilisateur&quot; sera abandonnée. La fonctionnalité &quot;Connexion à la boîte de dialogue d’invitation d’utilisateur&quot; est remplacée par la fonctionnalité d’ID universel, qui est requise pour l’intégration système Identity Management à Adobe à venir et qui a été activée en août 2021 sur tous les abonnements. En raison de cette obsolescence, Marketo Engage impose qu’un seul utilisateur soit associé par adresse électronique dans un abonnement.
 
 **Domaines Marketo Engage - Configuration de Sales Insight**: Pour les domaines de Marketo Engage pour lesquels le certificat SSL n’est pas configuré et https://, les appels échouent avec une erreur de liaison SSL. Par conséquent, ces domaines vont être supprimés. Par conséquent, les utilisateurs de Sales Insight disposant d’une ancienne configuration pointant vers l’un de ces domaines peuvent rencontrer des erreurs d’légende système sur leur page Lead, contact, compte, panneaux d’opportunités ou globale Marketo. Nous vous recommandons de mettre à jour votre [Configuration du Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) dans Salesforce si vous rencontrez cette erreur. Il vous suffit de mettre à jour les informations d’identification du Marketo Engage en surbrillance dans la section &quot;Configuration de Marketo Sales Insight&quot; du document.
 
