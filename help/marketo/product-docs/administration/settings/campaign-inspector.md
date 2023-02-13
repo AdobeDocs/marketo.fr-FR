@@ -1,10 +1,10 @@
 ---
 description: Inspecteur de campagne - Documents Marketo - Documentation du produit
 title: Inspecteur de campagne
-source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
+source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 9%
+source-wordcount: '118'
+ht-degree: 7%
 
 ---
 
@@ -29,6 +29,10 @@ Utilisez l’ Inspecteur de campagne pour afficher/rechercher toutes vos campagn
 1. Sélectionnez la **Activé** , puis cliquez sur **Enregistrer**.
 
    ![](assets/campaign-inspector-4.png)
+
+   >[!NOTE]
+   >
+   >L’espace de travail souhaité doit être sélectionné dans l’arborescence pour afficher l’onglet Inspecteur de campagne une fois qu’il a été activé.
 
 ## Utilisation de l’Inspecteur de campagne {#using-campaign-inspector}
 
