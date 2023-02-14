@@ -3,7 +3,7 @@ unique-page-id: 11378713
 description: Déclenchement Des Modifications D’Objet Personnalisées - Documents Marketo - Documentation Du Produit
 title: Déclenchement Des Modifications D’Objet Personnalisé
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -30,27 +30,27 @@ Dans la liste dynamique d’une campagne dynamique, vous pouvez déclencher une 
 
 1. Dans Marketo, accédez à **Activités marketing.**
 
-   ![](assets/image2016-7-25-15-3a49-3a52.png)
+   ![](assets/trigger-off-custom-object-changes-1.png)
 
 1. Créez ou ouvrez une campagne dynamique existante, puis sélectionnez la liste dynamique.
 
-   ![](assets/image2016-7-25-16-3a9-3a19.png)
+   ![](assets/trigger-off-custom-object-changes-2.png)
 
 1. Recherchez le déclencheur dont vous avez besoin et faites-le glisser sur la zone de travail.
 
-   ![](assets/image2016-7-25-16-3a16-3a43.png)
+   ![](assets/trigger-off-custom-object-changes-3.png)
 
 1. Sélectionnez l’attribut trigger.
 
-   ![](assets/image2016-7-25-16-3a21-3a42.png)
+   ![](assets/trigger-off-custom-object-changes-4.png)
 
 1. Vous pouvez éventuellement définir une contrainte.
 
-   ![](assets/image2016-9-6-14-3a25-3a22.png)
+   ![](assets/trigger-off-custom-object-changes-5.png)
 
 1. Et voilà. La modification est enregistrée automatiquement.
 
-   ![](assets/image2016-9-6-14-3a25-3a54.png)
+   ![](assets/trigger-off-custom-object-changes-6.png)
 
    >[!NOTE]
    >

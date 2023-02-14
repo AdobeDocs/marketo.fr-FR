@@ -3,10 +3,10 @@ unique-page-id: 10093192
 description: Création d’objets personnalisés Marketo - Documents Marketo - Documentation du produit
 title: Créer des objets personnalisés Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '710'
-ht-degree: 0%
+source-wordcount: '704'
+ht-degree: 2%
 
 ---
 
@@ -26,13 +26,17 @@ Utilisez des objets personnalisés dans Marketo pour effectuer le suivi de mesur
 
 Cet exemple présente un objet personnalisé Car, à utiliser dans une structure de type &quot;un à plusieurs&quot;. Vous allez ensuite créer un objet personnalisé de cours et un objet intermédiaire à utiliser dans une structure de type &quot;plusieurs à plusieurs&quot;.
 
-1. Cliquez sur **Administration** et dans **Gestion de base de données** select **Objets personnalisés Marketo**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2016-1-18-13-3a12-3a19.png)
+   ![](assets/create-marketo-custom-objects-1.png)
+
+1. Cliquez sur **Objets personnalisés Marketo**.
+
+   ![](assets/create-marketo-custom-objects-2.png)
 
 1. Cliquez sur **Nouvel objet personnalisé**.
 
-   ![](assets/image2016-5-18-16-3a28-3a4.png)
+   ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
@@ -40,19 +44,19 @@ Cet exemple présente un objet personnalisé Car, à utiliser dans une structure
 
 1. Saisissez un nom d’affichage. Le nom de l’API et le nom du pluriel sont renseignés automatiquement. Saisissez une description (facultatif).
 
-   ![](assets/image2015-9-15-16-3a29-3a17.png)
+   ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
    >Vous pouvez modifier ces champs lorsque vous les créez, mais une fois qu’ils ont été enregistrés, vous ne pouvez modifier que le champ Nom du pluriel et le champ **Afficher dans les détails de piste** curseur.
 
-1. Extrayez le **Afficher dans les détails de piste** curseur sur lequel afficher **Afficher** si vous souhaitez afficher des données d’objet personnalisées sur la page Base de données de piste . Cliquez sur **Enregistrer**.
+1. Extrayez le **Afficher dans les détails de piste** curseur sur lequel afficher **Afficher** si vous souhaitez afficher des données d’objet personnalisées dans la page Base de données. Cliquez sur **Enregistrer**.
 
-   ![](assets/image2015-9-15-16-3a32-3a2.png)
+   ![](assets/create-marketo-custom-objects-5.png)
 
 1. Les informations d’objet personnalisé affichent le contenu que vous avez saisi. Notez qu’il est à l’état En création .
 
-   ![](assets/image2015-9-15-16-3a38-3a22.png)
+   ![](assets/create-marketo-custom-objects-6.png)
 
    L’étape suivante consiste à ajouter des champs à [créer votre objet personnalisé ;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
@@ -68,29 +72,33 @@ Cet exemple illustre un objet personnalisé de cours que vous utiliserez pour cr
 >
 >Dans le cas d’une relation multiple-à-multiple, il n’est pas nécessaire de créer un lien dans l’objet personnalisé. Vous allez ajouter deux liens à l’objet intermédiaire (voir ci-dessous).
 
-1. Cliquez sur **Administration** et dans **Gestion de base de données** select **Objets personnalisés Marketo**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2016-1-18-13-3a16-3a25.png)
+   ![](assets/create-marketo-custom-objects-7.png)
+
+1. Cliquez sur **Objets personnalisés Marketo**.
+
+   ![](assets/create-marketo-custom-objects-8.png)
 
 1. Cliquez sur **Nouvel objet personnalisé**.
 
-   ![](assets/image2016-5-18-16-3a32-3a42.png)
+   ![](assets/create-marketo-custom-objects-9.png)
 
 1. Saisissez un nom d’affichage. Le nom de l’API et le nom du pluriel sont renseignés automatiquement. Saisissez une description (facultatif).
 
-   ![](assets/image2016-1-14-13-3a38-3a46.png)
+   ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
    >Vous pouvez modifier ces champs lorsque vous les créez, mais une fois qu’ils ont été enregistrés, vous ne pouvez modifier que le champ Nom du pluriel et le champ **Afficher dans les détails de piste** curseur.
 
-1. Extrayez le **Afficher dans les détails de piste** curseur sur lequel afficher **Afficher** si vous souhaitez afficher des données d’objet personnalisées sur la page Base de données de piste . Cliquez sur **Enregistrer**.
+1. Extrayez le **Afficher dans les détails de piste** curseur sur lequel afficher **Afficher** si vous souhaitez afficher des données d’objet personnalisées dans la page Base de données. Cliquez sur **Enregistrer**.
 
-   ![](assets/image2016-1-14-13-3a42-3a56.png)
+   ![](assets/create-marketo-custom-objects-11.png)
 
 1. Les informations d’objet personnalisé affichent le contenu que vous avez saisi. Notez qu’il est à l’état En création .
 
-   ![](assets/image2016-1-18-8-3a38-3a58.png)
+   ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
@@ -106,25 +114,29 @@ Utilisez un objet intermédiaire pour connecter un objet personnalisé à des pe
 >
 >Vous n’avez pas besoin de créer un objet intermédiaire pour une structure d’objet personnalisé de type &quot;un à plusieurs&quot;.
 
-1. Cliquez sur **Administration** et dans **Gestion de base de données**, sélectionnez **Objets personnalisés Marketo**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2016-1-18-13-3a17-3a40.png)
+   ![](assets/create-marketo-custom-objects-13.png)
+
+1. Cliquez sur **Objets personnalisés Marketo**.
+
+   ![](assets/create-marketo-custom-objects-14.png)
 
 1. Cliquez sur **Nouvel objet personnalisé**.
 
-   ![](assets/image2016-5-18-16-3a33-3a16.png)
+   ![](assets/create-marketo-custom-objects-15.png)
 
 1. Saisissez un nom d’affichage. Le nom de l’API et le nom du pluriel sont renseignés automatiquement. Saisissez une description (facultatif).
 
-   ![](assets/image2016-1-14-14-3a10-3a44.png)
+   ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
    >Vous pouvez modifier ces champs lorsque vous les créez, mais une fois qu’ils ont été enregistrés, vous pouvez uniquement modifier le champ Nom du pluriel et le curseur Afficher dans les détails de la piste .
 
-1. Extrayez le **Afficher dans les détails de piste** curseur sur lequel afficher **Afficher** si vous souhaitez afficher des données d’objet personnalisées sur la page Base de données de piste . Cliquez sur **Enregistrer**.
+1. Extrayez le **Afficher dans les détails de piste** curseur sur lequel afficher **Afficher** si vous souhaitez afficher des données d’objet personnalisées dans la page Base de données. Cliquez sur **Enregistrer**.
 
-   ![](assets/image2016-1-14-14-3a12-3a49.png)
+   ![](assets/create-marketo-custom-objects-17.png)
 
 1. Les informations d’objet personnalisé affichent le contenu que vous avez saisi. Notez qu’il est à l’état En création .
 

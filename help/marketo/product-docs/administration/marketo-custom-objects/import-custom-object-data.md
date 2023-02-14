@@ -3,7 +3,7 @@ unique-page-id: 10099680
 description: Importation de données d’objet personnalisées - Documents Marketo - Documentation du produit
 title: Importer les données de l’objet personnalisé
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 3%
@@ -16,23 +16,23 @@ Il est facile d’importer des données d’objet personnalisées dans votre bas
 
 1. Dans Mon Marketo, accédez à **Base**.
 
-   ![](assets/db-1.png)
+   ![](assets/import-custom-object-data-1.png)
 
 1. Cliquez sur **Nouveau** et sélectionnez **Importer des données d’objet personnalisées**.
 
-   ![](assets/image2016-4-7-10-6-54.png)
+   ![](assets/import-custom-object-data-2.png)
 
 1. Cliquez sur **Parcourir** pour localiser le fichier de données. Sélectionnez le format de fichier (valeurs séparées par des virgules dans cet exemple).
 
-   ![](assets/image2016-4-13-14-3a21-3a53.png)
+   ![](assets/import-custom-object-data-3.png)
 
 1. Sélectionnez votre objet personnalisé.
 
-   ![](assets/image2016-4-13-14-3a24-3a54.png)
+   ![](assets/import-custom-object-data-4.png)
 
 1. Sélectionnez le mode Déduplication dans la liste déroulante. Cliquez sur **Suivant**.
 
-   ![](assets/image2016-4-13-14-3a28-3a7.png)
+   ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
@@ -40,7 +40,7 @@ Il est facile d’importer des données d’objet personnalisées dans votre bas
 
 1. Faites correspondre chaque colonne à un champ Marketo, en la sélectionnant dans la liste déroulante.
 
-   ![](assets/image2016-4-13-14-3a36-3a57.png)
+   ![](assets/import-custom-object-data-6.png)
 
    >[!NOTE]
    >
@@ -48,11 +48,11 @@ Il est facile d’importer des données d’objet personnalisées dans votre bas
 
 1. Cliquez sur **Suivant**.
 
-   ![](assets/image2016-4-13-14-3a38-3a41.png)
+   ![](assets/import-custom-object-data-7.png)
 
 1. Cliquez sur **Importer**.
 
-   ![](assets/image2016-4-7-13-3a15-3a9.png)
+   ![](assets/import-custom-object-data-8.png)
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ Il est facile d’importer des données d’objet personnalisées dans votre bas
 
 1. Dans le coin supérieur droit de l’écran, une notification s’affiche pendant l’exécution de l’importation et les résultats finaux une fois l’importation terminée.
 
-   ![](assets/image2016-4-13-14-3a41-3a1.png)
+   ![](assets/import-custom-object-data-9.png)
 
    Oui !
 
