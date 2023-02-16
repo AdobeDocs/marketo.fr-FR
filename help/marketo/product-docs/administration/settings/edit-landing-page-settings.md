@@ -3,10 +3,10 @@ unique-page-id: 2359918
 description: Modifier les paramètres de la page d’entrée - Documents Marketo - Documentation du produit
 title: Modifier les paramètres de la page d’entrée
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 2%
+source-wordcount: '259'
+ht-degree: 5%
 
 ---
 
@@ -18,15 +18,21 @@ Vous pouvez modifier le nom de domaine et la page de secours, activer ou désact
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Administration**, cliquez sur **Pages d’entrée**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-10-9-3a47-3a40.png)
+   ![](assets/edit-landing-page-settings-1.png)
+
+1. Cliquez sur **Pages de destination**.
+
+   ![](assets/edit-landing-page-settings-2.png)
 
 1. Dans le **Pages d’entrée** , cliquez sur **Modifier**.
 
-   ![](assets/image2014-9-10-9-3a47-3a12.png)
+   ![](assets/edit-landing-page-settings-3.png)
 
 1. Renseignez les informations sur votre domaine et votre page.
+
+   ![](assets/edit-landing-page-settings-4.png)
 
    | Terme | Définition |
    |---|---|
@@ -34,15 +40,13 @@ Vous pouvez modifier le nom de domaine et la page de secours, activer ou désact
    | Page de secours | C’est là que vous pouvez aller si la landing page n’existe pas ou est en panne. En savoir plus sur [pages de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Page d&#39;accueil | Saisissez l’URL de votre site d’entreprise. |
 
-   ![](assets/three.png)
-
 1. Vérifiez les **Préremplissage de formulaire** pour permettre aux formulaires de préremplir des informations pour les personnes connues (cookies). Décochez pour bloquer.
 
-   ![](assets/four.png)
+   ![](assets/edit-landing-page-settings-5.png)
 
 1. Si vous souhaitez empêcher un site malveillant d’héberger apparemment votre contenu, cochez la case **Ne pas autoriser les pages Marketo à être incorporées dans des pages web externes** .
 
-   ![](assets/five.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    >[!NOTE]
    >
@@ -52,6 +56,6 @@ Vous pouvez modifier le nom de domaine et la page de secours, activer ou désact
 
 1. Après avoir effectué vos sélections, cliquez sur **Enregistrez.**
 
-   ![](assets/six.png)
+   ![](assets/edit-landing-page-settings-7.png)
 
    Bon boulot ! Vos landing pages contiennent maintenant les informations appropriées et doivent commencer à fonctionner immédiatement.

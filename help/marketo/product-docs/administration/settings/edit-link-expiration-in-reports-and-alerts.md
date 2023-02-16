@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: Modifier l’expiration du lien dans Reports and Alertes - Documents Marketo - Documentation du produit
 title: Modifier l’expiration du lien dans les rapports et alertes
 exl-id: 9be08798-c413-451b-9b67-893042668061
-source-git-commit: 349309beb754ecd5fcfb26bbda67cda97cc4b29f
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ Les liens contenus dans les emails d’abonnement à votre rapport expirent au b
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Administration**, cliquez sur **Paramètres de connexion**.
+1. Accédez au **Administration** .
 
-   ![](assets/image2014-9-24-11-3a33-3a31.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
+
+1. Cliquez sur **Paramètres de connexion**.
+
+   ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
 1. Cliquez sur **Modifier l’expiration de l’URL**.
 
-   ![](assets/image2014-9-24-11-3a33-3a43.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
 1. Dans la liste déroulante, sélectionnez le nombre de jours avant l’expiration du lien. Cliquez sur **Enregistrer**.
 
-   ![](assets/emaillinkexpiration.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >

@@ -3,10 +3,10 @@ unique-page-id: 2360217
 description: Modification des paramètres d’attribution pour Analytics - Documents Marketo - Documentation du produit
 title: Modification des paramètres d’attribution pour Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 0%
+source-wordcount: '189'
+ht-degree: 3%
 
 ---
 
@@ -16,13 +16,17 @@ Vous pouvez modifier la manière dont Marketo lie les contacts aux opportunités
 
 Ces paramètres auront un impact sur les rapports de l’Explorateur des recettes sous [Analyse des opportunités de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analyse des opportunités](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), et les zones Analyse des pistes . Cela aura également une incidence sur le rapport Analyseur de programme.
 
-1. Sous , **Administration** , cliquez sur **Analyse du cycle des recettes**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-24-11-3a55-3a19.png)
+   ![](assets/change-attribution-settings-for-analytics-1.png)
+
+1. Cliquez sur **Analyse du cycle des recettes**.
+
+   ![](assets/change-attribution-settings-for-analytics-2.png)
 
 1. Cliquez sur le bouton **Modifier** lien sous **Attribution**.
 
-   ![](assets/image2014-9-24-11-3a56-3a33.png)
+   ![](assets/change-attribution-settings-for-analytics-3.png)
 
    >[!TIP]
    >
@@ -30,7 +34,7 @@ Ces paramètres auront un impact sur les rapports de l’Explorateur des recette
 
 1. Sélectionnez une option et cliquez sur **Enregistrer**.
 
-   ![](assets/image2014-9-24-11-3a57-3a39.png)
+   ![](assets/change-attribution-settings-for-analytics-4.png)
 
    >[!NOTE]
    >

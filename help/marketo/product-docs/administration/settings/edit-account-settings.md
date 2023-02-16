@@ -3,10 +3,10 @@ unique-page-id: 4719071
 description: Modifier les paramètres du compte - Documents Marketo - Documentation du produit
 title: Modifier les paramètres du compte
 exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 14%
+source-wordcount: '51'
+ht-degree: 23%
 
 ---
 
@@ -18,20 +18,20 @@ Vous devez modifier l’adresse électronique, le nom ou le numéro de télépho
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à **Administration**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/adminhand.png)
+   ![](assets/edit-account-settings-1.png)
 
 1. Sélectionner **Mon compte**.
 
-   ![](assets/image2015-6-23-15-3a16-3a52.png)
+   ![](assets/edit-account-settings-2.png)
 
 1. Sélectionner **Modifier les paramètres du compte**.
 
-   ![](assets/image2015-6-23-15-3a21-3a41.png)
+   ![](assets/edit-account-settings-3.png)
 
 1. Effectuez les modifications et cliquez sur **Enregistrer**.
 
-   ![](assets/image2015-6-23-15-3a20-3a16.png)
+   ![](assets/edit-account-settings-4.png)
 
    Et voilà ! Informations mises à jour.

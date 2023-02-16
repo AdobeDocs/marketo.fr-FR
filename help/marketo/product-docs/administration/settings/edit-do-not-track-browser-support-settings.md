@@ -3,7 +3,7 @@ unique-page-id: 6095047
 description: Modifier les paramètres de prise en charge du navigateur - Documents Marketo - Documentation du produit
 title: Modification des paramètres de prise en charge du navigateur "Ne pas suivre"
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -24,23 +24,23 @@ ht-degree: 0%
 
 1. Cliquez sur **Administration**.
 
-   ![](assets/one.png)
+   ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
 1. Cliquez sur **Munchkin**.
 
-   ![](assets/two.png)
+   ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
 1. Sous **Suivi des personnes**, cliquez sur **Modifier**.
 
-   ![](assets/three-2.png)
+   ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
 1. Sélectionner **Assistance** et cliquez sur **Enregistrer**.
 
-   ![](assets/four-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
    Après avoir enregistré les modifications, vous verrez la mise à jour.
 
-   ![](assets/five-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-5.png)
 
    >[!NOTE]
    >

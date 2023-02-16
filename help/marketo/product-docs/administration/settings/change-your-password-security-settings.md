@@ -3,10 +3,10 @@ unique-page-id: 2360185
 description: Modification des paramètres de protection par mot de passe - Documents Marketo - Documentation du produit
 title: Modification des paramètres de protection par mot de passe
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 0%
+source-wordcount: '171'
+ht-degree: 2%
 
 ---
 
@@ -18,21 +18,25 @@ Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment.
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Administration**, cliquez sur **Paramètres de connexion**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-16-12-3a41-3a40.png)
+   ![](assets/change-your-password-security-settings-1.png)
+
+1. Cliquez sur **Paramètres de connexion**.
+
+   ![](assets/change-your-password-security-settings-2.png)
 
 1. Sous **Paramètres de protection**, cliquez sur **Modifier**.
 
-   ![](assets/passwordsettings-hand.png)
+   ![](assets/change-your-password-security-settings-3.png)
 
 1. Sélectionnez une **Modèle**. Pour les options avancées, cliquez sur le bouton **Avancé** menu déroulant.
+
+   ![](assets/change-your-password-security-settings-4.png)
 
    >[!NOTE]
    >
    >Un modèle n’est qu’une configuration prédéfinie. Le standard est bon. La haute sécurité est la plus puissante. Personnalisé permet de créer le vôtre.
-
-   ![](assets/passwordstrength.png)
 
    >[!TIP]
    >
@@ -40,14 +44,12 @@ Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment.
 
 1. Définissez la variable **Expiration**. Cette fonctionnalité nécessite automatiquement que les utilisateurs réinitialisent leurs mots de passe après un certain temps. Cela inclut également l’utilisateur administrateur.
 
+   ![](assets/change-your-password-security-settings-5.png)
+
    >[!CAUTION]
    >
    >Les utilisateurs existants ne seront pas informés des modifications. Définir **Expiration** sur 30 jours dans un premier temps pour vous assurer que tous les utilisateurs ont mis à jour les nouveaux paramètres, puis redéfinissez ce paramètre sur votre cadence d’origine.
 
-   ![](assets/expiration.png)
-
 1. Définissez la variable **Délai d’expiration de session inactif**. Cela détermine la durée pendant laquelle un utilisateur peut être inactif avant de devoir se reconnecter à Marketo.
 
-   ![](assets/inactivesession.png)
-
-   La sécurité est une affaire sérieuse. Nous t&#39;avons récupéré.
+   ![](assets/change-your-password-security-settings-6.png)
