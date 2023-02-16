@@ -3,10 +3,10 @@ unique-page-id: 2359920
 description: Définition d’une page de secours - Documents Marketo - Documentation du produit
 title: Définition d’une page de secours
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 10%
 
 ---
 
@@ -18,16 +18,20 @@ Les pages de secours sont la dernière ligne de défense si votre page d’entr�
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Administration**, cliquez sur **Pages d’entrée**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-10-12-3a7-3a22.png)
+   ![](assets/set-a-fallback-page-1.png)
+
+1. Cliquez sur **Pages de destination**.
+
+   ![](assets/set-a-fallback-page-2.png)
 
 1. Sous , **Pages d’entrée** , cliquez sur **Modifier**.
 
-   ![](assets/image2014-9-10-12-3a7-3a5.png)
+   ![](assets/set-a-fallback-page-3.png)
 
 1. Saisissez un **Page de secours** dans la boîte de dialogue, puis cliquez sur **Enregistrer**.
 
-   ![](assets/image2014-9-10-12-3a6-3a2.png)
+   ![](assets/set-a-fallback-page-4.png)
 
 Voilà ! Vous venez d’ajouter une page de secours. Plus de 404 pages.

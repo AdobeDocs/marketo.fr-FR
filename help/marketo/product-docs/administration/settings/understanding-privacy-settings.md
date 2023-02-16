@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Présentation des paramètres de confidentialité - Documents Marketo - Documentation du produit
 title: Présentation des paramètres de confidentialité
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Marketo permet aux spécialistes du marketing d’obtenir le consentement des vi
 
 Le marketeur peut également effectuer le suivi des utilisateurs, mais utiliser une adresse IP anonyme.
 
-Ces méthodes peuvent affecter la valeur et les fonctionnalités de Marketo dans des domaines spécifiques. Cependant, si le spécialiste du marketing *does’t* modifiez tout élément de la configuration Marketo, la fonctionnalité Marketo reste la même.
+Ces méthodes peuvent avoir une incidence sur la valeur et les fonctionnalités de Marketo dans des zones spécifiques. Cependant, si le spécialiste du marketing *ne* modifiez tout élément de la configuration Marketo, la fonctionnalité Marketo reste la même.
 
 ## Paramètres du navigateur pour Ne pas effectuer de suivi {#browser-settings-for-do-not-track}
 
@@ -43,17 +43,17 @@ Vous trouverez ci-dessous des exemples de page web avec un lien d’exclusion et
 
 Voici une page web avec un bouton avec le paramètre &quot;?marketo_opt_out=true&quot; dans le lien d’exclusion.
 
-![](assets/opt-out-1.png)
+![](assets/understanding-privacy-settings-1.png)
 
 Vous pouvez créer et publier une landing page en tant que page de relance lorsque vous cliquez sur votre lien avec le paramètre &quot;?marketo_opt_out=true&quot;.
 
-![](assets/opt-out-2.png)
+![](assets/understanding-privacy-settings-2.png)
 
 Lorsque vous cliquez sur le lien, Marketo ajoute un cookie appelé **mkto_opt_out** au navigateur du visiteur qui désactive le suivi Munchkin pour le visiteur du site qui clique sur le lien avec le paramètre ci-dessus.
 
 Pour vérifier que le cookie peut être implanté, vérifiez que vous êtes une piste avec cookie et cliquez sur le lien. Vérifiez ensuite les cookies de votre navigateur pour vérifier que la variable **mkto_opt_out** a été ajouté.
 
-![](assets/opt-out-3.png)
+![](assets/understanding-privacy-settings-3.png)
 
 >[!NOTE]
 >
