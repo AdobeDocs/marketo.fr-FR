@@ -3,10 +3,10 @@ unique-page-id: 2360272
 description: Création d’une balise et d’une balise de programme - Documents Marketo - Documentation du produit
 title: Création d’une balise de programme et d’une valeur de balise
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 0%
+source-wordcount: '164'
+ht-degree: 3%
 
 ---
 
@@ -26,21 +26,25 @@ Vous pouvez créer des [tags](/help/marketo/product-docs/core-marketo-concepts/p
 >
 >Valeur de balise du programme : PME, Entreprise, Mid-Marché
 
-1. Sous **Administration**, cliquez sur **Balises**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-24-12-3a10-3a32.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-1.png)
+
+1. Cliquez sur **Balises**.
+
+   ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
 1. Cliquez sur **Nouveau** et sélectionnez **Nouveau type de balise**.
 
-   ![](assets/image2014-9-24-12-3a12-3a43.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
 1. Saisissez le **Type de balise** et une balise **Valeur**. Cliquez ensuite sur **Ajouter un autre**.
 
-   ![](assets/image2014-9-24-12-3a16-3a55.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
 1. Saisissez autant de valeurs que nécessaire. Sélectionnez les types de programme auxquels vous souhaitez appliquer cette balise.
 
-   ![](assets/image2014-9-24-12-3a17-3a29.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-5.png)
 
    >[!TIP]
    >
@@ -48,12 +52,12 @@ Vous pouvez créer des [tags](/help/marketo/product-docs/core-marketo-concepts/p
 
 1. Vérifier **Obligatoire** et cliquez sur **Créer**.
 
-   ![](assets/image2014-9-24-12-3a18-3a33.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
    >Si le type de balise est **Obligatoire**, les utilisateurs devront saisir une valeur pour la balise lors de la création d’un programme.
 
-   ![](assets/image2014-9-24-12-3a19-3a17.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 
 Maintenant, lorsque vos utilisateurs créent un programme, ils doivent définir la valeur personnalisée de la balise créée.

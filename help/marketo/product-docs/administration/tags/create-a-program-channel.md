@@ -3,10 +3,10 @@ unique-page-id: 2950682
 description: Création d’un canal de programme - Documents Marketo - Documentation du produit
 title: Création d’un canal de programme
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 0%
+source-wordcount: '428'
+ht-degree: 1%
 
 ---
 
@@ -22,9 +22,13 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
 >
 >En savoir plus sur [programmes](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), l’élément le plus important de Marketo.
 
-1. Sous , **Administration** , cliquez sur **Balises**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-24-12-3a57-3a27.png)
+   ![](assets/create-a-program-channel-1.png)
+
+1. Cliquez sur **Balises**.
+
+   ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
@@ -32,11 +36,11 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
 
 1. Cliquez sur le bouton **+** signe en regard de **Canal** pour développer et afficher les canaux existants.
 
-   ![](assets/image2014-9-24-12-3a58-3a33.png)
+   ![](assets/create-a-program-channel-3.png)
 
 1. Sous **Nouveau**, cliquez sur **Nouveau canal**.
 
-   ![](assets/image2014-9-24-12-3a58-3a53.png)
+   ![](assets/create-a-program-channel-4.png)
 
    >[!NOTE]
    >
@@ -60,7 +64,7 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
 
 1. Examinons l’exemple du canal Parti. Nommez votre nouveau **Canal** et sélectionnez le type de programme auquel il s&#39;appliquera.
 
-   ![](assets/image2014-9-24-13-3a0-3a17.png)
+   ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
@@ -70,12 +74,13 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
    >
    >Lors de l’utilisation de &quot;Événement avec webinaire&quot;, les mappages système sont verrouillés (comme requis par les intégrations de webinaires) et ne peuvent pas être modifiés.
 
-   Saisissez les deux premiers noms d’état du programme, puis cliquez sur Ajouter une étape.
-   ![](assets/image2014-9-24-15-3a37-3a0.png)
+1. Saisissez les deux premiers noms d’état du programme, puis cliquez sur **Ajouter une étape**.
+
+   ![](assets/create-a-program-channel-6.png)
 
 1. Entrer un autre programme **État** et **Étape** number, puis cliquez sur **Ajouter une étape**.
 
-   ![](assets/image2014-9-24-15-3a37-3a30.png)
+   ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
@@ -83,7 +88,7 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
 
 1. Entrer le dernier programme **État** et **Étape** Nombre.
 
-   ![](assets/image2014-9-24-15-3a39-3a15.png)
+   ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
@@ -91,11 +96,11 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
 
 1. Sélectionnez la variable **État de l’archivage mobile** pour **Inscrits**.
 
-   ![](assets/image2014-9-24-15-3a39-3a43.png)
+   ![](assets/create-a-program-channel-9.png)
 
 1. Sélectionnez la variable **État de l’archivage mobile** pour **Attaché**.
 
-   ![](assets/image2014-9-24-15-3a40-3a21.png)
+   ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
@@ -111,6 +116,6 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
 
 1. Sélectionnez la **Succès** état du programme, puis cliquez sur **Créer**.
 
-   ![](assets/image2014-9-24-15-3a42-3a54.png)
+   ![](assets/create-a-program-channel-11.png)
 
    C&#39;est joli ! Lorsque vous créez un nouveau programme de ce type, ce nouveau canal sera l’un des choix.
