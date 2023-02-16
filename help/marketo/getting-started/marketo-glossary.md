@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossaire Marketo - Documents Marketo - Documentation du produit
 title: Glossaire Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 4%
@@ -171,7 +171,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
    <td colspan="1">Dans Marketo, vous pouvez créer des doublons de plusieurs types d’entités différents dans votre instance. Vous pouvez cloner <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programmes</a>, un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">ressource dans un programme</a>, un <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">stream</a>, etc.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">La partie avant de l’URL. Le seul mot (plus YourCompany.com) est appelé un CNAME (par exemple, <em>info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -276,7 +276,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Clés de domaine Identified Mail</a> (DKIM)</strong></td> 
-   <td colspan="1">Mécanisme d’authentification qui sécurise le domaine d’envoi, permettant aux expéditeurs d’associer le nom de domaine dans l’adresse de l’expéditeur à un message électronique spécifique. Cela permet au destinataire de savoir que l’email a été légitimement envoyé par le propriétaire du domaine. L’expéditeur signe l’email avec une signature numérique dans l’en-tête du message. Le destinataire peut déchiffrer cette signature à l’aide d’une clé publique publiée dans le DNS par le propriétaire du domaine pour s’assurer que le courrier a été légitimement envoyé par le propriétaire du domaine.</td> 
+   <td colspan="1">Mécanisme d’authentification qui sécurise le domaine d’envoi, permettant aux expéditeurs d’associer le nom de domaine dans l’adresse de l’expéditeur à un message électronique spécifique. Cela permet au destinataire de savoir que l’email a été légitimement envoyé par le propriétaire du domaine. L’expéditeur signe l’email avec une signature numérique dans l’en-tête du message. Le récepteur est en mesure de déchiffrer cette signature à l’aide d’une clé publique publiée dans le DNS par le propriétaire du domaine pour s’assurer que le courrier a été légitimement envoyé par le propriétaire du domaine.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Brouillon</strong></td> 
