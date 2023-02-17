@@ -3,10 +3,10 @@ unique-page-id: 2360274
 description: Gestion des valeurs de balise - Documents Marketo - Documentation du produit
 title: Gestion des valeurs de balise
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 0%
+source-wordcount: '177'
+ht-degree: 2%
 
 ---
 
@@ -24,29 +24,33 @@ ht-degree: 0%
 
 ## Ajout de valeurs de balise {#adding-tag-values}
 
-1. Sous **Administration**, cliquez sur **Balises**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-24-12-3a24-3a55.png)
+   ![](assets/managing-tag-values-1.png)
+
+1. Cliquez sur **Balises**.
+
+   ![](assets/managing-tag-values-2.png)
 
 1. Cliquez sur **Nouveau**, puis **Nouvelle valeur de balise**.
 
-   ![](assets/image2014-9-24-12-3a25-3a23.png)
+   ![](assets/managing-tag-values-3.png)
 
 1. Sélectionnez la **Type de balise**.
 
-   ![](assets/image2014-9-24-12-3a26-3a2.png)
+   ![](assets/managing-tag-values-4.png)
 
 1. Saisissez un **Valeur** et cliquez sur **Ajouter un autre**. Vous pouvez ajouter autant de valeurs que vous le souhaitez.
 
-   ![](assets/image2014-9-24-12-3a26-3a27.png)
+   ![](assets/managing-tag-values-5.png)
 
 1. Ajoutez les valeurs restantes et cliquez sur **Créer**.
 
-   ![](assets/image2014-9-24-12-3a26-3a55.png)
+   ![](assets/managing-tag-values-6.png)
 
 1. Vous devriez voir les modifications immédiatement !
 
-   ![](assets/image2014-9-24-12-3a27-3a34.png)
+   ![](assets/managing-tag-values-7.png)
 
 ## Masquage des valeurs de balise {#hiding-tag-values}
 
@@ -54,11 +58,11 @@ Les balises peuvent être utilisées par d’anciens programmes. Vous pouvez les
 
 1. Sélectionnez la **Balise** et sélectionnez la variable **Valeur** tu veux te cacher.
 
-   ![](assets/image2014-9-24-12-3a28-3a25.png)
+   ![](assets/managing-tag-values-8.png)
 
 1. Sous **Actions de balise**, sélectionnez **Masquer**.
 
-   ![](assets/image2014-9-24-12-3a29-3a4.png)
+   ![](assets/managing-tag-values-9.png)
 
 ## Afficher les valeurs masquées {#show-hidden-values}
 
@@ -66,6 +70,6 @@ Si vous souhaitez afficher à nouveau vos valeurs masquées, procédez comme sui
 
 1. Cochez la case Afficher les éléments masqués . Une fois cochée, la valeur masquée s’affiche.
 
-   ![](assets/image2014-9-24-12-3a29-3a58.png)
+   ![](assets/managing-tag-values-10.png)
 
 Vous pouvez ensuite afficher les valeurs que vous souhaitez utiliser ultérieurement.
