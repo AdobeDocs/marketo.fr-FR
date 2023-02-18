@@ -3,10 +3,10 @@ unique-page-id: 2360203
 description: Création d’un rôle d’utilisateur API uniquement - Documents Marketo - Documentation du produit
 title: Création d’un rôle d’utilisateur API uniquement
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 3%
 
 ---
 
@@ -18,21 +18,21 @@ Si vous souhaitez intégrer Marketo via le [API REST](https://developers.marketo
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans Mon Marketo, cliquez sur **Administration**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/adminhand-1.png)
+   ![](assets/create-an-api-only-user-role-1.png)
 
-1. Sous Sécurité, cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **Utilisateurs et rôles**.
 
-   ![](assets/two.png)
+   ![](assets/create-an-api-only-user-role-2.png)
 
 1. Cliquez sur le bouton **Rôles** puis **Nouveau rôle**.
 
-   ![](assets/image2014-9-16-13-3a47-3a12.png)
+   ![](assets/create-an-api-only-user-role-3.png)
 
 1. Saisissez un nom de rôle, sélectionnez les autorisations d’accès à l’API que vous souhaitez attribuer, puis cliquez sur **Créez.**
 
-   ![](assets/image2014-9-16-13-3a47-3a36.png)
+   ![](assets/create-an-api-only-user-role-4.png)
 
 >[!TIP]
 >
