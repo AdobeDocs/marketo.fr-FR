@@ -2,7 +2,7 @@
 description: Expiration des ressources locales - Documents Marketo - Documentation du produit
 title: Expiration des ressources locales
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Avant de pouvoir planifier l’expiration d’une ressource, l’autorisation ap
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Définissez une heure. Vous devez planifier au moins 20 minutes à l’avenir (veillez à entrer le matin et le soir). Cliquez sur **[!UICONTROL Confirmer]** une fois terminé.
+1. Définissez une heure. Vous devez planifier une heure à au moins 15 minutes à l’avenir (veillez à entrer le matin/l’après-midi). Cliquez sur **[!UICONTROL Confirmer]** une fois terminé.
 
    ![](assets/local-asset-expiration-7.png)
 
