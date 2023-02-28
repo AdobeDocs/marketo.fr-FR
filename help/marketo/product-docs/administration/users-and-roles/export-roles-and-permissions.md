@@ -2,10 +2,10 @@
 description: Exportation de rôles et d’autorisations - Documents Marketo - Documentation du produit
 title: Exportation de rôles et d’autorisations
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ Voici comment exporter tous les rôles et leurs autorisations.
 >
 >Autorisations d’administrateur requises
 
-1. Dans votre Marketo, cliquez sur **Administration**.
+1. Cliquez sur l&#39;icône **Admin**.
 
    ![](assets/export-roles-and-permissions-1.png)
 

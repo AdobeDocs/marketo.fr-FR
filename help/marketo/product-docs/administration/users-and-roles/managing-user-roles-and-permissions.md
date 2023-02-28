@@ -3,10 +3,10 @@ unique-page-id: 2359909
 description: Gestion des rôles et autorisations des utilisateurs - Documents Marketo - Documentation du produit
 title: Gestion des rôles et des autorisations des utilisateurs
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 0%
+source-wordcount: '486'
+ht-degree: 4%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Définissez, créez et modifiez des rôles utilisateur et affectez-les aux utilisateurs. Vous pouvez ainsi contrôler les zones et fonctionnalités auxquelles chaque utilisateur de Marketo a accès.
 
-Par exemple, un utilisateur marketing a généralement besoin d’un large accès dans l’application pour créer, modifier et déployer des emails, des landing pages et des programmes. En revanche, un concepteur web passe presque tout son temps dans Design Studio, en créant des ressources à utiliser dans les emails et les landing pages. Et bien que les chefs d’entreprise utilisent largement les rapports de Marketo dans la zone Analytics, ils n’ont peut-être pas besoin de créer ni de piloter eux-mêmes les ressources ou les programmes.
+Par exemple, un utilisateur marketing a généralement besoin d’un large accès dans l’application pour créer, modifier et déployer des emails, des landing pages et des programmes. En revanche, un concepteur web passe presque tout son temps dans Design Studio, en créant des ressources à utiliser dans les emails et les landing pages. Et bien que les chefs d’entreprise utilisent abondamment les rapports Marketo dans la zone Analytics, ils n’ont peut-être pas besoin de créer ni de piloter eux-mêmes les ressources ou les programmes.
 
 >[!NOTE]
 >
@@ -38,17 +38,21 @@ Si vous utilisez Marketo avec l’identité de l’Adobe, la liste des descripti
 
 Vous pouvez affecter des rôles à un utilisateur lorsque vous [créer des utilisateurs pour la première fois ;](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) ou [modification d’un utilisateur existant](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Pour modifier un utilisateur existant, accédez à **Administration** et cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-9-18-3a7-3a32.png)
+   ![](assets/managing-user-roles-and-permissions-1.png)
+
+1. Cliquez sur **Utilisateurs et rôles**.
+
+   ![](assets/managing-user-roles-and-permissions-2.png)
 
 1. Dans la liste, sélectionnez l’utilisateur que vous souhaitez modifier, puis cliquez sur **Modifier l’utilisateur**.
 
-   ![](assets/image2014-9-9-18-3a7-3a42.png)
+   ![](assets/managing-user-roles-and-permissions-3.png)
 
 1. Sous **Rôles**, sélectionnez les rôles à affecter à l’utilisateur, en fonction des autorisations dont il a besoin, puis cliquez sur **Enregistrer**.
 
-   ![](assets/image2014-9-9-18-3a7-3a57.png)
+   ![](assets/managing-user-roles-and-permissions-4.png)
 
    >[!NOTE]
    >
@@ -58,41 +62,49 @@ Vous pouvez affecter des rôles à un utilisateur lorsque vous [créer des utili
 
 Parfois, votre entreprise comporte des employés occupant des rôles très spécifiques qui nécessitent une combinaison personnalisée d’autorisations.
 
-1. Pour créer un rôle utilisateur, accédez à Admin et cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-9-18-3a8-3a12.png)
+   ![](assets/managing-user-roles-and-permissions-5.png)
+
+1. Cliquez sur **Utilisateurs et rôles**.
+
+   ![](assets/managing-user-roles-and-permissions-6.png)
 
 1. Cliquez sur le bouton **Rôles** .
 
-   ![](assets/image2014-9-9-18-3a8-3a22.png)
+   ![](assets/managing-user-roles-and-permissions-7.png)
 
 1. Cliquez sur **Nouveau rôle**.
 
-   ![](assets/image2014-9-9-18-3a8-3a38.png)
+   ![](assets/managing-user-roles-and-permissions-8.png)
 
 1. Saisissez un **Nom du rôle**, un **Description** (facultatif), puis sélectionnez les autorisations dont les utilisateurs de ce rôle auront besoin.
 
-   ![](assets/image2014-9-9-18-3a9-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-9.png)
 
 ## Modification d’un rôle {#edit-a-role}
 
 Si vous devez modifier les autorisations associées à un rôle existant, vous pouvez modifier ce rôle.
 
-1. Accédez à **Administration** et cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-9-18-3a9-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-10.png)
+
+1. Cliquez sur **Utilisateurs et rôles**.
+
+   ![](assets/managing-user-roles-and-permissions-11.png)
 
 1. Cliquez sur le bouton **Rôles** .
 
-   ![](assets/image2014-9-9-18-3a9-3a26.png)
+   ![](assets/managing-user-roles-and-permissions-12.png)
 
 1. Dans la liste, sélectionnez le rôle à modifier, puis cliquez sur **Modifier le rôle**.
 
-   ![](assets/image2014-9-9-18-3a9-3a40.png)
+   ![](assets/managing-user-roles-and-permissions-13.png)
 
 1. Modifiez la variable **Nom du rôle** et **Description** si nécessaire, puis modifiez la sélection de l’objet associé **Autorisations**.
 
-   ![](assets/image2014-9-9-18-3a10-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-14.png)
 
    >[!NOTE]
    >
@@ -102,18 +114,22 @@ Si vous devez modifier les autorisations associées à un rôle existant, vous p
 
 Si un rôle devient inutile, vous pouvez le supprimer.
 
-1. Accédez à Admin et cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-9-18-3a10-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-15.png)
+
+1. Cliquez sur **Utilisateurs et rôles**.
+
+   ![](assets/managing-user-roles-and-permissions-16.png)
 
 1. Cliquez sur le bouton **Rôles** .
 
-   ![](assets/image2014-9-9-18-3a10-3a27.png)
+   ![](assets/managing-user-roles-and-permissions-17.png)
 
 1. Dans la liste, sélectionnez le rôle à supprimer, puis cliquez sur **Supprimer le rôle**.
 
-   ![](assets/image2014-9-9-18-3a10-3a39.png)
+   ![](assets/managing-user-roles-and-permissions-18.png)
 
 1. Cliquez sur **Supprimer** pour confirmer.
 
-   ![](assets/image2014-9-9-18-3a10-3a50.png)
+   ![](assets/managing-user-roles-and-permissions-19.png)

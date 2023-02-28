@@ -3,10 +3,10 @@ unique-page-id: 2359906
 description: Gestion des utilisateurs de Marketo - Documents Marketo - Documentation du produit
 title: Gestion des utilisateurs Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 0%
+source-wordcount: '346'
+ht-degree: 6%
 
 ---
 
@@ -14,25 +14,29 @@ ht-degree: 0%
 
 ## Création d’utilisateurs {#create-users}
 
-1. Accédez à **Administration** et cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-9-11-3a34-3a58.png)
+   ![](assets/managing-marketo-users-1.png)
+
+1. Cliquez sur **Utilisateurs et rôles**.
+
+   ![](assets/managing-marketo-users-2.png)
 
 1. Cliquez sur **Inviter un nouvel utilisateur**.
 
-   ![](assets/image2014-9-9-11-3a35-3a15.png)
+   ![](assets/managing-marketo-users-3.png)
 
 1. Saisissez le **Adresse électronique**, **Prénom**, et **Nom**.
 
-   ![](assets/image2016-5-24-9-3a45-3a30.png)
+   ![](assets/managing-marketo-users-4.png)
 
 1. Vous pouvez éventuellement indiquer un motif pour l’invitation et sélectionner une date d’expiration dans la variable **Expiration d’accès** à l’aide du sélecteur de date.
 
-   ![](assets/image2016-6-29-15-3a52-3a18.png)
+   ![](assets/managing-marketo-users-5.png)
 
 1. Cliquez sur **Suivant**.
 
-   ![](assets/image2016-5-24-9-3a58-3a10.png)
+   ![](assets/managing-marketo-users-6.png)
 
    >[!TIP]
    >
@@ -44,17 +48,17 @@ ht-degree: 0%
 
 1. Sélectionnez la **Rôle** de votre choix et cliquez sur **Suivant**.
 
-   ![](assets/image2016-5-24-10-3a1-3a33.png)
+   ![](assets/managing-marketo-users-7.png)
 
 1. Si nécessaire, modifiez le message d’invitation. Cliquez sur **Envoyer**.
 
-   ![](assets/image2016-5-24-10-3a3-3a56.png)
+   ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
    >Le courrier électronique/la connexion doit être unique. si vous l’avez déjà utilisé dans une instance sandbox, vous devez en utiliser une autre en production et vice versa.
 
-   ![](assets/image2016-5-24-10-3a21-3a57.png)
+   ![](assets/managing-marketo-users-9.png)
 
    >[!NOTE]
    >
@@ -64,35 +68,41 @@ Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs e
 
 ## Supprimer les utilisateurs {#delete-users}
 
-1. Accédez à Admin et cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-9-11-3a36-3a21.png)
+   ![](assets/managing-marketo-users-10.png)
+
+1. Cliquez sur **Utilisateurs et rôles**.
+
+   ![](assets/managing-marketo-users-11.png)
 
 1. Sélectionnez l’utilisateur à supprimer, puis cliquez sur **Supprimer un utilisateur**.
 
-   ![](assets/image2014-9-9-11-3a36-3a36.png)
+   ![](assets/managing-marketo-users-12.png)
 
 1. Confirmer en cliquant sur **OK**.
 
-   ![](assets/image2014-9-9-11-3a36-3a51.png)
+   ![](assets/managing-marketo-users-13.png)
 
 ## Réinitialisation des mots de passe utilisateur {#reset-user-passwords}
 
-1. Accédez à Admin et cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur l&#39;icône Admin.
 
-   ![](assets/image2014-9-9-11-3a41-3a0.png)
+   ![](assets/managing-marketo-users-14.png)
+
+1. Cliquez sur **Utilisateurs et rôles**.
+
+   ![](assets/managing-marketo-users-15.png)
 
 1. Sélectionnez un utilisateur et cliquez sur **Réinitialiser le mot de passe**.
 
-   ![](assets/image2014-9-9-11-3a41-3a19.png)
+   ![](assets/managing-marketo-users-16.png)
 
 1. Cliquez sur **Fermer** pour fermer l’invite.
 
-   ![](assets/image2014-9-9-11-3a41-3a50.png)
+   ![](assets/managing-marketo-users-17.png)
 
 L’utilisateur recevra un courrier électronique contenant des instructions de réinitialisation de mot de passe.
-
-![](assets/image2014-9-9-11-3a45-3a53.png)
 
 >[!TIP]
 >
@@ -100,17 +110,21 @@ L’utilisateur recevra un courrier électronique contenant des instructions de 
 
 ## Modification des autorisations et modification des informations utilisateur {#change-permissions-and-edit-user-information}
 
-1. Accédez à **Administration** et cliquez sur **Utilisateurs et rôles.**
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-9-11-3a37-3a5.png)
+   ![](assets/managing-marketo-users-18.png)
+
+1. Cliquez sur **Utilisateurs et rôles**.
+
+   ![](assets/managing-marketo-users-19.png)
 
 1. Sélectionnez un utilisateur et cliquez sur **Modifier l’utilisateur**.
 
-   ![](assets/image2014-9-9-11-3a37-3a16.png)
+   ![](assets/managing-marketo-users-20.png)
 
 1. Vous pouvez modifier les informations utilisateur et modifier le rôle associé. Cliquez sur **Enregistrer**.
 
-   ![](assets/image2014-9-9-11-3a37-3a31.png)
+   ![](assets/managing-marketo-users-21.png)
 
 >[!CAUTION]
 >
