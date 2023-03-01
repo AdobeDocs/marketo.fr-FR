@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 130102aefb0b6c12dc0ea87fdf6fef682e90b44c
+source-git-commit: b95557cc3b83870c67a3292824a31a64e5ec0bc8
 workflow-type: tm+mt
 source-wordcount: '8831'
 ht-degree: 5%
@@ -220,8 +220,8 @@ ht-degree: 5%
          + [Gestion des utilisateurs Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gestion des rôles et des autorisations des utilisateurs](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportation de rôles et d’autorisations](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
-         + [Descriptions des autorisations de rôle](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
-         + [Activation de l’option Aucun brouillon pour les fragments de code](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
+         + [Descriptions des autorisations de rôle](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
+         + [Activation de l’option Aucun brouillon pour les fragments de code](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaces de travail et partitions de personne {#workspaces-and-person-partitions}
          + [Présentation des espaces de travail et des partitions de personne](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
          + [Autorisation de l’accès utilisateur à un espace de travail](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
