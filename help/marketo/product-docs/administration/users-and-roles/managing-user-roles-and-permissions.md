@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: Gestion des rôles et autorisations des utilisateurs - Documents Marketo - Documentation du produit
 title: Gestion des rôles et des autorisations des utilisateurs
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 4%
@@ -56,7 +56,7 @@ Vous pouvez affecter des rôles à un utilisateur lorsque vous [créer des utili
 
    >[!NOTE]
    >
-   >Pour en savoir plus sur chaque rôle, voir  [Descriptions des autorisations de rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
+   >Pour en savoir plus sur chaque rôle, voir [Descriptions des autorisations de rôle](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md).
 
 ## Création d’un rôle {#create-a-new-role}
 

@@ -3,7 +3,7 @@ unique-page-id: 1147358
 description: Ajout d’un fragment de code à un courrier électronique - Documents Marketo - Documentation du produit
 title: Ajout d’un fragment de code à un courrier électronique
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -42,6 +42,6 @@ Les fragments de code sont des blocs réutilisables de texte enrichi et de graph
 
    >[!NOTE]
    >
-   >Chaque fois que vous mettez à jour et approuvez votre fragment de code, les modifications sont répercutées dans le courrier électronique. L’email sera rédigé à moins que vous n’approuviez le fragment de code avec [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Chaque fois que vous mettez à jour et approuvez votre fragment de code, les modifications sont répercutées dans le courrier électronique. L’email sera rédigé à moins que vous n’approuviez le fragment de code avec [No-Draft](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
 
 Il s’agit d’un moyen simple et rapide de réutiliser du contenu dynamique.

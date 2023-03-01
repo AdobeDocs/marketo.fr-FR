@@ -3,7 +3,7 @@ unique-page-id: 11370952
 description: Notes de mise à jour - Printemps 2016 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Printemps 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Insights est une toute nouvelle expérience historique d’analyse des emails ag
 
 >[!NOTE]
 >
->Nous lançons par lots Email Insights vers les clients, à compter du 3 juin. Notre objectif est d&#39;y parvenir au cours des prochains mois. Nous vous informerons par courrier électronique lorsque vous serez activé.
+>Nous lançons par lots Email Insights vers les clients, à compter du 3 juin. Notre objectif est d&#39;y parvenir au cours des prochains mois. Nous vous informerons par e-mail lorsque vous serez activé.
 
 ![](assets/two.png)
 
@@ -46,9 +46,9 @@ Créez des messages in-app étonnants pour votre application directement dans Ma
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [Aucun fragment de code](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## [Aucun fragment de code](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
-C&#39;est fini le jour où vous devez tout réapprouver chaque fois qu&#39;un fragment est mis à jour ! Avec No-Draft, tous les emails et landing pages utilisant un fragment de code recevront les mises à jour du fragment de code et conserveront leurs statuts antérieurs. Chaque fois que vous approuvez un fragment de code, vous avez la possibilité d’exécuter No-Draft et de tout mettre à jour ou de créer des brouillons. C&#39;est à vous de décider ! Aucun brouillon sera disponible pour tous les clients et contrôlé par une nouvelle autorisation dans l’administration.
+C&#39;est fini le jour où vous devez tout réapprouver chaque fois qu&#39;un fragment est mis à jour ! Avec No-Draft, tous les emails et landing pages utilisant un fragment de code recevront les mises à jour du fragment de code et conserveront leurs statuts antérieurs. Chaque fois que vous approuvez un fragment de code, vous avez la possibilité d’exécuter No-Draft et de tout mettre à jour ou de créer des brouillons. C&#39;est à toi de décider ! Aucun brouillon sera disponible pour tous les clients et contrôlé par une nouvelle autorisation dans l’administration.
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 

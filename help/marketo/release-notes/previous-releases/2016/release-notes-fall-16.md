@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Notes de mise à jour - Automne 16 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Automne 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 2%
@@ -58,7 +58,7 @@ Cette version vous permet également de gérer des attributs de compte et des sc
 
 Le journal d’audit fournit un historique complet des modifications apportées à votre abonnement Marketo. Nous avons ajouté d’autres fonctionnalités de suivi pour les programmes, ainsi que des informations importantes sur les modifications pour les campagnes intelligentes, les listes dynamiques et les modifications apportées aux utilisateurs et aux rôles.
 
-## [Nouvelles autorisations](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
+## [Nouvelles autorisations](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
 **Rendre l’e-mail opérationnel**
 
@@ -94,4 +94,4 @@ Gérez les variables et les modules pour les emails au format v2.0 à l’aide d
 
 ## [Modifications de la synchronisation Marketo Salesforce](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-L’intégration Salesforce de Marketo évolue afin d’améliorer la synchronisation des champs Marketo avec Salesforce. Désormais, au lieu d’avoir à synchroniser un grand groupe de champs dont vous aurez besoin ou non, vous pouvez choisir les champs que vous souhaitez inclure. Pour plus d’informations, consultez notre documentation ici : [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+L’intégration de Marketo Salesforce évolue afin d’améliorer la synchronisation des champs Marketo avec Salesforce. Désormais, au lieu d’avoir à synchroniser un grand groupe de champs dont vous avez ou non besoin, vous pouvez choisir les champs que vous souhaitez inclure. Pour plus d’informations, consultez notre documentation ici : [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
