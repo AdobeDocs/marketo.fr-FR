@@ -3,9 +3,9 @@ unique-page-id: 7512524
 description: Bonnes pratiques pour les listes dynamiques - Documents Marketo - Documentation du produit
 title: Bonnes pratiques relatives aux listes dynamiques
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f9394067e74868ace9896cfe087fa624e5eda62c
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,10 @@ Pour les rendre faciles à utiliser et optimiser les performances, nous avons cr
 >
 >**Chaque client est différent.** Plus la base de données est grande, plus le traitement est important. Plus vous avez d’activités stockées, plus la recherche prend du temps.
 >
->Si vous rencontrez une lenteur, essayez les conseils ci-dessous. Si le problème persiste, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si vous rencontrez une lenteur, essayez les conseils ci-dessous. Si le problème persiste, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. **Historique des limites -** Les filtres d’historique (également appelés filtres d’activité) comptent parmi les opérations les plus gourmandes en ressources et les plus chronophages. Si vous devez les utiliser, essayez de limiter la plage de dates au plus court possible, ce qui réduirait le jeu de données pouvant faire l’objet de recherches.
-1. **Limiter les listes dynamiques imbriquées -** Lors de la création d’une liste dynamique, limitez le nombre de filtres &quot;Membre de la liste dynamique&quot; utilisés. Cela s’appelle l’imbrication de listes dynamiques, et chaque liste dynamique référencée augmente le temps de traitement. À la place, référencez des listes statiques ou utilisez [segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+1. **Historique des limites -** Les filtres d’historique (également appelés filtres d’activité) comptent parmi les opérations les plus gourmandes en ressources et les plus chronophages. Si vous devez les utiliser, essayez de limiter la plage de dates au plus court possible, ce qui réduirait le jeu de données pouvant faire l’objet de recherches. En outre, les périodes ne remplaceront pas les périodes de rétention. Ex : Si l’activité que vous interrogez a une période de conservation de 90 jours et que vous choisissez &quot;100 derniers jours&quot;, seuls les résultats des 90 derniers jours seront renvoyés. Périodes de rétention des activités [peut être consulté ici](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}.
+1. **Limiter les listes dynamiques imbriquées -** Lors de la création d’une liste dynamique, limitez le nombre de filtres &quot;Membre de la liste dynamique&quot; utilisés. Cela s’appelle l’imbrication de listes dynamiques, et chaque liste dynamique référencée augmente le temps de traitement. À la place, référencez des listes statiques ou utilisez [segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md){target="_blank"}.
 1. **Utiliser des opérateurs positifs par rapport à des opérateurs négatifs -** Bien que des filtres &quot;pas&quot; soient disponibles, ils doivent rechercher l’ensemble des données de votre instance, ce qui peut prendre beaucoup de temps. Les filtres &quot;is&quot; positifs peuvent utiliser des algorithmes de recherche plus efficaces.
 1. **Évitez &quot;contains&quot; -** Si vous ne disposez que de données partielles, les qualificateurs &quot;commence par&quot; produiront des résultats beaucoup plus rapides que &quot;contient&quot;. &quot;Is&quot; s’exécute encore plus rapidement. Évitez d’utiliser &quot;contains&quot; avec plusieurs valeurs ; les deux à la fois peuvent ralentir encore davantage une campagne.
 1. **Utiliser l’exemple aléatoire seul -** L’exemple aléatoire est un filtre spécial. Utilisez-le seul pour mettre vos gens dans des listes préfabriquées. Ensuite, utilisez simplement &quot;Membre de la liste&quot; pour rendre votre liste dynamique très rapide. Exemple aléatoire **NOT** fonctionne avec les listes dynamiques imbriquées. Le filtre Exemple aléatoire ne fonctionne pas s’il s’agit de la liste dynamique référencée pour le filtre &quot;Membre de la liste dynamique&quot;.
@@ -35,4 +35,4 @@ Pour les rendre faciles à utiliser et optimiser les performances, nous avons cr
 
 >[!TIP]
 >
->Marketo peut être utilisé de différentes manières et certaines techniques sont plus efficaces pour vous et votre entreprise. Considérer [Services professionnels Marketo](https://pages2.marketo.com/72-hour-survival-guide.html) pour faire briller votre investissement.
+>Marketo peut être utilisé de différentes manières et certaines techniques sont plus efficaces pour vous et votre entreprise. Considérer [Services professionnels Marketo](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} pour faire briller votre investissement.
