@@ -5,8 +5,8 @@ title: Activation de l’option Aucun brouillon pour les fragments de code
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 3%
+source-wordcount: '147'
+ht-degree: 0%
 
 ---
 
@@ -24,29 +24,25 @@ Aucun brouillon est automatiquement activé pour tous les rôles d’administrat
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Accédez à **Administration** et cliquez sur **Utilisateurs et rôles**.
 
-   ![](assets/enable-no-draft-for-snippets-1.png)
-
-1. Cliquez sur **Utilisateurs et rôles**.
-
-   ![](assets/enable-no-draft-for-snippets-2.png)
+   ![](assets/usersandroles.png)
 
 1. Accédez au **Rôles** , sélectionnez un rôle, puis cliquez sur **Modifier le rôle**.
 
-   ![](assets/enable-no-draft-for-snippets-3.png)
+   ![](assets/editrole2.png)
 
 1. Développez l’objet **Accès à Design Studio** .
 
-   ![](assets/enable-no-draft-for-snippets-4.png)
+   ![](assets/expanddesignstudio.png)
 
 1. Développez l’objet **Extrait de code d’accès** .
 
-   ![](assets/enable-no-draft-for-snippets-5.png)
+   ![](assets/expandsnippet.png)
 
 1. Développez l’objet **Approuver le fragment de code** et vérifiez les **No-Draft** de la boîte. Cliquez ensuite sur **Enregistrer**.
 
-   ![](assets/enable-no-draft-for-snippets-6.png)
+   ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
