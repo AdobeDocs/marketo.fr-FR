@@ -3,7 +3,7 @@ unique-page-id: 7515767
 description: Partage de segments entre espaces de travail et partitions - Documents Marketo - Documentation du produit
 title: Partage de segments entre espaces de travail et partitions
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d4d87d2a03bc0966a6e77d97cb68a2c38a3c676
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -77,7 +77,7 @@ Une fois ces personnages configurés (_et_ si vous utilisez des espaces de trava
 
 1. Sélectionnez le ou les espaces de travail avec lesquels vous souhaitez partager le dossier. Cliquez sur **Enregistrer**.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
 
    >[!NOTE]
    >
