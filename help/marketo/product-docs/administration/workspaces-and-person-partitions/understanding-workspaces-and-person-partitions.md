@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Présentation des espaces de travail et des partitions de personne - Documents Marketo - Documentation du produit
 title: Présentation des espaces de travail et des partitions de personne
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '520'
 ht-degree: 3%
 
 ---
@@ -43,25 +43,29 @@ Voici comment partager des ressources entre espaces de travail. Il fonctionne de
 >
 >Le dossier parent contenant vos ressources est le seul dossier qui peut être partagé, et non les dossiers enfants.
 
-1. Créez un dossier.
+1. Cliquez sur Base de données.
 
-   ![](assets/one.png)
+   ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Nommez le dossier que vous allez partager.
+1. Cliquez avec le bouton droit de la souris sur le dossier Segmentation, puis cliquez sur **Nouveau dossier**.
 
-   ![](assets/two.png)
+   ![](assets/understanding-workspaces-and-person-partitions-2.png)
+
+1. Nommez votre dossier et cliquez sur **Créer**.
+
+   ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
 1. Déplacez la ou les ressources que vous souhaitez partager dans le dossier .
 
-   ![](assets/three.png)
+   ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
 1. Cliquez avec le bouton droit sur le dossier et sélectionnez **Partager le dossier**.
 
-   ![](assets/four.png)
+   ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
 1. Sélectionnez le ou les espaces de travail avec lesquels vous souhaitez partager le dossier et cliquez sur **Enregistrer**. La boîte de dialogue Partager le dossier affiche uniquement les espaces de travail que vous êtes autorisé à afficher.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
    >[!NOTE]
    >
