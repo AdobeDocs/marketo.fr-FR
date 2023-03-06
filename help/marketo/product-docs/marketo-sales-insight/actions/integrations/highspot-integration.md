@@ -1,11 +1,9 @@
 ---
 description: Intégration des points chauds - Documentation Marketo - Documentation du produit
 title: Intégration des zones réactives
-hide: true
-hidefromtoc: true
-source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
+source-git-commit: 4f919501ee93790105fae3800f1b0ddd96036dfa
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -52,7 +50,7 @@ Accédez à la zone réactive et ajoutez du contenu à vos emails à partir de l
 
    ![](assets/highspot-integration-7.png)
 
-1. Connectez-vous à votre compte Highspot.
+1. Connectez-vous à votre compte Highspot (si vous n’êtes pas déjà connecté).
 
    ![](assets/highspot-integration-8.png)
 
