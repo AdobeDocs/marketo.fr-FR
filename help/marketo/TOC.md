@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: 303df236491f9574532c8b59289f89f505671acb
 workflow-type: tm+mt
-source-wordcount: '8836'
+source-wordcount: '8835'
 ht-degree: 5%
 
 ---
@@ -239,6 +239,7 @@ ht-degree: 5%
       + [Configuration du mappage de l’organisation Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synchronisation d’une audience à partir de Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importation de ressources avec Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [Présentation de Shell unifié](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
    + Concepts Marketo de base {#core-marketo-concepts}
       + Campagnes intelligentes {#smart-campaigns}
          + [Présentation des campagnes intelligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1377,7 +1378,7 @@ ht-degree: 5%
             + [Pourquoi tous mes contacts n’ont-ils pas été amenés à des actions d’aperçu des ventes ?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Pourquoi le suivi de l’activité ne s’affiche-t-il pas dans l’activité Salesforce ?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Intégrations {#integrations}
-            + [Enregistrer des emails dans une source externe](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
+            + [Intégration des zones réactives](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [Octroi de l’accès à Marketo aux utilisateurs](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Moments intéressants dans les actions d’aperçu commercial](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
