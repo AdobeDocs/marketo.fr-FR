@@ -3,9 +3,9 @@ description: Intégration des points chauds - Documentation Marketo - Documentat
 title: Intégration des zones réactives
 hide: true
 hidefromtoc: true
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
+source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,21 @@ Les ventes peuvent accéder aux fonctionnalités de haut niveau à partir des ac
 >
 >Vous devez disposer de droits d’administrateur pour activer la zone réactive pour votre instance d’actions Sales Insight.
 
-1. Sélectionner les paramètres
+1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
-PICC
+   ![](assets/highspot-integration-1.png)
 
-1. Sélectionner les paramètres généraux dans la barre latérale
+1. Sous **Paramètres d’administration**, sélectionnez **Général**.
 
-PICC
+   ![](assets/highspot-integration-2.png)
 
-1. Accédez à la carte Intégrations et activez la zone réactive
+1. Faites défiler jusqu’à **Intégrations** et cliquez sur le curseur pour activer la zone réactive.
 
-PICC
+   ![](assets/highspot-integration-3.png)
 
-1. Désormais, les utilisateurs auront la possibilité de sélectionner Zone réactive lors de la sélection du bouton de téléchargement de contenu dans la fenêtre de composition, l’éditeur de modèles et l’éditeur d’email de campagne.
+Désormais, les utilisateurs auront la possibilité de sélectionner Zone réactive lors de la sélection du bouton de téléchargement de contenu dans la fenêtre de composition, l’éditeur de modèles et l’éditeur d’email de campagne.
 
-PICC
+![](assets/highspot-integration-4.png)
 
 ## Accès au contenu des zones réactives et partage de contenu par e-mail {#accessing-highspot-content}
 
