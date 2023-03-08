@@ -2,9 +2,9 @@
 description: Paramètres de partage - Documents Marketo - Documentation du produit
 title: Paramètres de partage
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 1%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 Gérez mieux vos modèles en restreignant ce que les utilisateurs peuvent partager et avec quelles catégories.
 
-Lorsque votre compte Sales Connect est créé pour la première fois, les paramètres de partage sont activés. Cela permet aux administrateurs de votre compte de créer et d’organiser vos catégories de modèles avant d’ouvrir les vannes et de permettre aux utilisateurs de partager du contenu dans les catégories de votre équipe.
+Lorsque votre compte d’actions d’aperçu des ventes est créé pour la première fois, les paramètres de partage sont activés. Cela permet aux administrateurs de votre compte de créer et d’organiser vos catégories de modèles avant d’ouvrir les vannes et de permettre aux utilisateurs de partager du contenu dans les catégories de votre équipe.
 
 Lorsque l’option Paramètres de partage est activée, seuls les administrateurs peuvent effectuer un partage dans des catégories, sauf si des privilèges de partage sont fournis à une équipe ou à tout le monde. Lorsque les paramètres de partage sont désactivés, il n’existe aucune restriction et tous les utilisateurs peuvent effectuer un partage dans n’importe quelle catégorie de modèles.
 
