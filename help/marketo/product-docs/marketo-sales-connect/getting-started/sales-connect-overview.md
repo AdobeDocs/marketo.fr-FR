@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Présentation de Sales Connect - Documentation Marketo - Documentation du produit
 title: Présentation de Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 10%
 
 ---
@@ -44,19 +44,19 @@ Découvrez comment vos prospects s’engagent dans vos efforts de vente.
   </tr> 
   <tr> 
    <td><p>Envoyer un e-mail de vente</p></td> 
-   <td><p>L’utilisateur a envoyé un email de vente à partir de MSE.</p></td> 
+   <td><p>L’utilisateur a envoyé un e-mail de vente à Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td><p>Ouvrir e-mail de vente</p></td> 
-   <td><p>Le prospect a ouvert un email de vente envoyé depuis MSE.</p></td> 
+   <td><p>Le prospect a ouvert un e-mail de vente envoyé à partir de Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td><p>Cliquer sur e-mail de vente</p></td> 
-   <td><p>Le prospect a cliqué sur un lien dans un email de vente envoyé à partir de MSE.</p></td> 
+   <td><p>Le prospect a cliqué sur un lien dans un e-mail de vente envoyé par Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Recevoir l'e-mail de vente</p></td> 
-   <td colspan="1"><p>Le prospect a reçu un e-mail envoyé par MSE.</p></td> 
+   <td colspan="1"><p>Le prospect a reçu un e-mail envoyé par Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Recevoir l’appel de vente</p></td> 
@@ -64,7 +64,7 @@ Découvrez comment vos prospects s’engagent dans vos efforts de vente.
   </tr> 
   <tr> 
    <td colspan="1"><p>Ajouter à la campagne de ventes</p></td> 
-   <td colspan="1"><p>Le prospect a été ajouté à une campagne de vente créée dans MSE (sur la page Campagnes ).</p></td> 
+   <td colspan="1"><p>Le prospect a été ajouté à une campagne de vente créée dans Sales Connect (sur la page Campagnes).</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Supprimée De La Campagne De Ventes</p></td> 

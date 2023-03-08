@@ -2,9 +2,9 @@
 description: Création d’une campagne de ventes - Documents Marketo - Documentation du produit
 title: Créer une campagne de ventes
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
-source-git-commit: 56101a81c392a3e3214426112976cca960359bf8
+source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Alors, comment configurer une campagne de ventes ?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. Quand tu es [terminé avec votre email](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target=&quot;_blank&quot;}, cliquez sur **Ajouter**.
+1. Quand tu es [terminé avec votre email](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, cliquez sur **Ajouter**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
@@ -65,7 +65,6 @@ Il est maintenant temps d&#39;ajouter des gens !
 
 >[!MORELIKETHIS]
 >
->* [Options d’envoi de campagne de ventes pour les étapes de courrier électronique](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
->* [Types d’étape de campagne de vente et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
->* [Paramètres de campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
+>* [Types d’étape de campagne de vente et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [Paramètres de campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
 
