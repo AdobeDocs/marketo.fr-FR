@@ -2,14 +2,14 @@
 description: Rapports - Documents Marketo - Documentation du produit
 title: Rapports
 exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
-source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
+source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 8%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 
-# Rapports {#reports}
+# Rapports   {#reports}
 
 Dans l&#39;onglet Rapports , affichez les données des 90 derniers jours. Chaque catégorie est définie ci-dessous.
 
@@ -21,7 +21,7 @@ Dans l&#39;onglet Rapports , affichez les données des 90 derniers jours. Chaque
  </tr>
  <tr>
   <td><strong>Engagé</strong></td>
-  <td>S’incrémente chaque fois qu’un visiteur clique sur l’ancre de chatbot pour ouvrir le dialogue.</td>
+  <td>S’incrémente lorsqu’un visiteur interagit avec au moins une carte dans un dialogue (par exemple, question, capture d’informations, etc.)</td>
  </tr>
  <tr>
   <td><strong>Terminé</strong></td>
@@ -43,7 +43,7 @@ Dans l&#39;onglet Rapports , affichez les données des 90 derniers jours. Chaque
 
 >[!MORELIKETHIS]
 >
->* [Créer un dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [Critères d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
+>* [Créer un dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [Designer de flux](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* [Critère d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 

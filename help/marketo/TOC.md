@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 375abb702f611d1e50b762606402ccdf1f9ca9c6
+source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
 workflow-type: tm+mt
-source-wordcount: '8829'
+source-wordcount: '8831'
 ht-degree: 5%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 + [Accueil](home.md)
 + Prise en main de Marketo {#getting-started-with-marketo}
-   + [Démarrer](getting-started.md)
+   + [Premiers pas](getting-started.md)
    + [Qu’est-ce que Adobe Marketo Engage ?](getting-started/what-is-adobe-marketo-engage.md)
    + [Glossaire Marketo](getting-started/marketo-glossary.md)
    + [Glossaire des icônes classiques](getting-started/classic-icon-glossary.md)
@@ -82,7 +82,7 @@ ht-degree: 5%
             + [SEO - Obtenir des suggestions de lien entrant](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
             + [SEO - Suppression d’une URL de lien entrant](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
             + [SEO - Présentation des liens entrants](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-         + Rapports {#reports}
+         + Rapports  {#reports}
             + [SEO - Utiliser le rapport Tendances de KW des concurrents](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - Utiliser le rapport Tendances des mots-clés](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
    + Administration {#administration}
@@ -239,7 +239,7 @@ ht-degree: 5%
       + [Configuration du mappage de l’organisation Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synchronisation d’une audience à partir de Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importation de ressources avec Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Présentation de Shell unifié](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
+      + [Vue d’ensemble d’Unified Shell](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
    + Concepts Marketo de base {#core-marketo-concepts}
       + Campagnes intelligentes {#smart-campaigns}
          + [Présentation des campagnes intelligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -617,6 +617,7 @@ ht-degree: 5%
          + [Présentation de la conversation dynamique](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configuration initiale](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Ajout ou suppression d’utilisateurs de conversation](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
+         + [Notifications du navigateur](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Configuration](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Comportement de chatterbot](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Activités de tchat dynamique](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
@@ -632,7 +633,7 @@ ht-degree: 5%
             + [Créer un dialogue](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [Critère d’audience](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [Designer de flux](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [Rapports](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
+            + [Rapports  ](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Événements {#events}
          + Présentation des événements {#understanding-events}
             + [Ajout de membres à un programme d’événement](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -1071,12 +1072,12 @@ ht-degree: 5%
             + [Utilisation d’URL dans mes jetons](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage Modern UX {#marketo-engage-modern-ux}
-      + [APERÇU](product-docs/marketo-engage-modern-ux/overview.md)
+      + [Vue d’ensemble](product-docs/marketo-engage-modern-ux/overview.md)
       + [Glossaire des icônes](product-docs/marketo-engage-modern-ux/icon-glossary.md)
       + [Utilisation de la recherche globale](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [Basculer entre les deux](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo Sales Connect {#marketo-sales-connect}
-      + Démarrer {#getting-started}
+      + Premiers pas {#getting-started}
          + [Présentation de Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Accès à votre nouvelle instance Sales Connect](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Guide de prise en main pour les administrateurs de Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
@@ -1165,7 +1166,7 @@ ht-degree: 5%
             + Module complémentaire Office 365 {#office-365-add-in}
                + [Ajouter un courrier électronique à Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Installation de Sales Connect pour Office365 Mac OS, Windows et Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
-      + Adresse e-mail {#email}
+      + E-mail {#email}
          + Centre de contrôle {#command-center}
             + [Présentation du centre de commandes](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Aperçu de la recherche avancée](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
@@ -1208,7 +1209,7 @@ ht-degree: 5%
             + [Envoi d’un email suivi](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
             + [Envoi d’emails par courrier électronique de groupe](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [Utilisation d’un modèle dans la fenêtre de composition](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + FAQ {#faq}
+      + Questions fréquentes {#faq}
          + [Puis-je récupérer un contact ou un groupe que j’ai supprimé ?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [FAQ sur le contenu et les pièces jointes](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect possède-t-il une application iPhone ou Android ?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
@@ -1284,7 +1285,7 @@ ht-degree: 5%
    + Marketo Sales Insight {#marketo-sales-insight}
       + Actions {#actions}
          + [Présentation de la fonction Actions d’aperçu des ventes](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
-         + Démarrer {#getting-started}
+         + Premiers pas {#getting-started}
             + [Guide d’intégration des utilisateurs des actions Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Guide de configuration des actions Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Modification du mot de passe des ventes Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
@@ -1335,7 +1336,7 @@ ht-degree: 5%
                + [Configuration des actions d’aperçu des ventes dans Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Désinstallation du module de personnalisation Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [Désinstallation du module de personnalisation de l’éclair Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
-         + Adresse e-mail {#email}
+         + E-mail {#email}
             + Centre de contrôle {#command-center}
                + [Aperçu de la recherche avancée](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
                + [Affectation de tâches aux membres de l’équipe](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
@@ -1357,7 +1358,7 @@ ht-degree: 5%
                + [Composition d’emails en bloc avec sélection et envoi](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Envoi d’emails par courrier électronique de groupe](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Utilisation d’un modèle dans la fenêtre de composition](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-         + FAQ {#faq}
+         + Questions fréquentes {#faq}
             + [Puis-je récupérer un contact ou un groupe que j’ai supprimé ?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Puis-je effectuer le suivi de plusieurs destinataires avec CC/Cci ?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [FAQ sur le contenu et les pièces jointes](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
@@ -1587,7 +1588,7 @@ ht-degree: 5%
       + [Résumé du contenu prédictif](product-docs/predictive-content/the-predictive-content-summary.md)
       + [Définition d’une liste dynamique pour les activités de contenu prédictif](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [Présentation de Predictive Content Analytics](product-docs/predictive-content/predictive-content-analytics-overview.md)
-      + Démarrer {#getting-started}
+      + Premiers pas {#getting-started}
          + [Paramètres de l’objectif d’algorithme](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [Créez des modèles de contenu](product-docs/predictive-content/getting-started/create-content-patterns.md)
          + [Déploiement de JavaScript pour Content-AI](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
@@ -1799,7 +1800,7 @@ ht-degree: 5%
          + [Marketing web basé sur un compte avec la gestion des actifs numériques](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Créer une liste de comptes](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [Création d’un segment à l’aide d’une liste de comptes](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
-      + Démarrer {#getting-started}
+      + Premiers pas {#getting-started}
          + [Ajouter des sous-domaines dans Paramètres de compte](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [Modifier les régions](product-docs/web-personalization/getting-started/edit-regions.md)
          + [Connexion et gestion des utilisateurs](product-docs/web-personalization/getting-started/login-and-user-management.md)
