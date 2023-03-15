@@ -1,16 +1,16 @@
 ---
 description: Présentation de Shell unifié - Documents Marketo - Documentation du produit
-title: Présentation de Shell unifié
+title: Vue d’ensemble d’Unified Shell
 hide: true
 hidefromtoc: true
-source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 0%
+source-wordcount: '355'
+ht-degree: 2%
 
 ---
 
-# Présentation de Shell unifié {#unified-shell-overview}
+# Vue d’ensemble d’Unified Shell {#unified-shell-overview}
 
 Unified Shell aligne l’aspect &quot;shell&quot; des applications et services Adobe Experience Cloud. Mais c&#39;est plus qu&#39;un nouveau design. Il s’agit d’une application d’une seule page qui offre une expérience utilisateur sur une seule instance.
 
@@ -64,7 +64,7 @@ Cliquez sur l’icône de votre profil pour modifier votre langue ou d’autres 
 
 PICC
 
-## FAQ {#faq}
+## Questions fréquentes {#faq}
 
 **Je ne parviens pas à me connecter à [!DNL Marketo Engage] par l’intermédiaire de l’interpréteur de commandes unifié. Quel pourrait être le problème ?**
 
@@ -74,7 +74,7 @@ PICC
 
 Si vous recevez l’erreur ci-dessus, veuillez [Contacter l’assistance](https://nation.marketo.com/t5/support/ct-p/Support) pour obtenir de l’aide.
 
-Voici ce qui change pour Marketo :
+Notes de Steven
 
 La connexion se fera via Experience Cloud/IMS.
 
@@ -84,4 +84,4 @@ L’historique des utilisateurs, la recherche globale, les notifications Marketo
 
 Arborescence de l&#39;histoire dans Ma Marketo disparaît
 
-Les signets ne fonctionneront pas (pour l’instant). Il n’est pas nécessaire d’appeler cela pour l’instant, mais de le supprimer si vous copiez du texte du document de Bizible (leurs signets fonctionnent).
+Aucun signet

@@ -1,9 +1,9 @@
 ---
 description: Notes de mise à jour - Janvier 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Janvier 2023
-source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '637'
 ht-degree: 5%
 
 ---
@@ -86,7 +86,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
   <tr> 
    <td>Expédié</td>
-   <td><i>Disponible bientôt</i></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

@@ -2,16 +2,16 @@
 description: Service d’étape de flux - Documents Marketo - Documentation du produit
 title: Service d’étape de flux
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '1243'
+source-wordcount: '1220'
 ht-degree: 0%
 
 ---
 
 # Service d’étape de flux {#flow-step-service}
 
-Les étapes de flux en libre-service constituent une structure et un ensemble de fonctionnalités permettant de créer, de publier et d’intégrer des services web dans des campagnes dynamiques Adobe Marketo Engage. Ce guide est destiné aux utilisateurs finaux Marketo Engage qui souhaitent installer et utiliser des services qui ont déjà été créés et publiés. Pour plus d’informations sur la création et la publication de votre propre service, reportez-vous à la section [Référentiel GitHub pour l’interface du fournisseur de services](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Une implémentation de table de recherche de preuve de concept se trouve. [here](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
+Les étapes de flux en libre-service constituent une structure et un ensemble de fonctionnalités permettant de créer, de publier et d’intégrer des services web dans des campagnes dynamiques Adobe Marketo Engage. Ce guide est destiné aux utilisateurs finaux Marketo Engage qui souhaitent installer et utiliser des services qui ont déjà été créés et publiés. Pour plus d’informations sur la création et la publication de votre propre service, reportez-vous à la section [Référentiel GitHub pour l’interface du fournisseur de services](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Intégration et gestion des services {#onboarding-and-managing-services}
 
@@ -28,10 +28,6 @@ Cliquez sur **Suivant** pour accéder à la section Entrer les informations d’
 ## Entrer les informations d’identification du service {#enter-service-credentials}
 
 Pour accéder au service en cours d’installation, Marketo doit disposer d’informations d’identification d’API valides. Ces informations d’identification doivent vous être fournies par votre fournisseur de services. Les services disposent de trois options d’authentification différentes. Vous pouvez donc voir l’une des trois invites d’identification différentes : **Clé API** qui ne comporte qu&#39;un seul champ de saisie, **Authentification de base** qui nécessite un nom d’utilisateur et un mot de passe et peut également nécessiter un champ appelé Domaine, et **OAuth2** en utilisant la variable _Informations d’identification client_ qui nécessite une _ID client_ et _Secret du client_.
-
->[!NOTE]
->
->OAuth2 ne sera pas disponible avant la version du 11 mars.
 
 Lorsque vous enregistrez vos informations d’identification, Marketo tente d’appeler le point de terminaison d’état du service pour vérifier qu’elles sont valides. Si les informations d’identification fournies sont incorrectes, une erreur s’affiche pour vous l’indiquer.
 
