@@ -2,7 +2,7 @@
 description: Comportement de chatbot - Documents Marketo - Documentation du produit
 title: Comportement de chatterbot
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: af8896e8675ae3ded689583fb5a348aff95cba83
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Vous trouverez ci-dessous différents scénarios possibles qui surpassent le com
         <p>V1 visites WP1</p>
       </td>
       <td>
-        <p>D1 sera résolu sur V1 </p>
+        <p>D1 sera résolu sur V1</p>
       </td>
       <td>Le nombre de déclencheurs pour D1 sera augmenté de 1</td>
     </tr>
@@ -131,7 +131,7 @@ Vous trouverez ci-dessous différents scénarios possibles qui surpassent le com
       <td>
         <p>D1 ciblé pour WP1 uniquement, WP2</p>
         <p>V1 visite pour la première fois WP1</p>
-        <p>V1 clique sur D1 mais n’a pas répondu </p>
+        <p>V1 clique sur D1 mais n’a pas répondu</p>
         <p>V1 visites WP2</p>
       </td>
       <td>
@@ -181,7 +181,7 @@ Vous trouverez ci-dessous différents scénarios possibles qui surpassent le com
         <p>D1 ciblé pour WP1 uniquement</p>
         <p>D2 ciblé pour uniquement WP2</p>
         <p>V1 visite pour la première fois WP1</p>
-        <p>V1 clique sur D1 mais n’a pas répondu </p>
+        <p>V1 clique sur D1 mais n’a pas répondu</p>
         <p>V1 visites WP2</p>
       </td>
       <td>D1 sera résolu sur WP1<br/>
@@ -212,7 +212,7 @@ Vous trouverez ci-dessous différents scénarios possibles qui surpassent le com
         <p>V1 visite pour la première fois WP1</p>
         <p>V1 clique sur D1 et termine D1</p>
         <p>V1 visites WP2</p>
-        <p>Les clics V1 sur D2 fournissent la première réponse. </p>
+        <p>Les clics V1 sur D2 fournissent la première réponse.</p>
       </td>
       <td>D1 sera résolu sur WP1 et après la fin<br/>D2 sera résolu sur WP2</td>
       <td>
@@ -255,7 +255,7 @@ Vous trouverez ci-dessous différents scénarios possibles qui surpassent le com
       <td>
         <p>D1 ciblé pour WP1 uniquement</p>
         <p>V1 visite pour la première fois WP1</p>
-        <p>V1 engagé avec D1 </p>
+        <p>V1 engagé avec D1</p>
         <p>D1 est dépublié</p>
         <p>V1 actualise WP1</p>
       </td>
@@ -300,7 +300,7 @@ Vous trouverez ci-dessous différents scénarios possibles qui surpassent le com
       </td>
       <td>
         <p>Le nombre de déclencheurs pour D1 sera augmenté de 1</p>
-        <p>Le nombre d’engagements pour D1 sera augmenté de 1 </p>
+        <p>Le nombre d’engagements pour D1 sera augmenté de 1</p>
         <p>Après actualisation, car l’ancien D1 s’affiche, aucun changement ne déclenche le nombre.</p>
       </td>
     </tr>
@@ -325,7 +325,7 @@ Vous trouverez ci-dessous différents scénarios possibles qui surpassent le com
     <tr>
       <td>
         <p>D1 ciblé pour WP1 avec une priorité 1</p>
-        <p>D2 ciblé pour WP1 avec 2 priorités </p>
+        <p>D2 ciblé pour WP1 avec 2 priorités</p>
         <p>V1 visite pour la première fois WP1</p>
         <p>V1 clique sur D1 et termine D1</p>
         <p>V1 actualise WP1 et voir D2<br/>V1 clique sur D2 et termine D2.</p>
