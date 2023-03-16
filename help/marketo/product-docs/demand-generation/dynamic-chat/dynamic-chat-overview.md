@@ -2,9 +2,9 @@
 description: Présentation de Dynamic Chat - Documents Marketo - Documentation du produit
 title: Présentation de la conversation dynamique
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
+source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '857'
 ht-degree: 2%
 
 ---
@@ -33,25 +33,25 @@ Les éléments suivants sont synchronisés :
 
 ## Conversations {#dialogues}
 
-Les dialogues représentent un seul engagement de discussion. Considérez-le comme un conteneur avec tout ce dont vous avez besoin pour avoir un dialogue de conversation engageant avec les visiteurs de votre site web. Dans chaque dialogue, vous pouvez spécifier la ou les pages sur lesquelles vous souhaitez que le dialogue s’affiche, à qui vous souhaitez qu’il s’affiche, ainsi que le contenu et le flux du dialogue lui-même. En outre, vous pouvez trouver des mesures pour voir les performances de votre dialogue. [En savoir plus sur les boîtes de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
+Les dialogues représentent un seul engagement de discussion. Considérez-le comme un conteneur avec tout ce dont vous avez besoin pour avoir un dialogue de conversation engageant avec les visiteurs de votre site web. Dans chaque dialogue, vous pouvez spécifier la ou les pages sur lesquelles vous souhaitez que le dialogue s’affiche, à qui vous souhaitez qu’il s’affiche, ainsi que le contenu et le flux du dialogue lui-même. En outre, vous pouvez trouver des mesures pour voir les performances de votre dialogue. [En savoir plus sur les boîtes de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
 
 ## Configuration {#configuration}
 
-Dans l&#39;onglet Configuration , personnalisez l&#39;aspect de vos différents Dialogues. Modifiez la police, les couleurs, le temps de réponse, etc. [En savoir plus sur la configuration](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target=&quot;_blank&quot;}.
+Dans l&#39;onglet Configuration , personnalisez l&#39;aspect de vos différents Dialogues. Modifiez la police, les couleurs, le temps de réponse, etc. [En savoir plus sur la configuration](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
 
 ## Calendrier {#calendar}
 
-Connectez votre calendrier Outlook ou Gmail pour l’utiliser dans la planification des rendez-vous dans le chatterbot. [En savoir plus sur le calendrier](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
+Connectez votre calendrier Outlook ou Gmail pour l’utiliser dans la planification des rendez-vous dans le chatterbot. [En savoir plus sur le calendrier](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## Réunions {#meetings}
 
-C&#39;est là que vous verrez toutes les nominations programmées par les visiteurs de votre site web à travers vos Dialogues. [En savoir plus sur les réunions](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
+C&#39;est là que vous verrez toutes les nominations programmées par les visiteurs de votre site web à travers vos Dialogues. [En savoir plus sur les réunions](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
 
 ## Routage {#routing}
 
-C’est là que vous pouvez voir la liste de tous les agents qui ont connecté leurs calendriers, l’ordre dans lequel ils seront présentés aux visiteurs du site web et créer des règles de routage personnalisées. [En savoir plus sur le routage](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
+C’est là que vous pouvez voir la liste de tous les agents qui ont connecté leurs calendriers, l’ordre dans lequel ils seront présentés aux visiteurs du site web et créer des règles de routage personnalisées. [En savoir plus sur le routage](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
-## FAQ {#faq}
+## Questions fréquentes {#faq}
 
 **Puis-je installer Dynamic Chat n’importe où sur le site web de mon entreprise ou cela ne fonctionne-t-il que sur les landing pages Marketo ?**
 
@@ -111,8 +111,18 @@ Lorsque vous mettez à jour la langue, tout dans l’application elle-même chan
   <th>Limite</th>
  <tr>
   <td>Dialogues totaux</td>
-  <td>Nombre total de dialogues (publiés et préliminaires)</td>
+  <td>Nombre de boîtes de dialogue (publiées et préliminaires)</td>
   <td>500</td>
+ </tr>
+ <tr>
+  <td>Calendriers totaux</td>
+  <td>Nombre de calendriers connectés</td>
+  <td>25</td>
+ </tr>
+ <tr>
+  <td>Nombre total d’utilisateurs (administrateurs et utilisateurs marketing)</td>
+  <td>Nombre d’utilisateurs combinés autorisés par instance de messagerie dynamique</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>Dialogues publiés</td>
@@ -171,12 +181,12 @@ Lorsque vous mettez à jour la langue, tout dans l’application elle-même chan
  </tr>
  <tr>
   <td>Conversations en cours</td>
-  <td>Nombre de conversations par jour avec lesquelles les visiteurs web peuvent interagir</td>
-  <td>1000</td>
+  <td>Nombre de conversations en ligne avec lesquelles les visiteurs web peuvent interagir par mois</td>
+  <td>250</td>
  </tr>
  <tr>
   <td>Conversations déclenchées</td>
-  <td>Nombre de conversations en ligne qui peuvent être présentées aux visiteurs web par jour</td>
+  <td>Nombre de conversations en ligne qui peuvent être présentées aux visiteurs web par mois</td>
   <td>25,000</td>
  </tr>
 </table>
