@@ -3,10 +3,10 @@ unique-page-id: 10100275
 description: Ajout/modification/suppression de champs d’activité personnalisés Marketo - Documents Marketo - Documentation du produit
 title: Ajouter/Modifier/Supprimer des champs d’activité personnalisés Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 4%
+source-wordcount: '298'
+ht-degree: 5%
 
 ---
 
@@ -86,7 +86,7 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
    >[!CAUTION]
    >
-   >Vous pouvez uniquement modifier le nom de l’API ou définir le champ sur Principal si l’activité personnalisée n’a jamais été publiée. Si l’activité a déjà été publiée, vous pouvez uniquement modifier le nom du champ et sa description facultative.
+   >Vous pouvez uniquement modifier le nom de l’API ou définir le champ sur Principal si l’activité personnalisée n’a jamais été publiée.
 
    >[!NOTE]
    >
