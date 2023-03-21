@@ -3,9 +3,9 @@ description: Présentation de Shell unifié - Documents Marketo - Documentation 
 title: Vue d’ensemble d’Unified Shell
 hide: true
 hidefromtoc: true
-source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
+source-git-commit: 427b79a584a003204f344ed9c219489c25abfc59
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '273'
 ht-degree: 2%
 
 ---
@@ -34,7 +34,7 @@ Outre l’aspect mis à jour, vous remarquerez les fonctionnalités suivantes :
 
 **Centre d’aide intégré**
 
-Recherchez des articles d’assistance, envoyez des tickets, fournissez des commentaires, le tout depuis le [!DNL Marketo Engage] application.
+Accédez à diverses ressources d’aide disponibles depuis le [!DNL Marketo Engage] application.
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -52,7 +52,7 @@ Affichez et interagissez avec des notifications spécifiques à un produit et de
 
 **Paramètres d’Adobe**
 
-Cliquez sur l’icône de votre profil pour modifier votre langue ou d’autres préférences à l’échelle de l’Adobe. Vous pouvez également [!DNL Marketo Engage]Modifications spécifiques en cliquant sur **Mes paramètres**.
+Cliquez sur l’icône de votre profil pour modifier votre langue ou d’autres préférences à l’échelle de l’Adobe.
 
 ![](assets/unified-shell-overview-5.png)
 
@@ -65,3 +65,7 @@ Si vous pouvez vous connecter à Adobe Experience Cloud, mais que l’erreur &qu
 **Où se sont rendus l’historique des utilisateurs, la recherche globale, les notifications Marketo et le bac de tâches ?**
 
 Ces fonctionnalités ont été déplacées du volet de navigation supérieur vers une nouvelle barre sur le côté gauche de l’Shell unifié.
+
+![](assets/unified-shell-overview-6.png)
+
+![](assets/unified-shell-overview-7.png)
