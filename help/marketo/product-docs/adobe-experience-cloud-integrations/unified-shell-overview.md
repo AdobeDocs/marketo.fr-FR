@@ -3,10 +3,10 @@ description: Présentation de Shell unifié - Documents Marketo - Documentation 
 title: Vue d’ensemble d’Unified Shell
 hide: true
 hidefromtoc: true
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: f48d0c91667072e5286604c0b7141296cba5542a
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 2%
+source-wordcount: '350'
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ Unified Shell aligne l’aspect &quot;shell&quot; des applications et services A
 
 Si vous êtes déjà connecté à un produit Adobe Experience Cloud, cliquez sur l’icône de menu et sélectionnez **[!DNL Marketo Measure]**.
 
-PICC
+![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
@@ -36,33 +36,31 @@ Outre l’aspect mis à jour, vous remarquerez les fonctionnalités suivantes :
 
 [Gérez vos [!DNL Marketo Engage] domains](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) sans assistance de la part de [!DNL Marketo Engage].
 
-PICC
+PIC2
 
 **Centre d’aide intégré**
 
 Recherchez des articles d’assistance, envoyez des tickets, fournissez des commentaires, le tout depuis le [!DNL Marketo Engage] application.
 
-PICC
+![](assets/unified-shell-overview-3.png)
 
 **Sélecteur d’applications**
 
 Ceux qui ont accès à plusieurs produits Adobe pourront facilement basculer entre eux.
 
-PICC
+PIC4
 
 **Notifications et annonces**
 
 Affichez et interagissez avec des notifications spécifiques à un produit et des annonces générales de produit d’Adobe directement dans l’application.
 
-PICC
-
-PICC
+![](assets/unified-shell-overview-5.png)
 
 **Paramètres d’Adobe**
 
 Cliquez sur l’icône de votre profil pour modifier votre langue ou d’autres préférences à l’échelle de l’Adobe. Vous pouvez également [!DNL Marketo Engage]Modifications spécifiques en cliquant sur **Mes paramètres**.
 
-PICC
+![](assets/unified-shell-overview-6.png)
 
 ## Questions fréquentes {#faq}
 
@@ -70,7 +68,7 @@ PICC
 
 Si vous pouvez vous connecter à Adobe Experience Cloud, mais que vous voyez une page comme celle-ci, le problème peut se trouver sur la page [!DNL Marketo Engage] side :
 
-PICC
+PIC7
 
 Si vous recevez l’erreur ci-dessus, veuillez [Contacter l’assistance](https://nation.marketo.com/t5/support/ct-p/Support) pour obtenir de l’aide.
 
