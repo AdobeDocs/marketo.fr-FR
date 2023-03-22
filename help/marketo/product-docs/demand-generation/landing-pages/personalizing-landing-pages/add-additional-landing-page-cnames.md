@@ -3,10 +3,10 @@ unique-page-id: 2359798
 description: Ajout de CNAME de page d’entrée supplémentaires - Documents Marketo - Documentation du produit
 title: Ajout de CNAME de page d’entrée supplémentaires
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 0%
+source-wordcount: '234'
+ht-degree: 3%
 
 ---
 
@@ -28,33 +28,37 @@ Vous pouvez ajouter des CNAME de landing page pour permettre à différentes URL
 >
 >**Autorisations d’administrateur requises**
 
-## Rechercher votre chaîne de compte {#find-your-account-string}
+1. Cliquez sur l&#39;icône **Admin**.
 
-1. Accédez au **Administration** zone et clic **Pages d’entrée**.
+   ![](assets/add-additional-landing-page-cnames-1.png)
 
-   ![](assets/image2014-9-16-15-3a19-3a54.png)
+1. Cliquez sur **Mon compte**.
 
-1. Copiez le **Chaîne de compte** de la **Paramètres** .
+   ![](assets/add-additional-landing-page-cnames-2.png)
 
-   ![](assets/image2014-9-16-15-3a20-3a2.png)
+1. Faites défiler l’écran jusqu’à &quot;Informations sur l’assistance&quot; et copiez votre Munchkin ID.
 
-1. Notez-le pour l’étape suivante.
+   ![](assets/add-additional-landing-page-cnames-3.png)
 
 ## Envoyer la demande au service informatique {#send-request-to-it}
 
-1. Demandez à votre service informatique de configurer le CNAME suivant : (Remplacer le mot [CNAME] avec le CNAME de votre choix et [CHAÎNE DE COMPTE] avec le texte de l’étape précédente).
+1. Demandez à votre service informatique de configurer le CNAME suivant : (Remplacer le mot [CNAME] avec le CNAME de votre choix et [Munchkin ID] avec le texte de l’étape précédente).
 
-   [CNAME].YourCompany.com > [CHAÎNE DE COMPTE].mktoweb.com
+   [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Ajout d’un nouveau CNAME {#add-a-new-cname}
 
-1. Une fois que votre service informatique a créé le CNAME, accédez à **Administration** puis cliquez sur **Pages d’entrée**.
+1. Une fois que votre service informatique a créé le CNAME, accédez à **Administration** zone.
 
-   ![](assets/image2014-9-16-15-3a20-3a20.png)
+   ![](assets/add-additional-landing-page-cnames-4.png)
+
+1. Cliquez sur **Pages de destination**.
+
+   ![](assets/add-additional-landing-page-cnames-5.png)
 
 1. Cliquez sur **Nouveau** puis sélectionnez **Nouvel alias de domaine**.
 
-   ![](assets/image2014-9-16-15-3a20-3a28.png)
+   ![](assets/add-additional-landing-page-cnames-6.png)
 
 1. Saisissez votre **Alias du domaine.** Le **Page par défaut** s’affiche si le visiteur ne place pas d’URL. Entrez où ils doivent aller dans ce cas.
 
@@ -62,10 +66,10 @@ Vous pouvez ajouter des CNAME de landing page pour permettre à différentes URL
    >
    >Pour la page par défaut, vous pouvez sélectionner une landing page ou une URL externe, telle que votre site web public.
 
-   ![](assets/image2014-9-16-15-3a20-3a36.png)
+   ![](assets/add-additional-landing-page-cnames-7.png)
 
 1. Saisissez votre **Page par défaut** et cliquez sur **Créer**.
 
-   ![](assets/image2014-9-16-15-3a20-3a43.png)
+   ![](assets/add-additional-landing-page-cnames-8.png)
 
 Beau ! Vous savez maintenant quoi faire si vous souhaitez ajouter un CNAME.
