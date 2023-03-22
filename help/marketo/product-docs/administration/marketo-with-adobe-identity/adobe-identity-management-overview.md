@@ -2,9 +2,9 @@
 description: Présentation d’Adobe Identity Management - Documentation Marketo - Documentation du produit
 title: Présentation d’Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
+source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Les abonnements Adobe Marketo Engage intégrés à Adobe Identity Management Sys
  </tr>
 </table>
 
-## FAQ {#faq}
+## Questions fréquentes {#faq}
 
 **Qu’est-ce que l’identité Adobe ?**
 
@@ -122,6 +122,10 @@ Nombre Le workflow d’ invitation d’utilisateur n’est plus principal lorsqu
 **Pour Adobe IMS, avons-nous la possibilité d’utiliser Adobe ID, Enterprise ID ou Federated ID ?**
 
 Oui, vous déterminez le type d’identité à prendre en charge par votre organisation. Plus d’informations sont disponibles ici : [Présentation des identités](https://helpx.adobe.com/enterprise/using/identity.html) et ici : [Configuration d’identité](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+**Quelles cartes de produits sont prises en charge dans Adobe Admin Console ?**
+
+Les cartes de produits prises en charge sont les suivantes : Actions Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect et Marketo Sales Insight.
 
 >[!MORELIKETHIS]
 >
