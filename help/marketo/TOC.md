@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: c53002db5778ce06031a0727c85b1b30aca172e0
+source-git-commit: 0507bc7dfdfda6a19dd9838852c52de9d278ddc6
 workflow-type: tm+mt
 source-wordcount: '8849'
 ht-degree: 5%
@@ -1287,7 +1287,7 @@ ht-degree: 5%
          + [Présentation de la fonction Actions d’aperçu des ventes](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Premiers pas {#getting-started}
             + [Guide d’intégration des utilisateurs des actions Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [Liste de contrôle d’intégration des utilisateurs des actions Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
+            + [Liste de contrôle d’intégration des utilisateurs des actions Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-onboarding-checklist.md)
             + [Guide de configuration des actions Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Modification du mot de passe des ventes Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [Limites d’utilisation des produits](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
