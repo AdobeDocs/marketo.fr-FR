@@ -2,7 +2,7 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 9%
@@ -27,7 +27,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 * **Amélioré utilisé par le composant pour les détails du modèle de page d’entrée et les détails du formulaire**: L’onglet Nouveau utilisé par l’interface utilisateur fournit des informations supplémentaires dans Détails du modèle de page d’entrée et Détails du formulaire, y compris des détails supplémentaires sur les ressources qui ont utilisé une ressource sélectionnée. Effectuez une analyse sur de longues listes de ressources par le biais des fonctionnalités de recherche, de tri et de filtrage.
 
-   <table> 
+<table> 
   <tr> 
    <td><b>Statut</b></td>
    <td><b>Mises à jour de la documentation</b></td>
@@ -67,7 +67,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tbody>
 </table>
 
-### Améliorations des API {#api-enhancements}
+### Mises à jour d’intégration {#integration-updates}
 
 </br>
 
