@@ -1,10 +1,8 @@
 ---
 description: Connecter votre compte d’actions Sales Insight à Salesforce - Documents Marketo - Documentation du produit
 title: Connecter votre compte d’actions d’aperçu des ventes à Salesforce
-hide: true
-hidefromtoc: true
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
-source-git-commit: 238e2049ecb70c8fdc6d0d9c2fae8b7b99fcc17f
+source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -33,7 +31,7 @@ Suivez ces étapes simples pour connecter le compte d’actions d’aperçu des 
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
-1. Si vous êtes déjà connecté à Salesforce, vous serez connecté. Si ce n’est pas le cas, vous serez invité à vous connecter.
+1. Si vous êtes déjà connecté à Salesforce, vous serez connecté. Si ce n&#39;est pas le cas, on vous demandera de vous connecter.
 
 ## Comment se connecter en tant que non-administrateur {#how-to-connect-as-a-non-admin}
 
@@ -51,4 +49,4 @@ Suivez ces étapes simples pour connecter le compte d’actions d’aperçu des 
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 
-1. Si vous êtes déjà connecté à Salesforce, vous serez connecté. Si ce n’est pas le cas, vous serez invité à vous connecter.
+1. Si vous êtes déjà connecté à Salesforce, vous serez connecté. Si ce n&#39;est pas le cas, on vous demandera de vous connecter.
