@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Rechercher et fusionner des personnes en double - Documents Marketo - Documentation du produit
 title: Rechercher et fusionner des personnes en double
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,6 @@ Pour plus d’informations sur le comportement de Salesforce lors de la fusion d
 
 ## Fusion en bloc {#bulk-merging}
 
-Si vous avez trop de doublons à fusionner manuellement, contactez votre responsable du succès client pour discuter de vos options.
+Si vous avez trop de doublons à fusionner manuellement, contactez l’équipe Compte d’Adobe (votre gestionnaire de compte) pour discuter de vos options.
 
-Super ! Si vous êtes connecté à un CRM, les enregistrements y fusionneront selon les règles ci-dessous.
+Si vous êtes connecté à un CRM, les enregistrements y fusionneront selon les règles ci-dessous.

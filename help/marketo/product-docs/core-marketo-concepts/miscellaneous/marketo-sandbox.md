@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Environnement de test Marketo - Documents Marketo - Documentation du produit
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: c2dc3c337cb5ea1446a2ebd6233f570025d1d986
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Un environnement de test Marketo est une instance supplémentaire utilisée à d
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre responsable du succès client.
+>Cette fonctionnalité n’a pas été achetée par tout le monde. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
 
 Un environnement de test Marketo ne peut pas être synchronisé avec votre système de gestion de la relation client classique s’il est déjà synchronisé avec votre instance de production. Utilisez l’environnement de test de votre CRM pour la synchronisation et suivez toutes les étapes de la synchronisation d’origine.
 
 ## Informations à connaître sur les environnements de test {#things-to-know-about-sandboxes}
 
-* Une fois que votre environnement de test est configuré pour votre responsable du succès client et que vous avez envoyé l’invitation, vous devez utiliser une adresse électronique différente de celle de votre instance de production Marketo pour vous connecter.
+* Une fois que l’équipe du compte Adobe a configuré votre environnement de test et vous a envoyé l’invitation, vous devez utiliser une adresse électronique différente de celle de votre instance de production Marketo pour vous connecter.
 * Si vous souhaitez ajouter des utilisateurs, le processus est le même que [ajout d’utilisateurs en production](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Là encore, ils doivent utiliser une autre adresse électronique s’ils disposent déjà d’une connexion Marketo.
 * Votre environnement de test Marketo va commencer vide, mais dispose des mêmes fonctionnalités que votre instance de production.
 * Si vous créez un programme dans votre environnement de test et souhaitez le déplacer en production, vous pouvez exécuter une [import de programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
@@ -30,7 +30,7 @@ Un environnement de test Marketo ne peut pas être synchronisé avec votre syst�
 
 >[!CAUTION]
 >
->Actuellement, nous ne prenons pas en charge l’actualisation des environnements de test pour la synchronisation Marketo Dynamics. Si vous devez actualiser votre environnement de test Dynamics CRM, un nouvel environnement de test Marketo est requis. Pour plus d’informations, contactez votre responsable du succès client.
+>Actuellement, nous ne prenons pas en charge l’actualisation des environnements de test pour la synchronisation Marketo Dynamics. Si vous devez actualiser votre environnement de test Dynamics CRM, un nouvel environnement de test Marketo est requis. Pour plus d’informations, contactez votre équipe de compte d’Adobe (votre gestionnaire de compte).
 
 ## Copie de l’instance {#instance-copy}
 

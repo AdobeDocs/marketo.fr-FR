@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: Configuration des publicités Facebook - Documents Marketo - Documentation du produit
 title: Configuration de publicités Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Utilisation [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) po
 
 >[!AVAILABILITY]
 >
->Pour que les pistes publicitaires Facebook soient ajoutées à votre instance, contactez votre gestionnaire de succès client.
+>Pour que les pistes publicitaires Facebook soient ajoutées à votre instance, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 1. Accéder à Marketo **Administration**.
 

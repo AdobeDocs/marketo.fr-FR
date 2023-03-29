@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Présentation de la synchronisation Microsoft Dynamics - Documents Marketo - Documentation du produit
 title: Présentation de la synchronisation Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ Marketo et Microsoft Dynamics vont de pair. Vos données de vente et marketing s
 
 >[!CAUTION]
 >
->Actuellement, nous ne prenons pas en charge l’actualisation des environnements de test pour la synchronisation Marketo Dynamics. Si vous devez actualiser votre environnement de test Dynamics CRM, un nouvel environnement de test Marketo est requis. Pour plus d’informations, contactez votre responsable du succès client.
+>Actuellement, nous ne prenons pas en charge l’actualisation des environnements de test pour la synchronisation Marketo Dynamics. Si vous devez actualiser votre environnement de test Dynamics CRM, un nouvel environnement de test Marketo est requis. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 ## Fonctionnement de la synchronisation {#how-sync-works}
 

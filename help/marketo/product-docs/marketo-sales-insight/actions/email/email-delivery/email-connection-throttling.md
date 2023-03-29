@@ -2,7 +2,7 @@
 description: Limitation de la connexion par e-mail - Documents Marketo - Documentation du produit
 title: Limitation de la connexion aux e-mails
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -17,7 +17,7 @@ L’intégration de votre compte Sales Connect pour l’envoi par les fournisseu
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est actuellement en version bêta. Pour rejoindre cette version bêta, contactez votre responsable du succès client.
+>Cette fonctionnalité est actuellement en version bêta. Pour vous inscrire, contactez l’équipe Compte d’Adobe (votre gestionnaire de compte).
 
 Le contrôle de connexion par e-mail permet aux administrateurs de Sales Connect de configurer le taux d’envoi des e-mails lors de l’utilisation de Gmail ou Exchange comme canal de diffusion, de sorte que le taux auquel les e-mails sont remis au fournisseur de canal de diffusion ne dépasse pas les limites appliquées.
 

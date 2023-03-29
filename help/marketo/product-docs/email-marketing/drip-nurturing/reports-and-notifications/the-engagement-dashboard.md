@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: Tableau de bord de l’engagement - Documents Marketo - Documentation du produit
 title: Tableau de bord de l’engagement
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Affiche le score moyen de l’engagement au fil du temps et l’impact des modif
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est disponible sous la forme d’un module complémentaire pour les clients qui utilisent l’explorateur de cycle de revenu Marketo. Pour plus d’informations, contactez votre responsable du succès client.
+>Cette fonctionnalité est disponible sous la forme d’un module complémentaire pour les clients qui utilisent l’explorateur de cycle de revenu Marketo. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: Étape 3 sur 3 - Connexion de Marketo et de Salesforce (Enterprise/Unlimited) - Documents Marketo - Documentation du produit
 title: Étape 3 sur 3 - Connexion de Marketo et Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Dans cet article, vous allez configurer Marketo pour qu’il se synchronise avec
 
    >[!CAUTION]
    >
-   >Si vous voyez un bouton &quot;Se connecter à Salesforce&quot; au lieu des champs Nom d’utilisateur/Mot de passe/Jeton, votre abonnement Marketo est activé pour OAuth. Veuillez [voir cet article](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Dès que la synchronisation commence à utiliser un ensemble d’informations d’identification, **il n’y a pas de changement d’informations d’identification ou d’abonnement Salesforce**. Si vous souhaitez utiliser l’authentification de base, contactez votre gestionnaire de succès client.
+   >Si vous voyez un bouton &quot;Se connecter à Salesforce&quot; au lieu des champs Nom d’utilisateur/Mot de passe/Jeton, votre abonnement Marketo est activé pour OAuth. Veuillez [voir cet article](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Dès que la synchronisation commence à utiliser un ensemble d’informations d’identification, **il n’y a pas de changement d’informations d’identification ou d’abonnement Salesforce**. Si vous souhaitez utiliser l’authentification de base, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 1. Lisez l’avertissement, puis cliquez sur **Confirmation des informations d’identification**.
 

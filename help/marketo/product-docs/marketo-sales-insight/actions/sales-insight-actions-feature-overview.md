@@ -2,9 +2,9 @@
 description: Présentation des actions Sales Insight - Documents Marketo - Documentation du produit
 title: Présentation de la fonction Actions d’aperçu des ventes
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1356'
+source-wordcount: '1360'
 ht-degree: 1%
 
 ---
@@ -15,11 +15,11 @@ Accélérez les efforts de prospection grâce à des outils d’intelligence et 
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est actuellement en cours de déploiement échelonné. Contactez votre responsable du succès client ou e-mail. `sales-insights(at)adobe(dot)com` pour demander l’accès.
+>Cette fonctionnalité est actuellement déployée pour tous les utilisateurs de Sales Insight. Si vous souhaitez que la priorité soit établie dans le déploiement, envoyez un e-mail à `sales-insights(at)adobe(dot)com`.
 
 >[!NOTE]
 >
->Pour une présentation vidéo des actions Sales Insight, [cliquez ici](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target=&quot;_blank&quot;}.
+>Pour une présentation vidéo des actions Sales Insight, [cliquez ici](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -185,6 +185,6 @@ Les filtres et déclencheurs incluent :
 * Réponse à l’e-mail de vente
 * Appel de vente reçu
 * Ajout à la campagne de ventes
-* Supprimé de la campagne de ventes
+* Supprimé de la campagne SFDC
 
    ![](assets/sales-insight-actions-feature-overview-7.png)

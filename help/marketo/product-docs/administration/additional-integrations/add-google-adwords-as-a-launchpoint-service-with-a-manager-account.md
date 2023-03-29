@@ -3,24 +3,24 @@ unique-page-id: 7504893
 description: Ajout de Google AdWords en tant que service Launch avec un compte de gestionnaire - Documents Marketo - Documentation du produit
 title: Ajout de Google AdWords en tant que service Launch avec un compte de gestionnaire
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '359'
 ht-degree: 2%
 
 ---
 
 # Ajout de Google AdWords en tant que service Launch avec un compte de gestionnaire {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Liez votre compte Google AdWords à Marketo pour charger automatiquement les données de conversion hors ligne de Marketo vers Google AdWords. Ensuite, à partir de l’interface utilisateur d’AdWords, vous pourrez facilement identifier les clics qui ont généré des prospects qualifiés, des opportunités et de nouveaux clients (ou toute étape de recettes dont vous souhaitez effectuer le suivi) après avoir effectué vos recherches.  [ajout de colonnes personnalisées](https://support.google.com/adwords/answer/3073556){target=&quot;_blank&quot;} dans AdWords. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketo.
+Liez votre compte Google AdWords à Marketo pour charger automatiquement les données de conversion hors ligne de Marketo vers Google AdWords. Ensuite, à partir de l’interface utilisateur d’AdWords, vous pourrez facilement identifier les clics qui ont généré des prospects qualifiés, des opportunités et de nouveaux clients (ou toute étape de recettes dont vous souhaitez effectuer le suivi) après avoir effectué vos recherches.  [ajout de colonnes personnalisées](https://support.google.com/adwords/answer/3073556){target="_blank"} dans AdWords. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketo.
 
-Si vous disposez de plusieurs comptes Google AdWords, vous pouvez utiliser une variable [Compte Google AdWords Manager](https://www.google.com/adwords/manager-accounts/){target=&quot;_blank&quot;} (anciennement appelé My Client Center) pour les intégrer à Marketo.
+Si vous disposez de plusieurs comptes Google AdWords, vous pouvez utiliser une variable [Compte Google AdWords Manager](https://www.google.com/adwords/manager-accounts/){target="_blank"} (anciennement appelé My Client Center) pour les intégrer à Marketo.
 
-En savoir plus sur [Fonction d’importation de conversion hors ligne de Google](https://support.google.com/adwords/answer/2998031?hl=en){target=&quot;_blank&quot;}.
+En savoir plus sur [Fonctionnalité d’importation de conversion hors ligne Google](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre responsable du succès client.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ En savoir plus sur [Fonction d’importation de conversion hors ligne de Google]
 
 >[!NOTE]
 >
->Vous pouvez également intégrer une [compte Google AdWords autonome en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target=&quot;_blank&quot;}.
+>Vous pouvez également intégrer une [compte Google AdWords autonome en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
 1. Accédez au **Administration** .
 
@@ -81,7 +81,7 @@ En savoir plus sur [Fonction d’importation de conversion hors ligne de Google]
 
    >[!NOTE]
    >
-   >[Balisage automatique](https://support.google.com/adwords/answer/1752125?hl=en){target=&quot;_blank&quot;} doit être sélectionné pour que cette fonction fonctionne. Elle doit être activée dans AdWords.
+   >[Balisage automatique](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} doit être sélectionné pour que cette fonction fonctionne. Elle doit être activée dans AdWords.
 
 1. Cliquez sur **Suivant**.
 
@@ -95,4 +95,4 @@ En savoir plus sur [Fonction d’importation de conversion hors ligne de Google]
 
    >[!MORELIKETHIS]
    >
-   >[Définir des conversions Google AdWords dans le modèle de revenu avec un compte de gestionnaire](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target=&quot;_blank&quot;}
+   >[Définir des conversions Google AdWords dans le modèle de revenu avec un compte de gestionnaire](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

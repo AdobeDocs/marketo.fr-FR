@@ -4,9 +4,9 @@ title: Définition des objectifs d’événement
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 0%
 Indiquez des objectifs spécifiques à vos événements et vérifiez leurs performances.
 
 >[!IMPORTANT]
->Tous les clients n’ont pas accès à cette fonctionnalité. Pour plus d’informations, contactez votre responsable du succès client.
+>
+>Cette fonctionnalité n’a pas été achetée par tout le monde. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
 
 1. Créez un programme d’événement.
 

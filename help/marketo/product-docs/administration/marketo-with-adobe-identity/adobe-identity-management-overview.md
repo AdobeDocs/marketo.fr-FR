@@ -2,22 +2,22 @@
 description: Présentation d’Adobe Identity Management - Documentation Marketo - Documentation du produit
 title: Présentation d’Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1098'
+source-wordcount: '1096'
 ht-degree: 0%
 
 ---
 
 # Présentation d’Adobe Identity Management {#adobe-identity-management-overview}
 
-Si vous disposez d’un nouveau compte avec Adobe Marketo Engage (un nouveau compte, et pas seulement une nouvelle instance pour un compte existant) à compter du 15 février 2022, il peut être intégré au système Identity Management d’Adobe, en fonction du package de produits acheté. Pour savoir si vous l’avez, contactez votre administrateur Marketo ou le responsable du succès client de votre compte.
+Si vous disposez d’un nouveau compte avec Adobe Marketo Engage (un nouveau compte, et pas seulement une nouvelle instance pour un compte existant) à compter du 15 février 2022, il peut être intégré au système Identity Management d’Adobe, en fonction du package de produits acheté. Pour savoir si vous l’avez, contactez l’équipe Compte d’Adobe (votre gestionnaire de compte).
 
 Les abonnements Marketo existants commenceront à être migrés vers le système Identity Management Adobe au cours du second semestre 2023.
 
 >[!NOTE]
 >
->La prise en charge de Marketo ne pourra fournir aucune mise à jour concernant la migration d’Adobe IMS. Votre responsable du succès client atteindra le délai prévu au cours des prochains mois.
+>La prise en charge de Marketo ne pourra fournir aucune mise à jour concernant la migration d’Adobe IMS. L’équipe Compte d’Adobe atteindra le délai prévu au cours des prochains mois.
 
 ## Niveaux de profil {#profile-levels}
 
@@ -61,7 +61,7 @@ Adobe Identity Management System se compose de trois composants.
 
 **Quand les abonnements de Marketo Engage existants seront-ils intégrés à IMS ?**
 
-Les abonnements Marketo existants seront migrés vers le système Identity Management Adobe plus tard dans l’année. La prise en charge de Marketo ne pourra fournir aucune mise à jour concernant la migration d’Adobe IMS. Votre responsable du succès client atteindra le délai prévu au cours des prochains mois.
+Les abonnements Marketo existants seront migrés vers le système Identity Management Adobe plus tard dans l’année. La prise en charge de Marketo ne pourra fournir aucune mise à jour concernant la migration d’Adobe IMS. L’équipe Compte d’Adobe atteindra le délai prévu au cours des prochains mois.
 
 **Quelle est la différence entre un administrateur de produit Adobe et un administrateur de Marketo Engage ?**
 

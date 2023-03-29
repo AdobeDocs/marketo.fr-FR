@@ -3,9 +3,9 @@ unique-page-id: 14352405
 description: Configuration de l’authentification unique via SAML 2.0 dans Sales Connect - Marketo Docs - Documentation du produit
 title: Configuration de l’authentification unique via SAML 2.0 dans Sales Connect
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Nous prenons en charge l’authentification unique par le biais de la spécifica
 
 >[!NOTE]
 >
->Cela ne s’applique qu’à **Marketo Sales Connect** clients. Si vous ne disposez pas de Sales Connect, mais que vous souhaitez en savoir plus, contactez votre responsable du succès client.
+>Cela ne s’applique qu’à **Marketo Sales Connect** utilisateurs. Si vous ne disposez pas de Sales Connect mais que vous souhaitez en savoir plus, contactez l’équipe Compte d’Adobe (votre gestionnaire de compte).
 
 ## Exigences {#requirements}
 

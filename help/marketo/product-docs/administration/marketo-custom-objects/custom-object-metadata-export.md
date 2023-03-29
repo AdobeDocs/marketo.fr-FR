@@ -2,9 +2,9 @@
 description: Exportation de métadonnées d’objet personnalisé - Documents Marketo - Documentation du produit
 title: Exportation des métadonnées d’objet personnalisé
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Si vous utilisez notre API SOAP ou l’API Munchkin, le schéma de métadonnées
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre responsable du succès client.
+>Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
 
 1. Dans Mon Marketo, cliquez sur **Administration**.
 

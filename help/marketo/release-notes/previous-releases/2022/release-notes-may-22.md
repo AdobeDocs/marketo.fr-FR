@@ -2,9 +2,9 @@
 description: Notes de mise à jour - Mai 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Mai 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '826'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **6 mai 2022*
 
 ## Intégration CRM native {#native-crm-integration}
 
-**[Intégration de la gestion de la relation client native de Veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;} (disponibilité limitée)**: Améliorer l&#39;engagement avec les professionnels de santé en synchronisant l&#39;activité entre Veeva CRM et Marketo Engage via l&#39;intégration native. Cette intégration permet aux marketeurs de créer des expériences cross-canal plus personnalisées et plus transparentes pour les professionnels de la santé. Contactez votre responsable du succès client si vous souhaitez participer.
+**[Intégration de la gestion de la relation client native de Veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (disponibilité limitée)**: Améliorer l&#39;engagement avec les professionnels de santé en synchronisant l&#39;activité entre Veeva CRM et Marketo Engage via l&#39;intégration native. Cette intégration permet aux marketeurs de créer des expériences cross-canal plus personnalisées et plus transparentes pour les professionnels de la santé. Contactez l’équipe du compte d’Adobe (votre gestionnaire de compte) si vous souhaitez participer.
 
 ## Orchestration cross-canal {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ Les fonctionnalités suivantes commenceront à être publiées sur **6 mai 2022*
 
 **Exclure des URL pour la messagerie instantanée dynamique**: Contrôlez les pages de vos pages web avec la possibilité d’exclure des URL spécifiques des critères de ciblage.
 
-**[Améliorations du filtrage des activités des robots de messagerie](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: Continuez à protéger l’intégrité de votre base de données avec la possibilité d’identifier le comportement des robots en fonction des agents utilisateur ou des adresses IP des liens masqués et des modèles de proximité, en plus de l’identification des correspondances de liste IAB existante. Affichez les statistiques des activités de robots qui vous permettent de comprendre le nombre d’activités de robots identifiées pour chaque type.
+**[Améliorations du filtrage des activités des robots de messagerie](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: Continuez à protéger l’intégrité de votre base de données avec la possibilité d’identifier le comportement des robots en fonction des agents utilisateur ou des adresses IP des liens masqués et des modèles de proximité, en plus de l’identification des correspondances de liste IAB existante. Affichez les statistiques des activités de robots qui vous permettent de comprendre le nombre d’activités de robots identifiées pour chaque type.
 
-**[En-tête STS pour les liens de suivi de courrier électronique](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Respectez les bonnes pratiques en matière de sécurité avec la possibilité d’appliquer des en-têtes Secure Transport Security pour garantir que le trafic vers les liens trackés est toujours sécurisé.
+**[En-tête STS pour les liens de suivi de courrier électronique](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: Respectez les bonnes pratiques en matière de sécurité avec la possibilité d’appliquer des en-têtes Secure Transport Security pour garantir que le trafic vers les liens trackés est toujours sécurisé.
 
 ## Expérience de nouvelle génération {#modern-ux}
 
@@ -65,8 +65,8 @@ Nous fournissons la vue Détails du modèle d’email dans Design Studio dans l�
 
 La vérification des e-mails pour les abonnements à l’aide de la fonction &quot;Se connecter dans la boîte de dialogue d’invitation&quot; ou pour lesquels un e-mail unique est associé à plusieurs utilisateurs coïncide avec la version de mai. Les abonnements auxquels un seul message électronique est associé à plusieurs utilisateurs seront activés avec la vérification par courrier électronique et nécessiteront que ces utilisateurs résolvent le conflit et utilisent un message électronique unique par utilisateur. Lorsque la fonction &quot;Connexion à la boîte de dialogue d’invitation d’utilisateur&quot; est activée, les utilisateurs invités via cette fonction doivent disposer d’une adresse électronique unique. Pour les utilisateurs d’API uniquement invités via cette fonctionnalité, l’adresse électronique n’a pas besoin d’être unique.
 
-**Modification du comportement du dossier d’archives**: Avec cette version, la possibilité de créer des ressources dans les dossiers d’archives ne sera plus disponible dans les menus contextuels de l’arborescence. Les options de menu permettant de créer des ressources sont masquées pour toutes les ressources. [En savoir plus ici](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
+**Modification du comportement du dossier d’archives**: Avec cette version, la possibilité de créer des ressources dans les dossiers d’archives ne sera plus disponible dans les menus contextuels de l’arborescence. Les options de menu permettant de créer des ressources sont masquées pour toutes les ressources. [En savoir plus ici](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 
 **_Webinaire sur la version du produit_**
 
-[Webinaire de mise à jour des Marketo Engage de mars et mai 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+[Webinaire de mise à jour des Marketo Engage de mars et mai 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

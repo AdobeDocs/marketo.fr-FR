@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Notes de mise à jour - Printemps 2018 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Printemps 2018
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 9%
 
 ---
@@ -24,7 +24,7 @@ Cliquez sur les liens de titre pour afficher des articles détaillés pour chaqu
 
 >[!AVAILABILITY]
 >
->Sales Engage est un produit complémentaire. Contactez votre responsable de succès client Marketo ou votre gestionnaire de compte pour obtenir un devis.
+>Sales Engage est un produit complémentaire. Contactez votre gestionnaire de compte ou votre gestionnaire de compte Marketo pour obtenir un devis.
 
 Augmentez les pipelines et les recettes en augmentant les ventes grâce à l’intelligence, au contenu, aux playbooks et aux analyses afin de convertir davantage de vos prospects en opportunités de vente. Sales Engage fournit une plateforme de vente et de marketing unifiée pour l’engagement sur le parcours client et permet une meilleure coordination par le biais d’une vue partagée des points de contact clients.
 

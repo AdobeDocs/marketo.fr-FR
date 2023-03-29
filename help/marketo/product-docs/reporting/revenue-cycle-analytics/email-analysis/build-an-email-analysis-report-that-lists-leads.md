@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: Créer un rapport d’analyse des emails qui répertorie les pistes - Documents Marketo - Documentation du produit
 title: Créer un rapport d’analyse des emails qui répertorie les pistes
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Pour créer un rapport d’analyse des emails qui vous montrera chaque piste env
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez votre gestionnaire de succès client.
+>Cette fonctionnalité n’a pas été achetée par tout le monde. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
 
 >[!NOTE]
 >

@@ -2,9 +2,9 @@
 description: Connexion à l’aide d’OAuth 2.0 - Documents Marketo - Documentation du produit
 title: Connexion à l’aide d’OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-source-git-commit: c15753e0f2af199af8fd7e8bfe0924a915a39814
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,7 @@ Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applic
 
    >[!CAUTION]
    >
-   >Si vous voyez des champs Nom d’utilisateur/Mot de passe/Jeton et non un bouton &quot;Connexion avec Salesforce&quot;, votre abonnement Marketo est activé pour l’authentification de base. Reportez-vous à la section [Configuration de Marketo avec l’authentification de base](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Une fois que la synchronisation commence à utiliser un ensemble d’informations d’identification, il n’y a plus de changement d’informations d’identification ou d’abonnement Salesforce. Si vous souhaitez utiliser Oauth 2.0, contactez votre responsable du succès client.
+   >Si vous voyez des champs Nom d’utilisateur/Mot de passe/Jeton et non un bouton &quot;Connexion avec Salesforce&quot;, votre abonnement Marketo est activé pour l’authentification de base. Reportez-vous à la section [Configuration de Marketo avec l’authentification de base](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Une fois que la synchronisation commence à utiliser un ensemble d’informations d’identification, il n’y a plus de changement d’informations d’identification ou d’abonnement Salesforce. Si vous souhaitez utiliser Oauth 2.0, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 1. Une fenêtre contextuelle contenant la page de connexion Salesforce s’affiche. Clé dans vos informations d’identification &quot;Utilisateur de synchronisation Marketo&quot; et connectez-vous.
 

@@ -2,9 +2,9 @@
 description: Présentation de la création de rapports - Documents Marketo - Documentation du produit
 title: Présentation des rapports
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '387'
 ht-degree: 1%
 
 ---
@@ -15,15 +15,15 @@ Marketo propose divers modules de création de rapports en fonction des besoins.
 
 ## Reporting de base {#basic-reporting}
 
-Vous pouvez configurer [rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target=&quot;_blank&quot;} dans les programmes ou dans la zone Analytics. Les rapports de base se composent de différents types de rapports d’usine, avec la possibilité de filtrer, de trier et d’ajuster les décalages horaires.
+Vous pouvez configurer [rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} dans les programmes ou dans la zone Analytics. Les rapports de base se composent de différents types de rapports d’usine, avec la possibilité de filtrer, de trier et d’ajuster les décalages horaires.
 
 ## Email Insights {#email-insights}
 
-Utilisez Analytics et les envois pour obtenir [informations puissantes](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;} sur les emails provenant de données historiques.
+Utilisez Analytics et les envois pour obtenir [informations puissantes](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} sur les emails provenant de données historiques.
 
 ## Informations sur les performances {#performance-insights}
 
-[Informations sur les performances](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;} couvre les performances des canaux et les performances des programmes pour l’engagement, le pipeline et la génération des recettes.
+[Informations sur les performances](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} couvre les performances des canaux et les performances des programmes pour l’engagement, le pipeline et la génération de recettes.
 
 ## Rapports décisionnels avancés Analytics {#advanced-bi-analytics-reporting}
 
@@ -31,7 +31,7 @@ _(précédemment connu sous le nom d’Explorateur de cycle des recettes/Report 
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté les modules Advanced BI Analytics et Advanced Parcours Analytics. Pour plus d’informations, contactez votre gestionnaire de succès client.
+>Tout le monde n’a pas acheté les modules Advanced BI Analytics et Advanced Parcours Analytics. Contactez l’équipe du compte d’Adobe (votre gestionnaire de compte) pour en savoir plus.
 
 Suivez le retour sur investissement de vos initiatives marketing. Analysez les e-mails, les personnes, les programmes, les opportunités, l’analyse des performances des modèles (sociétés) et l’analyse des performances des modèles (pistes). L’explorateur de BI vous permet de créer des rapports personnalisés dans la zone d’analyse et de créer des graphiques, des graphiques, des pivots et des tableaux de bord avec vos données.
 

@@ -3,9 +3,9 @@ unique-page-id: 11384018
 description: Notes de mise à jour - Automne 16 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Automne 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Un ID universel permet d’accéder à plusieurs abonnements Marketo à l’aide
 
 ## Améliorations marketing basées sur les comptes Marketo {#marketo-account-based-marketing-enhancements}
 
-Désormais, vous pouvez affecter des équipes de compte à des comptes nommés dans le cadre du marketing basé sur les comptes (ABM), par exemple, le propriétaire du compte, le représentant du développement commercial, le représentant du développement commercial et le responsable de la réussite client. Vous pouvez également créer des listes de comptes spécifiques au propriétaire du compte et envoyer des rapports ABM hebdomadaires personnalisés à l’équipe du compte.
+Désormais, vous pouvez affecter des équipes de compte à des comptes nommés dans le cadre du marketing basé sur les comptes (ABM), par exemple, le propriétaire du compte, le représentant du développement commercial, le représentant du développement commercial et le gestionnaire de compte. Vous pouvez également créer des listes de comptes spécifiques au propriétaire du compte et envoyer des rapports ABM hebdomadaires personnalisés à l’équipe du compte.
 
 ![](assets/account-team-11-15-16.png)
 
