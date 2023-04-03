@@ -2,9 +2,9 @@
 description: Limites d’utilisation du produit - Documents Marketo - Documentation du produit
 title: Limites d’utilisation des produits
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 152b8e4f39dd9036e9479dc58b21d20c46c9e658
+source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '198'
 ht-degree: 22%
 
 ---
@@ -17,6 +17,11 @@ Les limites suivantes ont été mises en place pour l’utilisation des fonction
   <th>Fonctionnalité</th>
   <th>Taux</th>
   <th>Limite</th>
+ <tr>
+  <td>Synchronisation de la base de données de personnes Marketo</td>
+  <td>en cours</td>
+  <td>1 500 000 personnes</td>
+ </tr>
  <tr>
   <td>Courrier électronique commercial envoyé</td>
   <td>par utilisateur/par jour</td>
