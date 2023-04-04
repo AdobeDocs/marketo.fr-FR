@@ -2,10 +2,10 @@
 description: Filtrage de l’activité des robots de messagerie électronique - Documents Marketo - Documentation du produit
 title: Filtrage de l’activité des robots de messagerie
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: f5a4fa76510cc70fe5b4746d58c6e0d4daf93a72
+source-git-commit: 792db38ec0891d4a6de5a8d0bd746bd7bb429edb
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 0%
+source-wordcount: '416'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ Parfois, l’activité de robots de messagerie peut gonfler par erreur les ouver
 
 Nous utilisons trois méthodes distinctes pour confirmer l’activité des robots :
 
-* Correspondance avec [Liste de robots Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;} : Les activités qui correspondent à tout élément de la liste UA/IP de l’IAB (Agent utilisateur/Adresse IP) seront marquées comme des robots.
+* Correspondance avec [Liste de robots Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Les activités qui correspondent à tout élément de la liste UA/IP de l’IAB (Agent utilisateur/Adresse IP) seront marquées comme des robots.
 * Correspondance avec le modèle de proximité : Lorsque plus de deux activités se produisent en même temps (en moins d’une seconde), elles sont identifiées comme des robots. Les attributs pris en compte lors de la comparaison sont les suivants :
    * Identifiant de piste (doit être le même)
    * Ressource de messagerie électronique (doit être identique)
@@ -53,3 +53,28 @@ Par rapport aux clics sur les liens de courrier électronique et à l’activit�
 >[!TIP]
 >
 >Tirez parti des données d’activité de robots dans les listes dynamiques par l’intermédiaire de la valeur booléenne &quot;Is Bot Activity&quot; (yes/no) et &quot;Bot Activity Pattern&quot; des filtres &quot;Lien cliqué dans le courrier électronique&quot; et &quot;Open Email&quot;, ainsi que des déclencheurs &quot;Clicks Link in Email&quot; et &quot;Opens Email&quot;.
+
+## LISTE BLOQUÉE IP {#ip-blocklist}
+
+Nous avons compilé une liste des adresses IP responsables de la génération de millions d’engagements factices, car l’engagement reçu de l’une des adresses IP suivantes est automatiquement filtré et n’est pas ajouté à votre instance de Marketo Engage. Cela peut se traduire par une réduction des ouvertures d’email, des clics et d’autres activités associées. La liste ci-dessous peut être mise à jour régulièrement.
+
+* 209.222.82.126
+* 209.222.82.127
+* 209.222.82.128
+* 209.222.82.129
+* 209.222.82.138
+* 209.222.82.139
+* 209.222.82.140
+* 209.222.82.141
+* 209.222.82.228
+* 209.222.82.229
+* 209.222.82.230
+* 209.222.82.231
+* 209.222.82.232
+* 209.222.82.233
+* 209.222.82.234
+* 209.222.82.235
+
+>[!NOTE]
+>
+>Nous analysons et analysons méticuleusement chaque adresse IP avant de l’ajouter à cette liste, en veillant à ce que seules les adresses IP les plus critiques et les plus nocives soient bloquées.
