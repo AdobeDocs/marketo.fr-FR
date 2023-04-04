@@ -3,10 +3,10 @@ unique-page-id: 11380986
 description: Modification d’un espace de travail - Documents Marketo - Documentation du produit
 title: Modification d’un espace de travail
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '148'
+ht-degree: 3%
 
 ---
 
@@ -22,13 +22,17 @@ Parfois, vous devez apporter des modifications dans un espace de travail. C&#39;
 >
 >Remplacer les espaces de travail par [Présentation des espaces de travail et des partitions de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Sous **Administration**, cliquez sur **Espaces de travail et partitions**.
+1. Cliquez sur l&#39;icône **Admin**.
 
-   ![](assets/image2014-9-17-11-3a59-3a11-1.png)
+   ![](assets/edit-a-workspace-1.png)
+
+1. Cliquez sur **Espaces de travail et partitions**.
+
+   ![](assets/edit-a-workspace-2.png)
 
 1. Sélectionnez l’espace de travail à modifier, puis cliquez sur **Modifier l’espace de travail**.
 
-   ![](assets/two-7.png)
+   ![](assets/edit-a-workspace-3.png)
 
 1. Vous pouvez sélectionner une partition de prospect différente et choisir une partition de personne Principale différente dans la liste déroulante.
 
@@ -36,7 +40,7 @@ Parfois, vous devez apporter des modifications dans un espace de travail. C&#39;
    >
    >Vous pouvez [créer des partitions pour personnes](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) si vous en avez besoin.
 
-   ![](assets/three-7.png)
+   ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
@@ -48,7 +52,7 @@ Parfois, vous devez apporter des modifications dans un espace de travail. C&#39;
 
    Si vous avez activé plusieurs domaines de marque, vous pouvez passer à un domaine de marque Principal différent. Cliquez sur **Enregistrer**.
 
-   ![](assets/four-6.png)
+   ![](assets/edit-a-workspace-5.png)
 
    >[!NOTE]
    >

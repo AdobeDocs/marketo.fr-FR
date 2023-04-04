@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Présentation des campagnes dynamiques par lots et par déclenchement - Documents Marketo - Documentation du produit
 title: Présentation des campagnes dynamiques par lots et par déclenchement
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Il existe deux types de campagnes intelligentes : Lot et Déclencheur.
 
 Les campagnes dynamiques par lots ne comportent que des filtres dans la section Liste dynamique (c’est-à-dire, aucun déclencheur).
 
-![](assets/batch-filter.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
 Cliquez sur le **Planification** confirme que la campagne dynamique est définie sur &quot;Lot&quot;.
 
-![](assets/batch-c4.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Campagnes dynamiques par lots**
 
@@ -47,11 +47,11 @@ Cliquez sur le **Planification** confirme que la campagne dynamique est définie
 
 Si une campagne dynamique utilise au moins un déclencheur dans la section de liste dynamique, le mode est automatiquement défini sur déclenché.
 
-![](assets/trigger.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Cliquez sur le **Planification** confirme que la campagne dynamique est définie sur &quot;Déclenché&quot;.
+Cliquez sur le bouton **Planification** confirme que la campagne dynamique est définie sur &quot;Déclenché&quot;.
 
-![](assets/trigger2.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Déclenchement de campagnes dynamiques**
 

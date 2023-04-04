@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: Partage de segments entre espaces de travail et partitions - Documents Marketo - Documentation du produit
 title: Partage de segments entre espaces de travail et partitions
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 4d4d87d2a03bc0966a6e77d97cb68a2c38a3c676
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -49,35 +49,35 @@ Une fois ces personnages configurés (_et_ si vous utilisez des espaces de trava
 
 ## Exemples de scénarios {#example-scenarios}
 
-![](assets/image2015-5-27-16-3a26-3a25.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-1.png)
 
-![](assets/image2015-5-27-16-3a26-3a48.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-2.png)
 
 ## Partage d’une segmentation {#share-a-segmentation}
 
 1. Accédez au **Base**.
 
-   ![](assets/image2017-3-29-8-3a15-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Clic droit **Segments** et sélectionnez **Nouveaux dossiers**.
+1. Clic droit **Segments** et sélectionnez **Nouveau dossier**.
 
-   ![](assets/image2017-3-29-8-3a40-3a31.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Nommez le dossier que vous allez partager dans les espaces de travail (par exemple : Partager des segments).
+1. Nommez le dossier que vous allez partager dans les espaces de travail (par exemple : Partager des segments) et cliquez sur **Créer**.
 
-   ![](assets/image2017-3-29-8-3a40-3a45.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
 1. Déplacez la ou les segmentation que vous souhaitez partager dans le dossier .
 
-   ![](assets/image2017-3-29-8-3a41-3a3.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
 1. Cliquez avec le bouton droit sur le dossier et sélectionnez **Partager le dossier**.
 
-   ![](assets/image2017-3-29-8-3a41-3a19.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
 1. Sélectionnez le ou les espaces de travail avec lesquels vous souhaitez partager le dossier. Cliquez sur **Enregistrer**.
 
-   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 
    >[!NOTE]
    >

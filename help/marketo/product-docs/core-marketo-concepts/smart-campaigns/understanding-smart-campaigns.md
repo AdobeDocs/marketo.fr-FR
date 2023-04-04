@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: Présentation des campagnes dynamiques - Documents Marketo - Documentation du produit
 title: Présentation des campagnes intelligentes
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '243'
 ht-degree: 4%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 4%
 
 Si Marketo est une voiture puissante, la campagne intelligente est véritablement le moteur. C&#39;est simple de commencer, mais vous pouvez faire tout ce que vous voulez.
 
-La campagne dynamique comporte trois principaux domaines : Le [Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target=&quot;_blank&quot;} et [Planification](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)Onglets {target=&quot;_blank&quot;}.
+La campagne dynamique comporte trois principaux domaines : Le [Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} onglets.
 
 ## Liste intelligente {#smart-list}
 
-La liste dynamique est la manière dont vous définissez l’OMS que vous souhaitez cibler avec votre campagne dynamique. Elle comporte des filtres et des déclencheurs.
+La liste dynamique est la manière dont vous définissez _who_ vous souhaitez cibler avec votre campagne dynamique. Elle comporte des filtres et des déclencheurs.
 
 <table> 
  <tbody> 
@@ -54,8 +54,8 @@ Il y a énormément de choses que la campagne intelligente peut faire. Comprenez
 
 >[!CAUTION]
 >
->Si vous déplacez une campagne dynamique d’un programme à un autre et que les étapes Liste dynamique ou Flux de la campagne référencent le programme d’origine, vous devez mettre à jour manuellement les informations afin de refléter son nouveau programme, car cela **not** mise à jour automatique.
+>Si vous déplacez une campagne dynamique d’un programme à un autre et que la liste dynamique ou les étapes de flux de la campagne référencent le programme d’origine, vous devez mettre à jour manuellement les informations afin de refléter son nouveau programme, car cela **not** mise à jour automatique.
 
 >[!MORELIKETHIS]
 >
->[Création d’une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}
+>[Création d’une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
