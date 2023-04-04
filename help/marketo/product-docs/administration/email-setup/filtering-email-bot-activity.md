@@ -2,10 +2,10 @@
 description: Filtrage de l’activité des robots de messagerie électronique - Documents Marketo - Documentation du produit
 title: Filtrage de l’activité des robots de messagerie
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 792db38ec0891d4a6de5a8d0bd746bd7bb429edb
+source-git-commit: 788084582a616b3cadd45f19d7a4779dad6f8c98
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 3%
+source-wordcount: '470'
+ht-degree: 14%
 
 ---
 
@@ -27,6 +27,8 @@ Par rapport aux clics sur les liens de courrier électronique et à l’activit�
 * Les activités identifiées comme des robots auront &quot;Activité de robot&quot; comme &quot;True&quot; et &quot;Modèle d’activité de robot&quot; comme modèle/méthode identifié.
 * Les activités identifiées comme n’étant pas des robots auront &quot;Activité des robots&quot; comme &quot;False&quot; et &quot;Modèle d’activité des robots&quot; comme &quot;N/A&quot;.
 * Les activités qui se sont produites avant l’introduction de ces attributs auront &quot;Activité de robot&quot; comme &quot;&quot; (vide) et &quot;Modèle d’activité de robot&quot; comme &quot;&quot; (vide).
+
+## Sélectionner le type de filtre {#select-filter-type}
 
 1. Cliquez sur **Administration**.
 
@@ -58,6 +60,57 @@ Par rapport aux clics sur les liens de courrier électronique et à l’activit�
 
 Nous avons compilé une liste des adresses IP responsables de la génération de millions d’engagements factices, car l’engagement reçu de l’une des adresses IP suivantes est automatiquement filtré et n’est pas ajouté à votre instance de Marketo Engage. Cela peut se traduire par une réduction des ouvertures d’email, des clics et d’autres activités associées. La liste ci-dessous peut être mise à jour régulièrement.
 
+* 40.94.34.52
+* 40.94.34.86
+* 52.34.76.65
+* 54.70.53.60
+* 54.71.187.124
+* 60.28.2.248
+* 64.235.150.252
+* 64.235.153.10
+* 64.235.153.2
+* 64.235.154.105
+* 64.235.154.109
+* 64.235.154.140
+* 64.74.215.1
+* 64.74.215.100
+* 64.74.215.138
+* 64.74.215.139
+* 64.74.215.142
+* 64.74.215.146
+* 64.74.215.150
+* 64.74.215.154
+* 64.74.215.158
+* 64.74.215.162
+* 64.74.215.164
+* 64.74.215.166
+* 64.74.215.170
+* 64.74.215.174
+* 64.74.215.176
+* 64.74.215.178
+* 64.74.215.51
+* 64.74.215.56
+* 64.74.215.58
+* 64.74.215.59
+* 64.74.215.86
+* 64.74.215.98
+* 65.154.226.101
+* 66.249.91.149
+* 70.42.131.106
+* 74.125.217.116
+* 74.217.90.250
+* 104.129.41.4
+* 104.47.55.126
+* 104.47.58.126
+* 104.47.70.126
+* 104.47.73.126
+* 104.47.73.254
+* 104.47.74.126
+* 128.220.160.1
+* 155.70.39.101
+* 162.129.251.14
+* 162.129.251.42
+* 208.52.157.204
 * 209.222.82.126
 * 209.222.82.127
 * 209.222.82.128
