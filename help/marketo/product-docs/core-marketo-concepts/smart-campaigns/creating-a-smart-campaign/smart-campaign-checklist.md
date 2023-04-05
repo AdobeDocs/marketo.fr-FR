@@ -3,9 +3,9 @@ unique-page-id: 1147051
 description: Liste de contrôle Smart Campaign - Documents Marketo - Documentation du produit
 title: Liste de contrôle de la campagne dynamique
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ Suivez les étapes ci-dessous pour garantir le bon fonctionnement de la campagne
 
 Dans votre campagne dynamique, cliquez sur **Liste dynamique**. Débarrassez-vous des lignes rouges écrasantes que vous voyez en corrigeant les erreurs.
 
-![](assets/image2014-9-22-16-3a9-3a13.png)
+![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
@@ -34,7 +34,7 @@ Dans votre campagne dynamique, cliquez sur **Liste dynamique**. Débarrassez-vou
 
 Dans votre campagne dynamique, cliquez sur **Flux**. Débarrassez-vous des lignes rouges ondulantes que vous voyez en corrigeant les erreurs.
 
-![](assets/image2014-9-22-16-3a10-3a49.png)
+![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
@@ -42,19 +42,19 @@ Dans votre campagne dynamique, cliquez sur **Flux**. Débarrassez-vous des ligne
 
 ## Onglet Planification {#review-the-schedule-tab}
 
-Dans le **Planification** onglet, vérifier **Smart** **Liste** **État** pour toutes les erreurs de la campagne dynamique qui doivent être corrigées.
+Dans le **Planification** onglet, vérifier **Smart** **Liste** **État** pour toutes les erreurs dans la campagne dynamique qui doivent être corrigées.
 
-![](assets/three.png)
+![](assets/smart-campaign-checklist-3.png)
 
 ## Vérification de la limite des restrictions de personne {#check-person-restrictions-limit}
 
 Dans le **Planification** , assurez-vous que le nombre de personnes qualifiées ne dépasse pas la limite de restriction de personne.
 
-![](assets/four.png)
+![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->Si nécessaire, vous pouvez  [remplacement des restrictions de personne dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>Si nécessaire, vous pouvez [Remplacer les restrictions de personne dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >

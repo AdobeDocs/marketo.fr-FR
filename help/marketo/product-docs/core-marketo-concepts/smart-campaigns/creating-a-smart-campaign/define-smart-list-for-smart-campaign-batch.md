@@ -3,36 +3,36 @@ unique-page-id: 1146940
 description: Définition d’une liste dynamique pour Smart Campaign | Lot - Documents Marketo - Documentation du produit
 title: Définition d’une liste dynamique pour Smart Campaign | Lot
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
 # Définition d’une liste dynamique pour Smart Campaign | Lot {#define-smart-list-for-smart-campaign-batch}
 
-Les listes intelligentes sont le mécanisme utilisé dans Marketo pour définir &quot;qui&quot; (quelles personnes) inclure, qu’il s’agisse d’un rapport, d’une liste ou d’une campagne dynamique. Voici comment définir une liste dynamique pour une campagne par lots.
+Les listes dynamiques sont le mécanisme qui permet, dans tout Marketo, de définir &quot;qui&quot; (quelles personnes) inclure, qu’il s’agisse d’un rapport, d’une liste ou d’une campagne dynamique. Voici comment définir une liste dynamique pour une campagne par lots.
 
-1. Sélectionnez une campagne dynamique, puis cliquez sur **Liste dynamique**.
+1. Choisissez une campagne dynamique, puis cliquez sur **Liste dynamique**.
 
-   ![](assets/campaignchoose-hand.png)
+   ![](assets/define-smart-list-for-smart-campaign-batch-1.png)
 
 1. Saisissez pour rechercher un filtre, puis faites-le glisser sur la zone de travail. Répétez cette opération pour plusieurs filtres.
 
-   ![](assets/dragin.png)
+   ![](assets/define-smart-list-for-smart-campaign-batch-2.png)
 
    >[!NOTE]
    >
-   >Une campagne intelligente avec uniquement des filtres s’exécute dans **Lot** mode . Il trouve dans la base de données les personnes qui remplissent les critères en fonction des filtres et les exécute toutes à la fois dans le flux.
+   >Une campagne dynamique avec uniquement des filtres s’exécute dans **Lot** mode . Il trouve dans la base de données les personnes qui remplissent les critères en fonction des filtres et les exécute toutes à la fois dans le flux.
 
    >[!NOTE]
    >
-   >Vous pouvez exécuter une campagne dynamique sur une personne à la fois en fonction des événements en direct en ajoutant des déclencheurs, ce qui place la campagne dynamique dans **Déclencheur** mode .
+   >Vous pouvez lancer une campagne dynamique sur une personne à la fois en fonction des événements en direct en ajoutant des déclencheurs, ce qui place la campagne dynamique dans **Déclencheur** mode .
 
 1. Cliquez sur la liste déroulante et choisissez un opérateur de filtre pour le filtre que vous choisissez.
 
-   ![](assets/programdropdown-hands.png)
+   ![](assets/define-smart-list-for-smart-campaign-batch-3.png)
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Les listes intelligentes sont le mécanisme utilisé dans Marketo pour définir 
 
 1. Saisissez la valeur du filtre.
 
-   ![](assets/chooseprogram.png)
+   ![](assets/define-smart-list-for-smart-campaign-batch-4.png)
 
    >[!NOTE]
    >
