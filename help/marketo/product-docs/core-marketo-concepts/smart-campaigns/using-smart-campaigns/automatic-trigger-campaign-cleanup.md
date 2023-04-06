@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: Nettoyage automatique des campagnes de déclenchement - Documents Marketo - Documentation du produit
 title: Nettoyage des campagnes à déclencheurs automatique
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 3%
 
 ---
@@ -22,17 +22,17 @@ Une fois par trimestre, Marketo trouvera des campagnes intelligentes qui sont re
 
 Bien sûr ! Une fois par trimestre, vous recevrez une notification une semaine à l’avance indiquant chaque campagne que nous prévoyons de désactiver.
 
-1. Accédez au **Notifications** .
+1. Cliquez sur le bouton **Notifications** icône .
 
-   ![](assets/notifications.png)
+   ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
 1. Cliquez sur **Nettoyage inactif des campagnes de déclenchement planifié**. Cliquez ensuite sur le bouton **Ces campagnes de déclenchement inactives seront désactivées.** lien.
 
-   ![](assets/image2015-4-27-20-3a48-3a35.png)
+   ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
    Une liste des campagnes intelligentes doit être désactivée.
 
-   ![](assets/image2015-4-27-20-3a35-3a29.png)
+   ![](assets/automatic-trigger-campaign-cleanup-3.png)
 
 ## Quelles campagnes seront désactivées ? {#which-campaigns-will-be-deactivated}
 
@@ -53,8 +53,8 @@ Absolument : une semaine après la notification d’origine, nous désactiverons
 
 1. Sélectionnez la **Nettoyage inactif des campagnes de déclenchement planifié** notification. Cliquez sur le bouton **Ces campagnes de déclenchement inactives** lien.
 
-   ![](assets/image2015-4-27-20-3a56-3a41.png)
+   ![](assets/automatic-trigger-campaign-cleanup-4.png)
 
 1. Une liste des campagnes désactivées s’affiche.
 
-   ![](assets/image2015-4-27-20-3a58-3a38.png)
+   ![](assets/automatic-trigger-campaign-cleanup-5.png)
