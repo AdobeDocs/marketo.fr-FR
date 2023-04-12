@@ -3,7 +3,7 @@ unique-page-id: 1146991
 description: Désactivation d’une campagne dynamique de déclenchement | Onglet Planification - Documents Marketo - Documentation du produit
 title: Désactivation d’une campagne dynamique de déclenchement | Onglet Planification
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -16,15 +16,15 @@ Si vous devez désactiver une ancienne campagne de déclenchement, procédez com
 
 1. Recherchez et sélectionnez votre principale campagne de déclenchement.
 
-   ![](assets/selectprogram-hands.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
 1. Sous l’onglet Planning , cliquez sur **Désactiver**.
 
-   ![](assets/deactivateprogram-hands.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
 1. Confirmer en cliquant sur **Désactiver**.
 
-   ![](assets/image2014-9-22-13-3a59-3a6.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >
