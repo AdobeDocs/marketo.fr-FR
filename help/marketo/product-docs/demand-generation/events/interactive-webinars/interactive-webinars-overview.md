@@ -4,14 +4,37 @@ title: Présentation des webinaires interactifs
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
 workflow-type: tm+mt
-source-wordcount: '15'
-ht-degree: 13%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
 # Présentation des webinaires interactifs {#interactive-webinars-overview}
 
-Disponible bientôt
+En savoir plus sur l’outil de Marketo Engage natif pour créer des webinaires VIDES et efficaces.
 
+_Que sont les webinaires interactifs ?_
+
+Intégration native à la proposition de valeur Adobe Connect - en quoi elle diffère des autres Ajoutez la vidéo également dans cette section
+
+_Comprendre la licence configurée et son utilisation_
+
+Divers types de licences
+
+A un moment où les gens peuvent acheter, nous pouvons aussi nous informer sur la façon dont ils peuvent entrer en contact avec l&#39;Adobe pour acheter plus
+
+_Comprendre le flux de données (permet d’ajouter un diagramme à expliquer)_
+
+Les données d’enregistrement sont automatiquement récupérées de Marketo Connect (quoi, quand et comment) Les données d’événement de publication s’enchaînent automatiquement de Se connecter à Marketo (quelles données et leur signification, quand et comment) Cycle de vie de l’état membre du programme (invité -> enregistré -> assisté / pas présenté).
+
+## Questions fréquentes {#faq}
+
+**Question?**
+
+Répondez.
+
+**Question?**
+
+Répondez.
