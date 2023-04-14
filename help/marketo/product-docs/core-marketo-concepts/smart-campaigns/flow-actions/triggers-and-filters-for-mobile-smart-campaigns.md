@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: Déclencheurs et filtres pour les campagnes dynamiques mobiles - Documents Marketo - Documentation du produit
 title: Déclencheurs et filtres pour les campagnes dynamiques mobiles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Vous pouvez configurer des déclencheurs et des filtres pour une campagne dynamique d’application mobile.
 
-Pour la plupart des activités, il existe un trigger, un filtre et un filtre d’inactivité. Utilisez les filtres d’inactivité pour effectuer le suivi d’une action, comme appuyer sur une notification push, selon laquelle *did’t* survient.
+Pour la plupart des activités, il existe un trigger, un filtre et un filtre d’inactivité. Utilisez les filtres d’inactivité pour effectuer le suivi d’une action, comme appuyer sur une notification push, selon laquelle *did* survient.
 
 * L’Application Mobile Est/A Été Installée
 * L’application mobile est/a été ouverte
@@ -28,13 +28,13 @@ Il n’existe que des filtres pour cette activité :
 
 Rechercher **application mobile** dans le panneau de droite pour répertorier tous les déclencheurs et filtres d’applications mobiles.
 
-![](assets/image2015-8-12-17-3a25-3a18.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
 ## Contraintes {#constraints}
 
 Utilisez des contraintes avec des déclencheurs et des filtres pour trier davantage les données.
 
-![](assets/image2015-8-17-12-3a6-3a33.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
 Tous les déclencheurs et filtres, à l’exception de la notification push de l’envoi, contiennent les deux contraintes standard suivantes :
 
@@ -70,7 +70,7 @@ Utilisez ce filtre pour découvrir toutes les personnes qui ont déjà installé
 
 **Contraintes**: Type d’appareil, plateforme, application mobile, version d’application mobile, type d’appareil, source d’installation, Push activé et paramètres régionaux
 
-![](assets/image2015-8-21-13-3a33-3a54.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
@@ -86,7 +86,7 @@ L’Application Mobile Est/A Été Installée
 
 **Contraintes**: Type d’appareil, plateforme, version d’application, paramètres régionaux et source d’installation
 
-![](assets/image2015-8-17-13-3a11-3a3.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
 L’application mobile est/a été ouverte
 
@@ -98,7 +98,7 @@ L’application mobile est/a été ouverte
 
 **Contraintes**: Type d’appareil et plateforme
 
-![](assets/image2015-8-17-13-3a13-3a55.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 A/A eu une activité d’application mobile
 
@@ -138,7 +138,7 @@ Les contraintes Action permettent d&#39;utiliser le déclencheur et les filtres 
 
 Voici à quoi ressemble le filtre dans Marketo :
 
-![](assets/image2015-8-17-13-3a16-3a12.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 
 >[!NOTE]
 >
@@ -163,7 +163,7 @@ Voici à quoi ressemble le filtre dans Marketo :
 
 **Contraintes**: Type d’appareil, plateforme et durée de session (secondes)
 
-![](assets/image2015-8-17-13-3a18-3a34.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
 Notification Push Appuyée/Appuyée
 
@@ -175,11 +175,11 @@ Notification Push Appuyée/Appuyée
 
 **Contraintes**: Type de périphérique, plateforme, version d’application mobile, notification push et version de plateforme
 
-![](assets/image2015-8-21-14-3a2-3a24.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
->Utilisez le filtre d’inactivité Notification push non activée pour rechercher les personnes qui n’ont pas appuyé sur une notification push récemment envoyée, afin que vous puissiez effectuer un suivi par courrier électronique.
+>Utilisez le filtre d’inactivité Notification push non sélectionnée pour rechercher les personnes qui n’ont pas appuyé sur une notification push récemment envoyée, afin que vous puissiez effectuer un suivi par courrier électronique.
 
 **Envoi d’une notification push** Cette activité est disponible uniquement sous forme de filtre.
 
@@ -189,7 +189,7 @@ Notification Push Appuyée/Appuyée
 
 **Contraintes**: Notification push et application mobile
 
-![](assets/image2015-8-21-14-3a3-3a50.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
