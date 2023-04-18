@@ -3,10 +3,10 @@ unique-page-id: 9437991
 description: Déclencheurs et filtres pour les campagnes dynamiques mobiles - Documents Marketo - Documentation du produit
 title: Déclencheurs et filtres pour les campagnes dynamiques mobiles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
 workflow-type: tm+mt
-source-wordcount: '818'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -68,7 +68,7 @@ Utilisez ce filtre pour découvrir toutes les personnes qui ont déjà installé
 >
 >Le filtre trouvera les installations actuelles et antérieures, car Marketo ne suit pas les désinstallations d’application.
 
-**Contraintes**: Type d’appareil, plateforme, application mobile, version d’application mobile, type d’appareil, source d’installation, Push activé et paramètres régionaux
+**Contraintes** - Type d’appareil, plateforme, application mobile, version d’application mobile, type d’appareil, source d’installation, Push activé et paramètres régionaux
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -84,7 +84,7 @@ L’Application Mobile Est/A Été Installée
 
 * NOT Mobile App a été installé - filtre d’inactivité
 
-**Contraintes**: Type d’appareil, plateforme, version d’application, paramètres régionaux et source d’installation
+**Contraintes** - Type de périphérique, plateforme, version d’application, paramètres régionaux et source d’installation
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -96,7 +96,7 @@ L’application mobile est/a été ouverte
 
 * NOT Mobile App was Opening - filtre d’inactivité
 
-**Contraintes**: Type d’appareil et plateforme
+**Contraintes** - Type d’appareil et plateforme
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
@@ -110,7 +110,7 @@ Ils offrent un moyen puissant de suivre l’activité mobile personnalisée. Vou
 
 * Activité de l’application mobile NON présente - filtre d’inactivité
 
-**Contraintes**: Type d’appareil et plateforme, plus cinq autres :
+**Contraintes** - Type de périphérique, plateforme, version d’application mobile, paramètres régionaux, version de plateforme, plus cinq autres éléments :
 
 * Action - Activité mobile personnalisée
 
@@ -161,7 +161,7 @@ Voici à quoi ressemble le filtre dans Marketo :
 
 * Session d’application mobile NON présente - filtre d’inactivité
 
-**Contraintes**: Type d’appareil, plateforme et durée de session (secondes)
+**Contraintes** - Type d’appareil, plateforme et durée de session (secondes)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -173,7 +173,7 @@ Notification Push Appuyée/Appuyée
 
 * Notification push non activée - filtre d’inactivité
 
-**Contraintes**: Type de périphérique, plateforme, version d’application mobile, notification push et version de plateforme
+**Contraintes** - Type de périphérique, plateforme, version d’application mobile, notification push et version de plateforme
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -187,7 +187,7 @@ Notification Push Appuyée/Appuyée
 
 * Notification push NON envoyée - filtre d’inactivité
 
-**Contraintes**: Notification push et application mobile
+**Contraintes** - Notification push et application mobile
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
