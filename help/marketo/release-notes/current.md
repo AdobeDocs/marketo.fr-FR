@@ -2,16 +2,16 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3c4f24edeba54a5275ae876e228388cf975438fb
+source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '480'
 ht-degree: 8%
 
 ---
 
-# Notes de mise à jour : Mars 2023 {#release-notes-mar-23}
+# Notes de mise à jour : Mai 2023 {#release-notes-may-23}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 mars. Vérifiez la disponibilité de votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 mai. Vérifiez la disponibilité de votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
@@ -19,27 +19,13 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 
 ## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **31 mars 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
+Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **19 mai 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Amélioré utilisé par le composant pour les détails du modèle de page d’entrée et les détails du formulaire**: L’onglet Nouveau utilisé par l’interface utilisateur fournit des informations supplémentaires dans Détails du modèle de page d’entrée et Détails du formulaire, y compris des détails supplémentaires sur les ressources qui ont utilisé une ressource sélectionnée. Effectuez une analyse sur de longues listes de ressources par le biais des fonctionnalités de recherche, de tri et de filtrage.
-
-<table> 
-  <tr> 
-   <td><b>Statut</b></td>
-   <td><b>Mises à jour de la documentation</b></td>
-  </tr>
-  <tr> 
-   <td>Expédié</td>
-   <td>s/o</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Supprimer Basculer et Basculer l’expérience classique des pages d’entrée**: L’obsolescence du bouton bascule et de l’expérience classique pour les pages d’entrée vous aidera à complètement adopter la nouvelle expérience. La nouvelle expérience permet une utilisation complète des fonctionnalités fournies avec ces ressources sans avoir à compter sur l’ancienne expérience ou sans devoir constamment basculer entre les deux expériences.
+* **Activation/désactivation des mises à jour Switch et Classic Experience Removal pour l’expérience utilisateur moderne**: Suppression de pages de détails pour les modèles de courrier électronique, les modèles de page d’entrée, Forms et les fragments de code afin de garantir que l’expérience moderne est la seule expérience disponible.
 
 <table> 
   <tr> 
@@ -53,7 +39,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tbody>
 </table>
 
-* **Amélioration des performances des noeuds d’arborescence**: Ceux qui ont un grand nombre de noeuds d’arborescence verront une amélioration significative des performances.
+* **Shell unifié**: Aligne le Marketo Engage avec l’Experience Cloud afin de créer une expérience de navigation cohérente sur plusieurs solutions Experience Cloud au cours d’une même session d’utilisateur.
 
 <table> 
   <tr> 
@@ -67,11 +53,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tbody>
 </table>
 
-### Mises à jour d’intégration {#integration-updates}
-
-</br>
-
-* **Mettre à niveau l’intégration de Marketo Facebook pour utiliser la mise à jour de l’API Facebook Graph**: Avec la récente mise à niveau de Facebook vers l’API Facebook Graph v15, il existe désormais une limite de 500 audiences personnalisées pouvant être créées pour un compte publicitaire particulier.
+* **Centre d’aide pour les Marketo Engage**: Le centre d’aide fournit aux utilisateurs Marketo Engage un emplacement central pour trouver des ressources d’aide à partir du produit. En outre, le centre d’aide permet aux utilisateurs d’activer des guides intégrés qui expliquent comment tirer parti des fonctionnalités clés.
 
 <table> 
   <tr> 
@@ -89,11 +71,33 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 Les fonctionnalités suivantes suivent un format Agile et sont publiées à diverses dates avant ou après la date de publication standard. Vérifiez l’état de chaque fonctionnalité ci-dessous.
 
+### Orchestration cross-canal {#cross-channel-orchestration}
+
+</br>
+
+* **Webinaires interactifs (disponibilité limitée initialement)**:
+
+Les webinaires interactifs améliorent l’expérience actuelle des événements et des webinaires en offrant une expérience native et transparente aux marketeurs pour leur permettre de créer, gérer et diffuser des événements dans Marketo Engage. Personnalisez des webinaires en fonction du type d’événement et ajoutez même des présentateurs si vous le souhaitez. Obtenez des informations d’engagement riches grâce aux fonctionnalités d’Adobe Connect telles que les sondages en direct, le chat, les sessions Q&amp;R, les clics sur les liens web, les téléchargements de documents, etc. Récupérez l’enregistrement du webinaire directement dans Marketo Engage et évaluez ses performances grâce à des mesures de tableaux de bord enrichies.
+
+INFORMATIONS D’INSCRIPTION PROCHAINEMENT
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
 ### Chat dynamique {#dynamic-chat}
 
 </br>
 
-* **Rapport Engagement dans le dialogue pour la conversation dynamique**: Fournit une vue de l’engagement Dialogue au fil du temps, y compris la possibilité de filtrer par type de visiteur et type d’engagement afin de fournir une meilleure visibilité aux utilisateurs.
+* **Amélioration des activités de conversation dynamique**: Les activités, filtres et déclencheurs existants de Dynamic Chat sont améliorés avec des attributs supplémentaires et une convention de dénomination normalisée.
 
 <table> 
   <tr> 
@@ -107,7 +111,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Rôles et autorisations pour Dynamic Chat**: Introduit des rôles et des autorisations dans Dynamic Chat, ce qui permet aux administrateurs de limiter la visibilité et l’utilisation des différentes zones de l’application aux types d’utilisateurs sélectionnés.
+* **Source de conversation pour la conversation dynamique**: &quot;Chat&quot; est désormais proposé comme source de nouveaux enregistrements de personnes et d&#39;activités. Cette source peut être utilisée pour aider les utilisateurs à filtrer les activités dans les listes dynamiques/campagnes. La source peut également être bloquée des mises à jour des champs.
 
 <table> 
   <tr> 
@@ -115,64 +119,8 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td>Expédié</td>
-   <td>s/o</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Chat en tant que canal de programme pour la conversation dynamique**: Crée un canal de programme &quot;Chat&quot; pour suivre la progression du programme pour les personnes acquises par Dynamic Chat. Par exemple, un spécialiste du marketing a un programme associé à un dialogue de conversation dynamique pour capturer de nouvelles pistes. Ils peuvent désormais attribuer à ce programme le canal Chat afin qu’ils puissent suivre quand les prospects sont membres du programme et quand ils ont réussi.
-
-<table> 
-  <tr> 
-   <td><b>Statut</b></td>
-   <td><b>Mises à jour de la documentation</b></td>
-  </tr>
-  <tr> 
-   <td>Expédié</td>
-   <td>s/o</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Attributs déduits pour les tchats dynamiques**: Vérifie que les données IP déduites (ville, état, pays, etc.) est écrit dans l’enregistrement de la personne pour les nouvelles personnes acquises par Dynamic Chat.
-
-<table> 
-  <tr> 
-   <td><b>Statut</b></td>
-   <td><b>Mises à jour de la documentation</b></td>
-  </tr>
-  <tr> 
-   <td>Expédié</td>
-   <td>s/o</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Prise en charge linguistique supplémentaire pour Dynamic Chat**: Vous pouvez désormais choisir parmi neuf langues prises en charge pour afficher le contenu de conversation dynamique statique dans .
-
-<table> 
-  <tr> 
-   <td><b>Statut</b></td>
-   <td><b>Mises à jour de la documentation</b></td>
-  </tr>
-  <tr> 
-   <td>Expédié</td>
-   <td>s/o</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Saut au noeud dans l’aperçu du concepteur de diffusion pour la messagerie instantanée dynamique**: Accédez directement à un noeud dans le concepteur de flux à partir du panneau d’aperçu.
-
-<table> 
-  <tr> 
-   <td><b>Statut</b></td>
-   <td><b>Mises à jour de la documentation</b></td>
-  </tr>
-  <tr> 
-   <td>Expédié</td>
-   <td>s/o</td>
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
   </tr>
   </tbody>
 </table>
