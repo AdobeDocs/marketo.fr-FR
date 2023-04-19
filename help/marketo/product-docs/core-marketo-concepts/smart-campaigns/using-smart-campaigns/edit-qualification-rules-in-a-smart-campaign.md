@@ -3,7 +3,7 @@ unique-page-id: 1146974
 description: Modification des règles de qualification dans une campagne dynamique - Documents Marketo - Documentation du produit
 title: Modification des règles de qualification dans une campagne dynamique
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Les règles de qualification contrôlent le nombre de fois où une personne peut
 
 1. Dans votre campagne dynamique, cliquez sur le bouton **Planification** puis **Modifier les paramètres**.
 
-   ![](assets/programeditsettings-hands.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
@@ -24,7 +24,7 @@ Les règles de qualification contrôlent le nombre de fois où une personne peut
 
 1. Sélectionnez la fréquence à laquelle exécuter vos personnes dans le flux de campagne dynamique : **only**, **à chaque heure** ou **une fois tous les # jours**/**semaines**/**months**.
 
-   ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
