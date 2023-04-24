@@ -4,7 +4,7 @@ title: Création d’un webinaire interactif
 hide: true
 hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
+source-git-commit: db68d63b6502822d4948485865edb26d10104a14
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -48,3 +48,5 @@ Créez un webinaire interactif en quelques étapes simples.
    ![](assets/create-an-interactive-webinar-7.png)
 
 Votre webinaire interactif est créé. Il est maintenant temps de [la conception](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+
+![](assets/create-an-interactive-webinar-8.png)
