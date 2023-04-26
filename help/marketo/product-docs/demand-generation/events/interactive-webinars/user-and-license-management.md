@@ -4,10 +4,10 @@ title: Gestion des utilisateurs et des licences
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 14%
+source-wordcount: '399'
+ht-degree: 5%
 
 ---
 
@@ -53,7 +53,7 @@ Introduction.
 
 ## Utilisation de la licence {#license-usage}
 
-Chaque fois qu’une licence est ajoutée, une nouvelle boîte d’utilisation de licence s’affiche.
+Les webinaires interactifs offrent des licences spécifiques pour la création d’événements Adobe Connect. Chaque fois qu’une licence est ajoutée, une nouvelle boîte d’utilisation de licence s’affiche. Les administrateurs de Marketo peuvent afficher (et non modifier) les licences en suivant les étapes ci-dessous. Contactez l’équipe du compte Adobe (votre gestionnaire de compte) pour acquérir des licences supplémentaires.
 
 1. Cliquez sur l&#39;icône **Admin**.
 
@@ -63,6 +63,48 @@ Chaque fois qu’une licence est ajoutée, une nouvelle boîte d’utilisation d
 
    ![](assets/user-and-license-management-10.png)
 
-1. INFO
+1. Faites défiler jusqu’à la ou les cartes d’utilisation de la licence.
 
-PICC
+   ![](assets/user-and-license-management-11.png)
+
+<table> 
+  <tr> 
+   <td><b>Date de début</b></td>
+   <td>Date à laquelle la licence commence.</td>
+  </tr>
+  <tr> 
+   <td><b>Date d’expiration</b></td>
+   <td>Date d’expiration de la licence.</td>
+  </tr>
+  <tr> 
+   <td><b>Type</b></td>
+   <td>Type de licence achetée. Trois types sont disponibles : Licence d’événements partagés, licence d’espaces partagés, licence d’espace de stockage supplémentaire.</td>
+  </tr>
+  <tr> 
+   <td><b>Capacité de l’événement</b></td>
+   <td>Nombre maximum de participants pouvant être pris en charge dans un événement.</td>
+  </tr>
+  <tr> 
+   <td><b>Nombre total d’événements</b></td>
+   <td>Le nombre total d’événements qui ont été configurés avec cette licence.</td>
+  </tr>
+  <tr> 
+   <td><b>Événements utilisés</b></td>
+   <td>Nombre total d’événements terminés.</td>
+  </tr>
+  <tr> 
+   <td><b>Capacité de stockage</b></td>
+   <td>Quantité de stockage disponible pour le stockage des enregistrements, des collatéraux, des heros images, de la documentation et d’autres ressources.</td>
+  </tr>
+  </tbody>
+</table>
+
+**Informations à noter**
+
+* Le type &quot;Licence de stockage supplémentaire&quot; fournit uniquement du stockage, par conséquent la valeur de chaque champ. _besides_ La capacité de stockage sera simplement répertoriée sous la forme &quot;-&quot;.
+
+* Le type &quot;Licence de salle partagée&quot; contient un nombre illimité d’événements et &quot;Licence de stockage supplémentaire&quot; fournit uniquement du stockage. Le champ Total d’événements pour ces licences sera donc répertorié simplement comme &quot;-&quot;.
+
+* Chaque fois qu’un événement est créé, il est compté comme &quot;consommé&quot; à partir de sa licence respective (sauf s’il s’agit d’une licence de salle partagée). La préférence sera accordée à la &quot;Licence d’événement partagé&quot; s’il existe à la fois une &quot;Licence d’événement partagé&quot; et une &quot;Licence d’espace partagé&quot; de la même capacité. Si l’événement n’a pas été diffusé et si le programme d’événements est supprimé avant l’heure planifiée, le nombre d’événements est réapprovisionné en soustrayant un événement des événements consommés.
+
+* Une fois qu’une licence a été épuisée, sa mosaïque reste sur l’écran des webinaires interactifs dans l’Admin, avec le nombre total d’événements et d’événements consommés ayant la même valeur. Ce n’est que lorsque la licence expire qu’elle sera supprimée de l’écran.
