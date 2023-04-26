@@ -2,16 +2,16 @@
 description: Vérification des courriers électroniques - Documents Marketo - Documentation du produit
 title: Vérification des emails
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: c45b3ab94b806b53768891613f15b8e9b694a440
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # Vérification des emails {#email-verification}
 
-Les abonnements à Adobe Marketo Engage requièrent que tous les utilisateurs non-API uniquement, y compris les administrateurs de Marketo Engage, vérifient leur adresse électronique. Les utilisateurs de l’authentification unique (SSO), qui ne disposent pas d’un rôle d’administrateur, verront automatiquement leur adresse électronique vérifiée lorsque leur abonnement est activé à l’aide de la fonctionnalité de vérification des courriers électroniques.
+Les abonnements à Adobe Marketo Engage requièrent que tous les utilisateurs non-API uniquement, y compris les administrateurs de Marketo Engage, vérifient leur adresse électronique. Les utilisateurs de l’authentification unique (SSO) qui ne se voient pas attribuer un rôle d’administrateur ou qui se voient attribuer un rôle avec l’autorisation &quot;Contourner la connexion unique&quot; verront leur email automatiquement vérifié lorsque leur abonnement est activé avec la fonction de vérification des emails.
 
 **Invitation d’utilisateur**
 
