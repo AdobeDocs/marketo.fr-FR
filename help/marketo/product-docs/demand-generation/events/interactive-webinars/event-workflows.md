@@ -4,7 +4,7 @@ title: Workflows des événements
 hide: true
 hidefromtoc: true
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: f7cbb624337ecd4d5bebaf69edd0ed9605e84575
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -21,20 +21,18 @@ Le tableau de bord se compose de 4 widgets :
 
 1. État du programme d’événements :
 
-Le widget État du programme d’événements met en évidence les différents états du programme pour cet événement et le nombre de membres du programme qui détiennent actuellement cette valeur d’état du programme.
+   Le widget État du programme d’événements met en évidence les différents états du programme pour cet événement et le nombre de membres du programme qui détiennent actuellement cette valeur d’état du programme.
 
-2. Participation :
+1. Participation :
 
-Le widget Participation met en évidence la durée de participation des différents membres ayant participé au webinaire par rapport à la durée globale du webinaire en termes de pourcentage.
+   Le widget Participation met en évidence la durée de participation des différents membres ayant participé au webinaire par rapport à la durée globale du webinaire en termes de pourcentage.
 
-3. Performances du sondage :
+1. Performances du sondage :
 
-Le widget Performance du sondage présente les différents sondages lancés lors du webinaire dans Adobe Connect et la distribution des membres ayant participé au sondage et y ayant répondu pour chacune des réponses.
+   Le widget Performance du sondage présente les différents sondages lancés lors du webinaire dans Adobe Connect et la distribution des membres ayant participé au sondage et y ayant répondu pour chacune des réponses.
 
-4. Cliquez sur et téléchargez le fichier Activité :
+1. Cliquez sur et téléchargez le fichier Activité :
 
-L’activité de téléchargement de fichiers et de clics met en évidence le nombre de téléchargements de fichiers et de liens web ayant fait l’objet d’un clic pendant le webinaire dans Adobe Connect par différents membres ayant assisté au webinaire et pris cette mesure spécifique.
-
-
+   L’activité de téléchargement de fichiers et de clics met en évidence le nombre de téléchargements de fichiers et de liens web ayant fait l’objet d’un clic pendant le webinaire dans Adobe Connect par différents membres ayant assisté au webinaire et pris cette mesure spécifique.
 
 Filtrage et déclenchement sur IW - &quot;Webinaire&quot; dans les listes dynamiques
