@@ -2,7 +2,7 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
+source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 8%
@@ -19,7 +19,7 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 
 ## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **19 mai 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
+Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **12 mai 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
