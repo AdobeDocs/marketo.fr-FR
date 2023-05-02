@@ -2,10 +2,10 @@
 description: Synchronisation des désabonnements avec Salesforce - Documents Marketo - Documentation du produit
 title: Synchronisation des désabonnements avec Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Lorsqu’un désabonnement est collecté dans les ventes Marketo, nous le pousso
 
 **Désabonner la synchronisation**
 
-Lorsque vous avez activé la synchronisation de désabonnement (Étape 3 ci-dessous), vous activez la synchronisation de nuit. La synchronisation a lieu une fois par jour vers 20 h (heure du Pacifique). Elle synchronise bidirectionnellement tous les désabonnements dans MSE/ToutApp avec le champ Opt Out dans Salesforce.
+Lorsque vous avez activé la synchronisation de désabonnement (Étape 3 ci-dessous), vous activez la synchronisation de nuit. La synchronisation a lieu une fois par jour vers 20 h (heure du Pacifique). Elle synchronise de manière bidirectionnelle tous les désabonnements dans les ventes Marketo avec le champ Exclusion de Salesforce.
 
 ## Configurer la synchronisation du désabonnement à Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
