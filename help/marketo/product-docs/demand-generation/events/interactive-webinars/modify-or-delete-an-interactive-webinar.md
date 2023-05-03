@@ -4,9 +4,9 @@ title: Modification ou suppression d’un webinaire interactif
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,25 @@ Découvrez comment apporter des modifications à votre webinaire interactif.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. Texte
+1. La pièce va charger. Si vous souhaitez modifier la pièce, sélectionnez-en une dans la liste déroulante Chambres . Pour simplement mettre à jour votre modèle, cliquez sur **Utilisation de la salle**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
-??? pour Nilesh - est-il normal de ne pas être emmené dans la pièce où se trouve déjà le webinaire ? Dans le cas contraire, quelle est la bonne pratique ?
+>[!NOTE]
+>
+>La modification de votre chambre est facultative et n’est pas nécessaire pour mettre à jour votre modèle.
+
+1. Cliquez sur **Affinage de votre webinaire maintenant**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-3.png)
+
+1. Sélectionnez vos préférences audio/vidéo, puis cliquez sur **Entrée dans la salle**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-4.png)
+
+1. Une fois les modifications effectuées, cliquez sur **Quitter la salle**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## Replanification d’un webinaire interactif {#reschedule-an-interactive-webinar}
 
@@ -58,6 +72,10 @@ PICC
 1. Cliquez sur **Suivant**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!NOTE]
+   >
+   >Actuellement, vous ne pouvez enregistrer un webinaire interactif cloné qu’en tant que webinaire interactif. Enregistrement d’un webinaire cloné en tant que webinaire partenaire (par exemple, Zoom, ON24, etc.) sera bientôt disponible.
 
 1. Choisissez les paramètres de votre webinaire cloné, puis cliquez sur **Cloner**.
 

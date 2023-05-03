@@ -3,20 +3,16 @@ unique-page-id: 2359768
 description: Création d’un sondage - Documents Marketo - Documentation du produit
 title: Création d’un sondage
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 1%
+source-wordcount: '296'
+ht-degree: 0%
 
 ---
 
 # Création d’un sondage {#create-a-poll}
 
 Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partager avec leurs amis sur les réseaux sociaux. Vous pouvez l’ajouter à des endroits tels que vos landing pages, votre site web et Facebook.
-
->[!AVAILABILITY]
->
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
 >[!PREREQUISITES]
 >

@@ -4,7 +4,7 @@ title: Gestion des utilisateurs et des licences
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 4%
@@ -107,4 +107,4 @@ Les webinaires interactifs offrent des licences spécifiques pour la création d
 
 * Chaque fois qu’un événement est créé, il est compté comme &quot;consommé&quot; à partir de sa licence respective (sauf s’il s’agit d’une licence de salle partagée). La préférence sera accordée à la &quot;Licence d’événement partagé&quot; s’il existe à la fois une &quot;Licence d’événement partagé&quot; et une &quot;Licence d’espace partagé&quot; de la même capacité. Si l’événement n’a pas été diffusé et si le programme d’événements est supprimé avant l’heure planifiée, le nombre d’événements est réapprovisionné en soustrayant un événement des événements consommés.
 
-* Une fois qu’une licence a été épuisée, sa mosaïque reste sur l’écran des webinaires interactifs dans l’Admin, avec le nombre total d’événements et d’événements consommés ayant la même valeur. Ce n’est que lorsque la licence expire qu’elle sera supprimée de l’écran.
+* Une fois qu’une licence a été épuisée, sa mosaïque reste sur l’écran Webinaires interactifs de la section Admin avec les valeurs &quot;Total des événements&quot; et &quot;Événements consommés&quot; identiques. Ce n’est que lorsque la licence expire qu’elle sera supprimée de l’écran.

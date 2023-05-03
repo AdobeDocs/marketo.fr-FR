@@ -4,16 +4,16 @@ title: Conception de webinaires interactifs
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '453'
-ht-degree: 1%
+source-wordcount: '383'
+ht-degree: 0%
 
 ---
 
 # Conception de webinaires interactifs {#designing-interactive-webinars}
 
-Introduction.
+Concevez votre webinaire selon vos besoins.
 
 1. Sélectionnez votre événement et cliquez sur **Webinaire de conception**.
 
@@ -25,7 +25,7 @@ Introduction.
 
    >[!NOTE]
    >
-   >Une salle est un espace en ligne que vous utiliserez pour organiser des réunions.
+   >Une salle est un espace en ligne utilisé pour organiser des réunions.
 
 1. Choisissez un modèle.
 
@@ -51,23 +51,16 @@ Introduction.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Texte
+1. Pour plus d’informations sur les salles et les modèles, consultez la section &quot;Modèles et dispositions des salles de réunion&quot; de [cet article d’aide sur les Adobes](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
-https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings??????
+1. Une fois la conception de votre webinaire terminée, cliquez sur **Quitter la salle**.
 
+   ![](assets/designing-interactive-webinars-9.png)
 
-Salle : (Ces informations ont été extraites de la documentation de Connect pour être plus précis) Source : https://helpx.adobe.com/in/adobe-connect/using/meeting-basics.html
+## Éléments de conception {#design-elements}
 
-Un webinaire Adobe Connect est une conférence interactive en ligne en direct pour plusieurs utilisateurs. La salle est un espace virtuel persistant que vous utilisez pour organiser des webinaires. Il comprend divers panneaux d’affichage (capsules) et mises en page. Il existe plusieurs dispositions de salles de réunion prédéfinies, ou vous pouvez créer et utiliser des dispositions personnalisées supplémentaires selon vos besoins. La salle permet aux participants de partager des écrans ou des fichiers informatiques, de discuter, de diffuser audio et vidéo, et de participer à des activités interactives en ligne.
+**Modèle**: Le modèle est une structure fournie dans une pièce en fonction de l’objectif du webinaire livré. Par exemple, si vous souhaitez programmer un webinaire de présentation de produit, le partage d’écran est un composant essentiel pour présenter la démonstration. Le modèle garantit que les composants essentiels nécessaires à une diffusion efficace d’un type particulier de webinaire sont en place lors de la configuration de la salle du webinaire.
 
-Modèle:
+**Disposition**: La mise en page fait référence à différentes manières dont les différents composants requis pour garantir le succès du webinaire sont organisés dans un modèle particulier. Un modèle unique peut comporter plusieurs mises en page. Les composants essentiels du webinaire restent les mêmes dans tous les modèles. La disposition que vous avez sélectionnée convient le mieux au style/aux besoins de vous ou du présentateur qui diffusera le webinaire.
 
-Le modèle est une structure fournie dans une pièce en fonction de l’objectif du webinaire livré dans la pièce. Par exemple, si un spécialiste du marketing souhaite programmer un webinaire de présentation de produit, le partage d’écran est un composant essentiel pour illustrer la démonstration. Le modèle garantit que les composants essentiels nécessaires à une diffusion efficace d’un type particulier de webinaire sont en place lors de la configuration de la salle du webinaire.
-
-Mise en page:
-
-La mise en page fait référence à différentes manières dont plusieurs composants requis pour garantir la réussite d’un webinaire sont organisés dans un modèle particulier. Un modèle unique peut comporter plusieurs mises en page dans lesquelles le spécialiste du marketing peut effectuer un choix. Les composants essentiels du webinaire restent les mêmes dans tous les modèles. La disposition sélectionnée par le marketeur convient le mieux aux besoins et au style du marketeur ou du présentateur qui diffuse le webinaire.
-
-Pod:
-
-La capsule fait référence à un composant à l’intérieur d’un modèle qui aide à exécuter une activité particulière au cours du webinaire. Par exemple, la configuration et la diffusion d’un sondage pour capturer les réponses des participants dans une activité qui peut être remplie par une capsule de sondage. De même, discuter avec les participants pour transmettre un message ou interagir de manière occasionnelle avec eux peut être une activité diffusée par le biais de la capsule. Plusieurs autres capsules sont disponibles dans Connect (Partage, Notes, Vidéo, Chat, Liste des participants, Fichiers, Liens Web, Sondages et Q&amp;R).
+**Capsule**: La capsule fait référence à un composant à l’intérieur d’un modèle qui effectue une activité particulière au cours du webinaire. Par exemple, la configuration et la diffusion d’un sondage pour capturer les réponses des participants dans une activité qui peut être satisfaite par une capsule de sondage. De même, discuter avec les participants pour transmettre un message ou interagir de façon occasionnelle avec eux peut être une activité diffusée par le biais de la capsule. Plusieurs autres capsules sont disponibles, telles que Partager, Notes, Vidéo, Chat, Liste des participants, Fichiers, Liens Web, Sondages et Q&amp;R.

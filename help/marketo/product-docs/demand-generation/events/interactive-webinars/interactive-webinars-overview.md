@@ -4,16 +4,18 @@ title: Présentation des webinaires interactifs
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 2%
+source-wordcount: '212'
+ht-degree: 1%
 
 ---
 
 # Présentation des webinaires interactifs {#interactive-webinars-overview}
 
 En savoir plus sur l’outil de Marketo Engage natif pour créer des webinaires VIDES et efficaces.
+
+Un webinaire Adobe Connect est une conférence interactive en ligne en direct pour plusieurs utilisateurs. La salle est un espace virtuel persistant que vous utilisez pour organiser des webinaires. Il comprend divers panneaux d’affichage (capsules) et mises en page. Il existe plusieurs dispositions de salles de réunion prédéfinies, ou vous pouvez créer et utiliser des dispositions personnalisées supplémentaires selon vos besoins. La salle permet aux participants de partager des écrans ou des fichiers informatiques, de discuter, de diffuser audio et vidéo, et de participer à des activités interactives en ligne.
 
 _Que sont les webinaires interactifs ?_
 
