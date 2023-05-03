@@ -4,8 +4,8 @@ title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
