@@ -4,35 +4,43 @@ title: Workflows des événements
 hide: true
 hidefromtoc: true
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: f7cbb624337ecd4d5bebaf69edd0ed9605e84575
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 0%
+source-wordcount: '186'
+ht-degree: 2%
 
 ---
 
 # Workflows des événements {#event-workflows}
 
-Introduction.
+Une fois le webinaire terminé, accédez à l’onglet Tableau de bord pour afficher les performances agrégées.
 
-Le tableau de bord du webinaire interactif est une vue destinée aux spécialistes du marketing pour afficher les performances agrégées du webinaire organisé dans Adobe Connect. Vous pouvez le voir dans un onglet distinct nommé &quot;Tableau de bord&quot; qui s’affiche une fois l’événement terminé et les données obtenues à partir d’Adobe Connect. Si l’événement n’a pas été effectué ou que les données n’ont pas été reçues pour une raison quelconque, l’onglet &quot;Tableau de bord&quot; n’apparaît pas sur l’écran Programme d’événement de webinaire interactif. Les widgets du tableau de bord ne peuvent pas être explorés ni exportés à ce stade.
+![](assets/event-workflows-1.png)
 
-Le tableau de bord se compose de 4 widgets :
+>[!NOTE]
+>
+>Si le webinaire n&#39;a pas encore été terminé ou que les données n&#39;ont pas été reçues pour une raison quelconque, l&#39;onglet Tableau de bord ne sera pas encore disponible.
 
-1. État du programme d’événements :
+## Widgets de tableau de bord {#dashboard-widgets}
 
-   Le widget État du programme d’événements met en évidence les différents états du programme pour cet événement et le nombre de membres du programme qui détiennent actuellement cette valeur d’état du programme.
+Le tableau de bord se compose de quatre widgets.
 
-1. Participation :
+**Statut du programme de l’événement**
 
-   Le widget Participation met en évidence la durée de participation des différents membres ayant participé au webinaire par rapport à la durée globale du webinaire en termes de pourcentage.
+Affiche les différents statuts de programme pour cet événement et le nombre de membres du programme qui détiennent actuellement cette valeur.
 
-1. Performances du sondage :
+**Présence**
 
-   Le widget Performance du sondage présente les différents sondages lancés lors du webinaire dans Adobe Connect et la distribution des membres ayant participé au sondage et y ayant répondu pour chacune des réponses.
+Met en évidence la durée de participation des différents membres ayant participé au webinaire par rapport à la durée globale du webinaire en termes de pourcentage.
 
-1. Cliquez sur et téléchargez le fichier Activité :
+**Performances du sondage**
 
-   L’activité de téléchargement de fichiers et de clics met en évidence le nombre de téléchargements de fichiers et de liens web ayant fait l’objet d’un clic pendant le webinaire dans Adobe Connect par différents membres ayant assisté au webinaire et pris cette mesure spécifique.
+Affiche les différents sondages lancés lors du webinaire dans Adobe Connect et la distribution des membres ayant participé au sondage et y ayant répondu pour chacune des réponses.
+
+**Activité de clic et de téléchargement de fichier**
+
+Fournit le nombre de téléchargements de fichiers et de liens Web sur lesquels a cliqué le webinaire dans Adobe Connect de divers membres qui ont assisté au webinaire et ont pris cette mesure spécifique.
+
+## Déclencheurs et filtres {#triggers-and-filters}
 
 Filtrage et déclenchement sur IW - &quot;Webinaire&quot; dans les listes dynamiques

@@ -2,10 +2,10 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '452'
+ht-degree: 7%
 
 ---
 
@@ -96,20 +96,6 @@ INFORMATIONS D’INSCRIPTION PROCHAINEMENT
 ### Chat dynamique {#dynamic-chat}
 
 </br>
-
-* **Amélioration des activités de conversation dynamique**: Les activités, filtres et déclencheurs existants de Dynamic Chat sont améliorés avec des attributs supplémentaires et une convention de dénomination normalisée.
-
-<table> 
-  <tr> 
-   <td><b>Statut</b></td>
-   <td><b>Mises à jour de la documentation</b></td>
-  </tr>
-  <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
-  </tr>
-  </tbody>
-</table>
 
 * **Source de conversation pour la conversation dynamique**: &quot;Chat&quot; est désormais proposé comme source de nouveaux enregistrements de personnes et d&#39;activités. Cette source peut être utilisée pour aider les utilisateurs à filtrer les activités dans les listes dynamiques/campagnes. La source peut également être bloquée des mises à jour des champs.
 
