@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: cf6a0800737758d99a9ab07ffd783900332e3c32
+source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
 workflow-type: tm+mt
-source-wordcount: '8876'
+source-wordcount: '8884'
 ht-degree: 5%
 
 ---
@@ -484,6 +484,10 @@ ht-degree: 5%
          + [Présentation des dossiers](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Présentation des notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Types de notification](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Non Parcours {#not-journeys}
+         + [Présentation du nom](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
+         + [Onglet Nom](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
+         + [Onglet Paramètres](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
       + Audiences prédictives {#predictive-audiences}
          + [Prise en main des audiences prédictives](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modèles et informations](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
@@ -631,7 +635,7 @@ ht-degree: 5%
          + Intégrations {#integrations}
             + [Connexion de la messagerie dynamique à Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Utilisation de la carte de document](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
-         + Conversations {#dialogues}
+         + Dialogues {#dialogues}
             + [Présentation de la boîte de dialogue](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [Créer un dialogue](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [Critère d’audience](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
