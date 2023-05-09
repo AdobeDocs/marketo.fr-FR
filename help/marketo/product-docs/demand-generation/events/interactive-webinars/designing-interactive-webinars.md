@@ -4,16 +4,16 @@ title: Conception de webinaires interactifs
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Conception de webinaires interactifs {#designing-interactive-webinars}
 
-Concevez votre webinaire selon vos besoins.
+Découvrez comment concevoir votre webinaire en fonction de vos besoins.
 
 1. Sélectionnez votre événement et cliquez sur **Webinaire de conception**.
 
