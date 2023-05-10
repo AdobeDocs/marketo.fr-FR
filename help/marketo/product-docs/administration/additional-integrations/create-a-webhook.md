@@ -3,10 +3,10 @@ unique-page-id: 2360360
 description: Création d’un webhook - Documents Marketo - Documentation du produit
 title: Création d’un webhook
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: a498dcc5dc95bd7f732481d30db021485cf052c0
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 6%
+source-wordcount: '221'
+ht-degree: 5%
 
 ---
 
@@ -40,7 +40,7 @@ Utilisez des webhooks pour tirer parti des services web tiers afin d’envoyer d
 
    * **URL**: Saisissez l’URL que vous utilisez dans votre requête au service Web. Pour insérer un jeton, tel que l’adresse électronique de la personne (**`{{lead.Email Address}}`**), dans votre requête, cliquez sur **Insérer un jeton**.
 
-   * **Modèle**: Si vous souhaitez transmettre des informations dans le corps du POST, saisissez le modèle. Utilisez n’importe quel format de données prenant en charge le POST HTTP, y compris XML, JSON ou SOAP. Pour insérer un jeton dans votre modèle, cliquez sur **Insérer un jeton**.
+   * **Modèle**: Si vous souhaitez transmettre des informations dans le corps de la requête, saisissez depuis le modèle de payload. Modèles autorisés pour les types de requête suivants : POST, DELETE, PATCH ou PUT. Vous pouvez utiliser des formats de données tels que JSON ou XML. Pour insérer un jeton dans votre modèle, cliquez sur **Insérer un jeton**.
 
    * **Encodage du jeton de demande**: Si les valeurs de jeton incluent des caractères spéciaux (comme une esperluette, &#39;&amp;&#39;), indiquez le format de votre requête (**JSON** ou **Form/Url**).
 
