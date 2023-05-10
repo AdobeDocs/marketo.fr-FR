@@ -4,7 +4,7 @@ title: Gestion des utilisateurs et des licences
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 4%
@@ -53,7 +53,7 @@ Découvrez comment ajouter et supprimer des utilisateurs et afficher vos licence
 
 ## Utilisation de la licence {#license-usage}
 
-Les webinaires interactifs offrent des licences spécifiques pour la création d’événements Adobe Connect. Chaque fois qu’une licence est ajoutée, une nouvelle boîte d’utilisation de licence s’affiche. Les administrateurs de Marketo peuvent afficher (et non modifier) les licences en suivant les étapes ci-dessous. Contactez l’équipe du compte Adobe (votre gestionnaire de compte) pour acquérir des licences supplémentaires.
+Les webinaires interactifs offrent des licences spécifiques pour la création d’événements Adobe Connect. Chaque fois qu’une licence est ajoutée, une nouvelle boîte d’utilisation de licence s’affiche. Les administrateurs de Marketo peuvent afficher (et non modifier) les licences en suivant les étapes ci-dessous. Contactez l’équipe du compte Adobe (votre gestionnaire de compte) pour obtenir des licences supplémentaires.
 
 1. Cliquez sur l&#39;icône **Admin**.
 

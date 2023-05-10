@@ -4,9 +4,9 @@ title: Conception de webinaires interactifs
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Découvrez comment concevoir votre webinaire en fonction de vos besoins.
 
-1. Sélectionnez votre événement et cliquez sur **Webinaire de conception**.
+1. Sélectionnez votre événement et cliquez sur **Concevoir votre webinaire**.
 
    ![](assets/designing-interactive-webinars-1.png)
 
@@ -59,8 +59,8 @@ Découvrez comment concevoir votre webinaire en fonction de vos besoins.
 
 ## Éléments de conception {#design-elements}
 
-**Modèle**: Le modèle est une structure fournie dans une pièce en fonction de l’objectif du webinaire livré. Par exemple, si vous souhaitez programmer un webinaire de présentation de produit, le partage d’écran est un composant essentiel pour présenter la démonstration. Le modèle garantit que les composants essentiels nécessaires à une diffusion efficace d’un type particulier de webinaire sont en place lors de la configuration de la salle du webinaire.
+**Modèle**: Structure mise à disposition dans une salle basée sur l&#39;objectif de la diffusion du webinaire. Par exemple, si vous souhaitez programmer un webinaire de présentation de produit, le partage d’écran est un composant essentiel pour présenter la démonstration. Le modèle garantit que les composants essentiels nécessaires à une diffusion efficace d’un type particulier de webinaire sont en place lors de la configuration de la salle du webinaire.
 
-**Disposition**: La mise en page fait référence à différentes manières dont les différents composants requis pour garantir le succès du webinaire sont organisés dans un modèle particulier. Un modèle unique peut comporter plusieurs mises en page. Les composants essentiels du webinaire restent les mêmes dans tous les modèles. La disposition que vous avez sélectionnée convient le mieux au style/aux besoins de vous ou du présentateur qui diffusera le webinaire.
+**Disposition**: Fait référence aux différentes manières dont les différents composants requis pour garantir le succès du webinaire sont organisés dans un modèle particulier. Un modèle unique peut comporter plusieurs mises en page. Les composants essentiels du webinaire restent les mêmes dans tous les modèles. La disposition que vous avez sélectionnée convient le mieux au style/aux besoins de vous ou du présentateur qui diffusera le webinaire.
 
-**Capsule**: La capsule fait référence à un composant à l’intérieur d’un modèle qui effectue une activité particulière au cours du webinaire. Par exemple, la configuration et la diffusion d’un sondage pour capturer les réponses des participants dans une activité qui peut être satisfaite par une capsule de sondage. De même, discuter avec les participants pour transmettre un message ou interagir de façon occasionnelle avec eux peut être une activité diffusée par le biais de la capsule. Plusieurs autres capsules sont disponibles, telles que Partager, Notes, Vidéo, Chat, Liste des participants, Fichiers, Liens Web, Sondages et Q&amp;R.
+**Capsule**: Composant à l’intérieur d’un modèle qui effectue une activité particulière au cours du webinaire. Par exemple, la configuration et la diffusion d’un sondage pour capturer les réponses des participants dans une activité qui peut être satisfaite par une capsule de sondage. De même, discuter avec les participants pour transmettre un message ou interagir de façon occasionnelle avec eux peut être une activité diffusée par le biais de la capsule. Plusieurs autres capsules sont disponibles, telles que Partager, Notes, Vidéo, Chat, Liste des participants, Fichiers, Liens Web, Sondages et Q&amp;R.

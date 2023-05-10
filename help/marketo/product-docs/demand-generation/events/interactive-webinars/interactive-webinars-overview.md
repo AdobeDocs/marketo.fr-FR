@@ -4,20 +4,20 @@ title: Présentation des webinaires interactifs
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
 # Présentation des webinaires interactifs {#interactive-webinars-overview}
 
-La fonction Webinaire interactif vous permet de créer, de planifier, de promouvoir et de diffuser des webinaires en Marketo Engage sans avoir à utiliser d’autres outils ou intégrations.
+La fonctionnalité Webinaires interactifs est notre plateforme de webinaires intégrée dans Marketo Engage. Aucun outil ou intégration supplémentaire n’est requis.
 
 ## Qu’est-ce que les webinaires interactifs ? {#what-is-interactive-webinars}
 
-Les webinaires interactifs sont une conférence en ligne interactive en direct, disponible pour plusieurs utilisateurs. Lorsque vous [création d’un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, plusieurs dispositions de salles de réunion prédéfinies sont disponibles, que vous pouvez toutes personnaliser. Vous pouvez également créer et utiliser des mises en page personnalisées supplémentaires. Les participants peuvent partager des écrans/fichiers d’ordinateur, discuter entre eux, diffuser du contenu audio et vidéo et participer à des activités interactives en ligne.
+Les webinaires interactifs améliorent l’expérience actuelle en matière d’événements et de webinaires en vous permettant de créer, gérer et diffuser des événements dans Marketo Engage de manière native et transparente. Lorsque vous [création d’un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, plusieurs mises en page de salles de réunion préconfigurées sont disponibles, toutes personnalisables (vous pouvez également créer et utiliser des mises en page personnalisées supplémentaires). Les participants peuvent partager des écrans/fichiers d’ordinateur, discuter entre eux, diffuser du contenu audio et vidéo et participer à des activités interactives en ligne.
 
 Offres de webinaires interactifs [trois licences différentes](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, chacun avec différentes fonctions et capacités.
 
