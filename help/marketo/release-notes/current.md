@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '413'
 ht-degree: 7%
 
 ---
@@ -25,21 +25,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 </br>
 
-* **Activation/désactivation des mises à jour Switch et Classic Experience Removal pour l’expérience utilisateur moderne**: Suppression de pages de détails pour les modèles de courrier électronique, les modèles de page d’entrée, Forms et les fragments de code afin de garantir que l’expérience moderne est la seule expérience disponible.
-
-<table> 
-  <tr> 
-   <td><b>Statut</b></td>
-   <td><b>Mises à jour de la documentation</b></td>
-  </tr>
-  <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Shell unifié**: Aligne le Marketo Engage avec l’Experience Cloud afin de créer une expérience de navigation cohérente sur plusieurs solutions Experience Cloud au cours d’une même session d’utilisateur.
+* **Interface de Adobe Experience Cloud**: Aligne le Marketo Engage avec l’Experience Cloud afin de créer une expérience de navigation cohérente sur plusieurs solutions Experience Cloud au cours d’une même session d’utilisateur.
 
 <table> 
   <tr> 

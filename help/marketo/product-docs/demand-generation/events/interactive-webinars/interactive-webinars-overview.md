@@ -4,9 +4,9 @@ title: Présentation des webinaires interactifs
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La fonctionnalité Webinaires interactifs est notre plateforme de webinaires int
 
 ## Qu’est-ce que les webinaires interactifs ? {#what-is-interactive-webinars}
 
-Les webinaires interactifs améliorent l’expérience actuelle en matière d’événements et de webinaires en vous permettant de créer, gérer et diffuser des événements dans Marketo Engage de manière native et transparente. Lorsque vous [création d’un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, plusieurs mises en page de salles de réunion préconfigurées sont disponibles, toutes personnalisables (vous pouvez également créer et utiliser des mises en page personnalisées supplémentaires). Les participants peuvent partager des écrans/fichiers d’ordinateur, discuter entre eux, diffuser du contenu audio et vidéo et participer à des activités interactives en ligne.
+Les webinaires interactifs améliorent l’expérience actuelle en matière d’événements et de webinaires en vous permettant de créer, gérer et diffuser des événements dans Marketo Engage de manière native et transparente. Lorsque vous [création d’un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, plusieurs modèles de réunion prédéfinis sont disponibles pour le choix. Ils sont tous personnalisables (vous pouvez également créer et utiliser des modèles personnalisés). Les participants peuvent partager des écrans/fichiers d’ordinateur, discuter entre eux, diffuser du contenu audio et vidéo et participer à des activités interactives en ligne.
 
 Offres de webinaires interactifs [trois licences différentes](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, chacun avec différentes fonctions et capacités.
 

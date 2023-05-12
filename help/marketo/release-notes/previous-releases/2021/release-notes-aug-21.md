@@ -2,9 +2,9 @@
 description: Notes de mise à jour - Août 2021 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Août 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '925'
 ht-degree: 0%
 
 ---
@@ -63,18 +63,19 @@ Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées
 
 ![](assets/yellow-star.png)
 
-* **Intégration de Forms Lead Gen Bizible LinkedIn**: Les marketeurs peuvent désormais attribuer des recettes sur les conversions survenant lorsque LinkedIn capture les formulaires remplis par leurs unités publicitaires Forms de génération de pistes. Ces informations peuvent ensuite être utilisées pour optimiser les performances des formulaires et les investissements dans les médias payants. linkedIn Lead Gen Forms est l’une des offres de médias payants de LinkedIn qui a la plus forte croissance. Cette nouvelle fonctionnalité est incluse dans notre intégration LinkedIn Ads existante à Bizible.   
+* **Intégration de Forms Lead Gen Bizible LinkedIn**: Les marketeurs peuvent désormais attribuer des recettes sur les conversions survenant lorsque LinkedIn capture les formulaires remplis par leurs unités publicitaires Forms de génération de pistes. Ces informations peuvent ensuite être utilisées pour optimiser les performances des formulaires et les investissements dans les médias payants. linkedIn Lead Gen Forms est l’une des offres de médias payants les plus dynamiques de LinkedIn. Cette nouvelle fonctionnalité est incluse dans notre intégration LinkedIn Ads existante avec Bizible.
+
 * **Tableau de bord Velocity amélioré**: Nous avons ajouté une nouvelle mesure de vitesse et un nouveau filtre de tableau de bord pour obtenir des informations plus approfondies. Ce tableau de bord est utilisé par les marketeurs pour comprendre la vitesse des prospects et des opportunités, ainsi que l’efficacité de différentes formes d’engagement marketing et commercial.
 
 * **Nouveau tableau de bord du Parcours de cascade de cohortes**: Les marketeurs pourront ainsi visualiser la progression d’une cohorte sélectionnée au moyen d’un ensemble d’étapes classiques de &quot;chute d’eau de la demande&quot;, ce qui leur permettra de comprendre rapidement les taux de conversion et la causalité de conversion intermédiaire implicite, étape par étape.
 
 ## Intégration de Bizible à Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
 
-Cette section comprend de nouvelles fonctionnalités pour les utilisateurs Bizible qui ont terminé leur migration Adobe Identity Management System (IMS). Si vous avez effectué la migration, votre nouvelle Adobe ID s’affiche dans les paramètres Bizible sous l’onglet Adobe ID. Tous les comptes doivent être migrés d&#39;ici fin 2021.
+Cette section comprend de nouvelles fonctionnalités pour les utilisateurs Bizible qui ont terminé leur migration Adobe Identity Management System (IMS). Si vous avez été migré, votre nouvelle Adobe ID s’affiche dans les paramètres Bizible sous l’onglet Adobe ID. Tous les comptes doivent être migrés d&#39;ici fin 2021.
 
 * **Intégration Bizible avec Adobe Privacy Service** (disponible en septembre 2021) : L’intégration de Bizible à Adobe Privacy Service centralise la conformité aux réglementations critiques sur la confidentialité des données (telles que le RGPD) dans les applications Adobe Experience Cloud. Vous pouvez désormais tirer parti de ce service et gérer toutes les demandes d’accès à des informations personnelles de manière centralisée afin que les demandes de modification arrivant dans Bizible et d’autres produits Adobe soient répercutées dans toutes les applications.
 
-* **Bizible sur Adobe Unified Shell**: L’adoption par Bizible d’Adobe Unified Shell offre aux utilisateurs de nouvelles fonctionnalités qui apparaîtront dans la barre d’en-tête de l’application Bizible, ainsi qu’un meilleur accès aux ressources de prise en charge et au changement d’application. Adobe Unified Shell permet de créer une expérience cohérente entre Bizible et d’autres applications Adobe Experience Cloud.
+* **Bizible sur l’interface de Adobe Experience Cloud**: L’adoption de l’interface Adobe Experience Cloud par Bizible offre aux utilisateurs de nouvelles fonctionnalités qui apparaîtront dans la barre d’en-tête de l’application Bizible, notamment un meilleur accès aux ressources de prise en charge et au changement d’application. L’interface Experience Cloud permet de créer une expérience cohérente entre Bizible et d’autres applications Adobe Experience Cloud.
 
 * **Propriété des domaines Bizible et auto-gestion**: Les utilisateurs de Bizible peuvent tirer parti de Adobe Admin Console pour gérer les domaines dont Bizible doit effectuer le suivi. Cela permet d’accéder en libre-service à un processus manuel précédent et offre une expérience cohérente de la gestion de la propriété et du suivi des domaines dans les applications Adobe Experience Cloud.
 
