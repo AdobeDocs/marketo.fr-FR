@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossaire Marketo - Documents Marketo - Documentation du produit
 title: Glossaire Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 4%
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 Vous trouverez ci-dessous des définitions de la plupart des termes que vous pouvez rencontrer lors de l’utilisation de Marketo. Pour demander l’ajout d’un terme, veuillez [nous envoyer un email](mailto:GRP-Marketo-articlefeedback@adobe.com).
 
-## R {#a}
+## A {#a}
 
 <table> 
  <colgroup> 
@@ -23,12 +23,12 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">Les tests A/B</a></strong></td>
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">Tests A/B</a></strong></td>
    <td colspan="1">Permet de modifier des composants de votre email (par exemple, l’objet, l’adresse, etc.) et définissez des critères de test afin de déterminer quel ensemble de contenu est le plus performant.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Compte</strong></td> 
-   <td colspan="1">Ce terme peut avoir des significations différentes :<br>- Votre instance Marketo elle-même peut être appelée votre compte Marketo.<br>-In <strong>TAM</strong>, un <strong>Compte nommé</strong> est un compte que l’utilisateur a déterminé comme étant un compte cible qu’il souhaite poursuivre.<br>-Dans la gestion de la relation client, un compte CRM est mappé à partir de votre lien <strong>CRM</strong> (compte dans <strong>Salesforce</strong>, <strong>MS Dynamics</strong> ou <strong>API</strong>).<br>- Dans votre CRM, les comptes sont l’entreprise/la société à laquelle les prospects et les contacts sont associés.</td> 
+   <td colspan="1">Ce terme peut avoir des significations différentes :<br>- Votre instance Marketo elle-même peut être appelée votre compte Marketo.<br>-In <strong>TAM</strong>, un <strong>Compte nommé</strong> est un compte que l’utilisateur a déterminé comme étant un compte cible qu’il souhaite poursuivre.<br>-Dans la gestion de la relation client, un compte CRM est mappé à partir de votre lien <strong>CRM</strong> (compte dans <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> ou <strong>API</strong>).<br>- Dans votre CRM, les comptes sont l’entreprise/la société à laquelle les prospects et les contacts sont associés.</td> 
   </tr> 
   <tr> 
    <td><strong>Liste de compte</strong></td> 
@@ -306,7 +306,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>Adresse e-mail</strong></td> 
+   <td colspan="1"><strong>E-mail</strong></td> 
    <td colspan="1">Dans Marketo, l’un des <strong>ressources</strong> disponibles pour communiquer avec vos clients. Les emails peuvent être HTMLS (graphiques, police personnalisée, etc.) ou Texte uniquement (messages en texte brut sans mise en forme spéciale). Seuls les emails HTML peuvent enregistrer des "ouvertures".</td> 
   </tr> 
   <tr> 
@@ -441,7 +441,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
  </tbody> 
 </table>
 
-## k {#k}
+## K {#k}
 
 <table> 
  <colgroup> 
@@ -456,7 +456,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
  </tbody> 
 </table>
 
-## P {#l}
+## L {#l}
 
 <table> 
  <colgroup> 
@@ -792,7 +792,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
  </tbody> 
 </table>
 
-## Ma.{#t}
+## T {#t}
 
 <table> 
  <colgroup> 
