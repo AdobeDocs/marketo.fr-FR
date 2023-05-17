@@ -2,10 +2,10 @@
 description: Synchronisation des désabonnements avec Salesforce - Documents Marketo - Documentation du produit
 title: Synchronisation des désabonnements avec Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
+source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '437'
+ht-degree: 5%
 
 ---
 
@@ -90,6 +90,6 @@ Opt-out des emails est un champ standard de Salesforce qui peut être installé 
 
 ## Désabonnement Marketo Sales {#marketo-sales-opt-out}
 
-Le champ Opposition de vente Marketo est un champ personnalisé qui est disponible pour les utilisateurs qui ont installé les personnalisations des ventes Marketo.
+Le champ Opposition de vente Marketo est un champ personnalisé qui est disponible pour les utilisateurs qui ont installé le package Insight de vente Marketo. [de l’AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-Une fois que vous avez installé les personnalisations de ventes Marketo dans Salesforce, le champ Exclusion de la vente Marketo s’affiche.
+Une fois que vous avez installé le package Marketo Sales Insight de l’AppExchange vers Salesforce, vous pouvez voir le champ Marketo Sales Opt Out (Exclusion des ventes de) disponible.
