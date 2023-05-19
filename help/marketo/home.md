@@ -2,10 +2,10 @@
 title: Documentation produit Marketo
 description: Documentation produit Marketo
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 25%
+source-wordcount: '49'
+ht-degree: 30%
 
 ---
 
@@ -13,18 +13,18 @@ ht-degree: 25%
 
 ![](assets/marketo-docs-banner.jpg)
 
-## Démarrer
+## Premiers pas
 
 * [Étapes de configuration](/help/marketo/getting-started/setup/setup-steps.md)
 * [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Configuration de protocoles pour Marketo](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
 * [Glossaire Marketo](/help/marketo/getting-started/marketo-glossary.md)
 
-## Articles populaires
+## Articles les plus consultés
 
-* [Présentation de la synchronisation Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [Présentation de la fonction [!DNL Salesforce] Synchronisation](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [Présentation de la synchronisation Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [Présentation de la fonction [!DNL Microsoft Dynamics] Synchronisation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [Présentation des campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 

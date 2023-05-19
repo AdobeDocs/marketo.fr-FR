@@ -3,10 +3,10 @@ unique-page-id: 2359414
 description: Score simple - Documents Marketo - Documentation du produit
 title: Évaluation simple
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-source-git-commit: 89ee01fb25e7bc406c198c8e89e6957b3b1e1928
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 8%
+source-wordcount: '369'
+ht-degree: 12%
 
 ---
 
@@ -14,21 +14,21 @@ ht-degree: 8%
 
 >[!PREREQUISITES]
 >
->* [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [Page d’entrée avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
+>* [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Page de destination avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 
 ## Étape 1 : Créer une campagne d&#39;évaluation {#step-create-a-scoring-campaign}
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez au **[!UICONTROL Activités marketing]** zone.
 
    ![](assets/simple-scoring-1.png)
 
-1. Cliquez avec le bouton droit de la souris sur votre **Formation** et cliquez sur **Nouveau dossier Campaign**.
+1. Cliquez avec le bouton droit de la souris sur votre **Formation** et cliquez sur **[!UICONTROL Nouveau dossier Campaign]**.
 
    ![](assets/simple-scoring-2.png)
 
-1. Nommez le dossier de campagne &quot;Notation&quot; et cliquez sur **Créer**.
+1. Nommez le dossier de campagne &quot;Notation&quot; et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/simple-scoring-3.png)
 
@@ -36,21 +36,21 @@ ht-degree: 8%
    >
    >Si vous disposez déjà d’un dossier de notation, nommez celui-ci quelque chose de différent, tel que Scoring 1. Les noms de dossier doivent être uniques.
 
-1. Cliquez avec le bouton droit de la souris sur votre **Notation** et sélectionnez **Nouvelle campagne dynamique**.
+1. Cliquez avec le bouton droit de la souris sur votre **Notation** et sélectionnez **[!UICONTROL Nouvelle campagne dynamique]**.
 
    ![](assets/simple-scoring-4.png)
 
-1. Nommez la campagne &quot;Changer de score&quot; et cliquez sur **Créer**.
+1. Nommez la campagne &quot;Changer de score&quot; et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/simple-scoring-5.png)
 
-1. Cliquez sur l&#39;onglet **Liste intelligente**.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Liste intelligente]**.
 
    ![](assets/simple-scoring-6.png)
 
    Nous voulons que cette campagne s’exécute chaque fois qu’une personne remplit votre **Formulaire de demande d’évaluation**.
 
-1. Recherchez et faites glisser le **Remplir le formulaire** se déclenche sur la zone de travail de gauche.
+1. Recherchez et faites glisser le **[!UICONTROL Remplir le formulaire]** se déclenche sur la zone de travail de gauche.
 
    ![](assets/simple-scoring-7.png)
 
@@ -60,9 +60,9 @@ ht-degree: 8%
 
    >[!NOTE]
    >
-   >Si vous avez terminé la [Page d’entrée avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} gain rapide, vous devez avoir le formulaire. Si vous avez utilisé un autre nom pour votre formulaire, sélectionnez-le.
+   >Si vous avez terminé la [Page d’entrée avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} gagnant rapide, vous devriez avoir le formulaire. Si vous avez utilisé un autre nom pour votre formulaire, sélectionnez-le.
 
-1. Cliquez sur l&#39;onglet **Flux**.
+1. Cliquez sur l&#39;onglet **[!UICONTROL Flux]**.
 
    ![](assets/simple-scoring-9.png)
 
@@ -70,19 +70,19 @@ ht-degree: 8%
 
    ![](assets/simple-scoring-10.png)
 
-1. Vous pouvez saisir n’importe quelle valeur à ajouter au score de la personne. Entrons &quot;+5&quot; dans le **Modifier** champ .
+1. Vous pouvez saisir n’importe quelle valeur à ajouter au score de la personne. Entrons &quot;+5&quot; dans le **[!UICONTROL Modifier]** champ .
 
    ![](assets/simple-scoring-11.png)
 
    >[!TIP]
    >
-   >De bonnes campagnes de notation sont essentielles pour fournir des personnes de haute qualité aux ventes. Lecture [**Guide définitif pour la notation des pistes**](https://www.marketo.com/definitive-guides/lead-scoring/){target=&quot;_blank&quot;}.
+   >De bonnes campagnes de notation sont essentielles pour fournir des personnes de haute qualité aux ventes. Lisez le [**Guide exhaustif de Lead Scoring**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
 
-1. Cliquez sur le bouton **Planification** et le **Activer** bouton .
+1. Cliquez sur le bouton **[!UICONTROL Planification]** et le **[!UICONTROL Activer]** bouton .
 
    ![](assets/simple-scoring-12.png)
 
-1. Cliquez sur **Activer** sur l’écran de confirmation.
+1. Cliquez sur **[!UICONTROL Activer]** sur l’écran de confirmation.
 
    ![](assets/simple-scoring-13.png)
 
@@ -92,15 +92,15 @@ ht-degree: 8%
 
 ## Étape 2 : Remplir le formulaire {#step-fill-out-the-form}
 
-1. Sélectionnez la landing page que vous avez créée dans le [Page d’entrée avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} gain rapide.
+1. Sélectionnez la landing page que vous avez créée dans le [Page d’entrée avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} gagnant rapide.
 
    ![](assets/simple-scoring-14.png)
 
-1. Cliquez sur **Aperçu**. La landing page s’ouvre dans un nouvel onglet.
+1. Cliquez sur **[!UICONTROL Aperçu]**. La landing page s’ouvre dans un nouvel onglet.
 
    ![](assets/simple-scoring-15.png)
 
-1. Remplissez le formulaire avec votre prénom, votre nom et votre adresse électronique, puis cliquez sur **Envoyer**.
+1. Remplissez le formulaire avec votre prénom, votre nom et votre adresse électronique, puis cliquez sur **[!UICONTROL Envoyer]**.
 
    ![](assets/simple-scoring-16.png)
 
@@ -110,7 +110,7 @@ ht-degree: 8%
 
 ## Étape 3 : Affichage des informations sur la personne {#step-view-the-person-info}
 
-1. Accédez à la zone Base de données .
+1. Accédez au **[!UICONTROL Base]** zone.
 
    ![](assets/simple-scoring-17.png)
 

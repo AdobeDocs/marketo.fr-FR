@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: Procédure de configuration - Documents Marketo - Documentation du produit
 title: Étapes de configuration
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 6dc38462b08f9db639d2d5ee005c4bdf5131b701
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '2054'
+source-wordcount: '2043'
 ht-degree: 0%
 
 ---
@@ -35,17 +35,17 @@ Certaines étapes nécessitent l’aide de votre équipe informatique.
 
 ## Connexion et création d’utilisateurs Marketo supplémentaires {#log-in-and-create-additional-marketo-users}
 
-1. Connexion à Marketo [here](https://app.marketo.com/){target="_blank"} à l’aide des informations d’identification que vous avez reçues par courrier électronique.
+Connexion à Marketo [here](https://app.marketo.com/){target="_blank"} à l’aide des informations d’identification que vous avez reçues par courrier électronique.
 
-   ![](assets/setup-steps-1.png)
+![](assets/setup-steps-1.png)
 
 Félicitations ! Vous êtes maintenant dans Marketo et pouvez commencer à explorer. Vous pouvez inviter vos collègues de l’équipe marketing à vous rejoindre. Pour ce faire, ajoutez de nouveaux utilisateurs.
 
-Cliquez sur l&#39;icône **Admin**.
+Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
 >[!TIP]
 >
->Lorsque vous êtes ici, vous pouvez cliquer sur **Mon compte** pour modifier les paramètres de votre compte et de votre emplacement, ainsi qu’un nouveau nom d’abonnement.
+>Lorsque vous êtes ici, vous pouvez cliquer sur **[!UICONTROL Mon compte]** pour modifier les paramètres de votre compte et de votre emplacement, ainsi qu’un nouveau nom d’abonnement.
 
 ![](assets/setup-steps-2.png)
 
@@ -53,15 +53,15 @@ Cliquez sur l&#39;icône **Admin**.
 >
 >**Autorisations d’administrateur requises**
 
-Cliquez sur **Utilisateurs et rôles**.
+Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
 ![](assets/setup-steps-3.png)
 
-Cliquez sur **Inviter un nouvel utilisateur**.
+Cliquez sur **[!UICONTROL Inviter un nouvel utilisateur]**.
 
 ![](assets/setup-steps-4.png)
 
-Renseignez l’adresse électronique, le prénom et le nom de votre collègue. _La définition d’une date d’expiration d’accès est facultative._. Cliquez sur **Suivant**.
+Renseignez l’adresse électronique, le prénom et le nom de votre collègue. _La définition d’une date d’expiration d’accès est facultative._. Cliquez sur **[!UICONTROL Suivant]**.
 
 ![](assets/setup-steps-5.png)
 
@@ -73,7 +73,7 @@ Renseignez l’adresse électronique, le prénom et le nom de votre collègue. _
 >
 >Lorsque la date d’expiration arrive, l’utilisateur reçoit une notification d’expiration et le compte est verrouillé.
 
-Sélectionnez un rôle et cliquez sur **Suivant**. Les utilisateurs standard ont accès à toutes les zones, à l’exception d’Admin.
+Sélectionnez un rôle et cliquez sur **[!UICONTROL Suivant]**. Les utilisateurs standard ont accès à toutes les zones, à l’exception d’Admin.
 
 ![](assets/setup-steps-6.png)
 
@@ -85,7 +85,7 @@ N’hésitez pas à modifier le texte de l’invitation. Cliquez sur **Envoyer**
 
 ![](assets/setup-steps-7.png)
 
-Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs et doit recevoir un courrier électronique contenant un lien pour créer un mot de passe et un identifiant. Prochaine étape!
+Le nouvel utilisateur est maintenant répertorié dans la variable **[!UICONTROL Utilisateurs]** et doit recevoir un courrier électronique contenant un lien pour créer un mot de passe et un identifiant. Prochaine étape!
 
 ![](assets/setup-steps-8.png)
 
@@ -133,7 +133,7 @@ Cliquez sur **Mon compte**.
 
 ![](assets/setup-steps-10.png)
 
-Faites défiler l’écran jusqu’à &quot;Informations sur l’assistance&quot; et copiez votre Munchkin ID.
+Copiez le [!UICONTROL Chaîne de compte] dans les paramètres de la landing page.
 
 ![](assets/setup-steps-11.png)
 
@@ -169,17 +169,17 @@ La première partie est le CNAME de tracking des emails, `[EmailTrackingCNAME]`.
 >
 >Les CNAME de courrier électronique et de page d’entrée doivent être différents. Évitez également les CNAME tels que &quot;track&quot; ou &quot;link&quot;. Il est souvent signalé comme indésirable
 
-Pour trouver votre lien de suivi Marketo, accédez au **Administration** zone.
+Pour trouver votre lien de suivi Marketo, accédez au **[!UICONTROL Administration]** zone.
 
 ![](assets/setup-steps-12.png)
 
-Cliquez sur **Email**.
+Cliquez sur **[!UICONTROL Email]**.
 
 ![](assets/setup-steps-13.png)
 
-Copiez le lien de suivi dans vos paramètres de courrier électronique.
+Copiez le [!UICONTROL Lien de suivi] de vos paramètres de courrier électronique.
 
-Le lien de suivi se présente comme suit : `mkto-[a-z][4 digits].com`.
+Le [!UICONTROL Lien de suivi] est au format : `mkto-[a-z][4 digits].com`.
 
 ![](assets/setup-steps-14.png)
 
@@ -284,35 +284,35 @@ Envoyez l’e-mail au service informatique. Nous comprenons qu’il peut s’éc
 
 Une fois les tâches du service informatique terminées, procédez comme suit pour ajouter votre landing page et vos CNAME de messagerie, et activer la signature DKIM.
 
-Accédez au **Administration** zone pour ajouter votre CNAME de page d’entrée
+Accédez au **[!UICONTROL Administration]** zone pour ajouter votre CNAME de page d’entrée
 
 ![](assets/setup-steps-15.png)
 
-Sélectionnez Landing Pages , puis cliquez sur **Modifier** dans la zone Paramètres .
+Sélectionnez Landing Pages , puis cliquez sur **[!UICONTROL Modifier]** dans le [!UICONTROL Paramètres] zone.
 
 ![](assets/setup-steps-16.png)
 
-Saisissez votre nouveau nom de domaine dans le champ Nom de domaine pour les landing pages. Cela doit se présenter comme suit :
+Entrez votre nouveau nom de domaine dans le champ . **[!UICONTROL Nom de domaine des landing pages]**. Cela doit se présenter comme suit :
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
 ![](assets/setup-steps-17.png)
 
-Dans le champ Page de secours , saisissez l’URL à laquelle vous souhaitez que les utilisateurs accèdent en cas d’indisponibilité d’une landing page. Vous pouvez utiliser la page d’accueil de votre société si vous ne disposez pas d’une page de secours. Dans le champ Page d’accueil , saisissez le site web de votre société.
+Dans le **[!UICONTROL Secours]** , saisissez l’URL à laquelle vous souhaitez que les utilisateurs accèdent en cas d’indisponibilité d’une landing page. Vous pouvez utiliser la page d’accueil de votre société si vous ne disposez pas d’une page de secours. Dans le **[!UICONTROL Page d’accueil]** , saisissez le site web de votre société.
 
 ![](assets/setup-steps-18.png)
 
-Dans la zone Admin, sélectionnez Courrier électronique pour ajouter votre CNAME de messagerie
+Dans le [!UICONTROL Administration] zone, sélectionnez **[!UICONTROL Email]** pour ajouter votre CNAME de messagerie
 
 ![](assets/setup-steps-19.png)
 
-Faites défiler l’écran jusqu’à Domaines de marque. Sélectionnez votre domaine et cliquez sur **Modifier**.
+Faites défiler jusqu’à [!UICONTROL Domaines de marque]. Sélectionnez votre domaine et cliquez sur **[!UICONTROL Modifier]**.
 
 ![](assets/setup-steps-20.png)
 
 Dans le champ Domaine , saisissez votre domaine de tracking email. Cela doit se présenter comme suit :
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Cliquez sur **Enregistrer**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Cliquez sur **[!UICONTROL Enregistrer]**.
 
 ![](assets/setup-steps-21.png)
 
@@ -322,8 +322,8 @@ C’est probablement l’étape la plus passionnante de votre configuration. Il 
 
 Choisissez l’un des éléments suivants en fonction du CRM utilisé par votre entreprise.
 
-    * [Intégration de Marketo à Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-    * [Intégration de Marketo à Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+    * [Intégration de Marketo avec [!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [Intégration de Marketo avec [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >
@@ -333,9 +333,9 @@ Choisissez l’un des éléments suivants en fonction du CRM utilisé par votre 
 
 >[!NOTE]
 >
->Êtes-vous client de Launch Pack ? Vous pouvez ignorer cette étape. Votre consultant vous fournira des instructions de code Munchkin dans votre document d’instructions de configuration informatique.
+>Êtes-vous un [!DNL Launch Pack] client ? Vous pouvez ignorer cette étape. Votre conseiller vous fournira [!DNL Munchkin] instructions de code dans le document d’instructions de configuration informatique.
 
-Marketo dispose d’un code JavaScript de suivi personnalisé (appelé Munchkin) que vous pouvez utiliser pour effectuer le suivi des activités de personnes sur n’importe quelle page web. Munchkin est requis pour intégrer votre site web à Marketo. Suivez ces étapes pour [Ajout du code de suivi Munchkin à votre site web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo possède un code JavaScript de suivi personnalisé (appelé [!DNL Munchkin]) que vous pouvez utiliser pour effectuer le suivi des activités de personnes sur n’importe quelle page web. [!DNL Munchkin] est nécessaire pour intégrer votre site web à Marketo. Suivez ces étapes pour [Ajouter [!DNL Munchkin] Code de suivi sur votre site web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >

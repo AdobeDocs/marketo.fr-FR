@@ -3,7 +3,7 @@ unique-page-id: 2949251
 description: SEO - Ajout/suppression d’une URL de lien entrant d’une liste - Documents Marketo - Documentation du produit
 title: SEO - Ajout/suppression d’une URL de lien entrant d’une liste
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -16,11 +16,11 @@ Vous pouvez organiser vos URL de lien entrantes vers le contenu de votre coeur.
 
 ## Ajout d’une URL de lien entrant à une liste {#add-an-inbound-link-url-to-a-list}
 
-1. Accédez à la section Liens entrants .
+1. Accédez au **[!UICONTROL Liens entrants]** .
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Pointez sur l’URL du lien entrant que vous souhaitez catégoriser. Cliquez sur **Ajouter/Supprimer de la liste**.
+1. Pointez sur l’URL du lien entrant que vous souhaitez catégoriser. Cliquez sur **[!UICONTROL Ajouter/Supprimer de la liste]**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -30,21 +30,21 @@ Vous pouvez organiser vos URL de lien entrantes vers le contenu de votre coeur.
 
 >[!TIP]
 >
->Vous pouvez également créer une nouvelle liste pour votre mot-clé. Saisissez simplement le nom de votre choix dans Créer une liste.
+>Vous pouvez également créer une nouvelle liste pour votre mot-clé. Saisissez simplement le nom de votre choix dans [!UICONTROL Créer une nouvelle liste].
 
 ## Suppression d’une URL de lien entrant d’une liste {#remove-an-inbound-link-url-from-a-list}
 
 Parfois, vous souhaiterez supprimer une URL de lien entrant d’une liste.
 
-1. Cliquez sur **Liens entrants**.
+1. Cliquez sur **[!UICONTROL Liens entrants]**.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Cliquez sur le bouton **Filtrer par liste** menu déroulant. Cliquez sur la liste à nettoyer.
+1. Cliquez sur le bouton **[!UICONTROL Filtrer par liste]** menu déroulant. Cliquez sur la liste à nettoyer.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Pointez sur l’URL du lien entrant que vous souhaitez supprimer. Cliquez sur **Ajouter/Supprimer de la liste**.
+1. Pointez sur l’URL du lien entrant que vous souhaitez supprimer. Cliquez sur **[!UICONTROL Ajouter/Supprimer de la liste]**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 

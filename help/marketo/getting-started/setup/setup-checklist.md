@@ -3,16 +3,16 @@ unique-page-id: 2949471
 description: Liste de contrôle de configuration - Documents Marketo - Documentation du produit
 title: Liste de contrôle de configuration
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '204'
 ht-degree: 2%
 
 ---
 
 # Liste de contrôle de configuration {#setup-checklist}
 
-Bienvenue sur Marketo! N’hésitez pas à utiliser la liste de contrôle suivante comme liste de tâches visuelles pour lancer les choses. Vous trouverez des détails dans la section [Étapes de configuration](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}.
+Bienvenue sur Marketo! N’hésitez pas à utiliser la liste de contrôle suivante comme liste de tâches visuelles pour lancer les choses. Vous trouverez des détails dans la section [Étapes de configuration](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}.
 
 ## Connexion à Marketo et création d’utilisateurs supplémentaires {#log-in-to-marketo-and-create-additional-users}
 
@@ -32,7 +32,7 @@ Bienvenue sur Marketo! N’hésitez pas à utiliser la liste de contrôle suivan
 1. Sélection d’un CNAME de courriel pour les liens de suivi de marque
 1. Demandez au service informatique de configurer un enregistrement DNS pour votre CNAME de messagerie
 1. Demander à l’informatique de placer sur la liste autorisée Marketo
-1. Configuration de DKIM et SPF dans la zone d’administration
+1. Configuration de DKIM et de SPF dans [!UICONTROL Administration] area
 1. Configuration de MX pour `[FromDomain1]`
 1. Une fois l’utilisation du CNAME de messagerie terminée, configurez votre CNAME de messagerie dans Marketo.
 
@@ -50,4 +50,4 @@ Bienvenue sur Marketo! N’hésitez pas à utiliser la liste de contrôle suivan
 
 >[!MORELIKETHIS]
 >
->[Étapes de configuration](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+>[Étapes de configuration](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
