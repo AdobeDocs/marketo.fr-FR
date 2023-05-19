@@ -2,10 +2,10 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 7%
+source-wordcount: '431'
+ht-degree: 6%
 
 ---
 
@@ -65,7 +65,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 Les webinaires interactifs améliorent l’expérience actuelle des événements et des webinaires en offrant une expérience native et transparente aux marketeurs pour leur permettre de créer, gérer et diffuser des événements dans Marketo Engage. Personnalisez des webinaires en fonction du type d’événement et ajoutez même des présentateurs si vous le souhaitez. Obtenez des informations d’engagement riches grâce aux fonctionnalités d’Adobe Connect telles que les sondages en direct, le chat, les sessions Q&amp;R, les clics sur les liens web, les téléchargements de documents, etc. Récupérez l’enregistrement du webinaire directement dans Marketo Engage et évaluez ses performances grâce à des mesures de tableaux de bord enrichies.
 
-Vous pouvez demander [accès anticipé à cette fonctionnalité ici](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+Les webinaires interactifs seront déployés progressivement. Pour demander un accès anticipé, veuillez renseigner [ce formulaire](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 

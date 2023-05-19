@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: Importation d’une liste de personnes - Documents Marketo - Documentation du produit
 title: Importation d’une liste de personnes
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '490'
 ht-degree: 5%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->[Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>[Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à partir d’un fichier de feuille de calcul.
 
 ## Étape 1 : Téléchargement et modification d’une feuille de calcul {#step-download-and-edit-a-spreadsheet}
 
-1. Pour commencer, téléchargez notre fichier de feuille de calcul pratique ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) sur votre ordinateur.
+1. Pour commencer, téléchargez notre fichier de feuille de calcul pratique ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) à votre ordinateur.
 
    ![](assets/import-a-list-of-people-1.png)
 
@@ -44,41 +44,41 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
 ## Étape 2 : Créer un programme {#step-create-a-program}
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez au **[!UICONTROL Activités marketing]** zone.
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. Sélectionnez votre **Formation** , puis sous **Nouveau** click **Nouveau programme**.
+1. Sélectionnez votre **Formation** , puis sous **[!UICONTROL Nouveau]** click **[!UICONTROL Nouveau programme]**.
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **Nom** le programme &quot;Mon programme de commerce&quot; et sélectionnez &quot;Événement&quot; pour le **Type de programme**.
+1. **Nom** le programme &quot;Mon programme de commerce&quot; et sélectionnez &quot;Événement&quot; pour le **[!UICONTROL Type de programme]**.
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. Sélectionner **Commerce** pour le **Canal** et cliquez sur **Créer**.
+1. Sélectionner **[!UICONTROL Commerce]** pour le **[!UICONTROL Canal]** et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
->Les programmes d’événement se produisent à des dates spécifiques. En savoir plus sur [**Événements**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target=&quot;_blank&quot;}.
+>Les programmes d’événement se produisent à des dates spécifiques. En savoir plus sur [**Événements**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
 
 ## Étape 3 : Importation de votre feuille de calcul dans Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. Dans **Mon programme de commerce**, cliquez sur **Nouveau** et sélectionnez **Nouvelle ressource locale**.
+1. Dans **Mon programme de commerce**, cliquez sur **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouvelle ressource locale]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
-1. Sélectionner **Liste**.
+1. Sélectionner **[!UICONTROL Liste]**.
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **Nom** Dans la liste &quot;Trafic des participants&quot;, cliquez sur **Créer**.
+1. **Nom** Dans la liste &quot;Trafic des participants&quot;, cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. Dans votre **Traiter les participants** liste, cliquez sur **Actions de liste** et sélectionnez **Liste d’importation**.
+1. Dans votre **[!UICONTROL Traiter les participants]** liste, cliquez sur **[!UICONTROL Actions de liste]** et sélectionnez **[!UICONTROL Liste d’importation]**.
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -90,32 +90,32 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
    >
    >La taille des fichiers CSV est limitée à 100 Mo.
 
-1. **Parcourir** au **tradeshow-attendees.csv** fichier de feuille de calcul sur votre ordinateur, puis cliquez sur **Suivant**.
+1. **[!UICONTROL Parcourir]** au **tradeshow-attendees.csv** fichier de feuille de calcul sur votre ordinateur, puis cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
-   >En mode d’importation de liste, en sélectionnant **Ignorer les nouvelles personnes et les mises à jour** signifie que vous n’affecterez pas les enregistrements de personne existants ni n’enregistrez aucune activité. Utilisez ce mode si vous souhaitez obtenir une liste statique rapide et préfiltrée des personnes existantes à utiliser dans vos activités marketing. La sélection de ce mode permet d’effectuer les opérations suivantes :
+   >En mode d’importation de liste, en sélectionnant **[!UICONTROL Ignorer les nouvelles personnes et les mises à jour]** signifie que vous n’affecterez pas les enregistrements de personne existants ni n’enregistrez aucune activité. Utilisez ce mode si vous souhaitez obtenir une liste statique rapide et préfiltrée des personnes existantes à utiliser dans vos activités marketing. La sélection de ce mode permet d’effectuer les opérations suivantes :
    >
    > * Ignorer la création d’une nouvelle personne
    > * Ignorer les mises à jour du champ individu
    > * Ignorer la journalisation d&#39;activité
 
 
-1. Faites correspondre vos champs de colonne de liste avec leur champ Marketo respectif, puis cliquez sur **Suivant**.
+1. Mappez vos [!UICONTROL Colonne de liste] dans le champ Marketo correspondant, puis cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
-   >Les en-têtes de colonne doivent toujours correspondre exactement au champ (sensible à la casse) afin d’obtenir les meilleurs résultats de mappage automatique. Si vous utilisez des champs personnalisés et que vous ne les voyez pas dans la liste déroulante, revenez en arrière et [créer les](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;} afin qu’elles puissent devenir des options.
+   >Les en-têtes de colonne doivent toujours correspondre exactement au champ (sensible à la casse) afin d’obtenir les meilleurs résultats de mappage automatique. Si vous utilisez des champs personnalisés et que vous ne les voyez pas dans la liste déroulante, revenez en arrière et [créer les](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} ils peuvent devenir des options.
 
    >[!NOTE]
    >
    >Si vous ne souhaitez pas importer des champs, sélectionnez **Ignorer** dans le menu déroulant Champ Marketo .
 
-1. Sélectionner **Mon programme de commerce** pour le **Programme d’acquisition**, puis cliquez sur **Importer**.
+1. Sélectionner **Mon programme de commerce** pour le **[!UICONTROL Programme d’acquisition]**, puis cliquez sur **[!UICONTROL Importer]**.
 
    ![](assets/import-a-list-of-people-13.png)
 
@@ -123,13 +123,13 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Retour à **Mon programme de commerce**, cliquez sur le bouton **Membres** . Vous verrez toutes les personnes que vous venez d&#39;importer.
+1. Retour à **Mon programme de commerce**, cliquez sur le bouton **[!UICONTROL Membres]** . Vous verrez toutes les personnes que vous venez d&#39;importer.
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->Vous pouvez analyser le succès de votre programme en suivant l’adhésion au programme. En savoir plus sur [**Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}.
+>Vous pouvez analyser le succès de votre programme en suivant l’adhésion au programme. En savoir plus sur [**Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
 
 ## Mission accomplie {#mission-complete}
 

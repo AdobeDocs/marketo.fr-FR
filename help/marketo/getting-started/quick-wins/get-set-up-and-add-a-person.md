@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Configuration et ajout d’une personne - Documents Marketo - Documentation du produit
 title: Configuration et ajout d’une personne
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 3e53e5b947755b1b1a8db2b2fc30e93ea6c362ec
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 16%
 
 ---
@@ -16,7 +16,7 @@ Il y a quelques choses à faire avant de commencer les missions.
 
 ## Étape 1 : Connexion à Marketo {#step-log-in-to-marketo}
 
-1. [Connexion à Marketo](https://app.marketo.com){target=&quot;_blank&quot;} à l’aide des informations d’identification que vous avez reçues par courrier électronique.
+1. [Connexion à Marketo](https://app.marketo.com){target="_blank"} à l’aide des informations d’identification que vous avez reçues par courrier électronique.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -24,15 +24,15 @@ Il y a quelques choses à faire avant de commencer les missions.
 
 Créons un dossier qui contiendra tout ce que vous ferez lors de vos missions.
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez au **[!UICONTROL Activités marketing]** zone.
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. Cliquez sur le bouton **Nouveau** et sélectionnez **Nouveau dossier Campaign**.
+1. Cliquez sur le bouton **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouveau dossier Campaign]**.
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. Nommez le dossier &quot;Apprentissage&quot; et cliquez sur **Créer**.
+1. Nommez le dossier &quot;Apprentissage&quot; et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
@@ -44,15 +44,15 @@ Créons un dossier qui contiendra tout ce que vous ferez lors de vos missions.
 
 Ajoutez-vous en tant que personne dans Marketo afin de pouvoir vous envoyer ultérieurement des emails de test.
 
-1. Accédez au **Base** zone.
+1. Accédez au **[!UICONTROL Base]** zone.
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. Cliquez sur le bouton **Nouveau** et sélectionnez **Nouvelle personne**.
+1. Cliquez sur le bouton **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouvelle personne]**.
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
-1. Saisissez vos prénom et nom, adresse électronique et nom de société, puis cliquez sur **Créer** pour vous ajouter en tant que personne.
+1. Saisissez vos prénom et nom, adresse électronique et nom de société, puis cliquez sur **[!UICONTROL Créer]** pour vous ajouter en tant que personne.
 
    ![](assets/get-set-up-and-add-a-person-8.png)
 
@@ -60,11 +60,11 @@ Ajoutez-vous en tant que personne dans Marketo afin de pouvoir vous envoyer ult�
    >
    >Marketo **not** prennent en charge les adresses électroniques contenant des emojis.
 
-1. Pour afficher vos personnes, ouvrez vos listes dynamiques système dans le menu de gauche, puis cliquez sur Toutes les personnes.
+1. Pour afficher vos personnes, ouvrez votre [!UICONTROL Liste dynamique système] dans le menu de gauche, puis cliquez sur **[!UICONTROL Toutes les personnes]**.
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. Cliquez sur le bouton **Personnes** . Votre nom devrait apparaître dans la base de données.
+1. Cliquez sur le bouton **[!UICONTROL Personnes]** . Votre nom devrait apparaître dans la base de données.
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 

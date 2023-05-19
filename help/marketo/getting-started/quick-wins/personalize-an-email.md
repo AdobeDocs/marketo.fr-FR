@@ -3,10 +3,10 @@ unique-page-id: 2359422
 description: Personnalisation d’un courrier électronique - Documents Marketo - Documentation du produit
 title: Personnaliser un e-mail
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-source-git-commit: 8aa2f3069c0168f57ac00dfc7270484a9045584c
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 8%
+source-wordcount: '331'
+ht-degree: 10%
 
 ---
 
@@ -16,14 +16,14 @@ ht-degree: 8%
 
 >[!PREREQUISITES]
 >
->* [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [Envoyer un message électronique](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}
->* [Déchets, goutte, Infirmière](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}
+>* [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Envoyer un E-mail de masse](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}
+>* [Marketing goutte à goutte et fidélisation](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"}
 
 
 ## Étape 1 : Sélectionner un email à personnaliser {#step-select-an-email-to-personalize}
 
-1. Sélectionnez l’un des messages électroniques d’accueil créés dans la [aperçu rapide précédent](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} et cliquez sur **Créer un brouillon**.
+1. Sélectionnez l’un des messages électroniques d’accueil créés dans la [aperçu rapide précédent](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} et cliquez sur **[!UICONTROL Créer un brouillon]**.
 
    ![](assets/personalize-an-email-1.png)
 
@@ -31,15 +31,15 @@ ht-degree: 8%
    >
    >Une copie de cet e-mail sera créée en tant que brouillon. N’oubliez pas d’approuver le brouillon pour que les modifications soient mises en ligne.
 
-Si vous n’avez pas activé de bloqueur de fenêtres contextuelles, l’éditeur de courrier électronique s’ouvre dans un nouvel onglet/nouvelle fenêtre. Sinon, cliquez sur **Créer un brouillon** deux fois.
+Si vous n’avez pas activé de bloqueur de fenêtres contextuelles, l’éditeur de courrier électronique s’ouvre dans un nouvel onglet/nouvelle fenêtre. Sinon, cliquez sur **[!UICONTROL Créer un brouillon]** deux fois.
 
 ## Étape 2 : Faire du vendeur l’expéditeur {#step-make-the-salesperson-the-sender}
 
-1. Sélectionnez la **De** champ, mise en surbrillance et **delete** nom actuel.
+1. Sélectionnez la **[!UICONTROL De]** champ, mise en surbrillance et **delete** nom actuel.
 
    ![](assets/personalize-an-email-2.png)
 
-1. Cliquez sur le bouton **Jeton** à droite de l’icône **De** champ .
+1. Cliquez sur le bouton **Jeton** à droite de l’icône **[!UICONTROL De]** champ .
 
    ![](assets/personalize-an-email-3.png)
 
@@ -51,7 +51,7 @@ Si vous n’avez pas activé de bloqueur de fenêtres contextuelles, l’éditeu
 
    ![](assets/personalize-an-email-5.png)
 
-1. Accédez à la barre d’espace dans le **De** , assurez-vous que le curseur clignote un espace après le jeton que vous venez d’insérer. Cliquez ensuite sur le bouton **Jeton** à nouveau.
+1. Accédez à la barre d’espace dans le **[!UICONTROL De]** , assurez-vous que le curseur clignote un espace après le jeton que vous venez d’insérer. Cliquez ensuite sur le bouton **Jeton** à nouveau.
 
    ![](assets/personalize-an-email-6.png)
 
@@ -65,7 +65,7 @@ Si vous n’avez pas activé de bloqueur de fenêtres contextuelles, l’éditeu
 
 ## Étape 3 : Ajout du nom du prospect au courrier électronique {#step-add-the-leads-name-to-the-email}
 
-1. Sélectionnez la section modifiable supérieure, cliquez sur l’icône d’engrenage et sélectionnez **Modifier**.
+1. Sélectionnez la section modifiable supérieure, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Modifier]**.
 
    ![](assets/personalize-an-email-9.png)
 
@@ -77,7 +77,7 @@ Si vous n’avez pas activé de bloqueur de fenêtres contextuelles, l’éditeu
 
    ![](assets/personalize-an-email-11.png)
 
-1. Saisissez &quot;Ami&quot; (ou toute étiquette de votre choix) dans le champ **Valeur par défaut** champ et clic **Insérer**.
+1. Saisissez &quot;Ami&quot; (ou toute étiquette de votre choix) dans le champ **[!UICONTROL Valeur par défaut]** champ et clic **[!UICONTROL Insérer]**.
 
    ![](assets/personalize-an-email-12.png)
 
@@ -85,17 +85,17 @@ Si vous n’avez pas activé de bloqueur de fenêtres contextuelles, l’éditeu
    >
    >Incluez toujours une valeur par défaut pour les jetons ; ainsi, la valeur par défaut sera affichée dans l’email si une partie des informations personnelles est manquante.
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/personalize-an-email-13.png)
 
-1. Sous **Actions de courrier électronique** et sélectionnez **Approuver et fermer**.
+1. Sous **[!UICONTROL Actions de courrier électronique]** et sélectionnez **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/personalize-an-email-14.png)
 
 >[!TIP]
 >
->Vous avez besoin d’une actualisation rapide sur la manière de vous envoyer l’email ? Voir [Envoyer un message électronique](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}.
+>Vous avez besoin d’une actualisation rapide sur la manière de vous envoyer l’email ? Voir [Envoyer un message électronique](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}.
 
 ### Mission accomplie {#mission-complete}
 

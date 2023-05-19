@@ -3,10 +3,10 @@ unique-page-id: 2359424
 description: Alerte du représentant commercial - Documents Marketo - Documentation du produit
 title: Prévenir un représentant commercial
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-source-git-commit: 1127928b43762086ed4d157719ff80d6c3de9ee3
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 4%
+source-wordcount: '396'
+ht-degree: 6%
 
 ---
 
@@ -18,27 +18,27 @@ Pour envoyer automatiquement des emails d’alerte aux représentants commerciau
 
 >[!PREREQUISITES]
 >
->[Page d’entrée avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
+>[Page de destination avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Étape 1 : Créer un message d’alerte {#step-create-an-alert-email}
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez au **[!UICONTROL Activités marketing]** zone.
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. Sélectionner **Mon programme** que vous avez créé dans le [Page d’entrée avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)gagnant rapide {target=&quot;_blank&quot;}, puis sous **Nouveau** click **Nouvelle ressource locale**.
+1. Sélectionner **Mon programme** que vous avez créé dans le [Page d’entrée avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} gain rapide, puis sous **[!UICONTROL Nouveau]** click **[!UICONTROL Nouvelle ressource locale]**.
 
    ![](assets/alert-the-sales-rep-2.png)
 
-1. Cliquez sur **Email**.
+1. Cliquez sur **[!UICONTROL Email]**.
 
    ![](assets/alert-the-sales-rep-3.png)
 
-1. **Nom** Dans l&#39;email &quot;Mon email d&#39;alerte&quot;, sélectionnez un modèle et cliquez sur **Créer**.
+1. **Nom** Dans l&#39;email &quot;Mon email d&#39;alerte&quot;, sélectionnez un modèle et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/alert-the-sales-rep-4.png)
 
-1. Saisissez le **De nom**, **À partir du courrier électronique**, **Réponse**, et **Objet** que vous souhaitez voir votre équipe de vente.
+1. Saisissez le **De nom**, **À partir du courrier électronique**, **[!UICONTROL Réponse]**, et **[!UICONTROL Objet]** que vous souhaitez voir votre équipe de vente.
 
    ![](assets/alert-the-sales-rep-5.png)
 
@@ -54,33 +54,33 @@ Pour envoyer automatiquement des emails d’alerte aux représentants commerciau
 
    ![](assets/alert-the-sales-rep-8.png)
 
-1. Recherchez et sélectionnez la variable `{{SP_Send_Alert_Info}}` **Jeton** et cliquez sur **Insérer**.
+1. Recherchez et sélectionnez la variable `{{SP_Send_Alert_Info}}` **[!UICONTROL Jeton]** et cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/alert-the-sales-rep-9.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} est un jeton spécial pour les emails d’alerte. Voir [Utiliser le jeton d’information d’alerte Envoyer](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;}{target=&quot;_blank&quot;} pour en savoir plus.
+   >{{SP_Send_Alert_Info}} est un jeton spécial pour les emails d’alerte. Voir [Utiliser le jeton d’information d’alerte Envoyer](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} pour en savoir plus.
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. Cliquez sur le bouton **Actions de courrier électronique** et sélectionnez **Approuver et fermer**.
+1. Cliquez sur le bouton **[!UICONTROL Actions de courrier électronique]** et sélectionnez **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/alert-the-sales-rep-11.png)
 
 ## Étape 2 : Création d’une campagne de déclenchement d’alertes {#step-create-an-alert-trigger-campaign}
 
-1. Sélectionner **Mon programme** créé précédemment, puis sous **Nouveau** click **Nouvelle campagne dynamique**.
+1. Sélectionner **Mon programme** créé précédemment, puis sous **[!UICONTROL Nouveau]** click **[!UICONTROL Nouvelle campagne dynamique]**.
 
    ![](assets/alert-the-sales-rep-12.png)
 
-1. **Nom** dans la campagne &quot;Ma campagne d’alerte&quot;, puis cliquez sur **Créer**.
+1. **Nom** dans la campagne &quot;Ma campagne d’alerte&quot;, puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/alert-the-sales-rep-13.png)
 
-1. Sous , **Liste dynamique** , recherchez et faites glisser l’objet **Remplir le formulaire** se déclenche dans la zone de travail.
+1. Sous , **[!UICONTROL Liste dynamique]** , recherchez et faites glisser l’objet **[!UICONTROL Remplir le formulaire]** se déclenche dans la zone de travail.
 
    ![](assets/alert-the-sales-rep-14.png)
 
@@ -88,33 +88,33 @@ Pour envoyer automatiquement des emails d’alerte aux représentants commerciau
 
    ![](assets/alert-the-sales-rep-15.png)
 
-1. Sous , **Flux** , recherchez et faites glisser l’objet **Envoyer une alerte** action de flux vers la zone de travail.
+1. Sous , **[!UICONTROL Flux]** , recherchez et faites glisser l’objet **[!UICONTROL Envoyer une alerte]** action de flux vers la zone de travail.
 
    ![](assets/alert-the-sales-rep-16.png)
 
-1. Sélectionner **Mon courriel d’alerte** créé précédemment et laissé **Envoyer à** as **Propriétaire des ventes**.
+1. Sélectionner **[!UICONTROL Mon courriel d’alerte]** créé précédemment et laissé **[!UICONTROL Envoyer à]** as **[!UICONTROL Propriétaire des ventes]**.
 
    ![](assets/alert-the-sales-rep-17.png)
 
-1. Saisissez votre adresse électronique dans le champ **À d’autres courriers électroniques** champ .
+1. Saisissez votre adresse électronique dans le champ **[!UICONTROL À d’autres courriers électroniques]** champ .
 
    ![](assets/alert-the-sales-rep-18.png)
 
-1. Accédez au **Planification** et cliquez sur l’onglet **Activer** bouton .
+1. Accédez au **[!UICONTROL Planification]** et cliquez sur l’onglet **[!UICONTROL Activer]** bouton .
 
    ![](assets/alert-the-sales-rep-19.png)
 
    >[!TIP]
    >
-   >Définissez la variable **Règles de qualification** to **à chaque heure** (en modifiant la campagne dynamique) pour permettre à la même personne de déclencher des alertes plusieurs fois.
+   >Définissez la variable **[!UICONTROL Règles de qualification]** to **[!UICONTROL à chaque heure]** (en modifiant la campagne dynamique) pour permettre à la même personne de déclencher des alertes plusieurs fois.
 
-1. Cliquez sur **Activer** sur l’écran de confirmation.
+1. Cliquez sur **[!UICONTROL Activer]** sur l’écran de confirmation.
 
    ![](assets/alert-the-sales-rep-20.png)
 
 ## Étape 3 : Testez-Le ! {#step-test-it-out}
 
-1. Sélectionnez votre landing page et cliquez sur **Afficher la page approuvée**.
+1. Sélectionnez votre landing page et cliquez sur **[!UICONTROL Afficher la page approuvée]**.
 
    ![](assets/alert-the-sales-21.png)
 
@@ -122,7 +122,7 @@ Pour envoyer automatiquement des emails d’alerte aux représentants commerciau
    >
    >N’oubliez pas de valider les landing pages. ils ne restent pas en vie jusqu&#39;à ce qu&#39;ils soient approuvés.
 
-1. Remplissez le formulaire et cliquez sur **Envoyer**.
+1. Remplissez le formulaire et cliquez sur **[!UICONTROL Envoyer]**.
 
    ![](assets/alert-the-sales-22.png)
 
@@ -130,7 +130,7 @@ Pour envoyer automatiquement des emails d’alerte aux représentants commerciau
 
    >[!NOTE]
    >
-   >Cliquez sur le bouton **Informations sur la personne** dans Marketo pour afficher les coordonnées.
+   >Cliquez sur le bouton **[!UICONTROL Informations sur la personne]** dans Marketo pour afficher les coordonnées.
 
 ## Mission accomplie! {#mission-complete}
 
