@@ -3,9 +3,9 @@ unique-page-id: 2949264
 description: SEO - Suppression/suppression d’un problème de page - Documents Marketo - Documentation du produit
 title: SEO - Suppression d’un problème de page
 exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 Tous les problèmes de page ne sont pas utiles pour vous. Voici comment en supprimer un.
 
-1. Accédez au **Pages** .
+1. Accédez au **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Dans la section Pages, cliquez sur **Problèmes**.
+1. Dans le [!UICONTROL Pages] , cliquez sur **[!UICONTROL Problèmes]**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Pointez sur le problème de page à supprimer. Cliquez sur **Supprimer**.
+1. Pointez sur le problème de page à supprimer. Cliquez sur **[!UICONTROL Supprimer]**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Cliquer **Supprimer** supprime définitivement ce problème de page.
+1. Cliquer **[!UICONTROL Supprimer]** supprime définitivement ce problème de page.
 
    >[!CAUTION]
    >
@@ -34,4 +34,4 @@ Tous les problèmes de page ne sont pas utiles pour vous. Voici comment en suppr
 
    ![](assets/image2014-9-18-14-3a1-3a28.png)
 
-Doux ! Votre problème de page a été supprimé.
+Votre problème de page a été supprimé.

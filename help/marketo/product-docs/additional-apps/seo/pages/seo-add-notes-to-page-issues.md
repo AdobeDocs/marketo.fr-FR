@@ -3,7 +3,7 @@ unique-page-id: 2949220
 description: SEO - Ajout de notes aux problèmes de page - Documents Marketo - Documentation du produit
 title: SEO - Ajout de notes aux problèmes de page
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -16,15 +16,15 @@ Saviez-vous que vous pouvez ajouter des notes aux problèmes de page sous forme 
 
 ## Ajout de notes dans la section Problèmes de page {#adding-notes-in-page-issues-section}
 
-1. Accédez à la section Pages .
+1. Accédez au **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. Dans l’onglet Pages , cliquez sur **Problèmes**.
+1. Dans l’onglet Pages , cliquez sur **[!UICONTROL Problèmes]**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Pointez sur le problème auquel vous souhaitez ajouter une note. Cliquez sur **Ajout d’une note bascule**.
+1. Pointez sur le problème auquel vous souhaitez ajouter une note. Cliquez sur **[!UICONTROL Ajout d’une note bascule]**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -38,7 +38,7 @@ Saviez-vous que vous pouvez ajouter des notes aux problèmes de page sous forme 
 
 ## Ajout de notes dans le menu déroulant Détails de la page {#add-notes-in-page-detail-drill-down}
 
-1. Accédez à la section Pages .
+1. Accédez au **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
@@ -46,11 +46,11 @@ Saviez-vous que vous pouvez ajouter des notes aux problèmes de page sous forme 
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Pointez sur le problème de page auquel vous souhaitez ajouter une note, puis cliquez sur **Ajouter une remarque**.
+1. Pointez sur le problème de page auquel vous souhaitez ajouter une note, puis cliquez sur **[!UICONTROL Ajouter une remarque]**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Saisissez votre note. Cliquez sur **Enregistrer**.
+1. Saisissez votre note. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 

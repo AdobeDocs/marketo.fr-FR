@@ -3,9 +3,9 @@ unique-page-id: 2949680
 description: SEO - Graphique des tendances des mots-clés - Documents Marketo - Documentation du produit
 title: SEO - Graphique des tendances des mots-clés
 exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Il est important de surveiller la façon dont votre mot-clé [Classements SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) sont des tendances au fil du temps. Consultez ce diagramme pour suivre la progression.
 
-1. Accédez au **Mots-clés** .
+1. Accédez au **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -22,12 +22,14 @@ Il est important de surveiller la façon dont votre mot-clé [Classements SERP](
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Vous voyez ? Elle affiche votre [Classement SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) pour les 30 derniers jours :
+   Elle affiche votre [Classement SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) pour les 30 derniers jours :
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
-   Plutôt chouette, hein ? Vous pouvez en savoir plus sur votre classement de mots-clés dans le rapport Tendances des mots-clés .
+   >[!TIP]
+   >
+   >Vous pouvez en savoir plus sur votre classement de mots-clés dans le rapport Tendances des mots-clés .
 
    >[!MORELIKETHIS]
    >
-   >[Utilisation du rapport Tendances des mots-clés](../../../../product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
+   >[Utilisation du rapport Tendances des mots-clés](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)

@@ -3,7 +3,7 @@ unique-page-id: 2949218
 description: SEO - Ajouter/Supprimer une page de la liste - Documents Marketo - Documentation du produit
 title: SEO - Ajouter/Supprimer une page de la liste
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -16,11 +16,11 @@ Vous souhaitez gérer vos pages ? Vous pouvez facilement le faire en créant une
 
 ## Ajouter une page à une liste {#add-page-to-a-list}
 
-1. Accédez au **Pages** .
+1. Accédez au **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Pointez sur la page à ajouter à une liste. Cliquez sur **Ajouter/Supprimer de la liste**.
+1. Pointez sur la page à ajouter à une liste. Cliquez sur **[!UICONTROL Ajouter/Supprimer de la liste]**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -30,7 +30,7 @@ Vous souhaitez gérer vos pages ? Vous pouvez facilement le faire en créant une
 
    >[!TIP]
    >
-   >Vous pouvez également créer une nouvelle liste pour que votre page soit consultée. Saisissez simplement le nom de votre choix dans Créer une liste.
+   >Vous pouvez également créer une nouvelle liste pour que votre page soit consultée. Saisissez simplement le nom de votre choix dans [!UICONTROL Créer une nouvelle liste].
 
 1. Cliquez sur la liste à laquelle vous venez d’ajouter votre page.
 
@@ -40,15 +40,15 @@ Oui ! Votre page doit maintenant être ajoutée à la liste.
 
 ## Supprimer une page d’une liste {#remove-page-from-a-list}
 
-1. Accédez à la section Pages .
+1. Accédez au **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. Dans l’onglet Pages , cliquez sur la liste à nettoyer.
+1. Sur le **[!UICONTROL Pages]** , cliquez sur la liste à nettoyer.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Pointez sur la page à supprimer. Cliquez sur **Ajouter/Supprimer de la liste**.
+1. Pointez sur la page à supprimer. Cliquez sur **[!UICONTROL Ajouter/Supprimer de la liste]**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 

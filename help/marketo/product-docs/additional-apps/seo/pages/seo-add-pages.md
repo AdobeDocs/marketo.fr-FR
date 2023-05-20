@@ -3,7 +3,7 @@ unique-page-id: 2949216
 description: SEO - Ajout de pages - Documents Marketo - Documentation du produit
 title: SEO - Ajout de pages
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 2%
@@ -14,15 +14,15 @@ ht-degree: 2%
 
 Vous avez des pages ! Marketo SEO analyse automatiquement votre site et en effectue le suivi. Au cas où nous en manquerions quelques-uns, incluez-les dans l’application d’optimisation pour les moteurs de recherche comme ceci :
 
-1. Accédez au **Pages** .
+1. Accédez au **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Cliquez sur **Ajouter des pages**.
+1. Cliquez sur **[!UICONTROL Ajouter des pages]**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Saisissez les URL à ajouter. Cliquez sur **Ajouter**.
+1. Saisissez les URL à ajouter. Cliquez sur **[!UICONTROL Ajouter]**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 

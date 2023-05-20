@@ -3,7 +3,7 @@ unique-page-id: 2949208
 description: SEO - Filtrer les résultats des mots-clés - Documents Marketo - Documentation du produit
 title: SEO - Filtrage des résultats des mots-clés
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Vous pourriez avoir beaucoup de choses [keywords](/help/marketo/product-docs/add
 
 ## Filtrer par liste {#filter-by-list}
 
-1. Accédez au **Mots-clés** .
+1. Accédez au **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -32,7 +32,7 @@ Doux ! Vous ne verrez plus que les mots-clés de cette liste.
 
 ## Filtrage par rang de SERP {#filter-by-serp-rank}
 
-1. Accédez à la section Mots-clés .
+1. Accédez au [!UICONTROL Mots-clés] .
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
@@ -46,10 +46,10 @@ Doux ! Vous ne verrez plus que les mots-clés de cette liste.
 
 Vous trouverez également les mots-clés que vous recherchez à l’aide du champ de recherche dans le coin supérieur droit.
 
-1. Accédez au **Mots-clés** .
+1. Accédez au **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. Saisissez votre mot-clé dans le champ de recherche.
+1. Saisissez votre mot-clé dans la variable **[!UICONTROL Rechercher]** champ .
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)

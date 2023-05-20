@@ -3,7 +3,7 @@ unique-page-id: 2949266
 description: SEO - Ajout/suppression d’un problème de page d’une liste - Documents Marketo - Documentation du produit
 title: SEO - Ajout/suppression d’un problème de page d’une liste
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -16,15 +16,15 @@ Vous pouvez organiser vos problèmes de page en listes. Vous pouvez également s
 
 ## Ajout de problèmes de page à une liste {#add-page-issues-to-a-list}
 
-1. Accédez au **Pages** .
+1. Accédez au **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. Dans l’onglet Pages , cliquez sur **Problèmes**.
+1. Sur le **[!UICONTROL Pages]** , cliquez sur **[!UICONTROL Problèmes]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Pointez sur le problème de page à ajouter. Cliquez sur **Ajouter/Supprimer de la liste**.
+1. Pointez sur le problème de page à ajouter. Cliquez sur **[!UICONTROL Ajouter/Supprimer de la liste]**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -34,15 +34,15 @@ Vous pouvez organiser vos problèmes de page en listes. Vous pouvez également s
 
    >[!TIP]
    >
-   >Vous pouvez également créer une nouvelle liste pour votre mot-clé. Saisissez simplement le nom de votre choix dans Créer une liste.
+   >Vous pouvez également créer une nouvelle liste pour votre mot-clé. Saisissez simplement le nom de votre choix dans **[!UICONTROL Créer une nouvelle liste]**.
 
 ## Supprimer un problème de page d’une liste {#remove-page-issue-from-a-list}
 
-1. Accédez à la section Pages .
+1. Accédez au **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. Dans l’onglet Pages , cliquez sur **Problèmes**.
+1. Dans l’onglet Pages , cliquez sur **[!UICONTROL Problèmes]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -50,7 +50,7 @@ Vous pouvez organiser vos problèmes de page en listes. Vous pouvez également s
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Pointez sur le problème de page à supprimer. Cliquez sur **Ajouter/Supprimer de la liste**.
+1. Pointez sur le problème de page à supprimer. Cliquez sur **[!UICONTROL Ajouter/Supprimer de la liste]**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 

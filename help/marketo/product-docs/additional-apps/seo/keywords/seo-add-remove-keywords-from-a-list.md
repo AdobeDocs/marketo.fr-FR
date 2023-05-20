@@ -3,7 +3,7 @@ unique-page-id: 2949678
 description: SEO - Ajout/suppression de mots-clés d’une liste - Documents Marketo - Documentation du produit
 title: SEO - Ajouter/Supprimer des mots-clés d’une liste
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -16,11 +16,11 @@ Vous pouvez conserver tous vos mots-clés et les organiser à l’aide de listes
 
 ## Ajouter à une liste {#add-to-a-list}
 
-1. Accédez au **Mots-clés** .
+1. Accédez au **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Pointez sur le mot-clé à ajouter à une liste. Cliquez sur **Ajouter/Supprimer de la liste**.
+1. Pointez sur le mot-clé à ajouter à une liste. Cliquez sur **[!UICONTROL Ajouter/Supprimer de la liste]**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -30,7 +30,7 @@ Vous pouvez conserver tous vos mots-clés et les organiser à l’aide de listes
 
    >[!TIP]
    >
-   >Vous pouvez également créer une nouvelle liste pour vos mots-clés. Saisissez simplement le nom dans Créer une liste.
+   >Vous pouvez également créer une nouvelle liste pour vos mots-clés. Saisissez simplement le nom dans **[!UICONTROL Créer une nouvelle liste]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -40,11 +40,11 @@ Ouah ! Sélectionnez votre liste pour afficher les nouveaux mots-clés.
 
 Vous pouvez également supprimer des mots-clés d’une liste.
 
-1. Accédez au **Mots-clés** .
+1. Accédez au **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Pointez sur le mot-clé à supprimer d’une liste. Cliquez sur **Ajouter/Supprimer de la liste**.
+1. Pointez sur le mot-clé à supprimer d’une liste. Cliquez sur **[!UICONTROL Ajouter/Supprimer de la liste]**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
