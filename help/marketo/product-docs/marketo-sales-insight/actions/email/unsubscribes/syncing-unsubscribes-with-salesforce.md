@@ -2,14 +2,16 @@
 description: Synchronisation des désabonnements avec Salesforce - Documents Marketo - Documentation du produit
 title: Synchronisation des désabonnements avec Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
+source-git-commit: ec79f405f975f2179aae94ec5556808785d7c594
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 5%
+source-wordcount: '495'
+ht-degree: 4%
 
 ---
 
 # Synchronisation des désabonnements avec Salesforce {#syncing-unsubscribes-with-salesforce}
+
+Si vous souhaitez synchroniser les désabonnements avec un champ d’exclusion dans Salesforce, vous pouvez utiliser la synchronisation de désabonnement Salesforce.
 
 ## Conditions requises pour le désabonnement à la synchronisation avec Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
@@ -23,7 +25,11 @@ Lorsqu’un désabonnement est collecté dans les ventes Marketo, nous le pousso
 
 **Désabonner la synchronisation**
 
-Lorsque vous avez activé la synchronisation de désabonnement (Étape 3 ci-dessous), vous activez la synchronisation de nuit. La synchronisation a lieu une fois par jour vers 20 h (heure du Pacifique). Elle synchronise de manière bidirectionnelle tous les désabonnements dans les ventes Marketo avec le champ Exclusion de Salesforce.
+Lorsque vous avez activé la synchronisation de désabonnement (Étape 3 ci-dessous), vous activez la synchronisation nocturne. La synchronisation a lieu une fois par jour vers 20 h (heure du Pacifique). Elle synchronise de manière bidirectionnelle tous les désabonnements dans les ventes Marketo avec le champ Exclusion de Salesforce.
+
+>[!NOTE]
+>
+>La synchronisation du désabonnement avec Salesforce synchronise les désabonnements, mais ne synchronise pas les réabonnements. Si vous souhaitez supprimer un désabonnement de Marketo Sales et Salesforce, désélectionnez le désabonnement dans Salesforce et supprimez le désabonnement dans Marketo Sales.
 
 ## Configurer la synchronisation du désabonnement à Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
