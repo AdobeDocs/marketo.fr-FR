@@ -1,10 +1,8 @@
 ---
 description: Modification ou suppression d’un webinaire interactif - Documents Marketo - Documentation du produit
 title: Modification ou suppression d’un webinaire interactif
-hide: true
-hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%

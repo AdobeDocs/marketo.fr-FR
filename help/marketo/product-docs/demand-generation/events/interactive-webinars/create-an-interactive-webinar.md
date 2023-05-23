@@ -1,10 +1,8 @@
 ---
 description: Création d’un webinaire interactif - Documents Marketo - Documentation du produit
 title: Création d’un webinaire interactif
-hide: true
-hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
