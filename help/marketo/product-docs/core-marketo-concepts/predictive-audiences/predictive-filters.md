@@ -2,16 +2,16 @@
 description: Filtres prédictifs - Documents Marketo - Documentation du produit
 title: Filtres prédictifs
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '305'
 ht-degree: 1%
 
 ---
 
 # Filtres prédictifs {#predictive-filters}
 
-Dans le cadre de Predictive Audiences, Marketo propose un groupe de filtres basés sur l’IA/ML dans les listes dynamiques.
+Dans le cadre des audiences prédictives, Marketo propose un groupe de filtres basés sur l’intelligence artificielle et l’apprentissage automatique dans les listes dynamiques des campagnes dynamiques.
 
 ![Image 1](assets/predictive-filters-1.png)
 
@@ -27,7 +27,7 @@ Ce filtre est utilisé pour réduire efficacement votre audience. Cela vous perm
 
 ## Probabilité d’enregistrement
 
-Semblable au _Probabilité de participation_ filtrer, utiliser ce filtre pour limiter votre audience et cibler les pistes ayant une probabilité plus élevée de **enregistrement** pour votre webinaire ou événement.
+Semblable au _Probabilité de participation_ filtrer, utiliser ce filtre pour limiter votre audience et cibler les pistes ayant une probabilité plus élevée de **enregistrement** pour votre webinaire ou événement.
 
 ![Image trois](assets/predictive-filters-3.png)
 
@@ -45,8 +45,8 @@ Cela filtre l’audience selon qu’elle a une forte ou une faible probabilité 
 
 Ces deux filtres vous aident à développer votre audience actuelle en ciblant des pistes supplémentaires similaires aux membres d’un autre programme ou d’une liste dynamique. Les filtres Lookalike prennent en compte plus de 50 facteurs, notamment les attributs de prospect, l’activité de courrier électronique, l’activité web et l’engagement.
 
-Cliquez sur **[!UICONTROL Ajouter une contrainte]** pour sélectionner des critères de réussite pour les membres du ou des programmes sélectionnés.
+Cliquez sur **[!UICONTROL Ajouter une contrainte]** pour sélectionner des critères de réussite pour les membres du ou des programmes sélectionnés.
 
-Cliquez sur le bouton **+** pour ajouter facilement plusieurs programmes/listes dynamiques à un filtre.
+Cliquez sur le bouton **+** pour ajouter facilement plusieurs programmes/listes dynamiques à un filtre.
 
 ![Image 5](assets/predictive-filters-5.png)

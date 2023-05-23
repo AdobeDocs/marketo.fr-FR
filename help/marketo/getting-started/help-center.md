@@ -3,7 +3,7 @@ description: Centre d’aide - Documents Marketo - Documentation du produit
 title: Centre dʼaide
 hide: true
 hidefromtoc: true
-source-git-commit: 2ea00108eaaab147fcf1a2c81a1f245b0766ebe4
+source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 5%
@@ -20,7 +20,7 @@ Une fois connecté à Marketo Engage, cliquez sur l’icône Aide .
 
 ![](assets/help-center-1.png)
 
-**Guides**
+### Guides {#guides}
 
 Les guides permettent de découvrir rapidement les fonctionnalités populaires.
 
@@ -46,7 +46,7 @@ Cliquez sur **Terminé** pour quitter la présentation.
 >
 >Quittez le guide à tout moment en cliquant sur **Ignorer**.
 
-**Nouveautés**
+### Nouveautés {#whats-new}
 
 L’onglet Nouveautés contient les détails complets de la dernière version du Marketo Engage.
 
@@ -56,7 +56,7 @@ L’onglet Nouveautés contient les détails complets de la dernière version du
 >
 >Cliquez sur l’icône de flèche dans la partie inférieure pour afficher la page dans Experience League.
 
-**Ressources**
+### Ressources {#resources}
 
 L’onglet Ressources vous donne un accès rapide et direct à différentes méthodes pour obtenir de l’aide supplémentaire sur votre instance de Marketo Engage.
 
