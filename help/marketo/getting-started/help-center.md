@@ -1,9 +1,7 @@
 ---
 description: Centre d’aide - Documents Marketo - Documentation du produit
 title: Centre dʼaide
-hide: true
-hidefromtoc: true
-source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 5%
@@ -12,7 +10,7 @@ ht-degree: 5%
 
 # Centre dʼaide {#help-center}
 
-Le centre d’aide en Marketo Engage sert d’emplacement centralisé pour obtenir de l’aide. Outre la liaison à diverses ressources (par exemple, [documentation du produit](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketo Community](https://nation.marketo.com/){target="_blank"}), vous pouvez accéder à des visites guidées internes utiles au produit organisées par niveau d’expérience.
+Le centre d’aide en Marketo Engage sert d’emplacement centralisé pour obtenir de l’aide. Outre la liaison à diverses ressources (par exemple, [documentation du produit](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}), vous pouvez accéder à des visites guidées internes utiles au produit organisées par niveau d’expérience.
 
 ## Accès {#how-to-access}
 
@@ -26,25 +24,25 @@ Les guides permettent de découvrir rapidement les fonctionnalités populaires.
 
 ![](assets/help-center-2.png)
 
-Cliquez sur le guide de votre choix pour l’afficher.
+1. Cliquez sur le guide de votre choix pour l’afficher.
 
-![](assets/help-center-3.png)
+   ![](assets/help-center-3.png)
 
-Cliquez sur **Prise en main**.
+1. Cliquez sur **Prise en main**.
 
-![](assets/help-center-4.png)
+   ![](assets/help-center-4.png)
 
-Cliquez sur **Suivant** pour continuer.
+1. Cliquez sur **Suivant** pour continuer.
 
-![](assets/help-center-5.png)
+   ![](assets/help-center-5.png)
 
-Cliquez sur **Terminé** pour quitter la présentation.
+1. Cliquez sur **Terminé** pour quitter la présentation.
 
-![](assets/help-center-6.png)
+   ![](assets/help-center-6.png)
 
->[!TIP]
->
->Quittez le guide à tout moment en cliquant sur **Ignorer**.
+   >[!TIP]
+   >
+   >Quittez le guide à tout moment en cliquant sur **Ignorer**.
 
 ### Nouveautés {#whats-new}
 

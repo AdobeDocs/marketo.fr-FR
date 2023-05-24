@@ -1,16 +1,16 @@
 ---
 unique-page-id: 7512270
-description: Ajout d’Adobe Connect as a LaunchPoint Service - Documents Marketo - Documentation du produit
-title: Ajout d’Adobe Connect en tant que service LaunchPoint
+description: "Ajout d’Adobe Connect as a [!DNL LaunchPoint] Service - Documents Marketo - Documentation du produit"
+title: "Ajout d’Adobe Connect as a [!DNL LaunchPoint] Service"
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
-source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '198'
 ht-degree: 2%
 
 ---
 
-# Ajout d’Adobe Connect en tant que service LaunchPoint {#add-adobe-connect-as-a-launchpoint-service}
+# Ajout d’Adobe Connect as a [!DNL LaunchPoint] Service {#add-adobe-connect-as-a-launchpoint-service}
 
 Marketo gère votre inscription et votre participation au webinaire Adobe Connect.
 
@@ -26,27 +26,27 @@ Marketo gère votre inscription et votre participation au webinaire Adobe Connec
 >
 >Adobe Connect On Site n’est actuellement pas pris en charge.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-1.png)
 
-1. Cliquez sur **LaunchPoint**.
+1. Cliquez sur **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-2.png)
 
-1. Cliquez sur le bouton **Nouveau** et sélectionnez **Nouveau service**.
+1. Cliquez sur le bouton **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouveau service]**.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-3.png)
 
-1. Saisissez un **Nom d’affichage**. Sous **Service**, sélectionnez Adobe Connect.
+1. Saisissez un **[!UICONTROL Nom d’affichage]**. Sous **[!UICONTROL Service]**, sélectionnez Adobe Connect.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-4.png)
 
-1. Saisissez votre **Nom d’utilisateur** et **Code d’accès**.
+1. Saisissez votre **[!UICONTROL Nom d’utilisateur]** et **[!UICONTROL Code d’accès]**.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-5.png)
 
-1. Terminez le processus en saisissant votre **URL du dossier de réunion** et **Mot de passe du participant**,puis cliquez sur **Créer**.
+1. Terminez le processus en saisissant votre **[!UICONTROL URL du dossier de réunion]** et **[!UICONTROL Mot de passe du participant]**, puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-6.png)
 
@@ -56,7 +56,7 @@ Marketo gère votre inscription et votre participation au webinaire Adobe Connec
 
    >[!NOTE]
    >
-   >Une fois que vous êtes connecté à votre compte Adobe Connect, sélectionnez la variable **Séminaires** . Sans accéder à aucun séminaire spécifique, copiez l’URL de la barre de votre navigateur dans le **URL du dossier de réunion** .
+   >Une fois que vous êtes connecté à votre compte Adobe Connect, sélectionnez la variable **[!UICONTROL Séminaires]** . Sans accéder à aucun séminaire spécifique, copiez l’URL de la barre de votre navigateur dans le **[!UICONTROL URL du dossier de réunion]** .
 
 Votre service Adobe Connect est maintenant synchronisé avec Marketo !
 
@@ -64,4 +64,4 @@ Votre service Adobe Connect est maintenant synchronisé avec Marketo !
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [création d’un événement avec Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target=&quot;_blank&quot;}.
+>Découvrez comment [création d’un événement avec Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}.

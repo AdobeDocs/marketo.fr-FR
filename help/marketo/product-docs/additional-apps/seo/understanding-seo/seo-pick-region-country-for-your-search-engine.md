@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO - Sélectionnez Région/pays pour votre moteur de recherche - Documents Marketo - Documentation du produit
 title: SEO - Sélectionnez la région/le pays pour votre moteur de recherche
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ Les administrateurs d’optimisation pour les moteurs de recherche pourront sél
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez au **Administration** .
+1. Accédez au **[!UICONTROL Administration]** .
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Cliquez sur le bouton **Moteurs de recherche** .
+1. Cliquez sur le bouton **[!UICONTROL Moteurs de recherche]** .
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. Sélectionnez le pays/la ville pour lequel vous souhaitez effectuer l’optimisation, puis cliquez sur **Enregistrer**.
+1. Sélectionnez le pays/la ville pour lequel vous souhaitez effectuer l’optimisation, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
 >[!NOTE]
 >
@@ -40,6 +40,6 @@ Excellent travail. Vous verrez désormais les classements des mots-clés pour le
 
 >[!MORELIKETHIS]
 >
->* [Présentation du tableau de bord : Instantané SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target=&quot;_blank&quot;}
->* [Présentation du tableau de bord : SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target=&quot;_blank&quot;}
+>* [Présentation du tableau de bord : Instantané SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
+>* [Présentation du tableau de bord : SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}
 

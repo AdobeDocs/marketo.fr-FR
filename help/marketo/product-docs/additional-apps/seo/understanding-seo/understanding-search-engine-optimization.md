@@ -3,9 +3,9 @@ unique-page-id: 2949176
 description: Présentation de l’optimisation du moteur de recherche - Documents Marketo - Documentation du produit
 title: Présentation de l’optimisation du moteur de recherche
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Tout d&#39;abord, vous devriez apprendre les bases avec ce glossaire pratique.
 
 **Optimisation du moteur de recherche (SEO)**: Combinaison de stratégies et de techniques utilisées pour augmenter le trafic du site en obtenant un emplacement de haut niveau dans les pages de résultats des moteurs de recherche (SERP).
 
-**Mot-clé**: Un mot-clé est le mot ou l’expression que les visiteurs saisissent dans un moteur de recherche comme Google, Yahoo ou Bing.
+**Mot-clé**: Un mot-clé est le mot ou l’expression que les visiteurs saisissent dans un moteur de recherche comme Google, [!DNL Yahoo] ou [!DNL Bing].
 
 **Liens entrants**: Liens sur d’autres sites orientant le trafic vers votre site. Plus la réputation du site de liaison est élevée, plus ce lien entrant a de valeur.
 
@@ -52,8 +52,8 @@ Tout d&#39;abord, vous devriez apprendre les bases avec ce glossaire pratique.
 
 ## Comment puis-je commencer ? {#how-do-i-get-started}
 
-1. Développer votre stratégie avec [Présentation des mots-clés](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target=&quot;_blank&quot;}
-1. Correction des problèmes existants dans [Présentation des pages](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target=&quot;_blank&quot;}
-1. Étendez votre portée en [Présentation des liens entrants](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target=&quot;_blank&quot;}
+1. Développer votre stratégie avec [Présentation des mots-clés](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+1. Correction des problèmes existants dans [Présentation des pages](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target="_blank"}
+1. Étendez votre portée en [Présentation des liens entrants](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target="_blank"}
 
 Votre objectif est d’être aussi proche de la première page (et du premier résultat) pour les mots-clés importants pour votre entreprise.
