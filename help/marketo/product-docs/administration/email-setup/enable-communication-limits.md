@@ -3,7 +3,7 @@ unique-page-id: 2360222
 description: Activation des limites de communication - Documents Marketo - Documentation du produit
 title: Activer les limites de communication
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 3%
@@ -18,35 +18,35 @@ Il est très important de ne pas trop communiquer avec votre peuple. La définit
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/enable-communication-limits-1.png)
 
-1. Cliquez sur **Limites de communication**.
+1. Cliquez sur **[!UICONTROL Limites de communication]**.
 
    ![](assets/enable-communication-limits-2.png)
 
-1. Cliquez sur **Modifier**.
+1. Cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
-   >Par jour est basé sur le jour calendaire dans le fuseau horaire d&#39;inscription (minuit-minuit).
+   >[!UICONTROL Par jour] est basé sur le jour calendaire dans le fuseau horaire d&#39;inscription (minuit-minuit).
 
-1. Cliquez sur le bouton **Par jour** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 1.
+1. Cliquez sur le bouton **[!UICONTROL Par jour]** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 1.
 
    ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >Vous pouvez également choisir **Personnalisé** si aucune des options prédéfinies ne fonctionne pour vous.
+   >Vous pouvez également choisir **[!UICONTROL Personnalisé]** si aucune des options prédéfinies ne fonctionne pour vous.
 
-1. Cliquez sur le bouton **Par 7 jours** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 5.
+1. Cliquez sur le bouton **[!UICONTROL Par 7 jours]** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 5.
 
    ![](assets/enable-communication-limits-5.png)
 
-1. Sélectionner **Bloquer les emails non opérationnels**.
+1. Sélectionner **[!UICONTROL Bloquer les emails non opérationnels]**.
 
    ![](assets/enable-communication-limits-6.png)
 
@@ -54,7 +54,7 @@ Il est très important de ne pas trop communiquer avec votre peuple. La définit
    >
    >En savoir plus sur ce qui [e-mails opérationnels](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) sont .
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/enable-communication-limits-7.png)
 

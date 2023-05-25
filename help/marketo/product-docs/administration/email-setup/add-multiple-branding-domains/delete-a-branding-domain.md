@@ -3,7 +3,7 @@ unique-page-id: 11378041
 description: Suppression d’un domaine de marque - Documents Marketo - Documentation du produit
 title: Suppression d’un domaine de marque
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 8%
@@ -12,15 +12,15 @@ ht-degree: 8%
 
 # Suppression d’un domaine de marque {#delete-a-branding-domain}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-branding-domain-1.png)
 
-1. Cliquez sur **Email**.
+1. Cliquez sur **[!UICONTROL Email]**.
 
    ![](assets/delete-a-branding-domain-2.png)
 
-1. Dans le tableau Domaines de valorisation de marque, sélectionnez le domaine à supprimer, puis cliquez sur **Supprimer**.
+1. Dans le tableau Domaines de valorisation de marque, sélectionnez le domaine à supprimer, puis cliquez sur **[!UICONTROL Supprimer]**.
 
    ![](assets/delete-a-branding-domain-3.png)
 

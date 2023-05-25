@@ -3,7 +3,7 @@ unique-page-id: 2360251
 description: Modification du message de désabonnement - Documents Marketo - Documentation du produit
 title: Modification du message de désabonnement
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Lorsque vous envoyez des emails marketing (non[opérationnel](/help/marketo/prod
 
 ## Où effectuer la modification {#where-to-make-the-edit}
 
-1. Accédez au **Administration** .
+1. Accédez au **[!UICONTROL Administration]** .
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
-1. Cliquez sur **Email**.
+1. Cliquez sur **[!UICONTROL Email]**.
 
    ![](assets/edit-the-unsubscribe-message-2.png)
 
@@ -36,7 +36,7 @@ Lorsque vous envoyez des emails marketing (non[opérationnel](/help/marketo/prod
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 
-1. Modifiez la variable **Désabonner le HTML** et **Désabonner le texte** versions à votre convenance et cliquez sur **Enregistrer les modifications**.
+1. Modifiez la variable **[!UICONTROL Désabonner le HTML]** et **[!UICONTROL Désabonner le texte]** versions à votre convenance et cliquez sur **[!UICONTROL Enregistrer les modifications]**.
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
@@ -50,8 +50,8 @@ Lorsque vous envoyez des emails marketing (non[opérationnel](/help/marketo/prod
 
 Si vous devez revenir au désabonnement du système par défaut, copiez/collez les éléments suivants :
 
-HTML de désabonnement :
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Unsubscribe Text :
+[!UICONTROL Désabonner le HTML]:
+`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` [!UICONTROL Désabonner le texte]:
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
 >[!MORELIKETHIS]

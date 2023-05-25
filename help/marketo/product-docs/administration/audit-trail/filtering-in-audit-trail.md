@@ -3,9 +3,9 @@ unique-page-id: 11378468
 description: Filtrage dans le journal d’audit - Documents Marketo - Documentation du produit
 title: Filtrage dans le journal d’audit
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Vous pouvez filtrer par période, type de ressource, utilisateurs, action entreprise, etc.
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **[!UICONTROL Administration]**.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. Sous **Sécurité**, sélectionnez **Journal d’audit**.
+1. Sous **[!UICONTROL Sécurité]**, sélectionnez **[!UICONTROL Journal d’audit]**.
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -30,19 +30,19 @@ Vous pouvez filtrer par période, type de ressource, utilisateurs, action entrep
    >
    >Il existe une multitude de combinaisons de paramètres de recherche possibles. Dans cet exemple, localisez : _tous les emails - édités par n&#39;importe qui - dans les sept jours précédents_.
 
-1. Cliquez sur le bouton **Période** et sélectionnez **7 derniers jours**.
+1. Cliquez sur le bouton **[!UICONTROL Période]** et sélectionnez **[!UICONTROL 7 derniers jours]**.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. Cliquez sur le bouton **Type de ressource** et sélectionnez **Email**.
+1. Cliquez sur le bouton **[!UICONTROL Type de ressource]** et sélectionnez **[!UICONTROL Email]**.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Cliquez sur le bouton **Actions** et sélectionnez **Modifier**.
+1. Cliquez sur le bouton **Aactions** et sélectionnez **[!UICONTROL Modifier]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
-1. Cliquez sur **Appliquer**.
+1. Cliquez sur **[!UICONTROL Appliquer]**.
 
    ![](assets/filtering-in-audit-trail-7.png)
 

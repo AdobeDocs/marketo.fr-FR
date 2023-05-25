@@ -3,7 +3,7 @@ unique-page-id: 11382122
 description: Activer le journal d’audit - Documents Marketo - Documentation du produit
 title: Activer le journal d’audit
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -20,15 +20,15 @@ Le journal d’audit est disponible pour tous les clients et est contrôlé par 
 
 ## Activation du journal d’audit pour un rôle {#enable-audit-trail-for-a-role}
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **[!UICONTROL Administration]**.
 
    ![](assets/enable-audit-trail-1.png)
 
-1. Sélectionner **Utilisateurs et rôles** et cliquez sur **Rôles**.
+1. Sélectionner **[!UICONTROL Utilisateurs et rôles]** et cliquez sur **[!UICONTROL Rôles]**.
 
    ![](assets/enable-audit-trail-2.png)
 
-1. Sélectionnez le rôle pour lequel vous souhaitez activer le journal d’audit, puis cliquez sur **Modifier le rôle**.
+1. Sélectionnez le rôle pour lequel vous souhaitez activer le journal d’audit, puis cliquez sur **[!UICONTROL Modifier le rôle]**.
 
    ![](assets/enable-audit-trail-3.png)
 
@@ -36,7 +36,7 @@ Le journal d’audit est disponible pour tous les clients et est contrôlé par 
    >
    >Vous avez également la possibilité de créer un nouveau rôle et de lui accorder l’accès Suivi .
 
-1. Développez l’objet **Accès à l’administrateur** autorisation. Sélectionner **Journal d’audit d’accès** et/ou **Historique de connexion des accès**, selon vos besoins. Cliquez sur **Enregistrer**.
+1. Développez l’objet **[!UICONTROL Accès à l’administrateur]** autorisation. Sélectionner **[!UICONTROL Journal d’audit d’accès]** et/ou **[!UICONTROL Historique de connexion des accès]**, selon vos besoins. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/enable-audit-trail-4.png)
 
@@ -44,9 +44,9 @@ Le journal d’audit est disponible pour tous les clients et est contrôlé par 
    >
    >**Définition**
    >
-   >**Accédez au journal d’audit :** Permet aux utilisateurs d’accéder au journal d’audit des ressources et au journal d’audit de l’administrateur.
+   >**[!UICONTROL Journal d’audit d’accès]**: Donne aux utilisateurs l’accès aux deux [!UICONTROL Journal d’audit des ressources] et [!UICONTROL Journal d’audit de l’administrateur].
    >
-   >**Accéder à l’historique de connexion :** Donne aux utilisateurs l’accès à [Historique de connexion des utilisateurs](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
+   >**[!UICONTROL Historique de connexion des accès]**: Donne aux utilisateurs l’accès à [Historique de connexion des utilisateurs](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
 ## Attribution d’un rôle de journal d’audit à un utilisateur {#assign-audit-trail-role-to-a-user}
 
@@ -54,11 +54,11 @@ Le journal d’audit est disponible pour tous les clients et est contrôlé par 
 >
 >[Créer](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) ou [enable](#enable-audit-trail) un rôle existant, lui attribuant des autorisations Suivi .
 
-1. Dans **Utilisateurs et rôles**, cliquez sur **Utilisateurs**.
+1. Dans **[!UICONTROL Utilisateurs et rôles]**, cliquez sur **[!UICONTROL Utilisateurs]**.
 
    ![](assets/enable-audit-trail-5.png)
 
-1. Sélectionnez l’utilisateur auquel vous souhaitez accorder l’accès au journal d’audit, puis cliquez sur **Modifier l’utilisateur**.
+1. Sélectionnez l’utilisateur auquel vous souhaitez accorder l’accès au journal d’audit, puis cliquez sur **[!UICONTROL Modifier l’utilisateur]**.
 
    ![](assets/enable-audit-trail-6.png)
 
@@ -74,6 +74,6 @@ Le journal d’audit est disponible pour tous les clients et est contrôlé par 
    >
    >Si des espaces de travail sont activés, assurez-vous de cocher la case correspondant au rôle, qui sélectionne tous les espaces de travail. La désélection d’un espace de travail individuel masque le journal d’audit. Cela signifie que vous verrez les données du journal d’audit pour chaque espace de travail. Vous avez la possibilité de masquer les espaces de travail lorsque [filtrage](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/enable-audit-trail-8.png)

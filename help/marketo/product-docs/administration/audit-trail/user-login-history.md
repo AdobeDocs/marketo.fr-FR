@@ -3,7 +3,7 @@ unique-page-id: 11377958
 description: Historique de connexion des utilisateurs - Documents Marketo - Documentation du produit
 title: Historique de connexion des utilisateurs
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 5%
@@ -28,15 +28,15 @@ L’ historique de connexion des utilisateurs identifie les personnes qui se con
 
 Pour afficher l’historique de connexion de l’utilisateur :
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/user-login-history-1.png)
 
-1. Sous Sécurité, cliquez sur **Utilisateurs et rôles**.
+1. Sous Sécurité, cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/user-login-history-2.png)
 
-1. Cliquez sur le bouton **Historique de connexion** . La liste affiche les connexions les plus récentes.
+1. Cliquez sur le bouton **[!UICONTROL Historique de connexion]** . La liste affiche les connexions les plus récentes.
 
    ![](assets/user-login-history-3.png)
 
@@ -52,15 +52,15 @@ Pour afficher l’historique de connexion de l’utilisateur :
 
    ![](assets/user-login-history-6.png)
 
-1. Sélectionnez les utilisateurs dans le **Utilisateurs** menu déroulant.
+1. Sélectionnez les utilisateurs dans le **[!UICONTROL Utilisateurs]** menu déroulant.
 
    ![](assets/user-login-history-7.png)
 
-1. Vérifiez les **Uniquement les connexions ayant échoué** pour afficher uniquement les connexions ayant échoué dans votre recherche.
+1. Vérifiez les **[!UICONTROL Uniquement les connexions ayant échoué]** pour afficher uniquement les connexions ayant échoué dans votre recherche.
 
    ![](assets/user-login-history-8.png)
 
-1. Cliquez sur **Appliquer**.
+1. Cliquez sur **[!UICONTROL Appliquer]**.
 
    ![](assets/user-login-history-9.png)
 
@@ -68,6 +68,6 @@ Pour afficher l’historique de connexion de l’utilisateur :
    >
    >L’interface utilisateur affiche jusqu’à 30 jours de données. Si vous en avez besoin, vous pouvez télécharger les six derniers mois de données dans un fichier csv.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[Présentation du journal d’audit](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

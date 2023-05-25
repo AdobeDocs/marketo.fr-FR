@@ -2,7 +2,7 @@
 description: Filtrage de l’activité des robots de messagerie électronique - Documents Marketo - Documentation du produit
 title: Filtrage de l’activité des robots de messagerie
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 788084582a616b3cadd45f19d7a4779dad6f8c98
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 14%
@@ -30,25 +30,25 @@ Par rapport aux clics sur les liens de courrier électronique et à l’activit�
 
 ## Sélectionner le type de filtre {#select-filter-type}
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **[!UICONTROL Administration]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Cliquez sur **Email**.
+1. Cliquez sur **[!UICONTROL Email]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Cliquez sur le bouton **Activité des robots** .
+1. Cliquez sur le bouton **[!UICONTROL Activité des robots]** .
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Choisir pour **Correspondance avec la liste IAB**, **Correspondance avec le modèle de proximité**, ou les deux. Choisissez de consigner ou non l’activité des robots _ou_ filtrer l’activité des robots.
+1. Choisir pour **[!UICONTROL Correspondance avec la liste IAB]**, **[!UICONTROL Correspondance avec le modèle de proximité]**, ou les deux. Choisissez si vous souhaitez [!UICONTROL activité des robots de log] _ou_ [!UICONTROL activité de robot de filtrage].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->Si vous choisissez Filtrer l’activité des robots, il se peut qu’une baisse des ouvertures et des clics d’email s’affiche, car les fausses activités sont éliminées.
+>Si vous choisissez [!UICONTROL Filtrage de l’activité des robots], vous pouvez constater une baisse des ouvertures et des clics d’email, car les fausses activités sont éliminées.
 
 **ÉTAPE FACULTATIVE**: Pour désactiver cette fonction, désélectionnez simplement le ou les curseur(s). Si vous la désactivez, les données ne sont pas réinitialisées.
 

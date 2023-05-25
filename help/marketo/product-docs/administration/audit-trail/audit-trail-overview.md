@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Présentation du journal d’audit - Documents Marketo - Documentation du produit
 title: Présentation du journal d’audit
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Vous ne pouvez afficher que l’équivalent de 30 jours de données dans votre i
 >
 >**Définition**
 >
->**Inconnu :** Dans le journal d’audit, vous pouvez voir le nom et l’adresse électronique d’un utilisateur répertoriés comme &quot;Inconnu&quot;. Cela se produit lorsque vous modifiez les valeurs de liste de sélection dans le CRM. Ces valeurs apparaissent dans les formulaires Marketo et les landing pages. Cette mise à jour côté CRM génère automatiquement vos landing pages référençant le formulaire. Dans le journal d’audit, nous allons capturer que la landing page a été rédigée, mais que le nom et l’email de l’utilisateur s’affichent comme &quot;Inconnu&quot;, car nous ne sommes pas en mesure de capturer les informations de l’utilisateur du côté CRM.
+>**Inconnu :** Dans [!DNL Webhook], le nom et l’adresse électronique d’un utilisateur peuvent s’afficher comme &quot;Inconnu&quot;. Cela se produit lorsque vous modifiez les valeurs de liste de sélection dans le CRM. Ces valeurs apparaissent dans les formulaires Marketo et les landing pages. Cette mise à jour côté CRM génère automatiquement vos landing pages référençant le formulaire. Dans [!DNL Webhook], nous allons capturer que la landing page a été ébauchée, mais le nom et l’email de l’utilisateur s’afficheront comme &quot;Inconnu&quot;, car nous ne sommes pas en mesure de capturer les informations de l’utilisateur du côté CRM.
 
 >[!MORELIKETHIS]
 >
