@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: Opérateurs de filtre de liste dynamique Glossaire - Documents Marketo - Documentation du produit
 title: Glossaire des opérateurs de filtre de liste dynamique
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5ffb1a1931ccbc945ba535f72898a1b73154e47a
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '605'
 ht-degree: 12%
 
 ---
@@ -25,7 +25,7 @@ Lorsque vous choisissez un opérateur, le côté droit change dynamiquement.
 | Opérateur | Côté droit | Description |
 |---|---|---|
 | est | Date unique | Correspondance exacte de la date |
-| n&#39;est pas | Date unique | Toute date SAUF celle spécifiée |
+| n’est pas | Date unique | Toute date SAUF celle spécifiée |
 | entre | Deux champs de date | Toute date incluant et comprise entre deux dates spécifiées |
 | dans le passé | Entrée du langage naturel&#42; | Voir diagramme ci-dessous |
 | dans le passé avant | Entrée du langage naturel&#42; | Voir diagramme ci-dessous |
@@ -37,7 +37,7 @@ Lorsque vous choisissez un opérateur, le côté droit change dynamiquement.
 | le ou après le | Date unique | Identique à &quot;after&quot; mais inclusif |
 | maintenant ou avant | Date unique | Identique à &quot;l&#39;avant&quot; mais inclusif |
 | est vide | Aucun | Tous les enregistrements sans date |
-| n&#39;est pas vide | Aucun | Tous les enregistrements avec une date quelconque |
+| n’est pas vide | Aucun | Tous les enregistrements avec une date quelconque |
 
 &#42; L&#39;entrée du langage naturel est cool. Voici quelques-uns des modèles que vous pouvez saisir :
 
@@ -55,7 +55,7 @@ Saisissez le numéro et l&#39;unité ensemble et cela fonctionnera !
 
 >[!CAUTION]
 >
->Lorsque vous créez une liste dynamique à l’aide d’un filtre de champ de date (par exemple, Date de naissance, Date de création de la collecte de données régionale), utilisez le **before** ou **le ou avant** , la liste dynamique inclut également les personnes qui n’ont aucune valeur dans ce champ de date.
+>Lorsque vous créez une liste dynamique à l’aide d’un filtre de champ de date (par exemple, Date de naissance, Date de création de la collecte de données régionale ou régionale) et que vous utilisez les contraintes **before**, **le ou avant** ou **auparavant**, la liste dynamique inclut également les personnes qui n’ont aucune valeur dans ce champ de date.
 
 Utilisez le diagramme suivant pour comprendre la différence entre les opérateurs de date.
 
@@ -82,13 +82,13 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
 | Opérateur | Description |
 |---|---|
 | est | Correspondance exacte (non sensible à la casse) |
-| n&#39;est pas | Tout sauf une correspondance exacte |
+| n’est pas | Tout sauf une correspondance exacte |
 | commence par | Première correspondance de chaînes |
 | ne commence pas par | Les premières lettres de la chaîne NE correspondent PAS |
 | contient | Toutes les lettres regroupées dans la chaîne correspondent (exemple : california, fortune, par conséquent) |
 | ne contient pas | Aucune lettre ne correspond dans la chaîne. (inversé de &quot;contains&quot;) |
 | est vide | Enregistrements sans valeur (NULL) |
-| n&#39;est pas vide | Enregistrements avec TOUTE valeur |
+| n’est pas vide | Enregistrements avec TOUTE valeur |
 
 >[!TIP]
 >
@@ -111,7 +111,7 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
    <td colspan="1" rowspan="1">Correspondance exacte du nombre ( = 0) renvoie les deux pistes avec 0 <em>et</em> NULL)</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">n'est pas</td> 
+   <td colspan="1" rowspan="1">n’est pas</td> 
    <td colspan="1" rowspan="1">Tout SAUF une correspondance de nombre exacte</td> 
   </tr> 
   <tr> 
@@ -139,7 +139,7 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
    <td colspan="1" rowspan="1">Enregistrements sans valeur (NULL) - zéro est un nombre, c’est <em>not</em> NULL</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">n'est pas vide</td> 
+   <td colspan="1" rowspan="1">n’est pas vide</td> 
    <td colspan="1" rowspan="1">Enregistrements avec N’IMPORTE QUELLE valeur (y compris zéro)</td> 
   </tr> 
  </tbody> 
