@@ -3,7 +3,7 @@ unique-page-id: 2360350
 description: Création d’un service personnalisé à utiliser avec l’API ReST - Documents Marketo - Documentation du produit
 title: Création d’un service personnalisé à utiliser avec l’API ReST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 5%
@@ -31,7 +31,7 @@ Si vous souhaitez intégrer Marketo via l’API ReST, vous souhaiterez créer un
 
 ## Créer un service personnalisé {#create-custom-service}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -39,11 +39,11 @@ Si vous souhaitez intégrer Marketo via l’API ReST, vous souhaiterez créer un
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
-1. Sélectionner **Nouveau** puis **Nouveau service**.
+1. Sélectionner **[!UICONTROL Nouveau]** puis **[!UICONTROL Nouveau service]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Saisissez un **Nom d’affichage** pour le service. Sélectionnez la **Utilisateur API uniquement** [précédemment créé](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Saisissez un **[!UICONTROL Nom d’affichage]** pour le service. Sélectionnez la **[!UICONTROL Utilisateur API uniquement]** [précédemment créé](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
@@ -51,7 +51,7 @@ Si vous souhaitez intégrer Marketo via l’API ReST, vous souhaiterez créer un
    >
    >Notez que nous disposons déjà d’une intégration native pour les services de webinaires populaires.
 
-1. Cliquez sur **Créer**.
+1. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
@@ -59,23 +59,23 @@ Si vous souhaitez intégrer Marketo via l’API ReST, vous souhaiterez créer un
 
 ## Informations d’identification pour l’accès aux API {#credentials-for-api-access}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
-1. Cliquez sur **LaunchPoint**.
+1. Cliquez sur **[!UICONTROL LaunchPoint]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. Cliquez sur **Afficher les détails** pour le service LaunchPoint personnalisé créé ci-dessus.
+1. Cliquez sur **[!UICONTROL Afficher les détails]** pour la variable [!UICONTROL LaunchPoint] service créé ci-dessus.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
-1. Cliquez sur **Obtenir un jeton**.
+1. Cliquez sur **[!UICONTROL Obtenir un jeton]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
 
-1. Fournissez les **ID client**, **Secret du client**, **Utilisateur autorisé**, et **Jeton** au responsable de l&#39;établissement de la connexion.
+1. Fournissez les **[!UICONTROL ID client]**, **[!UICONTROL Secret du client]**, **[!UICONTROL Utilisateur autorisé]**, et **[!UICONTROL Jeton]** au responsable de l&#39;établissement de la connexion.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-10.png)
 
