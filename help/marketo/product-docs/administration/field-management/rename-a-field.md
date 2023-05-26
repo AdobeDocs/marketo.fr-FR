@@ -3,7 +3,7 @@ unique-page-id: 2360293
 description: Renommer un champ - Documents Marketo - Documentation du produit
 title: Renommer un champ
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 4%
@@ -20,11 +20,11 @@ ht-degree: 4%
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/rename-a-field-1.png)
 
-1. Cliquez sur **Gestion des champs**.
+1. Cliquez sur **[!UICONTROL Gestion des champs]**.
 
    ![](assets/rename-a-field-2.png)
 
@@ -34,9 +34,9 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >Cliquez sur le bouton **Utilisé par** lien pour rechercher les ressources qui font référence à ce champ.
+   >Cliquez sur le bouton **[!UICONTROL Utilisé par]** lien pour rechercher les ressources qui font référence à ce champ.
 
-1. Renommez le champ et cliquez sur **Enregistrer**.
+1. Renommez le champ et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/rename-a-field-4.png)
 

@@ -1,28 +1,28 @@
 ---
 unique-page-id: 2360344
-description: Affichage des mappages de champs entre Marketo et Salesforce - Documents Marketo - Documentation du produit
-title: Affichage des mappages de champs entre Marketo et Salesforce
+description: "Affichage des mappages de champs entre Marketo et [!DNL Salesforce] - Documents Marketo - Documentation du produit"
+title: "Affichage des mappages de champs entre Marketo et [!DNL Salesforce]"
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '93'
 ht-degree: 5%
 
 ---
 
-# Affichage des mappages de champs entre Marketo et Salesforce {#view-field-mappings-between-marketo-and-salesforce}
+# Affichage des mappages de champs entre Marketo et [!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
 
-Vous souhaitez peut-être savoir à quels champs Salesforce un champ Marketo spécifique est lié. Voici comment vérifier.
+Vous voulez peut-être savoir laquelle [!DNL Salesforce] champs auxquels un champ Marketo spécifique est lié. Voici comment vérifier.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
 
-1. Cliquez sur **Gestion des champs**.
+1. Cliquez sur **[!UICONTROL Gestion des champs]**.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
@@ -32,8 +32,8 @@ Vous souhaitez peut-être savoir à quels champs Salesforce un champ Marketo sp�
 
 >[!NOTE]
 >
->Il affiche le nom de l’API Salesforce et non le nom du libellé.
+>Cette option affiche le [!DNL Salesforce] Nom de l’API, pas nom du libellé.
 
 >[!IMPORTANT]
 >
->Les champs répertoriés reflètent uniquement les données du mappage initial. Elles ne sont pas mises à jour après la synchronisation Marketo/Salesforce.
+>Les champs répertoriés reflètent uniquement les données du mappage initial. Elles ne sont pas mises à jour après Marketo/[!DNL Salesforce] synchronisation.

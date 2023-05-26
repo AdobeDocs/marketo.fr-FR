@@ -3,7 +3,7 @@ unique-page-id: 2360291
 description: Bloquer les mises à jour d’un champ - Documents Marketo - Documentation du produit
 title: Bloquer les mises à jour d’un champ
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 2%
@@ -12,21 +12,21 @@ ht-degree: 2%
 
 # Bloquer les mises à jour d’un champ {#block-updates-to-a-field}
 
-Le blocage des mises à jour d’un champ vous permet d’écrire sur le champ une seule fois, puis de conserver la valeur d’origine pendant la durée de vie du champ. Cela peut s’avérer utile pour un champ comme Source de personne.
+Le blocage des mises à jour d’un champ vous permet d’écrire sur le champ une seule fois, puis de conserver la valeur d’origine pendant la durée de vie du champ. Cela peut s’avérer utile pour un champ comme [!UICONTROL Source de personne].
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/block-updates-to-a-field-1.png)
 
-1. Cliquez sur **Gestion des champs**.
+1. Cliquez sur **[!UICONTROL Gestion des champs]**.
 
    ![](assets/block-updates-to-a-field-2.png)
 
-1. Recherchez le champ, sélectionnez-le, puis sous **Actions de champ**, cliquez sur **Mises à jour du champ de bloc**.
+1. Recherchez le champ, sélectionnez-le, puis sous **[!UICONTROL Actions de champ]**, cliquez sur **[!UICONTROL Mises à jour du champ de bloc]**.
 
    ![](assets/block-updates-to-a-field-3.png)
 
@@ -34,7 +34,7 @@ Le blocage des mises à jour d’un champ vous permet d’écrire sur le champ u
    >
    >Vous pouvez bloquer les mises à jour de [Champs personnalisés des membres du programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md) ainsi que .
 
-1. Sélectionnez la **Sources d’entrée** vous souhaitez bloquer et cliquer sur **Appliquer**.
+1. Sélectionnez la **[!UICONTROL Sources d’entrée]** vous souhaitez bloquer et cliquer sur **[!UICONTROL Appliquer]**.
 
    ![](assets/block-updates-to-a-field-4.png)
 

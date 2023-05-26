@@ -3,22 +3,22 @@ unique-page-id: 2360287
 description: Création d’un champ personnalisé dans Marketo - Documents Marketo - Documentation du produit
 title: Création d’un champ personnalisé dans Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
-source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '170'
 ht-degree: 2%
 
 ---
 
 # Création d’un champ personnalisé dans Marketo {#create-a-custom-field-in-marketo}
 
-Si vous avez besoin d’un nouveau champ personnalisé dans Marketo pour stocker/capturer des données, voici comment en créer un.
+Si vous avez besoin d’un nouveau champ personnalisé dans Marketo Engage pour stocker/capturer des données, voici comment en créer un.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
-1. Cliquez sur **Gestion des champs**.
+1. Cliquez sur **[!UICONTROL Gestion des champs]**.
 
    ![](assets/create-a-custom-field-in-marketo-2.png)
 
@@ -26,7 +26,7 @@ Si vous avez besoin d’un nouveau champ personnalisé dans Marketo pour stocker
    >
    >Si vous souhaitez que les champs restent synchronisés avec votre CRM, créez-les dans le CRM et elles seront automatiquement créées dans Marketo.
 
-1. Cliquez sur **Nouveau champ personnalisé**.
+1. Cliquez sur **[!UICONTROL Nouveau champ personnalisé]**.
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
@@ -38,7 +38,7 @@ Si vous avez besoin d’un nouveau champ personnalisé dans Marketo pour stocker
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Saisissez le Nom tel qu’il doit apparaître dans Marketo. Le nom de l’API est généré automatiquement. Vous pouvez le modifier, mais il ne peut pas être renommé une fois défini. Cliquez sur **Créer** une fois terminé.
+1. Saisissez le [!UICONTROL Nom] comme vous souhaitez qu’il apparaisse dans Marketo. Le [!UICONTROL Nom de l’API] est généré automatiquement. Vous pouvez le modifier, mais il ne peut pas être renommé une fois défini. Cliquez sur **[!UICONTROL Créer]** une fois terminé.
 
 >[!CAUTION]
 >

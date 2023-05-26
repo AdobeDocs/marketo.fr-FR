@@ -2,7 +2,7 @@
 description: Exportation de toutes les métadonnées d’objet - Documents Marketo - Documentation du produit
 title: Exporter toutes les métadonnées d’objet
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 17%
@@ -28,15 +28,15 @@ Cette fonctionnalité vous permet d’exporter tous les objets et leurs métadon
 
 ## Exportation des métadonnées d’objet {#export-object-metadata}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. Cliquez sur **Gestion des champs**.
+1. Cliquez sur **[!UICONTROL Gestion des champs]**.
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. Cliquez sur **Exporter tous les objets**.
+1. Cliquez sur **[!UICONTROL Exporter tous les objets]**.
 
    ![](assets/export-all-object-metadata-3.png)
 

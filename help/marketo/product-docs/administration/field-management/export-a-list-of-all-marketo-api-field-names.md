@@ -3,30 +3,30 @@ unique-page-id: 2360295
 description: Exportation d’une liste de tous les noms de champ de l’API Marketo - Documents Marketo - Documentation du produit
 title: Exportation d’une liste de tous les noms de champ de l’API Marketo
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 4%
+source-wordcount: '98'
+ht-degree: 5%
 
 ---
 
 # Exportation d’une liste de tous les noms de champ de l’API Marketo {#export-a-list-of-all-marketo-api-field-names}
 
-Si vous utilisez notre API SOAP ou l’API Munchkin, vous aurez besoin d’une liste de tous vos champs et de leurs noms d’API. Voici comment obtenir cette liste.
+Si vous utilisez notre [!DNL SOAP API] ou [!DNL Munchkin API] vous aurez besoin d’une liste de tous vos champs et de leurs noms d’API. Voici comment obtenir cette liste.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-1.png)
 
-1. Cliquez sur **Gestion des champs**.
+1. Cliquez sur **[!UICONTROL Gestion des champs]**.
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-2.png)
 
-1. Cliquez sur **Exporter les noms des champs** pour télécharger la feuille de calcul.
+1. Cliquez sur **[!UICONTROL Exporter les noms des champs]** pour télécharger la feuille de calcul.
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 

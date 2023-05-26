@@ -3,7 +3,7 @@ unique-page-id: 2951259
 description: Glossaire du type de champ personnalisé - Documents Marketo - Documentation du produit
 title: Glossaire du type de champ personnalisé
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 2%
@@ -24,9 +24,9 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous avez le choix entr
 
 >[!NOTE]
 >
->La plupart des champs ne peuvent pas dépasser le nombre de caractères, mais plutôt le nombre d’octets. Pour cette raison, nous ne pouvons pas fournir de limite de caractères définitive pour chaque champ. L’exception est **Chaîne**, qui peut contenir jusqu’à 255 caractères.
+>La plupart des champs ne peuvent pas dépasser le nombre de caractères, mais plutôt le nombre d’octets. Pour cette raison, nous ne pouvons pas fournir une limite de caractères définitive pour chaque champ. L’exception est **Chaîne**, qui peut contenir jusqu’à 255 caractères.
 
-## Booléenne {#boolean}
+## Booléen {#boolean}
 
 **Exemple de nom :** Est client : marquez vos clients comme des clients
 
@@ -58,7 +58,7 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous avez le choix entr
 
 **Opérateurs**: est, n’est pas, entre, dans le passé, dans le passé avant, dans le futur après, dans la période, après, avant, après, après ou après, sur ou avant, est vide, n’est pas vide
 
-## Adresse e-mail {#email}
+## E-mail {#email}
 
 **Exemple de nom :** Autre adresse électronique : conservez une autre adresse électronique pour vos personnes (ne peut pas envoyer de courriers électroniques à ce champ comme le champ d’adresse électronique par défaut, celui-ci est spécial).
 
@@ -66,7 +66,7 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous avez le choix entr
 
 **Opérateurs**: est, n’est pas, commence par, ne commence pas par, contient, ne contient pas, est vide, n’est pas vide
 
-## Flottante {#float}
+## Flottant {#float}
 
 **Exemple de nom :** Moyenne par point d’évaluation : permet de conserver la moyenne par point d’évaluation d’une personne ou toute autre valeur numérique ayant des décimales.
 

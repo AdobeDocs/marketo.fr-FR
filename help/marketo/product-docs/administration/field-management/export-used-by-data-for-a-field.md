@@ -3,9 +3,9 @@ unique-page-id: 45417092
 description: Exportation utilisée par les données pour un champ - Documents Marketo - Documentation du produit
 title: Exporter les données utilisées pour un champ
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 4%
 
 ---
@@ -18,11 +18,11 @@ En tant qu’administrateur, vous avez la possibilité d’exporter les ressourc
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. Cliquez sur **Gestion des champs**.
+1. Cliquez sur **[!UICONTROL Gestion des champs]**.
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
@@ -30,11 +30,11 @@ En tant qu’administrateur, vous avez la possibilité d’exporter les ressourc
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. Cliquez sur le bouton **Actions de champ** et sélectionnez **Exporter utilisée par**.
+1. Cliquez sur le bouton **[!UICONTROL Actions de champ]** et sélectionnez **[!UICONTROL Exporter utilisée par]**.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Un fichier Excel est alors exporté. Ouvrez-le pour en afficher le contenu.
+1. Un [!DNL Excel] est exporté. Ouvrez-le pour en afficher le contenu.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

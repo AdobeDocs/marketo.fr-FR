@@ -2,7 +2,7 @@
 description: Marquer un champ comme sensible - Documents Marketo - Documentation du produit
 title: Marquage d’un champ comme sensible
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -17,11 +17,11 @@ En tant qu’administrateur Marketo, vous pouvez marquer un champ spécifique co
 >
 >Cette fonctionnalité sera activée pour toutes les instances Marketo le soir du mardi 11 mai.
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **[!UICONTROL Administration]**.
 
    ![](assets/mark-a-field-as-sensitive-1.png)
 
-1. Cliquez sur **Gestion des champs**.
+1. Cliquez sur **[!UICONTROL Gestion des champs]**.
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
@@ -29,7 +29,7 @@ En tant qu’administrateur Marketo, vous pouvez marquer un champ spécifique co
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. Sélectionnez la **Marquer le champ comme sensible** .
+1. Sélectionnez la **[!UICONTROL Marquer le champ comme sensible]** .
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 

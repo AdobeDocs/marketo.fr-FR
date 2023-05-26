@@ -3,7 +3,7 @@ unique-page-id: 2360331
 description: Modification du type d’un champ personnalisé Marketo - Documents Marketo - Documentation du produit
 title: Modification du type d’un champ personnalisé Marketo
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 4%
@@ -14,11 +14,11 @@ ht-degree: 4%
 
 Voici comment modifier le type de champ d’un champ personnalisé.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
-1. Cliquez sur **Gestion des champs**.
+1. Cliquez sur **[!UICONTROL Gestion des champs]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
@@ -26,7 +26,7 @@ Voici comment modifier le type de champ d’un champ personnalisé.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. Dans le **Actions de champ** menu déroulant, cliquez sur **Type de modification**.
+1. Dans le **[!UICONTROL Actions de champ]** menu déroulant, cliquez sur **[!UICONTROL Type de modification]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
@@ -38,7 +38,7 @@ Voici comment modifier le type de champ d’un champ personnalisé.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
-1. Lisez l’avertissement, puis cliquez sur **Modifier** pour confirmer.
+1. Lisez l’avertissement, puis cliquez sur **[!UICONTROL Modifier]** pour confirmer.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 

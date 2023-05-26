@@ -3,7 +3,7 @@ unique-page-id: 4720461
 description: Jetons de codage de HTML dans les emails - Documents Marketo - Documentation du produit
 title: Jetons d’encodage HTML dans les e-mails
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 15%
@@ -22,11 +22,11 @@ Activer/désactiver les jetons de personne et d’entreprise utilisés dans les 
 >
 >Le codage convertit les caractères en versions de code de leur HTML afin d’éviter toute confusion lors de leur transmission (c.-à-d. &quot;&amp;&quot; a été remplacé par `&amp;`). Pour plus d’informations, consultez votre développeur web.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/html-encode-tokens-in-emails-1.png)
 
-1. Cliquez sur **Gestion des champs**.
+1. Cliquez sur **[!UICONTROL Gestion des champs]**.
 
    ![](assets/html-encode-tokens-in-emails-2.png)
 
@@ -34,7 +34,7 @@ Activer/désactiver les jetons de personne et d’entreprise utilisés dans les 
 
    ![](assets/html-encode-tokens-in-emails-3.png)
 
-1. Vérifiez les **Jetons de codage de HTML dans les courriers électroniques** pour l’activer, décochez la case pour la désactiver.
+1. Vérifiez les **[!UICONTROL Jetons de codage de HTML dans les courriers électroniques]** pour l’activer, décochez la case pour la désactiver.
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 
