@@ -3,7 +3,7 @@ unique-page-id: 10100269
 description: Modification d’une activité personnalisée - Documents Marketo - Documentation du produit
 title: Modification d’une activité personnalisée
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 4%
@@ -14,11 +14,11 @@ ht-degree: 4%
 
 Vous devez apporter des modifications à une activité personnalisée que vous avez déjà créée ? Voici comment.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. Cliquez sur **Activités personnalisées Marketo**.
+1. Cliquez sur **[!UICONTROL Activités personnalisées Marketo]**.
 
    ![](assets/edit-a-custom-activity-2.png)
 
@@ -26,7 +26,7 @@ Vous devez apporter des modifications à une activité personnalisée que vous a
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. Cliquez sur **Actions d’activité personnalisées** et sélectionnez **Modifier l’activité**.
+1. Cliquez sur **[!UICONTROL Actions d’activité personnalisées]** et sélectionnez **[!UICONTROL Modifier l’activité]**.
 
    ![](assets/edit-a-custom-activity-4.png)
 
@@ -34,7 +34,7 @@ Vous devez apporter des modifications à une activité personnalisée que vous a
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. Saisissez vos nouvelles informations, puis cliquez sur **Envoyer**.
+1. Saisissez vos nouvelles informations, puis cliquez sur **[!UICONTROL Envoyer]**.
 
    ![](assets/edit-a-custom-activity-6.png)
 

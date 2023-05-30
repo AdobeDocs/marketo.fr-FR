@@ -3,7 +3,7 @@ unique-page-id: 10100272
 description: Publication d’une activité personnalisée - Documents Marketo - Documentation du produit
 title: Publication d’une activité personnalisée
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 6%
@@ -14,11 +14,11 @@ ht-degree: 6%
 
 Votre activité personnalisée est exactement la même que vous la souhaitez. Maintenant, il est temps de le publier !
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/publish-a-custom-activity-1.png)
 
-1. Cliquez sur **Activités personnalisées Marketo**.
+1. Cliquez sur **[!UICONTROL Activités personnalisées Marketo]**.
 
    ![](assets/publish-a-custom-activity-2.png)
 
@@ -26,15 +26,15 @@ Votre activité personnalisée est exactement la même que vous la souhaitez. Ma
 
    ![](assets/publish-a-custom-activity-3.png)
 
-1. Cliquez sur le bouton **Actions d’activité personnalisées** et sélectionnez **Activité de publication**.
+1. Cliquez sur le bouton **[!UICONTROL Actions d’activité personnalisées]** et sélectionnez **[!UICONTROL Activité de publication]**.
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   Vous verrez l’état de votre activité personnalisée passer de la version préliminaire...
+   Vous verrez le rapport [!UICONTROL state] aller de [!UICONTROL Version préliminaire]...
 
    ![](assets/publish-a-custom-activity-5.png)
 
-   ...à Publié.
+   ...to [!UICONTROL Publié].
 
    ![](assets/publish-a-custom-activity-6.png)
 
