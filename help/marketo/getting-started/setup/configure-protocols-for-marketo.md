@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Configuration de protocoles pour Marketo - Documents Marketo - Documentation du produit
 title: Configuration de protocoles pour Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
+source-git-commit: 5a8fe88dec5f2bf9c94c0a08a5515b87bc6dcaa9
 workflow-type: tm+mt
-source-wordcount: '1021'
+source-wordcount: '1024'
 ht-degree: 3%
 
 ---
@@ -68,14 +68,23 @@ Lorsque votre groupe marketing utilise Marketo pour envoyer des emails de test (
 
 Ajoutez les adresses IP suivantes à la liste autorisée de votre entreprise :
 
-199.15.212.0/22\
-192.28.144.0/20
-192.28.160.0/19\
-185.28.196.0/22\
-130.248.172.0/24\
-130.248.173.0/24\
-103.237.104.0/22\
 94.236.119.0/26
+
+103.237.104.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+130.248.244.88/29
+
+185.28.196.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+199.15.212.0/22
 
 Certains systèmes anti-spam utilisent le champ Chemin d’accès au retour de l’email au lieu de l’adresse IP pour la mise en liste autorisée. Dans ce cas, la meilleure approche consiste à placer sur la liste autorisée &quot;&quot;&#42;.mktomail.com&#39;, car Marketo utilise plusieurs sous-domaines de boîte aux lettres. D’autres systèmes anti-spam placent sur la liste autorisée en fonction de l’adresse de l’expéditeur. Dans ce cas, veillez à inclure tous les domaines d’envoi (&quot;De&quot;) que votre groupe marketing utilise pour communiquer avec les personnes/prospects.
 
@@ -131,16 +140,10 @@ Les tableaux suivants couvrent tous les serveurs Marketo Engage qui effectuent d
    <th>Bloc d’adresse IP (notation CIDR)</th>
   </tr>
   <tr>
-   <td>192.28.144.0/20</td>
+   <td>94.236.119.0/26</td>
   </tr>
-   <tr>
-   <td>192.28.160.0/19</td>
-  </tr>
-   <tr>
-   <td>199.15.212.0/22</td>
-  </tr>
-   <tr>
-   <td>185.28.196.0/22</td>
+  <tr>
+   <td>103.237.104.0/22</td>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>
@@ -149,10 +152,19 @@ Les tableaux suivants couvrent tous les serveurs Marketo Engage qui effectuent d
    <td>130.248.173.0/24</td>
   </tr>
   <tr>
-   <td>103.237.104.0/22</td>
+   <td>130.248.244.88/29</td>
   </tr>
   <tr>
-   <td>94.236.119.0/26</td>
+   <td>185.28.196.0/22</td>
+  </tr>
+  <tr>
+   <td>192.28.144.0/20</td>
+  </tr>
+  <tr>
+   <td>192.28.160.0/19</td>
+  </tr>
+  <tr>
+   <td>199.15.212.0/22</td>
   </tr>
  </tbody>
 </table>
