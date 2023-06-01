@@ -2,10 +2,10 @@
 description: Exportation de métadonnées d’objet personnalisé - Documents Marketo - Documentation du produit
 title: Exportation des métadonnées d’objet personnalisé
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -17,11 +17,11 @@ Si vous utilisez notre API SOAP ou l’API Munchkin, le schéma de métadonnées
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
 
-1. Dans Mon Marketo, cliquez sur **Administration**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. Cliquez sur **Objets personnalisés Marketo**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
 
    ![](assets/custom-object-metadata-export-2.png)
 
@@ -29,7 +29,7 @@ Si vous utilisez notre API SOAP ou l’API Munchkin, le schéma de métadonnées
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. Cliquez sur le bouton **Actions d’objet personnalisées** et sélectionnez **Objet d’exportation**.
+1. Cliquez sur le bouton **[!UICONTROL Actions d’objet personnalisées]** et sélectionnez **[!UICONTROL Objet d’exportation]**.
 
    ![](assets/custom-object-metadata-export-4.png)
 

@@ -3,7 +3,7 @@ unique-page-id: 10094188
 description: Approbation d’un objet personnalisé - Documents Marketo - Documentation du produit
 title: Approbation d’un objet personnalisé
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 1%
@@ -18,11 +18,11 @@ Vous devez approuver un objet personnalisé avant de pouvoir l’utiliser. Le pr
 
 Vous avez créé un nouvel objet personnalisé. Voici comment l&#39;approuver.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. Cliquez sur **Objets personnalisés Marketo**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -30,11 +30,11 @@ Vous avez créé un nouvel objet personnalisé. Voici comment l&#39;approuver.
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. Cliquez sur le bouton **Actions d’objet personnalisées** et sélectionnez **Approuver l’objet**.
+1. Cliquez sur le bouton **[!UICONTROL Actions d’objet personnalisées]** et sélectionnez **[!UICONTROL Approuver l’objet]**.
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. L’état devient Approuvé.
+1. L’état devient [!UICONTROL Approuvé].
 
    ![](assets/approve-a-custom-object-5.png)
 
@@ -54,14 +54,14 @@ C&#39;est tout ! Désormais, vous pouvez sélectionner votre objet personnalisé
 
 Après avoir modifié un objet personnalisé approuvé, vous devez approuver le brouillon pour renvoyer l’objet personnalisé à un état Approuvé.
 
-1. Lorsque vous modifiez un objet personnalisé déjà approuvé, il reçoit l’état Approuvé avec brouillon .
+1. Lorsque vous modifiez un objet personnalisé déjà approuvé, il reçoit une [!UICONTROL Approuvé avec brouillon] état.
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. Lorsque vous êtes prêt à approuver le brouillon, cliquez sur le **Actions d’objet personnalisées** et sélectionnez **Approuver l’objet**.
+1. Lorsque vous êtes prêt à approuver le brouillon, cliquez sur le **[!UICONTROL Actions d’objet personnalisées]** et sélectionnez **[!UICONTROL Approuver l’objet]**.
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. Un aperçu affiche les éléments qui ont été modifiés dans le brouillon. Cliquez sur **Approuver**.
+1. Un aperçu affiche les éléments qui ont été modifiés dans le brouillon. Cliquez sur **[!UICONTROL Approuver]**.
 
    ![](assets/approve-a-custom-object-8.png)

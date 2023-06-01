@@ -3,7 +3,7 @@ unique-page-id: 10097613
 description: Ajout de champs de lien d’objet personnalisé Marketo - Documents Marketo - Documentation du produit
 title: Ajout de champs de lien d’objet personnalisé Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 1%
@@ -21,11 +21,11 @@ Lorsque vous créez des objets personnalisés, vous devez fournir des champs de 
 
 Voici comment créer un champ de lien dans un objet personnalisé pour une structure de type &quot;un à plusieurs&quot;.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
-1. Cliquez sur **Objets personnalisés Marketo**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
 
    ![](assets/add-marketo-custom-object-link-fields-2.png)
 
@@ -33,29 +33,29 @@ Voici comment créer un champ de lien dans un objet personnalisé pour une struc
 
    ![](assets/add-marketo-custom-object-link-fields-3.png)
 
-1. Dans le **Champs** , cliquez sur **Nouveau champ**.
+1. Dans le **[!UICONTROL Champs]** , cliquez sur **[!UICONTROL Nouveau champ]**.
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Nommez le champ de lien et ajoutez une description facultative. Veillez à sélectionner le type de données Lien .
+1. Attribuez un nom au champ de lien et ajoutez une [!UICONTROL Description]. Veillez à sélectionner la variable [!UICONTROL Lien] type de données.
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >Une fois l’objet personnalisé approuvé, vous ne pourrez pas revenir en arrière pour créer, modifier ou supprimer un lien ou un champ de déduplication.
+   >Vous ne pourrez pas revenir en arrière et créer, modifier ou supprimer une [!UICONTROL Lien] ou [!UICONTROL Champ de déduplication] une fois l’objet personnalisé approuvé.
 
-1. Indiquez si l’objet de lien est destiné à un prospect (une personne) ou une société.
+1. Indiquez si la variable [!UICONTROL Objet du lien] est pour un [!UICONTROL lead] (person) ou un [!UICONTROL société].
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
-   >Si vous choisissez une piste, vous verrez l’identifiant, l’adresse électronique et les champs personnalisés dans la liste.
+   >Si vous choisissez [!UICONTROL lead], vous verrez l’identifiant, l’adresse électronique et tous les champs personnalisés dans la liste.
    >
-   >Si vous choisissez société, vous verrez l’identifiant et tous les champs personnalisés dans la liste.
+   >Si vous choisissez [!UICONTROL société], vous verrez l’identifiant et tous les champs personnalisés dans la liste.
 
-1. Sélectionnez le champ de lien auquel vous souhaitez vous connecter en tant que parent du nouveau champ.
+1. Sélectionnez la [!UICONTROL Champ de lien] vous souhaitez vous connecter en tant que parent du nouveau champ.
 
    ![](assets/add-marketo-custom-object-link-fields-7.png)
 
@@ -63,7 +63,7 @@ Voici comment créer un champ de lien dans un objet personnalisé pour une struc
    >
    >Seuls les types de champ de chaîne sont pris en charge dans le champ de lien.
 
-1. Cliquez sur **Enregistrez.**
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-marketo-custom-object-link-fields-8.png)
 
@@ -75,11 +75,11 @@ Voici comment créer un champ de lien dans un objet intermédiaire à utiliser d
 >
 >Vous devez avoir déjà créé l’objet intermédiaire et les objets personnalisés auxquels vous souhaitez le lier.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
-1. Cliquez sur **Objets personnalisés Marketo**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
 
    ![](assets/add-marketo-custom-object-link-fields-10.png)
 
@@ -87,35 +87,35 @@ Voici comment créer un champ de lien dans un objet intermédiaire à utiliser d
 
    ![](assets/add-marketo-custom-object-link-fields-11.png)
 
-1. Dans le **Champs** , cliquez sur **Nouveau champ**.
+1. Dans le **[!UICONTROL Champs]** , cliquez sur **[!UICONTROL Nouveau champ]**.
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. Vous devez créer deux champs de lien. Créez-les un par un. Tout d’abord, nommez le champ des membres de votre liste de base de données (leadID, par exemple). Ajoutez une description facultative. Veillez à sélectionner le type de données du lien.
+1. Vous devez créer deux champs de lien. Créez-les un par un. Tout d’abord, nommez le champ des membres de votre liste de base de données (leadID, par exemple). Ajouter une [!UICONTROL Description]. Veillez à sélectionner la variable [!UICONTROL link] [!UICONTROL Type de données].
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >Une fois l’objet personnalisé approuvé, vous ne pourrez pas revenir en arrière pour créer, modifier ou supprimer un lien ou un champ de déduplication.
+   >Vous ne pourrez pas revenir en arrière et créer, modifier ou supprimer une [!UICONTROL Lien] ou [!UICONTROL Champ de déduplication] une fois l’objet personnalisé approuvé.
 
-1. Sélectionnez l’objet de lien de votre base de données, dans ce cas, &quot;Lead&quot;.
+1. Sélectionnez la [!UICONTROL Objet du lien] de votre base de données ; dans ce cas, [!UICONTROL prospect].
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 
-1. Sélectionnez le champ du lien auquel vous souhaitez vous connecter, dans ce cas, l&#39;identifiant.
+1. Sélectionnez la [!UICONTROL Champ de lien] vous souhaitez vous connecter, dans ce cas, à : [!UICONTROL Id].
 
    ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
-   >Seuls les types de champ de chaîne sont pris en charge dans le champ de lien.
+   >Seuls les types de champ de chaîne sont pris en charge dans la variable [!UICONTROL Champ de lien].
 
-1. Cliquez sur **Enregistrez.**
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
-1. Répétez cette procédure pour le deuxième lien vers votre objet personnalisé, dans cet exemple, courseID. Le nom de l’objet du lien est &quot;cours&quot; et le champ de lien est &quot;coursID&quot;. Comme vous avez déjà créé et approuvé l’objet personnalisé du cours, ces sélections sont disponibles dans les menus déroulants.
+1. Répétez cette procédure pour le deuxième lien vers votre objet personnalisé, dans cet exemple, courseID. Le [!UICONTROL Objet du lien] Le nom est &quot;cours&quot; et la variable [!UICONTROL Champ de lien] sera courseID. Comme vous avez déjà créé et approuvé l’objet personnalisé du cours, ces sélections sont disponibles dans les menus déroulants.
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 

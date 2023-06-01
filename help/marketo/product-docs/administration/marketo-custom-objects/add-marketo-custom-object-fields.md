@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Ajout de champs d’objet personnalisés Marketo - Documents Marketo - Documentation du produit
 title: Ajout de champs d’objet personnalisés Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
-source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '293'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,11 @@ Après avoir créé un objet personnalisé, vous devez y ajouter des champs pour
 
 Les champs définissent les informations spécifiques utilisées par un objet personnalisé. Les champs de lien ont une tâche spéciale, permettant de connecter des objets personnalisés, et sont couverts par une [article distinct](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 
-1. Cliquez sur **Objets personnalisés Marketo**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
 
    ![](assets/add-marketo-custom-object-fields-2.png)
 
@@ -28,7 +28,7 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. Dans le **Champs** , cliquez sur **Nouveau champ**.
+1. Cliquez sur le bouton **[!UICONTROL Champs]** , puis **[!UICONTROL Nouveau champ]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -36,7 +36,7 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
    >
    >Les trois champs affichés ci-dessus sont créés automatiquement par Marketo lorsque vous créez un objet personnalisé. Marketo gère ces champs automatiquement et vous ne pouvez pas les modifier ni les supprimer.
 
-1. Saisissez un nom d’affichage et une description.
+1. Saisissez un [!UICONTROL Nom d’affichage] et (facultatif) [!UICONTROL Description].
 
    ![](assets/add-marketo-custom-object-fields-5.png)
 
@@ -44,11 +44,11 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
    >
    >Le nom de l’API ne peut être modifié que lorsqu’il a été approuvé.
 
-1. Sélectionnez maintenant un type de données approprié dans la liste.
+1. Maintenant, choisissez une [!UICONTROL Type de données] dans la liste.
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. Survolez le curseur Déduplication si vous souhaitez utiliser le nouveau champ comme identifiant unique. Cliquez sur **Enregistrer** à la fin.
+1. Extrayez le [!UICONTROL Dédupliquer] placez le curseur au-dessus si vous souhaitez utiliser le nouveau champ comme identifiant unique. Cliquez sur **[!UICONTROL Enregistrer]** à la fin.
 
    ![](assets/add-marketo-custom-object-fields-7.png)
 

@@ -3,7 +3,7 @@ unique-page-id: 10093192
 description: Création d’objets personnalisés Marketo - Documents Marketo - Documentation du produit
 title: Créer des objets personnalisés Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 2%
@@ -26,31 +26,31 @@ Utilisez des objets personnalisés dans Marketo pour effectuer le suivi de mesur
 
 Cet exemple présente un objet personnalisé Car, à utiliser dans une structure de type &quot;un à plusieurs&quot;. Vous allez ensuite créer un objet personnalisé de cours et un objet intermédiaire à utiliser dans une structure de type &quot;plusieurs à plusieurs&quot;.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
-1. Cliquez sur **Objets personnalisés Marketo**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
 
    ![](assets/create-marketo-custom-objects-2.png)
 
-1. Cliquez sur **Nouvel objet personnalisé**.
+1. Cliquez sur **[!UICONTROL Nouvel objet personnalisé]**.
 
    ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
-   >L’onglet Objets personnalisés Marketo affiche tous les objets personnalisés à droite, ainsi que les détails de tous les objets approuvés, y compris le nombre d’enregistrements et de champs lors de la mise à jour la plus récente.
+   >Le [!UICONTROL Objets personnalisés Marketo] L’onglet affiche tous les objets personnalisés à droite, ainsi que les détails de tous les objets approuvés, y compris le nombre d’enregistrements et de champs lors de la mise à jour la plus récente.
 
-1. Saisissez un nom d’affichage. Le nom de l’API et le nom du pluriel sont renseignés automatiquement. Saisissez une description (facultatif).
+1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL Nom de l’API] et [!UICONTROL Nom du pluriel] renseignez automatiquement. Saisissez un [!UICONTROL Description] (facultatif).
 
    ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
-   >Vous pouvez modifier ces champs lorsque vous les créez, mais une fois qu’ils ont été enregistrés, vous ne pouvez modifier que le champ Nom du pluriel et le champ **Afficher dans les détails de piste** curseur.
+   >Vous pouvez modifier ces champs lorsque vous les créez, mais une fois qu’ils ont été enregistrés, vous ne pouvez modifier que la variable [!UICONTROL Nom du pluriel] et le champ **[!UICONTROL Afficher dans les détails de piste]** curseur.
 
-1. Extrayez le **Afficher dans les détails de piste** curseur sur lequel afficher **Afficher** si vous souhaitez afficher des données d’objet personnalisées dans la page Base de données. Cliquez sur **Enregistrer**.
+1. Extrayez le **[!UICONTROL Afficher dans les détails de piste]** curseur sur lequel afficher **[!UICONTROL Afficher]** si vous souhaitez afficher des données d’objet personnalisées dans la page Base de données. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -72,27 +72,27 @@ Cet exemple illustre un objet personnalisé de cours que vous utiliserez pour cr
 >
 >Dans le cas d’une relation multiple-à-multiple, il n’est pas nécessaire de créer un lien dans l’objet personnalisé. Vous allez ajouter deux liens à l’objet intermédiaire (voir ci-dessous).
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
-1. Cliquez sur **Objets personnalisés Marketo**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
 
    ![](assets/create-marketo-custom-objects-8.png)
 
-1. Cliquez sur **Nouvel objet personnalisé**.
+1. Cliquez sur **[!UICONTROL Nouvel objet personnalisé]**.
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. Saisissez un nom d’affichage. Le nom de l’API et le nom du pluriel sont renseignés automatiquement. Saisissez une description (facultatif).
+1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL Nom de l’API] et [!UICONTROL Nom du pluriel] renseignez automatiquement. Saisissez un [!UICONTROL Description] (facultatif).
 
    ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
-   >Vous pouvez modifier ces champs lorsque vous les créez, mais une fois qu’ils ont été enregistrés, vous ne pouvez modifier que le champ Nom du pluriel et le champ **Afficher dans les détails de piste** curseur.
+   >Vous pouvez modifier ces champs lorsque vous les créez, mais une fois qu’ils ont été enregistrés, vous ne pouvez modifier que la variable [!UICONTROL Nom du pluriel] et le champ **[!UICONTROL Afficher dans les détails de piste]** curseur.
 
-1. Extrayez le **Afficher dans les détails de piste** curseur sur lequel afficher **Afficher** si vous souhaitez afficher des données d’objet personnalisées dans la page Base de données. Cliquez sur **Enregistrer**.
+1. Extrayez le **[!UICONTROL Afficher dans les détails de piste]** curseur sur lequel afficher **[!UICONTROL Afficher]** si vous souhaitez afficher des données d’objet personnalisées dans la page Base de données. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -114,27 +114,27 @@ Utilisez un objet intermédiaire pour connecter un objet personnalisé à des pe
 >
 >Vous n’avez pas besoin de créer un objet intermédiaire pour une structure d’objet personnalisé de type &quot;un à plusieurs&quot;.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-13.png)
 
-1. Cliquez sur **Objets personnalisés Marketo**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
 
    ![](assets/create-marketo-custom-objects-14.png)
 
-1. Cliquez sur **Nouvel objet personnalisé**.
+1. Cliquez sur **[!UICONTROL Nouvel objet personnalisé]**.
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. Saisissez un nom d’affichage. Le nom de l’API et le nom du pluriel sont renseignés automatiquement. Saisissez une description (facultatif).
+1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL Nom de l’API] et [!UICONTROL Nom du pluriel] renseignez automatiquement. Saisissez un [!UICONTROL Description] (facultatif).
 
    ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
-   >Vous pouvez modifier ces champs lorsque vous les créez, mais une fois qu’ils ont été enregistrés, vous pouvez uniquement modifier le champ Nom du pluriel et le curseur Afficher dans les détails de la piste .
+   >Vous pouvez modifier ces champs lorsque vous les créez, mais une fois qu’ils ont été enregistrés, vous ne pouvez modifier que la variable [!UICONTROL Nom du pluriel] et le champ [!UICONTROL Afficher dans les détails de piste] curseur.
 
-1. Extrayez le **Afficher dans les détails de piste** curseur sur lequel afficher **Afficher** si vous souhaitez afficher des données d’objet personnalisées dans la page Base de données. Cliquez sur **Enregistrer**.
+1. Extrayez le **[!UICONTROL Afficher dans les détails de piste]** curseur sur lequel afficher **Afficher** si vous souhaitez afficher des données d’objet personnalisées dans la page Base de données. Cliquez sur **Enregistrer**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 

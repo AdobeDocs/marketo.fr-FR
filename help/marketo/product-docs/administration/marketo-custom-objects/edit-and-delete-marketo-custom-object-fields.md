@@ -3,7 +3,7 @@ unique-page-id: 10095453
 description: Modification et suppression de champs d’objet personnalisés Marketo - Documents Marketo - Documentation du produit
 title: Modification et suppression de champs d’objet personnalisés Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Parfois, vous devez modifier un champ qui n’est pas encore approuvé.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. Dans l’onglet Champs , cliquez sur **Actions de champ** et **Modifier le champ**.
+1. Dans le [!UICONTROL Champs] , cliquez sur **[!UICONTROL Actions de champ]** et **[!UICONTROL Modifier le champ]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
-1. Apportez vos modifications et cliquez sur **Enregistrer**.
+1. Apportez vos modifications et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
@@ -40,18 +40,18 @@ Parfois, vous devez modifier un champ qui n’est pas encore approuvé.
 
 Lorsque vous n’avez plus besoin d’un champ dans un objet personnalisé, vous pouvez le supprimer.
 
-1. Dans l’onglet Champs , cliquez sur **Actions de champ** et **Supprimer le champ**.
+1. Dans l’onglet Champs , cliquez sur **[!UICONTROL Actions de champ]** et **[!UICONTROL Supprimer le champ]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-   Veillez à supprimer le champ avant d’appuyer sur la gâchette ! Cliquez sur **Supprimer**.
+1. Veillez à supprimer le champ avant d’appuyer sur la gâchette ! Cliquez sur **[!UICONTROL Supprimer]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-   C&#39;est parti !
+C&#39;est parti !
 
-   ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
+![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
-   >[!NOTE]
-   >
-   >[Ajout de champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>[!NOTE]
+>
+>[Ajout de champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)

@@ -3,9 +3,9 @@ unique-page-id: 11378713
 description: Déclenchement Des Modifications D’Objet Personnalisées - Documents Marketo - Documentation Du Produit
 title: Déclenchement Des Modifications D’Objet Personnalisé
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,8 @@ ht-degree: 0%
 >
 >Cette fonctionnalité est disponible uniquement :
 >
->* Pour les clients de l’infrastructure Orion
->* À utiliser uniquement avec des objets personnalisés Marketo, et non avec des objets personnalisés synchronisés via l’intégration Salesforce ou Microsoft Dynamics native
+>* Pour les clients du [!DNL Orion] infrastructure
+>* À utiliser uniquement avec les objets personnalisés Marketo, et non avec les objets personnalisés synchronisés via le [!DNL Salesforce] ou [!DNL Microsoft Dynamics] integration
 >* Comme déclencheur, pas comme filtre
 >
 >Veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour activer les déclencheurs de modification d’objet personnalisés.
@@ -28,7 +28,7 @@ Dans la liste dynamique d’une campagne dynamique, vous pouvez déclencher une 
 >
 >Une entrée de journal d’activité n’est pas créée lorsqu’un enregistrement d’objet personnalisé est modifié.
 
-1. Dans Marketo, accédez à **Activités marketing.**
+1. En Marketo Engage, accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ Dans la liste dynamique d’une campagne dynamique, vous pouvez déclencher une 
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Sélectionnez l’attribut trigger.
+1. Sélectionnez la [!UICONTROL attribut trigger].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

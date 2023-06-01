@@ -3,7 +3,7 @@ unique-page-id: 10093188
 description: Présentation des objets personnalisés Marketo - Documents Marketo - Documentation du produit
 title: Présentation des objets personnalisés Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 2%
@@ -42,11 +42,11 @@ Plusieurs à plusieurs objets personnalisés utilisent deux champs de lien, fais
 
 ## Accès aux objets personnalisés de Marketo {#accessing-marketo-custom-objects}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Cliquez sur **Objets personnalisés Marketo**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -68,17 +68,17 @@ Plusieurs à plusieurs objets personnalisés utilisent deux champs de lien, fais
 
 ## Affichage des objets personnalisés associés à une personne {#view-custom-objects-associated-to-a-person}
 
-Après avoir créé la structure d’objet personnalisé, lorsque vous chargez les données d’objet personnalisé spécifiques, les objets personnalisés sont automatiquement associés aux personnes dans la base de données à l’aide du champ de lien de l’objet personnalisé. Vous pouvez afficher des informations à partir de l’onglet Objets personnalisés de la page de détails de la personne.
+Après avoir créé la structure d’objet personnalisé, lorsque vous chargez les données d’objet personnalisé spécifiques, les objets personnalisés sont automatiquement associés aux personnes dans la base de données à l’aide du champ de lien de l’objet personnalisé. Vous pouvez afficher des informations à partir du [!UICONTROL Objets personnalisés] sur la page détails de la personne.
 
-1. Accédez à **Base**.
+1. Accédez à **[!UICONTROL Base]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Ouvrez votre base de données et cliquez sur le bouton **Personnes** . Double-cliquez sur l’enregistrement d’une personne que vous avez associée à un objet personnalisé.
+1. Ouvrez votre base de données et cliquez sur le bouton **[!UICONTROL Personnes]** . Double-cliquez sur l’enregistrement d’une personne que vous avez associée à un objet personnalisé.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. Sur la page Détails de la personne, cliquez sur le **Objets personnalisés** . Sélectionnez l’objet dans la liste déroulante.
+1. Sur la page Détails de la personne, cliquez sur le **[!UICONTROL Objets personnalisés]** . Sélectionnez l’objet dans la liste déroulante.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
