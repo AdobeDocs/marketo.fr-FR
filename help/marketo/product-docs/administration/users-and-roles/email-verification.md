@@ -2,9 +2,9 @@
 description: Vérification des courriers électroniques - Documents Marketo - Documentation du produit
 title: Vérification des emails
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 44cca5ebad831cc39babac87ac9ebbf53df6c795
+source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -17,35 +17,40 @@ Les abonnements à Adobe Marketo Engage requièrent que tous les utilisateurs no
 
 Lorsqu’un administrateur invite un utilisateur, celui-ci est automatiquement vérifié lorsqu’il clique sur le lien d’invitation. Les utilisateurs d’authentification unique, qui ne disposent pas du rôle d’administrateur, sont automatiquement vérifiés.
 
+## Courrier électronique de vérification {#verification-email}
+
+Les utilisateurs invités recevront le courrier électronique suivant :
+
+![](assets/email-verification-1.png)
+
+>[!NOTE]
+>
+>Pour renvoyer un email de vérification à un utilisateur non vérifié, sélectionnez simplement son enregistrement et cliquez sur le bouton **Vérifier le courrier électronique** bouton .
+
 ## Modification d’une adresse électronique {#changing-an-email-address}
 
 Lorsque l’adresse électronique d’un utilisateur est modifiée, elle n’est plus vérifiée. Un email leur sera envoyé pour leur permettre de vérifier à nouveau. Les utilisateurs peuvent renvoyer manuellement cet email en cliquant sur **Vérification du renvoi**.
 
-![](assets/email-verification-1.png)
-
 ![](assets/email-verification-2.png)
+
+![](assets/email-verification-3.png)
 
 ## Utilisateurs et rôles {#users-and-roles}
 
 Dans **Administration** > **Utilisateurs et rôles**, la colonne État de l’email indique l’état de vérification de chaque utilisateur.
 
-![](assets/email-verification-3.png)
+![](assets/email-verification-4.png)
 
 ## Plusieurs ID de connexion utilisateur {#multiple-user-login-ids}
 
-Un seul compte utilisateur peut être associé à une seule adresse électronique. Si plusieurs comptes d’utilisateurs sont associés à une seule adresse électronique, Marketo Engage exige que le conflit soit résolu et affiche toutes les connexions d’utilisateurs associées à l’adresse électronique, ainsi que trois options de résolution :<p>
-`1` Utiliser le courrier électronique actuel pour l’ID de connexion de l’utilisateur actuel<p>
-`2` Utiliser un nouveau courrier électronique pour l’ID de connexion de l’utilisateur actuel<p>
-`3` Retarder la décision jusqu’à la prochaine connexion
+Un seul compte utilisateur peut être associé à une seule adresse électronique. Si plusieurs comptes d’utilisateurs sont associés à une seule adresse électronique, Marketo Engage exige que le conflit soit résolu et affiche toutes les connexions d’utilisateurs associées à l’adresse électronique, ainsi que trois options de résolution :
 
-![](assets/email-verification-4.png)
+* Utiliser le courrier électronique actuel pour l’ID de connexion de l’utilisateur actuel
+* Utiliser un nouveau courrier électronique pour l’ID de connexion de l’utilisateur actuel
+* Retarder la décision jusqu’à la prochaine connexion
 
-## Courrier électronique de vérification {#verification-email}
-
-Les utilisateurs invités recevront le courrier électronique suivant :
-
-![](assets/email-verification-5.png)
+   ![](assets/email-verification-5.png)
 
 >[!NOTE]
 >
->Pour renvoyer un email de vérification à un utilisateur non vérifié, sélectionnez simplement son enregistrement et cliquez sur le bouton **Vérifier le courrier électronique** bouton .
+>Bien qu’un compte utilisateur doive être associé à une seule adresse, un compte utilisateur peut être utilisé pour de nombreux abonnements via un ID universel.
