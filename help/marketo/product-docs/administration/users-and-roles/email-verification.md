@@ -2,9 +2,9 @@
 description: Vérification des courriers électroniques - Documents Marketo - Documentation du produit
 title: Vérification des emails
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
+source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Lorsqu’un administrateur invite un utilisateur, celui-ci est automatiquement v
 
 ## Courrier électronique de vérification {#verification-email}
 
-Les utilisateurs invités recevront le courrier électronique suivant :
+Les utilisateurs recevront l’e-mail suivant lorsque la vérification par e-mail est activée pour un abonnement ou si elle est déclenchée par un administrateur/utilisateur :
 
 ![](assets/email-verification-1.png)
 
