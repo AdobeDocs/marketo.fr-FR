@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Rechercher et fusionner des personnes en double - Documents Marketo - Documentation du produit
 title: Rechercher et fusionner des personnes en double
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 780071242a608706e06f3026150c43441a29faa5
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,23 @@ ht-degree: 0%
 
 Marketo déduplique automatiquement les nouvelles personnes qui entrent dans le système. Cependant, votre CRM a peut-être initialement envoyé des doublons à Marketo. Voici comment les fusionner.
 
->[!NOTE]
+>[!CAUTION]
 >
->Marketo ne procède pas automatiquement à la déduplication par rapport à une synchronisation Salesforce ou Microsoft Dynamics, ni lorsque vous saisissez manuellement des personnes.
+>Fusion de personnes permanente, il n&#39;y a pas d&#39;option &quot;Annuler&quot;.
 
 >[!PREREQUISITES]
 >
 >La recherche et la fusion de doublons impliquent l&#39;utilisation de [listes dynamiques intégrées/système](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
+>[!NOTE]
+>
+>Marketo ne procède pas automatiquement à la déduplication par rapport à une synchronisation Salesforce ou Microsoft Dynamics, ni lorsque vous saisissez manuellement des personnes.
+
 ## Rechercher les doublons {#find-duplicates}
 
 1. Accédez au **Base** zone.
 
-   ![](assets/db.png)
+   ![](assets/find-and-merge-duplicate-people-1.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ Marketo déduplique automatiquement les nouvelles personnes qui entrent dans le 
 
 1. Sélectionnez la **Doublons possibles** liste dynamique du système et cliquez sur **Personnes** .
 
-   ![](assets/two.png)
+   ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
@@ -48,7 +52,7 @@ Marketo déduplique automatiquement les nouvelles personnes qui entrent dans le 
 
 1. Sélectionnez les doublons en maintenant la touche Ctrl/Cmd enfoncée, puis cliquez sur **Fusionner les personnes**.
 
-   ![](assets/three.png)
+   ![](assets/find-and-merge-duplicate-people-3.png)
 
    >[!TIP]
    >
@@ -56,7 +60,7 @@ Marketo déduplique automatiquement les nouvelles personnes qui entrent dans le 
 
 1. Vous verrez les valeurs entre les enregistrements qui _don&#39;t_ correspond à . Sélectionnez la valeur à conserver pour chaque champ. Cliquez sur **Fusion** une fois terminé. Si vous ne souhaitez aucune des valeurs, vous pouvez vérifier **Personnalisé** et saisissez la valeur de votre choix.
 
-   ![](assets/four.png)
+   ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
