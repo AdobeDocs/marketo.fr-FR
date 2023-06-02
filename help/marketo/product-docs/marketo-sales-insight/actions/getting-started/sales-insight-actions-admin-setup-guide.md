@@ -2,14 +2,18 @@
 description: Guide de configuration de l’administrateur des actions Sales Insight - Documents Marketo - Documentation du produit
 title: Guide de configuration des actions Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '626'
 ht-degree: 1%
 
 ---
 
 # Guide de configuration des actions Sales Insight {#sales-insight-actions-admin-setup-guide}
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions est une application web qui s’intègre à l’interface utilisateur de Salesforce via l’ [Package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
 
 >[!PREREQUISITES]
 >

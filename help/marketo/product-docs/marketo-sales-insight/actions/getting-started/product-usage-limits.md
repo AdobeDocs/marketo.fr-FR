@@ -2,16 +2,20 @@
 description: Limites d’utilisation du produit - Documents Marketo - Documentation du produit
 title: Limites d’utilisation des produits
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 22%
+source-wordcount: '231'
+ht-degree: 19%
 
 ---
 
 # Limites d’utilisation des produits {#product-usage-limits}
 
-Les limites suivantes ont été mises en place pour l’utilisation des fonctionnalités d’engagement commercial étendu disponibles avec les actions de Sales Insight.
+Vous trouverez ci-dessous les limites en place pour l’utilisation des fonctionnalités d’engagement commercial étendues disponibles avec les actions d’aperçu des ventes.
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions est une application web qui s’intègre à l’interface utilisateur de Salesforce via l’ [Package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
 
 <table>
   <th>Fonctionnalité</th>
