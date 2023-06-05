@@ -2,10 +2,10 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 5%
+source-wordcount: '368'
+ht-degree: 4%
 
 ---
 
@@ -33,8 +33,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Présentation de l’interface Experience Cloud</a></td>
   </tr>
   </tbody>
 </table>
@@ -75,24 +75,6 @@ Les webinaires interactifs seront déployés progressivement. Pour demander un a
   <tr> 
    <td>Déploiement démarré</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Présentation des webinaires interactifs</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Chat dynamique {#dynamic-chat}
-
-</br>
-
-* **Source de conversation pour la conversation dynamique**: &quot;Chat&quot; est désormais proposé comme source de nouveaux enregistrements de personnes et d&#39;activités. Cette source peut être utilisée pour aider les utilisateurs à filtrer les activités dans les listes dynamiques/campagnes. La source peut également être bloquée des mises à jour des champs.
-
-<table> 
-  <tr> 
-   <td><b>Statut</b></td>
-   <td><b>Mises à jour de la documentation</b></td>
-  </tr>
-  <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
   </tr>
   </tbody>
 </table>
