@@ -2,10 +2,10 @@
 description: Glossaire de l’activité d’actions Sales Insight - Documents Marketo - Documentation du produit
 title: Glossaire de l’activité d’Insight sur les ventes
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '541'
-ht-degree: 11%
+source-wordcount: '554'
+ht-degree: 16%
 
 ---
 
@@ -52,7 +52,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir des actions 
   <td>Nom de la campagne commerciale</td>
  </tr>
  <tr>
-  <td>Identifiant de personne commerciale Marketo</td>
+  <td>Identifiant du vendeur Marketo</td>
  </tr>
  <tr>
   <th rowspan="9">Ouvrir e-mail de vente</th>
@@ -80,7 +80,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir des actions 
   <td>Nom de la campagne commerciale</td>
  </tr>
  <tr>
-  <td>Identifiant de personne commerciale Marketo</td>
+  <td>Identifiant du vendeur Marketo</td>
  </tr>
  <tr>
   <th rowspan="10">Courrier électronique de vente cliqué</th>
@@ -111,7 +111,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir des actions 
   <td>Nom de la campagne commerciale</td>
  </tr>
  <tr>
-  <td>Identifiant de personne commerciale Marketo</td>
+  <td>Identifiant du vendeur Marketo</td>
  </tr>
 <tr>
   <th rowspan="3">Réponse à l’e-mail de vente</th>
@@ -121,7 +121,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir des actions 
   <td>Source</td>
  </tr>
  <tr>
-  <td>Identifiant de personne commerciale Marketo</td>
+  <td>Identifiant du vendeur Marketo</td>
  </tr>
  <tr>
   <th rowspan="11">Appel de vente reçu</th>
@@ -155,7 +155,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir des actions 
   <td>Réponse à l’appel  Sales par</td>
  </tr>
  <tr>
-  <td>Identifiant de personne commerciale Marketo</td>
+  <td>Identifiant du vendeur Marketo</td>
  </tr>
  <tr>
   <th rowspan="6">Ajouter à la campagne de ventes</th>
@@ -195,6 +195,22 @@ Les activités ci-dessous seront consignées dans Marketo à partir des actions 
  <tr>
   <td>Identifiant de campagne de ventes</td>
  </tr>
+ <tr>
+  <th rowspan="5">Email rebond des ventes</th>
+  <td>Détails</td>
+ </tr>
+ <tr>
+  <td>E-mail</td>
+ </tr>
+ <tr>
+  <td>Envoyé par</td>
+ </tr>
+ <tr>
+  <td>Identifiant du vendeur Marketo</td>
+ </tr>
+ <tr>
+  <td>ID du modèle</td>
+ </tr>
 </table>
 
 ## Descriptions {#descriptions}
@@ -210,7 +226,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir des actions 
    <td>Détails du message d’erreur de rebond.</td> 
   </tr> 
   <tr> 
-   <td><strong>Adresse e-mail</strong></td> 
+   <td><strong>E-mail</strong></td> 
    <td>Adresse électronique qui a fait l’objet d’un rebond.</td> 
   </tr> 
   <tr> 
@@ -218,7 +234,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir des actions 
    <td>URL sur laquelle l’utilisateur a cliqué.</td> 
   </tr> 
   <tr> 
-   <td><strong>Identifiant de personne commerciale Marketo</strong></td> 
+   <td><strong>Identifiant du vendeur Marketo</strong></td> 
    <td>Identifiant unique de l’enregistrement de personne dans les actions Sales Insight.</td> 
   </tr> 
   <tr> 

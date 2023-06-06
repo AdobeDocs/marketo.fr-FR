@@ -2,10 +2,10 @@
 description: Glossaire des activités de vente - Documents Marketo - Documentation du produit
 title: Glossaire des activités de vente
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '520'
-ht-degree: 11%
+source-wordcount: '533'
+ht-degree: 17%
 
 ---
 
@@ -52,7 +52,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   <td>Nom de la campagne commerciale</td>
  </tr>
  <tr>
-  <td>Identifiant de personne commerciale Marketo</td>
+  <td>Identifiant du vendeur Marketo</td>
  </tr>
  <tr>
   <th rowspan="9">Ouvrir e-mail de vente</th>
@@ -80,7 +80,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   <td>Nom de la campagne commerciale</td>
  </tr>
  <tr>
-  <td>Identifiant de personne commerciale Marketo</td>
+  <td>Identifiant du vendeur Marketo</td>
  </tr>
  <tr>
   <th rowspan="10">Courrier électronique de vente cliqué</th>
@@ -111,7 +111,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   <td>Nom de la campagne commerciale</td>
  </tr>
  <tr>
-  <td>Identifiant de personne commerciale Marketo</td>
+  <td>Identifiant du vendeur Marketo</td>
  </tr>
 <tr>
   <th rowspan="3">Réponse à l’e-mail de vente</th>
@@ -121,7 +121,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   <td>Source</td>
  </tr>
  <tr>
-  <td>Identifiant de personne commerciale Marketo</td>
+  <td>Identifiant du vendeur Marketo</td>
  </tr>
  <tr>
   <th rowspan="11">Appel de vente reçu</th>
@@ -155,7 +155,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
   <td>Réponse à l’appel  Sales par</td>
  </tr>
  <tr>
-  <td>Identifiant de personne commerciale Marketo</td>
+  <td>Identifiant du vendeur Marketo</td>
  </tr>
  <tr>
   <th rowspan="6">Ajouter à la campagne de ventes</th>
@@ -195,6 +195,22 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
  <tr>
   <td>Identifiant de campagne de ventes</td>
  </tr>
+ <tr>
+  <th rowspan="5">Email rebond des ventes</th>
+  <td>Détails</td>
+ </tr>
+ <tr>
+  <td>E-mail</td>
+ </tr>
+ <tr>
+  <td>Envoyé par</td>
+ </tr>
+ <tr>
+  <td>Identifiant du vendeur Marketo</td>
+ </tr>
+ <tr>
+  <td>ID du modèle</td>
+ </tr>
 </table>
 
 ## Descriptions {#descriptions}
@@ -210,7 +226,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
    <td>Détails du message d’erreur de rebond.</td> 
   </tr> 
   <tr> 
-   <td><strong>Adresse e-mail</strong></td> 
+   <td><strong>E-mail</strong></td> 
    <td>Adresse électronique qui a fait l’objet d’un rebond.</td> 
   </tr> 
   <tr> 
@@ -218,7 +234,7 @@ Les activités ci-dessous seront consignées dans Marketo à partir de Sales Con
    <td>URL sur laquelle l’utilisateur a cliqué.</td> 
   </tr> 
   <tr> 
-   <td><strong>Identifiant de personne commerciale Marketo</strong></td> 
+   <td><strong>Identifiant du vendeur Marketo</strong></td> 
    <td>Identifiant unique de l’enregistrement de personne dans Sales Connect.</td> 
   </tr> 
   <tr> 
