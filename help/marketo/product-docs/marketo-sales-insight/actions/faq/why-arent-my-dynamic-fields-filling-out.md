@@ -1,12 +1,10 @@
 ---
 description: Pourquoi mes champs dynamiques ne se remplissent-ils pas - Documents Marketo - Documentation du produit
 title: Pourquoi mes champs dynamiques ne se remplissent-ils pas ?
-hide: true
-hidefromtoc: true
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
-source-git-commit: f77a076c243c25f3bff98a82751f51c464712795
+source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '315'
 ht-degree: 1%
 
 ---
@@ -27,9 +25,9 @@ Champs Salesforce : Par exemple : `{{sfdc_account_name}}`
 
 **Dépannage des champs de base et personnalisés**
 
-Tout Basic Fields : Par exemple : `{{company}}`
+Champs de base des actions Marketo Sales Insight : par exemple, `{{company}}`
 
-Tout champ personnalisé : Par exemple : `{{custom_field_favorite_movie}}`
+Actions Marketo Sales Insight Champs personnalisés : par exemple, `{{custom_field_favorite_movie}}`
 
 * Le champ correspondant doit être enregistré pour votre contact dans le [Page Personnes](https://toutapp.com/next#relationships) pour référencer notre champ dynamique. Par exemple, si vous envoyez un courrier électronique à Mary et que vous utilisez la variable `{{company}}` , mais son enregistrement de contact ne donne pas de liste d’entreprises, nous ne pourrons pas le remplir.
 
