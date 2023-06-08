@@ -3,7 +3,7 @@ unique-page-id: 10099785
 description: Modifier les paramètres d’abonnement - Documents Marketo - Documentation du produit
 title: Modifier les paramètres d’abonnement
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
-source-git-commit: 4e2627ecf5028bc45d679c50ec20dd3128041605
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -16,18 +16,18 @@ Si vous avez accès à plusieurs abonnements Marketo et souhaitez vous assurer d
 
 Par exemple, si vous travaillez à la fois dans des instances de production et d’environnement de test, vous pouvez nommer un abonnement. **Production Marketo** et l’autre **Marketo Sandbox**.
 
-1. Accédez à **Administration**.
+1. Accédez à **[!UICONTROL Administration]**.
 
    ![](assets/edit-subscription-settings-1.png)
 
-1. Cliquez sur **Mon compte**.
+1. Cliquez sur **[!UICONTROL Mon compte]**.
 
    ![](assets/edit-subscription-settings-2.png)
 
-1. Cliquez sur **Modifier les informations d’abonnement**.
+1. Cliquez sur **[!UICONTROL Modifier les informations d’abonnement]**.
 
    ![](assets/edit-subscription-settings-3.png)
 
-1. Effectuez les modifications et cliquez sur **Enregistrer**.
+1. Effectuez les modifications et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/edit-subscription-settings-4.png)

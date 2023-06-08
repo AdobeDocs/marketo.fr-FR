@@ -1,7 +1,8 @@
 ---
 description: Inspecteur de campagne - Documents Marketo - Documentation du produit
 title: Inspecteur de campagne
-source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
+exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 7%
@@ -14,19 +15,19 @@ Utilisez l’ Inspecteur de campagne pour afficher/rechercher toutes vos campagn
 
 ## Activer l’Inspecteur de campagne {#enable-campaign-inspector}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/campaign-inspector-1.png)
 
-1. Cliquez sur **Poitrine au trésor**.
+1. Cliquez sur **[!UICONTROL Poitrine au trésor]**.
 
    ![](assets/campaign-inspector-2.png)
 
-1. Cliquez sur **Modifier** en regard de l’Inspecteur de campagne.
+1. Cliquez sur **[!UICONTROL Modifier]** en regard de l’Inspecteur de campagne.
 
    ![](assets/campaign-inspector-3.png)
 
-1. Sélectionnez la **Activé** , puis cliquez sur **Enregistrer**.
+1. Sélectionnez la **[!UICONTROL Activé]** , puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/campaign-inspector-4.png)
 
@@ -40,7 +41,7 @@ Une fois activé, l’onglet Inspecteur de campagne se trouve en regard de l’o
 
 ![](assets/campaign-inspector-5.png)
 
-Cliquez sur le bouton **Principales campagnes** pour filtrer selon différents types de campagnes.
+Cliquez sur le bouton **[!UICONTROL Principales campagnes]** pour filtrer selon différents types de campagnes.
 
 ![](assets/campaign-inspector-6.png)
 

@@ -2,9 +2,9 @@
 description: Configuration de l’administration - Documents Marketo - Documentation du produit
 title: Configuration de l’administrateur
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ Une fois que vous avez été ajouté en tant qu’administrateur système d’Ad
 
 ## Configuration initiale {#initial-setup}
 
-1. Une fois que vous avez été ajouté en tant qu’administrateur système désigné pour Marketo Engage (dans une organisation nouvelle ou établie), vous recevrez un e-mail de bienvenue. Dans cet email, cliquez sur **Prise en main**.
+1. Une fois que vous avez été ajouté en tant qu’administrateur système désigné pour Marketo Engage (dans une organisation nouvelle ou établie), vous recevrez un e-mail de bienvenue. Dans cet email, cliquez sur **[!UICONTROL Prise en main]**.
 
    ![](assets/admin-setup-1.png)
 
-1. Si vous avez déjà accédé à une application avec une Adobe ID, vous serez directement dirigé vers Adobe Admin Console. Si ce n’est pas le cas, [Configuration de votre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}.
+1. Si vous avez déjà accédé à une application avec une Adobe ID, vous serez directement dirigé vers Adobe Admin Console. Si ce n’est pas le cas, [Configuration de votre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
@@ -27,7 +27,7 @@ Une fois que vous avez été ajouté en tant qu’administrateur système d’Ad
 
 Une fois que l’administrateur système a accédé au Admin Console, il est temps de créer un profil de produit. C’est ainsi que vos utilisateurs/administrateurs ont accès à Marketo Engage.
 
-1. Sur la page Aperçu , sous Produits et services, cliquez sur **Marketo Engage**.
+1. Dans le **[!UICONTROL Présentation]** page, sous **[!UICONTROL Produits et services]**, cliquez sur **Marketo Engage**.
 
    ![](assets/admin-setup-3.png)
 
@@ -39,11 +39,11 @@ Une fois que l’administrateur système a accédé au Admin Console, il est tem
    >
    >Si vous disposez de plusieurs abonnements, ces étapes doivent être suivies pour chacun d’eux.
 
-1. Cliquez sur le bouton **Nouveau profil** bouton .
+1. Cliquez sur le bouton **[!UICONTROL Nouveau profil]** bouton .
 
    ![](assets/admin-setup-5.png)
 
-1. Attribuez un nom à votre profil de produit (le nom d’affichage et la description sont facultatifs), puis cliquez sur **Enregistrer**.
+1. Attribuez un nom à votre profil de produit (le nom d’affichage et la description sont facultatifs), puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/admin-setup-6.png)
 
@@ -53,4 +53,4 @@ Une fois que l’administrateur système a accédé au Admin Console, il est tem
 
 >[!MORELIKETHIS]
 >
->[Ajout ou suppression d’un administrateur de produit](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target=&quot;_blank&quot;}
+>[Ajout ou suppression d’un administrateur de produit](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}

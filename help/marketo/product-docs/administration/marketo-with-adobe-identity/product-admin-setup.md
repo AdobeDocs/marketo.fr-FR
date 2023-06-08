@@ -2,7 +2,7 @@
 description: Configuration de l’administrateur de produit - Documents Marketo - Documentation du produit
 title: Configuration de l’administrateur de produit
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -11,12 +11,12 @@ ht-degree: 0%
 
 # Configuration de l’administrateur de produit {#product-admin-setup}
 
-1. Une fois que vous avez été invité par un administrateur système, vous recevrez un e-mail de bienvenue. Dans cet email, cliquez sur **Prise en main**.
+1. Une fois que vous avez été invité par un administrateur système, vous recevrez un e-mail de bienvenue. Dans cet email, cliquez sur **[!UICONTROL Prise en main]**.
 
    ![](assets/admin-setup-7.png)
 
-1. Si vous avez déjà accédé à une application avec une Adobe ID, vous serez directement dirigé vers Adobe Admin Console. Si ce n’est pas le cas, [Configuration de votre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. Si vous avez déjà accédé à une application avec une Adobe ID, vous serez directement dirigé vers Adobe Admin Console. Si ce n’est pas le cas, [Configuration de votre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-8.png)
 
-C&#39;est aussi simple que ça ! Les administrateurs de produit sont principalement chargés d’ajouter des utilisateurs. [Découvrez comment le faire ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user).
+C&#39;est aussi simple que ça ! Les administrateurs de produit sont principalement chargés d’ajouter des utilisateurs. [Découvrez comment le faire ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}.

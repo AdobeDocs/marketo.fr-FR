@@ -1,7 +1,8 @@
 ---
 description: Informations sur l’API d’exportation en bloc - Documents Marketo - Documentation du produit
 title: Informations sur l’API d’exportation en bloc
-source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
+exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 5%
@@ -16,11 +17,11 @@ Découvrez comment vérifier combien [API d’extraction en bloc](https://develo
 >
 >Si vous avez besoin de capacités supplémentaires, contactez votre gestionnaire de compte.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/bulk-export-api-information-1.png)
 
-1. Cliquez sur **Services web**.
+1. Cliquez sur **[!UICONTROL Services web]**.
 
    ![](assets/bulk-export-api-information-2.png)
 

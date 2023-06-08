@@ -3,7 +3,7 @@ unique-page-id: 2360189
 description: Personnalisation des URL de votre page d’entrée avec un CNAME (Administration) - Documents Marketo - Documentation du produit
 title: Personnalisation des URL de votre page d’entrée avec un CNAME (Administration)
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 6%
@@ -42,15 +42,15 @@ Procédons à la configuration!
 
 1. Recherchez votre chaîne de compte.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Cliquez sur **Pages de destination**.
+1. Cliquez sur **[!UICONTROL Pages de destination]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
-1. Sous , **Pages d’entrée** copiez la chaîne de compte dans la section Paramètres .
+1. Sous , **[!UICONTROL Pages d’entrée]** copiez la chaîne de compte dans la section Paramètres .
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
@@ -64,19 +64,19 @@ Procédons à la configuration!
 
 1. Terminez la configuration CNAME.
 
-1. Une fois que votre service informatique a créé le CNAME, revenez à la **Administration** zone.
+1. Une fois que votre service informatique a créé le CNAME, revenez à la **[!UICONTROL Administration]** zone.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Cliquez sur **Pages de destination**.
+1. Cliquez sur **[!UICONTROL Pages de destination]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Sous , **Paramètres** , cliquez sur **Modifier**.
+1. Sous , **[!UICONTROL Paramètres]** , cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Saisissez votre CNAME dans **Nom de domaine pour les pages d’entrée**, saisissez votre **Page de secours**, saisissez votre **Page d’accueil**, puis cliquez sur **Enregistrer**.
+1. Saisissez votre CNAME dans **[!UICONTROL Nom de domaine pour les pages d’entrée]**, saisissez votre **[!UICONTROL Page de secours]**, saisissez votre **[!UICONTROL Page d’accueil]**, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

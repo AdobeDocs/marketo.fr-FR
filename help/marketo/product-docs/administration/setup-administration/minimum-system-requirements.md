@@ -3,7 +3,7 @@ unique-page-id: 2359900
 description: Configuration minimale requise - Documents Marketo - Documentation du produit
 title: Configuration système minimale
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
-source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -18,10 +18,10 @@ Si vous vous demandez ce dont vous avez besoin pour vous connecter et utiliser M
 >
 >iOS et Android ne sont pas encore pris en charge.
 
-* Ordinateur ou ordinateur portable exécutant Windows, OS X ou Linux
+* Ordinateur ou ordinateur portable en cours d’exécution [!DNL Windows], Mac OS X (ou version ultérieure) ou Linux
 * Clavier et souris
 * Écran avec une résolution minimale de 1 280 x 768
-* Navigateur à jour, voir [Navigateurs pris en charge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target=&quot;_blank&quot;} pour plus de détails
+* Navigateur à jour, voir [Navigateurs pris en charge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} pour plus de détails
 * Connexion Internet
 
 >[!NOTE]

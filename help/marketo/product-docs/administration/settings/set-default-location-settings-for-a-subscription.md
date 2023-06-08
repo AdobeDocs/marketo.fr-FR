@@ -3,7 +3,7 @@ unique-page-id: 2359902
 description: Définition des paramètres d’emplacement par défaut d’un abonnement - Documents Marketo - Documentation du produit
 title: Définition des paramètres de position par défaut pour un abonnement
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 2%
@@ -22,25 +22,25 @@ Cet article décrit comment un administrateur peut afficher et modifier les para
 
 Lorsqu’un administrateur modifie les paramètres d’emplacement par défaut, les utilisateurs nouvellement créés héritent de ces paramètres. Les utilisateurs peuvent toujours [modifier leur langue, leurs paramètres régionaux et leurs préférences de fuseau horaire ;](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) dans leurs comptes individuels.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-1.png)
 
-1. Cliquez sur **Emplacement**.
+1. Cliquez sur **[!UICONTROL Emplacement]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
-1. Cliquez sur **Modifier**.
+1. Cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
    Cet abonnement a été créé en anglais. Supposons que vous étiez à Londres et que vous souhaitiez changer le paramètre régional par défaut et le fuseau horaire. Le paramètre régional détermine le formatage des nombres, des dates et des heures.
 
-1. Sélectionnez la **Paramètres régionaux** et modifiez-le en **Anglais** (Royaume-Uni).
+1. Sélectionnez la **[!UICONTROL Paramètres régionaux]** et modifiez-le en **[!UICONTROL Anglais (Royaume-Uni)]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
-1. Enfin, choisissez la **Fuseau horaire**.
+1. Enfin, choisissez la **[!UICONTROL Fuseau horaire]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
@@ -52,17 +52,16 @@ Lorsqu’un administrateur modifie les paramètres d’emplacement par défaut, 
 
 Si vous modifiez les paramètres régionaux par défaut pour vos utilisateurs, vous pouvez également modifier les paramètres de format de devise.
 
-1. Cliquez sur **Modifier** dans Paramètres de devise d’abonnement.
+1. Cliquez sur **[!UICONTROL Modifier]** in [!UICONTROL Paramètres de devise d’abonnement].
 
    ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
-1. Sélectionnez le format de devise de votre choix, puis cliquez sur **Enregistrer**.
+1. Sélectionnez le format de devise de votre choix, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-7.png)
 
-   Félicitations ! Vous avez modifié les paramètres de votre emplacement pour l’abonnement.
+   Félicitations ! Vous avez modifié les paramètres de votre emplacement pour l’abonnement.
 
 >[!MORELIKETHIS]
 >
 >* [Sélectionner votre langue, langue et fuseau horaire](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
-

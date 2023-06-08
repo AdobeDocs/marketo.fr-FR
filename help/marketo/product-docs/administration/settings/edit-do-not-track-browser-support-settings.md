@@ -3,7 +3,7 @@ unique-page-id: 6095047
 description: Modifier les paramètres de prise en charge du navigateur - Documents Marketo - Documentation du produit
 title: Modification des paramètres de prise en charge du navigateur "Ne pas suivre"
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -22,19 +22,19 @@ ht-degree: 0%
 >
 >&quot;Ne pas effectuer de suivi&quot; sera défini sur Ignorer par défaut. Par conséquent, si c’est ce que vous souhaitez, vous n’aurez aucune mesure à prendre.
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **[!UICONTROL Administration]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Cliquez sur **Munchkin**.
+1. Cliquez sur **[!UICONTROL Munchkin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. Sous **Suivi des personnes**, cliquez sur **Modifier**.
+1. Sous **[!UICONTROL Suivi des personnes]**, cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Sélectionner **Assistance** et cliquez sur **Enregistrer**.
+1. Sélectionner **[!UICONTROL Assistance]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 

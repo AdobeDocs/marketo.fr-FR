@@ -3,7 +3,7 @@ unique-page-id: 2360305
 description: Création d’un onglet personnalisé pour la page Détails de la personne - Documents Marketo - Documentation du produit
 title: Création d’un onglet personnalisé pour la page Détails de la personne
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 3%
@@ -14,15 +14,15 @@ ht-degree: 3%
 
 Si vous recherchez un ensemble spécifique de champs dans le détail de la personne plusieurs fois, envisagez de créer une disposition personnalisée pour faciliter les choses.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. Cliquez sur **Gestion des champs**.
+1. Cliquez sur **[!UICONTROL Gestion des champs]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Cliquez sur le bouton **Concepteur de mise en page personnalisé** .
+1. Cliquez sur le bouton **[!UICONTROL Concepteur de mise en page personnalisé]** .
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -38,7 +38,7 @@ Si vous recherchez un ensemble spécifique de champs dans le détail de la perso
    >
    >Vous avez deux colonnes à utiliser.
 
-   Si vous décidez de supprimer un champ, cliquez avec le bouton droit de la souris sur le champ à supprimer, puis cliquez sur **Supprimer**.
+   Si vous décidez de supprimer un champ, cliquez avec le bouton droit de la souris sur le champ à supprimer, puis cliquez sur **[!UICONTROL Supprimer]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
