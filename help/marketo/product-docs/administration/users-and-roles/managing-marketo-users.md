@@ -3,7 +3,7 @@ unique-page-id: 2359906
 description: Gestion des utilisateurs de Marketo - Documents Marketo - Documentation du produit
 title: Gestion des utilisateurs Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 6%
@@ -14,27 +14,27 @@ ht-degree: 6%
 
 ## Création d’utilisateurs {#create-users}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-1.png)
 
-1. Cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/managing-marketo-users-2.png)
 
-1. Cliquez sur **Inviter un nouvel utilisateur**.
+1. Cliquez sur **[!UICONTROL Inviter un nouvel utilisateur]**.
 
    ![](assets/managing-marketo-users-3.png)
 
-1. Saisissez le **Adresse électronique**, **Prénom**, et **Nom**.
+1. Saisissez le **[!UICONTROL Email]**, **[!UICONTROL Prénom]**, et **[!UICONTROL Nom]**.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Vous pouvez éventuellement indiquer un motif pour l’invitation et sélectionner une date d’expiration dans la variable **Expiration d’accès** à l’aide du sélecteur de date.
+1. Vous pouvez éventuellement indiquer un motif pour l’invitation et sélectionner une date d’expiration dans la variable **[!UICONTROL Expiration d’accès]** à l’aide du sélecteur de date.
 
    ![](assets/managing-marketo-users-5.png)
 
-1. Cliquez sur **Suivant**.
+1. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/managing-marketo-users-6.png)
 
@@ -46,11 +46,11 @@ ht-degree: 6%
    >
    >Lorsque la date d’expiration arrive, l’utilisateur reçoit une notification d’expiration et son compte est verrouillé.
 
-1. Sélectionnez la **Rôle** de votre choix et cliquez sur **Suivant**.
+1. Sélectionnez la **[!UICONTROL Rôle]** de votre choix et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/managing-marketo-users-7.png)
 
-1. Si nécessaire, modifiez le message d’invitation. Cliquez sur **Envoyer**.
+1. Si nécessaire, modifiez le message d’invitation. Cliquez sur **Send**.
 
    ![](assets/managing-marketo-users-8.png)
 
@@ -68,37 +68,37 @@ Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs e
 
 ## Supprimer les utilisateurs {#delete-users}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-10.png)
 
-1. Cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/managing-marketo-users-11.png)
 
-1. Sélectionnez l’utilisateur à supprimer, puis cliquez sur **Supprimer un utilisateur**.
+1. Sélectionnez l’utilisateur à supprimer, puis cliquez sur **[!UICONTROL Supprimer un utilisateur]**.
 
    ![](assets/managing-marketo-users-12.png)
 
-1. Confirmer en cliquant sur **OK**.
+1. Confirmer en cliquant sur **[!UICONTROL OK]**.
 
    ![](assets/managing-marketo-users-13.png)
 
 ## Réinitialisation des mots de passe utilisateur {#reset-user-passwords}
 
-1. Cliquez sur l&#39;icône Admin.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-14.png)
 
-1. Cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/managing-marketo-users-15.png)
 
-1. Sélectionnez un utilisateur et cliquez sur **Réinitialiser le mot de passe**.
+1. Sélectionnez un utilisateur et cliquez sur **[!UICONTROL Réinitialiser le mot de passe]**.
 
    ![](assets/managing-marketo-users-16.png)
 
-1. Cliquez sur **Fermer** pour fermer l’invite.
+1. Cliquez sur **[!UICONTROL Fermer]** pour fermer l’invite.
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -110,19 +110,19 @@ L’utilisateur recevra un courrier électronique contenant des instructions de 
 
 ## Modification des autorisations et modification des informations utilisateur {#change-permissions-and-edit-user-information}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-18.png)
 
-1. Cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/managing-marketo-users-19.png)
 
-1. Sélectionnez un utilisateur et cliquez sur **Modifier l’utilisateur**.
+1. Sélectionnez un utilisateur et cliquez sur **[!UICONTROL Modifier l’utilisateur]**.
 
    ![](assets/managing-marketo-users-20.png)
 
-1. Vous pouvez modifier les informations utilisateur et modifier le rôle associé. Cliquez sur **Enregistrer**.
+1. Vous pouvez modifier les informations utilisateur et modifier le rôle associé. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/managing-marketo-users-21.png)
 

@@ -3,7 +3,7 @@ unique-page-id: 2360323
 description: Modification d’une partition de personne existante - Documents Marketo - Documentation du produit
 title: Modification d’une partition de personne existante
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 4%
@@ -20,24 +20,24 @@ Une partition de personne, c&#39;est comme avoir une deuxième (ou une troisièm
 
 >[!PREREQUISITES]
 >
->[Création d’une partition de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[Création d’une partition de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. Cliquez sur **Espaces de travail et partitions**.
+1. Cliquez sur **[!UICONTROL Espaces de travail et partitions]**.
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. Sous , **Partitions de personne** , sélectionnez la partition de personne à modifier, puis cliquez sur **Modifier la partition de personne**.
+1. Sous , **[!UICONTROL Partitions de personne]** , sélectionnez la partition de personne à modifier, puis cliquez sur **[!UICONTROL Modifier la partition de personne]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. Saisie de la partition de personne **Nom**, la variable **Espaces de travail** auquel ils appartiennent, puis cliquez sur **Enregistrer**.
+1. Saisie de la partition de personne **[!UICONTROL Nom]**, la variable **[!UICONTROL Espaces de travail]** auquel ils appartiennent, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-1. Après avoir enregistré les modifications, vous devriez voir la mise à jour !
+Après avoir enregistré les modifications, vous devriez voir la mise à jour !
 
-   ![](assets/edit-an-existing-person-partition-5.png)
+![](assets/edit-an-existing-person-partition-5.png)

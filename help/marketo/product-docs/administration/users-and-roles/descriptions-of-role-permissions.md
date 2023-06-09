@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Descriptions des autorisations de rôle - Documents Marketo - Documentation du produit
 title: Descriptions des autorisations de rôle
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1137'
 ht-degree: 19%
 
 ---
@@ -33,8 +33,8 @@ Affichez et apportez des modifications aux paramètres dans la section Mon compt
 * Accéder au journal d’audit : permet aux utilisateurs d’accéder au journal d’audit des ressources et au journal d’audit de l’administrateur.
 * Accès aux canaux : permet aux utilisateurs d’accéder uniquement à la balise Channel et non à d’autres balises personnalisées.
 * Limite de communication d’accès : permet aux utilisateurs d’activer une limite de communication dans Admin
-* Accès à la gestion de la relation client : permet aux utilisateurs d’accéder à la gestion de la relation client, comme Salesforce ou Microsoft Dynamics, dans Admin.
-* Accès [Data.com](https://Data.com) - Donne aux utilisateurs l’accès à l’action de flux Data.com
+* Accès au CRM : permet aux utilisateurs d’accéder au CRM, tel que [!DNL Salesforce] ou [!DNL Microsoft Dynamics], dans Admin
+* Accès [[!DNL Data.com]](https://Data.com) - Donne aux utilisateurs l’accès à l’action de flux Data.com
 * Accès à l’administrateur des courriers électroniques : permet aux utilisateurs de modifier les paramètres par défaut, tels que le désabonnement et les domaines de marque.
 * Accès aux partenaires d’événement : permet aux utilisateurs d’accéder à LaunchPoint dans Admin.
 * Gestion des champs d’accès : permet aux utilisateurs d’accéder à la gestion des champs dans Admin.
@@ -45,7 +45,7 @@ Affichez et apportez des modifications aux paramètres dans la section Mon compt
 * Paramètres de connexion d’accès : permet aux utilisateurs d’accéder aux paramètres de connexion dans les paramètres Administration pour la sécurité, les restrictions d’IP et les rapports de liste dynamique.
 * Accès à l’activité personnalisée Marketo - Donne aux utilisateurs l’accès aux activités personnalisées Marketo dans Admin
 * Accès à l’objet personnalisé de Marketo - Donne aux utilisateurs l’accès aux objets personnalisés de Marketo dans Admin
-* Accès à Munchkin : les utilisateurs de GI ont accès à Munchkin dans Admin pour définir le code de suivi, le suivi des personnes et activer la configuration de l’API.
+* Accès [!DNL Munchkin] - Accès des utilisateurs GI à [!DNL Munchkin] dans Admin, pour définir le code de suivi, le suivi des personnes et activer la configuration de l’API
 * Accès à Revenue Cycle Analytics : permet aux utilisateurs d’accéder à Revenue Cycle Analytics dans l’administration pour définir le résumé de synchronisation et l’attribution.
 * Rôles d’accès : donne aux utilisateurs l’accès à la gestion et à la modification des rôles, mais pas aux utilisateurs.
 * Accès à Sales Insight : permet aux utilisateurs de gérer Sales Insight dans Admin pour définir l’état, la configuration de l’API, la notation des personnes et d’autres paramètres.

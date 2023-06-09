@@ -2,7 +2,7 @@
 description: Vérification des courriers électroniques - Documents Marketo - Documentation du produit
 title: Vérification des emails
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Les utilisateurs recevront l’e-mail suivant lorsque la vérification par e-mai
 
 >[!NOTE]
 >
->Pour renvoyer un email de vérification à un utilisateur non vérifié, sélectionnez simplement son enregistrement et cliquez sur le bouton **Vérifier le courrier électronique** bouton .
+>Pour renvoyer un email de vérification à un utilisateur non vérifié, sélectionnez simplement son enregistrement et cliquez sur le bouton **[!UICONTROL Vérifier le courrier électronique]** bouton .
 
 ## Modification d’une adresse électronique {#changing-an-email-address}
 
-Lorsque l’adresse électronique d’un utilisateur est modifiée, elle n’est plus vérifiée. Un email leur sera envoyé pour leur permettre de vérifier à nouveau. Les utilisateurs peuvent renvoyer manuellement cet email en cliquant sur **Vérification du renvoi**.
+Lorsque l’adresse électronique d’un utilisateur est modifiée, elle n’est plus vérifiée. Un email leur sera envoyé pour leur permettre de vérifier à nouveau. Les utilisateurs peuvent renvoyer manuellement cet email en cliquant sur **[!UICONTROL Vérification du renvoi]**.
 
 ![](assets/email-verification-2.png)
 
@@ -41,7 +41,7 @@ Lorsque l’adresse électronique d’un utilisateur est modifiée, elle n’est
 
 ## Utilisateurs et rôles {#users-and-roles}
 
-Dans **Administration** > **Utilisateurs et rôles**, la colonne État de l’email indique l’état de vérification de chaque utilisateur.
+Dans **[!UICONTROL Administration]** > **[!UICONTROL Utilisateurs et rôles]**, la colonne État de l’email indique l’état de vérification de chaque utilisateur.
 
 ![](assets/email-verification-4.png)
 

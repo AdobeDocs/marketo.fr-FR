@@ -3,7 +3,7 @@ unique-page-id: 7515767
 description: Partage de segments entre espaces de travail et partitions - Documents Marketo - Documentation du produit
 title: Partage de segments entre espaces de travail et partitions
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -38,10 +38,10 @@ Une fois ces personnages configurés (_et_ si vous utilisez des espaces de trava
       * Approuver la segmentation
       * L’espace de travail partagé voit un dossier verrouillé et la segmentation est en lecture seule.
       * La version partagée ne peut pas être modifiée. Vous ne pouvez modifier que la segmentation d’origine dans laquelle elle a été créée.
+
    * Lorsque vous cliquez sur un segment (par exemple, Health Care) dans une segmentation partagée, les personnes que vous voyez ne seront que des personnes dans la partition associée à l’espace de travail que vous visualisez.
       * Si vous créez une segmentation dans Workspace 1 (WS1) et que vous la partagez avec WS2 et WS1 n’a pas accès à la partition pour WS2, la segmentation NE SERA PAS recalculée.
       * Si vous créez une Segmentation dans un espace de travail qui comporte des partitions limitées, puis que vous la partagez avec un autre espace de travail, cet espace de travail qui a reçu la Segmentation partagée ne verra les personnes que s’ils se chevauchent.
-
 
 >[!NOTE]
 >
@@ -55,15 +55,15 @@ Une fois ces personnages configurés (_et_ si vous utilisez des espaces de trava
 
 ## Partage d’une segmentation {#share-a-segmentation}
 
-1. Accédez au **Base**.
+1. Accédez au **[!UICONTROL Base]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Clic droit **Segments** et sélectionnez **Nouveau dossier**.
+1. Clic droit **[!UICONTROL Segments]** et sélectionnez **[!UICONTROL Nouveau dossier]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Nommez le dossier que vous allez partager dans les espaces de travail (par exemple : Partager des segments) et cliquez sur **Créer**.
+1. Nommez le dossier que vous allez partager dans les espaces de travail (par exemple : Partager des segments) et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -71,11 +71,11 @@ Une fois ces personnages configurés (_et_ si vous utilisez des espaces de trava
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. Cliquez avec le bouton droit sur le dossier et sélectionnez **Partager le dossier**.
+1. Cliquez avec le bouton droit sur le dossier et sélectionnez **[!UICONTROL Partager le dossier]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. Sélectionnez le ou les espaces de travail avec lesquels vous souhaitez partager le dossier. Cliquez sur **Enregistrer**.
+1. Sélectionnez le ou les espaces de travail avec lesquels vous souhaitez partager le dossier. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

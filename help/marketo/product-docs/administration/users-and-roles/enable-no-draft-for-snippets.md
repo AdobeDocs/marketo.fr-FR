@@ -3,7 +3,7 @@ unique-page-id: 10095636
 description: Activation de l’option Aucun brouillon pour les fragments de code - Documents Marketo - Documentation du produit
 title: Activation de l’option Aucun brouillon pour les fragments de code
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-source-git-commit: 247452f2149dee1680bb15800a39f6686aa324f2
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -24,34 +24,34 @@ Aucun brouillon est automatiquement activé pour tous les rôles d’administrat
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
-1. Cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. Accédez au **Rôles** , sélectionnez un rôle, puis cliquez sur **Modifier le rôle**.
+1. Accédez au **[!UICONTROL Rôles]** , sélectionnez un rôle, puis cliquez sur **[!UICONTROL Modifier le rôle]**.
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
-1. Développez l’objet **Accès à Design Studio** .
+1. Développez l’objet **[!UICONTROL Accès à Design Studio]** .
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. Développez l’objet **Extrait de code d’accès** .
+1. Développez l’objet **[!UICONTROL Extrait de code d’accès]** .
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. Développez l’objet **Approuver le fragment de code** et vérifiez les **No-Draft** de la boîte. Cliquez ensuite sur **Enregistrer**.
+1. Développez l’objet **[!UICONTROL Approuver le fragment de code]** et vérifiez les **[!UICONTROL No-Draft]** de la boîte. Cliquez ensuite sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->Pour désactiver No Draft (Aucun brouillon), suivez les étapes 1 à 4 ci-dessus, décochez la case No Draft (Pas de brouillon), puis cliquez sur **Enregistrer**.
+>Pour désactiver No Draft (Aucun brouillon), suivez les étapes 1 à 4 ci-dessus, décochez la case No Draft (Pas de brouillon), puis cliquez sur **[!UICONTROL Enregistrer]**.
 
 >[!MORELIKETHIS]
 >
->[Approbation d’un fragment de code sans brouillon](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[Approbation d’un fragment de code sans brouillon](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}

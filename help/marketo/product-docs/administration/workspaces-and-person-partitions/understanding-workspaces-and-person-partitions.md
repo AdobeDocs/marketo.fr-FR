@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Présentation des espaces de travail et des partitions de personne - Documents Marketo - Documentation du produit
 title: Présentation des espaces de travail et des partitions de personne
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '517'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,7 @@ Les espaces de travail sont des zones distinctes de Marketo qui contiennent des 
 >Pour certaines raisons, vous pouvez utiliser un espace de travail :
 >
 >* Géographie : Les départements marketing d’Europe, d’Asie et d’Amérique du Nord ont chacun un espace de travail
->* Unité opérationnelle : Des livres rapides, des livres rapides et des Turbo Tax ont chacun un espace de travail
+>* Unité opérationnelle : [!DNL Quicken], [!DNL Quickbooks] et [!DNL TurboTax] chaque accès à un espace de travail
 >
 >Dans chaque cas, la séparation est due au fait que les ressources marketing sont complètement différentes. S’ils partagent des ressources marketing, les espaces de travail peuvent ne pas être l’outil idéal pour vous.
 
@@ -43,15 +43,15 @@ Voici comment partager des ressources entre espaces de travail. Il fonctionne de
 >
 >Le dossier parent contenant vos ressources est le seul dossier qui peut être partagé, et non les dossiers enfants.
 
-1. Cliquez sur Base de données.
+1. Cliquez sur **[!UICONTROL Base]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Cliquez avec le bouton droit de la souris sur le dossier Segmentation, puis cliquez sur **Nouveau dossier**.
+1. Cliquez avec le bouton droit de la souris sur le dossier Segmentation, puis cliquez sur **[!UICONTROL Nouveau dossier]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. Nommez votre dossier et cliquez sur **Créer**.
+1. Nommez votre dossier et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -59,11 +59,11 @@ Voici comment partager des ressources entre espaces de travail. Il fonctionne de
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Cliquez avec le bouton droit sur le dossier et sélectionnez **Partager le dossier**.
+1. Cliquez avec le bouton droit sur le dossier et sélectionnez **[!UICONTROL Partager le dossier]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Sélectionnez le ou les espaces de travail avec lesquels vous souhaitez partager le dossier et cliquez sur **Enregistrer**. La boîte de dialogue Partager le dossier affiche uniquement les espaces de travail que vous êtes autorisé à afficher.
+1. Sélectionnez le ou les espaces de travail avec lesquels vous souhaitez partager le dossier et cliquez sur **[!UICONTROL Enregistrer]**. La boîte de dialogue Partager le dossier affiche uniquement les espaces de travail que vous êtes autorisé à afficher.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -118,7 +118,6 @@ Vous pouvez affecter des partitions à des personnes.  [espaces de travail](crea
 >
 >* Vos espaces de travail ne contiennent pas seulement des ressources différentes, mais ne partagent pas non plus de personnes.
 >* Vous souhaitez des doublons pour d’autres raisons commerciales.
-
 
 >[!CAUTION]
 >

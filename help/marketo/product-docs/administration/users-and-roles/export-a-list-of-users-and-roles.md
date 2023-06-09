@@ -3,7 +3,7 @@ unique-page-id: 2359912
 description: Exportation d’une liste d’utilisateurs et de rôles - Documents Marketo - Documentation du produit
 title: Exportation d’une liste d’utilisateurs et de rôles
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 Il est assez facile d’exporter une liste complète de vos utilisateurs et rôles utilisateur. Voici comment.
 
-1. Accédez à **Administration**.
+1. Accédez à **[!UICONTROL Administration]**.
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
-1. Cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 
@@ -30,14 +30,14 @@ Il est assez facile d’exporter une liste complète de vos utilisateurs et rôl
 
    >[!TIP]
    >
-   >Pour exporter des rôles, accédez au **Rôles** d’abord, puis exportez.
+   >Pour exporter des rôles, accédez au **[!UICONTROL Rôles]** d’abord, puis exportez.
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 
-1. Cliquez sur le bouton **Exporter** icône .
+1. Cliquez sur le bouton **[!UICONTROL Exporter]** icône .
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 
-   Et c&#39;est tout les gars ! Vous devez télécharger le nouveau fichier Excel.
+   Et c&#39;est tout, les gars ! Vous devez télécharger le nouveau fichier Excel.
 
    ![](assets/export-a-list-of-users-and-roles-5.png)

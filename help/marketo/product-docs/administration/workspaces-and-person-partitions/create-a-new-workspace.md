@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: Création d’un espace de travail - Documents Marketo - Documentation du produit
 title: Création d’un espace de travail
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 3%
 
 ---
@@ -31,28 +31,27 @@ Voici comment créer un espace de travail.
 >
 >Pour en savoir plus sur les bonnes pratiques relatives à Workspace, veuillez contacter [Services professionnels Marketo](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. Cliquez sur **Espaces de travail et partitions**.
+1. Cliquez sur **[!UICONTROL Espaces de travail et partitions]**.
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. Cliquez sur **Nouvel espace de travail**.
+1. Cliquez sur **[!UICONTROL Nouvel espace de travail]**.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Saisissez un **Nom**, puis sélectionnez la variable **Partition(s) de personne** vous voulez utiliser. Choisissez une **Partition de personne Principal**. Veillez à [créer des partitions pour personnes](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} si vous ne l&#39;avez pas déjà fait.
+1. Saisissez un **[!UICONTROL Nom]**, puis sélectionnez la variable **[!UICONTROL Partitions de personne]** vous voulez utiliser. Choisissez une **[!UICONTROL Partition de personne Principal]**. Veillez à [créer des partitions pour personnes](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} si vous ne l&#39;avez pas déjà fait.
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* Le **Toutes les partitions de personne** signifie que cet espace de travail peut utiliser toutes les partitions de personne dans le système.
+   >* Le **[!UICONTROL Toutes les partitions de personne]** signifie que cet espace de travail peut utiliser toutes les partitions de personne dans le système.
    >
-   >* Le **partition de personne Principale** agit comme valeur par défaut et est l’emplacement où toutes les personnes seront affectées.
-
+   >* Le **[!UICONTROL Partition de personne Principal]** agit comme valeur par défaut et est l’emplacement où toutes les personnes seront affectées.
 
    >[!IMPORTANT]
    >
@@ -66,7 +65,7 @@ Voici comment créer un espace de travail.
    >
    >Lors de sa création, Marketo envoie des exemples de ressources dans l’espace de travail. La langue permet à ces objets d’amorce d’être dans une langue autre que l’anglais.
 
-1. Cliquez sur **Créer**.
+1. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/create-a-new-workspace-6.png)
 

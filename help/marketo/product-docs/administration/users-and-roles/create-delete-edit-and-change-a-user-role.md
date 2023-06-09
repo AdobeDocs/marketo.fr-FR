@@ -3,7 +3,7 @@ unique-page-id: 2360198
 description: Création, suppression, modification et modification d’un rôle d’utilisateur - Documents Marketo - Documentation du produit
 title: Création, suppression, modification et modification d’un rôle d’utilisateur
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 9%
@@ -28,40 +28,39 @@ ht-degree: 9%
 >* Éditeur RTP
 >* Dispositif de lancement RTP
 
-
 ## Création d’un rôle {#create-a-role}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
-1. Cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
-1. Accédez au **Onglet Rôles** et cliquez sur **Nouveau rôle**.
+1. Accédez au **[!UICONTROL Rôles]** et cliquez sur **[!UICONTROL Nouveau rôle]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
-1. Nommez votre nouveau rôle, vérifiez toutes les autorisations que vous souhaitez accorder aux utilisateurs associés au rôle, puis cliquez sur **Créer**.
+1. Nommez votre nouveau rôle, vérifiez toutes les autorisations que vous souhaitez accorder aux utilisateurs associés au rôle, puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## Suppression d’un rôle {#delete-a-role}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
-1. Cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
-1. Sous , **Rôles** sélectionnez un rôle, puis cliquez sur **Supprimer le rôle**.
+1. Sous , **[!UICONTROL Rôles]** sélectionnez un rôle, puis cliquez sur **[!UICONTROL Supprimer le rôle]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
-1. Confirmez la suppression en cliquant sur **Supprimer**.
+1. Confirmez la suppression en cliquant sur **[!UICONTROL Supprimer]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-8.png)
 
@@ -75,23 +74,23 @@ ht-degree: 9%
 >
 >Pour modifier votre propre rôle d’utilisateur, vous devez vous connecter en tant qu’autre utilisateur disposant des droits d’administrateur.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
-1. Cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
-1. Cliquez sur le bouton **Rôles** .
+1. Cliquez sur le bouton **[!UICONTROL Rôles]** .
 
    ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
-1. Sélectionnez le rôle à modifier, puis cliquez sur **Modifier le rôle**.
+1. Sélectionnez le rôle à modifier, puis cliquez sur **[!UICONTROL Modifier le rôle]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
-1. Apportez toutes les modifications nécessaires, puis cliquez sur **Enregistrer**.
+1. Apportez toutes les modifications nécessaires, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
@@ -105,19 +104,19 @@ ht-degree: 9%
 
 ## Modification du rôle d’un utilisateur {#change-a-users-role}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 
-1. Cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 
-1. Sélectionnez l’utilisateur auquel vous souhaitez affecter un rôle différent, puis cliquez sur **Modifier l’utilisateur.**
+1. Sélectionnez l’utilisateur auquel vous souhaitez affecter un rôle différent, puis cliquez sur **[!UICONTROL Modifier l’utilisateur]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 
-1. Décochez le rôle précédent, sélectionnez le nouveau rôle, puis cliquez sur **Enregistrer**.
+1. Décochez le rôle précédent, sélectionnez le nouveau rôle, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-17.png)
 
