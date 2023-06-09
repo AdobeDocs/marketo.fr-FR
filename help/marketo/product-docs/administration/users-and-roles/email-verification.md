@@ -2,9 +2,9 @@
 description: Vérification des courriers électroniques - Documents Marketo - Documentation du produit
 title: Vérification des emails
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Vérification des emails {#email-verification}
 
 Les abonnements à Adobe Marketo Engage requièrent que tous les utilisateurs non-API uniquement, y compris les administrateurs de Marketo Engage, vérifient leur adresse électronique. Les utilisateurs de l’authentification unique (SSO) qui ne se voient pas attribuer un rôle d’administrateur ou qui se voient attribuer un rôle avec l’autorisation &quot;Contourner la connexion unique&quot; verront leur email automatiquement vérifié lorsque leur abonnement est activé avec la fonction de vérification des emails.
+
+## Pourquoi cette fonctionnalité a été introduite {#why-this-feature-was-introduced}
+
+Marketo Engage continue le déploiement de la vérification des courriers électroniques en vue de la migration des clients vers Adobe Business Platform, y compris la migration des utilisateurs vers les identifiants d’Adobe. Cette fonctionnalité renforce la sécurité des comptes d’utilisateurs de Marketo Engage existants. Pour s’assurer qu’un utilisateur Marketo Engage est associé à l’Adobe ID approprié, les utilisateurs Marketo Engage existants doivent vérifier leur adresse électronique. Un utilisateur Marketo Engage doit disposer d’une adresse électronique vérifiée pour effectuer la migration vers Adobe ID. Si un utilisateur Marketo Engage ne vérifie pas son adresse électronique, il ne peut pas être migré vers un Adobe ID et n’aura plus accès à un abonnement Marketo une fois la migration de l’utilisateur terminée.
 
 ## Invitation d’utilisateur {#user-invite}
 
@@ -49,7 +53,7 @@ Un seul compte utilisateur peut être associé à une seule adresse électroniqu
 * Utiliser un nouveau courrier électronique pour l’ID de connexion de l’utilisateur actuel
 * Retarder la décision jusqu’à la prochaine connexion
 
-   ![](assets/email-verification-5.png)
+  ![](assets/email-verification-5.png)
 
 >[!NOTE]
 >

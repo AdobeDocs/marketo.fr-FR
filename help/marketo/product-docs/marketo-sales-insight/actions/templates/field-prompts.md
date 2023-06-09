@@ -1,7 +1,7 @@
 ---
 description: Instructions de champ - Documents Marketo - Documentation du produit
 title: Invite de champ
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -23,6 +23,8 @@ Pour ajouter une invite de champ, saisissez le texte de votre choix. Préfacez-l
 `{{! Add sentence that references their industry and role}}`
 
 <p>Les utilisateurs devront remplacer ce texte par leur propre personnalisation avant que l'email puisse être envoyé.
+
+![](assets/field-prompts-1.png)
 
 >[!NOTE]
 >
