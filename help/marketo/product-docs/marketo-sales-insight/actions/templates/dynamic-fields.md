@@ -2,9 +2,9 @@
 description: Champs dynamiques - Documents Marketo - Documentation du produit
 title: Champs dynamiques
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 6d4a093d0ce0158028177cc4a4088526ccf79f9d
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '487'
 ht-degree: 1%
 
 ---
@@ -37,13 +37,13 @@ Il vous suffit de les copier et de les coller manuellement dans le champ d’obj
 
 Lors de l’ajout de champs dynamiques à vos modèles d’email, vous pouvez ajouter une valeur par défaut à laquelle le champ dynamique se résout si aucune autre valeur n’est disponible.
 
-Pour ce faire, ajoutez &quot;|&quot; après le libellé du champ dynamique, puis ajoutez &quot;default:&quot;. Ajoutez ensuite la valeur à laquelle le champ doit se résoudre si aucune autre valeur n’est trouvée.
+Pour ce faire, ajoutez &quot;|&quot; après le libellé du champ dynamique, puis ajoutez &quot;default:&quot; (les deux sans guillemets). Ajoutez ensuite la valeur à laquelle le champ doit se résoudre (entre guillemets) si aucune autre valeur n’est trouvée.
 
 **Exemple:**
 
-`{{first name | default: loyal customer}}`
+`{{first name | default: "loyal customer"}}`
 
-`{{sfdc_contact_account_name | default: your company}}`
+`{{sfdc_contact_account_name | default: "your company"}}`
 
 ## Glossaire des champs dynamiques {#dynamic-fields-glossary}
 
