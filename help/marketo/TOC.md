@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
 workflow-type: tm+mt
-source-wordcount: '8911'
+source-wordcount: '8920'
 ht-degree: 5%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 5%
          + [Ajout d’audiences mappées LinkedIn en tant que service LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Envoi d’une liste à un réseau publicitaire](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Chat dynamique {#dynamic-chat}
-         + [Présentation du Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Présentation de la conversation dynamique](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configuration initiale](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Ajout ou suppression d’utilisateurs de conversation](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Notifications du navigateur](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
@@ -634,7 +634,7 @@ ht-degree: 5%
             + [Réunions](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [Routage](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Intégrations {#integrations}
-            + [Connexion du Dynamic Chat à Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Connexion de la messagerie dynamique à Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Utilisation de la carte de document](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Dialogues {#dialogues}
             + [Présentation de la boîte de dialogue](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
@@ -1351,6 +1351,7 @@ ht-degree: 5%
                + [Configuration des actions d’aperçu des ventes dans Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Désinstallation de Marketo Sales Connect à partir de Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
                + [Désinstallation de Marketo Sales Connect à partir de Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+               + [Mettre à jour le champ Type d’activité lors de la connexion des activités à Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
          + E-mail {#email}
             + Centre de contrôle {#command-center}
                + [Aperçu de la recherche avancée](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)

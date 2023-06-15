@@ -3,7 +3,7 @@ unique-page-id: 14352476
 description: Champ Type d’activité sur les tâches (SFDC) - Documents Marketo - Documentation du produit
 title: Champ Type d’activité sur les tâches (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 1%
@@ -37,7 +37,7 @@ Vérifiez d’abord que les valeurs correctes de liste de sélection sont en pla
 1. Vous vous trouvez maintenant sur la liste de sélection du type de tâche. Assurez-vous qu’aucun &quot;Par défaut&quot; n’est sélectionné.
 1. Assurez-vous qu’une valeur Type est répertoriée pour Email, Call et Reply.
 
-Maintenant que ce champ est en place, vous allez commencer à voir le champ Type renseigner la valeur correspondante pour les emails, les appels et les réponses consignés. Ces valeurs seront **not** être renseignée lors des tâches de rappel de Sales Connect.
+Maintenant que ce champ est en place, vous allez commencer à voir le champ Type renseigner la valeur correspondante pour les emails, les appels et les réponses consignés. Ces valeurs seront _not_ être renseignée lors des tâches de rappel de Sales Connect.
 
 >[!NOTE]
 >
