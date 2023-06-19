@@ -2,9 +2,9 @@
 description: Configuration de la personnalisation des détails de l’activité Salesforce - Documents Marketo - Documentation du produit
 title: Configuration de la personnalisation des détails de l’activité Salesforce
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
-source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '709'
 ht-degree: 1%
 
 ---
@@ -14,8 +14,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* Actions Salesforce et Sales Insight [doit être connecté](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* Connexion de l’activité d’email via l’API [doit être activé](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-
+>* Connexion de l’activité d’email via l’API [doit être activé](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 La personnalisation des détails de l’activité permet aux administrateurs de configurer les informations qui se connecteront au champ Tâche Salesforce - Objet lorsqu’une tâche d’action/de rappel d’aperçu des ventes est synchronisée dans Salesforce.
 
@@ -23,7 +22,6 @@ La personnalisation des détails de l’activité permet aux administrateurs de 
 >
 >* Les mises à jour apportées au champ d’objet dans les actions d’aperçu des ventes d’une tâche de rappel sont répercutées dans le champ d’objet de la tâche Salesforce correspondante, si vous utilisez le `{{activity_subject}}` champ dynamique de la personnalisation des détails de l’activité.
 >* Les sauts de ligne ne sont pas pris en charge lors de la journalisation des informations dans le champ d’objet Salesforce. Tout saut de ligne dans l’éditeur de personnalisation des détails de l’activité est supprimé lorsqu’un objet de tâche de vente est mis à jour.
-
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -91,11 +89,11 @@ Les champs dynamiques d’activité renvoient des informations sur vos activité
   <td>Si l’activité a été lancée à partir d’une campagne de ventes, elle indique le numéro de l’étape dans le jour de la campagne de vente où cette activité a eu lieu.</td>
  </tr>
  <tr>
-  <td>{{call_result}}</td>
+  <td>{{call_outcome}}</td>
   <td>Si l’activité est un appel et qu’un résultat d’appel est sélectionné, la valeur du résultat de l’appel est renseignée.</td>
  </tr>
  <tr>
-  <td>{{call_reason}</td>
+  <td>{{call_reason}}</td>
   <td>Si l’activité est un appel et qu’un motif d’appel est sélectionné, la valeur de la raison de l’appel est renseignée.</td>
  </tr>
 </table>
@@ -146,6 +144,5 @@ Lors de la configuration des détails de votre activité, tenez compte des donn�
 
 >[!MORELIKETHIS]
 >
->* [Paramètres de synchronisation](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Synchroniser les activités de vente avec Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Synchronisation de la tâche de rappel avec Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
-

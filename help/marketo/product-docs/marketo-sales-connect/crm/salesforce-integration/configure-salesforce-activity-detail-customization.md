@@ -2,7 +2,7 @@
 description: Configuration de la personnalisation des détails de l’activité Salesforce - Documents Marketo - Documentation du produit
 title: Configuration de la personnalisation des détails de l’activité Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 1%
@@ -16,14 +16,12 @@ ht-degree: 1%
 >* Salesforce et Marketo Sales Connect [doit être connecté](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
 >* Connexion de l’activité d’email via l’API [doit être activé](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
-
 La personnalisation des détails de l’activité permet aux administrateurs de configurer les informations qui se connecteront au champ d’objet Tâche Salesforce lorsqu’une tâche de rappel/activité de connexion aux ventes est synchronisée avec Salesforce.
 
 >[!NOTE]
 >
 >* Les mises à jour apportées au champ d’objet dans Sales Connect d’une tâche de rappel sont répercutées dans le champ d’objet de la tâche Salesforce correspondante, si vous utilisez le `{{activity_subject}}` champ dynamique de la personnalisation des détails de l’activité.
 >* Les sauts de ligne ne sont pas pris en charge lors de la journalisation des informations dans le champ d’objet Salesforce. Tout saut de ligne dans l’éditeur de personnalisation des détails de l’activité est supprimé lorsqu’un objet de tâche de vente est mis à jour.
-
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -91,11 +89,11 @@ Les champs dynamiques d’activité renvoient des informations sur vos activité
   <td>Si l’activité a été lancée à partir d’une campagne de ventes, elle indique le numéro de l’étape dans le jour de la campagne de vente où cette activité a eu lieu.</td>
  </tr>
  <tr>
-  <td>{{call_result}}</td>
+  <td>{{call_outcome}}</td>
   <td>Si l’activité est un appel et qu’un résultat d’appel est sélectionné, la valeur du résultat de l’appel est renseignée.</td>
  </tr>
  <tr>
-  <td>{{call_reason}</td>
+  <td>{{call_reason}}</td>
   <td>Si l’activité est un appel et qu’un motif d’appel est sélectionné, la valeur de la raison de l’appel est renseignée.</td>
  </tr>
 </table>
@@ -149,4 +147,3 @@ Lors de la configuration des détails de votre activité, tenez compte des donn�
 >* [Paramètres de synchronisation](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Synchronisation de la tâche de rappel avec Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
 >* [Personnalisation de Sales Connect pour le CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
-

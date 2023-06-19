@@ -1,9 +1,10 @@
 ---
 description: Mettre à jour le champ Type d’activité lors de la connexion des activités à Salesforce - Documents Marketo - Documentation du produit
 title: Mettre à jour le champ Type d’activité lors de la connexion des activités à Salesforce
-source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
+exl-id: f65d7d97-ec65-4210-9381-02be788498f9
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -59,4 +60,4 @@ Maintenant que ce champ est en place, vous allez commencer à voir le champ Type
 >
 >* [Connexion des attributs d’activité de vente à Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
 >* [Configuration de la personnalisation des détails de l’activité Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
->* [Paramètres de synchronisation Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md){target="_blank"}
+>* [Synchroniser les activités de vente avec Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

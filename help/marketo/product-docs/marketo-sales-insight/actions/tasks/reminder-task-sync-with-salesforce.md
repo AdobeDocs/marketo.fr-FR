@@ -2,7 +2,7 @@
 description: Synchronisation des tâches de rappel avec Salesforce - Documents Marketo - Documentation du produit
 title: Synchronisation de la tâche de rappel avec Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Pour savoir comment activer l’extraction de synchronisation des tâches [Synchroniser les tâches/rappels des actions Sales Insight avec les tâches Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
+>Pour savoir comment activer l’extraction de synchronisation des tâches [Synchroniser les tâches/rappels des actions Sales Insight avec les tâches Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
 
 Une fois les paramètres de synchronisation des tâches activés, les utilisateurs verront leurs tâches de rappel synchronisées de manière bidirectionnelle avec Salesforce. Cela signifie que les utilisateurs peuvent gérer les tâches à partir des actions Salesforce ou Sales Insight et se fier à l’alignement des systèmes.
 

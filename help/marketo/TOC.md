@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '8920'
+source-wordcount: '8933'
 ht-degree: 5%
 
 ---
@@ -634,7 +634,7 @@ ht-degree: 5%
             + [Réunions](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [Routage](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Intégrations {#integrations}
-            + [Connexion de la messagerie dynamique à Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Connexion du Dynamic Chat à Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Utilisation de la carte de document](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Dialogues {#dialogues}
             + [Présentation de la boîte de dialogue](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
@@ -1345,7 +1345,7 @@ ht-degree: 5%
                + [Désolidariser Salesforce des actions Sales Insight](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Journalisation des réponses](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Diagnostics Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
-               + [Paramètres de synchronisation Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+               + [Synchroniser les activités de vente avec Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Configuration du package Salesforce {#salesforce-package-configuration}
                + [Connexion des attributs d’activité de vente à Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Configuration des actions d’aperçu des ventes dans Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
@@ -1395,6 +1395,7 @@ ht-degree: 5%
             + [Quels sont les termes des actions d’aperçu de vente ?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [Pourquoi mes contacts ne sont-ils pas orientés vers les actions d’aperçu des ventes ?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [Pourquoi mes champs dynamiques ne se remplissent-ils pas ?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
+            + [Pourquoi mes activités de vente et mes champs d’activité ne sont-ils pas synchronisés avec Salesforce ?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [Pourquoi ne puis-je pas supprimer un contact ?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Pourquoi tous mes contacts n’ont-ils pas été amenés à des actions d’aperçu des ventes ?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Pourquoi le suivi de l’activité ne s’affiche-t-il pas dans l’activité Salesforce ?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
