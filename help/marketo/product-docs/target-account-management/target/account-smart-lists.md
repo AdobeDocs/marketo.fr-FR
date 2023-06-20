@@ -3,10 +3,10 @@ unique-page-id: 11378814
 description: Listes dynamiques de compte - Documents Marketo - Documentation du produit
 title: Listes dynamiques de compte
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '508'
+ht-degree: 1%
 
 ---
 
@@ -64,7 +64,7 @@ Les listes dynamiques de compte fonctionnent de la même manière que les listes
 
    ![](assets/account-smart-lists-9.png)
 
-**Étape facultative**: C&#39;est là que les conteneurs entrent. Si vous choisissez un autre filtre de personne mise en correspondance, vous pouvez le déposer sous le premier, ou _in_ créer un conteneur. Dans cet exemple, nous allons créer un conteneur en ajoutant _Titre de la tâche : CFO_.
+**ÉTAPE FACULTATIVE**: C&#39;est là que les conteneurs entrent. Si vous choisissez un autre filtre de personne mise en correspondance, vous pouvez le déposer sous le premier, ou _in_ créer un conteneur. Dans cet exemple, nous allons créer un conteneur en ajoutant _Titre de la tâche : CFO_.
 
 ![](assets/account-smart-lists-10.png)
 

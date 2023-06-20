@@ -1,11 +1,9 @@
 ---
 description: Ajout de boutons d’action à la vue Liste Salesforce - Documents Marketo - Documentation du produit
 title: Ajouter des boutons d’action en mode Liste Salesforce
-hide: true
-hidefromtoc: true
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '292'
 ht-degree: 2%
 
 ---
@@ -49,6 +47,6 @@ Les boutons d’action à installer incluent :
 
 >[!MORELIKETHIS]
 >
->* Utilisation de l’envoi d’emails en bloc dans Salesforce (doit être créé)
->* Utilisation de l’option Ajouter en bloc à la campagne de ventes dans Salesforce (doit être créée)
+>* [Utilisation de l’envoi groupé de courriers électroniques de vente dans Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
+>* [Utilisation de l’ajout en bloc à la campagne de ventes dans Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
 >* [Installation du package Marketo Sales Insight dans l’AppExchange Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

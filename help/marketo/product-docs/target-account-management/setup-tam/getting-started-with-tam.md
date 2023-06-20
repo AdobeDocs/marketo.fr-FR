@@ -3,7 +3,7 @@ unique-page-id: 12255457
 description: Prise en main de TAM - Documents Marketo - Documentation du produit
 title: Prise en main de TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Obtenir l’ajout de Marketo TAM à votre instance ? Fantastique ! Regardons ce
 * [Découvrez les entreprises Marketo](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies) - Affichez une liste des entreprises provenant de sources autres que votre gestion de la relation client et filtrez à l’aide d’attributs clés pour créer des comptes nommés
 * [Création manuelle d’un compte nommé](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md) - Si vous créez manuellement un compte nommé, l’étape suivante consiste à [remplissez-le avec des gens](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md) manuellement
 
-**Étape facultative : [Créer et configurer des listes de comptes](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** - Regroupez les comptes dans des listes vous permettant de cibler les comptes nommés par secteur, emplacement ou taille de l’entreprise.
+**ÉTAPE FACULTATIVE : [Créer et configurer des listes de comptes](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** - Regroupez les comptes dans des listes vous permettant de cibler les comptes nommés par secteur, emplacement ou taille de l’entreprise.
 
 Après avoir suivi les étapes ci-dessus, vous êtes prêt à commencer à utiliser TAM !

@@ -2,7 +2,7 @@
 description: État de synchronisation Salesforce - Documents Marketo - Documentation du produit
 title: Statut de synchronisation Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 14%
@@ -47,7 +47,7 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Étape facultative**: Pour exporter les erreurs de synchronisation, cliquez sur **Exporter**. Les données seront exportées au format CSV.
+**ÉTAPE FACULTATIVE**: Pour exporter les erreurs de synchronisation, cliquez sur **Exporter**. Les données seront exportées au format CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -77,7 +77,7 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
   </tr> 
   <tr> 
    <td colspan="1">Objet</td> 
-   <td colspan="1">Type d'objet</td> 
+   <td colspan="1">Type d’objet</td> 
    <td colspan="1">Contact, Personne, tâche, opportunité, prospect, Autres comme ci-dessous</td> 
   </tr>  
   <tr> 
@@ -120,7 +120,7 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
 
 &#42;Les données sont restaurées à l’état d’intégrité précédent après l’échec de l’étape de synchronisation.
 
-## Type d&#39;objet {#object-type}
+## Type d’objet {#object-type}
 
 <table> 
  <colgroup> 
@@ -134,7 +134,7 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
    <td colspan="1">Type de compte</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Objets personnalisés</td> 
+   <td colspan="1"> objets  personnalisés</td> 
   </tr>  
   <tr> 
    <td colspan="1">Campagne</td> 
