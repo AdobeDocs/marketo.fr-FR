@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
 workflow-type: tm+mt
-source-wordcount: '8958'
+source-wordcount: '8961'
 ht-degree: 5%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 5%
          + [Ajout d’audiences mappées LinkedIn en tant que service LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Envoi d’une liste à un réseau publicitaire](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Chat dynamique {#dynamic-chat}
-         + [Présentation de la conversation dynamique](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Présentation du Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configuration initiale](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Ajout ou suppression d’utilisateurs de conversation](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Notifications du navigateur](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
@@ -1908,6 +1908,7 @@ ht-degree: 5%
       + 2023 {#2023}
          + [Notes de mise à jour : 23 janvier](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Notes de mise à jour : 23 mars](release-notes/previous-releases/2023/release-notes-mar-23.md)
+         + [Notes de mise à jour : 23 mai](release-notes/previous-releases/2023/release-notes-may-23.md)
       + 2022 {#2022}
          + [Notes de mise à jour : 22 janvier](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [Notes de mise à jour : 22 mars](release-notes/previous-releases/2022/release-notes-mar-22.md)
