@@ -1,7 +1,7 @@
 ---
 description: Utilisation de l’envoi groupé de courriers électroniques de vente dans Salesforce - Documents Marketo - Documentation du produit
 title: Utilisation de l’envoi groupé de courriers électroniques de vente dans Salesforce
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -67,6 +67,8 @@ Découvrez comment envoyer des emails en bloc dans Salesforce pour vous aider à
    >Vous pouvez créer une vue en cliquant sur Créer une vue et en configurant les filtres disponibles pour réduire la liste des personnes que vous ajoutez à une campagne de ventes.
 
 1. Sélectionnez la liste de contacts ou de pistes souhaitée, puis cliquez sur le bouton **Envoyer un e-mail de vente** bouton .
+
+   ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
 1. Vous accédez à la fenêtre Compression des actions avec les destinataires que vous avez sélectionnés dans la fenêtre de composition.
 
