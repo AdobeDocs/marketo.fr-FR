@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
 workflow-type: tm+mt
-source-wordcount: '8961'
+source-wordcount: '8963'
 ht-degree: 5%
 
 ---
@@ -485,10 +485,10 @@ ht-degree: 5%
          + [Présentation des dossiers](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Présentation des notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Types de notification](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + Non Parcours {#not-journeys}
-         + [Présentation du nom](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
-         + [Onglet Nom](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
-         + [Onglet Paramètres](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
+      + Canevas d’engagement {#engagement-canvas}
+         + [Présentation du canevas d’engagement](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
+         + [Onglet Canevas d’engagement](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
+         + [Onglet Paramètres](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
       + Audiences prédictives {#predictive-audiences}
          + [Prise en main des audiences prédictives](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modèles et informations](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
@@ -622,7 +622,7 @@ ht-degree: 5%
          + [Ajout d’audiences mappées LinkedIn en tant que service LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Envoi d’une liste à un réseau publicitaire](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Chat dynamique {#dynamic-chat}
-         + [Présentation du Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Présentation de la conversation dynamique](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configuration initiale](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Ajout ou suppression d’utilisateurs de conversation](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Notifications du navigateur](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
