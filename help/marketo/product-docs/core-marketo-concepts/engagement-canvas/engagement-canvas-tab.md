@@ -1,117 +1,104 @@
 ---
-description: Onglet Nom - Documents Marketo - Documentation du produit
-title: Onglet Nom
+description: Onglet Canevas d’engagement - Documents Marketo - Documentation du produit
+title: Onglet Canevas d’engagement
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '973'
 ht-degree: 0%
 
 ---
 
-# Onglet Nom {#name-tab}
+# Onglet Canevas d’engagement {#engagement-canvas-tab}
 
-Les parcours sont représentés par le biais d’une série de cartes de déclencheur, de filtre et de flux. Cliquez sur chacune de ces cartes pour ouvrir le panneau déroulant correspondant.
+Le canevas d’engagement est représenté par une série de déclencheurs, de filtres et de cartes de flux. Cliquez sur chaque carte pour afficher des informations supplémentaires.
 
-Présentation du déclencheur : La carte affiche le nombre de déclencheurs dans la campagne spécifique. Cliquer sur cette carte se développe également pour afficher les cartes de détails Trigger et ouvrir simultanément le panneau de diapositives avec les informations suivantes :
+Présentation du déclencheur : Cette carte indique le nombre de déclencheurs dans votre campagne. Si vous cliquez dessus, une carte s’affiche pour chaque déclencheur, ainsi qu’un panneau déroulant contenant les informations suivantes :
 
-Campagne à laquelle le déclencheur appartient
-
-Bouton Modifier le déclencheur pour accéder à l’onglet Liste dynamique
-
-Liste des noms des déclencheurs
+* Campagne à laquelle le déclencheur appartient
+* Liste des noms des déclencheurs
+* Bouton &quot;Modifier le déclencheur&quot;
 
 CAPTURE D’ÉCRAN
 
-Détails du déclencheur : La carte affiche le nom du déclencheur. Cliquez sur cette carte pour ouvrir le panneau de visualisation avec les informations suivantes :
+Détails du déclencheur : Cette carte affiche le nom du déclencheur. Si vous cliquez dessus, un panneau de visualisation s’affiche avec les informations suivantes :
 
-Campagne à laquelle le déclencheur appartient
-
-Bouton Modifier le déclencheur pour accéder à l’onglet Liste dynamique
-
-Liste des contraintes associées au déclencheur
+* Campagne à laquelle le déclencheur appartient
+* Liste des contraintes associées au déclencheur
+* Bouton &quot;Modifier le déclencheur&quot;
 
 CAPTURE D’ÉCRAN
 
-Filtres : Cliquez sur cette carte pour ouvrir le panneau de visualisation avec les informations suivantes :
+Filtre : Cliquez sur cette carte pour afficher un panneau de visualisation avec les informations suivantes :
 
-Campagne à laquelle le déclencheur appartient
-
-Bouton Modifier le filtre pour accéder à l’onglet Liste dynamique
-
-Nombre estimé de personnes qui remplissent les critères du filtre
-
-Liste des filtres et leurs contraintes respectives
+* Campagne à laquelle le déclencheur appartient
+* Nombre estimé de personnes qui remplissent les critères du filtre
+* Liste des filtres et leurs contraintes respectives
+* Bouton &quot;Modifier le filtre&quot;
 
 CAPTURE D’ÉCRAN
 
-Etapes de flux : Si une étape de flux n’inclut aucun choix, la carte affiche les attributs associés à l’étape de flux. Cliquez sur la carte pour ouvrir le panneau de visualisation avec les informations suivantes :
+Etapes de flux : Si une étape de flux comprend des choix, cette carte indique le nom de l’étape de flux. Si vous cliquez dessus, un panneau de visualisation s’affiche avec les informations suivantes :
 
-Campagne à laquelle l’étape Flux appartient
-
-Bouton Modifier le flux pour accéder à l’onglet Flux
-
-Liste des attributs associés à l’étape de flux
+* L’étape de flux de campagne appartient à
+* Liste des conditions de choix associées à l’étape de flux
+* Bouton &quot;Modifier le flux&quot;
 
 CAPTURE D’ÉCRAN
 
-Etapes de flux : Si une étape de flux comprend des choix, la carte indique le nom de l’étape de flux. Cliquez sur la carte pour ouvrir le panneau de visualisation avec les informations suivantes :
+Etapes de flux : Si une étape de flux fonctionne _not_ incluez tous les choix possibles. cette carte affiche les attributs associés à l’étape de flux. Si vous cliquez dessus, un panneau de visualisation s’affiche avec les informations suivantes :
 
-Campagne à laquelle l’étape Flux appartient
-
-Bouton Modifier le flux pour accéder à l’onglet Flux
-
-Liste des conditions de choix associées à l’étape de flux
+* L’étape de flux de campagne appartient à
+* Liste des attributs associés à l’étape de flux
+* Bouton &quot;Modifier le flux&quot;
 
 CAPTURE D’ÉCRAN
 
-Étape de flux pour exécuter et demander des campagnes :
+## Étape de flux pour exécuter et demander des campagnes {#flow-step-for-execute-and-request-campaigns}
 
-Si l’étape de flux Exécuter ou Demander la campagne ne comporte aucun choix, la carte affichera le nom de la campagne. Cliquez sur la carte pour ouvrir le panneau de visualisation avec les informations suivantes :
+* Si l’étape de flux Exécuter ou Demander la campagne ne comporte aucun choix, la carte affichera le nom de la campagne. Un clic sur la carte affiche un panneau déroulant contenant les informations suivantes :
 
-Campagne à laquelle appartient l’étape de flux
+   * Campagne l’étape de flux à laquelle elle appartient
+   * Bouton &quot;Modifier le flux&quot;
+   * Liste des attributs associés à l’étape de flux
+   * Bouton &quot;Afficher la liste&quot; qui ouvre la liste des campagnes qui utilisent la requête/exécution de campagne spécifique
 
-Bouton Modifier le flux pour accéder à l’onglet Flux
-
-Liste des attributs associés à l’étape de flux
-
-Bouton Afficher la liste qui affiche la liste des campagnes qui utilisent la requête spécifique ou exécutent une campagne
-
-Remarque : Vous pouvez modifier l’étape de flux à partir d’une Principale campagne. Pour modifier les campagnes imbriquées, vous devez accéder à la campagne à partir du lien hypertexte du panneau de sortie.
+>[!NOTE]
+>
+>Vous pouvez modifier la ou les étapes de flux d’une Principale campagne. Pour modifier les campagnes imbriquées, vous devez accéder à la campagne à partir du lien situé dans le panneau déroulant.
 
 CAPTURE D’ÉCRAN
 
 CAPTURE D’ÉCRAN
 
-Si l’étape de flux Exécuter ou Demander la campagne comprend des choix, la carte affichera le nom de la campagne. Cliquez sur la carte pour ouvrir le panneau de visualisation avec les informations suivantes :
+* Si l’étape de flux Exécuter ou Demander une campagne comporte des choix, la carte affichera le nom de la campagne. Un clic sur la carte affiche un panneau déroulant contenant les informations suivantes :
 
-Campagne à laquelle appartient l’étape de flux
-
-Bouton Modifier le flux pour accéder à l’onglet Flux
-
-Liste des conditions de choix associées à l’étape de flux
+   * Campagne l’étape de flux à laquelle elle appartient
+   * Liste des conditions de choix associées à l’étape de flux
+   * Bouton &quot;Modifier le flux&quot;
 
 CAPTURE D’ÉCRAN
 
 CAPTURE D’ÉCRAN
 
-Si une campagne d’exécution ou de requête comprend des choix, un clic sur la carte de flux se développe afin d’afficher tous les choix dans des cartes individuelles.
+* Si une campagne Exécuter ou Demander comprend des choix, un clic sur la carte de flux se développe afin d’afficher tous les choix dans des cartes individuelles. Cliquez sur la carte de choix pour développer la campagne associée au choix spécifique et ouvrir simultanément le panneau de visualisation avec les informations suivantes :
 
-Cliquez sur la carte de choix pour développer la campagne associée au choix spécifique et ouvrir simultanément le panneau de visualisation avec les informations suivantes :
+!!!!!!!!!! DEUXIÈME PHRASE DE CORRECTION GRAMMAR
 
-Campagne à laquelle le choix appartient
-
-Bouton Modifier le choix pour accéder à l’onglet Flux
-
-Liste des conditions de choix associées à l’étape de flux
-
-Bouton Afficher la liste qui affiche la liste des campagnes qui utilisent la requête spécifique ou exécutent une campagne
+* Campagne à laquelle le choix appartient
+* Bouton Modifier le choix
+* Liste des conditions de choix associées à l’étape de flux
+* Bouton &quot;Afficher la liste&quot; qui ouvre la liste des campagnes qui utilisent la requête/exécution de campagne spécifique
 
 CAPTURE D’ÉCRAN
 
-Visualisation de l’exécution de campagne imbriquée (nouvelle section)
+!!!!!!!!!!!!!!! CI-DESSOUS : ajoutez &quot;a&quot; avant Imbriqué ?
+
+## Visualisation de l’exécution de campagne imbriquée {#visualizing-nested-execute-campaign}
+
+ARRÊT DE MODIFIER ICI
 
 Exécutez les campagnes exécutées en série avec la campagne parente, c’est-à-dire les pistes qui remplissent les critères d’une campagne exécutable, effectuez toutes les étapes de flux de la campagne et revenez à la Principale campagne pour continuer à suivre les étapes de flux de cette campagne.
 
@@ -119,13 +106,10 @@ Voici un exemple de campagne dynamique &quot;Campagne A&quot; qui comprend une �
 
 CAPTURE D’ÉCRAN
 
-Cliquez sur la carte d’exécution du flux de campagne pour développer et afficher les détails de la &quot;campagne B&quot;.
-
-La campagne B comprend un filtre qui s’étend à une audience non qualifiée et non qualifiée.
-
-L’audience qualifiée passe en revue les étapes de flux associées à la &quot;campagne B&quot;.
-
-L’ensemble de l’audience (qualifiée et non qualifiée) revient à &quot;Campagne A&quot; et passe à l’étape de flux suivante.
+1. Cliquez sur la carte d’exécution du flux de campagne pour afficher les détails de la &quot;campagne B&quot;.
+1. La campagne B comprend un filtre qui s’étend à une audience non qualifiée et non qualifiée.
+1. L’audience qualifiée suit les étapes de flux associées à la &quot;Campagne B&quot;.
+1. Toutes les audiences (qualifiées et non qualifiées) reviennent à &quot;Campagne A&quot; et passent à l’étape de flux suivante.
 
 CAPTURE D’ÉCRAN
 
@@ -133,7 +117,7 @@ Vous pouvez cliquer sur l’étape Exécuter la campagne dans &quot;Campagne B&q
 
 CAPTURE D’ÉCRAN
 
-Visualisation de la campagne de requête (nouvelle section)
+## Visualiser une campagne de requêtes {#visualizing-request-campaign}
 
 Les campagnes de requête s’exécutent en parallèle de la campagne parente, c’est-à-dire que les pistes qui remplissent les critères d’une campagne de requête effectuent toutes les étapes de flux de la campagne et quittent la campagne. En parallèle, le même ensemble de pistes passe également par les étapes de flux de la campagne Principale.
 
@@ -141,13 +125,10 @@ Voici un exemple de campagne dynamique &quot;Campagne A&quot; qui comprend une �
 
 CAPTURE D’ÉCRAN
 
-Cliquez sur la carte de flux de campagne de requête pour afficher les détails de la &quot;campagne B&quot;.
-
-La campagne B comprend un filtre qui s’étend à une audience qualifiée.
-
-L’audience qualifiée passe en revue les étapes de flux associées à la &quot;campagne B&quot;.
-
-En parallèle, toutes les audiences passent aux étapes de flux suivantes dans &quot;Campagne A&quot;
+1. Cliquez sur la carte de flux de campagne de requête pour afficher les détails de la &quot;campagne B&quot;.
+1. La campagne B comprend un filtre qui s’étend à une audience qualifiée.
+1. L’audience qualifiée passe en revue les étapes de flux associées à la &quot;campagne B&quot;.
+1. En parallèle, toutes les audiences passent aux étapes de flux suivantes dans &quot;Campagne A&quot;
 
 CAPTURE D’ÉCRAN
 
@@ -159,7 +140,7 @@ Voici un exemple de campagne de requête avec choix.
 
 CAPTURE D’ÉCRAN
 
-Gestion des erreurs :
+## Gestion des erreurs {#error-handling}
 
 Les erreurs dans les étapes de flux et de liste dynamique sont mises en surbrillance par l’icône d’erreur dans la carte. En outre, le message d’erreur correspondant sera reflété dans le panneau de sortie.
 

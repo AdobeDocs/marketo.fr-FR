@@ -4,22 +4,24 @@ title: Onglet Paramètres
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '258'
 ht-degree: 2%
 
 ---
 
 # Onglet Paramètres {#settings-tab}
 
-L’onglet Paramètres est un guichet unique qui comprend tous les paramètres de votre campagne. Il inclut les mêmes jeux d’autorisations et accès que l’onglet de planification. Les paramètres de campagne existants ne seront pas perturbés. Elle comprend 3 sections et les modaux correspondants pour la modification de chaque section.
+L’onglet Paramètres contient tous les paramètres de votre campagne, y compris les mêmes jeux d’autorisations et accès que l’onglet Planning . MODIFICATIONS APPORTÉES À CET ONGLET??? Les paramètres de campagne existants ne seront pas perturbés.
 
-Règles de qualification qui déterminent le nombre de fois où chaque personne peut exécuter le flux de campagne dynamique
+Il comprend les trois sections suivantes.
 
-Exécutions individuelles pouvant être utilisées pour planifier des exécutions uniques immédiatement ou ultérieurement.
+* **Règles de qualification**: Détermine le nombre de fois où chaque personne peut exécuter le flux de campagne dynamique.
 
-Périodicité utilisée pour planifier une périodicité quotidienne, hebdomadaire ou mensuelle
+* **Exécutions individuelles**: Peut être utilisé pour planifier des exécutions uniques immédiatement ou ultérieurement.
+
+* **Périodicité**: Utilisé pour planifier une périodicité quotidienne, hebdomadaire ou mensuelle.
 
 CAPTURE D’ÉCRAN
 
