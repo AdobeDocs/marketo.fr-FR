@@ -2,9 +2,9 @@
 description: Guide de configuration de l’administrateur des actions Sales Insight - Documents Marketo - Documentation du produit
 title: Guide de configuration des actions Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '660'
 ht-degree: 1%
 
 ---
@@ -60,6 +60,10 @@ ht-degree: 1%
 1. Dans Marketo, cliquez sur **Administration**.
 
    ![](assets/msi-actions-admin-guide-1.png)
+
+   >[!NOTE]
+   >
+   >Si vous ne voyez pas d’ID de client et de secret de client sur la carte Informations sur l’intégration, activez votre instance Actions en invitant le premier utilisateur. L’ID de client et le secret de client s’affichent alors.
 
 1. Cliquez sur **Statistiques des ventes**, puis **Configuration des actions**. Sélectionnez dans la liste des administrateurs Marketo à inviter et cliquez sur **Envoyer une invitation**.
 

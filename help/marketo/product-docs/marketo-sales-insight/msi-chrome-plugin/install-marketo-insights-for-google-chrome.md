@@ -3,9 +3,9 @@ unique-page-id: 1147326
 description: Installation de Marketo Insights pour Google Chrome - Documentation Marketo - Documentation du produit
 title: Installation de Marketo Insights pour Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Installation de Marketo Insights pour Google Chrome {#install-marketo-insights-for-google-chrome}
 
 Suivez ces étapes pour commencer à utiliser le puissant module complémentaire Chrome.
+
+>[!NOTE]
+>
+>Les fonctionnalités des actions d’aperçu des ventes, notamment Envoyer un courrier électronique de vente, Ajouter à la campagne de ventes et Tâches, ne sont pas disponibles dans les modules externes de messagerie de Sales Insight pour Gmail et Outlook. Actuellement, les utilisateurs peuvent uniquement envoyer un email pouvant faire l’objet d’un suivi avec ou sans modèle de courrier électronique Marketo depuis leur client de messagerie lors de l’utilisation des modules externes de courrier électronique Sales Insight .
 
 >[!NOTE]
 >

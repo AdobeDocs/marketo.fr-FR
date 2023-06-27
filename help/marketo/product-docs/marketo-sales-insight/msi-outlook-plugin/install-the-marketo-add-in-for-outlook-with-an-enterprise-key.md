@@ -3,16 +3,16 @@ unique-page-id: 11377488
 description: Installation du module complémentaire Marketo pour Outlook avec une clé d’entreprise - Documents Marketo - Documentation du produit
 title: Installation du module complémentaire Marketo pour Outlook avec une clé d’entreprise
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # Installation du module complémentaire Marketo pour Outlook avec une clé d’entreprise {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-Souvent, les commerciaux n’ont pas de privilèges d’administrateur sur leurs ordinateurs portables et leurs équipes informatiques sont chargées d’installer tous les logiciels à distance. Le module complémentaire Marketo pour Outlook peut être installé de cette manière à l’aide de votre clé d’entreprise, qui se trouve dans la section Sales Insight (Aperçu des ventes) de l’administrateur.
+Souvent, les commerciaux n’ont pas de privilèges d’administrateur sur leurs ordinateurs portables et leurs équipes informatiques sont chargées d’installer tous les logiciels à distance. Le module complémentaire Marketo pour Outlook peut être installé de cette manière à l’aide de votre clé d’entreprise, qui se trouve dans la section Sales Insight (Aperçu des ventes) de l’administrateur. Si le bouton Afficher la clé d’entreprise n’apparaît pas, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour l’activer.
 
 >[!PREREQUISITES]
 >
@@ -20,7 +20,7 @@ Souvent, les commerciaux n’ont pas de privilèges d’administrateur sur leurs
 
 >[!NOTE]
 >
->Si le bouton Afficher la clé d’entreprise n’apparaît pas, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour l’activer.
+>Les fonctionnalités des actions d’aperçu des ventes, notamment Envoyer un courrier électronique de vente, Ajouter à la campagne de ventes et Tâches, ne sont pas disponibles dans les modules externes de messagerie de Sales Insight pour Gmail et Outlook. Actuellement, les utilisateurs peuvent uniquement envoyer un email pouvant faire l’objet d’un suivi avec ou sans modèle de courrier électronique Marketo depuis leur client de messagerie lors de l’utilisation des modules externes de courrier électronique Sales Insight .
 
 1. Dans Mon Marketo, cliquez sur **Administration** puis **Statistiques des ventes**.
 

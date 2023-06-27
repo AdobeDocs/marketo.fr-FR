@@ -2,9 +2,9 @@
 description: Utilisation d’un modèle dans la fenêtre de composition - Documents Marketo - Documentation du produit
 title: Utilisation d’un modèle dans la fenêtre de composition
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ ht-degree: 0%
 1. Cliquez sur l’icône de recherche dans la section Modèle pour ouvrir le champ de recherche de modèle.
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
+
+   >[!TIP]
+   >
+   >Nous vous recommandons d’épingler la catégorie &quot;Tous&quot; afin de pouvoir accéder rapidement à la recherche de l’intégralité de votre bibliothèque de modèles, car vous devrez souvent effectuer une recherche dans tous vos modèles pour trouver ce que vous recherchez. Lorsque vous avez sélectionné une catégorie épinglée et que vous cliquez sur l’icône de recherche, la recherche est effectuée par défaut dans la catégorie épinglée sélectionnée.
 
 1. Sélectionnez une catégorie dans laquelle effectuer une recherche (ou sélectionnez Toutes pour effectuer une recherche dans toutes les catégories).
 

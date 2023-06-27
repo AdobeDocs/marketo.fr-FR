@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie pour Outlook - Documents Marketo - Documentation du produit
 title: Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie pour Outlook
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Vous pouvez envoyer des emails et en effectuer le suivi avec Marketo directement
 >[!PREREQUISITES]
 >
 >Si vous ne l’avez pas encore fait, installez le [Module complémentaire de messagerie Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+
+>[!NOTE]
+>
+>Les fonctionnalités des actions d’aperçu des ventes, notamment Envoyer un courrier électronique de vente, Ajouter à la campagne de ventes et Tâches, ne sont pas disponibles dans les modules externes de messagerie de Sales Insight pour Gmail et Outlook. Actuellement, les utilisateurs peuvent uniquement envoyer un email pouvant faire l’objet d’un suivi avec ou sans modèle de courrier électronique Marketo depuis leur client de messagerie lors de l’utilisation des modules externes de courrier électronique Sales Insight .
 
 1. Ouvrez Microsoft Outlook et créez un email.
 

@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installation du module complémentaire de messagerie Marketo pour Outlook avec un code d’enregistrement - Documents Marketo - Documentation du produit
 title: Installation du module complémentaire de messagerie Marketo pour Outlook avec un code d’enregistrement
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '516'
 ht-degree: 5%
 
 ---
@@ -26,11 +26,11 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
 
 >[!NOTE]
 >
->Le 10/1/20, la dernière version du module externe Outlook a cessé de prendre en charge le mode hors ligne.
+>Les fonctionnalités des actions d’aperçu des ventes, notamment Envoyer un courrier électronique de vente, Ajouter à la campagne de ventes et Tâches, ne sont pas disponibles dans les modules externes de messagerie de Sales Insight pour Gmail et Outlook. Actuellement, les utilisateurs peuvent uniquement envoyer un email pouvant faire l’objet d’un suivi avec ou sans modèle de courrier électronique Marketo depuis leur client de messagerie lors de l’utilisation des modules externes de courrier électronique Sales Insight .
 
 ## Télécharger le programme {#download-installer}
 
-1. Identifiez votre [Version de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identifiez votre [Version de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
 
 1. Cliquez sur le lien pour télécharger le programme d’installation approprié à votre version de Microsoft Outlook.
 
@@ -41,15 +41,15 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
    | Version d’Outlook | Outlook 32 bits | Outlook 64 bits |
    |---|---|---|
    | Outlook 2000 | Non pris en charge | S/O |
-   | Outlook 2003 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | S/O |
-   | Outlook 2007 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | S/O |
-   | Outlook 2010 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2003 | [Téléchargement](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | S/O |
+   | Outlook 2007 | [Téléchargement](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | S/O |
+   | Outlook 2010 | [Téléchargement](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Téléchargement](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2013 | [Téléchargement](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Téléchargement](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2016 | [Téléchargement](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Téléchargement](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2019 | [Téléchargement](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Téléchargement](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook pour Mac | Non pris en charge | Non pris en charge |
    | Outlook Web App | Non pris en charge | Non pris en charge |
-   | Office 365* | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Télécharger](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Office 365* | [Téléchargement](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Téléchargement](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
 
    *Version d’Office 365 : Client Windows uniquement (sous Windows 10, Enterprise ou Pro).
 
@@ -111,6 +111,5 @@ En savoir plus sur l’utilisation des actions Marketo Message et Log With Marke
 
 >[!MORELIKETHIS]
 >
->* [Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Envoi et suivi depuis Outlook à l’aide d’un modèle Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-
+>* [Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
+>* [Envoi et suivi depuis Outlook à l’aide d’un modèle Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md){target="_blank"}
