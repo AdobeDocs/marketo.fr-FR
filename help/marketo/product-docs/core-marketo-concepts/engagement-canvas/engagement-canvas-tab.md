@@ -4,9 +4,9 @@ title: Onglet Canevas d’engagement
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '973'
+source-wordcount: '970'
 ht-degree: 0%
 
 ---
@@ -83,22 +83,18 @@ CAPTURE D’ÉCRAN
 
 CAPTURE D’ÉCRAN
 
-* Si une campagne Exécuter ou Demander comprend des choix, un clic sur la carte de flux se développe afin d’afficher tous les choix dans des cartes individuelles. Cliquez sur la carte de choix pour développer la campagne associée au choix spécifique et ouvrir simultanément le panneau de visualisation avec les informations suivantes :
+* Si une campagne Exécuter ou Demander comprend des choix, un clic sur la carte de flux se développe afin d’afficher tous les choix dans des cartes individuelles. Cliquez sur la carte de choix pour développer la campagne associée au choix spécifique, ainsi qu’afficher un panneau déroulant contenant les informations suivantes :
 
-!!!!!!!!!! DEUXIÈME PHRASE DE CORRECTION GRAMMAR
-
-* Campagne à laquelle le choix appartient
-* Bouton Modifier le choix
-* Liste des conditions de choix associées à l’étape de flux
-* Bouton &quot;Afficher la liste&quot; qui ouvre la liste des campagnes qui utilisent la requête/exécution de campagne spécifique
+   * Campagne à laquelle le choix appartient
+   * Bouton Modifier le choix
+   * Liste des conditions de choix associées à l’étape de flux
+   * Bouton &quot;Afficher la liste&quot; qui ouvre la liste des campagnes qui utilisent la requête/exécution de campagne spécifique
 
 CAPTURE D’ÉCRAN
 
-!!!!!!!!!!!!!!! CI-DESSOUS : ajoutez &quot;a&quot; avant Imbriqué ?
+## Visualisation d’une campagne d’exécution imbriquée {#visualizing-a-nested-execute-campaign}
 
-## Visualisation de l’exécution de campagne imbriquée {#visualizing-nested-execute-campaign}
-
-ARRÊT DE MODIFIER ICI
+ARRÊT DE LA MODIFICATION ICI - REPRENDRE APRÈS LA FERMETURE
 
 Exécutez les campagnes exécutées en série avec la campagne parente, c’est-à-dire les pistes qui remplissent les critères d’une campagne exécutable, effectuez toutes les étapes de flux de la campagne et revenez à la Principale campagne pour continuer à suivre les étapes de flux de cette campagne.
 

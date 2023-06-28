@@ -4,16 +4,16 @@ title: Onglet Paramètres
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 2%
+source-wordcount: '351'
+ht-degree: 1%
 
 ---
 
 # Onglet Paramètres {#settings-tab}
 
-L’onglet Paramètres contient tous les paramètres de votre campagne, y compris les mêmes jeux d’autorisations et accès que l’onglet Planning . LES MODIFICATIONS APPORTÉES À CET ONGLET NE PERTURBENT PAS??? Les paramètres de campagne existants ne seront pas perturbés.
+L’onglet Paramètres contient tous les paramètres de votre campagne, y compris les mêmes jeux d’autorisations et accès que l’onglet Planning . LA VISITE DE CET ONGLET N’EST PAS PERTURBÉE??? ENVISAGEZ DE DÉPOSER OU DE RÉÉCRIRE - LA LOPA VA CONFIRMER - ELLE NE perturbera aucun paramètre de campagne existant.
 
 Il comprend les trois sections suivantes.
 
@@ -55,3 +55,9 @@ L’onglet Paramètres comprend également un aperçu rapide de votre liste dyna
    * Estimation du nombre de personnes qui seront affectées
    * Estimation du nombre de personnes bloquées dans les emails
    * Estimation du nombre de personnes qui se trouvent dans une étape d’attente
+
+Jeux d’autorisations et erreurs dans l’onglet Paramètres :
+
+Tous les jeux d’autorisations existants seront applicables dans l’onglet Paramètres . Si le bouton Modifier est grisé, cela signifie que vous ne disposez pas des autorisations nécessaires pour effectuer des modifications et que vous devez contacter votre administrateur Marketo.
+
+AJOUTEZ UNE DESCRIPTION SUR ANNULER LES EXÉCUTIONS PLANIFIÉES - CONFIRMER AVEC LOPA APRÈS L’EXTRACTION -> Si un utilisateur n’a pas accès à la modification des paramètres de campagne, il n’aura pas non plus accès à l’annulation des exécutions planifiées.

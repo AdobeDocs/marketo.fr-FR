@@ -4,9 +4,9 @@ title: Présentation du canevas d’engagement
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Deux onglets s’affichent une fois dans la zone de travail Engagement : [Caneva
 
 CAPTURE D’ÉCRAN
 
-HEADER
+EN-TÊTE - DESCRIPTIONS DE CARTE ? - LOPA CONFIRME
 
 **Triggers**: Dans les campagnes qui incluent des déclencheurs, la zone de travail dispose d’une carte &quot;Présentation du déclencheur&quot;. Si vous cliquez sur cette option, une carte s’affiche pour chaque déclencheur, ainsi qu’un panneau déroulant contenant des informations supplémentaires.
 
@@ -43,7 +43,7 @@ HEADER
 
 ## Campagnes imbriquées {#nested-campaigns}
 
-* Si une campagne comprend une étape de flux Demander ou Exécuter la campagne , un clic sur la carte de flux affiche les détails de l’opération en cours d’appel, ainsi qu’un panneau de sortie avec des informations supplémentaires. (La campagne imbriquée comprend également une pilule de fermeture, si vous cliquez dessus, les cartes associées à la campagne imbriquée sont réduites.) !!!!!!!!!!!!! - REMODER OU SUPPRIMER
+* Si une campagne comprend une étape de flux Demander ou Exécuter la campagne , un clic sur la carte de flux affiche les détails de l’opération en cours d’appel, ainsi qu’un panneau de sortie avec des informations supplémentaires. (La campagne imbriquée comprend également une pilule de fermeture, si vous cliquez dessus, les cartes associées à la campagne imbriquée sont réduites.) !!!!!!!!!!!!! - REMODER OU SUPPRIMER - LOPA CONFIRME
 
 * Si une campagne comprend une étape de flux Demander ou Exécuter une campagne avec des choix, un clic sur la carte de flux affiche une carte de choix, ainsi qu’un panneau d’affichage avec des informations supplémentaires sur les choix. Cliquez sur chaque carte de choix pour afficher les détails de la campagne en cours d’appel, ainsi qu’un panneau déroulant contenant des informations supplémentaires.
 
@@ -55,7 +55,7 @@ CAPTURE D’ÉCRAN
 
 Le volet de navigation supérieur comprend les fonctionnalités suivantes :
 
-!!!!! CONFIRMATION DU GRAMMAIRE ET SORTIE D’ÉCRAN DÉPASSÉE
+!!!!! CAPTURE D’ÉCRAN DÉPASSÉE - NOUVEAU GRAB
 
 * Nom de la campagne et accès au modal &quot;Modifier la campagne&quot;, vous pouvez modifier le nom et la description de la campagne ici.
 
@@ -74,6 +74,10 @@ Le volet de navigation supérieur comprend les fonctionnalités suivantes :
 >[!NOTE]
 >
 >Les modifications apportées dans un onglet de liste dynamique et de flux ouvert seront répercutées dans l’onglet Canevas d’engagement lors de l’actualisation. Elle ne sera pas mise à jour automatiquement. Les mises à jour et modifications enregistrées automatiquement sont répercutées.
+
+## Questions fréquentes {#faq}
+
+LOPA FOURNIT
 
 >[!MORELIKETHIS]
 >
