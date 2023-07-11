@@ -2,9 +2,9 @@
 description: Types d’étape de campagne de vente et tâches de rappel - Documents Marketo - Documentation du produit
 title: Types d’étape de campagne de vente et tâches de rappel
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
-source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
+source-git-commit: eeeff565e11cf98585bc6fef98f51d1c1f74199c
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '317'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Lorsque vous ajoutez une étape à votre campagne de ventes, vous disposez de qu
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-1.png)
 
-### Adresse e-mail {#email}
+### E-mail {#email}
 
 Composez un nouvel email ou utilisez un modèle préexistant.
 
@@ -31,9 +31,9 @@ Composez un nouvel email ou utilisez un modèle préexistant.
 
 >[!TIP]
 >
->En savoir plus sur votre [options d’envoi](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}.
+>En savoir plus sur votre [options d’envoi](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
-### Appelez {#call}
+### Appel {#call}
 
 Rappel pour le suivi d&#39;un contact par téléphone. Vous pouvez également enregistrer des notes à utiliser comme suivi de conversation pendant l’appel.
 
@@ -65,4 +65,4 @@ Vous pouvez également créer une &quot;tâche à envoyer&quot; avec un contact 
 
 >[!MORELIKETHIS]
 >
->[Créer une campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
+>[Créer une campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
