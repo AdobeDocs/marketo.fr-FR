@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
-source-wordcount: '8963'
+source-wordcount: '8989'
 ht-degree: 5%
 
 ---
@@ -634,7 +634,7 @@ ht-degree: 5%
             + [Réunions](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [Routage](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Intégrations {#integrations}
-            + [Connexion de la messagerie dynamique à Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Connexion du Dynamic Chat à Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Utilisation de la carte de document](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Dialogues {#dialogues}
             + [Présentation de la boîte de dialogue](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
@@ -1332,7 +1332,6 @@ ht-degree: 5%
             + [La campagne s’est terminée](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [Créer une campagne de ventes](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
             + [Paramètres de campagne de ventes](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
-            + [Options d’envoi de campagne de ventes pour les étapes de courrier électronique](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [Types d’étape de campagne de vente et tâches de rappel](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [Présentation des options d’envoi de campagne de ventes pour les étapes de courrier électronique](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [Affichage de la liste des campagnes en tant qu’autre utilisateur](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
@@ -1387,6 +1386,7 @@ ht-degree: 5%
             + [Puis-je récupérer un contact ou un groupe que j’ai supprimé ?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Puis-je effectuer le suivi de plusieurs destinataires avec CC/Cci ?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [FAQ sur le contenu et les pièces jointes](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [Les vues, les clics et les réponses des destinataires répertoriés dans les sections CC et Cci de l’e-mail font-ils l’objet d’un suivi ?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
             + [Les actions Sales Insight possèdent-elles une application iPhone ou Android ?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [Comment puis-je Placer sur la liste autorisée les actions Sales Insight sur mon serveur ?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Comment résoudre le problème &quot;Nous n’avons pas pu authentifier votre requête&quot; lors de la connexion à Salesforce ?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1402,6 +1402,8 @@ ht-degree: 5%
             + [Pourquoi mes activités de vente et mes champs d’activité ne sont-ils pas synchronisés avec Salesforce ?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [Pourquoi ne puis-je pas supprimer un contact ?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Pourquoi tous mes contacts n’ont-ils pas été amenés à des actions d’aperçu des ventes ?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
+            + [Pourquoi mes emails sont-ils marqués comme indésirables ?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
+            + [Pourquoi Ma Campagne Est-Elle Terminée ?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [Pourquoi le suivi de l’activité ne s’affiche-t-il pas dans l’activité Salesforce ?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Intégrations {#integrations}
             + [Intégration des zones réactives](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)

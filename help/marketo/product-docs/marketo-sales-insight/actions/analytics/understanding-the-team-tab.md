@@ -1,10 +1,8 @@
 ---
 description: Présentation de l’onglet Équipe - Documents Marketo - Documentation du produit
 title: Présentation de l’onglet Équipe
-hide: true
-hidefromtoc: true
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
