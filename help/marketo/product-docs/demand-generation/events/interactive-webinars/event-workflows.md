@@ -2,9 +2,9 @@
 description: Processus des événements - Documents Marketo - Documentation du produit
 title: Workflows des événements
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Le tableau de bord se compose de quatre widgets.
 
 **Participation**: Met en évidence la durée de participation des différents membres ayant participé au webinaire par rapport à la durée globale du webinaire en termes de pourcentage.
 
-**Performances du sondage**: Affiche les différents sondages lancés lors du webinaire dans Adobe Connect et la distribution des membres ayant participé au sondage et y ayant répondu pour chacune des réponses.
+**Performances du sondage**: Affiche les différents sondages lancés lors du webinaire proposé par Adobe Connect et la distribution des membres ayant participé au sondage et y ayant répondu pour chacune des réponses.
 
-**Activité de clic et de téléchargement de fichier**: Fournit le nombre de téléchargements de fichiers et de liens Web sur lesquels a cliqué le webinaire dans Adobe Connect de divers membres qui ont assisté au webinaire et ont pris cette mesure spécifique.
+**Activité de clic et de téléchargement de fichier**: Fournit le nombre de téléchargements de fichiers et de liens Web sur lesquels a cliqué le webinaire alimenté par Adobe Connect par différents membres ayant assisté au webinaire et pris cette mesure spécifique.
 
 ## Déclencheurs et filtres {#triggers-and-filters}
 
