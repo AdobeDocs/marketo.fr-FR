@@ -2,9 +2,9 @@
 description: Présentation des webinaires interactifs - Documents Marketo - Documentation du produit
 title: Présentation des webinaires interactifs
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
+source-git-commit: 95751fc45efb135f13fdcc3f57806f9c669e76ad
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -23,25 +23,13 @@ Après le webinaire, accédez à [analytics des performances des événements](/
 
 ## Questions fréquentes {#faq}
 
-**Ai-je besoin d’une licence Adobe Connect distincte pour utiliser les webinaires interactifs ?**
+**Ai-je besoin d’un abonnement distinct pour utiliser les webinaires interactifs ?**
 
 Nombre Seul un principal abonnement de Marketo Engage est nécessaire pour utiliser des webinaires interactifs.
 
-**Quelles sont les différentes licences de webinaire interactif ?**
-
-Les webinaires interactifs ont trois types de licences.
-
-`1.` Licence d’événements partagés : cette licence est disponible dans différentes capacités de participant : 500, 1000 et 1500. Il contient un nombre limité de webinaires pouvant être utilisés et 3 Go de stockage.
-
-`2.` Licence des espaces partagés : cette licence est disponible dans différentes capacités de participant : 200, 500, 1000 et 1500. Il contient un nombre illimité de webinaires qui peuvent être utilisés et un stockage illimité.
-
-`3.` Licence de stockage supplémentaire : cette licence contient un stockage supplémentaire (100 Go ou 1 To) qui peut être utilisé sur plusieurs licences d’événements partagés où la limite de stockage a été dépassée.
-
-Vous pouvez acquérir n’importe quelle combinaison de ces licences.
-
 **J’ai épuisé mon nombre inclus de webinaires interactifs. Comment obtenir plus de sessions ou plus de capacité ?**
 
-Contactez l’équipe du compte d’Adobe (votre gestionnaire de compte) pour obtenir de l’aide.
+Pour obtenir de l’aide, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 **En tant qu’administrateur Marketo, puis-je contrôler lequel de mes utilisateurs Marketo peut créer des webinaires interactifs ?**
 
