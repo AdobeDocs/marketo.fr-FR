@@ -3,7 +3,7 @@ unique-page-id: 7504437
 description: Ajout d’une image d’arrière-plan à une présentation - Documents Marketo - Documentation du produit
 title: Ajout d’une image d’arrière-plan à une présentation
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Personnalisez une présentation en sélectionnant une image d’arrière-plan.
 >
 >[Création d’une présentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
-1. Cliquez avec le bouton droit de la souris sur une présentation et sélectionnez **Afficher la configuration**.
+1. Cliquez avec le bouton droit de la souris sur une présentation et sélectionnez **[!UICONTROL Afficher la configuration]**.
 
    >[!NOTE]
    >
@@ -26,7 +26,7 @@ Personnalisez une présentation en sélectionnant une image d’arrière-plan.
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. Glisser-déposer **Image d’arrière-plan** de l’arborescence de droite vers la zone de travail.
+1. Glisser-déposer **[!UICONTROL Image d’arrière-plan]** de l’arborescence de droite vers la zone de travail.
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -38,7 +38,7 @@ Personnalisez une présentation en sélectionnant une image d’arrière-plan.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Cliquez sur **Aperçu** pour vérifier.
+1. Cliquez sur **[!UICONTROL Aperçu]** pour vérifier.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 

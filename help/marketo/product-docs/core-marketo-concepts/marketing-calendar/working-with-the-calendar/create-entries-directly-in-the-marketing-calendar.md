@@ -3,9 +3,9 @@ unique-page-id: 2953348
 description: Création directe d’entrées dans le calendrier marketing - Documents Marketo - Documentation du produit
 title: Création directe d’entrées dans le calendrier marketing
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 3%
 
 ---
@@ -19,13 +19,11 @@ Marketo vous permet de créer des entrées directement dans votre calendrier mar
 * Programmes d&#39;e-mail
 * Campagnes intelligentes
 
-Voici comment.
-
-1. Accédez au **Calendrier**.
+1. Cliquez sur le bouton **[!UICONTROL Calendrier]** mosaïque.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Sélectionnez une entrée précédente et cliquez sur **Afficher la cible du programme**.
+1. Sélectionnez une entrée précédente et cliquez sur **[!UICONTROL Afficher la cible du programme]**.
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
@@ -47,4 +45,4 @@ Voici comment.
 
 >[!MORELIKETHIS]
 >
->[Modifier directement les entrées dans le calendrier marketing](edit-entries-directly-in-the-marketing-calendar.md)
+>[Modifier directement les entrées dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}

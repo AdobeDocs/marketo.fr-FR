@@ -3,7 +3,7 @@ unique-page-id: 7503971
 description: Création d’une présentation - Documents Marketo - Documentation du produit
 title: Création d’une présentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 9%
@@ -19,19 +19,19 @@ Créez une présentation pour projeter les vues et les objectifs calendaires de 
 >
 >Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
 
-1. Accédez au **Calendrier**.
+1. Accédez au **[!UICONTROL Calendrier]**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Cliquez sur **Présentation** dans le coin inférieur droit.
+1. Cliquez sur **[!UICONTROL Presentations]** dans le coin inférieur droit.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Cliquez sur **Actions de présentation** et sélectionnez **Nouvelle présentation**.
+1. Cliquez sur **[!UICONTROL Actions de présentation]** et sélectionnez **[!UICONTROL Nouvelle présentation]**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
-1. Choisissez un nom pour la présentation. Cliquez sur **Créer**.
+1. Choisissez un nom pour la présentation. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 

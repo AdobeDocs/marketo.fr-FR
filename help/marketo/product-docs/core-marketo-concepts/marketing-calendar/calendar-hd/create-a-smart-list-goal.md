@@ -3,7 +3,7 @@ unique-page-id: 7504128
 description: Création d’un objectif de liste dynamique - Documents Marketo - Documentation du produit
 title: Création d’un objectif de liste dynamique
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -16,23 +16,23 @@ Les objectifs sont des moyens de suivre les progrès et de motiver votre équipe
 
 Comme les présentations, les objectifs sont [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)spécifique à .
 
-1. Accédez au **Calendrier**.
+1. Accédez au **[!UICONTROL Calendrier]**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Cliquez sur **Présentation** dans le coin inférieur droit.
+1. Cliquez sur **[!UICONTROL Presentations]** dans le coin inférieur droit.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Sélectionnez la **Objectifs** .
+1. Sélectionnez la **[!UICONTROL Objectifs]** .
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Glisser-déposer **Objectif de liste dynamique** sur la zone de travail.
+1. Glisser-déposer **[!UICONTROL Objectif de liste dynamique]** sur la zone de travail.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Saisissez un nom pour l’objectif et un **Objectif cible**. Cliquez ensuite sur **Créer**.
+1. Saisissez un nom pour l’objectif et un **[!UICONTROL Objectif cible]**. Cliquez ensuite sur **[!UICONTROL Créer]**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
@@ -40,7 +40,7 @@ Comme les présentations, les objectifs sont [workspace](/help/marketo/product-d
 
    ![](assets/mql.png)
 
-1. Une fois la liste dynamique définie, cliquez sur le bouton **Fermer** et revenir à l’onglet précédent.
+1. Une fois la liste dynamique définie, cliquez sur le bouton **[!UICONTROL Fermer]** et revenir à l’onglet précédent.
 
    ![](assets/mql2.png)
 

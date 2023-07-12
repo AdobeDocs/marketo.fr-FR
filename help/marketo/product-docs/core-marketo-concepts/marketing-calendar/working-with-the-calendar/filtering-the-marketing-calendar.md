@@ -3,7 +3,7 @@ unique-page-id: 1147294
 description: Filtrage du calendrier marketing - Documents Marketo - Documentation du produit
 title: Filtrage du calendrier marketing
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Utilisez les types d’entrée, les balises de programme ou les espaces de travail pour filtrer les informations affichées dans le calendrier.
 
-1. Accédez au calendrier.
+1. Cliquez sur le bouton **[!UICONTROL Calendrier]** mosaïque.
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Cliquez sur le bouton **Type d’entrée** menu déroulant.
+1. Cliquez sur le bouton **[!UICONTROL Type d’entrée]** menu déroulant.
 
    >[!NOTE]
    >
-   >Les types d’entrée par défaut sont les suivants : **Email** **Programmes** et **Smart** **Campagnes** **avec** **Email**.
+   >Les types d’entrée par défaut sont les suivants : **[!UICONTROL Email]** **[!UICONTROL Programmes]** et **[!UICONTROL Campagnes intelligentes avec courrier électronique]**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -32,7 +32,7 @@ Utilisez les types d’entrée, les balises de programme ou les espaces de trava
 
    >[!TIP]
    >
-   >Pour obtenir des descriptions des types d’entrée standard, extrayez le [Types d’entrée de la vue de programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
+   >Pour obtenir des descriptions des types d’entrée standard, extrayez le [Types d’entrée de la vue de programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
 
 1. Sélectionnez les balises de programme qui vous intéressent.
 
@@ -46,4 +46,4 @@ Utilisez les types d’entrée, les balises de programme ou les espaces de trava
 
    >[!NOTE]
    >
-   >[Enregistrement d’une définition de filtre dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
+   >[Enregistrement d’une définition de filtre dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

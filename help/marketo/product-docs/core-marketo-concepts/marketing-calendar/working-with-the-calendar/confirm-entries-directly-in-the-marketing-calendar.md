@@ -3,7 +3,7 @@ unique-page-id: 2953362
 description: Confirmation Des Entrées Directement Dans Le Calendrier Marketing - Documents Marketo - Documentation Du Produit
 title: Confirmation des entrées directement dans le calendrier marketing
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Les campagnes intelligentes et les programmes de messagerie électronique peuvent être créés comme des entrées provisoires et doivent être confirmés pour que quoi que ce soit se produise réellement. Voici comment.
 
-1. Accédez au **Calendrier**.
+1. Accédez au **[!UICONTROL Calendrier]**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 
-1. Sélectionnez l’entrée à confirmer, puis cliquez sur **Afficher la cible du programme**.
+1. Sélectionnez l’entrée à confirmer, puis cliquez sur **[!UICONTROL Afficher la cible du programme]**.
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 

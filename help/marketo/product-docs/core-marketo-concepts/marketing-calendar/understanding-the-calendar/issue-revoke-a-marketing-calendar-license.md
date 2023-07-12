@@ -3,9 +3,9 @@ unique-page-id: 1147255
 description: Problème/révocation d’une licence de calendrier marketing - Documents Marketo - Documentation du produit
 title: Problème/révocation d’une licence de calendrier marketing
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,17 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Pour utiliser votre [Calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) sièges, vous devez accorder des licences aux utilisateurs qui ont besoin d’accès. Voici comment.
+Pour utiliser votre [Calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} sièges, vous devez accorder des licences aux utilisateurs qui ont besoin d’accès. Voici comment.
 
-1. Accédez au **Administration** .
+1. Accédez au **[!UICONTROL Administration]** .
 
    ![](assets/adminhand.png)
 
-1. Cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/2.png)
 
-1. Sélectionnez le ou les utilisateurs et cliquez sur **Licence de publication.**
+1. Sélectionnez le ou les utilisateurs et cliquez sur **[!UICONTROL Licence de publication]**.
 
    >[!TIP]
    >
@@ -34,7 +34,7 @@ Pour utiliser votre [Calendrier marketing](/help/marketo/product-docs/core-marke
 
    ![](assets/3.png)
 
-1. Vérifier **Activer la licence** et cliquez sur **Enregistrez.**
+1. Vérifier **[!UICONTROL Activer la licence]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    >[!NOTE]
    >
@@ -45,5 +45,3 @@ Pour utiliser votre [Calendrier marketing](/help/marketo/product-docs/core-marke
    C&#39;est joli ! Voir la coche verte sous &quot;Calendrier ?&quot;
 
    ![](assets/5.png)
-
-Génial - Vous êtes prêt à planifier&#39; !

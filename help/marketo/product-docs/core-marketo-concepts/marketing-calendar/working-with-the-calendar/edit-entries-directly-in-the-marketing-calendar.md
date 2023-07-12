@@ -3,7 +3,7 @@ unique-page-id: 2953352
 description: Modification Des Entrées Directement Dans Le Calendrier Marketing - Documents Marketo - Documentation Du Produit
 title: Modifier directement les entrées dans le calendrier marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -16,11 +16,11 @@ Une fois en mode de mise au point du programme, vous pouvez rapidement apporter 
 
 ## Activer la cible du programme {#enable-program-focus}
 
-1. Accédez au **Calendrier**.
+1. Cliquez sur le bouton **[!UICONTROL Calendrier]** mosaïque.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Sélectionnez une entrée appartenant au programme sur lequel vous souhaitez vous concentrer et cliquez sur **Afficher la cible du programme**.
+1. Sélectionnez une entrée appartenant au programme sur lequel vous souhaitez vous concentrer et cliquez sur **[!UICONTROL Afficher la cible du programme]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -66,4 +66,4 @@ C&#39;est tout ! Comme vous pouvez le constater, vous pouvez réaliser de nombre
 
 >[!MORELIKETHIS]
 >
->[Suppression directe des entrées dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>[Suppression directe des entrées dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}

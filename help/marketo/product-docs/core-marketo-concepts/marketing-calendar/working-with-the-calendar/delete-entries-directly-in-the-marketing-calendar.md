@@ -3,22 +3,22 @@ unique-page-id: 2953358
 description: Suppression Directement Des Entrées Dans Le Calendrier Marketing - Documents Marketo - Documentation Du Produit
 title: Suppression directe des entrées dans le calendrier marketing
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # Suppression directe des entrées dans le calendrier marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-En complément de [création](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) et [édition](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) , vous pouvez les supprimer directement dans le calendrier marketing. Voici comment.
+En complément de [création](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} , vous pouvez les supprimer directement dans le calendrier marketing. Voici comment.
 
-1. Accédez au **Calendrier**.
+1. Cliquez sur le bouton **MU** mosaïque.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. Sélectionnez l’entrée à supprimer, puis cliquez sur **Afficher la cible du programme**.
+1. Sélectionnez l’entrée à supprimer, puis cliquez sur **[!UICONTROL Afficher la cible du programme]**.
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
@@ -26,8 +26,8 @@ En complément de [création](/help/marketo/product-docs/core-marketo-concepts/m
 
    ![](assets/image2014-10-20-13-3a20-3a42.png)
 
-Selon l’entrée, vous devrez peut-être confirmer la suppression. Mais c&#39;est tout ! C&#39;est facile.
+Selon l’entrée, vous devrez peut-être confirmer la suppression. Mais c&#39;est tout !
 
 >[!MORELIKETHIS]
 >
->[Confirmation des entrées directement dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
+>[Confirmation des entrées directement dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}

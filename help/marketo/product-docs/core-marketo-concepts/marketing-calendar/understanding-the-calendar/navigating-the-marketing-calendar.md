@@ -3,7 +3,7 @@ unique-page-id: 1147257
 description: Navigation dans le calendrier marketing - Documents Marketo - Documentation du produit
 title: Navigation dans le calendrier marketing
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 1%
@@ -16,7 +16,7 @@ La navigation dans le calendrier marketing est facile comme un, deux, trois !
 
 >[!PREREQUISITES]
 >
->Assurez-vous que vous disposez d’une [Licence de calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - dans le cas contraire, la mosaïque Calendrier marketing ne s’affichera pas dans Mon Marketo.
+>Assurez-vous que vous disposez d’une [Licence de calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - dans le cas contraire, la mosaïque Calendrier marketing ne s’affichera pas dans Mon Marketo.
 
 1. Accédez au **Calendrier marketing**.
 
@@ -28,7 +28,7 @@ La navigation dans le calendrier marketing est facile comme un, deux, trois !
 
 ## Changement entre les modes {#change-between-modes}
 
-1. Cliquez sur le bouton **3 semaines** ou **Mois** onglets pour basculer entre les modes.
+1. Cliquez sur le bouton **[!UICONTROL 3 semaines]** ou **[!UICONTROL Mois]** onglets pour basculer entre les modes.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -36,11 +36,11 @@ La navigation dans le calendrier marketing est facile comme un, deux, trois !
 
 La vue Agenda affiche toutes vos entrées sous la forme d’une liste.
 
-1. Cliquez sur le bouton **Menu déroulant Filtre**.
+1. Cliquez sur le bouton **[!UICONTROL Filtrer]** menu déroulant.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Sélectionnez la **Agenda** vue.
+1. Sélectionnez la **[!UICONTROL Agenda]** vue.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -66,4 +66,4 @@ Super ! Ce sont les bases. Vous pouvez également personnaliser votre vue à l�
 
 >[!MORELIKETHIS]
 >
->[Filtrage du calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>[Filtrage du calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
