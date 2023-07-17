@@ -2,10 +2,10 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 9%
+source-wordcount: '673'
+ht-degree: 8%
 
 ---
 
@@ -165,6 +165,10 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 Deux améliorations ont été apportées à la personnalisation en temps réel de Marketo Engage.
 
-* **Mise à niveau vers Google Analytics 4**: Marketo prenait auparavant en charge Universal Analytics, qui cesserait d’enregistrer les données d’ici le 1er juillet 2023. Les utilisateurs RTP devront suivre le processus de migration dans leur tableau de bord Google Analytics pour terminer la prise en charge de l’intégration de Google Analytics 4 dans RTP. À l’avenir, les utilisateurs disposeront d’une balise alphanumérique unique (située dans la variable `<head>` de la section html) dans leurs landing pages, ce qui permet à Marketo d’envoyer des données aux Google Analytics.
+* **Mise à niveau vers jQuery 3.7**: Pour améliorer la sécurité et la stabilité, Marketo effectue une mise à niveau vers jQuery 3.7.0. Les utilisateurs RTP qui ne chargent pas leur propre jQuery ne seront pas affectés négativement, car Marketo modifie la version par défaut chargée à partir de rtp.js. Cependant, si vous êtes un utilisateur RTP avec une version de jQuery antérieure à 3.0.0, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour obtenir de l’aide sur la mise en oeuvre d’une version personnalisée de rtp.js qui répond à vos besoins.
 
-* **Mise à niveau vers jQuery 3.7**: Pour améliorer la sécurité et la stabilité, Marketo effectue une mise à niveau vers jQuery 3.7.0. Les utilisateurs RTP qui ne chargent pas leur propre jQuery ne seront pas affectés négativement, car Marketo modifie la version par défaut chargée à partir de rtp.js. Cependant, si vous êtes un utilisateur RTP avec une version de jQuery antérieure à 3.0.0, veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour obtenir de l’aide sur la mise en oeuvre d’une version personnalisée de rtp.js qui répond à vos besoins.
+>[!NOTE]
+>
+>Associez-vous à votre équipe de développement web pour déterminer si votre site charge votre propre bibliothèque JQuery ou utilise la version par défaut chargée à partir de la balise JavaScript RTP de personnalisation web.
+
+* **Mise à niveau vers Google Analytics 4**: Marketo prenait auparavant en charge Universal Analytics, qui cesserait d’enregistrer les données d’ici le 1er juillet 2023. Les utilisateurs RTP devront suivre le processus de migration dans leur tableau de bord Google Analytics pour terminer la prise en charge de l’intégration de Google Analytics 4 dans RTP. À l’avenir, les utilisateurs disposeront d’une balise alphanumérique unique (située dans la variable `<head>` de la section html) dans leurs landing pages, ce qui permet à Marketo d’envoyer des données aux Google Analytics.
