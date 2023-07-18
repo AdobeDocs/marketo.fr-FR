@@ -3,20 +3,20 @@ description: Hériter du document - Documents Marketo - Documentation du produit
 title: Hériter du document
 hide: true
 hidefromtoc: true
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '188'
 ht-degree: 55%
 
 ---
 
 # Hériter du document {#inherit-doc}
 
-Avez-vous hérité d’une instance de Marketo Engage existante d’un autre administrateur ? Si tel est le cas, ce guide est destiné à vous.
+Avez-vous hérité d’une instance de Marketo Engage existante d’un autre administrateur ? Si c&#39;est le cas, cet article est pour vous.
 
 >[!TIP]
 >
->Si vous êtes un nouvel utilisateur Marketo Engage et que vous ne connaissez pas la plupart des termes, consultez la section [Glossaire Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+>Si vous êtes un nouvel utilisateur Marketo Engage et que vous ne connaissez pas beaucoup des termes, consultez la section [Glossaire Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
 ## Utilisateurs et rôles {#users-and-roles}
 

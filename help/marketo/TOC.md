@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
-source-wordcount: '8989'
+source-wordcount: '8996'
 ht-degree: 5%
 
 ---
@@ -1344,6 +1344,7 @@ ht-degree: 5%
                + [Désolidariser Salesforce des actions Sales Insight](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Journalisation des réponses](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Diagnostics Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
+               + [Configuration d’un environnement de test d’actions de statistiques sur les ventes](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [Synchroniser les activités de vente avec Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Configuration du package Salesforce {#salesforce-package-configuration}
                + [Configuration des actions d’aperçu des ventes dans Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)

@@ -1,10 +1,8 @@
 ---
 description: Diagnostics Salesforce - Documents Marketo - Documentation du produit
 title: Diagnostics Salesforce
-hide: true
-hidefromtoc: true
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
 source-wordcount: '1445'
 ht-degree: 1%
@@ -181,7 +179,7 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** TXN_SECURITY_NO_ACCESS\
 **Catégorie :** Accès/Validation\
-**Message :** L’opération que vous avez demandée n’est pas autorisée en raison d’une stratégie de sécurité de votre entreprise. Contactez votre administrateur.
+**Message :** L’opération que vous avez demandée n’est pas autorisée en raison d’une stratégie de sécurité de votre entreprise. Contactez l’administration.
 **Ce qui se passe :** Une certaine restriction de sécurité a été configurée - voir https://developer.salesforce.com/forums/?id=&quot;enregistrement ID&quot;\
 **Étapes de dépannage :** Adressez-vous à votre administrateur Salesforce pour voir quelle est la restriction spécifique.
 
