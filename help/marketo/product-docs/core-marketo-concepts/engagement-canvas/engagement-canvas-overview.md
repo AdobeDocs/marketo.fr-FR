@@ -4,7 +4,7 @@ title: Présentation du canevas d’engagement
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 60b3abf6639e4a257b37fd3ace3cb5a3a6c318fb
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -43,7 +43,7 @@ EN-TÊTE - DESCRIPTIONS DE CARTE ? - LOPA CONFIRME
 
 ## Campagnes imbriquées {#nested-campaigns}
 
-* Si une campagne comprend une étape de flux Demander ou Exécuter la campagne , un clic sur la carte de flux affiche les détails de l’opération en cours d’appel, ainsi qu’un panneau de sortie avec des informations supplémentaires. (La campagne imbriquée comprend également une pilule de fermeture, si vous cliquez dessus, les cartes associées à la campagne imbriquée sont réduites.) !!!!!!!!!!!!! - REMODER OU SUPPRIMER - LOPA CONFIRME
+* Si une campagne comprend une étape de flux Demander ou Exécuter la campagne , un clic sur la carte de flux affiche les détails de l’opération en cours d’appel, ainsi qu’un panneau de sortie avec des informations supplémentaires. (La campagne imbriquée comprend également une pilule de fermeture, si vous cliquez dessus, les cartes associées à la campagne imbriquée sont réduites.) !!!!!!!!!!!! - REMODER OU SUPPRIMER - LOPA CONFIRME
 
 * Si une campagne comprend une étape de flux Demander ou Exécuter une campagne avec des choix, un clic sur la carte de flux affiche une carte de choix, ainsi qu’un panneau d’affichage avec des informations supplémentaires sur les choix. Cliquez sur chaque carte de choix pour afficher les détails de la campagne en cours d’appel, ainsi qu’un panneau déroulant contenant des informations supplémentaires.
 
