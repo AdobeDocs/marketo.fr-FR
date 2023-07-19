@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 5%
@@ -400,7 +400,7 @@ ht-degree: 5%
             + [Utilisation des coûts de période dans un programme](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Bibliothèque de programmes {#program-library}
             + [Présentation de la bibliothèque d’importation de programmes](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Modèle de programme de gestion de contenu](product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md)
+            + [Exemple de programme de gestion de contenu](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
          + Rapport Performance du programme {#program-performance-report}
             + [Création d’un rapport Performance de programme](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Ajout de colonnes d’état du programme à un rapport de programme](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -634,7 +634,7 @@ ht-degree: 5%
             + [Réunions](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [Routage](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Intégrations {#integrations}
-            + [Connexion du Dynamic Chat à Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Connexion de la messagerie dynamique à Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Utilisation de la carte de document](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Dialogues {#dialogues}
             + [Présentation de la boîte de dialogue](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
