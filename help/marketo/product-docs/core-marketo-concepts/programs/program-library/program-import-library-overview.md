@@ -3,9 +3,10 @@ description: Présentation de la bibliothèque d’importation de programme - Do
 title: Présentation de la bibliothèque d’importation de programmes
 hide: true
 hidefromtoc: true
-source-git-commit: aa40c14f1c781b43db224bc4b47df16f00e70122
+exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ Texte d’introduction.
 
 —Informations sur la bibliothèque d’importation de programme Marketo Engage ici—
 
-* [Gestion du consentement préalable](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md){target="_blank"}
+* [Gestion de contenu OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md){target="_blank"}
 
 * Gestion de la délivrabilité des OP
 

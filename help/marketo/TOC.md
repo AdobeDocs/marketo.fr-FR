@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 5%
@@ -400,7 +400,7 @@ ht-degree: 5%
             + [Utilisation des coûts de période dans un programme](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Bibliothèque de programmes {#program-library}
             + [Présentation de la bibliothèque d’importation de programmes](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Modèle de programme de gestion du consentement](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md)
+            + [Modèle de programme de gestion de contenu](product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md)
          + Rapport Performance du programme {#program-performance-report}
             + [Création d’un rapport Performance de programme](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Ajout de colonnes d’état du programme à un rapport de programme](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -622,7 +622,7 @@ ht-degree: 5%
          + [Ajout d’audiences mappées LinkedIn en tant que service LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Envoi d’une liste à un réseau publicitaire](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Chat dynamique {#dynamic-chat}
-         + [Présentation de la conversation dynamique](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Présentation du Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configuration initiale](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Ajout ou suppression d’utilisateurs de conversation](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Notifications du navigateur](product-docs/demand-generation/dynamic-chat/browser-notifications.md)

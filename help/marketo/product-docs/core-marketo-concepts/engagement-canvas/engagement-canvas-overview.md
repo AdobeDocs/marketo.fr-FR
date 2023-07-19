@@ -4,9 +4,9 @@ title: Présentation du canevas d’engagement
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,35 @@ Le volet de navigation supérieur comprend les fonctionnalités suivantes :
 
 ## Questions fréquentes {#faq}
 
-LOPA FOURNIT
+**Dois-je reconstruire toutes mes campagnes dans la zone de travail Engagement ?**
+
+Nombre Le canevas d’engagement est entièrement rétrocompatible. Cliquez sur un bouton pour afficher chacune de vos campagnes existantes dans l’interface du Canevas d’engagement visuel.
+
+**Avoir un canevas d’engagement en Marketo Engage signifie-t-il que je n’aurai plus accès à la structure de dossiers et devront réapprendre à créer une campagne dynamique ?**
+
+Nombre Le canevas d’engagement offre un meilleur des deux mondes. il est complémentaire à la manière dont vous créez des campagnes actuellement. Vous pouvez choisir si vous souhaitez utiliser l’interface utilisateur existante ou créer/visualiser dans la nouvelle interface utilisateur. Tous les utilisateurs disposeront toujours d’une puissante fonctionnalité de Marketo Engage, désormais complétée par un outil de création visuelle.
+
+**Le canevas d’engagement est-il un module complémentaire payant ?**
+
+Nombre Tous les utilisateurs Marketo Engage existants ou nouveaux sous tous les abonnements auront accès à cette fonctionnalité gratuite.
+
+**En tant qu’administrateur Marketo Engage, suis-je responsable de l’activation/désactivation du canevas d’engagement ?**
+
+Nombre Le canevas d’engagement sera disponible pour tous les utilisateurs dans leurs instances. Vous ne pourrez pas l’activer/désactiver pour certains utilisateurs, espaces de travail, etc.
+
+**Tout ce qui est actuellement disponible dans les campagnes dynamiques est-il également disponible dans la zone de travail Engagement ?**
+
+Oui. Le canevas d’engagement offre une parité complète des fonctionnalités avec les campagnes dynamiques.
+
+**En quoi cela diffère-t-il des autres créateurs visuels ?**
+
+Trois éléments clés distinguent le canevas d’engagement :
+
+* Flexibilité : Gérez et validez facilement des campagnes interconnectées ou imbriquées de manière approfondie grâce à la visualisation.
+
+* Fonctionnalité : Tous les visuels sont prêts à l’emploi, ce qui facilite leur utilisation. la structure imbriquée vous permet de plonger et d&#39;obtenir le tableau entier.
+
+* Puissance : Vous conservez toute la sophistication existante du Marketo Engage, maintenant dans un format visuel.
 
 >[!MORELIKETHIS]
 >
