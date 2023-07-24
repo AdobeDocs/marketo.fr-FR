@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: d232da08e8637a33ff76d63e7984d794a1e18e16
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '713'
 ht-degree: 8%
 
 ---
@@ -45,7 +45,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 </br>
 
-* **Source de conversation pour le Dynamic Chat**: &quot;Chat&quot; est désormais proposé comme source de nouveaux enregistrements de personnes et d&#39;activités. Cette source peut être utilisée pour aider les utilisateurs à filtrer les activités dans les listes dynamiques/campagnes. La source peut également être bloquée des mises à jour des champs.
+* **Source de conversation pour la conversation dynamique**: &quot;Chat&quot; est désormais proposé comme source de nouveaux enregistrements de personnes et d&#39;activités. Cette source peut être utilisée pour aider les utilisateurs à filtrer les activités dans les listes dynamiques/campagnes. La source peut également être bloquée des mises à jour des champs.
 
 <table> 
   <tr> 
@@ -172,3 +172,5 @@ Deux améliorations ont été apportées à la personnalisation en temps réel d
 >Associez-vous à votre équipe de développement web pour déterminer si votre site charge votre propre bibliothèque JQuery ou utilise la version par défaut chargée à partir de la balise JavaScript RTP de personnalisation web.
 
 * **Mise à niveau vers Google Analytics 4**: Marketo prenait auparavant en charge Universal Analytics, qui cesserait d’enregistrer les données d’ici le 1er juillet 2023. Les utilisateurs RTP devront suivre le processus de migration dans leur tableau de bord Google Analytics pour terminer la prise en charge de l’intégration de Google Analytics 4 dans RTP. À l’avenir, les utilisateurs disposeront d’une balise alphanumérique unique (située dans la variable `<head>` de la section html) dans leurs landing pages, ce qui permet à Marketo d’envoyer des données aux Google Analytics.
+
+* **_Webinaire sur la version du produit_**: Rejoignez-nous le 6 septembre 2023, à 9h00 PT / 12h00 ET pour une [webinaire en direct](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} hébergée par notre équipe produit, où vous découvrirez comment utiliser toutes les dernières innovations de produits.
