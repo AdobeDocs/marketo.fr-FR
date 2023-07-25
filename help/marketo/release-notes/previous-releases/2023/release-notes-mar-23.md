@@ -150,7 +150,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Prise en charge linguistique supplémentaire pour le Dynamic Chat**: Vous pouvez désormais choisir parmi neuf langues prises en charge pour afficher le contenu du Dynamic Chat statique dans .
+* **Prise en charge linguistique supplémentaire pour Dynamic Chat**: Vous pouvez désormais choisir parmi neuf langues prises en charge pour afficher le contenu du Dynamic Chat statique dans .
 
 <table> 
   <tr> 
@@ -164,7 +164,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Accès au noeud dans l’aperçu du concepteur de diffusion pour Dynamic Chat**: Accédez directement à un noeud dans le concepteur de flux à partir du panneau d’aperçu.
+* **Saut au noeud dans l’aperçu du concepteur de diffusion pour la messagerie instantanée dynamique**: Accédez directement à un noeud dans le concepteur de flux à partir du panneau d’aperçu.
 
 <table> 
   <tr> 
