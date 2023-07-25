@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Une fois que vous avez terminé la [configuration initiale](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}, il est temps d’effectuer la synchronisation unique du Dynamic Chat de connexion à votre abonnement Marketo.
 
-1. Dans Mon Marketo, cliquez sur le bouton **Chat dynamique** mosaïque.
+1. Dans Mon Marketo, cliquez sur le bouton **Dynamic Chat** mosaïque.
 
    ![](assets/connect-dynamic-chat-to-marketo-1.png)
 
