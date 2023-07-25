@@ -3,10 +3,11 @@ unique-page-id: 2360335
 description: Mises à jour de champ de bloc pendant l’importation de liste à partir de sources non approuvées - Documents Marketo - Documentation du produit
 title: Mises à jour de champ de bloc pendant l’importation de liste à partir de sources non approuvées
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
