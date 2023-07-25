@@ -3,7 +3,8 @@ unique-page-id: 7514898
 description: Configuration d’une campagne dynamique de déclenchement pour les ventes à l’aide de "Campaign is Requested" - Documents Marketo - Documentation du produit
 title: Configuration d’une campagne dynamique de déclenchement pour les ventes à l’aide de "Campaign is Requested" (Campaign demandé)
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -20,7 +21,6 @@ L’une des fonctionnalités les plus intéressantes de Marketo est la possibili
 >
 >1. **Soutien à long terme** - quand ils n&#39;ont pas de budget cette année et que vous voulez simplement rester sur le radar
 >1. **Principal cycle de vente** - lorsque le vendeur ne veut pas de messages à la personne sauf le sien. (utilisez l’indicateur marketing suspendu pour le désabonner temporairement)
-
 >
 >Soyez créatifs ! Qu&#39;est-ce que le vendeur aimerait automatiser ? Demandez-leur et branchez-le !
 

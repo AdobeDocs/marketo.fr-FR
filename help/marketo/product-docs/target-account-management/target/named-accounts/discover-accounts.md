@@ -3,10 +3,11 @@ unique-page-id: 11378812
 description: Discover Comptes - Documents Marketo - Documentation du produit
 title: Découverte des comptes
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -75,7 +76,6 @@ Identifiez les bonnes entreprises pour le ciblage.
    >* Filtre la plupart des fournisseurs de services Internet et des domaines publics (par exemple, yahoo.com, gmail.com) comme noms de société
    >
    >* déduplique les comptes CRM. Si vous avez &quot;Acme&quot; dans un enregistrement et &quot;Acme Inc&quot; (ou l’un des suffixes suivants : Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), nous les fusionnerons dans TAM en tant que simplement &quot;Acme&quot;.
-
    >
    >Si vous souhaitez que Marketo déduplique les comptes par identifiant CRM ou propriétaire de compte au lieu de par nom de société, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
@@ -103,7 +103,7 @@ Identifiez les bonnes entreprises pour le ciblage.
 
    ![](assets/disc-comp-seven.png)
 
-   Beau travail !
+   Beau travail !
 
    ![](assets/disc-co-six.png)
 
@@ -113,7 +113,6 @@ Identifiez les bonnes entreprises pour le ciblage.
 >
 >* Disposer de différents comptes CRM avec des noms similaires qui ont été dédupliqués
 >* La synchronisation planifiée suivante ne s’est pas encore produite
-
 
 >[!MORELIKETHIS]
 >

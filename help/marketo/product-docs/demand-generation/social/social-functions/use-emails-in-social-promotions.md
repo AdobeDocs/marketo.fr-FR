@@ -3,7 +3,8 @@ unique-page-id: 2359793
 description: Utilisation des courriers électroniques dans les promotions sociales - Documents Marketo - Documentation du produit
 title: Utilisation des courriers électroniques dans les promotions sociales
 exl-id: 633ad86e-d085-420f-8e28-9b722e345852
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -67,7 +68,6 @@ Dans les emails, utilisez les jetons suivants :
 >* **auto sur l’objectif**: L’email d’exécution est envoyé automatiquement lorsque chaque participant répond à l’objectif.
 >* **envoi manuel**: Une fois que les personnes commencent à atteindre l’objectif, revenez à votre offre de référence pour [envoyer le courrier électronique d’exécution ;](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 >
-
 
 >[!MORELIKETHIS]
 >

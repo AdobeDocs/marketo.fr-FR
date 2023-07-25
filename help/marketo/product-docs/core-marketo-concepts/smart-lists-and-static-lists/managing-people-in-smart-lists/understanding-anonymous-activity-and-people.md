@@ -3,7 +3,8 @@ unique-page-id: 1147322
 description: Présentation de l’activité anonyme et des personnes - Documents Marketo - Documentation du produit
 title: Présentation de l’activité anonyme et des personnes
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%

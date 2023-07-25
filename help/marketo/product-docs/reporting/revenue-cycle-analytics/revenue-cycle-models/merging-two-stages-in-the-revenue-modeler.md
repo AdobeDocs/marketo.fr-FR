@@ -3,7 +3,8 @@ unique-page-id: 4718685
 description: Fusion de deux étapes dans le modèle de revenu - Documents Marketo - Documentation du produit
 title: Fusion de deux étapes dans le modèle de revenu
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

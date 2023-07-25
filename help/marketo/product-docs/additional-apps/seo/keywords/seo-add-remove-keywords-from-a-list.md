@@ -3,7 +3,8 @@ unique-page-id: 2949678
 description: SEO - Ajout/suppression de mots-clés d’une liste - Documents Marketo - Documentation du produit
 title: SEO - Ajouter/Supprimer des mots-clés d’une liste
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%

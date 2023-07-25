@@ -2,16 +2,17 @@
 description: Remplacement de priorité pour les campagnes de déclenchement - Documents Marketo - Documentation du produit
 title: Remplacement de priorité pour les campagnes de déclenchement
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # Remplacement de priorité pour les campagnes de déclenchement {#priority-override-for-trigger-campaigns}
 
-Les administrateurs peuvent remplacer la priorité déterminée de Marketo pour déclencher des campagnes afin de définir des priorités qui s’alignent mieux sur les objectifs de l’entreprise.
+Les administrateurs peuvent remplacer la priorité déterminée par Marketo pour les campagnes de déclenchement afin de définir des priorités qui correspondent le mieux aux objectifs commerciaux.
 
 >[!NOTE]
 >
@@ -58,4 +59,3 @@ Les administrateurs peuvent remplacer la priorité déterminée de Marketo pour 
 >* Vous pouvez afficher la priorité par défaut de votre campagne dans la [!UICONTROL File d’attente de campagne] under [!UICONTROL Activités marketing]. Pour augmenter le taux d&#39;exécution, nous vous recommandons de définir la priorité de votre campagne à un niveau supérieur à son niveau par défaut.
 >* La priorité définie par l’utilisateur s’applique uniquement aux nouvelles personnes qui remplissent les critères de la campagne. les personnes déjà en file d’attente ne seront pas affectées.
 >* Les remplacements de priorité sont capturés dans [Journal d’audit](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
-

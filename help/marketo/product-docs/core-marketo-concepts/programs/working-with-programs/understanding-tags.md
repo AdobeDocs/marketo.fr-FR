@@ -3,7 +3,8 @@ unique-page-id: 1147112
 description: Présentation des balises - Documents Marketo - Documentation du produit
 title: Présentation des balises
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 3%
@@ -30,7 +31,6 @@ Les types de balises identifient le type d’informations que vous souhaitez tri
 >
 >* Type de balise = Propriétaire du programme
 
-
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 
 ## Valeur de balise {#tag-value}
@@ -42,7 +42,6 @@ Chaque type de balise comporte des valeurs.
 >**Exemple**
 >
 >* Valeurs de balise = Anna, Arun, Reza
-
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
@@ -58,11 +57,9 @@ Les canaux sont utilisés pour créer des rapports sur la manière dont vos [mem
 >* État de progression = invité, enregistré, assisté, sans affichage
 >* Succès = Atteinte
 
-
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
 >* [Créer des balises personnalisées](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
 >* [Création d’un canal de programme](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
-

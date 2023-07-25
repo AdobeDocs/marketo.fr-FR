@@ -2,9 +2,10 @@
 description: Étape 2 sur 3 - Création d’un utilisateur CRM Veeva pour Marketo Engage - Documents Marketo - Documentation du produit
 title: Étape 2 sur 3 - Création d’un utilisateur CRM Veeva pour Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '632'
 ht-degree: 4%
 
 ---
@@ -17,7 +18,7 @@ ht-degree: 4%
 
 >[!PREREQUISITES]
 >
->[Étape 1 sur 3 : Ajout de champs Marketo à Salesforce (professionnel)](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target=&quot;_blank&quot;}
+>[Étape 1 sur 3 : Ajout de champs Marketo à Salesforce (professionnel)](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
 
 Dans cet article, vous allez personnaliser les autorisations de champ avec une mise en page de page CRM Veeva et créer un utilisateur de synchronisation CRM Marketo-Veeva.
 
@@ -200,4 +201,4 @@ Excellent ! Vous disposez à présent d’un compte que Marketo Engage peut util
 
 >[!MORELIKETHIS]
 >
->[Étape 3 sur 3 : Connexion à Marketo et Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target=&quot;_blank&quot;}
+>[Étape 3 sur 3 : Connexion à Marketo et Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}

@@ -3,10 +3,11 @@ unique-page-id: 17727591
 description: Connexion par courrier électronique pour les utilisateurs d’Outlook - Documents Marketo - Documentation du produit
 title: Connexion par e-mail pour les utilisateurs Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '352'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -49,7 +50,7 @@ La connexion à Outlook signifie que vous recevrez le suivi des réponses, l’a
    <table> 
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
+      <td><strong>Outlook en ligne</strong></td> 
       <td>Également appelé Exchange Online</td> 
      </tr>
      <tr>
@@ -112,7 +113,7 @@ La connexion à Exchange On-Premise signifie que vous recevrez le suivi des rép
    <table> 
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
+      <td><strong>Outlook en ligne</strong></td> 
       <td>Également appelé Exchange Online</td> 
      </tr>
      <tr>

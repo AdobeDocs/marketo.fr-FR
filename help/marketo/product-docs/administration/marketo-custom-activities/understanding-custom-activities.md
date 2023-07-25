@@ -3,7 +3,8 @@ unique-page-id: 10100266
 description: Présentation des activités personnalisées - Documents Marketo - Documentation du produit
 title: Présentation des activités personnalisées
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Custom Activities
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 6%
@@ -28,7 +29,7 @@ Les activités personnalisées vous aident à effectuer le suivi d’une activit
 
 **Champs** Vous pouvez ajouter [Champs supplémentaires](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) que vous souhaitez associer à votre activité. Comme le champ Principal, ils peuvent être utilisés comme critères de filtrage dans une liste dynamique.
 
-**Démarrer**
+**Premiers pas**
 
 Les activités personnalisées fonctionnent comme des activités standard. Toutefois, leur configuration est un processus en deux parties.
 

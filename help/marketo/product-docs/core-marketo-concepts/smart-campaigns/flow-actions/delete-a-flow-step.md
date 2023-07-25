@@ -3,7 +3,8 @@ unique-page-id: 1146987
 description: Suppression d’une étape de flux - Documents Marketo - Documentation du produit
 title: Suppression d’une étape de flux
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -54,16 +55,15 @@ D&#39;abord, faisons les bases. Voici comment supprimer une étape de flux indé
    >**Exemple**
    >
    >1. Une campagne intelligente comporte 3 étapes.
-      >    * ÉTAPE 1. Envoyer un courrier électronique #1
-      >    * ÉTAPE 2. Attente 1 semaine
-      >    * ÉTAPE 3. Envoyer un courrier électronique #2
+   >    * ÉTAPE 1. Envoyer un courrier électronique #1
+   >    * ÉTAPE 2. Attente 1 semaine
+   >    * ÉTAPE 3. Envoyer un courrier électronique #2
    >
    >1. Personnes qui ont frappé **Étape 2** attend 1 semaine avant de passer à **Étape 3**.
    >1. Vous supprimez **Étape 2** pendant la semaine.
    >1. Les gens continueront à attendre la semaine. (Ils ne reviennent pas automatiquement dans le flux.)
    >1. Quand ils reviendront enfin, ils essaieront d&#39;aller à **Étape 3**. Ils ne le trouveront pas.
    >1. **IMPORTANT :** Comme il n’y a maintenant que 2 étapes, la variable *Les gens ne recevront pas de #2 d&#39;email.*
-
 
 Modifications apportées à une campagne Principale
 

@@ -3,7 +3,8 @@ unique-page-id: 2359641
 description: Incorporation d’un formulaire sur votre site web - Documents Marketo - Documentation du produit
 title: Incorporation d’un formulaire sur votre site web
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -48,4 +49,4 @@ Maintenant, donnez simplement le code incorporé à votre développeur web et de
 >
 >Si votre développeur souhaite personnaliser l’aspect ou accéder à des fonctions d’API avancées, affichez-lui la variable [Page des développeurs Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/).
 
-Bon boulot ! Voulez-vous que la variable [code incorporé pour inclure du code Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? C&#39;est aussi facile !
+Très bon travail ! Voulez-vous que la variable [code incorporé pour inclure du code Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? C&#39;est aussi facile !

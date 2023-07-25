@@ -3,7 +3,8 @@ unique-page-id: 11376700
 description: Ajout de pistes à une audience personnalisée dans Facebook - Documents Marketo - Documentation du produit
 title: Ajout de pistes à une audience personnalisée dans Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -19,7 +20,6 @@ Vous disposez déjà d’une audience personnalisée dans Facebook et souhaitez 
 >* [Création d’une audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >* [Acceptation des termes d’audiences personnalisées Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte Facebook.
 >
-
 
 1. Recherchez et sélectionnez la liste dynamique ou statique qui contient les pistes à ajouter.
 

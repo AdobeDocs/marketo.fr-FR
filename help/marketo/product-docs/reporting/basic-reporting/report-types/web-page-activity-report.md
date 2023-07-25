@@ -3,7 +3,8 @@ unique-page-id: 2359971
 description: Rapport d’activité de page web - Documents Marketo - Documentation du produit
 title: Rapport Activité de la page web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 3%
@@ -19,7 +20,6 @@ Vous pouvez choisir d&#39;afficher les personnes connues ou anonymes, mais pas l
 >[!PREREQUISITES]
 >
 >* [Ajout du code de suivi Munchkin à votre site web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-
 
 1. [Créer un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)et sélectionnez la variable **Rapport Activité de la page web** [type de rapport](report-type-overview.md).
 
@@ -89,4 +89,3 @@ Vous pouvez choisir d&#39;afficher les personnes connues ou anonymes, mais pas l
 >
 >* [Pages Web consultées, rapport Activité de page Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [Affichage des personnes ou des visiteurs anonymes dans les rapports web](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
-

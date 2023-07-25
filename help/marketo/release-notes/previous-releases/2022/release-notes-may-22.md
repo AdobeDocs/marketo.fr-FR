@@ -2,7 +2,8 @@
 description: Notes de mise à jour - Mai 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Mai 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 0%
@@ -27,13 +28,13 @@ Les fonctionnalités suivantes commenceront à être publiées sur **6 mai 2022*
 
 ## Orchestration cross-canal {#cross-channel-orchestration}
 
-**Événements Chatbot pour les conversations dynamiques**: Tirez parti de données de comportement plus détaillées pour les visiteurs web, telles que le temps passé sur la page, le temps passé sur le site et le pourcentage de défilement de la page, afin de définir à quel moment une boîte de dialogue de conversation doit être affichée.
+**Événements Chatbot pour le Dynamic Chat**: Tirez parti de données de comportement plus détaillées pour les visiteurs web, telles que le temps passé sur la page, le temps passé sur le site et le pourcentage de défilement de la page, afin de définir à quel moment une boîte de dialogue de conversation doit être affichée.
 
 **Incorporation de PDF pour Dynamic Chat**: Augmentez l’engagement et partagez du contenu significatif en incorporant des PDF dans les boîtes de dialogue de conversation et en mesurant les performances du contenu par le biais du suivi des activités d’engagement.
 
-**Prise en charge linguistique étendue pour Dynamic Chat**: L’interface utilisateur de Dynamic Chat sera désormais disponible en allemand, en français, en japonais, en portugais et en espagnol. Les boîtes de dialogue de conversation peuvent également être configurées dans ces langues.
+**Prise en charge linguistique étendue pour le Dynamic Chat**: L’interface utilisateur du Dynamic Chat sera désormais disponible en allemand, en français, en japonais, en portugais et en espagnol. Les boîtes de dialogue de conversation peuvent également être configurées dans ces langues.
 
-**Exclure des URL pour la messagerie instantanée dynamique**: Contrôlez les pages de vos pages web avec la possibilité d’exclure des URL spécifiques des critères de ciblage.
+**Exclure des URL pour le Dynamic Chat**: Contrôlez le Dynamic Chat de vos pages web qui s’affiche avec la possibilité d’exclure des URL spécifiques des critères de ciblage.
 
 **[Améliorations du filtrage des activités des robots de messagerie](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: Continuez à protéger l’intégrité de votre base de données avec la possibilité d’identifier le comportement des robots en fonction des agents utilisateur ou des adresses IP des liens masqués et des modèles de proximité, en plus de l’identification des correspondances de liste IAB existante. Affichez les statistiques des activités de robots qui vous permettent de comprendre le nombre d’activités de robots identifiées pour chaque type.
 

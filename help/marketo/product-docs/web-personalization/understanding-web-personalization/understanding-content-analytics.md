@@ -3,7 +3,8 @@ unique-page-id: 10093159
 description: Présentation de Content Analytics - Documents Marketo - Documentation du produit
 title: Présentation de Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 2%
@@ -51,7 +52,7 @@ Le tableau Analytics fournit les détails suivants :
    <td colspan="1">Indique si l’élément de contenu a été ajouté pour <a href="#">Recommendations de contenu</a>.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Affichages</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Vues</strong></p></td> 
    <td colspan="1" rowspan="1"><p>Nombre d’affichages provenant des visiteurs web sur la ressource de contenu. Nombre de fois où il a été affiché, ouvert, visionné ou téléchargé. Cliquez sur le nombre de dans la colonne des vues pour analyser en profondeur et voir qui a consulté le contenu.</p></td> 
   </tr> 
   <tr> 
@@ -101,4 +102,3 @@ Dans la page Content Analytics, cliquez sur l’icône de suppression du contenu
 >
 >* [Activation de la barre de recommandation de contenu](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 >* [Activation du contenu prédictif pour le contenu multimédia Web enrichi](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
-

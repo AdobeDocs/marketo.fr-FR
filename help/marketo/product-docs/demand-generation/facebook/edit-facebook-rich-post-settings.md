@@ -3,7 +3,8 @@ unique-page-id: 2950555
 description: Modifier les paramètres de publication enrichie Facebook - Documents Marketo - Documentation du produit
 title: Modification des paramètres de publication enrichie Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 1%

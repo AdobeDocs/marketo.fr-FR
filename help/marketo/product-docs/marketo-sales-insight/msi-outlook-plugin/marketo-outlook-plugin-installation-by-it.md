@@ -3,7 +3,8 @@ unique-page-id: 11382815
 description: Installation du module externe Marketo Outlook par le service informatique - Documents Marketo - Documentation du produit
 title: Installation du module externe Marketo Outlook par le service informatique
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 1%

@@ -3,7 +3,8 @@ unique-page-id: 7504725
 description: Enregistrement d’un rapport de l’Explorateur des recettes - Documents Marketo - Documentation du produit
 title: Enregistrement d’un rapport Explorateur de recettes
 exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

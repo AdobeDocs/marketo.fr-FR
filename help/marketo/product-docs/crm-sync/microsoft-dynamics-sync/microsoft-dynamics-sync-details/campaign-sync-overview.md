@@ -2,10 +2,11 @@
 description: Présentation de la synchronisation Campaign - Documents Marketo - Documentation du produit
 title: Présentation de la synchronisation des campagnes
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
@@ -19,8 +20,8 @@ Dans le cadre de la synchronisation de Campaign, les utilisateurs peuvent config
 
 Les actions de flux suivantes sont disponibles :
 
-* Ajouter à Microsoft Campaign
-* Supprimer de Microsoft Campaign
+* Ajouter à la campagne Microsoft
+* Supprimer de la campagne Microsoft
 
 >[!NOTE]
 >
@@ -29,7 +30,7 @@ Les actions de flux suivantes sont disponibles :
 Il existe également deux déclencheurs :
 
 * Ajout à Microsoft Campaign
-* Supprimé de Microsoft Campaign
+* Supprimé de la campagne Microsoft
 
 Les déclencheurs s’exécuteront en fonction des actions de l’action de flux Marketo &quot;Ajouter à la campagne Microsoft&quot; et &quot;Supprimé de la campagne Microsoft&quot;.
 
@@ -41,4 +42,3 @@ Les déclencheurs s’exécuteront en fonction des actions de l’action de flux
 >
 >* [Activer la synchronisation de la campagne](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
 >* [Ajouter ou supprimer des personnes de votre campagne Dynamics](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
-

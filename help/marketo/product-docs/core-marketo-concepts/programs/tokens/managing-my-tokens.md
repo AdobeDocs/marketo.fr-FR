@@ -3,7 +3,8 @@ unique-page-id: 1147116
 description: Gestion de mes jetons - Documents Marketo - Documentation du produit
 title: Gestion de mes jetons
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -69,4 +70,3 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo. Vous pouvez 
    >* [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
    >* [Présentation de mes jetons dans un programme](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
    >* [Utilisation d’URL dans mes jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
-

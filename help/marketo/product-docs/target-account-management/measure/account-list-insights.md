@@ -3,7 +3,8 @@ unique-page-id: 11380787
 description: Informations sur la liste de comptes - Documents Marketo - Documentation du produit
 title: Informations sur la liste de comptes
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%
@@ -35,7 +36,7 @@ Pour afficher le tableau de bord d’une liste de comptes, il vous suffit de cli
    <td colspan="1">Voir le pipeline au fil du temps. Pour déterminer le pipeline au fil du temps, nous prenons le pipeline le dernier jour.</td> 
   </tr> 
   <tr> 
-   <td><strong>Chiffre d'affaires</strong></td> 
+   <td><strong>Recettes</strong></td> 
    <td><p>Voir les recettes au fil du temps. Pour déterminer les recettes au fil du temps, nous prenons la somme de toutes les recettes gagnées au cours de cette semaine.</p></td> 
   </tr> 
  </tbody> 

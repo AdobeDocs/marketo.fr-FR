@@ -2,7 +2,8 @@
 description: Mappage des champs Dynamics par défaut - Documents Marketo - Documentation du produit
 title: Mappage des champs Dynamics par défaut
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
-source-git-commit: d87809e12f153d025f8d013ea52e06c0b6530154
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 42%
@@ -53,8 +54,8 @@ Lors de la synchronisation initiale de votre compte Marketo avec Microsoft, Mark
       <td>lastname</td>
     </tr>
     <tr>
-      <td>Email</td>
-      <td>Email</td>
+      <td>E-mail</td>
+      <td>E-mail</td>
       <td>emailaddress1</td>
     </tr>
     <tr>
@@ -294,8 +295,8 @@ Les champs de piste ci-dessous sont synchronisés pour une utilisation interne.
       <td>lastname</td>
     </tr>
     <tr>
-      <td>Email</td>
-      <td>Email</td>
+      <td>E-mail</td>
+      <td>E-mail</td>
       <td>emailaddress1</td>
     </tr>
     <tr>
@@ -650,7 +651,7 @@ Les champs Compte ci-dessous sont synchronisés pour une utilisation interne.
     </tr>
     <tr>
       <td>Valeur estimée</td>
-      <td>Estimation Chiffre d’affaires</td>
+      <td>Estimation Recettes</td>
       <td>estimatedValue</td>
     </tr>
     <tr>

@@ -3,7 +3,8 @@ unique-page-id: 2360014
 description: Rapport Performance des personnes - Documents Marketo - Documentation du produit
 title: Rapport Performance des personnes
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -41,6 +42,6 @@ Vous pouvez :
 * [Sélectionnez les colonnes à inclure.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
 * [Triez les colonnes du rapport.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
 
-   >[!TIP]
-   >
-   >N’oubliez pas que les rapports sont faciles à générer [create](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), configurez et [delete](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Allez-y et jouez avec les nombreuses façons de les manipuler, pour découvrir les meilleures façons de se concentrer sur les données clés.
+  >[!TIP]
+  >
+  >N’oubliez pas que les rapports sont faciles à générer [create](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), configurez et [delete](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Allez-y et jouez avec les nombreuses façons de les manipuler, pour découvrir les meilleures façons de se concentrer sur les données clés.

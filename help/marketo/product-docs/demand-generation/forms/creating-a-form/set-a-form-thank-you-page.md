@@ -3,7 +3,8 @@ unique-page-id: 2359573
 description: Définition d’une page de remerciement de formulaire - Documents Marketo - Documentation du produit
 title: Définition d’une page de remerciement de formulaire
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 2%
@@ -138,4 +139,4 @@ Vous pouvez ajouter plusieurs options et intégrer des choix pour afficher aux p
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
-Bon boulot !
+Très bon travail !

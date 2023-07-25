@@ -3,7 +3,8 @@ unique-page-id: 2360281
 description: Suppression d’un canal de programme - Documents Marketo - Documentation du produit
 title: Suppression d’un canal de programme
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Tags
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 5%

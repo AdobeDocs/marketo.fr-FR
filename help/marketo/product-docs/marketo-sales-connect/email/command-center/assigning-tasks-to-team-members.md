@@ -3,7 +3,8 @@ unique-page-id: 45417460
 description: Affectation de tâches aux membres de l’équipe - Documents Marketo - Documentation du produit
 title: Affectation de tâches aux membres de l’équipe
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
-source-git-commit: 01a131e58a3f4ea80d30363d152608820530163e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

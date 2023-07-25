@@ -3,7 +3,8 @@ unique-page-id: 7514027
 description: Synchronisation de la personne avec Microsoft - Documents Marketo - Documentation du produit
 title: Synchroniser individu dans Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Microsoft Dynamics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 13%
@@ -14,7 +15,7 @@ ht-degree: 13%
 
 Cette fonctionnalité est réservée aux utilisateurs qui intègrent Marketo à Microsoft Dynamics.
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Cette étape de flux insère les personnes créées par Marketo dans votre CRM Dynamics.
 

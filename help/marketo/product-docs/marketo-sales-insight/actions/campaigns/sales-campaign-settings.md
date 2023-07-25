@@ -2,9 +2,10 @@
 description: Paramètres de campagne de vente - Documents Marketo - Documentation du produit
 title: Paramètres de campagne de ventes
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
-source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '226'
 ht-degree: 1%
 
 ---
@@ -79,7 +80,6 @@ Si le suivi des réponses est activé pour Gmail ou Exchange, nous pouvons autom
 
 >[!MORELIKETHIS]
 >
->* [Créer une campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
->* [Présentation des options d’envoi de campagne de ventes pour les étapes de courrier électronique](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
->* [Types d’étape de campagne de vente et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
-
+>* [Créer une campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>* [Présentation des options d’envoi de campagne de ventes pour les étapes de courrier électronique](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
+>* [Types d’étape de campagne de vente et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

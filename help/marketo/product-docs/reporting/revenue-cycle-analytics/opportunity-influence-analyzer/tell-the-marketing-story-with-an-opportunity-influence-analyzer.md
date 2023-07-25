@@ -3,7 +3,8 @@ unique-page-id: 2360237
 description: Racontez l’article marketing avec un analyseur d’influence d’opportunité - Documents Marketo - Documentation du produit
 title: Analyseur d’influence d’opportunité pour raconter l’histoire marketing
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -39,7 +40,6 @@ Utilisez un analyseur d’influence d’opportunité pour illustrer le rôle du 
    * Le **nombre entre parenthèses** est le nombre d’interactions avec ce contact.
 
    * ![—](assets/image2014-10-3-13-3a45-3a9.png)Le **étoile jaune** indique le Principal contact.
-
 
 1. Passez la souris sur un nom pour voir le titre de l’emploi de cette personne et la source de son implication dans l’opportunité.
 

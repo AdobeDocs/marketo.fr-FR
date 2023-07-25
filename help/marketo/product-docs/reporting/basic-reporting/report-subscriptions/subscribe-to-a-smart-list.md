@@ -3,7 +3,8 @@ unique-page-id: 7505310
 description: Abonnement à une liste dynamique - Documents Marketo - Documentation du produit
 title: Abonnement à une liste dynamique
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 1%
@@ -103,4 +104,3 @@ Pour supprimer un abonnement, sélectionnez-le dans l’onglet abonnements, puis
 >
 >* [Modification d’un abonnement à une liste dynamique](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
 >* [Définition du paramètre d’administration des abonnements](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
-

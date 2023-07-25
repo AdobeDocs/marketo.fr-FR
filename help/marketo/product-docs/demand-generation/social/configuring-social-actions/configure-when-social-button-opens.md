@@ -3,7 +3,8 @@ unique-page-id: 2950551
 description: Configuration lorsque le bouton Social s’ouvre - Documents Marketo - Documentation du produit
 title: Configuration à l’ouverture du bouton Social
 exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

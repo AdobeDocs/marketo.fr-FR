@@ -3,7 +3,8 @@ unique-page-id: 1147089
 description: Présentation des programmes - Documents Marketo - Documentation du produit
 title: Présentation des programmes
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 7%
@@ -32,11 +33,10 @@ Le **[diffusion email classique](/help/marketo/product-docs/email-marketing/emai
 
 Un programme par défaut est tout ce qui n’est pas un programme d’événement, d’engagement ou de messagerie électronique. Soyez créatifs !
 
-Commençons sans tarder ! 
+Commençons!
 
 >[!MORELIKETHIS]
 >
 >* [Création d’un programme](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Présentation des balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
 >* [Compréhension de l’appartenance au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
-

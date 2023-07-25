@@ -3,7 +3,8 @@ unique-page-id: 2953132
 description: Présentation des campagnes dynamiques par lots et par déclenchement - Documents Marketo - Documentation du produit
 title: Présentation des campagnes dynamiques par lots et par déclenchement
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%

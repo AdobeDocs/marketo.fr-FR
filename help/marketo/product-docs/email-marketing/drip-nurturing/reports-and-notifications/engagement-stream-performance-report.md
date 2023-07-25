@@ -3,7 +3,8 @@ unique-page-id: 2359955
 description: Rapport Performances du flux d’engagement - Documents Marketo - Documentation du produit
 title: Rapport Performances du flux d’engagement
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs, Reporting
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 2%
@@ -61,4 +62,4 @@ Vous souhaitez connaître les performances de votre contenu d’engagement ? Ess
    >
    >Bien qu’elle ne soit pas illustrée, la note d’engagement est une colonne de ce rapport. Voir [Présentation de la note d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) pour plus d’informations.
 
-   Bon boulot ! Notez que le rapport est regroupé par programme d’engagement.
+   Très bon travail ! Notez que le rapport est regroupé par programme d’engagement.

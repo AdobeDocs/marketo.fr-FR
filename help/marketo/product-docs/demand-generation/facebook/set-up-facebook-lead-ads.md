@@ -3,7 +3,8 @@ unique-page-id: 11379622
 description: Configuration des publicités Facebook - Documents Marketo - Documentation du produit
 title: Configuration de publicités Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -83,4 +84,3 @@ Utilisation [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) po
 >* [Attribuer/supprimer des autorisations dans le Gestionnaire des accès aux pistes (Facebook)](https://www.facebook.com/business/help/540596413257598?id=735435806665862)
 >* [Utilisation des filtres et des déclencheurs de piste dans une campagne dynamique](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [Mappage de champs personnalisés à Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-

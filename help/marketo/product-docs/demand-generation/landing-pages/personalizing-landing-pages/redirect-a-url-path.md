@@ -3,7 +3,8 @@ unique-page-id: 2359826
 description: Redirection d’un chemin d’URL - Documents Marketo - Documentation du produit
 title: Redirection d’un chemin d’URL
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -44,7 +45,7 @@ Marketo facilite la redirection d’un chemin d’URL vers n’importe quelle pa
 
    Vous pouvez [Utilisation des landing pages Marketo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) comme destination également.
 
-Félicitations ! Vous avez correctement redirigé votre chemin d’URL.
+Félicitations ! Vous avez correctement redirigé votre chemin d’URL.
 
 >[!MORELIKETHIS]
 >

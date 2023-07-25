@@ -3,7 +3,8 @@ unique-page-id: 2360421
 description: Remplacement du comportement d’Analytics au niveau du programme - Documents Marketo - Documentation du produit
 title: Remplacement du comportement d’Analytics au niveau du programme
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -34,7 +35,6 @@ Vous pouvez définir la variable [comportement des analyses au niveau administra
    >
    >* **Inclusif** - Cette option garantit que le programme est disponible pour la création de rapports dans l’explorateur et les analyseurs de recettes, que vous ayez inclus ou non un coût par période.
    >* **Opérationnel** - Avec cette option, le programme ne s’affiche ni dans l’explorateur de recettes ni dans les analyseurs.
-
 
    >[!NOTE]
    >

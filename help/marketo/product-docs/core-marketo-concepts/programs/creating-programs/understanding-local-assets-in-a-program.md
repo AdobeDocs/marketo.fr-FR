@@ -3,7 +3,8 @@ unique-page-id: 1147093
 description: Présentation des ressources locales dans un programme - Documents Marketo - Documentation du produit
 title: Présentation des ressources locales dans un programme
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 21%
@@ -25,7 +26,7 @@ Les ressources locales sont le contenu qui constitue votre programme. Les ressou
 * [Listes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 * [Rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
 * [Programmes d&#39;e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)
-* [Adresse e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+* [E-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 * [Notifications Push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
 * [Page de destination](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
 * [Formulaires](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)

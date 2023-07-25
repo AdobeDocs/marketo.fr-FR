@@ -3,7 +3,8 @@ unique-page-id: 8782944
 description: Faire de l’utilisateur de synchronisation Marketo un utilisateur marketing - Documents Marketo - Documentation du produit
 title: Rendre l’utilisateur de synchronisation Marketo un utilisateur marketing
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%

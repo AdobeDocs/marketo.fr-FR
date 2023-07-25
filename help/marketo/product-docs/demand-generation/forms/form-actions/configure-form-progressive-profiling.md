@@ -3,7 +3,8 @@ unique-page-id: 2359646
 description: Configurer le profilage progressif de formulaire - Documents Marketo - Documentation du produit
 title: Configurer le profilage progressif du formulaire
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -70,7 +71,6 @@ Les formulaires courts sont bons ! Lorsqu’une personne revient à un formulair
    >* Nom (vide)
    >* Adresse électronique (vide)
    >* Numéro de téléphone (vide)
-
    >
    >En supposant qu’ils remplissent chaque champ, la deuxième fois qu’ils le visitent, ils verront :
    >
@@ -78,7 +78,6 @@ Les formulaires courts sont bons ! Lorsqu’une personne revient à un formulair
    >* Nom (prérempli)
    >* Adresse électronique (préremplie)
    >* Numéro de téléphone mobile (vide)
-
    >
    >En supposant qu’ils renseignent le numéro de téléphone mobile, la troisième fois qu’ils visitent, ils verront :
    >
@@ -86,7 +85,6 @@ Les formulaires courts sont bons ! Lorsqu’une personne revient à un formulair
    >* Nom (prérempli)
    >* Adresse électronique (préremplie)
    >* Pays (vide)
-
 
 1. Cliquez sur **Terminer**.
 

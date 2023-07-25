@@ -2,7 +2,8 @@
 description: Paramètres de consentement bipartite - Documents Marketo - Documentation du produit
 title: Paramètres de consentement à deux parties
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

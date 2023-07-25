@@ -3,7 +3,8 @@ unique-page-id: 1146944
 description: Ajout d’une étape de flux à une campagne dynamique - Documents Marketo - Documentation du produit
 title: Ajout d’une étape de flux à une campagne dynamique
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -48,4 +49,3 @@ Super ! Veillez à [révision et validation de la campagne dynamique](/help/mar
 >
 >* [Utilisation de l’option Ajouter un choix à une étape de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
 >* [Réorganiser les étapes de flux dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2359462
 description: Approbation/désapprobation d’un programme de messagerie électronique - Documents Marketo - Documentation du produit
 title: Approbation/désapprobation d’un programme de messagerie
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -20,7 +21,6 @@ ht-degree: 0%
 >* [Choisir un email existant](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou [Création d’un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >
 >* [Planification de votre programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-
 
 ## Approuver votre programme de messagerie {#approve-your-email-program}
 

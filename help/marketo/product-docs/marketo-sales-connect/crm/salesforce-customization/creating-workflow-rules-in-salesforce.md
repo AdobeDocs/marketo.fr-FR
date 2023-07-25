@@ -3,7 +3,8 @@ unique-page-id: 14745823
 description: Création de règles de processus dans Salesforce - Documents Marketo - Documentation du produit
 title: Création de règles de processus dans Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -18,7 +19,7 @@ Lors de l’utilisation de Marketo Sales Insight (MSI) et Marketo Sales Connect 
 >
 >Cela affecte uniquement les clients qui utilisent **both** MSI et MSE, et qui souhaitent utiliser la fonctionnalité Meilleurs paris de MSI. Si vous n’avez pas besoin d’utiliser les meilleurs paris, vous pouvez ignorer.
 
-## Démarrer {#getting-started}
+## Premiers pas {#getting-started}
 
 La solution de contournement consiste à créer de nouvelles règles de workflow pour copier les valeurs des nouveaux champs MSE dans les anciens champs MSI. Vous devez créer quatre règles de workflow pour l’objet Contact et les mêmes quatre règles de workflow pour l’objet Lead dans votre propre instance Salesforce. Pour ce faire, vous devrez peut-être disposer des droits d’administrateur CRM (en fonction de votre rôle et de votre configuration dans le CRM).
 

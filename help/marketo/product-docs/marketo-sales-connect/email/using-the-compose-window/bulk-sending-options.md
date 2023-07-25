@@ -3,7 +3,8 @@ unique-page-id: 37356575
 description: Options d’envoi en bloc - Documents Marketo - Documentation du produit
 title: Options d’envoi en bloc
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 3%
@@ -35,7 +36,7 @@ L’envoi en masse d’emails est un excellent moyen d’accélérer l’engagem
    <th><p><span>Modèle &amp; </span><span>Prise en charge dynamique des champs</span> </p></th> 
   </tr> 
   <tr> 
-   <td><p><span>Courriel du groupe</span> </p></td> 
+   <td><p><span>E-mail groupé</span> </p></td> 
    <td><p><span>1,000</span> </p></td> 
    <td><p><span>Sélectionnez un groupe et cliquez sur</span><span> la valeur </span><span>Bouton "Actions de groupe"</span><span>ou saisissez le nom du groupe dans le champ À . </span> </p></td> 
    <td><p><span>Oui</span> </p></td> 
@@ -65,4 +66,3 @@ Par défaut, vous effectuez l&#39;édition pour tous les destinataires. Vous pou
 >
 >* [Composition d’emails en bloc avec sélection et envoi](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 >* [Envoi d’emails par courrier électronique de groupe](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
-

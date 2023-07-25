@@ -3,7 +3,8 @@ unique-page-id: 1146954
 description: Supprimer de la liste - Documents Marketo - Documentation du produit
 title: Supprimer de la liste
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 16%
@@ -12,7 +13,7 @@ ht-degree: 16%
 
 # Supprimer de la liste {#remove-from-list}
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Puisque vous avez la possibilité de [Ajouter à la liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), vous avez également besoin d’un moyen de supprimer des personnes des listes.
 

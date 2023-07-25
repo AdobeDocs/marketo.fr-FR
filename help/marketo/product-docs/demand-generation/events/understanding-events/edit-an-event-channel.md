@@ -3,7 +3,8 @@ unique-page-id: 2949857
 description: Modification d’un canal d’événement - Documents Marketo - Documentation du produit
 title: Modification d’un canal d’événement
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%

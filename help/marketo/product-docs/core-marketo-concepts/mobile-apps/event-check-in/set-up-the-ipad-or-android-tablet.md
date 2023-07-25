@@ -3,7 +3,8 @@ unique-page-id: 10099363
 description: Configuration de la tablette iPad ou Android - Documents Marketo - Documentation du produit
 title: Configuration de la tablette iPad ou Android
 exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%

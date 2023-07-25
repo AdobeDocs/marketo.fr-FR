@@ -3,7 +3,8 @@ unique-page-id: 2951259
 description: Glossaire du type de champ personnalisé - Documents Marketo - Documentation du produit
 title: Glossaire du type de champ personnalisé
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 2%

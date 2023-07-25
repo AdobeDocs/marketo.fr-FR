@@ -3,7 +3,8 @@ unique-page-id: 2360346
 description: Modifier les alias de champ pour l’importation de liste - Documents Marketo - Documentation du produit
 title: Modifier les alias de champ pour l’importation de listes
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 3%

@@ -3,7 +3,8 @@ unique-page-id: 4719179
 description: Utilisation de l’éditeur de texte enrichi de personnalisation web - Documents Marketo - Documentation du produit
 title: Utilisation de l’éditeur de texte enrichi de personnalisation web
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 6%

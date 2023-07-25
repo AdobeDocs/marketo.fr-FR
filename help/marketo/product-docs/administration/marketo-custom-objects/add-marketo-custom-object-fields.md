@@ -3,7 +3,8 @@ unique-page-id: 10093688
 description: Ajout de champs d’objet personnalisés Marketo - Documents Marketo - Documentation du produit
 title: Ajout de champs d’objet personnalisés Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 1%
@@ -68,4 +69,3 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
 >* [Modification et suppression d’un objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [Modification et suppression de champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [Présentation des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
-

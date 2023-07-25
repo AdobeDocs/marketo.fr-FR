@@ -3,7 +3,8 @@ unique-page-id: 1146960
 description: Modification de la valeur des données - Documents Marketo - Documentation du produit
 title: Modifier valeur des données
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 7%
@@ -12,7 +13,7 @@ ht-degree: 7%
 
 # Modifier valeur des données {#change-data-value}
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour ce faire, vous utiliserez la variable **Modifier la valeur des données** action de flux.
 
@@ -44,4 +45,3 @@ Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour ce
    >
    >* [Jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
    >* [Ajout de données à un champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
-

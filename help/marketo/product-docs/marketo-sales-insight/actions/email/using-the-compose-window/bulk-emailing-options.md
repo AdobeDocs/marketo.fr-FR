@@ -2,7 +2,8 @@
 description: Options d’envoi groupé par courrier électronique - Documents Marketo - Documentation du produit
 title: Options d’envoi groupé de courriers électroniques
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 3%
@@ -34,7 +35,7 @@ L’envoi en masse d’emails est un excellent moyen d’accélérer l’engagem
    <th>Prise en charge des modèles et des champs dynamiques</th> 
   </tr> 
   <tr> 
-   <td>Courriel du groupe</td> 
+   <td>E-mail groupé</td> 
    <td>1000</td> 
    <td>Sélectionnez un groupe et cliquez sur le bouton "Actions de groupe", ou saisissez le nom du groupe dans le champ À .</td> 
    <td>Oui</td> 
@@ -64,4 +65,3 @@ Par défaut, vous effectuez l&#39;édition pour tous les destinataires. Vous pou
 >
 >* [Composition d’emails en bloc avec sélection et envoi](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 >* [Envoi d’emails par courrier électronique de groupe](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2360005
 description: Rapport Activité Web de l’entreprise - Documents Marketo - Documentation du produit
 title: Rapport d'activité Web de la société
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 6%

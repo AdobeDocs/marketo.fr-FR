@@ -3,7 +3,8 @@ unique-page-id: 3571888
 description: Activation de la synchronisation des champs personnalisés pour Revenue Cycle Analytics - Documents Marketo - Documentation du produit
 title: Activation de la synchronisation des champs personnalisés pour Revenue Cycle Analytics
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

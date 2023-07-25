@@ -3,7 +3,8 @@ unique-page-id: 2360018
 description: Ajout de colonnes d’opportunité à un rapport de piste - Documents Marketo - Documentation du produit
 title: Ajout de colonnes d’opportunité à un rapport de piste
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 14%
@@ -59,7 +60,7 @@ Pour afficher les statistiques sur les opportunités dans vos rapports de person
    | Quantité moyenne d&#39;opportunités | Somme du nombre d&#39;opportunités, divisé par le nombre d&#39;opportunités. |
    | Total des opportunités | Nombre de toutes les opportunités. |
    | Fermées | Nombre d’opportunités qui ont été fermées, gagnées ou perdues. |
-   | Confirmé | Nombre d’opportunités qui ont été gagnées. |
+   | Remporté | Nombre d’opportunités qui ont été gagnées. |
    | % Confirmées | Pourcentage d&#39;opportunités qui ont été gagnées. |
    | Total des quantités confirmées | Somme du montant des opportunités gagnées. |
    | Jours jusqu&#39;à la fermeture | Nombre moyen de jours avant la fermeture des opportunités. |

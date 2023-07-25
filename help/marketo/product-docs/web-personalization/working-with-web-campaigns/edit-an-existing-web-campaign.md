@@ -3,7 +3,8 @@ unique-page-id: 4719408
 description: Modification d’une campagne web existante - Documents Marketo - Documentation du produit
 title: Modifier une campagne web existante
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -28,4 +29,3 @@ ht-degree: 0%
 >
 >* [Supprimer une campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
 >* [Lancer/mettre en pause une campagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).
-

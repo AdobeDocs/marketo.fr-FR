@@ -2,7 +2,8 @@
 description: Comment résoudre le problème "Nous n’avons pas pu authentifier votre requête" lors de la connexion à Salesforce - Documents Marketo - Documentation du produit
 title: Comment résoudre le problème "Nous n’avons pas pu authentifier votre requête" lors de la connexion à Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%

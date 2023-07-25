@@ -3,7 +3,8 @@ unique-page-id: 7515069
 description: Présentation des éléments et des variables dans les modèles guidés - Documents Marketo - Documentation du produit
 title: Présentation des éléments et des variables dans les modèles guidés
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 4%
@@ -51,7 +52,7 @@ Il existe trois types de variables : variables de chaîne, variables de couleur 
    <td><p>Code hexadécimal modifiable pour la couleur</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemple : Couleur d’arrière-plan, couleur de police, couleur de bordure</p></td> 
   </tr> 
   <tr> 
-   <td>Booléenne</td> 
+   <td>Booléen</td> 
    <td><p>Un levier qui contrôle les états d’activation/de désactivation des objets ou des formats sur la page d’entrée.</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemples : Afficher le pied de page (Oui/Non), Nombre de colonnes (1/2), Google Analytics incorporés (Vrai/Faux)</p></td> 
   </tr> 
  </tbody> 

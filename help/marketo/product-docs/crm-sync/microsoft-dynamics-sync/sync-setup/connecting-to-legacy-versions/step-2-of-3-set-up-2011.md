@@ -3,7 +3,8 @@ unique-page-id: 3571807
 description: Étape 2 sur 3 - Configuration de l’utilisateur de synchronisation Marketo dans Dynamics (2011 On-Premise) - Documents Marketo - Documentation du produit
 title: Étape 2 sur 3 - Configuration de l’utilisateur de synchronisation Marketo dans Dynamics (2011 On-Premise)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -96,7 +97,7 @@ Presque fini ! Nous n&#39;avons que quelques derniers éléments de configuratio
     * Exécutez le processus [Valider la synchronisation Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Il vérifie que vos premières configurations ont été effectuées correctement.
     * Connectez-vous à l’utilisateur de synchronisation Marketo dans Microsoft Dynamics CRM.
 
-Bon boulot !
+Très bon travail !
 
 >[!MORELIKETHIS]
 >

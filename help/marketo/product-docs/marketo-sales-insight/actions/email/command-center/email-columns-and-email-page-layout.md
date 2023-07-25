@@ -2,10 +2,11 @@
 description: Colonnes de courrier électronique et mise en page de page de courrier électronique - Documents Marketo - Documentation du produit
 title: Colonnes de courrier électronique et mise en page de la page de courrier électronique
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '513'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -90,7 +91,7 @@ Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit
    <td>Boutons d’action rapide pouvant être utilisés pour le suivi par email, téléphone, inMail ou tâche.</td> 
   </tr> 
   <tr> 
-   <td><strong>Courriel du groupe</td> 
+   <td><strong>E-mail groupé</td> 
    <td>Affiche une coche si le courrier électronique a été envoyé dans le cadre d’un message électronique de groupe.</td> 
   </tr> 
   <tr> 
@@ -98,7 +99,7 @@ Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit
    <td>Affiche la date d’échéance des tâches liées au courrier électronique. Les tâches peuvent être liées à un email en étant créées à partir des boutons d’action rapide de la liste des emails.</td> 
   </tr> 
   <tr> 
-   <td><strong>Action Courrier électronique</td> 
+   <td><strong>Action d’e-mail</td> 
    <td>Boutons d’action rapide pouvant être utilisés pour exécuter une action sur l’email. Selon l’état de l’email, les actions suivantes peuvent être disponibles : Archivage, Réussite, Suppression, Réessayer Envoi, Désarchivage.</td> 
   </tr> 
   <tr> 
@@ -106,7 +107,7 @@ Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit
    <td>Affiche le type de tâche d’une tâche liée à l’email. Les tâches peuvent être liées à un email en étant créées à partir des boutons d’action rapide de la liste des emails.</td> 
   </tr> 
   <tr> 
-   <td><strong>Date d’échec</td> 
+   <td><strong>Échec de la date</td> 
    <td>Affiche la date d’échec du courrier électronique si celui-ci n’a pas été remis.</td> 
   </tr> 
  </tbody> 

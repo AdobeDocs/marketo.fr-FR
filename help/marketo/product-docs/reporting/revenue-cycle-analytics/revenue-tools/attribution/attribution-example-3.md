@@ -3,7 +3,8 @@ unique-page-id: 7514149
 description: Exemple d’attribution 3 - Documents Marketo - Documentation du produit
 title: Exemple d’attribution 3
 exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 4%
@@ -44,7 +45,6 @@ Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se 
 >1. Tu ne peux pas donner plus de crédit que tu n&#39;as gagné.
 >1. On ne peut pas créditer quelque chose qui s&#39;est passé dans le passé.
 
-
 Essayez tous les exemples et vous serez en faveur de l’attribution !
 
 >[!MORELIKETHIS]
@@ -52,4 +52,3 @@ Essayez tous les exemples et vous serez en faveur de l’attribution !
 >* [Exemple d’attribution 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
 >* [Exemple d’attribution 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
 >* [Exemple d’attribution 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
-

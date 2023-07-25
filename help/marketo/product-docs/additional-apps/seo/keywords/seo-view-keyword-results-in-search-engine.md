@@ -3,7 +3,8 @@ unique-page-id: 2949238
 description: SEO - Afficher les résultats des mots-clés dans le moteur de recherche - Documents Marketo - Documentation du produit
 title: SEO - Afficher les résultats des mots-clés dans le moteur de recherche
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%

@@ -3,10 +3,11 @@ unique-page-id: 1900589
 description: Ajout de liens suivis à un courrier électronique texte - Documents Marketo - Documentation du produit
 title: Ajout de liens suivis à un message électronique texte
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Création d’un message électronique Texte uniquement](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
 >* [Modifier des éléments dans un email](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
-
 
 Les liens d’e-mail texte peuvent être suivis dans Marketo. Voyons comment ça marche. 1. Sélectionnez votre email et cliquez sur Modifier le brouillon.
 
@@ -42,4 +42,4 @@ Les liens d’e-mail texte peuvent être suivis dans Marketo. Voyons comment ça
 >
 >Testez-le pour vérifier deux fois. Assurez-vous d’avoir saisi correctement les crochets.
 
-Beau travail !
+Beau travail !

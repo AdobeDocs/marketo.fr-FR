@@ -3,7 +3,8 @@ unique-page-id: 2359845
 description: Publication d’une offre de référence - Documents Marketo - Documentation du produit
 title: Publication d’une offre de référent
 exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -30,7 +31,7 @@ Après vous [créer une offre de référence](/help/marketo/product-docs/demand-
 >
 >Vous devez valider votre proposition de parrainage afin de la rendre disponible ici.
 
-Félicitations ! Validez la landing page et votre offre de parrainage est active. Vous pouvez également [publier la landing page sur Facebook ;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer l’offre sur votre site web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Félicitations ! Validez la landing page et votre offre de parrainage est active. Vous pouvez également [publier la landing page sur Facebook ;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer l’offre sur votre site web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >

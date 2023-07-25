@@ -2,7 +2,8 @@
 description: Reconfigurez la méthode d’authentification Dynamics - Documents Marketo - Documentation du produit
 title: Reconfiguration de la méthode d’authentification Dynamics
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -19,7 +20,6 @@ Suivez les étapes ci-dessous pour mettre à jour votre méthode d’authentific
 >
 >* [Étape 2 sur 3 : Configuration de la solution Marketo avec connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 >* [Étape 2 sur 4 : Configuration de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire des ressources](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
-
 
 1. Dans Marketo click **Administration**.
 
@@ -49,7 +49,6 @@ Suivez les étapes ci-dessous pour mettre à jour votre méthode d’authentific
    >
    >* Les champs spécifiques varient selon la méthode d&#39;authentification choisie et le formulaire est automatiquement mis à jour en fonction de la méthode d&#39;authentification précédente.
    >* Si vous avez déjà synchronisé , les données du formulaire ci-dessus peuvent être préremplies. Saisissez à nouveau toutes les informations d’identification pour vous assurer que les valeurs sont correctes.
-
 
 1. Si tout va bien, la synchronisation des validations génère toutes les coches vertes. ![](assets/green-check.png). Vérifiez le message, puis cliquez sur **Basculer** pour mettre à jour la méthode d’authentification.
 

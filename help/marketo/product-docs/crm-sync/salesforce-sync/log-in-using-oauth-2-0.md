@@ -2,7 +2,8 @@
 description: Connexion à l’aide d’OAuth 2.0 - Documents Marketo - Documentation du produit
 title: Connexion à l’aide d’OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -56,7 +57,6 @@ Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applic
 >* Pour les clients existants, la fonctionnalité &quot;Activer OAuth pour la synchronisation SFDC&quot; est activée sur l’abonnement du client.
 >* Les bloqueurs de fenêtres contextuelles sont désactivés.
 >* L’application connectée est créée et nous disposons de la clé client et du secret client disponibles.
-
 
 >[!CAUTION]
 >
@@ -112,4 +112,3 @@ Votre synchronisation entre Marketo et Salesforce est maintenant en cours.
 >* [Étape 2 sur 3 : Création d’un utilisateur Salesforce pour Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [Installation du package Marketo Sales Insight dans l’AppExchange Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 >* [Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-

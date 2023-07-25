@@ -3,7 +3,8 @@ unique-page-id: 9438139
 description: Ajout d’une personne à la Liste bloquée - Documents Marketo - Documentation du produit
 title: Ajouter une personne à la Liste bloquée
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%

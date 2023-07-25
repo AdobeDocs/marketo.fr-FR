@@ -3,7 +3,8 @@ unique-page-id: 2360409
 description: Création d’un rapport d’analyse des emails qui affiche les informations sur le programme - Documents Marketo - Documentation du produit
 title: Création d’un rapport d’analyse des emails qui affiche les informations du programme
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 1%
@@ -54,6 +55,6 @@ Suivez ces étapes pour créer un rapport d’analyse des emails qui affichera l
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
-   Bon boulot ! Vous devriez avoir un rapport qui ressemble à ceci :
+   Très bon travail ! Vous devriez avoir un rapport qui ressemble à ceci :
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)

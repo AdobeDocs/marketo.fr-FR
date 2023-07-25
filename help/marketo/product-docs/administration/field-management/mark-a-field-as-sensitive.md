@@ -2,7 +2,8 @@
 description: Marquer un champ comme sensible - Documents Marketo - Documentation du produit
 title: Marquage d’un champ comme sensible
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

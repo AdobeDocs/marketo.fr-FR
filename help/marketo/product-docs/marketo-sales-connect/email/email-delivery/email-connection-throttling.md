@@ -2,7 +2,8 @@
 description: Limitation de la connexion par e-mail - Documents Marketo - Documentation du produit
 title: Limitation de la connexion aux e-mails
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
-source-git-commit: ad7b222c2da937474565729a09a559fbcd722280
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 L’intégration de votre compte Sales Connect pour l’envoi par les fournisseurs de messagerie Exchange ou Gmail offre une configuration simplifiée et optimise la délivrabilité des emails pour la communication des ventes 1:1. Cependant, pour garantir la sécurité des systèmes et des comptes, Gmail et Exchange appliquent les limites d’envoi des emails. Ces limites peuvent être augmentées ou diminuées à la discrétion des fournisseurs.
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Le contrôle de connexion par e-mail permet aux administrateurs de Sales Connect de configurer le taux d’envoi des e-mails lors de l’utilisation de Gmail ou Exchange comme canal de diffusion, de sorte que le taux auquel les e-mails sont remis au fournisseur de canal de diffusion ne dépasse pas les limites appliquées.
 
@@ -79,4 +80,3 @@ Les limites sont définies par le service informatique de l’organisation, car 
 >* [Présentation du canal de diffusion](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [Connexion par e-mail pour les utilisateurs de Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 >* [Connexion par e-mail pour les utilisateurs Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

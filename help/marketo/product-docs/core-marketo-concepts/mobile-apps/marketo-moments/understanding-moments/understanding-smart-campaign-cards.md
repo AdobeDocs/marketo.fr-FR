@@ -3,7 +3,8 @@ unique-page-id: 10093348
 description: Présentation des cartes de campagne dynamique - Documents Marketo - Documentation du produit
 title: Présentation des cartes de campagne intelligente
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%

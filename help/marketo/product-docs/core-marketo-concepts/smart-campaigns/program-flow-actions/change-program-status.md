@@ -3,7 +3,8 @@ unique-page-id: 1147007
 description: Modifier l’état du programme - Documents Marketo - Documentation du produit
 title: Modifier le statut du programme
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 5%
@@ -12,7 +13,7 @@ ht-degree: 5%
 
 # Modifier le statut du programme {#change-program-status}
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Les statuts de programme vous aident à suivre l’avancement des personnes dans un programme ou un événement. En savoir plus dans [Personnalisation, Création Et Gestion Des Canaux](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 

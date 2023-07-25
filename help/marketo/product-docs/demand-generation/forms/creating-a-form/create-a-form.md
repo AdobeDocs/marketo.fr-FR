@@ -3,7 +3,8 @@ unique-page-id: 2359398
 description: Création d’un formulaire - Documents Marketo - Documentation du produit
 title: Créer un formulaire
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -48,4 +49,3 @@ Doux ! Maintenant que le formulaire est créé, allons-y et revêtons-le.
 >
 >* [Sélectionner un thème de formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
 >* [Ajouter un jeu de champs à un formulaire](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-

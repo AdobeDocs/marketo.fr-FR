@@ -3,7 +3,8 @@ unique-page-id: 11382593
 description: Définition de la personnalisation web sur Ne pas suivre - Documents Marketo - Documentation du produit
 title: Définition de la personnalisation Web sur laquelle aucun suivi n’est effectué
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%

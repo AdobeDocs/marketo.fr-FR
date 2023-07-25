@@ -3,7 +3,8 @@ unique-page-id: 2359815
 description: Exportation d’une liste avec des URL personnalisées - Documents Marketo - Documentation du produit
 title: Exporter une liste avec des URL personnalisées
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Activation des URL personnalisées pour votre compte](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [Activation des URL personnalisées pour une landing page](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
-
 
 1. Sélectionnez votre liste ou votre liste dynamique, puis cliquez sur le bouton **Pistes** pour obtenir les résultats, puis cliquez sur l’icône excel. INLINE Assurez-vous que vous avez **Code unique Marketo** et **Nom unique Marketo** [colonnes visibles](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 

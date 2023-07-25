@@ -2,7 +2,8 @@
 description: Présence locale - Documents Marketo - Documentation du produit
 title: Présence locale
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -23,7 +24,7 @@ La Présence locale vous offre la possibilité de faire passer votre appel à pa
 
    ![](assets/local-presence-2.png)
 
-## FAQ {#faq}
+## Questions fréquentes {#faq}
 
 **Mon contact peut-il me rappeler à ce nouveau numéro ?**
 

@@ -3,7 +3,8 @@ unique-page-id: 1147084
 description: Supprimer du flux - Documents Marketo - Documentation du produit
 title: Supprimer des flux
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 5%
@@ -18,7 +19,7 @@ Imaginez un flux de campagne dynamique qui utilise &quot;Envoyer une alerte&quot
 >
 >Cela affecterait normalement les personnes qui se trouvent dans l’étape d’attente d’un flux de campagne.
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Vous pouvez supprimer des personnes du flux d’une campagne à l’aide de la variable **Supprimer du flux** étape de flux.
 

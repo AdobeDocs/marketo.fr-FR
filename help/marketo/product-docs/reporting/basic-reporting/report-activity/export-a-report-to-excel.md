@@ -3,7 +3,8 @@ unique-page-id: 2360020
 description: Exportation d’un rapport vers Excel - Documents Marketo - Documentation du produit
 title: Exportation d’un rapport vers Excel
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%

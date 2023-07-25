@@ -1,8 +1,9 @@
 ---
-description: Présentation de Dynamic Chat - Documents Marketo - Documentation du produit
+description: Présentation du Dynamic Chat - Documents Marketo - Documentation du produit
 title: Présentation de la conversation dynamique
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '857'
 ht-degree: 2%
@@ -11,7 +12,7 @@ ht-degree: 2%
 
 # Présentation de la conversation dynamique {#dynamic-chat-overview}
 
-Dynamic Chat vous permet d’utiliser une interface conviviale pour cibler à la fois les personnes et les comptes qui visitent votre site web. Collectez le contenu approprié, tel que le nom, les coordonnées et le texte libre. Les visiteurs du site peuvent également réserver des réunions avec votre équipe de vente. Les données d’activité et d’engagement des conversations dynamiques peuvent être utilisées pour ajouter des membres aux programmes Marketo et déclencher des activités cross-canal.
+Dynamic Chat vous permet d’exploiter une interface conviviale pour cibler à la fois les personnes et les comptes qui visitent votre site web. Collectez le contenu approprié, tel que le nom, les coordonnées et le texte libre. Les visiteurs du site peuvent également réserver des réunions avec votre équipe de vente. Les données d’activité et d’engagement des Dynamic Chat peuvent être utilisées pour ajouter des membres aux programmes Marketo et déclencher des activités cross-canal.
 
 >[!NOTE]
 >
@@ -19,11 +20,11 @@ Dynamic Chat vous permet d’utiliser une interface conviviale pour cibler à la
 
 >[!TIP]
 >
->Visite [cette page](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) pour visionner des tutoriels vidéo sur Dynamic Chat.
+>Visite [cette page](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) pour afficher des tutoriels vidéo de Dynamic Chat.
 
 ## Intégrations {#integrations}
 
-Un composant clé de Dynamic Chat est sa capacité à interagir en mode natif avec votre abonnement Marketo. Pour tirer parti de la fonctionnalité complète de cette intégration, vous devez d’abord lancer la synchronisation des données. Selon la taille de votre base de données Marketo, les données initiales peuvent prendre jusqu’à 24 heures, [synchronisation unique](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) pour terminer.
+Un composant clé de Dynamic Chat est sa capacité à interagir de manière native avec votre abonnement Marketo. Pour tirer parti de la fonctionnalité complète de cette intégration, vous devez d’abord lancer la synchronisation des données. Selon la taille de votre base de données Marketo, les données initiales peuvent prendre jusqu’à 24 heures, [synchronisation unique](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) pour terminer.
 
 Les éléments suivants sont synchronisés :
 
@@ -31,7 +32,7 @@ Les éléments suivants sont synchronisés :
 * Données de champ de l’entreprise
 * Données d’activité
 
-## Conversations {#dialogues}
+## Dialogues {#dialogues}
 
 Les dialogues représentent un seul engagement de discussion. Considérez-le comme un conteneur avec tout ce dont vous avez besoin pour avoir un dialogue de conversation engageant avec les visiteurs de votre site web. Dans chaque dialogue, vous pouvez spécifier la ou les pages sur lesquelles vous souhaitez que le dialogue s’affiche, à qui vous souhaitez qu’il s’affiche, ainsi que le contenu et le flux du dialogue lui-même. En outre, vous pouvez trouver des mesures pour voir les performances de votre dialogue. [En savoir plus sur les boîtes de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
 
@@ -53,19 +54,19 @@ C’est là que vous pouvez voir la liste de tous les agents qui ont connecté l
 
 ## Questions fréquentes {#faq}
 
-**Puis-je installer Dynamic Chat n’importe où sur le site web de mon entreprise ou cela ne fonctionne-t-il que sur les landing pages Marketo ?**
+**Puis-je installer Dynamic Chat n’importe où sur le site web de ma société ou est-ce que cela ne fonctionne que sur les landing pages Marketo ?**
 
-Le fragment de code JavaScript de conversation dynamique peut être installé sur n’importe quel site web ainsi que sur les landing pages Marketo.
+Le fragment de code JavaScript du Dynamic Chat peut être installé sur n’importe quel site web ainsi que sur les landing pages Marketo.
 
 **Quelle est la durée de stockage des données pour la création de rapports ?**
 
 90 jours (voir la liste complète des limites [below](#limits-in-dynamic-chat)).
 
-**Est-ce que le tchat dynamique permet le chat en direct ?**
+**Le Dynamic Chat autorise-t-il les conversations en direct ?**
 
 Non, il utilise uniquement des réponses prédéterminées.
 
-**Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**
+**Le Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**
 
 Oui. Dynamic Chat prend en charge les langues suivantes : Français, allemand, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel. En savoir plus dans la section [section ci-dessous](#changing-the-language).
 
@@ -79,11 +80,11 @@ Dans votre boîte de dialogue, vous devez utiliser la variable _Le courrier éle
 
 ## Modification de la langue {#changing-the-language}
 
-Suivez ces étapes pour modifier votre langage de messagerie dynamique.
+Pour modifier la langue de votre Dynamic Chat, procédez comme suit.
 
 >[!IMPORTANT]
 >
->La modification de la langue au niveau du profil modifie la langue de _all_ Applications Experience Cloud, pas seulement Dynamic Chat.
+>La modification de la langue au niveau du profil modifie la langue de _all_ des applications Experience Cloud, pas seulement des applications Dynamic Chat.
 
 1. Dans votre compte d’Experience Cloud, cliquez sur l’icône des paramètres et sélectionnez **Préférences**.
 
@@ -99,11 +100,11 @@ Suivez ces étapes pour modifier votre langage de messagerie dynamique.
 
    >[!NOTE]
    >
-   >Il existe quelques douzaines de langues à choisir. Cependant, Dynamic Chat ne prend en charge que les langues suivantes : allemand, anglais, français, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel.
+   >Il existe quelques dizaines de langues à choisir, mais Dynamic Chat ne prend en charge que les langues suivantes : allemand, anglais, français, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel.
 
 Lorsque vous mettez à jour la langue, tout dans l’application elle-même change, à l’exception des mots que vous avez personnellement renseignés (par exemple, les réponses de diffusion en continu).
 
-## Limites dans la conversation dynamique {#limits-in-dynamic-chat}
+## Limites en Dynamic Chat {#limits-in-dynamic-chat}
 
 <table>
   <th>Paramètre</th>
@@ -121,7 +122,7 @@ Lorsque vous mettez à jour la langue, tout dans l’application elle-même chan
  </tr>
  <tr>
   <td>Nombre total d’utilisateurs (administrateurs et utilisateurs marketing)</td>
-  <td>Nombre d’utilisateurs combinés autorisés par instance de messagerie dynamique</td>
+  <td>Nombre d’utilisateurs combinés autorisés par instance de Dynamic Chat</td>
   <td>50</td>
  </tr>
  <tr>
@@ -176,7 +177,7 @@ Lorsque vous mettez à jour la langue, tout dans l’application elle-même chan
  </tr>
  <tr>
   <td>Période de conservation de l’activité de réservation d’une réunion</td>
-  <td>Durée pendant laquelle l’activité de réservation de réunion sera stockée dans Dynamic Chat</td>
+  <td>La durée de la réunion pendant laquelle l’activité de réservation sera stockée dans Dynamic Chat</td>
   <td>24 mois</td>
  </tr>
  <tr>

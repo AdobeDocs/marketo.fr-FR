@@ -3,7 +3,8 @@ unique-page-id: 2359543
 description: Ajout d’un champ à un formulaire - Documents Marketo - Documentation du produit
 title: Ajouter un champ à un formulaire
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

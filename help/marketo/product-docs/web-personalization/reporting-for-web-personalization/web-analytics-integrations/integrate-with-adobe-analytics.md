@@ -3,7 +3,8 @@ unique-page-id: 2949160
 description: Intégration à Adobe Analytics - Marketo Docs - Documentation du produit
 title: Intégration à Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -79,7 +80,6 @@ Procédez comme suit pour configurer ces variables dans AA :
 
       1. Remplacez le champ Expire après par **Visite**.
 
-
 1. Sous **Modifier les paramètres** accéder à **Conversion** et sélectionnez **[Événements de succès](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
    1. Sélectionnez le numéro Événement d’événement de succès personnalisé (nous vous recommandons) :
@@ -92,9 +92,8 @@ Procédez comme suit pour configurer ces variables dans AA :
       >Si ces # sont utilisés, sélectionnez un autre nombre disponible. Alignez ce nombre sur le numéro d’emplacement dans les paramètres du compte RTP.
 
       1. Remplacez les deux noms d’événements par **Campagnes RTP** et **Segments RTP**. Il s’agit du nom qui apparaîtra dans la suite de rapports.
+
    1. Sélectionnez le champ Type à définir **Compteur (sans sous-relations)**
-
-
 
 1. Sous **Modifier les paramètres** accéder à **[Trafic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** et sélectionnez **[Variables de trafic](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
@@ -110,11 +109,10 @@ Procédez comme suit pour configurer ces variables dans AA :
       >Si ces # sont utilisés, sélectionnez un autre nombre disponible. Aligner ce nombre avec le numéro d’emplacement dans les paramètres du compte RTP)
 
       1. Modifiez les quatre noms de propriétés. Il s’agit du nom qui apparaîtra dans la suite de rapports.
+
    1. Sélectionnez Champ activé pour **Activé**.
 
    1. Sélectionnez le champ Rapports de chemins pour **Activé**.
-
-
 
 ## Configuration dans la personnalisation en temps réel de Marketo (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
@@ -153,7 +151,7 @@ Procédez comme suit pour configurer ces variables dans AA :
 >
 >**Assurez-vous que ces numéros d’emplacements correspondent aux numéros de variables et d’événements créés dans AA.**
 
-## Rapports {#reports}
+## Rapports   {#reports}
 
 Créez des rapports SiteAdobe Analytics améliorés en fonction des noms d’organisation, des secteurs et des segments de HTTP et des données de campagnes en temps réel.
 

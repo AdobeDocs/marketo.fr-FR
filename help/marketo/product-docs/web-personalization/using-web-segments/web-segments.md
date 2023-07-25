@@ -3,7 +3,8 @@ unique-page-id: 4719093
 description: Segments web - Documents Marketo - Documentation du produit
 title: Segments web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 6%
@@ -107,28 +108,23 @@ Définissez les paramètres généraux de votre segment :
 >1. Utiliser tous les filtres (1, 2 et 3...)
 >1. Utiliser n’importe quel filtre (1, 2 ou 3...)
 >1. Filtres avancés (à l’aide des expressions et / ou )
-
-   >
-   >    Les filtres avancés vous permettent de contrôler la condition du segment. Saisir les numéros de filtres séparés par « et » et « ou ».
-   >
-   >    * 1 et 2 et 3
-   >    * 1 ou 2 ou 3
-
-   >
-   >    Le mélange de « et » et « ou » nécessite des parenthèses pour clarifier la logique d’intention. Par exemple, « 1 ou 2 et 3 » doit être écrit d’une des façons suivantes :
-   >
-   >    * 1 et (2 ou 3)
-   >    * (1 et 2) ou 3
-
-   >
-   >    Les parenthèses imbriquées sont acceptées pour les logiques plus complexes, par exemple
-   >
-   >    * (1 et 2) ou (3 et 4)
-   >    * 1 et (2 ou (3 et 4))
-
-   >
-   >    Vérifiez votre logique après toute insertion, suppression ou réorganisation.
-
+>
+>    Les filtres avancés vous permettent de contrôler la condition du segment. Saisir les numéros de filtres séparés par « et » et « ou ».
+>
+>    * 1 et 2 et 3
+>    * 1 ou 2 ou 3
+>
+>    Le mélange de « et » et « ou » nécessite des parenthèses pour clarifier la logique d’intention. Par exemple, « 1 ou 2 et 3 » doit être écrit d’une des façons suivantes :
+>
+>    * 1 et (2 ou 3)
+>    * (1 et 2) ou 3
+>
+>    Les parenthèses imbriquées sont acceptées pour les logiques plus complexes, par exemple
+>
+>    * (1 et 2) ou (3 et 4)
+>    * 1 et (2 ou (3 et 4))
+>
+>    Vérifiez votre logique après toute insertion, suppression ou réorganisation.
 
 Faites glisser les attributs de segment de la colonne de droite vers l’éditeur de segments sur le côté gauche :
 
@@ -266,9 +262,8 @@ Faites glisser et déposez le SE Mobile dans l’éditeur de segments
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Type de visiteur**<br />
-
-   **SE Mobile** - Dans la liste déroulante, sélectionnez un ou plusieurs systèmes d’exploitation mobiles répertoriés. Le système d’exploitation mobile sélectionné s’affiche en dessous.
+* **Type de visiteur ou visiteuse**<br />
+  **SE Mobile** - Dans la liste déroulante, sélectionnez un ou plusieurs systèmes d’exploitation mobiles répertoriés. Le système d’exploitation mobile sélectionné s’affiche en dessous.
 
    * Le visiteur utilise n’importe quel appareil mobile.
    * Le visiteur utilise ce périphérique/système d’exploitation spécifique
@@ -329,4 +324,3 @@ Fantastique ! Maintenant que vous comprenez la section Segments , découvrons l
 >* [Créer une campagne web de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [Créer une campagne web dans la zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Créer une campagne web de widgets](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

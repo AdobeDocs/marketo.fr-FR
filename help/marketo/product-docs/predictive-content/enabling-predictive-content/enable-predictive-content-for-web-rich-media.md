@@ -3,9 +3,10 @@ unique-page-id: 7514956
 description: Activation du contenu prédictif pour Web Rich Media - Documentation Marketo - Documentation du produit
 title: Activation du contenu prédictif pour le contenu multimédia Web enrichi
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
-source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -23,13 +24,12 @@ Le contenu prédictif intéresse vos visiteurs web avec le contenu le plus perti
 >Avant d’activer le contenu prédictif, vous devez :
 >
 >* **Préparation de votre contenu prédictif**
-   >
-   >   * [Modifier le contenu prédictif pour les emails](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target=&quot;_blank&quot;} ou
-   >   * [Modification du contenu prédictif pour le contenu multimédia enrichi](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target=&quot;_blank&quot;} ou
-   >   * [Modifier le contenu prédictif pour la barre de recommandations](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target=&quot;_blank&quot;}
 >
->* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target=&quot;_blank&quot;}
-
+>   * [Modifier le contenu prédictif pour les emails](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} ou
+>   * [Modification du contenu prédictif pour le contenu multimédia enrichi](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} ou
+>   * [Modifier le contenu prédictif pour la barre de recommandations](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
+>
+>* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 Une fois que vous avez préparé le titre, la description et l’image du contenu pour les médias riches, vous pouvez activer des éléments de contenu individuels ou multiples.
 
@@ -47,7 +47,7 @@ Une fois que vous avez préparé le titre, la description et l’image du conten
 
 ## Personnalisation du code JavaScript et incorporation de celui-ci dans votre site web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Reportez-vous à la documentation du modèle de recommandation Média enrichi . [sur le site Marketo Developers](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target=&quot;_blank&quot;}. Cela explique comment personnaliser le modèle de votre site web.
+Reportez-vous à la documentation du modèle de recommandation Média enrichi . [sur le site Marketo Developers](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. Cela explique comment personnaliser le modèle de votre site web.
 
 Collez le code JavaScript dans votre site web à l’emplacement où vous souhaitez que le modèle s’affiche.
 

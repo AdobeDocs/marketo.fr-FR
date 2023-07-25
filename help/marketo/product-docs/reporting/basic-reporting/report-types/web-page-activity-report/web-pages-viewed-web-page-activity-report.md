@@ -3,7 +3,8 @@ unique-page-id: 2360052
 description: Pages Web consultées, Rapport d’activité de page Web - Documents Marketo - Documentation du produit
 title: Pages Web consultées, rapport Activité de page Web
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%

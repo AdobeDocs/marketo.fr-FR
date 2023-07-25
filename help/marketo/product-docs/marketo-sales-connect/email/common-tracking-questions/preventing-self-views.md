@@ -3,7 +3,8 @@ unique-page-id: 14352540
 description: Prévention des auto-vues - Documents Marketo - Documentation du produit
 title: Prévention des auto-vues
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Prévention des auto-vues {#preventing-self-views}
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 L’obtention de faux positifs sur votre suivi des vues peut entraîner des incohérences dans les rapports. Cela se produit souvent lorsque les utilisateurs de MSC invoquent accidentellement le pixel de suivi depuis leur client de messagerie (nous appelons cela une auto-visualisation). Vous trouverez ci-dessous quelques conseils pour réduire et même éliminer de manière significative les auto-visions.
 

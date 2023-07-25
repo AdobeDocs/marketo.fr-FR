@@ -3,10 +3,11 @@ unique-page-id: 2359420
 description: Dérive, goutte, soin - Documents Marketo - Documentation du produit
 title: Marketing goutte à goutte et fidélisation
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '456'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -20,7 +21,6 @@ Vous pouvez facilement créer un système d’alimentation avancé et sophistiqu
 >
 >* [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importation d’une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
-
 
 ## Étape 1 : Création d’un programme d’engagement {#step-create-an-engagement-program}
 
@@ -60,7 +60,7 @@ Vous pouvez facilement créer un système d’alimentation avancé et sophistiqu
    >
    >Vous ne voyez pas l’éditeur d’email ? Votre navigateur a probablement bloqué la fenêtre. Activation des fenêtres contextuelles à partir de `app.marketo.com` dans votre navigateur, puis cliquez sur **[!UICONTROL Modifier le brouillon]** dans la barre de menu supérieure.
 
-1. Saisissez un objet.
+1. Entrer l’objet.
 
    ![](assets/drip-drip-nurture-8.png)
 

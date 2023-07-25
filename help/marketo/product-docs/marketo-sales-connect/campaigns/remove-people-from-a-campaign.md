@@ -3,7 +3,8 @@ unique-page-id: 14352608
 description: Suppression de personnes d’une campagne - Documents Marketo - Documentation du produit
 title: Supprimer des personnes d’une campagne
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 17727823
 description: Notes de mise à jour - Hiver 2019 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Hiver 2019
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 3%

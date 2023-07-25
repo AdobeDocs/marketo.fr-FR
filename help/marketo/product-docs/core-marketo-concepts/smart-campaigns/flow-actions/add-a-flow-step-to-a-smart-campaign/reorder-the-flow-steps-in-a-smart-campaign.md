@@ -3,7 +3,8 @@ unique-page-id: 1146985
 description: Réorganiser les étapes de flux dans une campagne dynamique - Documents Marketo - Documentation du produit
 title: Réorganiser les étapes de flux dans une campagne dynamique
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

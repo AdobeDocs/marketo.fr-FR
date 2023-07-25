@@ -3,7 +3,8 @@ unique-page-id: 557322
 description: Exécution d’une étape de flux unique à partir d’une liste dynamique - Documents Marketo - Documentation du produit
 title: Exécution d’une seule étape de flux à partir d’une liste dynamique
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 1%

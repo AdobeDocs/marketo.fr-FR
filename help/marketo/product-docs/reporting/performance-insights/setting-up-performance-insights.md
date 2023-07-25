@@ -3,7 +3,8 @@ unique-page-id: 12981145
 description: Configuration des informations de performances - Documents Marketo - Documentation du produit
 title: Configuration des informations de performances
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 3%
@@ -50,7 +51,6 @@ Suivez les étapes ci-dessous pour configurer MPI.
    >* Date de création (cette valeur peut ne pas être définie dans votre cas)
    >* Date de fermeture (cette valeur peut ne pas être définie dans votre cas)
    >* Type de l&#39;opportunité
-
 
 ## Configuration du programme {#program-setup}
 

@@ -3,7 +3,8 @@ unique-page-id: 2950578
 description: Gérer les données de profil social - Documents Marketo - Documentation du produit
 title: Gestion des données de profil Social
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 8%
@@ -67,7 +68,7 @@ Selon les paramètres de confidentialité du réseau et de l’utilisateur, un o
 
 * Prénom
 * Nom
-* Adresse e-mail
+* E-mail
 * Date de naissance
 * Intitulé du poste
 * Société

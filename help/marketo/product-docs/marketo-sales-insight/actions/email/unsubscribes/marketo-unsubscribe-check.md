@@ -2,7 +2,8 @@
 description: Vérification du désabonnement Marketo - Documents Marketo - Documentation du produit
 title: Vérification du désabonnement par Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 4%

@@ -2,7 +2,8 @@
 description: Synchronisation des messages clés d’appel et d’appel - Documents Marketo - Documentation du produit
 title: Synchronisation des messages clés d’appel et d’appel
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 5%
@@ -64,49 +65,49 @@ Les champs suivants des messages Appel et Clé d’appel sont synchronisés et p
   </thead>
   <tbody>
     <tr>
-      <td>Appelez</td>
+      <td>Appel</td>
       <td>Comptable</td>
       <td>Recherchez le compte auquel l’appel est associé.</td>
       <td>Account_vod__c</td>
       <td>Recherche (compte)</td>
     </tr>
     <tr>
-      <td>Appelez</td>
+      <td>Appel</td>
       <td>Type d’appel</td>
       <td>Type d’appel conservé par le système en fonction du type et du contenu de l’appel. Ce champ est utilisé à des fins de création de rapports. Les valeurs valides sont les suivantes : Détail uniquement, Détail avec exemple, Détails du groupe, Détails du groupe avec exemple, Exemple uniquement. Ces valeurs ne doivent pas être modifiées, mais les traductions de ces listes de sélection peuvent être modifiées. Les participants ont le même type d’appel que l’appel d’en-tête. Pour un appel de groupe avec 3 professionnels, les 4 enregistrements ont tous le type d’appel "Détails du groupe".</td>
       <td>Call_Type_vod__c</td>
       <td>Liste de sélection</td>
     </tr>
     <tr>
-     <td>Appelez</td>
+     <td>Appel</td>
       <td>Contact</td>
       <td>Recherchez le contact auquel l’appel est associé (le cas échéant).</td>
       <td>Contact_vod__c</td>
       <td>Lookup(Contact)</td>
     </tr>
     <tr>
-      <td>Appelez</td>
+      <td>Appel</td>
       <td>Date</td>
       <td>Date de l’appel au premier enregistrement ou envoi. Ce champ est défini à la date courante via un déclencheur si le champ date ou datetime n’est pas renseigné.</td>
       <td>Call_Date_vod__c</td>
       <td>Date</td>
     </tr>
     <tr>
-      <td>Appelez</td>
+      <td>Appel</td>
       <td>Est-ce que Parent Call ?</td>
       <td>Champ de formule pour déterminer si l’enregistrement d’appel est l’enregistrement d’appel parent ou d’appel de participant. 1 indique que l’enregistrement est l’appel parent. 0 indique qu’il s’agit d’un appel de participant.</td>
       <td>Is_Parent_Call_vod__c</td>
       <td>Formule (nombre)</td>
     </tr>
     <tr>
-      <td>Appelez</td>
+      <td>Appel</td>
       <td>Statut</td>
       <td>État de l’appel — Planifié, Enregistré ou Envoyé. Utilisez les outils de traduction pour modifier les valeurs d’affichage. Les déclencheurs à l’appel examinent ce champ pour voir si l’appel est verrouillé (envoyé). Cette valeur est définie pour l’utilisateur lorsque vous appuyez sur le bouton Enregistrer ou Envoyer.</td>
       <td>Status_vod__c</td>
       <td>Liste de sélection</td>
     </tr>
     <tr>
-      <td>Appelez</td>
+      <td>Appel</td>
       <td>Type d’enregistrement</td>
       <td> </td>
       <td>RecordTypeId</td>
@@ -114,7 +115,7 @@ Les champs suivants des messages Appel et Clé d’appel sont synchronisés et p
     </tr>
     <tr>
       <td>Message de clé d’appel</td>
-      <td>Appelez</td>
+      <td>Appel</td>
       <td>Recherche de l’appel. Chaque message clé est associé à un appel .</td>
       <td>Call2_vod__c</td>
       <td>Principal-Detail(Call)</td>

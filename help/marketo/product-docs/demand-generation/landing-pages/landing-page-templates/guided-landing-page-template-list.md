@@ -3,7 +3,8 @@ unique-page-id: 7515616
 description: Liste de modèles de page d’entrée guidée - Documents Marketo - Documentation du produit
 title: Liste de modèles de page d’entrée guidée
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -28,7 +29,7 @@ Pour importer un modèle dans Marketo :
 1. Dans la barre de menus, cliquez sur **Modèle d’importation.**
 1. Sélectionnez le fichier téléchargé, saisissez un nom de modèle, puis cliquez sur **Importer** (veillez à sélectionner un nom explicite et à indiquer que le mode de modification est **Guidée**).
 
-|  |  |  |
+|   |  |  |
 |---|---|---|
 | [Modèle 1A](guided-landing-page-templates/template-1a.md) | [Modèle 1B](guided-landing-page-templates/template-1b.md) | [Modèle 1C](guided-landing-page-templates/template-1c.md) |
 | ![](assets/1a.jpg) | ![](assets/1b.jpg) | ![](assets/1c.jpg) |

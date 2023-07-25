@@ -3,7 +3,8 @@ unique-page-id: 14352612
 description: Planification d’une campagne - Documents Marketo - Documentation du produit
 title: Planification d’une campagne
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%

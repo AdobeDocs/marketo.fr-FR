@@ -2,7 +2,8 @@
 description: Suppression de l’accès Sales Insight - Documents Marketo - Documentation du produit
 title: Suppression de l’accès à Sales Insight
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
-source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 5%
@@ -13,7 +14,7 @@ ht-degree: 5%
 
 Suivez les étapes ci-après pour supprimer l’accès aux fonctionnalités Sales Insight dans Salesforce. Applicable à Salesforce Classic et à Lightning.
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Pour accéder à toutes les fonctionnalités d’aperçu des ventes, vous devez disposer des autorisations nécessaires pour accéder aux objets mentionnés ci-dessous, aux classes d’apex et aux pages de force visuelle. La suppression de ces informations supprimera l’accès à Sales Insight.
 

@@ -2,7 +2,8 @@
 description: Personnalisation du message de lien de désabonnement - Documents Marketo - Documentation du produit
 title: Personnalisation du message de lien de désabonnement
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%

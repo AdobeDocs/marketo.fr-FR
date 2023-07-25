@@ -2,7 +2,8 @@
 description: Filtres prédictifs - Documents Marketo - Documentation du produit
 title: Filtres prédictifs
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
-source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
+feature: Predictive Audiences
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 1%

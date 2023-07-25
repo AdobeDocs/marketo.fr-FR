@@ -3,7 +3,8 @@ unique-page-id: 2360213
 description: Modifier l’expiration du lien dans Reports and Alertes - Documents Marketo - Documentation du produit
 title: Modifier l’expiration du lien dans les rapports et alertes
 exl-id: 9be08798-c413-451b-9b67-893042668061
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

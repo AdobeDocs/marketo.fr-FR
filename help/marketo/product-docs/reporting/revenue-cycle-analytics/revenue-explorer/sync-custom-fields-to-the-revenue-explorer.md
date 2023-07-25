@@ -3,7 +3,8 @@ unique-page-id: 2360341
 description: Synchroniser les champs personnalisés avec l’Explorateur de recettes - Documents Marketo - Documentation du produit
 title: Synchroniser les champs personnalisés avec l’explorateur de recettes
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%

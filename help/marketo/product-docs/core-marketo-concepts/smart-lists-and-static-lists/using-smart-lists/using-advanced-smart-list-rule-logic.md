@@ -3,7 +3,8 @@ unique-page-id: 1146901
 description: Utilisation de la logique de règle de liste dynamique avancée - Documents Marketo - Documentation du produit
 title: Utilisation de la logique de règle de liste dynamique avancée
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Vous pouvez trouver les personnes exactes dont vous avez besoin en appliquant la
 >
 >* [Recherche et ajout de filtres à une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 >* [Définition des filtres de liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
 
 >[!NOTE]
 >

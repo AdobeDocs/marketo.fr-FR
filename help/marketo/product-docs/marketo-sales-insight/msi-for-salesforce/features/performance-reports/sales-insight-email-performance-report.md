@@ -3,7 +3,8 @@ unique-page-id: 4720314
 description: Rapport Performances des emails de Sales Insight - Documents Marketo - Documentation du produit
 title: E-mail du rapport sur le rendement concernant les données de ventes
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 7%

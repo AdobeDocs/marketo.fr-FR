@@ -4,7 +4,8 @@ title: Composition d’emails en bloc avec sélection et envoi
 hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -98,4 +99,3 @@ Effectuez des mises à jour en bloc avant de personnaliser chaque email, car eff
    >* [Options d’envoi groupé de courriers électroniques](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
    >* [Utilisation d’un modèle dans la fenêtre de composition](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
    >* [Champs dynamiques](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
-

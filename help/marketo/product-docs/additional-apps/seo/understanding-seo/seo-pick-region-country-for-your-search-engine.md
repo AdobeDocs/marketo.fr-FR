@@ -3,7 +3,8 @@ unique-page-id: 2949190
 description: SEO - Sélectionnez Région/pays pour votre moteur de recherche - Documents Marketo - Documentation du produit
 title: SEO - Sélectionnez la région/le pays pour votre moteur de recherche
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -42,4 +43,3 @@ Excellent travail. Vous verrez désormais les classements des mots-clés pour le
 >
 >* [Présentation du tableau de bord : Instantané SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
 >* [Présentation du tableau de bord : SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}
-

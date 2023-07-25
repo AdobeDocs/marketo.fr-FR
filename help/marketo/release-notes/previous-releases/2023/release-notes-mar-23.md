@@ -2,7 +2,8 @@
 description: Notes de mise à jour - Mars 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Mars 2023
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 7%
@@ -93,7 +94,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 </br>
 
-* **Rapport Engagement dans le dialogue pour la conversation dynamique**: Fournit une vue de l’engagement Dialogue au fil du temps, y compris la possibilité de filtrer par type de visiteur et type d’engagement afin de fournir une meilleure visibilité aux utilisateurs.
+* **Rapport Engagement dans le dialogue pour le Dynamic Chat**: Fournit une vue de l’engagement Dialogue au fil du temps, y compris la possibilité de filtrer par type de visiteur et type d’engagement afin de fournir une meilleure visibilité aux utilisateurs.
 
 <table> 
   <tr> 
@@ -121,7 +122,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Chat en tant que canal de programme pour la conversation dynamique**: Crée un canal de programme &quot;Chat&quot; pour suivre la progression du programme pour les personnes acquises par Dynamic Chat. Par exemple, un spécialiste du marketing a un programme associé à un dialogue de conversation dynamique pour capturer de nouvelles pistes. Ils peuvent désormais attribuer à ce programme le canal Chat afin qu’ils puissent suivre quand les prospects sont membres du programme et quand ils ont réussi.
+* **Chat en tant que canal de programme pour Dynamic Chat**: Crée un canal de programme &quot;Chat&quot; pour suivre la progression du programme pour les personnes acquises par le Dynamic Chat. Par exemple, un spécialiste du marketing a un programme associé à un dialogue de conversation dynamique pour capturer de nouvelles pistes. Ils peuvent désormais attribuer à ce programme le canal Chat afin qu’ils puissent suivre quand les prospects sont membres du programme et quand ils ont réussi.
 
 <table> 
   <tr> 
@@ -135,7 +136,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Attributs déduits pour les tchats dynamiques**: Vérifie que les données IP déduites (ville, état, pays, etc.) est écrit dans l’enregistrement de la personne pour les nouvelles personnes acquises par Dynamic Chat.
+* **Attributs déduits pour le Dynamic Chat**: Vérifie que les données IP déduites (ville, état, pays, etc.) est écrit dans l’enregistrement de la personne pour les nouvelles personnes acquises par le Dynamic Chat.
 
 <table> 
   <tr> 
@@ -149,7 +150,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Prise en charge linguistique supplémentaire pour Dynamic Chat**: Vous pouvez désormais choisir parmi neuf langues prises en charge pour afficher le contenu de conversation dynamique statique dans .
+* **Prise en charge linguistique supplémentaire pour le Dynamic Chat**: Vous pouvez désormais choisir parmi neuf langues prises en charge pour afficher le contenu du Dynamic Chat statique dans .
 
 <table> 
   <tr> 
@@ -163,7 +164,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Saut au noeud dans l’aperçu du concepteur de diffusion pour la messagerie instantanée dynamique**: Accédez directement à un noeud dans le concepteur de flux à partir du panneau d’aperçu.
+* **Accès au noeud dans l’aperçu du concepteur de diffusion pour Dynamic Chat**: Accédez directement à un noeud dans le concepteur de flux à partir du panneau d’aperçu.
 
 <table> 
   <tr> 

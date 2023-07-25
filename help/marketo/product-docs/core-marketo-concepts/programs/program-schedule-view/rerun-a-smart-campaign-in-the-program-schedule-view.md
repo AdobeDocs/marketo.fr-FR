@@ -3,7 +3,8 @@ unique-page-id: 2953331
 description: Réexécution d’une campagne dynamique dans la vue Planification du programme - Documents Marketo - Documentation du produit
 title: Réexécution d’une campagne dynamique en mode Planification du programme
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs, Smart Campaigns
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%

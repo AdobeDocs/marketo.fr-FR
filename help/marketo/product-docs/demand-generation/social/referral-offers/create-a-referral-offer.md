@@ -3,7 +3,8 @@ unique-page-id: 2359781
 description: Création d’une offre de référence - Documents Marketo - Documentation du produit
 title: Création d’une offre de référent
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 2%
@@ -62,7 +63,7 @@ Les offres de parrainage incitent les gens à se rapprocher de leurs amis. Crée
 
 En cas de problème dans l&#39;offre de parrainage, vous serez invité à y répondre avant la validation de l&#39;offre.
 
-Félicitations ! Vous avez créé votre offre de parrainage.
+Félicitations ! Vous avez créé votre offre de parrainage.
 
 >[!NOTE]
 >

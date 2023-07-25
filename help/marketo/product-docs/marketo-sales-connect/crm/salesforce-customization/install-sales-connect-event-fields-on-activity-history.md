@@ -3,7 +3,8 @@ unique-page-id: 14352475
 description: Installation des champs d’événement de la connexion aux ventes dans l’historique des activités - Documents Marketo - Documentation du produit
 title: Installation des champs d’événement de connexion aux ventes dans l’historique des activités
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%

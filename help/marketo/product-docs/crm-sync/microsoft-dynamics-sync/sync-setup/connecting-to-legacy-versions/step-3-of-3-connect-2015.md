@@ -3,7 +3,8 @@ unique-page-id: 7504744
 description: Installation de Marketo pour Microsoft Dynamics 2015 On-Premise Étape 3 sur 3 - Documentation Marketo - Documentation du produit
 title: Installation de Marketo pour Microsoft Dynamics 2015 On-Premise Étape 3 sur 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 1%
@@ -16,7 +17,6 @@ ht-degree: 1%
 >
 >* [Installation de Marketo pour Microsoft Dynamics 2015 On-Premise Étape 1 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
 >* [Installation de Marketo pour Microsoft Dynamics 2015 On-Premise Étape 2 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
-
 
 >[!NOTE]
 >
@@ -53,7 +53,6 @@ ht-degree: 1%
    >* Si votre Marketo a été configuré avant octobre 2020, l’identifiant du client et le secret sont des champs facultatifs. Sinon, elles sont obligatoires. L’obtention de ces informations dépend de la version de MSD que vous utilisez.
    >* Le nom d’utilisateur dans Marketo doit correspondre au nom d’utilisateur de l’utilisateur synchronisé dans le CRM. Le format peut être `user@domain.com` ou DOMAIN\user.
    >* Si vous ne connaissez pas l’URL, [découvrez comment le trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
-
 
    >[!TIP]
    >

@@ -1,28 +1,29 @@
 ---
 unique-page-id: 1147226
 description: Prise en main - Documents Marketo - Documentation du produit
-title: Démarrer
+title: Premiers pas
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 28%
+source-wordcount: '133'
+ht-degree: 30%
 
 ---
 
-# Démarrer {#getting-started}
+# Premiers pas {#getting-started}
 
 ## Présentation de Adobe Marketo Engage {#what-is-marketo-engage}
 
 Qu&#39;est-ce que le Marketo Engage, me demandes-tu ? Bonne question !
 
-[Marketo Engage de formation](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
+[Marketo Engage de formation](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## Configuration {#get-set-up}
 
 Avec un peu d&#39;aide de votre équipe informatique, vous pouvez le faire en un rien de temps.
 
-[Configuration de démarrage](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+[Configuration de démarrage](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
 
 ## Obtenir quelques victoires rapides {#get-some-quick-wins}
 
@@ -49,7 +50,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
   </td>
   <td>
     <a href="getting-started/quick-wins/landing-page-with-a-form.md">
-      <img alt="Adresse e-mail" src="getting-started/assets/getting-started-3.png" />
+      <img alt="E-mail" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
     <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Page de destination avec un formulaire</a>
@@ -77,7 +78,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
 <tr>
   <td>
     <a href="getting-started/quick-wins/import-a-list-of-people.md">
-      <img alt="Adresse e-mail" src="getting-started/assets/getting-started-6.png" />
+      <img alt="E-mail" src="getting-started/assets/getting-started-6.png" />
     </a>
     <div>
     <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importation d’une liste de personnes</a>
@@ -103,7 +104,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
   </td>
   <td>
     <a href="getting-started/quick-wins/alert-the-sales-rep.md">
-      <img alt="Adresse e-mail" src="getting-started/assets/getting-started-9.png" />
+      <img alt="E-mail" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
     <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Prévenir un représentant commercial</a>
@@ -124,4 +125,4 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
 
 ## Félicitations ! Vous êtes prêts pour la Nation  {#congrats-youre-ready-for-the-nation}
 
-Consultez la section [Nation marketing](https://nation.marketo.com){target=&quot;_blank&quot;} !
+Consultez la section [Nation marketing](https://nation.marketo.com){target="_blank"}!

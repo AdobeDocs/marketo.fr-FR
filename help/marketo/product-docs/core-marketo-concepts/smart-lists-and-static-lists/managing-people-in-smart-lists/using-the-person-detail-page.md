@@ -3,7 +3,8 @@ unique-page-id: 2953415
 description: Utilisation de la page Détails de la personne - Documents Marketo - Documentation du produit
 title: Utilisation de la page Détails de la personne
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 50%
@@ -23,8 +24,7 @@ Il y a de nombreuses façons d&#39;ouvrir des personnes spécifiques. Voici quel
 * **Membres** onglet d’un programme
 * **Affichage des membres de campagne** dans une campagne dynamique
 * Certains **rapports**
-
-   <br> 
+  <br> 
 
 1. Double-cliquez sur une personne ou cliquez une seule fois sur l’identifiant à gauche.
 
@@ -70,7 +70,7 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 
 ## Champs par défaut de Marketo avant synchronisation CRM {#marketo-default-fields-prior-to-crm-sync}
 
-|  |  |  |  |  |
+|   |  |  |  |  |
 |---|---|---|---|---|
 | Adresse | Chiffre d&#39;affaires annuel | IP anonyme | Adresse de facturation | Ville de facturation |
 | Pays de facturation | Code postal de facturation | État de facturation | Ville | Nom de la société |

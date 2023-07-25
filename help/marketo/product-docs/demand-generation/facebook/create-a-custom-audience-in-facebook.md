@@ -3,9 +3,10 @@ unique-page-id: 4720275
 description: Création d’une audience personnalisée dans Facebook - Documents Marketo - Documentation du produit
 title: Création d’une audience personnalisée dans Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,13 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Ajout d’audiences personnalisées Facebook en tant que service LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target=&quot;_blank&quot;} dans la section Admin.
->* [Acceptation de termes d’audiences personnalisés Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target=&quot;_blank&quot;} dans votre compte Facebook.
-
+>* [Ajout d’audiences personnalisées Facebook en tant que service LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} dans la section Admin .
+>* [Acceptation de termes d’audiences personnalisés Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} dans votre compte Facebook.
 
 >[!TIP]
 >
->En savoir plus sur [audiences personnalisées dans Facebook](https://www.facebook.com/help/341425252616329){target=&quot;_blank&quot;}.
+>En savoir plus sur [audiences personnalisées dans Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Recherchez et sélectionnez la liste dynamique ou statique contenant les pistes à partir desquelles vous souhaitez créer l’audience.
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Voir [Chemin d’apprentissage facebook pour les clients Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target=&quot;_blank&quot;}. Il couvre tout ce que vous devez savoir, de la création d’une page Facebook au ciblage de vos publicités Facebook à l’aide des intégrations de réseau publicitaire Marketo.
+   >Voir [Chemin d’apprentissage facebook pour les clients Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. Il couvre tout ce que vous devez savoir, de la création d’une page Facebook au ciblage de vos publicités Facebook à l’aide des intégrations de réseau publicitaire Marketo.
 
    >[!MORELIKETHIS]
    >

@@ -3,7 +3,8 @@ unique-page-id: 1900591
 description: Création d’un programme de messagerie électronique - Documents Marketo - Documentation du produit
 title: Création d’un programme de courrier électronique
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -38,4 +39,3 @@ Beau ! Remarquez que le programme est maintenant dans l&#39;arborescence et prê
 >
 >* [Définition d’une audience avec une liste dynamique](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
 >* [Définition d’une audience en important une liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-

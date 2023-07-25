@@ -3,9 +3,10 @@ unique-page-id: 2953188
 description: Filtres déduits - Documents Marketo - Documentation du produit
 title: Filtres déduits
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: e9a89fb17ca55961c1ee7962d5466b6cb76a9550
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,7 @@ Lorsqu’une personne visite votre site web, [Munchkin](/help/marketo/product-do
 >
 >Pour garantir que les valeurs de champ déduites restent à jour, nous mettons régulièrement à jour la base de données utilisée pour les recherches d’adresses IP. Les mises à jour de la base de données peuvent introduire de nouvelles valeurs de champ déduites que vous devrez peut-être ajouter aux définitions de filtre de liste dynamique.
 >
->Des mises à jour de base de données peuvent se produire lors d’une [Version du produit Marketo Engage](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Lorsqu’une mise à jour se produit, la variable [Notes de mise à jour de Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} contient une explication de toute modification des valeurs de champ déduites.
+>Des mises à jour de base de données peuvent se produire lors d’une [Version du produit Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} contiendra une explication des modifications apportées aux valeurs de champ déduites.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -40,7 +41,6 @@ Lorsque vous utilisez l’un de ces filtres dans une liste dynamique, les résul
 >
 >* Page Web visitée - 24 dernières heures
 >* L’état déduit est [sélectionner leur territoire]
-
 
 Ces visiteurs anonymes sont automatiquement transformés en personnes lorsqu’ils cliquent sur un lien d’email ou remplissent un formulaire. Cependant, ils conservent toutes les informations déduites.
 

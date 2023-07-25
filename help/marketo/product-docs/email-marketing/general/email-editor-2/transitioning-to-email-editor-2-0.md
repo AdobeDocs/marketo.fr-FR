@@ -3,7 +3,8 @@ unique-page-id: 11373011
 description: Transition vers Email Editor 2.0 - Documents Marketo - Documentation du produit
 title: Transition vers Email Editor 2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
-source-git-commit: 64ff6900a761b9df796a9a7f417cca1ddc628cce
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
@@ -63,4 +64,3 @@ Informations à noter
 >
 >* [Présentation de l’éditeur de messagerie 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 >* [Syntaxe du modèle de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
-

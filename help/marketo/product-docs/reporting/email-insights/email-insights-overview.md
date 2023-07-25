@@ -3,7 +3,8 @@ unique-page-id: 10099408
 description: Présentation des statistiques par e-mail - Documentation Marketo - Documentation du produit
 title: Présentation des statistiques sur les emails
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 1%
@@ -64,4 +65,3 @@ Toutes les dimensions Marketo standard sont incluses, mais vous avez la possibil
 >
 >* [Présentation de l’analyse des statistiques sur les emails](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
 >* [Présentation des informations sur les emails](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
-

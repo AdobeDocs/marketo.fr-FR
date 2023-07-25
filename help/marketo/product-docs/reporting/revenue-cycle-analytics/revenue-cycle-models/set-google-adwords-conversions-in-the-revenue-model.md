@@ -3,7 +3,8 @@ unique-page-id: 6095029
 description: Définir les conversions Google AdWords dans le modèle de revenu - Documents Marketo - Documentation du produit
 title: Définir les conversions AdWords Google dans le modèle de revenu
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%

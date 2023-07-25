@@ -3,7 +3,8 @@ unique-page-id: 11378814
 description: Listes de comptes - Documents Marketo - Documentation du produit
 title: Listes de comptes
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 1%
@@ -92,4 +93,3 @@ Outre les listes de comptes, vous pouvez créer des listes de comptes dynamiques
 >
 >* [Ajout d’un compte nommé existant à une liste de comptes](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [Informations sur la liste de comptes](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)
-

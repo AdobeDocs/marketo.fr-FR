@@ -3,7 +3,8 @@ unique-page-id: 1146995
 description: Utilisation de jetons dans les étapes de flux - Documents Marketo - Documentation du produit
 title: Utilisation de jetons dans les étapes de flux
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
-source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 5%
@@ -51,4 +52,3 @@ Un jeton est une variable. Vous l’utilisez dans les emails, les landing pages 
    >
    >* [Gestion de mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
    >* [Présentation de mes jetons dans un programme](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
-

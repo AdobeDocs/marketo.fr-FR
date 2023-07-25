@@ -3,7 +3,8 @@ unique-page-id: 2949212
 description: SEO - Optimisation de pages spécifiques avec des mots-clés ciblés - Documents Marketo - Documentation du produit
 title: SEO - Optimisation de pages spécifiques avec des mots-clés ciblés
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

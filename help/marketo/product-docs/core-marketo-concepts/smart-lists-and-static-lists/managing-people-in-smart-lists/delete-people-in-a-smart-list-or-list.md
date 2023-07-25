@@ -3,7 +3,8 @@ unique-page-id: 1146897
 description: Suppression de personnes dans une liste ou une liste dynamique - Documents Marketo - Documentation du produit
 title: Suppression de personnes dans une liste ou une liste dynamique
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%

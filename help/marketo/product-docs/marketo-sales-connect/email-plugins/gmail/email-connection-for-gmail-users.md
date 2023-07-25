@@ -3,9 +3,10 @@ unique-page-id: 17728401
 description: Connexion par courrier électronique pour les utilisateurs de Gmail - Documentation Marketo - Documentation du produit
 title: Connexion par e-mail pour les utilisateurs de Gmail
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
-source-git-commit: 84da081b1484daf0c6c7e5ae4799c4c0b549d0e3
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ La connexion à Gmail signifie que vous recevrez le suivi des réponses, l’acc
 
 >[!CAUTION]
 >
->Si vous êtes [utilisation des filtres](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target=&quot;_blank&quot;} ou des règles dans votre compte Gmail pour marquer automatiquement les emails comme étant lus, ce qui peut entraîner des problèmes avec le suivi des réponses. Nous vous recommandons de désactiver toutes les règles qui marquent automatiquement les emails comme lus lors de l&#39;utilisation du suivi des réponses avec Gmail.
+>Si vous êtes [utilisation des filtres](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} ou les règles de votre compte Gmail pour marquer automatiquement les emails comme étant lus, ce qui peut entraîner des problèmes avec le suivi des réponses. Nous vous recommandons de désactiver toutes les règles qui marquent automatiquement les emails comme lus lors de l&#39;utilisation du suivi des réponses avec Gmail.
 
 1. Dans Sales Connect, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 

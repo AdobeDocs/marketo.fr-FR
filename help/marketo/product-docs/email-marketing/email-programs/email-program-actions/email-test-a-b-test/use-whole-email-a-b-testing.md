@@ -3,7 +3,8 @@ unique-page-id: 2359502
 description: Utiliser le test A/B "Entier Email" - Documents Marketo - Documentation du produit
 title: Utiliser le test A/B "E-mail entier"
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%

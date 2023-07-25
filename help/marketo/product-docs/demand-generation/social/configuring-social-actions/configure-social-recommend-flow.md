@@ -3,7 +3,8 @@ unique-page-id: 2950549
 description: Configuration du flux recommandé par Social - Documents Marketo - Documentation du produit
 title: Configuration du flux recommandé par Social
 exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%
@@ -84,7 +85,7 @@ Si vous choisissez , les valeurs des balises OpenGraph de la page (og:title, og:
 
    >[!TIP]
    >
-   >Utilisez {html_title} dans votre texte de tweet pour afficher automatiquement le titre de la page.
+   >Utilisation {html_title} dans votre texte de tweet pour afficher automatiquement le titre de la page.
 
 1. Cliquez sur **Suivant**.
 
@@ -104,7 +105,7 @@ Si vous choisissez , les valeurs des balises OpenGraph de la page (og:title, og:
 
    >[!TIP]
    >
-   >Utilisez {html_title} dans votre texte de publication pour afficher automatiquement le titre de la page.
+   >Utilisation {html_title} dans votre texte de publication pour afficher automatiquement le titre de la page.
 
 1. Si vous choisissez **Ajouter statique** contenu ci-dessus, modifiez le titre et la description, puis chargez une image personnalisée (à partir de vos images et fichiers Marketo).
 

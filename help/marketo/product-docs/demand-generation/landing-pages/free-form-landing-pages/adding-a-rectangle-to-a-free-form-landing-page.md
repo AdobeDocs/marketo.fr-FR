@@ -3,7 +3,8 @@ unique-page-id: 2359707
 description: Ajout d’un rectangle à une page d’entrée de forme libre - Documents Marketo - Documentation du produit
 title: Ajout d’un rectangle à une page d’entrée de forme libre
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -34,4 +35,4 @@ Les rectangles sur les landing pages sont idéaux pour mettre en surbrillance un
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-Félicitations ! Vous avez désormais la possibilité de créer des rectangles sur vos landing pages de forme libre.
+Félicitations ! Vous avez désormais la possibilité de créer des rectangles sur vos landing pages de forme libre.

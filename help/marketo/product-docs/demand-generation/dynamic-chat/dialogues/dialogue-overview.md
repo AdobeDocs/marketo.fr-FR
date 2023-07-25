@@ -2,10 +2,11 @@
 description: Présentation de dialogue - Documents Marketo - Documentation du produit
 title: Présentation de la boîte de dialogue
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 2%
+source-wordcount: '166'
+ht-degree: 3%
 
 ---
 
@@ -15,19 +16,19 @@ Les dialogues sont des conversations individuelles. Dans chaque dialogue, vous d
 
 ## Critère d’audience {#audience-criteria}
 
-Le [Critères d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)La section {target=&quot;_blank&quot;} d’un dialogue indique où vous allez définir où et à qui votre conversation de chat sera affichée.
+Le [Critères d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"} d’un dialogue : c’est là que vous définissez où et à qui votre conversation de conversation s’affichera.
 
 ![](assets/dialogue-overview-1.png)
 
 ## Designer de flux {#stream-designer}
 
-Le [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)La section {target=&quot;_blank&quot;} d’un dialogue vous permet de concevoir la conversation que vous souhaitez avoir avec les visiteurs de votre site web.
+Le [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"} dans une section Dialogue, vous allez concevoir la conversation que vous souhaitez avoir avec les visiteurs de votre site web.
 
 ![](assets/dialogue-overview-2.png)
 
-## Rapports {#reports}
+## Rapports   {#reports}
 
-Le [Rapports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)La section {target=&quot;_blank&quot;} d’un dialogue vous permet de voir les mesures relatives aux performances de votre dialogue.
+Le [Rapports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} d’un dialogue : c’est là que vous pourrez consulter les mesures relatives à l’efficacité de votre dialogue.
 
 ![](assets/dialogue-overview-3.png)
 
@@ -35,7 +36,7 @@ Le [Rapports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogue
 
 Vous avez la possibilité de désactiver (et de réactiver) toutes les boîtes de dialogue publiées en même temps.
 
-1. Dans la messagerie dynamique, cliquez sur le bouton **Configuration** .
+1. Dans Dynamic Chat, cliquez sur le **Configuration** .
 
    ![](assets/dialogue-overview-4.png)
 

@@ -3,7 +3,8 @@ unique-page-id: 2359759
 description: Bouton Personnaliser l’application Social - Documents Marketo - Documentation du produit
 title: Bouton Personnaliser l’application sociale
 exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%

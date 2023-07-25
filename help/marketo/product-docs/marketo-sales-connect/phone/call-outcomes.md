@@ -2,7 +2,8 @@
 description: Résultats des appels - Documents Marketo - Documentation du produit
 title: Résultats des appels
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -89,4 +90,3 @@ Une fois les résultats de l’appel activés. Les utilisateurs peuvent en séle
 >
 >* [Enregistrer les motifs des appels et les résultats des appels dans Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Raisons de l’appel](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
-

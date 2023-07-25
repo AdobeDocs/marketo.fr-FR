@@ -3,10 +3,11 @@ unique-page-id: 12982903
 description: Planification de programmes de messagerie avec Fuseau horaire du destinataire - Documents Marketo - Documentation du produit
 title: Planification des programmes de messagerie avec un fuseau horaire de destinataire
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '815'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -37,16 +38,15 @@ Vous disposez ainsi de deux options :
 >
 >* **Diffuser à l’aide de l’heure définie par défaut du programme**: si l&#39;envoi de l&#39;email est prévu le mardi à 9 h 00, les personnes qualifiées vivant dans les fuseaux horaires où l&#39;heure planifiée est déjà passée recevront l&#39;email _selon les paramètres de votre fuseau horaire d’abonnement_. Ainsi, si votre [paramètres de fuseau horaire d’abonnement](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) sont définis sur PDT America/Los Angeles, ces destinataires recevront toujours l&#39;email mardi à 9h00 heure d&#39;été (quelle que soit l&#39;heure de leur propre fuseau horaire).
 
-
 >[!NOTE]
 >
 >[En savoir plus](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) sur la façon dont Marketo calcule les fuseaux horaires pour les destinataires.
 
 Examinons ce scénario plus en détail. Disons que vous êtes à San Francisco, programmez un email à 7h00 pour un **9 h** envoyez. Dans votre liste dynamique, il existe des personnes issues des régions suivantes :
 
-* San Francisco
+* San Francisco
 * Texas
-* New York
+* New York
 * Italie
 
 ![](assets/image2017-12-6-10-3a52-3a41.png)
@@ -94,4 +94,3 @@ En résumé, les programmes de messagerie planifiés avec le fuseau horaire du d
 >* [Comprendre le fuseau horaire du destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Prise en main des programmes de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 >* [Abandonner la diffusion des programmes de messagerie planifiés avec le fuseau horaire du destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 1147247
 description: Masquage et affichage des types d’entrée personnalisés - Documents Marketo - Documentation du produit
 title: Masquage et affichage des types d’entrée personnalisés
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 11378845
 description: Ajout de vidéos en tant que service LaunchPoint - Documents Marketo - Documentation du produit
 title: Ajout de vidéos en tant que service LaunchPoint
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 1%

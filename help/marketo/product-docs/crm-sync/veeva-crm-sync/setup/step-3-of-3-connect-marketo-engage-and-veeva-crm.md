@@ -2,9 +2,10 @@
 description: Étape 3 sur 3 - Connexion de Marketo Engage et de Veeva CRM - Documents Marketo - Documentation du produit
 title: Étape 3 sur 3 - Connexion de Marketo Engage et de Veeva CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,8 @@ Dans cet article, vous allez configurer Marketo Engage pour qu’il se synchroni
 
 >[!PREREQUISITES]
 >
->* [Étape 1 sur 3 : Ajout de champs Marketo à Veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target=&quot;_blank&quot;}
->* [Étape 2 sur 3 : Création d’un utilisateur Veeva pour Marketo](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target=&quot;_blank&quot;}
-
+>* [Étape 1 sur 3 : Ajout de champs Marketo à Veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
+>* [Étape 2 sur 3 : Création d’un utilisateur Veeva pour Marketo](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target="_blank"}
 
 >[!IMPORTANT]
 >
@@ -31,7 +31,7 @@ Dans cet article, vous allez configurer Marketo Engage pour qu’il se synchroni
 
    >[!NOTE]
    >
-   >Veillez à [masquer tous les champs dont vous n’avez pas besoin ;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target=&quot;_blank&quot;} dans Marketo à partir de l’utilisateur de synchronisation avant de cliquer sur Synchroniser les champs. Une fois que vous avez cliqué sur Synchroniser les champs, tous les champs visibles par l’utilisateur sont créés dans Marketo de manière permanente et ne peuvent pas être supprimés.
+   >Veillez à [masquer tous les champs dont vous n’avez pas besoin ;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} dans Marketo à partir de l’utilisateur de synchronisation avant de cliquer sur Champs de synchronisation. Une fois que vous avez cliqué sur Synchroniser les champs, tous les champs visibles par l’utilisateur sont créés dans Marketo de manière permanente et ne peuvent pas être supprimés.
 
 1. Cliquez sur **Connexion avec Veeva**.
 
@@ -91,4 +91,4 @@ Marketo fournit des messages d’état pour la synchronisation CRM Veeva dans la
 
 >[!MORELIKETHIS]
 >
->[Configuration d’objets personnalisés](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target=&quot;_blank&quot;}
+>[Configuration d’objets personnalisés](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}

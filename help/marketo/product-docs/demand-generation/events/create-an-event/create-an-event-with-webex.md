@@ -3,7 +3,8 @@ unique-page-id: 2949863
 description: Création d’un événement avec Webex - Documents Marketo - Documentation du produit
 title: Création d’un événement avec Webex
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
-source-git-commit: 8813686a39852443bf200eda232fd5448c6aa414
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -18,7 +19,6 @@ ht-degree: 0%
 >* [Création d’un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Définissez les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) pour suivre l’engagement
 >* Assurez-vous d’utiliser les événements Webex (Classic)
-
 
 Commencez par créer un événement Webex dans le Centre d’événements Webex. Marketo utilise uniquement des paramètres et des champs spécifiques pour votre intégration, ce que nous allons aborder sous peu. Les autres champs que vous pouvez configurer pour Webex sont expliqués dans la section [Guide de l’utilisateur de Webex Event Center](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
@@ -73,11 +73,11 @@ Vous pourrez contrôler la liste d’invitation, le formulaire d’enregistremen
 
 * **ID d’enregistrement requis** - Actuellement pris en charge à l’aide de l’intégration Marketo-Webex. Vous pouvez utiliser Marketo pour envoyer l’e-mail de confirmation de votre événement. Lorsque la personne s’inscrit, elle reçoit une URL unique qu’elle utilise pour entrer dans l’événement.
 
-   >[!TIP]
-   >
-   >Pour renseigner votre email de confirmation avec cette URL unique, utilisez le jeton suivant dans votre email : `{{member.webinar url}}`. Lorsque l’URL de confirmation est envoyée, ce jeton correspond automatiquement à l’URL de confirmation unique de la personne.
-   >
-   >Définissez votre adresse électronique de confirmation sur **Opérationnel** afin de s&#39;assurer que les personnes qui s&#39;inscrivent et peuvent se désinscrire reçoivent toujours leurs informations de confirmation.
+  >[!TIP]
+  >
+  >Pour renseigner votre email de confirmation avec cette URL unique, utilisez le jeton suivant dans votre email : `{{member.webinar url}}`. Lorsque l’URL de confirmation est envoyée, ce jeton correspond automatiquement à l’URL de confirmation unique de la personne.
+  >
+  >Définissez votre adresse électronique de confirmation sur **Opérationnel** afin de s&#39;assurer que les personnes qui s&#39;inscrivent et peuvent se désinscrire reçoivent toujours leurs informations de confirmation.
 
 * **Mot de passe d’enregistrement** - (Facultatif) Actuellement non pris en charge à l’aide de l’intégration Marketo-Webex.
 * **Règles de validation** - Actuellement non pris en charge à l’aide de l’intégration Marketo-Webex. Cependant, vous pouvez utiliser des campagnes intelligentes dans Marketo pour contrôler les approbations.

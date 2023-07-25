@@ -3,7 +3,8 @@ unique-page-id: 2359647
 description: Présentation des programmes d’engagement - Documents Marketo - Documentation du produit
 title: Présentation des programmes d’engagement
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 9%
@@ -39,7 +40,6 @@ A **stream** est un ensemble de contenus prioritaires que le programme d&#39;eng
 >* [Ajout d’une diffusion](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
 >* [Clonage d’un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
-
 ## Contenu {#content}
 
 Il existe deux types de **content** vous pouvez ajouter aux flux de programme d’engagement : emails et programmes. Les courriers électroniques seront envoyés aux personnes au moment de la distribution.
@@ -53,7 +53,6 @@ Il existe deux types de **content** vous pouvez ajouter aux flux de programme d�
 >* [Modification de la disponibilité du contenu de diffusion](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
 >* [Suppression de contenu de diffusion](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [Archivage et désarchivage du contenu du flux](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
-
 
 ## Cast {#cast}
 

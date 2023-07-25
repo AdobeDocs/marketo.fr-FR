@@ -3,7 +3,8 @@ unique-page-id: 2360362
 description: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (Enterprise/Unlimited) - Documents Marketo - Documentation du produit
 title: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
-source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '784'
 ht-degree: 8%
@@ -161,49 +162,49 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
    <td>Longueur 18<br>Nombre de décimales 0 </td> 
   </tr> 
   <tr> 
-   <td>Référent d'origine</td> 
+   <td>Référent d’origine</td> 
    <td>mkto71_Original_Referrer</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Moteur de recherche d'origine</td> 
+   <td>Moteur de recherche d’origine</td> 
    <td>mkto71_Original_Search_Engine</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Phrase de recherche d'origine</td> 
+   <td>Phrase de recherche d’origine</td> 
    <td>mkto71_Original_Search_Expression</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Info source d'origine</td> 
+   <td>Info source d’origine</td> 
    <td>mkto71_Original_Source_Info</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Type source d'origine</td> 
+   <td>Type source d’origine</td> 
    <td>mkto71_Original_Source_Type</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Ville déduite</td> 
+   <td>Ville supposée</td> 
    <td>mkto71_Inferred_City</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Société déduite</td> 
+   <td>Société supposée</td> 
    <td>mkto71_Inferred_Company</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Pays déduit</td> 
+   <td>Pays supposé</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 

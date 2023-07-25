@@ -3,7 +3,8 @@ unique-page-id: 2951220
 description: Création d’un rapport sur les performances des personnes avec les colonnes de la plateforme mobile - Documents Marketo - Documentation du produit
 title: Création d’un rapport sur les performances des personnes avec des colonnes Mobile Platform
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%

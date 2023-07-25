@@ -2,7 +2,8 @@
 description: Actions en bloc sur les personnes - Documents Marketo - Documentation du produit
 title: Actions en bloc sur les personnes
 exl-id: fcd89688-6905-4714-9254-42873eca8428
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 5%

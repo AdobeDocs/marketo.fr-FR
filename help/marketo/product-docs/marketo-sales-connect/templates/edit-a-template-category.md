@@ -3,7 +3,8 @@ unique-page-id: 14352506
 description: Modification d’une catégorie de modèles - Documents Marketo - Documentation du produit
 title: Modification d’une catégorie de modèle
 exl-id: ae7c9db2-78d3-497c-9752-77304b9ab3d8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%

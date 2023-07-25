@@ -3,7 +3,8 @@ unique-page-id: 557273
 description: Recherche et ajout de filtres à une liste dynamique - Documents Marketo - Documentation du produit
 title: Recherche et ajout de filtres à une liste dynamique
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -42,4 +43,3 @@ Mot clé! Allons de l&#39;avant et définissons ces filtres.
 >
 >* [Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Définition des filtres de liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-

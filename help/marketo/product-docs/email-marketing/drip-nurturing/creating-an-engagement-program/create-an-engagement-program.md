@@ -3,7 +3,8 @@ unique-page-id: 2359652
 description: Création d’un programme d’engagement - Documents Marketo - Documentation du produit
 title: Création d’un programme d’engagement
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 3%
@@ -34,4 +35,3 @@ Vous pouvez utiliser des programmes d’engagement dans Marketo pour réaliser f
    >
    >* [Ajout de contenu à un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
    >* [Définir le rythme du stream](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
-

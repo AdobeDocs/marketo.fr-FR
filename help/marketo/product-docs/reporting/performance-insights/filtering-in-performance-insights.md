@@ -3,7 +3,8 @@ unique-page-id: 12979012
 description: Filtrage dans Performance Insights - Documents Marketo - Documentation du produit
 title: Filtrage dans les statistiques sur les performances
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 4%

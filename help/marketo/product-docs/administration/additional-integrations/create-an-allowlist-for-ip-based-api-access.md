@@ -3,7 +3,8 @@ unique-page-id: 10098433
 description: Création d’une Liste autorisée pour l’accès aux API basées sur l’adresse IP - Documents Marketo - Documentation du produit
 title: Création d’une Liste autorisée pour l’accès aux API basées sur l’adresse IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 3%

@@ -2,20 +2,21 @@
 description: Ajout de l’accès Sales Insight aux profils - Documents Marketo - Documentation du produit
 title: Ajout de l’accès Sales Insight aux profils
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
 
 # Ajout de l’accès Sales Insight aux profils {#add-sales-insight-access-to-profiles}
 
-Voici comment créer un profil ayant accès à Sales Insight tout en supprimant l’accès pour vos autres profils. Cela s’adresse aux utilisateurs qui ont déjà installé le [Package d’AppExchange Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}.
+Voici comment créer un profil ayant accès à Sales Insight tout en supprimant l’accès pour vos autres profils. Cela s’adresse aux utilisateurs qui ont déjà installé le [Package d’AppExchange Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
->Si vous avez auparavant donné l’accès à Sales Insight à tous les profils, vous devez [suppression de l’accès au niveau de profil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;} pour utiliser ce jeu d’autorisations.
+>Si vous avez auparavant donné l’accès à Sales Insight à tous les profils, vous devez [suppression de l’accès au niveau de profil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} pour utiliser ce jeu d’autorisations.
 
 ## Création d’un profil pour Sales Insight {#create-a-new-profile-for-sales-insight}
 
@@ -48,7 +49,6 @@ Si vous disposez d’un profil dédié pour vos utilisateurs de Sales Insight, v
 
    * Dans les paramètres de tabulation, définissez les onglets Marketo sur Tabulation masquée .
    * Dans Autorisations d’objet personnalisé, désélectionnez Lire, Créer, Modifier et Supprimer dans la configuration de Marketo Sales Insight
-
 
 1. Cliquez sur **Enregistrer** une fois terminé.
 

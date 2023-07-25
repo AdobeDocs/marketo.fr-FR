@@ -3,7 +3,8 @@ unique-page-id: 4718660
 description: Présentation des phases du modèle de revenu - Documents Marketo - Documentation du produit
 title: Présentation des phases de modèle de revenu
 exl-id: 036559ff-b576-4490-ab76-54092e909178
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%

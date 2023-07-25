@@ -3,7 +3,8 @@ unique-page-id: 2359466
 description: Modification de fragments de code avec du contenu dynamique - Documents Marketo - Documentation du produit
 title: Modification de fragments de code avec du contenu dynamique
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Création d’un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
 
 Utilisez la segmentation dans les fragments de code pour gérer facilement le contenu dynamique de vos emails et landing pages.
 
@@ -54,4 +54,3 @@ N&#39;était-ce pas simple ? Vous êtes maintenant prêt à utiliser ces fragmen
 >
 >* [Ajout d’un fragment de code à un courrier électronique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [Ajout d’un fragment de code à une page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
-

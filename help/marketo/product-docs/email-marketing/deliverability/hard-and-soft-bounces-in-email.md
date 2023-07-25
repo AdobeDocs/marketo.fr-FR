@@ -3,7 +3,8 @@ unique-page-id: 1147328
 description: Erreurs hard et soft dans les courriers électroniques - Documents Marketo - Documentation du produit
 title: Erreurs hard et soft dans les courriers électroniques
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%

@@ -2,9 +2,10 @@
 description: Notes de mise à jour - Juin 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Juin 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
@@ -25,20 +26,20 @@ Les fonctionnalités suivantes commenceront à être publiées sur **24 juin 202
 
 ## Orchestration cross-canal {#cross-channel-orchestration}
 
-* **Amélioration de l’utilisation du concepteur de flux pour Dynamic Chat**: Ajoutez des cartes directement à partir du canevas du Concepteur de flux sans avoir à les faire glisser. L’interface de messagerie dynamique a également été améliorée afin d’offrir une meilleure visibilité du contenu dans les cartes individuelles.
+* **Amélioration de l’utilisation du concepteur de flux pour Dynamic Chat**: Ajoutez des cartes directement à partir du canevas du Concepteur de flux sans avoir à les faire glisser. L’interface du Dynamic Chat a également été améliorée afin d’offrir une meilleure visibilité du contenu dans les cartes individuelles.
 
-* **Règles de routage de rendez-vous avancées pour les conversations dynamiques**: Dynamic Chat offre d’autres options pour le routage de rendez-vous ciblé. Spécifiez les nominations d’agent à router en fonction des attributs du Marketo Engage, en veillant à ce que les prospects soient acheminés vers les agents appropriés.
+* **Règles de routage de rendez-vous avancées pour Dynamic Chat**: Dynamic Chat propose d’autres options pour le routage de rendez-vous ciblé. Spécifiez les nominations d’agent à router en fonction des attributs du Marketo Engage, en veillant à ce que les prospects soient acheminés vers les agents appropriés.
 
-* **Création de rapports de dialogue avancé pour la conversation dynamique**: Affichez plus en détail les performances de vos campagnes de messagerie dynamique à l’aide de toutes nouvelles visualisations de données pour les mesures d’engagement et de conversion.
+* **Création de rapports de dialogue avancés pour le Dynamic Chat**: Affichez plus en détail les performances de vos campagnes Dynamic Chat à l’aide de toutes nouvelles visualisations de données pour les mesures d’engagement et de conversion.
 
-* **Attributs de Marketo Engage non synchronisés pour Dynamic Chat**: Les attributs de Marketo Engage non synchronisés de votre abonnement Dynamic Chat qui ne sont pas utilisés vous aident à simplifier la propreté des données et permettent de synchroniser d’autres attributs si nécessaire.
+* **Attributs de Marketo Engage non synchronisés pour Dynamic Chat**: Les attributs de Marketo Engage non synchronisés de votre abonnement de Dynamic Chat qui ne sont pas utilisés vous aident à simplifier la propreté des données et permettent de synchroniser d’autres attributs si nécessaire.
 
 ## Expérience de nouvelle génération
 
 **Nouveau basculement des vues**: Les vues ci-dessous sont désormais disponibles dans l’expérience de nouvelle génération :
 
-* [Affichage des détails du courrier électronique](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
-* [Mode Liste des emails](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
+* [Affichage des détails du courrier électronique](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [Mode Liste des emails](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## Automatisation de l’expérience {#experience-automation}
 
@@ -62,7 +63,7 @@ Les fonctionnalités suivantes commenceront à être publiées sur **24 juin 202
 
 ![(étoile)](assets/yellow-star.png)
 
-* **Mise à jour de l’API Salesforce**: Avec la version d’été 22 de Salesforce, les versions 21 à 30 héritées de l’API ne seront plus prises en charge par Salesforce. Avec cette version de Marketo Engage, toutes les demandes de Sales Connect utilisant des versions d’API héritées ont été mises à jour afin de rester dans une version prise en charge. Pour plus d’informations sur les plans de retraite de l’API Salesforce, cliquez sur [here](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
+* **Mise à jour de l’API Salesforce**: Avec la version d’été 22 de Salesforce, les versions 21 à 30 héritées de l’API ne seront plus prises en charge par Salesforce. Avec cette version de Marketo Engage, toutes les demandes de Sales Connect utilisant des versions d’API héritées ont été mises à jour afin de rester dans une version prise en charge. Pour plus d’informations sur les plans de retraite de l’API Salesforce, cliquez sur [here](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
 
 ## Améliorations des API {#api-enhancements}
 
@@ -76,4 +77,4 @@ Les fonctionnalités suivantes commenceront à être publiées sur **24 juin 202
 
 **_Webinaire sur la version du produit_**
 
-[Webinaire de mise à jour des Marketo Engage de juin et août 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
+[Webinaire de mise à jour des Marketo Engage de juin et août 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

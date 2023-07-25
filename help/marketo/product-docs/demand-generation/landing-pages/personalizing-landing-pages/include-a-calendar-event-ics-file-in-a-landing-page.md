@@ -3,7 +3,8 @@ unique-page-id: 2359540
 description: Inclure un fichier ICS d’événement de calendrier dans une page d’entrée - Documents Marketo - Documentation du produit
 title: Inclure un fichier ICS d’événement de calendrier dans une page d’entrée
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -18,7 +19,6 @@ A **Fichier de calendrier** jeton vous permet d’ajouter un lien d’événemen
 >
 >* [Création d’un fichier d’événement de calendrier (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-
 1. Dans l&#39;éditeur de landing page, cliquez sur **{...}** pour insérer un jeton.
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
@@ -30,7 +30,6 @@ A **Fichier de calendrier** jeton vous permet d’ajouter un lien d’événemen
    >Les jetons suivants ne sont pas pris en charge sur les landing pages :
    >
    >* URL du webinaire du membre
-
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 

@@ -3,7 +3,8 @@ unique-page-id: 4718664
 description: Présentation du chemin de succès du modèle de revenu - Documents Marketo - Documentation du produit
 title: Compréhension du chemin de réussite du modèle de recettes
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 4%

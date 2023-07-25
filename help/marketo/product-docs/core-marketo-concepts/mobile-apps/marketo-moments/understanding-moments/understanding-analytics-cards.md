@@ -3,7 +3,8 @@ unique-page-id: 8781988
 description: Présentation d’Analytics Cards - Documents Marketo - Documentation du produit
 title: Présentation des cartes Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 2%
@@ -63,4 +64,3 @@ Maintenant vous savez.
 >* [Présentation des moments Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Présentation des cartes d’événements](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Présentation des cartes du programme de messagerie](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
-

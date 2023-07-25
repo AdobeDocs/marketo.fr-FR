@@ -3,7 +3,8 @@ unique-page-id: 27656223
 description: Installation de la personnalisation Salesforce pour les clients de l’édition professionnelle - Documents Marketo - Documentation du produit
 title: Installation de la personnalisation Salesforce pour les clients de l’édition professionnelle
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Les clients disposant de Salesforce Professional Edition devront suivre ces éta
 >
 >* L’administrateur de Sales Connect doit connecter leurs comptes Salesforce et Sales Connect.
 >* L’instance Salesforce utilisée doit disposer d’un espace pour installer treize champs d’activité personnalisés.
-
 
 ## Installation {#installation}
 

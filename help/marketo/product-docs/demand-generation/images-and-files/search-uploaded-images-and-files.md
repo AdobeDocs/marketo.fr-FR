@@ -3,7 +3,8 @@ unique-page-id: 2359862
 description: Recherche d’images et de fichiers téléchargés - Documents Marketo - Documentation du produit
 title: Recherche d’images et de fichiers téléchargés
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Image Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -36,4 +37,3 @@ Levez les pieds, vous avez fini !
 >
 >* [Remplacement d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
 >* [Organisation des images et des fichiers à l’aide de dossiers](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
-

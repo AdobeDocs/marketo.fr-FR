@@ -3,7 +3,8 @@ unique-page-id: 2949844
 description: Création d’un programme d’événement - Documents Marketo - Documentation du produit
 title: Création d’un programme d’événement
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 2%
@@ -56,4 +57,3 @@ Une fois votre événement créé, créez la variable [landing pages](/help/mark
 >
 >* [Calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)
 >* [Utilisation des coûts de période dans un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-

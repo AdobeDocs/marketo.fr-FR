@@ -2,7 +2,8 @@
 description: Sales Insight for Non Native MS Dynamics Integrations - Documents Marketo - Documentation du produit
 title: Sales Insight pour les intégrations MS Dynamics non natives
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1413'
 ht-degree: 0%
@@ -20,7 +21,6 @@ Si votre compte Adobe Marketo Engage est connecté à MS Dynamics par le biais d
 >* Un abonnement MS Dynamics avec la configuration MSI (nous ne prenons en charge que [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} à l’heure actuelle).
 >* API REST Marketo [configuration réussie](https://developers.marketo.com/rest-api/){target="_blank"}. Les API CRUD exposées seront la base de la synchronisation non native.
 >* Lecture [billet de blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} afin d’obtenir une compréhension de l’objet et des relations.
-
 
 ## Une synchronisation non native réussie pour MSI nécessite les éléments suivants : {#successful-non-native-sync-for-msi-requires-the-following}
 
@@ -256,4 +256,5 @@ Si votre compte Adobe Marketo Engage est connecté à MS Dynamics par le biais d
    </table>
 
    * Documentation de l’API REST Lead : [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
+
    Une bonne utilisation des champs externes est essentielle pour une synchronisation non native réussie. Si vous ne voyez pas les données dans certaines des vues, il est probable qu’un certain champ n’ait pas été correctement synchronisé. Par exemple, si les activités d’une piste et les moments intéressants ne s’affichent pas lors de la recherche dans le widget MSI sous leur compte, il est probable que la société de la piste ou le compte n’ont pas été correctement synchronisés. L’exécution d’une demande de GET pour ce prospect lors de la spécification des champs externes vous aidera à vérifier si le prospect a été correctement synchronisé. De plus, le courrier électronique de la personne commerciale externe dans Marketo doit correspondre à celui de cet utilisateur dans MS Dynamics. Les données peuvent ne pas s’afficher dans l’onglet Marketo de MS Dynamics si les emails ne correspondent pas.

@@ -3,7 +3,8 @@ unique-page-id: 1146933
 description: Exécution immédiate d’une campagne dynamique par lots | Onglet Planification - Documents Marketo - Documentation du produit
 title: Exécution immédiate d’une campagne dynamique par lots | Onglet Planification
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -32,4 +33,3 @@ Une fois la création de votre campagne par lots terminée, vous pouvez choisir 
    >
    >* [Planification de l’exécution d’une campagne dynamique par lots ultérieurement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
    >* [Planification d’une campagne par lots récurrente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
-

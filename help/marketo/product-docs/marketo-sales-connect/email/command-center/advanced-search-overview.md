@@ -3,10 +3,11 @@ unique-page-id: 37356329
 description: Présentation de la recherche avancée - Documents Marketo - Documentation du produit
 title: Aperçu de la recherche avancée
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -48,9 +49,9 @@ Filtrez par destinataire/expéditeur d’email dans la section Qui .
 
 | Liste déroulante | Description |
 |---|---|
-| **Afficher sous** | Vous pouvez filtrer par un expéditeur spécifique dans votre instance Sales Connect (cette option est disponible uniquement pour les administrateurs). |
+| **Afficher comme** | Vous pouvez filtrer par un expéditeur spécifique dans votre instance Sales Connect (cette option est disponible uniquement pour les administrateurs). |
 | **Par groupe** | Filtrez les emails selon un groupe spécifique de destinataires. |
-| **Par personne** | Filtrer par destinataire spécifique. |
+| **Par individu** | Filtrer par destinataire spécifique. |
 
 **Quand**
 

@@ -3,7 +3,8 @@ unique-page-id: 10092969
 description: Filtre de synchronisation Microsoft Dynamics - Fusion - Documents Marketo - Documentation du produit
 title: Filtre de synchronisation Microsoft Dynamics - Fusion
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 4%
@@ -20,7 +21,7 @@ C&#39;est quand un enregistrement est vrai et qu&#39;un enregistrement est faux 
 
 | Si le filtre de synchronisation pour l’enregistrement perdu est : | et le filtre de synchronisation pour l’enregistrement gagnant est : | Résultat dans Marketo |
 |---|---|---|
-| True | True | L’enregistrement gagnant se synchronise toujours avec Marketo. |
-| False | False | Le record de la victoire continue **not** synchronisation avec Marketo |
-| False | True | L’enregistrement gagnant sera synchronisé avec Marketo. |
-| True | False | L’enregistrement gagnant ne sera pas synchronisé avec Marketo |
+| Vrai | Vrai | L’enregistrement gagnant se synchronise toujours avec Marketo. |
+| false | false | Le record de la victoire continue **not** synchronisation avec Marketo |
+| false | Vrai | L’enregistrement gagnant sera synchronisé avec Marketo. |
+| Vrai | false | L’enregistrement gagnant ne sera pas synchronisé avec Marketo |

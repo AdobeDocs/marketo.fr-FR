@@ -3,7 +3,8 @@ unique-page-id: 2359418
 description: Importation d’une liste de personnes - Documents Marketo - Documentation du produit
 title: Importation d’une liste de personnes
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 5%
@@ -101,7 +102,6 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
    > * Ignorer la création d’une nouvelle personne
    > * Ignorer les mises à jour du champ individu
    > * Ignorer la journalisation d&#39;activité
-
 
 1. Mappez vos [!UICONTROL Colonne de liste] dans le champ Marketo correspondant, puis cliquez sur **[!UICONTROL Suivant]**.
 

@@ -2,7 +2,8 @@
 description: Limitation de la connexion par e-mail - Documents Marketo - Documentation du produit
 title: Limitation de la connexion aux e-mails
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # Limitation de la connexion aux e-mails {#email-connection-throttling}
 
-L’intégration de votre compte Sales Connect pour l’envoi par les fournisseurs de messagerie Exchange ou Gmail offre une configuration simplifiée et optimise la délivrabilité des emails pour la communication des ventes 1:1. Cependant, pour garantir la sécurité des systèmes et des comptes, Gmail et Exchange appliquent les limites d’envoi des emails. Ces limites peuvent être augmentées ou diminuées à la discrétion des fournisseurs.
+L’intégration de votre compte Sales Connect pour l’envoi par les fournisseurs de messagerie Exchange ou Gmail offre une configuration simplifiée et optimise la délivrabilité des emails pour la communication des ventes 1:1. Toutefois, pour garantir la sécurité des systèmes et des comptes, Gmail et Exchange appliquent les limites d’envoi des emails. Ces limites peuvent être augmentées ou diminuées à la discrétion des fournisseurs.
 
 ## Limitation de la connexion aux e-mails (version bêta) {#email-connection-throttling-beta}
 
@@ -87,4 +88,3 @@ Les limites sont définies par le service informatique de l’organisation, car 
 >* [Présentation du canal de diffusion](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [Connexion par e-mail pour les utilisateurs de Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 >* [Connexion par e-mail pour les utilisateurs Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

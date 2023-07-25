@@ -3,7 +3,8 @@ unique-page-id: 11371040
 description: Syntaxe du modèle de courrier électronique - Documents Marketo - Documentation du produit
 title: Syntaxe du modèle de courrier électronique
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
-source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '2423'
 ht-degree: 1%
@@ -257,7 +258,7 @@ Exemple d’utilisation :
 
 `<pre data-theme="Confluence">${textColor}</pre>`
 
-## Booléenne {#boolean}
+## Booléen {#boolean}
 
 Si vous définissez une variable comme valeur booléenne, l’utilisateur final pourra activer/désactiver l’option dans l’éditeur de courrier électronique. Vous spécifiez une variable booléenne à l’aide de la variable `<meta>` with class=&quot;mktoBoolean&quot;
 

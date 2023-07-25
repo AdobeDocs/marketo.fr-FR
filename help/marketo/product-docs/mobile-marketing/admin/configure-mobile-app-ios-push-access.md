@@ -3,7 +3,8 @@ unique-page-id: 7512434
 description: Configuration de l’accès push iOS pour les applications mobiles - Documents Marketo - Documentation du produit
 title: Configuration de l’accès push iOS pour l’application mobile
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 1%

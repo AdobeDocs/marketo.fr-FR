@@ -3,7 +3,8 @@ unique-page-id: 4719398
 description: Création d’une campagne web de boîte de dialogue - Documents Marketo - Documentation du produit
 title: Créer une campagne web de boîte de dialogue
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '748'
 ht-degree: 2%
@@ -161,4 +162,3 @@ Voir [Cloner une campagne web](/help/marketo/product-docs/web-personalization/wo
 >
 >* [Création d’un RTP dans une campagne de zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Création d’une campagne de widgets RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

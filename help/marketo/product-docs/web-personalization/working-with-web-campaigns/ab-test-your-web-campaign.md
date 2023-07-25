@@ -3,7 +3,8 @@ unique-page-id: 4719404
 description: A/B Test Your Web Campaign - Documentation Marketo - Documentation du produit
 title: A Test A/B de votre campagne web
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -73,10 +74,8 @@ Pour tester vos campagnes personnalisées, vous pouvez sélectionner deux campag
 >1. Testez différents éléments de contenu (étude de cas A et étude de cas B), modifiez les messages et les éléments créatifs, les couleurs, les tailles ou appelez à des actions.
 >1. Optimisez et profitez de votre contenu personnalisé !
 
-
 >[!MORELIKETHIS]
 >
 >* [Création d’une campagne de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [Création d’un RTP dans une campagne de zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Création d’une campagne de widgets RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

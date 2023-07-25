@@ -2,7 +2,8 @@
 description: Glossaire des icônes - Documents Marketo - Documentation du produit
 title: Glossaire des icônes
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 53%
@@ -45,7 +46,7 @@ Vous trouverez ci-dessous les icônes de la nouvelle interface de Adobe Marketo 
   <tr>
    <td><img src="assets/classic-email.png"></td> 
    <td><img src="assets/email.png"></td> 
-   <td>Adresse e-mail</td> 
+   <td>E-mail</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program.png"></td>

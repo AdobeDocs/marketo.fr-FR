@@ -3,7 +3,8 @@ unique-page-id: 11380218
 description: Notes de mise à jour - Été 16 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Été 16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 4%
@@ -14,7 +15,7 @@ ht-degree: 4%
 
 Les fonctionnalités suivantes sont incluses dans la version de l’été 16. Vérifiez la disponibilité de votre édition Marketo. Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité.
 
-## [Account Based Marketing](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## [Marketing basé sur les comptes](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
 Marketo Account Based Marketing fournit toutes les informations essentielles sur une seule plateforme unifiée :
 

@@ -3,7 +3,8 @@ unique-page-id: 11377945
 description: Présentation du journal d’audit - Documents Marketo - Documentation du produit
 title: Présentation du journal d’audit
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Audit Trail
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%

@@ -2,9 +2,10 @@
 description: Ajout d’un jeu d’autorisations Sales Insight - Documents Marketo - Documentation du produit
 title: Ajouter un jeu d’autorisations Sales Insight
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '375'
 ht-degree: 3%
 
 ---
@@ -15,13 +16,13 @@ Procédez comme suit pour ajouter l’accès aux fonctionnalités Sales Insight 
 
 >[!PREREQUISITES]
 >
->[Mettre à jour votre package Salesforce Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target=&quot;_blank&quot;} vers la version 1.8000 ou ultérieure pour utiliser cette fonctionnalité.
+>[Mettre à jour votre package Salesforce Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} vers la version 1.8000 ou ultérieure pour utiliser cette fonctionnalité.
 
 >[!IMPORTANT]
 >
->Si vous avez auparavant donné l’accès à Sales Insight à tous les profils et/ou mis en oeuvre Sales Insight pour tous vos utilisateurs, vous devez [suppression de l’accès au niveau de profil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;} pour utiliser ce jeu d’autorisations.
+>Si vous avez auparavant donné l’accès à Sales Insight à tous les profils et/ou mis en oeuvre Sales Insight pour tous vos utilisateurs, vous devez [suppression de l’accès au niveau de profil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} pour utiliser ce jeu d’autorisations.
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 L’autorisation &quot;Application Marketo&quot; fait partie du package Salesforce d’aperçu des ventes. Il inclut l’accès aux objets, classes d’apex et pages de force visuelle mentionnés ci-dessous. Elles sont requises pour accéder à toutes les fonctionnalités d’aperçu des ventes.
 

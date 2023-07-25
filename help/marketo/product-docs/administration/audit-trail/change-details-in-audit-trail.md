@@ -3,7 +3,8 @@ unique-page-id: 11379928
 description: Modification des détails dans le journal d’audit - Documents Marketo - Documentation du produit
 title: Modification des détails dans le journal d’audit
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Audit Trail
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1913'
 ht-degree: 15%
@@ -46,7 +47,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td>Modifier canal</td> 
+   <td>Modifier le canal</td> 
    <td>Nouveau canal "nouveau nom du canal" Ancien canal "ancien nom du canal" </td> 
   </tr> 
   <tr> 
@@ -90,7 +91,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td rowspan="19"><strong>Adresse e-mail</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>E-mail</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Créer</td> 
    <td>Créé à l’aide du modèle "nom du modèle" <br>ou <br>Cloné à partir de "nom de ressource"</td> 
   </tr> 
@@ -136,7 +137,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Modifier le module <code>"<module name>" <attribute></code> à "value"</td> 
+   <td>Modifier le module <module name><attribute> à "value"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
@@ -187,7 +188,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td>Modifier canal</td> 
+   <td>Modifier le canal</td> 
    <td>Nouveau canal "nouveau canal" Ancien canal "ancien canal"</td> 
   </tr> 
   <tr> 
@@ -285,7 +286,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
    <td>S/O</td> 
   </tr> 
   <tr> 
-   <td>Modifier canal</td> 
+   <td>Modifier le canal</td> 
    <td>Nouveau canal "nouveau canal" Ancien canal "ancien canal"</td> 
   </tr> 
   <tr> 
@@ -378,7 +379,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
    <td>Cloné sur "nom de l’espace de travail" <br>Emplacement "dossier de campagne" ou "programme d’engagement" <br>Nom du programme cloné "nouveau nom"</td> 
   </tr> 
   <tr> 
-   <td>Modifier canal</td> 
+   <td>Modifier le canal</td> 
    <td>Nouveau canal "nouveau canal" Ancien canal "ancien canal" </td> 
   </tr> 
   <tr> 

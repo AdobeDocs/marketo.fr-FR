@@ -3,7 +3,8 @@ unique-page-id: 14745825
 description: Sales Connect et Conformité au RGPD - Documents Marketo - Documentation du produit
 title: Conformité à la norme commerciale et au RGPD
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1387'
 ht-degree: 3%
@@ -14,7 +15,7 @@ ht-degree: 3%
 
 Le Règlement général sur la protection des données (RGPD) est une loi de l’Union européenne entrée en vigueur le 25 mai 2018.
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Son objectif est de renforcer les droits des personnes concernées au sein de l’Union européenne (UE) et de l’Espace économique européen (EEE) en ce qui concerne l’utilisation et la protection de leurs données personnelles. &quot;Données personnelles&quot; désigne toute information relative à une personne physique identifiée ou identifiable.
 
@@ -65,7 +66,7 @@ Les utilisateurs ont le choix entre plusieurs options, notamment :
 * Conformité aux obligations légales
 * Protection des intérêts vitaux
 * Intérêt public / autorité officielle
-* Autre
+* Autres
 
 Type de source de contact
 
@@ -77,7 +78,7 @@ Là encore, les utilisateurs ont le choix entre de nombreuses options de liste d
 * Importer
 * Télécharger manuellement
 * Extension Chrome
-* Autre
+* Autres
 
 Modification de la carte de conformité
 
@@ -137,7 +138,7 @@ Vous pouvez exporter des informations de contact à partir de la vue Détails de
   </tr> 
   <tr> 
    <td>Nom</td> 
-   <td>Autre</td> 
+   <td>Autres</td> 
    <td>Twitter</td> 
   </tr> 
   <tr> 

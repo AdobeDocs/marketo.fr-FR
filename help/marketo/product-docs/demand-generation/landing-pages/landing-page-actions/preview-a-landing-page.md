@@ -3,10 +3,11 @@ unique-page-id: 2359716
 description: Aperçu d’une page d’entrée - Documents Marketo - Documentation du produit
 title: Aperçu d’une page d’entrée
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -48,4 +49,4 @@ Vous souhaitez probablement voir à quoi ressemble votre landing page avant de l
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
-Beau travail ! Vous savez maintenant comment prévisualiser des landing pages.
+Beau travail ! Vous savez maintenant comment prévisualiser des landing pages.

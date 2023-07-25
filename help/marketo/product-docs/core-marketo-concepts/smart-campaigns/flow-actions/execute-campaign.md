@@ -2,7 +2,8 @@
 description: Exécuter Campaign - Documents Marketo - Documentation du produit
 title: Lancer la campagne
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 1%
@@ -47,7 +48,7 @@ Vous pouvez également cloner une campagne dynamique existante. Si vous clonez u
 >
 >Vous ne pouvez pas cloner une campagne qui contient des déclencheurs.
 
-## Utiliser le contexte du jeton de campagne parent {#use-parent-campaign-token-context}
+## Utiliser le contexte de jeton de la campagne parent {#use-parent-campaign-token-context}
 
 Lorsque la valeur est définie sur true, les contextes de jeton suivants sont envoyés dans la campagne enfant (celle en cours d’exécution) :
 

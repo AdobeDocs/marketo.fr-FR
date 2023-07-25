@@ -3,7 +3,8 @@ unique-page-id: 2953572
 description: Présentation des programmes de messagerie électronique - Documents Marketo - Documentation du produit
 title: Présentation des programmes de messagerie
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 2%
@@ -20,7 +21,7 @@ Quatre boîtes vous tiennent concentré. **Audience** définit le &quot;qui,&quo
 
 ![](assets/emailprogram.png)
 
-## Les tests A/B {#a-b-testing}
+## Tests A/B {#a-b-testing}
 
 Les tests A/B vous permettent de prouver quel email est le meilleur.
 
@@ -76,4 +77,3 @@ Maintenant que vous comprenez les programmes de messagerie, commencez par l’un
 >* [Définition d’une audience avec une liste dynamique](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
 >* [Création d’un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >* [Planification de votre programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-

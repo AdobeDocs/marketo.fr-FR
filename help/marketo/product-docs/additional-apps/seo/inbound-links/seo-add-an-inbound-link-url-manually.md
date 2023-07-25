@@ -3,7 +3,8 @@ unique-page-id: 2949247
 description: SEO - Ajout manuel d’une URL de lien entrant - Documents Marketo - Documentation du produit
 title: SEO - Ajout manuel d’une URL de lien entrant
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 3%

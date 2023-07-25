@@ -3,9 +3,10 @@ unique-page-id: 10096679
 description: Exemple d’intégration d’événement ON24 - Documents Marketo - Documentation du produit
 title: Exemple d’intégration d’événement ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '385'
 ht-degree: 1%
 
 ---
@@ -92,4 +93,4 @@ Voici un exemple d’événement, y compris des campagnes, pour un webinaire ON2
 
 >[!MORELIKETHIS]
 >
->[Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

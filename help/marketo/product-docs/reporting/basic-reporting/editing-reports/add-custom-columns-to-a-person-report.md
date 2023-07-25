@@ -3,7 +3,8 @@ unique-page-id: 2360201
 description: Ajout de colonnes personnalisées à un rapport Personne - Documents Marketo - Documentation du produit
 title: Ajout de colonnes personnalisées à un rapport Personne
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%

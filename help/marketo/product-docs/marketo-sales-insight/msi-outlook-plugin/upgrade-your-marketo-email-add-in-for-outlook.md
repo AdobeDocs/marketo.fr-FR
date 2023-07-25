@@ -3,7 +3,8 @@ unique-page-id: 2949279
 description: Mettre à niveau votre module complémentaire de messagerie Marketo pour Outlook - Documents Marketo - Documentation du produit
 title: Mettre à niveau votre complément de messagerie Marketo pour Outlook
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 10%
@@ -52,45 +53,45 @@ Téléchargez le programme d’installation approprié à votre version de Micro
   </tr> 
   <tr> 
    <td>Outlook 2003</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
    <td>S/O</td> 
    <td>Non pris en charge</td> 
    <td>S/O</td> 
   </tr> 
   <tr> 
    <td>Outlook 2007</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
    <td>S/O</td> 
    <td>Non pris en charge</td> 
    <td>S/O</td> 
   </tr> 
   <tr> 
    <td>Outlook 2010</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
   </tr> 
   <tr> 
    <td>Outlook 2013</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
   </tr> 
   <tr> 
    <td>Outlook 2016</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
   </tr> 
   <tr> 
    <td colspan="1">Outlook 2019</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
   </tr> 
   <tr> 
    <td>Outlook pour Mac</td> 
@@ -108,10 +109,10 @@ Téléchargez le programme d’installation approprié à votre version de Micro
   </tr> 
   <tr> 
    <td colspan="1">Office 365*</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
   </tr> 
  </tbody> 
 </table>
@@ -168,4 +169,3 @@ Téléchargez le programme d’installation approprié à votre version de Micro
 >
 >* [Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Envoi et suivi depuis Outlook à l’aide d’un modèle Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-

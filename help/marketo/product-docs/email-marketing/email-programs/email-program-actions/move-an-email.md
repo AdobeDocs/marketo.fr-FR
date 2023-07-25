@@ -3,7 +3,8 @@ unique-page-id: 10098691
 description: Déplacement d’un courrier électronique - Documents Marketo - Documentation du produit
 title: Déplacer un email
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
-source-git-commit: 24aa698604c4480bd4c588bd7156e0d70556143b
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

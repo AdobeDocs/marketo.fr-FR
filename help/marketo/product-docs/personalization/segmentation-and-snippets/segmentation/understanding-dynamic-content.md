@@ -3,7 +3,8 @@ unique-page-id: 2953417
 description: Présentation du contenu dynamique - Documents Marketo - Documentation du produit
 title: Compréhension du contenu dynamique
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Dynamic Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 2%
@@ -47,11 +48,9 @@ Une fois que vous avez créé différents segments, vous pouvez ajouter des bloc
 >* Vous pouvez utiliser un fragment de code comme signature dans un email. Modifiez dynamiquement le texte en fonction de l’emplacement du destinataire.
 >* Sur les landing pages, disposez d’une zone d’appel à l’action standard avec des liens différents pour les clients par rapport aux prospects. Mettez à jour des centaines de LP de façon centralisée.
 
-
 Essayez-le et racontez-nous votre réussite !
 
 >[!MORELIKETHIS]
 >
 >* [Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Création d’un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-

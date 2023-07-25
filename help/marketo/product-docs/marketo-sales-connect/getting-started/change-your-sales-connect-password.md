@@ -2,7 +2,8 @@
 description: Modification de votre mot de passe de connexion aux ventes - Documents Marketo - Documentation du produit
 title: Modification du mot de passe de la connexion commerciale
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -35,7 +36,6 @@ Vous devez changer votre mot de passe ? Voici comment.
 >* Utilisation de majuscules/minuscules (en haut et en bas)
 >* Inclure un nombre
 >* Utilisation d’un caractère spécial
-
 
 ## Modifier votre mot de passe lors de la déconnexion {#change-your-password-while-signed-out}
 

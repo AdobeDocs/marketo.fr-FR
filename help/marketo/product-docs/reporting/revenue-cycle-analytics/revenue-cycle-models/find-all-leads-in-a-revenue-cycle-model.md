@@ -3,7 +3,8 @@ unique-page-id: 2360423
 description: Rechercher toutes les pistes dans un modèle de cycle de revenu - Documents Marketo - Documentation du produit
 title: Recherche de toutes les pistes dans un modèle de cycle du revenu
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%

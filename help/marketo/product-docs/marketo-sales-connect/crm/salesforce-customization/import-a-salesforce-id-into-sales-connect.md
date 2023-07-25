@@ -3,7 +3,8 @@ unique-page-id: 14352469
 description: Importation d’un ID Salesforce dans Sales Connect - Documents Marketo - Documentation du produit
 title: Importation d’un identifiant Salesforce dans Sales Connect
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%

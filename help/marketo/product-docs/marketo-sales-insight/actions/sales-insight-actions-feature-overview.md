@@ -2,7 +2,8 @@
 description: Présentation des actions Sales Insight - Documents Marketo - Documentation du produit
 title: Présentation de la fonction Actions d’aperçu des ventes
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '1392'
 ht-degree: 1%
@@ -130,7 +131,7 @@ Les actions en bloc suivantes sont disponibles dans la liste déroulante de l’
 * Envoyer un e-mail de vente : possibilité d’envoyer des e-mails personnalisés ou modélisés avec suivi des affichages, clics et réponses.
 * Envoyer la campagne de ventes : ajoutez des pistes aux classeurs de ventes qui est une séquence d’emails et de tâches.
 
-   ![](assets/sales-insight-actions-feature-overview-4.png)
+  ![](assets/sales-insight-actions-feature-overview-4.png)
 
 Les actions en ligne suivantes sont disponibles pour les pistes/contacts individuels dans l’onglet Meilleurs paris :
 
@@ -139,7 +140,7 @@ Les actions en ligne suivantes sont disponibles pour les pistes/contacts individ
 * Dialeur de ventes : effectuez des appels de vente à l’aide de la boîte de dialogue dans le CRM.
 * Ajouter une tâche : créez des tâches de courrier électronique, d’appel, de client ou de liaison pour les prospects.
 
-   ![](assets/sales-insight-actions-feature-overview-5.png)
+  ![](assets/sales-insight-actions-feature-overview-5.png)
 
 **Onglet Email**
 
@@ -160,7 +161,7 @@ Les actions en ligne suivantes sont disponibles pour les pistes/contacts individ
 * Synchronisation des tâches avec Salesforce
 * Enregistrer les tâches dans la section Historique des activités Salesforce
 
-   ![](assets/sales-insight-actions-feature-overview-6.png)
+  ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **Flux en direct**
 
@@ -189,4 +190,4 @@ Les filtres et déclencheurs incluent :
 * Ajout à la campagne de ventes
 * Supprimé de la campagne SFDC
 
-   ![](assets/sales-insight-actions-feature-overview-7.png)
+  ![](assets/sales-insight-actions-feature-overview-7.png)

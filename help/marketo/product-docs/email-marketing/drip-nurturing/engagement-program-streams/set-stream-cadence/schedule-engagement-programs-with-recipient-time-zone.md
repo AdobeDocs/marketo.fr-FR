@@ -3,7 +3,8 @@ unique-page-id: 12982909
 description: Planification des programmes d’engagement avec fuseau horaire du destinataire - Documents Marketo - Documentation du produit
 title: Planification des programmes d’engagement avec fuseau horaire des destinataires
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -30,4 +31,3 @@ Lorsque vous planifiez un flux de programme d’engagement et que le fuseau hora
 >
 >* [Comprendre le fuseau horaire du destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Définir le rythme du stream](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
-

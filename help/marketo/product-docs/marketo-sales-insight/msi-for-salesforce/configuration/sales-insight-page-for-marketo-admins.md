@@ -3,7 +3,8 @@ unique-page-id: 42762409
 description: Page d’aperçu des ventes pour les administrateurs Marketo - Documents Marketo - Documentation du produit
 title: Page d’aperçu des ventes pour les administrateurs Marketo
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 3%

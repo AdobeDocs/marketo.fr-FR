@@ -3,7 +3,8 @@ unique-page-id: 2951877
 description: Présentation de la zone d’analyse des opportunités du programme - Documents Marketo - Documentation du produit
 title: Présentation de la zone d’analyse des opportunités de programme
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 20%
@@ -12,7 +13,7 @@ ht-degree: 20%
 
 # Présentation de la zone d’analyse des opportunités de programme {#understanding-the-program-opportunity-analysis-area}
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 La zone Analyse des opportunités de programme vous permet d’analyser l’efficacité de programmes individuels ou de voir les résultats résumés par canal de programme.
 

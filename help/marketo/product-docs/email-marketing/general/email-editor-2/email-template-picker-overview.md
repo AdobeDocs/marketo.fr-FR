@@ -3,7 +3,8 @@ unique-page-id: 10912237
 description: Présentation du sélecteur de modèle de courrier électronique - Documents Marketo - Documentation du produit
 title: Présentation du sélecteur de modèle de courrier électronique
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
-source-git-commit: 73540b9fe5b3d3decf8f7cd03badec78a592cbc7
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -66,4 +67,3 @@ Plutôt chouette !
 >
 >* [Syntaxe du modèle de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 >* [Création d’un courrier électronique](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2359667
 description: Application d’un masquage des entrées à un champ d’un formulaire - Documents Marketo - Documentation du produit
 title: Application d’un masquage des entrées à un champ d’un formulaire
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 1%

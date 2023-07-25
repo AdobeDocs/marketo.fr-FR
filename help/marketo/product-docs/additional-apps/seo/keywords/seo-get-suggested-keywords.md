@@ -3,7 +3,8 @@ unique-page-id: 2949202
 description: SEO - Obtenir les mots-clés suggérés - Documents Marketo - Documentation du produit
 title: SEO - Obtenir les mots-clés suggérés
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -76,4 +77,3 @@ Fantastique ! Votre mot-clé a été ajouté.
 >
 >* [Présentation des mots-clés (vue récapitulative)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 >* [Ajouter/supprimer des mots-clés d’une liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
-

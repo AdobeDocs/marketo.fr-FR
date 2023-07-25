@@ -3,7 +3,8 @@ unique-page-id: 3571890
 description: Activation des groupes de champs personnalisés pour l’analyse des performances des modèles (Leads) - Documents Marketo - Documentation du produit
 title: Activation des groupes de champs personnalisés pour l’analyse des performances des modèles (Leads)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%

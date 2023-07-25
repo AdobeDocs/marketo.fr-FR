@@ -3,7 +3,8 @@ unique-page-id: 2953455
 description: Synchronisation SFDC - Synchronisation des pistes - Documents Marketo - Documentation du produit
 title: Synchronisation SFDC - Synchronisation des pistes
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%

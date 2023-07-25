@@ -3,7 +3,8 @@ unique-page-id: 2360364
 description: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Enterprise/Unlimited) - Documents Marketo - Documentation du produit
 title: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 4%

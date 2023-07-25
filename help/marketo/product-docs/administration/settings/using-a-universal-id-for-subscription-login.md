@@ -3,7 +3,8 @@ unique-page-id: 10100311
 description: Utilisation d’un ID universel pour la connexion à l’abonnement - Documents Marketo - Documentation du produit
 title: Utilisation d’un ID universel pour la connexion à l’abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 1%
@@ -67,4 +68,3 @@ Les utilisateurs disposant d’un ID universel peuvent consulter leurs données 
 >* [Ajout d’une authentification unique à un portail](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [Limiter la connexion de l&#39;utilisateur aux connexions par signature unique](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
 >* [Invitation d’utilisateurs Marketo à deux instances avec un ID universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
-

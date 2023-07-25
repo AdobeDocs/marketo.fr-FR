@@ -3,7 +3,8 @@ unique-page-id: 1147154
 description: Synchronisation d’une campagne SFDC avec un programme - Documents Marketo - Documentation du produit
 title: Synchronisation d’une campagne SFDC avec un programme
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
-source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 1%
@@ -12,7 +13,7 @@ ht-degree: 1%
 
 # Synchronisation d’une campagne SFDC avec un programme {#sync-an-sfdc-campaign-with-a-program}
 
-Marketo vous permet de synchroniser vos programmes avec les campagnes Salesforce afin de conserver la même liste de personnes dans les deux systèmes, y compris leurs états. Commençons sans tarder ! 
+Marketo vous permet de synchroniser vos programmes avec les campagnes Salesforce afin de conserver la même liste de personnes dans les deux systèmes, y compris leurs états. Commençons!
 
 >[!PREREQUISITES]
 >

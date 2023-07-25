@@ -3,7 +3,8 @@ unique-page-id: 3571830
 description: Étape 3 sur 3 - Connexion de la solution Marketo à la connexion du serveur au serveur - Documents Marketo - Documentation du produit
 title: Étape 3 sur 3 - Connexion de la solution Marketo à la connexion serveur à serveur
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 1%
@@ -18,7 +19,6 @@ Il s’agit de la dernière étape de la synchronisation. Nous y sommes presque 
 >
 >* [Étape 1 sur 3 : Installation de la solution Marketo avec connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 >* [Étape 2 sur 3 : Configuration de la solution Marketo avec connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
-
 
 >[!NOTE]
 >

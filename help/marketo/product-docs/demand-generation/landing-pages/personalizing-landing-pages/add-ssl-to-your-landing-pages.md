@@ -3,7 +3,8 @@ unique-page-id: 2359828
 description: Ajout de SSL à vos pages d’entrée - Documents Marketo - Documentation du produit
 title: Ajout de SSL à vos pages d’entrée
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%

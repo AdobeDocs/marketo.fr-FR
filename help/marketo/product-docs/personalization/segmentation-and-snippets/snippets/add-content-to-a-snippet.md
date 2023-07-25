@@ -3,7 +3,8 @@ unique-page-id: 2359496
 description: Ajout de contenu à un fragment de code - Documents Marketo - Documentation du produit
 title: Ajout de contenu à un fragment de code
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 2%
@@ -32,7 +33,7 @@ Vous pouvez ajouter des jetons, des images, des fichiers ou du texte enrichi à 
 
 Vous pouvez ajouter trois types de contenu à un fragment de code.
 
-## Ajouter un token {#add-token}
+## Ajouter un jeton {#add-token}
 
 1. Faites glisser et déposez le **Jeton** élément .
 
@@ -88,4 +89,3 @@ Super ! Vous pouvez désormais créer un large éventail de contenu pour votre e
 >
 >* [Aperçu d’un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
 >* [Approbation d’un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
-

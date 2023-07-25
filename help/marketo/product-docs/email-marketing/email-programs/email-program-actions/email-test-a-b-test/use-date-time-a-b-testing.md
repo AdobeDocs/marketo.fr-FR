@@ -3,7 +3,8 @@ unique-page-id: 2359520
 description: Utiliser le test A/B "Date/Heure" - Documents Marketo - Documentation du produit
 title: Utiliser le test A/B "Date/Heure"
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -17,6 +18,7 @@ Vous pouvez facilement A/B tester vos emails. Un test est le suivant : **Date/he
 >[!PREREQUISITES]
 >
 >[Ajout d’un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>
 
 1. Sous , **Email** mosaïque, cliquez sur **Ajout d’un test A/B**.
 

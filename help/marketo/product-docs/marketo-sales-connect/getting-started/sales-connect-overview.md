@@ -3,10 +3,11 @@ unique-page-id: 13796464
 description: Présentation de Sales Connect - Documentation Marketo - Documentation du produit
 title: Présentation de Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -83,7 +84,7 @@ Créez une campagne dynamique simple pour donner à vos utilisateurs commerciaux
 
 ![](assets/campaign-is-requested.jpg)
 
-Prêt à démarrer ? Pour obtenir des instructions sur la configuration, cliquez sur le lien ci-dessous.
+Prêt à vous lancer ? Pour obtenir des instructions sur la configuration, cliquez sur le lien ci-dessous.
 
 >[!MORELIKETHIS]
 >

@@ -3,7 +3,8 @@ unique-page-id: 1147055
 description: Actions de campagne - Suppression d’une campagne dynamique - Documents Marketo - Documentation du produit
 title: Actions de campagne - Suppression d’une campagne dynamique
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
-source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%

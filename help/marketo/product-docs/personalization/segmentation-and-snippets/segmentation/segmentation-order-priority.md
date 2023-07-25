@@ -3,7 +3,8 @@ unique-page-id: 2359500
 description: Priorité de l’ordre de segmentation - Documents Marketo - Documentation du produit
 title: Priorité de l’ordre de segmentation
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Segmentation
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -40,6 +41,5 @@ Il est important de comprendre comment **order** définit la priorité pour l’
 >* Les segments s’excluent mutuellement. Une personne peut être membre d’un seul segment à la fois.
 >* Lorsqu’une personne est admissible pour deux segments, elle n’appartient qu’au premier de la liste.
 >* Si une personne n’est admissible pour aucun segment, elle deviendra membre du segment par défaut.
-
 
 Super, hein ? Vous pouvez utiliser des segments pour le contenu dynamique, la création de rapports et même dans les listes dynamiques.

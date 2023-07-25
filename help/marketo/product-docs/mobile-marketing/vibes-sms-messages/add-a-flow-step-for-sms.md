@@ -3,7 +3,8 @@ unique-page-id: 11379045
 description: Ajout d’une étape de flux pour SMS - Documents Marketo - Documentation du produit
 title: Ajout d’une étape de flux pour un SMS
 exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 1%
@@ -24,7 +25,6 @@ Marketo comprend trois étapes de flux que vous pouvez utiliser dans vos campagn
 >
 >* Marketo déduplique par numéro de téléphone. Ainsi, si plusieurs personnes ont le même numéro de téléphone, une seule personne recevra le message.
 >* Marketo n’enverra pas aux personnes placées sur la liste bloquée ou Marketing suspendu.
-
 
 Pour obtenir des informations générales sur la configuration des étapes de flux, voir [Ajout d’une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 

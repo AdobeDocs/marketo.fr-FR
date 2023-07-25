@@ -3,7 +3,8 @@ unique-page-id: 11376159
 description: Avant de créer des notifications push et des messages In-App - Documents Marketo - Documentation du produit
 title: Avant de créer des notifications push et des messages In-App
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -41,4 +42,3 @@ Après avoir effectué toute la préparation pour les messages in-app et les not
 >* [Création d’un message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
 >
 >* [Création d’une notification push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
-

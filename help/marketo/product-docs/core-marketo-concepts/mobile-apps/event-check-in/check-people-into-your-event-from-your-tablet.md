@@ -3,7 +3,8 @@ unique-page-id: 2949839
 description: Archivage des personnes dans votre événement à partir de votre tablette - Documents Marketo - Documentation du produit
 title: Archivage des personnes dans votre événement à partir de votre tablette
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -20,7 +21,6 @@ L’application fonctionne de la même manière sur iPad et Android, à l’exce
 >
 >* Créez un événement dans Marketo et renseignez-le avec des personnes invitées et enregistrées.
 >* Téléchargez l’application pour tablette [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) ou [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
-
 
 ## Archivage des invités enregistrés {#check-in-registered-guests}
 

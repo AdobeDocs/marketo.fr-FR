@@ -3,7 +3,8 @@ unique-page-id: 2951044
 description: Notes de mise à jour - Mai 2014 - Documentation Marketo - Documentation du produit
 title: Notes de mise à jour - Mai 2014
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 1%

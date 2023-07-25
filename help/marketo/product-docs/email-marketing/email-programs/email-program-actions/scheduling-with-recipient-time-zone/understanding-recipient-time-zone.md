@@ -3,7 +3,8 @@ unique-page-id: 12983291
 description: Présentation du fuseau horaire du destinataire - Documents Marketo - Documentation du produit
 title: Comprendre le fuseau horaire du destinataire
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
-source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 1%
@@ -52,4 +53,3 @@ Si nous ne parvenons toujours pas à déterminer le fuseau horaire d’une perso
 >* [Prise en main des programmes de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 >
 >* [Planification des programmes d’engagement avec fuseau horaire des destinataires](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-

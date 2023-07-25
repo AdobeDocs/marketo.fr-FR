@@ -3,7 +3,8 @@ unique-page-id: 10094404
 description: Création de groupes de champs personnalisés à l’aide de l’Organiseur de champs - Documents Marketo - Documentation du produit
 title: Création de groupes de champs personnalisés à l’aide de l’Organiseur de champs
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 2%
@@ -18,17 +19,17 @@ Lorsque vous sélectionnez un champ standard ou personnalisé dans la liste dér
 | Type de données de gestion des pistes Marketo | Type de données de l’éditeur d’organiseur de champ |
 |---|---|
 | Chaîne | Chaîne |
-| Adresse e-mail | Chaîne |
+| E-mail | Chaîne |
 | Entier | Entier |
 | Texte | Chaîne |
 | URL | Chaîne |
 | Référence | Non pris en charge |
 | Devise | Entier |
 | DateHeure | Date |
-| Booléenne | Non pris en charge |
+| Booléen | Non pris en charge |
 | Téléphone | Chaîne |
 | Date | Date |
-| Flottante | Entier |
+| Flottant | Entier |
 | Calculé | Non pris en charge |
 
 Les trois sections suivantes décrivent comment créer un groupe de champs personnalisé pour un type chaîne, entier ou date.

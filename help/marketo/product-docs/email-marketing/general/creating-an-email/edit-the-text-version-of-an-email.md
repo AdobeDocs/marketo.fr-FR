@@ -3,7 +3,8 @@ unique-page-id: 11372054
 description: Modification de la version texte d’un courrier électronique - Documents Marketo - Documentation du produit
 title: Modification de la version texte d’un courrier électronique
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%

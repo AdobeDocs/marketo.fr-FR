@@ -2,7 +2,8 @@
 description: Enregistrer les motifs des appels et les résultats des appels dans Salesforce - Documents Marketo - Documentation du produit
 title: Enregistrer les motifs des appels et les résultats des appels dans Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%

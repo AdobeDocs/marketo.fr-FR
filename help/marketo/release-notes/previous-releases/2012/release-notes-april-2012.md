@@ -3,7 +3,8 @@ unique-page-id: 2951119
 description: Notes de mise à jour - Avril 2012 - Documentation Marketo - Documentation du produit
 title: Notes de mise à jour - Avril 2012
 exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 1%
@@ -51,7 +52,7 @@ Si vous ne synchronisez pas votre abonnement avec Salesforce, vous remarquerez q
 
 ## Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics}
 
-**Étapes de portes améliorées dans le module de modélisation de cycle de revenu**
+**Étapes de portes améliorées dans le programme de modélisation de cycle de revenu**
 
 Permet aux utilisateurs de définir un ordre pour leurs règles de transition.
 

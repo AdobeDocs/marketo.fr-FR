@@ -3,7 +3,8 @@ unique-page-id: 14352621
 description: Présentation des options d’envoi - Documents Marketo - Documentation du produit
 title: Présentation des options d’envoi
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
-source-git-commit: 540bb61b9accf199e2be841086a6204064762861
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 5%

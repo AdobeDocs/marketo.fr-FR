@@ -3,7 +3,8 @@ unique-page-id: 557337
 description: Créer et modifier des vues pour les listes et la liste dynamique - Documents Marketo - Documentation du produit
 title: Créer et modifier des vues pour des listes et une liste dynamique
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -72,4 +73,3 @@ Vous seul pouvez voir les vues personnalisées que vous créez dans la liste dé
 >
 >* [Utilisation de listes dynamiques intégrées/système](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
 >* [Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-

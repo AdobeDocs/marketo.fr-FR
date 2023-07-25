@@ -3,7 +3,8 @@ unique-page-id: 2359811
 description: Sélectionnez l’option Partager l’URL pour une application Social - Documents Marketo - Documentation du produit .
 title: Sélectionnez l’URL de partage pour une application Social .
 exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -39,7 +40,6 @@ Lorsque vous créez une application sociale, vous pouvez choisir l’URL qui ser
    >* **Page de référence**: Page contenant l’application.
    >* **Autres pages d’entrée**: Une page d’entrée Marketo différente de celles de la liste déroulante.
    >* **URL externe**: Page d’entrée non Marketo.
-
 
 >[!MORELIKETHIS]
 >

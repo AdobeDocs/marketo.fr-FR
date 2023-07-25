@@ -3,7 +3,8 @@ unique-page-id: 4720810
 description: Remarketing personnalisé dans Google - Documents Marketo - Documentation du produit
 title: Remarketing personnalisé dans Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 >
 >* Procédez comme suit : [Reciblage à l’aide de données de personnalisation web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) configuration
 >* Réviser [Aide sur les remarques avec les Google Analytics](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) documentation.
-
 
 ## Création d’une audience de remarketing dans Google {#creating-a-remarketing-audience-in-google}
 
@@ -51,7 +51,6 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 >* Dimensions personnalisées : Organisation, secteur, catégorie (Fortune 500,1000, Global 2000), groupe (Enterprise, SMB), liste ABM (Liste de comptes nommés)
 >* Catégorie d’événements : RTP-Segment, RTP-Campaign-Remarketing
 >* Libellé de l’événement : Nom du segment, nom de la campagne, nom de l’audience segmentée
-
 
 **Exemple d’audience de remarketing à partir de données d’audience segmentées RTP**
 
@@ -97,4 +96,3 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 >
 >* [Reciblage à l’aide de données de personnalisation web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Remarketing personnalisé dans Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
-

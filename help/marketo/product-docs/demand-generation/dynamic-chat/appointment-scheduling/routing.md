@@ -2,7 +2,8 @@
 description: Routage - Documents Marketo - Documentation du produit
 title: Routage
 exl-id: 9515c264-7d9b-4613-a245-15620c846a5c
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%
@@ -11,7 +12,7 @@ ht-degree: 1%
 
 # Routage {#routing}
 
-Les réunions réservées dans Dynamic Chat peuvent être routées de deux manières. Arrondir le robin ou utiliser une règle personnalisée.
+Les réunions réservées en Dynamic Chat peuvent être routées de deux façons. Arrondir le robin ou utiliser une règle personnalisée.
 
 Tour rouge : Les réunions sont affectées de manière séquentielle aux agents. Donc si vous avez cinq agents et l&#39;agent trois qui ont pris la dernière réunion, l&#39;agent quatre aura le suivant, suivi de l&#39;agent cinq, puis revenir à l&#39;agent un.
 
@@ -21,7 +22,7 @@ Règle personnalisée : Vous pouvez choisir des agents spécifiques pour recevoi
 
 Dans cet exemple, nous envoyons toutes les réunions des états déduits de CA, OU et WA à l’agent John.
 
-1. Dans Chat dynamique, sélectionnez **Routage**.
+1. Dans Dynamic Chat, sélectionnez **Routage**.
 
    ![](assets/routing-1.png)
 

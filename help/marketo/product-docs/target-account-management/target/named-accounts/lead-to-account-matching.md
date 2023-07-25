@@ -3,7 +3,8 @@ unique-page-id: 11381156
 description: Correspondance de comptes - Documents Marketo - Documentation du produit
 title: Correspondance de pistes de comptes
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
-source-git-commit: 98388f1ed941b321449e6e8badac0153dc2245ba
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%
@@ -18,7 +19,7 @@ La correspondance à droite mène à des comptes nommés à droite à l’aide d
 >
 >**Correspondance de piste à compte** est une fonctionnalité intégrée de la gestion de compte Marketo Target. Elle utilise une logique floue pour faire correspondre automatiquement les prospects aux comptes nommés appropriés en temps quasi réel. Ces comptes nommés peuvent être des comptes CRM ou des sociétés Marketo.
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 La correspondance de piste vers compte de Marketo suit un processus en 4 étapes :
 

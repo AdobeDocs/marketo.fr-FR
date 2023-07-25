@@ -2,9 +2,10 @@
 description: Critères d’audience - Documents Marketo - Documentation du produit
 title: Critère d’audience
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '540'
 ht-degree: 2%
 
 ---
@@ -15,7 +16,7 @@ Tout comme les listes dynamiques Marketo, les attributs Critères d’audience v
 
 ## Priorité {#priority}
 
-La priorité détermine le dialogue qu’un prospect reçoit lorsqu’il remplit les conditions requises pour plus d’un. Elle est établie la première fois que vous [créer votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}. Vous pouvez modifier la priorité d’un dialogue existant en l’ouvrant et en accédant à **Détails de la boîte de dialogue** dans l’onglet Critères d’audience .
+La priorité détermine le dialogue qu’un prospect reçoit lorsqu’il remplit les conditions requises pour plus d’un. Elle est établie la première fois que vous [créer votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. Vous pouvez modifier la priorité d’un dialogue existant en l’ouvrant et en accédant à **Détails de la boîte de dialogue** dans l’onglet Critères d’audience .
 
 ![](assets/audience-criteria-1.png)
 
@@ -126,7 +127,6 @@ Utilisez les exclusions pour vous assurer que votre dialogue fonctionne **not** 
 
 >[!MORELIKETHIS]
 >
->* [Créer un dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [Rapports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
-
+>* [Créer un dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [Designer de flux](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* Rapports [ ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}

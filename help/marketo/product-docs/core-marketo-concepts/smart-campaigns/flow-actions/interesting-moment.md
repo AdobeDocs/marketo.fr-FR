@@ -3,7 +3,8 @@ unique-page-id: 1146956
 description: Moment intéressant - Documents Marketo - Documentation du produit
 title: Moment significatif
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
-source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 6%
@@ -12,7 +13,7 @@ ht-degree: 6%
 
 # Moment significatif {#interesting-moment}
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Si vous disposez de Marketo Sales Insight, vous pouvez utiliser la variable **Moment intéressant** étape de flux pour donner à votre équipe de vente une visibilité sur les choses cool que font vos employés.
 
@@ -38,4 +39,3 @@ Vous pouvez également utiliser [jetons dans des moments intéressants](/help/ma
 >
 >* [Utilisation de moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
 >* [Jetons pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
-

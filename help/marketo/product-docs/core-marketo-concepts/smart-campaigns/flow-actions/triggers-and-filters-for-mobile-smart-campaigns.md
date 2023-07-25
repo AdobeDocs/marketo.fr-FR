@@ -3,10 +3,11 @@ unique-page-id: 9437991
 description: Déclencheurs et filtres pour les campagnes dynamiques mobiles - Documents Marketo - Documentation du produit
 title: Déclencheurs et filtres pour les campagnes dynamiques mobiles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '823'
+ht-degree: 1%
 
 ---
 
@@ -131,10 +132,9 @@ Les contraintes Action permettent d&#39;utiliser le déclencheur et les filtres 
 >Sous le type d’action de *Shopping*, voici une action très spécifique, avec les autres contraintes qui la définissent :
 >
 >* Achat d&#39;une chemise
-   >   * C&#39;était rouge.
-   >   * Ça a coûté 30 dollars.
-   >   * Il a fallu 20 secondes pour acheter
-
+>   * C&#39;était rouge.
+>   * Ça a coûté 30 dollars.
+>   * Il a fallu 20 secondes pour acheter
 
 Voici à quoi ressemble le filtre dans Marketo :
 
@@ -151,7 +151,6 @@ Voici à quoi ressemble le filtre dans Marketo :
 >| Action | Panier | Pantalon acheté |
 >| Détails de l’action | Couleur | Couleur |
 >| Mesure de l’action | Prix | Prix |
-
 
 **A/A eu une session d’application mobile**
 
@@ -195,4 +194,3 @@ Notification Push Appuyée/Appuyée
 >
 >* [Ajout d’une contrainte à un filtre de liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
 >* [Utilisation des filtres d’inactivité dans une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 6094890
 description: Notes de mise à jour - Février 2015 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Février 2015
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 21%

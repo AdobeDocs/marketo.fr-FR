@@ -3,7 +3,8 @@ unique-page-id: 7511518
 description: Présentation des notifications push - Documents Marketo - Documentation du produit
 title: Présentation des notifications push
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -40,4 +41,3 @@ Les administrateurs Marketo et les développeurs d’applications mobiles travai
 >
 >* Une notification push ne s’affiche pas à l’écran tant que l’application n’a pas été ouverte au moins une fois.
 >* Pour les applications iOS, une notification push ne s’affiche pas à l’écran si l’application désignée pour recevoir le message push est ouverte et principale. À la place, le message s’affiche dans la zone de notifications locale de l’application.
-

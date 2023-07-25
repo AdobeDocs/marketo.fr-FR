@@ -3,7 +3,8 @@ unique-page-id: 2359549
 description: Utilisation du tableau de bord du programme de messagerie électronique - Vue de test A/B - Documents Marketo - Documentation du produit
 title: Utilisation du tableau de bord du programme de messagerie électronique - vue de test A/B
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 6%

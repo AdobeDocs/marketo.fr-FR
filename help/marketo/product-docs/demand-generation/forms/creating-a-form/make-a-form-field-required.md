@@ -3,7 +3,8 @@ unique-page-id: 2359569
 description: Rendre un champ de formulaire obligatoire - Documents Marketo - Documentation du produit
 title: Rendre un champ de formulaire obligatoire
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%

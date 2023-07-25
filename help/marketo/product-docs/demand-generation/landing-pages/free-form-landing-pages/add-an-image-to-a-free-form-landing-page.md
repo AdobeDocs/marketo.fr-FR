@@ -3,7 +3,8 @@ unique-page-id: 2359703
 description: Ajout d’une image à une page d’entrée de formulaire libre - Documents Marketo - Documentation du produit
 title: Ajout d’une image à une page d’entrée de forme libre
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 5%
@@ -32,6 +33,6 @@ ht-degree: 5%
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   Bon boulot ! Vous venez d’ajouter une image à votre page d’entrée de forme libre.
+   Très bon travail ! Vous venez d’ajouter une image à votre page d’entrée de forme libre.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)

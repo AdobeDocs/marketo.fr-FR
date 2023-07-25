@@ -2,7 +2,8 @@
 description: Étape 1 sur 3 - Installation de la solution Marketo avec la connexion serveur à serveur - Documents Marketo - Documentation du produit
 title: Étape 1 sur 3 - Installation de la solution Marketo avec la connexion serveur à serveur
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
@@ -16,7 +17,6 @@ Avant de pouvoir synchroniser Microsoft Dynamics 365 et Marketo, vous devez inst
 >[!CAUTION]
 >
 >* N’activez pas la synchronisation des entités personnalisées avant l’exécution de la synchronisation initiale. Une fois la synchronisation initiale terminée, vous en serez informé par e-mail.
-
 
 >[!NOTE]
 >

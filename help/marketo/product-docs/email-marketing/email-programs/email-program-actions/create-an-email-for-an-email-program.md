@@ -3,7 +3,8 @@ unique-page-id: 1900593
 description: Création d’un courrier électronique pour un programme de courrier électronique - Documents Marketo - Documentation du produit
 title: Création d’un courrier électronique pour un programme de courrier électronique
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Création d’un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Définition d’une audience avec une liste dynamique](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Définition d’une audience en important une liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
 
 Une fois que vous avez créé votre programme d&#39;email et défini votre audience, vous allez décider de l&#39;email que vous envoyez. Vous pouvez [choisir un email existant ;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou en créer un à partir de zéro. Voici comment créer un email.
 

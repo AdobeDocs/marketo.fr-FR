@@ -3,7 +3,8 @@ unique-page-id: 6848705
 description: Bonne pratique - Comment organiser vos programmes - Documents Marketo - Documentation du produit
 title: Bonne pratique - Comment organiser vos programmes
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 4%
@@ -27,29 +28,28 @@ Dans Activités marketing, vous devez utiliser des dossiers pour organiser vos p
 >**Exemple**
 >
 >* Programmes marketing actifs
-   >   * E-mails
-   >   * Événements
-      >      * Événements en direct / Fiches d’affichage
-      >      * Salons professionnels
-      >      * Webinaires
-   >   * Bulletins d’information
-   >   * Fidélisation
-   >   * Contenu Web
-   >   * Formulaires Web
+>   * E-mails
+>   * Événements
+>      * Événements en direct / Fiches d’affichage
+>      * Salons professionnels
+>      * Webinaires
+>   * Bulletins d’information
+>   * Fidélisation
+>   * Contenu Web
+>   * Formulaires Web
 >* Apprentissage
 >* Opérationnel
-   >   * Cycle de vie
-   >   * Évaluation
-   >   * Gestion des données
+>   * Cycle de vie
+>   * Évaluation
+>   * Gestion des données
 >* Sales Insight
-   >   * Moments significatifs
-   >   * E-mails de vente
-   >   * Campagnes demandées par les ventes
+>   * Moments significatifs
+>   * E-mails de vente
+>   * Campagnes demandées par les ventes
 >* **Archiver**
-   >   * Événements d’archivage
-      >      * Archive 2012
-      >      * Archive 2013
-
+>   * Événements d’archivage
+>      * Archive 2012
+>      * Archive 2013
 
 Chacun des éléments mentionnés dans l’exemple est un dossier. Remarquez comment ils portent tous un nom unique. Vous pouvez avoir des noms en double (plus simples) de dossiers dans les programmes INSIDE, mais pas à la racine de l’arborescence.
 
@@ -74,7 +74,6 @@ Le nommage est essentiel, car les fonctions de Marketo utilisent toutes une lang
 >1. Intro du widget ES 2015-09-21
 >1. Newsletter NL 2015-06
 >1. Le webinaire WBN 2015-12-01 ici
-
 
 Les noms de programme doivent être uniques dans votre abonnement, même en différents [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Pour les ressources locales dans les programmes, la règle est de **conserver le nom simple ;**. Il suffit de nommer une invitation &quot;Invitation&quot;, par opposition à &quot;Invitation du webinaire de juin 2015&quot;. Puisqu’il s’agit d’un programme, le programme parent fait automatiquement partie du nom lorsqu’il est sélectionné ailleurs. En d’autres termes, les ressources locales ne doivent être uniques que dans le programme. Vous pouvez avoir des centaines de ressources nommées &quot;Invitation&quot;, chacune dans un programme différent et ça ne vous fera pas de mal.
 

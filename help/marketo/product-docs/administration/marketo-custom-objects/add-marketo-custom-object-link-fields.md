@@ -3,7 +3,8 @@ unique-page-id: 10097613
 description: Ajout de champs de lien d’objet personnalisé Marketo - Documents Marketo - Documentation du produit
 title: Ajout de champs de lien d’objet personnalisé Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 1%
@@ -133,4 +134,3 @@ L’étape suivante consiste à utiliser ces objets personnalisés dans les filt
 >* [Modification et suppression d’un objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [Présentation des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [Modification et suppression de champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 11384018
 description: Notes de mise à jour - Automne 16 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Automne 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 2%
@@ -76,7 +77,6 @@ Donnez à votre notification push iOS une plus grande richesse en activant le so
 >
 >* Les propriétaires d’appareils peuvent choisir d’empêcher la lecture des sons dans les paramètres de l’appareil, et les développeurs d’applications peuvent offrir aux propriétaires d’appareils des options dans l’application pour empêcher la lecture des sons.
 >* Les sons sont automatiquement lus lorsqu’une notification push s’affiche sur un appareil Android.
-
 
 ![](assets/sound-for-push-notifications.png)
 

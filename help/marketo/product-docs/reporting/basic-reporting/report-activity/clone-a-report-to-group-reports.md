@@ -3,7 +3,8 @@ unique-page-id: 7512105
 description: Cloner un rapport vers Rapports de groupe - Documents Marketo - Documentation du produit
 title: Clonage d’un rapport pour regrouper des rapports
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

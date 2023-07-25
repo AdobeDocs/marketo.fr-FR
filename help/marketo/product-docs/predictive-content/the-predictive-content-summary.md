@@ -3,7 +3,8 @@ unique-page-id: 11384634
 description: Résumé du contenu prédictif - Documents Marketo - Documentation du produit
 title: Résumé du contenu prédictif
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%

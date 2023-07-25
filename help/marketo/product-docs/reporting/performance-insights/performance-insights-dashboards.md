@@ -3,7 +3,8 @@ unique-page-id: 13795534
 description: Tableaux de bord des informations sur les performances - Documents Marketo - Documentation du produit
 title: Tableaux de bord des informations sur les performances
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '504'
 ht-degree: 10%
@@ -79,7 +80,7 @@ Le tableau de bord Pipeline affiche les performances des canaux par mesures Prem
  </tbody> 
 </table>
 
-## Chiffre d&#39;affaires {#revenue}
+## Recettes {#revenue}
 
 Le tableau de bord Recettes affiche les performances des canaux par mesures Première touche et multipoint.
 

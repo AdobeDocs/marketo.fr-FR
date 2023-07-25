@@ -3,10 +3,11 @@ unique-page-id: 30081321
 description: Types de groupe - Documents Marketo - Documentation du produit
 title: Types de groupe
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 12%
+ht-degree: 10%
 
 ---
 
@@ -32,7 +33,7 @@ Découvrez les différents types de groupes dans Sales Connect.
   </tr> 
   <tr> 
    <td colspan="1"><p>Groupes dynamiques</p></td> 
-   <td colspan="1">Mes contacts: Tous les contacts que vous détenez.<br>Désabonne : Les contacts qui se sont désinscrits de la réception de la correspondance.</td> 
+   <td colspan="1">Mes contacts : Tous les contacts que vous détenez.<br>Désabonne : Les contacts qui se sont désinscrits de la réception de la correspondance.</td> 
   </tr> 
   <tr> 
    <td><p>Mes groupes</p></td> 

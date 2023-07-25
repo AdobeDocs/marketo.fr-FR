@@ -3,7 +3,8 @@ unique-page-id: 2360272
 description: Création d’une balise et d’une balise de programme - Documents Marketo - Documentation du produit
 title: Création d’une balise de programme et d’une valeur de balise
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Tags
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 3%

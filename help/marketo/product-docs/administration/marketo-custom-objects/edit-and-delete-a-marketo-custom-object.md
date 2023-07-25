@@ -3,7 +3,8 @@ unique-page-id: 10093690
 description: Modification et suppression d’un objet personnalisé Marketo - Documents Marketo - Documentation du produit
 title: Modification et suppression d’un objet personnalisé Marketo
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 3%

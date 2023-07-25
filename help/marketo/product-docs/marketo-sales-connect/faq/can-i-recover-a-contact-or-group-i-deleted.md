@@ -3,7 +3,8 @@ unique-page-id: 14352485
 description: Puis-je récupérer un contact ou un groupe que j’ai supprimé ? - Documents Marketo - Documentation du produit
 title: Puis-je récupérer un contact ou un groupe que j’ai supprimé ?
 exl-id: 2d12187b-c64a-431f-aefa-d8ed1c90909c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%

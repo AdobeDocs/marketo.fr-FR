@@ -3,7 +3,8 @@ unique-page-id: 2951117
 description: Notes de mise à jour - Mai 2012 - Documentation Marketo - Documentation du produit
 title: Notes de mise à jour - Mai 2012
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
@@ -116,7 +117,7 @@ Figure 13. Choisir un dossier pour vos emails
 
 ## Accès à l’analyseur d’opportunités à partir de Sales Insight {#access-opportunity-analyzer-from-sales-insight}
 
-Fournissez à vos représentants commerciaux des informations sur les activités marketing qui favorisent l’engagement, en utilisant l’accès direct à l’analyseur d’opportunités à partir de Marketo Sales Insight. Remarque. Nécessite une licence Revenue Cycle Analytics.
+Fournissez à vos représentants commerciaux des informations sur les activités marketing qui favorisent l’engagement, en utilisant l’accès direct à l’analyseur d’opportunités à partir de Marketo Sales Insight. Noter. Nécessite une licence Revenue Cycle Analytics.
 
 ## Champ personnalisé pour le statut du contact {#custom-field-for-contact-status}
 

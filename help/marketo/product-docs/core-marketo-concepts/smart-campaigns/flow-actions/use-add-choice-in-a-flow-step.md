@@ -3,7 +3,8 @@ unique-page-id: 1146980
 description: Utilisation de l’option Ajouter un choix dans une étape de flux - Documents Marketo - Documentation du produit
 title: Utilisation de l’option Ajouter un choix à une étape de flux
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%

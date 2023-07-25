@@ -3,7 +3,8 @@ unique-page-id: 7504893
 description: "Ajouter [!DNL Google AdWords] as a [!DNL Launchpoint] Service avec un compte de gestionnaire - Documents Marketo - Documentation du produit"
 title: "Ajouter [!DNL Google AdWords] as a [!DNL Launchpoint] Service avec un compte de gestionnaire"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: Administration, Integrations
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 4%

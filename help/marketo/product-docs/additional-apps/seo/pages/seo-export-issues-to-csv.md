@@ -3,7 +3,8 @@ unique-page-id: 2949222
 description: SEO - Problèmes d’exportation au format CSV - Documents Marketo - Documentation du produit
 title: SEO - Problèmes d’exportation au format CSV
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 1%

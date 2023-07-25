@@ -3,7 +3,8 @@ unique-page-id: 4719304
 description: Actions Salesforce appliquées - Documents Marketo - Documentation du produit
 title: Actions Salesforce appliquées
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 21%

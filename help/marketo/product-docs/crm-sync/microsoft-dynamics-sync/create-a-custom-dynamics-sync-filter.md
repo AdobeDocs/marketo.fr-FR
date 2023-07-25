@@ -3,7 +3,8 @@ unique-page-id: 9437903
 description: Création d’un filtre de synchronisation Dynamics personnalisé - Documents Marketo - Documentation du produit
 title: Création d’un filtre de synchronisation Dynamics personnalisé
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
-source-git-commit: ed4699ea4a94c787b8af109599f2a0c50591b956
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Ne souhaitez-vous pas tout synchroniser dans Marketo avec Dynamics CRM ? Ne vous inquiétez pas ! Marketo vous permet de configurer un filtre de synchronisation et de synchronisation uniquement une partie de vos enregistrements.
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Pour configurer un filtre de synchronisation Dynamics :
 
@@ -151,4 +152,3 @@ Voici quelques détails de mise en oeuvre que nous pensions savoir :
 >* [Filtre de synchronisation Microsoft Dynamics : Qualifier](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
 >* [Filtre de synchronisation Microsoft Dynamics : Fusion](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
 >* [Règles de filtre de synchronisation personnalisées pour une adresse électronique](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-

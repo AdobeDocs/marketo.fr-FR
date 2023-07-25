@@ -3,7 +3,8 @@ unique-page-id: 7515027
 description: Ajout d’une image à une page d’entrée guidée - Documents Marketo - Documentation du produit
 title: Ajout d’une image à une page d’entrée guidée
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 30081307
 description: Colonnes de page Personnes - Documents Marketo - Documentation du produit
 title: Colonnes de page Personnes
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 12%
@@ -65,7 +66,7 @@ Vous avez la possibilité de personnaliser les informations de contact que vous 
    <td>Campagne de ventes sur laquelle se trouve actuellement la personne</td> 
   </tr> 
   <tr> 
-   <td>Nb de campagnes</td> 
+   <td># Campagnes</td> 
    <td>Nombre total de campagnes de ventes auxquelles la personne a participé</td> 
   </tr> 
   <tr> 
@@ -97,7 +98,7 @@ Vous avez la possibilité de personnaliser les informations de contact que vous 
    <td>Nombre de tâches ouvertes pour cette personne</td> 
   </tr> 
   <tr> 
-   <td>Nb de vues</td> 
+   <td># Vues</td> 
    <td>Nombre total de vues par cette personne</td> 
   </tr> 
   <tr> 

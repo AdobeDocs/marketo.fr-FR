@@ -3,7 +3,8 @@ unique-page-id: 2950617
 description: Utilisation de contenu dynamique dans un courrier électronique - Documents Marketo - Documentation du produit
 title: Utilisation de contenu dynamique dans un email
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
-source-git-commit: 076d781fc8d967ee6f63ed2023e75c94e5aa1e55
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -76,4 +77,3 @@ Doux ! Vous pouvez désormais envoyer des emails flexibles à votre audience cib
 >
 >* [Prévisualisation d’un email avec du contenu dynamique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
 >* [Utilisation de contenu dynamique dans une page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
-

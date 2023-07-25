@@ -3,7 +3,8 @@ unique-page-id: 30081230
 description: Actions en bloc sur les personnes - Documents Marketo - Documentation du produit
 title: Actions en bloc sur les personnes
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 5%

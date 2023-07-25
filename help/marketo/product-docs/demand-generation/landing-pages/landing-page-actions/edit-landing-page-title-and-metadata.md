@@ -3,7 +3,8 @@ unique-page-id: 2359726
 description: Modifier le titre et les métadonnées de la page d’entrée - Documents Marketo - Documentation du produit
 title: Modifier le titre et les métadonnées de la page d’entrée
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

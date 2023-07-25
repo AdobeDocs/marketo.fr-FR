@@ -3,7 +3,8 @@ unique-page-id: 37356568
 description: Planification d’un courrier électronique - Documents Marketo - Documentation du produit
 title: Planification d’un email
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2949154
 description: Étiquetage de vos campagnes web - Documents Marketo - Documentation du produit
 title: Étiqueter vos campagnes web
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%

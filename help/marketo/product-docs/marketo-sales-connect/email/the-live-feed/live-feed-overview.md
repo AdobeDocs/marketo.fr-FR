@@ -3,7 +3,8 @@ unique-page-id: 13796471
 description: Présentation du flux en direct - Documents Marketo - Documentation du produit
 title: Présentation du flux en direct
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -32,7 +33,6 @@ Les personnes marquées d’une ligne bleue représentent l’engagement envers 
 >
 >* Si votre destinataire était connecté au réseau sans fil pour une entreprise qui a son siège informatique dans une autre ville ou un autre pays, nous consignerions cet emplacement plutôt que la langue courante du destinataire.
 >* Si votre email a été transféré ou ouvert par une personne dans le champ CC/Cci, nous essayons d&#39;afficher précisément l&#39;emplacement de ces personnes.
-
 
 ## Onglet Tâches {#tasks-tab}
 

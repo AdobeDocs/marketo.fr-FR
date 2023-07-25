@@ -3,7 +3,8 @@ unique-page-id: 2360350
 description: Création d’un service personnalisé à utiliser avec l’API ReST - Documents Marketo - Documentation du produit
 title: Création d’un service personnalisé à utiliser avec l’API ReST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 5%
@@ -19,7 +20,6 @@ Si vous souhaitez intégrer Marketo via l’API ReST, vous souhaiterez créer un
 >* [Création d’un rôle d’utilisateur API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [Création d’un utilisateur API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
-
 
 >[!NOTE]
 >

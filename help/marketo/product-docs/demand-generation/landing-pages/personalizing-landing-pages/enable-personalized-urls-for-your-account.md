@@ -3,7 +3,8 @@ unique-page-id: 2359810
 description: Activation des URL personnalisées pour votre compte - Documents Marketo - Documentation du produit
 title: Activation des URL personnalisées pour votre compte
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 4%
@@ -30,7 +31,7 @@ Les URL personnalisées sont idéales pour les campagnes de courrier papier.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-Bon boulot ! Maintenant que vous avez activé les PURL pour votre compte, vous pouvez l’activer pour des landing pages individuelles.
+Très bon travail ! Maintenant que vous avez activé les PURL pour votre compte, vous pouvez l’activer pour des landing pages individuelles.
 
 >[!NOTE]
 >
@@ -41,4 +42,3 @@ Bon boulot ! Maintenant que vous avez activé les PURL pour votre compte, vous 
 >1. AnnaJones
 >1. AnnaJones2
 >1. AnnaJones3
-

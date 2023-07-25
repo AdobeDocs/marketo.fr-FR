@@ -3,7 +3,8 @@ unique-page-id: 2359671
 description: Ajout d’un texte d’indice à un champ de formulaire - Documents Marketo - Documentation du produit
 title: Ajout d’un texte d’indice à un champ de formulaire
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 3%

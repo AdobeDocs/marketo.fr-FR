@@ -2,9 +2,10 @@
 description: Modèles et informations - Documents Marketo - Documentation du produit
 title: Modèles et informations
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+feature: Predictive Audiences
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Accédez au **[!UICONTROL Modèles et intégrité des données]** sous **[!UICON
 
 ![Image 1](assets/models-and-insights-1.png)
 
-* **État de l’instruction**: Indique si votre modèle effectue une formation active (amélioration des prédictions). La formation se produit automatiquement toutes les 2 semaines. Tous les modèles qui _Traitement_ peut prendre jusqu’à 24 heures pour finir. Pour tout _En échec_ modèles, veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}.
+* **État de l’instruction**: Indique si votre modèle effectue une formation active (amélioration des prédictions). La formation se produit automatiquement toutes les 2 semaines. Tous les modèles qui _Traitement_ peut prendre jusqu’à 24 heures pour finir. Pour tout _En échec_ modèles, veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 * **État de notation**: Indique si votre modèle calcule activement des prédictions (pourcentages de probabilité) pour les membres du programme.
 * **Performances**: catégorisation de l’intégrité de votre modèle en fonction de la complétude des données et de la qualité des données (voir ci-dessous).
 * **Complétude des données**: Pourcentage d’attributs de données présents/complets.

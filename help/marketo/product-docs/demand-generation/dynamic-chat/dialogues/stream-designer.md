@@ -2,9 +2,10 @@
 description: Stream Designer - Documents Marketo - Documentation du produit
 title: Designer de flux
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '852'
 ht-degree: 2%
 
 ---
@@ -15,7 +16,7 @@ Il y a _many_ combinaisons de diffusion possibles. Cet article contient un exemp
 
 >[!PREREQUISITES]
 >
->Avant de pouvoir utiliser la carte Document, vous devez d’abord [configurer](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;} dans votre compte d’Adobe.
+>Avant de pouvoir utiliser la carte Document, vous devez d’abord [configurer](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} dans votre compte d’Adobe.
 
 ## Diffusion en continu de cartes Designer {#stream-designer-cards}
 
@@ -78,7 +79,7 @@ Dans le coin supérieur droit du concepteur de flux, vous verrez quelques icône
 
 ## Création d’un flux {#create-a-stream}
 
-1. Après avoir [créer votre boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, cliquez sur le bouton **Concepteur de diffusion** .
+1. Après avoir [créer votre boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, cliquez sur le bouton **Concepteur de diffusion** .
 
    ![](assets/stream-designer-6.png)
 
@@ -156,7 +157,7 @@ Dans le coin supérieur droit du concepteur de flux, vous verrez quelques icône
      <td>Le message que le visiteur voit l’invite à fournir les informations.</td>
     </tr>
     <tr>
-     <td><strong>Paramètre fictif</strong></td>
+     <td><strong>Espace réservé</strong></td>
      <td>Exemple de texte aidant le visiteur à voir ce qu’il doit entrer.</td>
     </tr>
     <tr>
@@ -191,12 +192,11 @@ Dans le coin supérieur droit du concepteur de flux, vous verrez quelques icône
 
 >[!NOTE]
 >
->Avant de cliquer sur Publier, n’oubliez pas de vous assurer que vous avez [ont saisi votre ou vos URL cibles.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}.
+>Avant de cliquer sur Publier, n’oubliez pas de vous assurer que vous avez [ont saisi votre ou vos URL cibles.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Créer un dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Critères d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
->* [Rapports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
->* [Utilisation de la carte de document](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;}
-
+>* [Créer un dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [Critère d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
+>* Rapports [ ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
+>* [Utilisation de la carte de document](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}

@@ -3,7 +3,8 @@ unique-page-id: 7504923
 description: Définir les conversions Google AdWords dans le modèle de revenu avec un compte de gestionnaire - Documents Marketo - Documentation du produit
 title: Définir des conversions Google AdWords dans le modèle de revenu avec un compte de gestionnaire
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%

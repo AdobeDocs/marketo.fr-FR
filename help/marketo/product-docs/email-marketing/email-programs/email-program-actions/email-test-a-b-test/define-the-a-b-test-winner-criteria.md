@@ -3,20 +3,21 @@ unique-page-id: 2359545
 description: Définition des critères de gagnant de test A/B - Documents Marketo - Documentation du produit
 title: Définition des critères de gagnant de test A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '412'
 ht-degree: 3%
 
 ---
 
 # Définition des critères de gagnant de test A/B {#define-the-a-b-test-winner-criteria}
 
-When [ajout d’un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target=&quot;_blank&quot;} dans votre programme de messagerie, vous devrez sélectionner un type de test, [Planification du test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target=&quot;_blank&quot;}, puis définissez les critères de gagnant. Voici comment décider quel email gagne.
+When [ajout d’un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} to your email program, you will need to pick a test type, [schedule the A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}, puis définissez les critères de gagnant. Voici comment décider quel email gagne.
 
 >[!PREREQUISITES]
 >
->[Ajout d’un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target=&quot;_blank&quot;}
+>[Ajout d’un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}
 
 ## Critères pour gagner {#winner-criteria}
 
@@ -45,7 +46,7 @@ When [ajout d’un test A/B](/help/marketo/product-docs/email-marketing/email-pr
 
    >[!TIP]
    >
-   >Si vous sélectionnez Score d’engagement , le test doit s’exécuter pendant au moins 24 heures. En savoir plus sur [compréhension du score d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target=&quot;_blank&quot;}.
+   >Si vous sélectionnez Score d’engagement , le test doit s’exécuter pendant au moins 24 heures. En savoir plus sur [compréhension du score d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 1. Vous pouvez également personnaliser vos critères en sélectionnant Conversion personnalisée et en cliquant sur Modifier.
 
@@ -93,4 +94,4 @@ When [ajout d’un test A/B](/help/marketo/product-docs/email-marketing/email-pr
    >
    >Choix **Manuel** envoie le test et attend que vous déclariez gagnant. Vous recevrez un rapport des résultats.
 
-Mot clé! Maintenant, allons [Planification du test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target=&quot;_blank&quot;}.
+Mot clé! Maintenant, allons [Planification du test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.

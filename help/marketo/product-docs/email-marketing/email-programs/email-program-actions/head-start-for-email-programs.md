@@ -3,7 +3,8 @@ unique-page-id: 10097202
 description: Prise en main des programmes de messagerie - Documents Marketo - Documentation du produit
 title: Prise en main des programmes de messagerie
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -76,4 +77,3 @@ Cela signifie que si vous êtes aux États-Unis/à Los Angeles et que vous souha
 >* [Planification de votre programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 >* [Planification des programmes de messagerie avec un fuseau horaire de destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Comprendre le fuseau horaire du destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-

@@ -2,7 +2,8 @@
 description: Étape 1 sur 3 - Ajout de champs Marketo à Veeva CRM - Documents Marketo - Documentation du produit
 title: Étape 1 sur 3 - Ajout de champs Marketo à la gestion de la relation client Veeva
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 7%
@@ -100,7 +101,7 @@ Nombre de décimales 0</td>
 * Si vous disposez d’un utilisateur disposant du profil d’un administrateur système comme utilisateur de synchronisation, décochez la case Lecture seule pour le profil administrateur système (comme illustré ci-dessous).
 * Si vous avez créé un profil personnalisé pour l’utilisateur de synchronisation, décochez la case Lecture seule pour ce profil personnalisé.
 
-   ![](assets/step-1-of-3-add-marketo-fields-9.png)
+  ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
 1. Sélectionnez les mises en page qui doivent afficher le champ.
 
@@ -125,19 +126,19 @@ FACULTATIF : Utilisez la procédure ci-dessus pour tout champ personnalisé supp
    <th>Attributs de champ
   </tr>
   <tr>
-   <td>Ville déduite</td>
+   <td>Ville supposée</td>
    <td>mkto71_Inferred_City</td>
    <td>Texte</td>
    <td>Longueur 255</td>
   </tr>
   <tr>
-   <td>Société déduite</td>
+   <td>Société supposée</td>
    <td>mkto71_Inferred_Company</td>
    <td>Texte</td>
    <td>Longueur 255</td>
   </tr>
   <tr>
-   <td>Pays déduit</td>
+   <td>Pays supposé</td>
    <td>mkto71_Inferred_Country</td>
    <td>Texte</td>
    <td>Longueur 255</td>

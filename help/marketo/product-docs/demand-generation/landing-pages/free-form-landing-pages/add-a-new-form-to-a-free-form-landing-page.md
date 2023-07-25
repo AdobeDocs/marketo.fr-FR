@@ -3,7 +3,8 @@ unique-page-id: 2359705
 description: Ajout d’un nouveau formulaire à une page d’entrée de formulaire libre - Documents Marketo - Documentation du produit
 title: Ajouter un nouveau formulaire à une page d’entrée de formulaire libre
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 2%
@@ -18,7 +19,6 @@ Formulaire, rencontrer une landing page. Landing page, formulaire conforme.
 >
 >* [Créer un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Création d’une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-
 
 1. Accédez à **Activités marketing**.
 

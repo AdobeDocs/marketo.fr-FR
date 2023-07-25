@@ -3,7 +3,8 @@ unique-page-id: 37356565
 description: Envoi d’un courrier électronique suivi - Documents Marketo - Documentation du produit
 title: Envoi d’un email suivi
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -20,7 +21,6 @@ Lors de l’envoi d’un courrier électronique avec Marketo Sales Connect, les 
 >
 >* [Vérification de l’adresse électronique](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
 >* Configuration d’un canal de diffusion pour [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) ou [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-
 
 1. Créez votre brouillon d’email (il existe plusieurs façons de le faire, dans cet exemple que nous choisissons. **Composer** dans l’en-tête ).
 
@@ -58,4 +58,3 @@ Lors de l’envoi d’un courrier électronique avec Marketo Sales Connect, les 
    >
    >* [Planification d’un email](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
    >* [Modèles](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-

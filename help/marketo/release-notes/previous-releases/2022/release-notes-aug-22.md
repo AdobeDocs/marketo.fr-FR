@@ -2,9 +2,10 @@
 description: Notes de mise à jour - Août 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Août 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -21,11 +22,11 @@ Les fonctionnalités suivantes ont commencé un déploiement progressif de **26 
 
 ## Orchestration cross-canal {#cross-channel-orchestration}
 
-* **[Activation/désactivation de toutes les boîtes de dialogue publiées à la fois pour la messagerie instantanée dynamique](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Activez/désactivez globalement toutes les boîtes de dialogue publiées en même temps sur la page Configuration en appuyant sur un bouton .
+* **[Activer/Désactiver toutes les boîtes de dialogue publiées à la fois pour Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**: Activez/désactivez globalement toutes les boîtes de dialogue publiées en même temps sur la page Configuration en appuyant sur un bouton .
 
-* **[Avatars personnalisés pour les conversations dynamiques](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**: Téléchargez un avatar de chatbot personnalisé qui peut être personnalisé pour votre marque.
+* **[Avatars personnalisés pour le Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target="_blank"}**: Téléchargez un avatar de chatbot personnalisé qui peut être personnalisé pour votre marque.
 
-* **Transcriptions des conversations pour les conversations dynamiques**: Affichez les transcriptions de chaque conversation afin d’obtenir des informations plus précises sur ce qui intéresse chaque visiteur web.
+* **Transcriptions de conversation pour le Dynamic Chat**: Affichez les transcriptions de chaque conversation afin d’obtenir des informations plus précises sur ce qui intéresse chaque visiteur web.
 
 ## Expérience de nouvelle génération
 
@@ -33,7 +34,7 @@ Les fonctionnalités suivantes ont commencé un déploiement progressif de **26 
 
 * **Afficher la hiérarchie de dossiers du dossier de destination dans la boîte de dialogue Déplacer**: L’affichage de la hiérarchie de dossiers pour chaque dossier facilite le déplacement des ressources et réduit la probabilité de les placer dans le mauvais dossier.
 
-* **[Mise à jour d’Screens dans l’expérience de nouvelle génération](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
+* **[Mise à jour d’Screens dans l’expérience de nouvelle génération](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**: Nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour, accessibles par le biais d’un bouton d’activation/désactivation :
 
    * Détails du fragment de code
    * Détails &quot;Images et fichiers&quot;
@@ -44,13 +45,13 @@ Les fonctionnalités suivantes ont commencé un déploiement progressif de **26 
 
 ## Automatisation de l’expérience {#experience-automation}
 
-* **[Étapes de flux en libre-service - Améliorations de l’importation des programmes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**: Amélioration de la prise en charge de l’importation de programmes avec des étapes de flux personnalisées dans lesquelles vous pouvez désormais utiliser plusieurs instances du même fournisseur de services et des programmes d’importation dont les étapes de flux sont compatibles avec ces fournisseurs de services.
+* **[Étapes de flux en libre-service - Améliorations de l’importation des programmes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target="_blank"}**: Amélioration de la prise en charge de l’importation de programmes avec des étapes de flux personnalisées dans lesquelles vous pouvez désormais utiliser plusieurs instances du même fournisseur de services et des programmes d’importation dont les étapes de flux sont compatibles avec ces fournisseurs de services.
 
 * **Munchkin - Suivi des liens étendu**: Étendre la prise en charge du suivi des `tel` et `mailto` liens avec Munchkin pour effectuer le suivi d’un ensemble étendu de comportements web.
 
 * **Visibilité de l’en-tête personnalisé de Webhook**: Les en-têtes personnalisés Webhook s’affichent désormais dans l’onglet Admin > Webhooks pour une meilleure visibilité.
 
-* **CAPTCHA**: Évaluation de la validité des envois de formulaire [utilisation de reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;} pour noter le trafic de formulaire entrant. Créez des workflows marketing pour exclure, mettre en quarantaine ou supprimer automatiquement le trafic de robots suspects.
+* **CAPTCHA**: Évaluation de la validité des envois de formulaire [utilisation de reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"} pour noter le trafic de formulaire entrant. Créez des workflows marketing pour exclure, mettre en quarantaine ou supprimer automatiquement le trafic de robots suspects.
 
 * **Autorisation d’approuver le formulaire**: Nouvelle autorisation pour contrôler quels concepteurs peuvent approuver les modifications apportées à un formulaire conformément à d’autres actifs de Design Studio. Cela empêche d’autres concepteurs de pousser les modifications vers les formulaires sans qu’aucune autre personne n’ait la permission de les examiner.
 
@@ -68,10 +69,10 @@ Les fonctionnalités suivantes ont commencé un déploiement progressif de **26 
 
 ![(étoile)](assets/yellow-star.png)
 
-* **[Intégration de Sales Insight à Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Affichez les activités à partir de la messagerie dynamique dans le panneau Sales Insight (Aperçu des ventes) et exploitez ce nouveau point de données dans vos efforts de prospection.
+* **[Intégration de Sales Insight à Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**: Affichez les activités du Dynamic Chat dans le panneau Sales Insight et exploitez ce nouveau point de données dans vos efforts de prospection.
 
 ## Annonces {#announcements}
 
 **_Webinaire sur la version du produit_**
 
-[Webinaire de mise à jour des Marketo Engage de juin et août 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
+[Webinaire de mise à jour des Marketo Engage de juin et août 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

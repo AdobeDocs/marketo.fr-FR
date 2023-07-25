@@ -3,7 +3,8 @@ unique-page-id: 1147029
 description: Modifier l’état dans SFDC Campaign - Documents Marketo - Documentation du produit
 title: Modifier statut dans une campagne SFDC
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Salesforce Integration
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 12%
@@ -16,7 +17,7 @@ ht-degree: 12%
 >
 >Disponible uniquement lorsqu’il est intégré à Salesforce.
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Cette étape de flux vous permet de modifier l’état des membres de campagne Salesforce des pistes.
 

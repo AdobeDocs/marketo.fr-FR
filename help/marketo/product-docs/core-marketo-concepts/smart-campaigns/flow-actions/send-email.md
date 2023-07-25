@@ -3,7 +3,8 @@ unique-page-id: 1146948
 description: Envoyer un courrier électronique - Documents Marketo - Documentation du produit
 title: Envoyer un e-mail
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 6%
@@ -12,7 +13,7 @@ ht-degree: 6%
 
 # Envoyer un e-mail {#send-email}
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Le **Envoyer un courrier électronique** l’étape de flux peut être utilisée dans le cadre de campagnes ou comme une étape de flux unique pour envoyer des emails à vos personnes.
 

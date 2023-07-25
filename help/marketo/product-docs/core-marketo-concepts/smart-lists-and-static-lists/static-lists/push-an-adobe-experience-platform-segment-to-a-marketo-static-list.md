@@ -2,9 +2,10 @@
 description: Envoyer un segment Adobe Experience Platform vers une liste statique Marketo - Documents Marketo - Documentation du produit
 title: Envoi d’un segment Adobe Experience Platform vers une liste statique Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+feature: Static Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,6 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 >* [Création d’un utilisateur API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) dans Marketo.
 >* Accédez à **Administration** > **Launchpoint**. Recherchez le nom du rôle que vous venez de créer, puis cliquez sur **Afficher les détails**. Copiez et enregistrez les informations dans **ID client** et **Secret du client**, car vous pourriez en avoir besoin pour l’étape 7.
 >* Dans Marketo, créez une liste statique ou recherchez et sélectionnez-en une que vous avez déjà créée. Vous aurez besoin de son identifiant.
-
 
 1. Connectez-vous à [Adobe Experience Platform](https://experience.adobe.com/).
 
@@ -100,7 +100,7 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    >[!NOTE]
    >
-   >Vous pouvez mapper des attributs d’Experience Platform à n’importe lequel des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la variable [Description de la requête API](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;} pour récupérer les champs d’attribut auxquels votre organisation a accès.
+   >Vous pouvez mapper des attributs d’Experience Platform à n’importe lequel des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la variable [Description de la requête API](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} pour récupérer les champs d’attribut auxquels votre organisation a accès.
 
 1. Faites correspondre le nom et le nom de la société en cliquant sur **Ajouter un nouveau mappage** et répétez deux fois l’étape 15, en choisissant **lastName** puis **companyName**.
 

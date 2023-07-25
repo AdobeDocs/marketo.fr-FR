@@ -3,7 +3,8 @@ unique-page-id: 1147091
 description: Présentation de l’adhésion au programme - Documents Marketo - Documentation du produit
 title: Compréhension de l’appartenance au programme
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 1%
@@ -65,4 +66,3 @@ Lorsqu’un nouveau nom apparaît dans le système en tant que membre du program
 >
 >* [Utilisation de balises dans un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
 >* [Création d’un rapport Performance de programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2360055
 description: Courriel du rapport, Performances de Campaign dans tous les espaces de travail - Documents Marketo - Documentation du produit
 title: Courriel du rapport, Performances des campagnes dans les espaces de travail
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%

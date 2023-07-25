@@ -3,7 +3,8 @@ unique-page-id: 11378041
 description: Suppression d’un domaine de marque - Documents Marketo - Documentation du produit
 title: Suppression d’un domaine de marque
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 8%

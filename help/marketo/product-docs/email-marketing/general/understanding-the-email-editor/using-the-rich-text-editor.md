@@ -3,7 +3,8 @@ unique-page-id: 2953419
 description: Utilisation de l’éditeur de texte enrichi - Documents Marketo - Documentation du produit
 title: Utilisation de l’éditeur de texte enrichi
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 5%
@@ -85,7 +86,7 @@ Voici les fonctionnalités que vous trouverez dans un éditeur de texte enrichi.
 | ![--](assets/image2015-7-9-10-3a40-3a36.png) | Insérer le jeton | Un outil puissant, idéal pour la personnalisation des emails et le suivi des données. Veillez à saisir une valeur par défaut. |
 | ![--](assets/image2015-7-9-10-3a41-3a21.png) | Annuler | Oups ! Retournons un pas en arrière et réessayez. |
 | ![--](assets/image2015-7-9-10-3a42-3a13.png) | Rétablir | Si c&#39;est vraiment normal, revenez à l&#39;original. |
-| ![--](assets/image2015-7-9-10-3a43-3a29.png) | Table | Construisez la vôtre, comme celle-ci. Un menu déroulant vous permet de le paramétrer. |
+| ![--](assets/image2015-7-9-10-3a43-3a29.png) | Tableau | Construisez la vôtre, comme celle-ci. Un menu déroulant vous permet de le paramétrer. |
 | ![--](assets/image2015-7-9-10-3a45-3a1.png) | Insérer une ancre | Déposez l&#39;ancre ! |
 | ![--](assets/image2015-7-9-10-3a45-3a48.png) | Ligne horizontale | Plusieurs utilisations : idéal pour la division des sections. |
 | ![--](assets/image2015-10-6-12-3a12-3a17.png) | Modifier l’HTML | Permet d’afficher l’éditeur de source de HTML afin que vous puissiez ajuster votre code. |
@@ -96,7 +97,7 @@ Voici les fonctionnalités que vous trouverez dans un éditeur de texte enrichi.
 | ![--](assets/image2015-7-9-10-3a52-3a26.png) | Rechercher et remplacer | Recherchez et modifiez les éléments beaucoup plus rapidement que chaque instance vous-même. |
 | ![--](assets/image2015-7-9-10-3a53-3a37.png) | Effacer la mise en forme | Revenez aux éléments standard. |
 | ![--](assets/image2015-7-9-10-3a55-3a2.png) | Annuler | Appuyez sur le bouton pour dire : &quot;Peu importe.&quot; |
-| ![--](assets/image2015-7-9-10-3a56-3a2.png) | Enregistrer | Appuyez sur le bouton pour dire : &quot;OK, j&#39;aime ça.&quot; |
+| ![--](assets/image2015-7-9-10-3a56-3a2.png) | Save | Appuyez sur le bouton pour dire : &quot;OK, j&#39;aime ça.&quot; |
 
 >[!TIP]
 >

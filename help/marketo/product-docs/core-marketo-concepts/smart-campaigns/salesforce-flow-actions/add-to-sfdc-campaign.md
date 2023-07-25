@@ -3,7 +3,8 @@ unique-page-id: 1147034
 description: Ajouter à SFDC Campaign - Documents Marketo - Documentation du produit
 title: Ajouter à la campagne SFDC
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Salesforce Integration
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 5%
@@ -16,7 +17,7 @@ ht-degree: 5%
 >
 >Disponible uniquement lorsqu’il est intégré à Salesforce.
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Cette étape de flux peut être utilisée dans les campagnes Marketo ou comme une étape de flux unique pour ajouter des personnes en tant que pistes dans une campagne Salesforce. Si la piste n’existe pas encore dans Salesforce, elle sera automatiquement synchronisée et ajoutée à la campagne avec le statut spécifié.
 
@@ -34,7 +35,6 @@ Cette étape de flux peut être utilisée dans les campagnes Marketo ou comme un
    >
    >  1. Assurez-vous que la variable [la synchronisation des campagnes est activée.](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
    >  1. Confirmez que la variable [Utilisateur de synchronisation Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) est un [Utilisateur marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) dans Salesforce.
-
 
    >[!TIP]
    >

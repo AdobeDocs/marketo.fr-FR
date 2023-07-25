@@ -3,7 +3,8 @@ unique-page-id: 17728380
 description: Notes de mise à jour - Printemps 2019 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Printemps 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 6%

@@ -3,7 +3,8 @@ unique-page-id: 11383953
 description: Configuration des conversions hors ligne Facebook - Documents Marketo - Documentation du produit
 title: Configuration des conversions hors ligne de Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 5%
@@ -18,7 +19,6 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
 >
 >* Vous devez [Configuration des publicités Facebook Lead](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 >* Vous devez disposer d’un modèle approuvé dans [Modéliseur de cycle des recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
-
 
 ## Configuration de l’administrateur {#admin-configuration}
 
@@ -74,11 +74,10 @@ En renvoyant les données de conversion hors ligne à Facebook pour les personne
    >* Inscriptions réalisées
    >* Paiements lancés
    >* Individu
-   >* Autre
+   >* Autres
    >* Achat
    >* Recherches
    >* Affichage de contenu
-
 
 1. Sélectionnez l’étape à mapper, puis dans la **Conversion facebook** , sélectionnez l’événement Facebook auquel vous souhaitez le mapper. Répétez cette étape pour mapper toutes les étapes de votre CRM aux étapes de conversion hors ligne sur Facebook.
 

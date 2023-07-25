@@ -3,7 +3,8 @@ unique-page-id: 14746470
 description: Configuration d’un canal de diffusion personnalisé - Documents Marketo - Documentation du produit
 title: Configuration d’un canal de diffusion personnalisé
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -21,7 +22,6 @@ Les utilisateurs peuvent configurer un serveur SMTP personnalisé pour leur prop
 >* Outre la configuration de votre serveur SMTP, votre [l&#39;identité de l&#39;email doit être vérifiée](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) avant de pouvoir envoyer des emails.
 >* Nous vous recommandons de travailler avec votre équipe informatique ou votre fournisseur de serveur SMTP pour obtenir les informations d’identification de serveur appropriées pour votre serveur SMTP.
 >* Vous ne pouvez pas connecter votre serveur Gmail et Exchange à l’aide des informations d’identification du serveur SMTP. Utilisez notre service Email Connection pour vous intégrer à ces fournisseurs.
-
 
 ## SMTP personnalisé {#custom-smtp}
 
@@ -96,4 +96,3 @@ Les utilisateurs peuvent configurer un serveur SMTP personnalisé pour leur prop
    >* [Connexion par e-mail pour les utilisateurs de Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
    >
    >* [Connexion par e-mail pour les utilisateurs Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

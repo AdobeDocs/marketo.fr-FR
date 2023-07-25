@@ -3,7 +3,8 @@ unique-page-id: 1147245
 description: Création de types d’entrée personnalisés - Documents Marketo - Documentation du produit
 title: Création de types d’entrée personnalisés
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%

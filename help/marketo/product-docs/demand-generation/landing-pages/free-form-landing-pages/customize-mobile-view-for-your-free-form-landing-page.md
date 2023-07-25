@@ -3,7 +3,8 @@ unique-page-id: 5472283
 description: Personnalisation de l’affichage mobile pour votre page d’entrée de formulaire libre - Documents Marketo - Documentation du produit
 title: Personnalisation de l’affichage mobile pour votre page d’entrée de formulaire libre
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
@@ -50,7 +51,7 @@ Par défaut, tous les éléments de la vue Bureau s’affichent sur la vue Mobil
 * Utilisez uniquement Forms 2.0 forms. Ils sont réactifs et s’ajustent automatiquement.
 * Un seul élément de modèle est modifiable, BODY#bodyid (Mobile). Vous pouvez l’utiliser pour modifier la couleur d’arrière-plan.
 
-   ![](assets/image2015-5-21-15-3a15-3a47.png)
+  ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## Masquage d’un élément à partir de la vue mobile {#hide-an-element-from-the-mobile-view}
 

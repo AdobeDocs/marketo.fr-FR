@@ -3,7 +3,8 @@ unique-page-id: 10097969
 description: Création d’un modèle de page d’entrée de forme libre - Documents Marketo - Documentation du produit
 title: Créer un modèle de page d’entrée de forme libre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -50,4 +51,3 @@ Les landing pages sans forme nécessitent moins de connaissances techniques que 
    >* [Création d’une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
    >* [Création d’un modèle de page d’entrée guidée](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
    >* [Présentation des pages d’entrée libres ou guidées](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-

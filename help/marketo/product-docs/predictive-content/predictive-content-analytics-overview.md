@@ -3,7 +3,8 @@ unique-page-id: 12981204
 description: Présentation de Predictive Content Analytics - Documents Marketo - Documentation du produit
 title: Présentation de Predictive Content Analytics
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 12%
@@ -18,7 +19,7 @@ Utilisez l’analyse de contenu pour obtenir des informations supplémentaires s
 >
 >L’onglet Analytics et les fonctionnalités d’analyse de contenu sont disponibles exclusivement avec le contenu prédictif Marketo.
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Sur la page Résumé, cliquez sur **Analytics**.
 

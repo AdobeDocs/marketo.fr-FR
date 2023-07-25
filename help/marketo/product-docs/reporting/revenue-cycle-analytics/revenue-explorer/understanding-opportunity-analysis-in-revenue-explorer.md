@@ -3,10 +3,11 @@ unique-page-id: 2951884
 description: Présentation de l’analyse des opportunités dans l’Explorateur des recettes - Documents Marketo - Documentation du produit
 title: Présentation de l’analyse des opportunités dans l’Explorateur des recettes
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -83,7 +84,7 @@ L’analyse des opportunités vous donne accès à toutes les dimensions liées 
    | Adresse e-mail | Adresse électronique du prospect |
    | Intitulé du poste | Fonction du responsable |
    | Nom complet | Nom complet de la piste |
-   | Type source d&#39;origine | Type de source d’origine du prospect |
+   | Type source d’origine | Type de source d’origine du prospect |
    | Type de source d’enregistrement | Type de source enregistré du prospect |
    | Adresse e-mail du détenteur du lead | Adresse électronique du propriétaire du prospect |
    | Poste du détenteur du lead | Fonction du propriétaire du prospect |
@@ -145,7 +146,7 @@ L’analyse des opportunités vous donne accès à toutes les dimensions liées 
    | Nombre d’opportunités (perdues) | Nombre total d’opportunités perdues |
    | Nombre d’opportunités (ouvertes) | Nombre total d’opportunités qui sont encore ouvertes |
    | Nombre d’opportunités (gagnant) | Nombre total d’opportunités gagnées |
-   | Quantité d&#39;opportunités | Montant total des opportunités. Si plusieurs pistes sont associées à une opportunité, le montant de l’allocation est basé sur le score de piste. |
+   | Quantité d&#39;opportunités | Total du montant de l&#39;opportunité. Si plusieurs pistes sont associées à une opportunité, le montant de l’allocation est basé sur le score de piste. |
    | Montant de l&#39;opportunité (perdu) | Montant total des opportunités perdues. Si plusieurs pistes sont associées à une opportunité, le montant de l’allocation est basé sur le score de piste. |
    | Montant de l&#39;opportunité (ouvert) | Montant total pour les opportunités ouvertes. Si plusieurs pistes sont associées à une opportunité, le montant de l’allocation est basé sur le score de piste. |
    | Montant de l&#39;opportunité (gagné) | Montant total des opportunités gagnées. Si plusieurs pistes sont associées à une opportunité, le montant de l’allocation est basé sur le score de piste. |
@@ -155,4 +156,3 @@ L’analyse des opportunités vous donne accès à toutes les dimensions liées 
 >* [Créer un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
 >* [Ajout de champs à un rapport de l’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
 >* [Abonnement à un rapport de l’Explorateur des recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-

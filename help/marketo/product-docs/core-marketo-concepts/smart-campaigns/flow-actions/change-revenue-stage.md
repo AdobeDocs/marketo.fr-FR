@@ -3,7 +3,8 @@ unique-page-id: 1147080
 description: Change Revenue Stage - Marketo Docs - Documentation du produit
 title: Modifier l'étape dans le cycle de vente
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 10%
@@ -12,7 +13,7 @@ ht-degree: 10%
 
 # Modifier l&#39;étape dans le cycle de vente {#change-revenue-stage}
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Si vous utilisez le modèle de cycle de revenu et disposez d’un modèle approuvé, vous pouvez décider de déplacer les pistes manuellement d’une étape à une autre. Cette étape de flux vous aidera.
 

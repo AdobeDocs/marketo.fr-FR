@@ -3,7 +3,8 @@ unique-page-id: 2359991
 description: Gérer les abonnements aux rapports - Documents Marketo - Documentation du produit
 title: Gérer les abonnements aux rapports
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 1%
@@ -41,7 +42,6 @@ Configuration et suppression des abonnements aux rapports.
    >* Utilisez des virgules entre les adresses électroniques.
    >* Pour enregistrer vos modifications, cliquez sur dans une zone. _external_ la liste des abonnements.
 
-
    Vous pouvez également :
 
    * Cliquez sur le bouton **Affichage** pour ouvrir un rapport.
@@ -62,4 +62,3 @@ Configuration et suppression des abonnements aux rapports.
    >
    >* [Abonnement à un rapport de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
    >* [Abonnement à un rapport de l’Explorateur des recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2359537
 description: Ajout d’un fragment de code à une page d’entrée - Documents Marketo - Documentation du produit
 title: Ajout d’un fragment de code à une page d’entrée
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%

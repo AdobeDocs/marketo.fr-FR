@@ -3,10 +3,11 @@ unique-page-id: 14746690
 description: Types d’étape de campagne - Documents Marketo - Documentation du produit
 title: Types d’étape de campagne
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -16,7 +17,7 @@ Vous disposez de quatre options lorsque vous ajoutez une étape à votre campagn
 
 ![](assets/one-4.png)
 
-## Adresse e-mail {#email}
+## E-mail {#email}
 
 Composez un nouvel email ou utilisez un modèle préexistant.
 
@@ -32,7 +33,7 @@ Composez un nouvel email ou utilisez un modèle préexistant.
 >
 >En savoir plus sur votre [options d’envoi](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
-## Appelez {#call}
+## Appel {#call}
 
 Rappel pour le suivi d&#39;un contact par téléphone. Vous pouvez également enregistrer des notes à utiliser comme suivi de conversation pendant l’appel.
 

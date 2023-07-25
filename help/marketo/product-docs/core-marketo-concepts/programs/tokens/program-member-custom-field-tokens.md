@@ -3,7 +3,8 @@ unique-page-id: 1147114
 description: Jetons de champ personnalisés des membres du programme - Documents Marketo - Documentation du produit
 title: Jetons de champ personnalisés des membres du programme
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 2%
@@ -25,7 +26,6 @@ Les jetons de membre sont utilisés pour les champs appartenant au champ Program
 >* Les champs personnalisés des membres du programme ne peuvent être utilisés que dans le contexte d’un programme.
 >* Les jetons de champs personnalisés des membres du programme ne peuvent pas être utilisés dans : pré-titre de courrier électronique, jetons de date dans les étapes d’attente ou fragments de code.
 >* Le statut de membre du programme n’est pas pris en charge dans les jetons de membre.
-
 
 ## Utilisation de jetons de champ personnalisés de membre de programme dans Assets {#using-program-member-custom-field-tokens-in-assets}
 

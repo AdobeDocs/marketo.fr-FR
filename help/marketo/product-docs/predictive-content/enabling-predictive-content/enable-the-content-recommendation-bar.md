@@ -3,7 +3,8 @@ unique-page-id: 4720108
 description: Activation de la barre de recommandation de contenu - Documents Marketo - Documentation du produit
 title: Activation de la barre de recommandation de contenu
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,13 +20,12 @@ Le moteur de recommandation de contenu utilise des algorithmes d’analyse préd
 >Avant d’activer le contenu prédictif, vous devez :
 >
 >* **Préparation de votre contenu prédictif**
-   >
-   >   * [Modifier le contenu prédictif pour les emails](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) ou
-   >   * [Modification du contenu prédictif pour le contenu multimédia enrichi](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) ou
-   >   * [Modifier le contenu prédictif pour la barre de recommandations](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
+>   * [Modifier le contenu prédictif pour les emails](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) ou
+>   * [Modification du contenu prédictif pour le contenu multimédia enrichi](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) ou
+>   * [Modifier le contenu prédictif pour la barre de recommandations](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
 >* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
 
 ## Activation et personnalisation de la barre de recommandation de contenu {#enable-and-customize-the-content-recommendation-bar}
 
@@ -55,7 +55,6 @@ Le moteur de recommandation de contenu utilise des algorithmes d’analyse préd
    >* Utilisation d’un point-virgule comme séparateur
    >* Exemple : /contact_us&#42;; &#42;action=logout&#42;
    >* Ce champ est sensible à la casse
-
 
 ## Observations sur la barre de recommandation {#recommendation-bar-considerations}
 

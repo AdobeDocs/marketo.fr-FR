@@ -3,7 +3,8 @@ unique-page-id: 37356584
 description: Envoi d’emails par courrier électronique de groupe - Documents Marketo - Documentation du produit
 title: Envoi d’emails par courrier électronique de groupe
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -60,4 +61,3 @@ Voici comment envoyer/modifier des emails à l’aide de l’option Courrier él
 >
 >* [Options d’envoi en bloc](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
 >* [Utilisation d’un modèle dans la fenêtre de composition](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 4720257
 description: Ajout d’audiences personnalisées Facebook as a LaunchPoint Service - Documents Marketo - Documentation du produit
 title: Ajout d’audiences personnalisées Facebook en tant que service LaunchPoint
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -58,7 +59,7 @@ Avec cette intégration, vous pouvez envoyer des données d’audience à partir
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Bon boulot ! Vous pouvez désormais accéder à n’importe quelle liste statique ou dynamique de Marketo et envoyer des données d’audience à Facebook.
+   Très bon travail ! Vous pouvez désormais accéder à n’importe quelle liste statique ou dynamique de Marketo et envoyer des données d’audience à Facebook.
 
    >[!CAUTION]
    >
@@ -69,4 +70,3 @@ Avec cette intégration, vous pouvez envoyer des données d’audience à partir
 >* [Création d’une audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
 >* [Configuration de publicités Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-

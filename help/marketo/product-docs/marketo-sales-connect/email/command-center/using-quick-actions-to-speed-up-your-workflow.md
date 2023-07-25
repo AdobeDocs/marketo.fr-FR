@@ -3,7 +3,8 @@ unique-page-id: 37357306
 description: Utilisation d’actions rapides pour accélérer votre workflow - Documents Marketo - Documentation du produit
 title: Utilisation d’actions rapides pour accélérer votre workflow
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 5%

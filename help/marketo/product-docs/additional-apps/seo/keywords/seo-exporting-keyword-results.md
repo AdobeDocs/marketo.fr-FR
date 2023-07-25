@@ -3,7 +3,8 @@ unique-page-id: 2949210
 description: SEO - Exportation des résultats de mots-clés - Documents Marketo - Documentation du produit
 title: SEO - Exportation des résultats de mots-clés
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%

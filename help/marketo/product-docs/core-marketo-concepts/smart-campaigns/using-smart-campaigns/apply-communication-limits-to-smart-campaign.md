@@ -3,7 +3,8 @@ unique-page-id: 1147064
 description: Application de limites de communication à la campagne dynamique - Documents Marketo - Documentation du produit
 title: Application de limites de communication à une campagne dynamique
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
-source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%

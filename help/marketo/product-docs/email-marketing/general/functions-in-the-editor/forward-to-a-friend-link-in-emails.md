@@ -3,7 +3,8 @@ unique-page-id: 1900581
 description: Transférer vers un lien d’ami dans les emails - Documents Marketo - Documentation du produit
 title: Transférer vers un lien d’ami dans les courriers électroniques
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%

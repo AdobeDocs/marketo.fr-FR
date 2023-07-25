@@ -3,7 +3,8 @@ unique-page-id: 42762825
 description: Utilisation d’actions en bloc dans Salesforce Lightning - Documentation Marketo - Documentation du produit
 title: Utilisation d’actions en bloc dans Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 1%
@@ -85,4 +86,3 @@ Découvrez comment exécuter des actions en bloc, comme ajouter des pistes à un
 >
 >* [Envoi d’emails par courrier électronique de groupe](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 >* [Composition d’emails en bloc avec sélection et envoi](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
-

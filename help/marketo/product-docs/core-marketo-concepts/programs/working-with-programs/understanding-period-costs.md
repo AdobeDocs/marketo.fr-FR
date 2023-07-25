@@ -3,7 +3,8 @@ unique-page-id: 7504676
 description: Présentation des coûts de la période - Documents Marketo - Documentation du produit
 title: Présentation des coûts de la période
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Présentation des coûts de la période {#understanding-period-costs}
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Les coûts par période se rapportent à l’argent que vous dépensez au cours d’un mois spécifique pour un programme.
 
@@ -66,4 +67,3 @@ Imaginez un événement, comme un webinaire, qui se produit en mars. De nouvelle
    >
    >* [Utilisation des coûts de période dans un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
    >* [Filtrage d’un rapport de programme par coût par période](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-

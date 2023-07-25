@@ -3,7 +3,8 @@ unique-page-id: 3571827
 description: Étape 2 sur 3 - Configuration de la solution Marketo avec connexion serveur à serveur - Documents Marketo - Documentation du produit
 title: Étape 2 sur 3 - Configuration de la solution Marketo avec la connexion serveur à serveur
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+feature: Microsoft Dynamics
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -53,7 +54,6 @@ ht-degree: 0%
    >* Lors de l’attribution des autorisations à l’utilisateur de l’application, veillez à l’affecter à &quot;Rôle utilisateur de synchronisation Marketo&quot;.
    >* Notez l’adresse électronique de l’utilisateur de l’application dans la variable [option afficher les détails](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} sur Power Platform. Cette adresse électronique sera utilisée comme nom d’utilisateur lors de la configuration de la connexion à MS Dynamics dans Marketo.
    >* Toutes les mises à jour effectuées dans votre CRM par l’utilisateur de synchronisation **not** être synchronisé à nouveau avec Marketo.
-
 
 ## Azure AD Federated avec AD FS On-premise {#azure-ad-federated-with-ad-fs-on-prem}
 
@@ -111,4 +111,3 @@ Presque là ! Il ne nous reste plus qu’à informer la solution Marketo sur le 
 >
 >* [Étape 3 sur 3 : Connexion de la solution Marketo à la connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
 >* [Reconfiguration de la méthode d’authentification Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}
-

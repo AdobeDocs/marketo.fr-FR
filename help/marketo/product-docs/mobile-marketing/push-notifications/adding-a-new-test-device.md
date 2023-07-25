@@ -3,7 +3,8 @@ unique-page-id: 8783146
 description: Ajout d’un nouvel appareil de test - Documents Marketo - Documentation du produit
 title: Ajout d’un nouveau périphérique de test
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%
@@ -48,6 +49,6 @@ Il est facile d’ajouter un nouvel appareil de test auquel envoyer des notifica
 
    ![](assets/image2015-7-17-17-3a33-3a5.png)
 
-1. Les mises à jour d’état pour afficher le périphérique sont ajoutées. Félicitations !
+1. Les mises à jour d’état pour afficher le périphérique sont ajoutées. Félicitations !
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)

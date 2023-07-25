@@ -3,7 +3,8 @@ unique-page-id: 11375276
 description: Dimensions personnalisées pour les statistiques par e-mail - Documents Marketo - Documentation du produit
 title: Dimensions personnalisées pour les informations sur les courriers électroniques
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

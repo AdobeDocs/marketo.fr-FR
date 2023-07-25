@@ -3,7 +3,8 @@ unique-page-id: 4720856
 description: Ajout d’une vue mobile pour votre page d’entrée de formulaire libre - Documents Marketo - Documentation du produit
 title: Ajout d’une vue mobile pour votre page d’entrée de formulaire libre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 3%

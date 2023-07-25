@@ -3,7 +3,8 @@ unique-page-id: 2359718
 description: Ajout d’un bouton Social à une page d’entrée de forme libre - Documents Marketo - Documentation du produit
 title: Ajout d’un bouton Social à une page d’entrée de forme libre
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 2%
@@ -50,7 +51,7 @@ Un bouton social encourage les gens à partager votre contenu avec leurs amis. D
 
    [publier la landing page sur Facebook ;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [placer le bouton social sur votre site web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
-Félicitations ! Vous avez ajouté un bouton social à votre page d’entrée. Veillez à valider la landing page.
+Félicitations ! Vous avez ajouté un bouton social à votre page d’entrée. Veillez à valider la landing page.
 
 >[!MORELIKETHIS]
 >

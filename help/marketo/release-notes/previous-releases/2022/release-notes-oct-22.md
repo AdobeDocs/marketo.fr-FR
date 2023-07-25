@@ -1,7 +1,9 @@
 ---
 description: Notes de mise à jour - Octobre 2022 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Octobre 2022
-source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
+exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 5%
@@ -125,7 +127,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 ![(étoile)](assets/yellow-star.png)
 
-* **Intégration de Sales Insight à Dynamic Chat**: Le tableau de bord des statistiques comprend désormais des activités de conversation dynamique dans la grille dynamique, ainsi qu’un résumé hebdomadaire et des cartes détaillées.
+* **Intégration de Sales Insight à Dynamic Chat**: Le tableau de bord des statistiques comprend désormais des activités de Dynamic Chat dans la grille dynamique, ainsi qu’un résumé hebdomadaire et des cartes détaillées.
 
 <table> 
   <tr> 
@@ -143,7 +145,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 Les fonctionnalités suivantes suivent un format Agile et sont publiées à diverses dates avant ou après la date de publication standard. Vérifiez l’état de chaque fonctionnalité ci-dessous.
 
-* **Organiser automatiquement les flux de dialogue pour la conversation dynamique**: Améliorez votre canevas de dialogue bondé en organisant tout sur la zone de travail dans un format propre et facile à lire en appuyant sur un bouton via l’option Réorganiser automatiquement.
+* **Réorganiser automatiquement les flux de dialogue pour les Dynamic Chat**: Améliorez votre canevas de dialogue bondé en organisant tout sur la zone de travail dans un format propre et facile à lire en appuyant sur un bouton via l’option Réorganiser automatiquement.
 
 <table> 
   <tr> 
@@ -157,7 +159,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Liens de réunion pour la conversation dynamique**: Option permettant d’inclure automatiquement un lien Equipes ou Rencontrer pour Google et Outlook dans chaque invitation calendaire envoyée aux visiteurs.
+* **Liens de réunion pour le Dynamic Chat**: Option permettant d’inclure automatiquement un lien Equipes ou Rencontrer pour Google et Outlook dans chaque invitation calendaire envoyée aux visiteurs.
 
 <table> 
   <tr> 
@@ -171,7 +173,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Prise en charge des types de données supplémentaires pour Dynamic Chat**: Trois nouveaux types de données (booléen, entier, flottant) vous permettent d’exploiter d’autres champs de Marketo Engage existants dans Dynamic Chat pour des tâches comme le ciblage en fonction des scores ou la demande de questions oui/non aux visiteurs.
+* **Prise en charge des types de données supplémentaires pour Dynamic Chat**: Trois nouveaux types de données (booléen, entier, flottant) vous permettent d’exploiter davantage de champs de Marketo Engage existants dans Dynamic Chat pour des tâches comme le ciblage en fonction des scores ou la demande de oui/non aux visiteurs.
 
 <table> 
   <tr> 

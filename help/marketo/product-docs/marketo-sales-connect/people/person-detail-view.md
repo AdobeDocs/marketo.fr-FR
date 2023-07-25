@@ -3,7 +3,8 @@ unique-page-id: 13796475
 description: Vue Détails de la personne - Documents Marketo - Documentation du produit
 title: Vue Détails de la personne
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
-source-git-commit: 540bb61b9accf199e2be841086a6204064762861
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 6%
@@ -47,7 +48,7 @@ Inclut toutes les coordonnées de la personne.
 * Peut ajouter une personne à Salesforce
 * Extraction des informations de compte et de prospect/contact à partir de Salesforce
 
-**Champs personnalisés**
+**Champs  personnalisés**
 
 * Ajouter ou supprimer des champs personnalisés qui peuvent être utilisés comme champs dynamiques dans vos modèles et campagnes
 

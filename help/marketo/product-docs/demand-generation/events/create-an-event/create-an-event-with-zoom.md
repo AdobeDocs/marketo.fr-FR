@@ -3,7 +3,8 @@ unique-page-id: 17728023
 description: Création d’un événement avec zoom - Documents Marketo - Documentation du produit
 title: Création d’un événement avec zoom
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
-source-git-commit: 8b0625a7192a80986bc4295726cd13473493ddd7
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '560'
 ht-degree: 0%
@@ -17,7 +18,6 @@ ht-degree: 0%
 >* [Ajout de Zoom comme service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [Création d’un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Définissez les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)pour suivre l’engagement
-
 
 Commencez par créer votre webinaire dans Zoom. Certains paramètres de création de votre zoom sont utilisés par Marketo, d’autres uniquement par zoom.
 

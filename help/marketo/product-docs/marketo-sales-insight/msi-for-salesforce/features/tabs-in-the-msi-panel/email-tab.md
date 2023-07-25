@@ -2,7 +2,8 @@
 description: Onglet Courrier électronique - Documents Marketo - Documentation du produit
 title: Onglet Email
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%
@@ -39,4 +40,3 @@ Vous pouvez cliquer sur le bouton &quot;Vérifier le statut de la diffusion&quot
 >
 >* L’état de diffusion des emails envoyés par Sales Insight depuis Salesforce CRM n’est pas disponible.
 >* Cet onglet reflète le nom du modèle pour les emails envoyés depuis Marketo et l’objet pour les emails envoyés depuis Sales Insight. Ouvrez en mode aperçu pour afficher l’objet des emails envoyés ou reportez-vous à l’onglet email dans le panneau prospect/contact/compte/opportunité .
-

@@ -3,9 +3,10 @@ unique-page-id: 7516390
 description: Installation du package Marketo Sales Insight dans l’AppExchange Salesforce - Documents Marketo - Documentation du produit
 title: Installation du package Marketo Sales Insight dans l’AppExchange Salesforce
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -72,11 +73,10 @@ Vous devez installer l’application Marketo Sales Insight dans votre abonnement
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-11.png)
 
-Bon boulot ! Vous avez maintenant installé et déployé Marketo Sales Insight. Allez-y et configurez-le pour votre équipe commerciale et regardez la montée en flèche des ventes.
+Très bon travail ! Vous avez maintenant installé et déployé Marketo Sales Insight. Allez-y et configurez-le pour votre équipe commerciale et regardez la montée en flèche des ventes.
 
 >[!MORELIKETHIS]
 >
 >* [Configuration de Marketo Sales Insight dans Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >* [Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [Ajout de l’accès Sales Insight aux profils](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
-
+>* [Ajout de l’accès Sales Insight aux profils](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

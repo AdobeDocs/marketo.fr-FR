@@ -3,7 +3,8 @@ unique-page-id: 3571838
 description: Synchronisation Microsoft Dynamics - Synchronisation des champs - Documents Marketo - Documentation du produit
 title: Synchronisation des champs Microsoft Dynamics
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
-source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%

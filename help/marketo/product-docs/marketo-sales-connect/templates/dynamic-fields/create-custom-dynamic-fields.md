@@ -3,7 +3,8 @@ unique-page-id: 14352508
 description: Création de champs dynamiques personnalisés - Documents Marketo - Documentation du produit
 title: Créer des champs dynamiques personnalisés
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%

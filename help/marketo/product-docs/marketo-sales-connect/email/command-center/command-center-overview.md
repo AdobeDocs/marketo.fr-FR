@@ -3,7 +3,8 @@ unique-page-id: 14352530
 description: Présentation du centre de commandes - Documents Marketo - Documentation du produit
 title: Présentation du centre de commandes
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 2%
@@ -96,4 +97,3 @@ Bonus : Si vous enregistrez votre recherche avancée, elle fonctionnera comme un
 >* [Tâches](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
 >* [Aperçu de la recherche avancée](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
 >* [Composition d’emails en bloc avec sélection et envoi](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
-

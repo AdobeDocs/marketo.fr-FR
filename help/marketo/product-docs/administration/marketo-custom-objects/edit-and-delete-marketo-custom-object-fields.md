@@ -3,7 +3,8 @@ unique-page-id: 10095453
 description: Modification et suppression de champs d’objet personnalisés Marketo - Documents Marketo - Documentation du produit
 title: Modification et suppression de champs d’objet personnalisés Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%

@@ -3,10 +3,11 @@ unique-page-id: 2359837
 description: Déclencheurs et filtres pour les activités sociales - Documents Marketo - Documentation du produit
 title: Déclencheurs et filtres pour les activités sociales
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 25%
+ht-degree: 28%
 
 ---
 
@@ -30,14 +31,14 @@ Dans Marketo, les applications sociales disposent de leurs propres déclencheurs
 
    | Déclencheurs/filtres | Boutons Réseaux sociaux | Sondages | Vidéos | Offres de parrainage | Loteries |
    |---|---|---|---|---|---|
-   | Objectif atteint en parrainage |  |  |  | ![(coche)](assets/check.png) |  |
+   | Objectif atteint en parrainage |  |  |  | ![(coche)](assets/check.png) | |
    | Partage un contenu | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) |
    | Clique sur le lien partagé | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) |
    | Disqualifie les loteries |  |  |  |  | ![(coche)](assets/check.png) |
    | Gagne une entrée dans l&#39;application sociale |  |  |  |  | ![(coche)](assets/check.png) |
    | Participe à la loterie |  |  |  |  | ![(coche)](assets/check.png) |
    | Recommande sur l&#39;application sociale |  |  |  | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) |
-   | S’inscrire à l’offre de parrainage |  |  |  | ![(coche)](assets/check.png) |  |
+   | S&#39;inscrit à une offre de parrainage |  |  |  | ![(coche)](assets/check.png) |  |
    | Participe au sondage |  | ![(coche)](assets/check.png) |  |  |  |
    | Remporte la loterie |  |  |  |  | ![(coche)](assets/check.png) |
 

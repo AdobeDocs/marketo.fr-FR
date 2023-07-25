@@ -3,7 +3,8 @@ unique-page-id: 7513680
 description: Automatisation d’une alerte pour les personnes pouvant être dupliquées - Documents Marketo - Documentation du produit
 title: Automatisation d’une alerte pour les personnes pouvant être dupliquées
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -19,11 +20,11 @@ Souhaitez-vous qu’une alerte soit affichée chaque fois qu’une personne en d
 * Déclencheur : **[!UICONTROL Personne créée]**
 * Filtre : **[!UICONTROL Dupliquer les champs]**. Nom du champ **[!UICONTROL is] [!UICONTROL Nom complet]**
 
-   ![](assets/automate-an-alert-1.png)
+  ![](assets/automate-an-alert-1.png)
 
-   >[!TIP]
-   >
-   >Soyez créatifs ! Testez différents champs pour obtenir de meilleurs résultats de filtrage.
+  >[!TIP]
+  >
+  >Soyez créatifs ! Testez différents champs pour obtenir de meilleurs résultats de filtrage.
 
 1. Dans l’étape de flux, choisissez [[!UICONTROL Envoyer une alerte]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} action de flux.
 

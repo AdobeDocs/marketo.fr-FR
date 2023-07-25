@@ -3,7 +3,8 @@ unique-page-id: 2360366
 description: Étape 3 sur 3 - Connexion de Marketo et de Salesforce (Enterprise/Unlimited) - Documents Marketo - Documentation du produit
 title: Étape 3 sur 3 - Connexion de Marketo et Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Dans cet article, vous allez configurer Marketo pour qu’il se synchronise avec
 >
 >* [Étape 1 sur 3 : Ajout de champs Marketo à Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [Étape 2 sur 3 : Création d’un utilisateur Salesforce pour Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-
 
 ## Récupération du jeton de sécurité utilisateur de synchronisation {#retrieve-sync-user-security-token}
 
@@ -108,4 +108,3 @@ Ouah, vous venez de terminer la configuration de l&#39;une des fonctionnalités 
 >* [Étape 2 sur 3 : Création d’un utilisateur Salesforce pour Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [Installation du package Marketo Sales Insight dans l’AppExchange Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 >* [Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-

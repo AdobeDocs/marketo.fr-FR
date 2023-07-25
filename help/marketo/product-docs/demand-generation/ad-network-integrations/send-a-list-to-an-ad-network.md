@@ -2,7 +2,8 @@
 description: Envoi d’une liste à un réseau publicitaire - Documents Marketo - Documentation du produit
 title: Envoi d’une liste à un réseau publicitaire
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -43,7 +44,7 @@ Découvrez comment envoyer une liste statique à LinkedIn, Facebook ou Google.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 
-## FAQ {#faq}
+## Questions fréquentes {#faq}
 
 **Une seule liste statique peut-elle être synchronisée avec plusieurs audiences publicitaires ?**
 

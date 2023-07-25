@@ -3,7 +3,8 @@ unique-page-id: 2952402
 description: Filtrage des types d’activité dans le journal d’activité d’une personne - Documents Marketo - Documentation du produit
 title: Filtrage des types d’activité dans le journal d’activité d’une personne
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%

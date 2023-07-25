@@ -3,7 +3,8 @@ unique-page-id: 2953384
 description: Activer la synchronisation pour une entité personnalisée - Documents Marketo - Documentation du produit
 title: Activation de la synchronisation pour une entité personnalisée
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
-source-git-commit: 79cfb0396f690a370cdce4e4df3a23c7439c252e
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -22,7 +23,6 @@ Si vous avez besoin que les données d’entité personnalisées de Dynamics soi
 >
 >* Lorsque vous activez la synchronisation pour une entité personnalisée, Marketo effectue une synchronisation initiale afin d’importer toutes les données de l’objet personnalisé.
 >* Les membres de la liste marketing et de la liste marketing sont **non pris en charge** à ce moment-là.
-
 
 >[!IMPORTANT]
 >

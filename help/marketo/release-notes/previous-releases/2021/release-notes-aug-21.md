@@ -2,7 +2,8 @@
 description: Notes de mise à jour - Août 2021 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Août 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '925'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 1147013
 description: Modifier l’cadence du programme d’engagement - Documents Marketo - Documentation du produit
 title: Modifier le rythme du programme d'engagement
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 9%
@@ -12,7 +13,7 @@ ht-degree: 9%
 
 # Modifier le rythme du programme d&#39;engagement {#change-engagement-program-cadence}
 
-1. APERÇU
+1. Vue d’ensemble
 
    Une fois qu’une personne est soutenue par un programme d’engagement, vous pouvez suspendre temporairement la prise en charge de cette personne à l’aide de cette étape de flux.
 

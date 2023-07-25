@@ -3,7 +3,8 @@ unique-page-id: 4720232
 description: Création d’une liste de comptes - Documents Marketo - Documentation du produit
 title: Créer une liste de comptes
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 12%
@@ -45,7 +46,6 @@ Créez et chargez une liste de noms d’organisation et de domaine pour cibler c
    >* Vous recevrez un e-mail de notification de validation ou un avis d’état du fichier dans la page des comptes nommés.
    >* Le nombre total d&#39;enregistrements/lignes cumulés pour toutes vos listes téléchargées commence à 10K, avec le plus grand package totalisant 100K.
 
-
    >[!NOTE]
    >
    >**Exemple de fichier CSV**
@@ -56,10 +56,9 @@ Créez et chargez une liste de noms d’organisation et de domaine pour cibler c
    >* Ligne 1 colonne D valeur = Etat des États-Unis
    >* L’une des valeurs de colonne est obligatoire. Cependant, le fait de fournir des noms d’organisation et de domaine améliore les taux de correspondance de la liste de comptes.
    >* Pays et Etat sont des valeurs facultatives.
-      >
-      >   * Pour le nom du pays, utilisez le nom du pays complet ou le code d’abréviation. Par exemple, États-Unis ou États-Unis.
-      >   * Pour un état des États-Unis, utilisez le code d’abréviation de 2 lettres, c’est-à-dire CA. Seuls les États américains sont reconnus.
-
+   >
+   >   * Pour le nom du pays, utilisez le nom du pays complet ou le code d’abréviation. Par exemple, États-Unis ou États-Unis.
+   >   * Pour un état des États-Unis, utilisez le code d’abréviation de 2 lettres, c’est-à-dire CA. Seuls les États américains sont reconnus.
    >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 

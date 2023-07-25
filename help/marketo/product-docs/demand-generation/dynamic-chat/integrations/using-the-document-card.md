@@ -2,9 +2,10 @@
 description: Utilisation de la carte de document - Documents Marketo - Documentation du produit
 title: Utilisation de la carte de document
 exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 La vignette Document permet d’incorporer des documents PDF dans les boîtes de dialogue et de suivre l’activité d’engagement des visiteurs dans les documents. Voici comment le mettre en place.
 
-1. Accédez à [API Adobe PDF Incorporer](https://udp.adobe.io/document-services/apis/pdf-embed/){target=&quot;_blank&quot;}.
+1. Accédez à [API Adobe PDF Incorporer](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
 1. Cliquez sur **Obtention des informations d’identification**.
 
@@ -35,7 +36,7 @@ La vignette Document permet d’incorporer des documents PDF dans les boîtes de
 
    ![](assets/using-the-document-card-4.png)
 
-1. De retour dans Dynamic Chat, cliquez sur **Intégrations**. Dans la carte de l’API intégrée Adobe PDF, cliquez sur **Activer**.
+1. De retour en Dynamic Chat, cliquez sur **Intégrations**. Dans la carte de l’API intégrée Adobe PDF, cliquez sur **Activer**.
 
    ![](assets/using-the-document-card-5.png)
 

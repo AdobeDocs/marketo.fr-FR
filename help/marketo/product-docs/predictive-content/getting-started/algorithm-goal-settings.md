@@ -3,7 +3,8 @@ unique-page-id: 14745750
 description: Paramètres d’objectif d’algorithme - Documents Marketo - Documentation du produit
 title: Paramètres de l’objectif d’algorithme
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 30%

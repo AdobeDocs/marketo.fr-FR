@@ -3,9 +3,10 @@ unique-page-id: 37355569
 description: Champs personnalisés des membres du programme - Documents Marketo - Documentation du produit
 title: Champs personnalisés des membres du programme
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '411'
 ht-degree: 1%
 
 ---
@@ -42,7 +43,7 @@ Les champs personnalisés Membres du programme vous permettent de collecter des 
 
    >[!NOTE]
    >
-   >Les types pris en charge pour les champs personnalisés des membres du programme sont les suivants : booléen, date, datetime, float, entier, chaîne, URL. [En savoir plus sur les types de champ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target=&quot;_blank&quot;}.
+   >Les types pris en charge pour les champs personnalisés des membres du programme sont les suivants : booléen, date, datetime, float, entier, chaîne, URL. [En savoir plus sur les types de champ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## Descriptions des objets {#object-descriptions}
 
@@ -55,7 +56,7 @@ Les champs personnalisés Membres du programme vous permettent de collecter des 
 
 ## Déclencheurs et filtres {#triggers-and-filters}
 
-Vous pouvez exploiter ces données spécifiques au programme dans des listes dynamiques via [triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target=&quot;_blank&quot;} et/ou [filtres](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target=&quot;_blank&quot;}.
+Vous pouvez exploiter ces données spécifiques au programme dans des listes dynamiques via [triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
@@ -63,18 +64,17 @@ Vous pouvez exploiter ces données spécifiques au programme dans des listes dyn
 
 * Les champs personnalisés Membres du programme sont disponibles uniquement dans les ressources locales. Ils ne sont pas pris en charge dans Design Studio, car il n’existe aucun moyen de le lier à un programme spécifique.
 * Vous ne pouvez pas cloner/déplacer un formulaire (ou une landing page avec un formulaire) contenant des champs personnalisés de membre de programme vers Design Studio.
-* [Vous pouvez synchroniser](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;} : champ personnalisé du membre de programme avec champs personnalisés du membre de campagne.
+* [Vous pouvez synchroniser](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} les Champs personnalisés des membres du programme avec des champs personnalisés des membres de campagne.
 * L’objet membre du programme peut comporter jusqu’à 20 champs personnalisés. Ces champs sont disponibles pour tous les programmes.
 * Lorsque vous supprimez un membre d’un programme, si le champ personnalisé Membre du programme contient des données, celles-ci sont supprimées de ce champ.
 * Pour afficher les données, cliquez sur l’onglet Membres du programme et créez une vue personnalisée qui inclut ces champs.
-* Import et export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} et [API](https://developers.marketo.com/){target=&quot;_blank&quot;} sont pris en charge. Les exportations ne fonctionnent que sur les listes de membres de programme, et non sur les listes statiques.
+* Import et export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} sont prises en charge. Les exportations ne fonctionnent que sur les listes de membres de programme, et non sur les listes statiques.
 * Lorsque vous fusionnez deux personnes, les données de champ personnalisé Membre du programme du gagnant sont utilisées. Mais si le gagnant n’en a pas, la valeur du perdant sera utilisée.
 * Le type de modification n’est pas autorisé dans les champs Informations sur les membres du programme.
 * La contrainte Liste dynamique &quot;contient&quot; n’est pas prise en charge pour les champs personnalisés Membres du programme.
 
 >[!MORELIKETHIS]
 >
->* [Création d’un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>* [Création d’un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
 >
->* [Synchronisation des champs personnalisés des membres du programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}
-
+>* [Synchronisation des champs personnalisés des membres du programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}

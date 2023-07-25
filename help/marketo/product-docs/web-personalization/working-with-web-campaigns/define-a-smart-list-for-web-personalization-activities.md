@@ -3,7 +3,8 @@ unique-page-id: 10097867
 description: Définition d’une liste dynamique pour les activités de personnalisation web - Documents Marketo - Documentation du produit
 title: Définition d’une liste dynamique pour les activités de personnalisation web
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -63,4 +64,3 @@ Utilisez un trigger pour envoyer un email ou une alerte, ou pour modifier une va
    >* [Définition d’une liste dynamique pour Smart Campaign | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [Ajout d’une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [Définition d’une liste dynamique pour les activités de contenu prédictif](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 4720125
 description: Intégration de RTP à Google Universal Analytics - Documents Marketo - Documentation du produit
 title: Intégration de RTP à Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 2%
@@ -33,7 +34,6 @@ Google Universal Analytics avec les données de RTP vous permet de mieux compren
 >* L’intégration de Google Universal Analytics est activée dans les paramètres du compte RTP
 >* [La balise Google Universal Analytics est correctement configurée dans Google Tag Manager.](https://support.google.com/tagmanager/answer/6107124?hl=en)
 >* [La balise Gestionnaire de balises de Google est correctement installée sur votre site web.](https://developers.google.com/tag-manager/quickstart)
-
 
 ## Configuration de Dimensions personnalisées dans GUA {#set-up-custom-dimensions-in-gua}
 

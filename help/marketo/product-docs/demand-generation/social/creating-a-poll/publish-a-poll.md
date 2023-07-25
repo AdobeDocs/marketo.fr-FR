@@ -3,7 +3,8 @@ unique-page-id: 2359770
 description: Publication d’un sondage - Documents Marketo - Documentation du produit
 title: Publication d’un sondage
 exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -30,7 +31,7 @@ Après vous [création d’un sondage](/help/marketo/product-docs/demand-generat
 >
 >Vous devez approuver votre sondage pour le rendre disponible ici.
 
-Félicitations ! Validez la landing page et votre sondage est actif. Vous pouvez également [publier la landing page sur Facebook ;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer le sondage sur votre site web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Félicitations ! Validez la landing page et votre sondage est actif. Vous pouvez également [publier la landing page sur Facebook ;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer le sondage sur votre site web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >

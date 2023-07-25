@@ -3,7 +3,8 @@ unique-page-id: 17727818
 description: Utilisation de Personas - Documents Marketo - Documentation du produit
 title: Utilisation des personnages
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -66,6 +67,6 @@ Affichez vos personnages en consultant un compte nommé spécifique.
 
 ## Filtres de personnalisation {#persona-filters}
 
-1. Utilisez des filtres de personnage dans une liste dynamique pour les commercialiser auprès d’un groupe de personnes spécifique.
+1. Utilisez des filtres de personnage dans une liste dynamique pour les commercialiser auprès d’un groupe spécifique de personnes.
 
 ![](assets/one-b.png)

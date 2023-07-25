@@ -3,7 +3,8 @@ unique-page-id: 4720710
 description: Configuration de SPF et DKIM pour la délivrabilité de vos emails - Documents Marketo - Documentation du produit
 title: Configuration de SPF et DKIM pour la délivrabilité de vos emails
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '434'
 ht-degree: 0%
@@ -53,4 +54,3 @@ Reportez-vous à la section [Configuration d’une signature DKIM personnalisée
 >* [En savoir plus sur SPF et son fonctionnement](http://www.open-spf.org/Introduction/){target="_blank"}
 >* [Mon SPF est-il correctement configuré ?](https://www.kitterman.com/spf/validate.html){target="_blank"}
 >* [Ai-je utilisé la syntaxe appropriée ?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
-

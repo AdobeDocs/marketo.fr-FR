@@ -3,7 +3,8 @@ unique-page-id: 8783141
 description: Envoyer un exemple de notification push - Documents Marketo - Documentation du produit
 title: Envoi d’un exemple de notification push
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -57,6 +58,5 @@ Vous pouvez envoyer un exemple pour vérifier que votre notification push foncti
    >* Les notifications push sont activées pour l’application associée à la notification push.
    >
    >* La notification push est configurée pour la plateforme de votre appareil de test. Par exemple, si vous venez d’ajouter iPhone en tant qu’appareil de test, assurez-vous que la notification push est activée pour iOS.
-
 
 Easy!

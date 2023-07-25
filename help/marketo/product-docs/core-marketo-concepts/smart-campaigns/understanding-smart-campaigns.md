@@ -3,7 +3,8 @@ unique-page-id: 2953120
 description: Présentation des campagnes dynamiques - Documents Marketo - Documentation du produit
 title: Présentation des campagnes intelligentes
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 4%
@@ -46,7 +47,7 @@ Vous pouvez combiner des filtres de différentes manières et les utiliser conjo
 
 Le flux comprend les étapes que vous souhaitez que la campagne dynamique effectue, y compris les étapes d’attente et les choix de partage.
 
-## Programmation {#schedule}
+## Planning {#schedule}
 
 Enfin, cela contrôle lorsque vous exécutez votre campagne dynamique. Vous pouvez même configurer la périodicité de sorte qu’elle s’exécute selon un planning répété.
 

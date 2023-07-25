@@ -3,7 +3,8 @@ unique-page-id: 14352442
 description: Ajout d’un élément de contenu - Documents Marketo - Documentation du produit
 title: Ajout d’un élément de contenu
 exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%

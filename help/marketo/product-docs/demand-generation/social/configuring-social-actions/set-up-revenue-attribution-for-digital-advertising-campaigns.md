@@ -3,7 +3,8 @@ unique-page-id: 10098812
 description: Configuration de l’attribution des recettes pour les campagnes publicitaires numériques - Documents Marketo - Documentation du produit
 title: Configuration de l’attribution des recettes pour les campagnes publicitaires numériques
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%
@@ -23,7 +24,6 @@ Avec des programmes distincts, vous pouvez ensuite suivre le nombre de conversio
 >* Configuration d’une balise de canal avec des valeurs d’état et la réussite du programme (par exemple, publicité numérique ou Social payante et PPC)
 >* Créer ou modifier un formulaire pour transmettre une chaîne de requête à la personne
 >* Assurez-vous d’avoir accès à certaines fonctionnalités de Revenu Cycle Analytics pour créer des rapports sur vos canaux publicitaires et campagnes.
-
 
 ## Création d’un programme par défaut {#create-a-default-program}
 
@@ -112,7 +112,6 @@ Après avoir configuré le programme et les campagnes, créez la nouvelle public
    >* **comment** est l’identifiant unique créé pour chaque programme.
    >* **camp** est la campagne dans Facebook, LinkedIn ou Google ;
    >* **kk** est le mot-clé ou le nom de ressource que vous souhaitez capturer.
-
    >
    >**Ces quatre termes doivent être en minuscules et l’URL ne peut contenir aucun espace pour que ces informations soient capturées.**
 

@@ -3,9 +3,10 @@ unique-page-id: 37356194
 description: Envoi d’une liste à Adobe Experience Cloud - Documents Marketo - Documentation du produit
 title: Envoi d’une liste à Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
+feature: Static Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '768'
 ht-degree: 1%
 
 ---
@@ -18,7 +19,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[Configuration du mappage de l’organisation Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}
+>[Configuration du mappage de l’organisation Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
 
 ## Applications de destination prises en charge {#supported-destination-applications}
 
@@ -103,7 +104,7 @@ Lorsque vous lancez l’exportation d’une liste dans Marketo, les modification
 * Pour tous les ECID que Marketo a réussi à faire correspondre aux Leads de la liste exportée, Marketo crée une caractéristique à l’aide de l’identifiant de périphérique ECID. Le nom de la caractéristique correspond au nom de l’audience de destination que vous avez spécifié lors de l’exportation.
 * Marketo crée également un segment dans votre instance d’Audience Manager en utilisant la caractéristique ECID comme seul critère de segmentation. Le nom du segment correspond au nom de l’audience de destination que vous avez spécifié lors de l’exportation.
 
-## FAQ {#faq}
+## Questions fréquentes {#faq}
 
 **Pourquoi la taille de la liste dans Marketo est-elle différente de celle de l’Adobe ?**
 

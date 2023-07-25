@@ -2,7 +2,8 @@
 description: Modification de votre mot de passe de vente Marketo - Documents Marketo - Documentation du produit
 title: Modification du mot de passe des ventes Marketo
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -35,7 +36,6 @@ Vous devez changer votre mot de passe ? Voici comment.
 >* Utilisation de majuscules/minuscules (en haut et en bas)
 >* Inclure un nombre
 >* Inclure un caractère spécial
-
 
 ## Modifier votre mot de passe lors de la déconnexion {#change-your-password-while-signed-out}
 

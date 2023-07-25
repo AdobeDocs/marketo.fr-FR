@@ -3,7 +3,8 @@ unique-page-id: 1147136
 description: Modification des entrées dans la vue Planification du programme - Documents Marketo - Documentation du produit
 title: Modification des entrées en mode Planification du programme
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%

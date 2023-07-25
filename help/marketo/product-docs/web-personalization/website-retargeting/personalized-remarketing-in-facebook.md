@@ -3,7 +3,8 @@ unique-page-id: 4720917
 description: Remarketing personnalisé dans Facebook - Documents Marketo - Documentation du produit
 title: Remarketing personnalisé dans Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 6%
@@ -18,7 +19,6 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 >
 >* Procédez comme suit : [Reciblage à l’aide de données de personnalisation web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) setup
 >* Consultez la section [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Documentation facebook sur les audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) et Remarketing.
-
 
 ## Création d’une audience dans Facebook {#creating-an-audience-in-facebook}
 
@@ -84,7 +84,7 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
        </tr> 
        <tr> 
         <td colspan="1">Groupe</td> 
-        <td colspan="1"><p>Entreprise</p><p>Small &amp; Medium Business</p></td> 
+        <td colspan="1"><p>Entreprise</p><p>PME</p></td> 
        </tr> 
        <tr> 
         <td>Secteur</td> 
@@ -131,4 +131,3 @@ Pour plus d’informations, voir [Documentation de facebook](https://developers.
 >
 >* [Reciblage à l’aide de données de personnalisation web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Remarketing personnalisé dans Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-

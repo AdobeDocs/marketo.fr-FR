@@ -3,7 +3,8 @@ unique-page-id: 11377488
 description: Installation du module complémentaire Marketo pour Outlook avec une clé d’entreprise - Documents Marketo - Documentation du produit
 title: Installation du module complémentaire Marketo pour Outlook avec une clé d’entreprise
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Marketo Sales Insights
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%

@@ -2,7 +2,8 @@
 description: Exportation de toutes les métadonnées d’objet - Documents Marketo - Documentation du produit
 title: Exporter toutes les métadonnées d’objet
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 17%

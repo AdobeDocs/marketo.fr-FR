@@ -3,7 +3,8 @@ unique-page-id: 10096583
 description: "Génération suivante [!DNL Munchkin] FAQ sur le suivi - Documents Marketo - Documentation du produit"
 title: "Génération suivante [!DNL Munchkin] FAQ sur le suivi"
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Munchkin Tracking Code
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '716'
 ht-degree: 0%
@@ -55,7 +56,6 @@ Si vous utilisez déjà ce filtre dans une liste dynamique (par exemple, dans un
 >* Ayez un moment intéressant consigné pour elle (avec la date à laquelle elle a réellement visité la page, et non quand elle a été connue)
 >
 >* Consignez une activité &quot;Nouvelle personne&quot; comme aujourd’hui
-
 
 ## Qu’advient-il de mes listes dynamiques qui disposent déjà du filtre &quot;Est-ce anonyme&quot; ? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 

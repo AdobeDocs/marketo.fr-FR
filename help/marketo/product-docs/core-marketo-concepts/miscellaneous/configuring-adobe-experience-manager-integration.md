@@ -5,7 +5,8 @@ title: Configuration de l’intégration Adobe Experience Manager
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -25,7 +26,6 @@ Configurez Adobe Experience Manager (AEM) afin que vous puissiez accéder à des
 >* Cette intégration fonctionne uniquement avec les implémentations on-premise d’AEM et n’est pas prise en charge pour les implémentations AEM Cloud Service.
 >
 >* Actuellement, cette fonctionnalité n’est entièrement prise en charge que dans Firefox. Elle n’est pas prise en charge dans Safari et peut ne pas fonctionner dans la dernière version de Chrome, selon vos paramètres de cookie SameSite.
-
 
 1. Accédez à Adobe Experience Manager (l’URL est spécifique à votre entreprise).
 

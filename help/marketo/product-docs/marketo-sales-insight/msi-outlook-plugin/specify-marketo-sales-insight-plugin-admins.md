@@ -3,7 +3,8 @@ unique-page-id: 11377552
 description: Spécification des administrateurs du module externe Marketo Sales Insight - Documents Marketo - Documentation du produit
 title: Spécification des administrateurs de module externe Marketo Sales Insight
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%

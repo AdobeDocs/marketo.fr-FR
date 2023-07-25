@@ -3,7 +3,8 @@ unique-page-id: 2359510
 description: Suppression d’une segmentation - Documents Marketo - Documentation du produit
 title: Suppression d’une segmentation
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Segmentation
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

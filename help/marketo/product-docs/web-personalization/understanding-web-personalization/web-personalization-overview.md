@@ -3,7 +3,8 @@ unique-page-id: 3571900
 description: Présentation de la personnalisation web - Documents Marketo - Documentation du produit
 title: Présentation de la personnalisation web
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 2%
@@ -60,7 +61,6 @@ L’onglet Organisations affiche tous les détails (nom, emplacement, activité 
 >* Le plus Principal : les organisations les plus principales du tableau, en fonction du nombre de pages vues ;
 >* Dernière version : les organisations les plus récentes dans le tableau (par défaut)
 >* Pour obtenir des informations précieuses, filtrez selon les plus principaux
-
 
 **Organisations - Panneau de droite**
 

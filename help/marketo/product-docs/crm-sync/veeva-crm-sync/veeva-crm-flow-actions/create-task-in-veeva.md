@@ -2,9 +2,10 @@
 description: Créer une tâche à Veeva - Documents Marketo - Documentation du produit
 title: Créer une tâche à Veeva
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
-source-git-commit: dfd0ab50a6d77cf88767cc6fb3fe3f2874e0607b
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -29,4 +30,4 @@ Personnalisez tous les champs pour créer la tâche comme vous le souhaitez.
 
 >[!TIP]
 >
->Vous pouvez utiliser `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` et `{{system.tokens}}` dans l’ objet et la description. Voir [Jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target=&quot;_blank&quot;} pour plus d’informations.
+>Vous pouvez utiliser `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` et `{{system.tokens}}` dans l’ objet et la description. Voir [Jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} pour plus d’informations.

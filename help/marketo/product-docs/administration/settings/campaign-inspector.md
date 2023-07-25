@@ -2,7 +2,8 @@
 description: Inspecteur de campagne - Documents Marketo - Documentation du produit
 title: Inspecteur de campagne
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Campaign Inspector
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 7%

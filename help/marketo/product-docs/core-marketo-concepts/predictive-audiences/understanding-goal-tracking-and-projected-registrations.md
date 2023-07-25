@@ -2,9 +2,10 @@
 description: Présentation du suivi des objectifs et des inscriptions prévues - Documents Marketo - Documentation du produit
 title: Comprendre le suivi des objectifs et les inscriptions prévues
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Predictive Audiences
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '986'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ Voici comment suivre la progression de votre objectif et comprendre les prédict
 
 >[!PREREQUISITES]
 >
->Pour accéder à la plupart de ces fonctionnalités, veillez à activer la fonction [bascule nouvelle génération](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;} pour les programmes d’événements.
+>Pour accéder à la plupart de ces fonctionnalités, veillez à activer la fonction [bascule nouvelle génération](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} pour les programmes d’événement.
 
 >[!NOTE]
 >
@@ -59,12 +60,12 @@ Dans le calcul de programmes similaires, nous incluons les facteurs suivants, en
 
 * Type de programme
 * Canal programme
-* Taille d’audience
+* Taille de l&#39;audience
 * Balises de programme
 * Durée de la création de l’événement au début de l’événement
 * Durée de l’événement
 
-   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
+  ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Recommandations
 
@@ -82,7 +83,7 @@ Cliquez sur le bouton **[!UICONTROL Membres]** pour afficher tous les membres d
 >
 >La probabilité individuelle prend en compte plus de 40 facteurs liés à la personne, y compris les attributs de profil, l’activité de la personne et les activités passées d’invité/enregistré/assisté.
 
-## FAQ
+## Questions fréquentes
 
 **Q : Qu’est-ce que le segment ?**
 

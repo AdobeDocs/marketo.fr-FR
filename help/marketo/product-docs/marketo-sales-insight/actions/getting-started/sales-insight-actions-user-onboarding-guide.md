@@ -2,7 +2,8 @@
 description: Guide d’intégration des utilisateurs des actions Sales Insight - Documents Marketo - Documentation du produit
 title: Guide d’intégration des utilisateurs des actions Sales Insight
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -19,7 +20,6 @@ ht-degree: 0%
 >
 >* Un administrateur doit inviter un utilisateur à commencer à utiliser MSI-Actions.
 >* Pour activer votre compte avec Salesforce, vous devez avoir &quot;API activée&quot; dans les autorisations de profil Salesforce.
-
 
 Les nouveaux utilisateurs devront suivre les étapes ci-dessous.
 

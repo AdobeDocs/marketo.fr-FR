@@ -2,7 +2,8 @@
 description: Utilisation de HTML - Documents Marketo - Documentation du produit
 title: Utilisation du HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

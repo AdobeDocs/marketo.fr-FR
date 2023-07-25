@@ -3,7 +3,8 @@ unique-page-id: 1147040
 description: Attribuer du crédit au référent - Documents Marketo - Documentation du produit
 title: Créditer le référent
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 14%
@@ -12,7 +13,7 @@ ht-degree: 14%
 
 # Créditer le référent {#give-credit-to-referrer}
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Lors de l’exécution d’une [offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez accorder du crédit au référent à l’aide de différentes méthodes :
 

@@ -3,7 +3,8 @@ unique-page-id: 2359532
 description: Utilisation de contenu dynamique dans une page d’entrée - Documents Marketo - Documentation du produit
 title: Utilisation de contenu dynamique dans une page d’entrée
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -17,7 +18,6 @@ ht-degree: 0%
 >* [Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Création d’une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 >* [Ajouter un nouveau formulaire à une page d’entrée de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
 
 L’utilisation de contenu dynamique dans les landing pages engage les personnes avec des informations ciblées.
 
@@ -81,4 +81,3 @@ Voila ! Vous pouvez maintenant envoyer du contenu ciblé.
 >
 >* [Aperçu d’une page d’entrée avec du contenu dynamique](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
 >* [Utilisation de contenu dynamique dans un email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-

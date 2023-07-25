@@ -3,7 +3,8 @@ unique-page-id: 1147019
 description: Convertir une personne - Documents Marketo - Documentation du produit
 title: Convertir individu
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 5%
@@ -16,7 +17,7 @@ ht-degree: 5%
 >
 >Disponible uniquement lorsqu’il est intégré à Salesforce.
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 Utilisez cette étape de flux pour convertir une personne en contact dans Salesforce. Vous pouvez choisir à qui affecter le contact, envoyer une notification au propriétaire et définir un statut converti.
 

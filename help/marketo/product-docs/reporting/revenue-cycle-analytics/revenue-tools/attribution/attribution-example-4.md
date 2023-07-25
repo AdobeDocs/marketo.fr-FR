@@ -3,7 +3,8 @@ unique-page-id: 7514151
 description: Exemple d’attribution 4 - Documents Marketo - Documentation du produit
 title: Exemple d’attribution 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 5%
@@ -23,7 +24,7 @@ Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se 
 
 | Nom du programme | (Contenu) | (Webinaire) |
 |---|---|---|
-|  | (Opty 1) | (Opty 2) | (Opty 1) | (Opty 2) |
+|   | (Opty 1) | (Opty 2) | (Opty 1) | (Opty 2) |
 | (MT) Opty Created | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Pipeline créé | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |
 | (MT) Opty Won | `<pre>0.5</pre>` | `<pre>0</pre>` | `<pre>0.5</pre>` | `<pre>0</pre>` |
@@ -47,7 +48,6 @@ Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se 
 >1. Tu ne peux pas donner plus de crédit que tu n&#39;as gagné.
 >1. On ne peut pas créditer quelque chose qui s&#39;est passé dans le passé.
 
-
 Essayez tous les exemples et vous serez en faveur de l’attribution !
 
 >[!MORELIKETHIS]
@@ -55,4 +55,3 @@ Essayez tous les exemples et vous serez en faveur de l’attribution !
 >* [Exemple d’attribution 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
 >* [Exemple d’attribution 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
 >* [Exemple d’attribution 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
-

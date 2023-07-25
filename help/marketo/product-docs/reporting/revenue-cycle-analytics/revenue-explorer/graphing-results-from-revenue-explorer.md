@@ -3,7 +3,8 @@ unique-page-id: 10095084
 description: Graphique Des Résultats À Partir De L’Explorateur De Recettes - Documents Marketo - Documentation Du Produit
 title: Graphique Des Résultats À Partir De L’Explorateur De Recettes
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%

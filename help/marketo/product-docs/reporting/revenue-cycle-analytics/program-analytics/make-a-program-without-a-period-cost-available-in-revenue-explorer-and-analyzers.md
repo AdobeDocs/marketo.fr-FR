@@ -3,7 +3,8 @@ unique-page-id: 2360389
 description: Rendre un programme sans coût de période disponible dans l’Explorateur de recettes et les Analyseurs - Documents Marketo - Documentation du produit
 title: Rendre un programme sans coût de période disponible dans l’Explorateur des recettes et les Analyseurs
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%

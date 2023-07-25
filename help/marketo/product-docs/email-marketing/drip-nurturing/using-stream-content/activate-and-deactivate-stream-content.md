@@ -3,10 +3,11 @@ unique-page-id: 2359669
 description: Activation et désactivation du contenu de diffusion - Documents Marketo - Documentation du produit
 title: Activation et désactivation du contenu de diffusion en continu
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -36,7 +37,7 @@ Par défaut, le contenu de la diffusion est désactivé. Activez le contenu pour
    >
    >Vous pouvez également activer tout le contenu d’un flux en cliquant sur l’icône d’engrenage au niveau supérieur, puis en cliquant sur **Activer tout le contenu**.
 
-   Beau travail ! Vous savez maintenant comment activer le contenu dans vos flux.
+   Beau travail ! Vous savez maintenant comment activer le contenu dans vos flux.
 
 ## Désactivation du contenu de diffusion {#deactivate-stream-content}
 

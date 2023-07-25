@@ -3,7 +3,8 @@ unique-page-id: 2359491
 description: Ajout d’un test A/B - Documents Marketo - Documentation du produit
 title: Ajout d’un test A/B
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -18,7 +19,6 @@ ht-degree: 0%
 >* [Définition d’une audience avec une liste dynamique](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Définition d’une audience en important une liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
 >* [Choisir un email existant](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou [Création d’un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
 
 Le test est un excellent moyen d’optimiser vos emails pour un meilleur engagement. Voici comment commencer.
 
@@ -50,4 +50,3 @@ Le test est un excellent moyen d’optimiser vos emails pour un meilleur engagem
 >* [Utiliser le test A/B &quot;E-mail entier&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
 >* [Utiliser le test A/B &quot;A partir de l’adresse&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
 >* [Utiliser le test A/B &quot;Date/Heure&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
-

@@ -2,7 +2,8 @@
 description: Ajout ou suppression d’utilisateurs de messagerie instantanée - Documents Marketo - Documentation du produit
 title: Ajout ou suppression d’utilisateurs de conversation
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -47,9 +48,9 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs de chat
 
    ![](assets/add-or-remove-chat-users-7.png)
 
-## Ajout d’un accès à la messagerie dynamique au rôle Marketo {#add-dynamic-chat-access-to-marketo-role}
+## Ajout d’un accès Dynamic Chat au rôle Marketo {#add-dynamic-chat-access-to-marketo-role}
 
-Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’est pas déjà autorisé, voici comment l’ajouter.
+Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’a pas déjà l’autorisation du Dynamic Chat, voici comment l’ajouter.
 
 1. Dans Marketo, cliquez sur **Administration** et sélectionnez **Utilisateurs et rôles**.
 
@@ -63,7 +64,7 @@ Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’est pas dé
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Sélectionner **Accès à la messagerie dynamique** et cliquez sur **Enregistrer**.
+1. Sélectionner **Dynamic Chat d’accès** et cliquez sur **Enregistrer**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -101,4 +102,3 @@ Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’est pas dé
 >
 >* [Utilisateurs de Adobe Admin Console](https://helpx.adobe.com/enterprise/using/users.html)
 >* [Gérer les utilisateurs individuellement](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
-

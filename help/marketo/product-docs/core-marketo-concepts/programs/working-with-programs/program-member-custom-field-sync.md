@@ -2,10 +2,11 @@
 description: Synchronisation des champs personnalisés des membres du programme - Documents Marketo - Documentation du produit
 title: Synchronisation des champs personnalisés des membres du programme
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 6%
+source-wordcount: '355'
+ht-degree: 7%
 
 ---
 
@@ -13,9 +14,8 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->* Création de [Champs personnalisés des membres du programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target=&quot;_blank&quot;}
->* [Synchronisation d’une campagne Salesforce avec un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target=&quot;_blank&quot;}
-
+>* Création de [Champs personnalisés des membres du programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* [Synchronisation d’une campagne Salesforce avec un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -118,7 +118,7 @@ Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter
       <td>Chaîne</td>
     </tr>
     <tr>
-      <td>Adresse e-mail</td>
+      <td>E-mail</td>
       <td>Chaîne</td>
     </tr>
     <tr>
@@ -127,11 +127,11 @@ Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter
     </tr>
     <tr>
       <td>Number(m,n)</td>
-      <td>Flottante</td>
+      <td>Flottant</td>
     </tr>
     <tr>
       <td>Case à cocher</td>
-      <td>Booléenne</td>
+      <td>Booléen</td>
     </tr>
     <tr>
       <td>URL</td>
@@ -158,7 +158,6 @@ Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter
 
 >[!MORELIKETHIS]
 >
->* [Modification des données des membres du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target=&quot;_blank&quot;}
->* [Affichage des données sur la grille Programme Member](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target=&quot;_blank&quot;}
->* [Synchronisation SFDC - Synchronisation des campagnes](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target=&quot;_blank&quot;}
-
+>* [Modifier les données du membre du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [Affichage des données sur la grille Programme Member](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [Synchronisation SFDC - Synchronisation des campagnes](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

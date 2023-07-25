@@ -3,7 +3,8 @@ unique-page-id: 2360203
 description: Création d’un rôle d’utilisateur API uniquement - Documents Marketo - Documentation du produit
 title: Création d’un rôle d’utilisateur API uniquement
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Users and Roles
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%

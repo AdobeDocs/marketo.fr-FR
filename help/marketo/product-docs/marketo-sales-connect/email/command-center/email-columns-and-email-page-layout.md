@@ -3,10 +3,11 @@ unique-page-id: 37357302
 description: Colonnes de courrier électronique et mise en page de page de courrier électronique - Documents Marketo - Documentation du produit
 title: Colonnes de courrier électronique et mise en page de la page de courrier électronique
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '506'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -91,7 +92,7 @@ Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit
    <td>Boutons d’action rapide pouvant être utilisés pour le suivi par email, téléphone, inMail ou tâche.</td> 
   </tr> 
   <tr> 
-   <td>Courriel du groupe</td> 
+   <td>E-mail groupé</td> 
    <td>Affiche une coche si le courrier électronique a été envoyé dans le cadre d’un message électronique de groupe.</td> 
   </tr> 
   <tr> 
@@ -99,7 +100,7 @@ Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit
    <td>Affiche la date d’échéance des tâches liées au courrier électronique. Les tâches peuvent être liées à un email en étant créées à partir des boutons d’action rapide de la liste des emails.</td> 
   </tr> 
   <tr> 
-   <td>Action Courrier électronique</td> 
+   <td>Action d’e-mail</td> 
    <td>Boutons d’action rapide pouvant être utilisés pour exécuter une action sur l’email. Selon l’état de l’email, les actions suivantes peuvent être disponibles : Archivage, Réussite, Suppression, Réessayer Envoi, Désarchivage.</td> 
   </tr> 
   <tr> 
@@ -107,7 +108,7 @@ Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit
    <td>Affiche le type de tâche d’une tâche liée à l’email. Les tâches peuvent être liées à un email en étant créées à partir des boutons d’action rapide de la liste des emails.</td> 
   </tr> 
   <tr> 
-   <td>Date d’échec</td> 
+   <td>Échec de la date</td> 
    <td>Affiche la date d’échec du courrier électronique si celui-ci n’a pas été remis.</td> 
   </tr> 
  </tbody> 

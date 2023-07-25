@@ -3,7 +3,8 @@ unique-page-id: 11372975
 description: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (professionnel) - Documents Marketo - Documentation du produit
 title: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (professionnel)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 8%
@@ -148,49 +149,49 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
    <td>Longueur 18<br>Nombre de décimales 0 </td> 
   </tr> 
   <tr> 
-   <td>Référent d'origine</td> 
+   <td>Référent d’origine</td> 
    <td>mkto71_Original_Referrer</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Moteur de recherche d'origine</td> 
+   <td>Moteur de recherche d’origine</td> 
    <td>mkto71_Original_Search_Engine</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Phrase de recherche d'origine</td> 
+   <td>Phrase de recherche d’origine</td> 
    <td>mkto71_Original_Search_Expression</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Info source d'origine</td> 
+   <td>Info source d’origine</td> 
    <td>mkto71_Original_Source_Info</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Type source d'origine</td> 
+   <td>Type source d’origine</td> 
    <td>mkto71_Original_Source_Type</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Ville déduite</td> 
+   <td>Ville supposée</td> 
    <td>mkto71_Inferred_City</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Société déduite</td> 
+   <td>Société supposée</td> 
    <td>mkto71_Inferred_Company</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Pays déduit</td> 
+   <td>Pays supposé</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 

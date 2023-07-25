@@ -3,7 +3,8 @@ unique-page-id: 2360181
 description: Suivi de l’activité anonyme et des personnes - Documents Marketo - Documentation du produit
 title: Suivi de l’activité anonyme et des personnes
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%

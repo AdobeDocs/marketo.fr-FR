@@ -2,7 +2,8 @@
 description: Service d’étape de flux - Documents Marketo - Documentation du produit
 title: Service d’étape de flux
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1220'
 ht-degree: 0%

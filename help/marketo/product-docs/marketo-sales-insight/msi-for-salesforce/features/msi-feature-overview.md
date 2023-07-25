@@ -3,7 +3,8 @@ unique-page-id: 37356893
 description: Présentation des fonctionnalités MSI - Documents Marketo - Documentation du produit
 title: Présentation des fonctionnalités MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '937'
 ht-degree: 12%
@@ -23,7 +24,7 @@ Le panneau MSI Visualforce comprend les fonctionnalités suivantes :
    * [Tableau de bord des statistiques](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * Moments significatifs
    * Activité Web
-   * Adresse e-mail
+   * E-mail
    * Évaluation
 
 * Actions
@@ -198,4 +199,3 @@ Marketo Sales Insight est stocké par langue. Ainsi, si vous souhaitez qu’il f
 >* Un contact/prospect doit se trouver dans la partition par défaut pour être ajouté à la liste de contrôle.
 >
 >* Le package MSI Salesforce ne prend pas en charge la vue personnalisée avec les champs dépendants.
-

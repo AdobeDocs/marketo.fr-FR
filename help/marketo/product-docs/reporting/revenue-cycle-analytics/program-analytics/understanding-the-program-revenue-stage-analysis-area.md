@@ -3,7 +3,8 @@ unique-page-id: 7514009
 description: Présentation de la zone d’analyse des recettes du programme - Documents Marketo - Documentation du produit
 title: Présentation de la zone d’analyse de l’étape Recettes du programme
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 5%

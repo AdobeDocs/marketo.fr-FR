@@ -3,7 +3,8 @@ unique-page-id: 2360032
 description: Modification de la durée d’expiration des URL dans les rapports - Documents Marketo - Documentation du produit
 title: Modification de l’heure d’expiration des URL dans les messages électroniques de rapport
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%

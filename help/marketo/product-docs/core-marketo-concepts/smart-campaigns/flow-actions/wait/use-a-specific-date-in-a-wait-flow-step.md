@@ -3,7 +3,8 @@ unique-page-id: 1146976
 description: Utilisation d’une date spécifique dans une étape de flux d’attente - Documents Marketo - Documentation du produit
 title: Utilisation d’une date spécifique dans une étape de flux d’attente
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -38,4 +39,3 @@ Vous pouvez utiliser la variable **Attente** étape de flux pour suspendre le pa
 >
 >* [Utilisation d’une durée dans une étape de flux d’attente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
 >* [Utilisation d’un jeton de date dans une étape de flux d’attente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
-

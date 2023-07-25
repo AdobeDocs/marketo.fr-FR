@@ -3,7 +3,8 @@ unique-page-id: 2360035
 description: Exploration d’un rapport sur les performances des personnes - Documents Marketo - Documentation du produit
 title: Analyse en profondeur d’un rapport sur les performances des personnes
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 1%
@@ -30,7 +31,7 @@ Explorez un rapport Performance des personnes afin d’afficher des informations
 
    ![](assets/four.png)
 
-1. Bon boulot ! Le rapport d’analyse s’ouvre dans un nouvel onglet. Vous pouvez maintenant explorer le nouveau rapport.
+1. Très bon travail ! Le rapport d’analyse s’ouvre dans un nouvel onglet. Vous pouvez maintenant explorer le nouveau rapport.
 
    >[!TIP]
    >

@@ -3,7 +3,8 @@ unique-page-id: 2949904
 description: Groupes de tests de page d’entrée - Documents Marketo - Documentation du produit
 title: Groupes de tests de page de destination
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 3%
@@ -28,7 +29,6 @@ Marketo effectue le suivi du nombre de pages vues et de remplissages de formulai
    >
    >* Cliquez avec le bouton droit sur une landing page dans l&#39;arborescence et sélectionnez **Convertir en groupe de test**
    >* Créez un groupe de test de page d’entrée dans un programme en choisissant **Groupe de tests AB** dans le **Nouvelle ressource locale** menu
-
 
 1. Saisissez un nom et éventuellement une description. Sélectionnez les landing pages à tester, puis cliquez sur **Créer**.
 

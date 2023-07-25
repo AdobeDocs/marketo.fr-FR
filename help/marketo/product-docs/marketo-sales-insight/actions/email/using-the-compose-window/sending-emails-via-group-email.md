@@ -2,7 +2,8 @@
 description: Envoi d’emails par courrier électronique de groupe - Documents Marketo - Documentation du produit
 title: Envoi d’emails par courrier électronique de groupe
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -55,4 +56,3 @@ Voici comment envoyer/modifier des emails à l’aide de l’option Courrier él
 >
 >* [Options d’envoi en bloc](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
 >* [Utilisation d’un modèle dans la fenêtre de composition](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-

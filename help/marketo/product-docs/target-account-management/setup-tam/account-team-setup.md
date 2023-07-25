@@ -3,7 +3,8 @@ unique-page-id: 11384433
 description: Configuration de l’équipe de compte - Documents Marketo - Documentation du produit
 title: Configuration de l’équipe de compte
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -51,4 +52,3 @@ Une équipe de compte est un groupe de parties prenantes qui travaillent ensembl
    >* Lorsque plusieurs comptes CRM avec différents propriétaires de compte sont fusionnés dans un compte nommé, Marketo sélectionne un &quot;propriétaire de compte&quot; et ajoute d’autres propriétaires de compte comme &quot;co-propriétaires de compte&quot;.
    >
    >* Si un champ &quot;Rôle&quot; CRM est renommé ou supprimé ultérieurement, Marketo TAM arrête la synchronisation des valeurs mises à jour jusqu’à ce que l’utilisateur mette manuellement à jour la configuration dans TAM.
-

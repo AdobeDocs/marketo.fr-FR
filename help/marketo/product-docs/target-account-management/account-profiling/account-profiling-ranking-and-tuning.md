@@ -3,7 +3,8 @@ unique-page-id: 15695924
 description: Classement et réglage du profil de compte - Documents Marketo - Documentation du produit
 title: Classement et réglage des profils de compte
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 3%

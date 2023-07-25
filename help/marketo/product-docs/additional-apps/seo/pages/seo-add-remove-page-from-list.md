@@ -3,7 +3,8 @@ unique-page-id: 2949218
 description: SEO - Ajouter/Supprimer une page de la liste - Documents Marketo - Documentation du produit
 title: SEO - Ajouter/Supprimer une page de la liste
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%

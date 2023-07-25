@@ -3,7 +3,8 @@ unique-page-id: 2360399
 description: Création d’un programme Analyzer - Documents Marketo - Documentation du produit
 title: Création d’un analyseur de programme
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -72,4 +73,3 @@ Découvrez les programmes et canaux qui vous donnent le plus de gain marketing. 
 >* [Comparaison de l’efficacité du programme avec l’analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 >* [Explorer les détails du programme et du canal avec l’analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Clonage d’un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
-

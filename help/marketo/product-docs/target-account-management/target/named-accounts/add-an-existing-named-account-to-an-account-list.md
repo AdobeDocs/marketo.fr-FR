@@ -3,7 +3,8 @@ unique-page-id: 12615798
 description: Ajout d’un compte nommé existant à une liste de comptes - Documents Marketo - Documentation du produit
 title: Ajout d’un compte nommé existant à une liste de comptes
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

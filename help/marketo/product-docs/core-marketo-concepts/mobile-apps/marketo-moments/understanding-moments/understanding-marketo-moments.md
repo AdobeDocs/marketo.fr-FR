@@ -3,7 +3,8 @@ unique-page-id: 8781845
 description: Présentation de Marketo Moments - Documents Marketo - Documentation du produit
 title: Présentation des moments Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 5%
@@ -33,7 +34,6 @@ Voici les différents courants dans Moments.
 >* Favoris : Tout ce que vous faites d&#39;un favori entre ici.
 >* Plus tard : Tout ce qui se passe plus tard que ce moment se passe ici.
 >* Terminé : Tout ce qui a fini de courir ou que vous avez marqué comme terminé va ici.
-
 
 OK, maintenant que nous avons tout perdu, jetons un coup d&#39;oeil à Marketo Moments sur un téléphone !
 
@@ -84,7 +84,6 @@ Fantastique ! Maintenant, vous pouvez faire que quelque chose se produise en ap
 >* Partager : Envoyez une image pour motiver ou féliciter votre équipe.
 >* Send Sample (email uniquement) : Utilisez cette option pour permettre à d’autres utilisateurs de vérifier l’aspect de vos emails avant de les envoyer.
 >* Prévisualiser le message (emails uniquement) : C&#39;est toujours une bonne idée de vérifier ses emails à l&#39;avance.
-
 
 ## Moments ultérieurs {#later-moments}
 
@@ -151,4 +150,3 @@ Prêt pour la formation ?
 >* [Présentation des cartes d’événements](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Présentation des cartes Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 >* [Présentation des cartes de campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
-

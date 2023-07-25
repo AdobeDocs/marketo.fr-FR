@@ -3,7 +3,8 @@ unique-page-id: 11378809
 description: Présentation du compte nommé - Documentation Marketo - Documentation du produit
 title: Présentation du compte nommé
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 10%
@@ -63,7 +64,7 @@ Les comptes nommés contiennent les personnes des entreprises que vous ciblez. L
    <td><span><strong>s</strong>standard <strong>I</strong>industriel <strong>C</strong>Classification : code à quatre chiffres pour la classification des industries<br></span></td> 
   </tr> 
   <tr> 
-   <td><strong>Chiffre d'affaires</strong></td> 
+   <td><strong>Recettes</strong></td> 
    <td>Le chiffre d'affaires annuel de l'entreprise</td> 
   </tr> 
   <tr> 

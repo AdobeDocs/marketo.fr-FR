@@ -3,7 +3,8 @@ unique-page-id: 4720738
 description: Modification d’un modèle de page d’entrée Marketo - Documents Marketo - Documentation du produit
 title: Modification d’un modèle de page d’entrée Marketo
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 1%

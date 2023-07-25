@@ -2,10 +2,11 @@
 description: Gestion des groupes - Documents Marketo - Documentation du produit
 title: Gestion des groupes
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -31,7 +32,7 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
   </tr> 
   <tr> 
    <td>Groupes dynamiques</td> 
-   <td>Mes contacts: Tous les contacts que vous détenez.<br>Désabonne : Les contacts qui se sont désinscrits de la réception de la correspondance.</td> 
+   <td>Mes contacts : Tous les contacts que vous détenez.<br>Désabonne : Les contacts qui se sont désinscrits de la réception de la correspondance.</td> 
   </tr> 
   <tr> 
    <td>Mes groupes</td> 

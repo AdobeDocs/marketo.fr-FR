@@ -3,7 +3,8 @@ unique-page-id: 10097747
 description: Ajout de mesures personnalisées à un rapport de l’Explorateur des recettes - Documents Marketo - Documentation du produit
 title: Ajout de mesures personnalisées à un rapport de l’Explorateur de recettes
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%

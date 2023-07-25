@@ -2,7 +2,8 @@
 description: Présentation des intégrations Adobe Experience Cloud - Documents Marketo - Documentation du produit
 title: Présentation des intégrations Adobe Experience Cloud
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Integrations
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

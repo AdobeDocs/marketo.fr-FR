@@ -3,7 +3,8 @@ unique-page-id: 2359761
 description: Ajout d’une vidéo - Documents Marketo - Documentation du produit
 title: Ajout d’une vidéo
 exl-id: e704ec2c-07d7-430f-9514-3ee2a4ab66d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 3%
@@ -42,7 +43,7 @@ Placez des vidéos avec des options de partage sur vos pages d’entrée.
 >
 >Pour gagner du temps, vous pouvez utiliser la variable **Cloner à partir de** pour copier tous les paramètres d’un partage vidéo existant.
 
-Félicitations ! Vous avez ajouté un partage vidéo à votre page d’entrée. Approuvez la page d’entrée et le partage vidéo est actif. Vous pouvez également [publier la landing page sur Facebook ;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer le partage vidéo sur votre site web ;](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
+Félicitations ! Vous avez ajouté un partage vidéo à votre page d’entrée. Approuvez la page d’entrée et le partage vidéo est actif. Vous pouvez également [publier la landing page sur Facebook ;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer le partage vidéo sur votre site web ;](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
 
 >[!MORELIKETHIS]
 >

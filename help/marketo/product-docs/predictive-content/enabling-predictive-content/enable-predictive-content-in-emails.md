@@ -3,9 +3,10 @@ unique-page-id: 11385020
 description: Activation du contenu prédictif dans les emails - Documents Marketo - Documentation du produit
 title: Activation du contenu prédictif dans les emails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
-source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -23,13 +24,12 @@ Effectuez une ou plusieurs images dans la prédiction de votre email, en adaptan
 >Avant d’activer le contenu prédictif, vous devez :
 >
 >* **Préparation de votre contenu prédictif**
-   >
-   >   * [Modifier le contenu prédictif pour les emails](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target=&quot;_blank&quot;} ou
-   >   * [Modification du contenu prédictif pour le contenu multimédia enrichi](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target=&quot;_blank&quot;} ou
-   >   * [Modifier le contenu prédictif pour la barre de recommandations](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target=&quot;_blank&quot;}
 >
->* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target=&quot;_blank&quot;}
-
+>   * [Modifier le contenu prédictif pour les emails](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} ou
+>   * [Modification du contenu prédictif pour le contenu multimédia enrichi](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} ou
+>   * [Modifier le contenu prédictif pour la barre de recommandations](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
+>
+>* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 ## Ajout de contenu prédictif à l’aide de l’éditeur d’email 2.0 {#adding-predictive-content-using-the-email-editor}
 
@@ -85,9 +85,9 @@ Une fois votre email validé, il sera équipé de contenu prédictif et prêt à
 
 ## Ajout de contenu prédictif lorsque vous n’utilisez pas l’éditeur d’email 2.0 {#adding-predictive-content-when-not-using-the-email-editor}
 
-Si vous n’utilisez pas un [Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)Le modèle {target=&quot;_blank&quot;}, l’ajout de contenu prédictif à votre email peut être effectué simplement en balisant une image dans votre modèle en tant qu’élément d’image modifiable Marketo.
+Si vous n’utilisez pas un [Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} , il est possible d’ajouter du contenu prédictif à votre email simplement en balisant une image de votre modèle en tant qu’élément d’image modifiable Marketo.
 
-En savoir plus sur les [Syntaxe spécifique à Marketo ici](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target=&quot;_blank&quot;}.
+En savoir plus sur les [Syntaxe spécifique à Marketo ici](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
 
 Voici un exemple de ce à quoi le code doit ressembler (il s’agit uniquement d’un exemple, ne copiez pas exactement le code ci-dessous).
 

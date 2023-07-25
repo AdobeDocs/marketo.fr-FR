@@ -3,7 +3,8 @@ unique-page-id: 3571819
 description: Étape 3 sur 3 - Connexion à Marketo et Dynamics (2013 On-Premise) - Documents Marketo - Documentation du produit
 title: Étape 3 sur 3 - Connecter Marketo et Dynamics (On-Premise 2013)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 1%
@@ -18,7 +19,6 @@ D&#39;accord ! Nous avons installé la solution et configuré l’utilisateur de
 >
 >* [Étape 1 sur 3 : Installation de la solution Marketo dans Dynamics (2013 On-Premise)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
 >* [Étape 2 sur 3 : Configuration de l’utilisateur de synchronisation pour Marketo (2013 On-Premise)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
-
 
 >[!NOTE]
 >
@@ -54,7 +54,6 @@ D&#39;accord ! Nous avons installé la solution et configuré l’utilisateur de
    >
    >* Le nom d’utilisateur dans Marketo doit correspondre au nom d’utilisateur de l’utilisateur synchronisé dans le CRM. Le format peut être user@domain.com ou DOMAIN\user.
    >* Si vous ne connaissez pas l’URL, [découvrez comment le trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
-
 
 ## Sélectionner les champs à synchroniser {#select-fields-to-sync}
 

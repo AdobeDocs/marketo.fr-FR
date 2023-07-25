@@ -3,7 +3,8 @@ unique-page-id: 2949283
 description: Envoi et suivi depuis Outlook à l’aide d’un modèle Marketo - Documents Marketo - Documentation du produit
 title: Envoi et suivi depuis Outlook à l’aide d’un modèle Marketo
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Marketo Sales Insights
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%

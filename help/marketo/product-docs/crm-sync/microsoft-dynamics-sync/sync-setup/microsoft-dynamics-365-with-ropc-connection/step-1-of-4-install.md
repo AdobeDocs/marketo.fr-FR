@@ -2,7 +2,8 @@
 description: Étape 1 sur 4 - Installation de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource - Documents Marketo - Documentation du produit
 title: Étape 1 sur 4 - Installation de la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -17,7 +18,6 @@ Avant de pouvoir synchroniser Microsoft Dynamics 365 et Marketo, vous devez inst
 >
 >* N’activez pas la synchronisation des entités personnalisées avant l’exécution de la synchronisation initiale. Une fois la synchronisation initiale terminée, vous en serez informé par e-mail.
 >* Si l’authentification à plusieurs facteurs (MFA) est activée pour votre synchronisation Dynamics, vous devez la désactiver pour que Dynamics se synchronise correctement avec Marketo. Pour plus d’informations, veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
-
 
 >[!NOTE]
 >

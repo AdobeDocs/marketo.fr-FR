@@ -3,7 +3,8 @@ unique-page-id: 1146962
 description: Score de modification - Documents Marketo - Documentation du produit
 title: Modifier évaluation
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
-source-git-commit: 0b1c7c7f7cd0becc17ec7636977f34a7d23ca448
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 6%
@@ -12,7 +13,7 @@ ht-degree: 6%
 
 # Modifier évaluation {#change-score}
 
-## APERÇU {#overview}
+## Vue d’ensemble {#overview}
 
 La notation des personnes est facile et puissante pour aider votre équipe commerciale à établir des priorités.
 

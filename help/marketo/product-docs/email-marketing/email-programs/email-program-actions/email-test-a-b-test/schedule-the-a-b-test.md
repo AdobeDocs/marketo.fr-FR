@@ -3,7 +3,8 @@ unique-page-id: 2359547
 description: Planification du test A/B - Documents Marketo - Documentation du produit
 title: Planification du test A/B
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 5%

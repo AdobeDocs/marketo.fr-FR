@@ -1,7 +1,9 @@
 ---
 description: Notes de mise à jour - Janvier 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Janvier 2023
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '637'
 ht-degree: 5%
@@ -29,7 +31,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    * Mode Liste des fragments
    * Liste des modèles de page d’entrée
 
-   <table> 
+  <table> 
   <tr> 
    <td><b>Statut</b></td>
    <td><b>Mises à jour de la documentation</b></td>
@@ -117,7 +119,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 </br>
 
-* **Définition d’une liste de sélection dans la carte Capture d’informations pour les conversations dynamiques**: Pour garantir la propreté des données, vous pouvez définir des listes de sélection pour les cartes de capture d’informations afin que les visiteurs puissent sélectionner uniquement une option dans une liste prédéfinie.
+* **Définition de la liste de sélection dans la carte de capture d’informations pour le Dynamic Chat**: Pour garantir la propreté des données, vous pouvez définir des listes de sélection pour les cartes de capture d’informations afin que les visiteurs puissent sélectionner uniquement une option dans une liste prédéfinie.
 
 <table> 
   <tr> 
@@ -159,7 +161,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Sélecteur de date/heure de chatbot dynamique**: Les visiteurs web peuvent utiliser le sélecteur de calendrier pour choisir une date et une heure plutôt que de saisir la date manuellement.
+* **Sélecteur de date/heure du chatbot pour le Dynamic Chat**: Les visiteurs web peuvent utiliser le sélecteur de calendrier pour choisir une date et une heure plutôt que de saisir la date manuellement.
 
 <table> 
   <tr> 
@@ -173,7 +175,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Notifications par e-mail de réunion planifiées pour la conversation dynamique**: Lorsqu’une réunion est enregistrée sur le calendrier d’un agent, celui-ci reçoit une notification par e-mail à propos de la réservation, y compris des informations détaillées sur l’engagement de messagerie instantanée du visiteur.
+* **Notifications électroniques de réunion planifiées pour le Dynamic Chat**: Lorsqu’une réunion est enregistrée sur le calendrier de l’agent, l’agent reçoit une notification par e-mail à propos de la réservation, y compris des informations détaillées sur l’engagement du Dynamic Chat du visiteur.
 
 <table> 
   <tr> 

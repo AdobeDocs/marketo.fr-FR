@@ -3,7 +3,8 @@ unique-page-id: 11380785
 description: Informations sur les comptes nommés - Documents Marketo - Documentation du produit
 title: Informations sur les comptes nommés
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 4%
@@ -43,7 +44,7 @@ Le tableau de bord rassemble les informations clés au niveau du compte de toute
    <td>Voir le pipeline au fil du temps. Pour déterminer le pipeline au fil du temps, nous prenons le pipeline le dernier jour.</td> 
   </tr> 
   <tr> 
-   <td><strong>Chiffre d'affaires</strong></td> 
+   <td><strong>Recettes</strong></td> 
    <td>Voir les recettes au fil du temps. Pour déterminer les recettes au fil du temps, nous prenons la somme de toutes les recettes gagnées au cours de cette semaine.</td> 
   </tr> 
  </tbody> 

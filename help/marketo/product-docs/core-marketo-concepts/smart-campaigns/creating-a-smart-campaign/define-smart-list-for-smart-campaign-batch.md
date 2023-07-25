@@ -3,7 +3,8 @@ unique-page-id: 1146940
 description: Définition d’une liste dynamique pour Smart Campaign | Lot - Documents Marketo - Documentation du produit
 title: Définition d’une liste dynamique pour Smart Campaign | Lot
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
-source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -52,4 +53,3 @@ Les listes dynamiques sont le mécanisme qui permet, dans tout Marketo, de défi
    >
    >* [Définition d’une liste dynamique pour Smart Campaign | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
    >* [Ajout d’une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
