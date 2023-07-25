@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Limitation de la connexion aux e-mails {#email-connection-throttling}
 
-L’intégration de votre compte Sales Connect pour l’envoi par les fournisseurs de messagerie Exchange ou Gmail offre une configuration simplifiée et optimise la délivrabilité des emails pour la communication des ventes 1:1. Toutefois, pour garantir la sécurité des systèmes et des comptes, Gmail et Exchange appliquent les limites d’envoi des emails. Ces limites peuvent être augmentées ou diminuées à la discrétion des fournisseurs.
+L’intégration de votre compte Sales Connect pour l’envoi par les fournisseurs de messagerie Exchange ou Gmail offre une configuration simplifiée et optimise la délivrabilité des emails pour la communication des ventes 1:1. Cependant, pour garantir la sécurité des systèmes et des comptes, Gmail et Exchange appliquent les limites d’envoi des emails. Ces limites peuvent être augmentées ou diminuées à la discrétion des fournisseurs.
 
 ## Limitation de la connexion aux e-mails (version bêta) {#email-connection-throttling-beta}
 
