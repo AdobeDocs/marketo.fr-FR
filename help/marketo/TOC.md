@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 5%
@@ -485,10 +485,10 @@ ht-degree: 5%
          + [Présentation des dossiers](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Présentation des notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Types de notification](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + Canevas d’engagement {#engagement-canvas}
-         + [Présentation du canevas d’engagement](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
-         + [Onglet Canevas d’engagement](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
-         + [Onglet Paramètres](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
+      + Carte d’engagement {#engagement-map}
+         + [Présentation de la carte des engagements](product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md)
+         + [Onglet Carte d’engagement](product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md)
+         + [Onglet Paramètres](product-docs/core-marketo-concepts/engagement-map/settings-tab.md)
       + Audiences prédictives {#predictive-audiences}
          + [Prise en main des audiences prédictives](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modèles et informations](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)

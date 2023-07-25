@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7e0d78810cce1c35918a15ad29c1f3863128c1dd
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
-source-wordcount: '713'
-ht-degree: 8%
+source-wordcount: '780'
+ht-degree: 7%
 
 ---
 
@@ -24,7 +24,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 </br>
 
-* **Canevas d’engagement**: Le canevas d’engagement est un outil visuel qui vous permet de créer et d’organiser des campagnes réutilisables. Elle est entièrement rétrocompatible, de sorte que toutes les campagnes existantes peuvent être visualisées dans cette nouvelle structure en cliquant sur un bouton. Les goûts peuvent être téléchargés et partagés.
+* **Carte d’engagement**: La carte de l’engagement est un outil visuel qui vous permet de créer et d’organiser des campagnes réutilisables. Elle est entièrement rétrocompatible, de sorte que toutes les campagnes existantes peuvent être visualisées dans cette nouvelle structure en cliquant sur un bouton. Les goûts peuvent être téléchargés et partagés.
 
 <table> 
   <tr> 
@@ -38,6 +38,20 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tbody>
 </table>
 
+* **Notifications - Erreur des services web**: La notification d’erreur des services Web inclut désormais le nom de l’abonnement, ce qui facilite la gestion de plusieurs instances de Marketo Engage. Nous avons également ajouté une colonne &quot;Utilisateur&quot; au tableau contenant des codes d’erreur et des comptes, afin que vous puissiez facilement identifier l’utilisateur de l’API responsable de la génération d’une erreur spécifique lors de l’appel de l’API REST Marketo.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td>Expédié</td>
+   <td>s/o</td>
+  </tr>
+  </tbody>
+</table>
+
 ## Fonctionnalités de version agile
 
 Les fonctionnalités suivantes suivent un format Agile et sont publiées à diverses dates avant ou après la date de publication standard. Vérifiez l’état de chaque fonctionnalité ci-dessous.
@@ -46,7 +60,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 </br>
 
-* **Source de conversation pour la conversation dynamique**: &quot;Chat&quot; est désormais proposé comme source de nouveaux enregistrements de personnes et d&#39;activités. Cette source peut être utilisée pour aider les utilisateurs à filtrer les activités dans les listes dynamiques/campagnes. La source peut également être bloquée des mises à jour des champs.
+* **Source de conversation pour le Dynamic Chat**: &quot;Chat&quot; est désormais proposé comme source de nouveaux enregistrements de personnes et d&#39;activités. Cette source peut être utilisée pour aider les utilisateurs à filtrer les activités dans les listes dynamiques/campagnes. La source peut également être bloquée des mises à jour des champs.
 
 <table> 
   <tr> 
