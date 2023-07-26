@@ -4,30 +4,30 @@ title: Onglet Paramètres
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '333'
 ht-degree: 1%
 
 ---
 
 # Onglet Paramètres {#settings-tab}
 
-L’onglet Paramètres contient tous les paramètres de votre campagne, y compris les mêmes jeux d’autorisations et accès que l’onglet Planning . LA VISITE DE CET ONGLET N’EST PAS PERTURBÉE??? ENVISAGEZ DE DÉPOSER OU DE RÉÉCRIRE - LA LOPA VA CONFIRMER - ELLE NE perturbera aucun paramètre de campagne existant.
+L’onglet Paramètres contient tous vos paramètres de campagne, y compris les mêmes jeux d’autorisations et les mêmes accès que l’onglet Planning dans les campagnes dynamiques.
 
 Il comprend les trois sections suivantes.
 
-* **Règles de qualification**: Détermine le nombre de fois où chaque personne peut exécuter le flux de campagne dynamique.
+* **Règles de qualification**: détermine le nombre de fois où chaque personne peut exécuter le flux de campagne dynamique.
 
-* **Exécutions individuelles**: Peut être utilisé pour planifier des exécutions uniques immédiatement ou ultérieurement.
+* **Exécutions individuelles**: peut être utilisé pour planifier des exécutions uniques immédiatement ou à l’avenir.
 
-* **Périodicité**: Utilisé pour planifier une périodicité quotidienne, hebdomadaire ou mensuelle.
+* **Périodicité**: utilisé pour planifier une périodicité quotidienne, hebdomadaire ou mensuelle.
 
   ![](assets/settings-tab-1.png)
 
 Les règles de qualification seront disponibles pour toutes les campagnes (déclencheur et lot) et comprennent les paramètres suivants :
 
-* Vous pouvez déterminer le nombre de fois où une personne passe par une campagne.
+* Vous pouvez déterminer le nombre de fois où une personne passe par une campagne
 * la capacité de bloquer une campagne non opérationnelle si la personne dépasse sa limite de communication ;
 * La possibilité de définir une limite de personnes pour une campagne d’abandon
 
@@ -58,9 +58,13 @@ L’onglet Paramètres comprend également un aperçu rapide de votre liste dyna
 
 Jeux d’autorisations et erreurs dans l’onglet Paramètres :
 
-Tous les jeux d’autorisations existants seront applicables dans l’onglet Paramètres . Si le bouton Modifier est grisé, cela signifie que vous ne disposez pas des autorisations nécessaires pour effectuer des modifications et que vous devez contacter votre administrateur Marketo.
+Tous les jeux d’autorisations existants seront applicables dans l’onglet Paramètres . Si le bouton Modifier est grisé, cliquez sur l’icône d’aide pour en savoir plus.
 
-AJOUTEZ UNE DESCRIPTION SUR ANNULER LES EXÉCUTIONS PLANIFIÉES - CONFIRMER AVEC LOPA APRÈS L’EXTRACTION -> Si un utilisateur n’a pas accès à la modification des paramètres de campagne, il n’aura pas non plus accès à l’annulation des exécutions planifiées.
+>[!NOTE]
+>
+>Si, après avoir cliqué sur l’icône d’aide, vous voyez &quot;Autorisation supplémentaire requise&quot;, contactez votre administrateur Marketo.
+
+REDUNDANT TEL QU’IL EST EXPLIQUÉ CI-DESSUS, POUVONS-NOUS SUPPRIMER —> Si un utilisateur n’a pas accès à la modification des paramètres de campagne, il n’aura pas non plus accès à annuler les exécutions planifiées.
 
 ![](assets/settings-tab-5.png)
 

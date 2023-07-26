@@ -4,9 +4,9 @@ title: Onglet Carte d’engagement
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '965'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La carte de l’engagement est représentée par une série de déclencheurs, de filtres et de cartes de flux. Cliquez sur chaque carte pour afficher des informations supplémentaires.
 
-Présentation du déclencheur : Cette carte indique le nombre de déclencheurs dans votre campagne. Si vous cliquez dessus, une carte s’affiche pour chaque déclencheur, ainsi qu’un panneau déroulant contenant les informations suivantes :
+Présentation du déclencheur : cette carte indique le nombre de déclencheurs dans votre campagne. Si vous cliquez dessus, une carte s’affiche pour chaque déclencheur, ainsi qu’un panneau déroulant contenant les informations suivantes :
 
 * Campagne à laquelle le déclencheur appartient
 * Liste des noms des déclencheurs
@@ -23,7 +23,7 @@ Présentation du déclencheur : Cette carte indique le nombre de déclencheurs d
 
   ![](assets/engagement-map-tab-1.png)
 
-Détails du déclencheur : Cette carte affiche le nom du déclencheur. Si vous cliquez dessus, un panneau de visualisation s’affiche avec les informations suivantes :
+Détails du déclencheur : cette carte affiche le nom du déclencheur. Si vous cliquez dessus, un panneau de visualisation s’affiche avec les informations suivantes :
 
 * Campagne à laquelle le déclencheur appartient
 * Liste des contraintes associées au déclencheur
@@ -31,7 +31,7 @@ Détails du déclencheur : Cette carte affiche le nom du déclencheur. Si vous c
 
   ![](assets/engagement-map-tab-2.png)
 
-Filtre : Cliquez sur cette carte pour afficher un panneau de visualisation avec les informations suivantes :
+Filtre : lorsque vous cliquez sur cette carte, un panneau de visualisation s’affiche avec les informations suivantes :
 
 * Campagne à laquelle le déclencheur appartient
 * Nombre estimé de personnes qui remplissent les critères du filtre
@@ -40,7 +40,7 @@ Filtre : Cliquez sur cette carte pour afficher un panneau de visualisation avec 
 
   ![](assets/engagement-map-tab-3.png)
 
-Etapes de flux : Si une étape de flux comprend des choix, cette carte indique le nom de l’étape de flux. Si vous cliquez dessus, un panneau de visualisation s’affiche avec les informations suivantes :
+Étapes de flux : si une étape de flux comprend des choix, cette carte indique le nom de l’étape de flux. Si vous cliquez dessus, un panneau de visualisation s’affiche avec les informations suivantes :
 
 * L’étape de flux de campagne appartient à
 * Liste des conditions de choix associées à l’étape de flux
@@ -48,7 +48,7 @@ Etapes de flux : Si une étape de flux comprend des choix, cette carte indique l
 
   ![](assets/engagement-map-tab-4.png)
 
-Etapes de flux : Si une étape de flux fonctionne _not_ incluez tous les choix possibles. cette carte affiche les attributs associés à l’étape de flux. Si vous cliquez dessus, un panneau de visualisation s’affiche avec les informations suivantes :
+Etapes de flux : si une étape de flux fonctionne _not_ incluez tous les choix possibles. cette carte affiche les attributs associés à l’étape de flux. Si vous cliquez dessus, un panneau de visualisation s’affiche avec les informations suivantes :
 
 * L’étape de flux de campagne appartient à
 * Liste des attributs associés à l’étape de flux
@@ -94,72 +94,72 @@ Etapes de flux : Si une étape de flux fonctionne _not_ incluez tous les choix p
 
 ## Visualisation d’une campagne d’exécution imbriquée {#visualizing-a-nested-execute-campaign}
 
-SÉLECTIONNER LES MODIFICATIONS ICI—
-
-Exécutez les campagnes exécutées en série avec les personnes de campagne parentes qui remplissent les critères d’une campagne exécutable. Suivez toutes les étapes du flux de la campagne et revenez à la Principale campagne pour continuer à suivre les étapes du flux de cette campagne.
+Exécutez les campagnes exécutées en série avec la campagne parente. Les personnes qui remplissent les critères d’une campagne exécutable doivent suivre toutes les étapes du flux de la campagne et revenir à la Principale campagne pour continuer à suivre les étapes du flux de cette campagne.
 
 Vous trouverez ci-dessous un exemple de campagne dynamique, &quot;Campagne A&quot;, qui comprend une étape d’exécution du flux de campagne. Considérez &quot;Campagne A&quot; comme votre Principale campagne.
 
 ![](assets/engagement-map-tab-11.png)
 
 1. Cliquez sur la carte d’exécution du flux de campagne pour afficher les détails de la &quot;campagne B&quot;.
-1. La &quot;Campagne B&quot; comprend un filtre qui s’étend à une audience qualifiée et non qualifiée.
-1. L’audience qualifiée suit les étapes de flux associées à la &quot;Campagne B&quot;.
+1. La &quot;Campagne B&quot; comprend un filtre qui divise l&#39;audience en deux groupes : qualifiés et non qualifiés.
+1. L’audience qualifiée passe en revue les étapes de flux associées à la &quot;Campagne B&quot;.
 1. L’ensemble de l’audience (qualifiée et non qualifiée) revient à &quot;Campagne A&quot; et passe à l’étape de flux suivante.
 
-CETTE ÉDITION A ÉTÉ ARRÊTÉE ICI —
-
-![](assets/engagement-map-tab-12.png)
+   ![](assets/engagement-map-tab-12.png)
 
 Vous pouvez cliquer sur l’étape de flux Exécuter la campagne de la &quot;Campagne B&quot; qui s’agrandit pour afficher les cartes de choix et la campagne associées à chaque choix.
 
 ![](assets/engagement-map-tab-13.png)
 
-## Visualiser une campagne de requêtes {#visualizing-request-campaign}
+## Visualisation de la campagne de requêtes {#visualizing-request-campaign}
 
-Les campagnes de requête s’exécutent en parallèle de la campagne parente, c’est-à-dire que les pistes qui remplissent les critères d’une campagne de requête effectuent toutes les étapes de flux de la campagne et quittent la campagne. En parallèle, le même ensemble de pistes passe également par les étapes de flux de la campagne Principale.
+Les campagnes de requête s’exécutent en parallèle de la campagne parente. Les personnes qui remplissent les critères d’une campagne de requête effectuent toutes les étapes de flux de la campagne, puis quittent celle-ci. Simultanément, le même groupe de personnes passe par les étapes de flux de la Principale campagne.
 
-Voici un exemple de campagne dynamique &quot;Campagne A&quot; qui comprend une étape de flux de campagne de requête. Vous pouvez considérer la &quot;Campagne A&quot; comme votre Principale campagne.
+Voici un exemple de campagne dynamique, &quot;Campagne A&quot;, qui comprend une étape de flux de campagne de requête. Considérez &quot;Campagne A&quot; comme votre Principale campagne.
 
 ![](assets/engagement-map-tab-14.png)
 
 1. Cliquez sur la carte de flux de campagne de requête pour afficher les détails de la &quot;campagne B&quot;.
-1. La campagne B comprend un filtre qui s’étend à une audience qualifiée.
-1. L’audience qualifiée passe en revue les étapes de flux associées à la &quot;campagne B&quot;.
-1. En parallèle, toutes les audiences passent aux étapes de flux suivantes dans &quot;Campagne A&quot;
+1. La &quot;Campagne B&quot; comprend un filtre qui divise l&#39;audience en deux groupes : qualifiés et non qualifiés.
+1. L’audience qualifiée passe en revue les étapes de flux associées à la &quot;Campagne B&quot;.
+1. En même temps, toutes les audiences passent aux étapes de flux suivantes de la &quot;Campagne A&quot;.
 
    ![](assets/engagement-map-tab-15.png)
 
-Vous pouvez approfondir l’analyse des campagnes imbriquées si l’une des étapes de flux inclut une autre campagne de requête en cliquant sur la carte de flux pour afficher les détails de la campagne.
+Vous pouvez approfondir l’analyse de vos campagnes imbriquées si l’une des étapes de flux inclut une autre campagne de requête en cliquant sur la carte de flux pour afficher les détails de la campagne.
 
 ![](assets/engagement-map-tab-16.png)
 
-Voici un exemple de campagne de requête avec choix.
+Voici un exemple de campagne de requêtes avec des choix.
 
 ![](assets/engagement-map-tab-17.png)
 
 ## Gestion des erreurs {#error-handling}
 
-Les erreurs dans les étapes de flux et de liste dynamique sont mises en surbrillance par l’icône d’erreur dans la carte. En outre, le message d’erreur correspondant sera reflété dans le panneau de sortie.
+Les erreurs des listes dynamiques et des étapes de flux sont mises en surbrillance au moyen d’une icône d’erreur dans la carte. En outre, un message d’erreur correspondant sera reflété dans le panneau de visualisation.
 
-Voici un exemple d’erreur dans le déclencheur qui sera indiqué dans la carte d’aperçu du déclencheur, le panneau déroulant ainsi que la carte de déclencheur détaillée.
+Vous trouverez ci-dessous un exemple d’erreur dans un déclencheur qui s’affiche dans la carte d’aperçu du déclencheur, le panneau déroulant et la carte de déclencheur détaillée.
 
 ![](assets/engagement-map-tab-18.png)
 
 ![](assets/engagement-map-tab-19.png)
 
-Une erreur dans la carte de filtre peut inclure
+**Les erreurs dans les cartes de filtre peuvent inclure :**
 
-Erreur dans la liste dynamique, ce qui empêchera l’affichage de l’audience qualifiée
+* Une erreur dans la liste dynamique qui empêchera l’affichage d’une audience qualifiée
 
-Erreur dans la logique de filtre
+* Une erreur dans la logique de filtre
 
-Erreur dans les contraintes ou absence de contraintes dans un ou plusieurs filtres
+* Une erreur dans les contraintes (ou leur absence) d’un ou plusieurs filtres
 
-![](assets/engagement-map-tab-20.png)
+  ![](assets/engagement-map-tab-20.png)
 
-Si vous ne saisissez pas de valeurs (attributs), elles ne seront pas marquées comme des erreurs, car elles continueront à fonctionner comme dans l’onglet Flux . Par conséquent, les campagnes existantes ne seront pas perturbées. Cependant, lorsque les étapes de flux n’incluent aucun attribut, elles s’affichent sous la forme d’avertissements.
+Si vous ne saisissez pas de valeurs (attributs), aucune erreur ne se produira, cela continuera à fonctionner comme dans l’onglet Flux . Par conséquent, les campagnes existantes ne seront pas perturbées. Cependant, lorsque les étapes de flux n’incluent aucun attribut, elles s’affichent sous la forme d’avertissements.
+
+^^^ AVONS-NOUS VRAIMENT BESOIN DE CECI ? LE CLIENT NE VERRA-T-IL PAS L’AVERTISSEMENT ???
 
 ![](assets/engagement-map-tab-21.png)
 
-Remarque : Les erreurs d’une campagne imbriquée ne seront pas visibles tant que vous n’aurez pas cliqué pour développer la campagne imbriquée.
+>[!NOTE]
+>
+>Les erreurs au sein d’une campagne imbriquée ne seront pas visibles tant que vous n’aurez pas cliqué pour développer la campagne imbriquée.

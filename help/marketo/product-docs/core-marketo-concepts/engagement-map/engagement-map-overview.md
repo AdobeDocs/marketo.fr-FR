@@ -4,9 +4,9 @@ title: Présentation de la carte des engagements
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -27,27 +27,27 @@ Accédez à une campagne existante, puis cliquez sur le bouton **Carte d’engag
 
 CAPTURE D’ÉCRAN
 
-Deux onglets s’affichent une fois dans la carte Engagement : [Carte d’engagement](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}.
+Deux onglets s’affichent une fois dans la carte Engagement : [Carte d’engagement](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 CAPTURE D’ÉCRAN
 
-EN-TÊTE - DESCRIPTIONS DE CARTE ? - LOPA CONFIRME
+## Descriptions des cartes {#card-descriptions}
 
-**Triggers**: Dans les campagnes qui incluent des déclencheurs, la carte comporte une carte &quot;Présentation du déclencheur&quot;. Si vous cliquez sur cette option, une carte s’affiche pour chaque déclencheur, ainsi qu’un panneau déroulant contenant des informations supplémentaires.
+**Triggers**: dans les campagnes qui incluent des déclencheurs, la carte comporte une carte &quot;Présentation du déclencheur&quot;. Si vous cliquez sur cette option, une carte s’affiche pour chaque déclencheur, ainsi qu’un panneau déroulant contenant des informations supplémentaires.
 
-**Filtres**: Dans les campagnes qui incluent des filtres, la carte contiendra une carte pour chacune d’elles. Si vous cliquez dessus, un panneau déroulant contenant des informations supplémentaires s’affiche.
+**Filtres**: dans les campagnes qui incluent des filtres, la carte contiendra une carte pour chacune d’elles. Si vous cliquez dessus, un panneau déroulant contenant des informations supplémentaires s’affiche.
 
-**Étapes de flux**: Chaque campagne comprend une carte pour chaque étape de flux. Si vous cliquez dessus, un panneau déroulant contenant des informations supplémentaires s’affiche.
+**Étapes de flux**: chaque campagne comprend une carte pour chaque étape de flux. Si vous cliquez dessus, un panneau déroulant contenant des informations supplémentaires s’affiche.
 
-**Choix**: Si une étape de flux comprend un ou plusieurs choix, un clic sur la carte de flux affiche une carte pour chaque choix, ainsi qu’un panneau de sortie avec des informations supplémentaires.
+**Choix**: si une étape de flux comprend un ou plusieurs choix, un clic sur la carte de flux affiche une carte pour chaque choix, ainsi qu’un panneau de sortie avec des informations supplémentaires.
 
 ## Campagnes imbriquées {#nested-campaigns}
 
-* Si une campagne comprend une étape de flux Demander ou Exécuter la campagne , un clic sur la carte de flux affiche les détails de l’opération en cours d’appel, ainsi qu’un panneau de sortie avec des informations supplémentaires. (La campagne imbriquée comprend également une pilule de fermeture, si vous cliquez dessus, les cartes associées à la campagne imbriquée sont réduites.) !!!!!!!!!!!! - REMODER OU SUPPRIMER - LOPA CONFIRME
+* Si une campagne comprend une étape de flux Demander ou Exécuter la campagne , un clic sur la carte de flux affiche les détails de l’opération en cours d’appel, ainsi qu’un panneau de sortie avec des informations supplémentaires.
 
 * Si une campagne comprend une étape de flux Demander ou Exécuter une campagne avec des choix, un clic sur la carte de flux affiche une carte de choix, ainsi qu’un panneau d’affichage avec des informations supplémentaires sur les choix. Cliquez sur chaque carte de choix pour afficher les détails de la campagne en cours d’appel, ainsi qu’un panneau déroulant contenant des informations supplémentaires.
 
-* En outre, si l’une des campagnes imbriquées comporte une étape de flux Demander ou Exécuter la campagne , cliquez sur la carte de flux pour afficher les détails de la campagne. Il en va de même lorsque l’étape de flux comprend des choix.
+* De plus, si l’une des campagnes imbriquées comporte une étape de flux Demander ou Exécuter la campagne , cliquez sur la carte de flux pour afficher les détails de la campagne. Il en va de même lorsque l’étape de flux comprend des choix.
 
 ## Navigation supérieure {#top-navigation}
 
@@ -83,7 +83,7 @@ Nombre La carte des engagements présente une compatibilité descendante complè
 
 **Avoir une carte de l’engagement en Marketo Engage signifie-t-il que je n’aurai plus accès à la structure de dossiers et devront réapprendre à créer une campagne dynamique ?**
 
-Nombre Ce qui est génial avec la carte de l&#39;engagement, c&#39;est qu&#39;elle vous donne le meilleur des deux mondes. il est complémentaire à la manière dont vous créez des campagnes actuellement. Vous pouvez choisir si vous souhaitez utiliser l’interface utilisateur existante ou créer/visualiser dans la nouvelle interface utilisateur. Tous les utilisateurs disposeront toujours d’une puissante fonctionnalité de Marketo Engage, désormais complétée par un outil de création visuelle.
+Nombre Ce qui est génial avec la carte de l’engagement, c’est qu’elle vous donne le meilleur des deux mondes ; elle est complémentaire à la façon dont vous créez des campagnes actuellement. Vous pouvez choisir si vous souhaitez utiliser l’interface utilisateur existante ou créer/visualiser dans la nouvelle interface utilisateur. Tous les utilisateurs disposeront toujours d’une puissante fonctionnalité de Marketo Engage, désormais complétée par un outil de création visuelle.
 
 **La carte de l’engagement est-elle un module complémentaire payant ?**
 
@@ -101,11 +101,11 @@ Oui. La carte de l’engagement présente une parité complète des fonctionnali
 
 Trois éléments clés distinguent la carte de l’engagement :
 
-* Flexibilité : Gérez et validez facilement des campagnes interconnectées ou imbriquées de manière approfondie grâce à la visualisation.
+* Flexibilité : gérez et validez facilement des campagnes interconnectées ou imbriquées de manière approfondie grâce à la visualisation.
 
-* Fonctionnalité : Tous les visuels sont prêts à l’emploi, ce qui facilite leur utilisation. la structure imbriquée vous permet de plonger et d&#39;obtenir le tableau entier.
+* Fonctionnalité : tous les visuels sont prêts à l’emploi, ce qui facilite leur utilisation ; la structure imbriquée vous permet de plonger et d’obtenir l’image entière.
 
-* Puissance : Vous conservez toute la sophistication existante du Marketo Engage, maintenant dans un format visuel.
+* Pouvoir : Vous conservez toute la sophistication existante du Marketo Engage, maintenant dans un format visuel.
 
 >[!MORELIKETHIS]
 >
