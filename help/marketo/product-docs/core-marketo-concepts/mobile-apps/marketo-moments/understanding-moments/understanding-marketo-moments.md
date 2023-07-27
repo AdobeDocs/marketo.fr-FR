@@ -4,9 +4,9 @@ description: Présentation de Marketo Moments - Documents Marketo - Documentatio
 title: Présentation des moments Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 5%
 
 ---
@@ -15,10 +15,13 @@ ht-degree: 5%
 
 La puissance de Marketo est désormais à votre disposition ! Prévisualisez les e-mails et planifiez à nouveau leur envoi à partir de votre téléphone ou de votre iPad.
 
->[!AVAILABILITY]
->
+>[!NOTE]
 >
 >L’autorisation Accéder aux applications mobiles est requise. Contactez votre administrateur Marketo pour [mettre à jour votre rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
+>[!AVAILABILITY]
+>
+>Cette application n’est pas compatible avec [Authentification des identités d’Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} à ce moment-là.
 
 ## Streams {#streams}
 
@@ -30,10 +33,10 @@ Voici les différents courants dans Moments.
 >
 >**Définition**
 >
->* Moments : Tout ce qui vient d&#39;arriver, ou qui est sur le point de l&#39;être, va ici.
->* Favoris : Tout ce que vous faites d&#39;un favori entre ici.
->* Plus tard : Tout ce qui se passe plus tard que ce moment se passe ici.
->* Terminé : Tout ce qui a fini de courir ou que vous avez marqué comme terminé va ici.
+>* Moments : Tout ce qui vient d&#39;arriver, ou qui est sur le point de courir, va ici.
+>* Favoris : tout ce que vous faites comme favori s&#39;y trouve.
+>* Plus tard : tout ce qui se passe plus tard que ce moment se passe ici.
+>* Terminé : tout ce qui a fini de fonctionner ou que vous avez marqué comme terminé s’affiche ici.
 
 OK, maintenant que nous avons tout perdu, jetons un coup d&#39;oeil à Marketo Moments sur un téléphone !
 
@@ -63,7 +66,7 @@ Appuyez sur la carte pour ouvrir un écran de détail.
 
 >[!NOTE]
 >
->Les cartes orange sont confirmées ; les gris sont timides.
+>Les cartes en orange sont confirmées ; les cartes en gris sont provisoires.
 
 ![](assets/image2015-9-25-9-3a37-3a26.png)
 
@@ -79,11 +82,11 @@ Fantastique ! Maintenant, vous pouvez faire que quelque chose se produise en ap
 >
 >**Définition**
 >
->* Favori : Il est facile de prêter attention à ce qui est le plus opportun et important si vous en faites des favoris.
->* Terminé : Terminé annule la vue Marketo Moments (mais la laisse dans Marketo, sûre et sonore).
->* Partager : Envoyez une image pour motiver ou féliciter votre équipe.
->* Send Sample (email uniquement) : Utilisez cette option pour permettre à d’autres utilisateurs de vérifier l’aspect de vos emails avant de les envoyer.
->* Prévisualiser le message (emails uniquement) : C&#39;est toujours une bonne idée de vérifier ses emails à l&#39;avance.
+>* Favori : il est facile d&#39;être attentif aux éléments les plus opportuns et importants si vous les rendez favoris.
+>* Terminé : Terminé désactive la vue Marketo Moments (mais la laisse dans Marketo, sûre et sonore).
+>* Partager : envoyez une image pour motiver ou féliciter votre équipe.
+>* Envoyer un exemple (email uniquement) : utilisez cette option pour permettre à d&#39;autres utilisateurs de vérifier l&#39;aspect de vos emails avant de les envoyer.
+>* Prévisualiser l&#39;email (emails uniquement) : il est toujours préférable de consulter vos emails à l&#39;avance.
 
 ## Moments ultérieurs {#later-moments}
 
@@ -103,7 +106,7 @@ La section Plus tard présente les activités à venir.
 
 ## Email Program Cards {#email-program-cards}
 
-Les cartes de programme de messagerie électronique présentent des éléments importants tels que le planning, l’audience, le statut et d’autres éléments utiles, même lorsque vous êtes à l’extérieur au déjeuner.
+Les cartes de programme de messagerie électronique présentent des éléments importants tels que le planning, l’audience, le statut et d’autres éléments utiles, même lorsque vous êtes à l’heure du déjeuner.
 
 ![](assets/image2015-6-29-15-3a31-3a57.png)
 
