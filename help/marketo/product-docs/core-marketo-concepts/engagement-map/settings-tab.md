@@ -4,9 +4,9 @@ title: Onglet Paramètres
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -63,8 +63,6 @@ Tous les jeux d’autorisations existants seront applicables dans l’onglet Par
 >[!NOTE]
 >
 >Si, après avoir cliqué sur l’icône d’aide, vous voyez &quot;Autorisation supplémentaire requise&quot;, contactez votre administrateur Marketo.
-
-REDUNDANT TEL QU’IL EST EXPLIQUÉ CI-DESSUS, POUVONS-NOUS SUPPRIMER —> Si un utilisateur n’a pas accès à la modification des paramètres de campagne, il n’aura pas non plus accès à annuler les exécutions planifiées.
 
 ![](assets/settings-tab-5.png)
 

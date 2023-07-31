@@ -3,7 +3,7 @@ description: Présentation de l’abonnement Marketo et de la migration des util
 title: Présentation de l’abonnement Marketo et de la migration des utilisateurs vers Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 830b8d3fa4ca49834523eb4d5119a9bb9161e04d
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '1121'
 ht-degree: 0%
@@ -67,7 +67,7 @@ Les administrateurs de produit Marketo :
 
 En tant qu’administrateur de produit Marketo, vous êtes invité à vous assurer que tous les utilisateurs sont prêts pour le jour de migration.
 
-* Vérifiez l’état de vérification des emails pour tous les utilisateurs de la zone d’administration de Marketo. Encourager les utilisateurs qui n’ont pas vérifié leur adresse électronique à le faire, et aider les utilisateurs à résoudre les problèmes liés à l’achèvement du processus de vérification
+* Vérifiez l’état de vérification des emails pour tous les utilisateurs de la zone d’administration de Marketo. Encourager les utilisateurs qui n’ont pas vérifié leur adresse électronique à le faire, et aider les utilisateurs à résoudre les problèmes liés à l’achèvement du processus de vérification.
 
 * Préparez tous les utilisateurs à la migration à venir vers Adobe Identity.
 

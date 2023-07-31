@@ -4,9 +4,9 @@ title: Onglet Carte d’engagement
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -153,12 +153,6 @@ Vous trouverez ci-dessous un exemple d’erreur dans un déclencheur qui s’aff
 * Une erreur dans les contraintes (ou leur absence) d’un ou plusieurs filtres
 
   ![](assets/engagement-map-tab-20.png)
-
-Si vous ne saisissez pas de valeurs (attributs), aucune erreur ne se produira, cela continuera à fonctionner comme dans l’onglet Flux . Par conséquent, les campagnes existantes ne seront pas perturbées. Cependant, lorsque les étapes de flux n’incluent aucun attribut, elles s’affichent sous la forme d’avertissements.
-
-^^^ AVONS-NOUS VRAIMENT BESOIN DE CECI ? LE CLIENT NE VERRA-T-IL PAS L’AVERTISSEMENT ???
-
-![](assets/engagement-map-tab-21.png)
 
 >[!NOTE]
 >

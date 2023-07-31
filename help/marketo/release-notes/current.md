@@ -3,7 +3,7 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 9%
@@ -24,7 +24,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 </br>
 
-* **Carte d’engagement**: la carte de l’engagement est un outil visuel qui vous permet de créer et d’organiser des campagnes réutilisables. Elle est entièrement rétrocompatible, de sorte que toutes les campagnes existantes peuvent être visualisées dans cette nouvelle structure en cliquant sur un bouton. Les goûts peuvent être téléchargés et partagés.
+* **Carte d’engagement**: la carte de l’engagement est un outil visuel qui vous permet de créer et d’organiser des campagnes réutilisables. Elle est entièrement rétrocompatible, de sorte que toutes les campagnes existantes peuvent être visualisées dans cette nouvelle structure en cliquant sur un bouton. Les cartes peuvent être téléchargées et partagées.
 
 <table> 
   <tr> 

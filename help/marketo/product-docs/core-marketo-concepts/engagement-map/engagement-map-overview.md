@@ -4,9 +4,9 @@ title: Présentation de la carte des engagements
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 La carte de l’engagement vous permet de créer des campagnes intelligentes réutilisables à l’aide de visuels intuitifs. Il offre une compatibilité ascendante complète avec toutes les campagnes dynamiques de Marketo Engage existantes, sans perte de fonctionnalités actuelles.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-map-overview-1.png)
 
 ## Accès à la carte de l’engagement {#accessing-engagement-map}
 
 Accédez à une campagne existante, puis cliquez sur le bouton **Carte d’engagement** bouton .
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-map-overview-2.png)
 
 Deux onglets s’affichent une fois dans la carte Engagement : [Carte d’engagement](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-map-overview-3.png)
 
 ## Descriptions des cartes {#card-descriptions}
 
@@ -51,11 +51,7 @@ CAPTURE D’ÉCRAN
 
 ## Navigation supérieure {#top-navigation}
 
-CAPTURE D’ÉCRAN
-
 Le volet de navigation supérieur comprend les fonctionnalités suivantes :
-
-!!!!! CAPTURE D’ÉCRAN DÉPASSÉE - NOUVEAU GRAB
 
 * Nom de la campagne et accès au modal &quot;Modifier la campagne&quot;, vous pouvez modifier le nom et la description de la campagne ici.
 
