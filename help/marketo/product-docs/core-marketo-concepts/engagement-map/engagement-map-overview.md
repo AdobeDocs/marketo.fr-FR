@@ -4,7 +4,7 @@ title: Présentation de la carte des engagements
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Présentation de la carte des engagements {#engagement-map-overview}
 
->[!AVAILABILITY]
->
->Cette fonctionnalité est actuellement disponible pour les campagnes dynamiques. Il n’est pas disponible pour les programmes.
-
 La carte de l’engagement vous permet de créer des campagnes intelligentes réutilisables à l’aide de visuels intuitifs. Il offre une compatibilité ascendante complète avec toutes les campagnes dynamiques de Marketo Engage existantes, sans perte de fonctionnalités actuelles.
+
+>[!NOTE]
+>
+>La carte de l’engagement est actuellement disponible dans les campagnes dynamiques. Elle n’est pas disponible dans les programmes.
 
 ![](assets/engagement-map-overview-1.png)
 
