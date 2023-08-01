@@ -1,12 +1,10 @@
 ---
 description: Présentation de la carte de l’engagement - Documents Marketo - Documentation du produit
 title: Présentation de la carte des engagements
-hide: true
-hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -33,9 +31,9 @@ Deux onglets s’affichent une fois dans la carte Engagement : [Carte d’engage
 
 ## Descriptions des cartes {#card-descriptions}
 
-**Triggers**: dans les campagnes qui incluent des déclencheurs, la carte comporte une carte &quot;Présentation du déclencheur&quot;. Si vous cliquez sur cette option, une carte s’affiche pour chaque déclencheur, ainsi qu’un panneau déroulant contenant des informations supplémentaires.
+**Triggers**: dans les campagnes qui incluent des déclencheurs, la carte comporte une carte &quot;Présentation du déclencheur&quot;. Cliquer sur cette option affiche une carte pour chaque déclencheur, ainsi qu’un panneau déroulant contenant des informations supplémentaires.
 
-**Filtres**: dans les campagnes qui incluent des filtres, la carte contiendra une carte pour chacune d’elles. Si vous cliquez dessus, un panneau déroulant contenant des informations supplémentaires s’affiche.
+**Filtres**: dans les campagnes qui incluent des filtres, la carte contiendra une carte Aperçu du filtre. Si vous cliquez dessus, un panneau de sortie s’affiche avec des informations supplémentaires sur chaque filtre.
 
 **Étapes de flux**: chaque campagne comprend une carte pour chaque étape de flux. Si vous cliquez dessus, un panneau déroulant contenant des informations supplémentaires s’affiche.
 
@@ -45,7 +43,7 @@ Deux onglets s’affichent une fois dans la carte Engagement : [Carte d’engage
 
 * Si une campagne comprend une étape de flux Demander ou Exécuter la campagne , un clic sur la carte de flux affiche les détails de l’opération en cours d’appel, ainsi qu’un panneau de sortie avec des informations supplémentaires.
 
-* Si une campagne comprend une étape de flux Demander ou Exécuter une campagne avec des choix, un clic sur la carte de flux affiche une carte de choix, ainsi qu’un panneau d’affichage avec des informations supplémentaires sur les choix. Cliquez sur chaque carte de choix pour afficher les détails de la campagne en cours d’appel, ainsi qu’un panneau déroulant contenant des informations supplémentaires.
+* Si une campagne comprend une étape de flux Demander ou Exécuter une campagne avec des choix, un clic sur la carte de flux affiche une carte pour chaque choix, ainsi qu’un panneau de visualisation avec plus d’informations sur les choix. Cliquez sur chaque carte de choix pour afficher les détails de la campagne en cours d’appel, ainsi qu’un panneau déroulant contenant des informations supplémentaires.
 
 * De plus, si l’une des campagnes imbriquées comporte une étape de flux Demander ou Exécuter la campagne , cliquez sur la carte de flux pour afficher les détails de la campagne. Il en va de même lorsque l’étape de flux comprend des choix.
 
@@ -59,17 +57,17 @@ Le volet de navigation supérieur comprend les fonctionnalités suivantes :
 
 * Bouton Activer/Désactiver pour les campagnes de déclenchement
 
-* Modifier la liste dynamique : vous accédez à l’interface Liste dynamique dans un nouvel onglet où vous pouvez ajouter ou modifier votre liste dynamique.
+* Modifier la liste dynamique : vous accédez à l’interface Liste dynamique dans un nouvel onglet où vous pouvez ajouter ou modifier vos étapes de flux.
 
 * Modifier le flux : vous accédez à l’interface Flux dans un nouvel onglet où vous pouvez ajouter ou modifier votre liste dynamique.
 
-* Exporter : télécharge une image de visualisation de campagne. La version téléchargée reflète les branches que vous avez développées.
+* Exporter : télécharge une image de la visualisation de campagne. La version téléchargée reflète les branches que vous avez développées.
 
 * Afficher les membres de campagne : un nouvel onglet contenant les détails des membres de campagne s’ouvre.
 
 >[!NOTE]
 >
->Les modifications apportées dans un onglet de liste dynamique et de flux ouvert seront répercutées dans l’onglet de carte de l’engagement lors de l’actualisation. Elle ne sera pas mise à jour automatiquement. Les mises à jour et modifications enregistrées automatiquement sont répercutées.
+>Les modifications apportées dans un onglet de liste dynamique et de flux ouvert seront répercutées dans l’onglet de carte de l’engagement lors de l’actualisation. Elle ne sera pas mise à jour automatiquement. Les mises à jour et modifications enregistrées automatiquement sont répercutées lors de l’actualisation de l’onglet Carte de l’engagement .
 
 ## Questions fréquentes {#faq}
 
