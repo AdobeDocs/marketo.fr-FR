@@ -3,18 +3,20 @@ description: Hériter de Doc 1 - Documents Marketo - Documentation du produit
 title: Hériter Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
+source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 10%
+source-wordcount: '1140'
+ht-degree: 7%
 
 ---
 
 # Hériter Doc 1 {#inherit-doc-1}
 
-L’audit d’une instance héritée peut ressembler à un
+L’audit d’une instance héritée peut ressembler à un...
 
-Avez-vous hérité d’une instance de Marketo Engage existante d’un autre administrateur ? Si c&#39;est le cas, cet article est pour vous.
+Avez-vous hérité d’une instance de Marketo Engage existante d’un autre administrateur ? Si c&#39;est le cas, cet article est pour vous...
+
+La liste de contrôle ci-dessous a été mise en place avec les données des champions Marketo pour vous aider à vous familiariser rapidement avec votre instance héritée..
 
 >[!TIP]
 >
@@ -37,7 +39,7 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
 <li>Combien d’utilisateurs disposent d’autorisations d’administrateur ?</li>
 <li>L’un de ces utilisateurs doit-il être remplacé par d’autres rôles ?</li> 
 <li>Qui sont les utilisateurs de l’API dans cette instance ?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Rôles</td> 
@@ -47,19 +49,19 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
 <li>À quelle fréquence les utilisateurs se connectent-ils ?</li>
 <li>Chaque utilisateur de l’API possède-t-il son propre rôle d’utilisateur ? Si ce n’est pas le cas, envisagez de mettre en oeuvre cette méthode pour faciliter le dépannage.</li> 
 <li>Vos rôles utilisateur et autorisations sont-ils conformes aux politiques de confidentialité des données de votre entreprise ?</li></td>
-   <td>3.2</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Documentation interne</td> 
    <td><li>Les utilisateurs et les rôles sont-ils clairement définis dans votre organisation ?</li>
 <li>Quel est votre processus pour ajouter un nouvel utilisateur/administrateur ?</li></td>
-   <td>3.3</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Environnement de test (le cas échéant)</td> 
    <td><li>Disposez-vous d’une instance sandbox ? Si tel est le cas, passez en revue les catégories ci-dessus pour votre environnement de test.</li>
 <li>L’importation de programme est-elle liée à votre environnement de test ?</li></td>
-   <td>3,4</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -76,7 +78,7 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   <tr> 
    <td>Journal d'audit</td> 
    <td><li>Qui travaille dans l’instance ?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -225,23 +227,34 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   <tr> 
    <td>CRM</td> 
    <td><li>À quel CRM synchronisez-vous ? Salesforce? MS Dynamics? Veeva?</li>
-<li>La synchronisation personnalisée est-elle bidirectionnelle ou bidirectionnelle ? (KG : corriger la grammaire et vérifier l'importance)</li>
+<li>La synchronisation personnalisée est-elle bidirectionnelle ou bidirectionnelle ? (KG : CORRECTION DU GRAMMAIRE ET VÉRIFICATION DE L’IMPORTANCE)</li>
 <li>[Salesforce uniquement] Votre instance a-t-elle implémenté des filtres de synchronisation personnalisés ? Contactez le support Marketo pour identifier les filtres de synchronisation personnalisés ou demander qu’une règle de synchronisation personnalisée soit implémentée.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Pages de destination</td> 
+   <td><li>En quoi consiste le jeu de domaine ?</li>
+<li>En quoi consiste le jeu de secours ?</li>
+<li>En quoi consiste la page d’accueil ?</li>
+<li>Le préremplissage de formulaire est-il activé ?</li>
+<li>Les URL personnalisées sont-elles activées ?</li>
+<li>Existe-t-il des règles configurées pour les redirections ?</li>
+<li>Avez-vous des alias de domaine en place ? Effectuez-vous un suivi dans la documentation sur la manière dont vous utilisez vos alias de domaine ?</li>
+<li>Les domaines sécurisés pour les landing pages sont-ils activés ? Confirmez si les ressources de votre landing page contiennent une URL "http".</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Munchkin</td> 
+   <td><li>Votre code de suivi Munchkin se trouve-t-il sur votre site web (et non dans Marketo) ?</li>
+<li>Une demande de navigateur "Ne pas suivre" est-elle activée ?</li>
+<li>Votre API Munchkin est-elle configurée ? Si vous ne disposez pas de la documentation sur l’emplacement du code de la serviette sur votre site web, commencez par un aperçu rapide en utilisant le "rapport Web Analytics" dans les "Analytics" de base pour comprendre où le code Munchkin est placé sur votre site web.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Services web</td> 
+   <td><li>Les restrictions d’IP sont-elles activées ? Devraient-ils l'être ?</li>
+<li>Quels utilisateurs/applications effectuent des appels API dans votre instance ?</li>
+<li>Êtes-vous en train d’atteindre ou êtes-vous sur le point d’atteindre votre limite d’API ? Si tel est le cas, envisagez d’augmenter ou de contrôler votre instance pour réduire ces appels d’API.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -265,18 +278,15 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
    <th>Colonne 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Coffre au trésor</td> 
+   <td><li>Qu'est-ce qui s'est allumé dans la poitrine au trésor ?</li>
+<li>Certaines fonctionnalités doivent-elles être activées ou désactivées ?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Inspecteur de campagne</td> 
+   <td><li>L’Inspecteur de campagne est-il activé ?</li>
+<li>Si ce n’est pas le cas, envisagez de l’activer afin d’identifier facilement les campagnes principales, de les synchroniser avec votre CRM et/ou de supprimer des enregistrements.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -292,18 +302,24 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
    <th>Colonne 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Mises à jour de l’état du Marketo Engage</td> 
+   <td><li>Votre instance est-elle inscrite pour les mises à jour de statut du Marketo Engage ?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Contacts autorisés</td> 
+   <td><li>Avez-vous configuré les contacts autorisés appropriés dans le portail d’assistance ?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Alertes</td> 
+   <td><li>Existe-t-il des alertes principales envoyées par Marketo Engage aux équipes internes ?</li>
+<li>Si oui, ces alertes fonctionnent-elles correctement ?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Notifications</td> 
+   <td><li>Êtes-vous abonné aux notifications d’administration appropriées ?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
