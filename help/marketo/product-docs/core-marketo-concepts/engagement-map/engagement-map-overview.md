@@ -2,9 +2,9 @@
 description: Présentation de la carte de l’engagement - Documents Marketo - Documentation du produit
 title: Présentation de la carte des engagements
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -51,15 +51,15 @@ Deux onglets s’affichent une fois dans la carte Engagement : [Carte d’engage
 
 Le volet de navigation supérieur comprend les fonctionnalités suivantes :
 
-* Nom de la campagne et accès au modal &quot;Modifier la campagne&quot;, vous pouvez modifier le nom et la description de la campagne ici.
+* Nom de la campagne et accès au modal &quot;Modifier la campagne&quot;. Vous pouvez modifier le nom et la description de la campagne ici.
 
 * L’état et le type de campagne de la campagne seront reflétés sous le nom de la campagne.
 
 * Bouton Activer/Désactiver pour les campagnes de déclenchement
 
-* Modifier la liste dynamique : vous accédez à l’interface Liste dynamique dans un nouvel onglet où vous pouvez ajouter ou modifier vos étapes de flux.
+* Modifier la liste dynamique : vous accédez à l’interface Liste dynamique dans un nouvel onglet où vous pouvez ajouter ou modifier vos filtres et/ou déclencheurs.
 
-* Modifier le flux : vous accédez à l’interface Flux dans un nouvel onglet où vous pouvez ajouter ou modifier votre liste dynamique.
+* Modifier le flux : vous accédez à l’interface Flux dans un nouvel onglet où vous pouvez ajouter ou modifier vos étapes de flux.
 
 * Exporter : télécharge une image de la visualisation de campagne. La version téléchargée reflète les branches que vous avez développées.
 

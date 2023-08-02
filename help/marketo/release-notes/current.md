@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
 source-wordcount: '667'
-ht-degree: 9%
+ht-degree: 8%
 
 ---
 
@@ -32,8 +32,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md">Présentation de la carte des engagements</a></td>
   </tr>
   </tbody>
 </table>
