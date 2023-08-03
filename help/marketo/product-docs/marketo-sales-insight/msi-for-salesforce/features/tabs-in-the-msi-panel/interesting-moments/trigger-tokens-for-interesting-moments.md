@@ -4,10 +4,10 @@ description: Trigger des jetons pour les moments intéressants - Documents Marke
 title: Déclencher des jetons pour les moments intéressants
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 96ba23e53e395f3e07b6f636f6acf7e6b94e1392
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 30%
+source-wordcount: '480'
+ht-degree: 27%
 
 ---
 
@@ -25,11 +25,11 @@ Consulter [Présentation des jetons](/help/marketo/product-docs/demand-generatio
 
 En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jetons de déclenchement sont disponibles.
 
-* `{{trigger.Trigger Name}}` qui est toujours le déclencheur réel lui-même. Par exemple : Clics sur Lien dans le courrier électronique.
-* `{{trigger.Name}}` est le nom de la ressource qui a déclenché la campagne. Par exemple : Clics sur le lien de la page web est l’URL elle-même, l’objet des déclencheurs Salesforce, etc.
-* D’autres déclencheurs sont disponibles en fonction des contraintes répertoriées ci-dessous.
+* `{{trigger.Trigger Name}}` qui est toujours le déclencheur réel lui-même. Par exemple : Clics sur le lien dans le courrier électronique.
+* `{{trigger.Name}}` est le nom de la ressource qui a déclenché la campagne. Par exemple : Clics sur le lien sur la page web est l’URL elle-même, l’objet des déclencheurs Salesforce, etc.
+* D’autres déclencheurs sont disponibles en fonction de contraintes, qui sont répertoriées ci-dessous.
 
-**Déclencheurs d&#39;email**
+### Déclencheurs d&#39;email {#email-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -205,7 +205,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
  </tbody> 
 </table>
 
-**Déclencheurs Salesforce**
+### Déclencheurs Salesforce {#salesforce-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -534,7 +534,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
  </tbody> 
 </table>
 
-**Déclencheurs Sales Connect**
+### Déclencheurs Sales Connect {#sales-connect-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -711,7 +711,113 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
  </tbody> 
 </table>
 
-**Divers**
+### Jetons de déclenchement du Dynamic Chat {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Engagé avec un dialogue</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Réunion programmée dans un dialogue</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Objectif de dialogue atteint</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>Interaction avec le document dans le dialogue</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+### Divers {#miscellaneous}
 
 <table style="table-layout:auto"> 
  <colgroup> 
