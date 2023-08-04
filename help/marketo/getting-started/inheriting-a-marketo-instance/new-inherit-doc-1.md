@@ -3,10 +3,10 @@ description: Hériter de Doc 1 - Documents Marketo - Documentation du produit
 title: Hériter Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
+source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
 workflow-type: tm+mt
-source-wordcount: '1149'
-ht-degree: 7%
+source-wordcount: '1220'
+ht-degree: 6%
 
 ---
 
@@ -24,7 +24,7 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
 
 ## Utilisateurs et rôles {#users-and-roles}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th>Zone</th> 
@@ -33,22 +33,22 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   </tr> 
   <tr> 
    <td>Utilisateurs</td> 
-   <td><li>Combien d’utilisateurs y a-t-il ?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Nombre d’utilisateurs</a> y en a-t-il ?</li>
 <li>Certains utilisateurs doivent-ils avoir expiré ?</li>
 <li>Votre entreprise a-t-elle des politiques concernant la suppression d’utilisateurs ?</li> 
-<li>Combien d’utilisateurs disposent d’autorisations d’administrateur ?</li>
-<li>L’un de ces utilisateurs doit-il être remplacé par d’autres rôles ?</li> 
+<li>Nombre d’utilisateurs <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Autorisations d’administrateur</a>?</li>
+<li>L’un de ces utilisateurs doit-il être remplacé par <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">d’autres rôles ?</a></li> 
 <li>Qui sont les utilisateurs de l’API dans cette instance ?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Rôles</td> 
    <td><li>Combien y a-t-il de rôles ?</li>  
-<li>Quels droits/accès possède chaque rôle ? Y a-t-il des ajustements ?</li>
+<li>What <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">autorisations/accès</a> chaque rôle a-t-il sa place ? Y a-t-il des ajustements ?</li>
 <li>Combien d’utilisateurs y a-t-il par rôle ?</li>
-<li>À quelle fréquence les utilisateurs se connectent-ils ?</li>
-<li>Chaque utilisateur de l’API possède-t-il son propre rôle d’utilisateur ? Si ce n’est pas le cas, envisagez de mettre en oeuvre cette méthode pour faciliter le dépannage.</li> 
-<li>Vos rôles utilisateur et autorisations sont-ils conformes aux politiques de confidentialité des données de votre entreprise ?</li></td>
+<li>À quelle fréquence les utilisateurs <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">connexion</a>?</li>
+<li>Chaque utilisateur de l’API possède-t-il une <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">rôle d'utilisateur propre</a>? Si ce n’est pas le cas, envisagez de mettre en oeuvre cette méthode pour faciliter le dépannage.</li> 
+<li>Les rôles utilisateur et les autorisations correspondent-ils aux données de votre entreprise ? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">politiques de confidentialité</a>?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -59,8 +59,8 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   </tr>
   <tr> 
    <td>Environnement de test (le cas échéant)</td> 
-   <td><li>Disposez-vous d’une instance sandbox ? Si tel est le cas, passez en revue les catégories ci-dessus pour votre environnement de test.</li>
-<li>L’importation de programme est-elle liée à votre environnement de test ?</li></td>
+   <td><li>Avez-vous un <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">instance sandbox</a>? Si tel est le cas, passez en revue les catégories ci-dessus pour votre environnement de test.</li>
+<li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Importation de programme</a> lié à votre environnement de test ?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -77,7 +77,7 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   </tr> 
   <tr> 
    <td>Journal d'audit</td> 
-   <td><li>Qui travaille dans l’instance ?</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Qui travaille ?</a> dans l’instance ?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -263,6 +263,25 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
 <li>Avez-vous <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">mise à niveau vers la dernière version de Sales Insight</a>?</li>
 <li>Avez-vous terminé la configuration de Sales Insight ? Utilisateurs d’entreprise/illimités <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">cliquez ici</a>, utilisateurs professionnels <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">cliquez ici</a>.</li>
 <li>Avez-vous <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">donner accès à vos utilisateurs ;</a> en fonction du nombre de sièges que vous avez achetés ?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Point de lancement (le cas échéant)</td> 
+   <td><li>Quels services avez-vous configurés (webinaire, publicité, etc.) ? Est-ce qu'il y en a qui approchent de leur expiration ?</li>
+<li>Combien d’appels d’API vos intégrations utilisent-elles ?</li>
+<li>Disposez-vous des intégrations appropriées pour vos cas d’utilisation ?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Webhooks (le cas échéant)</td> 
+   <td><li>Quelles connexions avez-vous configurées ?</li>
+<li>N’est-il plus utilisé ?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Applications mobiles (le cas échéant)</td> 
+   <td><li>Quelles applications mobiles avez-vous ?</li>
+<li>Quels appareils de test ont été ajoutés ?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
