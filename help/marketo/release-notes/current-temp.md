@@ -4,9 +4,9 @@ title: Modèle des notes de mise à jour actuelles
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '929'
 ht-degree: 11%
 
 ---
@@ -313,7 +313,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Déclencher des jetons pour les nouvelles activités**: nouveaux jetons de déclenchement pour la prise en charge des nouvelles activités pour Dynamic Chat.
+* **Déclencher des jetons pour les nouvelles activités**: de nouveaux jetons de déclenchement sont disponibles pour prendre en charge les nouvelles activités pour Dynamic Chat.
 
 <table> 
   <tr> 

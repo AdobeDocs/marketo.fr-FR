@@ -4,9 +4,9 @@ description: Ajout de champs de lien d’objet personnalisé Marketo - Documents
 title: Ajout de champs de lien d’objet personnalisé Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '702'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,15 @@ ht-degree: 1%
 Lorsque vous créez des objets personnalisés, vous devez fournir des champs de lien pour connecter l’enregistrement d’objet personnalisé à l’enregistrement parent correct.
 
 * Pour une structure personnalisée de type &quot;un à plusieurs&quot;, utilisez le champ de lien dans l’objet personnalisé pour le connecter à une personne ou à une entreprise.
-* Pour une structure multiple-à-multiple, vous utilisez deux champs de lien, connectés à un objet intermédiaire créé séparément (qui est également un type d’objet personnalisé). Un lien se connecte aux personnes ou aux entreprises de votre base de données, tandis que l’autre se connecte à l’objet personnalisé. Dans ce cas, le champ de lien ne se trouve pas dans l’objet personnalisé lui-même.
+* Pour une structure multiple-à-multiple, vous utilisez deux champs de lien, connectés à un objet intermédiaire créé séparément (qui est également un type d’objet personnalisé). Un lien se connecte aux personnes ou aux entreprises de votre base de données et l’autre à l’objet personnalisé. Dans ce cas, le champ de lien ne se trouve pas dans l’objet personnalisé lui-même.
+
+>[!IMPORTANT]
+>
+>Marketo Engage ne prend en charge qu’un seul objet de périphérie pour chaque objet de pont dans la relation De plusieurs à plusieurs . Dans l&#39;exemple ci-dessous, chaque inscription ne peut être associée qu&#39;à un seul cours. Cependant, il peut y avoir de nombreux objets de pont pour chaque objet de périphérie, tout comme il y a de nombreuses inscriptions d’étudiants à chaque cours (relation multiple-à-un). Si vos données d’objet personnalisées sont structurées de sorte qu’il existe plusieurs enregistrements d’objet Edge pour chaque enregistrement d’objet Bridge (Un-à-multiple ou Plusieurs-à-multiple), vous pouvez créer plusieurs enregistrements d’objet Bridge qui se rapportent chacun à un seul enregistrement d’objet Edge pour représenter ces données dans Marketo.
 
 ## Création d’un champ de lien pour une structure de type &quot;un à plusieurs&quot; {#create-a-link-field-for-a-one-to-many-structure}
 
-Voici comment créer un champ de lien dans un objet personnalisé pour une structure de type &quot;un à plusieurs&quot;.
+Voici comment créer un champ de lien dans un objet personnalisé pour une structure un-à-plusieurs.
 
 1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
@@ -56,7 +60,7 @@ Voici comment créer un champ de lien dans un objet personnalisé pour une struc
    >
    >Si vous choisissez [!UICONTROL société], vous verrez l’identifiant et tous les champs personnalisés dans la liste.
 
-1. Sélectionnez la [!UICONTROL Champ de lien] vous souhaitez vous connecter en tant que parent du nouveau champ.
+1. Sélectionnez la variable [!UICONTROL Champ de lien] vous souhaitez vous connecter en tant que parent du nouveau champ.
 
    ![](assets/add-marketo-custom-object-link-fields-7.png)
 
@@ -100,11 +104,11 @@ Voici comment créer un champ de lien dans un objet intermédiaire à utiliser d
    >
    >Vous ne pourrez pas revenir en arrière et créer, modifier ou supprimer une [!UICONTROL Lien] ou [!UICONTROL Champ de déduplication] une fois l’objet personnalisé approuvé.
 
-1. Sélectionnez la [!UICONTROL Objet du lien] de votre base de données ; dans ce cas, [!UICONTROL prospect].
+1. Sélectionnez la variable [!UICONTROL Objet du lien] de votre base de données ; dans ce cas, [!UICONTROL prospect].
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 
-1. Sélectionnez la [!UICONTROL Champ de lien] vous souhaitez vous connecter, dans ce cas, à : [!UICONTROL Id].
+1. Sélectionnez la variable [!UICONTROL Champ de lien] vous souhaitez vous connecter, dans ce cas, à : [!UICONTROL Id].
 
    ![](assets/add-marketo-custom-object-link-fields-15.png)
 
@@ -116,7 +120,7 @@ Voici comment créer un champ de lien dans un objet intermédiaire à utiliser d
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
-1. Répétez cette procédure pour le deuxième lien vers votre objet personnalisé, dans cet exemple, courseID. Le [!UICONTROL Objet du lien] Le nom est &quot;cours&quot; et la variable [!UICONTROL Champ de lien] sera courseID. Comme vous avez déjà créé et approuvé l’objet personnalisé du cours, ces sélections sont disponibles dans les menus déroulants.
+1. Répétez cette procédure pour le deuxième lien vers votre objet personnalisé, dans cet exemple, courseID. La variable [!UICONTROL Objet du lien] Le nom sera cours et la variable [!UICONTROL Champ de lien] sera courseID. Comme vous avez déjà créé et approuvé l’objet personnalisé du cours, ces sélections sont disponibles dans les menus déroulants.
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 
