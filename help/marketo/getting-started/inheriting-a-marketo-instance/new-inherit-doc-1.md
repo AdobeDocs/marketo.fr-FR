@@ -3,9 +3,9 @@ description: Hériter de Doc 1 - Documents Marketo - Documentation du produit
 title: Hériter Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
+source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1225'
 ht-degree: 6%
 
 ---
@@ -94,11 +94,11 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   </tr> 
   <tr> 
    <td>Espaces de travail et partitions</td> 
-   <td><li>Combien d'espaces de travail et/ou de partitions avez-vous ?</li>
+   <td><li>Combien <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">espaces de travail et/ou partitions</a> l'avez-vous ?</li>
 <li>Quel est le but Principal de chaque espace de travail et de chaque partition ?</li>
-<li>Ont-ils besoin d'être contrôlés ou modifiés ?</li>
+<li>Effectuez l’une des opérations suivantes : <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Espaces de travail</a> ou <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partitions</a> doivent être contrôlés/modifiés ?</li>
 <li>Quelle est la relation entre vos espaces de travail et vos partitions ?</li>
-<li>Combien d’utilisateurs ont accès à chaque espace de travail ?</li></td>
+<li>Nombre d’utilisateurs <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">disposer d’un accès</a> à chaque espace de travail ?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -121,7 +121,7 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   </tr> 
   <tr> 
    <td>Paramètres de la campagne intelligente</td> 
-   <td><li>Existe-t-il une restriction sur la taille d’une campagne dynamique ?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Avez-vous une restriction ?</a> sur la taille d’une campagne dynamique ?</li>
 <li>Si ce n’est pas le cas, envisagez d’en ajouter une. Nous vous recommandons de limiter les limites des campagnes intelligentes à 25 % de votre base de données afin d’éviter toute surcharge de communication ou de traitement de l’ensemble de votre base de données dans les workflows. Cela protège non seulement votre marque, mais également les performances de votre instance.</li></td>
    <td>3</td>
   </tr>
@@ -139,8 +139,8 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   </tr> 
   <tr> 
    <td>Limites de communication</td> 
-   <td><li>Y a-t-il des limites en place ? Votre entreprise a-t-elle des politiques pour lesquelles des limites de communication peuvent être nécessaires ?</li>
-<li>Adobe recommande de limiter votre communication à 1 par jour et 3 par 7 jours, avec les emails non opérationnels bloqués.</li></td>
+   <td><li>Existe-t-il <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">limites de communication</a> en place ? Votre entreprise a-t-elle des politiques pour lesquelles des limites de communication peuvent être nécessaires ?</li>
+<li>Adobe recommande de limiter votre communication à 1 par jour et 3 par 7 jours, avec <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">opérationnel</a> emails bloqués.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,8 +163,8 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   </tr>
   <tr> 
    <td>Canaux</td> 
-   <td><li>Combien de canaux y a-t-il ? Combien sont utilisés ?</li>
-<li>Tous les statuts des programmes des canaux sont-ils appropriés ? Est-ce qu'ils affichent la progression dans le programme ?</li>
+   <td><li>Combien <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">channels</a> y en a-t-il ? Combien sont utilisés ?</li>
+<li>Sont tous <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">états appropriés du programme de canal</a>? Est-ce qu'ils affichent la progression dans le programme ?</li>
 <li>Vos canaux sont-ils liés à des types de programmes spécifiques ?</li>
 <li>Quels états sont considérés comme une réussite pour chaque canal ? Ces objectifs correspondent-ils à vos objectifs marketing ?</li>
 <li>Le canal opérationnel est-il utilisé de manière appropriée ?</li>
