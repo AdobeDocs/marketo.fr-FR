@@ -3,16 +3,16 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: e07204bc9a0edbd99f4059c6e859f33c75c1f02a
+source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 7%
+source-wordcount: '931'
+ht-degree: 12%
 
 ---
 
-# Notes de mise à jour : juillet 2023 {#release-notes-july-23}
+# Notes de mise à jour : septembre 2023 {#release-notes-sep-23}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 juillet. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 septembre. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
@@ -20,11 +20,11 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 
 ## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **21 juillet 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
+Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **8 septembre 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
 
 </br>
 
-* **Carte d’engagement**: la carte de l’engagement est un outil visuel qui vous permet de créer et d’organiser des campagnes réutilisables. Elle est entièrement rétrocompatible, de sorte que toutes les campagnes existantes peuvent être visualisées dans cette nouvelle structure en cliquant sur un bouton. Les cartes peuvent être téléchargées et partagées.
+* **Bibliothèque de références Marketo**: la bibliothèque de référence des programmes du Marketo Engage permet aux utilisateurs d’importer des programmes &quot;d’exemple&quot; et d’autres ressources qui représentent les bonnes pratiques recommandées par Adobe. Notre équipe de gestion des produits a entièrement mis à jour la bibliothèque, fournissant ainsi des outils plus précieux pour ceux qui souhaitent démarrer rapidement leur programme.
 
 <table> 
   <tr> 
@@ -32,13 +32,13 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Présentation de la carte des engagements</a></td>
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Notifications - Erreur des services web**: la notification d’erreur des services web inclut désormais le nom de l’abonnement, ce qui facilite la gestion de plusieurs instances de Marketo Engage. Nous avons également ajouté une colonne &quot;Utilisateur&quot; au tableau contenant des codes d’erreur et des comptes, afin que vous puissiez facilement identifier l’utilisateur de l’API responsable de la génération d’une erreur spécifique lors de l’appel de l’API REST Marketo.
+* **Utilisé par colonne de comptage pour Design Studio Assets**: la colonne Utilisé par le décompte pour les vues de liste dans Design Studio met en surbrillance le nombre/nombre de ressources qui utilisent la ressource en question. Cela s’applique aux fragments de code, aux modèles de courrier électronique, à Forms et aux modèles de page d’entrée.
 
 <table> 
   <tr> 
@@ -46,8 +46,36 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td>Expédié</td>
-   <td>s/o</td>
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Utilisé par l’onglet Améliorations pour les ressources de Design Studio**: l’onglet Utilisé par l’amélioration fournit une vue plus détaillée du type et du nom d’une ressource, ainsi que de son emplacement d’utilisation. Cela s’applique aux détails des emails et aux détails des images et des fichiers.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Service d’étape de flux de formule de calcul**: la formule de calcul est un service d’étape de flux basé sur la plateforme d’exécution d’E/S d’Adobe pour une utilisation avec des campagnes dynamiques de Marketo Engage. Les clients Adobe disposant d’un runtime IO peuvent déployer le service et l’installer sur leurs abonnements de Marketo Engage, ce qui leur permet de calculer des formules de type Excel dans les campagnes dynamiques Marketo.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
   </tr>
   </tbody>
 </table>
@@ -56,11 +84,25 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 Les fonctionnalités suivantes suivent un format Agile et sont publiées à diverses dates avant ou après la date de publication standard. Vérifiez l’état de chaque fonctionnalité ci-dessous.
 
+* **Intégration Marketo + Workfront**: pour les utilisateurs disposant de Marketo et Workfront, vous pouvez désormais utiliser des modèles de fusion Workfront pour intégrer les deux produits et déverrouiller de nouveaux workflows d’automatisation afin de rationaliser l’exécution des campagnes.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
 ### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Source de conversation pour le Dynamic Chat**: &quot;Chat&quot; est désormais proposé en tant que source des nouveaux enregistrements et activités de nouvelles personnes. Cette source peut être utilisée pour aider les utilisateurs à filtrer les activités dans les listes dynamiques/campagnes. La source peut également être bloquée des mises à jour des champs.
+* **Carte d’actions dans le Concepteur de flux**: les marketeurs peuvent utiliser des cartes d’action dans le flux de dialogue pour transmettre des valeurs masquées à l’enregistrement de personne du Marketo Engage lorsque les visiteurs interagissent avec un dialogue.
 
 <table> 
   <tr> 
@@ -74,7 +116,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Activités Dynamic Chat améliorées**: les activités, filtres et déclencheurs du Dynamic Chat ont été améliorés avec des attributs supplémentaires et des conventions d’affectation de noms normalisées.
+* **Page Ressource de flux de conversation**: la page Ressource de Design Studio répertorie désormais les flux de conversation des Dynamic Chat. Identifiez les flux qui peuvent être intégrés aux ressources Marketo Engage et directement liés à leur éditeur.
 
 <table> 
   <tr> 
@@ -88,11 +130,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-### Marketo Sales Insight {#marketo-sales-insight}
-
-</br>
-
-* **Désabonner les paramètres d’ajout**: vous avez désormais plus de contrôle sur vos messages de désabonnement avec de nouvelles options de configuration pour Désabonner l’ajout. Les nouvelles fonctionnalités permettent aux administrateurs de contrôler quand, où et quels messages de désabonnement apparaîtront dans vos emails de vente.
+* **Conversation de Forms avec Marketo Engage Forms**: rendez Marketo Engage Forms conversationnel en l’intégrant aux flux de conversation des Dynamic Chat. qualifier instantanément des pistes à l’aide des données de formulaire ou de l’adhésion à une liste dynamique pour répondre aux réservations, aux liens de livres blancs ou aux objectifs personnalisés.
 
 <table> 
   <tr> 
@@ -106,35 +144,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Invitations De Champ Dynamique**: vous pouvez désormais inviter votre équipe de vente à personnaliser davantage des parties spécifiques d’un email avec de nouvelles invites de champ pouvant être ajoutées aux modèles d’email dans les actions d’aperçu des ventes.
-
-<table> 
-  <tr> 
-   <td><b>Statut</b></td>
-   <td><b>Mises à jour de la documentation</b></td>
-  </tr>
-  <tr> 
-   <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Invite de champ</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Champs dynamiques par défaut**: les champs dynamiques par défaut vous permettent de configurer une valeur de secours à laquelle un champ dynamique peut se résoudre s’il n’existe aucune valeur à renseigner. Cela permet de s’assurer que les emails sont envoyés avec toute la personnalisation renseignée.
-
-<table> 
-  <tr> 
-   <td><b>Statut</b></td>
-   <td><b>Mises à jour de la documentation</b></td>
-  </tr>
-  <tr> 
-   <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">Champs dynamiques</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Prise en charge des Dynamic Chat pour Sales Insight**: des mises à jour ont été apportées pour prendre en charge les nouveaux attributs de Dynamic Chat introduits dans cette version pour tous les utilisateurs de Dynamic Chat.
+* **SDK Conversations**: transformez n’importe quel formulaire, landing page ou presque n’importe quelle page web en expériences de réservation de réunions attrayantes.
 
 <table> 
   <tr> 
@@ -148,7 +158,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Prise en charge des Dynamic Chat pour les actions Sales Insight**: les activités des Dynamic Chat sont désormais prises en charge dans le flux de piste, ainsi que les notifications lorsqu’une conversation en direct est envoyée à un agent.
+* **Paramètres de réservation de réunions personnalisés**: les agents peuvent définir des paramètres de réservation de réunions personnalisés tels que la disponibilité, la durée de la réunion et le &quot;temps tampon&quot; entre les réunions.
 
 <table> 
   <tr> 
@@ -162,7 +172,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Jetons de déclenchement du Dynamic Chat**: introduction de nouveaux jetons de déclenchement pour les activités de Dynamic Chat à utiliser dans les moments intéressants.
+* **Paramètres de secours**: les administrateurs peuvent définir des paramètres de secours personnalisés pour définir ce que voient les visiteurs lorsque les agents ne sont pas disponibles pour la conversation.
 
 <table> 
   <tr> 
@@ -170,14 +180,154 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Jetons de déclenchement du Dynamic Chat</a></td>
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Tableau de bord des performances globales**: découvrez les performances de vos boîtes de dialogue, notamment les mesures d’engagement et de performance (total et sur une période), les pages les plus performantes et les boîtes de dialogue les plus performantes.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Conversation en direct**: les visiteurs web peuvent discuter avec les agents de vente en temps réel pour obtenir une réponse à leurs questions.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Tableau de bord des performances de la messagerie instantanée**: affichez le nombre de conversations que vos agents de vente en direct ont eues et les équipes les plus performantes.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Ciblage de la liste dynamique des Marketo Engage**: les marketeurs peuvent cibler les membres des listes dynamiques de Marketo Engage dans les critères d’audience de dialogue.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Tableau de bord des performances des réunions**: découvrez combien de réunions sont réservées et avec qui elles sont réservées.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Nouvelles activités de Dynamic Chat**: nouvelles activités pour la prise en charge des flux de conversation, de la messagerie instantanée et d’autres nouvelles fonctionnalités.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Notifications de tchat en temps réel**: lorsque les visiteurs demandent de discuter en direct, les agents reçoivent des notifications in-app et de navigateur en temps réel.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Notifications d’actions d’aperçu des ventes**: les agents avec des actions Sales Insight recevront des notifications de demande de chat en temps réel dans le panneau Actions de Sales Insight .
+
+<table>
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Équipes**: créez des équipes d’agents vers lesquelles les visiteurs peuvent être orientés pour le chat en direct ou pour les réservations de réunions.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Déclencher des jetons pour les nouvelles activités**: de nouveaux jetons de déclenchement sont disponibles pour prendre en charge les nouvelles activités pour Dynamic Chat.
+
+<table> 
+  <tr> 
+   <td><b>Statut</b></td>
+   <td><b>Mises à jour de la documentation</b></td>
+  </tr>
+  <tr> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
   </tr>
   </tbody>
 </table>
 
 ## Annonces {#announcements}
 
-* **Mise à niveau vers Google Analytics 4**: Marketo prenait auparavant en charge Universal Analytics, qui cesserait d’enregistrer les données d’ici le 1er juillet 2023. Les utilisateurs RTP devront suivre le processus de migration dans leur tableau de bord Google Analytics pour terminer la prise en charge de l’intégration de Google Analytics 4 dans RTP. À l’avenir, les utilisateurs disposeront d’une balise alphanumérique unique (située dans la variable `<head>` de la section html) dans leurs landing pages, ce qui permet à Marketo d’envoyer des données aux Google Analytics.
+* **Basculer vers l’obsolescence pour les ressources de Design Studio**: le commutateur à bascule qui permet aux utilisateurs de basculer entre l’interface classique et l’expérience utilisateur moderne pour Design Studio sera obsolète, ainsi que l’ancienne version de l’expérience Design Studio, ce qui permet aux utilisateurs de migrer complètement vers l’expérience utilisateur moderne.
 
 * **_Webinaire sur la version du produit_**: rejoignez-nous le 6 septembre 2023, à 9 h 00 PT / 12 h ET pour une [webinaire en direct](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} hébergée par notre équipe produit, où vous découvrirez comment utiliser toutes les dernières innovations de produits.
