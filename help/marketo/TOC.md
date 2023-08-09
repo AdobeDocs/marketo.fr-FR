@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '9007'
+source-wordcount: '9008'
 ht-degree: 5%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 + [Accueil](home.md)
 + Prise en main de Marketo {#getting-started-with-marketo}
-   + [Premiers pas](getting-started.md)
+   + [Prise en main](getting-started.md)
    + [Qu’est-ce que Adobe Marketo Engage ?](getting-started/what-is-adobe-marketo-engage.md)
    + [Centre dʼaide](getting-started/help-center.md)
    + [Glossaire Marketo](getting-started/marketo-glossary.md)
@@ -179,6 +179,7 @@ ht-degree: 5%
          + [Ajouter un utilisateur API uniquement pour les abonnements activés pour Adobe IMS](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [Ajout ou suppression d’un administrateur de produit](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Ajout ou suppression d’un utilisateur](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
+         + [Questions fréquentes](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Connexion utilisateur avec Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + [Présentation de l’abonnement Marketo et de la migration des utilisateurs vers Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + Paramètres {#settings}
@@ -241,7 +242,7 @@ ht-degree: 5%
       + [Configuration du mappage de l’organisation Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synchronisation d’une audience à partir de Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importation de ressources avec Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Présentation de l’interface Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + [Vue d’ensemble de l’interface Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Concepts Marketo de base {#core-marketo-concepts}
       + Campagnes intelligentes {#smart-campaigns}
          + [Présentation des campagnes intelligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1094,7 +1095,7 @@ ht-degree: 5%
       + [Utilisation de la recherche globale](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [Basculer/Basculer](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo Sales Connect {#marketo-sales-connect}
-      + Premiers pas {#getting-started}
+      + Prise en main {#getting-started}
          + [Présentation de Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Accès à votre nouvelle instance Sales Connect](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Guide de prise en main pour les administrateurs de Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
@@ -1302,7 +1303,7 @@ ht-degree: 5%
    + Marketo Sales Insight {#marketo-sales-insight}
       + Actions {#actions}
          + [Présentation de la fonction Actions d’aperçu des ventes](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
-         + Premiers pas {#getting-started}
+         + Prise en main {#getting-started}
             + [Guide d’intégration des utilisateurs des actions Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Liste de contrôle d’intégration des utilisateurs des actions Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Guide de configuration des actions Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
@@ -1624,7 +1625,7 @@ ht-degree: 5%
       + [Résumé du contenu prédictif](product-docs/predictive-content/the-predictive-content-summary.md)
       + [Définition d’une liste dynamique pour les activités de contenu prédictif](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [Présentation de Predictive Content Analytics](product-docs/predictive-content/predictive-content-analytics-overview.md)
-      + Premiers pas {#getting-started}
+      + Prise en main {#getting-started}
          + [Paramètres de l’objectif d’algorithme](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [Créez des modèles de contenu](product-docs/predictive-content/getting-started/create-content-patterns.md)
          + [Déploiement de JavaScript pour Content-AI](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
@@ -1836,7 +1837,7 @@ ht-degree: 5%
          + [Marketing web basé sur un compte avec la gestion des actifs numériques](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Créer une liste de comptes](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [Création d’un segment à l’aide d’une liste de comptes](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
-      + Premiers pas {#getting-started}
+      + Prise en main {#getting-started}
          + [Ajouter des sous-domaines dans Paramètres de compte](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [Modifier les régions](product-docs/web-personalization/getting-started/edit-regions.md)
          + [Connexion et gestion des utilisateurs](product-docs/web-personalization/getting-started/login-and-user-management.md)
