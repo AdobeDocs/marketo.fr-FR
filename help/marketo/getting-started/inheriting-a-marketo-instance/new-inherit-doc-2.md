@@ -3,10 +3,10 @@ description: Hériter de Doc 2 - Documents Marketo - Documentation du produit
 title: Hériter Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 15%
+source-wordcount: '383'
+ht-degree: 9%
 
 ---
 
@@ -28,13 +28,13 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr> 
   <tr> 
    <td>Toutes les personnes</td> 
-   <td><li>Combien de personnes y a-t-il dans la base ?</li>
+   <td><li>Le nombre de personnes dans la variable <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">base</a>?</li>
 <li>Si votre base de données est presque pleine, la politique de votre société vous recommande-t-elle d’augmenter la taille de votre base de données ou de nettoyer les données historiques ?</li>
 <li>Votre base de données globale est-elle commercialisable à au moins 85 % ? Si le vôtre tombe sous ce seuil, consultez les autres listes intelligentes du système (Liste bloquée, Marketing suspendu, Doublons, Désabonner) avec une plus grande attention.</li></td>
   </tr>
   <tr> 
    <td>Personnes désabonnées</td> 
-   <td><li>Quels sont vos critères pour les personnes désabonnées ? Y a-t-il trop de personnes désinscrites ?</li>
+   <td><li>Quels sont vos critères pour <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">personnes désabonnées</a>? Y a-t-il trop de personnes désinscrites ?</li>
 <li>Vos méthodes de désabonnement sont-elles conformes à vos exigences en matière de confidentialité des données ?</li>
 <li>Votre préférence de désabonnement est-elle à jour ? Combien de temps les enregistrements sont-ils restés dans votre base de données comme non commercialisables ?</li></td>
   </tr>
@@ -72,16 +72,10 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Listes de groupes intelligentes</td> 
+   <td><li>Quelles sont les listes intelligentes de groupe ? Comment sont-ils utilisés dans cette instance ?</li>
+<li>Les listes sont-elles organisées dans une structure de dossiers cohérente ? Si vous disposez de listes orphelines, envisagez d’organiser votre arborescence afin que les ressources soient faciles à trouver.</li>
+<p>Conseil : Archivez les listes intelligentes de groupe qui ne sont plus nécessaires pour interroger, créer des rapports ou faire référence à l’organisation et aux performances.</td>
   </tr>
  </tbody> 
 </table>
@@ -95,16 +89,9 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Listes de groupes</td> 
+   <td><li>Quelles listes de groupes y a-t-il ?</li>
+<li>Comment sont-ils utilisés dans cette instance ?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -118,16 +105,10 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Segmentations</td> 
+   <td><li>Quel <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentation</a> y en a-t-il ? Comment sont-ils utilisés ?</li>
+<li>Y a-t-il trop de gens dans <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segments par défaut</a>?</li>
+<li>Existe-t-il une segmentation pour l’audience vendable ? Si ce n'est pas le cas, envisagez d'en créer un.</li></td>
   </tr>
  </tbody> 
 </table>
