@@ -4,9 +4,9 @@ description: Présentation du module externe Insight de compte - Documents Marke
 title: Présentation du module externe Insight du compte
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ Account Insight est un plug-in Chrome qui permet d’afficher des informations e
 
 >[!AVAILABILITY]
 >
->Account Insight est inclus pour tous les clients qui disposent à la fois de TAM et de Marketo Sales Insight. Pour les clients qui ne disposent que de la gestion des actifs numériques (TAM), Insight de compte est disponible sous la forme d’un module complémentaire acheté. Chaque client est limité à 250 sièges Account Insight. Pour plus d’informations, contactez votre représentant commercial. Il n’est pas disponible pour les clients qui ne disposent pas de la gestion des actifs numériques (TAM).
+>* Account Insight est inclus pour tous les clients qui disposent à la fois de TAM et de Marketo Sales Insight. Pour les clients qui ne disposent que de la gestion des actifs numériques (TAM), Insight de compte est disponible sous la forme d’un module complémentaire acheté. Chaque client est limité à 250 sièges Account Insight. Pour plus d’informations, contactez votre représentant commercial. Il n’est pas disponible pour les clients qui ne disposent pas de la gestion des actifs numériques (TAM).
+>
+>* Ce module externe n’est pas compatible avec [Authentification des identités d’Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} à ce moment-là.
 
 >[!CAUTION]
 >
@@ -29,7 +31,7 @@ Account Insight est un plug-in Chrome qui permet d’afficher des informations e
 
 ## Comptes nommés {#named-accounts}
 
-Voir les comptes nommés par ordre de classement les uns des autres. Cette liste est disponible uniquement pour les propriétaires de compte. La prise en charge de l’équipe chargée du compte sera bientôt disponible.
+Voir les comptes nommés par ordre de classement entre eux. Cette liste est disponible uniquement pour les propriétaires de compte. La prise en charge de l’équipe chargée du compte sera bientôt disponible.
 
 ![](assets/na1.png)
 
@@ -37,7 +39,7 @@ Pour afficher les détails d’un compte nommé, cliquez sur son nom...
 
 ![](assets/na3.png)
 
-...et la présentation s’affiche.
+...et l’aperçu s’affiche.
 
 ![](assets/na4.png)
 

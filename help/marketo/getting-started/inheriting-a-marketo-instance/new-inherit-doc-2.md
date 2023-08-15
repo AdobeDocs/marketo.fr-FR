@@ -3,9 +3,9 @@ description: Hériter de Doc 2 - Documents Marketo - Documentation du produit
 title: Hériter Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '384'
 ht-degree: 9%
 
 ---
@@ -40,13 +40,13 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr>
   <tr> 
    <td>Suspension du marketing</td> 
-   <td><li>Quels sont vos critères pour le Marketing suspendu ? Y a-t-il trop de gens qui font du marketing suspendu ?</li>
+   <td><li>Quels sont vos critères pour <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing suspendu</a>? Y a-t-il trop de gens qui font du marketing suspendu ?</li>
 <li>Combien de temps les enregistrements sont-ils restés dans l’état de suspension du marketing ?</li>
 <p>Exemple de cas d’utilisation Marketing suspendu : enregistrements qui sont activement impliqués dans les ventes à un stade avancé pour lesquels vous souhaitez supprimer les communications marketing.</td>
   </tr>
    <tr> 
    <td>Liste de blocage</td> 
-   <td><li>Quels sont vos critères de Liste bloquée ? Y a-t-il trop de gens qui sont placés sur la liste bloquée ?</li></td>
+   <td><li>Quels sont vos critères pour <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">placer sur la liste bloquée des enregistrements</a>? Y a-t-il trop de gens qui sont placés sur la liste bloquée ?</li></td>
   </tr>
   <tr> 
    <td>Adresses e-mail renvoyées</td> 
@@ -54,11 +54,11 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr>
   <tr> 
    <td>Doublons possibles</td> 
-   <td><li>Combien d’enregistrements potentiellement dupliqués y a-t-il ? Envisagez de les supprimer ou de les fusionner.</li></td>
+   <td><li>Combien <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">enregistrement potentiellement en double</a> y en a-t-il ? Envisagez de les supprimer ou de les fusionner.</li></td>
   </tr>
    <tr> 
    <td>Hormis programme d’acquisition</td> 
-   <td><li>Combien de personnes n'ont pas de programme d'acquisition ? S'il y a beaucoup de choses, réfléchissez à pourquoi.</li></td>
+   <td><li>Combien de personnes n’ont pas de <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programme d'acquisition</a>? S'il y a beaucoup de choses, réfléchissez à pourquoi.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -75,7 +75,7 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
    <td>Listes de groupes intelligentes</td> 
    <td><li>Quelles sont les listes intelligentes de groupe ? Comment sont-ils utilisés dans cette instance ?</li>
 <li>Les listes sont-elles organisées dans une structure de dossiers cohérente ? Si vous disposez de listes orphelines, envisagez d’organiser votre arborescence afin que les ressources soient faciles à trouver.</li>
-<p>Conseil : Archivez les listes intelligentes de groupe qui ne sont plus nécessaires pour interroger, créer des rapports ou faire référence à l’organisation et aux performances.</td>
+<p>Conseil : <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiver</a> des listes dynamiques de groupe qui ne sont plus nécessaires pour interroger, créer des rapports ou faire référence à l’organisation et aux performances.</td>
   </tr>
  </tbody> 
 </table>

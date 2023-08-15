@@ -4,9 +4,9 @@ description: Installation de Marketo Insights pour Google Chrome - Documentation
 title: Installation de Marketo Insights pour Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ Suivez ces étapes pour commencer à utiliser le puissant module complémentaire
 >[!NOTE]
 >
 >Les fonctionnalités des actions d’aperçu des ventes, notamment Envoyer un courrier électronique de vente, Ajouter à la campagne de ventes et Tâches, ne sont pas disponibles dans les modules externes de messagerie de Sales Insight pour Gmail et Outlook. Actuellement, les utilisateurs peuvent uniquement envoyer un email pouvant faire l’objet d’un suivi avec ou sans modèle de courrier électronique Marketo depuis leur client de messagerie lors de l’utilisation des modules externes de courrier électronique Sales Insight .
-
->[!AVAILABILITY]
->
->Cette extension n’est pas compatible avec [Authentification des identités d’Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} à ce moment-là.
 
 1. Installez le [Marketo Insights for Google Chrome Ajouter une extension](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} à partir de Chrome Web Store.
 
@@ -37,7 +33,7 @@ Suivez ces étapes pour commencer à utiliser le puissant module complémentaire
 
    >[!CAUTION]
    >
-   >Veillez à utiliser **Principal compte de messagerie** lors de l’enregistrement, car nous ne prenons pas en charge l’utilisation d’alias pour ce module externe.
+   >Veillez à utiliser **compte de messagerie principal** lors de l’enregistrement, car nous ne prenons pas en charge l’utilisation d’alias pour ce module externe.
 
    >[!NOTE]
    >

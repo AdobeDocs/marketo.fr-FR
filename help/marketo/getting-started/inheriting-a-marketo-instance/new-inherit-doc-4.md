@@ -3,10 +3,10 @@ description: Hériter du document 4 - Documents Marketo - Documentation du produ
 title: Hériter du document 4
 hide: true
 hidefromtoc: true
-source-git-commit: fe18bd1c759bd7442723a1a6326b786203c62fd0
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 55%
+source-wordcount: '425'
+ht-degree: 5%
 
 ---
 
@@ -18,272 +18,119 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
 >
 >Si vous êtes un nouvel utilisateur Marketo Engage et que vous ne connaissez pas beaucoup des termes, consultez la section [Glossaire Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
-## Utilisateurs et rôles {#users-and-roles}
+## Pages de destination {#landing-pages}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Colonne 1</th> 
-   <th>Colonne 2</th>
-   <th>Colonne 3</th>
+   <th>Zone</th> 
+   <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Pages de destination internationales</td> 
+   <td><li>Combien de pages d’entrée globales y a-t-il ? Sont-elles utilisées par des programmes ?</li>
+<li>Le cas échéant, existe-t-il une landing page de centre d'inscription via Marketo ?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Modèles</td> 
+   <td><li>Combien de modèles de landing page y a-t-il ? Sont-elles utilisées ?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Confidentialité et conformité</td> 
+   <td><li>Toutes vos landing pages ont-elles les pieds de page appropriés ?</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Journal d&#39;audit {#audit-trail}
+## Formulaires {#forms}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Colonne 1</th> 
-   <th>Colonne 2</th>
-   <th>Colonne 3</th>
+   <th>Zone</th> 
+   <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Formulaires internationaux</td> 
+   <td><li>Combien de formulaires globaux y a-t-il ?</li>
+<li>La plupart des programmes utilisent-ils des formulaires globaux ou locaux ?</li>
+<li>Tous les formulaires collectent-ils les données appropriées pour le marketing et les ventes ?</li>
+<li>Les valeurs masquées sont-elles correctement utilisées ?</li>
+<li>Des formulaires Marketo Engage sont-ils utilisés sur votre site web (et non sur les landing pages des Marketo Engage) ?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Normalisation des données</td> 
+   <td><li>Vos champs de formulaire sont-ils principalement des listes de sélection ou des champs de texte ouverts ?</li>
+<li>S’il s’agit de champs de texte ouvert, envisagez de les basculer vers des listes de sélection afin d’éviter tout problème de données.</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Confidentialité et conformité</td> 
+   <td><li>Votre stratégie de formulaire est-elle conforme à vos exigences en matière de confidentialité des données de l’entreprise et d’inclusion ? Prenons par exemple le Règlement général sur la protection des données (RGPD), la loi canadienne sur la lutte contre le spam (CASL), la loi de 2003 (CAN-SPAM) sur le contrôle de l'agression de la pornographie et du marketing non sollicités (CCPA), la loi californienne sur la protection de la vie privée des consommateurs (CCPA), etc. pour la conformité aux réglementations.</li>
+<p>Conseil : N’oubliez pas de toujours consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
  </tbody> 
 </table>
 
-## Espaces de travail et partitions {#workspaces-and-partitions}
+## E-mails {#emails}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Colonne 1</th> 
-   <th>Colonne 2</th>
-   <th>Colonne 3</th>
+   <th>Zone</th> 
+   <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>E-mails internationaux</td> 
+   <td><li>Combien y a-t-il d'emails globaux ? Sont-elles utilisées par des programmes ?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Modèles</td> 
+   <td><li>Combien y a-t-il de modèles d'email ? Sont-elles utilisées ?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Confidentialité et conformité</td> 
+   <td><li>Tous vos emails ont-ils les pieds de page appropriés ? Prenez en compte le RGPD, le CASL, le CAN-SPAM, le CCPA, etc. pour les implications de conformité.</li>
+<p>Conseil : N’oubliez pas de toujours consulter votre équipe juridique au sujet de ces problèmes de conformité. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
  </tbody> 
 </table>
 
-## Campagnes intelligentes {#smart-campaigns}
+## Extraits {#snippets}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Colonne 1</th> 
-   <th>Colonne 2</th>
-   <th>Colonne 3</th>
+   <th>Zone</th> 
+   <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Extraits</td> 
+   <td><li>Combien y a-t-il de fragments de code ? Sont-elles utilisées ? Si ce n’est pas le cas, pensez à les utiliser pour le contenu, les logos, les logos et le pied de page des emails et des landing pages.</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Limites de communication {#communication-limits}
+## Images et fichiers {#images-and-files}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Colonne 1</th> 
-   <th>Colonne 2</th>
-   <th>Colonne 3</th>
+   <th>Zone</th> 
+   <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Conventions de dénomination</td> 
+   <td><li>Les images et les fichiers ont-ils des conventions d’appellation cohérentes ?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Structure de dossier</td> 
+   <td><li>Les images et les fichiers sont-ils organisés de manière appropriée et facile à rechercher ?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Balises {#tags}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Colonne 1</th> 
-   <th>Colonne 2</th>
-   <th>Colonne 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Gestion de la base de données {#database-management}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Colonne 1</th> 
-   <th>Colonne 2</th>
-   <th>Colonne 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Intégrations {#integrations}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Colonne 1</th> 
-   <th>Colonne 2</th>
-   <th>Colonne 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Coffre au trésor {#treasure-chest}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Colonne 1</th> 
-   <th>Colonne 2</th>
-   <th>Colonne 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Divers {#miscellaneous}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Colonne 1</th> 
-   <th>Colonne 2</th>
-   <th>Colonne 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Images et fichiers</td> 
+   <td><li>Des images ou des fichiers référencés sur les pages web doivent-ils être mis à jour ? 
+   <p>Exemple : la structure d’URL codée en dur peut nécessiter une mise à jour, telle que <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Contactez votre développeur web pour déterminer où vous devrez peut-être effectuer des mises à jour.</li></td>
   </tr>
  </tbody> 
 </table>
