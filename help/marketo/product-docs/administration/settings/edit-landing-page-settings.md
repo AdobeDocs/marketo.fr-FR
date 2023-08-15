@@ -4,10 +4,10 @@ description: Modifier les paramètres de la page d’entrée - Documents Marketo
 title: Modifier les paramètres de la page d’entrée
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 5%
+source-wordcount: '231'
+ht-degree: 6%
 
 ---
 
@@ -45,18 +45,14 @@ Vous pouvez modifier le nom de domaine et la page de secours, activer ou désact
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. Si vous souhaitez empêcher un site malveillant d’héberger apparemment votre contenu, cochez la case **[!UICONTROL Ne pas autoriser les pages Marketo à être incorporées dans des pages web externes]** .
-
-   ![](assets/edit-landing-page-settings-6.png)
-
    >[!NOTE]
    >
-   >Si vous souhaitez préremplir la `<script>` s’affiche à la fin de la balise `<head>` dans le code, vérifiez les **[!UICONTROL Injection de script de préremplissage à la fin de l’en-tête]** de la boîte. Laissez cette option décochée si vous souhaitez qu’elle s’affiche au début.
+   >Si vous souhaitez préremplir la `<script>` s’affiche à la fin de la balise `<head>` dans le code, vérifiez les **[!UICONTROL Injection de script de préremplissage en fin d’en-tête]** de la boîte. Laissez cette option décochée si vous souhaitez qu’elle s’affiche au début.
    >
    >Vérifier **[!UICONTROL Suppression des liens de favicon par défaut]** pour empêcher Marketo d’insérer des liens favicon dans le code.
 
 1. Après avoir effectué vos sélections, cliquez sur **[!UICONTROL Enregistrer]**.
 
-   ![](assets/edit-landing-page-settings-7.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    Très bon travail ! Vos landing pages contiennent maintenant les informations appropriées et doivent commencer à fonctionner immédiatement.
