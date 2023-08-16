@@ -3,7 +3,7 @@ description: Hériter de Doc 3 - Documents Marketo - Documentation du produit
 title: Hériter du Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 2%
@@ -28,19 +28,19 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr> 
   <tr> 
    <td>Conventions de dénomination</td> 
-   <td><li>Vos programmes ont-ils une convention d’affectation des noms cohérente ?</li></td>
+   <td><li>Vos programmes sont-ils cohérents ? <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#naming-schemes" target="_blank">convention de dénomination</a>?</li></td>
   </tr>
   <tr> 
    <td>Structure de dossier</td> 
-   <td><li>Disposez-vous d’une structure de dossiers cohérente et facile à parcourir ?</li></td>
+   <td><li>Disposez-vous d’un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#folders" target="_blank">structure de dossiers</a>?</li></td>
   </tr>
   <tr> 
    <td>Programmes</td> 
    <td><li>Existe-t-il un Centre d'excellence avec des modèles de programme ? Si tel est le cas, les modèles de programme ont-ils un sens pour les cas d’utilisation des équipes ?</li>
-<li>Les types de programmes similaires sont-ils structurés de manière cohérente ?</li>
-<li>Les coûts de période sont-ils mis en place ?</li>
-<li>Tous les programmes sont-ils synchronisés avec les campagnes SFDC (le cas échéant) ?</li>
-<li>Avez-vous des étapes de flux qui assignent un programme d’acquisition à des personnes ?</li></td>
+<li>Les types de programmes sont similaires <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">structurée de manière cohérente</a>?</li>
+<li>Are <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">coût par période</a> mis en place ?</li>
+<li>Sont tous des programmes <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">Synchronisé avec les campagnes SFDC</a> (le cas échéant) ?</li>
+<li>Des étapes de flux sont-elles affectées à une <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programme d'acquisition</a> aux gens ?</li></td>
   </tr>
   <tr> 
    <td>Archiver</td> 

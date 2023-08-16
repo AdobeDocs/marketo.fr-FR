@@ -3,10 +3,10 @@ description: Présentation - Documents Marketo - Documentation du produit
 title: Vue d’ensemble
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 7%
+source-wordcount: '434'
+ht-degree: 8%
 
 ---
 
@@ -21,14 +21,6 @@ Bienvenue dans l’expérience utilisateur moderne de Adobe Marketo Engage, une 
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
-
-## Visite {#take-the-tour}
-
-Lors de la première connexion, une fenêtre contextuelle s’affiche, prête à vous donner l’aperçu de la nouvelle expérience. En tête, si vous choisissez de l’ignorer, il sera **not** être disponible ultérieurement.
-
-![](assets/overview-1.png)
-
-Le tour vous guide à travers tout ce que vous avez besoin de savoir !
 
 ## Nouveautés {#whats-new}
 
@@ -58,7 +50,7 @@ Une tonne de nouvelles fonctions d’arborescence sont disponibles.
 
 >[!NOTE]
 >
->L’exécution d’une recherche dans l’arborescence affiche uniquement les 250 premiers résultats. Si, après une recherche, vous ne parvenez pas à localiser votre ressource, utilisez la variable [Recherche globale](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) fonction .
+>L’exécution d’une recherche dans l’arborescence affiche uniquement les 250 premiers résultats. Si, après une recherche, vous ne parvenez pas à localiser votre ressource, utilisez la variable [Recherche globale](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) de la fonction
 
 **Marketo Classic et le nouveau Marketo**
 
@@ -195,14 +187,14 @@ Découvrez la nouvelle navigation globale.
   </tr>
   <tr>
    <td>4</td> 
-   <td>Recherche globale : vous pouvez désormais rechercher l’instance entière à partir d’ici</td> 
+   <td>Recherche globale : vous pouvez désormais rechercher l’instance entière à partir d’ici.</td> 
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->Tous les éléments qui vivaient dans la liste déroulante des superboules sont toujours disponibles sous forme de mosaïque dans votre Marketo.
+>Tous les éléments qui vivaient dans la liste déroulante des superboules sont toujours disponibles sous forme de mosaïque dans votre My Marketo.
 
 >[!TIP]
 >
