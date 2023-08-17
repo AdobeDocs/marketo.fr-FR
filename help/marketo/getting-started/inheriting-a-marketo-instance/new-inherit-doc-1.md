@@ -3,10 +3,10 @@ description: Hériter de Doc 1 - Documents Marketo - Documentation du produit
 title: Hériter Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '1240'
-ht-degree: 6%
+source-wordcount: '1206'
+ht-degree: 4%
 
 ---
 
@@ -29,7 +29,6 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   <tr> 
    <th>Zone</th> 
    <th>Objectif de la révision</th>
-   <th>Colonne 3</th>
   </tr> 
   <tr> 
    <td>Utilisateurs</td> 
@@ -39,7 +38,6 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
 <li>Nombre d’utilisateurs <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Autorisations d’administrateur</a>?</li>
 <li>L’un de ces utilisateurs doit-il être remplacé par <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">d’autres rôles ?</a></li> 
 <li>Qui sont les utilisateurs de l’API dans cette instance ?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Rôles</td> 
@@ -49,19 +47,16 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
 <li>À quelle fréquence les utilisateurs <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">connexion</a>?</li>
 <li>Chaque utilisateur de l’API possède-t-il une <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">rôle d'utilisateur propre</a>? Si ce n’est pas le cas, envisagez de mettre en oeuvre cette méthode pour faciliter le dépannage.</li> 
 <li>Les rôles utilisateur et les autorisations correspondent-ils aux données de votre entreprise ? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">politiques de confidentialité</a>?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Documentation interne</td> 
    <td><li>Les utilisateurs et les rôles sont-ils clairement définis dans votre organisation ?</li>
 <li>Quel est votre processus pour ajouter un nouvel utilisateur/administrateur ?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Environnement de test (le cas échéant)</td> 
    <td><li>Avez-vous un <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">instance sandbox</a>? Si tel est le cas, passez en revue les catégories ci-dessus pour votre environnement de test.</li>
 <li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Importation de programme</a> lié à votre environnement de test ?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -73,12 +68,10 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   <tr> 
    <th>Zone</th> 
    <th>Objectif de la révision</th>
-   <th>Colonne 3</th>
   </tr> 
   <tr> 
    <td>Journal d'audit</td> 
    <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Qui travaille ?</a> dans l’instance ?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -90,22 +83,19 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   <tr> 
    <th>Zone</th> 
    <th>Objectif de la révision</th>
-   <th>Colonne 3</th>
   </tr> 
   <tr> 
    <td>Espaces de travail et partitions</td> 
    <td><li>Combien <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">espaces de travail et/ou partitions</a> l'avez-vous ?</li>
-<li>Quel est le but Principal de chaque espace de travail et de chaque partition ?</li>
+<li>Quel est l’objectif principal de chaque espace de travail et partition ?</li>
 <li>Effectuez l’une des opérations suivantes : <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Espaces de travail</a> ou <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partitions</a> doivent être contrôlés/modifiés ?</li>
 <li>Quelle est la relation entre vos espaces de travail et vos partitions ?</li>
 <li>Nombre d’utilisateurs <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">disposer d’un accès</a> à chaque espace de travail ?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Documentation interne</td> 
    <td><li>Comment les espaces de travail et les partitions sont-ils définis ?</li>
 <li>Quel est votre processus pour ajouter des espaces de travail à votre instance ou ajouter des utilisateurs à un espace de travail ?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -117,13 +107,11 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   <tr> 
    <th>Zone</th> 
    <th>Objectif de la révision</th>
-   <th>Colonne 3</th>
   </tr> 
   <tr> 
    <td>Paramètres de la campagne intelligente</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Avez-vous une restriction ?</a> sur la taille d’une campagne dynamique ?</li>
 <li>Si ce n’est pas le cas, envisagez d’en ajouter une. Nous vous recommandons de limiter les limites des campagnes intelligentes à 25 % de votre base de données afin d’éviter toute surcharge de communication ou de traitement de l’ensemble de votre base de données dans les workflows. Cela protège non seulement votre marque, mais également les performances de votre instance.</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -135,13 +123,11 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   <tr> 
    <th>Zone</th> 
    <th>Objectif de la révision</th>
-   <th>Colonne 3</th>
   </tr> 
   <tr> 
    <td>Limites de communication</td> 
    <td><li>Existe-t-il <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">limites de communication</a> en place ? Votre entreprise a-t-elle des politiques pour lesquelles des limites de communication peuvent être nécessaires ?</li>
 <li>Adobe recommande de limiter votre communication à 1 par jour et 3 par 7 jours, avec <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">opérationnel</a> emails bloqués.</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -153,13 +139,11 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   <tr> 
    <th>Zone</th> 
    <th>Objectif de la révision</th>
-   <th>Colonne 3</th>
   </tr> 
   <tr> 
    <td>Balises</td> 
    <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">Nombre de balises</a> y en a-t-il ? Combien de balises sont utilisées ? Dois-je ajouter des éléments ?</li>
 <li>Les balises sont-elles requises dans vos programmes ?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Canaux</td> 
@@ -168,13 +152,11 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
 <li>Vos canaux sont-ils liés à des types de programmes spécifiques ?</li>
 <li>Quels états sont considérés comme une réussite pour chaque canal ? Ces objectifs correspondent-ils à vos objectifs marketing ?</li>
 <li>Le canal opérationnel est-il utilisé de manière appropriée ?</li>
-<li>Pour le Report Builder avancé (Revenue Cycle Explorer\RCE), le comportement d’analyse de canal est-il défini pour s’aligner sur les pratiques de votre programme incorporant le coût de la période ?</li></td>
-   <td>3</td>
+<li>Dans le cas d’un Report Builder avancé (l’explorateur de cycle de revenu/le RCE), le comportement d’analyse de vos canaux est-il défini pour s’aligner sur les pratiques de votre programme incorporant le coût de la période ?</li></td>
   </tr>
   <tr> 
    <td>Calendrier marketing (le cas échéant)</td> 
    <td><li>Combien <a href="/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md" target="_blank">types d’entrée du calendrier</a> y en a-t-il ? Sont-ils toujours pertinents ?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -186,7 +168,6 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   <tr> 
    <th>Zone</th> 
    <th>Objectif de la révision</th>
-   <th>Colonne 3</th>
   </tr> 
   <tr> 
    <td>Gestion des champs</td> 
@@ -198,19 +179,16 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
 <li>Existe-t-il une <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">ensemble d’affichages personnalisés</a> pour les détails personnels ? Devrait-il y en avoir ?</li>
 <li>Disposez-vous d’une convention d’affectation des noms pour vos champs en fonction de la source ? Si ce n’est pas le cas, envisagez d’implémenter cette méthode.</li>
 <li>Existe-t-il des champs ? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">bloqué</a>? Assurez-vous de comprendre pourquoi elles le sont.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Activités personnalisées</td> 
    <td><li>Y en a-t-il ? <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">activités personnalisées</a>?</li>
 <li>Si tel est le cas, cliquez dessus pour comprendre les activités qui ne sont pas liées à un formulaire Marketo, un email ou une landing page.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td> objets  personnalisés</td> 
    <td><li>Combien <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">objet personnalisé</a> y en a-t-il ? Comment sont-ils synchronisés avec votre CRM ?</li>
 <li>Comment ces objets personnalisés sont-ils utilisés par vos programmes et requêtes de liste ?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -222,14 +200,12 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   <tr> 
    <th>Zone</th> 
    <th>Objectif de la révision</th>
-   <th>Colonne 3</th>
   </tr> 
   <tr> 
    <td>CRM</td> 
    <td><li>À quel CRM synchronisez-vous ? Salesforce? MS Dynamics? Veeva?</li>
 <li>La synchronisation personnalisée est-elle bidirectionnelle ou bidirectionnelle ? (KG : CORRECTION DU GRAMMAIRE ET VÉRIFICATION DE L’IMPORTANCE)</li>
 <li>[Salesforce uniquement] Votre instance a-t-elle implémenté des filtres de synchronisation personnalisés ? Contactez le support Marketo pour identifier les filtres de synchronisation personnalisés ou demander qu’une règle de synchronisation personnalisée soit implémentée.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Pages de destination</td> 
@@ -241,21 +217,18 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
 <li>Des règles sont-elles configurées pour <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirections</a>?</li>
 <li>Avez-vous des alias de domaine en place ? Effectuez-vous un suivi dans la documentation sur la manière dont vous utilisez vos alias de domaine ?</li>
 <li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Domaines sécurisés pour les pages d’entrée</a> activé ? Confirmez si les ressources de votre landing page contiennent une URL "http".</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
    <td><li>Est-ce que <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Code de suivi Munchkin</a> sur votre site web (pas dans Marketo) ?</li>
 <li>Est un <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Ne pas effectuer de suivi</a> Demande de navigateur activée ?</li>
 <li>Est-ce que <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">API Munchkin</a> configuré ? Si vous ne disposez pas de la documentation sur l’emplacement du code de la serviette sur votre site web, commencez par un aperçu rapide en utilisant le "rapport Web Analytics" dans les "Analytics" de base pour comprendre où le code Munchkin est placé sur votre site web.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Services web</td> 
    <td><li>Are <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">Restrictions IP</a> activé ? Devraient-ils l'être ?</li>
 <li>Quels utilisateurs/applications effectuent des appels API dans votre instance ?</li>
 <li>Êtes-vous en train d’atteindre ou êtes-vous sur le point d’atteindre votre limite d’API ? Si tel est le cas, envisagez d’augmenter ou de contrôler votre instance pour réduire ces appels d’API.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight (le cas échéant)</td> 
@@ -263,26 +236,22 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
 <li>Avez-vous <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">mise à niveau vers la dernière version de Sales Insight</a>?</li>
 <li>Avez-vous terminé la configuration de Sales Insight ? Utilisateurs d’entreprise/illimités <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">cliquez ici</a>, utilisateurs professionnels <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">cliquez ici</a>.</li>
 <li>Avez-vous <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">donner accès à vos utilisateurs ;</a> en fonction du nombre de sièges que vous avez achetés ?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Point de lancement (le cas échéant)</td> 
    <td><li>Quels services avez-vous configurés (par exemple, <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">Zoom</a>, etc.) ? Est-ce qu'il y en a qui approchent de leur expiration ?</li>
 <li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">Nombre d’appels API</a> vos intégrations sont-elles utilisées ?</li>
 <li>Disposez-vous des intégrations appropriées pour vos cas d’utilisation ?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Webhooks (le cas échéant)</td> 
    <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">Quelles connexions</a> avez-vous configuré ?</li>
 <li>N’est-il plus utilisé ?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Applications mobiles (le cas échéant)</td> 
    <td><li>Quel <a href="/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md" target="_blank">applications mobiles</a> l'avez-vous ?</li>
 <li>Ont les <a href="/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md" target="_blank">test des périphériques</a>  a été ajouté ?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -294,19 +263,16 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   <tr> 
    <th>Zone</th> 
    <th>Objectif de la révision</th>
-   <th>Colonne 3</th>
   </tr> 
   <tr> 
    <td>Coffre au trésor</td> 
    <td><li>Ce qui est activé dans la variable <a href="/help/marketo/product-docs/administration/settings/enable-or-disable-treasure-chest-features.md" target="_blank">Poitrine au trésor</a>?</li>
 <li>Certaines fonctionnalités doivent-elles être activées ou désactivées ?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Inspecteur de campagne</td> 
    <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Inspecteur de campagne</a> activée ?</li>
-<li>Si ce n’est pas le cas, envisagez de l’activer afin d’identifier facilement les campagnes principales, de les synchroniser avec votre CRM et/ou de supprimer des enregistrements.</li></td>
-   <td>3</td>
+<li>Si ce n’est pas le cas, envisagez de l’activer pour identifier facilement les campagnes actives, la synchronisation avec votre CRM et/ou la suppression d’enregistrements.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -329,7 +295,7 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   </tr>
   <tr> 
    <td>Alertes</td> 
-   <td><li>Y en a-t-il ? <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">Alertes principales</a> être envoyé par Marketo Engage aux équipes internes ?</li>
+   <td><li>Y en a-t-il ? <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">alertes actives</a> être envoyé par Marketo Engage aux équipes internes ?</li>
 <li>Si oui, ces alertes fonctionnent-elles correctement ?</li></td>
   </tr>
   <tr> 

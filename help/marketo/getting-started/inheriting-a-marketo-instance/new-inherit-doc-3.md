@@ -3,9 +3,9 @@ description: Hériter de Doc 3 - Documents Marketo - Documentation du produit
 title: Hériter du Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '833'
 ht-degree: 2%
 
 ---
@@ -71,7 +71,7 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr> 
   <tr> 
    <td>Jetons</td> 
-   <td><li>Les jetons sont-ils utilisés dans des types de programmes utilisés régulièrement ? KG - DOUBLE VÉRIFICATION SIGNIFICATIVE Si ce n’est pas le cas, envisagez de les utiliser pour accroître leur efficacité.</li>
+   <td><li>Les jetons sont-ils utilisés dans vos types de programmes les plus couramment utilisés ? Dans le cas contraire, envisagez de les utiliser pour accroître leur efficacité.</li>
 <li>Si des jetons sont implémentés, existe-t-il des jetons de dossier globaux ? Comment sont-ils utilisés ?</li></td>
   </tr>
   <tr> 

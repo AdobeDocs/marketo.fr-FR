@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: cb45578229c50300840660fc2a5629341ecfa98e
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
 source-wordcount: '9012'
 ht-degree: 5%
@@ -125,7 +125,7 @@ ht-degree: 5%
             + [Suppression d’un domaine de marque](product-docs/administration/email-setup/add-multiple-branding-domains/delete-a-branding-domain.md)
             + [Modification de votre domaine de marque par défaut avec des espaces de travail](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)
             + [Modification de votre domaine de marque par défaut](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
-            + [Remplacer le domaine Principal des emails](product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
+            + [Remplacer le domaine de Principal des courriers électroniques](product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
          + [Modification des limites de récupération d’objets personnalisés dans les scripts Velocity](product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)
          + [Modifier l’étiquette Par défaut De l’email et De](product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)
          + [Modification du message de désabonnement](product-docs/administration/email-setup/edit-the-unsubscribe-message.md)
@@ -403,7 +403,7 @@ ht-degree: 5%
             + [Utilisation des coûts de période dans un programme](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Bibliothèque de programmes {#program-library}
             + [Présentation de la bibliothèque d’importation de programmes](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Exemple de programme de gestion de contenu](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
+            + [Exemple de programme de gestion du consentement](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md)
          + Rapport Performance du programme {#program-performance-report}
             + [Création d’un rapport Performance de programme](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Ajout de colonnes d’état du programme à un rapport de programme](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
