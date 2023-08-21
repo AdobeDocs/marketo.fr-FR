@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
 workflow-type: tm+mt
-source-wordcount: '9021'
+source-wordcount: '9027'
 ht-degree: 5%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 5%
       + [Rediriger une page de destination](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatisation d’une alerte pour les personnes potentiellement en double](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Héritage d’une instance Marketo {#inheriting-a-marketo-instance}
+      + [Nouvelle présentation de l’héritage](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
       + [Aide! J’ai hérité d’une instance Marketo existante](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Éléments à désactiver](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Révision des choses : compétences principales](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
@@ -46,6 +47,7 @@ ht-degree: 5%
       + [Nouveau document hérité 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
       + [Nouveau document 3 hérité](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
       + [Nouveau document d’héritage 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+      + [Nouveau document hérité 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 + Documents sur les produits {#product-docs}
    + Applications supplémentaires {#additional-apps}
       + SEO {#seo}
