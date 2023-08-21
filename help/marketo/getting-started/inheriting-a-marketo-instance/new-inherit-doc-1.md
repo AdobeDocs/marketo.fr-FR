@@ -3,7 +3,7 @@ description: Hériter de Doc 1 - Documents Marketo - Documentation du produit
 title: Hériter Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '1223'
 ht-degree: 4%
@@ -55,7 +55,7 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   </tr>
   <tr> 
    <td>Environnement de test (le cas échéant)</td> 
-   <td><li>Avez-vous un <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">instance sandbox</a>? 
+   <td><li>Avez-vous un <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">instance sandbox</a>?
    <br/>Si tel est le cas, passez en revue les catégories ci-dessus pour votre environnement de test.</li>
 <li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Importation de programme</a> lié à votre environnement de test ?</li></td>
   </tr>
@@ -187,8 +187,8 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   </tr>
   <tr> 
    <td>Activités personnalisées</td> 
-   <td><li>Y en a-t-il ? <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">activités personnalisées</a>?</li>
-<br/>Si tel est le cas, cliquez dessus pour comprendre les activités qui ne sont pas liées à un formulaire Marketo, un email ou une landing page.</td>
+   <td><li>Y en a-t-il ? <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">activités personnalisées</a>?
+<br/>Si tel est le cas, cliquez dessus pour comprendre les activités qui ne sont pas liées à un formulaire Marketo, un email ou une landing page.</li></td>
   </tr>
   <tr> 
    <td> objets  personnalisés</td> 
@@ -280,8 +280,8 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   </tr>
   <tr> 
    <td>Inspecteur de campagne</td> 
-   <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Inspecteur de campagne</a> activée ?</li>
-<br/>Si ce n'est pas le cas, envisagez de l'activer pour identifier facilement les campagnes : actives, synchronisées avec votre CRM et/ou supprimant des enregistrements.</td>
+   <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Inspecteur de campagne</a> activée ?
+<br/>Si ce n'est pas le cas, envisagez de l'activer pour identifier facilement les campagnes : actives, synchronisées avec votre CRM et/ou supprimant des enregistrements.</li></td>
   </tr>
  </tbody> 
 </table>

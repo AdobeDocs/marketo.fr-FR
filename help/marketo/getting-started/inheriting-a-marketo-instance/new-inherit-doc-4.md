@@ -3,7 +3,7 @@ description: Hériter du document 4 - Documents Marketo - Documentation du produ
 title: Hériter du document 4
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 5%
@@ -64,7 +64,8 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr>
   <tr> 
    <td>Confidentialité et conformité</td> 
-   <td><li>Votre stratégie de formulaire est-elle conforme à vos exigences en matière de confidentialité des données de l’entreprise et d’inclusion ? Étudier <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a>, la loi canadienne contre le spam (CASL), la loi sur le contrôle de l'agression de la pornographie et du marketing non sollicités de 2003 (CAN-SPAM), la loi sur la protection de la vie privée des consommateurs (CCPA) de Californie, etc. pour la conformité aux réglementations.</li>
+   <td><li>Votre stratégie de formulaire est-elle conforme à vos exigences en matière de confidentialité des données de l’entreprise et d’inclusion ? 
+   <br/>Étudier <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a>, la loi canadienne contre le spam (CASL), la loi sur le contrôle de l'agression de la pornographie et du marketing non sollicités de 2003 (CAN-SPAM), la loi sur la protection de la vie privée des consommateurs (CCPA) de Californie, etc., pour la conformité aux réglementations.</li>
 <p>Conseil : N’oubliez pas de toujours consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
  </tbody> 
@@ -104,7 +105,8 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr> 
   <tr> 
    <td>Extraits</td> 
-   <td><li>Combien <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">fragments de code</a> y en a-t-il ? Sont-elles utilisées ? Si ce n’est pas le cas, envisagez de les utiliser pour <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> et <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">landing page</a> contenu de pied de page, logos, etc.</li></td>
+   <td><li>Combien <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">fragments de code</a> y en a-t-il ? Sont-elles utilisées ? 
+   <br/>Si ce n’est pas le cas, envisagez de les utiliser pour <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> et <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Page d’entrée</a> contenu de pied de page, logos, etc.</li></td>
   </tr>
  </tbody> 
 </table>

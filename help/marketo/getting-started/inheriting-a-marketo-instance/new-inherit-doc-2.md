@@ -3,7 +3,7 @@ description: Hériter de Doc 2 - Documents Marketo - Documentation du produit
 title: Hériter Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 9%
@@ -30,7 +30,8 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
    <td>Toutes les personnes</td> 
    <td><li>Le nombre de personnes dans la variable <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">base</a>?</li>
 <li>Si votre base de données est presque pleine, la politique de votre société vous recommande-t-elle d’augmenter la taille de votre base de données ou de nettoyer les données historiques ?</li>
-<li>Votre base de données globale est-elle commercialisable à au moins 85 % ? Si le vôtre tombe sous ce seuil, consultez les autres listes intelligentes du système (Liste bloquée, Marketing suspendu, Doublons, Désabonner) avec une plus grande attention.</li></td>
+<li>Votre base de données globale est-elle commercialisable à au moins 85 % ? 
+<br/>Si le vôtre tombe sous ce seuil, consultez les autres listes intelligentes du système (Liste bloquée, Marketing suspendu, Doublons, Désabonner) avec une plus grande attention.</li></td>
   </tr>
   <tr> 
    <td>Personnes désabonnées</td> 
@@ -40,8 +41,8 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr>
   <tr> 
    <td>Suspension du marketing</td> 
-   <td><li>Quels sont vos critères pour <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing suspendu</a>? Y a-t-il trop de gens qui font du marketing suspendu ?</li>
-<li>Combien de temps les enregistrements sont-ils restés dans l’état de suspension du marketing ?</li>
+   <td><li>Quels sont vos critères pour <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing suspendu</a>? Trop de personnes sont-elles suspendues dans le marketing ?</li>
+<li>Combien de temps les enregistrements sont-ils restés dans l’état Marketing suspendu ?</li>
 <p>Exemple de cas d’utilisation Marketing suspendu : enregistrements qui sont activement impliqués dans les ventes à un stade avancé pour lesquels vous souhaitez supprimer les communications marketing.</td>
   </tr>
    <tr> 
@@ -54,11 +55,13 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr>
   <tr> 
    <td>Doublons possibles</td> 
-   <td><li>Combien <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">enregistrement potentiellement en double</a> y en a-t-il ? Envisagez de les supprimer ou de les fusionner.</li></td>
+   <td><li>Combien <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">enregistrement potentiellement en double</a> y en a-t-il ?
+   <br/>Envisagez de les supprimer ou de les fusionner.</li></td>
   </tr>
    <tr> 
    <td>Hormis programme d’acquisition</td> 
-   <td><li>Combien de personnes n’ont pas de <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programme d'acquisition</a>? S'il y a beaucoup de choses, réfléchissez à pourquoi.</li></td>
+   <td><li>Combien de personnes n’ont pas de <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programme d'acquisition</a>?
+   <br/>S'il y a beaucoup de choses, réfléchissez à pourquoi.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -73,9 +76,9 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr> 
   <tr> 
    <td>Listes de groupes intelligentes</td> 
-   <td><li>Quelles sont les listes intelligentes de groupe ? Comment sont-ils utilisés dans cette instance ?</li>
-<li>Les listes sont-elles organisées dans une structure de dossiers cohérente ? Si vous disposez de listes orphelines, envisagez d’organiser votre arborescence afin que les ressources soient faciles à trouver.</li>
-<p>Conseil : <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiver</a> des listes dynamiques de groupe qui ne sont plus nécessaires pour interroger, créer des rapports ou faire référence à l’organisation et aux performances.</td>
+   <td><li>Quel groupe de listes intelligentes y a-t-il ? Comment sont-ils utilisés dans cette instance ?</li>
+<li>Les listes sont-elles organisées dans une structure de dossiers cohérente ? <br/>Si vous disposez de listes orphelines, envisagez d’organiser votre arborescence afin que les ressources soient faciles à trouver.</li>
+<p>Conseil : <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiver</a> Regrouper des listes dynamiques qui ne sont plus nécessaires pour interroger, créer des rapports ou faire référence à l’organisation et aux performances.</td>
   </tr>
  </tbody> 
 </table>
@@ -108,7 +111,8 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
    <td>Segmentations</td> 
    <td><li>Quel <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentation</a> y en a-t-il ? Comment sont-ils utilisés ?</li>
 <li>Y a-t-il trop de gens dans <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segments par défaut</a>?</li>
-<li>Existe-t-il une segmentation pour l’audience vendable ? Si ce n'est pas le cas, envisagez d'en créer un.</li></td>
+<li>Existe-t-il une segmentation pour l’audience vendable ? 
+<br/>Si ce n'est pas le cas, envisagez d'en créer un.</li></td>
   </tr>
  </tbody> 
 </table>
