@@ -4,10 +4,10 @@ description: Configuration de Marketo Sales Insight dans Salesforce Enterprise/U
 title: Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
-source-wordcount: '849'
-ht-degree: 12%
+source-wordcount: '847'
+ht-degree: 11%
 
 ---
 
@@ -39,7 +39,7 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    >[!NOTE]
    >
-   >Votre clé secrète API est semblable à un mot de passe pour votre organisation et doit être sécurisée.
+   >Votre clé secrète d’API est semblable à un mot de passe pour votre organisation et doit être sécurisée.
 
 1. Cliquez sur **Affichage** dans le panneau Configuration de l’API REST pour renseigner les informations d’identification.
 
@@ -79,7 +79,7 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    >[!NOTE]
    >
-   >_You_ choisissez votre **Nom du site distant** (MarketoAPI est utilisé ici). Le **URL du site distant** Vous pouvez vous reporter au champ Hôte Marketo de la boîte de dialogue Modifier la configuration de l’API de l’étape 3 de la section &quot;Configurer Sales Insight in Marketo&quot;.
+   >_You_ choisissez votre **Nom du site distant** (MarketoAPI est utilisé ici). La variable **URL du site distant** Vous pouvez vous reporter au champ Hôte Marketo de la boîte de dialogue Modifier la configuration de l’API de l’étape 3 de la section &quot;Configurer Sales Insight in Marketo&quot;.
 
 ## Personnalisation des mises en page {#customize-page-layouts}
 
@@ -91,11 +91,11 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. Cliquez sur **Pages Visualforce** sur la gauche. Faire glisser **Section** à la disposition sous la section Liens personnalisés .
+1. Cliquez sur **Pages Visualforce** sur la gauche. Glisser **Section** à la disposition sous la section Liens personnalisés .
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. Saisissez &quot;Marketo Sales Insight&quot; en tant que **Nom de la section**. Sélectionner **1 colonne** et cliquez sur **OK**.
+1. Saisissez &quot;Marketo Sales Insight&quot; comme **Nom de la section**. Sélectionner **1 colonne** et cliquez sur **OK**.
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
@@ -117,13 +117,13 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    >[!NOTE]
    >
-   >Vérifier **Afficher les barres de défilement** si vous devez accéder aux activités de défilement.
+   >Vérifier **Afficher les barres de défilement** si vous avez besoin d’accéder aux activités de défilement.
 
    >[!TIP]
    >
    >Nous recommandons une hauteur de 410 pixels pour les objets Comptes et opportunités .
 
-1. Cliquez sur **Champs** sur la gauche. Recherchez ensuite le composant **Urgence** dans le **Marketo Sales Insight** mise en page.
+1. Cliquez sur **Champs** sur la gauche. Recherchez ensuite le composant **Urgence** dans le **Marketo Sales Insight** disposition.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
@@ -147,10 +147,10 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
       <td>Type dernier moment significatif</td> 
      </tr> 
      <tr> 
-      <td>Dernière activité Marketo par les équipes de ventes</td> 
+      <td>Dernière activité par les équipes de ventes</td> 
      </tr> 
      <tr> 
-      <td>Dernier engagement Marketo par les équipes de ventes</td> 
+      <td>Dernier engagement par les équipes de ventes</td> 
      </tr> 
      <tr> 
       <td>Identifiant de contact MSI</td> 
@@ -300,7 +300,7 @@ Les champs de personne Marketo doivent être mappés aux champs de contact Sales
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
-Et voilà ! Vous devriez être en mesure d’afficher les champs Marketo Sales Insight pour les Leads, les contacts, les comptes et les opportunités.
+Et c&#39;est tout ! Vous devriez être en mesure d’afficher les champs Marketo Sales Insight pour les Leads, les contacts, les comptes et les opportunités.
 
 >[!NOTE]
 >
@@ -313,5 +313,5 @@ Et voilà ! Vous devriez être en mesure d’afficher les champs Marketo Sales I
 >[!MORELIKETHIS]
 >
 >* [Priorité, urgence, note relative et meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Ajout de l’onglet Marketo à Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [Ajouter un onglet Marketo à Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
 >* [Ajout de l’accès Sales Insight aux profils](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
