@@ -3,20 +3,16 @@ description: Hériter du document 4 - Documents Marketo - Documentation du produ
 title: Hériter du document 4
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '506'
 ht-degree: 5%
 
 ---
 
 # Hériter du document 4 {#inherit-doc-4}
 
-Avez-vous hérité d’une instance de Marketo Engage existante d’un autre administrateur ? Si c&#39;est le cas, cet article est pour vous.
-
->[!TIP]
->
->Si vous êtes un nouvel utilisateur Marketo Engage et que vous ne connaissez pas beaucoup des termes, consultez la section [Glossaire Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+La structuration des modèles et la création de formulaires, fragments de code et images et fichiers globaux vous permettent de minimiser les erreurs de données et de rationaliser le workflow de la création de votre programme.
 
 ## Pages de destination {#landing-pages}
 
@@ -35,6 +31,10 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
    <td><li>Combien <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Modèles de page d’entrée</a> y en a-t-il ? Sont-elles utilisées ?</li></td>
   </tr>
   <tr> 
+   <td>Groupes de test</td> 
+   <td><li>Combien <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">Groupes de tests de page d’entrée</a> sont-ils ? Sont-ils toujours pertinents ?</li></td>
+  </tr>
+   <tr> 
    <td>Confidentialité et conformité</td> 
    <td><li>Toutes vos landing pages ont-elles les pieds de page appropriés ?</li></td>
   </tr>
@@ -88,6 +88,10 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
    <td><li>Combien <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">modèles d'email</a> y en a-t-il ? Sont-elles utilisées ?</li></td>
   </tr>
   <tr> 
+   <td>Test d'email</td> 
+   <td><li>Comment utiliser <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">test des emails</a>? Votre méthode est-elle encore efficace ?</li></td>
+  </tr>
+  <tr> 
    <td>Confidentialité et conformité</td> 
    <td><li>Tous vos emails ont-ils les pieds de page appropriés ? Prenez en compte le RGPD, le CASL, le CAN-SPAM, le CCPA, etc. pour les implications de conformité.</li>
 <p>Conseil : N’oubliez pas de toujours consulter votre équipe juridique au sujet de ces problèmes de conformité. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
@@ -135,3 +139,30 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr>
  </tbody> 
 </table>
+
+## Toutes les ressources {#all-assets}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th>Zone</th> 
+   <th>Objectif de la révision</th>
+  </tr> 
+  <tr> 
+   <td>État de la ressource</td> 
+   <td><li>Le nombre de ressources dans <i>Version préliminaire</i> et <i>Approuvé avec brouillon</i> status ?
+   <br/>S'il y en a beaucoup, envisagez de les supprimer ou de les approuver.</li></td>
+  </tr>
+  <tr> 
+   <td>Partage de ressources</td> 
+   <td><li>Les ressources <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">partagées dans les espaces de travail ;</a>?</li>
+   <p>Remarque : Il est important de le savoir, car les actions entreprises dans un espace de travail peuvent entraîner une ressource inaccessible dans un autre espace de travail pour un autre utilisateur.</td>
+  </tr>
+ </tbody> 
+</table>
+
+<br> 
+
+[◄ Audit d’une instance héritée : activités marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+
+[Audit d’une instance héritée : documenter la configuration de votre instance héritée ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
