@@ -3,20 +3,16 @@ description: Hériter de Doc 2 - Documents Marketo - Documentation du produit
 title: Hériter Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '369'
 ht-degree: 9%
 
 ---
 
 # Hériter Doc 2 {#inherit-doc-2}
 
-Avez-vous hérité d’une instance de Marketo Engage existante d’un autre administrateur ? Si c&#39;est le cas, cet article est pour vous.
-
->[!TIP]
->
->Si vous êtes un nouvel utilisateur Marketo Engage et que vous ne connaissez pas beaucoup des termes, consultez la section [Glossaire Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d’un marketing et de sources d’acquisition par les principales personnes dans votre abonnement.
 
 ## Listes intelligentes du système {#system-smart-lists}
 
@@ -116,3 +112,9 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄ Audit d’une instance héritée : Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+
+[Audit d’une instance héritée : activités marketing ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)

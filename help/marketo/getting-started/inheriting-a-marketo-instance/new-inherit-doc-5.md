@@ -3,16 +3,16 @@ description: Hériter de Doc 5 - Documents Marketo - Documentation du produit
 title: Hériter du Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: dcfbd50df5ef642c3c94b96be938a43f30e8288b
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 4%
+source-wordcount: '228'
+ht-degree: 2%
 
 ---
 
 # Hériter du Doc 5 {#inherit-doc-5}
 
-Texte
+Maintenant que vous avez appris les domaines de produit clés à contrôler lors de l’héritage d’une instance établie, l’étape suivante consiste à créer/mettre à jour la documentation sur la configuration de votre instance et la pile technique. Que vous le créiez via une feuille de calcul ou une application de gestion de projet, votre documentation est une excellente ressource pour suivre l’avancement et enregistrer les détails.
 
 ## Données {#data}
 
@@ -51,7 +51,7 @@ Texte
   <tr> 
    <td>Organisation</td> 
     <td><li>Disposez-vous d’une documentation robuste sur l’organisation de votre instance de Marketo Engage et pourquoi ?</li>
-   <p>Action Item : créez une documentation qui contient la structure de dossiers, la convention d’affectation des noms et les canaux/statues KG - STATUTES ? utilisé dans votre instance.</td>
+   <p>Action Item : créez une documentation qui contient la structure de dossiers, la convention d’affectation des noms et les canaux utilisés dans votre instance.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -69,3 +69,5 @@ Texte
   </tr>
  </tbody> 
 </table>
+
+[◄ Audit d’une instance héritée : Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

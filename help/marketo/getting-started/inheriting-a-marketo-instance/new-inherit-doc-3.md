@@ -3,20 +3,16 @@ description: Hériter de Doc 3 - Documents Marketo - Documentation du produit
 title: Hériter du Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '801'
 ht-degree: 2%
 
 ---
 
 # Hériter du Doc 3 {#inherit-doc-3}
 
-Avez-vous hérité d’une instance de Marketo Engage existante d’un autre administrateur ? Si c&#39;est le cas, cet article est pour vous.
-
->[!TIP]
->
->Si vous êtes un nouvel utilisateur Marketo Engage et que vous ne connaissez pas beaucoup des termes, consultez la section [Glossaire Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Les activités marketing permettent à votre équipe marketing de créer des campagnes dynamiques, de créer des ressources créatives (par exemple, des emails et des pages d’entrée) et d’afficher les performances des ressources.
 
 ## Organisation {#organization}
 
@@ -45,9 +41,9 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr>
   <tr> 
    <td>Archiver</td> 
-   <td><li>Les programmes plus anciens <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archivé</a>? 
-   <br/>La bonne pratique consiste à passer en revue chaque année. KG - EST-CE VRAI ?</li>
-<li>À quelle fréquence votre entreprise examine-t-elle et archive-t-elle les anciens programmes ?</li></td>
+   <td><li>Les programmes plus anciens <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archivé</a>?</li>
+<li>À quelle fréquence votre entreprise examine-t-elle et archive-t-elle les anciens programmes ?</li>
+<p>Conseil : Il est conseillé d’effectuer une révision chaque année.</td>
   </tr>
   <tr> 
    <td>Notifications</td> 
@@ -78,13 +74,12 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
 <li>Si des jetons sont implémentés, existe-t-il des jetons de dossier globaux ? Comment sont-ils utilisés ?</li></td>
   </tr>
   <tr> 
-   <td>Programmes d'engagement</td> 
+   <td>Programmes d’engagement</td> 
    <td><li>Y a-t-il de la vie ? <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Programmes d'engagement</a> en cours ?</li>
 <li>Combien <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">les gens sont épuisés</a>? 
 <br/>S'il y a beaucoup de gens épuisés, pensez à ajouter du contenu.</li>
 <li>Les gens s'intéressent-ils au contenu ? 
-<br/>Si ce n’est pas le cas, envisagez de le mettre à jour et/ou de le tester A/B.</li>
-<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">Combien de personnes</a> KG - Y A-T-IL UN MOYEN DE VOIR TOUS LES PROGRAMMES EN MÊME TEMPS ? NE PENSEZ PAS EN CONSÉQUENCE MAIS ASSUREZ-VOUS QU’il existe plusieurs programmes d’engagement ? Devraient-ils être multiples ?</li></td>
+<br/>Si ce n’est pas le cas, envisagez de le mettre à jour et/ou de le tester A/B.</li></td>
   </tr>
   <tr> 
    <td>Campagnes par lot</td> 
@@ -169,3 +164,9 @@ Avez-vous hérité d’une instance de Marketo Engage existante d’un autre adm
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄ Audit d’une instance héritée : base de données](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+
+[Audit d’une instance héritée : Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

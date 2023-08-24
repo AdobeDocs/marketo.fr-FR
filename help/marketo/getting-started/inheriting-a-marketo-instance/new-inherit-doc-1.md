@@ -3,20 +3,18 @@ description: Hériter de Doc 1 - Documents Marketo - Documentation du produit
 title: Hériter Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '1223'
+source-wordcount: '1229'
 ht-degree: 4%
 
 ---
 
 # Hériter Doc 1 {#inherit-doc-1}
 
-L’audit d’une instance héritée peut ressembler à un...
+En tant que nouvel administrateur Adobe Marketo Engage, vous devrez effectuer plusieurs tâches pour vérifier l’intégrité et la viabilité de votre instance héritée.
 
-Avez-vous hérité d’une instance de Marketo Engage existante d’un autre administrateur ? Si c&#39;est le cas, cet article est pour vous...
-
-La liste de contrôle ci-dessous a été mise en place avec les données des champions Marketo pour vous aider à vous familiariser rapidement avec votre instance héritée..
+Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au bas de chaque article) ont été mises en place avec les commentaires des champions Marketo pour vous aider à vous mettre rapidement au courant. Documentez la progression dans la liste de contrôle des instances héritées du Marketo Engage.
 
 >[!TIP]
 >
@@ -112,7 +110,7 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   <tr> 
    <td>Paramètres de la campagne intelligente</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Avez-vous une restriction ?</a> sur la taille d’une campagne dynamique ? 
-   <br/>Si ce n’est pas le cas, envisagez d’en ajouter une. Nous vous recommandons de limiter les limites des campagnes intelligentes à 25 % de votre base de données afin d’éviter toute trop de communication ou de traitement de l’ensemble de votre base de données dans les workflows. Cela protège non seulement votre marque, mais également les performances de votre instance. KG - EST-CE PRÉCIS ?</li></td>
+   <br/>Si ce n’est pas le cas, envisagez d’en ajouter une. Nous vous recommandons de limiter les limites de la campagne dynamique à 25 % de votre base de données afin d’éviter toute trop de communication ou de traitement de l’ensemble de votre base de données dans les workflows. Cela protège non seulement votre marque, mais également les performances de votre instance.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -128,7 +126,7 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   <tr> 
    <td>Limites de communication</td> 
    <td><li>Existe-t-il <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">limites de communication</a> en place ? Votre entreprise a-t-elle des politiques pour lesquelles des limites de communication peuvent être nécessaires ?</li>
-<p>Remarque : Adobe recommande de limiter votre communication à 1 par jour et 3 par 7 jours, avec <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">opérationnel</a> emails bloqués. KG - EST-CE PRÉCIS ?</td>
+<p>Remarque : Adobe recommande de limiter votre communication à 1 par jour et 3 par 7 jours, avec <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">opérationnel</a> emails bloqués.</td>
   </tr>
  </tbody> 
 </table>
@@ -209,7 +207,7 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   <tr> 
    <td>CRM</td> 
    <td><li>À quel CRM synchronisez-vous ? Salesforce? MS Dynamics? Veeva?</li>
-<li>La synchronisation personnalisée est-elle bidirectionnelle ou bidirectionnelle ? (KG : CORRECTION DU GRAMMAIRE ET VÉRIFICATION DE L’IMPORTANCE)</li>
+<li>Utilisez-vous une synchronisation personnalisée ?</li>
 <li>[Salesforce uniquement] Votre instance a-t-elle implémenté des filtres de synchronisation personnalisés ? 
 <p>Remarque : Contactez le support Marketo pour identifier les filtres de synchronisation personnalisés ou demander qu’une règle de synchronisation personnalisée soit implémentée.</li></td>
   </tr>
@@ -313,3 +311,7 @@ La liste de contrôle ci-dessous a été mise en place avec les données des cha
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[Audit d’une instance héritée : ► de base de données](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)

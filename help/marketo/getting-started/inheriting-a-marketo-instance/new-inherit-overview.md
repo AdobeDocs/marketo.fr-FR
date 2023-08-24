@@ -3,9 +3,9 @@ description: Découvrez comment optimiser et mettre à l’échelle une instance
 title: Démarrage rapide d’une instance de Marketo Engage héritée
 hide: true
 hidefromtoc: true
-source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '335'
 ht-degree: 1%
 
 ---
@@ -55,5 +55,3 @@ Besoin d’aide supplémentaire ? Connectez-vous avec nous ou d’autres utilisa
 * Connectez-vous et apprenez-en auprès d’autres utilisateurs Marketo Engage dans **[Nation marketing](https://nation.marketo.com/){target="_blank"}**.
 
 * Pour obtenir une assistance pratique afin de tirer le meilleur parti de votre instance de Marketo Engage, contactez **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
-
-* Pour améliorer vos compétences de Marketo Engage, consultez la **[Catalogue de cours pour Marketo Engage](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.
