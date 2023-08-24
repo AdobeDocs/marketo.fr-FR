@@ -2,9 +2,9 @@
 description: Onglet Carte de l’engagement - Documents Marketo - Documentation du produit
 title: Onglet Carte d’engagement
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Filtre : lorsque vous cliquez sur cette carte, un panneau de visualisation s’a
 
 >[!NOTE]
 >
->Vous pouvez modifier la ou les étapes du flux à partir d’une Principale campagne. Pour modifier les campagnes imbriquées, vous devez accéder à la campagne à partir du lien situé dans le panneau déroulant.
+>Vous pouvez modifier la ou les étapes du flux à partir d’une campagne principale. Pour modifier les campagnes imbriquées, vous devez accéder à la campagne à partir du lien situé dans le panneau déroulant.
 
 * Si l’étape Exécuter ou Demander le flux d’une campagne comporte des choix, un clic sur la carte affiche un panneau déroulant contenant les informations suivantes :
 
@@ -80,9 +80,9 @@ Filtre : lorsque vous cliquez sur cette carte, un panneau de visualisation s’a
 
 ## Visualisation d’une campagne d’exécution imbriquée {#visualizing-a-nested-execute-campaign}
 
-Exécutez les campagnes exécutées en série avec la campagne parente. Les personnes qui remplissent les critères d’une campagne exécutable doivent suivre toutes les étapes du flux de la campagne et revenir à la Principale campagne pour continuer les étapes du flux de cette campagne.
+Exécutez les campagnes exécutées en série avec la campagne parente. Les personnes qui remplissent les critères d’une campagne exécutable doivent suivre toutes les étapes du flux de la campagne et revenir à la campagne principale pour continuer les étapes du flux de cette campagne.
 
-Vous trouverez ci-dessous un exemple de campagne dynamique, &quot;Campagne A&quot;, qui comprend une étape d’exécution du flux de campagne. Considérez &quot;Campagne A&quot; comme votre Principale campagne.
+Vous trouverez ci-dessous un exemple de campagne dynamique, &quot;Campagne A&quot;, qui comprend une étape d’exécution du flux de campagne. Considérez &quot;Campagne A&quot; comme votre campagne principale.
 
 ![](assets/engagement-map-tab-11.png)
 
@@ -99,9 +99,9 @@ Vous pouvez cliquer sur l’étape Exécuter le flux de campagne de la &quot;Cam
 
 ## Visualisation de la campagne de requêtes {#visualizing-request-campaign}
 
-Les campagnes de requête s’exécutent en parallèle de la campagne parente. Les personnes qui remplissent les critères d’une campagne de demande effectuent toutes les étapes de flux de la campagne, puis quittent celle-ci. Simultanément, le même groupe de personnes passe par les étapes de flux de la Principale campagne.
+Les campagnes de requête s’exécutent en parallèle de la campagne parente. Les personnes qui remplissent les critères d’une campagne de demande effectuent toutes les étapes de flux de la campagne, puis quittent celle-ci. Parallèlement, le même groupe de personnes passe par les étapes de flux de la campagne principale.
 
-Voici un exemple de campagne dynamique, &quot;Campagne A&quot;, qui comprend une étape de flux de campagne de requête. Considérez &quot;Campagne A&quot; comme votre Principale campagne.
+Voici un exemple de campagne dynamique, &quot;Campagne A&quot;, qui comprend une étape de flux de campagne de requête. Considérez &quot;Campagne A&quot; comme votre campagne principale.
 
 ![](assets/engagement-map-tab-14.png)
 
@@ -122,9 +122,17 @@ Voici un exemple de campagne de requêtes avec des choix.
 
 ## Gestion des erreurs {#error-handling}
 
-Les erreurs dans les listes dynamiques et les étapes de flux sont mises en évidence par le biais d’une icône d’erreur dans la carte. En outre, un message d’erreur correspondant sera reflété dans le panneau de visualisation.
+Les erreurs des listes dynamiques et des étapes de flux sont mises en surbrillance par une icône rouge dans la carte. En outre, un message d’erreur correspondant sera reflété dans le panneau de visualisation.
 
-Vous trouverez ci-dessous un exemple d’erreur dans un déclencheur qui s’affiche dans la carte d’aperçu du déclencheur, le panneau déroulant et la carte de déclencheur détaillée.
+Les avertissements dans les listes dynamiques et les étapes de flux sont mis en surbrillance par une icône orange dans la carte. En outre, un message d’avertissement correspondant sera reflété dans le panneau déroulant.
+
+Vous trouverez ci-dessous un exemple d’avertissement dans une carte Choix qui s’affiche dans la carte d’étape Exécuter la campagne , dans le panneau déroulant et dans la carte de choix Par défaut .
+
+![](assets/engagement-map-tab-18.png)
+
+>[!NOTE]
+>
+>Les avertissements sont des recommandations à examiner, mais ne sont pas des indicateurs d’erreurs dans la campagne dynamique.
 
 **Les erreurs dans les cartes de filtre peuvent inclure :**
 
