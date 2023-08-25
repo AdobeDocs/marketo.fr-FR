@@ -2,9 +2,9 @@
 description: Notes de mise à jour - Juillet 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Juillet 2023
 feature: Release Information
-source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
+source-git-commit: 45e092f7b7e7beeef9712869b62ba4e022c2bf3d
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '664'
 ht-degree: 6%
 
 ---
@@ -67,8 +67,8 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -81,8 +81,8 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
