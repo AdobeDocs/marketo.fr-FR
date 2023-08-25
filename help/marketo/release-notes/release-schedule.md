@@ -4,18 +4,18 @@ description: Calendrier des versions - Documents Marketo - Documentation sur le 
 title: Calendrier des versions
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 69d3dad7837ae4b5a65889c10c0fcb23c46591c1
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
 # Calendrier des versions {#release-schedule}
 
-**Version**: Mois/année de chaque version. Une fois disponibles, les notes de mise à jour seront liées dans le tableau ci-dessous.
+**Version**: mois/année de chaque version. Une fois disponibles, les notes de mise à jour seront liées dans le tableau ci-dessous.
 
-**Date de publication**: Le déploiement commence généralement le mardi de la semaine de publication, la majeure partie de la mise à niveau étant effectuée vendredi soir. Un courrier électronique est envoyé avec des dates et des détails de mise à jour spécifiques. La date indiquée correspond à la mise à jour du vendredi.
+**Date de publication**: le déploiement commence généralement le mardi de la semaine de publication, la majeure partie de la mise à niveau étant effectuée vendredi soir. Un courrier électronique est envoyé avec des dates et des détails de mise à jour spécifiques. La date indiquée correspond à la mise à jour du vendredi.
 
 **Statut**:
 
@@ -60,7 +60,7 @@ _Les dates de publication peuvent être modifiées._
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">23 juillet</a></td>
    <td>21 juillet 2023</td>
-   <td>À la planification</td>
+   <td>En cours</td>
   </tr>
   <tr>
    <td>23 septembre</td>
@@ -69,7 +69,7 @@ _Les dates de publication peuvent être modifiées._
   </tr>
   <tr>
    <td>23 octobre</td>
-   <td>20 octobre 2023</td>
+   <td>13 octobre 2023</td>
    <td>À la planification</td>
   </tr>
  </tbody>
