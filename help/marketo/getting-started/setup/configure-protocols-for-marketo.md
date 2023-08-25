@@ -4,9 +4,9 @@ description: Configuration de protocoles pour Marketo - Documents Marketo - Docu
 title: Configuration de protocoles pour Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
+source-git-commit: 232895f3d07b2b076100eeaaabaea0ed7560c7b2
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1026'
 ht-degree: 4%
 
 ---
@@ -177,41 +177,50 @@ Les tableaux suivants couvrent tous les serveurs Marketo Engage qui effectuent d
    <th>Adresse IP individuelle</th>
   </tr>
   <tr>
-   <td>54.212.167.17</td>
-  </tr>
-   <tr>
-   <td>44.235.171.179</td>
-  </tr>
-   <tr>
-   <td>35.165.244.220</td>
-  </tr>
-   <tr>
-   <td>52.20.211.99</td>
-  </tr>
-   <tr>
-   <td>54.237.141.197</td>
-  </tr>
-  <tr>
-   <td>54.160.246.246</td>
-  </tr>
-   <tr>
-   <td>18.200.201.81</td>
-  </tr>
-  <tr>
-   <td>34.247.24.245</td>
-  </tr>
-   <tr>
-   <td>54.220.138.65</td>
-  </tr>
-  <tr>
    <td>13.237.155.207</td>
   </tr>
    <tr>
    <td>13.55.192.247</td>
   </tr>
   <tr>
+   <td>18.200.201.81</td>
+  </tr>
+  <tr>
+   <td>34.247.24.245</td>
+  </tr>
+  <tr>
+   <td>35.165.244.220</td>
+  </tr>
+  <tr>
+   <td>44.235.171.179</td>
+  </tr>
+  <tr>
+   <td>52.20.211.99</td>
+  </tr>
+  <tr>
    <td>52.64.109.86</td>
   </tr>
- </tbody>
+  <tr>
+   <td>54.160.246.246</td>
+  </tr>
+  <tr>
+   <td>54.212.167.17</td>
+  </tr>
+  <tr>
+   <td>54.220.138.65</td>
+  </tr>
+   <tr>
+   <td>54.237.141.197</td>
+  </tr>
+  </tr>
+   <tr>
+   <td>130.248.168.16</td>
+  </tr>
+  </tr>
+   <tr>
+   <td>130.248.168.17</td>
+  </tr>
+
+</tbody>
 </table>
 
