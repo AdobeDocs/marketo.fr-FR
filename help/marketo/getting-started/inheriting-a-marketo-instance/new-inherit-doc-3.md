@@ -3,9 +3,9 @@ description: Hériter de Doc 3 - Documents Marketo - Documentation du produit
 title: Hériter du Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '788'
 ht-degree: 2%
 
 ---
@@ -96,7 +96,7 @@ Les activités marketing permettent à votre équipe marketing de créer des cam
    <td>Forms locale</td> 
    <td><li>Combien de programmes ont un emplacement local <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulaires</a>? Ces formulaires doivent-ils être transformés en formulaires globaux ?</li>
 <li>Capturez-vous les données appropriées pour vos équipes marketing et de vente ?</li>
-<p>Conseil : Limitez le nombre de formulaires locaux pour faciliter la mise à jour et l’alignement aux modifications apportées à la confidentialité des données et aux stratégies d’inclusion/exclusion. Quelles questions doivent être posées lors de la création d’un formulaire ? Si les informations collectées ne changent pas et que les fonctionnalités avancées des formulaires ne changent pas, envisagez un formulaire global au lieu d’un formulaire local. KG - VÉRIFIEZ CECI</td>
+<p>Conseil : Limitez le nombre de formulaires locaux pour faciliter la mise à jour et l’alignement aux modifications apportées à la confidentialité des données et aux stratégies d’inclusion/exclusion. Lors de la création d’un formulaire, quelles questions doivent être posées ? Si les informations collectées ne changent pas et que les fonctionnalités avancées des formulaires ne changent pas, envisagez un formulaire global au lieu d’un formulaire local.</td>
   </tr>
   <tr> 
    <td>Formulaires internationaux</td> 
@@ -131,11 +131,11 @@ Les activités marketing permettent à votre équipe marketing de créer des cam
   </tr>
   <tr> 
    <td>Normalisation des données</td> 
-   <td><li>Disposez-vous d’un programme centralisé pour normaliser les données entrantes ? KG - DOUBLECHECK THIS</li></td>
+   <td><li>Disposez-vous d’un programme centralisé pour normaliser les données entrantes ?</li></td>
   </tr>
   <tr> 
    <td>Gestion des bounces</td> 
-   <td><li>Avez-vous un programme centralisé pour gérer les problèmes ? <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">personnes qui rebondissent</a>? KG - CET ARTICLE DE 2017 EST-IL ENCORE PERTINENT ?</li></td>
+   <td><li>Avez-vous un programme centralisé pour gérer les problèmes ? <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">personnes qui rebondissent</a>?</li></td>
   </tr>
   <tr> 
    <td>Confidentialité et conformité</td> 

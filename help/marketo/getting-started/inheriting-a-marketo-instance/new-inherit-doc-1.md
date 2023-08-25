@@ -3,9 +3,9 @@ description: Hériter de Doc 1 - Documents Marketo - Documentation du produit
 title: Hériter Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1209'
 ht-degree: 4%
 
 ---
@@ -126,7 +126,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
   <tr> 
    <td>Limites de communication</td> 
    <td><li>Existe-t-il <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">limites de communication</a> en place ? Votre entreprise a-t-elle des politiques pour lesquelles des limites de communication peuvent être nécessaires ?</li>
-<p>Remarque : Adobe recommande de limiter votre communication à 1 par jour et 3 par 7 jours, avec <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">opérationnel</a> emails bloqués.</td>
+<p>Remarque : Nous vous recommandons de limiter votre communication à 1 par jour et 3 par 7 jours, avec la variable <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">opérationnel</a> emails bloqués.</td>
   </tr>
  </tbody> 
 </table>
@@ -228,7 +228,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
    <td><li>Est-ce que <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Code de suivi Munchkin</a> sur votre site web (pas dans Marketo) ?</li>
 <li>Est un <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Ne pas effectuer de suivi</a> Demande de navigateur activée ?</li>
 <li>Est-ce que <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">API Munchkin</a> configuré ? 
-<p>Conseil : Si vous ne disposez pas de documentation sur l’emplacement du code de la serviette sur votre site web, commencez par un aperçu rapide en utilisant le "rapport Web Analytics" dans les "Analytics" de base pour comprendre où le code Munchkin est placé sur votre site web. KG - EST-CE UN BON CONSEIL ?</li></td>
+<p>Conseil : Si vous ne disposez pas de la documentation vous indiquant où se trouve le code de la serviette sur votre site web, vous pouvez afficher toutes les URL en créant une <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport Activité de la page web</a>.</li></td>
   </tr>
   <tr> 
    <td>Services web</td> 
