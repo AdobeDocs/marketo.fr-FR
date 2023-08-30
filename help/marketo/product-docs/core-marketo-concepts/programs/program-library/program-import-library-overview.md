@@ -5,18 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: eb68ae803f2e313a7ac35747aacca5eed7089b0f
+source-git-commit: 632f34fa3ab69537703b1f82678955047476d0d3
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # Présentation de la bibliothèque d’importation de programmes {#program-import-library-overview}
 
-Texte d’introduction.
+La bibliothèque de référence du Marketo Engage comprend plusieurs programmes de démarrage que vous pouvez importer directement dans votre instance Marketo pour lancer la création de programmes qui aideront votre équipe.
 
-—Informations sur la bibliothèque d’importation de programme Marketo Engage ici—
+La bibliothèque comprend des programmes tels que : email, engagement, événement, notation, délivrabilité et opérationnel. Tous les programmes ont été développés par l’équipe produit Adobe et testés par notre équipe globale de services professionnels dans le but d’optimiser la qualité et l’efficacité.
+
+## Exemples de programmes disponibles {#available-program-examples}
 
 * [Page d’entrée CT-AAAA-MM-Contenu non Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
 
@@ -51,3 +53,7 @@ Texte d’introduction.
 * [Programme WBN-AAAA-MM-JJ-Webinaire](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
 
 * [WR-YYYY-MM-Web Request Program](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
+
+>[!MORELIKETHIS]
+>
+>[Importation d’un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}
