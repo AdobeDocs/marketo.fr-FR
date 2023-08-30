@@ -3,10 +3,10 @@ description: Filtrage de l’activité des robots de messagerie électronique - 
 title: Filtrage de l’activité des robots de messagerie
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 14%
+source-wordcount: '454'
+ht-degree: 11%
 
 ---
 
@@ -16,8 +16,8 @@ Parfois, l’activité de robots de messagerie peut gonfler par erreur les ouver
 
 Nous utilisons deux méthodes distinctes pour confirmer l’activité des robots :
 
-* Correspondance avec [Liste de robots Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Les activités qui correspondent à tout élément de la liste UA/IP de l’IAB (Agent utilisateur/Adresse IP) seront marquées comme des robots.
-* Correspondance avec le modèle de proximité : Lorsque plus de deux activités se produisent en même temps (en moins d’une seconde), elles sont identifiées comme des robots. Les attributs pris en compte lors de la comparaison sont les suivants :
+* Correspondance avec [Liste de robots Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: les activités qui correspondent à tout élément de la liste UA/IP de l’IAB (Agent utilisateur/Adresse IP) seront marquées comme des robots.
+* Correspondance avec le modèle de proximité : lorsque plus de deux activités se produisent en même temps (en moins d’une seconde), elles sont identifiées comme des robots. Les attributs pris en compte lors de la comparaison sont les suivants :
    * Identifiant de piste (doit être le même)
    * Ressource de messagerie électronique (doit être identique)
    * Clic sur un lien ou ouverture d’un courrier électronique
@@ -49,9 +49,9 @@ Par rapport aux clics sur les liens de courrier électronique et à l’activit�
 
 >[!NOTE]
 >
->Si vous choisissez [!UICONTROL Filtrage de l’activité des robots], vous pouvez constater une baisse des ouvertures et des clics d’email, car les fausses activités sont éliminées.
+>Si vous choisissez [!UICONTROL Filtrage de l’activité des robots], vous pouvez constater une baisse des ouvertures et des clics d’email, car les activités erronées sont éliminées.
 
-**ÉTAPE FACULTATIVE**: Pour désactiver cette fonction, désélectionnez simplement le ou les curseur(s). Si vous la désactivez, les données ne sont pas réinitialisées.
+**ÉTAPE FACULTATIVE**: pour désactiver cette fonction, désélectionnez simplement le ou les curseur(s). Si vous la désactivez, les données ne sont pas réinitialisées.
 
 >[!TIP]
 >
@@ -112,22 +112,6 @@ Nous avons compilé une liste des adresses IP responsables de la génération de
 * 162.129.251.14
 * 162.129.251.42
 * 208.52.157.204
-* 209.222.82.126
-* 209.222.82.127
-* 209.222.82.128
-* 209.222.82.129
-* 209.222.82.138
-* 209.222.82.139
-* 209.222.82.140
-* 209.222.82.141
-* 209.222.82.228
-* 209.222.82.229
-* 209.222.82.230
-* 209.222.82.231
-* 209.222.82.232
-* 209.222.82.233
-* 209.222.82.234
-* 209.222.82.235
 
 >[!NOTE]
 >
