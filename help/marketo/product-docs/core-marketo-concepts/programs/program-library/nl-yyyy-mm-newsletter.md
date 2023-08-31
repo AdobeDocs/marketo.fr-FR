@@ -1,19 +1,19 @@
 ---
-description: AEM-AAAA-MM-JJ-Envoi de courrier électronique unique - Documents Marketo - Documentation du produit
-title: AEM-AAAA-MM-JJ-Envoi de courrier électronique unique
+description: NL-AAAA-MM-Newsletter - Documents Marketo - Documentation du produit
+title: NL-AAAA-MM-Newsletter
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '282'
 ht-degree: 19%
 
 ---
 
-# AEM-AAAA-MM-JJ-Envoi de courrier électronique unique {#em-yyyy-mm-dd-single-email-send}
+# NL-AAAA-MM-Newsletter {#nl-yyyy-mm-newsletter}
 
-Cet exemple envoie un seul courrier électronique à l’aide d’un programme de courrier électronique de Marketo Engage. Le courrier électronique peut inclure ou non un test A/B.
+Cet exemple envoie un email de newsletter à l’aide d’un programme de messagerie de Marketo Engage. Le courrier électronique peut inclure ou non un test A/B.
 
 Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
 
@@ -28,7 +28,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    <th>Type de programme</th>
   </tr> 
   <tr> 
-   <td>E-mail</td> 
+   <td>Bulletin d’information</td> 
    <td>01-Member 
 <br/>02-Engaged-Success</td>
    <td>Inclusif</td>
@@ -49,7 +49,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>E-mail</td> 
    <td>Modèle de courrier électronique de démarrage rapide</td>
-   <td>01-Email-Thank You</td>
+   <td>01 - Email</td>
   </tr>
   <tr> 
    <td>Rapport local</td> 
@@ -65,13 +65,13 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
-   <td>01-Engagé (succès du programme)</td>
+   <td>01 - Engagé (succès du programme)</td>
   </tr>
   <tr> 
    <td>Dossier</td> 
    <td> </td>
    <td>Ressources : héberge toutes les ressources créatives 
-<br/>(sous-dossiers pour les pages d’entrée et de messagerie)  </td>
+<br/>(sous-dossiers pour les emails)  </td>
   </tr>
   <tr> 
    <td>Dossier</td> 
@@ -147,4 +147,4 @@ CAPTURE D&#39;ÉCRAN DES RÈGLES DE CONFLIT
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne &quot;01-Engaged&quot; (engagement 01) pour suivre les performances ! Procédez comme suit : _before_ votre formulaire est actif et des courriers électroniques sont envoyés.
+>N’oubliez pas d’activer la campagne &quot;01-Engaged&quot; (engagement 01) pour suivre le succès de la campagne. Procédez comme suit : _before_ votre formulaire est actif et des courriers électroniques sont envoyés.

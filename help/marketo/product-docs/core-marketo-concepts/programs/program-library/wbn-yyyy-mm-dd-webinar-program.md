@@ -1,19 +1,19 @@
 ---
-description: EV-YYYY-MM-DD-Event Program - Marketo Docs - Documentation du produit
-title: EV-YYYY-MM-DD-Event Program
+description: WBN-YYYY-MM-DD-Webinar Program - Documentation Marketo - Documentation produit
+title: Programme WBN-AAAA-MM-JJ-Webinaire
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 18%
+source-wordcount: '591'
+ht-degree: 17%
 
 ---
 
-# EV-YYYY-MM-DD-Event Program {#ev-yyyy-mm-dd-event-program}
+# Programme WBN-AAAA-MM-JJ-Webinaire {#wbn-yyyy-mm-dd-webinar-program}
 
-Il s’agit d’un exemple de programme d’événement avec une page d’enregistrement, trois courriers électroniques d’invitation et des courriers électroniques de relance à l’aide d’un programme d’événement de Marketo Engage. Adapté à tous les événements pour lesquels vous avez besoin d’être inscrit, y compris les tranches horaires, les déjeuners, les dîners ou les présentations lors d’événements organisés dans le cadre d’un salon.
+Il s’agit d’un exemple de programme webinaire avec gestion de l’enregistrement, trois courriers électroniques d’invitation, rappels à suivre et courriers électroniques de relance utilisant un programme d’événement de Marketo Engage.
 
 Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
 
@@ -29,13 +29,15 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   </tr> 
   <tr> 
    <td>Événement</td> 
-   <td>01-Invité 
-<br/>02-Waitlisted
-<br/>03-Registered
-<br/>04 - Aucun affichage
-<br/>05-Participded-Success</td>
+   <td>01 - Invité 
+   <br/>02 - Sur liste blanche
+   <br/>03 - Inscrits
+   <br/>04 - Aucun affichage
+   <br/>05 - Participé - Succès
+   <br/>06 - Participé à On-Demand - Succès</td>
    <td>Inclusif</td>
-   <td>Événement</td>
+   <td>Événement
+   <p>(Intégration : événement avec webinaire)</td>
   </tr>
  </tbody> 
 </table>
@@ -52,59 +54,65 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>E-mail</td> 
    <td>Modèle de courrier électronique de démarrage rapide</td>
-   <td>01-Email-Thank You</td>
+   <td>01 - Email - Invitation</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
    <td>Modèle de courrier électronique de démarrage rapide</td>
-   <td>02a- Email - Invitation</td>
+   <td>02 - Email - Rappel d’invitation</td>
+  </tr>
+   <tr> 
+   <td>E-mail</td> 
+   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td>03 - Email - Rappel d’invitation - Dernière chance</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
    <td>Modèle de courrier électronique de démarrage rapide</td>
-   <td>02b - Email - Rappel d’invitation</td>
+   <td>04 - Email - Confirmation d'enregistrement</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
    <td>Modèle de courrier électronique de démarrage rapide</td>
-   <td>02c - Email - Rappel d’invitation - Dernière chance</td>
+   <td>05 - Email - Rappel à participer</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
    <td>Modèle de courrier électronique de démarrage rapide</td>
-   <td>03 - Email - Rappel à participer</td>
+   <td>06 - Email - Suivi - Participé</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
    <td>Modèle de courrier électronique de démarrage rapide</td>
-   <td>04a - Email - Suivi - Participé</td>
+   <td>07 - Email - relance - pas de programme </td>
   </tr>
-  <tr> 
-   <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
-   <td>04b - Email - relance - NoShow</td>
-  </tr>
-  <tr> 
-   <td>Page de destination</td> 
-   <td>Modèle LP de démarrage rapide</td>
-   <td>01a - LP - Enregistrement</td>
-  </tr>
-  <tr> 
-   <td>Page de destination</td> 
-   <td>Modèle LP de démarrage rapide</td>
-   <td>01b - LP - Merci</td>
-  </tr>
+  <tr>
   <tr> 
    <td>Formulaire</td> 
    <td> </td>
    <td>Enregistrement FM-Event</td>
   </tr>
   <tr> 
+   <td>Page de destination</td> 
+   <td>Modèle LP de démarrage rapide</td>
+   <td>01 - LP - Enregistrement</td>
+  </tr>
+  <tr> 
+   <td>Page de destination</td> 
+   <td>Modèle LP de démarrage rapide</td>
+   <td>02 - LP - Merci</td>
+  </tr>
+  <tr> 
+   <td>Page de destination</td> 
+   <td>Modèle LP de démarrage rapide</td>
+   <td>03 - LP - On Demand</td>
+  </tr>
+  <tr> 
    <td>Rapport local</td> 
    <td> </td>
    <td>Envoyer la performance par e-mail</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Rapport local</td> 
    <td> </td>
    <td>Performance page de destination </td>
@@ -117,7 +125,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
-   <td>01 - Enregistrement du processus</td>
+   <td>01 - Enregistrements de processus</td>
   </tr>
    <tr> 
    <td>Campagne intelligente</td> 
@@ -132,28 +140,33 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
-   <td>02c - Envoyer l’invitation la dernière chance</td>
+   <td>02c - Envoyer le rappel d’invitation la dernière chance</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
    <td>03 - Envoyer le rappel pour participer</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
    <td>04 - Participé (succès du programme)</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
    <td>05 - Envoi d’emails de relance</td>
   </tr>
   <tr> 
+   <td>Campagne intelligente</td> 
+   <td> </td>
+   <td>06 - Participé à On-Demand (succès du programme)</td>
+  </tr>
+  <tr> 
    <td>Dossier</td> 
    <td> </td>
    <td>Ressources : héberge toutes les ressources créatives 
-<br/>(sous-dossiers pour les pages d’entrée et de messagerie)</td>
+<br/>(sous-dossiers pour Email, Landing Pages et Forms)</td>
   </tr>
   <tr> 
    <td>Dossier</td> 
@@ -184,6 +197,11 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   </tr>
   <tr> 
    <td>Texte</td> 
+   <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
+   <td>my.DownloadURL?without=http:// </td>
+  </tr>
+  <tr> 
+   <td>Texte</td> 
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
@@ -204,34 +222,14 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   </tr>
    <tr> 
    <td>Texte complet</td> 
-   <td><code>{{my.Content-Description}}</code></td>
+   <td><code>{{my.Event-Description}}</code></td>
    <td>Double-cliquez pour plus de détails  
-<br/><code><--My Content Description Here--></code> 
-<br/>Modifiez cette description du contenu au niveau du programme, sous l’onglet Mes jetons . 
+<br/><code><--My Event Description Here--></code> 
+<br/>Modifiez cette description d’événement au niveau du programme, sous l’onglet Mes jetons . 
 <br/>Vous allez apprendre : 
 <li>Puce 1</li>
 <li>Puce 2</li>
 <li>Puce 3</li></td>
-  </tr>
-  <tr> 
-   <td>Texte</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
-  </tr>
-   <tr> 
-   <td>Texte</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>Texte</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
-  </tr>
-  <tr> 
-   <td>Texte</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
   </tr>
   <tr> 
    <td>Texte</td> 
@@ -246,7 +244,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Texte</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>Évènement en direct</td>
+   <td>Webinaire</td>
   </tr>
   <tr> 
    <td>Texte</td> 
@@ -258,7 +256,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Texte</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
@@ -320,6 +318,8 @@ CAPTURE D&#39;ÉCRAN DES RÈGLES DE CONFLIT
 
 ## Meilleures pratiques {#best-practices}
 
+* Si vous utilisez un fournisseur de webinaires intégré, n’oubliez pas de connecter le programme de Marketo Engage à votre webinaire dans le système d’hébergement.
+
 * Après l’importation du programme de webinaire, déplacez le formulaire d’une ressource locale vers une ressource globale située dans Design Studio.
    * La réduction du nombre de formulaires et l’utilisation de ressources plus globales à partir de Design Studio vous permettent d’accroître l’évolutivité de la conception de votre programme et de la gouvernance administrative. Il offre également une certaine flexibilité quant aux mises à jour régulières de conformité pour les champs, la langue d’inscription, etc.
 
@@ -333,7 +333,7 @@ CAPTURE D&#39;ÉCRAN DES RÈGLES DE CONFLIT
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne &quot;606 participants (succès du programme)&quot; pour suivre le succès ! Procédez comme suit : _before_ votre formulaire est actif et des courriers électroniques sont envoyés.
+>N’oubliez pas d’activer les campagnes &quot;04-Participed (Program Success)&quot; et &quot;06-Participded On-Demand (Program Success)&quot; pour suivre le succès ! Procédez comme suit : _before_ vos emails sont envoyés.
 
 >[!IMPORTANT]
 >
