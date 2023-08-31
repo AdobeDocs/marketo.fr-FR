@@ -4,20 +4,24 @@ description: Navigation dans le calendrier marketing - Documents Marketo - Docum
 title: Navigation dans le calendrier marketing
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
 
 # Navigation dans le calendrier marketing {#navigating-the-marketing-calendar}
 
-La navigation dans le calendrier marketing est facile comme un, deux, trois !
+La navigation dans le calendrier marketing est facile. Voici comment.
 
 >[!PREREQUISITES]
 >
 >Assurez-vous que vous disposez d’une [Licence de calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - dans le cas contraire, la mosaïque Calendrier marketing ne s’affichera pas dans Mon Marketo.
+
+>[!NOTE]
+>
+>Les campagnes dynamiques récurrentes ne sont pas prises en charge dans le calendrier marketing.
 
 1. Accédez au **Calendrier marketing**.
 
@@ -41,11 +45,11 @@ La vue Agenda affiche toutes vos entrées sous la forme d’une liste.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Sélectionnez la **[!UICONTROL Agenda]** vue.
+1. Sélectionnez la variable **[!UICONTROL Agenda]** vue.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   Super ! C&#39;est un excellent point de vue pour voir tout ce qui est prévu.
+   Super! C&#39;est un excellent point de vue pour voir tout ce qui est prévu.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
@@ -63,7 +67,7 @@ Vous pouvez également utiliser ces raccourcis clavier.
 | Avancer dans le temps | alt/opt + down |
 | Accédez à &quot;aujourd’hui&quot;. | alt/opt + t |
 
-Super ! Ce sont les bases. Vous pouvez également personnaliser votre vue à l’aide de filtres.
+Super! Ce sont les bases. Vous pouvez également personnaliser votre vue à l’aide de filtres.
 
 >[!MORELIKETHIS]
 >

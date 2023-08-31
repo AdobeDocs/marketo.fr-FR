@@ -4,16 +4,20 @@ description: Types d’entrée de la vue Planification du programme - Documents 
 title: Types d’entrée de la vue de programme
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 16%
+source-wordcount: '152'
+ht-degree: 15%
 
 ---
 
 # Types d’entrée de la vue de programme {#program-schedule-view-entry-types}
 
 Il existe huit types d’entrées intégrés différents qui seront visibles et utilisables dans la vue de planification de votre programme. Vous pouvez également [créer des types d’entrée personnalisés ;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) dans la section Admin .
+
+>[!NOTE]
+>
+>Les campagnes dynamiques récurrentes sont **not** pris en charge dans la vue de planification.
 
 <table> 
  <thead> 
