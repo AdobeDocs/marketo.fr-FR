@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
 workflow-type: tm+mt
-source-wordcount: '9066'
+source-wordcount: '9064'
 ht-degree: 5%
 
 ---
@@ -408,24 +408,23 @@ ht-degree: 5%
             + [Utilisation des coûts de période dans un programme](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Bibliothèque de programmes {#program-library}
             + [Présentation de la bibliothèque d’importation de programmes](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Page d’entrée CT-AAAA-MM-Contenu non Marketo](product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md)
-            + [CT-AAAA-MM-Contenu sur la page d’entrée Marketo](product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md)
-            + [AEM-AAAA-MM-JJ-Envoi de courrier électronique unique](product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md)
-            + [EV-YYYY-MM-DD-Event Program](product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md)
-            + [NL-AAAA-MM-Newsletter](product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md)
-            + [NUR-YYYY-MM-Advanced Nurture](product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md)
-            + [NUR-AAAA-MM-Simple Nurture](product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md)
-            + [Page d’entrée OA-AAAA-MM-Marketo de publicité en ligne](product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
-            + [OP-Acquisition-API](product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
-            + [Gestion des données OP](product-docs/core-marketo-concepts/programs/program-library/op-data-management.md)
-            + [Gestion de la délivrabilité des OP](product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
-            + [Gestion des leads OP](product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md)
-            + [Gestion des préférences OP](product-docs/core-marketo-concepts/programs/program-library/op-preference-management.md)
-            + [OP-Scoring-Behavior](product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md)
-            + [OP-Scoring-Demographic](product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
-            + [Programme TS-YYYY-MM-DD-Tradeshow](product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md)
-            + [Programme WBN-AAAA-MM-JJ-Webinaire](product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md)
-            + [WR-YYYY-MM-Web Request Program](product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md)
+            + [AEM-AAAA-MM-JJ-Envoi de courrier électronique unique](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md)
+            + [NL-AAAA-MM-Newsletter](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md)
+            + [Programme WBN-AAAA-MM-JJ-Webinaire](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md)
+            + [EV-YYYY-MM-DD-Event Program](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md)
+            + [Programme TS-YYYY-MM-DD-Tradeshow](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md)
+            + [NUR-AAAA-MM-Simple Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md)
+            + [NUR-YYYY-MM-Advanced Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md)
+            + [CT-AAAA-MM-Contenu sur la page d’entrée Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md)
+            + [Page d’entrée CT-AAAA-MM-Contenu non Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md)
+            + [WR-YYYY-MM-Web Request Program](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md)
+            + [Page d’entrée OA-AAAA-MM-Marketo de publicité en ligne](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
+            + [Gestion des données OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md)
+            + [Gestion des leads OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md)
+            + [OP-Scoring-Behavior](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md)
+            + [OP-Scoring-Demographic](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
+            + [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
+            + [Gestion de la délivrabilité des OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
          + Rapport Performance du programme {#program-performance-report}
             + [Création d’un rapport Performance de programme](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Ajout de colonnes d’état du programme à un rapport de programme](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
