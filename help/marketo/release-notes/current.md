@@ -3,7 +3,7 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d87c05212afbc916bd11cf681a4375e31f46550c
+source-git-commit: 515821580741449f71df31dbd0652498fd744783
 workflow-type: tm+mt
 source-wordcount: '941'
 ht-degree: 12%
@@ -314,7 +314,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 * **Déclencher des jetons pour les nouvelles activités**: de nouveaux jetons de déclenchement sont disponibles pour prendre en charge les nouvelles activités pour Dynamic Chat.
 
-<table> 
+<table style="margin-left:10px" width="400px"> 
   <tr> 
    <td><b>Statut</b></td>
    <td><b>Mises à jour de la documentation</b></td>
