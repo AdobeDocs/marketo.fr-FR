@@ -3,7 +3,7 @@ description: Hériter de Doc 2 - Documents Marketo - Documentation du produit
 title: Hériter Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 699b213157a8a621a1f2f8544c6f4995fad930cd
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 9%
@@ -19,7 +19,7 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Zone</th> 
+   <th style="width:20%">Zone</th> 
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
@@ -27,7 +27,7 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
    <td><li>Le nombre de personnes dans la variable <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">base</a>?</li>
 <li>Si votre base de données est presque pleine, la politique de votre société vous recommande-t-elle d’augmenter la taille de votre base de données ou de nettoyer les données historiques ?</li>
 <li>Votre base de données globale est-elle commercialisable à au moins 85 % ? 
-<br/>Si le vôtre tombe sous ce seuil, consultez les autres listes intelligentes du système (Liste bloquée, Marketing suspendu, Doublons, Désabonner) avec une plus grande attention.</li></td>
+<br/>     Si le vôtre tombe sous ce seuil, consultez les autres listes intelligentes du système (Liste bloquée, Marketing suspendu, Doublons, Désabonner) avec une plus grande attention.</li></td>
   </tr>
   <tr> 
    <td>Personnes désabonnées</td> 
@@ -52,12 +52,12 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
   <tr> 
    <td>Doublons possibles</td> 
    <td><li>Combien <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">enregistrement potentiellement en double</a> y en a-t-il ?
-   <br/>Envisagez de les supprimer ou de les fusionner.</li></td>
+   <br/>     Envisagez de les supprimer ou de les fusionner.</li></td>
   </tr>
    <tr> 
    <td>Hormis programme d’acquisition</td> 
    <td><li>Combien de personnes n’ont pas de <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programme d'acquisition</a>?
-   <br/>S'il y a beaucoup de choses, réfléchissez à pourquoi.</li></td>
+   <br/>     S'il y a beaucoup de choses, réfléchissez à pourquoi.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -67,13 +67,14 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Zone</th> 
+   <th style="width:20%">Zone</th> 
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
    <td>Listes intelligentes</td> 
    <td><li>Combien <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Listes dynamiques</a> y en a-t-il ? Comment sont-ils utilisés dans cette instance ?</li>
-<li>Les listes sont-elles organisées dans une structure de dossiers cohérente ? <br/>Si vous disposez de listes orphelines, envisagez d’organiser votre arborescence afin que les ressources soient faciles à trouver.</li>
+<li>Les listes sont-elles organisées dans une structure de dossiers cohérente ? 
+<br/>     Si vous disposez de listes orphelines, envisagez d’organiser votre arborescence afin que les ressources soient faciles à trouver.</li>
 <p>Conseil : <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivage</a> Les listes intelligentes qui ne sont plus nécessaires aideront à l’organisation et aux performances.</td>
   </tr>
  </tbody> 
@@ -84,7 +85,7 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Zone</th> 
+   <th style="width:20%">Zone</th> 
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
@@ -99,7 +100,7 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Zone</th> 
+   <th style="width:20%">Zone</th> 
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
@@ -107,7 +108,7 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
    <td><li>Quel <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentation</a> y en a-t-il ? Comment sont-ils utilisés ?</li>
 <li>Trop de personnes dans <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segments par défaut</a>?</li>
 <li>Existe-t-il une segmentation pour l’audience vendable ? 
-<br/>Si ce n'est pas le cas, envisagez d'en créer un.</li></td>
+<br/>     Si ce n'est pas le cas, envisagez d'en créer un.</li></td>
   </tr>
  </tbody> 
 </table>

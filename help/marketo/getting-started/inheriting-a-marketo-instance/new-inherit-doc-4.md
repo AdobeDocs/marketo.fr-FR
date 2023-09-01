@@ -3,9 +3,9 @@ description: Hériter du document 4 - Documents Marketo - Documentation du produ
 title: Hériter du document 4
 hide: true
 hidefromtoc: true
-source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '513'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Zone</th> 
+   <th style="width:20%">Zone</th> 
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
@@ -46,7 +46,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Zone</th> 
+   <th style="width:20%">Zone</th> 
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
@@ -65,7 +65,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
   <tr> 
    <td>Confidentialité et conformité</td> 
    <td><li>Votre stratégie de formulaire est-elle conforme à vos exigences en matière de confidentialité des données de l’entreprise et d’inclusion ? 
-   <br/>Étudier <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a>, la loi canadienne contre le spam (CASL), la loi sur le contrôle de l'agression de la pornographie et du marketing non sollicités de 2003 (CAN-SPAM), la loi sur la protection de la vie privée des consommateurs (CCPA) de Californie, etc., pour la conformité aux réglementations.</li>
+   <br/>     Étudier <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a>, la loi canadienne contre le spam (CASL), la loi sur le contrôle de l'agression de la pornographie et du marketing non sollicités de 2003 (CAN-SPAM), la loi sur la protection de la vie privée des consommateurs (CCPA) de Californie, etc., pour la conformité aux réglementations.</li>
 <p>Conseil : N’oubliez pas de toujours consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
  </tbody> 
@@ -76,7 +76,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Zone</th> 
+   <th style="width:20%">Zone</th> 
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
@@ -104,13 +104,13 @@ La structuration des modèles et la création de formulaires, fragments de code 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Zone</th> 
+   <th style="width:20%">Zone</th> 
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
    <td>Extraits</td> 
    <td><li>Combien <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">fragments de code</a> y en a-t-il ? Sont-elles utilisées ? 
-   <br/>Si ce n’est pas le cas, envisagez de les utiliser pour <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> et <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Page d’entrée</a> contenu de pied de page, logos, etc.</li></td>
+   <br/>     Si ce n’est pas le cas, envisagez de les utiliser pour <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> et <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Page d’entrée</a> contenu de pied de page, logos, etc.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -120,7 +120,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Zone</th> 
+   <th style="width:20%">Zone</th> 
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
@@ -134,7 +134,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
   <tr> 
    <td>Images et fichiers</td> 
    <td><li>Images ou fichiers <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">référencé sur les pages web</a> doivent être mises à jour ? 
-   <p>Exemple : la structure d’URL codée en dur peut nécessiter une mise à jour, telle que <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Exemple : structure d’URL codée en dur <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">peut nécessiter une mise à jour</a>, par exemple <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>Contactez votre développeur web pour déterminer où vous devrez peut-être effectuer des mises à jour.</li></td>
   </tr>
  </tbody> 
@@ -145,13 +145,13 @@ La structuration des modèles et la création de formulaires, fragments de code 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Zone</th> 
+   <th style="width:20%">Zone</th> 
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
    <td>État de la ressource</td> 
    <td><li>Le nombre de ressources dans <i>Version préliminaire</i> et <i>Approuvé avec brouillon</i> status ?
-   <br/>S'il y en a beaucoup, envisagez de les supprimer ou de les approuver.</li></td>
+   <br/>     S'il y en a beaucoup, envisagez de les supprimer ou de les approuver.</li></td>
   </tr>
   <tr> 
    <td>Partage de ressources</td> 

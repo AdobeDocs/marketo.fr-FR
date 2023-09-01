@@ -3,7 +3,7 @@ description: Hériter de Doc 5 - Documents Marketo - Documentation du produit
 title: Hériter du Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 2%
@@ -19,7 +19,7 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Zone</th> 
+   <th style="width:20%">Zone</th> 
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
@@ -40,13 +40,13 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Zone</th> 
+   <th style="width:20%">Zone</th> 
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
    <td>Dictionnaire de données</td> 
    <td><li>Existe-t-il un dictionnaire de données distinct expliquant les champs disponibles ?
-   <br/>Si ce n'est pas le cas, envisagez d'en créer un.</li></td>
+   <br/>     Si ce n'est pas le cas, envisagez d'en créer un.</li></td>
   </tr>
   <tr> 
    <td>Organisation</td> 
@@ -60,7 +60,7 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
   <tr> 
    <td>Livres</td> 
     <td><li>Votre entreprise dispose-t-elle d’un manuel d’utilisateur ou d’administrateur ? 
-    <br/>Si tel est le cas, mettez-les à jour en conséquence.</li></td>
+    <br/>     Si tel est le cas, mettez-les à jour en conséquence.</li></td>
   </tr>
   <tr> 
    <td>Conversations avec les parties prenantes internes</td> 
