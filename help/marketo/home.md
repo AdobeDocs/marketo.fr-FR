@@ -1,24 +1,24 @@
 ---
 title: Documentation produit Marketo
-description: Documentation produit Marketo
+description: Documents produit du Marketo Engage
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 30%
+source-wordcount: '52'
+ht-degree: 17%
 
 ---
 
-# Documentation produit Marketo
+# Documents produit du Marketo Engage
 
 ![](assets/marketo-docs-banner.jpg)
 
-## Premiers pas
+## Prise en main
 
 * [Étapes de configuration](/help/marketo/getting-started/setup/setup-steps.md)
 * [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Configuration de protocoles pour Marketo](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
-* [Glossaire Marketo](/help/marketo/getting-started/marketo-glossary.md)
+* [Glossaire du Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md)
 
 ## Articles les plus consultés
 
@@ -28,7 +28,7 @@ ht-degree: 30%
 
 * [Présentation des campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
-* [Présentation de l’expérience utilisateur de la nouvelle génération Adobe Marketo Engage](/help/marketo/product-docs/marketo-engage-modern-ux/overview.md)
+* [Présentation de l’expérience utilisateur de la nouvelle génération de Adobe Marketo Engage](/help/marketo/product-docs/marketo-engage-modern-ux/overview.md)
 
 ## Notes de mise à jour
 

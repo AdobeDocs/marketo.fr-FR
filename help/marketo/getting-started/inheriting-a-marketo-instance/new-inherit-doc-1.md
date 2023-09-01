@@ -3,9 +3,9 @@ description: Hériter de Doc 1 - Documents Marketo - Documentation du produit
 title: Hériter Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1429'
 ht-degree: 4%
 
 ---
@@ -16,7 +16,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
 
 >[!TIP]
 >
->Si vous êtes un nouvel utilisateur Marketo Engage et que vous ne connaissez pas beaucoup des termes, consultez la section [Glossaire Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+>Si vous êtes un nouvel utilisateur Marketo Engage et que vous ne connaissez pas beaucoup des termes, consultez la section [Glossaire du Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 

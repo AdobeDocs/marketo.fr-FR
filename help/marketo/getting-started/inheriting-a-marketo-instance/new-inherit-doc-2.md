@@ -3,14 +3,14 @@ description: Hériter de Doc 2 - Documents Marketo - Documentation du produit
 title: Hériter Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '366'
 ht-degree: 8%
 
 ---
 
-# Hériter Doc 2 {#inherit-doc-2}
+# Liste de contrôle de la base de données d’audit {#inherit-doc-2}
 
 Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d’un marketing et de sources d’acquisition par les principales personnes dans votre abonnement.
 
