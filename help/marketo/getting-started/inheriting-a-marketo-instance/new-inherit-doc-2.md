@@ -3,10 +3,10 @@ description: Hériter de Doc 2 - Documents Marketo - Documentation du produit
 title: Hériter Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 9%
+source-wordcount: '365'
+ht-degree: 8%
 
 ---
 
@@ -47,7 +47,7 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
   </tr>
   <tr> 
    <td>Adresses e-mail renvoyées</td> 
-   <td><li>Texte</li></td>
+   <td><li>KG - ATTENTE SUR LA DÉLIVRABILITÉ</li></td>
   </tr>
   <tr> 
    <td>Doublons possibles</td> 

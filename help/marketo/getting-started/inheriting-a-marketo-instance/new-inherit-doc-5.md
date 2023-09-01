@@ -3,9 +3,9 @@ description: Hériter de Doc 5 - Documents Marketo - Documentation du produit
 title: Hériter du Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '237'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
   <tr> 
    <td>Dictionnaire de données</td> 
    <td><li>Existe-t-il un dictionnaire de données distinct expliquant les champs disponibles ?
-   <br/>     Si ce n'est pas le cas, envisagez d'en créer un.</li></td>
+   <br/>     Si ce n’est pas le cas, envisagez d’en créer un dans un dossier accessible à votre équipe des opérations marketing.</li></td>
   </tr>
   <tr> 
    <td>Organisation</td> 
