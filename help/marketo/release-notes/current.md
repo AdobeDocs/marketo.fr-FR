@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: d87c05212afbc916bd11cf681a4375e31f46550c
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '941'
 ht-degree: 12%
 
 ---
@@ -92,8 +92,8 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Révision et approbation du plan directeur</a></td>
   </tr>
   </tbody>
 </table>
@@ -214,7 +214,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Tableau de bord des performances de la messagerie instantanée**: affichez le nombre de conversations que vos agents de vente en direct ont eues et les équipes les plus performantes.
+* **Tableau de bord des performances de la messagerie instantanée**: affichez le nombre de conversations que vos agents de vente en direct ont eues et les équipes qui s’en tirent le mieux.
 
 <table> 
   <tr> 
