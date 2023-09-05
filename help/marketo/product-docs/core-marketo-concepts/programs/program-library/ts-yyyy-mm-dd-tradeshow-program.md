@@ -4,9 +4,9 @@ title: Programme TS-YYYY-MM-DD-Tradeshow
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '416'
 ht-degree: 17%
 
 ---
@@ -52,12 +52,12 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>01-Email-Thank You</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>02a- Email - Invitation</td>
   </tr>
   <tr>
@@ -84,17 +84,12 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
-   <td>02 - Engagé au programme (succès)</td>
+   <td>02 - Envoi d’emails de relance</td>
   </tr>
    <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
-   <td>03 - Envoi d’emails de relance</td>
-  </tr>
-   <tr> 
-   <td>Campagne intelligente</td> 
-   <td> </td>
-   <td>04 - Engagé par un message de relance (succès)</td>
+   <td>03 - Engagé par un message de relance (succès)</td>
   </tr>
   <tr> 
    <td>Dossier</td> 
@@ -219,7 +214,7 @@ CAPTURE D&#39;ÉCRAN DES RÈGLES DE CONFLIT
 
 >[!TIP]
 >
->N’oubliez pas d’activer les campagnes &quot;02-Engaged at Show (Program Success)&quot; et &quot;04-Engaged by Follow-up Email (Program Success)&quot; pour suivre la réussite ! Procédez comme suit : _before_ vos emails sont envoyés.
+>N’oubliez pas d’activer la campagne &quot;03 - Engagé par un message électronique de relance (succès du programme)&quot; pour le suivi de la réussite. Procédez comme suit : _before_ vos emails sont envoyés.
 
 >[!IMPORTANT]
 >

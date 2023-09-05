@@ -4,9 +4,9 @@ title: Programme WBN-AAAA-MM-JJ-Webinaire
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '581'
 ht-degree: 17%
 
 ---
@@ -53,37 +53,37 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>01 - Email - Invitation</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>02 - Email - Rappel d’invitation</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>03 - Email - Rappel d’invitation - Dernière chance</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>04 - Email - Confirmation d'enregistrement</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>05 - Email - Rappel à participer</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>06 - Email - Suivi - Participé</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>07 - Email - relance - pas de programme </td>
   </tr>
   <tr>
@@ -94,17 +94,17 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   </tr>
   <tr> 
    <td>Page de destination</td> 
-   <td>Modèle LP de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modèle LP de démarrage rapide</a></td>
    <td>01 - LP - Enregistrement</td>
   </tr>
   <tr> 
    <td>Page de destination</td> 
-   <td>Modèle LP de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modèle LP de démarrage rapide</a></td>
    <td>02 - LP - Merci</td>
   </tr>
   <tr> 
    <td>Page de destination</td> 
-   <td>Modèle LP de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modèle LP de démarrage rapide</a></td>
    <td>03 - LP - On Demand</td>
   </tr>
   <tr> 
@@ -150,17 +150,12 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
-   <td>04 - Participé (succès du programme)</td>
+   <td>04 - Envoi d’emails de relance</td>
   </tr>
   <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
-   <td>05 - Envoi d’emails de relance</td>
-  </tr>
-  <tr> 
-   <td>Campagne intelligente</td> 
-   <td> </td>
-   <td>06 - Participé à On-Demand (succès du programme)</td>
+   <td>05 - Participation On-Demand (succès du programme)</td>
   </tr>
   <tr> 
    <td>Dossier</td> 
@@ -333,7 +328,7 @@ CAPTURE D&#39;ÉCRAN DES RÈGLES DE CONFLIT
 
 >[!TIP]
 >
->N’oubliez pas d’activer les campagnes &quot;04-Participed (Program Success)&quot; et &quot;06-Participded On-Demand (Program Success)&quot; pour suivre le succès ! Procédez comme suit : _before_ vos emails sont envoyés.
+>N’oubliez pas d’activer la campagne &quot;05 - Participé (Succès du programme)&quot; pour suivre le succès ! Procédez comme suit : _before_ vos emails sont envoyés.
 
 >[!IMPORTANT]
 >

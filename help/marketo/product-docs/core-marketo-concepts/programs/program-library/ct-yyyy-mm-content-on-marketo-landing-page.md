@@ -4,9 +4,9 @@ title: CT-AAAA-MM-Contenu sur la page d’entrée Marketo
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '479'
 ht-degree: 15%
 
 ---
@@ -48,23 +48,23 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>01-Email-Thank You</td>
   </tr>
   <tr> 
    <td>Page de destination</td> 
-   <td>Modèle LP de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modèle LP de démarrage rapide</a></td>
    <td>01 - LP - Enregistrement</td>
   </tr>
   <tr> 
    <td>Page de destination</td> 
-   <td>Modèle LP de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modèle LP de démarrage rapide</a></td>
    <td>02 - LP - Merci</td>
   </tr>
   <tr> 
    <td>Formulaire</td> 
    <td> </td>
-   <td>Formulaire d’enregistrement de contenu</td>
+   <td>FM - Formulaire d’enregistrement de contenu</td>
   </tr>
   <tr> 
    <td>Rapport local</td> 
@@ -75,6 +75,11 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    <td>Rapport local</td> 
    <td> </td>
    <td>Performance page de destination </td>
+  </tr>
+   <tr> 
+   <td>Campagne intelligente</td> 
+   <td> </td>
+   <td>00 - Programme d’acquisition de capture</td>
   </tr>
   <tr> 
    <td>Campagne intelligente</td> 
@@ -90,7 +95,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    <td>Dossier</td> 
    <td> </td>
    <td>Ressources : héberge toutes les ressources créatives. 
-<br/>(sous-dossiers pour les pages d’entrée et de messagerie)  </td>
+<br/>(sous-dossiers pour les emails, les landing pages et Forms)  </td>
   </tr>
   <tr> 
    <td>Dossier</td> 

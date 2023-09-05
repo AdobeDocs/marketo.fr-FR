@@ -4,9 +4,9 @@ title: Page d’entrée OA-AAAA-MM-Marketo de publicité en ligne
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '480'
 ht-degree: 15%
 
 ---
@@ -29,8 +29,8 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   </tr> 
   <tr> 
    <td>Publicité en ligne</td> 
-   <td>01-Member 
-<br/>02-Engaged-Success</td>
+   <td>01 - Membre 
+<br/>02 - Engagé - Succès</td>
    <td>Inclusif</td>
    <td>Par défaut</td>
   </tr>
@@ -53,17 +53,17 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>01-Email-Thank You</td>
   </tr>
   <tr> 
    <td>Page de destination</td> 
-   <td>Modèle LP de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modèle LP de démarrage rapide</a></td>
    <td>01 - LP - Enregistrement</td>
   </tr>
    <tr> 
    <td>Page de destination</td> 
-   <td>Modèle LP de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modèle LP de démarrage rapide</a></td>
    <td>02 - LP - Merci</td>
   </tr>
    <tr> 
@@ -79,7 +79,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
-   <td>Programme d’acquisition à capture 00</td>
+   <td>00 - Programme d’acquisition de capture</td>
   </tr>
   <tr> 
    <td>Campagne intelligente</td> 
@@ -207,7 +207,7 @@ CAPTURE D&#39;ÉCRAN DES RÈGLES DE CONFLIT
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne &quot;2002-Engaged&quot; pour suivre le succès de la campagne. Procédez comme suit : _before_ votre formulaire est actif et des courriers électroniques sont envoyés.
+>N’oubliez pas d’activer la campagne &quot;02 - Participé (Succès du programme)&quot; pour suivre le succès ! Procédez comme suit : _before_ votre formulaire est actif et des courriers électroniques sont envoyés.
 
 >[!IMPORTANT]
 >
