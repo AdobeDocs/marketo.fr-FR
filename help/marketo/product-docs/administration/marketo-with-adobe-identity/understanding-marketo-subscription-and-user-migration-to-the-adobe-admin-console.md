@@ -3,7 +3,7 @@ description: Présentation de l’abonnement Marketo et de la migration des util
 title: Présentation de l’abonnement Marketo et de la migration des utilisateurs vers Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: c3214b440a1bfc9d54551f50e364935d66286764
 workflow-type: tm+mt
 source-wordcount: '1121'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Les administrateurs de produit Marketo :
 
 >[!NOTE]
 >
->En raison de la complexité de la migration, les modifications de date ne sont limitées qu’à 30 jours au maximum au-delà de la date planifiée. Envoyez un courrier électronique à marketocares@adobe.com si vous avez besoin d’une date ultérieure.
+>En raison de la complexité de la migration, les modifications de date ne sont limitées qu’à 30 jours au maximum au-delà de la date planifiée. Envoyez un courrier électronique à marketocares@marketo.com si vous avez besoin d’une date ultérieure.
 
 * Dans My Marketo, une bannière s’affiche avec un compte à rebours jusqu’à la date de début de la migration des utilisateurs.
 
@@ -97,4 +97,4 @@ Adobe avertira tous les administrateurs système et les administrateurs de produ
 
 ## Obtenir une assistance {#get-support}
 
-Pour obtenir une assistance supplémentaire concernant votre abonnement ou la migration des utilisateurs, envoyez un email à l’adresse marketocares@adobe.com.
+Pour obtenir une assistance supplémentaire concernant votre abonnement ou la migration des utilisateurs, envoyez un email à l’adresse marketocares@marketo.com.
