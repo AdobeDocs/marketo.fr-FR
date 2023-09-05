@@ -4,7 +4,7 @@ title: Gestion des leads OP
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 14%
@@ -61,7 +61,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>01 - Email - ALERT - MQL</td>
   </tr>
   <tr> 

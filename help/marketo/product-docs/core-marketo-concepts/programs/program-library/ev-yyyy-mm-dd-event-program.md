@@ -4,7 +4,7 @@ title: EV-YYYY-MM-DD-Event Program
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 18%
@@ -51,47 +51,47 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>01-Email-Thank You</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>02a- Email - Invitation</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>02b - Email - Rappel d’invitation</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>02c - Email - Rappel d’invitation - Dernière chance</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>03 - Email - Rappel à participer</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>04a - Email - Suivi - Participé</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modèle de courrier électronique de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
    <td>04b - Email - relance - NoShow</td>
   </tr>
   <tr> 
    <td>Page de destination</td> 
-   <td>Modèle LP de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modèle LP de démarrage rapide</a></td>
    <td>01a - LP - Enregistrement</td>
   </tr>
   <tr> 
    <td>Page de destination</td> 
-   <td>Modèle LP de démarrage rapide</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modèle LP de démarrage rapide</a></td>
    <td>01b - LP - Merci</td>
   </tr>
   <tr> 
