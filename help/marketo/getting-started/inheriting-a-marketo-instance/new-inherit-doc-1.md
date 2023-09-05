@@ -3,9 +3,9 @@ description: Hériter de Doc 1 - Documents Marketo - Documentation du produit
 title: Hériter Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1433'
 ht-degree: 4%
 
 ---
@@ -39,7 +39,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
 <li>Vous a-t-on attribué un rôle "Administrateur de produit Marketo Engage" dans Marketo Engage/Admin/Utilisateurs et rôles ?</li> 
 <li>Avez-vous affecté le Marketo Engage à tous les profils de produit des utilisateurs appropriés dans Adobe Admin Console ?
 <br/>     Si ce n’est pas le cas, veillez à affecter le Marketo Engage à son profil de produit Adobe IMS avant d’affecter leurs rôles dans Marketo Engage/Admin/Utilisateurs et rôles.</li>
-<p>Remarque : Si votre abonnement compte plus de 75 utilisateurs et a simplement été migré vers Adobe IMS, vous avez la possibilité de sélectionner des utilisateurs à migrer par lots et d’administrer leur identifiant d’Adobe en groupes ou en une seule fois. En savoir plus sur ce à quoi vous attendre <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Jour de migration Adobe IMS</a>.</td>
+<p><img src="assets/note-icon-25.png" alt="icône de note">REMARQUE : Si votre abonnement compte plus de 75 utilisateurs et a simplement été migré vers Adobe IMS, vous avez la possibilité de sélectionner des utilisateurs à migrer par lots et d’administrer leur identifiant d’Adobe en groupes ou en une seule fois. En savoir plus sur ce à quoi vous attendre <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Jour de migration Adobe IMS</a>.</td>
   </tr>
   <tr> 
    <td>API User Management</td> 
@@ -261,7 +261,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
    <td><li>Est-ce que <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Code de suivi Munchkin</a> sur votre site web (pas dans Marketo) ?</li>
 <li>Est un <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Ne pas effectuer de suivi</a> Demande de navigateur activée ?</li>
 <li>Est-ce que <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">API Munchkin</a> configuré ? 
-<p>Conseil : Si vous ne disposez pas de la documentation vous indiquant où se trouve le code de la serviette sur votre site web, vous pouvez afficher toutes les URL en créant une <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport Activité de la page web</a>.</li></td>
+<p><img src="assets/tip-icon-25.png" alt="icône de note">CONSEIL : si vous ne disposez pas de documentation sur l’emplacement du code de la serviette sur votre site web, vous pouvez afficher toutes les URL en créant un <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport Activité de la page web</a>.</li></td>
   </tr>
   <tr> 
    <td>Services web</td> 
