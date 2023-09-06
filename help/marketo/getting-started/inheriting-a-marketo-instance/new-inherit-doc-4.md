@@ -3,10 +3,10 @@ description: Hériter du document 4 - Documents Marketo - Documentation du produ
 title: Hériter du document 4
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -60,13 +60,13 @@ La structuration des modèles et la création de formulaires, fragments de code 
   <tr> 
    <td>Normalisation des données</td> 
    <td><li>Êtes-vous <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">champs de formulaire</a> il s’agit principalement de listes de sélection ou de champs de texte ouverts ?</li>
-<p>Conseil : S’il s’agit de champs de texte ouvert, envisagez de les changer en listes de sélection afin d’éviter tout désordre dans les données.</td>
+<p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : S’il s’agit de champs de texte ouvert, envisagez de les basculer vers des listes de sélection afin d’éviter tout désordre dans les données.</td>
   </tr>
   <tr> 
    <td>Confidentialité et conformité</td> 
    <td><li>Votre stratégie de formulaire est-elle conforme à vos exigences en matière de confidentialité des données de l’entreprise et d’inclusion ? 
    <br/>     Étudier <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a>, la loi canadienne contre le spam (CASL), la loi sur le contrôle de l'agression de la pornographie et du marketing non sollicités de 2003 (CAN-SPAM), la loi sur la protection de la vie privée des consommateurs (CCPA) de Californie, etc., pour la conformité aux réglementations.</li>
-<p>Conseil : N’oubliez pas de toujours consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
+<p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : N’oubliez pas de toujours consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
  </tbody> 
 </table>
@@ -94,7 +94,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
   <tr> 
    <td>Confidentialité et conformité</td> 
    <td><li>Tous vos emails ont-ils les pieds de page appropriés ? Prenez en compte le RGPD, le CASL, le CAN-SPAM, le CCPA, etc. pour les implications de conformité.</li>
-<p>Conseil : N’oubliez pas de toujours consulter votre équipe juridique au sujet de ces problèmes de conformité. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
+<p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : N’oubliez pas de toujours consulter votre équipe juridique sur ces problèmes de conformité. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
  </tbody> 
 </table>
@@ -156,7 +156,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
   <tr> 
    <td>Partage de ressources</td> 
    <td><li>Les ressources <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">partagées dans les espaces de travail ;</a>?</li>
-   <p>Remarque : Il est important de le savoir, car les actions entreprises dans un espace de travail peuvent entraîner une ressource inaccessible dans un autre espace de travail pour un autre utilisateur.</td>
+   <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Il est important de le savoir, car les actions entreprises dans un espace de travail peuvent entraîner une ressource inaccessible dans un autre espace de travail pour un autre utilisateur.</td>
   </tr>
  </tbody> 
 </table>

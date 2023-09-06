@@ -3,10 +3,10 @@ description: Hériter de Doc 2 - Documents Marketo - Documentation du produit
 title: Hériter Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -75,7 +75,7 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
    <td><li>Combien <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Listes dynamiques</a> y en a-t-il ? Comment sont-ils utilisés dans cette instance ?</li>
 <li>Les listes sont-elles organisées dans une structure de dossiers cohérente ? 
 <br/>     Si vous disposez de listes orphelines, envisagez d’organiser votre arborescence afin que les ressources soient faciles à trouver.</li>
-<p>Conseil : <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivage</a> Les listes intelligentes qui ne sont plus nécessaires aideront à l’organisation et aux performances.</td>
+<p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivage</a> Les listes intelligentes qui ne sont plus nécessaires aideront à l’organisation et aux performances.</td>
   </tr>
  </tbody> 
 </table>

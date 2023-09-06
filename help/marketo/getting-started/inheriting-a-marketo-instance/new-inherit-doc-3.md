@@ -3,10 +3,10 @@ description: Hériter de Doc 3 - Documents Marketo - Documentation du produit
 title: Hériter du Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -43,7 +43,7 @@ Organisez correctement votre section Activités marketing pour aider d’autres 
    <td>Archiver</td> 
    <td><li>Les programmes plus anciens <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archivé</a>?</li>
 <li>À quelle fréquence votre entreprise examine-t-elle et archive-t-elle les anciens programmes ?</li>
-<p>Conseil : Il est conseillé d’effectuer une révision chaque année.</td>
+<p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : Il est bon d'effectuer un examen chaque année.</td>
   </tr>
   <tr> 
    <td>Notifications</td> 
@@ -54,7 +54,7 @@ Organisez correctement votre section Activités marketing pour aider d’autres 
    <td>Liste dynamique des abonnements 
    <br/>(onglet Activités marketing/Abonnements )</td> 
    <td><li>Existe-t-il des activités en cours ? <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Abonnements à la liste dynamique</a> dans votre instance ? Si oui, à qui vont-ils ?</li>
-<p>Conseil : envisagez de configurer des abonnements à la liste dynamique pour qu’ils aillent à un alias d’équipe plutôt qu’à un individu. Cela vous couvre au cas où des individus seraient absents du bureau.</td>
+<p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : envisagez de configurer des abonnements à la liste dynamique pour qu’ils aillent à un alias d’équipe plutôt qu’à un individu. Cela vous couvre au cas où des individus seraient absents du bureau.</td>
   </tr>
  </tbody> 
 </table>
@@ -96,7 +96,7 @@ Organisez correctement votre section Activités marketing pour aider d’autres 
    <td>Forms locale</td> 
    <td><li>Combien de programmes ont un emplacement local <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulaires</a>? Ces formulaires doivent-ils être transformés en formulaires globaux ?</li>
 <li>Capturez-vous les données appropriées pour vos équipes marketing et de vente ?</li>
-<p>Conseil : Limitez le nombre de formulaires locaux pour faciliter la mise à jour et l’alignement aux modifications apportées à la confidentialité des données et aux stratégies d’inclusion/exclusion. Lors de la création d’un formulaire, quelles questions doivent être posées ? Si les informations collectées ne changent pas et que les fonctionnalités avancées des formulaires ne changent pas, envisagez un formulaire global au lieu d’un formulaire local.</td>
+<p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : Limitez le nombre de formulaires locaux pour faciliter la mise à jour et l’alignement aux modifications apportées à la confidentialité des données et aux stratégies d’inclusion/exclusion. Lors de la création d’un formulaire, quelles questions doivent être posées ? Si les informations collectées ne changent pas et que les fonctionnalités avancées des formulaires ne changent pas, envisagez un formulaire global au lieu d’un formulaire local.</td>
   </tr>
   <tr> 
    <td>Formulaires internationaux</td> 
@@ -127,7 +127,7 @@ Organisez correctement votre section Activités marketing pour aider d’autres 
   <tr> 
    <td>Source de personne</td> 
    <td><li>Disposez-vous d’un programme centralisé attribuant des valeurs aux champs sources des personnes ?</li>
-<p>Remarque : Marketo Engage rassemble automatiquement des données dans un champ source, quels que soient les programmes opérationnels.</td>
+<p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Marketo Engage rassemble automatiquement les données dans un champ source, quels que soient les programmes opérationnels.</td>
   </tr>
   <tr> 
    <td>Normalisation des données</td> 
@@ -141,7 +141,7 @@ Organisez correctement votre section Activités marketing pour aider d’autres 
    <td>Confidentialité et conformité</td> 
    <td><li>Disposez-vous de programmes pour vous assurer que vous êtes conforme aux lois sur la confidentialité des données et le spam ? 
    <br/>     Étudier <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD</a>, CASL, CAN-SPAM, CCPA, etc.</li>
-<p>Conseil : N’oubliez pas de toujours consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
+<p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : N’oubliez pas de toujours consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
   <tr> 
    <td>Cycle de vie</td> 

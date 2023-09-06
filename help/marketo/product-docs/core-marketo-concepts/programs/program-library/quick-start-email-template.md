@@ -4,9 +4,9 @@ title: Modèle de courrier électronique de démarrage rapide
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '577'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Marge intérieure inférieure du module
    * Couleur d’arrière-plan du module
    * Alignement du logo
-* PICC
+* ![](assets/quick-start-email-template-1.png)
 
 ### Module Image {#image-module}
 
@@ -46,7 +46,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Marge intérieure supérieure du module
    * Marge intérieure inférieure du module
    * Couleur d’arrière-plan du module
-* PICC
+* ![](assets/quick-start-email-template-2.png)
 
 ### Module de titre {#headline-module}
 
@@ -58,7 +58,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Taille de police du titre (elle peut également être modifiée dans l’éditeur de texte enrichi)
    * Couleur de police du titre (elle peut également être modifiée dans l’éditeur de texte enrichi)
    * Alignement du texte du titre (il peut également être modifié dans l’éditeur de texte enrichi)
-* PICC
+* ![](assets/quick-start-email-template-3.png)
 
 ### Module Subtitre {#subheadline-module}
 
@@ -70,7 +70,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Taille de police du sous-titre (elle peut également être modifiée dans l’éditeur de texte enrichi)
    * Couleur de police du sous-titre (elle peut également être modifiée dans l’éditeur de texte enrichi)
    * Alignement du texte du sous-titre (il peut également être modifié dans l’éditeur de texte enrichi)
-* PICC
+* ![](assets/quick-start-email-template-4.png)
 
 ### Module Texte libre {#free-text-module}
 
@@ -82,7 +82,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Taille de police du texte (elle peut également être modifiée dans l’éditeur de texte enrichi)
    * Couleur de police du texte (elle peut également être modifiée dans l’éditeur de texte enrichi)
    * Alignement du texte (il peut également être modifié dans l’éditeur de texte enrichi)
-* PICC
+* ![](assets/quick-start-email-template-5.png)
 
 ### Module CTA {#cta-module}
 
@@ -97,7 +97,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * URL CTA
    * Texte CTA
    * Alignement CTA
-* PICC
+* ![](assets/quick-start-email-template-6.png)
 
 ### Module Diviseur {#divider-module}
 
@@ -108,7 +108,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Couleur du séparateur
    * Hauteur du séparateur (en pixels)
    * Largeur du séparateur (en %)
-* PICC
+* ![](assets/quick-start-email-template-7.png)
 
 ### Module Pied de page {#footer-module}
 
@@ -120,4 +120,4 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Couleur d’arrière-plan du module
    * Couleur du texte
    * Alignement du contenu
-* PICC
+* ![](assets/quick-start-email-template-8.png)

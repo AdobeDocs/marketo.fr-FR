@@ -4,9 +4,9 @@ title: Modèle de page d’entrée de démarrage rapide
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Afficher ou masquer la section
    * Marge intérieure supérieure de la section
    * Marge intérieure inférieure de la section
-* PICC
+* ![](assets/quick-start-landing-page-template-1.png)
 
 ### Section Image {#image-section}
 
@@ -42,7 +42,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Lien d’image de bannière
    * Largeur de la bannière : l’un des commutateurs en bas à droite vous permet d’afficher l’image sous la forme de la largeur du conteneur de contenu ou de celle de l’ensemble du navigateur.
    * Afficher ou masquer la section
-* PICC
+* ![](assets/quick-start-landing-page-template-2.png)
 
 ### Texte à 2 colonnes à gauche, Formulaire à section droite {#two-col-left-form-right}
 
@@ -56,7 +56,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Afficher ou masquer toute la section
    * Afficher ou masquer uniquement le formulaire (masquer le formulaire entraîne le remplissage de la largeur de la page par le texte de la colonne de gauche. Cela peut être utilisé pour une page de remerciement ou de confirmation où un formulaire n’est pas présent.)
    * Afficher ou masquer le texte de la politique de confidentialité
-* PICC
+* ![](assets/quick-start-landing-page-template-3.png)
 
 ### Section vidéo {#video-section}
 
@@ -66,7 +66,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Code incorporé vidéo
    * Afficher/masquer le titre d’une vidéo
    * Afficher/masquer une vidéo
-* PICC
+* ![](assets/quick-start-landing-page-template-4.png)
 
 ### Section Pied de page {#footer-section}
 
@@ -76,7 +76,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Couleur d’arrière-plan de la section
    * Couleur des icônes sociales
    * Afficher/masquer la section
-* PICC
+* ![](assets/quick-start-landing-page-template-5.png)
 
 ### Variables supplémentaires {#additional-variables}
 
