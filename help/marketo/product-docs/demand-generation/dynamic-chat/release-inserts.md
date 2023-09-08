@@ -4,31 +4,16 @@ title: Configuration initiale
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 62af6c2379746e776b6b76d9f1fbb8ad9bb47305
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 1%
+source-wordcount: '301'
+ht-degree: 0%
 
 ---
 
 # Insertions de versions {#release-inserts}
 
 Publiez les trucs ci-dessous...
-
-STEVEN
-
-## Ciblage de la liste dynamique des Marketo Engage {#marketo-engage-smart-list-targeting}
-
-Les marketeurs peuvent cibler les membres des listes dynamiques de Marketo Engage dans les critères d’audience de dialogue.
-
-## Nouvelles activités de Dynamic Chat {#new-dynamic-chat-activities}
-
-Nouvelles activités pour prendre en charge les flux de conversation, la messagerie instantanée et d’autres nouvelles fonctionnalités.
-
-## Déclencher des jetons pour les nouvelles activités {#trigger-tokens-for-new-activities}
-
-De nouveaux jetons de déclenchement sont disponibles pour prendre en charge les nouvelles activités pour Dynamic Chat.
-
 
 JOHN
 
@@ -74,3 +59,122 @@ Vérifiez combien de conversations ont eu vos agents de vente en direct et quell
 ## Carte d’actions dans le Concepteur de flux {#action-card-in-stream-designer}
 
 Les marketeurs peuvent utiliser des cartes d’action dans le flux de dialogue pour transmettre des valeurs masquées à l’enregistrement de personne du Marketo Engage lorsque les visiteurs interagissent avec un dialogue.
+
+
+STEVEN
+
+## Ciblage de la liste dynamique des Marketo Engage {#marketo-engage-smart-list-targeting}
+
+Les marketeurs peuvent cibler les membres des listes dynamiques de Marketo Engage dans les critères d’audience de dialogue.
+
+## Nouvelles activités de Dynamic Chat {#new-dynamic-chat-activities}
+
+Nouvelles activités pour prendre en charge les flux de conversation, la messagerie instantanée et d’autres nouvelles fonctionnalités.
+
+## Déclencher des jetons pour les nouvelles activités {#trigger-tokens-for-new-activities}
+
+### Jetons de déclenchement du Dynamic Chat {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Engagé avec un dialogue</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Réunion programmée dans un dialogue</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Objectif de dialogue atteint</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>Interaction avec le document dans le dialogue</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+  </tr> 
+ </tbody> 
+</table>

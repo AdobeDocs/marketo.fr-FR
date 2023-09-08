@@ -4,9 +4,9 @@ title: Gestion de la délivrabilité des OP
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '261'
 ht-degree: 19%
 
 ---
@@ -99,7 +99,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-CAPTURE D’ÉCRAN DU PROGRAMME
+![](assets/op-deliverability-management-1.png)
 
 ## Règles de conflit {#conflict-rules}
 
@@ -118,8 +118,6 @@ CAPTURE D’ÉCRAN DU PROGRAMME
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles - _Recommandé_
    * Remplacer le modèle existant
-
-CAPTURE D&#39;ÉCRAN DES RÈGLES DE CONFLIT
 
 ## Meilleures pratiques {#best-practices}
 

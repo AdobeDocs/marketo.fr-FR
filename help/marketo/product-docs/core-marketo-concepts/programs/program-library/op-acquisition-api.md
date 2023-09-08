@@ -4,10 +4,10 @@ title: OP-Acquisition-API
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 20%
+source-wordcount: '171'
+ht-degree: 21%
 
 ---
 
@@ -61,7 +61,7 @@ Cet exemple de programme est destiné aux processus opérationnels qui effectuen
  </tbody> 
 </table>
 
-CAPTURE D’ÉCRAN DU PROGRAMME
+![](assets/op-acquisition-api-1.png)
 
 ## Règles de conflit {#conflict-rules}
 
@@ -80,8 +80,6 @@ CAPTURE D’ÉCRAN DU PROGRAMME
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles - _Recommandé_
    * Remplacer le modèle existant
-
-CAPTURE D&#39;ÉCRAN DES RÈGLES DE CONFLIT
 
 ## Meilleures pratiques {#best-practices}
 

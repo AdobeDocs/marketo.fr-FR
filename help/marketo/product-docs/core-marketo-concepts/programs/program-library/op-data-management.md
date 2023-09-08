@@ -4,9 +4,9 @@ title: Gestion des données OP
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '323'
 ht-degree: 26%
 
 ---
@@ -168,7 +168,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-CAPTURE D’ÉCRAN DU PROGRAMME
+![](assets/op-data-management-1.png)
 
 ## Règles de conflit {#conflict-rules}
 
@@ -187,8 +187,6 @@ CAPTURE D’ÉCRAN DU PROGRAMME
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles - _Recommandé_
    * Remplacer le modèle existant
-
-CAPTURE D&#39;ÉCRAN DES RÈGLES DE CONFLIT
 
 ## Meilleures pratiques {#best-practices}
 

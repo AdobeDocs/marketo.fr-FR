@@ -4,10 +4,10 @@ title: OP-Scoring-Behavior
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 29%
+source-wordcount: '350'
+ht-degree: 30%
 
 ---
 
@@ -155,6 +155,8 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
+![](assets/op-scoring-behavior-1.png)
+
 ## Mes jetons inclus {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -242,8 +244,6 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-CAPTURE D’ÉCRAN DU PROGRAMME
-
 ## Règles de conflit {#conflict-rules}
 
 * **Étiquettes du programme**
@@ -261,8 +261,6 @@ CAPTURE D’ÉCRAN DU PROGRAMME
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles - _Recommandé_
    * Remplacer le modèle existant
-
-CAPTURE D&#39;ÉCRAN DES RÈGLES DE CONFLIT
 
 ## Meilleures pratiques {#best-practices}
 

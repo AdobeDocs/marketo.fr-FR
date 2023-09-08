@@ -4,9 +4,9 @@ title: Gestion des leads OP
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '266'
 ht-degree: 14%
 
 ---
@@ -77,7 +77,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-CAPTURE D’ÉCRAN DU PROGRAMME
+![](assets/op-lead-management-1.png)
 
 ## Règles de conflit {#conflict-rules}
 
@@ -96,8 +96,6 @@ CAPTURE D’ÉCRAN DU PROGRAMME
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles - _Recommandé_
    * Remplacer le modèle existant
-
-CAPTURE D&#39;ÉCRAN DES RÈGLES DE CONFLIT
 
 ## Meilleures pratiques {#best-practices}
 
