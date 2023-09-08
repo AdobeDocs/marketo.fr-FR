@@ -3,7 +3,7 @@ description: Ajout ou suppression d’utilisateurs de messagerie instantanée - 
 title: Ajout ou suppression d’utilisateurs de conversation
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs de chat
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. Cliquez sur **Chat dynamique**.
+1. Cliquez sur **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -74,19 +74,19 @@ Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’a pas déj�
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. Cliquez sur **Chat dynamique**.
+1. Cliquez sur **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
    >[!NOTE]
    >
-   >Si vous disposez de plusieurs abonnements Marketo, sélectionnez celui de votre choix avant l’étape suivante).
+   >Si vous disposez de plusieurs abonnements Marketo, sélectionnez-les avant l’étape suivante.
 
 1. Cliquez sur le bouton **Utilisateurs** .
 
    ![](assets/add-or-remove-chat-users-14.png)
 
-1. Sélectionnez l’utilisateur à supprimer.
+1. Sélectionnez l’utilisateur que vous souhaitez supprimer.
 
    ![](assets/add-or-remove-chat-users-15.png)
 
