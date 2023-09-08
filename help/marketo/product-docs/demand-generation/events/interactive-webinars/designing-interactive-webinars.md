@@ -3,9 +3,9 @@ description: Conception de webinaires interactifs - Documents Marketo - Document
 title: Conception de webinaires interactifs
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,10 @@ Découvrez comment concevoir votre webinaire en fonction de vos besoins.
 
    ![](assets/designing-interactive-webinars-4.png)
 
+   >[!TIP]
+   >
+   >Votre webinaire sera défini sur la langue par défaut de votre instance de Marketo Engage, mais vous avez la possibilité de modifier les langues par webinaire à l’aide de la liste déroulante au-dessus de l’aperçu.
+
 1. Vous pouvez sélectionner différentes mises en page à prévisualiser. Pour continuer, cliquez sur **Utiliser un modèle**.
 
    ![](assets/designing-interactive-webinars-5.png)
@@ -58,8 +62,8 @@ Découvrez comment concevoir votre webinaire en fonction de vos besoins.
 
 ## Éléments de conception {#design-elements}
 
-**Modèle**: Structure mise à disposition dans une salle basée sur l&#39;objectif de la diffusion du webinaire. Par exemple, si vous souhaitez programmer un webinaire de présentation de produit, le partage d’écran est un composant essentiel pour présenter la démonstration. Le modèle garantit que les composants essentiels nécessaires à une diffusion efficace d’un type particulier de webinaire sont en place lors de la configuration de la salle du webinaire.
+**Modèle**: structure fournie dans une pièce en fonction de l’objectif du webinaire livré. Par exemple, si vous souhaitez programmer un webinaire de présentation de produit, le partage d’écran est un composant essentiel pour présenter la démonstration. Le modèle garantit que les composants essentiels nécessaires à une diffusion efficace d’un type particulier de webinaire sont en place lors de la configuration de la salle du webinaire.
 
-**Disposition**: Fait référence aux différentes manières dont les différents composants requis pour garantir le succès du webinaire sont organisés dans un modèle particulier. Un modèle unique peut comporter plusieurs mises en page. Les composants essentiels du webinaire restent les mêmes dans tous les modèles. La disposition que vous avez sélectionnée convient le mieux au style/aux besoins de vous ou du présentateur qui diffusera le webinaire.
+**Disposition**: fait référence aux différentes manières dont les différents composants requis pour garantir le succès du webinaire sont organisés dans un modèle particulier. Un modèle unique peut comporter plusieurs mises en page. Les composants essentiels du webinaire restent les mêmes dans tous les modèles. La disposition que vous avez sélectionnée convient le mieux au style/aux besoins de vous ou du présentateur qui diffusera le webinaire.
 
-**Capsule**: Composant à l’intérieur d’un modèle qui effectue une activité particulière au cours du webinaire. Par exemple, la configuration et la diffusion d’un sondage pour capturer les réponses des participants dans une activité qui peut être satisfaite par une capsule de sondage. De même, discuter avec les participants pour transmettre un message ou interagir de façon occasionnelle avec eux peut être une activité diffusée par le biais de la capsule. Plusieurs autres capsules sont disponibles, telles que Partager, Notes, Vidéo, Chat, Liste des participants, Fichiers, Liens Web, Sondages et Q&amp;R.
+**Capsule**: composant à l’intérieur d’un modèle qui effectue une activité particulière au cours du webinaire. Par exemple, la configuration et la diffusion d’un sondage pour capturer les réponses des participants dans une activité qui peut être satisfaite par une capsule de sondage. De même, discuter avec les participants pour transmettre un message ou interagir de façon occasionnelle avec eux peut être une activité diffusée par le biais de la capsule. Plusieurs autres capsules sont disponibles, telles que Partager, Notes, Vidéo, Chat, Liste des participants, Fichiers, Liens Web, Sondages et Q&amp;R.
