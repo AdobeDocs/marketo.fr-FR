@@ -1,16 +1,18 @@
 ---
-description: Doc - Documents Marketo - Documentation du produit
-title: Doc
+description: Boîte de réception des agents - Documents Marketo - Documentation du produit
+title: Boîte de réception de l’agent(e)
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 2e18242afb1600ca0e63f9ab777a7ba4ad1e5fbc
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '9'
-ht-degree: 22%
+source-wordcount: '24'
+ht-degree: 25%
 
 ---
 
-# Doc {#doc}
+# Boîte de réception de l’agent(e) {#agent-inbox}
 
 Disponible bientôt
+
+Entretiens actifs Toutes les conversations Calendrier partageant les informations sur les visiteurs Activités de Dynamic Chat récentes

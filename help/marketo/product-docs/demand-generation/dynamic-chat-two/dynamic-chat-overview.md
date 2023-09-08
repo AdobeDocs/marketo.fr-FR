@@ -4,10 +4,10 @@ title: Présentation du Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 2%
+source-wordcount: '876'
+ht-degree: 3%
 
 ---
 
@@ -52,6 +52,10 @@ C&#39;est là que vous verrez toutes les nominations programmées par les visite
 ## Routage {#routing}
 
 C’est là que vous pouvez voir la liste de tous les agents qui ont connecté leurs calendriers, l’ordre dans lequel ils seront présentés aux visiteurs du site web et créer des règles de routage personnalisées. [En savoir plus sur le routage](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+
+## Chat en direct {#live-chat}
+
+Offrez à vos visiteurs web qualifiés de se connecter avec vos représentants commerciaux par le biais d&#39;une discussion en direct. LIEN VERS DOC
 
 ## Questions fréquentes {#faq}
 
