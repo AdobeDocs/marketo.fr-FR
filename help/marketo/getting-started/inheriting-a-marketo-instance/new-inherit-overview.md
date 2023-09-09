@@ -3,7 +3,7 @@ description: Découvrez comment optimiser et mettre à l’échelle une instance
 title: Démarrage rapide d’une instance de Marketo Engage héritée
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 1%
@@ -36,15 +36,15 @@ Les listes de contrôle ci-dessous ont été mises en place avec les commentaire
 
 Vous pouvez également télécharger les listes de contrôle dans un formulaire de feuille de calcul.
 
-* [Section d’administration](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+* [Section d’administration](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-* [Base de données](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+* [Base de données](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
 
-* [Activités Marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+* [Activités Marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
 
-* [Studio de conception](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+* [Studio de conception](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
 
-* [Document de la configuration de votre instance héritée](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+* [Document de la configuration de votre instance héritée](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 
 ## Comment obtenir de l’aide {#ways-to-get-help}
 

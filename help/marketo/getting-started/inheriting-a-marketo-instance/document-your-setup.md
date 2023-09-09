@@ -3,9 +3,9 @@ description: Document d’instance hérité Votre configuration - Documents Mark
 title: Document d’instance hérité de votre configuration
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '252'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
    <td>Saisie</td> 
    <td><li>Quels systèmes transmettent des données dans Marketo Engage ?</li>
    <li>Les données sont-elles chargées dans des programmes ou dans la base de données ? Si des programmes, lesquels ?</li>
-   <p>Élément d’action : créez un tableau de mappage dictionnaire de données/champ entre les systèmes.</td>
+   <p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Élément d’action : créez un tableau de mappage dictionnaire de données/champ entre les systèmes.</td>
   </tr>
   <tr> 
    <td>Sortie</td> 
@@ -51,7 +51,7 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
   <tr> 
    <td>Organisation</td> 
     <td><li>Disposez-vous d’une documentation robuste sur l’organisation de votre instance de Marketo Engage et pourquoi ?</li>
-   <p>Action Item : créez une documentation qui contient la structure de dossiers, la convention d’affectation des noms et les canaux utilisés dans votre instance.</td>
+   <p><p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Action Item : créez une documentation qui contient la structure de dossiers, la convention d’affectation des noms et les canaux utilisés dans votre instance.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -70,4 +70,4 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
  </tbody> 
 </table>
 
-[◄ Audit d’une instance héritée : Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[◄ Audit d’une instance héritée : Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
