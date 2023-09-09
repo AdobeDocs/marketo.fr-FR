@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 5084013638c4131ebf4c5812e3e4d485ca94419c
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '9086'
+source-wordcount: '9095'
 ht-degree: 5%
 
 ---
@@ -43,11 +43,11 @@ ht-degree: 5%
       + [Éléments à désactiver](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Révision des choses : compétences principales](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Comment obtenir de l’aide](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [Nouveau document hérité 1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
-      + [Nouveau document hérité 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
-      + [Nouveau document 3 hérité](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
-      + [Nouveau document d’héritage 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
-      + [Nouveau document hérité 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+      + [Instance héritée : liste de contrôle de section d’administration](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+      + [Instance héritée : liste de contrôle de base de données](getting-started/inheriting-a-marketo-instance/database-checklist.md)
+      + [Instance héritée : liste de contrôle des activités marketing](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+      + [Instance héritée : liste de contrôle de Design Studio](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+      + [Instance héritée : documenter votre configuration](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 + Documents sur les produits {#product-docs}
    + Applications supplémentaires {#additional-apps}
       + SEO {#seo}
