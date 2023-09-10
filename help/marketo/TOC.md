@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: a2830942e6e51e754d313bd79a00f87713c2db8c
 workflow-type: tm+mt
 source-wordcount: '9153'
 ht-degree: 5%
@@ -648,11 +648,11 @@ ht-degree: 5%
          + [Ajout d’audiences mappées LinkedIn en tant que service LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Envoi d’une liste à un réseau publicitaire](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + DYNAMIC CHAT 2 {#dynamic-chat-two}
-         + [Présentation du Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-overview.md)
-         + [Comportement de chatterbot](product-docs/demand-generation/dynamic-chat-two/automated-chat/chatbot-behavior.md)
-         + [Liste des réunions](product-docs/demand-generation/dynamic-chat-two/automated-chat/meeting-list.md)
-         + [Activités Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-activites.md)
-         + [Analytics](product-docs/demand-generation/dynamic-chat-two/automated-chat/analytics.md)
+         + [Présentation du Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
+         + [Comportement de chatterbot](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
+         + [Liste des réunions](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
+         + [Activités Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activites.md)
+         + [Analytics](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + Chat automatisé {#automated-chat}
             + [Présentation des flux de conversation](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [Créer un flux de conversation](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
