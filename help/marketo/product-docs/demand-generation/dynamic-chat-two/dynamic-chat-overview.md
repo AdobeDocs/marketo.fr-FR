@@ -4,9 +4,9 @@ title: Présentation du Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '873'
 ht-degree: 3%
 
 ---
@@ -55,7 +55,7 @@ C’est là que vous pouvez voir la liste de tous les agents qui ont connecté l
 
 ## Chat en direct {#live-chat}
 
-Offrez à vos visiteurs web qualifiés de se connecter avec vos représentants commerciaux par le biais d&#39;une discussion en direct. LIEN VERS DOC
+Offrir à vos visiteurs web qualifiés de se connecter à vos représentants commerciaux via [chat en direct](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}.
 
 ## Questions fréquentes {#faq}
 
