@@ -4,7 +4,7 @@ title: Designer de flux
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 2%
@@ -56,7 +56,7 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
  <tr>
   <td><strong>Chat en direct</strong></td>
   <td>Utilisez la carte de conversation en direct lorsque vous souhaitez que les visiteurs discutent avec un agent en direct.
-  <li>La carte de conversation en direct doit être la dernière dans la branche.</li>
+  <li>La carte de conversation en direct doit être la dernière carte de la branche.</li>
   <li>Les visiteurs sont redirigés vers un agent dès qu’ils atteignent cette carte dans le flux. Il est donc recommandé de précéder cette carte d’une carte de questions demandant aux visiteurs s’ils souhaitent discuter avec un agent en direct.</li></td>
  </tr>
 </table>

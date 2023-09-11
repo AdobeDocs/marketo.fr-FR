@@ -4,16 +4,16 @@ title: Paramètres de l’agent
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 3%
 
 ---
 
 # Paramètres de l’agent {#agent-settings}
 
-Dans l’onglet Calendrier , connectez votre calendrier Outlook ou Gmail pour l’utiliser dans la planification des rendez-vous dans le chatterbot.
+Dans l’onglet Configuration du calendrier , connectez votre calendrier Outlook ou Gmail pour l’utiliser dans la planification des rendez-vous dans le chatterbot.
 
 ## Connexion au calendrier {#connect-calendar}
 
@@ -50,14 +50,14 @@ La configuration avec Google accorde les autorisations suivantes à Dynamic Chat
 * Modifier avec qui le calendrier est partagé
 * Accès à votre nom, adresse électronique, préférences linguistiques et photo de profil
 
-## Paramètres de disponibilité de la messagerie instantanée {#live-chat-availability-settings}
-
-Texte
-
-## Paramètres de disponibilité de la réservation d’une réunion {#meeting-booking-availability-settings}
+## Disponibilité de la réservation d’une réunion {#meeting-booking-availability}
 
 Texte
 
 ## Durée de la réunion et temps de la mémoire tampon {#meeting-length-and-buffer-time}
+
+Texte
+
+## Disponibilité de la messagerie instantanée {#live-chat-availability}
 
 Texte

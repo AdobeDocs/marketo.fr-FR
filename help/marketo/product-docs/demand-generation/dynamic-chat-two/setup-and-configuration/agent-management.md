@@ -4,9 +4,9 @@ title: Gestion des agents
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ce4daadc8351faaeb6537e75ec7d9f96bd835e5c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -60,6 +60,10 @@ Sélectionnez un message standard (système) ou créez un message personnalisé 
 Sélectionnez un message standard (système) ou créez-en un personnalisé pour que les visiteurs puissent voir quand Live Chat n’est pas disponible.
 
 ![](assets/agent-management-9.png)
+
+>[!NOTE]
+>
+>En sélectionnant le **Option de réservation d’une réunion** génère un widget de réservation de réunion pour le visiteur de chat.
 
 >[!TIP]
 >
