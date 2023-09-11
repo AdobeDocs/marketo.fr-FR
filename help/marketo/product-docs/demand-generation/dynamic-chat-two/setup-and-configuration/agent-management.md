@@ -4,9 +4,9 @@ title: Gestion des agents
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ Dans Gestion des agents, affichez une liste des agents dans votre instance de Dy
 
 Cet onglet répertorie tous les agents de votre instance de Dynamic Chat et inclut des informations telles que leur nom, adresse électronique, état du chat en direct, etc.
 
-PICC2 - CAPTURE D’ÉCRAN REQUISE PAR DES HOMMES
+![](assets/agent-management-2.png)
 
 ## Équipes {#teams}
 

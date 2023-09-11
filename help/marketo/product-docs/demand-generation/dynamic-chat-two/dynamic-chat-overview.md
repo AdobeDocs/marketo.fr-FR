@@ -4,10 +4,10 @@ title: Présentation du Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '873'
-ht-degree: 3%
+source-wordcount: '665'
+ht-degree: 2%
 
 ---
 
@@ -109,90 +109,29 @@ Pour modifier la langue de votre Dynamic Chat, procédez comme suit.
 
 Lorsque vous mettez à jour la langue, tout dans l’application elle-même change, à l’exception des mots que vous avez personnellement renseignés (par exemple, les réponses de diffusion en continu).
 
-## Limites en Dynamic Chat {#limits-in-dynamic-chat}
+## Limites de rétention des données du Dynamic Chat {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>Paramètre</th>
-  <th>Description</th>
-  <th>Limite</th>
+  <th>Type de données</th>
+  <th>Période de rétention</th>
  <tr>
-  <td>Dialogues totaux</td>
-  <td>Nombre de boîtes de dialogue (publiées et préliminaires)</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Calendriers totaux</td>
-  <td>Nombre de calendriers connectés</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>Nombre total d’utilisateurs (administrateurs et utilisateurs marketing)</td>
-  <td>Nombre d’utilisateurs combinés autorisés par instance de Dynamic Chat</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>Dialogues publiés</td>
-  <td>Nombre de boîtes de dialogue publiées enregistrées</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>URL cible par dialogue</td>
-  <td>Nombre d’URL Target pouvant être ajoutées à un seul dialogue</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>Attributs par dialogue</td>
-  <td>Nombre d’attributs pouvant être ajoutés aux critères d’audience pour un seul dialogue</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Groupes</td>
-  <td>Nombre de groupes pouvant être ajoutés à un seul dialogue</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Attributs par groupe</td>
-  <td>Nombre d’attributs pouvant être ajoutés à un groupe</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Cartes</td>
-  <td>Nombre de cartes pouvant être ajoutées à la zone de travail par dialogue</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Période de conservation des données de piste anonyme</td>
-  <td>Durée pendant laquelle les informations d’une piste anonyme sans engagement seront conservées</td>
+  <td>Un leader anonyme sans engagement</td>
   <td>90 jours</td>
  </tr>
  <tr>
-  <td>Période de conservation de l’activité de l’objectif</td>
-  <td>Durée pendant laquelle les données d’activité d’objectif sont conservées</td>
+  <td>Activité Objectif</td>
   <td>24 mois</td>
  </tr>
  <tr>
-  <td>Période de conservation de l’activité de document</td>
-  <td>Durée pendant laquelle les données d’activité de document sont conservées</td>
+  <td>Activité du document</td>
   <td>24 mois</td>
  </tr>
  <tr>
-  <td>Interaction avec la période de rétention de l’activité de dialogue</td>
-  <td>La durée d’interaction avec les données d’activité Dialogue est conservée</td>
+  <td>Interaction avec l’activité de dialogue</td>
   <td>90 jours</td>
  </tr>
  <tr>
-  <td>Période de conservation de l’activité de réservation d’une réunion</td>
-  <td>La durée de la réunion pendant laquelle l’activité de réservation sera stockée dans Dynamic Chat</td>
+  <td>Activité de réservation de réunion</td>
   <td>24 mois</td>
- </tr>
- <tr>
-  <td>Conversations en cours</td>
-  <td>Nombre de conversations en ligne avec lesquelles les visiteurs web peuvent interagir par mois</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>Conversations déclenchées</td>
-  <td>Nombre de conversations en ligne qui peuvent être présentées aux visiteurs web par mois</td>
-  <td>25,000</td>
  </tr>
 </table>

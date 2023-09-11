@@ -4,9 +4,9 @@ title: Routage
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Règle personnalisée : vous pouvez choisir des agents spécifiques pour recevoi
 
 Dans cet exemple, nous envoyons toutes les réunions des états déduits de CA, OU et WA à l’agent John.
 
-1. Dans Dynamic Chat, sélectionnez **Routage**.
+1. Sous Configuration, cliquez sur **Règles de routage**.
 
    ![](assets/routing-1.png)
 
@@ -35,7 +35,7 @@ Dans cet exemple, nous envoyons toutes les réunions des états déduits de CA, 
 
    ![](assets/routing-3.png)
 
-1. Attribuez un nom à votre règle et cliquez sur **Suivant**.
+1. Nommez votre règle. Vous pouvez éventuellement ajouter une description et définir son niveau de priorité. Cliquez sur **Suivant**.
 
    ![](assets/routing-4.png)
 
@@ -54,3 +54,14 @@ Dans cet exemple, nous envoyons toutes les réunions des états déduits de CA, 
 1. Lorsque toutes les valeurs souhaitées sont sélectionnées, cliquez sur **Enregistrer**.
 
    ![](assets/routing-8.png)
+
+
+## Routage de compte {#account-routing}
+
+Identifiez et chargez votre compte cible et les propriétaires de ventes respectifs et acheminez les visiteurs provenant de ces comptes directement vers le propriétaire du compte correspondant.
+
+![](assets/routing-9.png)
+
+Routage d’équipe
+
+Membre du routage de liste dynamique
