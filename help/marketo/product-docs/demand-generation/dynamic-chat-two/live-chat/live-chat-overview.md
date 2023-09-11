@@ -4,7 +4,7 @@ title: Présentation de la messagerie instantanée
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 3%
@@ -26,7 +26,7 @@ Utilisez la carte de conversation en direct dans le [concepteur de flux](/help/m
 **Meilleures pratiques**
 
 * Utilisez une carte de questions avant la carte de conversation en direct qui demande au visiteur s’il souhaite se connecter.
-* Une fois que le visiteur a accepté de se connecter, utilisez la carte de capture d’informations pour obtenir certaines de ses informations, telles que le prénom/nom, l’adresse électronique, le titre de la tâche, etc. (il est recommandé de demander au moins le prénom et l’adresse électronique)
+* Une fois que le visiteur a accepté de se connecter, utilisez la carte de capture d’informations pour collecter certaines de ses informations, telles que le prénom/nom, l’adresse électronique, le titre de la tâche, etc. (il est recommandé de demander au moins le prénom et l’adresse électronique).
 
 ## Options de carte de conversation en direct {#live-chat-card-options}
 

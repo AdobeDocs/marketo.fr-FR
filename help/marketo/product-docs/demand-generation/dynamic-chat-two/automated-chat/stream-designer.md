@@ -4,9 +4,9 @@ title: Designer de flux
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '1024'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,11 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
  </tr>
  <tr>
   <td><strong>Planificateur de rendez-vous</strong></td>
-  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier un suivi. La disponibilité du calendrier reflète <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">l’agent suivant en ligne</a>.</td>
+  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier un suivi. La disponibilité du calendrier reflète <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">l’agent suivant en ligne</a>. Il existe également une option permettant de transmettre des attributs tels que le nom ou l’adresse électronique de l’agent.</td>
+ </tr>
+ <tr>
+  <td><strong>Réservation Réunion</strong></td>
+  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier une réunion. Choisissez la disponibilité du calendrier par le biais d’un round robin, d’un agent spécifique ou à l’aide de règles personnalisées.</td>
  </tr>
  <tr>
   <td><strong>Objectif</strong></td>
@@ -68,19 +72,19 @@ Dans le coin supérieur droit du concepteur de flux, vous verrez quelques icône
 <table>
  <tr>
   <td><img src="assets/stream-designer-1.png"></td>
-  <td>Ajoute une grille à l’arrière-plan pour ceux qui préfèrent cette vue.</td>
- </tr>
- <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
   <td>Zoom avant, création de cartes plus grandes</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td><img src="assets/stream-designer-2.png"></td>
   <td>Zoom arrière, création de cartes plus petites</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td><img src="assets/stream-designer-3.png"></td>
   <td>Ouvre une fenêtre pour que vous puissiez tester votre conversation (appuyez sur le même bouton pour fermer).</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Permet de rechercher des types de carte ou du contenu dans votre flux.</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
@@ -211,4 +215,3 @@ Dans le coin supérieur droit du concepteur de flux, vous verrez quelques icône
 >* [Critère d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* Rapports [ ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
 >* [Utilisation de la carte de document](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
-

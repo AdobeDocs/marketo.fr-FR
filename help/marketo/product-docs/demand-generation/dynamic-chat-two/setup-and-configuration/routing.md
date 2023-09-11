@@ -4,7 +4,7 @@ title: Routage
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 1%
@@ -54,7 +54,6 @@ Dans cet exemple, nous envoyons toutes les réunions des états déduits de CA, 
 1. Lorsque toutes les valeurs souhaitées sont sélectionnées, cliquez sur **Enregistrer**.
 
    ![](assets/routing-8.png)
-
 
 ## Routage de compte {#account-routing}
 

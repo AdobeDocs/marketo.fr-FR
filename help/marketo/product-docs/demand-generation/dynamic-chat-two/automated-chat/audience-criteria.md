@@ -4,9 +4,9 @@ title: Critère d’audience
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -23,8 +23,6 @@ La priorité détermine le dialogue qu’un prospect reçoit lorsqu’il remplit
 
 ## Événements {#events}
 
-![](assets/audience-criteria-2.png)
-
 Les événements vous permettent de cibler les visiteurs en fonction de la durée de leur défilement ou de la durée pendant laquelle ils se trouvent sur votre page/site. Dans l’exemple ci-dessous, nous ciblons les visiteurs qui se trouvent sur une page spécifique depuis plus de 20 secondes.
 
 1. Attrapez le **Durée sur la page** et faites-le glisser vers la droite.
@@ -40,8 +38,6 @@ Les événements vous permettent de cibler les visiteurs en fonction de la duré
    ![](assets/audience-criteria-5.png)
 
 ## Attributs {#attributes}
-
-![](assets/audience-criteria-6.png)
 
 **Personnes connues**
 
@@ -96,6 +92,18 @@ Il existe un moyen simple de cibler spécifiquement les personnes qui ne se trou
 1. _Is_ est défini par défaut. Dans le champ Sélectionner les valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 
    ![](assets/audience-criteria-15.png)
+
+## Abonnement {#membership}
+
+Utilisez des listes dynamiques Marketo Engage pour l’audience cible de votre dialogue.
+
+1. Sous Adhésion, accédez à **Membre de la liste dynamique** et déposez-le sur la zone de travail.
+
+   ![](assets/audience-criteria-15a.png)
+
+1. Sélectionnez la liste dynamique de votre choix.
+
+   ![](assets/audience-criteria-15b.png)
 
 ## Ajout de groupes {#add-groups}
 

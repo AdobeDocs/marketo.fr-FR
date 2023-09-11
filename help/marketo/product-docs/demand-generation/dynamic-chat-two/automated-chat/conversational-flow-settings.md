@@ -4,9 +4,9 @@ title: Paramètres De Flux De Conversion Pour Marketo Engage Forms
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 59a1dfe1a6ca638cdbc18a7163e64dc2bac25bb5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Rendez Marketo Engage Forms conversationnel en l’intégrant aux flux de conver
 >[!PREREQUISITES]
 >
 >AJOUTER LE PRÉREQ ICI
+
+>[!AVAILABILITY]
+>
+>Un membre de la liste dynamique ou un membre de la liste nécessite Dynamic Chat.
 
 1. Recherchez et sélectionnez votre formulaire (ou créez-en un).
 
