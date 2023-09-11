@@ -4,9 +4,9 @@ title: Gestion des agents
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ Dans Gestion des agents, affichez une liste des agents dans votre instance de Dy
 
 ## Agents {#agents}
 
-Cet onglet répertorie tous les agents de votre instance de Dynamic Chat et inclut des informations telles que leur nom, adresse électronique, état de messagerie instantanée, etc.
+Cet onglet répertorie tous les agents de votre instance de Dynamic Chat et inclut des informations telles que leur nom, adresse électronique, état du chat en direct, etc.
 
 PICC2 - CAPTURE D’ÉCRAN REQUISE PAR DES HOMMES
 
@@ -63,7 +63,7 @@ Sélectionnez un message standard (système) ou créez-en un personnalisé pour 
 
 >[!NOTE]
 >
->En sélectionnant le **Option de réservation d’une réunion** génère un widget de réservation de réunion pour le visiteur de chat.
+>En sélectionnant le **Option de réservation d’une réunion** La case à cocher permet au visiteur de la conversation de réserver une réunion lorsqu’aucun agent n’est disponible pour la discussion en direct.
 
 >[!TIP]
 >

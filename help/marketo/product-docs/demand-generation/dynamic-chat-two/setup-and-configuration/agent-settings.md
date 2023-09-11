@@ -4,20 +4,24 @@ title: Paramètres de l’agent
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 3%
+source-wordcount: '479'
+ht-degree: 2%
 
 ---
 
 # Paramètres de l’agent {#agent-settings}
 
-Dans l’onglet Configuration du calendrier , connectez votre calendrier Outlook ou Gmail pour l’utiliser dans la planification des rendez-vous dans le chatterbot.
+Configurez votre calendrier et définissez la disponibilité du chat en direct ou en réunion.
+
+![](assets/agent-settings-1.png)
 
 ## Connexion au calendrier {#connect-calendar}
 
-![](assets/agent-settings-1.png)
+Dans l’onglet Configuration du calendrier , connectez votre calendrier Outlook ou Gmail pour l’utiliser dans la planification des rendez-vous dans le chatterbot.
+
+![](assets/agent-settings-2.png)
 
 Une fois que le calendrier d’un utilisateur est connecté à Dynamic Chat, il est ajouté à la file d’attente et son calendrier est disponible pour que les visiteurs du site web programment les rendez-vous.
 
@@ -27,7 +31,7 @@ Une fois que le calendrier d’un utilisateur est connecté à Dynamic Chat, il 
 
 Les utilisateurs peuvent également personnaliser le corps de l’invitation envoyée au visiteur lorsqu’il planifie un rendez-vous dans le calendrier de l’utilisateur. Ils peuvent également cocher la case en bas pour inclure un lien Google Meet ou Microsofts Teams (selon le calendrier qui a été connecté).
 
-![](assets/agent-settings-2.png)
+![](assets/agent-settings-3.png)
 
 >[!TIP]
 >
@@ -52,12 +56,39 @@ La configuration avec Google accorde les autorisations suivantes à Dynamic Chat
 
 ## Disponibilité de la réservation d’une réunion {#meeting-booking-availability}
 
-Texte
+Définissez le fuseau horaire et l’heure/le jour de la semaine disponibles pour recevoir les réservations de réunions.
 
-## Durée de la réunion et temps de la mémoire tampon {#meeting-length-and-buffer-time}
+![](assets/agent-settings-4.png)
 
-Texte
+<table> 
+ <tbody> 
+  <tr> 
+   <td><b>Durée de la réunion</b></td>
+   <td>Durée maximale de la réunion. - QUE SE PASSE-T-IL ? FIN AUTOMATIQUE ?</td>
+  </tr> 
+  <tr> 
+   <td><b>Période tampon entre les réunions</b></td>
+   <td>Durée définie comme tampon après la réunion. Si vous la définissez sur 30 minutes, personne ne pourra vous réserver une réunion jusqu’à 31 minutes après la fin prévue d’une réunion sur votre calendrier. - 31 ou 30???????????</td>
+  </tr>
+ </tbody> 
+</table>
+
+>[!TIP]
+>
+>Vous pouvez sélectionner plusieurs blocs de temps le même jour (par exemple, le vendredi de 8a à 12p). _et_ 1p-5p) en cliquant sur le bouton **+** inscrivez-vous à droite.
 
 ## Disponibilité de la messagerie instantanée {#live-chat-availability}
 
-Texte
+Définissez le fuseau horaire et l’heure/le jour de la semaine disponibles pour recevoir des conversations en direct.
+
+![](assets/agent-settings-5.png)
+
+Si vous êtes connecté à l’application, vous recevrez une notification in-app d’une conversation entrante. Si vous n’êtes pas connecté, vous recevrez une notification de navigateur (dans Google Chrome).
+
+>[!IMPORTANT]
+>
+>La variable [basculement de disponibilité](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} dans la boîte de réception de l’agent **remplace** ce que vous saisissez dans l’onglet Disponibilité de la messagerie instantanée. Ainsi, si vous êtes programmé comme disponible à partir de 1p-5p mais que vous devez effectuer une pause rapide à 3p, vous n’avez pas besoin de modifier les paramètres de votre agent. L’état du basculement de disponibilité reste tant que vous ne l’avez pas modifié manuellement ou jusqu’à ce que le bloc de temps suivant de votre disponibilité soit atteint.
+
+>[!TIP]
+>
+>Vous pouvez sélectionner plusieurs blocs de temps le même jour (par exemple, le vendredi de 8a à 12p). _et_ 1p-5p) en cliquant sur le bouton **+** inscrivez-vous à droite.

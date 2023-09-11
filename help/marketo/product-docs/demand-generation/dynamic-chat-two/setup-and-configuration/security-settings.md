@@ -1,16 +1,34 @@
 ---
-description: Doc - Documents Marketo - Documentation du produit
-title: Doc
+description: Paramètres de sécurité - Documents Marketo - Documentation du produit
+title: Paramètres de sécurité
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 2e18242afb1600ca0e63f9ab777a7ba4ad1e5fbc
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '9'
-ht-degree: 22%
+source-wordcount: '77'
+ht-degree: 5%
 
 ---
 
-# Doc {#doc}
+# Paramètres de sécurité {#security-settings}
 
-Disponible bientôt
+Dans les paramètres de sécurité, vous avez la possibilité d’ajouter des domaines à une liste autorisée bloquée ou bloquée.
+
+![](assets/security-settings-1.png)
+
+## Domaines d’email bloqués {#blocked-email-domains}
+
+1. Sélectionnez la variable **Activer la validation** curseur pour activer votre liste bloquée. Saisissez jusqu’à 50 domaines et cliquez sur **Enregistrer**.
+
+   ![](assets/security-settings-2.png)
+
+>[!CAUTION]
+>
+>Assurez-vous de **NOT** ajouter `adobeeventlab.com` à la liste bloquée ou elle le sera??? DÉSACTIVER LA CONVERSION???
+
+## Domaines autorisés {#allowed-domains}
+
+1. Sélectionnez la variable **Activer la validation** curseur pour activer votre liste autorisée. Saisissez les domaines autorisés et cliquez sur **Enregistrer**.
+
+   ![](assets/security-settings-3.png)

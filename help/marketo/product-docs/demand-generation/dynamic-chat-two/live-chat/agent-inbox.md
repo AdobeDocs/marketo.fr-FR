@@ -4,10 +4,10 @@ title: Boîte de réception de l’agent(e)
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 4d5f0c1c2fa050d4da38daaff1a1be3725bda1d7
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 3%
+source-wordcount: '319'
+ht-degree: 2%
 
 ---
 
@@ -27,6 +27,10 @@ Dans le coin supérieur droit de l’écran de la boîte de réception de l’ag
 >
 >**Cette opération remplace** la valeur [disponibilité du chat en direct](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) que vous avez défini dans Paramètres de l’agent. L’état reste actif jusqu’à ce que vous le reveniez ou que vous reveniez au bloc de temps suivant dans votre disponibilité.
 
+>[!NOTE]
+>
+>La définition de votre état sur non disponible n’affecte aucune discussion active.
+
 ## Acceptation d’une conversation en direct {#accepting-a-live-chat}
 
 Lorsqu’une conversation en direct est envoyée à l’agent, une bannière bleue s’affiche en haut de l’écran pour lui demander d’accepter.
@@ -36,7 +40,6 @@ Lorsqu’une conversation en direct est envoyée à l’agent, une bannière ble
 ### Informations à noter {#things-to-note}
 
 * Les agents disposent de 45 secondes pour répondre avant que le message &quot;Chat Accept&quot; n’expire.
-* TIDBIT DU NAVIGATEUR
 * Actuellement, il existe une limite de 10 conversations en direct par agent.
 
 ## Conversations {#conversations}
@@ -44,6 +47,10 @@ Lorsqu’une conversation en direct est envoyée à l’agent, une bannière ble
 Dans la partie gauche de l’écran Boîte de réception de l’agent, vous pouvez choisir d’afficher uniquement les conversations actives, ou toutes celles-ci.
 
 ![](assets/agent-inbox-4.png)
+
+>[!NOTE]
+>
+>Bien que vous puissiez voir les conversations passées (inactives) de vous-même et d’autres agents, vous ne pourrez voir que vos propres conversations actives.
 
 ## Informations sur le visiteur {#visitor-information}
 
@@ -61,4 +68,18 @@ L’historique des activités se trouve sous les informations sur les visiteurs.
 >
 >Les informations s’affichent uniquement pour les 90 derniers jours.
 
-Conversations actives - Toutes les conversations - Calendrier partageant les informations sur les visiteurs - Activités de Dynamic Chat récentes
+## Partage de calendriers {#calendar-sharing}
+
+Au bas de la fenêtre de conversation en direct se trouve une icône qui vous permet de partager le calendrier de votre agent ou de celui d’un autre agent avec le visiteur de la conversation.
+
+1. Cliquez sur l’icône du calendrier.
+
+   ![](assets/agent-inbox-7.png)
+
+1. Sélectionnez le calendrier de l’agent de votre choix, puis cliquez sur **Envoyer**.
+
+   ![](assets/agent-inbox-8.png)
+
+1. Le visiteur pourra réserver une réunion.
+
+   ![](assets/agent-inbox-9.png)
