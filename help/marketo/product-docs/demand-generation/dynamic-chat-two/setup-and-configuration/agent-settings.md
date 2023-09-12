@@ -4,9 +4,9 @@ title: Paramètres de l’agent
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 5c99dd3394ad09a48b5adbb022a9c4e63b619c81
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---
@@ -64,7 +64,7 @@ Définissez le fuseau horaire et l’heure/le jour de la semaine disponibles pou
  <tbody> 
   <tr> 
    <td><b>Durée de la réunion</b></td>
-   <td>Durée maximale de la réunion. - QUE SE PASSE-T-IL ? S'ARRÊTE AUTOMATIQUEMENT COMME UN ZOOM ?</td>
+   <td>Détermine le temps que les visiteurs verront dans les tranches horaires de réunion disponibles.</td>
   </tr> 
   <tr> 
    <td><b>Période tampon entre les réunions</b></td>
