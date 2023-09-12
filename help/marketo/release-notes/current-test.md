@@ -4,9 +4,9 @@ title: Test des notes de mise à jour actuelles
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1209'
 ht-degree: 10%
 
 ---
@@ -41,8 +41,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 <table>
   <tr> 
-   <td><b>Fonctionnalité</b></td>
-   <td><strong>Utilisé par colonne de comptage pour Design Studio Assets</strong>: la bibliothèque de référence des programmes du Marketo Engage permet aux utilisateurs d’importer des programmes "d’exemple" et d’autres ressources qui représentent les bonnes pratiques recommandées par Adobe. Notre équipe de gestion des produits a entièrement mis à jour la bibliothèque, fournissant ainsi des outils plus précieux pour ceux qui souhaitent démarrer rapidement leur programme.</td>
+   <td style="width:20%"><b>Fonctionnalité</b></td>
+   <td style="width:80%"><strong>Utilisé par colonne de comptage pour Design Studio Assets</strong>: la bibliothèque de référence des programmes du Marketo Engage permet aux utilisateurs d’importer des programmes "d’exemple" et d’autres ressources qui représentent les bonnes pratiques recommandées par Adobe. Notre équipe de gestion des produits a entièrement mis à jour la bibliothèque, fournissant ainsi des outils plus précieux pour ceux qui souhaitent démarrer rapidement leur programme.</td>
   </tr>
   <tr> 
    <td><b>Statut</b></td>
@@ -58,9 +58,9 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Fonctionnalité</th> 
-   <th>Statut</th>
-   <th>Documentation</th>
+   <th style="width:70%">Fonctionnalité</th> 
+   <th style="width:15%">Statut</th>
+   <th style="width:15%">Documentation</th>
   </tr> 
   <tr> 
    <td><strong>Bibliothèque de références Marketo</strong>: la bibliothèque de référence des programmes du Marketo Engage permet aux utilisateurs d’importer des programmes "d’exemple" et d’autres ressources qui représentent les bonnes pratiques recommandées par Adobe. Notre équipe de gestion des produits a entièrement mis à jour la bibliothèque, fournissant ainsi des outils plus précieux pour ceux qui souhaitent démarrer rapidement leur programme.</td> 
@@ -80,9 +80,44 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
  </tbody> 
 </table>
 
+* space
 
+* space
 
+* plus d’espace
 
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Fonctionnalité</th> 
+   <th style="width:15%">Statut</th>
+   <th style="width:20%">Documentation</th>
+  </tr> 
+  <tr> 
+   <td><strong>Bibliothèque de références Marketo</strong>: la bibliothèque de référence des programmes du Marketo Engage permet aux utilisateurs d’importer des programmes "d’exemple" et d’autres ressources qui représentent les bonnes pratiques recommandées par Adobe. Notre équipe de gestion des produits a entièrement mis à jour la bibliothèque, fournissant ainsi des outils plus précieux pour ceux qui souhaitent démarrer rapidement leur programme.</td> 
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Présentation de la bibliothèque d’importation de programmes</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Utilisé par colonne de comptage pour Design Studio Assets</strong>: la bibliothèque de référence des programmes du Marketo Engage permet aux utilisateurs d’importer des programmes "d’exemple" et d’autres ressources qui représentent les bonnes pratiques recommandées par Adobe. Notre équipe de gestion des produits a entièrement mis à jour la bibliothèque, fournissant ainsi des outils plus précieux pour ceux qui souhaitent démarrer rapidement leur programme.</td> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+ </tbody> 
+</table>
+
+* space
+
+* space
+
+* plus d’espace
+
+* fin du test... POUR MAINTENANT
 
 * **Utilisé par colonne de comptage pour Design Studio Assets**:
 

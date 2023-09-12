@@ -4,9 +4,9 @@ title: Designer de flux
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1084'
 ht-degree: 2%
 
 ---
@@ -39,15 +39,11 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
  </tr>
  <tr>
   <td><strong>Capture d’informations</strong></td>
-  <td>Utilisez lorsque vous souhaitez collecter des informations. Les trois champs à choisir sont Adresse électronique, Numéro de téléphone et Texte (ce qui permet au visiteur d’écrire son propre message).</td>
- </tr>
- <tr>
-  <td><strong>Planificateur de rendez-vous</strong></td>
-  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier un suivi. La disponibilité du calendrier reflète <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">l’agent suivant en ligne</a>. Il existe également une option permettant de transmettre des attributs tels que le nom ou l’adresse électronique de l’agent.</td>
+  <td>Utilisez cette option lorsque vous souhaitez collecter des informations (par exemple, nom, adresse électronique, titre de la tâche, etc.). Après avoir choisi le champ auquel attribuer la réponse, vous pouvez choisir de laisser le visiteur saisir sa réponse ou sélectionner des options dans une liste de sélection que vous déterminez (astuce : cette dernière peut vous aider à nettoyer la base de données). Vous pouvez également choisir de remplacer les données que vous avez actuellement répertoriées pour elles par leur réponse ou, si vous avez déjà une valeur pour vous, ignorer entièrement la question.</td>
  </tr>
  <tr>
   <td><strong>Réservation Réunion</strong></td>
-  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier une réunion. Choisissez la disponibilité du calendrier par le biais d’un round robin, d’un agent spécifique ou à l’aide de règles personnalisées.</td>
+  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier une réunion. Choisissez la disponibilité du calendrier à l’aide d’un robot d’arrondi, d’un agent spécifique ou de règles personnalisées. Cliquez sur <b>Ajouter un attribut</b> si vous souhaitez capturer le nom ou l’adresse électronique de l’agent et l’affecter à l’enregistrement de personne du visiteur du chat pour une interrogation ultérieure (astuce : créez un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">champ personnalisé</a> pour mapper les informations de l’agent sur de manière à ne pas remplacer un champ de Marketo Engage standard).</td>
  </tr>
  <tr>
   <td><strong>Objectif</strong></td>
