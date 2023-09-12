@@ -4,10 +4,10 @@ title: Routage
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: df719d0db50009180e707b88b53115d4a62f35bf
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '268'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,10 @@ Les réunions réservées en Dynamic Chat peuvent être routées de deux façons
 Tour à tour : les réunions sont assignées aux agents de manière séquentielle. Donc si vous avez cinq agents et l&#39;agent trois qui ont pris la dernière réunion, l&#39;agent quatre aura le suivant, suivi de l&#39;agent cinq, puis revenir à l&#39;agent un.
 
 Règle personnalisée : vous pouvez choisir des agents spécifiques pour recevoir des réunions en fonction des attributs que vous sélectionnez.
+
+>[!NOTE]
+>
+>Routage de compte a la priorité la plus élevée. Lorsqu’un visiteur atteint le point de la conversation pour réserver une réunion ou lancer une conversation en direct, [Routage de compte](#account-routing) est vérifié avant que d’autres options de routage ne soient prises en compte.
 
 ## Création d’une règle personnalisée {#create-a-custom-rule}
 
@@ -61,6 +65,18 @@ Identifiez et chargez votre compte cible et les propriétaires de ventes respect
 
 ![](assets/routing-9.png)
 
-Routage d’équipe - DELETE CES RÉFÉRENCES POUR MAINTENANT
+### Ajout d’un compte {#add-an-account}
 
-Membre du routage de liste dynamique - POSSIBLE RETARDÉ
+Dans cet exemple, nous acheminerons tous les employés de Lego directement vers l’agent Steven.
+
+1. Dans l’onglet Routage de compte , cliquez sur **+ Ajouter un compte**.
+
+   ![](assets/routing-10.png)
+
+   >[!TIP]
+   >
+   >Vous pouvez créer plusieurs comptes en même temps en cliquant sur **Télécharger la liste des comptes** et télécharger un fichier CSV.
+
+1. Saisissez le nom, le domaine et l’agent de votre choix.
+
+   ![](assets/routing-11.png)
