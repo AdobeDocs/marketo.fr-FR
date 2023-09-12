@@ -3,7 +3,7 @@ description: Liste de contrôle de l’administrateur d’instance hérité - Do
 title: Liste de contrôle de l’administrateur d’instance hérité
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 4%
@@ -60,7 +60,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
   <tr> 
    <td>Utilisateurs</td> 
    <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Nombre d’utilisateurs</a> y en a-t-il ?</li>
-<li>Certains utilisateurs doivent-ils avoir expiré ?</li>
+<li>Certains utilisateurs doivent-ils être supprimés ?</li>
 <li>Votre entreprise a-t-elle des politiques concernant la suppression d’utilisateurs ?</li> 
 <li>Nombre d’utilisateurs <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Autorisations d’administrateur</a>?</li>
 <li>L’un de ces utilisateurs doit-il être remplacé par <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">d’autres rôles ?</a></li> 
