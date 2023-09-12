@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: c2a3e2915c8a205f03c4bf578e6b2479af1206b3
 workflow-type: tm+mt
-source-wordcount: '9162'
+source-wordcount: '9159'
 ht-degree: 5%
 
 ---
@@ -654,10 +654,9 @@ ht-degree: 5%
          + [Activités Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + Chat automatisé {#automated-chat}
-            + [Présentation des flux de conversation](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
+            + [Aperçu du flux de conversation](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md)
             + [Créer un flux de conversation](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
             + [Paramètres de flux de conversation pour Marketo Engage Forms](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
-            + [SDK Conversations](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
             + [Présentation des dialogues](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [Créer un dialogue](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
             + [Critère d’audience](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
@@ -669,7 +668,6 @@ ht-degree: 5%
          + Chat en direct {#live-chat}
             + [Présentation de la messagerie instantanée](product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md)
             + [Boîte de réception de l’agent(e)](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
-            + [Notifications](product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md)
          + Configuration et configuration {#setup-and-configuration}
             + [Configuration initiale](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md)
             + [Ajout ou suppression d’utilisateurs de conversation](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md)
