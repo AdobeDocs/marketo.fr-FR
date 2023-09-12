@@ -4,9 +4,9 @@ title: Paramètres de l’agent
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '482'
 ht-degree: 2%
 
 ---
@@ -64,11 +64,11 @@ Définissez le fuseau horaire et l’heure/le jour de la semaine disponibles pou
  <tbody> 
   <tr> 
    <td><b>Durée de la réunion</b></td>
-   <td>Durée maximale de la réunion. - QUE SE PASSE-T-IL ? FIN AUTOMATIQUE ?</td>
+   <td>Durée maximale de la réunion. - QUE SE PASSE-T-IL ? S'ARRÊTE AUTOMATIQUEMENT COMME UN ZOOM ?</td>
   </tr> 
   <tr> 
    <td><b>Période tampon entre les réunions</b></td>
-   <td>Durée définie comme tampon après la réunion. Si vous la définissez sur 30 minutes, personne ne pourra vous réserver une réunion jusqu’à 31 minutes après la fin prévue d’une réunion sur votre calendrier. - 31 ou 30???????????</td>
+   <td>Durée définie comme tampon après la réunion. Si vous la définissez sur 30 minutes, personne ne pourra vous réserver une réunion jusqu’à 30 minutes après la fin programmée d’une réunion sur votre calendrier.</td>
   </tr>
  </tbody> 
 </table>
@@ -83,11 +83,11 @@ Définissez le fuseau horaire et l’heure/le jour de la semaine disponibles pou
 
 ![](assets/agent-settings-5.png)
 
-Si vous êtes connecté à l’application, vous recevrez une notification in-app d’une conversation entrante. Si vous n’êtes pas connecté, vous recevrez une notification du navigateur.
+Si vous êtes connecté à l’application, vous recevrez une notification in-app d’une conversation entrante. Si vous n’êtes pas connecté, vous recevrez une notification du navigateur (si vous avez [configurer](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->La variable [basculement de disponibilité](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} dans la boîte de réception de l’agent **remplace** ce que vous saisissez dans l’onglet Disponibilité de la messagerie instantanée. Ainsi, si vous êtes programmé comme disponible à partir de 1p-5p mais que vous devez effectuer une pause rapide à 3p, vous n’avez pas besoin de modifier les paramètres de votre agent. L’état du basculement de disponibilité reste tant que vous ne l’avez pas modifié manuellement ou jusqu’à ce que le bloc de temps suivant de votre disponibilité soit atteint.
+>La variable [basculement de disponibilité](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} dans la boîte de réception de l’agent **remplace** ce que vous saisissez dans l’onglet Disponibilité de la messagerie instantanée. Ainsi, si vous êtes programmé comme disponible à partir de 1p-5p mais que vous devez effectuer une pause rapide à 3p, vous n’avez pas besoin de modifier les paramètres de votre agent. Le statut de basculement de disponibilité reste tant que vous ne le modifiez pas manuellement ou jusqu’à ce que le bloc de temps suivant de votre disponibilité soit atteint.
 
 >[!TIP]
 >

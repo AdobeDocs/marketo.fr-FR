@@ -4,9 +4,9 @@ title: Designer de flux
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1102'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Il y a _many_ combinaisons de diffusion possibles. Cet article contient un exemp
 
 >[!PREREQUISITES]
 >
->Avant de pouvoir utiliser la carte Document, vous devez d’abord [configurer](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} dans votre compte d’Adobe.
+>Avant de pouvoir utiliser la carte Document, vous devez d’abord [configurer](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md){target="_blank"} dans votre compte d’Adobe.
 
 ## Diffusion en continu de cartes Designer {#stream-designer-cards}
 
@@ -90,7 +90,9 @@ Dans le coin supérieur droit du concepteur de flux, vous verrez quelques icône
 
 ## Création d’un flux {#create-a-stream}
 
-1. Après avoir [créer votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, cliquez sur le **Concepteur de diffusion** .
+Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation Forms](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}. Dans cet exemple, nous allons en créer un pour un Dialogue.
+
+1. Après avoir [création de votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, cliquez sur le **Concepteur de diffusion** .
 
    ![](assets/stream-designer-6.png)
 

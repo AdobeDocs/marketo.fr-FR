@@ -4,9 +4,9 @@ title: Présentation des dialogues
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ La variable [Concepteur de diffusion](/help/marketo/product-docs/demand-generati
 
 ## Rapports   {#reports}
 
-La variable [Rapports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} d’un dialogue : c’est là que vous pourrez consulter les mesures relatives à l’efficacité de votre dialogue.
+L’onglet Rapports vous permet d’afficher les mesures relatives à l’efficacité de votre dialogue.
 
 ![](assets/dialogue-overview-3.png)
 
