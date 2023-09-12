@@ -4,7 +4,7 @@ title: Test des notes de mise à jour actuelles
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
+source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 9%
@@ -22,7 +22,6 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 ## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
 
 Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **8 septembre 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonction en regard de celle-ci.
-</br>
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -72,7 +71,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées à diverses dates avant ou après la date de publication standard. Vérifiez l’état de chaque fonction en regard de celle-ci.
 </br>
-<table style="table-layout:auto"> 
+<table style="border: none">
  <tbody> 
   <tr> 
    <th style="width:65%">Fonctionnalité</th> 
@@ -89,7 +88,7 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
 
 ### Dynamic Chat {#dynamic-chat}
 
-<table style="table-layout:auto"> 
+<table style="border: 0px">
  <tbody> 
   <tr> 
    <th style="width:65%">Fonctionnalité</th> 
