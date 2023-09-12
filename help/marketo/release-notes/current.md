@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '951'
 ht-degree: 11%
 
 ---
@@ -328,6 +328,6 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 ## Annonces {#announcements}
 
-* **Basculer vers l’obsolescence pour les ressources de Design Studio**: le commutateur à bascule qui permet aux utilisateurs de basculer entre l’interface classique et l’expérience utilisateur moderne pour Design Studio sera obsolète, ainsi que l’ancienne version de l’expérience Design Studio, ce qui permet aux utilisateurs de migrer complètement vers l’expérience utilisateur moderne.
+* **Basculer vers l’obsolescence pour les ressources de Design Studio**: le commutateur à bascule qui permet aux utilisateurs de basculer entre l’interface classique et l’expérience utilisateur moderne pour Design Studio sera obsolète, ainsi que l’ancienne version de l’expérience Design Studio, ce qui permet aux utilisateurs de migrer complètement vers l’expérience utilisateur moderne. [En savoir plus ici](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
 * **_Webinaire sur la version du produit_**: rejoignez-nous le 6 septembre 2023, à 9 h 00 PT / 12 h ET pour une [webinaire en direct](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} hébergée par notre équipe produit, où vous découvrirez comment utiliser toutes les dernières innovations de produits.

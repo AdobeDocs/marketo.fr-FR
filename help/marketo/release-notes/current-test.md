@@ -4,9 +4,9 @@ title: Test des notes de mise à jour actuelles
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1212'
 ht-degree: 10%
 
 ---
@@ -117,11 +117,9 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 * plus d’espace
 
-* fin du test... POUR MAINTENANT
-
 * **Utilisé par colonne de comptage pour Design Studio Assets**:
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>Statut</b></td>
    <td><b>Mises à jour de la documentation</b></td>
@@ -135,7 +133,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 * **Utilisé par l’onglet Améliorations pour les ressources de Design Studio**: l’onglet Utilisé par l’amélioration fournit une vue plus détaillée du type et du nom d’une ressource, ainsi que de son emplacement d’utilisation. Cela s’applique aux détails des emails et aux détails des images et des fichiers.
 
-<table> 
+<table width="400px">
   <tr> 
    <td><b>Statut</b></td>
    <td><b>Mises à jour de la documentation</b></td>
@@ -146,6 +144,12 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
   </tbody>
 </table>
+
+* space
+
+* plus d’espace
+
+* fin du test... POUR MAINTENANT
 
 * **Service d’étape de flux de formule de calcul**: la formule de calcul est un service d’étape de flux basé sur la plateforme d’exécution d’E/S d’Adobe pour une utilisation avec des campagnes dynamiques de Marketo Engage. Les clients Adobe disposant d’un runtime IO peuvent déployer le service et l’installer sur leurs abonnements de Marketo Engage, ce qui leur permet de calculer des formules de type Excel dans les campagnes dynamiques Marketo.
 
