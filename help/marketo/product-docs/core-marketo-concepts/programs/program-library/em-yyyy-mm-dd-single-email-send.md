@@ -1,10 +1,8 @@
 ---
 description: AEM-AAAA-MM-JJ-Envoi de courrier électronique unique - Documents Marketo - Documentation du produit
 title: AEM-AAAA-MM-JJ-Envoi de courrier électronique unique
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 19%

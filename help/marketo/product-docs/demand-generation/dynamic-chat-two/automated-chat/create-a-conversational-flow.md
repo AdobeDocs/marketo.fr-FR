@@ -4,30 +4,28 @@ title: Créer un flux de conversation
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Créer un flux de conversation {#create-a-conversational-flow}
 
-Concevez un flux de conversation et déclenchez-le pour n’importe quel visiteur en fonction d’une action spécifique (par exemple, en cliquant sur un bouton d’appel à l’action, au chargement de la page, au temps passé sur la page, etc.).
-
-Mentionner sa différence dans Dialogues???????????
+Voici comment créer un nouveau flux de conversation.
 
 1. Sous Chat automatisé, cliquez sur **Flux de conversation**.
 
-PICC
+   ![](assets/create-a-conversational-flow-1.png)
 
 1. Cliquez sur **Créer un flux de conversation**.
 
-PICC
+   ![](assets/create-a-conversational-flow-2.png)
 
 1. Sélectionnez un flux de conversation vide ou l’un des modèles préremplis. Saisissez un nom (la description est facultative), modifiez la langue (facultatif), puis cliquez sur **Créer**.
 
-PICC
+   ![](assets/create-a-conversational-flow-3.png)
 
 >[!NOTE]
 >

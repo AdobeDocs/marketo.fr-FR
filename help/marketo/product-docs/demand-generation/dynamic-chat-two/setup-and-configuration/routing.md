@@ -4,9 +4,9 @@ title: Routage
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '195'
 ht-degree: 1%
 
 ---
@@ -61,6 +61,6 @@ Identifiez et chargez votre compte cible et les propriétaires de ventes respect
 
 ![](assets/routing-9.png)
 
-Routage d’équipe
+Routage d’équipe - DELETE CES RÉFÉRENCES POUR MAINTENANT
 
-Membre du routage de liste dynamique
+Membre du routage de liste dynamique - POSSIBLE RETARDÉ

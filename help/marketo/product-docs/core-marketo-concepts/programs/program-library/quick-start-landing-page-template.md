@@ -1,12 +1,10 @@
 ---
 description: Modèle de page d’entrée de démarrage rapide - Documents Marketo - Documentation du produit
 title: Modèle de page d’entrée de démarrage rapide
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---

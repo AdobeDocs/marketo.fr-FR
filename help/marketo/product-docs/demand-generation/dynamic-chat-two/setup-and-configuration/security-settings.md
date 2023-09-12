@@ -4,10 +4,10 @@ title: Paramètres de sécurité
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 5%
+source-wordcount: '63'
+ht-degree: 6%
 
 ---
 
@@ -22,10 +22,6 @@ Dans les paramètres de sécurité, vous avez la possibilité d’ajouter des do
 1. Sélectionnez la variable **Activer la validation** curseur pour activer votre liste bloquée. Saisissez jusqu’à 50 domaines et cliquez sur **Enregistrer**.
 
    ![](assets/security-settings-2.png)
-
->[!CAUTION]
->
->Assurez-vous de **NOT** ajouter `adobeeventlab.com` à la liste bloquée ou elle le sera??? DÉSACTIVER LA CONVERSION???
 
 ## Domaines autorisés {#allowed-domains}
 
