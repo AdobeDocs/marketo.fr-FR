@@ -4,9 +4,9 @@ title: Paramètres de l’agent
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '476'
 ht-degree: 2%
 
 ---
@@ -83,7 +83,7 @@ Définissez le fuseau horaire et l’heure/le jour de la semaine disponibles pou
 
 ![](assets/agent-settings-5.png)
 
-Si vous êtes connecté à l’application, vous recevrez une notification in-app d’une conversation entrante. Si vous n’êtes pas connecté, vous recevrez une notification de navigateur (dans Google Chrome).
+Si vous êtes connecté à l’application, vous recevrez une notification in-app d’une conversation entrante. Si vous n’êtes pas connecté, vous recevrez une notification du navigateur.
 
 >[!IMPORTANT]
 >

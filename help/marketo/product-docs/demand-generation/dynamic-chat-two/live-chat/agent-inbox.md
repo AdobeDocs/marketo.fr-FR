@@ -4,9 +4,9 @@ title: Boîte de réception de l’agent(e)
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '367'
 ht-degree: 2%
 
 ---
@@ -25,17 +25,24 @@ Dans le coin supérieur droit de l’écran de la boîte de réception de l’ag
 
 >[!IMPORTANT]
 >
->**Cette opération remplace** la valeur [disponibilité du chat en direct](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) que vous avez défini dans Paramètres de l’agent. L’état reste actif jusqu’à ce que vous le reveniez ou que vous reveniez au bloc de temps suivant dans votre disponibilité.
+>**Cette opération remplace** la valeur [disponibilité du chat en direct](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} que vous avez défini dans Paramètres de l’agent. L’état reste actif jusqu’à ce que vous le reveniez ou que vous reveniez au bloc de temps suivant dans votre disponibilité.
 
 >[!NOTE]
 >
 >La définition de votre état sur non disponible n’affecte aucune discussion active.
 
-## Acceptation d’une conversation en direct {#accepting-a-live-chat}
+## Notifications de tchat en direct {#live-chat-notifications}
 
-Lorsqu’une conversation en direct est envoyée à l’agent, une bannière bleue s’affiche en haut de l’écran pour lui demander d’accepter.
+Lorsqu’une conversation en direct est envoyée à un agent, une bannière bleue s’affiche en haut de l’écran pour lui demander d’accepter.
 
 ![](assets/agent-inbox-3.png)
+
+>[!TIP]
+>
+>Vous avez également la possibilité de configurer des notifications de navigateur qui vous avertiront si vous n’êtes pas connecté à Dynamic Chat.
+>
+>* Activation des notifications de navigateur dans [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Activation des notifications de navigateur dans [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Informations à noter {#things-to-note}
 
