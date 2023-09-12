@@ -4,7 +4,7 @@ title: API Adobe PDF Embed
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 5%
@@ -45,5 +45,5 @@ La vignette Document permet d’incorporer des documents PDF dans les boîtes de
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-Vous pouvez maintenant utiliser la carte Document dans vos boîtes de dialogue&#39; [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)!
+Vous pouvez maintenant utiliser la carte Document dans vos boîtes de dialogue&#39; [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}!
 

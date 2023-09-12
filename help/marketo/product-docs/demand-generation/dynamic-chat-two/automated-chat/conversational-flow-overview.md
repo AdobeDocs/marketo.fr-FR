@@ -4,7 +4,7 @@ title: Aperçu du flux de conversation
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Concevez un flux de conversation et déclenchez-le pour n’importe quel visiteu
 
 Bien que les dialogues et les flux de conversation présentent plusieurs similitudes, il s’agit de deux caractéristiques distinctes.
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th style="width:50%">Dialogues</th> 

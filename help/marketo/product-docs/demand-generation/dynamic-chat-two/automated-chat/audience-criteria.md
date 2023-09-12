@@ -4,9 +4,9 @@ title: Critère d’audience
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Tout comme les listes dynamiques de Marketo Engage, les attributs de critères d
 
 ## Priorité {#priority}
 
-La priorité détermine le dialogue qu’un prospect reçoit lorsqu’il remplit les conditions requises pour plus d’un. Elle est établie la première fois que vous [créer votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. Vous pouvez modifier la priorité d’un dialogue existant en l’ouvrant et en accédant à **Détails du dialogue** dans l’onglet Critères d’audience .
+La priorité détermine le dialogue qu’un prospect reçoit lorsqu’il remplit les conditions requises pour plus d’un. Elle est établie la première fois que vous [créer votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}. Vous pouvez modifier la priorité d’un dialogue existant en l’ouvrant et en accédant à **Détails du dialogue** dans l’onglet Critères d’audience .
 
 ![](assets/audience-criteria-1.png)
 
@@ -87,7 +87,7 @@ Il existe un moyen simple de cibler spécifiquement les personnes qui ne se trou
 
    >[!NOTE]
    >
-   >Lorsqu’une personne visite votre site web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) les cookies et les place dans le système. Nous recherchons leur adresse IP dans une base de données spéciale et en déduisons toutes sortes de bonnes informations.
+   >Lorsqu’une personne visite votre site web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} les cookies et les place dans le système. Nous recherchons leur adresse IP dans une base de données spéciale et en déduisons toutes sortes de bonnes informations.
 
 1. _Is_ est défini par défaut. Dans le champ Sélectionner les valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 
@@ -136,7 +136,5 @@ Utilisez les exclusions pour vous assurer que votre dialogue fonctionne **not** 
 
 >[!MORELIKETHIS]
 >
->* [Créer un dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
->* [Designer de flux](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
->* Rapports [ ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
-
+>* [Créer un dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [Designer de flux](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}
