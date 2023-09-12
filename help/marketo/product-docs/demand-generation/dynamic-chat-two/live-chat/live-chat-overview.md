@@ -4,16 +4,16 @@ title: Présentation de la messagerie instantanée
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '239'
 ht-degree: 3%
 
 ---
 
 # Présentation de la messagerie instantanée {#live-chat-overview}
 
-Utilisez la carte de conversation en direct dans le [concepteur de flux](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} lorsque vous souhaitez que les visiteurs discutent avec un agent en direct.
+Utilisez la carte de conversation en direct dans le [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} lorsque vous souhaitez que les visiteurs discutent avec un agent en direct.
 
 ## Utilisation de la carte de conversation en direct {#using-the-live-chat-card}
 
@@ -23,7 +23,7 @@ Utilisez la carte de conversation en direct dans le [concepteur de flux](/help/m
 >
 >La carte de conversation en direct doit toujours être la dernière carte de la branche. Si la carte est placée au hasard dans la branche, le visiteur pourrait être surpris en la connectant soudainement à un agent.
 
-**Meilleures pratiques**
+### Meilleures pratiques {#best-practices}
 
 * Utilisez une carte de questions avant la carte de conversation en direct qui demande au visiteur s’il souhaite se connecter.
 * Une fois que le visiteur a accepté de se connecter, utilisez la carte de capture d’informations pour collecter certaines de ses informations, telles que le prénom/nom, l’adresse électronique, le titre de la tâche, etc. (il est recommandé de demander au moins le prénom et l’adresse électronique).
@@ -46,7 +46,7 @@ Cliquer sur la carte de conversation en direct dans le flux vous permet de chois
   </tr>
     <tr> 
    <td><b>Règles personnalisées</b></td>
-   <td>Toutes les règles personnalisées sont analysées lors de la prise en compte de l’emplacement du visiteur. Si le visiteur ne répond à aucun des critères, la RÈGLE DE RETOUR EN ARRIÈRE-PLAN???</td>
+   <td>Toutes les règles personnalisées sont analysées lors de la prise en compte de l’emplacement du visiteur. Si le visiteur n’est éligible à aucune règle personnalisée, il obtient la variable <a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">message de secours de la conversation en direct</a>.</td>
   </tr> 
   <tr> 
    <td><b>Équipe</b></td>
@@ -57,5 +57,4 @@ Cliquer sur la carte de conversation en direct dans le flux vous permet de chois
 
 >[!MORELIKETHIS]
 >
->* [Boîte de réception de l’agent(e)](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}
->* [Notifications](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md){target="_blank"}
+>[Boîte de réception de l’agent(e)](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}

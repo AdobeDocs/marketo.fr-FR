@@ -1,22 +1,18 @@
 ---
 description: Présentation du Dynamic Chat - Documents Marketo - Documentation du produit
-title: Présentation de la conversation dynamique
+title: Présentation du Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 2%
+source-wordcount: '826'
+ht-degree: 3%
 
 ---
 
-# Présentation de la conversation dynamique {#dynamic-chat-overview}
+# Présentation du Dynamic Chat {#dynamic-chat-overview}
 
 Dynamic Chat vous permet d’exploiter une interface conviviale pour cibler à la fois les personnes et les comptes qui visitent votre site web. Collectez le contenu approprié, tel que le nom, les coordonnées et le texte libre. Les visiteurs du site peuvent également réserver des réunions avec votre équipe de vente. Les données d’activité et d’engagement des Dynamic Chat peuvent être utilisées pour ajouter des membres aux programmes Marketo et déclencher des activités cross-canal.
-
->[!NOTE]
->
->Dynamic Chat est en cours de déploiement progressif et est actuellement en disponibilité limitée. Cette page sera mise à jour avec les informations de disponibilité générale dès qu&#39;elles seront disponibles.
 
 >[!TIP]
 >
@@ -68,7 +64,7 @@ Non, il utilise uniquement des réponses prédéterminées.
 
 **Le Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**
 
-Oui. Dynamic Chat prend en charge les langues suivantes : Français, allemand, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel. En savoir plus dans la section [section ci-dessous](#changing-the-language).
+Oui. Le Dynamic Chat prend en charge les langues suivantes : français, allemand, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel. En savoir plus dans la section [section](#changing-the-language).
 
 **Prenez-vous en charge la fonctionnalité AI/NLP ?**
 
@@ -76,7 +72,7 @@ La fonctionnalité AI/NLP n’est pas prise en charge.
 
 **Comment cibler les personnes anonymes ?**
 
-Dans votre boîte de dialogue, vous devez utiliser la variable _Le courrier électronique de personne est vide_ attribut.
+Dans votre boîte de dialogue, vous devez utiliser la variable _L’adresse électronique de personne est vide_ attribut.
 
 ## Modification de la langue {#changing-the-language}
 
@@ -100,7 +96,7 @@ Pour modifier la langue de votre Dynamic Chat, procédez comme suit.
 
    >[!NOTE]
    >
-   >Il existe quelques dizaines de langues à choisir, mais Dynamic Chat ne prend en charge que les langues suivantes : allemand, anglais, français, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel.
+   >Le choix de quelques dizaines de langues n&#39;est possible que dans les langues suivantes : anglais, français, allemand, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel.
 
 Lorsque vous mettez à jour la langue, tout dans l’application elle-même change, à l’exception des mots que vous avez personnellement renseignés (par exemple, les réponses de diffusion en continu).
 
@@ -132,7 +128,7 @@ Lorsque vous mettez à jour la langue, tout dans l’application elle-même chan
  </tr>
  <tr>
   <td>URL cible par dialogue</td>
-  <td>Nombre d’URL Target pouvant être ajoutées à une seule boîte de dialogue</td>
+  <td>Nombre d’URL Target pouvant être ajoutées à un seul dialogue</td>
   <td>20</td>
  </tr>
  <tr>
@@ -161,7 +157,7 @@ Lorsque vous mettez à jour la langue, tout dans l’application elle-même chan
   <td>90 jours</td>
  </tr>
  <tr>
-  <td>Période de rétention de l’activité d’objectif</td>
+  <td>Période de conservation de l’activité de l’objectif</td>
   <td>Durée pendant laquelle les données d’activité d’objectif sont conservées</td>
   <td>24 mois</td>
  </tr>
@@ -172,7 +168,7 @@ Lorsque vous mettez à jour la langue, tout dans l’application elle-même chan
  </tr>
  <tr>
   <td>Interaction avec la période de rétention de l’activité de dialogue</td>
-  <td>La durée d’interaction avec les données d’activité de dialogue est conservée.</td>
+  <td>La durée d’interaction avec les données d’activité Dialogue est conservée</td>
   <td>90 jours</td>
  </tr>
  <tr>
