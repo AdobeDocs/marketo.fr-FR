@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: 0dce393742df841af88b71614b55c4946c081814
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '902'
 ht-degree: 6%
 
 ---
@@ -41,8 +41,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
   <tr> 
    <td><strong>Utilisé par colonne de comptage pour Design Studio Assets</strong>: la bibliothèque de référence des programmes du Marketo Engage permet aux utilisateurs d’importer des programmes "d’exemple" et d’autres ressources qui représentent les bonnes pratiques recommandées par Adobe. Notre équipe de gestion des produits a entièrement mis à jour la bibliothèque, fournissant ainsi des outils plus précieux pour ceux qui souhaitent démarrer rapidement leur programme.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>s/o</td>
   </tr>
    <tr> 
    <td> </td> 
@@ -51,8 +51,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
    <tr> 
    <td><strong>Utilisé par l’onglet Améliorations pour les ressources de Design Studio</strong>: l’onglet Utilisé par l’amélioration fournit une vue plus détaillée du type et du nom d’une ressource, ainsi que de son emplacement d’utilisation. Cela s’applique aux détails des emails et aux détails des images et des fichiers.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>s/o</td>
   </tr>
    <tr> 
    <td> </td> 
