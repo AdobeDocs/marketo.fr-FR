@@ -1,11 +1,11 @@
 ---
-description: Création d’un webinaire interactif - Documents Marketo - Documentation du produit
+description: Créer un webinaire interactif - Documents Marketo - Documentation du produit
 title: Création d’un webinaire interactif
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0ee9bd4bc9639c452219f9445a88b552617a785f
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Créez un webinaire interactif en quelques étapes simples.
 
    ![](assets/create-an-interactive-webinar-1.png)
 
-1. Cliquez avec le bouton droit de la souris sur le dossier de votre choix, puis sélectionnez **Nouveau programme**.
+1. Cliquez avec le bouton droit de la souris sur le dossier visé et sélectionnez **Nouveau programme**.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
@@ -26,9 +26,13 @@ Créez un webinaire interactif en quelques étapes simples.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Cliquez sur la liste déroulante Canal et sélectionnez **Webinaire**.
+1. Cliquez sur la liste déroulante Canal et sélectionnez un canal qui possède _Événement avec le webinaire_ dans sa colonne &quot;S’applique à&quot;. Dans cet exemple, nous choisissons **Webinaire**.
 
    ![](assets/create-an-interactive-webinar-4.png)
+
+   >[!NOTE]
+   >
+   >Pour savoir à quels canaux s’appliquent _Événement avec le webinaire_, accédez à **Administration** > **Balises**. La colonne &quot;S’applique à&quot; doit être la colonne centrale. En savoir plus sur &quot;S’applique à&quot; à l’étape 5 de [cet article](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 1. Choisir **Webinaires interactifs** et cliquez sur **Suivant**.
 
@@ -46,6 +50,6 @@ Créez un webinaire interactif en quelques étapes simples.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Votre webinaire interactif est créé. Il est maintenant temps de [la conception](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+Votre webinaire interactif est créé. Il est maintenant temps de [la conception](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 ![](assets/create-an-interactive-webinar-8.png)
