@@ -3,22 +3,26 @@ description: Liste de contrôle de l’administrateur d’instance hérité - Do
 title: Liste de contrôle de l’administrateur d’instance hérité
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '1444'
-ht-degree: 4%
+source-wordcount: '1566'
+ht-degree: 3%
 
 ---
 
 # Instance héritée : liste de contrôle de section d’administration {#inherited-instance-admin-section-checklist}
 
-Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au bas de chaque article) ont été mises en place avec les commentaires des champions Marketo pour vous aider à vous mettre rapidement au courant. Vous pouvez également télécharger les listes de contrôle et suivre votre progression.
+Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au bas de chaque article) ont été mises en place par Adobe Professional Services avec la participation des champions Marketo pour vous aider à vous mettre rapidement au courant. Vous pouvez également télécharger les listes de contrôle et suivre votre progression.
 
 >[!TIP]
 >
 >Si vous êtes un nouvel utilisateur Marketo Engage et que vous ne connaissez pas beaucoup des termes, consultez la section [Glossaire du Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
+
+>[!NOTE]
+>
+>Cela s’applique uniquement aux abonnements intégrés à [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} dans Marketo Engage > Admin > Utilisateurs et rôles.
 
 <table> 
  <tbody> 
@@ -28,23 +32,22 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
   </tr> 
   <tr> 
    <td>Abonnement</td> 
-   <td><li>Votre abonnement Marketo Engage est-il activé ? <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe Identity Management System</a> (Adobe IMS) pour le moment ? 
-<br/>     Si tel est le cas, votre "administrateur système Adobe Admin Console" vous a-t-il attribué un rôle "Administrateur de produit Adobe Admin Console" ? Si vous ne savez pas qui dans votre organisation dispose des privilèges d’administrateur dans la console, contactez <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe de l’assistance clientèle</a>.  
-<br/>     Si ce n’est pas le cas, vous procéderez à la <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">rôles utilisateur et expérience d’autorisations hérités</a> dans Marketo Engage &gt; Admin &gt; Utilisateurs et rôles jusqu’au renouvellement de votre abonnement.</li></td>
+   <td><li>Votre abonnement de Marketo Engage a-t-il été migré vers <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> et pourtant ? 
+<br/>     Si tel est le cas, votre "administrateur système Adobe Admin Console" vous a-t-il attribué un rôle "Administrateur de produit Adobe Admin Console" ? Si vous ne savez pas qui dans votre organisation dispose des privilèges d’administrateur dans la console, contactez <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe de l’assistance clientèle</a>.</li>
+<li>Avez-vous accepté l’invitation "Administrateur de produit Marketo Engage" ? L’e-mail est envoyé lorsque le rôle est attribué dans Adobe Admin Console.
+<br/>     Si ce n’est pas le cas, recherchez le <a href="//help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">courrier électronique de bienvenue</a> dans votre boîte de réception et acceptez l’invitation à activer votre Adobe ID.</li></td>
   </tr>
   <tr> 
    <td>Profil produit</td> 
-   <td>(Abonnements sur Adobe IMS <b>only</b>)
-<p>
-<li>Vous a-t-on attribué un rôle "Administrateur de produit Marketo Engage" dans Marketo Engage/Admin/Utilisateurs et rôles ?</li> 
-<li>Avez-vous affecté le Marketo Engage à tous les profils de produit des utilisateurs appropriés dans Adobe Admin Console ?
-<br/>     Si ce n’est pas le cas, veillez à affecter le Marketo Engage à son profil de produit Adobe IMS avant d’affecter leurs rôles dans Marketo Engage/Admin/Utilisateurs et rôles.</li>
-<p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Si votre abonnement compte plus de 75 utilisateurs et a simplement été migré vers Adobe IMS, vous avez la possibilité de sélectionner des utilisateurs à migrer par lots et d’administrer leur identifiant d’Adobe en groupes ou en une seule fois. En savoir plus sur ce à quoi vous attendre <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Jour de migration Adobe IMS</a>.</td>
+   <td><li>Tous les utilisateurs appropriés sont-ils affectés au profil de produit du Marketo Engage dans Adobe Admin Console ?
+<br/>     Si ce n’est pas le cas, veillez à <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">ajout et/ou suppression d’utilisateurs</a> à partir des profils de produits Marketo Engage dans Adobe Admin Console. Vous ne pouvez pas affecter les rôles des utilisateurs dans Marketo Engage &gt; Admin &gt; Utilisateurs et rôles s’ils sont ajoutés à un profil de produit.</li>
+<p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Si un utilisateur indésirable est ajouté à plusieurs profils de produit, vous devez le supprimer de tous les profils de produit. Sinon, ils auront toujours accès au Marketo Engage.</td>
   </tr>
   <tr> 
    <td>API User Management</td> 
-   <td><li>Votre abonnement a-t-il utilisé une quelconque API de gestion des utilisateurs de Marketo ?
-<br/>     Si tel est le cas, vous devrez utiliser <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">API Adobe IMS</a> pour inviter, mettre à jour et supprimer des utilisateurs à venir.</li></td>
+   <td><li>Votre abonnement utilise-t-il des API de gestion des utilisateurs de Marketo ?
+<br/>     Si tel est le cas, vous devrez utiliser <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">API Adobe IMS</a> pour inviter, mettre à jour et supprimer des utilisateurs à venir.</li>
+<p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : "Gestion des rôles" reste dans Marketo Engage et les API de gestion des utilisateurs de Marketo peuvent toujours être utilisées pour la gestion des rôles.</td>
   </tr>
  </tbody> 
 </table>
@@ -59,8 +62,10 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
   </tr> 
   <tr> 
    <td>Utilisateurs</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Nombre d’utilisateurs</a> y en a-t-il ?</li>
-<li>Certains utilisateurs doivent-ils être supprimés ?</li>
+   <td><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Si votre abonnement figure déjà sur Adobe IMS, passez à l’examen suivant de la gestion des utilisateurs dans Adobe Admin Console. Sinon, accédez à Admin &gt; Utilisateurs et rôles &gt; Utilisateurs dans Marketo Engage.
+   <p>
+   <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Nombre d’utilisateurs</a> y en a-t-il ?</li>
+<li>Certains utilisateurs doivent-ils être <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">supprimé</a>?</li>
 <li>Votre entreprise a-t-elle des politiques concernant la suppression d’utilisateurs ?</li> 
 <li>Nombre d’utilisateurs <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Autorisations d’administrateur</a>?</li>
 <li>L’un de ces utilisateurs doit-il être remplacé par <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">d’autres rôles ?</a></li> 
@@ -68,12 +73,13 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
   </tr>
   <tr> 
    <td>Rôles</td> 
-   <td><li>Combien y a-t-il de rôles ?</li>  
+   <td><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Que vous utilisiez Marketo avec ou non l’identité de l’Adobe, passez en revue les autorisations de rôle dans Marketo Engage sous Admin &gt; Utilisateurs et rôles &gt; Rôles.
+   <p><li>Combien y a-t-il de rôles ?</li>  
 <li>What <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">autorisations/accès</a> chaque rôle a-t-il sa place ? Y a-t-il des ajustements ?</li>
 <li>Combien d’utilisateurs y a-t-il par rôle ?</li>
 <li>À quelle fréquence les utilisateurs <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">connexion</a>?</li>
 <li>Chaque utilisateur de l’API possède-t-il une <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">rôle d'utilisateur propre</a>? Si ce n’est pas le cas, envisagez de mettre en oeuvre cette méthode pour faciliter le dépannage.</li> 
-<li>Les rôles utilisateur et les autorisations correspondent-ils aux données de votre entreprise ? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">politiques de confidentialité</a>?</li></td>
+<li>Vos rôles utilisateur et autorisations sont-ils conformes aux politiques de confidentialité des données de votre entreprise en ce qui concerne la conformité aux réglementations (par exemple, <a href="https://gdpr-info.eu/" target="_blank">RGPD</a>) ? Données d’entreprise <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">politiques de confidentialité</a> permettre aux utilisateurs de télécharger et de partager des données utilisateur de Marketo Engage ? Est-il nécessaire d'accorder des autorisations ?</li></td>
   </tr>
   <tr> 
    <td>Utilisateurs de l’assistance</td> 
