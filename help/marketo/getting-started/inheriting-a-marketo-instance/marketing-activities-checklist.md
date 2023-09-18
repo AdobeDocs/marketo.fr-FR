@@ -3,7 +3,7 @@ description: Liste de contrôle des activités marketing d’instance héritées
 title: Liste de contrôle des activités marketing d’instance héritées
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 2%
@@ -16,11 +16,11 @@ Organisez correctement votre section Activités marketing pour aider d’autres 
 
 ## Organisation {#organization}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Zone</th> 
-   <th style="width:80%">Objectif de la révision</th>
+   <th style="width:30%">Zone</th> 
+   <th style="width:70%">Objectif de la révision</th>
   </tr> 
   <tr> 
    <td>Conventions de dénomination</td> 
@@ -61,12 +61,12 @@ Organisez correctement votre section Activités marketing pour aider d’autres 
 
 ## Ressources {#assets}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
-  <tr> 
-   <th style="width:20%">Zone</th> 
-   <th style="width:80%">Objectif de la révision</th>
-  </tr> 
+  <tr>
+   <th style="width:30%">Zone</th>
+   <th style="width:70%">Objectif de la révision</th>
+  </tr>
   <tr> 
    <td>Jetons</td> 
    <td><li>Are <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">jetons</a> est-il utilisé dans les types de programmes les plus couramment utilisés ? 
@@ -114,12 +114,12 @@ Organisez correctement votre section Activités marketing pour aider d’autres 
 
 ## Programmes opérationnels {#operational-programs}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Zone</th> 
-   <th style="width:80%">Objectif de la révision</th>
-  </tr> 
+   <th style="width:30%">Zone</th> 
+   <th style="width:70%">Objectif de la révision</th>
+  </tr>
   <tr> 
    <td>Notation de personne</td> 
    <td><li>Avez-vous une centralisation <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">notation par personne</a> le programme en place ?</li>

@@ -3,16 +3,16 @@ description: Document d’instance hérité Votre configuration - Documents Mark
 title: Document d’instance hérité de votre configuration
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 2%
+source-wordcount: '310'
+ht-degree: 1%
 
 ---
 
 # Instance héritée : documenter votre configuration {#inherited-instance-document-your-setup}
 
-Maintenant que vous avez appris les domaines de produit clés à contrôler lors de l’héritage d’une instance établie, l’étape suivante consiste à créer/mettre à jour la documentation sur la configuration de votre instance et la pile technique. Que vous le créiez via une feuille de calcul ou une application de gestion de projet, votre documentation est une excellente ressource pour suivre l’avancement et enregistrer les détails.
+Maintenant que vous avez appris les domaines de produit clés à contrôler lors de l’héritage d’une instance établie, l’étape suivante consiste à créer/mettre à jour la documentation sur la configuration de votre instance et la pile technique. Que ce soit par le biais d’une feuille de calcul ou d’une application de gestion de projet, votre documentation sera une excellente ressource pour suivre l’avancement et enregistrer les détails, ainsi que pour préserver la structure et la durabilité de votre instance.
 
 ## Données {#data}
 
@@ -51,11 +51,12 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
   <tr> 
    <td>Organisation</td> 
     <td><li>Disposez-vous d’une documentation robuste sur l’organisation de votre instance de Marketo Engage et pourquoi ?</li>
-   <p><p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Action Item : créez une documentation qui contient la structure de dossiers, la convention d’affectation des noms et les canaux utilisés dans votre instance.</td>
+   <p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Action Item : créez une documentation qui contient la structure de dossiers, la convention d’affectation des noms et les canaux utilisés dans votre instance.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
-    <td><li>Disposez-vous d’un journal des modifications dans lequel vous pouvez documenter ce qui change dans votre instance et pourquoi ?</li></td>
+    <td><li>Disposez-vous d’un journal des modifications dans lequel vous pouvez documenter ce qui change dans votre instance et pourquoi ?</li>
+    <p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Action Item : téléchargez cet exemple pour créer un fichier de modifications et des modifications de document dans la configuration de votre instance.</td>
   </tr>
   <tr> 
    <td>Livres</td> 
@@ -65,7 +66,8 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
   <tr> 
    <td>Conversations avec les parties prenantes internes</td> 
     <td><li>Quelles sont les attentes internes de l’équipe marketing de votre entreprise ? Est-ce qu'ils correspondent à ce que le Marketo Engage diffuse ?</li>
-   <li>Quelles équipes sont les parties prenantes de votre instance de Marketo Engage ?</li></td>
+   <li>Quelles équipes sont les parties prenantes de votre instance de Marketo Engage ?</li>
+   <p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Action Item : Téléchargez ceci <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Modèle de guide de communication interne des parties prenantes</a> pour documenter les objectifs et les attentes de vos principaux intervenants.</td>
   </tr>
  </tbody> 
 </table>

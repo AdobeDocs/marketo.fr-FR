@@ -3,10 +3,10 @@ description: Liste de contrôle de l’instance héritée de Design Studio - Doc
 title: Liste de contrôle de Inherited Instance Design Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 5%
+source-wordcount: '553'
+ht-degree: 4%
 
 ---
 
@@ -55,7 +55,11 @@ La structuration des modèles et la création de formulaires, fragments de code 
 <li>La plupart des programmes utilisent-ils des formulaires globaux ou locaux ?</li>
 <li>Tous les formulaires collectent-ils les données appropriées pour le marketing et les ventes ?</li>
 <li>Les valeurs masquées sont-elles correctement utilisées ?</li>
-<li>Des formulaires Marketo Engage sont-ils utilisés sur votre site web (et non sur les landing pages des Marketo Engage) ?</li></td>
+<li>Des formulaires Marketo Engage sont-ils utilisés sur des pages d’entrée non Marketo Engage ? Comment sont-ils référencés ?</li>
+<p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : mettez à jour les pages dans lesquelles vous incorporez des formulaires Marketo Engage avec le nouveau code incorporé introduit (nécessite des landing pages sécurisées).
+<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+</td>
   </tr>
   <tr> 
    <td>Normalisation des données</td> 
