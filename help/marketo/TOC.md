@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
 workflow-type: tm+mt
-source-wordcount: '9107'
+source-wordcount: '9111'
 ht-degree: 5%
 
 ---
@@ -291,7 +291,7 @@ ht-degree: 5%
             + [Modifier évaluation](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)
             + [Convertir individu](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
             + [Suppression d’une étape de flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
-            + [Supprimer individu](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
+            + [Supprimer l’individu](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [Lancer la campagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
             + [Service d’étape de flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
             + [Créditer le référent](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
@@ -328,7 +328,7 @@ ht-degree: 5%
             + [Ajouter à la campagne SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
             + [Modifier détenteur](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
             + [Modifier statut dans une campagne SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)
-            + [Créer tâche](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
+            + [Créer une tâche](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
             + [Supprimer individu de SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md)
             + [Supprimer de la campagne SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)
             + [Synchroniser individu dans SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
@@ -707,6 +707,7 @@ ht-degree: 5%
             + [Gestion des utilisateurs et des licences](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [Création d’un webinaire interactif](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Conception de webinaires interactifs](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Promotion d’un webinaire interactif](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [Modification ou suppression d’un webinaire interactif](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [Workflows des événements](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}
@@ -982,7 +983,7 @@ ht-degree: 5%
             + [Publication d’un tirage](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Sélection des gagnants de tirage](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + Marketing par e-mail {#email-marketing}
-      + Assurez la livraison {#deliverability}
+      + Livrabilité {#deliverability}
          + [Désabonnement durable](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Email Deliverability Power Pack : importation d’une liste de contrôle](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Erreurs hard et soft dans les courriers électroniques](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -1137,7 +1138,7 @@ ht-degree: 5%
             + [Ajouter votre signature de courrier électronique](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
             + [Jamais reçu un courrier électronique de vérification](product-docs/marketo-sales-connect/getting-started/email-settings/never-received-a-verification-email.md)
             + [Vérifier votre e-mail](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
-      + Admin {#admin}
+      + Administrateur {#admin}
          + [Autres administrateurs](product-docs/marketo-sales-connect/admin/additional-admins.md)
          + [Domaines bloqués](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Verrouillage de contenu](product-docs/marketo-sales-connect/admin/content-lockdown.md)
@@ -1280,7 +1281,7 @@ ht-degree: 5%
          + [Rendre une campagne visible pour les utilisateurs de Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossaire des activités de vente](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Déclencheurs et filtres d’activité de vente](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + Personne {#people}
+      + Personnes {#people}
          + [Vue Détails de la personne](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Conformité à la norme commerciale et au RGPD](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Gestion des contacts {#managing-contacts}
@@ -1344,7 +1345,7 @@ ht-degree: 5%
                + [Vérifier votre e-mail](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [Ajouter ou mettre à jour votre signature de courrier électronique](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Ajouter une identité](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
-         + Admin {#admin}
+         + Administrateur {#admin}
             + [Connexion automatique à partir de Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [Domaines bloqués](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Connexion d’un nouvel administrateur à Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1450,7 +1451,7 @@ ht-degree: 5%
             + [Déclencheurs et filtres d’activité de vente](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossaire de l’activité d’Insight sur les ventes](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Configuration de votre connexion Marketo](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
-         + Personne {#people}
+         + Personnes {#people}
             + [Vue Détails de la personne](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Actions d’aperçu des ventes et conformité au RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + Gestion des contacts {#managing-contacts}
@@ -1587,7 +1588,7 @@ ht-degree: 5%
       + [Définition des objectifs d’événement](product-docs/marketo-sky/setting-event-goals.md)
       + [Comprendre le suivi des objectifs et les inscriptions prévues](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + Mobile Marketing {#mobile-marketing}
-      + Admin {#admin}
+      + Administrateur {#admin}
          + [Ajout d’une application mobile](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [Ajout de vidéos en tant que service LaunchPoint](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
          + [Authentification de la sécurité d’accès mobile](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
@@ -1832,7 +1833,7 @@ ht-degree: 5%
          + [Configuration de Account Insight](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Présentation du module externe Insight du compte](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Invitation d’utilisateurs à accéder à Insight de compte](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Cible {#target}
+      + Objectif {#target}
          + Comptes nommés {#named-accounts}
             + [Présentation du compte nommé](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Importer les comptes nommés](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)

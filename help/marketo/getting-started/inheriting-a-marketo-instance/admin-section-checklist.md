@@ -3,9 +3,9 @@ description: Liste de contrôle de l’administrateur d’instance hérité - Do
 title: Liste de contrôle de l’administrateur d’instance hérité
 hide: true
 hidefromtoc: true
-source-git-commit: ea0e8368e83168dd3f14f815f387f8dead0fff11
+source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
 workflow-type: tm+mt
-source-wordcount: '1560'
+source-wordcount: '1564'
 ht-degree: 3%
 
 ---
@@ -31,7 +31,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>Abonnement</td> 
+   <td>Administration des produits d’abonnement et de Marketo Engage</td> 
    <td><li>Votre abonnement de Marketo Engage a-t-il été migré vers <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> et pourtant ? 
 <br/>     Si tel est le cas, votre "administrateur système Adobe Admin Console" vous a-t-il attribué un rôle "Administrateur de produit Adobe Admin Console" ? Si vous ne savez pas qui dans votre organisation dispose des privilèges d’administrateur dans la console, contactez <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe de l’assistance clientèle</a>.</li>
 <li>Avez-vous accepté l’invitation "Administrateur de produit Marketo Engage" ? L’e-mail est envoyé lorsque le rôle est attribué dans Adobe Admin Console.
