@@ -3,9 +3,9 @@ description: Liste de contrôle de l’administrateur d’instance hérité - Do
 title: Liste de contrôle de l’administrateur d’instance hérité
 hide: true
 hidefromtoc: true
-source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '1564'
+source-wordcount: '1566'
 ht-degree: 3%
 
 ---
@@ -147,7 +147,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>Paramètres de la campagne intelligente</td> 
+   <td>Campagnes intelligentes</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Avez-vous une restriction ?</a> sur la taille d’une campagne dynamique ? 
    <br/>     Si ce n’est pas le cas, envisagez d’en ajouter une. Nous vous recommandons de limiter les limites de la campagne dynamique à 25 % de votre base de données afin d’éviter toute trop de communication ou de traitement de l’ensemble de votre base de données dans les workflows. Cela protège non seulement votre marque, mais également les performances de votre instance.</li></td>
   </tr>
@@ -264,7 +264,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
   </tr>
   <tr> 
    <td>Munchkin</td> 
-   <td><li>Est-ce que <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Code de suivi Munchkin</a> sur votre site web (pas dans Marketo) ?</li>
+   <td><li>Est-ce que <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Code de suivi Munchkin</a> sur votre site web (et non une page d’entrée de Marketo Engage) ?</li>
 <li>Est un <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Ne pas effectuer de suivi</a> Demande de navigateur activée ?</li>
 <li>Est-ce que <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">API Munchkin</a> configuré ? 
 <p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : si vous ne disposez pas de documentation sur l’emplacement du code de la serviette sur votre site web, vous pouvez afficher toutes les URL en créant un <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport Activité de la page web</a>.</li></td>
