@@ -4,7 +4,7 @@ description: Calendrier des versions - Documents Marketo - Documentation sur le 
 title: Calendrier des versions
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 52ef77889e307ecba514bcfd22066c45b1812306
+source-git-commit: 9f6781bce4d279ae65b2aa9011c9ca709725953f
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 11%
@@ -63,12 +63,12 @@ _Les dates de publication peuvent être modifiées._
    <td>Expédié</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">23 septembre</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">23 septembre</a></td>
    <td>8 septembre 2023</td>
    <td>En cours</td>
   </tr>
   <tr>
-   <td>23 octobre</td>
+   <td><a href="/help/marketo/release-notes/current.md">23 octobre</a></td>
    <td>13 octobre 2023</td>
    <td>À la planification</td>
   </tr>
