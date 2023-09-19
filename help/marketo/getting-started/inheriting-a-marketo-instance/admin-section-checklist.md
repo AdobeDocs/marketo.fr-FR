@@ -3,7 +3,7 @@ description: Liste de contrôle de l’administrateur d’instance hérité - Do
 title: Liste de contrôle de l’administrateur d’instance hérité
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 3%
@@ -12,7 +12,7 @@ ht-degree: 3%
 
 # Instance héritée : liste de contrôle de section d’administration {#inherited-instance-admin-section-checklist}
 
-Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au bas de chaque article) ont été mises en place par Adobe Professional Services avec la participation des champions Marketo pour vous aider à vous mettre rapidement au courant. Vous pouvez également télécharger les listes de contrôle et suivre votre progression.
+Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au bas de chaque article) ont été mises en place par Adobe Professional Services avec la participation des champions Marketo pour vous aider à vous mettre rapidement au courant. Vous pouvez également [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) et suivez vos progrès.
 
 >[!TIP]
 >

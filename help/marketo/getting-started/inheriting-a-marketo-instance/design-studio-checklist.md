@@ -3,7 +3,7 @@ description: Liste de contrôle de l’instance héritée de Design Studio - Doc
 title: Liste de contrôle de Inherited Instance Design Studio
 hide: true
 hidefromtoc: true
-source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 4%
@@ -30,7 +30,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
   </tr>
   <tr> 
    <td>Modèles</td> 
-   <td><li>Combien <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Modèles de page d’entrée</a> y en a-t-il ? Sont-elles utilisées ?</li></td>
+   <td><li>Combien <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">Modèles de page d’entrée</a> y en a-t-il ? Sont-elles utilisées ?</li></td>
   </tr>
   <tr> 
    <td>Groupes de test</td> 
@@ -84,7 +84,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
 <li>Les valeurs masquées sont-elles correctement utilisées ?</li>
 <li>Des formulaires Marketo Engage sont-ils utilisés sur des pages d’entrée non Marketo Engage ? Comment sont-ils référencés ?</li>
 <p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : mettez à jour les pages dans lesquelles vous incorporez des formulaires Marketo Engage avec le nouveau code incorporé introduit (nécessite des landing pages sécurisées).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="miniature de code"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="miniature de code"></a>
 </td>
   </tr>
   <tr> 

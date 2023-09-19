@@ -3,9 +3,9 @@ description: Découvrez comment optimiser et mettre à l’échelle une instance
 title: Démarrage rapide d’une instance de Marketo Engage héritée
 hide: true
 hidefromtoc: true
-source-git-commit: 2f0f92fdd439d5119d577096c5bf6c034bcd2be5
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '459'
 ht-degree: 1%
 
 ---
@@ -21,8 +21,6 @@ Assurez-vous d’être correctement configuré dans la communauté Marketing Nat
 * [**Configuration de votre profil**](https://nation.marketo.com/){target="_blank"}.
 
 * Consultez la section [**Directives de la communauté marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
-
-* Cliquez sur **[!UICONTROL Vos lieux]** sur votre profil de la communauté Marketo Nation pour consulter la page de compte de votre entreprise.
 
 * Découvrez comment [**Soumettre un cas d’assistance**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
@@ -46,7 +44,7 @@ Notre équipe de communauté fusionnera vos profils de communauté dans 4 à 6 j
 
 Adobe, avec la contribution des champions Marketo, a mis en place plusieurs listes de contrôle d’audit d’instance héritée de Marketo Engage pour vous aider à vous mettre rapidement au courant. Découvrez comment parcourir les différentes zones de Marketo Engage et effectuer les différentes tâches requises pour effectuer un audit, avec des liens vers la documentation d’aide recommandée incluse.
 
-Vous pouvez également télécharger les listes de contrôle dans un formulaire de feuille de calcul.
+Vous pouvez également [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) dans un formulaire de feuille de calcul.
 
 * [Section d’administration](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
