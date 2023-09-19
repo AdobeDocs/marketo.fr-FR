@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
 workflow-type: tm+mt
-source-wordcount: '9114'
+source-wordcount: '9098'
 ht-degree: 5%
 
 ---
@@ -37,17 +37,14 @@ ht-degree: 5%
       + [Mettre à jour les données de personne](getting-started/quick-wins/update-person-data.md)
       + [Rediriger une page de destination](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatisation d’une alerte pour les personnes potentiellement en double](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
-   + Héritage d’une instance Marketo {#inheriting-a-marketo-instance}
-      + [Nouvelle présentation de l’héritage](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
-      + [Aide! J’ai hérité d’une instance Marketo existante](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
-      + [Éléments à désactiver](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
-      + [Révision des choses : compétences principales](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
-      + [Comment obtenir de l’aide](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [Instance héritée : liste de contrôle de section d’administration](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
-      + [Instance héritée : liste de contrôle de base de données](getting-started/inheriting-a-marketo-instance/database-checklist.md)
-      + [Instance héritée : liste de contrôle des activités marketing](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
-      + [Instance héritée : liste de contrôle de Design Studio](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
-      + [Instance héritée : documenter votre configuration](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+   + Héritage d’une instance de Marketo Engage {#inheriting-a-marketo-engage-instance}
+      + [Où commencer](getting-started/inheriting-a-marketo-engage-instance/new-inherit-overview.md)
+      + [Instance héritée : liste de contrôle de section d’administration](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+      + [Instance héritée : liste de contrôle de base de données](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
+      + [Instance héritée : liste de contrôle des activités marketing](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+      + [Instance héritée : liste de contrôle de Design Studio](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [Instance héritée : documenter votre configuration](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+      + [Examen des compétences principales](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Documents sur les produits {#product-docs}
    + Applications supplémentaires {#additional-apps}
       + SEO {#seo}
