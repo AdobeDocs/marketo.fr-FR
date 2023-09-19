@@ -2,7 +2,7 @@
 description: Liste de contrôle de la base de données des instances héritées - Documents Marketo - Documentation du produit
 title: Liste de contrôle de la base de données des instances héritées
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 7%
@@ -11,7 +11,7 @@ ht-degree: 7%
 
 # Instance héritée : liste de contrôle de base de données {#inherited-instance-database-checklist}
 
-Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d’un marketing et de sources d’acquisition par les principales personnes dans votre abonnement. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivez vos progrès.
+Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d’un marketing et de sources d’acquisition par les principales personnes dans votre abonnement. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivez vos progrès.
 
 ## Listes intelligentes du système {#system-smart-lists}
 
@@ -117,6 +117,6 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
 
 <br> 
 
-[◄ Audit d’une instance héritée : Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+[◄ Audit d’une instance héritée : Admin](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-[Audit d’une instance héritée : activités marketing ►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[Audit d’une instance héritée : activités marketing ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)

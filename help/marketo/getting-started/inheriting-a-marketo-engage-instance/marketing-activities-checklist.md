@@ -2,7 +2,7 @@
 description: Liste de contrôle des activités marketing d’instance héritées - Documents Marketo - Documentation du produit
 title: Liste de contrôle des activités marketing d’instance héritées
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 2%
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 # Instance héritée : liste de contrôle des activités marketing {#inherited-instance-marketing-activities-checklist}
 
-Organisez correctement votre section Activités marketing pour aider d’autres personnes à trouver et gérer divers programmes au sein de votre instance de Marketo Engage et pour vous assurer que les personnes sont traitées pour passer de Marketing à Ventes. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivez vos progrès.
+Organisez correctement votre section Activités marketing pour aider d’autres personnes à trouver et gérer divers programmes au sein de votre instance de Marketo Engage et pour vous assurer que les personnes sont traitées pour passer de Marketing à Ventes. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivez vos progrès.
 
 ## Organisation {#organization}
 
@@ -167,6 +167,6 @@ Organisez correctement votre section Activités marketing pour aider d’autres 
 
 <br> 
 
-[◄ Audit d’une instance héritée : base de données](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[◄ Audit d’une instance héritée : base de données](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-[Audit d’une instance héritée : Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[Audit d’une instance héritée : Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

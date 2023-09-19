@@ -2,7 +2,7 @@
 description: Document d’instance hérité Votre configuration - Documents Marketo - Documentation du produit
 title: Document d’instance hérité de votre configuration
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 1%
@@ -71,4 +71,4 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
  </tbody> 
 </table>
 
-[◄ Audit d’une instance héritée : Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[◄ Audit d’une instance héritée : Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

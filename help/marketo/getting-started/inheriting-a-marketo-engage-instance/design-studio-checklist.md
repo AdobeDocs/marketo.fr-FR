@@ -2,7 +2,7 @@
 description: Liste de contrôle de l’instance héritée de Design Studio - Documents Marketo - Documentation du produit
 title: Liste de contrôle de Inherited Instance Design Studio
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 4%
@@ -11,7 +11,7 @@ ht-degree: 4%
 
 # Instance héritée : liste de contrôle de Design Studio {#inherited-instance-design-studio-checklist}
 
-La structuration des modèles et la création de formulaires, fragments de code et images et fichiers globaux vous permettent de minimiser les erreurs de données et de rationaliser le workflow de la création de votre programme. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivez vos progrès.
+La structuration des modèles et la création de formulaires, fragments de code et images et fichiers globaux vous permettent de minimiser les erreurs de données et de rationaliser le workflow de la création de votre programme. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivez vos progrès.
 
 ## Pages de destination {#landing-pages}
 
@@ -83,7 +83,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
 <li>Les valeurs masquées sont-elles correctement utilisées ?</li>
 <li>Des formulaires Marketo Engage sont-ils utilisés sur des pages d’entrée non Marketo Engage ? Comment sont-ils référencés ?</li>
 <p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : mettez à jour les pages dans lesquelles vous incorporez des formulaires Marketo Engage avec le nouveau code incorporé introduit (nécessite des landing pages sécurisées).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="miniature de code"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="miniature de code"></a>
 </td>
   </tr>
   <tr> 
@@ -168,6 +168,6 @@ La structuration des modèles et la création de formulaires, fragments de code 
 
 <br> 
 
-[◄ Audit d’une instance héritée : activités marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[◄ Audit d’une instance héritée : activités marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-[Audit d’une instance héritée : documenter la configuration de votre instance héritée ►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+[Audit d’une instance héritée : documenter la configuration de votre instance héritée ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)

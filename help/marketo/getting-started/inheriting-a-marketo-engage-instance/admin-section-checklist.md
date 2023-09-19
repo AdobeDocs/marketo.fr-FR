@@ -2,7 +2,7 @@
 description: Liste de contrôle de l’administrateur d’instance hérité - Documents Marketo - Documentation du produit
 title: Liste de contrôle de l’administrateur d’instance hérité
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 3%
@@ -11,7 +11,7 @@ ht-degree: 3%
 
 # Instance héritée : liste de contrôle de section d’administration {#inherited-instance-admin-section-checklist}
 
-Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au bas de chaque article) ont été mises en place par Adobe Professional Services avec la participation des champions Marketo pour vous aider à vous mettre rapidement au courant. Vous pouvez également [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivez vos progrès.
+Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au bas de chaque article) ont été mises en place par Adobe Professional Services avec la participation des champions Marketo pour vous aider à vous mettre rapidement au courant. Vous pouvez également [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivez vos progrès.
 
 >[!TIP]
 >
@@ -364,4 +364,4 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
 
 <br> 
 
-[Audit d’une instance héritée : ► de base de données](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[Audit d’une instance héritée : ► de base de données](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
