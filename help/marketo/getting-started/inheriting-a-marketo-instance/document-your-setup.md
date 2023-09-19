@@ -3,9 +3,9 @@ description: Document d’instance hérité Votre configuration - Documents Mark
 title: Document d’instance hérité de votre configuration
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '305'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
   <tr> 
    <td>Changelog</td> 
     <td><li>Disposez-vous d’un journal des modifications dans lequel vous pouvez documenter ce qui change dans votre instance et pourquoi ?</li>
-    <p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Action Item : téléchargez cet exemple pour créer un fichier de modifications et des modifications de document dans la configuration de votre instance.</td>
+    <p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Action Item : créez un fichier de modifications et des modifications de document apportées à la configuration de votre instance.</td>
   </tr>
   <tr> 
    <td>Livres</td> 
@@ -67,7 +67,7 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
    <td>Conversations avec les parties prenantes internes</td> 
     <td><li>Quelles sont les attentes internes de l’équipe marketing de votre entreprise ? Est-ce qu'ils correspondent à ce que le Marketo Engage diffuse ?</li>
    <li>Quelles équipes sont les parties prenantes de votre instance de Marketo Engage ?</li>
-   <p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Action Item : Téléchargez ceci <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Modèle de guide de communication interne des parties prenantes</a> pour documenter les objectifs et les attentes de vos principaux intervenants.</td>
+   <p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Élément d’action : documentez les objectifs et les attentes de vos principaux intervenants et mettez-les à jour au fur et à mesure que vous archivez vos homologues tout au long de l’année.</td>
   </tr>
  </tbody> 
 </table>

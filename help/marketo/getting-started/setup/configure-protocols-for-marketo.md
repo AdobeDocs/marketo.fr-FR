@@ -4,9 +4,9 @@ description: Configuration de protocoles pour Marketo - Documents Marketo - Docu
 title: Configuration de protocoles pour Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 232895f3d07b2b076100eeaaabaea0ed7560c7b2
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1026'
+source-wordcount: '1028'
 ht-degree: 4%
 
 ---
@@ -108,7 +108,7 @@ Votre équipe marketing aurait également dû vous envoyer des informations DKIM
 
    Remplacez CompanyDomain par le domaine principal de votre site web (par exemple : &quot;`(company.com/)`&quot;) et CorpIP avec l’adresse IP de votre serveur de messagerie d’entreprise (ex. &quot;255.255.255.255&quot;). Si vous allez envoyer des emails à partir de plusieurs domaines via Marketo, votre personnel informatique doit ajouter cette ligne pour chaque domaine (sur une seule ligne).
 
-1. Pour DKIM, créez des enregistrements de ressources DNS pour chaque domaine que nous souhaitez configurer. Vous trouverez ci-dessous les enregistrements d’hôte et les valeurs TXT pour chaque domaine pour lequel nous allons signer :
+1. Pour DKIM, créez des enregistrements de ressources DNS pour chaque domaine que nous souhaitons configurer. Vous trouverez ci-dessous les enregistrements d’hôte et les valeurs TXT pour chaque domaine pour lequel nous allons signer :
 
    `[DKIMDomain1]`: l’enregistrement de l’hôte `[HostRecord1]` et la valeur TXT est `[TXTValue1]`.
 

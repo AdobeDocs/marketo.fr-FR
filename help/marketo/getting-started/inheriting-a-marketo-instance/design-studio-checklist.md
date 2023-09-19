@@ -3,7 +3,7 @@ description: Liste de contrôle de l’instance héritée de Design Studio - Doc
 title: Liste de contrôle de Inherited Instance Design Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
 source-wordcount: '553'
 ht-degree: 4%
@@ -94,6 +94,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
   <tr> 
    <td>Test d'email</td> 
    <td><li>Comment utiliser <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">test des emails</a>? Votre méthode est-elle encore efficace ?</li></td>
+  </tr>
   </tr>
   <tr> 
    <td>Confidentialité et conformité</td> 

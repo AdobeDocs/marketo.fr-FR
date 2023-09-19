@@ -3,9 +3,9 @@ description: Liste de contrôle de l’administrateur d’instance hérité - Do
 title: Liste de contrôle de l’administrateur d’instance hérité
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1592'
 ht-degree: 3%
 
 ---
@@ -231,6 +231,21 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
    <td> objets  personnalisés</td> 
    <td><li>Combien <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">objet personnalisé</a> y en a-t-il ? Comment sont-ils synchronisés avec votre CRM ?</li>
 <li>Comment ces objets personnalisés sont-ils utilisés par vos programmes et requêtes de liste ?</li></td>
+  </tr>
+ </tbody> 
+</table>
+
+## E-mail {#email}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">Zone</th>
+   <th>Objectif de la révision</th>
+  </tr> 
+  <tr> 
+   <td>Paramètres par défaut des emails</td> 
+   <td><li>Dans Admin &gt; Email, tous vos paramètres par défaut sont à jour (par exemple, <a href="/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md" target="_blank">email/libellé "expéditeur"</a>, <a href="/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md" target="_blank">domaine de marque</a>, <a href="/help/marketo/product-docs/administration/email-setup/edit-the-unsubscribe-message.md" target="_blank">message de désabonnement</a>, etc.) ?</li></td>
   </tr>
  </tbody> 
 </table>

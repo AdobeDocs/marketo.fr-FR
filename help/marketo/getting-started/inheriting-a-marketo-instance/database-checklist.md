@@ -3,10 +3,10 @@ description: Liste de contrôle de la base de données des instances héritées 
 title: Liste de contrôle de la base de données des instances héritées
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 8%
+source-wordcount: '421'
+ht-degree: 7%
 
 ---
 
@@ -74,6 +74,7 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
   <tr> 
    <td>Listes intelligentes</td> 
    <td><li>Combien <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Listes dynamiques</a> y en a-t-il ? Comment sont-ils utilisés dans cette instance ?</li>
+   <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : dans la section Base de données , les listes dynamiques de groupe sont générées par l’utilisateur et les listes dynamiques système sont des listes par défaut créées par Marketo Engage.
 <li>Les listes sont-elles organisées dans une structure de dossiers cohérente ? 
 <br/>     Si vous disposez de listes orphelines, envisagez d’organiser votre arborescence afin que les ressources soient faciles à trouver.</li>
 <p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivage</a> Les listes intelligentes qui ne sont plus nécessaires aideront à l’organisation et aux performances.</td>
@@ -91,7 +92,8 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
   </tr> 
   <tr> 
    <td>Listes statiques</td> 
-   <td><li>Combien <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Listes statiques</a> y en a-t-il ? Comment sont-ils utilisés dans cette instance ?</li></td>
+   <td><li>Combien <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Listes statiques</a> y en a-t-il ? Comment sont-ils utilisés dans cette instance ?</li>
+   <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : dans la section Base de données, les listes de groupes sont des listes statiques.</td>
   </tr>
  </tbody> 
 </table>
