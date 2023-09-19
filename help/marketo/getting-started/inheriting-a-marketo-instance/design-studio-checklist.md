@@ -3,9 +3,9 @@ description: Liste de contrôle de l’instance héritée de Design Studio - Doc
 title: Liste de contrôle de Inherited Instance Design Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
+source-git-commit: de7dcdfc580d9d6b01a55d366c895fc6c696975c
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '580'
 ht-degree: 4%
 
 ---
@@ -24,7 +24,9 @@ La structuration des modèles et la création de formulaires, fragments de code 
   </tr> 
   <tr> 
    <td>Pages de destination internationales</td> 
-   <td><li>Combien de global ? <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Pages d’entrée</a> y en a-t-il ? Sont-elles utilisées par des programmes ?</li></td>
+   <td><li>Combien de global ? <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Pages d’entrée</a> y en a-t-il ? Sont-elles utilisées par des programmes ?</li>
+   <li>Avez-vous un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centre d'inscription</a> configuré ?
+   <br/>     Si ce n'est pas le cas, envisagez d'en créer un.</li></td>
   </tr>
   <tr> 
    <td>Modèles</td> 
@@ -83,7 +85,8 @@ La structuration des modèles et la création de formulaires, fragments de code 
 <li>Des formulaires Marketo Engage sont-ils utilisés sur des pages d’entrée non Marketo Engage ? Comment sont-ils référencés ?</li>
 <p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : mettez à jour les pages dans lesquelles vous incorporez des formulaires Marketo Engage avec le nouveau code incorporé introduit (nécessite des landing pages sécurisées).
 <br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
-<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
+<blockquote><form id="mktoForm_1"></form></blockquote>
+<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
 </td>
   </tr>
   <tr> 
