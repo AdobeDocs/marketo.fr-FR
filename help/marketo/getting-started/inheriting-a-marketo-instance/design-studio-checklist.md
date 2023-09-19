@@ -3,9 +3,9 @@ description: Liste de contrôle de l’instance héritée de Design Studio - Doc
 title: Liste de contrôle de Inherited Instance Design Studio
 hide: true
 hidefromtoc: true
-source-git-commit: e859c6b7c968f93b11bbd8dc281661824236fbaf
+source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '582'
 ht-degree: 4%
 
 ---
@@ -84,9 +84,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
 <li>Les valeurs masquées sont-elles correctement utilisées ?</li>
 <li>Des formulaires Marketo Engage sont-ils utilisés sur des pages d’entrée non Marketo Engage ? Comment sont-ils référencés ?</li>
 <p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : mettez à jour les pages dans lesquelles vous incorporez des formulaires Marketo Engage avec le nouveau code incorporé introduit (nécessite des landing pages sécurisées).
-<br/><textarea style="width: 100%; max-width: 100%; height: 80px;"><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<form id="mktoForm_1"></form>
-<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></textarea>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="miniature de code"></a>
 </td>
   </tr>
   <tr> 
