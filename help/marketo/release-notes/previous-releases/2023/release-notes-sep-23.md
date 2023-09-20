@@ -2,9 +2,9 @@
 description: Notes de mise à jour - Septembre 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Septembre 2023
 feature: Release Information
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '793'
 ht-degree: 5%
 
 ---
@@ -52,16 +52,6 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td><strong>Utilisé par l’onglet Améliorations pour les ressources de Design Studio</strong>: l’onglet Utilisé par l’amélioration fournit une vue plus détaillée du type et du nom d’une ressource, ainsi que de son emplacement d’utilisation. Cela s’applique aux détails des emails et aux détails des images et des fichiers.</td> 
    <td>Expédié</td>
    <td>s/o</td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>Service d’étape de flux de formule de calcul</strong>: la formule de calcul est un service d’étape de flux basé sur la plateforme d’exécution d’E/S d’Adobe pour une utilisation avec des campagnes dynamiques de Marketo Engage. Les clients Adobe disposant d’un runtime IO peuvent déployer le service et l’installer sur leurs abonnements de Marketo Engage, ce qui leur permet de calculer des formules de type Excel dans les campagnes dynamiques Marketo.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
   </tr>
  </tbody> 
 </table>
