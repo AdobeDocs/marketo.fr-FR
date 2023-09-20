@@ -2,9 +2,9 @@
 description: Notes de mise à jour - Septembre 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Septembre 2023
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '849'
 ht-degree: 5%
 
 ---
@@ -39,7 +39,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Utilisé par colonne de comptage pour Design Studio Assets</strong>: la bibliothèque de référence des programmes du Marketo Engage permet aux utilisateurs d’importer des programmes "d’exemple" et d’autres ressources qui représentent les bonnes pratiques recommandées par Adobe. Notre équipe de gestion des produits a entièrement mis à jour la bibliothèque, fournissant ainsi des outils plus précieux pour ceux qui souhaitent démarrer rapidement leur programme.</td> 
+   <td><strong>Utilisé par colonne de comptage pour Design Studio Assets</strong>: la colonne Utilisé par le décompte pour les vues de liste dans Design Studio met en évidence le nombre de ressources utilisées. Cela s’applique aux fragments de code, aux modèles de courrier électronique, à Forms et aux modèles de page d’entrée.</td> 
    <td>Expédié</td>
    <td>s/o</td>
   </tr>

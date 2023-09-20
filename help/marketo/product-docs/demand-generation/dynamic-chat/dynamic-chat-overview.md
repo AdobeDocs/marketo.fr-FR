@@ -2,9 +2,9 @@
 description: Présentation du Dynamic Chat - Documents Marketo - Documentation du produit
 title: Présentation du Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '641'
 ht-degree: 2%
 
 ---
@@ -64,10 +64,6 @@ Le fragment de code JavaScript du Dynamic Chat peut être installé sur n’impo
 **Quelle est la durée de stockage des données pour la création de rapports ?**
 
 90 jours.
-
-**Le Dynamic Chat autorise-t-il les conversations en direct ?**
-
-Non, il utilise uniquement des réponses prédéterminées.
 
 **Le Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**
 
