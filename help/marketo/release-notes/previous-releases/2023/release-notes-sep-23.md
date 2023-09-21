@@ -2,9 +2,9 @@
 description: Notes de mise à jour - Septembre 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Septembre 2023
 feature: Release Information
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '872'
 ht-degree: 5%
 
 ---
@@ -52,6 +52,26 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td><strong>Utilisé par l’onglet Améliorations pour les ressources de Design Studio</strong>: l’onglet Utilisé par l’amélioration fournit une vue plus détaillée du type et du nom d’une ressource, ainsi que de son emplacement d’utilisation. Cela s’applique aux détails des emails et aux détails des images et des fichiers.</td> 
    <td>Expédié</td>
    <td>s/o</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Localisation des webinaires interactifs</strong>: permet d’afficher les détails du programme d’événement de webinaire interactif Marketo dans la langue souhaitée, ainsi que de choisir la langue de diffusion afin qu’elle puisse être différente de la langue de l’utilisateur Marketo qui a créé le programme d’événement.</td> 
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">FAQ sur les webinaires interactifs</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Gestion des accès utilisateur pour les webinaires interactifs</strong>: la gestion des accès utilisateur permet aux utilisateurs des webinaires interactifs d’accéder uniquement aux programmes d’événements auxquels ils sont autorisés à participer, ce qui contribue à empêcher un accès non autorisé.</td> 
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">Accès utilisateur</a></td>
   </tr>
  </tbody> 
 </table>
