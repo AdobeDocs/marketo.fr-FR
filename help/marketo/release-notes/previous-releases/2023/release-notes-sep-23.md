@@ -2,7 +2,7 @@
 description: Notes de mise à jour - Septembre 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Septembre 2023
 feature: Release Information
-source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
+source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 5%
@@ -59,7 +59,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td> </td>
   </tr>
    <tr> 
-   <td><strong>Localisation des webinaires interactifs</strong>: permet d’afficher les détails du programme d’événement de webinaire interactif Marketo dans la langue souhaitée, ainsi que de choisir la langue de diffusion afin qu’elle puisse être différente de la langue de l’utilisateur Marketo qui a créé le programme d’événement.</td> 
+   <td><strong>Localisation des webinaires interactifs</strong>: permet d’afficher les détails du programme d’événement de webinaire interactif Marketo dans la langue souhaitée, ainsi que de choisir la langue de diffusion si vous souhaitez qu’elle soit différente de la langue de l’utilisateur Marketo qui a créé le programme d’événement.</td> 
    <td>Expédié</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">FAQ sur les webinaires interactifs</a></td>
   </tr>
