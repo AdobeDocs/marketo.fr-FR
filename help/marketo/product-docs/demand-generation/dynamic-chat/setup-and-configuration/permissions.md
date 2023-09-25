@@ -4,9 +4,9 @@ title: Autorisations
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: ca158295a492edfa74c97f98196021767364f692
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 5%
 # Autorisations {#permissions}
 
 Gérez l’accès des utilisateurs aux différentes zones de Dynamic Chat.
+
+## Personnalisation des autorisations {#customize-permissions}
 
 1. Dans le [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
 
@@ -49,7 +51,7 @@ Vous pouvez désormais répéter ce processus pour toutes les autres zones de Dy
 
 ## Liste des autorisations {#list-of-permissions}
 
-Vous trouverez ci-dessous une liste de toutes les autorisations disponibles triées par zone.
+Vous trouverez ci-dessous une liste de toutes les autorisations disponibles pour chaque zone.
 
 <table>
 <thead>
@@ -73,8 +75,8 @@ Vous trouverez ci-dessous une liste de toutes les autorisations disponibles tri�
     <td><li>Boîte de réception de l’agent(e)</li>
     <li>Afficher mes conversations</li>
     <li>Afficher toutes les conversations</li>
-    <li>Afficher le résumé de la conversation<b>*</b></li>
-    <li>Affichage des réponses assistées<b>*</b></li></td>
+    <li>Afficher le résumé de la conversation <b>*</b></li>
+    <li>Affichage des réponses assistées <b>*</b></li></td>
   </tr>
   <tr>
     <td>Réunions</td>
@@ -96,21 +98,21 @@ Vous trouverez ci-dessous une liste de toutes les autorisations disponibles tri�
   </tr>
   <tr>
     <td>Paramètres d’administration</td>
-    <td><li>Affichage des espaces de travail<b>*</b></li>
-    <li>Gérer les espaces de travail (créer, modifier, supprimer)<b>*</b></li>
+    <td><li>Affichage des espaces de travail <b>*</b></li>
+    <li>Gérer les espaces de travail (créer, modifier, supprimer) <b>*</b></li>
     <li>Affichage d’un tour</li>
     <li>Afficher des règles personnalisées</li>
     <li>Gestion des règles personnalisées (ajout, modification, suppression)</li>
-    <li>Afficher la liste des comptes<b>*</b></li>
-    <li>Gestion des comptes (ajout, modification, suppression)<b>*</b></li>
+    <li>Afficher la liste des comptes <b>*</b></li>
+    <li>Gestion des comptes (ajout, modification, suppression) <b>*</b></li>
     <li>Gestion des paramètres de Chatbot</li>
     <li>Gérer les paramètres de flux de conversation</li>
     <li>Gérer la confidentialité et la sécurité</li>
     <li>Gestion des intégrations</li>
-    <li>Gérer les langues<b>*</b></li>
+    <li>Gérer les langues <b>*</b></li>
     <li>Gestion des agents</li>
-    <li>Affichage des équipes d’agents<b>*</b></li>
-    <li>Gérer les équipes d’agents (ajout, modification, suppression)<b>*</b></li>
+    <li>Affichage des équipes d’agents <b>*</b></li>
+    <li>Gérer les équipes d’agents (ajout, modification, suppression) <b>*</b></li>
     <li>Afficher les limites d’utilisation</li></td>
   </tr>
 </tbody>
