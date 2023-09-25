@@ -2,18 +2,20 @@
 description: Présentation de la messagerie instantanée - Documents Marketo - Documentation du produit
 title: Présentation de la messagerie instantanée
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '254'
 ht-degree: 3%
 
 ---
 
 # Présentation de la messagerie instantanée {#live-chat-overview}
 
-Utilisez la carte de conversation en direct dans le [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} lorsque vous souhaitez que les visiteurs discutent avec un agent en direct.
+Le chat en direct permet aux visiteurs du site Web de discuter en temps réel avec vos agents de vente.
 
 ## Utilisation de la carte de conversation en direct {#using-the-live-chat-card}
+
+Utilisez la carte de conversation en direct dans le [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} lorsque vous souhaitez que les visiteurs discutent avec un agent en direct.
 
 ![](assets/live-chat-overview-1.png)
 

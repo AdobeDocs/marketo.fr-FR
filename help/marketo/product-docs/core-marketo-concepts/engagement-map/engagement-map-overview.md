@@ -2,16 +2,16 @@
 description: Présentation de la carte de l’engagement - Documents Marketo - Documentation du produit
 title: Présentation de la carte des engagements
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
 
 # Présentation de la carte des engagements {#engagement-map-overview}
 
-La carte de l’engagement vous permet de créer des campagnes intelligentes réutilisables à l’aide de visuels intuitifs. Il offre une compatibilité ascendante complète avec toutes les campagnes dynamiques de Marketo Engage existantes, sans perte de fonctionnalités actuelles.
+La carte de l’engagement vous permet de visualiser intuitivement vos campagnes intelligentes. Il offre une compatibilité ascendante complète avec toutes les campagnes dynamiques de Marketo Engage existantes, sans perte de fonctionnalités actuelles.
 
 >[!NOTE]
 >
@@ -77,7 +77,7 @@ Nombre La carte des engagements présente une compatibilité descendante complè
 
 **Avoir une carte de l’engagement en Marketo Engage signifie-t-il que je n’aurai plus accès à la structure de dossiers et devront réapprendre à créer une campagne dynamique ?**
 
-Nombre Ce qui est génial avec la carte de l’engagement, c’est qu’elle vous donne le meilleur des deux mondes ; elle est complémentaire à la façon dont vous créez des campagnes actuellement. Vous pouvez choisir si vous souhaitez utiliser l’interface utilisateur existante ou créer/visualiser dans la nouvelle interface utilisateur. Tous les utilisateurs disposeront toujours d’une puissante fonctionnalité de Marketo Engage, désormais complétée par un outil de création visuelle.
+Nombre Ce qui est génial avec la carte de l’engagement, c’est qu’elle vous donne le meilleur des deux mondes ; elle est complémentaire à la façon dont vous créez des campagnes actuellement. Tous les utilisateurs disposeront toujours d’un ensemble de fonctionnalités puissantes, désormais complétées par des visuels clairs.
 
 **La carte de l’engagement est-elle un module complémentaire payant ?**
 
@@ -86,10 +86,6 @@ Nombre Tous les utilisateurs Marketo Engage existants ou nouveaux sous tous les 
 **En tant qu’administrateur Marketo Engage, suis-je responsable de l’activation/la désactivation de la carte de l’engagement ?**
 
 Nombre La carte de l’engagement sera disponible pour tous les utilisateurs dans leurs instances. Vous ne pourrez pas l’activer/désactiver pour certains utilisateurs, espaces de travail, etc.
-
-**Tout ce qui est actuellement disponible dans les campagnes intelligentes est-il également disponible dans la carte de l’engagement ?**
-
-Oui. La carte de l’engagement présente une parité complète des fonctionnalités avec les campagnes dynamiques.
 
 **En quoi cela diffère-t-il des autres créateurs visuels ?**
 
