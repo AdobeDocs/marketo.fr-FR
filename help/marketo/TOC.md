@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '9106'
+source-wordcount: '9107'
 ht-degree: 5%
 
 ---
@@ -667,6 +667,7 @@ ht-degree: 5%
          + Configuration et configuration {#setup-and-configuration}
             + [Configuration initiale](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [Ajout ou suppression d’utilisateurs de conversation](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Autorisations](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
             + [Configuration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
             + [Paramètres de l’agent](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [Gestion des agents](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
@@ -980,7 +981,7 @@ ht-degree: 5%
             + [Publication d’un tirage](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Sélection des gagnants de tirage](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + Marketing par e-mail {#email-marketing}
-      + Livrabilité {#deliverability}
+      + Délivrabilité {#deliverability}
          + [Désabonnement durable](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Email Deliverability Power Pack : importation d’une liste de contrôle](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Erreurs hard et soft dans les courriers électroniques](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -1825,14 +1826,14 @@ ht-degree: 5%
          + [Présentation de la gestion de compte Target](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Prise en main de la gestion dynamique des balises](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [Émission d’une licence](product-docs/target-account-management/setup-tam/issue-a-license.md)
-         + [Permissions](product-docs/target-account-management/setup-tam/permissions.md)
+         + [Autorisations](product-docs/target-account-management/setup-tam/permissions.md)
          + [Évaluation du compte](product-docs/target-account-management/setup-tam/account-score.md)
          + [Configuration de l’équipe de compte](product-docs/target-account-management/setup-tam/account-team-setup.md)
          + [Création d’un champ personnalisé pour la détection de gestion de la relation client](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
          + [Configuration de Account Insight](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Présentation du module externe Insight du compte](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Invitation d’utilisateurs à accéder à Insight de compte](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Objectif {#target}
+      + Target {#target}
          + Comptes nommés {#named-accounts}
             + [Présentation du compte nommé](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Importer les comptes nommés](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
