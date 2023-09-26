@@ -2,16 +2,16 @@
 description: Présentation du Dynamic Chat - Documents Marketo - Documentation du produit
 title: Présentation du Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: 5e413f280b44691336bd724ddc20936e88d53764
+source-git-commit: 0bc016e63626c880238316ff2130f12a31fdd717
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '696'
 ht-degree: 2%
 
 ---
 
 # Présentation du Dynamic Chat {#dynamic-chat-overview}
 
-Dynamic Chat vous permet d’exploiter une interface conviviale pour cibler à la fois les personnes et les comptes qui visitent votre site web. Collectez le contenu approprié, tel que le nom, les coordonnées et le texte libre. Les visiteurs du site peuvent également réserver des réunions avec votre équipe de vente. Les données d’activité et d’engagement des Dynamic Chat peuvent être utilisées pour ajouter des membres aux programmes Marketo et déclencher des activités cross-canal.
+Dynamic Chat vous permet d’exploiter une interface conviviale pour cibler à la fois les personnes et les comptes qui visitent votre site web. Collectez le contenu approprié, tel que le nom, les coordonnées et le texte libre. Les visiteurs du site peuvent également discuter avec un agent en direct et même réserver des réunions avec votre équipe commerciale. Les données d’activité et d’engagement des Dynamic Chat peuvent être utilisées pour ajouter des membres aux programmes Marketo et déclencher des activités cross-canal.
 
 >[!TIP]
 >
@@ -122,7 +122,7 @@ Le fragment de code JavaScript du Dynamic Chat peut être installé sur n’impo
 
 **Le Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**
 
-Oui. Le Dynamic Chat prend en charge les langues suivantes : français, allemand, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel. En savoir plus dans la section [section](#changing-the-language).
+Oui. Le Dynamic Chat prend en charge les langues suivantes : français, allemand, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel. En savoir plus dans [Modification de la langue](#changing-the-language).
 
 **Prenez-vous en charge la fonctionnalité AI/NLP ?**
 
