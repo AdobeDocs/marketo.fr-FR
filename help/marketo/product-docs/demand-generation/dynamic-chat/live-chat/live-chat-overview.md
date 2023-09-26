@@ -2,16 +2,22 @@
 description: Présentation de la messagerie instantanée - Documents Marketo - Documentation du produit
 title: Présentation de la messagerie instantanée
 feature: Dynamic Chat
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 3%
+source-wordcount: '322'
+ht-degree: 2%
 
 ---
 
 # Présentation de la messagerie instantanée {#live-chat-overview}
 
 Le chat en direct permet aux visiteurs du site Web de discuter en temps réel avec vos agents de vente.
+
+## Ajout d’agents de messagerie instantanée {#add-live-chat-agents}
+
+Pour commencer à parler en direct, vous devez ajouter vos agents de chat en direct en tant que [utilisateurs dans Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. Une fois cette opération terminée, vous pouvez ajouter une [carte de conversation en direct](#using-the-live-chat-card) à un dialogue nouveau ou existant.
+
+Lorsque les visiteurs demandent à dialoguer avec un agent via votre dialogue, les agents ont plusieurs [options de notification](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} où ils peuvent commencer à discuter avec le visiteur.
 
 ## Utilisation de la carte de conversation en direct {#using-the-live-chat-card}
 

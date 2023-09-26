@@ -4,7 +4,7 @@ title: Ajout automatique du paramètre de message de désabonnement
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: b0f62abfe04efd8e72ed8e92442d4a46ea118f33
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,4 +35,4 @@ Assurez-vous que chaque e-mail d’actions Sales Insight envoyé comprend un mes
 
 >[!TIP]
 >
->Si vous désactivez le paramètre d’ajout de message de désabonnement, il est recommandé d’ajouter un pied de page de désabonnement à vos modèles afin de vous assurer que votre communication dispose d’une option d’exclusion. Vous pouvez le faire en ajoutant votre propre message personnalisé à chaque modèle ou en utilisant la variable `{{team_unsubscribe}}` champ dynamique.
+>Si vous désactivez le paramètre d’ajout de message de désabonnement, il est recommandé d’ajouter un pied de page de désabonnement à vos modèles afin de vous assurer que votre communication dispose d’une option d’exclusion. Vous pouvez le faire en ajoutant votre propre message personnalisé à chaque modèle ou en utilisant la variable `{{team_unsubscribe}}` [champ dynamique](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.

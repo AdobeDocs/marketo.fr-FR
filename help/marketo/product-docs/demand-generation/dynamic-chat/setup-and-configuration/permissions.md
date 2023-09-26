@@ -1,21 +1,19 @@
 ---
 description: Autorisations - Documents Marketo - Documentation du produit
 title: Autorisations
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ca158295a492edfa74c97f98196021767364f692
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 5%
+source-wordcount: '396'
+ht-degree: 4%
 
 ---
 
 # Autorisations {#permissions}
 
-Gérez l’accès des utilisateurs aux différentes zones de Dynamic Chat.
+Il existe cinq profils par défaut avec des autorisations prédéfinies que vous pouvez modifier en Dynamic Chat. Vous pouvez également créer un profil personnalisé avec un ensemble personnalisé d’autorisations. Passons en revue les deux.
 
-## Personnalisation des autorisations {#customize-permissions}
+## Modifier les autorisations existantes {#edit-existing-permissions}
 
 1. Dans le [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
 
@@ -29,11 +27,11 @@ Gérez l’accès des utilisateurs aux différentes zones de Dynamic Chat.
 
    ![](assets/permissions-3.png)
 
-1. Sélectionnez la zone de Dynamic Chat à modifier. Puisque nous avons choisi le profil de l’agent en direct, nous sélectionnons Conversation en direct. Cliquez sur l’icône en forme de crayon.
+1. Sélectionnez la zone du profil que vous souhaitez modifier. Dans cet exemple, nous choisissons la messagerie instantanée. Cliquez sur l’icône en forme de crayon.
 
    ![](assets/permissions-4.png)
 
-1. Tous les éléments d’autorisation disponibles se trouvent à gauche. Vous pouvez choisir d’ajouter les autorisations une par une ou toutes à la fois. Dans cet exemple, nous choisissons tous. Cliquez sur le bouton **+ Ajouter tout** bouton .
+1. Les éléments d’autorisation disponibles sont répertoriés à gauche. Vous pouvez choisir d’ajouter les autorisations une par une ou toutes à la fois. Dans cet exemple, il n’y en a qu’un seul disponible, nous ajoutons celui-ci. Cliquez sur le bouton **+** signe.
 
    ![](assets/permissions-5.png)
 
@@ -45,9 +43,30 @@ Gérez l’accès des utilisateurs aux différentes zones de Dynamic Chat.
 
    ![](assets/permissions-6.png)
 
-Vous pouvez désormais répéter ce processus pour toutes les autres zones de Dynamic Chat.
+Vous pouvez désormais répéter ce processus pour toute autre zone de Dynamic Chat.
 
 ![](assets/permissions-7.png)
+
+## Création d’un profil {#create-a-profile}
+
+1. Dans le [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
+
+   ![](assets/permissions-8.png)
+
+1. Dans le **Profils de produit** , cliquez sur **Nouveau profil**.
+
+   ![](assets/permissions-9.png)
+
+1. **Nom** votre profil de produit. Vous pouvez éventuellement lui attribuer un nom d’affichage et/ou une description, et choisir de faire en sorte que les utilisateurs soient informés lorsqu’ils sont ajoutés/supprimés. Cliquez sur **Enregistrer** une fois terminé.
+
+   ![](assets/permissions-10.png)
+
+1. Votre nouveau profil apparaîtra dans l’onglet Profils de produit . Sélectionnez-le.
+
+   ![](assets/permissions-11.png)
+
+1. Suivez maintenant les étapes 3 à 6 de la [section ci-dessus](#edit-existing-permissions) pour chaque zone souhaitée.
+
 
 ## Liste des autorisations {#list-of-permissions}
 
