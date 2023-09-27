@@ -2,9 +2,9 @@
 description: Notes de mise à jour - Septembre 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Septembre 2023
 feature: Release Information
-source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
+source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '889'
 ht-degree: 5%
 
 ---
@@ -267,3 +267,5 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
 ## Annonces {#announcements}
 
 * **Basculer vers l’obsolescence pour les ressources de Design Studio**: le commutateur à bascule qui permet aux utilisateurs de basculer entre l’interface classique et l’expérience utilisateur moderne pour Design Studio sera obsolète, ainsi que l’ancienne version de l’expérience Design Studio, ce qui permet aux utilisateurs de migrer complètement vers l’expérience utilisateur moderne. [En savoir plus ici](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
+
+* **_Webinaire sur la version du produit_**: [Webinaire de mise à jour des Marketo Engage de juillet et septembre 2023](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
