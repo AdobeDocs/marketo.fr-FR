@@ -2,9 +2,9 @@
 description: Notes de mise à jour - Septembre 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Septembre 2023
 feature: Release Information
-source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
+source-git-commit: 91abb47c44297f3b87646840aebf72d64a9a3a8d
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '937'
 ht-degree: 5%
 
 ---
@@ -265,6 +265,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
 <br/>
 
 ## Annonces {#announcements}
+
+* **Obsolescence des événements Marketo et des moments Marketo**: à compter du 2 octobre 2023, Adobe supprimera les événements Marketo et les moments Marketo de toutes les boutiques d’applications. Utilisateurs existants : vous pouvez continuer à utiliser ces applications jusqu’à ce que vous migriez votre instance de Marketo Engage vers Adobe Identity. Ces applications ne prennent pas en charge la connexion avec Adobe ID.
 
 * **Basculer vers l’obsolescence pour les ressources de Design Studio**: le commutateur à bascule qui permet aux utilisateurs de basculer entre l’interface classique et l’expérience utilisateur moderne pour Design Studio sera obsolète, ainsi que l’ancienne version de l’expérience Design Studio, ce qui permet aux utilisateurs de migrer complètement vers l’expérience utilisateur moderne. [En savoir plus ici](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
