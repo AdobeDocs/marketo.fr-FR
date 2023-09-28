@@ -2,7 +2,8 @@
 description: Document d’instance hérité Votre configuration - Documents Marketo - Documentation du produit
 title: Document d’instance hérité de votre configuration
 feature: Getting Started
-source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
+exl-id: 5a3fc755-0d1d-450a-bde6-9e27ea0cae8e
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 1%

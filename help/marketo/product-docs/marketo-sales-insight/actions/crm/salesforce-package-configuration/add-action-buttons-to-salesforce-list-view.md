@@ -1,10 +1,11 @@
 ---
 description: Ajout de boutons d’action à la vue Liste Salesforce - Documents Marketo - Documentation du produit
 title: Ajouter des boutons d’action en mode Liste Salesforce
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+exl-id: 347cc5d2-dd7a-4221-b00f-812cf484938a
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 

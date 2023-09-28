@@ -2,7 +2,8 @@
 description: Présentation du flux de conversation - Documents Marketo - Documentation du produit
 title: Aperçu du flux de conversation
 feature: Dynamic Chat
-source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
+exl-id: a48f78c8-77d6-4c83-9dbd-c905cd9b6b47
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%

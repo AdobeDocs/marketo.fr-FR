@@ -1,7 +1,8 @@
 ---
 description: Pourquoi mes emails sont-ils marqués comme indésirables ? - Documents Marketo - Documentation du produit
 title: Pourquoi mes emails sont-ils marqués comme indésirables ?
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+exl-id: 09fbfd78-fd06-4350-ad22-c0ff5e08394d
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -14,7 +15,7 @@ En tant qu’entreprise, nous travaillons dur pour nous assurer que nos taux de 
 
 **Vérifiez vos paramètres**
 
-* Suivi des domaines personnalisés : Cela vous permet de voir tous vos liens de suivi tels quels.&quot;yourdomain&quot; au lieu de go.toutapp. Un certain niveau de sécurité des emails indique que l’email provient de &quot;votre domaine&quot;, mais que le lien est redirigé vers go.toutapp. En implémentant le suivi des liens de domaine personnalisés, vos emails auront l’air légitime et auront une probabilité plus élevée d’accéder à la boîte de réception du destinataire.
+* Suivi des domaines personnalisés : permet d’afficher tous les liens de suivi en cours.&quot;yourdomain&quot; au lieu de go.toutapp. Un certain niveau de sécurité des emails indique que l’email provient de &quot;votre domaine&quot;, mais que le lien est redirigé vers go.toutapp. En implémentant le suivi des liens de domaine personnalisés, vos emails auront l’air légitime et auront une probabilité plus élevée d’accéder à la boîte de réception du destinataire.
 
 **Vérifier vos comportements d&#39;email**
 

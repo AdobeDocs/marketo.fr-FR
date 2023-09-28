@@ -1,16 +1,17 @@
 ---
 description: Notes de mise à jour - Mai 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Mai 2023
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+exl-id: e647fefc-e4f1-46e5-b688-887989f5feea
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Notes de mise à jour : Mai 2023 {#release-notes-may-23}
+# Notes de mise à jour : mai 2023 {#release-notes-may-23}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 mai. Vérifiez la disponibilité de votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 mai. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
@@ -24,7 +25,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 </br>
 
-* **Interface de Adobe Experience Cloud**: Aligne le Marketo Engage avec l’Experience Cloud afin de créer une expérience de navigation cohérente sur plusieurs solutions Experience Cloud au cours d’une même session d’utilisateur.
+* **Interface de Adobe Experience Cloud**: aligne le Marketo Engage sur l’Experience Cloud afin de créer une expérience de navigation cohérente sur plusieurs solutions Experience Cloud au cours d’une seule session d’utilisateur.
 
 <table> 
   <tr> 
@@ -33,12 +34,12 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
   <tr> 
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Présentation de l’interface Experience Cloud</a></td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Vue d’ensemble de l’interface  Experience Cloud</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Centre d’aide pour les Marketo Engage**: Le centre d’aide fournit aux utilisateurs Marketo Engage un emplacement central pour trouver des ressources d’aide à partir du produit. En outre, le centre d’aide permet aux utilisateurs d’activer des guides intégrés qui expliquent comment tirer parti des fonctionnalités clés.
+* **Centre d’aide pour les Marketo Engage**: le centre d’aide fournit aux utilisateurs Marketo Engage un emplacement central pour trouver des ressources d’aide à partir du produit. En outre, le centre d’aide permet aux utilisateurs d’activer des guides intégrés qui expliquent comment tirer parti des fonctionnalités clés.
 
 <table> 
   <tr> 

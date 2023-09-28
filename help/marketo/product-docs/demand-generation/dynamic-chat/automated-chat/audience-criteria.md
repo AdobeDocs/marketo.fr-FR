@@ -2,7 +2,8 @@
 description: Critères d’audience - Documents Marketo - Documentation du produit
 title: Critère d’audience
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: ffe62cb7-707d-4b6d-8a66-9240d111191a
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 2%
@@ -111,7 +112,7 @@ Vous avez également la possibilité de regrouper des attributs, au cas où vous
 
 ![](assets/audience-criteria-17.png)
 
-## Cible {#target}
+## Target {#target}
 
 C’est là que vous saisissez la ou les URL sur lesquelles vous souhaitez afficher un dialogue spécifique. Vous avez également la possibilité d’ajouter des exclusions.
 

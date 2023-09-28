@@ -1,7 +1,8 @@
 ---
 description: Utilisation de l’envoi groupé de courriers électroniques de vente dans Salesforce - Documents Marketo - Documentation du produit
 title: Utilisation de l’envoi groupé de courriers électroniques de vente dans Salesforce
-source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
+exl-id: eac77a64-7eaa-48eb-820c-c8e188a234dd
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -42,9 +43,9 @@ Découvrez comment envoyer des emails en bloc dans Salesforce pour vous aider à
 
    >[!TIP]
    >
-   >Utilisation [Catégories épinglées](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} pour faciliter l’accès à vos modèles d’email favoris.
+   >Utilisation [Catégories Pinned](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} pour faciliter l’accès à vos modèles d’email favoris.
 
-   **ÉTAPE FACULTATIVE**: Prévisualisez la personnalisation des champs dynamiques en cliquant sur le bouton **Aperçu des champs dynamiques** bouton .
+   **ÉTAPE FACULTATIVE**: prévisualisez la personnalisation de tout champ dynamique en cliquant sur le bouton **Aperçu des champs dynamiques** bouton .
 
    >[!TIP]
    >
@@ -78,9 +79,9 @@ Découvrez comment envoyer des emails en bloc dans Salesforce pour vous aider à
 
    >[!TIP]
    >
-   >Utilisation [Catégories épinglées](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} pour faciliter l’accès à vos modèles d’email favoris.
+   >Utilisation [Catégories Pinned](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} pour faciliter l’accès à vos modèles d’email favoris.
 
-   **ÉTAPE FACULTATIVE**: Prévisualisez la personnalisation des champs dynamiques en cliquant sur le bouton **Aperçu des champs dynamiques** bouton .
+   **ÉTAPE FACULTATIVE**: prévisualisez la personnalisation de tout champ dynamique en cliquant sur le bouton **Aperçu des champs dynamiques** bouton .
 
    >[!TIP]
    >

@@ -2,7 +2,8 @@
 description: Notes de mise à jour - Juillet 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Juillet 2023
 feature: Release Information
-source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
+exl-id: bda861e3-24a1-4325-9b4c-f65a046d7696
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 6%

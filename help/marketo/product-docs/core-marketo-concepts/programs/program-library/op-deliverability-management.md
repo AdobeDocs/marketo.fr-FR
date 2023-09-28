@@ -2,7 +2,8 @@
 description: Gestion de la délivrabilité des OP - Documents Marketo - Documentation du produit
 title: Gestion de la délivrabilité des OP
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 2c831c7a-f9c9-4308-9610-0e98eeb14288
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 19%

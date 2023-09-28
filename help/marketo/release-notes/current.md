@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
+source-git-commit: 6440f43ab77e32038964bf8272f350bd28474eec
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 8%
+source-wordcount: '329'
+ht-degree: 7%
 
 ---
 
@@ -45,6 +45,17 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Téléchargement de l’enregistrement et de l’affectation d’un co-hôte dans des webinaires interactifs</strong>: vous pouvez désormais ajouter un co-hôte externe pour votre webinaire au cas où l’hôte d’origine ne serait pas disponible. Vous avez également la possibilité de télécharger l’enregistrement du webinaire.</td> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
  </tbody> 
 </table>
 <br/>
@@ -52,3 +63,5 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 ## Annonces {#announcements}
 
 * **Marketo Engage Forms jQuery 1.x**: dans notre version de janvier 2024, nous allons mettre à jour jQuery pour Marketo Engage Forms vers jQuery 3.x. Cela peut avoir un impact sur l’implémentation personnalisée du formulaire basée sur des versions plus anciennes de jQuery.
+
+* **Obsolescence des événements Marketo et des moments Marketo**: à compter du 2 octobre 2023, Adobe supprimera les événements Marketo et les moments Marketo de toutes les boutiques d’applications. Utilisateurs existants : vous pouvez continuer à utiliser ces applications jusqu’à ce que vous migriez votre instance de Marketo Engage vers Adobe Identity. Ces applications ne prennent pas en charge la connexion avec Adobe ID.
