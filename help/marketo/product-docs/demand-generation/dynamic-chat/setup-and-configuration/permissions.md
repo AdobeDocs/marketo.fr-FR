@@ -3,7 +3,7 @@ description: Autorisations - Documents Marketo - Documentation du produit
 title: Autorisations
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 4%
@@ -67,7 +67,6 @@ Vous pouvez désormais répéter ce processus pour toutes les autres zones de Dy
    ![](assets/permissions-11.png)
 
 1. Suivez maintenant les étapes 3 à 6 de la [section ci-dessus](#edit-existing-permissions) pour chaque zone souhaitée.
-
 
 ## Liste des autorisations {#list-of-permissions}
 

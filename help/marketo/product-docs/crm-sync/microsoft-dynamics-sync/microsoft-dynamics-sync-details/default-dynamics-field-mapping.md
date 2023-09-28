@@ -3,7 +3,7 @@ description: Mappage des champs Dynamics par défaut - Documents Marketo - Docum
 title: Mappage des champs Dynamics par défaut
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 42%
@@ -31,7 +31,7 @@ Lors de la synchronisation initiale de votre compte Marketo avec Microsoft, Mark
     <tr>
       <td>Date de création - Microsoft</td>
       <td>Date de création</td>
-      <td>createdon</td>
+      <td>created</td>
     </tr>
     <tr>
       <td>Titre</td>
@@ -70,7 +70,7 @@ Lors de la synchronisation initiale de votre compte Marketo avec Microsoft, Mark
       <td>telephone1</td>
     </tr>
     <tr>
-      <td>Mobile</td>
+      <td>Téléphone portable</td>
       <td>Téléphone mobile</td>
       <td>mobilphone</td>
     </tr>
@@ -201,7 +201,7 @@ Lors de la synchronisation initiale de votre compte Marketo avec Microsoft, Mark
     </tr>
     <tr>
       <td>Société</td>
-      <td>Nom de la société</td>
+      <td>Nom de l’entreprise</td>
       <td>nomentreprise</td>
     </tr>
     <tr>
@@ -250,12 +250,12 @@ Les champs de piste ci-dessous sont synchronisés pour une utilisation interne.
     </tr>
     <tr>
       <td>created On</td>
-      <td>createdon</td>
+      <td>created</td>
     </tr>
   </tbody>
 </table>
 
-## Champs contact {#contact-fields}
+## Champs de contact {#contact-fields}
 
 <table>
   <colgroup>
@@ -272,7 +272,7 @@ Les champs de piste ci-dessous sont synchronisés pour une utilisation interne.
     <tr>
       <td>Date de création - Microsoft</td>
       <td>Date de création</td>
-      <td>createdon</td>
+      <td>created</td>
     </tr>
     <tr>
       <td>Titre</td>
@@ -311,7 +311,7 @@ Les champs de piste ci-dessous sont synchronisés pour une utilisation interne.
       <td>telephone1</td>
     </tr>
     <tr>
-      <td>Mobile</td>
+      <td>Téléphone portable</td>
       <td>Téléphone mobile</td>
       <td>mobilphone</td>
     </tr>
@@ -466,11 +466,11 @@ Les champs Contact ci-dessous sont synchronisés pour une utilisation interne.
     </tr>
     <tr>
       <td>created On</td>
-      <td>createdon</td>
+      <td>created</td>
     </tr>
     <tr>
       <td>parentcustomerid</td>
-      <td>Nom de la société</td>
+      <td>Nom de l’entreprise</td>
     </tr>
   </tbody>
 </table>
@@ -581,8 +581,8 @@ Les champs Contact ci-dessous sont synchronisés pour une utilisation interne.
     </tr>
     <tr>
       <td>Société</td>
-      <td>name</td>
       <td>Nom du compte</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>Nombre d’employés</td>
@@ -610,7 +610,7 @@ Les champs Compte ci-dessous sont synchronisés pour une utilisation interne.
     </tr>
     <tr>
       <td>created On</td>
-      <td>createdon</td>
+      <td>created</td>
     </tr>
   </tbody>
 </table>
@@ -705,7 +705,7 @@ Les champs ci-dessous sont créés dans Marketo mais ne peuvent pas être ajust�
     </tr>
     <tr>
       <td>Type Microsoft</td>
-      <td>Piste ou contact. Si elle est vide, la piste n’existe que comme une personne dans Marketo</td>
+      <td>Prospérité ou Contact. S’il est vide, le prospect n’existe que comme une personne dans Marketo</td>
     </tr>
     <tr>
       <td>Date de création - Microsoft</td>
