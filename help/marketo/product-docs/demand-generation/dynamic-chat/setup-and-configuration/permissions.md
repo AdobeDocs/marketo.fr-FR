@@ -3,10 +3,10 @@ description: Autorisations - Documents Marketo - Documentation du produit
 title: Autorisations
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
+source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 11%
+ht-degree: 10%
 
 ---
 
@@ -75,7 +75,7 @@ Vous trouverez ci-dessous une liste de toutes les autorisations disponibles pour
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Zone de Dynamic Chat</th>
+    <th style="width:25%">Zone de Dynamic Chat</th>
     <th>Autorisations</th>
   </tr>
 </thead>
@@ -140,7 +140,7 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Profil</th>
+    <th style="width:25%">Profil</th>
     <th>Autorisations par défaut</th>
   </tr>
 </thead>
@@ -154,22 +154,22 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <li>Afficher les flux de conversation</li>
     <li>Gérer les flux de conversation (créer, supprimer)</li>
     <li>Publier les flux de conversation</li>
-    <p>
+    <br/>
+    <br/>
     <i>Chat en direct</i>
     <li>s/o</li>
-    <p>
+    <br>
     <br/><i>Réunions</i>
     <li>s/o</li>
-    <p>
-    <br/><i>Analytics</i>
+    <br>
+    <br><i>Analytics</i>
     <li>Affichage des rapports de performances globales</li>
     <li>Afficher les rapports de tchat en direct</li>
     <li>Afficher les rapports sur les réunions</li>
-    <p>
-    <br/><i>Paramètres de l’agent</i>
+    <br>
+    <br><i>Paramètres de l’agent</i>
     <li>s/o</li>
-    <p>
-    <br/><i>Paramètres d’administration</i>
+    <br><i>Paramètres d’administration</i>
     <li>Affichage d’un tour</li>
     <li>Afficher des règles personnalisées</li>
     <li>Afficher la liste des comptes <b>*</b></li>
