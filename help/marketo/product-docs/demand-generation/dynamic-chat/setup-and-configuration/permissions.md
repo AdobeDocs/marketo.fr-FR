@@ -3,7 +3,7 @@ description: Autorisations - Documents Marketo - Documentation du produit
 title: Autorisations
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
+source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 11%
@@ -148,7 +148,6 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
   <tr>
     <td>Utilisateur marketing</td>
     <td><i>Gestion des conversations</i>
-    <p>
     <li>Afficher les boîtes de dialogue</li>
     <li>Gérer les boîtes de dialogue (créer, supprimer)</li>
     <li>Publier les boîtes de dialogue</li>
@@ -156,21 +155,21 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <li>Gérer les flux de conversation (créer, supprimer)</li>
     <li>Publier les flux de conversation</li>
     <p>
-    <p><i>Chat en direct</i></p>
+    <i>Chat en direct</i>
     <li>s/o</li>
     <p>
-    <p><i>Réunions</i></p>
+    <br/><i>Réunions</i>
     <li>s/o</li>
     <p>
-    <p><i>Analytics</i></p>
+    <br/><i>Analytics</i>
     <li>Affichage des rapports de performances globales</li>
     <li>Afficher les rapports de tchat en direct</li>
     <li>Afficher les rapports sur les réunions</li>
     <p>
-    <p><i>Paramètres de l’agent</i></p>
+    <br/><i>Paramètres de l’agent</i>
     <li>s/o</li>
     <p>
-    <p><i>Paramètres d’administration</i></p>
+    <br/><i>Paramètres d’administration</i>
     <li>Affichage d’un tour</li>
     <li>Afficher des règles personnalisées</li>
     <li>Afficher la liste des comptes <b>*</b></li>
