@@ -3,7 +3,7 @@ description: Autorisations - Documents Marketo - Documentation du produit
 title: Autorisations
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
+source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 10%
@@ -154,22 +154,22 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <li>Afficher les flux de conversation</li>
     <li>Gérer les flux de conversation (créer, supprimer)</li>
     <li>Publier les flux de conversation</li>
-    <br/>
-    <br/>
+    <br>
     <i>Chat en direct</i>
     <li>s/o</li>
     <br>
-    <br/><i>Réunions</i>
+    <i>Réunions</i>
     <li>s/o</li>
     <br>
-    <br><i>Analytics</i>
+    <i>Analytics</i>
     <li>Affichage des rapports de performances globales</li>
     <li>Afficher les rapports de tchat en direct</li>
     <li>Afficher les rapports sur les réunions</li>
     <br>
-    <br><i>Paramètres de l’agent</i>
+    <i>Paramètres de l’agent</i>
     <li>s/o</li>
-    <br><i>Paramètres d’administration</i>
+    <br>
+    <i>Paramètres d’administration</i>
     <li>Affichage d’un tour</li>
     <li>Afficher des règles personnalisées</li>
     <li>Afficher la liste des comptes <b>*</b></li>
@@ -179,27 +179,26 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
   <tr>
     <td><b>LiveAgent</b></td>
     <td><i>Gestion des conversations</i>
-    <p>
     <li>Afficher les boîtes de dialogue</li>
     <li>Afficher les flux de conversation</li>
-    <p>
-    <p><i>Chat en direct</i></p>
+    <br>
+    <i>Chat en direct</i>
     <li>Afficher mes conversations</li>
-    <p>
-    <p><i>Réunions</i></p>
+    <br>
+    <i>Réunions</i>
     <li>s/o</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Affichage des rapports de performances globales</li>
     <li>Afficher les rapports de tchat en direct</li>
     <li>Afficher les rapports sur les réunions</li>
-    <p>
-    <p><i>Paramètres de l’agent</i></p>
+    <br>
+    <i>Paramètres de l’agent</i>
     <li>Gérer la disponibilité de la messagerie instantanée</li>
     <li>Connexion à votre calendrier</li>
     <li>Gestion de la disponibilité du calendrier</li>
-    <p>
-    <p><i>Paramètres d’administration</i></p>
+    <br>
+    <i>Paramètres d’administration</i>
     <li>Affichage d’un tour</li>
     <li>Afficher des règles personnalisées</li>
     <li>Afficher la liste des comptes <b>*</b></li>
@@ -209,26 +208,25 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
   <tr>
     <td><b>Agent du calendrier</b></td>
     <td><i>Gestion des conversations</i>
-    <p>
     <li>Afficher les boîtes de dialogue</li>
     <li>Afficher les flux de conversation</li>
-    <p>
-    <p><i>Chat en direct</i></p>
+    <br>
+    <i>Chat en direct</i>
     <li>s/o</li>
-    <p>
-    <p><i>Réunions</i></p>
+    <br>
+    <i>Réunions</i>
     <li>s/o</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Affichage des rapports de performances globales</li>
     <li>Afficher les rapports de tchat en direct</li>
     <li>Afficher les rapports sur les réunions</li>
-    <p>
-    <p><i>Paramètres de l’agent</i></p>
+    <br>
+    <i>Paramètres de l’agent</i>
     <li>Connexion à votre calendrier</li>
     <li>Gestion de la disponibilité du calendrier</li>
-    <p>
-    <p><i>Paramètres d’administration</i></p>
+    <br>
+    <i>Paramètres d’administration</i>
     <li>Affichage d’un tour</li>
     <li>Afficher des règles personnalisées</li>
     <li>Afficher la liste des comptes <b>*</b></li>
@@ -238,30 +236,29 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
   <tr>
     <td><b>Administrateur marketing</b></td>
     <td><i>Gestion des conversations</i>
-    <p>
     <li>Afficher les boîtes de dialogue</li>
     <li>Gérer les boîtes de dialogue (créer, supprimer)</li>
     <li>Publier les boîtes de dialogue</li>
     <li>Afficher les flux de conversation</li>
     <li>Gérer les flux de conversation (créer, supprimer)</li>
     <li>Publier les flux de conversation</li>
-    <p>
-    <p><i>Chat en direct</i></p>
+    <br>
+    <i>Chat en direct</i>
     <li>s/o</li>
-    <p>
-    <p><i>Réunions</i></p>
+    <br>
+    <i>Réunions</i>
     <li>s/o</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Affichage des rapports de performances globales</li>
     <li>Afficher les rapports de tchat en direct</li>
     <li>Afficher les rapports sur les réunions</li>
     <li>Exporter des rapports</li>
-    <p>
-    <p><i>Paramètres de l’agent</i></p>
+    <br>
+    <i>Paramètres de l’agent</i>
     <li>s/o</li>
-    <p>
-    <p><i>Paramètres d’administration</i></p>
+    <br>
+    <i>Paramètres d’administration</i>
     <li>Affichage d’un tour</li>
     <li>Afficher des règles personnalisées</li>
     <li>Gestion des règles personnalisées (ajout, modification, suppression)</li>
@@ -277,29 +274,28 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
   <tr>
     <td><b>Administrateur des ventes</b></td>
     <td><i>Gestion des conversations</i>
-    <p>
     <li>Afficher les boîtes de dialogue</li>
     <li>Afficher les flux de conversation</li>
-    <p>
-    <p><i>Chat en direct</i></p>
+    <br>
+    <i>Chat en direct</i>
     <li>Afficher mes conversations</li>
     <li>Afficher toutes les conversations</li>
-    <p>
-    <p><i>Réunions</i></p>
+    <br>
+    <i>Réunions</i>
     <li>Gérer toutes les réunions</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Affichage des rapports de performances globales</li>
     <li>Afficher les rapports de tchat en direct</li>
     <li>Afficher les rapports sur les réunions</li>
     <li>Exporter des rapports</li>
-    <p>
-    <p><i>Paramètres de l’agent</i></p>
+    <br>
+    <i>Paramètres de l’agent</i>
     <li>Gérer la disponibilité de la messagerie instantanée</li>
     <li>Connexion à votre calendrier</li>
     <li>Gestion de la disponibilité du calendrier</li>
-    <p>
-    <p><i>Paramètres d’administration</i></p>
+    <br>
+    <i>Paramètres d’administration</i>
     <li>Affichage d’un tour</li>
     <li>Afficher des règles personnalisées</li>
     <li>Gestion des règles personnalisées (ajout, modification, suppression)</li>
