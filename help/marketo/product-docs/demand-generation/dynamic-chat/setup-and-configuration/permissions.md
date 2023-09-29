@@ -3,10 +3,10 @@ description: Autorisations - Documents Marketo - Documentation du produit
 title: Autorisations
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 4%
+source-wordcount: '724'
+ht-degree: 11%
 
 ---
 
@@ -91,16 +91,12 @@ Vous trouverez ci-dessous une liste de toutes les autorisations disponibles pour
   </tr>
   <tr>
     <td>Chat en direct</td>
-    <td><li>Boîte de réception de l’agent(e)</li>
-    <li>Afficher mes conversations</li>
+    <td><li>Afficher mes conversations</li>
     <li>Afficher toutes les conversations</li>
-    <li>Afficher le résumé de la conversation <b>*</b></li>
-    <li>Affichage des réponses assistées <b>*</b></li></td>
   </tr>
   <tr>
     <td>Réunions</td>
     <td><li>Gérer toutes les réunions</li>
-    <li>Gérer mes réunions</li></td>
   </tr>
   <tr>
     <td>Analytics</td>
@@ -117,8 +113,156 @@ Vous trouverez ci-dessous une liste de toutes les autorisations disponibles pour
   </tr>
   <tr>
     <td>Paramètres d’administration</td>
-    <td><li>Affichage des espaces de travail <b>*</b></li>
-    <li>Gérer les espaces de travail (créer, modifier, supprimer) <b>*</b></li>
+    <td><li>Affichage d’un tour</li>
+    <li>Afficher des règles personnalisées</li>
+    <li>Gestion des règles personnalisées (ajout, modification, suppression)</li>
+    <li>Afficher la liste des comptes <b>*</b></li>
+    <li>Gestion des comptes (ajout, modification, suppression) <b>*</b></li>
+    <li>Gestion des paramètres de Chatbot</li>
+    <li>Gérer les paramètres de flux de conversation</li>
+    <li>Gérer la confidentialité et la sécurité</li>
+    <li>Gestion des intégrations</li>
+    <li>Gestion des agents</li>
+    <li>Affichage des équipes d’agents <b>*</b></li>
+    <li>Gérer les équipes d’agents (ajout, modification, suppression) <b>*</b></li></td>
+  </tr>
+</tbody>
+</table>
+
+**&#42;** Actuellement disponible uniquement pour les utilisateurs de Dynamic Prime
+
+<p>
+
+## Autorisations de profil par défaut {#default-profile-permissions}
+
+Vous trouverez ci-dessous les cinq profils par défaut et les autorisations activées par défaut.
+
+<table>
+<thead>
+  <tr>
+    <th style="width:30%">Profil</th>
+    <th>Autorisations par défaut</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Utilisateur marketing</td>
+    <td><i>Gestion des conversations</i>
+    <p>
+    <li>Afficher les boîtes de dialogue</li>
+    <li>Gérer les boîtes de dialogue (créer, supprimer)</li>
+    <li>Publier les boîtes de dialogue</li>
+    <li>Afficher les flux de conversation</li>
+    <li>Gérer les flux de conversation (créer, supprimer)</li>
+    <li>Publier les flux de conversation</li>
+    <p>
+    <p><i>Chat en direct</i></p>
+    <li>s/o</li>
+    <p>
+    <p><i>Réunions</i></p>
+    <li>s/o</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Affichage des rapports de performances globales</li>
+    <li>Afficher les rapports de tchat en direct</li>
+    <li>Afficher les rapports sur les réunions</li>
+    <p>
+    <p><i>Paramètres de l’agent</i></p>
+    <li>s/o</li>
+    <p>
+    <p><i>Paramètres d’administration</i></p>
+    <li>Affichage d’un tour</li>
+    <li>Afficher des règles personnalisées</li>
+    <li>Afficher la liste des comptes <b>*</b></li>
+    <li>Affichage des équipes d’agents <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>LiveAgent</b></td>
+    <td><i>Gestion des conversations</i>
+    <p>
+    <li>Afficher les boîtes de dialogue</li>
+    <li>Afficher les flux de conversation</li>
+    <p>
+    <p><i>Chat en direct</i></p>
+    <li>Afficher mes conversations</li>
+    <p>
+    <p><i>Réunions</i></p>
+    <li>s/o</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Affichage des rapports de performances globales</li>
+    <li>Afficher les rapports de tchat en direct</li>
+    <li>Afficher les rapports sur les réunions</li>
+    <p>
+    <p><i>Paramètres de l’agent</i></p>
+    <li>Gérer la disponibilité de la messagerie instantanée</li>
+    <li>Connexion à votre calendrier</li>
+    <li>Gestion de la disponibilité du calendrier</li>
+    <p>
+    <p><i>Paramètres d’administration</i></p>
+    <li>Affichage d’un tour</li>
+    <li>Afficher des règles personnalisées</li>
+    <li>Afficher la liste des comptes <b>*</b></li>
+    <li>Affichage des équipes d’agents <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Agent du calendrier</b></td>
+    <td><i>Gestion des conversations</i>
+    <p>
+    <li>Afficher les boîtes de dialogue</li>
+    <li>Afficher les flux de conversation</li>
+    <p>
+    <p><i>Chat en direct</i></p>
+    <li>s/o</li>
+    <p>
+    <p><i>Réunions</i></p>
+    <li>s/o</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Affichage des rapports de performances globales</li>
+    <li>Afficher les rapports de tchat en direct</li>
+    <li>Afficher les rapports sur les réunions</li>
+    <p>
+    <p><i>Paramètres de l’agent</i></p>
+    <li>Connexion à votre calendrier</li>
+    <li>Gestion de la disponibilité du calendrier</li>
+    <p>
+    <p><i>Paramètres d’administration</i></p>
+    <li>Affichage d’un tour</li>
+    <li>Afficher des règles personnalisées</li>
+    <li>Afficher la liste des comptes <b>*</b></li>
+    <li>Affichage des équipes d’agents <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Administrateur marketing</b></td>
+    <td><i>Gestion des conversations</i>
+    <p>
+    <li>Afficher les boîtes de dialogue</li>
+    <li>Gérer les boîtes de dialogue (créer, supprimer)</li>
+    <li>Publier les boîtes de dialogue</li>
+    <li>Afficher les flux de conversation</li>
+    <li>Gérer les flux de conversation (créer, supprimer)</li>
+    <li>Publier les flux de conversation</li>
+    <p>
+    <p><i>Chat en direct</i></p>
+    <li>s/o</li>
+    <p>
+    <p><i>Réunions</i></p>
+    <li>s/o</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Affichage des rapports de performances globales</li>
+    <li>Afficher les rapports de tchat en direct</li>
+    <li>Afficher les rapports sur les réunions</li>
+    <li>Exporter des rapports</li>
+    <p>
+    <p><i>Paramètres de l’agent</i></p>
+    <li>s/o</li>
+    <p>
+    <p><i>Paramètres d’administration</i></p>
     <li>Affichage d’un tour</li>
     <li>Afficher des règles personnalisées</li>
     <li>Gestion des règles personnalisées (ajout, modification, suppression)</li>
@@ -128,11 +272,44 @@ Vous trouverez ci-dessous une liste de toutes les autorisations disponibles pour
     <li>Gérer les paramètres de flux de conversation</li>
     <li>Gérer la confidentialité et la sécurité</li>
     <li>Gestion des intégrations</li>
-    <li>Gérer les langues <b>*</b></li>
+    <li>Affichage des équipes d’agents <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Administrateur des ventes</b></td>
+    <td><i>Gestion des conversations</i>
+    <p>
+    <li>Afficher les boîtes de dialogue</li>
+    <li>Afficher les flux de conversation</li>
+    <p>
+    <p><i>Chat en direct</i></p>
+    <li>Afficher mes conversations</li>
+    <li>Afficher toutes les conversations</li>
+    <p>
+    <p><i>Réunions</i></p>
+    <li>Gérer toutes les réunions</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Affichage des rapports de performances globales</li>
+    <li>Afficher les rapports de tchat en direct</li>
+    <li>Afficher les rapports sur les réunions</li>
+    <li>Exporter des rapports</li>
+    <p>
+    <p><i>Paramètres de l’agent</i></p>
+    <li>Gérer la disponibilité de la messagerie instantanée</li>
+    <li>Connexion à votre calendrier</li>
+    <li>Gestion de la disponibilité du calendrier</li>
+    <p>
+    <p><i>Paramètres d’administration</i></p>
+    <li>Affichage d’un tour</li>
+    <li>Afficher des règles personnalisées</li>
+    <li>Gestion des règles personnalisées (ajout, modification, suppression)</li>
+    <li>Afficher la liste des comptes <b>*</b></li>
+    <li>Gestion des comptes (ajout, modification, suppression) <b>*</b></li>
     <li>Gestion des agents</li>
     <li>Affichage des équipes d’agents <b>*</b></li>
-    <li>Gérer les équipes d’agents (ajout, modification, suppression) <b>*</b></li>
-    <li>Afficher les limites d’utilisation</li></td>
+    <li>Gérer les équipes d’agents <b>*</b></li>
+    </td>
   </tr>
 </tbody>
 </table>
