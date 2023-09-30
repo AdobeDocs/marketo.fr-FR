@@ -4,16 +4,16 @@ description: Configuration minimale requise - Documents Marketo - Documentation 
 title: Configuration système minimale
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # Configuration système minimale {#minimum-system-requirements}
 
-Si vous vous demandez ce dont vous avez besoin pour vous connecter et utiliser Marketo, voici les informations que vous recherchez.
+Si vous vous demandez ce dont vous avez besoin pour vous connecter et utiliser Marketo Engage, voici les informations que vous recherchez.
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ Si vous vous demandez ce dont vous avez besoin pour vous connecter et utiliser M
 
 >[!NOTE]
 >
->Si votre équipe informatique restreint l’accès web à l’aide d’une liste autorisée, demandez-lui d’ajouter `*.marketo.com` pour autoriser toutes les ressources et tous les websockets Marketo.
+>Si votre équipe informatique restreint l’accès web à l’aide d’une liste autorisée, demandez-lui d’ajouter `*.marketo.com`, `*.adobe.com`, et `*.adobe.net` pour autoriser toutes les ressources de Marketo Engage et tous les websockets.
